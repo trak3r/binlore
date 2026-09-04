@@ -31,6 +31,32 @@ npx quartz build --serve
 
 Open http://localhost:8080
 
+## VOD ingest (Phase 1)
+
+Pull Twitch VODs, archive full transcripts, and stub episode pages.
+
+**System deps:** `brew install yt-dlp ffmpeg`  
+**Python:** Node not required for this part — use the tools venv:
+
+```bash
+cd tools
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -e .
+
+binlore vods --limit 10
+binlore ingest --latest                    # newest VOD
+binlore ingest "https://www.twitch.tv/videos/ID" --model small
+```
+
+Artifacts (gitignored audio; keep transcripts locally for reprocessing):
+
+- `tools/runs/<vod-id>/meta.json`
+- `tools/runs/<vod-id>/transcript.json` + `.txt`
+- `content/episodes/YYYY-MM-DD.md` stub
+
+See [`tools/README.md`](tools/README.md). Character/segment lore extraction is Phase 2.
+
 ## Publish (GitHub Pages)
 
 1. Create an empty GitHub repo and set it as `origin` (keep Quartz upstream if you want upgrades):
@@ -55,9 +81,10 @@ Open http://localhost:8080
 
 ## Roadmap (later phases)
 
-- VOD ingest (audio download + Whisper transcript)
-- LLM segment/character extraction
-- Proposed wiki edits via PR for human review
+- [x] VOD ingest (audio download + Whisper transcript)
+- [ ] LLM segment/character extraction
+- [ ] Proposed wiki edits via PR for human review
+- [ ] Optional: face-filter / voice-FX persona matching
 
 ## License
 

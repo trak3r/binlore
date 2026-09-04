@@ -9,8 +9,9 @@ private/
 .replit
 replit.nix
 
-# Future VOD pipeline artifacts (do not commit audio/video)
+# VOD pipeline artifacts (do not commit audio/video)
 tools/runs/
+tools/.venv/
 *.mp3
 *.m4a
 *.wav
