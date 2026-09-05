@@ -81,3 +81,25 @@ binlore extract --latest --model google/gemma-4-31b-it:free
    - Characters detected on air with Quartz wikilinks (`[[characters/crum|Crum]]`)
    - Storyline beats and feuds (`[[storylines/munch-crum-rivalry|Munch–Crum rivalry]]`)
    - Timestamped lore notes ready for human review before publishing
+
+### 4. Reclaim disk space (`binlore clean`)
+
+Audio files take ~150 MB per 2-hour stream. Once transcribed, you can delete the raw audio/media files while keeping all transcripts, metadata, and wiki entries:
+
+```bash
+# Preview what would be deleted and total disk space freed
+binlore clean --dry-run
+
+# Delete media across all completed runs
+binlore clean
+
+# Keep media for the N most recent runs and delete older ones
+binlore clean --keep 1
+
+# Delete media for a specific VOD
+binlore clean 2863722826
+
+# Force delete media even if transcription was aborted/incomplete
+binlore clean --force
+```
+

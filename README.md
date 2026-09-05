@@ -159,6 +159,26 @@ git push origin main
 
 The GitHub Actions workflow automatically builds and deploys to [https://trak3r.github.io/binlore/](https://trak3r.github.io/binlore/).
 
+### Step 6: Reclaim Disk Space (`binlore clean`)
+
+Stream audio files take ~150 MB per 2-hour VOD. Once transcription is finished, you can safely remove the audio files to free up disk space while preserving all transcripts, metadata, and wiki content:
+
+```bash
+cd tools && source .venv/bin/activate
+
+# Preview which files would be deleted and space saved
+binlore clean --dry-run
+
+# Delete audio files across all completed runs
+binlore clean
+
+# Keep the most recent stream's audio and delete older ones
+binlore clean --keep 1
+
+# Clean a specific VOD
+binlore clean 2863722826
+```
+
 ---
 
 ## Wiki Structure & Writing Lore

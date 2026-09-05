@@ -5,6 +5,7 @@ import sys
 from pathlib import Path
 
 from . import __version__
+from .clean import execute_clean, find_cleanable_runs
 from .extract import DEFAULT_MODEL, extract_lore_from_vod
 from .ingest import ingest
 from .paths import RUNS_DIR
@@ -107,6 +108,20 @@ def cmd_extract(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_clean(args: argparse.Namespace) -> int:
+    targets = find_cleanable_runs(
+        target_vod_id=args.target,
+        keep_latest=args.keep,
+        force=args.force,
+    )
+    if not targets:
+        print("No media files found to clean.")
+        return 0
+
+    execute_clean(targets, dry_run=args.dry_run)
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(
         prog="binlore",
@@ -166,6 +181,26 @@ def build_parser() -> argparse.ArgumentParser:
         help="Preview prompt and token estimate without calling OpenRouter",
     )
     ext.set_defaults(func=cmd_extract)
+
+    clean = sub.add_parser("clean", help="Delete downloaded media files (audio/video) to reclaim disk space")
+    clean.add_argument("target", nargs="?", help="VOD ID or Twitch URL (defaults to all completed runs)")
+    clean.add_argument(
+        "--keep",
+        type=int,
+        default=0,
+        help="Number of latest runs to keep media files for (default: 0 = delete all)",
+    )
+    clean.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Preview media files and space to be freed without deleting",
+    )
+    clean.add_argument(
+        "--force",
+        action="store_true",
+        help="Clean media even if transcription is missing or incomplete",
+    )
+    clean.set_defaults(func=cmd_clean)
 
     return p
 
