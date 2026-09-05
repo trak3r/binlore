@@ -121,15 +121,27 @@ def _match_character_file(name: str, canon: dict[str, list[CanonEntity]]) -> tup
     # Check direct file match
     target = CONTENT_CHARACTERS / f"{slug}.md"
     if target.exists():
-        return target, slug
+        return target, target.stem
 
     # Check known aliases
     for char in canon.get("characters", []):
         if char.name.lower() == name_clean.lower() or slug == _slugify(char.name):
-            return char.file_path, _slugify(char.name)
+            return char.file_path, (char.file_path.stem if char.file_path else slug)
         for alias in char.aliases:
             if alias.lower() == name_clean.lower() or slug == _slugify(alias):
-                return char.file_path, _slugify(char.name)
+                return char.file_path, (char.file_path.stem if char.file_path else slug)
+
+    # Heuristic shortcuts for canonical aliases
+    if "munch" in slug or "munchcut" in slug or "ralph" in slug:
+        return CONTENT_CHARACTERS / "munch.md", "munch"
+    if "chet" in slug or "manscape" in slug:
+        return CONTENT_CHARACTERS / "chet.md", "chet"
+    if "hype" in slug or "hyper" in slug:
+        return CONTENT_CHARACTERS / "hype-train.md", "hype-train"
+    if "cryptozeus" in slug:
+        return CONTENT_CHARACTERS / "cryptozeus.md", "cryptozeus"
+    if "ripple" in slug or "hooper" in slug:
+        return CONTENT_CHARACTERS / "jeff-ripple.md", "jeff-ripple"
 
     return None, slug
 
@@ -157,6 +169,8 @@ def _match_segment_file(title: str, canon: dict[str, list[CanonEntity]]) -> Path
         if any(k in title_lower for k in ("science", "chet", "skynce", "microscope")) and "chet" in seg_lower:
             return seg.file_path
         if any(k in title_lower for k in ("news", "breaking", "pentagon", "epstein")) and seg_lower == "news":
+            return seg.file_path
+        if any(k in title_lower for k in ("amongst", "memes", "web")) and "amongst" in seg_lower:
             return seg.file_path
     return None
 

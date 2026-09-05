@@ -103,16 +103,20 @@ def _format_character_link(name: str) -> str:
     # Check common aliases
     if slug in ("crumb", "crum"):
         return "[[characters/crum|Crum]]"
-    if slug in ("munch", "monch"):
-        return "[[characters/munch|Munch]]"
+    if "munch" in slug or "munchcut" in slug or "ralph" in slug:
+        return "[[characters/munch|Munch (Ralph Munchcut)]]"
     if "blackwell" in slug or slug == "case":
         return "[[characters/case-blackwell|Case Blackwell]]"
-    if "chet" in slug or "science" in slug or "skynce" in slug:
-        return "[[characters/chet-guy-the-science-eyes|Chet Guy the Science Eyes]]"
+    if "chet" in slug or "manscape" in slug or "science" in slug or "skynce" in slug:
+        return "[[characters/chet|Chet (Chet Manscape)]]"
+    if "cryptozeus" in slug:
+        return "[[characters/cryptozeus|Cryptozeus]]"
+    if "ripple" in slug or "hooper" in slug:
+        return "[[characters/jeff-ripple|Jeff Ripple]]"
     if "pepito" in slug:
         return "[[characters/pepito|Pepito]]"
-    if "hyper" in slug and "train" in slug:
-        return "[[characters/hyper-train|Hyper Train]]"
+    if "hype" in slug or "hyper" in slug:
+        return "[[characters/hype-train|Hype Train]]"
     return name
 
 
@@ -123,7 +127,7 @@ def _format_segment_link(name: str) -> str:
         return f"[[segments/{slug}|{name}]]"
     if "debate" in slug or ("munch" in slug and "crum" in slug):
         return f"[[segments/munch-and-crum|{name}]]"
-    if "hype" in slug:
+    if "hype" in slug or "hyper" in slug:
         return f"[[segments/hype-train|{name}]]"
     if "news" in slug:
         return f"[[segments/news|{name}]]"
@@ -131,6 +135,8 @@ def _format_segment_link(name: str) -> str:
         return f"[[segments/cryptozeus|{name}]]"
     if "chet" in slug or "science" in slug or "skynce" in slug:
         return f"[[segments/chet-guy-the-science-eyes|{name}]]"
+    if "amongst" in slug or "web" in slug:
+        return f"[[segments/amongst-the-web|{name}]]"
     return name
 
 

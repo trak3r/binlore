@@ -15,7 +15,7 @@ tags:
 
 ![Chet Guy the Science Eyes](https://github.com/trak3r/binlore/releases/download/media-assets/chet-guy-the-science-eyes.jpg)
 
-The show's satirical science and medical research segment (parodying Bill Nye the Science Guy).
+The show's satirical science and medical research segment (parodying Bill Nye the Science Guy), hosted by [[../characters/chet|Chet (Chet Manscape)]].
 
 ## Format
 

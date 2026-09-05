@@ -14,7 +14,7 @@ tags:
 
 ![Cryptozeus Gameplay](https://github.com/trak3r/binlore/releases/download/media-assets/cryptozeus.jpg)
 
-The live gaming and playthrough segment of *Barely Informed News*.
+The live gaming and playthrough segment of *Barely Informed News*, hosted by [[../characters/cryptozeus|Cryptozeus]].
 
 ## Format
 

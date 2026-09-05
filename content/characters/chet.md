@@ -1,7 +1,9 @@
 ---
-title: Chet Guy the Science Eyes
+title: Chet (Chet Manscape)
 type: character
 aliases:
+  - Chet
+  - Chet Manscape
   - Chet Guy
   - Science Eyes
   - Skynce
@@ -13,15 +15,17 @@ tags:
   - science
 ---
 
-# Chet Guy the Science Eyes
+# Chet (Chet Manscape)
 
-![Chet Guy the Science Eyes](https://github.com/trak3r/binlore/releases/download/media-assets/chet-guy-the-science-eyes.jpg)
+![Chet on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/chet-guy-the-science-eyes.jpg)
 
-**Chet Guy the Science Eyes** is the eccentric scientific expert on *Barely Informed News* (parodying Bill Nye the Science Guy). Like all on-air characters, he is portrayed by [[case-blackwell|Case Blackwell]] wearing a patterned purple blazer and featuring a large optical microscope at the news desk.
+**Chet** (full name: **Chet Manscape**) is the eccentric science correspondent on *Barely Informed News*, featured as the host of the parody science segment [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]].
+
+Like all on-air characters, Chet is portrayed by [[case-blackwell|Case Blackwell]] wearing a patterned purple blazer and featuring a large optical microscope at the news desk.
 
 ## Overview
 
-Chet Guy analyzes unusual scientific studies, medical journal papers, and anatomical surveys with straight-faced academic authority and wildly absurd conclusions.
+Chet analyzes unusual scientific studies, medical journal papers, and anatomical surveys with straight-faced academic authority and wildly absurd conclusions.
 
 ## Appearances
 
@@ -37,4 +41,4 @@ Chet Guy analyzes unusual scientific studies, medical journal papers, and anatom
 
 ## Open questions
 
-- Full backstory and recurring segment catchphrases
+- Full backstory and recurring catchphrases
