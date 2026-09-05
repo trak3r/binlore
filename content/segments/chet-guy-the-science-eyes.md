@@ -33,6 +33,8 @@ Chet analyzes bizarre medical research papers, scientific journal findings, and 
 
 ## Known occurrences
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 1:03:22 | Triggered after news desk slips and says "scientists." Chet and [[../characters/chet-ai|ChetAI]] analyze a Brazilian Journal of Plastic Surgery ratio study, concluding that 'all boobs is good.' |
+| [[episodes/2026-09-04|2026-09-04]] | 01:36:13 | Chet Manscape on The Family International Cult: Chet Manscape spontaneously takes over (via ChetAI/blue-light sunglasses) to investigate The Family International cult behind 'Cathy Don't Go.' He plays a 52-min deep dive from 'Crimes in Catastrophe' about David Berg's 1960s 'Children of God' cult, noting its many name changes and warnings about them using AI to 'compromise' minds. Casey watches only the intro and the SOS video before bantering about Charles Manson and Marilyn Manson getting away with cult stuff via music. |

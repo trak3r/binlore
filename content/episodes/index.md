@@ -17,11 +17,11 @@ Complete stream archive tracked for *Barely Informed News*. Episodes are ingeste
     <div class="stat-label">Total Broadcast Lore</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">1</div>
+    <div class="stat-value">2</div>
     <div class="stat-label">Ingested & Extracted</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">375</div>
+    <div class="stat-value">374</div>
     <div class="stat-label">Pending Ingestion Backlog</div>
   </div>
 </div>
@@ -39,8 +39,8 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   <div class="filter-group">
     <select id="status-filter">
       <option value="all">All Statuses (376)</option>
-      <option value="ingested">Ingested Only (1)</option>
-      <option value="backlog">Backlog Only (375)</option>
+      <option value="ingested">Ingested Only (2)</option>
+      <option value="backlog">Backlog Only (374)</option>
     </select>
     <select id="page-size">
       <option value="25">25 per page</option>
@@ -63,7 +63,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
     </tr>
   </thead>
   <tbody>
-<tr data-status="backlog" data-title="artificially general news"><td>#1</td><td>Artificially General News</td><td>1:51:30</td><td><span class="badge badge-backlog">⏳ Backlog</span></td><td><a href="https://www.youtube.com/watch?v=LqjPBi9lw_c" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
+<tr data-status="ingested" data-title="artificially general news"><td>#1</td><td>**[[2026-09-04|Artificially General News]]**</td><td>1:51:30</td><td><span class="badge badge-ingested">✓ Ingested</span></td><td><a href="https://www.youtube.com/watch?v=LqjPBi9lw_c" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="high t wednesday news"><td>#2</td><td>**[[2026-09-02|High T Wednesday News]]**</td><td>2:10:12</td><td><span class="badge badge-ingested">✓ Ingested</span></td><td><a href="https://www.youtube.com/watch?v=ussukWsFgWI" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="the quickest latest news"><td>#3</td><td>The Quickest Latest News</td><td>1:33:04</td><td><span class="badge badge-backlog">⏳ Backlog</span></td><td><a href="https://www.youtube.com/watch?v=ZSjvjEED3KA" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="expertly negotiated news"><td>#4</td><td>Expertly Negotiated News</td><td>2:04:58</td><td><span class="badge badge-backlog">⏳ Backlog</span></td><td><a href="https://www.youtube.com/watch?v=yP72J5CJWXw" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>

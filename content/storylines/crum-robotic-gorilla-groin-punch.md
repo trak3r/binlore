@@ -34,6 +34,7 @@ tags:
 | [[../episodes/2026-09-02|2026-09-02]] [49:58] | Crum crashes into the news desk unprompted to defend himself from slander, then blurts out that he will be "getting my penis punched on Monday." |
 | [[../episodes/2026-09-02|2026-09-02]] [1:13:35] | During the [[../segments/munch-and-crum|Munch & Crum]] debate, Munch reads a community-submitted Discord list of reasons why Crum deserves to get his dick punched (bald, bitch, overhyped hand game). |
 | [[../episodes/2026-09-02|2026-09-02]] [1:24:51] | Crum delivers his closing manifesto on the bet: claims his groin is conditioned and challenges the robot gorilla's fist directly. |
+| [[../episodes/2026-09-04|2026-09-04]] [01:08:14] | Chat confirms the robotic gorilla groin punch is locked in for Labor Day Monday; Case announces a special "big bad boy stream" to settle the bet before he leaves the country on vacation. |
 
 ## Related Pages
 

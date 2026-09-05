@@ -23,6 +23,7 @@ While the rivalry is permanent, it branches into specific episodic storylines an
 ## Key beats
 
 
+
 | Date / episode | Beat | Source |
 |----------------|------|--------|
 | [[episodes/2026-09-02|2026-09-02]] [49:58] | Crum barges into the Epstein-files segment defending himself; escalates into the formal debate where Munch reads a community-thread list justifying violence toward Crum. Crum declares he is 'getting my penis punched on Monday' and has been training, claiming 'super strength in spits.' | [[episodes/2026-09-02#storyline-updates|Episode 2026-09-02]] |
@@ -30,6 +31,7 @@ While the rivalry is permanent, it branches into specific episodic storylines an
 | [[episodes/2026-09-02|2026-09-02]] [1:16:59] | Best Boob Club lore expansion: Crum hosts the club at his house but is told 'you're just the host, you're not a member'; Munch presses him with a candle prompt. | [[episodes/2026-09-02#storyline-updates|Episode 2026-09-02]] |
 | [[episodes/2026-09-02|2026-09-02]] [1:24:51] | Crum offers a closing threat: 'My penis can handle a lot... good luck to that gorilla's fist'; promises Monday confrontation. | [[episodes/2026-09-02#storyline-updates|Episode 2026-09-02]] |
 | [[episodes/2026-09-02|2026-09-02]] [1:21:19] | Today's debate prompt ('Christian vs Kendall') is hijacked by the Crum penis-punch thread; chat vote ends in a 'pretty big margin' win for Christian. | [[episodes/2026-09-02#storyline-updates|Episode 2026-09-02]] |
+| [[episodes/2026-09-04|2026-09-04]] [16:21] | Munch & Crum segment hijacked into a body-swap instead. Crum appears briefly asking for attention, then disappears ('snake powers'). Crum is later merged with Peter Gibbon into 'Scrotum'; Munch is implied to be elsewhere ('if something with me is happening I would like to be involved'). | [[episodes/2026-09-04#storyline-updates|Episode 2026-09-04]] |
 
 ## Open threads
 

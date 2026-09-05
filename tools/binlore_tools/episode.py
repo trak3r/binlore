@@ -4,7 +4,7 @@ import json
 from pathlib import Path
 from typing import Any
 
-from .paths import CONTENT_CHARACTERS, CONTENT_EPISODES, CONTENT_STORYLINES, RUNS_DIR
+from .paths import CONTENT_CHARACTERS, CONTENT_EPISODES, CONTENT_SEGMENTS, CONTENT_STORYLINES, RUNS_DIR
 from .vods import Vod, format_duration
 
 

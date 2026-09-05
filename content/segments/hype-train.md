@@ -25,6 +25,8 @@ The regular broadcast is interrupted by a neon-bordered synthwave landscape feat
 
 ## Known occurrences
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 17:13 | Hyper Train arrives with Piss Fruit Ninja promo, vaudeville beat requests, and crypto-universe banter. |
+| [[episodes/2026-09-04|2026-09-04]] | 01:11:00 | Hype Train Egg-Sauce Raps & Sub Thank-Yous: Hype Train persona spontaneously appears, ranting about eggs not having sauce inside them. Performs two Dr. Seuss-style 'egg-type beats' rapping about egg sauce. Accidentally causes an unfollow. Also shouts out subs (s1000, Skymer, Giggle Trash, Mighty Oz, Apple to Apple, etc.) and the $42-month resub. |

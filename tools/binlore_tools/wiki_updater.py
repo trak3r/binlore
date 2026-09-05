@@ -144,12 +144,20 @@ def _match_character_file(name: str, canon: dict[str, list[CanonEntity]]) -> tup
         return CONTENT_CHARACTERS / "cryptozeus.md", "cryptozeus"
     if "ripple" in slug or "hooper" in slug:
         return CONTENT_CHARACTERS / "jeff-ripple.md", "jeff-ripple"
+    if "rick" in slug:
+        return CONTENT_CHARACTERS / "rick.md", "rick"
+    if "peter" in slug or "gibbon" in slug:
+        return CONTENT_CHARACTERS / "peter-gibbon.md", "peter-gibbon"
+    if "cremus" in slug or "tremando" in slug:
+        return CONTENT_CHARACTERS / "cremus-tremando.md", "cremus-tremando"
+    if "scrotum" in slug:
+        return CONTENT_CHARACTERS / "scrotum.md", "scrotum"
 
     return None, slug
 
 
-def _match_segment_file(title: str, canon: dict[str, list[CanonEntity]]) -> Path | None:
-    title_lower = title.lower()
+def _match_segment_file(title: str, canon: dict[str, list[CanonEntity]], canonical_segment: str = "") -> Path | None:
+    title_lower = f"{canonical_segment} {title}".lower()
     # 1. Exact or substring match on segment name or aliases
     for seg in canon.get("segments", []):
         seg_lower = seg.name.lower()
@@ -168,9 +176,9 @@ def _match_segment_file(title: str, canon: dict[str, list[CanonEntity]]) -> Path
             return seg.file_path
         if any(k in title_lower for k in ("cryptozeus", "gameplay", "jill", "gaming")) and "cryptozeus" in seg_lower:
             return seg.file_path
-        if any(k in title_lower for k in ("science", "chet", "skynce", "microscope")) and "chet" in seg_lower:
+        if any(k in title_lower for k in ("science", "chet", "skynce", "microscope", "cult")) and "chet" in seg_lower:
             return seg.file_path
-        if any(k in title_lower for k in ("news", "breaking", "pentagon", "epstein")) and seg_lower == "news":
+        if any(k in title_lower for k in ("news", "breaking", "pentagon", "epstein", "gpt")) and seg_lower == "news":
             return seg.file_path
         if any(k in title_lower for k in ("amongst", "memes", "web")) and "amongst" in seg_lower:
             return seg.file_path
@@ -183,9 +191,17 @@ def _match_storyline_file(title: str, canon: dict[str, list[CanonEntity]]) -> Pa
         story_lower = story.name.lower()
         if story_lower in title_lower or title_lower in story_lower:
             return story.file_path
-        if ("munch" in title_lower and "crum" in title_lower) or "rivalry" in title_lower:
-            if "rivalry" in story_lower:
+        for alias in story.aliases:
+            if alias.lower() in title_lower or title_lower in alias.lower():
                 return story.file_path
+    if any(k in title_lower for k in ("gorilla", "groin", "penis", "punch", "gambling")):
+        target = CONTENT_STORYLINES / "crum-robotic-gorilla-groin-punch.md"
+        if target.exists():
+            return target
+    if ("munch" in title_lower and "crum" in title_lower) or "rivalry" in title_lower:
+        target = CONTENT_STORYLINES / "munch-crum-rivalry.md"
+        if target.exists():
+            return target
     return None
 
 
@@ -276,6 +292,23 @@ def create_character_page(
     if not notable_bullets:
         notable_bullets.append(f"- First identified in [[episodes/{ep_slug}|Episode {ep_slug}]].")
 
+    known_assets = {
+        "cremus-tremando",
+        "peter-gibbon",
+        "scrotum",
+        "rick",
+        "cryptozeus",
+        "chet",
+        "chet-ai",
+        "munch",
+        "crum",
+        "hype-train",
+        "case-blackwell",
+    }
+    img_tag = ""
+    if slug in known_assets:
+        img_tag = f"\n![{name} on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/{slug}.jpg)\n"
+
     content = f"""---
 title: {name}
 type: character
@@ -287,7 +320,7 @@ tags:
 ---
 
 # {name}
-
+{img_tag}
 **{name}** appears on *Barely Informed News*. On-air characters and personas are typically portrayed by [[case-blackwell|Case Blackwell]] using face filters and voice changers.
 
 ## Overview
@@ -505,7 +538,8 @@ def update_wiki_from_extraction(
         notes = seg.get("notes", "")
         if not seg_title:
             continue
-        seg_file = _match_segment_file(seg_title, canon)
+        canon_seg = seg.get("canonical_segment", "")
+        seg_file = _match_segment_file(seg_title, canon, canonical_segment=canon_seg)
         if seg_file and seg_file.exists():
             segment_occ_by_file.setdefault(seg_file, []).append((start, seg_title, notes))
 
@@ -514,25 +548,14 @@ def update_wiki_from_extraction(
         if updated:
             report.segments_updated.append(seg_file.stem)
 
-    # 4. Ensure Episode is linked in episodes/index.md
-    ep_index = CONTENT_EPISODES / "index.md"
-    if ep_index.exists():
-        idx_txt = ep_index.read_text(encoding="utf-8")
-        ep_entry = f"[[{ep_slug}]]"
-        if ep_entry not in idx_txt:
-            vod_title = meta.get("title") or "Barely Informed News"
-            vod_url = meta.get("url") or f"https://www.twitch.tv/videos/{vod_id}"
-            new_row = f"| [[{ep_slug}]] | {ep_slug} | [{vod_title}]({vod_url}) |"
-            fm_ep, body_ep = _split_frontmatter_and_body(idx_txt)
-            updated_body = _append_table_row(
-                body_ep,
-                new_row,
-                dedupe_key=ep_slug,
-                default_headers=("| Episode | Date | Highlights |", "|---|---|---|"),
-            )
-            if updated_body != body_ep and not dry_run:
-                ep_index.write_text(f"{fm_ep}{updated_body.strip()}\n", encoding="utf-8")
-                if "episodes/index.md" not in report.indexes_updated:
-                    report.indexes_updated.append("episodes/index.md")
+    # 4. Sync episodes/index.md catalog
+    if not dry_run:
+        try:
+            from .catalog import generate_episodes_index
+            generate_episodes_index()
+            if "episodes/index.md" not in report.indexes_updated:
+                report.indexes_updated.append("episodes/index.md")
+        except Exception:
+            pass
 
     return report

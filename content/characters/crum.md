@@ -32,7 +32,11 @@ Together with Munch, their feuds drive the overarching [[../storylines/munch-cru
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Defends himself against Epstein-files slander, claims 'getting penis punched on Monday,' hosts Best Boob Club at his house (not a member), declares 'super strength in spits,' claims to keep carrots in his glove box for donkeys. |
 
+## Appearances
+
+
 ## Notable moments
+
 
 
 - **[52:07]** ([[episodes/2026-09-02|2026-09-02]]): Vows publicly on stream that 'I will be getting my penis punched on Monday,' and later in the debate claims he has trained for it and possesses 'super strength for some reason in spits,' demonstrated by crushing an electric toothbrush to dust.
@@ -41,6 +45,12 @@ Together with Munch, their feuds drive the overarching [[../storylines/munch-cru
 - **[50:42]** ([[episodes/2026-09-02|2026-09-02]]): Insists he is not in the Epstein files despite one search hit; explains it as accidentally emailing 'Jeffrey Epstein' instead of YouTuber 'Jabri Epstein' ~300 times due to Google auto-complete.
 - **[1:15:32]** ([[episodes/2026-09-02|2026-09-02]]): Mocks his own 'hand game' as 'grossly overhyped' by himself, but floats launching an OnlyFans to prove it ('not because it's sexual… an exhibition of skill').
 - **[1:21:58]** ([[episodes/2026-09-02|2026-09-02]]): This episode's intended prompt was Christian vs Kendall, but was overtaken by the Crum-penis-punch thread; chat vote ended in a 'pretty big margin' win for Christian.
+
+| Episode | Notes |
+|---|---|
+| [[episodes/2026-09-04|2026-09-04]] | Debate persona (bald, dark eye-circles) who shows up right after the failed body-swap. Crum seems to think the swap worked on him ('Look at me, I'm munch'). Uses the archaic slang 'japs' for jokes/mischief. Later merged with Peter Gibbon into 'Scrotum.' Still slated to be punched in the crotch by a robotic gorilla on Monday. |
+- **[16:17]** ([[episodes/2026-09-04|2026-09-04]]): Crum's verbal tics include archaic 'japs' (claiming it's an old-timey word for 'fun mischief' akin to 'getting a cream soda at the doodle shop') and immediate interest in any situation involving his body. He is the scheduled victim of the robotic gorilla crotch-punch on Monday.
+- **[24:24]** ([[episodes/2026-09-04|2026-09-04]]): Peter + Crum fusion is officially named 'Scrotum' after rejecting 'Scummer,' 'Skeeter,' 'Scrutter,' 'Scretem,' and 'Screamer.' Crum's voice reportedly 'deeper and super echoey' from the low-rent mystic — establishes the merger has slightly altered vocal timbre.
 
 ## Open questions
 

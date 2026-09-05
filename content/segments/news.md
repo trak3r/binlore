@@ -24,6 +24,8 @@ The anchor segment of *Barely Informed News*.
 
 ## Known occurrences
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 15:13 | Pentagon testosterone screening, Epstein Transparency Act, and Polk County donkey shooting. |
+| [[episodes/2026-09-04|2026-09-04]] | 29:49 | GPT-6 Release & Promotional Videos: News begins with the 'Artificially General News' theme. Discussion of OpenAI's GPT-6 (codenamed 'Astro') release, Sam Altman's rollout apology, and Chat Case's lukewarm reaction. They play the 'Create a yellow circle' promotional ad featuring a rocket ship, 3D modeling, and AI app ordering, then compare it to a viral parody ad featuring a nude dancer, noting the uncanny similarities. |
