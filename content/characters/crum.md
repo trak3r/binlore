@@ -1,7 +1,8 @@
 ---
 title: Crum
 type: character
-aliases: []
+aliases:
+  - Crumb
 first_seen:
 status: recurring
 tags:

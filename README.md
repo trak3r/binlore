@@ -31,31 +31,23 @@ npx quartz build --serve
 
 Open http://localhost:8080
 
-## VOD ingest (Phase 1)
+## VOD ingest & lore pipeline
 
-Pull Twitch VODs, archive full transcripts, and stub episode pages.
+1. **Ingest stream VOD (Whisper transcript)**:
+   ```bash
+   cd tools && source .venv/bin/activate
+   binlore vods --limit 10
+   binlore ingest --latest
+   ```
 
-**System deps:** `brew install yt-dlp ffmpeg`  
-**Python:** Node not required for this part — use the tools venv:
+2. **Extract segments & lore (OpenRouter)**:
+   Set `OPENROUTER_API_KEY` in `tools/.env`, then:
+   ```bash
+   binlore extract --latest
+   ```
+   This generates `tools/runs/<id>/extraction.json` and populates `content/episodes/YYYY-MM-DD.md` with wikilinked characters, storylines, and segment tables.
 
-```bash
-cd tools
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -e .
-
-binlore vods --limit 10
-binlore ingest --latest                    # newest VOD
-binlore ingest "https://www.twitch.tv/videos/ID" --model small
-```
-
-Artifacts (gitignored audio; keep transcripts locally for reprocessing):
-
-- `tools/runs/<vod-id>/meta.json`
-- `tools/runs/<vod-id>/transcript.json` + `.txt`
-- `content/episodes/YYYY-MM-DD.md` stub
-
-See [`tools/README.md`](tools/README.md). Character/segment lore extraction is Phase 2.
+See [`tools/README.md`](tools/README.md) for full options and model configuration.
 
 ## Publish (GitHub Pages)
 
@@ -82,8 +74,8 @@ See [`tools/README.md`](tools/README.md). Character/segment lore extraction is P
 ## Roadmap (later phases)
 
 - [x] VOD ingest (audio download + Whisper transcript)
-- [ ] LLM segment/character extraction
-- [ ] Proposed wiki edits via PR for human review
+- [x] LLM segment/character extraction via OpenRouter
+- [ ] Automated git branch/PR generation for proposed wiki edits
 - [ ] Optional: face-filter / voice-FX persona matching
 
 ## License
