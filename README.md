@@ -4,7 +4,7 @@ Unofficial fan lore wiki for **[Barely Informed News](https://www.twitch.tv/case
 
 Tracks characters, segments, storylines, and episodes as streams happen. Built with [Quartz](https://quartz.jzhao.xyz/) and hosted on [GitHub Pages](https://trak3r.github.io/binlore/).
 
-> Not affiliated with Case Blackwell or Barely Informed News. Fan project only.
+> **Legal Disclaimer:** Unofficial, non-commercial fan wiki and documentation project. Not affiliated with, endorsed by, or sponsored by Case Blackwell, Barely Informed News, or Twitch. All character names, likenesses, trademarks, and media assets belong to their respective copyright holders and are referenced under fair use (17 U.S.C. § 107) for commentary, criticism, and archival purposes. Not operated for profit. See [`content/disclaimer.md`](content/disclaimer.md) for full legal disclosures.
 
 ---
 

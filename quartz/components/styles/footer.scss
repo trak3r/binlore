@@ -44,4 +44,27 @@ footer {
       }
     }
   }
+
+  .footer-disclaimer {
+    font-size: 0.75rem;
+    line-height: 1.45;
+    color: var(--gray);
+    margin-top: 1.25rem;
+    max-width: 720px;
+    border-top: 1px solid var(--lightgray);
+    padding-top: 0.75rem;
+
+    strong {
+      color: var(--darkgray);
+    }
+
+    a {
+      color: var(--secondary);
+      text-decoration: underline;
+
+      &:hover {
+        color: var(--tertiary);
+      }
+    }
+  }
 }
