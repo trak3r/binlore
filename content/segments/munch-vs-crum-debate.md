@@ -11,7 +11,7 @@ tags:
 
 # Munch vs Crum debate
 
-![Munch vs Crum Debate](https://github.com/trak3r/binlore/releases/download/media-assets/crum.jpg)
+![Munch vs Crum Debate](https://github.com/trak3r/binlore/releases/download/media-assets/debate.jpg)
 
 Recurring debate segment featuring [[../characters/munch|Munch]] and [[../characters/crum|Crum]].
 

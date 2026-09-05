@@ -177,8 +177,9 @@ def cmd_screencap(args: argparse.Namespace) -> int:
             ("00:15:20", "news"),
             ("00:22:35", "hyper-train"),
             ("01:04:10", "chet-guy-the-science-eyes"),
-            ("01:14:00", "crum"),
-            ("01:13:30", "munch"),
+            ("01:12:40", "debate"),
+            ("01:13:30", "crum"),
+            ("01:14:00", "munch"),
             ("01:27:00", "cryptozeus"),
         ]
         for ts, name in targets:
