@@ -119,6 +119,14 @@ def _format_character_link(name: str) -> str:
         return "[[characters/pepito|Pepito]]"
     if "hype" in slug or "hyper" in slug:
         return "[[characters/hype-train|Hype Train]]"
+    if "cremus" in slug or "tremando" in slug:
+        return "[[characters/cremus-tremando|Cremus Tremando]]"
+    if "peter" in slug or "gibbon" in slug:
+        return "[[characters/peter-gibbon|Peter Gibbon]]"
+    if "scrotum" in slug:
+        return "[[characters/scrotum|Scrotum]]"
+    if "rick" in slug:
+        return "[[characters/rick|Rick]]"
     return name
 
 
@@ -147,6 +155,10 @@ def _format_storyline_link(name: str) -> str:
     target = CONTENT_STORYLINES / f"{slug}.md"
     if target.exists():
         return f"[[storylines/{slug}|{name}]]"
+    if any(k in slug for k in ("gorilla", "groin", "punch")):
+        return "[[storylines/crum-robotic-gorilla-groin-punch|Crum's Robotic Gorilla Groin Punch Bet]]"
+    if "scrotum" in slug or "merger" in slug:
+        return "[[storylines/the-scrotum-merger|The Scrotum Merger]]"
     if "rivalry" in slug or ("munch" in slug and "crum" in slug):
         return "[[storylines/munch-crum-rivalry|Munch–Crum rivalry]]"
     return name
@@ -164,8 +176,11 @@ def update_episode_from_extraction(vod_id: str, extraction: dict[str, Any]) -> P
             pass
 
     date = meta.get("date") or "unknown-date"
-    title = f"Episode {date}"
     vod_title = meta.get("title") or "Barely Informed News"
+    if vod_title and vod_title != "Barely Informed News":
+        title = f"{vod_title} ({date})"
+    else:
+        title = f"Episode {date}"
     vod_url = meta.get("url") or f"https://www.twitch.tv/videos/{vod_id}"
     duration = meta.get("duration") or "?"
     summary = extraction.get("episode_summary", "").strip()
@@ -178,32 +193,46 @@ def update_episode_from_extraction(vod_id: str, extraction: dict[str, Any]) -> P
             start = s.get("start", "")
             end = s.get("end", "")
             canon_seg = s.get("canonical_segment") or ""
-            title = s.get("title", "")
+            title_seg = s.get("title", "")
             if canon_seg:
-                seg_label = f"{_format_segment_link(canon_seg)}: {title}"
+                seg_label = f"{_format_segment_link(canon_seg)}: {title_seg}"
             else:
-                seg_label = _format_segment_link(title)
+                seg_label = _format_segment_link(title_seg)
             notes = s.get("notes", "").replace("|", "/")
             seg_rows.append(f"| {start} | {end} | {seg_label} | {notes} |")
     else:
         seg_rows.append("| | | | _No distinct segments identified_ |")
     seg_table = "\n".join(seg_rows)
 
-    # Build Characters List
+    # Build Characters List & Metadata
     characters = extraction.get("characters", [])
     char_bullets: list[str] = []
+    char_meta_entries: list[str] = []
     if characters:
         for c in characters:
             c_name = c.get("canonical_name") or c.get("name") or "Unknown"
             c_link = _format_character_link(c_name)
             speaking_str = "speaking" if c.get("speaking") else "mentioned"
-            ts_list = c.get("timestamps") or []
-            ts_str = f" @ {', '.join(ts_list)}" if ts_list else ""
             notes = f" — {c['notes']}" if c.get("notes") else ""
-            char_bullets.append(f"- {c_link} ({speaking_str}{ts_str}){notes}")
+            char_bullets.append(f"- {c_link} ({speaking_str}){notes}")
+
+            ts_list = c.get("timestamps") or []
+            clean_name = c_name.replace('"', '\\"')
+            if ts_list:
+                ts_json = json.dumps(ts_list)
+                char_meta_entries.append(
+                    f'  - name: "{clean_name}"\n    role: {speaking_str}\n    timestamps: {ts_json}'
+                )
+            else:
+                char_meta_entries.append(
+                    f'  - name: "{clean_name}"\n    role: {speaking_str}'
+                )
     else:
         char_bullets.append("- _None detected_")
     chars_text = "\n".join(char_bullets)
+    char_meta_yaml = ""
+    if char_meta_entries:
+        char_meta_yaml = "characters_meta:\n" + "\n".join(char_meta_entries) + "\n"
 
     # Build Storylines List
     storylines = extraction.get("storylines", [])
@@ -245,7 +274,7 @@ vod_id: "{vod_id}"
 run_id: "{vod_id}"
 tags:
   - episode
----
+{char_meta_yaml}---
 
 # {title}
 
