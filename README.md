@@ -1,4 +1,4 @@
-# Binlore
+# BIN Lore
 
 Unofficial fan lore wiki for **[Barely Informed News](https://www.twitch.tv/caseblackwell)** — Case Blackwell's fictional news show stream on Twitch.
 
@@ -16,7 +16,8 @@ When you ingest a stream, all downloaded media and processed artifacts are saved
 tools/runs/<vod-id>/
 ```
 
-For example, for VOD `2863722826` (*High T Wednesday News*):
+For example, for VOD `2863722826` (_High T Wednesday News_):
+
 ```
 tools/runs/2863722826/
 ├── audio.m4a              # Downloaded stream audio (high-quality audio-only)
@@ -76,13 +77,14 @@ To extract segments, characters, and lore using OpenRouter (free models availabl
    ```bash
    OPENROUTER_API_KEY="sk-or-v1-your-key-here"
    ```
-   *(Or export it in your shell: `export OPENROUTER_API_KEY="sk-or-v1-..."`)*
+   _(Or export it in your shell: `export OPENROUTER_API_KEY="sk-or-v1-..."`)_
 
 ---
 
 ## Execution Guide
 
 You can run commands in two ways:
+
 - **Directly from repo root (recommended):** Use `./binlore <command>` (e.g. `./binlore extract --latest`)
 - **From within the virtualenv:** Run `source tools/.venv/bin/activate` once, then use `binlore <command>` directly.
 
@@ -130,6 +132,7 @@ Run the LLM extraction pipeline over the transcript:
 ```
 
 **What this does automatically:**
+
 1. Loads current wiki canon (`content/characters/`, `content/segments/`, `content/storylines/`) so the model knows established characters (like Munch and Crum) and reconciles ASR phonetic errors (e.g. "Crumb" $\to$ "Crum").
 2. Saves `tools/runs/<vod-id>/extraction.json`.
 3. Populates `content/episodes/YYYY-MM-DD.md` with:
@@ -155,6 +158,7 @@ Once extraction is complete, populate the rest of the wiki (Character appearance
 ```
 
 **What this does automatically:**
+
 - **Character pages** (`content/characters/<name>.md`): Appends to `## Appearances` and adds timestamped quotes/facts to `## Notable moments` with links back to the episode.
 - **New personas**: Automatically creates pages for newly detected on-air characters/personas (e.g. `hyper-train.md`, `skynce.md`) and indexes them in `content/characters/index.md`.
 - **Storyline pages** (`content/storylines/<slug>.md`): Appends new beat entries to the `## Key beats` timeline with exact timestamps and episode anchors.
@@ -226,12 +230,12 @@ Stream audio files take ~150 MB per 2-hour VOD. Once transcription is finished, 
 
 Content lives in [`content/`](content/):
 
-| Folder | What it holds |
-|--------|----------------|
-| `content/characters/` | People and personas (e.g. Munch, Crum, Case Blackwell) |
-| `content/segments/` | Recurring show formats and bits (e.g. Munch & Crum, News, Hype Train) |
-| `content/storylines/` | Arcs spanning multiple streams (e.g. Munch–Crum rivalry) |
-| `content/episodes/` | Per-stream episode notes and rundowns |
+| Folder                | What it holds                                                         |
+| --------------------- | --------------------------------------------------------------------- |
+| `content/characters/` | People and personas (e.g. Munch, Crum, Case Blackwell)                |
+| `content/segments/`   | Recurring show formats and bits (e.g. Munch & Crum, News, Hype Train) |
+| `content/storylines/` | Arcs spanning multiple streams (e.g. Munch–Crum rivalry)              |
+| `content/episodes/`   | Per-stream episode notes and rundowns                                 |
 
 - Use `[[wikilinks]]` between pages (e.g. `[[characters/munch|Munch]]`).
 - Always cite timestamps when adding lore facts.

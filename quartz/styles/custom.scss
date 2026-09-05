@@ -1,3 +1,151 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// BIN Lore — Broadcast newsroom styling & show aesthetics
+
+// Typography enhancements
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--headerFont);
+  letter-spacing: 0.02em;
+}
+
+h1,
+h2 {
+  text-transform: uppercase;
+}
+
+.article-title {
+  font-family: var(--headerFont);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  font-weight: 700;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid var(--secondary);
+  display: inline-block;
+  margin-bottom: 0.75rem;
+}
+
+// Newsroom data tables (rundowns, characters, segments)
+.table-container {
+  overflow-x: auto;
+  margin: 1.5rem 0;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  background-color: color-mix(in srgb, var(--lightgray) 15%, transparent);
+
+  & > table {
+    margin: 0;
+    width: 100%;
+    border-collapse: collapse;
+
+    th {
+      font-family: var(--headerFont);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      font-size: 0.88rem;
+      font-weight: 600;
+      background-color: var(--lightgray);
+      color: var(--dark);
+      border-bottom: 2px solid var(--secondary);
+      padding: 0.6rem 0.85rem;
+    }
+
+    td {
+      padding: 0.55rem 0.85rem;
+      border-bottom: 1px solid color-mix(in srgb, var(--lightgray) 60%, transparent);
+      font-size: 0.95rem;
+      line-height: 1.5;
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+
+    tr:hover td {
+      background-color: var(--highlight);
+    }
+  }
+}
+
+// Broadcast pullquotes / disclaimers
+blockquote {
+  border-left: 3px solid var(--secondary);
+  background: color-mix(in srgb, var(--lightgray) 30%, transparent);
+  border-radius: 0 6px 6px 0;
+  padding: 0.75rem 1.25rem;
+  margin: 1.25rem 0;
+  font-style: normal;
+
+  p {
+    margin: 0;
+  }
+}
+
+// News chyron-style tags
+a.tag-link {
+  font-family: var(--headerFont);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.15rem 0.5rem;
+  border-radius: 3px;
+  border: 1px solid var(--lightgray);
+  background: color-mix(in srgb, var(--lightgray) 40%, transparent);
+  color: var(--darkgray);
+  transition: all 0.15s ease;
+
+  &:hover {
+    border-color: var(--secondary);
+    color: var(--secondary);
+    background: var(--highlight);
+  }
+}
+
+// Internal links (wikilinks)
+a.internal {
+  font-weight: 500;
+  border-radius: 3px;
+  transition: all 0.15s ease;
+
+  &:hover {
+    color: var(--tertiary);
+  }
+}
+
+// Sidebar Explorer tweaks
+.explorer {
+  button#explorer {
+    font-family: var(--headerFont);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    font-weight: 600;
+  }
+
+  .folder-title {
+    font-family: var(--headerFont);
+    letter-spacing: 0.02em;
+    font-weight: 600;
+  }
+}
+
+// Breadcrumbs
+.breadcrumb-container {
+  font-family: var(--headerFont);
+  letter-spacing: 0.02em;
+}
+
+// Search button border
+.search-button {
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  transition: border-color 0.15s ease;
+
+  &:hover {
+    border-color: var(--secondary);
+  }
+}

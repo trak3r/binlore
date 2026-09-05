@@ -2,13 +2,13 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * Quartz 4 Configuration — Binlore
+ * Quartz 4 Configuration — BIN Lore
  * Fan lore wiki for Barely Informed News (Case Blackwell).
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Binlore",
+    pageTitle: "BIN Lore",
     pageTitleSuffix: " · Barely Informed News",
     enableSPA: true,
     enablePopovers: true,
@@ -21,32 +21,33 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        title: "Oswald",
+        header: { name: "Oswald", weights: [500, 600, 700] },
+        body: "Inter",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#f7f4ef",
-          lightgray: "#e4ddd2",
-          gray: "#a89f91",
-          darkgray: "#3f3a34",
-          dark: "#1c1916",
-          secondary: "#8b1e1e",
-          tertiary: "#c45c26",
-          highlight: "rgba(139, 30, 30, 0.12)",
-          textHighlight: "#f0c04088",
+          light: "#f8fafc",
+          lightgray: "#e2e8f0",
+          gray: "#64748b",
+          darkgray: "#1e293b",
+          dark: "#090d16",
+          secondary: "#dc2626",
+          tertiary: "#0284c7",
+          highlight: "rgba(220, 38, 38, 0.08)",
+          textHighlight: "#fef08a88",
         },
         darkMode: {
-          light: "#161412",
-          lightgray: "#2e2a26",
-          gray: "#7a7268",
-          darkgray: "#d8d0c4",
-          dark: "#f2ebe3",
-          secondary: "#e07070",
-          tertiary: "#e09a5c",
-          highlight: "rgba(224, 112, 112, 0.15)",
-          textHighlight: "#c45c2688",
+          light: "#0c1017",
+          lightgray: "#1e2638",
+          gray: "#8b9bb4",
+          darkgray: "#e2e8f0",
+          dark: "#ffffff",
+          secondary: "#ef4444",
+          tertiary: "#38bdf8",
+          highlight: "rgba(239, 68, 68, 0.15)",
+          textHighlight: "#facc1544",
         },
       },
     },

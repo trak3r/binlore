@@ -1,9 +1,9 @@
 ---
-title: Binlore
+title: BIN Lore
 description: Unofficial fan lore wiki for Barely Informed News on Twitch.
 ---
 
-# Binlore
+# BIN Lore
 
 Unofficial fan wiki for **Barely Informed News** — the fictional news show stream on [Twitch](https://www.twitch.tv/caseblackwell) hosted by Case Blackwell.
 
@@ -22,7 +22,7 @@ The [[storylines/munch-crum-rivalry|Munch–Crum rivalry]] — and the [[segment
 
 ## About the show
 
-Barely Informed News is streamed by [Case Blackwell](https://www.twitch.tv/caseblackwell). Binlore exists so fans can keep the lore straight between VODs.
+Barely Informed News is streamed by [Case Blackwell](https://www.twitch.tv/caseblackwell). BIN Lore exists so fans can keep the lore straight between VODs.
 
 ## Contributing
 
