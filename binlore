@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -e
+
+REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+VENV_BIN="$REPO_DIR/tools/.venv/bin/binlore"
+
+if [ ! -x "$VENV_BIN" ]; then
+  cat <<'EOF' >&2
+Error: binlore CLI is not installed in tools/.venv.
+Please set up the Python environment first:
+  cd tools
+  python3 -m venv .venv
+  source .venv/bin/activate
+  pip install -e .
+EOF
+  exit 1
+fi
+
+exec "$VENV_BIN" "$@"

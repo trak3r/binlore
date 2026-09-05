@@ -82,14 +82,17 @@ To extract segments, characters, and lore using OpenRouter (free models availabl
 
 ## Execution Guide
 
+You can run commands in two ways:
+- **Directly from repo root (recommended):** Use `./binlore <command>` (e.g. `./binlore extract --latest`)
+- **From within the virtualenv:** Run `source tools/.venv/bin/activate` once, then use `binlore <command>` directly.
+
 ### Step 1: List Recent VODs
 
 See the latest streams available on Case Blackwell's Twitch channel:
 
 ```bash
-cd tools && source .venv/bin/activate
-binlore vods
-binlore vods --limit 10
+./binlore vods
+./binlore vods --limit 10
 ```
 
 ### Step 2: Ingest a VOD (Download Audio + Transcribe)
@@ -98,14 +101,14 @@ Download the stream audio and generate a full timestamped transcript using local
 
 ```bash
 # Ingest the newest stream automatically
-binlore ingest --latest
+./binlore ingest --latest
 
 # Or ingest a specific VOD by URL or ID
-binlore ingest "https://www.twitch.tv/videos/2863722826"
+./binlore ingest "https://www.twitch.tv/videos/2863722826"
 
 # Optional: choose Whisper model size (default is 'small')
 # Options: tiny, base, small, medium, large-v3
-binlore ingest --latest --model small
+./binlore ingest --latest --model small
 ```
 
 This creates the run folder in `tools/runs/<vod-id>/` and stubs an episode page in `content/episodes/YYYY-MM-DD.md`.
@@ -116,13 +119,13 @@ Run the LLM extraction pipeline over the transcript:
 
 ```bash
 # Preview prompt & token counts without calling the API (dry-run)
-binlore extract --latest --dry-run
+./binlore extract --latest --dry-run
 
 # Run extraction using the default free router (openrouter/free)
-binlore extract --latest
+./binlore extract --latest
 
 # Or specify a particular VOD ID and model
-binlore extract 2863722826 --model meta-llama/llama-3.3-70b-instruct:free
+./binlore extract 2863722826 --model meta-llama/llama-3.3-70b-instruct:free
 ```
 
 **What this does automatically:**
@@ -164,19 +167,17 @@ The GitHub Actions workflow automatically builds and deploys to [https://trak3r.
 Stream audio files take ~150 MB per 2-hour VOD. Once transcription is finished, you can safely remove the audio files to free up disk space while preserving all transcripts, metadata, and wiki content:
 
 ```bash
-cd tools && source .venv/bin/activate
-
 # Preview which files would be deleted and space saved
-binlore clean --dry-run
+./binlore clean --dry-run
 
 # Delete audio files across all completed runs
-binlore clean
+./binlore clean
 
 # Keep the most recent stream's audio and delete older ones
-binlore clean --keep 1
+./binlore clean --keep 1
 
 # Clean a specific VOD
-binlore clean 2863722826
+./binlore clean 2863722826
 ```
 
 ---
