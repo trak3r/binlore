@@ -475,6 +475,10 @@ export async function handleBuild(argv) {
       "**/*.tsx",
       "**/*.scss",
       "package.json",
+      "!node_modules/**",
+      "!tools/**",
+      "!public/**",
+      "!.git/**",
     ])
     chokidar
       .watch(paths, { ignoreInitial: true })
