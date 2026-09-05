@@ -9,6 +9,7 @@ from .clean import execute_clean, find_cleanable_runs
 from .extract import DEFAULT_MODEL, extract_lore_from_vod
 from .ingest import ingest
 from .paths import RUNS_DIR
+from .screencap import SCREENCAPS_DIR, extract_frame, get_stream_url, upload_to_release
 from .vods import format_duration, list_vods
 from .wiki_updater import update_wiki_from_extraction
 
@@ -154,6 +155,50 @@ def cmd_update_wiki(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_screencap(args: argparse.Namespace) -> int:
+    vod_id = _resolve_target_vod_id(args.target, latest=args.latest)
+    print(f"Resolving stream URL for VOD {vod_id}...", flush=True)
+    stream_url = get_stream_url(vod_id)
+
+    output_dir = SCREENCAPS_DIR
+    output_dir.mkdir(parents=True, exist_ok=True)
+    extracted_files: list[Path] = []
+
+    if args.timestamp and args.name:
+        out_file = output_dir / f"{args.name}.jpg"
+        print(f"Extracting frame at {args.timestamp} -> {out_file.name}...", flush=True)
+        extract_frame(stream_url, args.timestamp, out_file)
+        extracted_files.append(out_file)
+    else:
+        # Default auto screencaps for known BIN characters & segments
+        targets = [
+            ("00:08:10", "pepito"),
+            ("00:15:20", "case-blackwell"),
+            ("00:15:20", "news"),
+            ("00:22:35", "hyper-train"),
+            ("01:04:10", "chet-guy-the-science-eyes"),
+            ("01:14:00", "crum"),
+            ("01:13:30", "munch"),
+            ("01:27:00", "cryptozeus"),
+        ]
+        for ts, name in targets:
+            out_file = output_dir / f"{name}.jpg"
+            print(f"Extracting [{ts}] -> {out_file.name}...", flush=True)
+            try:
+                extract_frame(stream_url, ts, out_file)
+                extracted_files.append(out_file)
+            except Exception as e:
+                print(f"  Warning: failed to capture {name} at {ts}: {e}")
+
+    print(f"\n✓ Saved {len(extracted_files)} screencaps to {output_dir.relative_to(output_dir.parents[1])}/")
+
+    if args.upload:
+        print("Uploading screencaps to GitHub release 'media-assets'...", flush=True)
+        upload_to_release(extracted_files, release_tag=args.release_tag)
+
+    return 0
+
+
 def cmd_clean(args: argparse.Namespace) -> int:
     targets = find_cleanable_runs(
         target_vod_id=args.target,
@@ -252,6 +297,15 @@ def build_parser() -> argparse.ArgumentParser:
         help="Preview wiki page updates without writing files",
     )
     wiki.set_defaults(func=cmd_update_wiki)
+
+    scap = sub.add_parser("screencap", help="Capture high-quality video frames for characters and segments via ffmpeg")
+    scap.add_argument("target", nargs="?", help="VOD ID or Twitch URL (defaults to latest)")
+    scap.add_argument("--latest", action="store_true", help="Capture frames from most recent VOD")
+    scap.add_argument("--timestamp", help="Specific timestamp to extract (e.g. 01:14:00)")
+    scap.add_argument("--name", help="Output filename stem (e.g. 'crum' -> 'crum.jpg')")
+    scap.add_argument("--upload", action="store_true", help="Upload captured screencaps to GitHub release")
+    scap.add_argument("--release-tag", default="media-assets", help="GitHub release tag (default: media-assets)")
+    scap.set_defaults(func=cmd_screencap)
 
     clean = sub.add_parser("clean", help="Delete downloaded media files (audio/video) to reclaim disk space")
     clean.add_argument("target", nargs="?", help="VOD ID or Twitch URL (defaults to all completed runs)")

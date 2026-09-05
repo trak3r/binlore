@@ -1,12 +1,17 @@
 ---
 title: Munch vs Crum debate
 type: segment
+aliases:
+  - Debate
+  - Munch vs Crum
 status: recurring
 tags:
   - segment
 ---
 
 # Munch vs Crum debate
+
+![Munch vs Crum Debate](https://github.com/trak3r/binlore/releases/download/media-assets/crum.jpg)
 
 Recurring debate segment featuring [[../characters/munch|Munch]] and [[../characters/crum|Crum]].
 

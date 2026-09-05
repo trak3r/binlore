@@ -12,6 +12,8 @@ tags:
 
 # Pepito
 
+![Pepito](https://github.com/trak3r/binlore/releases/download/media-assets/pepito.jpg)
+
 **Pepito** is the dog that produces *Barely Informed News* (BIN).
 
 Like all characters on the show, Pepito is voiced and portrayed by [[Case Blackwell]].

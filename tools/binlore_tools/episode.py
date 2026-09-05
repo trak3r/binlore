@@ -107,6 +107,30 @@ def _format_character_link(name: str) -> str:
         return "[[characters/munch|Munch]]"
     if "blackwell" in slug or slug == "case":
         return "[[characters/case-blackwell|Case Blackwell]]"
+    if "chet" in slug or "science" in slug or "skynce" in slug:
+        return "[[characters/chet-guy-the-science-eyes|Chet Guy the Science Eyes]]"
+    if "pepito" in slug:
+        return "[[characters/pepito|Pepito]]"
+    if "hyper" in slug and "train" in slug:
+        return "[[characters/hyper-train|Hyper Train]]"
+    return name
+
+
+def _format_segment_link(name: str) -> str:
+    slug = _slugify(name)
+    target = CONTENT_SEGMENTS / f"{slug}.md"
+    if target.exists():
+        return f"[[segments/{slug}|{name}]]"
+    if "debate" in slug or ("munch" in slug and "crum" in slug):
+        return f"[[segments/munch-vs-crum-debate|{name}]]"
+    if "hype" in slug:
+        return f"[[segments/hype-train|{name}]]"
+    if "news" in slug:
+        return f"[[segments/news|{name}]]"
+    if "cryptozeus" in slug or "gaming" in slug:
+        return f"[[segments/cryptozeus|{name}]]"
+    if "chet" in slug or "science" in slug or "skynce" in slug:
+        return f"[[segments/chet-guy-the-science-eyes|{name}]]"
     return name
 
 
@@ -145,9 +169,14 @@ def update_episode_from_extraction(vod_id: str, extraction: dict[str, Any]) -> P
         for s in segments:
             start = s.get("start", "")
             end = s.get("end", "")
-            seg_title = s.get("title", "")
-            notes = s.get("notes", "")
-            seg_rows.append(f"| {start} | {end} | {seg_title} | {notes} |")
+            canon_seg = s.get("canonical_segment") or ""
+            title = s.get("title", "")
+            if canon_seg:
+                seg_label = f"{_format_segment_link(canon_seg)}: {title}"
+            else:
+                seg_label = _format_segment_link(title)
+            notes = s.get("notes", "").replace("|", "/")
+            seg_rows.append(f"| {start} | {end} | {seg_label} | {notes} |")
     else:
         seg_rows.append("| | | | _No distinct segments identified_ |")
     seg_table = "\n".join(seg_rows)

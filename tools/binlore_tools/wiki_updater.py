@@ -140,10 +140,20 @@ def _match_segment_file(title: str, canon: dict[str, list[CanonEntity]]) -> Path
         seg_lower = seg.name.lower()
         if seg_lower in title_lower or title_lower in seg_lower:
             return seg.file_path
-        # Check Munch vs Crum
-        if "munch" in title_lower and "crum" in title_lower:
-            if "munch" in seg_lower and "crum" in seg_lower:
+        for alias in seg.aliases:
+            if alias.lower() in title_lower or title_lower in alias.lower():
                 return seg.file_path
+        # Check specific show segment keywords
+        if "debate" in title_lower and ("debate" in seg_lower or "munch" in seg_lower):
+            return seg.file_path
+        if "hype" in title_lower and "hype" in seg_lower:
+            return seg.file_path
+        if ("cryptozeus" in title_lower or "gameplay" in title_lower or "jill" in title_lower or "gaming" in title_lower) and "cryptozeus" in seg_lower:
+            return seg.file_path
+        if ("science" in title_lower or "chet" in title_lower or "skynce" in title_lower or "boob" in title_lower) and "chet" in seg_lower:
+            return seg.file_path
+        if ("news" in title_lower or "breaking" in title_lower) and seg_lower == "news":
+            return seg.file_path
     return None
 
 

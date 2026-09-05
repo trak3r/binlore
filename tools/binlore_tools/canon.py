@@ -54,7 +54,7 @@ def load_canon_entities(directory: Path, entity_type: str) -> list[CanonEntity]:
         summary_lines: list[str] = []
         for line in body.splitlines():
             line_str = line.strip()
-            if not line_str or line_str.startswith(("#", "|", "- [", "* [")):
+            if not line_str or line_str.startswith(("#", "|", "- [", "* [", "![", "<img")):
                 continue
             summary_lines.append(line_str)
             if len(summary_lines) >= 3:

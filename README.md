@@ -161,7 +161,24 @@ Once extraction is complete, populate the rest of the wiki (Character appearance
 - **Segment pages** (`content/segments/<slug>.md`): Appends occurrences to `## Known occurrences`.
 - **Idempotent**: Safe to run repeatedly without creating duplicate rows or notes.
 
-### Step 5: Preview the Wiki Locally
+### Step 5: Capture & Host Screencaps (`binlore screencap`)
+
+Extract sharp, lightweight video frames for characters and segments via ffmpeg without downloading the entire video, and host them on the permanent GitHub release `media-assets` CDN:
+
+```bash
+# Capture key frames for all detected characters & segments in latest VOD
+./binlore screencap --latest
+
+# Capture a specific frame by timestamp
+./binlore screencap 2863722826 --timestamp 01:14:00 --name crum
+
+# Capture and immediately upload to GitHub release media-assets
+./binlore screencap --latest --upload
+```
+
+Image assets are served directly from GitHub's Fastly CDN (`https://github.com/trak3r/binlore/releases/download/media-assets/<name>.jpg`), keeping the git repository 100% lightweight and clean of binary files.
+
+### Step 6: Preview the Wiki Locally
 
 Preview your wiki in your browser with live-reload:
 
@@ -172,7 +189,7 @@ npx quartz build --serve
 
 Open [http://localhost:8080](http://localhost:8080).
 
-### Step 6: Review & Publish to GitHub Pages
+### Step 7: Review & Publish to GitHub Pages
 
 Check the generated episode notes, make any edits or promote new lore facts to character pages, then push to GitHub:
 
@@ -185,7 +202,7 @@ git push origin main
 
 The GitHub Actions workflow automatically builds and deploys to [https://trak3r.github.io/binlore/](https://trak3r.github.io/binlore/).
 
-### Step 7: Reclaim Disk Space (`binlore clean`)
+### Step 8: Reclaim Disk Space (`binlore clean`)
 
 Stream audio files take ~150 MB per 2-hour VOD. Once transcription is finished, you can safely remove the audio files to free up disk space while preserving all transcripts, metadata, and wiki content:
 

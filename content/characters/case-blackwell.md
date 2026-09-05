@@ -12,6 +12,8 @@ tags:
 
 # Case Blackwell
 
+![Case Blackwell on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/case-blackwell.jpg)
+
 Streamer, comedian, and host of **Barely Informed News** on [Twitch](https://www.twitch.tv/caseblackwell).
 
 ## Overview

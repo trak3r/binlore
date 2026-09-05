@@ -10,6 +10,8 @@ tags:
 
 # Hyper Train
 
+![Hyper Train on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/hyper-train.jpg)
+
 **Hyper Train** appears on *Barely Informed News*. On-air characters and personas are typically portrayed by [[case-blackwell|Case Blackwell]] using face filters and voice changers.
 
 ## Overview

@@ -94,7 +94,22 @@ binlore update-wiki 2863722826
 - `content/storylines/<slug>.md`: Appends beat developments to `## Key beats` timeline.
 - `content/segments/<slug>.md`: Appends occurrences to `## Known occurrences`.
 
-### 5. Reclaim disk space (`binlore clean`)
+### 5. Extract screencaps (`binlore screencap`)
+
+Extract high-quality video frames using `ffmpeg` without downloading the full video:
+
+```bash
+# Capture key frames for all detected characters & segments in latest VOD
+binlore screencap --latest
+
+# Capture specific timestamp and name
+binlore screencap 2863722826 --timestamp 01:14:00 --name crum
+
+# Capture and upload directly to GitHub release 'media-assets'
+binlore screencap --latest --upload
+```
+
+### 6. Reclaim disk space (`binlore clean`)
 
 Audio files take ~150 MB per 2-hour stream. Once transcribed, you can delete the raw audio/media files while keeping all transcripts, metadata, and wiki entries:
 
