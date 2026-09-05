@@ -139,7 +139,29 @@ Run the LLM extraction pipeline over the transcript:
    - Storyline developments (`[[storylines/munch-crum-rivalry|Munch–Crum rivalry]]`)
    - Timestamped candidate lore notes
 
-### Step 4: Preview the Wiki Locally
+### Step 4: Propagate Lore into the Wiki (`binlore update-wiki`)
+
+Once extraction is complete, populate the rest of the wiki (Character appearance tables, Notable moments, Storyline beat timelines, and Segment occurrence tables) from the extraction data:
+
+```bash
+# Preview changes without modifying files (dry-run)
+./binlore update-wiki --latest --dry-run
+
+# Update wiki pages from the latest extraction
+./binlore update-wiki --latest
+
+# Or update for a specific VOD
+./binlore update-wiki 2863722826
+```
+
+**What this does automatically:**
+- **Character pages** (`content/characters/<name>.md`): Appends to `## Appearances` and adds timestamped quotes/facts to `## Notable moments` with links back to the episode.
+- **New personas**: Automatically creates pages for newly detected on-air characters/personas (e.g. `hyper-train.md`, `skynce.md`) and indexes them in `content/characters/index.md`.
+- **Storyline pages** (`content/storylines/<slug>.md`): Appends new beat entries to the `## Key beats` timeline with exact timestamps and episode anchors.
+- **Segment pages** (`content/segments/<slug>.md`): Appends occurrences to `## Known occurrences`.
+- **Idempotent**: Safe to run repeatedly without creating duplicate rows or notes.
+
+### Step 5: Preview the Wiki Locally
 
 Preview your wiki in your browser with live-reload:
 
@@ -150,7 +172,7 @@ npx quartz build --serve
 
 Open [http://localhost:8080](http://localhost:8080).
 
-### Step 5: Review & Publish to GitHub Pages
+### Step 6: Review & Publish to GitHub Pages
 
 Check the generated episode notes, make any edits or promote new lore facts to character pages, then push to GitHub:
 
@@ -163,7 +185,7 @@ git push origin main
 
 The GitHub Actions workflow automatically builds and deploys to [https://trak3r.github.io/binlore/](https://trak3r.github.io/binlore/).
 
-### Step 6: Reclaim Disk Space (`binlore clean`)
+### Step 7: Reclaim Disk Space (`binlore clean`)
 
 Stream audio files take ~150 MB per 2-hour VOD. Once transcription is finished, you can safely remove the audio files to free up disk space while preserving all transcripts, metadata, and wiki content:
 

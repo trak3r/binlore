@@ -73,16 +73,28 @@ binlore extract --latest --model minimax/minimax-m3:free
 binlore extract --latest --model google/gemma-4-31b-it:free
 ```
 
-**What extraction updates:**
-1. Writes `tools/runs/<vod-id>/extraction.json` (structured JSON of segments, characters, storylines, and lore notes).
-2. Automatically updates `content/episodes/YYYY-MM-DD.md` with:
-   - Episode overview
-   - Segment rundown table (`| Start | End | Segment | Notes |`)
-   - Characters detected on air with Quartz wikilinks (`[[characters/crum|Crum]]`)
-   - Storyline beats and feuds (`[[storylines/munch-crum-rivalry|Munch–Crum rivalry]]`)
-   - Timestamped lore notes ready for human review before publishing
+### 4. Propagate lore into the wiki (`binlore update-wiki`)
 
-### 4. Reclaim disk space (`binlore clean`)
+Once `extraction.json` is generated, push the data across the whole wiki:
+
+```bash
+# Preview what will be updated without modifying files
+binlore update-wiki --latest --dry-run
+
+# Update character appearance tables, notable moments, and storyline beats
+binlore update-wiki --latest
+
+# Or update for a specific VOD
+binlore update-wiki 2863722826
+```
+
+**What this updates:**
+- `content/characters/<name>.md`: Appends rows to `## Appearances` and adds timestamped bullets to `## Notable moments` with links back to the episode.
+- Auto-creates pages for new on-air personas (e.g. `hyper-train.md`, `skynce.md`) and updates `content/characters/index.md`.
+- `content/storylines/<slug>.md`: Appends beat developments to `## Key beats` timeline.
+- `content/segments/<slug>.md`: Appends occurrences to `## Known occurrences`.
+
+### 5. Reclaim disk space (`binlore clean`)
 
 Audio files take ~150 MB per 2-hour stream. Once transcribed, you can delete the raw audio/media files while keeping all transcripts, metadata, and wiki entries:
 

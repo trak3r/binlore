@@ -10,6 +10,7 @@ from .extract import DEFAULT_MODEL, extract_lore_from_vod
 from .ingest import ingest
 from .paths import RUNS_DIR
 from .vods import format_duration, list_vods
+from .wiki_updater import update_wiki_from_extraction
 
 
 def _resolve_target_vod_id(target: str | None, *, latest: bool = False) -> str:
@@ -108,6 +109,51 @@ def cmd_extract(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_update_wiki(args: argparse.Namespace) -> int:
+    vod_id = _resolve_target_vod_id(args.target, latest=args.latest)
+    print(f"Updating wiki pages from extraction for VOD {vod_id}...", flush=True)
+
+    report = update_wiki_from_extraction(
+        vod_id=vod_id,
+        dry_run=args.dry_run,
+        auto_create_characters=not args.no_create_characters,
+    )
+
+    prefix = "[DRY RUN] Would update" if args.dry_run else "Updated"
+    print(f"\n--- [Wiki Update Report ({report.episode_slug})] ---")
+    if report.characters_updated:
+        print(f"{prefix} characters ({len(report.characters_updated)}):")
+        for c in report.characters_updated:
+            print(f"  ✓ content/characters/{c}.md (appearances / notable moments)")
+
+    if report.characters_created:
+        action = "Would create" if args.dry_run else "Created new"
+        print(f"{action} character pages ({len(report.characters_created)}):")
+        for c in report.characters_created:
+            print(f"  + content/characters/{c}.md")
+
+    if report.storylines_updated:
+        print(f"{prefix} storylines ({len(report.storylines_updated)}):")
+        for s in report.storylines_updated:
+            print(f"  ✓ content/storylines/{s}.md (key beats)")
+
+    if report.segments_updated:
+        print(f"{prefix} segments ({len(report.segments_updated)}):")
+        for s in report.segments_updated:
+            print(f"  ✓ content/segments/{s}.md (known occurrences)")
+
+    if report.indexes_updated:
+        print(f"{prefix} indexes:")
+        for idx in report.indexes_updated:
+            print(f"  ✓ content/{idx}")
+
+    if not (report.characters_updated or report.characters_created or report.storylines_updated or report.segments_updated):
+        print("Everything is already up-to-date. No new wiki changes needed.")
+
+    print("----------------------------------------\n")
+    return 0
+
+
 def cmd_clean(args: argparse.Namespace) -> int:
     targets = find_cleanable_runs(
         target_vod_id=args.target,
@@ -187,6 +233,25 @@ def build_parser() -> argparse.ArgumentParser:
         help="Preview prompt and token estimate without calling OpenRouter",
     )
     ext.set_defaults(func=cmd_extract)
+
+    wiki = sub.add_parser("update-wiki", help="Propagate extracted lore into Character, Segment, and Storyline wiki pages")
+    wiki.add_argument("target", nargs="?", help="VOD ID or Twitch URL (defaults to latest extraction)")
+    wiki.add_argument(
+        "--latest",
+        action="store_true",
+        help="Update wiki from the most recently ingested VOD",
+    )
+    wiki.add_argument(
+        "--no-create-characters",
+        action="store_true",
+        help="Do not auto-create new character files for newly detected personas",
+    )
+    wiki.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Preview wiki page updates without writing files",
+    )
+    wiki.set_defaults(func=cmd_update_wiki)
 
     clean = sub.add_parser("clean", help="Delete downloaded media files (audio/video) to reclaim disk space")
     clean.add_argument("target", nargs="?", help="VOD ID or Twitch URL (defaults to all completed runs)")

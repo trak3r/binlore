@@ -16,9 +16,10 @@ Two-sided on-air clash — the public face of the [[../storylines/munch-crum-riv
 
 ## Known occurrences
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
-| _TBD_ | | Seed page — backfill from streams |
+| [[episodes/2026-09-02|2026-09-02]] | 1:12:27 | Munch vs Crum Debate: Penis Punch Discord Thread: Munch and Crum introduce themselves. Read chat/Discord thread compiled by Case listing reasons Crum should get his penis punched Monday — bald, bitch, hand-game hype, an OnlyFans threat, best-boob club vs Crum's wife. Crum vows he has trained and has 'super strength in spits.' |
 
 ## Related
 
