@@ -124,8 +124,9 @@ Run the LLM extraction pipeline over the transcript:
 # Run extraction using the default free router (openrouter/free)
 ./binlore extract --latest
 
-# Or specify a particular VOD ID and model
-./binlore extract 2863722826 --model meta-llama/llama-3.3-70b-instruct:free
+# Or specify a particular model (e.g. minimax-m3, nemotron) or timeout
+./binlore extract --latest --model minimax/minimax-m3:free
+./binlore extract 2863722826 --timeout 90
 ```
 
 **What this does automatically:**

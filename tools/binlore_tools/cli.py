@@ -63,12 +63,12 @@ def cmd_ingest(args: argparse.Namespace) -> int:
 
 def cmd_extract(args: argparse.Namespace) -> int:
     vod_id = _resolve_target_vod_id(args.target, latest=args.latest)
-    print(f"Extracting lore for VOD {vod_id} using model: {args.model}...", flush=True)
 
     result = extract_lore_from_vod(
         vod_id=vod_id,
         model=args.model,
         dry_run=args.dry_run,
+        timeout=args.timeout,
     )
 
     if args.dry_run:
@@ -174,6 +174,12 @@ def build_parser() -> argparse.ArgumentParser:
         "--model",
         default=DEFAULT_MODEL,
         help=f"OpenRouter model ID (default: {DEFAULT_MODEL})",
+    )
+    ext.add_argument(
+        "--timeout",
+        type=float,
+        default=75.0,
+        help="Timeout in seconds per model before falling back (default: 75)",
     )
     ext.add_argument(
         "--dry-run",

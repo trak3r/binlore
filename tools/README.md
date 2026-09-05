@@ -69,7 +69,7 @@ binlore extract --latest
 binlore extract 2863722826
 
 # Specify a specific free or paid OpenRouter model
-binlore extract --latest --model meta-llama/llama-3.3-70b-instruct:free
+binlore extract --latest --model minimax/minimax-m3:free
 binlore extract --latest --model google/gemma-4-31b-it:free
 ```
 
