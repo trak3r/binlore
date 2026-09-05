@@ -12,7 +12,7 @@ tags:
 
 ![Munch on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/munch.jpg)
 
-Recurring figure on Barely Informed News, best known as one half of the [[../segments/munch-vs-crum-debate|Munch vs Crum debate]].
+Recurring figure on Barely Informed News, best known as one half of [[../segments/munch-and-crum|Munch & Crum]].
 
 ## Overview
 

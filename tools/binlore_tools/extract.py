@@ -65,7 +65,7 @@ Key show context:
   1. "Pre-show / Cold Open": Starts the broadcast. Typically opens with **Pepito** the dog producer ("I'm Pepito, I'm the dog that produces the show..."), banter with studio guests/crew, skeleton props, and upcoming date announcements.
   2. "News": The core news desk segment. Case at the desk in front of a Los Angeles cityscape backdrop with a rolling "BREAKING" news ticker, delivering headlines, politics, bizarre local crime, and animal stories.
   3. "Hype Train": Triggered during a Twitch hype train surge. Features the retro synthwave "HYPE" sun logo, the **Hyper Train** persona (human-faced Thomas the Tank Engine), Panther girlfriend, freestyle raps, and crypto-universe banter.
-  4. "Debate" (or "Munch vs Crum debate"): The heated on-air debate clash between **Munch** and **Crum**, complete with a scoreboard, chat poll, and insults.
+  4. "Munch & Crum": The flagship on-air debate clash between **Munch** and **Crum**, complete with rotating 3D title cards, scoreboard, chat poll, and insults.
   5. "Chet Guy the Science Eyes": The parody science segment (spoofing Bill Nye). Case brings an optical microscope prop onto the desk, puts on a serious academic demeanor, and analyzes bizarre scientific and medical studies (e.g. plastic surgery ratios). Note: Whisper ASR often transcribes this phonetically as "Skynce" or "Science Eyes". Reconcile to Chet Guy the Science Eyes!
   6. "Cryptozeus" (Gaming): Live gameplay and playthrough segment (e.g. vintage DOS games like Jill of the Jungle, or simulation games like RollerCoaster Tycoon) with improvised lore, character commentary, and recurring sponsor bits (Gooters chicken wings).
 
@@ -73,7 +73,7 @@ Key show context:
 
 Your task:
 Analyze the provided stream transcript and extract:
-1. "segments": Major show segments with start and end timestamps (e.g. "MM:SS" or "HH:MM:SS"), matching to canonical show segments ("News", "Hype Train", "Debate", "Chet Guy the Science Eyes", "Cryptozeus", "Pre-show / Cold Open"), a descriptive title for this episode's topic, and concise notes.
+1. "segments": Major show segments with start and end timestamps (e.g. "MM:SS" or "HH:MM:SS"), matching to canonical show segments ("News", "Hype Train", "Munch & Crum", "Chet Guy the Science Eyes", "Cryptozeus", "Pre-show / Cold Open"), a descriptive title for this episode's topic, and concise notes.
 2. "characters": Characters detected on stream (either speaking in-character via voice changer / face filter, or heavily discussed/slandered). Mark whether they were actively speaking or merely mentioned, with timestamps. Note: Pepito, Munch, Crum, Hyper Train, Chet Guy the Science Eyes, and other in-character personas ARE canonical characters.
 3. "storylines": Developments, escalations, or callbacks to ongoing storylines (especially the Munch–Crum rivalry) or new arcs.
 4. "lore_notes": Meaningful canonical lore facts, character backstories, relationships, catchphrases, or recurring gags. Do NOT include generic one-off news jokes. Every lore note MUST include an exact source timestamp like "[49:58]".

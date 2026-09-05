@@ -229,7 +229,7 @@ Content lives in [`content/`](content/):
 | Folder | What it holds |
 |--------|----------------|
 | `content/characters/` | People and personas (e.g. Munch, Crum, Case Blackwell) |
-| `content/segments/` | Recurring show formats and bits (e.g. Munch vs Crum debate) |
+| `content/segments/` | Recurring show formats and bits (e.g. Munch & Crum, News, Hype Train) |
 | `content/storylines/` | Arcs spanning multiple streams (e.g. Munch–Crum rivalry) |
 | `content/episodes/` | Per-stream episode notes and rundowns |
 

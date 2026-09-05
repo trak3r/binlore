@@ -17,7 +17,7 @@ from .paths import (
 
 
 def _slugify(text: str) -> str:
-    s = text.lower().replace("–", "-").replace("—", "-")
+    s = text.lower().replace("&", "and").replace("–", "-").replace("—", "-")
     s = "".join(c if c.isalnum() or c in " -" else "" for c in s)
     return "-".join(s.split())
 
@@ -136,6 +136,7 @@ def _match_character_file(name: str, canon: dict[str, list[CanonEntity]]) -> tup
 
 def _match_segment_file(title: str, canon: dict[str, list[CanonEntity]]) -> Path | None:
     title_lower = title.lower()
+    # 1. Exact or substring match on segment name or aliases
     for seg in canon.get("segments", []):
         seg_lower = seg.name.lower()
         if seg_lower in title_lower or title_lower in seg_lower:
@@ -143,16 +144,19 @@ def _match_segment_file(title: str, canon: dict[str, list[CanonEntity]]) -> Path
         for alias in seg.aliases:
             if alias.lower() in title_lower or title_lower in alias.lower():
                 return seg.file_path
-        # Check specific show segment keywords
-        if "debate" in title_lower and ("debate" in seg_lower or "munch" in seg_lower):
+
+    # 2. Targeted keyword heuristics
+    for seg in canon.get("segments", []):
+        seg_lower = seg.name.lower()
+        if ("munch" in title_lower or "crum" in title_lower or "debate" in title_lower) and "munch" in seg_lower:
             return seg.file_path
         if "hype" in title_lower and "hype" in seg_lower:
             return seg.file_path
-        if ("cryptozeus" in title_lower or "gameplay" in title_lower or "jill" in title_lower or "gaming" in title_lower) and "cryptozeus" in seg_lower:
+        if any(k in title_lower for k in ("cryptozeus", "gameplay", "jill", "gaming")) and "cryptozeus" in seg_lower:
             return seg.file_path
-        if ("science" in title_lower or "chet" in title_lower or "skynce" in title_lower or "boob" in title_lower) and "chet" in seg_lower:
+        if any(k in title_lower for k in ("science", "chet", "skynce", "microscope")) and "chet" in seg_lower:
             return seg.file_path
-        if ("news" in title_lower or "breaking" in title_lower) and seg_lower == "news":
+        if any(k in title_lower for k in ("news", "breaking", "pentagon", "epstein")) and seg_lower == "news":
             return seg.file_path
     return None
 

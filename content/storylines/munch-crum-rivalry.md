@@ -12,7 +12,7 @@ The running conflict between [[../characters/munch|Munch]] and [[../characters/c
 
 ## Status
 
-**Ongoing.** Primary on-air vehicle: the [[../segments/munch-vs-crum-debate|Munch vs Crum debate]] segment.
+**Ongoing.** Primary on-air vehicle: the [[../segments/munch-and-crum|Munch & Crum]] debate segment.
 
 ## Key beats
 
@@ -35,4 +35,4 @@ The running conflict between [[../characters/munch|Munch]] and [[../characters/c
 
 - [[../characters/munch|Munch]]
 - [[../characters/crum|Crum]]
-- [[../segments/munch-vs-crum-debate|Munch vs Crum debate]]
+- [[../segments/munch-and-crum|Munch & Crum]]

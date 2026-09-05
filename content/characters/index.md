@@ -18,4 +18,4 @@ Characters and on-air personas tracked by Binlore.
 | [[christian|Christian]] | recurring | Announcer/lab-assistant cameo; subject of the Christian vs Kendall debate prompt; sent to pick up food; wins that debate with a big margin per Case |
 | [[characters/chet-guy-the-science-eyes\|Chet Guy the Science Eyes]] | recurring | Science expert persona with microscope analyzing eccentric studies |
 
-See also: [[../storylines/munch-crum-rivalry|Munch–Crum rivalry]], [[../segments/munch-vs-crum-debate|Munch vs Crum debate]].
+See also: [[../storylines/munch-crum-rivalry|Munch–Crum rivalry]], [[../segments/munch-and-crum|Munch & Crum]].

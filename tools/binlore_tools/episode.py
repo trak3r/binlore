@@ -89,7 +89,7 @@ def _find_episode_file(vod_id: str, date: str | None = None) -> Path:
 
 
 def _slugify(text: str) -> str:
-    s = text.lower().replace("–", "-").replace("—", "-")
+    s = text.lower().replace("&", "and").replace("–", "-").replace("—", "-")
     s = "".join(c if c.isalnum() or c in " -" else "" for c in s)
     return "-".join(s.split())
 
@@ -122,7 +122,7 @@ def _format_segment_link(name: str) -> str:
     if target.exists():
         return f"[[segments/{slug}|{name}]]"
     if "debate" in slug or ("munch" in slug and "crum" in slug):
-        return f"[[segments/munch-vs-crum-debate|{name}]]"
+        return f"[[segments/munch-and-crum|{name}]]"
     if "hype" in slug:
         return f"[[segments/hype-train|{name}]]"
     if "news" in slug:

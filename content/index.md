@@ -18,7 +18,7 @@ This site tracks **characters**, **segments**, **storylines**, and **episodes** 
 
 ### Featured storyline
 
-The [[storylines/munch-crum-rivalry|Munch–Crum rivalry]] — and the [[segments/munch-vs-crum-debate|Munch vs Crum debate]] segment — is the most colorful arc in the show's history so far. Start with [[characters/munch|Munch]] and [[characters/crum|Crum]].
+The [[storylines/munch-crum-rivalry|Munch–Crum rivalry]] — and the [[segments/munch-and-crum|Munch & Crum]] debate segment — is the most colorful arc in the show's history so far. Start with [[characters/munch|Munch]] and [[characters/crum|Crum]].
 
 ## About the show
 
