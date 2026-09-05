@@ -9,10 +9,10 @@ One page per stream VOD. Created by hand or via `binlore ingest`.
 
 | Episode | Date | Highlights |
 |---------|------|------------|
-| [[2026-08-23]] | 2026-08-23 | [100 Bart Simpson Tattoos](https://www.twitch.tv/videos/2853919308) |
+| [[2026-09-02]] | 2026-09-02 | [High T Wednesday News](https://www.twitch.tv/videos/2863722826) |
 
 ## Naming
 
-Use `YYYY-MM-DD.md` (stream date) when possible, e.g. `2026-09-04.md`.
+Use `YYYY-MM-DD.md` (stream date) when possible.
 
 Full transcripts stay in `tools/runs/<vod-id>/` (local; not published).

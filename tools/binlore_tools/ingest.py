@@ -41,7 +41,7 @@ def download_audio(vod: Vod, dest_dir: Path) -> Path:
         "--no-playlist",
         vod.url,
     ]
-    print(f"Downloading audio for {vod.id}…")
+    print(f"Downloading audio for {vod.id}…", flush=True)
     try:
         subprocess.run(cmd, check=True)
     except subprocess.CalledProcessError as e:
@@ -88,10 +88,10 @@ def ingest(
     run_dir = RUNS_DIR / vod.id
     run_dir.mkdir(parents=True, exist_ok=True)
 
-    print(f"VOD {vod.id}: {vod.title}")
-    print(f"  {vod.url}")
-    print(f"  duration={format_duration(vod.duration)} date={vod.date_str}")
-    print(f"  run dir: {run_dir}")
+    print(f"VOD {vod.id}: {vod.title}", flush=True)
+    print(f"  {vod.url}", flush=True)
+    print(f"  duration={format_duration(vod.duration)} date={vod.date_str}", flush=True)
+    print(f"  run dir: {run_dir}", flush=True)
 
     audio_path = run_dir / "audio.m4a"
     existing_audio = list(run_dir.glob("audio.*"))
@@ -103,7 +103,7 @@ def ingest(
 
     if skip_download and existing_audio:
         audio_path = existing_audio[0]
-        print(f"Using existing audio: {audio_path.name}")
+        print(f"Using existing audio: {audio_path.name}", flush=True)
     elif skip_download:
         raise SystemExit("--skip-download set but no audio.* in run dir")
     else:
@@ -116,13 +116,19 @@ def ingest(
     )
 
     if not skip_transcribe:
-        print(f"Transcribing with faster-whisper model={model} (this can take a while)…")
+        print(
+            f"Transcribing with faster-whisper model={model} (this can take a while)…",
+            flush=True,
+        )
         transcript = transcribe_audio(audio_path, model_size=model)
         write_transcript(run_dir, transcript)
-        print(f"Wrote {run_dir / 'transcript.json'} ({len(transcript['segments'])} segments)")
+        print(
+            f"Wrote {run_dir / 'transcript.json'} ({len(transcript['segments'])} segments)",
+            flush=True,
+        )
     else:
-        print("Skipping transcription")
+        print("Skipping transcription", flush=True)
 
     episode_path = write_episode_stub(vod, run_id=vod.id, force=force_episode)
-    print(f"Episode stub: {episode_path.relative_to(run_dir.parents[2])}")
+    print(f"Episode stub: {episode_path.relative_to(run_dir.parents[2])}", flush=True)
     return run_dir
