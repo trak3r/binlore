@@ -8,11 +8,17 @@ tags:
 
 # Munch–Crum rivalry
 
-The running conflict between [[../characters/munch|Munch]] and [[../characters/crum|Crum]] — by far the most colorful storyline in Barely Informed News history so far.
+The running conflict between [[../characters/munch|Munch (Ralph Munchcut)]] and [[../characters/crum|Crum]] — the overarching rivalry that forms the backbone of *Barely Informed News* lore.
+
+While the rivalry is permanent, it branches into specific episodic storylines and escalating disputes, most notably [[crum-robotic-gorilla-groin-punch|Crum's Robotic Gorilla Groin Punch Bet]].
 
 ## Status
 
 **Ongoing.** Primary on-air vehicle: the [[../segments/munch-and-crum|Munch & Crum]] debate segment.
+
+## Active Arcs
+
+- **[[crum-robotic-gorilla-groin-punch|Crum's Robotic Gorilla Groin Punch Bet]]**: Crum lost a wager due to his crippling gambling addiction and is scheduled to be punched in the groin by a robotic gorilla on Monday. Munch has been crowdsourcing justifications for the punishment from the community.
 
 ## Key beats
 

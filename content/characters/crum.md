@@ -17,9 +17,15 @@ Recurring figure on Barely Informed News, best known as one half of [[../segment
 
 ## Overview
 
-Crum is a debate-side persona opposite [[munch|Munch]]. Together they drive the [[../storylines/munch-crum-rivalry|Munch–Crum rivalry]].
+Crum is a debate-side persona opposite [[munch|Munch (Ralph Munchcut)]]. Bald, hollow-eyed, and adorned in an elaborate peacock/floral blazer, Crum suffers from a crippling gambling addiction that frequently leads him into reckless wagers and self-inflicted crises.
 
-## Appearances
+Together with Munch, their feuds drive the overarching [[../storylines/munch-crum-rivalry|Munch–Crum rivalry]], currently centered on [[../storylines/crum-robotic-gorilla-groin-punch|Crum's Robotic Gorilla Groin Punch Bet]].
+
+## Key Tropes
+
+- **Crippling Gambling Addiction:** Constantly making desperate or ill-advised bets that he loses, resulting in severe physical and financial forfeits.
+- **Physical Defiance:** Claims impossible bodily resilience ("super strength in spits," crushing an electric toothbrush) in the face of impending doom.
+- **Bizarre Non Sequiturs:** Frequently drops unhinged personal habits into conversation, such as keeping fresh carrots in his car glove box for wild donkeys or hosting the local "Best Boob Club" while being denied membership.
 
 
 | Episode | Notes |

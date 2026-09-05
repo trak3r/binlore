@@ -20,10 +20,27 @@ export default ((opts?: Options) => {
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
-              <a href={link}>{text}</a>
+              <a
+                href={link}
+                target={link.startsWith("http") ? "_blank" : undefined}
+                rel={link.startsWith("http") ? "noopener noreferrer" : undefined}
+              >
+                {text}
+              </a>
             </li>
           ))}
         </ul>
+        <div class="bmac-footer-pill">
+          <a
+            href="https://buymeacoffee.com/teflonted"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Support the Binlore project on Buy Me a Coffee"
+          >
+            <span class="bmac-coffee-emoji">☕</span>
+            <span>Support Binlore on Buy Me a Coffee</span>
+          </a>
+        </div>
       </footer>
     )
   }

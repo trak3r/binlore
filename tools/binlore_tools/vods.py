@@ -103,7 +103,11 @@ def resolve_vod(url_or_latest: str | None, *, latest: bool) -> Vod:
         return resolve_vod(vods[0].url, latest=False)
 
     assert url_or_latest is not None
-    out = _run_yt_dlp(["--dump-json", "--no-download", "--no-playlist", url_or_latest])
+    target_url = url_or_latest
+    if target_url.isdigit() or (target_url.startswith("v") and target_url[1:].isdigit()):
+        target_url = f"https://www.twitch.tv/videos/{target_url.lstrip('v')}"
+
+    out = _run_yt_dlp(["--dump-json", "--no-download", "--no-playlist", target_url])
     data = json.loads(out.splitlines()[0])
     vid = str(data["id"])
     if vid.startswith("v") and vid[1:].isdigit():

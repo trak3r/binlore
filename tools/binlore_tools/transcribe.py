@@ -39,6 +39,8 @@ def transcribe_audio(
 
     segments: list[dict[str, Any]] = []
     lines: list[str] = []
+    total_dur = getattr(info, "duration", 0) or 0
+    last_log = 0.0
     for seg in segments_iter:
         item = {
             "id": seg.id,
@@ -48,6 +50,10 @@ def transcribe_audio(
         }
         segments.append(item)
         lines.append(f"[{format_ts(seg.start)} --> {format_ts(seg.end)}] {item['text']}")
+        if seg.start - last_log >= 300:  # log every 5 minutes of stream time
+            progress_str = f" / {format_ts(total_dur)}" if total_dur else ""
+            print(f"  transcribed up to {format_ts(seg.start)}{progress_str}...", flush=True)
+            last_log = seg.start
 
     return {
         "engine": "faster-whisper",

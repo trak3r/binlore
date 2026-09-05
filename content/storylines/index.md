@@ -5,8 +5,9 @@ description: Multi-episode arcs on Barely Informed News.
 
 # Storylines
 
-Arcs that span more than one stream.
+Arcs and recurring storylines that span multiple streams.
 
 | Storyline | Status | Notes |
 |-----------|--------|-------|
-| [[munch-crum-rivalry\|Munch–Crum rivalry]] | ongoing | Most colorful arc in the show's history so far |
+| [[crum-robotic-gorilla-groin-punch\|Crum's Robotic Gorilla Groin Punch Bet]] | active | Crum lost a bet due to crippling gambling addiction; faces Monday robotic gorilla punch |
+| [[munch-crum-rivalry\|Munch–Crum rivalry]] | ongoing | Overarching feud and weekly debate clash between Munch and Crum |

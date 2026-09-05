@@ -5,11 +5,12 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [Component.BuyMeACoffee()],
   footer: Component.Footer({
     links: {
       "Barely Informed News (Twitch)": "https://www.twitch.tv/caseblackwell",
       GitHub: "https://github.com/trak3r/binlore",
+      "☕ Buy Me a Coffee": "https://buymeacoffee.com/teflonted",
     },
   }),
 }
