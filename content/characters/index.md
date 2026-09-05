@@ -18,5 +18,6 @@ Characters and on-air personas tracked by Binlore.
 | [[jeff-ripple|Jeff Ripple]] | recurring | News/chat reader (often transcribed as Jeff Hooper) |
 | [[christian|Christian]] | recurring | Announcer/lab-assistant cameo; wins Christian vs Kendall debate |
 | [[chet\|Chet (Chet Manscape)]] | recurring | Science correspondent persona with microscope analyzing eccentric studies |
+| [[chet-ai|ChetAI]] | recurring | Chet's pixelated AI co-host with robotic voice and boob training data |
 
 See also: [[../storylines/munch-crum-rivalry|Munch–Crum rivalry]], [[../segments/munch-and-crum|Munch & Crum]].

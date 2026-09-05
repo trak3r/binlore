@@ -107,6 +107,8 @@ def _format_character_link(name: str) -> str:
         return "[[characters/munch|Munch (Ralph Munchcut)]]"
     if "blackwell" in slug or slug == "case":
         return "[[characters/case-blackwell|Case Blackwell]]"
+    if "chet-ai" in slug or "chetai" in slug or slug == "chetah":
+        return "[[characters/chet-ai|ChetAI]]"
     if "chet" in slug or "manscape" in slug or "science" in slug or "skynce" in slug:
         return "[[characters/chet|Chet (Chet Manscape)]]"
     if "cryptozeus" in slug:

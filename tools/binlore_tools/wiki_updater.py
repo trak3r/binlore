@@ -134,6 +134,8 @@ def _match_character_file(name: str, canon: dict[str, list[CanonEntity]]) -> tup
     # Heuristic shortcuts for canonical aliases
     if "munch" in slug or "munchcut" in slug or "ralph" in slug:
         return CONTENT_CHARACTERS / "munch.md", "munch"
+    if "chet-ai" in slug or "chetai" in slug or "chetah" in slug:
+        return CONTENT_CHARACTERS / "chet-ai.md", "chet-ai"
     if "chet" in slug or "manscape" in slug:
         return CONTENT_CHARACTERS / "chet.md", "chet"
     if "hype" in slug or "hyper" in slug:

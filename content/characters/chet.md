@@ -27,17 +27,24 @@ Like all on-air characters, Chet is portrayed by [[case-blackwell|Case Blackwell
 
 Chet analyzes unusual scientific studies, medical journal papers, and anatomical surveys with straight-faced academic authority and wildly absurd conclusions.
 
+To assist in his scientific inquiries, Chet built himself an artificial intelligence co-host named [[chet-ai|ChetAI]], who appears on a side monitor as a pixelated avatar and speaks with a robotic voice.
+
+### The "Science" Trigger Mechanic
+
+The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] segment is rarely scheduled in advance. Instead, it is triggered spontaneously whenever any character or correspondent in another segment (such as the news desk) accidentally utters the word "science" or "scientist" while discussing a story. The moment the word is spoken, Chet abruptly interrupts and hijacks the broadcast to deliver authoritative scientific commentary.
+
 ## Appearances
 
 | Episode | Notes |
 |---------|-------|
-| [[episodes/2026-09-02|2026-09-02]] | Science segment persona analyzing Brazilian Journal of Plastic Surgery boob proportion study. Has 'most of the boobs in training data' and concludes 'all boobs is good.' |
+| [[episodes/2026-09-02|2026-09-02]] | Triggered after news desk accidentally says "scientists." Analyzes Brazilian Journal of Plastic Surgery boob proportion study alongside his co-host [[chet-ai|ChetAI]], ultimately concluding that 'all boobs is good.' |
 
 ## Notable moments
 
-
-- **[1:04:47]** ([[episodes/2026-09-02|2026-09-02]]): Core shtick: 'all the boobs are in my training data' but they are not allowed to discuss them; concludes 'all boobs is good' as the definitive scientific finding.
-- **[1:04:47]** ([[episodes/2026-09-02|2026-09-02]]): Skynce persona's core shtick: 'all the boobs are in my training data' but they are not allowed to discuss them; concludes 'all boobs is good' as the scientific finding.
+- **[1:03:22]** ([[episodes/2026-09-02|2026-09-02]]): Hijacks the show after someone mentions "scientists," shouting "God damn it! They try to keep me away, but frankly, Skyeance is too relevant to the modern condition!"
+- **[1:05:00]** ([[episodes/2026-09-02|2026-09-02]]): Prompts his newly built co-host [[chet-ai|ChetAI]] to determine the medically ideal breast ratio, leading to ChetAI attempting image generation and abruptly canceling.
+- **[1:07:04]** ([[episodes/2026-09-02|2026-09-02]]): Enlists ChetAI's training data to translate a Brazilian plastic surgery journal paper.
+- **[1:09:22]** ([[episodes/2026-09-02|2026-09-02]]): Delivers the definitive scientific conclusion on breast aesthetics: "They're all fucking good... all of them is the good one."
 
 ## Open questions
 
