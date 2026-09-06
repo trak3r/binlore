@@ -16,7 +16,7 @@ tags:
 
 **Tommy Biglaw** is the high-priced legal counsel representing lead anchor [[case-blackwell|Case Blackwell]] and *Barely Informed News*.
 
-Distinguished by the facial features and lisping cadence of an infant paired with a dark, impeccably groomed full beard, Biglaw operates from behind a broadcast studio microphone. Despite his youth, he is treated across the network as a licensed, high-billing attorney.
+Distinguished by the facial features and lisping cadence of an infant paired with a dark, impeccably groomed full beard, Biglaw is treated across the network as a licensed, high-billing attorney despite his youth.
 
 ## Overview
 

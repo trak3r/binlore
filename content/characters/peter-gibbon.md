@@ -23,7 +23,7 @@ Distinctive for his stout frame, round spectacles, nasal delivery, and prominent
 
 Gibbon served as the original producer of *Barely Informed News* before being terminated and stripped of his security credentials due to gross managerial incompetence, leading directly to the hiring of [[pepito|Pepito]].
 
-Following his dismissal, Gibbon refused to vacate the network facilities. Evading building security, he took up permanent residence inside the structural crawlspaces and drywall of the newsroom. From these interior wall cavities, Gibbon regularly sneaks into the broadcast booth, raids the staff refrigerator, seizes unattended microphones, and interrupts live telecasts to the immense fury of lead anchor [[case-blackwell|Case Blackwell]].
+Following his dismissal, Gibbon refused to vacate the network facilities. Evading building security, he took up permanent residence inside the structural crawlspaces and drywall of the newsroom. From these interior wall cavities, Gibbon regularly sneaks into the broadcast booth, raids the staff refrigerator, commandeers unattended broadcast feeds, and interrupts live telecasts to the immense fury of lead anchor [[case-blackwell|Case Blackwell]].
 
 ## Key Attributes & Lore
 
