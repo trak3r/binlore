@@ -31,6 +31,8 @@ The central bit revolves around Brandon gaming in his bedroom while his mom yell
 
 ## Known occurrences
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 1:26:47 | DOS playthrough of the *Jill of the Jungle* trilogy with recurring Gooters plugs, viewer-scripted mom tangents, and in-game lore scrolling. |
+| [[episodes/2026-09-01|2026-09-01]] | 59:19 | Cryptozeus Plays Wario Land 4 (GBA) on Keyboard: Brandon (Cryptozeus) attempts to play Wario Land 4 on GBA via emulator. His controller won't work, forcing keyboard play. Mom yells through the door about turnips, doorknobs, 'washed' (not 'washed') sweatpants, Pastor Joe, sneezes, hemorrhoids, Italian bicycles, and Waluigi. Brandon plays through levels, plays Wario's Homerun Derby minigame, and eventually quits in frustration when mom ruins his gameplay. Gooters chicken wing sponsor read is inserted. |

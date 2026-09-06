@@ -25,7 +25,9 @@ The anchor segment of *Barely Informed News*.
 ## Known occurrences
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 15:13 | Pentagon testosterone screening, Epstein Transparency Act, and Polk County donkey shooting. |
 | [[episodes/2026-09-04|2026-09-04]] | 29:49 | GPT-6 Release & Promotional Videos: News begins with the 'Artificially General News' theme. Discussion of OpenAI's GPT-6 (codenamed 'Astro') release, Sam Altman's rollout apology, and Chat Case's lukewarm reaction. They play the 'Create a yellow circle' promotional ad featuring a rocket ship, 3D modeling, and AI app ordering, then compare it to a viral parody ad featuring a nude dancer, noting the uncanny similarities. |
+| [[episodes/2026-09-01|2026-09-01]] | 24:14 | News Desk: Tupac Verdict, AEW, Floating Island, Bat Mouth, Coyote vs Bear, Water Balloon Record, Dept of Ed: Case at the news desk. Covers the Dwayne Davis guilty verdict in the Tupac murder, Creed/others debuting at AEW All In London, a mysterious floating island appearing and vanishing in BC's Williston Reservoir, a Virginia doctor who woke up with a bat on her face, a coyote defending against a bear in Tarzana, and David Rush breaking the water-balloon throw-and-catch record with his son. Wraps with the Dept of Education posting and deleting a clip comparing Trump to Hitler using a tiger metaphor. Chet segment is NOT triggered. |

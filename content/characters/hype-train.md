@@ -31,12 +31,15 @@ Instead, Hype Train commonly gets wildly distracted and launches into breathless
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Derails sub thank-yous to pitch *Piss Fruit Ninja*, requests a vaudeville beat, raps about his Panther girlfriend, and details his crypto universe upbringing. |
 | [[episodes/2026-09-04|2026-09-04]] | Spontaneously interrupts to rant that eggs do not contain sauce, raps Dr. Seuss-style egg beats, thanks subs, and requests sensual beats when a viewer unfollows. |
+| [[episodes/2026-09-01|2026-09-01]] | Hype Train persona raps about being pregnant, giving birth to cars, skeletons, and kids. Notably contains NO piss content this episode. Asks Case to 'hush' multiple times. |
 
 ## Notable moments
+
 
 - **[19:32]** ([[episodes/2026-09-02|2026-09-02]]): Pitches *Piss Fruit Ninja* as an alleged AAA video game and blames Case for spoiling it on air.
 - **[22:33]** ([[episodes/2026-09-02|2026-09-02]]): Discusses his Panther girlfriend and explains his open-relationship philosophy.
@@ -44,3 +47,7 @@ Instead, Hype Train commonly gets wildly distracted and launches into breathless
 - **[01:12:09]** ([[episodes/2026-09-04|2026-09-04]]): Rants about eggs lacking sauce and drops Dr. Seuss-cadence egg-sauce rhymes.
 - **[01:14:19]** ([[episodes/2026-09-04|2026-09-04]]): "Puff-puff pass while I'm eating the yolk... You're smoking yellow, not mellow."
 - **[01:20:13]** ([[episodes/2026-09-04|2026-09-04]]): Manages to briefly complete a string of subscriber thank-yous (s1000, Skymer, Giggle Trash, Mighty Oz, Apple to Apple) before spinning off again.
+- **[14:09]** ([[episodes/2026-09-01|2026-09-01]]): Hype Train claims that every time another train car attaches to him, it counts as a pregnancy, and he gives birth to the new train cars and any 'skeleton' humans who may have died inside him due to 'lack of safety standards.'
+- **[23:29]** ([[episodes/2026-09-01|2026-09-01]]): Hype Train claims to have 'died via autotune,' 'like all the greats,' and notes this is his preferred method of death.
+- **[23:13]** ([[episodes/2026-09-01|2026-09-01]]): Hype Train has known Case for three years and considers him an 'acquaintance' (despite Case complaining about him feeling like a hater).
+- **[23:33]** ([[episodes/2026-09-01|2026-09-01]]): This Hype Train episode notably contains NO piss-related content, which Case explicitly acknowledges as a relief ('No piss today').

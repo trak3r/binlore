@@ -31,5 +31,6 @@ Case occasionally introduces spontaneous one-off bit characters to accentuate a 
 |------|---------------|-------|
 | [[cremus-tremando|Cremus Tremando]] | one-time guest | Sleazy mystic sorcerer summoned by chat to cast body-swap spells |
 | [[christian|Christian]] | guest | In-studio guest and announcer cameo |
+| [[slightly-thick-waluigi|Slightly Thick Waluigi]] | one-time bit | Absurd Brooklyn-accented interview subject claiming to have assassinated Tupac and JFK with Mario Kart banana peels |
 
 See also: [[../storylines/crum-dick-punch|Crum D*ck Punch]], [[../segments/munch-and-crum|Munch & Crum]].

@@ -36,11 +36,17 @@ His mother exclusively refers to him as **"Bran Bran."** In a signature communit
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Live DOS playthrough of Epic MegaGames' *Jill of the Jungle* trilogy. Recurring Gooters chicken-wing plugs and mom-Old-English tangents. |
+| [[episodes/2026-09-01|2026-09-01]] | Brandon streams Wario Land 4 on GBA. Controller fails so he plays on keyboard. Mom yells at him through the door (calling him 'Bran Bran') about turnips, washed sweatpants, Pastor Joe, hemorrhoids, Italian bicycles, and Waluigi. Sponsor read for Gooters mayo-soaked chicken skins. Eventually quits the game in frustration. |
 
 ## Notable moments
 
+
 - **[1:26:47]** ([[episodes/2026-09-02|2026-09-02]]): Extended *Jill of the Jungle* live playthrough with in-game lore commentary, Gooters sponsor plugs, and maternal arguments.
 - **[24:51]** ([[episodes/2026-09-04|2026-09-04]]): Chat inquiries about the "Cryptoverse" reveal that Brandon's persona was reportedly vacuumed out of the crypto universe prior to the show.
+- **[67:37]** ([[episodes/2026-09-01|2026-09-01]]): Mom yells 'washed' instead of 'washed' (dropping the R) repeatedly; Brandon insists she needs to 'learn to sneeze better' and 'learn to eat better.'
+- **[65:43]** ([[episodes/2026-09-01|2026-09-01]]): Mom mentions Pastor Joe is coming over that night and gets upset that Brandon's grunting 'puts mama in a moon.'
+- **[80:30]** ([[episodes/2026-09-01|2026-09-01]]): Mom claims her Italian bicycle 'intimidates people into thinking that I do sports' and protects her house because people assume she's like Lance Armstrong.

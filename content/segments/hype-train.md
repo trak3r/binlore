@@ -28,7 +28,9 @@ Hype Train is supposed to thank channel subscribers and bit gifters, but reliabl
 
 ## Known occurrences
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 17:13 | Hype Train arrives with *Piss Fruit Ninja* promo, vaudeville beat requests, and crypto-universe lore. |
 | [[episodes/2026-09-04|2026-09-04]] | 01:11:00 | Derails sub thank-yous with egg-sauce raps and CIA banter. |
+| [[episodes/2026-09-01|2026-09-01]] | 12:42 | Hype Train Pregnancy Bit: A Hype Train is active. Hype Train launches into a long, absurd rap about being a 'pregnant train,' giving birth to cars, kids, and skeletons. Case tries to redirect him to thank subs. Hype Train claims skeletons popped out of him and that he dies via autotune. No piss content this time. |

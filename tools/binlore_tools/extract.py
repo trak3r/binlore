@@ -17,10 +17,11 @@ from .paths import CONTENT_EPISODES, REPO_ROOT, RUNS_DIR, TOOLS_ROOT
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
 DEFAULT_MODEL = "openrouter/free"
 FALLBACK_MODELS = [
-    "minimax/minimax-m3:free",
     "nvidia/nemotron-3.5-lightning:free",
-    "z-ai/glm-5.2:free",
+    "minimax/minimax-m3:free",
     "google/gemma-4-26b-a4b-it:free",
+    "z-ai/glm-5.2:free",
+    "google/gemma-4-31b-it:free",
 ]
 
 
@@ -235,7 +236,9 @@ def query_openrouter(
         collected_text: list[str] = []
         try:
             # Enforce connect, read, write timeouts to avoid hanging sockets
-            client_timeout = httpx.Timeout(timeout, connect=20.0, read=timeout, write=20.0, pool=10.0)
+            # Use a bounded read timeout (e.g. 40s) so if the model hangs without transmitting packets, we failover
+            inactivity_timeout = min(float(timeout), 40.0)
+            client_timeout = httpx.Timeout(timeout, connect=20.0, read=inactivity_timeout, write=20.0, pool=10.0)
             with httpx.Client(timeout=client_timeout) as client:
                 with client.stream("POST", OPENROUTER_API_URL, headers=headers, json=payload) as resp:
                     if resp.status_code != 200:
@@ -249,6 +252,8 @@ def query_openrouter(
 
                     last_progress_ts = 0.0
                     for line in resp.iter_lines():
+                        if not first_token_event.is_set() and (time.time() - start_time) > timeout:
+                            raise TimeoutError(f"Model {model} timed out waiting for first token after {timeout:.0f}s")
                         if not line:
                             continue
                         line_str = line.strip()

@@ -26,9 +26,11 @@ Two-sided on-air clash between Munch and Crum. Broadcast under the title **Munch
 
 ## Known occurrences
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 1:12:27 | Munch & Crum: Penis Punch Discord Thread: Munch and Crum introduce themselves. Read chat/Discord thread compiled by Case listing reasons Crum should get his penis punched Monday — bald, bitch, hand-game hype, an OnlyFans threat, best-boob club vs Crum's wife. Crum vows he has trained and has 'super strength in spits.' |
+| [[episodes/2026-09-01|2026-09-01]] | 46:28 | Munch & Crum Debate: Penis Punch Prep & Mayonnaise vs Pepperoni: Munch & Crum debate segment. Crum reminds everyone the robotic gorilla penis punch is happening next Monday before Case leaves for Thailand; Munch asks chat to protect his penis. Debate topic: best pizza topping. Crum argues mayonnaise; Munch argues pepperoni. Crum wins (290+ points ahead). Crum gloats about Munch's upcoming punch. Crum claims to have eaten a 'turnip garden' raw and mentions a 'new prayer suggested by Crumb' that Pastor Joe likes. |
 
 ## Related
 
