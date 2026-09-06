@@ -12,7 +12,7 @@ Anchors, senior correspondents, debate analysts, and production staff across *Ba
 | Contributor | Broadcast Role | Portfolio / Description |
 |---|---|---|
 | [[case-blackwell|Case Blackwell]] | Lead Anchor & Managing Editor | Primary broadcast anchor and managing editor of *Barely Informed News* |
-| [[munch|Munch (Ralph Munchcut)]] | Senior Debate Analyst | Fiery political commentator opposite Crum in floral blazer and necktie |
+| [[munch|Munch (Ralph Munchcut)]] | Senior Debate Analyst | Fiery political commentator opposite Crum with messy silver hair |
 | [[crum|Crum]] | Senior Debate Analyst | Fragile debate commentator with severe gambling liabilities and existential dread |
 | [[pepito|Pepito]] | Executive Producer | Canine broadcast executive running the control room and opening every broadcast |
 | [[chet|Chet (Chet Manscape)]] | Chief Science Correspondent | Investigative science correspondent dispatched whenever "science" is uttered |

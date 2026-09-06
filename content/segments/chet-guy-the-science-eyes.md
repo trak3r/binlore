@@ -19,7 +19,7 @@ The specialized investigative science and medical research desk on *Barely Infor
 
 ## Format
 
-The segment operates under a strict, spontaneous network trigger protocol: whenever any anchor, reporter, or correspondent across the broadcast utters the trigger words **"science"** or **"scientist,"** Chet immediately intervenes to commandeer the news desk. Sporting his signature patterned purple blazer and specialized blue-light-filtering eyewear, Chet deploys a high-powered laboratory optical microscope directly onto the desk.
+The segment operates under a strict, spontaneous network trigger protocol: whenever any anchor, reporter, or correspondent across the broadcast utters the trigger words **"science"** or **"scientist,"** Chet immediately intervenes to commandeer the news desk. Sporting specialized blue-light-filtering eyewear, Chet deploys a high-powered laboratory optical microscope directly onto the desk.
 
 Chet conducts deep-dive inquiries into peer-reviewed medical publications, anatomical ratio analyses, and emerging technologies, consulting [[../characters/chet-ai|ChetAI]] on newsroom monitors to translate foreign journals and synthesize computational models.
 

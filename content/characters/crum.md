@@ -18,7 +18,7 @@ Senior debate analyst on *Barely Informed News*, best known as one half of the n
 
 ## Overview
 
-Crum serves as the long-suffering political counterweight to [[munch|Ralph Munchcut]] on *Barely Informed News*. Distinguished by his hollow-eyed stare, severe bald pate, and ornate peacock floral blazer, Crum is infamous across the network for a crippling gambling addiction that routinely plunges him into reckless wagers, physical forfeits, and existential panic.
+Crum serves as the long-suffering political counterweight to [[munch|Ralph Munchcut]] on *Barely Informed News*. Distinguished by his hollow-eyed stare and severe bald pate, Crum is infamous across the network for a crippling gambling addiction that routinely plunges him into reckless wagers, physical forfeits, and existential panic.
 
 Together with Munch, their fierce professional rivalry drives the [[../storylines/crum-dick-punch|Crum D*ck Punch]] storyline, stemming from an astronomical lost wager against a mechanical ape.
 

@@ -21,7 +21,7 @@ tags:
 
 **Chet** (full name: **Chet Manscape**) is the chief science correspondent on *Barely Informed News*, helming the network's investigative science desk, [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]].
 
-Recognized by his patterned purple blazer, specialized blue-light-filtering eyewear, and a large laboratory optical microscope deployed directly onto the news desk, Chet approaches modern scientific literature with unyielding academic confidence and wildly erratic conclusions.
+Recognized by his specialized blue-light-filtering eyewear and a large laboratory optical microscope deployed directly onto the news desk, Chet approaches modern scientific literature with unyielding academic confidence and wildly erratic conclusions.
 
 ## Overview
 

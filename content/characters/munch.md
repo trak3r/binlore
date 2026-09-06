@@ -20,7 +20,7 @@ tags:
 
 ## Overview
 
-Munch serves as the combative, unapologetic political counterweight to [[crum|Crum]] on *Barely Informed News*. Distinguished by his disheveled silver mane, dark tie, and vibrant floral blazer, Munch brings relentless swagger and hostility to the debate desk.
+Munch serves as the combative, unapologetic political counterweight to [[crum|Crum]] on *Barely Informed News*. Distinguished by his disheveled silver mane, Munch brings relentless swagger and hostility to the debate desk.
 
 Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch|Crum D*ck Punch]] storyline, wherein Munch relentlessly torments Crum over his lost gambling wagers and orchestrates community support for the impending robotic gorilla execution.
 

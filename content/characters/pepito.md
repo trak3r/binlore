@@ -17,7 +17,7 @@ tags:
 
 **Pepito** is the Executive Producer of *Barely Informed News*.
 
-Appearing from the control room via the dedicated "Producer Cam," Pepito is a tailored, sharp-dressed canine broadcast executive featuring pointed ears, alert dark eyes, and a distinguished tuft of white hair. He is also occasionally designated on station monitors as **Peptron 3000**.
+Appearing from the control room via the dedicated "Producer Cam," Pepito is a canine broadcast executive featuring pointed ears, alert dark eyes, and a distinguished tuft of white hair. He is also occasionally designated on station monitors as **Peptron 3000**.
 
 ## Overview & Network Operations
 
