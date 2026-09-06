@@ -31,6 +31,7 @@ While officially tasked with acknowledging viewer contributions and network patr
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 17:13 | Intercepts the broadcast to promote *Piss Fruit Ninja*, commands a vaudeville tempo, and outlines his crypto-universe background. |
@@ -39,3 +40,4 @@ While officially tasked with acknowledging viewer contributions and network patr
 | [[episodes/2026-08-26|2026-08-26]] | 15:33 | Hijacks the feed with rapid-fire film critiques of one-word titles before presenting an ancient mythological language pre-dating Homer. |
 | [[episodes/2026-08-19|2026-08-19]] | 08:47 | Cereal Mascot Hype Train Raps: A hype train surge occurs early in the broadcast. Hype Train launches into an extended freestyle rap ranking cereal mascots, refusing to properly thank subs until pressured by the anchor. |
 | [[episodes/2026-08-13|2026-08-13]] | 00:08 | Money Flossing, Cheeto Golf Tee & Turd Freestyle: Hype Train delivers an extended high-velocity freestyle session dominated by the 'turd' theme, 'money flossing' dance tutorial, 'Cheeto golf tee' concept, and hot money piss wordplay. Chat votes 99.9% 'it's piss.' Pepito remains unimpressed throughout. |
+| [[episodes/2026-08-08|2026-08-08]] | 41:04 | Hype Train on Living Piss & The Power of Love: Triggered by the word 'science', Hype Train hijacks the broadcast. He delivers a freestyle rap arguing that urine is a living organism oppressed by humanity, then transitions into a rap about love existing in stars, bars, and explosions. He rejects Case's attempts to force the segment to wrap up. |

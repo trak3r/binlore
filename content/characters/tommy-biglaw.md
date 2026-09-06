@@ -27,10 +27,12 @@ Rather than defending his employer, Biglaw immediately turned on Blackwell by un
 ## Appearances
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-08-26|2026-08-26]] | Summoned to advise on studio legal liability; speaks in a baby-talk lisp, assumes his prosecutor alter-ego, and bills Blackwell $40,000 for breaking 16 laws. |
 | [[episodes/2026-08-14|2026-08-14]] | Referenced in passing via 'Tommy Biglaw' / hobbyist lawyer Lyvin Sleazy comments during the Luigi Mangione and CIA stories. |
+| [[episodes/2026-08-08|2026-08-08]] | High-priced legal counsel with a baby-talk lisp. Appears in the chocolate milk debate wearing a 'yellow and blue coat' carrying a whiteboard, abruptly voting people out of the discussion. |
 
 ## Notable moments
 

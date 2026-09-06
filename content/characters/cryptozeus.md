@@ -37,14 +37,17 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 ## Appearances
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Live DOS playthrough of Epic MegaGames' *Jill of the Jungle* trilogy. Plugs Gooters wings and navigates his mother's Old English vocal affectations following a bumper-car accident. |
 | [[episodes/2026-09-01|2026-09-01]] | Streams *Wario Land 4* on GBA; hardware malfunctions force him to keyboard controls. His mother yells about turnip consumption, unwashed clothing, Pastor Joe, and Italian bicycles. Plugs Gooters mayo skins before aborting the broadcast in exasperation. |
 | [[episodes/2026-08-26|2026-08-26]] | Broadcasts an indie demo of *The Journey Home*; mother interrupts regarding Gooters wet wings, sloppy chicken fries, and the potato turducken. Receives sub confirmation regarding the Crum D*ck Punch schedule before concluding with a viewer raid. |
 | [[episodes/2026-08-19|2026-08-19]] | Resident gaming correspondent broadcasting remote from his bedroom while attempting to play a TurboGrafx-16 game. |
+| [[episodes/2026-08-08|2026-08-08]] | Gaming correspondent. Broadcasts a remote retro playthrough of a romhack of Super Mario Bros. 3 from his bedroom. Claims to make $60 million a year. Heckled constantly by his mother about Gooters chicken wings. |
 
 ## Notable moments
+
 
 
 - **[1:26:47]** ([[episodes/2026-09-02|2026-09-02]]): Delivers extended *Jill of the Jungle* gameplay commentary interspersed with Gooters sponsorship spots and maternal arguments.
@@ -55,3 +58,5 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 - **[01:21:43]** ([[episodes/2026-08-26|2026-08-26]]): Delivers a Gooters sponsor read introducing "wet storage bins," a "potato turducken" stuffed with a $20 bill, "herniated cheese discs," and Halloween "moist kitten poppers."
 - **[02:00:22]** ([[episodes/2026-08-26|2026-08-26]]): Completes *The Journey Home* demo to the final credits, navigating old-man birth sequences, Flappy Bird platforming, and sparkling afterlife states.
 - **[02:01:18]** ([[episodes/2026-08-19|2026-08-19]]): Brandon's mother claims he is in his 30s, implying his biological age, while he continues to be berated as 'Bran Bran' through the bedroom door.
+- **[172:07]** ([[episodes/2026-08-08|2026-08-08]]): Brandon claims to make '$60 million dollars a year' and boasts a $6 million net worth.
+- **[158:39]** ([[episodes/2026-08-08|2026-08-08]]): Brandon references his mother's Gooters wet chicken wings, noting she stored sodas inside 'big rubber socks' delivered by Pastor Joe.

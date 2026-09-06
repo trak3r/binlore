@@ -29,12 +29,14 @@ Due to automated closed-captioning idiosyncrasies across network feeds, Ripple's
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Delivers studio commentary on news graphics quality and engages in verbal sparring with Hype Train regarding his feline partner. |
 | [[episodes/2026-09-01|2026-09-01]] | Delivers the "Weekend Odds and Ends" broadcast report covering the British Columbia floating island, Virginia bat incident, Tarzana wildlife skirmishes, and water-balloon records. |
 | [[episodes/2026-08-19|2026-08-19]] | Studio newsreader and human-interest correspondent delivering headlines and chatting with the anchor. |
 | [[episodes/2026-08-13|2026-08-13]] | Studio newsreader and community correspondent. Identifies himself as the 'Monday correspondent' with a legacy John Stewart role. Delivers multiple stories including the reflecting pool scandal, Taiga AI album, and violent vegetable video investigation. |
+| [[episodes/2026-08-08|2026-08-08]] | ASR transcribed as 'Ben Hooper'. His UPI All News Minute audio package is played during the news block covering the dog surfing championships and the horse rescue. |
 
 ## Notable moments
 

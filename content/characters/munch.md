@@ -27,12 +27,14 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 ## Appearances
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Promises swift physical retribution upon Crum; recites the audience-compiled list of justifications for Crum's forfeit; leaks details regarding the Best Boob Club. |
 | [[episodes/2026-09-01|2026-09-01]] | Defends pepperoni as the definitive pizza topping; loses the debate to Crum's mayonnaise platform and appeals to the audience for spiritual solidarity. |
 | [[episodes/2026-08-26|2026-08-26]] | Defends his candidacy as a superior mayor to Mamdani, proclaims himself the debate winner, and argues that Crum must endure a "reverse pardon" resulting in two punches. |
 | [[episodes/2026-08-14|2026-08-14]] | Senior Debate Analyst. Champions keeping Hasan Piker's stream hard-hitting rather than adding character work. Coins the word 'trime' (slime + crime) to describe Crum's debating style. Reacts explosively when Crum steals the points button and outro music cue. |
+| [[episodes/2026-08-08|2026-08-08]] | Senior debate analyst. Picks Andrew Garfield as the best Spider-Man citing his 'gentle eyes' and 'long slender bod'. Torments Crum over his emancipated daughter and the impending gorilla punch. |
 
 ## Notable moments
 

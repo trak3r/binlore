@@ -28,6 +28,7 @@ Broadcast under the title **Munch & Crum**, the segment features rotating 3D net
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 1:12:27 | The Penalty Dossier Debate: Munch and Crum present their platforms. Munch recites an audience-submitted dossier enumerating reasons Crum must face his scheduled Monday robotic gorilla groin punch. Crum responds by claiming rigorous physical training and "super strength in spits." |
@@ -35,6 +36,7 @@ Broadcast under the title **Munch & Crum**, the segment features rotating 3D net
 | [[episodes/2026-08-26|2026-08-26]] | 01:22:44 | Municipal Leadership Debate: Munch and Crum debate mayoral qualifications between Munchcut and Mamdani. Crum hesitates to endorse his party's candidate, ultimately yielding to Munchcut. Munch claims victory, while Crum attempts to defer his robotic execution with iron armor. |
 | [[episodes/2026-08-19|2026-08-19]] | 01:49:36 | Grandma Crumble Bottom Intro: An elderly guest, 'Grandma Crumble Bottom,' is introduced to host the viral video segment. The opening banter is chaotic and tangential, involving heavy sun exposure and unrelated videos. |
 | [[episodes/2026-08-14|2026-08-14]] | 56:14 | Does Hasan Piker Need Characters On His Stream? / The Trime Incident: Munch and Crum debate whether Twitch streamer Hasan Piker should incorporate character work into his political broadcasts. Debate derails entirely when Munch coins the portmanteau 'trime' (slime + crime) to describe Crum's debating style. Crum is later caught stealing the points button and triggering his own outro music, enraging Munch. Crum attempts to 'trimeologize' but compounds the offense. Munch invokes the pending robot gorilla execution as ongoing punishment. |
+| [[episodes/2026-08-08|2026-08-08]] | 99:48 | Spider-Man Debate & Crum's Daughter: Crum joins the desk. He reveals his 26-year-old daughter Bethesda has legally emancipated herself from him, triggered by his surprise delivery of several ponies (two arrived dead). Crum and Munch debate the best live-action Spider-Man; Munch takes Andrew Garfield (citing his 'gentle eyes' and 'long slender bod'), while Crum stubbornly claims both Tobey Maguire and Tom Holland. Crum officially schedules the Crum D*ck Punch robotic gorilla execution for August 31st. |
 
 ## Related Coverage
 

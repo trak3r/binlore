@@ -40,6 +40,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Delivers the station sign-on: *"I'm Pepito, I'm the dog that produces the show, and now it is live, and I'm a dog."* |
@@ -49,8 +50,10 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-08-19|2026-08-19]] | Executive Producer opening the broadcast from the Producer Cam. |
 | [[episodes/2026-08-14|2026-08-14]] | Executive Producer. Opens the broadcast with his signature 'I'm Pepito, I'm the dog that produces the show' introduction, handles the live countdown, and pushes the PNUI data scraping promo. |
 | [[episodes/2026-08-13|2026-08-13]] | Executive producer appearing via producer cam. Confirms stream is live, remains unimpressed by Hype Train's turd freestyle, and explains his difficulty eating cheese due to tongue immobility. |
+| [[episodes/2026-08-08|2026-08-08]] | Executive Producer who opens the broadcast via the Producer Cam. |
 
 ## Notable moments
+
 
 
 
@@ -62,3 +65,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[00:08]** ([[episodes/2026-08-14|2026-08-14]]): Pepito anchors the cold open with his signature line: 'I'm Pepito, I'm the dog that produces the show, and now it is live, and I'm a dog.'
 - **[11:05]** ([[episodes/2026-08-14|2026-08-14]]): Pepito runs the PNUI data scraping program built into the network's PNUI contract with Grum, training models on streams data and apparently even footage from studio toilets.
 - **[31:18-31:51]** ([[episodes/2026-08-13|2026-08-13]]): Pepito claims he has an immobilized tongue that makes eating cheese difficult, stating 'I've made it work' despite the challenge.
+- **[00:00]** ([[episodes/2026-08-08|2026-08-08]]): Executive Producer Pepito's opening cold open catchphrase is 'I'm Pepita, I'm the dog that produces the show'.

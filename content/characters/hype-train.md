@@ -35,6 +35,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Derails subscriber acknowledgments to promote *Piss Fruit Ninja*, commands a vaudeville rhythm, raps about his Panther partner, and details his crypto universe upbringing. |
@@ -44,8 +45,10 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-08-19|2026-08-19]] | High-velocity cultural correspondent deploying to override the broadcast for extended freestyle raps over cereal-type beats. |
 | [[episodes/2026-08-14|2026-08-14]] | Triggered briefly when Liliana reads the hype train alerts at the top of the broadcast. No on-air segment during this telecast. |
 | [[episodes/2026-08-13|2026-08-13]] | High-velocity musical and cultural correspondent. Delivers extended freestyle raps on 'turd,' 'money flossing,' 'Cheeto golf tee,' and hot money piss. Chat votes 99.9% it is indeed piss. Panther companion present but not heard. |
+| [[episodes/2026-08-08|2026-08-08]] | High-velocity cultural correspondent. Hijacks the broadcast after the word 'science' is uttered, rapping about living urine organisms being oppressed by flushing, then pivoting to raps about love existing in stars, bars, and explosions. |
 
 ## Notable moments
+
 
 
 
@@ -60,3 +63,5 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[31:22]** ([[episodes/2026-08-26|2026-08-26]]): Reaches Level 5 network velocity and outlines an ancient mythological linguistic system whose foundational roots predated Homeric epic poetry.
 - **[00:22:58]** ([[episodes/2026-08-19|2026-08-19]]): Hype Train is explicitly averse to thanking subscribers, defying Pepito's orders to 'think the subs' in favor of doing the opposite.
 - **[24:46-29:59]** ([[episodes/2026-08-13|2026-08-13]]): Hype Train introduces the 'money flossing' dance move involving sticking out one's tongue and moving left to right. He later conflates it with the 'Cheeto golf tee' concept, which he describes as a separate dance that 'I've been Cheeto golf tee-ing as long as I was breathing.'
+- **[29:40]** ([[episodes/2026-08-08|2026-08-08]]): Hype Train commands a 'PhD in train grease' and declares that train grease is 'extremely alive' and 'how you give birth to more trains'.
+- **[34:37]** ([[episodes/2026-08-08|2026-08-08]]): Hype Train writes freestyle raps about the omnipresence of love, noting 'love if we are just gay' and 'there's even love on explosions'.
