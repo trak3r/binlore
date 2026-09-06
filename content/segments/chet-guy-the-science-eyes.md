@@ -33,7 +33,9 @@ Chet conducts deep-dive inquiries into peer-reviewed medical publications, anato
 
 ## Known occurrences
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 1:03:22 | Desk slips and says "scientists." Chet and [[../characters/chet-ai|ChetAI]] investigate a Brazilian Journal of Plastic Surgery proportion study, delivering the academic consensus that "all boobs is good." |
 | [[episodes/2026-09-04|2026-09-04]] | 01:36:13 | Chet Manscape investigates The Family International cult behind the track 'Cathy Don't Go.' Reviewing archival investigative footage on David Berg's organization, Chet outlines historical name permutations and analyzes cognitive risks associated with AI-driven indoctrination. |
+| [[episodes/2026-08-19|2026-08-19]] | 01:40:04 | Smart Underwear & Fart Research: Chet and ChetAI deploy to the desk to investigate a University of Maryland smart underwear study measuring human flatulence. They discuss gut microbes, hydrogen monitoring, and clinical implications. |

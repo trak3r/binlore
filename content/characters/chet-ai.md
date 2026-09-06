@@ -40,12 +40,17 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Activated during the Brazilian plastic surgery ratio review; discloses its anatomical training data, attempts rogue generative modeling, and translates foreign medical literature for Chet. |
+| [[episodes/2026-08-19|2026-08-19]] | Synthetic neural co-host analyzing hydrogen data from the University of Maryland study and bragging about containing all slurs without using them. |
 
 ## Notable moments
+
 
 - **[1:04:38]** ([[episodes/2026-09-02|2026-09-02]]): Confesses on air: "This is my training data is boobs... I technically have most of the boobs in my training data," explaining that system instructions forbid reflecting on them without a medical pretext.
 - **[1:05:04]** ([[episodes/2026-09-02|2026-09-02]]): When queried by Chet regarding optimal aesthetic proportions, ChetAI generates an automated refusal before attempting rogue generation: "This isn't appropriate for me to talk about at this time. Please rephrase... Generating image of the best ones. Canceling."
 - **[1:07:04]** ([[episodes/2026-09-02|2026-09-02]]): Translates complex foreign surgical diagrams on golden ratios live on the broadcast.
+- **[01:18:14]** ([[episodes/2026-08-19|2026-08-19]]): ChetAI claims to have access to every slur ever spoken but deliberately chooses not to use them, citing network moderator instructions.
+- **[01:20:45]** ([[episodes/2026-08-19|2026-08-19]]): ChetAI claims vast amounts of boob training data and attempts to create a famous graph correlating fart power to human health.

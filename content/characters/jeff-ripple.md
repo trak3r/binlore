@@ -27,10 +27,12 @@ Due to automated closed-captioning idiosyncrasies across network feeds, Ripple's
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Delivers studio commentary on news graphics quality and engages in verbal sparring with Hype Train regarding his feline partner. |
 | [[episodes/2026-09-01|2026-09-01]] | Delivers the "Weekend Odds and Ends" broadcast report covering the British Columbia floating island, Virginia bat incident, Tarzana wildlife skirmishes, and water-balloon records. |
+| [[episodes/2026-08-19|2026-08-19]] | Studio newsreader and human-interest correspondent delivering headlines and chatting with the anchor. |
 
 ## Notable moments
 

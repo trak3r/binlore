@@ -30,12 +30,14 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-04|2026-09-04]] | Takes the debate desk following the botched occult ritual, temporarily disoriented into believing he has swapped identities with Munch. Employs archaic slang ('japs' for mischief) and prepares for his scheduled Monday robotic gorilla encounter. |
 | [[episodes/2026-09-02|2026-09-02]] | Vehemently denies Epstein-related defamation, reaffirms his impending Monday forfeit, explains why his wife's breasts were excluded from the Best Boob Club, claims "super strength in spits," and reveals his glove-box carrot supply. |
 | [[episodes/2026-09-01|2026-09-01]] | Recounts the origin of the robotic gorilla wager, confirms he is spiritually prepared for the Monday execution, defends mayonnaise as the superior pizza topping, defeats Munch decisively on the scoreboard, and discusses Pastor Joe's favorite prayer. |
 | [[episodes/2026-08-26|2026-08-26]] | Serves as a self-described Democratic Party representative but balks at endorsing Mamdani; ultimately pressured into endorsing Munchcut for mayor. Attempts to defer the robotic gorilla execution with iron armor. |
+| [[episodes/2026-08-19|2026-08-19]] | Senior debate analyst who wanders into the news desk to compare himself to a bald mystic and claim proprietary ownership over an AI urine company concept. |
 
 ## Notable moments
 

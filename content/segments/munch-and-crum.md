@@ -26,11 +26,13 @@ Broadcast under the title **Munch & Crum**, the segment features rotating 3D net
 
 ## Known occurrences
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 1:12:27 | The Penalty Dossier Debate: Munch and Crum present their platforms. Munch recites an audience-submitted dossier enumerating reasons Crum must face his scheduled Monday robotic gorilla groin punch. Crum responds by claiming rigorous physical training and "super strength in spits." |
 | [[episodes/2026-09-01|2026-09-01]] | 46:28 | The Pizza Topping Debate & Forfeit Readiness: Crum confirms the impending robotic gorilla execution prior to Blackwell's international leave, while Munch appeals for spiritual protection. The debate turns to optimal pizza toppings: Crum champions mayonnaise while Munch defends pepperoni. Crum wins in a 290-point landslide, gloating over Munch's defeat. |
 | [[episodes/2026-08-26|2026-08-26]] | 01:22:44 | Municipal Leadership Debate: Munch and Crum debate mayoral qualifications between Munchcut and Mamdani. Crum hesitates to endorse his party's candidate, ultimately yielding to Munchcut. Munch claims victory, while Crum attempts to defer his robotic execution with iron armor. |
+| [[episodes/2026-08-19|2026-08-19]] | 01:49:36 | Grandma Crumble Bottom Intro: An elderly guest, 'Grandma Crumble Bottom,' is introduced to host the viral video segment. The opening banter is chaotic and tangential, involving heavy sun exposure and unrelated videos. |
 
 ## Related Coverage
 

@@ -27,6 +27,7 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 
 ## Notable moments
 
+
 - **[15:18]** ([[episodes/2026-09-02|2026-09-02]]): Mentions an upcoming Chicago Sketchfest date 'October 2nd' and teases a larger project announcement with his sketch ensemble.
 - **[42:29]** ([[episodes/2026-09-02|2026-09-02]]): Credited field reporter on the Pentagon story: 'Reporting for this was done by Christy Santhosh.'
 - **[50:02]** ([[episodes/2026-09-02|2026-09-02]]): When called out on broadcast liability, Case cites the 'new trend in the news to relentlessly slander streamers all day' and references QTCinderella coverage on mainstream networks.
@@ -37,3 +38,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[00:54]** ([[episodes/2026-08-26|2026-08-26]]): Debriefs the broadcast regarding applying 106 Bart Simpson temporary tattoos over the weekend, noting severe adhesive residue and skin irritation.
 - **[16:01]** ([[episodes/2026-08-26|2026-08-26]]): Recounts the early history of the network, tracing its origins from an outdoor Bass Pro Shops broadcast and SimCity city planning coverage to a full news desk format.
 - **[01:40:04]** ([[episodes/2026-08-26|2026-08-26]]): Announces upcoming international travel to Thailand from September 8–17 for personal life events, requiring the network's programming schedule to adjust accordingly.
+- **[00:03:30]** ([[episodes/2026-08-19|2026-08-19]]): Case references a brother who is reportedly practicing the Nintendo 64 game 'Mace: The Dark Age' and idolizing a character named Lord Demos.
+- **[02:35:50]** ([[episodes/2026-08-19|2026-08-19]]): Case references an upcoming Patreon stream scheduled for the following day, and a potential Friday broadcast dependent on the printing of 16 sheets of Bart Simpson tattoos.

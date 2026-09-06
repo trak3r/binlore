@@ -32,14 +32,17 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Derails subscriber acknowledgments to promote *Piss Fruit Ninja*, commands a vaudeville rhythm, raps about his Panther partner, and details his crypto universe upbringing. |
 | [[episodes/2026-09-04|2026-09-04]] | Hijacks the broadcast to argue that eggs lack pre-injected sauce, performs Dr. Seuss-style egg raps, acknowledges donors, and requests love ballads when viewers depart. |
 | [[episodes/2026-09-01|2026-09-01]] | Delivers an extended rap describing locomotive reproduction, giving birth to train cars and skeletons; notably abstains from fluidic topics for the entire appearance. |
 | [[episodes/2026-08-26|2026-08-26]] | Commandeers the broadcast with rapid-fire film reviews of non-existent single-word titles before outlining the linguistic origins of an ancient fluidic language pre-dating Homer. |
+| [[episodes/2026-08-19|2026-08-19]] | High-velocity cultural correspondent deploying to override the broadcast for extended freestyle raps over cereal-type beats. |
 
 ## Notable moments
+
 
 - **[19:32]** ([[episodes/2026-09-02|2026-09-02]]): Unveils *Piss Fruit Ninja* as an upcoming interactive project, chiding Blackwell for leaking details on the network feed.
 - **[22:33]** ([[episodes/2026-09-02|2026-09-02]]): Introduces his Panther partner to the audience and articulates his non-possessive relationship ethos.
@@ -50,3 +53,4 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[14:09]** ([[episodes/2026-09-01|2026-09-01]]): Explains that coupling additional train cars represents a biological gestation cycle resulting in new rail stock.
 - **[23:29]** ([[episodes/2026-09-01|2026-09-01]]): Expresses a philosophical preference for mortality: claims to have "died via autotune, like all the greats."
 - **[31:22]** ([[episodes/2026-08-26|2026-08-26]]): Reaches Level 5 network velocity and outlines an ancient mythological linguistic system whose foundational roots predated Homeric epic poetry.
+- **[00:22:58]** ([[episodes/2026-08-19|2026-08-19]]): Hype Train is explicitly averse to thanking subscribers, defying Pepito's orders to 'think the subs' in favor of doing the opposite.

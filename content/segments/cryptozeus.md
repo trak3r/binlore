@@ -31,8 +31,10 @@ Brandon's gameplay is consistently disrupted by his mother shouting through the 
 
 ## Known occurrences
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 1:26:47 | DOS playthrough of the *Jill of the Jungle* trilogy with recurring Gooters dispatches, maternal Old English arguments, and in-game lore scrolling. |
 | [[episodes/2026-09-01|2026-09-01]] | 59:19 | Brandon attempts to play *Wario Land 4* on GBA; controller malfunctions force keyboard play. His mother yells through the door regarding turnip gardens, dirty laundry, Pastor Joe, and Italian bicycles. Concludes with a Gooters sponsor read before Brandon terminates the feed in frustration. |
 | [[episodes/2026-08-26|2026-08-26]] | 01:38:45 | Remote playthrough of *The Journey Home* indie demo. Brandon's mother interrupts regarding Gooters wet wings, sloppy chicken fries, and the potato turducken. A viewer dispatch confirms the Crum D*ck Punch schedule before concluding with a raid on Denny's broadcast. |
+| [[episodes/2026-08-19|2026-08-19]] | 02:05:34 | Obocama-kun TurboGrafx-16 Gameplay: Resident gaming correspondent Brandon (Cryptozeus) attempts to play 'Obocama-kun' on the TurboGrafx-16 via RetroArch, facing relentless harassment from his mother yelling through the door about laundry, ferrets, and various household disasters, alongside multiple Gooters wing sponsor dispatches. |

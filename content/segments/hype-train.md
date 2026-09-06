@@ -29,9 +29,11 @@ While officially tasked with acknowledging viewer contributions and network patr
 
 ## Known occurrences
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 17:13 | Intercepts the broadcast to promote *Piss Fruit Ninja*, commands a vaudeville tempo, and outlines his crypto-universe background. |
 | [[episodes/2026-09-04|2026-09-04]] | 01:11:00 | Derails subscriber acknowledgments with Dr. Seuss-style egg-sauce raps and CIA operational anecdotes. |
 | [[episodes/2026-09-01|2026-09-01]] | 12:42 | Active momentum surge; delivers an extended rap regarding locomotive reproduction and rail safety standards while abstaining from fluidic topics. |
 | [[episodes/2026-08-26|2026-08-26]] | 15:33 | Hijacks the feed with rapid-fire film critiques of one-word titles before presenting an ancient mythological language pre-dating Homer. |
+| [[episodes/2026-08-19|2026-08-19]] | 08:47 | Cereal Mascot Hype Train Raps: A hype train surge occurs early in the broadcast. Hype Train launches into an extended freestyle rap ranking cereal mascots, refusing to properly thank subs until pressured by the anchor. |
