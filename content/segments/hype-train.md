@@ -33,6 +33,7 @@ While officially tasked with acknowledging viewer contributions and network patr
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 17:13 | Intercepts the broadcast to promote *Piss Fruit Ninja*, commands a vaudeville tempo, and outlines his crypto-universe background. |
@@ -43,3 +44,4 @@ While officially tasked with acknowledging viewer contributions and network patr
 | [[episodes/2026-08-13|2026-08-13]] | 00:08 | Money Flossing, Cheeto Golf Tee & Turd Freestyle: Hype Train delivers an extended high-velocity freestyle session dominated by the 'turd' theme, 'money flossing' dance tutorial, 'Cheeto golf tee' concept, and hot money piss wordplay. Chat votes 99.9% 'it's piss.' Pepito remains unimpressed throughout. |
 | [[episodes/2026-08-08|2026-08-08]] | 41:04 | Hype Train on Living Piss & The Power of Love: Triggered by the word 'science', Hype Train hijacks the broadcast. He delivers a freestyle rap arguing that urine is a living organism oppressed by humanity, then transitions into a rap about love existing in stars, bars, and explosions. He rejects Case's attempts to force the segment to wrap up. |
 | [[episodes/2026-08-06|2026-08-06]] | 00:00 | Pepito Cold Open & Hype Train Troubleshooting: Executive Producer Pepito opens the broadcast with his signature canine intro. Hype Train commandeers the desk early but battles a malfunctioning synthwave visualization widget. Discussion meanders through subscriber acknowledgements, Danny Phantom cultural literacy, and the dangers of ghosts before the anchor can transition to news. |
+| [[episodes/2026-08-04|2026-08-04]] | 00:08 | Pepito Pre-show, Blackwell Ankle Confessional & Hype Train Caboose Bit: Pepito (referred to by ASR as 'Papita') opens the broadcast while Blackwell explains his absence (Monday blackout, Wednesday internet outage, accumulated power/work tasks) and refuses medical treatment for his visibly swollen ankle. Blackwell repeatedly deflects viewer prompts to ice and elevate the injury. The Hype Train interrupts to deliver subscriber acknowledgements and an extended freestyle rap about losing his caboose. |

@@ -38,6 +38,7 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Live DOS playthrough of Epic MegaGames' *Jill of the Jungle* trilogy. Plugs Gooters wings and navigates his mother's Old English vocal affectations following a bumper-car accident. |
@@ -45,8 +46,10 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-08-26|2026-08-26]] | Broadcasts an indie demo of *The Journey Home*; mother interrupts regarding Gooters wet wings, sloppy chicken fries, and the potato turducken. Receives sub confirmation regarding the Crum D*ck Punch schedule before concluding with a viewer raid. |
 | [[episodes/2026-08-19|2026-08-19]] | Resident gaming correspondent broadcasting remote from his bedroom while attempting to play a TurboGrafx-16 game. |
 | [[episodes/2026-08-08|2026-08-08]] | Gaming correspondent. Broadcasts a remote retro playthrough of a romhack of Super Mario Bros. 3 from his bedroom. Claims to make $60 million a year. Heckled constantly by his mother about Gooters chicken wings. |
+| [[episodes/2026-08-04|2026-08-04]] | Resident gaming correspondent. Broadcasts remotely from his bedroom, fails to emulate Mickey's Blast Into the Past on the Sega Pico via RetroArch, and is repeatedly interrupted by his mother through the door. |
 
 ## Notable moments
+
 
 
 
@@ -60,3 +63,5 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 - **[02:01:18]** ([[episodes/2026-08-19|2026-08-19]]): Brandon's mother claims he is in his 30s, implying his biological age, while he continues to be berated as 'Bran Bran' through the bedroom door.
 - **[172:07]** ([[episodes/2026-08-08|2026-08-08]]): Brandon claims to make '$60 million dollars a year' and boasts a $6 million net worth.
 - **[158:39]** ([[episodes/2026-08-08|2026-08-08]]): Brandon references his mother's Gooters wet chicken wings, noting she stored sodas inside 'big rubber socks' delivered by Pastor Joe.
+- **[01:05:56]** ([[episodes/2026-08-04|2026-08-04]]): Brandon's mother calls him 'Bran Bran' through the bedroom door and is sourced from incoming viewer submissions and community correspondence. [01:05:56]
+- **[01:07:11]** ([[episodes/2026-08-04|2026-08-04]]): Brandon's mother demands he inject Pepsi into his penis on behalf of Pastor Joe, who wants to 'pray the shit out of' him, and reveals the household front door is currently missing, explaining a bear infestation. [01:07:11] [01:22:52]
