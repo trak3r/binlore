@@ -298,6 +298,7 @@ def create_character_page(
         "munch",
         "crum",
         "hype-train",
+        "tommy-biglaw",
         "case-blackwell",
     }
     img_tag = ""
