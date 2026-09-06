@@ -2,6 +2,11 @@ import { FileTrieNode } from "../../util/fileTrie"
 import { FullSlug, resolveRelative, simplifySlug } from "../../util/path"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
 
+// Polyfill __name if minifier or esbuild references it in serialized functions
+if (typeof (window as any).__name === "undefined") {
+  ;(window as any).__name = (fn: any) => fn
+}
+
 type MaybeHTMLElement = HTMLElement | undefined
 
 interface ParsedOptions {
@@ -159,14 +164,33 @@ async function setupExplorer(currentSlug: FullSlug) {
 
   for (const explorer of allExplorers) {
     const dataFns = JSON.parse(explorer.dataset.dataFns || "{}")
+    let sortFn: ((a: FileTrieNode, b: FileTrieNode) => number) | undefined
+    let filterFn: ((node: FileTrieNode) => boolean) | undefined
+    let mapFn: ((node: FileTrieNode) => void) | undefined
+    try {
+      sortFn = new Function("return " + (dataFns.sortFn || "undefined"))()
+    } catch (e) {
+      console.error("Failed to parse sortFn:", e)
+    }
+    try {
+      filterFn = new Function("return " + (dataFns.filterFn || "undefined"))()
+    } catch (e) {
+      console.error("Failed to parse filterFn:", e)
+    }
+    try {
+      mapFn = new Function("return " + (dataFns.mapFn || "undefined"))()
+    } catch (e) {
+      console.error("Failed to parse mapFn:", e)
+    }
+
     const opts: ParsedOptions = {
       folderClickBehavior: (explorer.dataset.behavior || "collapse") as "collapse" | "link",
       folderDefaultState: (explorer.dataset.collapsed || "collapsed") as "collapsed" | "open",
       useSavedState: explorer.dataset.savestate === "true",
       order: dataFns.order || ["filter", "map", "sort"],
-      sortFn: new Function("return " + (dataFns.sortFn || "undefined"))(),
-      filterFn: new Function("return " + (dataFns.filterFn || "undefined"))(),
-      mapFn: new Function("return " + (dataFns.mapFn || "undefined"))(),
+      sortFn: sortFn!,
+      filterFn: filterFn!,
+      mapFn: mapFn!,
     }
 
     // Get folder state from local storage
@@ -182,16 +206,20 @@ async function setupExplorer(currentSlug: FullSlug) {
 
     // Apply functions in order
     for (const fn of opts.order) {
-      switch (fn) {
-        case "filter":
-          if (opts.filterFn) trie.filter(opts.filterFn)
-          break
-        case "map":
-          if (opts.mapFn) trie.map(opts.mapFn)
-          break
-        case "sort":
-          if (opts.sortFn) trie.sort(opts.sortFn)
-          break
+      try {
+        switch (fn) {
+          case "filter":
+            if (opts.filterFn) trie.filter(opts.filterFn)
+            break
+          case "map":
+            if (opts.mapFn) trie.map(opts.mapFn)
+            break
+          case "sort":
+            if (opts.sortFn) trie.sort(opts.sortFn)
+            break
+        }
+      } catch (err) {
+        console.error(`Error during Explorer ${fn}:`, err)
       }
     }
 

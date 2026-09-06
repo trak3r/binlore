@@ -35,28 +35,41 @@ const defaultOptions: Options = {
     // Other folders and files are sorted alphabetically.
     if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
       const dateRegex = /\b\d{4}-\d{2}-\d{2}\b/
-      const getDate = (node) => {
-        if (node.data && node.data.date) {
-          return typeof node.data.date === "string"
-            ? node.data.date
-            : node.data.date.toISOString?.() ?? String(node.data.date)
-        }
-        const match =
-          (node.slug && node.slug.match(dateRegex)) ||
-          (node.displayName && node.displayName.match(dateRegex)) ||
-          (node.data && node.data.filePath && node.data.filePath.match(dateRegex))
-        return match ? match[0] : null
+      let dateA = null
+      if (a.data && a.data.date) {
+        dateA =
+          typeof a.data.date === "string"
+            ? a.data.date
+            : a.data.date.toISOString?.() ?? String(a.data.date)
+      }
+      if (!dateA) {
+        const matchA =
+          (a.slug && a.slug.match(dateRegex)) ||
+          (a.displayName && a.displayName.match(dateRegex)) ||
+          (a.data && a.data.filePath && a.data.filePath.match(dateRegex))
+        if (matchA) dateA = matchA[0]
       }
 
-      const isEpisodeA = a.slug?.startsWith("episodes/") || getDate(a) !== null
-      const isEpisodeB = b.slug?.startsWith("episodes/") || getDate(b) !== null
+      let dateB = null
+      if (b.data && b.data.date) {
+        dateB =
+          typeof b.data.date === "string"
+            ? b.data.date
+            : b.data.date.toISOString?.() ?? String(b.data.date)
+      }
+      if (!dateB) {
+        const matchB =
+          (b.slug && b.slug.match(dateRegex)) ||
+          (b.displayName && b.displayName.match(dateRegex)) ||
+          (b.data && b.data.filePath && b.data.filePath.match(dateRegex))
+        if (matchB) dateB = matchB[0]
+      }
 
-      if (isEpisodeA && isEpisodeB) {
-        const dateA = getDate(a)
-        const dateB = getDate(b)
-        if (dateA && dateB && dateA !== dateB) {
-          return dateB.localeCompare(dateA)
-        }
+      const isEpisodeA = Boolean(a.slug?.startsWith("episodes/") || dateA)
+      const isEpisodeB = Boolean(b.slug?.startsWith("episodes/") || dateB)
+
+      if (isEpisodeA && isEpisodeB && dateA && dateB && dateA !== dateB) {
+        return dateB.localeCompare(dateA)
       }
 
       return a.displayName.localeCompare(b.displayName, undefined, {
