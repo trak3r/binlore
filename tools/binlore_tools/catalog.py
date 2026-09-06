@@ -35,9 +35,10 @@ def generate_episodes_index() -> None:
     total_hours = total_seconds // 3600
     ingested_count = len(ingested_map)
     backlog_count = total_streams - ingested_count
+    initial_pages = max(1, (total_streams + 49) // 50)
 
     rows: list[str] = []
-    for s in streams:
+    for idx, s in enumerate(streams):
         yt_id = s.get("yt_id") or s["id"]
         twitch_id = s.get("twitch_id")
         twitch_url = s.get("twitch_url")
@@ -72,8 +73,9 @@ def generate_episodes_index() -> None:
         else:
             vod_cell = f'<code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">{yt_id}</code>'
 
+        display_style = ' style="display: none;"' if idx >= 50 else ''
         row = (
-            f'<tr data-status="{status_raw}" data-title="{title.lower()}" data-date="{date_str}" data-vod-id="{vod_id_display.lower()}">'
+            f'<tr data-status="{status_raw}" data-title="{title.lower()}" data-date="{date_str}" data-vod-id="{vod_id_display.lower()}"{display_style}>'
             f'<td class="cell-date"><code>{date_str}</code></td>'
             f'<td class="cell-title">{title_cell}</td>'
             f'<td class="cell-vod">{vod_cell}</td>'
@@ -163,8 +165,8 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
 </div>
 
 <div class="pagination-controls" id="pagination-controls">
-  <button id="btn-prev" class="page-btn">← Previous</button>
-  <span id="page-info" class="page-info">Page 1 of 1</span>
+  <button id="btn-prev" class="page-btn" disabled>← Previous</button>
+  <span id="page-info" class="page-info">Page 1 of {initial_pages} ({total_streams} streams)</span>
   <button id="btn-next" class="page-btn">Next →</button>
 </div>
 
@@ -334,81 +336,6 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   color: var(--gray);
 }}
 </style>
-
-<script>
-document.addEventListener("nav", function() {{
-  initEpisodesTable();
-}});
-if (document.readyState !== "loading") {{
-  initEpisodesTable();
-}} else {{
-  document.addEventListener("DOMContentLoaded", initEpisodesTable);
-}}
-
-function initEpisodesTable() {{
-  const table = document.getElementById("episodes-table");
-  if (!table) return;
-
-  const searchInput = document.getElementById("episode-search");
-  const statusFilter = document.getElementById("status-filter");
-  const pageSizeSelect = document.getElementById("page-size");
-  const prevBtn = document.getElementById("btn-prev");
-  const nextBtn = document.getElementById("btn-next");
-  const pageInfo = document.getElementById("page-info");
-
-  const allRows = Array.from(table.querySelectorAll("tbody tr"));
-  let currentPage = 1;
-
-  function filterAndPaginate() {{
-    const query = searchInput ? searchInput.value.toLowerCase().trim() : "";
-    const status = statusFilter ? statusFilter.value : "all";
-    const pageSizeVal = pageSizeSelect ? pageSizeSelect.value : "50";
-    const pageSize = pageSizeVal === "all" ? allRows.length : parseInt(pageSizeVal, 10);
-
-    const matchingRows = allRows.filter(function(row) {{
-      const rowStatus = row.getAttribute("data-status");
-      const rowTitle = row.getAttribute("data-title") || "";
-      const rowDate = row.getAttribute("data-date") || "";
-      const rowVod = row.getAttribute("data-vod-id") || "";
-      const matchesStatus = status === "all" || rowStatus === status;
-      const matchesSearch = !query || 
-        rowTitle.indexOf(query) !== -1 || 
-        rowDate.indexOf(query) !== -1 || 
-        rowVod.indexOf(query) !== -1;
-      return matchesStatus && matchesSearch;
-    }});
-
-    const totalPages = Math.max(1, Math.ceil(matchingRows.length / pageSize));
-    if (currentPage > totalPages) currentPage = totalPages;
-    if (currentPage < 1) currentPage = 1;
-
-    const startIdx = (currentPage - 1) * pageSize;
-    const endIdx = startIdx + pageSize;
-
-    allRows.forEach(function(row) {{
-      row.style.display = "none";
-    }});
-
-    matchingRows.slice(startIdx, endIdx).forEach(function(row) {{
-      row.style.display = "";
-    }});
-
-    if (pageInfo) {{
-      pageInfo.textContent = "Page " + currentPage + " of " + totalPages + " (" + matchingRows.length + " streams)";
-    }}
-    if (prevBtn) prevBtn.disabled = (currentPage <= 1);
-    if (nextBtn) nextBtn.disabled = (currentPage >= totalPages);
-  }}
-
-  if (searchInput) searchInput.addEventListener("input", function() {{ currentPage = 1; filterAndPaginate(); }});
-  if (statusFilter) statusFilter.addEventListener("change", function() {{ currentPage = 1; filterAndPaginate(); }});
-  if (pageSizeSelect) pageSizeSelect.addEventListener("change", function() {{ currentPage = 1; filterAndPaginate(); }});
-  if (prevBtn) prevBtn.addEventListener("click", function() {{ if (currentPage > 1) {{ currentPage--; filterAndPaginate(); }} }});
-  if (nextBtn) nextBtn.addEventListener("click", function() {{ currentPage++; filterAndPaginate(); }});
-
-  filterAndPaginate();
-}}
-</script>
 """
 
     CONTENT_EPISODES.mkdir(parents=True, exist_ok=True)
