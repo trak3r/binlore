@@ -122,8 +122,8 @@ def _format_character_link(name: str) -> str:
         return "[[characters/chet-ai|ChetAI]]"
     if "chet" in slug or "manscape" in slug or "science" in slug or "skynce" in slug:
         return "[[characters/chet|Chet (Chet Manscape)]]"
-    if "cryptozeus" in slug:
-        return "[[characters/cryptozeus|Cryptozeus]]"
+    if "cryptozeus" in slug or "brandon" in slug:
+        return "[[characters/cryptozeus|Brandon (Cryptozeus)]]"
     if "ripple" in slug or "hooper" in slug:
         return "[[characters/jeff-ripple|Jeff Ripple]]"
     if "pepito" in slug:

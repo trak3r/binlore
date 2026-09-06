@@ -87,7 +87,7 @@ Key network context:
   - **Chet (Chet Manscape)**: Chief science correspondent with desk microscope.
   - **ChetAI**: Synthetic neural network co-host operating from the studio monitors.
   - **Hype Train**: High-velocity musical and cultural correspondent traveling with his panther companion.
-  - **Cryptozeus (Brandon)**: Resident gaming and digital culture correspondent.
+  - **Brandon (Cryptozeus)**: Resident gaming and digital culture correspondent.
   - **Pepito**: Executive producer overseeing broadcast operations.
   - **Jeff Ripple**: Studio news reader and breaking chat correspondent (often misheard in ASR as "Jeff Hooper").
   - **Peter Gibbon**: Disgraced former producer who now inhabits the studio wall crawlspaces as a news stowaway.

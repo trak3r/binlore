@@ -1,5 +1,5 @@
 ---
-title: "Cryptozeus (Brandon)"
+title: "Brandon (Cryptozeus)"
 type: character
 aliases:
   - Cryptozeus
@@ -13,7 +13,7 @@ tags:
   - gaming
 ---
 
-# Cryptozeus (Brandon)
+# Brandon (Cryptozeus)
 
 ![Cryptozeus on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/cryptozeus.jpg)
 

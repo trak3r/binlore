@@ -18,7 +18,7 @@ Anchors, senior correspondents, debate analysts, and production staff across *Ba
 | [[chet|Chet (Chet Manscape)]] | Chief Science Correspondent | Investigative science correspondent dispatched whenever "science" is uttered |
 | [[chet-ai|ChetAI]] | Synthetic AI Analyst | Chet's neural network co-host operating directly through the studio monitors |
 | [[hype-train|Hype Train]] | Cultural & Musical Correspondent | High-velocity locomotive correspondent accompanied by his panther partner |
-| [[cryptozeus|Cryptozeus (Brandon)]] | Gaming & Culture Correspondent | Remote gaming anchor broadcasting from his bedroom amidst maternal interruptions |
+| [[cryptozeus|Brandon (Cryptozeus)]] | Gaming & Culture Correspondent | Remote gaming anchor broadcasting from his bedroom amidst maternal interruptions |
 | [[jeff-ripple|Jeff Ripple]] | Studio News Correspondent | Rapid-response desk reporter and viewer comment analyst |
 | [[peter-gibbon|Peter Gibbon]] | News Stowaway (Former Producer) | Disgraced former producer ousted from management who inhabits the studio wall crawlspaces |
 | [[rick|Rick]] | Tactical Web Analyst | Veteran tactical correspondent and anchor of *Amongst the Web* |
