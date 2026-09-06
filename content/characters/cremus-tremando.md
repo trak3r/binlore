@@ -3,31 +3,31 @@ title: Cremus Tremando
 type: character
 aliases: []
 first_seen: 2026-09-04
-status: recurring
+status: one-time guest
 tags:
   - character
+  - guest
+  - one-time-guest
 ---
 
 # Cremus Tremando
 
 ![Cremus Tremando on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/cremus-tremando.jpg)
 
-**Cremus Tremando** appears on *Barely Informed News*. On-air characters and personas are typically portrayed by [[case-blackwell|Case Blackwell]] using face filters and voice changers.
+**Cremus Tremando** is a one-off bit character on *Barely Informed News*, portrayed by [[case-blackwell|Case Blackwell]] using face filters and a sleazy, grandiose mystic persona.
 
 ## Overview
 
-New one-off Mystic Sorcerer character summoned from chat ('Live at Sleazy Mystic Sorcerer Cremus Tremando') to perform the body-swap. Hails from 'back alleys of New York' and 'heights of the ancient mountain Balamansore.' Invokes 'Bielzotroth, the God of Mistriff.' Pronounces 'no refunds,' demands a bill be mailed, and disappears via 'snake powers.' Not a canonical roster entity.
+Case occasionally introduces spontaneous, one-off characters to accentuate a specific joke or bit. Cremus Tremando was summoned during the [[episodes/2026-09-04|2026-09-04 broadcast]] as a sleazy mystic sorcerer ("Live at Sleazy Mystic Sorcerer Cremus Tremando") after chat called for a supernatural intervention. 
+
+Claiming to hail from the "back alleys of New York" and the "heights of the ancient mountain Balamansore," Cremus invoked *"Bielzotroth, the God of Mistriff"* to cast a "Freaky Friday" body-swap spell. After botching the incantation, he quickly declared "no refunds," insisted a bill be sent to him in the mail, and vanished via "snake powers."
 
 ## Appearances
 
-| Episode | Notes |
-|---------|-------|
-| [[episodes/2026-09-04|2026-09-04]] | New one-off Mystic Sorcerer character summoned from chat ('Live at Sleazy Mystic Sorcerer Cremus Tremando') to perform the body-swap. Hails from 'back alleys of New York' and 'heights of the ancient mountain Balamansore.' Invokes 'Bielzotroth, the God of Mistriff.' Pronounces 'no refunds,' demands a bill be mailed, and disappears via 'snake powers.' Not a canonical roster entity. |
+| Episode | Role | Notes |
+|---------|------|-------|
+| [[episodes/2026-09-04|2026-09-04]] | One-time guest | Sleazy mystic sorcerer summoned to perform a body-swap spell; declares "no refunds" and vanishes using snake powers. |
 
 ## Notable moments
 
-- **[14:35]** ([[episodes/2026-09-04|2026-09-04]]): One-off mystic persona. Origin: 'from the back alleys of New York' and 'the heights of the ancient mountain Balamansore.' Invoked entity: 'Bielzotroth, the God of Mistriff.' Charge: 'no refunds.' Casts spells via 'snake powers.'
-
-## Open questions
-
-- Full backstory and recurring lore
+- **[14:35]** ([[episodes/2026-09-04|2026-09-04]]): Invokes Bielzotroth, charges for the botched spell, and flees via snake powers.

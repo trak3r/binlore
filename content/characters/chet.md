@@ -48,7 +48,7 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] segment 
 - **[1:05:00]** ([[episodes/2026-09-02|2026-09-02]]): Prompts his newly built co-host [[chet-ai|ChetAI]] to determine the medically ideal breast ratio, leading to ChetAI attempting image generation and abruptly canceling.
 - **[1:07:04]** ([[episodes/2026-09-02|2026-09-02]]): Enlists ChetAI's training data to translate a Brazilian plastic surgery journal paper.
 - **[1:09:22]** ([[episodes/2026-09-02|2026-09-02]]): Delivers the definitive scientific conclusion on breast aesthetics: "They're all fucking good... all of them is the good one."
-- **[01:37:50]** ([[episodes/2026-09-04|2026-09-04]]): Chet's spontaneous trigger: jumps in to investigate The Family International after Scrotum plays their song 'Cathy Don't Go.' Chet introduces a pair of 'better sunglasses' that filter 'good blue light in, bad blue light out' and complains 'somebody fucked up my music' (Hype Train's intrusion).
+- **[01:37:50]** ([[episodes/2026-09-04|2026-09-04]]): Chet's spontaneous trigger: jumps in to investigate The Family International after Peter Gibbon plays their song 'Cathy Don't Go.' Chet introduces a pair of 'better sunglasses' that filter 'good blue light in, bad blue light out' and complains 'somebody fucked up my music' (Hype Train's intrusion).
 
 ## Open questions
 

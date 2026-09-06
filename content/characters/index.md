@@ -1,27 +1,35 @@
 ---
 title: Characters
-description: People and personas who appear on Barely Informed News.
+description: Cast, recurring personas, and guest appearances on Barely Informed News.
 ---
 
 # Characters
 
-Characters and on-air personas tracked by Binlore.
+Characters, recurring on-air personas, and guest appearances tracked by Binlore.
+
+## Main & Recurring Cast
 
 | Character | Status | Notes |
 |-----------|--------|-------|
-| [[munch\|Munch (Ralph Munchcut)]] | recurring | Debate fixture opposite Crum |
-| [[crum\|Crum]] | recurring | Debate fixture opposite Munch |
-| [[pepito\|Pepito]] | recurring | Dog producer who introduces and runs the show |
-| [[case-blackwell\|Case Blackwell]] | host / streamer | Host of Barely Informed News |
-| [[hype-train|Hype Train]] | recurring | Recurring hype-train persona with panther companion |
-| [[cryptozeus|Cryptozeus]] | recurring | Live retro gaming and playthrough persona |
-| [[jeff-ripple|Jeff Ripple]] | recurring | News/chat reader (often transcribed as Jeff Hooper) |
-| [[christian|Christian]] | recurring | Announcer/lab-assistant cameo; wins Christian vs Kendall debate |
-| [[chet\|Chet (Chet Manscape)]] | recurring | Science correspondent persona with microscope analyzing eccentric studies |
+| [[case-blackwell|Case Blackwell]] | host / streamer | Host and primary broadcaster of Barely Informed News |
+| [[munch|Munch (Ralph Munchcut)]] | recurring | Debate panel fixture opposite Crum in messy wig and floral blazer |
+| [[crum|Crum]] | recurring | Debate panel fixture with sunken eyes and chronic gambling debts |
+| [[pepito|Pepito]] | recurring | The dog producer who introduces and runs the show |
+| [[chet|Chet (Chet Manscape)]] | recurring | Science correspondent triggered whenever "science" is uttered |
 | [[chet-ai|ChetAI]] | recurring | Chet's pixelated AI co-host with robotic voice and boob training data |
-| [[cremus-tremando|Cremus Tremando]] | guest / recurring | Sleazy mystic sorcerer summoned to cast body-swap spells |
-| [[peter-gibbon|Peter Gibbon]] | recurring | Stout, rat-collecting dapper persona with deadlifting leg strength |
-| [[scrotum|Scrotum]] | recurring | Chimeric body-fusion of Peter Gibbon and Crum created by Cremus Tremando |
-| [[rick|Rick]] | recurring | Grizzled ex-military host of Amongst the Web |
+| [[hype-train|Hype Train]] | recurring | Hype train persona with panther girlfriend; prone to free-flow rants |
+| [[cryptozeus|Cryptozeus]] | recurring | Retro gaming persona (Brandon) whose mom yells through the bedroom door |
+| [[jeff-ripple|Jeff Ripple]] | recurring | Studio news and chat correspondent (often mistranscribed as Jeff Hooper) |
+| [[peter-gibbon|Peter Gibbon]] | recurring | Annoying ex-producer who lives in the walls of the studio |
+| [[rick|Rick]] | recurring | Grizzled ex-military correspondent and host of Amongst the Web |
 
-See also: [[../storylines/munch-crum-rivalry|Munch–Crum rivalry]], [[../segments/munch-and-crum|Munch & Crum]].
+## One-Time Bits & Guest Appearances
+
+Case occasionally introduces spontaneous one-off bit characters to accentuate a joke, along with occasional in-studio guest cameos.
+
+| Name | Role / Status | Notes |
+|------|---------------|-------|
+| [[cremus-tremando|Cremus Tremando]] | one-time guest | Sleazy mystic sorcerer summoned by chat to cast body-swap spells |
+| [[christian|Christian]] | guest | In-studio guest and announcer cameo |
+
+See also: [[../storylines/crum-dick-punch|Crum D*ck Punch]], [[../segments/munch-and-crum|Munch & Crum]].

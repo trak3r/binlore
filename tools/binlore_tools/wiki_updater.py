@@ -150,8 +150,6 @@ def _match_character_file(name: str, canon: dict[str, list[CanonEntity]]) -> tup
         return CONTENT_CHARACTERS / "peter-gibbon.md", "peter-gibbon"
     if "cremus" in slug or "tremando" in slug:
         return CONTENT_CHARACTERS / "cremus-tremando.md", "cremus-tremando"
-    if "scrotum" in slug:
-        return CONTENT_CHARACTERS / "scrotum.md", "scrotum"
 
     return None, slug
 
@@ -194,12 +192,8 @@ def _match_storyline_file(title: str, canon: dict[str, list[CanonEntity]]) -> Pa
         for alias in story.aliases:
             if alias.lower() in title_lower or title_lower in alias.lower():
                 return story.file_path
-    if any(k in title_lower for k in ("gorilla", "groin", "penis", "punch", "gambling")):
-        target = CONTENT_STORYLINES / "crum-robotic-gorilla-groin-punch.md"
-        if target.exists():
-            return target
-    if ("munch" in title_lower and "crum" in title_lower) or "rivalry" in title_lower:
-        target = CONTENT_STORYLINES / "munch-crum-rivalry.md"
+    if any(k in title_lower for k in ("gorilla", "groin", "penis", "punch", "gambling", "dick")):
+        target = CONTENT_STORYLINES / "crum-dick-punch.md"
         if target.exists():
             return target
     return None
@@ -295,7 +289,8 @@ def create_character_page(
     known_assets = {
         "cremus-tremando",
         "peter-gibbon",
-        "scrotum",
+        "jeff-ripple",
+        "pepito",
         "rick",
         "cryptozeus",
         "chet",

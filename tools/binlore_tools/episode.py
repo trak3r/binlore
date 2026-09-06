@@ -123,8 +123,6 @@ def _format_character_link(name: str) -> str:
         return "[[characters/cremus-tremando|Cremus Tremando]]"
     if "peter" in slug or "gibbon" in slug:
         return "[[characters/peter-gibbon|Peter Gibbon]]"
-    if "scrotum" in slug:
-        return "[[characters/scrotum|Scrotum]]"
     if "rick" in slug:
         return "[[characters/rick|Rick]]"
     return name
@@ -155,12 +153,10 @@ def _format_storyline_link(name: str) -> str:
     target = CONTENT_STORYLINES / f"{slug}.md"
     if target.exists():
         return f"[[storylines/{slug}|{name}]]"
-    if any(k in slug for k in ("gorilla", "groin", "punch")):
-        return "[[storylines/crum-robotic-gorilla-groin-punch|Crum's Robotic Gorilla Groin Punch Bet]]"
+    if any(k in slug for k in ("gorilla", "groin", "punch", "dick")):
+        return "[[storylines/crum-dick-punch|Crum D*ck Punch]]"
     if "scrotum" in slug or "merger" in slug:
         return "[[storylines/the-scrotum-merger|The Scrotum Merger]]"
-    if "rivalry" in slug or ("munch" in slug and "crum" in slug):
-        return "[[storylines/munch-crum-rivalry|Munch–Crum rivalry]]"
     return name
 
 

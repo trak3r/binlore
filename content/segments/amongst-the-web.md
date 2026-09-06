@@ -22,7 +22,7 @@ A random on-air character correspondent sits in to review and react to viewer-su
 
 ## Key Elements
 
-- **Rotating Host:** Featured with a random character persona each occurrence (e.g. [[../characters/rick|Rick]], [[../characters/scrotum|Scrotum / Peter Gibbon]]).
+- **Rotating Host:** Featured with a random character persona each occurrence (e.g. [[../characters/rick|Rick]], [[../characters/peter-gibbon|Peter Gibbon]]).
 - **Audience Voting:** Live chat participates by rating submitted clips.
 - **Theme:** Viral internet culture, bizarre video submissions, community-driven humor.
 
@@ -30,4 +30,4 @@ A random on-air character correspondent sits in to review and react to viewer-su
 
 | Episode | Timestamp | Notes |
 |---|---|---|
-| [[episodes/2026-09-04|2026-09-04]] | 01:08:14 | Amongst the Web Opening & Gorilla Punch Update: Scrotum / Peter Gibbon officially takes over the 'Amongst the Web' segment. Chat and news review the viral clips, and Case gives an update on Crum's impending robotic gorilla groin punch on Monday. |
+| [[episodes/2026-09-04|2026-09-04]] | 01:08:14 | Amongst the Web Opening & Gorilla Punch Update: Peter Gibbon takes over the 'Amongst the Web' segment. Chat and news review the viral clips, and Case gives an update on Crum's impending robotic gorilla groin punch on Monday. |

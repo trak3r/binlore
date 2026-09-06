@@ -1,31 +1,28 @@
 ---
 title: Christian
-type: character
+type: guest
 aliases: []
 first_seen: 2026-09-02
-status: recurring
+status: guest
 tags:
-  - character
+  - guest
 ---
 
 # Christian
 
-**Christian** appears on *Barely Informed News*. On-air characters and personas are typically portrayed by [[case-blackwell|Case Blackwell]] using face filters and voice changers.
+**Christian** is an in-studio guest who appeared on *Barely Informed News*.
 
 ## Overview
 
-Announcer/lab-assistant cameo; subject of the Christian vs Kendall debate prompt; sent to pick up food; wins that debate with a big margin per Case.
+Christian made an in-studio guest appearance during the [[episodes/2026-09-02|2026-09-02 broadcast]]. He briefly served as an announcer and lab-assistant cameo during [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]], was dispatched by Case to pick up food, and was the subject of the chat debate prompt against Kendall (which Case reported Christian won by a wide margin).
 
 ## Appearances
 
-| Episode | Notes |
-|---------|-------|
-| [[episodes/2026-09-02|2026-09-02]] | Announcer/lab-assistant cameo; subject of the Christian vs Kendall debate prompt; sent to pick up food; wins that debate with a big margin per Case. |
+| Episode | Role | Notes |
+|---------|------|-------|
+| [[episodes/2026-09-02|2026-09-02]] | Guest | In-studio guest and announcer cameo; sent to pick up food; won the Christian vs. Kendall chat debate. |
 
 ## Notable moments
 
-- First identified in [[episodes/2026-09-02|Episode 2026-09-02]].
-
-## Open questions
-
-- Full backstory and recurring lore
+- **[1:10:45]** ([[episodes/2026-09-02|2026-09-02]]): Makes an announcer/cameo appearance during Chet's science segment.
+- **[1:21:33]** ([[episodes/2026-09-02|2026-09-02]]): Wins the chat vote in the Christian vs. Kendall debate prompt.

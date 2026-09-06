@@ -19,7 +19,7 @@ Recurring figure on Barely Informed News, best known as one half of [[../segment
 
 Crum is a debate-side persona opposite [[munch|Munch (Ralph Munchcut)]]. Bald, hollow-eyed, and adorned in an elaborate peacock/floral blazer, Crum suffers from a crippling gambling addiction that frequently leads him into reckless wagers and self-inflicted crises.
 
-Together with Munch, their feuds drive the overarching [[../storylines/munch-crum-rivalry|Munch–Crum rivalry]], currently centered on [[../storylines/crum-robotic-gorilla-groin-punch|Crum's Robotic Gorilla Groin Punch Bet]].
+Together with Munch, their feuds drive the [[../storylines/crum-dick-punch|Crum D*ck Punch]] storyline, stemming from a lost bet due to Crum's gambling addiction.
 
 ## Key Tropes
 
@@ -48,9 +48,9 @@ Together with Munch, their feuds drive the overarching [[../storylines/munch-cru
 
 | Episode | Notes |
 |---|---|
-| [[episodes/2026-09-04|2026-09-04]] | Debate persona (bald, dark eye-circles) who shows up right after the failed body-swap. Crum seems to think the swap worked on him ('Look at me, I'm munch'). Uses the archaic slang 'japs' for jokes/mischief. Later merged with Peter Gibbon into 'Scrotum.' Still slated to be punched in the crotch by a robotic gorilla on Monday. |
+| [[episodes/2026-09-04|2026-09-04]] | Debate persona (bald, dark eye-circles) who shows up right after the failed body-swap. Crum seems to think the swap worked on him ('Look at me, I'm munch'). Uses the archaic slang 'japs' for jokes/mischief. Still slated to be punched in the crotch by a robotic gorilla on Monday. |
 - **[16:17]** ([[episodes/2026-09-04|2026-09-04]]): Crum's verbal tics include archaic 'japs' (claiming it's an old-timey word for 'fun mischief' akin to 'getting a cream soda at the doodle shop') and immediate interest in any situation involving his body. He is the scheduled victim of the robotic gorilla crotch-punch on Monday.
-- **[24:24]** ([[episodes/2026-09-04|2026-09-04]]): Peter + Crum fusion is officially named 'Scrotum' after rejecting 'Scummer,' 'Skeeter,' 'Scrutter,' 'Scretem,' and 'Screamer.' Crum's voice reportedly 'deeper and super echoey' from the low-rent mystic — establishes the merger has slightly altered vocal timbre.
+- **[24:24]** ([[episodes/2026-09-04|2026-09-04]]): Case has a brief fumble with character switching between Crum and Peter Gibbon, playing it off live as a comedic accidental "merger" joke.
 
 ## Open questions
 

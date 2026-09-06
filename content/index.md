@@ -20,7 +20,7 @@ This site tracks **characters**, **segments**, **storylines**, and **episodes** 
 
 ### Featured storyline
 
-The [[storylines/munch-crum-rivalry|Munch–Crum rivalry]] — and the [[segments/munch-and-crum|Munch & Crum]] debate segment — is the most colorful arc in the show's history so far. Start with [[characters/munch|Munch]] and [[characters/crum|Crum]].
+The [[storylines/crum-dick-punch|Crum D*ck Punch]] storyline — alongside the [[segments/munch-and-crum|Munch & Crum]] debate segment — is the central ongoing arc on the show. Start with [[characters/crum|Crum]] and [[characters/munch|Munch]].
 
 ## About the show
 
@@ -28,7 +28,7 @@ Barely Informed News is streamed by [Case Blackwell](https://www.twitch.tv/caseb
 
 ## Contributing
 
-Edits live as Markdown in this repo. Prefer small, sourced notes (episode date + timestamp when you have them). Wrong lore is worse than missing lore — when unsure, mark it as uncertain.
+Notice missing lore, a new recurring bit, or a detail that needs correcting? Community contributions are warmly welcomed! Please feel free to [submit a pull request on GitHub](https://github.com/trak3r/binlore) with your suggested updates or additions. Sourced notes with episode dates and timestamps are especially appreciated.
 
 ## Legal disclaimer
 

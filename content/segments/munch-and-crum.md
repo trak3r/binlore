@@ -22,7 +22,7 @@ Recurring flagship debate segment featuring [[../characters/munch|Munch]] and [[
 
 ## Format
 
-Two-sided on-air clash — the public face of the [[../storylines/munch-crum-rivalry|Munch–Crum rivalry]]. Broadcast under the title **Munch & Crum**, featuring 3D rotating title cards, an on-screen scoreboard, and live chat polling.
+Two-sided on-air clash between Munch and Crum. Broadcast under the title **Munch & Crum**, featuring 3D rotating title cards, an on-screen scoreboard, and live chat polling.
 
 ## Known occurrences
 
@@ -34,4 +34,4 @@ Two-sided on-air clash — the public face of the [[../storylines/munch-crum-riv
 
 - [[../characters/munch|Munch]]
 - [[../characters/crum|Crum]]
-- [[../storylines/munch-crum-rivalry|Munch–Crum rivalry]]
+- [[../storylines/crum-dick-punch|Crum D*ck Punch]]

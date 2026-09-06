@@ -19,7 +19,7 @@ tags:
 
 ## Overview
 
-Munch is a debate-side persona opposite [[crum|Crum]]. Characterized by a messy silver-gray wig, tie, and floral blazer, their clashes are the backbone of the [[../storylines/munch-crum-rivalry|Munch–Crum rivalry]] — currently highlighted by [[../storylines/crum-robotic-gorilla-groin-punch|Crum's Robotic Gorilla Groin Punch Bet]], where Munch eagerly torments Crum over his lost gambling wager.
+Munch is a debate-side persona opposite [[crum|Crum]]. Characterized by a messy silver-gray wig, tie, and floral blazer, their clashes are the backbone of the show's debate panel — currently highlighted by the [[../storylines/crum-dick-punch|Crum D*ck Punch]] storyline, where Munch eagerly torments Crum over his lost gambling wager.
 
 ## Appearances
 

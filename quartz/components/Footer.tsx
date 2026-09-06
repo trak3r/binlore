@@ -44,7 +44,7 @@ export default ((opts?: Options) => {
             aria-label="Support the BIN Lore project on Buy Me a Coffee"
           >
             <span class="bmac-coffee-emoji">☕</span>
-            <span>Support BIN Lore hosting on Buy Me a Coffee</span>
+            <span>Support BIN Lore development on Buy Me a Coffee</span>
           </a>
         </div>
         <p class="footer-disclaimer">
