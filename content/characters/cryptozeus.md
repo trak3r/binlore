@@ -39,6 +39,7 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Live DOS playthrough of Epic MegaGames' *Jill of the Jungle* trilogy. Plugs Gooters wings and navigates his mother's Old English vocal affectations following a bumper-car accident. |
@@ -47,8 +48,10 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-08-19|2026-08-19]] | Resident gaming correspondent broadcasting remote from his bedroom while attempting to play a TurboGrafx-16 game. |
 | [[episodes/2026-08-08|2026-08-08]] | Gaming correspondent. Broadcasts a remote retro playthrough of a romhack of Super Mario Bros. 3 from his bedroom. Claims to make $60 million a year. Heckled constantly by his mother about Gooters chicken wings. |
 | [[episodes/2026-08-04|2026-08-04]] | Resident gaming correspondent. Broadcasts remotely from his bedroom, fails to emulate Mickey's Blast Into the Past on the Sega Pico via RetroArch, and is repeatedly interrupted by his mother through the door. |
+| [[episodes/2026-07-23|2026-07-23]] | Resident Gaming Correspondent. Broadcasts the Cryptozeus segment. Struggles extensively with emulator controller setup and keyboard inputs while playing Rex Ronan. Later joins the Joe Rogan parody segment. Constantly berated by his mother through the bedroom door. |
 
 ## Notable moments
+
 
 
 
@@ -65,3 +68,4 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 - **[158:39]** ([[episodes/2026-08-08|2026-08-08]]): Brandon references his mother's Gooters wet chicken wings, noting she stored sodas inside 'big rubber socks' delivered by Pastor Joe.
 - **[01:05:56]** ([[episodes/2026-08-04|2026-08-04]]): Brandon's mother calls him 'Bran Bran' through the bedroom door and is sourced from incoming viewer submissions and community correspondence. [01:05:56]
 - **[01:07:11]** ([[episodes/2026-08-04|2026-08-04]]): Brandon's mother demands he inject Pepsi into his penis on behalf of Pastor Joe, who wants to 'pray the shit out of' him, and reveals the household front door is currently missing, explaining a bear infestation. [01:07:11] [01:22:52]
+- **[01:18:11]** ([[episodes/2026-07-23|2026-07-23]]): Brandon was hosting the segment while dealing with a busted controller cord, forcing him to rely on a tiny baby cord and keyboard inputs. His mother actively shouted at him about the YouTube stream suspension.

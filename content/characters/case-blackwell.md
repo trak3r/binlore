@@ -32,6 +32,7 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 
 
 
+
 - **[15:18]** ([[episodes/2026-09-02|2026-09-02]]): Mentions an upcoming Chicago Sketchfest date 'October 2nd' and teases a larger project announcement with his sketch ensemble.
 - **[42:29]** ([[episodes/2026-09-02|2026-09-02]]): Credited field reporter on the Pentagon story: 'Reporting for this was done by Christy Santhosh.'
 - **[50:02]** ([[episodes/2026-09-02|2026-09-02]]): When called out on broadcast liability, Case cites the 'new trend in the news to relentlessly slander streamers all day' and references QTCinderella coverage on mainstream networks.
@@ -51,3 +52,6 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[49:01]** ([[episodes/2026-08-06|2026-08-06]]): Blackwell maintains a personal gaming partnership with in-studio contributor Kendall, frequently competing in cooperative titles ('BigWog,' 'Friend Slap') and growing upset when she plays without him.
 - **[09:31]** ([[episodes/2026-08-04|2026-08-04]]): Blackwell missed the previous week due to a Monday blackout, Wednesday internet outage, and accumulated power/work demands that prevented him from catching up on Thursday. [09:31]
 - **[10:21]** ([[episodes/2026-08-04|2026-08-04]]): Blackwell sustained a swollen ankle two weeks prior and refuses to ice, elevate, or seek medical treatment, citing stubbornness despite the swelling remaining visible. [10:21]
+- **[11:32]** ([[episodes/2026-07-23|2026-07-23]]): Currently uninsured after losing coverage through Kendall's plan due to missing the grace period sign-up window; has had insurance continuously since starting at G4.
+- **[10:05]** ([[episodes/2026-07-23|2026-07-23]]): Sustained a severely swollen ankle by stepping in a pothole while jogging after being distracted by a guy with a long mullet on a rented scooter.
+- **[11:24]** ([[episodes/2026-07-23|2026-07-23]]): Acquired a $20 cane from Amazon to assist mobility while refusing to seek professional medical attention, applying the RICE method (Rest, Ice, Compression, Elevate).

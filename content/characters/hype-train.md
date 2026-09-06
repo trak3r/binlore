@@ -38,6 +38,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Derails subscriber acknowledgments to promote *Piss Fruit Ninja*, commands a vaudeville rhythm, raps about his Panther partner, and details his crypto universe upbringing. |
@@ -50,6 +51,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-08-08|2026-08-08]] | High-velocity cultural correspondent. Hijacks the broadcast after the word 'science' is uttered, rapping about living urine organisms being oppressed by flushing, then pivoting to raps about love existing in stars, bars, and explosions. |
 | [[episodes/2026-08-06|2026-08-06]] | High-velocity cultural correspondent. Commandeers the broadcast early but battles a malfunctioning synthwave widget ('visualization is not supported on my system') and a missing partner (his panther girlfriend). |
 | [[episodes/2026-08-04|2026-08-04]] | Sentient locomotive correspondent. Interrupts the pre-show to acknowledge subscribers, delivers a freestyle rap about losing his caboose, and returns later in the broadcast for additional beats. |
+| [[episodes/2026-07-23|2026-07-23]] | High-Velocity Cultural Correspondent. Briefly attempts to hijack the intro but is forcefully rejected by Case in favor of addressing his injury, leading to Hype Train lamenting he was let to die. |
 
 ## Notable moments
 

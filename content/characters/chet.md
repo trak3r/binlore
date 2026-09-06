@@ -34,16 +34,20 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 ## Appearances
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Triggered after the news desk utters "scientists"; reviews a Brazilian Journal of Plastic Surgery aesthetic proportion study alongside [[chet-ai|ChetAI]], determining that "all boobs is good." |
 | [[episodes/2026-09-04|2026-09-04]] | Intervenes following coverage of The Family International cult; introduces upgraded blue-light protective eyewear, investigates cult propaganda tracks, and warns of cognitive AI vulnerabilities. |
 | [[episodes/2026-08-19|2026-08-19]] | Chief science correspondent deploying to the desk to investigate the smart underwear flatulence research. |
+| [[episodes/2026-07-23|2026-07-23]] | Chief Science Correspondent. Spontaneously activates upon hearing the 'skiantist' trigger to offer medical advice on Case's ankle, advising thick power calves and full body thick activation. Notes his lack of a fully operational medical license. |
 
 ## Notable moments
+
 
 - **[1:03:22]** ([[episodes/2026-09-02|2026-09-02]]): Seizes the news desk after an anchor mentions "scientists," declaring: "God damn it! They try to keep me away, but frankly, Skyeance is too relevant to the modern condition!"
 - **[1:05:00]** ([[episodes/2026-09-02|2026-09-02]]): Consults [[chet-ai|ChetAI]] to evaluate aesthetic breast proportions, triggering emergency safety cancellations in the AI's generation pipeline.
 - **[1:07:04]** ([[episodes/2026-09-02|2026-09-02]]): Commands ChetAI to translate Portuguese medical literature on plastic surgery ratios live on air.
 - **[1:09:22]** ([[episodes/2026-09-02|2026-09-02]]): Delivers his definitive academic thesis on human aesthetics: "They're all fucking good... all of them is the good one."
 - **[01:37:50]** ([[episodes/2026-09-04|2026-09-04]]): Intervenes to investigate The Family International after Peter Gibbon broadcasts their audio track 'Cathy Don't Go.' Chet introduces upgraded eyewear that filters out harmful light spectra while complaining that studio music interference disrupted his focus.
+- **[21:48]** ([[episodes/2026-07-23|2026-07-23]]): Despite running the science desk for nearly two years, he does not have a fully active Medicare direct deposit or official medical license, though he considers his broadcast tenure sufficient qualification.
