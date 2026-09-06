@@ -34,6 +34,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Derails subscriber acknowledgments to promote *Piss Fruit Ninja*, commands a vaudeville rhythm, raps about his Panther partner, and details his crypto universe upbringing. |
@@ -42,8 +43,10 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-08-26|2026-08-26]] | Commandeers the broadcast with rapid-fire film reviews of non-existent single-word titles before outlining the linguistic origins of an ancient fluidic language pre-dating Homer. |
 | [[episodes/2026-08-19|2026-08-19]] | High-velocity cultural correspondent deploying to override the broadcast for extended freestyle raps over cereal-type beats. |
 | [[episodes/2026-08-14|2026-08-14]] | Triggered briefly when Liliana reads the hype train alerts at the top of the broadcast. No on-air segment during this telecast. |
+| [[episodes/2026-08-13|2026-08-13]] | High-velocity musical and cultural correspondent. Delivers extended freestyle raps on 'turd,' 'money flossing,' 'Cheeto golf tee,' and hot money piss. Chat votes 99.9% it is indeed piss. Panther companion present but not heard. |
 
 ## Notable moments
+
 
 
 - **[19:32]** ([[episodes/2026-09-02|2026-09-02]]): Unveils *Piss Fruit Ninja* as an upcoming interactive project, chiding Blackwell for leaking details on the network feed.
@@ -56,3 +59,4 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[23:29]** ([[episodes/2026-09-01|2026-09-01]]): Expresses a philosophical preference for mortality: claims to have "died via autotune, like all the greats."
 - **[31:22]** ([[episodes/2026-08-26|2026-08-26]]): Reaches Level 5 network velocity and outlines an ancient mythological linguistic system whose foundational roots predated Homeric epic poetry.
 - **[00:22:58]** ([[episodes/2026-08-19|2026-08-19]]): Hype Train is explicitly averse to thanking subscribers, defying Pepito's orders to 'think the subs' in favor of doing the opposite.
+- **[24:46-29:59]** ([[episodes/2026-08-13|2026-08-13]]): Hype Train introduces the 'money flossing' dance move involving sticking out one's tongue and moving left to right. He later conflates it with the 'Cheeto golf tee' concept, which he describes as a separate dance that 'I've been Cheeto golf tee-ing as long as I was breathing.'

@@ -28,15 +28,19 @@ Due to automated closed-captioning idiosyncrasies across network feeds, Ripple's
 ## Appearances
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Delivers studio commentary on news graphics quality and engages in verbal sparring with Hype Train regarding his feline partner. |
 | [[episodes/2026-09-01|2026-09-01]] | Delivers the "Weekend Odds and Ends" broadcast report covering the British Columbia floating island, Virginia bat incident, Tarzana wildlife skirmishes, and water-balloon records. |
 | [[episodes/2026-08-19|2026-08-19]] | Studio newsreader and human-interest correspondent delivering headlines and chatting with the anchor. |
+| [[episodes/2026-08-13|2026-08-13]] | Studio newsreader and community correspondent. Identifies himself as the 'Monday correspondent' with a legacy John Stewart role. Delivers multiple stories including the reflecting pool scandal, Taiga AI album, and violent vegetable video investigation. |
 
 ## Notable moments
+
 
 - **[16:56]** ([[episodes/2026-09-02|2026-09-02]]): Takes his position at the news desk and defends the network audience against Blackwell's complaints: "Not all of us are haters, Case."
 - **[22:33]** ([[episodes/2026-09-02|2026-09-02]]): Greets Hype Train's companion live on air ("Hello Panther"), prompting Hype Train to clarify her status as his girlfriend.
 - **[22:54]** ([[episodes/2026-09-02|2026-09-02]]): Name-dropped in Hype Train's live rhyme: "Jeff picture this, Ripple at the spot."
 - **[34:53]** ([[episodes/2026-09-01|2026-09-01]]): Anchors his first dedicated internal feature segment, presenting a curated briefing on bizarre domestic incidents across North America.
+- **[32:52-33:33]** ([[episodes/2026-08-13|2026-08-13]]): Ripple self-identifies as the Monday correspondent, positioning himself in a legacy John Stewart role. He missed the previous Monday broadcast due to a cat vet appointment that ran from 3 PM to 5:30 PM.
