@@ -40,5 +40,11 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[kendall|Kendall]] | recurring | In-studio contributor appearing intermittently |
 | [[danny-phantasmic|Danny Phantasmic]] | recurring | Guest cultural correspondent providing live reaction commentary to the folk horror film 'Wicker' (Wicker Man) trailer |
 | [[gianna-wettmichel|Gianna Wettmichel]] | recurring | Mysterious studio figure who briefly takes over the desk, declares herself 'Gianna Wettmichel,' and vanishes when music plays |
+| [[lead-anchor|Lead Anchor]] | recurring | Lead anchor and managing editor Case Blackwell hosts the entire broadcast, covering breaking news, conducting Streets segment caller interactions, and moderating Amongst the Web clip reviews |
+| [[executive-producer|Executive Producer]] | recurring | Executive Producer Pepito opens the broadcast with his signature greeting and closes with an improvised sermon about AX body spray commercials, battery acid spills, and pocket jerky |
+| [[news-stowaway|News Stowaway]] | recurring | Former producer Peter Gibbon maintains his wall residency throughout the broadcast, hosting Streets segment and fielding callers including Trippy B, Dale Huffy, and Avatar the Last Airbender |
+| [[studio-newsreader|Studio Newsreader]] | recurring | Peter Gibbon takes over Jeff Ripple's news reading duties during the pre-show segment, with Peter doing the news while Case watches |
+| [[high-velocity-cultural-correspondent|High-Velocity Cultural Correspondent]] | recurring | Hype Train is notably absent and described as 'still taking a nap' or 'napping' throughout the broadcast |
+| [[guest-correspondent|Guest Correspondent]] | recurring | Remote guest correspondent patch-in during Jimothy news segment |
 
 See also: [[../storylines/crum-dick-punch|Crum D*ck Punch]], [[../segments/munch-and-crum|Munch & Crum]].
