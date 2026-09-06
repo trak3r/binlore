@@ -234,6 +234,143 @@ Stream audio files take ~150 MB per 2-hour VOD. Once transcription is finished, 
 
 ---
 
+## Unattended Batch Processing on a Server (`binlore process-all`)
+
+To process the entire 370+ episode backlog unattended on a home server, VPS, or cloud instance, use the autonomous batch processor:
+
+```bash
+./binlore process-all
+# Or directly via Python:
+python3 tools/process_all.py
+```
+
+### What It Does per Episode
+
+1. **Backlog Discovery:** Cross-references `tools/youtube_catalog.json` with `content/episodes/` to identify unprocessed streams.
+2. **Audio Ingest & Resilient Fallback:** Downloads audio using `yt-dlp`. If a Twitch VOD has expired (Twitch retention is ~60 days), it automatically falls back to the permanent YouTube archive stream.
+3. **Local Whisper Transcription:** Transcribes audio via `faster-whisper` (default model: `small`).
+4. **Immediate Disk Cleanup:** **Deletes the audio file immediately** once transcription finishes and is saved. Peak disk usage is capped to at most *one* temporary audio file at any moment (~150 MB).
+5. **Lore Extraction:** Sends the transcript and canon roster to OpenRouter (`openrouter/free` with automatic fallbacks) to extract segments, characters, storylines, and lore notes.
+6. **Wiki Population:** Updates `content/episodes/<date>.md`, creates or updates character pages in `content/characters/`, updates segment occurrences in `content/segments/`, and storyline beat timelines in `content/storylines/`.
+7. **Catalog Synchronization:** Regenerates `content/episodes/index.md` so the episode is marked `✓ Ingested` with links to both Twitch and YouTube archives.
+8. **Fault-Tolerant Loop:** If an individual stream fails (e.g. video removed, network glitch), it cleans up any partial files, logs the failure, and automatically moves on to the next episode without stopping the batch.
+
+### Disk Space & Hygiene Guarantees
+
+Running on a server with limited disk space requires strict hygiene:
+
+- **Zero Media Accumulation:** Audio files are deleted *immediately* after transcription completes. The script never leaves audio files waiting for batch completion.
+- **Cleanup on Error / Interrupt:** If a download fails or you press `Ctrl+C` (SIGINT/SIGTERM), a signal handler sweeps and deletes any temporary `.part`, `.ytdl`, or incomplete `.m4a` files.
+- **Pre-flight Disk Monitoring:** Before downloading each episode, free disk space is checked against `--min-disk-gb` (default: `1.0` GB). If host disk space drops below this threshold, the script halts safely rather than crashing the filesystem.
+- **Pre-run Sweep:** Automatically cleans any orphaned media files in `tools/runs/` left by previous manual runs before starting.
+- **Bounded Logs:** Structured, single-line logs are written to `tools/runs/batch.log` (gitignored), ensuring log files never grow out of control.
+
+### How to Run Unattended in the Background
+
+#### Option A: Using `tmux` (Recommended)
+
+```bash
+# 1. Start a new tmux session
+tmux new -s binlore
+
+# 2. Start the batch processor
+./binlore process-all
+
+# 3. Detach from the session: Press Ctrl+b, then press d
+# The processor continues running in the background!
+
+# 4. To reattach and view progress later:
+tmux attach -t binlore
+```
+
+#### Option B: Using `nohup`
+
+```bash
+# Run in background and redirect stdout
+nohup ./binlore process-all > tools/runs/batch_stdout.log 2>&1 &
+echo $! > tools/runs/batch.pid
+
+# Check running process
+tail -f tools/runs/batch.log
+
+# Stop the process if needed
+kill $(cat tools/runs/batch.pid)
+```
+
+#### Option C: As a `systemd` Service (Linux Servers)
+
+Create `/etc/systemd/system/binlore.service`:
+
+```ini
+[Unit]
+Description=BIN Lore Autonomous Batch Processor
+After=network.target
+
+[Service]
+Type=simple
+User=youruser
+WorkingDirectory=/path/to/binlore
+ExecStart=/path/to/binlore/tools/.venv/bin/python3 /path/to/binlore/tools/process_all.py --delay 5.0
+Restart=on-failure
+RestartSec=30
+EnvironmentFile=/path/to/binlore/tools/.env
+
+[Install]
+WantedBy=multi-user.target
+```
+
+Enable and start:
+```bash
+sudo systemctl daemon-reload
+sudo systemctl enable --now binlore
+sudo journalctl -u binlore -f
+```
+
+### Checking Status & Monitoring Progress
+
+```bash
+# Print current backlog status and exit
+./binlore process-all --status
+
+# Output:
+# --- [BIN Lore Backlog Status] ---
+# Total catalog streams: 376
+# Ingested & Extracted:  5
+# Remaining in Backlog:  371 (1.3% complete)
+# Free Disk Space:       110.96 GB
+# Next in queue:         2026-08-19 — Upsetting Wednesday News
+# ---------------------------------
+
+# Preview the queue of unprocessed streams without modifying files
+./binlore process-all --dry-run --limit 10
+
+# Live-tail the log file
+tail -f tools/runs/batch.log
+```
+
+### CLI Options Reference
+
+| Flag | Default | Description |
+| --- | --- | --- |
+| `--limit N` | all | Process up to N episodes (useful for testing batches, e.g. `--limit 5`) |
+| `--oldest-first` | `False` | Process backlog chronologically from oldest to newest (default: newest first) |
+| `--model MODEL` | `small` | `faster-whisper` model: `tiny`, `base`, `small`, `medium`, `large-v3` |
+| `--openrouter-model` | `openrouter/free` | OpenRouter model slug for lore extraction |
+| `--delay SECONDS` | `5.0` | Cool-down sleep in seconds between episodes to respect API rate limits |
+| `--timeout SECONDS` | `90.0` | Extraction timeout per model before trying fallback models |
+| `--min-disk-gb GB` | `1.0` | Minimum free disk space in GB required before ingesting |
+| `--status` | — | Display backlog progress and disk space, then exit |
+| `--dry-run` | — | Preview the queue of unprocessed episodes without downloading or modifying files |
+| `--keep-audio` | `False` | Retain audio files on disk (warning: consumes ~150 MB per episode) |
+| `--skip-extract` | `False` | Download & transcribe only; skip OpenRouter extraction and wiki edits |
+| `--no-clean-existing` | `False` | Do not sweep `tools/runs/` for old media files on startup |
+| `--no-skip-drafts` | `False` | Do not skip episodes marked with `draft: true` |
+| `--git-commit` | `False` | Automatically create a local git commit for each processed episode |
+| `--build-quartz` | `False` | Run `npx quartz build` after completing the batch |
+| `--log-file PATH` | `tools/runs/batch.log` | Destination path for the structured log file |
+
+---
+
 ## Wiki Structure & Writing Lore
 
 Content lives in [`content/`](content/):

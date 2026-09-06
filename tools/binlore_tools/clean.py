@@ -117,3 +117,31 @@ def execute_clean(
     print(f"\nTotal media space that {action_word} freed: {_format_size(total_reclaimed)}")
     print("Transcripts, metadata, and wiki pages remain untouched.\n")
     return total_reclaimed
+
+
+def clean_run_dir(run_dir: Path, force: bool = True) -> int:
+    """Deletes all media and transient files in a single run directory. Returns bytes freed."""
+    if not run_dir.exists():
+        return 0
+    freed = 0
+    has_transcript = (run_dir / "transcript.json").exists() or (run_dir / "transcript.txt").exists()
+    if not has_transcript and not force:
+        return 0
+
+    for f in list(run_dir.iterdir()):
+        if not f.is_file():
+            continue
+        name_lower = f.name.lower()
+        if (
+            f.suffix.lower() in MEDIA_EXTENSIONS
+            or name_lower.endswith(".part")
+            or name_lower.endswith(".ytdl")
+            or name_lower.endswith(".tmp")
+        ):
+            try:
+                size = f.stat().st_size
+                f.unlink()
+                freed += size
+            except OSError:
+                pass
+    return freed

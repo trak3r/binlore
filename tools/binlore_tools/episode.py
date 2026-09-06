@@ -275,10 +275,22 @@ def update_episode_from_extraction(vod_id: str, extraction: dict[str, Any]) -> P
     vod_header_lines = []
     if date and date != "unknown-date":
         vod_header_lines.append(f"- **Broadcast Date:** {date}")
-    if "twitch.tv" in vod_url:
-        vod_header_lines.append(f"- **Twitch VOD:** [{vod_title}]({vod_url}) (ID: `{vod_id}`)")
-    else:
-        vod_header_lines.append(f"- **VOD Archive:** [{vod_title}]({vod_url}) (ID: `{vod_id}`)")
+
+    twitch_url = meta.get("twitch_url")
+    twitch_id = meta.get("twitch_id")
+    yt_url = meta.get("yt_url")
+    yt_id = meta.get("yt_id")
+
+    if twitch_url:
+        vod_header_lines.append(f"- **Twitch VOD:** [{vod_title}]({twitch_url}) (ID: `{twitch_id or vod_id}`)")
+    if yt_url:
+        vod_header_lines.append(f"- **YouTube Archive:** [{vod_title}]({yt_url}) (ID: `{yt_id or vod_id}`)")
+    elif not twitch_url:
+        if "twitch.tv" in vod_url:
+            vod_header_lines.append(f"- **Twitch VOD:** [{vod_title}]({vod_url}) (ID: `{vod_id}`)")
+        else:
+            vod_header_lines.append(f"- **VOD Archive:** [{vod_title}]({vod_url}) (ID: `{vod_id}`)")
+
     vod_header_lines.append(f"- **Approx length:** {duration}")
     vod_header_lines.append(f"- **Ingest run:** `tools/runs/{vod_id}/`")
     vod_header_text = "\n".join(vod_header_lines)

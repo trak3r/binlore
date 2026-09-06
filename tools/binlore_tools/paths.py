@@ -12,5 +12,7 @@ CONTENT_CHARACTERS = CONTENT_DIR / "characters"
 CONTENT_SEGMENTS = CONTENT_DIR / "segments"
 CONTENT_STORYLINES = CONTENT_DIR / "storylines"
 
+CATALOG_JSON = TOOLS_ROOT / "youtube_catalog.json"
+
 CHANNEL = "caseblackwell"
 CHANNEL_VIDEOS_URL = f"https://www.twitch.tv/{CHANNEL}/videos"

@@ -35,11 +35,11 @@ def _run_yt_dlp(args: list[str]) -> str:
     try:
         proc = subprocess.run(cmd, check=True, capture_output=True, text=True)
     except FileNotFoundError as e:
-        raise SystemExit(
+        raise RuntimeError(
             "yt-dlp not found. Install with: brew install yt-dlp"
         ) from e
     except subprocess.CalledProcessError as e:
-        raise SystemExit(e.stderr.strip() or e.stdout.strip() or str(e)) from e
+        raise RuntimeError(e.stderr.strip() or e.stdout.strip() or str(e)) from e
     return proc.stdout
 
 
@@ -98,7 +98,7 @@ def resolve_vod(url_or_latest: str | None, *, latest: bool) -> Vod:
     if latest or url_or_latest in (None, "", "--latest"):
         vods = list_vods(limit=1)
         if not vods:
-            raise SystemExit(f"No VODs found for {CHANNEL_VIDEOS_URL}")
+            raise RuntimeError(f"No VODs found for {CHANNEL_VIDEOS_URL}")
         # Flat playlist often lacks dates — refresh full metadata
         return resolve_vod(vods[0].url, latest=False)
 
@@ -106,6 +106,8 @@ def resolve_vod(url_or_latest: str | None, *, latest: bool) -> Vod:
     target_url = url_or_latest
     if target_url.isdigit() or (target_url.startswith("v") and target_url[1:].isdigit()):
         target_url = f"https://www.twitch.tv/videos/{target_url.lstrip('v')}"
+    elif not target_url.startswith("http"):
+        target_url = f"https://www.youtube.com/watch?v={target_url}"
 
     out = _run_yt_dlp(["--dump-json", "--no-download", "--no-playlist", target_url])
     data = json.loads(out.splitlines()[0])
@@ -125,6 +127,38 @@ def resolve_vod(url_or_latest: str | None, *, latest: bool) -> Vod:
         title=str(data.get("title") or "(untitled)"),
         url=str(data.get("webpage_url") or url_or_latest),
         duration=data.get("duration"),
+        timestamp=ts,
+    )
+
+
+def vod_from_catalog_entry(entry: dict[str, Any], *, prefer_source: str = "twitch") -> Vod:
+    """Build a Vod dataclass directly from a youtube_catalog.json entry."""
+    twitch_id = entry.get("twitch_id")
+    twitch_url = entry.get("twitch_url")
+    yt_id = entry.get("yt_id") or entry.get("id")
+    yt_url = entry.get("yt_url") or (f"https://www.youtube.com/watch?v={yt_id}" if yt_id else "")
+
+    if prefer_source == "twitch" and twitch_url:
+        vid = str(twitch_id)
+        url = str(twitch_url)
+    else:
+        vid = str(yt_id or twitch_id or "")
+        url = str(yt_url or twitch_url or "")
+
+    ts = None
+    date_str = entry.get("date")
+    if date_str:
+        try:
+            dt = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+            ts = int(dt.timestamp())
+        except Exception:
+            pass
+
+    return Vod(
+        id=vid,
+        title=str(entry.get("title") or "(untitled)"),
+        url=url,
+        duration=entry.get("duration_seconds"),
         timestamp=ts,
     )
 

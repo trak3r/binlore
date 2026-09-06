@@ -59,6 +59,7 @@ def cmd_ingest(args: argparse.Namespace) -> int:
         skip_download=args.skip_download,
         skip_transcribe=args.skip_transcribe,
         force_episode=args.force_episode,
+        clean_audio=getattr(args, "clean_audio", False),
     )
     return 0
 
@@ -215,6 +216,41 @@ def cmd_clean(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_process_all(args: argparse.Namespace) -> int:
+    from .batch import check_backlog_status, run_batch_processing
+
+    if args.status:
+        st = check_backlog_status()
+        print("\n--- [BIN Lore Backlog Status] ---")
+        print(f"Total catalog streams: {st['total_streams']}")
+        print(f"Ingested & Extracted:  {st['ingested_count']}")
+        print(f"Remaining in Backlog:  {st['backlog_count']} ({st['percent_complete']} complete)")
+        print(f"Free Disk Space:       {st['free_disk_gb']}")
+        if st.get("next_unprocessed"):
+            nx = st["next_unprocessed"]
+            print(f"Next in queue:         {nx.get('date')} — {nx.get('title')}")
+        print("---------------------------------\n")
+        return 0
+
+    return run_batch_processing(
+        limit=args.limit,
+        oldest_first=args.oldest_first,
+        whisper_model=args.model,
+        openrouter_model=args.openrouter_model,
+        delay=args.delay,
+        timeout=args.timeout,
+        clean_audio=not args.keep_audio,
+        clean_existing=not args.no_clean_existing,
+        skip_extract=args.skip_extract,
+        skip_drafts=not args.no_skip_drafts,
+        build_quartz=args.build_quartz,
+        git_commit=args.git_commit,
+        min_disk_gb=args.min_disk_gb,
+        log_file=args.log_file,
+        dry_run=args.dry_run,
+    )
+
+
 def build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(
         prog="binlore",
@@ -253,6 +289,11 @@ def build_parser() -> argparse.ArgumentParser:
         "--force-episode",
         action="store_true",
         help="Overwrite existing episode stub for this date",
+    )
+    ing.add_argument(
+        "--clean-audio",
+        action="store_true",
+        help="Delete audio file immediately after transcribing to save disk space",
     )
     ing.set_defaults(func=cmd_ingest)
 
@@ -328,6 +369,99 @@ def build_parser() -> argparse.ArgumentParser:
         help="Clean media even if transcription is missing or incomplete",
     )
     clean.set_defaults(func=cmd_clean)
+
+    # Autonomous unattended batch processor
+    for name in ["process-all", "batch"]:
+        proc = sub.add_parser(
+            name,
+            help="Unattended batch processing of all unprocessed episodes with auto disk cleanup",
+        )
+        proc.add_argument(
+            "--limit",
+            type=int,
+            default=None,
+            help="Maximum number of episodes to process (default: all)",
+        )
+        proc.add_argument(
+            "--oldest-first",
+            action="store_true",
+            help="Process backlog from oldest to newest (default: newest first)",
+        )
+        proc.add_argument(
+            "--model",
+            default="small",
+            help="faster-whisper model size (default: small)",
+        )
+        proc.add_argument(
+            "--openrouter-model",
+            default=DEFAULT_MODEL,
+            help=f"OpenRouter model slug (default: {DEFAULT_MODEL})",
+        )
+        proc.add_argument(
+            "--delay",
+            type=float,
+            default=5.0,
+            help="Delay in seconds between episodes (default: 5.0)",
+        )
+        proc.add_argument(
+            "--timeout",
+            type=float,
+            default=90.0,
+            help="Extraction timeout in seconds per model (default: 90.0)",
+        )
+        proc.add_argument(
+            "--min-disk-gb",
+            type=float,
+            default=1.0,
+            help="Minimum free disk space in GB required before ingesting (default: 1.0)",
+        )
+        proc.add_argument(
+            "--status",
+            action="store_true",
+            help="Print current backlog status and exit",
+        )
+        proc.add_argument(
+            "--dry-run",
+            action="store_true",
+            help="Preview queue of unprocessed episodes without downloading or modifying files",
+        )
+        proc.add_argument(
+            "--no-clean-existing",
+            action="store_true",
+            help="Do not sweep existing runs for lingering media before starting",
+        )
+        proc.add_argument(
+            "--keep-audio",
+            action="store_true",
+            help="Keep audio files after transcription (consumes high disk space)",
+        )
+        proc.add_argument(
+            "--skip-extract",
+            action="store_true",
+            help="Only ingest and transcribe, skip LLM extraction and wiki updates",
+        )
+        proc.add_argument(
+            "--no-skip-drafts",
+            action="store_true",
+            help="Do not skip draft episodes in content/episodes/",
+        )
+        proc.add_argument(
+            "--build-quartz",
+            action="store_true",
+            help="Run `npx quartz build` after batch run completes",
+        )
+        proc.add_argument(
+            "--git-commit",
+            action="store_true",
+            help="Create a local git commit for each processed episode",
+        )
+        proc.add_argument(
+            "--log-file",
+            type=Path,
+            default=RUNS_DIR / "batch.log",
+            help="Log file path (default: tools/runs/batch.log)",
+        )
+        proc.set_defaults(func=cmd_process_all)
 
     return p
 
