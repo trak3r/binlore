@@ -222,7 +222,8 @@ def process_single_episode(
     timeout: float = 90.0,
     clean_audio: bool = True,
     skip_extract: bool = False,
-    git_commit: bool = False,
+    build_quartz: bool = True,
+    git_commit: bool = True,
     min_disk_gb: float = 1.0,
 ) -> dict[str, Any]:
     """
@@ -234,6 +235,8 @@ def process_single_episode(
       5. Updates wiki pages (episode, characters, segments, storylines)
       6. Regenerates catalog index
       7. Final disk hygiene check
+      8. Compiles and validates static wiki via Quartz (`npx quartz build`)
+      9. Creates local git commit for the episode
     """
     global _CURRENT_ACTIVE_RUN_DIR
 
@@ -366,19 +369,50 @@ def process_single_episode(
     if clean_audio:
         clean_run_dir(run_dir, force=True)
 
-    # 8. Optional Git Commit
-    if git_commit:
+    # 8. Compile and validate wiki with Quartz before committing
+    quartz_ok = True
+    if build_quartz:
+        logger.info("Compiling and verifying Quartz wiki (npx quartz build)...")
         try:
-            commit_msg = f"lore(episodes): process {s_date} - {s_title}"
-            subprocess.run(["git", "add", "content/"], check=True, capture_output=True)
             subprocess.run(
-                ["git", "commit", "-m", commit_msg],
+                ["npx", "quartz", "build"],
+                cwd=REPO_ROOT,
                 check=True,
                 capture_output=True,
+                text=True,
             )
-            logger.info(f"Git commit created: {commit_msg}")
+            logger.info("✓ Quartz wiki compiled and validated successfully.")
+        except FileNotFoundError:
+            logger.warning("npx/node not found in PATH; skipping Quartz compilation.")
         except subprocess.CalledProcessError as e:
-            logger.warning(f"Git commit skipped or nothing to commit: {e}")
+            quartz_ok = False
+            err_output = (e.stderr or e.stdout or str(e)).strip()
+            logger.error(f"Quartz build failed (exit {e.returncode}): {err_output[:300]}")
+
+    # 9. Create local Git Commit (runs after Quartz validation)
+    if git_commit:
+        if build_quartz and not quartz_ok:
+            logger.warning(
+                "Skipping git commit because Quartz build failed (preventing broken build from being committed)."
+            )
+        else:
+            try:
+                commit_msg = f"lore(episodes): process {s_date} - {s_title}"
+                subprocess.run(["git", "add", "content/"], cwd=REPO_ROOT, check=True, capture_output=True)
+                subprocess.run(
+                    ["git", "commit", "-m", commit_msg],
+                    cwd=REPO_ROOT,
+                    check=True,
+                    capture_output=True,
+                    text=True,
+                )
+                logger.info(f"Git commit created: {commit_msg}")
+            except subprocess.CalledProcessError as e:
+                err_text = (e.stderr or e.stdout or "").strip()
+                if "nothing to commit" in err_text:
+                    logger.info("Git: Nothing new to commit.")
+                else:
+                    logger.warning(f"Git commit skipped or failed: {err_text}")
 
     _CURRENT_ACTIVE_RUN_DIR = None
     free_after = get_free_disk_space_gb(RUNS_DIR)
@@ -404,8 +438,8 @@ def run_batch_processing(
     clean_existing: bool = True,
     skip_extract: bool = False,
     skip_drafts: bool = True,
-    build_quartz: bool = False,
-    git_commit: bool = False,
+    build_quartz: bool = True,
+    git_commit: bool = True,
     min_disk_gb: float = 1.0,
     log_file: Path = RUNS_DIR / "batch.log",
     dry_run: bool = False,
@@ -496,6 +530,7 @@ def run_batch_processing(
                 timeout=timeout,
                 clean_audio=clean_audio,
                 skip_extract=skip_extract,
+                build_quartz=build_quartz,
                 git_commit=git_commit,
                 min_disk_gb=min_disk_gb,
             )
@@ -528,15 +563,6 @@ def run_batch_processing(
         logger.warning(f"\nFailed episodes ({len(failed_episodes)}):")
         for stream, reason in failed_episodes:
             logger.warning(f"  - {stream.get('date')}: {stream.get('title')} -> {reason}")
-
-    # Optional Quartz build
-    if build_quartz and processed_count > 0:
-        logger.info("Building static site with Quartz (npx quartz build)...")
-        try:
-            subprocess.run(["npx", "quartz", "build"], cwd=REPO_ROOT, check=True)
-            logger.success("✓ Quartz build completed successfully.")
-        except Exception as e:
-            logger.error(f"Quartz build failed: {e}")
 
     logger.info("=" * 65)
     return 0 if not failed_episodes else 1

@@ -112,13 +112,30 @@ def build_parser() -> argparse.ArgumentParser:
     )
     p.add_argument(
         "--build-quartz",
+        dest="build_quartz",
         action="store_true",
-        help="Run `npx quartz build` after batch run completes",
+        default=True,
+        help="Compile and validate wiki with Quartz (npx quartz build) before committing (default: True)",
+    )
+    p.add_argument(
+        "--no-build-quartz",
+        "--no-build",
+        dest="build_quartz",
+        action="store_false",
+        help="Skip compiling Quartz wiki",
     )
     p.add_argument(
         "--git-commit",
+        dest="git_commit",
         action="store_true",
-        help="Create a local git commit for each processed episode",
+        default=True,
+        help="Create a local git commit for each processed episode (default: True)",
+    )
+    p.add_argument(
+        "--no-git-commit",
+        dest="git_commit",
+        action="store_false",
+        help="Do not create local git commits",
     )
     p.add_argument(
         "--log-file",

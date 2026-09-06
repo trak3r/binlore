@@ -253,7 +253,9 @@ python3 tools/process_all.py
 5. **Lore Extraction:** Sends the transcript and canon roster to OpenRouter (`openrouter/free` with automatic fallbacks) to extract segments, characters, storylines, and lore notes.
 6. **Wiki Population:** Updates `content/episodes/<date>.md`, creates or updates character pages in `content/characters/`, updates segment occurrences in `content/segments/`, and storyline beat timelines in `content/storylines/`.
 7. **Catalog Synchronization:** Regenerates `content/episodes/index.md` so the episode is marked `✓ Ingested` with links to both Twitch and YouTube archives.
-8. **Fault-Tolerant Loop:** If an individual stream fails (e.g. video removed, network glitch), it cleans up any partial files, logs the failure, and automatically moves on to the next episode without stopping the batch.
+8. **Wiki Compilation & Validation (`npx quartz build`):** Compiles the markdown content into static HTML/CSS/JS in `public/`. This resolves all wikilinks, builds backlinks, and acts as a strict compile-time check—ensuring newly generated pages have valid frontmatter and syntax.
+9. **Automatic Git Commit:** Creates a local git commit for the episode (e.g. `lore(episodes): process 2026-08-19 - Upsetting Wednesday News`). If the Quartz build fails due to a syntax error, the commit is safely skipped to avoid committing broken markdown.
+10. **Fault-Tolerant Loop:** If an individual stream fails (e.g. video removed, network glitch), it cleans up any partial files, logs the failure, and automatically moves on to the next episode without stopping the batch.
 
 ### Disk Space & Hygiene Guarantees
 
@@ -365,8 +367,8 @@ tail -f tools/runs/batch.log
 | `--skip-extract` | `False` | Download & transcribe only; skip OpenRouter extraction and wiki edits |
 | `--no-clean-existing` | `False` | Do not sweep `tools/runs/` for old media files on startup |
 | `--no-skip-drafts` | `False` | Do not skip episodes marked with `draft: true` |
-| `--git-commit` | `False` | Automatically create a local git commit for each processed episode |
-| `--build-quartz` | `False` | Run `npx quartz build` after completing the batch |
+| `--build-quartz` / `--no-build` | `True` | Compile and validate wiki with Quartz (`npx quartz build`) before committing |
+| `--git-commit` / `--no-git-commit` | `True` | Automatically create a local git commit for each processed episode |
 | `--log-file PATH` | `tools/runs/batch.log` | Destination path for the structured log file |
 
 ---
