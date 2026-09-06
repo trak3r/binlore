@@ -23,7 +23,7 @@ tags:
 
 Broadcasting from a workshop filled with pre-cut lumber and hand tools, Jeb presents himself as a lifelong learner and instructional guide. In reality, Jeb's life is defined by bizarre family trauma, unconfirmed dark deeds, and an ongoing identity crisis.
 
-Jeb co-hosts his show with his deceased father, whose spirit is permanently trapped inside a wooden board. Their on-air relationship is characterized by bitter domestic bickering, mutual accusations of incompetence, and deep-seated familial resentment.
+Jeb co-hosts his show with his deceased father, [[jebs-dad|Jeb's Dad]], whose spirit is permanently trapped inside a wooden board. Their on-air relationship is characterized by bitter domestic bickering, mutual accusations of incompetence, and deep-seated familial resentment.
 
 ## Character Lore & Backstory
 

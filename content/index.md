@@ -16,6 +16,7 @@ This archive documents the network's on-air correspondents, investigative progra
 - [[characters/index|On-Air Talent & Staff]] — anchors, senior correspondents, debate analysts, and production crew
 - [[segments/index|Broadcast Segments]] — signature programming, remote dispatches, and regular desks
 - [[storylines/index|Storylines]] — ongoing investigations, volatile wagers, and network developments
+- [[sponsors/index|Commercial Sponsors]] — corporate partners, fast-casual underwriters, and commercial dispatches
 - [[episodes/index|Episodes & Broadcast Archive]] — complete broadcast catalog and episode logs
 
 ### Featured Coverage

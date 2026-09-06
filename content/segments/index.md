@@ -16,5 +16,6 @@ Signature programming and recurring newsroom desks across the *Barely Informed N
 | [[segments/cryptozeus\|Cryptozeus]] | Remote Dispatch | Live retro video game playthrough and digital culture desk |
 | [[segments/amongst-the-web\|Amongst the Web]] | Audience Interactive | Viewer-submitted viral media review hosted by Case Blackwell alongside rotating guest co-hosts |
 | [[segments/how-to-with-jeb\|How To with Jeb]] | Rogue Instructional | Unscheduled life skills and martial tutorials hosted by Jeb Noggin and his board-bound father |
+| [[segments/the-jo-rogen-experience\|The Jo Rogen Experience]] | Studio Parody & Q&A | Dual-clone podcast parody featuring "the Joes" exploring biohacking, runic girth, and esoteric masculine rituals |
 
 See also: [[../characters/index|On-Air Talent & Staff]], [[../storylines/index|Storylines]].

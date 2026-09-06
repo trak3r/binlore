@@ -31,23 +31,17 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 |---|---|---|
 | [[tommy-biglaw|Tommy Biglaw]] | Legal Counsel | High-priced infant attorney with a baby-talk lisp; also serves as "Big Tommy Prosecutor" |
 | [[cremus-tremando|Cremus Tremando]] | Occult & Mystical Consultant | Freelance mystic sorcerer retained for supernatural broadcast emergencies |
+| [[abraham-lincoln|Abraham Lincoln]] | Spectral Contributor | High-pitched metaphysical projection of the 16th US President; calls out network Beyblade debts and rap-battles Hype Train |
+| [[jebs-dad|Jeb's Dad]] | Co-Host (*How To with Jeb*) | Deceased patriarch whose cantankerous spirit is trapped in a pine board; openly favors Jet Noggin over Jeb |
+| [[hate-sock|Hate Sock]] | Town Hall Contributor | Hostile grey sock puppet with googly eyes whose vocabulary consists entirely of "You wish" and "Dumbass" |
+| [[gianna-wettmichel|Gianna Wettmichel]] | Unconfirmed (Suspected Intern) | Mysterious newsroom presence who seized the anchor desk to warn viewers of Danny Phantom's dangers |
 | [[christian|Christian]] | In-Studio Contributor | In-studio guest announcer and production runner |
 | [[slightly-thick-waluigi|Slightly Thick Waluigi]] | Call-In Guest | Brooklyn-accented telephone interviewee claiming involvement in historical assassinations |
 | [[grandma-crumble-bottom|Grandma Crumble Bottom]] | Guest Host (*Amongst the Web*) | Outspoken senior guest anchor who restored vision via solar sky lasers and laments cooking foot bunions for her late husband |
 | [[liliana|Liliana]] | News Desk Co-Anchor | Irreverent desk partner returning from a year-long sabbatical with vacation photos and PTO demands |
 | [[marfus-darfus|Marfus Darfus]] | Guest Host (*Amongst the Web*) | Asexual viral media critic introduced as "Marfis Darfus" who hands down decimal ratings (e.g. `6.44`) |
 | [[jeb|Jeb Noggin]] | Host (*How To with Jeb*) | Wood shop host of rogue instructional block, co-hosting with his deceased father trapped in a wooden board |
-| [[kendall|Kendall]] | recurring | In-studio contributor appearing intermittently |
-| [[danny-phantasmic|Danny Phantasmic]] | recurring | Guest cultural correspondent providing live reaction commentary to the folk horror film 'Wicker' (Wicker Man) trailer |
-| [[gianna-wettmichel|Gianna Wettmichel]] | recurring | Mysterious studio figure who briefly takes over the desk, declares herself 'Gianna Wettmichel,' and vanishes when music plays |
-| [[lead-anchor|Lead Anchor]] | recurring | Lead anchor and managing editor Case Blackwell hosts the entire broadcast, covering breaking news, conducting Streets segment caller interactions, and moderating Amongst the Web clip reviews |
-| [[executive-producer|Executive Producer]] | recurring | Executive Producer Pepito opens the broadcast with his signature greeting and closes with an improvised sermon about AX body spray commercials, battery acid spills, and pocket jerky |
-| [[news-stowaway|News Stowaway]] | recurring | Former producer Peter Gibbon maintains his wall residency throughout the broadcast, hosting Streets segment and fielding callers including Trippy B, Dale Huffy, and Avatar the Last Airbender |
-| [[studio-newsreader|Studio Newsreader]] | recurring | Peter Gibbon takes over Jeff Ripple's news reading duties during the pre-show segment, with Peter doing the news while Case watches |
-| [[high-velocity-cultural-correspondent|High-Velocity Cultural Correspondent]] | recurring | Hype Train is notably absent and described as 'still taking a nap' or 'napping' throughout the broadcast |
-| [[guest-correspondent|Guest Correspondent]] | recurring | Remote guest correspondent patch-in during Jimothy news segment |
-| [[abraham-lincoln|Abraham Lincoln]] | recurring | Eccentric spectral guest claiming to be the 'President of the Dead' |
-| [[jam|Jam]] | recurring | Puppet guest at the town hall who repeatedly interjects with 'You wish' and 'Dumbass' |
-| [[hate-sock|Hate Sock]] | recurring | Puppet guest at the town hall who insults everyone and discusses his missing brother |
+| [[kendall|Kendall]] | In-Studio Contributor | Co-op gaming partner, freelance video editor, and resident newsroom presence |
+| [[danny-phantasmic|Danny Phantasmic]] | Cultural Guest Correspondent | Tiny British folk-horror analyst with oversized hands and a tongue that cannot be concealed |
 
 See also: [[../storylines/crum-dick-punch|Crum D*ck Punch]], [[../segments/munch-and-crum|Munch & Crum]].

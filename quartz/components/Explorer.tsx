@@ -34,42 +34,40 @@ const defaultOptions: Options = {
     // Episodes are sorted by air date descending (most recent first).
     // Other folders and files are sorted alphabetically.
     if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
-      const dateRegex = /\b\d{4}-\d{2}-\d{2}\b/
-      let dateA = null
-      if (a.data && a.data.date) {
-        dateA =
-          typeof a.data.date === "string"
-            ? a.data.date
-            : a.data.date.toISOString?.() ?? String(a.data.date)
-      }
-      if (!dateA) {
+      const isEpisodeA = Boolean(a.slug && a.slug.startsWith("episodes/"))
+      const isEpisodeB = Boolean(b.slug && b.slug.startsWith("episodes/"))
+
+      if (isEpisodeA && isEpisodeB) {
+        const dateRegex = /\b\d{4}-\d{2}-\d{2}\b/
+        let dateA = ""
+        if (a.data && a.data.date) {
+          dateA =
+            typeof a.data.date === "string"
+              ? a.data.date
+              : a.data.date.toISOString?.() ?? String(a.data.date)
+        }
         const matchA =
           (a.slug && a.slug.match(dateRegex)) ||
           (a.displayName && a.displayName.match(dateRegex)) ||
-          (a.data && a.data.filePath && a.data.filePath.match(dateRegex))
+          (a.data?.filePath && a.data.filePath.match(dateRegex))
         if (matchA) dateA = matchA[0]
-      }
 
-      let dateB = null
-      if (b.data && b.data.date) {
-        dateB =
-          typeof b.data.date === "string"
-            ? b.data.date
-            : b.data.date.toISOString?.() ?? String(b.data.date)
-      }
-      if (!dateB) {
+        let dateB = ""
+        if (b.data && b.data.date) {
+          dateB =
+            typeof b.data.date === "string"
+              ? b.data.date
+              : b.data.date.toISOString?.() ?? String(b.data.date)
+        }
         const matchB =
           (b.slug && b.slug.match(dateRegex)) ||
           (b.displayName && b.displayName.match(dateRegex)) ||
-          (b.data && b.data.filePath && b.data.filePath.match(dateRegex))
+          (b.data?.filePath && b.data.filePath.match(dateRegex))
         if (matchB) dateB = matchB[0]
-      }
 
-      const isEpisodeA = Boolean(a.slug?.startsWith("episodes/") || dateA)
-      const isEpisodeB = Boolean(b.slug?.startsWith("episodes/") || dateB)
-
-      if (isEpisodeA && isEpisodeB && dateA && dateB && dateA !== dateB) {
-        return dateB.localeCompare(dateA)
+        if (dateA && dateB && dateA !== dateB) {
+          return dateB.localeCompare(dateA)
+        }
       }
 
       return a.displayName.localeCompare(b.displayName, undefined, {
