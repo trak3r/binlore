@@ -37,5 +37,8 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[liliana|Liliana]] | News Desk Co-Anchor | Irreverent desk partner returning from a year-long sabbatical with vacation photos and PTO demands |
 | [[marfus-darfus|Marfus Darfus]] | Guest Host (*Amongst the Web*) | Asexual viral media critic introduced as "Marfis Darfus" who hands down decimal ratings (e.g. `6.44`) |
 | [[jeb|Jeb Noggin]] | Host (*How To with Jeb*) | Wood shop host of rogue instructional block, co-hosting with his deceased father trapped in a wooden board |
+| [[kendall|Kendall]] | recurring | In-studio contributor appearing intermittently |
+| [[danny-phantasmic|Danny Phantasmic]] | recurring | Guest cultural correspondent providing live reaction commentary to the folk horror film 'Wicker' (Wicker Man) trailer |
+| [[gianna-wettmichel|Gianna Wettmichel]] | recurring | Mysterious studio figure who briefly takes over the desk, declares herself 'Gianna Wettmichel,' and vanishes when music plays |
 
 See also: [[../storylines/crum-dick-punch|Crum D*ck Punch]], [[../segments/munch-and-crum|Munch & Crum]].

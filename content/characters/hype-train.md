@@ -36,6 +36,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Derails subscriber acknowledgments to promote *Piss Fruit Ninja*, commands a vaudeville rhythm, raps about his Panther partner, and details his crypto universe upbringing. |
@@ -46,8 +47,10 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-08-14|2026-08-14]] | Triggered briefly when Liliana reads the hype train alerts at the top of the broadcast. No on-air segment during this telecast. |
 | [[episodes/2026-08-13|2026-08-13]] | High-velocity musical and cultural correspondent. Delivers extended freestyle raps on 'turd,' 'money flossing,' 'Cheeto golf tee,' and hot money piss. Chat votes 99.9% it is indeed piss. Panther companion present but not heard. |
 | [[episodes/2026-08-08|2026-08-08]] | High-velocity cultural correspondent. Hijacks the broadcast after the word 'science' is uttered, rapping about living urine organisms being oppressed by flushing, then pivoting to raps about love existing in stars, bars, and explosions. |
+| [[episodes/2026-08-06|2026-08-06]] | High-velocity cultural correspondent. Commandeers the broadcast early but battles a malfunctioning synthwave widget ('visualization is not supported on my system') and a missing partner (his panther girlfriend). |
 
 ## Notable moments
+
 
 
 
@@ -65,3 +68,5 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[24:46-29:59]** ([[episodes/2026-08-13|2026-08-13]]): Hype Train introduces the 'money flossing' dance move involving sticking out one's tongue and moving left to right. He later conflates it with the 'Cheeto golf tee' concept, which he describes as a separate dance that 'I've been Cheeto golf tee-ing as long as I was breathing.'
 - **[29:40]** ([[episodes/2026-08-08|2026-08-08]]): Hype Train commands a 'PhD in train grease' and declares that train grease is 'extremely alive' and 'how you give birth to more trains'.
 - **[34:37]** ([[episodes/2026-08-08|2026-08-08]]): Hype Train writes freestyle raps about the omnipresence of love, noting 'love if we are just gay' and 'there's even love on explosions'.
+- **[11:42]** ([[episodes/2026-08-06|2026-08-06]]): Hype Train operates alongside an upright black panther partner, colloquially referred to on air as his 'panther girlfriend.'
+- **[10:22]** ([[episodes/2026-08-06|2026-08-06]]): Hype Train's synthwave broadcast widget requires active technical support and can fail to render, forcing him to acknowledge the malfunction on air.

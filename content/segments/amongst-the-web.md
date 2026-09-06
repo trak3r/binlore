@@ -32,9 +32,11 @@ The audience-interactive viral media review desk on *Barely Informed News*.
 
 
 
+
 | Episode | Timestamp | Notes |
 |---|---|---|
 | [[../episodes/2026-09-04|2026-09-04]] | 01:08:14 | Former producer [[../characters/peter-gibbon|Peter Gibbon]] commandeers the desk to review viral clips alongside Case before Blackwell provides an executive update on Crum's impending robotic gorilla forfeit. |
 | [[../episodes/2026-08-19|2026-08-19]] | 01:23:33 | [[../characters/grandma-crumble-bottom|Grandma Crumble Bottom]] joins Case at the desk after discussing solar laser vision correction and her night-dyeing son, reviewing cringe relationship reels and robot child athletes. |
 | [[../episodes/2026-08-14|2026-08-14]] | 01:06:30 | [[../characters/marfus-darfus|Marfus Darfus]] guest-hosts alongside Case, reviewing viewer submissions including a *Love Island* clip (rated `5.5`), an escalator fugue state, a vintage *Family Matters* cop drama scene (rated `6.44`), and a "crotch pot" hiking cooking video (rated `5.0`). |
 | [[episodes/2026-08-08|2026-08-08]] | 71:22 | Amongst the Web with Grandma Crumble Bottom: Co-hosted by Grandma Crumble Bottom. The duo reviews viewer-submitted clips: Paul McCartney's explosion pyro, a chaotic 'Bitch I'm Side-Neck' rap video, Alt-Kevin's misaligned plug attempt, a cheetah being chased by baboons, a 7-Eleven mascot blown away in Taiwan wind, a Chuck Norris-style T-Bone Hogan video, a 'Punch Me in the Nuts Barney' retro clip, an impressive CGI Spider-Man Found Footage Fest entry, and the infamous 'Mitch McConnell' gardener compilation. Audience sentiment scores are tracked throughout. |
+| [[episodes/2026-08-06|2026-08-06]] | 43:48 | Spider-Man Theater Farts, Naked Steakhouse Field Piece & Wicker Man Trailer Reaction: News block concludes with light items including a Spider-Man theater evacuation over flatulence and an NBC News field piece on a nude dining steakhouse (with on-screen glitching). Following an impromptu BigWog gaming discussion with Kendall, the broadcast closes with a Danny Phantasmic trailer reaction to the folk horror film 'Wicker' (Wicker Man) before Case signs off to migrate to the Patreon stream. |

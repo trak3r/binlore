@@ -35,15 +35,19 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 ## Appearances
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-04|2026-09-04]] | Crawls out of the studio walls to seize the broadcast desk: *"Looks like you couldn't keep me away forever. Back again it's Peter Gibbon."* Reads the news bulletin, plays music tracks from a controversial cult, and anchors the viral video review desk. |
 | [[episodes/2026-08-14|2026-08-14]] | Mentioned obliquely via the merged 'Kendall' identity. The fused Crum/Gibbon entity announces 'I'm Kendall now' and a breakup with 'Kate' during the final raid segment. |
+| [[episodes/2026-08-06|2026-08-06]] | Disgraced former producer / news stowaway. Mentioned as the chat-recommended winner of a 'cream team' poll regarding who would attend the nude restaurant. |
 
 ## Notable moments
+
 
 
 - **[18:01]** ([[episodes/2026-09-04|2026-09-04]]): Emerges uninvited onto the live broadcast (*"Looks like you couldn't keep me away forever. Back again it's Peter Gibbon... And you're probably going to be mean to me Case, but no big deal"*), prompting the control room to hastily generate the lower-third graphic *Peter G. NEWS STOWAWAY & FOOD EATER*.
 - **[18:04]** ([[episodes/2026-09-04|2026-09-04]]): Boasts of his physical conditioning, claiming superior dead-lifting power in his lower extremities, while checking whether wall rodents have chewed his hair.
 - **[24:24]** ([[episodes/2026-09-04|2026-09-04]]): Experiences an on-air transmission cross-talk incident with debate analyst Crum during a botched paranormal spell, briefly conflating their identities in the control room archives.
 - **[01:37:45]** ([[episodes/2026-08-14|2026-08-14]]): The fused Crum/Peter Gibbon identity resurfaced during the outro, now self-styling as 'Kendall' and announcing a breakup with 'Kate'.
+- **[48:05]** ([[episodes/2026-08-06|2026-08-06]]): The network chat community actively tracks and ranks the 'cream team' of frequent guests, with the nude steakhouse story prompting a live poll on which contributor would attend.

@@ -30,6 +30,7 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 
 
 
+
 - **[15:18]** ([[episodes/2026-09-02|2026-09-02]]): Mentions an upcoming Chicago Sketchfest date 'October 2nd' and teases a larger project announcement with his sketch ensemble.
 - **[42:29]** ([[episodes/2026-09-02|2026-09-02]]): Credited field reporter on the Pentagon story: 'Reporting for this was done by Christy Santhosh.'
 - **[50:02]** ([[episodes/2026-09-02|2026-09-02]]): When called out on broadcast liability, Case cites the 'new trend in the news to relentlessly slander streamers all day' and references QTCinderella coverage on mainstream networks.
@@ -45,3 +46,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[09:49]** ([[episodes/2026-08-14|2026-08-14]]): Case returned from approximately a year off air, broadcasting 'from an undisclosed location, aka this haunted studio', and teased 'big plans for the network' while noting the 'real Jeb skin suit' is still missing.
 - **[13:21]** ([[episodes/2026-08-14|2026-08-14]]): Case explains he previously got a bad haircut the studio was buzzing about, prompting a return to what he calls 'the haircut I've been destined for'.
 - **[08:53-11:13]** ([[episodes/2026-08-13|2026-08-13]]): Blackwell returned from New Orleans, staying in the French Quarter with a friend who showed them around the city. The trip was extremely hot, described as 'stepping out into water.'
+- **[08:46]** ([[episodes/2026-08-06|2026-08-06]]): Lead anchor Blackwell has been largely absent from the broadcast schedule during the summer period due to unspecified out-of-town travel and workload backlogs.
+- **[49:01]** ([[episodes/2026-08-06|2026-08-06]]): Blackwell maintains a personal gaming partnership with in-studio contributor Kendall, frequently competing in cooperative titles ('BigWog,' 'Friend Slap') and growing upset when she plays without him.
