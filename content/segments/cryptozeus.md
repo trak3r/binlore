@@ -32,7 +32,9 @@ The central bit revolves around Brandon gaming in his bedroom while his mom yell
 ## Known occurrences
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 1:26:47 | DOS playthrough of the *Jill of the Jungle* trilogy with recurring Gooters plugs, viewer-scripted mom tangents, and in-game lore scrolling. |
 | [[episodes/2026-09-01|2026-09-01]] | 59:19 | Cryptozeus Plays Wario Land 4 (GBA) on Keyboard: Brandon (Cryptozeus) attempts to play Wario Land 4 on GBA via emulator. His controller won't work, forcing keyboard play. Mom yells through the door about turnips, doorknobs, 'washed' (not 'washed') sweatpants, Pastor Joe, sneezes, hemorrhoids, Italian bicycles, and Waluigi. Brandon plays through levels, plays Wario's Homerun Derby minigame, and eventually quits in frustration when mom ruins his gameplay. Gooters chicken wing sponsor read is inserted. |
+| [[episodes/2026-08-26|2026-08-26]] | 01:38:45 | Brandon Plays The Journey Home (Demo): Cryptozeus gaming segment. Brandon's mom interrupts about Gooters wet wings, sloppy chicken tomato fries, and the new potato turducken. A sub from Brick announces the Crum D*ck Punch is pushed to the 4th (Case is in Thailand Aug 8-17). Brandon plays The Journey Home indie demo, gets 'birthed' as an old man, prances around, plays a Flappy Bird section, and gets a 'sparkle' death before reaching the credits. Mom complains throughout. Raids Denny's channel. |

@@ -30,13 +30,16 @@ Together with Munch, their feuds drive the [[../storylines/crum-dick-punch|Crum 
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-04|2026-09-04]] | Debate persona (bald, dark eye-circles) who shows up right after the failed body-swap. Crum seems to think the swap worked on him ('Look at me, I'm munch'). Uses the archaic slang 'japs' for jokes/mischief. Still slated to be punched in the crotch by a robotic gorilla on Monday. |
 | [[episodes/2026-09-02|2026-09-02]] | Defends himself against Epstein-files slander, claims 'getting penis punched on Monday,' hosts Best Boob Club at his house (not a member), declares 'super strength in spits,' claims to keep carrots in his glove box for donkeys. |
 | [[episodes/2026-09-01|2026-09-01]] | Crum recaps the gorilla d*ck punch backstory, admits he agreed to the punch, declares spiritual/physical readiness, argues mayonnaise is the best pizza topping, wins the debate (290+ points ahead), and gloats about Munch's upcoming punch. Mentions a 'new prayer' that Pastor Joe likes. |
+| [[episodes/2026-08-26|2026-08-26]] | Debate segment. Claims to be a Democratic Party representative but refuses to endorse Mamdani; eventually forced to pick Munchcut. Pleads for the dick punch to be delayed. |
 
 ## Notable moments
+
 
 - **[52:07]** ([[episodes/2026-09-02|2026-09-02]]): Vows publicly on stream that 'I will be getting my penis punched on Monday,' and later in the debate claims he has trained for it and possesses 'super strength for some reason in spits,' demonstrated by crushing an electric toothbrush to dust.
 - **[1:16:44]** ([[episodes/2026-09-02|2026-09-02]]): Hosts the Best Boob Club at his house 'because their wives get mad if they do it,' but is told 'you're just the host, you're not a member' — his own wife's breasts are repeatedly rejected.
@@ -54,6 +57,8 @@ Together with Munch, their feuds drive the [[../storylines/crum-dick-punch|Crum 
 - **[80:39]** ([[episodes/2026-09-01|2026-09-01]]): Crum mentions a 'new prayer suggested by Crumb' that Pastor Joe really likes; his mom references trying this prayer as well.
 - **[57:59]** ([[episodes/2026-09-01|2026-09-01]]): Crum wins the mayonnaise-vs-pepperoni debate decisively and gloats that he will 'face no consequences' for the gorilla penis punch, calling it 'the perfect plan.'
 - **[51:30]** ([[episodes/2026-09-01|2026-09-01]]): Munch and Crum both agree that 'rank choice voting is cheating' and that 'in any democratic system there can really only be two options and one winner.'
+- **[01:24:15]** ([[episodes/2026-08-26|2026-08-26]]): Crum identifies as a 'party representative for the Democratic Party' but won't endorse Mamdani, citing him as unproven vs. Munchcut's 'known quantity'.
+- **[01:30:07]** ([[episodes/2026-08-26|2026-08-26]]): Crum tries to delay the dick punch by asking for iron underwear; rescheduled to Friday the 13th.
 
 ## Open questions
 

@@ -37,12 +37,15 @@ His mother exclusively refers to him as **"Bran Bran."** In a signature communit
 ## Appearances
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Live DOS playthrough of Epic MegaGames' *Jill of the Jungle* trilogy. Recurring Gooters chicken-wing plugs and mom-Old-English tangents. |
 | [[episodes/2026-09-01|2026-09-01]] | Brandon streams Wario Land 4 on GBA. Controller fails so he plays on keyboard. Mom yells at him through the door (calling him 'Bran Bran') about turnips, washed sweatpants, Pastor Joe, hemorrhoids, Italian bicycles, and Waluigi. Sponsor read for Gooters mayo-soaked chicken skins. Eventually quits the game in frustration. |
+| [[episodes/2026-08-26|2026-08-26]] | Gaming persona. Plays The Journey Home demo while his mom interrupts about Gooters wings, sloppy chicken tomato fries, and potato turducken. Mentions Gooters new 'herniated cheese disc'. |
 
 ## Notable moments
+
 
 
 - **[1:26:47]** ([[episodes/2026-09-02|2026-09-02]]): Extended *Jill of the Jungle* live playthrough with in-game lore commentary, Gooters sponsor plugs, and maternal arguments.
@@ -50,3 +53,5 @@ His mother exclusively refers to him as **"Bran Bran."** In a signature communit
 - **[67:37]** ([[episodes/2026-09-01|2026-09-01]]): Mom yells 'washed' instead of 'washed' (dropping the R) repeatedly; Brandon insists she needs to 'learn to sneeze better' and 'learn to eat better.'
 - **[65:43]** ([[episodes/2026-09-01|2026-09-01]]): Mom mentions Pastor Joe is coming over that night and gets upset that Brandon's grunting 'puts mama in a moon.'
 - **[80:30]** ([[episodes/2026-09-01|2026-09-01]]): Mom claims her Italian bicycle 'intimidates people into thinking that I do sports' and protects her house because people assume she's like Lance Armstrong.
+- **[01:21:43]** ([[episodes/2026-08-26|2026-08-26]]): Gooters sponsor bit: 'wet storage bins', 'potato turducken' with $20 inside, 'herniated cheese disc', 'moist kitten poppers' (Halloween). Mom calls him 'Bran Bran'.
+- **[02:00:22]** ([[episodes/2026-08-26|2026-08-26]]): Played The Journey Home indie demo to credits; reached a 'sparkle' state after dying, pranced, played a Flappy Bird section, and finished to a credit roll thanking him for playing Walter.

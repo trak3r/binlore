@@ -32,13 +32,16 @@ Instead, Hype Train commonly gets wildly distracted and launches into breathless
 ## Appearances
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Derails sub thank-yous to pitch *Piss Fruit Ninja*, requests a vaudeville beat, raps about his Panther girlfriend, and details his crypto universe upbringing. |
 | [[episodes/2026-09-04|2026-09-04]] | Spontaneously interrupts to rant that eggs do not contain sauce, raps Dr. Seuss-style egg beats, thanks subs, and requests sensual beats when a viewer unfollows. |
 | [[episodes/2026-09-01|2026-09-01]] | Hype Train persona raps about being pregnant, giving birth to cars, skeletons, and kids. Notably contains NO piss content this episode. Asks Case to 'hush' multiple times. |
+| [[episodes/2026-08-26|2026-08-26]] | Persona takes over for the Hype Train, rambling about nonexistent one-word movies, eventually derailing into the 'ancient piss language' mythology that ends with him declaring he's speaking Homer in 'piss'. |
 
 ## Notable moments
+
 
 
 - **[19:32]** ([[episodes/2026-09-02|2026-09-02]]): Pitches *Piss Fruit Ninja* as an alleged AAA video game and blames Case for spoiling it on air.
@@ -51,3 +54,5 @@ Instead, Hype Train commonly gets wildly distracted and launches into breathless
 - **[23:29]** ([[episodes/2026-09-01|2026-09-01]]): Hype Train claims to have 'died via autotune,' 'like all the greats,' and notes this is his preferred method of death.
 - **[23:13]** ([[episodes/2026-09-01|2026-09-01]]): Hype Train has known Case for three years and considers him an 'acquaintance' (despite Case complaining about him feeling like a hater).
 - **[23:33]** ([[episodes/2026-09-01|2026-09-01]]): This Hype Train episode notably contains NO piss-related content, which Case explicitly acknowledges as a relief ('No piss today').
+- **[31:22]** ([[episodes/2026-08-26|2026-08-26]]): Reached Level 5 on the hype train. Bit detoured into inventing an 'ancient piss language' whose six original letters were piss, shit, puke, barf, and fart - claimed to predate and inspire Homer's epics.
+- **[21:34]** ([[episodes/2026-08-26|2026-08-26]]): Hype Train bit pattern reaffirmed: starts by thanking subs but reliably gets distracted, often derailing into piss-related topics.
