@@ -1,0 +1,38 @@
+---
+description: Mandatory rules for wiki character pages, including screencap images and formatting
+globs: content/characters/*.md
+alwaysApply: true
+---
+
+# Character Page Conventions
+
+When creating, editing, or auditing character pages in `content/characters/`:
+
+## 1. Mandatory Character Picture
+Every character page MUST include an authentic screencap picture directly beneath the primary `# Character Name` heading:
+
+```markdown
+# Character Name
+
+![Character Name on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/<character-slug>.jpg)
+```
+
+### Screencap Extraction & Upload Workflow:
+1. Extract a clear frame showing the character from their VOD appearance using `binlore screencap` or `tools/binlore_tools/screencap.py` via `ffmpeg`.
+2. Save the screencap locally to `tools/screencaps/<character-slug>.jpg`.
+3. Upload the asset to GitHub release `media-assets` on repository `trak3r/binlore`:
+   ```bash
+   gh release upload media-assets --repo trak3r/binlore tools/screencaps/<character-slug>.jpg --clobber
+   ```
+4. Embed the URL `https://github.com/trak3r/binlore/releases/download/media-assets/<character-slug>.jpg` right under the `# Name` heading.
+
+## 2. Required Structure & Cross-Links
+- Frontmatter (`title`, `type: character`, `aliases`, `first_seen`, `status`, `tags: [character, ...]`).
+- `# Name` + Image embed directly under heading.
+- Overview & Persona.
+- Detailed character lore, relationships, backstory, and signature bits.
+- `## Appearances` table linking to episodes.
+- `## Notable Quotes` and `## Notable Moments`.
+- `## Open Questions`.
+- `See also:` linking to relevant segments, storylines, or index.
+- Always add/update the character's row in `content/characters/index.md`.

@@ -18,13 +18,14 @@ The audience-interactive viral media review desk on *Barely Informed News*.
 
 ## Format
 
-A designated network correspondent sits at the broadcast desk to evaluate and analyze viewer-submitted video evidence, internet phenomena, and digital subculture. The live broadcast audience participates in real time by transmitting ratings and sentiment scores over network chat channels.
+[[../characters/case-blackwell|Case Blackwell]] is the only consistent host of *Amongst the Web*, joined by a different co-host each time to watch, evaluate, and react to viewer-submitted video evidence, internet phenomena, and digital subculture clips gathered from the community Discord. The hosts rate and dissect each submission while the live chat audience participates with real-time commentary and sentiment.
 
 ## Key Elements
 
-- **Anchor Assignment:** Led by tactical media correspondent [[../characters/rick|Rick]], with occasional chaotic intrusions by studio stowaway [[../characters/peter-gibbon|Peter Gibbon]].
-- **Audience Voting:** Real-time viewer polling determines the quality and veracity of submitted footage.
-- **Focus:** Digital culture, odd viral recordings, and community intelligence files.
+- **Anchor & Rotating Co-Hosts:** Case Blackwell anchors every broadcast, while his co-host rotates each session—featuring recurring personalities and special guests such as tactical media correspondent [[../characters/rick|Rick]], the eccentric [[../characters/marfus-darfus|Marfus Darfus]], solar-laser enthusiast [[../characters/grandma-crumble-bottom|Grandma Crumble Bottom]], or chaotic desk hijackings by studio stowaway [[../characters/peter-gibbon|Peter Gibbon]].
+- **Viewer Submissions:** Videos are sourced directly from the audience via the community Discord's "amongst this web" queue in the BIN news section.
+- **Idiosyncratic Ratings:** The hosts frequently assign peculiar or hyper-specific decimal scores to each clip (such as Marfus Darfus's landmark `6.44` rating).
+- **Focus:** Surreal internet culture, odd viral recordings, awkward cringe clips, and community-submitted oddities.
 
 ## Known occurrences
 
@@ -32,6 +33,6 @@ A designated network correspondent sits at the broadcast desk to evaluate and an
 
 | Episode | Timestamp | Notes |
 |---|---|---|
-| [[episodes/2026-09-04|2026-09-04]] | 01:08:14 | Amongst the Web Opening & Gorilla Punch Update: Former producer Peter Gibbon commandeers the desk to review viral clips before Blackwell provides an executive update on Crum's impending robotic gorilla forfeit. |
-| [[episodes/2026-08-19|2026-08-19]] | 01:53:22 | Viral Internet Video Review: Audience-interactive viral media review desk. The hosts evaluate viewer-submitted clips featuring an AI girlfriend, a body positivity song, an inflatable commercial, a robot child, and roller skating dancers. |
-| [[episodes/2026-08-14|2026-08-14]] | 01:06:30 | Marfus Darfus Guest Hosts Viewer Viral Clip Review: Marfus Darfus arrives to guest host 'Amongst the Web', reviewing viewer-submitted videos including a Love Island clip (rated 5.5), a man in a fugue state riding an escalator, a dramatic 'Family Matters' acting scene (rated 6.44), an obscure music instrument performance, and a 'crotch pot' hiking cooking video where chicken teriyaki is warmed by body heat (rated 5). |
+| [[../episodes/2026-09-04|2026-09-04]] | 01:08:14 | Former producer [[../characters/peter-gibbon|Peter Gibbon]] commandeers the desk to review viral clips alongside Case before Blackwell provides an executive update on Crum's impending robotic gorilla forfeit. |
+| [[../episodes/2026-08-19|2026-08-19]] | 01:23:33 | [[../characters/grandma-crumble-bottom|Grandma Crumble Bottom]] joins Case at the desk after discussing solar laser vision correction and her night-dyeing son, reviewing cringe relationship reels and robot child athletes. |
+| [[../episodes/2026-08-14|2026-08-14]] | 01:06:30 | [[../characters/marfus-darfus|Marfus Darfus]] guest-hosts alongside Case, reviewing viewer submissions including a *Love Island* clip (rated `5.5`), an escalator fugue state, a vintage *Family Matters* cop drama scene (rated `6.44`), and a "crotch pot" hiking cooking video (rated `5.0`). |

@@ -14,6 +14,7 @@ Signature programming and recurring newsroom desks across the *Barely Informed N
 | [[segments/munch-and-crum\|Munch & Crum]] | Flagship Debate | Heated political clash between senior analysts Munch and Crum |
 | [[segments/chet-guy-the-science-eyes\|Chet Guy the Science Eyes]] | Investigative Science | Specialized science inquiry desk with laboratory optics and AI data synthesis |
 | [[segments/cryptozeus\|Cryptozeus]] | Remote Dispatch | Live retro video game playthrough and digital culture desk |
-| [[segments/amongst-the-web\|Amongst the Web]] | Audience Interactive | Viewer-submitted viral media review and tactical intelligence analysis |
+| [[segments/amongst-the-web\|Amongst the Web]] | Audience Interactive | Viewer-submitted viral media review hosted by Case Blackwell alongside rotating guest co-hosts |
+| [[segments/how-to-with-jeb\|How To with Jeb]] | Rogue Instructional | Unscheduled life skills and martial tutorials hosted by Jeb Noggin and his board-bound father |
 
 See also: [[../characters/index|On-Air Talent & Staff]], [[../storylines/index|Storylines]].

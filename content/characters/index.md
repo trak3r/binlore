@@ -33,9 +33,9 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[cremus-tremando|Cremus Tremando]] | Occult & Mystical Consultant | Freelance mystic sorcerer retained for supernatural broadcast emergencies |
 | [[christian|Christian]] | In-Studio Contributor | In-studio guest announcer and production runner |
 | [[slightly-thick-waluigi|Slightly Thick Waluigi]] | Call-In Guest | Brooklyn-accented telephone interviewee claiming involvement in historical assassinations |
-| [[grandma-crumble-bottom|Grandma Crumble Bottom]] | recurring | An elderly, heavily sun-exposed in-studio contributor who acts as the guest host for the 'Amongst the Web' viral video review segment |
-| [[liliana|Liliana]] | recurring | In-studio contributor returning from a year-long absence |
-| [[marfus-darfus|Marfus Darfus]] | recurring | Guest host of the 'Amongst the Web' viral clip review segment, introduced with the line 'hey it's me it's Marfis Darfus' |
-| [[jeb|Jeb]] | recurring | Host of the rogue 'How To' segment |
+| [[grandma-crumble-bottom|Grandma Crumble Bottom]] | Guest Host (*Amongst the Web*) | Outspoken senior guest anchor who restored vision via solar sky lasers and laments cooking foot bunions for her late husband |
+| [[liliana|Liliana]] | News Desk Co-Anchor | Irreverent desk partner returning from a year-long sabbatical with vacation photos and PTO demands |
+| [[marfus-darfus|Marfus Darfus]] | Guest Host (*Amongst the Web*) | Asexual viral media critic introduced as "Marfis Darfus" who hands down decimal ratings (e.g. `6.44`) |
+| [[jeb|Jeb Noggin]] | Host (*How To with Jeb*) | Wood shop host of rogue instructional block, co-hosting with his deceased father trapped in a wooden board |
 
 See also: [[../storylines/crum-dick-punch|Crum D*ck Punch]], [[../segments/munch-and-crum|Munch & Crum]].

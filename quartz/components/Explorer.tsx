@@ -30,10 +30,35 @@ const defaultOptions: Options = {
     return node
   },
   sortFn: (a, b) => {
-    // Sort order: folders first, then files. Sort folders and files alphabeticall
+    // Sort order: folders first, then files.
+    // Episodes are sorted by air date descending (most recent first).
+    // Other folders and files are sorted alphabetically.
     if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
-      // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
-      // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
+      const dateRegex = /\b\d{4}-\d{2}-\d{2}\b/
+      const getDate = (node) => {
+        if (node.data && node.data.date) {
+          return typeof node.data.date === "string"
+            ? node.data.date
+            : node.data.date.toISOString?.() ?? String(node.data.date)
+        }
+        const match =
+          (node.slug && node.slug.match(dateRegex)) ||
+          (node.displayName && node.displayName.match(dateRegex)) ||
+          (node.data && node.data.filePath && node.data.filePath.match(dateRegex))
+        return match ? match[0] : null
+      }
+
+      const isEpisodeA = a.slug?.startsWith("episodes/") || getDate(a) !== null
+      const isEpisodeB = b.slug?.startsWith("episodes/") || getDate(b) !== null
+
+      if (isEpisodeA && isEpisodeB) {
+        const dateA = getDate(a)
+        const dateB = getDate(b)
+        if (dateA && dateB && dateA !== dateB) {
+          return dateB.localeCompare(dateA)
+        }
+      }
+
       return a.displayName.localeCompare(b.displayName, undefined, {
         numeric: true,
         sensitivity: "base",
