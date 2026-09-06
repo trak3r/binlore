@@ -16,6 +16,14 @@ When you ingest a stream, all downloaded media and processed artifacts are saved
 tools/runs/<vod-id>/
 ```
 
+### Where Does `<vod-id>` Come From?
+
+- **Twitch VOD IDs:** Live streams air on [Twitch (`caseblackwell`)](https://www.twitch.tv/caseblackwell), where Twitch assigns a numeric video ID to each broadcast (e.g. `2863722826` from `https://www.twitch.tv/videos/2863722826`).
+- **Finding VOD IDs:**
+  1. **Wiki Episodes List:** The complete [Episodes & Broadcast Archive](https://trak3r.github.io/binlore/episodes/) has a dedicated **VOD ID** column for every stream.
+  2. **CLI:** Run `./binlore vods` to print recent Twitch streams with their IDs, broadcast dates, and lengths.
+- **YouTube Archive IDs:** Twitch purges VODs after ~60 days. The complete historical backlog of 370+ streams is preserved on YouTube. For archived streams beyond Twitch's retention window, the YouTube video ID (e.g. `ZSjvjEED3KA`) shown on the episodes list can be passed directly to `./binlore ingest <id>`.
+
 For example, for VOD `2863722826` (_High T Wednesday News_):
 
 ```

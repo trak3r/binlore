@@ -1,3010 +1,4514 @@
 [
   {
-    "index": 1,
     "id": "LqjPBi9lw_c",
     "title": "Artificially General News",
-    "duration_seconds": 6690,
+    "date": "2026-09-04",
+    "raw_date": "20260904",
     "duration_str": "1:51:30",
-    "url": "https://www.youtube.com/watch?v=LqjPBi9lw_c"
+    "duration_seconds": 6690,
+    "yt_id": "LqjPBi9lw_c",
+    "yt_url": "https://www.youtube.com/watch?v=LqjPBi9lw_c",
+    "twitch_id": "2865460780",
+    "twitch_url": "https://www.twitch.tv/videos/2865460780"
   },
   {
-    "index": 2,
     "id": "ussukWsFgWI",
     "title": "High T Wednesday News",
-    "duration_seconds": 7812,
+    "date": "2026-09-02",
+    "raw_date": "20260902",
     "duration_str": "2:10:12",
-    "url": "https://www.youtube.com/watch?v=ussukWsFgWI"
+    "duration_seconds": 7812,
+    "yt_id": "ussukWsFgWI",
+    "yt_url": "https://www.youtube.com/watch?v=ussukWsFgWI",
+    "twitch_id": "2863722826",
+    "twitch_url": "https://www.twitch.tv/videos/2863722826"
   },
   {
-    "index": 3,
     "id": "ZSjvjEED3KA",
     "title": "The Quickest Latest News",
-    "duration_seconds": 5584,
+    "date": "2026-09-01",
+    "raw_date": "20260901",
     "duration_str": "1:33:04",
-    "url": "https://www.youtube.com/watch?v=ZSjvjEED3KA"
+    "duration_seconds": 5584,
+    "yt_id": "ZSjvjEED3KA",
+    "yt_url": "https://www.youtube.com/watch?v=ZSjvjEED3KA",
+    "twitch_id": "2862064673",
+    "twitch_url": "https://www.twitch.tv/videos/2862064673"
   },
   {
-    "index": 4,
     "id": "yP72J5CJWXw",
     "title": "Expertly Negotiated News",
-    "duration_seconds": 7498,
+    "date": "2026-08-26",
+    "raw_date": "20260826",
     "duration_str": "2:04:58",
-    "url": "https://www.youtube.com/watch?v=yP72J5CJWXw"
+    "duration_seconds": 7498,
+    "yt_id": "yP72J5CJWXw",
+    "yt_url": "https://www.youtube.com/watch?v=yP72J5CJWXw",
+    "twitch_id": "2857407927",
+    "twitch_url": "https://www.twitch.tv/videos/2857407927"
   },
   {
-    "index": 5,
     "id": "LX_wDcTtHpM",
     "title": "100 Bart Simpson Tattoos",
-    "duration_seconds": 9002,
+    "date": "2026-08-23",
+    "raw_date": "20260823",
     "duration_str": "2:30:02",
-    "url": "https://www.youtube.com/watch?v=LX_wDcTtHpM"
+    "duration_seconds": 9002,
+    "yt_id": "LX_wDcTtHpM",
+    "yt_url": "https://www.youtube.com/watch?v=LX_wDcTtHpM",
+    "twitch_id": "2853942560",
+    "twitch_url": "https://www.twitch.tv/videos/2853942560"
   },
   {
-    "index": 6,
     "id": "rJLMqITgv4U",
     "title": "Upsetting Wednesday News",
-    "duration_seconds": 9545,
+    "date": "2026-08-19",
+    "raw_date": "20260819",
     "duration_str": "2:39:05",
-    "url": "https://www.youtube.com/watch?v=rJLMqITgv4U"
+    "duration_seconds": 9545,
+    "yt_id": "rJLMqITgv4U",
+    "yt_url": "https://www.youtube.com/watch?v=rJLMqITgv4U",
+    "twitch_id": "2850985649",
+    "twitch_url": "https://www.twitch.tv/videos/2850985649"
   },
   {
-    "index": 7,
     "id": "a3RWnP-LHuk",
     "title": "The Guiltiest Friday News",
-    "duration_seconds": 5892,
+    "date": "2026-08-14",
+    "raw_date": "20260814",
     "duration_str": "1:38:12",
-    "url": "https://www.youtube.com/watch?v=a3RWnP-LHuk"
+    "duration_seconds": 5892,
+    "yt_id": "a3RWnP-LHuk",
+    "yt_url": "https://www.youtube.com/watch?v=a3RWnP-LHuk",
+    "twitch_id": "2846389025",
+    "twitch_url": "https://www.twitch.tv/videos/2846389025"
   },
   {
-    "index": 8,
     "id": "gWHbmVr12RA",
     "title": "Reflecting the News",
-    "duration_seconds": 5908,
+    "date": "2026-08-13",
+    "raw_date": "20260813",
     "duration_str": "1:38:28",
-    "url": "https://www.youtube.com/watch?v=gWHbmVr12RA"
+    "duration_seconds": 5908,
+    "yt_id": "gWHbmVr12RA",
+    "yt_url": "https://www.youtube.com/watch?v=gWHbmVr12RA",
+    "twitch_id": "2845510126",
+    "twitch_url": "https://www.twitch.tv/videos/2845510126"
   },
   {
-    "index": 9,
     "id": "dZoQ9BAoxhU",
     "title": "Friday News Slop",
-    "duration_seconds": 8992,
+    "date": "2026-08-08",
+    "raw_date": "20260808",
     "duration_str": "2:29:52",
-    "url": "https://www.youtube.com/watch?v=dZoQ9BAoxhU"
+    "duration_seconds": 8992,
+    "yt_id": "dZoQ9BAoxhU",
+    "yt_url": "https://www.youtube.com/watch?v=dZoQ9BAoxhU",
+    "twitch_id": "2840162096",
+    "twitch_url": "https://www.twitch.tv/videos/2840162096"
   },
   {
-    "index": 10,
     "id": "aXLyjXWU1Qw",
     "title": "Quick Stream Before Patreon",
-    "duration_seconds": 3524,
+    "date": "2026-08-06",
+    "raw_date": "20260806",
     "duration_str": "58:44",
-    "url": "https://www.youtube.com/watch?v=aXLyjXWU1Qw"
+    "duration_seconds": 3524,
+    "yt_id": "aXLyjXWU1Qw",
+    "yt_url": "https://www.youtube.com/watch?v=aXLyjXWU1Qw",
+    "twitch_id": "2839235972",
+    "twitch_url": "https://www.twitch.tv/videos/2839235972"
   },
   {
-    "index": 11,
     "id": "jOgTdQ5Ood4",
     "title": "NEWS! Puppy yoga suxs",
-    "duration_seconds": 6174,
+    "date": "2026-08-04",
+    "raw_date": "20260804",
     "duration_str": "1:42:54",
-    "url": "https://www.youtube.com/watch?v=jOgTdQ5Ood4"
+    "duration_seconds": 6174,
+    "yt_id": "jOgTdQ5Ood4",
+    "yt_url": "https://www.youtube.com/watch?v=jOgTdQ5Ood4",
+    "twitch_id": "2836673764",
+    "twitch_url": "https://www.twitch.tv/videos/2836673764"
   },
   {
-    "index": 12,
     "id": "85qYJbmr418",
     "title": "Patreon in One Hour",
-    "duration_seconds": 4541,
+    "date": "2026-07-24",
+    "raw_date": "20260724",
     "duration_str": "1:15:41",
-    "url": "https://www.youtube.com/watch?v=85qYJbmr418"
+    "duration_seconds": 4541,
+    "yt_id": "85qYJbmr418",
+    "yt_url": "https://www.youtube.com/watch?v=85qYJbmr418",
+    "twitch_id": "2828248065",
+    "twitch_url": "https://www.twitch.tv/videos/2828248065"
   },
   {
-    "index": 13,
     "id": "u_FaS_a3U_0",
     "title": "No Patreon today News Stream",
-    "duration_seconds": 8294,
+    "date": "2026-07-23",
+    "raw_date": "20260723",
     "duration_str": "2:18:14",
-    "url": "https://www.youtube.com/watch?v=u_FaS_a3U_0"
+    "duration_seconds": 8294,
+    "yt_id": "u_FaS_a3U_0",
+    "yt_url": "https://www.youtube.com/watch?v=u_FaS_a3U_0",
+    "twitch_id": "2827427766",
+    "twitch_url": "https://www.twitch.tv/videos/2827427766"
   },
   {
-    "index": 14,
     "id": "NPX0CQNx_Yg",
     "title": "Monday News All Blocked Up",
-    "duration_seconds": 11062,
+    "date": "2026-07-20",
+    "raw_date": "20260720",
     "duration_str": "3:04:22",
-    "url": "https://www.youtube.com/watch?v=NPX0CQNx_Yg"
+    "duration_seconds": 11062,
+    "yt_id": "NPX0CQNx_Yg",
+    "yt_url": "https://www.youtube.com/watch?v=NPX0CQNx_Yg",
+    "twitch_id": "2824980914",
+    "twitch_url": "https://www.twitch.tv/videos/2824980914"
   },
   {
-    "index": 15,
     "id": "Ji8kAzplvwI",
     "title": "Friday News Flops",
-    "duration_seconds": 8389,
+    "date": "2026-07-17",
+    "raw_date": "20260717",
     "duration_str": "2:19:49",
-    "url": "https://www.youtube.com/watch?v=Ji8kAzplvwI"
+    "duration_seconds": 8389,
+    "yt_id": "Ji8kAzplvwI",
+    "yt_url": "https://www.youtube.com/watch?v=Ji8kAzplvwI",
+    "twitch_id": "2822556962",
+    "twitch_url": "https://www.twitch.tv/videos/2822556962"
   },
   {
-    "index": 16,
     "id": "aJHKCZ0U6pc",
     "title": "Quick Stream Before Patreon",
-    "duration_seconds": 4768,
+    "date": "2026-07-16",
+    "raw_date": "20260716",
     "duration_str": "1:19:28",
-    "url": "https://www.youtube.com/watch?v=aJHKCZ0U6pc"
+    "duration_seconds": 4768,
+    "yt_id": "aJHKCZ0U6pc",
+    "yt_url": "https://www.youtube.com/watch?v=aJHKCZ0U6pc",
+    "twitch_id": "2821762273",
+    "twitch_url": "https://www.twitch.tv/videos/2821762273"
   },
   {
-    "index": 17,
     "id": "8Df8ibIhdgM",
     "title": "The Brave New News of Gerontocromancy",
-    "duration_seconds": 7124,
+    "date": "2026-07-13",
+    "raw_date": "20260713",
     "duration_str": "1:58:44",
-    "url": "https://www.youtube.com/watch?v=8Df8ibIhdgM"
+    "duration_seconds": 7124,
+    "yt_id": "8Df8ibIhdgM",
+    "yt_url": "https://www.youtube.com/watch?v=8Df8ibIhdgM",
+    "twitch_id": "2819383717",
+    "twitch_url": "https://www.twitch.tv/videos/2819383717"
   },
   {
-    "index": 18,
     "id": "k6zkZVgVDts",
     "title": "The News LIVES",
-    "duration_seconds": 10782,
+    "date": "2026-07-11",
+    "raw_date": "20260711",
     "duration_str": "2:59:42",
-    "url": "https://www.youtube.com/watch?v=k6zkZVgVDts"
+    "duration_seconds": 10782,
+    "yt_id": "k6zkZVgVDts",
+    "yt_url": "https://www.youtube.com/watch?v=k6zkZVgVDts",
+    "twitch_id": "2817027458",
+    "twitch_url": "https://www.twitch.tv/videos/2817027458"
   },
   {
-    "index": 19,
     "id": "KWzD34UnyBw",
     "title": "America's Big Boy Birthday Week, it's NEWS",
-    "duration_seconds": 9098,
+    "date": "2026-06-29",
+    "raw_date": "20260629",
     "duration_str": "2:31:38",
-    "url": "https://www.youtube.com/watch?v=KWzD34UnyBw"
+    "duration_seconds": 9098,
+    "yt_id": "KWzD34UnyBw",
+    "yt_url": "https://www.youtube.com/watch?v=KWzD34UnyBw",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 20,
     "id": "d_n98PLCE6A",
     "title": "Lil Friday Newses",
-    "duration_seconds": 6605,
+    "date": "2026-06-27",
+    "raw_date": "20260627",
     "duration_str": "1:50:05",
-    "url": "https://www.youtube.com/watch?v=d_n98PLCE6A"
+    "duration_seconds": 6605,
+    "yt_id": "d_n98PLCE6A",
+    "yt_url": "https://www.youtube.com/watch?v=d_n98PLCE6A",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 21,
     "id": "vBKCAfftuU0",
     "title": "Don't Kier the Reaper, it's MONDAY NEWS",
-    "duration_seconds": 8302,
+    "date": "2026-06-22",
+    "raw_date": "20260622",
     "duration_str": "2:18:22",
-    "url": "https://www.youtube.com/watch?v=vBKCAfftuU0"
+    "duration_seconds": 8302,
+    "yt_id": "vBKCAfftuU0",
+    "yt_url": "https://www.youtube.com/watch?v=vBKCAfftuU0",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 22,
     "id": "dP22pTIQy60",
     "title": "Quick Casual Friday SUPER NEWS",
-    "duration_seconds": 12915,
+    "date": "2026-06-19",
+    "raw_date": "20260619",
     "duration_str": "3:35:15",
-    "url": "https://www.youtube.com/watch?v=dP22pTIQy60"
+    "duration_seconds": 12915,
+    "yt_id": "dP22pTIQy60",
+    "yt_url": "https://www.youtube.com/watch?v=dP22pTIQy60",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 23,
     "id": "tAqkjWd82Q4",
     "title": "Quick Stream Before Patreon",
-    "duration_seconds": 6255,
+    "date": "2026-06-18",
+    "raw_date": "20260618",
     "duration_str": "1:44:15",
-    "url": "https://www.youtube.com/watch?v=tAqkjWd82Q4"
+    "duration_seconds": 6255,
+    "yt_id": "tAqkjWd82Q4",
+    "yt_url": "https://www.youtube.com/watch?v=tAqkjWd82Q4",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 24,
     "id": "IZWYSBoOxPA",
     "title": "40 Years of Mondays",
-    "duration_seconds": 8104,
+    "date": "2026-06-15",
+    "raw_date": "20260615",
     "duration_str": "2:15:04",
-    "url": "https://www.youtube.com/watch?v=IZWYSBoOxPA"
+    "duration_seconds": 8104,
+    "yt_id": "IZWYSBoOxPA",
+    "yt_url": "https://www.youtube.com/watch?v=IZWYSBoOxPA",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 25,
     "id": "qnctO7klnKA",
     "title": "Monday News Respawn",
-    "duration_seconds": 10103,
+    "date": "2026-06-08",
+    "raw_date": "20260608",
     "duration_str": "2:48:23",
-    "url": "https://www.youtube.com/watch?v=qnctO7klnKA"
+    "duration_seconds": 10103,
+    "yt_id": "qnctO7klnKA",
+    "yt_url": "https://www.youtube.com/watch?v=qnctO7klnKA",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 26,
     "id": "1L6MvGwPUkY",
     "title": "Casual Friday News",
-    "duration_seconds": 11059,
+    "date": "2026-06-05",
+    "raw_date": "20260605",
     "duration_str": "3:04:19",
-    "url": "https://www.youtube.com/watch?v=1L6MvGwPUkY"
+    "duration_seconds": 11059,
+    "yt_id": "1L6MvGwPUkY",
+    "yt_url": "https://www.youtube.com/watch?v=1L6MvGwPUkY",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 27,
     "id": "rzxW52LS_WQ",
     "title": "Quick PrePatreon Things",
-    "duration_seconds": 4764,
+    "date": "2026-06-03",
+    "raw_date": "20260603",
     "duration_str": "1:19:24",
-    "url": "https://www.youtube.com/watch?v=rzxW52LS_WQ"
+    "duration_seconds": 4764,
+    "yt_id": "rzxW52LS_WQ",
+    "yt_url": "https://www.youtube.com/watch?v=rzxW52LS_WQ",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 28,
     "id": "e7hY2_N6gVs",
     "title": "Monday News Weaponization Inquiry",
-    "duration_seconds": 10892,
+    "date": "2026-06-01",
+    "raw_date": "20260601",
     "duration_str": "3:01:32",
-    "url": "https://www.youtube.com/watch?v=e7hY2_N6gVs"
+    "duration_seconds": 10892,
+    "yt_id": "e7hY2_N6gVs",
+    "yt_url": "https://www.youtube.com/watch?v=e7hY2_N6gVs",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 29,
     "id": "GXxPhYEz150",
     "title": "Friday News Burp",
-    "duration_seconds": 10344,
+    "date": "2026-05-29",
+    "raw_date": "20260529",
     "duration_str": "2:52:24",
-    "url": "https://www.youtube.com/watch?v=GXxPhYEz150"
+    "duration_seconds": 10344,
+    "yt_id": "GXxPhYEz150",
+    "yt_url": "https://www.youtube.com/watch?v=GXxPhYEz150",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 30,
     "id": "2GSL33V1DLE",
     "title": "Quick Thursday News Squirt",
-    "duration_seconds": 6366,
+    "date": "2026-05-28",
+    "raw_date": "20260528",
     "duration_str": "1:46:06",
-    "url": "https://www.youtube.com/watch?v=2GSL33V1DLE"
+    "duration_seconds": 6366,
+    "yt_id": "2GSL33V1DLE",
+    "yt_url": "https://www.youtube.com/watch?v=2GSL33V1DLE",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 31,
     "id": "CPQbEcWhowI",
     "title": "Tuesday News Slay",
-    "duration_seconds": 8271,
+    "date": "2026-05-26",
+    "raw_date": "20260526",
     "duration_str": "2:17:51",
-    "url": "https://www.youtube.com/watch?v=CPQbEcWhowI"
+    "duration_seconds": 8271,
+    "yt_id": "CPQbEcWhowI",
+    "yt_url": "https://www.youtube.com/watch?v=CPQbEcWhowI",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 32,
     "id": "CRhSlHwpnFk",
     "title": "Resigned to the NEWS",
-    "duration_seconds": 8974,
+    "date": "2026-05-22",
+    "raw_date": "20260522",
     "duration_str": "2:29:34",
-    "url": "https://www.youtube.com/watch?v=CRhSlHwpnFk"
+    "duration_seconds": 8974,
+    "yt_id": "CRhSlHwpnFk",
+    "yt_url": "https://www.youtube.com/watch?v=CRhSlHwpnFk",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 33,
     "id": "zciy_BD7_jY",
     "title": "More Massive News Filings",
-    "duration_seconds": 6265,
+    "date": "2026-05-21",
+    "raw_date": "20260521",
     "duration_str": "1:44:25",
-    "url": "https://www.youtube.com/watch?v=zciy_BD7_jY"
+    "duration_seconds": 6265,
+    "yt_id": "zciy_BD7_jY",
+    "yt_url": "https://www.youtube.com/watch?v=zciy_BD7_jY",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 34,
     "id": "KKFawUUIfPA",
     "title": "Another Monday, Another NEWS",
-    "duration_seconds": 11219,
+    "date": "2026-05-18",
+    "raw_date": "20260518",
     "duration_str": "3:06:59",
-    "url": "https://www.youtube.com/watch?v=KKFawUUIfPA"
+    "duration_seconds": 11219,
+    "yt_id": "KKFawUUIfPA",
+    "yt_url": "https://www.youtube.com/watch?v=KKFawUUIfPA",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 35,
     "id": "K4yX3u2nfNg",
     "title": "China News Maxing",
-    "duration_seconds": 6003,
+    "date": "2026-05-14",
+    "raw_date": "20260514",
     "duration_str": "1:40:03",
-    "url": "https://www.youtube.com/watch?v=K4yX3u2nfNg"
+    "duration_seconds": 6003,
+    "yt_id": "K4yX3u2nfNg",
+    "yt_url": "https://www.youtube.com/watch?v=K4yX3u2nfNg",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 36,
     "id": "n-wROAV7x9Q",
     "title": "Back in the MORE NEWS mood",
-    "duration_seconds": 8585,
+    "date": "2026-05-12",
+    "raw_date": "20260512",
     "duration_str": "2:23:05",
-    "url": "https://www.youtube.com/watch?v=n-wROAV7x9Q"
+    "duration_seconds": 8585,
+    "yt_id": "n-wROAV7x9Q",
+    "yt_url": "https://www.youtube.com/watch?v=n-wROAV7x9Q",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 37,
     "id": "HTHMEj0Rh5k",
     "title": "Another Week, Another NEWS",
-    "duration_seconds": 8658,
+    "date": "2026-05-04",
+    "raw_date": "20260504",
     "duration_str": "2:24:18",
-    "url": "https://www.youtube.com/watch?v=HTHMEj0Rh5k"
+    "duration_seconds": 8658,
+    "yt_id": "HTHMEj0Rh5k",
+    "yt_url": "https://www.youtube.com/watch?v=HTHMEj0Rh5k",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 38,
     "id": "EYROTn2tB_E",
     "title": "Friday News Slime",
-    "duration_seconds": 2853,
+    "date": "2026-05-02",
+    "raw_date": "20260502",
     "duration_str": "47:33",
-    "url": "https://www.youtube.com/watch?v=EYROTn2tB_E"
+    "duration_seconds": 2853,
+    "yt_id": "EYROTn2tB_E",
+    "yt_url": "https://www.youtube.com/watch?v=EYROTn2tB_E",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 39,
     "id": "R-IQkXacTG4",
     "title": "Friday News Slime",
-    "duration_seconds": 5617,
+    "date": "2026-05-01",
+    "raw_date": "20260501",
     "duration_str": "1:33:37",
-    "url": "https://www.youtube.com/watch?v=R-IQkXacTG4"
+    "duration_seconds": 5617,
+    "yt_id": "R-IQkXacTG4",
+    "yt_url": "https://www.youtube.com/watch?v=R-IQkXacTG4",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 40,
     "id": "RzZ1eEUzOlI",
     "title": "Senate Kegger Committee News",
-    "duration_seconds": 8976,
+    "date": "2026-04-29",
+    "raw_date": "20260429",
     "duration_str": "2:29:36",
-    "url": "https://www.youtube.com/watch?v=RzZ1eEUzOlI"
+    "duration_seconds": 8976,
+    "yt_id": "RzZ1eEUzOlI",
+    "yt_url": "https://www.youtube.com/watch?v=RzZ1eEUzOlI",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 41,
     "id": "J1ps8ZZNOjs",
     "title": "Monday Newsway",
-    "duration_seconds": 7276,
+    "date": "2026-04-27",
+    "raw_date": "20260427",
     "duration_str": "2:01:16",
-    "url": "https://www.youtube.com/watch?v=J1ps8ZZNOjs"
+    "duration_seconds": 7276,
+    "yt_id": "J1ps8ZZNOjs",
+    "yt_url": "https://www.youtube.com/watch?v=J1ps8ZZNOjs",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 42,
     "id": "5k9qalF2NLo",
     "title": "Weekend War-ish News",
-    "duration_seconds": 10043,
+    "date": "2026-04-24",
+    "raw_date": "20260424",
     "duration_str": "2:47:23",
-    "url": "https://www.youtube.com/watch?v=5k9qalF2NLo"
+    "duration_seconds": 10043,
+    "yt_id": "5k9qalF2NLo",
+    "yt_url": "https://www.youtube.com/watch?v=5k9qalF2NLo",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 43,
     "id": "JdY8XzYEq0g",
     "title": "Indefinitely Firing Wednesday News",
-    "duration_seconds": 8808,
+    "date": "2026-04-22",
+    "raw_date": "20260422",
     "duration_str": "2:26:48",
-    "url": "https://www.youtube.com/watch?v=JdY8XzYEq0g"
+    "duration_seconds": 8808,
+    "yt_id": "JdY8XzYEq0g",
+    "yt_url": "https://www.youtube.com/watch?v=JdY8XzYEq0g",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 44,
     "id": "6-Ej6m49W-w",
     "title": "News Minus 30 Scrum Minutes",
-    "duration_seconds": 9322,
+    "date": "2026-04-21",
+    "raw_date": "20260421",
     "duration_str": "2:35:22",
-    "url": "https://www.youtube.com/watch?v=6-Ej6m49W-w"
+    "duration_seconds": 9322,
+    "yt_id": "6-Ej6m49W-w",
+    "yt_url": "https://www.youtube.com/watch?v=6-Ej6m49W-w",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 45,
     "id": "6xrss8YwsiY",
     "title": "Slaying Some Spires Instead of NEWS",
-    "duration_seconds": 5964,
+    "date": "2026-04-17",
+    "raw_date": "20260417",
     "duration_str": "1:39:24",
-    "url": "https://www.youtube.com/watch?v=6xrss8YwsiY"
+    "duration_seconds": 5964,
+    "yt_id": "6xrss8YwsiY",
+    "yt_url": "https://www.youtube.com/watch?v=6xrss8YwsiY",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 46,
     "id": "bM-ExBaJ3CM",
     "title": "Midweek Middling News",
-    "duration_seconds": 10223,
+    "date": "2026-04-15",
+    "raw_date": "20260415",
     "duration_str": "2:50:23",
-    "url": "https://www.youtube.com/watch?v=bM-ExBaJ3CM"
+    "duration_seconds": 10223,
+    "yt_id": "bM-ExBaJ3CM",
+    "yt_url": "https://www.youtube.com/watch?v=bM-ExBaJ3CM",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 47,
     "id": "EDonZvzvWPg",
     "title": "Unblocking the News",
-    "duration_seconds": 10438,
+    "date": "2026-04-14",
+    "raw_date": "20260414",
     "duration_str": "2:53:58",
-    "url": "https://www.youtube.com/watch?v=EDonZvzvWPg"
+    "duration_seconds": 10438,
+    "yt_id": "EDonZvzvWPg",
+    "yt_url": "https://www.youtube.com/watch?v=EDonZvzvWPg",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 48,
     "id": "FzHxojsvBmA",
     "title": "Big Friday News Deals",
-    "duration_seconds": 9833,
+    "date": "2026-04-11",
+    "raw_date": "20260411",
     "duration_str": "2:43:53",
-    "url": "https://www.youtube.com/watch?v=FzHxojsvBmA"
+    "duration_seconds": 9833,
+    "yt_id": "FzHxojsvBmA",
+    "yt_url": "https://www.youtube.com/watch?v=FzHxojsvBmA",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 49,
     "id": "IZKfjXcfU6U",
     "title": "Unceasing News",
-    "duration_seconds": 7410,
+    "date": "2026-04-09",
+    "raw_date": "20260409",
     "duration_str": "2:03:30",
-    "url": "https://www.youtube.com/watch?v=IZKfjXcfU6U"
+    "duration_seconds": 7410,
+    "yt_id": "IZKfjXcfU6U",
+    "yt_url": "https://www.youtube.com/watch?v=IZKfjXcfU6U",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 50,
     "id": "qhs3w6PiUhE",
     "title": "Big Time Swear News",
-    "duration_seconds": 9440,
+    "date": "2026-04-06",
+    "raw_date": "20260406",
     "duration_str": "2:37:20",
-    "url": "https://www.youtube.com/watch?v=qhs3w6PiUhE"
+    "duration_seconds": 9440,
+    "yt_id": "qhs3w6PiUhE",
+    "yt_url": "https://www.youtube.com/watch?v=qhs3w6PiUhE",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 51,
     "id": "HRNhGlj9PPE",
     "title": "Wednesday News Ignition",
-    "duration_seconds": 6650,
+    "date": "2026-04-01",
+    "raw_date": "20260401",
     "duration_str": "1:50:50",
-    "url": "https://www.youtube.com/watch?v=HRNhGlj9PPE"
+    "duration_seconds": 6650,
+    "yt_id": "HRNhGlj9PPE",
+    "yt_url": "https://www.youtube.com/watch?v=HRNhGlj9PPE",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 52,
     "id": "PaeUZEwfgWA",
     "title": "Newsing for the Weekend",
-    "duration_seconds": 6507,
+    "date": "2026-03-27",
+    "raw_date": "20260327",
     "duration_str": "1:48:27",
-    "url": "https://www.youtube.com/watch?v=PaeUZEwfgWA"
+    "duration_seconds": 6507,
+    "yt_id": "PaeUZEwfgWA",
+    "yt_url": "https://www.youtube.com/watch?v=PaeUZEwfgWA",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 53,
     "id": "dEVsBowATT8",
     "title": "Breaking the 48 Hour News Deadline",
-    "duration_seconds": 9577,
+    "date": "2026-03-25",
+    "raw_date": "20260325",
     "duration_str": "2:39:37",
-    "url": "https://www.youtube.com/watch?v=dEVsBowATT8"
+    "duration_seconds": 9577,
+    "yt_id": "dEVsBowATT8",
+    "yt_url": "https://www.youtube.com/watch?v=dEVsBowATT8",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 54,
     "id": "OshWD1EFHZI",
     "title": "Breaking the 48 Hour News Deadline",
-    "duration_seconds": 6431,
+    "date": "2026-03-24",
+    "raw_date": "20260324",
     "duration_str": "1:47:11",
-    "url": "https://www.youtube.com/watch?v=OshWD1EFHZI"
+    "duration_seconds": 6431,
+    "yt_id": "OshWD1EFHZI",
+    "yt_url": "https://www.youtube.com/watch?v=OshWD1EFHZI",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 55,
     "id": "aZ7QTVhih-E",
     "title": "Bonking the News",
-    "duration_seconds": 8769,
+    "date": "2026-03-20",
+    "raw_date": "20260320",
     "duration_str": "2:26:09",
-    "url": "https://www.youtube.com/watch?v=aZ7QTVhih-E"
+    "duration_seconds": 8769,
+    "yt_id": "aZ7QTVhih-E",
+    "yt_url": "https://www.youtube.com/watch?v=aZ7QTVhih-E",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 56,
     "id": "COg603HILZc",
     "title": "The News Strikes Again",
-    "duration_seconds": 6345,
+    "date": "2026-03-19",
+    "raw_date": "20260319",
     "duration_str": "1:45:45",
-    "url": "https://www.youtube.com/watch?v=COg603HILZc"
+    "duration_seconds": 6345,
+    "yt_id": "COg603HILZc",
+    "yt_url": "https://www.youtube.com/watch?v=COg603HILZc",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 57,
     "id": "NAGMRCh1EOc",
     "title": "Resigned to the NEWS",
-    "duration_seconds": 7897,
+    "date": "2026-03-17",
+    "raw_date": "20260317",
     "duration_str": "2:11:37",
-    "url": "https://www.youtube.com/watch?v=NAGMRCh1EOc"
+    "duration_seconds": 7897,
+    "yt_id": "NAGMRCh1EOc",
+    "yt_url": "https://www.youtube.com/watch?v=NAGMRCh1EOc",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 58,
     "id": "TO4P1HEL4gY",
     "title": "Late Night Workouts",
-    "duration_seconds": 6087,
+    "date": "2026-03-14",
+    "raw_date": "20260314",
     "duration_str": "1:41:27",
-    "url": "https://www.youtube.com/watch?v=TO4P1HEL4gY"
+    "duration_seconds": 6087,
+    "yt_id": "TO4P1HEL4gY",
+    "yt_url": "https://www.youtube.com/watch?v=TO4P1HEL4gY",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 59,
     "id": "o1eg5JpmnJY",
     "title": "Straights of More News, it's THURSDAY BIN",
-    "duration_seconds": 10607,
+    "date": "2026-03-12",
+    "raw_date": "20260312",
     "duration_str": "2:56:47",
-    "url": "https://www.youtube.com/watch?v=o1eg5JpmnJY"
+    "duration_seconds": 10607,
+    "yt_id": "o1eg5JpmnJY",
+    "yt_url": "https://www.youtube.com/watch?v=o1eg5JpmnJY",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 60,
     "id": "XmhXkdunOB4",
     "title": "A Night of Courts",
-    "duration_seconds": 9891,
+    "date": "2026-03-10",
+    "raw_date": "20260310",
     "duration_str": "2:44:51",
-    "url": "https://www.youtube.com/watch?v=XmhXkdunOB4"
+    "duration_seconds": 9891,
+    "yt_id": "XmhXkdunOB4",
+    "yt_url": "https://www.youtube.com/watch?v=XmhXkdunOB4",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 61,
     "id": "obXQhBxu7PI",
     "title": "A Night of Courts",
-    "duration_seconds": 9549,
+    "date": "2026-03-07",
+    "raw_date": "20260307",
     "duration_str": "2:39:09",
-    "url": "https://www.youtube.com/watch?v=obXQhBxu7PI"
+    "duration_seconds": 9549,
+    "yt_id": "obXQhBxu7PI",
+    "yt_url": "https://www.youtube.com/watch?v=obXQhBxu7PI",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 62,
     "id": "HQATAA2cFZA",
     "title": "Quick Stream Before Patreon",
-    "duration_seconds": 5340,
+    "date": "2026-03-06",
+    "raw_date": "20260306",
     "duration_str": "1:29:00",
-    "url": "https://www.youtube.com/watch?v=HQATAA2cFZA"
+    "duration_seconds": 5340,
+    "yt_id": "HQATAA2cFZA",
+    "yt_url": "https://www.youtube.com/watch?v=HQATAA2cFZA",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 63,
     "id": "y6Jef10kx78",
     "title": "Woops, All War",
-    "duration_seconds": 9062,
+    "date": "2026-03-03",
+    "raw_date": "20260303",
     "duration_str": "2:31:02",
-    "url": "https://www.youtube.com/watch?v=y6Jef10kx78"
+    "duration_seconds": 9062,
+    "yt_id": "y6Jef10kx78",
+    "yt_url": "https://www.youtube.com/watch?v=y6Jef10kx78",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 64,
     "id": "oSU1CPtwZFQ",
     "title": "Gotta Catch MORE news",
-    "duration_seconds": 7246,
+    "date": "2026-02-28",
+    "raw_date": "20260228",
     "duration_str": "2:00:46",
-    "url": "https://www.youtube.com/watch?v=oSU1CPtwZFQ"
+    "duration_seconds": 7246,
+    "yt_id": "oSU1CPtwZFQ",
+    "yt_url": "https://www.youtube.com/watch?v=oSU1CPtwZFQ",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 65,
     "id": "Pl_x_zUaUA0",
     "title": "State of the Newsing",
-    "duration_seconds": 8888,
+    "date": "2026-02-26",
+    "raw_date": "20260226",
     "duration_str": "2:28:08",
-    "url": "https://www.youtube.com/watch?v=Pl_x_zUaUA0"
+    "duration_seconds": 8888,
+    "yt_id": "Pl_x_zUaUA0",
+    "yt_url": "https://www.youtube.com/watch?v=Pl_x_zUaUA0",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 66,
     "id": "WYpY1XlIuWc",
     "title": "Wenthday Newthday",
-    "duration_seconds": 5813,
+    "date": "2026-02-19",
+    "raw_date": "20260219",
     "duration_str": "1:36:53",
-    "url": "https://www.youtube.com/watch?v=WYpY1XlIuWc"
+    "duration_seconds": 5813,
+    "yt_id": "WYpY1XlIuWc",
+    "yt_url": "https://www.youtube.com/watch?v=WYpY1XlIuWc",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 67,
     "id": "UyY_i6HCd9g",
     "title": "Gotta Catch the News",
-    "duration_seconds": 13770,
+    "date": "2026-02-17",
+    "raw_date": "20260217",
     "duration_str": "3:49:30",
-    "url": "https://www.youtube.com/watch?v=UyY_i6HCd9g"
+    "duration_seconds": 13770,
+    "yt_id": "UyY_i6HCd9g",
+    "yt_url": "https://www.youtube.com/watch?v=UyY_i6HCd9g",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 68,
     "id": "qUBM5HE-dOU",
     "title": "Friday News Guy",
-    "duration_seconds": 7407,
+    "date": "2026-02-14",
+    "raw_date": "20260214",
     "duration_str": "2:03:27",
-    "url": "https://www.youtube.com/watch?v=qUBM5HE-dOU"
+    "duration_seconds": 7407,
+    "yt_id": "qUBM5HE-dOU",
+    "yt_url": "https://www.youtube.com/watch?v=qUBM5HE-dOU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 69,
     "id": "OqJdz29iD1E",
     "title": "Humpday Hump News",
-    "duration_seconds": 10399,
+    "date": "2026-02-12",
+    "raw_date": "20260212",
     "duration_str": "2:53:19",
-    "url": "https://www.youtube.com/watch?v=OqJdz29iD1E"
+    "duration_seconds": 10399,
+    "yt_id": "OqJdz29iD1E",
+    "yt_url": "https://www.youtube.com/watch?v=OqJdz29iD1E",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 70,
     "id": "75I8_0lBL-Q",
     "title": "The All American News Time Show",
-    "duration_seconds": 7882,
+    "date": "2026-02-10",
+    "raw_date": "20260210",
     "duration_str": "2:11:22",
-    "url": "https://www.youtube.com/watch?v=75I8_0lBL-Q"
+    "duration_seconds": 7882,
+    "yt_id": "75I8_0lBL-Q",
+    "yt_url": "https://www.youtube.com/watch?v=75I8_0lBL-Q",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 71,
     "id": "xkVJYG7yOs4",
     "title": "New Hair, New News",
-    "duration_seconds": 9424,
+    "date": "2026-02-06",
+    "raw_date": "20260206",
     "duration_str": "2:37:04",
-    "url": "https://www.youtube.com/watch?v=xkVJYG7yOs4"
+    "duration_seconds": 9424,
+    "yt_id": "xkVJYG7yOs4",
+    "yt_url": "https://www.youtube.com/watch?v=xkVJYG7yOs4",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 72,
     "id": "uc90mEBZVzU",
     "title": "Another Tuesday News Just Dropped",
-    "duration_seconds": 14483,
+    "date": "2026-02-04",
+    "raw_date": "20260204",
     "duration_str": "4:01:23",
-    "url": "https://www.youtube.com/watch?v=uc90mEBZVzU"
+    "duration_seconds": 14483,
+    "yt_id": "uc90mEBZVzU",
+    "yt_url": "https://www.youtube.com/watch?v=uc90mEBZVzU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 73,
     "id": "7bPx-GV5ug4",
     "title": "Case of the Mondays",
-    "duration_seconds": 9329,
+    "date": "2026-01-27",
+    "raw_date": "20260127",
     "duration_str": "2:35:29",
-    "url": "https://www.youtube.com/watch?v=7bPx-GV5ug4"
+    "duration_seconds": 9329,
+    "yt_id": "7bPx-GV5ug4",
+    "yt_url": "https://www.youtube.com/watch?v=7bPx-GV5ug4",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 74,
     "id": "_yLP5yrqUDk",
     "title": "TGIF (This Guy is FingNews)",
-    "duration_seconds": 9707,
+    "date": "2026-01-24",
+    "raw_date": "20260124",
     "duration_str": "2:41:47",
-    "url": "https://www.youtube.com/watch?v=_yLP5yrqUDk"
+    "duration_seconds": 9707,
+    "yt_id": "_yLP5yrqUDk",
+    "yt_url": "https://www.youtube.com/watch?v=_yLP5yrqUDk",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 75,
     "id": "aybYcLFxN4Y",
     "title": "Wentheday Newthday",
-    "duration_seconds": 5154,
+    "date": "2026-01-22",
+    "raw_date": "20260122",
     "duration_str": "1:25:54",
-    "url": "https://www.youtube.com/watch?v=aybYcLFxN4Y"
+    "duration_seconds": 5154,
+    "yt_id": "aybYcLFxN4Y",
+    "yt_url": "https://www.youtube.com/watch?v=aybYcLFxN4Y",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 76,
     "id": "dBVRocpD_90",
     "title": "Tuesday Newsday",
-    "duration_seconds": 8408,
+    "date": "2026-01-21",
+    "raw_date": "20260121",
     "duration_str": "2:20:08",
-    "url": "https://www.youtube.com/watch?v=dBVRocpD_90"
+    "duration_seconds": 8408,
+    "yt_id": "dBVRocpD_90",
+    "yt_url": "https://www.youtube.com/watch?v=dBVRocpD_90",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 77,
     "id": "eQke2XEk47g",
     "title": "Newsing for the Weekend",
-    "duration_seconds": 9021,
+    "date": "2026-01-17",
+    "raw_date": "20260117",
     "duration_str": "2:30:21",
-    "url": "https://www.youtube.com/watch?v=eQke2XEk47g"
+    "duration_seconds": 9021,
+    "yt_id": "eQke2XEk47g",
+    "yt_url": "https://www.youtube.com/watch?v=eQke2XEk47g",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 78,
     "id": "X9GkWWdHAuE",
     "title": "Seizing the Wednesday News",
-    "duration_seconds": 9546,
+    "date": "2026-01-07",
+    "raw_date": "20260107",
     "duration_str": "2:39:06",
-    "url": "https://www.youtube.com/watch?v=X9GkWWdHAuE"
+    "duration_seconds": 9546,
+    "yt_id": "X9GkWWdHAuE",
+    "yt_url": "https://www.youtube.com/watch?v=X9GkWWdHAuE",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 79,
     "id": "qV6OVgUibSA",
     "title": "Happy News Year Redux",
-    "duration_seconds": 7625,
+    "date": "2026-01-06",
+    "raw_date": "20260106",
     "duration_str": "2:07:05",
-    "url": "https://www.youtube.com/watch?v=qV6OVgUibSA"
+    "duration_seconds": 7625,
+    "yt_id": "qV6OVgUibSA",
+    "yt_url": "https://www.youtube.com/watch?v=qV6OVgUibSA",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 80,
     "id": "wpVH-HcsrUI",
     "title": "Happy News Year",
-    "duration_seconds": 630,
+    "date": "2026-01-06",
+    "raw_date": "20260106",
     "duration_str": "10:30",
-    "url": "https://www.youtube.com/watch?v=wpVH-HcsrUI"
+    "duration_seconds": 630,
+    "yt_id": "wpVH-HcsrUI",
+    "yt_url": "https://www.youtube.com/watch?v=wpVH-HcsrUI",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 81,
     "id": "jSa3zc6fyo0",
     "title": "Happy News Year",
-    "duration_seconds": 467,
+    "date": "2026-01-06",
+    "raw_date": "20260106",
     "duration_str": "7:47",
-    "url": "https://www.youtube.com/watch?v=jSa3zc6fyo0"
+    "duration_seconds": 467,
+    "yt_id": "jSa3zc6fyo0",
+    "yt_url": "https://www.youtube.com/watch?v=jSa3zc6fyo0",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 82,
     "id": "SnZ46D_gvYQ",
     "title": "Deck the News with Awful Stories",
-    "duration_seconds": 10161,
+    "date": "2025-12-24",
+    "raw_date": "20251224",
     "duration_str": "2:49:21",
-    "url": "https://www.youtube.com/watch?v=SnZ46D_gvYQ"
+    "duration_seconds": 10161,
+    "yt_id": "SnZ46D_gvYQ",
+    "yt_url": "https://www.youtube.com/watch?v=SnZ46D_gvYQ",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 83,
     "id": "lzFoheJkjZ4",
     "title": "Grunchmas 2025",
-    "duration_seconds": 8773,
+    "date": "2025-12-19",
+    "raw_date": "20251219",
     "duration_str": "2:26:13",
-    "url": "https://www.youtube.com/watch?v=lzFoheJkjZ4"
+    "duration_seconds": 8773,
+    "yt_id": "lzFoheJkjZ4",
+    "yt_url": "https://www.youtube.com/watch?v=lzFoheJkjZ4",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 84,
     "id": "c7wPYaGN08E",
     "title": "Monday News Slam",
-    "duration_seconds": 8662,
+    "date": "2025-12-18",
+    "raw_date": "20251218",
     "duration_str": "2:24:22",
-    "url": "https://www.youtube.com/watch?v=c7wPYaGN08E"
+    "duration_seconds": 8662,
+    "yt_id": "c7wPYaGN08E",
+    "yt_url": "https://www.youtube.com/watch?v=c7wPYaGN08E",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 85,
     "id": "zKP7k3pwDVE",
     "title": "Monday News Slam",
-    "duration_seconds": 14,
+    "date": "2025-12-18",
+    "raw_date": "20251218",
     "duration_str": "0:14",
-    "url": "https://www.youtube.com/watch?v=zKP7k3pwDVE"
+    "duration_seconds": 14,
+    "yt_id": "zKP7k3pwDVE",
+    "yt_url": "https://www.youtube.com/watch?v=zKP7k3pwDVE",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 86,
     "id": "r_f4NEI06Dk",
     "title": "Peaking Hard",
-    "duration_seconds": 8429,
+    "date": "2025-12-16",
+    "raw_date": "20251216",
     "duration_str": "2:20:29",
-    "url": "https://www.youtube.com/watch?v=r_f4NEI06Dk"
+    "duration_seconds": 8429,
+    "yt_id": "r_f4NEI06Dk",
+    "yt_url": "https://www.youtube.com/watch?v=r_f4NEI06Dk",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 87,
     "id": "liu6pS-zZN4",
     "title": "Monday News Truthing",
-    "duration_seconds": 55,
+    "date": "2025-12-16",
+    "raw_date": "20251216",
     "duration_str": "0:55",
-    "url": "https://www.youtube.com/watch?v=liu6pS-zZN4"
+    "duration_seconds": 55,
+    "yt_id": "liu6pS-zZN4",
+    "yt_url": "https://www.youtube.com/watch?v=liu6pS-zZN4",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 88,
     "id": "c_x-e4JawWo",
     "title": "Monday News Truthing",
-    "duration_seconds": 250,
+    "date": "2025-12-16",
+    "raw_date": "20251216",
     "duration_str": "4:10",
-    "url": "https://www.youtube.com/watch?v=c_x-e4JawWo"
+    "duration_seconds": 250,
+    "yt_id": "c_x-e4JawWo",
+    "yt_url": "https://www.youtube.com/watch?v=c_x-e4JawWo",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 89,
     "id": "rF7Aow8Vu7U",
     "title": "Friday Newsend",
-    "duration_seconds": 7573,
+    "date": "2025-12-13",
+    "raw_date": "20251213",
     "duration_str": "2:06:13",
-    "url": "https://www.youtube.com/watch?v=rF7Aow8Vu7U"
+    "duration_seconds": 7573,
+    "yt_id": "rF7Aow8Vu7U",
+    "yt_url": "https://www.youtube.com/watch?v=rF7Aow8Vu7U",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 90,
     "id": "PwADgcTc4os",
     "title": "Mid Week Newsery",
-    "duration_seconds": 7537,
+    "date": "2025-12-11",
+    "raw_date": "20251211",
     "duration_str": "2:05:37",
-    "url": "https://www.youtube.com/watch?v=PwADgcTc4os"
+    "duration_seconds": 7537,
+    "yt_id": "PwADgcTc4os",
+    "yt_url": "https://www.youtube.com/watch?v=PwADgcTc4os",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 91,
     "id": "AjGj71o20Cs",
     "title": "Monday News Slop",
-    "duration_seconds": 7780,
+    "date": "2025-12-09",
+    "raw_date": "20251209",
     "duration_str": "2:09:40",
-    "url": "https://www.youtube.com/watch?v=AjGj71o20Cs"
+    "duration_seconds": 7780,
+    "yt_id": "AjGj71o20Cs",
+    "yt_url": "https://www.youtube.com/watch?v=AjGj71o20Cs",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 92,
     "id": "yoNLHJo56bs",
     "title": "Friday News Dump",
-    "duration_seconds": 8739,
+    "date": "2025-12-06",
+    "raw_date": "20251206",
     "duration_str": "2:25:39",
-    "url": "https://www.youtube.com/watch?v=yoNLHJo56bs"
+    "duration_seconds": 8739,
+    "yt_id": "yoNLHJo56bs",
+    "yt_url": "https://www.youtube.com/watch?v=yoNLHJo56bs",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 93,
     "id": "-iFXG_t-64Y",
     "title": "Back in the News",
-    "duration_seconds": 8277,
+    "date": "2025-12-04",
+    "raw_date": "20251204",
     "duration_str": "2:17:57",
-    "url": "https://www.youtube.com/watch?v=-iFXG_t-64Y"
+    "duration_seconds": 8277,
+    "yt_id": "-iFXG_t-64Y",
+    "yt_url": "https://www.youtube.com/watch?v=-iFXG_t-64Y",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 94,
     "id": "uAGQr9nE2dM",
     "title": "The Most Thankfull News",
-    "duration_seconds": 6991,
+    "date": "2025-11-27",
+    "raw_date": "20251127",
     "duration_str": "1:56:31",
-    "url": "https://www.youtube.com/watch?v=uAGQr9nE2dM"
+    "duration_seconds": 6991,
+    "yt_id": "uAGQr9nE2dM",
+    "yt_url": "https://www.youtube.com/watch?v=uAGQr9nE2dM",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 95,
     "id": "ZGma3afeWMM",
     "title": "Monday News Blast",
-    "duration_seconds": 8534,
+    "date": "2025-11-25",
+    "raw_date": "20251125",
     "duration_str": "2:22:14",
-    "url": "https://www.youtube.com/watch?v=ZGma3afeWMM"
+    "duration_seconds": 8534,
+    "yt_id": "ZGma3afeWMM",
+    "yt_url": "https://www.youtube.com/watch?v=ZGma3afeWMM",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 96,
     "id": "yEhvqQ3qSe0",
     "title": "New Week, New Resolutions, it's NEWS",
-    "duration_seconds": 8321,
+    "date": "2025-11-18",
+    "raw_date": "20251118",
     "duration_str": "2:18:41",
-    "url": "https://www.youtube.com/watch?v=yEhvqQ3qSe0"
+    "duration_seconds": 8321,
+    "yt_id": "yEhvqQ3qSe0",
+    "yt_url": "https://www.youtube.com/watch?v=yEhvqQ3qSe0",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 97,
     "id": "lgeM5Hpl3Io",
     "title": "Friday News Slop",
-    "duration_seconds": 9281,
+    "date": "2025-11-15",
+    "raw_date": "20251115",
     "duration_str": "2:34:41",
-    "url": "https://www.youtube.com/watch?v=lgeM5Hpl3Io"
+    "duration_seconds": 9281,
+    "yt_id": "lgeM5Hpl3Io",
+    "yt_url": "https://www.youtube.com/watch?v=lgeM5Hpl3Io",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 98,
     "id": "UcAZTjmALyg",
     "title": "Return to News Mountain",
-    "duration_seconds": 7102,
+    "date": "2025-11-13",
+    "raw_date": "20251113",
     "duration_str": "1:58:22",
-    "url": "https://www.youtube.com/watch?v=UcAZTjmALyg"
+    "duration_seconds": 7102,
+    "yt_id": "UcAZTjmALyg",
+    "yt_url": "https://www.youtube.com/watch?v=UcAZTjmALyg",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 99,
     "id": "3vBzXHG5hAg",
     "title": "Mayor Elections, Billboard Selections, and Scott Adams Interventions, it's supposedly NEWS",
-    "duration_seconds": 9126,
+    "date": "2025-11-03",
+    "raw_date": "20251103",
     "duration_str": "2:32:06",
-    "url": "https://www.youtube.com/watch?v=3vBzXHG5hAg"
+    "duration_seconds": 9126,
+    "yt_id": "3vBzXHG5hAg",
+    "yt_url": "https://www.youtube.com/watch?v=3vBzXHG5hAg",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 100,
     "id": "PN208UJ8iWk",
     "title": "Banning Refugees, Evicting Princes, Mr Beast Banks, it's unfortunately NEWS",
-    "duration_seconds": 9601,
+    "date": "2025-10-31",
+    "raw_date": "20251031",
     "duration_str": "2:40:01",
-    "url": "https://www.youtube.com/watch?v=PN208UJ8iWk"
+    "duration_seconds": 9601,
+    "yt_id": "PN208UJ8iWk",
+    "yt_url": "https://www.youtube.com/watch?v=PN208UJ8iWk",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 101,
     "id": "FsxuzX7kiUY",
     "title": "Huge Deals? Sounds like Huge NEWS",
-    "duration_seconds": 9508,
+    "date": "2025-10-27",
+    "raw_date": "20251027",
     "duration_str": "2:38:28",
-    "url": "https://www.youtube.com/watch?v=FsxuzX7kiUY"
+    "duration_seconds": 9508,
+    "yt_id": "FsxuzX7kiUY",
+    "yt_url": "https://www.youtube.com/watch?v=FsxuzX7kiUY",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 102,
     "id": "gpAG0nhU010",
     "title": "Protests, Ceasefire Violations, and Presidential Slop, it's NEWS",
-    "duration_seconds": 6128,
+    "date": "2025-10-20",
+    "raw_date": "20251020",
     "duration_str": "1:42:08",
-    "url": "https://www.youtube.com/watch?v=gpAG0nhU010"
+    "duration_seconds": 6128,
+    "yt_id": "gpAG0nhU010",
+    "yt_url": "https://www.youtube.com/watch?v=gpAG0nhU010",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 103,
     "id": "s8KIIY2Q8FI",
     "title": "Leaky Friday News",
-    "duration_seconds": 9887,
+    "date": "2025-10-18",
+    "raw_date": "20251018",
     "duration_str": "2:44:47",
-    "url": "https://www.youtube.com/watch?v=s8KIIY2Q8FI"
+    "duration_seconds": 9887,
+    "yt_id": "s8KIIY2Q8FI",
+    "yt_url": "https://www.youtube.com/watch?v=s8KIIY2Q8FI",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 104,
     "id": "vTLr6CeC2vM",
     "title": "The Hottest Pentagon Reporting, it's Wednesday NEWS",
-    "duration_seconds": 7518,
+    "date": "2025-10-16",
+    "raw_date": "20251016",
     "duration_str": "2:05:18",
-    "url": "https://www.youtube.com/watch?v=vTLr6CeC2vM"
+    "duration_seconds": 7518,
+    "yt_id": "vTLr6CeC2vM",
+    "yt_url": "https://www.youtube.com/watch?v=vTLr6CeC2vM",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 105,
     "id": "1iwbH5qCCZc",
     "title": "Swaps, Crashes, and Self Congratulatory Speeches, it's Monday NEWS",
-    "duration_seconds": 9158,
+    "date": "2025-10-13",
+    "raw_date": "20251013",
     "duration_str": "2:32:38",
-    "url": "https://www.youtube.com/watch?v=1iwbH5qCCZc"
+    "duration_seconds": 9158,
+    "yt_id": "1iwbH5qCCZc",
+    "yt_url": "https://www.youtube.com/watch?v=1iwbH5qCCZc",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 106,
     "id": "vm0IHEvByp4",
     "title": "Nobel Piece o Prize, Mass Firings, and Other NEWS to Grind Your Teeth",
-    "duration_seconds": 9062,
+    "date": "2025-10-10",
+    "raw_date": "20251010",
     "duration_str": "2:31:02",
-    "url": "https://www.youtube.com/watch?v=vm0IHEvByp4"
+    "duration_seconds": 9062,
+    "yt_id": "vm0IHEvByp4",
+    "yt_url": "https://www.youtube.com/watch?v=vm0IHEvByp4",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 107,
     "id": "Qkpp47pjBvw",
     "title": "Ceasefires Hopefully Now, Chicago Deployments, and of course SLOP, it's NEWS",
-    "duration_seconds": 9486,
+    "date": "2025-10-09",
+    "raw_date": "20251009",
     "duration_str": "2:38:06",
-    "url": "https://www.youtube.com/watch?v=Qkpp47pjBvw"
+    "duration_seconds": 9486,
+    "yt_id": "Qkpp47pjBvw",
+    "yt_url": "https://www.youtube.com/watch?v=Qkpp47pjBvw",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 108,
     "id": "LDmLZfQMrs4",
     "title": "Peace Deals? Maybe. Alien DNA? FOR SURE - it's NEWS",
-    "duration_seconds": 7487,
+    "date": "2025-10-06",
+    "raw_date": "20251006",
     "duration_str": "2:04:47",
-    "url": "https://www.youtube.com/watch?v=LDmLZfQMrs4"
+    "duration_seconds": 7487,
+    "yt_id": "LDmLZfQMrs4",
+    "yt_url": "https://www.youtube.com/watch?v=LDmLZfQMrs4",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 109,
     "id": "R0wJXZzbVaA",
     "title": "Illegal Raids and Beyblade Days",
-    "duration_seconds": 10522,
+    "date": "2025-10-04",
+    "raw_date": "20251004",
     "duration_str": "2:55:22",
-    "url": "https://www.youtube.com/watch?v=R0wJXZzbVaA"
+    "duration_seconds": 10522,
+    "yt_id": "R0wJXZzbVaA",
+    "yt_url": "https://www.youtube.com/watch?v=R0wJXZzbVaA",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 110,
     "id": "vdPpPGW3_DA",
     "title": "Government Shutdown, Rooney Upgrades",
-    "duration_seconds": 8655,
+    "date": "2025-10-02",
+    "raw_date": "20251002",
     "duration_str": "2:24:15",
-    "url": "https://www.youtube.com/watch?v=vdPpPGW3_DA"
+    "duration_seconds": 8655,
+    "yt_id": "vdPpPGW3_DA",
+    "yt_url": "https://www.youtube.com/watch?v=vdPpPGW3_DA",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 111,
     "id": "nkzlr1a_Zw0",
     "title": "The Monday News Comedy Festival",
-    "duration_seconds": 10295,
+    "date": "2025-09-29",
+    "raw_date": "20250929",
     "duration_str": "2:51:35",
-    "url": "https://www.youtube.com/watch?v=nkzlr1a_Zw0"
+    "duration_seconds": 10295,
+    "yt_id": "nkzlr1a_Zw0",
+    "yt_url": "https://www.youtube.com/watch?v=nkzlr1a_Zw0",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 112,
     "id": "LNQ0e2tBowY",
     "title": "Post Wall and Rapture Clarity",
-    "duration_seconds": 6320,
+    "date": "2025-09-26",
+    "raw_date": "20250926",
     "duration_str": "1:45:20",
-    "url": "https://www.youtube.com/watch?v=LNQ0e2tBowY"
+    "duration_seconds": 6320,
+    "yt_id": "LNQ0e2tBowY",
+    "yt_url": "https://www.youtube.com/watch?v=LNQ0e2tBowY",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 113,
     "id": "QDY1wkyfA-k",
     "title": "Post Wall and Rapture Clarity",
-    "duration_seconds": 9358,
+    "date": "2025-09-25",
+    "raw_date": "20250925",
     "duration_str": "2:35:58",
-    "url": "https://www.youtube.com/watch?v=QDY1wkyfA-k"
+    "duration_seconds": 9358,
+    "yt_id": "QDY1wkyfA-k",
+    "yt_url": "https://www.youtube.com/watch?v=QDY1wkyfA-k",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 114,
     "id": "m-flygfm2xU",
     "title": "Join the Wall",
-    "duration_seconds": 11609,
+    "date": "2025-09-21",
+    "raw_date": "20250921",
     "duration_str": "3:13:29",
-    "url": "https://www.youtube.com/watch?v=m-flygfm2xU"
+    "duration_seconds": 11609,
+    "yt_id": "m-flygfm2xU",
+    "yt_url": "https://www.youtube.com/watch?v=m-flygfm2xU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 115,
     "id": "lZ9b1vOwa9w",
     "title": "Quick Stream Before Patreon",
-    "duration_seconds": 6121,
+    "date": "2025-09-18",
+    "raw_date": "20250918",
     "duration_str": "1:42:01",
-    "url": "https://www.youtube.com/watch?v=lZ9b1vOwa9w"
+    "duration_seconds": 6121,
+    "yt_id": "lZ9b1vOwa9w",
+    "yt_url": "https://www.youtube.com/watch?v=lZ9b1vOwa9w",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 116,
     "id": "X-zigNPGBUA",
     "title": "Kashing Up on the Monday News",
-    "duration_seconds": 10163,
+    "date": "2025-09-15",
+    "raw_date": "20250915",
     "duration_str": "2:49:23",
-    "url": "https://www.youtube.com/watch?v=X-zigNPGBUA"
+    "duration_seconds": 10163,
+    "yt_id": "X-zigNPGBUA",
+    "yt_url": "https://www.youtube.com/watch?v=X-zigNPGBUA",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 117,
     "id": "F1_w2rz1nzU",
     "title": "Finders Killers, it's Friday NEWS",
-    "duration_seconds": 11983,
+    "date": "2025-09-13",
+    "raw_date": "20250913",
     "duration_str": "3:19:43",
-    "url": "https://www.youtube.com/watch?v=F1_w2rz1nzU"
+    "duration_seconds": 11983,
+    "yt_id": "F1_w2rz1nzU",
+    "yt_url": "https://www.youtube.com/watch?v=F1_w2rz1nzU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 118,
     "id": "tRl0VQfW80k",
     "title": "Banning Boycotts, Shooter Searches, and Pantie Scrunchies, it's 9/11 NEWS",
-    "duration_seconds": 8787,
+    "date": "2025-09-11",
+    "raw_date": "20250911",
     "duration_str": "2:26:27",
-    "url": "https://www.youtube.com/watch?v=tRl0VQfW80k"
+    "duration_seconds": 8787,
+    "yt_id": "tRl0VQfW80k",
+    "yt_url": "https://www.youtube.com/watch?v=tRl0VQfW80k",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 119,
     "id": "HSrm1TmuL7c",
     "title": "More Public Murder, it's Wednesday News",
-    "duration_seconds": 7304,
+    "date": "2025-09-10",
+    "raw_date": "20250910",
     "duration_str": "2:01:44",
-    "url": "https://www.youtube.com/watch?v=HSrm1TmuL7c"
+    "duration_seconds": 7304,
+    "yt_id": "HSrm1TmuL7c",
+    "yt_url": "https://www.youtube.com/watch?v=HSrm1TmuL7c",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 120,
     "id": "Brt1etBYVyg",
     "title": "More Public Murder, it's Wednesday News",
-    "duration_seconds": 2375,
+    "date": "2025-09-10",
+    "raw_date": "20250910",
     "duration_str": "39:35",
-    "url": "https://www.youtube.com/watch?v=Brt1etBYVyg"
+    "duration_seconds": 2375,
+    "yt_id": "Brt1etBYVyg",
+    "yt_url": "https://www.youtube.com/watch?v=Brt1etBYVyg",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 121,
     "id": "oFPrJN6iGVE",
     "title": "Surrogate Slander, Pay Packages, and Free AI Luigis, it's NEWS supposedly",
-    "duration_seconds": 11105,
+    "date": "2025-09-05",
+    "raw_date": "20250905",
     "duration_str": "3:05:05",
-    "url": "https://www.youtube.com/watch?v=oFPrJN6iGVE"
+    "duration_seconds": 11105,
+    "yt_id": "oFPrJN6iGVE",
+    "yt_url": "https://www.youtube.com/watch?v=oFPrJN6iGVE",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 122,
     "id": "RX_K8dURYts",
     "title": "Extra Evil Ads, Immortal World Leaders, and other VERY COOL NEWS",
-    "duration_seconds": 10383,
+    "date": "2025-09-03",
+    "raw_date": "20250903",
     "duration_str": "2:53:03",
-    "url": "https://www.youtube.com/watch?v=RX_K8dURYts"
+    "duration_seconds": 10383,
+    "yt_id": "RX_K8dURYts",
+    "yt_url": "https://www.youtube.com/watch?v=RX_K8dURYts",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 123,
     "id": "JEtaFUnBQUM",
     "title": "Return the Newsosphere",
-    "duration_seconds": 10717,
+    "date": "2025-09-02",
+    "raw_date": "20250902",
     "duration_str": "2:58:37",
-    "url": "https://www.youtube.com/watch?v=JEtaFUnBQUM"
+    "duration_seconds": 10717,
+    "yt_id": "JEtaFUnBQUM",
+    "yt_url": "https://www.youtube.com/watch?v=JEtaFUnBQUM",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 124,
     "id": "T-JFE6q_RJM",
     "title": "Extra Guarded Monday News",
-    "duration_seconds": 7654,
+    "date": "2025-08-26",
+    "raw_date": "20250826",
     "duration_str": "2:07:34",
-    "url": "https://www.youtube.com/watch?v=T-JFE6q_RJM"
+    "duration_seconds": 7654,
+    "yt_id": "T-JFE6q_RJM",
+    "yt_url": "https://www.youtube.com/watch?v=T-JFE6q_RJM",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 125,
     "id": "lUV3sToI6Ts",
     "title": "Newsical Fridays",
-    "duration_seconds": 8673,
+    "date": "2025-08-23",
+    "raw_date": "20250823",
     "duration_str": "2:24:33",
-    "url": "https://www.youtube.com/watch?v=lUV3sToI6Ts"
+    "duration_seconds": 8673,
+    "yt_id": "lUV3sToI6Ts",
+    "yt_url": "https://www.youtube.com/watch?v=lUV3sToI6Ts",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 126,
     "id": "O_CiCowdnL8",
     "title": "What Happened Wednesday? aka NEWS",
-    "duration_seconds": 9110,
+    "date": "2025-08-21",
+    "raw_date": "20250821",
     "duration_str": "2:31:50",
-    "url": "https://www.youtube.com/watch?v=O_CiCowdnL8"
+    "duration_seconds": 9110,
+    "yt_id": "O_CiCowdnL8",
+    "yt_url": "https://www.youtube.com/watch?v=O_CiCowdnL8",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 127,
     "id": "seFq3PZAeSU",
     "title": "Friday News To Diplomacy To",
-    "duration_seconds": 9798,
+    "date": "2025-08-16",
+    "raw_date": "20250816",
     "duration_str": "2:43:18",
-    "url": "https://www.youtube.com/watch?v=seFq3PZAeSU"
+    "duration_seconds": 9798,
+    "yt_id": "seFq3PZAeSU",
+    "yt_url": "https://www.youtube.com/watch?v=seFq3PZAeSU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 128,
     "id": "03maVjRy6EE",
     "title": "Streamer Returns to Declare Unilateral Control Over News Station",
-    "duration_seconds": 8976,
+    "date": "2025-08-11",
+    "raw_date": "20250811",
     "duration_str": "2:29:36",
-    "url": "https://www.youtube.com/watch?v=03maVjRy6EE"
+    "duration_seconds": 8976,
+    "yt_id": "03maVjRy6EE",
+    "yt_url": "https://www.youtube.com/watch?v=03maVjRy6EE",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 129,
     "id": "2-r8wLGmPcM",
     "title": "Friday News Blast",
-    "duration_seconds": 9259,
+    "date": "2025-08-02",
+    "raw_date": "20250802",
     "duration_str": "2:34:19",
-    "url": "https://www.youtube.com/watch?v=2-r8wLGmPcM"
+    "duration_seconds": 9259,
+    "yt_id": "2-r8wLGmPcM",
+    "yt_url": "https://www.youtube.com/watch?v=2-r8wLGmPcM",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 130,
     "id": "9YN_I0kn2Kw",
     "title": "Friday News Blast",
-    "duration_seconds": 625,
+    "date": "2025-08-02",
+    "raw_date": "20250802",
     "duration_str": "10:25",
-    "url": "https://www.youtube.com/watch?v=9YN_I0kn2Kw"
+    "duration_seconds": 625,
+    "yt_id": "9YN_I0kn2Kw",
+    "yt_url": "https://www.youtube.com/watch?v=9YN_I0kn2Kw",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 131,
     "id": "ydUAWTVDd-Q",
     "title": "Stealing Employees and Other Excuses for Atrocities, it's NEWS",
-    "duration_seconds": 10912,
+    "date": "2025-07-30",
+    "raw_date": "20250730",
     "duration_str": "3:01:52",
-    "url": "https://www.youtube.com/watch?v=ydUAWTVDd-Q"
+    "duration_seconds": 10912,
+    "yt_id": "ydUAWTVDd-Q",
+    "yt_url": "https://www.youtube.com/watch?v=ydUAWTVDd-Q",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 132,
     "id": "rebvXtyjddU",
     "title": "Trade Deals and NEWS deals",
-    "duration_seconds": 5776,
+    "date": "2025-07-29",
+    "raw_date": "20250729",
     "duration_str": "1:36:16",
-    "url": "https://www.youtube.com/watch?v=rebvXtyjddU"
+    "duration_seconds": 5776,
+    "yt_id": "rebvXtyjddU",
+    "yt_url": "https://www.youtube.com/watch?v=rebvXtyjddU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 133,
     "id": "xrehBtgAXKQ",
     "title": "Big Time Birthday Boys and Their Special Letters, it's NEWS",
-    "duration_seconds": 8727,
+    "date": "2025-07-26",
+    "raw_date": "20250726",
     "duration_str": "2:25:27",
-    "url": "https://www.youtube.com/watch?v=xrehBtgAXKQ"
+    "duration_seconds": 8727,
+    "yt_id": "xrehBtgAXKQ",
+    "yt_url": "https://www.youtube.com/watch?v=xrehBtgAXKQ",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 134,
     "id": "kJeIy_NAPyY",
     "title": "Quick Stream Before Patreon",
-    "duration_seconds": 3519,
+    "date": "2025-07-25",
+    "raw_date": "20250725",
     "duration_str": "58:39",
-    "url": "https://www.youtube.com/watch?v=kJeIy_NAPyY"
+    "duration_seconds": 3519,
+    "yt_id": "kJeIy_NAPyY",
+    "yt_url": "https://www.youtube.com/watch?v=kJeIy_NAPyY",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 135,
     "id": "yhUQMRD9TBk",
     "title": "Pedophiles, Starvation, and Hunter Biden, Possibly Not in That Order, it's Unfortunately News",
-    "duration_seconds": 10808,
+    "date": "2025-07-24",
+    "raw_date": "20250724",
     "duration_str": "3:00:08",
-    "url": "https://www.youtube.com/watch?v=yhUQMRD9TBk"
+    "duration_seconds": 10808,
+    "yt_id": "yhUQMRD9TBk",
+    "yt_url": "https://www.youtube.com/watch?v=yhUQMRD9TBk",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 136,
     "id": "IrBASIY-1z8",
     "title": "Fast and Late Friday News",
-    "duration_seconds": 10230,
+    "date": "2025-07-19",
+    "raw_date": "20250719",
     "duration_str": "2:50:30",
-    "url": "https://www.youtube.com/watch?v=IrBASIY-1z8"
+    "duration_seconds": 10230,
+    "yt_id": "IrBASIY-1z8",
+    "yt_url": "https://www.youtube.com/watch?v=IrBASIY-1z8",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 137,
     "id": "uwiOWIwdchc",
     "title": "Quick Stream Before Patreon",
-    "duration_seconds": 2658,
+    "date": "2025-07-18",
+    "raw_date": "20250718",
     "duration_str": "44:18",
-    "url": "https://www.youtube.com/watch?v=uwiOWIwdchc"
+    "duration_seconds": 2658,
+    "yt_id": "uwiOWIwdchc",
+    "yt_url": "https://www.youtube.com/watch?v=uwiOWIwdchc",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 138,
     "id": "qR-l_kVaKE4",
     "title": "Quick Stream Before Patreon",
-    "duration_seconds": 1184,
+    "date": "2025-07-17",
+    "raw_date": "20250717",
     "duration_str": "19:44",
-    "url": "https://www.youtube.com/watch?v=qR-l_kVaKE4"
+    "duration_seconds": 1184,
+    "yt_id": "qR-l_kVaKE4",
+    "yt_url": "https://www.youtube.com/watch?v=qR-l_kVaKE4",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 139,
     "id": "ZUYyMjg_NiM",
     "title": "Monday Icey Summer News",
-    "duration_seconds": 6754,
+    "date": "2025-07-15",
+    "raw_date": "20250715",
     "duration_str": "1:52:34",
-    "url": "https://www.youtube.com/watch?v=ZUYyMjg_NiM"
+    "duration_seconds": 6754,
+    "yt_id": "ZUYyMjg_NiM",
+    "yt_url": "https://www.youtube.com/watch?v=ZUYyMjg_NiM",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 140,
     "id": "Ebd0mok8B9w",
     "title": "Quick, Late and Dirty Friday Newsday",
-    "duration_seconds": 8538,
+    "date": "2025-07-12",
+    "raw_date": "20250712",
     "duration_str": "2:22:18",
-    "url": "https://www.youtube.com/watch?v=Ebd0mok8B9w"
+    "duration_seconds": 8538,
+    "yt_id": "Ebd0mok8B9w",
+    "yt_url": "https://www.youtube.com/watch?v=Ebd0mok8B9w",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 141,
     "id": "5o-c316Qmww",
     "title": "Back From the Wet Hot American Party, Time to NEWS",
-    "duration_seconds": 9985,
+    "date": "2025-07-10",
+    "raw_date": "20250710",
     "duration_str": "2:46:25",
-    "url": "https://www.youtube.com/watch?v=5o-c316Qmww"
+    "duration_seconds": 9985,
+    "yt_id": "5o-c316Qmww",
+    "yt_url": "https://www.youtube.com/watch?v=5o-c316Qmww",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 142,
     "id": "ERveBURDEZ4",
     "title": "Big Beautiful Monday News",
-    "duration_seconds": 11254,
+    "date": "2025-07-01",
+    "raw_date": "20250701",
     "duration_str": "3:07:34",
-    "url": "https://www.youtube.com/watch?v=ERveBURDEZ4"
+    "duration_seconds": 11254,
+    "yt_id": "ERveBURDEZ4",
+    "yt_url": "https://www.youtube.com/watch?v=ERveBURDEZ4",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 143,
     "id": "_nvoKaHtAIU",
     "title": "Friday Newsday Plus Potential Musical Punishment",
-    "duration_seconds": 9278,
+    "date": "2025-06-28",
+    "raw_date": "20250628",
     "duration_str": "2:34:38",
-    "url": "https://www.youtube.com/watch?v=_nvoKaHtAIU"
+    "duration_seconds": 9278,
+    "yt_id": "_nvoKaHtAIU",
+    "yt_url": "https://www.youtube.com/watch?v=_nvoKaHtAIU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 144,
     "id": "THyUgAlEzW8",
     "title": "Friday Newsday Plus Potential Musical Punishment",
-    "duration_seconds": 311,
+    "date": "2025-06-28",
+    "raw_date": "20250628",
     "duration_str": "5:11",
-    "url": "https://www.youtube.com/watch?v=THyUgAlEzW8"
+    "duration_seconds": 311,
+    "yt_id": "THyUgAlEzW8",
+    "yt_url": "https://www.youtube.com/watch?v=THyUgAlEzW8",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 145,
     "id": "EEqkSi6ddaI",
     "title": "Friday Newsday Plus Potential Musical Punishment",
-    "duration_seconds": 931,
+    "date": "2025-06-28",
+    "raw_date": "20250628",
     "duration_str": "15:31",
-    "url": "https://www.youtube.com/watch?v=EEqkSi6ddaI"
+    "duration_seconds": 931,
+    "yt_id": "EEqkSi6ddaI",
+    "yt_url": "https://www.youtube.com/watch?v=EEqkSi6ddaI",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 146,
     "id": "MV6eB9De3Q8",
     "title": "Positive Political News? Enjoyable Panic? Could it actually be NEWS?",
-    "duration_seconds": 8259,
+    "date": "2025-06-26",
+    "raw_date": "20250626",
     "duration_str": "2:17:39",
-    "url": "https://www.youtube.com/watch?v=MV6eB9De3Q8"
+    "duration_seconds": 8259,
+    "yt_id": "MV6eB9De3Q8",
+    "yt_url": "https://www.youtube.com/watch?v=MV6eB9De3Q8",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 147,
     "id": "BQ8yOTL7uU8",
     "title": "Ceaseless Newsing",
-    "duration_seconds": 11575,
+    "date": "2025-06-24",
+    "raw_date": "20250624",
     "duration_str": "3:12:55",
-    "url": "https://www.youtube.com/watch?v=BQ8yOTL7uU8"
+    "duration_seconds": 11575,
+    "yt_id": "BQ8yOTL7uU8",
+    "yt_url": "https://www.youtube.com/watch?v=BQ8yOTL7uU8",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 148,
     "id": "-DKnhDrOWFQ",
     "title": "What Some Call News, and Ever Fewer Call Music, it's FRIDAY NEWS",
-    "duration_seconds": 6093,
+    "date": "2025-06-20",
+    "raw_date": "20250620",
     "duration_str": "1:41:33",
-    "url": "https://www.youtube.com/watch?v=-DKnhDrOWFQ"
+    "duration_seconds": 6093,
+    "yt_id": "-DKnhDrOWFQ",
+    "yt_url": "https://www.youtube.com/watch?v=-DKnhDrOWFQ",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 149,
     "id": "4x739N7tVeE",
     "title": "Quick Pre-Patron, Post Crumsplosion Stream",
-    "duration_seconds": 4881,
+    "date": "2025-06-19",
+    "raw_date": "20250619",
     "duration_str": "1:21:21",
-    "url": "https://www.youtube.com/watch?v=4x739N7tVeE"
+    "duration_seconds": 4881,
+    "yt_id": "4x739N7tVeE",
+    "yt_url": "https://www.youtube.com/watch?v=4x739N7tVeE",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 150,
     "id": "SmtzHJfYna0",
     "title": "Quick News and Crum Punch",
-    "duration_seconds": 7083,
+    "date": "2025-06-17",
+    "raw_date": "20250617",
     "duration_str": "1:58:03",
-    "url": "https://www.youtube.com/watch?v=SmtzHJfYna0"
+    "duration_seconds": 7083,
+    "yt_id": "SmtzHJfYna0",
+    "yt_url": "https://www.youtube.com/watch?v=SmtzHJfYna0",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 151,
     "id": "uTS9xVOj5gQ",
     "title": "Kendelle's B-Day, Hopefully No WWIII Day, it's NEWS",
-    "duration_seconds": 4790,
+    "date": "2025-06-17",
+    "raw_date": "20250617",
     "duration_str": "1:19:50",
-    "url": "https://www.youtube.com/watch?v=uTS9xVOj5gQ"
+    "duration_seconds": 4790,
+    "yt_id": "uTS9xVOj5gQ",
+    "yt_url": "https://www.youtube.com/watch?v=uTS9xVOj5gQ",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 152,
     "id": "S_KvZRUJpIw",
     "title": "Non Alarming Apocalyptic NEWS (plus music maybe)",
-    "duration_seconds": 10238,
+    "date": "2025-06-13",
+    "raw_date": "20250613",
     "duration_str": "2:50:38",
-    "url": "https://www.youtube.com/watch?v=S_KvZRUJpIw"
+    "duration_seconds": 10238,
+    "yt_id": "S_KvZRUJpIw",
+    "yt_url": "https://www.youtube.com/watch?v=S_KvZRUJpIw",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 153,
     "id": "3hRyg_SPR8o",
     "title": "One Year Older, Possibly 24 Hours Wiser, it's NEWS",
-    "duration_seconds": 13258,
+    "date": "2025-06-11",
+    "raw_date": "20250611",
     "duration_str": "3:40:58",
-    "url": "https://www.youtube.com/watch?v=3hRyg_SPR8o"
+    "duration_seconds": 13258,
+    "yt_id": "3hRyg_SPR8o",
+    "yt_url": "https://www.youtube.com/watch?v=3hRyg_SPR8o",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 154,
     "id": "QxjjWzyqJ-c",
     "title": "Protests, Float Interceptions, Warner Undiscovers, it's NEWS they say",
-    "duration_seconds": 8069,
+    "date": "2025-06-09",
+    "raw_date": "20250609",
     "duration_str": "2:14:29",
-    "url": "https://www.youtube.com/watch?v=QxjjWzyqJ-c"
+    "duration_seconds": 8069,
+    "yt_id": "QxjjWzyqJ-c",
+    "yt_url": "https://www.youtube.com/watch?v=QxjjWzyqJ-c",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 155,
     "id": "b9tvtwX2zQA",
     "title": "This Week's Fight of the Century, it's BATTLE NEWS (plus music?)",
-    "duration_seconds": 13008,
+    "date": "2025-06-07",
+    "raw_date": "20250607",
     "duration_str": "3:36:48",
-    "url": "https://www.youtube.com/watch?v=b9tvtwX2zQA"
+    "duration_seconds": 13008,
+    "yt_id": "b9tvtwX2zQA",
+    "yt_url": "https://www.youtube.com/watch?v=b9tvtwX2zQA",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 156,
     "id": "dEw-PVo3KCY",
     "title": "Penile Correction Newsery",
-    "duration_seconds": 10870,
+    "date": "2025-06-05",
+    "raw_date": "20250605",
     "duration_str": "3:01:10",
-    "url": "https://www.youtube.com/watch?v=dEw-PVo3KCY"
+    "duration_seconds": 10870,
+    "yt_id": "dEw-PVo3KCY",
+    "yt_url": "https://www.youtube.com/watch?v=dEw-PVo3KCY",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 157,
     "id": "gnN-yI8Xmdw",
     "title": "Musk of Failure, Toilet Snakes, and Music Maybe, it's NEWS",
-    "duration_seconds": 10452,
+    "date": "2025-06-02",
+    "raw_date": "20250602",
     "duration_str": "2:54:12",
-    "url": "https://www.youtube.com/watch?v=gnN-yI8Xmdw"
+    "duration_seconds": 10452,
+    "yt_id": "gnN-yI8Xmdw",
+    "yt_url": "https://www.youtube.com/watch?v=gnN-yI8Xmdw",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 158,
     "id": "QRN1ZIHDHG8",
     "title": "Musk of Failure, Toilet Snakes, and Music Maybe, it's NEWS",
-    "duration_seconds": 5903,
+    "date": "2025-05-30",
+    "raw_date": "20250530",
     "duration_str": "1:38:23",
-    "url": "https://www.youtube.com/watch?v=QRN1ZIHDHG8"
+    "duration_seconds": 5903,
+    "yt_id": "QRN1ZIHDHG8",
+    "yt_url": "https://www.youtube.com/watch?v=QRN1ZIHDHG8",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 159,
     "id": "dlDe0AFVrRk",
     "title": "Quick Stream Before Patreon",
-    "duration_seconds": 2723,
+    "date": "2025-05-30",
+    "raw_date": "20250530",
     "duration_str": "45:23",
-    "url": "https://www.youtube.com/watch?v=dlDe0AFVrRk"
+    "duration_seconds": 2723,
+    "yt_id": "dlDe0AFVrRk",
+    "yt_url": "https://www.youtube.com/watch?v=dlDe0AFVrRk",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 160,
     "id": "UHazmiRCsHw",
     "title": "Hamtaro Time (news?)",
-    "duration_seconds": 5102,
+    "date": "2025-05-28",
+    "raw_date": "20250528",
     "duration_str": "1:25:02",
-    "url": "https://www.youtube.com/watch?v=UHazmiRCsHw"
+    "duration_seconds": 5102,
+    "yt_id": "UHazmiRCsHw",
+    "yt_url": "https://www.youtube.com/watch?v=UHazmiRCsHw",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 161,
     "id": "PgQGBcnufzo",
     "title": "Hamtaro Time (news?)",
-    "duration_seconds": 400,
+    "date": "2025-05-28",
+    "raw_date": "20250528",
     "duration_str": "6:40",
-    "url": "https://www.youtube.com/watch?v=PgQGBcnufzo"
+    "duration_seconds": 400,
+    "yt_id": "PgQGBcnufzo",
+    "yt_url": "https://www.youtube.com/watch?v=PgQGBcnufzo",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 162,
     "id": "kmm6ANnhWcQ",
     "title": "Hamtaro Time (news?)",
-    "duration_seconds": 4913,
+    "date": "2025-05-27",
+    "raw_date": "20250527",
     "duration_str": "1:21:53",
-    "url": "https://www.youtube.com/watch?v=kmm6ANnhWcQ"
+    "duration_seconds": 4913,
+    "yt_id": "kmm6ANnhWcQ",
+    "yt_url": "https://www.youtube.com/watch?v=kmm6ANnhWcQ",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 163,
     "id": "VrnjwHYHoLM",
     "title": "Fed Judge Blocks, AI Slop, the NEWS can't stop",
-    "duration_seconds": 11417,
+    "date": "2025-05-23",
+    "raw_date": "20250523",
     "duration_str": "3:10:17",
-    "url": "https://www.youtube.com/watch?v=VrnjwHYHoLM"
+    "duration_seconds": 11417,
+    "yt_id": "VrnjwHYHoLM",
+    "yt_url": "https://www.youtube.com/watch?v=VrnjwHYHoLM",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 164,
     "id": "2LIWdYTSlAQ",
     "title": "Habeus Corpsing the NEWS",
-    "duration_seconds": 10921,
+    "date": "2025-05-21",
+    "raw_date": "20250521",
     "duration_str": "3:02:01",
-    "url": "https://www.youtube.com/watch?v=2LIWdYTSlAQ"
+    "duration_seconds": 10921,
+    "yt_id": "2LIWdYTSlAQ",
+    "yt_url": "https://www.youtube.com/watch?v=2LIWdYTSlAQ",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 165,
     "id": "jrkCVNxKeaE",
     "title": "Bad Credit? No Problem! Apply for $Free$ NEWS today",
-    "duration_seconds": 11988,
+    "date": "2025-05-17",
+    "raw_date": "20250517",
     "duration_str": "3:19:48",
-    "url": "https://www.youtube.com/watch?v=jrkCVNxKeaE"
+    "duration_seconds": 11988,
+    "yt_id": "jrkCVNxKeaE",
+    "yt_url": "https://www.youtube.com/watch?v=jrkCVNxKeaE",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 166,
     "id": "Di1lVisrU3Y",
     "title": "Trump Around The World, Biden Burns, Chimp Cleaning, it's all the NEWS",
-    "duration_seconds": 9067,
+    "date": "2025-05-14",
+    "raw_date": "20250514",
     "duration_str": "2:31:07",
-    "url": "https://www.youtube.com/watch?v=Di1lVisrU3Y"
+    "duration_seconds": 9067,
+    "yt_id": "Di1lVisrU3Y",
+    "yt_url": "https://www.youtube.com/watch?v=Di1lVisrU3Y",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 167,
     "id": "bAqOv1foQDY",
     "title": "Tariff Wah? Diddy Trials and Other Sewage Water, it's NEWS",
-    "duration_seconds": 8812,
+    "date": "2025-05-13",
+    "raw_date": "20250513",
     "duration_str": "2:26:52",
-    "url": "https://www.youtube.com/watch?v=bAqOv1foQDY"
+    "duration_seconds": 8812,
+    "yt_id": "bAqOv1foQDY",
+    "yt_url": "https://www.youtube.com/watch?v=bAqOv1foQDY",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 168,
     "id": "F6s9T-XdRCI",
     "title": "The Papal Binclave",
-    "duration_seconds": 4644,
+    "date": "2025-05-08",
+    "raw_date": "20250508",
     "duration_str": "1:17:24",
-    "url": "https://www.youtube.com/watch?v=F6s9T-XdRCI"
+    "duration_seconds": 4644,
+    "yt_id": "F6s9T-XdRCI",
+    "yt_url": "https://www.youtube.com/watch?v=F6s9T-XdRCI",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 169,
     "id": "Pq0dGk5M91U",
     "title": "Budgets, Screwworms, and Various People Yelling Things that are NEWS",
-    "duration_seconds": 9785,
+    "date": "2025-05-05",
+    "raw_date": "20250505",
     "duration_str": "2:43:05",
-    "url": "https://www.youtube.com/watch?v=Pq0dGk5M91U"
+    "duration_seconds": 9785,
+    "yt_id": "Pq0dGk5M91U",
+    "yt_url": "https://www.youtube.com/watch?v=Pq0dGk5M91U",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 170,
     "id": "anGKbHGedtI",
     "title": "Budgets, Screwworms, and Various People Yelling Things that are NEWS",
-    "duration_seconds": 4081,
+    "date": "2025-05-03",
+    "raw_date": "20250503",
     "duration_str": "1:08:01",
-    "url": "https://www.youtube.com/watch?v=anGKbHGedtI"
+    "duration_seconds": 4081,
+    "yt_id": "anGKbHGedtI",
+    "yt_url": "https://www.youtube.com/watch?v=anGKbHGedtI",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 171,
     "id": "VCjlD1mTzn4",
     "title": "Budgets, Screwworms, and Various People Yelling Things that are NEWS",
-    "duration_seconds": 12254,
+    "date": "2025-05-02",
+    "raw_date": "20250502",
     "duration_str": "3:24:14",
-    "url": "https://www.youtube.com/watch?v=VCjlD1mTzn4"
+    "duration_seconds": 12254,
+    "yt_id": "VCjlD1mTzn4",
+    "yt_url": "https://www.youtube.com/watch?v=VCjlD1mTzn4",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 172,
     "id": "E9P4PugF1yo",
     "title": "Taking Minerals, Shrinking GPDs, plus Literal Fart Walks, could it be NEWS?",
-    "duration_seconds": 7179,
+    "date": "2025-05-01",
+    "raw_date": "20250501",
     "duration_str": "1:59:39",
-    "url": "https://www.youtube.com/watch?v=E9P4PugF1yo"
+    "duration_seconds": 7179,
+    "yt_id": "E9P4PugF1yo",
+    "yt_url": "https://www.youtube.com/watch?v=E9P4PugF1yo",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 173,
     "id": "DoZg3h2hh0A",
     "title": "Judge Judgement, Cowering to Foreign Powers, Sperm Race Previews, things that some call NEWS",
-    "duration_seconds": 9675,
+    "date": "2025-04-25",
+    "raw_date": "20250425",
     "duration_str": "2:41:15",
-    "url": "https://www.youtube.com/watch?v=DoZg3h2hh0A"
+    "duration_seconds": 9675,
+    "yt_id": "DoZg3h2hh0A",
+    "yt_url": "https://www.youtube.com/watch?v=DoZg3h2hh0A",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 174,
     "id": "xnDll_axGTU",
     "title": "Losing Some Musk, Losing Some Rights, Gaining Sperm Races, it's N E W S",
-    "duration_seconds": 8443,
+    "date": "2025-04-23",
+    "raw_date": "20250423",
     "duration_str": "2:20:43",
-    "url": "https://www.youtube.com/watch?v=xnDll_axGTU"
+    "duration_seconds": 8443,
+    "yt_id": "xnDll_axGTU",
+    "yt_url": "https://www.youtube.com/watch?v=xnDll_axGTU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 175,
     "id": "DECkFwVVSYo",
     "title": "Immigration Contempt, Doppelganger Fails, and Various Types of Grappling, it's NEWSish",
-    "duration_seconds": 9950,
+    "date": "2025-04-18",
+    "raw_date": "20250418",
     "duration_str": "2:45:50",
-    "url": "https://www.youtube.com/watch?v=DECkFwVVSYo"
+    "duration_seconds": 9950,
+    "yt_id": "DECkFwVVSYo",
+    "yt_url": "https://www.youtube.com/watch?v=DECkFwVVSYo",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 176,
     "id": "yogcHKthSsY",
     "title": "Toilet News, from Deportations to Eggs",
-    "duration_seconds": 8951,
+    "date": "2025-04-14",
+    "raw_date": "20250414",
     "duration_str": "2:29:11",
-    "url": "https://www.youtube.com/watch?v=yogcHKthSsY"
+    "duration_seconds": 8951,
+    "yt_id": "yogcHKthSsY",
+    "yt_url": "https://www.youtube.com/watch?v=yogcHKthSsY",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 177,
     "id": "ISNv40CD_1Q",
     "title": "Deportation Nation, Herpes Gum, and Returning Dogs, it's (N)EWS",
-    "duration_seconds": 9301,
+    "date": "2025-04-11",
+    "raw_date": "20250411",
     "duration_str": "2:35:01",
-    "url": "https://www.youtube.com/watch?v=ISNv40CD_1Q"
+    "duration_seconds": 9301,
+    "yt_id": "ISNv40CD_1Q",
+    "yt_url": "https://www.youtube.com/watch?v=ISNv40CD_1Q",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 178,
     "id": "8io2lO8FXpE",
     "title": "Normal News for the Normal World",
-    "duration_seconds": 10122,
+    "date": "2025-04-10",
+    "raw_date": "20250410",
     "duration_str": "2:48:42",
-    "url": "https://www.youtube.com/watch?v=8io2lO8FXpE"
+    "duration_seconds": 10122,
+    "yt_id": "8io2lO8FXpE",
+    "yt_url": "https://www.youtube.com/watch?v=8io2lO8FXpE",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 179,
     "id": "Renj5SaVQLY",
     "title": "Repo Madness",
-    "duration_seconds": 12431,
+    "date": "2025-04-05",
+    "raw_date": "20250405",
     "duration_str": "3:27:11",
-    "url": "https://www.youtube.com/watch?v=Renj5SaVQLY"
+    "duration_seconds": 12431,
+    "yt_id": "Renj5SaVQLY",
+    "yt_url": "https://www.youtube.com/watch?v=Renj5SaVQLY",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 180,
     "id": "2Db6vKJxZTk",
     "title": "A Fully Liberated Decline",
-    "duration_seconds": 9786,
+    "date": "2025-04-04",
+    "raw_date": "20250404",
     "duration_str": "2:43:06",
-    "url": "https://www.youtube.com/watch?v=2Db6vKJxZTk"
+    "duration_seconds": 9786,
+    "yt_id": "2Db6vKJxZTk",
+    "yt_url": "https://www.youtube.com/watch?v=2Db6vKJxZTk",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 181,
     "id": "sN3u0466Bdc",
     "title": "REPO Mens 2",
-    "duration_seconds": 13690,
+    "date": "2025-04-03",
+    "raw_date": "20250403",
     "duration_str": "3:48:10",
-    "url": "https://www.youtube.com/watch?v=sN3u0466Bdc"
+    "duration_seconds": 13690,
+    "yt_id": "sN3u0466Bdc",
+    "yt_url": "https://www.youtube.com/watch?v=sN3u0466Bdc",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 182,
     "id": "rqFZIgRPgf8",
     "title": "The News Icestravaganza!",
-    "duration_seconds": 12381,
+    "date": "2025-03-31",
+    "raw_date": "20250331",
     "duration_str": "3:26:21",
-    "url": "https://www.youtube.com/watch?v=rqFZIgRPgf8"
+    "duration_seconds": 12381,
+    "yt_id": "rqFZIgRPgf8",
+    "yt_url": "https://www.youtube.com/watch?v=rqFZIgRPgf8",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 183,
     "id": "K_qU8KQ5I3A",
     "title": "Leaks, Election \"Tweaks,\" and Various Freaks, it's NEWS maybe",
-    "duration_seconds": 10192,
+    "date": "2025-03-29",
+    "raw_date": "20250329",
     "duration_str": "2:49:52",
-    "url": "https://www.youtube.com/watch?v=K_qU8KQ5I3A"
+    "duration_seconds": 10192,
+    "yt_id": "K_qU8KQ5I3A",
+    "yt_url": "https://www.youtube.com/watch?v=K_qU8KQ5I3A",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 184,
     "id": "LqDgG6GX8y8",
     "title": "Leaks, Election \"Tweaks,\" and Various Freaks, it's NEWS maybe",
-    "duration_seconds": 13694,
+    "date": "2025-03-27",
+    "raw_date": "20250327",
     "duration_str": "3:48:14",
-    "url": "https://www.youtube.com/watch?v=LqDgG6GX8y8"
+    "duration_seconds": 13694,
+    "yt_id": "LqDgG6GX8y8",
+    "yt_url": "https://www.youtube.com/watch?v=LqDgG6GX8y8",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 185,
     "id": "soY-oCZN8NY",
     "title": "Leaks, Election \"Tweaks,\" and Various Freaks, it's NEWS maybe",
-    "duration_seconds": 9738,
+    "date": "2025-03-25",
+    "raw_date": "20250325",
     "duration_str": "2:42:18",
-    "url": "https://www.youtube.com/watch?v=soY-oCZN8NY"
+    "duration_seconds": 9738,
+    "yt_id": "soY-oCZN8NY",
+    "yt_url": "https://www.youtube.com/watch?v=soY-oCZN8NY",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 186,
     "id": "XLwB0_H9UjI",
     "title": "Columbia Caves, Deportation Details, Black Hole Everything? or NEWS everything",
-    "duration_seconds": 8187,
+    "date": "2025-03-21",
+    "raw_date": "20250321",
     "duration_str": "2:16:27",
-    "url": "https://www.youtube.com/watch?v=XLwB0_H9UjI"
+    "duration_seconds": 8187,
+    "yt_id": "XLwB0_H9UjI",
+    "yt_url": "https://www.youtube.com/watch?v=XLwB0_H9UjI",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 187,
     "id": "HEmYnIbwQRk",
     "title": "Unceased Fire, JFKs New Hit Recods, And Various Other NEWS Disasters",
-    "duration_seconds": 8444,
+    "date": "2025-03-19",
+    "raw_date": "20250319",
     "duration_str": "2:20:44",
-    "url": "https://www.youtube.com/watch?v=HEmYnIbwQRk"
+    "duration_seconds": 8444,
+    "yt_id": "HEmYnIbwQRk",
+    "yt_url": "https://www.youtube.com/watch?v=HEmYnIbwQRk",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 188,
     "id": "xcrzwZZVnhQ",
     "title": "Rights? Where We're Going We Don't Need Rights. It's Back to the NEWS",
-    "duration_seconds": 7880,
+    "date": "2025-03-17",
+    "raw_date": "20250317",
     "duration_str": "2:11:20",
-    "url": "https://www.youtube.com/watch?v=xcrzwZZVnhQ"
+    "duration_seconds": 7880,
+    "yt_id": "xcrzwZZVnhQ",
+    "yt_url": "https://www.youtube.com/watch?v=xcrzwZZVnhQ",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 189,
     "id": "0wPpJKn5-yI",
     "title": "Government Backed Crypto and AI Slop, Solid Light, Hackman Details, it's NEWS(lop)",
-    "duration_seconds": 10146,
+    "date": "2025-03-07",
+    "raw_date": "20250307",
     "duration_str": "2:49:06",
-    "url": "https://www.youtube.com/watch?v=0wPpJKn5-yI"
+    "duration_seconds": 10146,
+    "yt_id": "0wPpJKn5-yI",
+    "yt_url": "https://www.youtube.com/watch?v=0wPpJKn5-yI",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 190,
     "id": "ZUFPFKnF1zU",
     "title": "Oscars, Trump Backlash, and Streamer Problems, it's supposedly NEWS",
-    "duration_seconds": 10039,
+    "date": "2025-03-04",
+    "raw_date": "20250304",
     "duration_str": "2:47:19",
-    "url": "https://www.youtube.com/watch?v=ZUFPFKnF1zU"
+    "duration_seconds": 10039,
+    "yt_id": "ZUFPFKnF1zU",
+    "yt_url": "https://www.youtube.com/watch?v=ZUFPFKnF1zU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 191,
     "id": "KEDgSMAYkXE",
     "title": "Mass BIN Staff Layoffs, Any News Happen While I Was Sick?",
-    "duration_seconds": 7196,
+    "date": "2025-02-28",
+    "raw_date": "20250228",
     "duration_str": "1:59:56",
-    "url": "https://www.youtube.com/watch?v=KEDgSMAYkXE"
+    "duration_seconds": 7196,
+    "yt_id": "KEDgSMAYkXE",
+    "yt_url": "https://www.youtube.com/watch?v=KEDgSMAYkXE",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 192,
     "id": "PsP5ot46kys",
     "title": "Mass BIN Staff Layoffs, Any News Happen While I Was Sick?",
-    "duration_seconds": 8566,
+    "date": "2025-02-25",
+    "raw_date": "20250225",
     "duration_str": "2:22:46",
-    "url": "https://www.youtube.com/watch?v=PsP5ot46kys"
+    "duration_seconds": 8566,
+    "yt_id": "PsP5ot46kys",
+    "yt_url": "https://www.youtube.com/watch?v=PsP5ot46kys",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 193,
     "id": "1AADn1SpecU",
     "title": "Quick Friday Non-Kendelle Graphics News Stream",
-    "duration_seconds": 9149,
+    "date": "2025-02-14",
+    "raw_date": "20250214",
     "duration_str": "2:32:29",
-    "url": "https://www.youtube.com/watch?v=1AADn1SpecU"
+    "duration_seconds": 9149,
+    "yt_id": "1AADn1SpecU",
+    "yt_url": "https://www.youtube.com/watch?v=1AADn1SpecU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 194,
     "id": "vIRfqNitGk0",
     "title": "Small Government Run by Large Babies, T-Shirt Site Down, and Pizza Perfume, it could be NEWS",
-    "duration_seconds": 721,
+    "date": "2025-02-14",
+    "raw_date": "20250214",
     "duration_str": "12:01",
-    "url": "https://www.youtube.com/watch?v=vIRfqNitGk0"
+    "duration_seconds": 721,
+    "yt_id": "vIRfqNitGk0",
+    "yt_url": "https://www.youtube.com/watch?v=vIRfqNitGk0",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 195,
     "id": "zfeR83pG4xg",
     "title": "Small Government Run by Large Babies, T-Shirt Site Down, and Pizza Perfume, it could be NEWS",
-    "duration_seconds": 8241,
+    "date": "2025-02-12",
+    "raw_date": "20250212",
     "duration_str": "2:17:21",
-    "url": "https://www.youtube.com/watch?v=zfeR83pG4xg"
+    "duration_seconds": 8241,
+    "yt_id": "zfeR83pG4xg",
+    "yt_url": "https://www.youtube.com/watch?v=zfeR83pG4xg",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 196,
     "id": "fZjhnGq43xA",
     "title": "Government Block Off, Elon Harem, and Other Wank Motion NEWS",
-    "duration_seconds": 10279,
+    "date": "2025-02-08",
+    "raw_date": "20250208",
     "duration_str": "2:51:19",
-    "url": "https://www.youtube.com/watch?v=fZjhnGq43xA"
+    "duration_seconds": 10279,
+    "yt_id": "fZjhnGq43xA",
+    "yt_url": "https://www.youtube.com/watch?v=fZjhnGq43xA",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 197,
     "id": "qDTjG6E4kjs",
     "title": "Trump Atrocities, AI Trash, and more things that are Bnd so they're NEWS",
-    "duration_seconds": 5295,
+    "date": "2025-02-06",
+    "raw_date": "20250206",
     "duration_str": "1:28:15",
-    "url": "https://www.youtube.com/watch?v=qDTjG6E4kjs"
+    "duration_seconds": 5295,
+    "yt_id": "qDTjG6E4kjs",
+    "yt_url": "https://www.youtube.com/watch?v=qDTjG6E4kjs",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 198,
     "id": "KQgNM3Uwe_U",
     "title": "Tariff Delays, Nudity Now, Deep Researching the NEWS",
-    "duration_seconds": 7736,
+    "date": "2025-02-03",
+    "raw_date": "20250203",
     "duration_str": "2:08:56",
-    "url": "https://www.youtube.com/watch?v=KQgNM3Uwe_U"
+    "duration_seconds": 7736,
+    "yt_id": "KQgNM3Uwe_U",
+    "yt_url": "https://www.youtube.com/watch?v=KQgNM3Uwe_U",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 199,
     "id": "LDyh9LWX4M8",
     "title": "Bubble Trent",
-    "duration_seconds": 9465,
+    "date": "2025-02-01",
+    "raw_date": "20250201",
     "duration_str": "2:37:45",
-    "url": "https://www.youtube.com/watch?v=LDyh9LWX4M8"
+    "duration_seconds": 9465,
+    "yt_id": "LDyh9LWX4M8",
+    "yt_url": "https://www.youtube.com/watch?v=LDyh9LWX4M8",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 200,
     "id": "x1qwIP-JW14",
     "title": "Air Disasters Now \"Woke,\" Health Now Bad, And Robots Now Running Marathons, it's news so it's BAD",
-    "duration_seconds": 13183,
+    "date": "2025-01-31",
+    "raw_date": "20250131",
     "duration_str": "3:39:43",
-    "url": "https://www.youtube.com/watch?v=x1qwIP-JW14"
+    "duration_seconds": 13183,
+    "yt_id": "x1qwIP-JW14",
+    "yt_url": "https://www.youtube.com/watch?v=x1qwIP-JW14",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 201,
     "id": "dC3wSFhKDlo",
     "title": "Working Dogs, Less Working Government, And Butt News, it's INFO that's NEWS",
-    "duration_seconds": 9585,
+    "date": "2025-01-29",
+    "raw_date": "20250129",
     "duration_str": "2:39:45",
-    "url": "https://www.youtube.com/watch?v=dC3wSFhKDlo"
+    "duration_seconds": 9585,
+    "yt_id": "dC3wSFhKDlo",
+    "yt_url": "https://www.youtube.com/watch?v=dC3wSFhKDlo",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 202,
     "id": "oesp62SYzbk",
     "title": "Deepseeking a friend, Cabinet Confirmation Bias, Future Dicks, wat is a news?",
-    "duration_seconds": 11031,
+    "date": "2025-01-27",
+    "raw_date": "20250127",
     "duration_str": "3:03:51",
-    "url": "https://www.youtube.com/watch?v=oesp62SYzbk"
+    "duration_seconds": 11031,
+    "yt_id": "oesp62SYzbk",
+    "yt_url": "https://www.youtube.com/watch?v=oesp62SYzbk",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 203,
     "id": "LoXdofDrxCg",
     "title": "Stargate SG5 Billion, Musky Week, Johnson Watch, it's NEWS (maybe)",
-    "duration_seconds": 10987,
+    "date": "2025-01-24",
+    "raw_date": "20250124",
     "duration_str": "3:03:07",
-    "url": "https://www.youtube.com/watch?v=LoXdofDrxCg"
+    "duration_seconds": 10987,
+    "yt_id": "LoXdofDrxCg",
+    "yt_url": "https://www.youtube.com/watch?v=LoXdofDrxCg",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 204,
     "id": "T3RADQKZmmM",
     "title": "News by Executive Order",
-    "duration_seconds": 9377,
+    "date": "2025-01-22",
+    "raw_date": "20250122",
     "duration_str": "2:36:17",
-    "url": "https://www.youtube.com/watch?v=T3RADQKZmmM"
+    "duration_seconds": 9377,
+    "yt_id": "T3RADQKZmmM",
+    "yt_url": "https://www.youtube.com/watch?v=T3RADQKZmmM",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 205,
     "id": "CW-N32Uf_sI",
     "title": "Inagoonation Gamer",
-    "duration_seconds": 2792,
+    "date": "2025-01-20",
+    "raw_date": "20250120",
     "duration_str": "46:32",
-    "url": "https://www.youtube.com/watch?v=CW-N32Uf_sI"
+    "duration_seconds": 2792,
+    "yt_id": "CW-N32Uf_sI",
+    "yt_url": "https://www.youtube.com/watch?v=CW-N32Uf_sI",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 206,
     "id": "tXrY4p8UfOI",
     "title": "Inagoonation",
-    "duration_seconds": 1655,
+    "date": "2025-01-20",
+    "raw_date": "20250120",
     "duration_str": "27:35",
-    "url": "https://www.youtube.com/watch?v=tXrY4p8UfOI"
+    "duration_seconds": 1655,
+    "yt_id": "tXrY4p8UfOI",
+    "yt_url": "https://www.youtube.com/watch?v=tXrY4p8UfOI",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 207,
     "id": "RVFbjH-_kJI",
     "title": "Tik, Tik, Ban, Ceasfeire Still Hopefully Now, and a Man with No Hole",
-    "duration_seconds": 8272,
+    "date": "2025-01-17",
+    "raw_date": "20250117",
     "duration_str": "2:17:52",
-    "url": "https://www.youtube.com/watch?v=RVFbjH-_kJI"
+    "duration_seconds": 8272,
+    "yt_id": "RVFbjH-_kJI",
+    "yt_url": "https://www.youtube.com/watch?v=RVFbjH-_kJI",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 208,
     "id": "pT3Onoz9sFg",
     "title": "Ceasefire Now? Tiktok Bans, Maybe Drake for Some Reason",
-    "duration_seconds": 8591,
+    "date": "2025-01-15",
+    "raw_date": "20250115",
     "duration_str": "2:23:11",
-    "url": "https://www.youtube.com/watch?v=pT3Onoz9sFg"
+    "duration_seconds": 8591,
+    "yt_id": "pT3Onoz9sFg",
+    "yt_url": "https://www.youtube.com/watch?v=pT3Onoz9sFg",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 209,
     "id": "wNwqjB_M89E",
     "title": "Hegseth Opening Remarks and Other News About Creeps",
-    "duration_seconds": 7275,
+    "date": "2025-01-14",
+    "raw_date": "20250114",
     "duration_str": "2:01:15",
-    "url": "https://www.youtube.com/watch?v=wNwqjB_M89E"
+    "duration_seconds": 7275,
+    "yt_id": "wNwqjB_M89E",
+    "yt_url": "https://www.youtube.com/watch?v=wNwqjB_M89E",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 210,
     "id": "D8b8PO1BeYE",
     "title": "The Hottest News Straight From LA",
-    "duration_seconds": 6807,
+    "date": "2025-01-08",
+    "raw_date": "20250108",
     "duration_str": "1:53:27",
-    "url": "https://www.youtube.com/watch?v=D8b8PO1BeYE"
+    "duration_seconds": 6807,
+    "yt_id": "D8b8PO1BeYE",
+    "yt_url": "https://www.youtube.com/watch?v=D8b8PO1BeYE",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 211,
     "id": "T4WJKaS7Mjk",
     "title": "New Year, New News",
-    "duration_seconds": 8687,
+    "date": "2025-01-06",
+    "raw_date": "20250106",
     "duration_str": "2:24:47",
-    "url": "https://www.youtube.com/watch?v=T4WJKaS7Mjk"
+    "duration_seconds": 8687,
+    "yt_id": "T4WJKaS7Mjk",
+    "yt_url": "https://www.youtube.com/watch?v=T4WJKaS7Mjk",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 212,
     "id": "eVZvbJFawhA",
     "title": "Grunchmas 2024",
-    "duration_seconds": 8854,
+    "date": "2024-12-23",
+    "raw_date": "20241223",
     "duration_str": "2:27:34",
-    "url": "https://www.youtube.com/watch?v=eVZvbJFawhA"
+    "duration_seconds": 8854,
+    "yt_id": "eVZvbJFawhA",
+    "yt_url": "https://www.youtube.com/watch?v=eVZvbJFawhA",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 213,
     "id": "Cli2U0rYw28",
     "title": "Post-China, Pre-Move News Grooves",
-    "duration_seconds": 9135,
+    "date": "2024-11-26",
+    "raw_date": "20241126",
     "duration_str": "2:32:15",
-    "url": "https://www.youtube.com/watch?v=Cli2U0rYw28"
+    "duration_seconds": 9135,
+    "yt_id": "Cli2U0rYw28",
+    "yt_url": "https://www.youtube.com/watch?v=Cli2U0rYw28",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 214,
     "id": "e-EdPY6nm1k",
     "title": "Quick Detox Stream",
-    "duration_seconds": 2502,
+    "date": "2024-11-06",
+    "raw_date": "20241106",
     "duration_str": "41:42",
-    "url": "https://www.youtube.com/watch?v=e-EdPY6nm1k"
+    "duration_seconds": 2502,
+    "yt_id": "e-EdPY6nm1k",
+    "yt_url": "https://www.youtube.com/watch?v=e-EdPY6nm1k",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 215,
     "id": "WxVZ5zuziq8",
     "title": "Binlection Night",
-    "duration_seconds": 11446,
+    "date": "2024-11-06",
+    "raw_date": "20241106",
     "duration_str": "3:10:46",
-    "url": "https://www.youtube.com/watch?v=WxVZ5zuziq8"
+    "duration_seconds": 11446,
+    "yt_id": "WxVZ5zuziq8",
+    "yt_url": "https://www.youtube.com/watch?v=WxVZ5zuziq8",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 216,
     "id": "aPzAtK5ZVeM",
     "title": "Godzilla Mayors Zombie Apocalypse",
-    "duration_seconds": 6202,
+    "date": "2024-10-31",
+    "raw_date": "20241031",
     "duration_str": "1:43:22",
-    "url": "https://www.youtube.com/watch?v=aPzAtK5ZVeM"
+    "duration_seconds": 6202,
+    "yt_id": "aPzAtK5ZVeM",
+    "yt_url": "https://www.youtube.com/watch?v=aPzAtK5ZVeM",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 217,
     "id": "kRdImfIwy4Q",
     "title": "Trump V 2 Rogans,",
-    "duration_seconds": 6099,
+    "date": "2024-10-30",
+    "raw_date": "20241030",
     "duration_str": "1:41:39",
-    "url": "https://www.youtube.com/watch?v=kRdImfIwy4Q"
+    "duration_seconds": 6099,
+    "yt_id": "kRdImfIwy4Q",
+    "yt_url": "https://www.youtube.com/watch?v=kRdImfIwy4Q",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 218,
     "id": "iCCqpvNIlFY",
     "title": "Tuesday Newsday Catch Up",
-    "duration_seconds": 8570,
+    "date": "2024-10-30",
+    "raw_date": "20241030",
     "duration_str": "2:22:50",
-    "url": "https://www.youtube.com/watch?v=iCCqpvNIlFY"
+    "duration_seconds": 8570,
+    "yt_id": "iCCqpvNIlFY",
+    "yt_url": "https://www.youtube.com/watch?v=iCCqpvNIlFY",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 219,
     "id": "MHDRGy6msrI",
     "title": "Abercrombie and... Other Stuff, Lunchlumps, Rudy Starts No Nut Early",
-    "duration_seconds": 5201,
+    "date": "2024-10-23",
+    "raw_date": "20241023",
     "duration_str": "1:26:41",
-    "url": "https://www.youtube.com/watch?v=MHDRGy6msrI"
+    "duration_seconds": 5201,
+    "yt_id": "MHDRGy6msrI",
+    "yt_url": "https://www.youtube.com/watch?v=MHDRGy6msrI",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 220,
     "id": "IASWTtRIhPU",
     "title": "Abercrombie and... Other Stuff, Lunchlumps, Rudy Starts No Nut Early",
-    "duration_seconds": 2240,
+    "date": "2024-10-22",
+    "raw_date": "20241022",
     "duration_str": "37:20",
-    "url": "https://www.youtube.com/watch?v=IASWTtRIhPU"
+    "duration_seconds": 2240,
+    "yt_id": "IASWTtRIhPU",
+    "yt_url": "https://www.youtube.com/watch?v=IASWTtRIhPU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 221,
     "id": "TcrjeRJrOwI",
     "title": "Call Kass",
-    "duration_seconds": 6432,
+    "date": "2024-10-22",
+    "raw_date": "20241022",
     "duration_str": "1:47:12",
-    "url": "https://www.youtube.com/watch?v=TcrjeRJrOwI"
+    "duration_seconds": 6432,
+    "yt_id": "TcrjeRJrOwI",
+    "yt_url": "https://www.youtube.com/watch?v=TcrjeRJrOwI",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 222,
     "id": "4xAoUbdxBjE",
     "title": "Quick News Before Hot Calls",
-    "duration_seconds": 4688,
+    "date": "2024-10-22",
+    "raw_date": "20241022",
     "duration_str": "1:18:08",
-    "url": "https://www.youtube.com/watch?v=4xAoUbdxBjE"
+    "duration_seconds": 4688,
+    "yt_id": "4xAoUbdxBjE",
+    "yt_url": "https://www.youtube.com/watch?v=4xAoUbdxBjE",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 223,
     "id": "u_JKNMWWWnM",
     "title": "Election Updates, US \"Threatens\" Military Aid, Currency Kicks and Twitch Bans,",
-    "duration_seconds": 5777,
+    "date": "2024-10-15",
+    "raw_date": "20241015",
     "duration_str": "1:36:17",
-    "url": "https://www.youtube.com/watch?v=u_JKNMWWWnM"
+    "duration_seconds": 5777,
+    "yt_id": "u_JKNMWWWnM",
+    "yt_url": "https://www.youtube.com/watch?v=u_JKNMWWWnM",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 224,
     "id": "TnZaovsAztc",
     "title": "Election Updates, US \"Threatens\" Military Aid, Currency Kicks and Twitch Bans,",
-    "duration_seconds": 517,
+    "date": "2024-10-15",
+    "raw_date": "20241015",
     "duration_str": "8:37",
-    "url": "https://www.youtube.com/watch?v=TnZaovsAztc"
+    "duration_seconds": 517,
+    "yt_id": "TnZaovsAztc",
+    "yt_url": "https://www.youtube.com/watch?v=TnZaovsAztc",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 225,
     "id": "0GyiFXnVqLs",
     "title": "Election Updates, US \"Threatens\" Military Aid, Currency Kicks and Twitch Bans,",
-    "duration_seconds": 850,
+    "date": "2024-10-15",
+    "raw_date": "20241015",
     "duration_str": "14:10",
-    "url": "https://www.youtube.com/watch?v=0GyiFXnVqLs"
+    "duration_seconds": 850,
+    "yt_id": "0GyiFXnVqLs",
+    "yt_url": "https://www.youtube.com/watch?v=0GyiFXnVqLs",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 226,
     "id": "sugAmJtb3HU",
     "title": "Return To Renerton",
-    "duration_seconds": 9637,
+    "date": "2024-10-13",
+    "raw_date": "20241013",
     "duration_str": "2:40:37",
-    "url": "https://www.youtube.com/watch?v=sugAmJtb3HU"
+    "duration_seconds": 9637,
+    "yt_id": "sugAmJtb3HU",
+    "yt_url": "https://www.youtube.com/watch?v=sugAmJtb3HU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 227,
     "id": "DRCre_ofu50",
     "title": "Return To Renerton",
-    "duration_seconds": 16609,
+    "date": "2024-10-13",
+    "raw_date": "20241013",
     "duration_str": "4:36:49",
-    "url": "https://www.youtube.com/watch?v=DRCre_ofu50"
+    "duration_seconds": 16609,
+    "yt_id": "DRCre_ofu50",
+    "yt_url": "https://www.youtube.com/watch?v=DRCre_ofu50",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 228,
     "id": "mPpM41kH9jw",
     "title": "Hurricanes, Fat Bears, and Alt Right Pron Exposes, does it NEWS?",
-    "duration_seconds": 11472,
+    "date": "2024-10-10",
+    "raw_date": "20241010",
     "duration_str": "3:11:12",
-    "url": "https://www.youtube.com/watch?v=mPpM41kH9jw"
+    "duration_seconds": 11472,
+    "yt_id": "mPpM41kH9jw",
+    "yt_url": "https://www.youtube.com/watch?v=mPpM41kH9jw",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 229,
     "id": "VR_30Y6cdLo",
     "title": "Truth Social Scams, Super Perverts, Snakes Trends, it's curse NEWS",
-    "duration_seconds": 10486,
+    "date": "2024-10-08",
+    "raw_date": "20241008",
     "duration_str": "2:54:46",
-    "url": "https://www.youtube.com/watch?v=VR_30Y6cdLo"
+    "duration_seconds": 10486,
+    "yt_id": "VR_30Y6cdLo",
+    "yt_url": "https://www.youtube.com/watch?v=VR_30Y6cdLo",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 230,
     "id": "sfaxMmV44EQ",
     "title": "Election Check In, Bigfoots, Geomagnetic Storms, it's disasters that are NEWS",
-    "duration_seconds": 10513,
+    "date": "2024-10-03",
+    "raw_date": "20241003",
     "duration_str": "2:55:13",
-    "url": "https://www.youtube.com/watch?v=sfaxMmV44EQ"
+    "duration_seconds": 10513,
+    "yt_id": "sfaxMmV44EQ",
+    "yt_url": "https://www.youtube.com/watch?v=sfaxMmV44EQ",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 231,
     "id": "koM-eiH71fM",
     "title": "VP Talkathon Recap, Will Smith Farts, Mystery Burger Kings, could be NEWS",
-    "duration_seconds": 4343,
+    "date": "2024-10-02",
+    "raw_date": "20241002",
     "duration_str": "1:12:23",
-    "url": "https://www.youtube.com/watch?v=koM-eiH71fM"
+    "duration_seconds": 4343,
+    "yt_id": "koM-eiH71fM",
+    "yt_url": "https://www.youtube.com/watch?v=koM-eiH71fM",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 232,
     "id": "BY_MRZxBMfQ",
     "title": "Escalation Minus the De, VP Debate Preview, Fat Bear Delays, all of it IMPORTANT NEWS",
-    "duration_seconds": 9596,
+    "date": "2024-10-01",
+    "raw_date": "20241001",
     "duration_str": "2:39:56",
-    "url": "https://www.youtube.com/watch?v=BY_MRZxBMfQ"
+    "duration_seconds": 9596,
+    "yt_id": "BY_MRZxBMfQ",
+    "yt_url": "https://www.youtube.com/watch?v=BY_MRZxBMfQ",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 233,
     "id": "ssoak0wNd9k",
     "title": "Call Kass",
-    "duration_seconds": 29,
+    "date": "2024-10-01",
+    "raw_date": "20241001",
     "duration_str": "0:29",
-    "url": "https://www.youtube.com/watch?v=ssoak0wNd9k"
+    "duration_seconds": 29,
+    "yt_id": "ssoak0wNd9k",
+    "yt_url": "https://www.youtube.com/watch?v=ssoak0wNd9k",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 234,
     "id": "FCEbbDjbk88",
     "title": "Bridgerton Balls, The Celeb Opinions We Care About, Oldest Cheeses, Newest NEWSES",
-    "duration_seconds": 5926,
+    "date": "2024-09-25",
+    "raw_date": "20240925",
     "duration_str": "1:38:46",
-    "url": "https://www.youtube.com/watch?v=FCEbbDjbk88"
+    "duration_seconds": 5926,
+    "yt_id": "FCEbbDjbk88",
+    "yt_url": "https://www.youtube.com/watch?v=FCEbbDjbk88",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 235,
     "id": "tt3qCDlQkDs",
     "title": "Escalations, Nail Conspiracies, New Nazcas, who what where NEWS",
-    "duration_seconds": 8819,
+    "date": "2024-09-25",
+    "raw_date": "20240925",
     "duration_str": "2:26:59",
-    "url": "https://www.youtube.com/watch?v=tt3qCDlQkDs"
+    "duration_seconds": 8819,
+    "yt_id": "tt3qCDlQkDs",
+    "yt_url": "https://www.youtube.com/watch?v=tt3qCDlQkDs",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 236,
     "id": "knz0Gmf_CVU",
     "title": "Call Kass",
-    "duration_seconds": 6255,
+    "date": "2024-09-24",
+    "raw_date": "20240924",
     "duration_str": "1:44:15",
-    "url": "https://www.youtube.com/watch?v=knz0Gmf_CVU"
+    "duration_seconds": 6255,
+    "yt_id": "knz0Gmf_CVU",
+    "yt_url": "https://www.youtube.com/watch?v=knz0Gmf_CVU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 237,
     "id": "S_eRFD6zrto",
     "title": "Diddy, Drones, and Dicks - the usual NEWS",
-    "duration_seconds": 14655,
+    "date": "2024-09-20",
+    "raw_date": "20240920",
     "duration_str": "4:04:15",
-    "url": "https://www.youtube.com/watch?v=S_eRFD6zrto"
+    "duration_seconds": 14655,
+    "yt_id": "S_eRFD6zrto",
+    "yt_url": "https://www.youtube.com/watch?v=S_eRFD6zrto",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 238,
     "id": "fivS6SdvEmg",
     "title": "Diddy, Drones, and Dicks - the usual NEWS",
-    "duration_seconds": 5786,
+    "date": "2024-09-19",
+    "raw_date": "20240919",
     "duration_str": "1:36:26",
-    "url": "https://www.youtube.com/watch?v=fivS6SdvEmg"
+    "duration_seconds": 5786,
+    "yt_id": "fivS6SdvEmg",
+    "yt_url": "https://www.youtube.com/watch?v=fivS6SdvEmg",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 239,
     "id": "W2AYD3T2Ya0",
     "title": "Exploding Pagers, Rate Cuts, Abercrombie and Sex Crimes, is it NEWS?",
-    "duration_seconds": 8080,
+    "date": "2024-09-18",
+    "raw_date": "20240918",
     "duration_str": "2:14:40",
-    "url": "https://www.youtube.com/watch?v=W2AYD3T2Ya0"
+    "duration_seconds": 8080,
+    "yt_id": "W2AYD3T2Ya0",
+    "yt_url": "https://www.youtube.com/watch?v=W2AYD3T2Ya0",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 240,
     "id": "fHnMjljKZgc",
     "title": "Call Kass!",
-    "duration_seconds": 6529,
+    "date": "2024-09-17",
+    "raw_date": "20240917",
     "duration_str": "1:48:49",
-    "url": "https://www.youtube.com/watch?v=fHnMjljKZgc"
+    "duration_seconds": 6529,
+    "yt_id": "fHnMjljKZgc",
+    "yt_url": "https://www.youtube.com/watch?v=fHnMjljKZgc",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 241,
     "id": "jub4zuwY84Q",
     "title": "AI Box People, Nobel Butt Winners, Trump Continues to Say Words, NEWS they say",
-    "duration_seconds": 7941,
+    "date": "2024-09-13",
+    "raw_date": "20240913",
     "duration_str": "2:12:21",
-    "url": "https://www.youtube.com/watch?v=jub4zuwY84Q"
+    "duration_seconds": 7941,
+    "yt_id": "jub4zuwY84Q",
+    "yt_url": "https://www.youtube.com/watch?v=jub4zuwY84Q",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 242,
     "id": "5TGwi0w3IUU",
     "title": "No Country for Old Debates, How to Stay Calm, Bone Boners, is NEWS?",
-    "duration_seconds": 9750,
+    "date": "2024-09-12",
+    "raw_date": "20240912",
     "duration_str": "2:42:30",
-    "url": "https://www.youtube.com/watch?v=5TGwi0w3IUU"
+    "duration_seconds": 9750,
+    "yt_id": "5TGwi0w3IUU",
+    "yt_url": "https://www.youtube.com/watch?v=5TGwi0w3IUU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 243,
     "id": "AJ5UbfIdQgg",
     "title": "Derpbate Reactions, Musky Goes Swifty, and other things we say are NEWS",
-    "duration_seconds": 4115,
+    "date": "2024-09-11",
+    "raw_date": "20240911",
     "duration_str": "1:08:35",
-    "url": "https://www.youtube.com/watch?v=AJ5UbfIdQgg"
+    "duration_seconds": 4115,
+    "yt_id": "AJ5UbfIdQgg",
+    "yt_url": "https://www.youtube.com/watch?v=AJ5UbfIdQgg",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 244,
     "id": "WUNFqfbcaPY",
     "title": "Debate-orade 2024",
-    "duration_seconds": 8412,
+    "date": "2024-09-11",
+    "raw_date": "20240911",
     "duration_str": "2:20:12",
-    "url": "https://www.youtube.com/watch?v=WUNFqfbcaPY"
+    "duration_seconds": 8412,
+    "yt_id": "WUNFqfbcaPY",
+    "yt_url": "https://www.youtube.com/watch?v=WUNFqfbcaPY",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 245,
     "id": "P1GimssHUcE",
     "title": "CandyLand RPG with Cig Sand",
-    "duration_seconds": 16735,
+    "date": "2024-09-08",
+    "raw_date": "20240908",
     "duration_str": "4:38:55",
-    "url": "https://www.youtube.com/watch?v=P1GimssHUcE"
+    "duration_seconds": 16735,
+    "yt_id": "P1GimssHUcE",
+    "yt_url": "https://www.youtube.com/watch?v=P1GimssHUcE",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 246,
     "id": "VmIPtNAei-U",
     "title": "Weird Interviews, Dis Retrun, Dis Week's NEWS",
-    "duration_seconds": 8475,
+    "date": "2024-09-06",
+    "raw_date": "20240906",
     "duration_str": "2:21:15",
-    "url": "https://www.youtube.com/watch?v=VmIPtNAei-U"
+    "duration_seconds": 8475,
+    "yt_id": "VmIPtNAei-U",
+    "yt_url": "https://www.youtube.com/watch?v=VmIPtNAei-U",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 247,
     "id": "cqOaGBONLxo",
     "title": "Harris Says Things, Robots Do Things, Tamagotchi Eggs, all of that is NEWS we SWEAR",
-    "duration_seconds": 9252,
+    "date": "2024-08-30",
+    "raw_date": "20240830",
     "duration_str": "2:34:12",
-    "url": "https://www.youtube.com/watch?v=cqOaGBONLxo"
+    "duration_seconds": 9252,
+    "yt_id": "cqOaGBONLxo",
+    "yt_url": "https://www.youtube.com/watch?v=cqOaGBONLxo",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 248,
     "id": "7JAGG7LYYUk",
     "title": "Nightly News",
-    "duration_seconds": 5219,
+    "date": "2024-08-27",
+    "raw_date": "20240827",
     "duration_str": "1:26:59",
-    "url": "https://www.youtube.com/watch?v=7JAGG7LYYUk"
+    "duration_seconds": 5219,
+    "yt_id": "7JAGG7LYYUk",
+    "yt_url": "https://www.youtube.com/watch?v=7JAGG7LYYUk",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 249,
     "id": "a4Fa4jqS13Q",
     "title": "DNC No Evil, Mascot Dancing Gone Wrong, UFO \"Trap\" Program, all of it could be NEWS",
-    "duration_seconds": 8803,
+    "date": "2024-08-22",
+    "raw_date": "20240822",
     "duration_str": "2:26:43",
-    "url": "https://www.youtube.com/watch?v=a4Fa4jqS13Q"
+    "duration_seconds": 8803,
+    "yt_id": "a4Fa4jqS13Q",
+    "yt_url": "https://www.youtube.com/watch?v=a4Fa4jqS13Q",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 250,
     "id": "oDSuSzbumUs",
     "title": "DNC Even More, Lindell Watch, Costco Cups and Vance Cups, the Cups of NEWS",
-    "duration_seconds": 10262,
+    "date": "2024-08-22",
+    "raw_date": "20240822",
     "duration_str": "2:51:02",
-    "url": "https://www.youtube.com/watch?v=oDSuSzbumUs"
+    "duration_seconds": 10262,
+    "yt_id": "oDSuSzbumUs",
+    "yt_url": "https://www.youtube.com/watch?v=oDSuSzbumUs",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 251,
     "id": "xHkqXfqP8Ng",
     "title": "DNCU This Tuesday, Disney Super Streaming Blocked, GamesCom All Over Me, NEWZZZ",
-    "duration_seconds": 10418,
+    "date": "2024-08-20",
+    "raw_date": "20240820",
     "duration_str": "2:53:38",
-    "url": "https://www.youtube.com/watch?v=xHkqXfqP8Ng"
+    "duration_seconds": 10418,
+    "yt_id": "xHkqXfqP8Ng",
+    "yt_url": "https://www.youtube.com/watch?v=xHkqXfqP8Ng",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 252,
     "id": "Ai84ODNL5eg",
     "title": "Rowling Down Hill, AI Demo Failures, Crap Hacks, 2/3 Could be NEWS!",
-    "duration_seconds": 8606,
+    "date": "2024-08-14",
+    "raw_date": "20240814",
     "duration_str": "2:23:26",
-    "url": "https://www.youtube.com/watch?v=Ai84ODNL5eg"
+    "duration_seconds": 8606,
+    "yt_id": "Ai84ODNL5eg",
+    "yt_url": "https://www.youtube.com/watch?v=Ai84ODNL5eg",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 253,
     "id": "iFul-4NutEk",
     "title": "Musking All Over the Place, Chatbots Come Clean, Summer... Things, what is News?",
-    "duration_seconds": 9363,
+    "date": "2024-08-13",
+    "raw_date": "20240813",
     "duration_str": "2:36:03",
-    "url": "https://www.youtube.com/watch?v=iFul-4NutEk"
+    "duration_seconds": 9363,
+    "yt_id": "iFul-4NutEk",
+    "yt_url": "https://www.youtube.com/watch?v=iFul-4NutEk",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 254,
     "id": "Iu514jPE85o",
     "title": "VP On Me, Worst Face Mask Yet, Pets Grieve? It's NEW(s)!",
-    "duration_seconds": 7966,
+    "date": "2024-08-08",
+    "raw_date": "20240808",
     "duration_str": "2:12:46",
-    "url": "https://www.youtube.com/watch?v=Iu514jPE85o"
+    "duration_seconds": 7966,
+    "yt_id": "Iu514jPE85o",
+    "yt_url": "https://www.youtube.com/watch?v=Iu514jPE85o",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 255,
     "id": "zCMUbRg0dnw",
     "title": "Corpse Train, Missing Bluey Lil Hog Watch, all the NEWS that is IMPORTANT",
-    "duration_seconds": 7985,
+    "date": "2024-08-07",
+    "raw_date": "20240807",
     "duration_str": "2:13:05",
-    "url": "https://www.youtube.com/watch?v=zCMUbRg0dnw"
+    "duration_seconds": 7985,
+    "yt_id": "zCMUbRg0dnw",
+    "yt_url": "https://www.youtube.com/watch?v=zCMUbRg0dnw",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 256,
     "id": "w0-O6PkI7ZA",
     "title": "Walzing In, Trumping Streams, Xing Out of SF, NEWS WORDS",
-    "duration_seconds": 7255,
+    "date": "2024-08-07",
+    "raw_date": "20240807",
     "duration_str": "2:00:55",
-    "url": "https://www.youtube.com/watch?v=w0-O6PkI7ZA"
+    "duration_seconds": 7255,
+    "yt_id": "w0-O6PkI7ZA",
+    "yt_url": "https://www.youtube.com/watch?v=w0-O6PkI7ZA",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 257,
     "id": "6xWhcAzOyB4",
     "title": "Quick Thursday NEWS",
-    "duration_seconds": 5133,
+    "date": "2024-08-01",
+    "raw_date": "20240801",
     "duration_str": "1:25:33",
-    "url": "https://www.youtube.com/watch?v=6xWhcAzOyB4"
+    "duration_seconds": 5133,
+    "yt_id": "6xWhcAzOyB4",
+    "yt_url": "https://www.youtube.com/watch?v=6xWhcAzOyB4",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 258,
     "id": "W5B5IJS_MmI",
     "title": "Trump Tantrums, Eels in Special Places, Boycots Work? It's NEWS MAYBE",
-    "duration_seconds": 7556,
+    "date": "2024-07-31",
+    "raw_date": "20240731",
     "duration_str": "2:05:56",
-    "url": "https://www.youtube.com/watch?v=W5B5IJS_MmI"
+    "duration_seconds": 7556,
+    "yt_id": "W5B5IJS_MmI",
+    "yt_url": "https://www.youtube.com/watch?v=W5B5IJS_MmI",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 259,
     "id": "0SjXgi9nwxo",
     "title": "Olympic Check In, JD Vamping, and Skibidi Copyrights or SOMETHING that's NEWS",
-    "duration_seconds": 10266,
+    "date": "2024-07-30",
+    "raw_date": "20240730",
     "duration_str": "2:51:06",
-    "url": "https://www.youtube.com/watch?v=0SjXgi9nwxo"
+    "duration_seconds": 10266,
+    "yt_id": "0SjXgi9nwxo",
+    "yt_url": "https://www.youtube.com/watch?v=0SjXgi9nwxo",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 260,
     "id": "1sdCfCqoVhU",
     "title": "Netenyahu Stays Heel, Gets Cheered, Bodybuilder Marries Sex Doll, and other NEWS of VARYING QUALITY",
-    "duration_seconds": 7977,
+    "date": "2024-07-25",
+    "raw_date": "20240725",
     "duration_str": "2:12:57",
-    "url": "https://www.youtube.com/watch?v=1sdCfCqoVhU"
+    "duration_seconds": 7977,
+    "yt_id": "1sdCfCqoVhU",
+    "yt_url": "https://www.youtube.com/watch?v=1sdCfCqoVhU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 261,
     "id": "6F4W0l3Dr_M",
     "title": "Return to the Eldeners",
-    "duration_seconds": 8512,
+    "date": "2024-07-23",
+    "raw_date": "20240723",
     "duration_str": "2:21:52",
-    "url": "https://www.youtube.com/watch?v=6F4W0l3Dr_M"
+    "duration_seconds": 8512,
+    "yt_id": "6F4W0l3Dr_M",
+    "yt_url": "https://www.youtube.com/watch?v=6F4W0l3Dr_M",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 262,
     "id": "7u44KkeZxfE",
     "title": "Unburdened  by what has Biden and other things that are NEWS",
-    "duration_seconds": 10464,
+    "date": "2024-07-22",
+    "raw_date": "20240722",
     "duration_str": "2:54:24",
-    "url": "https://www.youtube.com/watch?v=7u44KkeZxfE"
+    "duration_seconds": 10464,
+    "yt_id": "7u44KkeZxfE",
+    "yt_url": "https://www.youtube.com/watch?v=7u44KkeZxfE",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 263,
     "id": "tXdoW9cixMk",
     "title": "Deb-8 - Eight Hours of DEBATE",
-    "duration_seconds": 29503,
+    "date": "2024-07-20",
+    "raw_date": "20240720",
     "duration_str": "8:11:43",
-    "url": "https://www.youtube.com/watch?v=tXdoW9cixMk"
+    "duration_seconds": 29503,
+    "yt_id": "tXdoW9cixMk",
+    "yt_url": "https://www.youtube.com/watch?v=tXdoW9cixMk",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 264,
     "id": "M1817myPrHo",
     "title": "RNC You Next Time, Unalive Machines, Air Butter, what is a NEWS?",
-    "duration_seconds": 7039,
+    "date": "2024-07-19",
+    "raw_date": "20240719",
     "duration_str": "1:57:19",
-    "url": "https://www.youtube.com/watch?v=M1817myPrHo"
+    "duration_seconds": 7039,
+    "yt_id": "M1817myPrHo",
+    "yt_url": "https://www.youtube.com/watch?v=M1817myPrHo",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 265,
     "id": "A7LQDw79pv4",
     "title": "Quick Stream Before Patreon",
-    "duration_seconds": 5055,
+    "date": "2024-07-17",
+    "raw_date": "20240717",
     "duration_str": "1:24:15",
-    "url": "https://www.youtube.com/watch?v=A7LQDw79pv4"
+    "duration_seconds": 5055,
+    "yt_id": "A7LQDw79pv4",
+    "yt_url": "https://www.youtube.com/watch?v=A7LQDw79pv4",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 266,
     "id": "kL40NJ8Av5o",
     "title": "Call Kass - Testing the Lines",
-    "duration_seconds": 5203,
+    "date": "2024-07-15",
+    "raw_date": "20240715",
     "duration_str": "1:26:43",
-    "url": "https://www.youtube.com/watch?v=kL40NJ8Av5o"
+    "duration_seconds": 5203,
+    "yt_id": "kL40NJ8Av5o",
+    "yt_url": "https://www.youtube.com/watch?v=kL40NJ8Av5o",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 267,
     "id": "pchDIXxcNXc",
     "title": "Biden Time, AI Bullet Vending Machines, Gay Furry Hackers, all words equaling NEWS",
-    "duration_seconds": 9161,
+    "date": "2024-07-09",
+    "raw_date": "20240709",
     "duration_str": "2:32:41",
-    "url": "https://www.youtube.com/watch?v=pchDIXxcNXc"
+    "duration_seconds": 9161,
+    "yt_id": "pchDIXxcNXc",
+    "yt_url": "https://www.youtube.com/watch?v=pchDIXxcNXc",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 268,
     "id": "ERbUT-4d78k",
     "title": "Elden Struggles",
-    "duration_seconds": 13937,
+    "date": "2024-07-01",
+    "raw_date": "20240701",
     "duration_str": "3:52:17",
-    "url": "https://www.youtube.com/watch?v=ERbUT-4d78k"
+    "duration_seconds": 13937,
+    "yt_id": "ERbUT-4d78k",
+    "yt_url": "https://www.youtube.com/watch?v=ERbUT-4d78k",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 269,
     "id": "1-vTU_qnKlc",
     "title": "Presidential Recreation Activity Hour",
-    "duration_seconds": 9965,
+    "date": "2024-06-28",
+    "raw_date": "20240628",
     "duration_str": "2:46:05",
-    "url": "https://www.youtube.com/watch?v=1-vTU_qnKlc"
+    "duration_seconds": 9965,
+    "yt_id": "1-vTU_qnKlc",
+    "yt_url": "https://www.youtube.com/watch?v=1-vTU_qnKlc",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 270,
     "id": "ZdELhJ21dfg",
     "title": "Reploid Improvements, Tesla Recall, Kingpin Depenised, maybe its NEWS?",
-    "duration_seconds": 11102,
+    "date": "2024-06-26",
+    "raw_date": "20240626",
     "duration_str": "3:05:02",
-    "url": "https://www.youtube.com/watch?v=ZdELhJ21dfg"
+    "duration_seconds": 11102,
+    "yt_id": "ZdELhJ21dfg",
+    "yt_url": "https://www.youtube.com/watch?v=ZdELhJ21dfg",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 271,
     "id": "EJqH1B8lTec",
     "title": "Elden Skadoooo",
-    "duration_seconds": 9584,
+    "date": "2024-06-25",
+    "raw_date": "20240625",
     "duration_str": "2:39:44",
-    "url": "https://www.youtube.com/watch?v=EJqH1B8lTec"
+    "duration_seconds": 9584,
+    "yt_id": "EJqH1B8lTec",
+    "yt_url": "https://www.youtube.com/watch?v=EJqH1B8lTec",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 272,
     "id": "e9mnunhp-gU",
     "title": "Saduchidi Toilet Ring",
-    "duration_seconds": 13388,
+    "date": "2024-06-24",
+    "raw_date": "20240624",
     "duration_str": "3:43:08",
-    "url": "https://www.youtube.com/watch?v=e9mnunhp-gU"
+    "duration_seconds": 13388,
+    "yt_id": "e9mnunhp-gU",
+    "yt_url": "https://www.youtube.com/watch?v=e9mnunhp-gU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 273,
     "id": "7iqP0XI4cjI",
     "title": "Elden Recovery",
-    "duration_seconds": 9454,
+    "date": "2024-06-24",
+    "raw_date": "20240624",
     "duration_str": "2:37:34",
-    "url": "https://www.youtube.com/watch?v=7iqP0XI4cjI"
+    "duration_seconds": 9454,
+    "yt_id": "7iqP0XI4cjI",
+    "yt_url": "https://www.youtube.com/watch?v=7iqP0XI4cjI",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 274,
     "id": "_CrTZQ8bMVA",
     "title": "Elden Sick Day",
-    "duration_seconds": 12392,
+    "date": "2024-06-20",
+    "raw_date": "20240620",
     "duration_str": "3:26:32",
-    "url": "https://www.youtube.com/watch?v=_CrTZQ8bMVA"
+    "duration_seconds": 12392,
+    "yt_id": "_CrTZQ8bMVA",
+    "yt_url": "https://www.youtube.com/watch?v=_CrTZQ8bMVA",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 275,
     "id": "neIV8euk8Rs",
     "title": "Elden Kings",
-    "duration_seconds": 4725,
+    "date": "2024-06-19",
+    "raw_date": "20240619",
     "duration_str": "1:18:45",
-    "url": "https://www.youtube.com/watch?v=neIV8euk8Rs"
+    "duration_seconds": 4725,
+    "yt_id": "neIV8euk8Rs",
+    "yt_url": "https://www.youtube.com/watch?v=neIV8euk8Rs",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 276,
     "id": "ZFkYtTUot-E",
     "title": "Nohm Lives? Armie Hammers Back? Space Catapluts? All things that COULD be NEWS",
-    "duration_seconds": 10216,
+    "date": "2024-06-18",
+    "raw_date": "20240618",
     "duration_str": "2:50:16",
-    "url": "https://www.youtube.com/watch?v=ZFkYtTUot-E"
+    "duration_seconds": 10216,
+    "yt_id": "ZFkYtTUot-E",
+    "yt_url": "https://www.youtube.com/watch?v=ZFkYtTUot-E",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 277,
     "id": "XrfJfB47CG8",
     "title": "Eldening",
-    "duration_seconds": 6902,
+    "date": "2024-06-14",
+    "raw_date": "20240614",
     "duration_str": "1:55:02",
-    "url": "https://www.youtube.com/watch?v=XrfJfB47CG8"
+    "duration_seconds": 6902,
+    "yt_id": "XrfJfB47CG8",
+    "yt_url": "https://www.youtube.com/watch?v=XrfJfB47CG8",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 278,
     "id": "xoa7A8METtc",
     "title": "Cooking with Jeb and NEWS?",
-    "duration_seconds": 11173,
+    "date": "2024-06-13",
+    "raw_date": "20240613",
     "duration_str": "3:06:13",
-    "url": "https://www.youtube.com/watch?v=xoa7A8METtc"
+    "duration_seconds": 11173,
+    "yt_id": "xoa7A8METtc",
+    "yt_url": "https://www.youtube.com/watch?v=xoa7A8METtc",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 279,
     "id": "beeVq2Nbdrs",
     "title": "Elden Things, the Collectining Continues",
-    "duration_seconds": 5554,
+    "date": "2024-06-12",
+    "raw_date": "20240612",
     "duration_str": "1:32:34",
-    "url": "https://www.youtube.com/watch?v=beeVq2Nbdrs"
+    "duration_seconds": 5554,
+    "yt_id": "beeVq2Nbdrs",
+    "yt_url": "https://www.youtube.com/watch?v=beeVq2Nbdrs",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 280,
     "id": "aNR6303s4XA",
     "title": "Elden Things",
-    "duration_seconds": 8618,
+    "date": "2024-06-11",
+    "raw_date": "20240611",
     "duration_str": "2:23:38",
-    "url": "https://www.youtube.com/watch?v=aNR6303s4XA"
+    "duration_seconds": 8618,
+    "yt_id": "aNR6303s4XA",
+    "yt_url": "https://www.youtube.com/watch?v=aNR6303s4XA",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 281,
     "id": "9P4PT3Zza5o",
     "title": "Is Birthday News? Or Elden Birthday? or BOTH?",
-    "duration_seconds": 5298,
+    "date": "2024-06-10",
+    "raw_date": "20240610",
     "duration_str": "1:28:18",
-    "url": "https://www.youtube.com/watch?v=9P4PT3Zza5o"
+    "duration_seconds": 5298,
+    "yt_id": "9P4PT3Zza5o",
+    "yt_url": "https://www.youtube.com/watch?v=9P4PT3Zza5o",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 282,
     "id": "sdLobXg05Gg",
     "title": "Elden Things - Becoming More Notorious",
-    "duration_seconds": 15126,
+    "date": "2024-06-10",
+    "raw_date": "20240610",
     "duration_str": "4:12:06",
-    "url": "https://www.youtube.com/watch?v=sdLobXg05Gg"
+    "duration_seconds": 15126,
+    "yt_id": "sdLobXg05Gg",
+    "yt_url": "https://www.youtube.com/watch?v=sdLobXg05Gg",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 283,
     "id": "zLRcxwKGlK0",
     "title": "Elden Things",
-    "duration_seconds": 19952,
+    "date": "2024-06-07",
+    "raw_date": "20240607",
     "duration_str": "5:32:32",
-    "url": "https://www.youtube.com/watch?v=zLRcxwKGlK0"
+    "duration_seconds": 19952,
+    "yt_id": "zLRcxwKGlK0",
+    "yt_url": "https://www.youtube.com/watch?v=zLRcxwKGlK0",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 284,
     "id": "-9GKYnJT4H4",
     "title": "Elden Things",
-    "duration_seconds": 4444,
+    "date": "2024-06-05",
+    "raw_date": "20240605",
     "duration_str": "1:14:04",
-    "url": "https://www.youtube.com/watch?v=-9GKYnJT4H4"
+    "duration_seconds": 4444,
+    "yt_id": "-9GKYnJT4H4",
+    "yt_url": "https://www.youtube.com/watch?v=-9GKYnJT4H4",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 285,
     "id": "EfJcO_6LBxw",
     "title": "Elden Things",
-    "duration_seconds": 9087,
+    "date": "2024-06-05",
+    "raw_date": "20240605",
     "duration_str": "2:31:27",
-    "url": "https://www.youtube.com/watch?v=EfJcO_6LBxw"
+    "duration_seconds": 9087,
+    "yt_id": "EfJcO_6LBxw",
+    "yt_url": "https://www.youtube.com/watch?v=EfJcO_6LBxw",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 286,
     "id": "3cgJ83uiRU4",
     "title": "Felon Gives Rally, WWE Investigated, Ghost Poops Explained - all equally valid NEWS",
-    "duration_seconds": 11034,
+    "date": "2024-05-31",
+    "raw_date": "20240531",
     "duration_str": "3:03:54",
-    "url": "https://www.youtube.com/watch?v=3cgJ83uiRU4"
+    "duration_seconds": 11034,
+    "yt_id": "3cgJ83uiRU4",
+    "yt_url": "https://www.youtube.com/watch?v=3cgJ83uiRU4",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 287,
     "id": "I3QmBKyhrJU",
     "title": "All Extra Thumbs, Google Leaks, Used Water Bottle Give Away, things that could be NEWS",
-    "duration_seconds": 5560,
+    "date": "2024-05-30",
+    "raw_date": "20240530",
     "duration_str": "1:32:40",
-    "url": "https://www.youtube.com/watch?v=I3QmBKyhrJU"
+    "duration_seconds": 5560,
+    "yt_id": "I3QmBKyhrJU",
+    "yt_url": "https://www.youtube.com/watch?v=I3QmBKyhrJU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 288,
     "id": "52sAT7DuWXo",
     "title": "Amongst  The Web",
-    "duration_seconds": 8563,
+    "date": "2024-05-28",
+    "raw_date": "20240528",
     "duration_str": "2:22:43",
-    "url": "https://www.youtube.com/watch?v=52sAT7DuWXo"
+    "duration_seconds": 8563,
+    "yt_id": "52sAT7DuWXo",
+    "yt_url": "https://www.youtube.com/watch?v=52sAT7DuWXo",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 289,
     "id": "kJZLdk_8IjA",
     "title": "Queer Rock Peering with @fionanova",
-    "duration_seconds": 5880,
+    "date": "2024-05-23",
+    "raw_date": "20240523",
     "duration_str": "1:38:00",
-    "url": "https://www.youtube.com/watch?v=kJZLdk_8IjA"
+    "duration_seconds": 5880,
+    "yt_id": "kJZLdk_8IjA",
+    "yt_url": "https://www.youtube.com/watch?v=kJZLdk_8IjA",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 290,
     "id": "VXbo679vgzo",
     "title": "Quick How To Stream Before Patreon",
-    "duration_seconds": 3293,
+    "date": "2024-05-23",
+    "raw_date": "20240523",
     "duration_str": "54:53",
-    "url": "https://www.youtube.com/watch?v=VXbo679vgzo"
+    "duration_seconds": 3293,
+    "yt_id": "VXbo679vgzo",
+    "yt_url": "https://www.youtube.com/watch?v=VXbo679vgzo",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 291,
     "id": "COOyBDwQZzM",
     "title": "A.I. Death Dogs, Trump Crypto Third Reich, Terrance Howard Maybe? That's supposedly NEWS",
-    "duration_seconds": 11167,
+    "date": "2024-05-21",
+    "raw_date": "20240521",
     "duration_str": "3:06:07",
-    "url": "https://www.youtube.com/watch?v=COOyBDwQZzM"
+    "duration_seconds": 11167,
+    "yt_id": "COOyBDwQZzM",
+    "yt_url": "https://www.youtube.com/watch?v=COOyBDwQZzM",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 292,
     "id": "6YxhPyjwr6w",
     "title": "Helldiving, 2 (I've played twice)",
-    "duration_seconds": 10019,
+    "date": "2024-05-18",
+    "raw_date": "20240518",
     "duration_str": "2:46:59",
-    "url": "https://www.youtube.com/watch?v=6YxhPyjwr6w"
+    "duration_seconds": 10019,
+    "yt_id": "6YxhPyjwr6w",
+    "yt_url": "https://www.youtube.com/watch?v=6YxhPyjwr6w",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 293,
     "id": "ydQl3A2eos0",
     "title": "Munchcut Finally LOSES? Mass celeb blocking? Epstein Recreates Multiplicity? These are things tha\u2026",
-    "duration_seconds": 10631,
+    "date": "2024-05-15",
+    "raw_date": "20240515",
     "duration_str": "2:57:11",
-    "url": "https://www.youtube.com/watch?v=ydQl3A2eos0"
+    "duration_seconds": 10631,
+    "yt_id": "ydQl3A2eos0",
+    "yt_url": "https://www.youtube.com/watch?v=ydQl3A2eos0",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 294,
     "id": "XbNYVM1zu8c",
     "title": "More Weapons or NO More Weapons? NBA Moans, \"Package Enhances\" - some of it may be NEWS",
-    "duration_seconds": 9068,
+    "date": "2024-05-10",
+    "raw_date": "20240510",
     "duration_str": "2:31:08",
-    "url": "https://www.youtube.com/watch?v=XbNYVM1zu8c"
+    "duration_seconds": 9068,
+    "yt_id": "XbNYVM1zu8c",
+    "yt_url": "https://www.youtube.com/watch?v=XbNYVM1zu8c",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 295,
     "id": "lKKl55DZCBw",
     "title": "Fallout Boy Rides Again",
-    "duration_seconds": 13663,
+    "date": "2024-05-09",
+    "raw_date": "20240509",
     "duration_str": "3:47:43",
-    "url": "https://www.youtube.com/watch?v=lKKl55DZCBw"
+    "duration_seconds": 13663,
+    "yt_id": "lKKl55DZCBw",
+    "yt_url": "https://www.youtube.com/watch?v=lKKl55DZCBw",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 296,
     "id": "aycH2A_URvI",
     "title": "Fallout Boy Kills More Wild",
-    "duration_seconds": 8802,
+    "date": "2024-05-03",
+    "raw_date": "20240503",
     "duration_str": "2:26:42",
-    "url": "https://www.youtube.com/watch?v=aycH2A_URvI"
+    "duration_seconds": 8802,
+    "yt_id": "aycH2A_URvI",
+    "yt_url": "https://www.youtube.com/watch?v=aycH2A_URvI",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 297,
     "id": "9wnqHcUCbY8",
     "title": "Biden Says Things, X-Men Mansion For Rent, Armpit Balls, it's NEWZ (news)",
-    "duration_seconds": 7442,
+    "date": "2024-05-02",
+    "raw_date": "20240502",
     "duration_str": "2:04:02",
-    "url": "https://www.youtube.com/watch?v=9wnqHcUCbY8"
+    "duration_seconds": 7442,
+    "yt_id": "9wnqHcUCbY8",
+    "yt_url": "https://www.youtube.com/watch?v=9wnqHcUCbY8",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 298,
     "id": "Gkz3_2sLS-0",
     "title": "Protests, Rock Bottles of Urine, and Schneider Returns, GOD help us it's NEWS",
-    "duration_seconds": 6728,
+    "date": "2024-05-01",
+    "raw_date": "20240501",
     "duration_str": "1:52:08",
-    "url": "https://www.youtube.com/watch?v=Gkz3_2sLS-0"
+    "duration_seconds": 6728,
+    "yt_id": "Gkz3_2sLS-0",
+    "yt_url": "https://www.youtube.com/watch?v=Gkz3_2sLS-0",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 299,
     "id": "ydph_OLqsMA",
     "title": "Fallout Boy 4",
-    "duration_seconds": 6641,
+    "date": "2024-04-30",
+    "raw_date": "20240430",
     "duration_str": "1:50:41",
-    "url": "https://www.youtube.com/watch?v=ydph_OLqsMA"
+    "duration_seconds": 6641,
+    "yt_id": "ydph_OLqsMA",
+    "yt_url": "https://www.youtube.com/watch?v=ydph_OLqsMA",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 300,
     "id": "PLRIFcPURHo",
     "title": "Seinfelding, Porn Solves Mysteries, Monkeys Attack, it's... NEWS?",
-    "duration_seconds": 7598,
+    "date": "2024-04-29",
+    "raw_date": "20240429",
     "duration_str": "2:06:38",
-    "url": "https://www.youtube.com/watch?v=PLRIFcPURHo"
+    "duration_seconds": 7598,
+    "yt_id": "PLRIFcPURHo",
+    "yt_url": "https://www.youtube.com/watch?v=PLRIFcPURHo",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 301,
     "id": "BCW2rBdZf2A",
     "title": "Protests, AI, and other words you KNOW are NEWS",
-    "duration_seconds": 7939,
+    "date": "2024-04-25",
+    "raw_date": "20240425",
     "duration_str": "2:12:19",
-    "url": "https://www.youtube.com/watch?v=BCW2rBdZf2A"
+    "duration_seconds": 7939,
+    "yt_id": "BCW2rBdZf2A",
+    "yt_url": "https://www.youtube.com/watch?v=BCW2rBdZf2A",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 302,
     "id": "QLZ92dLvCM8",
     "title": "Fallout Boy MEAT world",
-    "duration_seconds": 10373,
+    "date": "2024-04-24",
+    "raw_date": "20240424",
     "duration_str": "2:52:53",
-    "url": "https://www.youtube.com/watch?v=QLZ92dLvCM8"
+    "duration_seconds": 10373,
+    "yt_id": "QLZ92dLvCM8",
+    "yt_url": "https://www.youtube.com/watch?v=QLZ92dLvCM8",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 303,
     "id": "4TOTdj1zvR8",
     "title": "Town Hall Tuesday",
-    "duration_seconds": 7628,
+    "date": "2024-04-23",
+    "raw_date": "20240423",
     "duration_str": "2:07:08",
-    "url": "https://www.youtube.com/watch?v=4TOTdj1zvR8"
+    "duration_seconds": 7628,
+    "yt_id": "4TOTdj1zvR8",
+    "yt_url": "https://www.youtube.com/watch?v=4TOTdj1zvR8",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 304,
     "id": "9vl7XeeEkDo",
     "title": "Fallout Boy Meets More World",
-    "duration_seconds": 13079,
+    "date": "2024-04-20",
+    "raw_date": "20240420",
     "duration_str": "3:37:59",
-    "url": "https://www.youtube.com/watch?v=9vl7XeeEkDo"
+    "duration_seconds": 13079,
+    "yt_id": "9vl7XeeEkDo",
+    "yt_url": "https://www.youtube.com/watch?v=9vl7XeeEkDo",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 305,
     "id": "uon0frZHI5U",
     "title": "Fallout Boy Meets World",
-    "duration_seconds": 15661,
+    "date": "2024-04-19",
+    "raw_date": "20240419",
     "duration_str": "4:21:01",
-    "url": "https://www.youtube.com/watch?v=uon0frZHI5U"
+    "duration_seconds": 15661,
+    "yt_id": "uon0frZHI5U",
+    "yt_url": "https://www.youtube.com/watch?v=uon0frZHI5U",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 306,
     "id": "h0joE2H03nQ",
     "title": "Grimey Coachella, Israel Check In, We Can Talk to Whales? It's NEWS and/or SCIENCE?",
-    "duration_seconds": 7802,
+    "date": "2024-04-17",
+    "raw_date": "20240417",
     "duration_str": "2:10:02",
-    "url": "https://www.youtube.com/watch?v=h0joE2H03nQ"
+    "duration_seconds": 7802,
+    "yt_id": "h0joE2H03nQ",
+    "yt_url": "https://www.youtube.com/watch?v=h0joE2H03nQ",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 307,
     "id": "h3RpC3MAvRg",
     "title": "Fountain of Youth is... Salmon Sperm, The Inevitable Wonka 2, Cybertucking Along, it's phrases th\u2026",
-    "duration_seconds": 9519,
+    "date": "2024-04-16",
+    "raw_date": "20240416",
     "duration_str": "2:38:39",
-    "url": "https://www.youtube.com/watch?v=h3RpC3MAvRg"
+    "duration_seconds": 9519,
+    "yt_id": "h3RpC3MAvRg",
+    "yt_url": "https://www.youtube.com/watch?v=h3RpC3MAvRg",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 308,
     "id": "-7SyMp1VkMM",
     "title": "Back in the Resident",
-    "duration_seconds": 11217,
+    "date": "2024-04-13",
+    "raw_date": "20240413",
     "duration_str": "3:06:57",
-    "url": "https://www.youtube.com/watch?v=-7SyMp1VkMM"
+    "duration_seconds": 11217,
+    "yt_id": "-7SyMp1VkMM",
+    "yt_url": "https://www.youtube.com/watch?v=-7SyMp1VkMM",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 309,
     "id": "nU9DEMPKhx8",
     "title": "A.I. Learns New Music and Racism? Cicada Sex Zombies? Eclipse Nuts? All thiings that could be NEWS",
-    "duration_seconds": 8092,
+    "date": "2024-04-10",
+    "raw_date": "20240410",
     "duration_str": "2:14:52",
-    "url": "https://www.youtube.com/watch?v=nU9DEMPKhx8"
+    "duration_seconds": 8092,
+    "yt_id": "nU9DEMPKhx8",
+    "yt_url": "https://www.youtube.com/watch?v=nU9DEMPKhx8",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 310,
     "id": "GJ5t-e-9U9U",
     "title": "Pirate Slaying RE4",
-    "duration_seconds": 12063,
+    "date": "2024-04-09",
+    "raw_date": "20240409",
     "duration_str": "3:21:03",
-    "url": "https://www.youtube.com/watch?v=GJ5t-e-9U9U"
+    "duration_seconds": 12063,
+    "yt_id": "GJ5t-e-9U9U",
+    "yt_url": "https://www.youtube.com/watch?v=GJ5t-e-9U9U",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 311,
     "id": "h48FA_yrQs0",
     "title": "Actual Calls for Ceasfire? AI Survivor Contestant? Invisibility Shields? it is NEWS?",
-    "duration_seconds": 10693,
+    "date": "2024-04-04",
+    "raw_date": "20240404",
     "duration_str": "2:58:13",
-    "url": "https://www.youtube.com/watch?v=h48FA_yrQs0"
+    "duration_seconds": 10693,
+    "yt_id": "h48FA_yrQs0",
+    "yt_url": "https://www.youtube.com/watch?v=h48FA_yrQs0",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 312,
     "id": "uqwmNhOs5cA",
     "title": "Resident Eviling",
-    "duration_seconds": 11817,
+    "date": "2024-04-03",
+    "raw_date": "20240403",
     "duration_str": "3:16:57",
-    "url": "https://www.youtube.com/watch?v=uqwmNhOs5cA"
+    "duration_seconds": 11817,
+    "yt_id": "uqwmNhOs5cA",
+    "yt_url": "https://www.youtube.com/watch?v=uqwmNhOs5cA",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 313,
     "id": "tCYDD4ndbDM",
     "title": "Liz Hurley's Son Very Comfortable with Self, Cicada-geddon, Free Chess Vibrators, it's supposedly\u2026",
-    "duration_seconds": 7368,
+    "date": "2024-04-02",
+    "raw_date": "20240402",
     "duration_str": "2:02:48",
-    "url": "https://www.youtube.com/watch?v=tCYDD4ndbDM"
+    "duration_seconds": 7368,
+    "yt_id": "tCYDD4ndbDM",
+    "yt_url": "https://www.youtube.com/watch?v=tCYDD4ndbDM",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 314,
     "id": "qXdCdu7z8oA",
     "title": "Finally Beating RE4 (got my CIA job back)",
-    "duration_seconds": 7871,
+    "date": "2024-03-29",
+    "raw_date": "20240329",
     "duration_str": "2:11:11",
-    "url": "https://www.youtube.com/watch?v=qXdCdu7z8oA"
+    "duration_seconds": 7871,
+    "yt_id": "qXdCdu7z8oA",
+    "yt_url": "https://www.youtube.com/watch?v=qXdCdu7z8oA",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 315,
     "id": "i6D48dIRi0w",
     "title": "News and Science Guys who are Chet",
-    "duration_seconds": 7599,
+    "date": "2024-03-28",
+    "raw_date": "20240328",
     "duration_str": "2:06:39",
-    "url": "https://www.youtube.com/watch?v=i6D48dIRi0w"
+    "duration_seconds": 7599,
+    "yt_id": "i6D48dIRi0w",
+    "yt_url": "https://www.youtube.com/watch?v=i6D48dIRi0w",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 316,
     "id": "6IEUkP-sdKk",
     "title": "News and Science Guys who are Chet",
-    "duration_seconds": 4273,
+    "date": "2024-03-27",
+    "raw_date": "20240327",
     "duration_str": "1:11:13",
-    "url": "https://www.youtube.com/watch?v=6IEUkP-sdKk"
+    "duration_seconds": 4273,
+    "yt_id": "6IEUkP-sdKk",
+    "yt_url": "https://www.youtube.com/watch?v=6IEUkP-sdKk",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 317,
     "id": "tb_paDxQs8k",
     "title": "Diddy Raids, Neuralink Mario Kart, Twitch SEXIER than ever? That's GOTTA be NEWS",
-    "duration_seconds": 5168,
+    "date": "2024-03-26",
+    "raw_date": "20240326",
     "duration_str": "1:26:08",
-    "url": "https://www.youtube.com/watch?v=tb_paDxQs8k"
+    "duration_seconds": 5168,
+    "yt_id": "tb_paDxQs8k",
+    "yt_url": "https://www.youtube.com/watch?v=tb_paDxQs8k",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 318,
     "id": "WSjFvY_g9tU",
     "title": "Exercise Pills that Work? Kota-K.O.? Apple Bad? It's NUUUS (news)",
-    "duration_seconds": 5794,
+    "date": "2024-03-21",
+    "raw_date": "20240321",
     "duration_str": "1:36:34",
-    "url": "https://www.youtube.com/watch?v=WSjFvY_g9tU"
+    "duration_seconds": 5794,
+    "yt_id": "WSjFvY_g9tU",
+    "yt_url": "https://www.youtube.com/watch?v=WSjFvY_g9tU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 319,
     "id": "zV8vLxiWkLY",
     "title": "Two Genitals, Two Boyfriends, Tucker Tricked, Trump Stuff Maybe? There's probably NEWS",
-    "duration_seconds": 8741,
+    "date": "2024-03-18",
+    "raw_date": "20240318",
     "duration_str": "2:25:41",
-    "url": "https://www.youtube.com/watch?v=zV8vLxiWkLY"
+    "duration_seconds": 8741,
+    "yt_id": "zV8vLxiWkLY",
+    "yt_url": "https://www.youtube.com/watch?v=zV8vLxiWkLY",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 320,
     "id": "MEdieUXyfBU",
     "title": "End of the Beast Era? Boeing 187s Informant? Red Hitler Ranger? These are words that are NEWS",
-    "duration_seconds": 10404,
+    "date": "2024-03-14",
+    "raw_date": "20240314",
     "duration_str": "2:53:24",
-    "url": "https://www.youtube.com/watch?v=MEdieUXyfBU"
+    "duration_seconds": 10404,
+    "yt_id": "MEdieUXyfBU",
+    "yt_url": "https://www.youtube.com/watch?v=MEdieUXyfBU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 321,
     "id": "YoRiwFszQmM",
     "title": "Tampon Attacks, AI Rat Dick, Leap Day Crashes, there's NEWS in these hills",
-    "duration_seconds": 8790,
+    "date": "2024-03-01",
+    "raw_date": "20240301",
     "duration_str": "2:26:30",
-    "url": "https://www.youtube.com/watch?v=YoRiwFszQmM"
+    "duration_seconds": 8790,
+    "yt_id": "YoRiwFszQmM",
+    "yt_url": "https://www.youtube.com/watch?v=YoRiwFszQmM",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 322,
     "id": "HsARa2c80x4",
     "title": "NEWS? NEWS!",
-    "duration_seconds": 10832,
+    "date": "2024-02-29",
+    "raw_date": "20240229",
     "duration_str": "3:00:32",
-    "url": "https://www.youtube.com/watch?v=HsARa2c80x4"
+    "duration_seconds": 10832,
+    "yt_id": "HsARa2c80x4",
+    "yt_url": "https://www.youtube.com/watch?v=HsARa2c80x4",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 323,
     "id": "RErv_n1vBKs",
     "title": "Psychic Google, Wendy's Surge Pricing, Sony Un-stations Employees - NEWS? NEWS!",
-    "duration_seconds": 8377,
+    "date": "2024-02-27",
+    "raw_date": "20240227",
     "duration_str": "2:19:37",
-    "url": "https://www.youtube.com/watch?v=RErv_n1vBKs"
+    "duration_seconds": 8377,
+    "yt_id": "RErv_n1vBKs",
+    "yt_url": "https://www.youtube.com/watch?v=RErv_n1vBKs",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 324,
     "id": "TtRo3N_8XRs",
     "title": "The Cream Team Dream Stream - presented by Hart Audio",
-    "duration_seconds": 4090,
+    "date": "2024-02-26",
+    "raw_date": "20240226",
     "duration_str": "1:08:10",
-    "url": "https://www.youtube.com/watch?v=TtRo3N_8XRs"
+    "duration_seconds": 4090,
+    "yt_id": "TtRo3N_8XRs",
+    "yt_url": "https://www.youtube.com/watch?v=TtRo3N_8XRs",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 325,
     "id": "7dFZGOzJZlQ",
     "title": "Late Night Helldiving",
-    "duration_seconds": 8359,
+    "date": "2024-02-23",
+    "raw_date": "20240223",
     "duration_str": "2:19:19",
-    "url": "https://www.youtube.com/watch?v=7dFZGOzJZlQ"
+    "duration_seconds": 8359,
+    "yt_id": "7dFZGOzJZlQ",
+    "yt_url": "https://www.youtube.com/watch?v=7dFZGOzJZlQ",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 326,
     "id": "b8Z_7MPVXng",
     "title": "Nerualink Mice, Lockbit Lockdown, Nobody Likes Money Shots? At least on is NEWS",
-    "duration_seconds": 7556,
+    "date": "2024-02-20",
+    "raw_date": "20240220",
     "duration_str": "2:05:56",
-    "url": "https://www.youtube.com/watch?v=b8Z_7MPVXng"
+    "duration_seconds": 7556,
+    "yt_id": "b8Z_7MPVXng",
+    "yt_url": "https://www.youtube.com/watch?v=b8Z_7MPVXng",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 327,
     "id": "oHJXJu3AtmE",
     "title": "Cream Team Dream(ish) Stream - presented by Hart Audio",
-    "duration_seconds": 4134,
+    "date": "2024-02-19",
+    "raw_date": "20240219",
     "duration_str": "1:08:54",
-    "url": "https://www.youtube.com/watch?v=oHJXJu3AtmE"
+    "duration_seconds": 4134,
+    "yt_id": "oHJXJu3AtmE",
+    "yt_url": "https://www.youtube.com/watch?v=oHJXJu3AtmE",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 328,
     "id": "zEmmbc3NZ1c",
     "title": "Sora Keyblades AI Video, AI Job Application Tests, Exploding Penises, it's probably all AI News",
-    "duration_seconds": 9814,
+    "date": "2024-02-16",
+    "raw_date": "20240216",
     "duration_str": "2:43:34",
-    "url": "https://www.youtube.com/watch?v=zEmmbc3NZ1c"
+    "duration_seconds": 9814,
+    "yt_id": "zEmmbc3NZ1c",
+    "yt_url": "https://www.youtube.com/watch?v=zEmmbc3NZ1c",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 329,
     "id": "1wvNi-9f-rM",
     "title": "Delta In Flight Maggots, Gaza Horror Check In, Super Wolves? It's Two Dumb NEWS and a real NEWS",
-    "duration_seconds": 9488,
+    "date": "2024-02-15",
+    "raw_date": "20240215",
     "duration_str": "2:38:08",
-    "url": "https://www.youtube.com/watch?v=1wvNi-9f-rM"
+    "duration_seconds": 9488,
+    "yt_id": "1wvNi-9f-rM",
+    "yt_url": "https://www.youtube.com/watch?v=1wvNi-9f-rM",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 330,
     "id": "OAq9wosVy00",
     "title": "Newsing w/ Jon Matteson",
-    "duration_seconds": 5584,
+    "date": "2024-02-15",
+    "raw_date": "20240215",
     "duration_str": "1:33:04",
-    "url": "https://www.youtube.com/watch?v=OAq9wosVy00"
+    "duration_seconds": 5584,
+    "yt_id": "OAq9wosVy00",
+    "yt_url": "https://www.youtube.com/watch?v=OAq9wosVy00",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 331,
     "id": "wsw-paXfPp8",
     "title": "All My Correspondents Called In Sick, but We Found Fill Ins!",
-    "duration_seconds": 7856,
+    "date": "2024-02-09",
+    "raw_date": "20240209",
     "duration_str": "2:10:56",
-    "url": "https://www.youtube.com/watch?v=wsw-paXfPp8"
+    "duration_seconds": 7856,
+    "yt_id": "wsw-paXfPp8",
+    "yt_url": "https://www.youtube.com/watch?v=wsw-paXfPp8",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 332,
     "id": "-1KwRplR-y4",
     "title": "Quick Thursday Stream",
-    "duration_seconds": 6709,
+    "date": "2024-02-09",
+    "raw_date": "20240209",
     "duration_str": "1:51:49",
-    "url": "https://www.youtube.com/watch?v=-1KwRplR-y4"
+    "duration_seconds": 6709,
+    "yt_id": "-1KwRplR-y4",
+    "yt_url": "https://www.youtube.com/watch?v=-1KwRplR-y4",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 333,
     "id": "2f8_nHwMAo4",
     "title": "Drake Dicks, Apple Vision Dicks, Gina Carano Dicks? It's NEWS dicks",
-    "duration_seconds": 9198,
+    "date": "2024-02-07",
+    "raw_date": "20240207",
     "duration_str": "2:33:18",
-    "url": "https://www.youtube.com/watch?v=2f8_nHwMAo4"
+    "duration_seconds": 9198,
+    "yt_id": "2f8_nHwMAo4",
+    "yt_url": "https://www.youtube.com/watch?v=2f8_nHwMAo4",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 334,
     "id": "glJgNb9ZUXU",
     "title": "BioHacker NFTs, Shrinking Moons, Syphilis, and other diseases that NEWS",
-    "duration_seconds": 8726,
+    "date": "2024-02-02",
+    "raw_date": "20240202",
     "duration_str": "2:25:26",
-    "url": "https://www.youtube.com/watch?v=glJgNb9ZUXU"
+    "duration_seconds": 8726,
+    "yt_id": "glJgNb9ZUXU",
+    "yt_url": "https://www.youtube.com/watch?v=glJgNb9ZUXU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 335,
     "id": "NKxQg3CrVcA",
     "title": "Quick News Stream Before Patreon",
-    "duration_seconds": 3807,
+    "date": "2024-02-01",
+    "raw_date": "20240201",
     "duration_str": "1:03:27",
-    "url": "https://www.youtube.com/watch?v=NKxQg3CrVcA"
+    "duration_seconds": 3807,
+    "yt_id": "NKxQg3CrVcA",
+    "yt_url": "https://www.youtube.com/watch?v=NKxQg3CrVcA",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 336,
     "id": "eR4IUHzwua4",
     "title": "WWEeeehh, Taylor AI. Trump Payouts, the NEWS is back and still BAD",
-    "duration_seconds": 5857,
+    "date": "2024-01-27",
+    "raw_date": "20240127",
     "duration_str": "1:37:37",
-    "url": "https://www.youtube.com/watch?v=eR4IUHzwua4"
+    "duration_seconds": 5857,
+    "yt_id": "eR4IUHzwua4",
+    "yt_url": "https://www.youtube.com/watch?v=eR4IUHzwua4",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 337,
     "id": "NZA7xxMYLvI",
     "title": "Late Night Lethal Modity",
-    "duration_seconds": 12119,
+    "date": "2024-01-20",
+    "raw_date": "20240120",
     "duration_str": "3:21:59",
-    "url": "https://www.youtube.com/watch?v=NZA7xxMYLvI"
+    "duration_seconds": 12119,
+    "yt_id": "NZA7xxMYLvI",
+    "yt_url": "https://www.youtube.com/watch?v=NZA7xxMYLvI",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 338,
     "id": "5P3u9f8zacQ",
     "title": "Fi's 12 Hour Cream Company",
-    "duration_seconds": 11646,
+    "date": "2024-01-19",
+    "raw_date": "20240119",
     "duration_str": "3:14:06",
-    "url": "https://www.youtube.com/watch?v=5P3u9f8zacQ"
+    "duration_seconds": 11646,
+    "yt_id": "5P3u9f8zacQ",
+    "yt_url": "https://www.youtube.com/watch?v=5P3u9f8zacQ",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 339,
     "id": "1pZwg_g2jT4",
     "title": "Quick News then Lethal Cream",
-    "duration_seconds": 3795,
+    "date": "2024-01-19",
+    "raw_date": "20240119",
     "duration_str": "1:03:15",
-    "url": "https://www.youtube.com/watch?v=1pZwg_g2jT4"
+    "duration_seconds": 3795,
+    "yt_id": "1pZwg_g2jT4",
+    "yt_url": "https://www.youtube.com/watch?v=1pZwg_g2jT4",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 340,
     "id": "e1eUXUDvw_8",
     "title": "Phasmofionanova",
-    "duration_seconds": 4729,
+    "date": "2024-01-18",
+    "raw_date": "20240118",
     "duration_str": "1:18:49",
-    "url": "https://www.youtube.com/watch?v=e1eUXUDvw_8"
+    "duration_seconds": 4729,
+    "yt_id": "e1eUXUDvw_8",
+    "yt_url": "https://www.youtube.com/watch?v=e1eUXUDvw_8",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 341,
     "id": "GgZ8pG-gib4",
     "title": "Desanticide Watch, AI Stimulation, Definitely Real Alien Lights, it's NEWS",
-    "duration_seconds": 7420,
+    "date": "2024-01-17",
+    "raw_date": "20240117",
     "duration_str": "2:03:40",
-    "url": "https://www.youtube.com/watch?v=GgZ8pG-gib4"
+    "duration_seconds": 7420,
+    "yt_id": "GgZ8pG-gib4",
+    "yt_url": "https://www.youtube.com/watch?v=GgZ8pG-gib4",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 342,
     "id": "G1zqyb8N25Q",
     "title": "Para-Sale, AI So Special, Trump Paying Lib Service - NEWS!?",
-    "duration_seconds": 8616,
+    "date": "2024-01-13",
+    "raw_date": "20240113",
     "duration_str": "2:23:36",
-    "url": "https://www.youtube.com/watch?v=G1zqyb8N25Q"
+    "duration_seconds": 8616,
+    "yt_id": "G1zqyb8N25Q",
+    "yt_url": "https://www.youtube.com/watch?v=G1zqyb8N25Q",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 343,
     "id": "H9d5sUAABJY",
     "title": "Cream Company",
-    "duration_seconds": 6312,
+    "date": "2024-01-12",
+    "raw_date": "20240112",
     "duration_str": "1:45:12",
-    "url": "https://www.youtube.com/watch?v=H9d5sUAABJY"
+    "duration_seconds": 6312,
+    "yt_id": "H9d5sUAABJY",
+    "yt_url": "https://www.youtube.com/watch?v=H9d5sUAABJY",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 344,
     "id": "JyWx-KRXRXY",
     "title": "Exploding Toilets, Anti Ageing for All,  10ft Aliens - it's sort of NEWS",
-    "duration_seconds": 4294,
+    "date": "2024-01-12",
+    "raw_date": "20240112",
     "duration_str": "1:11:34",
-    "url": "https://www.youtube.com/watch?v=JyWx-KRXRXY"
+    "duration_seconds": 4294,
+    "yt_id": "JyWx-KRXRXY",
+    "yt_url": "https://www.youtube.com/watch?v=JyWx-KRXRXY",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 345,
     "id": "Rc2Qh2cwt7s",
     "title": "The Great Lethal Off! Crushing @missginadarling & @ovileemay w/ team @fionanova & @kassemg",
-    "duration_seconds": 19020,
+    "date": "2024-01-09",
+    "raw_date": "20240109",
     "duration_str": "5:17:00",
-    "url": "https://www.youtube.com/watch?v=Rc2Qh2cwt7s"
+    "duration_seconds": 19020,
+    "yt_id": "Rc2Qh2cwt7s",
+    "yt_url": "https://www.youtube.com/watch?v=Rc2Qh2cwt7s",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 346,
     "id": "cx5fBPbLfBQ",
     "title": "Logan Bought a Cryptozoo, Self Love, Blah Blah Trump, it's NEWS",
-    "duration_seconds": 7690,
+    "date": "2024-01-05",
+    "raw_date": "20240105",
     "duration_str": "2:08:10",
-    "url": "https://www.youtube.com/watch?v=cx5fBPbLfBQ"
+    "duration_seconds": 7690,
+    "yt_id": "cx5fBPbLfBQ",
+    "yt_url": "https://www.youtube.com/watch?v=cx5fBPbLfBQ",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 347,
     "id": "3JMLOZeaRIM",
     "title": "Cream Company",
-    "duration_seconds": 11498,
+    "date": "2024-01-05",
+    "raw_date": "20240105",
     "duration_str": "3:11:38",
-    "url": "https://www.youtube.com/watch?v=3JMLOZeaRIM"
+    "duration_seconds": 11498,
+    "yt_id": "3JMLOZeaRIM",
+    "yt_url": "https://www.youtube.com/watch?v=3JMLOZeaRIM",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 348,
     "id": "yHz1R0hOixg",
     "title": "Returnal to the News",
-    "duration_seconds": 6852,
+    "date": "2024-01-05",
+    "raw_date": "20240105",
     "duration_str": "1:54:12",
-    "url": "https://www.youtube.com/watch?v=yHz1R0hOixg"
+    "duration_seconds": 6852,
+    "yt_id": "yHz1R0hOixg",
+    "yt_url": "https://www.youtube.com/watch?v=yHz1R0hOixg",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 349,
     "id": "2BQcxy1GwQ0",
     "title": "Endless Company",
-    "duration_seconds": 12124,
+    "date": "2024-01-04",
+    "raw_date": "20240104",
     "duration_str": "3:22:04",
-    "url": "https://www.youtube.com/watch?v=2BQcxy1GwQ0"
+    "duration_seconds": 12124,
+    "yt_id": "2BQcxy1GwQ0",
+    "yt_url": "https://www.youtube.com/watch?v=2BQcxy1GwQ0",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 350,
     "id": "Ym67pD8e6dc",
     "title": "Cream Company",
-    "duration_seconds": 16267,
+    "date": "2024-01-03",
+    "raw_date": "20240103",
     "duration_str": "4:31:07",
-    "url": "https://www.youtube.com/watch?v=Ym67pD8e6dc"
+    "duration_seconds": 16267,
+    "yt_id": "Ym67pD8e6dc",
+    "yt_url": "https://www.youtube.com/watch?v=Ym67pD8e6dc",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 351,
     "id": "-PJ3hpUKf-g",
     "title": "Fi Company",
-    "duration_seconds": 16630,
+    "date": "2024-01-02",
+    "raw_date": "20240102",
     "duration_str": "4:37:10",
-    "url": "https://www.youtube.com/watch?v=-PJ3hpUKf-g"
+    "duration_seconds": 16630,
+    "yt_id": "-PJ3hpUKf-g",
+    "yt_url": "https://www.youtube.com/watch?v=-PJ3hpUKf-g",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 352,
     "id": "1u_LMzdmpe0",
     "title": "The 2023 Barely Awards",
-    "duration_seconds": 13427,
+    "date": "2023-12-31",
+    "raw_date": "20231231",
     "duration_str": "3:43:47",
-    "url": "https://www.youtube.com/watch?v=1u_LMzdmpe0"
+    "duration_seconds": 13427,
+    "yt_id": "1u_LMzdmpe0",
+    "yt_url": "https://www.youtube.com/watch?v=1u_LMzdmpe0",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 353,
     "id": "GIpN8hsz3vI",
     "title": "Case and Kendelle Company",
-    "duration_seconds": 20901,
+    "date": "2023-12-31",
+    "raw_date": "20231231",
     "duration_str": "5:48:21",
-    "url": "https://www.youtube.com/watch?v=GIpN8hsz3vI"
+    "duration_seconds": 20901,
+    "yt_id": "GIpN8hsz3vI",
+    "yt_url": "https://www.youtube.com/watch?v=GIpN8hsz3vI",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 354,
     "id": "J8kzyFlpwEs",
     "title": "Quick Friday Night Newzzz",
-    "duration_seconds": 5680,
+    "date": "2023-12-30",
+    "raw_date": "20231230",
     "duration_str": "1:34:40",
-    "url": "https://www.youtube.com/watch?v=J8kzyFlpwEs"
+    "duration_seconds": 5680,
+    "yt_id": "J8kzyFlpwEs",
+    "yt_url": "https://www.youtube.com/watch?v=J8kzyFlpwEs",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 355,
     "id": "Q994QG9CwLk",
     "title": "Post Christmas Company",
-    "duration_seconds": 13137,
+    "date": "2023-12-29",
+    "raw_date": "20231229",
     "duration_str": "3:38:57",
-    "url": "https://www.youtube.com/watch?v=Q994QG9CwLk"
+    "duration_seconds": 13137,
+    "yt_id": "Q994QG9CwLk",
+    "yt_url": "https://www.youtube.com/watch?v=Q994QG9CwLk",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 356,
     "id": "GJ46ADmIPkU",
     "title": "Post Christmas Company",
-    "duration_seconds": 16446,
+    "date": "2023-12-27",
+    "raw_date": "20231227",
     "duration_str": "4:34:06",
-    "url": "https://www.youtube.com/watch?v=GJ46ADmIPkU"
+    "duration_seconds": 16446,
+    "yt_id": "GJ46ADmIPkU",
+    "yt_url": "https://www.youtube.com/watch?v=GJ46ADmIPkU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 357,
     "id": "TE6TvEDz5I8",
     "title": "Deck the News with Dick News Stories",
-    "duration_seconds": 5886,
+    "date": "2023-12-21",
+    "raw_date": "20231221",
     "duration_str": "1:38:06",
-    "url": "https://www.youtube.com/watch?v=TE6TvEDz5I8"
+    "duration_seconds": 5886,
+    "yt_id": "TE6TvEDz5I8",
+    "yt_url": "https://www.youtube.com/watch?v=TE6TvEDz5I8",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 358,
     "id": "bUgo6CtCkHU",
     "title": "Solo Company (unless I make friends or Kendelle wakes up)",
-    "duration_seconds": 16507,
+    "date": "2023-12-19",
+    "raw_date": "20231219",
     "duration_str": "4:35:07",
-    "url": "https://www.youtube.com/watch?v=bUgo6CtCkHU"
+    "duration_seconds": 16507,
+    "yt_id": "bUgo6CtCkHU",
+    "yt_url": "https://www.youtube.com/watch?v=bUgo6CtCkHU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 359,
     "id": "5m35zq3Yh8A",
     "title": "Grunchmas Time is Here",
-    "duration_seconds": 11282,
+    "date": "2023-12-18",
+    "raw_date": "20231218",
     "duration_str": "3:08:02",
-    "url": "https://www.youtube.com/watch?v=5m35zq3Yh8A"
+    "duration_seconds": 11282,
+    "yt_id": "5m35zq3Yh8A",
+    "yt_url": "https://www.youtube.com/watch?v=5m35zq3Yh8A",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 360,
     "id": "U4Sm2UnvH2c",
     "title": "Artistically Nude No More, Rudy Payments, Chuck E. Selling, it's NEWZZZ",
-    "duration_seconds": 8948,
+    "date": "2023-12-16",
+    "raw_date": "20231216",
     "duration_str": "2:29:08",
-    "url": "https://www.youtube.com/watch?v=U4Sm2UnvH2c"
+    "duration_seconds": 8948,
+    "yt_id": "U4Sm2UnvH2c",
+    "yt_url": "https://www.youtube.com/watch?v=U4Sm2UnvH2c",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 361,
     "id": "i1Acx1I0wY8",
     "title": "Lethal Cream Company",
-    "duration_seconds": 19685,
+    "date": "2023-12-15",
+    "raw_date": "20231215",
     "duration_str": "5:28:05",
-    "url": "https://www.youtube.com/watch?v=i1Acx1I0wY8"
+    "duration_seconds": 19685,
+    "yt_id": "i1Acx1I0wY8",
+    "yt_url": "https://www.youtube.com/watch?v=i1Acx1I0wY8",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 362,
     "id": "avYCesK1H4w",
     "title": "Quick News then Lethal Company",
-    "duration_seconds": 3041,
+    "date": "2023-12-14",
+    "raw_date": "20231214",
     "duration_str": "50:41",
-    "url": "https://www.youtube.com/watch?v=avYCesK1H4w"
+    "duration_seconds": 3041,
+    "yt_id": "avYCesK1H4w",
+    "yt_url": "https://www.youtube.com/watch?v=avYCesK1H4w",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 363,
     "id": "6GsHIGin3SQ",
     "title": "Lethal Cream Company",
-    "duration_seconds": 3893,
+    "date": "2023-12-13",
+    "raw_date": "20231213",
     "duration_str": "1:04:53",
-    "url": "https://www.youtube.com/watch?v=6GsHIGin3SQ"
+    "duration_seconds": 3893,
+    "yt_id": "6GsHIGin3SQ",
+    "yt_url": "https://www.youtube.com/watch?v=6GsHIGin3SQ",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 364,
     "id": "o0bVkc_PPFs",
     "title": "The Cream Team Dream Stream - presented by Hart Audio",
-    "duration_seconds": 12182,
+    "date": "2023-12-12",
+    "raw_date": "20231212",
     "duration_str": "3:23:02",
-    "url": "https://www.youtube.com/watch?v=o0bVkc_PPFs"
+    "duration_seconds": 12182,
+    "yt_id": "o0bVkc_PPFs",
+    "yt_url": "https://www.youtube.com/watch?v=o0bVkc_PPFs",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 365,
     "id": "HzCwzevOQ7Y",
     "title": "Lethal Cream Company",
-    "duration_seconds": 11206,
+    "date": "2023-12-12",
+    "raw_date": "20231212",
     "duration_str": "3:06:46",
-    "url": "https://www.youtube.com/watch?v=HzCwzevOQ7Y"
+    "duration_seconds": 11206,
+    "yt_id": "HzCwzevOQ7Y",
+    "yt_url": "https://www.youtube.com/watch?v=HzCwzevOQ7Y",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 366,
     "id": "SUbhyRiToyQ",
     "title": "Some News then Some Company",
-    "duration_seconds": 6741,
+    "date": "2023-12-12",
+    "raw_date": "20231212",
     "duration_str": "1:52:21",
-    "url": "https://www.youtube.com/watch?v=SUbhyRiToyQ"
+    "duration_seconds": 6741,
+    "yt_id": "SUbhyRiToyQ",
+    "yt_url": "https://www.youtube.com/watch?v=SUbhyRiToyQ",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 367,
     "id": "a5A5FfhhehU",
     "title": "Sunday Lethaling With Some Comapny",
-    "duration_seconds": 21147,
+    "date": "2023-12-11",
+    "raw_date": "20231211",
     "duration_str": "5:52:27",
-    "url": "https://www.youtube.com/watch?v=a5A5FfhhehU"
+    "duration_seconds": 21147,
+    "yt_id": "a5A5FfhhehU",
+    "yt_url": "https://www.youtube.com/watch?v=a5A5FfhhehU",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 368,
     "id": "bldjU0QVKbc",
     "title": "Returnal to the News - then Lethal Slam Company",
-    "duration_seconds": 14063,
+    "date": "2023-12-08",
+    "raw_date": "20231208",
     "duration_str": "3:54:23",
-    "url": "https://www.youtube.com/watch?v=bldjU0QVKbc"
+    "duration_seconds": 14063,
+    "yt_id": "bldjU0QVKbc",
+    "yt_url": "https://www.youtube.com/watch?v=bldjU0QVKbc",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 369,
     "id": "hfqDTBunWiY",
     "title": "Lethal Extra Cream Company",
-    "duration_seconds": 8130,
+    "date": "2023-12-06",
+    "raw_date": "20231206",
     "duration_str": "2:15:30",
-    "url": "https://www.youtube.com/watch?v=hfqDTBunWiY"
+    "duration_seconds": 8130,
+    "yt_id": "hfqDTBunWiY",
+    "yt_url": "https://www.youtube.com/watch?v=hfqDTBunWiY",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 370,
     "id": "4X5ZdimKD-w",
     "title": "Lethal Cream Company",
-    "duration_seconds": 7370,
+    "date": "2023-12-05",
+    "raw_date": "20231205",
     "duration_str": "2:02:50",
-    "url": "https://www.youtube.com/watch?v=4X5ZdimKD-w"
+    "duration_seconds": 7370,
+    "yt_id": "4X5ZdimKD-w",
+    "yt_url": "https://www.youtube.com/watch?v=4X5ZdimKD-w",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 371,
     "id": "KYt3i33Zq8c",
     "title": "ChatGP-War, Young Thug Trial, an End to No Nut, it's NEWZZZ",
-    "duration_seconds": 6725,
+    "date": "2023-12-02",
+    "raw_date": "20231202",
     "duration_str": "1:52:05",
-    "url": "https://www.youtube.com/watch?v=KYt3i33Zq8c"
+    "duration_seconds": 6725,
+    "yt_id": "KYt3i33Zq8c",
+    "yt_url": "https://www.youtube.com/watch?v=KYt3i33Zq8c",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 372,
     "id": "r0pO8W4TSDg",
     "title": "Kissingrave, Masturbation World Record (unrelated), and Lethal Cream Company with Fi",
-    "duration_seconds": 11883,
+    "date": "2023-11-30",
+    "raw_date": "20231130",
     "duration_str": "3:18:03",
-    "url": "https://www.youtube.com/watch?v=r0pO8W4TSDg"
+    "duration_seconds": 11883,
+    "yt_id": "r0pO8W4TSDg",
+    "yt_url": "https://www.youtube.com/watch?v=r0pO8W4TSDg",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 373,
     "id": "Vhjv_2bvwlc",
     "title": "Lethal Cream Company",
-    "duration_seconds": 6434,
+    "date": "2023-11-30",
+    "raw_date": "20231130",
     "duration_str": "1:47:14",
-    "url": "https://www.youtube.com/watch?v=Vhjv_2bvwlc"
+    "duration_seconds": 6434,
+    "yt_id": "Vhjv_2bvwlc",
+    "yt_url": "https://www.youtube.com/watch?v=Vhjv_2bvwlc",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 374,
     "id": "SFJ6YhAsL1w",
     "title": "AI Articles Attack, Frozen Dicks Freeze, Disney Streaks, it's NEWS supposedly",
-    "duration_seconds": 7976,
+    "date": "2023-11-28",
+    "raw_date": "20231128",
     "duration_str": "2:12:56",
-    "url": "https://www.youtube.com/watch?v=SFJ6YhAsL1w"
+    "duration_seconds": 7976,
+    "yt_id": "SFJ6YhAsL1w",
+    "yt_url": "https://www.youtube.com/watch?v=SFJ6YhAsL1w",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 375,
     "id": "LWcsZ959nlY",
     "title": "Macy's Day Parade - LIVE! (probably",
-    "duration_seconds": 8061,
+    "date": "2023-11-23",
+    "raw_date": "20231123",
     "duration_str": "2:14:21",
-    "url": "https://www.youtube.com/watch?v=LWcsZ959nlY"
+    "duration_seconds": 8061,
+    "yt_id": "LWcsZ959nlY",
+    "yt_url": "https://www.youtube.com/watch?v=LWcsZ959nlY",
+    "twitch_id": null,
+    "twitch_url": null
   },
   {
-    "index": 376,
     "id": "jbMSE_4v_TE",
     "title": "Open Relationship AI, Taco Bell Sex Parties, Endless Hangovers, it's NEWS maybe",
-    "duration_seconds": 8127,
+    "date": "2023-11-22",
+    "raw_date": "20231122",
     "duration_str": "2:15:27",
-    "url": "https://www.youtube.com/watch?v=jbMSE_4v_TE"
+    "duration_seconds": 8127,
+    "yt_id": "jbMSE_4v_TE",
+    "yt_url": "https://www.youtube.com/watch?v=jbMSE_4v_TE",
+    "twitch_id": null,
+    "twitch_url": null
   }
 ]

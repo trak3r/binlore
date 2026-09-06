@@ -12,6 +12,19 @@ def episode_stub_markdown(vod: Vod, *, run_id: str) -> str:
     date = vod.date_str or "unknown-date"
     title = f"Episode {date}"
     duration = format_duration(vod.duration)
+    date_val = vod.date_str or ""
+    is_twitch = "twitch.tv" in vod.url
+    vod_lines = []
+    if date_val:
+        vod_lines.append(f"- **Broadcast Date:** {date_val}")
+    if is_twitch:
+        vod_lines.append(f"- **Twitch VOD:** [{vod.title}]({vod.url}) (ID: `{vod.id}`)")
+    else:
+        vod_lines.append(f"- **VOD Archive:** [{vod.title}]({vod.url}) (ID: `{vod.id}`)")
+    vod_lines.append(f"- **Approx length:** {duration}")
+    vod_lines.append(f"- **Ingest run:** `tools/runs/{run_id}/`")
+    header_block = "\n".join(vod_lines)
+
     return f"""---
 title: "{title}"
 type: episode
@@ -25,9 +38,7 @@ tags:
 
 # {title}
 
-- **VOD:** [{vod.title}]({vod.url})
-- **Approx length:** {duration}
-- **Ingest run:** `tools/runs/{run_id}/`
+{header_block}
 
 ## Segment rundown
 
@@ -261,6 +272,17 @@ def update_episode_from_extraction(vod_id: str, extraction: dict[str, Any]) -> P
 
     overview_section = f"\n## Overview\n\n{summary}\n" if summary else ""
 
+    vod_header_lines = []
+    if date and date != "unknown-date":
+        vod_header_lines.append(f"- **Broadcast Date:** {date}")
+    if "twitch.tv" in vod_url:
+        vod_header_lines.append(f"- **Twitch VOD:** [{vod_title}]({vod_url}) (ID: `{vod_id}`)")
+    else:
+        vod_header_lines.append(f"- **VOD Archive:** [{vod_title}]({vod_url}) (ID: `{vod_id}`)")
+    vod_header_lines.append(f"- **Approx length:** {duration}")
+    vod_header_lines.append(f"- **Ingest run:** `tools/runs/{vod_id}/`")
+    vod_header_text = "\n".join(vod_header_lines)
+
     md_content = f"""---
 title: "{title}"
 type: episode
@@ -274,9 +296,7 @@ tags:
 
 # {title}
 
-- **VOD:** [{vod_title}]({vod_url})
-- **Approx length:** {duration}
-- **Ingest run:** `tools/runs/{vod_id}/`
+{vod_header_text}
 {overview_section}
 ## Segment rundown
 

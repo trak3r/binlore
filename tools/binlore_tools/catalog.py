@@ -9,23 +9,26 @@ CATALOG_JSON = TOOLS_ROOT / "youtube_catalog.json"
 
 def generate_episodes_index() -> None:
     if not CATALOG_JSON.exists():
-        raise FileNotFoundError(f"Missing {CATALOG_JSON}. Run youtube sync first.")
+        raise FileNotFoundError(f"Missing {CATALOG_JSON}.")
 
     with open(CATALOG_JSON, encoding="utf-8") as f:
         streams = json.load(f)
 
-    # Check for ingested episodes
+    # Check for ingested episodes in content/episodes/*.md
     ingested_map: dict[str, str] = {}
     for ep_file in CONTENT_EPISODES.glob("*.md"):
         if ep_file.name == "index.md":
             continue
         text = ep_file.read_text(encoding="utf-8")
+        if "draft: true" in text.lower():
+            continue
         stem = ep_file.stem
-        # Map common titles
-        if "High T Wednesday News" in text or "2863722826" in text or "ussukWsFgWI" in text:
-            ingested_map["ussukWsFgWI"] = stem
-        if "Artificially General News" in text or "2865460780" in text or "LqjPBi9lw_c" in text:
-            ingested_map["LqjPBi9lw_c"] = stem
+        for s in streams:
+            yt_id = s.get("yt_id") or s.get("id")
+            twitch_id = s.get("twitch_id")
+            s_date = s.get("date")
+            if (yt_id and yt_id in text) or (twitch_id and str(twitch_id) in text) or (s_date and stem == s_date):
+                ingested_map[yt_id] = stem
 
     total_streams = len(streams)
     total_seconds = sum(s.get("duration_seconds") or 0 for s in streams)
@@ -35,11 +38,16 @@ def generate_episodes_index() -> None:
 
     rows: list[str] = []
     for s in streams:
-        yt_id = s["id"]
+        yt_id = s.get("yt_id") or s["id"]
+        twitch_id = s.get("twitch_id")
+        twitch_url = s.get("twitch_url")
+        yt_url = s.get("yt_url") or f"https://www.youtube.com/watch?v={yt_id}"
         title = s["title"].replace("|", "/")
+        date_str = s.get("date") or "—"
         dur = s.get("duration_str") or "—"
-        idx = s.get("index", 0)
-        yt_url = s["url"]
+
+        vod_id_display = str(twitch_id) if twitch_id else yt_id
+        vod_id_source = "Twitch" if twitch_id else "YouTube"
 
         if yt_id in ingested_map:
             ep_slug = ingested_map[yt_id]
@@ -51,13 +59,27 @@ def generate_episodes_index() -> None:
             status_cell = '<span class="badge badge-backlog">⏳ Backlog</span>'
             status_raw = "backlog"
 
+        # Watch links
+        watch_links = []
+        if twitch_url:
+            watch_links.append(f'<a href="{twitch_url}" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a>')
+        watch_links.append(f'<a href="{yt_url}" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a>')
+        watch_cell = " ".join(watch_links)
+
+        # VOD ID badge
+        if twitch_id:
+            vod_cell = f'<code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">{twitch_id}</code>'
+        else:
+            vod_cell = f'<code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">{yt_id}</code>'
+
         row = (
-            f'<tr data-status="{status_raw}" data-title="{title.lower()}">'
-            f"<td>#{idx}</td>"
-            f"<td>{title_cell}</td>"
-            f"<td>{dur}</td>"
-            f"<td>{status_cell}</td>"
-            f'<td><a href="{yt_url}" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td>'
+            f'<tr data-status="{status_raw}" data-title="{title.lower()}" data-date="{date_str}" data-vod-id="{vod_id_display.lower()}">'
+            f'<td class="cell-date"><code>{date_str}</code></td>'
+            f'<td class="cell-title">{title_cell}</td>'
+            f'<td class="cell-vod">{vod_cell}</td>'
+            f'<td class="cell-dur">{dur}</td>'
+            f'<td class="cell-status">{status_cell}</td>'
+            f'<td class="cell-watch">{watch_cell}</td>'
             f"</tr>"
         )
         rows.append(row)
@@ -72,6 +94,11 @@ description: Complete broadcast archive and episode backlog for Barely Informed 
 # Episodes & Broadcast Backlog
 
 Complete stream archive tracked for *Barely Informed News*. Episodes are ingested from Twitch and YouTube streams to extract characters, segments, storylines, and lore.
+
+> **💡 Understanding Stream Dates, VOD IDs & Archives:**
+> - **Broadcast Dates:** Listed by air date (`YYYY-MM-DD`). Ingested episode wiki pages are slugified by broadcast date (e.g. `[[2026-09-04|Artificially General News]]`).
+> - **VOD IDs:** Live streams air on [Twitch (`caseblackwell`)](https://www.twitch.tv/caseblackwell), where Twitch assigns a numeric video ID (e.g. `2863722826`). These numeric IDs are the identifiers used with `./binlore` CLI commands (e.g. `./binlore ingest 2863722826` or `./binlore extract 2863722826`).
+> - **Twitch vs. YouTube:** Twitch automatically expires and purges past broadcasts after ~60 days. The complete historical backlog of 370+ streams since November 2023 is permanently preserved on the [Case Blackwell YouTube Archive](https://www.youtube.com/@CaseBlackwell/streams). Older streams without active Twitch VODs can be referenced or ingested using their YouTube video ID (e.g. `ZSjvjEED3KA`).
 
 <div class="backlog-stats-grid">
   <div class="stat-card">
@@ -100,7 +127,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
 
 <div class="episodes-controls">
   <div class="search-box">
-    <input type="text" id="episode-search" placeholder="Search episode titles..." />
+    <input type="text" id="episode-search" placeholder="Search by title, date (YYYY-MM-DD), or VOD ID..." />
   </div>
   <div class="filter-group">
     <select id="status-filter">
@@ -121,11 +148,12 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
 <table id="episodes-table" class="episodes-table">
   <thead>
     <tr>
-      <th style="width: 5rem;">#</th>
+      <th style="width: 7rem;">Date</th>
       <th>Stream Title</th>
-      <th style="width: 6rem;">Length</th>
-      <th style="width: 8rem;">Status</th>
-      <th style="width: 7rem;">Archive</th>
+      <th style="width: 8.5rem;">VOD ID</th>
+      <th style="width: 5.5rem;">Length</th>
+      <th style="width: 6.5rem;">Status</th>
+      <th style="width: 9.5rem;">Watch</th>
     </tr>
   </thead>
   <tbody>
@@ -175,7 +203,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
 }}
 .search-box {{
   flex: 1;
-  min-width: 200px;
+  min-width: 240px;
 }}
 .search-box input {{
   width: 100%;
@@ -198,12 +226,38 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   width: 100%;
   border-collapse: collapse;
 }}
+.cell-date code {{
+  font-size: 0.82rem;
+  background: transparent;
+  padding: 0;
+  color: var(--dark);
+}}
+.cell-vod {{
+  white-space: nowrap;
+}}
+.vod-pill {{
+  font-family: var(--codeFont);
+  font-size: 0.78rem;
+  padding: 0.15rem 0.4rem;
+  background: var(--lightgray);
+  border-radius: 4px;
+  user-select: all;
+}}
+.vod-pill.twitch-id {{
+  color: #9146ff;
+  border-left: 3px solid #9146ff;
+  font-weight: 600;
+}}
+.vod-pill.yt-id {{
+  color: var(--gray);
+}}
 .badge {{
   display: inline-block;
   padding: 0.2rem 0.5rem;
   border-radius: 4px;
   font-size: 0.75rem;
   font-weight: 600;
+  white-space: nowrap;
 }}
 .badge-ingested {{
   background: rgba(34, 197, 94, 0.15);
@@ -214,6 +268,40 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   background: rgba(148, 163, 184, 0.15);
   color: var(--gray);
   border: 1px solid var(--lightgray);
+}}
+.cell-watch {{
+  white-space: nowrap;
+}}
+.watch-link {{
+  display: inline-block;
+  padding: 0.15rem 0.45rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-decoration: none;
+  margin-right: 0.25rem;
+  transition: all 0.15s ease;
+  white-space: nowrap;
+}}
+.twitch-link {{
+  background: rgba(145, 70, 255, 0.12);
+  color: #9146ff !important;
+  border: 1px solid rgba(145, 70, 255, 0.35);
+}}
+.twitch-link:hover {{
+  background: #9146ff;
+  color: #fff !important;
+  text-decoration: none;
+}}
+.yt-link {{
+  background: rgba(239, 68, 68, 0.1);
+  color: #dc2626 !important;
+  border: 1px solid rgba(239, 68, 68, 0.3);
+}}
+.yt-link:hover {{
+  background: #dc2626;
+  color: #fff !important;
+  text-decoration: none;
 }}
 .pagination-controls {{
   display: flex;
@@ -280,8 +368,13 @@ function initEpisodesTable() {{
     const matchingRows = allRows.filter(function(row) {{
       const rowStatus = row.getAttribute("data-status");
       const rowTitle = row.getAttribute("data-title") || "";
+      const rowDate = row.getAttribute("data-date") || "";
+      const rowVod = row.getAttribute("data-vod-id") || "";
       const matchesStatus = status === "all" || rowStatus === status;
-      const matchesSearch = !query || rowTitle.indexOf(query) !== -1;
+      const matchesSearch = !query || 
+        rowTitle.indexOf(query) !== -1 || 
+        rowDate.indexOf(query) !== -1 || 
+        rowVod.indexOf(query) !== -1;
       return matchesStatus && matchesSearch;
     }});
 
