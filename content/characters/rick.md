@@ -24,9 +24,11 @@ Rick joined the broadcast on the [[episodes/2026-09-04|2026-09-04 broadcast]] to
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-04|2026-09-04]] | Takes the desk to helm the [[../segments/amongst-the-web|Amongst the Web]] interactive video review desk, conducting tactical evaluations of viral media. |
+| [[episodes/2026-07-20|2026-07-20]] | Field correspondent. Patches in during Brandon's gameplay to provide tactical commentary and strategic advice. |
 
 ## Notable moments
 

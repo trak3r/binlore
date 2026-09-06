@@ -32,6 +32,7 @@ Due to automated closed-captioning idiosyncrasies across network feeds, Ripple's
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Delivers studio commentary on news graphics quality and engages in verbal sparring with Hype Train regarding his feline partner. |
@@ -41,6 +42,7 @@ Due to automated closed-captioning idiosyncrasies across network feeds, Ripple's
 | [[episodes/2026-08-08|2026-08-08]] | ASR transcribed as 'Ben Hooper'. His UPI All News Minute audio package is played during the news block covering the dog surfing championships and the horse rescue. |
 | [[episodes/2026-08-06|2026-08-06]] | Studio newsreader and field correspondent. Referenced by Blackwell as 'Ben Hooper' (likely ASR error for Jeff Ripple) to deploy his visceral storytelling on the Spider-Man fart story, and delivers the on-screen NBC News field package on the nude steakhouse. |
 | [[episodes/2026-08-04|2026-08-04]] | Studio news reader. Anchors the news desk in Blackwell's place and delivers extended slam-poetry readings of the RFK Jr. cooking show item and the CM Punk stain investigation. |
+| [[episodes/2026-07-20|2026-07-20]] | Studio newsreader. Reads off chat comments regarding Munch and Crum shirts during the Lincoln segment. |
 
 ## Notable moments
 

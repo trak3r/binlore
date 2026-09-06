@@ -40,6 +40,7 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Live DOS playthrough of Epic MegaGames' *Jill of the Jungle* trilogy. Plugs Gooters wings and navigates his mother's Old English vocal affectations following a bumper-car accident. |
@@ -49,6 +50,7 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-08-08|2026-08-08]] | Gaming correspondent. Broadcasts a remote retro playthrough of a romhack of Super Mario Bros. 3 from his bedroom. Claims to make $60 million a year. Heckled constantly by his mother about Gooters chicken wings. |
 | [[episodes/2026-08-04|2026-08-04]] | Resident gaming correspondent. Broadcasts remotely from his bedroom, fails to emulate Mickey's Blast Into the Past on the Sega Pico via RetroArch, and is repeatedly interrupted by his mother through the door. |
 | [[episodes/2026-07-23|2026-07-23]] | Resident Gaming Correspondent. Broadcasts the Cryptozeus segment. Struggles extensively with emulator controller setup and keyboard inputs while playing Rex Ronan. Later joins the Joe Rogan parody segment. Constantly berated by his mother through the bedroom door. |
+| [[episodes/2026-07-20|2026-07-20]] | Resident gaming correspondent. Broadcasts from his bedroom attempting to beat Super Mario Bros. 3 while his mother yells through the door. |
 
 ## Notable moments
 

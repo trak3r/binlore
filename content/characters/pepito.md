@@ -44,6 +44,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Delivers the station sign-on: *"I'm Pepito, I'm the dog that produces the show, and now it is live, and I'm a dog."* |
@@ -57,8 +58,10 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-08-06|2026-08-06]] | Executive producer appearing via the dedicated Producer Cam. Delivers his signature canine cold open ('I'm Pepito, I'm the dog that produces the show'). |
 | [[episodes/2026-08-04|2026-08-04]] | Executive Producer. Opens the show from the producer cam, later accidentally leaves Brandon's bedroom door mic live, declares the Cryptozeus house 'just right,' and attempts to coax chicken ankles under the door. |
 | [[episodes/2026-07-23|2026-07-23]] | Executive Producer. Opens the show with his standard canine greeting and later demands his ankle be sacrificed to him. |
+| [[episodes/2026-07-20|2026-07-20]] | Executive producer. Opens the broadcast, generates random names, and is heard with a distorted/deep voice eating the floor at the end of the stream. |
 
 ## Notable moments
+
 
 
 
@@ -77,3 +80,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[08:07]** ([[episodes/2026-08-06|2026-08-06]]): Executive Producer Pepito opens the broadcast with his canonical canine intro: 'I'm Pepito, I'm the dog that produces the show.'
 - **[00:08]** ([[episodes/2026-08-04|2026-08-04]]): Pepito opens every broadcast with the line 'I'm Pepito, I'm the dog that produces the show' (ASR transcribed as 'Papita'). [00:08]
 - **[01:32:50]** ([[episodes/2026-08-04|2026-08-04]]): Pepito controls the bedroom-door microphone for the Cryptozeus remote and sometimes forgets to mute it, allowing Brandon's mother to be heard network-wide. [01:32:50]
+- **[00:08]** ([[episodes/2026-07-20|2026-07-20]]): Pepito's on-screen title during the cold open includes the designation 'Peptron 3000' alongside his dog executive producer persona.

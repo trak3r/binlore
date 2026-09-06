@@ -46,5 +46,8 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[studio-newsreader|Studio Newsreader]] | recurring | Peter Gibbon takes over Jeff Ripple's news reading duties during the pre-show segment, with Peter doing the news while Case watches |
 | [[high-velocity-cultural-correspondent|High-Velocity Cultural Correspondent]] | recurring | Hype Train is notably absent and described as 'still taking a nap' or 'napping' throughout the broadcast |
 | [[guest-correspondent|Guest Correspondent]] | recurring | Remote guest correspondent patch-in during Jimothy news segment |
+| [[abraham-lincoln|Abraham Lincoln]] | recurring | Eccentric spectral guest claiming to be the 'President of the Dead' |
+| [[jam|Jam]] | recurring | Puppet guest at the town hall who repeatedly interjects with 'You wish' and 'Dumbass' |
+| [[hate-sock|Hate Sock]] | recurring | Puppet guest at the town hall who insults everyone and discusses his missing brother |
 
 See also: [[../storylines/crum-dick-punch|Crum D*ck Punch]], [[../segments/munch-and-crum|Munch & Crum]].

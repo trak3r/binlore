@@ -39,6 +39,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Derails subscriber acknowledgments to promote *Piss Fruit Ninja*, commands a vaudeville rhythm, raps about his Panther partner, and details his crypto universe upbringing. |
@@ -52,8 +53,10 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-08-06|2026-08-06]] | High-velocity cultural correspondent. Commandeers the broadcast early but battles a malfunctioning synthwave widget ('visualization is not supported on my system') and a missing partner (his panther girlfriend). |
 | [[episodes/2026-08-04|2026-08-04]] | Sentient locomotive correspondent. Interrupts the pre-show to acknowledge subscribers, delivers a freestyle rap about losing his caboose, and returns later in the broadcast for additional beats. |
 | [[episodes/2026-07-23|2026-07-23]] | High-Velocity Cultural Correspondent. Briefly attempts to hijack the intro but is forcefully rejected by Case in favor of addressing his injury, leading to Hype Train lamenting he was let to die. |
+| [[episodes/2026-07-20|2026-07-20]] | High-velocity cultural correspondent. Battle raps against Lincoln over bodily fluids and is forced to read subs after losing the rap battle. |
 
 ## Notable moments
+
 
 
 
@@ -77,3 +80,5 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[10:22]** ([[episodes/2026-08-06|2026-08-06]]): Hype Train's synthwave broadcast widget requires active technical support and can fail to render, forcing him to acknowledge the malfunction on air.
 - **[14:08]** ([[episodes/2026-08-04|2026-08-04]]): Hype Train's signature caboose is missing; he delivered an extended rap explaining that the caboose is 'the friend that we made along the way.' [14:08]
 - **[14:43]** ([[episodes/2026-08-04|2026-08-04]]): Hype Train claims his veins are 'the veins of fuel pumping into my caboose,' which he then admits does not exist. [14:43]
+- **[33:30]** ([[episodes/2026-07-20|2026-07-20]]): Hype Train notes that Barack Obama is a 'huge fan' of his, though he claims Obama is now back to being one of Lincoln's 'constituents' in the vortex.
+- **[01:42:07]** ([[episodes/2026-07-20|2026-07-20]]): Brick claims he is the one who shot Abraham Lincoln, stating he was hiding in an 'old-timey crate' and shoved Booth at Abe.
