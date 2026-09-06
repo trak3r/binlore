@@ -26,12 +26,16 @@ Rather than defending his employer, Biglaw immediately turned on Blackwell by un
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-08-26|2026-08-26]] | Summoned to advise on studio legal liability; speaks in a baby-talk lisp, assumes his prosecutor alter-ego, and bills Blackwell $40,000 for breaking 16 laws. |
+| [[episodes/2026-08-14|2026-08-14]] | Referenced in passing via 'Tommy Biglaw' / hobbyist lawyer Lyvin Sleazy comments during the Luigi Mangione and CIA stories. |
 
 ## Notable moments
+
 
 - **[01:35:20]** ([[episodes/2026-08-26|2026-08-26]]): Arrives on set complaining he lacked time to shave, immediately notifying Blackwell that billable minutes are accruing.
 - **[01:35:54]** ([[episodes/2026-08-26|2026-08-26]]): Unveils his courtroom alter-ego as "Big Tommy Prosecutor," turning on his client and prosecuting Blackwell live on the air.
 - **[01:37:04]** ([[episodes/2026-08-26|2026-08-26]]): Formally tallies 16 broken "was" (laws) at $2,500 apiece, demanding a $40,000 wire transfer to his firm before attempting to consume Blackwell's "big milk."
+- **[24:42]** ([[episodes/2026-08-14|2026-08-14]]): Biglaw is referenced as a 'hobbyist lawyer' via the alias 'Lyvin Sleazy', weighing in on the Luigi Mangione case as a sidebar legal opinion.

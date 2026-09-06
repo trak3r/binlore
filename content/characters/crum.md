@@ -31,6 +31,7 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 ## Appearances
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-04|2026-09-04]] | Takes the debate desk following the botched occult ritual, temporarily disoriented into believing he has swapped identities with Munch. Employs archaic slang ('japs' for mischief) and prepares for his scheduled Monday robotic gorilla encounter. |
@@ -38,8 +39,10 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 | [[episodes/2026-09-01|2026-09-01]] | Recounts the origin of the robotic gorilla wager, confirms he is spiritually prepared for the Monday execution, defends mayonnaise as the superior pizza topping, defeats Munch decisively on the scoreboard, and discusses Pastor Joe's favorite prayer. |
 | [[episodes/2026-08-26|2026-08-26]] | Serves as a self-described Democratic Party representative but balks at endorsing Mamdani; ultimately pressured into endorsing Munchcut for mayor. Attempts to defer the robotic gorilla execution with iron armor. |
 | [[episodes/2026-08-19|2026-08-19]] | Senior debate analyst who wanders into the news desk to compare himself to a bald mystic and claim proprietary ownership over an AI urine company concept. |
+| [[episodes/2026-08-14|2026-08-14]] | Senior Debate Analyst. Defends Hasan Piker's need for empathy and lighter segments, then spends the rest of the segment hijacking buttons and triggering his own outro music while arguing 'trime' is a portmanteau. Later manifests as the merged 'Kendall' identity attempting to announce a breakup during the outro. |
 
 ## Notable moments
+
 
 - **[52:07]** ([[episodes/2026-09-02|2026-09-02]]): Declares publicly on the network: "I will be getting my penis punched on Monday," and claims to possess "super strength for some reason in spits," demonstrated by crushing an electric toothbrush.
 - **[1:16:44]** ([[episodes/2026-09-02|2026-09-02]]): Explains he hosts the neighborhood Best Boob Club at his residence "because their wives get mad if they do it," yet is barred from voting as his wife's submissions were rejected.
@@ -55,3 +58,4 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 - **[57:59]** ([[episodes/2026-09-01|2026-09-01]]): Triumphs in the mayonnaise-versus-pepperoni debate, leading by 290 points and gloating that he will face no consequences.
 - **[01:24:15]** ([[episodes/2026-08-26|2026-08-26]]): Identifies on air as a party representative for the Democrats while stubbornly withholding an endorsement from Mamdani.
 - **[01:30:07]** ([[episodes/2026-08-26|2026-08-26]]): Pleads to delay the robotic execution by petitioning for iron protective undergarments; rescheduled for Friday the 13th.
+- **[01:05:31]** ([[episodes/2026-08-14|2026-08-14]]): Crum is documented as still facing the robot gorilla groin execution, with Munch invoking it as ongoing punishment ('when your penis gets punched off').

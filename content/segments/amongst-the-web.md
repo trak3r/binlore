@@ -29,7 +29,9 @@ A designated network correspondent sits at the broadcast desk to evaluate and an
 ## Known occurrences
 
 
+
 | Episode | Timestamp | Notes |
 |---|---|---|
 | [[episodes/2026-09-04|2026-09-04]] | 01:08:14 | Amongst the Web Opening & Gorilla Punch Update: Former producer Peter Gibbon commandeers the desk to review viral clips before Blackwell provides an executive update on Crum's impending robotic gorilla forfeit. |
 | [[episodes/2026-08-19|2026-08-19]] | 01:53:22 | Viral Internet Video Review: Audience-interactive viral media review desk. The hosts evaluate viewer-submitted clips featuring an AI girlfriend, a body positivity song, an inflatable commercial, a robot child, and roller skating dancers. |
+| [[episodes/2026-08-14|2026-08-14]] | 01:06:30 | Marfus Darfus Guest Hosts Viewer Viral Clip Review: Marfus Darfus arrives to guest host 'Amongst the Web', reviewing viewer-submitted videos including a Love Island clip (rated 5.5), a man in a fugue state riding an escalator, a dramatic 'Family Matters' acting scene (rated 6.44), an obscure music instrument performance, and a 'crotch pot' hiking cooking video where chicken teriyaki is warmed by body heat (rated 5). |

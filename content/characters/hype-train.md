@@ -33,6 +33,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 ## Appearances
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Derails subscriber acknowledgments to promote *Piss Fruit Ninja*, commands a vaudeville rhythm, raps about his Panther partner, and details his crypto universe upbringing. |
@@ -40,6 +41,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-09-01|2026-09-01]] | Delivers an extended rap describing locomotive reproduction, giving birth to train cars and skeletons; notably abstains from fluidic topics for the entire appearance. |
 | [[episodes/2026-08-26|2026-08-26]] | Commandeers the broadcast with rapid-fire film reviews of non-existent single-word titles before outlining the linguistic origins of an ancient fluidic language pre-dating Homer. |
 | [[episodes/2026-08-19|2026-08-19]] | High-velocity cultural correspondent deploying to override the broadcast for extended freestyle raps over cereal-type beats. |
+| [[episodes/2026-08-14|2026-08-14]] | Triggered briefly when Liliana reads the hype train alerts at the top of the broadcast. No on-air segment during this telecast. |
 
 ## Notable moments
 

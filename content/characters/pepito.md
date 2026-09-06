@@ -38,6 +38,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 ## Appearances
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Delivers the station sign-on: *"I'm Pepito, I'm the dog that produces the show, and now it is live, and I'm a dog."* |
@@ -45,11 +46,15 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-09-01|2026-09-01]] | Executes the top-of-hour station sign-on and production countdown. |
 | [[episodes/2026-08-26|2026-08-26]] | Delivers the official network cold-open and production queue. |
 | [[episodes/2026-08-19|2026-08-19]] | Executive Producer opening the broadcast from the Producer Cam. |
+| [[episodes/2026-08-14|2026-08-14]] | Executive Producer. Opens the broadcast with his signature 'I'm Pepito, I'm the dog that produces the show' introduction, handles the live countdown, and pushes the PNUI data scraping promo. |
 
 ## Notable moments
+
 
 
 - **[00:06]** ([[episodes/2026-09-02|2026-09-02]]): Broadcasts the network's official sign-on: *"I'm Pepito, I'm the dog that produces the show, and now it is live, and I'm a dog."*
 - **[15:39]** ([[episodes/2026-09-04|2026-09-04]]): Immediately alerts the control room to audio discrepancies during an attempted body-swap: *"That's not him... That sounds exactly like Crum. Because I am exactly like Crum. Because I am Crum."*
 - **[01:50:58]** ([[episodes/2026-09-04|2026-09-04]]): Issues an executive broadcast decree demanding a "big bag of sangria" for the extended holiday weekend.
 - **[00:21:57]** ([[episodes/2026-08-19|2026-08-19]]): Pepito retains control room authority and is tasked with ensuring the hype train properly acknowledges subscribers, indicating an executive producer override on segment protocols.
+- **[00:08]** ([[episodes/2026-08-14|2026-08-14]]): Pepito anchors the cold open with his signature line: 'I'm Pepito, I'm the dog that produces the show, and now it is live, and I'm a dog.'
+- **[11:05]** ([[episodes/2026-08-14|2026-08-14]]): Pepito runs the PNUI data scraping program built into the network's PNUI contract with Grum, training models on streams data and apparently even footage from studio toilets.

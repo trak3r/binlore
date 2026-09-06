@@ -26,6 +26,7 @@ Lead anchor [[../characters/case-blackwell|Case Blackwell]] presides over the an
 ## Known occurrences
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 15:13 | Pentagon hormone screening policies, the Epstein Transparency Act legislative push, and Polk County donkey shooting investigations. |
@@ -33,3 +34,4 @@ Lead anchor [[../characters/case-blackwell|Case Blackwell]] presides over the an
 | [[episodes/2026-09-01|2026-09-01]] | 24:14 | National & Regional News Desk: Coverage of the Dwayne Davis guilty verdict in the Tupac Shakur trial, talent debuts at AEW All In London, a mysterious floating island in British Columbia's Williston Reservoir, medical emergencies involving wildlife, and a father-son water-balloon world record. |
 | [[episodes/2026-08-26|2026-08-26]] | 43:43 | International Trade & Domestic Affairs: Comprehensive coverage of retaliatory tariffs between Canada and the United States, proposed renaming of Lake Ontario, Argentine beef recalls, financial sanction addresses by Scott Bessent, AI industry volatility, and municipal incidents in Kentucky and Auckland. |
 | [[episodes/2026-08-19|2026-08-19]] | 25:06 | Florida Primary Election Upsets: Lead anchor Case Blackwell and studio newsreader Jeff Ripple cover Florida primary election results. Key races include Angie Nixon's upset win over Alexander Vindman for the Democratic Senate nomination, and the primary losses of Dan Bilzerian and James Fishback on the Republican side. |
+| [[episodes/2026-08-14|2026-08-14]] | 15:47 | Luigi Mangione Plea, CIA Ecuador Strikes, Mike Lindell Concession Refusal, Chat News Block: Case anchors with Liliana co-hosting at desk. Major stories include Luigi Mangione's federal guilty plea to killing UnitedHealthcare CEO Brian Thompson, Washington Post exposé on covert CIA strikes on Ecuadorian fishing vessels near the Galapagos, Mike Lindell's refusal to concede the Minnesota GOP gubernatorial primary, Trump's threat to declare the Strait of Hormuz a US territory, an adult toy shutting down DC traffic, and a 9PBS storage vendor outage jeopardizing 50 terabytes of archival data. |

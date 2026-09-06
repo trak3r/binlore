@@ -34,5 +34,8 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[christian|Christian]] | In-Studio Contributor | In-studio guest announcer and production runner |
 | [[slightly-thick-waluigi|Slightly Thick Waluigi]] | Call-In Guest | Brooklyn-accented telephone interviewee claiming involvement in historical assassinations |
 | [[grandma-crumble-bottom|Grandma Crumble Bottom]] | recurring | An elderly, heavily sun-exposed in-studio contributor who acts as the guest host for the 'Amongst the Web' viral video review segment |
+| [[liliana|Liliana]] | recurring | In-studio contributor returning from a year-long absence |
+| [[marfus-darfus|Marfus Darfus]] | recurring | Guest host of the 'Amongst the Web' viral clip review segment, introduced with the line 'hey it's me it's Marfis Darfus' |
+| [[jeb|Jeb]] | recurring | Host of the rogue 'How To' segment |
 
 See also: [[../storylines/crum-dick-punch|Crum D*ck Punch]], [[../segments/munch-and-crum|Munch & Crum]].
