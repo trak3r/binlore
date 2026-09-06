@@ -5,7 +5,7 @@ description: Complete broadcast archive and episode backlog for Barely Informed 
 
 # Episodes & Broadcast Backlog
 
-Complete stream archive tracked for *Barely Informed News*. Episodes are ingested from Twitch and YouTube streams to extract characters, segments, storylines, and lore.
+Complete stream archive tracked for *Barely Informed News*. Episodes are ingested from Twitch and YouTube streams to document network correspondents, broadcast segments, developing storylines, and lore.
 
 > **💡 Understanding Stream Dates, VOD IDs & Archives:**
 > - **Broadcast Dates:** Listed by air date (`YYYY-MM-DD`). Ingested episode wiki pages are slugified by broadcast date (e.g. `[[2026-09-04|Artificially General News]]`).

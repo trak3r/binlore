@@ -14,20 +14,20 @@ tags:
 
 ![Amongst the Web title card](https://github.com/trak3r/binlore/releases/download/media-assets/amongst-the-web.jpg)
 
-A recurring audience-interactive segment on *Barely Informed News*.
+The audience-interactive viral media review desk on *Barely Informed News*.
 
 ## Format
 
-A random on-air character correspondent sits in to review and react to viewer-submitted meme videos, internet clips, and absurd online media. The live audience then rates and votes on the submissions in chat.
+A designated network correspondent sits at the broadcast desk to evaluate and analyze viewer-submitted video evidence, internet phenomena, and digital subculture. The live broadcast audience participates in real time by transmitting ratings and sentiment scores over network chat channels.
 
 ## Key Elements
 
-- **Rotating Host:** Featured with a random character persona each occurrence (e.g. [[../characters/rick|Rick]], [[../characters/peter-gibbon|Peter Gibbon]]).
-- **Audience Voting:** Live chat participates by rating submitted clips.
-- **Theme:** Viral internet culture, bizarre video submissions, community-driven humor.
+- **Anchor Assignment:** Led by tactical media correspondent [[../characters/rick|Rick]], with occasional chaotic intrusions by studio stowaway [[../characters/peter-gibbon|Peter Gibbon]].
+- **Audience Voting:** Real-time viewer polling determines the quality and veracity of submitted footage.
+- **Focus:** Digital culture, odd viral recordings, and community intelligence files.
 
 ## Known occurrences
 
 | Episode | Timestamp | Notes |
 |---|---|---|
-| [[episodes/2026-09-04|2026-09-04]] | 01:08:14 | Amongst the Web Opening & Gorilla Punch Update: Peter Gibbon takes over the 'Amongst the Web' segment. Chat and news review the viral clips, and Case gives an update on Crum's impending robotic gorilla groin punch on Monday. |
+| [[episodes/2026-09-04|2026-09-04]] | 01:08:14 | Amongst the Web Opening & Gorilla Punch Update: Former producer Peter Gibbon commandeers the desk to review viral clips before Blackwell provides an executive update on Crum's impending robotic gorilla forfeit. |

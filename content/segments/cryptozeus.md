@@ -14,27 +14,25 @@ tags:
 
 ![Cryptozeus Gameplay](https://github.com/trak3r/binlore/releases/download/media-assets/cryptozeus.jpg)
 
-The live retro gaming and playthrough segment of *Barely Informed News*, hosted by [[../characters/cryptozeus|Brandon under his streaming persona Cryptozeus]].
+The live remote video game and digital culture dispatch on *Barely Informed News*, anchored by gaming correspondent [[../characters/cryptozeus|Brandon (Cryptozeus)]].
 
 ## Format
 
-Case steps away from the news desk to stream classic video games—often vintage DOS platformers (like Epic MegaGames' *Jill of the Jungle* trilogy) or retro simulation games (like *RollerCoaster Tycoon*).
+Broadcasting remote from his private bedroom studio, Brandon conducts deep-dive playthroughs and historical evaluations of vintage computer games—frequently vintage MS-DOS platformers (such as Epic MegaGames' *Jill of the Jungle* trilogy) and simulation classics (such as *RollerCoaster Tycoon*).
 
-The central bit revolves around Brandon gaming in his bedroom while his mom yells at him through the door with a muffled voice. The mom's dialogue is entirely scripted from viewer submissions in chat and Discord, and she consistently scolds him by calling him **"Bran Bran."**
+Brandon's gameplay is consistently disrupted by his mother shouting through the closed bedroom door with an exasperated, muffled voice. The mother's dialogue is sourced directly from incoming viewer submissions and community correspondence, and she invariably berates him as **"Bran Bran."**
 
-## Key Tropes
+## Key Elements
 
-- **The Muffled Door Rants:** Brandon's mom yells at him from the hallway through the door. Her lines are submitted and scripted live by the community.
-- **"Bran Bran":** The mom's universal nickname for Brandon.
-- **Narrative Improvisation:** Brandon weaves elaborate dramatic lore around background sprites and shareware menus.
-- **Sponsor Gags:** Frequent pitches for Gooters chicken wings and "dino fries."
+- **Muffled Hallway Inquiries:** Brandon's mother interrogates him regarding household affairs, neighborhood gossip, and questionable dietary practices.
+- **"Bran Bran":** The universal maternal address used on the broadcast.
+- **Narrative Improvisation:** Brandon reconstructs elaborate historical mythologies based on shareware menus and environmental textures.
+- **Corporate Sponsor Updates:** Live commercial advisories on behalf of regional culinary partner Gooters, advertising chicken wings and "dino fries."
 
 ## Known occurrences
 
-
-
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
-| [[episodes/2026-09-02|2026-09-02]] | 1:26:47 | DOS playthrough of the *Jill of the Jungle* trilogy with recurring Gooters plugs, viewer-scripted mom tangents, and in-game lore scrolling. |
-| [[episodes/2026-09-01|2026-09-01]] | 59:19 | Cryptozeus Plays Wario Land 4 (GBA) on Keyboard: Brandon (Cryptozeus) attempts to play Wario Land 4 on GBA via emulator. His controller won't work, forcing keyboard play. Mom yells through the door about turnips, doorknobs, 'washed' (not 'washed') sweatpants, Pastor Joe, sneezes, hemorrhoids, Italian bicycles, and Waluigi. Brandon plays through levels, plays Wario's Homerun Derby minigame, and eventually quits in frustration when mom ruins his gameplay. Gooters chicken wing sponsor read is inserted. |
-| [[episodes/2026-08-26|2026-08-26]] | 01:38:45 | Brandon Plays The Journey Home (Demo): Cryptozeus gaming segment. Brandon's mom interrupts about Gooters wet wings, sloppy chicken tomato fries, and the new potato turducken. A sub from Brick announces the Crum D*ck Punch is pushed to the 4th (Case is in Thailand Aug 8-17). Brandon plays The Journey Home indie demo, gets 'birthed' as an old man, prances around, plays a Flappy Bird section, and gets a 'sparkle' death before reaching the credits. Mom complains throughout. Raids Denny's channel. |
+| [[episodes/2026-09-02|2026-09-02]] | 1:26:47 | DOS playthrough of the *Jill of the Jungle* trilogy with recurring Gooters dispatches, maternal Old English arguments, and in-game lore scrolling. |
+| [[episodes/2026-09-01|2026-09-01]] | 59:19 | Brandon attempts to play *Wario Land 4* on GBA; controller malfunctions force keyboard play. His mother yells through the door regarding turnip gardens, dirty laundry, Pastor Joe, and Italian bicycles. Concludes with a Gooters sponsor read before Brandon terminates the feed in frustration. |
+| [[episodes/2026-08-26|2026-08-26]] | 01:38:45 | Remote playthrough of *The Journey Home* indie demo. Brandon's mother interrupts regarding Gooters wet wings, sloppy chicken fries, and the potato turducken. A viewer dispatch confirms the Crum D*ck Punch schedule before concluding with a raid on Denny's broadcast. |

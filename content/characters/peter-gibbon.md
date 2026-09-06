@@ -5,38 +5,41 @@ aliases:
   - Peter G.
   - Peter
 first_seen: 2026-09-04
-status: recurring
+status: news stowaway
 tags:
   - character
+  - studio-staff
 ---
 
 # Peter Gibbon
 
 ![Peter Gibbon on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/peter-gibbon.jpg)
 
-**Peter Gibbon** (often billed on-screen as **Peter G.**) is a recurring nuisance persona on *Barely Informed News*. Like other show characters, he is portrayed by [[case-blackwell|Case Blackwell]] using a digital face filter and vocal impression.
+**Peter Gibbon** (formally credited on air as **Peter G.**) is the disgraced former executive producer of *Barely Informed News*, currently designated on screen as the network's **"News Stowaway & Food Eater."**
+
+Distinctive for his stout frame, round spectacles, nasal delivery, and prominent cleft chin, Gibbon is widely regarded as one of the most abrasive and reviled figures to ever step foot in the studio.
 
 ## Overview
 
-Peter Gibbon is an overt comedic homage to Peter Griffin from *Family Guy*, sharing the character's signature nasal voice, round glasses, dark hair, and distinctive cleft "butt" chin. 
+Gibbon served as the original producer of *Barely Informed News* before being terminated and stripped of his security credentials due to gross managerial incompetence, leading directly to the hiring of [[pepito|Pepito]].
 
-Within the show's universe, Peter is considered one of the single most annoying and widely disliked characters by both the cast and viewers. He was originally the producer of *Barely Informed News*—serving in the role before [[pepito|Pepito]] took over—until he was ultimately ousted and fired for his incompetence. 
+Following his dismissal, Gibbon refused to vacate the network facilities. Evading building security, he took up permanent residence inside the structural crawlspaces and drywall of the newsroom. From these interior wall cavities, Gibbon regularly sneaks into the broadcast booth, raids the staff refrigerator, seizes unattended microphones, and interrupts live telecasts to the immense fury of lead anchor [[case-blackwell|Case Blackwell]].
 
-Refusing to vacate the premises, Peter now infamously lives inside the walls of the studio. Labeled on stream as the **"News Stowaway & Food Eater,"** he sneaks out of the wall crawlspaces to scavenge food, interrupt broadcasts, and exasperate Case.
+## Key Attributes & Lore
 
-## Key Tropes
-
-- **Family Guy Homage:** Distinctive voice impression, circular glasses, rounded face, and pronounced cleft chin modeled after Peter Griffin.
-- **Disliked Status:** Universally groaned at by chat and despised by Case whenever he crawls out from the walls.
-- **Studio Wall Inhabitant:** Ousted as show producer, he now lives full-time within the studio walls, occasionally raiding the fridge or scavenging food.
-- **On-Screen Billing:** Appears with the subtitle graphic *"Peter G. NEWS STOWAWAY & FOOD EATER"*.
+- **Structural Wall Inhabitant:** Squats full-time within the studio drywall, navigating behind control room consoles and emerging through crawlspace access panels.
+- **On-Screen Lower Third:** Billed on broadcast graphics as *"Peter G. NEWS STOWAWAY & FOOD EATER"*.
+- **Staff Contempt:** Universally despised by anchors, technical crew, and viewers alike, who groan whenever his voice filters through the air ducts.
+- **Physical Feats & Delusions:** Boasts of deadlifting beer kegs, claims dubious former military intelligence connections, and harbors an obsession with model rocketry.
 
 ## Appearances
 
 | Episode | Notes |
 |---------|-------|
-| [[episodes/2026-09-04|2026-09-04]] | Crawls out to interrupt the broadcast: *"Looks like you couldn't keep me away forever. Back again it's Peter Gibbon."* Billed as "Peter G. NEWS STOWAWAY & FOOD EATER." |
+| [[episodes/2026-09-04|2026-09-04]] | Crawls out of the studio walls to seize the broadcast desk: *"Looks like you couldn't keep me away forever. Back again it's Peter Gibbon."* Reads the news bulletin, plays music tracks from a controversial cult, and anchors the viral video review desk. |
 
 ## Notable moments
 
-- **[18:01]** ([[episodes/2026-09-04|2026-09-04]]): Returns to the show uninvited (*"Looks like you couldn't keep me away forever. Back again it's Peter Gibbon... And you're probably going to be mean to me Case, but no big deal"*), with on-screen graphic *Peter G. NEWS STOWAWAY & FOOD EATER*.
+- **[18:01]** ([[episodes/2026-09-04|2026-09-04]]): Emerges uninvited onto the live broadcast (*"Looks like you couldn't keep me away forever. Back again it's Peter Gibbon... And you're probably going to be mean to me Case, but no big deal"*), prompting the control room to hastily generate the lower-third graphic *Peter G. NEWS STOWAWAY & FOOD EATER*.
+- **[18:04]** ([[episodes/2026-09-04|2026-09-04]]): Boasts of his physical conditioning, claiming superior dead-lifting power in his lower extremities, while checking whether wall rodents have chewed his hair.
+- **[24:24]** ([[episodes/2026-09-04|2026-09-04]]): Experiences an on-air transmission cross-talk incident with debate analyst Crum during a botched paranormal spell, briefly conflating their identities in the control room archives.

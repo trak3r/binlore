@@ -17,41 +17,37 @@ tags:
 
 ![Cryptozeus on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/cryptozeus.jpg)
 
-**Brandon**, better known by his on-air streaming and gaming persona **Cryptozeus**, is a recurring character on *Barely Informed News*. He is the host and star of the show's live gaming segment, [[../segments/cryptozeus|Cryptozeus]].
+**Brandon**, recognized across the network by his gaming handle **Cryptozeus**, is the resident video game and digital culture correspondent for *Barely Informed News*. He anchors the network's live gaming dispatch, [[../segments/cryptozeus|Cryptozeus]].
 
-Portrayed by [[case-blackwell|Case Blackwell]], Brandon is an avid gamer broadcasting retro gameplay from his bedroom.
+Broadcasting remote from his bedroom studio, Brandon conducts deep-dive playthroughs of vintage DOS classics and retro simulation titles.
 
 ## Overview
 
-Brandon's core bit is streaming live playthroughs of vintage DOS games (such as Epic MegaGames' *Jill of the Jungle* trilogy) and simulation classics (such as *RollerCoaster Tycoon*). While he plays and improvises elaborate, dramatic backstory for pixelated background sprites, his mother constantly interrupts by yelling at him through his bedroom door with a muffled, exasperated voice.
+Brandon's coverage focuses on vintage shareware, MS-DOS platformers (such as Epic MegaGames' *Jill of the Jungle* trilogy), and management simulations (such as *RollerCoaster Tycoon*). As Brandon delivers earnest historical analysis and weaves elaborate lore around low-resolution pixel sprites, his broadcasts are routinely disrupted by his mother yelling through the bedroom door with a muffled, exasperated voice.
 
-His mother exclusively refers to him as **"Bran Bran."** In a signature community-driven twist, the mother's muffled rants and complaints through the door are scripted directly by viewer submissions from the stream audience.
+His mother exclusively addresses him as **"Bran Bran."** In a unique network dynamic, his mother's muffled hallway screeds—covering household grievances, medical updates, and local gossip—are sourced directly from viewer correspondence and community submissions.
 
-## Key Tropes
+## Key Attributes & Lore
 
-- **The Muffled Door Rants:** Brandon's mom hollers through the closed door, nagging him about chores, life choices, and family absurdity. Her muffled voice is voiced live and scripted directly from viewer submissions in chat and Discord.
-- **"Bran Bran":** The affectionate/condescending diminutive his mom uses whenever yelling at him.
-- **Improvised Sprite Lore:** Treats 1990s platformer background textures, enemies, and shareware text screens as epic high-fantasy canon.
-- **Sponsor Gags:** Constant, unprompted plugs for fictional or bizarre local sponsors, particularly Gooters chicken wings and "dino fries."
+- **The Muffled Door Interventions:** Brandon's mother bellows through the closed bedroom door, haranguing him regarding domestic chores, suspicious visitors (such as "Pastor Joe"), and questionable nutrition.
+- **"Bran Bran":** His mother's universal affectionate and condescending moniker for Brandon.
+- **Sprite Mythology:** Treats background textures, 16-color environment hazards, and 1990s shareware text screens as foundational historical documents.
+- **Corporate Sponsorship Reads:** Broadcasts unprompted live commercial spots for regional culinary sponsor Gooters, promoting delicacies such as "dino fries," "mayo-soaked chicken skins," and the "potato turducken."
 
 ## Appearances
 
-
-
 | Episode | Notes |
 |---------|-------|
-| [[episodes/2026-09-02|2026-09-02]] | Live DOS playthrough of Epic MegaGames' *Jill of the Jungle* trilogy. Recurring Gooters chicken-wing plugs and mom-Old-English tangents. |
-| [[episodes/2026-09-01|2026-09-01]] | Brandon streams Wario Land 4 on GBA. Controller fails so he plays on keyboard. Mom yells at him through the door (calling him 'Bran Bran') about turnips, washed sweatpants, Pastor Joe, hemorrhoids, Italian bicycles, and Waluigi. Sponsor read for Gooters mayo-soaked chicken skins. Eventually quits the game in frustration. |
-| [[episodes/2026-08-26|2026-08-26]] | Gaming persona. Plays The Journey Home demo while his mom interrupts about Gooters wings, sloppy chicken tomato fries, and potato turducken. Mentions Gooters new 'herniated cheese disc'. |
+| [[episodes/2026-09-02|2026-09-02]] | Live DOS playthrough of Epic MegaGames' *Jill of the Jungle* trilogy. Plugs Gooters wings and navigates his mother's Old English vocal affectations following a bumper-car accident. |
+| [[episodes/2026-09-01|2026-09-01]] | Streams *Wario Land 4* on GBA; hardware malfunctions force him to keyboard controls. His mother yells about turnip consumption, unwashed clothing, Pastor Joe, and Italian bicycles. Plugs Gooters mayo skins before aborting the broadcast in exasperation. |
+| [[episodes/2026-08-26|2026-08-26]] | Broadcasts an indie demo of *The Journey Home*; mother interrupts regarding Gooters wet wings, sloppy chicken fries, and the potato turducken. Receives sub confirmation regarding the Crum D*ck Punch schedule before concluding with a viewer raid. |
 
 ## Notable moments
 
-
-
-- **[1:26:47]** ([[episodes/2026-09-02|2026-09-02]]): Extended *Jill of the Jungle* live playthrough with in-game lore commentary, Gooters sponsor plugs, and maternal arguments.
-- **[24:51]** ([[episodes/2026-09-04|2026-09-04]]): Chat inquiries about the "Cryptoverse" reveal that Brandon's persona was reportedly vacuumed out of the crypto universe prior to the show.
-- **[67:37]** ([[episodes/2026-09-01|2026-09-01]]): Mom yells 'washed' instead of 'washed' (dropping the R) repeatedly; Brandon insists she needs to 'learn to sneeze better' and 'learn to eat better.'
-- **[65:43]** ([[episodes/2026-09-01|2026-09-01]]): Mom mentions Pastor Joe is coming over that night and gets upset that Brandon's grunting 'puts mama in a moon.'
-- **[80:30]** ([[episodes/2026-09-01|2026-09-01]]): Mom claims her Italian bicycle 'intimidates people into thinking that I do sports' and protects her house because people assume she's like Lance Armstrong.
-- **[01:21:43]** ([[episodes/2026-08-26|2026-08-26]]): Gooters sponsor bit: 'wet storage bins', 'potato turducken' with $20 inside, 'herniated cheese disc', 'moist kitten poppers' (Halloween). Mom calls him 'Bran Bran'.
-- **[02:00:22]** ([[episodes/2026-08-26|2026-08-26]]): Played The Journey Home indie demo to credits; reached a 'sparkle' state after dying, pranced, played a Flappy Bird section, and finished to a credit roll thanking him for playing Walter.
+- **[1:26:47]** ([[episodes/2026-09-02|2026-09-02]]): Delivers extended *Jill of the Jungle* gameplay commentary interspersed with Gooters sponsorship spots and maternal arguments.
+- **[24:51]** ([[episodes/2026-09-04|2026-09-04]]): Newsroom inquiries regarding his origins clarify that Brandon was extracted from the "crypto universe" prior to joining the network.
+- **[67:37]** ([[episodes/2026-09-01|2026-09-01]]): Mother repeatedly drops consonants while shouting through the door; Brandon urges her to refine her sneezing technique and dietary habits.
+- **[65:43]** ([[episodes/2026-09-01|2026-09-01]]): Mother alerts Brandon that Pastor Joe is visiting that evening and scolds him for vocal grunting.
+- **[80:30]** ([[episodes/2026-09-01|2026-09-01]]): Mother claims her high-end Italian road bicycle deters home intruders by convincing neighbors she trains like an Olympic athlete.
+- **[01:21:43]** ([[episodes/2026-08-26|2026-08-26]]): Delivers a Gooters sponsor read introducing "wet storage bins," a "potato turducken" stuffed with a $20 bill, "herniated cheese discs," and Halloween "moist kitten poppers."
+- **[02:00:22]** ([[episodes/2026-08-26|2026-08-26]]): Completes *The Journey Home* demo to the final credits, navigating old-man birth sequences, Flappy Bird platforming, and sparkling afterlife states.

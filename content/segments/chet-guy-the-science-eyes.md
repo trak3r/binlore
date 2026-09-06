@@ -15,26 +15,25 @@ tags:
 
 ![Chet Guy the Science Eyes](https://github.com/trak3r/binlore/releases/download/media-assets/chet-guy-the-science-eyes.jpg)
 
-The show's satirical science and medical research segment (parodying Bill Nye the Science Guy), hosted by [[../characters/chet|Chet (Chet Manscape)]] alongside his AI co-host [[../characters/chet-ai|ChetAI]].
+The specialized investigative science and medical research desk on *Barely Informed News*, anchored by Chief Science Correspondent [[../characters/chet|Chet (Chet Manscape)]] alongside synthetic neural co-host [[../characters/chet-ai|ChetAI]].
 
 ## Format
 
-The segment is spontaneously triggered whenever any character or correspondent in another segment (like the news rundown) accidentally says the word "science" or "scientist" while discussing a story. The broadcast is immediately overtaken as Case dons a distinctive patterned purple blazer and brings a physical optical microscope onto the news desk.
+The segment operates under a strict, spontaneous network trigger protocol: whenever any anchor, reporter, or correspondent across the broadcast utters the trigger words **"science"** or **"scientist,"** Chet immediately intervenes to commandeer the news desk. Sporting his signature patterned purple blazer and specialized blue-light-filtering eyewear, Chet deploys a high-powered laboratory optical microscope directly onto the desk.
 
-Chet analyzes bizarre medical research papers, scientific journal findings, and anatomical surveys with straight-faced pseudo-scientific commentary, consulting ChetAI to parse data and translate international studies.
+Chet conducts deep-dive inquiries into peer-reviewed medical publications, anatomical ratio analyses, and emerging technologies, consulting [[../characters/chet-ai|ChetAI]] on newsroom monitors to translate foreign journals and synthesize computational models.
 
-## Key Tropes
+## Key Attributes & Lore
 
-- **Accidental Trigger:** Never pre-planned on the rundown; triggered in real-time the moment someone on the show slips up and utters "science."
-- **ChetAI Co-Host:** Chet's custom-built AI sidekick [[../characters/chet-ai|ChetAI]], who appears on screen as a pixelated face with a robotic synthesizer voice and claims to possess vast (and forbidden) training data.
-- **The Microscope Prop:** An optical laboratory microscope featured prominently in the foreground desk shot.
-- **Academic Citation:** Reads real or fabricated study titles from medical journals (e.g. plastic surgery breast proportion studies).
-- **Tone:** Authoritative academic jargon mixed with absurdly unscientific conclusions.
+- **The Trigger Protocol:** Never scheduled in advance on the broadcast rundown; activated the moment any speaker on the telecast accidentally mentions "science."
+- **Synthetic Co-Host:** [[../characters/chet-ai|ChetAI]], an advanced neural model displayed on side studio monitors who assists Chet with data queries while navigating sensitive content safety restrictions.
+- **Laboratory Optics:** A clinical microscope deployed prominently on the anchor desk for immediate empirical observation.
+- **Academic Scrutiny:** Thorough examination of international medical and aesthetic research papers.
+- **Authoritative Thesis:** Academic presentation delivering unconventional, highly confident conclusions.
 
 ## Known occurrences
 
-
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
-| [[episodes/2026-09-02|2026-09-02]] | 1:03:22 | Triggered after news desk slips and says "scientists." Chet and [[../characters/chet-ai|ChetAI]] analyze a Brazilian Journal of Plastic Surgery ratio study, concluding that 'all boobs is good.' |
-| [[episodes/2026-09-04|2026-09-04]] | 01:36:13 | Chet Manscape on The Family International Cult: Chet Manscape spontaneously takes over (via ChetAI/blue-light sunglasses) to investigate The Family International cult behind 'Cathy Don't Go.' He plays a 52-min deep dive from 'Crimes in Catastrophe' about David Berg's 1960s 'Children of God' cult, noting its many name changes and warnings about them using AI to 'compromise' minds. Casey watches only the intro and the SOS video before bantering about Charles Manson and Marilyn Manson getting away with cult stuff via music. |
+| [[episodes/2026-09-02|2026-09-02]] | 1:03:22 | Desk slips and says "scientists." Chet and [[../characters/chet-ai|ChetAI]] investigate a Brazilian Journal of Plastic Surgery proportion study, delivering the academic consensus that "all boobs is good." |
+| [[episodes/2026-09-04|2026-09-04]] | 01:36:13 | Chet Manscape investigates The Family International cult behind the track 'Cathy Don't Go.' Reviewing archival investigative footage on David Berg's organization, Chet outlines historical name permutations and analyzes cognitive risks associated with AI-driven indoctrination. |

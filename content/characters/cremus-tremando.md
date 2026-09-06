@@ -3,31 +3,33 @@ title: Cremus Tremando
 type: character
 aliases: []
 first_seen: 2026-09-04
-status: one-time guest
+status: special guest
 tags:
   - character
   - guest
-  - one-time-guest
+  - occult
 ---
 
 # Cremus Tremando
 
 ![Cremus Tremando on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/cremus-tremando.jpg)
 
-**Cremus Tremando** is a one-off bit character on *Barely Informed News*, portrayed by [[case-blackwell|Case Blackwell]] using face filters and a sleazy, grandiose mystic persona.
+**Cremus Tremando** is an eccentric mystic consultant and freelance occult specialist retained by *Barely Informed News* for breaking supernatural inquiries.
+
+Adorned in ornate occult vestments and an elaborate turban, Tremando operates under the on-screen graphic *"Live at Sleazy Mystic Sorcerer Cremus Tremando"*.
 
 ## Overview
 
-Case occasionally introduces spontaneous, one-off characters to accentuate a specific joke or bit. Cremus Tremando was summoned during the [[episodes/2026-09-04|2026-09-04 broadcast]] as a sleazy mystic sorcerer ("Live at Sleazy Mystic Sorcerer Cremus Tremando") after chat called for a supernatural intervention. 
+Hailing from what he describes as "the back alleys of New York" and the "heights of the ancient mountain Balamansore," Tremando was contracted during the [[episodes/2026-09-04|2026-09-04 broadcast]] to perform an emergency metaphysical intervention when network tensions reached a breaking point.
 
-Claiming to hail from the "back alleys of New York" and the "heights of the ancient mountain Balamansore," Cremus invoked *"Bielzotroth, the God of Mistriff"* to cast a "Freaky Friday" body-swap spell. After botching the incantation, he quickly declared "no refunds," insisted a bill be sent to him in the mail, and vanished via "snake powers."
+Invoking *"Bielzotroth, the God of Mistriff,"* Tremando attempted to cast an ancient body-swapping incantation across the studio. When the spell produced immediate broadcast chaos, Tremando abruptly declared a strict "no refunds" policy, demanded a service invoice be mailed to his estate, and fled the premises utilizing what he termed "snake powers."
 
 ## Appearances
 
 | Episode | Role | Notes |
 |---------|------|-------|
-| [[episodes/2026-09-04|2026-09-04]] | One-time guest | Sleazy mystic sorcerer summoned to perform a body-swap spell; declares "no refunds" and vanishes using snake powers. |
+| [[episodes/2026-09-04|2026-09-04]] | Occult Consultant | Retained to execute a body-swap ritual on air; botches the incantation, declares "no refunds," and escapes using snake powers. |
 
 ## Notable moments
 
-- **[14:35]** ([[episodes/2026-09-04|2026-09-04]]): Invokes Bielzotroth, charges for the botched spell, and flees via snake powers.
+- **[14:35]** ([[episodes/2026-09-04|2026-09-04]]): Invokes Bielzotroth live on the broadcast, invoices the network, and makes a hasty exit via snake powers.

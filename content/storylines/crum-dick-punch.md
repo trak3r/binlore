@@ -16,27 +16,27 @@ tags:
 
 # Crum D*ck Punch
 
-**Crum D*ck Punch** is the central running storyline on *Barely Informed News*. Due to a crippling gambling addiction, [[../characters/crum|Crum]] lost a high-stakes bet and is scheduled to be punched squarely in the crotch by a robotic gorilla on an upcoming Monday broadcast.
+**Crum D*ck Punch** is the central running investigative storyline on *Barely Informed News*. Due to an uncontrolled gambling addiction, senior debate analyst [[../characters/crum|Crum]] forfeited an astronomical wager against a mechanical ape and is formally scheduled to receive a maximum-velocity punch to the groin delivered by a robotic gorilla during an upcoming Monday broadcast.
 
 ## Status
 
-**Active / Imminent.** Slated for execution on Monday's broadcast before Case leaves on vacation.
+**Active / Imminent.** Locked in for execution during a special network telecast before lead anchor [[../characters/case-blackwell|Case Blackwell]] departs on scheduled international leave.
 
-## Lore & Premise
+## Background & Network Record
 
-- **The Gambling Addiction:** Crum suffers from an uncontrolled, chronic gambling habit that frequently lands him in reckless and dangerous wagers.
-- **The Consequence:** Having lost his latest bet, the agreed-upon penalty is a full-force punch to the groin delivered by a mechanical, robotic gorilla fist.
-- **Munch's Role:** [[../characters/munch|Munch (Ralph Munchcut)]] eagerly relishes Crum's impending doom, taking community suggestions on Discord for why Crum deserves the punishment and gleefully taunting him with countdown reminders.
-- **Crum's Defense & Training:** Rather than backing out, Crum insists he has been rigorous in physical preparation, boasting of "super strength in spits," crushing an electric toothbrush to dust as proof of his resilience, and issuing warnings like: *"My penis can handle a lot... good luck to that gorilla's fist."*
+- **The Gambling Liability:** Crum suffers from a compulsive, chronic gambling habit that routinely forces him into dangerous physical forfeits and legal exposure.
+- **The Penalty Execution:** Having lost the terms of the wager, the binding forfeit dictates a full-force blow to the groin delivered by a pneumatic, robotic gorilla fist on live television.
+- **Munch's Relentless Campaign:** Senior debate adversary [[../characters/munch|Ralph Munchcut]] actively champions the execution, reading viewer-submitted dossiers enumerating why Crum deserves the forfeit and orchestrating public anticipation.
+- **Crum's Defensive Protocols:** Rather than defaulting on the debt, Crum claims to have undergone rigorous physical and spiritual conditioning, boasting of "super strength in spits," crushing an electric toothbrush to powder on air, and warning: *"My penis can handle a lot... good luck to that gorilla's fist."*
 
-## Timeline & Episode Beats
+## Timeline & Broadcast Log
 
 | Date / Episode | Beat |
 |----------------|------|
-| [[../episodes/2026-09-02|2026-09-02]] [49:58] | Crum crashes into the news desk unprompted to defend himself, blurting out that he will be "getting my penis punched on Monday." |
-| [[../episodes/2026-09-02|2026-09-02]] [1:13:35] | During [[../segments/munch-and-crum|Munch & Crum]], Munch reads a community Discord list of reasons why Crum deserves to get his dick punched (bald, bitch, overhyped hand game). |
-| [[../episodes/2026-09-02|2026-09-02]] [1:24:51] | Crum delivers his closing manifesto on the bet: claims his groin is conditioned and challenges the robot gorilla's fist directly. |
-| [[../episodes/2026-09-04|2026-09-04]] [01:08:14] | Chat confirms the robotic gorilla punch is locked in for Labor Day Monday; Case announces a special "big bad boy stream" to settle the bet before leaving the country on vacation. |
+| [[../episodes/2026-09-02|2026-09-02]] [49:58] | Crum enters the news desk unannounced to issue a formal defense, confirming on the record that he will be "getting my penis punched on Monday." |
+| [[../episodes/2026-09-02|2026-09-02]] [1:13:35] | During [[../segments/munch-and-crum|Munch & Crum]], Munch recites an audience-submitted dossier detailing Crum's character flaws, hubris, and reasons the forfeit must proceed. |
+| [[../episodes/2026-09-02|2026-09-02]] [1:24:51] | Crum delivers an impassioned closing statement, declaring his physical conditioning complete and issuing a formal challenge to the robotic fist. |
+| [[../episodes/2026-09-04|2026-09-04]] [01:08:14] | Network updates confirm the execution remains locked in for Labor Day Monday; Blackwell announces a special extended broadcast to settle the debt prior to departing the country. |
 
 ## Related Pages
 

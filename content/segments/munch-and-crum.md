@@ -18,24 +18,22 @@ tags:
 
 ![Munch & Crum](https://github.com/trak3r/binlore/releases/download/media-assets/debate.jpg)
 
-Recurring flagship debate segment featuring [[../characters/munch|Munch]] and [[../characters/crum|Crum]].
+The flagship political debate desk on *Barely Informed News*, featuring fiery head-to-head clashes between senior debate analysts [[../characters/munch|Ralph Munchcut]] and [[../characters/crum|Crum]].
 
 ## Format
 
-Two-sided on-air clash between Munch and Crum. Broadcast under the title **Munch & Crum**, featuring 3D rotating title cards, an on-screen scoreboard, and live chat polling.
+Broadcast under the title **Munch & Crum**, the segment features rotating 3D network title cards, an automated on-screen scoreboard, and live audience referendum polling. Munch and Crum debate national policies, municipal leadership, and culinary ethics, with arguments frequently escalating into personal grievances and high-stakes wagers.
 
 ## Known occurrences
 
-
-
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
-| [[episodes/2026-09-02|2026-09-02]] | 1:12:27 | Munch & Crum: Penis Punch Discord Thread: Munch and Crum introduce themselves. Read chat/Discord thread compiled by Case listing reasons Crum should get his penis punched Monday — bald, bitch, hand-game hype, an OnlyFans threat, best-boob club vs Crum's wife. Crum vows he has trained and has 'super strength in spits.' |
-| [[episodes/2026-09-01|2026-09-01]] | 46:28 | Munch & Crum Debate: Penis Punch Prep & Mayonnaise vs Pepperoni: Munch & Crum debate segment. Crum reminds everyone the robotic gorilla penis punch is happening next Monday before Case leaves for Thailand; Munch asks chat to protect his penis. Debate topic: best pizza topping. Crum argues mayonnaise; Munch argues pepperoni. Crum wins (290+ points ahead). Crum gloats about Munch's upcoming punch. Crum claims to have eaten a 'turnip garden' raw and mentions a 'new prayer suggested by Crumb' that Pastor Joe likes. |
-| [[episodes/2026-08-26|2026-08-26]] | 01:22:44 | Munch vs Crum: Better Mayor Debate: Munch & Crum debate over 'better mayor: Munchcut vs Mamdani'. Crum waffles and refuses to endorse Mamdani as a Democrat, ultimately 'not endorsing' anyone but lands on Munchcut. Munch declares himself the winner. Crum tries to push back the Crum D*ck Punch robotic gorilla execution; rescheduled to Friday the 13th. Munch claims 'reverse pardon' means Crum gets punched twice. |
+| [[episodes/2026-09-02|2026-09-02]] | 1:12:27 | The Penalty Dossier Debate: Munch and Crum present their platforms. Munch recites an audience-submitted dossier enumerating reasons Crum must face his scheduled Monday robotic gorilla groin punch. Crum responds by claiming rigorous physical training and "super strength in spits." |
+| [[episodes/2026-09-01|2026-09-01]] | 46:28 | The Pizza Topping Debate & Forfeit Readiness: Crum confirms the impending robotic gorilla execution prior to Blackwell's international leave, while Munch appeals for spiritual protection. The debate turns to optimal pizza toppings: Crum champions mayonnaise while Munch defends pepperoni. Crum wins in a 290-point landslide, gloating over Munch's defeat. |
+| [[episodes/2026-08-26|2026-08-26]] | 01:22:44 | Municipal Leadership Debate: Munch and Crum debate mayoral qualifications between Munchcut and Mamdani. Crum hesitates to endorse his party's candidate, ultimately yielding to Munchcut. Munch claims victory, while Crum attempts to defer his robotic execution with iron armor. |
 
-## Related
+## Related Coverage
 
-- [[../characters/munch|Munch]]
+- [[../characters/munch|Ralph Munchcut]]
 - [[../characters/crum|Crum]]
 - [[../storylines/crum-dick-punch|Crum D*ck Punch]]

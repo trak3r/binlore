@@ -1,37 +1,37 @@
 ---
-title: Characters
-description: Cast, recurring personas, and guest appearances on Barely Informed News.
+title: On-Air Talent & Newsroom Staff
+description: Anchors, correspondents, analysts, and studio personnel on Barely Informed News.
 ---
 
-# Characters
+# On-Air Talent & Newsroom Staff
 
-Characters, recurring on-air personas, and guest appearances tracked by Binlore.
+Anchors, senior correspondents, debate analysts, and production staff across *Barely Informed News*.
 
-## Main & Recurring Cast
+## Newsroom Anchors & Senior Correspondents
 
-| Character | Status | Notes |
-|-----------|--------|-------|
-| [[case-blackwell|Case Blackwell]] | host / streamer | Host and primary broadcaster of Barely Informed News |
-| [[munch|Munch (Ralph Munchcut)]] | recurring | Debate panel fixture opposite Crum in messy wig and floral blazer |
-| [[crum|Crum]] | recurring | Debate panel fixture with sunken eyes and chronic gambling debts |
-| [[pepito|Pepito]] | recurring | The dog producer who introduces and runs the show |
-| [[chet|Chet (Chet Manscape)]] | recurring | Science correspondent triggered whenever "science" is uttered |
-| [[chet-ai|ChetAI]] | recurring | Chet's pixelated AI co-host with robotic voice and boob training data |
-| [[hype-train|Hype Train]] | recurring | Hype train persona with panther girlfriend; prone to free-flow rants |
-| [[cryptozeus|Cryptozeus]] | recurring | Retro gaming persona (Brandon) whose mom yells through the bedroom door |
-| [[jeff-ripple|Jeff Ripple]] | recurring | Studio news and chat correspondent (often mistranscribed as Jeff Hooper) |
-| [[peter-gibbon|Peter Gibbon]] | recurring | Annoying ex-producer who lives in the walls of the studio |
-| [[rick|Rick]] | recurring | Grizzled ex-military correspondent and host of Amongst the Web |
+| Contributor | Broadcast Role | Portfolio / Description |
+|---|---|---|
+| [[case-blackwell|Case Blackwell]] | Lead Anchor & Managing Editor | Primary broadcast anchor and managing editor of *Barely Informed News* |
+| [[munch|Munch (Ralph Munchcut)]] | Senior Debate Analyst | Fiery political commentator opposite Crum in floral blazer and necktie |
+| [[crum|Crum]] | Senior Debate Analyst | Fragile debate commentator with severe gambling liabilities and existential dread |
+| [[pepito|Pepito]] | Executive Producer | Canine broadcast executive running the control room and opening every broadcast |
+| [[chet|Chet (Chet Manscape)]] | Chief Science Correspondent | Investigative science correspondent dispatched whenever "science" is uttered |
+| [[chet-ai|ChetAI]] | Synthetic AI Analyst | Chet's neural network co-host operating directly through the studio monitors |
+| [[hype-train|Hype Train]] | Cultural & Musical Correspondent | High-velocity locomotive correspondent accompanied by his panther partner |
+| [[cryptozeus|Cryptozeus (Brandon)]] | Gaming & Culture Correspondent | Remote gaming anchor broadcasting from his bedroom amidst maternal interruptions |
+| [[jeff-ripple|Jeff Ripple]] | Studio News Correspondent | Rapid-response desk reporter and viewer comment analyst |
+| [[peter-gibbon|Peter Gibbon]] | News Stowaway (Former Producer) | Disgraced former producer ousted from management who inhabits the studio wall crawlspaces |
+| [[rick|Rick]] | Tactical Web Analyst | Veteran tactical correspondent and anchor of *Amongst the Web* |
 
-## One-Time Bits & Guest Appearances
+## Special Correspondents, Legal Counsel & Guests
 
-Case occasionally introduces spontaneous one-off bit characters to accentuate a joke, along with occasional in-studio guest cameos.
+Guest contributors, legal counsel, and special broadcast interviewees appearing on *Barely Informed News*.
 
-| Name | Role / Status | Notes |
-|------|---------------|-------|
-| [[cremus-tremando|Cremus Tremando]] | one-time guest | Sleazy mystic sorcerer summoned by chat to cast body-swap spells |
-| [[christian|Christian]] | guest | In-studio guest and announcer cameo |
-| [[slightly-thick-waluigi|Slightly Thick Waluigi]] | one-time bit | Absurd Brooklyn-accented interview subject claiming to have assassinated Tupac and JFK with Mario Kart banana peels |
-| [[tommy-biglaw|Tommy Biglaw]] | one-time bit | Respected attorney who is an infant with a baby-talk lisp; counts Case as a client and has alter-ego "Big Tommy Prosecutor" |
+| Contributor | Broadcast Role | Notes |
+|---|---|---|
+| [[tommy-biglaw|Tommy Biglaw]] | Legal Counsel | High-priced infant attorney with a baby-talk lisp; also serves as "Big Tommy Prosecutor" |
+| [[cremus-tremando|Cremus Tremando]] | Occult & Mystical Consultant | Freelance mystic sorcerer retained for supernatural broadcast emergencies |
+| [[christian|Christian]] | In-Studio Contributor | In-studio guest announcer and production runner |
+| [[slightly-thick-waluigi|Slightly Thick Waluigi]] | Call-In Guest | Brooklyn-accented telephone interviewee claiming involvement in historical assassinations |
 
 See also: [[../storylines/crum-dick-punch|Crum D*ck Punch]], [[../segments/munch-and-crum|Munch & Crum]].

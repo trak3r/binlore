@@ -14,29 +14,26 @@ tags:
 
 ![Case Blackwell on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/case-blackwell.jpg)
 
-Streamer, comedian, and host of **Barely Informed News** on [Twitch](https://www.twitch.tv/caseblackwell).
+Lead news anchor, managing editor, and primary host of **Barely Informed News** broadcasting live on [Twitch](https://www.twitch.tv/caseblackwell).
 
 ## Overview
 
-Case runs the show that Binlore documents. On-air characters and segments (including [[munch|Munch]] and [[crum|Crum]]) appear within that broadcast.
+Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom desk in Los Angeles. He presides over breaking world news, political headlines, and investigative inquiries, while maintaining order across a turbulent studio that includes Executive Producer [[pepito|Pepito]], volatile debate analysts [[munch|Ralph Munchcut]] and [[crum|Crum]], and uninvited studio stowaway [[peter-gibbon|Peter Gibbon]].
 
-This page is for show-facing notes only — not a full biography of the streamer.
+## Broadcast Network
 
-## Links
-
-- Twitch: https://www.twitch.tv/caseblackwell
+- **Network Broadcast:** [Twitch (`caseblackwell`)](https://www.twitch.tv/caseblackwell)
+- **Archive Broadcasts:** [YouTube (`CaseBlackwell`)](https://www.youtube.com/@CaseBlackwell/streams)
 
 ## Notable moments
 
-
-
-- **[15:18]** ([[episodes/2026-09-02|2026-09-02]]): Mentions an upcoming Chicago Sketchfest date 'October 2nd' and teases 'a slightly larger project' announcement with the sketch group.
-- **[42:29]** ([[episodes/2026-09-02|2026-09-02]]): Credited reporter on the Pentagon story: 'Reporting for this was done by Christy Santhosh.'
-- **[50:02]** ([[episodes/2026-09-02|2026-09-02]]): When called out for slander, Case invokes the 'new thing in the news is slander streamers relentlessly all day' line and references 'Cutie Cinderella' being over-mentioned on CNN.
-- **[1:29:56]** ([[episodes/2026-09-02|2026-09-02]]): Case's mom bit: hit her head bumper-carring with 'Pastor Joe' at a local fair and now occasionally speaks in Old English by adding extra vowels; plugs Gooters 'dino fries' throughout the gameplay segment.
-- **[09:20]** ([[episodes/2026-09-04|2026-09-04]]): Personal lore: hiding a ring (or similar item) from Kendall who is out of town for 24 hours. References making 'husband money,' planning to leave the country on a long vacation after Monday, and revealing the chat trigger word 'science' triggers Chet (Case's wife Kendall apparently hears him rail against AI frequently).
-- **[42:46]** ([[episodes/2026-09-04|2026-09-04]]): On AI prompting: 'the sweet spot is like three sentences' for getting AI image generation to deliver — established professional opinion on AI tools. Also references working 'a job where I was generating AI role for a guy' (one of his 'coolest jobs ever').
-- **[40:02]** ([[episodes/2026-09-04|2026-09-04]]): Personal lore: Case names his hypothetical personal AI 'Tane' (rather than Alexa/Cortana), jokes 'if I ever have to get an AI I'm definitely naming it Tane.' Also mentions using 'angled buckets' for aging-related efficient urination, and owning smart windows that open/close on voice command.
-- **[00:54]** ([[episodes/2026-08-26|2026-08-26]]): Bart tattoo stream was Saturday: 106 Bart Simpson temporary tattoos applied with Kendall McDonald; used cheap non-Matlidel tattoo paper; sticky residue persisted for days.
-- **[16:01]** ([[episodes/2026-08-26|2026-08-26]]): Original BIN was a SimCity stream; before that it was an IRL Bass ProShops stream; in between, Case sat and read news transitioning from co-streams with Fiona.
-- **[01:40:04]** ([[episodes/2026-08-26|2026-08-26]]): Case is traveling to Thailand September 8–17 (about two weeks) for personal life events, and will not be streaming during that time.
+- **[15:18]** ([[episodes/2026-09-02|2026-09-02]]): Mentions an upcoming Chicago Sketchfest date 'October 2nd' and teases a larger project announcement with his sketch ensemble.
+- **[42:29]** ([[episodes/2026-09-02|2026-09-02]]): Credited field reporter on the Pentagon story: 'Reporting for this was done by Christy Santhosh.'
+- **[50:02]** ([[episodes/2026-09-02|2026-09-02]]): When called out on broadcast liability, Case cites the 'new trend in the news to relentlessly slander streamers all day' and references QTCinderella coverage on mainstream networks.
+- **[1:29:56]** ([[episodes/2026-09-02|2026-09-02]]): Reports on Brandon's mother suffering a bumper-car mishap with 'Pastor Joe' at a local fair, causing her to speak with archaic Old English inflections.
+- **[09:20]** ([[episodes/2026-09-04|2026-09-04]]): Discloses personal news of hiding a ring from Kendall while she is out of town, referencing making 'husband money,' and preparing for an extended international leave.
+- **[42:46]** ([[episodes/2026-09-04|2026-09-04]]): On AI prompting standards: declares 'the sweet spot is like three sentences' for precision generative output, referencing past commercial consulting work.
+- **[40:02]** ([[episodes/2026-09-04|2026-09-04]]): Names his prospective personal automated assistant 'Tane' rather than commercial defaults.
+- **[00:54]** ([[episodes/2026-08-26|2026-08-26]]): Debriefs the broadcast regarding applying 106 Bart Simpson temporary tattoos over the weekend, noting severe adhesive residue and skin irritation.
+- **[16:01]** ([[episodes/2026-08-26|2026-08-26]]): Recounts the early history of the network, tracing its origins from an outdoor Bass Pro Shops broadcast and SimCity city planning coverage to a full news desk format.
+- **[01:40:04]** ([[episodes/2026-08-26|2026-08-26]]): Announces upcoming international travel to Thailand from September 8–17 for personal life events, requiring the network's programming schedule to adjust accordingly.

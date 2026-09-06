@@ -317,7 +317,7 @@ tags:
 
 # {name}
 {img_tag}
-**{name}** appears on *Barely Informed News*. On-air characters and personas are typically portrayed by [[case-blackwell|Case Blackwell]] using face filters and voice changers.
+**{name}** is an on-air personality and contributor on *Barely Informed News*.
 
 ## Overview
 

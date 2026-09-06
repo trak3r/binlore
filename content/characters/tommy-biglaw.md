@@ -4,34 +4,34 @@ type: character
 aliases:
   - Big Tommy Prosecutor
 first_seen: 2026-08-26
-status: one-time bit
+status: legal counsel
 tags:
   - character
-  - one-off
+  - legal
 ---
 
 # Tommy Biglaw
 
 ![Tommy Biglaw on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/tommy-biglaw.jpg)
 
-**Tommy Biglaw** is a character on *Barely Informed News*. He is an infant who speaks with a pronounced baby-talk lisp, yet is somehow a respected, practicing attorney with [[case-blackwell|Case Blackwell]] as an active client.
+**Tommy Biglaw** is the high-priced legal counsel representing lead anchor [[case-blackwell|Case Blackwell]] and *Barely Informed News*.
 
-Portrayed by Case using an infant "baby face" digital filter overlaid onto neatly groomed facial hair, dressed in a sharp iridescent suit jacket, shirt, and tie.
+Distinguished by the facial features and lisping cadence of an infant paired with a dark, impeccably groomed full beard, Biglaw wears an iridescent dark blue suit jacket, tailored dress shirt, and colorful tie behind a broadcast studio microphone. Despite his youth, he is treated across the network as a licensed, high-billing attorney.
 
 ## Overview
 
-Debuting on the [[episodes/2026-08-26|2026-08-26 broadcast]], Tommy Biglaw is called in by chat after Case displays an unhinged video on stream and viewers demand legal compensation. Despite being a baby with infant facial features and a lisping baby cadence ("16 was" instead of laws, "court will" instead of courtroom), Biglaw is treated as legitimate high-priced legal counsel who bills strictly by the minute ($2,500 per infraction).
+Debuting on the [[episodes/2026-08-26|2026-08-26 broadcast]], Tommy Biglaw was summoned on air after viewers threatened legal action over unhinged video material Blackwell broadcast during the news block. Despite his baby-talk lisp ("16 was" instead of laws, "court will" instead of courtroom), Biglaw enforces ruthless commercial terms, billing Blackwell strictly by the minute ($2,500 per infraction).
 
-Rather than mounting a defense for his client, Biglaw promptly switches allegiances by declaring he is donning his second hat as his own alter-ego, **"Big Tommy Prosecutor,"** and demands Case pay $40,000 for 16 separate legal violations.
+Rather than defending his employer, Biglaw immediately turned on Blackwell by unveiling his aggressive alter-ego, **"Big Tommy Prosecutor."** Claiming to wear a second hat, Biglaw prosecuted his own client live on the network, demanding an immediate $40,000 settlement for 16 separate legal infractions before attempting to seize the studio's milk supplies.
 
 ## Appearances
 
 | Episode | Notes |
 |---------|-------|
-| [[episodes/2026-08-26|2026-08-26]] | Called in to consult on Case's chat liability; speaks in a baby-talk lisp, reveals alter-ego "Big Tommy Prosecutor," and bills Case $40,000 for breaking 16 laws. |
+| [[episodes/2026-08-26|2026-08-26]] | Summoned to advise on studio legal liability; speaks in a baby-talk lisp, assumes his prosecutor alter-ego, and bills Blackwell $40,000 for breaking 16 laws. |
 
 ## Notable moments
 
-- **[01:35:20]** ([[episodes/2026-08-26|2026-08-26]]): Debuts with baby face filter and beard, complaining he didn't have time to shave. Informs Case that he's already racking up billable minutes.
-- **[01:35:54]** ([[episodes/2026-08-26|2026-08-26]]): Announces his alter-ego is "Big Tommy Prosecutor" and starts prosecuting his own client live on the air.
-- **[01:37:04]** ([[episodes/2026-08-26|2026-08-26]]): Tallies up 16 broken "was" (laws) at $2,500 apiece, demanding a $40,000 settlement before attempting to drink Case's "big milk."
+- **[01:35:20]** ([[episodes/2026-08-26|2026-08-26]]): Arrives on set complaining he lacked time to shave, immediately notifying Blackwell that billable minutes are accruing.
+- **[01:35:54]** ([[episodes/2026-08-26|2026-08-26]]): Unveils his courtroom alter-ego as "Big Tommy Prosecutor," turning on his client and prosecuting Blackwell live on the air.
+- **[01:37:04]** ([[episodes/2026-08-26|2026-08-26]]): Formally tallies 16 broken "was" (laws) at $2,500 apiece, demanding a $40,000 wire transfer to his firm before attempting to consume Blackwell's "big milk."
