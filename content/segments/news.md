@@ -35,6 +35,7 @@ Lead anchor [[../characters/case-blackwell|Case Blackwell]] presides over the an
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 15:13 | Pentagon hormone screening policies, the Epstein Transparency Act legislative push, and Polk County donkey shooting investigations. |
@@ -51,3 +52,4 @@ Lead anchor [[../characters/case-blackwell|Case Blackwell]] presides over the an
 | [[episodes/2026-07-23|2026-07-23]] | 22:37 | Tariff Revival & Marketplace of Ideas: Case covers the administration's Friday tariff actions against 60 trading partners and the Supreme Court's earlier striking down of reciprocal duties. References to the 'park butthole' discovery and Teddy Roosevelt's dreams. |
 | [[episodes/2026-07-20|2026-07-20]] | 13:25 | Lincoln Returns From The Dead & Chat News: Case accidentally summons former president Abraham Lincoln from the afterlife 'swirling vortex singularity'. Lincoln discusses being president of the dead, missing Mitch McConnell, his poker games with Joe Biden and the Grim Reaper, and reading chat news. Mentions Eric Trump's involvement in killer robot company, 'kicking back' in the afterlife, and the death of the U.S. penny. |
 | [[episodes/2026-07-17|2026-07-17]] | 12:50 | Crum Arrives & AJ the Cryo Veteran: Crum enters wearing a 'bag of DNA' outfit, identifying himself as 'Jevening'. He describes spending three years in cryotherapy in his 20s and skipping COVID entirely. Conversation pivots to generative AI as Blackwell segues to the news block. |
+| [[episodes/2026-07-16|2026-07-16]] | 20:35 | News Desk: Trump Primetime Address, Vance Helicopter Scandal, and Real Botics Classroom Robot: Case anchors the news desk with Rick as co-contributor. Topics include Trump's Fox-only primetime election integrity speech (NBC/ABC/CNN refusing to air), JD Vance's unannounced appearance defending his Secret Service helicopter requests, Flock surveillance tower vandalism memes, and the Salamanca City Central School District deploying a $57,900 humanoid robot teacher from Real Botics. |

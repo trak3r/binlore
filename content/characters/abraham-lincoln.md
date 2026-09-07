@@ -36,10 +36,12 @@ He proclaims himself the **"President of the Dead"** within the "swirling vortex
 ## Appearances
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[../episodes/2026-07-20|2026-07-20]] | Broadcast debut. Banters with chat, demands settlement of the community [[../storylines/beyblade-tournament|Beyblade Tournament]] debt, rap-battles [[hype-train|Hype Train]], laments the elimination of the one-cent penny bearing his likeness, and critiques Eric Trump's autonomous security robots. |
 | [[episodes/2026-07-17|2026-07-17]] | Not present, but Munch quoted the phrase 'Only a good Joe Biden can stop a bad Joe Biden' in a manner that inadvertently echoed Lincoln's law. |
+| [[episodes/2026-07-16|2026-07-16]] | Lincoln referenced twice: Case interrupts chat to impersonate him with a high-pitched voice, and Rick jokes he is the closest thing to Abraham Lincoln on the stream. |
 
 ## Notable Quotes
 

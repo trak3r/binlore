@@ -31,6 +31,7 @@ Broadcast under the title **Munch & Crum**, the segment features rotating 3D net
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 1:12:27 | The Penalty Dossier Debate: Munch and Crum present their platforms. Munch recites an audience-submitted dossier enumerating reasons Crum must face his scheduled Monday robotic gorilla groin punch. Crum responds by claiming rigorous physical training and "super strength in spits." |
@@ -41,6 +42,7 @@ Broadcast under the title **Munch & Crum**, the segment features rotating 3D net
 | [[episodes/2026-08-08|2026-08-08]] | 99:48 | Spider-Man Debate & Crum's Daughter: Crum joins the desk. He reveals his 26-year-old daughter Bethesda has legally emancipated herself from him, triggered by his surprise delivery of several ponies (two arrived dead). Crum and Munch debate the best live-action Spider-Man; Munch takes Andrew Garfield (citing his 'gentle eyes' and 'long slender bod'), while Crum stubbornly claims both Tobey Maguire and Tom Holland. Crum officially schedules the Crum D*ck Punch robotic gorilla execution for August 31st. |
 | [[episodes/2026-08-04|2026-08-04]] | 57:00 | Is Case Stupid to Not Take Medicine for His Ankle?: Munch returns from his coiled 'python' rest to debate Crum on whether Blackwell should seek medical attention for his swollen ankle. Munch argues that not seeking medical help is the bravest thing a man can do, citing Wolverine-level healing factors and a self-described private 'medical team' he uses to deprive others of care. Crum insists Case see a doctor. Munch's rhetoric spirals into advocacy for silver supplements and peptides ('peptide spells'). The debate ends when Crum slams his conclusion button early; Munch declares victory and exits to grab his hearing aids. |
 | [[episodes/2026-07-17|2026-07-17]] | 00:00 | Pepito Opens, Crum Casual Friday & Studio Banter: Pepito opens the broadcast from the producer cam, gloating about being the dog that produces the show. Blackwell arrives in non-casual attire, confesses to forgetting to send the Patreon link to Kasim until 2 AM, and debates whether Trump should capitalize on the magazine concept by publishing a BIN zine. Segment requests are spammed (therapy, Jeb, a song). |
+| [[episodes/2026-07-16|2026-07-16]] | 57:41 | Munch & Crum Debate: Trump Won the 2020 Election: Senior debate analysts Munch and Crum clash over whether Trump won the 2020 election, with Munch defending Trump's 'integrity' through increasingly absurd analogies involving nipple spikes, while Crum insists the election was not stolen. Live chat polling continues to defeat Munch. |
 
 ## Related Coverage
 

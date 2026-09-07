@@ -30,6 +30,7 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Promises swift physical retribution upon Crum; recites the audience-compiled list of justifications for Crum's forfeit; leaks details regarding the Best Boob Club. |
@@ -39,6 +40,7 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 | [[episodes/2026-08-08|2026-08-08]] | Senior debate analyst. Picks Andrew Garfield as the best Spider-Man citing his 'gentle eyes' and 'long slender bod'. Torments Crum over his emancipated daughter and the impending gorilla punch. |
 | [[episodes/2026-08-04|2026-08-04]] | Senior debate analyst. Argues that refusing medical treatment for the ankle is brave, claims to maintain a private medical team to deprive others of healthcare, and promotes silver supplements and 'peptide spells' before exiting to remove his hearing aids. |
 | [[episodes/2026-07-17|2026-07-17]] | Senior debate analyst. Argued only stars deserve merch, proposed the dueling dragons t-shirt, demanded a European-style dragon to Crum's Chinese-style dragon, locked the scoreboard at minus 40 for Crum. |
+| [[episodes/2026-07-16|2026-07-16]] | Senior debate analyst argues that Trump won the 2020 election by retaining his 'integrity,' using bizarre nipple-spike analogies. |
 
 ## Notable moments
 

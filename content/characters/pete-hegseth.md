@@ -18,9 +18,11 @@ Subject of major news segment; video played announcing the Department of War tes
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-07-17|2026-07-17]] | Subject of major news segment; video played announcing the Department of War testosterone deficiency screening program for service members. |
+| [[episodes/2026-07-16|2026-07-16]] | Referenced as the 'Department of War' leader who beat Vance in a political fight. |
 
 ## Notable moments
 

@@ -45,10 +45,12 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 ## Appearances
 
 
+
 | Episode | Role | Notes |
 |---------|------|-------|
 | [[../episodes/2026-08-14|2026-08-14]] | Segment Host | Debuts [[../segments/how-to-with-jeb|How To with Jeb]] at `[01:22:57]`. Debates his wooden board father about family wealth and brother Jet's app fortune, then covers wood splitting, college self-defense escapes, and dirty dancing. |
 | [[episodes/2026-07-17|2026-07-17]] | How-To host. Co-hosted instructional triple-feature on vocal aerobics, advanced finger snapping, and self-massage. |
+| [[episodes/2026-07-16|2026-07-16]] | Chat references Jeb's expertise in 'getting rid of unwanted' things when discussing Puffy Bear. |
 
 ## Notable Quotes
 

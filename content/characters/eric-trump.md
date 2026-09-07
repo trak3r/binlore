@@ -18,9 +18,11 @@ Mentioned as chief strategy advisor of Foundation Future Industries (Foundation 
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-07-17|2026-07-17]] | Mentioned as chief strategy advisor of Foundation Future Industries (Foundation Robotics), whose humanoids are being readied for kinetic warfare. |
+| [[episodes/2026-07-16|2026-07-16]] | Vaguely referenced in opening chat as Case dismisses 'Stephanie Kase's new girlfriend' inquiry. |
 
 ## Notable moments
 

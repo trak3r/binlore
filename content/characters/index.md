@@ -47,5 +47,7 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[pete-hegseth|Pete Hegseth]] | recurring | Subject of major news segment; video played announcing the Department of War testosterone deficiency screening program for service members |
 | [[eric-trump|Eric Trump]] | recurring | Mentioned as chief strategy advisor of Foundation Future Industries (Foundation Robotics), whose humanoids are being readied for kinetic warfare |
 | [[razzle|Razzle]] | recurring | Recipient of the closing stream raid |
+| [[jd-vance|JD Vance]] | recurring | Vice President makes an unannounced on-air appearance to defend his Secret Service detail's helicopter requests, discussing Shasta, Feistas, and Samuel Adams cocktails while claiming to combat the male loneliness epidemic |
+| [[baseball-man|Baseball Man]] | recurring | Mysterious in-studio guest in a baseball hat who speaks only 'the language of baseball,' repeatedly identifying everyone as baseballs before crashing back to earth from a home run trajectory |
 
 See also: [[../storylines/crum-dick-punch|Crum D*ck Punch]], [[../segments/munch-and-crum|Munch & Crum]].
