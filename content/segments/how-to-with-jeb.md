@@ -14,6 +14,8 @@ tags:
 
 # How To with Jeb
 
+![How To with Jeb on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/how-to-with-jeb.jpg)
+
 **How To with Jeb** is a rogue instructional broadcast segment on *Barely Informed News*, hosted by [[../characters/jeb|Jeb Nogget]] alongside his deceased father, whose spirit is trapped within a wooden board.
 
 ## Format & Overview

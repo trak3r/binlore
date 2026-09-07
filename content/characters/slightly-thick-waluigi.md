@@ -11,6 +11,8 @@ tags:
 
 # Slightly Thick Waluigi
 
+![Slightly Thick Waluigi on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/slightly-thick-waluigi.jpg)
+
 **Slightly Thick Waluigi** is a Brooklyn-based call-in guest who phoned into the live broadcast of *Barely Informed News*.
 
 ## Overview

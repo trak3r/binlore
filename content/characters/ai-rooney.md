@@ -16,6 +16,8 @@ tags:
 
 # AI Rooney
 
+![AI Rooney on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/ai-rooney.jpg)
+
 **AI Rooney** is the network's proprietary cyborg commentator on *Barely Informed News*, designed as a computational homage to legendary CBS *60 Minutes* commentator Andy Rooney.
 
 ## Overview

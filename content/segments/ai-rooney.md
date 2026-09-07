@@ -16,6 +16,8 @@ tags:
 
 # AI Rooney
 
+![AI Rooney on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/ai-rooney.jpg)
+
 The audience-prompted grievance commentary desk on *Barely Informed News*, hosted by the network's proprietary cyborg commentator, [[../characters/ai-rooney|AI Rooney]].
 
 ## Format

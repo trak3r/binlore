@@ -17,6 +17,8 @@ tags:
 
 # Live 'n Sleazy
 
+![Live 'n Sleazy on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/live-in-sleazy.jpg)
+
 **Live 'n Sleazy** (often transcribed as **Live in Sleazy**) is a dedicated long-time viewer, master moderator, and community technical contributor for *Barely Informed News*.
 
 ## Overview

@@ -282,8 +282,14 @@ def create_character_page(
     lore_facts: list[tuple[str, str]],
     *,
     dry_run: bool = False,
-) -> Path:
+) -> Path | None:
     """Create a new character markdown file and add it to characters/index.md."""
+    # Exclude stream raid recipients: external streamers Case raids at stream close
+    lower_notes = char_notes.lower()
+    lower_name = name.lower()
+    if "raid" in lower_notes or "raid" in lower_name:
+        return None
+
     target_path = CONTENT_CHARACTERS / f"{slug}.md"
 
     appearances_row = f"| [[episodes/{ep_slug}|{ep_slug}]] | {char_notes.replace('|', '/').strip()} |"
@@ -294,38 +300,48 @@ def create_character_page(
     if not notable_bullets:
         notable_bullets.append(f"- First identified in [[episodes/{ep_slug}|Episode {ep_slug}]].")
 
-    known_assets = {
-        "cremus-tremando",
-        "peter-gibbon",
-        "jeff-ripple",
-        "pepito",
-        "rick",
-        "cryptozeus",
-        "chet",
-        "chet-ai",
-        "munch",
-        "crum",
-        "hype-train",
-        "tommy-biglaw",
-        "case-blackwell",
-    }
-    img_tag = ""
-    if slug in known_assets:
-        img_tag = f"\n![{name} on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/{slug}.jpg)\n"
+    # Mandatory character picture embed per wiki conventions
+    img_tag = f"![{name} on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/{slug}.jpg)\n\n"
+
+    # Check for real-life public figures / politicians needing CYA verbiage
+    is_public_figure = any(
+        k in lower_notes
+        for k in ("senator", "president", "politician", "public figure", "secretary of", "vice president", "biohacker")
+    ) or any(
+        k in lower_name
+        for k in ("trump", "vance", "mcconnell", "graham", "hegseth", "biden", "nixon", "johnson", "neill")
+    )
+
+    if is_public_figure:
+        cya_block = (
+            "> [!warning] Satirical Disclaimer & Public Figure Notice\n"
+            "> This page documents satirical news commentary, comedic impersonations, or running broadcast parodies featured on *Barely Informed News*. "
+            "The real-life individual is a public figure and is neither an employee, contributor, nor affiliate of *Barely Informed News*. "
+            "All depictions, quotes, and comedic storylines are works of parody and political satire. "
+            "See also the [[../disclaimer|Legal & Fan Disclaimer]].\n\n"
+        )
+        intro_lead = f"**{name}** is a real-world public figure frequently covered, satirized, and lampooned on *Barely Informed News*."
+        status_tag = "public figure (satirized)"
+        index_role = "Public Figure (Satirized)"
+    else:
+        cya_block = ""
+        intro_lead = f"**{name}** is a persona and contributor featured on *Barely Informed News*."
+        status_tag = "recurring"
+        index_role = "recurring"
 
     content = f"""---
 title: {name}
 type: character
 aliases: []
 first_seen: {ep_slug}
-status: recurring
+status: {status_tag}
 tags:
   - character
 ---
 
 # {name}
-{img_tag}
-**{name}** is an on-air personality and contributor on *Barely Informed News*.
+
+{img_tag}{cya_block}{intro_lead}
 
 ## Overview
 
@@ -355,7 +371,7 @@ tags:
             char_link = f"[[{slug}|{name}]]"
             if char_link not in idx_content and f"[[characters/{slug}|" not in idx_content:
                 short_note = char_notes.split(".")[0].replace("|", "/") if char_notes else "Recurring persona"
-                new_row = f"| {char_link} | recurring | {short_note} |"
+                new_row = f"| {char_link} | {index_role} | {short_note} |"
                 fm_idx, body_idx = _split_frontmatter_and_body(idx_content)
                 lines = body_idx.splitlines()
                 last_tbl = -1
@@ -513,9 +529,10 @@ def update_wiki_from_extraction(
             if slug in ("case-blackwell", "case"):
                 continue
             new_file = create_character_page(name, slug, ep_slug, notes, facts, dry_run=dry_run)
-            report.characters_created.append(slug)
-            if "characters/index.md" not in report.indexes_updated:
-                report.indexes_updated.append("characters/index.md")
+            if new_file is not None:
+                report.characters_created.append(slug)
+                if "characters/index.md" not in report.indexes_updated:
+                    report.indexes_updated.append("characters/index.md")
 
     # 2. Update Storyline pages
     storyline_beats_by_file: dict[Path, list[tuple[str, str]]] = {}

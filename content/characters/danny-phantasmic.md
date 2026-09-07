@@ -2,35 +2,33 @@
 title: Danny Phantasmic
 type: character
 aliases: []
-first_seen: 2026-08-06
-status: recurring
+first_seen: 2026-08-04
+status: guest cultural correspondent
 tags:
   - character
+  - correspondent
+  - film
 ---
 
 # Danny Phantasmic
 
-**Danny Phantasmic** is an on-air personality and contributor on *Barely Informed News*.
+![Danny Phantasmic on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/danny-phantasmic.jpg)
+
+**Danny Phantasmic** is an eccentric British guest cultural correspondent and folk-horror film analyst for *Barely Informed News*.
 
 ## Overview
 
-Guest cultural correspondent providing live reaction commentary to the folk horror film 'Wicker' (Wicker Man) trailer.
+Retained by the network specifically for theatrical trailer reactions and macabre cinematic analysis, Danny Phantasmic describes himself as "a little guy" characterized by a clipped British dialect, disproportionately oversized hands, and a massive tongue that he struggles to conceal while speaking.
+
+During his live video dispatches, Danny provides running commentary on horror cinema—such as dissecting the folk-horror film *Wicker*—frequently drifting off into bizarre musical tangents, such as freestyling original verses over Queen's "We Will Rock You" and recounting the time he performed "Bohemian Grove Rhapsody" for an affluent relative.
 
 ## Appearances
 
-
 | Episode | Notes |
 |---------|-------|
-| [[episodes/2026-08-06|2026-08-06]] | Guest cultural correspondent providing live reaction commentary to the folk horror film 'Wicker' (Wicker Man) trailer. |
-| [[episodes/2026-08-04|2026-08-04]] | Guest cultural correspondent. Live remote interview reveals him as a tiny British-accented man with oversized hands and a tongue that cannot be concealed while speaking. Freestyles 'original' songs over a 'We Will Rock You' instrumental. |
+| [[episodes/2026-08-04|2026-08-04]] | Debuts as a tiny British folk-horror analyst with oversized hands; freestyles original tracks over classic rock instrumentals. |
+| [[episodes/2026-08-06|2026-08-06]] | Cultural correspondent delivering live trailer analysis and reactions to folk horror releases. |
 
-## Notable moments
+## Notable Moments
 
-
-- **[52:17]** ([[episodes/2026-08-06|2026-08-06]]): Danny Phantasmic is a regular guest cultural correspondent retained by the network specifically for live trailer reaction segments and folk horror analysis.
-- **[01:36:11]** ([[episodes/2026-08-04|2026-08-04]]): Danny Phantasmic is a recurring folk-horror cultural correspondent retained for live trailer reaction and movie commentary; he claims to have performed 'Bohemian Grove Rhapsody' once for a 'formerly rich cousin.' [01:36:11] [01:39:42]
-- **[01:36:15]** ([[episodes/2026-08-04|2026-08-04]]): Danny Phantasmic describes himself as 'a little guy' with oversized hands and a tongue too large to fully conceal when speaking. [01:36:15] [01:36:25]
-
-## Open questions
-
-- Full backstory and recurring lore
+- **[01:36:11]** ([[episodes/2026-08-04|2026-08-04]]): Explains his unique anatomical traits and recounts his performance of "Bohemian Grove Rhapsody" to an astonished newsroom desk.

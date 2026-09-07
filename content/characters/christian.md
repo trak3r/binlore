@@ -10,6 +10,8 @@ tags:
 
 # Christian
 
+![Christian on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/christian.jpg)
+
 **Christian** is an in-studio contributor and guest announcer on *Barely Informed News*.
 
 ## Overview

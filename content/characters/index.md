@@ -44,19 +44,18 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[kendelle|Kendelle]] | In-Studio Presence | Case Blackwell's real-life and in-show girlfriend who appears walking through the streaming studio to her own signature theme music |
 | [[danny-phantasmic|Danny Phantasmic]] | Cultural Guest Correspondent | Tiny British folk-horror analyst with oversized hands and a tongue that cannot be concealed |
 | [[ai-rooney|AI Rooney]] | Cyborg Commentator (Retired) | Proprietary computational news cyborg modeled on Andy Rooney; delivered escalating 60-Minutes-style rants on audience-submitted topics until forced into retirement |
-| [[pete-hegseth|Pete Hegseth]] | recurring | Subject of major news segment; video played announcing the Department of War testosterone deficiency screening program for service members |
-| [[eric-trump|Eric Trump]] | recurring | Mentioned as chief strategy advisor of Foundation Future Industries (Foundation Robotics), whose humanoids are being readied for kinetic warfare |
-| [[razzle|Razzle]] | recurring | Recipient of the closing stream raid |
-| [[jd-vance|JD Vance]] | recurring | Vice President makes an unannounced on-air appearance to defend his Secret Service detail's helicopter requests, discussing Shasta, Feistas, and Samuel Adams cocktails while claiming to combat the male loneliness epidemic |
-| [[baseball-man|Baseball Man]] | recurring | Mysterious in-studio guest in a baseball hat who speaks only 'the language of baseball,' repeatedly identifying everyone as baseballs before crashing back to earth from a home run trajectory |
-| [[lindsey-graham|Lindsey Graham]] | recurring | Subject of major news segment reporting his death |
-| [[sam-neill|Sam Neill]] | recurring | Subject of R |
-| [[mitch-mcconnell|Mitch McConnell]] | recurring | Subject of news segment |
-| [[donald-trump|Donald Trump]] | recurring | Discussed in relation to reinstating a blockade of Iranian shipping and formally notifying Congress of a new war |
-| [[live-in-sleazy|Live 'n Sleazy]] | Technical Contributor / Master Mod | Long-time viewer and community moderator who assists Case with technical setups, software tools, and interactive stream features |
-| [[brandons-mother|Brandon's Mother]] | recurring | Brandon's mother; yells through the bedroom door about hair cream, hosting orgies, and Taco Bell diarrhea |
-| [[brian-johnson|Brian Johnson]] | recurring | Subject of news segment; biohacker diagnosed with an incurable autoimmune disease |
+| [[pete-hegseth|Pete Hegseth]] | Public Figure (Satirized) | Department of War figurehead satirized for military culture war initiatives and testosterone screening programs |
+| [[eric-trump|Eric Trump]] | Public Figure (Satirized) | Business figurehead and political surrogate satirized as strategic advisor for Foundation Robotics kinetic androids |
+| [[jd-vance|JD Vance]] | Public Figure (Satirized) | US Vice President who shares an uncanny resemblance to Case Blackwell (except eye color); relentlessly teased by chat and drops in for unannounced defenses |
+| [[baseball-man|Baseball Man]] | Studio Guest | Bewildered guest booked instead of Pablo Sanchez who communicates exclusively in "the language of baseball" |
+| [[lindsey-graham|Lindsey Graham]] | Public Figure (Satirized) | Senior US Senator frequently spoofed by Hype Train and subject of premature political obituaries |
+| [[sam-neill|Sam Neill]] | Celebrity (Satirized) | Jurassic Park star honored on air as Hollywood's ultimate silver fox in an affectionate comedic tribute |
+| [[mitch-mcconnell|Mitch McConnell]] | Public Figure (Satirized) | Senate leader satirized for proof-of-life press photos and purportedly endorsing Case's haircut |
+| [[donald-trump|Donald Trump]] | Public Figure (Satirized) | 45th and 47th President; frequent subject of Munch & Crum debate clashes and "Mom Donny" policy satire |
+| [[live-in-sleazy|Live 'n Sleazy]] | Technical Contributor / Master Mod | Long-time master moderator and technical contributor assisting with stream features and segment clip curation |
+| [[brandons-mother|Brandon's Mother]] | Unseen Family Voice | Brandon's loud-mouthed mother who screams through his bedroom door during gaming broadcasts |
+| [[brian-johnson|Bryan Johnson]] | Public Figure (Satirized) | Longevity biohacker and "Don't Die" founder satirized for autoimmune diagnoses despite extreme age-reversal protocols |
 | [[trip-bradstein|Trip Bradstein]] | Field Correspondent | Park-dwelling field correspondent broadcasting from the bushes and interviewing park visitors for their audience-submitted opinions |
-| [[nixon|Nixon]] | recurring | Subject of chat submissions; discussed as being 'competently corrupt' and unable to escape the deep state |
+| [[nixon|Richard Nixon]] | Historical Figure (Satirized) | 37th US President cited as the gold standard of "competent corruption" in executive power comparisons |
 
 See also: [[../storylines/crum-dick-punch|Crum D*ck Punch]], [[../segments/munch-and-crum|Munch & Crum]].

@@ -1,0 +1,29 @@
+# Segment Page Conventions
+
+When creating, editing, or auditing segment pages in `content/segments/`:
+
+## 1. Mandatory Segment Picture
+Every segment page MUST include an authentic screencap picture directly beneath the primary `# Segment Name` heading:
+
+```markdown
+# Segment Name
+
+![Segment Name on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/<segment-slug>.jpg)
+```
+
+### Screencap Extraction & Upload Workflow:
+1. Extract a clear frame showing the segment's title card, transition screen, or in-segment action from its VOD appearance using `tools/binlore_tools/screencap.py` via `ffmpeg`.
+2. Save the screencap locally to `tools/screencaps/<segment-slug>.jpg`.
+3. Upload the asset to GitHub release `media-assets` on repository `trak3r/binlore`:
+ ```bash
+ gh release upload media-assets --repo trak3r/binlore tools/screencaps/<segment-slug>.jpg --clobber
+ ```
+4. Embed the URL `https://github.com/trak3r/binlore/releases/download/media-assets/<segment-slug>.jpg` right under the `# Segment Name` heading.
+
+## 2. Required Structure & Cross-Links
+- Frontmatter (`title`, `type: segment`, `aliases`, `status`, `tags: [segment, ...]`).
+- `# Name` + Image embed directly under heading.
+- Format & Overview.
+- Key Elements, Hosts, Recurring Tropes, or Lore.
+- Cross-links to hosts, correspondents, and relevant storylines.
+- Always add/update the segment's entry in `content/segments/index.md`.

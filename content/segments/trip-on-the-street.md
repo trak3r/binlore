@@ -15,6 +15,8 @@ tags:
 
 # Trip on the Street
 
+![Trip on the Street on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/trip-on-the-street.jpg)
+
 The remote "man on the street" interview desk on *Barely Informed News*, hosted live on location from the bushes of a public park by field correspondent [[../characters/trip-bradstein|Trip Bradstein]].
 
 ## Format

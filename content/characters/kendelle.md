@@ -19,6 +19,8 @@ tags:
 
 # Kendelle
 
+![Kendelle on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/kendelle.jpg)
+
 **Kendelle** is lead anchor [[case-blackwell|Case Blackwell]]'s real-life and in-show girlfriend, making occasional in-studio appearances across *Barely Informed News*.
 
 ## Overview

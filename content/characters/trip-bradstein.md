@@ -17,6 +17,8 @@ tags:
 
 # Trip Bradstein
 
+![Trip Bradstein on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/trip-bradstein.jpg)
+
 **Trip Bradstein** is an eccentric field correspondent for *Barely Informed News*.
 
 Residing permanently in the bushes of a public park, Bradstein is the network's dedicated "man on the street" reporter, conducting remote interview dispatches for his signature segment, [[../segments/trip-on-the-street|Trip on the Street]].
