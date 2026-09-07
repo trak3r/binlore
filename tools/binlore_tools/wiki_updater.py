@@ -372,8 +372,8 @@ tags:
         index_path = CONTENT_CHARACTERS / "index.md"
         if index_path.exists():
             idx_content = index_path.read_text(encoding="utf-8")
-            char_link = f"[[{slug}|{name}]]"
-            if char_link not in idx_content and f"[[characters/{slug}|" not in idx_content:
+            char_link = f"[[characters/{slug}|{name}]]"
+            if char_link not in idx_content and f"[[characters/{slug}|" not in idx_content and f"[[{slug}|" not in idx_content:
                 short_note = char_notes.split(".")[0].replace("|", "/") if char_notes else "Recurring persona"
                 new_row = f"| {char_link} | {index_role} | {short_note} |"
                 fm_idx, body_idx = _split_frontmatter_and_body(idx_content)

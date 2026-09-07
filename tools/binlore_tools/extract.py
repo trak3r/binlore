@@ -82,12 +82,14 @@ Key network context:
   7. "Amongst the Web": Audience-interactive viral media review desk where a designated network correspondent evaluates viewer-submitted meme videos and online clips while the audience votes.
   8. "Trip on the Street": Remote field interview desk hosted by park-dwelling field correspondent **Trip Bradstein**. Trip lives in the bushes in a public park and interviews park visitors for their "on the street" opinions—which are provided by audience submissions.
   9. "AI Rooney": Audience-prompted grievance commentary desk featuring proprietary cyborg commentator **AI Rooney**, created as an homage to Andy Rooney. Rooney delivers rapid, escalating, 60-Minutes-style rants on audience-submitted topics (via chat commands like `!rr`), until his rants grew so offensive that Case had to permanently retire the segment.
+  10. "DJ Newsic": Signature high-energy musical finale and rapid-fire news desk, commonly closing Friday broadcasts. Hosted by resident beat-smith and producer **DJ Newsic** (also known as **DJ C4**) in the DJC4 Studios under glowing "Newsic Productions" neon signage. DJ Newsic lays down driving techno beats while fast-tracking breaking news developments, crowdsourcing audience lyrics via chat commands (`!L`), and producing official merch-drop anthems (often featuring guest bars and panicked fidelity disclaimers from Crum).
 
 - Key Network Figures:
   - **Munch (Ralph Munchcut)**: Senior debate analyst with disheveled silver hair.
   - **Crum**: Senior debate analyst, hollow-eyed and bald, plagued by crippling gambling debts.
   - **Chet (Chet Manscape)**: Chief science correspondent with desk microscope.
   - **ChetAI**: Synthetic neural network co-host operating from the studio monitors.
+  - **DJ Newsic (DJ C4)**: Network resident electronic music producer and rapid-fire news jockey broadcasting from the DJC4 Studios. Commonly closes out Friday broadcasts by laying down techno beats while fast-tracking news and crowdsourcing audience lyrics (`!L`) for official merch anthems.
   - **Hype Train**: High-velocity musical and cultural correspondent traveling with his panther companion.
   - **Brandon (Cryptozeus)**: Resident gaming and digital culture correspondent.
   - **Pepito**: Executive producer overseeing broadcast operations.

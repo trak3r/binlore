@@ -267,6 +267,37 @@ describe("link strategies", () => {
       assert.strictEqual(path.transformLink(cur, "index", opts), "../../")
     })
 
+    test("disambiguates same-directory matches when duplicate filenames exist", () => {
+      const ambiguousSlugs = [
+        "characters/hype-train",
+        "segments/hype-train",
+        "characters/index",
+        "segments/index",
+        "characters/live-in-sleazy",
+        "live-in-sleazy",
+      ] as FullSlug[]
+      const ambigOpts: TransformOptions = {
+        strategy: "shortest",
+        allSlugs: ambiguousSlugs,
+      }
+
+      // From characters/index, hype-train should resolve to characters/hype-train
+      assert.strictEqual(
+        path.transformLink("characters/index" as FullSlug, "hype-train", ambigOpts),
+        "../characters/hype-train",
+      )
+      // From segments/index, hype-train should resolve to segments/hype-train
+      assert.strictEqual(
+        path.transformLink("segments/index" as FullSlug, "hype-train", ambigOpts),
+        "../segments/hype-train",
+      )
+      // Disambiguate real path over root alias
+      assert.strictEqual(
+        path.transformLink("characters/index" as FullSlug, "live-in-sleazy", ambigOpts),
+        "../characters/live-in-sleazy",
+      )
+    })
+
     test("from index", () => {
       const cur = "index" as FullSlug
       assert.strictEqual(path.transformLink(cur, "d", opts), "./a/b/d")

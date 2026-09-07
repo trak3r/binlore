@@ -3,8 +3,6 @@ title: Live 'n Sleazy
 type: character
 aliases:
   - Live in Sleazy
-  - live-in-sleazy
-  - Live In Sleazy
   - Lyvin Sleazy
   - Sleazy
 first_seen: 2026-06-29
@@ -30,7 +28,7 @@ Beyond technical assistance with search engine setups, stream widgets, and digit
 ## Broadcast Role & Technical Support
 
 - **Interactive Feature Support:** Assists Case with the technical infrastructure required for experimental stream bits, chat commands, and AI features.
-- **Model Recovery for [[ai-rooney|AI Rooney]]:** Following the official retirement of the AI Rooney segment, Live 'n Sleazy was credited on air with successfully locating and extracting the decommissioned "Rooney 1.0 Knot Prime" model from the digital archives during the July 17, 2026 broadcast.
+- **Model Recovery for [[characters/ai-rooney|AI Rooney]]:** Following the official retirement of the AI Rooney segment, Live 'n Sleazy was credited on air with successfully locating and extracting the decommissioned "Rooney 1.0 Knot Prime" model from the digital archives during the July 17, 2026 broadcast.
 - **Segment Submissions:** Regular contributor to [[../segments/amongst-the-web|Amongst the Web]] and [[../segments/cryptozeus|Cryptozeus]], submitting viral clips (such as the prize-winning hog watch), debate prompts, and custom song concepts (such as "The Economy Ceasefire Violation Blues" for the DJC4 studio).
 
 ## Appearances & Mentions
@@ -46,4 +44,4 @@ Beyond technical assistance with search engine setups, stream widgets, and digit
 - **[01:06:45]** ([[episodes/2026-07-17|2026-07-17]]): Located the decommissioned Rooney 1.0 Knot Prime model, allowing Case and Chet to inspect the residual code before the model drained two lakes of water.
 - **[01:11:54]** ([[episodes/2026-06-29|2026-06-29]]): Recognized during the viral clip review for submitting high-ranking community content alongside fellow chat veterans.
 
-See also: [[case-blackwell|Case Blackwell]], [[ai-rooney|AI Rooney]], [[index|On-Air Talent & Staff]].
+See also: [[case-blackwell|Case Blackwell]], [[characters/ai-rooney|AI Rooney]], [[index|On-Air Talent & Staff]].

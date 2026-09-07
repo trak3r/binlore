@@ -27,7 +27,7 @@ Residing permanently in the bushes of a public park, Bradstein is the network's 
 
 Unlike the studio-bound newsroom staff, Bradstein lives on location within public park shrubbery, periodically emerging from multi-month "bush hibernations" when called upon to deliver dispatches. During his broadcasts, Bradstein intercepts passing park visitors to collect their unfiltered "on the street" opinions on questions and discussion topics sourced directly from audience submissions.
 
-Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'll never leave these streets!" despite the hazards and surreal encounters of park life. His live interviews feature an unpredictable parade of park denizens, impromptu interruptions by fellow network personalities (such as [[hype-train|Hype Train]]), and confused pedestrians—including Bradstein's own mother, whom he failed to recognize, treating her on air as a random stranger.
+Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'll never leave these streets!" despite the hazards and surreal encounters of park life. His live interviews feature an unpredictable parade of park denizens, impromptu interruptions by fellow network personalities (such as [[characters/hype-train|Hype Train]]), and confused pedestrians—including Bradstein's own mother, whom he failed to recognize, treating her on air as a random stranger.
 
 ## Appearances
 

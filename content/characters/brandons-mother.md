@@ -15,7 +15,7 @@ tags:
 
 ![Brandon's Mother shouting through the bedroom door on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/cryptozeus.jpg)
 
-**Brandon's Mother** is the unseen, loud-mouthed matriarch who relentlessly interrupts remote gaming dispatches by bellowing through the closed bedroom door of resident gaming correspondent [[cryptozeus|Brandon (Cryptozeus)]].
+**Brandon's Mother** is the unseen, loud-mouthed matriarch who relentlessly interrupts remote gaming dispatches by bellowing through the closed bedroom door of resident gaming correspondent [[characters/cryptozeus|Brandon (Cryptozeus)]].
 
 ## Overview
 

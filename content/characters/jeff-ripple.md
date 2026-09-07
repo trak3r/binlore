@@ -22,7 +22,7 @@ Stationed alongside the primary newsroom desk, Ripple monitors incoming viewer d
 
 ## Overview
 
-Ripple serves as the network's human-interest reporter and live audience conduit. He reads breaking viewer reactions to major headlines, tracks eccentric domestic stories, and frequently trades barbs with both Blackwell and high-velocity cultural correspondent [[hype-train|Hype Train]].
+Ripple serves as the network's human-interest reporter and live audience conduit. He reads breaking viewer reactions to major headlines, tracks eccentric domestic stories, and frequently trades barbs with both Blackwell and high-velocity cultural correspondent [[characters/hype-train|Hype Train]].
 
 Despite positioning himself as a serious newsroom correspondent in the mold of a legacy Jon Stewart, Ripple's journalistic ambitions are constantly derailed by chat trolling, technical difficulties, and his bitter professional obsessions.
 

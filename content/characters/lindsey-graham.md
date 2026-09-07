@@ -22,11 +22,11 @@ tags:
 
 ## Overview
 
-Senator Graham's foreign policy posturing, hawkish rhetoric, and dramatic media appearances are frequent targets for newsroom ridicule. The *Barely Informed News* staff and correspondents—notably [[hype-train|Hype Train]]—regularly parody his political shifting, distinctive speaking cadence, and theatrical television soundbites.
+Senator Graham's foreign policy posturing, hawkish rhetoric, and dramatic media appearances are frequent targets for newsroom ridicule. The *Barely Informed News* staff and correspondents—notably [[characters/hype-train|Hype Train]]—regularly parody his political shifting, distinctive speaking cadence, and theatrical television soundbites.
 
 ## Notable Lore & Moments
 
-- **Hype Train's Derailment**: In [[episodes/2026-07-11|Episode 2026-07-11]], resident high-velocity cultural correspondent [[hype-train|Hype Train]] launched into a tirade against Graham, mocking his political maneuvers and physical delivery.
+- **Hype Train's Derailment**: In [[episodes/2026-07-11|Episode 2026-07-11]], resident high-velocity cultural correspondent [[characters/hype-train|Hype Train]] launched into a tirade against Graham, mocking his political maneuvers and physical delivery.
 - **Premature Obituary Satire**: In [[episodes/2026-07-13|Episode 2026-07-13]], the broadcast presented a satirical "breaking news" report on Graham's political life, delivering an irreverent post-mortem on his hawkish foreign policy record and affectionate pet names for foreign allies.
 
 ## Appearances

@@ -249,6 +249,30 @@ export function transformLink(src: FullSlug, target: string, opts: TransformOpti
         const targetSlug = matchingFileNames[0]
         return (resolveRelative(src, targetSlug) + targetAnchor) as RelativeURL
       }
+
+      if (matchingFileNames.length > 1) {
+        // Disambiguate: prefer a file in the same directory as the source file
+        const srcDir = src.split("/").slice(0, -1).join("/")
+        if (srcDir) {
+          const sameDirMatch = matchingFileNames.find((slug) => {
+            const targetDir = slug.split("/").slice(0, -1).join("/")
+            return srcDir === targetDir
+          })
+          if (sameDirMatch) {
+            return (resolveRelative(src, sameDirMatch) + targetAnchor) as RelativeURL
+          }
+        }
+
+        // If not in the same directory, prefer real nested paths over root aliases
+        const nestedMatches = matchingFileNames.filter((slug) => slug.includes("/"))
+        if (nestedMatches.length === 1) {
+          return (resolveRelative(src, nestedMatches[0]) + targetAnchor) as RelativeURL
+        }
+
+        // Fall back to first nested match if available, or first match
+        const bestMatch = nestedMatches.length > 0 ? nestedMatches[0] : matchingFileNames[0]
+        return (resolveRelative(src, bestMatch) + targetAnchor) as RelativeURL
+      }
     }
 
     // if it's not unique, then it's the absolute path from the vault root

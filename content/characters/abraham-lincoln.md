@@ -30,7 +30,7 @@ He proclaims himself the **"President of the Dead"** within the "swirling vortex
 - **Dimensional Phasing Top Hat:** Claims his tall stovepipe hat possesses extradimensional pocket storage capable of concealing pastrami sandwiches, firearms, and stimulants for his hunting hounds.
 - **The Beyblade Debt:** Instigated the network's long-running [[../storylines/beyblade-tournament|Beyblade Tournament]] on the July 20, 2026 broadcast by calling out an unresolved community debt, prompting [[case-blackwell|Case Blackwell]] to purchase 16 sheets of temporary Bart Simpson tattoos ('Barts') and construct a 2v2 arena for [[crum|Crum]].
 - **Void Poker Games:** Reported that former world leaders and the Grim Reaper routinely play high-stakes poker in the vortex singularity, which he cites as the bureaucratic reason Joe Biden's life timeline repeatedly receives unexpected extensions.
-- **Rap Rivalry with Hype Train:** Engaged in a vicious freestyle rap showdown against [[hype-train|Hype Train]] regarding bodily fluids, prevailing decisively and forcing the sentient locomotive to read off subscriber renewals.
+- **Rap Rivalry with Hype Train:** Engaged in a vicious freestyle rap showdown against [[characters/hype-train|Hype Train]] regarding bodily fluids, prevailing decisively and forcing the sentient locomotive to read off subscriber renewals.
 - **Assassination Revisionism:** Alleges that his assassin, John Wilkes Booth, did not act alone or on ideology, but was physically hurled at him out of an "old-timey crate" by caller Brick.
 
 ## Appearances
@@ -39,7 +39,7 @@ He proclaims himself the **"President of the Dead"** within the "swirling vortex
 
 | Episode | Notes |
 |---------|-------|
-| [[../episodes/2026-07-20|2026-07-20]] | Broadcast debut. Banters with chat, demands settlement of the community [[../storylines/beyblade-tournament|Beyblade Tournament]] debt, rap-battles [[hype-train|Hype Train]], laments the elimination of the one-cent penny bearing his likeness, and critiques Eric Trump's autonomous security robots. |
+| [[../episodes/2026-07-20|2026-07-20]] | Broadcast debut. Banters with chat, demands settlement of the community [[../storylines/beyblade-tournament|Beyblade Tournament]] debt, rap-battles [[characters/hype-train|Hype Train]], laments the elimination of the one-cent penny bearing his likeness, and critiques Eric Trump's autonomous security robots. |
 | [[episodes/2026-07-17|2026-07-17]] | Not present, but Munch quoted the phrase 'Only a good Joe Biden can stop a bad Joe Biden' in a manner that inadvertently echoed Lincoln's law. |
 | [[episodes/2026-07-16|2026-07-16]] | Lincoln referenced twice: Case interrupts chat to impersonate him with a high-pitched voice, and Rick jokes he is the closest thing to Abraham Lincoln on the stream. |
 
@@ -64,5 +64,5 @@ He proclaims himself the **"President of the Dead"** within the "swirling vortex
 
 - [[../storylines/beyblade-tournament|Beyblade Tournament]]
 - [[case-blackwell|Case Blackwell]]
-- [[hype-train|Hype Train]]
+- [[characters/hype-train|Hype Train]]
 - [[index|All Characters]]
