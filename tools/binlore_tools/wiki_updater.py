@@ -290,6 +290,10 @@ def create_character_page(
     if "raid" in lower_notes or "raid" in lower_name:
         return None
 
+    # Exclude Ben Hooper: external real-world UPI reporter, not a character
+    if "hooper" in lower_name or slug in ("ben-hooper", "hooper", "jeff-hooper"):
+        return None
+
     target_path = CONTENT_CHARACTERS / f"{slug}.md"
 
     appearances_row = f"| [[episodes/{ep_slug}|{ep_slug}]] | {char_notes.replace('|', '/').strip()} |"
