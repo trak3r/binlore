@@ -38,6 +38,7 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 
 
 
+
 - **[15:18]** ([[episodes/2026-09-02|2026-09-02]]): Mentions an upcoming Chicago Sketchfest date 'October 2nd' and teases a larger project announcement with his sketch ensemble.
 - **[42:29]** ([[episodes/2026-09-02|2026-09-02]]): Credited field reporter on the Pentagon story: 'Reporting for this was done by Christy Santhosh.'
 - **[50:02]** ([[episodes/2026-09-02|2026-09-02]]): When called out on broadcast liability, Case cites the 'new trend in the news to relentlessly slander streamers all day' and references QTCinderella coverage on mainstream networks.
@@ -67,3 +68,6 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[59:02]** ([[episodes/2026-07-13|2026-07-13]]): Was romantically linked (via AI Rooney hallucination and Brandon's mother) to a woman named 'Stephanie' who apparently gives him bad haircuts and hears him moaning in his sleep.
 - **[00:10:01]** ([[episodes/2026-07-11|2026-07-11]]): Case and Kendall host a podcast together, where they must 'try stuff' from their weekly self-improvement topic. This week's focus is 'looks maxing'.
 - **[00:31:26]** ([[episodes/2026-07-11|2026-07-11]]): Case ordered a batch of temporary Bart Simpson tattoos, intending to cover his arms for 'one beautiful day' to create a fake tattoo sleeve.
+- **[00:55:14]** ([[episodes/2026-06-29|2026-06-29]]): Case admits to using a massage gun on his temples and near his eyes, calling it a 'responsible' practice before pivoting to the news.
+- **[01:46:35]** ([[episodes/2026-06-29|2026-06-29]]): Case's Twitch bio still has typos despite four years of streaming, and a leftover '1000 subs for a 24-hour news stream' goal persists.
+- **[00:58:51]** ([[episodes/2026-06-29|2026-06-29]]): Case's audience interaction commands include '!c to talk to the Joes' and '!4' for merch suggestions.

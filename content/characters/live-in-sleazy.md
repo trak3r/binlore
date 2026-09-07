@@ -18,9 +18,11 @@ Control room ghost operator mentioned by Case during his search engine tutorial.
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-07-11|2026-07-11]] | Control room ghost operator mentioned by Case during his search engine tutorial. |
+| [[episodes/2026-06-29|2026-06-29]] | Control room ghost operator. Submits the prize-winning hog watch and a cherry phosphate complaint prompt to AI Rooney. |
 
 ## Notable moments
 

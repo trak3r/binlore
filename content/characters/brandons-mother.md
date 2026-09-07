@@ -18,9 +18,11 @@ Brandon's mother; yells through the bedroom door about hair cream, hosting orgie
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-07-11|2026-07-11]] | Brandon's mother; yells through the bedroom door about hair cream, hosting orgies, and Taco Bell diarrhea. |
+| [[episodes/2026-06-29|2026-06-29]] | Yells through Brandon's bedroom door about Subway party sub theft, haircuts, toilet/house flooding with eight feet of water and dead hogs, the feral pig hose, and 'pepsi hose' rituals. Also calls him 'Brandy'. |
 
 ## Notable moments
 

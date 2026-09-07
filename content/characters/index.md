@@ -56,5 +56,6 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[live-in-sleazy|Live in Sleazy]] | recurring | Control room ghost operator mentioned by Case during his search engine tutorial |
 | [[brandons-mother|Brandon's Mother]] | recurring | Brandon's mother; yells through the bedroom door about hair cream, hosting orgies, and Taco Bell diarrhea |
 | [[brian-johnson|Brian Johnson]] | recurring | Subject of news segment; biohacker diagnosed with an incurable autoimmune disease |
+| [[trip|Trip]] | recurring | Field correspondent broadcasting from a park bush |
 
 See also: [[../storylines/crum-dick-punch|Crum D*ck Punch]], [[../segments/munch-and-crum|Munch & Crum]].

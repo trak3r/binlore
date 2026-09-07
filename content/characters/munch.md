@@ -32,6 +32,7 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Promises swift physical retribution upon Crum; recites the audience-compiled list of justifications for Crum's forfeit; leaks details regarding the Best Boob Club. |
@@ -43,6 +44,7 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 | [[episodes/2026-07-17|2026-07-17]] | Senior debate analyst. Argued only stars deserve merch, proposed the dueling dragons t-shirt, demanded a European-style dragon to Crum's Chinese-style dragon, locked the scoreboard at minus 40 for Crum. |
 | [[episodes/2026-07-16|2026-07-16]] | Senior debate analyst argues that Trump won the 2020 election by retaining his 'integrity,' using bizarre nipple-spike analogies. |
 | [[episodes/2026-07-11|2026-07-11]] | Senior debate analyst; briefly interrupts the set to escalate the conflict and question Crumb's financial standing. |
+| [[episodes/2026-06-29|2026-06-29]] | Mentioned as a possible matching shirt for the upcoming BIN merch drop ('a Munch shirt and a Crum shirt'). |
 
 ## Notable moments
 

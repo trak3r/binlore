@@ -34,6 +34,7 @@ Due to automated closed-captioning idiosyncrasies across network feeds, Ripple's
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Delivers studio commentary on news graphics quality and engages in verbal sparring with Hype Train regarding his feline partner. |
@@ -45,8 +46,10 @@ Due to automated closed-captioning idiosyncrasies across network feeds, Ripple's
 | [[episodes/2026-08-04|2026-08-04]] | Studio news reader. Anchors the news desk in Blackwell's place and delivers extended slam-poetry readings of the RFK Jr. cooking show item and the CM Punk stain investigation. |
 | [[episodes/2026-07-20|2026-07-20]] | Studio newsreader. Reads off chat comments regarding Munch and Crum shirts during the Lincoln segment. |
 | [[episodes/2026-07-13|2026-07-13]] | Studio newsreader providing breaking bulletins and banter. Confirms he is 'number one Ben Hooper fan'. |
+| [[episodes/2026-06-29|2026-06-29]] | Studio community correspondent. Co-hosts Amongst the Web in his 'Jam EFE era,' repeatedly demanding Case acknowledge 'I'm Jeff Ripple' as his catchphrase and getting upset about Case misreading his prompter. Later clarifies 'don't eat my nipples' as a Ripple-original. |
 
 ## Notable moments
+
 
 
 
@@ -60,3 +63,4 @@ Due to automated closed-captioning idiosyncrasies across network feeds, Ripple's
 - **[44:26]** ([[episodes/2026-08-06|2026-08-06]]): Studio correspondent Jeff Ripple is referred to by Blackwell as 'Ben Hooper' when requesting his field reporting services, matching the documented ASR mishearing of his surname.
 - **[21:59]** ([[episodes/2026-08-04|2026-08-04]]): Jeff Ripple anchors the news desk and is referred to by ASR as 'Jeff Hooper'; he is the network's designated community correspondent and chat-news reader. [21:59]
 - **[16:13]** ([[episodes/2026-07-13|2026-07-13]]): Proclaims himself the 'number one Ben Hooper fan'.
+- **[01:42:35]** ([[episodes/2026-06-29|2026-06-29]]): Jeff Ripple is now going by 'Jam EFE' (and 'Jeff Everything') in his current 'era.' Claims to have had his 'whole genitals replaced with custom whale bone' and is dropping a new album called 'Steam Shirt No Pants.'
