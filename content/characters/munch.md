@@ -31,6 +31,7 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Promises swift physical retribution upon Crum; recites the audience-compiled list of justifications for Crum's forfeit; leaks details regarding the Best Boob Club. |
@@ -41,8 +42,10 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 | [[episodes/2026-08-04|2026-08-04]] | Senior debate analyst. Argues that refusing medical treatment for the ankle is brave, claims to maintain a private medical team to deprive others of healthcare, and promotes silver supplements and 'peptide spells' before exiting to remove his hearing aids. |
 | [[episodes/2026-07-17|2026-07-17]] | Senior debate analyst. Argued only stars deserve merch, proposed the dueling dragons t-shirt, demanded a European-style dragon to Crum's Chinese-style dragon, locked the scoreboard at minus 40 for Crum. |
 | [[episodes/2026-07-16|2026-07-16]] | Senior debate analyst argues that Trump won the 2020 election by retaining his 'integrity,' using bizarre nipple-spike analogies. |
+| [[episodes/2026-07-11|2026-07-11]] | Senior debate analyst; briefly interrupts the set to escalate the conflict and question Crumb's financial standing. |
 
 ## Notable moments
+
 
 
 
@@ -59,3 +62,5 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 - **[57:26]** ([[episodes/2026-08-04|2026-08-04]]): Munch refers to himself as a 'python' coiled up between broadcasts and removes his hearing aids after leaving the desk. [57:26] [01:05:40]
 - **[01:13:56]** ([[episodes/2026-07-17|2026-07-17]]): Munch asserts he was a mayor, 'too busy being a mayor' to listen to music in the 2010s.
 - **[01:18:25]** ([[episodes/2026-07-17|2026-07-17]]): Munch officially considers Grandma Crumble Bottom 'a colleague and a scholar,' claiming she holds a doctorate in chemistry from Yale and is the 'most fully formed idea' on the stream.
+- **[01:21:51]** ([[episodes/2026-07-11|2026-07-11]]): Crum's official entrance protocol on the set involves demanding his coat back from Case, which Case routinely confiscates.
+- **[01:29:56]** ([[episodes/2026-07-11|2026-07-11]]): Crumb advocates for the assassination of political enemies, citing electoral failures as justification for replacing 'electoralism' with 'assassination'.

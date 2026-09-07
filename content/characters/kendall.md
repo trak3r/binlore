@@ -22,6 +22,7 @@ In-studio contributor appearing intermittently. Debuts briefly before 'ghosting'
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-08-06|2026-08-06]] | In-studio contributor appearing intermittently. Debuts briefly before 'ghosting' off-camera, later returns to announce she has already started playing 'BigWog' without Blackwell. |
@@ -29,6 +30,7 @@ In-studio contributor appearing intermittently. Debuts briefly before 'ghosting'
 | [[episodes/2026-07-20|2026-07-20]] | In-studio contributor and freelance video editor. Asks Case for legal advice on a restrictive freelance contract preventing portfolio use. |
 | [[episodes/2026-07-17|2026-07-17]] | In-studio contributor. Made a brief on-camera appearance mid-therapy session, then interrupted to announce plans to go get sticky rice in an hour. |
 | [[episodes/2026-07-16|2026-07-16]] | Referenced in passing by Case as 'Drunkleted' in relation to Stephanie's potential new girlfriend. |
+| [[episodes/2026-07-11|2026-07-11]] | In-studio contributor; evaluates Case's haircut and paint, co-hosts the kissing record attempt, and assists in the Mecha Chameleon session. |
 
 ## Notable moments
 

@@ -48,6 +48,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Delivers the station sign-on: *"I'm Pepito, I'm the dog that produces the show, and now it is live, and I'm a dog."* |
@@ -66,6 +67,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-07-17|2026-07-17]] | Executive Producer, opened the broadcast via producer cam. |
 | [[episodes/2026-07-16|2026-07-16]] | Executive producer delivers cold open intro before cutting to live broadcast. |
 | [[episodes/2026-07-13|2026-07-13]] | Executive Producer providing cold open countdown and failing to locate Mitch McConnell in the 'weird sandpit'. |
+| [[episodes/2026-07-11|2026-07-11]] | Executive Producer; opens the broadcast and attempts to intervene during the sub goal shout-out. |
 
 ## Notable moments
 

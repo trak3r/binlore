@@ -42,6 +42,7 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Live DOS playthrough of Epic MegaGames' *Jill of the Jungle* trilogy. Plugs Gooters wings and navigates his mother's Old English vocal affectations following a bumper-car accident. |
@@ -53,8 +54,10 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-07-23|2026-07-23]] | Resident Gaming Correspondent. Broadcasts the Cryptozeus segment. Struggles extensively with emulator controller setup and keyboard inputs while playing Rex Ronan. Later joins the Joe Rogan parody segment. Constantly berated by his mother through the bedroom door. |
 | [[episodes/2026-07-20|2026-07-20]] | Resident gaming correspondent. Broadcasts from his bedroom attempting to beat Super Mario Bros. 3 while his mother yells through the door. |
 | [[episodes/2026-07-13|2026-07-13]] | Gaming correspondent playing 'Cursed'. Discloses his mother is 'French', lives in a tight-knit community, and mentions 'Stephanie' showing up at the door. |
+| [[episodes/2026-07-11|2026-07-11]] | Gaming correspondent; hosts the Mecha Chameleon block, names the server 'cream boys,' and applies texture camouflage. |
 
 ## Notable moments
+
 
 
 
@@ -77,3 +80,4 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 - **[01:08:21]** ([[episodes/2026-07-13|2026-07-13]]): Does not believe in haircuts, using a primitive caveman method of compressing his hair down instead.
 - **[01:24:50]** ([[episodes/2026-07-13|2026-07-13]]): His mother is French and holds prejudices against the French for making 'too sexy' movies, replacing racism with xenophobic wordplay (baguettes).
 - **[01:31:43]** ([[episodes/2026-07-13|2026-07-13]]): Has a history of taking 'be a less awful guy classes'.
+- **[01:45:34]** ([[episodes/2026-07-11|2026-07-11]]): Brandon's mother constantly yells at him for leaving mayonnaise hair cream packages open, causing the contents to 'rot off' and be devoured by rats.

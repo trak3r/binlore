@@ -38,6 +38,7 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-04|2026-09-04]] | Takes the debate desk following the botched occult ritual, temporarily disoriented into believing he has swapped identities with Munch. Employs archaic slang ('japs' for mischief) and prepares for his scheduled Monday robotic gorilla encounter. |
@@ -52,8 +53,10 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 | [[episodes/2026-07-17|2026-07-17]] | Senior debate analyst. Bantered in cold open, defended his MIDI keyboard, debated merch priority with Munch, recorded the Stephanie merch-drop rap with explicit pre-emptive marital fidelity disclaimer to his wife Belolia, appeared during the Chet therapy segment. |
 | [[episodes/2026-07-16|2026-07-16]] | Senior debate analyst declares Trump lost the 2020 election with 100% certainty, mocks Munch's rhetorical collapse, and complains about nipple spike distractions before prematurely exiting the debate. |
 | [[episodes/2026-07-13|2026-07-13]] | Senior debate analyst arguing for the reinstatement of AI Rooney. Shares a bizarre, fabricated(?) origin story of his name involving a Crumbl cookie shop birth on a 12-inch party sub. |
+| [[episodes/2026-07-11|2026-07-11]] | Senior debate analyst; criticizes Case's haircut, references his father's dealership, and flees after a debate over political violence. |
 
 ## Notable moments
+
 
 
 
@@ -84,3 +87,5 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 - **[13:29]** ([[episodes/2026-07-16|2026-07-16]]): The robotic gorilla execution is formally scheduled for mid-August 2026.
 - **[01:03:01]** ([[episodes/2026-07-16|2026-07-16]]): When a debate moderator is unavailable, Munch retains authority to launch the !MC command himself, manually creating his own side of the debate topic.
 - **[01:49:50]** ([[episodes/2026-07-13|2026-07-13]]): Claimed his full name 'Crum' is an old family joke stemming from his mother going into labor at a Crumbl cookie shop and being delivered onto the bread of a 12-inch party sub.
+- **[01:21:51]** ([[episodes/2026-07-11|2026-07-11]]): Crum's official entrance protocol on the set involves demanding his coat back from Case, which Case routinely confiscates.
+- **[01:29:56]** ([[episodes/2026-07-11|2026-07-11]]): Crumb advocates for the assassination of political enemies, citing electoral failures as justification for replacing 'electoralism' with 'assassination'.

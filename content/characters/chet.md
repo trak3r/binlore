@@ -36,6 +36,7 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Triggered after the news desk utters "scientists"; reviews a Brazilian Journal of Plastic Surgery aesthetic proportion study alongside [[chet-ai|ChetAI]], determining that "all boobs is good." |
@@ -43,6 +44,7 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2026-08-19|2026-08-19]] | Chief science correspondent deploying to the desk to investigate the smart underwear flatulence research. |
 | [[episodes/2026-07-23|2026-07-23]] | Chief Science Correspondent. Spontaneously activates upon hearing the 'skiantist' trigger to offer medical advice on Case's ankle, advising thick power calves and full body thick activation. Notes his lack of a fully operational medical license. |
 | [[episodes/2026-07-17|2026-07-17]] | Chief science correspondent appearing as 'Dr. Chath' in a military-grade therapist persona. Diagnosed AI Psychosis from released Andy Rooney spirit, hinted Peter Gibbon took Stephanie to the wall, billed at $500 an hour. |
+| [[episodes/2026-07-11|2026-07-11]] | Chief science correspondent disguised as 'Dr. Cheth'; appears on the studio monitor for a therapy session and looks maxing consultation. |
 
 ## Notable moments
 

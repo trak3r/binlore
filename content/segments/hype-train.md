@@ -37,6 +37,7 @@ While officially tasked with acknowledging viewer contributions and network patr
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 17:13 | Intercepts the broadcast to promote *Piss Fruit Ninja*, commands a vaudeville tempo, and outlines his crypto-universe background. |
@@ -51,3 +52,4 @@ While officially tasked with acknowledging viewer contributions and network patr
 | [[episodes/2026-07-20|2026-07-20]] | 28:31 | Lincoln vs Hype Train Battle Rap: Triggered by chat demand, Abraham Lincoln challenges Hype Train to a freestyle rap battle over a presidential trap beat. Hype Train raps about meteor dirt and bodily fluids, while Lincoln awkwardly responds with hot dog bars. Chat votes Lincoln as the winner, forcing Hype Train to thank the subs. |
 | [[episodes/2026-07-17|2026-07-17]] | 32:54 | Hype Train Cascade: Piss Hunters, George Carlin & Spanish Guitar: Triggered by bits and subs. Hype Train declares a sub-goal of 'piss hunters' because 'big game hunters want my valuable piss to key with Planet's Rewards.' Raps about his piss keeping viewers alive, gives a shoutout to 'shiny tasty corn', and name-drops George Carlin as a former train station companion. Returns later with a Spanish guitar house beat, declaring 'In the lattice fucking piss' the new stream tag. |
 | [[episodes/2026-07-13|2026-07-13]] | 38:40 | Hype Train Sock-Filled-with-Ass Rap: Hype Train crashes the news for a hype train surge, attempting to rap about a sock filled with 'ass' rather than his usual 'piss' topic. Blackwell repeatedly tries to silence him to get back to Iran war coverage. The segment concludes with Hype Train lamenting the loss of his segment time. |
+| [[episodes/2026-07-11|2026-07-11]] | 12:50 | Hype Train Podcast Freestyle: The Hype Train correspondent commandeers the broadcast to deliver a freestyle rap proposing a 'podcast type beat,' complaining about Case's haircut, and vowing to move his broadcast operations to the moon. The segment concludes with an off-screen glitch as the correspondent exits. |

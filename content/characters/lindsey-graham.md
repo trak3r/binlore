@@ -18,9 +18,11 @@ Subject of major news segment reporting his death. Mocked for his political lega
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-07-13|2026-07-13]] | Subject of major news segment reporting his death. Mocked for his political legacy and his pet name for Israel. |
+| [[episodes/2026-07-11|2026-07-11]] | Subject of political commentary; mocked by Hype Train for his tongue and political standing. |
 
 ## Notable moments
 
