@@ -2,6 +2,8 @@
 title: Trip Bradstein
 type: character
 aliases:
+  - characters/trip
+  - /characters/trip
   - Trip
   - trip
   - Bradstein

@@ -52,7 +52,7 @@ def generate_episodes_index() -> None:
 
         if yt_id in ingested_map:
             ep_slug = ingested_map[yt_id]
-            title_cell = f"**[[{ep_slug}|{title}]]**"
+            title_cell = f'<a href="./{ep_slug}" class="internal"><strong>{title}</strong></a>'
             status_cell = '<span class="badge badge-ingested">✓ Ingested</span>'
             status_raw = "ingested"
         else:

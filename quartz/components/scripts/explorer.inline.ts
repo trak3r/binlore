@@ -104,6 +104,7 @@ function createFolderNode(
   currentSlug: FullSlug,
   node: FileTrieNode,
   opts: ParsedOptions,
+  characterCounts?: Map<string, number>,
 ): HTMLLIElement {
   const template = document.getElementById("template-folder") as HTMLTemplateElement
   const clone = template.content.cloneNode(true) as DocumentFragment
@@ -149,11 +150,93 @@ function createFolderNode(
     folderOuter.classList.add("open")
   }
 
-  for (const child of node.children) {
-    const childNode = child.isFolder
-      ? createFolderNode(currentSlug, child, opts)
-      : createFileNode(currentSlug, child)
-    ul.appendChild(childNode)
+  const isEpisodesFolder =
+    node.slugSegment === "episodes" || node.slug === "episodes" || node.slug === "episodes/index"
+  const isCharactersFolder =
+    node.slugSegment === "characters" ||
+    node.slug === "characters" ||
+    node.slug === "characters/index"
+
+  if (isEpisodesFolder) {
+    const maxEpisodes = 5
+    const childrenToRender = [...node.children]
+    const topEpisodes = childrenToRender.slice(0, maxEpisodes)
+
+    // Ensure active current episode is visible even if older than top 5
+    const currentEpisode = childrenToRender.find(
+      (c) => c.slug === currentSlug && !topEpisodes.includes(c),
+    )
+    if (currentEpisode) {
+      topEpisodes.push(currentEpisode)
+    }
+
+    for (const child of topEpisodes) {
+      const childNode = child.isFolder
+        ? createFolderNode(currentSlug, child, opts, characterCounts)
+        : createFileNode(currentSlug, child)
+      ul.appendChild(childNode)
+    }
+
+    if (childrenToRender.length > maxEpisodes) {
+      const archiveLi = document.createElement("li")
+      archiveLi.className = "explorer-archive-link"
+      const archiveA = document.createElement("a")
+      archiveA.href = resolveRelative(currentSlug, node.slug)
+      archiveA.dataset.for = node.slug
+      archiveA.innerHTML = '<span class="archive-icon">📁</span> Full Archive →'
+      archiveLi.appendChild(archiveA)
+      ul.appendChild(archiveLi)
+    }
+  } else if (isCharactersFolder) {
+    const maxCharacters = 10
+    const childrenToRender = [...node.children]
+
+    // Sort character children by appearance count descending, then by displayName
+    if (characterCounts) {
+      childrenToRender.sort((a, b) => {
+        const countA = characterCounts.get(a.slugSegment) ?? 0
+        const countB = characterCounts.get(b.slugSegment) ?? 0
+        if (countA !== countB) {
+          return countB - countA
+        }
+        return a.displayName.localeCompare(b.displayName)
+      })
+    }
+
+    const topCharacters = childrenToRender.slice(0, maxCharacters)
+
+    // Ensure active character is visible even if not in top 10
+    const currentCharacter = childrenToRender.find(
+      (c) => c.slug === currentSlug && !topCharacters.includes(c),
+    )
+    if (currentCharacter) {
+      topCharacters.push(currentCharacter)
+    }
+
+    for (const child of topCharacters) {
+      const childNode = child.isFolder
+        ? createFolderNode(currentSlug, child, opts, characterCounts)
+        : createFileNode(currentSlug, child)
+      ul.appendChild(childNode)
+    }
+
+    if (childrenToRender.length > maxCharacters) {
+      const rosterLi = document.createElement("li")
+      rosterLi.className = "explorer-archive-link"
+      const rosterA = document.createElement("a")
+      rosterA.href = resolveRelative(currentSlug, node.slug)
+      rosterA.dataset.for = node.slug
+      rosterA.innerHTML = '<span class="archive-icon">👥</span> Full Roster →'
+      rosterLi.appendChild(rosterA)
+      ul.appendChild(rosterLi)
+    }
+  } else {
+    for (const child of node.children) {
+      const childNode = child.isFolder
+        ? createFolderNode(currentSlug, child, opts, characterCounts)
+        : createFileNode(currentSlug, child)
+      ul.appendChild(childNode)
+    }
   }
 
   return li
@@ -237,11 +320,50 @@ async function setupExplorer(currentSlug: FullSlug) {
     const explorerUl = explorer.querySelector(".explorer-ul")
     if (!explorerUl) continue
 
+    // Count character appearances across all episodes
+    const characterCounts = new Map<string, number>()
+    const coreTalentWeights: Record<string, number> = {
+      "case-blackwell": 100,
+      "pepito": 95,
+      "hype-train": 90,
+      "crum": 85,
+      "munch": 80,
+      "cryptozeus": 75,
+      "chet": 70,
+      "jeff-ripple": 65,
+      "kendelle": 60,
+      "chet-ai": 55,
+      "peter-gibbon": 50,
+      "ai-rooney": 45,
+      "grandma-crumble-bottom": 40,
+      "tommy-biglaw": 35,
+      "live-in-sleazy": 30,
+      "jeb": 25,
+      "trip-bradstein": 20,
+    }
+    for (const [slug, weight] of Object.entries(coreTalentWeights)) {
+      characterCounts.set(slug, weight)
+    }
+
+    for (const [slug, details] of entries) {
+      if (slug.startsWith("episodes/") && slug !== "episodes/index") {
+        for (const link of details.links ?? []) {
+          const clean = link.replace(/^\.\.\//, "").replace(/^\.\//, "")
+          if (clean.startsWith("characters/")) {
+            const charName = clean.slice("characters/".length)
+            if (charName && charName !== "index") {
+              characterCounts.set(charName, (characterCounts.get(charName) ?? 0) + 10)
+            }
+          }
+        }
+      }
+    }
+
     // Create and insert new content
     const fragment = document.createDocumentFragment()
     for (const child of trie.children) {
       const node = child.isFolder
-        ? createFolderNode(currentSlug, child, opts)
+        ? createFolderNode(currentSlug, child, opts, characterCounts)
         : createFileNode(currentSlug, child)
 
       fragment.appendChild(node)

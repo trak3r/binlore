@@ -28,7 +28,7 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 
 - **The Ghostly Callout:** During the July 20, 2026 broadcast, the spectral reverberation of [[../characters/abraham-lincoln|Abraham Lincoln]] interrupted breaking geopolitical news to formally remind [[../characters/case-blackwell|Case Blackwell]] of an outstanding, unpaid community debt owed to network subscribers: a live Beyblade tournament.
 - **The Gambling Rehabilitation Ruse:** Acknowledging the debt, Blackwell pledged to host a 2v2 Beyblade Burst arena match. The primary in-universe justification was to grant [[../characters/crum|Crum]] an outlet to channel his chronic gambling fixation—the very addiction that led to his catastrophic wager in the [[crum-dick-punch|Crum D*ck Punch]] storyline.
-- **The "Barts" (Bart Simpson Tattoos) Saga:** Broadcast logistics were repeatedly tied to the delivery of 16 sheets of temporary Bart Simpson tattoos ("Barts"). The storyline took an absurd detour when Blackwell applied 106 temporary Bart Simpson tattoos across both arms over a weekend at [[../characters/kendall|Kendall's]] urging, leaving his skin raw, sticky with industrial adhesive, and requiring extensive on-air explanation.
+- **The "Barts" (Bart Simpson Tattoos) Saga:** Broadcast logistics were repeatedly tied to the delivery of 16 sheets of temporary Bart Simpson tattoos ("Barts"). The storyline took an absurd detour when Blackwell applied 106 temporary Bart Simpson tattoos across both arms over a weekend at [[../characters/kendelle|Kendelle's]] urging, leaving his skin raw, sticky with industrial adhesive, and requiring extensive on-air explanation.
 - **Production Roadblocks:** Beyond the tattoo ordeal, execution of the tournament has been postponed by Case's severe ankle injury (sustained while jogging past a mullet-wearing scooter rider and treated with a $20 Amazon flashlight cane), international travel schedules, and missing stadium components.
 
 ## Timeline & Broadcast Log
@@ -45,5 +45,5 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 - [[../characters/crum|Crum]]
 - [[../characters/case-blackwell|Case Blackwell]]
 - [[../characters/abraham-lincoln|Abraham Lincoln]]
-- [[../characters/kendall|Kendall]]
+- [[../characters/kendelle|Kendelle]]
 - [[crum-dick-punch|Crum D*ck Punch]]

@@ -280,3 +280,38 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
     }
   }
 }
+
+.explorer-archive-link {
+  margin-top: 0.35rem;
+  margin-bottom: 0.25rem;
+  padding-left: 0.25rem;
+  list-style: none;
+
+  a {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--secondary);
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.25rem 0.6rem;
+    border-radius: 6px;
+    background-color: var(--highlight);
+    border: 1px solid var(--lightgray);
+    text-decoration: none;
+    transition: all 0.2s ease;
+
+    &:hover {
+      color: var(--tertiary);
+      border-color: var(--secondary);
+      background-color: var(--light);
+      text-decoration: none;
+      transform: translateX(2px);
+    }
+
+    .archive-icon {
+      font-size: 0.95rem;
+    }
+  }
+}
+

@@ -43,4 +43,4 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 - **[01:56:52]** ([[episodes/2026-07-13|2026-07-13]]): Revealed to be running on an uncensored local model pulling from a database of roughly 80 highly volatile complaints.
 - **[01:03:33]** ([[episodes/2026-07-13|2026-07-13]]): Following multiple explicit slurs on air, Blackwell pulls the plug on the segment and officially announces AI Rooney's indefinite retirement.
 - **[01:10:38]** ([[episodes/2026-07-16|2026-07-16]]): The decommissioned Rooney voice interrupts from the control room to protest the loss of his $32 billion research budget.
-- **[01:06:45]** ([[episodes/2026-07-17|2026-07-17]]): Control room operator Live in Sleazy locates the decommissioned model; Chet diagnoses the newsroom with "AI Psychosis" from releasing the spirit of Andy Rooney into the wild.
+- **[01:06:45]** ([[episodes/2026-07-17|2026-07-17]]): Community technical contributor [[live-in-sleazy|Live 'n Sleazy]] locates the decommissioned model; Chet diagnoses the newsroom with "AI Psychosis" from releasing the spirit of Andy Rooney into the wild.

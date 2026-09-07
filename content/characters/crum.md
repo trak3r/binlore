@@ -1,8 +1,12 @@
 ---
-title: Crum
+title: Crum (Leonard Crum)
 type: character
 aliases:
+  - Leonard Crum
   - Crumb
+  - Leonard Crumb
+  - Leonard Crumfuscious
+  - Crumfuscious
 first_seen:
 status: recurring
 tags:
@@ -10,11 +14,11 @@ tags:
   - debate
 ---
 
-# Crum
+# Crum (Leonard Crum)
 
 ![Crum on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/crum.jpg)
 
-Senior debate analyst on *Barely Informed News*, best known as one half of the network's premier debate clash, [[../segments/munch-and-crum|Munch & Crum]].
+**Leonard Crum** (known on air simply as **Crum**, occasionally transcribed as **Crumb**) is a senior debate analyst on *Barely Informed News*, best known as one half of the network's premier debate clash, [[../segments/munch-and-crum|Munch & Crum]].
 
 ## Overview
 
@@ -48,7 +52,7 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 | [[episodes/2026-09-01|2026-09-01]] | Recounts the origin of the robotic gorilla wager, confirms he is spiritually prepared for the Monday execution, defends mayonnaise as the superior pizza topping, defeats Munch decisively on the scoreboard, and discusses Pastor Joe's favorite prayer. |
 | [[episodes/2026-08-26|2026-08-26]] | Serves as a self-described Democratic Party representative but balks at endorsing Mamdani; ultimately pressured into endorsing Munchcut for mayor. Attempts to defer the robotic gorilla execution with iron armor. |
 | [[episodes/2026-08-19|2026-08-19]] | Senior debate analyst who wanders into the news desk to compare himself to a bald mystic and claim proprietary ownership over an AI urine company concept. |
-| [[episodes/2026-08-14|2026-08-14]] | Senior Debate Analyst. Defends Hasan Piker's need for empathy and lighter segments, then spends the rest of the segment hijacking buttons and triggering his own outro music while arguing 'trime' is a portmanteau. Later manifests as the merged 'Kendall' identity attempting to announce a breakup during the outro. |
+| [[episodes/2026-08-14|2026-08-14]] | Senior Debate Analyst. Defends Hasan Piker's need for empathy and lighter segments, then spends the rest of the segment hijacking buttons and triggering his own outro music while arguing 'trime' is a portmanteau. Later manifests as the merged 'Kendelle' identity attempting to announce a breakup during the outro. |
 | [[episodes/2026-08-08|2026-08-08]] | Senior debate analyst. Reveals his 26-year-old daughter Bethesda legally emancipated herself due to a disastrous pony delivery. Picks both Tobey Maguire and Tom Holland. Schedules the Crum D*ck Punch for August 31st. Later pitches his out-of-print memoir 'Crum Fused' and offers to be an expert in holding it for people while they urinate. |
 | [[episodes/2026-08-04|2026-08-04]] | Senior debate analyst. Opposes Munch's anti-medicine stance, insists Blackwell see a doctor, and ultimately slams the segment-end button early to cut off Munch's ranting. |
 | [[episodes/2026-07-23|2026-07-23]] | Senior Debate Analyst. Brief vocal intrusion to push through the portal to hell and demand Case get well soon, before disappearing back into the ether. |

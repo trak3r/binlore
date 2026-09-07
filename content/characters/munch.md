@@ -53,7 +53,7 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 
 
 - **[1:15:02]** ([[episodes/2026-09-02|2026-09-02]]): Broadcasts the viewer-compiled dossier titled 'Reasons You Deserve to Get Your Dick Punched,' enumerating Crum's baldness, cowardice, unearned reputation, and arrogance.
-- **[1:21:58]** ([[episodes/2026-09-02|2026-09-02]]): Moderates the high-stakes audience poll between Christian and Kendall, acknowledging Christian's landslide victory.
+- **[1:21:58]** ([[episodes/2026-09-02|2026-09-02]]): Moderates the high-stakes audience poll between Christian and [[kendelle|Kendelle]], acknowledging Christian's landslide victory.
 - **[50:30]** ([[episodes/2026-09-01|2026-09-01]]): In a moment of vulnerability following a debate loss, solicits viewers to hold his welfare "in your spiritual hands."
 - **[01:27:28]** ([[episodes/2026-08-26|2026-08-26]]): Positions himself politically as a "triple X Vin Diesel" navigating skis through the jungle, demanding to be officially appointed "Mayor of the broadcast."
 - **[01:30:07]** ([[episodes/2026-08-26|2026-08-26]]): Invokes the legal doctrine of the "reverse pardon," claiming that Crum's procedural delays legally mandate a second blow from the robotic gorilla.

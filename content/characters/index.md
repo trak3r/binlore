@@ -13,7 +13,7 @@ Anchors, senior correspondents, debate analysts, and production staff across *Ba
 |---|---|---|
 | [[case-blackwell|Case Blackwell]] | Lead Anchor & Managing Editor | Primary broadcast anchor and managing editor of *Barely Informed News* |
 | [[munch|Munch (Ralph Munchcut)]] | Senior Debate Analyst | Fiery political commentator opposite Crum with messy silver hair |
-| [[crum|Crum]] | Senior Debate Analyst | Fragile debate commentator with severe gambling liabilities and existential dread |
+| [[crum|Crum (Leonard Crum)]] | Senior Debate Analyst | Fragile debate commentator with severe gambling liabilities and existential dread |
 | [[pepito|Pepito]] | Executive Producer | Canine broadcast executive running the control room and opening every broadcast |
 | [[chet|Chet (Chet Manscape)]] | Chief Science Correspondent | Investigative science correspondent dispatched whenever "science" is uttered |
 | [[chet-ai|ChetAI]] | Synthetic AI Analyst | Chet's neural network co-host operating directly through the studio monitors |
@@ -32,16 +32,16 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[tommy-biglaw|Tommy Biglaw]] | Legal Counsel | High-priced infant attorney with a baby-talk lisp; also serves as "Big Tommy Prosecutor" |
 | [[cremus-tremando|Cremus Tremando]] | Occult & Mystical Consultant | Freelance mystic sorcerer retained for supernatural broadcast emergencies |
 | [[abraham-lincoln|Abraham Lincoln]] | Spectral Contributor | High-pitched metaphysical projection of the 16th US President; calls out network Beyblade debts and rap-battles Hype Train |
-| [[jebs-dad|Jeb's Dad]] | Co-Host (*How To with Jeb*) | Deceased patriarch whose cantankerous spirit is trapped in a pine board; openly favors Jet Noggin over Jeb |
+| [[jebs-dad|Jeb's Dad]] | Co-Host (*How To with Jeb*) | Deceased patriarch whose cantankerous spirit is trapped in a pine board; openly favors Jet Nogget over Jeb |
 | [[hate-sock|Hate Sock]] | Town Hall Contributor | Hostile grey sock puppet with googly eyes whose vocabulary consists entirely of "You wish" and "Dumbass" |
-| [[gianna-wettmichel|Gianna Wettmichel]] | Unconfirmed (Suspected Intern) | Mysterious newsroom presence who seized the anchor desk to warn viewers of Danny Phantom's dangers |
+| [[gianna-wettmichel|Gianna Wettmichel]] | Guest Contributor | Outspoken returning correspondent who seized the anchor desk to warn viewers of Danny Phantom's supernatural dangers |
 | [[christian|Christian]] | In-Studio Contributor | In-studio guest announcer and production runner |
 | [[slightly-thick-waluigi|Slightly Thick Waluigi]] | Call-In Guest | Brooklyn-accented telephone interviewee claiming involvement in historical assassinations |
 | [[grandma-crumble-bottom|Grandma Crumble Bottom]] | Guest Host (*Amongst the Web*) | Outspoken senior guest anchor who restored vision via solar sky lasers and laments cooking foot bunions for her late husband |
 | [[liliana|Liliana]] | News Desk Co-Anchor | Irreverent desk partner returning from a year-long sabbatical with vacation photos and PTO demands |
 | [[marfus-darfus|Marfus Darfus]] | Guest Host (*Amongst the Web*) | Asexual viral media critic introduced as "Marfis Darfus" who hands down decimal ratings (e.g. `6.44`) |
-| [[jeb|Jeb Noggin]] | Host (*How To with Jeb*) | Wood shop host of rogue instructional block, co-hosting with his deceased father trapped in a wooden board |
-| [[kendall|Kendall]] | In-Studio Contributor | Co-op gaming partner, freelance video editor, and resident newsroom presence |
+| [[jeb|Jeb Nogget]] | Host (*How To with Jeb*) | Wood shop host of rogue instructional block, co-hosting with his deceased father trapped in a wooden board |
+| [[kendelle|Kendelle]] | In-Studio Presence | Case Blackwell's real-life and in-show girlfriend who appears walking through the streaming studio to her own signature theme music |
 | [[danny-phantasmic|Danny Phantasmic]] | Cultural Guest Correspondent | Tiny British folk-horror analyst with oversized hands and a tongue that cannot be concealed |
 | [[ai-rooney|AI Rooney]] | Cyborg Commentator (Retired) | Proprietary computational news cyborg modeled on Andy Rooney; delivered escalating 60-Minutes-style rants on audience-submitted topics until forced into retirement |
 | [[pete-hegseth|Pete Hegseth]] | recurring | Subject of major news segment; video played announcing the Department of War testosterone deficiency screening program for service members |
@@ -53,7 +53,7 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[sam-neill|Sam Neill]] | recurring | Subject of R |
 | [[mitch-mcconnell|Mitch McConnell]] | recurring | Subject of news segment |
 | [[donald-trump|Donald Trump]] | recurring | Discussed in relation to reinstating a blockade of Iranian shipping and formally notifying Congress of a new war |
-| [[live-in-sleazy|Live in Sleazy]] | recurring | Control room ghost operator mentioned by Case during his search engine tutorial |
+| [[live-in-sleazy|Live 'n Sleazy]] | Technical Contributor / Master Mod | Long-time viewer and community moderator who assists Case with technical setups, software tools, and interactive stream features |
 | [[brandons-mother|Brandon's Mother]] | recurring | Brandon's mother; yells through the bedroom door about hair cream, hosting orgies, and Taco Bell diarrhea |
 | [[brian-johnson|Brian Johnson]] | recurring | Subject of news segment; biohacker diagnosed with an incurable autoimmune disease |
 | [[trip-bradstein|Trip Bradstein]] | Field Correspondent | Park-dwelling field correspondent broadcasting from the bushes and interviewing park visitors for their audience-submitted opinions |

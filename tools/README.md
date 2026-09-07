@@ -90,7 +90,7 @@ binlore update-wiki 2863722826
 
 **What this updates:**
 - `content/characters/<name>.md`: Appends rows to `## Appearances` and adds timestamped bullets to `## Notable moments` with links back to the episode.
-- Auto-creates pages for new on-air personas (e.g. `hyper-train.md`, `skynce.md`) and updates `content/characters/index.md`.
+- Auto-creates pages for new on-air contributors (e.g. `hype-train.md`, `tommy-biglaw.md`) and updates `content/characters/index.md`.
 - `content/storylines/<slug>.md`: Appends beat developments to `## Key beats` timeline.
 - `content/segments/<slug>.md`: Appends occurrences to `## Known occurrences`.
 
@@ -129,4 +129,23 @@ binlore clean 2863722826
 # Force delete media even if transcription was aborted/incomplete
 binlore clean --force
 ```
+
+### 7. Unattended batch processing (`binlore process-all`)
+
+Process the entire historical backlog unattended with automatic audio cleanup, Quartz build validation, and git commits:
+
+```bash
+# Check status and remaining backlog
+binlore process-all --status
+
+# Preview next queue of episodes (dry-run)
+binlore process-all --dry-run --limit 10
+
+# Run unattended batch processor
+binlore process-all
+
+# Process oldest first with custom delay
+binlore process-all --oldest-first --delay 5.0
+```
+
 

@@ -1,8 +1,9 @@
 ---
-title: Jeb Noggin
+title: Jeb Nogget
 type: character
 aliases:
   - Jeb
+  - Jeb Noggin
   - Fake Jeb
   - Skin Suit Jeb
 first_seen: 2026-08-14
@@ -13,11 +14,11 @@ tags:
   - how-to-with-jeb
 ---
 
-# Jeb Noggin
+# Jeb Nogget
 
-![Jeb Noggin on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/jeb.jpg)
+![Jeb Nogget on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/jeb.jpg)
 
-**Jeb Noggin** (frequently referred to simply as **Jeb**) is an eccentric on-air contributor on *Barely Informed News* and the host of the rogue instructional segment [[../segments/how-to-with-jeb|How To with Jeb]].
+**Jeb Nogget** (frequently referred to simply as **Jeb**) is an eccentric on-air contributor on *Barely Informed News* and the host of the rogue instructional segment [[../segments/how-to-with-jeb|How To with Jeb]].
 
 ## Overview
 
@@ -36,8 +37,8 @@ Jeb's father is physically deceased, yet his consciousness resides directly with
 ### Implied Patricide & Soul Imprisonment
 A persistent dark cloud hangs over Jeb: on-air banter strongly implies that Jeb murdered his father and bound the man's soul into the wooden board through supernatural or occult means. While this patricide has never been officially confirmed, the father openly accuses Jeb of having a sinister nature and harboring deep malice.
 
-### Familial Resentment: Jet Noggin
-The father openly favors Jeb's brother, **Jet Noggin**. Jet was the celebrated golden child of the Noggin household, having developed wildly lucrative "smart apps" and amassed millions of dollars by age 12. While Jet flaunted his wealth and earned their father's eternal admiration, Jeb was left feeling neglected and second-rate—a resentment that surfaces whenever their father compares the two.
+### Familial Resentment: Jet Nogget
+The father openly favors Jeb's brother, **Jet Nogget**. Jet was the celebrated golden child of the Nogget household, having developed wildly lucrative "smart apps" and amassed millions of dollars by age 12. While Jet flaunted his wealth and earned their father's eternal admiration, Jeb was left feeling neglected and second-rate—a resentment that surfaces whenever their father compares the two.
 
 ### The "Real Jeb" & Skin Suit Mystery
 Within the broader network, questions exist regarding Jeb's physical identity. During the August 14, 2026 broadcast, lead anchor [[case-blackwell|Case Blackwell]] remarked on air that the *"real Jeb skin suit is still very much missing,"* prompting viewers to question whether the person hosting *How To with Jeb* is an impostor, a skin-suit wearer, or a supernatural facsimile.
@@ -63,7 +64,7 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 
 - Did Jeb deliberately kill his father, and what exact ritual or "mechanism" trapped the patriarch's soul inside the wooden board?
 - Where is the "real Jeb skin suit" referenced by Case Blackwell?
-- Will Jet Noggin ever appear on *Barely Informed News* to confront his brother and board-bound father?
+- Will Jet Nogget ever appear on *Barely Informed News* to confront his brother and board-bound father?
 
 See also: [[../segments/how-to-with-jeb|How To with Jeb]], [[../characters/index|On-Air Talent & Staff]].
 

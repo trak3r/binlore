@@ -4,10 +4,10 @@ type: character
 aliases:
   - Gianna
 first_seen: 2026-08-06
-status: unconfirmed (suspected intern)
+status: guest contributor
 tags:
   - character
-  - intern
+  - contributor
   - newsroom
 ---
 
@@ -15,39 +15,35 @@ tags:
 
 ![Gianna Wettmichel on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/gianna-wettmichel.jpg)
 
-**Gianna Wettmichel** is an enigmatic newsroom presence and suspected studio intern who made a sudden, unannounced on-camera takeover of the *Barely Informed News* anchor desk.
+**Gianna Wettmichel** is an outspoken correspondent who made an unannounced appearance at the *Barely Informed News* anchor desk opposite [[case-blackwell|Case Blackwell]].
 
 ## Overview & Persona
 
-During the [[../episodes/2026-08-06|August 6, 2026 broadcast]], Wettmichel materialized directly in the primary anchor chair while [[case-blackwell|Case Blackwell]] was away from the desk. Speaking with rapid urgency, she announced her full legal name as "Gianna Wettmichel," delivered a solemn public advisory regarding the existential dangers posed by *Danny Phantom*, and abruptly vanished the instant background music cued up in the control room.
+During the [[../episodes/2026-08-06|August 6, 2026 broadcast]], Wettmichel appeared unexpectedly at the desk after a long absence, declaring *"Hello everyone, it's been way too long, but I'm back—it's Gianna Wettmichel!"*
 
-Within production lore, Wettmichel is widely suspected to be one of the network's rotating, uncredited studio interns who seized an open broadcast feed while executive producer [[pepito|Pepito]] was distracted.
+Known for her blunt commentary and skepticism of network management, Wettmichel immediately launched into a passionate advisory regarding the supernatural threat posed by *Danny Phantom*, claiming the animated half-ghost is secretly cataloged on a classified supernatural Most Wanted registry. She also criticized Case's chaotic broadcast pacing and unfavorably compared network conditions to CNN (despite admitting she had never worked there).
 
 ## Key Attributes & Lore
 
-- **Desk Takeover:** Materialized behind the professional condenser microphone without lower-third billing or control room permission.
-- **Danny Phantom Warning:** Used her brief window of network airtime to alert viewers about the paranormal hazards associated with Nickelodeon's animated half-ghost hero.
-- **Musical Despawn:** Dissipated or fled the set as soon as the studio's audio stingers and background tracks began playing.
-- **Suspected Intern Identity:** Considered likely part of the station's beleaguered unpaid intern cohort who operate teleprompters, run coffee errands, and survive in the periphery of Case Blackwell's broadcast set.
+- **Desk Return:** Reappeared at the desk after an unspecified hiatus, immediately reassuring Blackwell that she remembered her own name.
+- **Danny Phantom Threat Warning:** Warned viewers of the existential hazards of phantoms walking through household walls, asserting that *Danny Phantom* is on a classified supernatural Most Wanted registry.
+- **Network Critique:** Scrutinized the network's production standards relative to mainstream cable news, demanding Case manage stream lengths and limit broadcasts to an hour.
 
 ## Appearances
 
 | Episode | Notes |
 |---------|-------|
-| [[../episodes/2026-08-06|2026-08-06]] | Live desk takeover at `[18:40]`. Introduces herself, delivers a solemn warning concerning Danny Phantom, and flees the desk when music plays. |
+| [[../episodes/2026-08-06|2026-08-06]] | Live desk appearance at `[18:40]`. Reintroduces herself, delivers a public advisory concerning *Danny Phantom*, critiques the network against CNN, and departs as the main news block begins. |
 
 ## Notable Quotes
 
-- *"My name is Gianna Wettmichel, and you need to understand the danger..."*
+- *"Hello, everyone. It's been way too long. But I'm back. It's Gianna Wettmichel."*
+- *"Danny Phantom is on the secret supernatural most wanted list. Nobody should have the power to be phantom."*
+- *"Look, maybe that's one thing you have over those places, okay? But everything else is much worse here."*
 
 ## Notable Moments
 
-- **[18:40]** ([[../episodes/2026-08-06|2026-08-06]]): Unannounced desk debut during the pre-show news block.
-
-## Open Questions
-
-- Is Gianna an official BIN editorial intern, or an unauthorized visitor from the hallway?
-- Will she return to deliver follow-up warnings about other cartoon phantoms?
+- **[18:40]** ([[../episodes/2026-08-06|2026-08-06]]): Surprise desk appearance during the pre-show news block.
 
 ## See also
 

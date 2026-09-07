@@ -1,8 +1,8 @@
 # BIN Lore
 
-Unofficial fan lore wiki for **[Barely Informed News](https://www.twitch.tv/caseblackwell)** — Case Blackwell's fictional news show stream on Twitch.
+Unofficial fan lore wiki for **[Barely Informed News](https://www.twitch.tv/caseblackwell)** — the late-night satirical news broadcast anchored by Case Blackwell on Twitch.
 
-Tracks characters, segments, storylines, and episodes as streams happen. Built with [Quartz](https://quartz.jzhao.xyz/) and hosted on [GitHub Pages](https://trak3r.github.io/binlore/).
+Tracks anchors, correspondents, recurring segments, storylines, and telecasts as broadcasts happen live. Built with [Quartz](https://quartz.jzhao.xyz/) and hosted on [GitHub Pages](https://trak3r.github.io/binlore/).
 
 > **Legal Disclaimer:** Unofficial, non-commercial fan wiki and documentation project. Not affiliated with, endorsed by, or sponsored by Case Blackwell, Barely Informed News, or Twitch. All character names, likenesses, trademarks, and media assets belong to their respective copyright holders and are referenced under fair use (17 U.S.C. § 107) for commentary, criticism, and archival purposes. Not operated for profit. See [`content/disclaimer.md`](content/disclaimer.md) for full legal disclosures.
 
@@ -113,6 +113,9 @@ Download the stream audio and generate a full timestamped transcript using local
 # Ingest the newest stream automatically
 ./binlore ingest --latest
 
+# Or ingest with immediate audio cleanup to save disk space
+./binlore ingest --latest --clean-audio
+
 # Or ingest a specific VOD by URL or ID
 ./binlore ingest "https://www.twitch.tv/videos/2863722826"
 
@@ -141,13 +144,13 @@ Run the LLM extraction pipeline over the transcript:
 
 **What this does automatically:**
 
-1. Loads current wiki canon (`content/characters/`, `content/segments/`, `content/storylines/`) so the model knows established characters (like Munch and Crum) and reconciles ASR phonetic errors (e.g. "Crumb" $\to$ "Crum").
+1. Loads current wiki canon (`content/characters/`, `content/segments/`, `content/storylines/`) so the model knows established talent (like Munch, Crum, Jeb Nogget, Kendelle, Brandon/Cryptozeus) and reconciles ASR phonetic errors (e.g. "Crumb" $\to$ "Crum", "Noggin" $\to$ "Nogget").
 2. Saves `tools/runs/<vod-id>/extraction.json`.
 3. Populates `content/episodes/YYYY-MM-DD.md` with:
    - Stream overview
    - Segment rundown table (`| Start | End | Segment | Notes |`)
-   - On-air characters detected (speaking vs mentioned) with Quartz wikilinks (`[[characters/crum|Crum]]`)
-   - Storyline developments (`[[storylines/munch-crum-rivalry|Munch–Crum rivalry]]`)
+   - On-air talent detected (speaking vs mentioned) with Quartz wikilinks (`[[characters/crum|Crum]]`)
+   - Storyline developments (`[[storylines/crum-dick-punch|Crum's Robotic Gorilla Groin Punch Bet]]`)
    - Timestamped candidate lore notes
 
 ### Step 4: Propagate Lore into the Wiki (`binlore update-wiki`)
@@ -168,7 +171,7 @@ Once extraction is complete, populate the rest of the wiki (Character appearance
 **What this does automatically:**
 
 - **Character pages** (`content/characters/<name>.md`): Appends to `## Appearances` and adds timestamped quotes/facts to `## Notable moments` with links back to the episode.
-- **New personas**: Automatically creates pages for newly detected on-air characters/personas (e.g. `hyper-train.md`, `skynce.md`) and indexes them in `content/characters/index.md`.
+- **New contributors & correspondents**: Automatically creates profiles for newly detected on-air personalities (e.g. `hype-train.md`, `tommy-biglaw.md`) and indexes them in `content/characters/index.md`.
 - **Storyline pages** (`content/storylines/<slug>.md`): Appends new beat entries to the `## Key beats` timeline with exact timestamps and episode anchors.
 - **Segment pages** (`content/segments/<slug>.md`): Appends occurrences to `## Known occurrences`.
 - **Idempotent**: Safe to run repeatedly without creating duplicate rows or notes.
@@ -337,10 +340,10 @@ sudo journalctl -u binlore -f
 # Output:
 # --- [BIN Lore Backlog Status] ---
 # Total catalog streams: 376
-# Ingested & Extracted:  5
-# Remaining in Backlog:  371 (1.3% complete)
-# Free Disk Space:       110.96 GB
-# Next in queue:         2026-08-19 — Upsetting Wednesday News
+# Ingested & Extracted:  20
+# Remaining in Backlog:  356 (5.3% complete)
+# Free Disk Space:       108.72 GB
+# Next in queue:         2026-06-22 — Don't Kier the Reaper, it's MONDAY NEWS
 # ---------------------------------
 
 # Preview the queue of unprocessed streams without modifying files
@@ -379,10 +382,10 @@ Content lives in [`content/`](content/):
 
 | Folder                | What it holds                                                         |
 | --------------------- | --------------------------------------------------------------------- |
-| `content/characters/` | People and personas (e.g. Munch, Crum, Case Blackwell)                |
-| `content/segments/`   | Recurring show formats and bits (e.g. Munch & Crum, News, Hype Train) |
-| `content/storylines/` | Arcs spanning multiple streams (e.g. Munch–Crum rivalry)              |
-| `content/episodes/`   | Per-stream episode notes and rundowns                                 |
+| `content/characters/` | On-air anchors, correspondents, contributors, and guests (e.g. Munch, Crum, Case Blackwell) |
+| `content/segments/`   | Recurring broadcast formats and desks (e.g. Munch & Crum, News, Hype Train) |
+| `content/storylines/` | Multi-broadcast storylines and investigative sagas (e.g. Crum's Robotic Gorilla Groin Punch Bet, Beyblade Tournament) |
+| `content/episodes/`   | Per-broadcast episode logs, rundowns, and candidate lore notes        |
 
 - Use `[[wikilinks]]` between pages (e.g. `[[characters/munch|Munch]]`).
 - Always cite timestamps when adding lore facts.
@@ -395,8 +398,9 @@ Content lives in [`content/`](content/):
 - [x] Phase 0: Repo bootstrap, Quartz setup, GitHub Pages CI/CD, seed pages
 - [x] Phase 1: VOD listing, audio download, local Whisper transcription, runs archive
 - [x] Phase 2: LLM segment and lore extraction via OpenRouter free tier
+- [x] Phase 3: Unattended server batch pipeline (`binlore process-all`) with auto-cleanup & validation
 - [ ] Automated git branch/PR generation for proposed wiki edits
-- [ ] Optional: face-filter reference gallery and voice-FX matching
+- [ ] Broadcast screencap gallery and on-air graphic asset index
 
 ---
 
