@@ -41,6 +41,7 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Live DOS playthrough of Epic MegaGames' *Jill of the Jungle* trilogy. Plugs Gooters wings and navigates his mother's Old English vocal affectations following a bumper-car accident. |
@@ -51,8 +52,10 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-08-04|2026-08-04]] | Resident gaming correspondent. Broadcasts remotely from his bedroom, fails to emulate Mickey's Blast Into the Past on the Sega Pico via RetroArch, and is repeatedly interrupted by his mother through the door. |
 | [[episodes/2026-07-23|2026-07-23]] | Resident Gaming Correspondent. Broadcasts the Cryptozeus segment. Struggles extensively with emulator controller setup and keyboard inputs while playing Rex Ronan. Later joins the Joe Rogan parody segment. Constantly berated by his mother through the bedroom door. |
 | [[episodes/2026-07-20|2026-07-20]] | Resident gaming correspondent. Broadcasts from his bedroom attempting to beat Super Mario Bros. 3 while his mother yells through the door. |
+| [[episodes/2026-07-13|2026-07-13]] | Gaming correspondent playing 'Cursed'. Discloses his mother is 'French', lives in a tight-knit community, and mentions 'Stephanie' showing up at the door. |
 
 ## Notable moments
+
 
 
 
@@ -71,3 +74,6 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 - **[01:05:56]** ([[episodes/2026-08-04|2026-08-04]]): Brandon's mother calls him 'Bran Bran' through the bedroom door and is sourced from incoming viewer submissions and community correspondence. [01:05:56]
 - **[01:07:11]** ([[episodes/2026-08-04|2026-08-04]]): Brandon's mother demands he inject Pepsi into his penis on behalf of Pastor Joe, who wants to 'pray the shit out of' him, and reveals the household front door is currently missing, explaining a bear infestation. [01:07:11] [01:22:52]
 - **[01:18:11]** ([[episodes/2026-07-23|2026-07-23]]): Brandon was hosting the segment while dealing with a busted controller cord, forcing him to rely on a tiny baby cord and keyboard inputs. His mother actively shouted at him about the YouTube stream suspension.
+- **[01:08:21]** ([[episodes/2026-07-13|2026-07-13]]): Does not believe in haircuts, using a primitive caveman method of compressing his hair down instead.
+- **[01:24:50]** ([[episodes/2026-07-13|2026-07-13]]): His mother is French and holds prejudices against the French for making 'too sexy' movies, replacing racism with xenophobic wordplay (baguettes).
+- **[01:31:43]** ([[episodes/2026-07-13|2026-07-13]]): Has a history of taking 'be a less awful guy classes'.

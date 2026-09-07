@@ -49,5 +49,9 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[razzle|Razzle]] | recurring | Recipient of the closing stream raid |
 | [[jd-vance|JD Vance]] | recurring | Vice President makes an unannounced on-air appearance to defend his Secret Service detail's helicopter requests, discussing Shasta, Feistas, and Samuel Adams cocktails while claiming to combat the male loneliness epidemic |
 | [[baseball-man|Baseball Man]] | recurring | Mysterious in-studio guest in a baseball hat who speaks only 'the language of baseball,' repeatedly identifying everyone as baseballs before crashing back to earth from a home run trajectory |
+| [[lindsey-graham|Lindsey Graham]] | recurring | Subject of major news segment reporting his death |
+| [[sam-neill|Sam Neill]] | recurring | Subject of R |
+| [[mitch-mcconnell|Mitch McConnell]] | recurring | Subject of news segment |
+| [[donald-trump|Donald Trump]] | recurring | Discussed in relation to reinstating a blockade of Iranian shipping and formally notifying Congress of a new war |
 
 See also: [[../storylines/crum-dick-punch|Crum D*ck Punch]], [[../segments/munch-and-crum|Munch & Crum]].

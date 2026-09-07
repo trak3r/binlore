@@ -36,6 +36,7 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 
 
 
+
 - **[15:18]** ([[episodes/2026-09-02|2026-09-02]]): Mentions an upcoming Chicago Sketchfest date 'October 2nd' and teases a larger project announcement with his sketch ensemble.
 - **[42:29]** ([[episodes/2026-09-02|2026-09-02]]): Credited field reporter on the Pentagon story: 'Reporting for this was done by Christy Santhosh.'
 - **[50:02]** ([[episodes/2026-09-02|2026-09-02]]): When called out on broadcast liability, Case cites the 'new trend in the news to relentlessly slander streamers all day' and references QTCinderella coverage on mainstream networks.
@@ -62,3 +63,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[09:00]** ([[episodes/2026-07-20|2026-07-20]]): Case reveals his magician name is 'Shaz Black' and Kendall's is 'Candy Lane', referencing their collaborative magic act.
 - **[01:40:48]** ([[episodes/2026-07-17|2026-07-17]]): Blackwell publishes a Patreon link he sent to Kasim at 2 AM; the stream currently averages ~72 viewers, three short of the Twitch Partner 75-viewer threshold. He is targeting the Partner badge by streaming three times a week.
 - **[01:18:52]** ([[episodes/2026-07-16|2026-07-16]]): Case confirms he suffers from altitude-based intelligence changes, stating 'I'm not high enough to remember' previous on-air events.
+- **[59:02]** ([[episodes/2026-07-13|2026-07-13]]): Was romantically linked (via AI Rooney hallucination and Brandon's mother) to a woman named 'Stephanie' who apparently gives him bad haircuts and hears him moaning in his sleep.

@@ -37,6 +37,7 @@ Brandon's gameplay is consistently disrupted by his mother shouting through the 
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 1:26:47 | DOS playthrough of the *Jill of the Jungle* trilogy with recurring Gooters dispatches, maternal Old English arguments, and in-game lore scrolling. |
@@ -48,3 +49,4 @@ Brandon's gameplay is consistently disrupted by his mother shouting through the 
 | [[episodes/2026-07-23|2026-07-23]] | 01:18:11 | Rex Ronan Experimental Surgeon Fail: Brandon takes over for the Cryptozeus segment. Suffers from massive controller and emulator input issues, eventually forced to play Rex Ronan: Experimental Surgeon on keyboard. Repeatedly softlocks and dies inside a patient's mouth and esophageal tract. His mother shouts encouragement and insults through the door regarding the stream suspension. Continues to die repeatedly and gets stuck on a screen he cannot navigate down from. |
 | [[episodes/2026-07-20|2026-07-20]] | 01:36:39 | Cryptozeus Plays Super Mario Bros. 3: Remote dispatch to Brandon (Cryptozeus) attempting to beat Super Mario Bros. 3 live. The segment is heavily disrupted by his mother yelling through the bedroom door, berating him as 'Bran Bran'. Features Gooters and Entery Soda sponsor reads, Brick's serenade, and a near four-hour struggle to complete the game before Brandon eventually saves state and gives up without finishing. |
 | [[episodes/2026-07-17|2026-07-17]] | 01:47:57 | DJC4 'Free Stephanie' Merch Drop Anthem: DJ in the DJC4 studios writes merch-drop lyrics with the ghostwriter, pivoting mid-session from the actual viewer request ('the economy ceasefire violation blues' requested by Live in Sleazy) into a 'Free Stephanie' track. Crum performs a Crum-style rap ('get on my mug or a hot butt plug') with a reluctant pre-emptive disclaimer to his wife Belolia that he does not know any woman named Stephanie. Re-recording applies heavy reverb to the chorus. Stream concludes after raiding Razzle, targeting the 75-viewer Partner milestone. |
+| [[episodes/2026-07-13|2026-07-13]] | 01:06:56 | Cryptozeus Plays Cursed: Brandon (Cryptozeus) takes over from his bedroom to play Kevin Pereira's cursor-hiding game 'Cursed'. He struggles to understand the mechanics, draws Ronald McDonald and Ninja Turtle cursors, and argues with his mother (shouting through the door) about baguettes, a woman named 'Stephanie', and Gooters chocolate bacon shakes. Brandon quits the segment to attend to his mom. |

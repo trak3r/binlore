@@ -47,6 +47,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Delivers the station sign-on: *"I'm Pepito, I'm the dog that produces the show, and now it is live, and I'm a dog."* |
@@ -64,8 +65,10 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-07-20|2026-07-20]] | Executive producer. Opens the broadcast, generates random names, and is heard with a distorted/deep voice eating the floor at the end of the stream. |
 | [[episodes/2026-07-17|2026-07-17]] | Executive Producer, opened the broadcast via producer cam. |
 | [[episodes/2026-07-16|2026-07-16]] | Executive producer delivers cold open intro before cutting to live broadcast. |
+| [[episodes/2026-07-13|2026-07-13]] | Executive Producer providing cold open countdown and failing to locate Mitch McConnell in the 'weird sandpit'. |
 
 ## Notable moments
+
 
 
 
@@ -92,3 +95,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[00:08]** ([[episodes/2026-07-20|2026-07-20]]): Pepito's on-screen title during the cold open includes the designation 'Peptron 3000' alongside his dog executive producer persona.
 - **[00:08]** ([[episodes/2026-07-17|2026-07-17]]): Executive Producer Pepito is a dog that produces the show; his signature on-air opening is 'I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog.' He admits to 'eating a couple spell books' and using 'dark magic' to look like Case Blackwell.
 - **[00:08]** ([[episodes/2026-07-16|2026-07-16]]): Standard cold open catchphrase: 'I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog.'
+- **[27:26]** ([[episodes/2026-07-13|2026-07-13]]): Maintains a 'weird sandpit' within the studio grounds that was searched (unsuccessfully) for Mitch McConnell.
