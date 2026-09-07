@@ -57,5 +57,6 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[brandons-mother|Brandon's Mother]] | recurring | Brandon's mother; yells through the bedroom door about hair cream, hosting orgies, and Taco Bell diarrhea |
 | [[brian-johnson|Brian Johnson]] | recurring | Subject of news segment; biohacker diagnosed with an incurable autoimmune disease |
 | [[trip|Trip]] | recurring | Field correspondent broadcasting from a park bush |
+| [[nixon|Nixon]] | recurring | Subject of chat submissions; discussed as being 'competently corrupt' and unable to escape the deep state |
 
 See also: [[../storylines/crum-dick-punch|Crum D*ck Punch]], [[../segments/munch-and-crum|Munch & Crum]].

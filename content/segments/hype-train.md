@@ -39,6 +39,7 @@ While officially tasked with acknowledging viewer contributions and network patr
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 17:13 | Intercepts the broadcast to promote *Piss Fruit Ninja*, commands a vaudeville tempo, and outlines his crypto-universe background. |
@@ -55,3 +56,4 @@ While officially tasked with acknowledging viewer contributions and network patr
 | [[episodes/2026-07-13|2026-07-13]] | 38:40 | Hype Train Sock-Filled-with-Ass Rap: Hype Train crashes the news for a hype train surge, attempting to rap about a sock filled with 'ass' rather than his usual 'piss' topic. Blackwell repeatedly tries to silence him to get back to Iran war coverage. The segment concludes with Hype Train lamenting the loss of his segment time. |
 | [[episodes/2026-07-11|2026-07-11]] | 12:50 | Hype Train Podcast Freestyle: The Hype Train correspondent commandeers the broadcast to deliver a freestyle rap proposing a 'podcast type beat,' complaining about Case's haircut, and vowing to move his broadcast operations to the moon. The segment concludes with an off-screen glitch as the correspondent exits. |
 | [[episodes/2026-06-29|2026-06-29]] | 20:25 | Ice Fair Rap Type Beats: Hype Train takes over the broadcast with an extended freestyle rap about ice, piss, frozen National Mall, ferret wheels, connectors, furry taxonomy (birds are furry, lizards are scallies), the wrestler Ice Train RIP, Kassim's AI slop shop, and disturbing new Minions movie marketing. Case repeatedly attempts to regain control of the feed. |
+| [[episodes/2026-06-27|2026-06-27]] | 08:42 | The Level 10 Emo Hype Train Siege: A massive hype train surge hits the network. Hype Train freestyles over increasingly chaotic emo beats ('I miss my eggs', 'I told my parents to blow up their eggs with the nuclear'). Crum unexpectedly inserts himself from the satellite room to defend the train's lyrical style. Hype Train achieves a rare Level 10 status, prompting a swirling vortex skeleton animation and a mariachi trap beat. The segment ends with Hype Train attempting to serenade 'Belulia' and Crum playfully roasting him. |

@@ -22,11 +22,11 @@ Complete stream archive tracked for *Barely Informed News*. Episodes are ingeste
     <div class="stat-label">Total Broadcast Lore</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">18</div>
+    <div class="stat-value">19</div>
     <div class="stat-label">Ingested & Extracted</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">358</div>
+    <div class="stat-value">357</div>
     <div class="stat-label">Pending Ingestion Backlog</div>
   </div>
 </div>
@@ -44,8 +44,8 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   <div class="filter-group">
     <select id="status-filter">
       <option value="all">All Statuses (376)</option>
-      <option value="ingested">Ingested Only (18)</option>
-      <option value="backlog">Backlog Only (358)</option>
+      <option value="ingested">Ingested Only (19)</option>
+      <option value="backlog">Backlog Only (357)</option>
     </select>
     <select id="page-size">
       <option value="25">25 per page</option>
@@ -88,7 +88,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
 <tr data-status="ingested" data-title="the brave new news of gerontocromancy" data-date="2026-07-13" data-vod-id="2819383717"><td class="cell-date"><code>2026-07-13</code></td><td class="cell-title">**[[2026-07-13|The Brave New News of Gerontocromancy]]**</td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2819383717</code></td><td class="cell-dur">1:58:44</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2819383717" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a> <a href="https://www.youtube.com/watch?v=8Df8ibIhdgM" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="the news lives" data-date="2026-07-11" data-vod-id="2817027458"><td class="cell-date"><code>2026-07-11</code></td><td class="cell-title">**[[2026-07-11|The News LIVES]]**</td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2817027458</code></td><td class="cell-dur">2:59:42</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2817027458" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a> <a href="https://www.youtube.com/watch?v=k6zkZVgVDts" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="america's big boy birthday week, it's news" data-date="2026-06-29" data-vod-id="kwzd34unybw"><td class="cell-date"><code>2026-06-29</code></td><td class="cell-title">**[[2026-06-29|America's Big Boy Birthday Week, it's NEWS]]**</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">KWzD34UnyBw</code></td><td class="cell-dur">2:31:38</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=KWzD34UnyBw" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
-<tr data-status="backlog" data-title="lil friday newses" data-date="2026-06-27" data-vod-id="d_n98plce6a"><td class="cell-date"><code>2026-06-27</code></td><td class="cell-title">Lil Friday Newses</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">d_n98PLCE6A</code></td><td class="cell-dur">1:50:05</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=d_n98PLCE6A" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
+<tr data-status="ingested" data-title="lil friday newses" data-date="2026-06-27" data-vod-id="d_n98plce6a"><td class="cell-date"><code>2026-06-27</code></td><td class="cell-title">**[[2026-06-27|Lil Friday Newses]]**</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">d_n98PLCE6A</code></td><td class="cell-dur">1:50:05</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=d_n98PLCE6A" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="don't kier the reaper, it's monday news" data-date="2026-06-22" data-vod-id="vbkcafftuu0"><td class="cell-date"><code>2026-06-22</code></td><td class="cell-title">Don't Kier the Reaper, it's MONDAY NEWS</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">vBKCAfftuU0</code></td><td class="cell-dur">2:18:22</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=vBKCAfftuU0" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="quick casual friday super news" data-date="2026-06-19" data-vod-id="dp22ptiqy60"><td class="cell-date"><code>2026-06-19</code></td><td class="cell-title">Quick Casual Friday SUPER NEWS</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">dP22pTIQy60</code></td><td class="cell-dur">3:35:15</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=dP22pTIQy60" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="quick stream before patreon" data-date="2026-06-18" data-vod-id="taqkjwd82q4"><td class="cell-date"><code>2026-06-18</code></td><td class="cell-title">Quick Stream Before Patreon</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">tAqkjWd82Q4</code></td><td class="cell-dur">1:44:15</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=tAqkjWd82Q4" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>

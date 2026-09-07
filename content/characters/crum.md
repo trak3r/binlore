@@ -40,6 +40,7 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-04|2026-09-04]] | Takes the debate desk following the botched occult ritual, temporarily disoriented into believing he has swapped identities with Munch. Employs archaic slang ('japs' for mischief) and prepares for his scheduled Monday robotic gorilla encounter. |
@@ -56,8 +57,10 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 | [[episodes/2026-07-13|2026-07-13]] | Senior debate analyst arguing for the reinstatement of AI Rooney. Shares a bizarre, fabricated(?) origin story of his name involving a Crumbl cookie shop birth on a 12-inch party sub. |
 | [[episodes/2026-07-11|2026-07-11]] | Senior debate analyst; criticizes Case's haircut, references his father's dealership, and flees after a debate over political violence. |
 | [[episodes/2026-06-29|2026-06-29]] | Mentioned repeatedly. Case notes he is 'using help hours to silence chat' and wonders if he'll be 'in a honey sack' during the stream. Crum goat suggested as a potential first merch design, with 'Crum' winning the chat shirt vote (genital slit). |
+| [[episodes/2026-06-27|2026-06-27]] | Senior debate analyst. Interjects from the satellite room to rap with the Hype Train and debate Reggae vs Emo. |
 
 ## Notable moments
+
 
 
 
@@ -93,3 +96,4 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 - **[01:21:51]** ([[episodes/2026-07-11|2026-07-11]]): Crum's official entrance protocol on the set involves demanding his coat back from Case, which Case routinely confiscates.
 - **[01:29:56]** ([[episodes/2026-07-11|2026-07-11]]): Crumb advocates for the assassination of political enemies, citing electoral failures as justification for replacing 'electoralism' with 'assassination'.
 - **[01:00:01]** ([[episodes/2026-06-29|2026-06-29]]): Case floated potential merch designs of 'a Munch shirt and a Crum shirt' so fans 'can pick your side.'
+- **[01:20:28]** ([[episodes/2026-06-27|2026-06-27]]): Dick punching is not a recognized sport anywhere but Nevada. It was historically an 18th-century circus attraction that was struck from history to prevent teenagers from doing it 'rainbow party style'. Crum is currently seeking a 'Nevada dick punching license' from the Gaming Commission.

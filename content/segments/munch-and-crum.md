@@ -34,6 +34,7 @@ Broadcast under the title **Munch & Crum**, the segment features rotating 3D net
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 1:12:27 | The Penalty Dossier Debate: Munch and Crum present their platforms. Munch recites an audience-submitted dossier enumerating reasons Crum must face his scheduled Monday robotic gorilla groin punch. Crum responds by claiming rigorous physical training and "super strength in spits." |
@@ -47,6 +48,7 @@ Broadcast under the title **Munch & Crum**, the segment features rotating 3D net
 | [[episodes/2026-07-16|2026-07-16]] | 57:41 | Munch & Crum Debate: Trump Won the 2020 Election: Senior debate analysts Munch and Crum clash over whether Trump won the 2020 election, with Munch defending Trump's 'integrity' through increasingly absurd analogies involving nipple spikes, while Crum insists the election was not stolen. Live chat polling continues to defeat Munch. |
 | [[episodes/2026-07-13|2026-07-13]] | 01:39:14 | Should AI Rooney Be Retired? Debate: A heated, unstructured debate (lacking standard Munch & Crum graphics) between Case, Skyver, and Crum over the fate of the AI Rooney segment. Arguments range from free speech vs. platform safety to a bizarre tangent about Crum's real name origin (born on a 12-inch Crumbl party sub). The episode ends with final apologies from Blackwell regarding the AI Rooney technical failures and a stream raid to Tasty. |
 | [[episodes/2026-07-11|2026-07-11]] | 01:21:18 | Crumb vs. Munch: A Political Crisis: Debate analyst Crumb arrives on set to bash Case's haircut. Crumb reveals he has 'just got my dad's dealership,' spurring a chaotic policy debate over electoralism, voting rights, and Crumb's endorsement of political violence and assassinations. Munch joins mid-debate to escalate the hostilities, leading Crumb to flee the set. |
+| [[episodes/2026-06-27|2026-06-27]] | 01:09:14 | Reggae vs Emo Debate: Triggered by a stream deck accident that loops the intro. Crum and Blackwell debate whether Reggae or Emo is the superior musical genre. Crum argues Reggae is versatile and deeply rooted in Rastafarian culture. Blackwell plays devil's advocate for Emo, citing its resonance with the American teenage condition. The segment ends in chaos as Blackwell struggles to press his victory button, killing the chat overlay. |
 
 ## Related Coverage
 

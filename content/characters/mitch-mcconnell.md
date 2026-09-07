@@ -19,10 +19,12 @@ Subject of news segment. Discussed his recent fall, hospitalization, and the rel
 ## Appearances
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-07-13|2026-07-13]] | Subject of news segment. Discussed his recent fall, hospitalization, and the release of a 'proof of life' photo amid health concerns. |
 | [[episodes/2026-07-11|2026-07-11]] | Subject of news segment; discussed his recent fall, hospitalization, and the release of a 'proof of life' photo amid health concerns. |
+| [[episodes/2026-06-27|2026-06-27]] | Referenced as part of the 'Mom Donny' luxury communism block. |
 
 ## Notable moments
 

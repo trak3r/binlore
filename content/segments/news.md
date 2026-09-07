@@ -39,6 +39,7 @@ Lead anchor [[../characters/case-blackwell|Case Blackwell]] presides over the an
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 15:13 | Pentagon hormone screening policies, the Epstein Transparency Act legislative push, and Polk County donkey shooting investigations. |
@@ -59,3 +60,4 @@ Lead anchor [[../characters/case-blackwell|Case Blackwell]] presides over the an
 | [[episodes/2026-07-13|2026-07-13]] | 15:01 | Lindsey Graham, Sam Neill, Mitch McConnell & Iran Blockade: News desk with Case and Jeff Ripple. Covers the reported death of Lindsey Graham (with a backdrop gag involving Ripple's 'wife Israel'), R.I.P. for Sam Neill, Mitch McConnell's 'proof of life' photo and political speculation, Trump's notification of a new blockade/strikes against Iran, and a rapid-fire chat news block featuring Goldie the goat, the World Santa Claus Congress, Ontario police grenade warnings, and the disturbing Swift/Kelce wedding trash sculpture art. |
 | [[episodes/2026-07-11|2026-07-11]] | 51:22 | Captain America Anatomical Bugle Report: The news block opens with a brief research detour into search engine algorithms and consumer credit card data interception. The desk then covers a Marvel Rivals update regarding the anatomical rendering of Captain America, noting the nerf to the character's inguinal modeling. |
 | [[episodes/2026-06-29|2026-06-29]] | 01:21:33 | Supreme Court, Massage Guns & Dinosaurs in Drawers: Case covers the Supreme Court rejecting Trump's bid to fire Fed governor Lisa Cook while expanding presidential powers, ongoing Iran conflict dispatches, a Scottish man who damaged his eyes with a massage gun, a 40-year-old Antarctic titanosaur fossil found in a drawer, a Michigan kitten with 28 toes, a bear in a car trunk, the Domino's fastest pizza maker, and a Fourth of July flirting study. Also discusses merch shop launch plans and Crum/Munch-themed shirt possibilities. |
+| [[episodes/2026-06-27|2026-06-27]] | 49:45 | Ceasefire Irony & Chat Dispatches: Condensed news desk. Stories include: US striking Iran in the Strait of Hormuz despite MOUs; Trump's viral clip proposing free rent/houses ('Luxury Communism' coming to NYC); JD Vance clips comparing Nixon to Trump ('seems fine'); the Kate Adams 'feet in the news' NASCAR incident; a 1-month-old pony in Croatia surviving by suckling; the Iran vs Egypt Pride match in Seattle; and the Montana banana car police stop. |

@@ -50,6 +50,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Delivers the station sign-on: *"I'm Pepito, I'm the dog that produces the show, and now it is live, and I'm a dog."* |
@@ -70,6 +71,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-07-13|2026-07-13]] | Executive Producer providing cold open countdown and failing to locate Mitch McConnell in the 'weird sandpit'. |
 | [[episodes/2026-07-11|2026-07-11]] | Executive Producer; opens the broadcast and attempts to intervene during the sub goal shout-out. |
 | [[episodes/2026-06-29|2026-06-29]] | Executive producer introducing the broadcast from the control room with his signature 'I'm the dog that produces the show' opening. Referenced as having built up a tolerance to almost everything. |
+| [[episodes/2026-06-27|2026-06-27]] | Executive producer of Barely Informed News. |
 
 ## Notable moments
 

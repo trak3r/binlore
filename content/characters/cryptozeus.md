@@ -44,6 +44,7 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Live DOS playthrough of Epic MegaGames' *Jill of the Jungle* trilogy. Plugs Gooters wings and navigates his mother's Old English vocal affectations following a bumper-car accident. |
@@ -57,8 +58,10 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-07-13|2026-07-13]] | Gaming correspondent playing 'Cursed'. Discloses his mother is 'French', lives in a tight-knit community, and mentions 'Stephanie' showing up at the door. |
 | [[episodes/2026-07-11|2026-07-11]] | Gaming correspondent; hosts the Mecha Chameleon block, names the server 'cream boys,' and applies texture camouflage. |
 | [[episodes/2026-06-29|2026-06-29]] | Gaming correspondent. Attempts to play a Japanese PS1 Tamagotchi-style game. Cannot find the BIOS, gets harangued by his mother about hair cutting and toilet flooding, but ultimately rescues a flower-tomadachi pet. Plans to use any BIN merch profits on a Gooters Platinum membership with seven buckets of swizzle chicken meat. |
+| [[episodes/2026-06-27|2026-06-27]] | Resident gaming correspondent broadcasting from his bedroom studio. |
 
 ## Notable moments
+
 
 
 
@@ -85,3 +88,4 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 - **[01:31:43]** ([[episodes/2026-07-13|2026-07-13]]): Has a history of taking 'be a less awful guy classes'.
 - **[01:45:34]** ([[episodes/2026-07-11|2026-07-11]]): Brandon's mother constantly yells at him for leaving mayonnaise hair cream packages open, causing the contents to 'rot off' and be devoured by rats.
 - **[02:14:55]** ([[episodes/2026-06-29|2026-06-29]]): Brandon's mother harasses him through the bedroom door about haircuts, party sub theft, and toilet floods ('8 feet deep'). The feral hogs in the backyard are repelled by a hose Brandon purchased. She calls him 'Brandy'.
+- **[01:30:46]** ([[episodes/2026-06-27|2026-06-27]]): Brandon's mother loudly threatened to buy a pool to be 'eaten out' of by 'Pastor Joe', then threatened to leave her door open so chat could hear him. Brandon considered emancipating himself and being adopted by his neighbor, 'Brecky', a 72-year-old woman.

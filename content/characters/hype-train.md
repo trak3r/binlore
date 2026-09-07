@@ -44,6 +44,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Derails subscriber acknowledgments to promote *Piss Fruit Ninja*, commands a vaudeville rhythm, raps about his Panther partner, and details his crypto universe upbringing. |
@@ -63,8 +64,10 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-07-13|2026-07-13]] | Sentient locomotive correspondent rapping about a sock filled with 'ass' during a hype train surge. |
 | [[episodes/2026-07-11|2026-07-11]] | High-velocity musical correspondent; performs a podcasting freestyle and executes an acapella sub goal shout-out. |
 | [[episodes/2026-06-29|2026-06-29]] | High-velocity cultural correspondent. Delivers an extended ice/piss freestyle rap, then reappears during Trip on the Streets as a park visitor hijacking the interview with spoken-word about 1972 Dulp and a DVD player. Mourns the late wrestler Ice Train. |
+| [[episodes/2026-06-27|2026-06-27]] | High-velocity musical and cultural correspondent. |
 
 ## Notable moments
+
 
 
 
@@ -103,3 +106,4 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[00:25:31]** ([[episodes/2026-06-29|2026-06-29]]): Hype Train maintains an ongoing narrative about freezing the National Mall with ice-cold piss, building a 'house on a frozen piss,' and declaring 'toilets are for eggs.'
 - **[00:32:54]** ([[episodes/2026-06-29|2026-06-29]]): Hype Train observed the late wrestler Ice Train has passed away. Hypetrain renamed himself 'Ice Train' but kept his moniker due to respect.
 - **[00:31:08]** ([[episodes/2026-06-29|2026-06-29]]): Hype Train defines his taxonomy: 'Birds are furry,' 'Lizards and sharks are scallies,' and 'Big Bird is definitely a furry'.
+- **[25:02]** ([[episodes/2026-06-27|2026-06-27]]): Hype Train claims to have been banned from 'saying piss' by his parents, resulting in a rebellious emo-rap phase about eggs in toilets.

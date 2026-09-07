@@ -19,10 +19,12 @@ Vice President makes an unannounced on-air appearance to defend his Secret Servi
 ## Appearances
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-07-16|2026-07-16]] | Vice President makes an unannounced on-air appearance to defend his Secret Service detail's helicopter requests, discussing Shasta, Feistas, and Samuel Adams cocktails while claiming to combat the male loneliness epidemic. |
 | [[episodes/2026-07-11|2026-07-11]] | Vice President; Case expresses hope that the new haircut will stop comparisons to him. |
+| [[episodes/2026-06-27|2026-06-27]] | Quoted comparing Nixon's removal to Trump's and suggesting modern politicians can get away with more. |
 
 ## Notable moments
 

@@ -40,6 +40,7 @@ Brandon's gameplay is consistently disrupted by his mother shouting through the 
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 1:26:47 | DOS playthrough of the *Jill of the Jungle* trilogy with recurring Gooters dispatches, maternal Old English arguments, and in-game lore scrolling. |
@@ -54,3 +55,4 @@ Brandon's gameplay is consistently disrupted by his mother shouting through the 
 | [[episodes/2026-07-13|2026-07-13]] | 01:06:56 | Cryptozeus Plays Cursed: Brandon (Cryptozeus) takes over from his bedroom to play Kevin Pereira's cursor-hiding game 'Cursed'. He struggles to understand the mechanics, draws Ronald McDonald and Ninja Turtle cursors, and argues with his mother (shouting through the door) about baguettes, a woman named 'Stephanie', and Gooters chocolate bacon shakes. Brandon quits the segment to attend to his mom. |
 | [[episodes/2026-07-11|2026-07-11]] | 01:45:30 | Mecha Chameleon Gaming Block: Gaming correspondent Brandon (Cryptozeus) hosts a multiplayer session of Mecha Chameleon, interrupted repeatedly by his mother yelling through his bedroom door. The team rotates between 'cream boys' servers and 'morse code' suicide squads, painting themselves into environment textures while managing ammunition limits. |
 | [[episodes/2026-06-29|2026-06-29]] | 02:09:18 | Tamagotchi PS1 Disaster & Hog Flood: Gaming correspondent Brandon (Cryptozeus) attempts to play a Japanese PS1 Tamagotchi-style game but cannot find the file or BIOS files, gets harangued by his mother about hair cutting, Gooters platinum membership, party subs, and a toilet/house flooding disaster. After downloading DuckStation and a virus-laden BIOS pack, he finally launches the bike-riding flower-tomadachi game. The stream ends mid-gameplay with Brandon rescuing an animal while the house floods with dead hogs and Pepsi-pressurized hoses. |
+| [[episodes/2026-06-27|2026-06-27]] | 01:22:57 | Elder Scrolls Arena Installation Nightmare: Brandon attempts to play The Elder Scrolls: Arena. Fails to log into GOG, gives up on passwords, and is confused by the checkout process for a free game. The mother disrupts constantly about her air fryer, her 'Pastor Joe eating her out of a Jello pool', and demands a pool. Brandon names his character 'Carl Guter' and dies repeatedly to goblins, culminating in the mother declaring she will 'shit all weekend' and Brandon preparing to emancipate himself. |
