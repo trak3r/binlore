@@ -25,7 +25,7 @@ The [[storylines/crum-dick-punch|Crum D*ck Punch]] saga — alongside the high-s
 
 ## Network Transmissions
 
-*Barely Informed News* broadcasts live on [Twitch (`caseblackwell`)](https://www.twitch.tv/caseblackwell), with complete historical archives preserved on [YouTube (`CaseBlackwell`)](https://www.youtube.com/@CaseBlackwell/streams). BIN Lore exists to maintain complete institutional memory across all network dispatches.
+*Barely Informed News* broadcasts live on [Twitch (`caseblackwell`)](https://www.twitch.tv/caseblackwell), with complete historical archives preserved on [YouTube (`CaseBlackwellStreams`)](https://www.youtube.com/@CaseBlackwellStreams). BIN Lore exists to maintain complete institutional memory across all network dispatches.
 
 ## Contributing
 

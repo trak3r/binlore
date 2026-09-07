@@ -100,7 +100,7 @@ Complete stream archive tracked for *Barely Informed News*. Episodes are ingeste
 > **💡 Understanding Stream Dates, VOD IDs & Archives:**
 > - **Broadcast Dates:** Listed by air date (`YYYY-MM-DD`). Ingested episode wiki pages are slugified by broadcast date (e.g. `[[2026-09-04|Artificially General News]]`).
 > - **VOD IDs:** Live streams air on [Twitch (`caseblackwell`)](https://www.twitch.tv/caseblackwell), where Twitch assigns a numeric video ID (e.g. `2863722826`). These numeric IDs are the identifiers used with `./binlore` CLI commands (e.g. `./binlore ingest 2863722826` or `./binlore extract 2863722826`).
-> - **Twitch vs. YouTube:** Twitch automatically expires and purges past broadcasts after ~60 days. The complete historical backlog of 370+ streams since November 2023 is permanently preserved on the [Case Blackwell YouTube Archive](https://www.youtube.com/@CaseBlackwell/streams). Older streams without active Twitch VODs can be referenced or ingested using their YouTube video ID (e.g. `ZSjvjEED3KA`).
+> - **Twitch vs. YouTube:** Twitch automatically expires and purges past broadcasts after ~60 days. The complete historical backlog of 370+ streams since November 2023 is permanently preserved on the [Case Blackwell YouTube Archive](https://www.youtube.com/@CaseBlackwellStreams). Older streams without active Twitch VODs can be referenced or ingested using their YouTube video ID (e.g. `ZSjvjEED3KA`).
 
 <div class="backlog-stats-grid">
   <div class="stat-card">

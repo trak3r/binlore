@@ -9,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "Barely Informed News (Twitch)": "https://www.twitch.tv/caseblackwell",
+      "YouTube Archive": "https://www.youtube.com/@CaseBlackwellStreams",
       GitHub: "https://github.com/trak3r/binlore",
       "☕ Buy Me a Coffee": "https://buymeacoffee.com/teflonted",
     },

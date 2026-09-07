@@ -23,7 +23,7 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 ## Broadcast Network
 
 - **Network Broadcast:** [Twitch (`caseblackwell`)](https://www.twitch.tv/caseblackwell)
-- **Archive Broadcasts:** [YouTube (`CaseBlackwell`)](https://www.youtube.com/@CaseBlackwell/streams)
+- **Archive Broadcasts:** [YouTube (`CaseBlackwellStreams`)](https://www.youtube.com/@CaseBlackwellStreams)
 
 ## Notable moments
 
