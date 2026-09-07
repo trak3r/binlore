@@ -2,10 +2,8 @@
 title: DJ Newsic
 type: segment
 aliases:
-  - DJ C4
   - Newsic
-  - Newsic Productions
-  - DJC4
+  - Sing the News
 status: recurring
 tags:
   - segment
@@ -13,33 +11,33 @@ tags:
   - news
   - dj
   - techno
-  - friday
+  - autotune
 ---
 
 # DJ Newsic
 
 ![DJ Newsic on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/dj-newsic.jpg)
 
-The signature high-bpm musical finale and rapid-fire news desk on *Barely Informed News*, hosted by resident beat-smith and producer [[../characters/dj-newsic|DJ Newsic]] (DJ C4) to commonly conclude Friday broadcasts.
+The signature auto-tuned electronic musical finale on *Barely Informed News*, hosted by resident blue-haired DJ [[../characters/dj-newsic|DJ Newsic]] to sing the news over driving techno beats and close out broadcasts.
 
 ## Format & Overview
 
-Broadcasting live from **DJC4 Studios**, [[../characters/dj-newsic|DJ Newsic]] takes over the network feed to deliver high-energy electronic music and driving techno beats while fast-tracking breaking news developments, viewer talking points, and studio controversies. The segment bridges investigative journalism and live club production, accelerating weekend news delivery to an intoxicating tempo.
+Emerging directly at the anchor desk, [[../characters/dj-newsic|DJ Newsic]] takes over the broadcast to deliver a pulse-pounding, high-BPM musical news digest. Armed with heavy vocal auto-tune and driving techno tracks, DJ Newsic sings headlines and fast-tracks bizarre, offbeat stories that regular anchor [[../characters/case-blackwell|Case Blackwell]] skipped or was "too afraid to click on" earlier in the show.
 
-Throughout the session, viewers participate in real-time songwriting using the network's `!L` chat intake command to submit lyrical bars, news rhymes, and song concepts directly to the studio monitor. DJ Newsic incorporates these submissions into live studio tracks, ghostwriting arrangements, and producing official *Barely Informed News* merch-drop anthems.
+The segment bridges political satire and club-ready electronic performance, turning controversial domestic reports, viral international incidents, and oddity news wires into melodic techno anthems before sending the stream off to its concluding raid.
 
 ## Key Elements
 
-- **DJC4 Studio Setting:** Anchored from a dedicated wood-paneled soundstage featuring a glowing amber-yellow "Newsic Productions" neon sign and dual "DJ C4" headphone emblems.
-- **Fast-Tracking the News:** High-priority news items and chat headlines are read at breakneck speed over pounding techno baselines, giving Friday audiences a dynamic recap of current events.
-- **Interactive Lyric Crowdsourcing (`!L`):** The audience drives the creative direction of each session by pitching verses, rhyming couplets, and headlines through live chat commands.
-- **Merch Drop Anthems:** Serves as the launchpad for official network commercial tracks, packaging network catchphrases and lore into promotional singles.
-- **Guest Analyst Features:** Network personalities—most notably senior debate analyst [[../characters/crum|Crum]]—are drafted into vocal booths to provide live rap features, backing ad-libs, and humorous disclaimer monologues.
+- **Blue-Haired News Anchor:** DJ Newsic presides over the desk with a distinctive bright electric blue wig and reflective sunglasses.
+- **Heavy Auto-Tuned News Delivery:** Every headline, lyric, and audience response is filtered through thick, pitch-corrected auto-tune.
+- **Driving Techno Instrumentals:** Fast-paced synth loops and techno basslines keep the tempo exhilarating as the broadcast sprints to a close.
+- **Unclicked Story Coverage:** Focuses specifically on eccentric, uncomfortable, or legally precarious stories that Case bypassed during the main news block.
+- **Surreal Musical Guests:** Impromptu appearances by unexpected remote guests—including talking animals and anthropomorphic interviewees—who contribute their own musical perspectives.
 
 ## Known Occurrences
 
 | Episode | Timestamp | Notes |
 |---|---|---|
-| [[../episodes/2026-07-17|2026-07-17]] | 01:47:57 | DJC4 'Free Stephanie' Merch Drop Anthem: DJ Newsic takes over the studio to write merch-drop lyrics with the ghostwriter, pivoting mid-session from [[../characters/live-in-sleazy|Live 'n Sleazy]]'s viewer request ('the economy ceasefire violation blues') into a high-energy 'Free Stephanie' track. [[../characters/crum|Crum]] performs a Crum-style rap ('get on my mug or a hot butt plug') with an anxious pre-emptive disclaimer to his wife Belolia that he does not know any woman named Stephanie. Re-recording applies heavy reverb to the chorus. |
+| [[../episodes/2026-07-23|2026-07-23]] | 02:05:53 | Korean Ant-Eating Michelin Disaster: DJ Newsic arrives at the desk in his bright blue hair and sunglasses to sing the news with heavy auto-tune over techno beats. He covers a South Korean Michelin-starred restaurant facing prosecution for using ants as a dessert garnish, passionately sings that 'love is the only ingredient that should be legal', and interviews an elephant guest who performs an outrageous closing musical number. |
 
-See also: [[../characters/dj-newsic|DJ Newsic (Character)]], [[../characters/crum|Crum]], [[../characters/live-in-sleazy|Live 'n Sleazy]], [[../characters/case-blackwell|Case Blackwell]], [[index|Broadcast Segments]].
+See also: [[../characters/dj-newsic|DJ Newsic (Character)]], [[../characters/dj-c4|DJ C4]], [[../characters/case-blackwell|Case Blackwell]], [[index|Broadcast Segments]].

@@ -22,7 +22,8 @@ Anchors, senior correspondents, debate analysts, and production staff across *Ba
 | [[characters/jeff-ripple|Jeff Ripple]] | Studio News Correspondent | Rapid-response desk reporter and viewer comment analyst |
 | [[characters/peter-gibbon|Peter Gibbon]] | News Stowaway (Former Producer) | Disgraced former producer ousted from management who inhabits the studio wall crawlspaces |
 | [[characters/rick|Rick]] | Tactical Web Analyst | Veteran tactical correspondent and anchor of *Amongst the Web* |
-| [[characters/dj-newsic|DJ Newsic (DJ C4)]] | Resident Beat-Smith & Friday Anchor | Electronic music producer and rapid-fire news jockey closing Friday broadcasts with techno beats |
+| [[characters/dj-newsic|DJ Newsic]] | News-Singing DJ & Finale Anchor | Bright blue-haired electronic artist singing news with heavy auto-tune over techno beats |
+| [[characters/dj-c4|DJ C4]] | In-House Song Composer & Producer | Resident studio composer creating correspondent themes and anthems in DJC4 Studios with AI assistance |
 
 ## Special Correspondents, Legal Counsel & Guests
 
