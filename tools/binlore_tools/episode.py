@@ -136,6 +136,10 @@ def _format_character_link(name: str) -> str:
         return "[[characters/peter-gibbon|Peter Gibbon]]"
     if "rick" in slug:
         return "[[characters/rick|Rick]]"
+    if "trip" in slug or "bradstein" in slug:
+        return "[[characters/trip-bradstein|Trip Bradstein]]"
+    if "rooney" in slug:
+        return "[[characters/ai-rooney|AI Rooney]]"
     return name
 
 
@@ -156,6 +160,10 @@ def _format_segment_link(name: str) -> str:
         return f"[[segments/chet-guy-the-science-eyes|{name}]]"
     if "amongst" in slug or "web" in slug:
         return f"[[segments/amongst-the-web|{name}]]"
+    if "trip" in slug or "street" in slug:
+        return f"[[segments/trip-on-the-street|{name}]]"
+    if "rooney" in slug:
+        return f"[[segments/ai-rooney|{name}]]"
     return name
 
 

@@ -43,7 +43,7 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[jeb|Jeb Noggin]] | Host (*How To with Jeb*) | Wood shop host of rogue instructional block, co-hosting with his deceased father trapped in a wooden board |
 | [[kendall|Kendall]] | In-Studio Contributor | Co-op gaming partner, freelance video editor, and resident newsroom presence |
 | [[danny-phantasmic|Danny Phantasmic]] | Cultural Guest Correspondent | Tiny British folk-horror analyst with oversized hands and a tongue that cannot be concealed |
-| [[ai-rooney|AI Rooney]] | recurring | Decommissioned model revived as 'Rooney 1 |
+| [[ai-rooney|AI Rooney]] | Cyborg Commentator (Retired) | Proprietary computational news cyborg modeled on Andy Rooney; delivered escalating 60-Minutes-style rants on audience-submitted topics until forced into retirement |
 | [[pete-hegseth|Pete Hegseth]] | recurring | Subject of major news segment; video played announcing the Department of War testosterone deficiency screening program for service members |
 | [[eric-trump|Eric Trump]] | recurring | Mentioned as chief strategy advisor of Foundation Future Industries (Foundation Robotics), whose humanoids are being readied for kinetic warfare |
 | [[razzle|Razzle]] | recurring | Recipient of the closing stream raid |
@@ -56,7 +56,7 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[live-in-sleazy|Live in Sleazy]] | recurring | Control room ghost operator mentioned by Case during his search engine tutorial |
 | [[brandons-mother|Brandon's Mother]] | recurring | Brandon's mother; yells through the bedroom door about hair cream, hosting orgies, and Taco Bell diarrhea |
 | [[brian-johnson|Brian Johnson]] | recurring | Subject of news segment; biohacker diagnosed with an incurable autoimmune disease |
-| [[trip|Trip]] | recurring | Field correspondent broadcasting from a park bush |
+| [[trip-bradstein|Trip Bradstein]] | Field Correspondent | Park-dwelling field correspondent broadcasting from the bushes and interviewing park visitors for their audience-submitted opinions |
 | [[nixon|Nixon]] | recurring | Subject of chat submissions; discussed as being 'competently corrupt' and unable to escape the deep state |
 
 See also: [[../storylines/crum-dick-punch|Crum D*ck Punch]], [[../segments/munch-and-crum|Munch & Crum]].
