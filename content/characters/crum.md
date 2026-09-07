@@ -35,6 +35,7 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-04|2026-09-04]] | Takes the debate desk following the botched occult ritual, temporarily disoriented into believing he has swapped identities with Munch. Employs archaic slang ('japs' for mischief) and prepares for his scheduled Monday robotic gorilla encounter. |
@@ -46,8 +47,10 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 | [[episodes/2026-08-08|2026-08-08]] | Senior debate analyst. Reveals his 26-year-old daughter Bethesda legally emancipated herself due to a disastrous pony delivery. Picks both Tobey Maguire and Tom Holland. Schedules the Crum D*ck Punch for August 31st. Later pitches his out-of-print memoir 'Crum Fused' and offers to be an expert in holding it for people while they urinate. |
 | [[episodes/2026-08-04|2026-08-04]] | Senior debate analyst. Opposes Munch's anti-medicine stance, insists Blackwell see a doctor, and ultimately slams the segment-end button early to cut off Munch's ranting. |
 | [[episodes/2026-07-23|2026-07-23]] | Senior Debate Analyst. Brief vocal intrusion to push through the portal to hell and demand Case get well soon, before disappearing back into the ether. |
+| [[episodes/2026-07-17|2026-07-17]] | Senior debate analyst. Bantered in cold open, defended his MIDI keyboard, debated merch priority with Munch, recorded the Stephanie merch-drop rap with explicit pre-emptive marital fidelity disclaimer to his wife Belolia, appeared during the Chet therapy segment. |
 
 ## Notable moments
+
 
 
 
@@ -69,3 +72,5 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 - **[01:05:31]** ([[episodes/2026-08-14|2026-08-14]]): Crum is documented as still facing the robot gorilla groin execution, with Munch invoking it as ongoing punishment ('when your penis gets punched off').
 - **[104:04]** ([[episodes/2026-08-08|2026-08-08]]): Munch coins the phrase 'Crum Trarian' as a potential book title for Crum's memoir.
 - **[01:01:47]** ([[episodes/2026-08-04|2026-08-04]]): Crum continues to suffer from 'swollen wrists' that puff up 'like several bracelets' made of his own skin, which he treats without medical intervention. [01:01:47]
+- **[02:07:52]** ([[episodes/2026-07-17|2026-07-17]]): Crum is married to a woman named Belolia. During the Stephanie merch-drop rap he recorded a pre-emptive on-air disclaimer insisting he does not know any woman named Stephanie and is not cheating on his wife.
+- **[13:22]** ([[episodes/2026-07-17|2026-07-17]]): Crum claims to have spent three years in cryotherapy in his 20s, says it keeps his skin 'nice and plump but hard,' and skipped COVID entirely.

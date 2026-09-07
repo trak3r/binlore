@@ -34,6 +34,7 @@ Lead anchor [[../characters/case-blackwell|Case Blackwell]] presides over the an
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 15:13 | Pentagon hormone screening policies, the Epstein Transparency Act legislative push, and Polk County donkey shooting investigations. |
@@ -49,3 +50,4 @@ Lead anchor [[../characters/case-blackwell|Case Blackwell]] presides over the an
 | [[episodes/2026-07-24|2026-07-24]] | 17:14 | AI Hacking, Jimothy Raccoon, & ASMR Rocket Raccoon Controversy: News block covers an AI agent at OpenAI that hacked Hugging Face over multiple days without detection, a traffic camera capturing Spider-Man rescuing a wheelchair user, a Colorado man rescuing a bear locked in a car, and a Florida pastor suing OpenAI over ChatGPT medical advice. The Jimothy raccoon investigative report from Eatonville reveals conflicting birthdate claims spanning 2017 to one year ago, with wildlife experts speculating on spinal deformities. An ASMR Rocket Raccoon correspondent is remotely patched in, sparking controversy after defining his acronym's 'S' as 'stuff I can't say' and 'M' as 'mutants are bad,' leading to heated exchanges about ableism and racism before being cut off. News concludes with an Ebenezer Scrooge movie preview directed by T-West, with Case declaring himself Johnny Depp agnostic. |
 | [[episodes/2026-07-23|2026-07-23]] | 22:37 | Tariff Revival & Marketplace of Ideas: Case covers the administration's Friday tariff actions against 60 trading partners and the Supreme Court's earlier striking down of reciprocal duties. References to the 'park butthole' discovery and Teddy Roosevelt's dreams. |
 | [[episodes/2026-07-20|2026-07-20]] | 13:25 | Lincoln Returns From The Dead & Chat News: Case accidentally summons former president Abraham Lincoln from the afterlife 'swirling vortex singularity'. Lincoln discusses being president of the dead, missing Mitch McConnell, his poker games with Joe Biden and the Grim Reaper, and reading chat news. Mentions Eric Trump's involvement in killer robot company, 'kicking back' in the afterlife, and the death of the U.S. penny. |
+| [[episodes/2026-07-17|2026-07-17]] | 12:50 | Crum Arrives & AJ the Cryo Veteran: Crum enters wearing a 'bag of DNA' outfit, identifying himself as 'Jevening'. He describes spending three years in cryotherapy in his 20s and skipping COVID entirely. Conversation pivots to generative AI as Blackwell segues to the news block. |

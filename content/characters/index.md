@@ -43,5 +43,9 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[jeb|Jeb Noggin]] | Host (*How To with Jeb*) | Wood shop host of rogue instructional block, co-hosting with his deceased father trapped in a wooden board |
 | [[kendall|Kendall]] | In-Studio Contributor | Co-op gaming partner, freelance video editor, and resident newsroom presence |
 | [[danny-phantasmic|Danny Phantasmic]] | Cultural Guest Correspondent | Tiny British folk-horror analyst with oversized hands and a tongue that cannot be concealed |
+| [[ai-rooney|AI Rooney]] | recurring | Decommissioned model revived as 'Rooney 1 |
+| [[pete-hegseth|Pete Hegseth]] | recurring | Subject of major news segment; video played announcing the Department of War testosterone deficiency screening program for service members |
+| [[eric-trump|Eric Trump]] | recurring | Mentioned as chief strategy advisor of Foundation Future Industries (Foundation Robotics), whose humanoids are being readied for kinetic warfare |
+| [[razzle|Razzle]] | recurring | Recipient of the closing stream raid |
 
 See also: [[../storylines/crum-dick-punch|Crum D*ck Punch]], [[../segments/munch-and-crum|Munch & Crum]].

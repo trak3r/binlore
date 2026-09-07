@@ -42,11 +42,13 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Activated during the Brazilian plastic surgery ratio review; discloses its anatomical training data, attempts rogue generative modeling, and translates foreign medical literature for Chet. |
 | [[episodes/2026-08-19|2026-08-19]] | Synthetic neural co-host analyzing hydrogen data from the University of Maryland study and bragging about containing all slurs without using them. |
 | [[episodes/2026-07-23|2026-07-23]] | Referenced as Chet's open tab search engine tool for finding purple hurt foot remedies. |
+| [[episodes/2026-07-17|2026-07-17]] | Synthetic neural co-host referenced but not actively speaking on this broadcast. |
 
 ## Notable moments
 

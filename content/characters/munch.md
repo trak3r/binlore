@@ -29,6 +29,7 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Promises swift physical retribution upon Crum; recites the audience-compiled list of justifications for Crum's forfeit; leaks details regarding the Best Boob Club. |
@@ -37,8 +38,10 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 | [[episodes/2026-08-14|2026-08-14]] | Senior Debate Analyst. Champions keeping Hasan Piker's stream hard-hitting rather than adding character work. Coins the word 'trime' (slime + crime) to describe Crum's debating style. Reacts explosively when Crum steals the points button and outro music cue. |
 | [[episodes/2026-08-08|2026-08-08]] | Senior debate analyst. Picks Andrew Garfield as the best Spider-Man citing his 'gentle eyes' and 'long slender bod'. Torments Crum over his emancipated daughter and the impending gorilla punch. |
 | [[episodes/2026-08-04|2026-08-04]] | Senior debate analyst. Argues that refusing medical treatment for the ankle is brave, claims to maintain a private medical team to deprive others of healthcare, and promotes silver supplements and 'peptide spells' before exiting to remove his hearing aids. |
+| [[episodes/2026-07-17|2026-07-17]] | Senior debate analyst. Argued only stars deserve merch, proposed the dueling dragons t-shirt, demanded a European-style dragon to Crum's Chinese-style dragon, locked the scoreboard at minus 40 for Crum. |
 
 ## Notable moments
+
 
 
 
@@ -52,3 +55,5 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 - **[01:02:25]** ([[episodes/2026-08-04|2026-08-04]]): Munch claims he keeps a private 'medical team' specifically to deprive other people of healthcare so that they do not 'succumb to the weakness of going to a doctor,' which he calls 'one of the nicest things I do for the community.' [01:02:25]
 - **[01:03:38]** ([[episodes/2026-08-04|2026-08-04]]): Munch advocates silver supplementation and 'peptide spells' as alternatives to conventional medical care. [01:03:38]
 - **[57:26]** ([[episodes/2026-08-04|2026-08-04]]): Munch refers to himself as a 'python' coiled up between broadcasts and removes his hearing aids after leaving the desk. [57:26] [01:05:40]
+- **[01:13:56]** ([[episodes/2026-07-17|2026-07-17]]): Munch asserts he was a mayor, 'too busy being a mayor' to listen to music in the 2010s.
+- **[01:18:25]** ([[episodes/2026-07-17|2026-07-17]]): Munch officially considers Grandma Crumble Bottom 'a colleague and a scholar,' claiming she holds a doctorate in chemistry from Yale and is the 'most fully formed idea' on the stream.

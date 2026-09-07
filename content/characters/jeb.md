@@ -44,9 +44,11 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 
 ## Appearances
 
+
 | Episode | Role | Notes |
 |---------|------|-------|
 | [[../episodes/2026-08-14|2026-08-14]] | Segment Host | Debuts [[../segments/how-to-with-jeb|How To with Jeb]] at `[01:22:57]`. Debates his wooden board father about family wealth and brother Jet's app fortune, then covers wood splitting, college self-defense escapes, and dirty dancing. |
+| [[episodes/2026-07-17|2026-07-17]] | How-To host. Co-hosted instructional triple-feature on vocal aerobics, advanced finger snapping, and self-massage. |
 
 ## Notable Quotes
 
@@ -62,3 +64,7 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 - Will Jet Noggin ever appear on *Barely Informed News* to confront his brother and board-bound father?
 
 See also: [[../segments/how-to-with-jeb|How To with Jeb]], [[../characters/index|On-Air Talent & Staff]].
+
+## Notable moments
+
+- **[01:25:37]** ([[episodes/2026-07-17|2026-07-17]]): Jeb's Dad reveals he is actively trying to escape his timber prison by willing his hands into a file to sand down 'the spiritual bars that must be holding me in here' one second at a time.

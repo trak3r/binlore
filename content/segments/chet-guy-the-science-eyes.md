@@ -35,9 +35,11 @@ Chet conducts deep-dive inquiries into peer-reviewed medical publications, anato
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 1:03:22 | Desk slips and says "scientists." Chet and [[../characters/chet-ai|ChetAI]] investigate a Brazilian Journal of Plastic Surgery proportion study, delivering the academic consensus that "all boobs is good." |
 | [[episodes/2026-09-04|2026-09-04]] | 01:36:13 | Chet Manscape investigates The Family International cult behind the track 'Cathy Don't Go.' Reviewing archival investigative footage on David Berg's organization, Chet outlines historical name permutations and analyzes cognitive risks associated with AI-driven indoctrination. |
 | [[episodes/2026-08-19|2026-08-19]] | 01:40:04 | Smart Underwear & Fart Research: Chet and ChetAI deploy to the desk to investigate a University of Maryland smart underwear study measuring human flatulence. They discuss gut microbes, hydrogen monitoring, and clinical implications. |
 | [[episodes/2026-07-23|2026-07-23]] | 19:37 | Chet Activates on Injury Assessment: Chief Science Correspondent Chet spontaneously activates upon Case mentioning 'skiantist' to provide medical commentary on the swollen ankle, advising mega man leg feet and thick chains. Chet reveals he has not yet set up his Medicare direct deposit despite two years of broadcasting. |
+| [[episodes/2026-07-17|2026-07-17]] | 01:34:39 | Dr. Chet Therapy Session & Twitch Partner Application: Triggered when Chet arrives in a military-grade therapist persona ('Dr. Chath'). Diagnoses AI Psychosis in the populace from releasing the spirit of Andy Rooney. Hints Peter Gibbon may have taken Stephanie to the wall. Reviews Crum's laugh and recommends an angled bucket for male pattern baldness. Blackwell checks the Twitch Partner achievement (0 of 6, needs 75 average viewers, currently at ~72). Munch pipes in via Ninja Dragon Riders. Chet teaches dance, demands a perm, then bills at $500 an hour. |

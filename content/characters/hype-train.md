@@ -40,6 +40,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Derails subscriber acknowledgments to promote *Piss Fruit Ninja*, commands a vaudeville rhythm, raps about his Panther partner, and details his crypto universe upbringing. |
@@ -55,8 +56,10 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-07-24|2026-07-24]] | Notably absent and described as 'still taking a nap' throughout the broadcast. A caller impersonates 'normal hype train' during the Streets segment; broadcast raid is sent to Hype Train at sign-off. |
 | [[episodes/2026-07-23|2026-07-23]] | High-Velocity Cultural Correspondent. Briefly attempts to hijack the intro but is forcefully rejected by Case in favor of addressing his injury, leading to Hype Train lamenting he was let to die. |
 | [[episodes/2026-07-20|2026-07-20]] | High-velocity cultural correspondent. Battle raps against Lincoln over bodily fluids and is forced to read subs after losing the rap battle. |
+| [[episodes/2026-07-17|2026-07-17]] | Musical correspondent. Triggered by sub cascade. Introduced 'piss hunters' sub-goal, name-dropped George Carlin, pivoted to Spanish guitar beat, proposed 'In the lattice fucking piss' as the new stream tag. |
 
 ## Notable moments
+
 
 
 
@@ -83,3 +86,5 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[14:43]** ([[episodes/2026-08-04|2026-08-04]]): Hype Train claims his veins are 'the veins of fuel pumping into my caboose,' which he then admits does not exist. [14:43]
 - **[33:30]** ([[episodes/2026-07-20|2026-07-20]]): Hype Train notes that Barack Obama is a 'huge fan' of his, though he claims Obama is now back to being one of Lincoln's 'constituents' in the vortex.
 - **[01:42:07]** ([[episodes/2026-07-20|2026-07-20]]): Brick claims he is the one who shot Abraham Lincoln, stating he was hiding in an 'old-timey crate' and shoved Booth at Abe.
+- **[34:21]** ([[episodes/2026-07-17|2026-07-17]]): Hype Train declares a 'sub-goal piss hunters' because 'big game hunters want my valuable piss to key with Planet's Rewards.' He also claims to have spent time at the train station with George Carlin 'not doing it.'
+- **[41:41]** ([[episodes/2026-07-17|2026-07-17]]): Hype Train proposes 'In the lattice fucking piss' as the new official stream tag, declaring it 'like Naruto.'

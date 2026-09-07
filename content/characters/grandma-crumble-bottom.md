@@ -43,10 +43,12 @@ Grandma frequently drifts into reminiscences of her deceased husband. Rather tha
 ## Appearances
 
 
+
 | Episode | Role | Notes |
 |---------|------|-------|
 | [[../episodes/2026-08-19|2026-08-19]] | Guest Desk Anchor | Arrives at `[01:23:33]` to guest-host [[../segments/amongst-the-web|Amongst the Web]]. Debates solar laser vision correction, her night-dyeing son, and her late husband before evaluating viewer clips including cringe relationship reels and robot athletic tests. |
 | [[episodes/2026-08-08|2026-08-08]] | In-studio contributor co-hosting the Amongst the Web viral clip review segment. Offers stream-of-consciousness commentary on the submitted clips. |
+| [[episodes/2026-07-17|2026-07-17]] | Munch declared Grandma 'the most fully formed idea' on the stream and 'a colleague and a scholar,' claiming she holds a doctorate in chemistry from Yale. |
 
 ## Notable Quotes
 
@@ -62,3 +64,8 @@ Grandma frequently drifts into reminiscences of her deceased husband. Rather tha
 - What other home remedies or solar treatments does Grandma Crumble Bottom practice?
 
 See also: [[../segments/amongst-the-web|Amongst the Web]], [[../characters/index|On-Air Talent & Staff]].
+
+## Notable moments
+
+- **[02:07:52]** ([[episodes/2026-07-17|2026-07-17]]): Crum is married to a woman named Belolia. During the Stephanie merch-drop rap he recorded a pre-emptive on-air disclaimer insisting he does not know any woman named Stephanie and is not cheating on his wife.
+- **[13:22]** ([[episodes/2026-07-17|2026-07-17]]): Crum claims to have spent three years in cryotherapy in his 20s, says it keeps his skin 'nice and plump but hard,' and skipped COVID entirely.

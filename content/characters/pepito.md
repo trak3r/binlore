@@ -45,6 +45,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Delivers the station sign-on: *"I'm Pepito, I'm the dog that produces the show, and now it is live, and I'm a dog."* |
@@ -60,8 +61,10 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-07-24|2026-07-24]] | Executive Producer. Opens the broadcast with his signature canine greeting and closes the show with an improvised spiritual sermon on AX body spray commercials, pocket jerky, Peter Gibbon spilling battery acid, and playing the 'Pure Mood' CD. |
 | [[episodes/2026-07-23|2026-07-23]] | Executive Producer. Opens the show with his standard canine greeting and later demands his ankle be sacrificed to him. |
 | [[episodes/2026-07-20|2026-07-20]] | Executive producer. Opens the broadcast, generates random names, and is heard with a distorted/deep voice eating the floor at the end of the stream. |
+| [[episodes/2026-07-17|2026-07-17]] | Executive Producer, opened the broadcast via producer cam. |
 
 ## Notable moments
+
 
 
 
@@ -84,3 +87,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[01:14:44]** ([[episodes/2026-07-24|2026-07-24]]): Pepito closes the broadcast with an unprompted philosophical sermon comparing life to AX body spray commercials: *"When you smell good enough an army of people will chase you on a beach"* with pocket jerky implications, alongside warnings about Peter Gibbon spilling battery acid and cues for the "Pure Mood" CD.
 - **[00:08]** ([[episodes/2026-07-23|2026-07-23]]): Pepito opens the show from the producer cam.
 - **[00:08]** ([[episodes/2026-07-20|2026-07-20]]): Pepito's on-screen title during the cold open includes the designation 'Peptron 3000' alongside his dog executive producer persona.
+- **[00:08]** ([[episodes/2026-07-17|2026-07-17]]): Executive Producer Pepito is a dog that produces the show; his signature on-air opening is 'I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog.' He admits to 'eating a couple spell books' and using 'dark magic' to look like Case Blackwell.

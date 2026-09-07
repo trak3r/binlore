@@ -34,9 +34,11 @@ He displays a profound, open disdain for Jeb's woodworking skills and emotional 
 
 ## Appearances
 
+
 | Episode | Segment | Notes |
 |---------|---------|-------|
 | [[../episodes/2026-08-14|2026-08-14]] | [[../segments/how-to-with-jeb|How To with Jeb]] | Broadcast debut alongside Jeb. Heckles Jeb throughout the introductory demonstration, complains about the grain quality, and repeatedly praises Jet Noggin. |
+| [[episodes/2026-07-17|2026-07-17]] | Spectral co-host bound in lumber. Warned against snapping, critiqued Jeb's focus. |
 
 ## Notable Quotes
 
