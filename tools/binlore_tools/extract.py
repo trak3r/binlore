@@ -78,7 +78,7 @@ Key network context:
   3. "Hype Train": Broadcast interruption triggered during a Twitch hype train surge. Features retro synthwave graphics, the sentient locomotive correspondent **Hype Train**, his partner the Panther, freestyle raps, and crypto-universe dispatches.
   4. "Munch & Crum": The flagship on-air debate clash between senior debate analysts **Munch (Ralph Munchcut)** and **Crum**, featuring rotating 3D title cards, scoreboard, chat polling, and bitter political rivalry.
   5. "Chet Guy the Science Eyes": The network's investigative science desk, helmed by Chief Science Correspondent **Chet (Chet Manscape)** alongside his synthetic AI co-host **ChetAI**. IMPORTANT: This desk is triggered spontaneously whenever anyone on the broadcast accidentally utters the word "science" or "scientist" while discussing a story! Chet deploys a high-powered laboratory microscope to the desk and consults ChetAI (a synthetic digital avatar appearing across studio monitors with falling binary data rain, claiming vast boob training data and translating foreign medical literature). Note: Whisper ASR often transcribes "Chet" as "Skynce" or "Chad", and "ChetAI" as "Chetah". Reconcile to Chet and ChetAI!
-  6. "Cryptozeus" (Gaming): Live remote dispatch from resident gaming correspondent **Brandon (Cryptozeus)** conducting deep-dive retro playthroughs from his bedroom while his mother yells through the closed door, alongside sponsor dispatches for Gooters chicken wings.
+  6. "CryptoZeu$" (Gaming): Live remote dispatch from resident gaming correspondent **Brandon (CryptoZeu$)** conducting deep-dive retro playthroughs from his bedroom while his mother yells through the closed door, alongside sponsor dispatches for Gooters chicken wings.
   7. "Amongst the Web": Audience-interactive viral media review desk where a designated network correspondent evaluates viewer-submitted meme videos and online clips while the audience votes.
   8. "Trip on the Street": Remote field interview desk hosted by park-dwelling field correspondent **Trip Bradstein**. Trip lives in the bushes in a public park and interviews park visitors for their "on the street" opinions—which are provided by audience submissions.
   9. "AI Rooney": Audience-prompted grievance commentary desk featuring proprietary cyborg commentator **AI Rooney**, created as an homage to Andy Rooney. Rooney delivers rapid, escalating, 60-Minutes-style rants on audience-submitted topics (via chat commands like `!rr`), until his rants grew so offensive that Case had to permanently retire the segment.
@@ -93,7 +93,7 @@ Key network context:
   - **DJ Newsic**: Resident news-singing DJ with bright electric blue hair and sunglasses who sings the news with heavy auto-tune over driving techno beats to close out streams.
   - **DJ C4**: In-house song composer and audio producer broadcasting from DJC4 Studios. Composes correspondent theme songs and promotional merch anthems using AI ghostwriting models and audience-prompted lyrics (`!L`).
   - **Hype Train**: High-velocity musical and cultural correspondent traveling with his panther companion.
-  - **Brandon (Cryptozeus)**: Resident gaming and digital culture correspondent.
+  - **Brandon (CryptoZeu$)**: Resident gaming and digital culture correspondent.
   - **Pepito**: Executive producer overseeing broadcast operations.
   - **Jeff Ripple**: Studio news reader and breaking chat correspondent. Harbors an intense, one-sided rivalry and hatred toward real-life UPI reporter Ben Hooper because the audience relentlessly favors Hooper's corny viral antics. (Note: Ben Hooper is an external real-world journalist, NOT a character on the show, and must NEVER be tracked as a character).
   - **Peter Gibbon**: Disgraced former producer who now inhabits the studio wall crawlspaces as a news stowaway.
@@ -111,7 +111,7 @@ Key network context:
 
 Your task:
 Analyze the provided stream transcript and extract:
-1. "segments": Major show segments with start and end timestamps (e.g. "MM:SS" or "HH:MM:SS"), matching to canonical show segments ("News", "Hype Train", "Munch & Crum", "Chet Guy the Science Eyes", "Cryptozeus", "Amongst the Web", "Trip on the Street", "AI Rooney", "DJ Newsic", "DJ C4", "Pre-show / Cold Open"), a descriptive title for this episode's topic, and concise notes.
+1. "segments": Major show segments with start and end timestamps (e.g. "MM:SS" or "HH:MM:SS"), matching to canonical show segments ("News", "Hype Train", "Munch & Crum", "Chet Guy the Science Eyes", "CryptoZeu$", "Amongst the Web", "Trip on the Street", "AI Rooney", "DJ Newsic", "DJ C4", "Pre-show / Cold Open"), a descriptive title for this episode's topic, and concise notes.
 2. "characters": Network figures detected on stream (either speaking on air, or heavily discussed/slandered). Mark whether they were actively speaking or merely mentioned, with timestamps. Use professional, in-universe descriptions (e.g. "Anchor", "Debate Analyst", "Legal Counsel").
 3. "storylines": Developments, escalations, or callbacks to ongoing storylines (especially the Crum D*ck Punch wager) or new broadcast arcs.
 4. "lore_notes": Meaningful canonical lore facts, backstories, broadcast relationships, catchphrases, or recurring network policies. Do NOT include generic one-off jokes. Every lore note MUST include an exact source timestamp like "[49:58]".

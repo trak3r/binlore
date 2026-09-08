@@ -140,7 +140,7 @@ def _match_character_file(name: str, canon: dict[str, list[CanonEntity]]) -> tup
         return CONTENT_CHARACTERS / "chet.md", "chet"
     if "hype" in slug or "hyper" in slug:
         return CONTENT_CHARACTERS / "hype-train.md", "hype-train"
-    if "cryptozeus" in slug:
+    if "cryptozeus" in slug or "cryptozeu" in slug:
         return CONTENT_CHARACTERS / "cryptozeus.md", "cryptozeus"
     if "ripple" in slug or "hooper" in slug:
         return CONTENT_CHARACTERS / "jeff-ripple.md", "jeff-ripple"
@@ -176,7 +176,7 @@ def _match_segment_file(title: str, canon: dict[str, list[CanonEntity]], canonic
             return seg.file_path
         if "hype" in title_lower and "hype" in seg_lower:
             return seg.file_path
-        if any(k in title_lower for k in ("cryptozeus", "gameplay", "jill", "gaming")) and "cryptozeus" in seg_lower:
+        if any(k in title_lower for k in ("cryptozeus", "cryptozeu$", "cryptozeu", "gameplay", "jill", "gaming")) and ("cryptozeus" in seg_lower or "cryptozeu$" in seg_lower or "cryptozeu" in seg_lower):
             return seg.file_path
         if any(k in title_lower for k in ("science", "chet", "skynce", "microscope", "cult")) and "chet" in seg_lower:
             return seg.file_path

@@ -22,10 +22,10 @@ Entery Soda gained network notoriety due to its peculiar spelling. According to 
 
 ## Sponsorship History
 
-- **Episode 2026-07-20:** Co-sponsored [[../characters/cryptozeus|Brandon's (Cryptozeus)]] grueling four-hour *Super Mario Bros. 3* marathon alongside [[gooters|Gooters]], promoting its high-stimulant botanical formulation to exhausted retro gaming audiences.
+- **Episode 2026-07-20:** Co-sponsored [[../characters/cryptozeus|Brandon's (CryptoZeu$)]] grueling four-hour *Super Mario Bros. 3* marathon alongside [[gooters|Gooters]], promoting its high-stimulant botanical formulation to exhausted retro gaming audiences.
 
 ## See also
 
 - [[gooters|Gooters]]
-- [[../segments/cryptozeus|Cryptozeus]]
+- [[../segments/cryptozeus|CryptoZeu$]]
 - [[index|All Sponsors]]

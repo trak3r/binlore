@@ -122,8 +122,8 @@ def _format_character_link(name: str) -> str:
         return "[[characters/chet-ai|ChetAI]]"
     if "chet" in slug or "manscape" in slug or "science" in slug or "skynce" in slug:
         return "[[characters/chet|Chet (Chet Manscape)]]"
-    if "cryptozeus" in slug or "brandon" in slug:
-        return "[[characters/cryptozeus|Brandon (Cryptozeus)]]"
+    if "cryptozeus" in slug or "brandon" in slug or "cryptozeu$" in slug:
+        return "[[characters/cryptozeus|Brandon (CryptoZeu$)]]"
     if "ripple" in slug or "hooper" in slug:
         return "[[characters/jeff-ripple|Jeff Ripple]]"
     if "pepito" in slug:
@@ -160,7 +160,7 @@ def _format_segment_link(name: str) -> str:
         return f"[[segments/hype-train|{name}]]"
     if "news" in slug:
         return f"[[segments/news|{name}]]"
-    if "cryptozeus" in slug or "gaming" in slug:
+    if "cryptozeus" in slug or "gaming" in slug or "cryptozeu$" in slug:
         return f"[[segments/cryptozeus|{name}]]"
     if "chet" in slug or "science" in slug or "skynce" in slug:
         return f"[[segments/chet-guy-the-science-eyes|{name}]]"

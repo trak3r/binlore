@@ -25,7 +25,7 @@ Its official corporate motto is delivered with solemn reverence across commercia
 
 Conceived as a hyper-masculine counterpart to traditional sports breastaurants, Gooters emphasizes uninhibited caloric indulgence, saturated fats, and high-moisture finger foods. The restaurants feature moist communal seating, industrial floor drains, and waitstaff trained in aggressive napkin rationing.
 
-The brand maintains an exclusive promotional partnership with the network's resident gaming correspondent [[../characters/cryptozeus|Brandon (Cryptozeus)]], whose retro playthroughs are routinely hijacked by on-screen sponsor banners and frantic order requests shouted through the bedroom door by his mother.
+The brand maintains an exclusive promotional partnership with the network's resident gaming correspondent [[../characters/cryptozeus|Brandon (CryptoZeu$)]], whose retro playthroughs are routinely hijacked by on-screen sponsor banners and frantic order requests shouted through the bedroom door by his mother.
 
 ## Culinary Offerings & Delicacies
 
@@ -49,20 +49,20 @@ Gooters' menu eschews conventional poultry standards in favor of proprietary, fl
 
 | Episode | Segment | Dispatch Notes |
 |---------|---------|----------------|
-| [[../episodes/2026-07-20|2026-07-20]] | [[../segments/news|News]] / [[../segments/cryptozeus|Cryptozeus]] | Proposed drive-through debated at the Hate Sock Town Hall. Later featured as primary underwriter for Brandon's *Super Mario Bros. 3* marathon. |
+| [[../episodes/2026-07-20|2026-07-20]] | [[../segments/news|News]] / [[../segments/cryptozeus|CryptoZeu$]] | Proposed drive-through debated at the Hate Sock Town Hall. Later featured as primary underwriter for Brandon's *Super Mario Bros. 3* marathon. |
 | [[../episodes/2026-07-23|2026-07-23]] | [[../segments/the-jo-rogen-experience|The Jo Rogen Experience]] | Lead-in commercial bumper promoting the original wet wings meal plan before the two-Joe Rogan interview. |
-| [[../episodes/2026-08-04|2026-08-04]] | [[../segments/cryptozeus|Cryptozeus]] / [[../segments/amongst-the-web|Amongst the Web]] | Promo run for the 'all ankle' promotion with free bucket of chicken ankles; Pepito requests chicken ankles slid under Brandon's door. |
-| [[../episodes/2026-08-06|2026-08-06]] | [[../segments/cryptozeus|Cryptozeus]] | 50% discount advertised on wet dipped roast beef curtain sandwiches during retro gaming. |
-| [[../episodes/2026-08-08|2026-08-08]] | [[../segments/cryptozeus|Cryptozeus]] | Brandon's mother repeatedly heckles him through the bedroom door regarding ordering 35 Gooters family meals and storing soda in rubber socks. |
-| [[../episodes/2026-08-19|2026-08-19]] | [[../segments/cryptozeus|Cryptozeus]] | Multiple wing dispatches interrupt TurboGrafx-16 *Obocama-kun* gameplay. |
-| [[../episodes/2026-08-26|2026-08-26]] | [[../segments/cryptozeus|Cryptozeus]] | Commercial spot unveils wet storage bins, the $20-stuffed potato turducken, herniated cheese discs, and moist kitten poppers. |
-| [[../episodes/2026-09-01|2026-09-01]] | [[../segments/cryptozeus|Cryptozeus]] | Sponsor card promotes mayo-soaked chicken skins ($5 a piece) during *Wario Land 4* session. |
-| [[../episodes/2026-09-02|2026-09-02]] | [[../segments/cryptozeus|Cryptozeus]] | Live commercial read delivered over *Jill of the Jungle* DOS gameplay. |
+| [[../episodes/2026-08-04|2026-08-04]] | [[../segments/cryptozeus|CryptoZeu$]] / [[../segments/amongst-the-web|Amongst the Web]] | Promo run for the 'all ankle' promotion with free bucket of chicken ankles; Pepito requests chicken ankles slid under Brandon's door. |
+| [[../episodes/2026-08-06|2026-08-06]] | [[../segments/cryptozeus|CryptoZeu$]] | 50% discount advertised on wet dipped roast beef curtain sandwiches during retro gaming. |
+| [[../episodes/2026-08-08|2026-08-08]] | [[../segments/cryptozeus|CryptoZeu$]] | Brandon's mother repeatedly heckles him through the bedroom door regarding ordering 35 Gooters family meals and storing soda in rubber socks. |
+| [[../episodes/2026-08-19|2026-08-19]] | [[../segments/cryptozeus|CryptoZeu$]] | Multiple wing dispatches interrupt TurboGrafx-16 *Obocama-kun* gameplay. |
+| [[../episodes/2026-08-26|2026-08-26]] | [[../segments/cryptozeus|CryptoZeu$]] | Commercial spot unveils wet storage bins, the $20-stuffed potato turducken, herniated cheese discs, and moist kitten poppers. |
+| [[../episodes/2026-09-01|2026-09-01]] | [[../segments/cryptozeus|CryptoZeu$]] | Sponsor card promotes mayo-soaked chicken skins ($5 a piece) during *Wario Land 4* session. |
+| [[../episodes/2026-09-02|2026-09-02]] | [[../segments/cryptozeus|CryptoZeu$]] | Live commercial read delivered over *Jill of the Jungle* DOS gameplay. |
 
 ## See also
 
 - [[entery-soda|Entery Soda]]
-- [[../segments/cryptozeus|Cryptozeus]]
+- [[../segments/cryptozeus|CryptoZeu$]]
 - [[../characters/hate-sock|Hate Sock]]
 - [[../characters/case-blackwell|Case Blackwell]]
 - [[index|All Sponsors]]

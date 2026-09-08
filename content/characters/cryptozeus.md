@@ -1,7 +1,8 @@
 ---
-title: "Brandon (Cryptozeus)"
+title: "Brandon (CryptoZeu$)"
 type: character
 aliases:
+  - CryptoZeu$
   - Cryptozeus
   - Brandon
   - Bran Bran
@@ -13,11 +14,11 @@ tags:
   - gaming
 ---
 
-# Brandon (Cryptozeus)
+# Brandon (CryptoZeu$)
 
-![Cryptozeus on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/cryptozeus.jpg)
+![CryptoZeu$ on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/cryptozeus.jpg)
 
-**Brandon**, recognized across the network by his gaming handle **Cryptozeus**, is the resident video game and digital culture correspondent for *Barely Informed News*. He anchors the network's live gaming dispatch, [[../segments/cryptozeus|Cryptozeus]].
+**Brandon**, recognized across the network by his gaming handle **CryptoZeu$**, is the resident video game and digital culture correspondent for *Barely Informed News*. He anchors the network's live gaming dispatch, [[../segments/cryptozeus|CryptoZeu$]].
 
 Broadcasting remote from his bedroom studio, Brandon conducts deep-dive playthroughs of vintage DOS classics and retro simulation titles.
 
@@ -36,15 +37,6 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 
 ## Appearances
 
-
-
-
-
-
-
-
-
-
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Live DOS playthrough of Epic MegaGames' *Jill of the Jungle* trilogy. Plugs Gooters wings and navigates his mother's Old English vocal affectations following a bumper-car accident. |
@@ -53,7 +45,7 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-08-19|2026-08-19]] | Resident gaming correspondent broadcasting remote from his bedroom while attempting to play a TurboGrafx-16 game. |
 | [[episodes/2026-08-08|2026-08-08]] | Gaming correspondent. Broadcasts a remote retro playthrough of a romhack of Super Mario Bros. 3 from his bedroom. Claims to make $60 million a year. Heckled constantly by his mother about Gooters chicken wings. |
 | [[episodes/2026-08-04|2026-08-04]] | Resident gaming correspondent. Broadcasts remotely from his bedroom, fails to emulate Mickey's Blast Into the Past on the Sega Pico via RetroArch, and is repeatedly interrupted by his mother through the door. |
-| [[episodes/2026-07-23|2026-07-23]] | Resident Gaming Correspondent. Broadcasts the Cryptozeus segment. Struggles extensively with emulator controller setup and keyboard inputs while playing Rex Ronan. Later joins the Joe Rogan parody segment. Constantly berated by his mother through the bedroom door. |
+| [[episodes/2026-07-23|2026-07-23]] | Resident Gaming Correspondent. Broadcasts the CryptoZeu$ segment. Struggles extensively with emulator controller setup and keyboard inputs while playing Rex Ronan. Later joins the Joe Rogan parody segment. Constantly berated by his mother through the bedroom door. |
 | [[episodes/2026-07-20|2026-07-20]] | Resident gaming correspondent. Broadcasts from his bedroom attempting to beat Super Mario Bros. 3 while his mother yells through the door. |
 | [[episodes/2026-07-13|2026-07-13]] | Gaming correspondent playing 'Cursed'. Discloses his mother is 'French', lives in a tight-knit community, and mentions 'Stephanie' showing up at the door. |
 | [[episodes/2026-07-11|2026-07-11]] | Gaming correspondent; hosts the Mecha Chameleon block, names the server 'cream boys,' and applies texture camouflage. |
@@ -61,14 +53,6 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-06-27|2026-06-27]] | Resident gaming correspondent broadcasting from his bedroom studio. |
 
 ## Notable moments
-
-
-
-
-
-
-
-
 
 - **[1:26:47]** ([[episodes/2026-09-02|2026-09-02]]): Delivers extended *Jill of the Jungle* gameplay commentary interspersed with Gooters sponsorship spots and maternal arguments.
 - **[24:51]** ([[episodes/2026-09-04|2026-09-04]]): Newsroom inquiries regarding his origins clarify that Brandon was extracted from the "crypto universe" prior to joining the network.
@@ -89,3 +73,5 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 - **[01:45:34]** ([[episodes/2026-07-11|2026-07-11]]): Brandon's mother constantly yells at him for leaving mayonnaise hair cream packages open, causing the contents to 'rot off' and be devoured by rats.
 - **[02:14:55]** ([[episodes/2026-06-29|2026-06-29]]): Brandon's mother harasses him through the bedroom door about haircuts, party sub theft, and toilet floods ('8 feet deep'). The feral hogs in the backyard are repelled by a hose Brandon purchased. She calls him 'Brandy'.
 - **[01:30:46]** ([[episodes/2026-06-27|2026-06-27]]): Brandon's mother loudly threatened to buy a pool to be 'eaten out' of by 'Pastor Joe', then threatened to leave her door open so chat could hear him. Brandon considered emancipating himself and being adopted by his neighbor, 'Brecky', a 72-year-old woman.
+
+See also: [[../segments/cryptozeus|CryptoZeu$ (Segment)]], [[characters/brandons-mother|Brandon's Mother]], [[characters/case-blackwell|Case Blackwell]], [[index|On-Air Talent & Staff]].

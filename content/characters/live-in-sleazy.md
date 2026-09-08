@@ -29,7 +29,7 @@ Beyond technical assistance with search engine setups, stream widgets, and digit
 
 - **Interactive Feature Support:** Assists Case with the technical infrastructure required for experimental stream bits, chat commands, and AI features.
 - **Model Recovery for [[characters/ai-rooney|AI Rooney]]:** Following the official retirement of the AI Rooney segment, Live 'n Sleazy was credited on air with successfully locating and extracting the decommissioned "Rooney 1.0 Knot Prime" model from the digital archives during the July 17, 2026 broadcast.
-- **Segment Submissions:** Regular contributor to [[../segments/amongst-the-web|Amongst the Web]] and [[../segments/cryptozeus|Cryptozeus]], submitting viral clips (such as the prize-winning hog watch), debate prompts, and custom song concepts (such as "The Economy Ceasefire Violation Blues" for the DJC4 studio).
+- **Segment Submissions:** Regular contributor to [[../segments/amongst-the-web|Amongst the Web]] and [[../segments/cryptozeus|CryptoZeu$]], submitting viral clips (such as the prize-winning hog watch), debate prompts, and custom song concepts (such as "The Economy Ceasefire Violation Blues" for the DJC4 studio).
 
 ## Appearances & Mentions
 

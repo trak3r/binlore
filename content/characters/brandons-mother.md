@@ -15,11 +15,11 @@ tags:
 
 ![Brandon's Mother shouting through the bedroom door on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/cryptozeus.jpg)
 
-**Brandon's Mother** is the unseen, loud-mouthed matriarch who relentlessly interrupts remote gaming dispatches by bellowing through the closed bedroom door of resident gaming correspondent [[characters/cryptozeus|Brandon (Cryptozeus)]].
+**Brandon's Mother** is the unseen, loud-mouthed matriarch who relentlessly interrupts remote gaming dispatches by bellowing through the closed bedroom door of resident gaming correspondent [[characters/cryptozeus|Brandon (CryptoZeu$)]].
 
 ## Overview
 
-Never physically appearing on camera, Brandon's Mother makes her presence known entirely via muffled screaming through the drywall and hollow-core bedroom door during the [[../segments/cryptozeus|Cryptozeus]] gaming desk. Her shrieks reliably derail Brandon's retro playthroughs with mortifying household emergencies, bizarre personal accusations, and culinary grievances.
+Never physically appearing on camera, Brandon's Mother makes her presence known entirely via muffled screaming through the drywall and hollow-core bedroom door during the [[../segments/cryptozeus|CryptoZeu$]] gaming desk. Her shrieks reliably derail Brandon's retro playthroughs with mortifying household emergencies, bizarre personal accusations, and culinary grievances.
 
 Her shouting matches with Brandon—whom she frequently addresses as "Brandy"—span everything from missing Subway party subs, air fryer disasters, and feral pig hose rituals to frantic warnings about basement flooding filled with eight feet of water and dead hogs.
 
@@ -40,3 +40,5 @@ Her shouting matches with Brandon—whom she frequently addresses as "Brandy"—
 ## Open Questions
 
 - What does the interior of the rest of the house look like beyond Brandon's bedroom door?
+
+See also: [[characters/cryptozeus|Brandon (CryptoZeu$)]], [[../segments/cryptozeus|CryptoZeu$]], [[index|On-Air Talent & Staff]].
