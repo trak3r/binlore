@@ -6,6 +6,7 @@ from pathlib import Path
 from typing import Any
 
 from .paths import REPO_ROOT, RUNS_DIR, TOOLS_ROOT
+from .vods import get_yt_dlp_cmd
 
 SCREENCAPS_DIR = TOOLS_ROOT / "screencaps"
 
@@ -17,7 +18,7 @@ def get_stream_url(vod_url_or_id: str) -> str:
     else:
         target = vod_url_or_id
 
-    cmd = ["yt-dlp", "-g", target]
+    cmd = [*get_yt_dlp_cmd(), "-g", target]
     try:
         proc = subprocess.run(cmd, capture_output=True, text=True, check=True)
         url = proc.stdout.strip().splitlines()[0]

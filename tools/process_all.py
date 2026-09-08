@@ -27,7 +27,15 @@ if str(TOOLS_DIR) not in sys.path:
 
 # If running outside tools/.venv, auto-switch to venv python if present
 VENV_DIR = (TOOLS_DIR / ".venv").resolve()
-VENV_PYTHON = TOOLS_DIR / ".venv" / "bin" / "python3"
+VENV_BIN = TOOLS_DIR / ".venv" / ("Scripts" if os.name == "nt" else "bin")
+VENV_PYTHON = VENV_BIN / ("python3.exe" if os.name == "nt" else "python3")
+
+# Ensure venv bin is in PATH so child subprocesses find installed tools
+if VENV_BIN.is_dir():
+    _bin_str = str(VENV_BIN)
+    if _bin_str not in os.environ.get("PATH", "").split(os.pathsep):
+        os.environ["PATH"] = f"{_bin_str}{os.pathsep}{os.environ.get('PATH', '')}"
+
 if VENV_PYTHON.exists() and Path(sys.prefix).resolve() != VENV_DIR:
     os.execv(str(VENV_PYTHON), [str(VENV_PYTHON), *sys.argv])
 

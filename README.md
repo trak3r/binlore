@@ -46,10 +46,19 @@ Media files (`*.m4a`, `*.mp4`, etc.) and batch logs are listed in `.gitignore` t
 
 ## Setup & Prerequisites
 
-### 1. System Dependencies (Mac)
+### 1. System Dependencies
 
-Install Node.js 22+ (for Quartz) and media tools (for VOD download and audio conversion):
+**Linux / Remote Server (Ubuntu / Debian):**
+```bash
+# Media tools for Twitch VOD download & audio processing
+sudo apt update && sudo apt install -y ffmpeg
 
+# Node.js 22+ (required for Quartz wiki build)
+curl -fsSL https://deb.nodesource.com/setup_22.x | sudo -E bash -
+sudo apt install -y nodejs
+```
+
+**macOS:**
 ```bash
 # Media tools for Twitch VOD download & audio processing
 brew install yt-dlp ffmpeg

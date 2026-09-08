@@ -4,16 +4,30 @@ VOD ingest, transcript archiving, and LLM-assisted lore extraction for the Binlo
 
 ## Setup
 
-```bash
-# System dependencies (once)
-brew install yt-dlp ffmpeg
+### System dependencies
 
-# Python virtual environment
+**Linux / Remote Server (Ubuntu / Debian):**
+```bash
+sudo apt update && sudo apt install -y ffmpeg
+# yt-dlp is installed automatically via pip into the venv below.
+# (Optional) To install yt-dlp system-wide:
+# sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp && sudo chmod a+rx /usr/local/bin/yt-dlp
+```
+
+**macOS:**
+```bash
+brew install yt-dlp ffmpeg
+```
+
+### Python virtual environment
+
+```bash
 cd tools
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -e .
 ```
+*(Running `pip install -e .` automatically installs both `faster-whisper` and `yt-dlp` into `.venv`.)*
 
 ### OpenRouter API Key (for Lore Extraction)
 

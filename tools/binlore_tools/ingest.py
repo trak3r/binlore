@@ -9,7 +9,7 @@ from typing import Any
 from .episode import write_episode_stub
 from .paths import RUNS_DIR
 from .transcribe import transcribe_audio, write_transcript
-from .vods import Vod, format_duration, resolve_vod
+from .vods import Vod, format_duration, get_yt_dlp_cmd, resolve_vod
 
 
 def _ensure_ffmpeg() -> None:
@@ -20,8 +20,12 @@ def _ensure_ffmpeg() -> None:
             capture_output=True,
             text=True,
         )
-    except FileNotFoundError as e:
-        raise RuntimeError("ffmpeg not found. Install with: brew install ffmpeg") from e
+    except (FileNotFoundError, subprocess.CalledProcessError) as e:
+        raise RuntimeError(
+            "ffmpeg not found. Please install ffmpeg:\n"
+            "  sudo apt update && sudo apt install -y ffmpeg   # Linux (Ubuntu/Debian)\n"
+            "  brew install ffmpeg                            # macOS"
+        ) from e
 
 
 def download_audio(vod: Vod, dest_dir: Path) -> Path:
@@ -29,8 +33,9 @@ def download_audio(vod: Vod, dest_dir: Path) -> Path:
     dest_dir.mkdir(parents=True, exist_ok=True)
     # yt-dlp chooses extension; we request m4a
     outtmpl = str(dest_dir / "audio.%(ext)s")
+    ytdlp_cmd = get_yt_dlp_cmd()
     cmd = [
-        "yt-dlp",
+        *ytdlp_cmd,
         "-x",
         "--audio-format",
         "m4a",
@@ -44,6 +49,11 @@ def download_audio(vod: Vod, dest_dir: Path) -> Path:
     print(f"Downloading audio for {vod.id}…", flush=True)
     try:
         subprocess.run(cmd, check=True)
+    except FileNotFoundError as e:
+        raise RuntimeError(
+            f"Failed to run yt-dlp ({ytdlp_cmd[0]}): file not found. "
+            "Install with: pip install yt-dlp"
+        ) from e
     except subprocess.CalledProcessError as e:
         raise RuntimeError(f"yt-dlp download failed for {vod.url} (exit {e.returncode})") from e
 

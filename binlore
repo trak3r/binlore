@@ -16,4 +16,5 @@ EOF
   exit 1
 fi
 
+export PATH="$REPO_DIR/tools/.venv/bin:$PATH"
 exec "$VENV_BIN" "$@"

@@ -458,6 +458,25 @@ def run_batch_processing(
     logger.info(f"Free disk space on host: {get_free_disk_space_gb(RUNS_DIR):.2f} GB")
     logger.info("=" * 65)
 
+    # Pre-flight external tools check (yt-dlp & ffmpeg)
+    if not dry_run:
+        from .ingest import _ensure_ffmpeg
+        from .vods import get_yt_dlp_cmd
+
+        try:
+            ytdlp_cmd = get_yt_dlp_cmd()
+            logger.info(f"External tool yt-dlp: {' '.join(ytdlp_cmd)}")
+        except RuntimeError as e:
+            logger.error(f"Missing dependency:\n{e}")
+            return 1
+
+        try:
+            _ensure_ffmpeg()
+            logger.info("External tool ffmpeg: available")
+        except RuntimeError as e:
+            logger.error(f"Missing dependency:\n{e}")
+            return 1
+
     # Pre-flight API key check if extraction is requested
     if not skip_extract and not dry_run:
         load_env()

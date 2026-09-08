@@ -1,12 +1,62 @@
 from __future__ import annotations
 
 import json
+import os
+import shutil
 import subprocess
+import sys
 from dataclasses import dataclass
 from datetime import datetime, timezone
+from pathlib import Path
 from typing import Any
 
 from .paths import CHANNEL_VIDEOS_URL
+
+
+def get_yt_dlp_cmd() -> list[str]:
+    """Find the best command to invoke yt-dlp.
+
+    Checks in order:
+    1. PATH via shutil.which('yt-dlp')
+    2. Active virtual environment bin directory
+    3. tools/.venv bin directory
+    4. Python module invocation via sys.executable -m yt_dlp
+    """
+    # 1. System or active PATH
+    ytdlp = shutil.which("yt-dlp")
+    if ytdlp:
+        return [ytdlp]
+
+    # 2. Virtual environment bin (active or current python interpreter)
+    bin_name = "yt-dlp.exe" if os.name == "nt" else "yt-dlp"
+    venv_dir = "Scripts" if os.name == "nt" else "bin"
+    venv_bin = Path(sys.prefix) / venv_dir / bin_name
+    if venv_bin.is_file() and os.access(venv_bin, os.X_OK):
+        return [str(venv_bin)]
+
+    # 3. tools/.venv bin directory
+    from .paths import TOOLS_ROOT
+
+    tools_venv_bin = TOOLS_ROOT / ".venv" / venv_dir / bin_name
+    if tools_venv_bin.is_file() and os.access(tools_venv_bin, os.X_OK):
+        return [str(tools_venv_bin)]
+
+    # 4. As an importable python module
+    try:
+        import yt_dlp  # noqa: F401
+
+        return [sys.executable, "-m", "yt_dlp"]
+    except ImportError:
+        pass
+
+    raise RuntimeError(
+        "yt-dlp not found.\n"
+        "Please install it in your Python environment:\n"
+        "  pip install yt-dlp\n"
+        "Or install via your system package manager:\n"
+        "  sudo apt update && sudo apt install -y yt-dlp   # Linux (Ubuntu/Debian)\n"
+        "  brew install yt-dlp                            # macOS"
+    )
 
 
 @dataclass
@@ -31,12 +81,13 @@ class Vod:
 
 
 def _run_yt_dlp(args: list[str]) -> str:
-    cmd = ["yt-dlp", *args]
+    cmd = [*get_yt_dlp_cmd(), *args]
     try:
         proc = subprocess.run(cmd, check=True, capture_output=True, text=True)
     except FileNotFoundError as e:
         raise RuntimeError(
-            "yt-dlp not found. Install with: brew install yt-dlp"
+            "yt-dlp not found.\n"
+            "Please install it: pip install yt-dlp (or brew install yt-dlp / sudo apt install yt-dlp)"
         ) from e
     except subprocess.CalledProcessError as e:
         raise RuntimeError(e.stderr.strip() or e.stdout.strip() or str(e)) from e
