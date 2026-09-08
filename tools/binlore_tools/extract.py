@@ -220,7 +220,7 @@ def query_openrouter(
     *,
     api_key: str,
     models: list[str],
-    timeout: float = 75.0,
+    timeout: float = 90.0,
     max_retries_per_model: int = 2,
 ) -> tuple[dict[str, Any], str]:
     """Query OpenRouter with SSE streaming, live progress ticker, rate-limit backoff, and automatic fallback."""
@@ -232,11 +232,11 @@ def query_openrouter(
     }
 
     approx_prompt_tokens = len(prompt) // 4
-    last_error: Exception | None = None
+    model_failures: list[dict[str, Any]] = []
 
     for model_idx, model in enumerate(models):
         if model_idx > 0:
-            # Brief pause between models so rapid sequential requests don't trigger account rate limits
+            # Brief pause between models to prevent rapid-fire cascading
             time.sleep(2.0)
 
         for attempt in range(1, max_retries_per_model + 1):
@@ -249,7 +249,6 @@ def query_openrouter(
                     {"role": "user", "content": prompt},
                 ],
                 "temperature": 0.2,
-                "response_format": {"type": "json_object"},
                 "stream": True,
             }
 
@@ -276,19 +275,24 @@ def query_openrouter(
             collected_text: list[str] = []
             should_retry_same_model = False
             try:
-                # Enforce connect, read, write timeouts to avoid hanging sockets
-                inactivity_timeout = min(float(timeout), 40.0)
-                client_timeout = httpx.Timeout(timeout, connect=20.0, read=inactivity_timeout, write=20.0, pool=10.0)
+                # Allow full timeout for initial prefill / first token; bounded connect and write timeouts
+                client_timeout = httpx.Timeout(timeout, connect=25.0, read=timeout, write=25.0, pool=10.0)
                 with httpx.Client(timeout=client_timeout) as client:
                     with client.stream("POST", OPENROUTER_API_URL, headers=headers, json=payload) as resp:
                         if resp.status_code != 200:
                             stop_heartbeat.set()
                             hb_thread.join(timeout=0.5)
                             err_text = resp.read().decode("utf-8", errors="replace")
-                            last_error = RuntimeError(f"HTTP {resp.status_code}: {err_text}")
+                            err_short = err_text[:200]
+                            model_failures.append({
+                                "model": model,
+                                "attempt": attempt,
+                                "elapsed": round(time.time() - start_time, 1),
+                                "error": f"HTTP {resp.status_code}: {err_short}",
+                            })
 
                             if resp.status_code in {429, 502, 503, 504} and attempt < max_retries_per_model:
-                                backoff = attempt * 6.0
+                                backoff = attempt * 8.0
                                 sys.stdout.write(
                                     f"\r  ⚠ Model {model} returned HTTP {resp.status_code} (upstream rate-limited or busy). "
                                     f"Retrying in {backoff:.0f}s...\n"
@@ -296,9 +300,9 @@ def query_openrouter(
                                 sys.stdout.flush()
                                 time.sleep(backoff)
                                 should_retry_same_model = True
-                                break
+                                continue
                             else:
-                                sys.stdout.write(f"\r  ✗ Model returned HTTP {resp.status_code}: {err_text[:180]}\n")
+                                sys.stdout.write(f"\r  ✗ Model returned HTTP {resp.status_code}: {err_short}\n")
                                 sys.stdout.flush()
                                 break
 
@@ -354,7 +358,13 @@ def query_openrouter(
                 sys.stdout.flush()
 
                 if not full_content:
-                    last_error = RuntimeError(f"Empty response from model {model}")
+                    err_msg = f"Empty response from model {model}"
+                    model_failures.append({
+                        "model": model,
+                        "attempt": attempt,
+                        "elapsed": round(elapsed, 1),
+                        "error": err_msg,
+                    })
                     break
 
                 parsed = _parse_llm_json(full_content)
@@ -364,14 +374,25 @@ def query_openrouter(
                 stop_heartbeat.set()
                 hb_thread.join(timeout=0.5)
                 elapsed = time.time() - start_time
-                sys.stdout.write(f"\r  ✗ Model {model} failed after {elapsed:.1f}s: {e}\n")
+                err_str = str(e) or type(e).__name__
+                sys.stdout.write(f"\r  ✗ Model {model} failed after {elapsed:.1f}s: {err_str}\n")
                 sys.stdout.flush()
-                last_error = e
+                model_failures.append({
+                    "model": model,
+                    "attempt": attempt,
+                    "elapsed": round(elapsed, 1),
+                    "error": err_str,
+                })
                 if should_retry_same_model:
                     continue
                 break
 
-    raise RuntimeError(f"All candidate models failed. Last error: {last_error}")
+    lines: list[str] = []
+    for f in model_failures:
+        att = f" (attempt {f['attempt']})" if f["attempt"] > 1 else ""
+        lines.append(f"  - [{f['model']}{att} after {f['elapsed']}s]: {f['error']}")
+    failure_summary = "\n".join(lines)
+    raise RuntimeError(f"All candidate models failed ({len(model_failures)} attempts):\n{failure_summary}")
 
 
 def extract_lore_from_vod(
