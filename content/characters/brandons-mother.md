@@ -25,6 +25,7 @@ Her shouting matches with Brandon—whom she frequently addresses as "Brandy"—
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | Harangues Brandon through the closed door during his *Intelligent Qube* PlayStation emulation session. |
@@ -34,6 +35,7 @@ Her shouting matches with Brandon—whom she frequently addresses as "Brandy"—
 | [[episodes/2026-07-11|2026-07-11]] | Screams through the door about hair cream, unannounced parties, and Taco Bell gastrointestinal emergencies. |
 | [[episodes/2026-06-29|2026-06-29]] | Shouts about Subway party sub theft, feral pig hoses, and household flooding with dead hogs. |
 | [[episodes/2026-06-27|2026-06-27]] | Shouts through the bedroom door regarding chimichangas, air fryers, and backyard Jello pools. |
+| [[episodes/2026-06-22|2026-06-22]] | Unseen family voice making presence known via muffled screaming through the drywall during Brandon's gaming segment. |
 
 ## Notable Moments
 
@@ -45,3 +47,7 @@ Her shouting matches with Brandon—whom she frequently addresses as "Brandy"—
 - What does the interior of the rest of the house look like beyond Brandon's bedroom door?
 
 See also: [[characters/cryptozeus|Brandon (CryptoZeu$)]], [[../segments/cryptozeus|CryptoZeu$]], [[index|On-Air Talent & Staff]].
+
+## Notable moments
+
+- **[01:48:41]** ([[episodes/2026-06-22|2026-06-22]]): Brandon's Mother makes her presence known entirely via muffled screaming through the drywall during his gaming segments, frequently interrupting with demands for food, commentary on his gameplay, and references to Gooters chicken.

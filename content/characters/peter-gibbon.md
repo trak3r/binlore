@@ -37,6 +37,7 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-04|2026-09-04]] | Crawls out of the studio walls to seize the broadcast desk: *"Looks like you couldn't keep me away forever. Back again it's Peter Gibbon."* Reads the news bulletin, plays music tracks from a controversial cult, and anchors the viral video review desk. |
@@ -44,8 +45,10 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2026-08-06|2026-08-06]] | Disgraced former producer / news stowaway. Mentioned as the chat-recommended winner of a 'cream team' poll regarding who would attend the nude restaurant. |
 | [[episodes/2026-07-24|2026-07-24]] | Takes over Jeff Ripple's news reading duties during the pre-show segment. Later hosts the Streets segment, fielding callers (Trippy B, Dale Huffy, and Avatar), confirms he never left the walls, references interdimensional wall portals, and spills battery acid on his way out. |
 | [[episodes/2026-07-17|2026-07-17]] | News stowaway. Chet hinted he may have 'taken Stephanie to the wall'; Dr. Chath also noted Don will live in a wall for years for a bit. |
+| [[episodes/2026-06-22|2026-06-22]] | Mentioned in reference to 'Leave it to Peter, starring Peter Gibbon' during merch discussion. |
 
 ## Notable moments
+
 
 
 
@@ -54,3 +57,4 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 - **[24:24]** ([[episodes/2026-09-04|2026-09-04]]): Experiences an on-air transmission cross-talk incident with debate analyst Crum during a botched paranormal spell, briefly conflating their identities in the control room archives.
 - **[01:37:45]** ([[episodes/2026-08-14|2026-08-14]]): The fused Crum/Peter Gibbon identity resurfaced during the outro, now self-styling as 'Kendelle' and announcing a breakup with 'Kate'.
 - **[48:05]** ([[episodes/2026-08-06|2026-08-06]]): The network chat community actively tracks and ranks the 'cream team' of frequent guests, with the nude steakhouse story prompting a live poll on which contributor would attend.
+- **[50:34]** ([[episodes/2026-06-22|2026-06-22]]): Peter Gibbon is a disgraced former producer who now inhabits the studio wall crawlspaces as a news stowaway. He is referenced in a merch submission titled 'Leave it to Peter, starring Peter Gibbon.'

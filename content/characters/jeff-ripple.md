@@ -42,6 +42,7 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-06-29|2026-06-29]] | Co-hosts *Amongst the Web* during his 'Jam EFE era', demanding on-air catchphrase validation and claiming the phrase 'don't eat my nipples' as a Ripple-original. |
@@ -54,6 +55,7 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 | [[episodes/2026-08-19|2026-08-19]] | Studio newsreader delivering offbeat headlines and human-interest stories with Blackwell. |
 | [[episodes/2026-09-01|2026-09-01]] | Anchors the "Weekend Odds and Ends" feature bulletin, reporting on floating islands, Virginia bat incidents, and water-balloon records. |
 | [[episodes/2026-09-02|2026-09-02]] | Evaluates newsroom graphics, defends audience members against Blackwell's accusations, and spars with Hype Train over his Panther companion. |
+| [[episodes/2026-06-22|2026-06-22]] | Studio news reader and breaking chat correspondent monitoring viewer dispatches and delivering offbeat news bulletins. |
 
 ## Notable Moments
 

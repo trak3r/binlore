@@ -32,6 +32,8 @@ Broadcasting live directly from park shrubbery, [[../characters/trip-bradstein|T
 
 ## Known occurrences
 
+
 | Episode | Timestamp | Notes |
 |---|---|---|
 | [[../episodes/2026-06-29|2026-06-29]] | 01:50:21 | Trip Bradstein emerges from a two-month bush hibernation to interview park visitors on audience-submitted topics, crossing paths with his mother (mistaken for a stranger), Hype Train, an aggressive DVD salesman, and a George W. Bush impersonator. |
+| [[episodes/2026-06-22|2026-06-22]] | 01:24:35 | Therapy Session with Dr. Chath: Case announces a therapy segment instead of Trip on the Street, sitting with Dr. Chath who provides confusing advice involving wrestling references, dance moves, and bizarre tangents. Features Kendall's ghostly appearance and discussions about banning/raiding viewers. |

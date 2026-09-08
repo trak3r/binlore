@@ -33,9 +33,11 @@ Trump's political rallies, policy announcements, and legal entanglements serve a
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-06-27|2026-06-27]] | Quoted on housing proposals and Iranian foreign policy. |
 | [[episodes/2026-07-11|2026-07-11]] | Subject of news reporting on shipping blockades and congressional war notifications. |
 | [[episodes/2026-07-13|2026-07-13]] | News segment analyzing foreign policy declarations and military readiness. |
 | [[episodes/2026-07-16|2026-07-16]] | Focus of the Munch & Crum debate on the 2020 election. |
+| [[episodes/2026-06-22|2026-06-22]] | Former U.S. President whose Truth Social posts about the reflecting pool are discussed and parodied. |

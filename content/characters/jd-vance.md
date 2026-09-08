@@ -33,11 +33,13 @@ Beyond audience ribbing, Vance is treated in the network's universe as an occasi
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-06-27|2026-06-27]] | Quoted comparing Nixon's removal to Trump's and arguing modern politicians can get away with more. |
 | [[episodes/2026-07-11|2026-07-11]] | Case debuts a new haircut on-air in an explicit bid to halt chat comparisons to Vance. |
 | [[episodes/2026-07-16|2026-07-16]] | Makes an unannounced on-air appearance defending Secret Service helicopter requests, late-night LAN sessions, and 'Feistas.' |
+| [[episodes/2026-06-22|2026-06-22]] | U.S. Senator representing Ohio, discussed extensively regarding his role in Iran ceasefire negotiations and his book cover controversy. |
 
 ## Notable Quotes
 

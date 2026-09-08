@@ -51,6 +51,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | Opens the Season 3 finale from the Producer Cam; leads the broadcast sign-off song and offers to consume any loose skin from Munch following the studio inferno. |
@@ -73,8 +74,10 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-07-11|2026-07-11]] | Executive Producer; opens the broadcast and attempts to intervene during the sub goal shout-out. |
 | [[episodes/2026-06-29|2026-06-29]] | Executive producer introducing the broadcast from the control room with his signature 'I'm the dog that produces the show' opening. Referenced as having built up a tolerance to almost everything. |
 | [[episodes/2026-06-27|2026-06-27]] | Executive producer of Barely Informed News. |
+| [[episodes/2026-06-22|2026-06-22]] | Executive producer opening the broadcast from the producer cam, thanking subscribers and rambling about various topics. |
 
 ## Notable moments
+
 
 
 
@@ -105,3 +108,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[00:08]** ([[episodes/2026-07-16|2026-07-16]]): Standard cold open catchphrase: 'I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog.'
 - **[27:26]** ([[episodes/2026-07-13|2026-07-13]]): Maintains a 'weird sandpit' within the studio grounds that was searched (unsuccessfully) for Mitch McConnell.
 - **[00:00:10]** ([[episodes/2026-06-29|2026-06-29]]): Executive producer opens every broadcast with his signature 'I'm the dog that produces the show' introduction.
+- **[00:08]** ([[episodes/2026-06-22|2026-06-22]]): Pepito is the canine executive producer who opens the broadcast from the producer cam, thanking subscribers and providing station announcements. He mentions having 'light time travel' over the weekend that is 'kind of unresolved.'

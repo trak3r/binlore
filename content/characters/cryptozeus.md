@@ -37,6 +37,7 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | Streams *Intelligent Qube* (I.Q.) on PS1 emulation using keyboard controls after controller connection failures. Delivers a Labor Day sponsor dispatch for Gooters' $59.99 soggy cola-dipped chicken skins while fielding interruptions from his mother. |
@@ -52,6 +53,7 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-07-11|2026-07-11]] | Gaming correspondent; hosts the Mecha Chameleon block, names the server 'cream boys,' and applies texture camouflage. |
 | [[episodes/2026-06-29|2026-06-29]] | Gaming correspondent. Attempts to play a Japanese PS1 Tamagotchi-style game. Cannot find the BIOS, gets harangued by his mother about hair cutting and toilet flooding, but ultimately rescues a flower-tomadachi pet. Plans to use any BIN merch profits on a Gooters Platinum membership with seven buckets of swizzle chicken meat. |
 | [[episodes/2026-06-27|2026-06-27]] | Resident gaming correspondent broadcasting from his bedroom studio. |
+| [[episodes/2026-06-22|2026-06-22]] | Gaming correspondent conducting deep-dive playthrough of Operation Epic Furious Straight from his bedroom, frequently interrupted by his mother. |
 
 ## Notable moments
 

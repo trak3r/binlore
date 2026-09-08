@@ -31,7 +31,9 @@ Senator Graham's foreign policy posturing, hawkish rhetoric, and dramatic media 
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-07-11|2026-07-11]] | Subject of news desk commentary and verbal broadsides from Hype Train. |
 | [[episodes/2026-07-13|2026-07-13]] | Satirical news segment reviewing his long congressional career and political legacy. |
+| [[episodes/2026-06-22|2026-06-22]] | Briefly mentioned in comparison to JD Vance's political positioning. |

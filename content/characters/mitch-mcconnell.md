@@ -33,8 +33,10 @@ In typical *Barely Informed News* fashion, news regarding McConnell often collid
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-06-27|2026-06-27]] | Referenced in the 'Mom Donny' luxury communism political review block. |
 | [[episodes/2026-07-11|2026-07-11]] | Subject of news segment regarding fall and proof-of-life photo; Dr. Cheth claims McConnell endorsed Case's haircut. |
 | [[episodes/2026-07-13|2026-07-13]] | Detailed news segment discussing gerontocracy in American politics and Senate leadership succession. |
+| [[episodes/2026-06-22|2026-06-22]] | Briefly mentioned in comparison to JD Vance's political positioning. |

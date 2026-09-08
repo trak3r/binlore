@@ -33,6 +33,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-08-06|2026-08-06]] | In-studio contributor appearing intermittently. Debuts briefly before ghosting off-camera, later returns to announce she has already started playing *BigWog* without Blackwell. |
@@ -42,8 +43,10 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-07-16|2026-07-16]] | Referenced in passing by Case as 'Drunkleted' in relation to Stephanie's potential new girlfriend. |
 | [[episodes/2026-07-11|2026-07-11]] | Evaluates Case's haircut and beard paint, joins a lighthearted world kissing record attempt, and assists during the Mecha Chameleon gaming session. |
 | [[episodes/2026-06-27|2026-06-27]] | Mentioned by Blackwell when discussing having to leave the broadcast early for a date night. |
+| [[episodes/2026-06-22|2026-06-22]] | On-air contributor who appears as a ghost during the therapy segment, walking through the studio to her own signature theme music. |
 
 ## Notable moments
+
 
 - **Signature Theme Music**: Her on-camera studio walk-throughs are consistently accompanied by her own dedicated theme music cued by Blackwell.
 - **[09:20]** ([[episodes/2026-09-04|2026-09-04]]): Blackwell discloses hiding an engagement ring from Kendelle while she is out of town, referencing making "husband money" before departing on international leave.
@@ -51,3 +54,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[52:09]** ([[episodes/2026-07-20|2026-07-20]]): Kendelle asks Case live on stream for legal advice regarding a video editing client contract that prevents portfolio usage.
 - **[09:00]** ([[episodes/2026-07-20|2026-07-20]]): Blackwell reveals their collaborative magic act stage names: Case as "Shaz Black" and Kendelle as "Candy Lane".
 - **[00:49:58]** ([[episodes/2026-07-11|2026-07-11]]): Case and Kendelle recount their harrowing 15-hour emergency layover in the Denver airport due to an aircraft fuel line leak and broken replacement window frame.
+- **[01:27:52]** ([[episodes/2026-06-22|2026-06-22]]): Kendelle is Case's girlfriend and on-air contributor who appears as a ghost during the therapy segment, walking through the studio to her own signature theme music. She lives in the therapist's office sometimes and follows 'Harry Potter rules' for apparition.

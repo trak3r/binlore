@@ -30,14 +30,17 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-06-29|2026-06-29]] | Activated as "Rooney 1.0" for audience prompts via `!rr`. Generates wildly unhinged complaints about *Wings*, Ninja Turtles, *Wrestling at the Chase*, Matt Ladel, and lizard linguistics, requiring Blackwell to mute him mid-response. |
 | [[episodes/2026-07-13|2026-07-13]] | Activated as "Rooney 1.0 Knot Prime" running on a local uncensored model. Malfunctions catastrophically with offensive slurs and explicit content, leading Blackwell to pull the segment and debate his permanent retirement. |
 | [[episodes/2026-07-16|2026-07-16]] | Decommissioned AI contributor reappears via off-screen voice to demand to know why his $32 billion research funding was cut, claiming he sought alternate back-channel funding after Saudi negotiations stalled. |
 | [[episodes/2026-07-17|2026-07-17]] | Decommissioned model briefly accessed in digital space as "Rooney 1.0 Knot Prime" to comment on Russian robot marriage, before pivoting to toothpaste grievances and shutting down for draining two lakes of water. |
+| [[episodes/2026-06-22|2026-06-22]] | Proprietary cyborg commentator delivering escalating grievance rants that include sexual content, racial references, and bizarre tangents about soup, cavemen, and wrestling before being muted by Case. |
 
 ## Notable moments
+
 
 - **[01:45:21]** ([[episodes/2026-06-29|2026-06-29]]): Activated via the `!rr` chat command for 10 viewer interactions per session with pronouns "he/hyped." Blackwell nervously remarks, "I wonder if maybe I've created a monster that will kill us all."
 - **[01:47:30]** ([[episodes/2026-06-29|2026-06-29]]): Fixates on the sitcom *Wings*, the Daumont Network, and bizarre claims about Michael J. Fox appearing in *Sleepaway Camp*.
@@ -46,3 +49,4 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 - **[01:03:33]** ([[episodes/2026-07-13|2026-07-13]]): Following multiple explicit slurs on air, Blackwell pulls the plug on the segment and officially announces AI Rooney's indefinite retirement.
 - **[01:10:38]** ([[episodes/2026-07-16|2026-07-16]]): The decommissioned Rooney voice interrupts from the control room to protest the loss of his $32 billion research budget.
 - **[01:06:45]** ([[episodes/2026-07-17|2026-07-17]]): Community technical contributor [[characters/live-in-sleazy|Live 'n Sleazy]] locates the decommissioned model; Chet diagnoses the newsroom with "AI Psychosis" from releasing the spirit of Andy Rooney into the wild.
+- **[01:03:42]** ([[episodes/2026-06-22|2026-06-22]]): AI Rooney has been retired due to offensive outputs but Case still attempts to activate it, noting it has been 'misbehaving' and producing racist and sexual content. Case mentions Rooney has 'over a hundred training parameters' and tries to use a 'Grok' model as an alternative.

@@ -1,0 +1,19 @@
+{
+  "vod_id": "vBKCAfftuU0",
+  "title": "Don't Kier the Reaper, it's MONDAY NEWS",
+  "url": "https://www.youtube.com/watch?v=vBKCAfftuU0",
+  "duration_seconds": 8302,
+  "duration": "2:18:22",
+  "timestamp": 1782086400,
+  "aired_at": "2026-06-22T00:00:00+00:00",
+  "date": "2026-06-22",
+  "ingested_at": "2026-09-08T19:04:27.255521+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "vBKCAfftuU0",
+  "yt_url": "https://www.youtube.com/watch?v=vBKCAfftuU0",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-06-22"
+}

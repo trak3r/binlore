@@ -32,6 +32,7 @@ Brandon's gameplay is consistently disrupted by his mother shouting through the 
 
 ## Known occurrences
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | 01:12:48 | Brandon Plays Intelligent Qube & Gooters Wet Wings: Brandon struggles with keyboard controls while playing *Intelligent Qube* (I.Q.) on PS1 emulation, argues with his mother, and plugs Gooters' $59.99 soggy cola-dipped chicken skins. |
@@ -47,5 +48,6 @@ Brandon's gameplay is consistently disrupted by his mother shouting through the 
 | [[episodes/2026-07-11|2026-07-11]] | 01:45:30 | Mecha Chameleon Gaming Block: Gaming correspondent Brandon (CryptoZeu$) hosts a multiplayer session of Mecha Chameleon, interrupted repeatedly by his mother yelling through his bedroom door. The team rotates between 'cream boys' servers and 'morse code' suicide squads, painting themselves into environment textures while managing ammunition limits. |
 | [[episodes/2026-06-29|2026-06-29]] | 02:09:18 | Tamagotchi PS1 Disaster & Hog Flood: Gaming correspondent Brandon (CryptoZeu$) attempts to play a Japanese PS1 Tamagotchi-style game but cannot find the file or BIOS files, gets harangued by his mother about hair cutting, Gooters platinum membership, party subs, and a toilet/house flooding disaster. After downloading DuckStation and a virus-laden BIOS pack, he finally launches the bike-riding flower-tomadachi game. The stream ends mid-gameplay with Brandon rescuing an animal while the house floods with dead hogs and Pepsi-pressurized hoses. |
 | [[episodes/2026-06-27|2026-06-27]] | 01:22:57 | Elder Scrolls Arena Installation Nightmare: Brandon attempts to play The Elder Scrolls: Arena. Fails to log into GOG, gives up on passwords, and is confused by the checkout process for a free game. The mother disrupts constantly about her air fryer, her 'Pastor Joe eating her out of a Jello pool', and demands a pool. Brandon names his character 'Carl Guter' and dies repeatedly to goblins, culminating in the mother declaring she will 'shit all weekend' and Brandon preparing to emancipate himself. |
+| [[episodes/2026-06-22|2026-06-22]] | 01:47:52 | Operation Epic Furious Straight Gaming Dispatch: Brandon (CryptoZeu$) takes over for a gaming segment playing Operation Epic Furious Straight, a browser-based game featuring Trump, Iran, and various political figures. Features heavy mother interruptions, Gooters chicken sponsorship, and absurd gameplay involving Truth Social posts and drone strikes. |
 
 See also: [[../characters/cryptozeus|Brandon (CryptoZeu$)]], [[../characters/brandons-mother|Brandon's Mother]], [[index|Broadcast Segments]].

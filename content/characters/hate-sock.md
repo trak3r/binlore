@@ -49,10 +49,12 @@ Due to his hostile reception and instant notoriety among viewers, Case and produ
 ## Appearances
 
 
+
 | Episode | Role | Notes |
 |---------|------|-------|
 | [[../episodes/2026-07-20|2026-07-20]] | Town Hall Guest | Debuts behind the podium at `[01:12:14]`. Shuts down questions on public skate parks, Gooters drive-throughs, and his missing sibling with his signature two-phrase retorts. |
 | [[episodes/2026-07-17|2026-07-17]] | Discussed as a potential merch item ('cheaply made hate sock puppet') requiring only googly eyes and a sock. |
+| [[episodes/2026-06-22|2026-06-22]] | Mentioned in reference to 'Hate Sock for mayor' and merch potential. |
 
 ## Notable Quotes
 
