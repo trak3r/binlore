@@ -29,16 +29,34 @@ pip install -e .
 ```
 *(Running `pip install -e .` automatically installs both `faster-whisper` and `yt-dlp` into `.venv`.)*
 
-### OpenRouter API Key (for Lore Extraction)
+### Environment configuration (`tools/.env`)
+
+Copy the sample environment file:
+```bash
+cp .env.example .env
+```
+
+#### OpenRouter API Key (Required for Lore Extraction)
 
 To use `binlore extract` with OpenRouter (including free models):
 
 1. Get a free API key at [https://openrouter.ai/keys](https://openrouter.ai/keys).
-2. Create a `tools/.env` file (gitignored):
+2. Set it in `tools/.env`:
    ```bash
    OPENROUTER_API_KEY=sk-or-v1-your-key-here
    ```
    *(Or export it in your shell: `export OPENROUTER_API_KEY=sk-or-v1-...`)*
+
+#### Hugging Face Token (Optional, Recommended for Remote Servers)
+
+`faster-whisper` downloads model weights from Hugging Face Hub. Unauthenticated requests on remote server / VPS IP ranges may encounter download throttling or HTTP 429 rate-limit warnings.
+
+1. Generate a free **Read** token at [https://huggingface.co/settings/tokens](https://huggingface.co/settings/tokens).
+2. Set it in `tools/.env`:
+   ```bash
+   HF_TOKEN=hf_your_token_here
+   ```
+This provides higher download speeds, avoids rate limits, and silences the unauthenticated HF Hub warning.
 
 ## Commands
 

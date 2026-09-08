@@ -85,16 +85,40 @@ source .venv/bin/activate
 pip install -e .
 ```
 
-### 4. OpenRouter API Key (for LLM Lore Extraction)
+### 4. Environment Configuration (`tools/.env`)
+
+Copy the template configuration file:
+
+```bash
+cp tools/.env.example tools/.env
+```
+
+#### OpenRouter API Key (Required for LLM Lore Extraction)
 
 To extract segments, characters, and lore using OpenRouter (free models available):
 
 1. Get a free API key at [https://openrouter.ai/keys](https://openrouter.ai/keys).
-2. Create a `tools/.env` file (gitignored):
+2. Add your key to `tools/.env`:
    ```bash
    OPENROUTER_API_KEY="sk-or-v1-your-key-here"
    ```
-   _(Or export it in your shell: `export OPENROUTER_API_KEY="sk-or-v1-..."`)_
+
+#### Hugging Face Token (Optional, Recommended for Cloud Servers)
+
+When `faster-whisper` downloads speech-to-text models (such as `small` or `medium`), it downloads weights from Hugging Face Hub. On remote servers (AWS, Hetzner, DigitalOcean), unauthenticated requests can be aggressively rate-limited or throttled by Hugging Face (triggering `Warning: You are sending unauthenticated requests to the HF Hub`).
+
+Setting a token provides:
+- **Faster, prioritized downloads** with higher bandwidth.
+- **Higher rate limits**, preventing HTTP `429 Too Many Requests` errors on shared datacenter IP ranges.
+- **Clean logs** by suppressing unauthenticated hub warnings.
+
+To set it up:
+1. Create a free account at [huggingface.co](https://huggingface.co) if needed.
+2. Generate a free access token with default **Read** permission at [https://huggingface.co/settings/tokens](https://huggingface.co/settings/tokens).
+3. Add it to `tools/.env`:
+   ```bash
+   HF_TOKEN="hf_your_token_here"
+   ```
 
 ---
 
