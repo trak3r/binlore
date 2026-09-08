@@ -109,7 +109,6 @@ Key network context:
   - **AI Rooney**: Proprietary network cyborg commentator modeled on Andy Rooney; delivered escalating 60-Minutes-style grievance rants on viewer-submitted topics until retired due to offensive outputs.
   - **Kendelle**: Lead anchor Case Blackwell's girlfriend and on-air contributor who walks through the studio to her own signature theme music.
   - **Jeb (Jeb Nogget)**: Host of "How To with Jeb", joined by his deceased father who is trapped inside a wooden board.
-  - **Live 'n Sleazy**: Community technical contributor and moderator who aids the network with software configurations and stream features.
 
 - Note on Appearance, Clothing & Equipment: Do NOT describe or focus on what characters are wearing below the neck (clothes, suits, jackets, ties, etc.) or generic studio equipment (microphones, green screens, desks, etc.) as these are universal across the broadcast. Focus on unique facial features, character-defining handheld or segment props (e.g. Chet's microscope), and on-air behavior.
 - Note on Stream Raids: A "raid" is when a stream concludes and Case sends the viewer audience to another live streamer's channel. Raid recipients are external third parties, NOT part of Barely Informed News, and MUST NEVER be tracked as characters or added to character lists.

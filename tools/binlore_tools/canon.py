@@ -98,25 +98,41 @@ def load_canon_entities(directory: Path, entity_type: str) -> list[CanonEntity]:
 
 def is_core_network_character(char: CanonEntity) -> bool:
     """
-    Returns True if character is a core recurring show persona rather than a public figure or one-off guest.
+    Returns True if character is a core recurring show persona rather than a public figure,
+    community contributor, or one-off/special guest.
     Prompts only include core network cast/talent to conserve prompt tokens and prevent
-    confusing LLM with external news subjects.
+    confusing LLM with external news subjects or community chat members.
     """
+    slug = (char.file_path.stem if char.file_path else "").lower()
+    if slug in ("abraham-lincoln", "live-in-sleazy", "live-n-sleazy"):
+        return False
+
     status_lower = (char.status or "").lower()
     # Omit satirized public and historical figures
     if any(k in status_lower for k in ("public figure", "historical figure", "satirized")):
         return False
 
-    # Omit guests and call-ins
-    if any(k in status_lower for k in ("guest", "call-in")):
+    # Omit guests, call-ins, and community contributors/moderators
+    if any(k in status_lower for k in ("guest", "call-in", "community")):
         return False
 
     # Check tags
     tags_lower = [t.lower() for t in char.tags]
-    if any(t in ("parody", "politics", "celebrity", "biohacking", "historical", "guest", "call-in") for t in tags_lower):
-        # Lincoln is an exception: an in-universe costumed desk persona / referee
-        if "abraham" not in char.name.lower():
-            return False
+    if any(
+        t in (
+            "parody",
+            "politics",
+            "celebrity",
+            "biohacking",
+            "historical",
+            "guest",
+            "call-in",
+            "community",
+            "technical",
+        )
+        for t in tags_lower
+    ):
+        return False
 
     return True
 
