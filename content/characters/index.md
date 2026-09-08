@@ -46,22 +46,11 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/kendelle|Kendelle]] | In-Studio Presence | Case Blackwell's real-life and in-show girlfriend who appears walking through the streaming studio to her own signature theme music |
 | [[characters/danny-phantasmic|Danny Phantasmic]] | Cultural Guest Correspondent | Tiny British folk-horror analyst with oversized hands and a tongue that cannot be concealed |
 | [[characters/ai-rooney|AI Rooney]] | Cyborg Commentator (Retired) | Proprietary computational news cyborg modeled on Andy Rooney; delivered escalating 60-Minutes-style rants on audience-submitted topics until forced into retirement |
-| [[characters/pete-hegseth|Pete Hegseth]] | Public Figure (Satirized) | Department of War figurehead satirized for military culture war initiatives and testosterone screening programs |
-| [[characters/eric-trump|Eric Trump]] | Public Figure (Satirized) | Business figurehead and political surrogate satirized as strategic advisor for Foundation Robotics kinetic androids |
-| [[characters/jd-vance|JD Vance]] | Public Figure (Satirized) | US Vice President who shares an uncanny resemblance to Case Blackwell (except eye color); relentlessly teased by chat and drops in for unannounced defenses |
 | [[characters/baseball-man|Baseball Man]] | Studio Guest | Bewildered guest booked instead of Pablo Sanchez who communicates exclusively in "the language of baseball" |
-| [[characters/lindsey-graham|Lindsey Graham]] | Public Figure (Satirized) | Senior US Senator frequently spoofed by Hype Train and subject of premature political obituaries |
-| [[characters/sam-neill|Sam Neill]] | Celebrity (Satirized) | Jurassic Park star honored on air as Hollywood's ultimate silver fox in an affectionate comedic tribute |
-| [[characters/mitch-mcconnell|Mitch McConnell]] | Public Figure (Satirized) | Senate leader satirized for proof-of-life press photos and purportedly endorsing Case's haircut |
-| [[characters/donald-trump|Donald Trump]] | Public Figure (Satirized) | 45th and 47th President; frequent subject of Munch & Crum debate clashes and "Mom Donny" policy satire |
 | [[characters/live-in-sleazy|Live 'n Sleazy]] | Technical Contributor / Master Mod | Long-time master moderator and technical contributor assisting with stream features and segment clip curation |
 | [[characters/brandons-mother|Brandon's Mother]] | Unseen Family Voice | Brandon's loud-mouthed mother who screams through his bedroom door during gaming broadcasts |
-| [[characters/brian-johnson|Bryan Johnson]] | Public Figure (Satirized) | Longevity biohacker and "Don't Die" founder satirized for autoimmune diagnoses despite extreme age-reversal protocols |
 | [[characters/trip-bradstein|Trip Bradstein]] | Field Correspondent | Park-dwelling field correspondent broadcasting from the bushes and interviewing park visitors for their audience-submitted opinions |
-| [[characters/nixon|Richard Nixon]] | Historical Figure (Satirized) | 37th US President cited as the gold standard of "competent corruption" in executive power comparisons |
 | [[characters/dr-chath|Dr. Chath]] | Minor-Character Therapist / Consultant | Eccentric counseling consultant presiding over the [[../segments/therapy\|Therapy]] desk, fielding viewer prompts and offering confusing wrestling and dance-based guidance |
 | [[characters/grand-man|Grand Man]] | recurring | Guest host for Amongst the Web |
-| [[characters/card-king|Card King]] | recurring | Guest, discusses 'Head of the Family' film |
-| [[characters/head-of-the-family-actor|Head of the Family Actor]] | recurring | Guest, discusses 'Head of the Family' film |
 
 See also: [[../storylines/crum-dick-punch|Crum Dick Punch]], [[../segments/munch-and-crum|Munch & Crum]].

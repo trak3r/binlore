@@ -114,8 +114,8 @@ def _format_character_link(name: str) -> str:
     if target.exists():
         return f"[[characters/{slug}|{name}]]"
     # Check common aliases
-    if slug in ("crumb", "crum"):
-        return "[[characters/crum|Crum]]"
+    if "crum" in slug or "crumb" in slug:
+        return f"[[characters/crum|{name}]]"
     if "munch" in slug or "munchcut" in slug or "ralph" in slug:
         return "[[characters/munch|Munch (Ralph Munchcut)]]"
     if "blackwell" in slug or slug == "case":
@@ -172,8 +172,9 @@ def _format_segment_link(name: str) -> str:
         return f"[[segments/chet-guy-the-science-eyes|{name}]]"
     if "amongst" in slug or "web" in slug:
         return f"[[segments/amongst-the-web|{name}]]"
-    if "trip" in slug or "street" in slug:
-        return f"[[segments/trip-on-the-street|{name}]]"
+    if any(k in slug for k in ("trip", "street", "bradstein", "field-reporting", "man-on-the-street")):
+        display_name = "Trip on the Street" if slug in ("field-reporting", "field") else name
+        return f"[[segments/trip-on-the-street|{display_name}]]"
     if "rooney" in slug:
         return f"[[segments/ai-rooney|{name}]]"
     return name
@@ -186,8 +187,6 @@ def _format_storyline_link(name: str) -> str:
         return f"[[storylines/{slug}|{name}]]"
     if any(k in slug for k in ("gorilla", "groin", "punch", "dick")):
         return "[[storylines/crum-dick-punch|Crum Dick Punch]]"
-    if "scrotum" in slug or "merger" in slug:
-        return "[[storylines/the-scrotum-merger|The Scrotum Merger]]"
     return name
 
 

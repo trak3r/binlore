@@ -70,7 +70,7 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      // Plugin.Latex({ renderEngine: "katex" }), // Disabled: BIN Lore is an entertainment wiki; LaTeX remark-math breaks dollar signs in CryptoZeu$, prices, etc.
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

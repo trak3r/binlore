@@ -132,6 +132,8 @@ def _match_character_file(name: str, canon: dict[str, list[CanonEntity]]) -> tup
                 return char.file_path, (char.file_path.stem if char.file_path else slug)
 
     # Heuristic shortcuts for canonical aliases
+    if "crum" in slug or "crumb" in slug:
+        return CONTENT_CHARACTERS / "crum.md", "crum"
     if "munch" in slug or "munchcut" in slug or "ralph" in slug:
         return CONTENT_CHARACTERS / "munch.md", "munch"
     if "chet-ai" in slug or "chetai" in slug or "chetah" in slug:
@@ -186,7 +188,7 @@ def _match_segment_file(title: str, canon: dict[str, list[CanonEntity]], canonic
             return seg.file_path
         if any(k in title_lower for k in ("amongst", "memes", "web")) and "amongst" in seg_lower:
             return seg.file_path
-        if any(k in title_lower for k in ("trip on the street", "trip on the streets", "on the street", "bradstein")) and "trip" in seg_lower:
+        if any(k in title_lower for k in ("trip on the street", "trip on the streets", "on the street", "on-street", "bradstein", "field reporting", "man on the street")) and "trip" in seg_lower:
             return seg.file_path
         if any(k in title_lower for k in ("ai rooney", "rooney", "andy rooney")) and "rooney" in seg_lower:
             return seg.file_path
@@ -298,6 +300,16 @@ def create_character_page(
     if "hooper" in lower_name or slug in ("ben-hooper", "hooper", "jeff-hooper"):
         return None
 
+    # Exclude chatters / Twitch viewers / Discord members
+    if any(k in lower_notes for k in ("chatter", "chat user", "viewer", "twitch chat", "in chat", "chat member")) or any(
+        k in lower_name for k in ("card king", "card-king", "chatter")
+    ):
+        return None
+
+    # Exclude video clip / movie clip / news clip subjects
+    if any(k in lower_notes for k in ("actor in", "movie clip", "video clip", "news clip", "clip subject", "viral video", "being watched")):
+        return None
+
     target_path = CONTENT_CHARACTERS / f"{slug}.md"
 
     appearances_row = f"| [[episodes/{ep_slug}|{ep_slug}]] | {char_notes.replace('|', '/').strip()} |"
@@ -317,13 +329,13 @@ def create_character_page(
         for k in (
             "senator", "president", "politician", "public figure", "secretary of",
             "vice president", "biohacker", "prime minister", "minister", "governor",
-            "congressman", "representative"
+            "congressman", "representative", "celebrity", "actor"
         )
     ) or any(
         k in lower_name
         for k in (
             "trump", "vance", "mcconnell", "graham", "hegseth", "biden", "nixon",
-            "johnson", "neill", "starmer"
+            "johnson", "neill", "starmer", "bevin", "altman"
         )
     )
 

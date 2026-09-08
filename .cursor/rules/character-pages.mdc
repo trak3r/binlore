@@ -37,15 +37,16 @@ Every character page MUST include an authentic screencap picture directly beneat
 - `See also:` linking to relevant segments, storylines, or index.
 - Always add/update the character's row in `content/characters/index.md`.
 
-## 3. Real-Life Politicians & Public Figures (CYA Verbiage)
-When documenting real-world politicians, celebrities, or public figures who are covered, satirized, or parodied on the broadcast (e.g. Mitch McConnell, Donald Trump, JD Vance, Lindsey Graham):
-- **NEVER** describe them as "an on-air personality and contributor on Barely Informed News".
-- Accurately describe them as real-world public figures covered, satirized, debated, or parodied on the show.
-- Add the standard CYA satirical disclaimer callout directly beneath the primary heading:
-  ```markdown
-  > [!warning] Satirical Disclaimer & Public Figure Notice
-  > This page documents satirical news commentary, comedic impersonations, or running broadcast parodies featured on *Barely Informed News*. The real-life individual is a public figure and is neither an employee, contributor, nor affiliate of *Barely Informed News*. All depictions, quotes, and comedic storylines are works of parody and political satire. See also the [[../disclaimer|Legal & Fan Disclaimer]].
-  ```
+## 3. Exclusion of Mentioned Public Figures & Video Clip Subjects
+- **Bio pages are strictly reserved for actual on-air characters or in-studio contributors who speak lines in scenes.**
+- Public figures, politicians, or celebrities who are merely mentioned, debated, or satirized in news coverage (e.g. Mitch McConnell, Donald Trump, JD Vance, Lindsey Graham, Pete Hegseth) do **NOT** get bio pages.
+- People speaking in news video clips, viral videos, or movie clips being watched on the broadcast are external subjects, **NOT** characters, and must **NEVER** be given bio pages or listed as characters.
 
 ## 4. Exclusion of Stream Raid Recipients
 A "raid" is when a stream concludes and Case sends the viewer audience to another live streamer's channel. These raid recipients are external third parties, NOT part of *Barely Informed News*, and MUST NEVER be tracked as characters or given character pages on the wiki.
+
+## 5. Exclusion of Twitch Chatters & Viewers
+Twitch chatters, Discord members, and audience members interacting via text chat (e.g. Card King) are viewers, NOT characters, and must NEVER be given character pages.
+
+## 6. Multi-Episode Storyline Constraint
+An event, bit, or incident that only occurred in a single episode is **NOT** a storyline. Storylines must be multi-episode ongoing narrative arcs (e.g. [[../storylines/crum-dick-punch|Crum Dick Punch]], [[../storylines/beyblade-tournament|Beyblade Tournament]]). Single-episode events must never be given pages in `content/storylines/`.
