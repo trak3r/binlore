@@ -40,9 +40,11 @@ Unlike conventional broadcast audio engineers, DJ C4 constructs songs collaborat
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-07-17|2026-07-17]] | Broadcast debut. Commanded the DJC4 studios session, assembled the "Free Stephanie" merch-drop anthem using AI assistance and viewer `!L` lyrics, and recorded Crum's rap verse. |
+| [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of raid, not actively speaking. |
 
 ## Notable Quotes
 

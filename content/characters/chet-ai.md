@@ -44,6 +44,7 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Activated during the Brazilian plastic surgery ratio review; discloses its anatomical training data, attempts rogue generative modeling, and translates foreign medical literature for Chet. |
@@ -51,6 +52,7 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 | [[episodes/2026-07-23|2026-07-23]] | Referenced as Chet's open tab search engine tool for finding purple hurt foot remedies. |
 | [[episodes/2026-07-17|2026-07-17]] | Synthetic neural co-host referenced but not actively speaking on this broadcast. |
 | [[episodes/2026-07-11|2026-07-11]] | Synthetic neural co-host; referenced indirectly as the lab technician providing Chet with 'healing affirmations'. |
+| [[episodes/2026-06-15|2026-06-15]] | Synthetic AI co-host, assists in science investigation. |
 
 ## Notable moments
 

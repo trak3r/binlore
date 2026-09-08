@@ -1,0 +1,19 @@
+{
+  "vod_id": "IZWYSBoOxPA",
+  "title": "40 Years of Mondays",
+  "url": "https://www.youtube.com/watch?v=IZWYSBoOxPA",
+  "duration_seconds": 8104,
+  "duration": "2:15:04",
+  "timestamp": 1781481600,
+  "aired_at": "2026-06-15T00:00:00+00:00",
+  "date": "2026-06-15",
+  "ingested_at": "2026-09-08T21:10:00.129134+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "IZWYSBoOxPA",
+  "yt_url": "https://www.youtube.com/watch?v=IZWYSBoOxPA",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-06-15"
+}

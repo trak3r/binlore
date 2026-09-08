@@ -48,12 +48,14 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 
 
 
+
 | Episode | Role | Notes |
 |---------|------|-------|
 | [[../episodes/2026-08-14|2026-08-14]] | Segment Host | Debuts [[../segments/how-to-with-jeb|How To with Jeb]] at `[01:22:57]`. Debates his wooden board father about family wealth and brother Jet's app fortune, then covers wood splitting, college self-defense escapes, and dirty dancing. |
 | [[episodes/2026-07-17|2026-07-17]] | How-To host. Co-hosted instructional triple-feature on vocal aerobics, advanced finger snapping, and self-massage. |
 | [[episodes/2026-07-16|2026-07-16]] | Chat references Jeb's expertise in 'getting rid of unwanted' things when discussing Puffy Bear. |
 | [[episodes/2026-06-22|2026-06-22]] | Mentioned in reference to 'the two Jebs' during merch brainstorming. |
+| [[episodes/2026-06-15|2026-06-15]] | Host of 'How To with Jeb', demonstrates Kool-Aid recipe. |
 
 ## Notable Quotes
 
@@ -73,5 +75,7 @@ See also: [[../segments/how-to-with-jeb|How To with Jeb]], [[../characters/index
 ## Notable moments
 
 
+
 - **[01:25:37]** ([[episodes/2026-07-17|2026-07-17]]): Jeb's Dad reveals he is actively trying to escape his timber prison by willing his hands into a file to sand down 'the spiritual bars that must be holding me in here' one second at a time.
 - **[54:37]** ([[episodes/2026-06-22|2026-06-22]]): Jeb Nogget is the host of 'How To with Jeb' who is joined by his deceased father trapped inside a wooden board. He is referenced in merch brainstorming as 'the two Jebs' inside all of us.
+- **[01:36:43]** ([[episodes/2026-06-15|2026-06-15]]): Jeb Nogget's 'How To with Jeb' segment features a Kool-Aid pineapple recipe and oral aerobics.

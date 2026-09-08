@@ -38,6 +38,7 @@ Chet conducts deep-dive inquiries into peer-reviewed medical publications, anato
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 1:03:22 | Desk slips and says "scientists." Chet and [[../characters/chet-ai|ChetAI]] investigate a Brazilian Journal of Plastic Surgery proportion study, delivering the academic consensus that "all boobs is good." |
@@ -45,3 +46,4 @@ Chet conducts deep-dive inquiries into peer-reviewed medical publications, anato
 | [[episodes/2026-08-19|2026-08-19]] | 01:40:04 | Smart Underwear & Fart Research: Chet and ChetAI deploy to the desk to investigate a University of Maryland smart underwear study measuring human flatulence. They discuss gut microbes, hydrogen monitoring, and clinical implications. |
 | [[episodes/2026-07-23|2026-07-23]] | 19:37 | Chet Activates on Injury Assessment: Chief Science Correspondent Chet spontaneously activates upon Case mentioning 'skiantist' to provide medical commentary on the swollen ankle, advising mega man leg feet and thick chains. Chet reveals he has not yet set up his Medicare direct deposit despite two years of broadcasting. |
 | [[episodes/2026-06-19|2026-06-19]] | 18:00 | Investigative Science Desk: Chief Science Correspondent Chet Manscape leads a specialized segment investigating scientific claims and medical research. The segment features Chet deploying a high-powered microscope and consulting synthetic AI co-host ChetAI for analysis. |
+| [[episodes/2026-06-15|2026-06-15]] | 34:58 | Triple-Penis Donor Investigation: Chet and ChetAI investigate a man who donated his body to science with three penises, triggering the Science Eyes segment. |

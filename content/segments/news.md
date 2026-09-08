@@ -43,6 +43,7 @@ Lead anchor [[../characters/case-blackwell|Case Blackwell]] presides over the an
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | 12:21 | Season 3 Finale News Block: Coverage of the White House Lanterns trailer, Confederate memorial policies, Trump's defense of AI data centers ('have fun being poor'), GPT-6 Astro beating Portal, Ben Hooper UPI dispatches, and an orangutan vs sumo wrestler archive clip. |
@@ -68,3 +69,4 @@ Lead anchor [[../characters/case-blackwell|Case Blackwell]] presides over the an
 | [[episodes/2026-06-22|2026-06-22]] | 24:20 | Starmer Resigns, Iran Ceasefire Chaos & Beaver Flood Heroes: Case covers Keir Starmer's resignation as Labour leader, ongoing Iran-Israel ceasefire negotiations with JD Vance involved, Trump's reflecting pool Truth Social posts, and a heartwarming story about beavers controlling urban flooding in London. Also touches on Steam Deck pricing and vaccine coverage. |
 | [[episodes/2026-06-19|2026-06-19]] | 01:00 | Breaking Middle East & Domestic News: Live news coverage focuses on the Israel-Hezbollah ceasefire in Lebanon, Israeli military actions, and broader regional tensions. The segment includes discussions about Juneteenth coverage and the impact of geopolitical conflicts on daily life. |
 | [[episodes/2026-06-18|2026-06-18]] | 16:43 | Trump-JD Vance Israel Deal, Carlos Mencia Tax Charges, Cream Cartel, Royal Ascot Hats, AI Music Lawsuits, Yum Brands Coffin Merger: Extended news desk covering: Trump signing memorandum with French President; JD Vance warning Israeli cabinet against attacking Trump; Carlos Mencia charged with six years unpaid property taxes; Japanese cream cartel investigated; Royal Ascot hat fashion; Cranky Anchors 2020 revival discovered; Vice study on dark humor intelligence; Iranian singer sentenced to 74 lashes; ground beef exceeding federal minimum wage; 21M copyrighted songs trained on AI generators (Suno/Udio) with $3.15T potential damages; Yum Brands sells Pizza Hut US to Long Range Capital (owner of 24 Hour Fitness and Batesville caskets). |
+| [[episodes/2026-06-15|2026-06-15]] | 18:03 | Case's Birthday News Desk & Chat News: Case delivers birthday-themed news, including SpaceX IPO, Trump UFC event, and chat-submitted stories like the beaver scavenger hunt and triple-penis donor. |

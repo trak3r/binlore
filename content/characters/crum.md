@@ -47,6 +47,7 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | Steps up to face the long-delayed Rock-afire Gorilla execution during the Season 3 finale. Reveals his physical conditioning included swinging 45-pound logs into his groin. Survives a catastrophic mechanical explosion that destroys the gorilla and burns Munch into a talking skeleton, claiming ultimate victory. |
@@ -67,8 +68,10 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 | [[episodes/2026-06-27|2026-06-27]] | Senior debate analyst. Interjects from the satellite room to rap with the Hype Train and debate Reggae vs Emo. |
 | [[episodes/2026-06-19|2026-06-19]] |  |
 | [[episodes/2026-06-18|2026-06-18]] | Senior debate analyst. Hollow-eyed, bald. Demands total abolition of improvisation. Suffers 36-year UTI causing acidic urine. Openly hates Irish people. Wife seeing therapist (referenced). Gambling debts canonical but not mentioned this episode. |
+| [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity and Dick Punch wager. |
 
 ## Notable moments
+
 
 
 
@@ -113,3 +116,4 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 - **[09:08]** ([[episodes/2026-06-19|2026-06-19]]): Crum's D*ck Punch wager against Munch was the defining political storyline of the recent period, reaching its explosive conclusion on September 7, 2026.
 - **[06:00]** ([[episodes/2026-06-19|2026-06-19]]): Crum is a political counterweight to Munch, distinguished by his hollow-eyed demeanor and tendency toward gambling-related controversies.
 - **[01:18:34]** ([[episodes/2026-06-18|2026-06-18]]): Suffers 36-year urinary tract infection causing highly acidic urine; openly states hatred of Irish people as 'legal' and 'allowed' character trait; wife currently seeing therapist.
+- **[01:18:36]** ([[episodes/2026-06-15|2026-06-15]]): Crum is referenced in the context of the unresolved Dick Punch wager and body positivity debate.

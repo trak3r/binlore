@@ -36,10 +36,12 @@ Liliana was absent from *Barely Informed News* for approximately a full year bef
 ## Appearances
 
 
+
 | Episode | Role | Notes |
 |---------|------|-------|
 | [[../episodes/2026-08-14|2026-08-14]] | Co-Anchor / Desk Contributor | Makes her triumphant return after a year away (`[09:55]`). Shares vacation photos, demands year-long PTO from Case, and co-anchors the News desk covering Luigi Mangione, CIA Galapagos strikes, and Mike Lindell's gubernatorial campaign. |
 | [[episodes/2026-07-16|2026-07-16]] | Mentioned by chat as knowing where Stephanie is, with Case confirming she is a 'big time international power broker' currently busy. |
+| [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
 
 ## Notable Quotes
 

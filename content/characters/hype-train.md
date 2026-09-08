@@ -47,6 +47,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | Intercepts the desk on a futuristic synthwave beat, delivering an impassioned freestyle about wearing denim jeans with his girls, Roman urine laundering, and proposed tombstone epitaphs. |
@@ -70,8 +71,10 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-06-27|2026-06-27]] | High-velocity musical and cultural correspondent. |
 | [[episodes/2026-06-22|2026-06-22]] | High-velocity musical correspondent who confesses to cheating on his Panther girlfriend, discusses beats, and provides cultural commentary throughout the pre-show. |
 | [[episodes/2026-06-18|2026-06-18]] | Sentient locomotive correspondent. Advocates lawn oiling/urination/copulation regimen. Departs after two subs. Travels with panther companion. |
+| [[episodes/2026-06-15|2026-06-15]] | High-velocity musical correspondent, discusses aging and dinosaurs. |
 
 ## Notable moments
+
 
 
 
@@ -116,3 +119,4 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[25:02]** ([[episodes/2026-06-27|2026-06-27]]): Hype Train claims to have been banned from 'saying piss' by his parents, resulting in a rebellious emo-rap phase about eggs in toilets.
 - **[17:42]** ([[episodes/2026-06-22|2026-06-22]]): Hype Train is a high-velocity musical correspondent who travels with his Panther companion. During this broadcast, he confesses to cheating on his Panther girlfriend for seven years and discusses his emotional state regarding the relationship.
 - **[13:10]** ([[episodes/2026-06-18|2026-06-18]]): Attempts to start every stream; travels with panther companion; advocates lawn care regimen of oiling, urinating, and copulating.
+- **[08:38]** ([[episodes/2026-06-15|2026-06-15]]): Hype Train is 40 years old and discusses aging, referencing Captain Crunch and dinosaurs.

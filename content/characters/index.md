@@ -61,5 +61,7 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/nixon|Richard Nixon]] | Historical Figure (Satirized) | 37th US President cited as the gold standard of "competent corruption" in executive power comparisons |
 | [[characters/dr-chath|Dr. Chath]] | Minor-Character Therapist / Consultant | Eccentric counseling consultant presiding over the [[../segments/therapy\|Therapy]] desk, fielding viewer prompts and offering confusing wrestling and dance-based guidance |
 | [[characters/grand-man|Grand Man]] | recurring | Guest host for Amongst the Web |
+| [[characters/card-king|Card King]] | recurring | Guest, discusses 'Head of the Family' film |
+| [[characters/head-of-the-family-actor|Head of the Family Actor]] | recurring | Guest, discusses 'Head of the Family' film |
 
 See also: [[../storylines/crum-dick-punch|Crum Dick Punch]], [[../segments/munch-and-crum|Munch & Crum]].

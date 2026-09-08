@@ -20,9 +20,11 @@ Guest host for Amongst the Web. Claims asexual reproduction via laying eggs in m
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-06-18|2026-06-18]] | Guest host for Amongst the Web. Claims asexual reproduction via laying eggs in mouth. Chat speculates he is Crum's wife's sex therapist. Departs after failed high-five with Case. |
+| [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
 
 ## Notable moments
 

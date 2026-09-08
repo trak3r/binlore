@@ -35,6 +35,7 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | Oversees the long-delayed Rock-afire Gorilla execution against Crum. Caught in the catastrophic backblast when the machine explodes, incinerating him into a living, talking skeleton. Insists his skeletal form highlights superior bone structure, debates Crum on Crayola vs. RoseArt, and promises to haunt the desk indefinitely. |
@@ -50,6 +51,7 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 | [[episodes/2026-06-29|2026-06-29]] | Mentioned as a possible matching shirt for the upcoming BIN merch drop ('a Munch shirt and a Crum shirt'). |
 | [[episodes/2026-06-19|2026-06-19]] |  |
 | [[episodes/2026-06-18|2026-06-18]] | Senior debate analyst. Disheveled silver hair. Defends improv as valid art form. Reveals eight years improv training (1991-1998) including class with Anchorman extra. Proud Democrat. |
+| [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity. |
 
 ## Notable moments
 

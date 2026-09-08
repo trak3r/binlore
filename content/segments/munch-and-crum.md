@@ -37,6 +37,7 @@ Broadcast under the title **Munch & Crum**, the segment features rotating 3D net
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | 01:36:23 | The Climax: Any Last Words? & The Gorilla Punch Execution: Munch and Crum face off over 'Any Last Words?' ahead of the long-awaited gambling forfeit. Crum boasts of conditioning his groin with 45-pound logs. When the Rock-afire mechanical gorilla fires the punch, a catastrophic explosion vaporizes the gorilla and burns Munch into a talking skeleton, leaving Crum unharmed. |
@@ -55,6 +56,7 @@ Broadcast under the title **Munch & Crum**, the segment features rotating 3D net
 | [[episodes/2026-06-27|2026-06-27]] | 01:09:14 | Reggae vs Emo Debate: Triggered by a stream deck accident that loops the intro. Crum and Blackwell debate whether Reggae or Emo is the superior musical genre. Crum argues Reggae is versatile and deeply rooted in Rastafarian culture. Blackwell plays devil's advocate for Emo, citing its resonance with the American teenage condition. The segment ends in chaos as Blackwell struggles to press his victory button, killing the chat overlay. |
 | [[episodes/2026-06-19|2026-06-19]] | 06:00 | Political Debate: Munch vs. Crum: Extended debate between senior analysts Ralph Munchcut and Leonard Crum intensifies, covering political strategies, economic concerns, and personal rivalries. The segment features heated exchanges about policy positions and individual reputations. |
 | [[episodes/2026-06-18|2026-06-18]] | 01:11:21 | Debate: Is Solo Improv Acceptable?: Munch argues improv is a valid transient art form; Crum demands total abolition of improvisation, revealing eight years of personal improv training (1991-1998) including class with Anchorman extra. Crum discloses 36-year UTI causing acidic urine, admits hatred of Irish people, references wife's therapist. Chat votes via poll; segment ends with Crum demanding own legislative ban. |
+| [[episodes/2026-06-15|2026-06-15]] | 01:09:19 | Body Positivity Debate & Dick Punch Wager: Munch and Crum debate body positivity and penises, with Case intervening to fix Crum's casual attire and reference the unresolved Dick Punch wager. |
 
 ## Related Coverage
 

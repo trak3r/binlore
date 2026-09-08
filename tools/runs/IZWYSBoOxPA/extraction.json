@@ -1,0 +1,506 @@
+{
+  "episode_summary": "Barely Informed News celebrated lead anchor Case Blackwell's 40th birthday with a chaotic broadcast featuring a Hype Train segment, a Munch & Crum debate on body positivity, a Chet Guy the Science Eyes investigation into a triple-penis donor, and a CryptoZeu$ gaming dispatch. The show concluded with a conspiracy theory about Tupac's afterlife and a raid to Avaly, capping off a stream filled with birthday banter, financial commentary, and recurring network lore.",
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "08:38",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Pepito's Birthday Intro & Card King Banter",
+      "notes": "Executive Producer Pepito opens the show with birthday greetings and banter with Card King about the film 'Head of the Family'.",
+      "characters": [
+        "Pepito",
+        "Card King"
+      ]
+    },
+    {
+      "start": "08:38",
+      "end": "18:03",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train's 40th Birthday Freestyle",
+      "notes": "Hype Train and Panther engage in a freestyle rap battle with Case, discussing aging, Captain Crunch, and dinosaurs.",
+      "characters": [
+        "Hype Train",
+        "Panther",
+        "Case Blackwell"
+      ]
+    },
+    {
+      "start": "18:03",
+      "end": "34:58",
+      "canonical_segment": "News",
+      "title": "Case's Birthday News Desk & Chat News",
+      "notes": "Case delivers birthday-themed news, including SpaceX IPO, Trump UFC event, and chat-submitted stories like the beaver scavenger hunt and triple-penis donor.",
+      "characters": [
+        "Case Blackwell",
+        "Jeff Ripple",
+        "Chet"
+      ]
+    },
+    {
+      "start": "34:58",
+      "end": "01:09:19",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Triple-Penis Donor Investigation",
+      "notes": "Chet and ChetAI investigate a man who donated his body to science with three penises, triggering the Science Eyes segment.",
+      "characters": [
+        "Chet",
+        "ChetAI"
+      ]
+    },
+    {
+      "start": "01:09:19",
+      "end": "01:35:29",
+      "canonical_segment": "Munch & Crum",
+      "title": "Body Positivity Debate & Dick Punch Wager",
+      "notes": "Munch and Crum debate body positivity and penises, with Case intervening to fix Crum's casual attire and reference the unresolved Dick Punch wager.",
+      "characters": [
+        "Munch",
+        "Crum",
+        "Case Blackwell",
+        "Tommy Biglaw"
+      ]
+    },
+    {
+      "start": "01:35:29",
+      "end": "01:44:27",
+      "canonical_segment": "How To with Jeb",
+      "title": "Jeb's Kool-Aid Pineapple Tutorial",
+      "notes": "Jeb Nogget and his deceased father demonstrate a Kool-Aid pineapple recipe and oral aerobics.",
+      "characters": [
+        "Jeb Nogget",
+        "Jeb's Dad"
+      ]
+    },
+    {
+      "start": "01:44:27",
+      "end": "02:07:18",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Brandon's Random Number Game",
+      "notes": "Brandon plays a random number game while his mother yells through the wall, referencing the 'Head of the Family' actor.",
+      "characters": [
+        "Brandon",
+        "Brandon's Mother"
+      ]
+    },
+    {
+      "start": "02:07:18",
+      "end": "02:14:49",
+      "canonical_segment": "News",
+      "title": "Head of the Family Actor Interview & Tupac Conspiracy",
+      "notes": "Case interviews the 'Head of the Family' actor, then transitions to a Tupac conspiracy theory segment.",
+      "characters": [
+        "Case Blackwell",
+        "Head of the Family Actor"
+      ]
+    },
+    {
+      "start": "02:14:49",
+      "end": "02:15:04",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Raid to Avaly",
+      "notes": "Case concludes the stream with a raid to Avaly, mentioning Miss May and Wednesday's next stream.",
+      "characters": [
+        "Case Blackwell"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [
+        "00:06",
+        "08:38",
+        "18:03",
+        "01:09:19",
+        "02:07:18",
+        "02:14:49"
+      ],
+      "confidence": 0.99,
+      "notes": "Lead anchor and managing editor, celebrating his 40th birthday."
+    },
+    {
+      "name": "Pepito",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [
+        "00:06",
+        "00:48"
+      ],
+      "confidence": 0.98,
+      "notes": "Executive producer, opens the show with birthday greetings."
+    },
+    {
+      "name": "Hype Train",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [
+        "08:38",
+        "12:25",
+        "13:08"
+      ],
+      "confidence": 0.97,
+      "notes": "High-velocity musical correspondent, discusses aging and dinosaurs."
+    },
+    {
+      "name": "Card King",
+      "canonical_name": "Card King",
+      "speaking": true,
+      "timestamps": [
+        "09:01",
+        "09:22",
+        "09:43"
+      ],
+      "confidence": 0.95,
+      "notes": "Guest, discusses 'Head of the Family' film."
+    },
+    {
+      "name": "Chet",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [
+        "01:07:34",
+        "01:08:17",
+        "01:08:37"
+      ],
+      "confidence": 0.96,
+      "notes": "Chief science correspondent, investigates triple-penis donor."
+    },
+    {
+      "name": "ChetAI",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [
+        "01:07:57"
+      ],
+      "confidence": 0.94,
+      "notes": "Synthetic AI co-host, assists in science investigation."
+    },
+    {
+      "name": "Munch",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [
+        "01:18:36",
+        "01:22:28",
+        "01:25:00"
+      ],
+      "confidence": 0.97,
+      "notes": "Senior debate analyst, debates body positivity."
+    },
+    {
+      "name": "Crum",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [
+        "01:19:14",
+        "01:20:02",
+        "01:22:50"
+      ],
+      "confidence": 0.96,
+      "notes": "Senior debate analyst, debates body positivity and Dick Punch wager."
+    },
+    {
+      "name": "Tommy Biglaw",
+      "canonical_name": "Tommy Biglaw",
+      "speaking": true,
+      "timestamps": [
+        "01:30:01"
+      ],
+      "confidence": 0.93,
+      "notes": "Legal counsel, references euthanizing Crum."
+    },
+    {
+      "name": "Jeb Nogget",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [
+        "01:36:43",
+        "01:37:10"
+      ],
+      "confidence": 0.95,
+      "notes": "Host of 'How To with Jeb', demonstrates Kool-Aid recipe."
+    },
+    {
+      "name": "Jeb's Dad",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [
+        "01:36:43",
+        "01:37:32"
+      ],
+      "confidence": 0.94,
+      "notes": "Deceased father trapped in wooden board, non-verbal."
+    },
+    {
+      "name": "Brandon",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [
+        "01:44:27",
+        "01:45:19"
+      ],
+      "confidence": 0.97,
+      "notes": "Gaming correspondent, plays random number game."
+    },
+    {
+      "name": "Brandon's Mother",
+      "canonical_name": "Brandon's Mother",
+      "speaking": true,
+      "timestamps": [
+        "01:45:19",
+        "01:46:02"
+      ],
+      "confidence": 0.92,
+      "notes": "Unseen family voice, yells through the wall."
+    },
+    {
+      "name": "Head of the Family Actor",
+      "canonical_name": "Head of the Family Actor",
+      "speaking": true,
+      "timestamps": [
+        "02:08:34",
+        "02:09:17"
+      ],
+      "confidence": 0.9,
+      "notes": "Guest, discusses 'Head of the Family' film."
+    },
+    {
+      "name": "Kendelle",
+      "canonical_name": "Kendelle",
+      "speaking": false,
+      "timestamps": [
+        "09:22"
+      ],
+      "confidence": 0.85,
+      "notes": "Mentioned in birthday context, not actively speaking."
+    },
+    {
+      "name": "Peter Gibbon",
+      "canonical_name": "Peter Gibbon",
+      "speaking": false,
+      "timestamps": [
+        "01:04:45"
+      ],
+      "confidence": 0.8,
+      "notes": "Mentioned in context of 'idiocracy' comment, not actively speaking."
+    },
+    {
+      "name": "AI Rooney",
+      "canonical_name": "AI Rooney",
+      "speaking": false,
+      "timestamps": [
+        "01:15:45"
+      ],
+      "confidence": 0.85,
+      "notes": "Mentioned in context of 'idiocracy' comment, retired segment."
+    },
+    {
+      "name": "Dr. Chath",
+      "canonical_name": "Dr. Chath",
+      "speaking": false,
+      "timestamps": [
+        "01:30:01"
+      ],
+      "confidence": 0.8,
+      "notes": "Mentioned in context of euthanizing Crum, not actively speaking."
+    },
+    {
+      "name": "DJ Newsic",
+      "canonical_name": "DJ Newsic",
+      "speaking": false,
+      "timestamps": [
+        "02:14:49"
+      ],
+      "confidence": 0.75,
+      "notes": "Mentioned in context of raid, not actively speaking."
+    },
+    {
+      "name": "DJ C4",
+      "canonical_name": "DJ C4",
+      "speaking": false,
+      "timestamps": [
+        "02:14:49"
+      ],
+      "confidence": 0.75,
+      "notes": "Mentioned in context of raid, not actively speaking."
+    },
+    {
+      "name": "Rick",
+      "canonical_name": "Rick (Host of Amongst the Web)",
+      "speaking": false,
+      "timestamps": [
+        "02:04:27"
+      ],
+      "confidence": 0.7,
+      "notes": "Mentioned in context of game, not actively speaking."
+    },
+    {
+      "name": "Grand Man",
+      "canonical_name": "Grand Man",
+      "speaking": false,
+      "timestamps": [
+        "02:05:33"
+      ],
+      "confidence": 0.7,
+      "notes": "Mentioned in context of game, not actively speaking."
+    },
+    {
+      "name": "Grandma Crumble Bottom",
+      "canonical_name": "Grandma Crumble Bottom",
+      "speaking": false,
+      "timestamps": [
+        "02:05:53"
+      ],
+      "confidence": 0.7,
+      "notes": "Mentioned in context of game, not actively speaking."
+    },
+    {
+      "name": "Hate Sock",
+      "canonical_name": "Hate Sock",
+      "speaking": false,
+      "timestamps": [
+        "02:05:53"
+      ],
+      "confidence": 0.7,
+      "notes": "Mentioned in context of game, not actively speaking."
+    },
+    {
+      "name": "Marfus Darfus",
+      "canonical_name": "Marfus Darfus",
+      "speaking": false,
+      "timestamps": [
+        "02:05:53"
+      ],
+      "confidence": 0.7,
+      "notes": "Mentioned in context of game, not actively speaking."
+    },
+    {
+      "name": "Liliana",
+      "canonical_name": "Liliana",
+      "speaking": false,
+      "timestamps": [
+        "02:05:53"
+      ],
+      "confidence": 0.7,
+      "notes": "Mentioned in context of game, not actively speaking."
+    },
+    {
+      "name": "Jeff Ripple",
+      "canonical_name": "Jeff Ripple",
+      "speaking": false,
+      "timestamps": [
+        "02:05:53"
+      ],
+      "confidence": 0.7,
+      "notes": "Mentioned in context of game, not actively speaking."
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Case references the unresolved Dick Punch wager during the Munch & Crum debate.",
+      "timestamp": "01:18:36"
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "Case mentions the Beyblade Tournament as an active storyline, referencing betting points.",
+      "timestamp": "01:32:55"
+    },
+    {
+      "storyline": "The Scrotum Merger",
+      "beat": "Case references the Scrotum Merger in the context of Munch & Crum debate disruptions.",
+      "timestamp": "01:22:28"
+    },
+    {
+      "storyline": "Tupac Conspiracy",
+      "beat": "Case explores a conspiracy theory about Tupac's afterlife and his presence in a video game.",
+      "timestamp": "01:09:19"
+    },
+    {
+      "storyline": "Case's 40th Birthday",
+      "beat": "The entire broadcast is themed around Case's 40th birthday, with birthday wishes and celebrations.",
+      "timestamp": "00:06"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell is celebrating his 40th birthday, which is the central theme of the broadcast.",
+      "timestamp": "00:06",
+      "confidence": 0.99
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Hype Train is 40 years old and discusses aging, referencing Captain Crunch and dinosaurs.",
+      "timestamp": "08:38",
+      "confidence": 0.97
+    },
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Chet's Science Eyes segment is triggered by the mention of 'sky ends' in the context of a body donation story.",
+      "timestamp": "01:07:34",
+      "confidence": 0.96
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Crum is referenced in the context of the unresolved Dick Punch wager and body positivity debate.",
+      "timestamp": "01:18:36",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Tommy Biglaw",
+      "fact": "Tommy Biglaw is mentioned in the context of euthanizing Crum, referencing Dr. Kevorkian.",
+      "timestamp": "01:30:01",
+      "confidence": 0.93
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "Jeb Nogget's 'How To with Jeb' segment features a Kool-Aid pineapple recipe and oral aerobics.",
+      "timestamp": "01:36:43",
+      "confidence": 0.94
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "Brandon's CryptoZeu$ segment includes a random number game and interactions with his mother.",
+      "timestamp": "01:44:27",
+      "confidence": 0.96
+    },
+    {
+      "entity": "Head of the Family Actor",
+      "fact": "An actor from 'Head of the Family' is interviewed, referencing the film's soft-core porn elements.",
+      "timestamp": "02:08:34",
+      "confidence": 0.9
+    },
+    {
+      "entity": "AI Rooney",
+      "fact": "AI Rooney is mentioned as a retired segment, referenced in the context of 'idiocracy'.",
+      "timestamp": "01:15:45",
+      "confidence": 0.85
+    },
+    {
+      "entity": "Beyblade Tournament",
+      "fact": "The Beyblade Tournament is an active storyline with betting points and a scheduled execution.",
+      "timestamp": "01:32:55",
+      "confidence": 0.92
+    },
+    {
+      "entity": "The Scrotum Merger",
+      "fact": "The Scrotum Merger is an active storyline involving supernatural instability during Munch & Crum debates.",
+      "timestamp": "01:22:28",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Tupac Conspiracy",
+      "fact": "A conspiracy theory about Tupac's afterlife and his presence in a video game is explored.",
+      "timestamp": "01:09:19",
+      "confidence": 0.94
+    }
+  ],
+  "_meta": {
+    "vod_id": "IZWYSBoOxPA",
+    "model": "poolside/laguna-s-2.1:free",
+    "transcript_lines": 329
+  }
+}

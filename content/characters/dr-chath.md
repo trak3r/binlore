@@ -34,11 +34,13 @@ Despite his clinical positioning, Dr. Chath is a distinctly minor and highly uno
 
 ## Appearances
 
+
 | Episode | Notes |
 |---|---|
 | [[../episodes/2026-06-22|2026-06-22]] | Debut appearance. Conducts a therapy session with Case Blackwell, reading viewer `!h` prompts, attempting the Dougie while standing on his chair, and watching Kendelle drift through the office like a ghost. |
 | [[../episodes/2026-07-11|2026-07-11]] | Evaluates Case's haircut crisis and Denver airport layover during a looks-maxing therapy consultation, dispensing healing affirmations. |
 | [[../episodes/2026-07-17|2026-07-17]] | Presides over an advanced military-grade therapy session, reviewing viewer inquiries, Kendelle's visit to the office for sticky rice, and checking Twitch partner viewer metrics before billing $500/hour. |
+| [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of euthanizing Crum, not actively speaking. |
 
 ## Notable Quotes
 

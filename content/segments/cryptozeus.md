@@ -34,6 +34,7 @@ Brandon's gameplay is consistently disrupted by his mother shouting through the 
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | 01:12:48 | Brandon Plays Intelligent Qube & Gooters Wet Wings: Brandon struggles with keyboard controls while playing *Intelligent Qube* (I.Q.) on PS1 emulation, argues with his mother, and plugs Gooters' $59.99 soggy cola-dipped chicken skins. |
@@ -51,5 +52,6 @@ Brandon's gameplay is consistently disrupted by his mother shouting through the 
 | [[episodes/2026-06-27|2026-06-27]] | 01:22:57 | Elder Scrolls Arena Installation Nightmare: Brandon attempts to play The Elder Scrolls: Arena. Fails to log into GOG, gives up on passwords, and is confused by the checkout process for a free game. The mother disrupts constantly about her air fryer, her 'Pastor Joe eating her out of a Jello pool', and demands a pool. Brandon names his character 'Carl Guter' and dies repeatedly to goblins, culminating in the mother declaring she will 'shit all weekend' and Brandon preparing to emancipate himself. |
 | [[episodes/2026-06-22|2026-06-22]] | 01:47:52 | Operation Epic Furious Straight Gaming Dispatch: Brandon (CryptoZeu$) takes over for a gaming segment playing Operation Epic Furious Straight, a browser-based game featuring Trump, Iran, and various political figures. Features heavy mother interruptions, Gooters chicken sponsorship, and absurd gameplay involving Truth Social posts and drone strikes. |
 | [[episodes/2026-06-19|2026-06-19]] | 30:00 | Retro Gaming & Digital Culture: Resident gaming correspondent Brandon (CryptoZeu$) conducts deep-dive playthroughs of vintage DOS simulations and retro titles. The segment includes technical commentary and audience interaction regarding gaming nostalgia. |
+| [[episodes/2026-06-15|2026-06-15]] | 01:44:27 | Brandon's Random Number Game: Brandon plays a random number game while his mother yells through the wall, referencing the 'Head of the Family' actor. |
 
 See also: [[../characters/cryptozeus|Brandon (CryptoZeu$)]], [[../characters/brandons-mother|Brandon's Mother]], [[index|Broadcast Segments]].

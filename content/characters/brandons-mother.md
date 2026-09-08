@@ -26,6 +26,7 @@ Her shouting matches with Brandon—whom she frequently addresses as "Brandy"—
 ## Appearances
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | Harangues Brandon through the closed door during his *Intelligent Qube* PlayStation emulation session. |
@@ -36,6 +37,7 @@ Her shouting matches with Brandon—whom she frequently addresses as "Brandy"—
 | [[episodes/2026-06-29|2026-06-29]] | Shouts about Subway party sub theft, feral pig hoses, and household flooding with dead hogs. |
 | [[episodes/2026-06-27|2026-06-27]] | Shouts through the bedroom door regarding chimichangas, air fryers, and backyard Jello pools. |
 | [[episodes/2026-06-22|2026-06-22]] | Unseen family voice making presence known via muffled screaming through the drywall during Brandon's gaming segment. |
+| [[episodes/2026-06-15|2026-06-15]] | Unseen family voice, yells through the wall. |
 
 ## Notable Moments
 
