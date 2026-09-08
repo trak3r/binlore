@@ -36,6 +36,7 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | Oversees the long-delayed Rock-afire Gorilla execution against Crum. Caught in the catastrophic backblast when the machine explodes, incinerating him into a living, talking skeleton. Insists his skeletal form highlights superior bone structure, debates Crum on Crayola vs. RoseArt, and promises to haunt the desk indefinitely. |
@@ -52,8 +53,10 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 | [[episodes/2026-06-19|2026-06-19]] |  |
 | [[episodes/2026-06-18|2026-06-18]] | Senior debate analyst. Disheveled silver hair. Defends improv as valid art form. Reveals eight years improv training (1991-1998) including class with Anchorman extra. Proud Democrat. |
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity. |
+| [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (disheveled silver hair). Defends reality-TV politicians, endorses Gooters, mocks Crum's hairline. |
 
 ## Notable moments
+
 
 
 
@@ -75,3 +78,4 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 - **[01:29:56]** ([[episodes/2026-07-11|2026-07-11]]): Crumb advocates for the assassination of political enemies, citing electoral failures as justification for replacing 'electoralism' with 'assassination'.
 - **[06:00]** ([[episodes/2026-06-19|2026-06-19]]): Munch is a senior debate analyst known for his disheveled appearance and combative political stance, frequently clashing with Crum in televised debates.
 - **[01:14:00]** ([[episodes/2026-06-18|2026-06-18]]): Completed approximately eight years of improv training between 1991-1998; took class with actor later cast as extra in Anchorman.
+- **[01:56:33]** ([[episodes/2026-06-08|2026-06-08]]): Spent summers in Macedonia where 'the ancient world had different views' on same-sex relations, implying bipartisan sexual history.

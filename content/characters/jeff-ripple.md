@@ -45,6 +45,7 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-06-29|2026-06-29]] | Co-hosts *Amongst the Web* during his 'Jam EFE era', demanding on-air catchphrase validation and claiming the phrase 'don't eat my nipples' as a Ripple-original. |
@@ -60,6 +61,7 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 | [[episodes/2026-06-22|2026-06-22]] | Studio news reader and breaking chat correspondent monitoring viewer dispatches and delivering offbeat news bulletins. |
 | [[episodes/2026-06-19|2026-06-19]] | Studio news reader and chat moderator providing breaking updates and maintaining order during live segments. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
+| [[episodes/2026-06-08|2026-06-08]] | Studio news reader / breaking chat correspondent. Reads Catholic exorcist story, reacts to Alex Jones comparison, leaves to fix power issue. |
 
 ## Notable Moments
 
@@ -71,3 +73,7 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 - **[34:53]** ([[episodes/2026-09-01|2026-09-01]]): Celebrates the premiere of his first dedicated internal feature desk, "Weekend Odds and Ends."
 - **[16:56]** ([[episodes/2026-09-02|2026-09-02]]): Defends the viewership against Blackwell's cynicism: *"Not all of us are haters, Case."*
 - **[22:54]** ([[episodes/2026-09-02|2026-09-02]]): Shouted out in Hype Train's live freestyle: *"Jeff picture this, Ripple at the spot."*
+
+## Notable moments
+
+- **[00:40:07]** ([[episodes/2026-06-08|2026-06-08]]): Harbors intense one-sided rivalry with real-world UPI reporter Ben Hooper; audience favors Hooper's corny antics.

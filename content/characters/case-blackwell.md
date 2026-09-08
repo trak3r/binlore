@@ -42,6 +42,7 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 
 
 
+
 - **[02:12:45]** ([[episodes/2026-09-07|2026-09-07]]): Anchors the Season 3 finale ahead of departing for an extended two-week international leave to Thailand. Oversees the long-awaited Rock-afire mechanical gorilla execution and observes Munch's transformation into a skeleton.
 - **[15:18]** ([[episodes/2026-09-02|2026-09-02]]): Mentions an upcoming Chicago Sketchfest date 'October 2nd' and teases a larger project announcement with his sketch ensemble.
 - **[42:29]** ([[episodes/2026-09-02|2026-09-02]]): Credited field reporter on the Pentagon story: 'Reporting for this was done by Christy Santhosh.'
@@ -78,3 +79,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[10:29]** ([[episodes/2026-06-27|2026-06-27]]): Blackwell is on a new clothing regimen 'courtesy of Jeff Bezos' and his own life, transitioning away from basketball shorts to feel more human, though he admits he 'sometimes has legs' and has 'wilt energy.'
 - **[08:09]** ([[episodes/2026-06-22|2026-06-22]]): Case Blackwell is the lead anchor and managing editor who presides over the entire broadcast. He discusses his VPN causing access restrictions to news sites, his 4K film collection habits, and his difficulty with Twitch raid/ban functions.
 - **[00:06]** ([[episodes/2026-06-15|2026-06-15]]): Case Blackwell is celebrating his 40th birthday, which is the central theme of the broadcast.
+- **[00:11:20]** ([[episodes/2026-06-08|2026-06-08]]): Owns a toy machete on a string; keeps a stun gun for home defense (Kendelle also has one).
+- **[01:46:44]** ([[episodes/2026-06-08|2026-06-08]]): Auditioned for Love Island, Too Hot to Handle, and MILF Manor as a 'positive male influence' but was outside age range for the latter.
