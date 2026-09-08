@@ -14,15 +14,15 @@ Complete stream archive tracked for *Barely Informed News*. Episodes are ingeste
 
 <div class="backlog-stats-grid">
   <div class="stat-card">
-    <div class="stat-value">376</div>
+    <div class="stat-value">377</div>
     <div class="stat-label">Total Streams in Archive</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">~885 hrs</div>
+    <div class="stat-value">~887 hrs</div>
     <div class="stat-label">Total Broadcast Lore</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">19</div>
+    <div class="stat-value">20</div>
     <div class="stat-label">Ingested & Extracted</div>
   </div>
   <div class="stat-card">
@@ -43,8 +43,8 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   </div>
   <div class="filter-group">
     <select id="status-filter">
-      <option value="all">All Statuses (376)</option>
-      <option value="ingested">Ingested Only (19)</option>
+      <option value="all">All Statuses (377)</option>
+      <option value="ingested">Ingested Only (20)</option>
       <option value="backlog">Backlog Only (357)</option>
     </select>
     <select id="page-size">
@@ -69,6 +69,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
     </tr>
   </thead>
   <tbody>
+<tr data-status="ingested" data-title="crum punch news" data-date="2026-09-07" data-vod-id="2868220752"><td class="cell-date"><code>2026-09-07</code></td><td class="cell-title"><a href="./2026-09-07" class="internal"><strong>Crum Punch News</strong></a></td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2868220752</code></td><td class="cell-dur">2:17:37</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2868220752" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a></td></tr>
 <tr data-status="ingested" data-title="artificially general news" data-date="2026-09-04" data-vod-id="2865460780"><td class="cell-date"><code>2026-09-04</code></td><td class="cell-title"><a href="./2026-09-04" class="internal"><strong>Artificially General News</strong></a></td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2865460780</code></td><td class="cell-dur">1:51:30</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2865460780" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a> <a href="https://www.youtube.com/watch?v=LqjPBi9lw_c" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="high t wednesday news" data-date="2026-09-02" data-vod-id="2863722826"><td class="cell-date"><code>2026-09-02</code></td><td class="cell-title"><a href="./2026-09-02" class="internal"><strong>High T Wednesday News</strong></a></td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2863722826</code></td><td class="cell-dur">2:10:12</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2863722826" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a> <a href="https://www.youtube.com/watch?v=ussukWsFgWI" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="the quickest latest news" data-date="2026-09-01" data-vod-id="2862064673"><td class="cell-date"><code>2026-09-01</code></td><td class="cell-title"><a href="./2026-09-01" class="internal"><strong>The Quickest Latest News</strong></a></td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2862064673</code></td><td class="cell-dur">1:33:04</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2862064673" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a> <a href="https://www.youtube.com/watch?v=ZSjvjEED3KA" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>

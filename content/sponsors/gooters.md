@@ -57,6 +57,7 @@ Gooters' menu eschews conventional poultry standards in favor of proprietary, fl
 | [[../episodes/2026-08-19|2026-08-19]] | [[../segments/cryptozeus|CryptoZeu$]] | Multiple wing dispatches interrupt TurboGrafx-16 *Obocama-kun* gameplay. |
 | [[../episodes/2026-08-26|2026-08-26]] | [[../segments/cryptozeus|CryptoZeu$]] | Commercial spot unveils wet storage bins, the $20-stuffed potato turducken, herniated cheese discs, and moist kitten poppers. |
 | [[../episodes/2026-09-01|2026-09-01]] | [[../segments/cryptozeus|CryptoZeu$]] | Sponsor card promotes mayo-soaked chicken skins ($5 a piece) during *Wario Land 4* session. |
+| [[../episodes/2026-09-07|2026-09-07]] | [[../segments/cryptozeus|CryptoZeu$]] | Labor Day promotional spot for $59.99 soggy cola-dipped chicken skins ('Damn them some wet-ass wings') during *Intelligent Qube* dispatch. |
 | [[../episodes/2026-09-02|2026-09-02]] | [[../segments/cryptozeus|CryptoZeu$]] | Live commercial read delivered over *Jill of the Jungle* DOS gameplay. |
 
 ## See also

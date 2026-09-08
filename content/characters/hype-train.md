@@ -47,6 +47,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 
 | Episode | Notes |
 |---------|-------|
+| [[episodes/2026-09-07|2026-09-07]] | Intercepts the desk on a futuristic synthwave beat, delivering an impassioned freestyle about wearing denim jeans with his girls, Roman urine laundering, and proposed tombstone epitaphs. |
 | [[episodes/2026-09-02|2026-09-02]] | Derails subscriber acknowledgments to promote *Piss Fruit Ninja*, commands a vaudeville rhythm, raps about his Panther partner, and details his crypto universe upbringing. |
 | [[episodes/2026-09-04|2026-09-04]] | Hijacks the broadcast to argue that eggs lack pre-injected sauce, performs Dr. Seuss-style egg raps, acknowledges donors, and requests love ballads when viewers depart. |
 | [[episodes/2026-09-01|2026-09-01]] | Delivers an extended rap describing locomotive reproduction, giving birth to train cars and skeletons; notably abstains from fluidic topics for the entire appearance. |

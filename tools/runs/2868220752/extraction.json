@@ -1,0 +1,181 @@
+{
+  "episode_summary": "On this historic Season 3 finale of Barely Informed News, lead anchor Case Blackwell hosts the final broadcast before departing for an extended two-week international leave in Thailand, culminating in the long-awaited climax to the 'Crum Dick Punch' storyline. The telecast begins with executive producer Pepito setting up Labor Day expectations, followed by a news rundown covering the Lanterns series trailer posted by the White House, Trump's Confederate memorial policy reversals, Trump's defense of power-hungry AI data centers ('have fun being poor'), the GPT-6 'Astro' model autonomously speedrunning Portal, RFK Jr.'s cooking show, Ben Hooper's UPI reports on a runaway floating island in BC and a deer stuck in a bathroom, and an archival Pros vs. Joes clip of a 13-year-old female orangutan overpowering a 363-pound champion sumo wrestler. Hype Train interrupts with a synthwave rant about the perfection of jeans and raps about girls wearing denim, before turning to subs. Gaming correspondent Brandon (CryptoZeu$) takes the remote desk for Intelligent Qube on PS1 via keyboard while fielding sponsor dispatches for Gooters' $59.99 soggy cola-dipped chicken skins. The broadcast reaches its dramatic climax during Munch & Crum's debate over 'Any Last Words?'—where Crum insists his rigorous physical conditioning with weighted logs and steel underwear will withstand the blow. As the pneumatic Rock-afire Gorilla fires the fateful punch, a cataclysmic mechanical misfire erupts into an inferno, completely vaporizing the gorilla into dust and incinerating senior debate analyst Ralph Munchcut down to a living, talking skeleton. Undeterred, the skeletal Munch embraces his bone structure, argues for Crayola over RoseArt, and demands future debates as the network signs off.",
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "12:21",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Pepito Intro & Labor Day Stunt Anticipation",
+      "notes": "Pepito opens the show celebrating Labor Day. Blackwell confirms he departs for Thailand for two weeks tonight, reviews audience polling on Crum's impending fate (proposes to gorilla, genital slit, ricochet punch), and notes Crum has been attempting to delay the forfeit with steel underwear.",
+      "characters": ["Pepito", "Case Blackwell"]
+    },
+    {
+      "start": "12:21",
+      "end": "36:43",
+      "canonical_segment": "News",
+      "title": "Lanterns Trailer, Cho Chang Controversy & Crumb Punch Cocktail",
+      "notes": "Case begins the news block. Topics include the White House account tweeting a Lanterns preview trailer with Kanye West music, J.K. Rowling and Harry Potter Cho Chang discourse, chat recipe suggestions for a 'Crum Punch' cocktail (mountain dew, vodka, red bull), and the impending trip.",
+      "characters": ["Case Blackwell"]
+    },
+    {
+      "start": "36:43",
+      "end": "48:54",
+      "canonical_segment": "Hype Train",
+      "title": "Jeans Rap & Tombstone Last Words",
+      "notes": "Hype Train intercepts the broadcast on a futuristic synthwave beat, delivering an impassioned freestyle about wearing denim jeans in the field with 'me and my girls,' Romans washing clothes in urine, and debating what his final words on a tombstone would be before acknowledging Twitch subs.",
+      "characters": ["Hype Train", "Case Blackwell"]
+    },
+    {
+      "start": "48:54",
+      "end": "01:12:48",
+      "canonical_segment": "News",
+      "title": "Trump Data Centers, GPT-6 Portal, Hooper UPI & Orangutan Sumo",
+      "notes": "The news block resumes. (1) Trump administration military directives protecting Confederate memorials under 'heritage.' (2) Trump defending AI data centers to local communities ('they throw off tremendous amounts of money'). (3) GPT-6 Astra beating Portal for $517. (4) RFK Jr. cooking show. (5) Ben Hooper's UPI reports on a runaway floating island in BC and a deer swimming in a pool, sparking Blackwell's jealousy. (6) Pros vs. Joes archive clip of a 180 lb orangutan dragging a 363 lb sumo wrestler.",
+      "characters": ["Case Blackwell"]
+    },
+    {
+      "start": "01:12:48",
+      "end": "01:36:23",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Brandon Plays Intelligent Qube & Gooters Wet Wings",
+      "notes": "Live remote gaming dispatch from resident correspondent Brandon (CryptoZeu$). Brandon struggles with PC keyboard controls while attempting to play Intelligent Qube (I.Q.) on PS1 emulation, argues with his mother through the door, and delivers a live commercial dispatch for Gooters' $59.99 soggy cola-dipped chicken skins.",
+      "characters": ["Brandon (CryptoZeu$)", "Brandon's Mother"]
+    },
+    {
+      "start": "01:36:23",
+      "end": "01:50:38",
+      "canonical_segment": "Munch & Crum",
+      "title": "The Climax: Any Last Words? & The Gorilla Punch Execution",
+      "notes": "Flagship debate desk. Munch and Crum clash over 'Any Last Words?'. Crum reveals his rigorous anatomical conditioning—swinging 45-pound weighted logs into his groin—and insists he is ready for impact. Munch insists Crum will be erased. Crum steps up to face the Rock-afire mechanical gorilla.",
+      "characters": ["Munch (Ralph Munchcut)", "Crum (Leonard Crum)"]
+    },
+    {
+      "start": "01:50:38",
+      "end": "02:12:45",
+      "canonical_segment": "Munch & Crum",
+      "title": "The Aftermath: Talking Skeleton Munch & Crayon Debate",
+      "notes": "The execution goes catastrophically awry: an explosive fireball erupts, incinerating the Rock-afire gorilla to ash and burning Munch into a talking skeleton. Crum emerges largely intact (accused of wearing steel underwear). Munch insists being a skeleton is an athletic upgrade, debates Crayola vs. RoseArt, and declares himself immune to mortal boundaries.",
+      "characters": ["Munch (Ralph Munchcut)", "Crum (Leonard Crum)"]
+    },
+    {
+      "start": "02:12:45",
+      "end": "02:17:37",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Broadcast Outro, Pepito Farewell Song & Thailand Vacation Signoff",
+      "notes": "Case and Pepito conclude the broadcast. They discuss Munch's lack of skin and a stretch goal for a trading card game. Pepito sings a farewell song, offers to eat any loose skin, and the network signs off for two weeks of international leave.",
+      "characters": ["Case Blackwell", "Pepito"]
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": ["00:08", "00:14", "01:46:47", "02:16:45", "02:17:12", "02:17:30"],
+      "confidence": 1.0,
+      "notes": "Executive Producer opening the stream and conducting the signoff song; claims a collection of strange items and offers to eat loose skin."
+    },
+    {
+      "name": "Case Blackwell",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": ["00:14", "12:21", "36:43", "48:54", "01:03:58", "02:12:45", "02:17:36"],
+      "confidence": 1.0,
+      "notes": "Lead anchor and managing editor anchoring the broadcast before leaving for Thailand; oversees news desk, reviews Hooper's reporting, and moderates the stunt."
+    },
+    {
+      "name": "Hype Train",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": ["36:43", "37:21", "38:27", "41:47", "43:33"],
+      "confidence": 1.0,
+      "notes": "Musical correspondent who delivers a synthwave freestyle on wearing denim jeans with his girls, Roman urine cleaning, and tombstone last words."
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": ["01:13:27", "01:14:07", "01:17:08", "01:21:06", "01:34:57"],
+      "confidence": 1.0,
+      "notes": "Resident gaming correspondent streaming Intelligent Qube (I.Q.) via keyboard emulation and delivering a sponsor dispatch for Gooters chicken skins."
+    },
+    {
+      "name": "Brandon's Mother",
+      "canonical_name": "Brandon's Mother",
+      "speaking": true,
+      "timestamps": ["01:13:28", "01:35:21"],
+      "confidence": 0.95,
+      "notes": "Interrupts Brandon's retro gameplay by knocking and rummaging through the bedroom door."
+    },
+    {
+      "name": "Crum",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": ["01:36:52", "01:39:42", "01:44:04", "01:47:30", "01:49:13", "01:53:38", "01:55:44"],
+      "confidence": 1.0,
+      "notes": "Senior debate analyst who faces his binding gambling forfeit; boasts of conditioning his groin with 45-pound weighted logs and survives the gorilla misfire intact."
+    },
+    {
+      "name": "Munch",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": ["01:36:25", "01:38:06", "01:44:46", "01:48:47", "01:50:57", "01:52:21", "01:52:38", "01:56:24", "02:00:56"],
+      "confidence": 1.0,
+      "notes": "Senior debate analyst who orchestrates the forfeit execution; caught in the explosive blowback, incinerating into a living, talking skeleton."
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Climactic execution of Crum's lost gambling wager: Crum steps up to face the Rock-afire mechanical gorilla, but a massive pneumatic misfire unleashes an inferno that burns the gorilla to dust and transforms Munch into a talking skeleton, leaving Crum triumphant.",
+      "timestamp": "01:50:38"
+    },
+    {
+      "storyline": "Munch–Crum rivalry",
+      "beat": "Following the fiery stunt misfire, Munch embraces his skeletal form, boasts of superior bone structure, and debates Crum on Crayola vs. RoseArt.",
+      "timestamp": "01:56:24"
+    },
+    {
+      "storyline": "Ben Hooper Rivalry",
+      "beat": "Case reviews UPI articles by rival journalist Ben Hooper covering a floating island in BC and a swimming pool deer, bitterly complaining that Hooper stole his coverage.",
+      "timestamp": "01:03:58"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum Dick Punch",
+      "fact": "The climactic execution of Crum's gambling debt occurred on September 7, 2026. A mechanical fireball incinerated the Rock-afire Gorilla into ash and burned Munch into a living talking skeleton, while Crum survived unscathed.",
+      "timestamp": "01:50:38",
+      "confidence": 1.0
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Transformed into a talking skeleton after catching the fiery backblast of the Rock-afire Gorilla stunt. Claims to have superior bone structure and to be liberated from mortal race boundaries.",
+      "timestamp": "01:52:38",
+      "confidence": 1.0
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Trained his groin against blunt force trauma by swinging 45-pound weighted logs into his crotch; accused by Munch of wearing metal underwear during the gorilla stunt.",
+      "timestamp": "01:39:45",
+      "confidence": 1.0
+    },
+    {
+      "entity": "Gooters",
+      "fact": "Promoted a Labor Day special for $59.99 soggy cola-dipped chicken skins ('Damn them some wet-ass wings').",
+      "timestamp": "01:17:08",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "Streamed Intelligent Qube (PS1) via keyboard after controller connection failures, proclaiming his superior spatial IQ.",
+      "timestamp": "01:17:00",
+      "confidence": 0.95
+    }
+  ],
+  "_meta": {
+    "vod_id": "2868220752",
+    "model": "manual-curated-whisper",
+    "transcript_lines": 2250
+  }
+}

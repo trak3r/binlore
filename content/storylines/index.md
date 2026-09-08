@@ -9,7 +9,7 @@ Ongoing broadcast narratives, investigative threads, and high-stakes network arc
 
 | Storyline | Status | Notes |
 |---|---|---|
-| [[crum-dick-punch|Crum D*ck Punch]] | active | Senior debate analyst Crum lost a catastrophic bet due to chronic gambling liabilities; faces impending robotic gorilla groin punch |
+| [[crum-dick-punch|Crum Dick Punch]] | resolved / concluded | Senior debate analyst Crum's gambling debt concluded with a catastrophic explosion vaporizing the robotic gorilla and incinerating Munch into a talking skeleton |
 | [[the-scrotum-merger|The Scrotum Merger]] | active / anomaly | A botched supernatural ritual by occult consultant Cremus Tremando fused the broadcast presence of Crum and former producer Peter Gibbon |
 | [[beyblade-tournament|Beyblade Tournament]] | active / in development | Community debt called out by Abraham Lincoln; planned 2v2 Beyblade Burst arena match for Crum, entangled with Case applying 106 Bart Simpson tattoos |
 

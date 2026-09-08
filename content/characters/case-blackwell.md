@@ -40,6 +40,7 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 
 
 
+- **[02:12:45]** ([[episodes/2026-09-07|2026-09-07]]): Anchors the Season 3 finale ahead of departing for an extended two-week international leave to Thailand. Oversees the long-awaited Rock-afire mechanical gorilla execution and observes Munch's transformation into a skeleton.
 - **[15:18]** ([[episodes/2026-09-02|2026-09-02]]): Mentions an upcoming Chicago Sketchfest date 'October 2nd' and teases a larger project announcement with his sketch ensemble.
 - **[42:29]** ([[episodes/2026-09-02|2026-09-02]]): Credited field reporter on the Pentagon story: 'Reporting for this was done by Christy Santhosh.'
 - **[50:02]** ([[episodes/2026-09-02|2026-09-02]]): When called out on broadcast liability, Case cites the 'new trend in the news to relentlessly slander streamers all day' and references QTCinderella coverage on mainstream networks.

@@ -22,7 +22,7 @@ tags:
 
 Munch serves as the combative, unapologetic political counterweight to [[crum|Crum]] on *Barely Informed News*. Distinguished by his disheveled silver mane, Munch brings relentless swagger and hostility to the debate desk.
 
-Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch|Crum D*ck Punch]] storyline, wherein Munch relentlessly torments Crum over his lost gambling wagers and orchestrates community support for the impending robotic gorilla execution.
+Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch|Crum Dick Punch]] storyline, wherein Munch relentlessly torments Crum over his lost gambling wagers and orchestrates community support for the impending robotic gorilla execution. On September 7, 2026, Munch suffered a catastrophic workplace accident when the mechanical gorilla exploded, incinerating his flesh and converting him into an immortal talking skeleton.
 
 ## Appearances
 
@@ -35,6 +35,7 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 
 | Episode | Notes |
 |---------|-------|
+| [[episodes/2026-09-07|2026-09-07]] | Oversees the long-delayed Rock-afire Gorilla execution against Crum. Caught in the catastrophic backblast when the machine explodes, incinerating him into a living, talking skeleton. Insists his skeletal form highlights superior bone structure, debates Crum on Crayola vs. RoseArt, and promises to haunt the desk indefinitely. |
 | [[episodes/2026-09-02|2026-09-02]] | Promises swift physical retribution upon Crum; recites the audience-compiled list of justifications for Crum's forfeit; leaks details regarding the Best Boob Club. |
 | [[episodes/2026-09-01|2026-09-01]] | Defends pepperoni as the definitive pizza topping; loses the debate to Crum's mayonnaise platform and appeals to the audience for spiritual solidarity. |
 | [[episodes/2026-08-26|2026-08-26]] | Defends his candidacy as a superior mayor to Mamdani, proclaims himself the debate winner, and argues that Crum must endure a "reverse pardon" resulting in two punches. |
@@ -48,10 +49,8 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 
 ## Notable moments
 
-
-
-
-
+- **[01:50:38]** ([[episodes/2026-09-07|2026-09-07]]): Incinerated by the explosive backfire of the Rock-afire mechanical gorilla during the climax of the Crum Dick Punch execution, transforming into an animated, talking skeleton.
+- **[01:52:38]** ([[episodes/2026-09-07|2026-09-07]]): Boasts of having superior bone structure as a skeleton and claims he is now immune to mortal racial boundaries because he has no skin.
 - **[1:15:02]** ([[episodes/2026-09-02|2026-09-02]]): Broadcasts the viewer-compiled dossier titled 'Reasons You Deserve to Get Your Dick Punched,' enumerating Crum's baldness, cowardice, unearned reputation, and arrogance.
 - **[1:21:58]** ([[episodes/2026-09-02|2026-09-02]]): Moderates the high-stakes audience poll between Christian and [[kendelle|Kendelle]], acknowledging Christian's landslide victory.
 - **[50:30]** ([[episodes/2026-09-01|2026-09-01]]): In a moment of vulnerability following a debate loss, solicits viewers to hold his welfare "in your spiritual hands."

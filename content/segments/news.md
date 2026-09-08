@@ -42,6 +42,7 @@ Lead anchor [[../characters/case-blackwell|Case Blackwell]] presides over the an
 
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
+| [[episodes/2026-09-07|2026-09-07]] | 12:21 | Season 3 Finale News Block: Coverage of the White House Lanterns trailer, Confederate memorial policies, Trump's defense of AI data centers ('have fun being poor'), GPT-6 Astro beating Portal, Ben Hooper UPI dispatches, and an orangutan vs sumo wrestler archive clip. |
 | [[episodes/2026-09-02|2026-09-02]] | 15:13 | Pentagon hormone screening policies, the Epstein Transparency Act legislative push, and Polk County donkey shooting investigations. |
 | [[episodes/2026-09-04|2026-09-04]] | 29:49 | Artificial Intelligence Special Report: Broadcast opens with the "Artificially General News" special theme. Coverage includes OpenAI's GPT-6 (codenamed "Astro") release, Sam Altman's executive rollout apology, and an analysis of promotional AI advertisements compared against viral online parodies. |
 | [[episodes/2026-09-01|2026-09-01]] | 24:14 | National & Regional News Desk: Coverage of the Dwayne Davis guilty verdict in the Tupac Shakur trial, talent debuts at AEW All In London, a mysterious floating island in British Columbia's Williston Reservoir, medical emergencies involving wildlife, and a father-son water-balloon world record. |

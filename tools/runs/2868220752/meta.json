@@ -1,0 +1,14 @@
+{
+  "vod_id": "2868220752",
+  "title": "Crum Punch News",
+  "url": "https://www.twitch.tv/videos/2868220752",
+  "duration_seconds": 8257,
+  "duration": "2:17:37",
+  "timestamp": 1788821242,
+  "aired_at": "2026-09-07T22:47:22+00:00",
+  "date": "2026-09-07",
+  "ingested_at": "2026-09-08T12:07:27.090766+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small"
+}

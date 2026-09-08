@@ -21,7 +21,7 @@ This archive documents the network's on-air correspondents, investigative progra
 
 ### Featured Coverage
 
-The [[storylines/crum-dick-punch|Crum D*ck Punch]] saga — alongside the high-stakes [[segments/munch-and-crum|Munch & Crum]] debate desk — remains the central developing storyline across the network. Start with senior analysts [[characters/crum|Crum]] and [[characters/munch|Ralph Munchcut]].
+The [[storylines/crum-dick-punch|Crum Dick Punch]] saga — alongside the high-stakes [[segments/munch-and-crum|Munch & Crum]] debate desk — remains the central developing storyline across the network. Start with senior analysts [[characters/crum|Crum]] and [[characters/munch|Ralph Munchcut]].
 
 ## Network Transmissions
 

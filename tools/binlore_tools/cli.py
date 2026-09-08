@@ -312,8 +312,8 @@ def build_parser() -> argparse.ArgumentParser:
     ext.add_argument(
         "--timeout",
         type=float,
-        default=75.0,
-        help="Timeout in seconds per model before falling back (default: 75)",
+        default=180.0,
+        help="Timeout in seconds per model before falling back (default: 180)",
     )
     ext.add_argument(
         "--dry-run",

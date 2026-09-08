@@ -27,10 +27,13 @@ Her shouting matches with Brandon—whom she frequently addresses as "Brandy"—
 
 | Episode | Notes |
 |---------|-------|
-| [[episodes/2026-06-27|2026-06-27]] | Shouts through the bedroom door regarding chimichangas, air fryers, and backyard Jello pools. |
-| [[episodes/2026-06-29|2026-06-29]] | Shouts about Subway party sub theft, feral pig hoses, and household flooding with dead hogs. |
-| [[episodes/2026-07-11|2026-07-11]] | Screams through the door about hair cream, unannounced parties, and Taco Bell gastrointestinal emergencies. |
+| [[episodes/2026-09-07|2026-09-07]] | Harangues Brandon through the closed door during his *Intelligent Qube* PlayStation emulation session. |
+| [[episodes/2026-09-02|2026-09-02]] | Speaks with Old English vocal affectations following a bumper-car accident with Pastor Joe at a local fair. |
+| [[episodes/2026-09-01|2026-09-01]] | Harangues Brandon about unwashed clothing, turnip consumption, Pastor Joe's visit, and her Italian road bicycle. |
 | [[episodes/2026-08-26|2026-08-26]] | Interrupts *The Journey Home* gameplay regarding Gooters wet wings, sloppy chicken fries, and potato turduckens. |
+| [[episodes/2026-07-11|2026-07-11]] | Screams through the door about hair cream, unannounced parties, and Taco Bell gastrointestinal emergencies. |
+| [[episodes/2026-06-29|2026-06-29]] | Shouts about Subway party sub theft, feral pig hoses, and household flooding with dead hogs. |
+| [[episodes/2026-06-27|2026-06-27]] | Shouts through the bedroom door regarding chimichangas, air fryers, and backyard Jello pools. |
 
 ## Notable Moments
 

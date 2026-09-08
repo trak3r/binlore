@@ -24,7 +24,7 @@ tags:
 
 Crum serves as the long-suffering political counterweight to [[munch|Ralph Munchcut]] on *Barely Informed News*. Distinguished by his hollow-eyed stare and severe bald pate, Crum is infamous across the network for a crippling gambling addiction that routinely plunges him into reckless wagers, physical forfeits, and existential panic.
 
-Together with Munch, their fierce professional rivalry drives the [[../storylines/crum-dick-punch|Crum D*ck Punch]] storyline, stemming from an astronomical lost wager against a mechanical ape.
+Together with Munch, their fierce professional rivalry drives the [[../storylines/crum-dick-punch|Crum Dick Punch]] storyline, stemming from an astronomical lost wager against a mechanical ape.
 
 ## Key Attributes & Lore
 
@@ -47,13 +47,14 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 
 | Episode | Notes |
 |---------|-------|
+| [[episodes/2026-09-07|2026-09-07]] | Steps up to face the long-delayed Rock-afire Gorilla execution during the Season 3 finale. Reveals his physical conditioning included swinging 45-pound logs into his groin. Survives a catastrophic mechanical explosion that destroys the gorilla and burns Munch into a talking skeleton, claiming ultimate victory. |
 | [[episodes/2026-09-04|2026-09-04]] | Takes the debate desk following the botched occult ritual, temporarily disoriented into believing he has swapped identities with Munch. Employs archaic slang ('japs' for mischief) and prepares for his scheduled Monday robotic gorilla encounter. |
 | [[episodes/2026-09-02|2026-09-02]] | Vehemently denies Epstein-related defamation, reaffirms his impending Monday forfeit, explains why his wife's breasts were excluded from the Best Boob Club, claims "super strength in spits," and reveals his glove-box carrot supply. |
 | [[episodes/2026-09-01|2026-09-01]] | Recounts the origin of the robotic gorilla wager, confirms he is spiritually prepared for the Monday execution, defends mayonnaise as the superior pizza topping, defeats Munch decisively on the scoreboard, and discusses Pastor Joe's favorite prayer. |
 | [[episodes/2026-08-26|2026-08-26]] | Serves as a self-described Democratic Party representative but balks at endorsing Mamdani; ultimately pressured into endorsing Munchcut for mayor. Attempts to defer the robotic gorilla execution with iron armor. |
 | [[episodes/2026-08-19|2026-08-19]] | Senior debate analyst who wanders into the news desk to compare himself to a bald mystic and claim proprietary ownership over an AI urine company concept. |
 | [[episodes/2026-08-14|2026-08-14]] | Senior Debate Analyst. Defends Hasan Piker's need for empathy and lighter segments, then spends the rest of the segment hijacking buttons and triggering his own outro music while arguing 'trime' is a portmanteau. Later manifests as the merged 'Kendelle' identity attempting to announce a breakup during the outro. |
-| [[episodes/2026-08-08|2026-08-08]] | Senior debate analyst. Reveals his 26-year-old daughter Bethesda legally emancipated herself due to a disastrous pony delivery. Picks both Tobey Maguire and Tom Holland. Schedules the Crum D*ck Punch for August 31st. Later pitches his out-of-print memoir 'Crum Fused' and offers to be an expert in holding it for people while they urinate. |
+| [[episodes/2026-08-08|2026-08-08]] | Senior debate analyst. Reveals his 26-year-old daughter Bethesda legally emancipated herself due to a disastrous pony delivery. Picks both Tobey Maguire and Tom Holland. Schedules the Crum Dick Punch for August 31st. Later pitches his out-of-print memoir 'Crum Fused' and offers to be an expert in holding it for people while they urinate. |
 | [[episodes/2026-08-04|2026-08-04]] | Senior debate analyst. Opposes Munch's anti-medicine stance, insists Blackwell see a doctor, and ultimately slams the segment-end button early to cut off Munch's ranting. |
 | [[episodes/2026-07-23|2026-07-23]] | Senior Debate Analyst. Brief vocal intrusion to push through the portal to hell and demand Case get well soon, before disappearing back into the ether. |
 | [[episodes/2026-07-17|2026-07-17]] | Senior debate analyst. Bantered in cold open, defended his MIDI keyboard, debated merch priority with Munch, recorded the Stephanie merch-drop rap with explicit pre-emptive marital fidelity disclaimer to his wife Belolia, appeared during the Chet therapy segment. |
@@ -74,6 +75,8 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 
 
 
+- **[01:50:38]** ([[episodes/2026-09-07|2026-09-07]]): Faces the Rock-afire mechanical gorilla execution and emerges completely unscathed after an explosive misfire destroys the ape and converts Munch into a talking skeleton.
+- **[01:39:45]** ([[episodes/2026-09-07|2026-09-07]]): Details his grueling groin conditioning regimen, which involved swinging 45-pound weighted logs into his crotch to prepare for the gorilla punch.
 - **[52:07]** ([[episodes/2026-09-02|2026-09-02]]): Declares publicly on the network: "I will be getting my penis punched on Monday," and claims to possess "super strength for some reason in spits," demonstrated by crushing an electric toothbrush.
 - **[1:16:44]** ([[episodes/2026-09-02|2026-09-02]]): Explains he hosts the neighborhood Best Boob Club at his residence "because their wives get mad if they do it," yet is barred from voting as his wife's submissions were rejected.
 - **[1:23:18]** ([[episodes/2026-09-02|2026-09-02]]): Maintains fresh carrots in his car glove box "in case I encounter a donkey," rotating them every few days.

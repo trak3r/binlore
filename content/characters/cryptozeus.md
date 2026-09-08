@@ -39,9 +39,10 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 
 | Episode | Notes |
 |---------|-------|
+| [[episodes/2026-09-07|2026-09-07]] | Streams *Intelligent Qube* (I.Q.) on PS1 emulation using keyboard controls after controller connection failures. Delivers a Labor Day sponsor dispatch for Gooters' $59.99 soggy cola-dipped chicken skins while fielding interruptions from his mother. |
 | [[episodes/2026-09-02|2026-09-02]] | Live DOS playthrough of Epic MegaGames' *Jill of the Jungle* trilogy. Plugs Gooters wings and navigates his mother's Old English vocal affectations following a bumper-car accident. |
 | [[episodes/2026-09-01|2026-09-01]] | Streams *Wario Land 4* on GBA; hardware malfunctions force him to keyboard controls. His mother yells about turnip consumption, unwashed clothing, Pastor Joe, and Italian bicycles. Plugs Gooters mayo skins before aborting the broadcast in exasperation. |
-| [[episodes/2026-08-26|2026-08-26]] | Broadcasts an indie demo of *The Journey Home*; mother interrupts regarding Gooters wet wings, sloppy chicken fries, and the potato turducken. Receives sub confirmation regarding the Crum D*ck Punch schedule before concluding with a viewer raid. |
+| [[episodes/2026-08-26|2026-08-26]] | Broadcasts an indie demo of *The Journey Home*; mother interrupts regarding Gooters wet wings, sloppy chicken fries, and the potato turducken. Receives sub confirmation regarding the Crum Dick Punch schedule before concluding with a viewer raid. |
 | [[episodes/2026-08-19|2026-08-19]] | Resident gaming correspondent broadcasting remote from his bedroom while attempting to play a TurboGrafx-16 game. |
 | [[episodes/2026-08-08|2026-08-08]] | Gaming correspondent. Broadcasts a remote retro playthrough of a romhack of Super Mario Bros. 3 from his bedroom. Claims to make $60 million a year. Heckled constantly by his mother about Gooters chicken wings. |
 | [[episodes/2026-08-04|2026-08-04]] | Resident gaming correspondent. Broadcasts remotely from his bedroom, fails to emulate Mickey's Blast Into the Past on the Sega Pico via RetroArch, and is repeatedly interrupted by his mother through the door. |

@@ -18,10 +18,10 @@ OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
 DEFAULT_MODEL = "openrouter/free"
 FALLBACK_MODELS = [
     "nvidia/nemotron-3.5-lightning:free",
-    "minimax/minimax-m3:free",
-    "google/gemma-4-26b-a4b-it:free",
-    "z-ai/glm-5.2:free",
+    "nvidia/nemotron-3-super-120b-a12b:free",
     "google/gemma-4-31b-it:free",
+    "google/gemma-4-26b-a4b-it:free",
+    "poolside/laguna-s-2.1:free",
 ]
 
 
@@ -350,7 +350,7 @@ def extract_lore_from_vod(
     *,
     model: str = DEFAULT_MODEL,
     dry_run: bool = False,
-    timeout: float = 75.0,
+    timeout: float = 180.0,
 ) -> dict[str, Any]:
     run_dir = RUNS_DIR / vod_id
     if not run_dir.exists():

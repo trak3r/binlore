@@ -42,4 +42,4 @@ When a planned [[../segments/munch-and-crum|Munch & Crum]] debate was disrupted 
 - [[../characters/crum|Crum]]
 - [[../characters/peter-gibbon|Peter Gibbon]]
 - [[../characters/cremus-tremando|Cremus Tremando]]
-- [[crum-dick-punch|Crum D*ck Punch]]
+- [[crum-dick-punch|Crum Dick Punch]]

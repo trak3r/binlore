@@ -53,6 +53,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 
 | Episode | Notes |
 |---------|-------|
+| [[episodes/2026-09-07|2026-09-07]] | Opens the Season 3 finale from the Producer Cam; leads the broadcast sign-off song and offers to consume any loose skin from Munch following the studio inferno. |
 | [[episodes/2026-09-02|2026-09-02]] | Delivers the station sign-on: *"I'm Pepito, I'm the dog that produces the show, and now it is live, and I'm a dog."* |
 | [[episodes/2026-09-04|2026-09-04]] | Opens the broadcast; later in the evening commandeers the Producer Cam to demand an entire bag of sangria for Labor Day weekend while Blackwell is away. Clarifies that he does not perform tricks for viewers. |
 | [[episodes/2026-09-01|2026-09-01]] | Executes the top-of-hour station sign-on and production countdown. |

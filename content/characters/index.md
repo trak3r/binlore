@@ -60,4 +60,4 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/trip-bradstein|Trip Bradstein]] | Field Correspondent | Park-dwelling field correspondent broadcasting from the bushes and interviewing park visitors for their audience-submitted opinions |
 | [[characters/nixon|Richard Nixon]] | Historical Figure (Satirized) | 37th US President cited as the gold standard of "competent corruption" in executive power comparisons |
 
-See also: [[../storylines/crum-dick-punch|Crum D*ck Punch]], [[../segments/munch-and-crum|Munch & Crum]].
+See also: [[../storylines/crum-dick-punch|Crum Dick Punch]], [[../segments/munch-and-crum|Munch & Crum]].
