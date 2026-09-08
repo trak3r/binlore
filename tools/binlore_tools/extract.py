@@ -11,7 +11,7 @@ from typing import Any
 
 import httpx
 
-from .canon import format_canon_for_prompt, load_wiki_canon
+from .canon import format_canon_for_prompt, is_core_network_character, load_wiki_canon
 from .paths import CONTENT_EPISODES, REPO_ROOT, RUNS_DIR, TOOLS_ROOT
 
 
@@ -471,14 +471,22 @@ def extract_lore_from_vod(
 
     transcript_text = format_transcript_for_prompt(run_dir)
     canon = load_wiki_canon()
-    canon_text = format_canon_for_prompt()
+    canon_text = format_canon_for_prompt(core_characters_only=True)
     user_prompt = build_user_prompt(meta, canon_text, transcript_text)
 
-    char_names = [c.name for c in canon.get("characters", [])]
+    all_chars = canon.get("characters", [])
+    core_chars = [c for c in all_chars if is_core_network_character(c)]
+    omitted_count = len(all_chars) - len(core_chars)
+    core_names = [c.name for c in core_chars]
+
     print(f"\n--- [Binlore Lore Extraction] ---")
     print(f"Target VOD: {vod_id} ({meta.get('title', 'Unknown')})")
     print(f"Transcript: {len(transcript_text):,} chars (~{len(transcript_text)//4:,} tokens)")
-    print(f"Canon roster loaded: {len(char_names)} characters ({', '.join(char_names)})")
+    print(
+        f"Canon roster: {len(core_chars)} core recurring characters "
+        f"({omitted_count} one-offs/public figures omitted from prompt)"
+    )
+    print(f"Core talent: {', '.join(core_names)}")
 
     if dry_run:
         print("\n--- [DRY RUN: Prompt Preview] ---")

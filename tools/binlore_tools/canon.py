@@ -17,6 +17,7 @@ class CanonEntity:
     aliases: list[str] = field(default_factory=list)
     status: str = ""
     summary: str = ""
+    tags: list[str] = field(default_factory=list)
     file_path: Path | None = None
 
 
@@ -77,6 +78,7 @@ def load_canon_entities(directory: Path, entity_type: str) -> list[CanonEntity]:
         name = str(frontmatter.get("title") or md_path.stem)
         aliases = [str(a) for a in (frontmatter.get("aliases") or [])]
         status = str(frontmatter.get("status") or "")
+        tags = [str(t) for t in (frontmatter.get("tags") or [])]
 
         summary = _clean_summary(body)
 
@@ -87,10 +89,36 @@ def load_canon_entities(directory: Path, entity_type: str) -> list[CanonEntity]:
                 aliases=aliases,
                 status=status,
                 summary=summary,
+                tags=tags,
                 file_path=md_path,
             )
         )
     return entities
+
+
+def is_core_network_character(char: CanonEntity) -> bool:
+    """
+    Returns True if character is a core recurring show persona rather than a public figure or one-off guest.
+    Prompts only include core network cast/talent to conserve prompt tokens and prevent
+    confusing LLM with external news subjects.
+    """
+    status_lower = (char.status or "").lower()
+    # Omit satirized public and historical figures
+    if any(k in status_lower for k in ("public figure", "historical figure", "satirized")):
+        return False
+
+    # Omit guests and call-ins
+    if any(k in status_lower for k in ("guest", "call-in")):
+        return False
+
+    # Check tags
+    tags_lower = [t.lower() for t in char.tags]
+    if any(t in ("parody", "politics", "celebrity", "biohacking", "historical", "guest", "call-in") for t in tags_lower):
+        # Lincoln is an exception: an in-universe costumed desk persona / referee
+        if "abraham" not in char.name.lower():
+            return False
+
+    return True
 
 
 def load_wiki_canon() -> dict[str, list[CanonEntity]]:
@@ -101,12 +129,16 @@ def load_wiki_canon() -> dict[str, list[CanonEntity]]:
     }
 
 
-def format_canon_for_prompt() -> str:
+def format_canon_for_prompt(*, core_characters_only: bool = True) -> str:
     canon = load_wiki_canon()
     sections: list[str] = []
 
-    sections.append("### Known Characters")
-    for char in canon["characters"]:
+    characters = canon["characters"]
+    if core_characters_only:
+        characters = [c for c in characters if is_core_network_character(c)]
+
+    sections.append("### Known Recurring Characters")
+    for char in characters:
         alias_str = f" (aliases: {', '.join(char.aliases)})" if char.aliases else ""
         status_str = f" [{char.status}]" if char.status else ""
         sections.append(f"- **{char.name}**{alias_str}{status_str}: {char.summary}")

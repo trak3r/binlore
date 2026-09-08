@@ -307,31 +307,30 @@ def create_character_page(
     # Mandatory character picture embed per wiki conventions
     img_tag = f"![{name} on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/{slug}.jpg)\n\n"
 
-    # Check for real-life public figures / politicians needing CYA verbiage
+    # Check for real-life public figures / politicians: do not auto-create character pages for external public figures
     is_public_figure = any(
         k in lower_notes
-        for k in ("senator", "president", "politician", "public figure", "secretary of", "vice president", "biohacker")
+        for k in (
+            "senator", "president", "politician", "public figure", "secretary of",
+            "vice president", "biohacker", "prime minister", "minister", "governor",
+            "congressman", "representative"
+        )
     ) or any(
         k in lower_name
-        for k in ("trump", "vance", "mcconnell", "graham", "hegseth", "biden", "nixon", "johnson", "neill")
+        for k in (
+            "trump", "vance", "mcconnell", "graham", "hegseth", "biden", "nixon",
+            "johnson", "neill", "starmer"
+        )
     )
 
     if is_public_figure:
-        cya_block = (
-            "> [!warning] Satirical Disclaimer & Public Figure Notice\n"
-            "> This page documents satirical news commentary, comedic impersonations, or running broadcast parodies featured on *Barely Informed News*. "
-            "The real-life individual is a public figure and is neither an employee, contributor, nor affiliate of *Barely Informed News*. "
-            "All depictions, quotes, and comedic storylines are works of parody and political satire. "
-            "See also the [[../disclaimer|Legal & Fan Disclaimer]].\n\n"
-        )
-        intro_lead = f"**{name}** is a real-world public figure frequently covered, satirized, and lampooned on *Barely Informed News*."
-        status_tag = "public figure (satirized)"
-        index_role = "Public Figure (Satirized)"
-    else:
-        cya_block = ""
-        intro_lead = f"**{name}** is a persona and contributor featured on *Barely Informed News*."
-        status_tag = "recurring"
-        index_role = "recurring"
+        # Do not auto-create character wiki pages for real-world politicians or news subjects
+        return None
+
+    cya_block = ""
+    intro_lead = f"**{name}** is a persona and contributor featured on *Barely Informed News*."
+    status_tag = "recurring"
+    index_role = "recurring"
 
     content = f"""---
 title: {name}
@@ -529,7 +528,7 @@ def update_wiki_from_extraction(
             updated = update_character_file(char_file, ep_slug, notes, facts, dry_run=dry_run)
             if updated:
                 report.characters_updated.append(char_file.stem)
-        elif auto_create_characters and (speaking or confidence >= 0.85):
+        elif auto_create_characters and speaking and confidence >= 0.85:
             if slug in ("case-blackwell", "case"):
                 continue
             new_file = create_character_page(name, slug, ep_slug, notes, facts, dry_run=dry_run)
