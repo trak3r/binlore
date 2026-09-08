@@ -41,9 +41,11 @@ His signature broadcast mission is "singing the news"—specifically fast-tracki
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-07-23|2026-07-23]] | Broadcast debut. Emerged from under the desk with electric blue hair and sunglasses, laid down techno tracks, and sang auto-tuned news regarding South Korean insect culinary regulations. |
+| [[episodes/2026-06-19|2026-06-19]] | Signature closing segment performing auto-tuned techno songs while presenting updated statistics and concluding the broadcast. |
 
 ## Notable Quotes
 

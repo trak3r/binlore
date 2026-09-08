@@ -31,9 +31,11 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 
 ## Appearances
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-06-29|2026-06-29]] | Debuts after emerging from a two-month bush hibernation. Conducts [[../segments/trip-on-the-street|Trip on the Street]] interviews with park visitors on audience-submitted topics, interviewing his mother (confusing her for a stranger), Hype Train, an aggressive DVD salesman, and a George W. Bush impersonator. |
+| [[episodes/2026-06-19|2026-06-19]] | Field correspondent stationed in public parks conducting on-the-spot interviews with passersby. |
 
 ## Notable moments
 

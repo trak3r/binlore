@@ -41,6 +41,7 @@ Lead anchor [[../characters/case-blackwell|Case Blackwell]] presides over the an
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | 12:21 | Season 3 Finale News Block: Coverage of the White House Lanterns trailer, Confederate memorial policies, Trump's defense of AI data centers ('have fun being poor'), GPT-6 Astro beating Portal, Ben Hooper UPI dispatches, and an orangutan vs sumo wrestler archive clip. |
@@ -64,3 +65,4 @@ Lead anchor [[../characters/case-blackwell|Case Blackwell]] presides over the an
 | [[episodes/2026-06-29|2026-06-29]] | 01:21:33 | Supreme Court, Massage Guns & Dinosaurs in Drawers: Case covers the Supreme Court rejecting Trump's bid to fire Fed governor Lisa Cook while expanding presidential powers, ongoing Iran conflict dispatches, a Scottish man who damaged his eyes with a massage gun, a 40-year-old Antarctic titanosaur fossil found in a drawer, a Michigan kitten with 28 toes, a bear in a car trunk, the Domino's fastest pizza maker, and a Fourth of July flirting study. Also discusses merch shop launch plans and Crum/Munch-themed shirt possibilities. |
 | [[episodes/2026-06-27|2026-06-27]] | 49:45 | Ceasefire Irony & Chat Dispatches: Condensed news desk. Stories include: US striking Iran in the Strait of Hormuz despite MOUs; Trump's viral clip proposing free rent/houses ('Luxury Communism' coming to NYC); JD Vance clips comparing Nixon to Trump ('seems fine'); the Kate Adams 'feet in the news' NASCAR incident; a 1-month-old pony in Croatia surviving by suckling; the Iran vs Egypt Pride match in Seattle; and the Montana banana car police stop. |
 | [[episodes/2026-06-22|2026-06-22]] | 24:20 | Starmer Resigns, Iran Ceasefire Chaos & Beaver Flood Heroes: Case covers Keir Starmer's resignation as Labour leader, ongoing Iran-Israel ceasefire negotiations with JD Vance involved, Trump's reflecting pool Truth Social posts, and a heartwarming story about beavers controlling urban flooding in London. Also touches on Steam Deck pricing and vaccine coverage. |
+| [[episodes/2026-06-19|2026-06-19]] | 01:00 | Breaking Middle East & Domestic News: Live news coverage focuses on the Israel-Hezbollah ceasefire in Lebanon, Israeli military actions, and broader regional tensions. The segment includes discussions about Juneteenth coverage and the impact of geopolitical conflicts on daily life. |

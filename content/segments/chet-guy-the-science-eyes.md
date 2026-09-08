@@ -37,6 +37,7 @@ Chet conducts deep-dive inquiries into peer-reviewed medical publications, anato
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 1:03:22 | Desk slips and says "scientists." Chet and [[../characters/chet-ai|ChetAI]] investigate a Brazilian Journal of Plastic Surgery proportion study, delivering the academic consensus that "all boobs is good." |
@@ -45,3 +46,4 @@ Chet conducts deep-dive inquiries into peer-reviewed medical publications, anato
 | [[episodes/2026-07-23|2026-07-23]] | 19:37 | Chet Activates on Injury Assessment: Chief Science Correspondent Chet spontaneously activates upon Case mentioning 'skiantist' to provide medical commentary on the swollen ankle, advising mega man leg feet and thick chains. Chet reveals he has not yet set up his Medicare direct deposit despite two years of broadcasting. |
 | [[episodes/2026-07-17|2026-07-17]] | 01:34:39 | Dr. Chet Therapy Session & Twitch Partner Application: Triggered when Chet arrives in a military-grade therapist persona ('Dr. Chath'). Diagnoses AI Psychosis in the populace from releasing the spirit of Andy Rooney. Hints Peter Gibbon may have taken Stephanie to the wall. Reviews Crum's laugh and recommends an angled bucket for male pattern baldness. Blackwell checks the Twitch Partner achievement (0 of 6, needs 75 average viewers, currently at ~72). Munch pipes in via Ninja Dragon Riders. Chet teaches dance, demands a perm, then bills at $500 an hour. |
 | [[episodes/2026-07-11|2026-07-11]] | 01:32:26 | Dr. Cheth: Therapy & Looks Maxing: Following the self-trigger of 'science,' Chief Science Correspondent Chet (Chet Manscape) arrives disguised as 'Dr. Cheth' to conduct an unlicensed therapy session via a digital avatar. He critiques Case's haircut, forbids the injection of gold into the veins, and acts as a relationship advisor. The segment ends with Chet endorsing Case's new look as a successful disguise to avoid JD Vance comparisons. |
+| [[episodes/2026-06-19|2026-06-19]] | 18:00 | Investigative Science Desk: Chief Science Correspondent Chet Manscape leads a specialized segment investigating scientific claims and medical research. The segment features Chet deploying a high-powered microscope and consulting synthetic AI co-host ChetAI for analysis. |

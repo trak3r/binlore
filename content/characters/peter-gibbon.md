@@ -38,6 +38,7 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-04|2026-09-04]] | Crawls out of the studio walls to seize the broadcast desk: *"Looks like you couldn't keep me away forever. Back again it's Peter Gibbon."* Reads the news bulletin, plays music tracks from a controversial cult, and anchors the viral video review desk. |
@@ -46,6 +47,7 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2026-07-24|2026-07-24]] | Takes over Jeff Ripple's news reading duties during the pre-show segment. Later hosts the Streets segment, fielding callers (Trippy B, Dale Huffy, and Avatar), confirms he never left the walls, references interdimensional wall portals, and spills battery acid on his way out. |
 | [[episodes/2026-07-17|2026-07-17]] | News stowaway. Chet hinted he may have 'taken Stephanie to the wall'; Dr. Chath also noted Don will live in a wall for years for a bit. |
 | [[episodes/2026-06-22|2026-06-22]] | Mentioned in reference to 'Leave it to Peter, starring Peter Gibbon' during merch discussion. |
+| [[episodes/2026-06-19|2026-06-19]] | Former producer now residing in the studio walls, occasionally interrupting segments with commentary. |
 
 ## Notable moments
 

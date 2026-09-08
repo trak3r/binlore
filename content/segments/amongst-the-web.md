@@ -37,6 +37,7 @@ The audience-interactive viral media review desk on *Barely Informed News*.
 
 
 
+
 | Episode | Timestamp | Notes |
 |---|---|---|
 | [[../episodes/2026-09-04|2026-09-04]] | 01:08:14 | Former producer [[../characters/peter-gibbon|Peter Gibbon]] commandeers the desk to review viral clips alongside Case before Blackwell provides an executive update on Crum's impending robotic gorilla forfeit. |
@@ -48,3 +49,4 @@ The audience-interactive viral media review desk on *Barely Informed News*.
 | [[episodes/2026-07-24|2026-07-24]] | 57:52 | Amongst the Web: Bowie Shoes, Robot Falls & Kyle Gordon: Case transitions to Amongst the Web, reviewing viewer-submitted clips: David Bowie shoe footage earning a nine, a stunt performer gaining an 'extra leg' in mid-air rated 9.8, a Trump clip with bold masking, a robot falling into a shame tarp receiving high marks, a World Cup clip, and a Kyle Gordon performance with South African intervention. Case reveals his own album also contains 'never get taught your soul' lyrics, noting he releases approximately 3,000 songs per day. |
 | [[episodes/2026-07-23|2026-07-23]] | 55:38 | Theatrical Trailer Roundup: Trailer review segment covering the Stranger Things stage play recording, Resident Evil, Avengers Doomsday, Hattie's Town, and Clayface. Case reacts to Bradley Cooper reprising Rocket. The segment is abruptly interrupted by a Twitch suspension for policy violations, suspected to be triggered by weapons shown in the trailers. Case notes the network reputation value is currently sitting at $30. |
 | [[episodes/2026-06-29|2026-06-29]] | 01:42:35 | Jeff Ripple's Whale Bone Era & Viewer Submissions: Co-hosted by a chaotic Jeff Ripple in his 'Jam EFE era,' reviewing viewer-submitted videos including a chair banshee scream compilation, an arcade coin drop, a prize-winning hog watch, a human practitioner of the piss genre, a CPS-style video, a Florida farm animal last vision, a kid attempting to dunk on an 8'10" hoop, and more. |
+| [[episodes/2026-06-19|2026-06-19]] | 45:00 | Viral Media Review: On-air debate desk evaluating viral content submitted by viewers. The segment features live polls, audience voting, and critical analysis of trending internet memes and media trends. |

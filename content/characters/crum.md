@@ -45,6 +45,7 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | Steps up to face the long-delayed Rock-afire Gorilla execution during the Season 3 finale. Reveals his physical conditioning included swinging 45-pound logs into his groin. Survives a catastrophic mechanical explosion that destroys the gorilla and burns Munch into a talking skeleton, claiming ultimate victory. |
@@ -63,8 +64,10 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 | [[episodes/2026-07-11|2026-07-11]] | Senior debate analyst; criticizes Case's haircut, references his father's dealership, and flees after a debate over political violence. |
 | [[episodes/2026-06-29|2026-06-29]] | Mentioned repeatedly. Case notes he is 'using help hours to silence chat' and wonders if he'll be 'in a honey sack' during the stream. Crum goat suggested as a potential first merch design, with 'Crum' winning the chat shirt vote (genital slit). |
 | [[episodes/2026-06-27|2026-06-27]] | Senior debate analyst. Interjects from the satellite room to rap with the Hype Train and debate Reggae vs Emo. |
+| [[episodes/2026-06-19|2026-06-19]] |  |
 
 ## Notable moments
+
 
 
 
@@ -104,3 +107,5 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 - **[01:29:56]** ([[episodes/2026-07-11|2026-07-11]]): Crumb advocates for the assassination of political enemies, citing electoral failures as justification for replacing 'electoralism' with 'assassination'.
 - **[01:00:01]** ([[episodes/2026-06-29|2026-06-29]]): Case floated potential merch designs of 'a Munch shirt and a Crum shirt' so fans 'can pick your side.'
 - **[01:20:28]** ([[episodes/2026-06-27|2026-06-27]]): Dick punching is not a recognized sport anywhere but Nevada. It was historically an 18th-century circus attraction that was struck from history to prevent teenagers from doing it 'rainbow party style'. Crum is currently seeking a 'Nevada dick punching license' from the Gaming Commission.
+- **[09:08]** ([[episodes/2026-06-19|2026-06-19]]): Crum's D*ck Punch wager against Munch was the defining political storyline of the recent period, reaching its explosive conclusion on September 7, 2026.
+- **[06:00]** ([[episodes/2026-06-19|2026-06-19]]): Crum is a political counterweight to Munch, distinguished by his hollow-eyed demeanor and tendency toward gambling-related controversies.
