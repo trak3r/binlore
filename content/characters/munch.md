@@ -34,6 +34,7 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | Oversees the long-delayed Rock-afire Gorilla execution against Crum. Caught in the catastrophic backblast when the machine explodes, incinerating him into a living, talking skeleton. Insists his skeletal form highlights superior bone structure, debates Crum on Crayola vs. RoseArt, and promises to haunt the desk indefinitely. |
@@ -48,8 +49,10 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 | [[episodes/2026-07-11|2026-07-11]] | Senior debate analyst; briefly interrupts the set to escalate the conflict and question Crumb's financial standing. |
 | [[episodes/2026-06-29|2026-06-29]] | Mentioned as a possible matching shirt for the upcoming BIN merch drop ('a Munch shirt and a Crum shirt'). |
 | [[episodes/2026-06-19|2026-06-19]] |  |
+| [[episodes/2026-06-18|2026-06-18]] | Senior debate analyst. Disheveled silver hair. Defends improv as valid art form. Reveals eight years improv training (1991-1998) including class with Anchorman extra. Proud Democrat. |
 
 ## Notable moments
+
 
 
 - **[01:50:38]** ([[episodes/2026-09-07|2026-09-07]]): Incinerated by the explosive backfire of the Rock-afire mechanical gorilla during the climax of the Crum Dick Punch execution, transforming into an animated, talking skeleton.
@@ -69,3 +72,4 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 - **[01:21:51]** ([[episodes/2026-07-11|2026-07-11]]): Crum's official entrance protocol on the set involves demanding his coat back from Case, which Case routinely confiscates.
 - **[01:29:56]** ([[episodes/2026-07-11|2026-07-11]]): Crumb advocates for the assassination of political enemies, citing electoral failures as justification for replacing 'electoralism' with 'assassination'.
 - **[06:00]** ([[episodes/2026-06-19|2026-06-19]]): Munch is a senior debate analyst known for his disheveled appearance and combative political stance, frequently clashing with Crum in televised debates.
+- **[01:14:00]** ([[episodes/2026-06-18|2026-06-18]]): Completed approximately eight years of improv training between 1991-1998; took class with actor later cast as extra in Anchorman.

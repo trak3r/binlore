@@ -42,6 +42,7 @@ While officially tasked with acknowledging viewer contributions and network patr
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | 36:43 | Jeans Rap & Tombstone Last Words: Hype Train intercepts the broadcast on a futuristic synthwave beat, delivering an impassioned freestyle about wearing denim jeans with his girls, Roman urine laundering, and debating what his final words on a tombstone would be. |
@@ -62,3 +63,4 @@ While officially tasked with acknowledging viewer contributions and network patr
 | [[episodes/2026-06-27|2026-06-27]] | 08:42 | The Level 10 Emo Hype Train Siege: A massive hype train surge hits the network. Hype Train freestyles over increasingly chaotic emo beats ('I miss my eggs', 'I told my parents to blow up their eggs with the nuclear'). Crum unexpectedly inserts himself from the satellite room to defend the train's lyrical style. Hype Train achieves a rare Level 10 status, prompting a swirling vortex skeleton animation and a mariachi trap beat. The segment ends with Hype Train attempting to serenade 'Belulia' and Crum playfully roasting him. |
 | [[episodes/2026-06-22|2026-06-22]] | 00:08 | Pepito Intro & Phantom Hype Crane: Pepito opens the show from the producer cam, rambles about subs, time travel, and a phantom 'hype crane' that may or may not exist. Features cat projections, merch discussion, and a brief mention of Operation Epic Furious Straight. |
 | [[episodes/2026-06-19|2026-06-19]] | 21:00 | Musical & Cultural Interruption: High-energy musical performance by Hype Train accompanied by propane-powered visual effects. The segment includes rap verses, cultural commentary, and cryptocurrency-themed commentary. |
+| [[episodes/2026-06-18|2026-06-18]] | 00:10 | Pepito Intro, Hype Train Lawn Dispute & Bart Inventory: Executive producer Pepito opens from Case's house after a mover error. Hype Train triggers early, debating lawn maintenance philosophy involving oil, urine, and intercourse. Case reviews viewer-submitted 'Bart' sticker designs ahead of Friday print deadline. |

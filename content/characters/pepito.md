@@ -53,6 +53,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | Opens the Season 3 finale from the Producer Cam; leads the broadcast sign-off song and offers to consume any loose skin from Munch following the studio inferno. |
@@ -77,8 +78,10 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-27|2026-06-27]] | Executive producer of Barely Informed News. |
 | [[episodes/2026-06-22|2026-06-22]] | Executive producer opening the broadcast from the producer cam, thanking subscribers and rambling about various topics. |
 | [[episodes/2026-06-19|2026-06-19]] |  |
+| [[episodes/2026-06-18|2026-06-18]] | Executive producer; appears via Producer Cam as canine broadcast executive. Broadcasts from Case's house after moving company error. |
 
 ## Notable moments
+
 
 
 
@@ -111,3 +114,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[27:26]** ([[episodes/2026-07-13|2026-07-13]]): Maintains a 'weird sandpit' within the studio grounds that was searched (unsuccessfully) for Mitch McConnell.
 - **[00:00:10]** ([[episodes/2026-06-29|2026-06-29]]): Executive producer opens every broadcast with his signature 'I'm the dog that produces the show' introduction.
 - **[00:08]** ([[episodes/2026-06-22|2026-06-22]]): Pepito is the canine executive producer who opens the broadcast from the producer cam, thanking subscribers and providing station announcements. He mentions having 'light time travel' over the weekend that is 'kind of unresolved.'
+- **[15:00]** ([[episodes/2026-06-18|2026-06-18]]): Executive producer; canine broadcast executive appearing via Producer Cam. Accidentally relocated to Case's house by moving company while Pepito 3000 unit was condemned.

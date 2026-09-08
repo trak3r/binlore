@@ -35,6 +35,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-08-06|2026-08-06]] | In-studio contributor appearing intermittently. Debuts briefly before ghosting off-camera, later returns to announce she has already started playing *BigWog* without Blackwell. |
@@ -46,6 +47,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-06-27|2026-06-27]] | Mentioned by Blackwell when discussing having to leave the broadcast early for a date night. |
 | [[episodes/2026-06-22|2026-06-22]] | On-air contributor who appears as a ghost during the therapy segment, walking through the studio to her own signature theme music. |
 | [[episodes/2026-06-19|2026-06-19]] | Lead anchor and in-studio contributor who periodically enters the broadcast for signature segments. |
+| [[episodes/2026-06-18|2026-06-18]] | Lead anchor's girlfriend and on-air contributor. Co-hosting upcoming 'Say With Me' podcast testing billionaire routines (Kim Kardashian routine). Walks through studio to signature theme music. |
 
 ## Notable moments
 

@@ -60,5 +60,6 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/trip-bradstein|Trip Bradstein]] | Field Correspondent | Park-dwelling field correspondent broadcasting from the bushes and interviewing park visitors for their audience-submitted opinions |
 | [[characters/nixon|Richard Nixon]] | Historical Figure (Satirized) | 37th US President cited as the gold standard of "competent corruption" in executive power comparisons |
 | [[characters/dr-chath|Dr. Chath]] | Minor-Character Therapist / Consultant | Eccentric counseling consultant presiding over the [[../segments/therapy\|Therapy]] desk, fielding viewer prompts and offering confusing wrestling and dance-based guidance |
+| [[characters/grand-man|Grand Man]] | recurring | Guest host for Amongst the Web |
 
 See also: [[../storylines/crum-dick-punch|Crum Dick Punch]], [[../segments/munch-and-crum|Munch & Crum]].
