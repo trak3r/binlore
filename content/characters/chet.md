@@ -44,8 +44,6 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2026-09-04|2026-09-04]] | Intervenes following coverage of The Family International cult; introduces upgraded blue-light protective eyewear, investigates cult propaganda tracks, and warns of cognitive AI vulnerabilities. |
 | [[episodes/2026-08-19|2026-08-19]] | Chief science correspondent deploying to the desk to investigate the smart underwear flatulence research. |
 | [[episodes/2026-07-23|2026-07-23]] | Chief Science Correspondent. Spontaneously activates upon hearing the 'skiantist' trigger to offer medical advice on Case's ankle, advising thick power calves and full body thick activation. Notes his lack of a fully operational medical license. |
-| [[episodes/2026-07-17|2026-07-17]] | Chief science correspondent appearing as 'Dr. Chath' in a military-grade therapist persona. Diagnosed AI Psychosis from released Andy Rooney spirit, hinted Peter Gibbon took Stephanie to the wall, billed at $500 an hour. |
-| [[episodes/2026-07-11|2026-07-11]] | Chief science correspondent disguised as 'Dr. Cheth'; appears on the studio monitor for a therapy session and looks maxing consultation. |
 | [[episodes/2026-06-19|2026-06-19]] |  |
 
 ## Notable moments
@@ -59,6 +57,4 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 - **[1:09:22]** ([[episodes/2026-09-02|2026-09-02]]): Delivers his definitive academic thesis on human aesthetics: "They're all fucking good... all of them is the good one."
 - **[01:37:50]** ([[episodes/2026-09-04|2026-09-04]]): Intervenes to investigate The Family International after Peter Gibbon broadcasts their audio track 'Cathy Don't Go.' Chet introduces upgraded eyewear that filters out harmful light spectra while complaining that studio music interference disrupted his focus.
 - **[21:48]** ([[episodes/2026-07-23|2026-07-23]]): Despite running the science desk for nearly two years, he does not have a fully active Medicare direct deposit or official medical license, though he considers his broadcast tenure sufficient qualification.
-- **[01:36:25]** ([[episodes/2026-07-17|2026-07-17]]): Chet diagnoses the studio with 'AI Psychosis' caused by releasing the spirit of Andy Rooney that had been trapped in the algorithm, infecting everyone within a hundred-mile radius. He claims he can 'suck all that soul back in' once he 'gets it up and running again.'
-- **[01:38:11]** ([[episodes/2026-07-17|2026-07-17]]): Chet operates a military-grade therapy persona ('Dr. Chath') and bills at $500 per hour, double Tommy Biglaw's rate. He recommends an angled bucket for male pattern baldness and prescribes dance as therapy.
 - **[03:00]** ([[episodes/2026-06-19|2026-06-19]]): Chet Manscape operates the Chet Guy the Science Eyes desk, utilizing advanced microscopy technology and AI-assisted analysis to investigate scientific claims presented by viewers.

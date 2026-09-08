@@ -45,7 +45,7 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2026-08-14|2026-08-14]] | Mentioned obliquely via the merged 'Kendelle' identity. The fused Crum/Gibbon entity announces 'I'm Kendelle now' and a breakup with 'Kate' during the final raid segment. |
 | [[episodes/2026-08-06|2026-08-06]] | Disgraced former producer / news stowaway. Mentioned as the chat-recommended winner of a 'cream team' poll regarding who would attend the nude restaurant. |
 | [[episodes/2026-07-24|2026-07-24]] | Takes over Jeff Ripple's news reading duties during the pre-show segment. Later hosts the Streets segment, fielding callers (Trippy B, Dale Huffy, and Avatar), confirms he never left the walls, references interdimensional wall portals, and spills battery acid on his way out. |
-| [[episodes/2026-07-17|2026-07-17]] | News stowaway. Chet hinted he may have 'taken Stephanie to the wall'; Dr. Chath also noted Don will live in a wall for years for a bit. |
+| [[episodes/2026-07-17|2026-07-17]] | News stowaway. Dr. Chath hinted he may have 'taken Stephanie to the wall'; Dr. Chath also noted Don will live in a wall for years for a bit. |
 | [[episodes/2026-06-22|2026-06-22]] | Mentioned in reference to 'Leave it to Peter, starring Peter Gibbon' during merch discussion. |
 | [[episodes/2026-06-19|2026-06-19]] | Former producer now residing in the studio walls, occasionally interrupting segments with commentary. |
 

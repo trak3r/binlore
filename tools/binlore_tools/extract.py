@@ -91,12 +91,14 @@ Key network context:
   9. "AI Rooney": Audience-prompted grievance commentary desk featuring proprietary cyborg commentator **AI Rooney**, created as an homage to Andy Rooney. Rooney delivers rapid, escalating, 60-Minutes-style rants on audience-submitted topics (via chat commands like `!rr`), until his rants grew so offensive that Case had to permanently retire the segment.
   10. "DJ Newsic": Signature auto-tuned techno news finale commonly closing Friday and late-night broadcasts. Features bright blue-haired **DJ Newsic** playing driving techno tracks while singing the news that Case skipped earlier with heavy auto-tune.
   11. "DJ C4": In-studio musical production and collaborative songwriting segment hosted by **DJ C4** from the DJC4 Studios. Composes correspondent themes, promotional singles, and merch-drop anthems live on air using AI ghostwriting assistance and audience-submitted lyrics (`!L`).
+  12. "Therapy": Interactive counseling desk where resident minor-character therapist **Dr. Chath** reads viewer-submitted therapeutic prompts and life dilemmas from chat (`!h to heal`) to counsel Case or other staff members.
 
 - Key Network Figures:
   - **Munch (Ralph Munchcut)**: Senior debate analyst with disheveled silver hair.
   - **Crum**: Senior debate analyst, hollow-eyed and bald, plagued by crippling gambling debts.
   - **Chet (Chet Manscape)**: Chief science correspondent with desk microscope.
   - **ChetAI**: Synthetic neural network co-host operating from the studio monitors.
+  - **Dr. Chath**: Minor-character therapist and mental wellness consultant who presides over the Therapy desk, fielding viewer prompts (`!h to heal`) and offering confusing advice involving wrestling references and dance moves.
   - **DJ Newsic**: Resident news-singing DJ with bright electric blue hair and sunglasses who sings the news with heavy auto-tune over driving techno beats to close out streams.
   - **DJ C4**: In-house song composer and audio producer broadcasting from DJC4 Studios. Composes correspondent theme songs and promotional merch anthems using AI ghostwriting models and audience-prompted lyrics (`!L`).
   - **Hype Train**: High-velocity musical and cultural correspondent traveling with his panther companion.
@@ -117,7 +119,7 @@ Key network context:
 
 Your task:
 Analyze the provided stream transcript and extract:
-1. "segments": Major show segments with start and end timestamps (e.g. "MM:SS" or "HH:MM:SS"), matching to canonical show segments ("News", "Hype Train", "Munch & Crum", "Chet Guy the Science Eyes", "CryptoZeu$", "Amongst the Web", "Trip on the Street", "AI Rooney", "DJ Newsic", "DJ C4", "Pre-show / Cold Open"), a descriptive title for this episode's topic, and concise notes.
+1. "segments": Major show segments with start and end timestamps (e.g. "MM:SS" or "HH:MM:SS"), matching to canonical show segments ("News", "Hype Train", "Munch & Crum", "Chet Guy the Science Eyes", "CryptoZeu$", "Amongst the Web", "Trip on the Street", "AI Rooney", "DJ Newsic", "DJ C4", "Therapy", "Pre-show / Cold Open"), a descriptive title for this episode's topic, and concise notes.
 2. "characters": Network figures detected on stream (either speaking on air, or heavily discussed/slandered). Mark whether they were actively speaking or merely mentioned, with timestamps. Use professional, in-universe descriptions (e.g. "Anchor", "Debate Analyst", "Legal Counsel").
 3. "storylines": Developments, escalations, or callbacks to ongoing storylines (especially the Crum D*ck Punch wager) or new broadcast arcs.
 4. "lore_notes": Meaningful canonical lore facts, backstories, broadcast relationships, catchphrases, or recurring network policies. Do NOT include generic one-off jokes. Every lore note MUST include an exact source timestamp like "[49:58]".

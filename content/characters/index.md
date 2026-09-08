@@ -59,6 +59,6 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/brian-johnson|Bryan Johnson]] | Public Figure (Satirized) | Longevity biohacker and "Don't Die" founder satirized for autoimmune diagnoses despite extreme age-reversal protocols |
 | [[characters/trip-bradstein|Trip Bradstein]] | Field Correspondent | Park-dwelling field correspondent broadcasting from the bushes and interviewing park visitors for their audience-submitted opinions |
 | [[characters/nixon|Richard Nixon]] | Historical Figure (Satirized) | 37th US President cited as the gold standard of "competent corruption" in executive power comparisons |
-| [[characters/dr-chath|Dr. Chath]] | recurring | Therapist providing confusing advice involving wrestling references, dance moves, and bizarre tangents during Case's therapy session |
+| [[characters/dr-chath|Dr. Chath]] | Minor-Character Therapist / Consultant | Eccentric counseling consultant presiding over the [[../segments/therapy\|Therapy]] desk, fielding viewer prompts and offering confusing wrestling and dance-based guidance |
 
 See also: [[../storylines/crum-dick-punch|Crum Dick Punch]], [[../segments/munch-and-crum|Munch & Crum]].

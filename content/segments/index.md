@@ -15,6 +15,7 @@ Signature programming and recurring newsroom desks across the *Barely Informed N
 | [[segments/chet-guy-the-science-eyes\|Chet Guy the Science Eyes]] | Investigative Science | Specialized science inquiry desk with laboratory optics and AI data synthesis |
 | [[segments/cryptozeus\|CryptoZeu$]] | Remote Dispatch | Live retro video game playthrough and digital culture desk |
 | [[segments/amongst-the-web\|Amongst the Web]] | Audience Interactive | Viewer-submitted viral media review hosted by Case Blackwell alongside rotating guest co-hosts |
+| [[segments/therapy\|Therapy]] | Mental Wellness & Counseling | Interactive counseling desk where resident minor-character therapist Dr. Chath fields viewer prompts to counsel Case and network talent |
 | [[segments/trip-on-the-street\|Trip on the Street]] | Remote Field Dispatch | Park-based "on the street" interview desk conducted from the bushes by Trip Bradstein on audience-submitted topics |
 | [[segments/ai-rooney\|AI Rooney]] | Audience Grievance (Retired) | 60-Minutes-style rants on viewer-submitted topics delivered by proprietary cyborg commentator AI Rooney until retired for offensive output |
 | [[segments/how-to-with-jeb\|How To with Jeb]] | Rogue Instructional | Unscheduled life skills and martial tutorials hosted by Jeb Nogget and his board-bound father |

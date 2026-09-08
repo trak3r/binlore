@@ -124,8 +124,10 @@ def _format_character_link(name: str) -> str:
         return "[[characters/chet-ai|ChetAI]]"
     if "chet" in slug or "manscape" in slug or "science" in slug or "skynce" in slug:
         return "[[characters/chet|Chet (Chet Manscape)]]"
-    if "cryptozeus" in slug or "brandon" in slug or "cryptozeu$" in slug:
+    if "cryptozeus" in slug or "cryptozeu" in slug or "brandon" in slug or "cryptozeu$" in slug:
         return "[[characters/cryptozeus|Brandon (CryptoZeu$)]]"
+    if "chath" in slug or "cheth" in slug:
+        return "[[characters/dr-chath|Dr. Chath]]"
     if "ripple" in slug or "hooper" in slug:
         return "[[characters/jeff-ripple|Jeff Ripple]]"
     if "pepito" in slug:
@@ -162,8 +164,10 @@ def _format_segment_link(name: str) -> str:
         return f"[[segments/hype-train|{name}]]"
     if "news" in slug:
         return f"[[segments/news|{name}]]"
-    if "cryptozeus" in slug or "gaming" in slug or "cryptozeu$" in slug:
+    if "cryptozeus" in slug or "cryptozeu" in slug or "gaming" in slug or "cryptozeu$" in slug:
         return f"[[segments/cryptozeus|{name}]]"
+    if "therapy" in slug or "chath" in slug or "cheth" in slug:
+        return f"[[segments/therapy|{name}]]"
     if "chet" in slug or "science" in slug or "skynce" in slug:
         return f"[[segments/chet-guy-the-science-eyes|{name}]]"
     if "amongst" in slug or "web" in slug:
@@ -181,7 +185,7 @@ def _format_storyline_link(name: str) -> str:
     if target.exists():
         return f"[[storylines/{slug}|{name}]]"
     if any(k in slug for k in ("gorilla", "groin", "punch", "dick")):
-        return "[[storylines/crum-dick-punch|Crum D*ck Punch]]"
+        return "[[storylines/crum-dick-punch|Crum Dick Punch]]"
     if "scrotum" in slug or "merger" in slug:
         return "[[storylines/the-scrotum-merger|The Scrotum Merger]]"
     return name
