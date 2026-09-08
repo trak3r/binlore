@@ -398,7 +398,11 @@ def process_single_episode(
         else:
             try:
                 commit_msg = f"lore(episodes): process {s_date} - {s_title}"
-                subprocess.run(["git", "add", "content/"], cwd=REPO_ROOT, check=True, capture_output=True)
+                add_paths = ["content/"]
+                run_rel = str(run_dir.relative_to(REPO_ROOT))
+                if (REPO_ROOT / run_rel).exists():
+                    add_paths.append(run_rel)
+                subprocess.run(["git", "add", *add_paths], cwd=REPO_ROOT, check=True, capture_output=True)
                 subprocess.run(
                     ["git", "commit", "-m", commit_msg],
                     cwd=REPO_ROOT,
@@ -564,6 +568,17 @@ def run_batch_processing(
             # Ensure transient files cleaned up
             if _CURRENT_ACTIVE_RUN_DIR and _CURRENT_ACTIVE_RUN_DIR.exists():
                 clean_run_dir(_CURRENT_ACTIVE_RUN_DIR, force=True)
+            # Clean up incomplete episode stub if it contains placeholders (_TBD_),
+            # so content/ is not left in a dirty or misleading state
+            ep_file = CONTENT_EPISODES / f"{date_s}.md"
+            if ep_file.exists():
+                try:
+                    txt = ep_file.read_text(encoding="utf-8")
+                    if "- _TBD_" in txt:
+                        ep_file.unlink()
+                        logger.info(f"Cleaned up incomplete episode stub: content/episodes/{date_s}.md")
+                except Exception:
+                    pass
             failed_episodes.append((stream, err_msg))
 
         # Inter-episode cooldown delay
@@ -573,7 +588,18 @@ def run_batch_processing(
 
     elapsed = time.time() - start_time
     logger.info("=" * 65)
-    logger.info(f"BATCH RUN FINISHED in {elapsed / 60:.1f} minutes")
+    if failed_episodes and processed_count == 0:
+        logger.error(
+            f"BATCH RUN FAILED in {elapsed / 60:.1f} minutes (0/{len(unprocessed)} succeeded, {len(failed_episodes)} failed)"
+        )
+    elif failed_episodes:
+        logger.warning(
+            f"BATCH RUN FINISHED WITH FAILURES in {elapsed / 60:.1f} minutes "
+            f"({processed_count} succeeded, {len(failed_episodes)} failed)"
+        )
+    else:
+        logger.success(f"BATCH RUN COMPLETED SUCCESSFULLY in {elapsed / 60:.1f} minutes ({processed_count} processed)")
+
     logger.info(f"  Successfully processed: {processed_count}")
     logger.info(f"  Failed: {len(failed_episodes)}")
     logger.info(f"  Free disk space remaining: {get_free_disk_space_gb(RUNS_DIR):.2f} GB")

@@ -93,7 +93,7 @@ Copy the template configuration file:
 cp tools/.env.example tools/.env
 ```
 
-#### OpenRouter API Key (Required for LLM Lore Extraction)
+#### OpenRouter API Key & Model Configuration
 
 To extract segments, characters, and lore using OpenRouter (free models available):
 
@@ -101,6 +101,15 @@ To extract segments, characters, and lore using OpenRouter (free models availabl
 2. Add your key to `tools/.env`:
    ```bash
    OPENROUTER_API_KEY="sk-or-v1-your-key-here"
+   ```
+3. *(Optional)* Set a preferred extraction model in `tools/.env`:
+   ```bash
+   # Default is 'openrouter/free' (cascades across active free models with retry backoff)
+   OPENROUTER_MODEL="openrouter/free"
+   
+   # Or use cheap, reliable paid models (~$0.001/episode) with zero free-tier rate limits:
+   # OPENROUTER_MODEL="google/gemini-2.0-flash-001"
+   # OPENROUTER_MODEL="meta-llama/llama-3.3-70b-instruct"
    ```
 
 #### Hugging Face Token (Optional, Recommended for Cloud Servers)

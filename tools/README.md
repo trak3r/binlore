@@ -36,7 +36,7 @@ Copy the sample environment file:
 cp .env.example .env
 ```
 
-#### OpenRouter API Key (Required for Lore Extraction)
+#### OpenRouter API Key & Model Configuration
 
 To use `binlore extract` with OpenRouter (including free models):
 
@@ -46,6 +46,12 @@ To use `binlore extract` with OpenRouter (including free models):
    OPENROUTER_API_KEY=sk-or-v1-your-key-here
    ```
    *(Or export it in your shell: `export OPENROUTER_API_KEY=sk-or-v1-...`)*
+3. *(Optional)* Set a specific model:
+   ```bash
+   OPENROUTER_MODEL=openrouter/free
+   # Or a fast, inexpensive model (~$0.001/episode) with zero free-tier rate limits:
+   # OPENROUTER_MODEL=google/gemini-2.0-flash-001
+   ```
 
 #### Hugging Face Token (Optional, Recommended for Remote Servers)
 

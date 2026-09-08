@@ -14,16 +14,6 @@ import httpx
 from .canon import format_canon_for_prompt, load_wiki_canon
 from .paths import CONTENT_EPISODES, REPO_ROOT, RUNS_DIR, TOOLS_ROOT
 
-OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
-DEFAULT_MODEL = "openrouter/free"
-FALLBACK_MODELS = [
-    "nvidia/nemotron-3.5-lightning:free",
-    "nvidia/nemotron-3-super-120b-a12b:free",
-    "google/gemma-4-31b-it:free",
-    "google/gemma-4-26b-a4b-it:free",
-    "poolside/laguna-s-2.1:free",
-]
-
 
 def load_env() -> None:
     """Load .env from tools/.env or REPO_ROOT/.env if present."""
@@ -38,6 +28,23 @@ def load_env() -> None:
                 val = val.strip().strip("'\"")
                 if key not in os.environ:
                     os.environ[key] = val
+
+
+load_env()
+
+OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
+DEFAULT_MODEL = os.environ.get("OPENROUTER_MODEL", "openrouter/free")
+FALLBACK_MODELS = [
+    "google/gemma-4-31b-it:free",
+    "google/gemma-4-26b-a4b-it:free",
+    "nvidia/nemotron-3-super-120b-a12b:free",
+    "nvidia/nemotron-3.5-lightning:free",
+    "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "thinkingmachines/inkling:free",
+    "liquid/lfm-2.5-2.6b:free",
+    "poolside/laguna-s-2.1:free",
+    "poolside/laguna-xs-2.1:free",
+]
 
 
 def get_api_key() -> str:
@@ -214,8 +221,9 @@ def query_openrouter(
     api_key: str,
     models: list[str],
     timeout: float = 75.0,
+    max_retries_per_model: int = 2,
 ) -> tuple[dict[str, Any], str]:
-    """Query OpenRouter with SSE streaming, live progress ticker, and automatic fallback."""
+    """Query OpenRouter with SSE streaming, live progress ticker, rate-limit backoff, and automatic fallback."""
     headers = {
         "Authorization": f"Bearer {api_key}",
         "HTTP-Referer": "https://github.com/trak3r/binlore",
@@ -226,121 +234,142 @@ def query_openrouter(
     approx_prompt_tokens = len(prompt) // 4
     last_error: Exception | None = None
 
-    for model in models:
-        print(f"\n[OpenRouter] Trying model: {model} (timeout: {timeout:.0f}s)...", flush=True)
-        payload: dict[str, Any] = {
-            "model": model,
-            "messages": [
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": prompt},
-            ],
-            "temperature": 0.2,
-            "response_format": {"type": "json_object"},
-            "stream": True,
-        }
+    for model_idx, model in enumerate(models):
+        if model_idx > 0:
+            # Brief pause between models so rapid sequential requests don't trigger account rate limits
+            time.sleep(2.0)
 
-        start_time = time.time()
-        stop_heartbeat = threading.Event()
-        first_token_event = threading.Event()
+        for attempt in range(1, max_retries_per_model + 1):
+            retry_note = f" (attempt {attempt}/{max_retries_per_model})" if attempt > 1 else ""
+            print(f"\n[OpenRouter] Trying model: {model}{retry_note} (timeout: {timeout:.0f}s)...", flush=True)
+            payload: dict[str, Any] = {
+                "model": model,
+                "messages": [
+                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "user", "content": prompt},
+                ],
+                "temperature": 0.2,
+                "response_format": {"type": "json_object"},
+                "stream": True,
+            }
 
-        def heartbeat() -> None:
-            spinner = ["⠋", "⠙", "⠹", "⠸", "⠼", "⠴", "⠦", "⠧", "⠇", "⠏"]
-            idx = 0
-            while not stop_heartbeat.is_set() and not first_token_event.is_set():
-                elapsed = time.time() - start_time
-                spin = spinner[idx % len(spinner)]
-                sys.stdout.write(
-                    f"\r  {spin} Waiting for response (prefilling ~{approx_prompt_tokens:,} tokens)... {elapsed:.1f}s"
-                )
-                sys.stdout.flush()
-                idx += 1
-                time.sleep(0.12)
+            start_time = time.time()
+            stop_heartbeat = threading.Event()
+            first_token_event = threading.Event()
 
-        hb_thread = threading.Thread(target=heartbeat, daemon=True)
-        hb_thread.start()
+            def heartbeat() -> None:
+                spinner = ["⠋", "⠙", "⠹", "⠸", "⠼", "⠴", "⠦", "⠧", "⠇", "⠏"]
+                idx = 0
+                while not stop_heartbeat.is_set() and not first_token_event.is_set():
+                    elapsed = time.time() - start_time
+                    spin = spinner[idx % len(spinner)]
+                    sys.stdout.write(
+                        f"\r  {spin} Waiting for response (prefilling ~{approx_prompt_tokens:,} tokens)... {elapsed:.1f}s"
+                    )
+                    sys.stdout.flush()
+                    idx += 1
+                    time.sleep(0.12)
 
-        collected_text: list[str] = []
-        try:
-            # Enforce connect, read, write timeouts to avoid hanging sockets
-            # Use a bounded read timeout (e.g. 40s) so if the model hangs without transmitting packets, we failover
-            inactivity_timeout = min(float(timeout), 40.0)
-            client_timeout = httpx.Timeout(timeout, connect=20.0, read=inactivity_timeout, write=20.0, pool=10.0)
-            with httpx.Client(timeout=client_timeout) as client:
-                with client.stream("POST", OPENROUTER_API_URL, headers=headers, json=payload) as resp:
-                    if resp.status_code != 200:
-                        stop_heartbeat.set()
-                        hb_thread.join(timeout=0.5)
-                        err_text = resp.read().decode("utf-8", errors="replace")
-                        sys.stdout.write(f"\r  ✗ Model returned HTTP {resp.status_code}: {err_text[:180]}\n")
-                        sys.stdout.flush()
-                        last_error = RuntimeError(f"HTTP {resp.status_code}: {err_text}")
-                        continue
+            hb_thread = threading.Thread(target=heartbeat, daemon=True)
+            hb_thread.start()
 
-                    last_progress_ts = 0.0
-                    for line in resp.iter_lines():
-                        if not first_token_event.is_set() and (time.time() - start_time) > timeout:
-                            raise TimeoutError(f"Model {model} timed out waiting for first token after {timeout:.0f}s")
-                        if not line:
-                            continue
-                        line_str = line.strip()
-                        if not line_str.startswith("data:"):
-                            continue
-                        data_part = line_str[len("data:"):].strip()
-                        if data_part == "[DONE]":
-                            break
+            collected_text: list[str] = []
+            should_retry_same_model = False
+            try:
+                # Enforce connect, read, write timeouts to avoid hanging sockets
+                inactivity_timeout = min(float(timeout), 40.0)
+                client_timeout = httpx.Timeout(timeout, connect=20.0, read=inactivity_timeout, write=20.0, pool=10.0)
+                with httpx.Client(timeout=client_timeout) as client:
+                    with client.stream("POST", OPENROUTER_API_URL, headers=headers, json=payload) as resp:
+                        if resp.status_code != 200:
+                            stop_heartbeat.set()
+                            hb_thread.join(timeout=0.5)
+                            err_text = resp.read().decode("utf-8", errors="replace")
+                            last_error = RuntimeError(f"HTTP {resp.status_code}: {err_text}")
 
-                        try:
-                            chunk = json.loads(data_part)
-                        except Exception:
-                            continue
-
-                        choices = chunk.get("choices") or []
-                        if not choices:
-                            continue
-                        delta = choices[0].get("delta") or {}
-                        content_piece = delta.get("content")
-                        if content_piece:
-                            if not first_token_event.is_set():
-                                first_token_event.set()
-                                stop_heartbeat.set()
-                                hb_thread.join(timeout=0.5)
-
-                            collected_text.append(content_piece)
-                            now = time.time()
-                            if now - last_progress_ts > 0.15:
-                                last_progress_ts = now
-                                total_chars = sum(len(c) for c in collected_text)
-                                elapsed = now - start_time
+                            if resp.status_code in {429, 502, 503, 504} and attempt < max_retries_per_model:
+                                backoff = attempt * 6.0
                                 sys.stdout.write(
-                                    f"\r  ⚡ Streaming response: {total_chars:,} chars received ({elapsed:.1f}s)..."
+                                    f"\r  ⚠ Model {model} returned HTTP {resp.status_code} (upstream rate-limited or busy). "
+                                    f"Retrying in {backoff:.0f}s...\n"
                                 )
                                 sys.stdout.flush()
+                                time.sleep(backoff)
+                                should_retry_same_model = True
+                                break
+                            else:
+                                sys.stdout.write(f"\r  ✗ Model returned HTTP {resp.status_code}: {err_text[:180]}\n")
+                                sys.stdout.flush()
+                                break
 
-            stop_heartbeat.set()
-            hb_thread.join(timeout=0.5)
+                        last_progress_ts = 0.0
+                        for line in resp.iter_lines():
+                            if not first_token_event.is_set() and (time.time() - start_time) > timeout:
+                                raise TimeoutError(f"Model {model} timed out waiting for first token after {timeout:.0f}s")
+                            if not line:
+                                continue
+                            line_str = line.strip()
+                            if not line_str.startswith("data:"):
+                                continue
+                            data_part = line_str[len("data:"):].strip()
+                            if data_part == "[DONE]":
+                                break
 
-            full_content = "".join(collected_text).strip()
-            total_chars = len(full_content)
-            elapsed = time.time() - start_time
-            sys.stdout.write(
-                f"\r  ✓ Response complete: {total_chars:,} chars in {elapsed:.1f}s. Parsing JSON...      \n"
-            )
-            sys.stdout.flush()
+                            try:
+                                chunk = json.loads(data_part)
+                            except Exception:
+                                continue
 
-            if not full_content:
-                last_error = RuntimeError(f"Empty response from model {model}")
-                continue
+                            choices = chunk.get("choices") or []
+                            if not choices:
+                                continue
+                            delta = choices[0].get("delta") or {}
+                            content_piece = delta.get("content")
+                            if content_piece:
+                                if not first_token_event.is_set():
+                                    first_token_event.set()
+                                    stop_heartbeat.set()
+                                    hb_thread.join(timeout=0.5)
 
-            parsed = _parse_llm_json(full_content)
-            return parsed, model
+                                collected_text.append(content_piece)
+                                now = time.time()
+                                if now - last_progress_ts > 0.15:
+                                    last_progress_ts = now
+                                    total_chars = sum(len(c) for c in collected_text)
+                                    elapsed = now - start_time
+                                    sys.stdout.write(
+                                        f"\r  ⚡ Streaming response: {total_chars:,} chars received ({elapsed:.1f}s)..."
+                                    )
+                                    sys.stdout.flush()
 
-        except Exception as e:
-            stop_heartbeat.set()
-            hb_thread.join(timeout=0.5)
-            elapsed = time.time() - start_time
-            sys.stdout.write(f"\r  ✗ Model {model} failed after {elapsed:.1f}s: {e}\n")
-            sys.stdout.flush()
-            last_error = e
+                stop_heartbeat.set()
+                hb_thread.join(timeout=0.5)
+
+                full_content = "".join(collected_text).strip()
+                total_chars = len(full_content)
+                elapsed = time.time() - start_time
+                sys.stdout.write(
+                    f"\r  ✓ Response complete: {total_chars:,} chars in {elapsed:.1f}s. Parsing JSON...      \n"
+                )
+                sys.stdout.flush()
+
+                if not full_content:
+                    last_error = RuntimeError(f"Empty response from model {model}")
+                    break
+
+                parsed = _parse_llm_json(full_content)
+                return parsed, model
+
+            except Exception as e:
+                stop_heartbeat.set()
+                hb_thread.join(timeout=0.5)
+                elapsed = time.time() - start_time
+                sys.stdout.write(f"\r  ✗ Model {model} failed after {elapsed:.1f}s: {e}\n")
+                sys.stdout.flush()
+                last_error = e
+                if should_retry_same_model:
+                    continue
+                break
 
     raise RuntimeError(f"All candidate models failed. Last error: {last_error}")
 
