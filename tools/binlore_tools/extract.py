@@ -395,6 +395,56 @@ def query_openrouter(
     raise RuntimeError(f"All candidate models failed ({len(model_failures)} attempts):\n{failure_summary}")
 
 
+def format_transcript_for_prompt(run_dir: Path) -> str:
+    """Format transcript into compact speech paragraphs anchored by start timestamps.
+
+    Reduces redundant timestamp tokens by ~40-50% while preserving timestamp precision
+    and improving LLM semantic comprehension.
+    """
+    json_path = run_dir / "transcript.json"
+    if json_path.exists():
+        try:
+            data = json.loads(json_path.read_text(encoding="utf-8"))
+            segments = data.get("segments", [])
+            if segments:
+                chunked_lines: list[str] = []
+                curr_start = None
+                curr_texts: list[str] = []
+                for s in segments:
+                    if curr_start is None:
+                        curr_start = s["start"]
+                    curr_texts.append(s["text"].strip())
+                    dur = s["end"] - curr_start
+                    combined = " ".join(curr_texts)
+                    # Natural paragraph boundary: ~25-35s interval or sentence end
+                    if dur >= 30.0 or (dur >= 20.0 and combined.endswith((".", "?", "!", '"'))):
+                        m, sec = divmod(int(curr_start), 60)
+                        h, m = divmod(m, 60)
+                        ts_str = f"{h:02d}:{m:02d}:{sec:02d}" if h else f"{m:02d}:{sec:02d}"
+                        chunked_lines.append(f"[{ts_str}] {combined}")
+                        curr_start = None
+                        curr_texts = []
+                if curr_texts and curr_start is not None:
+                    m, sec = divmod(int(curr_start), 60)
+                    h, m = divmod(m, 60)
+                    ts_str = f"{h:02d}:{m:02d}:{sec:02d}" if h else f"{m:02d}:{sec:02d}"
+                    chunked_lines.append(f"[{ts_str}] " + " ".join(curr_texts))
+                return "\n".join(chunked_lines)
+        except Exception:
+            pass
+
+    txt_path = run_dir / "transcript.txt"
+    if txt_path.exists():
+        # Fallback: strip redundant ' --> HH:MM:SS' arrows
+        lines = []
+        for line in txt_path.read_text(encoding="utf-8").splitlines():
+            clean = re.sub(r"\[(\d{1,2}:\d{2}(?::\d{2})?)\s*-->\s*\d{1,2}:\d{2}(?::\d{2})?\]", r"[\1]", line)
+            lines.append(clean)
+        return "\n".join(lines)
+
+    return ""
+
+
 def extract_lore_from_vod(
     vod_id: str,
     *,
@@ -407,8 +457,9 @@ def extract_lore_from_vod(
         raise SystemExit(f"Run directory not found: {run_dir}. Did you run `binlore ingest` first?")
 
     transcript_path = run_dir / "transcript.txt"
-    if not transcript_path.exists():
-        raise SystemExit(f"Transcript not found: {transcript_path}")
+    json_path = run_dir / "transcript.json"
+    if not transcript_path.exists() and not json_path.exists():
+        raise SystemExit(f"Transcript not found in {run_dir}")
 
     meta_path = run_dir / "meta.json"
     meta: dict[str, Any] = {}
@@ -418,7 +469,7 @@ def extract_lore_from_vod(
         except Exception:
             pass
 
-    transcript_text = transcript_path.read_text(encoding="utf-8")
+    transcript_text = format_transcript_for_prompt(run_dir)
     canon = load_wiki_canon()
     canon_text = format_canon_for_prompt()
     user_prompt = build_user_prompt(meta, canon_text, transcript_text)

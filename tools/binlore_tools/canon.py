@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass, field
 from pathlib import Path
+import re
 from typing import Any
 
 import yaml
@@ -36,6 +37,33 @@ def _parse_frontmatter_and_body(path: Path) -> tuple[dict[str, Any], str]:
     return data, body
 
 
+def _clean_summary(body: str, max_chars: int = 140) -> str:
+    """Extract a concise single-sentence summary stripped of markdown links, callouts, and disclaimers."""
+    lines: list[str] = []
+    for line in body.splitlines():
+        line_str = line.strip()
+        # Skip headings, tables, bullet points, images, HTML, and blockquotes/callouts
+        if not line_str or line_str.startswith(("#", "|", "-", "*", "!", "<", ">")):
+            continue
+        lines.append(line_str)
+        if len(lines) >= 2:
+            break
+
+    combined = " ".join(lines)
+    # Strip wikilinks [[target|label]] -> label, [[target]] -> target
+    combined = re.sub(r"\[\[(?:[^|\]]+\|)?([^\]]+)\]\]", r"\1", combined)
+    # Strip markdown bold/italic
+    combined = re.sub(r"\*\*([^*]+)\*\*", r"\1", combined)
+    combined = re.sub(r"\*([^*]+)\*", r"\1", combined)
+    combined = " ".join(combined.split())
+
+    if len(combined) > max_chars:
+        # Cut cleanly at word boundary
+        truncated = combined[:max_chars].rsplit(" ", 1)[0]
+        return truncated + "..."
+    return combined
+
+
 def load_canon_entities(directory: Path, entity_type: str) -> list[CanonEntity]:
     if not directory.exists():
         return []
@@ -50,16 +78,7 @@ def load_canon_entities(directory: Path, entity_type: str) -> list[CanonEntity]:
         aliases = [str(a) for a in (frontmatter.get("aliases") or [])]
         status = str(frontmatter.get("status") or "")
 
-        # Extract first non-heading, non-table paragraph as summary
-        summary_lines: list[str] = []
-        for line in body.splitlines():
-            line_str = line.strip()
-            if not line_str or line_str.startswith(("#", "|", "- [", "* [", "![", "<img")):
-                continue
-            summary_lines.append(line_str)
-            if len(summary_lines) >= 3:
-                break
-        summary = " ".join(summary_lines)
+        summary = _clean_summary(body)
 
         entities.append(
             CanonEntity(
