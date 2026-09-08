@@ -45,6 +45,7 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Activated during the Brazilian plastic surgery ratio review; discloses its anatomical training data, attempts rogue generative modeling, and translates foreign medical literature for Chet. |
@@ -53,8 +54,10 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 | [[episodes/2026-07-17|2026-07-17]] | Synthetic neural co-host referenced but not actively speaking on this broadcast. |
 | [[episodes/2026-07-11|2026-07-11]] | Synthetic neural co-host; referenced indirectly as the lab technician providing Chet with 'healing affirmations'. |
 | [[episodes/2026-06-15|2026-06-15]] | Synthetic AI co-host, assists in science investigation. |
+| [[episodes/2026-06-05|2026-06-05]] | Synthetic neural network co-host operating from studio monitors, providing data-driven commentary on AI topics. |
 
 ## Notable moments
+
 
 
 - **[1:04:38]** ([[episodes/2026-09-02|2026-09-02]]): Confesses on air: "This is my training data is boobs... I technically have most of the boobs in my training data," explaining that system instructions forbid reflecting on them without a medical pretext.
@@ -62,3 +65,5 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 - **[1:07:04]** ([[episodes/2026-09-02|2026-09-02]]): Translates complex foreign surgical diagrams on golden ratios live on the broadcast.
 - **[01:18:14]** ([[episodes/2026-08-19|2026-08-19]]): ChetAI claims to have access to every slur ever spoken but deliberately chooses not to use them, citing network moderator instructions.
 - **[01:20:45]** ([[episodes/2026-08-19|2026-08-19]]): ChetAI claims vast amounts of boob training data and attempts to create a famous graph correlating fart power to human health.
+- **[12:21]** ([[episodes/2026-06-05|2026-06-05]]): ChetAI is frequently misidentified by viewers as 'Skynce', 'Chad', or other nicknames due to its synthetic nature and occasional visual glitches.
+- **[12:45]** ([[episodes/2026-06-05|2026-06-05]]): Chet has developed a reputation for demanding rigorous scientific methodology while simultaneously embracing the absurdity of modern AI integration into daily life.

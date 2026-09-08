@@ -41,6 +41,7 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | Streams *Intelligent Qube* (I.Q.) on PS1 emulation using keyboard controls after controller connection failures. Delivers a Labor Day sponsor dispatch for Gooters' $59.99 soggy cola-dipped chicken skins while fielding interruptions from his mother. |
@@ -60,6 +61,7 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-06-19|2026-06-19]] | Remote gaming correspondent providing retro gaming commentary and digital culture analysis. |
 | [[episodes/2026-06-15|2026-06-15]] | Gaming correspondent, plays random number game. |
 | [[episodes/2026-06-08|2026-06-08]] | Resident gaming correspondent. Remote from bedroom; battles N64 emulation, mother's screaming, and Glover's inverted controls. |
+| [[episodes/2026-06-05|2026-06-05]] | Gaming and digital culture correspondent broadcasting remotely from his bedroom studio. |
 
 ## Notable moments
 

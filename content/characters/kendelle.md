@@ -38,6 +38,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-08-06|2026-08-06]] | In-studio contributor appearing intermittently. Debuts briefly before ghosting off-camera, later returns to announce she has already started playing *BigWog* without Blackwell. |
@@ -52,6 +53,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-06-18|2026-06-18]] | Lead anchor's girlfriend and on-air contributor. Co-hosting upcoming 'Say With Me' podcast testing billionaire routines (Kim Kardashian routine). Walks through studio to signature theme music. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in birthday context, not actively speaking. |
 | [[episodes/2026-06-08|2026-06-08]] | Lead anchor's girlfriend, in-studio contributor. Brings machete, does laundry on camera, receives birthday shirt, mother celebrated. |
+| [[episodes/2026-06-05|2026-06-05]] | Lead anchor and on-air contributor who walks through the studio for signature segments. |
 
 ## Notable moments
 

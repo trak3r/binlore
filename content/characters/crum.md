@@ -49,6 +49,7 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | Steps up to face the long-delayed Rock-afire Gorilla execution during the Season 3 finale. Reveals his physical conditioning included swinging 45-pound logs into his groin. Survives a catastrophic mechanical explosion that destroys the gorilla and burns Munch into a talking skeleton, claiming ultimate victory. |
@@ -71,6 +72,7 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 | [[episodes/2026-06-18|2026-06-18]] | Senior debate analyst. Hollow-eyed, bald. Demands total abolition of improvisation. Suffers 36-year UTI causing acidic urine. Openly hates Irish people. Wife seeing therapist (referenced). Gambling debts canonical but not mentioned this episode. |
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity and Dick Punch wager. |
 | [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (hollow-eyed, bald). Argues for political decorum, reveals Dubai 'classified' social life, honey-bag therapy, claims penile conditioning for gorilla dick-punch. |
+| [[episodes/2026-06-05|2026-06-05]] | Senior debate analyst serving as Munch's primary political counterweight, known for gambling debts and blunt rhetoric. |
 
 ## Notable moments
 

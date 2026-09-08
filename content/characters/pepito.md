@@ -56,6 +56,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | Opens the Season 3 finale from the Producer Cam; leads the broadcast sign-off song and offers to consume any loose skin from Munch following the studio inferno. |
@@ -83,6 +84,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-18|2026-06-18]] | Executive producer; appears via Producer Cam as canine broadcast executive. Broadcasts from Case's house after moving company error. |
 | [[episodes/2026-06-15|2026-06-15]] | Executive producer, opens the show with birthday greetings. |
 | [[episodes/2026-06-08|2026-06-08]] | Executive producer (canine). Opens broadcast, manages raid, announces Pepito Moss July 6. |
+| [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 ## Notable moments
 

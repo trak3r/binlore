@@ -33,6 +33,7 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-06-29|2026-06-29]] | Activated as "Rooney 1.0" for audience prompts via `!rr`. Generates wildly unhinged complaints about *Wings*, Ninja Turtles, *Wrestling at the Chase*, Matt Ladel, and lizard linguistics, requiring Blackwell to mute him mid-response. |
@@ -42,6 +43,7 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 | [[episodes/2026-06-22|2026-06-22]] | Proprietary cyborg commentator delivering escalating grievance rants that include sexual content, racial references, and bizarre tangents about soup, cavemen, and wrestling before being muted by Case. |
 | [[episodes/2026-06-19|2026-06-19]] | Synthetic neural network co-host providing grievance commentary and audience feedback analysis. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of 'idiocracy' comment, retired segment. |
+| [[episodes/2026-06-05|2026-06-05]] | Cyborg commentator hosting the AI Rooney grievance machine segment, known for escalating rants and audience-focused criticism. |
 
 ## Notable moments
 

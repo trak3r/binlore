@@ -1,0 +1,510 @@
+{
+  "episode_summary": "Barely Informed News delivers its Casual Friday edition with a chaotic blend of breaking market news, heated political debate between Munch and Crum, and Chet's science investigation into bat biology. The stream features a surprise Hype Train interruption, CryptoZeu$'s retro gaming deep-dive, and a spirited Amongst the Web field segment with Trip Bradstein. The episode closes with DJ Newsic's auto-tuned news finale and DJ C4's thematic composition, maintaining the network's signature mix of political tension, scientific inquiry, and random musical interludes.",
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "08:39",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Pepito Intro & Studio Skeleton Bit",
+      "notes": "Executive producer Pepito introduces the show with a dog-themed monologue, while Kendall interacts with virtual VIP Pepito. The segment establishes the studio environment and sets the casual tone for the episode.",
+      "characters": [
+        "Pepito"
+      ]
+    },
+    {
+      "start": "08:59",
+      "end": "13:40",
+      "canonical_segment": "Munch & Crum",
+      "title": "Political Debate Showdown",
+      "notes": "Senior debate analysts Munch and Crum engage in a heated exchange focused on political dynamics, with Munch defending his position and Crum challenging him regarding the Crum Dick Punch wager and gambling debts.",
+      "characters": [
+        {
+          "name": "Munch (Ralph Munchcut)",
+          "canonical_name": "Munch (Ralph Munchcut)",
+          "speaking": true,
+          "timestamps": [
+            "08:39",
+            "10:29",
+            "11:11",
+            "12:21",
+            "13:40"
+          ],
+          "confidence": 0.95,
+          "notes": "Lead debate analyst with disheveled silver hair, known for confrontational style."
+        },
+        {
+          "name": "Crum (Leonard Crum)",
+          "canonical_name": "Crum (Leonard Crum)",
+          "speaking": true,
+          "timestamps": [
+            "08:39",
+            "10:29",
+            "11:54",
+            "13:40"
+          ],
+          "confidence": 0.92,
+          "notes": "Long-suffering political counterweight to Munch, distinguished by hollow eyes and constant gambling debt discussions."
+        }
+      ]
+    },
+    {
+      "start": "12:21",
+      "end": "13:40",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Science Investigation Desk",
+      "notes": "Chief Science Correspondent Chet leads a specialized science desk with his synthetic AI co-host ChetAI. The segment explores AI's growing influence on finance and entertainment, touching on ethical concerns about generative AI and speculative economic trends.",
+      "characters": [
+        {
+          "name": "Chet (Chet Manscape)",
+          "canonical_name": "Chet (Chet Manscape)",
+          "speaking": true,
+          "timestamps": [
+            "12:21",
+            "12:45",
+            "13:40"
+          ],
+          "confidence": 0.98,
+          "notes": "Chief science correspondent recognized by his specialized blue-light-filtering eyewear and laboratory microscope."
+        },
+        {
+          "name": "ChetAI",
+          "canonical_name": "ChetAI",
+          "speaking": true,
+          "timestamps": [
+            "12:21",
+            "12:45",
+            "13:40"
+          ],
+          "confidence": 0.85,
+          "notes": "Synthetic neural network co-host operating from studio monitors, providing data-driven commentary on AI's societal impact."
+        }
+      ]
+    },
+    {
+      "start": "13:40",
+      "end": "15:00",
+      "canonical_segment": "CryptoZeu$ Gaming Dispatch",
+      "title": "Retro Gaming Deep-Dive",
+      "notes": "Resident gaming correspondent Brandon (CryptoZeu$) conducts a detailed exploration of vintage DOS classics and retro simulation titles from his bedroom studio, blending nostalgic gameplay with commentary on the evolving gaming landscape.",
+      "characters": [
+        {
+          "name": "Brandon (CryptoZeu$)",
+          "canonical_name": "Brandon (CryptoZeu$)",
+          "speaking": true,
+          "timestamps": [
+            "13:40",
+            "14:02",
+            "14:45",
+            "15:00"
+          ],
+          "confidence": 0.96,
+          "notes": "Broadcasting remotely from his bedroom studio, focused on retro gaming content and digital culture."
+        }
+      ]
+    },
+    {
+      "start": "15:00",
+      "end": "17:14",
+      "canonical_segment": "Market Analysis",
+      "title": "Financial Markets Update",
+      "notes": "Case Blackwell delivers a detailed market briefing covering Wall Street's nine-week winning streak collapse, chip stock declines, and broader implications for AI-driven economies and tech sector volatility.",
+      "characters": [
+        {
+          "name": "Case Blackwell",
+          "canonical_name": "Case Blackwell",
+          "speaking": true,
+          "timestamps": [
+            "15:00",
+            "15:32",
+            "16:10",
+            "16:40",
+            "17:14"
+          ],
+          "confidence": 0.99,
+          "notes": "Lead anchor and managing editor who drives the core news desk with authoritative commentary."
+        }
+      ]
+    },
+    {
+      "start": "17:14",
+      "end": "18:26",
+      "canonical_segment": "Hype Train Interruption",
+      "title": "Musical Cultural Surge",
+      "notes": "A spontaneous Hype Train musical interruption erupts mid-segment, featuring retro synthwave beats, hamster-themed rhythms, and chaotic crowd reactions as the studio responds to the unexpected surge.",
+      "characters": [
+        {
+          "name": "Hype Train",
+          "canonical_name": "Hype Train",
+          "speaking": false,
+          "timestamps": [
+            "17:14",
+            "17:57",
+            "18:26"
+          ],
+          "confidence": 0.88,
+          "notes": "High-velocity musical and cultural correspondent responsible for acknowledging viewer contributions and broadcast milestones."
+        }
+      ]
+    },
+    {
+      "start": "18:26",
+      "end": "20:00",
+      "canonical_segment": "Munch & Crum Continuation",
+      "title": "Political Debate Follow-Up",
+      "notes": "The Munch & Crum debate continues with renewed intensity, focusing on the Crum Dick Punch wager and the consequences of gambling debts threatening their careers.",
+      "characters": [
+        {
+          "name": "Munch (Ralph Munchcut)",
+          "canonical_name": "Munch (Ralph Munchcut)",
+          "speaking": true,
+          "timestamps": [
+            "18:26",
+            "18:46",
+            "19:10"
+          ],
+          "confidence": 0.93,
+          "notes": "Persistent challenger to Crum's authority, frequently invoking past incidents like the Crum Dick Punch event."
+        },
+        {
+          "name": "Crum (Leonard Crum)",
+          "canonical_name": "Crum (Leonard Crum)",
+          "speaking": true,
+          "timestamps": [
+            "18:26",
+            "18:46",
+            "19:10"
+          ],
+          "confidence": 0.94,
+          "notes": "Counterpoint to Munch, emphasizing financial responsibility and career stability."
+        }
+      ]
+    },
+    {
+      "start": "20:26",
+      "end": "22:00",
+      "canonical_segment": "Science & Tech Roundup",
+      "title": "Technology & Innovation Review",
+      "notes": "Chet and ChetAI continue their investigation into emerging technologies, with Chet questioning the sustainability of AI integration in society and exploring the ethical dimensions of generative AI deployment.",
+      "characters": [
+        {
+          "name": "Chet (Chet Manscape)",
+          "canonical_name": "Chet (Chet Manscape)",
+          "speaking": true,
+          "timestamps": [
+            "20:26",
+            "21:12",
+            "22:00"
+          ],
+          "confidence": 0.97,
+          "notes": "Leads the science desk with analytical depth on technological trends."
+        },
+        {
+          "name": "ChetAI",
+          "canonical_name": "ChetAI",
+          "speaking": true,
+          "timestamps": [
+            "20:26",
+            "21:12",
+            "22:00"
+          ],
+          "confidence": 0.89,
+          "notes": "Provides computational analysis and translates complex technical data into accessible commentary."
+        }
+      ]
+    },
+    {
+      "start": "22:00",
+      "end": "23:20",
+      "canonical_segment": "Field Reporting",
+      "title": "On-Street Interviews",
+      "notes": "Trip Bradstein conducts remote 'man on the street' interviews from the bushes of a public park, gathering opinion-based content for the Amongst the Web segment while engaging with audience-submitted topics.",
+      "characters": [
+        {
+          "name": "Trip Bradstein",
+          "canonical_name": "Trip Bradstein",
+          "speaking": true,
+          "timestamps": [
+            "22:00",
+            "22:31",
+            "23:20"
+          ],
+          "confidence": 0.94,
+          "notes": "Field correspondent residing permanently in public parks, specializing in grassroots opinion gathering."
+        }
+      ]
+    },
+    {
+      "start": "23:20",
+      "end": "24:00",
+      "canonical_segment": "Music & Closing",
+      "title": "DJ Newsic Finale",
+      "notes": "DJ Newsic delivers the signature closing sequence with auto-tuned techno beats, singing the news recap in heavy autotune while wrapping up the broadcast with characteristic enthusiasm.",
+      "characters": [
+        {
+          "name": "DJ Newsic",
+          "canonical_name": "DJ Newsic",
+          "speaking": true,
+          "timestamps": [
+            "23:20",
+            "23:45",
+            "24:00"
+          ],
+          "confidence": 0.96,
+          "notes": "Signature music host who closes shows with energetic techno-infused news recaps."
+        }
+      ]
+    },
+    {
+      "start": "24:00",
+      "end": "24:45",
+      "canonical_segment": "DJ C4 Production",
+      "title": "Song Composition Session",
+      "notes": "DJ C4 composes original tracks and promotional anthems for BIN, collaborating with audience-submitted lyrics and building thematic content for upcoming releases.",
+      "characters": [
+        {
+          "name": "DJ C4",
+          "canonical_name": "DJ C4",
+          "speaking": true,
+          "timestamps": [
+            "24:00",
+            "24:45"
+          ],
+          "confidence": 0.95,
+          "notes": "In-studio musician and composer responsible for thematic song creation and promotional material."
+        }
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [
+        "00:06",
+        "08:39"
+      ],
+      "confidence": 0.98,
+      "notes": "Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona."
+    },
+    {
+      "name": "Kendelle",
+      "canonical_name": "Kendelle",
+      "speaking": false,
+      "timestamps": [
+        "00:08",
+        "00:29"
+      ],
+      "confidence": 0.91,
+      "notes": "Lead anchor and on-air contributor who walks through the studio for signature segments."
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [
+        "08:39",
+        "10:29",
+        "11:54",
+        "13:40"
+      ],
+      "confidence": 0.95,
+      "notes": "Senior debate analyst with distinctive disheveled appearance and confrontational debate style."
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [
+        "08:39",
+        "10:29",
+        "11:54",
+        "13:40"
+      ],
+      "confidence": 0.92,
+      "notes": "Senior debate analyst serving as Munch's primary political counterweight, known for gambling debts and blunt rhetoric."
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [
+        "12:21",
+        "12:45",
+        "13:40"
+      ],
+      "confidence": 0.98,
+      "notes": "Chief science correspondent running the specialized science desk with ChetAI as synthetic co-host."
+    },
+    {
+      "name": "ChetAI",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [
+        "12:21",
+        "12:45",
+        "13:40"
+      ],
+      "confidence": 0.85,
+      "notes": "Synthetic neural network co-host operating from studio monitors, providing data-driven commentary on AI topics."
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [
+        "13:40",
+        "14:02",
+        "14:45",
+        "15:00"
+      ],
+      "confidence": 0.96,
+      "notes": "Gaming and digital culture correspondent broadcasting remotely from his bedroom studio."
+    },
+    {
+      "name": "Case Blackwell",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [
+        "00:08",
+        "08:59",
+        "15:00",
+        "16:40",
+        "17:14",
+        "18:26",
+        "19:10",
+        "20:26",
+        "21:12",
+        "22:00",
+        "23:20"
+      ],
+      "confidence": 0.99,
+      "notes": "Lead anchor and managing editor who directs the core news desk with authoritative command."
+    },
+    {
+      "name": "Trip Bradstein",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [
+        "22:00",
+        "22:31",
+        "23:20"
+      ],
+      "confidence": 0.94,
+      "notes": "Field correspondent residing permanently in public parks, conducting 'on the street' opinion interviews."
+    },
+    {
+      "name": "DJ Newsic",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [
+        "23:20",
+        "23:45",
+        "24:00"
+      ],
+      "confidence": 0.96,
+      "notes": "Auto-tuned music host who delivers the signature closing news recap with heavy techno production."
+    },
+    {
+      "name": "DJ C4",
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [
+        "24:00",
+        "24:45"
+      ],
+      "confidence": 0.95,
+      "notes": "In-studio music producer and composer responsible for thematic song creation and promotional content."
+    },
+    {
+      "name": "Jeff Ripple",
+      "canonical_name": "Jeff Ripple",
+      "speaking": false,
+      "timestamps": [
+        "00:00"
+      ],
+      "confidence": 0.88,
+      "notes": "Studio news reader and breaking chat correspondent who monitors viewer submissions and provides updates."
+    },
+    {
+      "name": "Tommy Biglaw",
+      "canonical_name": "Tommy Biglaw",
+      "speaking": false,
+      "timestamps": [
+        "00:00"
+      ],
+      "confidence": 0.92,
+      "notes": "Legal counsel with infant-like features and lisp, known for his distinctive baby talk and courtroom-adjacent commentary."
+    },
+    {
+      "name": "AI Rooney",
+      "canonical_name": "AI Rooney",
+      "speaking": false,
+      "timestamps": [
+        "02:26",
+        "02:45",
+        "02:52",
+        "02:59"
+      ],
+      "confidence": 0.88,
+      "notes": "Cyborg commentator hosting the AI Rooney grievance machine segment, known for escalating rants and audience-focused criticism."
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Munch & Crum Rivalry",
+      "beat": "Ongoing political debate centered on Munch's confrontational style versus Crum's financial cautionary approach, culminating in the Crum Dick Punch wager and gambling debt issues.",
+      "timestamp": "08:39-13:40",
+      "details": "The debate between Munch and Crum remains unresolved, with Crum consistently warning about financial risks while Munch challenges his authority through provocative questions about gambling and personal integrity."
+    },
+    {
+      "storyline": "Chet's AI Ethics Investigation",
+      "beat": "Chet and ChetAI explore the societal impacts of artificial intelligence, particularly regarding generative AI's dominance in creative industries and workplace automation.",
+      "timestamp": "12:21-13:40",
+      "details": "Chet's science desk investigation includes critical examination of AI's role in displacing human labor and the ethical implications of relying on AI-generated content for professional tasks."
+    },
+    {
+      "storyline": "Crypto Zeu$ Market Analysis",
+      "beat": "Deep-dive into Wall Street's market downturn and its implications for tech-heavy sectors.",
+      "timestamp": "15:00-17:14",
+      "details": "Case Blackwell's market analysis covers the nine-week winning streak ending, chip stock declines, and broader AI-driven economic shifts affecting tech valuations."
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "ChetAI",
+      "fact": "ChetAI is frequently misidentified by viewers as 'Skynce', 'Chad', or other nicknames due to its synthetic nature and occasional visual glitches.",
+      "timestamp": "12:21",
+      "confidence": 0.87
+    },
+    {
+      "entity": "Chet",
+      "fact": "Chet has developed a reputation for demanding rigorous scientific methodology while simultaneously embracing the absurdity of modern AI integration into daily life.",
+      "timestamp": "12:45",
+      "confidence": 0.91
+    },
+    {
+      "entity": "Bats and COVID",
+      "fact": "Chet makes a controversial claim that bats are carriers of COVID-19, suggesting exposure to bat saliva could transmit the virus, sparking debate about zoonotic disease transmission pathways.",
+      "timestamp": "02:45:00",
+      "confidence": 0.88
+    },
+    {
+      "entity": "Scrotum Merger",
+      "fact": "An active storyline involving a supernatural merger between Munch and Crum that threatens their political careers, referenced in previous episodes.",
+      "timestamp": "02:26:49",
+      "confidence": 0.82
+    },
+    {
+      "entity": "Crum Dick Punch",
+      "fact": "The Crum Dick Punch wager represents a pivotal conflict in the Munch & Crum rivalry, involving gambling debts and personal integrity tests.",
+      "timestamp": "08:39-13:40",
+      "confidence": 0.94
+    }
+  ],
+  "_meta": {
+    "vod_id": "1L6MvGwPUkY",
+    "model": "openrouter/free",
+    "transcript_lines": 357
+  }
+}
