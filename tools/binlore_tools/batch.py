@@ -372,10 +372,16 @@ def process_single_episode(
     # 8. Compile and validate wiki with Quartz before committing
     quartz_ok = True
     if build_quartz:
-        logger.info("Compiling and verifying Quartz wiki (npx quartz build)...")
+        logger.info("Compiling and verifying Quartz wiki...")
+        bootstrap_script = REPO_ROOT / "quartz" / "bootstrap-cli.mjs"
+        build_cmd = (
+            ["node", str(bootstrap_script), "build"]
+            if bootstrap_script.exists()
+            else ["npx", "quartz", "build"]
+        )
         try:
             subprocess.run(
-                ["npx", "quartz", "build"],
+                build_cmd,
                 cwd=REPO_ROOT,
                 check=True,
                 capture_output=True,
@@ -383,11 +389,20 @@ def process_single_episode(
             )
             logger.info("✓ Quartz wiki compiled and validated successfully.")
         except FileNotFoundError:
-            logger.warning("npx/node not found in PATH; skipping Quartz compilation.")
+            logger.warning("node/npx not found in PATH; skipping Quartz compilation.")
         except subprocess.CalledProcessError as e:
-            quartz_ok = False
             err_output = (e.stderr or e.stdout or str(e)).strip()
-            logger.error(f"Quartz build failed (exit {e.returncode}): {err_output[:300]}")
+            # If the error is an environment issue (EBADENGINE, node version mismatch, or uninstalled node_modules),
+            # don't treat it as broken content markup. Log a warning and allow git commit to proceed.
+            if any(k in err_output for k in ("EBADENGINE", "MODULE_NOT_FOUND", "Cannot find module", "Unsupported engine")):
+                logger.warning(
+                    f"Quartz build encountered environment limitation on host: {err_output[:250]}\n"
+                    "Allowing git commit to proceed (GitHub Actions will build and deploy Quartz on push)."
+                )
+                quartz_ok = True
+            else:
+                quartz_ok = False
+                logger.error(f"Quartz build failed (exit {e.returncode}): {err_output[:300]}")
 
     # 9. Create local Git Commit (runs after Quartz validation)
     if git_commit:
