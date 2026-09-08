@@ -22,7 +22,9 @@ def episode_stub_markdown(vod: Vod, *, run_id: str) -> str:
     else:
         vod_lines.append(f"- **VOD Archive:** [{vod.title}]({vod.url}) (ID: `{vod.id}`)")
     vod_lines.append(f"- **Approx length:** {duration}")
-    vod_lines.append(f"- **Ingest run:** `tools/runs/{run_id}/`")
+    vod_lines.append(
+        f"- **Ingest run:** [`tools/runs/{run_id}/`](https://github.com/trak3r/binlore/tree/main/tools/runs/{run_id}/)"
+    )
     header_block = "\n".join(vod_lines)
 
     return f"""---
@@ -62,9 +64,9 @@ Facts worth promoting to character/storyline pages (with timestamps):
 
 ## Transcript
 
-Full timestamped transcript (local, not published by Quartz):
+Full timestamped transcript:
 
-`tools/runs/{run_id}/transcript.txt`
+[`tools/runs/{run_id}/transcript.txt`](https://github.com/trak3r/binlore/blob/main/tools/runs/{run_id}/transcript.txt)
 """
 
 
@@ -306,7 +308,9 @@ def update_episode_from_extraction(vod_id: str, extraction: dict[str, Any]) -> P
             vod_header_lines.append(f"- **VOD Archive:** [{vod_title}]({vod_url}) (ID: `{vod_id}`)")
 
     vod_header_lines.append(f"- **Approx length:** {duration}")
-    vod_header_lines.append(f"- **Ingest run:** `tools/runs/{vod_id}/`")
+    vod_header_lines.append(
+        f"- **Ingest run:** [`tools/runs/{vod_id}/`](https://github.com/trak3r/binlore/tree/main/tools/runs/{vod_id}/)"
+    )
     vod_header_text = "\n".join(vod_header_lines)
 
     md_content = f"""---
@@ -344,9 +348,9 @@ tags:
 
 ## Transcript
 
-Full timestamped transcript (local, not published by Quartz):
+Full timestamped transcript:
 
-`tools/runs/{vod_id}/transcript.txt`
+[`tools/runs/{vod_id}/transcript.txt`](https://github.com/trak3r/binlore/blob/main/tools/runs/{vod_id}/transcript.txt)
 """
 
     ep_file = _find_episode_file(vod_id, date)
