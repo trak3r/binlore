@@ -1,0 +1,19 @@
+{
+  "vod_id": "2824980914",
+  "title": "Monday News All Blocked Up",
+  "url": "https://www.twitch.tv/videos/2824980914",
+  "duration_seconds": 11062,
+  "duration": "3:04:22",
+  "timestamp": 1784505600,
+  "aired_at": "2026-07-20T00:00:00+00:00",
+  "date": "2026-07-20",
+  "ingested_at": "2026-09-06T19:44:14.190451+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "NPX0CQNx_Yg",
+  "yt_url": "https://www.youtube.com/watch?v=NPX0CQNx_Yg",
+  "twitch_id": "2824980914",
+  "twitch_url": "https://www.twitch.tv/videos/2824980914",
+  "catalog_date": "2026-07-20"
+}

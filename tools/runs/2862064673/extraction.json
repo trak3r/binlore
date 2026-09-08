@@ -1,0 +1,406 @@
+{
+  "episode_summary": "Case opens the broadcast late with Pepito, then immediately gets derailed by a Hype Train tangent about pregnancy before settling into a news rundown covering the Tupac murder verdict, AEW wrestlers (including Creed's debut), a mysterious floating island in BC, a bat-in-mouth incident, a coyote-vs-bear wildlife camera clip, and a Trump-Hitler Department of Education post. The Munch & Crum debate returns with Crum reaffirming he is ready to be punched in the penis by a robotic gorilla next Monday before Case leaves for Thailand, and the debate devolves into a mayonnaise-as-pizza-topping bit. Brandon then plays Wario Land 4 on Game Boy Advance via keyboard while his mom yells at him through the door, leading into a chaotic interview with a 'slightly thick Waluigi' claiming to have shot Tupac with a banana peel before the stream ends in disarray.",
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "12:39",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Pepito Intro & Late-Start Banter",
+      "notes": "Pepito intros the show as the dog producer, Case mentions being late, hot pockets, wrestling chats with chat, plans to go to Thailand, Patreon update, and prepares for the broadcast."
+    },
+    {
+      "start": "12:42",
+      "end": "23:48",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Pregnancy Bit",
+      "notes": "A Hype Train is active. Hype Train launches into a long, absurd rap about being a 'pregnant train,' giving birth to cars, kids, and skeletons. Case tries to redirect him to thank subs. Hype Train claims skeletons popped out of him and that he dies via autotune. No piss content this time."
+    },
+    {
+      "start": "24:14",
+      "end": "46:28",
+      "canonical_segment": "News",
+      "title": "News Desk: Tupac Verdict, AEW, Floating Island, Bat Mouth, Coyote vs Bear, Water Balloon Record, Dept of Ed",
+      "notes": "Case at the news desk. Covers the Dwayne Davis guilty verdict in the Tupac murder, Creed/others debuting at AEW All In London, a mysterious floating island appearing and vanishing in BC's Williston Reservoir, a Virginia doctor who woke up with a bat on her face, a coyote defending against a bear in Tarzana, and David Rush breaking the water-balloon throw-and-catch record with his son. Wraps with the Dept of Education posting and deleting a clip comparing Trump to Hitler using a tiger metaphor. Chet segment is NOT triggered."
+    },
+    {
+      "start": "46:28",
+      "end": "59:14",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum Debate: Penis Punch Prep & Mayonnaise vs Pepperoni",
+      "notes": "Munch & Crum debate segment. Crum reminds everyone the robotic gorilla penis punch is happening next Monday before Case leaves for Thailand; Munch asks chat to protect his penis. Debate topic: best pizza topping. Crum argues mayonnaise; Munch argues pepperoni. Crum wins (290+ points ahead). Crum gloats about Munch's upcoming punch. Crum claims to have eaten a 'turnip garden' raw and mentions a 'new prayer suggested by Crumb' that Pastor Joe likes."
+    },
+    {
+      "start": "59:19",
+      "end": "85:30",
+      "canonical_segment": "Cryptozeus",
+      "title": "Cryptozeus Plays Wario Land 4 (GBA) on Keyboard",
+      "notes": "Brandon (Cryptozeus) attempts to play Wario Land 4 on GBA via emulator. His controller won't work, forcing keyboard play. Mom yells through the door about turnips, doorknobs, 'washed' (not 'washed') sweatpants, Pastor Joe, sneezes, hemorrhoids, Italian bicycles, and Waluigi. Brandon plays through levels, plays Wario's Homerun Derby minigame, and eventually quits in frustration when mom ruins his gameplay. Gooters chicken wing sponsor read is inserted."
+    },
+    {
+      "start": "85:30",
+      "end": "93:10",
+      "canonical_segment": "News",
+      "title": "Tupac Murderer Interview with Slightly Thick Waluigi & Stream End",
+      "notes": "Case tries to wrap the show by interviewing 'someone who shot Tupac.' The interview is hijacked by a chat bot/spam account posing as a 'slightly thick Waluigi' from Brooklyn who claims to have killed Tupac, JFK, and others with Mario Kart banana peels. Case loses control of the stream, decides to end early, accidentally bans the bot, queues outro music, and says goodbye until Wednesday before his two-week trip."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [
+        "00:08"
+      ],
+      "confidence": 0.99,
+      "notes": "Opens the show as producer ('I'm Pepito, I'm the dog that produces the show')."
+    },
+    {
+      "name": "Case Blackwell",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [
+        "01:04",
+        "05:24",
+        "08:42",
+        "12:42",
+        "13:01",
+        "14:01",
+        "19:39",
+        "22:33",
+        "24:14",
+        "25:32",
+        "34:53",
+        "46:28",
+        "55:49",
+        "59:19",
+        "85:30",
+        "130:36"
+      ],
+      "confidence": 0.99,
+      "notes": "Host at the news desk and behind the scenes; handles the Hype Train, debate, gaming intro, and final Waluigi interview."
+    },
+    {
+      "name": "Hype Train",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [
+        "12:42",
+        "13:07",
+        "14:00",
+        "14:50",
+        "15:19",
+        "15:40",
+        "16:34",
+        "17:30",
+        "18:16",
+        "19:39",
+        "21:50"
+      ],
+      "confidence": 0.95,
+      "notes": "Hype Train persona raps about being pregnant, giving birth to cars, skeletons, and kids. Notably contains NO piss content this episode. Asks Case to 'hush' multiple times."
+    },
+    {
+      "name": "Crum",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [
+        "46:28",
+        "47:11",
+        "48:23",
+        "49:36",
+        "50:44",
+        "51:54",
+        "53:10",
+        "54:12",
+        "55:54",
+        "57:07",
+        "57:40"
+      ],
+      "confidence": 0.97,
+      "notes": "Crum recaps the gorilla d*ck punch backstory, admits he agreed to the punch, declares spiritual/physical readiness, argues mayonnaise is the best pizza topping, wins the debate (290+ points ahead), and gloats about Munch's upcoming punch. Mentions a 'new prayer' that Pastor Joe likes."
+    },
+    {
+      "name": "Munch",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [
+        "50:44",
+        "51:08",
+        "51:24",
+        "52:10",
+        "53:10",
+        "54:46",
+        "57:40"
+      ],
+      "confidence": 0.95,
+      "notes": "Munch argues pepperoni is the best pizza topping, loses the debate, and asks chat to 'cradle my penis' and 'protect me' with prayers."
+    },
+    {
+      "name": "Jeff Ripple",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [
+        "34:51"
+      ],
+      "confidence": 0.95,
+      "notes": "Implied/confirmed by 'I'm Ben Hooper and this weekend odds and ends' (ASR transcribed as 'Ben Hooper'). Reads out the floating island, bat mouth, coyote vs bear, and water balloon stories."
+    },
+    {
+      "name": "Cryptozeus / Brandon",
+      "canonical_name": "Brandon (Cryptozeus)",
+      "speaking": true,
+      "timestamps": [
+        "59:55",
+        "62:30",
+        "63:55",
+        "65:21",
+        "66:25",
+        "67:43",
+        "68:55",
+        "70:30",
+        "71:53",
+        "73:30",
+        "74:54",
+        "76:25",
+        "78:00",
+        "79:55",
+        "81:30",
+        "83:55",
+        "85:30"
+      ],
+      "confidence": 0.97,
+      "notes": "Brandon streams Wario Land 4 on GBA. Controller fails so he plays on keyboard. Mom yells at him through the door (calling him 'Bran Bran') about turnips, washed sweatpants, Pastor Joe, hemorrhoids, Italian bicycles, and Waluigi. Sponsor read for Gooters mayo-soaked chicken skins. Eventually quits the game in frustration."
+    },
+    {
+      "name": "Brandon's Mom",
+      "canonical_name": "Cryptozeus's Mom",
+      "speaking": true,
+      "timestamps": [
+        "63:30",
+        "63:45",
+        "64:43",
+        "66:23",
+        "67:55",
+        "68:48",
+        "70:43",
+        "71:30",
+        "72:30",
+        "73:28",
+        "74:45",
+        "76:23",
+        "78:20",
+        "79:55",
+        "80:30",
+        "83:25",
+        "84:23",
+        "124:23"
+      ],
+      "confidence": 0.95,
+      "notes": "Brandon's mom yells through the door about eaten turnips, dirty sweatpants, hemorrhoids, Pastor Joe, and ruining Brandon's stream."
+    },
+    {
+      "name": "Brick",
+      "canonical_name": "Brick (unconfirmed)",
+      "speaking": true,
+      "timestamps": [
+        "63:30",
+        "65:23",
+        "67:28",
+        "68:30",
+        "73:28",
+        "75:30",
+        "78:30",
+        "83:25"
+      ],
+      "confidence": 0.7,
+      "notes": "Mentioned/heard by Brandon; unclear if a named character or background noise; Brandon repeatedly tells Brick to stop making noise and chanting 'ruined it'."
+    },
+    {
+      "name": "Slightly Thick Waluigi",
+      "canonical_name": "Slightly Thick Waluigi (one-off)",
+      "speaking": true,
+      "timestamps": [
+        "126:25",
+        "127:25",
+        "128:25",
+        "129:25",
+        "131:30"
+      ],
+      "confidence": 0.85,
+      "notes": "One-off interview subject / apparent bot that claims to be 'a slightly thick Waluigi' from Brooklyn who shot Tupac and JFK with banana peels in Mario Kart. Case accidentally bans him."
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum D*ck Punch",
+      "beat": "Crum confirms the robotic gorilla penis punch is scheduled for next Monday, the last stream before Case leaves for Thailand. He claims spiritual readiness, meditation, and training. Munch asks chat to 'cradle my penis' and 'protect me' with prayers. Crum later gloats about his guaranteed win after defeating Munch in the mayonnaise debate, promising he will 'face no consequences.'",
+      "timestamp": "48:05"
+    },
+    {
+      "storyline": "The Scrotum Merger",
+      "beat": "Not referenced this episode. Crum appears in his normal form without any body-swap or fusion gag with Peter Gibbon.",
+      "timestamp": "N/A"
+    },
+    {
+      "storyline": "Thailand Trip",
+      "beat": "Case repeatedly mentions he is going to Thailand next week and will be out of town for two weeks. He plans to stream Monday/Wednesday/Friday this week before leaving. Last show will be the Crum d*ck punch Monday.",
+      "timestamp": "10:57"
+    },
+    {
+      "storyline": "Cryptozeus Mom Saga",
+      "beat": "Brandon's mom continues her running interruptions through the bedroom door, this time about raw turnips from his turnip garden, dirty sweatpants ('washed' without the R), Pastor Joe, sneezes, hemorrhoids, Italian bicycles, and Waluigi. She eventually ruins his Wario Land 4 run so badly he quits.",
+      "timestamp": "56:36"
+    },
+    {
+      "storyline": "Tupac Murder Confession Gag",
+      "beat": "After the Dwayne Davis verdict story, Case promises a 'tasteful' interview with someone who shot Tupac. This culminates in a bot interview with 'Slightly Thick Waluigi' claiming to have Mario Karted Tupac and JFK with banana peels.",
+      "timestamp": "45:52"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Pepito opens the show stating 'I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog.'",
+      "timestamp": "00:08",
+      "confidence": 0.99
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Hype Train claims that every time another train car attaches to him, it counts as a pregnancy, and he gives birth to the new train cars and any 'skeleton' humans who may have died inside him due to 'lack of safety standards.'",
+      "timestamp": "14:09",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Hype Train claims to have 'died via autotune,' 'like all the greats,' and notes this is his preferred method of death.",
+      "timestamp": "23:29",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Hype Train has known Case for three years and considers him an 'acquaintance' (despite Case complaining about him feeling like a hater).",
+      "timestamp": "23:13",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "This Hype Train episode notably contains NO piss-related content, which Case explicitly acknowledges as a relief ('No piss today').",
+      "timestamp": "23:33",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Crum",
+      "fact": "Crum recounts the full origin of the gorilla punch: he bet a gorilla '$200,000-ish' and when the amount went up, he let the gorilla punch him, which 'sent me to a fugue state for several years' and 'killed him and sent him to hell.'",
+      "timestamp": "47:37",
+      "confidence": 0.99
+    },
+    {
+      "entity": "Crum",
+      "fact": "Crum has agreed to let the gorilla now punch him in the penis on the following Monday (the last show before Case goes to Thailand). He claims he has 'meditated' and feels 'spiritually and physically secure' to allow it to happen 'consensually.'",
+      "timestamp": "48:23",
+      "confidence": 0.99
+    },
+    {
+      "entity": "Crum",
+      "fact": "Crum says 'my penis is with all of you' and asks chat to 'cradle my penis, cherish it, and give me strength' while also praying to God for his penis's strength.",
+      "timestamp": "50:00",
+      "confidence": 0.98
+    },
+    {
+      "entity": "Munch",
+      "fact": "Munch actively solicits chat protection for his penis before the gorilla punch, pleading for prayers and asking chat to 'hold it in your heart and in your spiritual hands.'",
+      "timestamp": "50:30",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Munch & Crum",
+      "fact": "Munch and Crum both agree that 'rank choice voting is cheating' and that 'in any democratic system there can really only be two options and one winner.'",
+      "timestamp": "51:30",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Crum",
+      "fact": "Crum reveals he has been eating raw turnips straight from his turnip garden ('I took them straight out of the dirt and I ate them right away'), making his wife yell from the third story that he needs to clean them.",
+      "timestamp": "56:36",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Crum",
+      "fact": "Crum claims he is now '290 points ahead' in the debate scoreboard (down from more), and predicts he will surpass Munch again in 'another 2 to 10 years.'",
+      "timestamp": "57:11",
+      "confidence": 0.85
+    },
+    {
+      "entity": "Crum",
+      "fact": "Crum mentions a 'new prayer suggested by Crumb' that Pastor Joe really likes; his mom references trying this prayer as well.",
+      "timestamp": "80:39",
+      "confidence": 0.85
+    },
+    {
+      "entity": "Crum",
+      "fact": "Crum wins the mayonnaise-vs-pepperoni debate decisively and gloats that he will 'face no consequences' for the gorilla penis punch, calling it 'the perfect plan.'",
+      "timestamp": "57:59",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Jeff Ripple",
+      "fact": "Jeff Ripple (transcribed by ASR as 'Ben Hooper') delivers an 'odds and ends' news segment covering the floating BC island, bat-mouth Virginia doctor, Tarzana coyote-vs-bear, and David Rush's water-balloon record. Case cheers his 'first internal segment.'",
+      "timestamp": "34:53",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Cryptozeus / Brandon",
+      "fact": "Brandon plays Wario Land 4 on Game Boy Advance via emulator; his controller refuses to work so he is forced to play on keyboard, which he calls 'the real pain in my asshole.'",
+      "timestamp": "61:52",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Cryptozeus / Brandon",
+      "fact": "Brandon mentions his headphones are 'about 12 years' old and 'pretty coated with protective ear leavings,' which conveniently blocks out his mom's voice.",
+      "timestamp": "71:34",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Cryptozeus / Brandon",
+      "fact": "Brandon claims to have already played 'most of the game' off-stream and says 'I already did most of it, just know I was this good the whole time.'",
+      "timestamp": "69:50",
+      "confidence": 0.85
+    },
+    {
+      "entity": "Cryptozeus's Mom",
+      "fact": "Mom yells 'washed' instead of 'washed' (dropping the R) repeatedly; Brandon insists she needs to 'learn to sneeze better' and 'learn to eat better.'",
+      "timestamp": "67:37",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Cryptozeus's Mom",
+      "fact": "Mom mentions Pastor Joe is coming over that night and gets upset that Brandon's grunting 'puts mama in a moon.'",
+      "timestamp": "65:43",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Cryptozeus's Mom",
+      "fact": "Mom claims her Italian bicycle 'intimidates people into thinking that I do sports' and protects her house because people assume she's like Lance Armstrong.",
+      "timestamp": "80:30",
+      "confidence": 0.85
+    },
+    {
+      "entity": "Gooters",
+      "fact": "Gooters sponsor read: 'this stream is brought to you by gooders for a limited time only get our famous mayo soaked chicken skins for five bucks a piece.' Brick agrees 'them some wet ass wings.'",
+      "timestamp": "64:23",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Slightly Thick Waluigi",
+      "fact": "A bot/spam persona identifying as 'a slightly thick Waluigi' from Brooklyn repeatedly claims to have killed Tupac Shakur and JFK with Mario Kart banana peels and a 'bigger banana peel.' Case eventually accidentally bans him.",
+      "timestamp": "126:41",
+      "confidence": 0.9
+    }
+  ],
+  "_meta": {
+    "vod_id": "2862064673",
+    "model": "minimax/minimax-m3:free",
+    "transcript_lines": 1861
+  }
+}

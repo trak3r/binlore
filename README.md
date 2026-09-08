@@ -40,7 +40,7 @@ tools/runs/2863722826/
 `yt-dlp` pulls the Twitch `Audio_Only` stream directly (~150 MB instead of a 6+ GB video file). This saves disk space and allows local Whisper transcription to process significantly faster.
 
 **Git tracking:**
-`tools/runs/` and all media files (`*.m4a`, `*.mp4`, etc.) are listed in `.gitignore` so large binary files and raw transcripts are never pushed to GitHub. The wiki pages in `content/` are the public, reviewed canon.
+Media files (`*.m4a`, `*.mp4`, etc.) and batch logs are listed in `.gitignore` to prevent large binary bloat. Raw Whisper transcripts (`transcript.json`, `transcript.txt`) and stream metadata (`meta.json`) in `tools/runs/` are tracked in the repository so episodes can be reprocessed or re-analyzed in the future without requiring another VOD scrape or audio re-transcription. The wiki pages in `content/` are the public, reviewed canon.
 
 ---
 

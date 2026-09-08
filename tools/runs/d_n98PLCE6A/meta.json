@@ -1,0 +1,19 @@
+{
+  "vod_id": "d_n98PLCE6A",
+  "title": "Lil Friday Newses",
+  "url": "https://www.youtube.com/watch?v=d_n98PLCE6A",
+  "duration_seconds": 6605,
+  "duration": "1:50:05",
+  "timestamp": 1782518400,
+  "aired_at": "2026-06-27T00:00:00+00:00",
+  "date": "2026-06-27",
+  "ingested_at": "2026-09-07T02:00:06.802597+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "d_n98PLCE6A",
+  "yt_url": "https://www.youtube.com/watch?v=d_n98PLCE6A",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-06-27"
+}

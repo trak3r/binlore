@@ -1,0 +1,256 @@
+{
+  "episode_summary": "Barely Informed News returns after a weekend in which Case Blackwell applied 106 Bart Simpson temporary tattoos at the urging of Kendall, leaving his arms raw and sticky. The broadcast moves from Pepito's cold open through a long Hype Train takeover (featuring rambling movie reviews and a 'piss language' bit), the news desk covering Canada-US tariffs, Trump beef imports, a Kentucky bear burglary, the Willy Wonka AI reality show, and the Kid Rock helicopter stunt, before closing with the Munch & Crum debate and a Cryptozeus segment where Brandon plays The Journey Home while his mom argues about Gooters chicken.",
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "15:33",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Pepito Opens & Bart Tattoo Debrief",
+      "notes": "Pepito cold open with countdown. Case is back to his 'Bartless self' and debriefs the 106 Bart tattoo stream with Kendall. Mentions Tim Curry passing (with Congo's Herkheimer Boyarski reference), the original BIN being a SimCity stream, and possibly doing a thing with Fiona Nova in 2-3 months.",
+      "characters": [
+        "Pepito",
+        "Case Blackwell"
+      ]
+    },
+    {
+      "start": "15:33",
+      "end": "43:43",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Movie Critic & Piss Language Takeover",
+      "notes": "Twitch Hype Train triggered. Hype Train persona takes over rambling about nonexistent one-word movies (Horse, Catch, Lettuce, Words, Piss). Invents an 'ancient piss language' mythology with six original letters (piss, shit, puke, barf, fart, etc.) and credits himself over Homer. Reaches Level 5 on the Hype Train. Case thanks subs (Giggle Trash, Bundle Sprout, Mighty Oz, John Michael, Daggett, Tam Tram).",
+      "characters": [
+        "Hype Train",
+        "Case Blackwell"
+      ]
+    },
+    {
+      "start": "43:43",
+      "end": "01:22:44",
+      "canonical_segment": "News",
+      "title": "Canada Tariffs, Trump Beef, Bear Burglary & Wonka AI",
+      "notes": "News desk opens. Topics: Canada retaliating dollar-for-dollar against Trump tariffs; Trump renaming Lake Ontario to Lake America; Trump importing more beef from Argentina + an Argentine beef recall of ~30,000 lbs; Scott Bessent's Iran sanctions speech; AI bubble fears; a father leaving his 7-year-old alone on Mt. Fuji; a bear burglarizing a Kentucky home for brioche buns and ribeye steaks; a woman revived in an Auckland parking lot getting a parking ticket; Netflix's AI-Gene Wilder Willy Wonka reality show; illegal guillotine in DC park; Texas drag show ban struck down; Xbox digital entitlement feature for physical games; Kid Rock Apache helicopter flyover scandal; new Burger King chicken nuggets. Chat rate segment briefly teased.",
+      "characters": [
+        "Case Blackwell",
+        "Hype Train"
+      ]
+    },
+    {
+      "start": "01:22:44",
+      "end": "01:33:37",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch vs Crum: Better Mayor Debate",
+      "notes": "Munch & Crum debate over 'better mayor: Munchcut vs Mamdani'. Crum waffles and refuses to endorse Mamdani as a Democrat, ultimately 'not endorsing' anyone but lands on Munchcut. Munch declares himself the winner. Crum tries to push back the Crum D*ck Punch robotic gorilla execution; rescheduled to Friday the 13th. Munch claims 'reverse pardon' means Crum gets punched twice.",
+      "characters": [
+        "Munch (Ralph Munchcut)",
+        "Crum"
+      ]
+    },
+    {
+      "start": "01:33:37",
+      "end": "01:38:45",
+      "canonical_segment": "News",
+      "title": "Tommy Biglaw Satirical Legal Skit",
+      "notes": "Chat calls for legal expert Tommy Biglaw after Case shared an unhinged video. Tommy Biglaw bills by the minute and demands $40,000 (16 laws × $2500). Case says he'll send the bill to Brennan.",
+      "characters": [
+        "Case Blackwell"
+      ]
+    },
+    {
+      "start": "01:38:45",
+      "end": "02:05:01",
+      "canonical_segment": "Cryptozeus",
+      "title": "Brandon Plays The Journey Home (Demo)",
+      "notes": "Cryptozeus gaming segment. Brandon's mom interrupts about Gooters wet wings, sloppy chicken tomato fries, and the new potato turducken. A sub from Brick announces the Crum D*ck Punch is pushed to the 4th (Case is in Thailand Aug 8-17). Brandon plays The Journey Home indie demo, gets 'birthed' as an old man, prances around, plays a Flappy Bird section, and gets a 'sparkle' death before reaching the credits. Mom complains throughout. Raids Denny's channel.",
+      "characters": [
+        "Brandon (Cryptozeus)"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [
+        "00:08-00:52",
+        "08:07-08:41"
+      ],
+      "confidence": 0.95,
+      "notes": "Opens the show with standard 'I'm Pepito, I'm the dog that produces the show' cold open and countdown."
+    },
+    {
+      "name": "Case Blackwell",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [
+        "00:52-19:50",
+        "22:27-43:43",
+        "43:46-01:22:44",
+        "01:33:37-01:38:45"
+      ],
+      "confidence": 0.99,
+      "notes": "Host. Debuts post-Bart-tattoo stream cleanup. Runs news desk, bantering with Hype Train throughout."
+    },
+    {
+      "name": "Hype Train",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [
+        "19:50-22:27",
+        "22:45-43:43"
+      ],
+      "confidence": 0.95,
+      "notes": "Persona takes over for the Hype Train, rambling about nonexistent one-word movies, eventually derailing into the 'ancient piss language' mythology that ends with him declaring he's speaking Homer in 'piss'."
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [
+        "01:22:44-01:33:37"
+      ],
+      "confidence": 0.95,
+      "notes": "Debate segment. Defends himself as 'better mayor' than Mamdani, gleefully torments Crum about the dick punch."
+    },
+    {
+      "name": "Crum",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [
+        "01:22:44-01:33:37"
+      ],
+      "confidence": 0.95,
+      "notes": "Debate segment. Claims to be a Democratic Party representative but refuses to endorse Mamdani; eventually forced to pick Munchcut. Pleads for the dick punch to be delayed."
+    },
+    {
+      "name": "Brandon (Cryptozeus)",
+      "canonical_name": "Brandon (Cryptozeus)",
+      "speaking": true,
+      "timestamps": [
+        "01:38:45-02:05:01"
+      ],
+      "confidence": 0.95,
+      "notes": "Gaming persona. Plays The Journey Home demo while his mom interrupts about Gooters wings, sloppy chicken tomato fries, and potato turducken. Mentions Gooters new 'herniated cheese disc'."
+    },
+    {
+      "name": "Tommy Biglaw",
+      "canonical_name": "Tommy Biglaw",
+      "speaking": false,
+      "timestamps": [
+        "01:34:45-01:38:13"
+      ],
+      "confidence": 0.85,
+      "notes": "One-off satirical lawyer cameo (referenced as 'expert' by chat; not in canonical roster but functions as recurring bit) - bills Case $40,000 for 16 'laws' at $2,500 each, with an alter ego 'Big Tommy Prosecutor'."
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum D*ck Punch",
+      "beat": "Crum pleads to delay the robotic gorilla punch, claiming he needs time and wants to wear 'iron underwear'. Rescheduled to Friday the 13th. Munch declares Crum now has to get punched twice via 'reverse pardon'.",
+      "timestamp": "01:30:07"
+    },
+    {
+      "storyline": "Crum D*ck Punch",
+      "beat": "Gooter (Brick) sub delivers correction: Crum D*ck Punch must happen BEFORE the 4th because Case will be in Thailand Aug 8-17. Pushes the urgency.",
+      "timestamp": "01:39:59"
+    },
+    {
+      "storyline": "Case vacation",
+      "beat": "Case announces he'll be in Thailand Aug 8-17 (about 2 weeks), unstreamed. Crum punch rescheduled to fit before the trip.",
+      "timestamp": "01:40:04"
+    },
+    {
+      "storyline": "Bart tattoo stream aftermath",
+      "beat": "Case applied 106 Bart Simpson temporary tattoos at Kendall's behest the previous Saturday; sticky residue, scrubbing burns, and residual tattoos still on his arms/body hair days later. Stream available on YouTube.",
+      "timestamp": "00:54"
+    },
+    {
+      "storyline": "Fiona Nova collaboration",
+      "beat": "Case hints at a possible upcoming collaboration with Fiona Nova in the next 2-3 months (not streaming-related, tied to sketch group). Also mentions possibly watching Silo and trying Shrinking on Apple TV.",
+      "timestamp": "17:50"
+    },
+    {
+      "storyline": "RollerCoaster Tycoon sub goal",
+      "beat": "Chat votes RollerCoaster Tycoon as next simulator game stream; sub goal set at 50 subs.",
+      "timestamp": "01:17:51"
+    },
+    {
+      "storyline": "Gooters sponsor bit",
+      "beat": "Mom pitches Gooters' new 'wet storage bins', 'chicken jalapeño soft fries', 'potato turducken' ($20 bill wrapped), 'herniated cheese disc', and 'moist kitten poppers' (Halloween candy-corn-shaped fried items).",
+      "timestamp": "01:21:43"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Pepito cold open remains the standard show intro: 'I'm Pepito, I'm the dog that produces the show.'",
+      "timestamp": "00:08",
+      "confidence": 0.99
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Bart tattoo stream was Saturday: 106 Bart Simpson temporary tattoos applied with Kendall McDonald; used cheap non-Matlidel tattoo paper; sticky residue persisted for days.",
+      "timestamp": "00:54",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Original BIN was a SimCity stream; before that it was an IRL Bass ProShops stream; in between, Case sat and read news transitioning from co-streams with Fiona.",
+      "timestamp": "16:01",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Case is going to Thailand Aug 8-17, unstreamed.",
+      "timestamp": "01:40:04",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Reached Level 5 on the hype train. Bit detoured into inventing an 'ancient piss language' whose six original letters were piss, shit, puke, barf, and fart - claimed to predate and inspire Homer's epics.",
+      "timestamp": "31:22",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Hype Train bit pattern reaffirmed: starts by thanking subs but reliably gets distracted, often derailing into piss-related topics.",
+      "timestamp": "21:34",
+      "confidence": 0.99
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Munch positions himself as a 'triple x Vin Diesel' on skis/jungle; demands to be 'Mayor of the stream'.",
+      "timestamp": "01:27:28",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Crum",
+      "fact": "Crum identifies as a 'party representative for the Democratic Party' but won't endorse Mamdani, citing him as unproven vs. Munchcut's 'known quantity'.",
+      "timestamp": "01:24:15",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Crum",
+      "fact": "Crum tries to delay the dick punch by asking for iron underwear; rescheduled to Friday the 13th.",
+      "timestamp": "01:30:07",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Brandon (Cryptozeus)",
+      "fact": "Gooters sponsor bit: 'wet storage bins', 'potato turducken' with $20 inside, 'herniated cheese disc', 'moist kitten poppers' (Halloween). Mom calls him 'Bran Bran'.",
+      "timestamp": "01:21:43",
+      "confidence": 0.99
+    },
+    {
+      "entity": "Brandon (Cryptozeus)",
+      "fact": "Played The Journey Home indie demo to credits; reached a 'sparkle' state after dying, pranced, played a Flappy Bird section, and finished to a credit roll thanking him for playing Walter.",
+      "timestamp": "02:00:22",
+      "confidence": 0.9
+    }
+  ],
+  "_meta": {
+    "vod_id": "2857407927",
+    "model": "minimax/minimax-m3:free",
+    "transcript_lines": 1793
+  }
+}

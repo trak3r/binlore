@@ -1,0 +1,338 @@
+{
+  "episode_summary": "Barely Informed News returns from a two-week production hiatus with lead anchor Case Blackwell broadcasting remotely from Michigan after a disastrous hair appointment, interrupted by a Hype Train freestyle and a therapy session. Co-anchor Kendall watches Case's new mullet, and the desk also covers news including Trump's Medal of Honor expansion, a 'kissing record,' and Brian Johnson's autoimmune diagnosis. The broadcast closes with resident gaming correspondent Brandon (Cryptozeus) hosting a chaotic Mecha Chameleon session, interrupted by his mother yelling through his bedroom door.",
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "12:50",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Pepito Intro & Case's Vacation Hair Update",
+      "notes": "Executive Producer Pepito opens the broadcast from the control room, followed by Case Blackwell's monologue about his two-week absence, a family trip to a Michigan lake, and a new haircut and beard styling intended for a 'looks maxing' podcast with Kendall. Kendall evaluates the haircut live from off-camera."
+    },
+    {
+      "start": "12:50",
+      "end": "20:27",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Podcast Freestyle",
+      "notes": "The Hype Train correspondent commandeers the broadcast to deliver a freestyle rap proposing a 'podcast type beat,' complaining about Case's haircut, and vowing to move his broadcast operations to the moon. The segment concludes with an off-screen glitch as the correspondent exits."
+    },
+    {
+      "start": "20:40",
+      "end": "51:22",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Kendall's Hair Consultation & Denver Travel Nightmare",
+      "notes": "Case seeks Kendall's live critique of his new center-parted mullet and 'Hans de Foucault' holding cream. Kendall paints additional beard onto Case to test a barber's instructions. They recount a 15-hour emergency layover in Denver caused by a fuel line issue and a broken window frame on the replacement flight."
+    },
+    {
+      "start": "51:22",
+      "end": "57:48",
+      "canonical_segment": "News",
+      "title": "Captain America Anatomical Bugle Report",
+      "notes": "The news block opens with a brief research detour into search engine algorithms and consumer credit card data interception. The desk then covers a Marvel Rivals update regarding the anatomical rendering of Captain America, noting the nerf to the character's inguinal modeling."
+    },
+    {
+      "start": "57:48",
+      "end": "59:40",
+      "canonical_segment": "Hype Train",
+      "title": "Sub Goal Beat Suppression",
+      "notes": "The Hype Train correspondent attempts a heavily subdued acapella sub goal shout-out over an extremely faint instrumental track."
+    },
+    {
+      "start": "01:00:25",
+      "end": "01:21:18",
+      "canonical_segment": "News",
+      "title": "Medal of Honor Expansion & 'Islamic Republic of Japan'",
+      "notes": "Case covers Trump's Medal of Honor expansion and military commentary, reporting the declaration of the 'Islamic Republic of Japan.' The block also covers NYC's new fast bus initiative, Australian space debris, Brian Johnson's terminal diagnosis, and a Chilean-Californian solo rowing record, followed by a failed attempt to break a world kissing record live on camera with Kendall."
+    },
+    {
+      "start": "01:21:18",
+      "end": "01:32:26",
+      "canonical_segment": "Munch & Crum",
+      "title": "Crumb vs. Munch: A Political Crisis",
+      "notes": "Debate analyst Crumb arrives on set to bash Case's haircut. Crumb reveals he has 'just got my dad's dealership,' spurring a chaotic policy debate over electoralism, voting rights, and Crumb's endorsement of political violence and assassinations. Munch joins mid-debate to escalate the hostilities, leading Crumb to flee the set."
+    },
+    {
+      "start": "01:32:26",
+      "end": "01:45:30",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Dr. Cheth: Therapy & Looks Maxing",
+      "notes": "Following the self-trigger of 'science,' Chief Science Correspondent Chet (Chet Manscape) arrives disguised as 'Dr. Cheth' to conduct an unlicensed therapy session via a digital avatar. He critiques Case's haircut, forbids the injection of gold into the veins, and acts as a relationship advisor. The segment ends with Chet endorsing Case's new look as a successful disguise to avoid JD Vance comparisons."
+    },
+    {
+      "start": "01:45:30",
+      "end": "02:59:42",
+      "canonical_segment": "Cryptozeus",
+      "title": "Mecha Chameleon Gaming Block",
+      "notes": "Gaming correspondent Brandon (Cryptozeus) hosts a multiplayer session of Mecha Chameleon, interrupted repeatedly by his mother yelling through his bedroom door. The team rotates between 'cream boys' servers and 'morse code' suicide squads, painting themselves into environment textures while managing ammunition limits."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [
+        "00:08",
+        "01:00:43"
+      ],
+      "confidence": 1.0,
+      "notes": "Executive Producer; opens the broadcast and attempts to intervene during the sub goal shout-out."
+    },
+    {
+      "name": "Case",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [
+        "00:08",
+        "01:00:25",
+        "01:21:18",
+        "01:32:26",
+        "01:45:30",
+        "02:57:48"
+      ],
+      "confidence": 1.0,
+      "notes": "Lead news anchor; oversees the broadcast, discusses his Denver layover, attempts the kissing record, and participates in the Mecha Chameleon session."
+    },
+    {
+      "name": "Kendall",
+      "canonical_name": "Kendall",
+      "speaking": true,
+      "timestamps": [
+        "00:08",
+        "00:13:23",
+        "01:00:25",
+        "01:21:18",
+        "01:45:30",
+        "02:57:48"
+      ],
+      "confidence": 0.95,
+      "notes": "In-studio contributor; evaluates Case's haircut and paint, co-hosts the kissing record attempt, and assists in the Mecha Chameleon session."
+    },
+    {
+      "name": "Hype Train",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [
+        "00:12:50",
+        "00:57:48"
+      ],
+      "confidence": 1.0,
+      "notes": "High-velocity musical correspondent; performs a podcasting freestyle and executes an acapella sub goal shout-out."
+    },
+    {
+      "name": "Live in Sleazy",
+      "canonical_name": "Live in Sleazy",
+      "speaking": true,
+      "timestamps": [
+        "00:23:32"
+      ],
+      "confidence": 0.9,
+      "notes": "Control room ghost operator mentioned by Case during his search engine tutorial."
+    },
+    {
+      "name": "Crumb",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [
+        "01:21:43"
+      ],
+      "confidence": 0.85,
+      "notes": "Senior debate analyst; criticizes Case's haircut, references his father's dealership, and flees after a debate over political violence."
+    },
+    {
+      "name": "Munch",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [
+        "01:31:55"
+      ],
+      "confidence": 0.9,
+      "notes": "Senior debate analyst; briefly interrupts the set to escalate the conflict and question Crumb's financial standing."
+    },
+    {
+      "name": "Dr. Cheth",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [
+        "01:33:14"
+      ],
+      "confidence": 1.0,
+      "notes": "Chief science correspondent disguised as 'Dr. Cheth'; appears on the studio monitor for a therapy session and looks maxing consultation."
+    },
+    {
+      "name": "ChetAI",
+      "canonical_name": "ChetAI",
+      "speaking": false,
+      "timestamps": [
+        "01:33:14"
+      ],
+      "confidence": 0.7,
+      "notes": "Synthetic neural co-host; referenced indirectly as the lab technician providing Chet with 'healing affirmations'."
+    },
+    {
+      "name": "Brandon",
+      "canonical_name": "Brandon (Cryptozeus)",
+      "speaking": true,
+      "timestamps": [
+        "01:45:30",
+        "02:57:48"
+      ],
+      "confidence": 1.0,
+      "notes": "Gaming correspondent; hosts the Mecha Chameleon block, names the server 'cream boys,' and applies texture camouflage."
+    },
+    {
+      "name": "Mom",
+      "canonical_name": "Brandon's Mother",
+      "speaking": true,
+      "timestamps": [
+        "01:46:04",
+        "02:57:48"
+      ],
+      "confidence": 1.0,
+      "notes": "Brandon's mother; yells through the bedroom door about hair cream, hosting orgies, and Taco Bell diarrhea."
+    },
+    {
+      "name": "Brandon's Mom",
+      "canonical_name": "Brandon's Mother",
+      "speaking": true,
+      "timestamps": [
+        "01:46:04",
+        "02:57:48"
+      ],
+      "confidence": 0.95,
+      "notes": "Muffled maternal voice berating the gaming correspondent from the hallway."
+    },
+    {
+      "name": "Donald Trump",
+      "canonical_name": "Donald Trump",
+      "speaking": false,
+      "timestamps": [
+        "01:02:06"
+      ],
+      "confidence": 1.0,
+      "notes": "Subject of major news segment; discussed in relation to reinstating a blockade of Iranian shipping and formally notifying Congress of a new war."
+    },
+    {
+      "name": "Lindsey Graham",
+      "canonical_name": "Lindsey Graham",
+      "speaking": false,
+      "timestamps": [
+        "01:04:22"
+      ],
+      "confidence": 0.95,
+      "notes": "Subject of political commentary; mocked by Hype Train for his tongue and political standing."
+    },
+    {
+      "name": "Mitch McConnell",
+      "canonical_name": "Mitch McConnell",
+      "speaking": false,
+      "timestamps": [
+        "01:41:43"
+      ],
+      "confidence": 0.95,
+      "notes": "Subject of news segment; discussed his recent fall, hospitalization, and the release of a 'proof of life' photo amid health concerns."
+    },
+    {
+      "name": "Brian Johnson",
+      "canonical_name": "Brian Johnson",
+      "speaking": false,
+      "timestamps": [
+        "01:16:24"
+      ],
+      "confidence": 0.9,
+      "notes": "Subject of news segment; biohacker diagnosed with an incurable autoimmune disease."
+    },
+    {
+      "name": "JD Vance",
+      "canonical_name": "JD Vance",
+      "speaking": false,
+      "timestamps": [
+        "01:40:41"
+      ],
+      "confidence": 0.95,
+      "notes": "Vice President; Case expresses hope that the new haircut will stop comparisons to him."
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Case's Looks Maxing Journey",
+      "beat": "Case Blackwell attempts to 'looks max' by getting a haircut for an upcoming podcast with Kendall. He solicits viewer and Kendall's opinions on the resulting 'Leon'/'90s boy band' center part and 2003 mullet.",
+      "timestamp": "00:08"
+    },
+    {
+      "storyline": "Denver Layover Ordeal",
+      "beat": "Case and Kendall recall being trapped in the Denver airport for 15 hours due to a fuel line emergency and a subsequent broken window frame, severely delaying their return to Los Angeles.",
+      "timestamp": "00:49:58"
+    },
+    {
+      "storyline": "Crum D*ck Punch",
+      "beat": "Dr. Cheth confirms that the execution of the wager is still pending due to complications with the Las Vegas gaming commission and boxing commission regarding the gorilla punch.",
+      "timestamp": "01:36:05"
+    },
+    {
+      "storyline": "The New World Order",
+      "beat": "News broadcast reports Trump's declaration of the 'Islamic Republic of Japan' following a missile strike on an aircraft carrier, with Case declaring 'Konichi Allah'.",
+      "timestamp": "01:03:18"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Pepito opens the broadcast with his standard introduction: 'I'm Pepito, I'm the dog that produces the show.'",
+      "timestamp": "00:08",
+      "confidence": 1.0
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "The correspondent's signature greeting is demanding a 'podcast type beat' or 'bulge type beat' from the production team.",
+      "timestamp": "00:15:11",
+      "confidence": 1.0
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Case and Kendall host a podcast together, where they must 'try stuff' from their weekly self-improvement topic. This week's focus is 'looks maxing'.",
+      "timestamp": "00:10:01",
+      "confidence": 1.0
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Case ordered a batch of temporary Bart Simpson tattoos, intending to cover his arms for 'one beautiful day' to create a fake tattoo sleeve.",
+      "timestamp": "00:31:26",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Brandon (Cryptozeus)",
+      "fact": "Brandon's mother constantly yells at him for leaving mayonnaise hair cream packages open, causing the contents to 'rot off' and be devoured by rats.",
+      "timestamp": "01:45:34",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Munch & Crum",
+      "fact": "Crum's official entrance protocol on the set involves demanding his coat back from Case, which Case routinely confiscates.",
+      "timestamp": "01:21:51",
+      "confidence": 1.0
+    },
+    {
+      "entity": "Munch & Crum",
+      "fact": "Crumb advocates for the assassination of political enemies, citing electoral failures as justification for replacing 'electoralism' with 'assassination'.",
+      "timestamp": "01:29:56",
+      "confidence": 1.0
+    },
+    {
+      "entity": "Mitch McConnell",
+      "fact": "Dr. Cheth reports speaking to Mitch McConnell on the phone for 20 minutes, securing a surprising endorsement for Case's haircut.",
+      "timestamp": "01:41:43",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "The Hype Train correspondent occasionally breaks character to deliver deadpan network news updates, such as reporting on Mitch McConnell's status while wearing a 'nudie style jacket'.",
+      "timestamp": "00:20:51",
+      "confidence": 1.0
+    }
+  ],
+  "_meta": {
+    "vod_id": "2817027458",
+    "model": "minimax/minimax-m3:free",
+    "transcript_lines": 3656
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "episode_summary": "Lead anchor Case Blackwell broadcasts from the Barely Informed News desk with the executive producer Pepito on the eve of the America 250th birthday celebration, discussing Trump's National Mall fair, the chained arch construction, and an array of viewer-submitted news. The Hype Train commandeers the broadcast with an extended freestyle rap about frozen urine and toilet eggs, before the network rotates through the Trip on the Streets segment, an unhinged AI Rooney complaint showcase, and a chaotic Cryptozeus gameplay dispatch of a Japanese PS1 Tamagotchi title that devolves into domestic flooding.",
+  "segments": [
+    {
+      "start": "00:10",
+      "end": "20:25",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Pepito Cold Open & America 250 Fair Rundown",
+      "notes": "Pepito opens the broadcast from the producer cam. Case reflects on leaving LA for Michigan during America week. Discusses the Great American Fair on the National Mall, the duct-taped arch, the cancelled Vanilla Ice concert, and Post Malone's scheduled headline performance. Crum allegedly uses 'help hours' to silence chat.",
+      "characters": [
+        "Case Blackwell",
+        "Pepito",
+        "Crum"
+      ]
+    },
+    {
+      "start": "20:25",
+      "end": "01:21:33",
+      "canonical_segment": "Hype Train",
+      "title": "Ice Fair Rap Type Beats",
+      "notes": "Hype Train takes over the broadcast with an extended freestyle rap about ice, piss, frozen National Mall, ferret wheels, connectors, furry taxonomy (birds are furry, lizards are scallies), the wrestler Ice Train RIP, Kassim's AI slop shop, and disturbing new Minions movie marketing. Case repeatedly attempts to regain control of the feed.",
+      "characters": [
+        "Hype Train",
+        "Case Blackwell",
+        "Jeff Ripple"
+      ]
+    },
+    {
+      "start": "01:21:33",
+      "end": "01:42:35",
+      "canonical_segment": "News",
+      "title": "Supreme Court, Massage Guns & Dinosaurs in Drawers",
+      "notes": "Case covers the Supreme Court rejecting Trump's bid to fire Fed governor Lisa Cook while expanding presidential powers, ongoing Iran conflict dispatches, a Scottish man who damaged his eyes with a massage gun, a 40-year-old Antarctic titanosaur fossil found in a drawer, a Michigan kitten with 28 toes, a bear in a car trunk, the Domino's fastest pizza maker, and a Fourth of July flirting study. Also discusses merch shop launch plans and Crum/Munch-themed shirt possibilities.",
+      "characters": [
+        "Case Blackwell",
+        "Jeff Ripple",
+        "Pepito"
+      ]
+    },
+    {
+      "start": "01:42:35",
+      "end": "01:50:21",
+      "canonical_segment": "Amongst the Web",
+      "title": "Jeff Ripple's Whale Bone Era & Viewer Submissions",
+      "notes": "Co-hosted by a chaotic Jeff Ripple in his 'Jam EFE era,' reviewing viewer-submitted videos including a chair banshee scream compilation, an arcade coin drop, a prize-winning hog watch, a human practitioner of the piss genre, a CPS-style video, a Florida farm animal last vision, a kid attempting to dunk on an 8'10\" hoop, and more.",
+      "characters": [
+        "Case Blackwell",
+        "Jeff Ripple",
+        "Live in Sleazy"
+      ]
+    },
+    {
+      "start": "01:50:21",
+      "end": "02:00:24",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Trip on the Streets Park Interviews",
+      "notes": "Field correspondent Trip Bradstein emerges from a two-month bush hibernation to collect opinions from park visitors including his mother (mistaken for a random citizen), Hype Train hijacking the interview for spoken-word about Dulp and the year 1972, a man with restaurant-syndrome, an aggressive DVD salesman, and 'Banana Fana the Man from Canada' trapped in a dollar bill. George W. Bush also appears with 'metastasized' face demanding to be painted.",
+      "characters": [
+        "Trip",
+        "Hype Train"
+      ]
+    },
+    {
+      "start": "02:00:24",
+      "end": "02:09:18",
+      "canonical_segment": "Amongst the Web",
+      "title": "AI Rooney Complaint Showcase",
+      "notes": "Case activates the proprietary AI Rooney for viewer prompts. Rooney delivers an escalating series of unhinged complaints about Wings sitcom yellow shirts, Ninja Turtles as mutated babies with guns, chewing cigarettes instead of smoking, the Daumont Network canceling Wrestling at the Chase, massage gun eye injuries, Matt Ladel being overshadowed by America on the 250th birthday, requesting Jeff Ripple nipple-cover merch, cherry phosphate shortages, and lizard/gummy worm linguistics. Case mutes Rooney multiple times to prevent explicit content.",
+      "characters": [
+        "Case Blackwell",
+        "AI Rooney"
+      ]
+    },
+    {
+      "start": "02:09:18",
+      "end": "02:31:38",
+      "canonical_segment": "Cryptozeus",
+      "title": "Tamagotchi PS1 Disaster & Hog Flood",
+      "notes": "Gaming correspondent Brandon (Cryptozeus) attempts to play a Japanese PS1 Tamagotchi-style game but cannot find the file or BIOS files, gets harangued by his mother about hair cutting, Gooters platinum membership, party subs, and a toilet/house flooding disaster. After downloading DuckStation and a virus-laden BIOS pack, he finally launches the bike-riding flower-tomadachi game. The stream ends mid-gameplay with Brandon rescuing an animal while the house floods with dead hogs and Pepsi-pressurized hoses.",
+      "characters": [
+        "Brandon (Cryptozeus)",
+        "Brandon's Mother"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [
+        "00:10",
+        "08:43",
+        "20:25",
+        "01:21:33",
+        "01:42:35",
+        "02:00:24",
+        "02:09:18"
+      ],
+      "confidence": 0.99,
+      "notes": "Lead anchor and managing editor. Broadcasts solo for the entire America 250th edition. Discusses Michigan travel plans, merch drop logistics, and single-handedly manages the unhinged Hype Train, AI Rooney, and Cryptozeus segments."
+    },
+    {
+      "name": "Pepito",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [
+        "00:10"
+      ],
+      "confidence": 0.98,
+      "notes": "Executive producer introducing the broadcast from the control room with his signature 'I'm the dog that produces the show' opening. Referenced as having built up a tolerance to almost everything."
+    },
+    {
+      "name": "Hype Train",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [
+        "20:25",
+        "01:24:52",
+        "01:25:03",
+        "01:25:13",
+        "01:26:36"
+      ],
+      "confidence": 0.99,
+      "notes": "High-velocity cultural correspondent. Delivers an extended ice/piss freestyle rap, then reappears during Trip on the Streets as a park visitor hijacking the interview with spoken-word about 1972 Dulp and a DVD player. Mourns the late wrestler Ice Train."
+    },
+    {
+      "name": "Jeff Ripple",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [
+        "01:02:39",
+        "01:42:35",
+        "01:46:25"
+      ],
+      "confidence": 0.95,
+      "notes": "Studio community correspondent. Co-hosts Amongst the Web in his 'Jam EFE era,' repeatedly demanding Case acknowledge 'I'm Jeff Ripple' as his catchphrase and getting upset about Case misreading his prompter. Later clarifies 'don't eat my nipples' as a Ripple-original."
+    },
+    {
+      "name": "Live in Sleazy",
+      "canonical_name": "Live in Sleazy",
+      "speaking": true,
+      "timestamps": [
+        "01:13:36",
+        "01:58:21"
+      ],
+      "confidence": 0.97,
+      "notes": "Control room ghost operator. Submits the prize-winning hog watch and a cherry phosphate complaint prompt to AI Rooney."
+    },
+    {
+      "name": "Crum",
+      "canonical_name": "Crum",
+      "speaking": false,
+      "timestamps": [
+        "00:09:37",
+        "00:09:46",
+        "01:00:07",
+        "01:00:11",
+        "01:00:59"
+      ],
+      "confidence": 0.85,
+      "notes": "Mentioned repeatedly. Case notes he is 'using help hours to silence chat' and wonders if he'll be 'in a honey sack' during the stream. Crum goat suggested as a potential first merch design, with 'Crum' winning the chat shirt vote (genital slit)."
+    },
+    {
+      "name": "Munch",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": false,
+      "timestamps": [
+        "00:59:02",
+        "01:00:01",
+        "01:00:14"
+      ],
+      "confidence": 0.85,
+      "notes": "Mentioned as a possible matching shirt for the upcoming BIN merch drop ('a Munch shirt and a Crum shirt')."
+    },
+    {
+      "name": "AI Rooney",
+      "canonical_name": "AI Rooney",
+      "speaking": true,
+      "timestamps": [
+        "01:47:21",
+        "01:47:30",
+        "01:47:42",
+        "01:48:24",
+        "01:48:36",
+        "01:48:51",
+        "01:49:24",
+        "01:49:52",
+        "01:50:18",
+        "01:54:39",
+        "01:55:25",
+        "01:56:56",
+        "01:58:21",
+        "01:59:52",
+        "02:00:18"
+      ],
+      "confidence": 0.97,
+      "notes": "Activated as 'Rooney 1.0' for the segment. Interacts with prompts via !rr. Generates wildly unhinged complaints about Wings, Ninja Turtles, Wrestling at the Chase, Matt Ladel, and lizard linguistics. Requires Casey to mute him mid-response to prevent explicit content."
+    },
+    {
+      "name": "Brandon (Cryptozeus)",
+      "canonical_name": "Brandon (Cryptozeus)",
+      "speaking": true,
+      "timestamps": [
+        "02:09:18",
+        "02:11:01",
+        "02:11:47",
+        "02:12:21",
+        "02:14:39",
+        "02:15:11",
+        "02:15:55",
+        "02:17:35",
+        "02:18:37",
+        "02:19:45",
+        "02:20:11",
+        "02:22:16",
+        "02:24:23",
+        "02:25:38",
+        "02:26:40",
+        "02:28:51"
+      ],
+      "confidence": 0.98,
+      "notes": "Gaming correspondent. Attempts to play a Japanese PS1 Tamagotchi-style game. Cannot find the BIOS, gets harangued by his mother about hair cutting and toilet flooding, but ultimately rescues a flower-tomadachi pet. Plans to use any BIN merch profits on a Gooters Platinum membership with seven buckets of swizzle chicken meat."
+    },
+    {
+      "name": "Brandon's Mother",
+      "canonical_name": "Brandon's Mother",
+      "speaking": true,
+      "timestamps": [
+        "02:13:38",
+        "02:14:27",
+        "02:14:55",
+        "02:15:11",
+        "02:16:18",
+        "02:21:44",
+        "02:27:19",
+        "02:29:49"
+      ],
+      "confidence": 0.99,
+      "notes": "Yells through Brandon's bedroom door about Subway party sub theft, haircuts, toilet/house flooding with eight feet of water and dead hogs, the feral pig hose, and 'pepsi hose' rituals. Also calls him 'Brandy'."
+    },
+    {
+      "name": "Trip",
+      "canonical_name": "Trip",
+      "speaking": true,
+      "timestamps": [
+        "01:50:21",
+        "01:51:18",
+        "01:51:53",
+        "01:52:28",
+        "01:54:39",
+        "01:55:01",
+        "01:55:55",
+        "01:56:45",
+        "01:57:33",
+        "01:58:17",
+        "01:58:33",
+        "01:58:57",
+        "01:59:33"
+      ],
+      "confidence": 0.96,
+      "notes": "Field correspondent broadcasting from a park bush. Just woke from a 'two-month bush hibernation.' Conducts 'Trip on the Streets' interviews with bizarre park citizens (his mother, Hype Train, Lol from Wings, George W. Bush, Banana Fana)."
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum D*ck Punch",
+      "beat": "Case ponders whether Crum will be 'in a honey sack' during the scheduled event, noting 'that could happen at any point.' Crum's reputation continues to be the subject of network jest.",
+      "timestamp": "00:09:41"
+    },
+    {
+      "storyline": "BIN Merch Drop",
+      "beat": "Case confirms the network merch goal was hit during the stream. Plans to launch post-July 4th with designs by Sobreche. Chat votes 'genital slit' (with Crum and Munch shirts mentioned as primary candidates) as the first shirt design. Hype Train 'Ice Ladel' shirt also floated. Hate Sock and Invisible Ricky considered. Clip farming activity planned as new stream goal.",
+      "timestamp": "01:21:33"
+    },
+    {
+      "storyline": "Liliana's Absence",
+      "beat": "Case acknowledges Liliana remains on 'extended vacation' and may return eventually. Cites issues finding a suitable streaming tool as barrier to bringing in fresh on-air faces.",
+      "timestamp": "01:22:35"
+    },
+    {
+      "storyline": "Case's Michigan Trip",
+      "beat": "Case announces he is leaving LA for Michigan to celebrate America week. Will be absent from Tuesday to Tuesday (later corrected to Wednesday), marking the first of multiple 'America week' broadcasts to be skipped.",
+      "timestamp": "00:09:11"
+    },
+    {
+      "storyline": "Hype Train Ice Lore",
+      "beat": "Hype Train freezes the National Mall with ice-cold piss and lives in a winter wonderland house. Also pays tribute to the late wrestler Ice Train.",
+      "timestamp": "00:25:31"
+    },
+    {
+      "storyline": "AI Rooney Unhinged Complaints",
+      "beat": "Rooney produces escalating provocations—about the Daumont Network canceling Wrestling at the Chase with fake Michael J. Fox claims, Matt Ladel being 'overshadowed' by America on its birthday, and bizarre lizard/gummy worm linguistics—requiring constant muting.",
+      "timestamp": "02:00:24"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Executive producer opens every broadcast with his signature 'I'm the dog that produces the show' introduction.",
+      "timestamp": "00:00:10",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Hype Train maintains an ongoing narrative about freezing the National Mall with ice-cold piss, building a 'house on a frozen piss,' and declaring 'toilets are for eggs.'",
+      "timestamp": "00:25:31",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Hype Train observed the late wrestler Ice Train has passed away. Hypetrain renamed himself 'Ice Train' but kept his moniker due to respect.",
+      "timestamp": "00:32:54",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Hype Train defines his taxonomy: 'Birds are furry,' 'Lizards and sharks are scallies,' and 'Big Bird is definitely a furry'.",
+      "timestamp": "00:31:08",
+      "confidence": 0.85
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Case admits to using a massage gun on his temples and near his eyes, calling it a 'responsible' practice before pivoting to the news.",
+      "timestamp": "00:55:14",
+      "confidence": 0.95
+    },
+    {
+      "entity": "AI Rooney",
+      "fact": "AI Rooney is activated via '!rr' command and limited to 10 viewer interactions per session. Pronouns 'he/hyped.' Casey notes 'I wonder if maybe I've created a monster that will kill us all.'",
+      "timestamp": "01:45:21",
+      "confidence": 0.95
+    },
+    {
+      "entity": "AI Rooney",
+      "fact": "AI Rooney has a recurring fixation on the sitcom Wings, the Daumont Network, and Michael J. Fox allegedly appearing in 'Sleep Away Camp.'",
+      "timestamp": "01:47:30",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Jeff Ripple",
+      "fact": "Jeff Ripple is now going by 'Jam EFE' (and 'Jeff Everything') in his current 'era.' Claims to have had his 'whole genitals replaced with custom whale bone' and is dropping a new album called 'Steam Shirt No Pants.'",
+      "timestamp": "01:42:35",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Trip",
+      "fact": "Field correspondent Trip Bradstein broadcasts live from a park bush after a 'two-month bush hibernation' and insists 'I'll never leave these streets.' Has a mother who visits the park and confuses him with a stranger.",
+      "timestamp": "01:50:21",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Brandon (Cryptozeus)",
+      "fact": "Brandon's mother harasses him through the bedroom door about haircuts, party sub theft, and toilet floods ('8 feet deep'). The feral hogs in the backyard are repelled by a hose Brandon purchased. She calls him 'Brandy'.",
+      "timestamp": "02:14:55",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Case's Twitch bio still has typos despite four years of streaming, and a leftover '1000 subs for a 24-hour news stream' goal persists.",
+      "timestamp": "01:46:35",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Case's audience interaction commands include '!c to talk to the Joes' and '!4' for merch suggestions.",
+      "timestamp": "00:58:51",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Munch & Crum",
+      "fact": "Case floated potential merch designs of 'a Munch shirt and a Crum shirt' so fans 'can pick your side.'",
+      "timestamp": "01:00:01",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Amongst the Web",
+      "fact": "During the segment, viewer contributions from Live in Sleazy, Fiona, Propaganda v2, Psychor, and Uncle Phil were evaluated with case noting 'we started strong and then we decided to go in a different direction' after multiple submissions veered into the piss genre.",
+      "timestamp": "01:11:54",
+      "confidence": 0.85
+    }
+  ],
+  "_meta": {
+    "vod_id": "KWzD34UnyBw",
+    "model": "openrouter/free",
+    "transcript_lines": 1591
+  }
+}

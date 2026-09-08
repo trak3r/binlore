@@ -9,8 +9,18 @@ private/
 .replit
 replit.nix
 
-# VOD pipeline artifacts (do not commit audio/video)
-tools/runs/
+# VOD pipeline artifacts: ignore audio/video, temp downloads, and batch logs
+tools/runs/**/*.m4a
+tools/runs/**/*.mp3
+tools/runs/**/*.wav
+tools/runs/**/*.opus
+tools/runs/**/*.webm
+tools/runs/**/*.mp4
+tools/runs/**/*.mkv
+tools/runs/**/*.part
+tools/runs/**/*.ytdl
+tools/runs/**/*.log
+tools/runs/*.log
 tools/screencaps/
 tools/.venv/
 *.mp3
@@ -18,5 +28,10 @@ tools/.venv/
 *.wav
 *.mp4
 *.mkv
+*.opus
+*.webm
+*.part
+*.ytdl
+*.log
 .env
 .env.*

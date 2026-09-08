@@ -1,0 +1,14 @@
+{
+  "vod_id": "2853919308",
+  "title": "100 Bart Simpson Tattoos",
+  "url": "https://www.twitch.tv/videos/2853919308",
+  "duration_seconds": 1898,
+  "duration": "31:38",
+  "timestamp": 1787452248,
+  "aired_at": "2026-08-23T02:30:48+00:00",
+  "date": "2026-08-23",
+  "ingested_at": "2026-09-04T22:26:19.930826+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "tiny"
+}

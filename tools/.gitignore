@@ -2,4 +2,14 @@
 __pycache__/
 *.egg-info/
 .pytest_cache/
-runs/
+runs/**/*.m4a
+runs/**/*.mp3
+runs/**/*.wav
+runs/**/*.opus
+runs/**/*.webm
+runs/**/*.mp4
+runs/**/*.mkv
+runs/**/*.part
+runs/**/*.ytdl
+runs/**/*.log
+runs/*.log

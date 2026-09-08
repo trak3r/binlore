@@ -1,0 +1,297 @@
+{
+  "episode_summary": "Barely Informed News returns from a mid-week skip for a brief, chaotic broadcast headlined by a massive, hour-long Hype Train surge featuring emo-trap freestyle raps, an impromptu Reggae-vs-Emo debate between Hype Train and Crum, and direct slamming of Crum's lingering presence. The condensed news desk covers the US-Iran Hormuz ceasefire violations, Trump's communist rant, the Kate Adams feet controversy, and a Croatian suckling pony miracle, before abruptly transitioning to Cryptozeus attempting to install The Elder Scrolls: Arena under siege from his mother yelling through the wall.",
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "08:42",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Pepito Intro & Casual Friday Delay",
+      "notes": "Pepito introduces the live broadcast. Blackwell notes the network skipped Wednesday and goes straight to 'curls' (Friday). He searches for his 'casual shirt' but is too busy, musing about wearing a 'fishtie' (fake tie). They discuss business jorts, basketball shorts, and Blackwell claiming he sometimes has 'wilt' energy from Foster's Home for Imaginary Friends.",
+      "characters": [
+        "Pepito",
+        "Case Blackwell"
+      ]
+    },
+    {
+      "start": "08:42",
+      "end": "48:33",
+      "canonical_segment": "Hype Train",
+      "title": "The Level 10 Emo Hype Train Siege",
+      "notes": "A massive hype train surge hits the network. Hype Train freestyles over increasingly chaotic emo beats ('I miss my eggs', 'I told my parents to blow up their eggs with the nuclear'). Crum unexpectedly inserts himself from the satellite room to defend the train's lyrical style. Hype Train achieves a rare Level 10 status, prompting a swirling vortex skeleton animation and a mariachi trap beat. The segment ends with Hype Train attempting to serenade 'Belulia' and Crum playfully roasting him.",
+      "characters": [
+        "Hype Train",
+        "Crum",
+        "Case Blackwell"
+      ]
+    },
+    {
+      "start": "48:33",
+      "end": "49:45",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Studio Return & Streamer Bathroom Habits",
+      "notes": "Hype train concludes. Blackwell returns noting the camera adds 10 pounds to his shorter hair. He discusses his '40 minute shower' powered by data center tokens, and announces he has to leave early to hang out with Fiona (from Shrek), Kendall, and Fiona Nova.",
+      "characters": [
+        "Case Blackwell"
+      ]
+    },
+    {
+      "start": "49:45",
+      "end": "01:09:14",
+      "canonical_segment": "News",
+      "title": "Ceasefire Irony & Chat Dispatches",
+      "notes": "Condensed news desk. Stories include: US striking Iran in the Strait of Hormuz despite MOUs; Trump's viral clip proposing free rent/houses ('Luxury Communism' coming to NYC); JD Vance clips comparing Nixon to Trump ('seems fine'); the Kate Adams 'feet in the news' NASCAR incident; a 1-month-old pony in Croatia surviving by suckling; the Iran vs Egypt Pride match in Seattle; and the Montana banana car police stop.",
+      "characters": [
+        "Case Blackwell",
+        "Donald Trump",
+        "JD Vance",
+        "Crum",
+        "Nixon",
+        "Mitch McConnell"
+      ]
+    },
+    {
+      "start": "01:09:14",
+      "end": "01:16:12",
+      "canonical_segment": "Munch & Crum",
+      "title": "Reggae vs Emo Debate",
+      "notes": "Triggered by a stream deck accident that loops the intro. Crum and Blackwell debate whether Reggae or Emo is the superior musical genre. Crum argues Reggae is versatile and deeply rooted in Rastafarian culture. Blackwell plays devil's advocate for Emo, citing its resonance with the American teenage condition. The segment ends in chaos as Blackwell struggles to press his victory button, killing the chat overlay.",
+      "characters": [
+        "Crum",
+        "Case Blackwell",
+        "Hype Train"
+      ]
+    },
+    {
+      "start": "01:16:12",
+      "end": "01:22:57",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Dick Punch Logistics & Stream Deck Failures",
+      "notes": "Crum provides an update on the gorilla execution. A Nevada Dick Punching License is required from the Nevada Gaming Commission because it's an 18th-century circus attraction not recognized as a sport elsewhere. Target is 'soft August'. Blackwell repeatedly fails to hit his stream deck buttons, missing the topic and accidentally re-triggering the intro.",
+      "characters": [
+        "Case Blackwell",
+        "Crum"
+      ]
+    },
+    {
+      "start": "01:22:57",
+      "end": "01:50:04",
+      "canonical_segment": "Cryptozeus",
+      "title": "Elder Scrolls Arena Installation Nightmare",
+      "notes": "Brandon attempts to play The Elder Scrolls: Arena. Fails to log into GOG, gives up on passwords, and is confused by the checkout process for a free game. The mother disrupts constantly about her air fryer, her 'Pastor Joe eating her out of a Jello pool', and demands a pool. Brandon names his character 'Carl Guter' and dies repeatedly to goblins, culminating in the mother declaring she will 'shit all weekend' and Brandon preparing to emancipate himself.",
+      "characters": [
+        "Brandon (Cryptozeus)",
+        "Brandon's Mother"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [
+        "00:14",
+        "08:44",
+        "16:38",
+        "35:00",
+        "49:31",
+        "51:07",
+        "52:46",
+        "59:48",
+        "01:09:14",
+        "01:12:52"
+      ],
+      "confidence": 0.99,
+      "notes": "Lead news anchor and managing editor."
+    },
+    {
+      "name": "Pepito",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [
+        "00:08",
+        "08:07"
+      ],
+      "confidence": 1.0,
+      "notes": "Executive producer of Barely Informed News."
+    },
+    {
+      "name": "Hype Train",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [
+        "12:20",
+        "14:42",
+        "19:13",
+        "24:26",
+        "26:51",
+        "29:23",
+        "30:42",
+        "33:07",
+        "37:45",
+        "42:35",
+        "46:45"
+      ],
+      "confidence": 1.0,
+      "notes": "High-velocity musical and cultural correspondent."
+    },
+    {
+      "name": "Crum",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [
+        "28:23",
+        "30:52",
+        "36:11",
+        "39:42",
+        "41:15",
+        "45:36",
+        "47:28",
+        "01:10:06",
+        "01:12:16",
+        "01:20:00"
+      ],
+      "confidence": 0.98,
+      "notes": "Senior debate analyst. Interjects from the satellite room to rap with the Hype Train and debate Reggae vs Emo."
+    },
+    {
+      "name": "Brandon (Cryptozeus)",
+      "canonical_name": "Brandon (Cryptozeus)",
+      "speaking": true,
+      "timestamps": [
+        "01:23:16",
+        "01:27:30",
+        "01:30:42",
+        "01:33:05",
+        "01:35:05",
+        "01:41:19",
+        "01:44:27"
+      ],
+      "confidence": 1.0,
+      "notes": "Resident gaming correspondent broadcasting from his bedroom studio."
+    },
+    {
+      "name": "Brandon's Mother",
+      "canonical_name": "Brandon's Mother",
+      "speaking": true,
+      "timestamps": [
+        "01:25:51",
+        "01:30:02",
+        "01:31:32",
+        "01:32:49",
+        "01:38:06",
+        "01:39:26",
+        "01:41:43",
+        "01:46:58"
+      ],
+      "confidence": 1.0,
+      "notes": "Shouts through the bedroom door about chimichangas, air fryers, and Jello pools."
+    },
+    {
+      "name": "Donald Trump",
+      "canonical_name": "Donald Trump",
+      "speaking": false,
+      "timestamps": [
+        "52:46",
+        "55:09"
+      ],
+      "confidence": 1.0,
+      "notes": "Subject of news segments; quoted advocating for free housing (Luxury Communism) and striking Iran."
+    },
+    {
+      "name": "JD Vance",
+      "canonical_name": "JD Vance",
+      "speaking": false,
+      "timestamps": [
+        "57:20"
+      ],
+      "confidence": 1.0,
+      "notes": "Quoted comparing Nixon's removal to Trump's and suggesting modern politicians can get away with more."
+    },
+    {
+      "name": "Mitch McConnell",
+      "canonical_name": "Mitch McConnell",
+      "speaking": false,
+      "timestamps": [
+        "55:17"
+      ],
+      "confidence": 1.0,
+      "notes": "Referenced as part of the 'Mom Donny' luxury communism block."
+    },
+    {
+      "name": "Nixon",
+      "canonical_name": "Nixon",
+      "speaking": false,
+      "timestamps": [
+        "56:58"
+      ],
+      "confidence": 1.0,
+      "notes": "Subject of chat submissions; discussed as being 'competently corrupt' and unable to escape the deep state."
+    },
+    {
+      "name": "Kendall",
+      "canonical_name": "Kendall",
+      "speaking": false,
+      "timestamps": [
+        "51:13"
+      ],
+      "confidence": 0.9,
+      "notes": "Mentioned by Blackwell as being involved in a 'threple' date with Fiona."
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum D*ck Punch",
+      "beat": "Crum provides a logistical update on the impending gorilla execution, noting that because dick punching is an unrecognized sport outside of Nevada, he must acquire clearance from the Nevada Gaming Commission. Target execution window is loosely 'soft August'.",
+      "timestamp": "01:20:04"
+    },
+    {
+      "storyline": "Hype Train Cadence",
+      "beat": "Hype Train takes over the broadcast for over 40 minutes, freestyling an emo album over various beats (including a mariachi trap instrumental) before finally departing. Crum acts as hype man and fellow rapper throughout.",
+      "timestamp": "08:44"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Blackwell is on a new clothing regimen 'courtesy of Jeff Bezos' and his own life, transitioning away from basketball shorts to feel more human, though he admits he 'sometimes has legs' and has 'wilt energy.'",
+      "timestamp": "10:29",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Hype Train claims to have been banned from 'saying piss' by his parents, resulting in a rebellious emo-rap phase about eggs in toilets.",
+      "timestamp": "25:02",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Crum D*ck Punch",
+      "fact": "Dick punching is not a recognized sport anywhere but Nevada. It was historically an 18th-century circus attraction that was struck from history to prevent teenagers from doing it 'rainbow party style'. Crum is currently seeking a 'Nevada dick punching license' from the Gaming Commission.",
+      "timestamp": "01:20:28",
+      "confidence": 1.0
+    },
+    {
+      "entity": "Barely Informed News",
+      "fact": "The network skipped their Wednesday broadcast and went straight to 'curls, the Friday of news'.",
+      "timestamp": "08:51",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Barely Informed News",
+      "fact": "Blackwell must leave the broadcast early to hang out with 'Fiona from Shrek', Kendall, and Fiona Nova in a 'threple'.",
+      "timestamp": "51:07",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Cryptozeus",
+      "fact": "Brandon's mother loudly threatened to buy a pool to be 'eaten out' of by 'Pastor Joe', then threatened to leave her door open so chat could hear him. Brandon considered emancipating himself and being adopted by his neighbor, 'Brecky', a 72-year-old woman.",
+      "timestamp": "01:30:46",
+      "confidence": 0.95
+    }
+  ],
+  "_meta": {
+    "vod_id": "d_n98PLCE6A",
+    "model": "openrouter/free",
+    "transcript_lines": 2248
+  }
+}

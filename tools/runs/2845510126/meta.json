@@ -1,0 +1,19 @@
+{
+  "vod_id": "2845510126",
+  "title": "Reflecting the News",
+  "url": "https://www.twitch.tv/videos/2845510126",
+  "duration_seconds": 5908,
+  "duration": "1:38:28",
+  "timestamp": 1786579200,
+  "aired_at": "2026-08-13T00:00:00+00:00",
+  "date": "2026-08-13",
+  "ingested_at": "2026-09-06T16:33:24.444317+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "gWHbmVr12RA",
+  "yt_url": "https://www.youtube.com/watch?v=gWHbmVr12RA",
+  "twitch_id": "2845510126",
+  "twitch_url": "https://www.twitch.tv/videos/2845510126",
+  "catalog_date": "2026-08-13"
+}

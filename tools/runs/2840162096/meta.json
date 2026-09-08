@@ -1,0 +1,19 @@
+{
+  "vod_id": "2840162096",
+  "title": "Friday News Slop",
+  "url": "https://www.twitch.tv/videos/2840162096",
+  "duration_seconds": 8992,
+  "duration": "2:29:52",
+  "timestamp": 1786147200,
+  "aired_at": "2026-08-08T00:00:00+00:00",
+  "date": "2026-08-08",
+  "ingested_at": "2026-09-06T17:49:15.784256+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "dZoQ9BAoxhU",
+  "yt_url": "https://www.youtube.com/watch?v=dZoQ9BAoxhU",
+  "twitch_id": "2840162096",
+  "twitch_url": "https://www.twitch.tv/videos/2840162096",
+  "catalog_date": "2026-08-08"
+}

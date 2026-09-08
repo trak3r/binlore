@@ -1,0 +1,414 @@
+{
+  "episode_summary": "Barely Informed News returns for a brief afternoon broadcast ahead of the Patreon segment, with Case Blackwell leading a shortened news desk covering Trump's primetime election integrity address, JD Vance's Secret Service helicopter controversy, and the deployment of a humanoid robot teacher in a New York school district. The episode features unscheduled drop-ins from JD Vance, an unhinged Munch & Crum debate on whether Trump won the 2020 election, and a chaotic failed interview with a confused in-studio guest who only speaks 'baseball.'",
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "00:32",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Pepito Cold Open",
+      "notes": "Pepito opens the broadcast as executive producer, immediately interrupted by chat demanding to know about 'Stephanie Kase's new girlfriend'.",
+      "characters": [
+        "Pepito"
+      ]
+    },
+    {
+      "start": "00:32",
+      "end": "20:32",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Pre-Show Banter and Stephanie Saga",
+      "notes": "Extended cold open discussion between Case and chat, setting up the broadcast, discussing Trump's upcoming primetime election address, the Stephanie/A.I. Rooney conspiracy, and Crum's pending gorilla punch scheduled for mid-August.",
+      "characters": [
+        "Case Blackwell",
+        "Pepito"
+      ]
+    },
+    {
+      "start": "20:35",
+      "end": "57:33",
+      "canonical_segment": "News",
+      "title": "News Desk: Trump Primetime Address, Vance Helicopter Scandal, and Real Botics Classroom Robot",
+      "notes": "Case anchors the news desk with Rick as co-contributor. Topics include Trump's Fox-only primetime election integrity speech (NBC/ABC/CNN refusing to air), JD Vance's unannounced appearance defending his Secret Service helicopter requests, Flock surveillance tower vandalism memes, and the Salamanca City Central School District deploying a $57,900 humanoid robot teacher from Real Botics.",
+      "characters": [
+        "Case Blackwell",
+        "Rick",
+        "JD Vance"
+      ]
+    },
+    {
+      "start": "57:41",
+      "end": "01:09:37",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum Debate: Trump Won the 2020 Election",
+      "notes": "Senior debate analysts Munch and Crum clash over whether Trump won the 2020 election, with Munch defending Trump's 'integrity' through increasingly absurd analogies involving nipple spikes, while Crum insists the election was not stolen. Live chat polling continues to defeat Munch.",
+      "characters": [
+        "Munch (Ralph Munchcut)",
+        "Crum",
+        "Case Blackwell"
+      ]
+    },
+    {
+      "start": "01:09:37",
+      "end": "01:18:01",
+      "canonical_segment": "News",
+      "title": "A.I. Rooney Budget Dispute and Pablo Sanchez Interview Attempt",
+      "notes": "Post-debate segment where A.I. Rooney (off-screen) demands to know why his funding was cut after spending $32 billion. Case announces a hastily-arranged interview with Pablo Sanchez from Backyard Sports, but the wrong guest appears—a man in a baseball hat who only speaks the 'language of baseball.' The confused guest is launched skyward and eventually crashes back to earth.",
+      "characters": [
+        "Case Blackwell",
+        "A.I. Rooney",
+        "Baseball Man"
+      ]
+    },
+    {
+      "start": "01:18:01",
+      "end": "01:19:33",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Outro and Raid to Patreon",
+      "notes": "Case announces the raid to 'digity-dank' and signs off, transitioning to the Patreon segment. Chat coerces a chat raid out of Case before he leaves.",
+      "characters": [
+        "Case Blackwell"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [
+        "00:08"
+      ],
+      "confidence": 0.99,
+      "notes": "Executive producer delivers cold open intro before cutting to live broadcast."
+    },
+    {
+      "name": "Case Blackwell",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [
+        "00:32",
+        "08:05",
+        "20:35",
+        "57:41",
+        "01:09:37"
+      ],
+      "confidence": 1.0,
+      "notes": "Lead anchor and managing editor presiding over the entire abbreviated broadcast, delivering news, bantering with JD Vance, and managing the failed Pablo Sanchez interview."
+    },
+    {
+      "name": "Rick",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [
+        "20:38",
+        "21:55",
+        "23:28",
+        "25:25",
+        "26:49",
+        "27:08",
+        "27:55",
+        "48:18"
+      ],
+      "confidence": 0.97,
+      "notes": "Investigative media correspondent joins the news desk, providing commentary on Trump's address, JD Vance's couch jokes, and the humanoid robot story."
+    },
+    {
+      "name": "JD Vance",
+      "canonical_name": "JD Vance",
+      "speaking": true,
+      "timestamps": [
+        "33:03",
+        "33:13",
+        "33:36",
+        "34:08",
+        "34:18",
+        "34:33",
+        "35:25",
+        "36:17",
+        "36:34",
+        "37:07",
+        "38:11"
+      ],
+      "confidence": 0.95,
+      "notes": "Vice President makes an unannounced on-air appearance to defend his Secret Service detail's helicopter requests, discussing Shasta, Feistas, and Samuel Adams cocktails while claiming to combat the male loneliness epidemic."
+    },
+    {
+      "name": "Munch",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [
+        "57:41",
+        "58:06",
+        "58:14",
+        "58:44",
+        "01:00:00",
+        "01:00:30",
+        "01:02:35"
+      ],
+      "confidence": 0.98,
+      "notes": "Senior debate analyst argues that Trump won the 2020 election by retaining his 'integrity,' using bizarre nipple-spike analogies."
+    },
+    {
+      "name": "Crum",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [
+        "57:41",
+        "58:24",
+        "59:00",
+        "59:20",
+        "01:00:18",
+        "01:01:09",
+        "01:03:39",
+        "01:07:07"
+      ],
+      "confidence": 0.98,
+      "notes": "Senior debate analyst declares Trump lost the 2020 election with 100% certainty, mocks Munch's rhetorical collapse, and complains about nipple spike distractions before prematurely exiting the debate."
+    },
+    {
+      "name": "AI Rooney",
+      "canonical_name": "AI Rooney",
+      "speaking": true,
+      "timestamps": [
+        "01:09:37",
+        "01:09:43",
+        "01:09:50",
+        "01:10:04",
+        "01:10:24",
+        "01:10:46",
+        "01:11:12",
+        "01:11:46"
+      ],
+      "confidence": 0.95,
+      "notes": "Decommissioned AI contributor reappears via off-screen voice to demand to know why his $32 billion research funding was cut, explaining he secured alternate funding after the Saudis declined."
+    },
+    {
+      "name": "Baseball Man",
+      "canonical_name": "Baseball Man",
+      "speaking": true,
+      "timestamps": [
+        "01:15:14",
+        "01:15:22",
+        "01:15:30",
+        "01:15:44",
+        "01:16:02",
+        "01:16:18",
+        "01:17:08",
+        "01:17:30"
+      ],
+      "confidence": 0.85,
+      "notes": "Mysterious in-studio guest in a baseball hat who speaks only 'the language of baseball,' repeatedly identifying everyone as baseballs before crashing back to earth from a home run trajectory."
+    },
+    {
+      "name": "A.I. Rooney",
+      "canonical_name": "AI Rooney",
+      "speaking": false,
+      "timestamps": [
+        "09:40",
+        "09:47",
+        "18:36"
+      ],
+      "confidence": 0.97,
+      "notes": "Discussed as being censored by Blackwell for problematic language about Stephanie before he could reveal the affair case."
+    },
+    {
+      "name": "Kendall",
+      "canonical_name": "Kendall",
+      "speaking": false,
+      "timestamps": [
+        "18:03"
+      ],
+      "confidence": 0.9,
+      "notes": "Referenced in passing by Case as 'Drunkleted' in relation to Stephanie's potential new girlfriend."
+    },
+    {
+      "name": "Liliana",
+      "canonical_name": "Liliana",
+      "speaking": false,
+      "timestamps": [
+        "21:38"
+      ],
+      "confidence": 0.9,
+      "notes": "Mentioned by chat as knowing where Stephanie is, with Case confirming she is a 'big time international power broker' currently busy."
+    },
+    {
+      "name": "Pete Hegseth",
+      "canonical_name": "Pete Hegseth",
+      "speaking": false,
+      "timestamps": [
+        "38:44"
+      ],
+      "confidence": 0.9,
+      "notes": "Referenced as the 'Department of War' leader who beat Vance in a political fight."
+    },
+    {
+      "name": "Eric Trump",
+      "canonical_name": "Eric Trump",
+      "speaking": false,
+      "timestamps": [
+        "00:14"
+      ],
+      "confidence": 0.85,
+      "notes": "Vaguely referenced in opening chat as Case dismisses 'Stephanie Kase's new girlfriend' inquiry."
+    },
+    {
+      "name": "Munch",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": false,
+      "timestamps": [
+        "28:41"
+      ],
+      "confidence": 0.85,
+      "notes": "Referenced by chat suggesting JD Vance 'lost to' him in political sparring."
+    },
+    {
+      "name": "Crum",
+      "canonical_name": "Crum",
+      "speaking": false,
+      "timestamps": [
+        "13:27",
+        "13:35"
+      ],
+      "confidence": 0.95,
+      "notes": "Chat demands the gorilla punch, with Case targeting mid-August for the execution."
+    },
+    {
+      "name": "Abraham Lincoln",
+      "canonical_name": "Abraham Lincoln",
+      "speaking": false,
+      "timestamps": [
+        "09:47",
+        "20:38"
+      ],
+      "confidence": 0.95,
+      "notes": "Lincoln referenced twice: Case interrupts chat to impersonate him with a high-pitched voice, and Rick jokes he is the closest thing to Abraham Lincoln on the stream."
+    },
+    {
+      "name": "Jeb Noggin",
+      "canonical_name": "Jeb Noggin",
+      "speaking": false,
+      "timestamps": [
+        "27:21"
+      ],
+      "confidence": 0.9,
+      "notes": "Chat references Jeb's expertise in 'getting rid of unwanted' things when discussing Puffy Bear."
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "The Stephanie Saga",
+      "beat": "Case continues to evade chat demands to explain the Stephanie Kase relationship affair, explicitly silencing A.I. Rooney to prevent the full story from leaking. The running gag features escalating chat accusations, jokes about Michigan J. Frog, and StephanieIRL being gifted a subscription.",
+      "timestamp": "00:14"
+    },
+    {
+      "storyline": "Crum D*ck Punch",
+      "beat": "Case confirms the gorilla punch execution is targeted for mid-August, with chat demanding it be turned into a voting type event.",
+      "timestamp": "13:27"
+    },
+    {
+      "storyline": "Puffy Bear Rescue Mission",
+      "beat": "Rick announces a plan to rescue Puffy Bear from Cassham's camper in Los Angeles, scheduling it for a future in-person Patreon recording. Case expresses dread about housing the bear, considering shoving it in his closet or letting his cats destroy it.",
+      "timestamp": "22:21"
+    },
+    {
+      "storyline": "A.I. Rooney Funding Cuts",
+      "beat": "A.I. Rooney reappears to demand accountability for his terminated research funding after spending $32 billion. Case denies pulling funding while Rooney secures alternative backers after the Saudis declined.",
+      "timestamp": "01:09:37"
+    },
+    {
+      "storyline": "Munch–Crum Rivalry",
+      "beat": "Munch and Crum debate Trump's 2020 election 'integrity.' Munch delivers incoherent analogies about nipple spikes while Crum refuses to engage in substantive debate, eventually storming off when reality 'starts tearing.'",
+      "timestamp": "57:41"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Standard cold open catchphrase: 'I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog.'",
+      "timestamp": "00:08",
+      "confidence": 1.0
+    },
+    {
+      "entity": "AI Rooney",
+      "fact": "The decommissioned Rooney model has pivoted to alternative research funding after the Saudis declined to finance him; he claims to have secured a different back channel.",
+      "timestamp": "01:10:38",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Grandma Crumble Bottom",
+      "fact": "Referred to as 'Grandman' in a station-wide joke, with Case crediting 'the honestly miracle accounting of grand man' as the reason BIN stays afloat.",
+      "timestamp": "01:11:10",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Gooters Chicken",
+      "fact": "Gooters is described as 'one of the first subscription style brick and mortar sloppy wing restaurants,' known primarily for their sloppy wings and subscription chicken and pickles.",
+      "timestamp": "18:21",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Liliana",
+      "fact": "Case reveals Liliana is a 'big time international power broker' and her continued absence is attributed to others failing to 'update certain things.'",
+      "timestamp": "21:38",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Case notes he 'can't control the train at all times,' confirming the Hype Train's erratic scheduling during pledge surges.",
+      "timestamp": "51:09",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Crum D*ck Punch",
+      "fact": "The robotic gorilla execution is formally scheduled for mid-August 2026.",
+      "timestamp": "13:29",
+      "confidence": 1.0
+    },
+    {
+      "entity": "JD Vance",
+      "fact": "JD Vance claims to combat the 'loneliness epidemic' by forcing his Secret Service detail (Steve Ball, Mike Long-ass, Johnny Astee, Tommy Tall-ass, Sneak) to stay up until 4 a.m. playing 'original Counter-Strike Knot Source' while drinking Shasta and Shasta/Fanta/Samuel Adams 'Feistas.'",
+      "timestamp": "33:16",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Real Botics",
+      "fact": "The Seneca Nation-based robotics company sells modular humanoid robots starting at $95,000 (M-series), full-bodied robots at $125,000, and bust units starting at $20,000, plus a $200/month subscription for AI services.",
+      "timestamp": "52:50",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Salamanca City Central School District",
+      "fact": "Located in the Seneca Nation Reservation in western New York, the district purchased a Real Botics M-series humanoid teacher for $57,900 to deploy as an AI teaching assistant.",
+      "timestamp": "42:24",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Munch & Crum",
+      "fact": "When a debate moderator is unavailable, Munch retains authority to launch the !MC command himself, manually creating his own side of the debate topic.",
+      "timestamp": "01:03:01",
+      "confidence": 0.9
+    },
+    {
+      "entity": "PENILE MONDOR'S DISEASE",
+      "fact": "First identified by French physician Henri Mondor in 1939, Penile Mondor's Disease involves thrombophlebitis (vein inflammation and clotting) and presents with painful erections, edema, reddening, and urinary difficulty.",
+      "timestamp": "55:11",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Pablo Sanchez",
+      "fact": "Community-requested interview subject from Backyard Sports, nicknamed 'Secret Weapon,' birthday 8/18. The interview fails when production accidentally fetches the wrong guest who only speaks 'baseball.'",
+      "timestamp": "01:12:14",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Case confirms he suffers from altitude-based intelligence changes, stating 'I'm not high enough to remember' previous on-air events.",
+      "timestamp": "01:18:52",
+      "confidence": 0.9
+    }
+  ],
+  "_meta": {
+    "vod_id": "2821762273",
+    "model": "openrouter/free",
+    "transcript_lines": 1607
+  }
+}

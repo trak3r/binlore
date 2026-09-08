@@ -1,0 +1,19 @@
+{
+  "vod_id": "2817027458",
+  "title": "The News LIVES",
+  "url": "https://www.twitch.tv/videos/2817027458",
+  "duration_seconds": 10782,
+  "duration": "2:59:42",
+  "timestamp": 1783728000,
+  "aired_at": "2026-07-11T00:00:00+00:00",
+  "date": "2026-07-11",
+  "ingested_at": "2026-09-07T01:05:37.164922+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "k6zkZVgVDts",
+  "yt_url": "https://www.youtube.com/watch?v=k6zkZVgVDts",
+  "twitch_id": "2817027458",
+  "twitch_url": "https://www.twitch.tv/videos/2817027458",
+  "catalog_date": "2026-07-11"
+}

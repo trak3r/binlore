@@ -1,0 +1,360 @@
+{
+  "episode_summary": "Lead anchor Case Blackwell anchors a Friday afternoon edition of Barely Informed News, traversing vague US intelligence assessments of Russian aggression, viral animal sports, the world's oldest recovered Guinness, and a full-length archival review of a Norm Macdonald Conan clip. Crum returns to the desk to debate the best cinematic Spider-Man while mourning his daughter's legal emancipation, before Brandon commandeers the feed for a chaotic Super Mario Bros. 3 retro livestream with his mother heckling through the door and a full Gooters sponsorship read.",
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "15:08",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Pepito Cold Open & Backstage Banter",
+      "notes": "Executive Producer Pepito opens the broadcast from the control room. Blackwell takes viewer greetings, teases a potential Wario Land 4 retro stream, settles banter about a perceived AI segment cancellation, and jokes about launching ex-wives from catapults before transitioning into the news desk.",
+      "characters": [
+        "Case Blackwell",
+        "Pepito"
+      ]
+    },
+    {
+      "start": "15:08",
+      "end": "27:59",
+      "canonical_segment": "News",
+      "title": "Russia NATO Threat & Florida Teen Professor",
+      "notes": "Blackwell reads wire copy on US intelligence warnings of a possible Russian test of NATO resolve, discusses the proxy war footing, and pivots to a UPI feed covering 18-year-old Nathan Thomas, the Guinness World Record holder for youngest college professor. The segment is interrupted by a literal tear in the studio reality (a physical rip in the backdrop).",
+      "characters": [
+        "Case Blackwell"
+      ]
+    },
+    {
+      "start": "27:59",
+      "end": "37:54",
+      "canonical_segment": "News",
+      "title": "Surfing Dogs & Rescued Horse",
+      "notes": "Blackwell continues the news block with the Jeff Ripple UPI All News Minute covering the 10th annual World Dog Surfing Championships in Pacifica and a helicopter rescue of a stranded horse during the Tevis Cup endurance ride.",
+      "characters": [
+        "Case Blackwell",
+        "Jeff Ripple"
+      ]
+    },
+    {
+      "start": "37:54",
+      "end": "41:04",
+      "canonical_segment": "News",
+      "title": "162-Year-Old Shipwreck Guinness",
+      "notes": "Discussion of the 1864 Guinness bottle recovered off Dover and KU Leuven University's plan to potentially re-brew the recipe via yeast DNA recovery. Chat user GiggleTrash is celebrated for matching the 1864 year with their subscription tenure.",
+      "characters": [
+        "Case Blackwell"
+      ]
+    },
+    {
+      "start": "41:04",
+      "end": "55:28",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train on Living Piss & The Power of Love",
+      "notes": "Triggered by the word 'science', Hype Train hijacks the broadcast. He delivers a freestyle rap arguing that urine is a living organism oppressed by humanity, then transitions into a rap about love existing in stars, bars, and explosions. He rejects Case's attempts to force the segment to wrap up.",
+      "characters": [
+        "Case Blackwell",
+        "Hype Train"
+      ]
+    },
+    {
+      "start": "55:28",
+      "end": "57:02",
+      "canonical_segment": "News",
+      "title": "Jet Ski & Subscriber Acknowledgement",
+      "notes": "Hype Train finally wraps up with a brief acknowledgement of subscriber contributions and 100-bit donations before ceding control.",
+      "characters": [
+        "Case Blackwell",
+        "Hype Train"
+      ]
+    },
+    {
+      "start": "57:02",
+      "end": "67:11",
+      "canonical_segment": "News",
+      "title": "Chairman of the Board DVD Review",
+      "notes": "Blackwell announces plans to buy the Carrot Top film 'Chairman of the Board' on DVD for $6.59, then screens a seven-minute archival clip from Norm Macdonald's talk show featuring Courtney Thorne-Smith discussing her departure from Melrose Place and the Carrot Top film.",
+      "characters": [
+        "Case Blackwell"
+      ]
+    },
+    {
+      "start": "67:11",
+      "end": "71:22",
+      "canonical_segment": "News",
+      "title": "Wrestling Penis Pic & Tom Brady News",
+      "notes": "Blackwell reviews chat-submitted headlines including Tommaso Ciampa's phone-grabbing incident, the live-action Jetsons movie starring Jim Carrey, and an overdue library book bricked into a fireplace.",
+      "characters": [
+        "Case Blackwell"
+      ]
+    },
+    {
+      "start": "71:22",
+      "end": "99:48",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web with Grandma Crumble Bottom",
+      "notes": "Co-hosted by Grandma Crumble Bottom. The duo reviews viewer-submitted clips: Paul McCartney's explosion pyro, a chaotic 'Bitch I'm Side-Neck' rap video, Alt-Kevin's misaligned plug attempt, a cheetah being chased by baboons, a 7-Eleven mascot blown away in Taiwan wind, a Chuck Norris-style T-Bone Hogan video, a 'Punch Me in the Nuts Barney' retro clip, an impressive CGI Spider-Man Found Footage Fest entry, and the infamous 'Mitch McConnell' gardener compilation. Audience sentiment scores are tracked throughout.",
+      "characters": [
+        "Case Blackwell",
+        "Grandma Crumble Bottom"
+      ]
+    },
+    {
+      "start": "99:48",
+      "end": "104:52",
+      "canonical_segment": "Munch & Crum",
+      "title": "Spider-Man Debate & Crum's Daughter",
+      "notes": "Crum joins the desk. He reveals his 26-year-old daughter Bethesda has legally emancipated herself from him, triggered by his surprise delivery of several ponies (two arrived dead). Crum and Munch debate the best live-action Spider-Man; Munch takes Andrew Garfield (citing his 'gentle eyes' and 'long slender bod'), while Crum stubbornly claims both Tobey Maguire and Tom Holland. Crum officially schedules the Crum D*ck Punch robotic gorilla execution for August 31st.",
+      "characters": [
+        "Case Blackwell",
+        "Munch",
+        "Crum"
+      ]
+    },
+    {
+      "start": "104:52",
+      "end": "107:38",
+      "canonical_segment": "Munch & Crum",
+      "title": "Crum's Memoir Pitch & Segment Conclusion",
+      "notes": "Crum pitches his out-of-print memoir 'Crum Fused: Making it Through my 20s One Lick at a Time' to Munch. Munch destroys Crum with increasingly erratic and bitter non-sequiturs before the segment abruptly cuts to black.",
+      "characters": [
+        "Case Blackwell",
+        "Munch",
+        "Crum"
+      ]
+    },
+    {
+      "start": "107:38",
+      "end": "129:51",
+      "canonical_segment": "News",
+      "title": "Chocolate Milk Debate with Dr. Marcus Filman",
+      "notes": "A guest pediatrician, Dr. Marcus Filman, joins the broadcast to debate whether chocolate milk is safe for babies. He is rapidly interrupted and 'voted out' by chaotic guests including a 17-baby father, a man insisting on chocolate bones, and a self-identified baby raising 19 babies, all of whom derail the medical discussion into farce.",
+      "characters": [
+        "Case Blackwell",
+        "Tommy Biglaw"
+      ]
+    },
+    {
+      "start": "129:51",
+      "end": "181:23",
+      "canonical_segment": "Cryptozeus",
+      "title": "Cryptozeus: Super Mario Bros. 3 Retro Run",
+      "notes": "Gaming correspondent Brandon (Cryptozeus) takes over for a remote retro livestream of a romhack of Super Mario Bros. 3. His mother heckles him continuously through the closed door about Gooters chicken sponsorships, drinking chocolate milk, Pastor Joe's rubber socks filled with soda, and her attraction to a surfing dog named Hauncho. The broadcast is repeatedly broken up by Gooters wet wing sponsorship reads.",
+      "characters": [
+        "Brandon (Cryptozeus)"
+      ]
+    },
+    {
+      "start": "181:23",
+      "end": "189:52",
+      "canonical_segment": "Cryptozeus",
+      "title": "Cryptozeus Sign-off & Crum Cameo",
+      "notes": "Brandon finishes the Mario level, rushes off due to a ghost signaling 8:00 PM, and abandons the broadcast with $6 million in earnings. Crum unexpectedly returns to plug his memoir and offer his services as an expert in holding it for people while they urinate. Blackwell announces he will be out of town Monday and streaming again Wednesday.",
+      "characters": [
+        "Case Blackwell",
+        "Crum",
+        "Brandon (Cryptozeus)"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [
+        "00:14",
+        "15:08",
+        "27:59",
+        "37:54",
+        "41:04",
+        "55:28",
+        "57:02",
+        "67:11",
+        "71:22",
+        "99:48",
+        "104:52",
+        "107:38",
+        "181:23"
+      ],
+      "confidence": 0.99,
+      "notes": "Lead anchor and managing editor; conducts the news block, forces the Hype Train segment to wrap, debates with Grandma Crumble Bottom, and sets up the Crum D*ck Punch date."
+    },
+    {
+      "name": "Pepito",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [
+        "00:00"
+      ],
+      "confidence": 0.98,
+      "notes": "Executive Producer who opens the broadcast via the Producer Cam."
+    },
+    {
+      "name": "Jeff Ripple",
+      "canonical_name": "Jeff Ripple",
+      "speaking": false,
+      "timestamps": [
+        "27:59"
+      ],
+      "confidence": 0.85,
+      "notes": "ASR transcribed as 'Ben Hooper'. His UPI All News Minute audio package is played during the news block covering the dog surfing championships and the horse rescue."
+    },
+    {
+      "name": "Hype Train",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [
+        "41:04",
+        "55:28"
+      ],
+      "confidence": 0.99,
+      "notes": "High-velocity cultural correspondent. Hijacks the broadcast after the word 'science' is uttered, rapping about living urine organisms being oppressed by flushing, then pivoting to raps about love existing in stars, bars, and explosions."
+    },
+    {
+      "name": "Grandma Crumble Bottom",
+      "canonical_name": "Grandma Crumble Bottom",
+      "speaking": true,
+      "timestamps": [
+        "71:22"
+      ],
+      "confidence": 0.98,
+      "notes": "In-studio contributor co-hosting the Amongst the Web viral clip review segment. Offers stream-of-consciousness commentary on the submitted clips."
+    },
+    {
+      "name": "Munch",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [
+        "99:48",
+        "104:52"
+      ],
+      "confidence": 0.98,
+      "notes": "Senior debate analyst. Picks Andrew Garfield as the best Spider-Man citing his 'gentle eyes' and 'long slender bod'. Torments Crum over his emancipated daughter and the impending gorilla punch."
+    },
+    {
+      "name": "Crum",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [
+        "99:48",
+        "104:52",
+        "107:38",
+        "181:23"
+      ],
+      "confidence": 0.98,
+      "notes": "Senior debate analyst. Reveals his 26-year-old daughter Bethesda legally emancipated herself due to a disastrous pony delivery. Picks both Tobey Maguire and Tom Holland. Schedules the Crum D*ck Punch for August 31st. Later pitches his out-of-print memoir 'Crum Fused' and offers to be an expert in holding it for people while they urinate."
+    },
+    {
+      "name": "Tommy Biglaw",
+      "canonical_name": "Tommy Biglaw",
+      "speaking": true,
+      "timestamps": [
+        "107:38"
+      ],
+      "confidence": 0.9,
+      "notes": "High-priced legal counsel with a baby-talk lisp. Appears in the chocolate milk debate wearing a 'yellow and blue coat' carrying a whiteboard, abruptly voting people out of the discussion."
+    },
+    {
+      "name": "Brandon",
+      "canonical_name": "Brandon (Cryptozeus)",
+      "speaking": true,
+      "timestamps": [
+        "129:51",
+        "181:23"
+      ],
+      "confidence": 0.99,
+      "notes": "Gaming correspondent. Broadcasts a remote retro playthrough of a romhack of Super Mario Bros. 3 from his bedroom. Claims to make $60 million a year. Heckled constantly by his mother about Gooters chicken wings."
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum D*ck Punch",
+      "beat": "Crum officially locks in August 31st as the date for the robotic gorilla groin punch, capitalizing on Munch's Office Space 'case of the Mondays' joke.",
+      "timestamp": "104:52"
+    },
+    {
+      "storyline": "Crum D*ck Punch",
+      "beat": "Crum claims to have been 'training' for the impact and asserts his penis will be ready for the strike.",
+      "timestamp": "102:12"
+    },
+    {
+      "storyline": "Crum Family Trauma",
+      "beat": "Crum reveals his daughter Bethesda has legally emancipated herself from him after he sent a pony delivery service to her Baltimore apartment (with two of the ponies arriving dead).",
+      "timestamp": "100:28"
+    },
+    {
+      "storyline": "Crum Author Arc",
+      "beat": "Crum pitches his out-of-print memoir 'Crum Fused: Making it Through my 20s One Lick at a Time', claiming it had a strong run in the early 2000s.",
+      "timestamp": "104:07"
+    },
+    {
+      "storyline": "Cryptozeus Sponsorship Arc",
+      "beat": "Brandon's mother repeatedly mentions ordering 'about 35 family meals' and 'little Debbie brisket' from Gooters, maintaining the network's comedic fast-food sponsor relationship.",
+      "timestamp": "163:12"
+    },
+    {
+      "storyline": "Case Blackwell Broadcast Schedule",
+      "beat": "Blackwell announces he will be out of town with Kendall starting Monday, returning to streaming on Wednesday.",
+      "timestamp": "181:32"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Executive Producer Pepito's opening cold open catchphrase is 'I'm Pepita, I'm the dog that produces the show'.",
+      "timestamp": "00:00",
+      "confidence": 0.98
+    },
+    {
+      "entity": "Network Trigger Protocol",
+      "fact": "Chet Guy the Science Eyes trigger protocol is initiated by the word 'science', immediately followed by Hype Train hijacking the feed to rap about urine being alive and dying every time it is flushed.",
+      "timestamp": "29:09",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Hype Train commands a 'PhD in train grease' and declares that train grease is 'extremely alive' and 'how you give birth to more trains'.",
+      "timestamp": "29:40",
+      "confidence": 0.92
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Hype Train writes freestyle raps about the omnipresence of love, noting 'love if we are just gay' and 'there's even love on explosions'.",
+      "timestamp": "34:37",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Network Merchandise",
+      "fact": "Blackwell refuses to set a new subscriber goal until network merchandise designs are finalized, stating 'I'm not putting up a new sub-goal till we get the freaking merch going. But the design is forthcoming.'",
+      "timestamp": "40:48",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Crum D*ck Punch",
+      "beat": "Crum locks the execution for August 31st, a Monday, allowing Munch to deliver an 'Office Space' reference: 'it'll be a case of the Mondays'.",
+      "timestamp": "102:32",
+      "confidence": 0.98
+    },
+    {
+      "entity": "Crum Trarian",
+      "fact": "Munch coins the phrase 'Crum Trarian' as a potential book title for Crum's memoir.",
+      "timestamp": "104:04",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Cryptozeus",
+      "fact": "Brandon claims to make '$60 million dollars a year' and boasts a $6 million net worth.",
+      "timestamp": "172:07",
+      "confidence": 0.92
+    },
+    {
+      "entity": "Cryptozeus",
+      "fact": "Brandon references his mother's Gooters wet chicken wings, noting she stored sodas inside 'big rubber socks' delivered by Pastor Joe.",
+      "timestamp": "158:39",
+      "confidence": 0.92
+    }
+  ],
+  "_meta": {
+    "vod_id": "2840162096",
+    "model": "minimax/minimax-m3:free",
+    "transcript_lines": 3026
+  }
+}

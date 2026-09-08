@@ -1,0 +1,19 @@
+{
+  "vod_id": "KWzD34UnyBw",
+  "title": "America's Big Boy Birthday Week, it's NEWS",
+  "url": "https://www.youtube.com/watch?v=KWzD34UnyBw",
+  "duration_seconds": 9098,
+  "duration": "2:31:38",
+  "timestamp": 1782691200,
+  "aired_at": "2026-06-29T00:00:00+00:00",
+  "date": "2026-06-29",
+  "ingested_at": "2026-09-07T01:36:30.166587+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "KWzD34UnyBw",
+  "yt_url": "https://www.youtube.com/watch?v=KWzD34UnyBw",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-06-29"
+}

@@ -1,0 +1,3317 @@
+{
+  "engine": "faster-whisper",
+  "model": "tiny",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 1898.56,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 8.03,
+      "text": "That's the same floor where it's in the back, the stream died again."
+    },
+    {
+      "id": 2,
+      "start": 8.03,
+      "end": 12.62,
+      "text": "I don't know what's causing that."
+    },
+    {
+      "id": 3,
+      "start": 12.62,
+      "end": 15.62,
+      "text": "Let me know if I'm dumb on the end."
+    },
+    {
+      "id": 4,
+      "start": 15.62,
+      "end": 16.62,
+      "text": "Now you have no audio."
+    },
+    {
+      "id": 5,
+      "start": 16.62,
+      "end": 17.62,
+      "text": "Okay."
+    },
+    {
+      "id": 6,
+      "start": 17.62,
+      "end": 19.62,
+      "text": "Now you should have audio."
+    },
+    {
+      "id": 7,
+      "start": 19.62,
+      "end": 24.76,
+      "text": "Hi, you're here."
+    },
+    {
+      "id": 8,
+      "start": 24.76,
+      "end": 25.76,
+      "text": "Hello."
+    },
+    {
+      "id": 9,
+      "start": 25.76,
+      "end": 28.76,
+      "text": "It's a pair of new boards."
+    },
+    {
+      "id": 10,
+      "start": 28.76,
+      "end": 31.76,
+      "text": "Maybe 50 in arm would make sense."
+    },
+    {
+      "id": 11,
+      "start": 31.76,
+      "end": 35.76,
+      "text": "I think we're kind of doing some probably a 30-1 to 30-2 boards."
+    },
+    {
+      "id": 12,
+      "start": 35.76,
+      "end": 37.76,
+      "text": "I think it's on the floor."
+    },
+    {
+      "id": 13,
+      "start": 37.76,
+      "end": 41.76,
+      "text": "I think we can overlap a little bit, right under now."
+    },
+    {
+      "id": 14,
+      "start": 41.76,
+      "end": 43.76,
+      "text": "Oh, that's a thing."
+    },
+    {
+      "id": 15,
+      "start": 43.76,
+      "end": 50.82,
+      "text": "There's that sign."
+    },
+    {
+      "id": 16,
+      "start": 50.82,
+      "end": 55.22,
+      "text": "It's not legal."
+    },
+    {
+      "id": 17,
+      "start": 55.22,
+      "end": 57.22,
+      "text": "Okay, is it fine now?"
+    },
+    {
+      "id": 18,
+      "start": 57.22,
+      "end": 60.22,
+      "text": "I think it's still here, but I'm once again confused."
+    },
+    {
+      "id": 19,
+      "start": 60.22,
+      "end": 65.54,
+      "text": "Weird."
+    },
+    {
+      "id": 20,
+      "start": 65.54,
+      "end": 66.54,
+      "text": "Yeah."
+    },
+    {
+      "id": 21,
+      "start": 66.54,
+      "end": 69.54,
+      "text": "It muted me, and then created a second audio."
+    },
+    {
+      "id": 22,
+      "start": 69.54,
+      "end": 70.54,
+      "text": "I don't know."
+    },
+    {
+      "id": 23,
+      "start": 70.54,
+      "end": 72.54,
+      "text": "Guess we can get one here."
+    },
+    {
+      "id": 24,
+      "start": 72.54,
+      "end": 79.39,
+      "text": "I hope it's out."
+    },
+    {
+      "id": 25,
+      "start": 79.39,
+      "end": 86.26,
+      "text": "I don't have to get a shirt on the floor."
+    },
+    {
+      "id": 26,
+      "start": 86.26,
+      "end": 88.26,
+      "text": "I guess we can get one here."
+    },
+    {
+      "id": 27,
+      "start": 94.79,
+      "end": 99.83,
+      "text": "Oh, it's never confusing."
+    },
+    {
+      "id": 28,
+      "start": 99.83,
+      "end": 106.18,
+      "text": "There's a lot of different versions of other little boy characters."
+    },
+    {
+      "id": 29,
+      "start": 106.18,
+      "end": 108.18,
+      "text": "What better marks."
+    },
+    {
+      "id": 30,
+      "start": 108.18,
+      "end": 112.42,
+      "text": "That was a theme."
+    },
+    {
+      "id": 31,
+      "start": 112.42,
+      "end": 114.42,
+      "text": "I do have five skins though."
+    },
+    {
+      "id": 32,
+      "start": 114.42,
+      "end": 116.42,
+      "text": "But I've never used three types of boards."
+    },
+    {
+      "id": 33,
+      "start": 116.42,
+      "end": 121.07,
+      "text": "That was a part."
+    },
+    {
+      "id": 34,
+      "start": 121.07,
+      "end": 124.07,
+      "text": "I've never used three kinds of boards."
+    },
+    {
+      "id": 35,
+      "start": 124.07,
+      "end": 127.07,
+      "text": "I'll be all year far."
+    },
+    {
+      "id": 36,
+      "start": 127.07,
+      "end": 130.07,
+      "text": "Yeah, look, four of them boards are kind of fucked up."
+    },
+    {
+      "id": 37,
+      "start": 130.07,
+      "end": 154.03,
+      "text": "I'll guess 35."
+    },
+    {
+      "id": 38,
+      "start": 154.03,
+      "end": 157.03,
+      "text": "And we'll do a counted 40."
+    },
+    {
+      "id": 39,
+      "start": 157.03,
+      "end": 160.03,
+      "text": "So we don't have any boards."
+    },
+    {
+      "id": 40,
+      "start": 160.03,
+      "end": 172.78,
+      "text": "Or switching."
+    },
+    {
+      "id": 41,
+      "start": 172.78,
+      "end": 174.78,
+      "text": "There's a don't have a cow board on here."
+    },
+    {
+      "id": 42,
+      "start": 174.78,
+      "end": 179.56,
+      "text": "There's got it."
+    },
+    {
+      "id": 43,
+      "start": 179.56,
+      "end": 181.56,
+      "text": "Well, there's a part eating a cow."
+    },
+    {
+      "id": 44,
+      "start": 181.56,
+      "end": 183.56,
+      "text": "But it's one of my four arm boards."
+    },
+    {
+      "id": 45,
+      "start": 183.56,
+      "end": 184.56,
+      "text": "So it's kind of messed up."
+    },
+    {
+      "id": 46,
+      "start": 184.56,
+      "end": 198.38,
+      "text": "You would've thought I'd have a thousand viewers by now."
+    },
+    {
+      "id": 47,
+      "start": 198.38,
+      "end": 200.38,
+      "text": "It's only true if it's eating out."
+    },
+    {
+      "id": 48,
+      "start": 200.38,
+      "end": 203.38,
+      "text": "I was appreciate the 100th part to come through."
+    },
+    {
+      "id": 49,
+      "start": 203.38,
+      "end": 205.38,
+      "text": "You part of the old needs right now."
+    },
+    {
+      "id": 50,
+      "start": 205.38,
+      "end": 206.38,
+      "text": "Right now."
+    },
+    {
+      "id": 51,
+      "start": 206.38,
+      "end": 214.8,
+      "text": "Right now."
+    },
+    {
+      "id": 52,
+      "start": 214.8,
+      "end": 216.8,
+      "text": "Right on the top of your hand."
+    },
+    {
+      "id": 53,
+      "start": 216.8,
+      "end": 218.8,
+      "text": "Is it a skull board?"
+    },
+    {
+      "id": 54,
+      "start": 218.8,
+      "end": 220.8,
+      "text": "Oh, I got the skull board."
+    },
+    {
+      "id": 55,
+      "start": 220.8,
+      "end": 221.8,
+      "text": "I think then."
+    },
+    {
+      "id": 56,
+      "start": 221.8,
+      "end": 223.8,
+      "text": "Just when the top of your hand."
+    },
+    {
+      "id": 57,
+      "start": 223.8,
+      "end": 224.8,
+      "text": "I'm poking me."
+    },
+    {
+      "id": 58,
+      "start": 224.8,
+      "end": 226.8,
+      "text": "I can't do this."
+    },
+    {
+      "id": 59,
+      "start": 226.8,
+      "end": 230.11,
+      "text": "Exactly."
+    },
+    {
+      "id": 60,
+      "start": 230.11,
+      "end": 231.11,
+      "text": "Huge new scandal."
+    },
+    {
+      "id": 61,
+      "start": 231.11,
+      "end": 233.11,
+      "text": "Pokemon does a 101 marks."
+    },
+    {
+      "id": 62,
+      "start": 233.11,
+      "end": 234.11,
+      "text": "I'm going to get it as an annex."
+    },
+    {
+      "id": 63,
+      "start": 234.11,
+      "end": 241.46,
+      "text": "I got to go to my Brazilian GGT class."
+    },
+    {
+      "id": 64,
+      "start": 241.46,
+      "end": 253.13,
+      "text": "I'm going to get it as an annex."
+    },
+    {
+      "id": 65,
+      "start": 253.13,
+      "end": 255.13,
+      "text": "I got to go to my Brazilian GGT class."
+    },
+    {
+      "id": 66,
+      "start": 264.1,
+      "end": 267.73,
+      "text": "It's a shit sidehand part."
+    },
+    {
+      "id": 67,
+      "start": 267.73,
+      "end": 270.73,
+      "text": "This one is kind of cool."
+    },
+    {
+      "id": 68,
+      "start": 270.73,
+      "end": 271.73,
+      "text": "Okay, wait."
+    },
+    {
+      "id": 69,
+      "start": 271.73,
+      "end": 273.73,
+      "text": "We've got to be at least 37 boards."
+    },
+    {
+      "id": 70,
+      "start": 273.73,
+      "end": 288.51,
+      "text": "I guess I could just play tennis beach park lately."
+    },
+    {
+      "id": 71,
+      "start": 288.51,
+      "end": 291.51,
+      "text": "Those are mostly the thumbnails that I saw."
+    },
+    {
+      "id": 72,
+      "start": 291.51,
+      "end": 292.51,
+      "text": "That are marked to you."
+    },
+    {
+      "id": 73,
+      "start": 296.51,
+      "end": 297.51,
+      "text": "Hello."
+    },
+    {
+      "id": 74,
+      "start": 297.51,
+      "end": 301.05,
+      "text": "Putting a hundred boards on it."
+    },
+    {
+      "id": 75,
+      "start": 301.05,
+      "end": 302.05,
+      "text": "That's what I heard."
+    },
+    {
+      "id": 76,
+      "start": 302.05,
+      "end": 304.05,
+      "text": "I heard that we're being barred since then."
+    },
+    {
+      "id": 77,
+      "start": 304.05,
+      "end": 305.05,
+      "text": "Yeah, we're being barred."
+    },
+    {
+      "id": 78,
+      "start": 305.05,
+      "end": 307.05,
+      "text": "We're being barred."
+    },
+    {
+      "id": 79,
+      "start": 307.05,
+      "end": 308.05,
+      "text": "All right."
+    },
+    {
+      "id": 80,
+      "start": 308.05,
+      "end": 309.05,
+      "text": "We're being barred."
+    },
+    {
+      "id": 81,
+      "start": 309.05,
+      "end": 310.05,
+      "text": "Wow."
+    },
+    {
+      "id": 82,
+      "start": 310.05,
+      "end": 312.05,
+      "text": "Some of them are full sleeve of bars."
+    },
+    {
+      "id": 83,
+      "start": 312.05,
+      "end": 313.05,
+      "text": "Full sleeve of bars."
+    },
+    {
+      "id": 84,
+      "start": 313.05,
+      "end": 314.05,
+      "text": "That's not."
+    },
+    {
+      "id": 85,
+      "start": 314.05,
+      "end": 316.05,
+      "text": "Bar watch is big."
+    },
+    {
+      "id": 86,
+      "start": 316.05,
+      "end": 318.05,
+      "text": "This is a universal way."
+    },
+    {
+      "id": 87,
+      "start": 318.05,
+      "end": 321.05,
+      "text": "I don't think that it's racist."
+    },
+    {
+      "id": 88,
+      "start": 321.05,
+      "end": 322.05,
+      "text": "What if he's visited?"
+    },
+    {
+      "id": 89,
+      "start": 322.05,
+      "end": 327.05,
+      "text": "I mean, he's been on vacation."
+    },
+    {
+      "id": 90,
+      "start": 327.05,
+      "end": 331.05,
+      "text": "What if he participated from a local person who needed the money?"
+    },
+    {
+      "id": 91,
+      "start": 331.05,
+      "end": 332.05,
+      "text": "That's funny."
+    },
+    {
+      "id": 92,
+      "start": 332.05,
+      "end": 335.05,
+      "text": "Can you guys possibly help me tell how many bars I know?"
+    },
+    {
+      "id": 93,
+      "start": 335.05,
+      "end": 336.05,
+      "text": "Yeah."
+    },
+    {
+      "id": 94,
+      "start": 336.05,
+      "end": 337.05,
+      "text": "Can the husband counting a ship on it?"
+    },
+    {
+      "id": 95,
+      "start": 337.05,
+      "end": 338.05,
+      "text": "What?"
+    },
+    {
+      "id": 96,
+      "start": 338.05,
+      "end": 340.05,
+      "text": "It's not like job on the tattoo artist."
+    },
+    {
+      "id": 97,
+      "start": 340.05,
+      "end": 348.05,
+      "text": "One, two, three, four, five, six, seven, eight, nine, ten, eleven, five, six, six, four, ten, six, sixteen, seven, seven, ten, ten, ten."
+    },
+    {
+      "id": 98,
+      "start": 348.05,
+      "end": 349.05,
+      "text": "Nine."
+    },
+    {
+      "id": 99,
+      "start": 349.05,
+      "end": 350.05,
+      "text": "Nine."
+    },
+    {
+      "id": 100,
+      "start": 350.05,
+      "end": 352.05,
+      "text": "Three, two, one."
+    },
+    {
+      "id": 101,
+      "start": 352.05,
+      "end": 353.05,
+      "text": "Twenty."
+    },
+    {
+      "id": 102,
+      "start": 353.05,
+      "end": 354.05,
+      "text": "Twenty."
+    },
+    {
+      "id": 103,
+      "start": 354.05,
+      "end": 355.05,
+      "text": "Twenty."
+    },
+    {
+      "id": 104,
+      "start": 355.05,
+      "end": 356.05,
+      "text": "Twenty."
+    },
+    {
+      "id": 105,
+      "start": 356.05,
+      "end": 357.05,
+      "text": "Twenty."
+    },
+    {
+      "id": 106,
+      "start": 357.05,
+      "end": 358.05,
+      "text": "Twenty."
+    },
+    {
+      "id": 107,
+      "start": 358.05,
+      "end": 359.05,
+      "text": "Twenty."
+    },
+    {
+      "id": 108,
+      "start": 359.05,
+      "end": 360.05,
+      "text": "Twenty."
+    },
+    {
+      "id": 109,
+      "start": 360.05,
+      "end": 362.57,
+      "text": "And this one is 6.774."
+    },
+    {
+      "id": 110,
+      "start": 362.57,
+      "end": 364.01,
+      "text": "29.30."
+    },
+    {
+      "id": 111,
+      "start": 364.01,
+      "end": 365.69,
+      "text": "3.173."
+    },
+    {
+      "id": 112,
+      "start": 365.69,
+      "end": 367.87,
+      "text": "This is what they're worth."
+    },
+    {
+      "id": 113,
+      "start": 367.87,
+      "end": 368.77,
+      "text": "4.75."
+    },
+    {
+      "id": 114,
+      "start": 368.77,
+      "end": 370.73,
+      "text": "They're 10.38!"
+    },
+    {
+      "id": 115,
+      "start": 370.73,
+      "end": 373.21,
+      "text": "Sorry, and Bart, we're actually pretty close, everyone."
+    },
+    {
+      "id": 116,
+      "start": 373.21,
+      "end": 374.21,
+      "text": "Well, we are."
+    },
+    {
+      "id": 117,
+      "start": 374.21,
+      "end": 375.81,
+      "text": "We're just going away from Portie."
+    },
+    {
+      "id": 118,
+      "start": 375.81,
+      "end": 376.65,
+      "text": "Yep."
+    },
+    {
+      "id": 119,
+      "start": 376.65,
+      "end": 377.45,
+      "text": "60."
+    },
+    {
+      "id": 120,
+      "start": 377.45,
+      "end": 378.65,
+      "text": "3 away."
+    },
+    {
+      "id": 121,
+      "start": 378.65,
+      "end": 379.45,
+      "text": "Good job."
+    },
+    {
+      "id": 122,
+      "start": 379.45,
+      "end": 380.93,
+      "text": "Rock and roll."
+    },
+    {
+      "id": 123,
+      "start": 380.93,
+      "end": 381.93,
+      "text": "Spartan."
+    },
+    {
+      "id": 124,
+      "start": 381.93,
+      "end": 382.81,
+      "text": "There."
+    },
+    {
+      "id": 125,
+      "start": 383.85,
+      "end": 390.76,
+      "text": "38 Bart's y'all."
+    },
+    {
+      "id": 126,
+      "start": 390.76,
+      "end": 392.34,
+      "text": "We're getting there."
+    },
+    {
+      "id": 127,
+      "start": 392.34,
+      "end": 394.18,
+      "text": "In two more Bart's."
+    },
+    {
+      "id": 128,
+      "start": 394.18,
+      "end": 402.54,
+      "text": "If you want to take like a minute, I'm just going to put a light up really quick."
+    },
+    {
+      "id": 129,
+      "start": 402.54,
+      "end": 404.54,
+      "text": "We are only 12 parts away from my thinking switching arms."
+    },
+    {
+      "id": 130,
+      "start": 404.54,
+      "end": 410.98,
+      "text": "You can also put a couple of here, I guess."
+    },
+    {
+      "id": 131,
+      "start": 410.98,
+      "end": 414.67,
+      "text": "Sort of pull the side."
+    },
+    {
+      "id": 132,
+      "start": 414.67,
+      "end": 417.67,
+      "text": "There's a little room on the traps."
+    },
+    {
+      "id": 133,
+      "start": 417.67,
+      "end": 418.67,
+      "text": "The dog is here."
+    },
+    {
+      "id": 134,
+      "start": 418.67,
+      "end": 420.67,
+      "text": "Okay, that's 39."
+    },
+    {
+      "id": 135,
+      "start": 420.67,
+      "end": 422.67,
+      "text": "My good lord."
+    },
+    {
+      "id": 136,
+      "start": 422.67,
+      "end": 424.67,
+      "text": "Save some from my neck."
+    },
+    {
+      "id": 137,
+      "start": 424.67,
+      "end": 429.56,
+      "text": "I guess we can do the neck."
+    },
+    {
+      "id": 138,
+      "start": 429.56,
+      "end": 431.56,
+      "text": "That's 39."
+    },
+    {
+      "id": 139,
+      "start": 431.56,
+      "end": 432.56,
+      "text": "Let's do one more."
+    },
+    {
+      "id": 140,
+      "start": 432.56,
+      "end": 433.56,
+      "text": "Now I have to do one more."
+    },
+    {
+      "id": 141,
+      "start": 433.56,
+      "end": 434.56,
+      "text": "Okay."
+    },
+    {
+      "id": 142,
+      "start": 451.34,
+      "end": 452.34,
+      "text": "Kindle is focused."
+    },
+    {
+      "id": 143,
+      "start": 452.34,
+      "end": 453.34,
+      "text": "My focus is lacking."
+    },
+    {
+      "id": 144,
+      "start": 453.34,
+      "end": 455.34,
+      "text": "That's why I can't even count those parts correctly."
+    },
+    {
+      "id": 145,
+      "start": 455.34,
+      "end": 457.34,
+      "text": "But this is Bart 40."
+    },
+    {
+      "id": 146,
+      "start": 457.34,
+      "end": 458.34,
+      "text": "You?"
+    },
+    {
+      "id": 147,
+      "start": 458.34,
+      "end": 459.34,
+      "text": "Me?"
+    },
+    {
+      "id": 148,
+      "start": 459.34,
+      "end": 460.34,
+      "text": "Me?"
+    },
+    {
+      "id": 149,
+      "start": 460.34,
+      "end": 461.34,
+      "text": "I was trying to..."
+    },
+    {
+      "id": 150,
+      "start": 461.34,
+      "end": 462.34,
+      "text": "No."
+    },
+    {
+      "id": 151,
+      "start": 462.34,
+      "end": 468.85,
+      "text": "Okay."
+    },
+    {
+      "id": 152,
+      "start": 468.85,
+      "end": 474.17,
+      "text": "There we go."
+    },
+    {
+      "id": 153,
+      "start": 474.17,
+      "end": 477.51,
+      "text": "Well, that was cat by the way everyone."
+    },
+    {
+      "id": 154,
+      "start": 477.51,
+      "end": 478.51,
+      "text": "Who helped me?"
+    },
+    {
+      "id": 155,
+      "start": 478.51,
+      "end": 479.51,
+      "text": "Who helped me?"
+    },
+    {
+      "id": 156,
+      "start": 479.51,
+      "end": 480.51,
+      "text": "What's counting our marks?"
+    },
+    {
+      "id": 157,
+      "start": 480.51,
+      "end": 482.51,
+      "text": "Showdowns."
+    },
+    {
+      "id": 158,
+      "start": 482.51,
+      "end": 483.51,
+      "text": "Check out."
+    },
+    {
+      "id": 159,
+      "start": 484.51,
+      "end": 487.51,
+      "text": "And then that's a cat cat."
+    },
+    {
+      "id": 160,
+      "start": 487.51,
+      "end": 497.44,
+      "text": "Okay, let me put a lead up really quick."
+    },
+    {
+      "id": 161,
+      "start": 497.44,
+      "end": 499.44,
+      "text": "That's 40 bars."
+    },
+    {
+      "id": 162,
+      "start": 499.44,
+      "end": 501.44,
+      "text": "Where?"
+    },
+    {
+      "id": 163,
+      "start": 501.44,
+      "end": 502.44,
+      "text": "40% of the way there."
+    },
+    {
+      "id": 164,
+      "start": 502.44,
+      "end": 505.44,
+      "text": "It's a look I saved the cool one."
+    },
+    {
+      "id": 165,
+      "start": 505.44,
+      "end": 506.44,
+      "text": "Yeah."
+    },
+    {
+      "id": 166,
+      "start": 506.44,
+      "end": 507.44,
+      "text": "He saved the cool one."
+    },
+    {
+      "id": 167,
+      "start": 507.44,
+      "end": 514.52,
+      "text": "Cool, we got so far, everybody."
+    },
+    {
+      "id": 168,
+      "start": 514.52,
+      "end": 516.52,
+      "text": "I just the coolest I've ever been."
+    },
+    {
+      "id": 169,
+      "start": 516.52,
+      "end": 519.52,
+      "text": "How do you feel about an all-sleeved upman?"
+    },
+    {
+      "id": 170,
+      "start": 519.52,
+      "end": 520.52,
+      "text": "Yeah."
+    },
+    {
+      "id": 171,
+      "start": 520.52,
+      "end": 523.52,
+      "text": "He's my type now."
+    },
+    {
+      "id": 172,
+      "start": 523.52,
+      "end": 525.52,
+      "text": "He's my type now."
+    },
+    {
+      "id": 173,
+      "start": 525.52,
+      "end": 536.17,
+      "text": "This is our shirt."
+    },
+    {
+      "id": 174,
+      "start": 536.17,
+      "end": 538.17,
+      "text": "That's my shirt."
+    },
+    {
+      "id": 175,
+      "start": 538.17,
+      "end": 539.17,
+      "text": "Yes."
+    },
+    {
+      "id": 176,
+      "start": 539.17,
+      "end": 542.17,
+      "text": "Okay, I'm going to make him a pop."
+    },
+    {
+      "id": 177,
+      "start": 542.17,
+      "end": 545.17,
+      "text": "Oh, oh, oh, oh, oh."
+    },
+    {
+      "id": 178,
+      "start": 545.17,
+      "end": 551.71,
+      "text": "This is the street."
+    },
+    {
+      "id": 179,
+      "start": 551.71,
+      "end": 552.71,
+      "text": "This is the street."
+    },
+    {
+      "id": 180,
+      "start": 552.71,
+      "end": 555.71,
+      "text": "Quick drive, this is it."
+    },
+    {
+      "id": 181,
+      "start": 555.71,
+      "end": 559.89,
+      "text": "Quick drive, this is it."
+    },
+    {
+      "id": 182,
+      "start": 559.89,
+      "end": 563.23,
+      "text": "Quick drive, this is it."
+    },
+    {
+      "id": 183,
+      "start": 564.23,
+      "end": 566.23,
+      "text": "I can't believe we're doing this out here."
+    },
+    {
+      "id": 184,
+      "start": 566.23,
+      "end": 567.23,
+      "text": "It's so long now."
+    },
+    {
+      "id": 185,
+      "start": 567.23,
+      "end": 570.23,
+      "text": "I think it's nicer than to be inside this."
+    },
+    {
+      "id": 186,
+      "start": 570.23,
+      "end": 573.23,
+      "text": "I can't hide this."
+    },
+    {
+      "id": 187,
+      "start": 573.23,
+      "end": 575.23,
+      "text": "This is my preference."
+    },
+    {
+      "id": 188,
+      "start": 575.23,
+      "end": 578.23,
+      "text": "Truly, I came out here to grab my cat."
+    },
+    {
+      "id": 189,
+      "start": 578.23,
+      "end": 579.23,
+      "text": "Oh, I don't know."
+    },
+    {
+      "id": 190,
+      "start": 579.23,
+      "end": 581.23,
+      "text": "This is a walk cat out."
+    },
+    {
+      "id": 191,
+      "start": 581.23,
+      "end": 583.23,
+      "text": "Can't out."
+    },
+    {
+      "id": 192,
+      "start": 583.23,
+      "end": 584.23,
+      "text": "Yeah."
+    },
+    {
+      "id": 193,
+      "start": 584.23,
+      "end": 586.23,
+      "text": "I should go around like that."
+    },
+    {
+      "id": 194,
+      "start": 586.23,
+      "end": 589.23,
+      "text": "So she can tell how to use it."
+    },
+    {
+      "id": 195,
+      "start": 590.23,
+      "end": 592.23,
+      "text": "Okay."
+    },
+    {
+      "id": 196,
+      "start": 592.23,
+      "end": 593.23,
+      "text": "Huh?"
+    },
+    {
+      "id": 197,
+      "start": 593.23,
+      "end": 595.23,
+      "text": "Oh, she was."
+    },
+    {
+      "id": 198,
+      "start": 595.23,
+      "end": 598.23,
+      "text": "She came to grab one of her bases."
+    },
+    {
+      "id": 199,
+      "start": 598.23,
+      "end": 600.23,
+      "text": "She can put the cat flowers."
+    },
+    {
+      "id": 200,
+      "start": 600.23,
+      "end": 601.23,
+      "text": "Oh."
+    },
+    {
+      "id": 201,
+      "start": 601.23,
+      "end": 605.23,
+      "text": "Because she's going for it."
+    },
+    {
+      "id": 202,
+      "start": 605.23,
+      "end": 607.23,
+      "text": "And she can't get in."
+    },
+    {
+      "id": 203,
+      "start": 607.23,
+      "end": 610.23,
+      "text": "And then she was like, this isn't going to work."
+    },
+    {
+      "id": 204,
+      "start": 610.23,
+      "end": 611.23,
+      "text": "Oh, yeah."
+    },
+    {
+      "id": 205,
+      "start": 611.23,
+      "end": 614.23,
+      "text": "And so then we were like, well, what can we do?"
+    },
+    {
+      "id": 206,
+      "start": 614.23,
+      "end": 617.23,
+      "text": "And so then we, well."
+    },
+    {
+      "id": 207,
+      "start": 617.23,
+      "end": 621.23,
+      "text": "So we grabbed some paper and stuff."
+    },
+    {
+      "id": 208,
+      "start": 621.23,
+      "end": 623.23,
+      "text": "It's pretty darn bright."
+    },
+    {
+      "id": 209,
+      "start": 623.23,
+      "end": 627.96,
+      "text": "I just started wearing gold pearls."
+    },
+    {
+      "id": 210,
+      "start": 627.96,
+      "end": 630.96,
+      "text": "Yes, because we got so much nice."
+    },
+    {
+      "id": 211,
+      "start": 630.96,
+      "end": 632.96,
+      "text": "She was cleaning."
+    },
+    {
+      "id": 212,
+      "start": 632.96,
+      "end": 634.96,
+      "text": "It was nice."
+    },
+    {
+      "id": 213,
+      "start": 634.96,
+      "end": 636.96,
+      "text": "They were seeing that one video."
+    },
+    {
+      "id": 214,
+      "start": 636.96,
+      "end": 639.96,
+      "text": "Like a bunch of guys and like a present cell."
+    },
+    {
+      "id": 215,
+      "start": 639.96,
+      "end": 643.96,
+      "text": "And it was like one guy trying to like zap up like 40 dudes."
+    },
+    {
+      "id": 216,
+      "start": 643.96,
+      "end": 645.96,
+      "text": "And he's like, we just need three perfect ones."
+    },
+    {
+      "id": 217,
+      "start": 645.96,
+      "end": 647.96,
+      "text": "And it got down so it's a very last guy."
+    },
+    {
+      "id": 218,
+      "start": 647.96,
+      "end": 649.96,
+      "text": "They probably got that third one."
+    },
+    {
+      "id": 219,
+      "start": 649.96,
+      "end": 650.96,
+      "text": "Mmm."
+    },
+    {
+      "id": 220,
+      "start": 650.96,
+      "end": 653.96,
+      "text": "That's what they're doing."
+    },
+    {
+      "id": 221,
+      "start": 653.96,
+      "end": 655.96,
+      "text": "Dude, looking at my hair on this."
+    },
+    {
+      "id": 222,
+      "start": 655.96,
+      "end": 658.96,
+      "text": "This is making me feel like they're going to do my hair."
+    },
+    {
+      "id": 223,
+      "start": 658.96,
+      "end": 659.96,
+      "text": "Hey."
+    },
+    {
+      "id": 224,
+      "start": 659.96,
+      "end": 660.96,
+      "text": "Yeah, you do that."
+    },
+    {
+      "id": 225,
+      "start": 660.96,
+      "end": 662.96,
+      "text": "And a lot hair done."
+    },
+    {
+      "id": 226,
+      "start": 662.96,
+      "end": 666.96,
+      "text": "For the first time, for the first time in years."
+    },
+    {
+      "id": 227,
+      "start": 666.96,
+      "end": 667.96,
+      "text": "Years."
+    },
+    {
+      "id": 228,
+      "start": 667.96,
+      "end": 668.96,
+      "text": "So good."
+    },
+    {
+      "id": 229,
+      "start": 668.96,
+      "end": 669.96,
+      "text": "I'm putting my own hair done."
+    },
+    {
+      "id": 230,
+      "start": 669.96,
+      "end": 672.96,
+      "text": "You're so pale compared to me."
+    },
+    {
+      "id": 231,
+      "start": 672.96,
+      "end": 673.96,
+      "text": "I'm like 10."
+    },
+    {
+      "id": 232,
+      "start": 673.96,
+      "end": 674.96,
+      "text": "Okay."
+    },
+    {
+      "id": 233,
+      "start": 674.96,
+      "end": 675.96,
+      "text": "Where's the colliding?"
+    },
+    {
+      "id": 234,
+      "start": 675.96,
+      "end": 676.96,
+      "text": "Okay."
+    },
+    {
+      "id": 235,
+      "start": 676.96,
+      "end": 680.96,
+      "text": "I mean, I just like 10 or something."
+    },
+    {
+      "id": 236,
+      "start": 680.96,
+      "end": 681.96,
+      "text": "Okay."
+    },
+    {
+      "id": 237,
+      "start": 681.96,
+      "end": 684.96,
+      "text": "I got to stop working on outside."
+    },
+    {
+      "id": 238,
+      "start": 684.96,
+      "end": 686.96,
+      "text": "You got to stop working on it."
+    },
+    {
+      "id": 239,
+      "start": 686.96,
+      "end": 687.96,
+      "text": "Yeah, I know."
+    },
+    {
+      "id": 240,
+      "start": 687.96,
+      "end": 688.96,
+      "text": "I'm going to chew 10."
+    },
+    {
+      "id": 241,
+      "start": 688.96,
+      "end": 689.96,
+      "text": "Yeah."
+    },
+    {
+      "id": 242,
+      "start": 689.96,
+      "end": 690.96,
+      "text": "It's getting scary."
+    },
+    {
+      "id": 243,
+      "start": 690.96,
+      "end": 692.96,
+      "text": "How can you do it?"
+    },
+    {
+      "id": 244,
+      "start": 692.96,
+      "end": 693.96,
+      "text": "Here's your help."
+    },
+    {
+      "id": 245,
+      "start": 693.96,
+      "end": 694.96,
+      "text": "Okay."
+    },
+    {
+      "id": 246,
+      "start": 694.96,
+      "end": 695.96,
+      "text": "I'm playing."
+    },
+    {
+      "id": 247,
+      "start": 695.96,
+      "end": 696.96,
+      "text": "Let me try to play with you."
+    },
+    {
+      "id": 248,
+      "start": 696.96,
+      "end": 697.96,
+      "text": "I'll go."
+    },
+    {
+      "id": 249,
+      "start": 697.96,
+      "end": 698.96,
+      "text": "Bye."
+    },
+    {
+      "id": 250,
+      "start": 698.96,
+      "end": 700.96,
+      "text": "Bye."
+    },
+    {
+      "id": 251,
+      "start": 700.96,
+      "end": 702.96,
+      "text": "The parts are in."
+    },
+    {
+      "id": 252,
+      "start": 703.96,
+      "end": 704.96,
+      "text": "Like this one."
+    },
+    {
+      "id": 253,
+      "start": 704.96,
+      "end": 706.96,
+      "text": "You want to just take your shirt off?"
+    },
+    {
+      "id": 254,
+      "start": 706.96,
+      "end": 707.96,
+      "text": "Not really."
+    },
+    {
+      "id": 255,
+      "start": 707.96,
+      "end": 713.26,
+      "text": "You're going to not dyeing to do that."
+    },
+    {
+      "id": 256,
+      "start": 713.26,
+      "end": 715.26,
+      "text": "You can do that."
+    },
+    {
+      "id": 257,
+      "start": 715.26,
+      "end": 720.09,
+      "text": "Like just go in this range here."
+    },
+    {
+      "id": 258,
+      "start": 720.09,
+      "end": 721.09,
+      "text": "Huh?"
+    },
+    {
+      "id": 259,
+      "start": 721.09,
+      "end": 723.09,
+      "text": "Go into this range here."
+    },
+    {
+      "id": 260,
+      "start": 723.09,
+      "end": 724.09,
+      "text": "Okay."
+    },
+    {
+      "id": 261,
+      "start": 724.09,
+      "end": 730.13,
+      "text": "It's off the Simpson's tracks again."
+    },
+    {
+      "id": 262,
+      "start": 730.13,
+      "end": 731.13,
+      "text": "Oh well."
+    },
+    {
+      "id": 263,
+      "start": 731.13,
+      "end": 737.13,
+      "text": "We'll switch back when we get to like the next time."
+    },
+    {
+      "id": 264,
+      "start": 740.56,
+      "end": 742.56,
+      "text": "Did you not go shirtless in the guy?"
+    },
+    {
+      "id": 265,
+      "start": 742.56,
+      "end": 743.56,
+      "text": "Which I know I did."
+    },
+    {
+      "id": 266,
+      "start": 743.56,
+      "end": 744.56,
+      "text": "Okay."
+    },
+    {
+      "id": 267,
+      "start": 744.56,
+      "end": 757.75,
+      "text": "Okay."
+    },
+    {
+      "id": 268,
+      "start": 757.75,
+      "end": 759.75,
+      "text": "Thank you."
+    },
+    {
+      "id": 269,
+      "start": 759.75,
+      "end": 760.75,
+      "text": "Maggie."
+    },
+    {
+      "id": 270,
+      "start": 760.75,
+      "end": 761.75,
+      "text": "Yeah."
+    },
+    {
+      "id": 271,
+      "start": 761.75,
+      "end": 763.75,
+      "text": "I think you can go in with your motor."
+    },
+    {
+      "id": 272,
+      "start": 763.75,
+      "end": 764.75,
+      "text": "You can go in."
+    },
+    {
+      "id": 273,
+      "start": 764.75,
+      "end": 765.75,
+      "text": "That's fine."
+    },
+    {
+      "id": 274,
+      "start": 765.75,
+      "end": 767.75,
+      "text": "I'm the tattoo artist."
+    },
+    {
+      "id": 275,
+      "start": 767.75,
+      "end": 768.75,
+      "text": "Me."
+    },
+    {
+      "id": 276,
+      "start": 768.75,
+      "end": 770.75,
+      "text": "You shouldn't have made me smaller."
+    },
+    {
+      "id": 277,
+      "start": 770.75,
+      "end": 772.75,
+      "text": "Should I?"
+    },
+    {
+      "id": 278,
+      "start": 772.75,
+      "end": 775.32,
+      "text": "Yeah."
+    },
+    {
+      "id": 279,
+      "start": 775.32,
+      "end": 777.32,
+      "text": "That's machine gun Bart Simpson."
+    },
+    {
+      "id": 280,
+      "start": 777.32,
+      "end": 783.61,
+      "text": "She's big for that."
+    },
+    {
+      "id": 281,
+      "start": 783.61,
+      "end": 790.54,
+      "text": "I'm going to save that for later."
+    },
+    {
+      "id": 282,
+      "start": 790.54,
+      "end": 791.54,
+      "text": "A hot tub streamer."
+    },
+    {
+      "id": 283,
+      "start": 791.54,
+      "end": 792.54,
+      "text": "Yeah."
+    },
+    {
+      "id": 284,
+      "start": 792.54,
+      "end": 793.54,
+      "text": "Yeah."
+    },
+    {
+      "id": 285,
+      "start": 793.54,
+      "end": 795.54,
+      "text": "It sneaks up on you."
+    },
+    {
+      "id": 286,
+      "start": 795.54,
+      "end": 797.54,
+      "text": "And finally, you're fully new."
+    },
+    {
+      "id": 287,
+      "start": 797.54,
+      "end": 799.54,
+      "text": "I did a hot tub stream once."
+    },
+    {
+      "id": 288,
+      "start": 799.54,
+      "end": 802.54,
+      "text": "I did a pretty full stream."
+    },
+    {
+      "id": 289,
+      "start": 802.54,
+      "end": 803.54,
+      "text": "That's it."
+    },
+    {
+      "id": 290,
+      "start": 803.54,
+      "end": 806.54,
+      "text": "And I got a viewer immediately."
+    },
+    {
+      "id": 291,
+      "start": 806.54,
+      "end": 810.54,
+      "text": "And that's when I had only like five."
+    },
+    {
+      "id": 292,
+      "start": 810.54,
+      "end": 812.54,
+      "text": "I don't think I would get it here in the middle."
+    },
+    {
+      "id": 293,
+      "start": 812.54,
+      "end": 816.58,
+      "text": "I've got the Cody Rose everyone."
+    },
+    {
+      "id": 294,
+      "start": 816.58,
+      "end": 823.94,
+      "text": "There's only so much room on the body I guess."
+    },
+    {
+      "id": 295,
+      "start": 823.94,
+      "end": 825.94,
+      "text": "We had to go to the neck."
+    },
+    {
+      "id": 296,
+      "start": 825.94,
+      "end": 835.66,
+      "text": "This is like two skate 413 next week though."
+    },
+    {
+      "id": 297,
+      "start": 835.66,
+      "end": 843.38,
+      "text": "Okay."
+    },
+    {
+      "id": 298,
+      "start": 843.38,
+      "end": 854.3,
+      "text": "This is 43."
+    },
+    {
+      "id": 299,
+      "start": 854.3,
+      "end": 855.3,
+      "text": "Bro."
+    },
+    {
+      "id": 300,
+      "start": 855.3,
+      "end": 857.3,
+      "text": "Entry Bart 43."
+    },
+    {
+      "id": 301,
+      "start": 857.3,
+      "end": 862.8,
+      "text": "Two skate 413 next week though."
+    },
+    {
+      "id": 302,
+      "start": 862.8,
+      "end": 866.84,
+      "text": "Wait."
+    },
+    {
+      "id": 303,
+      "start": 866.84,
+      "end": 867.84,
+      "text": "This is 44."
+    },
+    {
+      "id": 304,
+      "start": 867.84,
+      "end": 868.84,
+      "text": "Yes."
+    },
+    {
+      "id": 305,
+      "start": 868.84,
+      "end": 872.89,
+      "text": "This is 44, right?"
+    },
+    {
+      "id": 306,
+      "start": 872.89,
+      "end": 873.89,
+      "text": "You have to go."
+    },
+    {
+      "id": 307,
+      "start": 873.89,
+      "end": 874.89,
+      "text": "I'm asking you."
+    },
+    {
+      "id": 308,
+      "start": 874.89,
+      "end": 876.89,
+      "text": "Can't remember."
+    },
+    {
+      "id": 309,
+      "start": 876.89,
+      "end": 877.89,
+      "text": "This is 44."
+    },
+    {
+      "id": 310,
+      "start": 877.89,
+      "end": 883.73,
+      "text": "The immediate agent been deers."
+    },
+    {
+      "id": 311,
+      "start": 883.73,
+      "end": 884.73,
+      "text": "Absolutely."
+    },
+    {
+      "id": 312,
+      "start": 884.73,
+      "end": 887.73,
+      "text": "It's gone down recent."
+    },
+    {
+      "id": 313,
+      "start": 887.73,
+      "end": 890.73,
+      "text": "We got someone in their late 30s."
+    },
+    {
+      "id": 314,
+      "start": 890.73,
+      "end": 897.07,
+      "text": "Yeah, it's too late."
+    },
+    {
+      "id": 315,
+      "start": 897.07,
+      "end": 901.07,
+      "text": "And obviously this is just practice for when I get the permanent attached."
+    },
+    {
+      "id": 316,
+      "start": 901.07,
+      "end": 903.07,
+      "text": "And being there going on?"
+    },
+    {
+      "id": 317,
+      "start": 903.07,
+      "end": 911.69,
+      "text": "Yeah."
+    },
+    {
+      "id": 318,
+      "start": 911.69,
+      "end": 913.69,
+      "text": "Bart gun."
+    },
+    {
+      "id": 319,
+      "start": 913.69,
+      "end": 921.58,
+      "text": "Bart gun Simpson."
+    },
+    {
+      "id": 320,
+      "start": 921.58,
+      "end": 922.58,
+      "text": "Oh god."
+    },
+    {
+      "id": 321,
+      "start": 922.58,
+      "end": 924.58,
+      "text": "45."
+    },
+    {
+      "id": 322,
+      "start": 924.58,
+      "end": 932.88,
+      "text": "Bart 45."
+    },
+    {
+      "id": 323,
+      "start": 932.88,
+      "end": 938.56,
+      "text": "These are permanent."
+    },
+    {
+      "id": 324,
+      "start": 938.56,
+      "end": 940.56,
+      "text": "That would be a bit of a bummer."
+    },
+    {
+      "id": 325,
+      "start": 941.56,
+      "end": 944.56,
+      "text": "Having a large Bart Simpson attempt to all the way up to my neck."
+    },
+    {
+      "id": 326,
+      "start": 944.56,
+      "end": 949.54,
+      "text": "Put them in stacks of 10."
+    },
+    {
+      "id": 327,
+      "start": 949.54,
+      "end": 952.98,
+      "text": "We'll do that once we get to fit."
+    },
+    {
+      "id": 328,
+      "start": 952.98,
+      "end": 955.98,
+      "text": "That's a smart parking is being smart."
+    },
+    {
+      "id": 329,
+      "start": 955.98,
+      "end": 957.98,
+      "text": "Should I have already lost track though?"
+    },
+    {
+      "id": 330,
+      "start": 957.98,
+      "end": 960.98,
+      "text": "That might have been 46 or maybe 45."
+    },
+    {
+      "id": 331,
+      "start": 960.98,
+      "end": 962.98,
+      "text": "That's a certain kind of like on your back."
+    },
+    {
+      "id": 332,
+      "start": 962.98,
+      "end": 963.98,
+      "text": "It's up like here."
+    },
+    {
+      "id": 333,
+      "start": 963.98,
+      "end": 964.98,
+      "text": "Just over."
+    },
+    {
+      "id": 334,
+      "start": 964.98,
+      "end": 965.98,
+      "text": "Those overlapped."
+    },
+    {
+      "id": 335,
+      "start": 965.98,
+      "end": 966.98,
+      "text": "No."
+    },
+    {
+      "id": 336,
+      "start": 969.98,
+      "end": 970.98,
+      "text": "Like here."
+    },
+    {
+      "id": 337,
+      "start": 970.98,
+      "end": 971.98,
+      "text": "How about my."
+    },
+    {
+      "id": 338,
+      "start": 971.98,
+      "end": 972.98,
+      "text": "There."
+    },
+    {
+      "id": 339,
+      "start": 972.98,
+      "end": 973.98,
+      "text": "No."
+    },
+    {
+      "id": 340,
+      "start": 974.98,
+      "end": 976.98,
+      "text": "What about here on my neck?"
+    },
+    {
+      "id": 341,
+      "start": 976.98,
+      "end": 977.98,
+      "text": "Just to do the whole mat."
+    },
+    {
+      "id": 342,
+      "start": 977.98,
+      "end": 978.98,
+      "text": "Sure."
+    },
+    {
+      "id": 343,
+      "start": 978.98,
+      "end": 979.98,
+      "text": "Ken."
+    },
+    {
+      "id": 344,
+      "start": 979.98,
+      "end": 980.98,
+      "text": "Yeah."
+    },
+    {
+      "id": 345,
+      "start": 980.98,
+      "end": 981.98,
+      "text": "That's like patty up."
+    },
+    {
+      "id": 346,
+      "start": 981.98,
+      "end": 993.31,
+      "text": "No regrets."
+    },
+    {
+      "id": 347,
+      "start": 993.31,
+      "end": 996.31,
+      "text": "Don't live your life."
+    },
+    {
+      "id": 348,
+      "start": 996.31,
+      "end": 998.31,
+      "text": "That's simply 45 Bart."
+    },
+    {
+      "id": 349,
+      "start": 998.31,
+      "end": 999.31,
+      "text": "Okay."
+    },
+    {
+      "id": 350,
+      "start": 999.31,
+      "end": 1000.31,
+      "text": "This is part 46."
+    },
+    {
+      "id": 351,
+      "start": 1000.31,
+      "end": 1002.31,
+      "text": "Yeah."
+    },
+    {
+      "id": 352,
+      "start": 1002.31,
+      "end": 1004.31,
+      "text": "We have."
+    },
+    {
+      "id": 353,
+      "start": 1004.31,
+      "end": 1006.31,
+      "text": "For some reason we have too big back."
+    },
+    {
+      "id": 354,
+      "start": 1006.31,
+      "end": 1007.31,
+      "text": "I think one."
+    },
+    {
+      "id": 355,
+      "start": 1007.31,
+      "end": 1009.31,
+      "text": "It could also be part 47."
+    },
+    {
+      "id": 356,
+      "start": 1009.31,
+      "end": 1012.31,
+      "text": "Like I might have that count of the one on my back."
+    },
+    {
+      "id": 357,
+      "start": 1012.31,
+      "end": 1013.31,
+      "text": "Bart."
+    },
+    {
+      "id": 358,
+      "start": 1013.31,
+      "end": 1014.31,
+      "text": "Anybody have a guess."
+    },
+    {
+      "id": 359,
+      "start": 1014.31,
+      "end": 1016.31,
+      "text": "This is 46 or 47."
+    },
+    {
+      "id": 360,
+      "start": 1016.31,
+      "end": 1017.31,
+      "text": "Oh yeah."
+    },
+    {
+      "id": 361,
+      "start": 1017.31,
+      "end": 1019.31,
+      "text": "Bart is there."
+    },
+    {
+      "id": 362,
+      "start": 1019.31,
+      "end": 1033.5,
+      "text": "Alright."
+    },
+    {
+      "id": 363,
+      "start": 1033.5,
+      "end": 1034.5,
+      "text": "I."
+    },
+    {
+      "id": 364,
+      "start": 1034.5,
+      "end": 1035.5,
+      "text": "Hey."
+    },
+    {
+      "id": 365,
+      "start": 1035.5,
+      "end": 1037.5,
+      "text": "That's 40."
+    },
+    {
+      "id": 366,
+      "start": 1037.5,
+      "end": 1038.5,
+      "text": "7."
+    },
+    {
+      "id": 367,
+      "start": 1038.5,
+      "end": 1040.97,
+      "text": "Okay."
+    },
+    {
+      "id": 368,
+      "start": 1040.97,
+      "end": 1042.97,
+      "text": "That's the 47th part."
+    },
+    {
+      "id": 369,
+      "start": 1042.97,
+      "end": 1049.29,
+      "text": "My body is the tempo."
+    },
+    {
+      "id": 370,
+      "start": 1049.29,
+      "end": 1050.29,
+      "text": "You."
+    },
+    {
+      "id": 371,
+      "start": 1050.29,
+      "end": 1051.29,
+      "text": "You."
+    },
+    {
+      "id": 372,
+      "start": 1051.29,
+      "end": 1052.29,
+      "text": "You."
+    },
+    {
+      "id": 373,
+      "start": 1052.29,
+      "end": 1058.82,
+      "text": "You."
+    },
+    {
+      "id": 374,
+      "start": 1058.82,
+      "end": 1059.82,
+      "text": "Okay."
+    },
+    {
+      "id": 375,
+      "start": 1059.82,
+      "end": 1081.79,
+      "text": "That's the 47th part."
+    },
+    {
+      "id": 376,
+      "start": 1081.79,
+      "end": 1083.79,
+      "text": "My body is the tempo."
+    },
+    {
+      "id": 377,
+      "start": 1083.79,
+      "end": 1087.77,
+      "text": "You."
+    },
+    {
+      "id": 378,
+      "start": 1087.77,
+      "end": 1088.77,
+      "text": "You."
+    },
+    {
+      "id": 379,
+      "start": 1102.44,
+      "end": 1104.44,
+      "text": "I'm going to have to shave these parts off."
+    },
+    {
+      "id": 380,
+      "start": 1104.44,
+      "end": 1107.49,
+      "text": "It's okay."
+    },
+    {
+      "id": 381,
+      "start": 1107.49,
+      "end": 1109.49,
+      "text": "That's part 48."
+    },
+    {
+      "id": 382,
+      "start": 1109.49,
+      "end": 1110.49,
+      "text": "I believe."
+    },
+    {
+      "id": 383,
+      "start": 1110.49,
+      "end": 1113.18,
+      "text": "Bart."
+    },
+    {
+      "id": 384,
+      "start": 1113.18,
+      "end": 1114.18,
+      "text": "48."
+    },
+    {
+      "id": 385,
+      "start": 1114.18,
+      "end": 1115.18,
+      "text": "I think it's not."
+    },
+    {
+      "id": 386,
+      "start": 1115.18,
+      "end": 1118.18,
+      "text": "But it's how you tell these now."
+    },
+    {
+      "id": 387,
+      "start": 1118.18,
+      "end": 1121.18,
+      "text": "If you're like mixed with."
+    },
+    {
+      "id": 388,
+      "start": 1121.18,
+      "end": 1122.18,
+      "text": "Do that."
+    },
+    {
+      "id": 389,
+      "start": 1122.18,
+      "end": 1124.18,
+      "text": "I'm going to grab it now."
+    },
+    {
+      "id": 390,
+      "start": 1124.18,
+      "end": 1125.18,
+      "text": "Skymer don't say that."
+    },
+    {
+      "id": 391,
+      "start": 1125.18,
+      "end": 1126.18,
+      "text": "I can make it still."
+    },
+    {
+      "id": 392,
+      "start": 1126.18,
+      "end": 1127.18,
+      "text": "I'll just get."
+    },
+    {
+      "id": 393,
+      "start": 1127.18,
+      "end": 1128.18,
+      "text": "Not."
+    },
+    {
+      "id": 394,
+      "start": 1128.18,
+      "end": 1129.18,
+      "text": "I'll just get."
+    },
+    {
+      "id": 395,
+      "start": 1129.18,
+      "end": 1130.18,
+      "text": "Not tattoos."
+    },
+    {
+      "id": 396,
+      "start": 1130.18,
+      "end": 1136.24,
+      "text": "That's your over my tattoos."
+    },
+    {
+      "id": 397,
+      "start": 1136.24,
+      "end": 1137.24,
+      "text": "Can you see?"
+    },
+    {
+      "id": 398,
+      "start": 1137.24,
+      "end": 1138.24,
+      "text": "Sure."
+    },
+    {
+      "id": 399,
+      "start": 1142.25,
+      "end": 1144.25,
+      "text": "Like shift."
+    },
+    {
+      "id": 400,
+      "start": 1144.25,
+      "end": 1145.25,
+      "text": "Ships everything."
+    },
+    {
+      "id": 401,
+      "start": 1145.25,
+      "end": 1146.25,
+      "text": "Yeah."
+    },
+    {
+      "id": 402,
+      "start": 1146.25,
+      "end": 1155.89,
+      "text": "Yeah."
+    },
+    {
+      "id": 403,
+      "start": 1155.89,
+      "end": 1156.89,
+      "text": "Very nice."
+    },
+    {
+      "id": 404,
+      "start": 1156.89,
+      "end": 1163.3,
+      "text": "Two Bart's fellow."
+    },
+    {
+      "id": 405,
+      "start": 1163.3,
+      "end": 1168.38,
+      "text": "This is two for one Bart's."
+    },
+    {
+      "id": 406,
+      "start": 1168.38,
+      "end": 1175.46,
+      "text": "Here."
+    },
+    {
+      "id": 407,
+      "start": 1175.46,
+      "end": 1184.25,
+      "text": "Here we go."
+    },
+    {
+      "id": 408,
+      "start": 1184.25,
+      "end": 1187.25,
+      "text": "We're getting in a new angle on the Bart's."
+    },
+    {
+      "id": 409,
+      "start": 1187.25,
+      "end": 1198.21,
+      "text": "I like that it's just playing."
+    },
+    {
+      "id": 410,
+      "start": 1198.21,
+      "end": 1200.21,
+      "text": "Space Mountain music over there."
+    },
+    {
+      "id": 411,
+      "start": 1200.21,
+      "end": 1205.46,
+      "text": "We get."
+    },
+    {
+      "id": 412,
+      "start": 1205.46,
+      "end": 1206.46,
+      "text": "We got to fall."
+    },
+    {
+      "id": 413,
+      "start": 1206.46,
+      "end": 1207.46,
+      "text": "We are going."
+    },
+    {
+      "id": 414,
+      "start": 1207.46,
+      "end": 1208.46,
+      "text": "Yeah."
+    },
+    {
+      "id": 415,
+      "start": 1208.46,
+      "end": 1211.46,
+      "text": "We'll do a more expensive trail on the part."
+    },
+    {
+      "id": 416,
+      "start": 1211.46,
+      "end": 1222.7,
+      "text": "Okay."
+    },
+    {
+      "id": 417,
+      "start": 1222.7,
+      "end": 1223.7,
+      "text": "Okay."
+    },
+    {
+      "id": 418,
+      "start": 1223.7,
+      "end": 1225.7,
+      "text": "That's 49, right?"
+    },
+    {
+      "id": 419,
+      "start": 1225.7,
+      "end": 1234.05,
+      "text": "It's possible we're over 49."
+    },
+    {
+      "id": 420,
+      "start": 1234.05,
+      "end": 1235.05,
+      "text": "Okay."
+    },
+    {
+      "id": 421,
+      "start": 1235.05,
+      "end": 1240.69,
+      "text": "Well, Kendall does 50."
+    },
+    {
+      "id": 422,
+      "start": 1240.69,
+      "end": 1243.69,
+      "text": "I'm going to start stacking these parts up."
+    },
+    {
+      "id": 423,
+      "start": 1243.69,
+      "end": 1248.69,
+      "text": "So I'm going to pick your favorite part that you want to do tonight."
+    },
+    {
+      "id": 424,
+      "start": 1248.69,
+      "end": 1249.69,
+      "text": "Okay."
+    },
+    {
+      "id": 425,
+      "start": 1249.69,
+      "end": 1250.69,
+      "text": "Here."
+    },
+    {
+      "id": 426,
+      "start": 1250.69,
+      "end": 1251.69,
+      "text": "So I get true big one."
+    },
+    {
+      "id": 427,
+      "start": 1251.69,
+      "end": 1252.69,
+      "text": "Yes."
+    },
+    {
+      "id": 428,
+      "start": 1252.69,
+      "end": 1276.23,
+      "text": "Does this count as two Bart's?"
+    },
+    {
+      "id": 429,
+      "start": 1276.23,
+      "end": 1280.06,
+      "text": "I think it might, right?"
+    },
+    {
+      "id": 430,
+      "start": 1280.06,
+      "end": 1282.06,
+      "text": "One, two, three."
+    },
+    {
+      "id": 431,
+      "start": 1283.06,
+      "end": 1285.06,
+      "text": "Five, seven, eight."
+    },
+    {
+      "id": 432,
+      "start": 1285.06,
+      "end": 1286.06,
+      "text": "Sure."
+    },
+    {
+      "id": 433,
+      "start": 1286.06,
+      "end": 1291.34,
+      "text": "Sure is the correct answer."
+    },
+    {
+      "id": 434,
+      "start": 1291.34,
+      "end": 1296.25,
+      "text": "Three."
+    },
+    {
+      "id": 435,
+      "start": 1296.25,
+      "end": 1298.25,
+      "text": "That's six, seven, eight."
+    },
+    {
+      "id": 436,
+      "start": 1298.25,
+      "end": 1299.25,
+      "text": "Six."
+    },
+    {
+      "id": 437,
+      "start": 1299.25,
+      "end": 1300.25,
+      "text": "Four, five."
+    },
+    {
+      "id": 438,
+      "start": 1300.25,
+      "end": 1301.25,
+      "text": "Six."
+    },
+    {
+      "id": 439,
+      "start": 1301.25,
+      "end": 1302.25,
+      "text": "Five."
+    },
+    {
+      "id": 440,
+      "start": 1302.25,
+      "end": 1303.25,
+      "text": "Seven."
+    },
+    {
+      "id": 441,
+      "start": 1303.25,
+      "end": 1306.14,
+      "text": "Seven."
+    },
+    {
+      "id": 442,
+      "start": 1306.14,
+      "end": 1307.14,
+      "text": "Seven."
+    },
+    {
+      "id": 443,
+      "start": 1307.14,
+      "end": 1308.14,
+      "text": "Seven."
+    },
+    {
+      "id": 444,
+      "start": 1308.14,
+      "end": 1309.14,
+      "text": "Seven."
+    },
+    {
+      "id": 445,
+      "start": 1309.14,
+      "end": 1310.14,
+      "text": "Seven."
+    },
+    {
+      "id": 446,
+      "start": 1310.14,
+      "end": 1311.14,
+      "text": "Seven."
+    },
+    {
+      "id": 447,
+      "start": 1311.14,
+      "end": 1312.14,
+      "text": "Seven."
+    },
+    {
+      "id": 448,
+      "start": 1312.14,
+      "end": 1316.54,
+      "text": "I'm making stacks of 10."
+    },
+    {
+      "id": 449,
+      "start": 1316.54,
+      "end": 1318.54,
+      "text": "Do you need to lean back, Kendall?"
+    },
+    {
+      "id": 450,
+      "start": 1318.54,
+      "end": 1320.78,
+      "text": "Yeah."
+    },
+    {
+      "id": 451,
+      "start": 1320.78,
+      "end": 1321.78,
+      "text": "Whoa."
+    },
+    {
+      "id": 452,
+      "start": 1321.78,
+      "end": 1322.78,
+      "text": "Look at this Bart."
+    },
+    {
+      "id": 453,
+      "start": 1322.78,
+      "end": 1325.77,
+      "text": "I forgot about this Bart."
+    },
+    {
+      "id": 454,
+      "start": 1325.77,
+      "end": 1326.77,
+      "text": "That's a good Bart."
+    },
+    {
+      "id": 455,
+      "start": 1331.67,
+      "end": 1343.94,
+      "text": "This is Bart 50."
+    },
+    {
+      "id": 456,
+      "start": 1343.94,
+      "end": 1344.94,
+      "text": "What an auspicious location."
+    },
+    {
+      "id": 457,
+      "start": 1344.94,
+      "end": 1345.94,
+      "text": "Take it out."
+    },
+    {
+      "id": 458,
+      "start": 1345.94,
+      "end": 1346.94,
+      "text": "Take it out."
+    },
+    {
+      "id": 459,
+      "start": 1346.94,
+      "end": 1351.46,
+      "text": "Take it out."
+    },
+    {
+      "id": 460,
+      "start": 1351.46,
+      "end": 1360.53,
+      "text": "Take it out."
+    },
+    {
+      "id": 461,
+      "start": 1360.53,
+      "end": 1361.53,
+      "text": "Take it out."
+    },
+    {
+      "id": 462,
+      "start": 1361.53,
+      "end": 1362.53,
+      "text": "Take it out."
+    },
+    {
+      "id": 463,
+      "start": 1362.53,
+      "end": 1364.53,
+      "text": "Suffer for your parts."
+    },
+    {
+      "id": 464,
+      "start": 1372.02,
+      "end": 1373.02,
+      "text": "It's fine."
+    },
+    {
+      "id": 465,
+      "start": 1373.02,
+      "end": 1376.1,
+      "text": "Okay."
+    },
+    {
+      "id": 466,
+      "start": 1376.1,
+      "end": 1378.1,
+      "text": "I guess that means you can get Bart's on the side of him too."
+    },
+    {
+      "id": 467,
+      "start": 1378.1,
+      "end": 1379.1,
+      "text": "Uh-huh."
+    },
+    {
+      "id": 468,
+      "start": 1379.1,
+      "end": 1380.1,
+      "text": "What's that?"
+    },
+    {
+      "id": 469,
+      "start": 1380.1,
+      "end": 1381.1,
+      "text": "Okay."
+    },
+    {
+      "id": 470,
+      "start": 1381.1,
+      "end": 1382.1,
+      "text": "That's 50."
+    },
+    {
+      "id": 471,
+      "start": 1382.1,
+      "end": 1384.38,
+      "text": "That's 50."
+    },
+    {
+      "id": 472,
+      "start": 1384.38,
+      "end": 1385.38,
+      "text": "Okay."
+    },
+    {
+      "id": 473,
+      "start": 1385.38,
+      "end": 1387.38,
+      "text": "Kind of pull from this pile of Bart's for now."
+    },
+    {
+      "id": 474,
+      "start": 1387.38,
+      "end": 1388.38,
+      "text": "Just know every pile is 10."
+    },
+    {
+      "id": 475,
+      "start": 1388.38,
+      "end": 1389.38,
+      "text": "This is 10."
+    },
+    {
+      "id": 476,
+      "start": 1389.38,
+      "end": 1398.25,
+      "text": "Yeah."
+    },
+    {
+      "id": 477,
+      "start": 1398.25,
+      "end": 1400.25,
+      "text": "Well, I have to organize the Bart so it's easier to count them."
+    },
+    {
+      "id": 478,
+      "start": 1400.25,
+      "end": 1404.82,
+      "text": "And it's important work."
+    },
+    {
+      "id": 479,
+      "start": 1404.82,
+      "end": 1406.82,
+      "text": "Halfway there, everyone."
+    },
+    {
+      "id": 480,
+      "start": 1406.82,
+      "end": 1422.83,
+      "text": "And it's another stack of 10."
+    },
+    {
+      "id": 481,
+      "start": 1422.83,
+      "end": 1430.21,
+      "text": "I'll make a Bart stack, you'll."
+    },
+    {
+      "id": 482,
+      "start": 1430.21,
+      "end": 1443.9,
+      "text": "Two, five, six, seven, eight, five, ten."
+    },
+    {
+      "id": 483,
+      "start": 1443.9,
+      "end": 1449.61,
+      "text": "Pulling the Bart."
+    },
+    {
+      "id": 484,
+      "start": 1449.61,
+      "end": 1451.61,
+      "text": "You need a Bart base."
+    },
+    {
+      "id": 485,
+      "start": 1451.61,
+      "end": 1452.61,
+      "text": "Pick it out."
+    },
+    {
+      "id": 486,
+      "start": 1452.61,
+      "end": 1453.61,
+      "text": "Pulling it out."
+    },
+    {
+      "id": 487,
+      "start": 1453.61,
+      "end": 1454.61,
+      "text": "Pulling it out."
+    },
+    {
+      "id": 488,
+      "start": 1454.61,
+      "end": 1455.61,
+      "text": "Pulling it out."
+    },
+    {
+      "id": 489,
+      "start": 1455.61,
+      "end": 1456.61,
+      "text": "Pulling it out."
+    },
+    {
+      "id": 490,
+      "start": 1456.61,
+      "end": 1459.5,
+      "text": "Pulling it out."
+    },
+    {
+      "id": 491,
+      "start": 1459.5,
+      "end": 1471.12,
+      "text": "Pulling it out."
+    },
+    {
+      "id": 492,
+      "start": 1471.12,
+      "end": 1472.12,
+      "text": "Pulling it out."
+    },
+    {
+      "id": 493,
+      "start": 1473.12,
+      "end": 1475.12,
+      "text": "Taking away my creative freedom."
+    },
+    {
+      "id": 494,
+      "start": 1475.12,
+      "end": 1476.12,
+      "text": "You do pull it out and I stuck you off."
+    },
+    {
+      "id": 495,
+      "start": 1476.12,
+      "end": 1478.12,
+      "text": "So there's a let us know."
+    },
+    {
+      "id": 496,
+      "start": 1478.12,
+      "end": 1479.12,
+      "text": "Do you know?"
+    },
+    {
+      "id": 497,
+      "start": 1479.12,
+      "end": 1480.12,
+      "text": "Pull it?"
+    },
+    {
+      "id": 498,
+      "start": 1480.12,
+      "end": 1481.12,
+      "text": "Yeah."
+    },
+    {
+      "id": 499,
+      "start": 1481.12,
+      "end": 1482.12,
+      "text": "Pulling it out."
+    },
+    {
+      "id": 500,
+      "start": 1482.12,
+      "end": 1483.12,
+      "text": "It makes up the stack."
+    },
+    {
+      "id": 501,
+      "start": 1483.12,
+      "end": 1484.12,
+      "text": "That's what I'm saying."
+    },
+    {
+      "id": 502,
+      "start": 1484.12,
+      "end": 1486.12,
+      "text": "You're taking away my creative freedom."
+    },
+    {
+      "id": 503,
+      "start": 1486.12,
+      "end": 1489.87,
+      "text": "Eight, nine."
+    },
+    {
+      "id": 504,
+      "start": 1489.87,
+      "end": 1491.87,
+      "text": "That."
+    },
+    {
+      "id": 505,
+      "start": 1491.87,
+      "end": 1495.87,
+      "text": "Guys, great news, we've got six extra Bart's."
+    },
+    {
+      "id": 506,
+      "start": 1495.87,
+      "end": 1498.66,
+      "text": "Even more than that, actually."
+    },
+    {
+      "id": 507,
+      "start": 1498.66,
+      "end": 1501.66,
+      "text": "You got like eight extra Bart's."
+    },
+    {
+      "id": 508,
+      "start": 1501.66,
+      "end": 1502.66,
+      "text": "Yeah."
+    },
+    {
+      "id": 509,
+      "start": 1502.66,
+      "end": 1503.66,
+      "text": "You can pull from whatever is stuck."
+    },
+    {
+      "id": 510,
+      "start": 1503.66,
+      "end": 1504.66,
+      "text": "You want it?"
+    },
+    {
+      "id": 511,
+      "start": 1504.66,
+      "end": 1509.7,
+      "text": "make sure you pump them in the individual stack. I know whenever it stacks, empty, I'll just"
+    },
+    {
+      "id": 512,
+      "start": 1509.7,
+      "end": 1522.87,
+      "text": "pump it by 10. I can tell that these things are like, you know, a little shaky and"
+    },
+    {
+      "id": 513,
+      "start": 1522.87,
+      "end": 1527.43,
+      "text": "other on here so I like can't look around anymore. It's gonna crack these bars."
+    },
+    {
+      "id": 514,
+      "start": 1531.13,
+      "end": 1538.41,
+      "text": "Follow me really as we are at 50-plus bars of 100 bars."
+    },
+    {
+      "id": 515,
+      "start": 1546.36,
+      "end": 1558.31,
+      "text": "Is temporary tattoo poisoning a thing? I really hope..."
+    },
+    {
+      "id": 516,
+      "start": 1558.31,
+      "end": 1562.79,
+      "text": "You know, I said something like that earlier. I literally said, you might get a collection type"
+    },
+    {
+      "id": 517,
+      "start": 1562.79,
+      "end": 1570.39,
+      "text": "of poison in your tongue, then. Oh, shoot. This part's going to court."
+    },
+    {
+      "id": 518,
+      "start": 1570.39,
+      "end": 1579.98,
+      "text": "It's like the melancholy and even a cavity."
+    },
+    {
+      "id": 519,
+      "start": 1579.98,
+      "end": 1598.6,
+      "text": "This is like a new rash. The bars. The whole... My body is a road map of pain."
+    },
+    {
+      "id": 520,
+      "start": 1599.32,
+      "end": 1617.05,
+      "text": "Right, sets people on a bad path. Parts save my life. I'm also announcing on a born-again Christian."
+    },
+    {
+      "id": 521,
+      "start": 1618.73,
+      "end": 1624.33,
+      "text": "Taking the stream to do that. I'm a bar digger. I'm a bar digger. I'm a bar digger, I'm a bar digger."
+    },
+    {
+      "id": 522,
+      "start": 1629.8,
+      "end": 1642.39,
+      "text": "Oh, there's a few. Yeah. Come on. I do like stronger and I feel stronger. Spider bar."
+    },
+    {
+      "id": 523,
+      "start": 1643.51,
+      "end": 1651.83,
+      "text": "Oh, my hairs are showing. Spider bar? They sure really cast bar just Spider bar."
+    },
+    {
+      "id": 524,
+      "start": 1653.19,
+      "end": 1667.02,
+      "text": "He's got the active jobs. I'm not sure. I'm going to sit back. There's some little hole these"
+    },
+    {
+      "id": 525,
+      "start": 1667.02,
+      "end": 1675.93,
+      "text": "are. What if it always happens? How would my life be different? Who would I be?"
+    },
+    {
+      "id": 526,
+      "start": 1676.41,
+      "end": 1688.79,
+      "text": "Well, I do better. Now, these jungle beats plus bar are taking me places."
+    },
+    {
+      "id": 527,
+      "start": 1688.79,
+      "end": 1693.75,
+      "text": "Guys, we're about to be at 60 bars. We're three away from 60 bars."
+    },
+    {
+      "id": 528,
+      "start": 1695.03,
+      "end": 1696.47,
+      "text": "Look at that. Looking at each other."
+    },
+    {
+      "id": 529,
+      "start": 1698.23,
+      "end": 1702.07,
+      "text": "Oh, the bars are hanging out. You want to see my barge dance?"
+    },
+    {
+      "id": 530,
+      "start": 1707.16,
+      "end": 1721.22,
+      "text": "What is getting scary? It's just the top lip bar. Two bar stuff, make it right."
+    },
+    {
+      "id": 531,
+      "start": 1721.3,
+      "end": 1733.61,
+      "text": "But 100 bars. Make a life. A life well lip. Kendall's going to get 50 bars on this"
+    },
+    {
+      "id": 532,
+      "start": 1733.61,
+      "end": 1743.66,
+      "text": "alarm. No problem. She's a pronoun. She's master the art of bar. We'll barbe reporting the news."
+    },
+    {
+      "id": 533,
+      "start": 1743.66,
+      "end": 1754.34,
+      "text": "I mean, I might so have you barred so I'm going to run that. It's hard to set. How long"
+    },
+    {
+      "id": 534,
+      "start": 1754.34,
+      "end": 1771.54,
+      "text": "these bars will last? Okay, that's 58 bars. I want to choose to provide them."
+    },
+    {
+      "id": 535,
+      "start": 1771.94,
+      "end": 1785.21,
+      "text": "Oh, no. You can do it. I just just saying don't. As long as you don't take as long as you don't mix up the"
+    },
+    {
+      "id": 536,
+      "start": 1785.21,
+      "end": 1789.05,
+      "text": "piles, you can do that for that. But that's what I'm saying. You're taking away my creative freedom."
+    },
+    {
+      "id": 537,
+      "start": 1789.05,
+      "end": 1791.85,
+      "text": "You don't have to say pull it out of whatever pile you want. I'll know that it"
+    },
+    {
+      "id": 538,
+      "start": 1791.85,
+      "end": 1795.53,
+      "text": "we're 10 further and whenever a pile doesn't fail to disappear at the end. That's fine."
+    },
+    {
+      "id": 539,
+      "start": 1797.61,
+      "end": 1800.57,
+      "text": "I'm just saying I laid out. Well, I say like I take one from here, then one from here is the"
+    },
+    {
+      "id": 540,
+      "start": 1800.57,
+      "end": 1802.81,
+      "text": "walking there, one from there. That's fine. That's fine. I'm just saying."
+    },
+    {
+      "id": 541,
+      "start": 1803.69,
+      "end": 1806.89,
+      "text": "No, I don't know. I did just away from you to no one around 100."
+    },
+    {
+      "id": 542,
+      "start": 1809.29,
+      "end": 1813.61,
+      "text": "Then what can I just use? You're going to use them? Just use them. I'll no one around 100."
+    },
+    {
+      "id": 543,
+      "start": 1813.61,
+      "end": 1819.61,
+      "text": "For sure. Either way. I laid out 50 bars for that purpose. We might even be over 100"
+    },
+    {
+      "id": 544,
+      "start": 1820.65,
+      "end": 1831.08,
+      "text": "but don't tell them. It's hot out here. Really? I feel cool as hell."
+    },
+    {
+      "id": 545,
+      "start": 1831.08,
+      "end": 1833.48,
+      "text": "No, look at this. Wait, look at this."
+    },
+    {
+      "id": 546,
+      "start": 1834.44,
+      "end": 1839.8,
+      "text": "I don't sweat anymore. I don't sweat anymore. I don't know what to do with that."
+    },
+    {
+      "id": 547,
+      "start": 1839.8,
+      "end": 1851.08,
+      "text": "I age out of that. 7,000 bars? That's nice. I'll leave that to admit the next generation."
+    },
+    {
+      "id": 548,
+      "start": 1852.28,
+      "end": 1856.36,
+      "text": "Okay, I'm just going to look at all the bars now. It's why I laid the picket of shoes in the way."
+    },
+    {
+      "id": 549,
+      "start": 1857.32,
+      "end": 1871.43,
+      "text": "This is Bart 60 by the way. Bart 60 in coming. Oh, yeah, it's Bart."
+    },
+    {
+      "id": 550,
+      "start": 1872.39,
+      "end": 1897.22,
+      "text": "Bart 60. Bart 4, 4, 4. Nine more. Yeah, nine more is this week's final. The chest"
+    },
+    {
+      "id": 551,
+      "start": 1897.22,
+      "end": 1898.74,
+      "text": "heroin is struggling. I can't really-"
+    }
+  ],
+  "text": "That's the same floor where it's in the back, the stream died again.\nI don't know what's causing that.\nLet me know if I'm dumb on the end.\nNow you have no audio.\nOkay.\nNow you should have audio.\nHi, you're here.\nHello.\nIt's a pair of new boards.\nMaybe 50 in arm would make sense.\nI think we're kind of doing some probably a 30-1 to 30-2 boards.\nI think it's on the floor.\nI think we can overlap a little bit, right under now.\nOh, that's a thing.\nThere's that sign.\nIt's not legal.\nOkay, is it fine now?\nI think it's still here, but I'm once again confused.\nWeird.\nYeah.\nIt muted me, and then created a second audio.\nI don't know.\nGuess we can get one here.\nI hope it's out.\nI don't have to get a shirt on the floor.\nI guess we can get one here.\nOh, it's never confusing.\nThere's a lot of different versions of other little boy characters.\nWhat better marks.\nThat was a theme.\nI do have five skins though.\nBut I've never used three types of boards.\nThat was a part.\nI've never used three kinds of boards.\nI'll be all year far.\nYeah, look, four of them boards are kind of fucked up.\nI'll guess 35.\nAnd we'll do a counted 40.\nSo we don't have any boards.\nOr switching.\nThere's a don't have a cow board on here.\nThere's got it.\nWell, there's a part eating a cow.\nBut it's one of my four arm boards.\nSo it's kind of messed up.\nYou would've thought I'd have a thousand viewers by now.\nIt's only true if it's eating out.\nI was appreciate the 100th part to come through.\nYou part of the old needs right now.\nRight now.\nRight now.\nRight on the top of your hand.\nIs it a skull board?\nOh, I got the skull board.\nI think then.\nJust when the top of your hand.\nI'm poking me.\nI can't do this.\nExactly.\nHuge new scandal.\nPokemon does a 101 marks.\nI'm going to get it as an annex.\nI got to go to my Brazilian GGT class.\nI'm going to get it as an annex.\nI got to go to my Brazilian GGT class.\nIt's a shit sidehand part.\nThis one is kind of cool.\nOkay, wait.\nWe've got to be at least 37 boards.\nI guess I could just play tennis beach park lately.\nThose are mostly the thumbnails that I saw.\nThat are marked to you.\nHello.\nPutting a hundred boards on it.\nThat's what I heard.\nI heard that we're being barred since then.\nYeah, we're being barred.\nWe're being barred.\nAll right.\nWe're being barred.\nWow.\nSome of them are full sleeve of bars.\nFull sleeve of bars.\nThat's not.\nBar watch is big.\nThis is a universal way.\nI don't think that it's racist.\nWhat if he's visited?\nI mean, he's been on vacation.\nWhat if he participated from a local person who needed the money?\nThat's funny.\nCan you guys possibly help me tell how many bars I know?\nYeah.\nCan the husband counting a ship on it?\nWhat?\nIt's not like job on the tattoo artist.\nOne, two, three, four, five, six, seven, eight, nine, ten, eleven, five, six, six, four, ten, six, sixteen, seven, seven, ten, ten, ten.\nNine.\nNine.\nThree, two, one.\nTwenty.\nTwenty.\nTwenty.\nTwenty.\nTwenty.\nTwenty.\nTwenty.\nTwenty.\nAnd this one is 6.774.\n29.30.\n3.173.\nThis is what they're worth.\n4.75.\nThey're 10.38!\nSorry, and Bart, we're actually pretty close, everyone.\nWell, we are.\nWe're just going away from Portie.\nYep.\n60.\n3 away.\nGood job.\nRock and roll.\nSpartan.\nThere.\n38 Bart's y'all.\nWe're getting there.\nIn two more Bart's.\nIf you want to take like a minute, I'm just going to put a light up really quick.\nWe are only 12 parts away from my thinking switching arms.\nYou can also put a couple of here, I guess.\nSort of pull the side.\nThere's a little room on the traps.\nThe dog is here.\nOkay, that's 39.\nMy good lord.\nSave some from my neck.\nI guess we can do the neck.\nThat's 39.\nLet's do one more.\nNow I have to do one more.\nOkay.\nKindle is focused.\nMy focus is lacking.\nThat's why I can't even count those parts correctly.\nBut this is Bart 40.\nYou?\nMe?\nMe?\nI was trying to...\nNo.\nOkay.\nThere we go.\nWell, that was cat by the way everyone.\nWho helped me?\nWho helped me?\nWhat's counting our marks?\nShowdowns.\nCheck out.\nAnd then that's a cat cat.\nOkay, let me put a lead up really quick.\nThat's 40 bars.\nWhere?\n40% of the way there.\nIt's a look I saved the cool one.\nYeah.\nHe saved the cool one.\nCool, we got so far, everybody.\nI just the coolest I've ever been.\nHow do you feel about an all-sleeved upman?\nYeah.\nHe's my type now.\nHe's my type now.\nThis is our shirt.\nThat's my shirt.\nYes.\nOkay, I'm going to make him a pop.\nOh, oh, oh, oh, oh.\nThis is the street.\nThis is the street.\nQuick drive, this is it.\nQuick drive, this is it.\nQuick drive, this is it.\nI can't believe we're doing this out here.\nIt's so long now.\nI think it's nicer than to be inside this.\nI can't hide this.\nThis is my preference.\nTruly, I came out here to grab my cat.\nOh, I don't know.\nThis is a walk cat out.\nCan't out.\nYeah.\nI should go around like that.\nSo she can tell how to use it.\nOkay.\nHuh?\nOh, she was.\nShe came to grab one of her bases.\nShe can put the cat flowers.\nOh.\nBecause she's going for it.\nAnd she can't get in.\nAnd then she was like, this isn't going to work.\nOh, yeah.\nAnd so then we were like, well, what can we do?\nAnd so then we, well.\nSo we grabbed some paper and stuff.\nIt's pretty darn bright.\nI just started wearing gold pearls.\nYes, because we got so much nice.\nShe was cleaning.\nIt was nice.\nThey were seeing that one video.\nLike a bunch of guys and like a present cell.\nAnd it was like one guy trying to like zap up like 40 dudes.\nAnd he's like, we just need three perfect ones.\nAnd it got down so it's a very last guy.\nThey probably got that third one.\nMmm.\nThat's what they're doing.\nDude, looking at my hair on this.\nThis is making me feel like they're going to do my hair.\nHey.\nYeah, you do that.\nAnd a lot hair done.\nFor the first time, for the first time in years.\nYears.\nSo good.\nI'm putting my own hair done.\nYou're so pale compared to me.\nI'm like 10.\nOkay.\nWhere's the colliding?\nOkay.\nI mean, I just like 10 or something.\nOkay.\nI got to stop working on outside.\nYou got to stop working on it.\nYeah, I know.\nI'm going to chew 10.\nYeah.\nIt's getting scary.\nHow can you do it?\nHere's your help.\nOkay.\nI'm playing.\nLet me try to play with you.\nI'll go.\nBye.\nBye.\nThe parts are in.\nLike this one.\nYou want to just take your shirt off?\nNot really.\nYou're going to not dyeing to do that.\nYou can do that.\nLike just go in this range here.\nHuh?\nGo into this range here.\nOkay.\nIt's off the Simpson's tracks again.\nOh well.\nWe'll switch back when we get to like the next time.\nDid you not go shirtless in the guy?\nWhich I know I did.\nOkay.\nOkay.\nThank you.\nMaggie.\nYeah.\nI think you can go in with your motor.\nYou can go in.\nThat's fine.\nI'm the tattoo artist.\nMe.\nYou shouldn't have made me smaller.\nShould I?\nYeah.\nThat's machine gun Bart Simpson.\nShe's big for that.\nI'm going to save that for later.\nA hot tub streamer.\nYeah.\nYeah.\nIt sneaks up on you.\nAnd finally, you're fully new.\nI did a hot tub stream once.\nI did a pretty full stream.\nThat's it.\nAnd I got a viewer immediately.\nAnd that's when I had only like five.\nI don't think I would get it here in the middle.\nI've got the Cody Rose everyone.\nThere's only so much room on the body I guess.\nWe had to go to the neck.\nThis is like two skate 413 next week though.\nOkay.\nThis is 43.\nBro.\nEntry Bart 43.\nTwo skate 413 next week though.\nWait.\nThis is 44.\nYes.\nThis is 44, right?\nYou have to go.\nI'm asking you.\nCan't remember.\nThis is 44.\nThe immediate agent been deers.\nAbsolutely.\nIt's gone down recent.\nWe got someone in their late 30s.\nYeah, it's too late.\nAnd obviously this is just practice for when I get the permanent attached.\nAnd being there going on?\nYeah.\nBart gun.\nBart gun Simpson.\nOh god.\n45.\nBart 45.\nThese are permanent.\nThat would be a bit of a bummer.\nHaving a large Bart Simpson attempt to all the way up to my neck.\nPut them in stacks of 10.\nWe'll do that once we get to fit.\nThat's a smart parking is being smart.\nShould I have already lost track though?\nThat might have been 46 or maybe 45.\nThat's a certain kind of like on your back.\nIt's up like here.\nJust over.\nThose overlapped.\nNo.\nLike here.\nHow about my.\nThere.\nNo.\nWhat about here on my neck?\nJust to do the whole mat.\nSure.\nKen.\nYeah.\nThat's like patty up.\nNo regrets.\nDon't live your life.\nThat's simply 45 Bart.\nOkay.\nThis is part 46.\nYeah.\nWe have.\nFor some reason we have too big back.\nI think one.\nIt could also be part 47.\nLike I might have that count of the one on my back.\nBart.\nAnybody have a guess.\nThis is 46 or 47.\nOh yeah.\nBart is there.\nAlright.\nI.\nHey.\nThat's 40.\n7.\nOkay.\nThat's the 47th part.\nMy body is the tempo.\nYou.\nYou.\nYou.\nYou.\nOkay.\nThat's the 47th part.\nMy body is the tempo.\nYou.\nYou.\nI'm going to have to shave these parts off.\nIt's okay.\nThat's part 48.\nI believe.\nBart.\n48.\nI think it's not.\nBut it's how you tell these now.\nIf you're like mixed with.\nDo that.\nI'm going to grab it now.\nSkymer don't say that.\nI can make it still.\nI'll just get.\nNot.\nI'll just get.\nNot tattoos.\nThat's your over my tattoos.\nCan you see?\nSure.\nLike shift.\nShips everything.\nYeah.\nYeah.\nVery nice.\nTwo Bart's fellow.\nThis is two for one Bart's.\nHere.\nHere we go.\nWe're getting in a new angle on the Bart's.\nI like that it's just playing.\nSpace Mountain music over there.\nWe get.\nWe got to fall.\nWe are going.\nYeah.\nWe'll do a more expensive trail on the part.\nOkay.\nOkay.\nThat's 49, right?\nIt's possible we're over 49.\nOkay.\nWell, Kendall does 50.\nI'm going to start stacking these parts up.\nSo I'm going to pick your favorite part that you want to do tonight.\nOkay.\nHere.\nSo I get true big one.\nYes.\nDoes this count as two Bart's?\nI think it might, right?\nOne, two, three.\nFive, seven, eight.\nSure.\nSure is the correct answer.\nThree.\nThat's six, seven, eight.\nSix.\nFour, five.\nSix.\nFive.\nSeven.\nSeven.\nSeven.\nSeven.\nSeven.\nSeven.\nSeven.\nSeven.\nI'm making stacks of 10.\nDo you need to lean back, Kendall?\nYeah.\nWhoa.\nLook at this Bart.\nI forgot about this Bart.\nThat's a good Bart.\nThis is Bart 50.\nWhat an auspicious location.\nTake it out.\nTake it out.\nTake it out.\nTake it out.\nTake it out.\nTake it out.\nSuffer for your parts.\nIt's fine.\nOkay.\nI guess that means you can get Bart's on the side of him too.\nUh-huh.\nWhat's that?\nOkay.\nThat's 50.\nThat's 50.\nOkay.\nKind of pull from this pile of Bart's for now.\nJust know every pile is 10.\nThis is 10.\nYeah.\nWell, I have to organize the Bart so it's easier to count them.\nAnd it's important work.\nHalfway there, everyone.\nAnd it's another stack of 10.\nI'll make a Bart stack, you'll.\nTwo, five, six, seven, eight, five, ten.\nPulling the Bart.\nYou need a Bart base.\nPick it out.\nPulling it out.\nPulling it out.\nPulling it out.\nPulling it out.\nPulling it out.\nPulling it out.\nPulling it out.\nTaking away my creative freedom.\nYou do pull it out and I stuck you off.\nSo there's a let us know.\nDo you know?\nPull it?\nYeah.\nPulling it out.\nIt makes up the stack.\nThat's what I'm saying.\nYou're taking away my creative freedom.\nEight, nine.\nThat.\nGuys, great news, we've got six extra Bart's.\nEven more than that, actually.\nYou got like eight extra Bart's.\nYeah.\nYou can pull from whatever is stuck.\nYou want it?\nmake sure you pump them in the individual stack. I know whenever it stacks, empty, I'll just\npump it by 10. I can tell that these things are like, you know, a little shaky and\nother on here so I like can't look around anymore. It's gonna crack these bars.\nFollow me really as we are at 50-plus bars of 100 bars.\nIs temporary tattoo poisoning a thing? I really hope...\nYou know, I said something like that earlier. I literally said, you might get a collection type\nof poison in your tongue, then. Oh, shoot. This part's going to court.\nIt's like the melancholy and even a cavity.\nThis is like a new rash. The bars. The whole... My body is a road map of pain.\nRight, sets people on a bad path. Parts save my life. I'm also announcing on a born-again Christian.\nTaking the stream to do that. I'm a bar digger. I'm a bar digger. I'm a bar digger, I'm a bar digger.\nOh, there's a few. Yeah. Come on. I do like stronger and I feel stronger. Spider bar.\nOh, my hairs are showing. Spider bar? They sure really cast bar just Spider bar.\nHe's got the active jobs. I'm not sure. I'm going to sit back. There's some little hole these\nare. What if it always happens? How would my life be different? Who would I be?\nWell, I do better. Now, these jungle beats plus bar are taking me places.\nGuys, we're about to be at 60 bars. We're three away from 60 bars.\nLook at that. Looking at each other.\nOh, the bars are hanging out. You want to see my barge dance?\nWhat is getting scary? It's just the top lip bar. Two bar stuff, make it right.\nBut 100 bars. Make a life. A life well lip. Kendall's going to get 50 bars on this\nalarm. No problem. She's a pronoun. She's master the art of bar. We'll barbe reporting the news.\nI mean, I might so have you barred so I'm going to run that. It's hard to set. How long\nthese bars will last? Okay, that's 58 bars. I want to choose to provide them.\nOh, no. You can do it. I just just saying don't. As long as you don't take as long as you don't mix up the\npiles, you can do that for that. But that's what I'm saying. You're taking away my creative freedom.\nYou don't have to say pull it out of whatever pile you want. I'll know that it\nwe're 10 further and whenever a pile doesn't fail to disappear at the end. That's fine.\nI'm just saying I laid out. Well, I say like I take one from here, then one from here is the\nwalking there, one from there. That's fine. That's fine. I'm just saying.\nNo, I don't know. I did just away from you to no one around 100.\nThen what can I just use? You're going to use them? Just use them. I'll no one around 100.\nFor sure. Either way. I laid out 50 bars for that purpose. We might even be over 100\nbut don't tell them. It's hot out here. Really? I feel cool as hell.\nNo, look at this. Wait, look at this.\nI don't sweat anymore. I don't sweat anymore. I don't know what to do with that.\nI age out of that. 7,000 bars? That's nice. I'll leave that to admit the next generation.\nOkay, I'm just going to look at all the bars now. It's why I laid the picket of shoes in the way.\nThis is Bart 60 by the way. Bart 60 in coming. Oh, yeah, it's Bart.\nBart 60. Bart 4, 4, 4. Nine more. Yeah, nine more is this week's final. The chest\nheroin is struggling. I can't really-",
+  "text_timestamped": "[00:00 --> 00:08] That's the same floor where it's in the back, the stream died again.\n[00:08 --> 00:12] I don't know what's causing that.\n[00:12 --> 00:15] Let me know if I'm dumb on the end.\n[00:15 --> 00:16] Now you have no audio.\n[00:16 --> 00:17] Okay.\n[00:17 --> 00:19] Now you should have audio.\n[00:19 --> 00:24] Hi, you're here.\n[00:24 --> 00:25] Hello.\n[00:25 --> 00:28] It's a pair of new boards.\n[00:28 --> 00:31] Maybe 50 in arm would make sense.\n[00:31 --> 00:35] I think we're kind of doing some probably a 30-1 to 30-2 boards.\n[00:35 --> 00:37] I think it's on the floor.\n[00:37 --> 00:41] I think we can overlap a little bit, right under now.\n[00:41 --> 00:43] Oh, that's a thing.\n[00:43 --> 00:50] There's that sign.\n[00:50 --> 00:55] It's not legal.\n[00:55 --> 00:57] Okay, is it fine now?\n[00:57 --> 01:00] I think it's still here, but I'm once again confused.\n[01:00 --> 01:05] Weird.\n[01:05 --> 01:06] Yeah.\n[01:06 --> 01:09] It muted me, and then created a second audio.\n[01:09 --> 01:10] I don't know.\n[01:10 --> 01:12] Guess we can get one here.\n[01:12 --> 01:19] I hope it's out.\n[01:19 --> 01:26] I don't have to get a shirt on the floor.\n[01:26 --> 01:28] I guess we can get one here.\n[01:34 --> 01:39] Oh, it's never confusing.\n[01:39 --> 01:46] There's a lot of different versions of other little boy characters.\n[01:46 --> 01:48] What better marks.\n[01:48 --> 01:52] That was a theme.\n[01:52 --> 01:54] I do have five skins though.\n[01:54 --> 01:56] But I've never used three types of boards.\n[01:56 --> 02:01] That was a part.\n[02:01 --> 02:04] I've never used three kinds of boards.\n[02:04 --> 02:07] I'll be all year far.\n[02:07 --> 02:10] Yeah, look, four of them boards are kind of fucked up.\n[02:10 --> 02:34] I'll guess 35.\n[02:34 --> 02:37] And we'll do a counted 40.\n[02:37 --> 02:40] So we don't have any boards.\n[02:40 --> 02:52] Or switching.\n[02:52 --> 02:54] There's a don't have a cow board on here.\n[02:54 --> 02:59] There's got it.\n[02:59 --> 03:01] Well, there's a part eating a cow.\n[03:01 --> 03:03] But it's one of my four arm boards.\n[03:03 --> 03:04] So it's kind of messed up.\n[03:04 --> 03:18] You would've thought I'd have a thousand viewers by now.\n[03:18 --> 03:20] It's only true if it's eating out.\n[03:20 --> 03:23] I was appreciate the 100th part to come through.\n[03:23 --> 03:25] You part of the old needs right now.\n[03:25 --> 03:26] Right now.\n[03:26 --> 03:34] Right now.\n[03:34 --> 03:36] Right on the top of your hand.\n[03:36 --> 03:38] Is it a skull board?\n[03:38 --> 03:40] Oh, I got the skull board.\n[03:40 --> 03:41] I think then.\n[03:41 --> 03:43] Just when the top of your hand.\n[03:43 --> 03:44] I'm poking me.\n[03:44 --> 03:46] I can't do this.\n[03:46 --> 03:50] Exactly.\n[03:50 --> 03:51] Huge new scandal.\n[03:51 --> 03:53] Pokemon does a 101 marks.\n[03:53 --> 03:54] I'm going to get it as an annex.\n[03:54 --> 04:01] I got to go to my Brazilian GGT class.\n[04:01 --> 04:13] I'm going to get it as an annex.\n[04:13 --> 04:15] I got to go to my Brazilian GGT class.\n[04:24 --> 04:27] It's a shit sidehand part.\n[04:27 --> 04:30] This one is kind of cool.\n[04:30 --> 04:31] Okay, wait.\n[04:31 --> 04:33] We've got to be at least 37 boards.\n[04:33 --> 04:48] I guess I could just play tennis beach park lately.\n[04:48 --> 04:51] Those are mostly the thumbnails that I saw.\n[04:51 --> 04:52] That are marked to you.\n[04:56 --> 04:57] Hello.\n[04:57 --> 05:01] Putting a hundred boards on it.\n[05:01 --> 05:02] That's what I heard.\n[05:02 --> 05:04] I heard that we're being barred since then.\n[05:04 --> 05:05] Yeah, we're being barred.\n[05:05 --> 05:07] We're being barred.\n[05:07 --> 05:08] All right.\n[05:08 --> 05:09] We're being barred.\n[05:09 --> 05:10] Wow.\n[05:10 --> 05:12] Some of them are full sleeve of bars.\n[05:12 --> 05:13] Full sleeve of bars.\n[05:13 --> 05:14] That's not.\n[05:14 --> 05:16] Bar watch is big.\n[05:16 --> 05:18] This is a universal way.\n[05:18 --> 05:21] I don't think that it's racist.\n[05:21 --> 05:22] What if he's visited?\n[05:22 --> 05:27] I mean, he's been on vacation.\n[05:27 --> 05:31] What if he participated from a local person who needed the money?\n[05:31 --> 05:32] That's funny.\n[05:32 --> 05:35] Can you guys possibly help me tell how many bars I know?\n[05:35 --> 05:36] Yeah.\n[05:36 --> 05:37] Can the husband counting a ship on it?\n[05:37 --> 05:38] What?\n[05:38 --> 05:40] It's not like job on the tattoo artist.\n[05:40 --> 05:48] One, two, three, four, five, six, seven, eight, nine, ten, eleven, five, six, six, four, ten, six, sixteen, seven, seven, ten, ten, ten.\n[05:48 --> 05:49] Nine.\n[05:49 --> 05:50] Nine.\n[05:50 --> 05:52] Three, two, one.\n[05:52 --> 05:53] Twenty.\n[05:53 --> 05:54] Twenty.\n[05:54 --> 05:55] Twenty.\n[05:55 --> 05:56] Twenty.\n[05:56 --> 05:57] Twenty.\n[05:57 --> 05:58] Twenty.\n[05:58 --> 05:59] Twenty.\n[05:59 --> 06:00] Twenty.\n[06:00 --> 06:02] And this one is 6.774.\n[06:02 --> 06:04] 29.30.\n[06:04 --> 06:05] 3.173.\n[06:05 --> 06:07] This is what they're worth.\n[06:07 --> 06:08] 4.75.\n[06:08 --> 06:10] They're 10.38!\n[06:10 --> 06:13] Sorry, and Bart, we're actually pretty close, everyone.\n[06:13 --> 06:14] Well, we are.\n[06:14 --> 06:15] We're just going away from Portie.\n[06:15 --> 06:16] Yep.\n[06:16 --> 06:17] 60.\n[06:17 --> 06:18] 3 away.\n[06:18 --> 06:19] Good job.\n[06:19 --> 06:20] Rock and roll.\n[06:20 --> 06:21] Spartan.\n[06:21 --> 06:22] There.\n[06:23 --> 06:30] 38 Bart's y'all.\n[06:30 --> 06:32] We're getting there.\n[06:32 --> 06:34] In two more Bart's.\n[06:34 --> 06:42] If you want to take like a minute, I'm just going to put a light up really quick.\n[06:42 --> 06:44] We are only 12 parts away from my thinking switching arms.\n[06:44 --> 06:50] You can also put a couple of here, I guess.\n[06:50 --> 06:54] Sort of pull the side.\n[06:54 --> 06:57] There's a little room on the traps.\n[06:57 --> 06:58] The dog is here.\n[06:58 --> 07:00] Okay, that's 39.\n[07:00 --> 07:02] My good lord.\n[07:02 --> 07:04] Save some from my neck.\n[07:04 --> 07:09] I guess we can do the neck.\n[07:09 --> 07:11] That's 39.\n[07:11 --> 07:12] Let's do one more.\n[07:12 --> 07:13] Now I have to do one more.\n[07:13 --> 07:14] Okay.\n[07:31 --> 07:32] Kindle is focused.\n[07:32 --> 07:33] My focus is lacking.\n[07:33 --> 07:35] That's why I can't even count those parts correctly.\n[07:35 --> 07:37] But this is Bart 40.\n[07:37 --> 07:38] You?\n[07:38 --> 07:39] Me?\n[07:39 --> 07:40] Me?\n[07:40 --> 07:41] I was trying to...\n[07:41 --> 07:42] No.\n[07:42 --> 07:48] Okay.\n[07:48 --> 07:54] There we go.\n[07:54 --> 07:57] Well, that was cat by the way everyone.\n[07:57 --> 07:58] Who helped me?\n[07:58 --> 07:59] Who helped me?\n[07:59 --> 08:00] What's counting our marks?\n[08:00 --> 08:02] Showdowns.\n[08:02 --> 08:03] Check out.\n[08:04 --> 08:07] And then that's a cat cat.\n[08:07 --> 08:17] Okay, let me put a lead up really quick.\n[08:17 --> 08:19] That's 40 bars.\n[08:19 --> 08:21] Where?\n[08:21 --> 08:22] 40% of the way there.\n[08:22 --> 08:25] It's a look I saved the cool one.\n[08:25 --> 08:26] Yeah.\n[08:26 --> 08:27] He saved the cool one.\n[08:27 --> 08:34] Cool, we got so far, everybody.\n[08:34 --> 08:36] I just the coolest I've ever been.\n[08:36 --> 08:39] How do you feel about an all-sleeved upman?\n[08:39 --> 08:40] Yeah.\n[08:40 --> 08:43] He's my type now.\n[08:43 --> 08:45] He's my type now.\n[08:45 --> 08:56] This is our shirt.\n[08:56 --> 08:58] That's my shirt.\n[08:58 --> 08:59] Yes.\n[08:59 --> 09:02] Okay, I'm going to make him a pop.\n[09:02 --> 09:05] Oh, oh, oh, oh, oh.\n[09:05 --> 09:11] This is the street.\n[09:11 --> 09:12] This is the street.\n[09:12 --> 09:15] Quick drive, this is it.\n[09:15 --> 09:19] Quick drive, this is it.\n[09:19 --> 09:23] Quick drive, this is it.\n[09:24 --> 09:26] I can't believe we're doing this out here.\n[09:26 --> 09:27] It's so long now.\n[09:27 --> 09:30] I think it's nicer than to be inside this.\n[09:30 --> 09:33] I can't hide this.\n[09:33 --> 09:35] This is my preference.\n[09:35 --> 09:38] Truly, I came out here to grab my cat.\n[09:38 --> 09:39] Oh, I don't know.\n[09:39 --> 09:41] This is a walk cat out.\n[09:41 --> 09:43] Can't out.\n[09:43 --> 09:44] Yeah.\n[09:44 --> 09:46] I should go around like that.\n[09:46 --> 09:49] So she can tell how to use it.\n[09:50 --> 09:52] Okay.\n[09:52 --> 09:53] Huh?\n[09:53 --> 09:55] Oh, she was.\n[09:55 --> 09:58] She came to grab one of her bases.\n[09:58 --> 10:00] She can put the cat flowers.\n[10:00 --> 10:01] Oh.\n[10:01 --> 10:05] Because she's going for it.\n[10:05 --> 10:07] And she can't get in.\n[10:07 --> 10:10] And then she was like, this isn't going to work.\n[10:10 --> 10:11] Oh, yeah.\n[10:11 --> 10:14] And so then we were like, well, what can we do?\n[10:14 --> 10:17] And so then we, well.\n[10:17 --> 10:21] So we grabbed some paper and stuff.\n[10:21 --> 10:23] It's pretty darn bright.\n[10:23 --> 10:27] I just started wearing gold pearls.\n[10:27 --> 10:30] Yes, because we got so much nice.\n[10:30 --> 10:32] She was cleaning.\n[10:32 --> 10:34] It was nice.\n[10:34 --> 10:36] They were seeing that one video.\n[10:36 --> 10:39] Like a bunch of guys and like a present cell.\n[10:39 --> 10:43] And it was like one guy trying to like zap up like 40 dudes.\n[10:43 --> 10:45] And he's like, we just need three perfect ones.\n[10:45 --> 10:47] And it got down so it's a very last guy.\n[10:47 --> 10:49] They probably got that third one.\n[10:49 --> 10:50] Mmm.\n[10:50 --> 10:53] That's what they're doing.\n[10:53 --> 10:55] Dude, looking at my hair on this.\n[10:55 --> 10:58] This is making me feel like they're going to do my hair.\n[10:58 --> 10:59] Hey.\n[10:59 --> 11:00] Yeah, you do that.\n[11:00 --> 11:02] And a lot hair done.\n[11:02 --> 11:06] For the first time, for the first time in years.\n[11:06 --> 11:07] Years.\n[11:07 --> 11:08] So good.\n[11:08 --> 11:09] I'm putting my own hair done.\n[11:09 --> 11:12] You're so pale compared to me.\n[11:12 --> 11:13] I'm like 10.\n[11:13 --> 11:14] Okay.\n[11:14 --> 11:15] Where's the colliding?\n[11:15 --> 11:16] Okay.\n[11:16 --> 11:20] I mean, I just like 10 or something.\n[11:20 --> 11:21] Okay.\n[11:21 --> 11:24] I got to stop working on outside.\n[11:24 --> 11:26] You got to stop working on it.\n[11:26 --> 11:27] Yeah, I know.\n[11:27 --> 11:28] I'm going to chew 10.\n[11:28 --> 11:29] Yeah.\n[11:29 --> 11:30] It's getting scary.\n[11:30 --> 11:32] How can you do it?\n[11:32 --> 11:33] Here's your help.\n[11:33 --> 11:34] Okay.\n[11:34 --> 11:35] I'm playing.\n[11:35 --> 11:36] Let me try to play with you.\n[11:36 --> 11:37] I'll go.\n[11:37 --> 11:38] Bye.\n[11:38 --> 11:40] Bye.\n[11:40 --> 11:42] The parts are in.\n[11:43 --> 11:44] Like this one.\n[11:44 --> 11:46] You want to just take your shirt off?\n[11:46 --> 11:47] Not really.\n[11:47 --> 11:53] You're going to not dyeing to do that.\n[11:53 --> 11:55] You can do that.\n[11:55 --> 12:00] Like just go in this range here.\n[12:00 --> 12:01] Huh?\n[12:01 --> 12:03] Go into this range here.\n[12:03 --> 12:04] Okay.\n[12:04 --> 12:10] It's off the Simpson's tracks again.\n[12:10 --> 12:11] Oh well.\n[12:11 --> 12:17] We'll switch back when we get to like the next time.\n[12:20 --> 12:22] Did you not go shirtless in the guy?\n[12:22 --> 12:23] Which I know I did.\n[12:23 --> 12:24] Okay.\n[12:24 --> 12:37] Okay.\n[12:37 --> 12:39] Thank you.\n[12:39 --> 12:40] Maggie.\n[12:40 --> 12:41] Yeah.\n[12:41 --> 12:43] I think you can go in with your motor.\n[12:43 --> 12:44] You can go in.\n[12:44 --> 12:45] That's fine.\n[12:45 --> 12:47] I'm the tattoo artist.\n[12:47 --> 12:48] Me.\n[12:48 --> 12:50] You shouldn't have made me smaller.\n[12:50 --> 12:52] Should I?\n[12:52 --> 12:55] Yeah.\n[12:55 --> 12:57] That's machine gun Bart Simpson.\n[12:57 --> 13:03] She's big for that.\n[13:03 --> 13:10] I'm going to save that for later.\n[13:10 --> 13:11] A hot tub streamer.\n[13:11 --> 13:12] Yeah.\n[13:12 --> 13:13] Yeah.\n[13:13 --> 13:15] It sneaks up on you.\n[13:15 --> 13:17] And finally, you're fully new.\n[13:17 --> 13:19] I did a hot tub stream once.\n[13:19 --> 13:22] I did a pretty full stream.\n[13:22 --> 13:23] That's it.\n[13:23 --> 13:26] And I got a viewer immediately.\n[13:26 --> 13:30] And that's when I had only like five.\n[13:30 --> 13:32] I don't think I would get it here in the middle.\n[13:32 --> 13:36] I've got the Cody Rose everyone.\n[13:36 --> 13:43] There's only so much room on the body I guess.\n[13:43 --> 13:45] We had to go to the neck.\n[13:45 --> 13:55] This is like two skate 413 next week though.\n[13:55 --> 14:03] Okay.\n[14:03 --> 14:14] This is 43.\n[14:14 --> 14:15] Bro.\n[14:15 --> 14:17] Entry Bart 43.\n[14:17 --> 14:22] Two skate 413 next week though.\n[14:22 --> 14:26] Wait.\n[14:26 --> 14:27] This is 44.\n[14:27 --> 14:28] Yes.\n[14:28 --> 14:32] This is 44, right?\n[14:32 --> 14:33] You have to go.\n[14:33 --> 14:34] I'm asking you.\n[14:34 --> 14:36] Can't remember.\n[14:36 --> 14:37] This is 44.\n[14:37 --> 14:43] The immediate agent been deers.\n[14:43 --> 14:44] Absolutely.\n[14:44 --> 14:47] It's gone down recent.\n[14:47 --> 14:50] We got someone in their late 30s.\n[14:50 --> 14:57] Yeah, it's too late.\n[14:57 --> 15:01] And obviously this is just practice for when I get the permanent attached.\n[15:01 --> 15:03] And being there going on?\n[15:03 --> 15:11] Yeah.\n[15:11 --> 15:13] Bart gun.\n[15:13 --> 15:21] Bart gun Simpson.\n[15:21 --> 15:22] Oh god.\n[15:22 --> 15:24] 45.\n[15:24 --> 15:32] Bart 45.\n[15:32 --> 15:38] These are permanent.\n[15:38 --> 15:40] That would be a bit of a bummer.\n[15:41 --> 15:44] Having a large Bart Simpson attempt to all the way up to my neck.\n[15:44 --> 15:49] Put them in stacks of 10.\n[15:49 --> 15:52] We'll do that once we get to fit.\n[15:52 --> 15:55] That's a smart parking is being smart.\n[15:55 --> 15:57] Should I have already lost track though?\n[15:57 --> 16:00] That might have been 46 or maybe 45.\n[16:00 --> 16:02] That's a certain kind of like on your back.\n[16:02 --> 16:03] It's up like here.\n[16:03 --> 16:04] Just over.\n[16:04 --> 16:05] Those overlapped.\n[16:05 --> 16:06] No.\n[16:09 --> 16:10] Like here.\n[16:10 --> 16:11] How about my.\n[16:11 --> 16:12] There.\n[16:12 --> 16:13] No.\n[16:14 --> 16:16] What about here on my neck?\n[16:16 --> 16:17] Just to do the whole mat.\n[16:17 --> 16:18] Sure.\n[16:18 --> 16:19] Ken.\n[16:19 --> 16:20] Yeah.\n[16:20 --> 16:21] That's like patty up.\n[16:21 --> 16:33] No regrets.\n[16:33 --> 16:36] Don't live your life.\n[16:36 --> 16:38] That's simply 45 Bart.\n[16:38 --> 16:39] Okay.\n[16:39 --> 16:40] This is part 46.\n[16:40 --> 16:42] Yeah.\n[16:42 --> 16:44] We have.\n[16:44 --> 16:46] For some reason we have too big back.\n[16:46 --> 16:47] I think one.\n[16:47 --> 16:49] It could also be part 47.\n[16:49 --> 16:52] Like I might have that count of the one on my back.\n[16:52 --> 16:53] Bart.\n[16:53 --> 16:54] Anybody have a guess.\n[16:54 --> 16:56] This is 46 or 47.\n[16:56 --> 16:57] Oh yeah.\n[16:57 --> 16:59] Bart is there.\n[16:59 --> 17:13] Alright.\n[17:13 --> 17:14] I.\n[17:14 --> 17:15] Hey.\n[17:15 --> 17:17] That's 40.\n[17:17 --> 17:18] 7.\n[17:18 --> 17:20] Okay.\n[17:20 --> 17:22] That's the 47th part.\n[17:22 --> 17:29] My body is the tempo.\n[17:29 --> 17:30] You.\n[17:30 --> 17:31] You.\n[17:31 --> 17:32] You.\n[17:32 --> 17:38] You.\n[17:38 --> 17:39] Okay.\n[17:39 --> 18:01] That's the 47th part.\n[18:01 --> 18:03] My body is the tempo.\n[18:03 --> 18:07] You.\n[18:07 --> 18:08] You.\n[18:22 --> 18:24] I'm going to have to shave these parts off.\n[18:24 --> 18:27] It's okay.\n[18:27 --> 18:29] That's part 48.\n[18:29 --> 18:30] I believe.\n[18:30 --> 18:33] Bart.\n[18:33 --> 18:34] 48.\n[18:34 --> 18:35] I think it's not.\n[18:35 --> 18:38] But it's how you tell these now.\n[18:38 --> 18:41] If you're like mixed with.\n[18:41 --> 18:42] Do that.\n[18:42 --> 18:44] I'm going to grab it now.\n[18:44 --> 18:45] Skymer don't say that.\n[18:45 --> 18:46] I can make it still.\n[18:46 --> 18:47] I'll just get.\n[18:47 --> 18:48] Not.\n[18:48 --> 18:49] I'll just get.\n[18:49 --> 18:50] Not tattoos.\n[18:50 --> 18:56] That's your over my tattoos.\n[18:56 --> 18:57] Can you see?\n[18:57 --> 18:58] Sure.\n[19:02 --> 19:04] Like shift.\n[19:04 --> 19:05] Ships everything.\n[19:05 --> 19:06] Yeah.\n[19:06 --> 19:15] Yeah.\n[19:15 --> 19:16] Very nice.\n[19:16 --> 19:23] Two Bart's fellow.\n[19:23 --> 19:28] This is two for one Bart's.\n[19:28 --> 19:35] Here.\n[19:35 --> 19:44] Here we go.\n[19:44 --> 19:47] We're getting in a new angle on the Bart's.\n[19:47 --> 19:58] I like that it's just playing.\n[19:58 --> 20:00] Space Mountain music over there.\n[20:00 --> 20:05] We get.\n[20:05 --> 20:06] We got to fall.\n[20:06 --> 20:07] We are going.\n[20:07 --> 20:08] Yeah.\n[20:08 --> 20:11] We'll do a more expensive trail on the part.\n[20:11 --> 20:22] Okay.\n[20:22 --> 20:23] Okay.\n[20:23 --> 20:25] That's 49, right?\n[20:25 --> 20:34] It's possible we're over 49.\n[20:34 --> 20:35] Okay.\n[20:35 --> 20:40] Well, Kendall does 50.\n[20:40 --> 20:43] I'm going to start stacking these parts up.\n[20:43 --> 20:48] So I'm going to pick your favorite part that you want to do tonight.\n[20:48 --> 20:49] Okay.\n[20:49 --> 20:50] Here.\n[20:50 --> 20:51] So I get true big one.\n[20:51 --> 20:52] Yes.\n[20:52 --> 21:16] Does this count as two Bart's?\n[21:16 --> 21:20] I think it might, right?\n[21:20 --> 21:22] One, two, three.\n[21:23 --> 21:25] Five, seven, eight.\n[21:25 --> 21:26] Sure.\n[21:26 --> 21:31] Sure is the correct answer.\n[21:31 --> 21:36] Three.\n[21:36 --> 21:38] That's six, seven, eight.\n[21:38 --> 21:39] Six.\n[21:39 --> 21:40] Four, five.\n[21:40 --> 21:41] Six.\n[21:41 --> 21:42] Five.\n[21:42 --> 21:43] Seven.\n[21:43 --> 21:46] Seven.\n[21:46 --> 21:47] Seven.\n[21:47 --> 21:48] Seven.\n[21:48 --> 21:49] Seven.\n[21:49 --> 21:50] Seven.\n[21:50 --> 21:51] Seven.\n[21:51 --> 21:52] Seven.\n[21:52 --> 21:56] I'm making stacks of 10.\n[21:56 --> 21:58] Do you need to lean back, Kendall?\n[21:58 --> 22:00] Yeah.\n[22:00 --> 22:01] Whoa.\n[22:01 --> 22:02] Look at this Bart.\n[22:02 --> 22:05] I forgot about this Bart.\n[22:05 --> 22:06] That's a good Bart.\n[22:11 --> 22:23] This is Bart 50.\n[22:23 --> 22:24] What an auspicious location.\n[22:24 --> 22:25] Take it out.\n[22:25 --> 22:26] Take it out.\n[22:26 --> 22:31] Take it out.\n[22:31 --> 22:40] Take it out.\n[22:40 --> 22:41] Take it out.\n[22:41 --> 22:42] Take it out.\n[22:42 --> 22:44] Suffer for your parts.\n[22:52 --> 22:53] It's fine.\n[22:53 --> 22:56] Okay.\n[22:56 --> 22:58] I guess that means you can get Bart's on the side of him too.\n[22:58 --> 22:59] Uh-huh.\n[22:59 --> 23:00] What's that?\n[23:00 --> 23:01] Okay.\n[23:01 --> 23:02] That's 50.\n[23:02 --> 23:04] That's 50.\n[23:04 --> 23:05] Okay.\n[23:05 --> 23:07] Kind of pull from this pile of Bart's for now.\n[23:07 --> 23:08] Just know every pile is 10.\n[23:08 --> 23:09] This is 10.\n[23:09 --> 23:18] Yeah.\n[23:18 --> 23:20] Well, I have to organize the Bart so it's easier to count them.\n[23:20 --> 23:24] And it's important work.\n[23:24 --> 23:26] Halfway there, everyone.\n[23:26 --> 23:42] And it's another stack of 10.\n[23:42 --> 23:50] I'll make a Bart stack, you'll.\n[23:50 --> 24:03] Two, five, six, seven, eight, five, ten.\n[24:03 --> 24:09] Pulling the Bart.\n[24:09 --> 24:11] You need a Bart base.\n[24:11 --> 24:12] Pick it out.\n[24:12 --> 24:13] Pulling it out.\n[24:13 --> 24:14] Pulling it out.\n[24:14 --> 24:15] Pulling it out.\n[24:15 --> 24:16] Pulling it out.\n[24:16 --> 24:19] Pulling it out.\n[24:19 --> 24:31] Pulling it out.\n[24:31 --> 24:32] Pulling it out.\n[24:33 --> 24:35] Taking away my creative freedom.\n[24:35 --> 24:36] You do pull it out and I stuck you off.\n[24:36 --> 24:38] So there's a let us know.\n[24:38 --> 24:39] Do you know?\n[24:39 --> 24:40] Pull it?\n[24:40 --> 24:41] Yeah.\n[24:41 --> 24:42] Pulling it out.\n[24:42 --> 24:43] It makes up the stack.\n[24:43 --> 24:44] That's what I'm saying.\n[24:44 --> 24:46] You're taking away my creative freedom.\n[24:46 --> 24:49] Eight, nine.\n[24:49 --> 24:51] That.\n[24:51 --> 24:55] Guys, great news, we've got six extra Bart's.\n[24:55 --> 24:58] Even more than that, actually.\n[24:58 --> 25:01] You got like eight extra Bart's.\n[25:01 --> 25:02] Yeah.\n[25:02 --> 25:03] You can pull from whatever is stuck.\n[25:03 --> 25:04] You want it?\n[25:04 --> 25:09] make sure you pump them in the individual stack. I know whenever it stacks, empty, I'll just\n[25:09 --> 25:22] pump it by 10. I can tell that these things are like, you know, a little shaky and\n[25:22 --> 25:27] other on here so I like can't look around anymore. It's gonna crack these bars.\n[25:31 --> 25:38] Follow me really as we are at 50-plus bars of 100 bars.\n[25:46 --> 25:58] Is temporary tattoo poisoning a thing? I really hope...\n[25:58 --> 26:02] You know, I said something like that earlier. I literally said, you might get a collection type\n[26:02 --> 26:10] of poison in your tongue, then. Oh, shoot. This part's going to court.\n[26:10 --> 26:19] It's like the melancholy and even a cavity.\n[26:19 --> 26:38] This is like a new rash. The bars. The whole... My body is a road map of pain.\n[26:39 --> 26:57] Right, sets people on a bad path. Parts save my life. I'm also announcing on a born-again Christian.\n[26:58 --> 27:04] Taking the stream to do that. I'm a bar digger. I'm a bar digger. I'm a bar digger, I'm a bar digger.\n[27:09 --> 27:22] Oh, there's a few. Yeah. Come on. I do like stronger and I feel stronger. Spider bar.\n[27:23 --> 27:31] Oh, my hairs are showing. Spider bar? They sure really cast bar just Spider bar.\n[27:33 --> 27:47] He's got the active jobs. I'm not sure. I'm going to sit back. There's some little hole these\n[27:47 --> 27:55] are. What if it always happens? How would my life be different? Who would I be?\n[27:56 --> 28:08] Well, I do better. Now, these jungle beats plus bar are taking me places.\n[28:08 --> 28:13] Guys, we're about to be at 60 bars. We're three away from 60 bars.\n[28:15 --> 28:16] Look at that. Looking at each other.\n[28:18 --> 28:22] Oh, the bars are hanging out. You want to see my barge dance?\n[28:27 --> 28:41] What is getting scary? It's just the top lip bar. Two bar stuff, make it right.\n[28:41 --> 28:53] But 100 bars. Make a life. A life well lip. Kendall's going to get 50 bars on this\n[28:53 --> 29:03] alarm. No problem. She's a pronoun. She's master the art of bar. We'll barbe reporting the news.\n[29:03 --> 29:14] I mean, I might so have you barred so I'm going to run that. It's hard to set. How long\n[29:14 --> 29:31] these bars will last? Okay, that's 58 bars. I want to choose to provide them.\n[29:31 --> 29:45] Oh, no. You can do it. I just just saying don't. As long as you don't take as long as you don't mix up the\n[29:45 --> 29:49] piles, you can do that for that. But that's what I'm saying. You're taking away my creative freedom.\n[29:49 --> 29:51] You don't have to say pull it out of whatever pile you want. I'll know that it\n[29:51 --> 29:55] we're 10 further and whenever a pile doesn't fail to disappear at the end. That's fine.\n[29:57 --> 30:00] I'm just saying I laid out. Well, I say like I take one from here, then one from here is the\n[30:00 --> 30:02] walking there, one from there. That's fine. That's fine. I'm just saying.\n[30:03 --> 30:06] No, I don't know. I did just away from you to no one around 100.\n[30:09 --> 30:13] Then what can I just use? You're going to use them? Just use them. I'll no one around 100.\n[30:13 --> 30:19] For sure. Either way. I laid out 50 bars for that purpose. We might even be over 100\n[30:20 --> 30:31] but don't tell them. It's hot out here. Really? I feel cool as hell.\n[30:31 --> 30:33] No, look at this. Wait, look at this.\n[30:34 --> 30:39] I don't sweat anymore. I don't sweat anymore. I don't know what to do with that.\n[30:39 --> 30:51] I age out of that. 7,000 bars? That's nice. I'll leave that to admit the next generation.\n[30:52 --> 30:56] Okay, I'm just going to look at all the bars now. It's why I laid the picket of shoes in the way.\n[30:57 --> 31:11] This is Bart 60 by the way. Bart 60 in coming. Oh, yeah, it's Bart.\n[31:12 --> 31:37] Bart 60. Bart 4, 4, 4. Nine more. Yeah, nine more is this week's final. The chest\n[31:37 --> 31:38] heroin is struggling. I can't really-"
+}

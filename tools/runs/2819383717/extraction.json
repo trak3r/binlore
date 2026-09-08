@@ -1,0 +1,319 @@
+{
+  "episode_summary": "Barely Informed News covered the 'deaths' of Lindsey Graham and Sam Neill, alongside unverified reports of Mitch McConnell's continued existence, before pivoting to Trump's formal notification of renewed hostilities with Iran. The broadcast then descended into a disastrous AI Rooney segment that generated multiple slurs, leading Blackwell to permanently retire the feature pending a fix, followed by a Cryptozeus dispatch of the cursor-hiding game 'Cursed' and a chaotic pre-debate clash on the future of AI Rooney.",
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "15:01",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Pepito Intro, Merch & Sega Genesis Chat",
+      "notes": "Pepito opens the broadcast. Blackwell discusses upcoming merch (t-shirt in design), laments failing to clip previous episodes, and gets sidetracked into a long tangent about a viewer's discarded Sega Genesis, Chakan the Forever Man, Vectorman, and 'dirty pear' anime aesthetics.",
+      "characters": [
+        "Pepito",
+        "Case Blackwell"
+      ]
+    },
+    {
+      "start": "15:01",
+      "end": "38:40",
+      "canonical_segment": "News",
+      "title": "Lindsey Graham, Sam Neill, Mitch McConnell & Iran Blockade",
+      "notes": "News desk with Case and Jeff Ripple. Covers the reported death of Lindsey Graham (with a backdrop gag involving Ripple's 'wife Israel'), R.I.P. for Sam Neill, Mitch McConnell's 'proof of life' photo and political speculation, Trump's notification of a new blockade/strikes against Iran, and a rapid-fire chat news block featuring Goldie the goat, the World Santa Claus Congress, Ontario police grenade warnings, and the disturbing Swift/Kelce wedding trash sculpture art.",
+      "characters": [
+        "Case Blackwell",
+        "Jeff Ripple",
+        "Pepito"
+      ]
+    },
+    {
+      "start": "38:40",
+      "end": "44:36",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Sock-Filled-with-Ass Rap",
+      "notes": "Hype Train crashes the news for a hype train surge, attempting to rap about a sock filled with 'ass' rather than his usual 'piss' topic. Blackwell repeatedly tries to silence him to get back to Iran war coverage. The segment concludes with Hype Train lamenting the loss of his segment time.",
+      "characters": [
+        "Case Blackwell",
+        "Hype Train"
+      ]
+    },
+    {
+      "start": "44:36",
+      "end": "01:06:56",
+      "canonical_segment": "News",
+      "title": "AI Rooney Disaster & Retirement",
+      "notes": "Blackwell introduces AI Rooney ('Rooney 1.0 Knot Prime'), running on a local uncensored 'Quen' model. After several technical glitches, the AI generates multiple outputs containing explicit sexual content and slurs (including outing 'Stephanie' and using a homophobic slur regarding Andy Rooney). Blackwell officially pulls the segment indefinitely to implement a slur-check script.",
+      "characters": [
+        "Case Blackwell",
+        "Pepito",
+        "AI Rooney"
+      ]
+    },
+    {
+      "start": "01:06:56",
+      "end": "01:39:14",
+      "canonical_segment": "Cryptozeus",
+      "title": "Cryptozeus Plays Cursed",
+      "notes": "Brandon (Cryptozeus) takes over from his bedroom to play Kevin Pereira's cursor-hiding game 'Cursed'. He struggles to understand the mechanics, draws Ronald McDonald and Ninja Turtle cursors, and argues with his mother (shouting through the door) about baguettes, a woman named 'Stephanie', and Gooters chocolate bacon shakes. Brandon quits the segment to attend to his mom.",
+      "characters": [
+        "Brandon (Cryptozeus)",
+        "Case Blackwell"
+      ]
+    },
+    {
+      "start": "01:39:14",
+      "end": "01:58:44",
+      "canonical_segment": "Munch & Crum",
+      "title": "Should AI Rooney Be Retired? Debate",
+      "notes": "A heated, unstructured debate (lacking standard Munch & Crum graphics) between Case, Skyver, and Crum over the fate of the AI Rooney segment. Arguments range from free speech vs. platform safety to a bizarre tangent about Crum's real name origin (born on a 12-inch Crumbl party sub). The episode ends with final apologies from Blackwell regarding the AI Rooney technical failures and a stream raid to Tasty.",
+      "characters": [
+        "Case Blackwell",
+        "Crum",
+        "Pepito"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [
+        "00:08",
+        "00:14",
+        "27:31"
+      ],
+      "confidence": 0.98,
+      "notes": "Executive Producer providing cold open countdown and failing to locate Mitch McConnell in the 'weird sandpit'."
+    },
+    {
+      "name": "Case Blackwell",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [
+        "00:14",
+        "08:51",
+        "15:30",
+        "38:40",
+        "44:36",
+        "01:06:56",
+        "01:39:14"
+      ],
+      "confidence": 0.99,
+      "notes": "Lead anchor and managing editor presiding over the desk."
+    },
+    {
+      "name": "Jeff Ripple",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [
+        "15:32",
+        "18:24",
+        "27:16",
+        "44:36"
+      ],
+      "confidence": 0.99,
+      "notes": "Studio newsreader providing breaking bulletins and banter. Confirms he is 'number one Ben Hooper fan'."
+    },
+    {
+      "name": "Hype Train",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [
+        "38:40",
+        "42:08",
+        "44:06"
+      ],
+      "confidence": 0.98,
+      "notes": "Sentient locomotive correspondent rapping about a sock filled with 'ass' during a hype train surge."
+    },
+    {
+      "name": "AI Rooney",
+      "canonical_name": "AI Rooney",
+      "speaking": true,
+      "timestamps": [
+        "45:05",
+        "47:55",
+        "49:39",
+        "50:52",
+        "53:57",
+        "56:08",
+        "56:14",
+        "59:54",
+        "01:00:39",
+        "01:05:24"
+      ],
+      "confidence": 0.99,
+      "notes": "On-air AI persona ('Rooney 1.0 Knot Prime') running on a local 'Quen' model. Generated multiple slurs and sexual content, leading to his retirement."
+    },
+    {
+      "name": "Brandon (Cryptozeus)",
+      "canonical_name": "Brandon (Cryptozeus)",
+      "speaking": true,
+      "timestamps": [
+        "01:07:01",
+        "01:09:35",
+        "01:12:27",
+        "01:15:42",
+        "01:19:08",
+        "01:22:18",
+        "01:23:16",
+        "01:26:18",
+        "01:27:44",
+        "01:29:24",
+        "01:30:56",
+        "01:31:38",
+        "01:34:55",
+        "01:36:19",
+        "01:38:11"
+      ],
+      "confidence": 0.99,
+      "notes": "Gaming correspondent playing 'Cursed'. Discloses his mother is 'French', lives in a tight-knit community, and mentions 'Stephanie' showing up at the door."
+    },
+    {
+      "name": "Crum",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [
+        "01:39:54",
+        "01:42:13",
+        "01:43:01",
+        "01:44:49",
+        "01:46:37",
+        "01:49:35"
+      ],
+      "confidence": 0.98,
+      "notes": "Senior debate analyst arguing for the reinstatement of AI Rooney. Shares a bizarre, fabricated(?) origin story of his name involving a Crumbl cookie shop birth on a 12-inch party sub."
+    },
+    {
+      "name": "Lindsey Graham",
+      "canonical_name": "Lindsey Graham",
+      "speaking": false,
+      "timestamps": [
+        "16:31",
+        "16:50",
+        "18:48",
+        "20:17"
+      ],
+      "confidence": 0.99,
+      "notes": "Subject of major news segment reporting his death. Mocked for his political legacy and his pet name for Israel."
+    },
+    {
+      "name": "Sam Neill",
+      "canonical_name": "Sam Neill",
+      "speaking": false,
+      "timestamps": [
+        "22:01",
+        "22:31"
+      ],
+      "confidence": 0.98,
+      "notes": "Subject of R.I.P. tribute. Acknowledged as a 'silver fox' and Jurassic Park star."
+    },
+    {
+      "name": "Mitch McConnell",
+      "canonical_name": "Mitch McConnell",
+      "speaking": false,
+      "timestamps": [
+        "23:51",
+        "26:17",
+        "27:16",
+        "27:25"
+      ],
+      "confidence": 0.99,
+      "notes": "Subject of news segment. Discussed his recent fall, hospitalization, and the release of a 'proof of life' photo amid health concerns."
+    },
+    {
+      "name": "Donald Trump",
+      "canonical_name": "Donald Trump",
+      "speaking": false,
+      "timestamps": [
+        "29:23",
+        "37:56"
+      ],
+      "confidence": 0.99,
+      "notes": "Discussed in relation to reinstating a blockade of Iranian shipping and formally notifying Congress of a new war."
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "AI Rooney Retirement",
+      "beat": "Following catastrophic generation of slurs and explicit sexual content during the 2026-07-13 broadcast, Blackwell officially places AI Rooney ('Rooney 1.0 Knot Prime') on indefinite hiatus to implement a localized word-check script, acknowledging full responsibility for the technical failure.",
+      "timestamp": "01:03:33"
+    },
+    {
+      "storyline": "The 'Stephanie' Leak",
+      "beat": "AI Rooney inadvertently generated text implying Blackwell was having his hair cut by 'Stephanie' while moaning in his sleep. This was later corroborated during the Cryptozeus segment when Brandon's mother reported a woman named Stephanie arriving at the house for a 'six o'clock appointment', leading to widespread on-air speculation.",
+      "timestamp": "59:02"
+    },
+    {
+      "storyline": "Iran Hostilities Escalation",
+      "beat": "Trump formally notified Congress of a new war and reinstated a blockade in the Strait of Hormuz, marking a major escalation after weeks of fluctuating on/off bombing reports.",
+      "timestamp": "37:56"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Maintains a 'weird sandpit' within the studio grounds that was searched (unsuccessfully) for Mitch McConnell.",
+      "timestamp": "27:26",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Jeff Ripple",
+      "fact": "Proclaims himself the 'number one Ben Hooper fan'.",
+      "timestamp": "16:13",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Has expanded his rap vocabulary beyond 'piss' to include 'ass' (claiming a sock filled with 'pieces of ass').",
+      "timestamp": "39:59",
+      "confidence": 0.99
+    },
+    {
+      "entity": "AI Rooney",
+      "fact": "Runs on a local, uncensored (and possibly jailbroken) Chinese AI model called 'Quen' (from 'Daria'), pulling from a database of roughly 80 highly psychotic complaints.",
+      "timestamp": "01:56:52",
+      "confidence": 0.95
+    },
+    {
+      "entity": "AI Rooney",
+      "fact": "Blackwell asserts he is being sued by the Andy Rooney estate and is legally required to claim AI Rooney is a 'separate being'.",
+      "timestamp": "55:46",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Brandon (Cryptozeus)",
+      "fact": "Does not believe in haircuts, using a primitive caveman method of compressing his hair down instead.",
+      "timestamp": "01:08:21",
+      "confidence": 0.98
+    },
+    {
+      "entity": "Brandon (Cryptozeus)",
+      "fact": "His mother is French and holds prejudices against the French for making 'too sexy' movies, replacing racism with xenophobic wordplay (baguettes).",
+      "timestamp": "01:24:50",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Brandon (Cryptozeus)",
+      "fact": "Has a history of taking 'be a less awful guy classes'.",
+      "timestamp": "01:31:43",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Crum",
+      "fact": "Claimed his full name 'Crum' is an old family joke stemming from his mother going into labor at a Crumbl cookie shop and being delivered onto the bread of a 12-inch party sub.",
+      "timestamp": "01:49:50",
+      "confidence": 0.85
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Was romantically linked (via AI Rooney hallucination and Brandon's mother) to a woman named 'Stephanie' who apparently gives him bad haircuts and hears him moaning in his sleep.",
+      "timestamp": "59:02",
+      "confidence": 0.95
+    }
+  ],
+  "_meta": {
+    "vod_id": "2819383717",
+    "model": "minimax/minimax-m3:free",
+    "transcript_lines": 900
+  }
+}

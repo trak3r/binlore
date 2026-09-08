@@ -1,0 +1,14 @@
+{
+  "vod_id": "2863722826",
+  "title": "High T Wednesday News",
+  "url": "https://www.twitch.tv/videos/2863722826",
+  "duration_seconds": 7811,
+  "duration": "2:10:11",
+  "timestamp": 1788392519,
+  "aired_at": "2026-09-02T23:41:59+00:00",
+  "date": "2026-09-02",
+  "ingested_at": "2026-09-04T22:35:42.683964+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small"
+}

@@ -1,0 +1,14 @@
+{
+  "vod_id": "2857407927",
+  "title": "Expertly Negotiated News",
+  "url": "https://www.twitch.tv/videos/2857407927",
+  "duration_seconds": 7501,
+  "duration": "2:05:01",
+  "timestamp": 1787788731,
+  "aired_at": "2026-08-26T23:58:51+00:00",
+  "date": "2026-08-26",
+  "ingested_at": "2026-09-06T12:28:01.751768+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small"
+}

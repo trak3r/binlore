@@ -1,0 +1,14 @@
+{
+  "vod_id": "2862064673",
+  "title": "The Quickest Latest News",
+  "url": "https://www.twitch.tv/videos/2862064673",
+  "duration_seconds": 5590,
+  "duration": "1:33:10",
+  "timestamp": 1788224733,
+  "aired_at": "2026-09-01T01:05:33+00:00",
+  "date": "2026-09-01",
+  "ingested_at": "2026-09-06T11:47:05.663885+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small"
+}

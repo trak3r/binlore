@@ -1,0 +1,19 @@
+{
+  "vod_id": "2850985649",
+  "title": "Upsetting Wednesday News",
+  "url": "https://www.twitch.tv/videos/2850985649",
+  "duration_seconds": 9545,
+  "duration": "2:39:05",
+  "timestamp": 1787097600,
+  "aired_at": "2026-08-19T00:00:00+00:00",
+  "date": "2026-08-19",
+  "ingested_at": "2026-09-06T15:17:48.072338+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "rJLMqITgv4U",
+  "yt_url": "https://www.youtube.com/watch?v=rJLMqITgv4U",
+  "twitch_id": "2850985649",
+  "twitch_url": "https://www.twitch.tv/videos/2850985649",
+  "catalog_date": "2026-08-19"
+}

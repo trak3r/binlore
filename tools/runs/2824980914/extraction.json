@@ -1,0 +1,379 @@
+{
+  "episode_summary": "Lead anchor Case Blackwell and executive producer Pepito opened the broadcast live from Los Angeles, joined by the spectral former president of the United States Abraham Lincoln, who bantered with chat, battled Hype Train in a freestyle rap, and weighed in on Eric Trump's killer robot company and the death of the U.S. penny. The news desk then pivoted to a chaotic town hall with an unruly Hate Sock and Jam puppet, a botched Mitch McConnell 'proof of life' conspiracy investigation, and a deep-dive hand dryer explainer before throwing to Cryptozeus for a painful, hours-long Super Mario Bros. 3 stream plagued by his mother's muffled commentary and ultimately ending without a victory.",
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "08:42",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Pepito's Cold Open & Station Ident",
+      "notes": "Pepito opens the broadcast with his signature 'I'm Pepito, I'm the dog that produces the show' greeting. Pre-show banter with viewer chat including John Madison and the Lupin the 3rd impression.",
+      "characters": [
+        "Pepito",
+        "Case Blackwell"
+      ]
+    },
+    {
+      "start": "08:42",
+      "end": "13:25",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Hat Hair & Name Generator Bit",
+      "notes": "Case laments his own bad hair day, discusses upcoming podcast 'Bored Class Wars' with Kendall, and Pepito runs a chaotic random name generator, inventing increasingly unhinged monikers like 'Cumb Man Slop' and 'Clap Backswell'.",
+      "characters": [
+        "Case Blackwell",
+        "Pepito",
+        "Kendall"
+      ]
+    },
+    {
+      "start": "13:25",
+      "end": "28:31",
+      "canonical_segment": "News",
+      "title": "Lincoln Returns From The Dead & Chat News",
+      "notes": "Case accidentally summons former president Abraham Lincoln from the afterlife 'swirling vortex singularity'. Lincoln discusses being president of the dead, missing Mitch McConnell, his poker games with Joe Biden and the Grim Reaper, and reading chat news. Mentions Eric Trump's involvement in killer robot company, 'kicking back' in the afterlife, and the death of the U.S. penny.",
+      "characters": [
+        "Case Blackwell",
+        "Abraham Lincoln",
+        "Hype Train",
+        "Jeff Ripple"
+      ]
+    },
+    {
+      "start": "28:31",
+      "end": "32:23",
+      "canonical_segment": "Hype Train",
+      "title": "Lincoln vs Hype Train Battle Rap",
+      "notes": "Triggered by chat demand, Abraham Lincoln challenges Hype Train to a freestyle rap battle over a presidential trap beat. Hype Train raps about meteor dirt and bodily fluids, while Lincoln awkwardly responds with hot dog bars. Chat votes Lincoln as the winner, forcing Hype Train to thank the subs.",
+      "characters": [
+        "Hype Train",
+        "Abraham Lincoln",
+        "Case Blackwell"
+      ]
+    },
+    {
+      "start": "32:23",
+      "end": "36:20",
+      "canonical_segment": "Hype Train",
+      "title": "Lincoln Reads Subs & Cream Soda Bit",
+      "notes": "Following the battle rap loss, Hype Train is forced to read subs while Lincoln interrupts. Features a running gag about 'Cream Soda' and Obama being a Hype Train constituent. Discusses the modern GOP, Eric Trump's killer robots, and the cancellation of the U.S. penny.",
+      "characters": [
+        "Hype Train",
+        "Abraham Lincoln",
+        "Case Blackwell"
+      ]
+    },
+    {
+      "start": "36:20",
+      "end": "49:57",
+      "canonical_segment": "News",
+      "title": "Killer Robots, Farters & Homoerotic GOP",
+      "notes": "News desk covers stories including Eric Trump's involvement in combat robot development, a study categorizing people into three types of farters, the viral 'Gemethy' raccoon, and a congresswoman's comments on the homoeroticism of the modern GOP's masculinity obsession.",
+      "characters": [
+        "Case Blackwell",
+        "Abraham Lincoln"
+      ]
+    },
+    {
+      "start": "49:57",
+      "end": "01:01:04",
+      "canonical_segment": "News",
+      "title": "Bryson Deschambault Golf Penalty & Robbie Williams Nose Coke",
+      "notes": "News desk covers golfer Bryson Deschambault threatening to call Trump over a two-shot penalty at The Open, followed by a viral video of Robbie Williams apparently having cocaine fall from his nose during a live German TV interview, much to the confusion of the dead president. Features viewer commentary and a side discussion about Kendall's freelance video contract.",
+      "characters": [
+        "Case Blackwell",
+        "Abraham Lincoln",
+        "Kendall"
+      ]
+    },
+    {
+      "start": "01:01:04",
+      "end": "01:11:42",
+      "canonical_segment": "News",
+      "title": "Freelance Contract Law & Penny Cancellation",
+      "notes": "Case gives Kendall legal advice on her freelance video contract that prevents portfolio use, arguing she should ask for clarity. Lincoln chimes in with bizarre commentary on the abolition of slavery, John Wilkes Booth, and the discontinuation of the U.S. penny. Discussion of a planned 2v2 Beyblade Burst tournament.",
+      "characters": [
+        "Case Blackwell",
+        "Abraham Lincoln",
+        "Kendall"
+      ]
+    },
+    {
+      "start": "01:11:42",
+      "end": "01:25:33",
+      "canonical_segment": "News",
+      "title": "The Hate Sock & Jam Town Hall",
+      "notes": "Case hosts a chaotic town hall with the unruly 'Hate Sock' and 'Jam' puppets. The puppets constantly interject with 'You wish' and 'Dumbass'. Covers a skate park request, Gooters drive-through, Hatesawk merch, Liliana's whereabouts, and the disappearance of the Hate Sock's brother. Ends abruptly due to 'accidentally racist' puppet commentary.",
+      "characters": [
+        "Case Blackwell",
+        "Jam",
+        "Hate Sock",
+        "Abraham Lincoln"
+      ]
+    },
+    {
+      "start": "01:25:33",
+      "end": "01:36:39",
+      "canonical_segment": "News",
+      "title": "Mitch McConnell Conspiracy & Hand Dryers",
+      "notes": "Case tries to investigate Mitch McConnell's 'proof of life' photo but gets distracted by disrespectful viewer videos. He pivots to a 'How do hand dryers work' backup conspiracy, watching a Maddie's Do You Know explainer while theorizing that water is afraid of heat. Also attempts to fix the segment intro music in his Streamer.bot setup.",
+      "characters": [
+        "Case Blackwell"
+      ]
+    },
+    {
+      "start": "01:36:39",
+      "end": "03:04:22",
+      "canonical_segment": "Cryptozeus",
+      "title": "Cryptozeus Plays Super Mario Bros. 3",
+      "notes": "Remote dispatch to Brandon (Cryptozeus) attempting to beat Super Mario Bros. 3 live. The segment is heavily disrupted by his mother yelling through the bedroom door, berating him as 'Bran Bran'. Features Gooters and Entery Soda sponsor reads, Brick's serenade, and a near four-hour struggle to complete the game before Brandon eventually saves state and gives up without finishing.",
+      "characters": [
+        "Brandon (Cryptozeus)",
+        "Case Blackwell",
+        "Rick",
+        "Brick",
+        "Pepito"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [
+        "00:08",
+        "08:42",
+        "13:25",
+        "36:20",
+        "49:57",
+        "01:11:42",
+        "01:36:39"
+      ],
+      "confidence": 0.99,
+      "notes": "Lead news anchor and managing editor. Hosts the entire broadcast, fields legal advice for Kendall, and conducts the chaotic town hall."
+    },
+    {
+      "name": "Pepito",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [
+        "00:08",
+        "08:42",
+        "01:36:39"
+      ],
+      "confidence": 0.99,
+      "notes": "Executive producer. Opens the broadcast, generates random names, and is heard with a distorted/deep voice eating the floor at the end of the stream."
+    },
+    {
+      "name": "Abraham Lincoln",
+      "canonical_name": "Abraham Lincoln",
+      "speaking": true,
+      "timestamps": [
+        "13:25",
+        "28:31",
+        "36:20",
+        "49:57",
+        "01:11:42"
+      ],
+      "confidence": 0.98,
+      "notes": "Eccentric spectral guest claiming to be the 'President of the Dead'. Summoned from the 'swirling vortex singularity'. Battles raps with Hype Train and discusses his assassination by Booth."
+    },
+    {
+      "name": "Hype Train",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [
+        "26:21",
+        "28:31",
+        "32:23"
+      ],
+      "confidence": 0.98,
+      "notes": "High-velocity cultural correspondent. Battle raps against Lincoln over bodily fluids and is forced to read subs after losing the rap battle."
+    },
+    {
+      "name": "Kendall",
+      "canonical_name": "Kendall",
+      "speaking": true,
+      "timestamps": [
+        "51:08",
+        "01:01:04"
+      ],
+      "confidence": 0.95,
+      "notes": "In-studio contributor and freelance video editor. Asks Case for legal advice on a restrictive freelance contract preventing portfolio use."
+    },
+    {
+      "name": "Jam",
+      "canonical_name": "Jam",
+      "speaking": true,
+      "timestamps": [
+        "01:12:14",
+        "01:25:33"
+      ],
+      "confidence": 0.9,
+      "notes": "Puppet guest at the town hall who repeatedly interjects with 'You wish' and 'Dumbass'. Discussed as an intern alongside the Hate Sock."
+    },
+    {
+      "name": "Hate Sock",
+      "canonical_name": "Hate Sock",
+      "speaking": true,
+      "timestamps": [
+        "01:14:02",
+        "01:25:33"
+      ],
+      "confidence": 0.92,
+      "notes": "Puppet guest at the town hall who insults everyone and discusses his missing brother. 'Hatesawk' merch is proposed."
+    },
+    {
+      "name": "Brandon (Cryptozeus)",
+      "canonical_name": "Brandon (Cryptozeus)",
+      "speaking": true,
+      "timestamps": [
+        "01:36:39",
+        "01:42:07"
+      ],
+      "confidence": 0.99,
+      "notes": "Resident gaming correspondent. Broadcasts from his bedroom attempting to beat Super Mario Bros. 3 while his mother yells through the door."
+    },
+    {
+      "name": "Rick",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [
+        "01:37:42",
+        "01:42:21"
+      ],
+      "confidence": 0.95,
+      "notes": "Field correspondent. Patches in during Brandon's gameplay to provide tactical commentary and strategic advice."
+    },
+    {
+      "name": "Brick",
+      "canonical_name": "Brick",
+      "speaking": true,
+      "timestamps": [
+        "01:42:07",
+        "01:52:07"
+      ],
+      "confidence": 0.95,
+      "notes": "Field correspondent. Serenades Brandon during the Mario stream, discusses infiltrating crows, and criticizes Brandon's gameplay. Claims to have shot Booth at Lincoln."
+    },
+    {
+      "name": "Jeff Ripple",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [
+        "23:00"
+      ],
+      "confidence": 0.85,
+      "notes": "Studio newsreader. Reads off chat comments regarding Munch and Crum shirts during the Lincoln segment."
+    },
+    {
+      "name": "Abraham Lincoln",
+      "canonical_name": "Abraham Lincoln",
+      "speaking": true,
+      "timestamps": [
+        "13:50",
+        "15:42"
+      ],
+      "confidence": 0.95,
+      "notes": "Discusses his top hat functioning as dimensional phasing storage for sandwiches and guns."
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "The Presidential Specter",
+      "beat": "Abraham Lincoln manifests as a recurring studio guest, positioning himself as 'President of the Dead' ruling over the 'swirling vortex singularity'. He interacts with chat, battles raps Hype Train, and provides commentary on modern politics (Eric Trump killer robots, penny cancellation) from the afterlife.",
+      "timestamp": "13:25"
+    },
+    {
+      "storyline": "The Battle Rap Loser Penalty",
+      "beat": "A new bit is introduced where the loser of a freestyle battle rap must do whatever the winner says. Hype Train loses to Lincoln and is forced to thank the subs and awkwardly read chat messages (including the 'Cream Soda' gag).",
+      "timestamp": "28:31"
+    },
+    {
+      "storyline": "Freelance Contract Clause",
+      "beat": "Kendall asks Case for legal advice on a restrictive video editing contract that prevents her from using the work in her portfolio or on social media. Case advises her to ask for 'clarity' and then an adjustment. Discussion happens live on stream while client identity is guessed (potentially WWE or RC Cola).",
+      "timestamp": "52:09"
+    },
+    {
+      "storyline": "The Hate Sock & Jam Town Hall",
+      "beat": "A chaotic, barely-contained town hall featuring two puppet guests (Hate Sock and Jam) who constantly insult everyone ('You wish', 'Dumbass'). The segment is cut short when the puppets become 'accidentally racist', ruining Case's broadcast flow.",
+      "timestamp": "01:12:14"
+    },
+    {
+      "storyline": "Crum Beyblade Tournament Setup",
+      "beat": "Lincoln brings up a community debt for a Beyblade tournament. Case agrees to host it and mentions ordering Bart Simpson tattoos ('Barts') that will arrive in two weeks, planning a 2v2 Beyblade Burst event so Crum can gamble again.",
+      "timestamp": "01:05:51"
+    },
+    {
+      "storyline": "Cryptozeus Mario 3 Endurance Run",
+      "beat": "Brandon attempts to beat Super Mario Bros. 3 live, suffering through hours of deaths and heavy disruptions from his mother yelling through the door, before eventually saving state and giving up without a victory.",
+      "timestamp": "01:36:39"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Pepito's on-screen title during the cold open includes the designation 'Peptron 3000' alongside his dog executive producer persona.",
+      "timestamp": "00:08",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Abraham Lincoln",
+      "fact": "Abraham Lincoln claims to be the 'President of the Dead', residing in a 'swirling vortex singularity' where all consciousness is crushed into one. He confirms Joe Biden and the Grim Reaper play poker there, which is why Biden's life keeps getting extended.",
+      "timestamp": "16:45",
+      "confidence": 0.98
+    },
+    {
+      "entity": "Abraham Lincoln",
+      "fact": "Lincoln claims his top hat functions as 'dimensional phasing' storage for sandwiches, guns, and cocaine for his hunting dogs.",
+      "timestamp": "01:10:32",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Battle Rap Loser Penalty",
+      "fact": "According to Hype Train, there is a strict 'master tool' rule on the network: when you lose a battle rap, you must stay cool and do whatever the winner commands.",
+      "timestamp": "32:18",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Hype Train notes that Barack Obama is a 'huge fan' of his, though he claims Obama is now back to being one of Lincoln's 'constituents' in the vortex.",
+      "timestamp": "33:30",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Cryptozeus Mother",
+      "fact": "Brandon's mother constantly disrupts the bedroom broadcast by yelling 'Bran Bran' and making threats about selling him to a zoo and withholding his heart medication.",
+      "timestamp": "01:40:18",
+      "confidence": 0.98
+    },
+    {
+      "entity": "Gooters",
+      "fact": "Gooters is a chicken wing franchise (a 'male version of Hooters') known for its 'sloppy' and 'wet' wings. It is a frequent broadcast sponsor, with a subscription-based delivery model and a 'Gooters on Ice' ticketed event mentioned.",
+      "timestamp": "01:00:22",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Entery Soda",
+      "fact": "Entery Soda is an 'Ugandan energy soda' that legally cannot use the letter G in its name, making it 'Entery' instead of 'Energy'.",
+      "timestamp": "01:49:02",
+      "confidence": 0.9
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Case reveals his magician name is 'Shaz Black' and Kendall's is 'Candy Lane', referencing their collaborative magic act.",
+      "timestamp": "09:00",
+      "confidence": 0.85
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Brick claims he is the one who shot Abraham Lincoln, stating he was hiding in an 'old-timey crate' and shoved Booth at Abe.",
+      "timestamp": "01:42:07",
+      "confidence": 0.85
+    }
+  ],
+  "_meta": {
+    "vod_id": "2824980914",
+    "model": "minimax/minimax-m3:free",
+    "transcript_lines": 3120
+  }
+}

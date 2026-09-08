@@ -1,0 +1,14 @@
+{
+  "vod_id": "2865460780",
+  "title": "Artificially General News",
+  "url": "https://www.twitch.tv/videos/2865460780",
+  "duration_seconds": 6693,
+  "duration": "1:51:33",
+  "timestamp": 1788565123,
+  "aired_at": "2026-09-04T23:38:43+00:00",
+  "date": "2026-09-04",
+  "ingested_at": "2026-09-05T14:21:44.083374+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small"
+}
