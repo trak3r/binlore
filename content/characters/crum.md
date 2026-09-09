@@ -112,7 +112,7 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 - **[01:01:47]** ([[episodes/2026-08-04|2026-08-04]]): Crum continues to suffer from 'swollen wrists' that puff up 'like several bracelets' made of his own skin, which he treats without medical intervention. [01:01:47]
 - **[02:07:52]** ([[episodes/2026-07-17|2026-07-17]]): Crum is married to a woman named Belolia. During the Stephanie merch-drop rap he recorded a pre-emptive on-air disclaimer insisting he does not know any woman named Stephanie and is not cheating on his wife.
 - **[13:22]** ([[episodes/2026-07-17|2026-07-17]]): Crum claims to have spent three years in cryotherapy in his 20s, says it keeps his skin 'nice and plump but hard,' and skipped COVID entirely.
-- **[01:11:10]** ([[episodes/2026-07-16|2026-07-16]]): Referred to as 'Grandman' in a station-wide joke, with Case crediting 'the honestly miracle accounting of grand man' as the reason BIN stays afloat.
+- **[01:11:10]** ([[episodes/2026-07-16|2026-07-16]]): Referred to as 'Granman' in a station-wide joke, with Case crediting 'the honestly miracle accounting of grand man' as the reason BIN stays afloat.
 - **[13:29]** ([[episodes/2026-07-16|2026-07-16]]): The robotic gorilla execution is formally scheduled for mid-August 2026.
 - **[01:03:01]** ([[episodes/2026-07-16|2026-07-16]]): When a debate moderator is unavailable, Munch retains authority to launch the !MC command himself, manually creating his own side of the debate topic.
 - **[01:49:50]** ([[episodes/2026-07-13|2026-07-13]]): Claimed his full name 'Crum' is an old family joke stemming from his mother going into labor at a Crumbl cookie shop and being delivered onto the bread of a 12-inch party sub.

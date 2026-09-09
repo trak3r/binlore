@@ -131,7 +131,22 @@ def _match_character_file(name: str, canon: dict[str, list[CanonEntity]]) -> tup
             if alias.lower() == name_clean.lower() or slug == _slugify(alias):
                 return char.file_path, (char.file_path.stem if char.file_path else slug)
 
-    # Heuristic shortcuts for canonical aliases
+    # Heuristic shortcuts for canonical aliases / role titles
+    role_to_slug = {
+        "lead-anchor-and-managing-editor": "case-blackwell",
+        "lead-anchor": "case-blackwell",
+        "managing-editor": "case-blackwell",
+        "executive-producer": "pepito",
+        "musical-and-cultural-correspondent": "hype-train",
+        "cultural-and-musical-correspondent": "hype-train",
+        "host-of-how-to-with-jeb": "jeb",
+        "gaming-and-digital-culture-correspondent": "cryptozeus",
+        "gaming-and-culture-correspondent": "cryptozeus",
+    }
+    if slug in role_to_slug:
+        canon_slug = role_to_slug[slug]
+        return CONTENT_CHARACTERS / f"{canon_slug}.md", canon_slug
+
     if "crum" in slug or "crumb" in slug:
         return CONTENT_CHARACTERS / "crum.md", "crum"
     if "munch" in slug or "munchcut" in slug or "ralph" in slug:
@@ -142,7 +157,7 @@ def _match_character_file(name: str, canon: dict[str, list[CanonEntity]]) -> tup
         return CONTENT_CHARACTERS / "chet.md", "chet"
     if "hype" in slug or "hyper" in slug:
         return CONTENT_CHARACTERS / "hype-train.md", "hype-train"
-    if "cryptozeus" in slug or "cryptozeu" in slug:
+    if "cryptozeus" in slug or "cryptozeu" in slug or "brandon" in slug:
         return CONTENT_CHARACTERS / "cryptozeus.md", "cryptozeus"
     if "ripple" in slug or "hooper" in slug:
         return CONTENT_CHARACTERS / "jeff-ripple.md", "jeff-ripple"
@@ -158,6 +173,16 @@ def _match_character_file(name: str, canon: dict[str, list[CanonEntity]]) -> tup
         return CONTENT_CHARACTERS / "ai-rooney.md", "ai-rooney"
     if "chath" in slug or "cheth" in slug:
         return CONTENT_CHARACTERS / "dr-chath.md", "dr-chath"
+    if "granman" in slug or "grandman" in slug or "grand-man" in slug:
+        return CONTENT_CHARACTERS / "granman.md", "granman"
+    if "jazz" in slug and "shrimp" in slug:
+        return CONTENT_CHARACTERS / "jazz-shrimp.md", "jazz-shrimp"
+    if "pepito" in slug:
+        return CONTENT_CHARACTERS / "pepito.md", "pepito"
+    if "jeb" in slug and "dad" not in slug:
+        return CONTENT_CHARACTERS / "jeb.md", "jeb"
+    if "case" in slug or "blackwell" in slug:
+        return CONTENT_CHARACTERS / "case-blackwell.md", "case-blackwell"
 
     return None, slug
 
@@ -298,6 +323,34 @@ def create_character_page(
 
     # Exclude Ben Hooper: external real-world UPI reporter, not a character
     if "hooper" in lower_name or slug in ("ben-hooper", "hooper", "jeff-hooper"):
+        return None
+
+    # Exclude job-title / role stubs that map to existing characters
+    role_slugs = {
+        "lead-anchor-and-managing-editor",
+        "lead-anchor",
+        "managing-editor",
+        "executive-producer",
+        "musical-and-cultural-correspondent",
+        "cultural-and-musical-correspondent",
+        "host-of-how-to-with-jeb",
+        "gaming-and-digital-culture-correspondent",
+        "gaming-and-culture-correspondent",
+    }
+    if slug in role_slugs or any(
+        k in lower_name
+        for k in (
+            "lead anchor",
+            "managing editor",
+            "executive producer",
+            "musical & cultural",
+            "musical and cultural",
+            "host of 'how to",
+            "host of how to",
+            "gaming & digital",
+            "gaming and digital",
+        )
+    ):
         return None
 
     # Exclude chatters / Twitch viewers / Discord members

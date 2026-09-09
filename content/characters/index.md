@@ -51,14 +51,8 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/brandons-mother|Brandon's Mother]] | Unseen Family Voice | Brandon's loud-mouthed mother who screams through his bedroom door during gaming broadcasts |
 | [[characters/trip-bradstein|Trip Bradstein]] | Field Correspondent | Park-dwelling field correspondent broadcasting from the bushes and interviewing park visitors for their audience-submitted opinions |
 | [[characters/dr-chath|Dr. Chath]] | Minor-Character Therapist / Consultant | Eccentric counseling consultant presiding over the [[../segments/therapy\|Therapy]] desk, fielding viewer prompts and offering confusing wrestling and dance-based guidance |
-| [[characters/grand-man|Grand Man]] | recurring | Guest host for Amongst the Web |
-| [[characters/lead-anchor-and-managing-editor|Lead Anchor & Managing Editor]] | recurring | Primary anchor delivering news, political commentary, and segment transitions |
-| [[characters/executive-producer|Executive Producer]] | recurring | Opens broadcasts with his signature 'I'm Pepito, I'm the dog that produces the show' intro |
-| [[characters/musical-and-cultural-correspondent|Musical & Cultural Correspondent]] | recurring | High-energy correspondent triggered during hype surges |
-| [[characters/host-of-how-to-with-jeb|Host of 'How To with Jeb']] | recurring | Teaches practical skills like door-opening and disco dancing |
-| [[characters/gaming-and-digital-culture-correspondent|Gaming & Digital Culture Correspondent]] | recurring | Remote correspondent broadcasting from his bedroom, often interrupted by his mother |
-| [[characters/grandman|Grandman]] | recurring | Guest host for Amongst the Web, advocating for athletic socks |
-| [[characters/jazz-shrimp|Jazz Shrimp]] | recurring | New character debating food critics about shrimp identity |
-| [[characters/steak|Steak]] | recurring | Guest artist collaborating on the Thump Steaks song |
+| [[characters/granman|Granman]] | Minor Guest Host (*Amongst the Web*) | Blunt guest critic of viewer clips; athletic-sock crusader and occasional web-desk host |
+| [[characters/jazz-shrimp|Jazz Shrimp]] | Minor Culinary-Music Correspondent | Tempura-fried jazz shrimp who debates food critics over his claim to be the greatest jazz shrimp of all time |
+| [[characters/steak|Steak]] | Guest Artist | Collaborator on the Thump Steaks theme song with DJ C4 |
 
 See also: [[../storylines/crum-dick-punch|Crum Dick Punch]], [[../segments/munch-and-crum|Munch & Crum]].

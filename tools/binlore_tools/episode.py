@@ -148,6 +148,10 @@ def _format_character_link(name: str) -> str:
         return "[[characters/kendelle|Kendelle]]"
     if "jeb" in slug or "nogget" in slug or "noggin" in slug:
         return "[[characters/jeb|Jeb Nogget]]"
+    if "granman" in slug or "grandman" in slug or "grand-man" in slug:
+        return "[[characters/granman|Granman]]"
+    if "jazz" in slug and "shrimp" in slug:
+        return "[[characters/jazz-shrimp|Jazz Shrimp]]"
     if "sleazy" in slug:
         return "[[characters/live-in-sleazy|Live 'n Sleazy]]"
     return name
