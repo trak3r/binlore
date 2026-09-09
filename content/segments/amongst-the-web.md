@@ -40,6 +40,7 @@ The audience-interactive viral media review desk on *Barely Informed News*.
 
 
 
+
 | Episode | Timestamp | Notes |
 |---|---|---|
 | [[../episodes/2026-09-04|2026-09-04]] | 01:08:14 | Former producer [[../characters/peter-gibbon|Peter Gibbon]] commandeers the desk to review viral clips alongside Case before Blackwell provides an executive update on Crum's impending robotic gorilla forfeit. |
@@ -54,3 +55,4 @@ The audience-interactive viral media review desk on *Barely Informed News*.
 | [[episodes/2026-06-19|2026-06-19]] | 45:00 | Viral Media Review: On-air debate desk evaluating viral content submitted by viewers. The segment features live polls, audience voting, and critical analysis of trending internet memes and media trends. |
 | [[episodes/2026-06-18|2026-06-18]] | 01:25:11 | Grand Man Hosts: XP TV Commercial, Oppenheimer/Barbie TikTok, AI Kung Fu Kitty, Street Fight, Demonic Furby: Grand Man (introduced as possible Crum's wife's sex therapist) hosts viewer video review: Windows XP infomercial (8.09), Barbenheimer friendship TikTok (7.3), AI-generated kung fu cat (8.67), parking lot twerking fight (6.9), Furby demon possession testimony (10/10). Grand Man departs after high-five failure. |
 | [[episodes/2026-06-08|2026-06-08]] | 01:14:33 | Trailer Review: The Giver 2, Saw Genesis, My Dream Is Yours, Dave the Driver, Resident Evil: Case and off-screen voices watch and rate vintage and new trailers: The Giver 2: Dark Hero (ROI-based marketing), Saw Genesis (WWII jaw-ripping), 1949 musical My Dream Is Yours, pixel-art game Dave the Driver DLC, and Resident Evil 9 reveal trailer. Case ranks them 3.42–4.75 stars. |
+| [[episodes/2026-06-01|2026-06-01]] | 01:02:04 | Viral Media Review & Horse Genre: Case reviews a clip of his past screaming and discusses 'horse genre' content, including a story about a horse getting a new saddle. |

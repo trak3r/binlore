@@ -1,0 +1,19 @@
+{
+  "vod_id": "e7hY2_N6gVs",
+  "title": "Monday News Weaponization Inquiry",
+  "url": "https://www.youtube.com/watch?v=e7hY2_N6gVs",
+  "duration_seconds": 10892,
+  "duration": "3:01:32",
+  "timestamp": 1780272000,
+  "aired_at": "2026-06-01T00:00:00+00:00",
+  "date": "2026-06-01",
+  "ingested_at": "2026-09-09T00:22:33.163797+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "e7hY2_N6gVs",
+  "yt_url": "https://www.youtube.com/watch?v=e7hY2_N6gVs",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-06-01"
+}

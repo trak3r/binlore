@@ -52,5 +52,10 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/trip-bradstein|Trip Bradstein]] | Field Correspondent | Park-dwelling field correspondent broadcasting from the bushes and interviewing park visitors for their audience-submitted opinions |
 | [[characters/dr-chath|Dr. Chath]] | Minor-Character Therapist / Consultant | Eccentric counseling consultant presiding over the [[../segments/therapy\|Therapy]] desk, fielding viewer prompts and offering confusing wrestling and dance-based guidance |
 | [[characters/grand-man|Grand Man]] | recurring | Guest host for Amongst the Web |
+| [[characters/lead-anchor-and-managing-editor|Lead Anchor & Managing Editor]] | recurring | Primary anchor delivering news, political commentary, and segment transitions |
+| [[characters/executive-producer|Executive Producer]] | recurring | Opens broadcasts with his signature 'I'm Pepito, I'm the dog that produces the show' intro |
+| [[characters/musical-and-cultural-correspondent|Musical & Cultural Correspondent]] | recurring | High-energy correspondent triggered during hype surges |
+| [[characters/host-of-how-to-with-jeb|Host of 'How To with Jeb']] | recurring | Teaches practical skills like door-opening and disco dancing |
+| [[characters/gaming-and-digital-culture-correspondent|Gaming & Digital Culture Correspondent]] | recurring | Remote correspondent broadcasting from his bedroom, often interrupted by his mother |
 
 See also: [[../storylines/crum-dick-punch|Crum Dick Punch]], [[../segments/munch-and-crum|Munch & Crum]].

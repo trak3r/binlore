@@ -37,6 +37,7 @@ Brandon's gameplay is consistently disrupted by his mother shouting through the 
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | 01:12:48 | Brandon Plays Intelligent Qube & Gooters Wet Wings: Brandon struggles with keyboard controls while playing *Intelligent Qube* (I.Q.) on PS1 emulation, argues with his mother, and plugs Gooters' $59.99 soggy cola-dipped chicken skins. |
@@ -57,5 +58,6 @@ Brandon's gameplay is consistently disrupted by his mother shouting through the 
 | [[episodes/2026-06-15|2026-06-15]] | 01:44:27 | Brandon's Random Number Game: Brandon plays a random number game while his mother yells through the wall, referencing the 'Head of the Family' actor. |
 | [[episodes/2026-06-08|2026-06-08]] | 02:00:59 | Glover N64 Playthrough: Technical Hell, Maternal Abuse, Snake Eaters Restaurant Pitch: Brandon (CryptoZeu$) attempts Glover on N64 emulator; audio/video issues, controller mapping nightmares, inverted controls, and constant verbal abuse from his mother (yelling through door about nursing job, selling him for benzos, Mr. Pib bath prank). Brandon improvises 'Snake Eaters' all-male restaurant concept. He eventually reaches a puzzle area but quits after mental breakdown, ending stream early. |
 | [[episodes/2026-06-05|2026-06-05]] | 13:40 | Retro Gaming Deep-Dive: Resident gaming correspondent Brandon (CryptoZeu$) conducts a detailed exploration of vintage DOS classics and retro simulation titles from his bedroom studio, blending nostalgic gameplay with commentary on the evolving gaming landscape. |
+| [[episodes/2026-06-01|2026-06-01]] | 02:18:05 | Maple Story Gameplay & Character Creation: Brandon plays Maple Story, creates a character named 'Not Hit Less,' and discusses game mechanics with Case. Includes a 'Hundred Barts' thread promotion. |
 
 See also: [[../characters/cryptozeus|Brandon (CryptoZeu$)]], [[../characters/brandons-mother|Brandon's Mother]], [[index|Broadcast Segments]].

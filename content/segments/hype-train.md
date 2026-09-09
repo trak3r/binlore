@@ -47,6 +47,7 @@ While officially tasked with acknowledging viewer contributions and network patr
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | 36:43 | Jeans Rap & Tombstone Last Words: Hype Train intercepts the broadcast on a futuristic synthwave beat, delivering an impassioned freestyle about wearing denim jeans with his girls, Roman urine laundering, and debating what his final words on a tombstone would be. |
@@ -72,3 +73,4 @@ While officially tasked with acknowledging viewer contributions and network patr
 | [[episodes/2026-06-08|2026-06-08]] | 00:00:01 | Pepito Intro, Hype Train Machete Freestyle & Studio Banter: Pepito opens broadcast; Hype Train appears in starry liminal space and delivers extended freestyle about sharpening a toy machete with urine, joined by Case and Kendelle discussing home defense (machete, stun gun). Case shows off machete, Kendall does laundry on camera. Hype Train eventually 'dies' and Case hard-transitions to news. |
 | [[episodes/2026-06-05|2026-06-05]] | 17:14 | Musical Cultural Surge: A spontaneous Hype Train musical interruption erupts mid-segment, featuring retro synthwave beats, hamster-themed rhythms, and chaotic crowd reactions as the studio responds to the unexpected surge. |
 | [[episodes/2026-06-03|2026-06-03]] | 40:09 | Hype Train: Human Dog Shit Rap & Sub Thank-Yous: Hype Train interrupts for hype train surge. Delivers extended freestyle about eating 'human dog shit' (humans defecating on dog walks), thanks subs: Jack ($300), Matt Liddell, Apple WS, Giggle Trash (5 subs), Reverie Wolf (500 bits). Reveals second job as bassoonist. Discusses 'best flavor for human dog shit'. |
+| [[episodes/2026-06-01|2026-06-01]] | 16:00 | Hype Train Level-Up & Fundraiser: Hype Train interrupts with synthwave graphics, a 'revolutionary war' beat, and a 'Blackwell Jan 6 fund' promotion featuring 'massive bunny breasts' and 'lactating gold coins.' |

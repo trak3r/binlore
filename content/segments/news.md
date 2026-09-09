@@ -46,6 +46,7 @@ Lead anchor [[../characters/case-blackwell|Case Blackwell]] presides over the an
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | 12:21 | Season 3 Finale News Block: Coverage of the White House Lanterns trailer, Confederate memorial policies, Trump's defense of AI data centers ('have fun being poor'), GPT-6 Astro beating Portal, Ben Hooper UPI dispatches, and an orangutan vs sumo wrestler archive clip. |
@@ -74,3 +75,4 @@ Lead anchor [[../characters/case-blackwell|Case Blackwell]] presides over the an
 | [[episodes/2026-06-15|2026-06-15]] | 18:03 | Case's Birthday News Desk & Chat News: Case delivers birthday-themed news, including SpaceX IPO, Trump UFC event, and chat-submitted stories like the beaver scavenger hunt and triple-penis donor. |
 | [[episodes/2026-06-08|2026-06-08]] | 00:23:51 | Spencer Pratt Loss, Trump Interview, Head of the Family, Exorcist UFOs, Ken Paxton, Psilocybin, Anal Diet, Pokemon Go Drones, Mullet Championship, Bart Tattoos: Case anchors with Jeff Ripple reading chat news. Topics: Spencer Pratt trailing in LA mayoral race (Case's wrong prediction), Trump's 'wet' Meet the Press interview, Case's teenage memory of softcore film 'Head of the Family' (mutant Eggman), Catholic exorcist Monsignor Rossetti stripped for UFO=demon claims, Texas AG Ken Paxton sues Denton over Big Gay Swim Day, psilocybin helps dementia patient, graphic anal-sex dietary advice, Pokemon Go scans feeding military drones, Denmark's National Mullet Championship, and ongoing Bart tattoo submissions for Case's arms. |
 | [[episodes/2026-06-03|2026-06-03]] | 24:34 | News Desk: Iran War Vote, CA Gubernatorial Primary, LA Mayor Race: Case Blackwell anchors with Chief Science Correspondent Chet Manscape. Coverage: House vote to end Iran war (blow to Trump), Lebanon-Israel ceasefire, NJ-12 Dem primary (Adam Hamelway), CA gubernatorial primary (Hilton/Bakara/Steyer), LA mayor primary (Bass/Pratt/Raman). Chet reveals father owns oil field. Spencer Pratt candidacy debated. |
+| [[episodes/2026-06-01|2026-06-01]] | 27:35 | Weaponization Inquiry & Political Commentary: Case covers Iran-Israel tensions, Trump's weaponization fund delays, UK visa denials for left-wing creators, and critiques of media coverage. Includes a segment on 'agro crag' politics and a 'six seven' slang discussion. |
