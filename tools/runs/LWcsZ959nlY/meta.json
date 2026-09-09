@@ -1,0 +1,19 @@
+{
+  "vod_id": "LWcsZ959nlY",
+  "title": "Macy's Day Parade - LIVE! (probably",
+  "url": "https://www.youtube.com/watch?v=LWcsZ959nlY",
+  "duration_seconds": 8061,
+  "duration": "2:14:21",
+  "timestamp": 1700697600,
+  "aired_at": "2023-11-23T00:00:00+00:00",
+  "date": "2023-11-23",
+  "ingested_at": "2026-09-09T19:21:31.905072+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "LWcsZ959nlY",
+  "yt_url": "https://www.youtube.com/watch?v=LWcsZ959nlY",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2023-11-23"
+}
