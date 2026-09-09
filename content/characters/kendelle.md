@@ -39,6 +39,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-08-06|2026-08-06]] | In-studio contributor appearing intermittently. Debuts briefly before ghosting off-camera, later returns to announce she has already started playing *BigWog* without Blackwell. |
@@ -54,8 +55,10 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in birthday context, not actively speaking. |
 | [[episodes/2026-06-08|2026-06-08]] | Lead anchor's girlfriend, in-studio contributor. Brings machete, does laundry on camera, receives birthday shirt, mother celebrated. |
 | [[episodes/2026-06-05|2026-06-05]] | Lead anchor and on-air contributor who walks through the studio for signature segments. |
+| [[episodes/2026-06-03|2026-06-03]] | Lead Anchor's girlfriend and in-studio contributor. Appears briefly to announce mall trip, reveals emergency cash ziplock bag from LA fires, receives $100 from Case. |
 
 ## Notable moments
+
 
 
 
@@ -67,3 +70,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[00:49:58]** ([[episodes/2026-07-11|2026-07-11]]): Case and Kendelle recount their harrowing 15-hour emergency layover in the Denver airport due to an aircraft fuel line leak and broken replacement window frame.
 - **[01:27:52]** ([[episodes/2026-06-22|2026-06-22]]): Kendelle is Case's girlfriend and on-air contributor who appears as a ghost during the therapy segment, walking through the studio to her own signature theme music. She lives in the therapist's office sometimes and follows 'Harry Potter rules' for apparition.
 - **[01:30:28]** ([[episodes/2026-06-08|2026-06-08]]): Walks through studio to her own signature theme music; mother celebrated on-air for birthday.
+- **[01:14:34]** ([[episodes/2026-06-03|2026-06-03]]): Kendelle is Lead Anchor Case Blackwell's girlfriend and on-air contributor who walks through the studio to her own signature theme music.

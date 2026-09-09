@@ -28,6 +28,7 @@ Rick joined the broadcast on the [[episodes/2026-09-04|2026-09-04 broadcast]] to
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-04|2026-09-04]] | Takes the desk to helm the [[../segments/amongst-the-web|Amongst the Web]] interactive video review desk, conducting tactical evaluations of viral media. |
@@ -35,7 +36,10 @@ Rick joined the broadcast on the [[episodes/2026-09-04|2026-09-04 broadcast]] to
 | [[episodes/2026-07-16|2026-07-16]] | Investigative media correspondent joins the news desk, providing commentary on Trump's address, JD Vance's couch jokes, and the humanoid robot story. |
 | [[episodes/2026-06-18|2026-06-18]] | Studio news reader and breaking chat correspondent. Appears unexpectedly in Case's house during cold open. Engages in rendition/apartment seizure banter. Harbors rivalry with external journalist Ben Hooper (not a network employee). |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
+| [[episodes/2026-06-03|2026-06-03]] | Host of Amongst the Web. Referenced in AI Rooney complaint about thin blue line flag at his BBQs. |
 
 ## Notable moments
 
+
 - **[01:09:01]** ([[episodes/2026-09-04|2026-09-04]]): Assumes control of the broadcast for the Amongst the Web briefing, dissecting viral videos with deadpan military methodology.
+- **[01:13:15]** ([[episodes/2026-06-03|2026-06-03]]): Rick (Amongst the Web host) hosts BBQs where he flies a thin blue line flag, which a viewer complained about to AI Rooney.

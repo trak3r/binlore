@@ -34,6 +34,7 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-06-29|2026-06-29]] | Activated as "Rooney 1.0" for audience prompts via `!rr`. Generates wildly unhinged complaints about *Wings*, Ninja Turtles, *Wrestling at the Chase*, Matt Ladel, and lizard linguistics, requiring Blackwell to mute him mid-response. |
@@ -44,8 +45,10 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 | [[episodes/2026-06-19|2026-06-19]] | Synthetic neural network co-host providing grievance commentary and audience feedback analysis. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of 'idiocracy' comment, retired segment. |
 | [[episodes/2026-06-05|2026-06-05]] | Cyborg commentator hosting the AI Rooney grievance machine segment, known for escalating rants and audience-focused criticism. |
+| [[episodes/2026-06-03|2026-06-03]] | Proprietary cyborg commentator (Andy Rooney homage). Delivers viewer complaints via !rr. Suffers repeated 'brain empty' failures, violates age guardrails (references 19-year-old), produces incoherent sexualized rants. Case orders full rebuild. |
 
 ## Notable moments
+
 
 
 
@@ -58,3 +61,5 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 - **[01:06:45]** ([[episodes/2026-07-17|2026-07-17]]): Community technical contributor [[characters/live-in-sleazy|Live 'n Sleazy]] locates the decommissioned model; Chet diagnoses the newsroom with "AI Psychosis" from releasing the spirit of Andy Rooney into the wild.
 - **[01:03:42]** ([[episodes/2026-06-22|2026-06-22]]): AI Rooney has been retired due to offensive outputs but Case still attempts to activate it, noting it has been 'misbehaving' and producing racist and sexual content. Case mentions Rooney has 'over a hundred training parameters' and tries to use a 'Grok' model as an alternative.
 - **[01:15:45]** ([[episodes/2026-06-15|2026-06-15]]): AI Rooney is mentioned as a retired segment, referenced in the context of 'idiocracy'.
+- **[11:12]** ([[episodes/2026-06-03|2026-06-03]]): AI Rooney receives daily training data updates written by the production team; the system prompt includes a guardrail: 'don't talk about anyone unless they're 25 or older.'
+- **[01:02:06]** ([[episodes/2026-06-03|2026-06-03]]): AI Rooney operates on 1700 GPUs in a separate room, consuming electricity of three small countries, and required purchasing a lake for cooling (now nearly drained).
