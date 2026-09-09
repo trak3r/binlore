@@ -35,6 +35,7 @@ Conceived as a computational homage to CBS *60 Minutes* commentator Andy Rooney,
 
 
 
+
 | Episode | Timestamp | Notes |
 |---|---|---|
 | [[../episodes/2026-06-29|2026-06-29]] | 02:00:24 | Blackwell activates AI Rooney 1.0 for audience prompts via `!rr`, generating unhinged complaints about *Wings*, Ninja Turtles, *Wrestling at the Chase*, and Matt Ladel before Blackwell mutes the feed. |
@@ -43,3 +44,4 @@ Conceived as a computational homage to CBS *60 Minutes* commentator Andy Rooney,
 | [[../episodes/2026-07-17|2026-07-17]] | 01:06:45 | Accessed briefly in digital archive space as "Rooney 1.0 Knot Prime" to comment on Russian robot marriage, before cutting out for draining two lakes of water. |
 | [[episodes/2026-06-22|2026-06-22]] | 01:03:42 | AI Rooney's Unhinged Grievance Spew: Case attempts to activate AI Rooney for a grievance segment, but Rooney produces increasingly offensive content involving sexual references, racial commentary, and bizarre tangents about soup, beards, and cavemen. Case repeatedly mutes Rooney and tries to reprompt him, ultimately concluding the segment was mostly unscathed. |
 | [[episodes/2026-06-03|2026-06-03]] | 57:04 | AI Rooney Segment: Systemic Cognitive Failure & Guardrail Violations: AI Rooney launched for viewer complaints (!rr). Multiple failures: 'brain empty' errors, ignored age guardrails (25+), explicit sexual content involving minors, incoherent rants on scissors, war, Disney fox, Spencer Pratt, thin blue line flag, Fred Durst. Kendelle appears briefly (mall trip, emergency cash bag). Case announces full Rooney rebuild. |
+| [[episodes/2026-05-29|2026-05-29]] | 01:14:51 | Retirement Rant & Nipple Milk: AI Rooney returns with a series of grievance rants about Michael J. Fox, ferrets, and garbage disposals, interspersed with references to penis cream and fish eyes. The segment ends with Rooney's final complaint about Daredevil's video game. |

@@ -57,5 +57,8 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/musical-and-cultural-correspondent|Musical & Cultural Correspondent]] | recurring | High-energy correspondent triggered during hype surges |
 | [[characters/host-of-how-to-with-jeb|Host of 'How To with Jeb']] | recurring | Teaches practical skills like door-opening and disco dancing |
 | [[characters/gaming-and-digital-culture-correspondent|Gaming & Digital Culture Correspondent]] | recurring | Remote correspondent broadcasting from his bedroom, often interrupted by his mother |
+| [[characters/grandman|Grandman]] | recurring | Guest host for Amongst the Web, advocating for athletic socks |
+| [[characters/jazz-shrimp|Jazz Shrimp]] | recurring | New character debating food critics about shrimp identity |
+| [[characters/steak|Steak]] | recurring | Guest artist collaborating on the Thump Steaks song |
 
 See also: [[../storylines/crum-dick-punch|Crum Dick Punch]], [[../segments/munch-and-crum|Munch & Crum]].

@@ -47,6 +47,7 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-06-29|2026-06-29]] | Co-hosts *Amongst the Web* during his 'Jam EFE era', demanding on-air catchphrase validation and claiming the phrase 'don't eat my nipples' as a Ripple-original. |
@@ -64,6 +65,7 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
 | [[episodes/2026-06-08|2026-06-08]] | Studio news reader / breaking chat correspondent. Reads Catholic exorcist story, reacts to Alex Jones comparison, leaves to fix power issue. |
 | [[episodes/2026-06-05|2026-06-05]] | Studio news reader and breaking chat correspondent who monitors viewer submissions and provides updates. |
+| [[episodes/2026-05-29|2026-05-29]] | External journalist mentioned in news coverage, not a character. |
 
 ## Notable Moments
 
@@ -78,4 +80,6 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 
 ## Notable moments
 
+
 - **[00:40:07]** ([[episodes/2026-06-08|2026-06-08]]): Harbors intense one-sided rivalry with real-world UPI reporter Ben Hooper; audience favors Hooper's corny antics.
+- **[01:12:49]** ([[episodes/2026-05-29|2026-05-29]]): Ben Hooper is an external real-world journalist, not a character on the show, and is mentioned in news coverage.

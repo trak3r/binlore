@@ -1,0 +1,289 @@
+{
+  "episode_summary": "Barely Informed News delivered a chaotic Friday broadcast featuring an extended Hype Train rap odyssey, a Jazz Shrimp debate with food critics, and a Thump Steaks musical collaboration with DJ C4. The stream concluded with a raid on Call Me Aurelius, leaving viewers questioning the nature of shrimp, milk feet, and the true identity of Ben Hooper.",
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "15:12",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Pepito Intro & Studio Skeleton Bit",
+      "notes": "Pepito opens the show with his signature intro, followed by banter about VIP trains, Grandman's controversial sock advocacy, and a brief Peter Gibbon chaos portal incident. The segment transitions into news with a focus on clip farming and Mina the Hollower.",
+      "characters": [
+        "Pepito",
+        "Grandman",
+        "Peter Gibbon"
+      ]
+    },
+    {
+      "start": "15:12",
+      "end": "01:14:51",
+      "canonical_segment": "News",
+      "title": "Trump Stakes, Beauty Cream, and Ben Hooper",
+      "notes": "Case covers Trump's Kennedy Center renaming, Brad Pitt's penis cream lawsuit, and a feel-good story about a WWII veteran wing walker. The segment includes a digression on beauty penis cream and a tribute to Ben Hooper's viral journalism.",
+      "characters": [
+        "Case Blackwell",
+        "Ben Hooper"
+      ]
+    },
+    {
+      "start": "33:27",
+      "end": "01:04:36",
+      "canonical_segment": "Hype Train",
+      "title": "Milk Feet, Fish Eyes, and Guitar Cars",
+      "notes": "Hype Train launches into an extended rap about his body parts being milk, fish eyes, and a guitar car, escalating into time travel and universe rebirth themes. The segment includes a duet with Case and ends with a level 7 hype surge.",
+      "characters": [
+        "Hype Train",
+        "Case Blackwell"
+      ]
+    },
+    {
+      "start": "01:14:51",
+      "end": "01:31:51",
+      "canonical_segment": "AI Rooney",
+      "title": "Retirement Rant & Nipple Milk",
+      "notes": "AI Rooney returns with a series of grievance rants about Michael J. Fox, ferrets, and garbage disposals, interspersed with references to penis cream and fish eyes. The segment ends with Rooney's final complaint about Daredevil's video game.",
+      "characters": [
+        "AI Rooney",
+        "Case Blackwell"
+      ]
+    },
+    {
+      "start": "01:34:49",
+      "end": "01:47:15",
+      "canonical_segment": "Amongst the Web",
+      "title": "Movie Trailers & Epstein Island",
+      "notes": "Case reviews movie trailers including Dead Howling, Clayface, and Bring Me the Beauties, which transitions into a discussion about Jeffrey Epstein and cults. The segment ends with a shrimp-themed food critic debate.",
+      "characters": [
+        "Case Blackwell"
+      ]
+    },
+    {
+      "start": "01:47:15",
+      "end": "02:03:57",
+      "canonical_segment": "Amongst the Web",
+      "title": "Jazz Shrimp vs. Food Critics",
+      "notes": "A shrimp character debates 30 food critics about its status as the greatest jazz shrimp, touching on themes of identity, cuisine, and British aristocracy. The segment ends with the shrimp's dramatic exit.",
+      "characters": [
+        "Jazz Shrimp"
+      ]
+    },
+    {
+      "start": "02:04:42",
+      "end": "02:25:47",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Boogerman Speedrun & Mom Interruptions",
+      "notes": "Brandon plays Boogerman, dealing with controller issues and his mother's interruptions. The segment includes a speedrun attempt and a discussion about the game's difficulty and strategies.",
+      "characters": [
+        "Brandon (CryptoZeu$)",
+        "Brandon's Mother"
+      ]
+    },
+    {
+      "start": "02:25:47",
+      "end": "02:50:40",
+      "canonical_segment": "DJ C4",
+      "title": "Thump Steaks Theme Song",
+      "notes": "DJ C4 collaborates with a guest artist named Steak to create a theme song for Thump Steaks, featuring lyrics about meat, dumps, and baby birds. The segment includes production challenges and auto-tuning.",
+      "characters": [
+        "DJ C4",
+        "Steak"
+      ]
+    },
+    {
+      "start": "02:50:40",
+      "end": "02:52:24",
+      "canonical_segment": "DJ Newsic",
+      "title": "Raid on Call Me Aurelius",
+      "notes": "The stream concludes with a raid on Call Me Aurelius, accompanied by a brief DJ Newsic-style outro and VIP acknowledgments.",
+      "characters": [
+        "Case Blackwell"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [
+        "00:08",
+        "15:12",
+        "33:27",
+        "01:14:51",
+        "01:34:49",
+        "01:47:15",
+        "02:50:40"
+      ],
+      "confidence": 0.99,
+      "notes": "Lead anchor and managing editor, hosting the majority of the broadcast."
+    },
+    {
+      "name": "Pepito",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [
+        "00:08",
+        "10:07"
+      ],
+      "confidence": 0.98,
+      "notes": "Executive producer opening the show with his signature intro."
+    },
+    {
+      "name": "Hype Train",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [
+        "33:27",
+        "01:04:36"
+      ],
+      "confidence": 0.97,
+      "notes": "Musical correspondent delivering an extended rap about body parts and time travel."
+    },
+    {
+      "name": "AI Rooney",
+      "canonical_name": "AI Rooney",
+      "speaking": true,
+      "timestamps": [
+        "01:14:51",
+        "01:31:51"
+      ],
+      "confidence": 0.96,
+      "notes": "Retired cyborg commentator delivering grievance rants."
+    },
+    {
+      "name": "Grandman",
+      "canonical_name": "Grandman",
+      "speaking": true,
+      "timestamps": [
+        "11:08",
+        "12:13"
+      ],
+      "confidence": 0.95,
+      "notes": "Guest host for Amongst the Web, advocating for athletic socks."
+    },
+    {
+      "name": "Jazz Shrimp",
+      "canonical_name": "Jazz Shrimp",
+      "speaking": true,
+      "timestamps": [
+        "01:47:15",
+        "02:03:57"
+      ],
+      "confidence": 0.94,
+      "notes": "New character debating food critics about shrimp identity."
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [
+        "02:04:42",
+        "02:25:47"
+      ],
+      "confidence": 0.98,
+      "notes": "Gaming correspondent playing Boogerman with mother interruptions."
+    },
+    {
+      "name": "DJ C4",
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [
+        "02:25:47",
+        "02:50:40"
+      ],
+      "confidence": 0.97,
+      "notes": "In-studio music producer creating the Thump Steaks theme."
+    },
+    {
+      "name": "Steak",
+      "canonical_name": "Steak",
+      "speaking": true,
+      "timestamps": [
+        "02:38:43",
+        "02:42:49"
+      ],
+      "confidence": 0.92,
+      "notes": "Guest artist collaborating on the Thump Steaks song."
+    },
+    {
+      "name": "Peter Gibbon",
+      "canonical_name": "Peter Gibbon",
+      "speaking": false,
+      "timestamps": [
+        "13:47"
+      ],
+      "confidence": 0.9,
+      "notes": "Mentioned as a stowaway causing a chaos portal incident."
+    },
+    {
+      "name": "Ben Hooper",
+      "canonical_name": "Ben Hooper",
+      "speaking": false,
+      "timestamps": [
+        "01:12:49",
+        "01:14:19"
+      ],
+      "confidence": 0.95,
+      "notes": "External journalist mentioned in news coverage, not a character."
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Hype Train Body Part Raps",
+      "beat": "Hype Train delivers an extended rap about milk feet, fish eyes, and guitar cars, escalating into time travel and universe rebirth themes.",
+      "timestamp": "33:27"
+    },
+    {
+      "storyline": "Jazz Shrimp Character Introduction",
+      "beat": "A new shrimp character debates food critics about its status as the greatest jazz shrimp, establishing a recurring segment.",
+      "timestamp": "01:47:15"
+    },
+    {
+      "storyline": "Thump Steaks Theme Song",
+      "beat": "DJ C4 collaborates with guest artist Steak to create a theme song for Thump Steaks, featuring lyrics about meat and dumps.",
+      "timestamp": "02:25:47"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Pepito opens broadcasts with his signature 'I'm Pepito, I'm the dog that produces the show' intro.",
+      "timestamp": "00:08",
+      "confidence": 0.99
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Hype Train's raps often involve escalating physical transformations, including milk feet, fish eyes, and time travel.",
+      "timestamp": "33:27",
+      "confidence": 0.97
+    },
+    {
+      "entity": "AI Rooney",
+      "fact": "AI Rooney was retired due to offensive outputs but makes a return appearance with adjusted programming.",
+      "timestamp": "01:14:51",
+      "confidence": 0.96
+    },
+    {
+      "entity": "Jazz Shrimp",
+      "fact": "Jazz Shrimp is a new recurring character who debates food critics about shrimp identity and British aristocracy.",
+      "timestamp": "01:47:15",
+      "confidence": 0.94
+    },
+    {
+      "entity": "DJ C4",
+      "fact": "DJ C4 collaborates with guest artists to create theme songs, using AI ghostwriting assistance and audience-submitted lyrics.",
+      "timestamp": "02:25:47",
+      "confidence": 0.97
+    },
+    {
+      "entity": "Ben Hooper",
+      "fact": "Ben Hooper is an external real-world journalist, not a character on the show, and is mentioned in news coverage.",
+      "timestamp": "01:12:49",
+      "confidence": 0.95
+    }
+  ],
+  "_meta": {
+    "vod_id": "GXxPhYEz150",
+    "model": "poolside/laguna-s-2.1:free",
+    "transcript_lines": 326
+  }
+}

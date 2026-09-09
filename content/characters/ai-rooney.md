@@ -35,6 +35,7 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-06-29|2026-06-29]] | Activated as "Rooney 1.0" for audience prompts via `!rr`. Generates wildly unhinged complaints about *Wings*, Ninja Turtles, *Wrestling at the Chase*, Matt Ladel, and lizard linguistics, requiring Blackwell to mute him mid-response. |
@@ -46,8 +47,10 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of 'idiocracy' comment, retired segment. |
 | [[episodes/2026-06-05|2026-06-05]] | Cyborg commentator hosting the AI Rooney grievance machine segment, known for escalating rants and audience-focused criticism. |
 | [[episodes/2026-06-03|2026-06-03]] | Proprietary cyborg commentator (Andy Rooney homage). Delivers viewer complaints via !rr. Suffers repeated 'brain empty' failures, violates age guardrails (references 19-year-old), produces incoherent sexualized rants. Case orders full rebuild. |
+| [[episodes/2026-05-29|2026-05-29]] | Retired cyborg commentator delivering grievance rants. |
 
 ## Notable moments
+
 
 
 
@@ -63,3 +66,4 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 - **[01:15:45]** ([[episodes/2026-06-15|2026-06-15]]): AI Rooney is mentioned as a retired segment, referenced in the context of 'idiocracy'.
 - **[11:12]** ([[episodes/2026-06-03|2026-06-03]]): AI Rooney receives daily training data updates written by the production team; the system prompt includes a guardrail: 'don't talk about anyone unless they're 25 or older.'
 - **[01:02:06]** ([[episodes/2026-06-03|2026-06-03]]): AI Rooney operates on 1700 GPUs in a separate room, consuming electricity of three small countries, and required purchasing a lake for cooling (now nearly drained).
+- **[01:14:51]** ([[episodes/2026-05-29|2026-05-29]]): AI Rooney was retired due to offensive outputs but makes a return appearance with adjusted programming.

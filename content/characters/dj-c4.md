@@ -42,11 +42,13 @@ Unlike conventional broadcast audio engineers, DJ C4 constructs songs collaborat
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-07-17|2026-07-17]] | Broadcast debut. Commanded the DJC4 studios session, assembled the "Free Stephanie" merch-drop anthem using AI assistance and viewer `!L` lyrics, and recorded Crum's rap verse. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of raid, not actively speaking. |
 | [[episodes/2026-06-05|2026-06-05]] | In-studio music producer and composer responsible for thematic song creation and promotional content. |
+| [[episodes/2026-05-29|2026-05-29]] | In-studio music producer creating the Thump Steaks theme. |
 
 ## Notable Quotes
 
@@ -59,3 +61,7 @@ Unlike conventional broadcast audio engineers, DJ C4 constructs songs collaborat
 - How closely does DJ C4 coordinate with [[characters/dj-newsic|DJ Newsic]] on network sound design?
 
 See also: [[../segments/dj-c4|DJ C4 (Segment)]], [[characters/dj-newsic|DJ Newsic]], [[characters/crum|Crum]], [[characters/live-in-sleazy|Live 'n Sleazy]], [[characters/case-blackwell|Case Blackwell]], [[index|On-Air Talent & Staff]].
+
+## Notable moments
+
+- **[02:25:47]** ([[episodes/2026-05-29|2026-05-29]]): DJ C4 collaborates with guest artists to create theme songs, using AI ghostwriting assistance and audience-submitted lyrics.

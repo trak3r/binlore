@@ -50,6 +50,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | Intercepts the desk on a futuristic synthwave beat, delivering an impassioned freestyle about wearing denim jeans with his girls, Roman urine laundering, and proposed tombstone epitaphs. |
@@ -76,8 +77,10 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-06-15|2026-06-15]] | High-velocity musical correspondent, discusses aging and dinosaurs. |
 | [[episodes/2026-06-08|2026-06-08]] | Sentient locomotive correspondent. Delivers surreal piss-machete freestyle rap during pre-show. |
 | [[episodes/2026-06-03|2026-06-03]] | High-velocity musical/cultural correspondent. Triggered by hype train surge. Raps about eating 'human dog shit', thanks subscribers, claims second job as bassoonist. |
+| [[episodes/2026-05-29|2026-05-29]] | Musical correspondent delivering an extended rap about body parts and time travel. |
 
 ## Notable moments
+
 
 
 
@@ -129,3 +132,4 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[00:19:46]** ([[episodes/2026-06-08|2026-06-08]]): Travels with a panther companion; freestyles about sharpening a machete with the force of his urine, comparing it to a waterfall eroding a mountain.
 - **[48:05]** ([[episodes/2026-06-03|2026-06-03]]): Hype Train claims a second job as a professional bassoonist, stating symphony audiences (including elderly women and police) are sexually aroused by his playing.
 - **[43:14]** ([[episodes/2026-06-03|2026-06-03]]): Hype Train's 'human dog shit' bit refers to humans defecating during dog walks when they cannot stop; Hype Train claims to eat this as a job.
+- **[33:27]** ([[episodes/2026-05-29|2026-05-29]]): Hype Train's raps often involve escalating physical transformations, including milk feet, fish eyes, and time travel.

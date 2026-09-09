@@ -1,0 +1,19 @@
+{
+  "vod_id": "GXxPhYEz150",
+  "title": "Friday News Burp",
+  "url": "https://www.youtube.com/watch?v=GXxPhYEz150",
+  "duration_seconds": 10344,
+  "duration": "2:52:24",
+  "timestamp": 1780012800,
+  "aired_at": "2026-05-29T00:00:00+00:00",
+  "date": "2026-05-29",
+  "ingested_at": "2026-09-09T01:01:07.840360+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "GXxPhYEz150",
+  "yt_url": "https://www.youtube.com/watch?v=GXxPhYEz150",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-05-29"
+}
