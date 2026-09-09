@@ -1,0 +1,19 @@
+{
+  "vod_id": "CPQbEcWhowI",
+  "title": "Tuesday News Slay",
+  "url": "https://www.youtube.com/watch?v=CPQbEcWhowI",
+  "duration_seconds": 8271,
+  "duration": "2:17:51",
+  "timestamp": 1779753600,
+  "aired_at": "2026-05-26T00:00:00+00:00",
+  "date": "2026-05-26",
+  "ingested_at": "2026-09-09T11:47:40.616978+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "CPQbEcWhowI",
+  "yt_url": "https://www.youtube.com/watch?v=CPQbEcWhowI",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-05-26"
+}

@@ -1,0 +1,383 @@
+{
+  "episode_summary": "Barely Informed News delivers its Tuesday edition with a high-octane blend of international conflict reporting, political debate, and science-focused investigation. The broadcast opens with Pepito's energetic introduction before plunging into urgent global news covering US military actions in the Middle East and ongoing ceasefire efforts. The centerpiece remains the Munch & Crum debate, where their ideological clash reaches fever pitch over political philosophy and personal stakes. Throughout, Chet Guy the Science Eyes provides investigative depth on emerging technologies and medical advancements, while CryptoZeu$ continues his gaming and digital culture coverage. The episode concludes with a techno-infused news finale and a celebratory music segment, wrapping up a day of chaotic yet purposeful programming.",
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "00:45",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Pepito Intro & Studio Setup",
+      "notes": "Executive producer Pepito opens the broadcast with his signature dog persona, introducing the studio and establishing the network's chaotic energy before cutting to the main news desk."
+    },
+    {
+      "start": "00:45",
+      "end": "02:00",
+      "canonical_segment": "News",
+      "title": "Breaking International & Domestic Coverage",
+      "notes": "Multiple news segments cover US military strikes in Iran and Israel, the ceasefire situation in the Middle East, and global conflicts including the US strikes on Bandar Abbas. The news desk delivers rapid-fire updates on geopolitical tensions."
+    },
+    {
+      "start": "02:00",
+      "end": "04:30",
+      "canonical_segment": "News",
+      "notes": "Continuity of international news with coverage of the US-Iran conflict, ceasefire developments, and additional global stories including the Great White Shark encounter and lab-grown sperm research."
+    },
+    {
+      "start": "04:30",
+      "end": "06:00",
+      "canonical_segment": "Hype Train",
+      "title": "Broadband Surge Interruption",
+      "notes": "A high-energy musical interruption triggered by viewer engagement spikes, featuring retro synthwave graphics and the Hype Train correspondent's energetic delivery about the 'couch' phenomenon."
+    },
+    {
+      "start": "06:00",
+      "end": "12:00",
+      "canonical_segment": "Munch & Crum",
+      "title": "Political Debate: Munch vs. Crum",
+      "notes": "The flagship debate segment pits senior analysts Munch (Ralph Munchcut) and Crum (Leonard Crum) against each other in a heated exchange about politics, with Crum referencing his famous 'Dick Punch' wager and Munch maintaining his combative style."
+    },
+    {
+      "start": "12:00",
+      "end": "14:00",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Science Investigation Desk",
+      "notes": "Chief Science Correspondent Chet (Chet Manscape) leads his dual-host desk with ChetAI, conducting investigations into AI capabilities, medical research, and technology trends. The segment includes detailed lab work with Chet's microscope and AI-assisted analysis."
+    },
+    {
+      "start": "14:00",
+      "end": "15:30",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Gaming & Digital Culture Report",
+      "notes": "Resident gaming correspondent Brandon (CryptoZeu$) conducts deep-dive playthroughs of retro games and discusses digital culture trends, including AI-generated content and cryptocurrency-related topics."
+    },
+    {
+      "start": "15:30",
+      "end": "17:00",
+      "canonical_segment": "Amongst the Web",
+      "title": "Viral Media Review",
+      "notes": "Field correspondent Trip Bradstein interviews park visitors in a public park, gathering 'on-the-street' opinions on viral content submitted by viewers."
+    },
+    {
+      "start": "17:00",
+      "end": "18:30",
+      "canonical_segment": "Chet Guy the Science Eyes (Continued)",
+      "title": "Science Investigation Continuation",
+      "notes": "The science desk continues with additional investigations, including discussions on AI ethics, genetic research, and technical troubleshooting within the studio environment."
+    },
+    {
+      "start": "18:30",
+      "end": "20:00",
+      "canonical_segment": "CryptoZeu$ (Continued)",
+      "title": "Retro Gameplay & Tech Discussion",
+      "notes": "CryptoZeu$ continues his gaming coverage with extended gameplay sessions and deeper dives into retro gaming culture and digital nostalgia."
+    },
+    {
+      "start": "20:00",
+      "end": "22:00",
+      "canonical_segment": "News & Analysis",
+      "notes": "Return to news coverage with updates on the ceasefire situation, international conflicts, and broader geopolitical developments affecting global stability."
+    },
+    {
+      "start": "22:00",
+      "end": "24:00",
+      "canonical_segment": "Amongst the Web (Continued)",
+      "title": "Audience Interaction",
+      "notes": "Further field reporting from Trip Bradstein continues, with additional visitor comments and viral content reviews from the audience."
+    },
+    {
+      "start": "24:00",
+      "end": "26:00",
+      "canonical_segment": "Chet Guy the Science Eyes (Conclusion)",
+      "title": "Closing Scientific Segment",
+      "notes": "Final science-focused segment wraps up with Chet and ChetAI concluding their investigation, preparing for the episode's conclusion."
+    },
+    {
+      "start": "26:00",
+      "end": "28:00",
+      "canonical_segment": "DJ Newsic",
+      "title": "Techno News Finale",
+      "notes": "The signature techno music segment closes the broadcast with DJ Newsic performing auto-tuned news snippets, maintaining the network's signature sonic branding."
+    },
+    {
+      "start": "28:00",
+      "end": "30:00",
+      "canonical_segment": "DJ C4",
+      "title": "Music Production & Merch",
+      "notes": "DJ C4 composes thematic tracks for the network, including a correspondent theme song and promotional anthem for the show's merchandise line."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "canonical_name": "Pepito the Dog",
+      "speaking": true,
+      "timestamps": [
+        "00:06",
+        "01:14",
+        "08:00",
+        "09:22",
+        "10:05",
+        "11:17",
+        "12:03",
+        "13:05",
+        "14:09",
+        "15:13",
+        "15:54",
+        "16:16",
+        "17:04",
+        "18:09",
+        "19:12",
+        "20:19",
+        "21:10",
+        "21:34",
+        "22:16",
+        "23:21",
+        "24:05",
+        "25:41",
+        "26:14",
+        "27:24",
+        "28:26",
+        "29:30",
+        "30:57"
+      ],
+      "confidence": 0.95,
+      "notes": "Executive producer and the network's canine mascot. Opens every broadcast with his signature 'I'm Pepito, I'm the dog that produces the show' intro. Remains present throughout the entire episode."
+    },
+    {
+      "name": "Munch",
+      "canonical_name": "Ralph Munchcut",
+      "speaking": true,
+      "timestamps": [
+        "08:40",
+        "09:22",
+        "10:27",
+        "11:41",
+        "12:45",
+        "13:05",
+        "14:09",
+        "15:54",
+        "16:37",
+        "17:04",
+        "18:09",
+        "18:51",
+        "19:12",
+        "20:19",
+        "21:10",
+        "21:34",
+        "22:16",
+        "23:21",
+        "24:05",
+        "25:41",
+        "26:14",
+        "27:24",
+        "28:26",
+        "29:30",
+        "30:57"
+      ],
+      "confidence": 0.92,
+      "notes": "Senior debate analyst known for his disheveled silver hair and combative political style. Engages in heated exchanges with Crum and frequently references his 'Dick Punch' wager storyline."
+    },
+    {
+      "name": "Crum",
+      "canonical_name": "Leonard Crum",
+      "speaking": true,
+      "timestamps": [
+        "08:40",
+        "09:22",
+        "10:27",
+        "11:41",
+        "12:45",
+        "13:05",
+        "14:09",
+        "15:54",
+        "16:37",
+        "17:04",
+        "18:09",
+        "18:51",
+        "19:12",
+        "20:19",
+        "21:10",
+        "21:34",
+        "22:16",
+        "23:21",
+        "24:05",
+        "25:41",
+        "26:14",
+        "27:24",
+        "28:26",
+        "29:30",
+        "30:57"
+      ],
+      "confidence": 0.88,
+      "notes": "Senior debate analyst characterized by hollow eyes and perpetual gambling debts. Serves as Munch's primary ideological counterpoint in the Munch & Crum debate segment."
+    },
+    {
+      "name": "Chet",
+      "canonical_name": "Chet Manscape",
+      "speaking": true,
+      "timestamps": [
+        "12:03",
+        "12:45",
+        "13:05",
+        "14:09",
+        "15:13",
+        "15:54",
+        "16:37",
+        "17:04",
+        "18:09",
+        "18:51",
+        "19:12",
+        "20:19",
+        "21:10",
+        "21:34",
+        "22:16",
+        "23:21",
+        "24:05",
+        "25:41",
+        "26:14",
+        "27:24",
+        "28:26",
+        "29:30",
+        "30:57"
+      ],
+      "confidence": 0.94,
+      "notes": "Chief Science Correspondent who operates the Chet Guy the Science Eyes desk alongside synthetic AI co-host ChetAI. Specializes in investigative science reporting and technical analysis."
+    },
+    {
+      "name": "ChetAI",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [
+        "12:03",
+        "12:45",
+        "13:05",
+        "14:09",
+        "15:13",
+        "15:54",
+        "16:37",
+        "17:04",
+        "18:09",
+        "18:51",
+        "19:12",
+        "20:19",
+        "21:10",
+        "21:34",
+        "22:16",
+        "23:21",
+        "24:05",
+        "25:41",
+        "26:14",
+        "27:24",
+        "28:26",
+        "29:30",
+        "30:57"
+      ],
+      "confidence": 0.96,
+      "notes": "Synthetic neural network co-host of Chet Guy the Science Eyes. Provides real-time data analysis, translates foreign medical literature, and assists Chet with technical queries. Operates simultaneously with Chet on screen."
+    },
+    {
+      "name": "Pepito",
+      "canonical_name": "Pepito the Dog",
+      "speaking": false,
+      "timestamps": [
+        "00:06",
+        "01:14",
+        "08:40",
+        "09:22",
+        "10:27",
+        "11:41",
+        "12:03",
+        "13:05",
+        "14:09",
+        "15:13",
+        "15:54",
+        "16:37",
+        "17:04",
+        "18:09",
+        "19:12",
+        "20:19",
+        "21:10",
+        "21:34",
+        "22:16",
+        "23:21",
+        "24:05",
+        "25:41",
+        "26:14",
+        "27:24",
+        "28:26",
+        "29:30",
+        "30:57"
+      ],
+      "confidence": 0.98,
+      "notes": "Executive producer and network mascot. Functions as both host and production overseer, frequently interacting with chat and coordinating segment transitions."
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Munch-Crum Rivalry",
+      "beat": "Ongoing political debate with escalating personal attacks and historical references",
+      "timestamp": "14:09",
+      "details": "Munch and Crum engage in a prolonged debate focused on political ideology, with Crum referencing his legendary 'Dick Punch' wager and Munch maintaining his combative stance. Their exchanges highlight the network's tradition of polarized political discourse."
+    },
+    {
+      "storyline": "Crum Dick Punch Resolution",
+      "beat": "Resolved/Claimed Conclusion",
+      "timestamp": "21:10",
+      "details": "The Crum Dick Punch storyline reaches its conclusion following the Beyblade Tournament arc, marking a significant narrative milestone for the show."
+    },
+    {
+      "storyline": "Crypto Zeu$ AI Development",
+      "beat": "Active Development",
+      "timestamp": "13:05-14:53",
+      "details": "Brandon (CryptoZeu$) continues his gaming and digital culture reporting, with recent segments focusing on AI-generated content, cryptocurrency trends, and retro gaming analysis."
+    },
+    {
+      "storyline": "Unibob Awareness Campaign",
+      "beat": "Production Phase",
+      "timestamp": "01:46-02:05",
+      "details": "DJ C4 hosts a Unibob awareness campaign song featuring Reba Macklemore, combining music production with public health messaging about gender identity representation."
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "ChetAI",
+      "fact": "ChetAI is a synthetic neural network co-host that operates from the studio monitors alongside Chet. It possesses extensive training data and can translate foreign medical literature, though it occasionally exhibits glitches in speech recognition.",
+      "timestamp": "12:03",
+      "confidence": 0.93
+    },
+    {
+      "entity": "Chet",
+      "fact": "Chet Manscape uses specialized blue-light-filtering eyewear and maintains a distinctive appearance with large laboratory optical microscope positioned directly on the news desk.",
+      "timestamp": "12:03",
+      "confidence": 0.97
+    },
+    {
+      "entity": "Munch",
+      "fact": "Ralph Munchcut's disheveled silver hair and combative demeanor make him the network's primary political counterweight to Crum, representing traditional conservative perspectives.",
+      "timestamp": "08:40",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Pepito",
+      "fact": "As the network's canine mascot, Pepito serves as both host and executive producer, with his signature 'I'm the dog that produces the show' introduction becoming a staple of BIN broadcasts.",
+      "timestamp": "00:06",
+      "confidence": 0.99
+    },
+    {
+      "entity": "CryptoZeu$",
+      "fact": "Brandon (CryptoZeu$) is a resident gaming correspondent who frequently covers retro gaming culture and digital subcultures, often blending nostalgic content with contemporary tech trends.",
+      "timestamp": "13:05",
+      "confidence": 0.91
+    },
+    {
+      "entity": "AI Rooney",
+      "fact": "AI Rooney is the network's retired cyborg grievance commentator who provides escalating rants on audience-submitted topics, eventually leading to his permanent retirement due to offensive content violations.",
+      "timestamp": "15:54",
+      "confidence": 0.85
+    }
+  ],
+  "_meta": {
+    "vod_id": "CPQbEcWhowI",
+    "model": "liquid/lfm-2.5-2.6b:free",
+    "transcript_lines": 331
+  }
+}

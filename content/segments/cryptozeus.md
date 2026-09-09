@@ -40,6 +40,7 @@ Brandon's gameplay is consistently disrupted by his mother shouting through the 
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | 01:12:48 | Brandon Plays Intelligent Qube & Gooters Wet Wings: Brandon struggles with keyboard controls while playing *Intelligent Qube* (I.Q.) on PS1 emulation, argues with his mother, and plugs Gooters' $59.99 soggy cola-dipped chicken skins. |
@@ -63,5 +64,6 @@ Brandon's gameplay is consistently disrupted by his mother shouting through the 
 | [[episodes/2026-06-01|2026-06-01]] | 02:18:05 | Maple Story Gameplay & Character Creation: Brandon plays Maple Story, creates a character named 'Not Hit Less,' and discusses game mechanics with Case. Includes a 'Hundred Barts' thread promotion. |
 | [[episodes/2026-05-29|2026-05-29]] | 02:04:42 | Boogerman Speedrun & Mom Interruptions: Brandon plays Boogerman, dealing with controller issues and his mother's interruptions. The segment includes a speedrun attempt and a discussion about the game's difficulty and strategies. |
 | [[episodes/2026-05-28|2026-05-28]] | 30:12 | Retro Game Playthroughs: Brandon (CryptoZeu$) conducts deep-dive playthroughs of vintage DOS classics and retro simulation titles from his bedroom studio, blending gaming commentary with technical nostalgia. |
+| [[episodes/2026-05-26|2026-05-26]] | 14:00 | Gaming & Digital Culture Report: Resident gaming correspondent Brandon (CryptoZeu$) conducts deep-dive playthroughs of retro games and discusses digital culture trends, including AI-generated content and cryptocurrency-related topics. |
 
 See also: [[../characters/cryptozeus|Brandon (CryptoZeu$)]], [[../characters/brandons-mother|Brandon's Mother]], [[index|Broadcast Segments]].

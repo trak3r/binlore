@@ -38,6 +38,7 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | Oversees the long-delayed Rock-afire Gorilla execution against Crum. Caught in the catastrophic backblast when the machine explodes, incinerating him into a living, talking skeleton. Insists his skeletal form highlights superior bone structure, debates Crum on Crayola vs. RoseArt, and promises to haunt the desk indefinitely. |
@@ -56,8 +57,10 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity. |
 | [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (disheveled silver hair). Defends reality-TV politicians, endorses Gooters, mocks Crum's hairline. |
 | [[episodes/2026-06-05|2026-06-05]] | Senior debate analyst with distinctive disheveled appearance and confrontational debate style. |
+| [[episodes/2026-05-26|2026-05-26]] | Senior debate analyst known for his disheveled silver hair and combative political style. Engages in heated exchanges with Crum and frequently references his 'Dick Punch' wager storyline. |
 
 ## Notable moments
+
 
 
 
@@ -81,3 +84,4 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 - **[06:00]** ([[episodes/2026-06-19|2026-06-19]]): Munch is a senior debate analyst known for his disheveled appearance and combative political stance, frequently clashing with Crum in televised debates.
 - **[01:14:00]** ([[episodes/2026-06-18|2026-06-18]]): Completed approximately eight years of improv training between 1991-1998; took class with actor later cast as extra in Anchorman.
 - **[01:56:33]** ([[episodes/2026-06-08|2026-06-08]]): Spent summers in Macedonia where 'the ancient world had different views' on same-sex relations, implying bipartisan sexual history.
+- **[08:40]** ([[episodes/2026-05-26|2026-05-26]]): Ralph Munchcut's disheveled silver hair and combative demeanor make him the network's primary political counterweight to Crum, representing traditional conservative perspectives.

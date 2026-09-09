@@ -42,6 +42,7 @@ The audience-interactive viral media review desk on *Barely Informed News*.
 
 
 
+
 | Episode | Timestamp | Notes |
 |---|---|---|
 | [[../episodes/2026-09-04|2026-09-04]] | 01:08:14 | Former producer [[../characters/peter-gibbon|Peter Gibbon]] commandeers the desk to review viral clips alongside Case before Blackwell provides an executive update on Crum's impending robotic gorilla forfeit. |
@@ -58,3 +59,4 @@ The audience-interactive viral media review desk on *Barely Informed News*.
 | [[episodes/2026-06-08|2026-06-08]] | 01:14:33 | Trailer Review: The Giver 2, Saw Genesis, My Dream Is Yours, Dave the Driver, Resident Evil: Case and off-screen voices watch and rate vintage and new trailers: The Giver 2: Dark Hero (ROI-based marketing), Saw Genesis (WWII jaw-ripping), 1949 musical My Dream Is Yours, pixel-art game Dave the Driver DLC, and Resident Evil 9 reveal trailer. Case ranks them 3.42–4.75 stars. |
 | [[episodes/2026-06-01|2026-06-01]] | 01:02:04 | Viral Media Review & Horse Genre: Case reviews a clip of his past screaming and discusses 'horse genre' content, including a story about a horse getting a new saddle. |
 | [[episodes/2026-05-29|2026-05-29]] | 01:34:49 | Movie Trailers & Epstein Island: Case reviews movie trailers including Dead Howling, Clayface, and Bring Me the Beauties, which transitions into a discussion about Jeffrey Epstein and cults. The segment ends with a shrimp-themed food critic debate. |
+| [[episodes/2026-05-26|2026-05-26]] | 15:30 | Viral Media Review: Field correspondent Trip Bradstein interviews park visitors in a public park, gathering 'on-the-street' opinions on viral content submitted by viewers. |

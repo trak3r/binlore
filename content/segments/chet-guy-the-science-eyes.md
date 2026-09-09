@@ -41,6 +41,7 @@ Chet conducts deep-dive inquiries into peer-reviewed medical publications, anato
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | 1:03:22 | Desk slips and says "scientists." Chet and [[../characters/chet-ai|ChetAI]] investigate a Brazilian Journal of Plastic Surgery proportion study, delivering the academic consensus that "all boobs is good." |
@@ -51,3 +52,4 @@ Chet conducts deep-dive inquiries into peer-reviewed medical publications, anato
 | [[episodes/2026-06-15|2026-06-15]] | 34:58 | Triple-Penis Donor Investigation: Chet and ChetAI investigate a man who donated his body to science with three penises, triggering the Science Eyes segment. |
 | [[episodes/2026-06-05|2026-06-05]] | 12:21 | Science Investigation Desk: Chief Science Correspondent Chet leads a specialized science desk with his synthetic AI co-host ChetAI. The segment explores AI's growing influence on finance and entertainment, touching on ethical concerns about generative AI and speculative economic trends. |
 | [[episodes/2026-05-28|2026-05-28]] | 01:00:23 | Investigative Science Desk: Chet (Chet Manscape) utilizes his laboratory microscope to examine the Pettichat pet translator technology, questioning its accuracy and potential ethical implications for animal communication. |
+| [[episodes/2026-05-26|2026-05-26]] | 12:00 | Science Investigation Desk: Chief Science Correspondent Chet (Chet Manscape) leads his dual-host desk with ChetAI, conducting investigations into AI capabilities, medical research, and technology trends. The segment includes detailed lab work with Chet's microscope and AI-assisted analysis. |

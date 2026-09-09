@@ -46,6 +46,7 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Activated during the Brazilian plastic surgery ratio review; discloses its anatomical training data, attempts rogue generative modeling, and translates foreign medical literature for Chet. |
@@ -55,8 +56,10 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 | [[episodes/2026-07-11|2026-07-11]] | Synthetic neural co-host; referenced indirectly as the lab technician providing Chet with 'healing affirmations'. |
 | [[episodes/2026-06-15|2026-06-15]] | Synthetic AI co-host, assists in science investigation. |
 | [[episodes/2026-06-05|2026-06-05]] | Synthetic neural network co-host operating from studio monitors, providing data-driven commentary on AI topics. |
+| [[episodes/2026-05-26|2026-05-26]] | Synthetic neural network co-host of Chet Guy the Science Eyes. Provides real-time data analysis, translates foreign medical literature, and assists Chet with technical queries. Operates simultaneously with Chet on screen. |
 
 ## Notable moments
+
 
 
 
@@ -67,3 +70,5 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 - **[01:20:45]** ([[episodes/2026-08-19|2026-08-19]]): ChetAI claims vast amounts of boob training data and attempts to create a famous graph correlating fart power to human health.
 - **[12:21]** ([[episodes/2026-06-05|2026-06-05]]): ChetAI is frequently misidentified by viewers as 'Skynce', 'Chad', or other nicknames due to its synthetic nature and occasional visual glitches.
 - **[12:45]** ([[episodes/2026-06-05|2026-06-05]]): Chet has developed a reputation for demanding rigorous scientific methodology while simultaneously embracing the absurdity of modern AI integration into daily life.
+- **[12:03]** ([[episodes/2026-05-26|2026-05-26]]): ChetAI is a synthetic neural network co-host that operates from the studio monitors alongside Chet. It possesses extensive training data and can translate foreign medical literature, though it occasionally exhibits glitches in speech recognition.
+- **[12:03]** ([[episodes/2026-05-26|2026-05-26]]): Chet Manscape uses specialized blue-light-filtering eyewear and maintains a distinctive appearance with large laboratory optical microscope positioned directly on the news desk.

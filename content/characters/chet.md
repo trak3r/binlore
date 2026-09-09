@@ -41,6 +41,7 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-02|2026-09-02]] | Triggered after the news desk utters "scientists"; reviews a Brazilian Journal of Plastic Surgery aesthetic proportion study alongside [[chet-ai|ChetAI]], determining that "all boobs is good." |
@@ -51,8 +52,10 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2026-06-15|2026-06-15]] | Chief science correspondent, investigates triple-penis donor. |
 | [[episodes/2026-06-05|2026-06-05]] | Chief science correspondent running the specialized science desk with ChetAI as synthetic co-host. |
 | [[episodes/2026-06-03|2026-06-03]] | Chief Science Correspondent. Co-hosts news desk, debates politics with Case, reveals father owns oil field, reacts to AI Rooney failures. |
+| [[episodes/2026-05-26|2026-05-26]] | Chief Science Correspondent who operates the Chet Guy the Science Eyes desk alongside synthetic AI co-host ChetAI. Specializes in investigative science reporting and technical analysis. |
 
 ## Notable moments
+
 
 
 
@@ -70,3 +73,4 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 - **[01:07:34]** ([[episodes/2026-06-15|2026-06-15]]): Chet's Science Eyes segment is triggered by the mention of 'sky ends' in the context of a body donation story.
 - **[12:45]** ([[episodes/2026-06-05|2026-06-05]]): Chet has developed a reputation for demanding rigorous scientific methodology while simultaneously embracing the absurdity of modern AI integration into daily life.
 - **[28:49]** ([[episodes/2026-06-03|2026-06-03]]): Chief Science Correspondent Chet Manscape's father owns an oil field, providing Chet with discounted gas.
+- **[12:03]** ([[episodes/2026-05-26|2026-05-26]]): Chet Manscape uses specialized blue-light-filtering eyewear and maintains a distinctive appearance with large laboratory optical microscope positioned directly on the news desk.

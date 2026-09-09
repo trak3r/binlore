@@ -59,6 +59,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | Opens the Season 3 finale from the Producer Cam; leads the broadcast sign-off song and offers to consume any loose skin from Munch following the studio inferno. |
@@ -89,8 +90,10 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 | [[episodes/2026-06-03|2026-06-03]] | Executive Producer. Canine broadcast executive appearing via Producer Cam. Opens show, manages sub goals, discusses Bart Simpson tattoo logistics. |
 | [[episodes/2026-05-29|2026-05-29]] | Executive producer opening the show with his signature intro. |
+| [[episodes/2026-05-26|2026-05-26]] | Executive producer and the network's canine mascot. Opens every broadcast with his signature 'I'm Pepito, I'm the dog that produces the show' intro. Remains present throughout the entire episode. |
 
 ## Notable moments
+
 
 
 
@@ -132,3 +135,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[02:47:40]** ([[episodes/2026-06-08|2026-06-08]]): Pepito Moss celebration scheduled for July 6 (a Monday), recognized as official network holiday.
 - **[00:06]** ([[episodes/2026-06-03|2026-06-03]]): Executive Producer Pepito is a canine broadcast executive who opens every show from the control room via Producer Cam, identifying as 'the dog that produces the show.'
 - **[00:08]** ([[episodes/2026-05-29|2026-05-29]]): Pepito opens broadcasts with his signature 'I'm Pepito, I'm the dog that produces the show' intro.
+- **[00:06]** ([[episodes/2026-05-26|2026-05-26]]): As the network's canine mascot, Pepito serves as both host and executive producer, with his signature 'I'm the dog that produces the show' introduction becoming a staple of BIN broadcasts.
