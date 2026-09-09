@@ -1,12 +1,82 @@
 # BIN Lore
 
-Unofficial fan lore wiki for **[Barely Informed News](https://www.twitch.tv/caseblackwell)** — the late-night satirical news broadcast anchored by Case Blackwell on Twitch.
+**Autonomous media → knowledge pipeline:** watch a Twitch broadcast, transcribe it locally, extract structured lore with an LLM, and publish a searchable wiki — unattended.
 
-Tracks anchors, correspondents, recurring segments, storylines, and telecasts as broadcasts happen live. Built with [Quartz](https://quartz.jzhao.xyz/) and hosted on [GitHub Pages](https://trak3r.github.io/binlore/).
+Live site: **[trak3r.github.io/binlore](https://trak3r.github.io/binlore/)** · Source domain: [Barely Informed News](https://www.twitch.tv/caseblackwell) (Case Blackwell)
+
+[![Wiki homepage](https://github.com/trak3r/binlore/releases/download/media-assets/binlore-wiki-home.png)](https://trak3r.github.io/binlore/)
+
+## Why this exists
+
+Most “AI demos” stop at a chat transcript. BIN Lore is an end-to-end production loop: resilient VOD ingest, local speech-to-text, canon-aware LLM extraction, idempotent wiki writes, Quartz compile validation, and GitHub Pages deploy. The public artifact is a living fan wiki; the engineering is a repeatable agentic content factory.
+
+## Features
+
+- **VOD ingest** — `yt-dlp` audio-only download from Twitch, with automatic YouTube-archive fallback when Twitch retention expires
+- **Local transcription** — `faster-whisper` timestamped transcripts (no cloud STT required)
+- **Canon-aware extraction** — OpenRouter LLM prompts seeded with existing characters / segments / storylines so ASR name errors reconcile to wiki canon
+- **Idempotent wiki updates** — episode rundowns, character appearance tables, storyline beats, segment occurrence logs
+- **Screencap CDN** — ffmpeg frame capture hosted on a permanent GitHub Release asset CDN (repo stays binary-light)
+- **Unattended batch** — `binlore process-all` with disk hygiene, retries, Quartz build gates, and per-episode git commits
+- **Published site** — Quartz wiki on GitHub Pages with graph view, backlinks, and full-text search
+
+## Pipeline
+
+```text
+Twitch / YouTube VOD
+        │
+        ▼
+┌───────────────────┐
+│  binlore ingest   │  audio-only download + Whisper transcript
+└─────────┬─────────┘
+          │
+          ▼
+┌───────────────────┐
+│  binlore extract  │  OpenRouter LLM → structured lore JSON
+└─────────┬─────────┘
+          │
+          ▼
+┌───────────────────┐
+│ binlore update-wiki│  characters · segments · storylines · episodes
+└─────────┬─────────┘
+          │
+          ▼
+┌───────────────────┐
+│  Quartz + Pages   │  validate build → deploy live wiki
+└───────────────────┘
+```
+
+[![Character page](https://github.com/trak3r/binlore/releases/download/media-assets/binlore-character-page.png)](https://trak3r.github.io/binlore/characters/case-blackwell)
+
+## Quick start
+
+```bash
+# deps: ffmpeg, Node 22+, Python 3.11+
+npm ci
+cd tools && python3 -m venv .venv && source .venv/bin/activate && pip install -e . && cd ..
+cp tools/.env.example tools/.env   # add OPENROUTER_API_KEY
+
+./binlore vods
+./binlore ingest --latest
+./binlore extract --latest
+./binlore update-wiki --latest
+npx quartz build --serve          # http://localhost:8080
+```
+
+Unattended backlog (370+ historical streams):
+
+```bash
+./binlore process-all --status
+./binlore process-all             # resilient loop with cleanup + commits
+```
 
 > **Legal Disclaimer:** Unofficial, non-commercial fan wiki and documentation project. Not affiliated with, endorsed by, or sponsored by Case Blackwell, Barely Informed News, or Twitch. All character names, likenesses, trademarks, and media assets belong to their respective copyright holders and are referenced under fair use (17 U.S.C. § 107) for commentary, criticism, and archival purposes. Not operated for profit. See [`content/disclaimer.md`](content/disclaimer.md) for full legal disclosures.
 
 ---
+
+## Operator guide
+
+Detail below is for running and extending the pipeline. Skip to [Setup & Prerequisites](#setup--prerequisites) if you already know the shape of the system.
 
 ## Where Downloaded VODs & Transcripts Live Locally
 
@@ -448,4 +518,4 @@ Content lives in [`content/`](content/):
 
 ## License
 
-Quartz framework code is licensed under [MIT](LICENSE.txt). Wiki content is unofficial fan documentation for personal and non-commercial use.
+MIT — see [LICENSE.txt](LICENSE.txt). Quartz is © jackyzha0; binlore tooling and customizations are © Thomas Davis. Wiki content is unofficial fan documentation for personal and non-commercial use.
