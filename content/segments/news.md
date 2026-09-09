@@ -48,6 +48,7 @@ Lead anchor [[../characters/case-blackwell|Case Blackwell]] presides over the an
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | 12:21 | Season 3 Finale News Block: Coverage of the White House Lanterns trailer, Confederate memorial policies, Trump's defense of AI data centers ('have fun being poor'), GPT-6 Astro beating Portal, Ben Hooper UPI dispatches, and an orangutan vs sumo wrestler archive clip. |
@@ -78,3 +79,4 @@ Lead anchor [[../characters/case-blackwell|Case Blackwell]] presides over the an
 | [[episodes/2026-06-03|2026-06-03]] | 24:34 | News Desk: Iran War Vote, CA Gubernatorial Primary, LA Mayor Race: Case Blackwell anchors with Chief Science Correspondent Chet Manscape. Coverage: House vote to end Iran war (blow to Trump), Lebanon-Israel ceasefire, NJ-12 Dem primary (Adam Hamelway), CA gubernatorial primary (Hilton/Bakara/Steyer), LA mayor primary (Bass/Pratt/Raman). Chet reveals father owns oil field. Spencer Pratt candidacy debated. |
 | [[episodes/2026-06-01|2026-06-01]] | 27:35 | Weaponization Inquiry & Political Commentary: Case covers Iran-Israel tensions, Trump's weaponization fund delays, UK visa denials for left-wing creators, and critiques of media coverage. Includes a segment on 'agro crag' politics and a 'six seven' slang discussion. |
 | [[episodes/2026-05-29|2026-05-29]] | 15:12 | Trump Stakes, Beauty Cream, and Ben Hooper: Case covers Trump's Kennedy Center renaming, Brad Pitt's penis cream lawsuit, and a feel-good story about a WWII veteran wing walker. The segment includes a digression on beauty penis cream and a tribute to Ben Hooper's viral journalism. |
+| [[episodes/2026-05-28|2026-05-28]] | 09:26 | Breaking International & Domestic Updates: Case Blackwell delivers the flagship news segment covering Iran-U.S. ceasefire negotiations, Trump's diplomatic role, the Pettichat pet translator controversy, Bugs Bunny sexualization allegations, and the Harambe conspiracy involving toilet paper. |

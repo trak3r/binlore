@@ -32,11 +32,13 @@ While lead anchor [[../characters/case-blackwell|Case Blackwell]] is the most fr
 
 ## Known occurrences
 
+
 | Episode | Timestamp | Notes |
 |---|---|---|
 | [[../episodes/2026-06-22|2026-06-22]] | 01:24:35 | Case sits down for a therapy session with Dr. Chath, who reads viewer-submitted `!h` prompts, attempts the Dougie on his chair, references wrestling, and watches Kendelle drift through the studio like a ghost. |
 | [[../episodes/2026-07-11|2026-07-11]] | 01:32:26 | Dr. Chath conducts a therapy and looks-maxing consultation with Case, addressing Case's haircut crisis and Denver travel nightmare while receiving healing affirmations. |
 | [[../episodes/2026-07-17|2026-07-17]] | 01:34:39 | Dr. Chath presides over an advanced military-grade therapy session, reviewing viewer inquiries, Kendelle's visit to the office for sticky rice, and checking Twitch partner viewer metrics before billing $500/hour. |
+| [[episodes/2026-05-28|2026-05-28]] | 01:21:27 | Interactive Mental Wellness: Dr. Chath (Cheth) provides counseling to viewers' submitted life dilemmas via chat, offering therapeutic guidance in a high-pressure broadcast environment. |
 
 ## Related Pages
 

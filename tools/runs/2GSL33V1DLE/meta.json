@@ -1,0 +1,19 @@
+{
+  "vod_id": "2GSL33V1DLE",
+  "title": "Quick Thursday News Squirt",
+  "url": "https://www.youtube.com/watch?v=2GSL33V1DLE",
+  "duration_seconds": 6366,
+  "duration": "1:46:06",
+  "timestamp": 1779926400,
+  "aired_at": "2026-05-28T00:00:00+00:00",
+  "date": "2026-05-28",
+  "ingested_at": "2026-09-09T11:20:14.020879+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "2GSL33V1DLE",
+  "yt_url": "https://www.youtube.com/watch?v=2GSL33V1DLE",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-05-28"
+}

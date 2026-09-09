@@ -1,0 +1,220 @@
+{
+  "episode_summary": "BIN's Quick Thursday News Squirt delivers a dense blend of international diplomacy, domestic political maneuvering, and entertainment controversies. Case Blackwell leads the news desk through Iran ceasefire negotiations and Trump's diplomatic efforts, while the Munch & Crum debate spirals into a Bugs Bunny controversy. Chet investigates the Pettichat pet translator technology, and CryptoZeu$ hosts a retro gaming segment. The show closes with a therapy session and hints at ongoing conspiracy theories surrounding Harambe.",
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "08:38",
+      "canonical_segment": "Pre-show / Cold Open",
+      "title": "Pepito Intro & Studio Skeleton Bit",
+      "notes": "Executive Producer Pepito opens the broadcast with his signature dog persona introduction, establishing the show's tone and introducing the studio environment before transitioning to the main news programming."
+    },
+    {
+      "start": "09:26",
+      "end": "16:09",
+      "canonical_segment": "News",
+      "title": "Breaking International & Domestic Updates",
+      "notes": "Case Blackwell delivers the flagship news segment covering Iran-U.S. ceasefire negotiations, Trump's diplomatic role, the Pettichat pet translator controversy, Bugs Bunny sexualization allegations, and the Harambe conspiracy involving toilet paper.",
+      "characters": [
+        {
+          "name": "Case Blackwell",
+          "canonical_name": "Case Blackwell",
+          "speaking": true,
+          "timestamps": [
+            "09:26",
+            "16:09"
+          ],
+          "confidence": 0.98,
+          "notes": "Lead anchor and managing editor who delivers the core news updates with characteristic deadpan delivery."
+        },
+        {
+          "name": "Pepito",
+          "canonical_name": "Pepito",
+          "speaking": false,
+          "timestamps": [
+            "00:08",
+            "00:38"
+          ],
+          "confidence": 0.95,
+          "notes": "Executive producer opening the show with his dog persona, setting the broadcast tone."
+        },
+        {
+          "name": "Chet",
+          "canonical_name": "Chet Manscape",
+          "speaking": true,
+          "timestamps": [
+            "01:00:23",
+            "01:22:00"
+          ],
+          "confidence": 0.92,
+          "notes": "Chief science correspondent who investigates the Pettichat pet translator technology and operates the science desk microscope."
+        },
+        {
+          "name": "ChetAI",
+          "canonical_name": "ChetAI",
+          "speaking": true,
+          "timestamps": [
+            "01:00:23",
+            "01:22:00"
+          ],
+          "confidence": 0.88,
+          "notes": "Synthetic neural network co-host appearing on the science desk monitors, providing digital analysis of Chet's investigations."
+        }
+      ]
+    },
+    {
+      "start": "31:16",
+      "end": "??",
+      "canonical_segment": "Munch & Crum",
+      "title": "Political Debate: Bugs Bunny Controversy",
+      "notes": "The flagship debate segment pits Munch (Ralph Munchcut) against Crum (Leonard Crum) on the Bugs Bunny sexualization controversy, with Munch defending the cartoon character's artistic intent and Crum expressing concern about cultural implications.",
+      "characters": [
+        {
+          "name": "Munch (Ralph Munchcut)",
+          "canonical_name": "Ralph Munchcut",
+          "speaking": true,
+          "timestamps": [
+            "31:16",
+            "??"
+          ],
+          "confidence": 0.96,
+          "notes": "Senior debate analyst known for his disheveled silver hair and combative political commentary style."
+        },
+        {
+          "name": "Crum (Leonard Crum)",
+          "canonical_name": "Leonard Crum",
+          "speaking": true,
+          "timestamps": [
+            "31:16",
+            "??"
+          ],
+          "confidence": 0.94,
+          "notes": "Senior debate analyst distinguished by his hollow-eyed stare and struggles with gambling debts."
+        }
+      ]
+    },
+    {
+      "start": "01:00:23",
+      "end": "01:22:00",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Investigative Science Desk",
+      "notes": "Chet (Chet Manscape) utilizes his laboratory microscope to examine the Pettichat pet translator technology, questioning its accuracy and potential ethical implications for animal communication.",
+      "characters": [
+        {
+          "name": "Chet (Chet Manscape)",
+          "canonical_name": "Chet Manscape",
+          "speaking": true,
+          "timestamps": [
+            "01:00:23",
+            "01:22:00"
+          ],
+          "confidence": 0.97,
+          "notes": "Chief science correspondent who heads the Chet Guy the Science Eyes desk with specialized equipment and analytical expertise."
+        },
+        {
+          "name": "ChetAI",
+          "canonical_name": "ChetAI",
+          "speaking": true,
+          "timestamps": [
+            "01:00:23",
+            "01:22:00"
+          ],
+          "confidence": 0.85,
+          "notes": "Synthetic neural network co-host appearing on the science desk monitors, providing digital analysis of Chet's investigations."
+        }
+      ]
+    },
+    {
+      "start": "30:12",
+      "end": "??",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Retro Game Playthroughs",
+      "notes": "Brandon (CryptoZeu$) conducts deep-dive playthroughs of vintage DOS classics and retro simulation titles from his bedroom studio, blending gaming commentary with technical nostalgia.",
+      "characters": [
+        {
+          "name": "Brandon (CryptoZeu$)",
+          "canonical_name": "Brandon",
+          "speaking": true,
+          "timestamps": [
+            "30:12",
+            "??"
+          ],
+          "confidence": 0.93,
+          "notes": "Resident gaming correspondent broadcasting from his bedroom studio, focusing on retro gaming content."
+        }
+      ]
+    },
+    {
+      "start": "01:21:27",
+      "end": "01:32:28",
+      "canonical_segment": "Therapy",
+      "title": "Interactive Mental Wellness",
+      "notes": "Dr. Chath (Cheth) provides counseling to viewers' submitted life dilemmas via chat, offering therapeutic guidance in a high-pressure broadcast environment.",
+      "characters": [
+        {
+          "name": "Dr. Chath",
+          "canonical_name": "Dr. Chath",
+          "speaking": true,
+          "timestamps": [
+            "01:21:27",
+            "01:32:28"
+          ],
+          "confidence": 0.95,
+          "notes": "Minor-character therapist operating the Therapy desk, handling anonymous viewer prompts and providing mental wellness counseling."
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "The storyline reached its cataclysmic climax on September 7, 2026, when a catastrophic mechanical failure occurred during the execution of the Crum-Dick Punch wager, leading to significant consequences.",
+      "timestamp": "2026-09-07"
+    },
+    {
+      "storyline": "Bugs Bunny Sexualization Controversy",
+      "beat": "Ongoing debate about whether Bugs Bunny is a separate entity from the classic cartoon character, with Munch arguing for artistic interpretation and Crum raising concerns about cultural impact.",
+      "timestamp": "2026-05-28"
+    },
+    {
+      "storyline": "Pettichat Pet Translator Scandal",
+      "beat": "The Justice Department launched a criminal investigation into the Pettichat AI-powered pet translator device following allegations of misleading marketing and potential privacy violations.",
+      "timestamp": "2026-05-28"
+    },
+    {
+      "storyline": "Harambe Conspiracy Theory",
+      "beat": "A viral conspiracy theory emerged linking Harambe's death to Big Toilet Paper distribution, suggesting systemic exploitation of the gorilla's legacy for commercial gain.",
+      "timestamp": "2026-05-28"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum Dick Punch",
+      "fact": "The storyline reached its cataclysmic climax on September 7, 2026, marking the final resolution of the long-running Crum-Dick Punch wager arc.",
+      "timestamp": "2026-09-07",
+      "confidence": 0.95
+    },
+    {
+      "entity": "Pettichat Device Launch",
+      "fact": "The Justice Department launched a criminal investigation into the Pettichat pet translator technology following allegations of misleading claims about its accuracy and functionality.",
+      "timestamp": "2026-05-28",
+      "confidence": 0.92
+    },
+    {
+      "entity": "Harambe Conspiracy",
+      "fact": "A viral conspiracy theory claimed Harambe was killed by Big Toilet Paper, suggesting systemic exploitation of the gorilla's legacy for commercial purposes.",
+      "timestamp": "2026-05-28",
+      "confidence": 0.88
+    },
+    {
+      "entity": "Chet's Microscope Investigation",
+      "fact": "Chet (Chet Manscape) utilized his laboratory microscope to investigate the Pettichat pet translator technology, examining its claims of 95% accuracy in decoding animal vocalizations.",
+      "timestamp": "2026-05-28",
+      "confidence": 0.89
+    }
+  ],
+  "_meta": {
+    "vod_id": "2GSL33V1DLE",
+    "model": "liquid/lfm-2.5-2.6b:free",
+    "transcript_lines": 191
+  }
+}

@@ -40,6 +40,7 @@ Broadcast under the title **Munch & Crum**, the segment features rotating 3D net
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-09-07|2026-09-07]] | 01:36:23 | The Climax: Any Last Words? & The Gorilla Punch Execution: Munch and Crum face off over 'Any Last Words?' ahead of the long-awaited gambling forfeit. Crum boasts of conditioning his groin with 45-pound logs. When the Rock-afire mechanical gorilla fires the punch, a catastrophic explosion vaporizes the gorilla and burns Munch into a talking skeleton, leaving Crum unharmed. |
@@ -61,6 +62,7 @@ Broadcast under the title **Munch & Crum**, the segment features rotating 3D net
 | [[episodes/2026-06-15|2026-06-15]] | 01:09:19 | Body Positivity Debate & Dick Punch Wager: Munch and Crum debate body positivity and penises, with Case intervening to fix Crum's casual attire and reference the unresolved Dick Punch wager. |
 | [[episodes/2026-06-08|2026-06-08]] | 01:43:40 | Reality-TV Politicians, Spencer Pratt, Love Island Auditions, Dubai Honey Bag, Gorilla Dick-Punch Training: Senior debate analysts Munch and Crum clash over whether reality stars belong in politics. Munch defends Pratt's trailer-campaign authenticity; Crum argues for decorum. Personal attacks escalate: Crum's Dubai 'classified' social life, honey-bag stretch therapy, Munch's grey-haired JD Vance resemblance, and Crum's claim he's training his penis to withstand a 50-lb gorilla punch (callback to Crum Dick Punch wager). Munch endorses 'Gooters' for gay Hooters. |
 | [[episodes/2026-06-05|2026-06-05]] | 08:59 | Political Debate Showdown: Senior debate analysts Munch and Crum engage in a heated exchange focused on political dynamics, with Munch defending his position and Crum challenging him regarding the Crum Dick Punch wager and gambling debts. |
+| [[episodes/2026-05-28|2026-05-28]] | 31:16 | Political Debate: Bugs Bunny Controversy: The flagship debate segment pits Munch (Ralph Munchcut) against Crum (Leonard Crum) on the Bugs Bunny sexualization controversy, with Munch defending the cartoon character's artistic intent and Crum expressing concern about cultural implications. |
 
 ## Related Coverage
 
