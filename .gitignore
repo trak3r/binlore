@@ -38,3 +38,4 @@ tools/.venv/
 .env
 .env.*
 !.env.example
+deno.lock
