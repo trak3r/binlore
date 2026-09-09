@@ -21,6 +21,8 @@ tools/runs/**/*.part
 tools/runs/**/*.ytdl
 tools/runs/**/*.log
 tools/runs/*.log
+tools/runs/**/*.pid
+tools/runs/*.pid
 tools/screencaps/
 tools/.venv/
 *.mp3

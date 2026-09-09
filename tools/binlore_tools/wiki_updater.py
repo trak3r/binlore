@@ -6,13 +6,26 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
 
-from .canon import CanonEntity, load_wiki_canon
+from .canon import CanonEntity, is_excluded_external_subject, load_wiki_canon
 from .paths import (
     CONTENT_CHARACTERS,
     CONTENT_EPISODES,
     CONTENT_SEGMENTS,
     CONTENT_STORYLINES,
     RUNS_DIR,
+)
+
+FIXTURE_CHARACTER_SLUGS = frozenset({"pepito", "case-blackwell"})
+FIXTURE_SEGMENT_SLUGS = frozenset({"news", "pre-show", "preshow", "cold-open"})
+UNKNOWN_CHARACTERS_LOG = RUNS_DIR / "unknown-characters.jsonl"
+_EP_DATE_RE = re.compile(r"episodes/(\d{4}-\d{2}-\d{2})")
+_USUAL_APPEARANCE_RE = re.compile(
+    r"opens? (the )?(broadcast|show|episode)|cold[- ]open|"
+    r"signature (intro|greeting|line|canine)|"
+    r"executive producer\.?$|lead anchor|"
+    r"top-of-hour|station sign-on|production countdown|"
+    r"canine broadcast executive",
+    re.I,
 )
 
 
@@ -31,6 +44,7 @@ class UpdateReport:
     segments_updated: list[str] = field(default_factory=list)
     storylines_updated: list[str] = field(default_factory=list)
     indexes_updated: list[str] = field(default_factory=list)
+    unknown_queued: list[str] = field(default_factory=list)
 
 
 def _split_frontmatter_and_body(content: str) -> tuple[str, str]:
@@ -112,6 +126,105 @@ def _append_bullet(section_text: str, new_bullet: str, dedupe_key: str) -> str:
 
     filtered_lines.append(new_bullet)
     return "\n".join(filtered_lines)
+
+
+def _episode_date_from_row(row: str) -> str:
+    match = _EP_DATE_RE.search(row)
+    if match:
+        return match.group(1)
+    return "9999-99-99"
+
+
+def _sort_table_rows(section_text: str) -> str:
+    """Keep header/separator; sort data rows by episode date ascending."""
+    lines = section_text.splitlines()
+    preamble: list[str] = []
+    header: list[str] = []
+    data_rows: list[str] = []
+    trailing: list[str] = []
+    saw_table = False
+    in_data = False
+    for line in lines:
+        stripped = line.strip()
+        is_row = stripped.startswith("|") and stripped.endswith("|")
+        if is_row:
+            saw_table = True
+            inner = stripped.strip("|")
+            is_sep = set(inner.replace("|", "").replace("-", "").replace(":", "").replace(" ", "")) == set()
+            if not in_data:
+                header.append(line)
+                if is_sep:
+                    in_data = True
+            else:
+                data_rows.append(line)
+        elif not saw_table:
+            preamble.append(line)
+        else:
+            trailing.append(line)
+
+    if not header or not data_rows:
+        return section_text
+
+    data_rows.sort(key=_episode_date_from_row)
+    return "\n".join(preamble + header + data_rows + trailing)
+
+
+def _is_iso_date(value: str) -> bool:
+    return bool(re.fullmatch(r"\d{4}-\d{2}-\d{2}", value))
+
+
+def _backdate_first_seen(frontmatter: str, ep_slug: str) -> tuple[str, bool]:
+    if not _is_iso_date(ep_slug):
+        return frontmatter, False
+    match = re.search(r"^first_seen:\s*(.*)$", frontmatter, re.MULTILINE)
+    if match:
+        current = match.group(1).strip().strip("'\"")
+        if _is_iso_date(current) and current <= ep_slug:
+            return frontmatter, False
+        start, end = match.start(1), match.end(1)
+        return frontmatter[:start] + ep_slug + frontmatter[end:], True
+
+    closing = re.search(r"\n---\s*\n?\s*$", frontmatter)
+    if closing:
+        return frontmatter[: closing.start()] + f"\nfirst_seen: {ep_slug}\n---\n\n", True
+    return frontmatter.rstrip() + f"\nfirst_seen: {ep_slug}\n", True
+
+
+def _is_usual_fixture_appearance(slug: str, notes: str, lore_facts: list[tuple[str, str]]) -> bool:
+    if slug not in FIXTURE_CHARACTER_SLUGS:
+        return False
+    if lore_facts:
+        return False
+    notes = (notes or "").strip()
+    if not notes:
+        return True
+    if len(notes) > 180:
+        return False
+    return bool(_USUAL_APPEARANCE_RE.search(notes))
+
+
+def queue_unknown_character(
+    *,
+    vod_id: str,
+    episode_slug: str,
+    name: str,
+    slug: str,
+    notes: str,
+    confidence: float,
+    speaking: bool,
+) -> None:
+    RUNS_DIR.mkdir(parents=True, exist_ok=True)
+    record = {
+        "vod_id": vod_id,
+        "episode": episode_slug,
+        "name": name,
+        "slug": slug,
+        "notes": notes,
+        "confidence": confidence,
+        "speaking": speaking,
+    }
+    with UNKNOWN_CHARACTERS_LOG.open("a", encoding="utf-8") as handle:
+        handle.write(json.dumps(record, ensure_ascii=False) + "\n")
 
 
 def _match_character_file(name: str, canon: dict[str, list[CanonEntity]]) -> tuple[Path | None, str]:
@@ -250,12 +363,19 @@ def update_character_file(
     content = file_path.read_text(encoding="utf-8")
     fm, body = _split_frontmatter_and_body(content)
     modified = False
+    slug = file_path.stem
+
+    new_fm, fm_changed = _backdate_first_seen(fm, ep_slug)
+    if fm_changed:
+        fm = new_fm
+        modified = True
+
+    skip_appearance = _is_usual_fixture_appearance(slug, char_notes, lore_facts)
 
     # 1. Update Appearances (if appearances section exists, or if not the host)
-    if "## Appearances" in body or file_path.stem != "case-blackwell":
+    if not skip_appearance and ("## Appearances" in body or slug != "case-blackwell"):
         before_app, app_text, after_app = _extract_section(body, "## Appearances")
         if not app_text and "## Appearances" not in body:
-            # Add section before Notable moments or at end
             if "## Notable moments" in body:
                 parts = body.split("## Notable moments", 1)
                 body = f"{parts[0].rstrip()}\n\n## Appearances\n\n## Notable moments{parts[1]}"
@@ -272,6 +392,7 @@ def update_character_file(
             dedupe_key=ep_slug,
             default_headers=("| Episode | Notes |", "|---|---|"),
         )
+        updated_app = _sort_table_rows(updated_app)
         if updated_app != app_text:
             body = f"{before_app}\n{updated_app}\n{after_app}"
             modified = True
@@ -280,7 +401,6 @@ def update_character_file(
     if lore_facts:
         before_mom, mom_text, after_mom = _extract_section(body, "## Notable moments")
         if not mom_text and "## Notable moments" not in body:
-            # Append section before Open questions or at end
             if "## Open questions" in body:
                 parts = body.split("## Open questions", 1)
                 body = f"{parts[0].rstrip()}\n\n## Notable moments\n\n## Open questions{parts[1]}"
@@ -491,6 +611,7 @@ def update_storyline_file(
             modified = True
 
     if modified:
+        updated_beats = _sort_table_rows(updated_beats)
         body = f"{before_beats}\n{updated_beats}\n{after_beats}"
         if not dry_run:
             file_path.write_text(f"{fm}{body.strip()}\n", encoding="utf-8")
@@ -506,6 +627,9 @@ def update_segment_file(
     dry_run: bool = False,
 ) -> bool:
     """Updates Known occurrences in a segment markdown file."""
+    if file_path.stem in FIXTURE_SEGMENT_SLUGS:
+        return False
+
     content = file_path.read_text(encoding="utf-8")
     fm, body = _split_frontmatter_and_body(content)
     before_occ, occ_text, after_occ = _extract_section(body, "## Known occurrences")
@@ -529,6 +653,7 @@ def update_segment_file(
             modified = True
 
     if modified:
+        updated_occ = _sort_table_rows(updated_occ)
         body = f"{before_occ}\n{updated_occ}\n{after_occ}"
         if not dry_run:
             file_path.write_text(f"{fm}{body.strip()}\n", encoding="utf-8")
@@ -540,7 +665,8 @@ def update_wiki_from_extraction(
     vod_id: str,
     *,
     dry_run: bool = False,
-    auto_create_characters: bool = True,
+    auto_create_characters: bool = False,
+    update_storylines: bool = False,
 ) -> UpdateReport:
     """Propagates structured extraction data into Character, Segment, and Storyline wiki pages."""
     run_dir = RUNS_DIR / vod_id
@@ -574,7 +700,7 @@ def update_wiki_from_extraction(
         if ent and fact:
             lore_by_entity.setdefault(ent.lower(), []).append((ts, fact))
 
-    # 1. Update or create Character pages
+    # 1. Update existing Character pages; queue unknowns instead of auto-creating
     detected_chars = extraction.get("characters", [])
     for char_info in detected_chars:
         name = char_info.get("canonical_name") or char_info.get("name") or ""
@@ -585,7 +711,9 @@ def update_wiki_from_extraction(
         speaking = bool(char_info.get("speaking"))
         confidence = float(char_info.get("confidence", 0.0))
 
-        # Collect lore facts for this character
+        if is_excluded_external_subject(str(name), str(notes)):
+            continue
+
         facts: list[tuple[str, str]] = []
         name_lower = name.lower()
         for ent_key, ent_facts in lore_by_entity.items():
@@ -605,25 +733,38 @@ def update_wiki_from_extraction(
                 report.characters_created.append(slug)
                 if "characters/index.md" not in report.indexes_updated:
                     report.indexes_updated.append("characters/index.md")
+        else:
+            if not dry_run:
+                queue_unknown_character(
+                    vod_id=vod_id,
+                    episode_slug=ep_slug,
+                    name=str(name),
+                    slug=slug,
+                    notes=str(notes),
+                    confidence=confidence,
+                    speaking=speaking,
+                )
+            report.unknown_queued.append(str(name))
 
-    # 2. Update Storyline pages
-    storyline_beats_by_file: dict[Path, list[tuple[str, str]]] = {}
-    for st in extraction.get("storylines", []):
-        st_name = st.get("storyline", "")
-        beat = st.get("beat", "")
-        ts = st.get("timestamp", "")
-        if not st_name or not beat:
-            continue
-        story_file = _match_storyline_file(st_name, canon)
-        if story_file and story_file.exists():
-            storyline_beats_by_file.setdefault(story_file, []).append((ts, beat))
+    # 2. Update Storyline pages (opt-in; default deferred to a corpus pass)
+    if update_storylines:
+        storyline_beats_by_file: dict[Path, list[tuple[str, str]]] = {}
+        for st in extraction.get("storylines", []):
+            st_name = st.get("storyline", "")
+            beat = st.get("beat", "")
+            ts = st.get("timestamp", "")
+            if not st_name or not beat:
+                continue
+            story_file = _match_storyline_file(st_name, canon)
+            if story_file and story_file.exists():
+                storyline_beats_by_file.setdefault(story_file, []).append((ts, beat))
 
-    for story_file, beats in storyline_beats_by_file.items():
-        updated = update_storyline_file(story_file, ep_slug, beats, dry_run=dry_run)
-        if updated:
-            report.storylines_updated.append(story_file.stem)
+        for story_file, beats in storyline_beats_by_file.items():
+            updated = update_storyline_file(story_file, ep_slug, beats, dry_run=dry_run)
+            if updated:
+                report.storylines_updated.append(story_file.stem)
 
-    # 3. Update Segment pages
+    # 3. Update Segment pages (fixture desks like News are skipped)
     segment_occ_by_file: dict[Path, list[tuple[str, str, str]]] = {}
     for seg in extraction.get("segments", []):
         seg_title = seg.get("title", "")
@@ -652,3 +793,47 @@ def update_wiki_from_extraction(
             pass
 
     return report
+
+
+def _repair_page_tables(path: Path) -> bool:
+    content = path.read_text(encoding="utf-8")
+    fm, body = _split_frontmatter_and_body(content)
+    modified = False
+
+    dates = _EP_DATE_RE.findall(body)
+    if dates and path.parent.name == "characters":
+        earliest = min(dates)
+        new_fm, fm_changed = _backdate_first_seen(fm, earliest)
+        if fm_changed:
+            fm = new_fm
+            modified = True
+
+    for heading in ("## Appearances", "## Known occurrences", "## Key beats"):
+        if heading not in body:
+            continue
+        before, section, after = _extract_section(body, heading)
+        if not section:
+            continue
+        sorted_section = _sort_table_rows(section)
+        if sorted_section != section:
+            body = f"{before}\n{sorted_section}\n{after}"
+            modified = True
+
+    if modified:
+        path.write_text(f"{fm}{body.strip()}\n", encoding="utf-8")
+    return modified
+
+
+def repair_existing_wiki_pages() -> list[str]:
+    """Date-sort appearance/occurrence/beat tables and backdate first_seen from earliest row."""
+    changed: list[str] = []
+    for directory in (CONTENT_CHARACTERS, CONTENT_SEGMENTS, CONTENT_STORYLINES):
+        if not directory.exists():
+            continue
+        for path in sorted(directory.glob("*.md")):
+            if path.name == "index.md":
+                continue
+            if _repair_page_tables(path):
+                changed.append(str(path.relative_to(directory.parent.parent)))
+    return changed
+

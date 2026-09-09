@@ -6,7 +6,7 @@ aliases:
   - Jeb Noggin
   - Fake Jeb
   - Skin Suit Jeb
-first_seen: 2026-08-14
+first_seen: 2026-06-15
 status: recurring
 tags:
   - character
@@ -49,13 +49,14 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 
 
 
+
 | Episode | Role | Notes |
 |---------|------|-------|
-| [[../episodes/2026-08-14|2026-08-14]] | Segment Host | Debuts [[../segments/how-to-with-jeb|How To with Jeb]] at `[01:22:57]`. Debates his wooden board father about family wealth and brother Jet's app fortune, then covers wood splitting, college self-defense escapes, and dirty dancing. |
-| [[episodes/2026-07-17|2026-07-17]] | How-To host. Co-hosted instructional triple-feature on vocal aerobics, advanced finger snapping, and self-massage. |
-| [[episodes/2026-07-16|2026-07-16]] | Chat references Jeb's expertise in 'getting rid of unwanted' things when discussing Puffy Bear. |
-| [[episodes/2026-06-22|2026-06-22]] | Mentioned in reference to 'the two Jebs' during merch brainstorming. |
 | [[episodes/2026-06-15|2026-06-15]] | Host of 'How To with Jeb', demonstrates Kool-Aid recipe. |
+| [[episodes/2026-06-22|2026-06-22]] | Mentioned in reference to 'the two Jebs' during merch brainstorming. |
+| [[episodes/2026-07-16|2026-07-16]] | Chat references Jeb's expertise in 'getting rid of unwanted' things when discussing Puffy Bear. |
+| [[episodes/2026-07-17|2026-07-17]] | How-To host. Co-hosted instructional triple-feature on vocal aerobics, advanced finger snapping, and self-massage. |
+| [[../episodes/2026-08-14|2026-08-14]] | Segment Host | Debuts [[../segments/how-to-with-jeb|How To with Jeb]] at `[01:22:57]`. Debates his wooden board father about family wealth and brother Jet's app fortune, then covers wood splitting, college self-defense escapes, and dirty dancing. |
 
 ## Notable Quotes
 

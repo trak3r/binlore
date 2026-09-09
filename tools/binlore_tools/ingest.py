@@ -95,6 +95,7 @@ def ingest(
     skip_transcribe: bool = False,
     force_episode: bool = False,
     clean_audio: bool = False,
+    write_stub: bool = True,
 ) -> Path:
     if vod is None:
         vod = resolve_vod(url, latest=latest)
@@ -156,6 +157,9 @@ def ingest(
             clean_run_dir(run_dir)
         raise
 
-    episode_path = write_episode_stub(vod, run_id=vod.id, force=force_episode)
-    print(f"Episode stub: {episode_path.relative_to(run_dir.parents[2])}", flush=True)
+    if write_stub:
+        episode_path = write_episode_stub(vod, run_id=vod.id, force=force_episode)
+        print(f"Episode stub: {episode_path.relative_to(run_dir.parents[2])}", flush=True)
+    else:
+        print("Skipping episode stub (transcribe-only)", flush=True)
     return run_dir

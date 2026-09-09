@@ -3,7 +3,7 @@ title: Rick
 type: character
 aliases:
   - Rick (Host of Amongst the Web)
-first_seen: 2026-09-04
+first_seen: 2026-06-03
 status: recurring
 tags:
   - character
@@ -29,14 +29,15 @@ Rick joined the broadcast on the [[episodes/2026-09-04|2026-09-04 broadcast]] to
 
 
 
+
 | Episode | Notes |
 |---------|-------|
-| [[episodes/2026-09-04|2026-09-04]] | Takes the desk to helm the [[../segments/amongst-the-web|Amongst the Web]] interactive video review desk, conducting tactical evaluations of viral media. |
-| [[episodes/2026-07-20|2026-07-20]] | Field correspondent. Patches in during Brandon's gameplay to provide tactical commentary and strategic advice. |
-| [[episodes/2026-07-16|2026-07-16]] | Investigative media correspondent joins the news desk, providing commentary on Trump's address, JD Vance's couch jokes, and the humanoid robot story. |
-| [[episodes/2026-06-18|2026-06-18]] | Studio news reader and breaking chat correspondent. Appears unexpectedly in Case's house during cold open. Engages in rendition/apartment seizure banter. Harbors rivalry with external journalist Ben Hooper (not a network employee). |
-| [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
 | [[episodes/2026-06-03|2026-06-03]] | Host of Amongst the Web. Referenced in AI Rooney complaint about thin blue line flag at his BBQs. |
+| [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
+| [[episodes/2026-06-18|2026-06-18]] | Studio news reader and breaking chat correspondent. Appears unexpectedly in Case's house during cold open. Engages in rendition/apartment seizure banter. Harbors rivalry with external journalist Ben Hooper (not a network employee). |
+| [[episodes/2026-07-16|2026-07-16]] | Investigative media correspondent joins the news desk, providing commentary on Trump's address, JD Vance's couch jokes, and the humanoid robot story. |
+| [[episodes/2026-07-20|2026-07-20]] | Field correspondent. Patches in during Brandon's gameplay to provide tactical commentary and strategic advice. |
+| [[episodes/2026-09-04|2026-09-04]] | Takes the desk to helm the [[../segments/amongst-the-web|Amongst the Web]] interactive video review desk, conducting tactical evaluations of viral media. |
 
 ## Notable moments
 

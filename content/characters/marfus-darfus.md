@@ -5,7 +5,7 @@ aliases:
   - Marfis Darfus
   - Marf
   - Marv
-first_seen: 2026-08-14
+first_seen: 2026-06-15
 status: recurring
 tags:
   - character
@@ -36,10 +36,11 @@ Lead anchor [[case-blackwell|Case Blackwell]] and in-studio contributor [[lilian
 ## Appearances
 
 
+
 | Episode | Role | Notes |
 |---------|------|-------|
-| [[../episodes/2026-08-14|2026-08-14]] | Guest Desk Anchor | Arrives at `[01:06:30]` to guest-host [[../segments/amongst-the-web|Amongst the Web]], rating submissions from the Discord queue including a *Love Island* confession (`5.5`), an escalator fugue state, a vintage *Family Matters* cop tragedy scene (`6.44`), and a "crotch pot" hiking teriyaki demonstration (`5.0`). |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
+| [[../episodes/2026-08-14|2026-08-14]] | Guest Desk Anchor | Arrives at `[01:06:30]` to guest-host [[../segments/amongst-the-web|Amongst the Web]], rating submissions from the Discord queue including a *Love Island* confession (`5.5`), an escalator fugue state, a vintage *Family Matters* cop tragedy scene (`6.44`), and a "crotch pot" hiking teriyaki demonstration (`5.0`). |
 
 ## Notable Moments
 

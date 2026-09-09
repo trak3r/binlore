@@ -13,3 +13,5 @@ runs/**/*.part
 runs/**/*.ytdl
 runs/**/*.log
 runs/*.log
+runs/**/*.pid
+runs/*.pid

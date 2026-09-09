@@ -3,7 +3,7 @@ title: Tommy Biglaw
 type: character
 aliases:
   - Big Tommy Prosecutor
-first_seen: 2026-08-26
+first_seen: 2026-06-05
 status: legal counsel
 tags:
   - character
@@ -30,13 +30,14 @@ Rather than defending his employer, Biglaw immediately turned on Blackwell by un
 
 
 
+
 | Episode | Notes |
 |---------|-------|
-| [[episodes/2026-08-26|2026-08-26]] | Summoned to advise on studio legal liability; speaks in a baby-talk lisp, assumes his prosecutor alter-ego, and bills Blackwell $40,000 for breaking 16 laws. |
-| [[episodes/2026-08-14|2026-08-14]] | Referenced in passing via 'Tommy Biglaw' / hobbyist lawyer Lyvin Sleazy comments during the Luigi Mangione and CIA stories. |
-| [[episodes/2026-08-08|2026-08-08]] | High-priced legal counsel with a baby-talk lisp. Appears in the chocolate milk debate wearing a 'yellow and blue coat' carrying a whiteboard, abruptly voting people out of the discussion. |
-| [[episodes/2026-06-15|2026-06-15]] | Legal counsel, references euthanizing Crum. |
 | [[episodes/2026-06-05|2026-06-05]] | Legal counsel with infant-like features and lisp, known for his distinctive baby talk and courtroom-adjacent commentary. |
+| [[episodes/2026-06-15|2026-06-15]] | Legal counsel, references euthanizing Crum. |
+| [[episodes/2026-08-08|2026-08-08]] | High-priced legal counsel with a baby-talk lisp. Appears in the chocolate milk debate wearing a 'yellow and blue coat' carrying a whiteboard, abruptly voting people out of the discussion. |
+| [[episodes/2026-08-14|2026-08-14]] | Referenced in passing via 'Tommy Biglaw' / hobbyist lawyer Lyvin Sleazy comments during the Luigi Mangione and CIA stories. |
+| [[episodes/2026-08-26|2026-08-26]] | Summoned to advise on studio legal liability; speaks in a baby-talk lisp, assumes his prosecutor alter-ego, and bills Blackwell $40,000 for breaking 16 laws. |
 
 ## Notable moments
 

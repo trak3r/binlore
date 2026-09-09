@@ -14,7 +14,7 @@ from pathlib import Path
 from typing import Any, Sequence
 
 from .clean import clean_run_dir, find_cleanable_runs, execute_clean
-from .extract import DEFAULT_MODEL, extract_lore_from_vod, get_api_key, load_env
+from .extract import DEFAULT_MODEL, DailyQuotaExceeded, extract_lore_from_vod, get_api_key, load_env
 from .paths import CATALOG_JSON, CONTENT_EPISODES, REPO_ROOT, RUNS_DIR, TOOLS_ROOT
 from .vods import Vod, format_duration, vod_from_catalog_entry
 
@@ -88,19 +88,60 @@ def _setup_signal_handlers(logger: BatchLogger) -> None:
     signal.signal(signal.SIGTERM, handler)
 
 
+def _index_transcript_runs() -> tuple[dict[str, Path], dict[str, Path]]:
+    """Map vod ids and catalog dates to run dirs that already have a transcript."""
+    by_id: dict[str, Path] = {}
+    by_date: dict[str, Path] = {}
+    if not RUNS_DIR.exists():
+        return by_id, by_date
+    for run_dir in RUNS_DIR.iterdir():
+        if not run_dir.is_dir():
+            continue
+        if not (run_dir / "transcript.txt").exists() and not (run_dir / "transcript.json").exists():
+            continue
+        by_id[run_dir.name] = run_dir
+        meta_path = run_dir / "meta.json"
+        if not meta_path.exists():
+            continue
+        try:
+            meta = json.loads(meta_path.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        date = str(meta.get("date") or meta.get("catalog_date") or "")
+        if date:
+            by_date[date] = run_dir
+        for key in ("vod_id", "yt_id", "twitch_id"):
+            val = meta.get(key)
+            if val:
+                by_id[str(val)] = run_dir
+    return by_id, by_date
+
+
+def _stream_run_dir(
+    stream: dict[str, Any],
+    by_id: dict[str, Path],
+    by_date: dict[str, Path],
+) -> Path | None:
+    for key in (stream.get("twitch_id"), stream.get("yt_id"), stream.get("id")):
+        if key and str(key) in by_id:
+            return by_id[str(key)]
+    date = str(stream.get("date") or "")
+    if date and date in by_date:
+        return by_date[date]
+    return None
+
+
 def find_unprocessed_episodes(
     catalog_path: Path = TOOLS_ROOT / "youtube_catalog.json",
     episodes_dir: Path = CONTENT_EPISODES,
     *,
-    oldest_first: bool = False,
+    oldest_first: bool = True,
     skip_drafts: bool = True,
+    skip_extract: bool = True,
 ) -> list[dict[str, Any]]:
     """
-    Returns a list of stream catalog entries that have not yet been fully processed.
-    An episode is considered processed if:
-      - A markdown file in content/episodes/ exists for that date or VOD ID
-      - It is NOT marked as draft
-      - It contains extracted content (i.e. '## Characters' has real entries, not '_TBD_')
+    Transcribe mode (skip_extract=True): catalog entries with no transcript in tools/runs/.
+    Extract mode: transcript exists, extraction.json does not.
     """
     if not catalog_path.exists():
         raise FileNotFoundError(f"Catalog file not found: {catalog_path}")
@@ -108,68 +149,33 @@ def find_unprocessed_episodes(
     with open(catalog_path, encoding="utf-8") as f:
         streams: list[dict[str, Any]] = json.load(f)
 
-    # Scan existing markdown files in content/episodes/
-    processed_dates: set[str] = set()
-    processed_vod_ids: set[str] = set()
     skipped_dates: set[str] = set()
     skipped_vod_ids: set[str] = set()
+    if skip_drafts and episodes_dir.exists():
+        for ep_file in episodes_dir.glob("*.md"):
+            if ep_file.name == "index.md":
+                continue
+            try:
+                txt = ep_file.read_text(encoding="utf-8")
+            except Exception:
+                continue
+            if "draft: true" not in txt.lower():
+                continue
+            skipped_dates.add(ep_file.stem.split("-vod-")[0])
+            for line in txt.splitlines()[:25]:
+                if line.startswith("vod_id:"):
+                    skipped_vod_ids.add(line.split(":", 1)[1].strip(" \"'"))
+                elif line.startswith("date:"):
+                    extracted_d = line.split(":", 1)[1].strip(" \"'")
+                    if extracted_d:
+                        skipped_dates.add(extracted_d)
 
-    for ep_file in episodes_dir.glob("*.md"):
-        if ep_file.name == "index.md":
-            continue
-        try:
-            txt = ep_file.read_text(encoding="utf-8")
-        except Exception:
-            continue
-
-        is_draft = "draft: true" in txt.lower()
-        has_content = False
-        if "## Characters" in txt:
-            char_section = txt.split("## Characters", 1)[1]
-            if "## " in char_section:
-                char_section = char_section.split("## ", 1)[0]
-            if "- _TBD_" not in char_section and len(char_section.strip()) > 10:
-                has_content = True
-
-        # Extract vod_id and date from frontmatter
-        file_vod_id = ""
-        file_date = ep_file.stem.split("-vod-")[0]
-        for line in txt.splitlines()[:25]:
-            if line.startswith("vod_id:"):
-                file_vod_id = line.split(":", 1)[1].strip(" \"'")
-            elif line.startswith("date:"):
-                extracted_d = line.split(":", 1)[1].strip(" \"'")
-                if extracted_d:
-                    file_date = extracted_d
-
-        if is_draft and skip_drafts:
-            if file_date:
-                skipped_dates.add(file_date)
-            if file_vod_id:
-                skipped_vod_ids.add(file_vod_id)
-            continue
-
-        if has_content:
-            if file_date:
-                processed_dates.add(file_date)
-            if file_vod_id:
-                processed_vod_ids.add(file_vod_id)
-
+    by_id, by_date = _index_transcript_runs()
     unprocessed: list[dict[str, Any]] = []
     for s in streams:
         s_date = str(s.get("date") or "")
         yt_id = str(s.get("yt_id") or s.get("id") or "")
         twitch_id = str(s.get("twitch_id") or "")
-
-        # Check if already processed
-        if s_date and s_date in processed_dates:
-            continue
-        if yt_id and yt_id in processed_vod_ids:
-            continue
-        if twitch_id and twitch_id in processed_vod_ids:
-            continue
-
-        # Check if explicit draft to skip
         if skip_drafts:
             if s_date and s_date in skipped_dates:
                 continue
@@ -178,7 +184,16 @@ def find_unprocessed_episodes(
             if twitch_id and twitch_id in skipped_vod_ids:
                 continue
 
-        unprocessed.append(s)
+        run_dir = _stream_run_dir(s, by_id, by_date)
+        if skip_extract:
+            if run_dir is None:
+                unprocessed.append(s)
+            continue
+
+        if run_dir is None:
+            continue
+        if not (run_dir / "extraction.json").exists():
+            unprocessed.append(s)
 
     if oldest_first:
         unprocessed.reverse()
@@ -197,19 +212,29 @@ def check_backlog_status(
     with open(catalog_path, encoding="utf-8") as f:
         streams = json.load(f)
 
-    unprocessed = find_unprocessed_episodes(catalog_path, episodes_dir)
+    untranscribed = find_unprocessed_episodes(
+        catalog_path, episodes_dir, skip_extract=True, oldest_first=True
+    )
+    unextracted = find_unprocessed_episodes(
+        catalog_path, episodes_dir, skip_extract=False, oldest_first=True
+    )
     total_streams = len(streams)
-    unprocessed_count = len(unprocessed)
-    ingested_count = total_streams - unprocessed_count
+    transcribed_count = total_streams - len(untranscribed)
+    extracted_count = transcribed_count - len(unextracted)
     free_disk_gb = get_free_disk_space_gb(RUNS_DIR)
 
     return {
         "total_streams": total_streams,
-        "ingested_count": ingested_count,
-        "backlog_count": unprocessed_count,
-        "percent_complete": f"{(ingested_count / total_streams * 100):.1f}%" if total_streams else "0%",
+        "ingested_count": transcribed_count,
+        "transcribed_count": transcribed_count,
+        "extracted_count": extracted_count,
+        "untranscribed_count": len(untranscribed),
+        "unextracted_count": len(unextracted),
+        "backlog_count": len(untranscribed),
+        "percent_complete": f"{(transcribed_count / total_streams * 100):.1f}%" if total_streams else "0%",
         "free_disk_gb": f"{free_disk_gb:.2f} GB",
-        "next_unprocessed": unprocessed[0] if unprocessed else None,
+        "next_unprocessed": untranscribed[0] if untranscribed else None,
+        "next_unextracted": unextracted[0] if unextracted else None,
     }
 
 
@@ -218,10 +243,10 @@ def process_single_episode(
     logger: BatchLogger,
     *,
     whisper_model: str = "small",
-    openrouter_model: str = DEFAULT_MODEL,
+    extract_model: str = DEFAULT_MODEL,
     timeout: float = 90.0,
     clean_audio: bool = True,
-    skip_extract: bool = False,
+    skip_extract: bool = True,
     build_quartz: bool = True,
     git_commit: bool = True,
     min_disk_gb: float = 1.0,
@@ -231,8 +256,8 @@ def process_single_episode(
       1. Disk space check
       2. Ingest audio & transcribe (Twitch with automatic YouTube archive fallback)
       3. Immediately deletes audio files to conserve disk space
-      4. Lore extraction via OpenRouter
-      5. Updates wiki pages (episode, characters, segments, storylines)
+      4. Lore extraction via Google AI Studio (skipped in transcribe-only mode)
+      5. Updates wiki pages (episode, characters, segments; storylines deferred)
       6. Regenerates catalog index
       7. Final disk hygiene check
       8. Compiles and validates static wiki via Quartz (`npx quartz build`)
@@ -288,6 +313,7 @@ def process_single_episode(
                     vod=vod_obj,
                     model=whisper_model,
                     clean_audio=clean_audio,
+                    write_stub=not skip_extract,
                 )
                 target_vod_id = vod_obj.id
                 ingest_successful = True
@@ -308,6 +334,7 @@ def process_single_episode(
                 vod=vod_obj,
                 model=whisper_model,
                 clean_audio=clean_audio,
+                write_stub=not skip_extract,
             )
             target_vod_id = vod_obj.id
 
@@ -333,37 +360,38 @@ def process_single_episode(
         if freed > 0:
             logger.info(f"Disk cleanup: Reclaimed {_format_size(freed)} from {run_dir.name}/")
 
-    # 4. Lore Extraction via OpenRouter
+    # 4. Lore Extraction via Google AI Studio
     if not skip_extract:
         extraction_path = run_dir / "extraction.json"
         if not extraction_path.exists():
-            logger.info(f"Extracting lore via OpenRouter for {target_vod_id} (model={openrouter_model})...")
+            logger.info(f"Extracting lore via Gemini for {target_vod_id} (model={extract_model})...")
             extract_lore_from_vod(
                 vod_id=target_vod_id,
-                model=openrouter_model,
+                model=extract_model,
                 timeout=timeout,
             )
             logger.info(f"Lore extraction saved to tools/runs/{target_vod_id}/extraction.json")
         else:
             logger.info(f"Existing extraction found in tools/runs/{target_vod_id}/extraction.json")
 
-        # 5. Update Wiki Pages
         from .wiki_updater import update_wiki_from_extraction
         logger.info(f"Updating wiki pages from extraction for {target_vod_id}...")
         report = update_wiki_from_extraction(
             vod_id=target_vod_id,
-            auto_create_characters=True,
+            auto_create_characters=False,
+            update_storylines=False,
         )
+        unknown_note = ""
+        if report.unknown_queued:
+            unknown_note = f", {len(report.unknown_queued)} unknown names queued"
         logger.info(
             f"Wiki updated: {len(report.characters_updated)} characters updated, "
             f"{len(report.characters_created)} created, "
             f"{len(report.storylines_updated)} storylines updated, "
-            f"{len(report.segments_updated)} segments updated."
+            f"{len(report.segments_updated)} segments updated{unknown_note}."
         )
-
-    # 6. Regenerate Episodes Catalog Index
-    from .catalog import generate_episodes_index
-    generate_episodes_index()
+        from .catalog import generate_episodes_index
+        generate_episodes_index()
 
     # 7. Post-run hygiene check
     if clean_audio:
@@ -371,7 +399,7 @@ def process_single_episode(
 
     # 8. Compile and validate wiki with Quartz before committing
     quartz_ok = True
-    if build_quartz:
+    if build_quartz and not skip_extract:
         logger.info("Compiling and verifying Quartz wiki...")
         bootstrap_script = REPO_ROOT / "quartz" / "bootstrap-cli.mjs"
         build_cmd = (
@@ -412,20 +440,29 @@ def process_single_episode(
             )
         else:
             try:
-                commit_msg = f"lore(episodes): process {s_date} - {s_title}"
-                add_paths = ["content/"]
+                commit_msg = (
+                    f"lore(episodes): process {s_date} - {s_title}"
+                    if not skip_extract
+                    else f"transcript: ingest {s_date} - {s_title}"
+                )
+                add_paths: list[str] = []
+                if not skip_extract:
+                    add_paths.append("content/")
                 run_rel = str(run_dir.relative_to(REPO_ROOT))
                 if (REPO_ROOT / run_rel).exists():
                     add_paths.append(run_rel)
-                subprocess.run(["git", "add", *add_paths], cwd=REPO_ROOT, check=True, capture_output=True)
-                subprocess.run(
-                    ["git", "commit", "-m", commit_msg],
-                    cwd=REPO_ROOT,
-                    check=True,
-                    capture_output=True,
-                    text=True,
-                )
-                logger.info(f"Git commit created: {commit_msg}")
+                if not add_paths:
+                    logger.info("Git: nothing to stage.")
+                else:
+                    subprocess.run(["git", "add", *add_paths], cwd=REPO_ROOT, check=True, capture_output=True)
+                    subprocess.run(
+                        ["git", "commit", "-m", commit_msg],
+                        cwd=REPO_ROOT,
+                        check=True,
+                        capture_output=True,
+                        text=True,
+                    )
+                    logger.info(f"Git commit created: {commit_msg}")
             except subprocess.CalledProcessError as e:
                 err_text = (e.stderr or e.stdout or "").strip()
                 if "nothing to commit" in err_text:
@@ -448,14 +485,14 @@ def process_single_episode(
 def run_batch_processing(
     *,
     limit: int | None = None,
-    oldest_first: bool = False,
+    oldest_first: bool = True,
     whisper_model: str = "small",
-    openrouter_model: str = DEFAULT_MODEL,
+    extract_model: str = DEFAULT_MODEL,
     delay: float = 5.0,
     timeout: float = 90.0,
     clean_audio: bool = True,
     clean_existing: bool = True,
-    skip_extract: bool = False,
+    skip_extract: bool = True,
     skip_drafts: bool = True,
     build_quartz: bool = True,
     git_commit: bool = True,
@@ -464,21 +501,25 @@ def run_batch_processing(
     dry_run: bool = False,
 ) -> int:
     """
-    Main entry point for unattended batch processing of all unprocessed episodes.
-    Designed for 24/7 autonomous server execution with guaranteed disk hygiene.
+    Unattended batch processing. Default mode transcribes only; pass skip_extract=False to mine.
     """
     logger = BatchLogger(log_file)
     _setup_signal_handlers(logger)
 
+    mode = "transcribe-only" if skip_extract else "extract"
     logger.info("=" * 65)
     logger.info("BINLORE UNATTENDED BATCH PROCESSOR STARTING")
-    logger.info(f"Configuration: whisper_model={whisper_model}, openrouter_model={openrouter_model}")
+    logger.info(f"Mode: {mode}; whisper_model={whisper_model}; extract_model={extract_model}")
+    logger.info(f"oldest_first={oldest_first}; skip_extract={skip_extract}")
     logger.info(f"Disk hygiene: clean_audio={clean_audio}, clean_existing={clean_existing}, min_disk_gb={min_disk_gb}")
     logger.info(f"Free disk space on host: {get_free_disk_space_gb(RUNS_DIR):.2f} GB")
     logger.info("=" * 65)
 
-    # Pre-flight external tools check (yt-dlp & ffmpeg)
-    if not dry_run:
+    if skip_extract:
+        build_quartz = False
+
+    # Pre-flight external tools check (yt-dlp & ffmpeg) for ingest/transcribe
+    if not dry_run and skip_extract:
         from .ingest import _ensure_ffmpeg
         from .vods import get_yt_dlp_cmd
 
@@ -496,19 +537,17 @@ def run_batch_processing(
             logger.error(f"Missing dependency:\n{e}")
             return 1
 
-    # Pre-flight API key check if extraction is requested
     if not skip_extract and not dry_run:
         load_env()
         try:
             get_api_key()
         except SystemExit:
             logger.error(
-                "OPENROUTER_API_KEY is not set! Set OPENROUTER_API_KEY in tools/.env or environment. "
-                "Use --skip-extract to run transcription-only without an API key."
+                "GEMINI_API_KEY is not set. Add a Google AI Studio key to tools/.env. "
+                "Default process-all is transcribe-only and does not need a key."
             )
             return 1
 
-    # Pre-run sweep: clean any existing lingering media files
     if clean_existing and not dry_run:
         targets = find_cleanable_runs(force=False)
         if targets:
@@ -516,17 +555,17 @@ def run_batch_processing(
             reclaimed = execute_clean(targets, dry_run=False)
             logger.info(f"Initial cleanup freed {_format_size(reclaimed)} of disk space.")
 
-    # Discover unprocessed episodes
     unprocessed = find_unprocessed_episodes(
         oldest_first=oldest_first,
         skip_drafts=skip_drafts,
+        skip_extract=skip_extract,
     )
 
     total_unprocessed = len(unprocessed)
-    logger.info(f"Found {total_unprocessed} unprocessed episodes in the catalog.")
+    logger.info(f"Found {total_unprocessed} queued episodes ({mode}).")
 
     if not unprocessed:
-        logger.success("All episodes in the catalog are already processed! Nothing to do.")
+        logger.success("Queue is empty. Nothing to do.")
         return 0
 
     if limit and limit > 0:
@@ -534,7 +573,7 @@ def run_batch_processing(
         logger.info(f"Processing capped by --limit to {len(unprocessed)} episodes.")
 
     if dry_run:
-        logger.info("\n--- [DRY RUN: Unprocessed Episodes Queue] ---")
+        logger.info("\n--- [DRY RUN: Queue] ---")
         for idx, ep in enumerate(unprocessed, 1):
             date_s = ep.get("date") or "?"
             title = ep.get("title") or "?"
@@ -547,6 +586,7 @@ def run_batch_processing(
 
     processed_count = 0
     failed_episodes: list[tuple[dict[str, Any], str]] = []
+    quota_halted = False
 
     start_time = time.time()
     for idx, stream in enumerate(unprocessed, 1):
@@ -564,7 +604,7 @@ def run_batch_processing(
                 stream,
                 logger,
                 whisper_model=whisper_model,
-                openrouter_model=openrouter_model,
+                extract_model=extract_model,
                 timeout=timeout,
                 clean_audio=clean_audio,
                 skip_extract=skip_extract,
@@ -577,14 +617,16 @@ def run_batch_processing(
                 f"[{idx}/{len(unprocessed)}] ✓ Completed {date_s} (VOD: {res['vod_id']}). "
                 f"Free disk: {res['free_disk_gb']}."
             )
+        except DailyQuotaExceeded as e:
+            logger.warning(str(e))
+            logger.warning("Halting extract batch until Gemini daily quota resets (midnight Pacific).")
+            quota_halted = True
+            break
         except Exception as e:
             err_msg = str(e) or type(e).__name__
             logger.error(f"[{idx}/{len(unprocessed)}] ✗ Failed {date_s} — {title}: {err_msg}")
-            # Ensure transient files cleaned up
             if _CURRENT_ACTIVE_RUN_DIR and _CURRENT_ACTIVE_RUN_DIR.exists():
                 clean_run_dir(_CURRENT_ACTIVE_RUN_DIR, force=True)
-            # Clean up incomplete episode stub if it contains placeholders (_TBD_),
-            # so content/ is not left in a dirty or misleading state
             ep_file = CONTENT_EPISODES / f"{date_s}.md"
             if ep_file.exists():
                 try:
@@ -596,14 +638,18 @@ def run_batch_processing(
                     pass
             failed_episodes.append((stream, err_msg))
 
-        # Inter-episode cooldown delay
-        if idx < len(unprocessed) and delay > 0 and not _INTERRUPTED:
+        if idx < len(unprocessed) and delay > 0 and not _INTERRUPTED and not quota_halted:
             logger.info(f"Sleeping {delay:.1f}s before next episode...")
             time.sleep(delay)
 
     elapsed = time.time() - start_time
     logger.info("=" * 65)
-    if failed_episodes and processed_count == 0:
+    if quota_halted:
+        logger.warning(
+            f"BATCH PAUSED for daily quota after {elapsed / 60:.1f} minutes "
+            f"({processed_count} succeeded, {len(failed_episodes)} failed)"
+        )
+    elif failed_episodes and processed_count == 0:
         logger.error(
             f"BATCH RUN FAILED in {elapsed / 60:.1f} minutes (0/{len(unprocessed)} succeeded, {len(failed_episodes)} failed)"
         )
@@ -625,4 +671,6 @@ def run_batch_processing(
             logger.warning(f"  - {stream.get('date')}: {stream.get('title')} -> {reason}")
 
     logger.info("=" * 65)
+    if quota_halted:
+        return 0
     return 0 if not failed_episodes else 1

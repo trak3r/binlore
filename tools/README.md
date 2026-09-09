@@ -27,7 +27,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -e .
 ```
-*(Running `pip install -e .` automatically installs both `faster-whisper` and `yt-dlp` into `.venv`.)*
+*(Running `pip install -e .` installs `faster-whisper`, `yt-dlp`, and `google-genai` into `.venv`.)*
 
 ### Environment configuration (`tools/.env`)
 
@@ -36,21 +36,19 @@ Copy the sample environment file:
 cp .env.example .env
 ```
 
-#### OpenRouter API Key & Model Configuration
+#### Google AI Studio API Key (extract only)
 
-To use `binlore extract` with OpenRouter (including free models):
+Transcription does not need a key. Extraction calls Gemini directly:
 
-1. Get a free API key at [https://openrouter.ai/keys](https://openrouter.ai/keys).
+1. Get a free API key at [https://aistudio.google.com/apikey](https://aistudio.google.com/apikey). Do not attach billing.
 2. Set it in `tools/.env`:
    ```bash
-   OPENROUTER_API_KEY=sk-or-v1-your-key-here
+   GEMINI_API_KEY=your-key-here
    ```
-   *(Or export it in your shell: `export OPENROUTER_API_KEY=sk-or-v1-...`)*
-3. *(Optional)* Set a specific model:
+3. *(Optional)* Pin a model:
    ```bash
-   OPENROUTER_MODEL=openrouter/free
-   # Or a fast, inexpensive model (~$0.001/episode) with zero free-tier rate limits:
-   # OPENROUTER_MODEL=google/gemini-2.0-flash-001
+   GEMINI_MODEL=gemini-2.5-flash
+   # GEMINI_MODEL=gemini-2.5-flash-lite
    ```
 
 #### Hugging Face Token (Optional, Recommended for Remote Servers)
@@ -94,21 +92,19 @@ binlore ingest --latest --model small
 - `transcript.plain.txt` (raw text)
 - Initial episode stub in `content/episodes/YYYY-MM-DD.md`
 
-### 3. Extract segments, characters & lore (OpenRouter LLM)
+### 3. Extract segments, characters & lore (Gemini)
 
 ```bash
 # Preview prompt & token estimate without sending API request
 binlore extract --latest --dry-run
 
-# Extract lore from the latest ingested VOD using default free model (openrouter/free)
+# Extract lore from the latest ingested VOD (GEMINI_API_KEY required)
 binlore extract --latest
 
 # Extract for a specific VOD ID
 binlore extract 2863722826
 
-# Specify a specific free or paid OpenRouter model
-binlore extract --latest --model minimax/minimax-m3:free
-binlore extract --latest --model google/gemma-4-31b-it:free
+binlore extract --latest --model gemini-2.5-flash-lite
 ```
 
 ### 4. Propagate lore into the wiki (`binlore update-wiki`)
@@ -128,9 +124,9 @@ binlore update-wiki 2863722826
 
 **What this updates:**
 - `content/characters/<name>.md`: Appends rows to `## Appearances` and adds timestamped bullets to `## Notable moments` with links back to the episode.
-- Auto-creates pages for new on-air contributors (e.g. `hype-train.md`, `tommy-biglaw.md`) and updates `content/characters/index.md`.
-- `content/storylines/<slug>.md`: Appends beat developments to `## Key beats` timeline.
-- `content/segments/<slug>.md`: Appends occurrences to `## Known occurrences`.
+- Auto-creates pages only with `--create-characters` (default: queue unknown names to `tools/runs/unknown-characters.jsonl`).
+- `content/storylines/<slug>.md`: not updated unless `--update-storylines` (corpus pass).
+- `content/segments/<slug>.md`: Appends occurrences except fixture desks (News / pre-show).
 
 ### 5. Extract screencaps (`binlore screencap`)
 
@@ -179,11 +175,11 @@ binlore process-all --status
 # Preview next queue of episodes (dry-run)
 binlore process-all --dry-run --limit 10
 
-# Run unattended batch processor
-binlore process-all
+# Run unattended transcribe-all (default)
+binlore transcribe-all
 
-# Process oldest first with custom delay
-binlore process-all --oldest-first --delay 5.0
+# Mine transcripts oldest-first after the corpus exists
+binlore process-all --extract
 ```
 
 

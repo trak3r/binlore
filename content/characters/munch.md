@@ -5,8 +5,7 @@ aliases:
   - Ralph Munchcut
   - Munchcut
   - Munch
-first_seen:
-status: recurring
+first_seen: 2026-05-26
 tags:
   - character
   - debate
@@ -39,25 +38,26 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 
 
 
+
 | Episode | Notes |
 |---------|-------|
-| [[episodes/2026-09-07|2026-09-07]] | Oversees the long-delayed Rock-afire Gorilla execution against Crum. Caught in the catastrophic backblast when the machine explodes, incinerating him into a living, talking skeleton. Insists his skeletal form highlights superior bone structure, debates Crum on Crayola vs. RoseArt, and promises to haunt the desk indefinitely. |
-| [[episodes/2026-09-02|2026-09-02]] | Promises swift physical retribution upon Crum; recites the audience-compiled list of justifications for Crum's forfeit; leaks details regarding the Best Boob Club. |
-| [[episodes/2026-09-01|2026-09-01]] | Defends pepperoni as the definitive pizza topping; loses the debate to Crum's mayonnaise platform and appeals to the audience for spiritual solidarity. |
-| [[episodes/2026-08-26|2026-08-26]] | Defends his candidacy as a superior mayor to Mamdani, proclaims himself the debate winner, and argues that Crum must endure a "reverse pardon" resulting in two punches. |
-| [[episodes/2026-08-14|2026-08-14]] | Senior Debate Analyst. Champions keeping Hasan Piker's stream hard-hitting rather than adding character work. Coins the word 'trime' (slime + crime) to describe Crum's debating style. Reacts explosively when Crum steals the points button and outro music cue. |
-| [[episodes/2026-08-08|2026-08-08]] | Senior debate analyst. Picks Andrew Garfield as the best Spider-Man citing his 'gentle eyes' and 'long slender bod'. Torments Crum over his emancipated daughter and the impending gorilla punch. |
-| [[episodes/2026-08-04|2026-08-04]] | Senior debate analyst. Argues that refusing medical treatment for the ankle is brave, claims to maintain a private medical team to deprive others of healthcare, and promotes silver supplements and 'peptide spells' before exiting to remove his hearing aids. |
-| [[episodes/2026-07-17|2026-07-17]] | Senior debate analyst. Argued only stars deserve merch, proposed the dueling dragons t-shirt, demanded a European-style dragon to Crum's Chinese-style dragon, locked the scoreboard at minus 40 for Crum. |
-| [[episodes/2026-07-16|2026-07-16]] | Senior debate analyst argues that Trump won the 2020 election by retaining his 'integrity,' using bizarre nipple-spike analogies. |
-| [[episodes/2026-07-11|2026-07-11]] | Senior debate analyst; briefly interrupts the set to escalate the conflict and question Crumb's financial standing. |
-| [[episodes/2026-06-29|2026-06-29]] | Mentioned as a possible matching shirt for the upcoming BIN merch drop ('a Munch shirt and a Crum shirt'). |
-| [[episodes/2026-06-19|2026-06-19]] |  |
-| [[episodes/2026-06-18|2026-06-18]] | Senior debate analyst. Disheveled silver hair. Defends improv as valid art form. Reveals eight years improv training (1991-1998) including class with Anchorman extra. Proud Democrat. |
-| [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity. |
-| [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (disheveled silver hair). Defends reality-TV politicians, endorses Gooters, mocks Crum's hairline. |
-| [[episodes/2026-06-05|2026-06-05]] | Senior debate analyst with distinctive disheveled appearance and confrontational debate style. |
 | [[episodes/2026-05-26|2026-05-26]] | Senior debate analyst known for his disheveled silver hair and combative political style. Engages in heated exchanges with Crum and frequently references his 'Dick Punch' wager storyline. |
+| [[episodes/2026-06-05|2026-06-05]] | Senior debate analyst with distinctive disheveled appearance and confrontational debate style. |
+| [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (disheveled silver hair). Defends reality-TV politicians, endorses Gooters, mocks Crum's hairline. |
+| [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity. |
+| [[episodes/2026-06-18|2026-06-18]] | Senior debate analyst. Disheveled silver hair. Defends improv as valid art form. Reveals eight years improv training (1991-1998) including class with Anchorman extra. Proud Democrat. |
+| [[episodes/2026-06-19|2026-06-19]] |  |
+| [[episodes/2026-06-29|2026-06-29]] | Mentioned as a possible matching shirt for the upcoming BIN merch drop ('a Munch shirt and a Crum shirt'). |
+| [[episodes/2026-07-11|2026-07-11]] | Senior debate analyst; briefly interrupts the set to escalate the conflict and question Crumb's financial standing. |
+| [[episodes/2026-07-16|2026-07-16]] | Senior debate analyst argues that Trump won the 2020 election by retaining his 'integrity,' using bizarre nipple-spike analogies. |
+| [[episodes/2026-07-17|2026-07-17]] | Senior debate analyst. Argued only stars deserve merch, proposed the dueling dragons t-shirt, demanded a European-style dragon to Crum's Chinese-style dragon, locked the scoreboard at minus 40 for Crum. |
+| [[episodes/2026-08-04|2026-08-04]] | Senior debate analyst. Argues that refusing medical treatment for the ankle is brave, claims to maintain a private medical team to deprive others of healthcare, and promotes silver supplements and 'peptide spells' before exiting to remove his hearing aids. |
+| [[episodes/2026-08-08|2026-08-08]] | Senior debate analyst. Picks Andrew Garfield as the best Spider-Man citing his 'gentle eyes' and 'long slender bod'. Torments Crum over his emancipated daughter and the impending gorilla punch. |
+| [[episodes/2026-08-14|2026-08-14]] | Senior Debate Analyst. Champions keeping Hasan Piker's stream hard-hitting rather than adding character work. Coins the word 'trime' (slime + crime) to describe Crum's debating style. Reacts explosively when Crum steals the points button and outro music cue. |
+| [[episodes/2026-08-26|2026-08-26]] | Defends his candidacy as a superior mayor to Mamdani, proclaims himself the debate winner, and argues that Crum must endure a "reverse pardon" resulting in two punches. |
+| [[episodes/2026-09-01|2026-09-01]] | Defends pepperoni as the definitive pizza topping; loses the debate to Crum's mayonnaise platform and appeals to the audience for spiritual solidarity. |
+| [[episodes/2026-09-02|2026-09-02]] | Promises swift physical retribution upon Crum; recites the audience-compiled list of justifications for Crum's forfeit; leaks details regarding the Best Boob Club. |
+| [[episodes/2026-09-07|2026-09-07]] | Oversees the long-delayed Rock-afire Gorilla execution against Crum. Caught in the catastrophic backblast when the machine explodes, incinerating him into a living, talking skeleton. Insists his skeletal form highlights superior bone structure, debates Crum on Crayola vs. RoseArt, and promises to haunt the desk indefinitely. |
 
 ## Notable moments
 

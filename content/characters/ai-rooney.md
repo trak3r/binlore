@@ -5,7 +5,7 @@ aliases:
   - Rooney
   - Rooney 1.0
   - Rooney 1.0 Knot Prime
-first_seen: 2026-06-29
+first_seen: 2026-05-29
 status: retired
 tags:
   - character
@@ -36,18 +36,19 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 
 
 
+
 | Episode | Notes |
 |---------|-------|
+| [[episodes/2026-05-29|2026-05-29]] | Retired cyborg commentator delivering grievance rants. |
+| [[episodes/2026-06-03|2026-06-03]] | Proprietary cyborg commentator (Andy Rooney homage). Delivers viewer complaints via !rr. Suffers repeated 'brain empty' failures, violates age guardrails (references 19-year-old), produces incoherent sexualized rants. Case orders full rebuild. |
+| [[episodes/2026-06-05|2026-06-05]] | Cyborg commentator hosting the AI Rooney grievance machine segment, known for escalating rants and audience-focused criticism. |
+| [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of 'idiocracy' comment, retired segment. |
+| [[episodes/2026-06-19|2026-06-19]] | Synthetic neural network co-host providing grievance commentary and audience feedback analysis. |
+| [[episodes/2026-06-22|2026-06-22]] | Proprietary cyborg commentator delivering escalating grievance rants that include sexual content, racial references, and bizarre tangents about soup, cavemen, and wrestling before being muted by Case. |
 | [[episodes/2026-06-29|2026-06-29]] | Activated as "Rooney 1.0" for audience prompts via `!rr`. Generates wildly unhinged complaints about *Wings*, Ninja Turtles, *Wrestling at the Chase*, Matt Ladel, and lizard linguistics, requiring Blackwell to mute him mid-response. |
 | [[episodes/2026-07-13|2026-07-13]] | Activated as "Rooney 1.0 Knot Prime" running on a local uncensored model. Malfunctions catastrophically with offensive slurs and explicit content, leading Blackwell to pull the segment and debate his permanent retirement. |
 | [[episodes/2026-07-16|2026-07-16]] | Decommissioned AI contributor reappears via off-screen voice to demand to know why his $32 billion research funding was cut, claiming he sought alternate back-channel funding after Saudi negotiations stalled. |
 | [[episodes/2026-07-17|2026-07-17]] | Decommissioned model briefly accessed in digital space as "Rooney 1.0 Knot Prime" to comment on Russian robot marriage, before pivoting to toothpaste grievances and shutting down for draining two lakes of water. |
-| [[episodes/2026-06-22|2026-06-22]] | Proprietary cyborg commentator delivering escalating grievance rants that include sexual content, racial references, and bizarre tangents about soup, cavemen, and wrestling before being muted by Case. |
-| [[episodes/2026-06-19|2026-06-19]] | Synthetic neural network co-host providing grievance commentary and audience feedback analysis. |
-| [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of 'idiocracy' comment, retired segment. |
-| [[episodes/2026-06-05|2026-06-05]] | Cyborg commentator hosting the AI Rooney grievance machine segment, known for escalating rants and audience-focused criticism. |
-| [[episodes/2026-06-03|2026-06-03]] | Proprietary cyborg commentator (Andy Rooney homage). Delivers viewer complaints via !rr. Suffers repeated 'brain empty' failures, violates age guardrails (references 19-year-old), produces incoherent sexualized rants. Case orders full rebuild. |
-| [[episodes/2026-05-29|2026-05-29]] | Retired cyborg commentator delivering grievance rants. |
 
 ## Notable moments
 

@@ -4,7 +4,7 @@ type: character
 aliases:
   - Chet AI
   - Chetah
-first_seen: 2026-09-02
+first_seen: 2026-05-26
 status: recurring
 tags:
   - character
@@ -47,16 +47,17 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 
 
 
+
 | Episode | Notes |
 |---------|-------|
-| [[episodes/2026-09-02|2026-09-02]] | Activated during the Brazilian plastic surgery ratio review; discloses its anatomical training data, attempts rogue generative modeling, and translates foreign medical literature for Chet. |
-| [[episodes/2026-08-19|2026-08-19]] | Synthetic neural co-host analyzing hydrogen data from the University of Maryland study and bragging about containing all slurs without using them. |
-| [[episodes/2026-07-23|2026-07-23]] | Referenced as Chet's open tab search engine tool for finding purple hurt foot remedies. |
-| [[episodes/2026-07-17|2026-07-17]] | Synthetic neural co-host referenced but not actively speaking on this broadcast. |
-| [[episodes/2026-07-11|2026-07-11]] | Synthetic neural co-host; referenced indirectly as the lab technician providing Chet with 'healing affirmations'. |
-| [[episodes/2026-06-15|2026-06-15]] | Synthetic AI co-host, assists in science investigation. |
-| [[episodes/2026-06-05|2026-06-05]] | Synthetic neural network co-host operating from studio monitors, providing data-driven commentary on AI topics. |
 | [[episodes/2026-05-26|2026-05-26]] | Synthetic neural network co-host of Chet Guy the Science Eyes. Provides real-time data analysis, translates foreign medical literature, and assists Chet with technical queries. Operates simultaneously with Chet on screen. |
+| [[episodes/2026-06-05|2026-06-05]] | Synthetic neural network co-host operating from studio monitors, providing data-driven commentary on AI topics. |
+| [[episodes/2026-06-15|2026-06-15]] | Synthetic AI co-host, assists in science investigation. |
+| [[episodes/2026-07-11|2026-07-11]] | Synthetic neural co-host; referenced indirectly as the lab technician providing Chet with 'healing affirmations'. |
+| [[episodes/2026-07-17|2026-07-17]] | Synthetic neural co-host referenced but not actively speaking on this broadcast. |
+| [[episodes/2026-07-23|2026-07-23]] | Referenced as Chet's open tab search engine tool for finding purple hurt foot remedies. |
+| [[episodes/2026-08-19|2026-08-19]] | Synthetic neural co-host analyzing hydrogen data from the University of Maryland study and bragging about containing all slurs without using them. |
+| [[episodes/2026-09-02|2026-09-02]] | Activated during the Brazilian plastic surgery ratio review; discloses its anatomical training data, attempts rogue generative modeling, and translates foreign medical literature for Chet. |
 
 ## Notable moments
 

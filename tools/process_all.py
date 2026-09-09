@@ -3,7 +3,8 @@
 tools/process_all.py — Unattended Batch Processor for Barely Informed News (BIN) Lore Wiki
 
 Loops through all unprocessed episodes in the catalog, performs audio download,
-transcription with faster-whisper, lore extraction via OpenRouter, wiki page generation,
+transcription with faster-whisper. Default mode is transcribe-only; pass --extract to mine
+lore via Google AI Studio, then update wiki pages.
 and catalog index synchronization.
 
 Features strict disk hygiene:
@@ -58,7 +59,13 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument(
         "--oldest-first",
         action="store_true",
-        help="Process backlog from oldest to newest (default: newest first)",
+        default=True,
+        help="Process backlog from oldest to newest (default)",
+    )
+    p.add_argument(
+        "--newest-first",
+        action="store_true",
+        help="Process backlog from newest to oldest",
     )
     p.add_argument(
         "--model",
@@ -66,9 +73,11 @@ def build_parser() -> argparse.ArgumentParser:
         help="faster-whisper model size: tiny, base, small, medium, large-v3 (default: small)",
     )
     p.add_argument(
+        "--extract-model",
         "--openrouter-model",
+        dest="extract_model",
         default=DEFAULT_MODEL,
-        help=f"OpenRouter model slug for lore extraction (default: {DEFAULT_MODEL})",
+        help=f"Gemini model id for lore extraction (default: {DEFAULT_MODEL})",
     )
     p.add_argument(
         "--delay",
@@ -79,8 +88,8 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument(
         "--timeout",
         type=float,
-        default=90.0,
-        help="OpenRouter LLM extraction timeout in seconds (default: 90.0)",
+        default=180.0,
+        help="Gemini extraction timeout in seconds (default: 180.0)",
     )
     p.add_argument(
         "--min-disk-gb",
@@ -110,8 +119,16 @@ def build_parser() -> argparse.ArgumentParser:
     )
     p.add_argument(
         "--skip-extract",
+        dest="skip_extract",
         action="store_true",
-        help="Ingest and transcribe only, skipping LLM extraction and wiki updates",
+        default=True,
+        help="Ingest and transcribe only (default)",
+    )
+    p.add_argument(
+        "--extract",
+        dest="skip_extract",
+        action="store_false",
+        help="Mine existing transcripts with Gemini (oldest-first)",
     )
     p.add_argument(
         "--no-skip-drafts",
@@ -161,20 +178,25 @@ def main() -> int:
         st = check_backlog_status()
         print("\n--- [BIN Lore Backlog Status] ---")
         print(f"Total catalog streams: {st['total_streams']}")
-        print(f"Ingested & Extracted:  {st['ingested_count']}")
-        print(f"Remaining in Backlog:  {st['backlog_count']} ({st['percent_complete']} complete)")
+        print(f"Transcribed:           {st['transcribed_count']}")
+        print(f"Extracted:             {st['extracted_count']}")
+        print(f"Untranscribed:         {st['untranscribed_count']} ({st['percent_complete']} transcribed)")
+        print(f"Unextracted:           {st.get('unextracted_count', 0)}")
         print(f"Free Disk Space:       {st['free_disk_gb']}")
         if st.get("next_unprocessed"):
             nx = st["next_unprocessed"]
-            print(f"Next in queue:         {nx.get('date')} — {nx.get('title')}")
+            print(f"Next to transcribe:    {nx.get('date')} — {nx.get('title')}")
+        if st.get("next_unextracted"):
+            nx = st["next_unextracted"]
+            print(f"Next to extract:       {nx.get('date')} — {nx.get('title')}")
         print("---------------------------------\n")
         return 0
 
     return run_batch_processing(
         limit=args.limit,
-        oldest_first=args.oldest_first,
+        oldest_first=not args.newest_first,
         whisper_model=args.model,
-        openrouter_model=args.openrouter_model,
+        extract_model=args.extract_model,
         delay=args.delay,
         timeout=args.timeout,
         clean_audio=not args.keep_audio,

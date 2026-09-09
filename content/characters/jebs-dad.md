@@ -6,7 +6,7 @@ aliases:
   - Mr. Nogget
   - Mr. Noggin
   - The Wooden Board
-first_seen: 2026-08-14
+first_seen: 2026-06-15
 status: deceased (spirit trapped in timber)
 tags:
   - character
@@ -37,11 +37,12 @@ He displays a profound, open disdain for Jeb's woodworking skills and emotional 
 
 
 
+
 | Episode | Segment | Notes |
 |---------|---------|-------|
-| [[../episodes/2026-08-14|2026-08-14]] | [[../segments/how-to-with-jeb|How To with Jeb]] | Broadcast debut alongside Jeb. Heckles Jeb throughout the introductory demonstration, complains about the grain quality, and repeatedly praises Jet Nogget. |
-| [[episodes/2026-07-17|2026-07-17]] | Spectral co-host bound in lumber. Warned against snapping, critiqued Jeb's focus. |
 | [[episodes/2026-06-15|2026-06-15]] | Deceased father trapped in wooden board, non-verbal. |
+| [[episodes/2026-07-17|2026-07-17]] | Spectral co-host bound in lumber. Warned against snapping, critiqued Jeb's focus. |
+| [[../episodes/2026-08-14|2026-08-14]] | [[../segments/how-to-with-jeb|How To with Jeb]] | Broadcast debut alongside Jeb. Heckles Jeb throughout the introductory demonstration, complains about the grain quality, and repeatedly praises Jet Nogget. |
 
 ## Notable Quotes
 

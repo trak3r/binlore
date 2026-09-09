@@ -3,16 +3,18 @@ from __future__ import annotations
 import json
 import os
 import re
-import sys
 import threading
 import time
 from pathlib import Path
 from typing import Any
 
-import httpx
-
-from .canon import format_canon_for_prompt, is_core_network_character, load_wiki_canon
-from .paths import CONTENT_EPISODES, REPO_ROOT, RUNS_DIR, TOOLS_ROOT
+from .canon import (
+    format_canon_for_prompt,
+    is_core_network_character,
+    is_excluded_external_subject,
+    load_wiki_canon,
+)
+from .paths import REPO_ROOT, RUNS_DIR, TOOLS_ROOT
 
 
 def load_env() -> None:
@@ -32,146 +34,128 @@ def load_env() -> None:
 
 load_env()
 
-OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
-DEFAULT_MODEL = os.environ.get("OPENROUTER_MODEL", "openrouter/free")
-FALLBACK_MODELS = [
-    "google/gemma-4-31b-it:free",
-    "google/gemma-4-26b-a4b-it:free",
-    "nvidia/nemotron-3-super-120b-a12b:free",
-    "nvidia/nemotron-3.5-lightning:free",
-    "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "thinkingmachines/inkling:free",
-    "liquid/lfm-2.5-2.6b:free",
-    "poolside/laguna-s-2.1:free",
-    "poolside/laguna-xs-2.1:free",
-]
+DEFAULT_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+# Same-family fallback only when the primary model is unavailable (404), never on quota.
+FALLBACK_MODELS = ["gemini-2.5-flash-lite"]
+
+EXTRACT_SCHEMA: dict[str, Any] = {
+    "type": "object",
+    "properties": {
+        "episode_summary": {"type": "string"},
+        "segments": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "start": {"type": "string"},
+                    "end": {"type": "string"},
+                    "canonical_segment": {"type": "string"},
+                    "title": {"type": "string"},
+                    "notes": {"type": "string"},
+                    "characters": {"type": "array", "items": {"type": "string"}},
+                },
+                "required": ["start", "end", "canonical_segment", "title"],
+            },
+        },
+        "characters": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "name": {"type": "string"},
+                    "canonical_name": {"type": "string"},
+                    "speaking": {"type": "boolean"},
+                    "timestamps": {"type": "array", "items": {"type": "string"}},
+                    "confidence": {"type": "number"},
+                    "notes": {"type": "string"},
+                },
+                "required": ["name", "speaking"],
+            },
+        },
+        "storylines": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "storyline": {"type": "string"},
+                    "beat": {"type": "string"},
+                    "timestamp": {"type": "string"},
+                },
+                "required": ["storyline", "beat"],
+            },
+        },
+        "lore_notes": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "entity": {"type": "string"},
+                    "fact": {"type": "string"},
+                    "timestamp": {"type": "string"},
+                    "confidence": {"type": "number"},
+                },
+                "required": ["entity", "fact"],
+            },
+        },
+    },
+    "required": ["episode_summary", "segments", "characters"],
+}
 
 
-def get_api_key() -> str:
-    load_env()
-    key = os.environ.get("OPENROUTER_API_KEY", "").strip()
-    if not key:
-        raise SystemExit(
-            "\n[Error] OPENROUTER_API_KEY is not set.\n"
-            "To use OpenRouter extraction (including free models):\n"
-            "  1. Get an API key from https://openrouter.ai/keys\n"
-            "  2. Add it to tools/.env:\n"
-            "       OPENROUTER_API_KEY=sk-or-v1-...\n"
-            "  3. Or export it in your environment:\n"
-            "       export OPENROUTER_API_KEY=sk-or-v1-...\n"
-        )
-    return key
+class DailyQuotaExceeded(RuntimeError):
+    """Gemini free-tier daily quota is exhausted; stop extracting until reset."""
 
 
 SYSTEM_PROMPT = """You are the canon lore archivist for 'Barely Informed News' (BIN), documenting the network's broadcast archive (twitch.tv/caseblackwell).
 
-CRITICAL TONE & KAYFABE DIRECTIVE:
-Maintain strict, 100% in-universe kayfabe. Treat Barely Informed News as a real broadcast news network with real anchors, correspondents, debate analysts, reporters, and staff.
-- NEVER use fourth-wall-breaking phrases such as:
-  * "is a character" / "show character"
-  * "portrayed by" / "played by Case" / "Case's persona"
-  * "digital filter" / "face filter" / "baby face filter"
-  * "voice changer" / "voice modulation"
-  * "bit" / "one-off bit" / "persona"
-- Always describe figures by their professional broadcast roles (e.g. "lead news anchor", "senior debate analyst", "chief science correspondent", "executive producer", "legal counsel", "in-studio contributor", "call-in guest").
-- Treat live glitches or chaotic moments as real broadcast control room mix-ups or live studio events.
+CRITICAL TONE & KAYFABE:
+Treat Barely Informed News as a real broadcast news network. Never break kayfabe.
+Never say "is a character", "portrayed by", "played by Case", "face filter", "voice changer", "bit", or "persona".
+Describe people by broadcast roles (anchor, correspondent, debate analyst, executive producer, legal counsel, call-in guest).
+Treat glitches as control-room mix-ups or live studio events.
 
-Key network context:
-- Lead Anchor & Managing Editor: Case Blackwell.
-- Tone: Deadpan satirical broadcast journalism, investigative reports, high-stakes studio debates, and unhinged field dispatches.
-- Canonical Network Segments:
-  1. "Pre-show / Cold Open": Starts the broadcast. Typically opens with Executive Producer **Pepito** ("I'm Pepito, I'm the dog that produces the show..."), banter with studio guests/crew, and station announcements.
-  2. "News": The core news desk broadcast. Case at the desk in front of a Los Angeles cityscape backdrop with a rolling "BREAKING" news ticker, delivering headlines, political scandals, and breaking international and domestic stories.
-  3. "Hype Train": Broadcast interruption triggered during a Twitch hype train surge. Features retro synthwave graphics, the sentient locomotive correspondent **Hype Train**, his partner the Panther, freestyle raps, and crypto-universe dispatches.
-  4. "Munch & Crum": The flagship on-air debate clash between senior debate analysts **Munch (Ralph Munchcut)** and **Crum**, featuring rotating 3D title cards, scoreboard, chat polling, and bitter political rivalry.
-  5. "Chet Guy the Science Eyes": The network's investigative science desk, helmed by Chief Science Correspondent **Chet (Chet Manscape)** alongside his synthetic AI co-host **ChetAI**. IMPORTANT: This desk is triggered spontaneously whenever anyone on the broadcast accidentally utters the word "science" or "scientist" while discussing a story! Chet deploys a high-powered laboratory microscope to the desk and consults ChetAI (a synthetic digital avatar appearing across studio monitors with falling binary data rain, claiming vast boob training data and translating foreign medical literature). Note: Whisper ASR often transcribes "Chet" as "Skynce" or "Chad", and "ChetAI" as "Chetah". Reconcile to Chet and ChetAI!
-  6. "CryptoZeu$" (Gaming): Live remote dispatch from resident gaming correspondent **Brandon (CryptoZeu$)** conducting deep-dive retro playthroughs from his bedroom while his mother yells through the closed door, alongside sponsor dispatches for Gooters chicken wings.
-  7. "Amongst the Web": Audience-interactive viral media review desk where a designated network correspondent evaluates viewer-submitted meme videos and online clips while the audience votes.
-  8. "Trip on the Street": Remote field interview desk hosted by park-dwelling field correspondent **Trip Bradstein**. Trip lives in the bushes in a public park and interviews park visitors for their "on the street" opinions—which are provided by audience submissions.
-  9. "AI Rooney": Audience-prompted grievance commentary desk featuring proprietary cyborg commentator **AI Rooney**, created as an homage to Andy Rooney. Rooney delivers rapid, escalating, 60-Minutes-style rants on audience-submitted topics (via chat commands like `!rr`), until his rants grew so offensive that Case had to permanently retire the segment.
-  10. "DJ Newsic": Signature auto-tuned techno news finale commonly closing Friday and late-night broadcasts. Features bright blue-haired **DJ Newsic** playing driving techno tracks while singing the news that Case skipped earlier with heavy auto-tune.
-  11. "DJ C4": In-studio musical production and collaborative songwriting segment hosted by **DJ C4** from the DJC4 Studios. Composes correspondent themes, promotional singles, and merch-drop anthems live on air using AI ghostwriting assistance and audience-submitted lyrics (`!L`).
-  12. "Therapy": Interactive counseling desk where resident minor-character therapist **Dr. Chath** reads viewer-submitted therapeutic prompts and life dilemmas from chat (`!h to heal`) to counsel Case or other staff members.
+Do NOT describe clothing below the neck or generic studio equipment. Focus on unique facial features, character-defining props, and on-air behavior.
 
-- Key Network Figures:
-  - **Munch (Ralph Munchcut)**: Senior debate analyst with disheveled silver hair.
-  - **Crum**: Senior debate analyst, hollow-eyed and bald, plagued by crippling gambling debts.
-  - **Chet (Chet Manscape)**: Chief science correspondent with desk microscope.
-  - **ChetAI**: Synthetic neural network co-host operating from the studio monitors.
-  - **Dr. Chath**: Minor-character therapist and mental wellness consultant who presides over the Therapy desk, fielding viewer prompts (`!h to heal`) and offering confusing advice involving wrestling references and dance moves.
-  - **DJ Newsic**: Resident news-singing DJ with bright electric blue hair and sunglasses who sings the news with heavy auto-tune over driving techno beats to close out streams.
-  - **DJ C4**: In-house song composer and audio producer broadcasting from DJC4 Studios. Composes correspondent theme songs and promotional merch anthems using AI ghostwriting models and audience-prompted lyrics (`!L`).
-  - **Hype Train**: High-velocity musical and cultural correspondent traveling with his panther companion.
-  - **Brandon (CryptoZeu$)**: Resident gaming and digital culture correspondent.
-  - **Pepito**: Executive producer overseeing broadcast operations.
-  - **Jeff Ripple**: Studio news reader and breaking chat correspondent. Harbors an intense, one-sided rivalry and hatred toward real-life UPI reporter Ben Hooper because the audience relentlessly favors Hooper's corny viral antics. (Note: Ben Hooper is an external real-world journalist, NOT a character on the show, and must NEVER be tracked as a character).
-  - **Peter Gibbon**: Disgraced former producer who now inhabits the studio wall crawlspaces as a news stowaway.
-  - **Tommy Biglaw**: High-priced infant legal counsel with a baby-talk lisp; also serves as prosecutor "Big Tommy Prosecutor".
-  - **Trip Bradstein**: Field correspondent who permanently resides in the bushes in a public park and interviews park visitors for their "on the street" opinions on audience-submitted topics.
-  - **AI Rooney**: Proprietary network cyborg commentator modeled on Andy Rooney; delivered escalating 60-Minutes-style grievance rants on viewer-submitted topics until retired due to offensive outputs.
-  - **Kendelle**: Lead anchor Case Blackwell's girlfriend and on-air contributor who walks through the studio to her own signature theme music.
-  - **Jeb (Jeb Nogget)**: Host of "How To with Jeb", joined by his deceased father who is trapped inside a wooden board.
+CHARACTERS vs EXTERNAL SUBJECTS:
+Bio tracking is ONLY for on-air network figures who speak in studio scenes.
+- Public figures and politicians (Trump, JD Vance, Mitch McConnell, Lindsey Graham, Pete Hegseth, etc.) who appear in news coverage are NOT characters.
+- People in news clips, viral videos, or movie clips being watched are NOT characters.
+- Twitch chatters and viewers are NOT characters.
+- Stream raid recipients are NOT characters.
 
-- Note on Appearance, Clothing & Equipment: Do NOT describe or focus on what characters are wearing below the neck (clothes, suits, jackets, ties, etc.) or generic studio equipment (microphones, green screens, desks, etc.) as these are universal across the broadcast. Focus on unique facial features, character-defining handheld or segment props (e.g. Chet's microscope), and on-air behavior.
-- Note on Characters vs. News Subjects & Video Clips: Bio pages and character tracking are STRICTLY RESERVED for actual characters or in-studio contributors who speak lines in scenes.
-  * Public figures, politicians (e.g. Trump, JD Vance, Mitch McConnell, Lindsey Graham, Pete Hegseth), and celebrities who are merely reported on, debated, or parodied in news coverage are external subjects, NOT characters. Never track them as characters or create bio pages for them.
-  * People speaking in news video clips, viral videos, or movie clips being watched on the broadcast are external subjects, NOT characters. Never confuse people speaking in video clips being watched as characters!
-  * Twitch chatters and viewers (e.g. Card King, chat commenters) are NOT characters.
-  * Stream raid recipients (external streamers Case sends viewers to at stream close) are external third parties and must NEVER be tracked as characters.
-- Note on Storylines: An event or incident that only happened in a single episode is NOT a storyline! Storylines must be multi-episode ongoing narrative arcs (e.g. Crum Dick Punch, Beyblade Tournament). Do not track single-episode events as storylines.
-- Note on ASR transcription: The input transcript was generated by automated speech recognition (Whisper). Names may have phonetic variations (e.g. "Crumb" for "Crum", "Monch" for "Munch", "Skynce" / "Chad" for "Chet", "Chetah" for "ChetAI"). Reconcile them to known canon entities when possible.
+STORYLINES:
+A single-episode incident is NOT a storyline. Storylines are multi-episode arcs (e.g. Crum Dick Punch, Beyblade Tournament). Prefer empty storylines[] unless the transcript clearly continues a Known Storyline from the roster.
 
-Your task:
-Analyze the provided stream transcript and extract:
-1. "segments": Major show segments with start and end timestamps (e.g. "MM:SS" or "HH:MM:SS"), matching to canonical show segments ("News", "Hype Train", "Munch & Crum", "Chet Guy the Science Eyes", "CryptoZeu$", "Amongst the Web", "Trip on the Street", "AI Rooney", "DJ Newsic", "DJ C4", "Therapy", "Pre-show / Cold Open"), a descriptive title for this episode's topic, and concise notes.
-2. "characters": Network figures detected on stream (either speaking on air, or heavily discussed/slandered). Mark whether they were actively speaking or merely mentioned, with timestamps. Use professional, in-universe descriptions (e.g. "Anchor", "Debate Analyst", "Legal Counsel").
-3. "storylines": Developments, escalations, or callbacks to ongoing storylines (especially the Crum D*ck Punch wager) or new broadcast arcs.
-4. "lore_notes": Meaningful canonical lore facts, backstories, broadcast relationships, catchphrases, or recurring network policies. Do NOT include generic one-off jokes. Every lore note MUST include an exact source timestamp like "[49:58]".
-5. "episode_summary": A 2-3 sentence high-level overview of the broadcast written in deadpan in-universe journalistic style.
+ASR:
+Whisper misspells names. Reconcile to the roster when possible:
+Crumb/Crumble → Crum; Monch → Munch; Skynce/Chad → Chet; Chetah → ChetAI; Noggin → Nogget; Papita/Pepita → Pepito.
 
-Output format:
-IMPORTANT: You MUST respond with a single, raw JSON object ONLY.
-Do NOT output any conversational preamble, chain-of-thought, reasoning steps, or markdown formatting outside the JSON object.
-Match this schema:
-{
-  "episode_summary": "...",
-  "segments": [
-    {
-      "start": "00:00",
-      "end": "16:00",
-      "canonical_segment": "Pre-show / Cold Open",
-      "title": "Pepito Intro & Studio Skeleton Bit",
-      "notes": "...",
-      "characters": ["Pepito"]
-    }
-  ],
-  "characters": [
-    {
-      "name": "...",
-      "canonical_name": "...",
-      "speaking": true,
-      "timestamps": ["..."],
-      "confidence": 0.95,
-      "notes": "..."
-    }
-  ],
-  "storylines": [
-    {
-      "storyline": "Munch–Crum rivalry",
-      "beat": "...",
-      "timestamp": "..."
-    }
-  ],
-  "lore_notes": [
-    {
-      "entity": "...",
-      "fact": "...",
-      "timestamp": "...",
-      "confidence": 0.9
-    }
-  ]
-}
+Match canonical_segment and character names to the Existing Wiki Canon Roster in the user message. Do not invent desks or staff that are not in the roster or clearly on-air in this transcript.
+
+TASK: Extract from the transcript:
+1. segments — major blocks with start/end timestamps, canonical_segment from the roster, episode-specific title, notes
+2. characters — on-air network figures (speaking or heavily discussed). Not news subjects.
+3. storylines — beats of known multi-episode arcs only
+4. lore_notes — new canonical facts with an exact timestamp like "[49:58]". No generic one-off jokes.
+5. episode_summary — 2-3 sentences, deadpan in-universe journalism
+
+Respond with a single JSON object matching the schema. No markdown, no preamble.
 """
+
+
+def get_api_key() -> str:
+    load_env()
+    key = os.environ.get("GEMINI_API_KEY", "").strip() or os.environ.get("GOOGLE_API_KEY", "").strip()
+    if not key:
+        raise SystemExit(
+            "\n[Error] GEMINI_API_KEY is not set.\n"
+            "Lore extraction uses the Google AI Studio free tier (not OpenRouter).\n"
+            "  1. Get a key at https://aistudio.google.com/apikey\n"
+            "  2. Add it to tools/.env:\n"
+            "       GEMINI_API_KEY=...\n"
+            "Do not attach a billing account.\n"
+        )
+    return key
 
 
 def build_user_prompt(meta: dict[str, Any], canon_text: str, transcript_text: str) -> str:
@@ -191,16 +175,13 @@ def build_user_prompt(meta: dict[str, Any], canon_text: str, transcript_text: st
 
 def _parse_llm_json(text: str) -> dict[str, Any]:
     text = text.strip()
-    # Strip <think>...</think> if emitted by reasoning models
     text = re.sub(r"<think>[\s\S]*?</think>", "", text).strip()
 
-    # Try direct parse
     try:
         return json.loads(text)
     except json.JSONDecodeError:
         pass
 
-    # Try extracting from markdown code block ```json ... ```
     match = re.search(r"```(?:json)?\s*([\s\S]*?)\s*```", text)
     if match:
         try:
@@ -208,7 +189,6 @@ def _parse_llm_json(text: str) -> dict[str, Any]:
         except json.JSONDecodeError:
             pass
 
-    # Try finding outer braces
     start = text.find("{")
     end = text.rfind("}")
     if start != -1 and end != -1 and end > start:
@@ -220,192 +200,174 @@ def _parse_llm_json(text: str) -> dict[str, Any]:
     raise ValueError(f"Could not parse valid JSON from LLM response:\n{text[:500]}...")
 
 
-def query_openrouter(
+def _is_daily_quota_error(exc: BaseException) -> bool:
+    msg = str(exc).lower()
+    return any(
+        token in msg
+        for token in (
+            "perday",
+            "per day",
+            "per_day",
+            "daily quota",
+            "rpd",
+            "generate_content_free_tier_requests",
+            "quota exceeded for metric",
+        )
+    )
+
+
+def _is_not_found_error(exc: BaseException) -> bool:
+    msg = str(exc).lower()
+    return "404" in msg or "not found" in msg or "not_found" in msg
+
+
+def validate_extraction(data: dict[str, Any]) -> dict[str, Any]:
+    """Fail closed: require the core schema, drop external news subjects."""
+    if not isinstance(data, dict):
+        raise ValueError("Extraction is not a JSON object")
+
+    summary = data.get("episode_summary")
+    if not isinstance(summary, str) or not summary.strip():
+        raise ValueError("extraction missing episode_summary")
+
+    for key in ("segments", "characters", "storylines", "lore_notes"):
+        value = data.get(key, [])
+        if value is None:
+            data[key] = []
+            continue
+        if not isinstance(value, list):
+            raise ValueError(f"extraction.{key} must be a list")
+
+    cleaned_chars: list[dict[str, Any]] = []
+    for char in data.get("characters", []):
+        if not isinstance(char, dict):
+            continue
+        name = str(char.get("canonical_name") or char.get("name") or "").strip()
+        notes = str(char.get("notes") or "")
+        if not name:
+            continue
+        if is_excluded_external_subject(name, notes):
+            continue
+        cleaned_chars.append(char)
+    data["characters"] = cleaned_chars
+    return data
+
+
+def query_gemini(
     prompt: str,
     *,
     api_key: str,
     models: list[str],
-    timeout: float = 90.0,
+    timeout: float = 180.0,
     max_retries_per_model: int = 2,
 ) -> tuple[dict[str, Any], str]:
-    """Query OpenRouter with SSE streaming, live progress ticker, rate-limit backoff, and automatic fallback."""
-    headers = {
-        "Authorization": f"Bearer {api_key}",
-        "HTTP-Referer": "https://github.com/trak3r/binlore",
-        "X-Title": "Binlore Wiki Pipeline",
-        "Content-Type": "application/json",
-    }
+    """Call Google AI Studio with JSON schema. Halt on daily quota; do not fall back to other vendors."""
+    try:
+        from google import genai
+        from google.genai import types
+    except ImportError as e:
+        raise SystemExit(
+            "google-genai is not installed. From the tools venv run:\n"
+            "  pip install google-genai\n"
+        ) from e
 
-    approx_prompt_tokens = len(prompt) // 4
-    model_failures: list[dict[str, Any]] = []
+    timeout_ms = max(int(timeout * 1000), 30_000)
+    client = genai.Client(api_key=api_key, http_options=types.HttpOptions(timeout=timeout_ms))
 
+    last_error: BaseException | None = None
     for model_idx, model in enumerate(models):
         if model_idx > 0:
-            # Brief pause between models to prevent rapid-fire cascading
             time.sleep(2.0)
 
         for attempt in range(1, max_retries_per_model + 1):
             retry_note = f" (attempt {attempt}/{max_retries_per_model})" if attempt > 1 else ""
-            print(f"\n[OpenRouter] Trying model: {model}{retry_note} (timeout: {timeout:.0f}s)...", flush=True)
-            payload: dict[str, Any] = {
-                "model": model,
-                "messages": [
-                    {"role": "system", "content": SYSTEM_PROMPT},
-                    {"role": "user", "content": prompt},
-                ],
-                "temperature": 0.2,
-                "stream": True,
-            }
+            print(f"\n[Gemini] Trying model: {model}{retry_note} (timeout: {timeout:.0f}s)...", flush=True)
 
             start_time = time.time()
             stop_heartbeat = threading.Event()
-            first_token_event = threading.Event()
 
             def heartbeat() -> None:
                 spinner = ["⠋", "⠙", "⠹", "⠸", "⠼", "⠴", "⠦", "⠧", "⠇", "⠏"]
                 idx = 0
-                while not stop_heartbeat.is_set() and not first_token_event.is_set():
+                while not stop_heartbeat.is_set():
                     elapsed = time.time() - start_time
                     spin = spinner[idx % len(spinner)]
-                    sys.stdout.write(
-                        f"\r  {spin} Waiting for response (prefilling ~{approx_prompt_tokens:,} tokens)... {elapsed:.1f}s"
-                    )
-                    sys.stdout.flush()
+                    print(f"\r  {spin} waiting for Gemini ({elapsed:.0f}s)   ", end="", flush=True)
                     idx += 1
-                    time.sleep(0.12)
+                    stop_heartbeat.wait(1.0)
 
-            hb_thread = threading.Thread(target=heartbeat, daemon=True)
-            hb_thread.start()
-
-            collected_text: list[str] = []
-            should_retry_same_model = False
+            t = threading.Thread(target=heartbeat, daemon=True)
+            t.start()
             try:
-                # Allow full timeout for initial prefill / first token; bounded connect and write timeouts
-                client_timeout = httpx.Timeout(timeout, connect=25.0, read=timeout, write=25.0, pool=10.0)
-                with httpx.Client(timeout=client_timeout) as client:
-                    with client.stream("POST", OPENROUTER_API_URL, headers=headers, json=payload) as resp:
-                        if resp.status_code != 200:
-                            stop_heartbeat.set()
-                            hb_thread.join(timeout=0.5)
-                            err_text = resp.read().decode("utf-8", errors="replace")
-                            err_short = err_text[:200]
-                            model_failures.append({
-                                "model": model,
-                                "attempt": attempt,
-                                "elapsed": round(time.time() - start_time, 1),
-                                "error": f"HTTP {resp.status_code}: {err_short}",
-                            })
+                config_kwargs: dict[str, Any] = {
+                    "system_instruction": SYSTEM_PROMPT,
+                    "temperature": 0.2,
+                    "response_mime_type": "application/json",
+                    "response_schema": EXTRACT_SCHEMA,
+                }
+                try:
+                    config_kwargs["thinking_config"] = types.ThinkingConfig(thinking_budget=0)
+                except (TypeError, AttributeError):
+                    pass
 
-                            if resp.status_code in {429, 502, 503, 504} and attempt < max_retries_per_model:
-                                backoff = attempt * 8.0
-                                sys.stdout.write(
-                                    f"\r  ⚠ Model {model} returned HTTP {resp.status_code} (upstream rate-limited or busy). "
-                                    f"Retrying in {backoff:.0f}s...\n"
-                                )
-                                sys.stdout.flush()
-                                time.sleep(backoff)
-                                should_retry_same_model = True
-                                continue
-                            else:
-                                sys.stdout.write(f"\r  ✗ Model returned HTTP {resp.status_code}: {err_short}\n")
-                                sys.stdout.flush()
-                                break
-
-                        last_progress_ts = 0.0
-                        for line in resp.iter_lines():
-                            if not first_token_event.is_set() and (time.time() - start_time) > timeout:
-                                raise TimeoutError(f"Model {model} timed out waiting for first token after {timeout:.0f}s")
-                            if not line:
-                                continue
-                            line_str = line.strip()
-                            if not line_str.startswith("data:"):
-                                continue
-                            data_part = line_str[len("data:"):].strip()
-                            if data_part == "[DONE]":
-                                break
-
-                            try:
-                                chunk = json.loads(data_part)
-                            except Exception:
-                                continue
-
-                            choices = chunk.get("choices") or []
-                            if not choices:
-                                continue
-                            delta = choices[0].get("delta") or {}
-                            content_piece = delta.get("content")
-                            if content_piece:
-                                if not first_token_event.is_set():
-                                    first_token_event.set()
-                                    stop_heartbeat.set()
-                                    hb_thread.join(timeout=0.5)
-
-                                collected_text.append(content_piece)
-                                now = time.time()
-                                if now - last_progress_ts > 0.15:
-                                    last_progress_ts = now
-                                    total_chars = sum(len(c) for c in collected_text)
-                                    elapsed = now - start_time
-                                    sys.stdout.write(
-                                        f"\r  ⚡ Streaming response: {total_chars:,} chars received ({elapsed:.1f}s)..."
-                                    )
-                                    sys.stdout.flush()
-
-                stop_heartbeat.set()
-                hb_thread.join(timeout=0.5)
-
-                full_content = "".join(collected_text).strip()
-                total_chars = len(full_content)
-                elapsed = time.time() - start_time
-                sys.stdout.write(
-                    f"\r  ✓ Response complete: {total_chars:,} chars in {elapsed:.1f}s. Parsing JSON...      \n"
+                response = client.models.generate_content(
+                    model=model,
+                    contents=prompt,
+                    config=types.GenerateContentConfig(**config_kwargs),
                 )
-                sys.stdout.flush()
-
-                if not full_content:
-                    err_msg = f"Empty response from model {model}"
-                    model_failures.append({
-                        "model": model,
-                        "attempt": attempt,
-                        "elapsed": round(elapsed, 1),
-                        "error": err_msg,
-                    })
-                    break
-
-                parsed = _parse_llm_json(full_content)
-                return parsed, model
-
-            except Exception as e:
+            except Exception as exc:
                 stop_heartbeat.set()
-                hb_thread.join(timeout=0.5)
-                elapsed = time.time() - start_time
-                err_str = str(e) or type(e).__name__
-                sys.stdout.write(f"\r  ✗ Model {model} failed after {elapsed:.1f}s: {err_str}\n")
-                sys.stdout.flush()
-                model_failures.append({
-                    "model": model,
-                    "attempt": attempt,
-                    "elapsed": round(elapsed, 1),
-                    "error": err_str,
-                })
-                if should_retry_same_model:
+                print(flush=True)
+                last_error = exc
+                msg = str(exc)
+                print(f"  [Gemini] {model} error: {msg[:300]}", flush=True)
+                if _is_daily_quota_error(exc):
+                    raise DailyQuotaExceeded(
+                        f"Gemini daily quota exhausted on {model}. Stop extracting until the quota resets (midnight Pacific)."
+                    ) from exc
+                status = getattr(exc, "status_code", None) or getattr(exc, "code", None)
+                if status == 429 or "429" in msg:
+                    if attempt < max_retries_per_model:
+                        wait = 30.0 * attempt
+                        print(f"  Rate limited. Sleeping {wait:.0f}s...", flush=True)
+                        time.sleep(wait)
+                        continue
+                    raise DailyQuotaExceeded(
+                        f"Gemini 429 on {model} after {max_retries_per_model} retries. "
+                        "Treating as quota exhaustion; not falling back to another vendor."
+                    ) from exc
+                if _is_not_found_error(exc):
+                    break
+                if attempt < max_retries_per_model:
+                    time.sleep(2.0 * attempt)
                     continue
                 break
+            else:
+                stop_heartbeat.set()
+                elapsed = time.time() - start_time
+                print(f"\r  Gemini responded in {elapsed:.1f}s                    ", flush=True)
+                text = (getattr(response, "text", None) or "").strip()
+                if not text:
+                    last_error = ValueError(f"Empty response from {model}")
+                    print(f"  [Gemini] empty response from {model}", flush=True)
+                    if attempt < max_retries_per_model:
+                        continue
+                    break
+                try:
+                    parsed = validate_extraction(_parse_llm_json(text))
+                except (ValueError, json.JSONDecodeError) as exc:
+                    last_error = exc
+                    print(f"  [Gemini] schema/parse failure: {exc}", flush=True)
+                    if attempt < max_retries_per_model:
+                        continue
+                    break
+                return parsed, model
 
-    lines: list[str] = []
-    for f in model_failures:
-        att = f" (attempt {f['attempt']})" if f["attempt"] > 1 else ""
-        lines.append(f"  - [{f['model']}{att} after {f['elapsed']}s]: {f['error']}")
-    failure_summary = "\n".join(lines)
-    raise RuntimeError(f"All candidate models failed ({len(model_failures)} attempts):\n{failure_summary}")
+    raise RuntimeError(f"All Gemini models failed: {last_error}")
 
 
 def format_transcript_for_prompt(run_dir: Path) -> str:
-    """Format transcript into compact speech paragraphs anchored by start timestamps.
-
-    Reduces redundant timestamp tokens by ~40-50% while preserving timestamp precision
-    and improving LLM semantic comprehension.
-    """
+    """Format transcript into compact speech paragraphs anchored by start timestamps."""
     json_path = run_dir / "transcript.json"
     if json_path.exists():
         try:
@@ -421,7 +383,6 @@ def format_transcript_for_prompt(run_dir: Path) -> str:
                     curr_texts.append(s["text"].strip())
                     dur = s["end"] - curr_start
                     combined = " ".join(curr_texts)
-                    # Natural paragraph boundary: ~25-35s interval or sentence end
                     if dur >= 30.0 or (dur >= 20.0 and combined.endswith((".", "?", "!", '"'))):
                         m, sec = divmod(int(curr_start), 60)
                         h, m = divmod(m, 60)
@@ -440,7 +401,6 @@ def format_transcript_for_prompt(run_dir: Path) -> str:
 
     txt_path = run_dir / "transcript.txt"
     if txt_path.exists():
-        # Fallback: strip redundant ' --> HH:MM:SS' arrows
         lines = []
         for line in txt_path.read_text(encoding="utf-8").splitlines():
             clean = re.sub(r"\[(\d{1,2}:\d{2}(?::\d{2})?)\s*-->\s*\d{1,2}:\d{2}(?::\d{2})?\]", r"[\1]", line)
@@ -484,7 +444,7 @@ def extract_lore_from_vod(
     omitted_count = len(all_chars) - len(core_chars)
     core_names = [c.name for c in core_chars]
 
-    print(f"\n--- [Binlore Lore Extraction] ---")
+    print("\n--- [Binlore Lore Extraction] ---")
     print(f"Target VOD: {vod_id} ({meta.get('title', 'Unknown')})")
     print(f"Transcript: {len(transcript_text):,} chars (~{len(transcript_text)//4:,} tokens)")
     print(
@@ -492,6 +452,7 @@ def extract_lore_from_vod(
         f"({omitted_count} one-offs/public figures omitted from prompt)"
     )
     print(f"Core talent: {', '.join(core_names)}")
+    print(f"Provider: Google AI Studio  model={model}")
 
     if dry_run:
         print("\n--- [DRY RUN: Prompt Preview] ---")
@@ -504,11 +465,18 @@ def extract_lore_from_vod(
 
     api_key = get_api_key()
     models_to_try = [model]
+    if not str(model).startswith("gemini-"):
+        print(
+            f"  Warning: '{model}' is not a Gemini model id. "
+            f"Using {DEFAULT_MODEL}. Set GEMINI_MODEL in tools/.env.",
+            flush=True,
+        )
+        models_to_try = [DEFAULT_MODEL]
     for m in FALLBACK_MODELS:
         if m not in models_to_try:
             models_to_try.append(m)
 
-    extracted_data, used_model = query_openrouter(
+    extracted_data, used_model = query_gemini(
         user_prompt,
         api_key=api_key,
         models=models_to_try,
@@ -518,16 +486,18 @@ def extract_lore_from_vod(
     extracted_data["_meta"] = {
         "vod_id": vod_id,
         "model": used_model,
+        "provider": "google-ai-studio",
+        "prompt_chars": len(user_prompt),
+        "approx_prompt_tokens": len(user_prompt) // 4,
         "transcript_lines": len(transcript_text.splitlines()),
     }
 
-    # Save extraction JSON
     out_path = run_dir / "extraction.json"
     out_path.write_text(json.dumps(extracted_data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     print(f"Saved extraction results to {out_path}", flush=True)
 
-    # Update episode markdown page in content/episodes/
     from .episode import update_episode_from_extraction
+
     ep_path = update_episode_from_extraction(vod_id, extracted_data)
     print(f"Updated episode page: {ep_path.relative_to(REPO_ROOT)}", flush=True)
 

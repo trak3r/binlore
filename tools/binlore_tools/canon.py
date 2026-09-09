@@ -96,6 +96,63 @@ def load_canon_entities(directory: Path, entity_type: str) -> list[CanonEntity]:
     return entities
 
 
+_EXCLUDED_NAME_TOKENS = (
+    "trump",
+    "vance",
+    "mcconnell",
+    "graham",
+    "hegseth",
+    "biden",
+    "nixon",
+    "johnson",
+    "starmer",
+    "bevin",
+    "altman",
+    "ben hooper",
+    "card king",
+)
+
+_EXCLUDED_NOTE_TOKENS = (
+    "senator",
+    "president",
+    "politician",
+    "public figure",
+    "secretary of",
+    "vice president",
+    "biohacker",
+    "prime minister",
+    "minister",
+    "governor",
+    "congressman",
+    "representative",
+    "celebrity",
+    "actor in",
+    "movie clip",
+    "video clip",
+    "news clip",
+    "clip subject",
+    "viral video",
+    "being watched",
+    "chatter",
+    "chat user",
+    "twitch chat",
+    "raid",
+)
+
+
+def is_excluded_external_subject(name: str, notes: str = "") -> bool:
+    """True for politicians, clip subjects, chatters, raid targets — not wiki characters."""
+    lower_name = name.lower()
+    lower_notes = notes.lower()
+    if any(token in lower_name for token in _EXCLUDED_NAME_TOKENS):
+        return True
+    if any(token in lower_notes for token in _EXCLUDED_NOTE_TOKENS):
+        return True
+    if "hooper" in lower_name:
+        return True
+    return False
+
+
 def is_core_network_character(char: CanonEntity) -> bool:
     """
     Returns True if character is a core recurring show persona rather than a public figure,

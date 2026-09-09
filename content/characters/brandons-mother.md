@@ -3,7 +3,7 @@ title: Brandon's Mother
 type: character
 aliases:
   - Brandy's Mom
-first_seen: 2026-06-27
+first_seen: 2026-06-08
 status: unseen family voice
 tags:
   - character
@@ -28,18 +28,19 @@ Her shouting matches with Brandon—whom she frequently addresses as "Brandy"—
 
 
 
+
 | Episode | Notes |
 |---------|-------|
-| [[episodes/2026-09-07|2026-09-07]] | Harangues Brandon through the closed door during his *Intelligent Qube* PlayStation emulation session. |
-| [[episodes/2026-09-02|2026-09-02]] | Speaks with Old English vocal affectations following a bumper-car accident with Pastor Joe at a local fair. |
-| [[episodes/2026-09-01|2026-09-01]] | Harangues Brandon about unwashed clothing, turnip consumption, Pastor Joe's visit, and her Italian road bicycle. |
-| [[episodes/2026-08-26|2026-08-26]] | Interrupts *The Journey Home* gameplay regarding Gooters wet wings, sloppy chicken fries, and potato turduckens. |
-| [[episodes/2026-07-11|2026-07-11]] | Screams through the door about hair cream, unannounced parties, and Taco Bell gastrointestinal emergencies. |
-| [[episodes/2026-06-29|2026-06-29]] | Shouts about Subway party sub theft, feral pig hoses, and household flooding with dead hogs. |
-| [[episodes/2026-06-27|2026-06-27]] | Shouts through the bedroom door regarding chimichangas, air fryers, and backyard Jello pools. |
-| [[episodes/2026-06-22|2026-06-22]] | Unseen family voice making presence known via muffled screaming through the drywall during Brandon's gaming segment. |
-| [[episodes/2026-06-15|2026-06-15]] | Unseen family voice, yells through the wall. |
 | [[episodes/2026-06-08|2026-06-08]] | Unseen family voice. Constantly yells through door: nursing job pride, threatens to sell Brandon for benzos, Mr. Pib bath prank, demands chicken fries from 'Gooners'. |
+| [[episodes/2026-06-15|2026-06-15]] | Unseen family voice, yells through the wall. |
+| [[episodes/2026-06-22|2026-06-22]] | Unseen family voice making presence known via muffled screaming through the drywall during Brandon's gaming segment. |
+| [[episodes/2026-06-27|2026-06-27]] | Shouts through the bedroom door regarding chimichangas, air fryers, and backyard Jello pools. |
+| [[episodes/2026-06-29|2026-06-29]] | Shouts about Subway party sub theft, feral pig hoses, and household flooding with dead hogs. |
+| [[episodes/2026-07-11|2026-07-11]] | Screams through the door about hair cream, unannounced parties, and Taco Bell gastrointestinal emergencies. |
+| [[episodes/2026-08-26|2026-08-26]] | Interrupts *The Journey Home* gameplay regarding Gooters wet wings, sloppy chicken fries, and potato turduckens. |
+| [[episodes/2026-09-01|2026-09-01]] | Harangues Brandon about unwashed clothing, turnip consumption, Pastor Joe's visit, and her Italian road bicycle. |
+| [[episodes/2026-09-02|2026-09-02]] | Speaks with Old English vocal affectations following a bumper-car accident with Pastor Joe at a local fair. |
+| [[episodes/2026-09-07|2026-09-07]] | Harangues Brandon through the closed door during his *Intelligent Qube* PlayStation emulation session. |
 
 ## Notable Moments
 

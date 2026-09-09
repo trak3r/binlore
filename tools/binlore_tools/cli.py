@@ -118,7 +118,8 @@ def cmd_update_wiki(args: argparse.Namespace) -> int:
     report = update_wiki_from_extraction(
         vod_id=vod_id,
         dry_run=args.dry_run,
-        auto_create_characters=not args.no_create_characters,
+        auto_create_characters=bool(args.create_characters) and not bool(getattr(args, "no_create_characters", False)),
+        update_storylines=args.update_storylines,
     )
 
     prefix = "[DRY RUN] Would update" if args.dry_run else "Updated"
@@ -149,8 +150,10 @@ def cmd_update_wiki(args: argparse.Namespace) -> int:
         for idx in report.indexes_updated:
             print(f"  ✓ content/{idx}")
 
-    if not (report.characters_updated or report.characters_created or report.storylines_updated or report.segments_updated):
-        print("Everything is already up-to-date. No new wiki changes needed.")
+    if report.unknown_queued:
+        print(f"Queued unknown names for review ({len(report.unknown_queued)}):")
+        for name in report.unknown_queued:
+            print(f"  ? {name}")
 
     print("----------------------------------------\n")
     return 0
@@ -223,20 +226,28 @@ def cmd_process_all(args: argparse.Namespace) -> int:
         st = check_backlog_status()
         print("\n--- [BIN Lore Backlog Status] ---")
         print(f"Total catalog streams: {st['total_streams']}")
-        print(f"Ingested & Extracted:  {st['ingested_count']}")
-        print(f"Remaining in Backlog:  {st['backlog_count']} ({st['percent_complete']} complete)")
+        print(f"Transcribed:           {st['transcribed_count']}")
+        print(f"Extracted:             {st['extracted_count']}")
+        print(f"Untranscribed:         {st['untranscribed_count']} ({st['percent_complete']} transcribed)")
+        print(f"Unextracted:           {st.get('unextracted_count', 0)}")
         print(f"Free Disk Space:       {st['free_disk_gb']}")
         if st.get("next_unprocessed"):
             nx = st["next_unprocessed"]
-            print(f"Next in queue:         {nx.get('date')} — {nx.get('title')}")
+            print(f"Next to transcribe:    {nx.get('date')} — {nx.get('title')}")
+        if st.get("next_unextracted"):
+            nx = st["next_unextracted"]
+            print(f"Next to extract:       {nx.get('date')} — {nx.get('title')}")
         print("---------------------------------\n")
         return 0
 
+    if getattr(args, "command", "") == "transcribe-all":
+        args.skip_extract = True
+
     return run_batch_processing(
         limit=args.limit,
-        oldest_first=args.oldest_first,
+        oldest_first=not args.newest_first,
         whisper_model=args.model,
-        openrouter_model=args.openrouter_model,
+        extract_model=args.extract_model,
         delay=args.delay,
         timeout=args.timeout,
         clean_audio=not args.keep_audio,
@@ -297,7 +308,7 @@ def build_parser() -> argparse.ArgumentParser:
     )
     ing.set_defaults(func=cmd_ingest)
 
-    ext = sub.add_parser("extract", help="Extract segments, characters, and lore using OpenRouter")
+    ext = sub.add_parser("extract", help="Extract segments, characters, and lore using Google AI Studio")
     ext.add_argument("target", nargs="?", help="VOD ID or Twitch URL (defaults to latest ingested run)")
     ext.add_argument(
         "--latest",
@@ -307,18 +318,18 @@ def build_parser() -> argparse.ArgumentParser:
     ext.add_argument(
         "--model",
         default=DEFAULT_MODEL,
-        help=f"OpenRouter model ID (default: {DEFAULT_MODEL})",
+        help=f"Gemini model id (default: {DEFAULT_MODEL})",
     )
     ext.add_argument(
         "--timeout",
         type=float,
         default=180.0,
-        help="Timeout in seconds per model before falling back (default: 180)",
+        help="Timeout in seconds per model (default: 180)",
     )
     ext.add_argument(
         "--dry-run",
         action="store_true",
-        help="Preview prompt and token estimate without calling OpenRouter",
+        help="Preview prompt and token estimate without calling Gemini",
     )
     ext.set_defaults(func=cmd_extract)
 
@@ -330,9 +341,19 @@ def build_parser() -> argparse.ArgumentParser:
         help="Update wiki from the most recently ingested VOD",
     )
     wiki.add_argument(
+        "--create-characters",
+        action="store_true",
+        help="Auto-create character pages for unknown names (default: queue them for review)",
+    )
+    wiki.add_argument(
         "--no-create-characters",
         action="store_true",
-        help="Do not auto-create new character files for newly detected personas",
+        help=argparse.SUPPRESS,
+    )
+    wiki.add_argument(
+        "--update-storylines",
+        action="store_true",
+        help="Append storyline beats (default: defer to a corpus pass)",
     )
     wiki.add_argument(
         "--dry-run",
@@ -371,10 +392,10 @@ def build_parser() -> argparse.ArgumentParser:
     clean.set_defaults(func=cmd_clean)
 
     # Autonomous unattended batch processor
-    for name in ["process-all", "batch"]:
+    for name in ["process-all", "batch", "transcribe-all"]:
         proc = sub.add_parser(
             name,
-            help="Unattended batch processing of all unprocessed episodes with auto disk cleanup",
+            help="Unattended backlog processor (default: transcribe only; --extract to mine)",
         )
         proc.add_argument(
             "--limit",
@@ -385,7 +406,13 @@ def build_parser() -> argparse.ArgumentParser:
         proc.add_argument(
             "--oldest-first",
             action="store_true",
-            help="Process backlog from oldest to newest (default: newest first)",
+            default=True,
+            help="Process backlog from oldest to newest (default)",
+        )
+        proc.add_argument(
+            "--newest-first",
+            action="store_true",
+            help="Process backlog from newest to oldest",
         )
         proc.add_argument(
             "--model",
@@ -393,9 +420,11 @@ def build_parser() -> argparse.ArgumentParser:
             help="faster-whisper model size (default: small)",
         )
         proc.add_argument(
+            "--extract-model",
             "--openrouter-model",
+            dest="extract_model",
             default=DEFAULT_MODEL,
-            help=f"OpenRouter model slug (default: {DEFAULT_MODEL})",
+            help=f"Gemini model id for lore extraction (default: {DEFAULT_MODEL})",
         )
         proc.add_argument(
             "--delay",
@@ -406,8 +435,8 @@ def build_parser() -> argparse.ArgumentParser:
         proc.add_argument(
             "--timeout",
             type=float,
-            default=90.0,
-            help="Extraction timeout in seconds per model (default: 90.0)",
+            default=180.0,
+            help="Extraction timeout in seconds (default: 180)",
         )
         proc.add_argument(
             "--min-disk-gb",
@@ -437,8 +466,16 @@ def build_parser() -> argparse.ArgumentParser:
         )
         proc.add_argument(
             "--skip-extract",
+            dest="skip_extract",
             action="store_true",
-            help="Only ingest and transcribe, skip LLM extraction and wiki updates",
+            default=True,
+            help="Only ingest and transcribe (default)",
+        )
+        proc.add_argument(
+            "--extract",
+            dest="skip_extract",
+            action="store_false",
+            help="Mine transcripts with Gemini (oldest-first); requires GEMINI_API_KEY",
         )
         proc.add_argument(
             "--no-skip-drafts",

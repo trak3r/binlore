@@ -4,7 +4,7 @@ type: character
 aliases:
   - Pepito the Dog
   - Peptron 3000
-first_seen: 2026-09-02
+first_seen: 2026-05-26
 status: executive producer
 tags:
   - character
@@ -60,37 +60,38 @@ Beyond station management, Pepito is known for asserting his demands across the 
 
 
 
+
 | Episode | Notes |
 |---------|-------|
-| [[episodes/2026-09-07|2026-09-07]] | Opens the Season 3 finale from the Producer Cam; leads the broadcast sign-off song and offers to consume any loose skin from Munch following the studio inferno. |
+| [[episodes/2026-05-26|2026-05-26]] | Executive producer and the network's canine mascot. Opens every broadcast with his signature 'I'm Pepito, I'm the dog that produces the show' intro. Remains present throughout the entire episode. |
+| [[episodes/2026-05-29|2026-05-29]] | Executive producer opening the show with his signature intro. |
+| [[episodes/2026-06-03|2026-06-03]] | Executive Producer. Canine broadcast executive appearing via Producer Cam. Opens show, manages sub goals, discusses Bart Simpson tattoo logistics. |
+| [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
+| [[episodes/2026-06-08|2026-06-08]] | Executive producer (canine). Opens broadcast, manages raid, announces Pepito Moss July 6. |
+| [[episodes/2026-06-15|2026-06-15]] | Executive producer, opens the show with birthday greetings. |
+| [[episodes/2026-06-18|2026-06-18]] | Executive producer; appears via Producer Cam as canine broadcast executive. Broadcasts from Case's house after moving company error. |
+| [[episodes/2026-06-19|2026-06-19]] |  |
+| [[episodes/2026-06-22|2026-06-22]] | Executive producer opening the broadcast from the producer cam, thanking subscribers and rambling about various topics. |
+| [[episodes/2026-06-27|2026-06-27]] | Executive producer of Barely Informed News. |
+| [[episodes/2026-06-29|2026-06-29]] | Executive producer introducing the broadcast from the control room with his signature 'I'm the dog that produces the show' opening. Referenced as having built up a tolerance to almost everything. |
+| [[episodes/2026-07-11|2026-07-11]] | Executive Producer; opens the broadcast and attempts to intervene during the sub goal shout-out. |
+| [[episodes/2026-07-13|2026-07-13]] | Executive Producer providing cold open countdown and failing to locate Mitch McConnell in the 'weird sandpit'. |
+| [[episodes/2026-07-16|2026-07-16]] | Executive producer delivers cold open intro before cutting to live broadcast. |
+| [[episodes/2026-07-17|2026-07-17]] | Executive Producer, opened the broadcast via producer cam. |
+| [[episodes/2026-07-20|2026-07-20]] | Executive producer. Opens the broadcast, generates random names, and is heard with a distorted/deep voice eating the floor at the end of the stream. |
+| [[episodes/2026-07-23|2026-07-23]] | Executive Producer. Opens the show with his standard canine greeting and later demands his ankle be sacrificed to him. |
+| [[episodes/2026-07-24|2026-07-24]] | Executive Producer. Opens the broadcast with his signature canine greeting and closes the show with an improvised spiritual sermon on AX body spray commercials, pocket jerky, Peter Gibbon spilling battery acid, and playing the 'Pure Mood' CD. |
+| [[episodes/2026-08-04|2026-08-04]] | Executive Producer. Opens the show from the producer cam, later accidentally leaves Brandon's bedroom door mic live, declares the CryptoZeu$ house 'just right,' and attempts to coax chicken ankles under the door. |
+| [[episodes/2026-08-06|2026-08-06]] | Executive producer appearing via the dedicated Producer Cam. Delivers his signature canine cold open ('I'm Pepito, I'm the dog that produces the show'). |
+| [[episodes/2026-08-08|2026-08-08]] | Executive Producer who opens the broadcast via the Producer Cam. |
+| [[episodes/2026-08-13|2026-08-13]] | Executive producer appearing via producer cam. Confirms stream is live, remains unimpressed by Hype Train's turd freestyle, and explains his difficulty eating cheese due to tongue immobility. |
+| [[episodes/2026-08-14|2026-08-14]] | Executive Producer. Opens the broadcast with his signature 'I'm Pepito, I'm the dog that produces the show' introduction, handles the live countdown, and pushes the PNUI data scraping promo. |
+| [[episodes/2026-08-19|2026-08-19]] | Executive Producer opening the broadcast from the Producer Cam. |
+| [[episodes/2026-08-26|2026-08-26]] | Delivers the official network cold-open and production queue. |
+| [[episodes/2026-09-01|2026-09-01]] | Executes the top-of-hour station sign-on and production countdown. |
 | [[episodes/2026-09-02|2026-09-02]] | Delivers the station sign-on: *"I'm Pepito, I'm the dog that produces the show, and now it is live, and I'm a dog."* |
 | [[episodes/2026-09-04|2026-09-04]] | Opens the broadcast; later in the evening commandeers the Producer Cam to demand an entire bag of sangria for Labor Day weekend while Blackwell is away. Clarifies that he does not perform tricks for viewers. |
-| [[episodes/2026-09-01|2026-09-01]] | Executes the top-of-hour station sign-on and production countdown. |
-| [[episodes/2026-08-26|2026-08-26]] | Delivers the official network cold-open and production queue. |
-| [[episodes/2026-08-19|2026-08-19]] | Executive Producer opening the broadcast from the Producer Cam. |
-| [[episodes/2026-08-14|2026-08-14]] | Executive Producer. Opens the broadcast with his signature 'I'm Pepito, I'm the dog that produces the show' introduction, handles the live countdown, and pushes the PNUI data scraping promo. |
-| [[episodes/2026-08-13|2026-08-13]] | Executive producer appearing via producer cam. Confirms stream is live, remains unimpressed by Hype Train's turd freestyle, and explains his difficulty eating cheese due to tongue immobility. |
-| [[episodes/2026-08-08|2026-08-08]] | Executive Producer who opens the broadcast via the Producer Cam. |
-| [[episodes/2026-08-06|2026-08-06]] | Executive producer appearing via the dedicated Producer Cam. Delivers his signature canine cold open ('I'm Pepito, I'm the dog that produces the show'). |
-| [[episodes/2026-08-04|2026-08-04]] | Executive Producer. Opens the show from the producer cam, later accidentally leaves Brandon's bedroom door mic live, declares the CryptoZeu$ house 'just right,' and attempts to coax chicken ankles under the door. |
-| [[episodes/2026-07-24|2026-07-24]] | Executive Producer. Opens the broadcast with his signature canine greeting and closes the show with an improvised spiritual sermon on AX body spray commercials, pocket jerky, Peter Gibbon spilling battery acid, and playing the 'Pure Mood' CD. |
-| [[episodes/2026-07-23|2026-07-23]] | Executive Producer. Opens the show with his standard canine greeting and later demands his ankle be sacrificed to him. |
-| [[episodes/2026-07-20|2026-07-20]] | Executive producer. Opens the broadcast, generates random names, and is heard with a distorted/deep voice eating the floor at the end of the stream. |
-| [[episodes/2026-07-17|2026-07-17]] | Executive Producer, opened the broadcast via producer cam. |
-| [[episodes/2026-07-16|2026-07-16]] | Executive producer delivers cold open intro before cutting to live broadcast. |
-| [[episodes/2026-07-13|2026-07-13]] | Executive Producer providing cold open countdown and failing to locate Mitch McConnell in the 'weird sandpit'. |
-| [[episodes/2026-07-11|2026-07-11]] | Executive Producer; opens the broadcast and attempts to intervene during the sub goal shout-out. |
-| [[episodes/2026-06-29|2026-06-29]] | Executive producer introducing the broadcast from the control room with his signature 'I'm the dog that produces the show' opening. Referenced as having built up a tolerance to almost everything. |
-| [[episodes/2026-06-27|2026-06-27]] | Executive producer of Barely Informed News. |
-| [[episodes/2026-06-22|2026-06-22]] | Executive producer opening the broadcast from the producer cam, thanking subscribers and rambling about various topics. |
-| [[episodes/2026-06-19|2026-06-19]] |  |
-| [[episodes/2026-06-18|2026-06-18]] | Executive producer; appears via Producer Cam as canine broadcast executive. Broadcasts from Case's house after moving company error. |
-| [[episodes/2026-06-15|2026-06-15]] | Executive producer, opens the show with birthday greetings. |
-| [[episodes/2026-06-08|2026-06-08]] | Executive producer (canine). Opens broadcast, manages raid, announces Pepito Moss July 6. |
-| [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
-| [[episodes/2026-06-03|2026-06-03]] | Executive Producer. Canine broadcast executive appearing via Producer Cam. Opens show, manages sub goals, discusses Bart Simpson tattoo logistics. |
-| [[episodes/2026-05-29|2026-05-29]] | Executive producer opening the show with his signature intro. |
-| [[episodes/2026-05-26|2026-05-26]] | Executive producer and the network's canine mascot. Opens every broadcast with his signature 'I'm Pepito, I'm the dog that produces the show' intro. Remains present throughout the entire episode. |
+| [[episodes/2026-09-07|2026-09-07]] | Opens the Season 3 finale from the Producer Cam; leads the broadcast sign-off song and offers to consume any loose skin from Munch following the studio inferno. |
 
 ## Notable moments
 

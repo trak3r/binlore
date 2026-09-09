@@ -7,8 +7,7 @@ aliases:
   - Leonard Crumb
   - Leonard Crumfuscious
   - Crumfuscious
-first_seen:
-status: recurring
+first_seen: 2026-05-26
 tags:
   - character
   - debate
@@ -51,30 +50,31 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 
 
 
+
 | Episode | Notes |
 |---------|-------|
-| [[episodes/2026-09-07|2026-09-07]] | Steps up to face the long-delayed Rock-afire Gorilla execution during the Season 3 finale. Reveals his physical conditioning included swinging 45-pound logs into his groin. Survives a catastrophic mechanical explosion that destroys the gorilla and burns Munch into a talking skeleton, claiming ultimate victory. |
-| [[episodes/2026-09-04|2026-09-04]] | Takes the debate desk following the botched occult ritual, temporarily disoriented into believing he has swapped identities with Munch. Employs archaic slang ('japs' for mischief) and prepares for his scheduled Monday robotic gorilla encounter. |
-| [[episodes/2026-09-02|2026-09-02]] | Vehemently denies Epstein-related defamation, reaffirms his impending Monday forfeit, explains why his wife's breasts were excluded from the Best Boob Club, claims "super strength in spits," and reveals his glove-box carrot supply. |
-| [[episodes/2026-09-01|2026-09-01]] | Recounts the origin of the robotic gorilla wager, confirms he is spiritually prepared for the Monday execution, defends mayonnaise as the superior pizza topping, defeats Munch decisively on the scoreboard, and discusses Pastor Joe's favorite prayer. |
-| [[episodes/2026-08-26|2026-08-26]] | Serves as a self-described Democratic Party representative but balks at endorsing Mamdani; ultimately pressured into endorsing Munchcut for mayor. Attempts to defer the robotic gorilla execution with iron armor. |
-| [[episodes/2026-08-19|2026-08-19]] | Senior debate analyst who wanders into the news desk to compare himself to a bald mystic and claim proprietary ownership over an AI urine company concept. |
-| [[episodes/2026-08-14|2026-08-14]] | Senior Debate Analyst. Defends Hasan Piker's need for empathy and lighter segments, then spends the rest of the segment hijacking buttons and triggering his own outro music while arguing 'trime' is a portmanteau. Later manifests as the merged 'Kendelle' identity attempting to announce a breakup during the outro. |
-| [[episodes/2026-08-08|2026-08-08]] | Senior debate analyst. Reveals his 26-year-old daughter Bethesda legally emancipated herself due to a disastrous pony delivery. Picks both Tobey Maguire and Tom Holland. Schedules the Crum Dick Punch for August 31st. Later pitches his out-of-print memoir 'Crum Fused' and offers to be an expert in holding it for people while they urinate. |
-| [[episodes/2026-08-04|2026-08-04]] | Senior debate analyst. Opposes Munch's anti-medicine stance, insists Blackwell see a doctor, and ultimately slams the segment-end button early to cut off Munch's ranting. |
-| [[episodes/2026-07-23|2026-07-23]] | Senior Debate Analyst. Brief vocal intrusion to push through the portal to hell and demand Case get well soon, before disappearing back into the ether. |
-| [[episodes/2026-07-17|2026-07-17]] | Senior debate analyst. Bantered in cold open, defended his MIDI keyboard, debated merch priority with Munch, recorded the Stephanie merch-drop rap with explicit pre-emptive marital fidelity disclaimer to his wife Belolia, appeared during the Chet therapy segment. |
-| [[episodes/2026-07-16|2026-07-16]] | Senior debate analyst declares Trump lost the 2020 election with 100% certainty, mocks Munch's rhetorical collapse, and complains about nipple spike distractions before prematurely exiting the debate. |
-| [[episodes/2026-07-13|2026-07-13]] | Senior debate analyst arguing for the reinstatement of AI Rooney. Shares a bizarre, fabricated(?) origin story of his name involving a Crumbl cookie shop birth on a 12-inch party sub. |
-| [[episodes/2026-07-11|2026-07-11]] | Senior debate analyst; criticizes Case's haircut, references his father's dealership, and flees after a debate over political violence. |
-| [[episodes/2026-06-29|2026-06-29]] | Mentioned repeatedly. Case notes he is 'using help hours to silence chat' and wonders if he'll be 'in a honey sack' during the stream. Crum goat suggested as a potential first merch design, with 'Crum' winning the chat shirt vote (genital slit). |
-| [[episodes/2026-06-27|2026-06-27]] | Senior debate analyst. Interjects from the satellite room to rap with the Hype Train and debate Reggae vs Emo. |
-| [[episodes/2026-06-19|2026-06-19]] |  |
-| [[episodes/2026-06-18|2026-06-18]] | Senior debate analyst. Hollow-eyed, bald. Demands total abolition of improvisation. Suffers 36-year UTI causing acidic urine. Openly hates Irish people. Wife seeing therapist (referenced). Gambling debts canonical but not mentioned this episode. |
-| [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity and Dick Punch wager. |
-| [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (hollow-eyed, bald). Argues for political decorum, reveals Dubai 'classified' social life, honey-bag therapy, claims penile conditioning for gorilla dick-punch. |
-| [[episodes/2026-06-05|2026-06-05]] | Senior debate analyst serving as Munch's primary political counterweight, known for gambling debts and blunt rhetoric. |
 | [[episodes/2026-05-26|2026-05-26]] | Senior debate analyst characterized by hollow eyes and perpetual gambling debts. Serves as Munch's primary ideological counterpoint in the Munch & Crum debate segment. |
+| [[episodes/2026-06-05|2026-06-05]] | Senior debate analyst serving as Munch's primary political counterweight, known for gambling debts and blunt rhetoric. |
+| [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (hollow-eyed, bald). Argues for political decorum, reveals Dubai 'classified' social life, honey-bag therapy, claims penile conditioning for gorilla dick-punch. |
+| [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity and Dick Punch wager. |
+| [[episodes/2026-06-18|2026-06-18]] | Senior debate analyst. Hollow-eyed, bald. Demands total abolition of improvisation. Suffers 36-year UTI causing acidic urine. Openly hates Irish people. Wife seeing therapist (referenced). Gambling debts canonical but not mentioned this episode. |
+| [[episodes/2026-06-19|2026-06-19]] |  |
+| [[episodes/2026-06-27|2026-06-27]] | Senior debate analyst. Interjects from the satellite room to rap with the Hype Train and debate Reggae vs Emo. |
+| [[episodes/2026-06-29|2026-06-29]] | Mentioned repeatedly. Case notes he is 'using help hours to silence chat' and wonders if he'll be 'in a honey sack' during the stream. Crum goat suggested as a potential first merch design, with 'Crum' winning the chat shirt vote (genital slit). |
+| [[episodes/2026-07-11|2026-07-11]] | Senior debate analyst; criticizes Case's haircut, references his father's dealership, and flees after a debate over political violence. |
+| [[episodes/2026-07-13|2026-07-13]] | Senior debate analyst arguing for the reinstatement of AI Rooney. Shares a bizarre, fabricated(?) origin story of his name involving a Crumbl cookie shop birth on a 12-inch party sub. |
+| [[episodes/2026-07-16|2026-07-16]] | Senior debate analyst declares Trump lost the 2020 election with 100% certainty, mocks Munch's rhetorical collapse, and complains about nipple spike distractions before prematurely exiting the debate. |
+| [[episodes/2026-07-17|2026-07-17]] | Senior debate analyst. Bantered in cold open, defended his MIDI keyboard, debated merch priority with Munch, recorded the Stephanie merch-drop rap with explicit pre-emptive marital fidelity disclaimer to his wife Belolia, appeared during the Chet therapy segment. |
+| [[episodes/2026-07-23|2026-07-23]] | Senior Debate Analyst. Brief vocal intrusion to push through the portal to hell and demand Case get well soon, before disappearing back into the ether. |
+| [[episodes/2026-08-04|2026-08-04]] | Senior debate analyst. Opposes Munch's anti-medicine stance, insists Blackwell see a doctor, and ultimately slams the segment-end button early to cut off Munch's ranting. |
+| [[episodes/2026-08-08|2026-08-08]] | Senior debate analyst. Reveals his 26-year-old daughter Bethesda legally emancipated herself due to a disastrous pony delivery. Picks both Tobey Maguire and Tom Holland. Schedules the Crum Dick Punch for August 31st. Later pitches his out-of-print memoir 'Crum Fused' and offers to be an expert in holding it for people while they urinate. |
+| [[episodes/2026-08-14|2026-08-14]] | Senior Debate Analyst. Defends Hasan Piker's need for empathy and lighter segments, then spends the rest of the segment hijacking buttons and triggering his own outro music while arguing 'trime' is a portmanteau. Later manifests as the merged 'Kendelle' identity attempting to announce a breakup during the outro. |
+| [[episodes/2026-08-19|2026-08-19]] | Senior debate analyst who wanders into the news desk to compare himself to a bald mystic and claim proprietary ownership over an AI urine company concept. |
+| [[episodes/2026-08-26|2026-08-26]] | Serves as a self-described Democratic Party representative but balks at endorsing Mamdani; ultimately pressured into endorsing Munchcut for mayor. Attempts to defer the robotic gorilla execution with iron armor. |
+| [[episodes/2026-09-01|2026-09-01]] | Recounts the origin of the robotic gorilla wager, confirms he is spiritually prepared for the Monday execution, defends mayonnaise as the superior pizza topping, defeats Munch decisively on the scoreboard, and discusses Pastor Joe's favorite prayer. |
+| [[episodes/2026-09-02|2026-09-02]] | Vehemently denies Epstein-related defamation, reaffirms his impending Monday forfeit, explains why his wife's breasts were excluded from the Best Boob Club, claims "super strength in spits," and reveals his glove-box carrot supply. |
+| [[episodes/2026-09-04|2026-09-04]] | Takes the debate desk following the botched occult ritual, temporarily disoriented into believing he has swapped identities with Munch. Employs archaic slang ('japs' for mischief) and prepares for his scheduled Monday robotic gorilla encounter. |
+| [[episodes/2026-09-07|2026-09-07]] | Steps up to face the long-delayed Rock-afire Gorilla execution during the Season 3 finale. Reveals his physical conditioning included swinging 45-pound logs into his groin. Survives a catastrophic mechanical explosion that destroys the gorilla and burns Munch into a talking skeleton, claiming ultimate victory. |
 
 ## Notable moments
 

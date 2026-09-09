@@ -4,7 +4,7 @@ type: character
 aliases:
   - Newsic
   - The Newsic Guy
-first_seen: 2026-07-23
+first_seen: 2026-06-05
 status: active
 tags:
   - character
@@ -44,12 +44,13 @@ His signature broadcast mission is "singing the news"—specifically fast-tracki
 
 
 
+
 | Episode | Notes |
 |---------|-------|
-| [[episodes/2026-07-23|2026-07-23]] | Broadcast debut. Emerged from under the desk with electric blue hair and sunglasses, laid down techno tracks, and sang auto-tuned news regarding South Korean insect culinary regulations. |
-| [[episodes/2026-06-19|2026-06-19]] | Signature closing segment performing auto-tuned techno songs while presenting updated statistics and concluding the broadcast. |
-| [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of raid, not actively speaking. |
 | [[episodes/2026-06-05|2026-06-05]] | Auto-tuned music host who delivers the signature closing news recap with heavy techno production. |
+| [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of raid, not actively speaking. |
+| [[episodes/2026-06-19|2026-06-19]] | Signature closing segment performing auto-tuned techno songs while presenting updated statistics and concluding the broadcast. |
+| [[episodes/2026-07-23|2026-07-23]] | Broadcast debut. Emerged from under the desk with electric blue hair and sunglasses, laid down techno tracks, and sang auto-tuned news regarding South Korean insect culinary regulations. |
 
 ## Notable Quotes
 

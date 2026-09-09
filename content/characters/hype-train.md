@@ -3,7 +3,7 @@ title: Hype Train
 type: character
 aliases:
   - Hyper Train
-first_seen: 2026-09-02
+first_seen: 2026-05-29
 status: recurring
 tags:
   - character
@@ -51,33 +51,34 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 
 
 
+
 | Episode | Notes |
 |---------|-------|
-| [[episodes/2026-09-07|2026-09-07]] | Intercepts the desk on a futuristic synthwave beat, delivering an impassioned freestyle about wearing denim jeans with his girls, Roman urine laundering, and proposed tombstone epitaphs. |
+| [[episodes/2026-05-29|2026-05-29]] | Musical correspondent delivering an extended rap about body parts and time travel. |
+| [[episodes/2026-06-03|2026-06-03]] | High-velocity musical/cultural correspondent. Triggered by hype train surge. Raps about eating 'human dog shit', thanks subscribers, claims second job as bassoonist. |
+| [[episodes/2026-06-08|2026-06-08]] | Sentient locomotive correspondent. Delivers surreal piss-machete freestyle rap during pre-show. |
+| [[episodes/2026-06-15|2026-06-15]] | High-velocity musical correspondent, discusses aging and dinosaurs. |
+| [[episodes/2026-06-18|2026-06-18]] | Sentient locomotive correspondent. Advocates lawn oiling/urination/copulation regimen. Departs after two subs. Travels with panther companion. |
+| [[episodes/2026-06-22|2026-06-22]] | High-velocity musical correspondent who confesses to cheating on his Panther girlfriend, discusses beats, and provides cultural commentary throughout the pre-show. |
+| [[episodes/2026-06-27|2026-06-27]] | High-velocity musical and cultural correspondent. |
+| [[episodes/2026-06-29|2026-06-29]] | High-velocity cultural correspondent. Delivers an extended ice/piss freestyle rap, then reappears during Trip on the Streets as a park visitor hijacking the interview with spoken-word about 1972 Dulp and a DVD player. Mourns the late wrestler Ice Train. |
+| [[episodes/2026-07-11|2026-07-11]] | High-velocity musical correspondent; performs a podcasting freestyle and executes an acapella sub goal shout-out. |
+| [[episodes/2026-07-13|2026-07-13]] | Sentient locomotive correspondent rapping about a sock filled with 'ass' during a hype train surge. |
+| [[episodes/2026-07-17|2026-07-17]] | Musical correspondent. Triggered by sub cascade. Introduced 'piss hunters' sub-goal, name-dropped George Carlin, pivoted to Spanish guitar beat, proposed 'In the lattice fucking piss' as the new stream tag. |
+| [[episodes/2026-07-20|2026-07-20]] | High-velocity cultural correspondent. Battle raps against Lincoln over bodily fluids and is forced to read subs after losing the rap battle. |
+| [[episodes/2026-07-23|2026-07-23]] | High-Velocity Cultural Correspondent. Briefly attempts to hijack the intro but is forcefully rejected by Case in favor of addressing his injury, leading to Hype Train lamenting he was let to die. |
+| [[episodes/2026-07-24|2026-07-24]] | Notably absent and described as 'still taking a nap' throughout the broadcast. A caller impersonates 'normal hype train' during the Streets segment; broadcast raid is sent to Hype Train at sign-off. |
+| [[episodes/2026-08-04|2026-08-04]] | Sentient locomotive correspondent. Interrupts the pre-show to acknowledge subscribers, delivers a freestyle rap about losing his caboose, and returns later in the broadcast for additional beats. |
+| [[episodes/2026-08-06|2026-08-06]] | High-velocity cultural correspondent. Commandeers the broadcast early but battles a malfunctioning synthwave widget ('visualization is not supported on my system') and a missing partner (his panther girlfriend). |
+| [[episodes/2026-08-08|2026-08-08]] | High-velocity cultural correspondent. Hijacks the broadcast after the word 'science' is uttered, rapping about living urine organisms being oppressed by flushing, then pivoting to raps about love existing in stars, bars, and explosions. |
+| [[episodes/2026-08-13|2026-08-13]] | High-velocity musical and cultural correspondent. Delivers extended freestyle raps on 'turd,' 'money flossing,' 'Cheeto golf tee,' and hot money piss. Chat votes 99.9% it is indeed piss. Panther companion present but not heard. |
+| [[episodes/2026-08-14|2026-08-14]] | Triggered briefly when Liliana reads the hype train alerts at the top of the broadcast. No on-air segment during this telecast. |
+| [[episodes/2026-08-19|2026-08-19]] | High-velocity cultural correspondent deploying to override the broadcast for extended freestyle raps over cereal-type beats. |
+| [[episodes/2026-08-26|2026-08-26]] | Commandeers the broadcast with rapid-fire film reviews of non-existent single-word titles before outlining the linguistic origins of an ancient fluidic language pre-dating Homer. |
+| [[episodes/2026-09-01|2026-09-01]] | Delivers an extended rap describing locomotive reproduction, giving birth to train cars and skeletons; notably abstains from fluidic topics for the entire appearance. |
 | [[episodes/2026-09-02|2026-09-02]] | Derails subscriber acknowledgments to promote *Piss Fruit Ninja*, commands a vaudeville rhythm, raps about his Panther partner, and details his crypto universe upbringing. |
 | [[episodes/2026-09-04|2026-09-04]] | Hijacks the broadcast to argue that eggs lack pre-injected sauce, performs Dr. Seuss-style egg raps, acknowledges donors, and requests love ballads when viewers depart. |
-| [[episodes/2026-09-01|2026-09-01]] | Delivers an extended rap describing locomotive reproduction, giving birth to train cars and skeletons; notably abstains from fluidic topics for the entire appearance. |
-| [[episodes/2026-08-26|2026-08-26]] | Commandeers the broadcast with rapid-fire film reviews of non-existent single-word titles before outlining the linguistic origins of an ancient fluidic language pre-dating Homer. |
-| [[episodes/2026-08-19|2026-08-19]] | High-velocity cultural correspondent deploying to override the broadcast for extended freestyle raps over cereal-type beats. |
-| [[episodes/2026-08-14|2026-08-14]] | Triggered briefly when Liliana reads the hype train alerts at the top of the broadcast. No on-air segment during this telecast. |
-| [[episodes/2026-08-13|2026-08-13]] | High-velocity musical and cultural correspondent. Delivers extended freestyle raps on 'turd,' 'money flossing,' 'Cheeto golf tee,' and hot money piss. Chat votes 99.9% it is indeed piss. Panther companion present but not heard. |
-| [[episodes/2026-08-08|2026-08-08]] | High-velocity cultural correspondent. Hijacks the broadcast after the word 'science' is uttered, rapping about living urine organisms being oppressed by flushing, then pivoting to raps about love existing in stars, bars, and explosions. |
-| [[episodes/2026-08-06|2026-08-06]] | High-velocity cultural correspondent. Commandeers the broadcast early but battles a malfunctioning synthwave widget ('visualization is not supported on my system') and a missing partner (his panther girlfriend). |
-| [[episodes/2026-08-04|2026-08-04]] | Sentient locomotive correspondent. Interrupts the pre-show to acknowledge subscribers, delivers a freestyle rap about losing his caboose, and returns later in the broadcast for additional beats. |
-| [[episodes/2026-07-24|2026-07-24]] | Notably absent and described as 'still taking a nap' throughout the broadcast. A caller impersonates 'normal hype train' during the Streets segment; broadcast raid is sent to Hype Train at sign-off. |
-| [[episodes/2026-07-23|2026-07-23]] | High-Velocity Cultural Correspondent. Briefly attempts to hijack the intro but is forcefully rejected by Case in favor of addressing his injury, leading to Hype Train lamenting he was let to die. |
-| [[episodes/2026-07-20|2026-07-20]] | High-velocity cultural correspondent. Battle raps against Lincoln over bodily fluids and is forced to read subs after losing the rap battle. |
-| [[episodes/2026-07-17|2026-07-17]] | Musical correspondent. Triggered by sub cascade. Introduced 'piss hunters' sub-goal, name-dropped George Carlin, pivoted to Spanish guitar beat, proposed 'In the lattice fucking piss' as the new stream tag. |
-| [[episodes/2026-07-13|2026-07-13]] | Sentient locomotive correspondent rapping about a sock filled with 'ass' during a hype train surge. |
-| [[episodes/2026-07-11|2026-07-11]] | High-velocity musical correspondent; performs a podcasting freestyle and executes an acapella sub goal shout-out. |
-| [[episodes/2026-06-29|2026-06-29]] | High-velocity cultural correspondent. Delivers an extended ice/piss freestyle rap, then reappears during Trip on the Streets as a park visitor hijacking the interview with spoken-word about 1972 Dulp and a DVD player. Mourns the late wrestler Ice Train. |
-| [[episodes/2026-06-27|2026-06-27]] | High-velocity musical and cultural correspondent. |
-| [[episodes/2026-06-22|2026-06-22]] | High-velocity musical correspondent who confesses to cheating on his Panther girlfriend, discusses beats, and provides cultural commentary throughout the pre-show. |
-| [[episodes/2026-06-18|2026-06-18]] | Sentient locomotive correspondent. Advocates lawn oiling/urination/copulation regimen. Departs after two subs. Travels with panther companion. |
-| [[episodes/2026-06-15|2026-06-15]] | High-velocity musical correspondent, discusses aging and dinosaurs. |
-| [[episodes/2026-06-08|2026-06-08]] | Sentient locomotive correspondent. Delivers surreal piss-machete freestyle rap during pre-show. |
-| [[episodes/2026-06-03|2026-06-03]] | High-velocity musical/cultural correspondent. Triggered by hype train surge. Raps about eating 'human dog shit', thanks subscribers, claims second job as bassoonist. |
-| [[episodes/2026-05-29|2026-05-29]] | Musical correspondent delivering an extended rap about body parts and time travel. |
+| [[episodes/2026-09-07|2026-09-07]] | Intercepts the desk on a futuristic synthwave beat, delivering an impassioned freestyle about wearing denim jeans with his girls, Roman urine laundering, and proposed tombstone epitaphs. |
 
 ## Notable moments
 
