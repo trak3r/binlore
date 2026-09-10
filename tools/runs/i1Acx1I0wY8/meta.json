@@ -1,0 +1,19 @@
+{
+  "vod_id": "i1Acx1I0wY8",
+  "title": "Lethal Cream Company",
+  "url": "https://www.youtube.com/watch?v=i1Acx1I0wY8",
+  "duration_seconds": 19685,
+  "duration": "5:28:05",
+  "timestamp": 1702598400,
+  "aired_at": "2023-12-15T00:00:00+00:00",
+  "date": "2023-12-15",
+  "ingested_at": "2026-09-10T03:24:52.570200+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "i1Acx1I0wY8",
+  "yt_url": "https://www.youtube.com/watch?v=i1Acx1I0wY8",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2023-12-15"
+}
