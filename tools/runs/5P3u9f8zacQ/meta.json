@@ -1,0 +1,19 @@
+{
+  "vod_id": "5P3u9f8zacQ",
+  "title": "Fi's 12 Hour Cream Company",
+  "url": "https://www.youtube.com/watch?v=5P3u9f8zacQ",
+  "duration_seconds": 11646,
+  "duration": "3:14:06",
+  "timestamp": 1705622400,
+  "aired_at": "2024-01-19T00:00:00+00:00",
+  "date": "2024-01-19",
+  "ingested_at": "2026-09-10T17:31:24.282576+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "5P3u9f8zacQ",
+  "yt_url": "https://www.youtube.com/watch?v=5P3u9f8zacQ",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-01-19"
+}
