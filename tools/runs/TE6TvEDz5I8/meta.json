@@ -1,0 +1,19 @@
+{
+  "vod_id": "TE6TvEDz5I8",
+  "title": "Deck the News with Dick News Stories",
+  "url": "https://www.youtube.com/watch?v=TE6TvEDz5I8",
+  "duration_seconds": 5886,
+  "duration": "1:38:06",
+  "timestamp": 1703116800,
+  "aired_at": "2023-12-21T00:00:00+00:00",
+  "date": "2023-12-21",
+  "ingested_at": "2026-09-10T11:57:17.837301+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "TE6TvEDz5I8",
+  "yt_url": "https://www.youtube.com/watch?v=TE6TvEDz5I8",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2023-12-21"
+}
