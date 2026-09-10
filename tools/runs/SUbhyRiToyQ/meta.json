@@ -1,0 +1,19 @@
+{
+  "vod_id": "SUbhyRiToyQ",
+  "title": "Some News then Some Company",
+  "url": "https://www.youtube.com/watch?v=SUbhyRiToyQ",
+  "duration_seconds": 6741,
+  "duration": "1:52:21",
+  "timestamp": 1702339200,
+  "aired_at": "2023-12-12T00:00:00+00:00",
+  "date": "2023-12-12",
+  "ingested_at": "2026-09-10T01:43:40.302124+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "SUbhyRiToyQ",
+  "yt_url": "https://www.youtube.com/watch?v=SUbhyRiToyQ",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2023-12-12"
+}
