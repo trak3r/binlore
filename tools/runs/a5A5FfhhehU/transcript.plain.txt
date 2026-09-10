@@ -1,0 +1,6826 @@
+We're lethal in everybody.
+Just trying to make it work like usual.
+What's that?
+I'll get it.
+One moment, folks.
+We're applying our lethal updates.
+We're gonna do your video?
+Okay.
+Okay.
+Kendall's doing a video.
+Okay, let's go full speed.
+Ah, an error occurred.
+What the fuck?
+Hey, everybody.
+I'm trying to play lethal company,
+but whenever anybody joins my crew,
+it crashes.
+How's everybody doing?
+I'm gonna restart this app.
+Reggie Watts said hi to the cream team.
+Reggie Watts?
+What's he doing?
+In what context?
+Was he doing it?
+He must have been on Twitch in some capacity, right?
+I heard you guys were getting constantly banned
+from the post-game rewards chat
+for slamming the word cream,
+just cream in general.
+Okay, let's see.
+Watch Game Invite 2 Game, okay?
+Invite 2 Game.
+I'm inviting people to the game.
+Oh my gosh, it's booting.
+This fucking update's ruined my life.
+How could it do this to me?
+I gotta get Tim and,
+I gotta get Tim and John on Discord.
+Mod is ruining things.
+What's up, Kendall?
+Yeah, that would work.
+Okay, I gotta pop open Discord
+and see what's going on here.
+So what were you guys saying?
+Was it just cream team?
+I'm so confused.
+Direct messages.
+Hello.
+Hello.
+I don't know why it's not working.
+Did you guys have to update the game, too?
+I might have had to do it the other day.
+New mod, new mod, guys.
+I just tried again.
+I hosted a game with friends only.
+Okay, let me try to join your game.
+Yeah, let's try that.
+Let's start a new game.
+Well, that's what I just did.
+So do you want to try to join my game?
+Yeah, I'll try to join your game.
+Try to join my game.
+This is already going well.
+Ah, no it isn't.
+That's right.
+Watch game join game.
+Okay, loading.
+An error occurred when a player attempted to join the server.
+Okay, it froze for me as well.
+Can you guys hear me?
+Yes, I can, yes I can.
+New mod, guys.
+I put the link in the chat.
+Let's see if it works again.
+How to play with more than four per.
+Oh, do we need to update the mod, Tim?
+I can give you guys the quick and dirty.
+I think we just need to download one new thing.
+Is this a new video?
+Yeah.
+Oh, good on them.
+Good on Justin the Oreo.
+Everybody, we're going to have this going in just a second.
+Oh, are you live?
+I am live.
+Let me try again to more company...
+Okay, what do I do?
+Do I just download the new Beppin?
+The Beppin still works.
+Same Beppin.
+Same Beppin, so then what do I download?
+The second one.
+More company.
+Lethalstore.io, got it.
+Where did you put this link, Tim?
+I put it in the Discord chat.
+Manual download.
+Company 45, all right, I see.
+Everyone, welcome back to the video.
+Welcome back to the video.
+Same Beppin, okay, but more company is no different.
+Extract all.
+Extract.
+Look at Kendall back there.
+She's just hiding.
+Plugins, morecompany.dll.
+Okay.
+I had a character prepared and everything.
+No, I didn't.
+So sorry, John.
+That's fine.
+This is the hospital company action.
+So, Tim, where do we put it?
+Just in the root folder?
+Yeah.
+Browse local files.
+I think we put in the Beppin plugin folder, right?
+Oh, wait, yeah.
+You put in Beppin X.
+Plugins.
+And then you put into Plugin.
+Delete bigger lobby, put in morecompany.dll, I guess.
+Sure, yes.
+Tim, do I need to delete bigger lobby?
+Hello, Subrichi.
+I do not know.
+I'm watching some of this video about it.
+I'm not sure.
+We could try it with
+just the new mod in
+and not deleting it.
+And if it breaks, then we could delete the bigger lobby.
+Right now,
+what I'm going to try is
+is leaving everything the same,
+downloading the one new thing,
+and then inside of the
+plugin folder,
+deleting everything except for
+the folder that says core.
+And I believe the other files
+will go inside of that, but I'm not sure.
+Okay, well, I'll
+post really quick, John,
+and you just try to join my game.
+All I did was slam in the new
+DLL file.
+Maybe it'll just randomly work.
+Hmm?
+You should be able to choose the older version somewhere in the file.
+Oh, yeah.
+There's a new thing out.
+I just don't...
+Yeah, I think it's the thunder hop thing
+that Tim pointed out.
+Yeah, I think Tim's already...
+This is the dangers of modding, folks.
+Okay, I have a live game.
+See if it crashes.
+But also, there's four of us.
+What's the max amount?
+Well, we could delete all the mods
+and just play it normally.
+Yeah, because there's only three of us, or four.
+There's three of us, I guess.
+All right, I'm...
+I'm here.
+This is my kind of gaming content.
+Just a man not showing you...
+This is what's going on in the game.
+I'm all alone.
+I'm alone, folks.
+All right.
+Then I'm going to go to...
+Yeah, worst case, we could just pick the older version
+and play that.
+Okay, here we go!
+It crashed.
+Wait. Did it crash? It crashed.
+It did indeed.
+Why don't we just delete the mods?
+We could just redo the process
+of modding it.
+Or just not use mods, yeah.
+Post it to LincolnRavi's.
+All right, the incredible
+cream team is already on top of it.
+Let me see what they are advising.
+Oh, more company.
+Okay, download.
+Yeah, so why don't we just...
+Well, just delete it and redo it, right?
+Because it's super easy.
+Everything's reasonable.
+Hey, today I'll be teaching you guys how to download
+a lobby extension mod for the frosty update
+version 45.
+Delete Beppin.
+I'll put all links in the description below
+and let's get straight to it.
+I'm just going to delete Beppin fully.
+No more Beppin for me.
+I'm just reinstalling the game because it's quick.
+Oh, that's true. That's all so quick.
+If you uninstall and reinstall,
+will it remove the mods?
+It will, but deleting it should also, I think.
+I'm going to download this one as well.
+Okay, I'm uninstalling and reinstalling.
+Here you can minimize this.
+Like my hero, Tim Lampere.
+And I'm going to be dragging the files I just downloaded
+onto the screen.
+So I have my Beppin X
+and my more company mod.
+Beppin X, baby.
+It's like Wolverine in here.
+Right-click,
+manage,
+browse local files.
+And from here, you want to open up
+the Beppin X folder.
+Open up Beppin X
+pack and you want to drag these three
+things straight into
+your lethal company folder.
+Straight in.
+Next, you want to open up your Beppin X folder.
+End it here.
+You want to then open up the more company
+mod file, open up Beppin X
+and drag the entire
+plugins folder straight into here.
+Into Beppin X.
+So from this point
+we should have these three folders.
+It might be two in some versions, but
+we can close this out.
+Boom, updated.
+And should
+work here.
+Please, I swear
+be nice to me, lethal company.
+I've done it right.
+I've behaved.
+All I want to do is
+die with my friends.
+And the cool feature about this one is
+you can add some customization.
+Oh, there's plugins.
+All right.
+Let us never willed.
+Exactly.
+All right.
+I'm trying to be a gamer. It just doesn't understand.
+It doesn't understand my lifestyle.
+I don't know if I did it right, but
+others must update their game to play
+with you. Okay. I think I just
+got a message that said 45 is out.
+So I'm
+going to host again.
+All right. I hope I did it right.
+I don't know if I did it wrong.
+It'll put us to, but hopefully
+there's a game to join. I swear
+guys, we're doing some off hours
+lethal company streaming
+because I just can't get enough.
+I know I've been thinking about it too.
+I need to hit a higher quota. Apparently
+there's no way to win currently.
+You do eventually die.
+We're going for we're going for money.
+Also, anybody in chat wants to play
+assuming this mod works
+we should be able to play with like a
+bunch of players at least 16.
+I think.
+Okay.
+I'm going to reinstall again, but
+but also I don't know if it's working.
+I might have done it.
+Merry Merry Christmas
+this year.
+Also
+we're going to be doing the grunge stream
+probably this week.
+It's big news I know for my chat.
+The grunge of course the biggest news
+I got to pick a day though.
+I could do it on a weekend or I could
+do it in the middle of the week.
+You got it running on your potato PC
+the other world's five
+FPS that would be hard to play.
+The grunge is returning.
+It's grunge this time.
+John are you still there?
+I think John's gone.
+Where is John?
+Where did John go?
+What's happening?
+I'm all alone in space.
+It sucks.
+Sucks to be alone in space.
+Alexa turn on stream lighting
+check this out.
+Now it's so blue.
+Now I'm gaming.
+I got no chance
+in space no one can hear me talk to Alexa.
+Good because it's embarrassing.
+Tim are you having any luck?
+I'm just
+following the video exactly this time.
+Yeah.
+But if I've done it wrong
+then what do we do?
+I uninstalled and then deleted everything in the folder.
+And then
+And they say modding is easy.
+It's an exciting ship.
+Maybe we can learn.
+You have to drag plugins
+into the lethal company folder.
+Or into the
+No action for the word grungus.
+I did it all right this time for sure.
+Now I'll try the job.
+I swear eventually I'll play this game.
+Yeah it was the word for the lore.
+Sigurd.
+We can learn some lore really quick.
+Smells here.
+First log.
+Oh my god it's a lot of reading.
+I want to mod this to play the red door soundtrack the whole time.
+I can help you out with that mod real quick.
+Okay I think you might have done it wrong case.
+Oh really?
+Can you not join?
+I can't join.
+Son of a bitch.
+You should
+uninstall and then delete every
+or open the folder at first
+and then uninstall and then delete everything
+in the lethal company folder.
+And then reinstall
+then drag the Beppin folder inside.
+And then inside
+of the Beppin folder
+you have to drag one
+folder from the
+from the new download.
+Okay.
+Delete everything.
+That means that our game
+is probably gone.
+But that's fine.
+We'll start again.
+We'll build back better.
+Yes.
+We might be building back without John.
+I don't even know where he went.
+I like to imagine he's getting screamed at by his girlfriend.
+He's incredibly nice.
+But
+switch is flipped.
+So you're
+reinstalling now?
+Reinstalling.
+And honestly even though I'm streaming it's going pretty fast.
+That's the power of
+not having the worst internet on the planet anymore.
+And then
+she heard that another fighting we could only hope.
+I was megs by the way.
+Megs is good.
+Megs is good.
+You know
+chain and balls
+chain balls.
+Yeah she's fucking weighing me down.
+Yeah my fucking
+girlfriends fucking weighing me down bro.
+Let's talk about it.
+Let's be the first stream to talk about how
+girlfriends they fuck you up.
+Here's the first thing.
+Here's the first problem with Megan that I have.
+She makes me a smoothie every day.
+That's so that's too much fruit in your diet.
+I think maybe I fixed it.
+Oh really?
+I'm doing the full reinstall currently.
+Everybody talking?
+So I'm going to unmute you both now.
+Okay.
+I think this will work.
+Maybe.
+Now it says crew size 32.
+That's exciting.
+That's a huge crew.
+It works. So mine works.
+That's what I'm guessing as well.
+They need to just never update this game.
+For my convenience.
+Yeah.
+Or more companies should just allow people
+to have as many people as they want.
+It would be nice if it was in the base game.
+I mean it's got to be soon.
+Why not?
+Because they're haters.
+Let's try again.
+Yes I'm updating right now.
+You've got to drag your Beffen in there
+and then open up
+and then open up the Beffen
+everything you can drag it in from the
+Beffen zip file.
+And then you drag it all in.
+And then you open the Beffen file
+and it should only say core
+and then...
+What is there?
+Core and config configuration.
+Mine also had cache config
+core.
+I kept that in.
+I just replaced all of the plugins with
+Then I just drag in plugins, right Tim?
+Yeah only plugins from the
+new download.
+I think it will still work.
+We replaced the plugins with
+only more company instead of the two files
+that were there before.
+I think if I'm not I'll eat the rest
+of this salad.
+Wow that's a huge punishment.
+We've got to get our YouTube cameras out.
+I'm wearing a full suit
+because I'm helping somebody do a sketch later.
+Wow that's beautiful.
+Oh I still have the save file.
+Let's see if that works.
+It could also be the save files corrupted.
+I also deleted my save file
+because of that.
+We'll see if you can join my game.
+Okay.
+Let's just start a new game.
+Okay.
+Here I go.
+Let me try again.
+I got an error.
+Let's just not use this one.
+Somebody else want a host or should I
+I'll host?
+Okay John you host.
+Friends only?
+Yeah. Friendly.
+Let's see it.
+The scream squad
+friends only confirm.
+What is the name of Jeff Ripple's hot Filipino son?
+I don't know.
+Can you? Alright I am online.
+Okay beautiful.
+Do people want to try to join my game?
+Join the game. I'm in.
+The server host is playing on version 999
+while I'm on 4445?
+How's that possible?
+Did it work for you Tim?
+Yeah I'm in.
+What do you do wrong?
+I guess you heard of here first
+Tim Lampere and John Madison are better at computers.
+Yeah clearly.
+My folder only had
+Well
+I guess John's folder.
+So I have Beppin X pack.
+Did I drag in the wrong thing?
+Want me to send you a screen
+shot of my
+I guess.
+I just don't know what I would have
+possibly done wrong.
+I'm going to go into the
+Hang on I got some screen shots
+to take.
+Alright.
+I should be able to delete the stuff I just added
+and then I'm just going to re-download everything.
+Here's what everything looks like
+if you care to
+know.
+I care the most
+of any on the planet.
+There's one
+and then I'm going to open the Beppin folder
+and
+here's two
+Okay. Beppin
+I'm going to open the
+plugins folder
+and keep in mind the plugins
+folder should only say
+more company for you
+because
+because you guys are doing the
+YouTube link that Tim shared right?
+Yes.
+The final
+well yeah the final
+folder for me should
+like it should not say
+more company cosmetics
+because that
+the more company cosmetics appears
+apparently after you
+Yeah. Which Beppin
+you downloaded the 64 right?
+Beppin EXX64
+I didn't replace the one
+the Beppin that we used
+for the night.
+Yeah I just re-downloaded for the hell of it
+and then more company there it is
+this has to work. Why would this not work
+install dot manuals on that
+Save it as
+Beautiful
+I'm sure that I deleted everything
+in the lethal company folder
+like the overall folder
+you know when I uninstalled
+or whatever but I don't know
+This is going to happen
+You can just match our screenshots
+with stuff you know
+Yeah. Yeah I get it
+Okay everything from Beppin's
+going in here. Bet me up
+Alright there's Beppin. Core
+Okay now core is the only thing
+and that's how yours was done right?
+Yes. That's beautiful
+and then I only dragged plugins over
+although now it has everything else
+with it too I don't know why but
+It's because after the dot DLL
+was opened in the game
+it added other stuff
+John your computer
+programming classes are paying off
+Thank you
+Of course
+I don't
+DLL is a dynamic link library
+that contains codes
+and data that can be used by more than one
+program at the same time
+So that's for everyone's
+knowledge
+Join game
+Oh this is promising I'm not getting an error message
+Yeah
+I'm leaving this discord call
+because it's going to drive everyone insane
+Yeah this is already I'm already crazy
+There we go
+Now we're rocking
+Damn we're back to square one though
+We got fucking nothing
+I'm fucking nothing except for one of us is wearing a hat
+What moons is moons
+Experimentation let's do it
+Let us land
+immediately
+Where'd you get that
+When I started the game
+I got to put on cosmetics
+Oh we're already
+How do we land?
+Oh I think you have to pull the lever Tim
+Or John does
+Random seed 44048436
+Look at this hat
+Where'd you get that John?
+I got it when I started the game
+What?
+How come John has a cool ass
+Hey guys
+I'm really excited to be a part of this company
+I'm new here my name is Jake Halston
+Love being here
+Well you're the captain by the way
+I'm also
+really works out
+I'm new here but
+I've decided after this mission
+I'm gonna
+I'm gonna propose to my wife
+That's beautiful man
+Once I get that big paycheck
+I'm gonna buy ring and I'm gonna propose
+Did you look at the fatality rates they posted by the way?
+What was that?
+No but I saw the benefits
+Is it playing like sad music for anyone else?
+Is it off my youtube or something?
+I often
+Music?
+That must have been
+Alright well I'm sure we're safe in here
+Let's do this
+Her name
+Her name is Camille
+I'm uh
+She's the light of my life
+That's all I gotta say
+Hey a little present
+What the hell?
+Found a little present
+Found a present
+I gotta take it
+Oh really? Oh my god
+I got that for your wife
+Just so you know
+Well can I just say this from me please?
+She's gonna know it's from me
+Oh okay that's a little weird
+Seriously on the job hitting on a
+On the new guy's fiance
+It's not my wife yet
+Well actually it's not a fiance yet either
+I don't know what I'm saying
+Anyway
+I also have this shitty
+I have a little
+Scooper
+Can you hit people with it?
+I thought you were good and you can't
+Well maybe it'll be worse
+The company doesn't care as long as you can
+As long as you can meet the quota
+Let's bring it back
+Anybody else is here?
+I heard a door squeak
+Should I go for this death jump?
+Into the darkness?
+I don't hold
+We don't have a lot of light
+I think we should just take the stuff we found
+Whoopsie
+Did he jump?
+I think he jumped and I don't hear his voice so
+Oh
+Oh horrible, horrible noises
+What?
+My guy fell escape
+Pretty good mission here
+Oh more stuff
+Yeah I got it
+My guy got really nervous
+I do think it might be off
+I made the jump and then I fell
+Should I go back for him?
+We can look on the scanner at the gym
+I'm fucking dead
+I need to learn that I'm dead
+Camille's in school
+Huffley probably did jump me
+My guy's vision got all
+freaked out
+It's cause you miss me
+You miss me
+Can we try going up there?
+Okay we're rich
+See alive?
+Basically are you friend alive or what?
+Oh my gosh
+We got a lot of stuff
+I should really learn how to use these
+CDB
+No I'm dead
+I'm dead you fools
+You fools
+You think so?
+I'm dead
+Well actually now that I say that out loud
+He's not moving
+Okay they figured it out
+They figured out that I was dead
+He just took off
+He took off
+Okay
+What was your name guy?
+I didn't get it
+Oh yeah we get grades
+Deceased
+The most paranoid
+You didn't get very good notes on that last report
+Tim
+I guess I'm quite
+Are you twelve dollars?
+Who's that?
+I'm a new guy
+What's up?
+Hey where are you from?
+Montana
+You know with the lights off
+I thought this might be a big spaceship
+But it actually kind of sucks
+Oh well I mean
+We're brunts
+Wow you got an egg beater in there
+That's cool
+The company would love that
+Alright I'm gonna open this door now
+Everything is foggy
+Except for the planet we're already
+Next to so we gotta land again
+Alright
+Yeah
+Yeah
+I think I told you my name was Jake
+This guy hasn't introduced it
+My name's pug
+Pug like the dog
+That's a funny name
+I like that
+And from Montana my name's pug
+That's a good name
+My name's Jake
+After I get this paycheck
+I loved one of her she's not my wife yet
+I hope she says yes
+That's beautiful man I'm probably the only person to ever tell you that
+That's beautiful
+Well no the guy before you said it was beautiful
+That's fine
+What about you? What's your name?
+Do you read their fatality reports about this job?
+No I try to stay positive
+Wait a minute we should get flashlights
+You guys go ahead I'll get us flashlights
+Oh I'll go in the dark
+I'm just gonna not do any work
+I'm just gonna buy shit
+You know how it is fellas
+You know pug is a better name
+I should have been pug
+But I'm pug
+What's with these beautiful serenading tunes
+Should I take off?
+Flashlights
+3
+This pumpkin is in the way
+Make sure to spend as much as you can on the company card before it goes under
+Advice I wish I had taken
+Over a year ago
+So many props I could have bought
+Hello
+Excuse me
+There it is
+Give me the juice
+Dude who says that there's a giant monster
+Ruling us all
+Oh shit it's Christmas
+Flashlights
+Oh good advice
+We got a Christmas tree
+Oh my god that's a beautiful song
+Oh that's just a mine
+We just have to not hit it
+There's nothing over here
+It sucks
+I'm gonna go down this door
+There's only one way to go
+Did you forever ask for the laptop back
+They did
+They asked for it back I'll say that
+This is an ominous stool
+I don't trust this stool
+It's pretty clear though
+Honestly after the stuff I did with that laptop
+They didn't want it back
+They didn't really want it
+Another mine
+Another mine
+I wrote sketches on that
+Oh my god that's a scary door noise
+We can get by it
+I can get by this right chat
+Okay now I just have to jump over it
+Oh my god
+I got by it
+But I was scared the whole time
+There's nothing in here
+That's insane
+Oh good
+There's nothing back there
+It's just
+Things keep looking better for us
+There's a fire exit here
+And there's a pole where we can jump
+Oh great a death pole for me to die on
+I'll happily do it
+Anything over here? No
+Alright
+You got this baby
+Into the unknown
+I love my girlfriend
+Into the unknown
+She's got a sweet tooth
+You guys got a loved one back home?
+No I honestly don't remember anything about my life
+Other than I'm pug I'm from Montana
+A door that's it
+If one of us was on the ship
+We could open that
+None of us is
+I'll stay here
+What is it called?
+Z3
+Alright
+Best of luck
+Hey what's your name?
+Pug
+From Montana
+From Montana?
+What'd you do over there?
+Hell of a state man
+Hell of a state
+There's a Shakespeare company
+There
+I think I saw a roaming flight
+That's beautiful
+Should one of us stay by the side of the fire escape
+Or what?
+Sure I'll go back
+The other reason I say that
+Is because there's two locked doors
+I wonder if one will close while the other one opens
+Well the other thing is
+Hmm actually
+What if Tim dies on the way back
+Oh my flashlight is dead
+I think I might have biffed it
+It does sound a lot like there's a big monster back there
+It does
+I thought that was
+That other guy running away
+But I think it might be coming from the other side of this door
+We could just leave
+Well why don't you go back
+And I'll wait here
+I gotta tell you
+Okay
+There is a
+We are halfway to our quota
+So we do have two more shots
+To get there
+I don't know if all of us die
+No big deal
+Me?
+Yeah
+You see it
+Not bad
+I'll wait here
+I'll see you back in the ship
+See you soon
+I'll be fine
+La la la la
+Friends
+I'm pointing at the door
+Check it out
+I don't know what time it is
+Oh my god my flashlight is almost out of juice
+Alright I don't think Tim's doing this
+Hey pug
+I got a hot idea
+Why don't you just come back with me
+I just heard a cool noise
+Why don't you just come back with me pug
+I'm gonna explore this dark room
+The door's not open right?
+No it just opened
+Tim just started the ship
+Is that bad?
+Yeah well we're both dead if that's what happened
+You know pug
+I think there might be a trouble here
+I think maybe we should just go back to the ship
+I'm fine
+I feel great
+Yeah
+Okay there is something probably chasing me
+Come on back
+Bye
+I was on a
+I was very much on a flashlight
+God damn it
+I lost my flashlight
+That sucks
+I'm buying another one
+I don't care
+I don't care what it cost this company
+What is Tim doing
+In my defense it took a really long time
+for that door to open
+Did he die?
+Hogfelder was deaf
+I saw that
+Wait hold on
+Wait
+I think we should get the hell out of here
+Hold on
+Scan
+There are 12 objects outside the ship
+It's nighttime
+What's your name again
+It's nighttime
+There's something out there
+Alright
+I gotta tell you buddy
+I don't think so
+We might be a
+SOL
+Okay there
+Kendall says if I can convince Christian to play
+that she'll play
+This has been the long game I'm playing
+That I just want Kendall to play this game
+Yeah
+I tried to tell him come back
+because it was so dark out
+I'm the most dead employee
+Yeah I guess
+Hey
+What's up
+My name's Tube
+Hey Tube
+I'm from Montana
+Would you believe it
+Really? You don't have it in a pug do you
+Oh you, nope
+Oh
+That was foolish of me to think everybody from Montana knew each other
+Huge state my man
+Huge and varied state
+Sorry sorry sorry about that
+My name's Jake
+I gotta tell you all
+I'm back home to my girlfriend
+I'm gonna take my paycheck
+and ironing
+Anyway I say that a lot
+I should probably go with the new deal
+Hey whatever
+We got no money
+for flashlights so I gotta stick with you folks
+because uh
+I'll be blind out there
+Hey that's alright
+Why don't we go this way towards the bow of the ship
+Okay
+What do you think
+Should we go this way this time
+I mean I don't think
+We should go where the entrance is
+I don't know where that is though
+I think it's this way
+Oh it is? I think it's usually this way
+Oh it is?
+Okay well
+All I know is that
+I've got a girl running for mail and I
+I love them to make
+There's a magic coil right here
+Supposedly those are harmless
+Supposedly
+Hey uh
+Hey I found it
+You know uh
+That we should name our squad
+You should name our team you know what I mean
+It's good for morale
+What do you guys think about that
+Yeah
+Screams
+Scream team
+Scream team that sounds totally deal I like that
+Scream team
+I like that
+Yeah yeah yeah
+Scream team that's all that makes me think of
+Oh there's no normal entrance
+That's weird
+There's the main entrance over here
+Oh there it is
+Yes right here
+It's making uh
+The judges die
+I don't know who John is
+My name is Jake
+The Jake just died
+Hey Bella
+Love that
+We're already off to a brighter way to go
+We're already in the money
+This place looks important
+Wouldn't any of these data servers
+Be worth anything to the company
+Check it out
+Hey nicely done
+Power positive thinking really goes a long way
+Oh you got a key
+At this place this is a treasure trove
+What the hell
+You got a whoopee cushion
+That's pretty funny
+I got a key down here
+I got a flask though
+We're already in the green here
+So uh
+Oh
+You fuck
+You absolute fucker
+I played a little lethal company
+Senator Dev
+I just can't help myself
+This time I feel like I won't die
+I have died both of the other times I played
+Player up there
+I mean in the other two rounds tonight
+I feel like the odds
+I think there's a monster over there about uh fellas
+Where
+Over here because it's so foggy
+Does sound like something breathing in the dark
+A little bit
+Why don't we go back
+Sounds scary over there
+We've got a lot of crap already
+I think we might need a little more crap though
+Well actually I guess the quote is really low
+We can go in the fire exit
+Yeah let's do it
+You know what I volunteer to bring everything back to the ship
+How's that
+Here you go here's a flask
+Alright I'll take that too
+Let me go alone on this bridge
+I'll go in the fire exit
+Uh
+Hey buddy I think you may want to get to the other end of that bridge
+Oh he's alive
+He's alive holy crap
+Well uh I'm gonna go the other way
+Hey wait give me your flashlight
+Hey give me your flashlight
+Yeah I'm gonna go in the fire exit
+and look for more goods and services
+Do you have any crap I should take
+No I gave you my flask
+Good work Tim you lived
+I really thought he was dead
+And I would have been really sad
+I would have wept
+But now I don't have to
+Cause he's fine
+Alright also I missed a bunch of
+I missed some subs and stuff
+Cause I was so busy being confused by this game
+But the structure one thank you for
+The sub daddy senate thanks for the follow
+And uh jv very vicarian
+Thank you for the follow
+Oh my god this is not my wheelhouse
+Locked
+Okay this has killed me every time
+But this time has to be a different time
+Yeah
+Alright I feel good
+Locked
+At least I got some booze
+What the fuck
+101
+Oh no what's this worth 27
+Alright I just need to not
+Die
+Jump over this
+Okay this has to be the easiest thing in the world right
+Yeah
+Ooh I dropped it
+Okay well at least I made
+$27
+For the cost of really nothing
+Um the sinister death
+If you want to play please hop on board
+I guess I would just need to know
+Your steam
+Friend code
+That goes for any preemies in chat
+We also need the mod that we're using
+Which I could send you along to
+Probably the thing to do would be to
+Just DM me on discord
+And then I can send you the mod
+We're using and probably get
+Your friend code
+A miracle is trying to play as well
+Okay let me see if I have any
+I'm very dumb about checking discord
+What the fuck
+Who's this
+What was the new creature you guys discovered
+It's John
+Do I have any new DMs
+I don't
+What was the new creature you discovered
+Say hop into my DMs
+Yeah you might already have the mod then sinister dev
+I'm so dumb that I don't even know
+How to turn mods on and off
+We just had a whole fiasco
+But anyway I'm just case black
+On discord
+And I should be in the cream team
+And a miracle same to you
+If you're in chat
+Oh my god who keeps getting me with this
+Who keeps fucking getting me
+There's seven objects outside the ship still
+Yeah they're in that spooky place
+We just were
+Do we want to go back to the
+Fire exit
+The fire exit had two locked doors
+I have a key
+Well
+There will be a bunch of scary monsters on the way back
+Because it's getting late but we could go
+I say we just go
+I say we leave
+Alright
+There's no days left after this
+Just so you know
+I think we might be close to hitting our quota
+Oh we definitely hit the quota
+Well then what are we worried about
+Well we not we want money
+Oh we have a bunch of
+Well I'll tell you what all I want is
+To feel
+My loved one in my arms again you know what I mean
+No notes The laziest and most profitable
+But I had no notes
+Somehow
+I'm a part timer baby
+I'm still an intern but
+Work at this company forever and ever
+Well
+Hey this next planet's human
+Geraldish
+Oh so we're done now now we go to the company building
+We gotta go
+We gotta go
+Dude I am stepping on that fart machine so much
+Jesus
+Hey guys I know this is great dude
+I'm adding you Mr. Deb
+This is for morale
+This is for morale
+Are we keeping?
+Okay I sent you an invite
+If you do you like playing
+We're using the
+Mod that I don't know I think you have to be
+On the same mod to play with us though
+The only thing
+The mod we're using is
+I'll link it in chat
+Oh my god
+Oh
+Jesus
+Oh my god
+You're gonna welcome back to me
+Hey check
+Yeah it's this one
+That cash register
+What are you buying there Sparky
+I'm gonna call you Sparky because you won't tell me your name
+I don't know yet
+I definitely want the extension ladder
+I need a flashlight give me a pro flashlight
+Oh yeah me too
+Okay
+Can you give me an engagement ring
+The most useful things are the walkie-talkies in the pro flashlight
+Oh hey look guys I could sell this
+You're in deep access file
+Sigurd
+That's a lore drop baby
+I'm gonna sell it
+Tim just don't sell so much that we don't make quota
+Okay
+Yeah I bought a bunch of shit
+I think we're good I bought a bunch of shit for everybody
+Alright I guess we're good
+I bought a bunch of shit for everybody
+Oh did you just buy the flashlight
+Now I picked up the other side
+There might be another one of these coming
+I'm gonna sell this
+What are you selling
+I'll make shit flash grenade
+That I picked up on the last planet
+I have a walkie-talkie for someone
+We do need two though
+I got two
+I'll take one I'll keep the other one
+Great I love this plan
+I love all our plans
+We got a flashlight too
+Oh yeah
+What the hell is that
+And you turn this on using Q
+Okay there we go
+Walkie-talkie over
+Over and out
+Walkie-talkie
+Separate slots for walkies and flashlights
+That's nice
+What do you say fellas should we
+Get promoted
+Get back into space
+I think we're good
+We might be selling the stuff
+I don't know if they did it
+No I think I'm good
+Is that everybody on start the ship
+Let's go baby let's go
+Alright let's go
+I still love money
+You don't want to buy a shovel
+Yeah the only issue with mods that I have
+Is that everybody seems to have to be on them
+Can we buy a ring
+Oh please
+We can't buy a ring I'm sorry
+Quota reached
+$10
+We're fucking loaded baby
+Alright what moon do we go to now
+With $317 we could buy it
+We could go to one of the scary moons for money
+Let's do it
+Well
+Should we go to a normal one
+Let's go to a normal one
+Go to assurance
+Got a nice name
+I like assurance
+I'm gonna keep my walkie-talkie off to preserve battery power
+Is that how it works
+Look at us
+Bob here and Sparky and me Jake
+And me Jake
+We're gonna be just fine
+Right boys
+Sure sure
+Hey there's a ladder in here
+Wow okay I think we can land
+Alright
+Before we go
+What
+Maybe we should scan the environment
+Huh
+There's 14 objects outside the ship guys
+Oh my god
+See if we can get all 14
+What do you say
+You know what
+I'm gonna go with you guys to just the front door
+And then I'll get back on the computer
+And be your eyes in the sky
+Okay
+That sounds like a safe thing to do
+We can turn on our walkie-talkies at that point
+Okay that sounds like a smart plan
+For smart folks
+I've got a key and a walkie-talkie
+Isn't it this way on the side
+Yeah let's run
+That stamina is burning a hole in your pocket
+Let's go go go
+I like the way this guy does
+I've never seen that before
+You don't see that in Dubuque
+I'm from Montana
+I'm from Dubuque
+We have the extendable ladder
+Can you hear me
+I can hear you
+You guys find the main entrance
+I thought you were on the ship
+I don't know
+I'm gonna turn on the walkie-talkies
+Once we to preserve
+Have you been preserving a battery panel on your walkie
+I have
+So I don't even need to worry about that
+Stop stop stop stop
+There's a turret in that other room
+As soon as you walk in
+Which room
+Oh I see it
+I'll take the first
+Collection of items back to the ship
+Okay then I'll be your eyes in the skies
+Okay that's good but if you go to that door
+Be very careful just run
+I'm gonna go there but I'm gonna run
+Okay nothing back here
+Nothing there
+We could probably sprint through this room
+The turret room I mean
+I found something back here
+I'll bring it back
+Tim I think you can also deactivate
+Turrets actually on the computer
+Okay great
+I'll be right back
+Wait wouldn't it also deactivate
+Turrets fellas
+Turning off the lights
+Turning on the power grid
+No they're not on the power grid
+They're not on the grid
+Hey Jake
+Turn on your walkie-talkie
+In like 30 seconds
+You got it
+Maybe a little bit more than that
+45 seconds
+Alright be very careful
+That was a little scary
+I can sprint past this thing
+It'd be fine
+Okay
+Try it Bob
+Oh baby
+I'm just that good
+I did it
+Okay should I go?
+I mean if you're brave are you brave
+I'm brave
+Oh
+Meals not a lot with no schmuck
+Alright here we go
+There's a flashlight on
+This does feel like a bit of a monster
+Tim
+Oh
+Hey case
+Sorry Bob
+Tim can you hear me?
+Tim can you hear me
+Sparky
+Sparky can you hear me over
+So many names for us
+If we go around this door we can just get by it dude
+Okay
+The door that we would want him to open
+E3
+But we can go this way
+Okay so far so safe
+Hey
+I found a screw
+I got a fish
+We're off to a great start
+Screws and fish
+Oh bottles
+Great I love bottles as well
+Do you have anything
+Can you take this key?
+Yeah
+Bottles are really expensive
+Also I feel like we should head back now
+Um no
+Well I mean my hands are full I can't care anything else
+Well you
+Okay we should go back
+Okay well what did I say
+Let's close that door casually
+Alright
+You might want to check in with Tim though
+Maybe you could open this door
+Alright but I can't hold that
+Hello Sparky can you hear me
+Can you open door B3
+Then don't open it
+You can't open it
+You can't open it
+Bob I think we should just go now
+I mean I've got bottles
+Those are worth like 100 aren't they
+No I don't think so
+Whatever let's get the fuck out of here
+Okay there's a turret though remember
+Remember I remember oh fuck okay
+Okay
+The plane is so safe
+Kind of makes me feel a little antsy
+Hey Bob
+Yes I got ya
+Oh my goodies now
+Bye bye me all I care about
+Is the good of the company
+And I've still got a fish
+Going the right way Bob
+Um no
+I fucked this up
+I think we gotta go this way
+Yeah
+You're following the pipe
+Pumpkins are in the way
+We are following the pipe over
+There we go
+Amazing great
+Hello
+Hello friends
+Radio off
+Anything else in there guys
+I mean there were other places to explore
+There's definitely more stuff in there
+But I think there's also monsters
+Yeah
+Should we take off
+How much stuff should we get
+85
+I mean
+I think it's a good amount
+I say we call this mission a success
+Alright
+No my girlfriend always says
+I'm boring but she says
+I'm the safest man she knows
+Yeah I bet she says that
+She does
+She does she says it
+Ow
+That's what she says
+I love her so much
+I'm ready to start a life
+You know I would settle down
+I know she said hey why take this contract job in space
+I do feel like we're under the same thing you've ever done
+What's that
+We got to take bigger risks
+We got to put on a show here
+For an unseen god in the sky
+I'd rather not
+Just deploy it
+I'd rather not take a risk but okay
+E
+There were 300 more dollars to make there
+I saw to turn off
+The turret
+I didn't know what command to type in
+Any ideas crew
+Anybody knows how to turn off turrets
+I opened the
+I opened the door using
+The command open
+I didn't know how to turn off the turret
+I got a good feeling about this one
+I'll show you who's brave
+Alright let's go
+We're going to march
+I'm ready open the door
+My chat says try the help command
+Oh did I just buy us a cooler planet
+No this isn't cool
+Watch out
+Maybe we end with a cool planet
+I think we have enough money to buy
+Access
+Whatever you say dude
+I'm saying it
+I'm calling it right now
+I'm the most adventurous
+Employee on this team let's go
+I'm a man of advent
+Oh my god bees
+Ow ow those really hurt me
+Ow
+Did you get almost murdered
+Yeah but I got some creature data
+That was sent to the terminal
+Who's Tim
+He's still back at the ship
+He's our man of the sky right
+Oh a fish
+We're already in the money
+How much is this worth
+28
+We are already in the green over we found a fish
+Another fish
+I'll grab this one
+Guys there's so many fish
+Alright there's nothing in here
+Fishless world
+Oops
+I almost just jumped to my death
+There's a stool
+Can you pick it up
+No
+If anybody knows how to cook plastic fish
+Let us know
+This is a cool room
+This is a very spacious room
+A lot of room in here for stuff
+Nice job
+I'll grab it
+Oh you got it
+I got it
+Why don't we take that to the entrance
+Why don't we take you
+Why don't we take you to the entrance
+And then I'll keep exploring
+While you run that stuff back
+Well I'll take it back then
+I just wonder if one of us should take stuff back
+Well one of us
+Alright I'll take it back
+Give me your walkie talkie in that case though
+And I'll give you this key
+Shouldn't I keep the walkie talkie
+You should actually
+You keep that actually
+I'm going to give you this key
+Bob's going to head back
+I'm on my own because I'm the most adventurous one
+I mean he says
+He says he is
+I believe
+Where's the ship
+Oh yeah there's the bees
+Oh there's an HD mod
+I probably could handle that
+on this computer
+Yeah I was wondering if there were people
+Notting the graphics because I've seen some clips
+That looked
+Quite a bit higher fidelity
+Guys did you see that expert
+Beavoidal there
+I did abandon John just a little bit
+I did a light abandon
+I labeled red on my monitor
+I say yeah maybe
+Maybe get out of there
+Rich there's another way to go
+Alright Tenon I'm going back
+Alright sounds good
+Woo
+It's a party
+Oh there's the bees
+Those are the bees
+You have to just use the HD mod
+To turn the resolution down
+Oh here's a question Sinister Dev
+Also you're all going to join us at any point
+Let me know if you'd like to
+I think I had some
+Unit bite but I don't know
+Can you not you might not be able to join
+Until we're in space Anywho
+If you download the HD mod can you still play
+Until it don't have it
+Because I would download all sorts of mods
+I didn't have to demand everyone else to download them
+Nice I will absolutely download them
+Okay
+I see a third door
+Oh fuck
+Mom?
+Where are you at?
+We're here
+What? Still alive
+We got our eye in the sky
+Sparky back at the base
+There is a shadow monster in here
+That will break our neck
+I feel like we should leave sir
+I've got my inventory full of shit
+Oh you got more stuff
+Bob don't go that way
+Bob that's not the way to go
+I would advise you
+If you're going to go explore
+Bob I would advise you to go this way
+If you're going to go anywhere
+Hey CP why don't you take this
+A walking choppy
+What's up my man
+How's it going
+I don't see
+I thought he was
+I don't see anything
+Yeah I don't see anything
+I guess there's nothing in this room
+Bummer
+Oh there's a door though
+Oh it's locked
+Is John still
+What's that
+I think John left and unfortunately he had the key
+Oh
+John
+Am I approaching his corpse
+Yeah I think he fell unfortunately
+I guess I have to go back
+Because there's no key
+This way? No
+I think it might just be behind a locked door
+Yeah I might die
+Going for the door
+Alright I'm going to try to be quiet
+A little persistent
+I think I might be a little dead here
+You died? I did there was a giant
+That saw me so easily
+Yeah we should keep going
+Bill can you not play Bill
+Bill's in my chat
+But he can't play
+Bill come on man
+Just get a PC already
+I guess there are ways you can play on a Mac
+But supposedly it's
+You have to download additional things
+Did you down the way back to the shit
+CB
+I did I got
+Munched so we need to find something
+On this next planet I think right
+Or we're dead
+Do you want to go to the walkie-talkie
+If we have the money I guess
+Oh we have a cheaper flashlight that I can use
+Oh we don't
+Yeah I guess I'd take one of the cheap
+Flashlights too if we have enough
+Damn
+Okay I got it a walkie and a flash
+Anything else
+Um
+I'm good
+I guess we just pick a planet
+They're all the same
+Offence, vile march
+How are we just where
+Every planet's the same out here
+I did get munched there's munches in the woods
+Whatever
+Kendall you want to play around
+I haven't gotten Christian on board yet though
+She's
+She's cleaning
+She's being the best
+Best in the biz
+Where two boys
+Is this where we just were
+Well let's uh
+Yeah purchase fly down
+Don't know
+Somewhere around here
+Hello
+There it is
+A Christmas tree
+Here's the walkie
+Christmas already
+The walkie man
+Or whoever wants it
+I'll take it
+Tim do you want to go exploring
+I can hang back in the ship if you want to do an exploration
+Either way
+Uh I did not
+Here's the walkie here
+I died with my walkie and my
+My flashlight also
+You two go play nice
+I'll turn my walkie on
+You can leave your walkie on the whole time
+Because you have the charger
+Sounds good
+I'm going to pretend it
+Come with me Jake
+Jake
+Okay I don't know how to do
+Okay so let's find out how
+Help
+Help
+Commands
+Company
+Okay I know what to do
+Just cheat and look online
+Um lethal company
+How to
+Open
+Doors
+How to use the terminal there we go
+Okay
+Yeah that's fine you can be useless
+I'm useless
+I'm extremely useless
+Moon store
+B.C.R.E. other miscellaneous okay yeah
+How to open lock security doors
+When you or your friends are adventuring
+Okay how do I do it though
+Just trying to figure out how to open doors
+Just typing the like B3
+What's up
+There's green next to you Tim
+On the map to your right
+Probably
+Looks like you're right over here you got it
+You got it
+Um
+Tim how do you open doors you just type in the door name
+Play around
+What was Christian's name
+Not even what's Christian's name
+Yeah you type open and then
+Sick
+Can you do it on this one
+Oh well I can download it on a computer
+I'll download it
+So far you guys seem fine
+Or you're back in the woods okay
+Tim you guys are coming back to the ship
+Right now I don't see any monsters or anything
+I'm just uh bringing this back
+Cause I ran out of juice
+Fine by me
+We're all just gonna end up getting ejected
+Into space you know that right
+Nah man we're gonna win
+Who the hell are you anybody
+Who the hell are you boys
+This is exciting
+I feel excited
+Alright I'm turning my radio off until we uh
+Back inside again
+10-4 Roger understood
+The radios are off 10-4
+10-4 wait where's it going
+Hey Sparky
+It's watching me
+I do think it's more fun
+But I can see how it's useful
+To have someone in here to open doors
+There should be a remote terminal
+You should be able to purchase a laptop
+Uh there was a monster that ran away
+In the building
+Guys don't worry I'm gonna somehow convince Kendall to play
+My pitch is you play on this computer
+And I'll go play on a little shitty laptop
+And then I'll let you play on a shitty little laptop
+Uh Tim there isn't anomaly
+But it's
+Not near you yet
+If you jump that gap
+Um that's outside the roomier
+Currently yeah there's now there's an anomaly
+Headed your way
+It's past the gap
+So I guess don't open the door by itself
+Yeah don't open the don't jump the gap
+I guess
+There's not those little thief bugs
+Can you play for me for a second
+And then I'll set it up on the computer
+Can you loot around here
+Um yes
+Well it's below you I think
+Okay
+No I don't see any
+That anomaly is right behind you Tim
+Okay yeah there's a big anomaly
+Headed your way
+There's like a big slow moving anomaly
+Headed your way it's entering the room
+We haven't seen the funny bug yet
+Sinister Dev the loot bug
+Fee if you want to play
+Pop in here
+If you're not cooking anymore
+It's ooze apparently
+Following her
+Following them
+Yeah I see loot just past that ooze
+But it's like below
+They're making it look like it's uh oh there's something
+Headed towards you oh shit
+What the hell just happened
+Oh shit did they both just die
+Uh
+Think
+John's dead too right
+They updated the game
+I think so there's a monster
+Apparently that jumps out of shadows
+And drags you to your death
+And I think that happened to
+Tim I don't know what happened
+To John I guess he fell
+So I guess the thing to do is
+Leave
+I don't know if we have enough
+With this cookie pan do we have enough
+Okay that's everything yeah we're good
+So we just get out of here
+Okay and while that happens I set up the game
+So the kennel is like you're so confusing to me
+Hello
+This is for my dead friends
+Uh and that's for
+My dead friends
+That was for our dead friends
+So what
+What got you what got you Tim
+I died I got
+I fell to my death
+You it fell to your you fell
+Yeah I fucking fell
+What do you want it looks like you got dragged
+I might have also gotten dragged
+Oh did he get dragged
+Yeah he got dragged but he doesn't know
+He said he fell John how'd you
+Die we didn't see it happen
+No that's how I die I'm John
+Oh what the fuck
+Yeah John started responding
+When you said Tim how did you die then John
+Oh you know what I do kind of
+I do kind of hear the difference
+In your guys voice
+Yeah I'm doing a Tim impression that's
+That's how I say I want to do it
+Yeah I'm doing a John impression
+Oh my
+Holy shit
+That's actually so confusing
+I'm not doing the rest
+You guys are doing it
+Okay now do a John impression
+I
+Oh I'm John
+Oh
+I'm John
+Oh hi I'm John
+I'm John
+Okay now do a case impression
+I'm John
+I'm John Madison
+I'm John Madison
+John Madison
+I'm John Madison
+I drink cold milkshake
+I'm John your Madison
+I'm John your Madison
+Here's case back
+We're gonna have a hub and get
+Fucking cash in baby
+We're gonna get murdered
+Kinda gonna log into your steam
+We have enough I checked
+Oh alright
+I understand how it works because
+We're gonna have way more
+If we include what we
+Still had from before
+Yeah it's true
+How do I drop an item
+Gee
+Oh you don't have that
+I'm John Madison
+I'm John
+I drink cold milkshake
+I drink cold milkshake I'm John
+I drink it up
+I need a new carry that last character suck
+This is gonna be a different guy
+Okay
+Let me just charge up these bottles
+Okay landing the ship
+You did it
+Talk to them more
+Hello
+Hello
+This is as quick as possible
+I'm leaving the ship
+I'm gonna find a monster
+Here I go
+I'm gonna press
+Yeah
+Oh my god
+Oh my god
+Oh my god
+Your hard work is invaluable to the company
+Go ahead John
+Kendall's dead
+Really?
+Kendall died
+No we do not
+As you can tell
+You still have that key John?
+No
+Did we get a goldfish?
+I did the gold
+I died baby
+I pressed up
+I rang the bell till it came
+There's more stuff he hasn't grabbed yet
+Where?
+It's probably ringing that bell a few more times
+You see what happened here?
+See what happened there?
+Yeah that's Kendall
+Yeah
+I'm John Madison
+I'm John Madison
+I'm John Madison
+I'm John Madison
+I'm John Madison
+I'm John Madison
+I'm John Madison
+I didn't realize your chat wasn't scrolling
+I thought people just weren't talking
+We only have about
+20
+How did John get a hat?
+We'll ask him
+Jesus
+Why can't I do math? We have 40 to spend
+But we actually have
+more than that though
+When you go to the store look at how much money we have
+42 to spend
+397
+Okay
+Ringgolf or assisted suicide?
+I told them I was going to try to
+find a monster and die
+Easy peasy
+Easy
+Look at the pro flashlights
+Torsos
+Pro
+Flashlight
+This is me sitting normal
+And I'm at the bottom of the screen
+He's got a hat because he's going to get married
+It's like a watermelon almost
+It's like a monster
+Watermelon
+It's like a watermelon
+Watermelon ice
+360 is our new balance
+Should we buy
+a
+Goldfish
+We can buy an air horn for the ship
+They got to do some exciting stuff
+What's going on here
+Guys I went to Universal Studios
+with Christian today
+We saw a bunch of my friends
+A bunch of hoos
+And
+Max the dog
+Licked my hand
+Did the monsters take the rest of the stuff
+I actually don't know
+I say we should leave
+I'm assuming if I look over there
+Yeah it looks like it took all the stuff
+In my body
+Did you eat breakfast with the Grinch
+Is that something you can do at Universal Studios
+I just leave
+I bet you it's $1,000
+Grunch with Grinch
+That's amazing
+If they don't have that
+They definitely need to have that
+Whole, damn
+Like the profits from your corpse
+Yeah
+I was about to tell you guys something
+That I probably shouldn't say
+Online, you know what I'm saying
+Because you never know who's watching these
+You never know
+Like the reason
+Christians here
+Do they feed us green eggs and ham
+Alright
+Yeah, you're supposed to live with Christians
+Go ahead and send yours to Christian
+Ow
+Christian do you want a friend code via discord
+I want to die when people die
+Oh my god
+What's up John
+Hi, I'm about to leave
+So I asked him to
+What are you doing
+You gotta sell me
+Yeah, he's not selling you
+Oh, damn
+Oh, I see
+Oh, wow
+I guess he had to drop it off the ship
+Yeah, what a good friend though
+He killed you right as you asked
+Yeah, it was nice
+That's a good friend
+I gotta go sit anyway because I gotta do a shoot
+Run into a shoot tonight
+Tonight?
+It is 7.45
+Yeah, it's my friend's shoot
+What?
+Because you need nighttime
+You can't sell again
+It's like on a wick
+Oh, that's cool
+Propaganda asked
+Is it a porno
+Wouldn't that be cool
+Like a John Wick porno
+Wouldn't it be weird if I was like
+Oh guys, I've been doing porn for years
+I think it would be more
+Weird that they all haven't found
+Your stuff yet
+Why did Tim buy a
+A horn
+You're not gonna be able to meet the quota
+Oh, I have a question
+I probably can't
+When you buy a ship upgrade
+Does it stay
+Is it the next map?
+Yeah
+You know what, I don't know
+If everybody dies, is that what you said?
+Yeah
+I don't know
+Let's see if Chat knows
+If you buy an upgrade
+I think if you save it says Propaganda
+Yeah
+It should if you're on the same save file
+Yeah
+Okay, yeah, yeah, yeah, yeah
+Well, but Exterminator says it all saves
+Until you all die
+Oh shit, Cat's Paw says
+If you don't make quota, I think you lose it
+Oh shit, we're getting
+I don't know
+Well, it's gonna be a lot harder for you to make quota now
+Because I gotta leave
+Bye
+He's doing a porno
+Hey, thanks
+He's doing a porno
+He's doing a porno
+Thank you
+He's doing a porno
+Yeah
+Is this true?
+I'm gonna be cool if it were
+If we're leaving, this is gonna boot us out
+Sorry
+Damn it, maybe I need to go to
+Supposed to go to a friend's
+At eight at night?
+You guys are too social, man
+You're right
+That's crazy
+All right, GG
+Thanks for hanging out with me
+I wanna fuck again, let me know in time
+Okay, goodbye
+Goodbye everybody
+Bye
+Wait, Kase, say bye
+Yeah, yeah, they left
+They left
+Yeah
+There goes the server
+There goes everything
+Yeah, Christian's eating though
+Yeah, okay
+Does anyone else wanna play?
+And they didn't save, legit?
+How do you know that? How do you know they didn't save?
+How do you know that?
+Man
+I don't think I should stream, get back to streaming
+I have like nothing to say ever
+Not anymore
+Oh my god, Kase is not even listening
+Uh-huh
+Oh
+What else happened at Universal?
+Oh, uh-huh
+Why?
+Oh, because there's no discord on there
+I get it, okay, I got it
+You know you could send yourself
+Discord messages, yeah
+Or like
+You can just put it in a chat
+It'll just be there, you know
+You don't have to email
+Yeah, I mean
+If you send me
+If you send me one
+You know what I mean
+Um
+This is not a takeover
+Because he's gonna come back here
+And I'm gonna be on the laptop
+Just right over there
+I don't want anyone to see what I'm doing
+That's the thing
+What happened at Universal?
+Yeah, so we took the escalator
+Five times because
+I didn't know what I wanted to do
+Content-wise, so I just
+Kept making us go to the upper lot
+Then the lower lot
+And then the upper lot and then the lower lot
+And then the upper lot
+And then the lower lot
+And then we did a porno down there
+Yeah, that was the best part
+Get Kase a fursuit for Christmas
+Would you like that?
+If you had a fursuit for yourself
+He doesn't want it
+Mm-hmm
+There's a lot of time wasted on those escalators
+They really are
+Honestly
+I was like, let's go meet
+The Grinch down at the lower lot
+Because past members can meet him there
+I thought it would save a chunk of time
+And it technically did
+Because it's like an hour
+Less time
+To meet the Grinch
+But it was still an hour
+And I didn't want to wait in that line
+Your discord
+Wait, I'm very confused
+What are you saying to me?
+Yeah
+You know, you want me to do the work
+I'm going
+I'm doing it
+Had a friend
+Had a friend coat
+That's the friend coat
+Guys, I didn't have my own steam
+For a very, very long time
+I just
+Shared a steam with my ex
+And
+Last year I had to get my own steam
+And I lost a shit ton of games
+The amount of games I have now
+On steam is like
+Three
+So many
+No, I want to play over there
+I don't want to see what I'm doing
+If you're
+Actually, I don't even know
+None of you guys would be friends with this person
+On steam, so I think it's fine
+Christian, you
+Still might be
+Friends with the other account
+My new account is just straight
+Ladykendall
+Which is like my old username
+And here's a fun fact about that
+I had to stop using the username
+Ladykendall
+Because it kept getting flagged for the word
+Dyke
+So, how do I make it fullscreen?
+You think like this? Fuck yeah
+Okay, I'm going to leave now
+Oh, just kidding
+He's getting a water
+I'm drinking this
+When I
+Want to pretend I like beer
+I just drink a cream soda
+Just kidding
+Okay, bye
+That's all I got guys
+Quietly gets up
+Oh, your glass
+My glass? Oh, my glass
+Wait, you wear glasses?
+These are my
+Tripp Bradstein Memorial Glasses
+Are they?
+Are they prescription?
+These are technically blue light glasses
+Not prescription
+No, I just mean it's whatever they claim
+Is their prescription?
+No, they're just for character bits
+Actually, these aren't even blue light
+They're just for character bits
+Oh, should I download?
+First, I got to send Christian my friend code
+Yeah
+First things first
+I got to send my friend code
+There we go, okay
+And now I just quickly look up
+Lethal company
+HD mod
+HD lethal company
+Yeah, there it is
+Manual download
+Oh, accept
+Oh, I had an invitation
+For a miracle that I didn't even accept
+I'm a fool
+I've been a fool for too long
+Alright
+Oh, really?
+Okay
+HD lethal company
+Ha, there it is
+Alright, let's see if this immediately works
+Yeah, I think it's fine
+I just won't shout
+Until I do
+I'll play it a whisper
+That's fine
+I'm going to play this real intensely
+Yeah, if anybody else in chat wants to play
+I'm firing it up now
+We're going to start another game
+Another new game
+A miracle, I'll invite a miracle on everybody else
+Oh, I got to go change it manually
+I'll just do it later
+I think once he's...
+Well, let me invite everybody
+I'm figuring it out, I swear
+You friends list, okay
+Well, first I have to make the game
+I would play with my PC sucks, yeah
+Yeah, I know
+But you also didn't say that, I'm paraphrasing
+It doesn't have a mic
+That's the nicer way to put it, sorry
+Um...
+Invite to game
+Invite to game
+Invite to game
+Everyone is invited to game
+I didn't?
+A miracle?
+I'm actually not sure
+Who in chat that is
+Christian!
+Well, well, well
+Look who it is
+The man who's supposedly too busy eating
+Oh shit, we're in the middle
+Of an intense game, I already
+What's that?
+Invite you to game?
+Wait, we only have one day left
+Yeah, but we already have a bunch of stuff
+Oh, a miracle, how's it going?
+Okay, thanks for the invite
+Thank you for joining
+Sorry it took me so long, I didn't realize
+The pending invite
+Alright, let's go into the game
+Oh, Amir, cool
+Did you get the invite?
+I'm in
+Oh, they can't hear me, so I can't be too shouty
+We might get a little overlap going on
+Um, okay
+Okay
+Shit, I'm so...
+You can hear yourself through this?
+Can you hear me?
+I can handle it
+I can deal with it
+I'm just gonna be real whispering
+Can you guys hear me if I whisper like this?
+I can hear you
+That's incredible
+Should I just leave?
+No, you were not allowed to leave
+Should I just go into the other room?
+No
+All I do is whisper
+Alright
+It's time to leave the company
+We have 40
+We have 40 dollars
+Let's go to assurance
+And we're landing
+Oh, exterminator? Shit, I shouldn't have landed
+Um, let me add a...
+Woohoo
+Try to find him
+There's my discord
+Exterminator, I muted your friend code
+Should I move?
+I think it'll be fine
+You think?
+We can also technically set you up with a better mic and it would be as big of an issue
+We don't have one here
+We could use one of the labs
+But it's not a setup thing
+Okay, add friend
+Send invite
+We don't leave
+Also, if Kendall and I are just on different teams
+It'll never be an issue
+See? Look, now it's fine
+Exterminator, I just sent you the invite
+But it might not work
+Because
+We're on the planet now
+But as soon as we die and are back in space
+You can slide right in
+Smoothly
+Yeah, if Kendall and I are just on different teams
+It doesn't really matter
+If we're audible in the same room
+How much money do we need?
+106
+Do I have any items?
+I need a flashlight
+Daddy needs a flashlight if he's going to get some work done
+Daddy loves flashlights
+Okay, so we just need a little bit more money
+And we're fine
+So I just trust them to do it
+I trust my team
+Oh my God, I'm trapped
+This time when I get scared I have to be like
+Damn, I do want to see a mod that makes me laugh my ass off
+Dude, over here
+Hello
+I gotta get into a different room, dude
+That's fine
+What if I just play in the bathroom?
+I'm gonna go to the bathroom
+Well, wait, I can set you up to
+Have a better mic
+Here, I'll go to the ship and then I'll set Kendall up to the better mic
+How did I already lose track of the ship?
+You guys just need to collect
+$70
+The bedroom would probably be better because there's a door
+But it's also harder to play
+In there
+Let me just, I'll handle it
+I'm handling it using my talents
+Just a second
+We wish you a merry Christmas
+We wish you a merry Christmas
+We wish you a merry Christmas
+That's all we need
+Christian, I've been looking for you
+Oh, I already
+Shut up, shut up
+Yep, get us out of here
+I'm in
+Am I stuck?
+I look stuck, no?
+Is your foot stuck on the
+The vacuum?
+I sustained the most injuries
+What'd you even do?
+I don't know, I don't think I hurt
+Okay, how audible am I now on Kendall's?
+Did you switch it over, Kendall?
+I did
+So I think now if I'm just kind of quiet
+It won't be that bad
+I don't hear you through Kendall's mic anymore
+Fantastic, see, I knew
+That I couldn't possibly be wrong
+Ever
+I'm just nice
+And I'm calm
+Kendall seems to be not trapped
+I see her moving
+What happened?
+I suspect my dance
+Let me try to invite the exterminator really quick
+I was asked if they wanted to play
+They have not said anything
+I guess he's already invited
+So it's not letting me invite him again
+Either that or I'm just an idiot
+I don't get how to do it
+Which is equally likely, or more likely
+Now we're company-ying
+I wish I had a Kendall cam
+That I could just show you guys
+A little of focus over there
+Alright, let's attempt to not die
+I was not paying attention
+Kendall is not paying attention
+We're at 214
+252
+Yeah, we made it
+Should we hang on to the rest?
+A coffee mug costs as much as some bottles
+They're expensive cooking pots
+Let's get out of here
+Whatever
+Away!
+I think you can invite in space
+You just can't invite
+While you're on the planet
+So I'm going to try it again
+I'm going to hit up Exterminator again
+You friends-less
+Exterminator
+Invite to watch
+Unacceptable
+I wonder if the mod
+If the mod's not working
+Oh, and also Exterminator
+You do need that one mod
+To play in the same game as us
+So he's where to update
+Hmm
+Because he was playing with Fee with the mod
+Yeah, I did have to get a new mod
+But
+So wait
+Can we just not have him join this game?
+Or am I the host of this game?
+I'm so confused
+Sorry that you whisper
+Oh, it's fine
+You friends-less
+I'm going to let me invite you
+Yeah, I'm going to restart the game
+So I'll re-invite everybody
+Okay
+Now we invite everybody again
+And it's just that easy
+Seamless
+Invite to game
+Invite to game
+Invite to game
+Okay, Ex, you're invited as well
+Oh good, you're in here
+Perfect, and there's Kendall
+Just know I have to whisper
+But I'm so excited
+Alright
+Let's go to
+Experimentation
+Thanks
+I love cute hacks
+Yeah, that is a nice hat experimenter
+Experimenter
+Experimenter
+Alright
+Woo-hoo
+And if anybody else wants to play
+Let me know
+Radio DJ mode
+You're listening to the soothing sound of
+Spider Radio
+Are you calling Spider already?
+No
+He's so bad at jumping
+Oh, he just jumped
+Yeah, I see his body
+It's so sad
+No
+No
+I felt like I really had it
+Dead end
+Thank you for the 500 bits
+I did the exact opposite of her
+But that's fine
+I'm kind of afraid to make the same jump
+Acasted
+Because he's going to make fun if I don't make it
+That's true, I won't make fun of her
+Let me read
+I'm whispering so she doesn't know that I'm saying that
+I believe in you
+Let me drop my gear at least
+Okay
+Smart, smart, smart
+Yup
+Yeah
+Wow, you could have taken everything
+My god, should I drop stuff?
+I don't know
+I want to take the shovel
+It's the only thing that can help me
+Wait, Exterminator, you died too
+Yeah, can you hear me?
+Yeah, I can hear you
+I used to talk on
+And I used to break
+If you died
+But apparently they fixed that
+Nice
+I can't believe I got everything
+Awesome
+That's crazy
+Oh, did you not do the jump?
+No
+I'll do the jump, you want to see me do the jump?
+No, don't kill yours
+Don't do it
+I'm looking at me
+These are the ultimate hacks
+We've got in the same room
+Really?
+The Bracken got me
+The guy with the ice
+What the fuck is happening to Kendall?
+She needs to know
+She has to press the button
+Oh, press E
+Let go
+Stop
+With every other game that's ever been made
+You don't automatically get off the ladder
+Yeah
+I think we gave it a good try
+Somebody got the expensive thing
+So we're good
+Everyone's dead but us
+I know, I just realized that
+I had a flashbang on me too
+It's a good test run
+I guess we're just going to have to fail quota
+We got three days
+We got a dead body
+Yeah
+I don't want to grab their dead bodies
+Sounds scary
+We're $5 so
+Your body's at the bottom of a ditch
+I guess I would because you don't love me
+Would you love me if I hit the bottom
+of a ditch and a corpse?
+Oh, fancy rancid, yeah, try to play with us
+Send me your
+Send me your friend count I guess
+Or send it to Kendall
+Oh, hello
+Just we'll go from eternal slumber
+No big deal
+I'll grab your bodies next time
+Kendall, can you invite
+No, it's okay, you weren't going to be able to grab mine
+Kendall, can you invite rancid to play with us?
+Yeah, I'll try
+Before we rock it to the next world
+Am I even friends with him?
+I'm pretty sure you'll have to pack out again
+I don't think I'm friends with him
+Rancid, I guess somehow Kendall
+is not friends with you
+I think he's friends with the other
+account
+If you're friends with me on discord
+which you're probably
+not
+I swear to god they won't spam you
+with friend requests
+Why don't we do one more world
+and then if you're still down
+I'm gonna add you
+to invite you in the next world
+Ah, same planet
+another day
+Anything for the company
+Can you buy my flashlight?
+Okay, we have free pro flashlights
+Flashlights?
+Flashlights?
+Tomorrow we'll probably be doing that
+and also playing this game
+Also, we are moving to cream team stream this week
+I
+Nothing
+Absolutely nothing
+What?
+Who's doing that?
+The Bracken
+I
+Oh no
+I think the dream stream is moving to Tuesday this week
+Guys
+That was
+I'm gonna head towards the fire escape
+and just see if there's anything else to grab
+I'm all alone
+I've been abandoned
+You actually can kill that
+Alright guys, it's my
+It's my greatest enemy
+Can I do it this time?
+Place your bets, folks
+This is the one that always gets me
+I am a Mordor
+I murdered it
+Look at it
+Look at it
+We should really take its body
+Yeah, we murdered it, dude
+Damn
+He did so good, bro
+There's a goop coming
+Just ahead of us
+When do you all check the peer box?
+Good question
+I actually don't have access to it
+But Fiona has the key
+So I think just whenever we ask her to
+We got some goop
+Tell her to check it
+Yes, I found a thing
+Be careful, dude
+Dude, Kendall's popping off
+20%
+What?
+I'm trying to beat it to the top
+And then we can jump down
+Oh my gosh
+Oh shit, it's a bracken room
+Okay, I have to figure out how to get out of here
+I'm hearing some breathing
+I don't love that
+I have so much stuff it would be a real shame to just die
+But I feel like that's a
+Feeling a little likely at the moment
+How the hell do I get out of here?
+What the fuck was that?
+Okay, there's that, that's a good sign
+What the fuck? How am I so lost?
+My friend
+Where's the exit giant slime?
+Help me
+Oh my god, I've run by this door so many times
+I hear you
+I'm at the exit, follow my boy
+I'm following your vo-
+Oh, this is a dead end
+Okay, I went the wrong way
+I died so fast
+That was insanely fast
+I thought I could jump
+Well, I had to try to jump
+I had to try to jump it, I was trapped
+Damn it
+I think they're still looking for you
+Oh no
+He should know
+That I'm gone
+The exterminator is just doing the Lord's work over here
+Okay, he's out of here
+Damn, I had so much shit
+I had so, that was my best all ever
+Is it a walkie talk like time?
+I got three gifts
+Oh, Bill, yeah, absolutely
+So, once we're back in space after this one
+I'll try adding a bunch of people
+I tried to call for him
+I heard him for a second and then he disappeared
+Bill, let me share the mod that you need
+Bill, let me share the mod that you need
+Yeah, he looks like you know
+I guess we can call it
+Yeah, I need your, um
+The mod is incredibly easy
+103 with the apparatus
+Here's the mod you need
+Got one more day, right?
+I also need your friend code, Bill
+Your steam code
+My note is just deceased
+41?
+41 out of 241
+Okay, I'm gonna try to add me
+Who's my shovel?
+I'm on my shovel
+Hey, did you die with it?
+Oh my god, wait, did I have this?
+Yeah, don't look at me
+Don't look at me
+I'm sorry to break it to you
+Don't look at me
+Don't look at me
+I don't want to tell you, but
+I forgot
+I tried to jump on the railing because of the spider
+and I just jumped right over it
+So guys, I think I have to quit
+and restart the game and re-invite everybody, unfortunately
+But then we'll have even more people
+So I'm gonna do that real quick
+No problem
+Let's re-invite the world
+Hello
+Hello, you're back
+How come I'm not friends with
+my shovel suddenly?
+Oh, there she is
+How do I add her?
+Another day
+Dude, my friends list is not showing everybody
+It's annoying me
+Invite to game
+Invite to game
+Invite everyone to the game
+Okay
+Bill, now I can focus on this
+Jason
+So Bill, in Steam
+You right click your game
+and then you
+open the files for it
+and then you just have to drag some stuff into
+that file folder
+Although I guess on a Mac maybe it's more complicated
+because you're already using a different thing
+I'm not sure
+We have so many people
+Did we get Rancid?
+Oh, I didn't tell you I needed them on
+Everyone's gonna go on
+We'll be good to go in like two minutes
+I am friends with Kendall
+She wasn't showing up for so long, so now she is
+We're just gonna wait
+for them to install the mods right now
+Yeah, this is where it's waiting for the mods
+Okay, that's cool
+It's a firm point
+It really is
+I'm gonna post that YouTube link just one more time
+for the hell of it
+You know when Kendall and I move
+we're gonna have
+computers on opposite sides
+for a little ADU
+and then we can game as loud as we want
+It'll be too late at that point
+It's cute
+Yeah, this game will get old by then
+Yeah, I know this game will be done
+but maybe there'll be a new thing
+There's always a new thing
+One of the same beautiful background
+I feel bad that Bill finally got the game installed
+and now
+it just doesn't work for a different reason
+It's not even
+Damn, you guys got moves
+There's gotta be a way
+but I don't
+I also don't know
+where's your head
+that we're using this bot
+I'll be good and I'll play if we work
+I think right now we're just waiting
+for ransom
+oh my god
+where's your head
+oh it's way up
+oh my god
+ransom, were you able to get it working?
+I'm gonna re-invite it
+I'm gonna spam this as
+excuse me, you've been invited to game
+Oh my god, your battery's running low baby
+on what?
+laptop
+oh I'll plug you in
+my computer died
+but now she's plugged in
+we just watching the video almost done
+every person we add
+is another horde of potential money
+send it again
+oh the invite
+ok invite to game
+unfortunately we seem to have lost exterminator
+oh yeah for the time being I can be
+as loud as I want
+am I not in this game?
+you are somebody's here
+ransom there we go
+I was exterminator I've been here like the whole time
+oh there you are
+ok weird my friend says you're not
+my friend that you do
+my friend says that you're not playing for some reason
+just that you're online
+but I'm glad that you're here, ok good
+let's go
+you know it's Christian Teho
+hey
+is it turning on?
+it's not?
+man we need to run it on fortnight again
+we should have ran it
+during the throwback
+should have
+in case you don't even know
+we were carrying kendo to victories
+what's going on over here man
+oh
+I don't think so
+I mean assuming my computer will charge
+oh my god I'm being pushed into a corner
+I'm being backed
+into a corner
+baby's in a corner
+oh my god
+what's up
+yes
+invited
+yeah I'm getting fucking
+hopped off
+ladies and gentlemen you know what I mean
+this is a full service space shuttle
+holy shit
+I'm only safe up here
+you guys ready
+let's go to a
+jazz space
+I should be a little bit boosted
+this might mean that
+I don't know what this might mean
+that you can handle better
+we wish you a merry christmas
+we wish you a merry christmas
+we wish you a merry christmas
+put this right in my mouth
+I want it nice and loud
+oh god
+do anything with this
+step away from it would be one option
+locked
+I've just the thing
+really
+that was the most useless locked door of all time
+yeah just turn over here
+be careful
+yes right there you are
+oh watch out
+I can't pull that
+hello
+how's it going
+so there's a turret over there
+I think I heard it
+might have killed christian
+I don't think those bugs aren't too bad
+yeah they're supposed to be friendly
+but I don't know
+I think we'll change this
+yeah I haven't found anything yet
+I found a
+one of those china like
+old things
+I almost got eaten by a sand worm
+like it's doomed
+yeah I saw a gun
+christian ran into it and then I just
+sprinted after him straight into it
+and that's on me folks
+what are we supposed to be doing
+are we like trash collectors
+yeah we just collect trash
+and it's worth money
+cool yeah
+somebody got a cookie sheet
+and now we're making money
+I found a log but I don't think that's trash
+I'm gonna go look for it
+in a fire exit cause
+um
+so there's like
+uh it's kind of friendly
+let's find a fire exit
+oh sinister depth great
+um
+yeah let me
+I'll restart it after we
+get off this planet
+the great migration
+on and off the game
+I think the more people we have
+the more rich we get
+multi-level murdering scheme
+here's my specialty jumping
+there's a valve
+hello
+hello
+I thought you were a deadly monster
+but instead you're just a good friend
+hello
+hello
+cookie matter thing here
+nice
+it's time to not push my luck
+let's just get the fuck out of here
+hello friends
+might I suggest a hasty retreat
+I've lost too many presents along the way
+now I just want to return one gift
+there's a decent chance
+there's gonna be a murder dog out here
+I can hear that Kendall is lost
+hello friends
+guys we're getting rich
+so we just throw it on the ground
+okay
+I mean you could put some in the locker
+then what it is
+465 and that's without counting the apparatus
+Kendall's still alive
+alright let's go try to save her
+I'm great at being fire
+what's doing
+there's also gonna start to be
+big monsters out here to kill us later
+just exciting
+well like I said I already had a giant sand
+sand worm
+the fact you survived that though
+pretty impressive
+this is an interesting way to go
+guys this is the secret cool way
+for cool people don't worry
+don't worry I've failed this jump
+hello soul thumble bottom
+I got it
+somebody just died
+I immediately hear Kendall crying
+I do feel like they might have just died
+I don't hear anything anymore
+of course
+I still have a key
+can you hear us
+follow us on our voice
+hello
+there's slime over there
+but also some really good stuff that
+a miracle died for
+should we go there
+we gotta reroute this slime
+I see this guy
+yeah it's right there
+can we get behind him
+both
+at a dead end
+maybe it'll listen to the stop sign
+how many stop signs do I have
+that one and this one
+damn
+a miracle
+we got a key
+I did have a key I just used it
+I know
+nothing on your side
+I'm gonna bring the slime this way guys
+and then you can go get whatever you want
+yeah I gotta go get a body
+I'm going
+no slime I'm your friend
+slime
+where was the body
+oh this way this way
+we're dead
+where was the body
+we gotta get out of here then we're gonna die
+guys we have to leave though for sure
+candle
+come to me
+come to my voice
+oh I can't the slime's gonna kill me
+try to jump it
+where you at
+hello
+hello
+there you are follow me
+follow me
+candle
+I'm following
+I have no idea where we are
+can you see me
+yeah yeah yeah
+yeah
+I think it's this way
+oop
+oh
+make it
+I just got left behind
+we were really close
+okay I'm gonna add some more people guys
+we got more people incoming
+oh my god
+I'm so sorry
+so I'm gonna have to stop the game again and restart it
+to add more people
+okay
+so I'll send you all invites in just a sec
+there's probably a better way to do this
+but I just don't know what it is
+alright invite to game
+invite to game oh nice
+okay good
+friends
+friend
+there's also like a mod
+but I feel like it's too much of a pain
+in the ass and I'm able
+but there's a mod called lake company
+all of them joined whenever
+oh that'd be nice
+found this present
+that's beautiful
+okay do we have everybody
+I can't see who's who
+did sinister dev get in here
+negative
+negative goes right here
+what what was that
+what the hell
+what the hell's happening in here
+what the hell
+what the hell
+if you want to play it
+please do
+we're trying to get the ultimate squad together
+I think my friend bill is trying to join
+and supposedly a sinister dev
+who does seem to be playing
+oh bill's not
+I'm gonna invite him to the game
+he's been invited
+dude I'm spamming these invites
+will bill join the game
+it's a mystery
+there's bill going to
+bill
+this gift
+bill join the game
+oops is that a bill
+yeah there's so many of these
+um
+yeah it should be in steam
+it should just pop up when you have the game open bill
+or you can
+see that I'm playing probably
+and join the game
+you should be able to right click you and jump game
+it's not good
+yeah if you go to like your friends list bill
+oh damn sinister dev
+I wish I knew how to help you but
+I feel like that's over the legal limit
+this is a fire hazard
+yeah right
+maybe I don't have the right
+maybe I don't have the same version of
+multiplayer that you do I'm not sure
+is it not showing up bill
+I just have to go with the fort
+just click your name in the friends list
+yeah bill if you can hear me
+I'm saying to click my name in your list
+of friends
+and then just join the game
+and you open friends list with friends
+in chat in the bottom
+yeah so that's a versioning error
+I don't know why you're getting that
+if you have the same mod I do
+you shouldn't be getting that
+yeah that might mean the mod didn't
+get in there right
+you do need the mod I'll put the mod
+in chat again unfortunately
+the mods kind of
+an actual necessity
+or we can't play with more than
+four people
+okay so we'll just keep going
+and then
+we'll try again on the next world
+this time we just have to dump a bunch of shit
+oh I have to go to the quota
+okay sorry
+sorry there's creator dodgeball
+now
+wait what
+you're like creator boxing remember that
+oh creator dodgeball
+like creator dodgeball now
+didn't g4 do that first
+we do dodgeball
+yeah
+yeah
+if the summer then
+it's what uh
+cast and brags about all the time
+with uh
+him and um
+that one creator could see
+sinister dev I can tell ya
+we're using the more company mod
+okay so we gotta sell this shit
+uh oh
+someone's trying to kill themselves
+I'm guessing it's Kendall
+no
+it's Nathan
+I'm grip over the hell
+I don't think he likes the bell
+it doesn't
+you don't want to ring that while standing there
+I don't know what this came in
+I don't know what this came in
+there we go
+you can die if you ring that bell
+just go ahead and ring it
+just ring it a couple times
+oh my god
+somebody died
+who was it
+it was me
+who died
+who killed him
+those sons of a bitch
+who died
+hostway we are playing lethal company
+you are welcome to join
+you do need a mod which has been a source of some
+consternation
+yeah sorry sinister dev
+I don't know
+which mod is better
+what
+is it floating for you
+if you want to play hostway I'll put the mod in check
+you get those
+it was a tray for me
+it's gone now you walk through it
+it's gone
+we don't want to go too over
+I know we were at 400
+we only really need to go over 400
+we only really need to get around
+great
+we need it
+we're getting shredded
+we can't get back
+how much we have right now
+okay we're already old
+we don't need all that stuff
+hostway you just have to download
+I'll meet them for a second
+hostway you just have to install the mod that's in that youtube link above
+that is
+because we're using like a mod to have a way bigger lobby
+than you're supposed to be able to have
+wait did we figure out who died
+I
+I haven't heard case to anything in a while
+aww that's a case
+that's a case
+yeah
+you're so right
+due to Kendall and my
+strong spiritual connection I can communicate
+with her from beyond the grave
+are we good? yeah let's go
+is everyone in here?
+hello is everyone in? no you just sell the stuff
+how many are
+yeah we're all in here
+I wish I could have clicked that from my point of view
+that was amazing
+I was crying
+take us away exterminator
+I know I have to be really chill tonight because Kendall's playing in the same room as me
+so if I get too excited it just sounds
+crazy but just know
+that these whispers are actually happening
+at a 10
+you don't have to be loud
+it's a 111
+dope
+I don't have the time to hold orders to execute me
+to kill me
+guys I unfortunately have to
+start it and stop it again
+so get those rejoins ready
+alright we're quitting and recreating
+okay sinister dev
+we should be back in the land of joinable
+if you want to give it a shot I'll send an invite again
+we're also inviting Bill
+just to
+rub salt in the wound
+we're inviting Kendall
+we're inviting grandson
+boom okay
+we could have a bigger company than ever at this rate
+oh sinister dev is trying to install something
+okay
+well we're all back in here
+we're loaded up
+we'll just do another world then
+sinister dev and uh
+I'll just recreate if you're whenever you're able to join
+okay
+let me choose my voice
+hello
+you sound incredible
+we should see it from
+today we want to play
+I'll go in her chat and see
+I have to
+what the hell is Bill saying to me
+oh be alert be alert
+be alert
+oh oh oh oh
+oh do it do it
+oh my gosh
+what's happening
+what the hell
+we might have had it if we just
+did it right there
+yep yep run out yeah yeah yeah yeah yeah yeah
+okay
+where's the key man
+hello
+hello
+so here's the dilemma
+they are definitely actively in the ship
+and not going to
+the dilemma is we can't go back into the ship
+I'll sacrifice my life for it
+for what
+oh bill has it installed now
+okay bill next
+we might be good though
+I'll do it
+I'll do it
+here I go
+bring stuff back first
+and then we'll do it
+and then we'll do it
+the hive is just in the ship
+I think we're good
+I think we can get away with not touching it
+yeah yeah yeah
+wait so
+if all the people that are dead
+vote to leave does the ship automatically leave
+yes so if they do that they will murder us
+very easily and we'll lose everything
+well if we time it
+it might work
+so we're in the ship as it's
+leaving
+oh there's the entrance
+oh
+I fucked you with her hide by the way
+bill I'll
+invite you as soon as we're off this world
+we're going off world
+I think we're out of I don't have a flashlight
+anymore
+yeah I don't have a flashlight
+oh what's this
+hell yes
+it's a kettle
+oh there's a bunch of stuff here
+just kidding
+there was a kettle
+oh there's a screw
+hello
+hello
+my key
+good job you got a key
+do you not want it
+do you not want it
+it falls
+dramatically
+oh do we lose it
+ready ready ready ready
+you know
+you can have this back
+oh my god I love you please
+take the key back please
+I know a lot of times
+she's got me to have it back
+and throw it at me
+take your
+gummy on bedsheep
+never
+come back
+god please
+also take this whoopie cushion
+I think it's because of the f stop
+I still need to
+I should probably fix that
+the lighting is hitting
+it's actually like really bright though
+the f stops a little bit too high
+it's like glowing on my face
+or something playing lethal company
+if you're in the mood yes I was actually
+hitting up dev about it
+is it easier to
+just hop in y'all
+also guys
+if you guys want to play lethal company
+let me know so
+as well I have the modded version
+so I can add as many people
+oh there's a thing over there
+no 30 people
+I don't know if we'll do that many people
+I'll protect you please
+where are you I'll protect you
+I would love to play with y'all
+I'll jump in front of it
+I think I just need your friend code
+I might give it to you
+also shout out to Case Blackwell by the way
+make sure you go follow him
+there's something deadly
+I watched with him at G4
+and he does a lot of
+like sketch and prop comedy
+on his switch channel
+he does like a whole news show
+where he has various different characters that he plays
+and it's a lot of fun
+I enjoyed a lot in my lure push
+a lot when you do it
+I also watched the Creamies podcast
+I'm gonna mute today just so
+it's a little less chaotic sounding
+but I will message her
+once we're getting off this planet
+should we just go back to the ship
+I do have a bunch of stuff
+I'm just gonna trust Case
+or not Case
+don't trust me
+I'm the wrong one
+I'm the wrong one
+God I'm so over
+I'm overburdened
+oh look at that
+look at all these
+we should have downloaded
+the other mod everybody
+has to get a freaking different mod cause of us
+I don't know where to go
+I think it's to the left
+left? yeah if we just follow
+oh it is you're right
+oh yeah sinister dev you might need to put that in
+today's chat
+I'll talk to her though hopefully after
+oh my god
+there's also a giant out there
+okay we're probably screwed
+maybe if you crouch
+it would be so
+putting just stuff by the entrance
+I just want to see if everyone's alive
+should we go?
+there's a giant
+there's a giant
+oh he dies
+dude
+I don't know what we could do there
+oh that's bad we lost everything
+we lost it all
+okay okay okay
+do we have any days left
+okay so I'm gonna
+I have to quit the game and restart it
+and then invite everybody again
+I just every time he dies
+we gotta restart it
+okay I'll be right back
+confirm
+gotta add Tanaia
+this is an expanding crew
+good friends
+there we go
+what was that?
+we have two keys and a chest thing
+I don't even know that's sellable
+alright
+Bill if you're in here too I'm gonna invite you again
+shoot why isn't it showing me
+Tanaia
+okay Bill's trying to play now
+I hope it doesn't screw him again
+I'm gonna spam some invites
+at everyone
+what is the rat stuff?
+the rat stuff is an old sketch
+I used to do with my sketch group
+Tim
+Tim basically does the rat stuff
+I don't know
+I'll still explain it
+you haven't done the mukbang goal have you?
+no
+I haven't forgotten
+that is a good point I do need to do it
+um
+can you get hostway in?
+yes I just need his friend code
+he could text it to me
+I think I can invite him
+can you also put the mods in chat
+to make sure he has the mods?
+yes I'll throw the mods back in chat
+hostway should have been invited
+I wanna make sure he has the mods
+I gotta go back in Tanaia's chat
+in your place
+I promise not to kill you this time
+no that's fine
+you can kill me
+no Bill couldn't do it again
+maybe he needs the update
+we have some time to kill
+because they're in a
+GPU or whatever
+you know what I mean sometimes it's
+good stuff like that
+they said they have the modded version
+but I don't know how many people are playing this
+well we have a different mod
+where's Sonic? Sonic's in storage
+yeah I moved as well
+in July
+okay
+thank you Francy
+where are you Francy where are you
+I'm right here are we good
+hello
+hello hello
+free my Sonic
+we're in a joinable game now
+if we're back on the same mod
+okay joinable game
+did you send me a friends request
+after I got the request
+I forget there was a little
+there's a button in the bottom right corner
+of the main menu
+I think it's part of the mod
+I don't know if that's like base game or something
+I think it might be
+oh main menu
+yeah main menu
+okay I'll do it next though
+okay in the main menu
+alright I'll be back guys
+I'm gonna send her a friend request
+okay freaking ads
+oh I'm so sorry
+I appreciate that
+okay we keep quitting and coming back
+we have more company
+I know there's a lot of lore here
+just looking at
+the monsters that I've seen
+okay I'll add your friend code then
+hi as a kite
+happy self-care Sunday
+alright so who are we
+oh I got your friend request
+who are we playing with here
+is this Christian
+I think I'm Christian
+Christian T. Ho
+Christian T. Ho
+yeah the Christian I know right
+yeah sinister dev we should definitely
+do some streaming on our
+I know we've met we've definitely met
+that's weird yes yes
+yeah yeah yeah yeah
+we've definitely met yes okay
+alright let me try adding you
+I ain't seen you in forever
+are we reckless
+oh no it accepted it
+what the hell
+alright dove nice to meet you
+yeah I don't see you online though
+CBB
+let me reboot
+weird
+oh you invited me
+glad you're here
+I think there's a
+alright we have to stop playing that right now
+unfortunate chance it won't let
+that might have been one of my favorites
+well we'll let Bill in
+well it might let tonight
+but I think she needs a different mod
+we have two days to get 510
+player cup
+yeah we've been dying
+I don't know who did that
+it's gonna be fun
+yeah I don't know who put a hive in here
+where is he
+I saw that
+hive with full
+well the hive is fine you just gotta get
+the bees out of them
+you know
+what the hell's me this day
+I was like oh look something
+I've seen it done with
+you get one person
+to bait them and they chase them
+and then the other person comes and grabs it
+and puts it inside
+and then the bees will
+but it is a run for your life situation
+we're about to play lethal company
+I want the smoke
+Lena I hope you like GTA 5
+I saw I was in your
+now we know
+holy shit there's so many of them
+look at this army
+they were assembling
+the shovel
+I died
+it's a pretty good story
+I actually haven't played a lot of it
+are you gonna be RPing and stuff like that too
+shout out to Lena
+Lena Lyons she is amazing
+she's beautiful
+she's one of the sweetest people I've ever had
+the pleasure of meeting
+on this app
+okay
+and Omega you know he kinda sweet sometimes too
+but we don't have any money right
+we do not
+we lost everything
+you have 96
+we could buy
+some flashlights
+or we can get some walkies
+we have community nights
+I'm gonna mute today sorry guys
+I just am trying to figure out if she can get into the game
+but I don't know what she's
+how many are we can we get a count real quick
+7
+7 of us
+alright I'm gonna get 7 flashlights
+we can afford
+I think we
+no we might get 5
+I think there's 6 of us huh
+no we can do 5
+we can do 6
+there'll be flashlights
+once we land
+we have to wait for the drop
+we have to wait for the drop
+this key stuck around
+we didn't lose the key when we did
+we have 2 keys
+cool
+sinister dev you're on the proper mod now
+I'm gonna read what you
+you can't email when you're crouched
+point
+if we had just gone with the other mod
+none of this would be an issue
+axis files figured
+you got something on your face
+hacking in
+on your face
+GTA 5
+okay so you want me to
+read out the lore
+I'm reading out this
+you could read the lore
+there's a secret file under
+figured date August 22nd
+1968
+hello I'm writing this log
+to keep myself sane
+I couldn't find a way to do the most
+basic thing on this old janky butt
+computer
+but I like that
+so I had Desmond added in the log feature
+till now I've been adding my own
+sinister dev in here
+I just can't keep track of who's in here
+do we lose people
+nah he does
+we're still on sub
+I think we should just point and laugh at hoe sway
+don't do that
+don't do that
+I'm not sure
+don't do that
+to actually give you a run down
+go back my car
+yeah go to time out
+okay I think maybe
+I just don't know who's doing what
+maybe we just do a world and then try again
+let's just do a world
+let's try again
+we need to change where we're going
+this is eclipse take us to one of the first ones
+yeah
+if anybody's in rereads chat let her know that
+we're just doing a world and then
+you know assuming our mods
+somehow line up
+we gotta switch
+we gotta switch lobby mods
+I'm gonna do that tomorrow
+wait for the flashlights
+it'll come in the right
+I've got dark vision up to 60 feet
+oh
+I didn't know we were gonna bring our feats into this
+I'm adding a foot mod
+oh my god it's this
+yo there's a hive
+yeah let's get it when we leave
+no we can get it now
+these guys are fine
+I got the bees
+I got the bees
+get the bees
+get for me bees
+you gotta run away run away from it
+no
+run this way run this way
+where are the bees
+yeah I took one for the team
+it was me
+just in case
+don't bring them back to the ship
+oh my god they're bringing the bees back
+why did they get the bees
+you guys insist on getting the bees
+it was there
+we
+it was there it's I mean
+why not
+they put the beehive
+on the front of the ship outside
+and all the bees are in the ship again
+it's too late
+maybe
+I don't know
+just store it
+yeah they just put it away it'll be fine
+did anybody okay some people are in here
+at least this is the advantage of having 20 people
+in the game
+okay wait we're just trying to get on now
+fancy is
+let me go in here
+oh my god I'm afraid to jump
+send me another invite
+cause it's not
+send me
+oh man
+what's happening we can't
+oh they're still running away from them
+is anyone going
+Christian get in my body
+run Christian run
+this is insane
+he got my body that's great
+send the invite
+let's fucking go
+it didn't seem to work for some reason
+I switched over to more company
+but when he invited me it just
+more company
+do I have to do
+anything with that on my end
+wait that's not Christian
+yeah you are Christian
+oh you'll remake the game
+I wonder if it's cause the mod that I have
+I don't know
+I was like open the door
+and then you opened the door
+oh it's a different mod
+oh freak
+so that made me like
+I was like I'll bring it outside
+yeah I have version 45 mod
+oh it's called more company
+oh I don't have that guys
+so
+I'm just trying to check these
+are they there
+okay so
+discord
+oh by the way
+I don't always get more
+basically
+they're using a different big lobby mod
+but it's easy to switch up
+install more company
+oh crap
+how are you doing sunday
+are you using the thunderstorm app
+I have honestly no idea
+there's so many things going on
+it's whatever the one I linked in discord
+oh you're good to go okay
+we're about to all be dead on this planet
+so then I can have you join
+swap it out if possible
+oh
+oh
+okay
+dev do you mind
+discord message
+the mod that I need
+mirai
+thank you so much for coming home
+welcome
+oh by the way hi
+you can try toggling it off
+to big lobby
+where
+oh okay no miracle you're fine
+why does it sound like a miracle
+I don't see that option
+oops
+I got freaked out just now
+I could run and grab it and bring it in
+dude I really regret
+there's version of the mod
+there's no other way
+they're just standing out there
+waiting for someone to leave now
+they're chilling outside
+that's what I've got to avoid
+so hopefully
+oh I see them they're standing
+don't die
+that's my specialty
+dude look at a miracle just actually playing the game
+like a kudos to
+as I'm saying Miracle's killing it
+we're going through fire escapes
+pick a real soldier
+do you hear that
+no one else is watching my miracle
+holy crap
+for sure nice we like screws
+I'm surprised they're still alive
+get out of there yeah get out of there
+just leave no just leave
+wait wait wait
+he's going to get shot
+I don't really need to change my item
+oh my god
+case I ever play for partner again
+miracle
+oh I don't like that
+that's probably the creepy noise I heard
+don't stop
+wait you know I realized
+that's a random
+oh my god this is getting
+well I guess we should not jump over there right
+dude I know like what are we going to do
+I guess we
+gotta go through the other entrance like
+they're gonna die
+where's your miracle
+all that
+they did a great job
+okay
+there you are
+go back to the ship you fly away
+there you go
+the fortnight slide
+miracle did the
+first little bug
+dude that you went into did that scare you
+oh by the way
+I'm surprised
+they didn't kill me yet
+why
+I have a chase of stream on my second mind
+they're called traitor
+should we just head back
+and I think
+they won't mess with you unless you take this
+whatever they're holding
+wait I don't care
+I'm terrified we gotta go
+something killed them out here
+the more players we get the worse we get
+no
+we got
+now we're gonna be fine
+there's another beehive
+or did they bring that beehive out
+did somebody grab the stop sign
+I got that
+why did they take the beehive outside of the ship
+they shouldn't have
+we lost the beehive
+when you guys start the ship let me know
+and I'm gonna run and grab the
+we're gonna lose the beehive
+okay you gotta grab it
+oh
+I mean we can
+oh my god they're saying keep going
+we lost
+no you gotta get out of here
+six o'clock
+and that's when the dogs come out
+that's what the dogs
+oh man they should just leave
+monsters come out on the outside of the building
+once it's around the five
+you can see the monitor
+on the screen right now
+oh god
+how should we get
+we got 27
+plus a steering wheel
+we can tell them to leave early
+we just leave right now
+they don't have enough stuff
+they need that beehive
+they sacrifice
+oh my god
+they're gonna die
+I don't know how to start the ship
+don't leave me in the ship
+I don't know how to start the ship
+oh
+oh wait okay I'll start it
+it's at the front
+the front
+right here
+it says start ship let me know when you press it
+I'll try for the beehive
+no no no I got it
+I got it
+start it
+hit it
+one hit it
+let's see him do this Christian's gonna do this
+oh my god wait
+what's he doing
+what's he doing
+I heard he was flat
+oh he got it
+what a pro
+what a damn pro
+incredible work
+amazing amazing amazing
+alright guys you know the drill I once again have to
+reset the lobby
+reset the lobby to see if
+our stragglers can join
+alright I'll see you shortly
+host
+okay
+confirm
+let's see if Tanae had any luck
+he us up manages all your mods
+even lets you know when they need updating
+and we'll update for you there's a commie
+okay that's great but like
+for right now
+how do I get in the game
+that's all good and well but like
+how do I get into this one
+what mod do I need for that
+or what settings do I need
+to change in the game
+where's the stuff
+I've cursed you with this mod nonsense
+you're all good it's just like
+I guess my friends sent me a different
+mod so that's why
+we got sent separate mods
+cause I probably would have just got
+this mod had I known it would be like
+this is what you're all playing
+wait
+oh that they didn't count
+that they didn't count basically
+I need to remove the big company mod
+okay yes you told me this
+but I need that
+mod I need to count to get it
+so if you can
+link it to me in discord that would be awesome
+everyone welcome back
+to the video so today I'm going to show you
+how you can install a mod
+so that you can play with more than four players
+we're trying to sort this out for everybody
+and I already did a video on this before but
+thank you for your patience case
+okay see
+what is today on discord I don't even know
+x I have
+the LC API thing
+which my discord
+command
+or exclamation point discord it'll pull up the link for you
+I just need like the link to how to set it up
+and then I'm Gucci and I can do it right now
+okay
+like the other one came with like a
+YouTube video and like all the packages
+and stuff so if there's a link for that
+that would be helpful
+otherwise
+I will
+hey
+hello
+that took entirely too long
+kind of message
+okay you went to a birthday party
+where it was elderly themed
+introduction so I know we're still waiting on bill
+thought of you when you have that
+occasional stream oh my goodness
+yeah I would love to go to a party
+as wholesome grandma that would be a lot of fun
+there's really I think we're going to do a wholesome
+grandma stream coming up
+next week actually
+it's going to be a
+a call and answer in the discord actually
+so definitely make sure y'all are in the discord
+if you're interested I submit you as well
+I think that's going to be for the next
+community night potentially
+if we're not doing cooking but cooking might
+actually not fall on a Sunday
+next week hi Daniel
+just DM'd it to you thank you so much
+sorry for the
+bill I'm inviting you again does it look like
+ready for a rave I should have asked
+what mod you guys are using
+I didn't realize there were like
+so many different ones
+I really am going to feel sad
+when bill came to me
+I'm waiting Kendall
+I got to get off the stream though
+oh I have to download
+Thunderstore here okay
+it's so weird how I had the video pause
+and it immediately started playing an ad
+excuse me
+okay so I downloaded
+Thunderstore gotcha
+I did not drink coffee for the past two days
+it seems
+you're watching me fancy invite
+am I missing fancy
+it doesn't give me malware
+did you feel a lack of my presence
+love the chopsticks by the way really nice color
+yeah the golden red
+I got them from my friend's Airbnb
+can you invite them
+yeah
+they own a house in Vegas
+and I needed chopsticks
+that I could just reuse
+and so I asked them
+yeah I know you ditched this once you reached fame
+there's ones in green
+oh yeah that's what it is
+yeah she's the
+fellow
+sorry
+okay I'm downloading Thunderstore
+right now
+she told us it was gonna happen
+we're looking next on this
+this should give you more
+yeah
+okay it's doing it
+it's doing it
+it died every single time immediately
+that's okay
+you're from Brazil
+trying to learn English
+you know the fun
+thing that I learned recently
+doing my media kit
+is about 40%
+of my viewership
+is from Brazil
+mostly Instagram
+too insane
+I was watching the YouTube video and I just heard
+what the fuck is going on
+I accidentally switched over
+to her twitch
+oh wait no I'm hearing a different word
+okay sorry
+I'm getting flashlights again
+thank god
+we're ready to touch down
+whenever I'm told to
+yeah let me just
+try to get Tanae in here
+I don't know if there's any chance
+to start every work day
+I'm going at the quota
+and say for the company
+for the company
+look at that
+you're an intern
+dirty intern
+we're bullying an employee
+we're bullying an employee
+we're bullying an employee
+you're a dick
+I would love to go to Brazil
+I love Brazilian films
+I'm inviting Tanae
+probably not to say some of the
+in exposure
+but definitely
+any joining
+well
+if I don't
+download this new mod I won't be able to join
+is what they're saying
+so right now I'm doing the Thunder store app
+I mean I could try
+joining again to see if it'll work
+but if it's the same thing
+with the mod issue
+then it's not going to let me join
+hashbrown
+can you give me a ride
+to the airport
+I'll get you 5
+hashbrown
+I think it's going to be the same issue
+if I don't download this mod
+yeah the server host is playing
+on version 9999
+while you're on version 16485
+yeah so that's
+so alright
+I just installed the Thunder store app
+and now I'm
+watching this video
+let's do a planet
+while Tanae sorts out
+how to basically do this
+do you like Brazil more
+more than that
+what is your favorite
+my favorite
+Brazilian movie
+definitely
+let's do
+what moon are we going to
+land it
+it's already said it's assurance
+I'm gonna land it
+I think I hashbrown the host
+G4 intern you do
+I'm trying to get her into the game
+we download this mod
+than anyone
+so we're in sort of a weird spot
+dude that's such a cute
+we've got a thick crew
+for the union
+wait wait
+what about the flashlights
+what? there's flashlights
+yeah flashlights over here
+I'll take a land light
+how many
+wow
+don't stand there it's going to land there
+you got to dance when it's coming
+here preachy yes
+tap out at will thank you for checking in with us
+if you can ever get your computer to
+cooperate
+maybe we can get you to leafle up this company with us
+there's more batteries
+here
+okay do I hear bees
+I'm not going to lie
+I kind of miss the person
+the only thing to do in this situation is to fly solo
+the only responsible thing
+for me to do is to sprint into this building alone
+and this hope that these seven people catch up with me
+oh god it's dark
+oh
+who died
+why do you think someone died
+oh okay that's why you think someone died
+okay there's a gun there
+whose body is this
+no ash is dead
+I was going wrong
+preachy
+damn all the lights are off in this place
+there's lights up there
+two lights shining down
+hello
+I keep hearing candle flaps through your mic
+I keep thinking that
+yeah that'll get ya
+hello hello
+someone died
+there was a death machine gun
+oh there is a mixed way
+there's someone behind it
+we could probably have one person
+in the chair
+to like
+you probably should have someone in the chair
+honestly it should probably be me so I create less microphone
+insanity
+hey
+I ran through
+I thought I saw
+so I didn't know if it was like a ghost
+but it turned out to be case
+it's me
+I'm going to sprint by this gun
+yeah be careful with that gun
+reloading
+no you can't pass it
+I did
+well at least the gun's on there
+yeah
+it's right off
+that mask
+oh shit
+looking away
+that mask is a little scary
+wait don't touch the mask
+you'll find a mask on the floor
+whoa
+I can't pick those up
+oh it's me the mask
+I'm here
+where's this mask you talking about
+oh it's just the mask somebody was wearing
+oh shit dude I'll be here
+hello
+is everyone okay? oh that's good
+there's a fire here though
+cannot pull valve
+okay
+the turnover rate is pretty rough
+Phantom Spaceman
+say about every month
+most of their workforce dies
+oh bottles
+oh great bottles
+okay well I can't
+I can't find anything over here
+alright I'm just going to take these bottles back
+I feel so bad that I forced
+tonight I have to try it
+sort out this mod nonsense
+tomorrow I'll just switch to whatever mod
+Avaly's on
+hello
+hello
+bottles for everyone
+bottles
+highly valuable bottles
+okay so I'm going to scratch here
+and make a
+Nicole some different
+oh baby look at all this value
+dude tomorrow we have to do pretty well
+or we need people to bring in a lot more money today
+yeah I think we need
+walkie talkies next time
+charge it up
+well you know you can't fill up a human with delicious drinkable liquids
+without the flavor
+getting ruined by all the other juices
+alright what time is it
+this is a mistake
+we even going back but
+I feel like I have to give it a shot
+brought them back we did our job
+oh you guys find anything
+yeah we just picked up some of these
+yeah we picked up some of these
+yeah you got a flashlight you want to die by a spider
+I'll show you the way
+I don't know if it's worth continuing
+because I've already been through here
+but oh yeah
+we weren't over here we were over here
+okay
+nothing there
+god these flashlights drain fast
+dude did I already lose
+that's not good
+which way is this gun pointing
+hello I was grabbing a flashlight
+I don't know maybe we should just go back
+you sound scared
+I'm not scared at all
+do you want a flashlight
+I mean I'm going to die
+here you go
+there's definitely a spider over here
+yeah I say let's get out of here
+this game is about making questionable choices
+game really gets good when you start
+being close to death
+yeah I can see Tanaya on my second monitor
+just opening folders
+and I know that's a bad sign
+okay case is coming
+case is coming
+if I die nothing bad happens right
+because I don't have any stuff
+you lose a bunch of stuff
+oh shit close the door
+wait not yet
+is that bill
+yeah we get
+oh bill
+you made it into the game
+oh look
+Nathan is the only one left
+excuse me bill
+what time is that
+I don't think it's going to have enough time
+hell yeah
+it's so close
+I know how to do almost all the buttons now
+case
+I want to open the door when I tell you okay
+he makes it
+not yet not yet
+yeah that's it
+case
+why yes
+can you hear me
+yeah that had a turtle on the other side of the wall
+I'm going to crouch and make Nicole some dinner
+okay
+that's what you're doing in real life I'm assuming
+bill is currently
+crouching in his kitchen making his wife dinner
+like a real man
+okay
+let's check in with today
+Christian
+I'll be doing that next week
+the video is showing you how to manually install it
+okay
+so there's an easier way
+yeah I'll take the easy way
+easy way for me
+hang on I don't hear you talking
+we're seeing a turtle as a turtle
+as a turtle
+okay I should be able to hear you
+all right
+let's do one more minute
+you know we have to
+we don't have enough
+so you're telling me we don't have enough money
+for walkie-talkies
+no we have not made
+any money for walkies
+but thank you for
+trying to save us from that turret
+we were kind of doodling with it
+I appreciate it I was
+honored
+we need 200
+we need a total of
+we have 249
+on the planet
+damn someone's farting so hard
+it's crazy
+we need a slightly more double
+we have
+so that means we got to sacrifice for the bees
+but at the end of the run
+all right Christian I'm gonna hang
+I'm gonna just be on your hip the entire time
+go free
+you need
+did everyone charge their stuff?
+I'm charged
+I'm fully charged
+who needs batteries
+who needs electricity
+I'm bricked up guys
+don't tell anybody
+let me see
+Christian don't tell anyone
+whoa fire exit right here
+see the laggy
+the fire exit somehow is right next to the main entrance
+like a holiday rush so like everyone's trying to like
+get should done before we all
+are done you know
+yeah
+are you guys going to the
+the thing
+at the undisclosed location
+I'm definitely going to a thing at the undisclosed location
+what is
+let's go this way
+how do you want to go this way
+there's a spider right there
+so hide
+away
+damn somebody got
+took
+who did that
+open the door
+it opened the door
+what's over there
+that's your home now
+no
+dude look at me
+oh
+I guess your home can be down there too
+we're not about to the best start
+dude I think that thing
+literally opened the door by itself
+jump on the rail
+that's what I tried to do
+you jump on the rail
+first you want to
+let me go forward
+that makes sense
+I saw that there was an arachnophobia mode
+you can turn on
+the problem here is
+that's the only way
+like guarding everything
+that's the only way
+we need a sign
+do I sacrifice myself
+is there a shovel
+do we have a shovel or a sign
+do I sacrifice myself
+then you just die
+there's no sacrifice
+oh shit
+it jumped
+oh it jumped
+it's like stuck
+oh my god
+okay
+ash is the only one
+ash is nuts right now
+he is
+literally cracked out of his mind
+how
+this guy just jumped
+he's in
+coming
+coming
+coming
+every team needs
+the initiative
+and I truly believe
+ash
+look at this
+look at this spider just going
+absolute pump mode
+I have eyes on ash
+ash is coming
+he's in the generator room right now
+there's a block here
+fuck
+what killed you
+run
+what are y'all doing
+in hindsight
+I'm probably
+shouldn't have closed that door
+the spider can
+open doors
+100% the spider can open doors
+the spider did open the door
+how did you die
+I'm pretty sure that's what I screamed
+as I was dying
+what should I do
+you know
+I don't know if you watch the case stream
+but it didn't look very good in there
+something with dead ends
+and the spider
+oh no
+ash is dead
+hello
+I'm act early
+come on the other side
+he's undaunted
+unbroken
+undaunted
+there's another entrance
+I don't think we found
+anything
+there's
+no one has a sign
+we don't have anything
+it's impossible
+damn it
+what the fuck
+it's okay
+it's okay
+I don't have
+wait where's ash
+why oh he's moving so much
+no it's just staring at me
+how is he so
+if you like watch people getting
+close to the spider
+it'll activate
+you're gonna have to ally with the other one
+okay I think we need about 200 more
+I don't see you ash
+100 more people
+Matlin I'll have a great night
+anybody who needs to check out
+I understand it's getting late over here as well
+but I feel like I've trapped us all
+in this lethal company
+I don't know what to do for you
+so what happens with the spider
+where you have all the reasons for needing the money
+you gotta get back over there
+okay ash you're gonna have to
+like look for a thing
+I think he should
+jump over the spider
+oh it's coming for you
+it finally made a move
+no way
+oh I got it
+he's still up
+he's still going
+what's up guys
+how did you die
+did the spider kill you
+yeah I was on a railing though
+yeah that's how I died homie
+well I fell off so
+but I'm so glad
+I think case got
+like a very cinematic shot of me
+dying and I
+want to memorialize that
+I love it
+we're so fucked though like money wise
+kill it with a flashlight
+how much money have we gotten
+like 50 dollars
+yeah it's gotta be
+I'm sure it was an extension
+don't understand
+ash is the only one on the other side
+our best chance is
+how is he still alive
+I don't know how he
+her only hope is that there's like
+10 of us
+yeah but he's looking for like a stop sign
+or a shovel you know
+we could all come over
+he's not gonna
+yes
+he's searching this in the dark
+if we had a stop sign
+we could just get on a railing
+we could kill the spider
+the spider's here
+the spider's here
+there's nothing
+dude I would just like to point out ash is still alive
+and still in that same hallway
+still alive
+to be honest I don't know how he got past the spider
+Kendall he booked for it
+this guy he said
+I'm going in and just ran in
+spider ignored him
+yeah I didn't
+bro he went into any territory
+the first thing he's hit was one of those webbings
+oh he's stuck now
+there's nothing to yeah
+no he can make it
+okay makes sense
+hi Arthur
+I got like 11 profiles
+damn
+okay so they can't invite us
+right now
+alright well at least we figured it out
+so hopefully it'll open
+is there anything I need to do
+otherwise
+there's a bunch of people
+nice nice
+they seemed
+scared and confused
+okay
+okay sounds good
+about to remake game
+okay
+he knows already that there's nothing
+he should
+grab that
+we could just vote for early leave
+oh no that's fine
+I think we're about to totally
+probably I did see you guys
+got an f
+oh they left
+it's fine
+we're just dead
+they left
+yeah they left
+um
+hello
+stop
+no
+did you at least try and like run it
+no there was spider webs
+like so crossing
+really that's not the case
+solid attempt
+I think I may as well just leave
+end this game because we're just gonna have to wait till I die
+and just make a brand new one
+just let us die though
+let us die
+it'll be okay
+holy moly
+we need to make $500
+we need to make
+$250 or $200 in size
+$230 I think it was
+we have $230
+no no no yeah
+I mean $200
+we have to
+we have $290 here
+in scraps so we're gonna
+oh jeez
+somebody just jumped off
+with one of our scraps so
+it's okay
+okay
+put everything on it
+don't forget to ring the bell
+we don't have enough money it does not make a difference
+what we do
+we kill somebody
+oh no they're just gonna make it take forever
+don't
+let's see how much we have left
+before we kill people
+sell it sell it
+I think that's everything right
+we get everything
+yep
+I shouldn't have died because I could have just made us leave immediately
+oh wait no you gotta put it on it
+I'm gonna sell item there
+sell item there
+okay no no no don't do that
+don't do that
+somebody die so I can vote for all of us to leave
+Lisa
+someone check how Sway's underwear
+it's okay alright we sold it
+they got it they're happy
+and we let's fucking go
+even if we all died
+we're not making it
+we'll do it
+oh wait wait you're saying that can we like
+put us out of our misery
+we're only worth five
+hey how much can you get
+excuse me fuck
+hello I'm sorry you said goodbye
+get on the ship
+we must face our fate
+goodbye
+I made the boldest choice of all
+which was the SD
+right in front of my supervisor
+now we're dead
+now we're going to spit
+look at that they passed building
+oh they died immediately
+our bosses will understand guys
+alright
+let's get launched
+I think after this I'll have to quit
+and restart anyway
+because there's someone who wants to join
+thank me
+thank me
+can you get out of the way
+thank me
+we are still going
+we're welcome to jump back in
+space is full today
+space is well stocked
+because we have such a big party
+okay
+do I even need to remake the game
+can I just invite people now
+yeah
+okay I'm going to invite Rere
+is it too full
+invite to watch now I have to remake it anyway
+alright guys I'm going to remake the game
+okay remaking
+inviting
+invite to game
+invite to game
+invite to game
+how many people could be in this lobby at once
+32
+32
+32
+32
+32
+32
+32
+32
+32
+32
+32
+32
+32
+32
+32
+32
+32
+32
+32
+32
+32
+!
+hh
+32
+32
+room specifically made for me that turret scared the hell out of me and then
+the word scared the hell out of me we're not scared I noticed the cases ever five
+feet from me he dies so he's probably there's a problem you can put you can
+get a 50 people in a room but the defaults 32 this next place we're
+going to seems to be dangerous we might lose a couple people that's okay the
+company can take the hit must go talk to my okay well today it looks like she's
+an exit unfortunately unable to out of game so I guess we can just go we have
+everyone okay riparone there's so many of us what do we want from this store I
+she's trying to get in I'm gonna grab two walkie-talkies minimum yes they got me
+in limited edition Oreos like of the season let me pick up these minions does
+anyone want anything specific does anyone want a flash light what what's the
+air horn doing what's on sale trying to get in yeah it's the mod yeah I took
+Christian's advice and I installed the whole thunderstorm odd manager and that
+actually did work pretty well because it'll launch it modded it won't launch
+the modded version apparently it doesn't do it yeah as easily I don't know
+it's been a problem for people all night I think we just got the wrong version of
+the mod we should have there's like a more popular one we should have picked I
+think this one's better because I think the other one hasn't been updated since
+the new update so this one works oh I see okay well maybe we should just do a
+world and we'll rejoin if she's able to sort it out I feel bad I don't see
+air horn it's all about that it's okay but I did order this stuff it'll come to
+the left I think the planet seems orderly only kind of this is fast I'm so fast
+oh wait we should get little flashlights
+who do you order flashlights for us
+I don't know
+I thought you knew
+that's cool
+there's gonna be some shit up there you know
+you never know
+oh there it is
+I think the important thing for me to do is to be a hero what the people cry out for
+is a hero and no one will ever think to go up here but me yeah we're we're still
+rocking we just can't get enough and also I've never had this many people in a
+game so and I also miss Kendall to play so I'm really really
+tempted to just keep it rolling damn it the entrance was right
+net they were right next to each other I made all that effort for no reason
+you got back to you got some loot
+I'm a behind-the-scenes there's nothing there's nothing back there
+where's bill I'm right here oh there's bill wait bill are you in this fun
+no let's try let's have no I got yeah I got a light just went out here bill I was
+talking about the lights
+all right bill what do you think should I make this jump nothing over here do not
+jump over
+who's doing that oh my god I almost died probably be on my skills at this point to do any
+platforming another fire exit
+who keeps a key I found a key hey bill you want a key check this out yeah you can
+have the key oh shit get that's important for me because I usually find the door
+are you sure you're watching me because I'm in a I'm in a dead end
+well I really don't know
+I'm underneath you open that door I have to hold it down kind of okay
+okay wait can you open uh can you open what is my key or I don't know which one
+what this one is yeah there's like nowhere to go it's fine it's fine
+oh wait hold on hello are you only decided this okay I hear a monster hold on hold
+on hold on like is that something on the other side of h5 I think something's
+down oh shit oh
+Christian thank you for reopening that do we have a flashlight I can't see anything
+no we don't have any we can't be shitting you just let us open anything
+flashlights I never used flashlights
+I'm scanning it I'm not seeing anything I can't see anything oh I see it I see it
+does nobody have a flashlight we didn't have enough money for flashlight
+what who's actually doing that link detected in area
+we did it guys we made it oh I hear something okay oh my god spider spider spider spider spider
+see Morgan yeah fuck spider above me oh oh she's going this direction yeah oh my god
+forward I'm dead yeah it's upstairs right guys I don't know yeah spider I'm pretty sure it's upstairs
+okay look so on me so we are um spider spider spider is above us there's so many there's so many
+fires off I'm sprinting for it whoa it's so peaceful over here got so quiet uh-oh if only I had bill
+hello what the fuck anybody have a key
+does anybody have a key is bill still around that's a good question can you
+can sorry sorry say that again say that again let's wait on the walkies oh my god oh that's nice
+these noises are scary
+okay so hey there's stuff in here let's check your scan here you said that there's water on this
+I'm going over here oh okay I got it I see a key I found a key I found a key let's fucking go guys
+stop stop stop stop stop stop can you tell me if the door that I'm looking at right now is
+it worth opening up with a key okay what the hell am I can you stand can you can you guide me out
+can you guide me out great candle hey hey hi hey oh I'm on the other side there's jack shit over here
+yeah no it's like spider down the song don't wait yeah this this way it's good the other way it's not
+good that was my most daring jump oh somebody found something thank god okay it goes it goes
+supposed to 360 here guys come on okay so should I just hold on to this key yeah probably okay oh we're
+all together hold on isn't there a different locked door though hold on I can't hear you because
+everyone's else is talking so I'll I'll ask for when I get it am I speaking the right there's no way
+I'm finding my way out of here this is zero percent chance of escape
+guys shut up so that I can get the direction from the from the stuff
+am I facing the right direction right now oh my god the most insane game with telephone
+I was not running a spider for a bit and I probably won't get back in the direction
+oh
+okay whoever said that you just have to jump on a platform was wrong because that thing
+I tried to run away from it on stairs but I'm right here so I jumped off the stairs and I died
+oh boy whatever at least I have the I have omnipresent guys are you guys still in this
+can you hear me yeah yeah I think you're going straight look at her entire comms team over here
+come down here come down here I'm gonna come with you she's a case guy
+I think so oh no I can't hear I can't hear I put my smart guy glasses on
+right one am I going this directly today I'm playing on a I don't have a mouse I know it really
+didn't matter I didn't even have a flashlight but um these are left over right there I was
+they want us to die so I can see if today this might be this might be a there's nothing over here
+hey they found us back here for a bit I gotta go though they're gonna run out of straight go back
+they're gonna run out of daytime don't go back no go back the go back no go back
+yep sorry there is no other one right here
+can you open it the hell oh shit oh shit hold on steam link hold on hold on whoever went
+that's good that's where we came in follow my voice follow my voice whoever went
+radios over flashlights I think made the wrong call
+it seemed to be helping me a little bit but it's just confusing
+nope never mind screw that that's wrong okay sorry radios we should just like I can't stand
+before my
+yeah do you make a joke you might feel bad I think you might have to say in your main menu when you're
+there I'm not sure I can tell you once I quit out which I'm going to say take off
+I'm gonna see if I can get uh today and after this game I mean hopefully made that yeah
+it's I can barely like pretty much keep going that way
+uh guys I think we should just vote to leave
+isn't the ship already you have to go we have to go
+I can't see nothing to go okay we're looking now we have to go I'm so sorry we have to go
+but there's a there's a monster by you guys now like a big I hear it failing with this
+but it's by us we're doing worse than ever oh that's why I thought they were changing the monitor
+I think we're getting too greedy yeah probably I should just come back with my key
+I think you're on the right track how many points do I get for a key
+oh John's on now too you guys we're about to have even more people as it was in progress
+okay guys so I'm gonna have to quit out again wow wow
+Sam insanity all right I'm gonna tell Sonaya
+he's amazing amazing okay guys I have to quit out again so rejoin
+wait wait I can't get on steam or something please I will I will it's just can you text me your
+friend code yeah yeah I'll do that right now okay thanks okay fingers crossed that this works for
+Sonaya invite to game inviting everyone to the game please work okay all right we don't need that
+she has to work but you can put that down Christian hey there no just hit it again
+I did that shit an error bird are you kidding me that is so brutal
+I keep this many people there this is we're unstoppable right I think that's how it should be
+you hear me yeah well here's here's the thing about that uh we only came back with 54
+works so good 99 dollars worth in that one I did my part what if we just all had guns
+yeah it's a great point imagine a world where we all have guns
+the bill whoa what's up I don't know I should have put I should have put on a costume that's
+all right because it doesn't show the names all the time nice hat miracle calendar your hat blocks
+your whole yeah I don't know I feel like they might not even be on it I'm so confused I was
+well in the meantime I think I will go back to what was working which is the mod that I had
+originally installed hold on maybe I can I'm gonna fucking delete all this other shit because
+I don't want it to mess with what was already working sorry this is how it is
+can I open the door while I'm trying so we die uninstall bye I'm in actually I'm going out of
+here all right so if you guys want I think I've invited everybody how we look how are we looking
+we miss anyone hat obscures your name post away you're in here right I'm in here okay my hat but
+it distinguishes me geez all right what planet are we going to John will take that John set us to
+this one seems fine experimentation is not too bad nice let's just make some money
+we're at eight hey we're at 114 we're pretty much there all right so let's just
+we're going back in it can't be I know that I know that our bosses have been really hard on us
+okay but we just kind of remember to go out there and you know just all over the company
+we're gonna do a lay us off again I'm going solo
+sorry I apologize that was me dude who has the airport
+all right it's you and me ash
+we're the true kamikaze
+do we have any flashlights
+oh I found this I found the stuff this is the thing is big money maybe let's go big
+fucking money let's get out of here with us take it and run take it and run
+oh shit you're fine you're fine laser pointer
+hi this is the wrong way so there was like increase in rent wait wait case just leave case I'm out of
+here I got that big month wait who's out here who's just chilling here is that bill
+that was John John what are you doing John you fool you're gonna die did John did John's
+shit crash what happened oh we made we already made quota or we didn't we not think we did
+oh we did it's just doesn't it's not sure oh my god John's gone oh John quit okay that makes sense
+god damn it that noise well what's over here a key
+found a key yeah whoa you're through oh you're behind me that you should have got some wall
+frankly we're way ahead should we go to the fire exit and just see uh I'm down yeah we should
+probably yeah I mean we already made quota but we might as well go above yeah yeah
+above it why what a what a what a team player you are the company really must have a
+I just love guys you're pretty early on oh shit someone's already been up there
+nothing huh hello oh yeah this is okay there's nothing we've cleared this island so these are
+pointers good job we probably celebrate the right yeah what's down here we're gonna look around
+okay there's nothing the answer was absolutely nothing uh bill thank you for the follow
+we're trying to get a city's worth of people to sell that let's be all right
+is there a different fire escape we can check no I think it's just
+be to go pew pew pew pew I don't know you you would know better than me if that's the case
+because I have not played this game that much I haven't played this game carefully is the only
+let's go look what's over here okay nothing's another answer
+nothing nothing it's also I hear you is anybody still inside okay I guess we should just leave
+oh hey wait don't leave wait bill where's bill I'm here are you talking down you can just
+fall you can fall from kind of far okay I mean yeah there you go just fall in two steps
+dude who has this air horn it's insane yeah can keep doing that keep doing that because
+you're helping Kyle find his way Kyle's are you Kendall I should have known it was you
+Kendall keep going don't stop don't stop unless he thinks unless he thinks like a monster you
+know he's afraid where is he that watching wait oh no he's still he's still moving he's
+he's a hey I don't know where he's at he's a buddy north of us
+oh this is it's case okay shit I'm just saying if there's bees but I don't think there are
+Kyle where are you oh what's in here I just am checking for bees to be careful this is a
+little scary okay there's Kyle Kyle Kyle Kendall you can just jump off Kyle just jump
+off just jump off is that Kyle I'm coming okay I'm coming we have to go we got the guy
+what's getting dark it's getting dark everybody's scared we're all exactly traumatized by bees
+yeah we gotta go we gotta go it's about to start getting dangerous here I'm sorry
+oh you're good you're good we were we were looking for you because we saw that you were yeah
+I was saved by the horn wait people are still in the building yes it's always it's always fancy
+bro okay well they have no concept of time down there I was uh I was running along the edges
+it's kind of checking things out seeing if there's anything I mean we they have another
+I'm gonna go get them they have another six hours does someone buy this laser pointer or do we find
+we're kind of rich on us we like there you guys it's gonna make you confuse it
+who has the elder walkie talkie do we know send man to his death
+uh there's no I'm gonna get some water the person that had us
+died with it on them oh god look at it there's this they're about to run it's uh
+they're dead they're dead oh it's just it's just it's just what are they doing
+trying to divert it who's on the computer I am I am why you won't be on the computer
+oh if I could close the door I'm said I could have 10 more minutes
+wait who's changing the screen there's only two people inside
+did he die wait didn't he I can't tell I think one of them died one of them died
+no one of them's gonna love me so yeah fans are just picked up for our pilot
+other stuff now he's continued to be lost
+yeah fancy has in no sense of direction I only say that because that's like the
+eighth time that I've been lost
+he's out let's go
+send it send it send it
+no air for air or air for air is out
+what about some monsters I don't see any
+is he lost outside now he's coming up yes
+Let's see. Let's go. You made it there going to be lost every time, but not this
+time. I don't know. Are you so slow? You suck. Wait, who activated it? We lost.
+Who activated it? We're not sure. Somebody activated the ship.
+It was set to auto. It was the time limit. Yeah, it'll just take an hour.
+They voted a time limit. They voted for them. Yeah.
+Oh, people died voted. They died? I betrayed.
+It's fine though. Look, you betrayed yourself. I'm being lost.
+It wasn't our fault. There was a lot on this trial case.
+Just know I ran out to try and get you.
+They're till, like, 50 minutes into you being lost.
+Wait, which one? I'm not aware of this by the computer.
+It's vile. I'm sorry.
+Stick to the first three for now because we don't have equipment to handle any of the other ones.
+Yeah, I know it isn't vile. Terrible or something.
+Oh, I don't. I don't have a preference for whatever we're going there.
+I have a preference. Everything is Ash's fault always.
+It's my fault. I was trying to guide you on the computer.
+I'm turning off the mines and stuff.
+The only thing that got me out was the mine because I do where it was.
+Oh, man, OK. This way, brothers.
+Where's Bill? Bill? Did Bill die?
+No, I'm here. Where are you? Where's Bill?
+Is that Bill? Where are you? He's walking around asking where you are.
+It's right here. I'm looking at him.
+Bill, do you have a funny hat on? Are you normal?
+No, I'm not normal. I got a top hat.
+Over here, guys. Good job.
+Right this way, everyone.
+Oh, there's Bill. I tried to follow your air horn.
+I couldn't find you.
+Oh, someone's about to fall.
+Oh, that's a nice steep route.
+Oh, that is fire exit.
+Oh, should we go there?
+Oh, somebody went down there.
+Oh, should we go there?
+It's important to give yourself some space from whoever has the air horn.
+Oh, damn. We're all here at the foot.
+Yeah, the fire exit was very close to the regular entrance.
+That's not a good idea.
+We're just going to start getting hard now, you know?
+This room will kill you with a fall.
+You know what? There's like pits.
+It's fall damage. Oh, boy.
+It's fine. There we go.
+How does this work?
+Oh, that's it.
+I looked at the switch and said, oh, shit.
+Oh, shit.
+Yeah, look at this.
+Is something coming?
+There's a locked door over here.
+Oh, there's a spider behind that locked door.
+Oh, fuck me.
+Who's turning off those lights?
+And what's that thing over there?
+I heard a hawk.
+Just keep the power on.
+There's a jump thing on the other side.
+That's the only way forward to jump across.
+We do have a...
+Oh, there's a jump?
+Yeah, there's a jump down here.
+Well, I guess there's a locked door over here.
+Still around. I know we still have a key.
+I have a key. Where is it?
+I have a key, too.
+Where?
+Dude, there's so many.
+Oh, the key?
+Well, there is a spider right behind it.
+We're here, guys. We're here.
+Over here.
+Where are you going?
+This way. Here we go.
+Yeah, the key door is over here.
+Oh, nobody's with me.
+Nobody wants to go behind the spider door?
+Do you want to go behind the spider door?
+Is there a different locked door?
+I don't think so.
+How come you got such a cool hat?
+I made it.
+Good job.
+Thanks, you're bad. Thanks, you're bad.
+There are two perpetual sticks.
+Solid efforts.
+I've yet to pick up a single thing.
+I'm going to go open D6 in the ship.
+I'm going to go back to the ship.
+Take care of the water.
+Oh, why don't... This way.
+Oh, no, that's a dead end.
+We already found some stuff over there.
+There you go.
+We can go back.
+Want to go up here, case?
+Where? Oh.
+That end. That end. That end.
+Just kidding.
+Face of time, guys.
+Okay, I'm going to go open D6.
+I think you go.
+If you want to wait here.
+Sure.
+This should open dramatically in about a minute.
+Okay.
+Thank you.
+Oh, she's good to see you.
+Sorry, I know you've been typing, but I just...
+My brain is so slow that I don't even realize it was you.
+Ah, Christian.
+Oh, huh?
+It takes a second to come up here.
+Oh, that door. Are you unlocking the door over there?
+There's a spider behind it.
+Is it?
+You just type open and then D6.
+Oh, God, that's scary.
+Christian, we need that sign.
+It's just a dead end, really?
+A totally dead end.
+I found another way.
+I guess so.
+Okay.
+Do we go up here this way?
+Fuck. I killed the spider.
+I am a hero to the people.
+Whoa, now I am.
+I finally did something right yet.
+Damn.
+No.
+Oh, nice.
+There's nothing back here. Are you kidding me?
+Oh, yeah.
+It's another fucking dead end.
+Oh, that battle for nothing.
+I'm still proud of myself.
+Grab them.
+Is there another spider?
+No, I'm just trying to grab this body, but...
+Oh, I can't.
+I guess I can't.
+Why was there nothing?
+I'm so sad.
+Let's leave. I think we're running out of time.
+Oh, there's nothing that way.
+How do I get out of here?
+I think I remember how to get out of here.
+I found another area.
+You found another area?
+You've got to go towards that exit right there.
+There's a door down there,
+but this is another area
+that I'm going to explore, so I'll see you later.
+Okay.
+I think we're almost out of time, though.
+Just a heads up.
+There's a very high chance that I'm going to get
+eaten by a giant.
+No!
+Where's the air horn when I need it?
+Kate, come.
+Shit.
+Come. Jump in as quickly as you can if possible.
+Don't make too much noise.
+They're currently
+ahead of you, so
+just jump in
+quick.
+Turn around.
+Kate, turn around.
+The monsters do hear you talk, too,
+just so you know.
+I know, I know, I know.
+I was telling you that
+they...
+Okay, I think that's it, though.
+Christian's dead, exterminator's dead.
+We're all here.
+I think Ranson's still alive, but
+it's over for him, I'm afraid.
+Is he?
+Where?
+I don't know. I think he's dead.
+I think he's dead.
+Thank you, guys.
+Good night, Michael.
+Have a great night.
+Daddy Rad's good to see you.
+Why did you all leave me behind?
+Oh, my gosh.
+You ran out of time.
+You ran out of time.
+Crazy.
+Bro, you guys
+lose track of time.
+We were on his way back.
+I was right outside again.
+Oh, my God.
+You had to be quicker.
+Yeah, you should have yelled.
+They would have pushed the switch.
+I stopped the ropes.
+He didn't push the switch.
+I don't know, it looked like
+a switch pushing the maze.
+Keep in mind we only need
+130.
+Yeah, we probably should have.
+We got one.
+Did we touch down already?
+Where the hell are we?
+No one jumped off this time.
+Don't oversell.
+We want to sell the generator or the thing?
+I'll tell you where we are.
+We're in Autobot.
+Roll out.
+Okay, wait, hold on, everybody.
+Should be good.
+Should be good.
+Well, do we want some extra money to buy?
+It is 116 right now.
+We need one more thing then.
+All right, I'll put them.
+40 bucks.
+I think that's fine.
+We'll have a little extra then.
+Should I hold on to this?
+Yeah, hold on to the blowy guy.
+First.
+Okay.
+We need some extra because
+we need to buy a shit.
+And Lucy, we have
+things for you.
+Wow, we have a lot of money here.
+Hold on.
+Fuck you.
+42 without that.
+Nice.
+I think we should buy stuff in space
+and then get it.
+It'll come immediately here
+if we do it.
+We don't have to sell
+any of this stuff.
+I'd say sell a couple more things to get
+just more money
+because
+we're only going to have 30 dollars.
+The stakes are 60% off, guys.
+Oh my God.
+Oh my God.
+I don't know what they do though.
+That's the problem.
+They open any door.
+It's locked like anything you
+would use a key for.
+Are we reusable?
+Woo!
+Let's sell the plastic to get some more cash.
+And see what's left behind.
+How do we order multiple things at one time?
+No.
+We said
+one lock pick space
+flashlight.
+Oh, I don't know about that.
+But try it.
+It might work.
+I would do flashlight number
+flashlight number
+and then other thing
+number.
+We have one walkie-talkie, right?
+Yeah.
+That is great.
+Flashlights
+will come out to about 45 dollars
+plus the lock pick
+which would be equal
+53.
+So if we buy one more
+two more walkie-talkies
+at that 53.
+We can also sell something.
+We've already sold a couple things.
+We're sitting at 191 right now.
+Two walkie
+talkies.
+We definitely need flashlights.
+Let me
+go.
+It's about that time for me.
+Alright Kyle.
+Perfectly useless.
+So I'm going to go die.
+Bye.
+Goodbye world.
+We're losing army reserves.
+Wow, I heard that's lunch.
+Yeah.
+He should have offered himself
+to the bosses.
+What else?
+One walkie-
+Walkie-
+How much should we get?
+The hell is this? Oh, this is a lock breaker.
+This is like some $700 million
+contact to the Dodgers.
+Yeah, I can have two more.
+But my dad is a huge baseball fan.
+He's got my pen.
+What just happened?
+Christian's just blasting out.
+This is...
+Sorry.
+Kyle, thanks for playing, man.
+Kind of a low-key night.
+I'm trying not to talk too much
+to keep the cross talk down.
+But I appreciate everybody coming in.
+What's over there?
+I only ordered three flashlights though.
+Well, as long as there's some.
+Yeah, like,
+we really need everyone
+to be so rich.
+So we need quota.
+But we've used some money.
+So we're sitting at 126 right now.
+Oh, we need to sell something else then.
+Oh, I mean, we got 142.
+We have 142 in the ship.
+Yeah, but we have in our...
+We're going to sell this teapot.
+Now we have 126. Yeah, go for it.
+Progress is not
+for safety.
+We are at 191.
+191 out of 13, what do you mean?
+Yeah, but what I'm saying is
+after we bought stuff,
+we're sitting at 126.
+126 what?
+That's just the amount that we have to spend.
+Right, I know, but like,
+I don't know...
+We're supposed to have
+when we leave and face.
+No, once you go...
+What if it says...
+Over 130.
+Plus, out of 130,
+then you...
+You could have zero dollars when leaving.
+Oh, really? I don't know that.
+Yeah, you could spend everything as far as I know.
+Well, here, let's get one more flashlight then.
+Wait, how many flashlights do we have right now?
+I just bought two pro flashlights.
+That would be really strange if it counted
+like how much money we'll spend.
+How well made this game is?
+It might actually...
+It's fantastically made, what do you mean?
+It's all in one more thing.
+We're gonna have some money.
+I want us to have some money.
+I think you're... I hope you're doing well too,
+MSG.
+Gabe, did you get it?
+I think we got everything.
+Yeah.
+Alright, I think we're good to go.
+Yes, please, and thank you.
+Okay, take off. Where are we going?
+Where do you want to go?
+The rest of the crew, like, went down
+the cellar or something.
+Oh, really? Well, we're taking off.
+Wait, what? I didn't put take off.
+What?
+Wait, we didn't buy anything, did we?
+Yeah, we did.
+I meant that it was anything coming.
+I think... No, no.
+Probably not. Yeah, okay.
+Alright.
+Just how customizable
+is this ship?
+Today we're figuring that out
+by removing the light switch.
+Okay, we go for the crew.
+I think we open the door while we're in space.
+I think we, uh, let's get sucked out
+and we die.
+Or we get a present.
+We just have to not all die.
+There's so many of us. How could we?
+Okay, you guys go that way.
+I'll break right.
+Wait, I want to go with you.
+Oh, okay. I'll stay with you.
+Main entrance.
+Okay, I want to...
+Where's my beautiful girl?
+Oh, there she is.
+I'm following you, baby.
+Should we try to do this?
+I'm third wheeling.
+Here's our group challenge wheel.
+Or is there anything over there?
+There's a gift.
+Oh, cool.
+Okay, I've never platformed on this game before.
+I believe you.
+I don't think there's any need to actually build.
+I think you got...
+experience points.
+Alright, good point.
+Nice.
+That was beautiful.
+Okay, just don't platform off of it though.
+Nice. This is the harder jump.
+Oh, you got it.
+Now you have to walk this way.
+This is the only thing here.
+Let's go.
+Okay.
+I think there's another opportunity right here.
+Hell, yeah.
+Oh, shit.
+That's true. Goonies do never die.
+You got to go for it, baby.
+Go for the goal.
+Oh, no.
+Oh.
+There's an item to your left.
+I don't know where I am.
+I can't see anything about that.
+It's completely dark.
+I'm coming, baby.
+You just passed over an item in the hallway to the left.
+Oh, I see it.
+Oh, I see it.
+I got it.
+I did all that one push.
+What?
+I think that's Case.
+That was Case. Oh my gosh.
+What's back here?
+Wait, he's still here.
+This is a huge area back here.
+Oh, he's still alive.
+Wait, who found it?
+Did somebody fall?
+Yeah.
+I thought it was you because of the flashlight.
+Oh, that sucks.
+I don't see anything.
+Here's some stuff.
+There's a monster here.
+What?
+There's a monster here?
+That room means that there's that guy that will break your neck somewhere in here.
+Oh, I see.
+He's finding lots of stuff.
+They should take it back to the ship right now.
+Oh, here's the fire exit.
+Hello?
+Let's go. Where is it?
+It's right here.
+Let's take our one item back to the ship.
+It's only took three of us though to get it.
+Proud of our one item.
+Me too. I think we did a good job.
+It is now 150.
+Where are your kids?
+You're so right.
+Oh, a mirror fell.
+A miracle is no more.
+Oh, wait.
+If you make that jump, there isn't a big item there.
+All right, we could go back.
+We could go look for more.
+It's only two.
+I'll tell you how many others.
+Yeah, good job.
+In that next room, there's a big item.
+I want to see if any of you...
+There's only six items left.
+There's only six items left.
+Hey, there's only six items left.
+I guess not.
+What's up here?
+We're exploring.
+We're learning.
+Not my brother is not playing, unfortunately.
+He doesn't have a PC.
+And also, I just don't know
+if he wants to play this game.
+But, obviously an open invite
+to not my brother.
+I almost made him buy a really expensive PC
+just to have it.
+I guess that's kind of a waste of money
+because we don't really want to use it.
+What's that?
+Fancy died.
+Again, Fancy's dead.
+Did he have good stuff?
+I think Miracle might be dead.
+A Miracle is dead.
+Miracle's dead, and Fancy is dead.
+So everyone's here.
+Did Fancy have good stuff?
+Who fell? Was that a Miracle?
+I don't...
+I don't see...
+Miracle...
+The Usos.
+Usos!
+If the question was
+if Fancy had stuff
+it doesn't look like Fancy had anything on.
+So should we get out of here?
+Yeah, let's get out of here.
+Is Kendall in here?
+Hello.
+I got him!
+Alright.
+You bastards.
+Wait, how did you get him?
+Oh,
+he said let's get out of here
+and you go to
+try to take off, but I put the light switch there
+so he turns...
+How did you do that?
+So you got to download this mod
+and then once you download the mod
+you can press B on the light switch
+and move it
+called the movement mod.
+No way, that's so funny.
+No way you have it too?
+That's crazy.
+I was in bad shape
+except for experimentation where we just were.
+So I guess we just have to...
+Let's do it again.
+There are some...
+I'm down.
+There are some stormies.
+They have another flashlight.
+A flashlight?
+I'm a fire starter, baby.
+Somebody can order it.
+Somebody can order it.
+Somebody can order it.
+We're green, right?
+We're green?
+It's unfortunate it's not on the PS5
+or that there's a crossblade.
+Green is top of the line flashlights.
+That's crazy.
+Somebody's gonna hit me in the face
+with a stop sign.
+But you do need
+either a Mac that you've modded
+or just a PC.
+Damn, they're already off.
+Exterminator.
+Yo, I explore every inch.
+Did you charge your flashlight?
+Because trying to get out.
+No, I actually purposely...
+I came out, charged my flashlight, went back in
+and then something fell from the ceiling and killed me.
+Oh, wait.
+Did it wrap itself around your head?
+Yeah.
+Yeah, I got Christian with me.
+Ooh, off to a good start.
+Hello!
+The fire exists right there.
+How the fire exists below us.
+I walked up
+all those steps just to walk up more.
+It's on me already!
+Come on!
+Oh no, somebody died.
+We need a shovel.
+Somehow I managed to survive.
+Open the door!
+It opened the door!
+It has thumbs! I didn't open it!
+It knows that I opened doors.
+Hey, there's the facehugger on the other side.
+Be careful.
+You gotta go from me right away.
+It likes my face. I'm too pretty.
+It knows you.
+You're free.
+Okay, you know what? I'll let it get me
+and then you guys can go past it.
+No.
+You can just jump over it, honestly.
+Is that the only place to go?
+Yeah, we have to go there.
+Let's go.
+Where did it go?
+Keep your eyes to the sky.
+There she is.
+Oh, that's a spider.
+There's stuff in here.
+There's a spider.
+Should I go buy a shovel?
+Yeah, probably.
+I'll go buy a shovel.
+I don't think there's anything here.
+This maze is pretty clear.
+Make a right.
+Walk all the way down.
+Stop!
+Stop!
+Okay, I can hold on.
+I can just use that for you.
+No, there's nothing even there
+on the other side. It's not worth.
+Wait, can you buy a shovel please?
+Can you buy a shovel?
+Sure.
+Damn, we're kind of rich.
+Shovel has been bought.
+Oh, thank you.
+I'm gonna disarm that one for you.
+C7.
+A lock pick.
+Make a left and then a lock pick.
+And then a right.
+Take a right here.
+Nice friends, where are you?
+Yeah, they're C7 QA.
+Bill, you want to be Lord of the Shovel?
+Let's see if I can pick it up.
+I'm gonna climb while I have it.
+You can climb with a shovel.
+Be a shovel pro.
+So wait, it was this way, right?
+Yeah, it was to the right.
+Tell me.
+Is it on the wall?
+There it is, yeah.
+We lost Bill, though.
+Bill had our shovel.
+Bill?
+Bill?
+Where the hell did Bill go?
+Bill?
+Oh, rival team would be stuck.
+Anyone wants a bottle?
+Your bottle?
+Yeah, because it's generated in here.
+Hello?
+Hello?
+Bill, I don't think you're hitting him.
+Don't come this way.
+Don't come this way.
+Bill, kill it.
+It's on the wall.
+Hope spider's right there, guys.
+We're trying to kill it.
+Kill it, kill it.
+No, I'm full.
+Wait, can he kill it?
+Did he hit it?
+No, he's charging it.
+I died.
+Instead, I died.
+He's got to be attacked by it.
+He's gonna be attacked.
+I hit it quite a bit, too.
+Well, it will kill it.
+Apparently, the way to fight those is you bait them
+and then you jump on a ledge and hit them.
+Yeah, this feels right.
+Is it this way?
+I just went in a circle.
+It wouldn't work.
+I think it's the last house.
+Oh, spider's over there.
+Oh, that's a dead body.
+They should get our shit.
+They're gonna get our shit.
+Take our shit.
+Take our shit.
+I'm going out the fire.
+I was down on the fire.
+That radiation killed me.
+Oh, I was hitting him in front of me.
+Yeah, we were a little too...
+Sorry, I lost connection there. Can you hear me?
+We were a little too grouped up.
+Oh, they got the shovel. Fuck yes.
+It's a darminator.
+Yeah?
+No.
+Oh, Dan, they're gonna leave that thing behind them.
+Interesting.
+Hey, Kendall, there's an item at the front door.
+If you're still alive.
+I think they...
+Oh, my God, look at Ash.
+She's still going.
+Wait, where'd the body go?
+I'm still there.
+I don't know. You just seem to be
+in the ship every round.
+Yeah, because I'm...
+Everybody's lying to me.
+I can't pick it up.
+If I log off, is that gonna...
+Ash is doing the real work here.
+I did...
+I do feel like I was valiant,
+but yes, I am proving again and again
+to not be the true shovel name.
+I'm going.
+Ash.
+You should be able to sell the corpse,
+but you can't.
+Somebody to go up the stairs
+and pick up like the three things.
+Up the stairs?
+Yeah, it's like down one flight of stairs.
+Get that thing behind you.
+There's stuff behind you.
+Okay, good. Somebody noticed.
+Please keep it.
+If I log off, will it mess anything up?
+No, you're good.
+Bruce Green sending
+a bunch of people our way.
+Hello, Bruce heads.
+We're playing the game of the
+minute.
+We're a couple weeks.
+We're playing like 30 person
+lethal company.
+Hope you're having a good night.
+I had no intention of streaming tonight.
+And yet I've been
+pulled in into this eight man
+game of lethal company.
+Thanks for the follow.
+Halo Kelt
+and Slayer Demon.
+Sincerely appreciate it.
+Are they not moving?
+How many people do we still have?
+At one point we had like 12 people playing.
+We're looking at this.
+We might be down a few as it gets later in the night.
+Thanks for the follow, everybody.
+You did it.
+Blue's clues.
+I see.
+Lanny.
+I love to see it.
+He's alive.
+I am.
+That's a spider.
+Thank you guys.
+He's very much dead.
+Infernal.
+They believe
+I'm so dead.
+I think it should be me.
+Bye.
+Thanks for the follow.
+I worship Shadow.
+Thanks for the gifted sub.
+Three subs.
+I'm not expecting to get any
+followers or subs.
+Here they are.
+He's gone.
+They finally accepted that I'm dead.
+Aren't I lube, chef?
+No.
+Okay.
+Bye, boy.
+Bye, boy.
+Bye, soft.
+There's still dropping tactical nukes on streamers.
+Boom, I'll take it.
+Someone grab that.
+RTC, thanks for the follow.
+Thanks for the follow.
+Oh, I'm alive again.
+Guys, we're so rich.
+We're so good at this.
+Barely getting body.
+I want to be kind of quiet.
+Because I'm playing with my girlfriend in the room.
+We both have hot mics.
+Hello.
+You can hear over there.
+Let's not go to
+experimentation, please.
+I don't want to drown.
+Yeah, pick a hot planet.
+Oh, I do not want to drown
+on an alien planet.
+Hey, guys, I got a question.
+What does the flask do?
+That's crazy.
+That's crazy.
+There's a freaking high train going on.
+A high train.
+Whoa, chat, you've done it.
+It's amazing.
+These maniacs have finally done it.
+I want to see bits in the chat.
+Everyone dance for the high train.
+Yeah, dance for my train.
+Everyone dance for my train.
+There you are.
+They're doing it.
+This is for you, chat.
+They're doing it, chat.
+Yeah, that's beautiful.
+For you, chat.
+Oh, I can't dance from down there.
+You dance.
+Beautiful.
+Oh, wait, the light show.
+This is the best I got.
+This is the best I can do for a high train.
+Usually I do a news stream
+where I have a bunch of characters and stuff.
+Wait, turn the lights off. Keep them off.
+Oh, wow. This is getting fucking crazy.
+Dude, this raving.
+Oh, man.
+You know what?
+This is what this game was made for.
+Honestly.
+This is the point of this game.
+I've always wanted to be a lighting designer, guys.
+This is my dream.
+Thank you for the gifted sub.
+Oh, my gosh, even more subs.
+Guys, you can...
+What?
+What?
+It's getting specs for the follow.
+Confused by standard, thanks for the follow as well.
+High trains pop.
+I'm also a confused by standard.
+Okay.
+You guys don't...
+I swear you don't have to keep doing it.
+You're not replaying.
+It is still happening. You're right.
+I can't deny that.
+I can't deny that it's real.
+This is actually the hidden moon on this game.
+Let's go.
+Let's go.
+Yo, 100% lift.
+Let's go.
+High trains.
+High trains.
+Wow.
+I'm going to spam high personal.
+My personal emote.
+Wait a minute.
+This high train is going for four more minutes.
+I don't know.
+My arm is getting tired.
+My battery is running out.
+You guys click that and you can play it over and over again.
+I can't even see all the subs.
+It's kind of light.
+Where are we going?
+Put it somewhere not wet, please.
+I left my big boots at home.
+It sounds like you want to go to March.
+Hey, charge your battery.
+Charge my battery.
+Guys, thank you so much for the support.
+That's crazy.
+It's time of night. You maniacs.
+You have salute maniacs.
+Where are we going?
+Who sent this?
+Darth Abyss, 20 gifted subs.
+Sorry, I had to load something even see it.
+20 gifted subs.
+I had to load my stream.
+20 gifted subs.
+In honor of that, I should just jump off a cliff.
+I should do the greatest thing you can do.
+We don't have enough money.
+We're no longer...
+We're so much.
+This hype train is still going.
+I'll have to just continue the hype as I explore this facility.
+Are we going?
+We're going in.
+We're landing right now.
+We're going in.
+I'm getting nuked by Bruce Green.
+Late at night.
+And I love the feeling.
+Somebody is
+staying
+on the plane.
+You fancy.
+Follow me.
+I got fancy.
+Call me out.
+I got you.
+Don't run now.
+If you tune into my usual stream,
+you might be slightly confused
+as I will be doing like a character based
+news stream.
+But I can't deny.
+I can't deny the pole of lethal company.
+And it's it's slurped me right in.
+Where are you following me?
+Oh my God.
+There's my love.
+Guys, this is my girlfriend.
+Oh my God. I'm sorry.
+This is a little explicit.
+Wow.
+In front of all these people.
+Yeah, disgusting.
+So disgusting.
+It's not even really that late in LA.
+I just assume it's late in other places at all times.
+But it's late for me to stream.
+Usually I stream at like one.
+It is surprisingly disgusting.
+I think it's because it's just funny.
+It's like the best comedy game I've played in a long time.
+Do you want the flashlight?
+And I can have the shovel.
+I don't have a shovel.
+I have a sign.
+Protect us, baby.
+We're double theme in it.
+Oh, bottles.
+Do you feel like I hear a monster though?
+Okay.
+I should just take these back for the shit.
+We can take them up front at least.
+There's someone to grab after we get murdered.
+It's past two on the east coast.
+Yeah.
+To Oliver, to anyone on the east coast.
+What are you doing?
+It's a late. It's a Sunday.
+It's a school night.
+But secretly, stay up.
+I'm kind of cool like that.
+I don't even care.
+Uh oh.
+Oh my God, I should bring out the quill now.
+Okay. We got to keep an eye on it.
+So if anybody hasn't played this.
+This guy.
+You have to look at it or it will kill you.
+Baby.
+I'm staring at it.
+I watched it move.
+You have to go right.
+Right? All the way right?
+I'm looking at it. Why is it moving?
+I don't know.
+It's not supposed to move if we're looking at it.
+But it is.
+It kind of is.
+It's straight moving.
+Should we just get out?
+Um.
+I mean I can just stare it down while people explore.
+I'll stare at them I guess.
+I'll just let people know.
+Yeah, I should go tell them.
+That there's like the one of the worst things.
+It's 7am.
+I'll just be here.
+You're going to wait here?
+Well, if I die, I die.
+You can get out if you like
+edge towards the door.
+Kind of keep it in your frame.
+Well, I want to keep it in that room right?
+We probably should try to keep it in the room.
+Yeah, so I feel like I should
+just look at it
+right here where I am.
+Look at this thing.
+It's so spooky.
+Okay, I'll be in the corner like this.
+Do you want a flashlight?
+For what?
+I don't know because it's so spooky.
+She's too bright.
+Yeah, give me the flashlight.
+Okay, here you go.
+Oh wait.
+I'm looking at it.
+Okay, let people know.
+Okay.
+Yeah, you work at school need to go to bed.
+Understandable.
+Oh shit, somebody just ran in there.
+I'm going to go tell hosts away to tell everybody.
+Also Kendall and I can very easily cheat
+because we're in the same room
+and yet I consistently forget
+that I can just talk to her over my shoulder
+even though we can basically hear each other
+through our comps.
+It's totally the Buffy the Vampire Slayer
+slash Doctor Who thing.
+Wait, maybe it wasn't even a Buffy the Vampire Slayer episode.
+It's a Doctor Who thing, you're totally right.
+The little crying angels, yeah.
+Or the SCP thing.
+I guess at this point it's a horror trope.
+Peanut? That's a good name for SCP.
+Oh my god, there's no one at the home base.
+One advantage of playing with like
+more people than you're supposed to
+is you just get so much stuff.
+SCP nut.
+If you ever want to
+waste, well not even waste
+but spend
+you know, many hours on YouTube
+just listen to some good old SCP
+YouTube in case you've never gone on that rabbit hole.
+Although many people have.
+So I've heard.
+Oh my god, there's someone out here.
+Who's there?
+I'm scary, go away.
+Forty K Lor, that is a hot tip.
+Jared, thank you for the follow.
+Forty K Lor
+is a deep well
+there's something else in that room.
+There's something else in that room.
+Okay, maybe we should just try to get out of here then.
+I think it's a dog.
+A dog?
+Like a little crawly crawled
+spider maybe? I don't know, I really can't tell.
+A spider thing with like a human face?
+I really can't tell.
+It's definitely back there.
+Okay.
+I don't know why you turning off your flashlight made me feel like it was going to lunge at.
+Dramatic.
+Yeah, for sure.
+Well, okay the thing's not coming out of the room.
+Oh shit, there it is.
+Oh yeah, there it is.
+Okay, I'm out.
+This is it, right?
+Should I go back in there and check?
+It's hard to get out though.
+I'm gonna die.
+You want to die.
+We could go to a fire exit.
+Yeah.
+Pepito, it might be Pepito.
+Maybe Pepito's in there.
+Sorry, there's a dog on the street named Pepito.
+I'll see you guys at the,
+I'm gonna charge the flashlight.
+Okay.
+Pretty sure there's a fire escape this way.
+There's a beehive if you want to take your chance with that.
+Oh, there's a beehive.
+Should we go for it?
+I don't know.
+The thing is we, one of us will die,
+but one of us might get it.
+The fire escape is kind of,
+or fire exit's kind of annoying here.
+And that I don't know where it is and I feel like I get lost every time I go to it.
+Oh shit, alright, I'm running for it.
+No bees, it's me that you want.
+Yes, chase me bees.
+Oh no!
+The bees are winning!
+Come on!
+Okay, I think you got it at least.
+Okay, that's not hard.
+What did you die to get?
+Oh god.
+I really was confident that the bees wouldn't get me.
+My confidence was heavily misplaced.
+How come you guys survived the two monsters?
+Or are they dead people?
+I don't really know, I don't think there's a good way to steal the beehive.
+We've been trying many, the bees in fact are 37 sport fights.
+Yes, that is correct.
+I've lost every battle with the bees.
+No, no, no, there is.
+It's just you just gotta aggro them and run them for a while.
+So they leave you alone and then you can just get on the ship.
+Uh oh, there's a giant.
+Eventually when you bait them away they will kind of start to linger
+instead of going to a beehive.
+Bruce, well Bruce is actually good at games.
+That's the trick that Bruce has.
+I have a different strategy for gaming which is I just lose a lot.
+But we have strength in numbers today.
+We can't really do.
+Someone is likely to survive.
+We are like, this is the perfect analogy of capitalism.
+It's just throw enough bodies at it.
+We'll make profit.
+Yeah, that's our new work submitting ourselves to the American process.
+Welcome to late state capitalism, the game.
+Oh, it's over.
+Oh my God, he got out.
+Oh my God, I'm sure he pooped his pants.
+I'm pretty sure he's going the totally wrong direction unfortunately.
+I'm sure he pooped his pants because I would have, oh my God.
+A great tag for this game, throw bodies at it.
+How many walking talkings do we have?
+Hello.
+Oh, he's a great tag.
+Look at this googly eyed man.
+No, he's going back in. Don't go back in.
+Oh no, he made it. See, this is what I mean.
+Every time I've ever been to the fire escape at this map,
+I know that I'm dead because I didn't know.
+We did the fire escape, I think first, it was deadly.
+We were like, nope, we out.
+Oh my God, pork.
+Yep.
+Pork exterminator.
+How's that door locked?
+Oh, there's something outside the ship.
+Yeah, there's bad things all around.
+Yeah, nighttime, man.
+Night damn.
+You got this, buddy. You just got a sprint for it.
+It's so confusing at night.
+He always gets lost.
+Uh-oh.
+Kendall, I think you got to just wait.
+I think you got to wait.
+Kendall, you got to go before we get wiped.
+They're dead. They're both dead.
+They hit me through the ship.
+Everyone died.
+It was beside the dog, the blind dog.
+At the sound dog, whatever you call it, bro.
+It literally came through, clipped through the ship
+and ate me on my way out.
+Oh my God.
+That was, you know what?
+I'm wearing the latest possible stage cap.
+Exterminator.
+Exterminator, good job.
+We were watching you.
+You were a trooper.
+What?
+I kind of got lost.
+Case kind of was like, I'm going to run and distract him.
+The way he went was the only way I knew how to get back.
+I don't know how to get back now.
+I should have run the other way.
+You kept getting, you ran into stuff.
+My plan was to live, but it did not work out.
+A little stupid.
+A little 270, I believe, guys.
+That was so funny.
+Yeah, Jean, if you run this far, you just die.
+This is the latest stage of capitalism, though,
+where you're just extracting zero profit with random trash
+and giving it to a giant slug monster.
+I think with enough work, our society can progress to this stage.
+What's the number?
+We are in space, at least, so it's futuristic.
+I don't think we can see it all.
+Put the engine on the 190 somewhere.
+Should we sell extra shit and just get nice stuff
+or go to a cool planet?
+Yeah, yeah, yeah, we can.
+It's nice to have, but it's nice to have,
+because no, we have enough that I don't...
+The next one's going to be like 300 something.
+We've got a lot of surpluses.
+We can sell the big bolts.
+I don't know if there are sick upgrades in this game.
+They are. The teleporter is a big one.
+That's true.
+A 70% off jet pack.
+Okay, we need like 70%.
+I'm going to set 11 more.
+Guys, maybe we need to buy a jet pack, I'm just saying.
+21.
+I mean, I agree.
+It's 70% off.
+That sounds like it's basically free.
+Yeah, we're printing money.
+Yeah, we're going to make the money back
+once we use it a couple times.
+So it's basically paying for itself over time.
+How is any monster going to catch us
+when we have a jet pack?
+How is any monster?
+Listen, what is this?
+Oh, that's a locked monster.
+Exactly.
+This is like my longest streaming week.
+I just randomly decided to play on a Sunday.
+Every time I try to talk Lucy up,
+she just shuts the door on me
+after counting the things.
+Lucy, the lady behind the counter.
+I want a pro flashlight, please.
+I think we should get a bunch of flashlights.
+We need to replace,
+we need to get some
+forgy talkies.
+I don't think you live long enough
+to use a pro flashlight.
+Oh, that's a you can.
+Give me a normal flashlight
+and I will prove myself.
+Yeah.
+You guys want to kill me?
+I'm going to leave.
+Read my badge real quick.
+Read my badge.
+Get out of here. Why are you a leader?
+Hey, that's right.
+Wait a minute.
+Hey, everyone. A leader.
+Anybody ever seen that before?
+He is a leader.
+What did I say?
+Not my leader.
+We're not even full time.
+We're not even full time.
+I'm sorry.
+How dare I?
+I get the air horn.
+Did I just miss his fancy?
+Your moans.
+Stevie loves you.
+Man, it's turning me on.
+If only it was that easy for the rest of us.
+Thank you so much.
+He's a late night gifted subs
+keeping me warm through the night.
+It feels a little too good.
+All right, flashlights are here.
+You've only missed, you know,
+we haven't been doing better
+because there's so many flashlights.
+We're bleeding soldiers because it's getting late.
+So we might have to bail soon.
+Okay, that's two.
+You're holding back after this.
+Give me the green one.
+Did nobody grab this?
+I heard there's more green flashlights.
+Yeah, I got two.
+Oh, snap.
+I am using a much more relaxed register.
+Today we're talking about bee farming.
+Oh, hell yeah. Let's go.
+Thank you for watching me twitch Jean.
+Thank you for watching me twitch.
+Thank you all for checking me out tonight.
+This is a late hour.
+What? There's a thing on here that stills have been sold.
+What's happening?
+Let me see how much money we have.
+So it says we have 169.
+Does that mean we'll die if we go to space right now?
+No, no, we make quota.
+We made quota by, like, yeah.
+Let's do this.
+Or should I buy a jet pack?
+How much is the jet pack?
+We don't have enough for a jet pack, right?
+We technically do.
+It's $210 though, but it is 70% off.
+Yeah, do it.
+Should I do it?
+Normally it is expensive, but do it.
+Yeah, we need you on this jet pack.
+You need to jet some pack.
+No case black roll freestyling currently.
+Although, if we buy a boom box, I might be tempted.
+Shoot a boom box?
+A brother can have a boom box, don't he?
+Alright, somebody has to test out this jet pack.
+Would it be somebody?
+You.
+Hold on, wait, wait, wait, wait for an audience.
+Alright.
+We were going to want to see this.
+No, we can tell that.
+Alright, everyone outside, everyone outside, you're going to test the jet pack now.
+Everyone outside, you're going to test the jet pack now.
+It's jet pack time.
+Alright, jet pack test.
+Alright, it's jet pack.
+It's turbo time.
+Oh my God.
+Well, I'll die, right?
+Can I fly off?
+I don't know.
+Oh my God.
+This is awesome.
+How did it charge?
+I think you just charge it in there.
+Oh.
+Oh my God.
+Oh my God.
+Did you take damage?
+Oh my God.
+Wait, let me charge it.
+Oh my God, yes you do.
+You can just charge it.
+You can just charge it.
+Hold on, hold on.
+You can't control it.
+It is...
+Oh.
+I think we're going to be doing another one.
+It's like a forward, it's a forward back tilt.
+You've got to jump in the air first.
+And there you go.
+No, no, no, no, no.
+No, no, no, no.
+Well, there goes that.
+It was good while it lasted.
+Oh my God.
+This is why we just really kind of have nice things.
+That was true.
+That was bad.
+What was that?
+That was bad.
+I think it was worth it.
+Oh my God.
+It was 70% off.
+All right, well...
+That laugh was worth 200 for sure.
+Let's just get out of here.
+Oh my God.
+Oh my God, Tamtran.
+What is happening?
+Wow, Tamtran, thank you so much.
+Oh my God, the Tamtran 48?
+Tamtran 48.
+The Tam himself.
+And Stevie loves you getting it.
+Oh, man.
+I literally cried.
+What do we even do?
+I don't even have my snap camera on.
+I can't even throw on a stupid film.
+We're going to have to cut that.
+What the heck?
+I'm so sorry.
+He just kept going.
+He didn't stop.
+I didn't realize that pressing forward and backwards would do bad for us.
+That's true.
+We had to make a new goal.
+We really crushed do the rat stuff.
+I did a backflip and then I did a frontflip
+and I was just like, by the time I looked at it,
+I was below the ship
+and I was just screaming
+until I hit the water.
+So I think this will be my last quote around
+and then I got to go to bed.
+No, I recall it.
+GG's, thanks for having us on.
+I hope, I hope Jack lived that.
+This was truly amazing.
+Do the shrew stuff?
+Do the shrew stuff?
+Oh, the shrew stuff is pretty good too.
+I guess the shrew is a nice answer.
+We can't leave just flashlights
+on the floor like this.
+Well, we had so many more people at one point.
+Oh my God, our supply closet is so full.
+I'm taking it.
+I'm taking it.
+I don't care what you say, leader.
+I'm taking a professional one.
+Is it the green one?
+No, the professional one, the yellow one.
+Come on.
+What was the professional one?
+You know, you didn't miss everything, C.V. Losia.
+You missed
+specifically this.
+What you're currently watching.
+You were here for the jetpack,
+which honestly, I probably should have called it there
+because that did feel like
+maybe my favorite thing that's happened in this game.
+That was absolutely the best.
+I'm just dropping off
+for my jetpack.
+You should have saw what me ate.
+The last level,
+me, Ashen, Josue ran into
+this giant
+dog monster thing
+and jumped across the gap
+and landed on my head.
+Oh, there's a gun over there.
+You're just staring at it.
+I'm going to run up here.
+Did anyone have a grenade or no?
+There are some
+in the ship.
+Should I go grab one?
+I have one.
+I'll go grab the one on the ship.
+Okay.
+Running errands
+just like in life.
+It really was like the Rocket Man movie.
+You know, I had a friend
+who was trying to pitch.
+There was one point
+there was talk of a Rocket Man remake is what I'll say.
+But I don't know if it's actually happening.
+It does feel like the kind of movie
+that you could
+in the right context might hit that.
+The right nostalgia points.
+But for who exactly?
+And also Phantom Spaceman?
+Well, hey,
+don't stop yourself from passing out.
+It is one of my favorite things to do.
+But you can pass up to this.
+If you'd like.
+Oh, it is the Rocket here.
+Sorry.
+The Rocket Man is also a movie.
+But something very different.
+Come on.
+Oh my God.
+Wait, should I wait in the ship?
+All right, screw it. I'll come back.
+Well, you see those jetpacks
+that are like the water ones?
+That people do over
+lakes.
+Those do look fun.
+But I've also seen videos of people just like
+I'm still outside
+but I'm walking in now.
+Hello? Where's the gun?
+Can do.
+Sorry, I'm not being a coward.
+He asked me to flee.
+It's actually very brave.
+The way I'm running away is actually very brave.
+I just think it's important to point that out.
+Oh my God.
+More bugs?
+I mean, based on this stream, yes.
+Although the problem is I can tell this game
+is probably going to lose some of its appeal
+in about two weeks.
+But for now, I do quite love it.
+So if I was going to do a 24-hour stream,
+I would probably need to do it soon.
+All right, let's see who's out here.
+Who's not dead yet?
+I don't see a monster anywhere near you right now,
+but it looks like there's two items ahead of you, though.
+The room you're in
+looks like it has bodies and items.
+I was Monty Pythoning that.
+The big green orbs are like items, right?
+It says N16 or something.
+From what I can tell, there's just another door.
+But behind you in that room that I said there were items,
+it did look like there were two items.
+Can do.
+Am I typing wrong?
+And then there should be a U2 door or something?
+I don't know.
+I don't know.
+And then there should be a U2 door or something?
+I don't see any items this way.
+Currently, I don't see any
+items or monsters in your way.
+Ooh, is that a...
+There's a monster in there with him.
+Yeah, the room you're in has two triangles in it.
+Nothing seems to be going as planned,
+but I will persevere.
+Oh my God, that was scary.
+What happens next
+is up to them.
+What's up?
+You know, just
+half dead.
+There's a monster amongst you guys.
+Oh, so wait.
+There's a monster straight ahead of you to the right.
+To the right.
+Straight ahead to the right, right here?
+Yep.
+Yes, I think you're being stalked by this shadow monster
+that you have to look at it
+for more than four seconds
+and then it'll run away.
+If you don't, it'll sneak out and break your neck.
+In the next room
+that you're facing to the right.
+You should be able to.
+He'll just probably track you a little bit.
+Yeah, he's not following you currently.
+It could also be one of those
+ceiling monsters.
+No, true. It's not moving.
+Where does this way go?
+Yeah, I don't see anything following you.
+Oh.
+Maybe that was just a landmine.
+I don't know. Can you use a shotgun?
+That would be a nice addition to this game.
+Is it like a full...
+There was a mod.
+For a shotgun?
+Yeah.
+That's pretty fun.
+Guide you back. I don't...
+It looks like you're headed...
+The arrow is pointing in the direction you're going.
+Wait, is he going the exact opposite?
+I don't know, I found it.
+I'm here, I just got...
+Hands full.
+Scary monster, bro.
+Yeah, I think
+you were getting stalked by the shadow thing
+but maybe not, I don't know.
+The new nutcracker lets you get a shotgun from them
+if you kill them.
+Wait, really? That's cool.
+I'm going to go back in.
+Use me however you need me to go.
+I'm here.
+I got a full caucus.
+Let's go.
+Wait, are we going?
+Do we need to go back out?
+Where's Kendall?
+Kendall quit. She went to the shower.
+Left over.
+Honestly, we're down to almost a normal amount of people.
+Uh-oh, there's a monster.
+Oh, we're talking.
+Get in, get in, get in.
+Let's just leave, please.
+Yeah, we're done.
+We're done.
+I got stuck in a room.
+I was like, oh my god, I got one behind me.
+What the hell is that?
+The loot wasn't on the ship.
+It was underneath.
+Fusing through the floor.
+You lost your money.
+Oh, it spawned back in here.
+Yeah, like a three ammo shotgun would be a pretty sick.
+I mean, maybe they're...
+That's the highest grade we have.
+Oh my god, I got a new employee rank.
+Hell yes.
+What does it say?
+Congrats.
+Are you an employee?
+I'm so employed.
+Let's go to offense.
+It's a fun name.
+Oh, hell yeah, he's an employee.
+A lot of you guys are employees now.
+You're an employee?
+You're a civil part-time?
+Land this thing.
+Yeah, you're a civil part-time.
+You call me a part-time player?
+Part-time player?
+I have to say it by ass, but...
+Where are we?
+I've never been here. I don't think I've ever been here.
+Monitoring.
+Is this where we just worked?
+I guess a lot of these look the same.
+I think this might be the same.
+Yeah, it's the same place.
+Oh, it's the same place, okay.
+What is it?
+I don't know. I don't recognize it.
+The skinwalker thing I've heard is fun, and I should try that.
+I've just struggled to get everybody...
+Is that a mod?
+Yeah, there's like an unimposter basically.
+But not played by any of it.
+Wait, what?
+A skinwalker can look like one of us
+and it'll re-say
+voice lines that we've said.
+Yeah, there's no way.
+Is that a real mob in this game?
+Apparently, yeah.
+I think it's a mod.
+People are a fan of it.
+I do think that a straight-up among us imposter character
+could maybe work in this. I don't know.
+Yeah, as an asymmetrical thing.
+Yeah, I can see that.
+Oh, I still have a walkie.
+Anybody still on their walkie?
+That might be more of a backroom thing.
+I mean, I could just see, you know,
+adding in whatever to this game.
+Whatever works.
+That noise.
+Oh, it's just a mine.
+Another key?
+Yeah, I'm still alive.
+I'm in the basement or something.
+There's a bunch of mines.
+Yeah, there's stuff over.
+You don't have to jump this, by the way. You can just walk.
+The mines are a much bigger deal
+when Fio is playing. That's true.
+Yeah, I mean, I'm hoping this game
+has made the developers quite a bit at this point,
+even though it's only 10 bucks.
+It does seem very popular.
+The blob.
+Hydrogeeter.
+The blob is in the building.
+What's this mean?
+There's the blob.
+Look at that.
+He's moving.
+And a mine.
+Yeah, I couldn't find the shipping.
+I don't know what else is down here.
+What's this way?
+What happened?
+Did you not see that?
+The dog thing I was telling you about.
+Wait, dog thing?
+Yeah, that thing is what killed me last time.
+Yeah, it's near the entrance.
+The main entrance. The dog thing, if you're still alive.
+Someone killed it?
+It's dead. It got killed.
+Wow.
+No shot.
+No shot.
+Holy shit. Who killed it?
+Colin?
+God, Ash.
+We killed it. She did not kill it.
+I'm the one with the yield sign.
+Okay?
+I'm the one with the yield sign. I killed it.
+All credit of the blob is still coming.
+All right, well, I don't really know.
+I think maybe we'd have to find a fire exit to do anything else.
+So maybe I'll do that.
+Watch me be useful.
+I was watching the most recent somewhere news
+about indie game developers and content creators.
+I haven't watched that.
+Someone else mentioned that to me.
+Watch that.
+Check in with some more news from time to time.
+What's this?
+Is that an engine right there?
+There's a dog.
+Okay. Thank you for the follow.
+Waffle man.
+I'm very lost.
+There it is.
+And there's a big ass dog.
+I think there's still more stuff near the dog, unfortunately,
+that we should probably go get.
+No, there is. Yeah.
+We're going to go talk to me via this.
+Yeah.
+Yeah, yeah, yeah.
+Okay.
+Do you need a walkie?
+I have one.
+That's the crazy one.
+No.
+Yes.
+Careful.
+Careful with the dogs.
+I see him.
+He's there.
+They kind of do that.
+No.
+What, we got everything?
+Yeah, yeah, yeah.
+We got all the small stuff, right?
+I got one of them.
+I think there's still an engine.
+Still an engine.
+I'm going to go for the engine.
+Okay, I'll go with you.
+I'll go with you.
+Wait.
+Yeah, that's fine.
+As long as we crouch.
+I think we're...
+I think there's a horn, but I couldn't find it.
+What noise?
+What even got him?
+I think he just touched me.
+I took a wrong turn.
+Damn it.
+Why were there so many?
+They just kept dropping up.
+They were coming out.
+Oh.
+I think it's us.
+What noise did you hear me make when I died?
+I don't know.
+I was hearing bird noises.
+You touched.
+They died for that engine.
+I didn't die for the engine.
+I technically died for the air horn,
+which I will stand by because it's worth more.
+We have so much shit.
+I don't play that.
+That's fun.
+We should have been able to get away with it.
+We were super close to getting away.
+We were right there.
+Oh, my goodness.
+Dude, it feels good to play video games again.
+Oh, my God.
+I've not played them in a bit either.
+Did they take off?
+Why is Ash talking to himself?
+No, he's there.
+I'm voting to leave.
+Wait, I hope we don't respawn.
+I don't know.
+Uh-oh.
+He said you don't laugh at my jokes
+like the others do.
+Fuck, I think we might have glitched.
+If we've glitched, that's probably
+a reasonable stopping point.
+Yes.
+If he took off, I don't know what's happening.
+Take us to get in outer space.
+That's the perfect way to end.
+Maybe it'll have saved right after we bought the jetpack.
+Where are we?
+Why haven't the others respawned yet?
+I want to say bye to hostwin.
+Hello?
+Are you guys done?
+Yeah, I think we're done.
+I think it glitched.
+Okay, goodbye, everybody.
+Bye, candle.
+Oh, God, I didn't mean it.
+Please.
+Goodbye, friends.
+I'm going to quit and find someone to rage.
+I'm so lonely.
+I'm so lonely.
+I silenced them.
+I don't think so.
+I've been accused.
+There's accusations flying around this apartment right now.
+Things that I would never do.
+Okay, let's see who's on.
+Who's on right now?
+I actually don't.
+I never stream this late, so there might be nobody that I follow.
+Maybe tonight is still on.
+She is. Okay, great.
+We'll read her.
+Okay.
+Cool.
+Thanks for checking us out, guys.
+Thanks for hanging out with me late at night.
+Thanks for
+bringing the hype train.
+We even got
+Kendall in on this.
+DJ music it.
+Oh, yeah, there we go.
+That's the ending music.
+Okay, the raid is on the way.
+Tenet is way.
+Um,
+it's re-retime. She streams nice and late.
+I almost never get to raid her.
+But now I do.
+I'm so hard not to do my DJ music singing over this.
+But it's too late.
+Okay.
+Let Tenet know, send her my apologies
+for the whole
+extended kerfuffle.
+The worst type of kerfuffle.
+Thanks everybody for playing with me.
+Um,
+I can list them all, but you know,
+the ashes, the John Madison,
+the Tim Lampheres,
+the, uh, the miracles,
+the hostways, Kendall, of course.
+I've listed too fancy ransom.
+I'm not gonna forget someone. I don't feel bad.
+The people who tried to play with me.
+And couldn't.
+All those heroes.
+Okay, have fun with Tenet.
+Apologize for the mod problem.
+I feel responsible, although I don't know why.
+And, uh, I'll be back tomorrow with some news
+and maybe a little more of this.
+See you later, everybody. Bye-bye.

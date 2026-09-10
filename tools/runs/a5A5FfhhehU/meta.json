@@ -1,0 +1,19 @@
+{
+  "vod_id": "a5A5FfhhehU",
+  "title": "Sunday Lethaling With Some Comapny",
+  "url": "https://www.youtube.com/watch?v=a5A5FfhhehU",
+  "duration_seconds": 21147,
+  "duration": "5:52:27",
+  "timestamp": 1702252800,
+  "aired_at": "2023-12-11T00:00:00+00:00",
+  "date": "2023-12-11",
+  "ingested_at": "2026-09-10T00:58:16.120935+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "a5A5FfhhehU",
+  "yt_url": "https://www.youtube.com/watch?v=a5A5FfhhehU",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2023-12-11"
+}
