@@ -1,0 +1,19 @@
+{
+  "vod_id": "bldjU0QVKbc",
+  "title": "Returnal to the News - then Lethal Slam Company",
+  "url": "https://www.youtube.com/watch?v=bldjU0QVKbc",
+  "duration_seconds": 14063,
+  "duration": "3:54:23",
+  "timestamp": 1701993600,
+  "aired_at": "2023-12-08T00:00:00+00:00",
+  "date": "2023-12-08",
+  "ingested_at": "2026-09-10T00:13:20.201244+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "bldjU0QVKbc",
+  "yt_url": "https://www.youtube.com/watch?v=bldjU0QVKbc",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2023-12-08"
+}
