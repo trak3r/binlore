@@ -1,0 +1,19 @@
+{
+  "vod_id": "H9d5sUAABJY",
+  "title": "Cream Company",
+  "url": "https://www.youtube.com/watch?v=H9d5sUAABJY",
+  "duration_seconds": 6312,
+  "duration": "1:45:12",
+  "timestamp": 1705017600,
+  "aired_at": "2024-01-12T00:00:00+00:00",
+  "date": "2024-01-12",
+  "ingested_at": "2026-09-10T16:20:04.479288+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "H9d5sUAABJY",
+  "yt_url": "https://www.youtube.com/watch?v=H9d5sUAABJY",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-01-12"
+}
