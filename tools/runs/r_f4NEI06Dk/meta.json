@@ -1,0 +1,19 @@
+{
+  "vod_id": "r_f4NEI06Dk",
+  "title": "Peaking Hard",
+  "url": "https://www.youtube.com/watch?v=r_f4NEI06Dk",
+  "duration_seconds": 8429,
+  "duration": "2:20:29",
+  "timestamp": 1765843200,
+  "aired_at": "2025-12-16T00:00:00+00:00",
+  "date": "2025-12-16",
+  "ingested_at": "2026-09-10T14:38:27.230055+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "r_f4NEI06Dk",
+  "yt_url": "https://www.youtube.com/watch?v=r_f4NEI06Dk",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-12-16"
+}
