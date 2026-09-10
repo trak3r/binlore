@@ -1,0 +1,2813 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 3040.9883125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 519.47,
+      "end": 529.09,
+      "text": "Hello everybody. Good to see you all. I've got you in the monitor now. I can see"
+    },
+    {
+      "id": 2,
+      "start": 529.09,
+      "end": 534.69,
+      "text": "you. Straight on. Destructive one. Skimer, Chugtug, Careless Joe, Nomad, Uncle, Phil,"
+    },
+    {
+      "id": 3,
+      "start": 534.69,
+      "end": 541.01,
+      "text": "2k. Let me know. I'm getting this real close to my face. You guys got to tell"
+    },
+    {
+      "id": 4,
+      "start": 541.01,
+      "end": 546.81,
+      "text": "me if it's too unsettling having chat. Straight in a teleprompter. Too much?"
+    },
+    {
+      "id": 5,
+      "start": 546.81,
+      "end": 554.37,
+      "text": "It's possibly too much. Stare deeper inside. Bring this back in. See how, see how"
+    },
+    {
+      "id": 6,
+      "start": 554.37,
+      "end": 565.0,
+      "text": "deep I can go. Hello Matt. Good to see you. I also updated the chat down here to not"
+    },
+    {
+      "id": 7,
+      "start": 565.0,
+      "end": 571.0,
+      "text": "have a box. These are the kinds of insane upgrades I'm making to the screen"
+    },
+    {
+      "id": 8,
+      "start": 571.0,
+      "end": 578.68,
+      "text": "stream. Upgrades. It's more newsy. You can't deny that in the news they use"
+    },
+    {
+      "id": 9,
+      "start": 578.68,
+      "end": 583.2,
+      "text": "teleprompters. You're on vacation S1000? That is good. Did you get an Elgato"
+    },
+    {
+      "id": 10,
+      "start": 583.2,
+      "end": 588.68,
+      "text": "teleprompter? I did. It took a while to get here. I guess it's like, it's popular."
+    },
+    {
+      "id": 11,
+      "start": 588.68,
+      "end": 594.88,
+      "text": "Everybody wants one. But I got one. And now there's no stopping."
+    },
+    {
+      "id": 12,
+      "start": 594.88,
+      "end": 604.28,
+      "text": "It is also brand spanking new. I ordered it because it people were saying it's"
+    },
+    {
+      "id": 13,
+      "start": 604.28,
+      "end": 608.56,
+      "text": "it's good and honestly so far if you for some reason want a teleprompter I"
+    },
+    {
+      "id": 14,
+      "start": 608.56,
+      "end": 615.2,
+      "text": "do think it's pretty good. If you ever have need in your life for a"
+    },
+    {
+      "id": 15,
+      "start": 615.2,
+      "end": 618.64,
+      "text": "teleprompter. Also it should make it easier for me if I can ever get off my"
+    },
+    {
+      "id": 16,
+      "start": 618.64,
+      "end": 622.8,
+      "text": "ass and do it to make YouTube videos because now I can write a script and"
+    },
+    {
+      "id": 17,
+      "start": 622.8,
+      "end": 628.52,
+      "text": "just it's right here. It's so cool it makes me want to read the news but also"
+    },
+    {
+      "id": 18,
+      "start": 628.52,
+      "end": 633.68,
+      "text": "camera shy yeah. It is weird staring directly at this camera but it doesn't"
+    },
+    {
+      "id": 19,
+      "start": 633.68,
+      "end": 636.84,
+      "text": "look like a camera to me anymore. It looks like a screen so it's trick it's"
+    },
+    {
+      "id": 20,
+      "start": 636.84,
+      "end": 644.12,
+      "text": "tricked my brain. And now all of my all of the news all of my favorite news guys"
+    },
+    {
+      "id": 21,
+      "start": 644.12,
+      "end": 648.68,
+      "text": "on this channel can finally stop complaining about how I don't have a"
+    },
+    {
+      "id": 22,
+      "start": 648.68,
+      "end": 654.12,
+      "text": "teleprompter. Did you get it for me daddy? We got to stop calling everybody daddy"
+    },
+    {
+      "id": 23,
+      "start": 654.12,
+      "end": 659.91,
+      "text": "on over here. Well I'm just saying I've been asking you to get this for a"
+    },
+    {
+      "id": 24,
+      "start": 659.91,
+      "end": 666.67,
+      "text": "minute. So if anyone's gonna try it out first it should be chat. No me. I'm"
+    },
+    {
+      "id": 25,
+      "start": 666.75,
+      "end": 677.38,
+      "text": "a news. I'm a news. We're all news men. Jeff and one woman. Does it show ads for"
+    },
+    {
+      "id": 26,
+      "start": 677.38,
+      "end": 682.82,
+      "text": "chat? No. And a dog. You're forgetting the dog. I didn't forget the dog. I"
+    },
+    {
+      "id": 27,
+      "start": 682.82,
+      "end": 688.18,
+      "text": "just I can't list everybody. Well I'm for one I'm happy to see you where you"
+    },
+    {
+      "id": 28,
+      "start": 688.18,
+      "end": 694.22,
+      "text": "belong right down the barrel of this camera. These eyes were made to stare"
+    },
+    {
+      "id": 29,
+      "start": 694.22,
+      "end": 699.86,
+      "text": "at you. And now I finally can. You are in fact the news. Hit me up with a"
+    },
+    {
+      "id": 30,
+      "start": 699.9,
+      "end": 704.86,
+      "text": "story case. Let's see how this thing works. All right. We don't have a lot of"
+    },
+    {
+      "id": 31,
+      "start": 704.86,
+      "end": 710.78,
+      "text": "time because I have to go play lethal company later. You're why are you yelling"
+    },
+    {
+      "id": 32,
+      "start": 710.78,
+      "end": 714.86,
+      "text": "at me? Sorry I didn't mean to. Hey but shout outs to CV loves you Tamtran"
+    },
+    {
+      "id": 33,
+      "start": 714.86,
+      "end": 718.78,
+      "text": "and to daddy Street Marine and I worship shadow and shout outs to the subs we"
+    },
+    {
+      "id": 34,
+      "start": 718.78,
+      "end": 723.82,
+      "text": "got during as the stream was booting up Uncle Phil 2k microphone 900 with the"
+    },
+    {
+      "id": 35,
+      "start": 723.82,
+      "end": 730.46,
+      "text": "750 the maniacs always dropping the 750s thank you so much and adding to"
+    },
+    {
+      "id": 36,
+      "start": 730.5,
+      "end": 743.1,
+      "text": "it cheer was 113 cheer while cheer wall 113 adding 75 bits to kind indeed did"
+    },
+    {
+      "id": 37,
+      "start": 743.1,
+      "end": 748.86,
+      "text": "Pepito install the prompter. I don't know. Did he case. It's a good question."
+    },
+    {
+      "id": 38,
+      "start": 748.86,
+      "end": 757.0,
+      "text": "Pepito. Did you install a prompter prompter for me. Don't do don't do my"
+    },
+    {
+      "id": 39,
+      "start": 757.04,
+      "end": 763.74,
+      "text": "first struggling over there. I'm not struggling and I did not install it"
+    },
+    {
+      "id": 40,
+      "start": 763.74,
+      "end": 769.73,
+      "text": "because I don't get buttons. I always forgot that you're a dog who doesn't"
+    },
+    {
+      "id": 41,
+      "start": 769.73,
+      "end": 776.01,
+      "text": "understand most human concepts. Only speech and a bunch of other things but"
+    },
+    {
+      "id": 42,
+      "start": 776.01,
+      "end": 784.69,
+      "text": "not news because you don't have a good sense of time to me time is a minute"
+    },
+    {
+      "id": 43,
+      "start": 784.69,
+      "end": 790.81,
+      "text": "ago I was born but not even that it's all it's a flat biscuit for time is a flat"
+    },
+    {
+      "id": 44,
+      "start": 790.81,
+      "end": 797.61,
+      "text": "biscuit and I want to eat it. Alright fair enough crumbs miss oh we hit it"
+    },
+    {
+      "id": 45,
+      "start": 797.61,
+      "end": 806.33,
+      "text": "it's crumbs miss time so my plan is to do the grunt grunge miss aka fox miss I"
+    },
+    {
+      "id": 46,
+      "start": 806.33,
+      "end": 810.41,
+      "text": "think I was gonna do it this weekend maybe unless a weekend stream will like"
+    },
+    {
+      "id": 47,
+      "start": 810.85,
+      "end": 816.01,
+      "text": "is harder for everyone to watch so I was trying I was trying to decide if I"
+    },
+    {
+      "id": 48,
+      "start": 816.01,
+      "end": 820.37,
+      "text": "should do it Saturday or Sunday and even though we quit the network or at least"
+    },
+    {
+      "id": 49,
+      "start": 820.37,
+      "end": 825.69,
+      "text": "he quit munching crumb I mean who knows if that'll stick and what else is he"
+    },
+    {
+      "id": 50,
+      "start": 825.69,
+      "end": 831.53,
+      "text": "doing I can probably at least get him to come for fucks miss crumb hot shotting"
+    },
+    {
+      "id": 51,
+      "start": 831.53,
+      "end": 837.33,
+      "text": "me who does he think he is he works for me damn it you don't own me"
+    },
+    {
+      "id": 52,
+      "start": 837.53,
+      "end": 843.65,
+      "text": "now that's true actually I'm gonna dance around a table with a bunch of divorced"
+    },
+    {
+      "id": 53,
+      "start": 843.65,
+      "end": 848.25,
+      "text": "wives and sing that at you if you get too up if you get too up in my face fair"
+    },
+    {
+      "id": 54,
+      "start": 848.25,
+      "end": 854.05,
+      "text": "enough Mary crumbs this one and all so anyway I could bring on crumb now then"
+    },
+    {
+      "id": 55,
+      "start": 854.05,
+      "end": 858.77,
+      "text": "or we could do crumbs miss tomorrow and do it separately I mean I love to"
+    },
+    {
+      "id": 56,
+      "start": 858.77,
+      "end": 867.05,
+      "text": "over celebrate Christmas a nummy emote a crummy nummy look never let him"
+    },
+    {
+      "id": 57,
+      "start": 867.05,
+      "end": 871.93,
+      "text": "forget the true never forget never forget that crumb told that weird story about"
+    },
+    {
+      "id": 58,
+      "start": 871.93,
+      "end": 877.73,
+      "text": "his first orgasm being into his nummy rag what are you talking about it's a"
+    },
+    {
+      "id": 59,
+      "start": 877.73,
+      "end": 882.29,
+      "text": "fair question Jeff I don't know can we do a news is there news in the world today"
+    },
+    {
+      "id": 60,
+      "start": 882.29,
+      "end": 891.37,
+      "text": "I'm not jet man scape on this one cover up chat with me that's me I look look how"
+    },
+    {
+      "id": 61,
+      "start": 891.37,
+      "end": 896.33,
+      "text": "good I look everyone look how good I at how good I look that's a that's a"
+    },
+    {
+      "id": 62,
+      "start": 896.33,
+      "end": 901.77,
+      "text": "thing that I say that's a different comedy newscasters catchphrase what one"
+    },
+    {
+      "id": 63,
+      "start": 901.77,
+      "end": 907.01,
+      "text": "of many I think it's mine anyway what's going on in the world today twitch"
+    },
+    {
+      "id": 64,
+      "start": 907.01,
+      "end": 912.57,
+      "text": "updates sexual content guidelines amid topless meta backlash how was that"
+    },
+    {
+      "id": 65,
+      "start": 912.57,
+      "end": 916.21,
+      "text": "was that straight down the camera I think more or less I bet it looked"
+    },
+    {
+      "id": 66,
+      "start": 916.21,
+      "end": 922.53,
+      "text": "incredible we'll never know did they say Jeff cripple that's offensive Jeff it's"
+    },
+    {
+      "id": 67,
+      "start": 922.53,
+      "end": 929.09,
+      "text": "ripple don't add a C I chat thinks you said a C or I did and either an eye pop I'm"
+    },
+    {
+      "id": 68,
+      "start": 929.09,
+      "end": 932.37,
+      "text": "not afraid unlike some people to just constantly apologize so if I did I'm"
+    },
+    {
+      "id": 69,
+      "start": 932.37,
+      "end": 938.25,
+      "text": "sorry it wasn't me Sunday night at 8 p.m. Sunday at 8 that could work for"
+    },
+    {
+      "id": 70,
+      "start": 938.25,
+      "end": 940.77,
+      "text": "whatever they're Sunday at 8 it's a great time what do they want to do were"
+    },
+    {
+      "id": 71,
+      "start": 940.77,
+      "end": 944.21,
+      "text": "you paying it I'm trying to do crumbs grunge miss grunge miss crumbs miss"
+    },
+    {
+      "id": 72,
+      "start": 944.21,
+      "end": 949.25,
+      "text": "alright Sunday at 8 CV loves you if CV loves you once it's Sunday at 8 I"
+    },
+    {
+      "id": 73,
+      "start": 949.29,
+      "end": 954.41,
+      "text": "think you are honor bound to do it at CV loves you preferred preferred time I"
+    },
+    {
+      "id": 74,
+      "start": 954.41,
+      "end": 961.13,
+      "text": "agree courtesy of the CV let's do a Sunday at 8 8 p.m. PST the CV you get to"
+    },
+    {
+      "id": 75,
+      "start": 961.13,
+      "end": 969.81,
+      "text": "decide 8 PST 8 ET will be late as it would be earlier 8 PT will be late as"
+    },
+    {
+      "id": 76,
+      "start": 969.81,
+      "end": 975.73,
+      "text": "hell for a lot of people so maybe that's like what how did time zones work I'm a"
+    },
+    {
+      "id": 77,
+      "start": 975.73,
+      "end": 984.21,
+      "text": "newsman you should know that I think it means it's it would be at 11 if your"
+    },
+    {
+      "id": 78,
+      "start": 984.21,
+      "end": 991.85,
+      "text": "time okay 8 PST is that too late for us east coasters I might I might I mean I"
+    },
+    {
+      "id": 79,
+      "start": 991.85,
+      "end": 995.37,
+      "text": "don't want to immediately go against 8 p.m. Moscow time I don't know what time"
+    },
+    {
+      "id": 80,
+      "start": 995.37,
+      "end": 999.49,
+      "text": "zone that is I think it wraps back around and it evens out it's just the"
+    },
+    {
+      "id": 81,
+      "start": 999.49,
+      "end": 1003.93,
+      "text": "same 8 o'clock I don't that doesn't sound right I think I'll do if it"
+    },
+    {
+      "id": 82,
+      "start": 1003.93,
+      "end": 1012.17,
+      "text": "also fucks with you I might do 5 PST 8 EST but CV if you can't watch it at 5 on a"
+    },
+    {
+      "id": 83,
+      "start": 1012.17,
+      "end": 1017.85,
+      "text": "Sunday then I will do a we are but your humble news servants speaking of news"
+    },
+    {
+      "id": 84,
+      "start": 1017.85,
+      "end": 1022.13,
+      "text": "we got to get to it I've been saying that the whole time all right well just"
+    },
+    {
+      "id": 85,
+      "start": 1022.13,
+      "end": 1027.17,
+      "text": "coming over 8 PST is too late that does feel a little late to me so I think I"
+    },
+    {
+      "id": 86,
+      "start": 1027.17,
+      "end": 1036.75,
+      "text": "might do 5 on Sunday a magical fucks miss grunge miss crumbs miss Halloween and"
+    },
+    {
+      "id": 87,
+      "start": 1036.75,
+      "end": 1043.65,
+      "text": "just to fold it in because I said I would I'm gonna be eating messy wings who"
+    },
+    {
+      "id": 88,
+      "start": 1043.65,
+      "end": 1048.93,
+      "text": "asked for that Tim lamp here someone actually asked for that technically"
+    },
+    {
+      "id": 89,
+      "start": 1048.93,
+      "end": 1054.77,
+      "text": "Tim did okay well I have to be there you might be there Jeff I don't know who"
+    },
+    {
+      "id": 90,
+      "start": 1054.77,
+      "end": 1058.57,
+      "text": "knows who could stop by but if you come make sure that you dress in green"
+    },
+    {
+      "id": 91,
+      "start": 1058.57,
+      "end": 1064.73,
+      "text": "face paint green face it's fine you're a green face is allowed in fact it's a"
+    },
+    {
+      "id": 92,
+      "start": 1064.73,
+      "end": 1067.93,
+      "text": "fence of the actual act like it's a different thing because it's imaginary"
+    },
+    {
+      "id": 93,
+      "start": 1067.93,
+      "end": 1073.33,
+      "text": "and fun okay I don't know the rules but yeah don't worry about it let's just"
+    },
+    {
+      "id": 94,
+      "start": 1073.33,
+      "end": 1078.81,
+      "text": "come over here and read the news well coming over to the desk it's Jeff"
+    },
+    {
+      "id": 95,
+      "start": 1078.81,
+      "end": 1086.34,
+      "text": "Ripper Jeff get over I'm just I take a second gotta walk from the one"
+    },
+    {
+      "id": 96,
+      "start": 1086.34,
+      "end": 1090.78,
+      "text": "camera to the other because there's so many camp what a huge there's so many"
+    },
+    {
+      "id": 97,
+      "start": 1090.82,
+      "end": 1098.25,
+      "text": "cameras in here the studio is huge grunge with messy with messy wing sound"
+    },
+    {
+      "id": 98,
+      "start": 1098.25,
+      "end": 1106.41,
+      "text": "sexy as fuck I didn't say it well you've read it I hey gay say Jeff you showing up"
+    },
+    {
+      "id": 99,
+      "start": 1106.41,
+      "end": 1114.52,
+      "text": "stone some nips Jeff can you try that can you do the new Twitch meta do I get"
+    },
+    {
+      "id": 100,
+      "start": 1114.52,
+      "end": 1121.28,
+      "text": "a bonus we all get a bonus okay where are my nipples okay my nipples are"
+    },
+    {
+      "id": 101,
+      "start": 1121.28,
+      "end": 1126.56,
+      "text": "below desk so check this out shit this is the new meta and don't ever say that"
+    },
+    {
+      "id": 102,
+      "start": 1126.56,
+      "end": 1131.68,
+      "text": "Jeffie daddy didn't give anything to you does this count wide open it's the nips"
+    },
+    {
+      "id": 103,
+      "start": 1131.68,
+      "end": 1139.65,
+      "text": "are really close to exposure here am I in on the new meta I did it to quit you"
+    },
+    {
+      "id": 104,
+      "start": 1139.65,
+      "end": 1147.13,
+      "text": "asked me to do it don't steal my thunder I feel like we're losing credibility we"
+    },
+    {
+      "id": 105,
+      "start": 1147.13,
+      "end": 1151.61,
+      "text": "did not have you've stripped me of all my credibility and now I prostrate"
+    },
+    {
+      "id": 106,
+      "start": 1151.61,
+      "end": 1158.29,
+      "text": "myself nude from the top from the middle of the top down just the middle"
+    },
+    {
+      "id": 107,
+      "start": 1158.49,
+      "end": 1166.29,
+      "text": "actually just the middle of the top let's button back up alright I do feel I feel"
+    },
+    {
+      "id": 108,
+      "start": 1166.29,
+      "end": 1171.57,
+      "text": "a little silly and now I have new respect for all of our topless Twitch"
+    },
+    {
+      "id": 109,
+      "start": 1171.57,
+      "end": 1178.41,
+      "text": "streamers it takes a lot of confidence to almost unleash the nipple and this"
+    },
+    {
+      "id": 110,
+      "start": 1178.41,
+      "end": 1184.81,
+      "text": "newsman I regret it for free Jeff oh I did do it for free yeah that didn't"
+    },
+    {
+      "id": 111,
+      "start": 1184.81,
+      "end": 1188.97,
+      "text": "earn us anything you said you'd give you a bonus I'll give you a compliment"
+    },
+    {
+      "id": 112,
+      "start": 1189.37,
+      "end": 1194.13,
+      "text": "nice chest hair mine did look a lot better than yours they look the same"
+    },
+    {
+      "id": 113,
+      "start": 1194.13,
+      "end": 1203.44,
+      "text": "Jeff yeah but mine look mine was more appealing basically in decent news yes"
+    },
+    {
+      "id": 114,
+      "start": 1203.44,
+      "end": 1208.0,
+      "text": "this news is highly indecent topless streamers gross where are they so I"
+    },
+    {
+      "id": 115,
+      "start": 1208.0,
+      "end": 1211.28,
+      "text": "know how to avoid them just yeah I mean honestly all you have to do is go to"
+    },
+    {
+      "id": 116,
+      "start": 1211.28,
+      "end": 1217.68,
+      "text": "just chatting on twitch and for me it's always the top recommended one in"
+    },
+    {
+      "id": 117,
+      "start": 1217.68,
+      "end": 1223.12,
+      "text": "fact let's see if we can prove that to ourselves right now twitch.tv go to"
+    },
+    {
+      "id": 118,
+      "start": 1223.12,
+      "end": 1232.48,
+      "text": "browse and just chatting Jeff check this out buddy Jeff you're gonna want to see"
+    },
+    {
+      "id": 119,
+      "start": 1232.48,
+      "end": 1238.84,
+      "text": "this there's none there's no it's squeaky clean maybe they already cleaned up"
+    },
+    {
+      "id": 120,
+      "start": 1238.84,
+      "end": 1245.52,
+      "text": "their act okay maybe not entirely she's not topless though okay well this oh"
+    },
+    {
+      "id": 121,
+      "start": 1245.52,
+      "end": 1251.76,
+      "text": "wow all right and then we scroll up I'm pretty sure there was a full vagina on"
+    },
+    {
+      "id": 122,
+      "start": 1251.76,
+      "end": 1262.4,
+      "text": "display there oh those are yoga pants they were just skin colored yoga pants so"
+    },
+    {
+      "id": 123,
+      "start": 1262.4,
+      "end": 1269.12,
+      "text": "not I actually oh okay we found one the target has been located this is our"
+    },
+    {
+      "id": 124,
+      "start": 1269.12,
+      "end": 1275.32,
+      "text": "sexual content policy streamer of the day uh endless commercials we'll check back"
+    },
+    {
+      "id": 125,
+      "start": 1275.36,
+      "end": 1280.08,
+      "text": "in with her after I read some of this story which I can now read directly into"
+    },
+    {
+      "id": 126,
+      "start": 1280.08,
+      "end": 1285.84,
+      "text": "the camera that was an Arby's ad what's the Arby's sexual content policy look I"
+    },
+    {
+      "id": 127,
+      "start": 1285.84,
+      "end": 1290.6,
+      "text": "need to read the news bring it real close to my face so that I can news this"
+    },
+    {
+      "id": 128,
+      "start": 1290.6,
+      "end": 1296.36,
+      "text": "up twitch updates sexual content guidelines amid topless meta backlash as"
+    },
+    {
+      "id": 129,
+      "start": 1296.36,
+      "end": 1301.76,
+      "text": "pictured here by sexy woman barely wearing clothes twitch has updated its"
+    },
+    {
+      "id": 130,
+      "start": 1301.8,
+      "end": 1306.2,
+      "text": "guidelines on sexual content following mass outrage that occurred as a result of"
+    },
+    {
+      "id": 131,
+      "start": 1306.2,
+      "end": 1311.0,
+      "text": "a new topless meta taking over the site over the weekend on December 8th a new"
+    },
+    {
+      "id": 132,
+      "start": 1311.0,
+      "end": 1316.24,
+      "text": "meta gained popularity on twitch after streamer cosplayer and only fans model"
+    },
+    {
+      "id": 133,
+      "start": 1316.24,
+      "end": 1320.44,
+      "text": "morgue pie went viral on social media morgue pie stream showed the"
+    },
+    {
+      "id": 134,
+      "start": 1320.44,
+      "end": 1325.36,
+      "text": "broadcasters seemingly topless sparking outrage across the net as to what"
+    },
+    {
+      "id": 135,
+      "start": 1325.36,
+      "end": 1334.59,
+      "text": "kinds of content was allowed on twitch and what was allowed I mean look at what's"
+    },
+    {
+      "id": 136,
+      "start": 1334.59,
+      "end": 1342.19,
+      "text": "going on right now this so why'd she get banned but this lady still got the guns"
+    },
+    {
+      "id": 137,
+      "start": 1342.19,
+      "end": 1351.93,
+      "text": "out sons out the cannons ready to pout that's not the same I well you know I"
+    },
+    {
+      "id": 138,
+      "start": 1351.93,
+      "end": 1357.01,
+      "text": "just out what so what's the problem here what's I'm not supposed to this is"
+    },
+    {
+      "id": 139,
+      "start": 1357.01,
+      "end": 1377.59,
+      "text": "supposed to upset me what is happening right now we're just I was really"
+    },
+    {
+      "id": 140,
+      "start": 1377.59,
+      "end": 1383.31,
+      "text": "considering what you said Jeff I was just really thinking about it anyway"
+    },
+    {
+      "id": 141,
+      "start": 1383.31,
+      "end": 1387.27,
+      "text": "apparently they updated it and we need to we need to keep reading to figure out"
+    },
+    {
+      "id": 142,
+      "start": 1387.27,
+      "end": 1394.11,
+      "text": "what happened oh okay I'll do more news that was an incredibly slow fate three"
+    },
+    {
+      "id": 143,
+      "start": 1394.11,
+      "end": 1397.35,
+      "text": "days later morgue pie was okay morgue pie stream showed the broadcasters"
+    },
+    {
+      "id": 144,
+      "start": 1397.35,
+      "end": 1400.79,
+      "text": "seemingly topless sparking outrage across the net as to what kinds of content"
+    },
+    {
+      "id": 145,
+      "start": 1401.03,
+      "end": 1405.27,
+      "text": "is allowed on twitch three days later morgue pie was banned but now twitch has"
+    },
+    {
+      "id": 146,
+      "start": 1405.27,
+      "end": 1409.83,
+      "text": "officially switched up its guidelines in relation to sexual content on its"
+    },
+    {
+      "id": 147,
+      "start": 1409.83,
+      "end": 1417.08,
+      "text": "platform making big changes for streamers okay what changes happening here"
+    },
+    {
+      "id": 148,
+      "start": 1418.04,
+      "end": 1421.48,
+      "text": "in response to feedback from streamers regarding its guidelines switch rolled out"
+    },
+    {
+      "id": 149,
+      "start": 1421.48,
+      "end": 1427.32,
+      "text": "a massive update to its approach to sexual content in a large post well let's"
+    },
+    {
+      "id": 150,
+      "start": 1427.32,
+      "end": 1432.44,
+      "text": "see how large I love to click on a link okay should we just go straight to"
+    },
+    {
+      "id": 151,
+      "start": 1432.44,
+      "end": 1436.52,
+      "text": "the source I mean I don't know if it'll be any more exciting than this article but"
+    },
+    {
+      "id": 152,
+      "start": 1436.52,
+      "end": 1443.24,
+      "text": "let's give it a shot I can do that we received consistent feedback from"
+    },
+    {
+      "id": 153,
+      "start": 1443.24,
+      "end": 1448.84,
+      "text": "streamers that our current policies around sexual content are confusing and I am"
+    },
+    {
+      "id": 154,
+      "start": 1448.84,
+      "end": 1453.56,
+      "text": "confused if I'm upset or horny and that's one of my least favorite ways to"
+    },
+    {
+      "id": 155,
+      "start": 1453.56,
+      "end": 1461.27,
+      "text": "be confused I like to know we all do Jeff exactly okay we want streamers to"
+    },
+    {
+      "id": 156,
+      "start": 1461.27,
+      "end": 1465.11,
+      "text": "feel confident that they understand our rules and views to feel confident that"
+    },
+    {
+      "id": 157,
+      "start": 1465.11,
+      "end": 1468.95,
+      "text": "they will get the experience they expect and what experience am I expecting"
+    },
+    {
+      "id": 158,
+      "start": 1468.95,
+      "end": 1474.39,
+      "text": "again I games but also occasionally boobs all right I'm fine with that to"
+    },
+    {
+      "id": 159,
+      "start": 1474.39,
+      "end": 1477.75,
+      "text": "accomplish this we are making two changes effective today"
+    },
+    {
+      "id": 160,
+      "start": 1477.75,
+      "end": 1481.03,
+      "text": "streamlining our policies regarding sexual content well that should contain"
+    },
+    {
+      "id": 161,
+      "start": 1481.03,
+      "end": 1484.63,
+      "text": "a bunch of changes but whatever you're better off with the article summary"
+    },
+    {
+      "id": 162,
+      "start": 1484.63,
+      "end": 1489.43,
+      "text": "okay updating the criteria used for homepage recommendations"
+    },
+    {
+      "id": 163,
+      "start": 1490.39,
+      "end": 1495.27,
+      "text": "and apparently this is about to be even more obtuse in the article so let's"
+    },
+    {
+      "id": 164,
+      "start": 1495.27,
+      "end": 1500.63,
+      "text": "continue on with that the the large post carifies major changes one of which"
+    },
+    {
+      "id": 165,
+      "start": 1500.63,
+      "end": 1506.23,
+      "text": "allow I hate to misspeak I know Jeff it's fine"
+    },
+    {
+      "id": 166,
+      "start": 1506.23,
+      "end": 1510.95,
+      "text": "though content that deliberately highlights breasts"
+    },
+    {
+      "id": 167,
+      "start": 1510.95,
+      "end": 1515.59,
+      "text": "buttocks and pelvic regions even when fully clothed provided that it is"
+    },
+    {
+      "id": 168,
+      "start": 1515.59,
+      "end": 1523.19,
+      "text": "appropriately labeled and that's a loud now that's a that's a thumbs up"
+    },
+    {
+      "id": 169,
+      "start": 1523.19,
+      "end": 1526.39,
+      "text": "that's what's that's okay we're good to go on that I'm getting confirmation from"
+    },
+    {
+      "id": 170,
+      "start": 1526.39,
+      "end": 1530.68,
+      "text": "the judges show us them big furry pecs cakes"
+    },
+    {
+      "id": 171,
+      "start": 1530.68,
+      "end": 1535.64,
+      "text": "case daddy we just did but as much as we could"
+    },
+    {
+      "id": 172,
+      "start": 1535.64,
+      "end": 1539.24,
+      "text": "I think you could have shown even more I don't mind the top of streamers it's"
+    },
+    {
+      "id": 173,
+      "start": 1539.24,
+      "end": 1542.28,
+      "text": "the dipshits who watched that are the gross pigs"
+    },
+    {
+      "id": 174,
+      "start": 1542.28,
+      "end": 1546.28,
+      "text": "I mean I you know I don't it does feel like there's"
+    },
+    {
+      "id": 175,
+      "start": 1546.28,
+      "end": 1550.52,
+      "text": "better places to get pornographic content on the internet but"
+    },
+    {
+      "id": 176,
+      "start": 1550.52,
+      "end": 1554.44,
+      "text": "I guess as long as it's all consenting streamers"
+    },
+    {
+      "id": 177,
+      "start": 1554.44,
+      "end": 1558.28,
+      "text": "this aligns with one of three reasons twitch gave morgue pie"
+    },
+    {
+      "id": 178,
+      "start": 1558.28,
+      "end": 1561.8,
+      "text": "okay sorry uh this aligns with one of three reasons which gave morgue pie for"
+    },
+    {
+      "id": 179,
+      "start": 1561.8,
+      "end": 1565.16,
+      "text": "her ban earlier this week leaving viewers assuming that topless streams"
+    },
+    {
+      "id": 180,
+      "start": 1565.16,
+      "end": 1569.4,
+      "text": "might be allowed moving forward so boobies cool"
+    },
+    {
+      "id": 181,
+      "start": 1569.4,
+      "end": 1575.64,
+      "text": "indeed Ray Silva boobies apparently unless the nipples exposed in which case"
+    },
+    {
+      "id": 182,
+      "start": 1575.64,
+      "end": 1581.96,
+      "text": "sound the alarm everyone's going to jail every single person"
+    },
+    {
+      "id": 183,
+      "start": 1581.96,
+      "end": 1586.2,
+      "text": "yeah I mean I you know I would not if as long as it's appropriately labeled"
+    },
+    {
+      "id": 184,
+      "start": 1586.2,
+      "end": 1589.88,
+      "text": "and it's not on the homepage and you have to click through or you know"
+    },
+    {
+      "id": 185,
+      "start": 1589.88,
+      "end": 1592.36,
+      "text": "whatever age verification even though that doesn't work"
+    },
+    {
+      "id": 186,
+      "start": 1592.36,
+      "end": 1595.48,
+      "text": "I don't think it'd be that big of a deal to me if there were"
+    },
+    {
+      "id": 187,
+      "start": 1595.48,
+      "end": 1599.08,
+      "text": "nipples on twitch again to me it is going to that address bar and"
+    },
+    {
+      "id": 188,
+      "start": 1599.08,
+      "end": 1603.16,
+      "text": "immediately google up some nipples if you really want to but"
+    },
+    {
+      "id": 189,
+      "start": 1603.16,
+      "end": 1606.04,
+      "text": "I understand that it's not necessarily what they want their platform associated"
+    },
+    {
+      "id": 190,
+      "start": 1606.04,
+      "end": 1611.16,
+      "text": "with it's not actually that's a good point I don't know"
+    },
+    {
+      "id": 191,
+      "start": 1611.16,
+      "end": 1614.84,
+      "text": "they'll now they I don't know I just don't like I don't like"
+    },
+    {
+      "id": 192,
+      "start": 1614.84,
+      "end": 1618.52,
+      "text": "everybody being so upset over nudity it feels very silly to me"
+    },
+    {
+      "id": 193,
+      "start": 1618.52,
+      "end": 1621.72,
+      "text": "I mean I'll take my pants off right now if you want me to okay that this is"
+    },
+    {
+      "id": 194,
+      "start": 1621.72,
+      "end": 1625.32,
+      "text": "not what I meant but you know I just mean in the abstract"
+    },
+    {
+      "id": 195,
+      "start": 1625.32,
+      "end": 1630.2,
+      "text": "well it's not abstract when there's when there's real boobs to see like here"
+    },
+    {
+      "id": 196,
+      "start": 1630.2,
+      "end": 1633.72,
+      "text": "what's abstract about that you know well you know"
+    },
+    {
+      "id": 197,
+      "start": 1633.72,
+      "end": 1645.0,
+      "text": "oh what the fuck let's see if we can say the same thing at the same time"
+    },
+    {
+      "id": 198,
+      "start": 1645.0,
+      "end": 1648.44,
+      "text": "what do you mean jeff let's see if we can move our mouths exactly the same"
+    },
+    {
+      "id": 199,
+      "start": 1648.44,
+      "end": 1658.63,
+      "text": "what's that jeff very weird that might be something I have to get fixed"
+    },
+    {
+      "id": 200,
+      "start": 1658.63,
+      "end": 1661.11,
+      "text": "well look we're getting distracted I need to finish the story so that you can"
+    },
+    {
+      "id": 201,
+      "start": 1661.11,
+      "end": 1664.47,
+      "text": "play little baby games this aligns with what a major okay we"
+    },
+    {
+      "id": 202,
+      "start": 1664.47,
+      "end": 1668.39,
+      "text": "read that she got banned for showing nipples even"
+    },
+    {
+      "id": 203,
+      "start": 1668.39,
+      "end": 1671.99,
+      "text": "or not showing nipples even though that's sort of allowed now"
+    },
+    {
+      "id": 204,
+      "start": 1671.99,
+      "end": 1676.71,
+      "text": "tWitch also admitted that it's previously out which also admitted that"
+    },
+    {
+      "id": 205,
+      "start": 1676.71,
+      "end": 1680.79,
+      "text": "its previous outlook on this content"
+    },
+    {
+      "id": 206,
+      "start": 1680.79,
+      "end": 1683.99,
+      "text": "was out of line with industry standards and resulted in female presenting"
+    },
+    {
+      "id": 207,
+      "start": 1683.99,
+      "end": 1688.55,
+      "text": "streamers being disproportionately penalized well look at them"
+    },
+    {
+      "id": 208,
+      "start": 1688.55,
+      "end": 1692.55,
+      "text": "admitting it they admit it and that's"
+    },
+    {
+      "id": 209,
+      "start": 1692.55,
+      "end": 1696.47,
+      "text": "good or is it weak no I think it's it's fine for them to admit"
+    },
+    {
+      "id": 210,
+      "start": 1696.47,
+      "end": 1699.35,
+      "text": "that they've been a little weird towards female streamers"
+    },
+    {
+      "id": 211,
+      "start": 1699.35,
+      "end": 1703.43,
+      "text": "much like a lot of the audience has oh he's putting the whole audience on trial"
+    },
+    {
+      "id": 212,
+      "start": 1703.43,
+      "end": 1706.71,
+      "text": "other policies that were once prohibited and are not allowed with a label"
+    },
+    {
+      "id": 213,
+      "start": 1706.71,
+      "end": 1710.55,
+      "text": "include fictionalized fully exposed female presenting breasts and or"
+    },
+    {
+      "id": 214,
+      "start": 1710.55,
+      "end": 1714.23,
+      "text": "genitals or buttocks regardless of gender gender"
+    },
+    {
+      "id": 215,
+      "start": 1714.23,
+      "end": 1718.39,
+      "text": "I've been my dog wait they were once prohibited and are wait"
+    },
+    {
+      "id": 216,
+      "start": 1718.39,
+      "end": 1722.79,
+      "text": "other policies that were once prohibited and are not allowed"
+    },
+    {
+      "id": 217,
+      "start": 1722.79,
+      "end": 1728.31,
+      "text": "with a label include fictionalized fully exposed female presenting breasts"
+    },
+    {
+      "id": 218,
+      "start": 1728.31,
+      "end": 1734.82,
+      "text": "and or genitals or buttocks regardless of gender"
+    },
+    {
+      "id": 219,
+      "start": 1734.82,
+      "end": 1738.9,
+      "text": "am I crazy for being confused by that sentence"
+    },
+    {
+      "id": 220,
+      "start": 1738.9,
+      "end": 1746.1,
+      "text": "um fully exposed female presenting okay that's oh that's you read it is not"
+    },
+    {
+      "id": 221,
+      "start": 1746.1,
+      "end": 1749.14,
+      "text": "a lot it's now allowed"
+    },
+    {
+      "id": 222,
+      "start": 1749.14,
+      "end": 1754.5,
+      "text": "oh okay so that's allowed now that's good go with that flies"
+    },
+    {
+      "id": 223,
+      "start": 1754.58,
+      "end": 1757.94,
+      "text": "uh yeah so I guess we can't get banned for showing off our chest earlier"
+    },
+    {
+      "id": 224,
+      "start": 1757.94,
+      "end": 1764.9,
+      "text": "then this boy's coming back out oh yeah finally let this chest breathe here we go"
+    },
+    {
+      "id": 225,
+      "start": 1764.9,
+      "end": 1769.3,
+      "text": "whoo it's good to be free I mean I do agree I think it's I'm right there with"
+    },
+    {
+      "id": 226,
+      "start": 1769.3,
+      "end": 1773.3,
+      "text": "you all right so anyway fully allowed now"
+    },
+    {
+      "id": 227,
+      "start": 1773.3,
+      "end": 1776.74,
+      "text": "exposed female presenting breasts and or genitals or buttocks regardless of"
+    },
+    {
+      "id": 228,
+      "start": 1776.74,
+      "end": 1782.26,
+      "text": "gender so you can expose your genitals on twitch"
+    },
+    {
+      "id": 229,
+      "start": 1782.26,
+      "end": 1788.1,
+      "text": "I'm I would be surprised I don't think you can just be naked on twitch"
+    },
+    {
+      "id": 230,
+      "start": 1788.1,
+      "end": 1792.34,
+      "text": "with a label include fiction oh fictionalized"
+    },
+    {
+      "id": 231,
+      "start": 1792.34,
+      "end": 1796.58,
+      "text": "okay now fictionalized it's confusing me I'm also you need to not be one of us"
+    },
+    {
+      "id": 232,
+      "start": 1796.58,
+      "end": 1800.1,
+      "text": "needs to not be confused so that's I you know what"
+    },
+    {
+      "id": 233,
+      "start": 1800.1,
+      "end": 1803.94,
+      "text": "so last night during the patreon we went and did a similar thing we"
+    },
+    {
+      "id": 234,
+      "start": 1803.94,
+      "end": 1806.74,
+      "text": "browsed the just chat and create a category of twitch"
+    },
+    {
+      "id": 235,
+      "start": 1806.74,
+      "end": 1812.5,
+      "text": "and there were totally nude cartoon streamers there were a bunch of like"
+    },
+    {
+      "id": 236,
+      "start": 1812.5,
+      "end": 1816.1,
+      "text": "hentai streamers basically which I can't show you"
+    },
+    {
+      "id": 237,
+      "start": 1816.1,
+      "end": 1823.3,
+      "text": "or I can show you I guess I'd have to label my stream as sexual"
+    },
+    {
+      "id": 238,
+      "start": 1823.3,
+      "end": 1826.42,
+      "text": "which honestly maybe I should given the stories I cover"
+    },
+    {
+      "id": 239,
+      "start": 1826.42,
+      "end": 1832.1,
+      "text": "I mean that's probably fair and maybe I will do that uh"
+    },
+    {
+      "id": 240,
+      "start": 1832.1,
+      "end": 1836.58,
+      "text": "I guess we could show you that if it was made if if my stream was appropriately"
+    },
+    {
+      "id": 241,
+      "start": 1836.58,
+      "end": 1839.3,
+      "text": "labeled label it up and let's look at some hot"
+    },
+    {
+      "id": 242,
+      "start": 1839.3,
+      "end": 1843.86,
+      "text": "tunes I don't like it when you say that"
+    },
+    {
+      "id": 243,
+      "start": 1843.86,
+      "end": 1848.02,
+      "text": "I mean I'm just following guidelines it means totally this is from the destructive"
+    },
+    {
+      "id": 244,
+      "start": 1848.02,
+      "end": 1851.7,
+      "text": "one it means totally nude anime cartoon generals are fair game"
+    },
+    {
+      "id": 245,
+      "start": 1851.7,
+      "end": 1856.18,
+      "text": "without being labeled as sexual content oh real nudity"
+    },
+    {
+      "id": 246,
+      "start": 1856.18,
+      "end": 1861.83,
+      "text": "gets a label so you can do real nudity with a label"
+    },
+    {
+      "id": 247,
+      "start": 1861.83,
+      "end": 1870.29,
+      "text": "I would be surprised I'm gonna just look up nudity really quick on twitch"
+    },
+    {
+      "id": 248,
+      "start": 1870.29,
+      "end": 1872.85,
+      "text": "that doesn't seem to bring anything up currently"
+    },
+    {
+      "id": 249,
+      "start": 1872.85,
+      "end": 1876.13,
+      "text": "not that it necessarily is is how that would be labeled"
+    },
+    {
+      "id": 250,
+      "start": 1876.13,
+      "end": 1882.61,
+      "text": "how is this lady have her thing labeled um sexual content policy changes and"
+    },
+    {
+      "id": 251,
+      "start": 1882.61,
+      "end": 1886.13,
+      "text": "she's got english e-girl redhead bikini pool hot tub female"
+    },
+    {
+      "id": 252,
+      "start": 1886.13,
+      "end": 1891.57,
+      "text": "gamer girl ccl I don't know what ccl is sexual themes"
+    },
+    {
+      "id": 253,
+      "start": 1891.57,
+      "end": 1895.49,
+      "text": "let's check out what does ccl mean I should know but I"
+    },
+    {
+      "id": 254,
+      "start": 1895.49,
+      "end": 1906.76,
+      "text": "do not know what that means ccl oh okay the sexual themes category"
+    },
+    {
+      "id": 255,
+      "start": 1906.76,
+      "end": 1910.84,
+      "text": "is also not that not that populated well I guess you could necessarily you could"
+    },
+    {
+      "id": 256,
+      "start": 1910.84,
+      "end": 1915.4,
+      "text": "potentially tag it any way you want but I do see some cartoon boobs on here"
+    },
+    {
+      "id": 257,
+      "start": 1915.4,
+      "end": 1919.32,
+      "text": "we're not sure if we've appropriately labeled anything so we can't show you"
+    },
+    {
+      "id": 258,
+      "start": 1919.32,
+      "end": 1922.12,
+      "text": "these cartoon boobs that we're currently staring at but I would just like to"
+    },
+    {
+      "id": 259,
+      "start": 1922.12,
+      "end": 1925.88,
+      "text": "confirm that there are cartoon boobs on twitch"
+    },
+    {
+      "id": 260,
+      "start": 1925.88,
+      "end": 1931.16,
+      "text": "cartoon boobs on twitch confirmed and legal it's a beautiful day"
+    },
+    {
+      "id": 261,
+      "start": 1931.16,
+      "end": 1935.08,
+      "text": "the sound get the ewoks out in the woods have them start dancing"
+    },
+    {
+      "id": 262,
+      "start": 1935.08,
+      "end": 1940.68,
+      "text": "it's time to celebrate victory for the empire no it was the rebels"
+    },
+    {
+      "id": 263,
+      "start": 1940.76,
+      "end": 1944.52,
+      "text": "I lost track of the analogy then okay let's finish this story"
+    },
+    {
+      "id": 264,
+      "start": 1944.52,
+      "end": 1950.4,
+      "text": "um that's not all certain dances such as twerking grinding and pole dancing"
+    },
+    {
+      "id": 265,
+      "start": 1950.4,
+      "end": 1953.04,
+      "text": "are now allowed to stream on twitch without a label"
+    },
+    {
+      "id": 266,
+      "start": 1953.04,
+      "end": 1956.16,
+      "text": "and broadcast that are labeled with drugs intoxication"
+    },
+    {
+      "id": 267,
+      "start": 1956.16,
+      "end": 1961.68,
+      "text": "or excessive tobacco use violence and graphic depictions gambling and or sexual"
+    },
+    {
+      "id": 268,
+      "start": 1961.68,
+      "end": 1965.44,
+      "text": "themes will no longer be allowed on twitch's home page"
+    },
+    {
+      "id": 269,
+      "start": 1965.44,
+      "end": 1968.56,
+      "text": "okay that actually seems to kind of address a lot of the things that you"
+    },
+    {
+      "id": 270,
+      "start": 1968.56,
+      "end": 1971.92,
+      "text": "were complaining about I wasn't complaining"
+    },
+    {
+      "id": 271,
+      "start": 1971.92,
+      "end": 1975.76,
+      "text": "uh cv loves you thank you for the sub"
+    },
+    {
+      "id": 272,
+      "start": 1975.76,
+      "end": 1979.44,
+      "text": "at 60 subs this becomes a sexual content stream what"
+    },
+    {
+      "id": 273,
+      "start": 1979.44,
+      "end": 1981.84,
+      "text": "what does that mean I don't that's actually not that's not a goal I'm"
+    },
+    {
+      "id": 274,
+      "start": 1981.84,
+      "end": 1985.2,
+      "text": "sorry I lied stop lying all the time"
+    },
+    {
+      "id": 275,
+      "start": 1985.2,
+      "end": 1989.2,
+      "text": "this marks a major shift for twitch's policies on such content while responses"
+    },
+    {
+      "id": 276,
+      "start": 1989.2,
+      "end": 1992.32,
+      "text": "currently appear to be mixed many viewers are happy about the changes"
+    },
+    {
+      "id": 277,
+      "start": 1992.32,
+      "end": 1995.92,
+      "text": "coming to the site's home page regardless"
+    },
+    {
+      "id": 278,
+      "start": 1995.92,
+      "end": 1998.96,
+      "text": "and phantom spaceman says I guess it's kind of the same reason I don't go to"
+    },
+    {
+      "id": 279,
+      "start": 1998.96,
+      "end": 2001.44,
+      "text": "strip clubs don't mind the nudity at all but"
+    },
+    {
+      "id": 280,
+      "start": 2001.44,
+      "end": 2004.32,
+      "text": "don't want to sit in a room with a bunch of disgusting men"
+    },
+    {
+      "id": 281,
+      "start": 2004.32,
+      "end": 2007.6,
+      "text": "with hard-ons so you don't even want to just know that there's a"
+    },
+    {
+      "id": 282,
+      "start": 2007.6,
+      "end": 2010.72,
+      "text": "bunch of disgusting men in other rooms with hard-ons"
+    },
+    {
+      "id": 283,
+      "start": 2010.72,
+      "end": 2014.8,
+      "text": "I can relate I mean something about chatting with your boys while"
+    },
+    {
+      "id": 284,
+      "start": 2014.8,
+      "end": 2019.68,
+      "text": "ogling a streamer I'm not I'm not saying it's terribly"
+    },
+    {
+      "id": 285,
+      "start": 2019.68,
+      "end": 2022.72,
+      "text": "immoral or anything I just don't know if that's how I"
+    },
+    {
+      "id": 286,
+      "start": 2022.72,
+      "end": 2028.24,
+      "text": "am dying to spend my free time you don't ever want to just chat with the"
+    },
+    {
+      "id": 287,
+      "start": 2028.24,
+      "end": 2037.22,
+      "text": "boys while scoping out half a boob no you're"
+    },
+    {
+      "id": 288,
+      "start": 2037.22,
+      "end": 2041.14,
+      "text": "missing out me and the fellas we get up we go"
+    },
+    {
+      "id": 289,
+      "start": 2041.38,
+      "end": 2046.1,
+      "text": "we go to a whiskey taste testing we go on a whiskey taste test"
+    },
+    {
+      "id": 290,
+      "start": 2046.1,
+      "end": 2050.66,
+      "text": "tour what then we um"
+    },
+    {
+      "id": 291,
+      "start": 2050.66,
+      "end": 2054.98,
+      "text": "then we do and then we do axe throwing okay and then"
+    },
+    {
+      "id": 292,
+      "start": 2054.98,
+      "end": 2058.42,
+      "text": "we sit down in a strip club where a woman holds a board"
+    },
+    {
+      "id": 293,
+      "start": 2058.42,
+      "end": 2063.86,
+      "text": "just below her nipples and we chat at her that's what we do irl that's"
+    },
+    {
+      "id": 294,
+      "start": 2063.86,
+      "end": 2068.34,
+      "text": "traditional traditional masculinity and now it's been put on the internet"
+    },
+    {
+      "id": 295,
+      "start": 2068.42,
+      "end": 2071.3,
+      "text": "I don't I think you're the only person who does that chat"
+    },
+    {
+      "id": 296,
+      "start": 2071.3,
+      "end": 2075.7,
+      "text": "you're not chat I'm not don't confuse us sorry Jeff"
+    },
+    {
+      "id": 297,
+      "start": 2075.7,
+      "end": 2080.26,
+      "text": "I'm totally different you are reasonably different"
+    },
+    {
+      "id": 298,
+      "start": 2080.26,
+      "end": 2082.74,
+      "text": "I'm different"
+    },
+    {
+      "id": 299,
+      "start": 2083.78,
+      "end": 2087.62,
+      "text": "Catalina wine mixture okay that's the end of the story"
+    },
+    {
+      "id": 300,
+      "start": 2087.62,
+      "end": 2092.02,
+      "text": "keep it locked to dick no I won't read your ad"
+    },
+    {
+      "id": 301,
+      "start": 2092.02,
+      "end": 2095.14,
+      "text": "hmm all right well I for one and let's just get this on"
+    },
+    {
+      "id": 302,
+      "start": 2095.14,
+      "end": 2098.66,
+      "text": "let's just get this on the screen I for one support"
+    },
+    {
+      "id": 303,
+      "start": 2098.66,
+      "end": 2104.1,
+      "text": "Victoria and all the streamers like her that just wanna"
+    },
+    {
+      "id": 304,
+      "start": 2104.1,
+      "end": 2108.82,
+      "text": "hang out with their nipple just out of frame there's no greater feeling"
+    },
+    {
+      "id": 305,
+      "start": 2108.82,
+      "end": 2112.58,
+      "text": "you'd be shocked how few streamers are wearing pants"
+    },
+    {
+      "id": 306,
+      "start": 2112.58,
+      "end": 2119.38,
+      "text": "practically none of them and including me no underwear no pants fully nude from"
+    },
+    {
+      "id": 307,
+      "start": 2119.38,
+      "end": 2122.5,
+      "text": "the waist down I Jeff I didn't know that man"
+    },
+    {
+      "id": 308,
+      "start": 2122.5,
+      "end": 2127.86,
+      "text": "I don't look down and that's I'm gonna keep enforcing that policy"
+    },
+    {
+      "id": 309,
+      "start": 2127.86,
+      "end": 2132.82,
+      "text": "just know my hogs out down here why man wear pants to work"
+    },
+    {
+      "id": 310,
+      "start": 2132.82,
+      "end": 2137.22,
+      "text": "I'm in favor of of uh sexual freedom buddy but come on"
+    },
+    {
+      "id": 311,
+      "start": 2137.22,
+      "end": 2142.26,
+      "text": "this is a this is a place of news I should have to tell you that you're"
+    },
+    {
+      "id": 312,
+      "start": 2142.26,
+      "end": 2147.62,
+      "text": "right I've let myself slide"
+    },
+    {
+      "id": 313,
+      "start": 2147.62,
+      "end": 2152.18,
+      "text": "due to the lax networks of this standards of this network"
+    },
+    {
+      "id": 314,
+      "start": 2152.18,
+      "end": 2156.5,
+      "text": "and I just want to say I didn't realize that not wearing pants makes me better"
+    },
+    {
+      "id": 315,
+      "start": 2156.5,
+      "end": 2161.3,
+      "text": "at news and I refuse to ever wear them all right fine just at least"
+    },
+    {
+      "id": 316,
+      "start": 2161.3,
+      "end": 2165.22,
+      "text": "wear like a patch anyway for the record"
+    },
+    {
+      "id": 317,
+      "start": 2165.22,
+      "end": 2168.58,
+      "text": "my dong is always out on this network and you can't see it and it doesn't"
+    },
+    {
+      "id": 318,
+      "start": 2168.58,
+      "end": 2172.98,
+      "text": "cause any problems and mine's not for the record"
+    },
+    {
+      "id": 319,
+      "start": 2172.98,
+      "end": 2177.78,
+      "text": "mine's not okay we got an expert we got a call for an expert"
+    },
+    {
+      "id": 320,
+      "start": 2177.78,
+      "end": 2183.84,
+      "text": "to save me from jeff's penis being out"
+    },
+    {
+      "id": 321,
+      "start": 2183.84,
+      "end": 2191.78,
+      "text": "what the heck where is it uh can we speak to steve hog hog"
+    },
+    {
+      "id": 322,
+      "start": 2191.78,
+      "end": 2195.94,
+      "text": "can we speak to steve hog hog oh steve hog hog the hog expert"
+    },
+    {
+      "id": 323,
+      "start": 2195.94,
+      "end": 2203.14,
+      "text": "I'm a huge fan big fan of steve hog hog so yeah I mean I'll make way for him"
+    },
+    {
+      "id": 324,
+      "start": 2203.14,
+      "end": 2208.5,
+      "text": "listen um sometimes when you're nude"
+    },
+    {
+      "id": 325,
+      "start": 2208.58,
+      "end": 2212.58,
+      "text": "the body is the story and if that body"
+    },
+    {
+      "id": 326,
+      "start": 2212.58,
+      "end": 2219.94,
+      "text": "jumps in a pot in a pond of context it creates a ripple"
+    },
+    {
+      "id": 327,
+      "start": 2219.94,
+      "end": 2224.34,
+      "text": "of facts and I've been riding that ripple all day"
+    },
+    {
+      "id": 328,
+      "start": 2224.34,
+      "end": 2230.45,
+      "text": "I'm jeff ripple I'm getting better and better"
+    },
+    {
+      "id": 329,
+      "start": 2230.45,
+      "end": 2237.56,
+      "text": "why do they all think they're so good at sign-offs jeff our abs body ripples"
+    },
+    {
+      "id": 330,
+      "start": 2237.56,
+      "end": 2242.04,
+      "text": "yes oh you got over there so fast I move quick"
+    },
+    {
+      "id": 331,
+      "start": 2242.2,
+      "end": 2245.72,
+      "text": "steve hog would be an expert journalist whenever ben has a penis story"
+    },
+    {
+      "id": 332,
+      "start": 2245.72,
+      "end": 2248.6,
+      "text": "oh shit he's gonna be moving in on chet's territory"
+    },
+    {
+      "id": 333,
+      "start": 2248.6,
+      "end": 2252.76,
+      "text": "what the fuck you're trying to sell me out"
+    },
+    {
+      "id": 334,
+      "start": 2252.76,
+      "end": 2257.24,
+      "text": "um I'm a masculinity expert that includes"
+    },
+    {
+      "id": 335,
+      "start": 2257.24,
+      "end": 2265.96,
+      "text": "hogs yeah but lilyana's our kink expert well kinks aren't necessarily a hog"
+    },
+    {
+      "id": 336,
+      "start": 2265.96,
+      "end": 2270.2,
+      "text": "you know a hog can be independent of a kink well is a hog"
+    },
+    {
+      "id": 337,
+      "start": 2270.2,
+      "end": 2276.28,
+      "text": "oh is masculine I don't I don't think so I think a hog can be feminine"
+    },
+    {
+      "id": 338,
+      "start": 2276.28,
+      "end": 2281.96,
+      "text": "why is everybody here today because it's your birthday it's not my"
+    },
+    {
+      "id": 339,
+      "start": 2281.96,
+      "end": 2287.48,
+      "text": "birthday oh oh our bad"
+    },
+    {
+      "id": 340,
+      "start": 2287.48,
+      "end": 2292.9,
+      "text": "well this is all we planned anyway okay fair enough"
+    },
+    {
+      "id": 341,
+      "start": 2292.9,
+      "end": 2296.58,
+      "text": "anyway talk to jeff hog but I am the masculinity expert"
+    },
+    {
+      "id": 342,
+      "start": 2296.58,
+      "end": 2300.58,
+      "text": "he can be the hog expert but I will still be talking about penis stories"
+    },
+    {
+      "id": 343,
+      "start": 2300.66,
+      "end": 2304.74,
+      "text": "I'm sure you will jeff I don't I would never imply that"
+    },
+    {
+      "id": 344,
+      "start": 2304.74,
+      "end": 2311.8,
+      "text": "anyone else wants to talk about dick stories more than you"
+    },
+    {
+      "id": 345,
+      "start": 2311.8,
+      "end": 2316.44,
+      "text": "okay let me find jeff hog real quick pepito can you pull up jeff hog"
+    },
+    {
+      "id": 346,
+      "start": 2316.44,
+      "end": 2325.24,
+      "text": "um is he like a pig I don't know just find him find him quickly"
+    },
+    {
+      "id": 347,
+      "start": 2325.24,
+      "end": 2331.0,
+      "text": "please okay I'll just I'll do the pale spam smash buttons"
+    },
+    {
+      "id": 348,
+      "start": 2331.0,
+      "end": 2338.42,
+      "text": "that's what we pay you for sorry to be so harsh sorry to be so hard on my"
+    },
+    {
+      "id": 349,
+      "start": 2338.42,
+      "end": 2355.86,
+      "text": "producer um I'm looking at it okay uh sure"
+    },
+    {
+      "id": 350,
+      "start": 2355.86,
+      "end": 2359.54,
+      "text": "you know uh we are not always experts on every subject here at Barely Informed"
+    },
+    {
+      "id": 351,
+      "start": 2359.54,
+      "end": 2361.86,
+      "text": "News in fact you could say we're not an expert on any of them but"
+    },
+    {
+      "id": 352,
+      "start": 2361.86,
+      "end": 2364.98,
+      "text": "fortunately due to the incredible name cache of this network I have the"
+    },
+    {
+      "id": 353,
+      "start": 2364.98,
+      "end": 2369.06,
+      "text": "ability to call for experts at will and I have just the expert in mind"
+    },
+    {
+      "id": 354,
+      "start": 2369.06,
+      "end": 2376.42,
+      "text": "courtesy of Travis Gogh uh please welcome as far as I know"
+    },
+    {
+      "id": 355,
+      "start": 2376.42,
+      "end": 2382.34,
+      "text": "the expert in hogs steve hog hog sorry I might have been calling him jeff"
+    },
+    {
+      "id": 356,
+      "start": 2382.34,
+      "end": 2386.58,
+      "text": "but his name is actually uh steve hog hog"
+    },
+    {
+      "id": 357,
+      "start": 2386.58,
+      "end": 2400.85,
+      "text": "steve thanks for having me it's a pleasure"
+    },
+    {
+      "id": 358,
+      "start": 2401.01,
+      "end": 2405.73,
+      "text": "in your arm tomorrow I mean you have any questions"
+    },
+    {
+      "id": 359,
+      "start": 2405.73,
+      "end": 2411.73,
+      "text": "whoa are you okay man you know what is the matter"
+    },
+    {
+      "id": 360,
+      "start": 2411.73,
+      "end": 2423.84,
+      "text": "kill it with fire who where what um thanks for being with us jeff uh"
+    },
+    {
+      "id": 361,
+      "start": 2423.84,
+      "end": 2428.56,
+      "text": "twitch has updated its sexual content guidelines to allow nudity"
+    },
+    {
+      "id": 362,
+      "start": 2428.56,
+      "end": 2436.24,
+      "text": "of fictional characters and um seems to be allowing content"
+    },
+    {
+      "id": 363,
+      "start": 2436.24,
+      "end": 2441.28,
+      "text": "themed to sexual to openly more openly exist which I think is positive change"
+    },
+    {
+      "id": 364,
+      "start": 2441.28,
+      "end": 2445.44,
+      "text": "as a hog expert do you feel like hogs should be"
+    },
+    {
+      "id": 365,
+      "start": 2445.44,
+      "end": 2450.88,
+      "text": "allowed to be freely on display I am totally in favor of giving hogs as much"
+    },
+    {
+      "id": 366,
+      "start": 2450.88,
+      "end": 2458.48,
+      "text": "room as they want let them graze okay I think you are"
+    },
+    {
+      "id": 367,
+      "start": 2458.48,
+      "end": 2462.64,
+      "text": "talking about the animal yeah the big meaty"
+    },
+    {
+      "id": 368,
+      "start": 2462.64,
+      "end": 2471.11,
+      "text": "sweaty animal okay um is this labeled properly is your stream"
+    },
+    {
+      "id": 369,
+      "start": 2471.11,
+      "end": 2476.63,
+      "text": "labeled as a hog stream um no that's against"
+    },
+    {
+      "id": 370,
+      "start": 2476.63,
+      "end": 2482.5,
+      "text": "definition what is you mean the food and drug"
+    },
+    {
+      "id": 371,
+      "start": 2482.5,
+      "end": 2487.7,
+      "text": "administration not a fucked up dick assembly oh you are"
+    },
+    {
+      "id": 372,
+      "start": 2487.7,
+      "end": 2491.3,
+      "text": "talking about penis hogs oh that's what I've been"
+    },
+    {
+      "id": 373,
+      "start": 2491.3,
+      "end": 2497.43,
+      "text": "talking about the whole time I'm a hog expert"
+    },
+    {
+      "id": 374,
+      "start": 2497.43,
+      "end": 2501.19,
+      "text": "just listening this guy makes my throat feel weird meat sweats"
+    },
+    {
+      "id": 375,
+      "start": 2501.19,
+      "end": 2508.87,
+      "text": "yeah you have to write appropriate ventilation for your members"
+    },
+    {
+      "id": 376,
+      "start": 2508.87,
+      "end": 2512.71,
+      "text": "sorry I have a cold um steve hog or jeff"
+    },
+    {
+      "id": 377,
+      "start": 2512.71,
+      "end": 2519.43,
+      "text": "did I what's your name steve hog sorry steve uh are your eyes looking"
+    },
+    {
+      "id": 378,
+      "start": 2519.43,
+      "end": 2522.55,
+      "text": "can I just say this is not a quest this is our viewers want to know and I"
+    },
+    {
+      "id": 379,
+      "start": 2522.55,
+      "end": 2526.71,
+      "text": "understand if this question comes off is a little rude steve but"
+    },
+    {
+      "id": 380,
+      "start": 2526.71,
+      "end": 2530.63,
+      "text": "are your eyes looking in different directions yes"
+    },
+    {
+      "id": 381,
+      "start": 2530.63,
+      "end": 2536.21,
+      "text": "oh it's to better observe hogs from all angles"
+    },
+    {
+      "id": 382,
+      "start": 2536.21,
+      "end": 2540.61,
+      "text": "like from the side I like to get a good shine eye on the hog if there's"
+    },
+    {
+      "id": 383,
+      "start": 2540.61,
+      "end": 2545.17,
+      "text": "double hog and I get to see both at once"
+    },
+    {
+      "id": 384,
+      "start": 2545.17,
+      "end": 2554.04,
+      "text": "okay um steve hog can we get a zoom in on you"
+    },
+    {
+      "id": 385,
+      "start": 2554.04,
+      "end": 2559.94,
+      "text": "have I got closer to your camera everybody"
+    },
+    {
+      "id": 386,
+      "start": 2559.94,
+      "end": 2571.68,
+      "text": "babe I know you're all big steve hog fans you want to get a closer look"
+    },
+    {
+      "id": 387,
+      "start": 2571.68,
+      "end": 2579.06,
+      "text": "I'm gonna sit back a little steve is a puppy expert next"
+    },
+    {
+      "id": 388,
+      "start": 2579.06,
+      "end": 2583.62,
+      "text": "you're already bored with me uh it's just a question"
+    },
+    {
+      "id": 389,
+      "start": 2583.62,
+      "end": 2587.78,
+      "text": "let's get one more out of chat here smell because we don't want to eat"
+    },
+    {
+      "id": 390,
+      "start": 2587.78,
+      "end": 2590.58,
+      "text": "steve hog if you smell bacon that means you're"
+    },
+    {
+      "id": 391,
+      "start": 2590.58,
+      "end": 2599.08,
+      "text": "eating his family what's there nothing steve this is a nightmare yeah"
+    },
+    {
+      "id": 392,
+      "start": 2599.08,
+      "end": 2603.0,
+      "text": "wait one is being on the nose is stressful and"
+    },
+    {
+      "id": 393,
+      "start": 2603.0,
+      "end": 2608.12,
+      "text": "does sometimes get me bad dreams um okay"
+    },
+    {
+      "id": 394,
+      "start": 2608.12,
+      "end": 2612.12,
+      "text": "you demand a puppy expert I'm sorry but we can only demand like one expert an hour"
+    },
+    {
+      "id": 395,
+      "start": 2612.12,
+      "end": 2617.72,
+      "text": "otherwise pipito gets overwork oh we gotta vote on pipito by the way he's been"
+    },
+    {
+      "id": 396,
+      "start": 2617.72,
+      "end": 2623.01,
+      "text": "he's been the longest running producer by a mile"
+    },
+    {
+      "id": 397,
+      "start": 2623.09,
+      "end": 2627.41,
+      "text": "in our case is brother any hog question all right I missed one"
+    },
+    {
+      "id": 398,
+      "start": 2627.41,
+      "end": 2631.41,
+      "text": "um how many teats does steve hog"
+    },
+    {
+      "id": 399,
+      "start": 2631.41,
+      "end": 2639.48,
+      "text": "have um I've never felt it here this is allowed on twitch now"
+    },
+    {
+      "id": 400,
+      "start": 2639.48,
+      "end": 2646.52,
+      "text": "I can I can check my teats live um as far as I know you can check your teats live"
+    },
+    {
+      "id": 401,
+      "start": 2646.52,
+      "end": 2659.89,
+      "text": "sir okay um let me see"
+    },
+    {
+      "id": 402,
+      "start": 2668.37,
+      "end": 2673.25,
+      "text": "11 12 oh they're going still okay that's another"
+    },
+    {
+      "id": 403,
+      "start": 2673.25,
+      "end": 2679.89,
+      "text": "six we're at 17 oh that's 25 in one scrape of my belly okay"
+    },
+    {
+      "id": 404,
+      "start": 2679.89,
+      "end": 2687.49,
+      "text": "oh and there's a bunch on my back okay 33 and let's go up a little 48"
+    },
+    {
+      "id": 405,
+      "start": 2687.49,
+      "end": 2693.57,
+      "text": "okay let's go back down caress the buttocks oh there's a solid 10 there 58"
+    },
+    {
+      "id": 406,
+      "start": 2693.57,
+      "end": 2697.89,
+      "text": "and just to get the thighs really quick okay my estimate"
+    },
+    {
+      "id": 407,
+      "start": 2697.89,
+      "end": 2708.28,
+      "text": "is 236 you sure those are all teats they were all leaking milk"
+    },
+    {
+      "id": 408,
+      "start": 2708.28,
+      "end": 2716.07,
+      "text": "Jesus Christ I don't know if I needed to know all that Jeff"
+    },
+    {
+      "id": 409,
+      "start": 2716.07,
+      "end": 2723.19,
+      "text": "no counting your moles believe me I wish they were moles"
+    },
+    {
+      "id": 410,
+      "start": 2723.19,
+      "end": 2731.67,
+      "text": "okay um last question steve any Christmas plans I plan to sacrifice"
+    },
+    {
+      "id": 411,
+      "start": 2731.67,
+      "end": 2735.43,
+      "text": "myself at the altar of consumption and become a Christmas"
+    },
+    {
+      "id": 412,
+      "start": 2735.43,
+      "end": 2739.99,
+      "text": "ham oh my god don't steve don't don't kill yourself there's so much to live for"
+    },
+    {
+      "id": 413,
+      "start": 2739.99,
+      "end": 2745.35,
+      "text": "it's not a sd it's a willing sacrifice at the altar of"
+    },
+    {
+      "id": 414,
+      "start": 2745.35,
+      "end": 2753.27,
+      "text": "taste and consumption I'm in bread to be feasted upon eat my hog oh my god I'm"
+    },
+    {
+      "id": 415,
+      "start": 2753.27,
+      "end": 2756.63,
+      "text": "sorry I didn't know steve was part of a"
+    },
+    {
+      "id": 416,
+      "start": 2756.63,
+      "end": 2761.67,
+      "text": "capitalistic death cult it's just a way of the world why if you don't want to"
+    },
+    {
+      "id": 417,
+      "start": 2761.67,
+      "end": 2766.95,
+      "text": "eat pigs then look at this face and feel the guilt"
+    },
+    {
+      "id": 418,
+      "start": 2767.03,
+      "end": 2770.63,
+      "text": "or enter the realm of spirit eating them with me"
+    },
+    {
+      "id": 419,
+      "start": 2770.63,
+      "end": 2776.87,
+      "text": "steve hog okay this is taking a weird turn steve this is not what I brought you"
+    },
+    {
+      "id": 420,
+      "start": 2776.87,
+      "end": 2782.31,
+      "text": "on for feast upon me um"
+    },
+    {
+      "id": 421,
+      "start": 2782.31,
+      "end": 2789.27,
+      "text": "just know when you're eating a hog this is not your thing oh boy"
+    },
+    {
+      "id": 422,
+      "start": 2789.27,
+      "end": 2796.5,
+      "text": "you have a lot of teeth for a pig that's not a normal amount of teeth"
+    },
+    {
+      "id": 423,
+      "start": 2796.5,
+      "end": 2801.62,
+      "text": "okay well steve thanks so much for being here um for clarifying"
+    },
+    {
+      "id": 424,
+      "start": 2801.62,
+      "end": 2805.46,
+      "text": "I'm not sure what you clarified but thanks for being here happy to help any"
+    },
+    {
+      "id": 425,
+      "start": 2805.46,
+      "end": 2810.42,
+      "text": "questions at all about hogs I'll be waiting until Christmas and then that's"
+    },
+    {
+      "id": 426,
+      "start": 2810.42,
+      "end": 2820.64,
+      "text": "over for me sorry everybody you know it's"
+    },
+    {
+      "id": 427,
+      "start": 2820.64,
+      "end": 2824.64,
+      "text": "important to get a variety of perspectives and sometimes you have to"
+    },
+    {
+      "id": 428,
+      "start": 2824.64,
+      "end": 2830.24,
+      "text": "ask steve hog because what's the hog perspective"
+    },
+    {
+      "id": 429,
+      "start": 2830.24,
+      "end": 2834.08,
+      "text": "and it wasn't the it wasn't the best perspective"
+    },
+    {
+      "id": 430,
+      "start": 2834.08,
+      "end": 2839.84,
+      "text": "but it was one of them can we vote on making pipita tenure producer who"
+    },
+    {
+      "id": 431,
+      "start": 2839.84,
+      "end": 2844.24,
+      "text": "supervises new producers that could be we'll do a three tiered vote right"
+    },
+    {
+      "id": 432,
+      "start": 2844.24,
+      "end": 2849.6,
+      "text": "before I go play lethal company in like three minutes"
+    },
+    {
+      "id": 433,
+      "start": 2849.6,
+      "end": 2855.32,
+      "text": "is Fiona already on Fiona might already be playing let me text the reason I was"
+    },
+    {
+      "id": 434,
+      "start": 2855.32,
+      "end": 2859.48,
+      "text": "waiting is I asked uh John Madison to play with me and Kendall might also be"
+    },
+    {
+      "id": 435,
+      "start": 2859.48,
+      "end": 2869.62,
+      "text": "down Kendall you still want to play so you can't play"
+    },
+    {
+      "id": 436,
+      "start": 2869.62,
+      "end": 2873.86,
+      "text": "unclear if Kendall can play she's just yawned at me"
+    },
+    {
+      "id": 437,
+      "start": 2873.86,
+      "end": 2882.07,
+      "text": "leave the company's already going yeah okay um are they mid oh they just died"
+    },
+    {
+      "id": 438,
+      "start": 2882.07,
+      "end": 2885.67,
+      "text": "no they didn't die the things they'll have to quit and remake"
+    },
+    {
+      "id": 439,
+      "start": 2885.67,
+      "end": 2890.39,
+      "text": "to let me on which I don't want to fuck with their game too much"
+    },
+    {
+      "id": 440,
+      "start": 2890.39,
+      "end": 2894.31,
+      "text": "but I was planning to hop in around this point"
+    },
+    {
+      "id": 441,
+      "start": 2894.31,
+      "end": 2900.07,
+      "text": "how many are there there's already five people in there"
+    },
+    {
+      "id": 442,
+      "start": 2900.07,
+      "end": 2903.35,
+      "text": "John Madden yeah I've I'm kind of close with John Madden oh good they're in"
+    },
+    {
+      "id": 443,
+      "start": 2903.35,
+      "end": 2905.91,
+      "text": "they're about to end one of their runs so that would be a good time for me to"
+    },
+    {
+      "id": 444,
+      "start": 2905.91,
+      "end": 2924.4,
+      "text": "hop on I'll text V great okay"
+    },
+    {
+      "id": 445,
+      "start": 2924.4,
+      "end": 2926.8,
+      "text": "you know part of the reason I wanted to the news today was to figure out if"
+    },
+    {
+      "id": 446,
+      "start": 2926.8,
+      "end": 2930.8,
+      "text": "crumb even came to work but I guess we'll have to save that for"
+    },
+    {
+      "id": 447,
+      "start": 2930.8,
+      "end": 2936.08,
+      "text": "tomorrow sorry to cliffhanger you I wonder if he quit"
+    },
+    {
+      "id": 448,
+      "start": 2936.08,
+      "end": 2941.83,
+      "text": "he was really threatening to quit but does he have the"
+    },
+    {
+      "id": 449,
+      "start": 2941.83,
+      "end": 2945.03,
+      "text": "does he really think he's going to work again in this town if he betrays me"
+    },
+    {
+      "id": 450,
+      "start": 2945.03,
+      "end": 2950.63,
+      "text": "god damn man you are the worst boss sorry you don't like it chat go work"
+    },
+    {
+      "id": 451,
+      "start": 2950.63,
+      "end": 2956.87,
+      "text": "somewhere else this is what we put up with you just"
+    },
+    {
+      "id": 452,
+      "start": 2956.87,
+      "end": 2960.63,
+      "text": "so you know these are the conditions that we work under but we do you know"
+    },
+    {
+      "id": 453,
+      "start": 2960.63,
+      "end": 2964.63,
+      "text": "maybe we'll unionize no you're not allowed"
+    },
+    {
+      "id": 454,
+      "start": 2964.63,
+      "end": 2969.27,
+      "text": "it'll destroy company cohesion if we need a union to mitigate"
+    },
+    {
+      "id": 455,
+      "start": 2969.43,
+      "end": 2975.27,
+      "text": "and to negotiate issues just talk to me we're a family here chat"
+    },
+    {
+      "id": 456,
+      "start": 2975.27,
+      "end": 2979.59,
+      "text": "oh okay if I formed a union with the other host it would just"
+    },
+    {
+      "id": 457,
+      "start": 2979.59,
+      "end": 2985.51,
+      "text": "hurt me okay I understand what's up channel"
+    },
+    {
+      "id": 458,
+      "start": 2985.51,
+      "end": 2992.68,
+      "text": "she's awakening okay I'm gonna switch to lethal company mode"
+    },
+    {
+      "id": 459,
+      "start": 2992.68,
+      "end": 2997.84,
+      "text": "from this whole first we also have to do the streets but I'll save that for"
+    },
+    {
+      "id": 460,
+      "start": 2997.84,
+      "end": 3001.84,
+      "text": "tomorrow too but that was I didn't forget somebody requested"
+    },
+    {
+      "id": 461,
+      "start": 3001.84,
+      "end": 3007.68,
+      "text": "all right wait are you asking me a question do you need me to"
+    },
+    {
+      "id": 462,
+      "start": 3007.68,
+      "end": 3016.52,
+      "text": "do you find a walk by the camera not everyone here is naked chat"
+    },
+    {
+      "id": 463,
+      "start": 3016.52,
+      "end": 3021.08,
+      "text": "all right I gotta I gotta switch over I gotta launch the other thing"
+    },
+    {
+      "id": 464,
+      "start": 3021.08,
+      "end": 3026.2,
+      "text": "so I don't keep them waiting for too long unless they've already bravely moved on"
+    },
+    {
+      "id": 465,
+      "start": 3026.2,
+      "end": 3030.52,
+      "text": "um let's go to space I'll be back in just a moment"
+    },
+    {
+      "id": 466,
+      "start": 3030.52,
+      "end": 3035.72,
+      "text": "in space actually in a big green area I'll be in a green room"
+    },
+    {
+      "id": 467,
+      "start": 3035.72,
+      "end": 3038.44,
+      "text": "I just"
+    }
+  ],
+  "text": "Hello everybody. Good to see you all. I've got you in the monitor now. I can see\nyou. Straight on. Destructive one. Skimer, Chugtug, Careless Joe, Nomad, Uncle, Phil,\n2k. Let me know. I'm getting this real close to my face. You guys got to tell\nme if it's too unsettling having chat. Straight in a teleprompter. Too much?\nIt's possibly too much. Stare deeper inside. Bring this back in. See how, see how\ndeep I can go. Hello Matt. Good to see you. I also updated the chat down here to not\nhave a box. These are the kinds of insane upgrades I'm making to the screen\nstream. Upgrades. It's more newsy. You can't deny that in the news they use\nteleprompters. You're on vacation S1000? That is good. Did you get an Elgato\nteleprompter? I did. It took a while to get here. I guess it's like, it's popular.\nEverybody wants one. But I got one. And now there's no stopping.\nIt is also brand spanking new. I ordered it because it people were saying it's\nit's good and honestly so far if you for some reason want a teleprompter I\ndo think it's pretty good. If you ever have need in your life for a\nteleprompter. Also it should make it easier for me if I can ever get off my\nass and do it to make YouTube videos because now I can write a script and\njust it's right here. It's so cool it makes me want to read the news but also\ncamera shy yeah. It is weird staring directly at this camera but it doesn't\nlook like a camera to me anymore. It looks like a screen so it's trick it's\ntricked my brain. And now all of my all of the news all of my favorite news guys\non this channel can finally stop complaining about how I don't have a\nteleprompter. Did you get it for me daddy? We got to stop calling everybody daddy\non over here. Well I'm just saying I've been asking you to get this for a\nminute. So if anyone's gonna try it out first it should be chat. No me. I'm\na news. I'm a news. We're all news men. Jeff and one woman. Does it show ads for\nchat? No. And a dog. You're forgetting the dog. I didn't forget the dog. I\njust I can't list everybody. Well I'm for one I'm happy to see you where you\nbelong right down the barrel of this camera. These eyes were made to stare\nat you. And now I finally can. You are in fact the news. Hit me up with a\nstory case. Let's see how this thing works. All right. We don't have a lot of\ntime because I have to go play lethal company later. You're why are you yelling\nat me? Sorry I didn't mean to. Hey but shout outs to CV loves you Tamtran\nand to daddy Street Marine and I worship shadow and shout outs to the subs we\ngot during as the stream was booting up Uncle Phil 2k microphone 900 with the\n750 the maniacs always dropping the 750s thank you so much and adding to\nit cheer was 113 cheer while cheer wall 113 adding 75 bits to kind indeed did\nPepito install the prompter. I don't know. Did he case. It's a good question.\nPepito. Did you install a prompter prompter for me. Don't do don't do my\nfirst struggling over there. I'm not struggling and I did not install it\nbecause I don't get buttons. I always forgot that you're a dog who doesn't\nunderstand most human concepts. Only speech and a bunch of other things but\nnot news because you don't have a good sense of time to me time is a minute\nago I was born but not even that it's all it's a flat biscuit for time is a flat\nbiscuit and I want to eat it. Alright fair enough crumbs miss oh we hit it\nit's crumbs miss time so my plan is to do the grunt grunge miss aka fox miss I\nthink I was gonna do it this weekend maybe unless a weekend stream will like\nis harder for everyone to watch so I was trying I was trying to decide if I\nshould do it Saturday or Sunday and even though we quit the network or at least\nhe quit munching crumb I mean who knows if that'll stick and what else is he\ndoing I can probably at least get him to come for fucks miss crumb hot shotting\nme who does he think he is he works for me damn it you don't own me\nnow that's true actually I'm gonna dance around a table with a bunch of divorced\nwives and sing that at you if you get too up if you get too up in my face fair\nenough Mary crumbs this one and all so anyway I could bring on crumb now then\nor we could do crumbs miss tomorrow and do it separately I mean I love to\nover celebrate Christmas a nummy emote a crummy nummy look never let him\nforget the true never forget never forget that crumb told that weird story about\nhis first orgasm being into his nummy rag what are you talking about it's a\nfair question Jeff I don't know can we do a news is there news in the world today\nI'm not jet man scape on this one cover up chat with me that's me I look look how\ngood I look everyone look how good I at how good I look that's a that's a\nthing that I say that's a different comedy newscasters catchphrase what one\nof many I think it's mine anyway what's going on in the world today twitch\nupdates sexual content guidelines amid topless meta backlash how was that\nwas that straight down the camera I think more or less I bet it looked\nincredible we'll never know did they say Jeff cripple that's offensive Jeff it's\nripple don't add a C I chat thinks you said a C or I did and either an eye pop I'm\nnot afraid unlike some people to just constantly apologize so if I did I'm\nsorry it wasn't me Sunday night at 8 p.m. Sunday at 8 that could work for\nwhatever they're Sunday at 8 it's a great time what do they want to do were\nyou paying it I'm trying to do crumbs grunge miss grunge miss crumbs miss\nalright Sunday at 8 CV loves you if CV loves you once it's Sunday at 8 I\nthink you are honor bound to do it at CV loves you preferred preferred time I\nagree courtesy of the CV let's do a Sunday at 8 8 p.m. PST the CV you get to\ndecide 8 PST 8 ET will be late as it would be earlier 8 PT will be late as\nhell for a lot of people so maybe that's like what how did time zones work I'm a\nnewsman you should know that I think it means it's it would be at 11 if your\ntime okay 8 PST is that too late for us east coasters I might I might I mean I\ndon't want to immediately go against 8 p.m. Moscow time I don't know what time\nzone that is I think it wraps back around and it evens out it's just the\nsame 8 o'clock I don't that doesn't sound right I think I'll do if it\nalso fucks with you I might do 5 PST 8 EST but CV if you can't watch it at 5 on a\nSunday then I will do a we are but your humble news servants speaking of news\nwe got to get to it I've been saying that the whole time all right well just\ncoming over 8 PST is too late that does feel a little late to me so I think I\nmight do 5 on Sunday a magical fucks miss grunge miss crumbs miss Halloween and\njust to fold it in because I said I would I'm gonna be eating messy wings who\nasked for that Tim lamp here someone actually asked for that technically\nTim did okay well I have to be there you might be there Jeff I don't know who\nknows who could stop by but if you come make sure that you dress in green\nface paint green face it's fine you're a green face is allowed in fact it's a\nfence of the actual act like it's a different thing because it's imaginary\nand fun okay I don't know the rules but yeah don't worry about it let's just\ncome over here and read the news well coming over to the desk it's Jeff\nRipper Jeff get over I'm just I take a second gotta walk from the one\ncamera to the other because there's so many camp what a huge there's so many\ncameras in here the studio is huge grunge with messy with messy wing sound\nsexy as fuck I didn't say it well you've read it I hey gay say Jeff you showing up\nstone some nips Jeff can you try that can you do the new Twitch meta do I get\na bonus we all get a bonus okay where are my nipples okay my nipples are\nbelow desk so check this out shit this is the new meta and don't ever say that\nJeffie daddy didn't give anything to you does this count wide open it's the nips\nare really close to exposure here am I in on the new meta I did it to quit you\nasked me to do it don't steal my thunder I feel like we're losing credibility we\ndid not have you've stripped me of all my credibility and now I prostrate\nmyself nude from the top from the middle of the top down just the middle\nactually just the middle of the top let's button back up alright I do feel I feel\na little silly and now I have new respect for all of our topless Twitch\nstreamers it takes a lot of confidence to almost unleash the nipple and this\nnewsman I regret it for free Jeff oh I did do it for free yeah that didn't\nearn us anything you said you'd give you a bonus I'll give you a compliment\nnice chest hair mine did look a lot better than yours they look the same\nJeff yeah but mine look mine was more appealing basically in decent news yes\nthis news is highly indecent topless streamers gross where are they so I\nknow how to avoid them just yeah I mean honestly all you have to do is go to\njust chatting on twitch and for me it's always the top recommended one in\nfact let's see if we can prove that to ourselves right now twitch.tv go to\nbrowse and just chatting Jeff check this out buddy Jeff you're gonna want to see\nthis there's none there's no it's squeaky clean maybe they already cleaned up\ntheir act okay maybe not entirely she's not topless though okay well this oh\nwow all right and then we scroll up I'm pretty sure there was a full vagina on\ndisplay there oh those are yoga pants they were just skin colored yoga pants so\nnot I actually oh okay we found one the target has been located this is our\nsexual content policy streamer of the day uh endless commercials we'll check back\nin with her after I read some of this story which I can now read directly into\nthe camera that was an Arby's ad what's the Arby's sexual content policy look I\nneed to read the news bring it real close to my face so that I can news this\nup twitch updates sexual content guidelines amid topless meta backlash as\npictured here by sexy woman barely wearing clothes twitch has updated its\nguidelines on sexual content following mass outrage that occurred as a result of\na new topless meta taking over the site over the weekend on December 8th a new\nmeta gained popularity on twitch after streamer cosplayer and only fans model\nmorgue pie went viral on social media morgue pie stream showed the\nbroadcasters seemingly topless sparking outrage across the net as to what\nkinds of content was allowed on twitch and what was allowed I mean look at what's\ngoing on right now this so why'd she get banned but this lady still got the guns\nout sons out the cannons ready to pout that's not the same I well you know I\njust out what so what's the problem here what's I'm not supposed to this is\nsupposed to upset me what is happening right now we're just I was really\nconsidering what you said Jeff I was just really thinking about it anyway\napparently they updated it and we need to we need to keep reading to figure out\nwhat happened oh okay I'll do more news that was an incredibly slow fate three\ndays later morgue pie was okay morgue pie stream showed the broadcasters\nseemingly topless sparking outrage across the net as to what kinds of content\nis allowed on twitch three days later morgue pie was banned but now twitch has\nofficially switched up its guidelines in relation to sexual content on its\nplatform making big changes for streamers okay what changes happening here\nin response to feedback from streamers regarding its guidelines switch rolled out\na massive update to its approach to sexual content in a large post well let's\nsee how large I love to click on a link okay should we just go straight to\nthe source I mean I don't know if it'll be any more exciting than this article but\nlet's give it a shot I can do that we received consistent feedback from\nstreamers that our current policies around sexual content are confusing and I am\nconfused if I'm upset or horny and that's one of my least favorite ways to\nbe confused I like to know we all do Jeff exactly okay we want streamers to\nfeel confident that they understand our rules and views to feel confident that\nthey will get the experience they expect and what experience am I expecting\nagain I games but also occasionally boobs all right I'm fine with that to\naccomplish this we are making two changes effective today\nstreamlining our policies regarding sexual content well that should contain\na bunch of changes but whatever you're better off with the article summary\nokay updating the criteria used for homepage recommendations\nand apparently this is about to be even more obtuse in the article so let's\ncontinue on with that the the large post carifies major changes one of which\nallow I hate to misspeak I know Jeff it's fine\nthough content that deliberately highlights breasts\nbuttocks and pelvic regions even when fully clothed provided that it is\nappropriately labeled and that's a loud now that's a that's a thumbs up\nthat's what's that's okay we're good to go on that I'm getting confirmation from\nthe judges show us them big furry pecs cakes\ncase daddy we just did but as much as we could\nI think you could have shown even more I don't mind the top of streamers it's\nthe dipshits who watched that are the gross pigs\nI mean I you know I don't it does feel like there's\nbetter places to get pornographic content on the internet but\nI guess as long as it's all consenting streamers\nthis aligns with one of three reasons twitch gave morgue pie\nokay sorry uh this aligns with one of three reasons which gave morgue pie for\nher ban earlier this week leaving viewers assuming that topless streams\nmight be allowed moving forward so boobies cool\nindeed Ray Silva boobies apparently unless the nipples exposed in which case\nsound the alarm everyone's going to jail every single person\nyeah I mean I you know I would not if as long as it's appropriately labeled\nand it's not on the homepage and you have to click through or you know\nwhatever age verification even though that doesn't work\nI don't think it'd be that big of a deal to me if there were\nnipples on twitch again to me it is going to that address bar and\nimmediately google up some nipples if you really want to but\nI understand that it's not necessarily what they want their platform associated\nwith it's not actually that's a good point I don't know\nthey'll now they I don't know I just don't like I don't like\neverybody being so upset over nudity it feels very silly to me\nI mean I'll take my pants off right now if you want me to okay that this is\nnot what I meant but you know I just mean in the abstract\nwell it's not abstract when there's when there's real boobs to see like here\nwhat's abstract about that you know well you know\noh what the fuck let's see if we can say the same thing at the same time\nwhat do you mean jeff let's see if we can move our mouths exactly the same\nwhat's that jeff very weird that might be something I have to get fixed\nwell look we're getting distracted I need to finish the story so that you can\nplay little baby games this aligns with what a major okay we\nread that she got banned for showing nipples even\nor not showing nipples even though that's sort of allowed now\ntWitch also admitted that it's previously out which also admitted that\nits previous outlook on this content\nwas out of line with industry standards and resulted in female presenting\nstreamers being disproportionately penalized well look at them\nadmitting it they admit it and that's\ngood or is it weak no I think it's it's fine for them to admit\nthat they've been a little weird towards female streamers\nmuch like a lot of the audience has oh he's putting the whole audience on trial\nother policies that were once prohibited and are not allowed with a label\ninclude fictionalized fully exposed female presenting breasts and or\ngenitals or buttocks regardless of gender gender\nI've been my dog wait they were once prohibited and are wait\nother policies that were once prohibited and are not allowed\nwith a label include fictionalized fully exposed female presenting breasts\nand or genitals or buttocks regardless of gender\nam I crazy for being confused by that sentence\num fully exposed female presenting okay that's oh that's you read it is not\na lot it's now allowed\noh okay so that's allowed now that's good go with that flies\nuh yeah so I guess we can't get banned for showing off our chest earlier\nthen this boy's coming back out oh yeah finally let this chest breathe here we go\nwhoo it's good to be free I mean I do agree I think it's I'm right there with\nyou all right so anyway fully allowed now\nexposed female presenting breasts and or genitals or buttocks regardless of\ngender so you can expose your genitals on twitch\nI'm I would be surprised I don't think you can just be naked on twitch\nwith a label include fiction oh fictionalized\nokay now fictionalized it's confusing me I'm also you need to not be one of us\nneeds to not be confused so that's I you know what\nso last night during the patreon we went and did a similar thing we\nbrowsed the just chat and create a category of twitch\nand there were totally nude cartoon streamers there were a bunch of like\nhentai streamers basically which I can't show you\nor I can show you I guess I'd have to label my stream as sexual\nwhich honestly maybe I should given the stories I cover\nI mean that's probably fair and maybe I will do that uh\nI guess we could show you that if it was made if if my stream was appropriately\nlabeled label it up and let's look at some hot\ntunes I don't like it when you say that\nI mean I'm just following guidelines it means totally this is from the destructive\none it means totally nude anime cartoon generals are fair game\nwithout being labeled as sexual content oh real nudity\ngets a label so you can do real nudity with a label\nI would be surprised I'm gonna just look up nudity really quick on twitch\nthat doesn't seem to bring anything up currently\nnot that it necessarily is is how that would be labeled\nhow is this lady have her thing labeled um sexual content policy changes and\nshe's got english e-girl redhead bikini pool hot tub female\ngamer girl ccl I don't know what ccl is sexual themes\nlet's check out what does ccl mean I should know but I\ndo not know what that means ccl oh okay the sexual themes category\nis also not that not that populated well I guess you could necessarily you could\npotentially tag it any way you want but I do see some cartoon boobs on here\nwe're not sure if we've appropriately labeled anything so we can't show you\nthese cartoon boobs that we're currently staring at but I would just like to\nconfirm that there are cartoon boobs on twitch\ncartoon boobs on twitch confirmed and legal it's a beautiful day\nthe sound get the ewoks out in the woods have them start dancing\nit's time to celebrate victory for the empire no it was the rebels\nI lost track of the analogy then okay let's finish this story\num that's not all certain dances such as twerking grinding and pole dancing\nare now allowed to stream on twitch without a label\nand broadcast that are labeled with drugs intoxication\nor excessive tobacco use violence and graphic depictions gambling and or sexual\nthemes will no longer be allowed on twitch's home page\nokay that actually seems to kind of address a lot of the things that you\nwere complaining about I wasn't complaining\nuh cv loves you thank you for the sub\nat 60 subs this becomes a sexual content stream what\nwhat does that mean I don't that's actually not that's not a goal I'm\nsorry I lied stop lying all the time\nthis marks a major shift for twitch's policies on such content while responses\ncurrently appear to be mixed many viewers are happy about the changes\ncoming to the site's home page regardless\nand phantom spaceman says I guess it's kind of the same reason I don't go to\nstrip clubs don't mind the nudity at all but\ndon't want to sit in a room with a bunch of disgusting men\nwith hard-ons so you don't even want to just know that there's a\nbunch of disgusting men in other rooms with hard-ons\nI can relate I mean something about chatting with your boys while\nogling a streamer I'm not I'm not saying it's terribly\nimmoral or anything I just don't know if that's how I\nam dying to spend my free time you don't ever want to just chat with the\nboys while scoping out half a boob no you're\nmissing out me and the fellas we get up we go\nwe go to a whiskey taste testing we go on a whiskey taste test\ntour what then we um\nthen we do and then we do axe throwing okay and then\nwe sit down in a strip club where a woman holds a board\njust below her nipples and we chat at her that's what we do irl that's\ntraditional traditional masculinity and now it's been put on the internet\nI don't I think you're the only person who does that chat\nyou're not chat I'm not don't confuse us sorry Jeff\nI'm totally different you are reasonably different\nI'm different\nCatalina wine mixture okay that's the end of the story\nkeep it locked to dick no I won't read your ad\nhmm all right well I for one and let's just get this on\nlet's just get this on the screen I for one support\nVictoria and all the streamers like her that just wanna\nhang out with their nipple just out of frame there's no greater feeling\nyou'd be shocked how few streamers are wearing pants\npractically none of them and including me no underwear no pants fully nude from\nthe waist down I Jeff I didn't know that man\nI don't look down and that's I'm gonna keep enforcing that policy\njust know my hogs out down here why man wear pants to work\nI'm in favor of of uh sexual freedom buddy but come on\nthis is a this is a place of news I should have to tell you that you're\nright I've let myself slide\ndue to the lax networks of this standards of this network\nand I just want to say I didn't realize that not wearing pants makes me better\nat news and I refuse to ever wear them all right fine just at least\nwear like a patch anyway for the record\nmy dong is always out on this network and you can't see it and it doesn't\ncause any problems and mine's not for the record\nmine's not okay we got an expert we got a call for an expert\nto save me from jeff's penis being out\nwhat the heck where is it uh can we speak to steve hog hog\ncan we speak to steve hog hog oh steve hog hog the hog expert\nI'm a huge fan big fan of steve hog hog so yeah I mean I'll make way for him\nlisten um sometimes when you're nude\nthe body is the story and if that body\njumps in a pot in a pond of context it creates a ripple\nof facts and I've been riding that ripple all day\nI'm jeff ripple I'm getting better and better\nwhy do they all think they're so good at sign-offs jeff our abs body ripples\nyes oh you got over there so fast I move quick\nsteve hog would be an expert journalist whenever ben has a penis story\noh shit he's gonna be moving in on chet's territory\nwhat the fuck you're trying to sell me out\num I'm a masculinity expert that includes\nhogs yeah but lilyana's our kink expert well kinks aren't necessarily a hog\nyou know a hog can be independent of a kink well is a hog\noh is masculine I don't I don't think so I think a hog can be feminine\nwhy is everybody here today because it's your birthday it's not my\nbirthday oh oh our bad\nwell this is all we planned anyway okay fair enough\nanyway talk to jeff hog but I am the masculinity expert\nhe can be the hog expert but I will still be talking about penis stories\nI'm sure you will jeff I don't I would never imply that\nanyone else wants to talk about dick stories more than you\nokay let me find jeff hog real quick pepito can you pull up jeff hog\num is he like a pig I don't know just find him find him quickly\nplease okay I'll just I'll do the pale spam smash buttons\nthat's what we pay you for sorry to be so harsh sorry to be so hard on my\nproducer um I'm looking at it okay uh sure\nyou know uh we are not always experts on every subject here at Barely Informed\nNews in fact you could say we're not an expert on any of them but\nfortunately due to the incredible name cache of this network I have the\nability to call for experts at will and I have just the expert in mind\ncourtesy of Travis Gogh uh please welcome as far as I know\nthe expert in hogs steve hog hog sorry I might have been calling him jeff\nbut his name is actually uh steve hog hog\nsteve thanks for having me it's a pleasure\nin your arm tomorrow I mean you have any questions\nwhoa are you okay man you know what is the matter\nkill it with fire who where what um thanks for being with us jeff uh\ntwitch has updated its sexual content guidelines to allow nudity\nof fictional characters and um seems to be allowing content\nthemed to sexual to openly more openly exist which I think is positive change\nas a hog expert do you feel like hogs should be\nallowed to be freely on display I am totally in favor of giving hogs as much\nroom as they want let them graze okay I think you are\ntalking about the animal yeah the big meaty\nsweaty animal okay um is this labeled properly is your stream\nlabeled as a hog stream um no that's against\ndefinition what is you mean the food and drug\nadministration not a fucked up dick assembly oh you are\ntalking about penis hogs oh that's what I've been\ntalking about the whole time I'm a hog expert\njust listening this guy makes my throat feel weird meat sweats\nyeah you have to write appropriate ventilation for your members\nsorry I have a cold um steve hog or jeff\ndid I what's your name steve hog sorry steve uh are your eyes looking\ncan I just say this is not a quest this is our viewers want to know and I\nunderstand if this question comes off is a little rude steve but\nare your eyes looking in different directions yes\noh it's to better observe hogs from all angles\nlike from the side I like to get a good shine eye on the hog if there's\ndouble hog and I get to see both at once\nokay um steve hog can we get a zoom in on you\nhave I got closer to your camera everybody\nbabe I know you're all big steve hog fans you want to get a closer look\nI'm gonna sit back a little steve is a puppy expert next\nyou're already bored with me uh it's just a question\nlet's get one more out of chat here smell because we don't want to eat\nsteve hog if you smell bacon that means you're\neating his family what's there nothing steve this is a nightmare yeah\nwait one is being on the nose is stressful and\ndoes sometimes get me bad dreams um okay\nyou demand a puppy expert I'm sorry but we can only demand like one expert an hour\notherwise pipito gets overwork oh we gotta vote on pipito by the way he's been\nhe's been the longest running producer by a mile\nin our case is brother any hog question all right I missed one\num how many teats does steve hog\nhave um I've never felt it here this is allowed on twitch now\nI can I can check my teats live um as far as I know you can check your teats live\nsir okay um let me see\n11 12 oh they're going still okay that's another\nsix we're at 17 oh that's 25 in one scrape of my belly okay\noh and there's a bunch on my back okay 33 and let's go up a little 48\nokay let's go back down caress the buttocks oh there's a solid 10 there 58\nand just to get the thighs really quick okay my estimate\nis 236 you sure those are all teats they were all leaking milk\nJesus Christ I don't know if I needed to know all that Jeff\nno counting your moles believe me I wish they were moles\nokay um last question steve any Christmas plans I plan to sacrifice\nmyself at the altar of consumption and become a Christmas\nham oh my god don't steve don't don't kill yourself there's so much to live for\nit's not a sd it's a willing sacrifice at the altar of\ntaste and consumption I'm in bread to be feasted upon eat my hog oh my god I'm\nsorry I didn't know steve was part of a\ncapitalistic death cult it's just a way of the world why if you don't want to\neat pigs then look at this face and feel the guilt\nor enter the realm of spirit eating them with me\nsteve hog okay this is taking a weird turn steve this is not what I brought you\non for feast upon me um\njust know when you're eating a hog this is not your thing oh boy\nyou have a lot of teeth for a pig that's not a normal amount of teeth\nokay well steve thanks so much for being here um for clarifying\nI'm not sure what you clarified but thanks for being here happy to help any\nquestions at all about hogs I'll be waiting until Christmas and then that's\nover for me sorry everybody you know it's\nimportant to get a variety of perspectives and sometimes you have to\nask steve hog because what's the hog perspective\nand it wasn't the it wasn't the best perspective\nbut it was one of them can we vote on making pipita tenure producer who\nsupervises new producers that could be we'll do a three tiered vote right\nbefore I go play lethal company in like three minutes\nis Fiona already on Fiona might already be playing let me text the reason I was\nwaiting is I asked uh John Madison to play with me and Kendall might also be\ndown Kendall you still want to play so you can't play\nunclear if Kendall can play she's just yawned at me\nleave the company's already going yeah okay um are they mid oh they just died\nno they didn't die the things they'll have to quit and remake\nto let me on which I don't want to fuck with their game too much\nbut I was planning to hop in around this point\nhow many are there there's already five people in there\nJohn Madden yeah I've I'm kind of close with John Madden oh good they're in\nthey're about to end one of their runs so that would be a good time for me to\nhop on I'll text V great okay\nyou know part of the reason I wanted to the news today was to figure out if\ncrumb even came to work but I guess we'll have to save that for\ntomorrow sorry to cliffhanger you I wonder if he quit\nhe was really threatening to quit but does he have the\ndoes he really think he's going to work again in this town if he betrays me\ngod damn man you are the worst boss sorry you don't like it chat go work\nsomewhere else this is what we put up with you just\nso you know these are the conditions that we work under but we do you know\nmaybe we'll unionize no you're not allowed\nit'll destroy company cohesion if we need a union to mitigate\nand to negotiate issues just talk to me we're a family here chat\noh okay if I formed a union with the other host it would just\nhurt me okay I understand what's up channel\nshe's awakening okay I'm gonna switch to lethal company mode\nfrom this whole first we also have to do the streets but I'll save that for\ntomorrow too but that was I didn't forget somebody requested\nall right wait are you asking me a question do you need me to\ndo you find a walk by the camera not everyone here is naked chat\nall right I gotta I gotta switch over I gotta launch the other thing\nso I don't keep them waiting for too long unless they've already bravely moved on\num let's go to space I'll be back in just a moment\nin space actually in a big green area I'll be in a green room\nI just",
+  "text_timestamped": "[08:39 --> 08:49] Hello everybody. Good to see you all. I've got you in the monitor now. I can see\n[08:49 --> 08:54] you. Straight on. Destructive one. Skimer, Chugtug, Careless Joe, Nomad, Uncle, Phil,\n[08:54 --> 09:01] 2k. Let me know. I'm getting this real close to my face. You guys got to tell\n[09:01 --> 09:06] me if it's too unsettling having chat. Straight in a teleprompter. Too much?\n[09:06 --> 09:14] It's possibly too much. Stare deeper inside. Bring this back in. See how, see how\n[09:14 --> 09:25] deep I can go. Hello Matt. Good to see you. I also updated the chat down here to not\n[09:25 --> 09:31] have a box. These are the kinds of insane upgrades I'm making to the screen\n[09:31 --> 09:38] stream. Upgrades. It's more newsy. You can't deny that in the news they use\n[09:38 --> 09:43] teleprompters. You're on vacation S1000? That is good. Did you get an Elgato\n[09:43 --> 09:48] teleprompter? I did. It took a while to get here. I guess it's like, it's popular.\n[09:48 --> 09:54] Everybody wants one. But I got one. And now there's no stopping.\n[09:54 --> 10:04] It is also brand spanking new. I ordered it because it people were saying it's\n[10:04 --> 10:08] it's good and honestly so far if you for some reason want a teleprompter I\n[10:08 --> 10:15] do think it's pretty good. If you ever have need in your life for a\n[10:15 --> 10:18] teleprompter. Also it should make it easier for me if I can ever get off my\n[10:18 --> 10:22] ass and do it to make YouTube videos because now I can write a script and\n[10:22 --> 10:28] just it's right here. It's so cool it makes me want to read the news but also\n[10:28 --> 10:33] camera shy yeah. It is weird staring directly at this camera but it doesn't\n[10:33 --> 10:36] look like a camera to me anymore. It looks like a screen so it's trick it's\n[10:36 --> 10:44] tricked my brain. And now all of my all of the news all of my favorite news guys\n[10:44 --> 10:48] on this channel can finally stop complaining about how I don't have a\n[10:48 --> 10:54] teleprompter. Did you get it for me daddy? We got to stop calling everybody daddy\n[10:54 --> 10:59] on over here. Well I'm just saying I've been asking you to get this for a\n[10:59 --> 11:06] minute. So if anyone's gonna try it out first it should be chat. No me. I'm\n[11:06 --> 11:17] a news. I'm a news. We're all news men. Jeff and one woman. Does it show ads for\n[11:17 --> 11:22] chat? No. And a dog. You're forgetting the dog. I didn't forget the dog. I\n[11:22 --> 11:28] just I can't list everybody. Well I'm for one I'm happy to see you where you\n[11:28 --> 11:34] belong right down the barrel of this camera. These eyes were made to stare\n[11:34 --> 11:39] at you. And now I finally can. You are in fact the news. Hit me up with a\n[11:39 --> 11:44] story case. Let's see how this thing works. All right. We don't have a lot of\n[11:44 --> 11:50] time because I have to go play lethal company later. You're why are you yelling\n[11:50 --> 11:54] at me? Sorry I didn't mean to. Hey but shout outs to CV loves you Tamtran\n[11:54 --> 11:58] and to daddy Street Marine and I worship shadow and shout outs to the subs we\n[11:58 --> 12:03] got during as the stream was booting up Uncle Phil 2k microphone 900 with the\n[12:03 --> 12:10] 750 the maniacs always dropping the 750s thank you so much and adding to\n[12:10 --> 12:23] it cheer was 113 cheer while cheer wall 113 adding 75 bits to kind indeed did\n[12:23 --> 12:28] Pepito install the prompter. I don't know. Did he case. It's a good question.\n[12:28 --> 12:37] Pepito. Did you install a prompter prompter for me. Don't do don't do my\n[12:37 --> 12:43] first struggling over there. I'm not struggling and I did not install it\n[12:43 --> 12:49] because I don't get buttons. I always forgot that you're a dog who doesn't\n[12:49 --> 12:56] understand most human concepts. Only speech and a bunch of other things but\n[12:56 --> 13:04] not news because you don't have a good sense of time to me time is a minute\n[13:04 --> 13:10] ago I was born but not even that it's all it's a flat biscuit for time is a flat\n[13:10 --> 13:17] biscuit and I want to eat it. Alright fair enough crumbs miss oh we hit it\n[13:17 --> 13:26] it's crumbs miss time so my plan is to do the grunt grunge miss aka fox miss I\n[13:26 --> 13:30] think I was gonna do it this weekend maybe unless a weekend stream will like\n[13:30 --> 13:36] is harder for everyone to watch so I was trying I was trying to decide if I\n[13:36 --> 13:40] should do it Saturday or Sunday and even though we quit the network or at least\n[13:40 --> 13:45] he quit munching crumb I mean who knows if that'll stick and what else is he\n[13:45 --> 13:51] doing I can probably at least get him to come for fucks miss crumb hot shotting\n[13:51 --> 13:57] me who does he think he is he works for me damn it you don't own me\n[13:57 --> 14:03] now that's true actually I'm gonna dance around a table with a bunch of divorced\n[14:03 --> 14:08] wives and sing that at you if you get too up if you get too up in my face fair\n[14:08 --> 14:14] enough Mary crumbs this one and all so anyway I could bring on crumb now then\n[14:14 --> 14:18] or we could do crumbs miss tomorrow and do it separately I mean I love to\n[14:18 --> 14:27] over celebrate Christmas a nummy emote a crummy nummy look never let him\n[14:27 --> 14:31] forget the true never forget never forget that crumb told that weird story about\n[14:31 --> 14:37] his first orgasm being into his nummy rag what are you talking about it's a\n[14:37 --> 14:42] fair question Jeff I don't know can we do a news is there news in the world today\n[14:42 --> 14:51] I'm not jet man scape on this one cover up chat with me that's me I look look how\n[14:51 --> 14:56] good I look everyone look how good I at how good I look that's a that's a\n[14:56 --> 15:01] thing that I say that's a different comedy newscasters catchphrase what one\n[15:01 --> 15:07] of many I think it's mine anyway what's going on in the world today twitch\n[15:07 --> 15:12] updates sexual content guidelines amid topless meta backlash how was that\n[15:12 --> 15:16] was that straight down the camera I think more or less I bet it looked\n[15:16 --> 15:22] incredible we'll never know did they say Jeff cripple that's offensive Jeff it's\n[15:22 --> 15:29] ripple don't add a C I chat thinks you said a C or I did and either an eye pop I'm\n[15:29 --> 15:32] not afraid unlike some people to just constantly apologize so if I did I'm\n[15:32 --> 15:38] sorry it wasn't me Sunday night at 8 p.m. Sunday at 8 that could work for\n[15:38 --> 15:40] whatever they're Sunday at 8 it's a great time what do they want to do were\n[15:40 --> 15:44] you paying it I'm trying to do crumbs grunge miss grunge miss crumbs miss\n[15:44 --> 15:49] alright Sunday at 8 CV loves you if CV loves you once it's Sunday at 8 I\n[15:49 --> 15:54] think you are honor bound to do it at CV loves you preferred preferred time I\n[15:54 --> 16:01] agree courtesy of the CV let's do a Sunday at 8 8 p.m. PST the CV you get to\n[16:01 --> 16:09] decide 8 PST 8 ET will be late as it would be earlier 8 PT will be late as\n[16:09 --> 16:15] hell for a lot of people so maybe that's like what how did time zones work I'm a\n[16:15 --> 16:24] newsman you should know that I think it means it's it would be at 11 if your\n[16:24 --> 16:31] time okay 8 PST is that too late for us east coasters I might I might I mean I\n[16:31 --> 16:35] don't want to immediately go against 8 p.m. Moscow time I don't know what time\n[16:35 --> 16:39] zone that is I think it wraps back around and it evens out it's just the\n[16:39 --> 16:43] same 8 o'clock I don't that doesn't sound right I think I'll do if it\n[16:43 --> 16:52] also fucks with you I might do 5 PST 8 EST but CV if you can't watch it at 5 on a\n[16:52 --> 16:57] Sunday then I will do a we are but your humble news servants speaking of news\n[16:57 --> 17:02] we got to get to it I've been saying that the whole time all right well just\n[17:02 --> 17:07] coming over 8 PST is too late that does feel a little late to me so I think I\n[17:07 --> 17:16] might do 5 on Sunday a magical fucks miss grunge miss crumbs miss Halloween and\n[17:16 --> 17:23] just to fold it in because I said I would I'm gonna be eating messy wings who\n[17:23 --> 17:28] asked for that Tim lamp here someone actually asked for that technically\n[17:28 --> 17:34] Tim did okay well I have to be there you might be there Jeff I don't know who\n[17:34 --> 17:38] knows who could stop by but if you come make sure that you dress in green\n[17:38 --> 17:44] face paint green face it's fine you're a green face is allowed in fact it's a\n[17:44 --> 17:47] fence of the actual act like it's a different thing because it's imaginary\n[17:47 --> 17:53] and fun okay I don't know the rules but yeah don't worry about it let's just\n[17:53 --> 17:58] come over here and read the news well coming over to the desk it's Jeff\n[17:58 --> 18:06] Ripper Jeff get over I'm just I take a second gotta walk from the one\n[18:06 --> 18:10] camera to the other because there's so many camp what a huge there's so many\n[18:10 --> 18:18] cameras in here the studio is huge grunge with messy with messy wing sound\n[18:18 --> 18:26] sexy as fuck I didn't say it well you've read it I hey gay say Jeff you showing up\n[18:26 --> 18:34] stone some nips Jeff can you try that can you do the new Twitch meta do I get\n[18:34 --> 18:41] a bonus we all get a bonus okay where are my nipples okay my nipples are\n[18:41 --> 18:46] below desk so check this out shit this is the new meta and don't ever say that\n[18:46 --> 18:51] Jeffie daddy didn't give anything to you does this count wide open it's the nips\n[18:51 --> 18:59] are really close to exposure here am I in on the new meta I did it to quit you\n[18:59 --> 19:07] asked me to do it don't steal my thunder I feel like we're losing credibility we\n[19:07 --> 19:11] did not have you've stripped me of all my credibility and now I prostrate\n[19:11 --> 19:18] myself nude from the top from the middle of the top down just the middle\n[19:18 --> 19:26] actually just the middle of the top let's button back up alright I do feel I feel\n[19:26 --> 19:31] a little silly and now I have new respect for all of our topless Twitch\n[19:31 --> 19:38] streamers it takes a lot of confidence to almost unleash the nipple and this\n[19:38 --> 19:44] newsman I regret it for free Jeff oh I did do it for free yeah that didn't\n[19:44 --> 19:48] earn us anything you said you'd give you a bonus I'll give you a compliment\n[19:49 --> 19:54] nice chest hair mine did look a lot better than yours they look the same\n[19:54 --> 20:03] Jeff yeah but mine look mine was more appealing basically in decent news yes\n[20:03 --> 20:08] this news is highly indecent topless streamers gross where are they so I\n[20:08 --> 20:11] know how to avoid them just yeah I mean honestly all you have to do is go to\n[20:11 --> 20:17] just chatting on twitch and for me it's always the top recommended one in\n[20:17 --> 20:23] fact let's see if we can prove that to ourselves right now twitch.tv go to\n[20:23 --> 20:32] browse and just chatting Jeff check this out buddy Jeff you're gonna want to see\n[20:32 --> 20:38] this there's none there's no it's squeaky clean maybe they already cleaned up\n[20:38 --> 20:45] their act okay maybe not entirely she's not topless though okay well this oh\n[20:45 --> 20:51] wow all right and then we scroll up I'm pretty sure there was a full vagina on\n[20:51 --> 21:02] display there oh those are yoga pants they were just skin colored yoga pants so\n[21:02 --> 21:09] not I actually oh okay we found one the target has been located this is our\n[21:09 --> 21:15] sexual content policy streamer of the day uh endless commercials we'll check back\n[21:15 --> 21:20] in with her after I read some of this story which I can now read directly into\n[21:20 --> 21:25] the camera that was an Arby's ad what's the Arby's sexual content policy look I\n[21:25 --> 21:30] need to read the news bring it real close to my face so that I can news this\n[21:30 --> 21:36] up twitch updates sexual content guidelines amid topless meta backlash as\n[21:36 --> 21:41] pictured here by sexy woman barely wearing clothes twitch has updated its\n[21:41 --> 21:46] guidelines on sexual content following mass outrage that occurred as a result of\n[21:46 --> 21:51] a new topless meta taking over the site over the weekend on December 8th a new\n[21:51 --> 21:56] meta gained popularity on twitch after streamer cosplayer and only fans model\n[21:56 --> 22:00] morgue pie went viral on social media morgue pie stream showed the\n[22:00 --> 22:05] broadcasters seemingly topless sparking outrage across the net as to what\n[22:05 --> 22:14] kinds of content was allowed on twitch and what was allowed I mean look at what's\n[22:14 --> 22:22] going on right now this so why'd she get banned but this lady still got the guns\n[22:22 --> 22:31] out sons out the cannons ready to pout that's not the same I well you know I\n[22:31 --> 22:37] just out what so what's the problem here what's I'm not supposed to this is\n[22:37 --> 22:57] supposed to upset me what is happening right now we're just I was really\n[22:57 --> 23:03] considering what you said Jeff I was just really thinking about it anyway\n[23:03 --> 23:07] apparently they updated it and we need to we need to keep reading to figure out\n[23:07 --> 23:14] what happened oh okay I'll do more news that was an incredibly slow fate three\n[23:14 --> 23:17] days later morgue pie was okay morgue pie stream showed the broadcasters\n[23:17 --> 23:20] seemingly topless sparking outrage across the net as to what kinds of content\n[23:21 --> 23:25] is allowed on twitch three days later morgue pie was banned but now twitch has\n[23:25 --> 23:29] officially switched up its guidelines in relation to sexual content on its\n[23:29 --> 23:37] platform making big changes for streamers okay what changes happening here\n[23:38 --> 23:41] in response to feedback from streamers regarding its guidelines switch rolled out\n[23:41 --> 23:47] a massive update to its approach to sexual content in a large post well let's\n[23:47 --> 23:52] see how large I love to click on a link okay should we just go straight to\n[23:52 --> 23:56] the source I mean I don't know if it'll be any more exciting than this article but\n[23:56 --> 24:03] let's give it a shot I can do that we received consistent feedback from\n[24:03 --> 24:08] streamers that our current policies around sexual content are confusing and I am\n[24:08 --> 24:13] confused if I'm upset or horny and that's one of my least favorite ways to\n[24:13 --> 24:21] be confused I like to know we all do Jeff exactly okay we want streamers to\n[24:21 --> 24:25] feel confident that they understand our rules and views to feel confident that\n[24:25 --> 24:28] they will get the experience they expect and what experience am I expecting\n[24:28 --> 24:34] again I games but also occasionally boobs all right I'm fine with that to\n[24:34 --> 24:37] accomplish this we are making two changes effective today\n[24:37 --> 24:41] streamlining our policies regarding sexual content well that should contain\n[24:41 --> 24:44] a bunch of changes but whatever you're better off with the article summary\n[24:44 --> 24:49] okay updating the criteria used for homepage recommendations\n[24:50 --> 24:55] and apparently this is about to be even more obtuse in the article so let's\n[24:55 --> 25:00] continue on with that the the large post carifies major changes one of which\n[25:00 --> 25:06] allow I hate to misspeak I know Jeff it's fine\n[25:06 --> 25:10] though content that deliberately highlights breasts\n[25:10 --> 25:15] buttocks and pelvic regions even when fully clothed provided that it is\n[25:15 --> 25:23] appropriately labeled and that's a loud now that's a that's a thumbs up\n[25:23 --> 25:26] that's what's that's okay we're good to go on that I'm getting confirmation from\n[25:26 --> 25:30] the judges show us them big furry pecs cakes\n[25:30 --> 25:35] case daddy we just did but as much as we could\n[25:35 --> 25:39] I think you could have shown even more I don't mind the top of streamers it's\n[25:39 --> 25:42] the dipshits who watched that are the gross pigs\n[25:42 --> 25:46] I mean I you know I don't it does feel like there's\n[25:46 --> 25:50] better places to get pornographic content on the internet but\n[25:50 --> 25:54] I guess as long as it's all consenting streamers\n[25:54 --> 25:58] this aligns with one of three reasons twitch gave morgue pie\n[25:58 --> 26:01] okay sorry uh this aligns with one of three reasons which gave morgue pie for\n[26:01 --> 26:05] her ban earlier this week leaving viewers assuming that topless streams\n[26:05 --> 26:09] might be allowed moving forward so boobies cool\n[26:09 --> 26:15] indeed Ray Silva boobies apparently unless the nipples exposed in which case\n[26:15 --> 26:21] sound the alarm everyone's going to jail every single person\n[26:21 --> 26:26] yeah I mean I you know I would not if as long as it's appropriately labeled\n[26:26 --> 26:29] and it's not on the homepage and you have to click through or you know\n[26:29 --> 26:32] whatever age verification even though that doesn't work\n[26:32 --> 26:35] I don't think it'd be that big of a deal to me if there were\n[26:35 --> 26:39] nipples on twitch again to me it is going to that address bar and\n[26:39 --> 26:43] immediately google up some nipples if you really want to but\n[26:43 --> 26:46] I understand that it's not necessarily what they want their platform associated\n[26:46 --> 26:51] with it's not actually that's a good point I don't know\n[26:51 --> 26:54] they'll now they I don't know I just don't like I don't like\n[26:54 --> 26:58] everybody being so upset over nudity it feels very silly to me\n[26:58 --> 27:01] I mean I'll take my pants off right now if you want me to okay that this is\n[27:01 --> 27:05] not what I meant but you know I just mean in the abstract\n[27:05 --> 27:10] well it's not abstract when there's when there's real boobs to see like here\n[27:10 --> 27:13] what's abstract about that you know well you know\n[27:13 --> 27:25] oh what the fuck let's see if we can say the same thing at the same time\n[27:25 --> 27:28] what do you mean jeff let's see if we can move our mouths exactly the same\n[27:28 --> 27:38] what's that jeff very weird that might be something I have to get fixed\n[27:38 --> 27:41] well look we're getting distracted I need to finish the story so that you can\n[27:41 --> 27:44] play little baby games this aligns with what a major okay we\n[27:44 --> 27:48] read that she got banned for showing nipples even\n[27:48 --> 27:51] or not showing nipples even though that's sort of allowed now\n[27:51 --> 27:56] tWitch also admitted that it's previously out which also admitted that\n[27:56 --> 28:00] its previous outlook on this content\n[28:00 --> 28:03] was out of line with industry standards and resulted in female presenting\n[28:03 --> 28:08] streamers being disproportionately penalized well look at them\n[28:08 --> 28:12] admitting it they admit it and that's\n[28:12 --> 28:16] good or is it weak no I think it's it's fine for them to admit\n[28:16 --> 28:19] that they've been a little weird towards female streamers\n[28:19 --> 28:23] much like a lot of the audience has oh he's putting the whole audience on trial\n[28:23 --> 28:26] other policies that were once prohibited and are not allowed with a label\n[28:26 --> 28:30] include fictionalized fully exposed female presenting breasts and or\n[28:30 --> 28:34] genitals or buttocks regardless of gender gender\n[28:34 --> 28:38] I've been my dog wait they were once prohibited and are wait\n[28:38 --> 28:42] other policies that were once prohibited and are not allowed\n[28:42 --> 28:48] with a label include fictionalized fully exposed female presenting breasts\n[28:48 --> 28:54] and or genitals or buttocks regardless of gender\n[28:54 --> 28:58] am I crazy for being confused by that sentence\n[28:58 --> 29:06] um fully exposed female presenting okay that's oh that's you read it is not\n[29:06 --> 29:09] a lot it's now allowed\n[29:09 --> 29:14] oh okay so that's allowed now that's good go with that flies\n[29:14 --> 29:17] uh yeah so I guess we can't get banned for showing off our chest earlier\n[29:17 --> 29:24] then this boy's coming back out oh yeah finally let this chest breathe here we go\n[29:24 --> 29:29] whoo it's good to be free I mean I do agree I think it's I'm right there with\n[29:29 --> 29:33] you all right so anyway fully allowed now\n[29:33 --> 29:36] exposed female presenting breasts and or genitals or buttocks regardless of\n[29:36 --> 29:42] gender so you can expose your genitals on twitch\n[29:42 --> 29:48] I'm I would be surprised I don't think you can just be naked on twitch\n[29:48 --> 29:52] with a label include fiction oh fictionalized\n[29:52 --> 29:56] okay now fictionalized it's confusing me I'm also you need to not be one of us\n[29:56 --> 30:00] needs to not be confused so that's I you know what\n[30:00 --> 30:03] so last night during the patreon we went and did a similar thing we\n[30:03 --> 30:06] browsed the just chat and create a category of twitch\n[30:06 --> 30:12] and there were totally nude cartoon streamers there were a bunch of like\n[30:12 --> 30:16] hentai streamers basically which I can't show you\n[30:16 --> 30:23] or I can show you I guess I'd have to label my stream as sexual\n[30:23 --> 30:26] which honestly maybe I should given the stories I cover\n[30:26 --> 30:32] I mean that's probably fair and maybe I will do that uh\n[30:32 --> 30:36] I guess we could show you that if it was made if if my stream was appropriately\n[30:36 --> 30:39] labeled label it up and let's look at some hot\n[30:39 --> 30:43] tunes I don't like it when you say that\n[30:43 --> 30:48] I mean I'm just following guidelines it means totally this is from the destructive\n[30:48 --> 30:51] one it means totally nude anime cartoon generals are fair game\n[30:51 --> 30:56] without being labeled as sexual content oh real nudity\n[30:56 --> 31:01] gets a label so you can do real nudity with a label\n[31:01 --> 31:10] I would be surprised I'm gonna just look up nudity really quick on twitch\n[31:10 --> 31:12] that doesn't seem to bring anything up currently\n[31:12 --> 31:16] not that it necessarily is is how that would be labeled\n[31:16 --> 31:22] how is this lady have her thing labeled um sexual content policy changes and\n[31:22 --> 31:26] she's got english e-girl redhead bikini pool hot tub female\n[31:26 --> 31:31] gamer girl ccl I don't know what ccl is sexual themes\n[31:31 --> 31:35] let's check out what does ccl mean I should know but I\n[31:35 --> 31:46] do not know what that means ccl oh okay the sexual themes category\n[31:46 --> 31:50] is also not that not that populated well I guess you could necessarily you could\n[31:50 --> 31:55] potentially tag it any way you want but I do see some cartoon boobs on here\n[31:55 --> 31:59] we're not sure if we've appropriately labeled anything so we can't show you\n[31:59 --> 32:02] these cartoon boobs that we're currently staring at but I would just like to\n[32:02 --> 32:05] confirm that there are cartoon boobs on twitch\n[32:05 --> 32:11] cartoon boobs on twitch confirmed and legal it's a beautiful day\n[32:11 --> 32:15] the sound get the ewoks out in the woods have them start dancing\n[32:15 --> 32:20] it's time to celebrate victory for the empire no it was the rebels\n[32:20 --> 32:24] I lost track of the analogy then okay let's finish this story\n[32:24 --> 32:30] um that's not all certain dances such as twerking grinding and pole dancing\n[32:30 --> 32:33] are now allowed to stream on twitch without a label\n[32:33 --> 32:36] and broadcast that are labeled with drugs intoxication\n[32:36 --> 32:41] or excessive tobacco use violence and graphic depictions gambling and or sexual\n[32:41 --> 32:45] themes will no longer be allowed on twitch's home page\n[32:45 --> 32:48] okay that actually seems to kind of address a lot of the things that you\n[32:48 --> 32:51] were complaining about I wasn't complaining\n[32:51 --> 32:55] uh cv loves you thank you for the sub\n[32:55 --> 32:59] at 60 subs this becomes a sexual content stream what\n[32:59 --> 33:01] what does that mean I don't that's actually not that's not a goal I'm\n[33:01 --> 33:05] sorry I lied stop lying all the time\n[33:05 --> 33:09] this marks a major shift for twitch's policies on such content while responses\n[33:09 --> 33:12] currently appear to be mixed many viewers are happy about the changes\n[33:12 --> 33:15] coming to the site's home page regardless\n[33:15 --> 33:18] and phantom spaceman says I guess it's kind of the same reason I don't go to\n[33:18 --> 33:21] strip clubs don't mind the nudity at all but\n[33:21 --> 33:24] don't want to sit in a room with a bunch of disgusting men\n[33:24 --> 33:27] with hard-ons so you don't even want to just know that there's a\n[33:27 --> 33:30] bunch of disgusting men in other rooms with hard-ons\n[33:30 --> 33:34] I can relate I mean something about chatting with your boys while\n[33:34 --> 33:39] ogling a streamer I'm not I'm not saying it's terribly\n[33:39 --> 33:42] immoral or anything I just don't know if that's how I\n[33:42 --> 33:48] am dying to spend my free time you don't ever want to just chat with the\n[33:48 --> 33:57] boys while scoping out half a boob no you're\n[33:57 --> 34:01] missing out me and the fellas we get up we go\n[34:01 --> 34:06] we go to a whiskey taste testing we go on a whiskey taste test\n[34:06 --> 34:10] tour what then we um\n[34:10 --> 34:14] then we do and then we do axe throwing okay and then\n[34:14 --> 34:18] we sit down in a strip club where a woman holds a board\n[34:18 --> 34:23] just below her nipples and we chat at her that's what we do irl that's\n[34:23 --> 34:28] traditional traditional masculinity and now it's been put on the internet\n[34:28 --> 34:31] I don't I think you're the only person who does that chat\n[34:31 --> 34:35] you're not chat I'm not don't confuse us sorry Jeff\n[34:35 --> 34:40] I'm totally different you are reasonably different\n[34:40 --> 34:42] I'm different\n[34:43 --> 34:47] Catalina wine mixture okay that's the end of the story\n[34:47 --> 34:52] keep it locked to dick no I won't read your ad\n[34:52 --> 34:55] hmm all right well I for one and let's just get this on\n[34:55 --> 34:58] let's just get this on the screen I for one support\n[34:58 --> 35:04] Victoria and all the streamers like her that just wanna\n[35:04 --> 35:08] hang out with their nipple just out of frame there's no greater feeling\n[35:08 --> 35:12] you'd be shocked how few streamers are wearing pants\n[35:12 --> 35:19] practically none of them and including me no underwear no pants fully nude from\n[35:19 --> 35:22] the waist down I Jeff I didn't know that man\n[35:22 --> 35:27] I don't look down and that's I'm gonna keep enforcing that policy\n[35:27 --> 35:32] just know my hogs out down here why man wear pants to work\n[35:32 --> 35:37] I'm in favor of of uh sexual freedom buddy but come on\n[35:37 --> 35:42] this is a this is a place of news I should have to tell you that you're\n[35:42 --> 35:47] right I've let myself slide\n[35:47 --> 35:52] due to the lax networks of this standards of this network\n[35:52 --> 35:56] and I just want to say I didn't realize that not wearing pants makes me better\n[35:56 --> 36:01] at news and I refuse to ever wear them all right fine just at least\n[36:01 --> 36:05] wear like a patch anyway for the record\n[36:05 --> 36:08] my dong is always out on this network and you can't see it and it doesn't\n[36:08 --> 36:12] cause any problems and mine's not for the record\n[36:12 --> 36:17] mine's not okay we got an expert we got a call for an expert\n[36:17 --> 36:23] to save me from jeff's penis being out\n[36:23 --> 36:31] what the heck where is it uh can we speak to steve hog hog\n[36:31 --> 36:35] can we speak to steve hog hog oh steve hog hog the hog expert\n[36:35 --> 36:43] I'm a huge fan big fan of steve hog hog so yeah I mean I'll make way for him\n[36:43 --> 36:48] listen um sometimes when you're nude\n[36:48 --> 36:52] the body is the story and if that body\n[36:52 --> 36:59] jumps in a pot in a pond of context it creates a ripple\n[36:59 --> 37:04] of facts and I've been riding that ripple all day\n[37:04 --> 37:10] I'm jeff ripple I'm getting better and better\n[37:10 --> 37:17] why do they all think they're so good at sign-offs jeff our abs body ripples\n[37:17 --> 37:22] yes oh you got over there so fast I move quick\n[37:22 --> 37:25] steve hog would be an expert journalist whenever ben has a penis story\n[37:25 --> 37:28] oh shit he's gonna be moving in on chet's territory\n[37:28 --> 37:32] what the fuck you're trying to sell me out\n[37:32 --> 37:37] um I'm a masculinity expert that includes\n[37:37 --> 37:45] hogs yeah but lilyana's our kink expert well kinks aren't necessarily a hog\n[37:45 --> 37:50] you know a hog can be independent of a kink well is a hog\n[37:50 --> 37:56] oh is masculine I don't I don't think so I think a hog can be feminine\n[37:56 --> 38:01] why is everybody here today because it's your birthday it's not my\n[38:01 --> 38:07] birthday oh oh our bad\n[38:07 --> 38:12] well this is all we planned anyway okay fair enough\n[38:12 --> 38:16] anyway talk to jeff hog but I am the masculinity expert\n[38:16 --> 38:20] he can be the hog expert but I will still be talking about penis stories\n[38:20 --> 38:24] I'm sure you will jeff I don't I would never imply that\n[38:24 --> 38:31] anyone else wants to talk about dick stories more than you\n[38:31 --> 38:36] okay let me find jeff hog real quick pepito can you pull up jeff hog\n[38:36 --> 38:45] um is he like a pig I don't know just find him find him quickly\n[38:45 --> 38:51] please okay I'll just I'll do the pale spam smash buttons\n[38:51 --> 38:58] that's what we pay you for sorry to be so harsh sorry to be so hard on my\n[38:58 --> 39:15] producer um I'm looking at it okay uh sure\n[39:15 --> 39:19] you know uh we are not always experts on every subject here at Barely Informed\n[39:19 --> 39:21] News in fact you could say we're not an expert on any of them but\n[39:21 --> 39:24] fortunately due to the incredible name cache of this network I have the\n[39:24 --> 39:29] ability to call for experts at will and I have just the expert in mind\n[39:29 --> 39:36] courtesy of Travis Gogh uh please welcome as far as I know\n[39:36 --> 39:42] the expert in hogs steve hog hog sorry I might have been calling him jeff\n[39:42 --> 39:46] but his name is actually uh steve hog hog\n[39:46 --> 40:00] steve thanks for having me it's a pleasure\n[40:01 --> 40:05] in your arm tomorrow I mean you have any questions\n[40:05 --> 40:11] whoa are you okay man you know what is the matter\n[40:11 --> 40:23] kill it with fire who where what um thanks for being with us jeff uh\n[40:23 --> 40:28] twitch has updated its sexual content guidelines to allow nudity\n[40:28 --> 40:36] of fictional characters and um seems to be allowing content\n[40:36 --> 40:41] themed to sexual to openly more openly exist which I think is positive change\n[40:41 --> 40:45] as a hog expert do you feel like hogs should be\n[40:45 --> 40:50] allowed to be freely on display I am totally in favor of giving hogs as much\n[40:50 --> 40:58] room as they want let them graze okay I think you are\n[40:58 --> 41:02] talking about the animal yeah the big meaty\n[41:02 --> 41:11] sweaty animal okay um is this labeled properly is your stream\n[41:11 --> 41:16] labeled as a hog stream um no that's against\n[41:16 --> 41:22] definition what is you mean the food and drug\n[41:22 --> 41:27] administration not a fucked up dick assembly oh you are\n[41:27 --> 41:31] talking about penis hogs oh that's what I've been\n[41:31 --> 41:37] talking about the whole time I'm a hog expert\n[41:37 --> 41:41] just listening this guy makes my throat feel weird meat sweats\n[41:41 --> 41:48] yeah you have to write appropriate ventilation for your members\n[41:48 --> 41:52] sorry I have a cold um steve hog or jeff\n[41:52 --> 41:59] did I what's your name steve hog sorry steve uh are your eyes looking\n[41:59 --> 42:02] can I just say this is not a quest this is our viewers want to know and I\n[42:02 --> 42:06] understand if this question comes off is a little rude steve but\n[42:06 --> 42:10] are your eyes looking in different directions yes\n[42:10 --> 42:16] oh it's to better observe hogs from all angles\n[42:16 --> 42:20] like from the side I like to get a good shine eye on the hog if there's\n[42:20 --> 42:25] double hog and I get to see both at once\n[42:25 --> 42:34] okay um steve hog can we get a zoom in on you\n[42:34 --> 42:39] have I got closer to your camera everybody\n[42:39 --> 42:51] babe I know you're all big steve hog fans you want to get a closer look\n[42:51 --> 42:59] I'm gonna sit back a little steve is a puppy expert next\n[42:59 --> 43:03] you're already bored with me uh it's just a question\n[43:03 --> 43:07] let's get one more out of chat here smell because we don't want to eat\n[43:07 --> 43:10] steve hog if you smell bacon that means you're\n[43:10 --> 43:19] eating his family what's there nothing steve this is a nightmare yeah\n[43:19 --> 43:23] wait one is being on the nose is stressful and\n[43:23 --> 43:28] does sometimes get me bad dreams um okay\n[43:28 --> 43:32] you demand a puppy expert I'm sorry but we can only demand like one expert an hour\n[43:32 --> 43:37] otherwise pipito gets overwork oh we gotta vote on pipito by the way he's been\n[43:37 --> 43:43] he's been the longest running producer by a mile\n[43:43 --> 43:47] in our case is brother any hog question all right I missed one\n[43:47 --> 43:51] um how many teats does steve hog\n[43:51 --> 43:59] have um I've never felt it here this is allowed on twitch now\n[43:59 --> 44:06] I can I can check my teats live um as far as I know you can check your teats live\n[44:06 --> 44:19] sir okay um let me see\n[44:28 --> 44:33] 11 12 oh they're going still okay that's another\n[44:33 --> 44:39] six we're at 17 oh that's 25 in one scrape of my belly okay\n[44:39 --> 44:47] oh and there's a bunch on my back okay 33 and let's go up a little 48\n[44:47 --> 44:53] okay let's go back down caress the buttocks oh there's a solid 10 there 58\n[44:53 --> 44:57] and just to get the thighs really quick okay my estimate\n[44:57 --> 45:08] is 236 you sure those are all teats they were all leaking milk\n[45:08 --> 45:16] Jesus Christ I don't know if I needed to know all that Jeff\n[45:16 --> 45:23] no counting your moles believe me I wish they were moles\n[45:23 --> 45:31] okay um last question steve any Christmas plans I plan to sacrifice\n[45:31 --> 45:35] myself at the altar of consumption and become a Christmas\n[45:35 --> 45:39] ham oh my god don't steve don't don't kill yourself there's so much to live for\n[45:39 --> 45:45] it's not a sd it's a willing sacrifice at the altar of\n[45:45 --> 45:53] taste and consumption I'm in bread to be feasted upon eat my hog oh my god I'm\n[45:53 --> 45:56] sorry I didn't know steve was part of a\n[45:56 --> 46:01] capitalistic death cult it's just a way of the world why if you don't want to\n[46:01 --> 46:06] eat pigs then look at this face and feel the guilt\n[46:07 --> 46:10] or enter the realm of spirit eating them with me\n[46:10 --> 46:16] steve hog okay this is taking a weird turn steve this is not what I brought you\n[46:16 --> 46:22] on for feast upon me um\n[46:22 --> 46:29] just know when you're eating a hog this is not your thing oh boy\n[46:29 --> 46:36] you have a lot of teeth for a pig that's not a normal amount of teeth\n[46:36 --> 46:41] okay well steve thanks so much for being here um for clarifying\n[46:41 --> 46:45] I'm not sure what you clarified but thanks for being here happy to help any\n[46:45 --> 46:50] questions at all about hogs I'll be waiting until Christmas and then that's\n[46:50 --> 47:00] over for me sorry everybody you know it's\n[47:00 --> 47:04] important to get a variety of perspectives and sometimes you have to\n[47:04 --> 47:10] ask steve hog because what's the hog perspective\n[47:10 --> 47:14] and it wasn't the it wasn't the best perspective\n[47:14 --> 47:19] but it was one of them can we vote on making pipita tenure producer who\n[47:19 --> 47:24] supervises new producers that could be we'll do a three tiered vote right\n[47:24 --> 47:29] before I go play lethal company in like three minutes\n[47:29 --> 47:35] is Fiona already on Fiona might already be playing let me text the reason I was\n[47:35 --> 47:39] waiting is I asked uh John Madison to play with me and Kendall might also be\n[47:39 --> 47:49] down Kendall you still want to play so you can't play\n[47:49 --> 47:53] unclear if Kendall can play she's just yawned at me\n[47:53 --> 48:02] leave the company's already going yeah okay um are they mid oh they just died\n[48:02 --> 48:05] no they didn't die the things they'll have to quit and remake\n[48:05 --> 48:10] to let me on which I don't want to fuck with their game too much\n[48:10 --> 48:14] but I was planning to hop in around this point\n[48:14 --> 48:20] how many are there there's already five people in there\n[48:20 --> 48:23] John Madden yeah I've I'm kind of close with John Madden oh good they're in\n[48:23 --> 48:25] they're about to end one of their runs so that would be a good time for me to\n[48:25 --> 48:44] hop on I'll text V great okay\n[48:44 --> 48:46] you know part of the reason I wanted to the news today was to figure out if\n[48:46 --> 48:50] crumb even came to work but I guess we'll have to save that for\n[48:50 --> 48:56] tomorrow sorry to cliffhanger you I wonder if he quit\n[48:56 --> 49:01] he was really threatening to quit but does he have the\n[49:01 --> 49:05] does he really think he's going to work again in this town if he betrays me\n[49:05 --> 49:10] god damn man you are the worst boss sorry you don't like it chat go work\n[49:10 --> 49:16] somewhere else this is what we put up with you just\n[49:16 --> 49:20] so you know these are the conditions that we work under but we do you know\n[49:20 --> 49:24] maybe we'll unionize no you're not allowed\n[49:24 --> 49:29] it'll destroy company cohesion if we need a union to mitigate\n[49:29 --> 49:35] and to negotiate issues just talk to me we're a family here chat\n[49:35 --> 49:39] oh okay if I formed a union with the other host it would just\n[49:39 --> 49:45] hurt me okay I understand what's up channel\n[49:45 --> 49:52] she's awakening okay I'm gonna switch to lethal company mode\n[49:52 --> 49:57] from this whole first we also have to do the streets but I'll save that for\n[49:57 --> 50:01] tomorrow too but that was I didn't forget somebody requested\n[50:01 --> 50:07] all right wait are you asking me a question do you need me to\n[50:07 --> 50:16] do you find a walk by the camera not everyone here is naked chat\n[50:16 --> 50:21] all right I gotta I gotta switch over I gotta launch the other thing\n[50:21 --> 50:26] so I don't keep them waiting for too long unless they've already bravely moved on\n[50:26 --> 50:30] um let's go to space I'll be back in just a moment\n[50:30 --> 50:35] in space actually in a big green area I'll be in a green room\n[50:35 --> 50:38] I just"
+}

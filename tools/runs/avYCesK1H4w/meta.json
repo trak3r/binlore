@@ -1,0 +1,19 @@
+{
+  "vod_id": "avYCesK1H4w",
+  "title": "Quick News then Lethal Company",
+  "url": "https://www.youtube.com/watch?v=avYCesK1H4w",
+  "duration_seconds": 3041,
+  "duration": "50:41",
+  "timestamp": 1702512000,
+  "aired_at": "2023-12-14T00:00:00+00:00",
+  "date": "2023-12-14",
+  "ingested_at": "2026-09-10T03:11:26.842415+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "avYCesK1H4w",
+  "yt_url": "https://www.youtube.com/watch?v=avYCesK1H4w",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2023-12-14"
+}
