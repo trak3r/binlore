@@ -1,0 +1,19 @@
+{
+  "vod_id": "OAq9wosVy00",
+  "title": "Newsing w/ Jon Matteson",
+  "url": "https://www.youtube.com/watch?v=OAq9wosVy00",
+  "duration_seconds": 5584,
+  "duration": "1:33:04",
+  "timestamp": 1707955200,
+  "aired_at": "2024-02-15T00:00:00+00:00",
+  "date": "2024-02-15",
+  "ingested_at": "2026-09-10T20:00:09.563412+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "OAq9wosVy00",
+  "yt_url": "https://www.youtube.com/watch?v=OAq9wosVy00",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-02-15"
+}
