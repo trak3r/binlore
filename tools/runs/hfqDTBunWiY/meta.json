@@ -1,0 +1,19 @@
+{
+  "vod_id": "hfqDTBunWiY",
+  "title": "Lethal Extra Cream Company",
+  "url": "https://www.youtube.com/watch?v=hfqDTBunWiY",
+  "duration_seconds": 8130,
+  "duration": "2:15:30",
+  "timestamp": 1701820800,
+  "aired_at": "2023-12-06T00:00:00+00:00",
+  "date": "2023-12-06",
+  "ingested_at": "2026-09-09T23:43:34.582124+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "hfqDTBunWiY",
+  "yt_url": "https://www.youtube.com/watch?v=hfqDTBunWiY",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2023-12-06"
+}
