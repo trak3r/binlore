@@ -1,0 +1,19 @@
+{
+  "vod_id": "oHJXJu3AtmE",
+  "title": "Cream Team Dream(ish) Stream - presented by Hart Audio",
+  "url": "https://www.youtube.com/watch?v=oHJXJu3AtmE",
+  "duration_seconds": 4134,
+  "duration": "1:08:54",
+  "timestamp": 1708300800,
+  "aired_at": "2024-02-19T00:00:00+00:00",
+  "date": "2024-02-19",
+  "ingested_at": "2026-09-10T21:06:27.067465+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "oHJXJu3AtmE",
+  "yt_url": "https://www.youtube.com/watch?v=oHJXJu3AtmE",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-02-19"
+}
