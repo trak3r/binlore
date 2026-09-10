@@ -1,0 +1,19 @@
+{
+  "vod_id": "bUgo6CtCkHU",
+  "title": "Solo Company (unless I make friends or Kendelle wakes up)",
+  "url": "https://www.youtube.com/watch?v=bUgo6CtCkHU",
+  "duration_seconds": 16507,
+  "duration": "4:35:07",
+  "timestamp": 1702944000,
+  "aired_at": "2023-12-19T00:00:00+00:00",
+  "date": "2023-12-19",
+  "ingested_at": "2026-09-10T11:21:10.977474+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "bUgo6CtCkHU",
+  "yt_url": "https://www.youtube.com/watch?v=bUgo6CtCkHU",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2023-12-19"
+}
