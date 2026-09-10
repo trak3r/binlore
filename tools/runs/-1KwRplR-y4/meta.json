@@ -1,0 +1,19 @@
+{
+  "vod_id": "-1KwRplR-y4",
+  "title": "Quick Thursday Stream",
+  "url": "https://www.youtube.com/watch?v=-1KwRplR-y4",
+  "duration_seconds": 6709,
+  "duration": "1:51:49",
+  "timestamp": 1707436800,
+  "aired_at": "2024-02-09T00:00:00+00:00",
+  "date": "2024-02-09",
+  "ingested_at": "2026-09-10T19:25:47.831214+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "-1KwRplR-y4",
+  "yt_url": "https://www.youtube.com/watch?v=-1KwRplR-y4",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-02-09"
+}
