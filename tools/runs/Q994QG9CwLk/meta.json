@@ -1,0 +1,19 @@
+{
+  "vod_id": "Q994QG9CwLk",
+  "title": "Post Christmas Company",
+  "url": "https://www.youtube.com/watch?v=Q994QG9CwLk",
+  "duration_seconds": 13137,
+  "duration": "3:38:57",
+  "timestamp": 1703808000,
+  "aired_at": "2023-12-29T00:00:00+00:00",
+  "date": "2023-12-29",
+  "ingested_at": "2026-09-10T12:46:35.101539+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "Q994QG9CwLk",
+  "yt_url": "https://www.youtube.com/watch?v=Q994QG9CwLk",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2023-12-29"
+}
