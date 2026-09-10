@@ -1,0 +1,19 @@
+{
+  "vod_id": "e1eUXUDvw_8",
+  "title": "Phasmofionanova",
+  "url": "https://www.youtube.com/watch?v=e1eUXUDvw_8",
+  "duration_seconds": 4729,
+  "duration": "1:18:49",
+  "timestamp": 1705536000,
+  "aired_at": "2024-01-18T00:00:00+00:00",
+  "date": "2024-01-18",
+  "ingested_at": "2026-09-10T17:11:18.087323+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "e1eUXUDvw_8",
+  "yt_url": "https://www.youtube.com/watch?v=e1eUXUDvw_8",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-01-18"
+}
