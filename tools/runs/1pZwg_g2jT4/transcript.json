@@ -1,0 +1,3377 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 3794.311,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.37,
+      "end": 910.66,
+      "text": "So everybody"
+    },
+    {
+      "id": 2,
+      "start": 911.78,
+      "end": 917.3,
+      "text": "I'm not sure why that's popping off like that. That might happen every time I switch scenes today"
+    },
+    {
+      "id": 3,
+      "start": 918.18,
+      "end": 920.18,
+      "text": "Just a heads up on that"
+    },
+    {
+      "id": 4,
+      "start": 920.86,
+      "end": 923.72,
+      "text": "I thought somebody was salt burning. It's possible"
+    },
+    {
+      "id": 5,
+      "start": 924.62,
+      "end": 930.78,
+      "text": "Chip SCT. Thanks for the follow. I think we had a sub or two during the pre-stream also. Thank you so much"
+    },
+    {
+      "id": 6,
+      "start": 931.66,
+      "end": 937.46,
+      "text": "To tamtran as always and big J. Dub for the dub with the sub"
+    },
+    {
+      "id": 7,
+      "start": 937.82,
+      "end": 942.62,
+      "text": "Thank you all. Let me open up chat where I like it right down the barrel of"
+    },
+    {
+      "id": 8,
+      "start": 943.5,
+      "end": 945.5,
+      "text": "the lens"
+    },
+    {
+      "id": 9,
+      "start": 945.78,
+      "end": 947.62,
+      "text": "There you guys"
+    },
+    {
+      "id": 10,
+      "start": 947.62,
+      "end": 949.62,
+      "text": "Gonna see everybody"
+    },
+    {
+      "id": 11,
+      "start": 950.7,
+      "end": 956.82,
+      "text": "I'm just doing a quick stream of news because you might have noticed our very own Fiona Nova is in fact"
+    },
+    {
+      "id": 12,
+      "start": 957.38,
+      "end": 963.44,
+      "text": "Doing a 12-hour stream get over there if you haven't already we're gonna be joining her shortly. Oh my god"
+    },
+    {
+      "id": 13,
+      "start": 963.46,
+      "end": 965.46,
+      "text": "Tamtran's dropping the 10"
+    },
+    {
+      "id": 14,
+      "start": 965.58,
+      "end": 970.22,
+      "text": "Immediately Pepito is gonna be joining fee whether she likes it or not as soon as we hit that goal"
+    },
+    {
+      "id": 15,
+      "start": 970.62,
+      "end": 976.74,
+      "text": "Card King to see a gun junk dog gearless Joe and no mad. Good to see an entity. Always good to see you"
+    },
+    {
+      "id": 16,
+      "start": 976.74,
+      "end": 978.74,
+      "text": "Good to see everybody plop dumps"
+    },
+    {
+      "id": 17,
+      "start": 979.14,
+      "end": 981.14,
+      "text": "of course"
+    },
+    {
+      "id": 18,
+      "start": 981.58,
+      "end": 987.62,
+      "text": "One second while I just double check a little technical issue"
+    },
+    {
+      "id": 19,
+      "start": 988.42,
+      "end": 992.98,
+      "text": "I don't want to add so much lotion to this stream stream that it's an all-lotion stream"
+    },
+    {
+      "id": 20,
+      "start": 993.78,
+      "end": 995.78,
+      "text": "So, let me just fix that potentially"
+    },
+    {
+      "id": 21,
+      "start": 996.3,
+      "end": 1000.54,
+      "text": "oh"
+    },
+    {
+      "id": 22,
+      "start": 1000.98,
+      "end": 1008.39,
+      "text": "My god, I see what happened. Okay, and just like that. We're back, baby"
+    },
+    {
+      "id": 23,
+      "start": 1011.74,
+      "end": 1016.22,
+      "text": "We out here a very dyslexic of you case happy to be here chip it's CST"
+    },
+    {
+      "id": 24,
+      "start": 1017.62,
+      "end": 1018.74,
+      "text": "TSC"
+    },
+    {
+      "id": 25,
+      "start": 1018.74,
+      "end": 1022.06,
+      "text": "If I'm feeling dyslexic, I'm gonna see you card King Hugh Keeler"
+    },
+    {
+      "id": 26,
+      "start": 1022.7,
+      "end": 1024.7,
+      "text": "I already said plop dumps, but I'll say it again"
+    },
+    {
+      "id": 27,
+      "start": 1025.34,
+      "end": 1030.26,
+      "text": "It will moisturize your insides. Well, I just want to be able to trigger it at will"
+    },
+    {
+      "id": 28,
+      "start": 1030.26,
+      "end": 1034.5,
+      "text": "I mean, it's not like I don't want to add lotion. I just want to know when I'm adding it"
+    },
+    {
+      "id": 29,
+      "start": 1035.18,
+      "end": 1039.75,
+      "text": "Technically now I'm adding it to chat. All of you are getting"
+    },
+    {
+      "id": 30,
+      "start": 1041.94,
+      "end": 1043.02,
+      "text": "motioned"
+    },
+    {
+      "id": 31,
+      "start": 1043.02,
+      "end": 1045.02,
+      "text": "Does your skin feel good?"
+    },
+    {
+      "id": 32,
+      "start": 1047.1,
+      "end": 1052.98,
+      "text": "Okay, let's feel like an hour of news and then let's support our Fiona Nova's in her space quest"
+    },
+    {
+      "id": 33,
+      "start": 1054.22,
+      "end": 1057.98,
+      "text": "Exactly free spa day card game. You've been hooked up by me"
+    },
+    {
+      "id": 34,
+      "start": 1059.34,
+      "end": 1061.34,
+      "text": "What's going on in the world today?"
+    },
+    {
+      "id": 35,
+      "start": 1062.54,
+      "end": 1064.54,
+      "text": "What news did I queue up?"
+    },
+    {
+      "id": 36,
+      "start": 1065.22,
+      "end": 1070.46,
+      "text": "Pope Francis says sexual pleasure is a gift from God. I"
+    },
+    {
+      "id": 37,
+      "start": 1071.86,
+      "end": 1078.3,
+      "text": "Mean, I never I never thought that wasn't the case, but I'm glad that Pope Francis is finally getting on the van with"
+    },
+    {
+      "id": 38,
+      "start": 1079.3,
+      "end": 1084.33,
+      "text": "The Pope is right. I mean I'm inclined to think"
+    },
+    {
+      "id": 39,
+      "start": 1084.69,
+      "end": 1091.97,
+      "text": "That he is and this might be an agreeable story today because I'm joined by Chet to cover this important"
+    },
+    {
+      "id": 40,
+      "start": 1093.93,
+      "end": 1095.93,
+      "text": "Declaration from a religious figure"
+    },
+    {
+      "id": 41,
+      "start": 1097.45,
+      "end": 1103.21,
+      "text": "So let's see how Chet's doing today Chet. Thank you for joining me as always"
+    },
+    {
+      "id": 42,
+      "start": 1104.85,
+      "end": 1108.85,
+      "text": "Yes, I was about to say as always well I was here. Yeah"
+    },
+    {
+      "id": 43,
+      "start": 1109.85,
+      "end": 1117.61,
+      "text": "Does the Pope endorse prostate stem how into the weeds is he getting here?"
+    },
+    {
+      "id": 44,
+      "start": 1117.61,
+      "end": 1122.97,
+      "text": "I don't know. We have to read the story. Well, look I am a man of God and"
+    },
+    {
+      "id": 45,
+      "start": 1124.05,
+      "end": 1125.65,
+      "text": "Jesus"
+    },
+    {
+      "id": 46,
+      "start": 1125.65,
+      "end": 1133.65,
+      "text": "And in a way, I believe that every religion is one in the same Jesus and all of them"
+    },
+    {
+      "id": 47,
+      "start": 1134.69,
+      "end": 1140.01,
+      "text": "Should be sex positive because Jesus was I mean you saw him up there. He was fucking swole"
+    },
+    {
+      "id": 48,
+      "start": 1140.81,
+      "end": 1148.25,
+      "text": "He's putting it out there. He's showing off on the cross. I mean, yeah, you don't it's like he was training for a role"
+    },
+    {
+      "id": 49,
+      "start": 1148.25,
+      "end": 1151.81,
+      "text": "I mean he had the abs. It's like he was in a Marvel movie like the dude was"
+    },
+    {
+      "id": 50,
+      "start": 1152.85,
+      "end": 1158.7,
+      "text": "You know sex appeal was a part of it. I'm not sure if that's"
+    },
+    {
+      "id": 51,
+      "start": 1159.34,
+      "end": 1161.34,
+      "text": "Was what he was going for I"
+    },
+    {
+      "id": 52,
+      "start": 1162.1,
+      "end": 1164.1,
+      "text": "Mean, you don't understand working out"
+    },
+    {
+      "id": 53,
+      "start": 1164.1,
+      "end": 1170.74,
+      "text": "So I understand that you don't understand that he was trying to put it put out a vibe and he succeeded"
+    },
+    {
+      "id": 54,
+      "start": 1170.78,
+      "end": 1176.78,
+      "text": "The pope's finally catching up and that's a relief. Let me get this story queued up gosh dang it"
+    },
+    {
+      "id": 55,
+      "start": 1176.78,
+      "end": 1182.62,
+      "text": "How can these things never just fucking work in the way I want? There it is a little fixie do"
+    },
+    {
+      "id": 56,
+      "start": 1183.82,
+      "end": 1185.82,
+      "text": "Yeah"
+    },
+    {
+      "id": 57,
+      "start": 1185.86,
+      "end": 1187.86,
+      "text": "And now I'm a newsman"
+    },
+    {
+      "id": 58,
+      "start": 1188.54,
+      "end": 1195.18,
+      "text": "Pope Francis says sexual pleasure is a gift from God by Laura Gazi credits to the BBC"
+    },
+    {
+      "id": 59,
+      "start": 1197.02,
+      "end": 1200.34,
+      "text": "Credit all credit to the BBC for this sex story. You know what I mean"
+    },
+    {
+      "id": 60,
+      "start": 1200.86,
+      "end": 1210.17,
+      "text": "Pope Francis who's 87 has been the head of the Catholic Church since 2013"
+    },
+    {
+      "id": 61,
+      "start": 1210.57,
+      "end": 1214.45,
+      "text": "Pope Francis has said that sexual pleasure is a gift from God that should be"
+    },
+    {
+      "id": 62,
+      "start": 1215.29,
+      "end": 1217.29,
+      "text": "Disciplined with patience"
+    },
+    {
+      "id": 63,
+      "start": 1218.29,
+      "end": 1221.61,
+      "text": "You discipline your gifts if they misbehave"
+    },
+    {
+      "id": 64,
+      "start": 1222.53,
+      "end": 1228.1,
+      "text": "What kind of gifts are you getting the kind I have to occasionally"
+    },
+    {
+      "id": 65,
+      "start": 1228.82,
+      "end": 1236.36,
+      "text": "Discipline he also warned against pornography, which he said brought satisfaction. Where'd the fuck?"
+    },
+    {
+      "id": 66,
+      "start": 1237.2,
+      "end": 1243.0,
+      "text": "He also warned against pornography, which he said brought satisfaction without relationship and could lead to addiction"
+    },
+    {
+      "id": 67,
+      "start": 1243.0,
+      "end": 1248.64,
+      "text": "His Vatican address was part of a series of sermons of vices and virtues focused on what the Pope called the"
+    },
+    {
+      "id": 68,
+      "start": 1248.88,
+      "end": 1250.88,
+      "text": "Demound of lust"
+    },
+    {
+      "id": 69,
+      "start": 1251.12,
+      "end": 1255.4,
+      "text": "He killer asked what about those monster dildos is God cool with those?"
+    },
+    {
+      "id": 70,
+      "start": 1256.16,
+      "end": 1258.0,
+      "text": "and"
+    },
+    {
+      "id": 71,
+      "start": 1258.0,
+      "end": 1262.46,
+      "text": "How monstrous?"
+    },
+    {
+      "id": 72,
+      "start": 1262.46,
+      "end": 1265.7,
+      "text": "God can contains a you know an"
+    },
+    {
+      "id": 73,
+      "start": 1266.46,
+      "end": 1273.34,
+      "text": "Infinity of all things, so I'm assuming he could absolutely hand or handle the thickest of insertion or she or"
+    },
+    {
+      "id": 74,
+      "start": 1275.42,
+      "end": 1279.14,
+      "text": "The CV loves you. Thank you so much. I think the jury's out"
+    },
+    {
+      "id": 75,
+      "start": 1279.14,
+      "end": 1282.82,
+      "text": "I'm not familiar with Leviticus or lasciviousness"
+    },
+    {
+      "id": 76,
+      "start": 1283.34,
+      "end": 1285.34,
+      "text": "Whatever book of the Bible covers"
+    },
+    {
+      "id": 77,
+      "start": 1285.86,
+      "end": 1287.86,
+      "text": "specific fetishes"
+    },
+    {
+      "id": 78,
+      "start": 1288.1,
+      "end": 1291.34,
+      "text": "I'm not that verse in the Bible either, but I don't well"
+    },
+    {
+      "id": 79,
+      "start": 1292.02,
+      "end": 1294.02,
+      "text": "It depends what you're into"
+    },
+    {
+      "id": 80,
+      "start": 1294.94,
+      "end": 1298.62,
+      "text": "Anyway, the jury's out, but probably got to handle any size you've got"
+    },
+    {
+      "id": 81,
+      "start": 1299.98,
+      "end": 1303.7,
+      "text": "Also a huge shout out to those of you dropping those hot"
+    },
+    {
+      "id": 82,
+      "start": 1304.42,
+      "end": 1310.58,
+      "text": "Subbies I know this story is getting sexy and it makes you want to pull out the subs and I'm in full support of that"
+    },
+    {
+      "id": 83,
+      "start": 1310.62,
+      "end": 1318.58,
+      "text": "Thank you to CV loves you and dad lamp recon the daddy of the pecans archangel 713 for the 12 months"
+    },
+    {
+      "id": 84,
+      "start": 1319.1,
+      "end": 1322.74,
+      "text": "All of you and the little hypey train that's going. Oh, there's a hype train"
+    },
+    {
+      "id": 85,
+      "start": 1322.74,
+      "end": 1324.74,
+      "text": "Okay, but can we talk about the sex thing?"
+    },
+    {
+      "id": 86,
+      "start": 1325.22,
+      "end": 1332.12,
+      "text": "We can but I have to play the hype train music at the very least if we're gonna do that. Just I got to find it"
+    },
+    {
+      "id": 87,
+      "start": 1335.93,
+      "end": 1337.93,
+      "text": "But now they won't take this story seriously"
+    },
+    {
+      "id": 88,
+      "start": 1339.33,
+      "end": 1341.33,
+      "text": "Can't help it if a hype train shows up"
+    },
+    {
+      "id": 89,
+      "start": 1342.93,
+      "end": 1348.37,
+      "text": "You're lucky I don't make you into the hype train you cannot transform me into a train. I am a man"
+    },
+    {
+      "id": 90,
+      "start": 1349.17,
+      "end": 1354.85,
+      "text": "At least turn it down slightly. All right, of course what part of our top story there is currently a hype train happening"
+    },
+    {
+      "id": 91,
+      "start": 1355.37,
+      "end": 1357.93,
+      "text": "And this for you again is sponsored by BBC"
+    },
+    {
+      "id": 92,
+      "start": 1358.61,
+      "end": 1363.41,
+      "text": "It was followed by criticisms about conservative Catholics. This is so distracted"
+    },
+    {
+      "id": 93,
+      "start": 1364.13,
+      "end": 1368.13,
+      "text": "Followed by criticism about conservative Catholics of his new head of doctrine"
+    },
+    {
+      "id": 94,
+      "start": 1368.65,
+      "end": 1373.21,
+      "text": "Cardinal Victor Manuel Fernandez. He was appointed last July came under fire for a book"
+    },
+    {
+      "id": 95,
+      "start": 1373.21,
+      "end": 1378.25,
+      "text": "He wrote and published in late 1990s entitled mysticale Passione"
+    },
+    {
+      "id": 96,
+      "start": 1379.53,
+      "end": 1384.89,
+      "text": "Spirituality and sensuality the book which is now out of print discussed human sexuality"
+    },
+    {
+      "id": 97,
+      "start": 1385.37,
+      "end": 1388.25,
+      "text": "and provided detailed descriptions of male and female"
+    },
+    {
+      "id": 98,
+      "start": 1388.97,
+      "end": 1393.73,
+      "text": "Experiences during or chasm speaking to catholic online publication crooks"
+    },
+    {
+      "id": 99,
+      "start": 1394.21,
+      "end": 1401.01,
+      "text": "Cardinal Fernandez said he wrote the book when he was still young and he certainly would not write it now. I"
+    },
+    {
+      "id": 100,
+      "start": 1401.53,
+      "end": 1403.45,
+      "text": "Guess he's fucking taste calm down"
+    },
+    {
+      "id": 101,
+      "start": 1404.57,
+      "end": 1407.41,
+      "text": "We can hear the hype train and be serious at the same time"
+    },
+    {
+      "id": 102,
+      "start": 1407.41,
+      "end": 1413.45,
+      "text": "I mean, I have that level of commitment to the news cases over here. Just fucking vibe it out"
+    },
+    {
+      "id": 103,
+      "start": 1413.81,
+      "end": 1421.5,
+      "text": "But I'm actually taking this shit seriously good. You're calming down"
+    },
+    {
+      "id": 104,
+      "start": 1422.14,
+      "end": 1429.89,
+      "text": "You know, a card King says y'all know the only sin in Sodom and Gomorrah was that they didn't acknowledge God. Oh"
+    },
+    {
+      "id": 105,
+      "start": 1430.37,
+      "end": 1436.53,
+      "text": "Shit, they're working with fucking map hacks, dude. They're turning on the mods. They're like, I'm fucking crack the system"
+    },
+    {
+      "id": 106,
+      "start": 1436.69,
+      "end": 1441.41,
+      "text": "You can actually be as horny and crazy as you want if you fucking bless up afterwards"
+    },
+    {
+      "id": 107,
+      "start": 1441.53,
+      "end": 1452.24,
+      "text": "I'll praise be in his name now. Let's stuff these fucking holes. I mean, I'm in favor. I know you won't"
+    },
+    {
+      "id": 108,
+      "start": 1453.6,
+      "end": 1455.8,
+      "text": "Matt Pats"
+    },
+    {
+      "id": 109,
+      "start": 1455.8,
+      "end": 1459.12,
+      "text": "That's just a game here. I know that's a real ass game theory"
+    },
+    {
+      "id": 110,
+      "start": 1459.72,
+      "end": 1465.24,
+      "text": "Bless up to God every time you fucking get it in or get it put in you or you know, whatever"
+    },
+    {
+      "id": 111,
+      "start": 1467.44,
+      "end": 1474.2,
+      "text": "Conservative commenters have called the book perverse with one saying it showed Cardinal Fernandez was unfit to be perfect for the"
+    },
+    {
+      "id": 112,
+      "start": 1475.52,
+      "end": 1477.52,
+      "text": "Dicastery"
+    },
+    {
+      "id": 113,
+      "start": 1477.52,
+      "end": 1479.52,
+      "text": "He's called the Dicastery"
+    },
+    {
+      "id": 114,
+      "start": 1480.52,
+      "end": 1490.0,
+      "text": "Yeah, yeah, that's right. That's right. Yeah, I just read it for the the Dicastery for the doctrine of the faith the pope had"
+    },
+    {
+      "id": 115,
+      "start": 1490.0,
+      "end": 1496.8,
+      "text": "Already tackled the vice of gluttoning last week. There's no suggestion that his sermon on lust during Wednesday's general audience. Hello, chandel"
+    },
+    {
+      "id": 116,
+      "start": 1498.08,
+      "end": 1501.96,
+      "text": "General audience was related to the criticism of the Cardinal"
+    },
+    {
+      "id": 117,
+      "start": 1502.84,
+      "end": 1506.88,
+      "text": "Why would they why would they try to to take the sex out of the Dicastery?"
+    },
+    {
+      "id": 118,
+      "start": 1506.88,
+      "end": 1511.0,
+      "text": "I just don't understand. Also the hype train completed at level four"
+    },
+    {
+      "id": 119,
+      "start": 1512.16,
+      "end": 1518.0,
+      "text": "The train that we were running on this story just pounding this story into the ground. It hit a four"
+    },
+    {
+      "id": 120,
+      "start": 1519.56,
+      "end": 1521.96,
+      "text": "It's a respectable train"
+    },
+    {
+      "id": 121,
+      "start": 1523.4,
+      "end": 1525.16,
+      "text": "Nice"
+    },
+    {
+      "id": 122,
+      "start": 1525.16,
+      "end": 1527.48,
+      "text": "Lorraine a bob at the dick the Dicastery"
+    },
+    {
+      "id": 123,
+      "start": 1527.48,
+      "end": 1534.16,
+      "text": "I mean you might have to if they're becoming anti-sex which is against the will of God as it is a gift that he bestowed upon to us"
+    },
+    {
+      "id": 124,
+      "start": 1534.16,
+      "end": 1536.16,
+      "text": "To get it in and get it put in"
+    },
+    {
+      "id": 125,
+      "start": 1536.28,
+      "end": 1538.2,
+      "text": "then I"
+    },
+    {
+      "id": 126,
+      "start": 1538.2,
+      "end": 1542.48,
+      "text": "Think that it's a false covenant that is being celebrated by demons"
+    },
+    {
+      "id": 127,
+      "start": 1543.8,
+      "end": 1545.8,
+      "text": "anti-sex demons"
+    },
+    {
+      "id": 128,
+      "start": 1545.92,
+      "end": 1550.92,
+      "text": "Anti-sex demons the church has been taken over by anti-sex demons except the Pope who seems chill"
+    },
+    {
+      "id": 129,
+      "start": 1551.44,
+      "end": 1558.2,
+      "text": "Anyway, this fucking loser said that lust devastates relationships between people adding that daily news is enough to document"
+    },
+    {
+      "id": 130,
+      "start": 1558.2,
+      "end": 1564.28,
+      "text": "This is a reality. How many relationships that started out in the best way have ever become"
+    },
+    {
+      "id": 131,
+      "start": 1566.16,
+      "end": 1568.16,
+      "text": "But that's me"
+    },
+    {
+      "id": 132,
+      "start": 1569.2,
+      "end": 1571.2,
+      "text": "Anti-sex demons"
+    },
+    {
+      "id": 133,
+      "start": 1571.24,
+      "end": 1575.54,
+      "text": "Don't let them encase they'll pervert your holy dirty mind. I"
+    },
+    {
+      "id": 134,
+      "start": 1576.2,
+      "end": 1581.24,
+      "text": "Thought I'm I don't I think you got it backwards for traditional religion. They don't like sex"
+    },
+    {
+      "id": 135,
+      "start": 1582.8,
+      "end": 1586.0,
+      "text": "You that well see and now you're succumbing to stereotypes"
+    },
+    {
+      "id": 136,
+      "start": 1587.12,
+      "end": 1592.4,
+      "text": "Stereotype is that really religious people are anti-sex and they don't even want you to use"
+    },
+    {
+      "id": 137,
+      "start": 1592.8,
+      "end": 1597.32,
+      "text": "Provolactics because all sperm is sacred, but really if you just fucking bless up the God"
+    },
+    {
+      "id": 138,
+      "start": 1597.32,
+      "end": 1600.04,
+      "text": "You can shoot the thickest ropes you want anywhere you want"
+    },
+    {
+      "id": 139,
+      "start": 1600.04,
+      "end": 1606.76,
+      "text": "And you just got to pray over those ropes and wherever they're in wherever they're on and it's all good in the face of God"
+    },
+    {
+      "id": 140,
+      "start": 1608.72,
+      "end": 1611.84,
+      "text": "Chat I think I think you're gonna offend some people if you keep talking like this"
+    },
+    {
+      "id": 141,
+      "start": 1611.84,
+      "end": 1615.0,
+      "text": "No, I'm blessing up afterwards praise be his name"
+    },
+    {
+      "id": 142,
+      "start": 1615.64,
+      "end": 1619.0,
+      "text": "Can I get an amen in the face of God?"
+    },
+    {
+      "id": 143,
+      "start": 1619.76,
+      "end": 1627.26,
+      "text": "Blast that amen and in the face of God. Oh, okay. Yeah, exactly"
+    },
+    {
+      "id": 144,
+      "start": 1628.06,
+      "end": 1630.82,
+      "text": "We'll get to this expert after I get through this important story"
+    },
+    {
+      "id": 145,
+      "start": 1631.02,
+      "end": 1638.66,
+      "text": "This is a news institution and I will deliver the news on to you like I'm a sermon from the mountain with the book of"
+    },
+    {
+      "id": 146,
+      "start": 1639.74,
+      "end": 1645.46,
+      "text": "Moses that was written in rock and his commandments shall be let chit fucking cook on this story"
+    },
+    {
+      "id": 147,
+      "start": 1646.66,
+      "end": 1650.54,
+      "text": "Hmm sticky ropes exactly, but bless up if they stick"
+    },
+    {
+      "id": 148,
+      "start": 1652.1,
+      "end": 1654.1,
+      "text": "Consecrate the landing area"
+    },
+    {
+      "id": 149,
+      "start": 1654.66,
+      "end": 1659.14,
+      "text": "How many relationships that started out the best way have later become toxic relationships?"
+    },
+    {
+      "id": 150,
+      "start": 1659.14,
+      "end": 1664.74,
+      "text": "Yes, this is not the first time Pope Francis or Cardinal Fernandez have drawn the ire of"
+    },
+    {
+      "id": 151,
+      "start": 1665.06,
+      "end": 1667.8,
+      "text": "conservative members of the Catholic community"
+    },
+    {
+      "id": 152,
+      "start": 1668.54,
+      "end": 1675.66,
+      "text": "I know plenty of Catholics in December Cardinal Fernandez introduced by text later approved by Pope Francis"
+    },
+    {
+      "id": 153,
+      "start": 1675.7,
+      "end": 1681.62,
+      "text": "Detailing guidelines allowing priests to bless same-sex couple relationships were still considered simple"
+    },
+    {
+      "id": 154,
+      "start": 1682.02,
+      "end": 1684.02,
+      "text": "So he's on that he's fucking"
+    },
+    {
+      "id": 155,
+      "start": 1684.34,
+      "end": 1686.34,
+      "text": "He's elevated his"
+    },
+    {
+      "id": 156,
+      "start": 1686.66,
+      "end": 1689.42,
+      "text": "He's becoming a modern man and a modern Pope"
+    },
+    {
+      "id": 157,
+      "start": 1690.14,
+      "end": 1692.14,
+      "text": "Wait, which person was doing that?"
+    },
+    {
+      "id": 158,
+      "start": 1692.78,
+      "end": 1697.54,
+      "text": "Pope Francis, he's letting this he's letting us be same-sex. Oh"
+    },
+    {
+      "id": 159,
+      "start": 1698.06,
+      "end": 1701.34,
+      "text": "I'm glad we have his permission and it's important to get"
+    },
+    {
+      "id": 160,
+      "start": 1701.7,
+      "end": 1708.54,
+      "text": "Although Cardinal Fernandez did emphasize that the stance did not validate the status of same-sex couples in the eyes of the Catholic Church"
+    },
+    {
+      "id": 161,
+      "start": 1708.54,
+      "end": 1712.7,
+      "text": "For many conservatives the damage was done. Oh, well as long as"
+    },
+    {
+      "id": 162,
+      "start": 1713.46,
+      "end": 1716.74,
+      "text": "You still get to feel guilty because that's an important part of it, too"
+    },
+    {
+      "id": 163,
+      "start": 1717.7,
+      "end": 1721.9,
+      "text": "What you mean Catholic guilt? Yeah, that's like a huge thing. So they can say like it's chill"
+    },
+    {
+      "id": 164,
+      "start": 1721.9,
+      "end": 1726.02,
+      "text": "But do still feel bad feel bad every day and we do"
+    },
+    {
+      "id": 165,
+      "start": 1726.78,
+      "end": 1728.78,
+      "text": "because again bless up"
+    },
+    {
+      "id": 166,
+      "start": 1728.98,
+      "end": 1736.22,
+      "text": "Until Trump declares himself the new Pope. Oh shit. Can he do that? I mean he could do that. I don't think that means he is"
+    },
+    {
+      "id": 167,
+      "start": 1737.1,
+      "end": 1740.8,
+      "text": "He's declared himself president and that now seems like he's gonna be I"
+    },
+    {
+      "id": 168,
+      "start": 1741.9,
+      "end": 1745.94,
+      "text": "Guess it's not impossible. You know at this point. I shouldn't say it's impossible that Trump becomes Pope"
+    },
+    {
+      "id": 169,
+      "start": 1745.94,
+      "end": 1750.82,
+      "text": "I was wrong that he could become president. I might be hopefully I'm wrong that he's gonna become one again. Oh"
+    },
+    {
+      "id": 170,
+      "start": 1752.22,
+      "end": 1754.06,
+      "text": "boy"
+    },
+    {
+      "id": 171,
+      "start": 1754.06,
+      "end": 1756.06,
+      "text": "President Trump Pope"
+    },
+    {
+      "id": 172,
+      "start": 1756.42,
+      "end": 1759.54,
+      "text": "How much doesn't that give him extra powers can't he turn like"
+    },
+    {
+      "id": 173,
+      "start": 1761.14,
+      "end": 1763.14,
+      "text": "Stakes into"
+    },
+    {
+      "id": 174,
+      "start": 1763.54,
+      "end": 1769.78,
+      "text": "Like Trump steaks into Trump planes or some shit. That's his Pope power turning steaks into planes. I"
+    },
+    {
+      "id": 175,
+      "start": 1770.5,
+      "end": 1774.64,
+      "text": "Don't know. He turns gold into a golf course"
+    },
+    {
+      "id": 176,
+      "start": 1775.86,
+      "end": 1780.7,
+      "text": "I don't I don't think that's a Pope power. You don't know you're not him or the Pope"
+    },
+    {
+      "id": 177,
+      "start": 1781.14,
+      "end": 1782.3,
+      "text": "Oh"
+    },
+    {
+      "id": 178,
+      "start": 1782.3,
+      "end": 1789.1,
+      "text": "Fuck Cardinal Gerhard Mahler, who was the church's head of doctrine under Pope Benedict?"
+    },
+    {
+      "id": 179,
+      "start": 1791.7,
+      "end": 1795.1,
+      "text": "It's hilarious because they're against it they're against dick"
+    },
+    {
+      "id": 180,
+      "start": 1795.1,
+      "end": 1800.06,
+      "text": "But it's in their names and in their institutions. It's already inside them. It's true"
+    },
+    {
+      "id": 181,
+      "start": 1800.06,
+      "end": 1803.02,
+      "text": "The dick does already inside them and there's no stopping it"
+    },
+    {
+      "id": 182,
+      "start": 1803.66,
+      "end": 1810.04,
+      "text": "Anyway, mr. Dick's firmly denounced the Vatican's document in a lengthy response posted online Cardinal"
+    },
+    {
+      "id": 183,
+      "start": 1810.7,
+      "end": 1812.9,
+      "text": "How do you pronounce the two dots over the you?"
+    },
+    {
+      "id": 184,
+      "start": 1814.22,
+      "end": 1815.82,
+      "text": "Mueller"
+    },
+    {
+      "id": 185,
+      "start": 1815.82,
+      "end": 1817.5,
+      "text": "That doesn't sound right"
+    },
+    {
+      "id": 186,
+      "start": 1817.5,
+      "end": 1824.42,
+      "text": "Millie said that a priest blessing a homosexual union would be committing a secularism bless famous at"
+    },
+    {
+      "id": 187,
+      "start": 1826.4,
+      "end": 1830.76,
+      "text": "Trump steaks on a plane if he puts the steaks on a plane and then the steaks become a plane"
+    },
+    {
+      "id": 188,
+      "start": 1830.76,
+      "end": 1833.96,
+      "text": "It's a danger to the planes all of them at once"
+    },
+    {
+      "id": 189,
+      "start": 1834.96,
+      "end": 1837.28,
+      "text": "Chet, what are you imagining here?"
+    },
+    {
+      "id": 190,
+      "start": 1837.32,
+      "end": 1843.32,
+      "text": "He's leans over one of his Trump steaks and he chants by the power of Pope God"
+    },
+    {
+      "id": 191,
+      "start": 1843.68,
+      "end": 1851.0,
+      "text": "Become a plane and then it just boom it like a like a big expanding like in the Godzilla movie when they blow up the"
+    },
+    {
+      "id": 192,
+      "start": 1851.04,
+      "end": 1858.08,
+      "text": "What the flotation devices on Godzilla the steaks like food and it's a plane and if that happens on a plane"
+    },
+    {
+      "id": 193,
+      "start": 1858.2,
+      "end": 1863.2,
+      "text": "Which he's on all the time because he's doing he's making big money president moves"
+    },
+    {
+      "id": 194,
+      "start": 1863.36,
+      "end": 1865.36,
+      "text": "Then your plane explodes into a plane"
+    },
+    {
+      "id": 195,
+      "start": 1867.16,
+      "end": 1873.64,
+      "text": "And what happens to the people on the first plane none of that is a concern none of that is ever gonna happen shut you don't know that"
+    },
+    {
+      "id": 196,
+      "start": 1874.44,
+      "end": 1879.13,
+      "text": "You are scaring me chat card King. I'm scared"
+    },
+    {
+      "id": 197,
+      "start": 1880.13,
+      "end": 1885.37,
+      "text": "And I'm trying to calm down by thinking about the Pope having sex, but so far it's just confusing me"
+    },
+    {
+      "id": 198,
+      "start": 1886.17,
+      "end": 1892.45,
+      "text": "Sacrilegious and blasphemous acts. That's what we're talking about according to the criterion collection of these types of blessings"
+    },
+    {
+      "id": 199,
+      "start": 1892.97,
+      "end": 1897.61,
+      "text": "One could even bless an abortion clinic or a mafia group Cardinal"
+    },
+    {
+      "id": 200,
+      "start": 1898.25,
+      "end": 1899.89,
+      "text": "Mulia he said"
+    },
+    {
+      "id": 201,
+      "start": 1899.89,
+      "end": 1904.57,
+      "text": "Prolates around the world are also release statements also release statements"
+    },
+    {
+      "id": 202,
+      "start": 1904.97,
+      "end": 1906.97,
+      "text": "condemning the discussion"
+    },
+    {
+      "id": 203,
+      "start": 1907.81,
+      "end": 1913.41,
+      "text": "Including American conservatives who have been vocal opposing the Pope's planes plans plans"
+    },
+    {
+      "id": 204,
+      "start": 1916.37,
+      "end": 1919.89,
+      "text": "True blue 91ers. Thank you so much for this sub. I am freaking out. I"
+    },
+    {
+      "id": 205,
+      "start": 1920.73,
+      "end": 1924.37,
+      "text": "Fucking losing my cool, and I know that's a little not newsy enough"
+    },
+    {
+      "id": 206,
+      "start": 1924.37,
+      "end": 1928.29,
+      "text": "But sometimes the news is be scared cuz this shit"
+    },
+    {
+      "id": 207,
+      "start": 1930.57,
+      "end": 1935.37,
+      "text": "Well to be fair the story is not a lot. It's just the Pope making a pretty mild statement about sex. I"
+    },
+    {
+      "id": 208,
+      "start": 1936.05,
+      "end": 1939.61,
+      "text": "Think you're hyping it up and driving yourself a little crazy chat"
+    },
+    {
+      "id": 209,
+      "start": 1941.17,
+      "end": 1943.17,
+      "text": "I'm being gas"
+    },
+    {
+      "id": 210,
+      "start": 1943.21,
+      "end": 1944.17,
+      "text": "Fit"
+    },
+    {
+      "id": 211,
+      "start": 1944.17,
+      "end": 1949.97,
+      "text": "Yes, pit. I'm being gas pitted by you. You mean gas lit. No gas pitted"
+    },
+    {
+      "id": 212,
+      "start": 1950.57,
+      "end": 1952.57,
+      "text": "It's when you have a feeling"
+    },
+    {
+      "id": 213,
+      "start": 1952.65,
+      "end": 1958.97,
+      "text": "And who the the guy you thought was your boy digs a fucking hole and then he kicks you into it and says your feelings"
+    },
+    {
+      "id": 214,
+      "start": 1958.97,
+      "end": 1962.28,
+      "text": "Don't matter. You've been gas pitted"
+    },
+    {
+      "id": 215,
+      "start": 1962.32,
+      "end": 1968.36,
+      "text": "Sounds a lot like gaslighting. No, it's a different even more macho version of gaslighting gaslighting macho"
+    },
+    {
+      "id": 216,
+      "start": 1968.88,
+      "end": 1970.88,
+      "text": "When it's being done to me"
+    },
+    {
+      "id": 217,
+      "start": 1970.88,
+      "end": 1975.0,
+      "text": "But it's even more macho when it's gas pitting which is exactly what's happening"
+    },
+    {
+      "id": 218,
+      "start": 1976.48,
+      "end": 1983.16,
+      "text": "Just seriously says what on the Pope's gift registry what's on the Pope's gifts registry. Is he getting married?"
+    },
+    {
+      "id": 219,
+      "start": 1983.16,
+      "end": 1989.28,
+      "text": "I don't think so. Maybe he just has maybe as a gift register because he's the Pope. I don't know chat"
+    },
+    {
+      "id": 220,
+      "start": 1989.28,
+      "end": 1995.52,
+      "text": "Well, the people want to know I don't think he has a permanent gift registry. What he wants is more money"
+    },
+    {
+      "id": 221,
+      "start": 1995.52,
+      "end": 2000.72,
+      "text": "Give the church more money. That's what they always want. Oh, okay. That's nice when you can just give cash"
+    },
+    {
+      "id": 222,
+      "start": 2001.32,
+      "end": 2006.32,
+      "text": "Because otherwise you got to like consider what they really I but then I guess that's the point of a gift registry"
+    },
+    {
+      "id": 223,
+      "start": 2006.88,
+      "end": 2008.88,
+      "text": "None of this has anything to do with the story"
+    },
+    {
+      "id": 224,
+      "start": 2010.28,
+      "end": 2013.24,
+      "text": "It does because it's happening during the story. Okay, whatever"
+    },
+    {
+      "id": 225,
+      "start": 2013.76,
+      "end": 2021.2,
+      "text": "Who have long been okay? The tensions reached a nay dear when the Pope evicted out spoken critic US cardinal Raymond"
+    },
+    {
+      "id": 226,
+      "start": 2021.2,
+      "end": 2024.64,
+      "text": "The Burke from his Vatican apartment and revoked his salary"
+    },
+    {
+      "id": 227,
+      "start": 2026.48,
+      "end": 2031.71,
+      "text": "That's the end of the story. Oh"
+    },
+    {
+      "id": 228,
+      "start": 2031.91,
+      "end": 2033.03,
+      "text": "Oh"
+    },
+    {
+      "id": 229,
+      "start": 2033.03,
+      "end": 2035.03,
+      "text": "Well, that's it. It was a sad ending for"
+    },
+    {
+      "id": 230,
+      "start": 2035.91,
+      "end": 2043.34,
+      "text": "Raymond the Burke. Why'd they even do that? Oh, cuz he was uh, huh?"
+    },
+    {
+      "id": 231,
+      "start": 2044.06,
+      "end": 2048.34,
+      "text": "Well, but Burke was too anti-sex and the Pope said we fucking around here get the fuck out"
+    },
+    {
+      "id": 232,
+      "start": 2049.94,
+      "end": 2054.26,
+      "text": "Yeah, I don't know I'm surprised. It's just feels like the story kind of ended mid-sentence, but oh"
+    },
+    {
+      "id": 233,
+      "start": 2055.02,
+      "end": 2060.18,
+      "text": "Shit, we got stuff to get to you got to talk to a sexual demon and then somebody's got a sing about it or something"
+    },
+    {
+      "id": 234,
+      "start": 2060.86,
+      "end": 2062.86,
+      "text": "Yes, that's accurate"
+    },
+    {
+      "id": 235,
+      "start": 2063.7,
+      "end": 2070.7,
+      "text": "Well, thanks for your coverage, but stay calm shut I it's not that serious. It's just the Pope"
+    },
+    {
+      "id": 236,
+      "start": 2072.22,
+      "end": 2076.9,
+      "text": "Trying to be more forward thinking by saying sex is fine that incredibly"
+    },
+    {
+      "id": 237,
+      "start": 2078.18,
+      "end": 2080.18,
+      "text": "You know progressive statement"
+    },
+    {
+      "id": 238,
+      "start": 2080.86,
+      "end": 2087.26,
+      "text": "Just at the end of the stream poor for four and I will for four all your pores like I'm a skiing expert"
+    },
+    {
+      "id": 239,
+      "start": 2089.3,
+      "end": 2096.34,
+      "text": "Thanks for being here check and my pleasure as well because of what is required of the coverage and which has been done"
+    },
+    {
+      "id": 240,
+      "start": 2096.34,
+      "end": 2099.58,
+      "text": "And well though the story ended with the failure of Raymond"
+    },
+    {
+      "id": 241,
+      "start": 2100.18,
+      "end": 2108.82,
+      "text": "Everybody loves Raymond's failure because of the sex that he was not having but I'll tell you what's really fucked not being informed"
+    },
+    {
+      "id": 242,
+      "start": 2108.82,
+      "end": 2113.74,
+      "text": "but now you is meaning you're unfucked but that you do fuck and that I'm chet and"
+    },
+    {
+      "id": 243,
+      "start": 2113.92,
+      "end": 2120.28,
+      "text": "And much like God insert your loving to me at any size because I'll take it all"
+    },
+    {
+      "id": 244,
+      "start": 2121.22,
+      "end": 2127.42,
+      "text": "Straight to the face bless up to the face of God and cover it with your love and of which was chet"
+    },
+    {
+      "id": 245,
+      "start": 2127.66,
+      "end": 2137.5,
+      "text": "Now on to thee is the religion of the news which was done. Amen. Oops. Yeah"
+    },
+    {
+      "id": 246,
+      "start": 2138.26,
+      "end": 2140.26,
+      "text": "This is the body of Christ"
+    },
+    {
+      "id": 247,
+      "start": 2141.1,
+      "end": 2143.3,
+      "text": "The body of of chat compels you"
+    },
+    {
+      "id": 248,
+      "start": 2144.3,
+      "end": 2148.18,
+      "text": "Um anti-sex demons is who is it who I need to talk to? I"
+    },
+    {
+      "id": 249,
+      "start": 2149.34,
+      "end": 2153.54,
+      "text": "Don't know what demons are even around the studio today. There's usually a couple"
+    },
+    {
+      "id": 250,
+      "start": 2155.26,
+      "end": 2157.26,
+      "text": "Let's see"
+    },
+    {
+      "id": 251,
+      "start": 2157.9,
+      "end": 2161.26,
+      "text": "What anti-sex demons I can find on short notice"
+    },
+    {
+      "id": 252,
+      "start": 2161.74,
+      "end": 2166.06,
+      "text": "Papito we got any anti-sex anti-sex demons ready to go. Don't do my life"
+    },
+    {
+      "id": 253,
+      "start": 2166.94,
+      "end": 2168.46,
+      "text": "Yes"
+    },
+    {
+      "id": 254,
+      "start": 2168.46,
+      "end": 2172.02,
+      "text": "You found one that fast. I looked at the sky and I said"
+    },
+    {
+      "id": 255,
+      "start": 2173.66,
+      "end": 2175.66,
+      "text": "And then it even showed up"
+    },
+    {
+      "id": 256,
+      "start": 2176.06,
+      "end": 2178.06,
+      "text": "You know sexes"
+    },
+    {
+      "id": 257,
+      "start": 2178.86,
+      "end": 2181.22,
+      "text": "Okay, well, that's sexually fine by me. I'm not gonna tell you"
+    },
+    {
+      "id": 258,
+      "start": 2181.22,
+      "end": 2184.62,
+      "text": "I don't want to know and I wouldn't even if you told me cuz I'm a dog"
+    },
+    {
+      "id": 259,
+      "start": 2185.94,
+      "end": 2189.58,
+      "text": "But you well the chat is saying that you fuck. Oh, thanks. Is that good?"
+    },
+    {
+      "id": 260,
+      "start": 2190.42,
+      "end": 2197.59,
+      "text": "Yeah in that context. Yeah, if I fuck you mean love my mommy for being a good mom. I"
+    },
+    {
+      "id": 261,
+      "start": 2198.31,
+      "end": 2203.06,
+      "text": "Don't mean that that's sweet, but stop saying that"
+    },
+    {
+      "id": 262,
+      "start": 2208.82,
+      "end": 2210.82,
+      "text": "Thanks for the follow mystery"
+    },
+    {
+      "id": 263,
+      "start": 2211.5,
+      "end": 2220.22,
+      "text": "Yo jumbo the don't worry. Papito's just confused. Yeah, Papito's in the mills. Mom's I love Fiona"
+    },
+    {
+      "id": 264,
+      "start": 2227.44,
+      "end": 2231.36,
+      "text": "Actually, how did you know that what that acronym meant if you can't read and you don't know what sex is?"
+    },
+    {
+      "id": 265,
+      "start": 2231.36,
+      "end": 2233.92,
+      "text": "I just go off instinct again. I am a dog"
+    },
+    {
+      "id": 266,
+      "start": 2234.52,
+      "end": 2240.45,
+      "text": "Well, thanks for getting a sex demon short notice and I guess let's check in with them"
+    },
+    {
+      "id": 267,
+      "start": 2243.09,
+      "end": 2246.77,
+      "text": "From the seventh layer of hell"
+    },
+    {
+      "id": 268,
+      "start": 2248.69,
+      "end": 2250.69,
+      "text": "Please welcome I"
+    },
+    {
+      "id": 269,
+      "start": 2251.93,
+      "end": 2257.94,
+      "text": "Guess it's just a I guess it's just a sex demon. That's correct"
+    },
+    {
+      "id": 270,
+      "start": 2258.94,
+      "end": 2263.22,
+      "text": "I am indeed a demon of sexual nature"
+    },
+    {
+      "id": 271,
+      "start": 2264.62,
+      "end": 2274.38,
+      "text": "Anti-sex nature actually don't like it. You do look like a sex demon. No, but I but don't is my thing"
+    },
+    {
+      "id": 272,
+      "start": 2275.46,
+      "end": 2277.46,
+      "text": "Stop fucking"
+    },
+    {
+      "id": 273,
+      "start": 2277.5,
+      "end": 2278.78,
+      "text": "More toes"
+    },
+    {
+      "id": 274,
+      "start": 2278.78,
+      "end": 2292.1,
+      "text": "It's well, what don't you like about sex so dirty. It's filthy all those parts rubbing together"
+    },
+    {
+      "id": 275,
+      "start": 2299.1,
+      "end": 2303.46,
+      "text": "Sounds like you like it, which you are a demon so that kind of makes sense"
+    },
+    {
+      "id": 276,
+      "start": 2304.62,
+      "end": 2307.18,
+      "text": "I'm literally the demon of anti-sex. I"
+    },
+    {
+      "id": 277,
+      "start": 2308.22,
+      "end": 2310.22,
+      "text": "Think about how not to do it all the time"
+    },
+    {
+      "id": 278,
+      "start": 2312.38,
+      "end": 2318.46,
+      "text": "That certain parts not fit together. Maybe something's too big to even do it"
+    },
+    {
+      "id": 279,
+      "start": 2319.7,
+      "end": 2321.5,
+      "text": "Huge"
+    },
+    {
+      "id": 280,
+      "start": 2321.5,
+      "end": 2323.5,
+      "text": "pulsing out labious"
+    },
+    {
+      "id": 281,
+      "start": 2324.14,
+      "end": 2325.62,
+      "text": "incapable of"
+    },
+    {
+      "id": 282,
+      "start": 2325.62,
+      "end": 2326.74,
+      "text": "quite as"
+    },
+    {
+      "id": 283,
+      "start": 2326.74,
+      "end": 2328.74,
+      "text": "Huge pulsing labious"
+    },
+    {
+      "id": 284,
+      "start": 2328.78,
+      "end": 2336.81,
+      "text": "Just parts big wet parts that should never stop it"
+    },
+    {
+      "id": 285,
+      "start": 2337.33,
+      "end": 2341.09,
+      "text": "You're getting way too turned on immediately to even have a conversation"
+    },
+    {
+      "id": 286,
+      "start": 2341.77,
+      "end": 2346.81,
+      "text": "Okay, how did you become the anti-sex demon? I fucked so much that I got bored"
+    },
+    {
+      "id": 287,
+      "start": 2347.33,
+      "end": 2351.21,
+      "text": "I was like you guys are still doing that"
+    },
+    {
+      "id": 288,
+      "start": 2352.01,
+      "end": 2356.13,
+      "text": "Not me. I'm kind of next level you sound insanely horny though"
+    },
+    {
+      "id": 289,
+      "start": 2357.09,
+      "end": 2361.13,
+      "text": "What the I actually what I do now is I knit"
+    },
+    {
+      "id": 290,
+      "start": 2361.97,
+      "end": 2364.85,
+      "text": "I'm the deeming of anti-sex and knitting because"
+    },
+    {
+      "id": 291,
+      "start": 2365.93,
+      "end": 2371.65,
+      "text": "Imagine how much you could get done if think of all the times you spent masturbating and fucking and trying to fuck"
+    },
+    {
+      "id": 292,
+      "start": 2371.85,
+      "end": 2377.93,
+      "text": "And trying to masturbate if you're super stuck and if you just spent that time learning a skill you could code"
+    },
+    {
+      "id": 293,
+      "start": 2378.81,
+      "end": 2383.61,
+      "text": "You could knit you probably have a garden and um"
+    },
+    {
+      "id": 294,
+      "start": 2384.57,
+      "end": 2387.94,
+      "text": "You don't miss busting"
+    },
+    {
+      "id": 295,
+      "start": 2388.82,
+      "end": 2390.82,
+      "text": "Busting makes me feel bad"
+    },
+    {
+      "id": 296,
+      "start": 2391.38,
+      "end": 2405.24,
+      "text": "You don't miss busting at all. It sounds like you miss it a lot. I don't miss it. Oh, yeah"
+    },
+    {
+      "id": 297,
+      "start": 2411.5,
+      "end": 2414.42,
+      "text": "What? That's um, that's my catchphrase"
+    },
+    {
+      "id": 298,
+      "start": 2415.1,
+      "end": 2424.34,
+      "text": "Yeah, are you just our demons are tricky or just are you trying to trick me?"
+    },
+    {
+      "id": 299,
+      "start": 2424.86,
+      "end": 2428.78,
+      "text": "You're are you actually the horniest demon ever and you definitely fuck. No, I"
+    },
+    {
+      "id": 300,
+      "start": 2429.78,
+      "end": 2434.18,
+      "text": "Think Eric Harkus you walked into he's misrepresenting me. I'm an anti-sex demon"
+    },
+    {
+      "id": 301,
+      "start": 2434.9,
+      "end": 2447.34,
+      "text": "Any other questions? Does chat have any questions for this anti-sex demon? I'm sorry. He's"
+    },
+    {
+      "id": 302,
+      "start": 2448.5,
+      "end": 2450.9,
+      "text": "Not he's not I mean, I don't know what I expected"
+    },
+    {
+      "id": 303,
+      "start": 2451.82,
+      "end": 2456.38,
+      "text": "Don't you think sex is healthy? Why did why do we even have sexual organs? It's necessary for reproduction"
+    },
+    {
+      "id": 304,
+      "start": 2456.78,
+      "end": 2462.34,
+      "text": "The continuance of the human race. Yeah, but I want that to stop obviously stop existing humans. It's not work"
+    },
+    {
+      "id": 305,
+      "start": 2462.9,
+      "end": 2465.66,
+      "text": "You've seen enough. You don't have to keep going"
+    },
+    {
+      "id": 306,
+      "start": 2466.5,
+      "end": 2468.5,
+      "text": "Cut it out. Just come down here"
+    },
+    {
+      "id": 307,
+      "start": 2468.94,
+      "end": 2471.98,
+      "text": "You're gonna end up here anyway. Let's get it over with. Let's move it along"
+    },
+    {
+      "id": 308,
+      "start": 2472.78,
+      "end": 2479.54,
+      "text": "Come burn in the internal fires of hell get whipped get your skin scraped get fucked. I'm sorry. Don't get fucked. Oops. I mean don't"
+    },
+    {
+      "id": 309,
+      "start": 2482.18,
+      "end": 2485.62,
+      "text": "What would he do with an old priest and a young priest"
+    },
+    {
+      "id": 310,
+      "start": 2488.34,
+      "end": 2497.14,
+      "text": "Yeah, what's the age differential over 18 at least no, yeah, of course"
+    },
+    {
+      "id": 311,
+      "start": 2498.1,
+      "end": 2501.02,
+      "text": "Of course and 70. Oh"
+    },
+    {
+      "id": 312,
+      "start": 2501.7,
+      "end": 2505.5,
+      "text": "That's a big differential. That's really bad"
+    },
+    {
+      "id": 313,
+      "start": 2506.22,
+      "end": 2510.23,
+      "text": "So they shouldn't have sex"
+    },
+    {
+      "id": 314,
+      "start": 2512.91,
+      "end": 2518.83,
+      "text": "Okay, are you pro-abortion? No, you should never get to the point where you have one"
+    },
+    {
+      "id": 315,
+      "start": 2519.75,
+      "end": 2521.75,
+      "text": "so I'm pro"
+    },
+    {
+      "id": 316,
+      "start": 2521.99,
+      "end": 2523.31,
+      "text": "abstinence and"
+    },
+    {
+      "id": 317,
+      "start": 2523.31,
+      "end": 2525.31,
+      "text": "if there's a baby then"
+    },
+    {
+      "id": 318,
+      "start": 2525.47,
+      "end": 2528.51,
+      "text": "The important thing is that it grows up and doesn't have sex"
+    },
+    {
+      "id": 319,
+      "start": 2529.15,
+      "end": 2536.29,
+      "text": "She just curse I curse with my mind"
+    },
+    {
+      "id": 320,
+      "start": 2536.89,
+      "end": 2538.89,
+      "text": "All right"
+    },
+    {
+      "id": 321,
+      "start": 2539.01,
+      "end": 2541.01,
+      "text": "Have you ever had the body of Christ?"
+    },
+    {
+      "id": 322,
+      "start": 2543.09,
+      "end": 2545.61,
+      "text": "That's the ultimate no, no, I mean"
+    },
+    {
+      "id": 323,
+      "start": 2546.49,
+      "end": 2548.49,
+      "text": "these off-limits"
+    },
+    {
+      "id": 324,
+      "start": 2550.45,
+      "end": 2552.45,
+      "text": "Strictly forbidden"
+    },
+    {
+      "id": 325,
+      "start": 2552.57,
+      "end": 2554.33,
+      "text": "don't"
+    },
+    {
+      "id": 326,
+      "start": 2554.33,
+      "end": 2555.93,
+      "text": "Don't"
+    },
+    {
+      "id": 327,
+      "start": 2555.93,
+      "end": 2562.09,
+      "text": "So sweaty up there with those abs just these for it's for your he's doing it for your sins"
+    },
+    {
+      "id": 328,
+      "start": 2562.09,
+      "end": 2564.87,
+      "text": "Don't add more sins that'll be up there longer"
+    },
+    {
+      "id": 329,
+      "start": 2565.57,
+      "end": 2568.41,
+      "text": "Up there just baking in the sun with that body"
+    },
+    {
+      "id": 330,
+      "start": 2568.93,
+      "end": 2573.41,
+      "text": "Jesus Jesus Christ, um, I think I'd one more question"
+    },
+    {
+      "id": 331,
+      "start": 2575.29,
+      "end": 2580.17,
+      "text": "Have you met Liliana? Oh, of course. Okay. Um, well anyway, it's sex demon anti"
+    },
+    {
+      "id": 332,
+      "start": 2581.17,
+      "end": 2585.53,
+      "text": "I just it's confusing because it mostly seems like you explicitly want to have sex"
+    },
+    {
+      "id": 333,
+      "start": 2591.12,
+      "end": 2592.52,
+      "text": "No"
+    },
+    {
+      "id": 334,
+      "start": 2592.52,
+      "end": 2595.56,
+      "text": "It took you way too long to answer auntie sex demon"
+    },
+    {
+      "id": 335,
+      "start": 2597.08,
+      "end": 2598.08,
+      "text": "demon"
+    },
+    {
+      "id": 336,
+      "start": 2598.08,
+      "end": 2603.86,
+      "text": "Are you like what?"
+    },
+    {
+      "id": 337,
+      "start": 2606.3,
+      "end": 2609.14,
+      "text": "Your voice got so high"
+    },
+    {
+      "id": 338,
+      "start": 2609.98,
+      "end": 2617.18,
+      "text": "Got excited. Um, okay. Well, anyway, it seems like you're I was gonna say kind of copying drag culture. No, this is my look first"
+    },
+    {
+      "id": 339,
+      "start": 2618.02,
+      "end": 2622.42,
+      "text": "How old are you at least 50?"
+    },
+    {
+      "id": 340,
+      "start": 2622.82,
+      "end": 2625.46,
+      "text": "All right, whatever. Thanks for being here anti sex demon"
+    },
+    {
+      "id": 341,
+      "start": 2625.46,
+      "end": 2629.02,
+      "text": "I don't think I don't think we learned much but that was never an expectation"
+    },
+    {
+      "id": 342,
+      "start": 2629.02,
+      "end": 2636.78,
+      "text": "So I appreciate it and I appreciate you. I mean, you've really been following my teachings for a long time never fucking totally unfuckable and"
+    },
+    {
+      "id": 343,
+      "start": 2637.74,
+      "end": 2642.66,
+      "text": "Really following this unstraightened arrow of demonic anti-sex by just never getting it"
+    },
+    {
+      "id": 344,
+      "start": 2642.94,
+      "end": 2645.22,
+      "text": "Never gonna get it never gonna get it"
+    },
+    {
+      "id": 345,
+      "start": 2645.22,
+      "end": 2648.18,
+      "text": "Never gonna fuck he doesn't this guy"
+    },
+    {
+      "id": 346,
+      "start": 2649.06,
+      "end": 2651.06,
+      "text": "I never ask"
+    },
+    {
+      "id": 347,
+      "start": 2651.1,
+      "end": 2666.39,
+      "text": "Okay, see you later. I'd have I got it sing about the news"
+    },
+    {
+      "id": 348,
+      "start": 2667.23,
+      "end": 2671.19,
+      "text": "And then I got to play lethal company like other guys that have sex a lot"
+    },
+    {
+      "id": 349,
+      "start": 2671.19,
+      "end": 2681.48,
+      "text": "I'm a sex guy. That's on the I'm on the record is being an notorious sex guy. Let's see what else"
+    },
+    {
+      "id": 350,
+      "start": 2682.2,
+      "end": 2686.12,
+      "text": "Let's see what else is going on in the news before we join Fiona. Is she playing yet?"
+    },
+    {
+      "id": 351,
+      "start": 2687.28,
+      "end": 2689.28,
+      "text": "Let me double-check that she's playing"
+    },
+    {
+      "id": 352,
+      "start": 2690.68,
+      "end": 2692.68,
+      "text": "Oh, she's in there"
+    },
+    {
+      "id": 353,
+      "start": 2693.04,
+      "end": 2695.04,
+      "text": "Oh"
+    },
+    {
+      "id": 354,
+      "start": 2695.4,
+      "end": 2698.71,
+      "text": "Where she's about to play"
+    },
+    {
+      "id": 355,
+      "start": 2698.71,
+      "end": 2700.55,
+      "text": "Hey, I miss you as a gun"
+    },
+    {
+      "id": 356,
+      "start": 2700.55,
+      "end": 2702.11,
+      "text": "Good to see everybody in chat"
+    },
+    {
+      "id": 357,
+      "start": 2702.11,
+      "end": 2706.95,
+      "text": "We're keeping the news section of the stream a little a little shorter today because Fiona's playing 12 hours a lethal company"
+    },
+    {
+      "id": 358,
+      "start": 2706.95,
+      "end": 2710.99,
+      "text": "And I at least want to I want to start her off right with a powerful quota"
+    },
+    {
+      "id": 359,
+      "start": 2711.47,
+      "end": 2720.53,
+      "text": "With which with my skills. I can easily deliver as a guy who fucks I lethal company is nothing to me"
+    },
+    {
+      "id": 360,
+      "start": 2721.53,
+      "end": 2723.21,
+      "text": "Exactly"
+    },
+    {
+      "id": 361,
+      "start": 2723.21,
+      "end": 2727.93,
+      "text": "Anyway, we got a sing first. We were there was a quest for DJ music. So we'll send it over there"
+    },
+    {
+      "id": 362,
+      "start": 2728.57,
+      "end": 2729.89,
+      "text": "for him to"
+    },
+    {
+      "id": 363,
+      "start": 2729.89,
+      "end": 2734.57,
+      "text": "What else is going on in the world today? Anybody has a story they want new to see covered musically?"
+    },
+    {
+      "id": 364,
+      "start": 2735.13,
+      "end": 2737.65,
+      "text": "Let DJ music know the request came in from"
+    },
+    {
+      "id": 365,
+      "start": 2739.53,
+      "end": 2743.85,
+      "text": "Dilemma so dilemma if in particular if you had a story you wanted covered by DJ music"
+    },
+    {
+      "id": 366,
+      "start": 2744.61,
+      "end": 2748.97,
+      "text": "Just let us know. I also got an exciting new toy, but it don't have the cords it needs yet"
+    },
+    {
+      "id": 367,
+      "start": 2750.53,
+      "end": 2752.53,
+      "text": "I even show you guys this"
+    },
+    {
+      "id": 368,
+      "start": 2752.53,
+      "end": 2754.05,
+      "text": "Check this out"
+    },
+    {
+      "id": 369,
+      "start": 2754.05,
+      "end": 2756.05,
+      "text": "It says it says zoom"
+    },
+    {
+      "id": 370,
+      "start": 2756.29,
+      "end": 2758.13,
+      "text": "V3"
+    },
+    {
+      "id": 371,
+      "start": 2758.13,
+      "end": 2761.77,
+      "text": "Meaning I can I can make the vocal effects even more annoying"
+    },
+    {
+      "id": 372,
+      "start": 2762.41,
+      "end": 2764.69,
+      "text": "Once I get the cord, but for now"
+    },
+    {
+      "id": 373,
+      "start": 2765.37,
+      "end": 2770.17,
+      "text": "Hmm"
+    },
+    {
+      "id": 374,
+      "start": 2770.17,
+      "end": 2775.69,
+      "text": "You're debating putting bid on for your parents. It's a preachy. I don't know, you know back when um, I"
+    },
+    {
+      "id": 375,
+      "start": 2776.21,
+      "end": 2782.81,
+      "text": "Was in my sketch group cigarette sandwich who I'm actually gonna start doing stuff with again for online stuff in the next couple weeks"
+    },
+    {
+      "id": 376,
+      "start": 2784.37,
+      "end": 2786.37,
+      "text": "Not a stream thing stuff for YouTube"
+    },
+    {
+      "id": 377,
+      "start": 2787.05,
+      "end": 2789.49,
+      "text": "Anyway, when I was doing stuff with that sketch group"
+    },
+    {
+      "id": 378,
+      "start": 2789.49,
+      "end": 2795.85,
+      "text": "We put out that power half hour thing and it had like a little following in Chicago and a couple people that really liked it"
+    },
+    {
+      "id": 379,
+      "start": 2795.85,
+      "end": 2798.93,
+      "text": "so one of my improv students once came up to me and was like"
+    },
+    {
+      "id": 380,
+      "start": 2799.85,
+      "end": 2805.89,
+      "text": "You know, I didn't have anything my girlfriend's parents came over and I I wasn't sure how to like keep them entertained"
+    },
+    {
+      "id": 381,
+      "start": 2805.89,
+      "end": 2809.61,
+      "text": "So I put on your power half hour. I was like, ooh, that sounds like a bad idea"
+    },
+    {
+      "id": 382,
+      "start": 2809.61,
+      "end": 2811.61,
+      "text": "And he's like it was she broke up with me"
+    },
+    {
+      "id": 383,
+      "start": 2812.61,
+      "end": 2815.37,
+      "text": "After her parents left she broke up with me"
+    },
+    {
+      "id": 384,
+      "start": 2816.05,
+      "end": 2818.41,
+      "text": "Because she said she just wasn't feeling it"
+    },
+    {
+      "id": 385,
+      "start": 2818.89,
+      "end": 2820.29,
+      "text": "so I"
+    },
+    {
+      "id": 386,
+      "start": 2820.29,
+      "end": 2826.53,
+      "text": "Like to know that that I have that power that my content has the power to break up relationships"
+    },
+    {
+      "id": 387,
+      "start": 2826.53,
+      "end": 2834.84,
+      "text": "That let's be real they weren't meant to be if they couldn't survive my content. I am the anti-sex team and it was secretly"
+    },
+    {
+      "id": 388,
+      "start": 2835.64,
+      "end": 2837.48,
+      "text": "I"
+    },
+    {
+      "id": 389,
+      "start": 2837.48,
+      "end": 2841.6,
+      "text": "Do I have to say I would never put on anything I've made"
+    },
+    {
+      "id": 390,
+      "start": 2842.6,
+      "end": 2847.62,
+      "text": "To I don't know entertain the parents of someone I was dating. I do think that's on that person"
+    },
+    {
+      "id": 391,
+      "start": 2848.8,
+      "end": 2853.44,
+      "text": "But I am a little responsible to oopsie. Okay, let's send it over to DJ music to"
+    },
+    {
+      "id": 392,
+      "start": 2854.32,
+      "end": 2856.32,
+      "text": "Do whatever that do whatever that music"
+    },
+    {
+      "id": 393,
+      "start": 2857.84,
+      "end": 2860.2,
+      "text": "And if you have a story why don't recover throw it in chat. All right"
+    },
+    {
+      "id": 394,
+      "start": 2882.67,
+      "end": 2888.23,
+      "text": "That's a good job because you did the right thing and you called for DJ music"
+    },
+    {
+      "id": 395,
+      "start": 2888.99,
+      "end": 2895.55,
+      "text": "The best job of all yeah, my hair's looking a little too normal. There we go. That's how I like that"
+    },
+    {
+      "id": 396,
+      "start": 2895.55,
+      "end": 2897.55,
+      "text": "This is a good look right here"
+    },
+    {
+      "id": 397,
+      "start": 2898.23,
+      "end": 2904.69,
+      "text": "Put the hair down today. I'm looking like a blue hair Justin Bieber, man. It's a this is a powerful DJ music look"
+    },
+    {
+      "id": 398,
+      "start": 2905.59,
+      "end": 2907.59,
+      "text": "all right"
+    },
+    {
+      "id": 399,
+      "start": 2908.55,
+      "end": 2913.46,
+      "text": "Let's see"
+    },
+    {
+      "id": 400,
+      "start": 2913.62,
+      "end": 2916.98,
+      "text": "You just forgot to show them the rat stuff. That's possible"
+    },
+    {
+      "id": 401,
+      "start": 2917.22,
+      "end": 2926.86,
+      "text": "Turn this down just a little bit my dad watched a few episodes of a with yes, he likes alarm charms. There you go. That's a win"
+    },
+    {
+      "id": 402,
+      "start": 2928.1,
+      "end": 2933.9,
+      "text": "Just checking if there's any story you want to see covered musically today, and it's not don't even stress"
+    },
+    {
+      "id": 403,
+      "start": 2935.14,
+      "end": 2937.14,
+      "text": "Don't even stray. Yes"
+    },
+    {
+      "id": 404,
+      "start": 2938.02,
+      "end": 2940.02,
+      "text": "okay"
+    },
+    {
+      "id": 405,
+      "start": 2940.02,
+      "end": 2944.54,
+      "text": "Justin Bieber trap remix. I don't know if there's any Bieber news even going on in the world today"
+    },
+    {
+      "id": 406,
+      "start": 2945.58,
+      "end": 2947.58,
+      "text": "What's that little guy up to?"
+    },
+    {
+      "id": 407,
+      "start": 2947.78,
+      "end": 2954.22,
+      "text": "Sorry, I need my lasers there there they are now. I'm feeling music"
+    },
+    {
+      "id": 408,
+      "start": 2955.5,
+      "end": 2961.5,
+      "text": "All right, what else is cooking in the world of important news man charged to 600k worth of drugs"
+    },
+    {
+      "id": 409,
+      "start": 2962.38,
+      "end": 2964.82,
+      "text": "After Lego sees by police. Oh my god"
+    },
+    {
+      "id": 410,
+      "start": 2967.5,
+      "end": 2969.5,
+      "text": "Okay, this is interesting"
+    },
+    {
+      "id": 411,
+      "start": 2970.5,
+      "end": 2972.1,
+      "text": "Well"
+    },
+    {
+      "id": 412,
+      "start": 2972.1,
+      "end": 2974.1,
+      "text": "Interesting is a subjective term"
+    },
+    {
+      "id": 413,
+      "start": 2974.66,
+      "end": 2976.66,
+      "text": "This is a thing"
+    },
+    {
+      "id": 414,
+      "start": 2977.66,
+      "end": 2981.1,
+      "text": "Let's see what's going on. Let me update this little let me update this guy"
+    },
+    {
+      "id": 415,
+      "start": 2983.71,
+      "end": 2990.23,
+      "text": "Hmm hot fresh news about incest coming down the news pipeline"
+    },
+    {
+      "id": 416,
+      "start": 2991.39,
+      "end": 2994.23,
+      "text": "Let's get it. I want a sexy on an R&B beat"
+    },
+    {
+      "id": 417,
+      "start": 2994.95,
+      "end": 2996.95,
+      "text": "I want some R&B"
+    },
+    {
+      "id": 418,
+      "start": 2996.99,
+      "end": 3001.3,
+      "text": "Give me some R&B, please"
+    },
+    {
+      "id": 419,
+      "start": 3002.54,
+      "end": 3006.74,
+      "text": "If we're gonna talk about"
+    },
+    {
+      "id": 420,
+      "start": 3007.58,
+      "end": 3009.58,
+      "text": "The sensual side of things"
+    },
+    {
+      "id": 421,
+      "start": 3011.14,
+      "end": 3012.98,
+      "text": "Aka"
+    },
+    {
+      "id": 422,
+      "start": 3012.98,
+      "end": 3016.7,
+      "text": "What is incest then I need a sexy I need a sexy track"
+    },
+    {
+      "id": 423,
+      "start": 3017.7,
+      "end": 3027.86,
+      "text": "All right, let's get into this folks. This is courtesy of tower beats the song song smooth dark type sensual beat"
+    },
+    {
+      "id": 424,
+      "start": 3027.86,
+      "end": 3032.42,
+      "text": "I love to credit my the artist that I sample will call it sampling"
+    },
+    {
+      "id": 425,
+      "start": 3033.18,
+      "end": 3037.02,
+      "text": "Hmm turn that up for me turn that way up. Oh, yeah"
+    },
+    {
+      "id": 426,
+      "start": 3037.7,
+      "end": 3043.9,
+      "text": "What's going on Kentucky Republicans?"
+    },
+    {
+      "id": 427,
+      "start": 3045.18,
+      "end": 3049.3,
+      "text": "Sounds like you're feeling a little lonely out there. Maybe you're dating options are kind of limited"
+    },
+    {
+      "id": 428,
+      "start": 3052.3,
+      "end": 3054.86,
+      "text": "Everybody deserves just a little bit of that loving"
+    },
+    {
+      "id": 429,
+      "start": 3055.86,
+      "end": 3059.26,
+      "text": "What's a little love between first cousin?"
+    },
+    {
+      "id": 430,
+      "start": 3060.62,
+      "end": 3063.74,
+      "text": "We're pushing we hop and we hop and we hop and we into something"
+    },
+    {
+      "id": 431,
+      "start": 3065.62,
+      "end": 3068.22,
+      "text": "Republicans what you're starting a"
+    },
+    {
+      "id": 432,
+      "start": 3069.22,
+      "end": 3074.1,
+      "text": "Kentucky Republican introduce some legislation that would amend the state's law"
+    },
+    {
+      "id": 433,
+      "start": 3075.1,
+      "end": 3085.54,
+      "text": "A new sensations a person who has sex with their first cousin is no longer in trouble for a little cousin loving"
+    },
+    {
+      "id": 434,
+      "start": 3086.86,
+      "end": 3089.82,
+      "text": "No longer criminally liable"
+    },
+    {
+      "id": 435,
+      "start": 3090.94,
+      "end": 3093.9,
+      "text": "When the passions become an undeniable"
+    },
+    {
+      "id": 436,
+      "start": 3095.1,
+      "end": 3098.58,
+      "text": "Before withdrawing and claiming an error was made"
+    },
+    {
+      "id": 437,
+      "start": 3099.7,
+      "end": 3101.7,
+      "text": "No shade"
+    },
+    {
+      "id": 438,
+      "start": 3101.98,
+      "end": 3104.94,
+      "text": "Get laid house bill"
+    },
+    {
+      "id": 439,
+      "start": 3106.58,
+      "end": 3111.46,
+      "text": "269 never seen a bill looking so fine"
+    },
+    {
+      "id": 440,
+      "start": 3112.74,
+      "end": 3118.38,
+      "text": "That bill was trying to get it done coming in from representative"
+    },
+    {
+      "id": 441,
+      "start": 3121.29,
+      "end": 3123.29,
+      "text": "introduced"
+    },
+    {
+      "id": 442,
+      "start": 3123.29,
+      "end": 3125.29,
+      "text": "January 16"
+    },
+    {
+      "id": 443,
+      "start": 3126.25,
+      "end": 3129.57,
+      "text": "Bill looking first cousin clean"
+    },
+    {
+      "id": 444,
+      "start": 3130.45,
+      "end": 3133.25,
+      "text": "A 27 year old public defender"
+    },
+    {
+      "id": 445,
+      "start": 3134.13,
+      "end": 3141.57,
+      "text": "He grabbed that bill and said look here big spenders first shot to prominence when he won the"
+    },
+    {
+      "id": 446,
+      "start": 3141.57,
+      "end": 3153.42,
+      "text": "And he's a survivor a sexual non-denier. You know that he finds his cousin"
+    },
+    {
+      "id": 447,
+      "start": 3153.42,
+      "end": 3159.18,
+      "text": "He pushes it higher and higher him and his first cousin between the sheets"
+    },
+    {
+      "id": 448,
+      "start": 3159.78,
+      "end": 3163.54,
+      "text": "They say to each other this is way too discreet"
+    },
+    {
+      "id": 449,
+      "start": 3164.1,
+      "end": 3172.92,
+      "text": "Let's take this shit straight to see an end and put it in baby coming in from first both ends"
+    },
+    {
+      "id": 450,
+      "start": 3174.66,
+      "end": 3176.46,
+      "text": "Damn"
+    },
+    {
+      "id": 451,
+      "start": 3176.46,
+      "end": 3178.96,
+      "text": "Look is that the kind of love we support here?"
+    },
+    {
+      "id": 452,
+      "start": 3180.62,
+      "end": 3186.22,
+      "text": "I'm the DJ on musically do we news at least support light incest"
+    },
+    {
+      "id": 453,
+      "start": 3186.5,
+      "end": 3190.62,
+      "text": "You know I love love, but that's a bit of a test"
+    },
+    {
+      "id": 454,
+      "start": 3190.82,
+      "end": 3193.66,
+      "text": "There's a lot of the fish in the sea, so where's the fishy for me?"
+    },
+    {
+      "id": 455,
+      "start": 3194.54,
+      "end": 3196.98,
+      "text": "Do I need it to be my first cousin?"
+    },
+    {
+      "id": 456,
+      "start": 3198.06,
+      "end": 3200.06,
+      "text": "exactly"
+    },
+    {
+      "id": 457,
+      "start": 3200.1,
+      "end": 3202.1,
+      "text": "DJ music says"
+    },
+    {
+      "id": 458,
+      "start": 3202.78,
+      "end": 3208.02,
+      "text": "Probably not but also why I hate to see a bit of love stop"
+    },
+    {
+      "id": 459,
+      "start": 3208.26,
+      "end": 3213.66,
+      "text": "So let's take a look at that family tree and if the roots diverge"
+    },
+    {
+      "id": 460,
+      "start": 3214.1,
+      "end": 3220.94,
+      "text": "Then get it in bed saying if they're not that related. I don't know. Maybe it's"
+    },
+    {
+      "id": 461,
+      "start": 3221.5,
+      "end": 3223.5,
+      "text": "Maybe it's not that big of a deal"
+    },
+    {
+      "id": 462,
+      "start": 3224.02,
+      "end": 3225.18,
+      "text": "hmm"
+    },
+    {
+      "id": 463,
+      "start": 3225.18,
+      "end": 3230.98,
+      "text": "But how related our first cousins I honestly don't I don't know is that fully related?"
+    },
+    {
+      "id": 464,
+      "start": 3232.38,
+      "end": 3238.38,
+      "text": "It sounds the first makes me think it's like as related as it gets without it being your straight sibling"
+    },
+    {
+      "id": 465,
+      "start": 3238.78,
+      "end": 3242.62,
+      "text": "Can you hear from case's first cousin?"
+    },
+    {
+      "id": 466,
+      "start": 3244.36,
+      "end": 3246.92,
+      "text": "Yeah, let's see how cases first cousin is doing"
+    },
+    {
+      "id": 467,
+      "start": 3247.88,
+      "end": 3253.21,
+      "text": "Let me find cases first cousin really quick and we'll just see"
+    },
+    {
+      "id": 468,
+      "start": 3254.21,
+      "end": 3257.73,
+      "text": "If they've got anything to add to this important story"
+    },
+    {
+      "id": 469,
+      "start": 3270.55,
+      "end": 3272.55,
+      "text": "Please welcome to the stage at this time"
+    },
+    {
+      "id": 470,
+      "start": 3273.31,
+      "end": 3278.39,
+      "text": "Coming in straight from Roanoke, Virginia and or Michigan wherever cases extended family is"
+    },
+    {
+      "id": 471,
+      "start": 3280.39,
+      "end": 3282.39,
+      "text": "He's not just any cousin"
+    },
+    {
+      "id": 472,
+      "start": 3293.67,
+      "end": 3298.67,
+      "text": "Yo, I'm coming in. I'm waiting for the drop"
+    },
+    {
+      "id": 473,
+      "start": 3299.47,
+      "end": 3306.9,
+      "text": "Coming in for the drop first cousin. No stop first coming coming through"
+    },
+    {
+      "id": 474,
+      "start": 3307.42,
+      "end": 3311.06,
+      "text": "First cousin what it do first cousin here for you"
+    },
+    {
+      "id": 475,
+      "start": 3311.82,
+      "end": 3313.82,
+      "text": "My name is Chase"
+    },
+    {
+      "id": 476,
+      "start": 3313.82,
+      "end": 3319.5,
+      "text": "Coming into this place. I'm that number one cousin. So I never been disgraced"
+    },
+    {
+      "id": 477,
+      "start": 3319.9,
+      "end": 3327.69,
+      "text": "Plus two God above number one cousin meaning that's it's all love"
+    },
+    {
+      "id": 478,
+      "start": 3327.69,
+      "end": 3331.93,
+      "text": "I didn't see the rest of this segment cuz I was walking up"
+    },
+    {
+      "id": 479,
+      "start": 3332.21,
+      "end": 3336.09,
+      "text": "But I'm that first cousin dropping first coming love of course"
+    },
+    {
+      "id": 480,
+      "start": 3337.05,
+      "end": 3348.67,
+      "text": "To get case to my place. I say come over cousin. Let's have a little cousin fun"
+    },
+    {
+      "id": 481,
+      "start": 3348.67,
+      "end": 3355.11,
+      "text": "And we gonna be best cousins by the time I'm done coming. I'm hard for Virginia"
+    },
+    {
+      "id": 482,
+      "start": 3355.11,
+      "end": 3369.7,
+      "text": "So you know as a cousin that I'm in here for one cousin ain't that something love it with my number one cousin"
+    },
+    {
+      "id": 483,
+      "start": 3370.14,
+      "end": 3373.14,
+      "text": "So just to be clear you didn't see the segment at all"
+    },
+    {
+      "id": 484,
+      "start": 3373.78,
+      "end": 3375.78,
+      "text": "Can you clarify what you mean by love?"
+    },
+    {
+      "id": 485,
+      "start": 3376.34,
+      "end": 3380.7,
+      "text": "Yeah, man, it's all love between family man. Family is everything and"
+    },
+    {
+      "id": 486,
+      "start": 3382.5,
+      "end": 3387.34,
+      "text": "You gotta you gotta support your brothers. You gotta support your sisters. You gotta support your cousin and"
+    },
+    {
+      "id": 487,
+      "start": 3389.1,
+      "end": 3391.1,
+      "text": "Sometimes it's easy to lose track of people man"
+    },
+    {
+      "id": 488,
+      "start": 3392.02,
+      "end": 3397.6,
+      "text": "You know your cousin moves to LA you never see each other anymore and used to be close like this you go like"
+    },
+    {
+      "id": 489,
+      "start": 3398.3,
+      "end": 3406.62,
+      "text": "You bathe together his babies. What you're so close to these little babies. You bathe together nude in the bath man like"
+    },
+    {
+      "id": 490,
+      "start": 3407.46,
+      "end": 3414.84,
+      "text": "You're like this. It's all love. So why deny that love?"
+    },
+    {
+      "id": 491,
+      "start": 3416.18,
+      "end": 3419.26,
+      "text": "keeping contact with your cousin cuz"
+    },
+    {
+      "id": 492,
+      "start": 3420.62,
+      "end": 3422.62,
+      "text": "Because it's all love cuz"
+    },
+    {
+      "id": 493,
+      "start": 3423.62,
+      "end": 3427.42,
+      "text": "It's all love cuz because it's cousin love"
+    },
+    {
+      "id": 494,
+      "start": 3428.06,
+      "end": 3435.7,
+      "text": "And if your cousins in love, why would you deny that love cousins coming from above to drop that cousin love?"
+    },
+    {
+      "id": 495,
+      "start": 3437.66,
+      "end": 3442.26,
+      "text": "Well, I am in support of love and it's not entirely clear what you mean. So"
+    },
+    {
+      "id": 496,
+      "start": 3443.42,
+      "end": 3444.94,
+      "text": "Okay"
+    },
+    {
+      "id": 497,
+      "start": 3444.94,
+      "end": 3448.26,
+      "text": "I mean that my love my one cousin loves me"
+    },
+    {
+      "id": 498,
+      "start": 3449.02,
+      "end": 3452.4,
+      "text": "And I love him cousin Lee"
+    },
+    {
+      "id": 499,
+      "start": 3455.56,
+      "end": 3465.31,
+      "text": "Her name was chase chasing that number one spot first cousin. This track is longer than I expected"
+    },
+    {
+      "id": 500,
+      "start": 3466.47,
+      "end": 3469.75,
+      "text": "Nice and it's almost done. It's all my"
+    },
+    {
+      "id": 501,
+      "start": 3476.68,
+      "end": 3478.68,
+      "text": "Okay, well"
+    },
+    {
+      "id": 502,
+      "start": 3479.24,
+      "end": 3488.44,
+      "text": "Maybe we just don't invite cases extended family even though it is all sorry. It's all love. It's all love"
+    },
+    {
+      "id": 503,
+      "start": 3488.48,
+      "end": 3490.2,
+      "text": "We don't judge"
+    },
+    {
+      "id": 504,
+      "start": 3490.2,
+      "end": 3497.69,
+      "text": "You know, I think it's time for some lethal company. What do you say?"
+    },
+    {
+      "id": 505,
+      "start": 3498.33,
+      "end": 3500.33,
+      "text": "Fiona zone"
+    },
+    {
+      "id": 506,
+      "start": 3500.69,
+      "end": 3502.69,
+      "text": "Fiona zone"
+    },
+    {
+      "id": 507,
+      "start": 3502.97,
+      "end": 3504.97,
+      "text": "Get a lethal with that cream"
+    },
+    {
+      "id": 508,
+      "start": 3506.09,
+      "end": 3509.61,
+      "text": "Yeah, bring in the dream drop a lethal company cream"
+    },
+    {
+      "id": 509,
+      "start": 3511.49,
+      "end": 3514.93,
+      "text": "What happened gonna go get that neck snapping"
+    },
+    {
+      "id": 510,
+      "start": 3515.89,
+      "end": 3517.89,
+      "text": "Gonna look for a bracket"
+    },
+    {
+      "id": 511,
+      "start": 3518.45,
+      "end": 3525.1,
+      "text": "Goku slapping pulling up that fucking steam"
+    },
+    {
+      "id": 512,
+      "start": 3526.06,
+      "end": 3530.02,
+      "text": "So I can unleash a little lethal company cream"
+    },
+    {
+      "id": 513,
+      "start": 3530.98,
+      "end": 3535.5,
+      "text": "Thank you all of course for hanging out for the news section of this stream"
+    },
+    {
+      "id": 514,
+      "start": 3536.78,
+      "end": 3540.18,
+      "text": "But case I'm gonna switch it over now and then attempt to get into Fiona's game"
+    },
+    {
+      "id": 515,
+      "start": 3541.14,
+      "end": 3542.82,
+      "text": "Which might take a minute"
+    },
+    {
+      "id": 516,
+      "start": 3542.82,
+      "end": 3544.82,
+      "text": "In fact, I'll just hang out while"
+    },
+    {
+      "id": 517,
+      "start": 3545.9,
+      "end": 3548.82,
+      "text": "Hang out while I see where they're at in that process"
+    },
+    {
+      "id": 518,
+      "start": 3549.34,
+      "end": 3555.69,
+      "text": "I also probably need to set up a computer so candle play me DJ"
+    },
+    {
+      "id": 519,
+      "start": 3556.93,
+      "end": 3560.57,
+      "text": "Gonna go to cases apartment and set up lethal company for candle"
+    },
+    {
+      "id": 520,
+      "start": 3562.05,
+      "end": 3564.41,
+      "text": "The news was extremely horny today"
+    },
+    {
+      "id": 521,
+      "start": 3565.93,
+      "end": 3570.37,
+      "text": "But sometimes the news is horny and that's our top story"
+    },
+    {
+      "id": 522,
+      "start": 3572.89,
+      "end": 3574.89,
+      "text": "I mean you really can't help it sometimes the news"
+    },
+    {
+      "id": 523,
+      "start": 3577.33,
+      "end": 3587.03,
+      "text": "Go get him tiger. Oh my god, he's got to update ten of his apps case has ten apps to update"
+    },
+    {
+      "id": 524,
+      "start": 3587.87,
+      "end": 3589.87,
+      "text": "From the Thunder store"
+    },
+    {
+      "id": 525,
+      "start": 3590.03,
+      "end": 3593.63,
+      "text": "What's in store?"
+    },
+    {
+      "id": 526,
+      "start": 3593.63,
+      "end": 3595.63,
+      "text": "Just a little bit more"
+    },
+    {
+      "id": 527,
+      "start": 3596.99,
+      "end": 3605.47,
+      "text": "Soft-core or maybe cousin core. Oh, the mind's alive. It's time to get inside"
+    },
+    {
+      "id": 528,
+      "start": 3607.27,
+      "end": 3611.47,
+      "text": "We need an F. I'm to trip, but we're gonna send you straight to a ship"
+    },
+    {
+      "id": 529,
+      "start": 3618.88,
+      "end": 3623.44,
+      "text": "Let's check it with you on a stream real quick. How far are they from?"
+    },
+    {
+      "id": 530,
+      "start": 3625.24,
+      "end": 3627.24,
+      "text": "Being in space. Oh"
+    },
+    {
+      "id": 531,
+      "start": 3627.68,
+      "end": 3629.68,
+      "text": "My god, what's even happening right now?"
+    },
+    {
+      "id": 532,
+      "start": 3634.16,
+      "end": 3642.66,
+      "text": "I cannot tell what's oh, she's on a she's not just on a foggy planet. Okay"
+    },
+    {
+      "id": 533,
+      "start": 3643.42,
+      "end": 3645.62,
+      "text": "Looks like he should be good to join in a few minutes"
+    },
+    {
+      "id": 534,
+      "start": 3646.5,
+      "end": 3652.26,
+      "text": "All the penis stories to be found this week. We're about the eunuch wait. There's a eunuch trial"
+    },
+    {
+      "id": 535,
+      "start": 3653.7,
+      "end": 3657.14,
+      "text": "What a incredible day for day for news we should have done more stories"
+    },
+    {
+      "id": 536,
+      "start": 3657.14,
+      "end": 3661.22,
+      "text": "But we've got to get on this spaceship the spaceship straight to love"
+    },
+    {
+      "id": 537,
+      "start": 3662.54,
+      "end": 3664.54,
+      "text": "feeding the tentacle of"
+    },
+    {
+      "id": 538,
+      "start": 3664.94,
+      "end": 3666.94,
+      "text": "Make a quota love"
+    },
+    {
+      "id": 539,
+      "start": 3667.22,
+      "end": 3672.42,
+      "text": "Can't deny that scrap when you hit it from the back fire exit"
+    },
+    {
+      "id": 540,
+      "start": 3675.72,
+      "end": 3677.72,
+      "text": "The game is not lunch"
+    },
+    {
+      "id": 541,
+      "start": 3677.8,
+      "end": 3680.24,
+      "text": "There we go now. It's now. It's lunch"
+    },
+    {
+      "id": 542,
+      "start": 3682.45,
+      "end": 3685.65,
+      "text": "Spaceship straight to your cousin's heart the most forbidden spaceship of all"
+    },
+    {
+      "id": 543,
+      "start": 3687.01,
+      "end": 3691.81,
+      "text": "From the planet cousin in a galactic cousin lovin"
+    },
+    {
+      "id": 544,
+      "start": 3692.21,
+      "end": 3695.52,
+      "text": "All right, let me stop these tracks"
+    },
+    {
+      "id": 545,
+      "start": 3695.72,
+      "end": 3702.23,
+      "text": "There we go enough R&B enough weird horny incest R&B for the day, I guess"
+    },
+    {
+      "id": 546,
+      "start": 3703.87,
+      "end": 3708.47,
+      "text": "All right, it's time to switch this stream over to lethal time. I"
+    },
+    {
+      "id": 547,
+      "start": 3709.59,
+      "end": 3713.35,
+      "text": "Hope she has late company installed or we're gonna get blue ball"
+    },
+    {
+      "id": 548,
+      "start": 3713.99,
+      "end": 3720.83,
+      "text": "And I'll have to give Fiona Nova the it call. All right. We fucking did it"
+    },
+    {
+      "id": 549,
+      "start": 3720.83,
+      "end": 3725.99,
+      "text": "We did a quick stream, but it's time for a little little company"
+    },
+    {
+      "id": 550,
+      "start": 3727.63,
+      "end": 3733.03,
+      "text": "Don't mean to brag and you know that I don't boast, but I and join in a crew"
+    },
+    {
+      "id": 551,
+      "start": 3733.03,
+      "end": 3735.63,
+      "text": "I don't even host because"
+    },
+    {
+      "id": 552,
+      "start": 3739.63,
+      "end": 3745.35,
+      "text": "It's lethal company 12 hours it never ends so we gonna join the crew"
+    },
+    {
+      "id": 553,
+      "start": 3745.87,
+      "end": 3751.59,
+      "text": "From me to you, we got some scrap to collect so it's time to come through"
+    },
+    {
+      "id": 554,
+      "start": 3752.15,
+      "end": 3755.83,
+      "text": "Okay, we did it. The music is done"
+    },
+    {
+      "id": 555,
+      "start": 3755.83,
+      "end": 3763.11,
+      "text": "I'm a hobby into the sun. Oh, maybe I'll collect so my scrap"
+    },
+    {
+      "id": 556,
+      "start": 3763.11,
+      "end": 3769.31,
+      "text": "I don't when I'm done that you'll have to take my name to DJ music Titan, okay?"
+    },
+    {
+      "id": 557,
+      "start": 3770.59,
+      "end": 3774.55,
+      "text": "I cannot seem to join the game yet, but I am gonna switch it over anyway"
+    },
+    {
+      "id": 558,
+      "start": 3775.55,
+      "end": 3778.43,
+      "text": "Because I'm just delaying the game at this point"
+    },
+    {
+      "id": 559,
+      "start": 3778.99,
+      "end": 3785.07,
+      "text": "Thanks again, we'll be back in two seconds or the stream will crash in which case we'll be back in in more seconds than that"
+    },
+    {
+      "id": 560,
+      "start": 3785.07,
+      "end": 3787.07,
+      "text": "All right. Bye. Bye y'all"
+    },
+    {
+      "id": 561,
+      "start": 3788.43,
+      "end": 3790.43,
+      "text": "Here we go"
+    }
+  ],
+  "text": "So everybody\nI'm not sure why that's popping off like that. That might happen every time I switch scenes today\nJust a heads up on that\nI thought somebody was salt burning. It's possible\nChip SCT. Thanks for the follow. I think we had a sub or two during the pre-stream also. Thank you so much\nTo tamtran as always and big J. Dub for the dub with the sub\nThank you all. Let me open up chat where I like it right down the barrel of\nthe lens\nThere you guys\nGonna see everybody\nI'm just doing a quick stream of news because you might have noticed our very own Fiona Nova is in fact\nDoing a 12-hour stream get over there if you haven't already we're gonna be joining her shortly. Oh my god\nTamtran's dropping the 10\nImmediately Pepito is gonna be joining fee whether she likes it or not as soon as we hit that goal\nCard King to see a gun junk dog gearless Joe and no mad. Good to see an entity. Always good to see you\nGood to see everybody plop dumps\nof course\nOne second while I just double check a little technical issue\nI don't want to add so much lotion to this stream stream that it's an all-lotion stream\nSo, let me just fix that potentially\noh\nMy god, I see what happened. Okay, and just like that. We're back, baby\nWe out here a very dyslexic of you case happy to be here chip it's CST\nTSC\nIf I'm feeling dyslexic, I'm gonna see you card King Hugh Keeler\nI already said plop dumps, but I'll say it again\nIt will moisturize your insides. Well, I just want to be able to trigger it at will\nI mean, it's not like I don't want to add lotion. I just want to know when I'm adding it\nTechnically now I'm adding it to chat. All of you are getting\nmotioned\nDoes your skin feel good?\nOkay, let's feel like an hour of news and then let's support our Fiona Nova's in her space quest\nExactly free spa day card game. You've been hooked up by me\nWhat's going on in the world today?\nWhat news did I queue up?\nPope Francis says sexual pleasure is a gift from God. I\nMean, I never I never thought that wasn't the case, but I'm glad that Pope Francis is finally getting on the van with\nThe Pope is right. I mean I'm inclined to think\nThat he is and this might be an agreeable story today because I'm joined by Chet to cover this important\nDeclaration from a religious figure\nSo let's see how Chet's doing today Chet. Thank you for joining me as always\nYes, I was about to say as always well I was here. Yeah\nDoes the Pope endorse prostate stem how into the weeds is he getting here?\nI don't know. We have to read the story. Well, look I am a man of God and\nJesus\nAnd in a way, I believe that every religion is one in the same Jesus and all of them\nShould be sex positive because Jesus was I mean you saw him up there. He was fucking swole\nHe's putting it out there. He's showing off on the cross. I mean, yeah, you don't it's like he was training for a role\nI mean he had the abs. It's like he was in a Marvel movie like the dude was\nYou know sex appeal was a part of it. I'm not sure if that's\nWas what he was going for I\nMean, you don't understand working out\nSo I understand that you don't understand that he was trying to put it put out a vibe and he succeeded\nThe pope's finally catching up and that's a relief. Let me get this story queued up gosh dang it\nHow can these things never just fucking work in the way I want? There it is a little fixie do\nYeah\nAnd now I'm a newsman\nPope Francis says sexual pleasure is a gift from God by Laura Gazi credits to the BBC\nCredit all credit to the BBC for this sex story. You know what I mean\nPope Francis who's 87 has been the head of the Catholic Church since 2013\nPope Francis has said that sexual pleasure is a gift from God that should be\nDisciplined with patience\nYou discipline your gifts if they misbehave\nWhat kind of gifts are you getting the kind I have to occasionally\nDiscipline he also warned against pornography, which he said brought satisfaction. Where'd the fuck?\nHe also warned against pornography, which he said brought satisfaction without relationship and could lead to addiction\nHis Vatican address was part of a series of sermons of vices and virtues focused on what the Pope called the\nDemound of lust\nHe killer asked what about those monster dildos is God cool with those?\nand\nHow monstrous?\nGod can contains a you know an\nInfinity of all things, so I'm assuming he could absolutely hand or handle the thickest of insertion or she or\nThe CV loves you. Thank you so much. I think the jury's out\nI'm not familiar with Leviticus or lasciviousness\nWhatever book of the Bible covers\nspecific fetishes\nI'm not that verse in the Bible either, but I don't well\nIt depends what you're into\nAnyway, the jury's out, but probably got to handle any size you've got\nAlso a huge shout out to those of you dropping those hot\nSubbies I know this story is getting sexy and it makes you want to pull out the subs and I'm in full support of that\nThank you to CV loves you and dad lamp recon the daddy of the pecans archangel 713 for the 12 months\nAll of you and the little hypey train that's going. Oh, there's a hype train\nOkay, but can we talk about the sex thing?\nWe can but I have to play the hype train music at the very least if we're gonna do that. Just I got to find it\nBut now they won't take this story seriously\nCan't help it if a hype train shows up\nYou're lucky I don't make you into the hype train you cannot transform me into a train. I am a man\nAt least turn it down slightly. All right, of course what part of our top story there is currently a hype train happening\nAnd this for you again is sponsored by BBC\nIt was followed by criticisms about conservative Catholics. This is so distracted\nFollowed by criticism about conservative Catholics of his new head of doctrine\nCardinal Victor Manuel Fernandez. He was appointed last July came under fire for a book\nHe wrote and published in late 1990s entitled mysticale Passione\nSpirituality and sensuality the book which is now out of print discussed human sexuality\nand provided detailed descriptions of male and female\nExperiences during or chasm speaking to catholic online publication crooks\nCardinal Fernandez said he wrote the book when he was still young and he certainly would not write it now. I\nGuess he's fucking taste calm down\nWe can hear the hype train and be serious at the same time\nI mean, I have that level of commitment to the news cases over here. Just fucking vibe it out\nBut I'm actually taking this shit seriously good. You're calming down\nYou know, a card King says y'all know the only sin in Sodom and Gomorrah was that they didn't acknowledge God. Oh\nShit, they're working with fucking map hacks, dude. They're turning on the mods. They're like, I'm fucking crack the system\nYou can actually be as horny and crazy as you want if you fucking bless up afterwards\nI'll praise be in his name now. Let's stuff these fucking holes. I mean, I'm in favor. I know you won't\nMatt Pats\nThat's just a game here. I know that's a real ass game theory\nBless up to God every time you fucking get it in or get it put in you or you know, whatever\nConservative commenters have called the book perverse with one saying it showed Cardinal Fernandez was unfit to be perfect for the\nDicastery\nHe's called the Dicastery\nYeah, yeah, that's right. That's right. Yeah, I just read it for the the Dicastery for the doctrine of the faith the pope had\nAlready tackled the vice of gluttoning last week. There's no suggestion that his sermon on lust during Wednesday's general audience. Hello, chandel\nGeneral audience was related to the criticism of the Cardinal\nWhy would they why would they try to to take the sex out of the Dicastery?\nI just don't understand. Also the hype train completed at level four\nThe train that we were running on this story just pounding this story into the ground. It hit a four\nIt's a respectable train\nNice\nLorraine a bob at the dick the Dicastery\nI mean you might have to if they're becoming anti-sex which is against the will of God as it is a gift that he bestowed upon to us\nTo get it in and get it put in\nthen I\nThink that it's a false covenant that is being celebrated by demons\nanti-sex demons\nAnti-sex demons the church has been taken over by anti-sex demons except the Pope who seems chill\nAnyway, this fucking loser said that lust devastates relationships between people adding that daily news is enough to document\nThis is a reality. How many relationships that started out in the best way have ever become\nBut that's me\nAnti-sex demons\nDon't let them encase they'll pervert your holy dirty mind. I\nThought I'm I don't I think you got it backwards for traditional religion. They don't like sex\nYou that well see and now you're succumbing to stereotypes\nStereotype is that really religious people are anti-sex and they don't even want you to use\nProvolactics because all sperm is sacred, but really if you just fucking bless up the God\nYou can shoot the thickest ropes you want anywhere you want\nAnd you just got to pray over those ropes and wherever they're in wherever they're on and it's all good in the face of God\nChat I think I think you're gonna offend some people if you keep talking like this\nNo, I'm blessing up afterwards praise be his name\nCan I get an amen in the face of God?\nBlast that amen and in the face of God. Oh, okay. Yeah, exactly\nWe'll get to this expert after I get through this important story\nThis is a news institution and I will deliver the news on to you like I'm a sermon from the mountain with the book of\nMoses that was written in rock and his commandments shall be let chit fucking cook on this story\nHmm sticky ropes exactly, but bless up if they stick\nConsecrate the landing area\nHow many relationships that started out the best way have later become toxic relationships?\nYes, this is not the first time Pope Francis or Cardinal Fernandez have drawn the ire of\nconservative members of the Catholic community\nI know plenty of Catholics in December Cardinal Fernandez introduced by text later approved by Pope Francis\nDetailing guidelines allowing priests to bless same-sex couple relationships were still considered simple\nSo he's on that he's fucking\nHe's elevated his\nHe's becoming a modern man and a modern Pope\nWait, which person was doing that?\nPope Francis, he's letting this he's letting us be same-sex. Oh\nI'm glad we have his permission and it's important to get\nAlthough Cardinal Fernandez did emphasize that the stance did not validate the status of same-sex couples in the eyes of the Catholic Church\nFor many conservatives the damage was done. Oh, well as long as\nYou still get to feel guilty because that's an important part of it, too\nWhat you mean Catholic guilt? Yeah, that's like a huge thing. So they can say like it's chill\nBut do still feel bad feel bad every day and we do\nbecause again bless up\nUntil Trump declares himself the new Pope. Oh shit. Can he do that? I mean he could do that. I don't think that means he is\nHe's declared himself president and that now seems like he's gonna be I\nGuess it's not impossible. You know at this point. I shouldn't say it's impossible that Trump becomes Pope\nI was wrong that he could become president. I might be hopefully I'm wrong that he's gonna become one again. Oh\nboy\nPresident Trump Pope\nHow much doesn't that give him extra powers can't he turn like\nStakes into\nLike Trump steaks into Trump planes or some shit. That's his Pope power turning steaks into planes. I\nDon't know. He turns gold into a golf course\nI don't I don't think that's a Pope power. You don't know you're not him or the Pope\nOh\nFuck Cardinal Gerhard Mahler, who was the church's head of doctrine under Pope Benedict?\nIt's hilarious because they're against it they're against dick\nBut it's in their names and in their institutions. It's already inside them. It's true\nThe dick does already inside them and there's no stopping it\nAnyway, mr. Dick's firmly denounced the Vatican's document in a lengthy response posted online Cardinal\nHow do you pronounce the two dots over the you?\nMueller\nThat doesn't sound right\nMillie said that a priest blessing a homosexual union would be committing a secularism bless famous at\nTrump steaks on a plane if he puts the steaks on a plane and then the steaks become a plane\nIt's a danger to the planes all of them at once\nChet, what are you imagining here?\nHe's leans over one of his Trump steaks and he chants by the power of Pope God\nBecome a plane and then it just boom it like a like a big expanding like in the Godzilla movie when they blow up the\nWhat the flotation devices on Godzilla the steaks like food and it's a plane and if that happens on a plane\nWhich he's on all the time because he's doing he's making big money president moves\nThen your plane explodes into a plane\nAnd what happens to the people on the first plane none of that is a concern none of that is ever gonna happen shut you don't know that\nYou are scaring me chat card King. I'm scared\nAnd I'm trying to calm down by thinking about the Pope having sex, but so far it's just confusing me\nSacrilegious and blasphemous acts. That's what we're talking about according to the criterion collection of these types of blessings\nOne could even bless an abortion clinic or a mafia group Cardinal\nMulia he said\nProlates around the world are also release statements also release statements\ncondemning the discussion\nIncluding American conservatives who have been vocal opposing the Pope's planes plans plans\nTrue blue 91ers. Thank you so much for this sub. I am freaking out. I\nFucking losing my cool, and I know that's a little not newsy enough\nBut sometimes the news is be scared cuz this shit\nWell to be fair the story is not a lot. It's just the Pope making a pretty mild statement about sex. I\nThink you're hyping it up and driving yourself a little crazy chat\nI'm being gas\nFit\nYes, pit. I'm being gas pitted by you. You mean gas lit. No gas pitted\nIt's when you have a feeling\nAnd who the the guy you thought was your boy digs a fucking hole and then he kicks you into it and says your feelings\nDon't matter. You've been gas pitted\nSounds a lot like gaslighting. No, it's a different even more macho version of gaslighting gaslighting macho\nWhen it's being done to me\nBut it's even more macho when it's gas pitting which is exactly what's happening\nJust seriously says what on the Pope's gift registry what's on the Pope's gifts registry. Is he getting married?\nI don't think so. Maybe he just has maybe as a gift register because he's the Pope. I don't know chat\nWell, the people want to know I don't think he has a permanent gift registry. What he wants is more money\nGive the church more money. That's what they always want. Oh, okay. That's nice when you can just give cash\nBecause otherwise you got to like consider what they really I but then I guess that's the point of a gift registry\nNone of this has anything to do with the story\nIt does because it's happening during the story. Okay, whatever\nWho have long been okay? The tensions reached a nay dear when the Pope evicted out spoken critic US cardinal Raymond\nThe Burke from his Vatican apartment and revoked his salary\nThat's the end of the story. Oh\nOh\nWell, that's it. It was a sad ending for\nRaymond the Burke. Why'd they even do that? Oh, cuz he was uh, huh?\nWell, but Burke was too anti-sex and the Pope said we fucking around here get the fuck out\nYeah, I don't know I'm surprised. It's just feels like the story kind of ended mid-sentence, but oh\nShit, we got stuff to get to you got to talk to a sexual demon and then somebody's got a sing about it or something\nYes, that's accurate\nWell, thanks for your coverage, but stay calm shut I it's not that serious. It's just the Pope\nTrying to be more forward thinking by saying sex is fine that incredibly\nYou know progressive statement\nJust at the end of the stream poor for four and I will for four all your pores like I'm a skiing expert\nThanks for being here check and my pleasure as well because of what is required of the coverage and which has been done\nAnd well though the story ended with the failure of Raymond\nEverybody loves Raymond's failure because of the sex that he was not having but I'll tell you what's really fucked not being informed\nbut now you is meaning you're unfucked but that you do fuck and that I'm chet and\nAnd much like God insert your loving to me at any size because I'll take it all\nStraight to the face bless up to the face of God and cover it with your love and of which was chet\nNow on to thee is the religion of the news which was done. Amen. Oops. Yeah\nThis is the body of Christ\nThe body of of chat compels you\nUm anti-sex demons is who is it who I need to talk to? I\nDon't know what demons are even around the studio today. There's usually a couple\nLet's see\nWhat anti-sex demons I can find on short notice\nPapito we got any anti-sex anti-sex demons ready to go. Don't do my life\nYes\nYou found one that fast. I looked at the sky and I said\nAnd then it even showed up\nYou know sexes\nOkay, well, that's sexually fine by me. I'm not gonna tell you\nI don't want to know and I wouldn't even if you told me cuz I'm a dog\nBut you well the chat is saying that you fuck. Oh, thanks. Is that good?\nYeah in that context. Yeah, if I fuck you mean love my mommy for being a good mom. I\nDon't mean that that's sweet, but stop saying that\nThanks for the follow mystery\nYo jumbo the don't worry. Papito's just confused. Yeah, Papito's in the mills. Mom's I love Fiona\nActually, how did you know that what that acronym meant if you can't read and you don't know what sex is?\nI just go off instinct again. I am a dog\nWell, thanks for getting a sex demon short notice and I guess let's check in with them\nFrom the seventh layer of hell\nPlease welcome I\nGuess it's just a I guess it's just a sex demon. That's correct\nI am indeed a demon of sexual nature\nAnti-sex nature actually don't like it. You do look like a sex demon. No, but I but don't is my thing\nStop fucking\nMore toes\nIt's well, what don't you like about sex so dirty. It's filthy all those parts rubbing together\nSounds like you like it, which you are a demon so that kind of makes sense\nI'm literally the demon of anti-sex. I\nThink about how not to do it all the time\nThat certain parts not fit together. Maybe something's too big to even do it\nHuge\npulsing out labious\nincapable of\nquite as\nHuge pulsing labious\nJust parts big wet parts that should never stop it\nYou're getting way too turned on immediately to even have a conversation\nOkay, how did you become the anti-sex demon? I fucked so much that I got bored\nI was like you guys are still doing that\nNot me. I'm kind of next level you sound insanely horny though\nWhat the I actually what I do now is I knit\nI'm the deeming of anti-sex and knitting because\nImagine how much you could get done if think of all the times you spent masturbating and fucking and trying to fuck\nAnd trying to masturbate if you're super stuck and if you just spent that time learning a skill you could code\nYou could knit you probably have a garden and um\nYou don't miss busting\nBusting makes me feel bad\nYou don't miss busting at all. It sounds like you miss it a lot. I don't miss it. Oh, yeah\nWhat? That's um, that's my catchphrase\nYeah, are you just our demons are tricky or just are you trying to trick me?\nYou're are you actually the horniest demon ever and you definitely fuck. No, I\nThink Eric Harkus you walked into he's misrepresenting me. I'm an anti-sex demon\nAny other questions? Does chat have any questions for this anti-sex demon? I'm sorry. He's\nNot he's not I mean, I don't know what I expected\nDon't you think sex is healthy? Why did why do we even have sexual organs? It's necessary for reproduction\nThe continuance of the human race. Yeah, but I want that to stop obviously stop existing humans. It's not work\nYou've seen enough. You don't have to keep going\nCut it out. Just come down here\nYou're gonna end up here anyway. Let's get it over with. Let's move it along\nCome burn in the internal fires of hell get whipped get your skin scraped get fucked. I'm sorry. Don't get fucked. Oops. I mean don't\nWhat would he do with an old priest and a young priest\nYeah, what's the age differential over 18 at least no, yeah, of course\nOf course and 70. Oh\nThat's a big differential. That's really bad\nSo they shouldn't have sex\nOkay, are you pro-abortion? No, you should never get to the point where you have one\nso I'm pro\nabstinence and\nif there's a baby then\nThe important thing is that it grows up and doesn't have sex\nShe just curse I curse with my mind\nAll right\nHave you ever had the body of Christ?\nThat's the ultimate no, no, I mean\nthese off-limits\nStrictly forbidden\ndon't\nDon't\nSo sweaty up there with those abs just these for it's for your he's doing it for your sins\nDon't add more sins that'll be up there longer\nUp there just baking in the sun with that body\nJesus Jesus Christ, um, I think I'd one more question\nHave you met Liliana? Oh, of course. Okay. Um, well anyway, it's sex demon anti\nI just it's confusing because it mostly seems like you explicitly want to have sex\nNo\nIt took you way too long to answer auntie sex demon\ndemon\nAre you like what?\nYour voice got so high\nGot excited. Um, okay. Well, anyway, it seems like you're I was gonna say kind of copying drag culture. No, this is my look first\nHow old are you at least 50?\nAll right, whatever. Thanks for being here anti sex demon\nI don't think I don't think we learned much but that was never an expectation\nSo I appreciate it and I appreciate you. I mean, you've really been following my teachings for a long time never fucking totally unfuckable and\nReally following this unstraightened arrow of demonic anti-sex by just never getting it\nNever gonna get it never gonna get it\nNever gonna fuck he doesn't this guy\nI never ask\nOkay, see you later. I'd have I got it sing about the news\nAnd then I got to play lethal company like other guys that have sex a lot\nI'm a sex guy. That's on the I'm on the record is being an notorious sex guy. Let's see what else\nLet's see what else is going on in the news before we join Fiona. Is she playing yet?\nLet me double-check that she's playing\nOh, she's in there\nOh\nWhere she's about to play\nHey, I miss you as a gun\nGood to see everybody in chat\nWe're keeping the news section of the stream a little a little shorter today because Fiona's playing 12 hours a lethal company\nAnd I at least want to I want to start her off right with a powerful quota\nWith which with my skills. I can easily deliver as a guy who fucks I lethal company is nothing to me\nExactly\nAnyway, we got a sing first. We were there was a quest for DJ music. So we'll send it over there\nfor him to\nWhat else is going on in the world today? Anybody has a story they want new to see covered musically?\nLet DJ music know the request came in from\nDilemma so dilemma if in particular if you had a story you wanted covered by DJ music\nJust let us know. I also got an exciting new toy, but it don't have the cords it needs yet\nI even show you guys this\nCheck this out\nIt says it says zoom\nV3\nMeaning I can I can make the vocal effects even more annoying\nOnce I get the cord, but for now\nHmm\nYou're debating putting bid on for your parents. It's a preachy. I don't know, you know back when um, I\nWas in my sketch group cigarette sandwich who I'm actually gonna start doing stuff with again for online stuff in the next couple weeks\nNot a stream thing stuff for YouTube\nAnyway, when I was doing stuff with that sketch group\nWe put out that power half hour thing and it had like a little following in Chicago and a couple people that really liked it\nso one of my improv students once came up to me and was like\nYou know, I didn't have anything my girlfriend's parents came over and I I wasn't sure how to like keep them entertained\nSo I put on your power half hour. I was like, ooh, that sounds like a bad idea\nAnd he's like it was she broke up with me\nAfter her parents left she broke up with me\nBecause she said she just wasn't feeling it\nso I\nLike to know that that I have that power that my content has the power to break up relationships\nThat let's be real they weren't meant to be if they couldn't survive my content. I am the anti-sex team and it was secretly\nI\nDo I have to say I would never put on anything I've made\nTo I don't know entertain the parents of someone I was dating. I do think that's on that person\nBut I am a little responsible to oopsie. Okay, let's send it over to DJ music to\nDo whatever that do whatever that music\nAnd if you have a story why don't recover throw it in chat. All right\nThat's a good job because you did the right thing and you called for DJ music\nThe best job of all yeah, my hair's looking a little too normal. There we go. That's how I like that\nThis is a good look right here\nPut the hair down today. I'm looking like a blue hair Justin Bieber, man. It's a this is a powerful DJ music look\nall right\nLet's see\nYou just forgot to show them the rat stuff. That's possible\nTurn this down just a little bit my dad watched a few episodes of a with yes, he likes alarm charms. There you go. That's a win\nJust checking if there's any story you want to see covered musically today, and it's not don't even stress\nDon't even stray. Yes\nokay\nJustin Bieber trap remix. I don't know if there's any Bieber news even going on in the world today\nWhat's that little guy up to?\nSorry, I need my lasers there there they are now. I'm feeling music\nAll right, what else is cooking in the world of important news man charged to 600k worth of drugs\nAfter Lego sees by police. Oh my god\nOkay, this is interesting\nWell\nInteresting is a subjective term\nThis is a thing\nLet's see what's going on. Let me update this little let me update this guy\nHmm hot fresh news about incest coming down the news pipeline\nLet's get it. I want a sexy on an R&B beat\nI want some R&B\nGive me some R&B, please\nIf we're gonna talk about\nThe sensual side of things\nAka\nWhat is incest then I need a sexy I need a sexy track\nAll right, let's get into this folks. This is courtesy of tower beats the song song smooth dark type sensual beat\nI love to credit my the artist that I sample will call it sampling\nHmm turn that up for me turn that way up. Oh, yeah\nWhat's going on Kentucky Republicans?\nSounds like you're feeling a little lonely out there. Maybe you're dating options are kind of limited\nEverybody deserves just a little bit of that loving\nWhat's a little love between first cousin?\nWe're pushing we hop and we hop and we hop and we into something\nRepublicans what you're starting a\nKentucky Republican introduce some legislation that would amend the state's law\nA new sensations a person who has sex with their first cousin is no longer in trouble for a little cousin loving\nNo longer criminally liable\nWhen the passions become an undeniable\nBefore withdrawing and claiming an error was made\nNo shade\nGet laid house bill\n269 never seen a bill looking so fine\nThat bill was trying to get it done coming in from representative\nintroduced\nJanuary 16\nBill looking first cousin clean\nA 27 year old public defender\nHe grabbed that bill and said look here big spenders first shot to prominence when he won the\nAnd he's a survivor a sexual non-denier. You know that he finds his cousin\nHe pushes it higher and higher him and his first cousin between the sheets\nThey say to each other this is way too discreet\nLet's take this shit straight to see an end and put it in baby coming in from first both ends\nDamn\nLook is that the kind of love we support here?\nI'm the DJ on musically do we news at least support light incest\nYou know I love love, but that's a bit of a test\nThere's a lot of the fish in the sea, so where's the fishy for me?\nDo I need it to be my first cousin?\nexactly\nDJ music says\nProbably not but also why I hate to see a bit of love stop\nSo let's take a look at that family tree and if the roots diverge\nThen get it in bed saying if they're not that related. I don't know. Maybe it's\nMaybe it's not that big of a deal\nhmm\nBut how related our first cousins I honestly don't I don't know is that fully related?\nIt sounds the first makes me think it's like as related as it gets without it being your straight sibling\nCan you hear from case's first cousin?\nYeah, let's see how cases first cousin is doing\nLet me find cases first cousin really quick and we'll just see\nIf they've got anything to add to this important story\nPlease welcome to the stage at this time\nComing in straight from Roanoke, Virginia and or Michigan wherever cases extended family is\nHe's not just any cousin\nYo, I'm coming in. I'm waiting for the drop\nComing in for the drop first cousin. No stop first coming coming through\nFirst cousin what it do first cousin here for you\nMy name is Chase\nComing into this place. I'm that number one cousin. So I never been disgraced\nPlus two God above number one cousin meaning that's it's all love\nI didn't see the rest of this segment cuz I was walking up\nBut I'm that first cousin dropping first coming love of course\nTo get case to my place. I say come over cousin. Let's have a little cousin fun\nAnd we gonna be best cousins by the time I'm done coming. I'm hard for Virginia\nSo you know as a cousin that I'm in here for one cousin ain't that something love it with my number one cousin\nSo just to be clear you didn't see the segment at all\nCan you clarify what you mean by love?\nYeah, man, it's all love between family man. Family is everything and\nYou gotta you gotta support your brothers. You gotta support your sisters. You gotta support your cousin and\nSometimes it's easy to lose track of people man\nYou know your cousin moves to LA you never see each other anymore and used to be close like this you go like\nYou bathe together his babies. What you're so close to these little babies. You bathe together nude in the bath man like\nYou're like this. It's all love. So why deny that love?\nkeeping contact with your cousin cuz\nBecause it's all love cuz\nIt's all love cuz because it's cousin love\nAnd if your cousins in love, why would you deny that love cousins coming from above to drop that cousin love?\nWell, I am in support of love and it's not entirely clear what you mean. So\nOkay\nI mean that my love my one cousin loves me\nAnd I love him cousin Lee\nHer name was chase chasing that number one spot first cousin. This track is longer than I expected\nNice and it's almost done. It's all my\nOkay, well\nMaybe we just don't invite cases extended family even though it is all sorry. It's all love. It's all love\nWe don't judge\nYou know, I think it's time for some lethal company. What do you say?\nFiona zone\nFiona zone\nGet a lethal with that cream\nYeah, bring in the dream drop a lethal company cream\nWhat happened gonna go get that neck snapping\nGonna look for a bracket\nGoku slapping pulling up that fucking steam\nSo I can unleash a little lethal company cream\nThank you all of course for hanging out for the news section of this stream\nBut case I'm gonna switch it over now and then attempt to get into Fiona's game\nWhich might take a minute\nIn fact, I'll just hang out while\nHang out while I see where they're at in that process\nI also probably need to set up a computer so candle play me DJ\nGonna go to cases apartment and set up lethal company for candle\nThe news was extremely horny today\nBut sometimes the news is horny and that's our top story\nI mean you really can't help it sometimes the news\nGo get him tiger. Oh my god, he's got to update ten of his apps case has ten apps to update\nFrom the Thunder store\nWhat's in store?\nJust a little bit more\nSoft-core or maybe cousin core. Oh, the mind's alive. It's time to get inside\nWe need an F. I'm to trip, but we're gonna send you straight to a ship\nLet's check it with you on a stream real quick. How far are they from?\nBeing in space. Oh\nMy god, what's even happening right now?\nI cannot tell what's oh, she's on a she's not just on a foggy planet. Okay\nLooks like he should be good to join in a few minutes\nAll the penis stories to be found this week. We're about the eunuch wait. There's a eunuch trial\nWhat a incredible day for day for news we should have done more stories\nBut we've got to get on this spaceship the spaceship straight to love\nfeeding the tentacle of\nMake a quota love\nCan't deny that scrap when you hit it from the back fire exit\nThe game is not lunch\nThere we go now. It's now. It's lunch\nSpaceship straight to your cousin's heart the most forbidden spaceship of all\nFrom the planet cousin in a galactic cousin lovin\nAll right, let me stop these tracks\nThere we go enough R&B enough weird horny incest R&B for the day, I guess\nAll right, it's time to switch this stream over to lethal time. I\nHope she has late company installed or we're gonna get blue ball\nAnd I'll have to give Fiona Nova the it call. All right. We fucking did it\nWe did a quick stream, but it's time for a little little company\nDon't mean to brag and you know that I don't boast, but I and join in a crew\nI don't even host because\nIt's lethal company 12 hours it never ends so we gonna join the crew\nFrom me to you, we got some scrap to collect so it's time to come through\nOkay, we did it. The music is done\nI'm a hobby into the sun. Oh, maybe I'll collect so my scrap\nI don't when I'm done that you'll have to take my name to DJ music Titan, okay?\nI cannot seem to join the game yet, but I am gonna switch it over anyway\nBecause I'm just delaying the game at this point\nThanks again, we'll be back in two seconds or the stream will crash in which case we'll be back in in more seconds than that\nAll right. Bye. Bye y'all\nHere we go",
+  "text_timestamped": "[00:00 --> 15:10] So everybody\n[15:11 --> 15:17] I'm not sure why that's popping off like that. That might happen every time I switch scenes today\n[15:18 --> 15:20] Just a heads up on that\n[15:20 --> 15:23] I thought somebody was salt burning. It's possible\n[15:24 --> 15:30] Chip SCT. Thanks for the follow. I think we had a sub or two during the pre-stream also. Thank you so much\n[15:31 --> 15:37] To tamtran as always and big J. Dub for the dub with the sub\n[15:37 --> 15:42] Thank you all. Let me open up chat where I like it right down the barrel of\n[15:43 --> 15:45] the lens\n[15:45 --> 15:47] There you guys\n[15:47 --> 15:49] Gonna see everybody\n[15:50 --> 15:56] I'm just doing a quick stream of news because you might have noticed our very own Fiona Nova is in fact\n[15:57 --> 16:03] Doing a 12-hour stream get over there if you haven't already we're gonna be joining her shortly. Oh my god\n[16:03 --> 16:05] Tamtran's dropping the 10\n[16:05 --> 16:10] Immediately Pepito is gonna be joining fee whether she likes it or not as soon as we hit that goal\n[16:10 --> 16:16] Card King to see a gun junk dog gearless Joe and no mad. Good to see an entity. Always good to see you\n[16:16 --> 16:18] Good to see everybody plop dumps\n[16:19 --> 16:21] of course\n[16:21 --> 16:27] One second while I just double check a little technical issue\n[16:28 --> 16:32] I don't want to add so much lotion to this stream stream that it's an all-lotion stream\n[16:33 --> 16:35] So, let me just fix that potentially\n[16:36 --> 16:40] oh\n[16:40 --> 16:48] My god, I see what happened. Okay, and just like that. We're back, baby\n[16:51 --> 16:56] We out here a very dyslexic of you case happy to be here chip it's CST\n[16:57 --> 16:58] TSC\n[16:58 --> 17:02] If I'm feeling dyslexic, I'm gonna see you card King Hugh Keeler\n[17:02 --> 17:04] I already said plop dumps, but I'll say it again\n[17:05 --> 17:10] It will moisturize your insides. Well, I just want to be able to trigger it at will\n[17:10 --> 17:14] I mean, it's not like I don't want to add lotion. I just want to know when I'm adding it\n[17:15 --> 17:19] Technically now I'm adding it to chat. All of you are getting\n[17:21 --> 17:23] motioned\n[17:23 --> 17:25] Does your skin feel good?\n[17:27 --> 17:32] Okay, let's feel like an hour of news and then let's support our Fiona Nova's in her space quest\n[17:34 --> 17:37] Exactly free spa day card game. You've been hooked up by me\n[17:39 --> 17:41] What's going on in the world today?\n[17:42 --> 17:44] What news did I queue up?\n[17:45 --> 17:50] Pope Francis says sexual pleasure is a gift from God. I\n[17:51 --> 17:58] Mean, I never I never thought that wasn't the case, but I'm glad that Pope Francis is finally getting on the van with\n[17:59 --> 18:04] The Pope is right. I mean I'm inclined to think\n[18:04 --> 18:11] That he is and this might be an agreeable story today because I'm joined by Chet to cover this important\n[18:13 --> 18:15] Declaration from a religious figure\n[18:17 --> 18:23] So let's see how Chet's doing today Chet. Thank you for joining me as always\n[18:24 --> 18:28] Yes, I was about to say as always well I was here. Yeah\n[18:29 --> 18:37] Does the Pope endorse prostate stem how into the weeds is he getting here?\n[18:37 --> 18:42] I don't know. We have to read the story. Well, look I am a man of God and\n[18:44 --> 18:45] Jesus\n[18:45 --> 18:53] And in a way, I believe that every religion is one in the same Jesus and all of them\n[18:54 --> 19:00] Should be sex positive because Jesus was I mean you saw him up there. He was fucking swole\n[19:00 --> 19:08] He's putting it out there. He's showing off on the cross. I mean, yeah, you don't it's like he was training for a role\n[19:08 --> 19:11] I mean he had the abs. It's like he was in a Marvel movie like the dude was\n[19:12 --> 19:18] You know sex appeal was a part of it. I'm not sure if that's\n[19:19 --> 19:21] Was what he was going for I\n[19:22 --> 19:24] Mean, you don't understand working out\n[19:24 --> 19:30] So I understand that you don't understand that he was trying to put it put out a vibe and he succeeded\n[19:30 --> 19:36] The pope's finally catching up and that's a relief. Let me get this story queued up gosh dang it\n[19:36 --> 19:42] How can these things never just fucking work in the way I want? There it is a little fixie do\n[19:43 --> 19:45] Yeah\n[19:45 --> 19:47] And now I'm a newsman\n[19:48 --> 19:55] Pope Francis says sexual pleasure is a gift from God by Laura Gazi credits to the BBC\n[19:57 --> 20:00] Credit all credit to the BBC for this sex story. You know what I mean\n[20:00 --> 20:10] Pope Francis who's 87 has been the head of the Catholic Church since 2013\n[20:10 --> 20:14] Pope Francis has said that sexual pleasure is a gift from God that should be\n[20:15 --> 20:17] Disciplined with patience\n[20:18 --> 20:21] You discipline your gifts if they misbehave\n[20:22 --> 20:28] What kind of gifts are you getting the kind I have to occasionally\n[20:28 --> 20:36] Discipline he also warned against pornography, which he said brought satisfaction. Where'd the fuck?\n[20:37 --> 20:43] He also warned against pornography, which he said brought satisfaction without relationship and could lead to addiction\n[20:43 --> 20:48] His Vatican address was part of a series of sermons of vices and virtues focused on what the Pope called the\n[20:48 --> 20:50] Demound of lust\n[20:51 --> 20:55] He killer asked what about those monster dildos is God cool with those?\n[20:56 --> 20:58] and\n[20:58 --> 21:02] How monstrous?\n[21:02 --> 21:05] God can contains a you know an\n[21:06 --> 21:13] Infinity of all things, so I'm assuming he could absolutely hand or handle the thickest of insertion or she or\n[21:15 --> 21:19] The CV loves you. Thank you so much. I think the jury's out\n[21:19 --> 21:22] I'm not familiar with Leviticus or lasciviousness\n[21:23 --> 21:25] Whatever book of the Bible covers\n[21:25 --> 21:27] specific fetishes\n[21:28 --> 21:31] I'm not that verse in the Bible either, but I don't well\n[21:32 --> 21:34] It depends what you're into\n[21:34 --> 21:38] Anyway, the jury's out, but probably got to handle any size you've got\n[21:39 --> 21:43] Also a huge shout out to those of you dropping those hot\n[21:44 --> 21:50] Subbies I know this story is getting sexy and it makes you want to pull out the subs and I'm in full support of that\n[21:50 --> 21:58] Thank you to CV loves you and dad lamp recon the daddy of the pecans archangel 713 for the 12 months\n[21:59 --> 22:02] All of you and the little hypey train that's going. Oh, there's a hype train\n[22:02 --> 22:04] Okay, but can we talk about the sex thing?\n[22:05 --> 22:12] We can but I have to play the hype train music at the very least if we're gonna do that. Just I got to find it\n[22:15 --> 22:17] But now they won't take this story seriously\n[22:19 --> 22:21] Can't help it if a hype train shows up\n[22:22 --> 22:28] You're lucky I don't make you into the hype train you cannot transform me into a train. I am a man\n[22:29 --> 22:34] At least turn it down slightly. All right, of course what part of our top story there is currently a hype train happening\n[22:35 --> 22:37] And this for you again is sponsored by BBC\n[22:38 --> 22:43] It was followed by criticisms about conservative Catholics. This is so distracted\n[22:44 --> 22:48] Followed by criticism about conservative Catholics of his new head of doctrine\n[22:48 --> 22:53] Cardinal Victor Manuel Fernandez. He was appointed last July came under fire for a book\n[22:53 --> 22:58] He wrote and published in late 1990s entitled mysticale Passione\n[22:59 --> 23:04] Spirituality and sensuality the book which is now out of print discussed human sexuality\n[23:05 --> 23:08] and provided detailed descriptions of male and female\n[23:08 --> 23:13] Experiences during or chasm speaking to catholic online publication crooks\n[23:14 --> 23:21] Cardinal Fernandez said he wrote the book when he was still young and he certainly would not write it now. I\n[23:21 --> 23:23] Guess he's fucking taste calm down\n[23:24 --> 23:27] We can hear the hype train and be serious at the same time\n[23:27 --> 23:33] I mean, I have that level of commitment to the news cases over here. Just fucking vibe it out\n[23:33 --> 23:41] But I'm actually taking this shit seriously good. You're calming down\n[23:42 --> 23:49] You know, a card King says y'all know the only sin in Sodom and Gomorrah was that they didn't acknowledge God. Oh\n[23:50 --> 23:56] Shit, they're working with fucking map hacks, dude. They're turning on the mods. They're like, I'm fucking crack the system\n[23:56 --> 24:01] You can actually be as horny and crazy as you want if you fucking bless up afterwards\n[24:01 --> 24:12] I'll praise be in his name now. Let's stuff these fucking holes. I mean, I'm in favor. I know you won't\n[24:13 --> 24:15] Matt Pats\n[24:15 --> 24:19] That's just a game here. I know that's a real ass game theory\n[24:19 --> 24:25] Bless up to God every time you fucking get it in or get it put in you or you know, whatever\n[24:27 --> 24:34] Conservative commenters have called the book perverse with one saying it showed Cardinal Fernandez was unfit to be perfect for the\n[24:35 --> 24:37] Dicastery\n[24:37 --> 24:39] He's called the Dicastery\n[24:40 --> 24:50] Yeah, yeah, that's right. That's right. Yeah, I just read it for the the Dicastery for the doctrine of the faith the pope had\n[24:50 --> 24:56] Already tackled the vice of gluttoning last week. There's no suggestion that his sermon on lust during Wednesday's general audience. Hello, chandel\n[24:58 --> 25:01] General audience was related to the criticism of the Cardinal\n[25:02 --> 25:06] Why would they why would they try to to take the sex out of the Dicastery?\n[25:06 --> 25:11] I just don't understand. Also the hype train completed at level four\n[25:12 --> 25:18] The train that we were running on this story just pounding this story into the ground. It hit a four\n[25:19 --> 25:21] It's a respectable train\n[25:23 --> 25:25] Nice\n[25:25 --> 25:27] Lorraine a bob at the dick the Dicastery\n[25:27 --> 25:34] I mean you might have to if they're becoming anti-sex which is against the will of God as it is a gift that he bestowed upon to us\n[25:34 --> 25:36] To get it in and get it put in\n[25:36 --> 25:38] then I\n[25:38 --> 25:42] Think that it's a false covenant that is being celebrated by demons\n[25:43 --> 25:45] anti-sex demons\n[25:45 --> 25:50] Anti-sex demons the church has been taken over by anti-sex demons except the Pope who seems chill\n[25:51 --> 25:58] Anyway, this fucking loser said that lust devastates relationships between people adding that daily news is enough to document\n[25:58 --> 26:04] This is a reality. How many relationships that started out in the best way have ever become\n[26:06 --> 26:08] But that's me\n[26:09 --> 26:11] Anti-sex demons\n[26:11 --> 26:15] Don't let them encase they'll pervert your holy dirty mind. I\n[26:16 --> 26:21] Thought I'm I don't I think you got it backwards for traditional religion. They don't like sex\n[26:22 --> 26:26] You that well see and now you're succumbing to stereotypes\n[26:27 --> 26:32] Stereotype is that really religious people are anti-sex and they don't even want you to use\n[26:32 --> 26:37] Provolactics because all sperm is sacred, but really if you just fucking bless up the God\n[26:37 --> 26:40] You can shoot the thickest ropes you want anywhere you want\n[26:40 --> 26:46] And you just got to pray over those ropes and wherever they're in wherever they're on and it's all good in the face of God\n[26:48 --> 26:51] Chat I think I think you're gonna offend some people if you keep talking like this\n[26:51 --> 26:55] No, I'm blessing up afterwards praise be his name\n[26:55 --> 26:59] Can I get an amen in the face of God?\n[26:59 --> 27:07] Blast that amen and in the face of God. Oh, okay. Yeah, exactly\n[27:08 --> 27:10] We'll get to this expert after I get through this important story\n[27:11 --> 27:18] This is a news institution and I will deliver the news on to you like I'm a sermon from the mountain with the book of\n[27:19 --> 27:25] Moses that was written in rock and his commandments shall be let chit fucking cook on this story\n[27:26 --> 27:30] Hmm sticky ropes exactly, but bless up if they stick\n[27:32 --> 27:34] Consecrate the landing area\n[27:34 --> 27:39] How many relationships that started out the best way have later become toxic relationships?\n[27:39 --> 27:44] Yes, this is not the first time Pope Francis or Cardinal Fernandez have drawn the ire of\n[27:45 --> 27:47] conservative members of the Catholic community\n[27:48 --> 27:55] I know plenty of Catholics in December Cardinal Fernandez introduced by text later approved by Pope Francis\n[27:55 --> 28:01] Detailing guidelines allowing priests to bless same-sex couple relationships were still considered simple\n[28:02 --> 28:04] So he's on that he's fucking\n[28:04 --> 28:06] He's elevated his\n[28:06 --> 28:09] He's becoming a modern man and a modern Pope\n[28:10 --> 28:12] Wait, which person was doing that?\n[28:12 --> 28:17] Pope Francis, he's letting this he's letting us be same-sex. Oh\n[28:18 --> 28:21] I'm glad we have his permission and it's important to get\n[28:21 --> 28:28] Although Cardinal Fernandez did emphasize that the stance did not validate the status of same-sex couples in the eyes of the Catholic Church\n[28:28 --> 28:32] For many conservatives the damage was done. Oh, well as long as\n[28:33 --> 28:36] You still get to feel guilty because that's an important part of it, too\n[28:37 --> 28:41] What you mean Catholic guilt? Yeah, that's like a huge thing. So they can say like it's chill\n[28:41 --> 28:46] But do still feel bad feel bad every day and we do\n[28:46 --> 28:48] because again bless up\n[28:48 --> 28:56] Until Trump declares himself the new Pope. Oh shit. Can he do that? I mean he could do that. I don't think that means he is\n[28:57 --> 29:00] He's declared himself president and that now seems like he's gonna be I\n[29:01 --> 29:05] Guess it's not impossible. You know at this point. I shouldn't say it's impossible that Trump becomes Pope\n[29:05 --> 29:10] I was wrong that he could become president. I might be hopefully I'm wrong that he's gonna become one again. Oh\n[29:12 --> 29:14] boy\n[29:14 --> 29:16] President Trump Pope\n[29:16 --> 29:19] How much doesn't that give him extra powers can't he turn like\n[29:21 --> 29:23] Stakes into\n[29:23 --> 29:29] Like Trump steaks into Trump planes or some shit. That's his Pope power turning steaks into planes. I\n[29:30 --> 29:34] Don't know. He turns gold into a golf course\n[29:35 --> 29:40] I don't I don't think that's a Pope power. You don't know you're not him or the Pope\n[29:41 --> 29:42] Oh\n[29:42 --> 29:49] Fuck Cardinal Gerhard Mahler, who was the church's head of doctrine under Pope Benedict?\n[29:51 --> 29:55] It's hilarious because they're against it they're against dick\n[29:55 --> 30:00] But it's in their names and in their institutions. It's already inside them. It's true\n[30:00 --> 30:03] The dick does already inside them and there's no stopping it\n[30:03 --> 30:10] Anyway, mr. Dick's firmly denounced the Vatican's document in a lengthy response posted online Cardinal\n[30:10 --> 30:12] How do you pronounce the two dots over the you?\n[30:14 --> 30:15] Mueller\n[30:15 --> 30:17] That doesn't sound right\n[30:17 --> 30:24] Millie said that a priest blessing a homosexual union would be committing a secularism bless famous at\n[30:26 --> 30:30] Trump steaks on a plane if he puts the steaks on a plane and then the steaks become a plane\n[30:30 --> 30:33] It's a danger to the planes all of them at once\n[30:34 --> 30:37] Chet, what are you imagining here?\n[30:37 --> 30:43] He's leans over one of his Trump steaks and he chants by the power of Pope God\n[30:43 --> 30:51] Become a plane and then it just boom it like a like a big expanding like in the Godzilla movie when they blow up the\n[30:51 --> 30:58] What the flotation devices on Godzilla the steaks like food and it's a plane and if that happens on a plane\n[30:58 --> 31:03] Which he's on all the time because he's doing he's making big money president moves\n[31:03 --> 31:05] Then your plane explodes into a plane\n[31:07 --> 31:13] And what happens to the people on the first plane none of that is a concern none of that is ever gonna happen shut you don't know that\n[31:14 --> 31:19] You are scaring me chat card King. I'm scared\n[31:20 --> 31:25] And I'm trying to calm down by thinking about the Pope having sex, but so far it's just confusing me\n[31:26 --> 31:32] Sacrilegious and blasphemous acts. That's what we're talking about according to the criterion collection of these types of blessings\n[31:32 --> 31:37] One could even bless an abortion clinic or a mafia group Cardinal\n[31:38 --> 31:39] Mulia he said\n[31:39 --> 31:44] Prolates around the world are also release statements also release statements\n[31:44 --> 31:46] condemning the discussion\n[31:47 --> 31:53] Including American conservatives who have been vocal opposing the Pope's planes plans plans\n[31:56 --> 31:59] True blue 91ers. Thank you so much for this sub. I am freaking out. I\n[32:00 --> 32:04] Fucking losing my cool, and I know that's a little not newsy enough\n[32:04 --> 32:08] But sometimes the news is be scared cuz this shit\n[32:10 --> 32:15] Well to be fair the story is not a lot. It's just the Pope making a pretty mild statement about sex. I\n[32:16 --> 32:19] Think you're hyping it up and driving yourself a little crazy chat\n[32:21 --> 32:23] I'm being gas\n[32:23 --> 32:24] Fit\n[32:24 --> 32:29] Yes, pit. I'm being gas pitted by you. You mean gas lit. No gas pitted\n[32:30 --> 32:32] It's when you have a feeling\n[32:32 --> 32:38] And who the the guy you thought was your boy digs a fucking hole and then he kicks you into it and says your feelings\n[32:38 --> 32:42] Don't matter. You've been gas pitted\n[32:42 --> 32:48] Sounds a lot like gaslighting. No, it's a different even more macho version of gaslighting gaslighting macho\n[32:48 --> 32:50] When it's being done to me\n[32:50 --> 32:55] But it's even more macho when it's gas pitting which is exactly what's happening\n[32:56 --> 33:03] Just seriously says what on the Pope's gift registry what's on the Pope's gifts registry. Is he getting married?\n[33:03 --> 33:09] I don't think so. Maybe he just has maybe as a gift register because he's the Pope. I don't know chat\n[33:09 --> 33:15] Well, the people want to know I don't think he has a permanent gift registry. What he wants is more money\n[33:15 --> 33:20] Give the church more money. That's what they always want. Oh, okay. That's nice when you can just give cash\n[33:21 --> 33:26] Because otherwise you got to like consider what they really I but then I guess that's the point of a gift registry\n[33:26 --> 33:28] None of this has anything to do with the story\n[33:30 --> 33:33] It does because it's happening during the story. Okay, whatever\n[33:33 --> 33:41] Who have long been okay? The tensions reached a nay dear when the Pope evicted out spoken critic US cardinal Raymond\n[33:41 --> 33:44] The Burke from his Vatican apartment and revoked his salary\n[33:46 --> 33:51] That's the end of the story. Oh\n[33:51 --> 33:53] Oh\n[33:53 --> 33:55] Well, that's it. It was a sad ending for\n[33:55 --> 34:03] Raymond the Burke. Why'd they even do that? Oh, cuz he was uh, huh?\n[34:04 --> 34:08] Well, but Burke was too anti-sex and the Pope said we fucking around here get the fuck out\n[34:09 --> 34:14] Yeah, I don't know I'm surprised. It's just feels like the story kind of ended mid-sentence, but oh\n[34:15 --> 34:20] Shit, we got stuff to get to you got to talk to a sexual demon and then somebody's got a sing about it or something\n[34:20 --> 34:22] Yes, that's accurate\n[34:23 --> 34:30] Well, thanks for your coverage, but stay calm shut I it's not that serious. It's just the Pope\n[34:32 --> 34:36] Trying to be more forward thinking by saying sex is fine that incredibly\n[34:38 --> 34:40] You know progressive statement\n[34:40 --> 34:47] Just at the end of the stream poor for four and I will for four all your pores like I'm a skiing expert\n[34:49 --> 34:56] Thanks for being here check and my pleasure as well because of what is required of the coverage and which has been done\n[34:56 --> 34:59] And well though the story ended with the failure of Raymond\n[35:00 --> 35:08] Everybody loves Raymond's failure because of the sex that he was not having but I'll tell you what's really fucked not being informed\n[35:08 --> 35:13] but now you is meaning you're unfucked but that you do fuck and that I'm chet and\n[35:13 --> 35:20] And much like God insert your loving to me at any size because I'll take it all\n[35:21 --> 35:27] Straight to the face bless up to the face of God and cover it with your love and of which was chet\n[35:27 --> 35:37] Now on to thee is the religion of the news which was done. Amen. Oops. Yeah\n[35:38 --> 35:40] This is the body of Christ\n[35:41 --> 35:43] The body of of chat compels you\n[35:44 --> 35:48] Um anti-sex demons is who is it who I need to talk to? I\n[35:49 --> 35:53] Don't know what demons are even around the studio today. There's usually a couple\n[35:55 --> 35:57] Let's see\n[35:57 --> 36:01] What anti-sex demons I can find on short notice\n[36:01 --> 36:06] Papito we got any anti-sex anti-sex demons ready to go. Don't do my life\n[36:06 --> 36:08] Yes\n[36:08 --> 36:12] You found one that fast. I looked at the sky and I said\n[36:13 --> 36:15] And then it even showed up\n[36:16 --> 36:18] You know sexes\n[36:18 --> 36:21] Okay, well, that's sexually fine by me. I'm not gonna tell you\n[36:21 --> 36:24] I don't want to know and I wouldn't even if you told me cuz I'm a dog\n[36:25 --> 36:29] But you well the chat is saying that you fuck. Oh, thanks. Is that good?\n[36:30 --> 36:37] Yeah in that context. Yeah, if I fuck you mean love my mommy for being a good mom. I\n[36:38 --> 36:43] Don't mean that that's sweet, but stop saying that\n[36:48 --> 36:50] Thanks for the follow mystery\n[36:51 --> 37:00] Yo jumbo the don't worry. Papito's just confused. Yeah, Papito's in the mills. Mom's I love Fiona\n[37:07 --> 37:11] Actually, how did you know that what that acronym meant if you can't read and you don't know what sex is?\n[37:11 --> 37:13] I just go off instinct again. I am a dog\n[37:14 --> 37:20] Well, thanks for getting a sex demon short notice and I guess let's check in with them\n[37:23 --> 37:26] From the seventh layer of hell\n[37:28 --> 37:30] Please welcome I\n[37:31 --> 37:37] Guess it's just a I guess it's just a sex demon. That's correct\n[37:38 --> 37:43] I am indeed a demon of sexual nature\n[37:44 --> 37:54] Anti-sex nature actually don't like it. You do look like a sex demon. No, but I but don't is my thing\n[37:55 --> 37:57] Stop fucking\n[37:57 --> 37:58] More toes\n[37:58 --> 38:12] It's well, what don't you like about sex so dirty. It's filthy all those parts rubbing together\n[38:19 --> 38:23] Sounds like you like it, which you are a demon so that kind of makes sense\n[38:24 --> 38:27] I'm literally the demon of anti-sex. I\n[38:28 --> 38:30] Think about how not to do it all the time\n[38:32 --> 38:38] That certain parts not fit together. Maybe something's too big to even do it\n[38:39 --> 38:41] Huge\n[38:41 --> 38:43] pulsing out labious\n[38:44 --> 38:45] incapable of\n[38:45 --> 38:46] quite as\n[38:46 --> 38:48] Huge pulsing labious\n[38:48 --> 38:56] Just parts big wet parts that should never stop it\n[38:57 --> 39:01] You're getting way too turned on immediately to even have a conversation\n[39:01 --> 39:06] Okay, how did you become the anti-sex demon? I fucked so much that I got bored\n[39:07 --> 39:11] I was like you guys are still doing that\n[39:12 --> 39:16] Not me. I'm kind of next level you sound insanely horny though\n[39:17 --> 39:21] What the I actually what I do now is I knit\n[39:21 --> 39:24] I'm the deeming of anti-sex and knitting because\n[39:25 --> 39:31] Imagine how much you could get done if think of all the times you spent masturbating and fucking and trying to fuck\n[39:31 --> 39:37] And trying to masturbate if you're super stuck and if you just spent that time learning a skill you could code\n[39:38 --> 39:43] You could knit you probably have a garden and um\n[39:44 --> 39:47] You don't miss busting\n[39:48 --> 39:50] Busting makes me feel bad\n[39:51 --> 40:05] You don't miss busting at all. It sounds like you miss it a lot. I don't miss it. Oh, yeah\n[40:11 --> 40:14] What? That's um, that's my catchphrase\n[40:15 --> 40:24] Yeah, are you just our demons are tricky or just are you trying to trick me?\n[40:24 --> 40:28] You're are you actually the horniest demon ever and you definitely fuck. No, I\n[40:29 --> 40:34] Think Eric Harkus you walked into he's misrepresenting me. I'm an anti-sex demon\n[40:34 --> 40:47] Any other questions? Does chat have any questions for this anti-sex demon? I'm sorry. He's\n[40:48 --> 40:50] Not he's not I mean, I don't know what I expected\n[40:51 --> 40:56] Don't you think sex is healthy? Why did why do we even have sexual organs? It's necessary for reproduction\n[40:56 --> 41:02] The continuance of the human race. Yeah, but I want that to stop obviously stop existing humans. It's not work\n[41:02 --> 41:05] You've seen enough. You don't have to keep going\n[41:06 --> 41:08] Cut it out. Just come down here\n[41:08 --> 41:11] You're gonna end up here anyway. Let's get it over with. Let's move it along\n[41:12 --> 41:19] Come burn in the internal fires of hell get whipped get your skin scraped get fucked. I'm sorry. Don't get fucked. Oops. I mean don't\n[41:22 --> 41:25] What would he do with an old priest and a young priest\n[41:28 --> 41:37] Yeah, what's the age differential over 18 at least no, yeah, of course\n[41:38 --> 41:41] Of course and 70. Oh\n[41:41 --> 41:45] That's a big differential. That's really bad\n[41:46 --> 41:50] So they shouldn't have sex\n[41:52 --> 41:58] Okay, are you pro-abortion? No, you should never get to the point where you have one\n[41:59 --> 42:01] so I'm pro\n[42:01 --> 42:03] abstinence and\n[42:03 --> 42:05] if there's a baby then\n[42:05 --> 42:08] The important thing is that it grows up and doesn't have sex\n[42:09 --> 42:16] She just curse I curse with my mind\n[42:16 --> 42:18] All right\n[42:19 --> 42:21] Have you ever had the body of Christ?\n[42:23 --> 42:25] That's the ultimate no, no, I mean\n[42:26 --> 42:28] these off-limits\n[42:30 --> 42:32] Strictly forbidden\n[42:32 --> 42:34] don't\n[42:34 --> 42:35] Don't\n[42:35 --> 42:42] So sweaty up there with those abs just these for it's for your he's doing it for your sins\n[42:42 --> 42:44] Don't add more sins that'll be up there longer\n[42:45 --> 42:48] Up there just baking in the sun with that body\n[42:48 --> 42:53] Jesus Jesus Christ, um, I think I'd one more question\n[42:55 --> 43:00] Have you met Liliana? Oh, of course. Okay. Um, well anyway, it's sex demon anti\n[43:01 --> 43:05] I just it's confusing because it mostly seems like you explicitly want to have sex\n[43:11 --> 43:12] No\n[43:12 --> 43:15] It took you way too long to answer auntie sex demon\n[43:17 --> 43:18] demon\n[43:18 --> 43:23] Are you like what?\n[43:26 --> 43:29] Your voice got so high\n[43:29 --> 43:37] Got excited. Um, okay. Well, anyway, it seems like you're I was gonna say kind of copying drag culture. No, this is my look first\n[43:38 --> 43:42] How old are you at least 50?\n[43:42 --> 43:45] All right, whatever. Thanks for being here anti sex demon\n[43:45 --> 43:49] I don't think I don't think we learned much but that was never an expectation\n[43:49 --> 43:56] So I appreciate it and I appreciate you. I mean, you've really been following my teachings for a long time never fucking totally unfuckable and\n[43:57 --> 44:02] Really following this unstraightened arrow of demonic anti-sex by just never getting it\n[44:02 --> 44:05] Never gonna get it never gonna get it\n[44:05 --> 44:08] Never gonna fuck he doesn't this guy\n[44:09 --> 44:11] I never ask\n[44:11 --> 44:26] Okay, see you later. I'd have I got it sing about the news\n[44:27 --> 44:31] And then I got to play lethal company like other guys that have sex a lot\n[44:31 --> 44:41] I'm a sex guy. That's on the I'm on the record is being an notorious sex guy. Let's see what else\n[44:42 --> 44:46] Let's see what else is going on in the news before we join Fiona. Is she playing yet?\n[44:47 --> 44:49] Let me double-check that she's playing\n[44:50 --> 44:52] Oh, she's in there\n[44:53 --> 44:55] Oh\n[44:55 --> 44:58] Where she's about to play\n[44:58 --> 45:00] Hey, I miss you as a gun\n[45:00 --> 45:02] Good to see everybody in chat\n[45:02 --> 45:06] We're keeping the news section of the stream a little a little shorter today because Fiona's playing 12 hours a lethal company\n[45:06 --> 45:10] And I at least want to I want to start her off right with a powerful quota\n[45:11 --> 45:20] With which with my skills. I can easily deliver as a guy who fucks I lethal company is nothing to me\n[45:21 --> 45:23] Exactly\n[45:23 --> 45:27] Anyway, we got a sing first. We were there was a quest for DJ music. So we'll send it over there\n[45:28 --> 45:29] for him to\n[45:29 --> 45:34] What else is going on in the world today? Anybody has a story they want new to see covered musically?\n[45:35 --> 45:37] Let DJ music know the request came in from\n[45:39 --> 45:43] Dilemma so dilemma if in particular if you had a story you wanted covered by DJ music\n[45:44 --> 45:48] Just let us know. I also got an exciting new toy, but it don't have the cords it needs yet\n[45:50 --> 45:52] I even show you guys this\n[45:52 --> 45:54] Check this out\n[45:54 --> 45:56] It says it says zoom\n[45:56 --> 45:58] V3\n[45:58 --> 46:01] Meaning I can I can make the vocal effects even more annoying\n[46:02 --> 46:04] Once I get the cord, but for now\n[46:05 --> 46:10] Hmm\n[46:10 --> 46:15] You're debating putting bid on for your parents. It's a preachy. I don't know, you know back when um, I\n[46:16 --> 46:22] Was in my sketch group cigarette sandwich who I'm actually gonna start doing stuff with again for online stuff in the next couple weeks\n[46:24 --> 46:26] Not a stream thing stuff for YouTube\n[46:27 --> 46:29] Anyway, when I was doing stuff with that sketch group\n[46:29 --> 46:35] We put out that power half hour thing and it had like a little following in Chicago and a couple people that really liked it\n[46:35 --> 46:38] so one of my improv students once came up to me and was like\n[46:39 --> 46:45] You know, I didn't have anything my girlfriend's parents came over and I I wasn't sure how to like keep them entertained\n[46:45 --> 46:49] So I put on your power half hour. I was like, ooh, that sounds like a bad idea\n[46:49 --> 46:51] And he's like it was she broke up with me\n[46:52 --> 46:55] After her parents left she broke up with me\n[46:56 --> 46:58] Because she said she just wasn't feeling it\n[46:58 --> 47:00] so I\n[47:00 --> 47:06] Like to know that that I have that power that my content has the power to break up relationships\n[47:06 --> 47:14] That let's be real they weren't meant to be if they couldn't survive my content. I am the anti-sex team and it was secretly\n[47:15 --> 47:17] I\n[47:17 --> 47:21] Do I have to say I would never put on anything I've made\n[47:22 --> 47:27] To I don't know entertain the parents of someone I was dating. I do think that's on that person\n[47:28 --> 47:33] But I am a little responsible to oopsie. Okay, let's send it over to DJ music to\n[47:34 --> 47:36] Do whatever that do whatever that music\n[47:37 --> 47:40] And if you have a story why don't recover throw it in chat. All right\n[48:02 --> 48:08] That's a good job because you did the right thing and you called for DJ music\n[48:08 --> 48:15] The best job of all yeah, my hair's looking a little too normal. There we go. That's how I like that\n[48:15 --> 48:17] This is a good look right here\n[48:18 --> 48:24] Put the hair down today. I'm looking like a blue hair Justin Bieber, man. It's a this is a powerful DJ music look\n[48:25 --> 48:27] all right\n[48:28 --> 48:33] Let's see\n[48:33 --> 48:36] You just forgot to show them the rat stuff. That's possible\n[48:37 --> 48:46] Turn this down just a little bit my dad watched a few episodes of a with yes, he likes alarm charms. There you go. That's a win\n[48:48 --> 48:53] Just checking if there's any story you want to see covered musically today, and it's not don't even stress\n[48:55 --> 48:57] Don't even stray. Yes\n[48:58 --> 49:00] okay\n[49:00 --> 49:04] Justin Bieber trap remix. I don't know if there's any Bieber news even going on in the world today\n[49:05 --> 49:07] What's that little guy up to?\n[49:07 --> 49:14] Sorry, I need my lasers there there they are now. I'm feeling music\n[49:15 --> 49:21] All right, what else is cooking in the world of important news man charged to 600k worth of drugs\n[49:22 --> 49:24] After Lego sees by police. Oh my god\n[49:27 --> 49:29] Okay, this is interesting\n[49:30 --> 49:32] Well\n[49:32 --> 49:34] Interesting is a subjective term\n[49:34 --> 49:36] This is a thing\n[49:37 --> 49:41] Let's see what's going on. Let me update this little let me update this guy\n[49:43 --> 49:50] Hmm hot fresh news about incest coming down the news pipeline\n[49:51 --> 49:54] Let's get it. I want a sexy on an R&B beat\n[49:54 --> 49:56] I want some R&B\n[49:56 --> 50:01] Give me some R&B, please\n[50:02 --> 50:06] If we're gonna talk about\n[50:07 --> 50:09] The sensual side of things\n[50:11 --> 50:12] Aka\n[50:12 --> 50:16] What is incest then I need a sexy I need a sexy track\n[50:17 --> 50:27] All right, let's get into this folks. This is courtesy of tower beats the song song smooth dark type sensual beat\n[50:27 --> 50:32] I love to credit my the artist that I sample will call it sampling\n[50:33 --> 50:37] Hmm turn that up for me turn that way up. Oh, yeah\n[50:37 --> 50:43] What's going on Kentucky Republicans?\n[50:45 --> 50:49] Sounds like you're feeling a little lonely out there. Maybe you're dating options are kind of limited\n[50:52 --> 50:54] Everybody deserves just a little bit of that loving\n[50:55 --> 50:59] What's a little love between first cousin?\n[51:00 --> 51:03] We're pushing we hop and we hop and we hop and we into something\n[51:05 --> 51:08] Republicans what you're starting a\n[51:09 --> 51:14] Kentucky Republican introduce some legislation that would amend the state's law\n[51:15 --> 51:25] A new sensations a person who has sex with their first cousin is no longer in trouble for a little cousin loving\n[51:26 --> 51:29] No longer criminally liable\n[51:30 --> 51:33] When the passions become an undeniable\n[51:35 --> 51:38] Before withdrawing and claiming an error was made\n[51:39 --> 51:41] No shade\n[51:41 --> 51:44] Get laid house bill\n[51:46 --> 51:51] 269 never seen a bill looking so fine\n[51:52 --> 51:58] That bill was trying to get it done coming in from representative\n[52:01 --> 52:03] introduced\n[52:03 --> 52:05] January 16\n[52:06 --> 52:09] Bill looking first cousin clean\n[52:10 --> 52:13] A 27 year old public defender\n[52:14 --> 52:21] He grabbed that bill and said look here big spenders first shot to prominence when he won the\n[52:21 --> 52:33] And he's a survivor a sexual non-denier. You know that he finds his cousin\n[52:33 --> 52:39] He pushes it higher and higher him and his first cousin between the sheets\n[52:39 --> 52:43] They say to each other this is way too discreet\n[52:44 --> 52:52] Let's take this shit straight to see an end and put it in baby coming in from first both ends\n[52:54 --> 52:56] Damn\n[52:56 --> 52:58] Look is that the kind of love we support here?\n[53:00 --> 53:06] I'm the DJ on musically do we news at least support light incest\n[53:06 --> 53:10] You know I love love, but that's a bit of a test\n[53:10 --> 53:13] There's a lot of the fish in the sea, so where's the fishy for me?\n[53:14 --> 53:16] Do I need it to be my first cousin?\n[53:18 --> 53:20] exactly\n[53:20 --> 53:22] DJ music says\n[53:22 --> 53:28] Probably not but also why I hate to see a bit of love stop\n[53:28 --> 53:33] So let's take a look at that family tree and if the roots diverge\n[53:34 --> 53:40] Then get it in bed saying if they're not that related. I don't know. Maybe it's\n[53:41 --> 53:43] Maybe it's not that big of a deal\n[53:44 --> 53:45] hmm\n[53:45 --> 53:50] But how related our first cousins I honestly don't I don't know is that fully related?\n[53:52 --> 53:58] It sounds the first makes me think it's like as related as it gets without it being your straight sibling\n[53:58 --> 54:02] Can you hear from case's first cousin?\n[54:04 --> 54:06] Yeah, let's see how cases first cousin is doing\n[54:07 --> 54:13] Let me find cases first cousin really quick and we'll just see\n[54:14 --> 54:17] If they've got anything to add to this important story\n[54:30 --> 54:32] Please welcome to the stage at this time\n[54:33 --> 54:38] Coming in straight from Roanoke, Virginia and or Michigan wherever cases extended family is\n[54:40 --> 54:42] He's not just any cousin\n[54:53 --> 54:58] Yo, I'm coming in. I'm waiting for the drop\n[54:59 --> 55:06] Coming in for the drop first cousin. No stop first coming coming through\n[55:07 --> 55:11] First cousin what it do first cousin here for you\n[55:11 --> 55:13] My name is Chase\n[55:13 --> 55:19] Coming into this place. I'm that number one cousin. So I never been disgraced\n[55:19 --> 55:27] Plus two God above number one cousin meaning that's it's all love\n[55:27 --> 55:31] I didn't see the rest of this segment cuz I was walking up\n[55:32 --> 55:36] But I'm that first cousin dropping first coming love of course\n[55:37 --> 55:48] To get case to my place. I say come over cousin. Let's have a little cousin fun\n[55:48 --> 55:55] And we gonna be best cousins by the time I'm done coming. I'm hard for Virginia\n[55:55 --> 56:09] So you know as a cousin that I'm in here for one cousin ain't that something love it with my number one cousin\n[56:10 --> 56:13] So just to be clear you didn't see the segment at all\n[56:13 --> 56:15] Can you clarify what you mean by love?\n[56:16 --> 56:20] Yeah, man, it's all love between family man. Family is everything and\n[56:22 --> 56:27] You gotta you gotta support your brothers. You gotta support your sisters. You gotta support your cousin and\n[56:29 --> 56:31] Sometimes it's easy to lose track of people man\n[56:32 --> 56:37] You know your cousin moves to LA you never see each other anymore and used to be close like this you go like\n[56:38 --> 56:46] You bathe together his babies. What you're so close to these little babies. You bathe together nude in the bath man like\n[56:47 --> 56:54] You're like this. It's all love. So why deny that love?\n[56:56 --> 56:59] keeping contact with your cousin cuz\n[57:00 --> 57:02] Because it's all love cuz\n[57:03 --> 57:07] It's all love cuz because it's cousin love\n[57:08 --> 57:15] And if your cousins in love, why would you deny that love cousins coming from above to drop that cousin love?\n[57:17 --> 57:22] Well, I am in support of love and it's not entirely clear what you mean. So\n[57:23 --> 57:24] Okay\n[57:24 --> 57:28] I mean that my love my one cousin loves me\n[57:29 --> 57:32] And I love him cousin Lee\n[57:35 --> 57:45] Her name was chase chasing that number one spot first cousin. This track is longer than I expected\n[57:46 --> 57:49] Nice and it's almost done. It's all my\n[57:56 --> 57:58] Okay, well\n[57:59 --> 58:08] Maybe we just don't invite cases extended family even though it is all sorry. It's all love. It's all love\n[58:08 --> 58:10] We don't judge\n[58:10 --> 58:17] You know, I think it's time for some lethal company. What do you say?\n[58:18 --> 58:20] Fiona zone\n[58:20 --> 58:22] Fiona zone\n[58:22 --> 58:24] Get a lethal with that cream\n[58:26 --> 58:29] Yeah, bring in the dream drop a lethal company cream\n[58:31 --> 58:34] What happened gonna go get that neck snapping\n[58:35 --> 58:37] Gonna look for a bracket\n[58:38 --> 58:45] Goku slapping pulling up that fucking steam\n[58:46 --> 58:50] So I can unleash a little lethal company cream\n[58:50 --> 58:55] Thank you all of course for hanging out for the news section of this stream\n[58:56 --> 59:00] But case I'm gonna switch it over now and then attempt to get into Fiona's game\n[59:01 --> 59:02] Which might take a minute\n[59:02 --> 59:04] In fact, I'll just hang out while\n[59:05 --> 59:08] Hang out while I see where they're at in that process\n[59:09 --> 59:15] I also probably need to set up a computer so candle play me DJ\n[59:16 --> 59:20] Gonna go to cases apartment and set up lethal company for candle\n[59:22 --> 59:24] The news was extremely horny today\n[59:25 --> 59:30] But sometimes the news is horny and that's our top story\n[59:32 --> 59:34] I mean you really can't help it sometimes the news\n[59:37 --> 59:47] Go get him tiger. Oh my god, he's got to update ten of his apps case has ten apps to update\n[59:47 --> 59:49] From the Thunder store\n[59:50 --> 59:53] What's in store?\n[59:53 --> 59:55] Just a little bit more\n[59:56 --> 01:00:05] Soft-core or maybe cousin core. Oh, the mind's alive. It's time to get inside\n[01:00:07 --> 01:00:11] We need an F. I'm to trip, but we're gonna send you straight to a ship\n[01:00:18 --> 01:00:23] Let's check it with you on a stream real quick. How far are they from?\n[01:00:25 --> 01:00:27] Being in space. Oh\n[01:00:27 --> 01:00:29] My god, what's even happening right now?\n[01:00:34 --> 01:00:42] I cannot tell what's oh, she's on a she's not just on a foggy planet. Okay\n[01:00:43 --> 01:00:45] Looks like he should be good to join in a few minutes\n[01:00:46 --> 01:00:52] All the penis stories to be found this week. We're about the eunuch wait. There's a eunuch trial\n[01:00:53 --> 01:00:57] What a incredible day for day for news we should have done more stories\n[01:00:57 --> 01:01:01] But we've got to get on this spaceship the spaceship straight to love\n[01:01:02 --> 01:01:04] feeding the tentacle of\n[01:01:04 --> 01:01:06] Make a quota love\n[01:01:07 --> 01:01:12] Can't deny that scrap when you hit it from the back fire exit\n[01:01:15 --> 01:01:17] The game is not lunch\n[01:01:17 --> 01:01:20] There we go now. It's now. It's lunch\n[01:01:22 --> 01:01:25] Spaceship straight to your cousin's heart the most forbidden spaceship of all\n[01:01:27 --> 01:01:31] From the planet cousin in a galactic cousin lovin\n[01:01:32 --> 01:01:35] All right, let me stop these tracks\n[01:01:35 --> 01:01:42] There we go enough R&B enough weird horny incest R&B for the day, I guess\n[01:01:43 --> 01:01:48] All right, it's time to switch this stream over to lethal time. I\n[01:01:49 --> 01:01:53] Hope she has late company installed or we're gonna get blue ball\n[01:01:53 --> 01:02:00] And I'll have to give Fiona Nova the it call. All right. We fucking did it\n[01:02:00 --> 01:02:05] We did a quick stream, but it's time for a little little company\n[01:02:07 --> 01:02:13] Don't mean to brag and you know that I don't boast, but I and join in a crew\n[01:02:13 --> 01:02:15] I don't even host because\n[01:02:19 --> 01:02:25] It's lethal company 12 hours it never ends so we gonna join the crew\n[01:02:25 --> 01:02:31] From me to you, we got some scrap to collect so it's time to come through\n[01:02:32 --> 01:02:35] Okay, we did it. The music is done\n[01:02:35 --> 01:02:43] I'm a hobby into the sun. Oh, maybe I'll collect so my scrap\n[01:02:43 --> 01:02:49] I don't when I'm done that you'll have to take my name to DJ music Titan, okay?\n[01:02:50 --> 01:02:54] I cannot seem to join the game yet, but I am gonna switch it over anyway\n[01:02:55 --> 01:02:58] Because I'm just delaying the game at this point\n[01:02:58 --> 01:03:05] Thanks again, we'll be back in two seconds or the stream will crash in which case we'll be back in in more seconds than that\n[01:03:05 --> 01:03:07] All right. Bye. Bye y'all\n[01:03:08 --> 01:03:10] Here we go"
+}
