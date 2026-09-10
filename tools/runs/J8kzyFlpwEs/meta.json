@@ -1,0 +1,19 @@
+{
+  "vod_id": "J8kzyFlpwEs",
+  "title": "Quick Friday Night Newzzz",
+  "url": "https://www.youtube.com/watch?v=J8kzyFlpwEs",
+  "duration_seconds": 5680,
+  "duration": "1:34:40",
+  "timestamp": 1703894400,
+  "aired_at": "2023-12-30T00:00:00+00:00",
+  "date": "2023-12-30",
+  "ingested_at": "2026-09-10T13:08:02.840200+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "J8kzyFlpwEs",
+  "yt_url": "https://www.youtube.com/watch?v=J8kzyFlpwEs",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2023-12-30"
+}
