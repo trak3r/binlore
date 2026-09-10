@@ -1,0 +1,19 @@
+{
+  "vod_id": "HsARa2c80x4",
+  "title": "NEWS? NEWS!",
+  "url": "https://www.youtube.com/watch?v=HsARa2c80x4",
+  "duration_seconds": 10832,
+  "duration": "3:00:32",
+  "timestamp": 1709164800,
+  "aired_at": "2024-02-29T00:00:00+00:00",
+  "date": "2024-02-29",
+  "ingested_at": "2026-09-10T22:31:30.380739+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "HsARa2c80x4",
+  "yt_url": "https://www.youtube.com/watch?v=HsARa2c80x4",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-02-29"
+}
