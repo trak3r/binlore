@@ -1,0 +1,3857 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 3892.4016875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 397.55,
+      "end": 437.27,
+      "text": "Okay, hello everyone. Let me see how to get in here join game and truthfully you're right"
+    },
+    {
+      "id": 2,
+      "start": 438.55,
+      "end": 442.71,
+      "text": "There's nothing I kid that that's on me. That's on me. That is"
+    },
+    {
+      "id": 3,
+      "start": 457.48,
+      "end": 459.48,
+      "text": "Everyone introductions"
+    },
+    {
+      "id": 4,
+      "start": 459.88,
+      "end": 462.2,
+      "text": "Case to CBB this flowers"
+    },
+    {
+      "id": 5,
+      "start": 464.84,
+      "end": 466.84,
+      "text": "Yeah, what's up guys"
+    },
+    {
+      "id": 6,
+      "start": 478.88,
+      "end": 480.88,
+      "text": "Hello everybody"
+    },
+    {
+      "id": 7,
+      "start": 480.88,
+      "end": 482.88,
+      "text": "Hello to my channels"
+    },
+    {
+      "id": 8,
+      "start": 486.33,
+      "end": 492.26,
+      "text": "I'm in the game. I've set everything up. I'm the only white guy in the room"
+    },
+    {
+      "id": 9,
+      "start": 493.9,
+      "end": 498.7,
+      "text": "This is my one chance to be unique chat also check this out. I got a teleprompter"
+    },
+    {
+      "id": 10,
+      "start": 498.7,
+      "end": 503.56,
+      "text": "It's gonna be more useful for other streams, but right now I have chat straight on the teleprompter"
+    },
+    {
+      "id": 11,
+      "start": 503.82,
+      "end": 507.94,
+      "text": "They all have abandoned you says for a fight, but I'm staring at you sporophyte. I"
+    },
+    {
+      "id": 12,
+      "start": 508.34,
+      "end": 514.06,
+      "text": "Don't know if this is too much. It might be too weird to have me staring right at you when I talk to you"
+    },
+    {
+      "id": 13,
+      "start": 515.38,
+      "end": 523.08,
+      "text": "The way you got taken by that that fucking what's it called a mask? No"
+    },
+    {
+      "id": 14,
+      "start": 523.68,
+      "end": 532.06,
+      "text": "It was scripted this amazing new technology. I'm in the future"
+    },
+    {
+      "id": 15,
+      "start": 533.3,
+      "end": 535.3,
+      "text": "Yeah, I'm going rogue immediately"
+    },
+    {
+      "id": 16,
+      "start": 538.79,
+      "end": 540.79,
+      "text": "every team"
+    },
+    {
+      "id": 17,
+      "start": 563.2,
+      "end": 565.2,
+      "text": "Hello, hello"
+    },
+    {
+      "id": 18,
+      "start": 567.36,
+      "end": 584.2,
+      "text": "That's up here. Oh, it's a key up there. That was really not necessary, but I probably could have dropped it off"
+    },
+    {
+      "id": 19,
+      "start": 598.65,
+      "end": 600.65,
+      "text": "The talk of the trail already"
+    },
+    {
+      "id": 20,
+      "start": 616.2,
+      "end": 618.2,
+      "text": "Right"
+    },
+    {
+      "id": 21,
+      "start": 622.4,
+      "end": 624.4,
+      "text": "We need a flashlight"
+    },
+    {
+      "id": 22,
+      "start": 625.44,
+      "end": 627.44,
+      "text": "This game requires"
+    },
+    {
+      "id": 23,
+      "start": 632.16,
+      "end": 638.47,
+      "text": "Better or worse than your luck I believe in the power of flashlights"
+    },
+    {
+      "id": 24,
+      "start": 650.71,
+      "end": 653.27,
+      "text": "I believe the flashlights are the future"
+    },
+    {
+      "id": 25,
+      "start": 656.24,
+      "end": 659.08,
+      "text": "Just by two and then immediately die do a bug"
+    },
+    {
+      "id": 26,
+      "start": 659.64,
+      "end": 669.12,
+      "text": "So what's the story with this game? You are collecting"
+    },
+    {
+      "id": 27,
+      "start": 669.72,
+      "end": 675.08,
+      "text": "collecting scrap for a faceless corporation. That's most likely a giant tentacle monster"
+    },
+    {
+      "id": 28,
+      "start": 677.0,
+      "end": 678.6,
+      "text": "Start the ship"
+    },
+    {
+      "id": 29,
+      "start": 678.6,
+      "end": 687.36,
+      "text": "This you seem to be collecting metal for a monster that eats metal just to keep it at bay for the rest of society"
+    },
+    {
+      "id": 30,
+      "start": 687.36,
+      "end": 691.12,
+      "text": "And they seemingly wiped your memory of why you're doing that"
+    },
+    {
+      "id": 31,
+      "start": 692.64,
+      "end": 695.32,
+      "text": "So you think you're just working some normal job, but"
+    },
+    {
+      "id": 32,
+      "start": 696.32,
+      "end": 706.76,
+      "text": "It could be 100 you're not hello you want a flashlight is what to I got a couple of them coming with some stuff"
+    },
+    {
+      "id": 33,
+      "start": 719.32,
+      "end": 722.28,
+      "text": "Exactly like sometimes I like to think about it. Oh"
+    },
+    {
+      "id": 34,
+      "start": 725.0,
+      "end": 727.0,
+      "text": "Little flashlights"
+    },
+    {
+      "id": 35,
+      "start": 728.0,
+      "end": 730.0,
+      "text": "There's two"
+    },
+    {
+      "id": 36,
+      "start": 730.12,
+      "end": 731.8,
+      "text": "Going in"
+    },
+    {
+      "id": 37,
+      "start": 731.8,
+      "end": 733.8,
+      "text": "Going in to lose this flashlight immediately"
+    },
+    {
+      "id": 38,
+      "start": 737.01,
+      "end": 740.97,
+      "text": "Probably also is the real monster secretly the real story is avoid"
+    },
+    {
+      "id": 39,
+      "start": 742.93,
+      "end": 761.0,
+      "text": "She does want to kill us all yeah, there's one of those neck breaking guys around"
+    },
+    {
+      "id": 40,
+      "start": 761.52,
+      "end": 786.96,
+      "text": "Ha, I'm gonna count. This is being useful enough. What the fuck was that?"
+    },
+    {
+      "id": 41,
+      "start": 794.04,
+      "end": 796.04,
+      "text": "Holiday bloodless. Yeah, exactly"
+    },
+    {
+      "id": 42,
+      "start": 796.44,
+      "end": 803.0,
+      "text": "Like like the lip like the fucking back room shit. Yeah. Yeah"
+    },
+    {
+      "id": 43,
+      "start": 805.56,
+      "end": 808.88,
+      "text": "All right, let's take a second to my chat real quick"
+    },
+    {
+      "id": 44,
+      "start": 810.12,
+      "end": 813.26,
+      "text": "Was asking us what we like about this game because he hates it"
+    },
+    {
+      "id": 45,
+      "start": 820.02,
+      "end": 828.39,
+      "text": "Hey, there's some people well, I'm sure if we just leave we clear it out. All right. All right"
+    },
+    {
+      "id": 46,
+      "start": 833.24,
+      "end": 837.16,
+      "text": "So good seeing you what's the command to see how much stuff is left"
+    },
+    {
+      "id": 47,
+      "start": 838.04,
+      "end": 843.32,
+      "text": "Um scan las is here did Dallas is here there's seven objects"
+    },
+    {
+      "id": 48,
+      "start": 853.88,
+      "end": 855.88,
+      "text": "There's only three"
+    },
+    {
+      "id": 49,
+      "start": 867.16,
+      "end": 869.16,
+      "text": "I"
+    },
+    {
+      "id": 50,
+      "start": 875.6,
+      "end": 878.0,
+      "text": "Didn't destroy the present someone opened it"
+    },
+    {
+      "id": 51,
+      "start": 880.84,
+      "end": 883.76,
+      "text": "As the present should be open we can convince"
+    },
+    {
+      "id": 52,
+      "start": 892.24,
+      "end": 894.24,
+      "text": "Don't know"
+    },
+    {
+      "id": 53,
+      "start": 894.36,
+      "end": 895.48,
+      "text": "Oh"
+    },
+    {
+      "id": 54,
+      "start": 895.48,
+      "end": 899.28,
+      "text": "No, we need your name to be visible. That's the whole point"
+    },
+    {
+      "id": 55,
+      "start": 903.28,
+      "end": 909.53,
+      "text": "Did you guys change your names wait, I think it's just just if we were to add"
+    },
+    {
+      "id": 56,
+      "start": 910.09,
+      "end": 914.45,
+      "text": "My steam profile is set to like no info"
+    },
+    {
+      "id": 57,
+      "start": 916.65,
+      "end": 918.65,
+      "text": "Flowers"
+    },
+    {
+      "id": 58,
+      "start": 925.65,
+      "end": 927.65,
+      "text": "Do not do be just"
+    },
+    {
+      "id": 59,
+      "start": 928.69,
+      "end": 930.69,
+      "text": "I did not"
+    },
+    {
+      "id": 60,
+      "start": 931.25,
+      "end": 935.49,
+      "text": "The bees were doing me. Yeah, I'll do it later after we get back"
+    },
+    {
+      "id": 61,
+      "start": 938.41,
+      "end": 940.41,
+      "text": "What these are even attack I"
+    },
+    {
+      "id": 62,
+      "start": 941.93,
+      "end": 943.93,
+      "text": "Guess I jumped onto a business"
+    },
+    {
+      "id": 63,
+      "start": 949.35,
+      "end": 959.15,
+      "text": "You had to go into the fires it underneath. Oh, we can do that. I'm down. Let's do it"
+    },
+    {
+      "id": 64,
+      "start": 969.78,
+      "end": 973.06,
+      "text": "I think I think everyone is better than"
+    },
+    {
+      "id": 65,
+      "start": 977.28,
+      "end": 980.08,
+      "text": "We're going rogue instantly rogue"
+    },
+    {
+      "id": 66,
+      "start": 983.32,
+      "end": 985.32,
+      "text": "I barely"
+    },
+    {
+      "id": 67,
+      "start": 994.44,
+      "end": 999.2,
+      "text": "They were always better"
+    },
+    {
+      "id": 68,
+      "start": 1004.24,
+      "end": 1005.74,
+      "text": "I"
+    },
+    {
+      "id": 69,
+      "start": 1005.74,
+      "end": 1008.28,
+      "text": "Could just be I could do I could do this shit"
+    },
+    {
+      "id": 70,
+      "start": 1009.52,
+      "end": 1013.96,
+      "text": "Well, the vet is open. That means there's a head bug around here. Where's our friend?"
+    },
+    {
+      "id": 71,
+      "start": 1015.24,
+      "end": 1017.24,
+      "text": "Careful, there's a head bug around here"
+    },
+    {
+      "id": 72,
+      "start": 1017.6,
+      "end": 1020.84,
+      "text": "Really? Yeah, the vet is open. That means they're crawling around"
+    },
+    {
+      "id": 73,
+      "start": 1021.44,
+      "end": 1023.44,
+      "text": "They're usually on the ceiling"
+    },
+    {
+      "id": 74,
+      "start": 1024.28,
+      "end": 1027.56,
+      "text": "Yeah, can you spot them early on? Yeah"
+    },
+    {
+      "id": 75,
+      "start": 1028.24,
+      "end": 1030.24,
+      "text": "Man, I don't even know what you guys are talking about"
+    },
+    {
+      "id": 76,
+      "start": 1034.73,
+      "end": 1036.73,
+      "text": "Probably"
+    },
+    {
+      "id": 77,
+      "start": 1049.19,
+      "end": 1051.19,
+      "text": "Wait, what are we"
+    },
+    {
+      "id": 78,
+      "start": 1056.15,
+      "end": 1060.67,
+      "text": "If I get head bugged somebody just take my flashlight, please"
+    },
+    {
+      "id": 79,
+      "start": 1065.51,
+      "end": 1073.51,
+      "text": "Yeah, we'll see about that"
+    },
+    {
+      "id": 80,
+      "start": 1076.59,
+      "end": 1078.59,
+      "text": "Yeah"
+    },
+    {
+      "id": 81,
+      "start": 1079.59,
+      "end": 1081.59,
+      "text": "Do you cover yourself in honey regularly?"
+    },
+    {
+      "id": 82,
+      "start": 1082.95,
+      "end": 1084.95,
+      "text": "Think about that for a few minutes"
+    },
+    {
+      "id": 83,
+      "start": 1088.45,
+      "end": 1090.93,
+      "text": "As soon as I run it down, I'll set my steam profile"
+    },
+    {
+      "id": 84,
+      "start": 1101.55,
+      "end": 1106.67,
+      "text": "Wait, but where am I supposed to use this key at? There's more stuff this way. We can keep it for another level"
+    },
+    {
+      "id": 85,
+      "start": 1106.67,
+      "end": 1110.87,
+      "text": "Oh, okay. It works on any lock door. I mean he works on it. Oh, okay"
+    },
+    {
+      "id": 86,
+      "start": 1110.87,
+      "end": 1116.21,
+      "text": "They don't have to stay contained in the level they found it. Yeah, you can also just put it in the cabinet on the ship"
+    },
+    {
+      "id": 87,
+      "start": 1116.63,
+      "end": 1123.7,
+      "text": "Okay, I've played this game a couple of times, but I really only know like the very basics of it. All right"
+    },
+    {
+      "id": 88,
+      "start": 1123.7,
+      "end": 1125.7,
+      "text": "This is actually a dead end as well"
+    },
+    {
+      "id": 89,
+      "start": 1125.86,
+      "end": 1146.23,
+      "text": "The advanced meta sneaks up any quick. Okay, I guess there's nothing else over here. Yeah, that's it"
+    },
+    {
+      "id": 90,
+      "start": 1146.75,
+      "end": 1150.25,
+      "text": "Don't fall down through the middle here"
+    },
+    {
+      "id": 91,
+      "start": 1151.49,
+      "end": 1153.49,
+      "text": "The void is calling"
+    },
+    {
+      "id": 92,
+      "start": 1157.21,
+      "end": 1163.14,
+      "text": "Yeah, sometimes there's shit to the right, but maybe not here"
+    },
+    {
+      "id": 93,
+      "start": 1169.06,
+      "end": 1171.06,
+      "text": "Would you find"
+    },
+    {
+      "id": 94,
+      "start": 1174.74,
+      "end": 1177.62,
+      "text": "Everyone is behind this door. Oh"
+    },
+    {
+      "id": 95,
+      "start": 1179.94,
+      "end": 1181.94,
+      "text": "What is a bracket"
+    },
+    {
+      "id": 96,
+      "start": 1197.14,
+      "end": 1200.86,
+      "text": "You can only kill one of us well he won't kill us if I got a stop sign"
+    },
+    {
+      "id": 97,
+      "start": 1203.86,
+      "end": 1205.86,
+      "text": "Yeah, oh"
+    },
+    {
+      "id": 98,
+      "start": 1206.34,
+      "end": 1212.1,
+      "text": "So you're not supposed to look at you can't look at him for more than four seconds or I'll kill you but you also can't not look at him"
+    },
+    {
+      "id": 99,
+      "start": 1212.58,
+      "end": 1216.9,
+      "text": "And if you look at him for a second, it's it's like he'll like go away"
+    },
+    {
+      "id": 100,
+      "start": 1217.86,
+      "end": 1222.58,
+      "text": "Okay, so you can't totally ignore it, but you can't stare at yes exactly. Yeah, okay"
+    },
+    {
+      "id": 101,
+      "start": 1222.58,
+      "end": 1226.38,
+      "text": "Also, though, if you look at him through a wall and get unlucky he'll just break your neck. Oh"
+    },
+    {
+      "id": 102,
+      "start": 1228.02,
+      "end": 1230.02,
+      "text": "Yeah, just do the bugs"
+    },
+    {
+      "id": 103,
+      "start": 1234.02,
+      "end": 1236.02,
+      "text": "Oh"
+    },
+    {
+      "id": 104,
+      "start": 1237.38,
+      "end": 1240.5,
+      "text": "All right, well, it's not this way. Let's get the fuck out of you right there"
+    },
+    {
+      "id": 105,
+      "start": 1256.8,
+      "end": 1291.99,
+      "text": "Okay, I only got a little hurt there. Oh great. There's the exit. Okay. I wasn't feeling the fear. Okay, let's wait for everybody"
+    },
+    {
+      "id": 106,
+      "start": 1293.19,
+      "end": 1295.19,
+      "text": "So there's really none of my lights are on in here"
+    },
+    {
+      "id": 107,
+      "start": 1295.75,
+      "end": 1310.84,
+      "text": "I think texts"
+    },
+    {
+      "id": 108,
+      "start": 1310.84,
+      "end": 1312.84,
+      "text": "Getting texts from the human world"
+    },
+    {
+      "id": 109,
+      "start": 1314.6,
+      "end": 1318.07,
+      "text": "Whoo"
+    },
+    {
+      "id": 110,
+      "start": 1325.01,
+      "end": 1327.01,
+      "text": "All right, is there anything else in there?"
+    },
+    {
+      "id": 111,
+      "start": 1327.49,
+      "end": 1334.58,
+      "text": "Here, can you take this? Yeah, did everybody die? No, go go go go. Just go"
+    },
+    {
+      "id": 112,
+      "start": 1338.96,
+      "end": 1343.04,
+      "text": "He's probably okay screams for fun. Yeah, you're right. Everybody loves a good scream"
+    },
+    {
+      "id": 113,
+      "start": 1343.76,
+      "end": 1345.76,
+      "text": "They're probably dead"
+    },
+    {
+      "id": 114,
+      "start": 1346.88,
+      "end": 1348.96,
+      "text": "It is also five. So there's probably a giant out"
+    },
+    {
+      "id": 115,
+      "start": 1349.76,
+      "end": 1357.08,
+      "text": "Yeah, we need to go"
+    },
+    {
+      "id": 116,
+      "start": 1357.08,
+      "end": 1361.88,
+      "text": "So they needed to go past the goo and the bracken to get out. So I think they're probably dead"
+    },
+    {
+      "id": 117,
+      "start": 1362.28,
+      "end": 1367.4,
+      "text": "Yeah, I just jump straight into the goo like an idiot. Yeah, I got over it. That's the only way I got down"
+    },
+    {
+      "id": 118,
+      "start": 1368.12,
+      "end": 1370.12,
+      "text": "Maybe with the bracken. Oh"
+    },
+    {
+      "id": 119,
+      "start": 1372.36,
+      "end": 1373.88,
+      "text": "Okay"
+    },
+    {
+      "id": 120,
+      "start": 1373.88,
+      "end": 1375.88,
+      "text": "Good to see you MSG. I'm doing just fine"
+    },
+    {
+      "id": 121,
+      "start": 1376.6,
+      "end": 1383.44,
+      "text": "Okay, I think oh, okay. Chris is up. Chris is almost there. Chris is almost just fall"
+    },
+    {
+      "id": 122,
+      "start": 1385.44,
+      "end": 1388.88,
+      "text": "Oh, no, Chris fell he fell looking at the exit"
+    },
+    {
+      "id": 123,
+      "start": 1389.68,
+      "end": 1392.24,
+      "text": "I'm gonna get us whole two walkie talkies. How much are this?"
+    },
+    {
+      "id": 124,
+      "start": 1392.96,
+      "end": 1394.96,
+      "text": "Okay, everyone is dead"
+    },
+    {
+      "id": 125,
+      "start": 1395.12,
+      "end": 1397.12,
+      "text": "Besides flowers"
+    },
+    {
+      "id": 126,
+      "start": 1397.28,
+      "end": 1402.0,
+      "text": "Yeah, they needed to run past the bracken and the ooze and then you get to where you can see the door"
+    },
+    {
+      "id": 127,
+      "start": 1402.32,
+      "end": 1407.12,
+      "text": "But if you just run straight, there's a jump. Yeah, go around which it looks like that's what flowers is doing"
+    },
+    {
+      "id": 128,
+      "start": 1407.6,
+      "end": 1410.0,
+      "text": "Chris fell through the jump. Unfortunately"
+    },
+    {
+      "id": 129,
+      "start": 1410.56,
+      "end": 1414.0,
+      "text": "The bracken's hanging out with them"
+    },
+    {
+      "id": 130,
+      "start": 1414.08,
+      "end": 1415.84,
+      "text": "Shit flowers"
+    },
+    {
+      "id": 131,
+      "start": 1415.84,
+      "end": 1417.84,
+      "text": "Uh-oh, he's lost"
+    },
+    {
+      "id": 132,
+      "start": 1421.09,
+      "end": 1425.33,
+      "text": "I'm closing the door just because it's nighttime and the the monsters are coming soon"
+    },
+    {
+      "id": 133,
+      "start": 1426.61,
+      "end": 1432.85,
+      "text": "Could he die? I don't see anything around us immediately. Yeah, chris fell. No, no flowers is gonna make it out"
+    },
+    {
+      "id": 134,
+      "start": 1432.93,
+      "end": 1438.93,
+      "text": "He's gonna make it out. Yeah, if he just goes out the front. Oh, oh no, wrong way. It's right there. It's right there. Turn it around. Turn it around. Turn it around."
+    },
+    {
+      "id": 135,
+      "start": 1438.93,
+      "end": 1440.93,
+      "text": "No"
+    },
+    {
+      "id": 136,
+      "start": 1443.73,
+      "end": 1447.24,
+      "text": "No"
+    },
+    {
+      "id": 137,
+      "start": 1448.6,
+      "end": 1454.44,
+      "text": "Oh my god, he turned the wrong way. He went because he was right there. Oh, no"
+    },
+    {
+      "id": 138,
+      "start": 1455.4,
+      "end": 1460.52,
+      "text": "We're still really good on it was so close to the exit. Yeah, we got plenty of shit. Oh my god"
+    },
+    {
+      "id": 139,
+      "start": 1460.6,
+      "end": 1466.36,
+      "text": "That was hilarious. So I made I came back after my run with a full inventory and then I saw all of you guys"
+    },
+    {
+      "id": 140,
+      "start": 1466.36,
+      "end": 1469.24,
+      "text": "We're sticking together chris and Fiona were separate"
+    },
+    {
+      "id": 141,
+      "start": 1469.8,
+      "end": 1475.08,
+      "text": "And then you all met up together and then razz got picked off and everyone's beginning picked off one by one"
+    },
+    {
+      "id": 142,
+      "start": 1475.4,
+      "end": 1477.4,
+      "text": "Dude, that was that was"
+    },
+    {
+      "id": 143,
+      "start": 1478.12,
+      "end": 1480.12,
+      "text": "That was where we guys"
+    },
+    {
+      "id": 144,
+      "start": 1480.52,
+      "end": 1482.52,
+      "text": "Flowers are so close"
+    },
+    {
+      "id": 145,
+      "start": 1484.44,
+      "end": 1489.64,
+      "text": "I knew that I was there. I also knew that there was a way I could path around it, but I I was too lost"
+    },
+    {
+      "id": 146,
+      "start": 1492.44,
+      "end": 1495.08,
+      "text": "Okay, fyi if you're too heavy, you can't make the jump"
+    },
+    {
+      "id": 147,
+      "start": 1507.64,
+      "end": 1509.64,
+      "text": "Hey, Fiona, what if you don't"
+    },
+    {
+      "id": 148,
+      "start": 1517.41,
+      "end": 1519.41,
+      "text": "Don't"
+    },
+    {
+      "id": 149,
+      "start": 1519.65,
+      "end": 1521.65,
+      "text": "Dull out my subs"
+    },
+    {
+      "id": 150,
+      "start": 1521.65,
+      "end": 1524.29,
+      "text": "Yes, but if I ignore my subs"
+    },
+    {
+      "id": 151,
+      "start": 1524.85,
+      "end": 1526.85,
+      "text": "Yeah"
+    },
+    {
+      "id": 152,
+      "start": 1530.13,
+      "end": 1534.05,
+      "text": "All right, I'm not like you. Okay. I don't ignore people. Okay"
+    },
+    {
+      "id": 153,
+      "start": 1534.61,
+      "end": 1541.01,
+      "text": "We're all you want her to ignore our community avalanche. Yes. I like to ignore your community specific avalanche"
+    },
+    {
+      "id": 154,
+      "start": 1541.01,
+      "end": 1543.01,
+      "text": "Just wants me to fail"
+    },
+    {
+      "id": 155,
+      "start": 1546.45,
+      "end": 1548.45,
+      "text": "Hold up"
+    },
+    {
+      "id": 156,
+      "start": 1550.37,
+      "end": 1552.37,
+      "text": "Yo"
+    },
+    {
+      "id": 157,
+      "start": 1554.13,
+      "end": 1557.25,
+      "text": "Yeah, sorry, I was trying to change my settings so it wouldn't say I'm young for me anymore"
+    },
+    {
+      "id": 158,
+      "start": 1558.77,
+      "end": 1565.89,
+      "text": "Oh, it is advanced darkness unless my thing didn't load. Oh, it's dark. Oh, uh, there's something up here"
+    },
+    {
+      "id": 159,
+      "start": 1570.37,
+      "end": 1571.97,
+      "text": "Cool"
+    },
+    {
+      "id": 160,
+      "start": 1571.97,
+      "end": 1573.97,
+      "text": "I'm just gonna drop this out for him"
+    },
+    {
+      "id": 161,
+      "start": 1580.37,
+      "end": 1584.13,
+      "text": "I made the jump. I found bottles here. I'm coming back with a bottle"
+    },
+    {
+      "id": 162,
+      "start": 1585.65,
+      "end": 1587.89,
+      "text": "Boy a bracken room. I found the fire exit"
+    },
+    {
+      "id": 163,
+      "start": 1591.65,
+      "end": 1595.49,
+      "text": "I'm gonna try to find some stuff, you know help around"
+    },
+    {
+      "id": 164,
+      "start": 1598.56,
+      "end": 1601.28,
+      "text": "I'm ignoring my subscribers as they oh no"
+    },
+    {
+      "id": 165,
+      "start": 1602.16,
+      "end": 1604.16,
+      "text": "That's what she gets"
+    },
+    {
+      "id": 166,
+      "start": 1604.48,
+      "end": 1606.48,
+      "text": "That's what she gets"
+    },
+    {
+      "id": 167,
+      "start": 1607.12,
+      "end": 1609.92,
+      "text": "That's why you've got to engage with the community and you're right"
+    },
+    {
+      "id": 168,
+      "start": 1610.32,
+      "end": 1612.32,
+      "text": "Teal sharpshooter the"
+    },
+    {
+      "id": 169,
+      "start": 1613.04,
+      "end": 1618.08,
+      "text": "Glob is just leftover loot and because I didn't ignore you while live. I see that's how it works"
+    },
+    {
+      "id": 170,
+      "start": 1620.04,
+      "end": 1624.76,
+      "text": "Avali's chat does love a good domination. I hope they can hear me right now because they know it's true"
+    },
+    {
+      "id": 171,
+      "start": 1629.3,
+      "end": 1637.72,
+      "text": "Meanwhile, I let my chat dominate me. Oh, I thought that was monster. There's nothing in here"
+    },
+    {
+      "id": 172,
+      "start": 1638.76,
+      "end": 1655.33,
+      "text": "But sweet sweet, okay a little bit disappointing over there"
+    },
+    {
+      "id": 173,
+      "start": 1655.65,
+      "end": 1657.65,
+      "text": "They're"
+    },
+    {
+      "id": 174,
+      "start": 1659.09,
+      "end": 1661.73,
+      "text": "Yeah, I've only unfortunately died with some goodies"
+    },
+    {
+      "id": 175,
+      "start": 1666.44,
+      "end": 1670.26,
+      "text": "This is back to the entrance, right?"
+    },
+    {
+      "id": 176,
+      "start": 1670.26,
+      "end": 1672.74,
+      "text": "Yeah, we we found the fire exit before already"
+    },
+    {
+      "id": 177,
+      "start": 1673.46,
+      "end": 1674.58,
+      "text": "empty"
+    },
+    {
+      "id": 178,
+      "start": 1674.58,
+      "end": 1677.54,
+      "text": "Damn, yeah, I'm a bit lost. This place is a barren wasteland"
+    },
+    {
+      "id": 179,
+      "start": 1678.02,
+      "end": 1683.14,
+      "text": "Anything nothing that I could find yet. I think the bracken is back here. So be careful"
+    },
+    {
+      "id": 180,
+      "start": 1683.86,
+      "end": 1687.06,
+      "text": "Yeah, that would make sense. Is there always one of him on every map? No"
+    },
+    {
+      "id": 181,
+      "start": 1687.78,
+      "end": 1689.78,
+      "text": "He's just been hanging out with us today"
+    },
+    {
+      "id": 182,
+      "start": 1690.42,
+      "end": 1692.42,
+      "text": "Yeah"
+    },
+    {
+      "id": 183,
+      "start": 1692.42,
+      "end": 1694.42,
+      "text": "There we are seven creatures on other maps"
+    },
+    {
+      "id": 184,
+      "start": 1696.1,
+      "end": 1698.1,
+      "text": "Oh, that's that annoying thing"
+    },
+    {
+      "id": 185,
+      "start": 1698.66,
+      "end": 1703.86,
+      "text": "Uh, what does the mouth thing do? It doesn't actually attack, but it can spray out gas. I think"
+    },
+    {
+      "id": 186,
+      "start": 1704.9,
+      "end": 1709.14,
+      "text": "Yeah, and you don't want to corner it then it affects if you corner it. Yeah. Oh, it like feels"
+    },
+    {
+      "id": 187,
+      "start": 1709.86,
+      "end": 1711.86,
+      "text": "Pressured. Yeah. Yeah"
+    },
+    {
+      "id": 188,
+      "start": 1713.89,
+      "end": 1715.49,
+      "text": "Where he is"
+    },
+    {
+      "id": 189,
+      "start": 1715.49,
+      "end": 1717.49,
+      "text": "Yeah, he bolted"
+    },
+    {
+      "id": 190,
+      "start": 1718.85,
+      "end": 1721.09,
+      "text": "Damn. Oh, there's a bracken. Bracken. Bracken"
+    },
+    {
+      "id": 191,
+      "start": 1728.76,
+      "end": 1733.96,
+      "text": "Oh, got it. Stay together. Stay together. Stay together. Everybody's still alive. This way. Stay together. Stay together"
+    },
+    {
+      "id": 192,
+      "start": 1734.36,
+      "end": 1736.84,
+      "text": "Where's case with that flashlight? Stay together. Right here"
+    },
+    {
+      "id": 193,
+      "start": 1737.96,
+      "end": 1740.76,
+      "text": "We just got to kind of swivel around so it doesn't sneak up and break our necks"
+    },
+    {
+      "id": 194,
+      "start": 1741.48,
+      "end": 1745.16,
+      "text": "Yeah"
+    },
+    {
+      "id": 195,
+      "start": 1745.16,
+      "end": 1747.16,
+      "text": "Okay, thank god"
+    },
+    {
+      "id": 196,
+      "start": 1747.16,
+      "end": 1749.16,
+      "text": "All right, back at the start"
+    },
+    {
+      "id": 197,
+      "start": 1749.56,
+      "end": 1750.36,
+      "text": "Yeah"
+    },
+    {
+      "id": 198,
+      "start": 1750.36,
+      "end": 1754.76,
+      "text": "You can always find the emergency exit, but oh, it's right here. It's right here. Nice"
+    },
+    {
+      "id": 199,
+      "start": 1755.24,
+      "end": 1757.24,
+      "text": "Maybe we should just go bee hunting"
+    },
+    {
+      "id": 200,
+      "start": 1757.24,
+      "end": 1759.24,
+      "text": "Yeah, let's bail everyone out"
+    },
+    {
+      "id": 201,
+      "start": 1760.44,
+      "end": 1764.44,
+      "text": "How are you supposed to do the bee thing because every time you go near the bees you just die somebody"
+    },
+    {
+      "id": 202,
+      "start": 1764.52,
+      "end": 1766.52,
+      "text": "So you need okay, so there's a hive here"
+    },
+    {
+      "id": 203,
+      "start": 1767.72,
+      "end": 1772.92,
+      "text": "Um, what we need to do is get one person to lure the bees away like basically draw aggro"
+    },
+    {
+      "id": 204,
+      "start": 1773.64,
+      "end": 1777.16,
+      "text": "And then another person gathers the hive, but you gotta go in the opposite"
+    },
+    {
+      "id": 205,
+      "start": 1778.12,
+      "end": 1780.12,
+      "text": "Oh"
+    },
+    {
+      "id": 206,
+      "start": 1782.12,
+      "end": 1785.0,
+      "text": "You gotta go in the opposite direction of the ship when you draw the bees aggro"
+    },
+    {
+      "id": 207,
+      "start": 1786.2,
+      "end": 1787.72,
+      "text": "I'll go"
+    },
+    {
+      "id": 208,
+      "start": 1787.72,
+      "end": 1793.08,
+      "text": "I mean we're far enough away that if we lose the bees we're fine, but we just need to find the ship first"
+    },
+    {
+      "id": 209,
+      "start": 1793.96,
+      "end": 1796.68,
+      "text": "Oh, yeah, okay. I think the ship is usually this way"
+    },
+    {
+      "id": 210,
+      "start": 1797.4,
+      "end": 1799.4,
+      "text": "I think it's uh"
+    },
+    {
+      "id": 211,
+      "start": 1800.04,
+      "end": 1802.04,
+      "text": "I think it's this way, but i'm not sure"
+    },
+    {
+      "id": 212,
+      "start": 1803.48,
+      "end": 1805.48,
+      "text": "Okay, maybe that"
+    },
+    {
+      "id": 213,
+      "start": 1806.28,
+      "end": 1815.41,
+      "text": "Seems like nothing"
+    },
+    {
+      "id": 214,
+      "start": 1815.41,
+      "end": 1818.69,
+      "text": "Yeah, you don't want to be lost with bees chasing you"
+    },
+    {
+      "id": 215,
+      "start": 1820.82,
+      "end": 1822.66,
+      "text": "That would be funny"
+    },
+    {
+      "id": 216,
+      "start": 1822.66,
+      "end": 1824.66,
+      "text": "Well, it's it's pretty short"
+    },
+    {
+      "id": 217,
+      "start": 1825.06,
+      "end": 1827.06,
+      "text": "But it's a short good laugh"
+    },
+    {
+      "id": 218,
+      "start": 1830.58,
+      "end": 1832.58,
+      "text": "The bees"
+    },
+    {
+      "id": 219,
+      "start": 1833.7,
+      "end": 1838.66,
+      "text": "Oh, we're back at how'd we get back here? Did we go in a full circle? We went in a full circle. Surely not"
+    },
+    {
+      "id": 220,
+      "start": 1839.62,
+      "end": 1843.7,
+      "text": "It's the bee right here. Oh yo found a log. Goodbye"
+    },
+    {
+      "id": 221,
+      "start": 1845.3,
+      "end": 1848.4,
+      "text": "Maybe it's this way"
+    },
+    {
+      "id": 222,
+      "start": 1848.4,
+      "end": 1854.0,
+      "text": "Wait, man, we're in the forest. Is that big dude gonna come beat our asses? Yeah, I'm like pretty soon. We better hurry"
+    },
+    {
+      "id": 223,
+      "start": 1855.36,
+      "end": 1857.36,
+      "text": "I'm sorry"
+    },
+    {
+      "id": 224,
+      "start": 1857.84,
+      "end": 1860.56,
+      "text": "I feel like it's around across one of these ridges"
+    },
+    {
+      "id": 225,
+      "start": 1861.52,
+      "end": 1864.08,
+      "text": "So we came out that way. Maybe it's more to the right"
+    },
+    {
+      "id": 226,
+      "start": 1865.12,
+      "end": 1867.44,
+      "text": "Yeah, maybe if we just fall if we just fall over the bridge"
+    },
+    {
+      "id": 227,
+      "start": 1867.52,
+      "end": 1870.72,
+      "text": "Uh-oh, uh-oh quicksand careful quicksand quicksand quicksand"
+    },
+    {
+      "id": 228,
+      "start": 1872.08,
+      "end": 1874.56,
+      "text": "Yeah, we're good. We're getting quicksand quicksand quicksand"
+    },
+    {
+      "id": 229,
+      "start": 1875.84,
+      "end": 1877.84,
+      "text": "Careful. All right"
+    },
+    {
+      "id": 230,
+      "start": 1878.48,
+      "end": 1883.52,
+      "text": "Okay, we're good. We're good. Oh, here's the ship. Wait, never mind. It's not I got excited"
+    },
+    {
+      "id": 231,
+      "start": 1884.32,
+      "end": 1886.32,
+      "text": "I'm just kidding"
+    },
+    {
+      "id": 232,
+      "start": 1886.32,
+      "end": 1894.87,
+      "text": "It's feminine. We're lost. Where the hell are we gentlemen? We are fucking lost. Shit"
+    },
+    {
+      "id": 233,
+      "start": 1895.83,
+      "end": 1897.83,
+      "text": "Cochre forest"
+    },
+    {
+      "id": 234,
+      "start": 1897.83,
+      "end": 1899.83,
+      "text": "This could be it"
+    },
+    {
+      "id": 235,
+      "start": 1900.23,
+      "end": 1901.67,
+      "text": "Ship"
+    },
+    {
+      "id": 236,
+      "start": 1901.67,
+      "end": 1903.67,
+      "text": "Anyone ship"
+    },
+    {
+      "id": 237,
+      "start": 1903.75,
+      "end": 1907.43,
+      "text": "Can I get up here? Hello ship. We're going back in that circle"
+    },
+    {
+      "id": 238,
+      "start": 1918.76,
+      "end": 1920.76,
+      "text": "To the left is back to the fire escape"
+    },
+    {
+      "id": 239,
+      "start": 1922.12,
+      "end": 1928.18,
+      "text": "Yeah, the fire escape is back this way. Okay. We got him. We got him"
+    },
+    {
+      "id": 240,
+      "start": 1929.22,
+      "end": 1933.54,
+      "text": "The fire escape is back there. If we go left, I think we're just gonna hit the fire escape again"
+    },
+    {
+      "id": 241,
+      "start": 1934.82,
+      "end": 1939.3,
+      "text": "Unless I thought we should go right if we if we go back into the fire escape the actual entrance is really close to it"
+    },
+    {
+      "id": 242,
+      "start": 1939.46,
+      "end": 1940.66,
+      "text": "That's true"
+    },
+    {
+      "id": 243,
+      "start": 1940.66,
+      "end": 1942.66,
+      "text": "Is it? Yeah, I was pretty close"
+    },
+    {
+      "id": 244,
+      "start": 1943.3,
+      "end": 1945.3,
+      "text": "Yeah, we can just pass back through the building"
+    },
+    {
+      "id": 245,
+      "start": 1946.02,
+      "end": 1950.42,
+      "text": "All right, if we go around in a circle again, then we can get back inside. Oh, it's almost 6 p.m"
+    },
+    {
+      "id": 246,
+      "start": 1950.66,
+      "end": 1954.02,
+      "text": "Yeah, we're running out of time. There's a problem. Yeah, that giant's gonna be out"
+    },
+    {
+      "id": 247,
+      "start": 1955.78,
+      "end": 1958.82,
+      "text": "What's more scary the giant or are you going back inside a ship?"
+    },
+    {
+      "id": 248,
+      "start": 1959.54,
+      "end": 1960.98,
+      "text": "The giant"
+    },
+    {
+      "id": 249,
+      "start": 1960.98,
+      "end": 1992.04,
+      "text": "Oh, shit. What is that?"
+    },
+    {
+      "id": 250,
+      "start": 1992.04,
+      "end": 1994.04,
+      "text": "Nice"
+    },
+    {
+      "id": 251,
+      "start": 1994.68,
+      "end": 1996.68,
+      "text": "Oh, he must be dead"
+    },
+    {
+      "id": 252,
+      "start": 1997.08,
+      "end": 1999.08,
+      "text": "Fiona's dead, too. Did they die right now?"
+    },
+    {
+      "id": 253,
+      "start": 2001.0,
+      "end": 2005.24,
+      "text": "Ovely just fell. Wow, there are 20 objects outside the ship. They fell together"
+    },
+    {
+      "id": 254,
+      "start": 2006.6,
+      "end": 2010.36,
+      "text": "We got plenty of shit. We didn't get anything now. That's not good. Now we didn't we got a key"
+    },
+    {
+      "id": 255,
+      "start": 2010.36,
+      "end": 2015.4,
+      "text": "That's it. But we didn't die and we needed to turn in so that's the most important thing. Yeah"
+    },
+    {
+      "id": 256,
+      "start": 2017.73,
+      "end": 2022.85,
+      "text": "They probably died of the Bracken or something, right? Ovely just jumped off of edge. Sorry to do it"
+    },
+    {
+      "id": 257,
+      "start": 2023.49,
+      "end": 2025.49,
+      "text": "I think they fell together"
+    },
+    {
+      "id": 258,
+      "start": 2025.49,
+      "end": 2027.49,
+      "text": "Okay"
+    },
+    {
+      "id": 259,
+      "start": 2027.49,
+      "end": 2029.49,
+      "text": "Okay, I explained themselves"
+    },
+    {
+      "id": 260,
+      "start": 2029.49,
+      "end": 2031.49,
+      "text": "All right, we did it. Yay"
+    },
+    {
+      "id": 261,
+      "start": 2031.49,
+      "end": 2033.49,
+      "text": "You guys jumped and died"
+    },
+    {
+      "id": 262,
+      "start": 2033.49,
+      "end": 2037.89,
+      "text": "Okay, you didn't see it. Okay, so you didn't see it. It fell right next to you"
+    },
+    {
+      "id": 263,
+      "start": 2039.41,
+      "end": 2045.41,
+      "text": "Like like, I mean you were there and then I fell right next to you. Oh, man. Everybody was falling right next to me"
+    },
+    {
+      "id": 264,
+      "start": 2046.13,
+      "end": 2048.13,
+      "text": "Yeah, right next to you. All right"
+    },
+    {
+      "id": 265,
+      "start": 2050.29,
+      "end": 2052.29,
+      "text": "Yeah, I I walked into the building"
+    },
+    {
+      "id": 266,
+      "start": 2052.53,
+      "end": 2055.41,
+      "text": "And I made three right turns and I literally died of the Bracken"
+    },
+    {
+      "id": 267,
+      "start": 2055.89,
+      "end": 2061.01,
+      "text": "That is actually so insane that you died that fast. I would have preferred to fall, dude"
+    },
+    {
+      "id": 268,
+      "start": 2061.81,
+      "end": 2066.13,
+      "text": "That was yeah, well, that's what your course got dragged into a brown room"
+    },
+    {
+      "id": 269,
+      "start": 2069.22,
+      "end": 2073.11,
+      "text": "All right, there we go"
+    },
+    {
+      "id": 270,
+      "start": 2075.59,
+      "end": 2078.55,
+      "text": "No, we should we should turn in everything the money"
+    },
+    {
+      "id": 271,
+      "start": 2079.27,
+      "end": 2081.27,
+      "text": "We'll get walkie-talkies"
+    },
+    {
+      "id": 272,
+      "start": 2082.23,
+      "end": 2085.27,
+      "text": "We'll get walkie-talkies because those are uh"
+    },
+    {
+      "id": 273,
+      "start": 2086.63,
+      "end": 2088.63,
+      "text": "Wait, I stored the difference"
+    },
+    {
+      "id": 274,
+      "start": 2089.51,
+      "end": 2093.11,
+      "text": "Yeah, I'm gonna need a flashlight coming up here the uh the darkness is starting to do"
+    },
+    {
+      "id": 275,
+      "start": 2094.15,
+      "end": 2100.95,
+      "text": "Hear me out flashlights are for posties. Oh never thought of it that way. Are we selling everything? Yeah, we did"
+    },
+    {
+      "id": 276,
+      "start": 2101.67,
+      "end": 2103.67,
+      "text": "Okay"
+    },
+    {
+      "id": 277,
+      "start": 2105.51,
+      "end": 2107.51,
+      "text": "I didn't get anything"
+    },
+    {
+      "id": 278,
+      "start": 2107.51,
+      "end": 2109.51,
+      "text": "I"
+    },
+    {
+      "id": 279,
+      "start": 2109.51,
+      "end": 2111.51,
+      "text": "Didn't help"
+    },
+    {
+      "id": 280,
+      "start": 2119.51,
+      "end": 2123.35,
+      "text": "We're rich paycheck nice. Holy shit. We dunked it"
+    },
+    {
+      "id": 281,
+      "start": 2123.99,
+      "end": 2130.15,
+      "text": "I am because I don't want them to hear me calling out subs. It would be so hear me out push to talk"
+    },
+    {
+      "id": 282,
+      "start": 2131.51,
+      "end": 2132.71,
+      "text": "What?"
+    },
+    {
+      "id": 283,
+      "start": 2132.71,
+      "end": 2134.71,
+      "text": "But I don't have push to talk"
+    },
+    {
+      "id": 284,
+      "start": 2135.03,
+      "end": 2141.59,
+      "text": "You do you can turn it on in this game inside the game, but but then but then you guys won't hear me yell"
+    },
+    {
+      "id": 285,
+      "start": 2142.63,
+      "end": 2144.63,
+      "text": "Oh, no, you push to talk very well"
+    },
+    {
+      "id": 286,
+      "start": 2146.07,
+      "end": 2149.91,
+      "text": "But that will require me to do two things at the same time"
+    },
+    {
+      "id": 287,
+      "start": 2150.71,
+      "end": 2152.71,
+      "text": "I know it's so hard"
+    },
+    {
+      "id": 288,
+      "start": 2152.87,
+      "end": 2156.63,
+      "text": "That's but at the same time everyone else benefits. This is an advanced game"
+    },
+    {
+      "id": 289,
+      "start": 2157.59,
+      "end": 2161.27,
+      "text": "All right, I sold the last batch of items. All right, did they did the money come in?"
+    },
+    {
+      "id": 290,
+      "start": 2161.27,
+      "end": 2164.23,
+      "text": "Oh, yeah, I just noticed you have a that's a pretty cool hat"
+    },
+    {
+      "id": 291,
+      "start": 2165.99,
+      "end": 2166.95,
+      "text": "Huh?"
+    },
+    {
+      "id": 292,
+      "start": 2166.95,
+      "end": 2169.43,
+      "text": "Your hat it's a cool. Oh, thank you. Thank you"
+    },
+    {
+      "id": 293,
+      "start": 2170.15,
+      "end": 2173.59,
+      "text": "A dear friend got me this light up hat that says oh dear on it"
+    },
+    {
+      "id": 294,
+      "start": 2174.39,
+      "end": 2176.95,
+      "text": "Less cool now with the pun, but still cool"
+    },
+    {
+      "id": 295,
+      "start": 2177.83,
+      "end": 2181.35,
+      "text": "Okay, here. I'm getting I'm ordering four flashlights"
+    },
+    {
+      "id": 296,
+      "start": 2184.56,
+      "end": 2187.68,
+      "text": "Oh, cool. Uh, I'll get us three walkies"
+    },
+    {
+      "id": 297,
+      "start": 2188.8,
+      "end": 2191.04,
+      "text": "All right, I'm gonna go get another beer beer right back"
+    },
+    {
+      "id": 298,
+      "start": 2191.76,
+      "end": 2196.64,
+      "text": "Another that's not in the game. That's not in the game actually they should put it in the game"
+    },
+    {
+      "id": 299,
+      "start": 2197.28,
+      "end": 2199.28,
+      "text": "And then what it is cool"
+    },
+    {
+      "id": 300,
+      "start": 2201.44,
+      "end": 2203.44,
+      "text": "Let's see what's the best"
+    },
+    {
+      "id": 301,
+      "start": 2205.12,
+      "end": 2213.6,
+      "text": "Oh, we got a teleporter already putting on yeah, let's go we we were just like 20 short of being able to get the um"
+    },
+    {
+      "id": 302,
+      "start": 2214.96,
+      "end": 2216.96,
+      "text": "What's it called?"
+    },
+    {
+      "id": 303,
+      "start": 2216.96,
+      "end": 2222.23,
+      "text": "rend"
+    },
+    {
+      "id": 304,
+      "start": 2229.51,
+      "end": 2231.51,
+      "text": "Maybe that works"
+    },
+    {
+      "id": 305,
+      "start": 2231.67,
+      "end": 2236.23,
+      "text": "And we take off right now testing. All right. How does this teleporter work?"
+    },
+    {
+      "id": 306,
+      "start": 2237.67,
+      "end": 2242.23,
+      "text": "So this is this is how the teleporter works. So come here. I'll teach"
+    },
+    {
+      "id": 307,
+      "start": 2243.19,
+      "end": 2250.95,
+      "text": "So you select someone so this is razz, right? And then you there's this button right here and you press the beam up"
+    },
+    {
+      "id": 308,
+      "start": 2252.79,
+      "end": 2256.55,
+      "text": "Wait, it can save someone anywhere. Yeah, but you lose your item"
+    },
+    {
+      "id": 309,
+      "start": 2256.79,
+      "end": 2259.35,
+      "text": "But you can't carry items with you. So all"
+    },
+    {
+      "id": 310,
+      "start": 2260.47,
+      "end": 2264.71,
+      "text": "So pretty much all it is is like you're stopping them from the death penalty of money"
+    },
+    {
+      "id": 311,
+      "start": 2265.83,
+      "end": 2272.31,
+      "text": "Or yes, or what you can do is you can uh get their bodies back if they're already dead"
+    },
+    {
+      "id": 312,
+      "start": 2272.71,
+      "end": 2274.71,
+      "text": "Wait, you can port dead bodies"
+    },
+    {
+      "id": 313,
+      "start": 2274.95,
+      "end": 2276.95,
+      "text": "You can port dead bodies"
+    },
+    {
+      "id": 314,
+      "start": 2277.43,
+      "end": 2279.43,
+      "text": "Do you guys hear me now? Yes"
+    },
+    {
+      "id": 315,
+      "start": 2279.75,
+      "end": 2283.27,
+      "text": "Hello, I hear you or if you're genie you can suck a monster into the ship"
+    },
+    {
+      "id": 316,
+      "start": 2283.99,
+      "end": 2285.99,
+      "text": "Yeah"
+    },
+    {
+      "id": 317,
+      "start": 2288.07,
+      "end": 2291.19,
+      "text": "Can you guys do you guys see me as unknown still or am I you're feeling good?"
+    },
+    {
+      "id": 318,
+      "start": 2291.59,
+      "end": 2295.91,
+      "text": "Me too. This guy. All right. Hey for anyone to take a walkie. Make sure to turn it on"
+    },
+    {
+      "id": 319,
+      "start": 2296.55,
+      "end": 2298.55,
+      "text": "So many times. I'm on walkie"
+    },
+    {
+      "id": 320,
+      "start": 2301.67,
+      "end": 2306.63,
+      "text": "All right, so Ian and Chris Chris do you want to be termed again? Yeah, I'm gonna walkie in the"
+    },
+    {
+      "id": 321,
+      "start": 2307.59,
+      "end": 2313.91,
+      "text": "Uh case here. What is an overtime bonus? You can actually kill the bracken by the way if you stonish and it was shoveled"
+    },
+    {
+      "id": 322,
+      "start": 2315.19,
+      "end": 2316.71,
+      "text": "Yeah, oh"
+    },
+    {
+      "id": 323,
+      "start": 2316.71,
+      "end": 2320.79,
+      "text": "I mean, we're working constantly. Why are we always on overtime? All right, I got a wife"
+    },
+    {
+      "id": 324,
+      "start": 2327.38,
+      "end": 2332.5,
+      "text": "There's an extra flashlight and also a walkie talkie. We should just save one of the walkies"
+    },
+    {
+      "id": 325,
+      "start": 2333.14,
+      "end": 2335.14,
+      "text": "Okay, should I not use this flashlight?"
+    },
+    {
+      "id": 326,
+      "start": 2336.5,
+      "end": 2338.5,
+      "text": "All right, let's go"
+    },
+    {
+      "id": 327,
+      "start": 2339.86,
+      "end": 2341.86,
+      "text": "Hazard level b. Is that more dangerous?"
+    },
+    {
+      "id": 328,
+      "start": 2343.46,
+      "end": 2345.46,
+      "text": "That's like not that slightly more"
+    },
+    {
+      "id": 329,
+      "start": 2348.1,
+      "end": 2351.38,
+      "text": "I think s is very dangerous. A is pretty dangerous"
+    },
+    {
+      "id": 330,
+      "start": 2356.98,
+      "end": 2361.54,
+      "text": "I've never gotten past the second quota on this game, so I don't actually know what the end games"
+    },
+    {
+      "id": 331,
+      "start": 2362.02,
+      "end": 2366.02,
+      "text": "We easily will and it gets way harder way faster. It's great"
+    },
+    {
+      "id": 332,
+      "start": 2366.9,
+      "end": 2372.42,
+      "text": "Cool, it's beautiful. So we landed on an eclipsed planet where all the night creatures are out during the day"
+    },
+    {
+      "id": 333,
+      "start": 2372.58,
+      "end": 2374.98,
+      "text": "Oh, yeah, I that happened when I talk"
+    },
+    {
+      "id": 334,
+      "start": 2376.34,
+      "end": 2378.34,
+      "text": "When we play the taco and shelby"
+    },
+    {
+      "id": 335,
+      "start": 2381.62,
+      "end": 2384.58,
+      "text": "Both of the fire exits are in the same room right next to the entrance"
+    },
+    {
+      "id": 336,
+      "start": 2385.3,
+      "end": 2388.9,
+      "text": "Okay, that's fine. It's kind of troll. That's a little unlucky. Oh my god"
+    },
+    {
+      "id": 337,
+      "start": 2389.78,
+      "end": 2391.78,
+      "text": "There's that one"
+    },
+    {
+      "id": 338,
+      "start": 2395.06,
+      "end": 2397.06,
+      "text": "This one"
+    },
+    {
+      "id": 339,
+      "start": 2397.46,
+      "end": 2400.02,
+      "text": "And they teleport you to different parts of the map. That's exciting"
+    },
+    {
+      "id": 340,
+      "start": 2400.58,
+      "end": 2404.5,
+      "text": "Okay, so we never played league of legends with ovally on stream. Oh my god, I would get so destroyed"
+    },
+    {
+      "id": 341,
+      "start": 2405.22,
+      "end": 2409.14,
+      "text": "Oh my god, I almost fucking died again. What's the fuck wrong with me?"
+    },
+    {
+      "id": 342,
+      "start": 2409.62,
+      "end": 2411.62,
+      "text": "You got it. Hello"
+    },
+    {
+      "id": 343,
+      "start": 2412.58,
+      "end": 2414.58,
+      "text": "It's an empty over here"
+    },
+    {
+      "id": 344,
+      "start": 2416.82,
+      "end": 2420.87,
+      "text": "So we got a jump"
+    },
+    {
+      "id": 345,
+      "start": 2427.36,
+      "end": 2430.72,
+      "text": "If you want to start singing, it's really a bad sign for us living. It's really good"
+    },
+    {
+      "id": 346,
+      "start": 2431.68,
+      "end": 2433.68,
+      "text": "We took it"
+    },
+    {
+      "id": 347,
+      "start": 2433.76,
+      "end": 2435.76,
+      "text": "Okay, somebody took that too early"
+    },
+    {
+      "id": 348,
+      "start": 2437.57,
+      "end": 2439.57,
+      "text": "Really?"
+    },
+    {
+      "id": 349,
+      "start": 2439.57,
+      "end": 2441.89,
+      "text": "Do we just keep going? Yeah. Yeah"
+    },
+    {
+      "id": 350,
+      "start": 2442.61,
+      "end": 2445.09,
+      "text": "Put a fucking troll. We die. I gotta kill you."
+    },
+    {
+      "id": 351,
+      "start": 2446.77,
+      "end": 2449.41,
+      "text": "Oh, is there anybody on walkie at the ship? Oh, yeah"
+    },
+    {
+      "id": 352,
+      "start": 2450.29,
+      "end": 2452.29,
+      "text": "Oh, there's nothing here. Okay"
+    },
+    {
+      "id": 353,
+      "start": 2453.01,
+      "end": 2455.01,
+      "text": "Is there anybody on walkie?"
+    },
+    {
+      "id": 354,
+      "start": 2455.09,
+      "end": 2457.09,
+      "text": "Who's on cops?"
+    },
+    {
+      "id": 355,
+      "start": 2457.17,
+      "end": 2461.81,
+      "text": "Uh, yeah, you have to jump. You have to go across the jump. You're gonna have to jump and I don't think you're gonna make it"
+    },
+    {
+      "id": 356,
+      "start": 2462.45,
+      "end": 2464.45,
+      "text": "Oh, what was that?"
+    },
+    {
+      "id": 357,
+      "start": 2465.41,
+      "end": 2471.01,
+      "text": "You fail. The weight doesn't matter. Well, well, Chris failed. So is that the way out?"
+    },
+    {
+      "id": 358,
+      "start": 2481.01,
+      "end": 2484.53,
+      "text": "So peaceful this way, but unfortunately it's a dead end"
+    },
+    {
+      "id": 359,
+      "start": 2486.21,
+      "end": 2491.33,
+      "text": "Okay, anybody uh, any items down here? It seems like it's just a dead end this jump"
+    },
+    {
+      "id": 360,
+      "start": 2492.53,
+      "end": 2494.93,
+      "text": "I can make this jump. Wait, why are you jumping back?"
+    },
+    {
+      "id": 361,
+      "start": 2495.49,
+      "end": 2501.01,
+      "text": "Because she went the wrong jump. Oh, it's the other jump. Oh, the other comes upstairs. Oh, I went up here"
+    },
+    {
+      "id": 362,
+      "start": 2502.61,
+      "end": 2504.61,
+      "text": "Either what?"
+    },
+    {
+      "id": 363,
+      "start": 2505.25,
+      "end": 2511.09,
+      "text": "There's got to be more shit. Yeah, that leads back to the ship. This jump? Yeah, that leads back. I'm on radio"
+    },
+    {
+      "id": 364,
+      "start": 2513.25,
+      "end": 2517.57,
+      "text": "I didn't do that. That's crazy. There's got to be more stuff over this way, right?"
+    },
+    {
+      "id": 365,
+      "start": 2517.57,
+      "end": 2519.57,
+      "text": "So"
+    },
+    {
+      "id": 366,
+      "start": 2522.45,
+      "end": 2525.65,
+      "text": "Uh, I don't know the way back, right? Do you know the way back so I can take this engine out of here?"
+    },
+    {
+      "id": 367,
+      "start": 2527.25,
+      "end": 2530.85,
+      "text": "Copy that. There's a mine. Did this come with me? All right"
+    },
+    {
+      "id": 368,
+      "start": 2533.59,
+      "end": 2537.43,
+      "text": "Okay, what about here? Anything over here? Just mines. I found this engine down here, but that's it"
+    },
+    {
+      "id": 369,
+      "start": 2539.72,
+      "end": 2542.52,
+      "text": "Hold on. I'm radioing back to radar one second. Another jump?"
+    },
+    {
+      "id": 370,
+      "start": 2543.24,
+      "end": 2545.24,
+      "text": "Any items here? Bye"
+    },
+    {
+      "id": 371,
+      "start": 2547.56,
+      "end": 2551.8,
+      "text": "I think you have to be directly on it. Dude, this place has so many jumps. What the fuck?"
+    },
+    {
+      "id": 372,
+      "start": 2552.28,
+      "end": 2557.8,
+      "text": "It's here somewhere. Yeah, we saw the line. The way back out is this way. I'm almost certain. Is this the way out guys?"
+    },
+    {
+      "id": 373,
+      "start": 2558.12,
+      "end": 2560.12,
+      "text": "This is not the way out. This is a jump."
+    },
+    {
+      "id": 374,
+      "start": 2565.4,
+      "end": 2570.36,
+      "text": "We have to jump to get out. This is a dead end over here."
+    },
+    {
+      "id": 375,
+      "start": 2576.92,
+      "end": 2581.4,
+      "text": "It doesn't seem like there's many items down here. Maybe we should just fail. How many items do we have left?"
+    },
+    {
+      "id": 376,
+      "start": 2582.28,
+      "end": 2584.28,
+      "text": "I mean, there's 20 on most planets, right?"
+    },
+    {
+      "id": 377,
+      "start": 2590.6,
+      "end": 2594.12,
+      "text": "All right, I found a big room over here. Can anybody hear me?"
+    },
+    {
+      "id": 378,
+      "start": 2597.08,
+      "end": 2601.48,
+      "text": "Well, if you come towards the side of my voice is a bigger room. I'll look around in it"
+    },
+    {
+      "id": 379,
+      "start": 2605.6,
+      "end": 2609.36,
+      "text": "I'm over this way to get out. I don't know. I don't know if it's good to get out"
+    },
+    {
+      "id": 380,
+      "start": 2610.64,
+      "end": 2612.64,
+      "text": "I'm this way. I'm over here"
+    },
+    {
+      "id": 381,
+      "start": 2615.6,
+      "end": 2617.6,
+      "text": "Oh"
+    },
+    {
+      "id": 382,
+      "start": 2619.28,
+      "end": 2621.28,
+      "text": "Wait, there's a monster"
+    },
+    {
+      "id": 383,
+      "start": 2622.24,
+      "end": 2675.41,
+      "text": "Big time monster. Oh, that's a dead end. Oh, that was a good teleport"
+    },
+    {
+      "id": 384,
+      "start": 2677.49,
+      "end": 2682.21,
+      "text": "What are you looking at? I can tell. That was one of those dog things with the two legs. Oh, okay"
+    },
+    {
+      "id": 385,
+      "start": 2684.77,
+      "end": 2687.89,
+      "text": "It would kill me. Yeah, we're good"
+    },
+    {
+      "id": 386,
+      "start": 2689.89,
+      "end": 2692.13,
+      "text": "Damn, I will miss my flashlight, but what can you do?"
+    },
+    {
+      "id": 387,
+      "start": 2692.61,
+      "end": 2699.17,
+      "text": "Move any money. I can't give you mine. Oh, you teleported case out. Yeah, he's gonna die. Oh, that's oh wait"
+    },
+    {
+      "id": 388,
+      "start": 2699.17,
+      "end": 2703.97,
+      "text": "So you lose your your flashlight any items? Yeah, all right. Okay guys guys"
+    },
+    {
+      "id": 389,
+      "start": 2704.61,
+      "end": 2706.61,
+      "text": "Chris"
+    },
+    {
+      "id": 390,
+      "start": 2707.73,
+      "end": 2712.37,
+      "text": "All right, okay, so there's there's another beehive if we want to get try to get two beehives. Otherwise, let's do it"
+    },
+    {
+      "id": 391,
+      "start": 2714.21,
+      "end": 2716.37,
+      "text": "Okay, otherwise there's one on the back of the ship that I got"
+    },
+    {
+      "id": 392,
+      "start": 2717.17,
+      "end": 2718.37,
+      "text": "Okay"
+    },
+    {
+      "id": 393,
+      "start": 2719.33,
+      "end": 2723.41,
+      "text": "Are we ready hold on hold on hold on hold on hold on I'll TP whoever's getting chased by the bees"
+    },
+    {
+      "id": 394,
+      "start": 2723.41,
+      "end": 2727.73,
+      "text": "If you have stuff the bees if you're on bee quest if you have stuff drop it in here before you go"
+    },
+    {
+      "id": 395,
+      "start": 2728.45,
+      "end": 2730.77,
+      "text": "Because you will die. We're not losing our shit for bees"
+    },
+    {
+      "id": 396,
+      "start": 2731.41,
+      "end": 2737.49,
+      "text": "And you guys let me know who's aggroing the bees so I can TP them if uh, well, so so the tech the tech"
+    },
+    {
+      "id": 397,
+      "start": 2738.37,
+      "end": 2740.53,
+      "text": "Is that I put one on the back of the ship because"
+    },
+    {
+      "id": 398,
+      "start": 2742.21,
+      "end": 2747.65,
+      "text": "The bees stay on the planet when the hive stays on the ship so we could just take it without any"
+    },
+    {
+      "id": 399,
+      "start": 2748.61,
+      "end": 2754.93,
+      "text": "Okay, where's the other one? Where's the second hive though? The second hive is here. Follow me down this way. Yeah, I'm gonna see how you guys"
+    },
+    {
+      "id": 400,
+      "start": 2761.97,
+      "end": 2763.97,
+      "text": "I'm more of a no strategy guy"
+    },
+    {
+      "id": 401,
+      "start": 2768.18,
+      "end": 2773.22,
+      "text": "It is overwhelming it is overwhelming hearing people actually want to win a game. Yeah, I'm just not used to it"
+    },
+    {
+      "id": 402,
+      "start": 2776.16,
+      "end": 2779.2,
+      "text": "What's up fee? I feel I feel like I'm annoying"
+    },
+    {
+      "id": 403,
+      "start": 2782.16,
+      "end": 2784.16,
+      "text": "We're being told"
+    },
+    {
+      "id": 404,
+      "start": 2788.1,
+      "end": 2790.26,
+      "text": "Yeah, I just want to get eaten by a big by a big"
+    },
+    {
+      "id": 405,
+      "start": 2790.5,
+      "end": 2794.82,
+      "text": "Dogs can hear you but not see you. Oh, if you're talking they'll come kill you"
+    },
+    {
+      "id": 406,
+      "start": 2796.5,
+      "end": 2798.5,
+      "text": "Are they only overworld enemies or can there's all this one?"
+    },
+    {
+      "id": 407,
+      "start": 2800.34,
+      "end": 2802.34,
+      "text": "They can come in the ship and kill us"
+    },
+    {
+      "id": 408,
+      "start": 2805.46,
+      "end": 2807.46,
+      "text": "Okay, Chris"
+    },
+    {
+      "id": 409,
+      "start": 2808.98,
+      "end": 2812.66,
+      "text": "I'm gonna I'm gonna yell I'm gonna yell start the ship and then start the ship. Okay"
+    },
+    {
+      "id": 410,
+      "start": 2813.22,
+      "end": 2815.22,
+      "text": "Okay"
+    },
+    {
+      "id": 411,
+      "start": 2817.46,
+      "end": 2819.62,
+      "text": "Start the ship get in here"
+    },
+    {
+      "id": 412,
+      "start": 2824.02,
+      "end": 2826.02,
+      "text": "Don't close it"
+    },
+    {
+      "id": 413,
+      "start": 2828.5,
+      "end": 2830.5,
+      "text": "It's the bees"
+    },
+    {
+      "id": 414,
+      "start": 2839.46,
+      "end": 2841.46,
+      "text": "Thanks for the follow"
+    },
+    {
+      "id": 415,
+      "start": 2841.78,
+      "end": 2846.34,
+      "text": "That's pretty good. I guess almost 100 already. You've stumbled into the worst gamer on twitch"
+    },
+    {
+      "id": 416,
+      "start": 2846.34,
+      "end": 2852.34,
+      "text": "Yeah, we got this shit. We can definitely hit render tighten after the front. What is what is"
+    },
+    {
+      "id": 417,
+      "start": 2854.18,
+      "end": 2859.22,
+      "text": "You are about to tighten your butthole once you land on that planet. Oh, that was actually clever. Good job"
+    },
+    {
+      "id": 418,
+      "start": 2859.22,
+      "end": 2864.1,
+      "text": "You usually got to like pay a bunch of money for that. I worked really hard on it. I worked really hard"
+    },
+    {
+      "id": 419,
+      "start": 2866.26,
+      "end": 2868.26,
+      "text": "The express is"
+    },
+    {
+      "id": 420,
+      "start": 2870.9,
+      "end": 2874.58,
+      "text": "This is a nice abstract sculpture we have in the ship here. What do you call it?"
+    },
+    {
+      "id": 421,
+      "start": 2876.1,
+      "end": 2878.1,
+      "text": "I call it"
+    },
+    {
+      "id": 422,
+      "start": 2881.46,
+      "end": 2883.46,
+      "text": "Make sure to charge your stuff before you guys leave"
+    },
+    {
+      "id": 423,
+      "start": 2885.62,
+      "end": 2887.62,
+      "text": "Yep, charge your stuff charge your stuff"
+    },
+    {
+      "id": 424,
+      "start": 2891.38,
+      "end": 2893.38,
+      "text": "She lived I think"
+    },
+    {
+      "id": 425,
+      "start": 2896.42,
+      "end": 2898.42,
+      "text": "I think she survived"
+    },
+    {
+      "id": 426,
+      "start": 2900.82,
+      "end": 2903.22,
+      "text": "That's why that's why you gotta not try to copy will you know"
+    },
+    {
+      "id": 427,
+      "start": 2905.14,
+      "end": 2907.14,
+      "text": "He's his own person"
+    },
+    {
+      "id": 428,
+      "start": 2907.86,
+      "end": 2909.86,
+      "text": "Case would you shut the fuck up?"
+    },
+    {
+      "id": 429,
+      "start": 2909.94,
+      "end": 2914.58,
+      "text": "Eric, obviously I want to but I'm compelled by my anxiety to endlessly talk"
+    },
+    {
+      "id": 430,
+      "start": 2941.25,
+      "end": 2943.25,
+      "text": "Axel that's a dead end over here"
+    },
+    {
+      "id": 431,
+      "start": 2945.01,
+      "end": 2947.01,
+      "text": "Already a dead end"
+    },
+    {
+      "id": 432,
+      "start": 2947.49,
+      "end": 2951.65,
+      "text": "Oh, there's a goo. Oh, there's a goo in the door. Yeah, touch it"
+    },
+    {
+      "id": 433,
+      "start": 2952.85,
+      "end": 2955.89,
+      "text": "Touch it. Okay, this way looks promising"
+    },
+    {
+      "id": 434,
+      "start": 2961.08,
+      "end": 2963.08,
+      "text": "Turn it turn it turn it"
+    },
+    {
+      "id": 435,
+      "start": 2966.6,
+      "end": 2973.4,
+      "text": "Turn it turn it t-minus 600 hours"
+    },
+    {
+      "id": 436,
+      "start": 2974.84,
+      "end": 2985.97,
+      "text": "I mean Chris is a fucking god. Oh, Eric. I'm not offended either way"
+    },
+    {
+      "id": 437,
+      "start": 2986.93,
+      "end": 2992.45,
+      "text": "I mean, you're right either way. I should shut the fuck up. Yo, that was the response to fear"
+    },
+    {
+      "id": 438,
+      "start": 2993.81,
+      "end": 3003.99,
+      "text": "Oh my god, so much stuff. What the hell? All right, I better not die. Is there a fire exit conveniently anywhere right here?"
+    },
+    {
+      "id": 439,
+      "start": 3005.83,
+      "end": 3011.99,
+      "text": "What is that noise? It's this fucking toy. Unfortunately. Oh, I was like holy shit is a monster coming?"
+    },
+    {
+      "id": 440,
+      "start": 3012.55,
+      "end": 3014.55,
+      "text": "I should try to get it out of here"
+    },
+    {
+      "id": 441,
+      "start": 3014.63,
+      "end": 3016.63,
+      "text": "Because I have a bunch of stuff now"
+    },
+    {
+      "id": 442,
+      "start": 3017.03,
+      "end": 3020.39,
+      "text": "But I as usual wasn't paying attention to what the way out is"
+    },
+    {
+      "id": 443,
+      "start": 3035.03,
+      "end": 3037.03,
+      "text": "I found a bunch of items"
+    },
+    {
+      "id": 444,
+      "start": 3041.51,
+      "end": 3044.87,
+      "text": "Oh, no, she said she was gonna do well and then she got gooed"
+    },
+    {
+      "id": 445,
+      "start": 3048.36,
+      "end": 3050.36,
+      "text": "I mean gamers are always saying to get gooed"
+    },
+    {
+      "id": 446,
+      "start": 3060.2,
+      "end": 3072.79,
+      "text": "What's the way out? Oh the goo went the other way"
+    },
+    {
+      "id": 447,
+      "start": 3073.99,
+      "end": 3075.51,
+      "text": "Nice"
+    },
+    {
+      "id": 448,
+      "start": 3075.51,
+      "end": 3077.51,
+      "text": "Allowing me to heroically leave"
+    },
+    {
+      "id": 449,
+      "start": 3080.53,
+      "end": 3082.53,
+      "text": "All right. I got a stop sign and a key"
+    },
+    {
+      "id": 450,
+      "start": 3085.06,
+      "end": 3087.06,
+      "text": "Uh case. Did you miss any news?"
+    },
+    {
+      "id": 451,
+      "start": 3087.86,
+      "end": 3093.3,
+      "text": "Um, no, sorry and also I'm so slow to reach out even slower than on my news"
+    },
+    {
+      "id": 452,
+      "start": 3094.58,
+      "end": 3096.58,
+      "text": "I'm so easily confused"
+    },
+    {
+      "id": 453,
+      "start": 3096.66,
+      "end": 3099.3,
+      "text": "I think today it'll just be this tomorrow. We'll be back on our news grind"
+    },
+    {
+      "id": 454,
+      "start": 3100.26,
+      "end": 3104.53,
+      "text": "for a bit"
+    },
+    {
+      "id": 455,
+      "start": 3104.53,
+      "end": 3121.54,
+      "text": "But thank you for caring these noises"
+    },
+    {
+      "id": 456,
+      "start": 3122.9,
+      "end": 3129.38,
+      "text": "This thing is insane"
+    },
+    {
+      "id": 457,
+      "start": 3129.38,
+      "end": 3131.38,
+      "text": "I think it's back this way"
+    },
+    {
+      "id": 458,
+      "start": 3131.86,
+      "end": 3133.62,
+      "text": "Yo, who's over there?"
+    },
+    {
+      "id": 459,
+      "start": 3133.62,
+      "end": 3136.29,
+      "text": "Yeah"
+    },
+    {
+      "id": 460,
+      "start": 3136.29,
+      "end": 3139.09,
+      "text": "Hey, I got this dead guy. You need to bring him back to the boat"
+    },
+    {
+      "id": 461,
+      "start": 3139.65,
+      "end": 3144.37,
+      "text": "Okay, I couldn't send any better sporophyte. I will forever barely know what I'm talking about"
+    },
+    {
+      "id": 462,
+      "start": 3145.81,
+      "end": 3147.81,
+      "text": "Oh, somebody's got the robot"
+    },
+    {
+      "id": 463,
+      "start": 3147.81,
+      "end": 3149.81,
+      "text": "I do. I wish I didn't"
+    },
+    {
+      "id": 464,
+      "start": 3150.37,
+      "end": 3152.37,
+      "text": "This is a pretty"
+    },
+    {
+      "id": 465,
+      "start": 3152.45,
+      "end": 3155.56,
+      "text": "bum planet"
+    },
+    {
+      "id": 466,
+      "start": 3155.56,
+      "end": 3157.72,
+      "text": "Damn, I'm always being pretty mean about this planet"
+    },
+    {
+      "id": 467,
+      "start": 3158.68,
+      "end": 3162.36,
+      "text": "Yeah, it's a pretty bum planet, but we've already met quota so we can just dip"
+    },
+    {
+      "id": 468,
+      "start": 3163.32,
+      "end": 3165.32,
+      "text": "Let's go to a different one"
+    },
+    {
+      "id": 469,
+      "start": 3165.8,
+      "end": 3167.8,
+      "text": "Why am I scared? Oh, it's a flashbang"
+    },
+    {
+      "id": 470,
+      "start": 3169.89,
+      "end": 3171.89,
+      "text": "Why did I just get scared?"
+    },
+    {
+      "id": 471,
+      "start": 3172.93,
+      "end": 3175.49,
+      "text": "Because chris is dead hurt uh rather dead body"
+    },
+    {
+      "id": 472,
+      "start": 3177.81,
+      "end": 3179.81,
+      "text": "All right, all right"
+    },
+    {
+      "id": 473,
+      "start": 3184.13,
+      "end": 3189.49,
+      "text": "Look at that uh stop sign sleeping on the job wait who did we lost two?"
+    },
+    {
+      "id": 474,
+      "start": 3190.37,
+      "end": 3192.37,
+      "text": "Yeah"
+    },
+    {
+      "id": 475,
+      "start": 3192.69,
+      "end": 3195.57,
+      "text": "You know, it was like I'm gonna do well this map and then she just immediately got murdered"
+    },
+    {
+      "id": 476,
+      "start": 3196.29,
+      "end": 3198.29,
+      "text": "Immediately stepped into the goo"
+    },
+    {
+      "id": 477,
+      "start": 3199.09,
+      "end": 3203.57,
+      "text": "Yeah, uh, no, don't sell the stop signs unless we really need to because they could be weapons"
+    },
+    {
+      "id": 478,
+      "start": 3204.05,
+      "end": 3205.89,
+      "text": "Right, okay"
+    },
+    {
+      "id": 479,
+      "start": 3205.89,
+      "end": 3210.77,
+      "text": "Here Faris, let me show you. I know how they work. Oh my god. She's gonna kill us all"
+    },
+    {
+      "id": 480,
+      "start": 3213.73,
+      "end": 3215.73,
+      "text": "Say disrespect"
+    },
+    {
+      "id": 481,
+      "start": 3216.13,
+      "end": 3218.13,
+      "text": "We're speaking ill of the dead now"
+    },
+    {
+      "id": 482,
+      "start": 3218.77,
+      "end": 3223.09,
+      "text": "Disrespect that you guys were just fucking roasting, but I was dead, okay"
+    },
+    {
+      "id": 483,
+      "start": 3223.89,
+      "end": 3228.61,
+      "text": "All right, but I'll tell you this this round. I'm gonna do so fucking good"
+    },
+    {
+      "id": 484,
+      "start": 3228.61,
+      "end": 3230.61,
+      "text": "No"
+    },
+    {
+      "id": 485,
+      "start": 3237.57,
+      "end": 3239.57,
+      "text": "All right, I believe in you dude rock and roll"
+    },
+    {
+      "id": 486,
+      "start": 3240.69,
+      "end": 3242.69,
+      "text": "We got it"
+    },
+    {
+      "id": 487,
+      "start": 3244.95,
+      "end": 3246.95,
+      "text": "Charging the old light"
+    },
+    {
+      "id": 488,
+      "start": 3247.67,
+      "end": 3249.67,
+      "text": "Guide us"
+    },
+    {
+      "id": 489,
+      "start": 3249.99,
+      "end": 3251.99,
+      "text": "Is the little yellow bar in the top left"
+    },
+    {
+      "id": 490,
+      "start": 3252.63,
+      "end": 3255.91,
+      "text": "Amina and health is that my my battery? Yeah, the yellow bar"
+    },
+    {
+      "id": 491,
+      "start": 3255.91,
+      "end": 3259.67,
+      "text": "That's your electricity. Yes. Yeah, that's for your flashlight or anything"
+    },
+    {
+      "id": 492,
+      "start": 3261.75,
+      "end": 3264.87,
+      "text": "Yes, I would highly recommend buying this game or pulling this game. It's fantastic"
+    },
+    {
+      "id": 493,
+      "start": 3265.67,
+      "end": 3270.71,
+      "text": "You could do it solo or with friends. It's only $10. Obviously this game is an incredible deal"
+    },
+    {
+      "id": 494,
+      "start": 3271.51,
+      "end": 3273.51,
+      "text": "And it's made by a furry"
+    },
+    {
+      "id": 495,
+      "start": 3275.11,
+      "end": 3277.11,
+      "text": "It's it's made by a furry"
+    },
+    {
+      "id": 496,
+      "start": 3277.67,
+      "end": 3279.67,
+      "text": "A single furry"
+    },
+    {
+      "id": 497,
+      "start": 3280.23,
+      "end": 3282.23,
+      "text": "Look at what one furry can do"
+    },
+    {
+      "id": 498,
+      "start": 3282.23,
+      "end": 3284.23,
+      "text": "Are you fucking Gino?"
+    },
+    {
+      "id": 499,
+      "start": 3284.23,
+      "end": 3285.11,
+      "text": "Yeah, maybe"
+    },
+    {
+      "id": 500,
+      "start": 3285.11,
+      "end": 3287.11,
+      "text": "Furry has run the world"
+    },
+    {
+      "id": 501,
+      "start": 3287.35,
+      "end": 3289.35,
+      "text": "What?"
+    },
+    {
+      "id": 502,
+      "start": 3290.23,
+      "end": 3292.87,
+      "text": "The truth who runs the world? Capital"
+    },
+    {
+      "id": 503,
+      "start": 3293.67,
+      "end": 3295.67,
+      "text": "Furry's dead"
+    },
+    {
+      "id": 504,
+      "start": 3295.67,
+      "end": 3296.87,
+      "text": "Heavy"
+    },
+    {
+      "id": 505,
+      "start": 3296.87,
+      "end": 3298.87,
+      "text": "I know I'm not actually heavy"
+    },
+    {
+      "id": 506,
+      "start": 3298.87,
+      "end": 3300.87,
+      "text": "I feel heavy"
+    },
+    {
+      "id": 507,
+      "start": 3302.79,
+      "end": 3305.51,
+      "text": "Okay, you know, we've got the the power generators in this room"
+    },
+    {
+      "id": 508,
+      "start": 3306.15,
+      "end": 3310.07,
+      "text": "Exactly reverie. Don't tell loudly. Oh, you don't do it. Never let them disempower you"
+    },
+    {
+      "id": 509,
+      "start": 3310.79,
+      "end": 3312.79,
+      "text": "Stop it"
+    },
+    {
+      "id": 510,
+      "start": 3314.47,
+      "end": 3317.43,
+      "text": "I got bottles and a tea kettle immediately. We are"
+    },
+    {
+      "id": 511,
+      "start": 3320.31,
+      "end": 3323.19,
+      "text": "I got bottles and a tea kettle. We're fucking in the money"
+    },
+    {
+      "id": 512,
+      "start": 3329.59,
+      "end": 3332.07,
+      "text": "If you play this game long enough, you'll start going through your trash"
+    },
+    {
+      "id": 513,
+      "start": 3333.03,
+      "end": 3335.03,
+      "text": "Oh, okay. That's just a door"
+    },
+    {
+      "id": 514,
+      "start": 3340.18,
+      "end": 3342.18,
+      "text": "Some nice terrifying noises being"
+    },
+    {
+      "id": 515,
+      "start": 3343.14,
+      "end": 3344.34,
+      "text": "Ball"
+    },
+    {
+      "id": 516,
+      "start": 3344.34,
+      "end": 3346.34,
+      "text": "What is that?"
+    },
+    {
+      "id": 517,
+      "start": 3346.74,
+      "end": 3350.05,
+      "text": "Nice"
+    },
+    {
+      "id": 518,
+      "start": 3350.61,
+      "end": 3353.57,
+      "text": "Uh, it's just doors terrifying. Oh, no fire exits over here"
+    },
+    {
+      "id": 519,
+      "start": 3354.69,
+      "end": 3355.73,
+      "text": "Where's the cake?"
+    },
+    {
+      "id": 520,
+      "start": 3355.73,
+      "end": 3360.37,
+      "text": "Uh, with the sound of my voice over here. We're coming. We're coming. We're coming. A little fire exit"
+    },
+    {
+      "id": 521,
+      "start": 3361.09,
+      "end": 3363.09,
+      "text": "And a deadly jump that we probably have to take"
+    },
+    {
+      "id": 522,
+      "start": 3363.81,
+      "end": 3365.09,
+      "text": "Nice"
+    },
+    {
+      "id": 523,
+      "start": 3365.09,
+      "end": 3366.85,
+      "text": "Okay. Oh fire"
+    },
+    {
+      "id": 524,
+      "start": 3366.85,
+      "end": 3371.09,
+      "text": "All right, I will sacrifice actually what item speak. Wait, wait, wait. What item see them? Yeah, let me drop this"
+    },
+    {
+      "id": 525,
+      "start": 3372.05,
+      "end": 3374.05,
+      "text": "You know, I'll drop this"
+    },
+    {
+      "id": 526,
+      "start": 3374.13,
+      "end": 3380.29,
+      "text": "Let's do things to go back to ship. Well, don't take the flashlight actually. That's cute. Yeah. Yeah, I'm on walkie. No, no take my flashlight"
+    },
+    {
+      "id": 527,
+      "start": 3381.09,
+      "end": 3383.73,
+      "text": "Okay"
+    },
+    {
+      "id": 528,
+      "start": 3383.73,
+      "end": 3385.73,
+      "text": "I'm going on walkie"
+    },
+    {
+      "id": 529,
+      "start": 3386.05,
+      "end": 3388.05,
+      "text": "Oh, there's nothing don't even uh shoot"
+    },
+    {
+      "id": 530,
+      "start": 3388.37,
+      "end": 3391.24,
+      "text": "Oh, shit"
+    },
+    {
+      "id": 531,
+      "start": 3391.24,
+      "end": 3395.0,
+      "text": "We're I'm on the line with case me and case me and case are together"
+    },
+    {
+      "id": 532,
+      "start": 3395.96,
+      "end": 3397.32,
+      "text": "We're together"
+    },
+    {
+      "id": 533,
+      "start": 3397.32,
+      "end": 3399.32,
+      "text": "Jealous chat. We"
+    },
+    {
+      "id": 534,
+      "start": 3401.62,
+      "end": 3403.62,
+      "text": "Oh my god, I thought you were dead"
+    },
+    {
+      "id": 535,
+      "start": 3403.7,
+      "end": 3406.18,
+      "text": "Okay, so that was Chris opening the doors for us by the way"
+    },
+    {
+      "id": 536,
+      "start": 3406.58,
+      "end": 3408.58,
+      "text": "Okay, can you leave us to where the doors are? Oh"
+    },
+    {
+      "id": 537,
+      "start": 3409.62,
+      "end": 3411.62,
+      "text": "One of those head guys"
+    },
+    {
+      "id": 538,
+      "start": 3412.74,
+      "end": 3414.26,
+      "text": "Should we just bail?"
+    },
+    {
+      "id": 539,
+      "start": 3414.26,
+      "end": 3419.22,
+      "text": "I think we're leaving now. I think we're leaving. Yeah, let's go. Let's go. If we had us"
+    },
+    {
+      "id": 540,
+      "start": 3420.9,
+      "end": 3424.98,
+      "text": "I guess somebody should start taking a stop sign because then those head guys aren't that bad"
+    },
+    {
+      "id": 541,
+      "start": 3425.7,
+      "end": 3427.7,
+      "text": "All right, we can deal with them"
+    },
+    {
+      "id": 542,
+      "start": 3428.58,
+      "end": 3430.58,
+      "text": "I thought Avaly was gonna be our uh"
+    },
+    {
+      "id": 543,
+      "start": 3432.1,
+      "end": 3434.1,
+      "text": "That was like a little worm dude the head worm"
+    },
+    {
+      "id": 544,
+      "start": 3435.06,
+      "end": 3437.54,
+      "text": "For he's run the internet honestly reverie you're probably right"
+    },
+    {
+      "id": 545,
+      "start": 3440.87,
+      "end": 3447.11,
+      "text": "There's a strong correlation between are we going the right direction by the way deviant art og's and like the bleeding heart of the internet"
+    },
+    {
+      "id": 546,
+      "start": 3448.07,
+      "end": 3450.07,
+      "text": "Just straight ahead from here bottles"
+    },
+    {
+      "id": 547,
+      "start": 3452.95,
+      "end": 3456.23,
+      "text": "Apparently because you never know when someone that rich will just jump to their death"
+    },
+    {
+      "id": 548,
+      "start": 3464.96,
+      "end": 3471.35,
+      "text": "Still on track. I'm assuming"
+    },
+    {
+      "id": 549,
+      "start": 3471.35,
+      "end": 3473.35,
+      "text": "For he's are everywhere man"
+    },
+    {
+      "id": 550,
+      "start": 3473.43,
+      "end": 3475.43,
+      "text": "If yeah, copy that. Thank you"
+    },
+    {
+      "id": 551,
+      "start": 3479.32,
+      "end": 3481.32,
+      "text": "I didn't take it this time. Just so you know"
+    },
+    {
+      "id": 552,
+      "start": 3481.48,
+      "end": 3483.0,
+      "text": "Who took it?"
+    },
+    {
+      "id": 553,
+      "start": 3483.0,
+      "end": 3485.88,
+      "text": "I don't know. Do you want to but you gave it to somebody else I see"
+    },
+    {
+      "id": 554,
+      "start": 3486.52,
+      "end": 3488.52,
+      "text": "No, I I didn't touch it. I didn't do shit"
+    },
+    {
+      "id": 555,
+      "start": 3489.16,
+      "end": 3491.16,
+      "text": "I took flat rate back to the ship because he was long"
+    },
+    {
+      "id": 556,
+      "start": 3491.48,
+      "end": 3493.48,
+      "text": "I got it guys"
+    },
+    {
+      "id": 557,
+      "start": 3496.2,
+      "end": 3500.68,
+      "text": "I got it. Well, because I thought everyone was dead. Wait razz is headed off in the wrong direction"
+    },
+    {
+      "id": 558,
+      "start": 3501.08,
+      "end": 3503.08,
+      "text": "razz is going for a beehive"
+    },
+    {
+      "id": 559,
+      "start": 3503.24,
+      "end": 3504.2,
+      "text": "Where is he?"
+    },
+    {
+      "id": 560,
+      "start": 3504.2,
+      "end": 3509.88,
+      "text": "Oh, uh, I don't know looking for eye. I guess. Yeah, he's looking for a beehive, but I too will look for a beehive"
+    },
+    {
+      "id": 561,
+      "start": 3510.84,
+      "end": 3512.84,
+      "text": "There aren't any around us"
+    },
+    {
+      "id": 562,
+      "start": 3515.88,
+      "end": 3518.12,
+      "text": "I'm on radios. Just call us back if we need to come back"
+    },
+    {
+      "id": 563,
+      "start": 3518.92,
+      "end": 3523.32,
+      "text": "Ian, I'm with you"
+    },
+    {
+      "id": 564,
+      "start": 3523.32,
+      "end": 3526.12,
+      "text": "Copy that. Yeah, I don't think I think razz dropped all those items correct"
+    },
+    {
+      "id": 565,
+      "start": 3527.48,
+      "end": 3532.45,
+      "text": "I should have looked at the flashlight"
+    },
+    {
+      "id": 566,
+      "start": 3532.45,
+      "end": 3534.45,
+      "text": "Careful"
+    },
+    {
+      "id": 567,
+      "start": 3534.45,
+      "end": 3542.21,
+      "text": "We're good. We're good. There's little fly boys the manticoyle. What do those do? They don't attach the bird. They're neutral. Okay"
+    },
+    {
+      "id": 568,
+      "start": 3543.41,
+      "end": 3545.41,
+      "text": "That's the manticoyle the kind of bird thing"
+    },
+    {
+      "id": 569,
+      "start": 3546.69,
+      "end": 3554.05,
+      "text": "Damn, how are there no beehives? Hello? Any luck bud?"
+    },
+    {
+      "id": 570,
+      "start": 3555.57,
+      "end": 3557.57,
+      "text": "Hey guys any bees?"
+    },
+    {
+      "id": 571,
+      "start": 3567.33,
+      "end": 3569.09,
+      "text": "What a perfect noise"
+    },
+    {
+      "id": 572,
+      "start": 3569.09,
+      "end": 3573.97,
+      "text": "He had a walkie talk. Yeah, he acted that really well. That was somebody put him up to the end. Was that Ian?"
+    },
+    {
+      "id": 573,
+      "start": 3574.77,
+      "end": 3579.41,
+      "text": "Yeah, that was Ian. Oh fuck Ian had the walkie talk. Yeah, he had the walkie. No, we just we just lost it"
+    },
+    {
+      "id": 574,
+      "start": 3579.41,
+      "end": 3582.13,
+      "text": "It's in the fucking sand. Well, I guess let's head back"
+    },
+    {
+      "id": 575,
+      "start": 3585.28,
+      "end": 3589.0,
+      "text": "They beat me to it"
+    },
+    {
+      "id": 576,
+      "start": 3589.0,
+      "end": 3591.96,
+      "text": "Dude fast acting on Ian on the voice acting god damn"
+    },
+    {
+      "id": 577,
+      "start": 3596.58,
+      "end": 3598.58,
+      "text": "What god damn folks"
+    },
+    {
+      "id": 578,
+      "start": 3598.82,
+      "end": 3600.82,
+      "text": "Incredible work lot in there"
+    },
+    {
+      "id": 579,
+      "start": 3602.42,
+      "end": 3603.62,
+      "text": "Yeah, yeah, yeah"
+    },
+    {
+      "id": 580,
+      "start": 3603.62,
+      "end": 3605.62,
+      "text": "Well, we lost a walkie"
+    },
+    {
+      "id": 581,
+      "start": 3606.34,
+      "end": 3608.42,
+      "text": "Our bee adventure was probably not worth it"
+    },
+    {
+      "id": 582,
+      "start": 3609.54,
+      "end": 3611.54,
+      "text": "What happened? Ian died"
+    },
+    {
+      "id": 583,
+      "start": 3612.5,
+      "end": 3614.5,
+      "text": "Oh, Ian died. Yeah"
+    },
+    {
+      "id": 584,
+      "start": 3614.58,
+      "end": 3616.58,
+      "text": "What a nerd"
+    },
+    {
+      "id": 585,
+      "start": 3616.82,
+      "end": 3618.82,
+      "text": "Bummer. Is anybody still out there?"
+    },
+    {
+      "id": 586,
+      "start": 3619.54,
+      "end": 3623.94,
+      "text": "Um flowers. Oh, they're still called quicksand, but oh new outfit"
+    },
+    {
+      "id": 587,
+      "start": 3625.14,
+      "end": 3628.1,
+      "text": "New outfit. They're still in the thing outfit change"
+    },
+    {
+      "id": 588,
+      "start": 3628.9,
+      "end": 3630.18,
+      "text": "green gang"
+    },
+    {
+      "id": 589,
+      "start": 3630.18,
+      "end": 3632.18,
+      "text": "Green gang. Oh razz is still active"
+    },
+    {
+      "id": 590,
+      "start": 3633.22,
+      "end": 3635.38,
+      "text": "Razz and flowers are both lost out there"
+    },
+    {
+      "id": 591,
+      "start": 3636.74,
+      "end": 3639.3,
+      "text": "Time is it? I could start. Are they in the facility? Do you know if they have any?"
+    },
+    {
+      "id": 592,
+      "start": 3639.46,
+      "end": 3642.9,
+      "text": "Razz flowers razz flowers"
+    },
+    {
+      "id": 593,
+      "start": 3643.78,
+      "end": 3647.54,
+      "text": "Is anybody in the facility fine? No, no one's in the facility"
+    },
+    {
+      "id": 594,
+      "start": 3649.14,
+      "end": 3652.55,
+      "text": "Oh, they're lost"
+    },
+    {
+      "id": 595,
+      "start": 3657.99,
+      "end": 3661.52,
+      "text": "Razz"
+    },
+    {
+      "id": 596,
+      "start": 3661.52,
+      "end": 3664.88,
+      "text": "Oh razz. Oh, it's 521. I'm gonna get killed. I stay out here"
+    },
+    {
+      "id": 597,
+      "start": 3667.6,
+      "end": 3669.6,
+      "text": "me"
+    },
+    {
+      "id": 598,
+      "start": 3669.68,
+      "end": 3671.68,
+      "text": "I am but one I am but one man"
+    },
+    {
+      "id": 599,
+      "start": 3672.96,
+      "end": 3674.96,
+      "text": "Is that? Oh, I guess that was you"
+    },
+    {
+      "id": 600,
+      "start": 3675.2,
+      "end": 3679.76,
+      "text": "I was just sprinting out a little ways to see if I could find razz, but I think a monster's about to appear that will kill us"
+    },
+    {
+      "id": 601,
+      "start": 3681.44,
+      "end": 3684.24,
+      "text": "Um, where they like come out around five"
+    },
+    {
+      "id": 602,
+      "start": 3685.12,
+      "end": 3687.12,
+      "text": "Yeah, they're going the wrong way"
+    },
+    {
+      "id": 603,
+      "start": 3689.72,
+      "end": 3691.64,
+      "text": "I mean razz has a flashlight. I think I can"
+    },
+    {
+      "id": 604,
+      "start": 3697.7,
+      "end": 3701.7,
+      "text": "So this is an example of when you got to be quick on the teleporter draw"
+    },
+    {
+      "id": 605,
+      "start": 3702.18,
+      "end": 3707.7,
+      "text": "Because if you see a red thing running towards them, you're gonna want to just like quickly TP them out"
+    },
+    {
+      "id": 606,
+      "start": 3708.18,
+      "end": 3711.7,
+      "text": "Oh, they made it there. Oh, okay sick. They made it"
+    },
+    {
+      "id": 607,
+      "start": 3713.06,
+      "end": 3717.7,
+      "text": "The giant is out the giant is out. Hop on hop on the ship. Let's go"
+    },
+    {
+      "id": 608,
+      "start": 3719.06,
+      "end": 3723.3,
+      "text": "You guys need to beam Ian's body back. He drowned in the no, no, no, no. We can't we tried we tried"
+    },
+    {
+      "id": 609,
+      "start": 3724.02,
+      "end": 3726.98,
+      "text": "Excuse me. Where did you guys get your green outfits? Yeah, where'd you?"
+    },
+    {
+      "id": 610,
+      "start": 3728.58,
+      "end": 3733.3,
+      "text": "Um, we actually got uh fly as hell, right? We got promoted because we're uh"
+    },
+    {
+      "id": 611,
+      "start": 3734.66,
+      "end": 3736.66,
+      "text": "Better employees than you actually"
+    },
+    {
+      "id": 612,
+      "start": 3737.46,
+      "end": 3740.5,
+      "text": "That's exactly what it is. Let me just dance it out real quick. It's just a"
+    },
+    {
+      "id": 613,
+      "start": 3742.82,
+      "end": 3744.82,
+      "text": "Oh"
+    },
+    {
+      "id": 614,
+      "start": 3745.86,
+      "end": 3749.3,
+      "text": "Yeah, yeah, I'm not going to look for anything ever again"
+    },
+    {
+      "id": 615,
+      "start": 3752.9,
+      "end": 3757.54,
+      "text": "Your death battle was really do you have no walkie-talkie left? I've just been promoted flowers"
+    },
+    {
+      "id": 616,
+      "start": 3758.66,
+      "end": 3761.86,
+      "text": "All right company company wait, and how about all of touchy?"
+    },
+    {
+      "id": 617,
+      "start": 3762.82,
+      "end": 3764.82,
+      "text": "Yeah, you're the recruit buddy. Don't worry about it"
+    },
+    {
+      "id": 618,
+      "start": 3765.3,
+      "end": 3767.3,
+      "text": "Oh, they're ready to turn you can change your secret"
+    },
+    {
+      "id": 619,
+      "start": 3767.7,
+      "end": 3770.42,
+      "text": "In turn. Yeah, go give me some coffee. Coffee boy"
+    },
+    {
+      "id": 620,
+      "start": 3771.38,
+      "end": 3773.38,
+      "text": "Yeah, give me some coffee"
+    },
+    {
+      "id": 621,
+      "start": 3783.94,
+      "end": 3786.66,
+      "text": "I sell this apparatus sell everything"
+    },
+    {
+      "id": 622,
+      "start": 3789.38,
+      "end": 3793.54,
+      "text": "Don't sell the keys. Oh, yeah, we gotta get another walkie-talkie. Don't we?"
+    },
+    {
+      "id": 623,
+      "start": 3794.66,
+      "end": 3798.58,
+      "text": "Yeah, don't don't buy anything yet. Do not do not purchase anything"
+    },
+    {
+      "id": 624,
+      "start": 3799.14,
+      "end": 3802.34,
+      "text": "You're not purchase anything yet just so we can make sure that we got the money"
+    },
+    {
+      "id": 625,
+      "start": 3814.96,
+      "end": 3819.92,
+      "text": "Down that growls it sounds like my own stomach Kevin. That's really it does"
+    },
+    {
+      "id": 626,
+      "start": 3820.96,
+      "end": 3822.32,
+      "text": "mood"
+    },
+    {
+      "id": 627,
+      "start": 3822.32,
+      "end": 3825.84,
+      "text": "It's listening to it the longer we listen to it the more hungry I get"
+    },
+    {
+      "id": 628,
+      "start": 3830.32,
+      "end": 3834.24,
+      "text": "Guys I have to run and do a work thing. Is anybody in here? Is that a murloc?"
+    },
+    {
+      "id": 629,
+      "start": 3835.2,
+      "end": 3837.84,
+      "text": "Oh, yo, what's up? I just gotta I gotta leave if anybody asks"
+    },
+    {
+      "id": 630,
+      "start": 3838.64,
+      "end": 3841.68,
+      "text": "Oh, shit. Okay. Good luck, dude. Thank you. I might be back. We'll see"
+    },
+    {
+      "id": 631,
+      "start": 3842.56,
+      "end": 3844.56,
+      "text": "Okay. Have a good one everybody"
+    },
+    {
+      "id": 632,
+      "start": 3848.48,
+      "end": 3850.48,
+      "text": "Guys I gotta call it a little early today"
+    },
+    {
+      "id": 633,
+      "start": 3853.4,
+      "end": 3857.4,
+      "text": "But I will maybe be back if I can finish this fast enough depending on how long they're playing"
+    },
+    {
+      "id": 634,
+      "start": 3858.36,
+      "end": 3860.36,
+      "text": "Very quick stream, but"
+    },
+    {
+      "id": 635,
+      "start": 3860.52,
+      "end": 3862.28,
+      "text": "I got a company a little bit"
+    },
+    {
+      "id": 636,
+      "start": 3862.28,
+      "end": 3867.8,
+      "text": "All right, I'm gonna raid Fiona who's still company-ing as hard as ever. I'm assuming"
+    },
+    {
+      "id": 637,
+      "start": 3869.56,
+      "end": 3872.2,
+      "text": "Kendall's telling me I can just stay but I have to go either way"
+    },
+    {
+      "id": 638,
+      "start": 3872.92,
+      "end": 3874.92,
+      "text": "Um, um"
+    },
+    {
+      "id": 639,
+      "start": 3883.17,
+      "end": 3885.17,
+      "text": "All right, everybody"
+    },
+    {
+      "id": 640,
+      "start": 3885.17,
+      "end": 3887.17,
+      "text": "I will see you all soon"
+    },
+    {
+      "id": 641,
+      "start": 3887.17,
+      "end": 3889.67,
+      "text": "Have a good one. Enjoy the Fiona time"
+    }
+  ],
+  "text": "Okay, hello everyone. Let me see how to get in here join game and truthfully you're right\nThere's nothing I kid that that's on me. That's on me. That is\nEveryone introductions\nCase to CBB this flowers\nYeah, what's up guys\nHello everybody\nHello to my channels\nI'm in the game. I've set everything up. I'm the only white guy in the room\nThis is my one chance to be unique chat also check this out. I got a teleprompter\nIt's gonna be more useful for other streams, but right now I have chat straight on the teleprompter\nThey all have abandoned you says for a fight, but I'm staring at you sporophyte. I\nDon't know if this is too much. It might be too weird to have me staring right at you when I talk to you\nThe way you got taken by that that fucking what's it called a mask? No\nIt was scripted this amazing new technology. I'm in the future\nYeah, I'm going rogue immediately\nevery team\nHello, hello\nThat's up here. Oh, it's a key up there. That was really not necessary, but I probably could have dropped it off\nThe talk of the trail already\nRight\nWe need a flashlight\nThis game requires\nBetter or worse than your luck I believe in the power of flashlights\nI believe the flashlights are the future\nJust by two and then immediately die do a bug\nSo what's the story with this game? You are collecting\ncollecting scrap for a faceless corporation. That's most likely a giant tentacle monster\nStart the ship\nThis you seem to be collecting metal for a monster that eats metal just to keep it at bay for the rest of society\nAnd they seemingly wiped your memory of why you're doing that\nSo you think you're just working some normal job, but\nIt could be 100 you're not hello you want a flashlight is what to I got a couple of them coming with some stuff\nExactly like sometimes I like to think about it. Oh\nLittle flashlights\nThere's two\nGoing in\nGoing in to lose this flashlight immediately\nProbably also is the real monster secretly the real story is avoid\nShe does want to kill us all yeah, there's one of those neck breaking guys around\nHa, I'm gonna count. This is being useful enough. What the fuck was that?\nHoliday bloodless. Yeah, exactly\nLike like the lip like the fucking back room shit. Yeah. Yeah\nAll right, let's take a second to my chat real quick\nWas asking us what we like about this game because he hates it\nHey, there's some people well, I'm sure if we just leave we clear it out. All right. All right\nSo good seeing you what's the command to see how much stuff is left\nUm scan las is here did Dallas is here there's seven objects\nThere's only three\nI\nDidn't destroy the present someone opened it\nAs the present should be open we can convince\nDon't know\nOh\nNo, we need your name to be visible. That's the whole point\nDid you guys change your names wait, I think it's just just if we were to add\nMy steam profile is set to like no info\nFlowers\nDo not do be just\nI did not\nThe bees were doing me. Yeah, I'll do it later after we get back\nWhat these are even attack I\nGuess I jumped onto a business\nYou had to go into the fires it underneath. Oh, we can do that. I'm down. Let's do it\nI think I think everyone is better than\nWe're going rogue instantly rogue\nI barely\nThey were always better\nI\nCould just be I could do I could do this shit\nWell, the vet is open. That means there's a head bug around here. Where's our friend?\nCareful, there's a head bug around here\nReally? Yeah, the vet is open. That means they're crawling around\nThey're usually on the ceiling\nYeah, can you spot them early on? Yeah\nMan, I don't even know what you guys are talking about\nProbably\nWait, what are we\nIf I get head bugged somebody just take my flashlight, please\nYeah, we'll see about that\nYeah\nDo you cover yourself in honey regularly?\nThink about that for a few minutes\nAs soon as I run it down, I'll set my steam profile\nWait, but where am I supposed to use this key at? There's more stuff this way. We can keep it for another level\nOh, okay. It works on any lock door. I mean he works on it. Oh, okay\nThey don't have to stay contained in the level they found it. Yeah, you can also just put it in the cabinet on the ship\nOkay, I've played this game a couple of times, but I really only know like the very basics of it. All right\nThis is actually a dead end as well\nThe advanced meta sneaks up any quick. Okay, I guess there's nothing else over here. Yeah, that's it\nDon't fall down through the middle here\nThe void is calling\nYeah, sometimes there's shit to the right, but maybe not here\nWould you find\nEveryone is behind this door. Oh\nWhat is a bracket\nYou can only kill one of us well he won't kill us if I got a stop sign\nYeah, oh\nSo you're not supposed to look at you can't look at him for more than four seconds or I'll kill you but you also can't not look at him\nAnd if you look at him for a second, it's it's like he'll like go away\nOkay, so you can't totally ignore it, but you can't stare at yes exactly. Yeah, okay\nAlso, though, if you look at him through a wall and get unlucky he'll just break your neck. Oh\nYeah, just do the bugs\nOh\nAll right, well, it's not this way. Let's get the fuck out of you right there\nOkay, I only got a little hurt there. Oh great. There's the exit. Okay. I wasn't feeling the fear. Okay, let's wait for everybody\nSo there's really none of my lights are on in here\nI think texts\nGetting texts from the human world\nWhoo\nAll right, is there anything else in there?\nHere, can you take this? Yeah, did everybody die? No, go go go go. Just go\nHe's probably okay screams for fun. Yeah, you're right. Everybody loves a good scream\nThey're probably dead\nIt is also five. So there's probably a giant out\nYeah, we need to go\nSo they needed to go past the goo and the bracken to get out. So I think they're probably dead\nYeah, I just jump straight into the goo like an idiot. Yeah, I got over it. That's the only way I got down\nMaybe with the bracken. Oh\nOkay\nGood to see you MSG. I'm doing just fine\nOkay, I think oh, okay. Chris is up. Chris is almost there. Chris is almost just fall\nOh, no, Chris fell he fell looking at the exit\nI'm gonna get us whole two walkie talkies. How much are this?\nOkay, everyone is dead\nBesides flowers\nYeah, they needed to run past the bracken and the ooze and then you get to where you can see the door\nBut if you just run straight, there's a jump. Yeah, go around which it looks like that's what flowers is doing\nChris fell through the jump. Unfortunately\nThe bracken's hanging out with them\nShit flowers\nUh-oh, he's lost\nI'm closing the door just because it's nighttime and the the monsters are coming soon\nCould he die? I don't see anything around us immediately. Yeah, chris fell. No, no flowers is gonna make it out\nHe's gonna make it out. Yeah, if he just goes out the front. Oh, oh no, wrong way. It's right there. It's right there. Turn it around. Turn it around. Turn it around.\nNo\nNo\nOh my god, he turned the wrong way. He went because he was right there. Oh, no\nWe're still really good on it was so close to the exit. Yeah, we got plenty of shit. Oh my god\nThat was hilarious. So I made I came back after my run with a full inventory and then I saw all of you guys\nWe're sticking together chris and Fiona were separate\nAnd then you all met up together and then razz got picked off and everyone's beginning picked off one by one\nDude, that was that was\nThat was where we guys\nFlowers are so close\nI knew that I was there. I also knew that there was a way I could path around it, but I I was too lost\nOkay, fyi if you're too heavy, you can't make the jump\nHey, Fiona, what if you don't\nDon't\nDull out my subs\nYes, but if I ignore my subs\nYeah\nAll right, I'm not like you. Okay. I don't ignore people. Okay\nWe're all you want her to ignore our community avalanche. Yes. I like to ignore your community specific avalanche\nJust wants me to fail\nHold up\nYo\nYeah, sorry, I was trying to change my settings so it wouldn't say I'm young for me anymore\nOh, it is advanced darkness unless my thing didn't load. Oh, it's dark. Oh, uh, there's something up here\nCool\nI'm just gonna drop this out for him\nI made the jump. I found bottles here. I'm coming back with a bottle\nBoy a bracken room. I found the fire exit\nI'm gonna try to find some stuff, you know help around\nI'm ignoring my subscribers as they oh no\nThat's what she gets\nThat's what she gets\nThat's why you've got to engage with the community and you're right\nTeal sharpshooter the\nGlob is just leftover loot and because I didn't ignore you while live. I see that's how it works\nAvali's chat does love a good domination. I hope they can hear me right now because they know it's true\nMeanwhile, I let my chat dominate me. Oh, I thought that was monster. There's nothing in here\nBut sweet sweet, okay a little bit disappointing over there\nThey're\nYeah, I've only unfortunately died with some goodies\nThis is back to the entrance, right?\nYeah, we we found the fire exit before already\nempty\nDamn, yeah, I'm a bit lost. This place is a barren wasteland\nAnything nothing that I could find yet. I think the bracken is back here. So be careful\nYeah, that would make sense. Is there always one of him on every map? No\nHe's just been hanging out with us today\nYeah\nThere we are seven creatures on other maps\nOh, that's that annoying thing\nUh, what does the mouth thing do? It doesn't actually attack, but it can spray out gas. I think\nYeah, and you don't want to corner it then it affects if you corner it. Yeah. Oh, it like feels\nPressured. Yeah. Yeah\nWhere he is\nYeah, he bolted\nDamn. Oh, there's a bracken. Bracken. Bracken\nOh, got it. Stay together. Stay together. Stay together. Everybody's still alive. This way. Stay together. Stay together\nWhere's case with that flashlight? Stay together. Right here\nWe just got to kind of swivel around so it doesn't sneak up and break our necks\nYeah\nOkay, thank god\nAll right, back at the start\nYeah\nYou can always find the emergency exit, but oh, it's right here. It's right here. Nice\nMaybe we should just go bee hunting\nYeah, let's bail everyone out\nHow are you supposed to do the bee thing because every time you go near the bees you just die somebody\nSo you need okay, so there's a hive here\nUm, what we need to do is get one person to lure the bees away like basically draw aggro\nAnd then another person gathers the hive, but you gotta go in the opposite\nOh\nYou gotta go in the opposite direction of the ship when you draw the bees aggro\nI'll go\nI mean we're far enough away that if we lose the bees we're fine, but we just need to find the ship first\nOh, yeah, okay. I think the ship is usually this way\nI think it's uh\nI think it's this way, but i'm not sure\nOkay, maybe that\nSeems like nothing\nYeah, you don't want to be lost with bees chasing you\nThat would be funny\nWell, it's it's pretty short\nBut it's a short good laugh\nThe bees\nOh, we're back at how'd we get back here? Did we go in a full circle? We went in a full circle. Surely not\nIt's the bee right here. Oh yo found a log. Goodbye\nMaybe it's this way\nWait, man, we're in the forest. Is that big dude gonna come beat our asses? Yeah, I'm like pretty soon. We better hurry\nI'm sorry\nI feel like it's around across one of these ridges\nSo we came out that way. Maybe it's more to the right\nYeah, maybe if we just fall if we just fall over the bridge\nUh-oh, uh-oh quicksand careful quicksand quicksand quicksand\nYeah, we're good. We're getting quicksand quicksand quicksand\nCareful. All right\nOkay, we're good. We're good. Oh, here's the ship. Wait, never mind. It's not I got excited\nI'm just kidding\nIt's feminine. We're lost. Where the hell are we gentlemen? We are fucking lost. Shit\nCochre forest\nThis could be it\nShip\nAnyone ship\nCan I get up here? Hello ship. We're going back in that circle\nTo the left is back to the fire escape\nYeah, the fire escape is back this way. Okay. We got him. We got him\nThe fire escape is back there. If we go left, I think we're just gonna hit the fire escape again\nUnless I thought we should go right if we if we go back into the fire escape the actual entrance is really close to it\nThat's true\nIs it? Yeah, I was pretty close\nYeah, we can just pass back through the building\nAll right, if we go around in a circle again, then we can get back inside. Oh, it's almost 6 p.m\nYeah, we're running out of time. There's a problem. Yeah, that giant's gonna be out\nWhat's more scary the giant or are you going back inside a ship?\nThe giant\nOh, shit. What is that?\nNice\nOh, he must be dead\nFiona's dead, too. Did they die right now?\nOvely just fell. Wow, there are 20 objects outside the ship. They fell together\nWe got plenty of shit. We didn't get anything now. That's not good. Now we didn't we got a key\nThat's it. But we didn't die and we needed to turn in so that's the most important thing. Yeah\nThey probably died of the Bracken or something, right? Ovely just jumped off of edge. Sorry to do it\nI think they fell together\nOkay\nOkay, I explained themselves\nAll right, we did it. Yay\nYou guys jumped and died\nOkay, you didn't see it. Okay, so you didn't see it. It fell right next to you\nLike like, I mean you were there and then I fell right next to you. Oh, man. Everybody was falling right next to me\nYeah, right next to you. All right\nYeah, I I walked into the building\nAnd I made three right turns and I literally died of the Bracken\nThat is actually so insane that you died that fast. I would have preferred to fall, dude\nThat was yeah, well, that's what your course got dragged into a brown room\nAll right, there we go\nNo, we should we should turn in everything the money\nWe'll get walkie-talkies\nWe'll get walkie-talkies because those are uh\nWait, I stored the difference\nYeah, I'm gonna need a flashlight coming up here the uh the darkness is starting to do\nHear me out flashlights are for posties. Oh never thought of it that way. Are we selling everything? Yeah, we did\nOkay\nI didn't get anything\nI\nDidn't help\nWe're rich paycheck nice. Holy shit. We dunked it\nI am because I don't want them to hear me calling out subs. It would be so hear me out push to talk\nWhat?\nBut I don't have push to talk\nYou do you can turn it on in this game inside the game, but but then but then you guys won't hear me yell\nOh, no, you push to talk very well\nBut that will require me to do two things at the same time\nI know it's so hard\nThat's but at the same time everyone else benefits. This is an advanced game\nAll right, I sold the last batch of items. All right, did they did the money come in?\nOh, yeah, I just noticed you have a that's a pretty cool hat\nHuh?\nYour hat it's a cool. Oh, thank you. Thank you\nA dear friend got me this light up hat that says oh dear on it\nLess cool now with the pun, but still cool\nOkay, here. I'm getting I'm ordering four flashlights\nOh, cool. Uh, I'll get us three walkies\nAll right, I'm gonna go get another beer beer right back\nAnother that's not in the game. That's not in the game actually they should put it in the game\nAnd then what it is cool\nLet's see what's the best\nOh, we got a teleporter already putting on yeah, let's go we we were just like 20 short of being able to get the um\nWhat's it called?\nrend\nMaybe that works\nAnd we take off right now testing. All right. How does this teleporter work?\nSo this is this is how the teleporter works. So come here. I'll teach\nSo you select someone so this is razz, right? And then you there's this button right here and you press the beam up\nWait, it can save someone anywhere. Yeah, but you lose your item\nBut you can't carry items with you. So all\nSo pretty much all it is is like you're stopping them from the death penalty of money\nOr yes, or what you can do is you can uh get their bodies back if they're already dead\nWait, you can port dead bodies\nYou can port dead bodies\nDo you guys hear me now? Yes\nHello, I hear you or if you're genie you can suck a monster into the ship\nYeah\nCan you guys do you guys see me as unknown still or am I you're feeling good?\nMe too. This guy. All right. Hey for anyone to take a walkie. Make sure to turn it on\nSo many times. I'm on walkie\nAll right, so Ian and Chris Chris do you want to be termed again? Yeah, I'm gonna walkie in the\nUh case here. What is an overtime bonus? You can actually kill the bracken by the way if you stonish and it was shoveled\nYeah, oh\nI mean, we're working constantly. Why are we always on overtime? All right, I got a wife\nThere's an extra flashlight and also a walkie talkie. We should just save one of the walkies\nOkay, should I not use this flashlight?\nAll right, let's go\nHazard level b. Is that more dangerous?\nThat's like not that slightly more\nI think s is very dangerous. A is pretty dangerous\nI've never gotten past the second quota on this game, so I don't actually know what the end games\nWe easily will and it gets way harder way faster. It's great\nCool, it's beautiful. So we landed on an eclipsed planet where all the night creatures are out during the day\nOh, yeah, I that happened when I talk\nWhen we play the taco and shelby\nBoth of the fire exits are in the same room right next to the entrance\nOkay, that's fine. It's kind of troll. That's a little unlucky. Oh my god\nThere's that one\nThis one\nAnd they teleport you to different parts of the map. That's exciting\nOkay, so we never played league of legends with ovally on stream. Oh my god, I would get so destroyed\nOh my god, I almost fucking died again. What's the fuck wrong with me?\nYou got it. Hello\nIt's an empty over here\nSo we got a jump\nIf you want to start singing, it's really a bad sign for us living. It's really good\nWe took it\nOkay, somebody took that too early\nReally?\nDo we just keep going? Yeah. Yeah\nPut a fucking troll. We die. I gotta kill you.\nOh, is there anybody on walkie at the ship? Oh, yeah\nOh, there's nothing here. Okay\nIs there anybody on walkie?\nWho's on cops?\nUh, yeah, you have to jump. You have to go across the jump. You're gonna have to jump and I don't think you're gonna make it\nOh, what was that?\nYou fail. The weight doesn't matter. Well, well, Chris failed. So is that the way out?\nSo peaceful this way, but unfortunately it's a dead end\nOkay, anybody uh, any items down here? It seems like it's just a dead end this jump\nI can make this jump. Wait, why are you jumping back?\nBecause she went the wrong jump. Oh, it's the other jump. Oh, the other comes upstairs. Oh, I went up here\nEither what?\nThere's got to be more shit. Yeah, that leads back to the ship. This jump? Yeah, that leads back. I'm on radio\nI didn't do that. That's crazy. There's got to be more stuff over this way, right?\nSo\nUh, I don't know the way back, right? Do you know the way back so I can take this engine out of here?\nCopy that. There's a mine. Did this come with me? All right\nOkay, what about here? Anything over here? Just mines. I found this engine down here, but that's it\nHold on. I'm radioing back to radar one second. Another jump?\nAny items here? Bye\nI think you have to be directly on it. Dude, this place has so many jumps. What the fuck?\nIt's here somewhere. Yeah, we saw the line. The way back out is this way. I'm almost certain. Is this the way out guys?\nThis is not the way out. This is a jump.\nWe have to jump to get out. This is a dead end over here.\nIt doesn't seem like there's many items down here. Maybe we should just fail. How many items do we have left?\nI mean, there's 20 on most planets, right?\nAll right, I found a big room over here. Can anybody hear me?\nWell, if you come towards the side of my voice is a bigger room. I'll look around in it\nI'm over this way to get out. I don't know. I don't know if it's good to get out\nI'm this way. I'm over here\nOh\nWait, there's a monster\nBig time monster. Oh, that's a dead end. Oh, that was a good teleport\nWhat are you looking at? I can tell. That was one of those dog things with the two legs. Oh, okay\nIt would kill me. Yeah, we're good\nDamn, I will miss my flashlight, but what can you do?\nMove any money. I can't give you mine. Oh, you teleported case out. Yeah, he's gonna die. Oh, that's oh wait\nSo you lose your your flashlight any items? Yeah, all right. Okay guys guys\nChris\nAll right, okay, so there's there's another beehive if we want to get try to get two beehives. Otherwise, let's do it\nOkay, otherwise there's one on the back of the ship that I got\nOkay\nAre we ready hold on hold on hold on hold on hold on I'll TP whoever's getting chased by the bees\nIf you have stuff the bees if you're on bee quest if you have stuff drop it in here before you go\nBecause you will die. We're not losing our shit for bees\nAnd you guys let me know who's aggroing the bees so I can TP them if uh, well, so so the tech the tech\nIs that I put one on the back of the ship because\nThe bees stay on the planet when the hive stays on the ship so we could just take it without any\nOkay, where's the other one? Where's the second hive though? The second hive is here. Follow me down this way. Yeah, I'm gonna see how you guys\nI'm more of a no strategy guy\nIt is overwhelming it is overwhelming hearing people actually want to win a game. Yeah, I'm just not used to it\nWhat's up fee? I feel I feel like I'm annoying\nWe're being told\nYeah, I just want to get eaten by a big by a big\nDogs can hear you but not see you. Oh, if you're talking they'll come kill you\nAre they only overworld enemies or can there's all this one?\nThey can come in the ship and kill us\nOkay, Chris\nI'm gonna I'm gonna yell I'm gonna yell start the ship and then start the ship. Okay\nOkay\nStart the ship get in here\nDon't close it\nIt's the bees\nThanks for the follow\nThat's pretty good. I guess almost 100 already. You've stumbled into the worst gamer on twitch\nYeah, we got this shit. We can definitely hit render tighten after the front. What is what is\nYou are about to tighten your butthole once you land on that planet. Oh, that was actually clever. Good job\nYou usually got to like pay a bunch of money for that. I worked really hard on it. I worked really hard\nThe express is\nThis is a nice abstract sculpture we have in the ship here. What do you call it?\nI call it\nMake sure to charge your stuff before you guys leave\nYep, charge your stuff charge your stuff\nShe lived I think\nI think she survived\nThat's why that's why you gotta not try to copy will you know\nHe's his own person\nCase would you shut the fuck up?\nEric, obviously I want to but I'm compelled by my anxiety to endlessly talk\nAxel that's a dead end over here\nAlready a dead end\nOh, there's a goo. Oh, there's a goo in the door. Yeah, touch it\nTouch it. Okay, this way looks promising\nTurn it turn it turn it\nTurn it turn it t-minus 600 hours\nI mean Chris is a fucking god. Oh, Eric. I'm not offended either way\nI mean, you're right either way. I should shut the fuck up. Yo, that was the response to fear\nOh my god, so much stuff. What the hell? All right, I better not die. Is there a fire exit conveniently anywhere right here?\nWhat is that noise? It's this fucking toy. Unfortunately. Oh, I was like holy shit is a monster coming?\nI should try to get it out of here\nBecause I have a bunch of stuff now\nBut I as usual wasn't paying attention to what the way out is\nI found a bunch of items\nOh, no, she said she was gonna do well and then she got gooed\nI mean gamers are always saying to get gooed\nWhat's the way out? Oh the goo went the other way\nNice\nAllowing me to heroically leave\nAll right. I got a stop sign and a key\nUh case. Did you miss any news?\nUm, no, sorry and also I'm so slow to reach out even slower than on my news\nI'm so easily confused\nI think today it'll just be this tomorrow. We'll be back on our news grind\nfor a bit\nBut thank you for caring these noises\nThis thing is insane\nI think it's back this way\nYo, who's over there?\nYeah\nHey, I got this dead guy. You need to bring him back to the boat\nOkay, I couldn't send any better sporophyte. I will forever barely know what I'm talking about\nOh, somebody's got the robot\nI do. I wish I didn't\nThis is a pretty\nbum planet\nDamn, I'm always being pretty mean about this planet\nYeah, it's a pretty bum planet, but we've already met quota so we can just dip\nLet's go to a different one\nWhy am I scared? Oh, it's a flashbang\nWhy did I just get scared?\nBecause chris is dead hurt uh rather dead body\nAll right, all right\nLook at that uh stop sign sleeping on the job wait who did we lost two?\nYeah\nYou know, it was like I'm gonna do well this map and then she just immediately got murdered\nImmediately stepped into the goo\nYeah, uh, no, don't sell the stop signs unless we really need to because they could be weapons\nRight, okay\nHere Faris, let me show you. I know how they work. Oh my god. She's gonna kill us all\nSay disrespect\nWe're speaking ill of the dead now\nDisrespect that you guys were just fucking roasting, but I was dead, okay\nAll right, but I'll tell you this this round. I'm gonna do so fucking good\nNo\nAll right, I believe in you dude rock and roll\nWe got it\nCharging the old light\nGuide us\nIs the little yellow bar in the top left\nAmina and health is that my my battery? Yeah, the yellow bar\nThat's your electricity. Yes. Yeah, that's for your flashlight or anything\nYes, I would highly recommend buying this game or pulling this game. It's fantastic\nYou could do it solo or with friends. It's only $10. Obviously this game is an incredible deal\nAnd it's made by a furry\nIt's it's made by a furry\nA single furry\nLook at what one furry can do\nAre you fucking Gino?\nYeah, maybe\nFurry has run the world\nWhat?\nThe truth who runs the world? Capital\nFurry's dead\nHeavy\nI know I'm not actually heavy\nI feel heavy\nOkay, you know, we've got the the power generators in this room\nExactly reverie. Don't tell loudly. Oh, you don't do it. Never let them disempower you\nStop it\nI got bottles and a tea kettle immediately. We are\nI got bottles and a tea kettle. We're fucking in the money\nIf you play this game long enough, you'll start going through your trash\nOh, okay. That's just a door\nSome nice terrifying noises being\nBall\nWhat is that?\nNice\nUh, it's just doors terrifying. Oh, no fire exits over here\nWhere's the cake?\nUh, with the sound of my voice over here. We're coming. We're coming. We're coming. A little fire exit\nAnd a deadly jump that we probably have to take\nNice\nOkay. Oh fire\nAll right, I will sacrifice actually what item speak. Wait, wait, wait. What item see them? Yeah, let me drop this\nYou know, I'll drop this\nLet's do things to go back to ship. Well, don't take the flashlight actually. That's cute. Yeah. Yeah, I'm on walkie. No, no take my flashlight\nOkay\nI'm going on walkie\nOh, there's nothing don't even uh shoot\nOh, shit\nWe're I'm on the line with case me and case me and case are together\nWe're together\nJealous chat. We\nOh my god, I thought you were dead\nOkay, so that was Chris opening the doors for us by the way\nOkay, can you leave us to where the doors are? Oh\nOne of those head guys\nShould we just bail?\nI think we're leaving now. I think we're leaving. Yeah, let's go. Let's go. If we had us\nI guess somebody should start taking a stop sign because then those head guys aren't that bad\nAll right, we can deal with them\nI thought Avaly was gonna be our uh\nThat was like a little worm dude the head worm\nFor he's run the internet honestly reverie you're probably right\nThere's a strong correlation between are we going the right direction by the way deviant art og's and like the bleeding heart of the internet\nJust straight ahead from here bottles\nApparently because you never know when someone that rich will just jump to their death\nStill on track. I'm assuming\nFor he's are everywhere man\nIf yeah, copy that. Thank you\nI didn't take it this time. Just so you know\nWho took it?\nI don't know. Do you want to but you gave it to somebody else I see\nNo, I I didn't touch it. I didn't do shit\nI took flat rate back to the ship because he was long\nI got it guys\nI got it. Well, because I thought everyone was dead. Wait razz is headed off in the wrong direction\nrazz is going for a beehive\nWhere is he?\nOh, uh, I don't know looking for eye. I guess. Yeah, he's looking for a beehive, but I too will look for a beehive\nThere aren't any around us\nI'm on radios. Just call us back if we need to come back\nIan, I'm with you\nCopy that. Yeah, I don't think I think razz dropped all those items correct\nI should have looked at the flashlight\nCareful\nWe're good. We're good. There's little fly boys the manticoyle. What do those do? They don't attach the bird. They're neutral. Okay\nThat's the manticoyle the kind of bird thing\nDamn, how are there no beehives? Hello? Any luck bud?\nHey guys any bees?\nWhat a perfect noise\nHe had a walkie talk. Yeah, he acted that really well. That was somebody put him up to the end. Was that Ian?\nYeah, that was Ian. Oh fuck Ian had the walkie talk. Yeah, he had the walkie. No, we just we just lost it\nIt's in the fucking sand. Well, I guess let's head back\nThey beat me to it\nDude fast acting on Ian on the voice acting god damn\nWhat god damn folks\nIncredible work lot in there\nYeah, yeah, yeah\nWell, we lost a walkie\nOur bee adventure was probably not worth it\nWhat happened? Ian died\nOh, Ian died. Yeah\nWhat a nerd\nBummer. Is anybody still out there?\nUm flowers. Oh, they're still called quicksand, but oh new outfit\nNew outfit. They're still in the thing outfit change\ngreen gang\nGreen gang. Oh razz is still active\nRazz and flowers are both lost out there\nTime is it? I could start. Are they in the facility? Do you know if they have any?\nRazz flowers razz flowers\nIs anybody in the facility fine? No, no one's in the facility\nOh, they're lost\nRazz\nOh razz. Oh, it's 521. I'm gonna get killed. I stay out here\nme\nI am but one I am but one man\nIs that? Oh, I guess that was you\nI was just sprinting out a little ways to see if I could find razz, but I think a monster's about to appear that will kill us\nUm, where they like come out around five\nYeah, they're going the wrong way\nI mean razz has a flashlight. I think I can\nSo this is an example of when you got to be quick on the teleporter draw\nBecause if you see a red thing running towards them, you're gonna want to just like quickly TP them out\nOh, they made it there. Oh, okay sick. They made it\nThe giant is out the giant is out. Hop on hop on the ship. Let's go\nYou guys need to beam Ian's body back. He drowned in the no, no, no, no. We can't we tried we tried\nExcuse me. Where did you guys get your green outfits? Yeah, where'd you?\nUm, we actually got uh fly as hell, right? We got promoted because we're uh\nBetter employees than you actually\nThat's exactly what it is. Let me just dance it out real quick. It's just a\nOh\nYeah, yeah, I'm not going to look for anything ever again\nYour death battle was really do you have no walkie-talkie left? I've just been promoted flowers\nAll right company company wait, and how about all of touchy?\nYeah, you're the recruit buddy. Don't worry about it\nOh, they're ready to turn you can change your secret\nIn turn. Yeah, go give me some coffee. Coffee boy\nYeah, give me some coffee\nI sell this apparatus sell everything\nDon't sell the keys. Oh, yeah, we gotta get another walkie-talkie. Don't we?\nYeah, don't don't buy anything yet. Do not do not purchase anything\nYou're not purchase anything yet just so we can make sure that we got the money\nDown that growls it sounds like my own stomach Kevin. That's really it does\nmood\nIt's listening to it the longer we listen to it the more hungry I get\nGuys I have to run and do a work thing. Is anybody in here? Is that a murloc?\nOh, yo, what's up? I just gotta I gotta leave if anybody asks\nOh, shit. Okay. Good luck, dude. Thank you. I might be back. We'll see\nOkay. Have a good one everybody\nGuys I gotta call it a little early today\nBut I will maybe be back if I can finish this fast enough depending on how long they're playing\nVery quick stream, but\nI got a company a little bit\nAll right, I'm gonna raid Fiona who's still company-ing as hard as ever. I'm assuming\nKendall's telling me I can just stay but I have to go either way\nUm, um\nAll right, everybody\nI will see you all soon\nHave a good one. Enjoy the Fiona time",
+  "text_timestamped": "[06:37 --> 07:17] Okay, hello everyone. Let me see how to get in here join game and truthfully you're right\n[07:18 --> 07:22] There's nothing I kid that that's on me. That's on me. That is\n[07:37 --> 07:39] Everyone introductions\n[07:39 --> 07:42] Case to CBB this flowers\n[07:44 --> 07:46] Yeah, what's up guys\n[07:58 --> 08:00] Hello everybody\n[08:00 --> 08:02] Hello to my channels\n[08:06 --> 08:12] I'm in the game. I've set everything up. I'm the only white guy in the room\n[08:13 --> 08:18] This is my one chance to be unique chat also check this out. I got a teleprompter\n[08:18 --> 08:23] It's gonna be more useful for other streams, but right now I have chat straight on the teleprompter\n[08:23 --> 08:27] They all have abandoned you says for a fight, but I'm staring at you sporophyte. I\n[08:28 --> 08:34] Don't know if this is too much. It might be too weird to have me staring right at you when I talk to you\n[08:35 --> 08:43] The way you got taken by that that fucking what's it called a mask? No\n[08:43 --> 08:52] It was scripted this amazing new technology. I'm in the future\n[08:53 --> 08:55] Yeah, I'm going rogue immediately\n[08:58 --> 09:00] every team\n[09:23 --> 09:25] Hello, hello\n[09:27 --> 09:44] That's up here. Oh, it's a key up there. That was really not necessary, but I probably could have dropped it off\n[09:58 --> 10:00] The talk of the trail already\n[10:16 --> 10:18] Right\n[10:22 --> 10:24] We need a flashlight\n[10:25 --> 10:27] This game requires\n[10:32 --> 10:38] Better or worse than your luck I believe in the power of flashlights\n[10:50 --> 10:53] I believe the flashlights are the future\n[10:56 --> 10:59] Just by two and then immediately die do a bug\n[10:59 --> 11:09] So what's the story with this game? You are collecting\n[11:09 --> 11:15] collecting scrap for a faceless corporation. That's most likely a giant tentacle monster\n[11:17 --> 11:18] Start the ship\n[11:18 --> 11:27] This you seem to be collecting metal for a monster that eats metal just to keep it at bay for the rest of society\n[11:27 --> 11:31] And they seemingly wiped your memory of why you're doing that\n[11:32 --> 11:35] So you think you're just working some normal job, but\n[11:36 --> 11:46] It could be 100 you're not hello you want a flashlight is what to I got a couple of them coming with some stuff\n[11:59 --> 12:02] Exactly like sometimes I like to think about it. Oh\n[12:05 --> 12:07] Little flashlights\n[12:08 --> 12:10] There's two\n[12:10 --> 12:11] Going in\n[12:11 --> 12:13] Going in to lose this flashlight immediately\n[12:17 --> 12:20] Probably also is the real monster secretly the real story is avoid\n[12:22 --> 12:41] She does want to kill us all yeah, there's one of those neck breaking guys around\n[12:41 --> 13:06] Ha, I'm gonna count. This is being useful enough. What the fuck was that?\n[13:14 --> 13:16] Holiday bloodless. Yeah, exactly\n[13:16 --> 13:23] Like like the lip like the fucking back room shit. Yeah. Yeah\n[13:25 --> 13:28] All right, let's take a second to my chat real quick\n[13:30 --> 13:33] Was asking us what we like about this game because he hates it\n[13:40 --> 13:48] Hey, there's some people well, I'm sure if we just leave we clear it out. All right. All right\n[13:53 --> 13:57] So good seeing you what's the command to see how much stuff is left\n[13:58 --> 14:03] Um scan las is here did Dallas is here there's seven objects\n[14:13 --> 14:15] There's only three\n[14:27 --> 14:29] I\n[14:35 --> 14:38] Didn't destroy the present someone opened it\n[14:40 --> 14:43] As the present should be open we can convince\n[14:52 --> 14:54] Don't know\n[14:54 --> 14:55] Oh\n[14:55 --> 14:59] No, we need your name to be visible. That's the whole point\n[15:03 --> 15:09] Did you guys change your names wait, I think it's just just if we were to add\n[15:10 --> 15:14] My steam profile is set to like no info\n[15:16 --> 15:18] Flowers\n[15:25 --> 15:27] Do not do be just\n[15:28 --> 15:30] I did not\n[15:31 --> 15:35] The bees were doing me. Yeah, I'll do it later after we get back\n[15:38 --> 15:40] What these are even attack I\n[15:41 --> 15:43] Guess I jumped onto a business\n[15:49 --> 15:59] You had to go into the fires it underneath. Oh, we can do that. I'm down. Let's do it\n[16:09 --> 16:13] I think I think everyone is better than\n[16:17 --> 16:20] We're going rogue instantly rogue\n[16:23 --> 16:25] I barely\n[16:34 --> 16:39] They were always better\n[16:44 --> 16:45] I\n[16:45 --> 16:48] Could just be I could do I could do this shit\n[16:49 --> 16:53] Well, the vet is open. That means there's a head bug around here. Where's our friend?\n[16:55 --> 16:57] Careful, there's a head bug around here\n[16:57 --> 17:00] Really? Yeah, the vet is open. That means they're crawling around\n[17:01 --> 17:03] They're usually on the ceiling\n[17:04 --> 17:07] Yeah, can you spot them early on? Yeah\n[17:08 --> 17:10] Man, I don't even know what you guys are talking about\n[17:14 --> 17:16] Probably\n[17:29 --> 17:31] Wait, what are we\n[17:36 --> 17:40] If I get head bugged somebody just take my flashlight, please\n[17:45 --> 17:53] Yeah, we'll see about that\n[17:56 --> 17:58] Yeah\n[17:59 --> 18:01] Do you cover yourself in honey regularly?\n[18:02 --> 18:04] Think about that for a few minutes\n[18:08 --> 18:10] As soon as I run it down, I'll set my steam profile\n[18:21 --> 18:26] Wait, but where am I supposed to use this key at? There's more stuff this way. We can keep it for another level\n[18:26 --> 18:30] Oh, okay. It works on any lock door. I mean he works on it. Oh, okay\n[18:30 --> 18:36] They don't have to stay contained in the level they found it. Yeah, you can also just put it in the cabinet on the ship\n[18:36 --> 18:43] Okay, I've played this game a couple of times, but I really only know like the very basics of it. All right\n[18:43 --> 18:45] This is actually a dead end as well\n[18:45 --> 19:06] The advanced meta sneaks up any quick. Okay, I guess there's nothing else over here. Yeah, that's it\n[19:06 --> 19:10] Don't fall down through the middle here\n[19:11 --> 19:13] The void is calling\n[19:17 --> 19:23] Yeah, sometimes there's shit to the right, but maybe not here\n[19:29 --> 19:31] Would you find\n[19:34 --> 19:37] Everyone is behind this door. Oh\n[19:39 --> 19:41] What is a bracket\n[19:57 --> 20:00] You can only kill one of us well he won't kill us if I got a stop sign\n[20:03 --> 20:05] Yeah, oh\n[20:06 --> 20:12] So you're not supposed to look at you can't look at him for more than four seconds or I'll kill you but you also can't not look at him\n[20:12 --> 20:16] And if you look at him for a second, it's it's like he'll like go away\n[20:17 --> 20:22] Okay, so you can't totally ignore it, but you can't stare at yes exactly. Yeah, okay\n[20:22 --> 20:26] Also, though, if you look at him through a wall and get unlucky he'll just break your neck. Oh\n[20:28 --> 20:30] Yeah, just do the bugs\n[20:34 --> 20:36] Oh\n[20:37 --> 20:40] All right, well, it's not this way. Let's get the fuck out of you right there\n[20:56 --> 21:31] Okay, I only got a little hurt there. Oh great. There's the exit. Okay. I wasn't feeling the fear. Okay, let's wait for everybody\n[21:33 --> 21:35] So there's really none of my lights are on in here\n[21:35 --> 21:50] I think texts\n[21:50 --> 21:52] Getting texts from the human world\n[21:54 --> 21:58] Whoo\n[22:05 --> 22:07] All right, is there anything else in there?\n[22:07 --> 22:14] Here, can you take this? Yeah, did everybody die? No, go go go go. Just go\n[22:18 --> 22:23] He's probably okay screams for fun. Yeah, you're right. Everybody loves a good scream\n[22:23 --> 22:25] They're probably dead\n[22:26 --> 22:28] It is also five. So there's probably a giant out\n[22:29 --> 22:37] Yeah, we need to go\n[22:37 --> 22:41] So they needed to go past the goo and the bracken to get out. So I think they're probably dead\n[22:42 --> 22:47] Yeah, I just jump straight into the goo like an idiot. Yeah, I got over it. That's the only way I got down\n[22:48 --> 22:50] Maybe with the bracken. Oh\n[22:52 --> 22:53] Okay\n[22:53 --> 22:55] Good to see you MSG. I'm doing just fine\n[22:56 --> 23:03] Okay, I think oh, okay. Chris is up. Chris is almost there. Chris is almost just fall\n[23:05 --> 23:08] Oh, no, Chris fell he fell looking at the exit\n[23:09 --> 23:12] I'm gonna get us whole two walkie talkies. How much are this?\n[23:12 --> 23:14] Okay, everyone is dead\n[23:15 --> 23:17] Besides flowers\n[23:17 --> 23:22] Yeah, they needed to run past the bracken and the ooze and then you get to where you can see the door\n[23:22 --> 23:27] But if you just run straight, there's a jump. Yeah, go around which it looks like that's what flowers is doing\n[23:27 --> 23:30] Chris fell through the jump. Unfortunately\n[23:30 --> 23:34] The bracken's hanging out with them\n[23:34 --> 23:35] Shit flowers\n[23:35 --> 23:37] Uh-oh, he's lost\n[23:41 --> 23:45] I'm closing the door just because it's nighttime and the the monsters are coming soon\n[23:46 --> 23:52] Could he die? I don't see anything around us immediately. Yeah, chris fell. No, no flowers is gonna make it out\n[23:52 --> 23:58] He's gonna make it out. Yeah, if he just goes out the front. Oh, oh no, wrong way. It's right there. It's right there. Turn it around. Turn it around. Turn it around.\n[23:58 --> 24:00] No\n[24:03 --> 24:07] No\n[24:08 --> 24:14] Oh my god, he turned the wrong way. He went because he was right there. Oh, no\n[24:15 --> 24:20] We're still really good on it was so close to the exit. Yeah, we got plenty of shit. Oh my god\n[24:20 --> 24:26] That was hilarious. So I made I came back after my run with a full inventory and then I saw all of you guys\n[24:26 --> 24:29] We're sticking together chris and Fiona were separate\n[24:29 --> 24:35] And then you all met up together and then razz got picked off and everyone's beginning picked off one by one\n[24:35 --> 24:37] Dude, that was that was\n[24:38 --> 24:40] That was where we guys\n[24:40 --> 24:42] Flowers are so close\n[24:44 --> 24:49] I knew that I was there. I also knew that there was a way I could path around it, but I I was too lost\n[24:52 --> 24:55] Okay, fyi if you're too heavy, you can't make the jump\n[25:07 --> 25:09] Hey, Fiona, what if you don't\n[25:17 --> 25:19] Don't\n[25:19 --> 25:21] Dull out my subs\n[25:21 --> 25:24] Yes, but if I ignore my subs\n[25:24 --> 25:26] Yeah\n[25:30 --> 25:34] All right, I'm not like you. Okay. I don't ignore people. Okay\n[25:34 --> 25:41] We're all you want her to ignore our community avalanche. Yes. I like to ignore your community specific avalanche\n[25:41 --> 25:43] Just wants me to fail\n[25:46 --> 25:48] Hold up\n[25:50 --> 25:52] Yo\n[25:54 --> 25:57] Yeah, sorry, I was trying to change my settings so it wouldn't say I'm young for me anymore\n[25:58 --> 26:05] Oh, it is advanced darkness unless my thing didn't load. Oh, it's dark. Oh, uh, there's something up here\n[26:10 --> 26:11] Cool\n[26:11 --> 26:13] I'm just gonna drop this out for him\n[26:20 --> 26:24] I made the jump. I found bottles here. I'm coming back with a bottle\n[26:25 --> 26:27] Boy a bracken room. I found the fire exit\n[26:31 --> 26:35] I'm gonna try to find some stuff, you know help around\n[26:38 --> 26:41] I'm ignoring my subscribers as they oh no\n[26:42 --> 26:44] That's what she gets\n[26:44 --> 26:46] That's what she gets\n[26:47 --> 26:49] That's why you've got to engage with the community and you're right\n[26:50 --> 26:52] Teal sharpshooter the\n[26:53 --> 26:58] Glob is just leftover loot and because I didn't ignore you while live. I see that's how it works\n[27:00 --> 27:04] Avali's chat does love a good domination. I hope they can hear me right now because they know it's true\n[27:09 --> 27:17] Meanwhile, I let my chat dominate me. Oh, I thought that was monster. There's nothing in here\n[27:18 --> 27:35] But sweet sweet, okay a little bit disappointing over there\n[27:35 --> 27:37] They're\n[27:39 --> 27:41] Yeah, I've only unfortunately died with some goodies\n[27:46 --> 27:50] This is back to the entrance, right?\n[27:50 --> 27:52] Yeah, we we found the fire exit before already\n[27:53 --> 27:54] empty\n[27:54 --> 27:57] Damn, yeah, I'm a bit lost. This place is a barren wasteland\n[27:58 --> 28:03] Anything nothing that I could find yet. I think the bracken is back here. So be careful\n[28:03 --> 28:07] Yeah, that would make sense. Is there always one of him on every map? No\n[28:07 --> 28:09] He's just been hanging out with us today\n[28:10 --> 28:12] Yeah\n[28:12 --> 28:14] There we are seven creatures on other maps\n[28:16 --> 28:18] Oh, that's that annoying thing\n[28:18 --> 28:23] Uh, what does the mouth thing do? It doesn't actually attack, but it can spray out gas. I think\n[28:24 --> 28:29] Yeah, and you don't want to corner it then it affects if you corner it. Yeah. Oh, it like feels\n[28:29 --> 28:31] Pressured. Yeah. Yeah\n[28:33 --> 28:35] Where he is\n[28:35 --> 28:37] Yeah, he bolted\n[28:38 --> 28:41] Damn. Oh, there's a bracken. Bracken. Bracken\n[28:48 --> 28:53] Oh, got it. Stay together. Stay together. Stay together. Everybody's still alive. This way. Stay together. Stay together\n[28:54 --> 28:56] Where's case with that flashlight? Stay together. Right here\n[28:57 --> 29:00] We just got to kind of swivel around so it doesn't sneak up and break our necks\n[29:01 --> 29:05] Yeah\n[29:05 --> 29:07] Okay, thank god\n[29:07 --> 29:09] All right, back at the start\n[29:09 --> 29:10] Yeah\n[29:10 --> 29:14] You can always find the emergency exit, but oh, it's right here. It's right here. Nice\n[29:15 --> 29:17] Maybe we should just go bee hunting\n[29:17 --> 29:19] Yeah, let's bail everyone out\n[29:20 --> 29:24] How are you supposed to do the bee thing because every time you go near the bees you just die somebody\n[29:24 --> 29:26] So you need okay, so there's a hive here\n[29:27 --> 29:32] Um, what we need to do is get one person to lure the bees away like basically draw aggro\n[29:33 --> 29:37] And then another person gathers the hive, but you gotta go in the opposite\n[29:38 --> 29:40] Oh\n[29:42 --> 29:45] You gotta go in the opposite direction of the ship when you draw the bees aggro\n[29:46 --> 29:47] I'll go\n[29:47 --> 29:53] I mean we're far enough away that if we lose the bees we're fine, but we just need to find the ship first\n[29:53 --> 29:56] Oh, yeah, okay. I think the ship is usually this way\n[29:57 --> 29:59] I think it's uh\n[30:00 --> 30:02] I think it's this way, but i'm not sure\n[30:03 --> 30:05] Okay, maybe that\n[30:06 --> 30:15] Seems like nothing\n[30:15 --> 30:18] Yeah, you don't want to be lost with bees chasing you\n[30:20 --> 30:22] That would be funny\n[30:22 --> 30:24] Well, it's it's pretty short\n[30:25 --> 30:27] But it's a short good laugh\n[30:30 --> 30:32] The bees\n[30:33 --> 30:38] Oh, we're back at how'd we get back here? Did we go in a full circle? We went in a full circle. Surely not\n[30:39 --> 30:43] It's the bee right here. Oh yo found a log. Goodbye\n[30:45 --> 30:48] Maybe it's this way\n[30:48 --> 30:54] Wait, man, we're in the forest. Is that big dude gonna come beat our asses? Yeah, I'm like pretty soon. We better hurry\n[30:55 --> 30:57] I'm sorry\n[30:57 --> 31:00] I feel like it's around across one of these ridges\n[31:01 --> 31:04] So we came out that way. Maybe it's more to the right\n[31:05 --> 31:07] Yeah, maybe if we just fall if we just fall over the bridge\n[31:07 --> 31:10] Uh-oh, uh-oh quicksand careful quicksand quicksand quicksand\n[31:12 --> 31:14] Yeah, we're good. We're getting quicksand quicksand quicksand\n[31:15 --> 31:17] Careful. All right\n[31:18 --> 31:23] Okay, we're good. We're good. Oh, here's the ship. Wait, never mind. It's not I got excited\n[31:24 --> 31:26] I'm just kidding\n[31:26 --> 31:34] It's feminine. We're lost. Where the hell are we gentlemen? We are fucking lost. Shit\n[31:35 --> 31:37] Cochre forest\n[31:37 --> 31:39] This could be it\n[31:40 --> 31:41] Ship\n[31:41 --> 31:43] Anyone ship\n[31:43 --> 31:47] Can I get up here? Hello ship. We're going back in that circle\n[31:58 --> 32:00] To the left is back to the fire escape\n[32:02 --> 32:08] Yeah, the fire escape is back this way. Okay. We got him. We got him\n[32:09 --> 32:13] The fire escape is back there. If we go left, I think we're just gonna hit the fire escape again\n[32:14 --> 32:19] Unless I thought we should go right if we if we go back into the fire escape the actual entrance is really close to it\n[32:19 --> 32:20] That's true\n[32:20 --> 32:22] Is it? Yeah, I was pretty close\n[32:23 --> 32:25] Yeah, we can just pass back through the building\n[32:26 --> 32:30] All right, if we go around in a circle again, then we can get back inside. Oh, it's almost 6 p.m\n[32:30 --> 32:34] Yeah, we're running out of time. There's a problem. Yeah, that giant's gonna be out\n[32:35 --> 32:38] What's more scary the giant or are you going back inside a ship?\n[32:39 --> 32:40] The giant\n[32:40 --> 33:12] Oh, shit. What is that?\n[33:12 --> 33:14] Nice\n[33:14 --> 33:16] Oh, he must be dead\n[33:17 --> 33:19] Fiona's dead, too. Did they die right now?\n[33:21 --> 33:25] Ovely just fell. Wow, there are 20 objects outside the ship. They fell together\n[33:26 --> 33:30] We got plenty of shit. We didn't get anything now. That's not good. Now we didn't we got a key\n[33:30 --> 33:35] That's it. But we didn't die and we needed to turn in so that's the most important thing. Yeah\n[33:37 --> 33:42] They probably died of the Bracken or something, right? Ovely just jumped off of edge. Sorry to do it\n[33:43 --> 33:45] I think they fell together\n[33:45 --> 33:47] Okay\n[33:47 --> 33:49] Okay, I explained themselves\n[33:49 --> 33:51] All right, we did it. Yay\n[33:51 --> 33:53] You guys jumped and died\n[33:53 --> 33:57] Okay, you didn't see it. Okay, so you didn't see it. It fell right next to you\n[33:59 --> 34:05] Like like, I mean you were there and then I fell right next to you. Oh, man. Everybody was falling right next to me\n[34:06 --> 34:08] Yeah, right next to you. All right\n[34:10 --> 34:12] Yeah, I I walked into the building\n[34:12 --> 34:15] And I made three right turns and I literally died of the Bracken\n[34:15 --> 34:21] That is actually so insane that you died that fast. I would have preferred to fall, dude\n[34:21 --> 34:26] That was yeah, well, that's what your course got dragged into a brown room\n[34:29 --> 34:33] All right, there we go\n[34:35 --> 34:38] No, we should we should turn in everything the money\n[34:39 --> 34:41] We'll get walkie-talkies\n[34:42 --> 34:45] We'll get walkie-talkies because those are uh\n[34:46 --> 34:48] Wait, I stored the difference\n[34:49 --> 34:53] Yeah, I'm gonna need a flashlight coming up here the uh the darkness is starting to do\n[34:54 --> 35:00] Hear me out flashlights are for posties. Oh never thought of it that way. Are we selling everything? Yeah, we did\n[35:01 --> 35:03] Okay\n[35:05 --> 35:07] I didn't get anything\n[35:07 --> 35:09] I\n[35:09 --> 35:11] Didn't help\n[35:19 --> 35:23] We're rich paycheck nice. Holy shit. We dunked it\n[35:23 --> 35:30] I am because I don't want them to hear me calling out subs. It would be so hear me out push to talk\n[35:31 --> 35:32] What?\n[35:32 --> 35:34] But I don't have push to talk\n[35:35 --> 35:41] You do you can turn it on in this game inside the game, but but then but then you guys won't hear me yell\n[35:42 --> 35:44] Oh, no, you push to talk very well\n[35:46 --> 35:49] But that will require me to do two things at the same time\n[35:50 --> 35:52] I know it's so hard\n[35:52 --> 35:56] That's but at the same time everyone else benefits. This is an advanced game\n[35:57 --> 36:01] All right, I sold the last batch of items. All right, did they did the money come in?\n[36:01 --> 36:04] Oh, yeah, I just noticed you have a that's a pretty cool hat\n[36:05 --> 36:06] Huh?\n[36:06 --> 36:09] Your hat it's a cool. Oh, thank you. Thank you\n[36:10 --> 36:13] A dear friend got me this light up hat that says oh dear on it\n[36:14 --> 36:16] Less cool now with the pun, but still cool\n[36:17 --> 36:21] Okay, here. I'm getting I'm ordering four flashlights\n[36:24 --> 36:27] Oh, cool. Uh, I'll get us three walkies\n[36:28 --> 36:31] All right, I'm gonna go get another beer beer right back\n[36:31 --> 36:36] Another that's not in the game. That's not in the game actually they should put it in the game\n[36:37 --> 36:39] And then what it is cool\n[36:41 --> 36:43] Let's see what's the best\n[36:45 --> 36:53] Oh, we got a teleporter already putting on yeah, let's go we we were just like 20 short of being able to get the um\n[36:54 --> 36:56] What's it called?\n[36:56 --> 37:02] rend\n[37:09 --> 37:11] Maybe that works\n[37:11 --> 37:16] And we take off right now testing. All right. How does this teleporter work?\n[37:17 --> 37:22] So this is this is how the teleporter works. So come here. I'll teach\n[37:23 --> 37:30] So you select someone so this is razz, right? And then you there's this button right here and you press the beam up\n[37:32 --> 37:36] Wait, it can save someone anywhere. Yeah, but you lose your item\n[37:36 --> 37:39] But you can't carry items with you. So all\n[37:40 --> 37:44] So pretty much all it is is like you're stopping them from the death penalty of money\n[37:45 --> 37:52] Or yes, or what you can do is you can uh get their bodies back if they're already dead\n[37:52 --> 37:54] Wait, you can port dead bodies\n[37:54 --> 37:56] You can port dead bodies\n[37:57 --> 37:59] Do you guys hear me now? Yes\n[37:59 --> 38:03] Hello, I hear you or if you're genie you can suck a monster into the ship\n[38:03 --> 38:05] Yeah\n[38:08 --> 38:11] Can you guys do you guys see me as unknown still or am I you're feeling good?\n[38:11 --> 38:15] Me too. This guy. All right. Hey for anyone to take a walkie. Make sure to turn it on\n[38:16 --> 38:18] So many times. I'm on walkie\n[38:21 --> 38:26] All right, so Ian and Chris Chris do you want to be termed again? Yeah, I'm gonna walkie in the\n[38:27 --> 38:33] Uh case here. What is an overtime bonus? You can actually kill the bracken by the way if you stonish and it was shoveled\n[38:35 --> 38:36] Yeah, oh\n[38:36 --> 38:40] I mean, we're working constantly. Why are we always on overtime? All right, I got a wife\n[38:47 --> 38:52] There's an extra flashlight and also a walkie talkie. We should just save one of the walkies\n[38:53 --> 38:55] Okay, should I not use this flashlight?\n[38:56 --> 38:58] All right, let's go\n[38:59 --> 39:01] Hazard level b. Is that more dangerous?\n[39:03 --> 39:05] That's like not that slightly more\n[39:08 --> 39:11] I think s is very dangerous. A is pretty dangerous\n[39:16 --> 39:21] I've never gotten past the second quota on this game, so I don't actually know what the end games\n[39:22 --> 39:26] We easily will and it gets way harder way faster. It's great\n[39:26 --> 39:32] Cool, it's beautiful. So we landed on an eclipsed planet where all the night creatures are out during the day\n[39:32 --> 39:34] Oh, yeah, I that happened when I talk\n[39:36 --> 39:38] When we play the taco and shelby\n[39:41 --> 39:44] Both of the fire exits are in the same room right next to the entrance\n[39:45 --> 39:48] Okay, that's fine. It's kind of troll. That's a little unlucky. Oh my god\n[39:49 --> 39:51] There's that one\n[39:55 --> 39:57] This one\n[39:57 --> 40:00] And they teleport you to different parts of the map. That's exciting\n[40:00 --> 40:04] Okay, so we never played league of legends with ovally on stream. Oh my god, I would get so destroyed\n[40:05 --> 40:09] Oh my god, I almost fucking died again. What's the fuck wrong with me?\n[40:09 --> 40:11] You got it. Hello\n[40:12 --> 40:14] It's an empty over here\n[40:16 --> 40:20] So we got a jump\n[40:27 --> 40:30] If you want to start singing, it's really a bad sign for us living. It's really good\n[40:31 --> 40:33] We took it\n[40:33 --> 40:35] Okay, somebody took that too early\n[40:37 --> 40:39] Really?\n[40:39 --> 40:41] Do we just keep going? Yeah. Yeah\n[40:42 --> 40:45] Put a fucking troll. We die. I gotta kill you.\n[40:46 --> 40:49] Oh, is there anybody on walkie at the ship? Oh, yeah\n[40:50 --> 40:52] Oh, there's nothing here. Okay\n[40:53 --> 40:55] Is there anybody on walkie?\n[40:55 --> 40:57] Who's on cops?\n[40:57 --> 41:01] Uh, yeah, you have to jump. You have to go across the jump. You're gonna have to jump and I don't think you're gonna make it\n[41:02 --> 41:04] Oh, what was that?\n[41:05 --> 41:11] You fail. The weight doesn't matter. Well, well, Chris failed. So is that the way out?\n[41:21 --> 41:24] So peaceful this way, but unfortunately it's a dead end\n[41:26 --> 41:31] Okay, anybody uh, any items down here? It seems like it's just a dead end this jump\n[41:32 --> 41:34] I can make this jump. Wait, why are you jumping back?\n[41:35 --> 41:41] Because she went the wrong jump. Oh, it's the other jump. Oh, the other comes upstairs. Oh, I went up here\n[41:42 --> 41:44] Either what?\n[41:45 --> 41:51] There's got to be more shit. Yeah, that leads back to the ship. This jump? Yeah, that leads back. I'm on radio\n[41:53 --> 41:57] I didn't do that. That's crazy. There's got to be more stuff over this way, right?\n[41:57 --> 41:59] So\n[42:02 --> 42:05] Uh, I don't know the way back, right? Do you know the way back so I can take this engine out of here?\n[42:07 --> 42:10] Copy that. There's a mine. Did this come with me? All right\n[42:13 --> 42:17] Okay, what about here? Anything over here? Just mines. I found this engine down here, but that's it\n[42:19 --> 42:22] Hold on. I'm radioing back to radar one second. Another jump?\n[42:23 --> 42:25] Any items here? Bye\n[42:27 --> 42:31] I think you have to be directly on it. Dude, this place has so many jumps. What the fuck?\n[42:32 --> 42:37] It's here somewhere. Yeah, we saw the line. The way back out is this way. I'm almost certain. Is this the way out guys?\n[42:38 --> 42:40] This is not the way out. This is a jump.\n[42:45 --> 42:50] We have to jump to get out. This is a dead end over here.\n[42:56 --> 43:01] It doesn't seem like there's many items down here. Maybe we should just fail. How many items do we have left?\n[43:02 --> 43:04] I mean, there's 20 on most planets, right?\n[43:10 --> 43:14] All right, I found a big room over here. Can anybody hear me?\n[43:17 --> 43:21] Well, if you come towards the side of my voice is a bigger room. I'll look around in it\n[43:25 --> 43:29] I'm over this way to get out. I don't know. I don't know if it's good to get out\n[43:30 --> 43:32] I'm this way. I'm over here\n[43:35 --> 43:37] Oh\n[43:39 --> 43:41] Wait, there's a monster\n[43:42 --> 44:35] Big time monster. Oh, that's a dead end. Oh, that was a good teleport\n[44:37 --> 44:42] What are you looking at? I can tell. That was one of those dog things with the two legs. Oh, okay\n[44:44 --> 44:47] It would kill me. Yeah, we're good\n[44:49 --> 44:52] Damn, I will miss my flashlight, but what can you do?\n[44:52 --> 44:59] Move any money. I can't give you mine. Oh, you teleported case out. Yeah, he's gonna die. Oh, that's oh wait\n[44:59 --> 45:03] So you lose your your flashlight any items? Yeah, all right. Okay guys guys\n[45:04 --> 45:06] Chris\n[45:07 --> 45:12] All right, okay, so there's there's another beehive if we want to get try to get two beehives. Otherwise, let's do it\n[45:14 --> 45:16] Okay, otherwise there's one on the back of the ship that I got\n[45:17 --> 45:18] Okay\n[45:19 --> 45:23] Are we ready hold on hold on hold on hold on hold on I'll TP whoever's getting chased by the bees\n[45:23 --> 45:27] If you have stuff the bees if you're on bee quest if you have stuff drop it in here before you go\n[45:28 --> 45:30] Because you will die. We're not losing our shit for bees\n[45:31 --> 45:37] And you guys let me know who's aggroing the bees so I can TP them if uh, well, so so the tech the tech\n[45:38 --> 45:40] Is that I put one on the back of the ship because\n[45:42 --> 45:47] The bees stay on the planet when the hive stays on the ship so we could just take it without any\n[45:48 --> 45:54] Okay, where's the other one? Where's the second hive though? The second hive is here. Follow me down this way. Yeah, I'm gonna see how you guys\n[46:01 --> 46:03] I'm more of a no strategy guy\n[46:08 --> 46:13] It is overwhelming it is overwhelming hearing people actually want to win a game. Yeah, I'm just not used to it\n[46:16 --> 46:19] What's up fee? I feel I feel like I'm annoying\n[46:22 --> 46:24] We're being told\n[46:28 --> 46:30] Yeah, I just want to get eaten by a big by a big\n[46:30 --> 46:34] Dogs can hear you but not see you. Oh, if you're talking they'll come kill you\n[46:36 --> 46:38] Are they only overworld enemies or can there's all this one?\n[46:40 --> 46:42] They can come in the ship and kill us\n[46:45 --> 46:47] Okay, Chris\n[46:48 --> 46:52] I'm gonna I'm gonna yell I'm gonna yell start the ship and then start the ship. Okay\n[46:53 --> 46:55] Okay\n[46:57 --> 46:59] Start the ship get in here\n[47:04 --> 47:06] Don't close it\n[47:08 --> 47:10] It's the bees\n[47:19 --> 47:21] Thanks for the follow\n[47:21 --> 47:26] That's pretty good. I guess almost 100 already. You've stumbled into the worst gamer on twitch\n[47:26 --> 47:32] Yeah, we got this shit. We can definitely hit render tighten after the front. What is what is\n[47:34 --> 47:39] You are about to tighten your butthole once you land on that planet. Oh, that was actually clever. Good job\n[47:39 --> 47:44] You usually got to like pay a bunch of money for that. I worked really hard on it. I worked really hard\n[47:46 --> 47:48] The express is\n[47:50 --> 47:54] This is a nice abstract sculpture we have in the ship here. What do you call it?\n[47:56 --> 47:58] I call it\n[48:01 --> 48:03] Make sure to charge your stuff before you guys leave\n[48:05 --> 48:07] Yep, charge your stuff charge your stuff\n[48:11 --> 48:13] She lived I think\n[48:16 --> 48:18] I think she survived\n[48:20 --> 48:23] That's why that's why you gotta not try to copy will you know\n[48:25 --> 48:27] He's his own person\n[48:27 --> 48:29] Case would you shut the fuck up?\n[48:29 --> 48:34] Eric, obviously I want to but I'm compelled by my anxiety to endlessly talk\n[49:01 --> 49:03] Axel that's a dead end over here\n[49:05 --> 49:07] Already a dead end\n[49:07 --> 49:11] Oh, there's a goo. Oh, there's a goo in the door. Yeah, touch it\n[49:12 --> 49:15] Touch it. Okay, this way looks promising\n[49:21 --> 49:23] Turn it turn it turn it\n[49:26 --> 49:33] Turn it turn it t-minus 600 hours\n[49:34 --> 49:45] I mean Chris is a fucking god. Oh, Eric. I'm not offended either way\n[49:46 --> 49:52] I mean, you're right either way. I should shut the fuck up. Yo, that was the response to fear\n[49:53 --> 50:03] Oh my god, so much stuff. What the hell? All right, I better not die. Is there a fire exit conveniently anywhere right here?\n[50:05 --> 50:11] What is that noise? It's this fucking toy. Unfortunately. Oh, I was like holy shit is a monster coming?\n[50:12 --> 50:14] I should try to get it out of here\n[50:14 --> 50:16] Because I have a bunch of stuff now\n[50:17 --> 50:20] But I as usual wasn't paying attention to what the way out is\n[50:35 --> 50:37] I found a bunch of items\n[50:41 --> 50:44] Oh, no, she said she was gonna do well and then she got gooed\n[50:48 --> 50:50] I mean gamers are always saying to get gooed\n[51:00 --> 51:12] What's the way out? Oh the goo went the other way\n[51:13 --> 51:15] Nice\n[51:15 --> 51:17] Allowing me to heroically leave\n[51:20 --> 51:22] All right. I got a stop sign and a key\n[51:25 --> 51:27] Uh case. Did you miss any news?\n[51:27 --> 51:33] Um, no, sorry and also I'm so slow to reach out even slower than on my news\n[51:34 --> 51:36] I'm so easily confused\n[51:36 --> 51:39] I think today it'll just be this tomorrow. We'll be back on our news grind\n[51:40 --> 51:44] for a bit\n[51:44 --> 52:01] But thank you for caring these noises\n[52:02 --> 52:09] This thing is insane\n[52:09 --> 52:11] I think it's back this way\n[52:11 --> 52:13] Yo, who's over there?\n[52:13 --> 52:16] Yeah\n[52:16 --> 52:19] Hey, I got this dead guy. You need to bring him back to the boat\n[52:19 --> 52:24] Okay, I couldn't send any better sporophyte. I will forever barely know what I'm talking about\n[52:25 --> 52:27] Oh, somebody's got the robot\n[52:27 --> 52:29] I do. I wish I didn't\n[52:30 --> 52:32] This is a pretty\n[52:32 --> 52:35] bum planet\n[52:35 --> 52:37] Damn, I'm always being pretty mean about this planet\n[52:38 --> 52:42] Yeah, it's a pretty bum planet, but we've already met quota so we can just dip\n[52:43 --> 52:45] Let's go to a different one\n[52:45 --> 52:47] Why am I scared? Oh, it's a flashbang\n[52:49 --> 52:51] Why did I just get scared?\n[52:52 --> 52:55] Because chris is dead hurt uh rather dead body\n[52:57 --> 52:59] All right, all right\n[53:04 --> 53:09] Look at that uh stop sign sleeping on the job wait who did we lost two?\n[53:10 --> 53:12] Yeah\n[53:12 --> 53:15] You know, it was like I'm gonna do well this map and then she just immediately got murdered\n[53:16 --> 53:18] Immediately stepped into the goo\n[53:19 --> 53:23] Yeah, uh, no, don't sell the stop signs unless we really need to because they could be weapons\n[53:24 --> 53:25] Right, okay\n[53:25 --> 53:30] Here Faris, let me show you. I know how they work. Oh my god. She's gonna kill us all\n[53:33 --> 53:35] Say disrespect\n[53:36 --> 53:38] We're speaking ill of the dead now\n[53:38 --> 53:43] Disrespect that you guys were just fucking roasting, but I was dead, okay\n[53:43 --> 53:48] All right, but I'll tell you this this round. I'm gonna do so fucking good\n[53:48 --> 53:50] No\n[53:57 --> 53:59] All right, I believe in you dude rock and roll\n[54:00 --> 54:02] We got it\n[54:04 --> 54:06] Charging the old light\n[54:07 --> 54:09] Guide us\n[54:09 --> 54:11] Is the little yellow bar in the top left\n[54:12 --> 54:15] Amina and health is that my my battery? Yeah, the yellow bar\n[54:15 --> 54:19] That's your electricity. Yes. Yeah, that's for your flashlight or anything\n[54:21 --> 54:24] Yes, I would highly recommend buying this game or pulling this game. It's fantastic\n[54:25 --> 54:30] You could do it solo or with friends. It's only $10. Obviously this game is an incredible deal\n[54:31 --> 54:33] And it's made by a furry\n[54:35 --> 54:37] It's it's made by a furry\n[54:37 --> 54:39] A single furry\n[54:40 --> 54:42] Look at what one furry can do\n[54:42 --> 54:44] Are you fucking Gino?\n[54:44 --> 54:45] Yeah, maybe\n[54:45 --> 54:47] Furry has run the world\n[54:47 --> 54:49] What?\n[54:50 --> 54:52] The truth who runs the world? Capital\n[54:53 --> 54:55] Furry's dead\n[54:55 --> 54:56] Heavy\n[54:56 --> 54:58] I know I'm not actually heavy\n[54:58 --> 55:00] I feel heavy\n[55:02 --> 55:05] Okay, you know, we've got the the power generators in this room\n[55:06 --> 55:10] Exactly reverie. Don't tell loudly. Oh, you don't do it. Never let them disempower you\n[55:10 --> 55:12] Stop it\n[55:14 --> 55:17] I got bottles and a tea kettle immediately. We are\n[55:20 --> 55:23] I got bottles and a tea kettle. We're fucking in the money\n[55:29 --> 55:32] If you play this game long enough, you'll start going through your trash\n[55:33 --> 55:35] Oh, okay. That's just a door\n[55:40 --> 55:42] Some nice terrifying noises being\n[55:43 --> 55:44] Ball\n[55:44 --> 55:46] What is that?\n[55:46 --> 55:50] Nice\n[55:50 --> 55:53] Uh, it's just doors terrifying. Oh, no fire exits over here\n[55:54 --> 55:55] Where's the cake?\n[55:55 --> 56:00] Uh, with the sound of my voice over here. We're coming. We're coming. We're coming. A little fire exit\n[56:01 --> 56:03] And a deadly jump that we probably have to take\n[56:03 --> 56:05] Nice\n[56:05 --> 56:06] Okay. Oh fire\n[56:06 --> 56:11] All right, I will sacrifice actually what item speak. Wait, wait, wait. What item see them? Yeah, let me drop this\n[56:12 --> 56:14] You know, I'll drop this\n[56:14 --> 56:20] Let's do things to go back to ship. Well, don't take the flashlight actually. That's cute. Yeah. Yeah, I'm on walkie. No, no take my flashlight\n[56:21 --> 56:23] Okay\n[56:23 --> 56:25] I'm going on walkie\n[56:26 --> 56:28] Oh, there's nothing don't even uh shoot\n[56:28 --> 56:31] Oh, shit\n[56:31 --> 56:35] We're I'm on the line with case me and case me and case are together\n[56:35 --> 56:37] We're together\n[56:37 --> 56:39] Jealous chat. We\n[56:41 --> 56:43] Oh my god, I thought you were dead\n[56:43 --> 56:46] Okay, so that was Chris opening the doors for us by the way\n[56:46 --> 56:48] Okay, can you leave us to where the doors are? Oh\n[56:49 --> 56:51] One of those head guys\n[56:52 --> 56:54] Should we just bail?\n[56:54 --> 56:59] I think we're leaving now. I think we're leaving. Yeah, let's go. Let's go. If we had us\n[57:00 --> 57:04] I guess somebody should start taking a stop sign because then those head guys aren't that bad\n[57:05 --> 57:07] All right, we can deal with them\n[57:08 --> 57:10] I thought Avaly was gonna be our uh\n[57:12 --> 57:14] That was like a little worm dude the head worm\n[57:15 --> 57:17] For he's run the internet honestly reverie you're probably right\n[57:20 --> 57:27] There's a strong correlation between are we going the right direction by the way deviant art og's and like the bleeding heart of the internet\n[57:28 --> 57:30] Just straight ahead from here bottles\n[57:32 --> 57:36] Apparently because you never know when someone that rich will just jump to their death\n[57:44 --> 57:51] Still on track. I'm assuming\n[57:51 --> 57:53] For he's are everywhere man\n[57:53 --> 57:55] If yeah, copy that. Thank you\n[57:59 --> 58:01] I didn't take it this time. Just so you know\n[58:01 --> 58:03] Who took it?\n[58:03 --> 58:05] I don't know. Do you want to but you gave it to somebody else I see\n[58:06 --> 58:08] No, I I didn't touch it. I didn't do shit\n[58:09 --> 58:11] I took flat rate back to the ship because he was long\n[58:11 --> 58:13] I got it guys\n[58:16 --> 58:20] I got it. Well, because I thought everyone was dead. Wait razz is headed off in the wrong direction\n[58:21 --> 58:23] razz is going for a beehive\n[58:23 --> 58:24] Where is he?\n[58:24 --> 58:29] Oh, uh, I don't know looking for eye. I guess. Yeah, he's looking for a beehive, but I too will look for a beehive\n[58:30 --> 58:32] There aren't any around us\n[58:35 --> 58:38] I'm on radios. Just call us back if we need to come back\n[58:38 --> 58:43] Ian, I'm with you\n[58:43 --> 58:46] Copy that. Yeah, I don't think I think razz dropped all those items correct\n[58:47 --> 58:52] I should have looked at the flashlight\n[58:52 --> 58:54] Careful\n[58:54 --> 59:02] We're good. We're good. There's little fly boys the manticoyle. What do those do? They don't attach the bird. They're neutral. Okay\n[59:03 --> 59:05] That's the manticoyle the kind of bird thing\n[59:06 --> 59:14] Damn, how are there no beehives? Hello? Any luck bud?\n[59:15 --> 59:17] Hey guys any bees?\n[59:27 --> 59:29] What a perfect noise\n[59:29 --> 59:33] He had a walkie talk. Yeah, he acted that really well. That was somebody put him up to the end. Was that Ian?\n[59:34 --> 59:39] Yeah, that was Ian. Oh fuck Ian had the walkie talk. Yeah, he had the walkie. No, we just we just lost it\n[59:39 --> 59:42] It's in the fucking sand. Well, I guess let's head back\n[59:45 --> 59:49] They beat me to it\n[59:49 --> 59:51] Dude fast acting on Ian on the voice acting god damn\n[59:56 --> 59:58] What god damn folks\n[59:58 --> 01:00:00] Incredible work lot in there\n[01:00:02 --> 01:00:03] Yeah, yeah, yeah\n[01:00:03 --> 01:00:05] Well, we lost a walkie\n[01:00:06 --> 01:00:08] Our bee adventure was probably not worth it\n[01:00:09 --> 01:00:11] What happened? Ian died\n[01:00:12 --> 01:00:14] Oh, Ian died. Yeah\n[01:00:14 --> 01:00:16] What a nerd\n[01:00:16 --> 01:00:18] Bummer. Is anybody still out there?\n[01:00:19 --> 01:00:23] Um flowers. Oh, they're still called quicksand, but oh new outfit\n[01:00:25 --> 01:00:28] New outfit. They're still in the thing outfit change\n[01:00:28 --> 01:00:30] green gang\n[01:00:30 --> 01:00:32] Green gang. Oh razz is still active\n[01:00:33 --> 01:00:35] Razz and flowers are both lost out there\n[01:00:36 --> 01:00:39] Time is it? I could start. Are they in the facility? Do you know if they have any?\n[01:00:39 --> 01:00:42] Razz flowers razz flowers\n[01:00:43 --> 01:00:47] Is anybody in the facility fine? No, no one's in the facility\n[01:00:49 --> 01:00:52] Oh, they're lost\n[01:00:57 --> 01:01:01] Razz\n[01:01:01 --> 01:01:04] Oh razz. Oh, it's 521. I'm gonna get killed. I stay out here\n[01:01:07 --> 01:01:09] me\n[01:01:09 --> 01:01:11] I am but one I am but one man\n[01:01:12 --> 01:01:14] Is that? Oh, I guess that was you\n[01:01:15 --> 01:01:19] I was just sprinting out a little ways to see if I could find razz, but I think a monster's about to appear that will kill us\n[01:01:21 --> 01:01:24] Um, where they like come out around five\n[01:01:25 --> 01:01:27] Yeah, they're going the wrong way\n[01:01:29 --> 01:01:31] I mean razz has a flashlight. I think I can\n[01:01:37 --> 01:01:41] So this is an example of when you got to be quick on the teleporter draw\n[01:01:42 --> 01:01:47] Because if you see a red thing running towards them, you're gonna want to just like quickly TP them out\n[01:01:48 --> 01:01:51] Oh, they made it there. Oh, okay sick. They made it\n[01:01:53 --> 01:01:57] The giant is out the giant is out. Hop on hop on the ship. Let's go\n[01:01:59 --> 01:02:03] You guys need to beam Ian's body back. He drowned in the no, no, no, no. We can't we tried we tried\n[01:02:04 --> 01:02:06] Excuse me. Where did you guys get your green outfits? Yeah, where'd you?\n[01:02:08 --> 01:02:13] Um, we actually got uh fly as hell, right? We got promoted because we're uh\n[01:02:14 --> 01:02:16] Better employees than you actually\n[01:02:17 --> 01:02:20] That's exactly what it is. Let me just dance it out real quick. It's just a\n[01:02:22 --> 01:02:24] Oh\n[01:02:25 --> 01:02:29] Yeah, yeah, I'm not going to look for anything ever again\n[01:02:32 --> 01:02:37] Your death battle was really do you have no walkie-talkie left? I've just been promoted flowers\n[01:02:38 --> 01:02:41] All right company company wait, and how about all of touchy?\n[01:02:42 --> 01:02:44] Yeah, you're the recruit buddy. Don't worry about it\n[01:02:45 --> 01:02:47] Oh, they're ready to turn you can change your secret\n[01:02:47 --> 01:02:50] In turn. Yeah, go give me some coffee. Coffee boy\n[01:02:51 --> 01:02:53] Yeah, give me some coffee\n[01:03:03 --> 01:03:06] I sell this apparatus sell everything\n[01:03:09 --> 01:03:13] Don't sell the keys. Oh, yeah, we gotta get another walkie-talkie. Don't we?\n[01:03:14 --> 01:03:18] Yeah, don't don't buy anything yet. Do not do not purchase anything\n[01:03:19 --> 01:03:22] You're not purchase anything yet just so we can make sure that we got the money\n[01:03:34 --> 01:03:39] Down that growls it sounds like my own stomach Kevin. That's really it does\n[01:03:40 --> 01:03:42] mood\n[01:03:42 --> 01:03:45] It's listening to it the longer we listen to it the more hungry I get\n[01:03:50 --> 01:03:54] Guys I have to run and do a work thing. Is anybody in here? Is that a murloc?\n[01:03:55 --> 01:03:57] Oh, yo, what's up? I just gotta I gotta leave if anybody asks\n[01:03:58 --> 01:04:01] Oh, shit. Okay. Good luck, dude. Thank you. I might be back. We'll see\n[01:04:02 --> 01:04:04] Okay. Have a good one everybody\n[01:04:08 --> 01:04:10] Guys I gotta call it a little early today\n[01:04:13 --> 01:04:17] But I will maybe be back if I can finish this fast enough depending on how long they're playing\n[01:04:18 --> 01:04:20] Very quick stream, but\n[01:04:20 --> 01:04:22] I got a company a little bit\n[01:04:22 --> 01:04:27] All right, I'm gonna raid Fiona who's still company-ing as hard as ever. I'm assuming\n[01:04:29 --> 01:04:32] Kendall's telling me I can just stay but I have to go either way\n[01:04:32 --> 01:04:34] Um, um\n[01:04:43 --> 01:04:45] All right, everybody\n[01:04:45 --> 01:04:47] I will see you all soon\n[01:04:47 --> 01:04:49] Have a good one. Enjoy the Fiona time"
+}
