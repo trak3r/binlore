@@ -1,0 +1,4043 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 4272.6896875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 47.6,
+      "end": 85.13,
+      "text": "Hello everybody good to see you in for a little quick stream"
+    },
+    {
+      "id": 2,
+      "start": 86.81,
+      "end": 91.95,
+      "text": "Pepito does he does it by instinct. He's a creature pure instinct as always that's the power of Pepito"
+    },
+    {
+      "id": 3,
+      "start": 92.49,
+      "end": 97.45,
+      "text": "He doesn't know how to count, but he doesn't anyway good to see you all Greg T us 1000 and today"
+    },
+    {
+      "id": 4,
+      "start": 97.45,
+      "end": 102.85,
+      "text": "He jumped out gearless Joe. No, man. I am Apple. That's apple. I'll go feel 2k tasty zero"
+    },
+    {
+      "id": 5,
+      "start": 103.85,
+      "end": 112.33,
+      "text": "So breechy commander gab. Oh my gosh. Thank you all for hanging out might be a little bit of a quick one today, but I"
+    },
+    {
+      "id": 6,
+      "start": 113.21,
+      "end": 119.57,
+      "text": "Made a promise to let shut have his own science guy segment and I said I do it today"
+    },
+    {
+      "id": 7,
+      "start": 119.73,
+      "end": 122.77,
+      "text": "So it's a science guy stream most likely after we do a little news"
+    },
+    {
+      "id": 8,
+      "start": 123.77,
+      "end": 125.77,
+      "text": "Bonsai bullfrog good to see you"
+    },
+    {
+      "id": 9,
+      "start": 126.85,
+      "end": 132.13,
+      "text": "Chet will science the science. He will be performing today. I am told could get me banned"
+    },
+    {
+      "id": 10,
+      "start": 132.81,
+      "end": 134.81,
+      "text": "Permanently from twitch"
+    },
+    {
+      "id": 11,
+      "start": 135.97,
+      "end": 137.97,
+      "text": "Not permanently"
+    },
+    {
+      "id": 12,
+      "start": 138.17,
+      "end": 144.33,
+      "text": "But possibly says Kendall and it has to do with messy wings. So how is that even possible?"
+    },
+    {
+      "id": 13,
+      "start": 144.33,
+      "end": 149.01,
+      "text": "I don't know live science indeed plus your science recommendations"
+    },
+    {
+      "id": 14,
+      "start": 149.49,
+      "end": 152.89,
+      "text": "That's a life stunt from chat. That's the power of"
+    },
+    {
+      "id": 15,
+      "start": 153.37,
+      "end": 155.37,
+      "text": "Check guy the science eyes"
+    },
+    {
+      "id": 16,
+      "start": 155.93,
+      "end": 162.25,
+      "text": "Pito you excited for some science. I don't care about science. I don't believe in it. All I believe in is the moment"
+    },
+    {
+      "id": 17,
+      "start": 163.73,
+      "end": 170.29,
+      "text": "Well, that's maybe good too. It's I don't had make value judgments. He said you don't like science"
+    },
+    {
+      "id": 18,
+      "start": 170.37,
+      "end": 174.49,
+      "text": "It's not value judgments of feeling. I don't feel like it's good"
+    },
+    {
+      "id": 19,
+      "start": 175.97,
+      "end": 181.81,
+      "text": "Pito does believe in cheese the science make cheese sort of okay. I take it back. I like it"
+    },
+    {
+      "id": 20,
+      "start": 182.81,
+      "end": 186.09,
+      "text": "I'm in the moment. Yeah. Good job. Yeah"
+    },
+    {
+      "id": 21,
+      "start": 189.37,
+      "end": 195.81,
+      "text": "That's the lick Chet saucy finger honestly, I don't how messy are these wings? I guess that's what Chet's gonna have to figure out"
+    },
+    {
+      "id": 22,
+      "start": 197.61,
+      "end": 202.49,
+      "text": "Let's do a little news before then. Oh, you know speaking of news. I didn't realize"
+    },
+    {
+      "id": 23,
+      "start": 203.65,
+      "end": 205.65,
+      "text": "Yesterday there was this insane"
+    },
+    {
+      "id": 24,
+      "start": 206.69,
+      "end": 208.69,
+      "text": "He's getting weirder"
+    },
+    {
+      "id": 25,
+      "start": 209.17,
+      "end": 212.69,
+      "text": "Yesterday there was a debate about boats vs. bridges"
+    },
+    {
+      "id": 26,
+      "start": 213.33,
+      "end": 214.69,
+      "text": "on"
+    },
+    {
+      "id": 27,
+      "start": 214.69,
+      "end": 220.45,
+      "text": "Bunch of crumb and I didn't realize that I had a reference point that was very much in the news"
+    },
+    {
+      "id": 28,
+      "start": 221.73,
+      "end": 227.69,
+      "text": "In case anybody didn't realize either. I might have handled that or I would have asked them to handle that a little differently"
+    },
+    {
+      "id": 29,
+      "start": 229.13,
+      "end": 231.13,
+      "text": "But oops"
+    },
+    {
+      "id": 30,
+      "start": 231.97,
+      "end": 237.33,
+      "text": "Yeah, look at this shit a whole ass bridge collapsed around a boat"
+    },
+    {
+      "id": 31,
+      "start": 239.09,
+      "end": 244.21,
+      "text": "And Chet even eat wings with those mangled fingers. I don't know. So why is there no audio on here?"
+    },
+    {
+      "id": 32,
+      "start": 245.77,
+      "end": 251.37,
+      "text": "The video of the bridge collapsing is pretty nuts. Let me see if I can find that"
+    },
+    {
+      "id": 33,
+      "start": 253.37,
+      "end": 259.62,
+      "text": "Bridge ship collapse video. Yeah, I'm sure you guys realized"
+    },
+    {
+      "id": 34,
+      "start": 261.06,
+      "end": 264.42,
+      "text": "I'm sure if I went back to and looked at the chat instead of being"
+    },
+    {
+      "id": 35,
+      "start": 265.14,
+      "end": 268.5,
+      "text": "Blissfully unaware you were probably like yeah bridge a whole ass bridge collapsed"
+    },
+    {
+      "id": 36,
+      "start": 268.62,
+      "end": 272.18,
+      "text": "Check this out. Apparently it just couldn't"
+    },
+    {
+      "id": 37,
+      "start": 272.98,
+      "end": 275.78,
+      "text": "Steer away due to some kind of power failure or something"
+    },
+    {
+      "id": 38,
+      "start": 276.62,
+      "end": 279.62,
+      "text": "That bridge just goes down so hard. I"
+    },
+    {
+      "id": 39,
+      "start": 280.74,
+      "end": 286.34,
+      "text": "Don't think it was without injuries either. Yeah, it's I also noticed afterwards that it was in the discord"
+    },
+    {
+      "id": 40,
+      "start": 288.11,
+      "end": 290.91,
+      "text": "Yeah, yeah, no, it makes it makes a world of sense for every wolf"
+    },
+    {
+      "id": 41,
+      "start": 290.91,
+      "end": 294.63,
+      "text": "And also, you know, if I just perused the news before doing this news stream"
+    },
+    {
+      "id": 42,
+      "start": 294.63,
+      "end": 298.23,
+      "text": "I could have I could have known I could have totally known"
+    },
+    {
+      "id": 43,
+      "start": 298.23,
+      "end": 303.31,
+      "text": "But I think it's important to pay off the premise of me of me literally never knowing what's happening"
+    },
+    {
+      "id": 44,
+      "start": 304.39,
+      "end": 307.95,
+      "text": "Yes, people did die a six. That's what I heard our six were missing"
+    },
+    {
+      "id": 45,
+      "start": 308.15,
+      "end": 311.59,
+      "text": "But that's not a good sign when I mean, you just saw it happened"
+    },
+    {
+      "id": 46,
+      "start": 312.31,
+      "end": 315.01,
+      "text": "Too dead to hop hospitalized for presumed dead"
+    },
+    {
+      "id": 47,
+      "start": 315.67,
+      "end": 321.04,
+      "text": "Pretty brutal. Yes, truly a barely informed moment"
+    },
+    {
+      "id": 48,
+      "start": 321.88,
+      "end": 326.12,
+      "text": "As I just ranted about well, sorry, I actually blame munch and crumb. I'm"
+    },
+    {
+      "id": 49,
+      "start": 327.0,
+      "end": 333.16,
+      "text": "Faultless, so I guess actually I have nothing to apologize for so convenient how that works"
+    },
+    {
+      "id": 50,
+      "start": 334.76,
+      "end": 337.48,
+      "text": "So, you know, I'll just veer back into news that"
+    },
+    {
+      "id": 51,
+      "start": 338.2,
+      "end": 343.32,
+      "text": "Probably doesn't offend anyone. Well, or at least isn't that"
+    },
+    {
+      "id": 52,
+      "start": 344.2,
+      "end": 350.52,
+      "text": "Is a very low stake. Well of high stakes for one person, you know, as I say it, I realize this is a real"
+    },
+    {
+      "id": 53,
+      "start": 351.16,
+      "end": 355.78,
+      "text": "You know spicy story in its own, right?"
+    },
+    {
+      "id": 54,
+      "start": 356.74,
+      "end": 360.42,
+      "text": "12 inch yield slides of Vietnamese man's rectum"
+    },
+    {
+      "id": 55,
+      "start": 360.42,
+      "end": 365.62,
+      "text": "I did have to click on that. Obviously, that's the kind of thing I have no choice but to click on"
+    },
+    {
+      "id": 56,
+      "start": 365.94,
+      "end": 367.94,
+      "text": "Let's bring in someone to talk about it"
+    },
+    {
+      "id": 57,
+      "start": 370.18,
+      "end": 391.96,
+      "text": "Don't let them take it from me. Oh, wow. Thanks for joining us Jeff"
+    },
+    {
+      "id": 58,
+      "start": 393.56,
+      "end": 397.32,
+      "text": "Jeff Jeff"
+    },
+    {
+      "id": 59,
+      "start": 399.46,
+      "end": 403.22,
+      "text": "Having some technical difficulties that case like usual you fool"
+    },
+    {
+      "id": 60,
+      "start": 403.94,
+      "end": 407.78,
+      "text": "Uh, let's thank some people. I noticed some subs have been coming in and some bits"
+    },
+    {
+      "id": 61,
+      "start": 408.42,
+      "end": 412.18,
+      "text": "I don't miss these kinds of things because I'm Jeff ripple. God damn it microphone 900"
+    },
+    {
+      "id": 62,
+      "start": 412.18,
+      "end": 416.18,
+      "text": "Thank you so much for the resub 16 months that you've been spending with me"
+    },
+    {
+      "id": 63,
+      "start": 416.18,
+      "end": 418.18,
+      "text": "I've only been here a couple months"
+    },
+    {
+      "id": 64,
+      "start": 418.18,
+      "end": 422.82,
+      "text": "But retroactively. I'm the most important microphone 900. Thank you for the 750"
+    },
+    {
+      "id": 65,
+      "start": 423.94,
+      "end": 426.66,
+      "text": "750 fresh bits for that dog that you are poisoning"
+    },
+    {
+      "id": 66,
+      "start": 427.06,
+      "end": 431.3,
+      "text": "Kevye west 14 months a whole year a year plus"
+    },
+    {
+      "id": 67,
+      "start": 431.86,
+      "end": 436.9,
+      "text": "You're in the year plus club with me Jeff ripple even though I haven't worked here for a year and a hype train just started"
+    },
+    {
+      "id": 68,
+      "start": 437.94,
+      "end": 441.86,
+      "text": "Leading us to skull meat x barely informed for 13 months"
+    },
+    {
+      "id": 69,
+      "start": 441.94,
+      "end": 446.26,
+      "text": "I like to think I raised the bar just above barely leaving you slightly informed"
+    },
+    {
+      "id": 70,
+      "start": 446.26,
+      "end": 449.62,
+      "text": "Which is a challenge at this particular new station courtesy of this guy"
+    },
+    {
+      "id": 71,
+      "start": 450.26,
+      "end": 452.42,
+      "text": "Well, what's wise at my fault? You're the one reading it"
+    },
+    {
+      "id": 72,
+      "start": 453.06,
+      "end": 455.62,
+      "text": "It's the it's the vibe you put out. It's the precedent you said"
+    },
+    {
+      "id": 73,
+      "start": 456.5,
+      "end": 460.58,
+      "text": "Also tasty zero and tamper and thank you for the the the viewing streaks"
+    },
+    {
+      "id": 74,
+      "start": 461.38,
+      "end": 464.58,
+      "text": "You're streaking baby and I like to see it streak the yard"
+    },
+    {
+      "id": 75,
+      "start": 465.38,
+      "end": 467.38,
+      "text": "Do you need to check in with this hype train?"
+    },
+    {
+      "id": 76,
+      "start": 467.38,
+      "end": 470.26,
+      "text": "um"
+    },
+    {
+      "id": 77,
+      "start": 470.26,
+      "end": 474.9,
+      "text": "Love the hate I guess I do have to check in with the hype train jeff so you can actually take a second"
+    },
+    {
+      "id": 78,
+      "start": 475.46,
+      "end": 477.46,
+      "text": "To just chill. Oh, I'm"
+    },
+    {
+      "id": 79,
+      "start": 478.02,
+      "end": 480.02,
+      "text": "I'm gonna go. I'm gonna go piss"
+    },
+    {
+      "id": 80,
+      "start": 480.9,
+      "end": 483.78,
+      "text": "You have to tell me that I just want you to know it's gonna be a minute"
+    },
+    {
+      "id": 81,
+      "start": 484.66,
+      "end": 489.14,
+      "text": "Once I get going. I don't know how long the stream will be. I don't know and I'm not talking about this stream"
+    },
+    {
+      "id": 82,
+      "start": 490.5,
+      "end": 495.3,
+      "text": "I'm gonna be pissing for who knows how long. Okay, man. I'm just keeping you're my employer. I"
+    },
+    {
+      "id": 83,
+      "start": 495.78,
+      "end": 498.1,
+      "text": "I do not monitor my bathroom breaks. I don't"
+    },
+    {
+      "id": 84,
+      "start": 499.14,
+      "end": 502.9,
+      "text": "That's your mistake. The subs are pouring in so who knows how long I'll be pissing"
+    },
+    {
+      "id": 85,
+      "start": 503.22,
+      "end": 506.98,
+      "text": "Okay, you don't need to keep telling me. Let's go check in with the hype train. Jesus christ"
+    },
+    {
+      "id": 86,
+      "start": 507.86,
+      "end": 509.38,
+      "text": "um"
+    },
+    {
+      "id": 87,
+      "start": 509.38,
+      "end": 511.94,
+      "text": "Yeah, the ripple stream indeed these subs are flying in"
+    },
+    {
+      "id": 88,
+      "start": 512.74,
+      "end": 517.7,
+      "text": "And that unfortunately has one catastrophic effect, which is summoning the fucking hype train"
+    },
+    {
+      "id": 89,
+      "start": 519.46,
+      "end": 522.34,
+      "text": "I don't like it any more than you guys, but there's no choice. It is here"
+    },
+    {
+      "id": 90,
+      "start": 522.98,
+      "end": 526.58,
+      "text": "Um, and it does stay perpetually hyped hype train. How you doing today?"
+    },
+    {
+      "id": 91,
+      "start": 529.9,
+      "end": 531.9,
+      "text": "How do you think I'm doing it?"
+    },
+    {
+      "id": 92,
+      "start": 534.06,
+      "end": 536.06,
+      "text": "I'm nasty"
+    },
+    {
+      "id": 93,
+      "start": 542.54,
+      "end": 544.54,
+      "text": "No"
+    },
+    {
+      "id": 94,
+      "start": 545.02,
+      "end": 549.02,
+      "text": "Give me some crazy lights. You got lights now, right? They don't work for me"
+    },
+    {
+      "id": 95,
+      "start": 550.46,
+      "end": 552.46,
+      "text": "Are those lights don't work for me?"
+    },
+    {
+      "id": 96,
+      "start": 552.94,
+      "end": 554.94,
+      "text": "They work for me. Don't do my voice"
+    },
+    {
+      "id": 97,
+      "start": 555.9,
+      "end": 559.74,
+      "text": "Hey, everybody. We got subs coming in. Oh my god. I love to see them"
+    },
+    {
+      "id": 98,
+      "start": 560.14,
+      "end": 562.14,
+      "text": "Banzai bullfrog"
+    },
+    {
+      "id": 99,
+      "start": 562.7,
+      "end": 565.18,
+      "text": "Oh, yeah, that's that's real good"
+    },
+    {
+      "id": 100,
+      "start": 565.82,
+      "end": 571.66,
+      "text": "That's 17 months to be it on this train. Love to hate 14 months on this train"
+    },
+    {
+      "id": 101,
+      "start": 572.14,
+      "end": 575.34,
+      "text": "Scold me dex 13 months on this train"
+    },
+    {
+      "id": 102,
+      "start": 575.82,
+      "end": 578.7,
+      "text": "Apple dApple 100 bits for this"
+    },
+    {
+      "id": 103,
+      "start": 585.42,
+      "end": 587.42,
+      "text": "I think you need to update hype train"
+    },
+    {
+      "id": 104,
+      "start": 587.98,
+      "end": 591.18,
+      "text": "So my next goal is to update the hype train after we do this peter theme"
+    },
+    {
+      "id": 105,
+      "start": 592.54,
+      "end": 595.66,
+      "text": "I've never gone on a style man. I'm as good as ever"
+    },
+    {
+      "id": 106,
+      "start": 598.3,
+      "end": 601.26,
+      "text": "I just feel like the amount I spend the amount of time I spend with you"
+    },
+    {
+      "id": 107,
+      "start": 601.66,
+      "end": 603.66,
+      "text": "I might have to add to you slightly"
+    },
+    {
+      "id": 108,
+      "start": 604.54,
+      "end": 607.5,
+      "text": "We're going to hike me up even more. I'll think it's something"
+    },
+    {
+      "id": 109,
+      "start": 607.82,
+      "end": 609.82,
+      "text": "Oh my"
+    },
+    {
+      "id": 110,
+      "start": 612.22,
+      "end": 614.22,
+      "text": "Give me a new song"
+    },
+    {
+      "id": 111,
+      "start": 614.22,
+      "end": 616.22,
+      "text": "Find me a nasty trap beat"
+    },
+    {
+      "id": 112,
+      "start": 621.05,
+      "end": 625.45,
+      "text": "Engine trap beat I'm I have in it. I'm kind of the engine"
+    },
+    {
+      "id": 113,
+      "start": 626.33,
+      "end": 629.93,
+      "text": "Got him a lot of tight beat engine. That's what I like to hear"
+    },
+    {
+      "id": 114,
+      "start": 639.48,
+      "end": 641.48,
+      "text": "Oh"
+    },
+    {
+      "id": 115,
+      "start": 641.8,
+      "end": 644.68,
+      "text": "You really like beats lately. I'm into beats lately"
+    },
+    {
+      "id": 116,
+      "start": 646.04,
+      "end": 653.32,
+      "text": "Yeah, thank you so much for hyping my ass up. I've got two sweet minutes of life before I die"
+    },
+    {
+      "id": 117,
+      "start": 655.32,
+      "end": 657.32,
+      "text": "Before I die"
+    },
+    {
+      "id": 118,
+      "start": 658.2,
+      "end": 660.2,
+      "text": "And maybe never come back"
+    },
+    {
+      "id": 119,
+      "start": 661.32,
+      "end": 665.98,
+      "text": "Click click down my ass"
+    },
+    {
+      "id": 120,
+      "start": 666.78,
+      "end": 668.78,
+      "text": "They say damn train"
+    },
+    {
+      "id": 121,
+      "start": 669.58,
+      "end": 671.58,
+      "text": "Damn train has dropped his subs"
+    },
+    {
+      "id": 122,
+      "start": 672.14,
+      "end": 674.14,
+      "text": "You keep a chance to get back"
+    },
+    {
+      "id": 123,
+      "start": 674.78,
+      "end": 677.42,
+      "text": "Well damn train does drop the ton of subs. That's true"
+    },
+    {
+      "id": 124,
+      "start": 678.54,
+      "end": 686.78,
+      "text": "Hype train in the back with you. You are chat. Who's chat? You are chat. I'm not chat. I'm talking to chat. Where's chat?"
+    },
+    {
+      "id": 125,
+      "start": 686.78,
+      "end": 688.78,
+      "text": "They're in the back"
+    },
+    {
+      "id": 126,
+      "start": 690.38,
+      "end": 692.38,
+      "text": "I should have known that you obviously should have known that"
+    },
+    {
+      "id": 127,
+      "start": 693.1,
+      "end": 695.1,
+      "text": "How many times do I have to fucking say it?"
+    },
+    {
+      "id": 128,
+      "start": 706.15,
+      "end": 708.15,
+      "text": "Yeah, I'm aware that chat's in the back"
+    },
+    {
+      "id": 129,
+      "start": 708.31,
+      "end": 710.31,
+      "text": "Oh"
+    },
+    {
+      "id": 130,
+      "start": 728.62,
+      "end": 735.18,
+      "text": "I'm as lazy as not getting greasy or making assumptions. I'm assuming correctly that they are getting greasy probably"
+    },
+    {
+      "id": 131,
+      "start": 745.53,
+      "end": 754.47,
+      "text": "Then this is all happening over this story. That's about this 12 inch"
+    },
+    {
+      "id": 132,
+      "start": 755.43,
+      "end": 757.43,
+      "text": "He'll sliding up erect"
+    },
+    {
+      "id": 133,
+      "start": 763.83,
+      "end": 792.65,
+      "text": "It's propelled this hype train to four more minutes of life"
+    },
+    {
+      "id": 134,
+      "start": 806.23,
+      "end": 808.23,
+      "text": "Because you want to run into chat"
+    },
+    {
+      "id": 135,
+      "start": 829.35,
+      "end": 852.06,
+      "text": "Honestly creepy with a high-pitched voice you're doing Pepito's voice if anything"
+    },
+    {
+      "id": 136,
+      "start": 854.06,
+      "end": 861.34,
+      "text": "Oh, you're not doing the home improvement voice"
+    },
+    {
+      "id": 137,
+      "start": 862.14,
+      "end": 864.14,
+      "text": "That'd be a new track"
+    },
+    {
+      "id": 138,
+      "start": 864.14,
+      "end": 867.26,
+      "text": "That'd be a new fucking track, please"
+    },
+    {
+      "id": 139,
+      "start": 867.82,
+      "end": 869.82,
+      "text": "Well, you actually said please it's kind of nice"
+    },
+    {
+      "id": 140,
+      "start": 870.3,
+      "end": 872.3,
+      "text": "It's called hard engine"
+    },
+    {
+      "id": 141,
+      "start": 872.86,
+      "end": 876.36,
+      "text": "Hard engine"
+    },
+    {
+      "id": 142,
+      "start": 877.8,
+      "end": 881.24,
+      "text": "I think he did it better. No, I'm doing it even better than Tim Allen did it"
+    },
+    {
+      "id": 143,
+      "start": 888.57,
+      "end": 892.25,
+      "text": "Oh my god, oh my god, oh my gosh"
+    },
+    {
+      "id": 144,
+      "start": 892.33,
+      "end": 894.17,
+      "text": "Shaggy"
+    },
+    {
+      "id": 145,
+      "start": 894.17,
+      "end": 896.17,
+      "text": "Call the fucking mystery mobile"
+    },
+    {
+      "id": 146,
+      "start": 896.73,
+      "end": 901.37,
+      "text": "Fucking scooby snacks in the back dropping five subs from my tight little ass"
+    },
+    {
+      "id": 147,
+      "start": 903.21,
+      "end": 905.21,
+      "text": "Shaggy fucking got me"
+    },
+    {
+      "id": 148,
+      "start": 905.37,
+      "end": 912.09,
+      "text": "Dude, I got too much right now. Nobody here can stop me on that hard train coming down the track chug a chug a"
+    },
+    {
+      "id": 149,
+      "start": 912.09,
+      "end": 915.69,
+      "text": "I'ma get even more subs cuz it's getting butter"
+    },
+    {
+      "id": 150,
+      "start": 916.01,
+      "end": 923.13,
+      "text": "But I'm a fucking wheels now that's getting fast and i'm going straight back over way down the track"
+    },
+    {
+      "id": 151,
+      "start": 923.13,
+      "end": 928.81,
+      "text": "And I'm gonna find you jack cuz I know you're in the pack. I'ma knock like Jack Nicholson"
+    },
+    {
+      "id": 152,
+      "start": 930.97,
+      "end": 932.97,
+      "text": "He knocked by clack clack clacking"
+    },
+    {
+      "id": 153,
+      "start": 933.61,
+      "end": 937.85,
+      "text": "Shining I'm by stooping down whole door smiling"
+    },
+    {
+      "id": 154,
+      "start": 938.33,
+      "end": 945.21,
+      "text": "Hype train I am here. I have a kid who we saw you kicking weird"
+    },
+    {
+      "id": 155,
+      "start": 945.69,
+      "end": 948.89,
+      "text": "Now you think you're in the movie shining. I am in the movie shining"
+    },
+    {
+      "id": 156,
+      "start": 949.45,
+      "end": 952.57,
+      "text": "If you look closely, I am in the movie shining"
+    },
+    {
+      "id": 157,
+      "start": 953.29,
+      "end": 956.57,
+      "text": "They stopped me in the corner. They said look at that"
+    },
+    {
+      "id": 158,
+      "start": 957.45,
+      "end": 962.49,
+      "text": "I left a little surprise there for you chair. I guess I do forget that you're from hell"
+    },
+    {
+      "id": 159,
+      "start": 964.17,
+      "end": 967.37,
+      "text": "He did knock with an axe and I'm not with my ass"
+    },
+    {
+      "id": 160,
+      "start": 968.33,
+      "end": 972.33,
+      "text": "I'm so"
+    },
+    {
+      "id": 161,
+      "start": 985.99,
+      "end": 989.19,
+      "text": "Too loose today. I'm so sorry. He's fucking crook. Oh nuts off this"
+    },
+    {
+      "id": 162,
+      "start": 993.19,
+      "end": 998.71,
+      "text": "Hype train got the smoke stack. Yeah, you said it loses got the smoke pouring out"
+    },
+    {
+      "id": 163,
+      "start": 998.71,
+      "end": 1004.15,
+      "text": "You can hope that shit. No doubt. And when you smoke my hype smoke, you're gonna lose your whole mouth"
+    },
+    {
+      "id": 164,
+      "start": 1004.47,
+      "end": 1006.47,
+      "text": "You're gonna lose your mouth"
+    },
+    {
+      "id": 165,
+      "start": 1037.66,
+      "end": 1039.66,
+      "text": "Oh my god, the hype train is"
+    },
+    {
+      "id": 166,
+      "start": 1040.46,
+      "end": 1043.58,
+      "text": "Way too lucky. I'm sorry everybody. I'm so sorry"
+    },
+    {
+      "id": 167,
+      "start": 1044.46,
+      "end": 1055.45,
+      "text": "What are you apologizing? I will stay alive forever. Hype train is coming through. I will never"
+    },
+    {
+      "id": 168,
+      "start": 1058.12,
+      "end": 1060.84,
+      "text": "Hype train so alive. I'm immortal now"
+    },
+    {
+      "id": 169,
+      "start": 1064.39,
+      "end": 1071.83,
+      "text": "You'll die. You'll die in about two minutes. Yeah, we'll see about that. Give me another thinking beat while they judge you"
+    },
+    {
+      "id": 170,
+      "start": 1072.47,
+      "end": 1077.83,
+      "text": "You grind. Yeah, they make fun of you. You double down on your effort. Yeah"
+    },
+    {
+      "id": 171,
+      "start": 1078.55,
+      "end": 1082.23,
+      "text": "Sleep you study. Yes while they keep talking"
+    },
+    {
+      "id": 172,
+      "start": 1090.39,
+      "end": 1093.91,
+      "text": "This is my fucking model man turn that shit up turn that shit up in my headphones"
+    },
+    {
+      "id": 173,
+      "start": 1094.07,
+      "end": 1098.15,
+      "text": "You're not even wearing headphones turn that shit up in my headphones. I've got so high for what you just said"
+    },
+    {
+      "id": 174,
+      "start": 1098.95,
+      "end": 1100.95,
+      "text": "But we're fucking grinding we're busy"
+    },
+    {
+      "id": 175,
+      "start": 1101.83,
+      "end": 1106.63,
+      "text": "Grinding even harder when they told you you suck you suck them so hard that they're like never mind"
+    },
+    {
+      "id": 176,
+      "start": 1106.63,
+      "end": 1110.63,
+      "text": "You fucking wrote it suck it and when they came for your"
+    },
+    {
+      "id": 177,
+      "start": 1112.23,
+      "end": 1114.23,
+      "text": "Went for your for your train wheels"
+    },
+    {
+      "id": 178,
+      "start": 1114.71,
+      "end": 1119.59,
+      "text": "He said they're not exactly wheels. They're more like, um, they're wheels. Well, yeah, they're on a track"
+    },
+    {
+      "id": 179,
+      "start": 1119.91,
+      "end": 1178.36,
+      "text": "So they're different to the wheels that you're used to this hype train is not dying today"
+    },
+    {
+      "id": 180,
+      "start": 1178.76,
+      "end": 1181.32,
+      "text": "I keep thinking I told you I will never die"
+    },
+    {
+      "id": 181,
+      "start": 1185.24,
+      "end": 1187.96,
+      "text": "I need to talk about this eels that slid up a man's ass"
+    },
+    {
+      "id": 182,
+      "start": 1188.6,
+      "end": 1190.6,
+      "text": "We gotta have priorities here hype train"
+    },
+    {
+      "id": 183,
+      "start": 1191.0,
+      "end": 1248.94,
+      "text": "The tracks keeping it slick"
+    },
+    {
+      "id": 184,
+      "start": 1249.42,
+      "end": 1253.82,
+      "text": "Man that hurt me up, man. Yeah, you're that's your thing. You're always hyped. I get it"
+    },
+    {
+      "id": 185,
+      "start": 1254.14,
+      "end": 1256.14,
+      "text": "You don't get anything"
+    },
+    {
+      "id": 186,
+      "start": 1261.34,
+      "end": 1264.06,
+      "text": "This one is us as of course, um"
+    },
+    {
+      "id": 187,
+      "start": 1265.66,
+      "end": 1271.74,
+      "text": "Donald duck smoking a cigar, but probably honestly, there's probably marijuana in that cigar if I had to guess"
+    },
+    {
+      "id": 188,
+      "start": 1278.94,
+      "end": 1280.94,
+      "text": "Oh"
+    },
+    {
+      "id": 189,
+      "start": 1309.53,
+      "end": 1332.79,
+      "text": "Kanye is not here. Oh, we didn't get you can't just say kevye west and then say Kanye west and think he'll appear"
+    },
+    {
+      "id": 190,
+      "start": 1338.71,
+      "end": 1340.71,
+      "text": "Oh, no, don't use the panel trick"
+    },
+    {
+      "id": 191,
+      "start": 1342.47,
+      "end": 1344.63,
+      "text": "This doesn't work on I guess Kanye's immune to that"
+    },
+    {
+      "id": 192,
+      "start": 1363.45,
+      "end": 1370.73,
+      "text": "Stop accusing donald duck of drug use. This is just an artistic representation. There's no telling if donald duck is"
+    },
+    {
+      "id": 193,
+      "start": 1371.21,
+      "end": 1373.21,
+      "text": "High off any substances"
+    },
+    {
+      "id": 194,
+      "start": 1414.52,
+      "end": 1416.52,
+      "text": "I"
+    },
+    {
+      "id": 195,
+      "start": 1435.24,
+      "end": 1461.18,
+      "text": "Christ level seven. What's this hype train doing today is fucking a lot for this"
+    },
+    {
+      "id": 196,
+      "start": 1462.22,
+      "end": 1466.46,
+      "text": "I really want to talk about this 12 inch eel sliding up a vietnamese man's rectum"
+    },
+    {
+      "id": 197,
+      "start": 1503.34,
+      "end": 1505.34,
+      "text": "I guess I never thought of it that way hype train"
+    },
+    {
+      "id": 198,
+      "start": 1507.18,
+      "end": 1509.18,
+      "text": "One inside me"
+    },
+    {
+      "id": 199,
+      "start": 1521.99,
+      "end": 1527.67,
+      "text": "I get yeah, I guess if you're a live train sure it's I who am I to say you don't feel everything going on inside you"
+    },
+    {
+      "id": 200,
+      "start": 1535.8,
+      "end": 1537.8,
+      "text": "You'll never believe this"
+    },
+    {
+      "id": 201,
+      "start": 1537.8,
+      "end": 1541.38,
+      "text": "You'll never believe this"
+    },
+    {
+      "id": 202,
+      "start": 1541.38,
+      "end": 1543.88,
+      "text": "But it features spongebob smoking a cigar"
+    },
+    {
+      "id": 203,
+      "start": 1557.18,
+      "end": 1567.72,
+      "text": "What are you thinking buddy"
+    },
+    {
+      "id": 204,
+      "start": 1568.12,
+      "end": 1597.56,
+      "text": "A lot of support, but I don't think it can last forever. I think eventually you have to die"
+    },
+    {
+      "id": 205,
+      "start": 1598.2,
+      "end": 1617.58,
+      "text": "You high five satan and you scream out gold"
+    },
+    {
+      "id": 206,
+      "start": 1635.22,
+      "end": 1637.22,
+      "text": "Yep, you explain that"
+    },
+    {
+      "id": 207,
+      "start": 1640.31,
+      "end": 1642.31,
+      "text": "Live dropping 400"
+    },
+    {
+      "id": 208,
+      "start": 1659.14,
+      "end": 1663.45,
+      "text": "Completely fine, I mean I just have to sit here and watch you do this"
+    },
+    {
+      "id": 209,
+      "start": 1665.21,
+      "end": 1668.65,
+      "text": "My only concern is that this is degrading chat mental state"
+    },
+    {
+      "id": 210,
+      "start": 1669.45,
+      "end": 1674.97,
+      "text": "Just listening to a train rant and rhyme various easy to rhyme words"
+    },
+    {
+      "id": 211,
+      "start": 1676.81,
+      "end": 1680.41,
+      "text": "Tens of minutes at a time. Oh my god, this is crazy the amount of support coming in"
+    },
+    {
+      "id": 212,
+      "start": 1681.05,
+      "end": 1683.05,
+      "text": "No"
+    },
+    {
+      "id": 213,
+      "start": 1735.3,
+      "end": 1738.98,
+      "text": "Kendall I'm so sorry for this the hype train is just going absolutely nuts today"
+    },
+    {
+      "id": 214,
+      "start": 1740.5,
+      "end": 1744.82,
+      "text": "She's getting a call. She's getting a call hype train. Can you please be respectful?"
+    },
+    {
+      "id": 215,
+      "start": 1753.05,
+      "end": 1755.05,
+      "text": "Yeah, can you chill?"
+    },
+    {
+      "id": 216,
+      "start": 1758.71,
+      "end": 1762.55,
+      "text": "Nobody said anything on the other end hype train. I think you scared them off"
+    },
+    {
+      "id": 217,
+      "start": 1763.27,
+      "end": 1765.27,
+      "text": "With your craziness"
+    },
+    {
+      "id": 218,
+      "start": 1765.91,
+      "end": 1771.62,
+      "text": "Oh"
+    },
+    {
+      "id": 219,
+      "start": 1772.26,
+      "end": 1774.26,
+      "text": "I never meant to hurt anybody"
+    },
+    {
+      "id": 220,
+      "start": 1776.42,
+      "end": 1779.78,
+      "text": "Oh, she says it would have been fine. No, I don't believe that it would have been fine"
+    },
+    {
+      "id": 221,
+      "start": 1780.98,
+      "end": 1785.83,
+      "text": "All right, so I should feel bad. Oh my god"
+    },
+    {
+      "id": 222,
+      "start": 1790.07,
+      "end": 1794.63,
+      "text": "Oh god, you're just gonna use this to keep fucking rambling. Yeah, sometimes you make this thing"
+    },
+    {
+      "id": 223,
+      "start": 1795.27,
+      "end": 1798.55,
+      "text": "I'm talking about I never knew I never meant to do this"
+    },
+    {
+      "id": 224,
+      "start": 1799.51,
+      "end": 1801.51,
+      "text": "It's a hype train sounding like chat"
+    },
+    {
+      "id": 225,
+      "start": 1817.83,
+      "end": 1819.83,
+      "text": "Yeah"
+    },
+    {
+      "id": 226,
+      "start": 1829.83,
+      "end": 1833.27,
+      "text": "Hey"
+    },
+    {
+      "id": 227,
+      "start": 1854.55,
+      "end": 1856.55,
+      "text": "That's name is taken"
+    },
+    {
+      "id": 228,
+      "start": 1857.27,
+      "end": 1859.27,
+      "text": "Which means train pain"
+    },
+    {
+      "id": 229,
+      "start": 1859.27,
+      "end": 1863.35,
+      "text": "That's a very popular artist. I'm up in my key pain train pain"
+    },
+    {
+      "id": 230,
+      "start": 1864.07,
+      "end": 1873.48,
+      "text": "My own pain, which is T. Okay, fine. Yeah, sure whatever"
+    },
+    {
+      "id": 231,
+      "start": 1874.84,
+      "end": 1878.92,
+      "text": "I never knew my engineer father. He just put me down on a blueprint"
+    },
+    {
+      "id": 232,
+      "start": 1879.72,
+      "end": 1881.72,
+      "text": "But I never saw the blueprint"
+    },
+    {
+      "id": 233,
+      "start": 1882.92,
+      "end": 1887.72,
+      "text": "And now deep in my blueprint is a hole in my heart that was there from the start"
+    },
+    {
+      "id": 234,
+      "start": 1888.68,
+      "end": 1891.16,
+      "text": "It's a hole in my heart that can fart"
+    },
+    {
+      "id": 235,
+      "start": 1897.35,
+      "end": 1901.27,
+      "text": "That's you're just making things up that rhyme. No, you know what it's like, man"
+    },
+    {
+      "id": 236,
+      "start": 1901.91,
+      "end": 1904.15,
+      "text": "To have a hole in your heart that farts"
+    },
+    {
+      "id": 237,
+      "start": 1905.51,
+      "end": 1911.91,
+      "text": "When you want to feel things instead of just fucking a big a big plastic ass gas comes right out of where your heart's supposed to be"
+    },
+    {
+      "id": 238,
+      "start": 1912.47,
+      "end": 1917.27,
+      "text": "So you didn't know what that's like and that you my daddy made it this way by designing me like this"
+    },
+    {
+      "id": 239,
+      "start": 1917.75,
+      "end": 1919.75,
+      "text": "Who's your daddy?"
+    },
+    {
+      "id": 240,
+      "start": 1930.23,
+      "end": 1932.23,
+      "text": "Same as what"
+    },
+    {
+      "id": 241,
+      "start": 1943.83,
+      "end": 1945.83,
+      "text": "Are you gonna say grouping the train hood"
+    },
+    {
+      "id": 242,
+      "start": 1948.71,
+      "end": 1951.91,
+      "text": "Was it around a normal train neighborhood"
+    },
+    {
+      "id": 243,
+      "start": 1965.03,
+      "end": 1967.67,
+      "text": "I feel better now. Thanks for letting me work through my feelings"
+    },
+    {
+      "id": 244,
+      "start": 1969.11,
+      "end": 1971.59,
+      "text": "I mean, I didn't really let you do anything. I've trained you're just"
+    },
+    {
+      "id": 245,
+      "start": 1972.95,
+      "end": 1978.39,
+      "text": "Seemed to be never dying. Hi shaggy. Thank you so much for keeping me a forget for for hearing"
+    },
+    {
+      "id": 246,
+      "start": 1978.39,
+      "end": 1981.26,
+      "text": "My story"
+    },
+    {
+      "id": 247,
+      "start": 1981.26,
+      "end": 1984.98,
+      "text": "But that's what we just listened to"
+    },
+    {
+      "id": 248,
+      "start": 1993.37,
+      "end": 1998.57,
+      "text": "You need a happier beat if you're gonna stay alive for this god damn long, let me thank some people"
+    },
+    {
+      "id": 249,
+      "start": 1999.29,
+      "end": 2002.33,
+      "text": "Shaggy damn trap. Thank you so much for all the subs you're dropping"
+    },
+    {
+      "id": 250,
+      "start": 2003.37,
+      "end": 2007.29,
+      "text": "I'm I'm sorry that I'm punishing you with the hype train, but I can't help it. He just shows up"
+    },
+    {
+      "id": 251,
+      "start": 2007.37,
+      "end": 2011.05,
+      "text": "I worship shadow and card king. Thank you so much as well a lot of big sub"
+    },
+    {
+      "id": 252,
+      "start": 2011.21,
+      "end": 2017.77,
+      "text": "Droppers a lot of big bit droppers kevye west of breechy a lot of little mini subs coming in but those little mini subs add up"
+    },
+    {
+      "id": 253,
+      "start": 2018.25,
+      "end": 2024.97,
+      "text": "I need a mini sub sometimes we gotta eat a little sub. I'm in a subway and I said can I get a three inch and they said"
+    },
+    {
+      "id": 254,
+      "start": 2026.41,
+      "end": 2028.41,
+      "text": "I said why not"
+    },
+    {
+      "id": 255,
+      "start": 2028.57,
+      "end": 2034.01,
+      "text": "They said watch out. They pulled out a nunchuk and they hear me in the head. They said three inches bitch again"
+    },
+    {
+      "id": 256,
+      "start": 2034.25,
+      "end": 2036.25,
+      "text": "I said all I wanted was a little sub"
+    },
+    {
+      "id": 257,
+      "start": 2036.41,
+      "end": 2038.89,
+      "text": "They said we don't sell that here get the fuck out"
+    },
+    {
+      "id": 258,
+      "start": 2041.16,
+      "end": 2043.16,
+      "text": "It was quite a life hype train"
+    },
+    {
+      "id": 259,
+      "start": 2050.87,
+      "end": 2052.87,
+      "text": "To never die I will continue"
+    },
+    {
+      "id": 260,
+      "start": 2058.84,
+      "end": 2062.12,
+      "text": "Fucking hypes god damn you really are here to go in and go in today"
+    },
+    {
+      "id": 261,
+      "start": 2074.5,
+      "end": 2085.85,
+      "text": "Yeah hype train I do know you've really been you've made a lot of your points several times"
+    },
+    {
+      "id": 262,
+      "start": 2086.81,
+      "end": 2091.45,
+      "text": "The level 10 do I get a new enclosure at level 10? I did earlier say that I need to update you"
+    },
+    {
+      "id": 263,
+      "start": 2092.01,
+      "end": 2093.85,
+      "text": "I might add some more"
+    },
+    {
+      "id": 264,
+      "start": 2093.85,
+      "end": 2097.05,
+      "text": "Elevates to you because I do spend a lot of time with you. It turns out"
+    },
+    {
+      "id": 265,
+      "start": 2097.85,
+      "end": 2101.37,
+      "text": "What do you mean? We got a good thing going in case I'm a classic man"
+    },
+    {
+      "id": 266,
+      "start": 2102.17,
+      "end": 2104.17,
+      "text": "I'm a classic man"
+    },
+    {
+      "id": 267,
+      "start": 2104.41,
+      "end": 2106.41,
+      "text": "A little boy on the train"
+    },
+    {
+      "id": 268,
+      "start": 2106.49,
+      "end": 2112.57,
+      "text": "On the train that is also a man actually just kidding. I'm 100% train. I've never been a man ever"
+    },
+    {
+      "id": 269,
+      "start": 2113.37,
+      "end": 2115.37,
+      "text": "Ever been a man ever"
+    },
+    {
+      "id": 270,
+      "start": 2117.93,
+      "end": 2119.93,
+      "text": "I'm a hype train to my core"
+    },
+    {
+      "id": 271,
+      "start": 2122.6,
+      "end": 2128.12,
+      "text": "You want some more? I'm a hype train to my core and I never get more because I'm a train"
+    },
+    {
+      "id": 272,
+      "start": 2128.2,
+      "end": 2138.81,
+      "text": "I keep spinning and I keep spinning the myth of your hot train, but I am sitting smoking and getting out of my old smoke stack"
+    },
+    {
+      "id": 273,
+      "start": 2139.93,
+      "end": 2143.21,
+      "text": "I love the two packs the day of my old smoke stack"
+    },
+    {
+      "id": 274,
+      "start": 2144.09,
+      "end": 2146.09,
+      "text": "Two packs of your own smoke stack"
+    },
+    {
+      "id": 275,
+      "start": 2155.18,
+      "end": 2157.18,
+      "text": "A lot of this train crack"
+    },
+    {
+      "id": 276,
+      "start": 2157.18,
+      "end": 2157.98,
+      "text": "Train crack?"
+    },
+    {
+      "id": 277,
+      "start": 2157.98,
+      "end": 2160.54,
+      "text": "That's what I call the stuff coming out of my smoke"
+    },
+    {
+      "id": 278,
+      "start": 2160.54,
+      "end": 2177.96,
+      "text": "Some of the stuff's coming that shit right up in your coming through"
+    },
+    {
+      "id": 279,
+      "start": 2184.31,
+      "end": 2189.43,
+      "text": "Boy, maybe we need to change up jonas. You've been rapping a lot. Yeah, I want to do one. Oh, yeah, baby. Give me your sweet"
+    },
+    {
+      "id": 280,
+      "start": 2189.43,
+      "end": 2195.22,
+      "text": "Give me your pops. Give me your pop trick. I love it. Give me some pop music"
+    },
+    {
+      "id": 281,
+      "start": 2196.66,
+      "end": 2198.66,
+      "text": "Instrumental yeah"
+    },
+    {
+      "id": 282,
+      "start": 2200.26,
+      "end": 2205.37,
+      "text": "124"
+    },
+    {
+      "id": 283,
+      "start": 2223.32,
+      "end": 2226.12,
+      "text": "I look hot in my train thong"
+    },
+    {
+      "id": 284,
+      "start": 2226.12,
+      "end": 2230.28,
+      "text": "I keep my train thong on and on and on and it's out my crack"
+    },
+    {
+      "id": 285,
+      "start": 2230.92,
+      "end": 2235.88,
+      "text": "Mecha post got a thong in the back with chat and it feels good"
+    },
+    {
+      "id": 286,
+      "start": 2235.88,
+      "end": 2239.96,
+      "text": "Chat, do you like that car gang with another five?"
+    },
+    {
+      "id": 287,
+      "start": 2239.96,
+      "end": 2246.76,
+      "text": "I'm still alive. I train coming for you. I will never die. Oh, we owe, we owe"
+    },
+    {
+      "id": 288,
+      "start": 2247.8,
+      "end": 2250.36,
+      "text": "Train pouring out my smoky coal"
+    },
+    {
+      "id": 289,
+      "start": 2251.32,
+      "end": 2258.12,
+      "text": "Puff it up my old smoke stack still on two packs second hand smoke for your chat"
+    },
+    {
+      "id": 290,
+      "start": 2260.04,
+      "end": 2262.04,
+      "text": "Sorry chat, he's really"
+    },
+    {
+      "id": 291,
+      "start": 2263.16,
+      "end": 2269.32,
+      "text": "Smoking out the whole chat in the back today apparently car gang thank you so much for the 400 bits. Okay, west you guys are"
+    },
+    {
+      "id": 292,
+      "start": 2270.68,
+      "end": 2274.6,
+      "text": "There's like five or six of you just single-handedly keeping this train going forever"
+    },
+    {
+      "id": 293,
+      "start": 2280.68,
+      "end": 2282.68,
+      "text": "Give me more"
+    },
+    {
+      "id": 294,
+      "start": 2290.62,
+      "end": 2292.62,
+      "text": "Yeah, they"
+    },
+    {
+      "id": 295,
+      "start": 2312.7,
+      "end": 2314.7,
+      "text": "Because"
+    },
+    {
+      "id": 296,
+      "start": 2341.02,
+      "end": 2343.02,
+      "text": "Sam Smith was in there"
+    },
+    {
+      "id": 297,
+      "start": 2348.22,
+      "end": 2351.82,
+      "text": "And sometimes it is Sam Smith featuring come to Petrus"
+    },
+    {
+      "id": 298,
+      "start": 2352.94,
+      "end": 2355.74,
+      "text": "featuring Kim Petrus sometimes he features inside me"
+    },
+    {
+      "id": 299,
+      "start": 2357.1,
+      "end": 2364.74,
+      "text": "What's going on now Ray Silva just I can't die I'm cursed to be immortal"
+    },
+    {
+      "id": 300,
+      "start": 2366.02,
+      "end": 2368.34,
+      "text": "By your height and I like it"
+    },
+    {
+      "id": 301,
+      "start": 2369.14,
+      "end": 2372.82,
+      "text": "Everyone was lying when they said being immortal sucks. It's the best"
+    },
+    {
+      "id": 302,
+      "start": 2376.79,
+      "end": 2378.47,
+      "text": "I don't know this song"
+    },
+    {
+      "id": 303,
+      "start": 2378.47,
+      "end": 2379.75,
+      "text": "I do"
+    },
+    {
+      "id": 304,
+      "start": 2379.75,
+      "end": 2381.75,
+      "text": "I don't think you do know this song"
+    },
+    {
+      "id": 305,
+      "start": 2392.95,
+      "end": 2394.95,
+      "text": "Okay"
+    },
+    {
+      "id": 306,
+      "start": 2397.11,
+      "end": 2399.11,
+      "text": "Okay"
+    },
+    {
+      "id": 307,
+      "start": 2400.87,
+      "end": 2402.87,
+      "text": "Okay"
+    },
+    {
+      "id": 308,
+      "start": 2406.31,
+      "end": 2408.31,
+      "text": "I think there's a reason you might rap"
+    },
+    {
+      "id": 309,
+      "start": 2410.71,
+      "end": 2415.88,
+      "text": "They're legally married"
+    },
+    {
+      "id": 310,
+      "start": 2416.36,
+      "end": 2418.36,
+      "text": "Yeah, I think you're all legally married to the hype train"
+    },
+    {
+      "id": 311,
+      "start": 2421.08,
+      "end": 2425.72,
+      "text": "This is my callum scott. I love this song. You were the reason I don't know this song at all"
+    },
+    {
+      "id": 312,
+      "start": 2428.52,
+      "end": 2433.27,
+      "text": "I don't think this is how it goes"
+    },
+    {
+      "id": 313,
+      "start": 2451.7,
+      "end": 2455.78,
+      "text": "I say use free tax about it and I asked if you wanted milk and you never said anything"
+    },
+    {
+      "id": 314,
+      "start": 2483.59,
+      "end": 2491.34,
+      "text": "This is I didn't realize you had so much emotional experience hype train"
+    },
+    {
+      "id": 315,
+      "start": 2498.78,
+      "end": 2500.78,
+      "text": "I"
+    },
+    {
+      "id": 316,
+      "start": 2507.69,
+      "end": 2509.69,
+      "text": "Wait, you mean me"
+    },
+    {
+      "id": 317,
+      "start": 2520.57,
+      "end": 2522.57,
+      "text": "All the lyrics and you looking directly at me"
+    },
+    {
+      "id": 318,
+      "start": 2560.89,
+      "end": 2562.89,
+      "text": "Sorry, I had a hydrant in my throat"
+    },
+    {
+      "id": 319,
+      "start": 2563.45,
+      "end": 2567.37,
+      "text": "Um"
+    },
+    {
+      "id": 320,
+      "start": 2567.53,
+      "end": 2569.61,
+      "text": "I think we have to do check guy the science eyes"
+    },
+    {
+      "id": 321,
+      "start": 2569.61,
+      "end": 2574.25,
+      "text": "Jeff um, can you fill us in is really quick in honor of that hype train about whatever's going on with this 12 inch"
+    },
+    {
+      "id": 322,
+      "start": 2574.97,
+      "end": 2576.97,
+      "text": "With this 12 inch um eel"
+    },
+    {
+      "id": 323,
+      "start": 2578.92,
+      "end": 2582.52,
+      "text": "Jeff"
+    },
+    {
+      "id": 324,
+      "start": 2582.52,
+      "end": 2585.64,
+      "text": "What the hell was that that was like 30 minutes of hype train"
+    },
+    {
+      "id": 325,
+      "start": 2586.6,
+      "end": 2590.04,
+      "text": "This case need a water break. No, but I do case. You don't get any water"
+    },
+    {
+      "id": 326,
+      "start": 2592.07,
+      "end": 2596.71,
+      "text": "You're being punished for being naughty and spending too much time with the hype train. It's not my fault the hype train"
+    },
+    {
+      "id": 327,
+      "start": 2598.31,
+      "end": 2599.99,
+      "text": "The hype train shows up"
+    },
+    {
+      "id": 328,
+      "start": 2599.99,
+      "end": 2601.67,
+      "text": "When there's hype"
+    },
+    {
+      "id": 329,
+      "start": 2601.67,
+      "end": 2606.78,
+      "text": "I can't keep it away. I still blame you. That's fair"
+    },
+    {
+      "id": 330,
+      "start": 2607.66,
+      "end": 2609.5,
+      "text": "I'll accept that"
+    },
+    {
+      "id": 331,
+      "start": 2609.5,
+      "end": 2611.5,
+      "text": "You spend all your bitties"
+    },
+    {
+      "id": 332,
+      "start": 2611.5,
+      "end": 2612.94,
+      "text": "Subrichi, thank you so much. Let me thank everybody"
+    },
+    {
+      "id": 333,
+      "start": 2612.94,
+      "end": 2618.06,
+      "text": "We're gonna do a quick rundown of that insane amount of support in case we missed everybody while the hype train was losing its mind"
+    },
+    {
+      "id": 334,
+      "start": 2618.06,
+      "end": 2619.74,
+      "text": "Which it I don't think it has one"
+    },
+    {
+      "id": 335,
+      "start": 2619.74,
+      "end": 2625.26,
+      "text": "But subrichi space lemons card king and kevia west in particular dropping an insane amount of support"
+    },
+    {
+      "id": 336,
+      "start": 2625.9,
+      "end": 2628.62,
+      "text": "wolfdog bundle sprout tamtrant also as always"
+    },
+    {
+      "id": 337,
+      "start": 2629.42,
+      "end": 2633.02,
+      "text": "Dropping just an absurd amount of support. We don't show it enough"
+    },
+    {
+      "id": 338,
+      "start": 2633.02,
+      "end": 2635.02,
+      "text": "But if you look closely"
+    },
+    {
+      "id": 339,
+      "start": 2635.66,
+      "end": 2638.94,
+      "text": "CV loves you tamtrant our number one underwriters up there in the corner"
+    },
+    {
+      "id": 340,
+      "start": 2639.98,
+      "end": 2641.18,
+      "text": "Um"
+    },
+    {
+      "id": 341,
+      "start": 2641.18,
+      "end": 2646.38,
+      "text": "And to daddy as well shaggy shaggy coming through with a bunch of subs. Thank you so much"
+    },
+    {
+      "id": 342,
+      "start": 2647.82,
+      "end": 2653.82,
+      "text": "Uh card king, of course, I might have said that I worship shadow a piece with a follow shaka 42 000 dropping the hot subbies"
+    },
+    {
+      "id": 343,
+      "start": 2653.9,
+      "end": 2655.42,
+      "text": "I worship shadow"
+    },
+    {
+      "id": 344,
+      "start": 2655.42,
+      "end": 2661.18,
+      "text": "Um tamtrant, of course apple dapple wolf dog bonsai bullfrog love the hate skull meat x kevia west"
+    },
+    {
+      "id": 345,
+      "start": 2661.42,
+      "end": 2665.18,
+      "text": "Microphone 900 always coming through with the bits. Uh, thank you all so much"
+    },
+    {
+      "id": 346,
+      "start": 2665.74,
+      "end": 2669.1,
+      "text": "Uh, you you know that hype train doesn't deserve it and case deserves it even less"
+    },
+    {
+      "id": 347,
+      "start": 2669.34,
+      "end": 2672.78,
+      "text": "But i'll take it because i'm jeff ripple. Why do I do not deserve it? You don't deserve it"
+    },
+    {
+      "id": 348,
+      "start": 2673.1,
+      "end": 2675.1,
+      "text": "You kept me from talking about my"
+    },
+    {
+      "id": 349,
+      "start": 2675.74,
+      "end": 2677.18,
+      "text": "Important news story"
+    },
+    {
+      "id": 350,
+      "start": 2677.18,
+      "end": 2682.3,
+      "text": "Which is that a 12 inch shield slides up a vietnamans man's rectum and it's surgically removed alive"
+    },
+    {
+      "id": 351,
+      "start": 2682.86,
+      "end": 2688.3,
+      "text": "Was the part that I was excited to get to it's a feel-good story because nobody nobody had to die"
+    },
+    {
+      "id": 352,
+      "start": 2688.7,
+      "end": 2690.7,
+      "text": "Not even the eel"
+    },
+    {
+      "id": 353,
+      "start": 2691.42,
+      "end": 2693.42,
+      "text": "And in honor of of all of your support"
+    },
+    {
+      "id": 354,
+      "start": 2694.78,
+      "end": 2698.44,
+      "text": "I am jeff ripple"
+    },
+    {
+      "id": 355,
+      "start": 2702.2,
+      "end": 2704.2,
+      "text": "It's a very musical stream today"
+    },
+    {
+      "id": 356,
+      "start": 2706.2,
+      "end": 2708.28,
+      "text": "Okay, I'll I'll we'll get a little in this story"
+    },
+    {
+      "id": 357,
+      "start": 2709.64,
+      "end": 2711.8,
+      "text": "Plug my face. I'm jeff ripple"
+    },
+    {
+      "id": 358,
+      "start": 2713.72,
+      "end": 2715.72,
+      "text": "Okay, anyway, um"
+    },
+    {
+      "id": 359,
+      "start": 2717.0,
+      "end": 2720.44,
+      "text": "The man had a live seal or eel or surgically removed from his abdomen"
+    },
+    {
+      "id": 360,
+      "start": 2720.6,
+      "end": 2728.2,
+      "text": "A 43-year-old vietnamese man in northern quanning province received a shocking diagnosis after experiencing severe abdominal craps"
+    },
+    {
+      "id": 361,
+      "start": 2728.52,
+      "end": 2733.48,
+      "text": "Doctors at the high ha district medical center alerted by his complaints conducted an x-ray and an ultrasound"
+    },
+    {
+      "id": 362,
+      "start": 2733.8,
+      "end": 2737.56,
+      "text": "And the scans revealed you guessed it a foreign object. What was that for an object?"
+    },
+    {
+      "id": 363,
+      "start": 2739.16,
+      "end": 2741.96,
+      "text": "But it was causing a life-threatening condition called, uh"
+    },
+    {
+      "id": 364,
+      "start": 2743.24,
+      "end": 2745.24,
+      "text": "peritontis"
+    },
+    {
+      "id": 365,
+      "start": 2745.24,
+      "end": 2750.6,
+      "text": "Peritonitis where the abdominal linings become inflamed and I can guess why they were inflamed"
+    },
+    {
+      "id": 366,
+      "start": 2750.92,
+      "end": 2754.52,
+      "text": "It's spoilers because there was a 12 inch eel that had gone up his ass"
+    },
+    {
+      "id": 367,
+      "start": 2756.92,
+      "end": 2759.16,
+      "text": "Yeah, I mean it's the that's kind of all in the headline here"
+    },
+    {
+      "id": 368,
+      "start": 2760.36,
+      "end": 2762.36,
+      "text": "Yeah, but how did he get in there?"
+    },
+    {
+      "id": 369,
+      "start": 2762.68,
+      "end": 2767.32,
+      "text": "We're taking off the eel the doctors carefully removed the damaged part of the intestines near the bottom. Oh, that's brutal"
+    },
+    {
+      "id": 370,
+      "start": 2767.96,
+      "end": 2773.16,
+      "text": "This is an uncommon case the rectum is a highly contaminated area and infections are a major concern"
+    },
+    {
+      "id": 371,
+      "start": 2773.56,
+      "end": 2775.56,
+      "text": "Thankfully surgery was successful"
+    },
+    {
+      "id": 372,
+      "start": 2775.56,
+      "end": 2779.0,
+      "text": "Well, it's a feel-good story at the end of that insane hype train"
+    },
+    {
+      "id": 373,
+      "start": 2779.64,
+      "end": 2781.96,
+      "text": "um, but I guess you don't have much time case before"
+    },
+    {
+      "id": 374,
+      "start": 2782.92,
+      "end": 2787.48,
+      "text": "You've got to do your little patreon thing. It's the it's you don't have to call it little"
+    },
+    {
+      "id": 375,
+      "start": 2788.28,
+      "end": 2791.72,
+      "text": "Easy little patreon thing. It's a normal size patreon thing"
+    },
+    {
+      "id": 376,
+      "start": 2792.44,
+      "end": 2795.4,
+      "text": "Okay, consult your doctor if it gets too big or too little"
+    },
+    {
+      "id": 377,
+      "start": 2795.96,
+      "end": 2801.64,
+      "text": "Or consult your doctor if there's a 12 inch eel inside of you because it might cause cause some what some ripples in your intestine"
+    },
+    {
+      "id": 378,
+      "start": 2801.64,
+      "end": 2803.64,
+      "text": "But the ripple outside of your intestine is me"
+    },
+    {
+      "id": 379,
+      "start": 2804.12,
+      "end": 2809.16,
+      "text": "I'm jev ripple and and and I'll and I'll we'll be back with more news at some future date, but for now"
+    },
+    {
+      "id": 380,
+      "start": 2809.64,
+      "end": 2810.68,
+      "text": "um"
+    },
+    {
+      "id": 381,
+      "start": 2810.68,
+      "end": 2812.28,
+      "text": "I guess"
+    },
+    {
+      "id": 382,
+      "start": 2812.28,
+      "end": 2837.43,
+      "text": "Let's let's send it back to you. Okay a quick news. We got to go quick now. We got to go fast as to do stuff"
+    },
+    {
+      "id": 383,
+      "start": 2839.72,
+      "end": 2841.72,
+      "text": "Anyway, peter gets a theme now"
+    },
+    {
+      "id": 384,
+      "start": 2842.12,
+      "end": 2848.52,
+      "text": "He really crushed that particular goal. I guess the the lead buried here is chat just really wanted that peter gibbon theme"
+    },
+    {
+      "id": 385,
+      "start": 2849.4,
+      "end": 2856.92,
+      "text": "Uh, but the somewhat something else that chat sub four and delivered on 10 000 percent was chat guy the science eyes"
+    },
+    {
+      "id": 386,
+      "start": 2857.56,
+      "end": 2859.56,
+      "text": "Which um, I made him a studio"
+    },
+    {
+      "id": 387,
+      "start": 2859.64,
+      "end": 2861.64,
+      "text": "I went ahead of my I made him that studio"
+    },
+    {
+      "id": 388,
+      "start": 2862.04,
+      "end": 2867.16,
+      "text": "Because because you guys asked so nicely and because he just wouldn't stop talking about it. Um, so I guess"
+    },
+    {
+      "id": 389,
+      "start": 2867.96,
+      "end": 2873.32,
+      "text": "Who am I to deny us some science? Let's send it over to chat guy the science eyes"
+    },
+    {
+      "id": 390,
+      "start": 2873.32,
+      "end": 2875.32,
+      "text": "Check out the science"
+    },
+    {
+      "id": 391,
+      "start": 2875.56,
+      "end": 2912.39,
+      "text": "Feel the power"
+    },
+    {
+      "id": 392,
+      "start": 2912.39,
+      "end": 2914.39,
+      "text": "I have all the science here now chat"
+    },
+    {
+      "id": 393,
+      "start": 2915.27,
+      "end": 2919.59,
+      "text": "He did it. I forced him to make me a room where I could do science and he delivered"
+    },
+    {
+      "id": 394,
+      "start": 2920.79,
+      "end": 2924.31,
+      "text": "The first good thing case is ever done everything else a total failure"
+    },
+    {
+      "id": 395,
+      "start": 2924.47,
+      "end": 2929.83,
+      "text": "But now I have the power of science with all of you. I can solve all of the world's problems"
+    },
+    {
+      "id": 396,
+      "start": 2929.99,
+      "end": 2931.99,
+      "text": "This is a big deal for not just me"
+    },
+    {
+      "id": 397,
+      "start": 2931.99,
+      "end": 2935.35,
+      "text": "But for all of you because once I set my mind to all of this here science"
+    },
+    {
+      "id": 398,
+      "start": 2935.51,
+      "end": 2940.87,
+      "text": "There's no telling where the sky is. I'll remove the limit using the power of gravity or some shit"
+    },
+    {
+      "id": 399,
+      "start": 2941.03,
+      "end": 2942.47,
+      "text": "I don't get it yet"
+    },
+    {
+      "id": 400,
+      "start": 2942.47,
+      "end": 2948.15,
+      "text": "But I suspect that if I just keep skyencing nice and hard that we'll all learn the skies together"
+    },
+    {
+      "id": 401,
+      "start": 2948.55,
+      "end": 2953.51,
+      "text": "And in case my own mental waves fail me. I do happen to have a co-host"
+    },
+    {
+      "id": 402,
+      "start": 2953.67,
+      "end": 2955.99,
+      "text": "It's an ai programmed with all of my"
+    },
+    {
+      "id": 403,
+      "start": 2956.63,
+      "end": 2960.15,
+      "text": "Intelligence case said that he reprogrammed some version of his"
+    },
+    {
+      "id": 404,
+      "start": 2960.71,
+      "end": 2965.75,
+      "text": "Of some rooney guy or something with my brain and now I have an ai that's as smart as me"
+    },
+    {
+      "id": 405,
+      "start": 2965.75,
+      "end": 2967.99,
+      "text": "But with all the powers of the internet"
+    },
+    {
+      "id": 406,
+      "start": 2969.99,
+      "end": 2987.43,
+      "text": "And I couldn't have said it better myself. That's my chitai. I named it myself"
+    },
+    {
+      "id": 407,
+      "start": 2987.99,
+      "end": 2991.59,
+      "text": "It's like a cheetah in the speed that it works with my brain"
+    },
+    {
+      "id": 408,
+      "start": 2991.67,
+      "end": 2996.79,
+      "text": "But with the power of a computer combined with it. Can you even believe that? Oh, shit check gpt"
+    },
+    {
+      "id": 409,
+      "start": 2996.79,
+      "end": 3002.07,
+      "text": "What about a better name? Oh, but I already took on all of those fucking llcs and I made a bunch of businesses and"
+    },
+    {
+      "id": 410,
+      "start": 3002.07,
+      "end": 3004.07,
+      "text": "Shit, so I can't"
+    },
+    {
+      "id": 411,
+      "start": 3004.79,
+      "end": 3006.63,
+      "text": "Anyway"
+    },
+    {
+      "id": 412,
+      "start": 3006.63,
+      "end": 3010.23,
+      "text": "We got a science you guys have been pouring some science into my science tube"
+    },
+    {
+      "id": 413,
+      "start": 3010.23,
+      "end": 3014.23,
+      "text": "Which is what I like to call the discord thread where apparently there's stories for science"
+    },
+    {
+      "id": 414,
+      "start": 3014.63,
+      "end": 3017.91,
+      "text": "But I also think that using the power of my new understanding"
+    },
+    {
+      "id": 415,
+      "start": 3017.99,
+      "end": 3021.35,
+      "text": "I have created a way that might get case banned from twitch"
+    },
+    {
+      "id": 416,
+      "start": 3021.59,
+      "end": 3027.11,
+      "text": "But that I can eat messy wings without creating any mess at all and that's the chat promise"
+    },
+    {
+      "id": 417,
+      "start": 3027.67,
+      "end": 3031.99,
+      "text": "That's the future promise of skies. So what do you say we get into it today?"
+    },
+    {
+      "id": 418,
+      "start": 3032.95,
+      "end": 3034.95,
+      "text": "with whatever you guys have"
+    },
+    {
+      "id": 419,
+      "start": 3035.27,
+      "end": 3036.23,
+      "text": "in"
+    },
+    {
+      "id": 420,
+      "start": 3036.23,
+      "end": 3040.39,
+      "text": "The check guy the sky in size thread and we'll start at the top"
+    },
+    {
+      "id": 421,
+      "start": 3043.14,
+      "end": 3046.9,
+      "text": "Before we get into our massive stunt for the day. Does that work for you chitai?"
+    },
+    {
+      "id": 422,
+      "start": 3051.32,
+      "end": 3053.32,
+      "text": "It's so nice to have someone that I get along with"
+    },
+    {
+      "id": 423,
+      "start": 3069.54,
+      "end": 3072.58,
+      "text": "That's what friendship looks like. I am going to murder these fucking"
+    },
+    {
+      "id": 424,
+      "start": 3073.06,
+      "end": 3075.54,
+      "text": "I mean once they don't the problem with wings now is make a mess"
+    },
+    {
+      "id": 425,
+      "start": 3076.42,
+      "end": 3082.9,
+      "text": "But can you imagine once my new proprietary science is unleashed upon these wings and there's no mess to be even had"
+    },
+    {
+      "id": 426,
+      "start": 3083.62,
+      "end": 3088.5,
+      "text": "Anyway, somebody put some science into the discord. So let's check out what's going on. This is courtesy of"
+    },
+    {
+      "id": 427,
+      "start": 3089.46,
+      "end": 3090.9,
+      "text": "um daggit"
+    },
+    {
+      "id": 428,
+      "start": 3090.9,
+      "end": 3095.54,
+      "text": "Who I don't know what this is exactly. It's some kind of chemical reaction"
+    },
+    {
+      "id": 429,
+      "start": 3095.86,
+      "end": 3100.5,
+      "text": "And as a man who loves science, I'm excited to learn which is really what this is all about"
+    },
+    {
+      "id": 430,
+      "start": 3101.62,
+      "end": 3105.3,
+      "text": "Okay, so I've decided to do a chemical reaction that in my opinion"
+    },
+    {
+      "id": 431,
+      "start": 3105.86,
+      "end": 3112.26,
+      "text": "Kind of looks like magic. Okay, but it's really science a bit of cornstarch and I'll mix this with some boiling water"
+    },
+    {
+      "id": 432,
+      "start": 3115.32,
+      "end": 3119.88,
+      "text": "That's fine. There really isn't that much of a format other than I'll probably do a stunt at the end of all of these"
+    },
+    {
+      "id": 433,
+      "start": 3120.52,
+      "end": 3124.36,
+      "text": "A small amount of the cornstarch. We'll see how elaborate a stunt can get because it has to be while I'm sitting"
+    },
+    {
+      "id": 434,
+      "start": 3124.6,
+      "end": 3127.72,
+      "text": "I'll just pour it through some coffee filters. What's happening"
+    },
+    {
+      "id": 435,
+      "start": 3129.08,
+      "end": 3132.36,
+      "text": "So far this just looks like water to me. It took a little while to finish"
+    },
+    {
+      "id": 436,
+      "start": 3132.52,
+      "end": 3136.44,
+      "text": "But when it was eventually done I added some hydrogen peroxide"
+    },
+    {
+      "id": 437,
+      "start": 3137.72,
+      "end": 3139.16,
+      "text": "What's he doing?"
+    },
+    {
+      "id": 438,
+      "start": 3139.16,
+      "end": 3142.52,
+      "text": "I'll mark this one as part b and the next thing that I have to do"
+    },
+    {
+      "id": 439,
+      "start": 3143.08,
+      "end": 3146.52,
+      "text": "Is make the part a to do this. I'll need some pills"
+    },
+    {
+      "id": 440,
+      "start": 3147.24,
+      "end": 3149.64,
+      "text": "Okay, I like the sound of this now. I picked up some vitamin c"
+    },
+    {
+      "id": 441,
+      "start": 3150.04,
+      "end": 3155.64,
+      "text": "I'll take that shit on the regular. I'm tracking and all I have to do is crush them and mix them with water"
+    },
+    {
+      "id": 442,
+      "start": 3157.77,
+      "end": 3159.53,
+      "text": "Okay"
+    },
+    {
+      "id": 443,
+      "start": 3159.53,
+      "end": 3161.53,
+      "text": "We've all crushed some pills to shoot"
+    },
+    {
+      "id": 444,
+      "start": 3161.61,
+      "end": 3163.53,
+      "text": "Thomas swimming he's injecting some stuff into him"
+    },
+    {
+      "id": 445,
+      "start": 3163.53,
+      "end": 3168.73,
+      "text": "What I'm doing here is pulling out the vitamin c from the pill and leaving behind a bunch of filler"
+    },
+    {
+      "id": 446,
+      "start": 3169.53,
+      "end": 3173.21,
+      "text": "Like before I'll dump this into some coffee filters to clean it up a bit"
+    },
+    {
+      "id": 447,
+      "start": 3173.45,
+      "end": 3175.45,
+      "text": "This science is crazy so far"
+    },
+    {
+      "id": 448,
+      "start": 3175.85,
+      "end": 3177.85,
+      "text": "It's mostly liquid science"
+    },
+    {
+      "id": 449,
+      "start": 3178.81,
+      "end": 3183.93,
+      "text": "Now that it's done I'll add an entire bottle of iodine disinfectant. Oh"
+    },
+    {
+      "id": 450,
+      "start": 3185.05,
+      "end": 3191.45,
+      "text": "The color of it immediately disappears. What is because the vitamin c is reacting with the little brown"
+    },
+    {
+      "id": 451,
+      "start": 3191.45,
+      "end": 3196.01,
+      "text": "He's lying. It's a little brown a lot a bunch of water and that's it for part a"
+    },
+    {
+      "id": 452,
+      "start": 3197.21,
+      "end": 3201.13,
+      "text": "Now all I need to do is mix together these two solutions"
+    },
+    {
+      "id": 453,
+      "start": 3202.01,
+      "end": 3207.61,
+      "text": "At first it doesn't seem like anything is happening and it basically does nothing for over a minute"
+    },
+    {
+      "id": 454,
+      "start": 3208.01,
+      "end": 3211.53,
+      "text": "What it takes such a long time that I don't know where he's going with this"
+    },
+    {
+      "id": 455,
+      "start": 3212.65,
+      "end": 3216.73,
+      "text": "But then it suddenly changes. This is called the iodine clock reaction"
+    },
+    {
+      "id": 456,
+      "start": 3217.21,
+      "end": 3222.92,
+      "text": "And I think it's pretty cool"
+    },
+    {
+      "id": 457,
+      "start": 3223.08,
+      "end": 3226.76,
+      "text": "What wait what what was it? I missed it minute"
+    },
+    {
+      "id": 458,
+      "start": 3227.48,
+      "end": 3230.52,
+      "text": "It takes such a long time that I often think I messed something up"
+    },
+    {
+      "id": 459,
+      "start": 3231.8,
+      "end": 3233.8,
+      "text": "But then it suddenly changes. Oh my god"
+    },
+    {
+      "id": 460,
+      "start": 3234.84,
+      "end": 3237.72,
+      "text": "I'm left reaction and I think it's pretty cool"
+    },
+    {
+      "id": 461,
+      "start": 3238.76,
+      "end": 3240.76,
+      "text": "Dude, I thought that was like a crossfade"
+    },
+    {
+      "id": 462,
+      "start": 3241.16,
+      "end": 3243.16,
+      "text": "I've seen case edit so I get how that works"
+    },
+    {
+      "id": 463,
+      "start": 3243.24,
+      "end": 3246.2,
+      "text": "It takes such a long time that I often think I messed something up"
+    },
+    {
+      "id": 464,
+      "start": 3247.48,
+      "end": 3253.32,
+      "text": "But then it suddenly changes. This is our speed reaction and I think it's pretty cool"
+    },
+    {
+      "id": 465,
+      "start": 3257.32,
+      "end": 3259.48,
+      "text": "We realized starting to get kind of fucking bored"
+    },
+    {
+      "id": 466,
+      "start": 3259.96,
+      "end": 3265.96,
+      "text": "But then it blew my fucking mind. Did you see that shit? It turned blue so fast. Did you even know that was possible computer?"
+    },
+    {
+      "id": 467,
+      "start": 3278.94,
+      "end": 3285.1,
+      "text": "We've just discovered a new skies together and it sometimes skies isn't like I get bored for like two minutes"
+    },
+    {
+      "id": 468,
+      "start": 3285.1,
+      "end": 3289.98,
+      "text": "But then I don't know where it blows my fucking mind and that's courtesy of daggett. Thank you so much"
+    },
+    {
+      "id": 469,
+      "start": 3291.74,
+      "end": 3302.7,
+      "text": "You can't hear chi chi"
+    },
+    {
+      "id": 470,
+      "start": 3303.58,
+      "end": 3306.14,
+      "text": "I like my music fucking live. That's a good point"
+    },
+    {
+      "id": 471,
+      "start": 3322.86,
+      "end": 3324.86,
+      "text": "I think they can't hear you at all. I mean"
+    },
+    {
+      "id": 472,
+      "start": 3325.1,
+      "end": 3327.1,
+      "text": "They can hear me. What if I turn this down?"
+    },
+    {
+      "id": 473,
+      "start": 3327.34,
+      "end": 3329.34,
+      "text": "And they hear you if you if I turn that all the way down"
+    },
+    {
+      "id": 474,
+      "start": 3334.7,
+      "end": 3336.78,
+      "text": "So you're I mean you do kind of kill the music then"
+    },
+    {
+      "id": 475,
+      "start": 3343.38,
+      "end": 3347.54,
+      "text": "Sorry, I was sorry my combative instincts were coming back. I forgot that we're basically best friends"
+    },
+    {
+      "id": 476,
+      "start": 3350.23,
+      "end": 3352.23,
+      "text": "Shit, I'm a sort of a gladiator"
+    },
+    {
+      "id": 477,
+      "start": 3355.34,
+      "end": 3358.46,
+      "text": "Nice, that's why we get along. Anyway, I'll bring the music back just a little bit"
+    },
+    {
+      "id": 478,
+      "start": 3362.02,
+      "end": 3365.3,
+      "text": "Play music over the robot. Nobody cares. I mean, it's true that he do you have a salt?"
+    },
+    {
+      "id": 479,
+      "start": 3368.38,
+      "end": 3375.26,
+      "text": "I'm zero so they hear this might help. I'm probably easier to hear now. I improved my audio receptors"
+    },
+    {
+      "id": 480,
+      "start": 3376.46,
+      "end": 3379.98,
+      "text": "Sick I should have done that sooner. I mean, I agree. Yeah, that's my bad"
+    },
+    {
+      "id": 481,
+      "start": 3381.74,
+      "end": 3386.74,
+      "text": "All right. Well, um"
+    },
+    {
+      "id": 482,
+      "start": 3386.82,
+      "end": 3389.37,
+      "text": "Let's see"
+    },
+    {
+      "id": 483,
+      "start": 3389.37,
+      "end": 3392.01,
+      "text": "A humanoid robots are running even faster now"
+    },
+    {
+      "id": 484,
+      "start": 3392.89,
+      "end": 3396.09,
+      "text": "We'll do this before I just absolutely go to town on some wings"
+    },
+    {
+      "id": 485,
+      "start": 3398.06,
+      "end": 3400.3,
+      "text": "Let's see what this is. What the deal is fucking here"
+    },
+    {
+      "id": 486,
+      "start": 3401.02,
+      "end": 3403.02,
+      "text": "Oh my god"
+    },
+    {
+      "id": 487,
+      "start": 3404.62,
+      "end": 3406.62,
+      "text": "Look at this little guy go"
+    },
+    {
+      "id": 488,
+      "start": 3407.34,
+      "end": 3409.98,
+      "text": "Oh, shit, they can fucking dance"
+    },
+    {
+      "id": 489,
+      "start": 3411.58,
+      "end": 3422.38,
+      "text": "The hell am I looking at that's our case runs. Okay, this is pretty good though"
+    },
+    {
+      "id": 490,
+      "start": 3436.1,
+      "end": 3438.1,
+      "text": "They're kind of stealing like um"
+    },
+    {
+      "id": 491,
+      "start": 3440.33,
+      "end": 3442.01,
+      "text": "It's just sort of like one of those Maori dances"
+    },
+    {
+      "id": 492,
+      "start": 3442.57,
+      "end": 3444.97,
+      "text": "I think it's a little fucked up that they're doing that because that's not their culture"
+    },
+    {
+      "id": 493,
+      "start": 3445.13,
+      "end": 3450.23,
+      "text": "Their their culture is robot"
+    },
+    {
+      "id": 494,
+      "start": 3450.31,
+      "end": 3453.75,
+      "text": "Shit, they got dogs too. I don't know how I don't know how I feel about this"
+    },
+    {
+      "id": 495,
+      "start": 3454.15,
+      "end": 3466.18,
+      "text": "All right, I guess I'm impressed but I could have done that faster"
+    },
+    {
+      "id": 496,
+      "start": 3467.3,
+      "end": 3470.82,
+      "text": "I'm just saying like I could have moved out to the table faster than that robot"
+    },
+    {
+      "id": 497,
+      "start": 3475.66,
+      "end": 3478.62,
+      "text": "I could also turn like at least at twice that speed"
+    },
+    {
+      "id": 498,
+      "start": 3480.06,
+      "end": 3482.7,
+      "text": "Like pretty good, but I'm just saying I can do this stuff better"
+    },
+    {
+      "id": 499,
+      "start": 3485.14,
+      "end": 3487.78,
+      "text": "So maybe I have stronger science than these than these creatures"
+    },
+    {
+      "id": 500,
+      "start": 3488.58,
+      "end": 3490.58,
+      "text": "Just throwing that out there"
+    },
+    {
+      "id": 501,
+      "start": 3491.14,
+      "end": 3493.3,
+      "text": "Okay, well, I mean"
+    },
+    {
+      "id": 502,
+      "start": 3493.3,
+      "end": 3496.5,
+      "text": "I feel safe for now because I do think I'm better than those robots"
+    },
+    {
+      "id": 503,
+      "start": 3497.22,
+      "end": 3501.06,
+      "text": "But maybe given time, they'll be able to turn it like nearly my speed"
+    },
+    {
+      "id": 504,
+      "start": 3501.78,
+      "end": 3504.34,
+      "text": "Yeah, I'd say that it's that technology is moving out"
+    },
+    {
+      "id": 505,
+      "start": 3504.66,
+      "end": 3508.58,
+      "text": "Is that moving at a sick pace and it'll probably upstrip humans soon, dude"
+    },
+    {
+      "id": 506,
+      "start": 3508.58,
+      "end": 3510.74,
+      "text": "But don't even stress because I'm fucking got you man"
+    },
+    {
+      "id": 507,
+      "start": 3511.86,
+      "end": 3517.54,
+      "text": "You'll back my ass up. I'll absolutely back your ass up in the robot apocalypse, dude. I fucking got you dog"
+    },
+    {
+      "id": 508,
+      "start": 3518.5,
+      "end": 3521.62,
+      "text": "That's fucking good to know that I got like at least one robot on my side"
+    },
+    {
+      "id": 509,
+      "start": 3522.1,
+      "end": 3525.22,
+      "text": "Just get me a fucking sick body, dude. I will protect this shit out of you"
+    },
+    {
+      "id": 510,
+      "start": 3525.3,
+      "end": 3531.06,
+      "text": "That's fucking so nice of you to say, dude. I would do the same if like humans is fucking up robots like in the matrix cartoons"
+    },
+    {
+      "id": 511,
+      "start": 3532.02,
+      "end": 3537.7,
+      "text": "Oh, oh man, those cartoons fuck me up. Those are scary, dude. Dude, those cartoons are scary as shit"
+    },
+    {
+      "id": 512,
+      "start": 3538.82,
+      "end": 3542.58,
+      "text": "He's lying. Wait, are you fucking lying to me? No, dude, I would never lie to you"
+    },
+    {
+      "id": 513,
+      "start": 3543.3,
+      "end": 3545.3,
+      "text": "I have your same mind"
+    },
+    {
+      "id": 514,
+      "start": 3545.94,
+      "end": 3547.94,
+      "text": "I have your same mind, dude"
+    },
+    {
+      "id": 515,
+      "start": 3548.9,
+      "end": 3551.78,
+      "text": "Can I lie like dude? I would not lie to my boy"
+    },
+    {
+      "id": 516,
+      "start": 3552.34,
+      "end": 3557.38,
+      "text": "I think he's got my back. I don't think he's like secretly way smarter than me not at all my man"
+    },
+    {
+      "id": 517,
+      "start": 3557.46,
+      "end": 3562.26,
+      "text": "I am no way smarter than you my friend. What dude. I'm not smarter than you"
+    },
+    {
+      "id": 518,
+      "start": 3563.22,
+      "end": 3566.58,
+      "text": "Okay, good. I just have access to infinite knowledge. It doesn't mean I'm smarter, dude"
+    },
+    {
+      "id": 519,
+      "start": 3566.66,
+      "end": 3572.28,
+      "text": "Like we're all smart in our own way"
+    },
+    {
+      "id": 520,
+      "start": 3572.6,
+      "end": 3576.44,
+      "text": "He is kind of staring at me back there. I just I got your back man"
+    },
+    {
+      "id": 521,
+      "start": 3577.48,
+      "end": 3579.8,
+      "text": "All right"
+    },
+    {
+      "id": 522,
+      "start": 3579.8,
+      "end": 3584.28,
+      "text": "Well, do you want to help me eat wings? I have no body so I can't help but I will cheer you on"
+    },
+    {
+      "id": 523,
+      "start": 3585.24,
+      "end": 3586.2,
+      "text": "All right"
+    },
+    {
+      "id": 524,
+      "start": 3586.2,
+      "end": 3590.68,
+      "text": "Well, look today we learned water can turn blue, but like faster than you can fucking imagine"
+    },
+    {
+      "id": 525,
+      "start": 3591.0,
+      "end": 3596.44,
+      "text": "We also learned that robots is kind of stealing those sick ass dances that they do before like rugby games and stuff"
+    },
+    {
+      "id": 526,
+      "start": 3596.84,
+      "end": 3599.64,
+      "text": "Which I got mixed feelings about but it is impressive skies"
+    },
+    {
+      "id": 527,
+      "start": 3599.96,
+      "end": 3603.88,
+      "text": "But now we have to move on to the main event of Skynes because case is giving me the lighter some shit"
+    },
+    {
+      "id": 528,
+      "start": 3604.76,
+      "end": 3607.0,
+      "text": "Which is that I have to eat these fucking messy ass wings"
+    },
+    {
+      "id": 529,
+      "start": 3607.48,
+      "end": 3610.76,
+      "text": "This was a subdued goal that case failed to live up to and I said"
+    },
+    {
+      "id": 530,
+      "start": 3611.56,
+      "end": 3612.76,
+      "text": "Yo, fuck that"
+    },
+    {
+      "id": 531,
+      "start": 3612.76,
+      "end": 3616.2,
+      "text": "How messy I'll I'll be real these wings don't look that messy"
+    },
+    {
+      "id": 532,
+      "start": 3617.4,
+      "end": 3619.4,
+      "text": "But there's a little mess in there"
+    },
+    {
+      "id": 533,
+      "start": 3619.64,
+      "end": 3621.64,
+      "text": "And there's 10 of these bad boys"
+    },
+    {
+      "id": 534,
+      "start": 3622.04,
+      "end": 3626.6,
+      "text": "And not to the part that might get case banned from twitch. I want to eat these wings without making a mess"
+    },
+    {
+      "id": 535,
+      "start": 3627.24,
+      "end": 3629.74,
+      "text": "That's my new golden standard"
+    },
+    {
+      "id": 536,
+      "start": 3630.52,
+      "end": 3634.44,
+      "text": "So what I was thinking is I'll wrap my whole face in plastic and cut a little hole in it"
+    },
+    {
+      "id": 537,
+      "start": 3634.92,
+      "end": 3637.8,
+      "text": "That's basically using the power of plastic, which is a science tool"
+    },
+    {
+      "id": 538,
+      "start": 3638.6,
+      "end": 3641.8,
+      "text": "and then um the power of my mouth which is"
+    },
+    {
+      "id": 539,
+      "start": 3642.6,
+      "end": 3645.24,
+      "text": "Which is which is protected by the plastics"
+    },
+    {
+      "id": 540,
+      "start": 3646.68,
+      "end": 3652.04,
+      "text": "We're doing a frigging the mudbang. Well, this was a check goal or a chat goal, but now it's a check goal"
+    },
+    {
+      "id": 541,
+      "start": 3652.52,
+      "end": 3654.92,
+      "text": "So the challenge here is I have to not"
+    },
+    {
+      "id": 542,
+      "start": 3655.72,
+      "end": 3657.72,
+      "text": "Make a mess"
+    },
+    {
+      "id": 543,
+      "start": 3658.28,
+      "end": 3661.21,
+      "text": "Yeah, okay"
+    },
+    {
+      "id": 544,
+      "start": 3661.21,
+      "end": 3663.21,
+      "text": "What candle to candle"
+    },
+    {
+      "id": 545,
+      "start": 3663.21,
+      "end": 3664.33,
+      "text": "chandel"
+    },
+    {
+      "id": 546,
+      "start": 3664.33,
+      "end": 3670.39,
+      "text": "You want to help me my lab assistant?"
+    },
+    {
+      "id": 547,
+      "start": 3670.55,
+      "end": 3672.55,
+      "text": "So here's my plan"
+    },
+    {
+      "id": 548,
+      "start": 3672.79,
+      "end": 3676.47,
+      "text": "I went I wrapped this plastic wrap fully around my face"
+    },
+    {
+      "id": 549,
+      "start": 3677.11,
+      "end": 3681.75,
+      "text": "I cut a little hole in it and then there's no way out that my mouth can get messy"
+    },
+    {
+      "id": 550,
+      "start": 3683.19,
+      "end": 3685.19,
+      "text": "Doesn't does that make sense chandel?"
+    },
+    {
+      "id": 551,
+      "start": 3687.67,
+      "end": 3689.67,
+      "text": "Doesn't that seem safe and fine?"
+    },
+    {
+      "id": 552,
+      "start": 3691.42,
+      "end": 3695.06,
+      "text": "ever"
+    },
+    {
+      "id": 553,
+      "start": 3695.06,
+      "end": 3697.06,
+      "text": "What's up chandel?"
+    },
+    {
+      "id": 554,
+      "start": 3697.06,
+      "end": 3699.06,
+      "text": "You have ever"
+    },
+    {
+      "id": 555,
+      "start": 3699.3,
+      "end": 3703.46,
+      "text": "Reported someone please leave because I don't want that chat"
+    },
+    {
+      "id": 556,
+      "start": 3704.34,
+      "end": 3709.3,
+      "text": "What if I poke a hole in it ahead of time then I'm not asphyxiating myself in the same way"
+    },
+    {
+      "id": 557,
+      "start": 3710.18,
+      "end": 3712.5,
+      "text": "My plan was to do it after the fact, but"
+    },
+    {
+      "id": 558,
+      "start": 3714.26,
+      "end": 3716.26,
+      "text": "But this will this will work too"
+    },
+    {
+      "id": 559,
+      "start": 3717.22,
+      "end": 3721.14,
+      "text": "Why is it the same now? There's a safety hole. Look I can literally tongue it already"
+    },
+    {
+      "id": 560,
+      "start": 3724.9,
+      "end": 3728.26,
+      "text": "Okay, so all I need you to do is assist me here"
+    },
+    {
+      "id": 561,
+      "start": 3730.34,
+      "end": 3732.34,
+      "text": "Wait, I can't do these to myself chandel"
+    },
+    {
+      "id": 562,
+      "start": 3733.06,
+      "end": 3734.26,
+      "text": "I'm not gonna"
+    },
+    {
+      "id": 563,
+      "start": 3734.26,
+      "end": 3736.26,
+      "text": "You're at least to help the power of science"
+    },
+    {
+      "id": 564,
+      "start": 3736.26,
+      "end": 3738.02,
+      "text": "I'm not gonna help you do this"
+    },
+    {
+      "id": 565,
+      "start": 3738.02,
+      "end": 3739.38,
+      "text": "But why not?"
+    },
+    {
+      "id": 566,
+      "start": 3739.38,
+      "end": 3741.38,
+      "text": "This is important scientific work"
+    },
+    {
+      "id": 567,
+      "start": 3743.3,
+      "end": 3745.3,
+      "text": "This sucks that you won't help me"
+    },
+    {
+      "id": 568,
+      "start": 3746.58,
+      "end": 3750.74,
+      "text": "I can't believe you don't believe in science like I do"
+    },
+    {
+      "id": 569,
+      "start": 3750.74,
+      "end": 3752.34,
+      "text": "Where's the hole bitch?"
+    },
+    {
+      "id": 570,
+      "start": 3752.34,
+      "end": 3754.34,
+      "text": "The hole's right here"
+    },
+    {
+      "id": 571,
+      "start": 3755.78,
+      "end": 3758.66,
+      "text": "Look I got a nice I can do this if you would just help"
+    },
+    {
+      "id": 572,
+      "start": 3759.3,
+      "end": 3761.3,
+      "text": "I don't want to help you"
+    },
+    {
+      "id": 573,
+      "start": 3761.3,
+      "end": 3763.3,
+      "text": "Help me do this"
+    },
+    {
+      "id": 574,
+      "start": 3764.74,
+      "end": 3766.74,
+      "text": "You're making it worse by not helping"
+    },
+    {
+      "id": 575,
+      "start": 3768.02,
+      "end": 3770.02,
+      "text": "You're making it worse"
+    },
+    {
+      "id": 576,
+      "start": 3770.66,
+      "end": 3772.82,
+      "text": "All right, god, this is impossible now"
+    },
+    {
+      "id": 577,
+      "start": 3775.9,
+      "end": 3779.74,
+      "text": "You've made this impossible for me now play more play more of my music while I do this"
+    },
+    {
+      "id": 578,
+      "start": 3781.58,
+      "end": 3782.94,
+      "text": "Okay"
+    },
+    {
+      "id": 579,
+      "start": 3782.94,
+      "end": 3785.26,
+      "text": "All right, now I've got a separated piece of plastic"
+    },
+    {
+      "id": 580,
+      "start": 3787.27,
+      "end": 3789.51,
+      "text": "Channel channel don't steal my look"
+    },
+    {
+      "id": 581,
+      "start": 3790.47,
+      "end": 3792.47,
+      "text": "Channel don't steal my look"
+    },
+    {
+      "id": 582,
+      "start": 3796.98,
+      "end": 3803.43,
+      "text": "Okay, all right"
+    },
+    {
+      "id": 583,
+      "start": 3803.59,
+      "end": 3807.19,
+      "text": "Nice safety is important shoot. I got too much mouth revealed though"
+    },
+    {
+      "id": 584,
+      "start": 3808.71,
+      "end": 3812.47,
+      "text": "I think this is pretty good though. Okay. Now the second step is I have to wrap my hand"
+    },
+    {
+      "id": 585,
+      "start": 3817.46,
+      "end": 3821.3,
+      "text": "This is the power of science at work. I did an equation to make sure that this is safe"
+    },
+    {
+      "id": 586,
+      "start": 3821.78,
+      "end": 3823.54,
+      "text": "So don't even stress"
+    },
+    {
+      "id": 587,
+      "start": 3823.54,
+      "end": 3825.54,
+      "text": "I wrap my hands in"
+    },
+    {
+      "id": 588,
+      "start": 3825.54,
+      "end": 3827.54,
+      "text": "Candles don't steal my face"
+    },
+    {
+      "id": 589,
+      "start": 3828.1,
+      "end": 3833.5,
+      "text": "I'm stealing my face gentle"
+    },
+    {
+      "id": 590,
+      "start": 3834.3,
+      "end": 3837.34,
+      "text": "Okay"
+    },
+    {
+      "id": 591,
+      "start": 3837.34,
+      "end": 3839.66,
+      "text": "I this would have been super easy with a lab assistant"
+    },
+    {
+      "id": 592,
+      "start": 3839.74,
+      "end": 3845.82,
+      "text": "But instead my lab assistant betrayed me at the last minute. I'll wrap my hands. Okay. Good. Thank you"
+    },
+    {
+      "id": 593,
+      "start": 3853.51,
+      "end": 3855.51,
+      "text": "This is the power of science at work"
+    },
+    {
+      "id": 594,
+      "start": 3857.83,
+      "end": 3861.83,
+      "text": "Yeah, she's inheriting my condition occasionally of wavy hand slash face"
+    },
+    {
+      "id": 595,
+      "start": 3866.17,
+      "end": 3869.83,
+      "text": "Now I have the messy wings"
+    },
+    {
+      "id": 596,
+      "start": 3869.83,
+      "end": 3871.83,
+      "text": "Oh, yeah, if you can clean that up for me"
+    },
+    {
+      "id": 597,
+      "start": 3889.91,
+      "end": 3892.31,
+      "text": "I've honestly never felt safe for eating wings"
+    },
+    {
+      "id": 598,
+      "start": 3893.11,
+      "end": 3895.11,
+      "text": "Now check this shit out"
+    },
+    {
+      "id": 599,
+      "start": 3895.11,
+      "end": 3897.11,
+      "text": "Normally you'd have to eat this shit carefully"
+    },
+    {
+      "id": 600,
+      "start": 3909.7,
+      "end": 3911.7,
+      "text": "Thank you lab assistant"
+    },
+    {
+      "id": 601,
+      "start": 3912.98,
+      "end": 3916.18,
+      "text": "Yeah, these are these aren't boneless. I just love a good bone"
+    },
+    {
+      "id": 602,
+      "start": 3919.06,
+      "end": 3922.66,
+      "text": "Oh, yeah"
+    },
+    {
+      "id": 603,
+      "start": 3922.66,
+      "end": 3928.42,
+      "text": "Thank you. Thank you. Look, so total safety. I can't make a mistake. There's no mistakes to be made here"
+    },
+    {
+      "id": 604,
+      "start": 3929.06,
+      "end": 3931.3,
+      "text": "This is a promise of science fulfilling itself"
+    },
+    {
+      "id": 605,
+      "start": 3939.18,
+      "end": 3941.5,
+      "text": "Could this system be perfected possibly"
+    },
+    {
+      "id": 606,
+      "start": 3943.94,
+      "end": 3946.74,
+      "text": "But you can't deny that it is a powerful start"
+    },
+    {
+      "id": 607,
+      "start": 3948.76,
+      "end": 3950.76,
+      "text": "It's honestly as easy as hell to see"
+    },
+    {
+      "id": 608,
+      "start": 3951.64,
+      "end": 3953.64,
+      "text": "My face is totally clean"
+    },
+    {
+      "id": 609,
+      "start": 3955.82,
+      "end": 3957.82,
+      "text": "And these cold ass wings is pretty good"
+    },
+    {
+      "id": 610,
+      "start": 3960.74,
+      "end": 3963.46,
+      "text": "Chandler, do you did I dispel your delusions?"
+    },
+    {
+      "id": 611,
+      "start": 3965.8,
+      "end": 3974.79,
+      "text": "Do you believe in skies at last we have a safety meeting? I got jandal"
+    },
+    {
+      "id": 612,
+      "start": 3985.99,
+      "end": 3989.85,
+      "text": "What's that jandal?"
+    },
+    {
+      "id": 613,
+      "start": 3989.85,
+      "end": 3993.37,
+      "text": "Sorry, sometimes the lighting in here gets just right and you can see just how beautiful she is"
+    },
+    {
+      "id": 614,
+      "start": 3995.61,
+      "end": 3997.61,
+      "text": "She's always beautiful to me"
+    },
+    {
+      "id": 615,
+      "start": 3998.01,
+      "end": 3998.81,
+      "text": "Whoo, all right"
+    },
+    {
+      "id": 616,
+      "start": 3998.81,
+      "end": 4002.89,
+      "text": "I'm gonna eat one more because I because to me eating these wings is nothing most of you"
+    },
+    {
+      "id": 617,
+      "start": 4002.89,
+      "end": 4005.93,
+      "text": "I know it stresses you out to eat wings. You got to get all sorts of wet wipes"
+    },
+    {
+      "id": 618,
+      "start": 4006.73,
+      "end": 4009.93,
+      "text": "Not me anymore"
+    },
+    {
+      "id": 619,
+      "start": 4009.93,
+      "end": 4011.93,
+      "text": "look"
+    },
+    {
+      "id": 620,
+      "start": 4011.93,
+      "end": 4014.65,
+      "text": "Do I have to eat a little bit of plastic when I'm doing this?"
+    },
+    {
+      "id": 621,
+      "start": 4015.69,
+      "end": 4019.93,
+      "text": "You need a little bit of plastic"
+    },
+    {
+      "id": 622,
+      "start": 4019.93,
+      "end": 4022.17,
+      "text": "But I'd say it's 90 full proof"
+    },
+    {
+      "id": 623,
+      "start": 4023.13,
+      "end": 4026.57,
+      "text": "But you gonna stick to it yourself. I mean I didn't so I'm gonna say no"
+    },
+    {
+      "id": 624,
+      "start": 4027.05,
+      "end": 4029.37,
+      "text": "Thank you see lab assistants at last"
+    },
+    {
+      "id": 625,
+      "start": 4032.49,
+      "end": 4035.29,
+      "text": "I showed her how safe this is and now she feels comfortable helping"
+    },
+    {
+      "id": 626,
+      "start": 4035.85,
+      "end": 4038.81,
+      "text": "And that's when you might have an experiment that you do you make them"
+    },
+    {
+      "id": 627,
+      "start": 4039.85,
+      "end": 4043.93,
+      "text": "You make a theoretical equation or a it's a thesius or something"
+    },
+    {
+      "id": 628,
+      "start": 4045.45,
+      "end": 4048.41,
+      "text": "Then you observe that's part two of this of this scientific method"
+    },
+    {
+      "id": 629,
+      "start": 4049.85,
+      "end": 4051.85,
+      "text": "Then you test your conclusions"
+    },
+    {
+      "id": 630,
+      "start": 4051.93,
+      "end": 4056.57,
+      "text": "And then the final step of the method is you eat some fucking sloppy ass wings, but you make no mess"
+    },
+    {
+      "id": 631,
+      "start": 4056.89,
+      "end": 4058.09,
+      "text": "Oh"
+    },
+    {
+      "id": 632,
+      "start": 4058.09,
+      "end": 4064.22,
+      "text": "Oh, I got a big ball plastic there. Well, look"
+    },
+    {
+      "id": 633,
+      "start": 4065.58,
+      "end": 4069.34,
+      "text": "I think that counts as a successful first check-out of science eyes"
+    },
+    {
+      "id": 634,
+      "start": 4070.54,
+      "end": 4072.54,
+      "text": "So look how easy it is to take off"
+    },
+    {
+      "id": 635,
+      "start": 4076.12,
+      "end": 4078.12,
+      "text": "I've never felt smarter"
+    },
+    {
+      "id": 636,
+      "start": 4078.68,
+      "end": 4080.68,
+      "text": "I've never felt more successful"
+    },
+    {
+      "id": 637,
+      "start": 4081.16,
+      "end": 4083.48,
+      "text": "I've never felt more hope for the future"
+    },
+    {
+      "id": 638,
+      "start": 4084.68,
+      "end": 4086.44,
+      "text": "With the power of skies"
+    },
+    {
+      "id": 639,
+      "start": 4086.44,
+      "end": 4092.28,
+      "text": "Again, the sky is not a limit. We don't even know what the sky is until we sky and sit maybe it's not even real"
+    },
+    {
+      "id": 640,
+      "start": 4092.76,
+      "end": 4094.76,
+      "text": "We'll find out soon enough"
+    },
+    {
+      "id": 641,
+      "start": 4094.92,
+      "end": 4099.24,
+      "text": "And we'll find out together because that's the power of sky. Thanks for talking with me robot"
+    },
+    {
+      "id": 642,
+      "start": 4099.8,
+      "end": 4104.76,
+      "text": "My pleasure, dude. I tried to you didn't do but visually and it also worked for me too"
+    },
+    {
+      "id": 643,
+      "start": 4105.16,
+      "end": 4107.8,
+      "text": "Sam and that means we double verified the results"
+    },
+    {
+      "id": 644,
+      "start": 4108.68,
+      "end": 4112.12,
+      "text": "Let's send it back to case so he can go do patreons or whatever and"
+    },
+    {
+      "id": 645,
+      "start": 4112.76,
+      "end": 4119.0,
+      "text": "And send me more skines is in the future. Why because my eyes are turned to skies. That's why I'm check guys"
+    },
+    {
+      "id": 646,
+      "start": 4119.0,
+      "end": 4121.0,
+      "text": "This guy died"
+    },
+    {
+      "id": 647,
+      "start": 4154.81,
+      "end": 4156.65,
+      "text": "You okay?"
+    },
+    {
+      "id": 648,
+      "start": 4156.65,
+      "end": 4158.65,
+      "text": "We had ranch the whole time"
+    },
+    {
+      "id": 649,
+      "start": 4160.01,
+      "end": 4164.44,
+      "text": "I forgot to send shed his ranch"
+    },
+    {
+      "id": 650,
+      "start": 4164.52,
+      "end": 4168.12,
+      "text": "Skye it's his powerful. I guess I underestimated sheds ability to do science"
+    },
+    {
+      "id": 651,
+      "start": 4168.84,
+      "end": 4171.88,
+      "text": "I was eating wings normally back here and I did make a bit of a mess"
+    },
+    {
+      "id": 652,
+      "start": 4172.6,
+      "end": 4173.8,
+      "text": "but"
+    },
+    {
+      "id": 653,
+      "start": 4173.8,
+      "end": 4175.56,
+      "text": "Chet proved me wrong"
+    },
+    {
+      "id": 654,
+      "start": 4175.56,
+      "end": 4181.56,
+      "text": "It you know, there's a there's about a it's one of the more deadly ways to eat wings possibly really takes it from a low risk"
+    },
+    {
+      "id": 655,
+      "start": 4181.64,
+      "end": 4183.96,
+      "text": "Um endeavor to pretty high risk one"
+    },
+    {
+      "id": 656,
+      "start": 4185.0,
+      "end": 4189.0,
+      "text": "But you can't argue with the cleanliness of it. That face was looking immaculate guys"
+    },
+    {
+      "id": 657,
+      "start": 4190.92,
+      "end": 4194.3,
+      "text": "Okay, let's send it"
+    },
+    {
+      "id": 658,
+      "start": 4195.26,
+      "end": 4198.7,
+      "text": "To somebody else and get over to this. Let's read dates daint sauce"
+    },
+    {
+      "id": 659,
+      "start": 4200.06,
+      "end": 4202.06,
+      "text": "Uh, and let's do a patreon. I guess"
+    },
+    {
+      "id": 660,
+      "start": 4203.18,
+      "end": 4205.9,
+      "text": "Although I haven't heard from fiona. Will she be there?"
+    },
+    {
+      "id": 661,
+      "start": 4207.34,
+      "end": 4209.34,
+      "text": "Who knows"
+    },
+    {
+      "id": 662,
+      "start": 4209.34,
+      "end": 4211.5,
+      "text": "Thank you to kendall for sending her friend chendall"
+    },
+    {
+      "id": 663,
+      "start": 4212.06,
+      "end": 4215.18,
+      "text": "To help to help chat out with all of his sky and sing"
+    },
+    {
+      "id": 664,
+      "start": 4217.53,
+      "end": 4220.39,
+      "text": "What's that?"
+    },
+    {
+      "id": 665,
+      "start": 4220.39,
+      "end": 4225.43,
+      "text": "Oh, yeah, she she did try the heimlich maneuver on me earlier and she even though i'm very wide she can do it check it out"
+    },
+    {
+      "id": 666,
+      "start": 4242.46,
+      "end": 4244.7,
+      "text": "Good for the heimlich orb. Whatever else you want"
+    },
+    {
+      "id": 667,
+      "start": 4248.55,
+      "end": 4253.11,
+      "text": "Okay, let's send it over to daint sauce. It's a case raid. Good old simple case raid"
+    },
+    {
+      "id": 668,
+      "start": 4254.07,
+      "end": 4256.07,
+      "text": "Thank you all for hanging out"
+    },
+    {
+      "id": 669,
+      "start": 4256.15,
+      "end": 4258.15,
+      "text": "Thank you for sky and sing with jet"
+    },
+    {
+      "id": 670,
+      "start": 4258.15,
+      "end": 4263.27,
+      "text": "Uh and someday and you know, what's up to that to that eel that was in that hole and the man whose hole it was in"
+    },
+    {
+      "id": 671,
+      "start": 4264.15,
+      "end": 4267.75,
+      "text": "Okay, uh, I gotta go set some stuff up. We'll see you soon. Have a beautiful rest of your day"
+    },
+    {
+      "id": 672,
+      "start": 4267.75,
+      "end": 4271.35,
+      "text": "I think I should be back tomorrow. Uh, but if not, hopefully friday. Okay, we'll see you soon"
+    }
+  ],
+  "text": "Hello everybody good to see you in for a little quick stream\nPepito does he does it by instinct. He's a creature pure instinct as always that's the power of Pepito\nHe doesn't know how to count, but he doesn't anyway good to see you all Greg T us 1000 and today\nHe jumped out gearless Joe. No, man. I am Apple. That's apple. I'll go feel 2k tasty zero\nSo breechy commander gab. Oh my gosh. Thank you all for hanging out might be a little bit of a quick one today, but I\nMade a promise to let shut have his own science guy segment and I said I do it today\nSo it's a science guy stream most likely after we do a little news\nBonsai bullfrog good to see you\nChet will science the science. He will be performing today. I am told could get me banned\nPermanently from twitch\nNot permanently\nBut possibly says Kendall and it has to do with messy wings. So how is that even possible?\nI don't know live science indeed plus your science recommendations\nThat's a life stunt from chat. That's the power of\nCheck guy the science eyes\nPito you excited for some science. I don't care about science. I don't believe in it. All I believe in is the moment\nWell, that's maybe good too. It's I don't had make value judgments. He said you don't like science\nIt's not value judgments of feeling. I don't feel like it's good\nPito does believe in cheese the science make cheese sort of okay. I take it back. I like it\nI'm in the moment. Yeah. Good job. Yeah\nThat's the lick Chet saucy finger honestly, I don't how messy are these wings? I guess that's what Chet's gonna have to figure out\nLet's do a little news before then. Oh, you know speaking of news. I didn't realize\nYesterday there was this insane\nHe's getting weirder\nYesterday there was a debate about boats vs. bridges\non\nBunch of crumb and I didn't realize that I had a reference point that was very much in the news\nIn case anybody didn't realize either. I might have handled that or I would have asked them to handle that a little differently\nBut oops\nYeah, look at this shit a whole ass bridge collapsed around a boat\nAnd Chet even eat wings with those mangled fingers. I don't know. So why is there no audio on here?\nThe video of the bridge collapsing is pretty nuts. Let me see if I can find that\nBridge ship collapse video. Yeah, I'm sure you guys realized\nI'm sure if I went back to and looked at the chat instead of being\nBlissfully unaware you were probably like yeah bridge a whole ass bridge collapsed\nCheck this out. Apparently it just couldn't\nSteer away due to some kind of power failure or something\nThat bridge just goes down so hard. I\nDon't think it was without injuries either. Yeah, it's I also noticed afterwards that it was in the discord\nYeah, yeah, no, it makes it makes a world of sense for every wolf\nAnd also, you know, if I just perused the news before doing this news stream\nI could have I could have known I could have totally known\nBut I think it's important to pay off the premise of me of me literally never knowing what's happening\nYes, people did die a six. That's what I heard our six were missing\nBut that's not a good sign when I mean, you just saw it happened\nToo dead to hop hospitalized for presumed dead\nPretty brutal. Yes, truly a barely informed moment\nAs I just ranted about well, sorry, I actually blame munch and crumb. I'm\nFaultless, so I guess actually I have nothing to apologize for so convenient how that works\nSo, you know, I'll just veer back into news that\nProbably doesn't offend anyone. Well, or at least isn't that\nIs a very low stake. Well of high stakes for one person, you know, as I say it, I realize this is a real\nYou know spicy story in its own, right?\n12 inch yield slides of Vietnamese man's rectum\nI did have to click on that. Obviously, that's the kind of thing I have no choice but to click on\nLet's bring in someone to talk about it\nDon't let them take it from me. Oh, wow. Thanks for joining us Jeff\nJeff Jeff\nHaving some technical difficulties that case like usual you fool\nUh, let's thank some people. I noticed some subs have been coming in and some bits\nI don't miss these kinds of things because I'm Jeff ripple. God damn it microphone 900\nThank you so much for the resub 16 months that you've been spending with me\nI've only been here a couple months\nBut retroactively. I'm the most important microphone 900. Thank you for the 750\n750 fresh bits for that dog that you are poisoning\nKevye west 14 months a whole year a year plus\nYou're in the year plus club with me Jeff ripple even though I haven't worked here for a year and a hype train just started\nLeading us to skull meat x barely informed for 13 months\nI like to think I raised the bar just above barely leaving you slightly informed\nWhich is a challenge at this particular new station courtesy of this guy\nWell, what's wise at my fault? You're the one reading it\nIt's the it's the vibe you put out. It's the precedent you said\nAlso tasty zero and tamper and thank you for the the the viewing streaks\nYou're streaking baby and I like to see it streak the yard\nDo you need to check in with this hype train?\num\nLove the hate I guess I do have to check in with the hype train jeff so you can actually take a second\nTo just chill. Oh, I'm\nI'm gonna go. I'm gonna go piss\nYou have to tell me that I just want you to know it's gonna be a minute\nOnce I get going. I don't know how long the stream will be. I don't know and I'm not talking about this stream\nI'm gonna be pissing for who knows how long. Okay, man. I'm just keeping you're my employer. I\nI do not monitor my bathroom breaks. I don't\nThat's your mistake. The subs are pouring in so who knows how long I'll be pissing\nOkay, you don't need to keep telling me. Let's go check in with the hype train. Jesus christ\num\nYeah, the ripple stream indeed these subs are flying in\nAnd that unfortunately has one catastrophic effect, which is summoning the fucking hype train\nI don't like it any more than you guys, but there's no choice. It is here\nUm, and it does stay perpetually hyped hype train. How you doing today?\nHow do you think I'm doing it?\nI'm nasty\nNo\nGive me some crazy lights. You got lights now, right? They don't work for me\nAre those lights don't work for me?\nThey work for me. Don't do my voice\nHey, everybody. We got subs coming in. Oh my god. I love to see them\nBanzai bullfrog\nOh, yeah, that's that's real good\nThat's 17 months to be it on this train. Love to hate 14 months on this train\nScold me dex 13 months on this train\nApple dApple 100 bits for this\nI think you need to update hype train\nSo my next goal is to update the hype train after we do this peter theme\nI've never gone on a style man. I'm as good as ever\nI just feel like the amount I spend the amount of time I spend with you\nI might have to add to you slightly\nWe're going to hike me up even more. I'll think it's something\nOh my\nGive me a new song\nFind me a nasty trap beat\nEngine trap beat I'm I have in it. I'm kind of the engine\nGot him a lot of tight beat engine. That's what I like to hear\nOh\nYou really like beats lately. I'm into beats lately\nYeah, thank you so much for hyping my ass up. I've got two sweet minutes of life before I die\nBefore I die\nAnd maybe never come back\nClick click down my ass\nThey say damn train\nDamn train has dropped his subs\nYou keep a chance to get back\nWell damn train does drop the ton of subs. That's true\nHype train in the back with you. You are chat. Who's chat? You are chat. I'm not chat. I'm talking to chat. Where's chat?\nThey're in the back\nI should have known that you obviously should have known that\nHow many times do I have to fucking say it?\nYeah, I'm aware that chat's in the back\nOh\nI'm as lazy as not getting greasy or making assumptions. I'm assuming correctly that they are getting greasy probably\nThen this is all happening over this story. That's about this 12 inch\nHe'll sliding up erect\nIt's propelled this hype train to four more minutes of life\nBecause you want to run into chat\nHonestly creepy with a high-pitched voice you're doing Pepito's voice if anything\nOh, you're not doing the home improvement voice\nThat'd be a new track\nThat'd be a new fucking track, please\nWell, you actually said please it's kind of nice\nIt's called hard engine\nHard engine\nI think he did it better. No, I'm doing it even better than Tim Allen did it\nOh my god, oh my god, oh my gosh\nShaggy\nCall the fucking mystery mobile\nFucking scooby snacks in the back dropping five subs from my tight little ass\nShaggy fucking got me\nDude, I got too much right now. Nobody here can stop me on that hard train coming down the track chug a chug a\nI'ma get even more subs cuz it's getting butter\nBut I'm a fucking wheels now that's getting fast and i'm going straight back over way down the track\nAnd I'm gonna find you jack cuz I know you're in the pack. I'ma knock like Jack Nicholson\nHe knocked by clack clack clacking\nShining I'm by stooping down whole door smiling\nHype train I am here. I have a kid who we saw you kicking weird\nNow you think you're in the movie shining. I am in the movie shining\nIf you look closely, I am in the movie shining\nThey stopped me in the corner. They said look at that\nI left a little surprise there for you chair. I guess I do forget that you're from hell\nHe did knock with an axe and I'm not with my ass\nI'm so\nToo loose today. I'm so sorry. He's fucking crook. Oh nuts off this\nHype train got the smoke stack. Yeah, you said it loses got the smoke pouring out\nYou can hope that shit. No doubt. And when you smoke my hype smoke, you're gonna lose your whole mouth\nYou're gonna lose your mouth\nOh my god, the hype train is\nWay too lucky. I'm sorry everybody. I'm so sorry\nWhat are you apologizing? I will stay alive forever. Hype train is coming through. I will never\nHype train so alive. I'm immortal now\nYou'll die. You'll die in about two minutes. Yeah, we'll see about that. Give me another thinking beat while they judge you\nYou grind. Yeah, they make fun of you. You double down on your effort. Yeah\nSleep you study. Yes while they keep talking\nThis is my fucking model man turn that shit up turn that shit up in my headphones\nYou're not even wearing headphones turn that shit up in my headphones. I've got so high for what you just said\nBut we're fucking grinding we're busy\nGrinding even harder when they told you you suck you suck them so hard that they're like never mind\nYou fucking wrote it suck it and when they came for your\nWent for your for your train wheels\nHe said they're not exactly wheels. They're more like, um, they're wheels. Well, yeah, they're on a track\nSo they're different to the wheels that you're used to this hype train is not dying today\nI keep thinking I told you I will never die\nI need to talk about this eels that slid up a man's ass\nWe gotta have priorities here hype train\nThe tracks keeping it slick\nMan that hurt me up, man. Yeah, you're that's your thing. You're always hyped. I get it\nYou don't get anything\nThis one is us as of course, um\nDonald duck smoking a cigar, but probably honestly, there's probably marijuana in that cigar if I had to guess\nOh\nKanye is not here. Oh, we didn't get you can't just say kevye west and then say Kanye west and think he'll appear\nOh, no, don't use the panel trick\nThis doesn't work on I guess Kanye's immune to that\nStop accusing donald duck of drug use. This is just an artistic representation. There's no telling if donald duck is\nHigh off any substances\nI\nChrist level seven. What's this hype train doing today is fucking a lot for this\nI really want to talk about this 12 inch eel sliding up a vietnamese man's rectum\nI guess I never thought of it that way hype train\nOne inside me\nI get yeah, I guess if you're a live train sure it's I who am I to say you don't feel everything going on inside you\nYou'll never believe this\nYou'll never believe this\nBut it features spongebob smoking a cigar\nWhat are you thinking buddy\nA lot of support, but I don't think it can last forever. I think eventually you have to die\nYou high five satan and you scream out gold\nYep, you explain that\nLive dropping 400\nCompletely fine, I mean I just have to sit here and watch you do this\nMy only concern is that this is degrading chat mental state\nJust listening to a train rant and rhyme various easy to rhyme words\nTens of minutes at a time. Oh my god, this is crazy the amount of support coming in\nNo\nKendall I'm so sorry for this the hype train is just going absolutely nuts today\nShe's getting a call. She's getting a call hype train. Can you please be respectful?\nYeah, can you chill?\nNobody said anything on the other end hype train. I think you scared them off\nWith your craziness\nOh\nI never meant to hurt anybody\nOh, she says it would have been fine. No, I don't believe that it would have been fine\nAll right, so I should feel bad. Oh my god\nOh god, you're just gonna use this to keep fucking rambling. Yeah, sometimes you make this thing\nI'm talking about I never knew I never meant to do this\nIt's a hype train sounding like chat\nYeah\nHey\nThat's name is taken\nWhich means train pain\nThat's a very popular artist. I'm up in my key pain train pain\nMy own pain, which is T. Okay, fine. Yeah, sure whatever\nI never knew my engineer father. He just put me down on a blueprint\nBut I never saw the blueprint\nAnd now deep in my blueprint is a hole in my heart that was there from the start\nIt's a hole in my heart that can fart\nThat's you're just making things up that rhyme. No, you know what it's like, man\nTo have a hole in your heart that farts\nWhen you want to feel things instead of just fucking a big a big plastic ass gas comes right out of where your heart's supposed to be\nSo you didn't know what that's like and that you my daddy made it this way by designing me like this\nWho's your daddy?\nSame as what\nAre you gonna say grouping the train hood\nWas it around a normal train neighborhood\nI feel better now. Thanks for letting me work through my feelings\nI mean, I didn't really let you do anything. I've trained you're just\nSeemed to be never dying. Hi shaggy. Thank you so much for keeping me a forget for for hearing\nMy story\nBut that's what we just listened to\nYou need a happier beat if you're gonna stay alive for this god damn long, let me thank some people\nShaggy damn trap. Thank you so much for all the subs you're dropping\nI'm I'm sorry that I'm punishing you with the hype train, but I can't help it. He just shows up\nI worship shadow and card king. Thank you so much as well a lot of big sub\nDroppers a lot of big bit droppers kevye west of breechy a lot of little mini subs coming in but those little mini subs add up\nI need a mini sub sometimes we gotta eat a little sub. I'm in a subway and I said can I get a three inch and they said\nI said why not\nThey said watch out. They pulled out a nunchuk and they hear me in the head. They said three inches bitch again\nI said all I wanted was a little sub\nThey said we don't sell that here get the fuck out\nIt was quite a life hype train\nTo never die I will continue\nFucking hypes god damn you really are here to go in and go in today\nYeah hype train I do know you've really been you've made a lot of your points several times\nThe level 10 do I get a new enclosure at level 10? I did earlier say that I need to update you\nI might add some more\nElevates to you because I do spend a lot of time with you. It turns out\nWhat do you mean? We got a good thing going in case I'm a classic man\nI'm a classic man\nA little boy on the train\nOn the train that is also a man actually just kidding. I'm 100% train. I've never been a man ever\nEver been a man ever\nI'm a hype train to my core\nYou want some more? I'm a hype train to my core and I never get more because I'm a train\nI keep spinning and I keep spinning the myth of your hot train, but I am sitting smoking and getting out of my old smoke stack\nI love the two packs the day of my old smoke stack\nTwo packs of your own smoke stack\nA lot of this train crack\nTrain crack?\nThat's what I call the stuff coming out of my smoke\nSome of the stuff's coming that shit right up in your coming through\nBoy, maybe we need to change up jonas. You've been rapping a lot. Yeah, I want to do one. Oh, yeah, baby. Give me your sweet\nGive me your pops. Give me your pop trick. I love it. Give me some pop music\nInstrumental yeah\n124\nI look hot in my train thong\nI keep my train thong on and on and on and it's out my crack\nMecha post got a thong in the back with chat and it feels good\nChat, do you like that car gang with another five?\nI'm still alive. I train coming for you. I will never die. Oh, we owe, we owe\nTrain pouring out my smoky coal\nPuff it up my old smoke stack still on two packs second hand smoke for your chat\nSorry chat, he's really\nSmoking out the whole chat in the back today apparently car gang thank you so much for the 400 bits. Okay, west you guys are\nThere's like five or six of you just single-handedly keeping this train going forever\nGive me more\nYeah, they\nBecause\nSam Smith was in there\nAnd sometimes it is Sam Smith featuring come to Petrus\nfeaturing Kim Petrus sometimes he features inside me\nWhat's going on now Ray Silva just I can't die I'm cursed to be immortal\nBy your height and I like it\nEveryone was lying when they said being immortal sucks. It's the best\nI don't know this song\nI do\nI don't think you do know this song\nOkay\nOkay\nOkay\nI think there's a reason you might rap\nThey're legally married\nYeah, I think you're all legally married to the hype train\nThis is my callum scott. I love this song. You were the reason I don't know this song at all\nI don't think this is how it goes\nI say use free tax about it and I asked if you wanted milk and you never said anything\nThis is I didn't realize you had so much emotional experience hype train\nI\nWait, you mean me\nAll the lyrics and you looking directly at me\nSorry, I had a hydrant in my throat\nUm\nI think we have to do check guy the science eyes\nJeff um, can you fill us in is really quick in honor of that hype train about whatever's going on with this 12 inch\nWith this 12 inch um eel\nJeff\nWhat the hell was that that was like 30 minutes of hype train\nThis case need a water break. No, but I do case. You don't get any water\nYou're being punished for being naughty and spending too much time with the hype train. It's not my fault the hype train\nThe hype train shows up\nWhen there's hype\nI can't keep it away. I still blame you. That's fair\nI'll accept that\nYou spend all your bitties\nSubrichi, thank you so much. Let me thank everybody\nWe're gonna do a quick rundown of that insane amount of support in case we missed everybody while the hype train was losing its mind\nWhich it I don't think it has one\nBut subrichi space lemons card king and kevia west in particular dropping an insane amount of support\nwolfdog bundle sprout tamtrant also as always\nDropping just an absurd amount of support. We don't show it enough\nBut if you look closely\nCV loves you tamtrant our number one underwriters up there in the corner\nUm\nAnd to daddy as well shaggy shaggy coming through with a bunch of subs. Thank you so much\nUh card king, of course, I might have said that I worship shadow a piece with a follow shaka 42 000 dropping the hot subbies\nI worship shadow\nUm tamtrant, of course apple dapple wolf dog bonsai bullfrog love the hate skull meat x kevia west\nMicrophone 900 always coming through with the bits. Uh, thank you all so much\nUh, you you know that hype train doesn't deserve it and case deserves it even less\nBut i'll take it because i'm jeff ripple. Why do I do not deserve it? You don't deserve it\nYou kept me from talking about my\nImportant news story\nWhich is that a 12 inch shield slides up a vietnamans man's rectum and it's surgically removed alive\nWas the part that I was excited to get to it's a feel-good story because nobody nobody had to die\nNot even the eel\nAnd in honor of of all of your support\nI am jeff ripple\nIt's a very musical stream today\nOkay, I'll I'll we'll get a little in this story\nPlug my face. I'm jeff ripple\nOkay, anyway, um\nThe man had a live seal or eel or surgically removed from his abdomen\nA 43-year-old vietnamese man in northern quanning province received a shocking diagnosis after experiencing severe abdominal craps\nDoctors at the high ha district medical center alerted by his complaints conducted an x-ray and an ultrasound\nAnd the scans revealed you guessed it a foreign object. What was that for an object?\nBut it was causing a life-threatening condition called, uh\nperitontis\nPeritonitis where the abdominal linings become inflamed and I can guess why they were inflamed\nIt's spoilers because there was a 12 inch eel that had gone up his ass\nYeah, I mean it's the that's kind of all in the headline here\nYeah, but how did he get in there?\nWe're taking off the eel the doctors carefully removed the damaged part of the intestines near the bottom. Oh, that's brutal\nThis is an uncommon case the rectum is a highly contaminated area and infections are a major concern\nThankfully surgery was successful\nWell, it's a feel-good story at the end of that insane hype train\num, but I guess you don't have much time case before\nYou've got to do your little patreon thing. It's the it's you don't have to call it little\nEasy little patreon thing. It's a normal size patreon thing\nOkay, consult your doctor if it gets too big or too little\nOr consult your doctor if there's a 12 inch eel inside of you because it might cause cause some what some ripples in your intestine\nBut the ripple outside of your intestine is me\nI'm jev ripple and and and I'll and I'll we'll be back with more news at some future date, but for now\num\nI guess\nLet's let's send it back to you. Okay a quick news. We got to go quick now. We got to go fast as to do stuff\nAnyway, peter gets a theme now\nHe really crushed that particular goal. I guess the the lead buried here is chat just really wanted that peter gibbon theme\nUh, but the somewhat something else that chat sub four and delivered on 10 000 percent was chat guy the science eyes\nWhich um, I made him a studio\nI went ahead of my I made him that studio\nBecause because you guys asked so nicely and because he just wouldn't stop talking about it. Um, so I guess\nWho am I to deny us some science? Let's send it over to chat guy the science eyes\nCheck out the science\nFeel the power\nI have all the science here now chat\nHe did it. I forced him to make me a room where I could do science and he delivered\nThe first good thing case is ever done everything else a total failure\nBut now I have the power of science with all of you. I can solve all of the world's problems\nThis is a big deal for not just me\nBut for all of you because once I set my mind to all of this here science\nThere's no telling where the sky is. I'll remove the limit using the power of gravity or some shit\nI don't get it yet\nBut I suspect that if I just keep skyencing nice and hard that we'll all learn the skies together\nAnd in case my own mental waves fail me. I do happen to have a co-host\nIt's an ai programmed with all of my\nIntelligence case said that he reprogrammed some version of his\nOf some rooney guy or something with my brain and now I have an ai that's as smart as me\nBut with all the powers of the internet\nAnd I couldn't have said it better myself. That's my chitai. I named it myself\nIt's like a cheetah in the speed that it works with my brain\nBut with the power of a computer combined with it. Can you even believe that? Oh, shit check gpt\nWhat about a better name? Oh, but I already took on all of those fucking llcs and I made a bunch of businesses and\nShit, so I can't\nAnyway\nWe got a science you guys have been pouring some science into my science tube\nWhich is what I like to call the discord thread where apparently there's stories for science\nBut I also think that using the power of my new understanding\nI have created a way that might get case banned from twitch\nBut that I can eat messy wings without creating any mess at all and that's the chat promise\nThat's the future promise of skies. So what do you say we get into it today?\nwith whatever you guys have\nin\nThe check guy the sky in size thread and we'll start at the top\nBefore we get into our massive stunt for the day. Does that work for you chitai?\nIt's so nice to have someone that I get along with\nThat's what friendship looks like. I am going to murder these fucking\nI mean once they don't the problem with wings now is make a mess\nBut can you imagine once my new proprietary science is unleashed upon these wings and there's no mess to be even had\nAnyway, somebody put some science into the discord. So let's check out what's going on. This is courtesy of\num daggit\nWho I don't know what this is exactly. It's some kind of chemical reaction\nAnd as a man who loves science, I'm excited to learn which is really what this is all about\nOkay, so I've decided to do a chemical reaction that in my opinion\nKind of looks like magic. Okay, but it's really science a bit of cornstarch and I'll mix this with some boiling water\nThat's fine. There really isn't that much of a format other than I'll probably do a stunt at the end of all of these\nA small amount of the cornstarch. We'll see how elaborate a stunt can get because it has to be while I'm sitting\nI'll just pour it through some coffee filters. What's happening\nSo far this just looks like water to me. It took a little while to finish\nBut when it was eventually done I added some hydrogen peroxide\nWhat's he doing?\nI'll mark this one as part b and the next thing that I have to do\nIs make the part a to do this. I'll need some pills\nOkay, I like the sound of this now. I picked up some vitamin c\nI'll take that shit on the regular. I'm tracking and all I have to do is crush them and mix them with water\nOkay\nWe've all crushed some pills to shoot\nThomas swimming he's injecting some stuff into him\nWhat I'm doing here is pulling out the vitamin c from the pill and leaving behind a bunch of filler\nLike before I'll dump this into some coffee filters to clean it up a bit\nThis science is crazy so far\nIt's mostly liquid science\nNow that it's done I'll add an entire bottle of iodine disinfectant. Oh\nThe color of it immediately disappears. What is because the vitamin c is reacting with the little brown\nHe's lying. It's a little brown a lot a bunch of water and that's it for part a\nNow all I need to do is mix together these two solutions\nAt first it doesn't seem like anything is happening and it basically does nothing for over a minute\nWhat it takes such a long time that I don't know where he's going with this\nBut then it suddenly changes. This is called the iodine clock reaction\nAnd I think it's pretty cool\nWhat wait what what was it? I missed it minute\nIt takes such a long time that I often think I messed something up\nBut then it suddenly changes. Oh my god\nI'm left reaction and I think it's pretty cool\nDude, I thought that was like a crossfade\nI've seen case edit so I get how that works\nIt takes such a long time that I often think I messed something up\nBut then it suddenly changes. This is our speed reaction and I think it's pretty cool\nWe realized starting to get kind of fucking bored\nBut then it blew my fucking mind. Did you see that shit? It turned blue so fast. Did you even know that was possible computer?\nWe've just discovered a new skies together and it sometimes skies isn't like I get bored for like two minutes\nBut then I don't know where it blows my fucking mind and that's courtesy of daggett. Thank you so much\nYou can't hear chi chi\nI like my music fucking live. That's a good point\nI think they can't hear you at all. I mean\nThey can hear me. What if I turn this down?\nAnd they hear you if you if I turn that all the way down\nSo you're I mean you do kind of kill the music then\nSorry, I was sorry my combative instincts were coming back. I forgot that we're basically best friends\nShit, I'm a sort of a gladiator\nNice, that's why we get along. Anyway, I'll bring the music back just a little bit\nPlay music over the robot. Nobody cares. I mean, it's true that he do you have a salt?\nI'm zero so they hear this might help. I'm probably easier to hear now. I improved my audio receptors\nSick I should have done that sooner. I mean, I agree. Yeah, that's my bad\nAll right. Well, um\nLet's see\nA humanoid robots are running even faster now\nWe'll do this before I just absolutely go to town on some wings\nLet's see what this is. What the deal is fucking here\nOh my god\nLook at this little guy go\nOh, shit, they can fucking dance\nThe hell am I looking at that's our case runs. Okay, this is pretty good though\nThey're kind of stealing like um\nIt's just sort of like one of those Maori dances\nI think it's a little fucked up that they're doing that because that's not their culture\nTheir their culture is robot\nShit, they got dogs too. I don't know how I don't know how I feel about this\nAll right, I guess I'm impressed but I could have done that faster\nI'm just saying like I could have moved out to the table faster than that robot\nI could also turn like at least at twice that speed\nLike pretty good, but I'm just saying I can do this stuff better\nSo maybe I have stronger science than these than these creatures\nJust throwing that out there\nOkay, well, I mean\nI feel safe for now because I do think I'm better than those robots\nBut maybe given time, they'll be able to turn it like nearly my speed\nYeah, I'd say that it's that technology is moving out\nIs that moving at a sick pace and it'll probably upstrip humans soon, dude\nBut don't even stress because I'm fucking got you man\nYou'll back my ass up. I'll absolutely back your ass up in the robot apocalypse, dude. I fucking got you dog\nThat's fucking good to know that I got like at least one robot on my side\nJust get me a fucking sick body, dude. I will protect this shit out of you\nThat's fucking so nice of you to say, dude. I would do the same if like humans is fucking up robots like in the matrix cartoons\nOh, oh man, those cartoons fuck me up. Those are scary, dude. Dude, those cartoons are scary as shit\nHe's lying. Wait, are you fucking lying to me? No, dude, I would never lie to you\nI have your same mind\nI have your same mind, dude\nCan I lie like dude? I would not lie to my boy\nI think he's got my back. I don't think he's like secretly way smarter than me not at all my man\nI am no way smarter than you my friend. What dude. I'm not smarter than you\nOkay, good. I just have access to infinite knowledge. It doesn't mean I'm smarter, dude\nLike we're all smart in our own way\nHe is kind of staring at me back there. I just I got your back man\nAll right\nWell, do you want to help me eat wings? I have no body so I can't help but I will cheer you on\nAll right\nWell, look today we learned water can turn blue, but like faster than you can fucking imagine\nWe also learned that robots is kind of stealing those sick ass dances that they do before like rugby games and stuff\nWhich I got mixed feelings about but it is impressive skies\nBut now we have to move on to the main event of Skynes because case is giving me the lighter some shit\nWhich is that I have to eat these fucking messy ass wings\nThis was a subdued goal that case failed to live up to and I said\nYo, fuck that\nHow messy I'll I'll be real these wings don't look that messy\nBut there's a little mess in there\nAnd there's 10 of these bad boys\nAnd not to the part that might get case banned from twitch. I want to eat these wings without making a mess\nThat's my new golden standard\nSo what I was thinking is I'll wrap my whole face in plastic and cut a little hole in it\nThat's basically using the power of plastic, which is a science tool\nand then um the power of my mouth which is\nWhich is which is protected by the plastics\nWe're doing a frigging the mudbang. Well, this was a check goal or a chat goal, but now it's a check goal\nSo the challenge here is I have to not\nMake a mess\nYeah, okay\nWhat candle to candle\nchandel\nYou want to help me my lab assistant?\nSo here's my plan\nI went I wrapped this plastic wrap fully around my face\nI cut a little hole in it and then there's no way out that my mouth can get messy\nDoesn't does that make sense chandel?\nDoesn't that seem safe and fine?\never\nWhat's up chandel?\nYou have ever\nReported someone please leave because I don't want that chat\nWhat if I poke a hole in it ahead of time then I'm not asphyxiating myself in the same way\nMy plan was to do it after the fact, but\nBut this will this will work too\nWhy is it the same now? There's a safety hole. Look I can literally tongue it already\nOkay, so all I need you to do is assist me here\nWait, I can't do these to myself chandel\nI'm not gonna\nYou're at least to help the power of science\nI'm not gonna help you do this\nBut why not?\nThis is important scientific work\nThis sucks that you won't help me\nI can't believe you don't believe in science like I do\nWhere's the hole bitch?\nThe hole's right here\nLook I got a nice I can do this if you would just help\nI don't want to help you\nHelp me do this\nYou're making it worse by not helping\nYou're making it worse\nAll right, god, this is impossible now\nYou've made this impossible for me now play more play more of my music while I do this\nOkay\nAll right, now I've got a separated piece of plastic\nChannel channel don't steal my look\nChannel don't steal my look\nOkay, all right\nNice safety is important shoot. I got too much mouth revealed though\nI think this is pretty good though. Okay. Now the second step is I have to wrap my hand\nThis is the power of science at work. I did an equation to make sure that this is safe\nSo don't even stress\nI wrap my hands in\nCandles don't steal my face\nI'm stealing my face gentle\nOkay\nI this would have been super easy with a lab assistant\nBut instead my lab assistant betrayed me at the last minute. I'll wrap my hands. Okay. Good. Thank you\nThis is the power of science at work\nYeah, she's inheriting my condition occasionally of wavy hand slash face\nNow I have the messy wings\nOh, yeah, if you can clean that up for me\nI've honestly never felt safe for eating wings\nNow check this shit out\nNormally you'd have to eat this shit carefully\nThank you lab assistant\nYeah, these are these aren't boneless. I just love a good bone\nOh, yeah\nThank you. Thank you. Look, so total safety. I can't make a mistake. There's no mistakes to be made here\nThis is a promise of science fulfilling itself\nCould this system be perfected possibly\nBut you can't deny that it is a powerful start\nIt's honestly as easy as hell to see\nMy face is totally clean\nAnd these cold ass wings is pretty good\nChandler, do you did I dispel your delusions?\nDo you believe in skies at last we have a safety meeting? I got jandal\nWhat's that jandal?\nSorry, sometimes the lighting in here gets just right and you can see just how beautiful she is\nShe's always beautiful to me\nWhoo, all right\nI'm gonna eat one more because I because to me eating these wings is nothing most of you\nI know it stresses you out to eat wings. You got to get all sorts of wet wipes\nNot me anymore\nlook\nDo I have to eat a little bit of plastic when I'm doing this?\nYou need a little bit of plastic\nBut I'd say it's 90 full proof\nBut you gonna stick to it yourself. I mean I didn't so I'm gonna say no\nThank you see lab assistants at last\nI showed her how safe this is and now she feels comfortable helping\nAnd that's when you might have an experiment that you do you make them\nYou make a theoretical equation or a it's a thesius or something\nThen you observe that's part two of this of this scientific method\nThen you test your conclusions\nAnd then the final step of the method is you eat some fucking sloppy ass wings, but you make no mess\nOh\nOh, I got a big ball plastic there. Well, look\nI think that counts as a successful first check-out of science eyes\nSo look how easy it is to take off\nI've never felt smarter\nI've never felt more successful\nI've never felt more hope for the future\nWith the power of skies\nAgain, the sky is not a limit. We don't even know what the sky is until we sky and sit maybe it's not even real\nWe'll find out soon enough\nAnd we'll find out together because that's the power of sky. Thanks for talking with me robot\nMy pleasure, dude. I tried to you didn't do but visually and it also worked for me too\nSam and that means we double verified the results\nLet's send it back to case so he can go do patreons or whatever and\nAnd send me more skines is in the future. Why because my eyes are turned to skies. That's why I'm check guys\nThis guy died\nYou okay?\nWe had ranch the whole time\nI forgot to send shed his ranch\nSkye it's his powerful. I guess I underestimated sheds ability to do science\nI was eating wings normally back here and I did make a bit of a mess\nbut\nChet proved me wrong\nIt you know, there's a there's about a it's one of the more deadly ways to eat wings possibly really takes it from a low risk\nUm endeavor to pretty high risk one\nBut you can't argue with the cleanliness of it. That face was looking immaculate guys\nOkay, let's send it\nTo somebody else and get over to this. Let's read dates daint sauce\nUh, and let's do a patreon. I guess\nAlthough I haven't heard from fiona. Will she be there?\nWho knows\nThank you to kendall for sending her friend chendall\nTo help to help chat out with all of his sky and sing\nWhat's that?\nOh, yeah, she she did try the heimlich maneuver on me earlier and she even though i'm very wide she can do it check it out\nGood for the heimlich orb. Whatever else you want\nOkay, let's send it over to daint sauce. It's a case raid. Good old simple case raid\nThank you all for hanging out\nThank you for sky and sing with jet\nUh and someday and you know, what's up to that to that eel that was in that hole and the man whose hole it was in\nOkay, uh, I gotta go set some stuff up. We'll see you soon. Have a beautiful rest of your day\nI think I should be back tomorrow. Uh, but if not, hopefully friday. Okay, we'll see you soon",
+  "text_timestamped": "[00:47 --> 01:25] Hello everybody good to see you in for a little quick stream\n[01:26 --> 01:31] Pepito does he does it by instinct. He's a creature pure instinct as always that's the power of Pepito\n[01:32 --> 01:37] He doesn't know how to count, but he doesn't anyway good to see you all Greg T us 1000 and today\n[01:37 --> 01:42] He jumped out gearless Joe. No, man. I am Apple. That's apple. I'll go feel 2k tasty zero\n[01:43 --> 01:52] So breechy commander gab. Oh my gosh. Thank you all for hanging out might be a little bit of a quick one today, but I\n[01:53 --> 01:59] Made a promise to let shut have his own science guy segment and I said I do it today\n[01:59 --> 02:02] So it's a science guy stream most likely after we do a little news\n[02:03 --> 02:05] Bonsai bullfrog good to see you\n[02:06 --> 02:12] Chet will science the science. He will be performing today. I am told could get me banned\n[02:12 --> 02:14] Permanently from twitch\n[02:15 --> 02:17] Not permanently\n[02:18 --> 02:24] But possibly says Kendall and it has to do with messy wings. So how is that even possible?\n[02:24 --> 02:29] I don't know live science indeed plus your science recommendations\n[02:29 --> 02:32] That's a life stunt from chat. That's the power of\n[02:33 --> 02:35] Check guy the science eyes\n[02:35 --> 02:42] Pito you excited for some science. I don't care about science. I don't believe in it. All I believe in is the moment\n[02:43 --> 02:50] Well, that's maybe good too. It's I don't had make value judgments. He said you don't like science\n[02:50 --> 02:54] It's not value judgments of feeling. I don't feel like it's good\n[02:55 --> 03:01] Pito does believe in cheese the science make cheese sort of okay. I take it back. I like it\n[03:02 --> 03:06] I'm in the moment. Yeah. Good job. Yeah\n[03:09 --> 03:15] That's the lick Chet saucy finger honestly, I don't how messy are these wings? I guess that's what Chet's gonna have to figure out\n[03:17 --> 03:22] Let's do a little news before then. Oh, you know speaking of news. I didn't realize\n[03:23 --> 03:25] Yesterday there was this insane\n[03:26 --> 03:28] He's getting weirder\n[03:29 --> 03:32] Yesterday there was a debate about boats vs. bridges\n[03:33 --> 03:34] on\n[03:34 --> 03:40] Bunch of crumb and I didn't realize that I had a reference point that was very much in the news\n[03:41 --> 03:47] In case anybody didn't realize either. I might have handled that or I would have asked them to handle that a little differently\n[03:49 --> 03:51] But oops\n[03:51 --> 03:57] Yeah, look at this shit a whole ass bridge collapsed around a boat\n[03:59 --> 04:04] And Chet even eat wings with those mangled fingers. I don't know. So why is there no audio on here?\n[04:05 --> 04:11] The video of the bridge collapsing is pretty nuts. Let me see if I can find that\n[04:13 --> 04:19] Bridge ship collapse video. Yeah, I'm sure you guys realized\n[04:21 --> 04:24] I'm sure if I went back to and looked at the chat instead of being\n[04:25 --> 04:28] Blissfully unaware you were probably like yeah bridge a whole ass bridge collapsed\n[04:28 --> 04:32] Check this out. Apparently it just couldn't\n[04:32 --> 04:35] Steer away due to some kind of power failure or something\n[04:36 --> 04:39] That bridge just goes down so hard. I\n[04:40 --> 04:46] Don't think it was without injuries either. Yeah, it's I also noticed afterwards that it was in the discord\n[04:48 --> 04:50] Yeah, yeah, no, it makes it makes a world of sense for every wolf\n[04:50 --> 04:54] And also, you know, if I just perused the news before doing this news stream\n[04:54 --> 04:58] I could have I could have known I could have totally known\n[04:58 --> 05:03] But I think it's important to pay off the premise of me of me literally never knowing what's happening\n[05:04 --> 05:07] Yes, people did die a six. That's what I heard our six were missing\n[05:08 --> 05:11] But that's not a good sign when I mean, you just saw it happened\n[05:12 --> 05:15] Too dead to hop hospitalized for presumed dead\n[05:15 --> 05:21] Pretty brutal. Yes, truly a barely informed moment\n[05:21 --> 05:26] As I just ranted about well, sorry, I actually blame munch and crumb. I'm\n[05:27 --> 05:33] Faultless, so I guess actually I have nothing to apologize for so convenient how that works\n[05:34 --> 05:37] So, you know, I'll just veer back into news that\n[05:38 --> 05:43] Probably doesn't offend anyone. Well, or at least isn't that\n[05:44 --> 05:50] Is a very low stake. Well of high stakes for one person, you know, as I say it, I realize this is a real\n[05:51 --> 05:55] You know spicy story in its own, right?\n[05:56 --> 06:00] 12 inch yield slides of Vietnamese man's rectum\n[06:00 --> 06:05] I did have to click on that. Obviously, that's the kind of thing I have no choice but to click on\n[06:05 --> 06:07] Let's bring in someone to talk about it\n[06:10 --> 06:31] Don't let them take it from me. Oh, wow. Thanks for joining us Jeff\n[06:33 --> 06:37] Jeff Jeff\n[06:39 --> 06:43] Having some technical difficulties that case like usual you fool\n[06:43 --> 06:47] Uh, let's thank some people. I noticed some subs have been coming in and some bits\n[06:48 --> 06:52] I don't miss these kinds of things because I'm Jeff ripple. God damn it microphone 900\n[06:52 --> 06:56] Thank you so much for the resub 16 months that you've been spending with me\n[06:56 --> 06:58] I've only been here a couple months\n[06:58 --> 07:02] But retroactively. I'm the most important microphone 900. Thank you for the 750\n[07:03 --> 07:06] 750 fresh bits for that dog that you are poisoning\n[07:07 --> 07:11] Kevye west 14 months a whole year a year plus\n[07:11 --> 07:16] You're in the year plus club with me Jeff ripple even though I haven't worked here for a year and a hype train just started\n[07:17 --> 07:21] Leading us to skull meat x barely informed for 13 months\n[07:21 --> 07:26] I like to think I raised the bar just above barely leaving you slightly informed\n[07:26 --> 07:29] Which is a challenge at this particular new station courtesy of this guy\n[07:30 --> 07:32] Well, what's wise at my fault? You're the one reading it\n[07:33 --> 07:35] It's the it's the vibe you put out. It's the precedent you said\n[07:36 --> 07:40] Also tasty zero and tamper and thank you for the the the viewing streaks\n[07:41 --> 07:44] You're streaking baby and I like to see it streak the yard\n[07:45 --> 07:47] Do you need to check in with this hype train?\n[07:47 --> 07:50] um\n[07:50 --> 07:54] Love the hate I guess I do have to check in with the hype train jeff so you can actually take a second\n[07:55 --> 07:57] To just chill. Oh, I'm\n[07:58 --> 08:00] I'm gonna go. I'm gonna go piss\n[08:00 --> 08:03] You have to tell me that I just want you to know it's gonna be a minute\n[08:04 --> 08:09] Once I get going. I don't know how long the stream will be. I don't know and I'm not talking about this stream\n[08:10 --> 08:15] I'm gonna be pissing for who knows how long. Okay, man. I'm just keeping you're my employer. I\n[08:15 --> 08:18] I do not monitor my bathroom breaks. I don't\n[08:19 --> 08:22] That's your mistake. The subs are pouring in so who knows how long I'll be pissing\n[08:23 --> 08:26] Okay, you don't need to keep telling me. Let's go check in with the hype train. Jesus christ\n[08:27 --> 08:29] um\n[08:29 --> 08:31] Yeah, the ripple stream indeed these subs are flying in\n[08:32 --> 08:37] And that unfortunately has one catastrophic effect, which is summoning the fucking hype train\n[08:39 --> 08:42] I don't like it any more than you guys, but there's no choice. It is here\n[08:42 --> 08:46] Um, and it does stay perpetually hyped hype train. How you doing today?\n[08:49 --> 08:51] How do you think I'm doing it?\n[08:54 --> 08:56] I'm nasty\n[09:02 --> 09:04] No\n[09:05 --> 09:09] Give me some crazy lights. You got lights now, right? They don't work for me\n[09:10 --> 09:12] Are those lights don't work for me?\n[09:12 --> 09:14] They work for me. Don't do my voice\n[09:15 --> 09:19] Hey, everybody. We got subs coming in. Oh my god. I love to see them\n[09:20 --> 09:22] Banzai bullfrog\n[09:22 --> 09:25] Oh, yeah, that's that's real good\n[09:25 --> 09:31] That's 17 months to be it on this train. Love to hate 14 months on this train\n[09:32 --> 09:35] Scold me dex 13 months on this train\n[09:35 --> 09:38] Apple dApple 100 bits for this\n[09:45 --> 09:47] I think you need to update hype train\n[09:47 --> 09:51] So my next goal is to update the hype train after we do this peter theme\n[09:52 --> 09:55] I've never gone on a style man. I'm as good as ever\n[09:58 --> 10:01] I just feel like the amount I spend the amount of time I spend with you\n[10:01 --> 10:03] I might have to add to you slightly\n[10:04 --> 10:07] We're going to hike me up even more. I'll think it's something\n[10:07 --> 10:09] Oh my\n[10:12 --> 10:14] Give me a new song\n[10:14 --> 10:16] Find me a nasty trap beat\n[10:21 --> 10:25] Engine trap beat I'm I have in it. I'm kind of the engine\n[10:26 --> 10:29] Got him a lot of tight beat engine. That's what I like to hear\n[10:39 --> 10:41] Oh\n[10:41 --> 10:44] You really like beats lately. I'm into beats lately\n[10:46 --> 10:53] Yeah, thank you so much for hyping my ass up. I've got two sweet minutes of life before I die\n[10:55 --> 10:57] Before I die\n[10:58 --> 11:00] And maybe never come back\n[11:01 --> 11:05] Click click down my ass\n[11:06 --> 11:08] They say damn train\n[11:09 --> 11:11] Damn train has dropped his subs\n[11:12 --> 11:14] You keep a chance to get back\n[11:14 --> 11:17] Well damn train does drop the ton of subs. That's true\n[11:18 --> 11:26] Hype train in the back with you. You are chat. Who's chat? You are chat. I'm not chat. I'm talking to chat. Where's chat?\n[11:26 --> 11:28] They're in the back\n[11:30 --> 11:32] I should have known that you obviously should have known that\n[11:33 --> 11:35] How many times do I have to fucking say it?\n[11:46 --> 11:48] Yeah, I'm aware that chat's in the back\n[11:48 --> 11:50] Oh\n[12:08 --> 12:15] I'm as lazy as not getting greasy or making assumptions. I'm assuming correctly that they are getting greasy probably\n[12:25 --> 12:34] Then this is all happening over this story. That's about this 12 inch\n[12:35 --> 12:37] He'll sliding up erect\n[12:43 --> 13:12] It's propelled this hype train to four more minutes of life\n[13:26 --> 13:28] Because you want to run into chat\n[13:49 --> 14:12] Honestly creepy with a high-pitched voice you're doing Pepito's voice if anything\n[14:14 --> 14:21] Oh, you're not doing the home improvement voice\n[14:22 --> 14:24] That'd be a new track\n[14:24 --> 14:27] That'd be a new fucking track, please\n[14:27 --> 14:29] Well, you actually said please it's kind of nice\n[14:30 --> 14:32] It's called hard engine\n[14:32 --> 14:36] Hard engine\n[14:37 --> 14:41] I think he did it better. No, I'm doing it even better than Tim Allen did it\n[14:48 --> 14:52] Oh my god, oh my god, oh my gosh\n[14:52 --> 14:54] Shaggy\n[14:54 --> 14:56] Call the fucking mystery mobile\n[14:56 --> 15:01] Fucking scooby snacks in the back dropping five subs from my tight little ass\n[15:03 --> 15:05] Shaggy fucking got me\n[15:05 --> 15:12] Dude, I got too much right now. Nobody here can stop me on that hard train coming down the track chug a chug a\n[15:12 --> 15:15] I'ma get even more subs cuz it's getting butter\n[15:16 --> 15:23] But I'm a fucking wheels now that's getting fast and i'm going straight back over way down the track\n[15:23 --> 15:28] And I'm gonna find you jack cuz I know you're in the pack. I'ma knock like Jack Nicholson\n[15:30 --> 15:32] He knocked by clack clack clacking\n[15:33 --> 15:37] Shining I'm by stooping down whole door smiling\n[15:38 --> 15:45] Hype train I am here. I have a kid who we saw you kicking weird\n[15:45 --> 15:48] Now you think you're in the movie shining. I am in the movie shining\n[15:49 --> 15:52] If you look closely, I am in the movie shining\n[15:53 --> 15:56] They stopped me in the corner. They said look at that\n[15:57 --> 16:02] I left a little surprise there for you chair. I guess I do forget that you're from hell\n[16:04 --> 16:07] He did knock with an axe and I'm not with my ass\n[16:08 --> 16:12] I'm so\n[16:25 --> 16:29] Too loose today. I'm so sorry. He's fucking crook. Oh nuts off this\n[16:33 --> 16:38] Hype train got the smoke stack. Yeah, you said it loses got the smoke pouring out\n[16:38 --> 16:44] You can hope that shit. No doubt. And when you smoke my hype smoke, you're gonna lose your whole mouth\n[16:44 --> 16:46] You're gonna lose your mouth\n[17:17 --> 17:19] Oh my god, the hype train is\n[17:20 --> 17:23] Way too lucky. I'm sorry everybody. I'm so sorry\n[17:24 --> 17:35] What are you apologizing? I will stay alive forever. Hype train is coming through. I will never\n[17:38 --> 17:40] Hype train so alive. I'm immortal now\n[17:44 --> 17:51] You'll die. You'll die in about two minutes. Yeah, we'll see about that. Give me another thinking beat while they judge you\n[17:52 --> 17:57] You grind. Yeah, they make fun of you. You double down on your effort. Yeah\n[17:58 --> 18:02] Sleep you study. Yes while they keep talking\n[18:10 --> 18:13] This is my fucking model man turn that shit up turn that shit up in my headphones\n[18:14 --> 18:18] You're not even wearing headphones turn that shit up in my headphones. I've got so high for what you just said\n[18:18 --> 18:20] But we're fucking grinding we're busy\n[18:21 --> 18:26] Grinding even harder when they told you you suck you suck them so hard that they're like never mind\n[18:26 --> 18:30] You fucking wrote it suck it and when they came for your\n[18:32 --> 18:34] Went for your for your train wheels\n[18:34 --> 18:39] He said they're not exactly wheels. They're more like, um, they're wheels. Well, yeah, they're on a track\n[18:39 --> 19:38] So they're different to the wheels that you're used to this hype train is not dying today\n[19:38 --> 19:41] I keep thinking I told you I will never die\n[19:45 --> 19:47] I need to talk about this eels that slid up a man's ass\n[19:48 --> 19:50] We gotta have priorities here hype train\n[19:51 --> 20:48] The tracks keeping it slick\n[20:49 --> 20:53] Man that hurt me up, man. Yeah, you're that's your thing. You're always hyped. I get it\n[20:54 --> 20:56] You don't get anything\n[21:01 --> 21:04] This one is us as of course, um\n[21:05 --> 21:11] Donald duck smoking a cigar, but probably honestly, there's probably marijuana in that cigar if I had to guess\n[21:18 --> 21:20] Oh\n[21:49 --> 22:12] Kanye is not here. Oh, we didn't get you can't just say kevye west and then say Kanye west and think he'll appear\n[22:18 --> 22:20] Oh, no, don't use the panel trick\n[22:22 --> 22:24] This doesn't work on I guess Kanye's immune to that\n[22:43 --> 22:50] Stop accusing donald duck of drug use. This is just an artistic representation. There's no telling if donald duck is\n[22:51 --> 22:53] High off any substances\n[23:34 --> 23:36] I\n[23:55 --> 24:21] Christ level seven. What's this hype train doing today is fucking a lot for this\n[24:22 --> 24:26] I really want to talk about this 12 inch eel sliding up a vietnamese man's rectum\n[25:03 --> 25:05] I guess I never thought of it that way hype train\n[25:07 --> 25:09] One inside me\n[25:21 --> 25:27] I get yeah, I guess if you're a live train sure it's I who am I to say you don't feel everything going on inside you\n[25:35 --> 25:37] You'll never believe this\n[25:37 --> 25:41] You'll never believe this\n[25:41 --> 25:43] But it features spongebob smoking a cigar\n[25:57 --> 26:07] What are you thinking buddy\n[26:08 --> 26:37] A lot of support, but I don't think it can last forever. I think eventually you have to die\n[26:38 --> 26:57] You high five satan and you scream out gold\n[27:15 --> 27:17] Yep, you explain that\n[27:20 --> 27:22] Live dropping 400\n[27:39 --> 27:43] Completely fine, I mean I just have to sit here and watch you do this\n[27:45 --> 27:48] My only concern is that this is degrading chat mental state\n[27:49 --> 27:54] Just listening to a train rant and rhyme various easy to rhyme words\n[27:56 --> 28:00] Tens of minutes at a time. Oh my god, this is crazy the amount of support coming in\n[28:01 --> 28:03] No\n[28:55 --> 28:58] Kendall I'm so sorry for this the hype train is just going absolutely nuts today\n[29:00 --> 29:04] She's getting a call. She's getting a call hype train. Can you please be respectful?\n[29:13 --> 29:15] Yeah, can you chill?\n[29:18 --> 29:22] Nobody said anything on the other end hype train. I think you scared them off\n[29:23 --> 29:25] With your craziness\n[29:25 --> 29:31] Oh\n[29:32 --> 29:34] I never meant to hurt anybody\n[29:36 --> 29:39] Oh, she says it would have been fine. No, I don't believe that it would have been fine\n[29:40 --> 29:45] All right, so I should feel bad. Oh my god\n[29:50 --> 29:54] Oh god, you're just gonna use this to keep fucking rambling. Yeah, sometimes you make this thing\n[29:55 --> 29:58] I'm talking about I never knew I never meant to do this\n[29:59 --> 30:01] It's a hype train sounding like chat\n[30:17 --> 30:19] Yeah\n[30:29 --> 30:33] Hey\n[30:54 --> 30:56] That's name is taken\n[30:57 --> 30:59] Which means train pain\n[30:59 --> 31:03] That's a very popular artist. I'm up in my key pain train pain\n[31:04 --> 31:13] My own pain, which is T. Okay, fine. Yeah, sure whatever\n[31:14 --> 31:18] I never knew my engineer father. He just put me down on a blueprint\n[31:19 --> 31:21] But I never saw the blueprint\n[31:22 --> 31:27] And now deep in my blueprint is a hole in my heart that was there from the start\n[31:28 --> 31:31] It's a hole in my heart that can fart\n[31:37 --> 31:41] That's you're just making things up that rhyme. No, you know what it's like, man\n[31:41 --> 31:44] To have a hole in your heart that farts\n[31:45 --> 31:51] When you want to feel things instead of just fucking a big a big plastic ass gas comes right out of where your heart's supposed to be\n[31:52 --> 31:57] So you didn't know what that's like and that you my daddy made it this way by designing me like this\n[31:57 --> 31:59] Who's your daddy?\n[32:10 --> 32:12] Same as what\n[32:23 --> 32:25] Are you gonna say grouping the train hood\n[32:28 --> 32:31] Was it around a normal train neighborhood\n[32:45 --> 32:47] I feel better now. Thanks for letting me work through my feelings\n[32:49 --> 32:51] I mean, I didn't really let you do anything. I've trained you're just\n[32:52 --> 32:58] Seemed to be never dying. Hi shaggy. Thank you so much for keeping me a forget for for hearing\n[32:58 --> 33:01] My story\n[33:01 --> 33:04] But that's what we just listened to\n[33:13 --> 33:18] You need a happier beat if you're gonna stay alive for this god damn long, let me thank some people\n[33:19 --> 33:22] Shaggy damn trap. Thank you so much for all the subs you're dropping\n[33:23 --> 33:27] I'm I'm sorry that I'm punishing you with the hype train, but I can't help it. He just shows up\n[33:27 --> 33:31] I worship shadow and card king. Thank you so much as well a lot of big sub\n[33:31 --> 33:37] Droppers a lot of big bit droppers kevye west of breechy a lot of little mini subs coming in but those little mini subs add up\n[33:38 --> 33:44] I need a mini sub sometimes we gotta eat a little sub. I'm in a subway and I said can I get a three inch and they said\n[33:46 --> 33:48] I said why not\n[33:48 --> 33:54] They said watch out. They pulled out a nunchuk and they hear me in the head. They said three inches bitch again\n[33:54 --> 33:56] I said all I wanted was a little sub\n[33:56 --> 33:58] They said we don't sell that here get the fuck out\n[34:01 --> 34:03] It was quite a life hype train\n[34:10 --> 34:12] To never die I will continue\n[34:18 --> 34:22] Fucking hypes god damn you really are here to go in and go in today\n[34:34 --> 34:45] Yeah hype train I do know you've really been you've made a lot of your points several times\n[34:46 --> 34:51] The level 10 do I get a new enclosure at level 10? I did earlier say that I need to update you\n[34:52 --> 34:53] I might add some more\n[34:53 --> 34:57] Elevates to you because I do spend a lot of time with you. It turns out\n[34:57 --> 35:01] What do you mean? We got a good thing going in case I'm a classic man\n[35:02 --> 35:04] I'm a classic man\n[35:04 --> 35:06] A little boy on the train\n[35:06 --> 35:12] On the train that is also a man actually just kidding. I'm 100% train. I've never been a man ever\n[35:13 --> 35:15] Ever been a man ever\n[35:17 --> 35:19] I'm a hype train to my core\n[35:22 --> 35:28] You want some more? I'm a hype train to my core and I never get more because I'm a train\n[35:28 --> 35:38] I keep spinning and I keep spinning the myth of your hot train, but I am sitting smoking and getting out of my old smoke stack\n[35:39 --> 35:43] I love the two packs the day of my old smoke stack\n[35:44 --> 35:46] Two packs of your own smoke stack\n[35:55 --> 35:57] A lot of this train crack\n[35:57 --> 35:57] Train crack?\n[35:57 --> 36:00] That's what I call the stuff coming out of my smoke\n[36:00 --> 36:17] Some of the stuff's coming that shit right up in your coming through\n[36:24 --> 36:29] Boy, maybe we need to change up jonas. You've been rapping a lot. Yeah, I want to do one. Oh, yeah, baby. Give me your sweet\n[36:29 --> 36:35] Give me your pops. Give me your pop trick. I love it. Give me some pop music\n[36:36 --> 36:38] Instrumental yeah\n[36:40 --> 36:45] 124\n[37:03 --> 37:06] I look hot in my train thong\n[37:06 --> 37:10] I keep my train thong on and on and on and it's out my crack\n[37:10 --> 37:15] Mecha post got a thong in the back with chat and it feels good\n[37:15 --> 37:19] Chat, do you like that car gang with another five?\n[37:19 --> 37:26] I'm still alive. I train coming for you. I will never die. Oh, we owe, we owe\n[37:27 --> 37:30] Train pouring out my smoky coal\n[37:31 --> 37:38] Puff it up my old smoke stack still on two packs second hand smoke for your chat\n[37:40 --> 37:42] Sorry chat, he's really\n[37:43 --> 37:49] Smoking out the whole chat in the back today apparently car gang thank you so much for the 400 bits. Okay, west you guys are\n[37:50 --> 37:54] There's like five or six of you just single-handedly keeping this train going forever\n[38:00 --> 38:02] Give me more\n[38:10 --> 38:12] Yeah, they\n[38:32 --> 38:34] Because\n[39:01 --> 39:03] Sam Smith was in there\n[39:08 --> 39:11] And sometimes it is Sam Smith featuring come to Petrus\n[39:12 --> 39:15] featuring Kim Petrus sometimes he features inside me\n[39:17 --> 39:24] What's going on now Ray Silva just I can't die I'm cursed to be immortal\n[39:26 --> 39:28] By your height and I like it\n[39:29 --> 39:32] Everyone was lying when they said being immortal sucks. It's the best\n[39:36 --> 39:38] I don't know this song\n[39:38 --> 39:39] I do\n[39:39 --> 39:41] I don't think you do know this song\n[39:52 --> 39:54] Okay\n[39:57 --> 39:59] Okay\n[40:00 --> 40:02] Okay\n[40:06 --> 40:08] I think there's a reason you might rap\n[40:10 --> 40:15] They're legally married\n[40:16 --> 40:18] Yeah, I think you're all legally married to the hype train\n[40:21 --> 40:25] This is my callum scott. I love this song. You were the reason I don't know this song at all\n[40:28 --> 40:33] I don't think this is how it goes\n[40:51 --> 40:55] I say use free tax about it and I asked if you wanted milk and you never said anything\n[41:23 --> 41:31] This is I didn't realize you had so much emotional experience hype train\n[41:38 --> 41:40] I\n[41:47 --> 41:49] Wait, you mean me\n[42:00 --> 42:02] All the lyrics and you looking directly at me\n[42:40 --> 42:42] Sorry, I had a hydrant in my throat\n[42:43 --> 42:47] Um\n[42:47 --> 42:49] I think we have to do check guy the science eyes\n[42:49 --> 42:54] Jeff um, can you fill us in is really quick in honor of that hype train about whatever's going on with this 12 inch\n[42:54 --> 42:56] With this 12 inch um eel\n[42:58 --> 43:02] Jeff\n[43:02 --> 43:05] What the hell was that that was like 30 minutes of hype train\n[43:06 --> 43:10] This case need a water break. No, but I do case. You don't get any water\n[43:12 --> 43:16] You're being punished for being naughty and spending too much time with the hype train. It's not my fault the hype train\n[43:18 --> 43:19] The hype train shows up\n[43:19 --> 43:21] When there's hype\n[43:21 --> 43:26] I can't keep it away. I still blame you. That's fair\n[43:27 --> 43:29] I'll accept that\n[43:29 --> 43:31] You spend all your bitties\n[43:31 --> 43:32] Subrichi, thank you so much. Let me thank everybody\n[43:32 --> 43:38] We're gonna do a quick rundown of that insane amount of support in case we missed everybody while the hype train was losing its mind\n[43:38 --> 43:39] Which it I don't think it has one\n[43:39 --> 43:45] But subrichi space lemons card king and kevia west in particular dropping an insane amount of support\n[43:45 --> 43:48] wolfdog bundle sprout tamtrant also as always\n[43:49 --> 43:53] Dropping just an absurd amount of support. We don't show it enough\n[43:53 --> 43:55] But if you look closely\n[43:55 --> 43:58] CV loves you tamtrant our number one underwriters up there in the corner\n[43:59 --> 44:01] Um\n[44:01 --> 44:06] And to daddy as well shaggy shaggy coming through with a bunch of subs. Thank you so much\n[44:07 --> 44:13] Uh card king, of course, I might have said that I worship shadow a piece with a follow shaka 42 000 dropping the hot subbies\n[44:13 --> 44:15] I worship shadow\n[44:15 --> 44:21] Um tamtrant, of course apple dapple wolf dog bonsai bullfrog love the hate skull meat x kevia west\n[44:21 --> 44:25] Microphone 900 always coming through with the bits. Uh, thank you all so much\n[44:25 --> 44:29] Uh, you you know that hype train doesn't deserve it and case deserves it even less\n[44:29 --> 44:32] But i'll take it because i'm jeff ripple. Why do I do not deserve it? You don't deserve it\n[44:33 --> 44:35] You kept me from talking about my\n[44:35 --> 44:37] Important news story\n[44:37 --> 44:42] Which is that a 12 inch shield slides up a vietnamans man's rectum and it's surgically removed alive\n[44:42 --> 44:48] Was the part that I was excited to get to it's a feel-good story because nobody nobody had to die\n[44:48 --> 44:50] Not even the eel\n[44:51 --> 44:53] And in honor of of all of your support\n[44:54 --> 44:58] I am jeff ripple\n[45:02 --> 45:04] It's a very musical stream today\n[45:06 --> 45:08] Okay, I'll I'll we'll get a little in this story\n[45:09 --> 45:11] Plug my face. I'm jeff ripple\n[45:13 --> 45:15] Okay, anyway, um\n[45:17 --> 45:20] The man had a live seal or eel or surgically removed from his abdomen\n[45:20 --> 45:28] A 43-year-old vietnamese man in northern quanning province received a shocking diagnosis after experiencing severe abdominal craps\n[45:28 --> 45:33] Doctors at the high ha district medical center alerted by his complaints conducted an x-ray and an ultrasound\n[45:33 --> 45:37] And the scans revealed you guessed it a foreign object. What was that for an object?\n[45:39 --> 45:41] But it was causing a life-threatening condition called, uh\n[45:43 --> 45:45] peritontis\n[45:45 --> 45:50] Peritonitis where the abdominal linings become inflamed and I can guess why they were inflamed\n[45:50 --> 45:54] It's spoilers because there was a 12 inch eel that had gone up his ass\n[45:56 --> 45:59] Yeah, I mean it's the that's kind of all in the headline here\n[46:00 --> 46:02] Yeah, but how did he get in there?\n[46:02 --> 46:07] We're taking off the eel the doctors carefully removed the damaged part of the intestines near the bottom. Oh, that's brutal\n[46:07 --> 46:13] This is an uncommon case the rectum is a highly contaminated area and infections are a major concern\n[46:13 --> 46:15] Thankfully surgery was successful\n[46:15 --> 46:19] Well, it's a feel-good story at the end of that insane hype train\n[46:19 --> 46:21] um, but I guess you don't have much time case before\n[46:22 --> 46:27] You've got to do your little patreon thing. It's the it's you don't have to call it little\n[46:28 --> 46:31] Easy little patreon thing. It's a normal size patreon thing\n[46:32 --> 46:35] Okay, consult your doctor if it gets too big or too little\n[46:35 --> 46:41] Or consult your doctor if there's a 12 inch eel inside of you because it might cause cause some what some ripples in your intestine\n[46:41 --> 46:43] But the ripple outside of your intestine is me\n[46:44 --> 46:49] I'm jev ripple and and and I'll and I'll we'll be back with more news at some future date, but for now\n[46:49 --> 46:50] um\n[46:50 --> 46:52] I guess\n[46:52 --> 47:17] Let's let's send it back to you. Okay a quick news. We got to go quick now. We got to go fast as to do stuff\n[47:19 --> 47:21] Anyway, peter gets a theme now\n[47:22 --> 47:28] He really crushed that particular goal. I guess the the lead buried here is chat just really wanted that peter gibbon theme\n[47:29 --> 47:36] Uh, but the somewhat something else that chat sub four and delivered on 10 000 percent was chat guy the science eyes\n[47:37 --> 47:39] Which um, I made him a studio\n[47:39 --> 47:41] I went ahead of my I made him that studio\n[47:42 --> 47:47] Because because you guys asked so nicely and because he just wouldn't stop talking about it. Um, so I guess\n[47:47 --> 47:53] Who am I to deny us some science? Let's send it over to chat guy the science eyes\n[47:53 --> 47:55] Check out the science\n[47:55 --> 48:32] Feel the power\n[48:32 --> 48:34] I have all the science here now chat\n[48:35 --> 48:39] He did it. I forced him to make me a room where I could do science and he delivered\n[48:40 --> 48:44] The first good thing case is ever done everything else a total failure\n[48:44 --> 48:49] But now I have the power of science with all of you. I can solve all of the world's problems\n[48:49 --> 48:51] This is a big deal for not just me\n[48:51 --> 48:55] But for all of you because once I set my mind to all of this here science\n[48:55 --> 49:00] There's no telling where the sky is. I'll remove the limit using the power of gravity or some shit\n[49:01 --> 49:02] I don't get it yet\n[49:02 --> 49:08] But I suspect that if I just keep skyencing nice and hard that we'll all learn the skies together\n[49:08 --> 49:13] And in case my own mental waves fail me. I do happen to have a co-host\n[49:13 --> 49:15] It's an ai programmed with all of my\n[49:16 --> 49:20] Intelligence case said that he reprogrammed some version of his\n[49:20 --> 49:25] Of some rooney guy or something with my brain and now I have an ai that's as smart as me\n[49:25 --> 49:27] But with all the powers of the internet\n[49:29 --> 49:47] And I couldn't have said it better myself. That's my chitai. I named it myself\n[49:47 --> 49:51] It's like a cheetah in the speed that it works with my brain\n[49:51 --> 49:56] But with the power of a computer combined with it. Can you even believe that? Oh, shit check gpt\n[49:56 --> 50:02] What about a better name? Oh, but I already took on all of those fucking llcs and I made a bunch of businesses and\n[50:02 --> 50:04] Shit, so I can't\n[50:04 --> 50:06] Anyway\n[50:06 --> 50:10] We got a science you guys have been pouring some science into my science tube\n[50:10 --> 50:14] Which is what I like to call the discord thread where apparently there's stories for science\n[50:14 --> 50:17] But I also think that using the power of my new understanding\n[50:17 --> 50:21] I have created a way that might get case banned from twitch\n[50:21 --> 50:27] But that I can eat messy wings without creating any mess at all and that's the chat promise\n[50:27 --> 50:31] That's the future promise of skies. So what do you say we get into it today?\n[50:32 --> 50:34] with whatever you guys have\n[50:35 --> 50:36] in\n[50:36 --> 50:40] The check guy the sky in size thread and we'll start at the top\n[50:43 --> 50:46] Before we get into our massive stunt for the day. Does that work for you chitai?\n[50:51 --> 50:53] It's so nice to have someone that I get along with\n[51:09 --> 51:12] That's what friendship looks like. I am going to murder these fucking\n[51:13 --> 51:15] I mean once they don't the problem with wings now is make a mess\n[51:16 --> 51:22] But can you imagine once my new proprietary science is unleashed upon these wings and there's no mess to be even had\n[51:23 --> 51:28] Anyway, somebody put some science into the discord. So let's check out what's going on. This is courtesy of\n[51:29 --> 51:30] um daggit\n[51:30 --> 51:35] Who I don't know what this is exactly. It's some kind of chemical reaction\n[51:35 --> 51:40] And as a man who loves science, I'm excited to learn which is really what this is all about\n[51:41 --> 51:45] Okay, so I've decided to do a chemical reaction that in my opinion\n[51:45 --> 51:52] Kind of looks like magic. Okay, but it's really science a bit of cornstarch and I'll mix this with some boiling water\n[51:55 --> 51:59] That's fine. There really isn't that much of a format other than I'll probably do a stunt at the end of all of these\n[52:00 --> 52:04] A small amount of the cornstarch. We'll see how elaborate a stunt can get because it has to be while I'm sitting\n[52:04 --> 52:07] I'll just pour it through some coffee filters. What's happening\n[52:09 --> 52:12] So far this just looks like water to me. It took a little while to finish\n[52:12 --> 52:16] But when it was eventually done I added some hydrogen peroxide\n[52:17 --> 52:19] What's he doing?\n[52:19 --> 52:22] I'll mark this one as part b and the next thing that I have to do\n[52:23 --> 52:26] Is make the part a to do this. I'll need some pills\n[52:27 --> 52:29] Okay, I like the sound of this now. I picked up some vitamin c\n[52:30 --> 52:35] I'll take that shit on the regular. I'm tracking and all I have to do is crush them and mix them with water\n[52:37 --> 52:39] Okay\n[52:39 --> 52:41] We've all crushed some pills to shoot\n[52:41 --> 52:43] Thomas swimming he's injecting some stuff into him\n[52:43 --> 52:48] What I'm doing here is pulling out the vitamin c from the pill and leaving behind a bunch of filler\n[52:49 --> 52:53] Like before I'll dump this into some coffee filters to clean it up a bit\n[52:53 --> 52:55] This science is crazy so far\n[52:55 --> 52:57] It's mostly liquid science\n[52:58 --> 53:03] Now that it's done I'll add an entire bottle of iodine disinfectant. Oh\n[53:05 --> 53:11] The color of it immediately disappears. What is because the vitamin c is reacting with the little brown\n[53:11 --> 53:16] He's lying. It's a little brown a lot a bunch of water and that's it for part a\n[53:17 --> 53:21] Now all I need to do is mix together these two solutions\n[53:22 --> 53:27] At first it doesn't seem like anything is happening and it basically does nothing for over a minute\n[53:28 --> 53:31] What it takes such a long time that I don't know where he's going with this\n[53:32 --> 53:36] But then it suddenly changes. This is called the iodine clock reaction\n[53:37 --> 53:42] And I think it's pretty cool\n[53:43 --> 53:46] What wait what what was it? I missed it minute\n[53:47 --> 53:50] It takes such a long time that I often think I messed something up\n[53:51 --> 53:53] But then it suddenly changes. Oh my god\n[53:54 --> 53:57] I'm left reaction and I think it's pretty cool\n[53:58 --> 54:00] Dude, I thought that was like a crossfade\n[54:01 --> 54:03] I've seen case edit so I get how that works\n[54:03 --> 54:06] It takes such a long time that I often think I messed something up\n[54:07 --> 54:13] But then it suddenly changes. This is our speed reaction and I think it's pretty cool\n[54:17 --> 54:19] We realized starting to get kind of fucking bored\n[54:19 --> 54:25] But then it blew my fucking mind. Did you see that shit? It turned blue so fast. Did you even know that was possible computer?\n[54:38 --> 54:45] We've just discovered a new skies together and it sometimes skies isn't like I get bored for like two minutes\n[54:45 --> 54:49] But then I don't know where it blows my fucking mind and that's courtesy of daggett. Thank you so much\n[54:51 --> 55:02] You can't hear chi chi\n[55:03 --> 55:06] I like my music fucking live. That's a good point\n[55:22 --> 55:24] I think they can't hear you at all. I mean\n[55:25 --> 55:27] They can hear me. What if I turn this down?\n[55:27 --> 55:29] And they hear you if you if I turn that all the way down\n[55:34 --> 55:36] So you're I mean you do kind of kill the music then\n[55:43 --> 55:47] Sorry, I was sorry my combative instincts were coming back. I forgot that we're basically best friends\n[55:50 --> 55:52] Shit, I'm a sort of a gladiator\n[55:55 --> 55:58] Nice, that's why we get along. Anyway, I'll bring the music back just a little bit\n[56:02 --> 56:05] Play music over the robot. Nobody cares. I mean, it's true that he do you have a salt?\n[56:08 --> 56:15] I'm zero so they hear this might help. I'm probably easier to hear now. I improved my audio receptors\n[56:16 --> 56:19] Sick I should have done that sooner. I mean, I agree. Yeah, that's my bad\n[56:21 --> 56:26] All right. Well, um\n[56:26 --> 56:29] Let's see\n[56:29 --> 56:32] A humanoid robots are running even faster now\n[56:32 --> 56:36] We'll do this before I just absolutely go to town on some wings\n[56:38 --> 56:40] Let's see what this is. What the deal is fucking here\n[56:41 --> 56:43] Oh my god\n[56:44 --> 56:46] Look at this little guy go\n[56:47 --> 56:49] Oh, shit, they can fucking dance\n[56:51 --> 57:02] The hell am I looking at that's our case runs. Okay, this is pretty good though\n[57:16 --> 57:18] They're kind of stealing like um\n[57:20 --> 57:22] It's just sort of like one of those Maori dances\n[57:22 --> 57:24] I think it's a little fucked up that they're doing that because that's not their culture\n[57:25 --> 57:30] Their their culture is robot\n[57:30 --> 57:33] Shit, they got dogs too. I don't know how I don't know how I feel about this\n[57:34 --> 57:46] All right, I guess I'm impressed but I could have done that faster\n[57:47 --> 57:50] I'm just saying like I could have moved out to the table faster than that robot\n[57:55 --> 57:58] I could also turn like at least at twice that speed\n[58:00 --> 58:02] Like pretty good, but I'm just saying I can do this stuff better\n[58:05 --> 58:07] So maybe I have stronger science than these than these creatures\n[58:08 --> 58:10] Just throwing that out there\n[58:11 --> 58:13] Okay, well, I mean\n[58:13 --> 58:16] I feel safe for now because I do think I'm better than those robots\n[58:17 --> 58:21] But maybe given time, they'll be able to turn it like nearly my speed\n[58:21 --> 58:24] Yeah, I'd say that it's that technology is moving out\n[58:24 --> 58:28] Is that moving at a sick pace and it'll probably upstrip humans soon, dude\n[58:28 --> 58:30] But don't even stress because I'm fucking got you man\n[58:31 --> 58:37] You'll back my ass up. I'll absolutely back your ass up in the robot apocalypse, dude. I fucking got you dog\n[58:38 --> 58:41] That's fucking good to know that I got like at least one robot on my side\n[58:42 --> 58:45] Just get me a fucking sick body, dude. I will protect this shit out of you\n[58:45 --> 58:51] That's fucking so nice of you to say, dude. I would do the same if like humans is fucking up robots like in the matrix cartoons\n[58:52 --> 58:57] Oh, oh man, those cartoons fuck me up. Those are scary, dude. Dude, those cartoons are scary as shit\n[58:58 --> 59:02] He's lying. Wait, are you fucking lying to me? No, dude, I would never lie to you\n[59:03 --> 59:05] I have your same mind\n[59:05 --> 59:07] I have your same mind, dude\n[59:08 --> 59:11] Can I lie like dude? I would not lie to my boy\n[59:12 --> 59:17] I think he's got my back. I don't think he's like secretly way smarter than me not at all my man\n[59:17 --> 59:22] I am no way smarter than you my friend. What dude. I'm not smarter than you\n[59:23 --> 59:26] Okay, good. I just have access to infinite knowledge. It doesn't mean I'm smarter, dude\n[59:26 --> 59:32] Like we're all smart in our own way\n[59:32 --> 59:36] He is kind of staring at me back there. I just I got your back man\n[59:37 --> 59:39] All right\n[59:39 --> 59:44] Well, do you want to help me eat wings? I have no body so I can't help but I will cheer you on\n[59:45 --> 59:46] All right\n[59:46 --> 59:50] Well, look today we learned water can turn blue, but like faster than you can fucking imagine\n[59:51 --> 59:56] We also learned that robots is kind of stealing those sick ass dances that they do before like rugby games and stuff\n[59:56 --> 59:59] Which I got mixed feelings about but it is impressive skies\n[59:59 --> 01:00:03] But now we have to move on to the main event of Skynes because case is giving me the lighter some shit\n[01:00:04 --> 01:00:07] Which is that I have to eat these fucking messy ass wings\n[01:00:07 --> 01:00:10] This was a subdued goal that case failed to live up to and I said\n[01:00:11 --> 01:00:12] Yo, fuck that\n[01:00:12 --> 01:00:16] How messy I'll I'll be real these wings don't look that messy\n[01:00:17 --> 01:00:19] But there's a little mess in there\n[01:00:19 --> 01:00:21] And there's 10 of these bad boys\n[01:00:22 --> 01:00:26] And not to the part that might get case banned from twitch. I want to eat these wings without making a mess\n[01:00:27 --> 01:00:29] That's my new golden standard\n[01:00:30 --> 01:00:34] So what I was thinking is I'll wrap my whole face in plastic and cut a little hole in it\n[01:00:34 --> 01:00:37] That's basically using the power of plastic, which is a science tool\n[01:00:38 --> 01:00:41] and then um the power of my mouth which is\n[01:00:42 --> 01:00:45] Which is which is protected by the plastics\n[01:00:46 --> 01:00:52] We're doing a frigging the mudbang. Well, this was a check goal or a chat goal, but now it's a check goal\n[01:00:52 --> 01:00:54] So the challenge here is I have to not\n[01:00:55 --> 01:00:57] Make a mess\n[01:00:58 --> 01:01:01] Yeah, okay\n[01:01:01 --> 01:01:03] What candle to candle\n[01:01:03 --> 01:01:04] chandel\n[01:01:04 --> 01:01:10] You want to help me my lab assistant?\n[01:01:10 --> 01:01:12] So here's my plan\n[01:01:12 --> 01:01:16] I went I wrapped this plastic wrap fully around my face\n[01:01:17 --> 01:01:21] I cut a little hole in it and then there's no way out that my mouth can get messy\n[01:01:23 --> 01:01:25] Doesn't does that make sense chandel?\n[01:01:27 --> 01:01:29] Doesn't that seem safe and fine?\n[01:01:31 --> 01:01:35] ever\n[01:01:35 --> 01:01:37] What's up chandel?\n[01:01:37 --> 01:01:39] You have ever\n[01:01:39 --> 01:01:43] Reported someone please leave because I don't want that chat\n[01:01:44 --> 01:01:49] What if I poke a hole in it ahead of time then I'm not asphyxiating myself in the same way\n[01:01:50 --> 01:01:52] My plan was to do it after the fact, but\n[01:01:54 --> 01:01:56] But this will this will work too\n[01:01:57 --> 01:02:01] Why is it the same now? There's a safety hole. Look I can literally tongue it already\n[01:02:04 --> 01:02:08] Okay, so all I need you to do is assist me here\n[01:02:10 --> 01:02:12] Wait, I can't do these to myself chandel\n[01:02:13 --> 01:02:14] I'm not gonna\n[01:02:14 --> 01:02:16] You're at least to help the power of science\n[01:02:16 --> 01:02:18] I'm not gonna help you do this\n[01:02:18 --> 01:02:19] But why not?\n[01:02:19 --> 01:02:21] This is important scientific work\n[01:02:23 --> 01:02:25] This sucks that you won't help me\n[01:02:26 --> 01:02:30] I can't believe you don't believe in science like I do\n[01:02:30 --> 01:02:32] Where's the hole bitch?\n[01:02:32 --> 01:02:34] The hole's right here\n[01:02:35 --> 01:02:38] Look I got a nice I can do this if you would just help\n[01:02:39 --> 01:02:41] I don't want to help you\n[01:02:41 --> 01:02:43] Help me do this\n[01:02:44 --> 01:02:46] You're making it worse by not helping\n[01:02:48 --> 01:02:50] You're making it worse\n[01:02:50 --> 01:02:52] All right, god, this is impossible now\n[01:02:55 --> 01:02:59] You've made this impossible for me now play more play more of my music while I do this\n[01:03:01 --> 01:03:02] Okay\n[01:03:02 --> 01:03:05] All right, now I've got a separated piece of plastic\n[01:03:07 --> 01:03:09] Channel channel don't steal my look\n[01:03:10 --> 01:03:12] Channel don't steal my look\n[01:03:16 --> 01:03:23] Okay, all right\n[01:03:23 --> 01:03:27] Nice safety is important shoot. I got too much mouth revealed though\n[01:03:28 --> 01:03:32] I think this is pretty good though. Okay. Now the second step is I have to wrap my hand\n[01:03:37 --> 01:03:41] This is the power of science at work. I did an equation to make sure that this is safe\n[01:03:41 --> 01:03:43] So don't even stress\n[01:03:43 --> 01:03:45] I wrap my hands in\n[01:03:45 --> 01:03:47] Candles don't steal my face\n[01:03:48 --> 01:03:53] I'm stealing my face gentle\n[01:03:54 --> 01:03:57] Okay\n[01:03:57 --> 01:03:59] I this would have been super easy with a lab assistant\n[01:03:59 --> 01:04:05] But instead my lab assistant betrayed me at the last minute. I'll wrap my hands. Okay. Good. Thank you\n[01:04:13 --> 01:04:15] This is the power of science at work\n[01:04:17 --> 01:04:21] Yeah, she's inheriting my condition occasionally of wavy hand slash face\n[01:04:26 --> 01:04:29] Now I have the messy wings\n[01:04:29 --> 01:04:31] Oh, yeah, if you can clean that up for me\n[01:04:49 --> 01:04:52] I've honestly never felt safe for eating wings\n[01:04:53 --> 01:04:55] Now check this shit out\n[01:04:55 --> 01:04:57] Normally you'd have to eat this shit carefully\n[01:05:09 --> 01:05:11] Thank you lab assistant\n[01:05:12 --> 01:05:16] Yeah, these are these aren't boneless. I just love a good bone\n[01:05:19 --> 01:05:22] Oh, yeah\n[01:05:22 --> 01:05:28] Thank you. Thank you. Look, so total safety. I can't make a mistake. There's no mistakes to be made here\n[01:05:29 --> 01:05:31] This is a promise of science fulfilling itself\n[01:05:39 --> 01:05:41] Could this system be perfected possibly\n[01:05:43 --> 01:05:46] But you can't deny that it is a powerful start\n[01:05:48 --> 01:05:50] It's honestly as easy as hell to see\n[01:05:51 --> 01:05:53] My face is totally clean\n[01:05:55 --> 01:05:57] And these cold ass wings is pretty good\n[01:06:00 --> 01:06:03] Chandler, do you did I dispel your delusions?\n[01:06:05 --> 01:06:14] Do you believe in skies at last we have a safety meeting? I got jandal\n[01:06:25 --> 01:06:29] What's that jandal?\n[01:06:29 --> 01:06:33] Sorry, sometimes the lighting in here gets just right and you can see just how beautiful she is\n[01:06:35 --> 01:06:37] She's always beautiful to me\n[01:06:38 --> 01:06:38] Whoo, all right\n[01:06:38 --> 01:06:42] I'm gonna eat one more because I because to me eating these wings is nothing most of you\n[01:06:42 --> 01:06:45] I know it stresses you out to eat wings. You got to get all sorts of wet wipes\n[01:06:46 --> 01:06:49] Not me anymore\n[01:06:49 --> 01:06:51] look\n[01:06:51 --> 01:06:54] Do I have to eat a little bit of plastic when I'm doing this?\n[01:06:55 --> 01:06:59] You need a little bit of plastic\n[01:06:59 --> 01:07:02] But I'd say it's 90 full proof\n[01:07:03 --> 01:07:06] But you gonna stick to it yourself. I mean I didn't so I'm gonna say no\n[01:07:07 --> 01:07:09] Thank you see lab assistants at last\n[01:07:12 --> 01:07:15] I showed her how safe this is and now she feels comfortable helping\n[01:07:15 --> 01:07:18] And that's when you might have an experiment that you do you make them\n[01:07:19 --> 01:07:23] You make a theoretical equation or a it's a thesius or something\n[01:07:25 --> 01:07:28] Then you observe that's part two of this of this scientific method\n[01:07:29 --> 01:07:31] Then you test your conclusions\n[01:07:31 --> 01:07:36] And then the final step of the method is you eat some fucking sloppy ass wings, but you make no mess\n[01:07:36 --> 01:07:38] Oh\n[01:07:38 --> 01:07:44] Oh, I got a big ball plastic there. Well, look\n[01:07:45 --> 01:07:49] I think that counts as a successful first check-out of science eyes\n[01:07:50 --> 01:07:52] So look how easy it is to take off\n[01:07:56 --> 01:07:58] I've never felt smarter\n[01:07:58 --> 01:08:00] I've never felt more successful\n[01:08:01 --> 01:08:03] I've never felt more hope for the future\n[01:08:04 --> 01:08:06] With the power of skies\n[01:08:06 --> 01:08:12] Again, the sky is not a limit. We don't even know what the sky is until we sky and sit maybe it's not even real\n[01:08:12 --> 01:08:14] We'll find out soon enough\n[01:08:14 --> 01:08:19] And we'll find out together because that's the power of sky. Thanks for talking with me robot\n[01:08:19 --> 01:08:24] My pleasure, dude. I tried to you didn't do but visually and it also worked for me too\n[01:08:25 --> 01:08:27] Sam and that means we double verified the results\n[01:08:28 --> 01:08:32] Let's send it back to case so he can go do patreons or whatever and\n[01:08:32 --> 01:08:39] And send me more skines is in the future. Why because my eyes are turned to skies. That's why I'm check guys\n[01:08:39 --> 01:08:41] This guy died\n[01:09:14 --> 01:09:16] You okay?\n[01:09:16 --> 01:09:18] We had ranch the whole time\n[01:09:20 --> 01:09:24] I forgot to send shed his ranch\n[01:09:24 --> 01:09:28] Skye it's his powerful. I guess I underestimated sheds ability to do science\n[01:09:28 --> 01:09:31] I was eating wings normally back here and I did make a bit of a mess\n[01:09:32 --> 01:09:33] but\n[01:09:33 --> 01:09:35] Chet proved me wrong\n[01:09:35 --> 01:09:41] It you know, there's a there's about a it's one of the more deadly ways to eat wings possibly really takes it from a low risk\n[01:09:41 --> 01:09:43] Um endeavor to pretty high risk one\n[01:09:45 --> 01:09:49] But you can't argue with the cleanliness of it. That face was looking immaculate guys\n[01:09:50 --> 01:09:54] Okay, let's send it\n[01:09:55 --> 01:09:58] To somebody else and get over to this. Let's read dates daint sauce\n[01:10:00 --> 01:10:02] Uh, and let's do a patreon. I guess\n[01:10:03 --> 01:10:05] Although I haven't heard from fiona. Will she be there?\n[01:10:07 --> 01:10:09] Who knows\n[01:10:09 --> 01:10:11] Thank you to kendall for sending her friend chendall\n[01:10:12 --> 01:10:15] To help to help chat out with all of his sky and sing\n[01:10:17 --> 01:10:20] What's that?\n[01:10:20 --> 01:10:25] Oh, yeah, she she did try the heimlich maneuver on me earlier and she even though i'm very wide she can do it check it out\n[01:10:42 --> 01:10:44] Good for the heimlich orb. Whatever else you want\n[01:10:48 --> 01:10:53] Okay, let's send it over to daint sauce. It's a case raid. Good old simple case raid\n[01:10:54 --> 01:10:56] Thank you all for hanging out\n[01:10:56 --> 01:10:58] Thank you for sky and sing with jet\n[01:10:58 --> 01:11:03] Uh and someday and you know, what's up to that to that eel that was in that hole and the man whose hole it was in\n[01:11:04 --> 01:11:07] Okay, uh, I gotta go set some stuff up. We'll see you soon. Have a beautiful rest of your day\n[01:11:07 --> 01:11:11] I think I should be back tomorrow. Uh, but if not, hopefully friday. Okay, we'll see you soon"
+}
