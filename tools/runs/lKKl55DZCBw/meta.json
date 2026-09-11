@@ -1,0 +1,19 @@
+{
+  "vod_id": "lKKl55DZCBw",
+  "title": "Fallout Boy Rides Again",
+  "url": "https://www.youtube.com/watch?v=lKKl55DZCBw",
+  "duration_seconds": 13663,
+  "duration": "3:47:43",
+  "timestamp": 1715212800,
+  "aired_at": "2024-05-09T00:00:00+00:00",
+  "date": "2024-05-09",
+  "ingested_at": "2026-09-11T22:15:58.534715+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "lKKl55DZCBw",
+  "yt_url": "https://www.youtube.com/watch?v=lKKl55DZCBw",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-05-09"
+}
