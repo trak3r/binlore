@@ -1,0 +1,19 @@
+{
+  "vod_id": "BCW2rBdZf2A",
+  "title": "Protests, AI, and other words you KNOW are NEWS",
+  "url": "https://www.youtube.com/watch?v=BCW2rBdZf2A",
+  "duration_seconds": 7939,
+  "duration": "2:12:19",
+  "timestamp": 1714003200,
+  "aired_at": "2024-04-25T00:00:00+00:00",
+  "date": "2024-04-25",
+  "ingested_at": "2026-09-11T18:13:13.285814+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "BCW2rBdZf2A",
+  "yt_url": "https://www.youtube.com/watch?v=BCW2rBdZf2A",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-04-25"
+}
