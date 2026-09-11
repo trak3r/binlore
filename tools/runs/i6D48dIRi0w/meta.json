@@ -1,0 +1,19 @@
+{
+  "vod_id": "i6D48dIRi0w",
+  "title": "News and Science Guys who are Chet",
+  "url": "https://www.youtube.com/watch?v=i6D48dIRi0w",
+  "duration_seconds": 7599,
+  "duration": "2:06:39",
+  "timestamp": 1711584000,
+  "aired_at": "2024-03-28T00:00:00+00:00",
+  "date": "2024-03-28",
+  "ingested_at": "2026-09-11T00:56:07.112551+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "i6D48dIRi0w",
+  "yt_url": "https://www.youtube.com/watch?v=i6D48dIRi0w",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-03-28"
+}
