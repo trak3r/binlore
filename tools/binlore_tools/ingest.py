@@ -9,7 +9,7 @@ from typing import Any
 from .episode import write_episode_stub
 from .paths import RUNS_DIR
 from .transcribe import transcribe_audio, write_transcript
-from .vods import YOUTUBE_COOKIES_HINT, Vod, format_duration, get_yt_dlp_cmd, resolve_vod
+from .vods import YOUTUBE_COOKIES_HINT, Vod, format_duration, get_yt_dlp_cmd, resolve_vod, run_yt_dlp
 
 
 def _ensure_ffmpeg() -> None:
@@ -48,7 +48,7 @@ def download_audio(vod: Vod, dest_dir: Path) -> Path:
     ]
     print(f"Downloading audio for {vod.id}…", flush=True)
     try:
-        subprocess.run(cmd, check=True)
+        run_yt_dlp(cmd)
     except FileNotFoundError as e:
         raise RuntimeError(
             f"Failed to run yt-dlp ({ytdlp_cmd[0]}): file not found. "

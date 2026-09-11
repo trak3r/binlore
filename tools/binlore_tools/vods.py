@@ -19,6 +19,11 @@ YOUTUBE_COOKIES_HINT = (
     "See https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies"
 )
 
+
+class YoutubeBotCheckError(RuntimeError):
+    """YouTube rejected the client as a bot; further archive downloads will fail too."""
+
+
 _AUTH_LOGGED = False
 
 
@@ -157,9 +162,27 @@ def _run_yt_dlp(args: list[str]) -> str:
     except subprocess.CalledProcessError as e:
         err = (e.stderr or e.stdout or str(e)).strip()
         if youtube_bot_check(err):
-            err = f"{err}\n{YOUTUBE_COOKIES_HINT}"
+            raise YoutubeBotCheckError(YOUTUBE_COOKIES_HINT) from e
         raise RuntimeError(err) from e
     return proc.stdout
+
+
+def run_yt_dlp(cmd: list[str]) -> None:
+    """Run yt-dlp, streaming stderr live. Halt the batch on YouTube bot-check."""
+    proc = subprocess.Popen(cmd, stderr=subprocess.PIPE, text=True)
+    err_lines: list[str] = []
+    if proc.stderr is not None:
+        for line in proc.stderr:
+            sys.stderr.write(line)
+            sys.stderr.flush()
+            err_lines.append(line)
+    rc = proc.wait()
+    if rc == 0:
+        return
+    err = "".join(err_lines)
+    if youtube_bot_check(err):
+        raise YoutubeBotCheckError(YOUTUBE_COOKIES_HINT)
+    raise subprocess.CalledProcessError(rc, cmd, stderr=err)
 
 
 def list_vods(limit: int = 20) -> list[Vod]:

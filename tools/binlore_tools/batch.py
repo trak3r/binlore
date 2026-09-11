@@ -16,7 +16,7 @@ from typing import Any, Sequence
 from .clean import clean_run_dir, find_cleanable_runs, execute_clean
 from .extract import DEFAULT_MODEL, DailyQuotaExceeded, extract_lore_from_vod, get_api_key, load_env
 from .paths import CATALOG_JSON, CONTENT_EPISODES, REPO_ROOT, RUNS_DIR, TOOLS_ROOT
-from .vods import Vod, format_duration, vod_from_catalog_entry
+from .vods import Vod, YoutubeBotCheckError, format_duration, vod_from_catalog_entry
 
 _INTERRUPTED = False
 _CURRENT_ACTIVE_RUN_DIR: Path | None = None
@@ -317,6 +317,8 @@ def process_single_episode(
                 )
                 target_vod_id = vod_obj.id
                 ingest_successful = True
+            except YoutubeBotCheckError:
+                raise
             except Exception as e:
                 logger.warning(
                     f"Twitch download failed for {vod_obj.id} ({e}); falling back to YouTube archive ({yt_url})..."
@@ -526,6 +528,11 @@ def run_batch_processing(
         try:
             ytdlp_cmd = get_yt_dlp_cmd()
             logger.info(f"External tool yt-dlp: {' '.join(ytdlp_cmd)}")
+            if "--cookies" not in ytdlp_cmd and "--cookies-from-browser" not in ytdlp_cmd:
+                logger.warning(
+                    "No YouTube cookies configured. Archive fallbacks will hit a bot check "
+                    "on this host. Place tools/cookies.txt or set YTDLP_COOKIES, then restart."
+                )
         except RuntimeError as e:
             logger.error(f"Missing dependency:\n{e}")
             return 1
@@ -586,7 +593,7 @@ def run_batch_processing(
 
     processed_count = 0
     failed_episodes: list[tuple[dict[str, Any], str]] = []
-    quota_halted = False
+    halt_reason: str | None = None
 
     start_time = time.time()
     for idx, stream in enumerate(unprocessed, 1):
@@ -620,7 +627,17 @@ def run_batch_processing(
         except DailyQuotaExceeded as e:
             logger.warning(str(e))
             logger.warning("Halting extract batch until Gemini daily quota resets (midnight Pacific).")
-            quota_halted = True
+            halt_reason = "quota"
+            break
+        except YoutubeBotCheckError as e:
+            logger.error(str(e))
+            logger.error(
+                f"[{idx}/{len(unprocessed)}] Stopping batch at {date_s} — {title}. "
+                "Remaining YouTube archive downloads will fail the same way until cookies are set."
+            )
+            if _CURRENT_ACTIVE_RUN_DIR and _CURRENT_ACTIVE_RUN_DIR.exists():
+                clean_run_dir(_CURRENT_ACTIVE_RUN_DIR, force=True)
+            halt_reason = "youtube-bot"
             break
         except Exception as e:
             err_msg = str(e) or type(e).__name__
@@ -638,16 +655,21 @@ def run_batch_processing(
                     pass
             failed_episodes.append((stream, err_msg))
 
-        if idx < len(unprocessed) and delay > 0 and not _INTERRUPTED and not quota_halted:
+        if idx < len(unprocessed) and delay > 0 and not _INTERRUPTED and not halt_reason:
             logger.info(f"Sleeping {delay:.1f}s before next episode...")
             time.sleep(delay)
 
     elapsed = time.time() - start_time
     logger.info("=" * 65)
-    if quota_halted:
+    if halt_reason == "quota":
         logger.warning(
             f"BATCH PAUSED for daily quota after {elapsed / 60:.1f} minutes "
             f"({processed_count} succeeded, {len(failed_episodes)} failed)"
+        )
+    elif halt_reason == "youtube-bot":
+        logger.error(
+            f"BATCH STOPPED for YouTube bot check after {elapsed / 60:.1f} minutes "
+            f"({processed_count} succeeded). Place tools/cookies.txt on this host and restart."
         )
     elif failed_episodes and processed_count == 0:
         logger.error(
@@ -671,6 +693,8 @@ def run_batch_processing(
             logger.warning(f"  - {stream.get('date')}: {stream.get('title')} -> {reason}")
 
     logger.info("=" * 65)
-    if quota_halted:
+    if halt_reason == "quota":
         return 0
+    if halt_reason == "youtube-bot":
+        return 1
     return 0 if not failed_episodes else 1
