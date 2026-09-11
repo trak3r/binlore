@@ -1,0 +1,19 @@
+{
+  "vod_id": "GJ5t-e-9U9U",
+  "title": "Pirate Slaying RE4",
+  "url": "https://www.youtube.com/watch?v=GJ5t-e-9U9U",
+  "duration_seconds": 12063,
+  "duration": "3:21:03",
+  "timestamp": 1712620800,
+  "aired_at": "2024-04-09T00:00:00+00:00",
+  "date": "2024-04-09",
+  "ingested_at": "2026-09-11T02:43:23.922898+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "GJ5t-e-9U9U",
+  "yt_url": "https://www.youtube.com/watch?v=GJ5t-e-9U9U",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-04-09"
+}
