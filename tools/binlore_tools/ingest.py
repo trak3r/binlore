@@ -9,7 +9,7 @@ from typing import Any
 from .episode import write_episode_stub
 from .paths import RUNS_DIR
 from .transcribe import transcribe_audio, write_transcript
-from .vods import YOUTUBE_COOKIES_HINT, Vod, format_duration, get_yt_dlp_cmd, resolve_vod, run_yt_dlp
+from .vods import Vod, format_duration, get_yt_dlp_cmd, resolve_vod, run_yt_dlp, youtube_cookies_hint
 
 
 def _ensure_ffmpeg() -> None:
@@ -55,7 +55,7 @@ def download_audio(vod: Vod, dest_dir: Path) -> Path:
             "Install with: pip install yt-dlp"
         ) from e
     except subprocess.CalledProcessError as e:
-        hint = f"\n{YOUTUBE_COOKIES_HINT}" if "youtu" in vod.url else ""
+        hint = f"\n{youtube_cookies_hint()}" if "youtu" in vod.url else ""
         raise RuntimeError(
             f"yt-dlp download failed for {vod.url} (exit {e.returncode}){hint}"
         ) from e

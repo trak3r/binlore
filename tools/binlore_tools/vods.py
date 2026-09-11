@@ -12,12 +12,58 @@ from typing import Any
 
 from .paths import CHANNEL_VIDEOS_URL, TOOLS_ROOT
 
-YOUTUBE_COOKIES_HINT = (
-    "YouTube blocked this IP as a bot. Export cookies from a logged-in browser "
-    "and put them at tools/cookies.txt, or set YTDLP_COOKIES / "
-    "YTDLP_COOKIES_FROM_BROWSER in tools/.env. "
-    "See https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies"
-)
+
+def youtube_cookies_hint() -> str:
+    """Self-contained operator recipe. Printed when YouTube bot-check stops the batch."""
+    dest = TOOLS_ROOT / "cookies.txt"
+    env_path = os.environ.get("YTDLP_COOKIES", "").strip()
+    if env_path:
+        dest = _cookies_path(env_path)
+    return f"""YouTube blocked this host as a bot. Every remaining archive download will fail until cookies are on this machine.
+
+HOW TO EXPORT (do this on your laptop, not the server):
+  1. Use a throwaway Google account, not your main one. A VPS IP can get the account banned.
+  2. Open a private/incognito window. Log into YouTube.
+  3. In that SAME tab, go to https://www.youtube.com/robots.txt
+     Keep only that one incognito tab open.
+  4. Export cookies with the browser extension "Get cookies.txt LOCALLY"
+     (Chrome/Firefox). Click export for youtube.com.
+  5. Close the incognito window immediately so YouTube does not rotate the session.
+
+FORMAT — Netscape cookies.txt (tab-separated plain text). NOT JSON, NOT CSV, NOT a screenshot of DevTools.
+  The file must look like this (tabs between columns, one cookie per line):
+
+  # Netscape HTTP Cookie File
+  .youtube.com	TRUE	/	TRUE	1735689600	SID	...
+  .youtube.com	TRUE	/	TRUE	1735689600	HSID	...
+  .youtube.com	TRUE	/	TRUE	1735689600	SSID	...
+  .youtube.com	TRUE	/	TRUE	1735689600	APISID	...
+  .youtube.com	TRUE	/	TRUE	1735689600	LOGIN_INFO	...
+
+  First line can be the Netscape header. Columns are:
+  domain, include-subdomains, path, secure, expiry-unix, name, value
+  If the export is cookies.json or starts with [ or {{, it is the wrong format — re-export as Netscape.
+
+WHERE TO PUT IT on this host (gitignored, never commit):
+  {dest}
+
+  From your laptop:
+    scp cookies.txt server:{dest}
+
+  Or paste on the server (entire Netscape file, as-is, no quotes):
+    nano {dest}
+    # paste, save. Or: cat > {dest}   then paste, then Ctrl-D
+
+  Then confirm it is Netscape text (not JSON):
+    head -n 5 {dest}
+
+  Restart the harvester (./binlore transcribe-all). You should see:
+    yt-dlp: using cookies file {dest}
+
+Do not put cookies in tools/.env, chat, or git. The file above is the only place.
+
+Re-export a fresh incognito session when this error comes back (cookies expire / get rotated).
+"""
 
 
 class YoutubeBotCheckError(RuntimeError):
@@ -162,7 +208,7 @@ def _run_yt_dlp(args: list[str]) -> str:
     except subprocess.CalledProcessError as e:
         err = (e.stderr or e.stdout or str(e)).strip()
         if youtube_bot_check(err):
-            raise YoutubeBotCheckError(YOUTUBE_COOKIES_HINT) from e
+            raise YoutubeBotCheckError(youtube_cookies_hint()) from e
         raise RuntimeError(err) from e
     return proc.stdout
 
@@ -181,7 +227,7 @@ def run_yt_dlp(cmd: list[str]) -> None:
         return
     err = "".join(err_lines)
     if youtube_bot_check(err):
-        raise YoutubeBotCheckError(YOUTUBE_COOKIES_HINT)
+        raise YoutubeBotCheckError(youtube_cookies_hint())
     raise subprocess.CalledProcessError(rc, cmd, stderr=err)
 
 

@@ -16,7 +16,7 @@ from typing import Any, Sequence
 from .clean import clean_run_dir, find_cleanable_runs, execute_clean
 from .extract import DEFAULT_MODEL, DailyQuotaExceeded, extract_lore_from_vod, get_api_key, load_env
 from .paths import CATALOG_JSON, CONTENT_EPISODES, REPO_ROOT, RUNS_DIR, TOOLS_ROOT
-from .vods import Vod, YoutubeBotCheckError, format_duration, vod_from_catalog_entry
+from .vods import Vod, YoutubeBotCheckError, format_duration, vod_from_catalog_entry, youtube_cookies_hint
 
 _INTERRUPTED = False
 _CURRENT_ACTIVE_RUN_DIR: Path | None = None
@@ -669,8 +669,9 @@ def run_batch_processing(
     elif halt_reason == "youtube-bot":
         logger.error(
             f"BATCH STOPPED for YouTube bot check after {elapsed / 60:.1f} minutes "
-            f"({processed_count} succeeded). Place tools/cookies.txt on this host and restart."
+            f"({processed_count} succeeded)."
         )
+        logger.error(youtube_cookies_hint())
     elif failed_episodes and processed_count == 0:
         logger.error(
             f"BATCH RUN FAILED in {elapsed / 60:.1f} minutes (0/{len(unprocessed)} succeeded, {len(failed_episodes)} failed)"
