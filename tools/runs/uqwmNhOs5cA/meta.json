@@ -1,0 +1,19 @@
+{
+  "vod_id": "uqwmNhOs5cA",
+  "title": "Resident Eviling",
+  "url": "https://www.youtube.com/watch?v=uqwmNhOs5cA",
+  "duration_seconds": 11817,
+  "duration": "3:16:57",
+  "timestamp": 1712102400,
+  "aired_at": "2024-04-03T00:00:00+00:00",
+  "date": "2024-04-03",
+  "ingested_at": "2026-09-11T01:53:53.618948+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "uqwmNhOs5cA",
+  "yt_url": "https://www.youtube.com/watch?v=uqwmNhOs5cA",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-04-03"
+}
