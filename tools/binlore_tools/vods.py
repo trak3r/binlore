@@ -10,7 +10,71 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-from .paths import CHANNEL_VIDEOS_URL
+from .paths import CHANNEL_VIDEOS_URL, TOOLS_ROOT
+
+YOUTUBE_COOKIES_HINT = (
+    "YouTube blocked this IP as a bot. Export cookies from a logged-in browser "
+    "and put them at tools/cookies.txt, or set YTDLP_COOKIES / "
+    "YTDLP_COOKIES_FROM_BROWSER in tools/.env. "
+    "See https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies"
+)
+
+_AUTH_LOGGED = False
+
+
+def _cookies_path(raw: str) -> Path:
+    path = Path(raw).expanduser()
+    if not path.is_absolute():
+        path = TOOLS_ROOT / path
+    return path.resolve()
+
+
+def youtube_bot_check(text: str) -> bool:
+    return "not a bot" in text.lower()
+
+
+def yt_dlp_extra_args() -> list[str]:
+    """Cookie / extractor args so YouTube accepts datacenter IPs.
+
+    Precedence:
+      1. YTDLP_COOKIES_FROM_BROWSER (e.g. chrome, firefox, safari, chrome:Profile 1)
+      2. YTDLP_COOKIES path, or tools/cookies.txt if that file exists
+      3. YTDLP_EXTRACTOR_ARGS if set (appended either way)
+    """
+    global _AUTH_LOGGED
+    args: list[str] = []
+
+    browser = os.environ.get("YTDLP_COOKIES_FROM_BROWSER", "").strip()
+    cookies_raw = os.environ.get("YTDLP_COOKIES", "").strip()
+    default_cookies = TOOLS_ROOT / "cookies.txt"
+    cookies_file = _cookies_path(cookies_raw) if cookies_raw else (
+        default_cookies if default_cookies.is_file() else None
+    )
+
+    if browser:
+        args.extend(["--cookies-from-browser", browser])
+        source = f"browser {browser}"
+    elif cookies_file is not None:
+        if not cookies_file.is_file():
+            raise RuntimeError(
+                f"YTDLP_COOKIES is set but file not found: {cookies_file}\n"
+                "Export YouTube cookies to that path, or unset YTDLP_COOKIES."
+            )
+        args.extend(["--cookies", str(cookies_file)])
+        source = f"cookies file {cookies_file}"
+    else:
+        source = ""
+
+    extractor_args = os.environ.get("YTDLP_EXTRACTOR_ARGS", "").strip()
+    if extractor_args:
+        args.extend(["--extractor-args", extractor_args])
+
+    if args and not _AUTH_LOGGED:
+        _AUTH_LOGGED = True
+        parts = [p for p in (source, "extractor-args" if extractor_args else "") if p]
+        print(f"yt-dlp: using {' + '.join(parts)}", flush=True)
+
+    return args
 
 
 def get_yt_dlp_cmd() -> list[str]:
@@ -21,31 +85,32 @@ def get_yt_dlp_cmd() -> list[str]:
     2. Active virtual environment bin directory
     3. tools/.venv bin directory
     4. Python module invocation via sys.executable -m yt_dlp
+
+    Cookie/auth flags from the environment are appended so every caller
+    (ingest, catalog resolve, screencap) gets the same YouTube session.
     """
     # 1. System or active PATH
     ytdlp = shutil.which("yt-dlp")
     if ytdlp:
-        return [ytdlp]
+        return [ytdlp, *yt_dlp_extra_args()]
 
     # 2. Virtual environment bin (active or current python interpreter)
     bin_name = "yt-dlp.exe" if os.name == "nt" else "yt-dlp"
     venv_dir = "Scripts" if os.name == "nt" else "bin"
     venv_bin = Path(sys.prefix) / venv_dir / bin_name
     if venv_bin.is_file() and os.access(venv_bin, os.X_OK):
-        return [str(venv_bin)]
+        return [str(venv_bin), *yt_dlp_extra_args()]
 
     # 3. tools/.venv bin directory
-    from .paths import TOOLS_ROOT
-
     tools_venv_bin = TOOLS_ROOT / ".venv" / venv_dir / bin_name
     if tools_venv_bin.is_file() and os.access(tools_venv_bin, os.X_OK):
-        return [str(tools_venv_bin)]
+        return [str(tools_venv_bin), *yt_dlp_extra_args()]
 
     # 4. As an importable python module
     try:
         import yt_dlp  # noqa: F401
 
-        return [sys.executable, "-m", "yt_dlp"]
+        return [sys.executable, "-m", "yt_dlp", *yt_dlp_extra_args()]
     except ImportError:
         pass
 
@@ -90,7 +155,10 @@ def _run_yt_dlp(args: list[str]) -> str:
             "Please install it: pip install yt-dlp (or brew install yt-dlp / sudo apt install yt-dlp)"
         ) from e
     except subprocess.CalledProcessError as e:
-        raise RuntimeError(e.stderr.strip() or e.stdout.strip() or str(e)) from e
+        err = (e.stderr or e.stdout or str(e)).strip()
+        if youtube_bot_check(err):
+            err = f"{err}\n{YOUTUBE_COOKIES_HINT}"
+        raise RuntimeError(err) from e
     return proc.stdout
 
 

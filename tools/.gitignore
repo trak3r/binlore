@@ -15,3 +15,5 @@ runs/**/*.log
 runs/*.log
 runs/**/*.pid
 runs/*.pid
+cookies.txt
+*.cookies.txt

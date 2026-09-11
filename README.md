@@ -196,6 +196,20 @@ To set it up:
    HF_TOKEN="hf_your_token_here"
    ```
 
+#### YouTube cookies (required for the YouTube archive on most servers)
+
+Twitch VODs download without login. The YouTube archive fallback (`@CaseBlackwellStreams`) usually does not: datacenter IPs get `Sign in to confirm you’re not a bot`.
+
+1. Use a **throwaway** Google account. Open a private/incognito window, log into YouTube, then visit `https://www.youtube.com/robots.txt` (only that tab).
+2. Export `youtube.com` cookies to a Netscape `cookies.txt` ([yt-dlp instructions](https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies)). Close the private window immediately so YouTube does not rotate the session.
+3. Copy the file onto the harvester as `tools/cookies.txt` (gitignored; picked up automatically). Alternatively set in `tools/.env`:
+   ```
+   YTDLP_COOKIES=cookies.txt
+   # local Mac only:
+   # YTDLP_COOKIES_FROM_BROWSER=chrome
+   ```
+4. Restart `transcribe-all`. Re-export cookies when the bot check returns.
+
 ---
 
 ## Execution Guide
