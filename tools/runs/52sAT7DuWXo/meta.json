@@ -1,0 +1,19 @@
+{
+  "vod_id": "52sAT7DuWXo",
+  "title": "Amongst  The Web",
+  "url": "https://www.youtube.com/watch?v=52sAT7DuWXo",
+  "duration_seconds": 8563,
+  "duration": "2:22:43",
+  "timestamp": 1716854400,
+  "aired_at": "2024-05-28T00:00:00+00:00",
+  "date": "2024-05-28",
+  "ingested_at": "2026-09-12T10:52:52.270262+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "52sAT7DuWXo",
+  "yt_url": "https://www.youtube.com/watch?v=52sAT7DuWXo",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-05-28"
+}
