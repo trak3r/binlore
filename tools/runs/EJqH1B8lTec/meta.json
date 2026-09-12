@@ -1,0 +1,19 @@
+{
+  "vod_id": "EJqH1B8lTec",
+  "title": "Elden Skadoooo",
+  "url": "https://www.youtube.com/watch?v=EJqH1B8lTec",
+  "duration_seconds": 9584,
+  "duration": "2:39:44",
+  "timestamp": 1719273600,
+  "aired_at": "2024-06-25T00:00:00+00:00",
+  "date": "2024-06-25",
+  "ingested_at": "2026-09-12T19:35:13.465798+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "EJqH1B8lTec",
+  "yt_url": "https://www.youtube.com/watch?v=EJqH1B8lTec",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-06-25"
+}
