@@ -1,0 +1,19 @@
+{
+  "vod_id": "XrfJfB47CG8",
+  "title": "Eldening",
+  "url": "https://www.youtube.com/watch?v=XrfJfB47CG8",
+  "duration_seconds": 6902,
+  "duration": "1:55:02",
+  "timestamp": 1718323200,
+  "aired_at": "2024-06-14T00:00:00+00:00",
+  "date": "2024-06-14",
+  "ingested_at": "2026-09-12T17:37:37.436766+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "XrfJfB47CG8",
+  "yt_url": "https://www.youtube.com/watch?v=XrfJfB47CG8",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-06-14"
+}
