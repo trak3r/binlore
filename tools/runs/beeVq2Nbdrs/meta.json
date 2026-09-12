@@ -1,0 +1,19 @@
+{
+  "vod_id": "beeVq2Nbdrs",
+  "title": "Elden Things, the Collectining Continues",
+  "url": "https://www.youtube.com/watch?v=beeVq2Nbdrs",
+  "duration_seconds": 5554,
+  "duration": "1:32:34",
+  "timestamp": 1718150400,
+  "aired_at": "2024-06-12T00:00:00+00:00",
+  "date": "2024-06-12",
+  "ingested_at": "2026-09-12T15:09:21.955563+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "beeVq2Nbdrs",
+  "yt_url": "https://www.youtube.com/watch?v=beeVq2Nbdrs",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-06-12"
+}
