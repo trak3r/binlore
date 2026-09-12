@@ -1,0 +1,19 @@
+{
+  "vod_id": "e9mnunhp-gU",
+  "title": "Saduchidi Toilet Ring",
+  "url": "https://www.youtube.com/watch?v=e9mnunhp-gU",
+  "duration_seconds": 13388,
+  "duration": "3:43:08",
+  "timestamp": 1719187200,
+  "aired_at": "2024-06-24T00:00:00+00:00",
+  "date": "2024-06-24",
+  "ingested_at": "2026-09-12T19:11:28.368832+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "e9mnunhp-gU",
+  "yt_url": "https://www.youtube.com/watch?v=e9mnunhp-gU",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-06-24"
+}
