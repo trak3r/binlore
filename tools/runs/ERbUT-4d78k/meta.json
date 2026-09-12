@@ -1,0 +1,19 @@
+{
+  "vod_id": "ERbUT-4d78k",
+  "title": "Elden Struggles",
+  "url": "https://www.youtube.com/watch?v=ERbUT-4d78k",
+  "duration_seconds": 13937,
+  "duration": "3:52:17",
+  "timestamp": 1719792000,
+  "aired_at": "2024-07-01T00:00:00+00:00",
+  "date": "2024-07-01",
+  "ingested_at": "2026-09-12T21:06:42.943141+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "ERbUT-4d78k",
+  "yt_url": "https://www.youtube.com/watch?v=ERbUT-4d78k",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-07-01"
+}
