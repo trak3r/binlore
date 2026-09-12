@@ -1,0 +1,19 @@
+{
+  "vod_id": "_CrTZQ8bMVA",
+  "title": "Elden Sick Day",
+  "url": "https://www.youtube.com/watch?v=_CrTZQ8bMVA",
+  "duration_seconds": 12392,
+  "duration": "3:26:32",
+  "timestamp": 1718841600,
+  "aired_at": "2024-06-20T00:00:00+00:00",
+  "date": "2024-06-20",
+  "ingested_at": "2026-09-12T18:28:26.301848+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "_CrTZQ8bMVA",
+  "yt_url": "https://www.youtube.com/watch?v=_CrTZQ8bMVA",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-06-20"
+}
