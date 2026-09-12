@@ -1,0 +1,4649 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 2413.383,
+  "segments": [
+    {
+      "id": 1,
+      "start": 4.11,
+      "end": 10.11,
+      "text": "I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog."
+    },
+    {
+      "id": 2,
+      "start": 10.11,
+      "end": 192.62,
+      "text": "Case Blackwell said conspiracy time is back despite Clementine's disappearance."
+    },
+    {
+      "id": 3,
+      "start": 469.9,
+      "end": 504.31,
+      "text": "Hello everybody. Good to see you all, MSG."
+    },
+    {
+      "id": 4,
+      "start": 504.31,
+      "end": 507.31,
+      "text": "Apple to Apple, Sony 4.7, Subritchie."
+    },
+    {
+      "id": 5,
+      "start": 508.31,
+      "end": 510.31,
+      "text": "Loading up my stream as we start."
+    },
+    {
+      "id": 6,
+      "start": 510.31,
+      "end": 513.31,
+      "text": "Commander Gab, live and sleazy."
+    },
+    {
+      "id": 7,
+      "start": 513.31,
+      "end": 514.31,
+      "text": "Yes."
+    },
+    {
+      "id": 8,
+      "start": 514.31,
+      "end": 518.82,
+      "text": "Oh, baby. It's Friday."
+    },
+    {
+      "id": 9,
+      "start": 518.82,
+      "end": 521.82,
+      "text": "I'm just gonna do a little bit of whatever this is today."
+    },
+    {
+      "id": 10,
+      "start": 522.82,
+      "end": 524.82,
+      "text": "And then I think..."
+    },
+    {
+      "id": 11,
+      "start": 524.82,
+      "end": 527.29,
+      "text": "Cameraworker."
+    },
+    {
+      "id": 12,
+      "start": 527.29,
+      "end": 532.37,
+      "text": "And then there's a little Elden Ring, I think."
+    },
+    {
+      "id": 13,
+      "start": 532.37,
+      "end": 538.61,
+      "text": "Continue our character preparation for the DLC."
+    },
+    {
+      "id": 14,
+      "start": 538.61,
+      "end": 541.61,
+      "text": "Oh, baby, the graphics are in effect."
+    },
+    {
+      "id": 15,
+      "start": 541.61,
+      "end": 544.61,
+      "text": "Yesterday Munch absolutely crushing the plane count."
+    },
+    {
+      "id": 16,
+      "start": 544.61,
+      "end": 546.61,
+      "text": "But could Crumb be on yet another Crumb back?"
+    },
+    {
+      "id": 17,
+      "start": 546.61,
+      "end": 548.61,
+      "text": "First to 200."
+    },
+    {
+      "id": 18,
+      "start": 548.61,
+      "end": 550.61,
+      "text": "I wanted to do the kitchen stream today."
+    },
+    {
+      "id": 19,
+      "start": 550.61,
+      "end": 558.61,
+      "text": "However, my kitchen, I think I want to get it in better condition before we do that."
+    },
+    {
+      "id": 20,
+      "start": 558.61,
+      "end": 560.61,
+      "text": "And I need to go shopping."
+    },
+    {
+      "id": 21,
+      "start": 560.61,
+      "end": 563.61,
+      "text": "So I think we'll aim for Tuesday for that one."
+    },
+    {
+      "id": 22,
+      "start": 563.61,
+      "end": 565.61,
+      "text": "Though I will go ahead and make a new stream goal."
+    },
+    {
+      "id": 23,
+      "start": 565.61,
+      "end": 567.61,
+      "text": "This will be a stretch goal."
+    },
+    {
+      "id": 24,
+      "start": 568.61,
+      "end": 571.61,
+      "text": "This will be a longer, because we're gonna make a whole event out of it."
+    },
+    {
+      "id": 25,
+      "start": 574.61,
+      "end": 576.61,
+      "text": "So let me do that really quick."
+    },
+    {
+      "id": 26,
+      "start": 576.61,
+      "end": 581.84,
+      "text": "The webs!"
+    },
+    {
+      "id": 27,
+      "start": 581.84,
+      "end": 589.07,
+      "text": "You know, I don't know how these alerts work."
+    },
+    {
+      "id": 28,
+      "start": 589.07,
+      "end": 592.67,
+      "text": "They're supposed to be on a delay."
+    },
+    {
+      "id": 29,
+      "start": 592.67,
+      "end": 594.67,
+      "text": "Actually, I guess Live and Sleazy can demand it whenever they want."
+    },
+    {
+      "id": 30,
+      "start": 594.67,
+      "end": 595.67,
+      "text": "I think mods can..."
+    },
+    {
+      "id": 31,
+      "start": 595.67,
+      "end": 596.67,
+      "text": "And I'm not gonna change that."
+    },
+    {
+      "id": 32,
+      "start": 596.67,
+      "end": 598.67,
+      "text": "Can request a segment anytime."
+    },
+    {
+      "id": 33,
+      "start": 600.67,
+      "end": 601.67,
+      "text": "Okay, overlays."
+    },
+    {
+      "id": 34,
+      "start": 601.67,
+      "end": 602.67,
+      "text": "We will do the webs."
+    },
+    {
+      "id": 35,
+      "start": 602.67,
+      "end": 604.67,
+      "text": "We also can do conspiracies again."
+    },
+    {
+      "id": 36,
+      "start": 604.67,
+      "end": 606.67,
+      "text": "We've got a new conspiracy guy."
+    },
+    {
+      "id": 37,
+      "start": 607.67,
+      "end": 609.67,
+      "text": "Maybe literally a guy."
+    },
+    {
+      "id": 38,
+      "start": 609.67,
+      "end": 611.67,
+      "text": "And you'll see what that means."
+    },
+    {
+      "id": 39,
+      "start": 614.67,
+      "end": 615.67,
+      "text": "Shockingly a guy."
+    },
+    {
+      "id": 40,
+      "start": 615.67,
+      "end": 619.72,
+      "text": "A guy with settings."
+    },
+    {
+      "id": 41,
+      "start": 619.72,
+      "end": 625.72,
+      "text": "Let me change this."
+    },
+    {
+      "id": 42,
+      "start": 625.72,
+      "end": 626.72,
+      "text": "There it is."
+    },
+    {
+      "id": 43,
+      "start": 626.72,
+      "end": 627.72,
+      "text": "Okay."
+    },
+    {
+      "id": 44,
+      "start": 627.72,
+      "end": 630.72,
+      "text": "Eight hour debate stream."
+    },
+    {
+      "id": 45,
+      "start": 630.72,
+      "end": 632.72,
+      "text": "There we go."
+    },
+    {
+      "id": 46,
+      "start": 633.72,
+      "end": 636.72,
+      "text": "Gonna make it a high goal."
+    },
+    {
+      "id": 47,
+      "start": 636.72,
+      "end": 641.72,
+      "text": "It'll take me some time to get people to see if they can do it."
+    },
+    {
+      "id": 48,
+      "start": 647.69,
+      "end": 649.69,
+      "text": "There we go."
+    },
+    {
+      "id": 49,
+      "start": 649.69,
+      "end": 651.69,
+      "text": "Eight hot hours of debate."
+    },
+    {
+      "id": 50,
+      "start": 651.69,
+      "end": 655.83,
+      "text": "Probably sometime in July."
+    },
+    {
+      "id": 51,
+      "start": 655.83,
+      "end": 659.83,
+      "text": "No rush on meeting this goal, guys."
+    },
+    {
+      "id": 52,
+      "start": 659.83,
+      "end": 663.78,
+      "text": "Yeah, I want to do the kitchen today."
+    },
+    {
+      "id": 53,
+      "start": 663.78,
+      "end": 665.78,
+      "text": "But I just don't..."
+    },
+    {
+      "id": 54,
+      "start": 665.78,
+      "end": 668.78,
+      "text": "Just don't think I'm quite set up for it yet."
+    },
+    {
+      "id": 55,
+      "start": 668.78,
+      "end": 670.78,
+      "text": "And we gotta let Jeb..."
+    },
+    {
+      "id": 56,
+      "start": 670.78,
+      "end": 674.78,
+      "text": "You know, we need to get the kitchen camera ready for Jeb."
+    },
+    {
+      "id": 57,
+      "start": 674.78,
+      "end": 679.38,
+      "text": "It's what he deserves."
+    },
+    {
+      "id": 58,
+      "start": 679.38,
+      "end": 681.38,
+      "text": "But that'll still give us even more time"
+    },
+    {
+      "id": 59,
+      "start": 681.38,
+      "end": 685.72,
+      "text": "to figure out what disgusting things he gets to make."
+    },
+    {
+      "id": 60,
+      "start": 685.72,
+      "end": 689.9,
+      "text": "And that's the greatest gift of all."
+    },
+    {
+      "id": 61,
+      "start": 689.9,
+      "end": 691.9,
+      "text": "Alright."
+    },
+    {
+      "id": 62,
+      "start": 691.9,
+      "end": 693.9,
+      "text": "What are we doing today?"
+    },
+    {
+      "id": 63,
+      "start": 693.9,
+      "end": 695.9,
+      "text": "Pepito, are you doing alright?"
+    },
+    {
+      "id": 64,
+      "start": 695.9,
+      "end": 696.9,
+      "text": "Yeah."
+    },
+    {
+      "id": 65,
+      "start": 696.9,
+      "end": 700.5,
+      "text": "There's baits for eight hours straight."
+    },
+    {
+      "id": 66,
+      "start": 700.5,
+      "end": 703.5,
+      "text": "That's nothing new."
+    },
+    {
+      "id": 67,
+      "start": 703.5,
+      "end": 704.5,
+      "text": "Damn, Pepito."
+    },
+    {
+      "id": 68,
+      "start": 704.5,
+      "end": 705.5,
+      "text": "This is the apple."
+    },
+    {
+      "id": 69,
+      "start": 705.5,
+      "end": 707.5,
+      "text": "No, p-p-p-punches."
+    },
+    {
+      "id": 70,
+      "start": 707.5,
+      "end": 715.86,
+      "text": "P-p-p-punches."
+    },
+    {
+      "id": 71,
+      "start": 715.86,
+      "end": 717.86,
+      "text": "We could do it at the end of June or..."
+    },
+    {
+      "id": 72,
+      "start": 717.86,
+      "end": 721.86,
+      "text": "I mean, I just have to ask people to click on a link for this one."
+    },
+    {
+      "id": 73,
+      "start": 721.86,
+      "end": 724.86,
+      "text": "I don't need a bunch of guests to show up in the studio."
+    },
+    {
+      "id": 74,
+      "start": 724.86,
+      "end": 726.86,
+      "text": "So that's easier to organize."
+    },
+    {
+      "id": 75,
+      "start": 726.86,
+      "end": 728.86,
+      "text": "I can make this one kind of quickly."
+    },
+    {
+      "id": 76,
+      "start": 728.86,
+      "end": 731.86,
+      "text": "Eight hours of debate, we might have to plan some things that have happened."
+    },
+    {
+      "id": 77,
+      "start": 731.86,
+      "end": 736.86,
+      "text": "So it's not just eight straight hours of munch and crumb."
+    },
+    {
+      "id": 78,
+      "start": 736.86,
+      "end": 741.21,
+      "text": "Because I just don't know if they'll survive it."
+    },
+    {
+      "id": 79,
+      "start": 741.21,
+      "end": 744.21,
+      "text": "And you know, if they don't survive it, I'll feel so guilty."
+    },
+    {
+      "id": 80,
+      "start": 744.21,
+      "end": 749.98,
+      "text": "I might not survive it."
+    },
+    {
+      "id": 81,
+      "start": 749.98,
+      "end": 751.98,
+      "text": "Alright."
+    },
+    {
+      "id": 82,
+      "start": 751.98,
+      "end": 755.9,
+      "text": "Yeah, it's a lot of debating."
+    },
+    {
+      "id": 83,
+      "start": 755.9,
+      "end": 757.9,
+      "text": "We also have the town halls,"
+    },
+    {
+      "id": 84,
+      "start": 757.9,
+      "end": 761.9,
+      "text": "which I originally was planning to be a debate between two character people."
+    },
+    {
+      "id": 85,
+      "start": 761.9,
+      "end": 763.9,
+      "text": "Presidents, there we go."
+    },
+    {
+      "id": 86,
+      "start": 763.9,
+      "end": 766.9,
+      "text": "And I think I might finally have it set up to where I could do that."
+    },
+    {
+      "id": 87,
+      "start": 766.9,
+      "end": 768.9,
+      "text": "And also then guests could pop into that."
+    },
+    {
+      "id": 88,
+      "start": 768.9,
+      "end": 771.9,
+      "text": "So we could possibly vary up the types of debates we're doing."
+    },
+    {
+      "id": 89,
+      "start": 771.9,
+      "end": 774.9,
+      "text": "Then I do have an idea for a segment that also requires"
+    },
+    {
+      "id": 90,
+      "start": 774.9,
+      "end": 777.9,
+      "text": "certain technical things that I'm just sorting out"
+    },
+    {
+      "id": 91,
+      "start": 777.9,
+      "end": 780.9,
+      "text": "that maybe I can get online by then."
+    },
+    {
+      "id": 92,
+      "start": 780.9,
+      "end": 782.9,
+      "text": "Return to SimCity."
+    },
+    {
+      "id": 93,
+      "start": 782.9,
+      "end": 784.9,
+      "text": "We could even pop back into SimCity."
+    },
+    {
+      "id": 94,
+      "start": 784.9,
+      "end": 786.9,
+      "text": "Maybe we can let Krum run the city."
+    },
+    {
+      "id": 95,
+      "start": 786.9,
+      "end": 788.9,
+      "text": "Although, we never hit 600."
+    },
+    {
+      "id": 96,
+      "start": 788.9,
+      "end": 790.9,
+      "text": "Which was a long time goal."
+    },
+    {
+      "id": 97,
+      "start": 790.9,
+      "end": 795.38,
+      "text": "I guess seeing as we now have a new conspiracy guy,"
+    },
+    {
+      "id": 98,
+      "start": 795.38,
+      "end": 797.38,
+      "text": "we could start the stream with it."
+    },
+    {
+      "id": 99,
+      "start": 797.38,
+      "end": 799.38,
+      "text": "Before we get to Newzik,"
+    },
+    {
+      "id": 100,
+      "start": 799.38,
+      "end": 801.38,
+      "text": "who we'll probably end with,"
+    },
+    {
+      "id": 101,
+      "start": 801.38,
+      "end": 804.38,
+      "text": "unless somebody, whoever requested it, needs to go."
+    },
+    {
+      "id": 102,
+      "start": 804.38,
+      "end": 805.38,
+      "text": "Before then."
+    },
+    {
+      "id": 103,
+      "start": 805.38,
+      "end": 807.38,
+      "text": "I think we'll probably do about an hour and a half of news"
+    },
+    {
+      "id": 104,
+      "start": 807.38,
+      "end": 809.38,
+      "text": "and then maybe an hour and a half of gameplay."
+    },
+    {
+      "id": 105,
+      "start": 809.38,
+      "end": 810.38,
+      "text": "That's shocking."
+    },
+    {
+      "id": 106,
+      "start": 810.38,
+      "end": 812.38,
+      "text": "Three hour stream."
+    },
+    {
+      "id": 107,
+      "start": 812.38,
+      "end": 814.38,
+      "text": "Twitch streamer streams for three hours."
+    },
+    {
+      "id": 108,
+      "start": 814.38,
+      "end": 816.38,
+      "text": "That's your top story."
+    },
+    {
+      "id": 109,
+      "start": 816.38,
+      "end": 817.38,
+      "text": "Although who knows?"
+    },
+    {
+      "id": 110,
+      "start": 817.38,
+      "end": 820.38,
+      "text": "Who knows how long I'll get pulled in by that game."
+    },
+    {
+      "id": 111,
+      "start": 821.38,
+      "end": 823.38,
+      "text": "So maybe we'll kick it off with some conspiracy"
+    },
+    {
+      "id": 112,
+      "start": 823.38,
+      "end": 825.38,
+      "text": "before we go amongst the web"
+    },
+    {
+      "id": 113,
+      "start": 825.38,
+      "end": 827.38,
+      "text": "and do some Newzik."
+    },
+    {
+      "id": 114,
+      "start": 827.38,
+      "end": 829.38,
+      "text": "Although I don't even know what conspiracies"
+    },
+    {
+      "id": 115,
+      "start": 829.38,
+      "end": 831.38,
+      "text": "are circulating in the air."
+    },
+    {
+      "id": 116,
+      "start": 831.38,
+      "end": 833.38,
+      "text": "If anybody has any recommendations,"
+    },
+    {
+      "id": 117,
+      "start": 833.38,
+      "end": 835.38,
+      "text": "I guess let the new host know."
+    },
+    {
+      "id": 118,
+      "start": 836.38,
+      "end": 837.38,
+      "text": "Poor Clementine."
+    },
+    {
+      "id": 119,
+      "start": 837.38,
+      "end": 839.38,
+      "text": "He might have to get his emote updated soon"
+    },
+    {
+      "id": 120,
+      "start": 839.38,
+      "end": 841.38,
+      "text": "to whatever this new guy is."
+    },
+    {
+      "id": 121,
+      "start": 841.38,
+      "end": 845.46,
+      "text": "I know who did silence Clementine."
+    },
+    {
+      "id": 122,
+      "start": 845.46,
+      "end": 848.46,
+      "text": "I just don't know if there's any YouTube videos on that."
+    },
+    {
+      "id": 123,
+      "start": 848.46,
+      "end": 850.46,
+      "text": "And the main function of"
+    },
+    {
+      "id": 124,
+      "start": 850.46,
+      "end": 852.46,
+      "text": "being a conspiracy expert"
+    },
+    {
+      "id": 125,
+      "start": 852.46,
+      "end": 854.46,
+      "text": "is typing things into YouTube."
+    },
+    {
+      "id": 126,
+      "start": 854.46,
+      "end": 858.73,
+      "text": "So I guess we could just see"
+    },
+    {
+      "id": 127,
+      "start": 858.73,
+      "end": 861.73,
+      "text": "who's silencing long-haired British guys."
+    },
+    {
+      "id": 128,
+      "start": 861.73,
+      "end": 863.73,
+      "text": "But I might not like the results we get from them."
+    },
+    {
+      "id": 129,
+      "start": 863.73,
+      "end": 866.73,
+      "text": "I might have to veto that one."
+    },
+    {
+      "id": 130,
+      "start": 867.73,
+      "end": 870.73,
+      "text": "Also I borrowed some technology."
+    },
+    {
+      "id": 131,
+      "start": 870.73,
+      "end": 872.73,
+      "text": "Some Rennerton tech"
+    },
+    {
+      "id": 132,
+      "start": 872.73,
+      "end": 874.73,
+      "text": "to send us to this new conspiracy guy."
+    },
+    {
+      "id": 133,
+      "start": 875.73,
+      "end": 877.73,
+      "text": "But let's give it a shot"
+    },
+    {
+      "id": 134,
+      "start": 877.73,
+      "end": 879.73,
+      "text": "and send it their way."
+    },
+    {
+      "id": 135,
+      "start": 879.73,
+      "end": 881.73,
+      "text": "It's time"
+    },
+    {
+      "id": 136,
+      "start": 881.73,
+      "end": 883.73,
+      "text": "to, uh,"
+    },
+    {
+      "id": 137,
+      "start": 883.73,
+      "end": 885.73,
+      "text": "seize the truth."
+    },
+    {
+      "id": 138,
+      "start": 885.73,
+      "end": 931.8,
+      "text": "Welcome everybody to the Truth Zone."
+    },
+    {
+      "id": 139,
+      "start": 931.8,
+      "end": 933.8,
+      "text": "It's me, Guy Redacted,"
+    },
+    {
+      "id": 140,
+      "start": 933.8,
+      "end": 935.8,
+      "text": "ready to bring you the hardest facts"
+    },
+    {
+      "id": 141,
+      "start": 935.8,
+      "end": 937.8,
+      "text": "that they don't"
+    },
+    {
+      "id": 142,
+      "start": 937.8,
+      "end": 942.94,
+      "text": "want to tell you about."
+    },
+    {
+      "id": 143,
+      "start": 942.94,
+      "end": 943.94,
+      "text": "That's right."
+    },
+    {
+      "id": 144,
+      "start": 943.94,
+      "end": 944.94,
+      "text": "I've been contacted."
+    },
+    {
+      "id": 145,
+      "start": 944.94,
+      "end": 946.94,
+      "text": "I've been paid a king's ransom"
+    },
+    {
+      "id": 146,
+      "start": 946.94,
+      "end": 948.94,
+      "text": "to be pulled from my truth cave"
+    },
+    {
+      "id": 147,
+      "start": 948.94,
+      "end": 950.94,
+      "text": "into this voluminous studio."
+    },
+    {
+      "id": 148,
+      "start": 950.94,
+      "end": 953.94,
+      "text": "But I'm ready to pull no punches"
+    },
+    {
+      "id": 149,
+      "start": 953.94,
+      "end": 955.94,
+      "text": "and bring all the facts."
+    },
+    {
+      "id": 150,
+      "start": 955.94,
+      "end": 958.94,
+      "text": "Thank you so much for supporting this journey."
+    },
+    {
+      "id": 151,
+      "start": 958.94,
+      "end": 962.94,
+      "text": "These are extremely dark sunglasses I'm learning."
+    },
+    {
+      "id": 152,
+      "start": 962.94,
+      "end": 965.94,
+      "text": "Usually I'm in a slightly brighter room."
+    },
+    {
+      "id": 153,
+      "start": 965.94,
+      "end": 967.94,
+      "text": "But the truth actually hides in darkness."
+    },
+    {
+      "id": 154,
+      "start": 967.94,
+      "end": 970.94,
+      "text": "Some people say that that's where lies is."
+    },
+    {
+      "id": 155,
+      "start": 970.94,
+      "end": 972.94,
+      "text": "But the world is so against truth"
+    },
+    {
+      "id": 156,
+      "start": 972.94,
+      "end": 974.94,
+      "text": "you've got to sometimes take it into the dark."
+    },
+    {
+      "id": 157,
+      "start": 974.94,
+      "end": 977.94,
+      "text": "Which I have. I'm Guy Redacted."
+    },
+    {
+      "id": 158,
+      "start": 977.94,
+      "end": 978.94,
+      "text": "Is that my real name?"
+    },
+    {
+      "id": 159,
+      "start": 978.94,
+      "end": 980.94,
+      "text": "That's for me to know."
+    },
+    {
+      "id": 160,
+      "start": 980.94,
+      "end": 982.94,
+      "text": "And you to never find my birth certificate."
+    },
+    {
+      "id": 161,
+      "start": 982.94,
+      "end": 984.94,
+      "text": "Thank you so much for the sub, Skymer."
+    },
+    {
+      "id": 162,
+      "start": 984.94,
+      "end": 987.94,
+      "text": "That's 19 months of truth."
+    },
+    {
+      "id": 163,
+      "start": 987.94,
+      "end": 991.94,
+      "text": "Or maybe just one now that I'm here."
+    },
+    {
+      "id": 164,
+      "start": 991.94,
+      "end": 995.94,
+      "text": "Maybe we've just begun to uncover the dark"
+    },
+    {
+      "id": 165,
+      "start": 995.94,
+      "end": 998.94,
+      "text": "endless hole that is the web of lies"
+    },
+    {
+      "id": 166,
+      "start": 998.94,
+      "end": 1001.94,
+      "text": "created by reality every day."
+    },
+    {
+      "id": 167,
+      "start": 1001.94,
+      "end": 1007.18,
+      "text": "I'll fuck for sure."
+    },
+    {
+      "id": 168,
+      "start": 1007.18,
+      "end": 1009.18,
+      "text": "I'll never tell I'm a gentleman."
+    },
+    {
+      "id": 169,
+      "start": 1009.18,
+      "end": 1011.18,
+      "text": "There's actually still some gentlemen"
+    },
+    {
+      "id": 170,
+      "start": 1011.18,
+      "end": 1012.18,
+      "text": "in this country whether or not"
+    },
+    {
+      "id": 171,
+      "start": 1012.18,
+      "end": 1015.18,
+      "text": "you believe that I'm here to prove it."
+    },
+    {
+      "id": 172,
+      "start": 1015.18,
+      "end": 1017.18,
+      "text": "And that's what we're all about here."
+    },
+    {
+      "id": 173,
+      "start": 1017.18,
+      "end": 1018.18,
+      "text": "It's proof."
+    },
+    {
+      "id": 174,
+      "start": 1018.18,
+      "end": 1019.18,
+      "text": "Facts."
+    },
+    {
+      "id": 175,
+      "start": 1019.18,
+      "end": 1020.18,
+      "text": "Reason."
+    },
+    {
+      "id": 176,
+      "start": 1020.18,
+      "end": 1022.18,
+      "text": "And never letting our feelings get in the way"
+    },
+    {
+      "id": 177,
+      "start": 1022.18,
+      "end": 1025.18,
+      "text": "of any of the stuff I just said."
+    },
+    {
+      "id": 178,
+      "start": 1025.18,
+      "end": 1029.94,
+      "text": "It's not easy, but it's necessary."
+    },
+    {
+      "id": 179,
+      "start": 1029.94,
+      "end": 1034.3,
+      "text": "While info war is well, you know,"
+    },
+    {
+      "id": 180,
+      "start": 1034.3,
+      "end": 1036.3,
+      "text": "that IP was up for grabs."
+    },
+    {
+      "id": 181,
+      "start": 1036.3,
+      "end": 1038.3,
+      "text": "Maybe that's what we learned about actually."
+    },
+    {
+      "id": 182,
+      "start": 1038.3,
+      "end": 1040.3,
+      "text": "One of our brothers in truth"
+    },
+    {
+      "id": 183,
+      "start": 1040.3,
+      "end": 1043.3,
+      "text": "is being assaulted by the system."
+    },
+    {
+      "id": 184,
+      "start": 1043.3,
+      "end": 1045.3,
+      "text": "Why is this happening to him?"
+    },
+    {
+      "id": 185,
+      "start": 1045.3,
+      "end": 1048.3,
+      "text": "Who's making it happen to him?"
+    },
+    {
+      "id": 186,
+      "start": 1048.3,
+      "end": 1051.3,
+      "text": "Why would anyone be mad at him ever"
+    },
+    {
+      "id": 187,
+      "start": 1051.3,
+      "end": 1053.3,
+      "text": "just for saying stuff that like"
+    },
+    {
+      "id": 188,
+      "start": 1053.3,
+      "end": 1056.3,
+      "text": "it seems common sense to me?"
+    },
+    {
+      "id": 189,
+      "start": 1056.3,
+      "end": 1059.3,
+      "text": "I guess we can find out."
+    },
+    {
+      "id": 190,
+      "start": 1059.3,
+      "end": 1062.3,
+      "text": "But first let's catch up on what is happening to him."
+    },
+    {
+      "id": 191,
+      "start": 1062.3,
+      "end": 1066.3,
+      "text": "He's being forced to sell everything"
+    },
+    {
+      "id": 192,
+      "start": 1066.3,
+      "end": 1070.3,
+      "text": "except his soul which is not for sale just like mine."
+    },
+    {
+      "id": 193,
+      "start": 1070.3,
+      "end": 1073.86,
+      "text": "Let's see."
+    },
+    {
+      "id": 194,
+      "start": 1073.86,
+      "end": 1081.02,
+      "text": "I prefer the medium of video"
+    },
+    {
+      "id": 195,
+      "start": 1081.02,
+      "end": 1083.02,
+      "text": "because the picture speaks a thousand words."
+    },
+    {
+      "id": 196,
+      "start": 1083.02,
+      "end": 1086.02,
+      "text": "Well, the video is staying near about a million then."
+    },
+    {
+      "id": 197,
+      "start": 1086.02,
+      "end": 1088.02,
+      "text": "So that saves us a lot of time."
+    },
+    {
+      "id": 198,
+      "start": 1088.02,
+      "end": 1093.02,
+      "text": "So let's check out the yellow journalism of the AP news."
+    },
+    {
+      "id": 199,
+      "start": 1093.02,
+      "end": 1097.02,
+      "text": "What I like to call a pile of lies"
+    },
+    {
+      "id": 200,
+      "start": 1097.02,
+      "end": 1101.02,
+      "text": "that you have to add in more acronyms after AP"
+    },
+    {
+      "id": 201,
+      "start": 1101.02,
+      "end": 1102.02,
+      "text": "for that to work."
+    },
+    {
+      "id": 202,
+      "start": 1102.02,
+      "end": 1104.02,
+      "text": "But I do because I'm not afraid to."
+    },
+    {
+      "id": 203,
+      "start": 1104.02,
+      "end": 1106.02,
+      "text": "Let's see what's going on with the AP."
+    },
+    {
+      "id": 204,
+      "start": 1106.02,
+      "end": 1109.58,
+      "text": "News."
+    },
+    {
+      "id": 205,
+      "start": 1109.58,
+      "end": 1110.58,
+      "text": "I'm Corva Coleman."
+    },
+    {
+      "id": 206,
+      "start": 1110.58,
+      "end": 1112.58,
+      "text": "President Biden has met in Paris"
+    },
+    {
+      "id": 207,
+      "start": 1112.58,
+      "end": 1114.58,
+      "text": "with Ukraine President Volodymyr Zelensky."
+    },
+    {
+      "id": 208,
+      "start": 1114.58,
+      "end": 1116.58,
+      "text": "As NPR's Tamara Keith reports"
+    },
+    {
+      "id": 209,
+      "start": 1116.58,
+      "end": 1119.58,
+      "text": "they discussed Ukraine's ongoing war with Russia."
+    },
+    {
+      "id": 210,
+      "start": 1119.58,
+      "end": 1121.58,
+      "text": "President Biden apologized."
+    },
+    {
+      "id": 211,
+      "start": 1121.58,
+      "end": 1123.58,
+      "text": "I'm here for Alec, goddammit."
+    },
+    {
+      "id": 212,
+      "start": 1123.58,
+      "end": 1125.58,
+      "text": "For the recent AP package to Ukraine"
+    },
+    {
+      "id": 213,
+      "start": 1125.58,
+      "end": 1127.58,
+      "text": "taking months to be approved by Congress."
+    },
+    {
+      "id": 214,
+      "start": 1127.58,
+      "end": 1129.58,
+      "text": "But we got it done finally."
+    },
+    {
+      "id": 215,
+      "start": 1129.58,
+      "end": 1132.58,
+      "text": "And since then, including today,"
+    },
+    {
+      "id": 216,
+      "start": 1132.58,
+      "end": 1135.58,
+      "text": "I've announced six packages of significant funding."
+    },
+    {
+      "id": 217,
+      "start": 1135.58,
+      "end": 1138.58,
+      "text": "Today I'm also signing an additional package"
+    },
+    {
+      "id": 218,
+      "start": 1138.58,
+      "end": 1140.58,
+      "text": "for $225 million."
+    },
+    {
+      "id": 219,
+      "start": 1140.58,
+      "end": 1143.58,
+      "text": "Zelensky said today's meeting would get into military strategy"
+    },
+    {
+      "id": 220,
+      "start": 1143.58,
+      "end": 1145.58,
+      "text": "but was also symbolic."
+    },
+    {
+      "id": 221,
+      "start": 1145.58,
+      "end": 1148.58,
+      "text": "It's very important that you stay with us."
+    },
+    {
+      "id": 222,
+      "start": 1148.58,
+      "end": 1151.58,
+      "text": "Despite partisan support with the Congress."
+    },
+    {
+      "id": 223,
+      "start": 1151.58,
+      "end": 1153.58,
+      "text": "It's very important that in this unity,"
+    },
+    {
+      "id": 224,
+      "start": 1153.58,
+      "end": 1155.58,
+      "text": "United States, America, all American people"
+    },
+    {
+      "id": 225,
+      "start": 1155.58,
+      "end": 1156.58,
+      "text": "stay with Ukraine."
+    },
+    {
+      "id": 226,
+      "start": 1156.58,
+      "end": 1157.58,
+      "text": "We're still in."
+    },
+    {
+      "id": 227,
+      "start": 1157.58,
+      "end": 1159.58,
+      "text": "Completely said Biden."
+    },
+    {
+      "id": 228,
+      "start": 1159.58,
+      "end": 1161.58,
+      "text": "Tamara Keith, NPR News, Paris."
+    },
+    {
+      "id": 229,
+      "start": 1161.58,
+      "end": 1163.58,
+      "text": "President Biden has addressed his son Hunter's"
+    },
+    {
+      "id": 230,
+      "start": 1163.58,
+      "end": 1166.58,
+      "text": "ongoing trial with his gun charges."
+    },
+    {
+      "id": 231,
+      "start": 1166.58,
+      "end": 1169.58,
+      "text": "He told ABC News his exclusive interview."
+    },
+    {
+      "id": 232,
+      "start": 1169.58,
+      "end": 1171.58,
+      "text": "He was not reporting his son."
+    },
+    {
+      "id": 233,
+      "start": 1171.58,
+      "end": 1173.58,
+      "text": "Listen up, Jack."
+    },
+    {
+      "id": 234,
+      "start": 1173.58,
+      "end": 1175.58,
+      "text": "It's come to just Mama Jan 300."
+    },
+    {
+      "id": 235,
+      "start": 1175.58,
+      "end": 1177.58,
+      "text": "I'm showing you tasty coins and I've been dying"
+    },
+    {
+      "id": 236,
+      "start": 1177.58,
+      "end": 1180.58,
+      "text": "to say this, that it's me and that video."
+    },
+    {
+      "id": 237,
+      "start": 1180.58,
+      "end": 1184.83,
+      "text": "That's not you."
+    },
+    {
+      "id": 238,
+      "start": 1184.83,
+      "end": 1187.83,
+      "text": "Even the president, who I often,"
+    },
+    {
+      "id": 239,
+      "start": 1187.83,
+      "end": 1190.83,
+      "text": "I would say most of the time disagree with."
+    },
+    {
+      "id": 240,
+      "start": 1190.83,
+      "end": 1193.83,
+      "text": "It's still being contradicted by the very media"
+    },
+    {
+      "id": 241,
+      "start": 1193.83,
+      "end": 1195.83,
+      "text": "that he runs."
+    },
+    {
+      "id": 242,
+      "start": 1195.83,
+      "end": 1197.83,
+      "text": "And that just shows you the shape that this country"
+    },
+    {
+      "id": 243,
+      "start": 1197.83,
+      "end": 1198.83,
+      "text": "is in."
+    },
+    {
+      "id": 244,
+      "start": 1198.83,
+      "end": 1201.83,
+      "text": "When even the dark lords of the media"
+    },
+    {
+      "id": 245,
+      "start": 1201.83,
+      "end": 1203.83,
+      "text": "ecosphere are being silenced."
+    },
+    {
+      "id": 246,
+      "start": 1203.83,
+      "end": 1205.83,
+      "text": "This trial began in Wilmington, Delaware."
+    },
+    {
+      "id": 247,
+      "start": 1205.83,
+      "end": 1209.83,
+      "text": "Biden's only surviving son faces three felony charges"
+    },
+    {
+      "id": 248,
+      "start": 1209.83,
+      "end": 1212.83,
+      "text": "for illegally obtaining a firearm back in 2018."
+    },
+    {
+      "id": 249,
+      "start": 1212.83,
+      "end": 1214.83,
+      "text": "He was indicted last fall."
+    },
+    {
+      "id": 250,
+      "start": 1214.83,
+      "end": 1217.83,
+      "text": "Hunter Biden has previously been public about his"
+    },
+    {
+      "id": 251,
+      "start": 1217.83,
+      "end": 1219.83,
+      "text": "long time struggle with addiction."
+    },
+    {
+      "id": 252,
+      "start": 1219.83,
+      "end": 1221.83,
+      "text": "He is also expected to appear in a city trial"
+    },
+    {
+      "id": 253,
+      "start": 1221.83,
+      "end": 1223.83,
+      "text": "later this year."
+    },
+    {
+      "id": 254,
+      "start": 1223.83,
+      "end": 1225.83,
+      "text": "President Biden has typically not commented on his son's"
+    },
+    {
+      "id": 255,
+      "start": 1225.83,
+      "end": 1226.83,
+      "text": "long-term struggle."
+    },
+    {
+      "id": 256,
+      "start": 1226.83,
+      "end": 1227.83,
+      "text": "Where's Mr. Jones?"
+    },
+    {
+      "id": 257,
+      "start": 1227.83,
+      "end": 1229.83,
+      "text": "We're trying to learn about Alex there."
+    },
+    {
+      "id": 258,
+      "start": 1229.83,
+      "end": 1231.83,
+      "text": "He loves and supports his son."
+    },
+    {
+      "id": 259,
+      "start": 1231.83,
+      "end": 1233.83,
+      "text": "Elena Moore, NPR News, Washington."
+    },
+    {
+      "id": 260,
+      "start": 1233.83,
+      "end": 1235.83,
+      "text": "Conspiracy theorist and talk show host Alex Jones"
+    },
+    {
+      "id": 261,
+      "start": 1235.83,
+      "end": 1238.83,
+      "text": "is a step closer to starting to pay damages"
+    },
+    {
+      "id": 262,
+      "start": 1238.83,
+      "end": 1241.83,
+      "text": "to the Sandy Hook families who sued him for defamation."
+    },
+    {
+      "id": 263,
+      "start": 1241.83,
+      "end": 1244.83,
+      "text": "Jones was ordered to pay the family's $1.5"
+    },
+    {
+      "id": 264,
+      "start": 1244.83,
+      "end": 1247.83,
+      "text": "billion, but he filed for bankruptcy protection"
+    },
+    {
+      "id": 265,
+      "start": 1247.83,
+      "end": 1249.83,
+      "text": "and he hasn't paid a dime."
+    },
+    {
+      "id": 266,
+      "start": 1249.83,
+      "end": 1251.83,
+      "text": "NPR's Tobias Smith reports,"
+    },
+    {
+      "id": 267,
+      "start": 1251.83,
+      "end": 1253.83,
+      "text": "Jones now wants to resolve the case"
+    },
+    {
+      "id": 268,
+      "start": 1253.83,
+      "end": 1255.83,
+      "text": "through a Chapter 7 arbitration."
+    },
+    {
+      "id": 269,
+      "start": 1255.83,
+      "end": 1257.83,
+      "text": "The families say Jones's bogus conspiracies"
+    },
+    {
+      "id": 270,
+      "start": 1257.83,
+      "end": 1259.83,
+      "text": "that the Sandy Hook shooting never happened"
+    },
+    {
+      "id": 271,
+      "start": 1259.83,
+      "end": 1261.83,
+      "text": "and they were all just actors"
+    },
+    {
+      "id": 272,
+      "start": 1261.83,
+      "end": 1264.83,
+      "text": "prompted his followers to harass and torment them."
+    },
+    {
+      "id": 273,
+      "start": 1264.83,
+      "end": 1267.83,
+      "text": "Jones, who's been obstructive through the proceedings,"
+    },
+    {
+      "id": 274,
+      "start": 1267.83,
+      "end": 1269.83,
+      "text": "now says liquidating his assets to pay the families"
+    },
+    {
+      "id": 275,
+      "start": 1269.83,
+      "end": 1271.83,
+      "text": "is in everyone's interest."
+    },
+    {
+      "id": 276,
+      "start": 1271.83,
+      "end": 1273.83,
+      "text": "That would mean a kind of fire sale"
+    },
+    {
+      "id": 277,
+      "start": 1273.83,
+      "end": 1276.83,
+      "text": "of everything from his ownership in his media company"
+    },
+    {
+      "id": 278,
+      "start": 1276.83,
+      "end": 1278.83,
+      "text": "to his personal gun collection."
+    },
+    {
+      "id": 279,
+      "start": 1278.83,
+      "end": 1281.83,
+      "text": "In the end, that may yield only a couple hundred thousand"
+    },
+    {
+      "id": 280,
+      "start": 1281.83,
+      "end": 1283.83,
+      "text": "dollars per plaintiff,"
+    },
+    {
+      "id": 281,
+      "start": 1283.83,
+      "end": 1285.83,
+      "text": "but a judge has ruled Jones's debt"
+    },
+    {
+      "id": 282,
+      "start": 1285.83,
+      "end": 1287.83,
+      "text": "will not be wiped out by bankruptcy"
+    },
+    {
+      "id": 283,
+      "start": 1287.83,
+      "end": 1289.83,
+      "text": "so families can go after his future earnings"
+    },
+    {
+      "id": 284,
+      "start": 1289.83,
+      "end": 1291.83,
+      "text": "and any assets he may have hidden"
+    },
+    {
+      "id": 285,
+      "start": 1291.83,
+      "end": 1293.83,
+      "text": "for the rest of his life."
+    },
+    {
+      "id": 286,
+      "start": 1293.83,
+      "end": 1295.83,
+      "text": "For the rest of his life."
+    },
+    {
+      "id": 287,
+      "start": 1295.83,
+      "end": 1297.83,
+      "text": "To approve the bankruptcy plan."
+    },
+    {
+      "id": 288,
+      "start": 1297.83,
+      "end": 1301.75,
+      "text": "Tobias Smith, NPR News."
+    },
+    {
+      "id": 289,
+      "start": 1301.75,
+      "end": 1303.75,
+      "text": "They literally are,"
+    },
+    {
+      "id": 290,
+      "start": 1303.75,
+      "end": 1305.75,
+      "text": "they want to silence them so hard"
+    },
+    {
+      "id": 291,
+      "start": 1305.75,
+      "end": 1307.75,
+      "text": "they're not even saying,"
+    },
+    {
+      "id": 292,
+      "start": 1307.75,
+      "end": 1309.75,
+      "text": "well what if he pays all the damages,"
+    },
+    {
+      "id": 293,
+      "start": 1309.75,
+      "end": 1313.06,
+      "text": "what if he pays all billion dollars"
+    },
+    {
+      "id": 294,
+      "start": 1313.06,
+      "end": 1315.06,
+      "text": "to this man?"
+    },
+    {
+      "id": 295,
+      "start": 1315.06,
+      "end": 1317.06,
+      "text": "He's capable of making and paying off that kind of money"
+    },
+    {
+      "id": 296,
+      "start": 1317.06,
+      "end": 1319.06,
+      "text": "due to his powerful media"
+    },
+    {
+      "id": 297,
+      "start": 1319.06,
+      "end": 1321.06,
+      "text": "and his influence,"
+    },
+    {
+      "id": 298,
+      "start": 1321.06,
+      "end": 1323.06,
+      "text": "but they're saying that's never enough."
+    },
+    {
+      "id": 299,
+      "start": 1323.06,
+      "end": 1325.06,
+      "text": "They never can get enough"
+    },
+    {
+      "id": 300,
+      "start": 1325.06,
+      "end": 1327.06,
+      "text": "and they want him to pay forever."
+    },
+    {
+      "id": 301,
+      "start": 1327.06,
+      "end": 1329.06,
+      "text": "And that's supposed to be fair."
+    },
+    {
+      "id": 302,
+      "start": 1329.06,
+      "end": 1331.06,
+      "text": "Look, when you have to tell the truth a lot,"
+    },
+    {
+      "id": 303,
+      "start": 1331.06,
+      "end": 1333.06,
+      "text": "sometimes you do say stuff"
+    },
+    {
+      "id": 304,
+      "start": 1333.06,
+      "end": 1335.06,
+      "text": "that could be construed as"
+    },
+    {
+      "id": 305,
+      "start": 1335.06,
+      "end": 1339.11,
+      "text": "based on the fact completely untrue."
+    },
+    {
+      "id": 306,
+      "start": 1339.11,
+      "end": 1341.11,
+      "text": "Am I saying that's what he did"
+    },
+    {
+      "id": 307,
+      "start": 1341.11,
+      "end": 1343.11,
+      "text": "by claiming that"
+    },
+    {
+      "id": 308,
+      "start": 1343.11,
+      "end": 1345.11,
+      "text": "claiming that a guy"
+    },
+    {
+      "id": 309,
+      "start": 1345.11,
+      "end": 1347.11,
+      "text": "that basically claiming that a bunch of dead children"
+    },
+    {
+      "id": 310,
+      "start": 1347.11,
+      "end": 1351.03,
+      "text": "were not actually killed?"
+    },
+    {
+      "id": 311,
+      "start": 1351.03,
+      "end": 1353.03,
+      "text": "I'm actually, unfortunately,"
+    },
+    {
+      "id": 312,
+      "start": 1353.03,
+      "end": 1355.03,
+      "text": "I'm not that I'm ever silenced and never compromised"
+    },
+    {
+      "id": 313,
+      "start": 1355.03,
+      "end": 1357.03,
+      "text": "but I'm learning that actually illegally"
+    },
+    {
+      "id": 314,
+      "start": 1357.03,
+      "end": 1359.03,
+      "text": "I can't actually comment on that"
+    },
+    {
+      "id": 315,
+      "start": 1359.03,
+      "end": 1362.57,
+      "text": "because of"
+    },
+    {
+      "id": 316,
+      "start": 1362.57,
+      "end": 1364.57,
+      "text": "third non-going lawsuit"
+    },
+    {
+      "id": 317,
+      "start": 1364.57,
+      "end": 1368.81,
+      "text": "that I might also be involved in."
+    },
+    {
+      "id": 318,
+      "start": 1368.81,
+      "end": 1370.81,
+      "text": "But they're claiming that he's harassing them"
+    },
+    {
+      "id": 319,
+      "start": 1370.81,
+      "end": 1372.81,
+      "text": "and yet they're taking all of his money"
+    },
+    {
+      "id": 320,
+      "start": 1372.81,
+      "end": 1374.81,
+      "text": "and so I just ask you"
+    },
+    {
+      "id": 321,
+      "start": 1374.81,
+      "end": 1376.81,
+      "text": "audience to really consider"
+    },
+    {
+      "id": 322,
+      "start": 1376.81,
+      "end": 1378.81,
+      "text": "that he's the one even being harassed here."
+    },
+    {
+      "id": 323,
+      "start": 1378.81,
+      "end": 1380.81,
+      "text": "The one that basically"
+    },
+    {
+      "id": 324,
+      "start": 1380.81,
+      "end": 1382.81,
+      "text": "sent an army of followers after a bunch of"
+    },
+    {
+      "id": 325,
+      "start": 1382.81,
+      "end": 1384.81,
+      "text": "after a bunch of victims"
+    },
+    {
+      "id": 326,
+      "start": 1384.81,
+      "end": 1386.81,
+      "text": "in this case children's parents"
+    },
+    {
+      "id": 327,
+      "start": 1386.81,
+      "end": 1388.81,
+      "text": "deceased children's parents"
+    },
+    {
+      "id": 328,
+      "start": 1388.81,
+      "end": 1390.81,
+      "text": "okay that's bad I guess, but they're trying to take his money now."
+    },
+    {
+      "id": 329,
+      "start": 1390.81,
+      "end": 1392.81,
+      "text": "And that's the money"
+    },
+    {
+      "id": 330,
+      "start": 1392.81,
+      "end": 1394.81,
+      "text": "that he made fairly by saying that stuff."
+    },
+    {
+      "id": 331,
+      "start": 1394.81,
+      "end": 1396.81,
+      "text": "It's just something to consider."
+    },
+    {
+      "id": 332,
+      "start": 1398.81,
+      "end": 1402.73,
+      "text": "Let's see what Alex has to say about it."
+    },
+    {
+      "id": 333,
+      "start": 1402.73,
+      "end": 1404.73,
+      "text": "Alex Jones reacts"
+    },
+    {
+      "id": 334,
+      "start": 1404.73,
+      "end": 1406.73,
+      "text": "Can I find it on YouTube quickly?"
+    },
+    {
+      "id": 335,
+      "start": 1406.73,
+      "end": 1408.73,
+      "text": "Oh wait, this is Joe Rogan from a month ago."
+    },
+    {
+      "id": 336,
+      "start": 1408.73,
+      "end": 1412.36,
+      "text": "Let's see him react to a trial"
+    },
+    {
+      "id": 337,
+      "start": 1412.36,
+      "end": 1414.36,
+      "text": "verdict from a year ago."
+    },
+    {
+      "id": 338,
+      "start": 1414.36,
+      "end": 1416.36,
+      "text": "Wait, can I, wait, I've got to throw in there"
+    },
+    {
+      "id": 339,
+      "start": 1416.36,
+      "end": 1418.36,
+      "text": "the story about this."
+    },
+    {
+      "id": 340,
+      "start": 1418.36,
+      "end": 1420.36,
+      "text": "Let me see."
+    },
+    {
+      "id": 341,
+      "start": 1420.36,
+      "end": 1422.36,
+      "text": "Oh yeah here we go."
+    },
+    {
+      "id": 342,
+      "start": 1422.36,
+      "end": 1427.08,
+      "text": "Infowars host Alex Jones"
+    },
+    {
+      "id": 343,
+      "start": 1427.08,
+      "end": 1429.08,
+      "text": "sells off his assets, admits"
+    },
+    {
+      "id": 344,
+      "start": 1429.08,
+      "end": 1431.08,
+      "text": "he has to pay Sandy Hook family."
+    },
+    {
+      "id": 345,
+      "start": 1431.08,
+      "end": 1433.08,
+      "text": "He's even admitting it."
+    },
+    {
+      "id": 346,
+      "start": 1433.08,
+      "end": 1435.08,
+      "text": "Like they're still after him"
+    },
+    {
+      "id": 347,
+      "start": 1435.08,
+      "end": 1437.08,
+      "text": "even though he said my bad."
+    },
+    {
+      "id": 348,
+      "start": 1437.08,
+      "end": 1439.08,
+      "text": "Think of how unfair that is."
+    },
+    {
+      "id": 349,
+      "start": 1439.08,
+      "end": 1441.08,
+      "text": "Think of all the times in your life"
+    },
+    {
+      "id": 350,
+      "start": 1441.08,
+      "end": 1443.08,
+      "text": "where people have been mad at you."
+    },
+    {
+      "id": 351,
+      "start": 1443.08,
+      "end": 1445.08,
+      "text": "Imagine if you couldn't get out of the stuff"
+    },
+    {
+      "id": 352,
+      "start": 1445.08,
+      "end": 1447.08,
+      "text": "that you did wrong just by being like"
+    },
+    {
+      "id": 353,
+      "start": 1447.08,
+      "end": 1449.08,
+      "text": "whoopsie daisy."
+    },
+    {
+      "id": 354,
+      "start": 1449.08,
+      "end": 1451.08,
+      "text": "If you can't just say whoopsie daisy"
+    },
+    {
+      "id": 355,
+      "start": 1451.08,
+      "end": 1453.08,
+      "text": "and then have things be okay"
+    },
+    {
+      "id": 356,
+      "start": 1453.08,
+      "end": 1455.08,
+      "text": "how are we ever going to heal this country?"
+    },
+    {
+      "id": 357,
+      "start": 1455.08,
+      "end": 1457.08,
+      "text": "Courts of order"
+    },
+    {
+      "id": 358,
+      "start": 1457.08,
+      "end": 1459.08,
+      "text": "Jones to pay 1.5 billion"
+    },
+    {
+      "id": 359,
+      "start": 1459.08,
+      "end": 1461.08,
+      "text": "that's with a capital B"
+    },
+    {
+      "id": 360,
+      "start": 1461.08,
+      "end": 1463.08,
+      "text": "even though here it's not."
+    },
+    {
+      "id": 361,
+      "start": 1463.08,
+      "end": 1465.08,
+      "text": "To the relatives of 20 students and 6 staff members"
+    },
+    {
+      "id": 362,
+      "start": 1465.08,
+      "end": 1467.08,
+      "text": "killed in the 2012 attack"
+    },
+    {
+      "id": 363,
+      "start": 1467.08,
+      "end": 1471.0,
+      "text": "on Sandy Hook Elementary School."
+    },
+    {
+      "id": 364,
+      "start": 1471.0,
+      "end": 1473.0,
+      "text": "Especially when you've never done anything"
+    },
+    {
+      "id": 365,
+      "start": 1473.0,
+      "end": 1475.0,
+      "text": "that's when people don't understand the news"
+    },
+    {
+      "id": 366,
+      "start": 1475.0,
+      "end": 1477.0,
+      "text": "and the facts can be confusing"
+    },
+    {
+      "id": 367,
+      "start": 1477.0,
+      "end": 1479.0,
+      "text": "and that's why they're hard to discern."
+    },
+    {
+      "id": 368,
+      "start": 1479.0,
+      "end": 1481.0,
+      "text": "The yellow media"
+    },
+    {
+      "id": 369,
+      "start": 1481.0,
+      "end": 1483.0,
+      "text": "the yellow urinalist media will"
+    },
+    {
+      "id": 370,
+      "start": 1483.0,
+      "end": 1485.0,
+      "text": "and I say that intentionally"
+    },
+    {
+      "id": 371,
+      "start": 1485.0,
+      "end": 1487.0,
+      "text": "urinalist media"
+    },
+    {
+      "id": 372,
+      "start": 1487.0,
+      "end": 1489.0,
+      "text": "will try to say that it's easy to discern the facts"
+    },
+    {
+      "id": 373,
+      "start": 1489.0,
+      "end": 1491.0,
+      "text": "but that's because they're the ones making the fake narrative."
+    },
+    {
+      "id": 374,
+      "start": 1491.0,
+      "end": 1493.0,
+      "text": "Conspiracy theorist Alex Jones"
+    },
+    {
+      "id": 375,
+      "start": 1493.0,
+      "end": 1495.0,
+      "text": "has asked the US judge to convert the bank"
+    },
+    {
+      "id": 376,
+      "start": 1495.0,
+      "end": 1497.0,
+      "text": "throughout the year into a Chapter 7 liquidation"
+    },
+    {
+      "id": 377,
+      "start": 1497.0,
+      "end": 1499.0,
+      "text": "leading up in the effort to settle math of legal judgments"
+    },
+    {
+      "id": 378,
+      "start": 1499.0,
+      "end": 1501.0,
+      "text": "related to the lies"
+    },
+    {
+      "id": 379,
+      "start": 1501.0,
+      "end": 1503.0,
+      "text": "about the 2012 Sandy Hook Elementary massacre."
+    },
+    {
+      "id": 380,
+      "start": 1503.0,
+      "end": 1505.0,
+      "text": "Jones really there's no reasonable"
+    },
+    {
+      "id": 381,
+      "start": 1505.0,
+      "end": 1507.0,
+      "text": "prospect of a successful reorganization"
+    },
+    {
+      "id": 382,
+      "start": 1507.0,
+      "end": 1509.0,
+      "text": "of his debts"
+    },
+    {
+      "id": 383,
+      "start": 1509.0,
+      "end": 1511.0,
+      "text": "most of which stem from 1.5 billion awarded"
+    },
+    {
+      "id": 384,
+      "start": 1511.0,
+      "end": 1513.0,
+      "text": "in the defamation lawsuits"
+    },
+    {
+      "id": 385,
+      "start": 1513.0,
+      "end": 1515.0,
+      "text": "his attorney said in a court following on Thursday"
+    },
+    {
+      "id": 386,
+      "start": 1515.0,
+      "end": 1517.0,
+      "text": "a Chapter 7 liquidation will not"
+    },
+    {
+      "id": 387,
+      "start": 1517.0,
+      "end": 1519.0,
+      "text": "allow Jones to escape paying the legal judgments"
+    },
+    {
+      "id": 388,
+      "start": 1519.0,
+      "end": 1521.0,
+      "text": "but it offers a streamlined procedure"
+    },
+    {
+      "id": 389,
+      "start": 1521.0,
+      "end": 1523.0,
+      "text": "for selling his assets under the supervision"
+    },
+    {
+      "id": 390,
+      "start": 1523.0,
+      "end": 1525.0,
+      "text": "of a court appointed trustee."
+    },
+    {
+      "id": 391,
+      "start": 1525.0,
+      "end": 1527.0,
+      "text": "And look I'm a competitor to this man"
+    },
+    {
+      "id": 392,
+      "start": 1527.0,
+      "end": 1529.0,
+      "text": "because he's one of the biggest names"
+    },
+    {
+      "id": 393,
+      "start": 1529.0,
+      "end": 1531.0,
+      "text": "in this space"
+    },
+    {
+      "id": 394,
+      "start": 1531.0,
+      "end": 1533.0,
+      "text": "but I probably the second"
+    },
+    {
+      "id": 395,
+      "start": 1533.0,
+      "end": 1535.0,
+      "text": "or not the first so I'm just saying if you need"
+    },
+    {
+      "id": 396,
+      "start": 1535.0,
+      "end": 1537.0,
+      "text": "to sell it I can't quite do"
+    },
+    {
+      "id": 397,
+      "start": 1537.0,
+      "end": 1539.0,
+      "text": "1.5 billion dollars but"
+    },
+    {
+      "id": 398,
+      "start": 1539.0,
+      "end": 1541.0,
+      "text": "I could establish a payment plan"
+    },
+    {
+      "id": 399,
+      "start": 1541.0,
+      "end": 1543.0,
+      "text": "to help support you in this trying"
+    },
+    {
+      "id": 400,
+      "start": 1543.0,
+      "end": 1545.0,
+      "text": "time of I don't know like"
+    },
+    {
+      "id": 401,
+      "start": 1545.0,
+      "end": 1547.0,
+      "text": "whatever I make off tubs so like"
+    },
+    {
+      "id": 402,
+      "start": 1547.0,
+      "end": 1550.28,
+      "text": "a couple hundred bucks"
+    },
+    {
+      "id": 403,
+      "start": 1550.28,
+      "end": 1552.28,
+      "text": "I could give you a couple hundred bucks"
+    },
+    {
+      "id": 404,
+      "start": 1552.28,
+      "end": 1554.28,
+      "text": "every week or so and it seems like"
+    },
+    {
+      "id": 405,
+      "start": 1554.28,
+      "end": 1556.28,
+      "text": "your brand is actually kind of"
+    },
+    {
+      "id": 406,
+      "start": 1556.28,
+      "end": 1558.28,
+      "text": "pretty touchy right now so that could be"
+    },
+    {
+      "id": 407,
+      "start": 1558.28,
+      "end": 1560.28,
+      "text": "that could be an offer that he has to take"
+    },
+    {
+      "id": 408,
+      "start": 1560.28,
+      "end": 1564.07,
+      "text": "and I am putting it out there"
+    },
+    {
+      "id": 409,
+      "start": 1564.07,
+      "end": 1566.07,
+      "text": "Baker if he can be used to wipe out debts"
+    },
+    {
+      "id": 410,
+      "start": 1566.07,
+      "end": 1568.07,
+      "text": "and legal judgments well then what's going on here"
+    },
+    {
+      "id": 411,
+      "start": 1568.07,
+      "end": 1572.02,
+      "text": "everyone dropped the secret hand"
+    },
+    {
+      "id": 412,
+      "start": 1572.02,
+      "end": 1574.02,
+      "text": "thing and Mr. Whoopie Boo Boo got it right away"
+    },
+    {
+      "id": 413,
+      "start": 1574.02,
+      "end": 1576.02,
+      "text": "some people say that that's just a regular email that's actually"
+    },
+    {
+      "id": 414,
+      "start": 1576.02,
+      "end": 1578.02,
+      "text": "our secret hand signal"
+    },
+    {
+      "id": 415,
+      "start": 1578.02,
+      "end": 1580.02,
+      "text": "the judge over seeing the"
+    },
+    {
+      "id": 416,
+      "start": 1580.02,
+      "end": 1582.02,
+      "text": "Jones case ruled in October that most of the defamation"
+    },
+    {
+      "id": 417,
+      "start": 1582.02,
+      "end": 1584.02,
+      "text": "verdict cannot be legally discharged"
+    },
+    {
+      "id": 418,
+      "start": 1584.02,
+      "end": 1586.02,
+      "text": "because they resulted from willfully"
+    },
+    {
+      "id": 419,
+      "start": 1586.02,
+      "end": 1588.02,
+      "text": "this injuries but I'm just saying what's malicious"
+    },
+    {
+      "id": 420,
+      "start": 1588.02,
+      "end": 1590.02,
+      "text": "about trying to find the truth which was"
+    },
+    {
+      "id": 421,
+      "start": 1590.02,
+      "end": 1592.02,
+      "text": "basically if you think about all who's doing"
+    },
+    {
+      "id": 422,
+      "start": 1592.02,
+      "end": 1594.02,
+      "text": "John's believes there's no reasonable prospect"
+    },
+    {
+      "id": 423,
+      "start": 1594.02,
+      "end": 1596.02,
+      "text": "and we said that courts and tactics and"
+    },
+    {
+      "id": 424,
+      "start": 1596.02,
+      "end": 1598.02,
+      "text": "Connecticut have already done to pay 1.5 billion"
+    },
+    {
+      "id": 425,
+      "start": 1598.02,
+      "end": 1600.02,
+      "text": "to relatives of 20 students and six staff"
+    },
+    {
+      "id": 426,
+      "start": 1600.02,
+      "end": 1602.02,
+      "text": "members killed in 2012 mass shooting at"
+    },
+    {
+      "id": 427,
+      "start": 1602.02,
+      "end": 1604.02,
+      "text": "Sandy Hook Elementary School Connecticut"
+    },
+    {
+      "id": 428,
+      "start": 1604.02,
+      "end": 1606.02,
+      "text": "bankruptcy can be used to wipe out"
+    },
+    {
+      "id": 429,
+      "start": 1606.02,
+      "end": 1608.02,
+      "text": "debts and legal judgments I don't think"
+    },
+    {
+      "id": 430,
+      "start": 1608.02,
+      "end": 1610.02,
+      "text": "I feel like I'm repeating this"
+    },
+    {
+      "id": 431,
+      "start": 1610.02,
+      "end": 1612.02,
+      "text": "John said Tuesday on his Alex Dunge that"
+    },
+    {
+      "id": 432,
+      "start": 1612.02,
+      "end": 1614.02,
+      "text": "Sandy Hook families are trying to shut down his broadcast"
+    },
+    {
+      "id": 433,
+      "start": 1614.02,
+      "end": 1616.02,
+      "text": "with a made-up kangaroo court debt"
+    },
+    {
+      "id": 434,
+      "start": 1616.02,
+      "end": 1618.02,
+      "text": "a spokesman from the Sandy Hook family"
+    },
+    {
+      "id": 435,
+      "start": 1618.02,
+      "end": 1620.02,
+      "text": "declined to comment on Thursday"
+    },
+    {
+      "id": 436,
+      "start": 1620.02,
+      "end": 1622.02,
+      "text": "I like to see I'd like to find a clip of this"
+    },
+    {
+      "id": 437,
+      "start": 1622.02,
+      "end": 1624.02,
+      "text": "I'm going to"
+    },
+    {
+      "id": 438,
+      "start": 1624.02,
+      "end": 1626.02,
+      "text": "I heard from the glasses"
+    },
+    {
+      "id": 439,
+      "start": 1626.02,
+      "end": 1628.02,
+      "text": "the glasses is really dark"
+    },
+    {
+      "id": 440,
+      "start": 1628.02,
+      "end": 1630.02,
+      "text": "I'm going to see if I can find a clip from"
+    },
+    {
+      "id": 441,
+      "start": 1630.02,
+      "end": 1632.02,
+      "text": "his show with him talking about Sandy Hook"
+    },
+    {
+      "id": 442,
+      "start": 1632.02,
+      "end": 1634.02,
+      "text": "and then we can judge for ourselves"
+    },
+    {
+      "id": 443,
+      "start": 1634.02,
+      "end": 1636.02,
+      "text": "that this is really 1.5 billion"
+    },
+    {
+      "id": 444,
+      "start": 1636.02,
+      "end": 1638.02,
+      "text": "dollar mistake"
+    },
+    {
+      "id": 445,
+      "start": 1638.02,
+      "end": 1640.02,
+      "text": "Alex James"
+    },
+    {
+      "id": 446,
+      "start": 1640.02,
+      "end": 1642.02,
+      "text": "Sandy Hook"
+    },
+    {
+      "id": 447,
+      "start": 1642.02,
+      "end": 1644.02,
+      "text": "compilation"
+    },
+    {
+      "id": 448,
+      "start": 1644.02,
+      "end": 1646.02,
+      "text": "that was easy to find actually"
+    },
+    {
+      "id": 449,
+      "start": 1646.02,
+      "end": 1648.02,
+      "text": "oh wait maybe it's not"
+    },
+    {
+      "id": 450,
+      "start": 1654.66,
+      "end": 1656.66,
+      "text": "I don't need to see a bunch of people"
+    },
+    {
+      "id": 451,
+      "start": 1656.66,
+      "end": 1658.66,
+      "text": "a bunch of vultures"
+    },
+    {
+      "id": 452,
+      "start": 1658.66,
+      "end": 1660.66,
+      "text": "flying over the corpse"
+    },
+    {
+      "id": 453,
+      "start": 1660.66,
+      "end": 1662.66,
+      "text": "trying to find"
+    },
+    {
+      "id": 454,
+      "start": 1662.66,
+      "end": 1664.66,
+      "text": "trying to make me a lot of this man's"
+    },
+    {
+      "id": 455,
+      "start": 1664.66,
+      "end": 1670.41,
+      "text": "downfall"
+    },
+    {
+      "id": 456,
+      "start": 1670.41,
+      "end": 1674.17,
+      "text": "this is just a really"
+    },
+    {
+      "id": 457,
+      "start": 1674.17,
+      "end": 1676.17,
+      "text": "I can't believe there's no"
+    },
+    {
+      "id": 458,
+      "start": 1676.17,
+      "end": 1678.17,
+      "text": "I can't believe there's no compilation"
+    },
+    {
+      "id": 459,
+      "start": 1678.17,
+      "end": 1680.17,
+      "text": "I can't believe someone hasn't done all this work for me"
+    },
+    {
+      "id": 460,
+      "start": 1680.17,
+      "end": 1685.18,
+      "text": "it sounds like someone's been taking these down"
+    },
+    {
+      "id": 461,
+      "start": 1685.18,
+      "end": 1687.18,
+      "text": "because they want to silence him"
+    },
+    {
+      "id": 462,
+      "start": 1687.18,
+      "end": 1689.18,
+      "text": "even when I go to Reddit"
+    },
+    {
+      "id": 463,
+      "start": 1689.18,
+      "end": 1691.18,
+      "text": "where there's various links"
+    },
+    {
+      "id": 464,
+      "start": 1691.18,
+      "end": 1693.18,
+      "text": "there's a playlist on Spotify"
+    },
+    {
+      "id": 465,
+      "start": 1693.18,
+      "end": 1697.42,
+      "text": "whoa"
+    },
+    {
+      "id": 466,
+      "start": 1697.42,
+      "end": 1701.3,
+      "text": "what just happened"
+    },
+    {
+      "id": 467,
+      "start": 1701.3,
+      "end": 1703.3,
+      "text": "Spotify.com"
+    },
+    {
+      "id": 468,
+      "start": 1703.3,
+      "end": 1705.3,
+      "text": "maybe you really can't find it"
+    },
+    {
+      "id": 469,
+      "start": 1705.3,
+      "end": 1707.3,
+      "text": "maybe they've really scrubbed this from the internet"
+    },
+    {
+      "id": 470,
+      "start": 1707.3,
+      "end": 1710.81,
+      "text": "all I can see is a bunch of"
+    },
+    {
+      "id": 471,
+      "start": 1710.81,
+      "end": 1712.81,
+      "text": "is a bunch of vulture 3"
+    },
+    {
+      "id": 472,
+      "start": 1712.81,
+      "end": 1716.12,
+      "text": "acting to him crying"
+    },
+    {
+      "id": 473,
+      "start": 1716.12,
+      "end": 1718.12,
+      "text": "and that's not fair because I'd say he only"
+    },
+    {
+      "id": 474,
+      "start": 1718.12,
+      "end": 1720.12,
+      "text": "spends about 20% of his program to crying"
+    },
+    {
+      "id": 475,
+      "start": 1720.12,
+      "end": 1723.43,
+      "text": "let's just watch this"
+    },
+    {
+      "id": 476,
+      "start": 1723.43,
+      "end": 1725.43,
+      "text": "quick clip I mean we've already seen"
+    },
+    {
+      "id": 477,
+      "start": 1725.43,
+      "end": 1727.43,
+      "text": "some of you might have seen this"
+    },
+    {
+      "id": 478,
+      "start": 1727.43,
+      "end": 1729.43,
+      "text": "on the Patreon stream"
+    },
+    {
+      "id": 479,
+      "start": 1729.43,
+      "end": 1731.43,
+      "text": "but"
+    },
+    {
+      "id": 480,
+      "start": 1731.43,
+      "end": 1733.43,
+      "text": "here he is on his"
+    },
+    {
+      "id": 481,
+      "start": 1733.43,
+      "end": 1735.43,
+      "text": "on his show reacting"
+    },
+    {
+      "id": 482,
+      "start": 1735.43,
+      "end": 1737.43,
+      "text": "to what he's going through right now"
+    },
+    {
+      "id": 483,
+      "start": 1737.43,
+      "end": 1739.43,
+      "text": "war cry"
+    },
+    {
+      "id": 484,
+      "start": 1739.43,
+      "end": 1741.43,
+      "text": "it's not really though I mean it is but it isn't"
+    },
+    {
+      "id": 485,
+      "start": 1741.43,
+      "end": 1743.43,
+      "text": "it's also inspiring"
+    },
+    {
+      "id": 486,
+      "start": 1743.43,
+      "end": 1745.43,
+      "text": "my voice will completely go into this"
+    },
+    {
+      "id": 487,
+      "start": 1745.43,
+      "end": 1747.43,
+      "text": "it's fine"
+    },
+    {
+      "id": 488,
+      "start": 1747.43,
+      "end": 1749.43,
+      "text": "it's my resistance to them"
+    },
+    {
+      "id": 489,
+      "start": 1749.43,
+      "end": 1751.43,
+      "text": "it's unconscious transmission"
+    },
+    {
+      "id": 490,
+      "start": 1751.43,
+      "end": 1757.66,
+      "text": "it's a human under attack"
+    },
+    {
+      "id": 491,
+      "start": 1757.66,
+      "end": 1763.27,
+      "text": "we're going to beat these people"
+    },
+    {
+      "id": 492,
+      "start": 1763.27,
+      "end": 1767.16,
+      "text": "how about trying to be dramatic"
+    },
+    {
+      "id": 493,
+      "start": 1767.16,
+      "end": 1769.16,
+      "text": "he's not trying to be"
+    },
+    {
+      "id": 494,
+      "start": 1769.16,
+      "end": 1771.16,
+      "text": "these people"
+    },
+    {
+      "id": 495,
+      "start": 1771.16,
+      "end": 1773.16,
+      "text": "hate our children"
+    },
+    {
+      "id": 496,
+      "start": 1773.16,
+      "end": 1775.16,
+      "text": "Alex Schilder"
+    },
+    {
+      "id": 497,
+      "start": 1775.16,
+      "end": 1777.16,
+      "text": "has agreed to liquidate his assets"
+    },
+    {
+      "id": 498,
+      "start": 1777.16,
+      "end": 1779.16,
+      "text": "to pay the families"
+    },
+    {
+      "id": 499,
+      "start": 1779.16,
+      "end": 1786.54,
+      "text": "look it's not his fault"
+    },
+    {
+      "id": 500,
+      "start": 1786.54,
+      "end": 1788.54,
+      "text": "he's trying to not be dramatic"
+    },
+    {
+      "id": 501,
+      "start": 1788.54,
+      "end": 1790.54,
+      "text": "but you can't help it when a fifth"
+    },
+    {
+      "id": 502,
+      "start": 1790.54,
+      "end": 1792.54,
+      "text": "situation of this magnitude"
+    },
+    {
+      "id": 503,
+      "start": 1792.54,
+      "end": 1794.54,
+      "text": "it's dropped on your doorstep"
+    },
+    {
+      "id": 504,
+      "start": 1794.54,
+      "end": 1796.54,
+      "text": "the Amazon package"
+    },
+    {
+      "id": 505,
+      "start": 1796.54,
+      "end": 1798.54,
+      "text": "of misery is dropped off at your front door"
+    },
+    {
+      "id": 506,
+      "start": 1798.54,
+      "end": 1800.54,
+      "text": "and there's no one to even steal it"
+    },
+    {
+      "id": 507,
+      "start": 1800.54,
+      "end": 1802.54,
+      "text": "nobody wants to even steal it from your porch"
+    },
+    {
+      "id": 508,
+      "start": 1802.54,
+      "end": 1804.54,
+      "text": "even though you've turned off your ring cam"
+    },
+    {
+      "id": 509,
+      "start": 1804.54,
+      "end": 1806.54,
+      "text": "that's the situation he's in"
+    },
+    {
+      "id": 510,
+      "start": 1806.54,
+      "end": 1808.54,
+      "text": "I dare you"
+    },
+    {
+      "id": 511,
+      "start": 1808.54,
+      "end": 1810.54,
+      "text": "to get a $1.5 billion"
+    },
+    {
+      "id": 512,
+      "start": 1810.54,
+      "end": 1812.54,
+      "text": "demand from the courts"
+    },
+    {
+      "id": 513,
+      "start": 1812.54,
+      "end": 1814.54,
+      "text": "levied against you and to not weep"
+    },
+    {
+      "id": 514,
+      "start": 1814.54,
+      "end": 1816.54,
+      "text": "and scream"
+    },
+    {
+      "id": 515,
+      "start": 1816.54,
+      "end": 1818.54,
+      "text": "you heard Alex Jones was absolutely hammered for that"
+    },
+    {
+      "id": 516,
+      "start": 1818.54,
+      "end": 1820.54,
+      "text": "what about what you just saw"
+    },
+    {
+      "id": 517,
+      "start": 1820.54,
+      "end": 1822.54,
+      "text": "made you think that he was drunk"
+    },
+    {
+      "id": 518,
+      "start": 1822.54,
+      "end": 1824.54,
+      "text": "he's red with passion"
+    },
+    {
+      "id": 519,
+      "start": 1824.54,
+      "end": 1826.54,
+      "text": "he's slurring his words because he's so upset"
+    },
+    {
+      "id": 520,
+      "start": 1826.54,
+      "end": 1828.54,
+      "text": "and he's violently switching between"
+    },
+    {
+      "id": 521,
+      "start": 1828.54,
+      "end": 1830.54,
+      "text": "emotions because he's feeling all of them"
+    },
+    {
+      "id": 522,
+      "start": 1830.54,
+      "end": 1832.54,
+      "text": "at the same time"
+    },
+    {
+      "id": 523,
+      "start": 1832.54,
+      "end": 1836.58,
+      "text": "what about that sounds like he's drunk"
+    },
+    {
+      "id": 524,
+      "start": 1836.58,
+      "end": 1838.58,
+      "text": "you've heard he's not a great husband"
+    },
+    {
+      "id": 525,
+      "start": 1838.58,
+      "end": 1840.58,
+      "text": "there's so much stress on his life"
+    },
+    {
+      "id": 526,
+      "start": 1840.58,
+      "end": 1842.58,
+      "text": "when you're $1.5 billion in debt"
+    },
+    {
+      "id": 527,
+      "start": 1842.58,
+      "end": 1844.58,
+      "text": "it's really hard to focus on your relationship"
+    },
+    {
+      "id": 528,
+      "start": 1844.58,
+      "end": 1848.63,
+      "text": "I understand that there's a lot of"
+    },
+    {
+      "id": 529,
+      "start": 1848.63,
+      "end": 1850.63,
+      "text": "rumors about this man"
+    },
+    {
+      "id": 530,
+      "start": 1850.63,
+      "end": 1852.63,
+      "text": "but I'm just saying"
+    },
+    {
+      "id": 531,
+      "start": 1852.63,
+      "end": 1854.63,
+      "text": "I'll let you know him personally"
+    },
+    {
+      "id": 532,
+      "start": 1854.63,
+      "end": 1858.23,
+      "text": "which I don't"
+    },
+    {
+      "id": 533,
+      "start": 1858.23,
+      "end": 1863.59,
+      "text": "you can't really judge him"
+    },
+    {
+      "id": 534,
+      "start": 1863.59,
+      "end": 1865.59,
+      "text": "let's see him in court"
+    },
+    {
+      "id": 535,
+      "start": 1865.59,
+      "end": 1867.59,
+      "text": "find a clip of him in court"
+    },
+    {
+      "id": 536,
+      "start": 1867.59,
+      "end": 1874.55,
+      "text": "unlike our recent presidential trial"
+    },
+    {
+      "id": 537,
+      "start": 1874.55,
+      "end": 1876.55,
+      "text": "where for some reason they didn't let"
+    },
+    {
+      "id": 538,
+      "start": 1876.55,
+      "end": 1878.55,
+      "text": "in no cameras"
+    },
+    {
+      "id": 539,
+      "start": 1878.55,
+      "end": 1880.55,
+      "text": "there were cameras all over Alex Jones' trial"
+    },
+    {
+      "id": 540,
+      "start": 1880.55,
+      "end": 1882.55,
+      "text": "I guess his right"
+    },
+    {
+      "id": 541,
+      "start": 1882.55,
+      "end": 1884.55,
+      "text": "to privacy has been denied permanently"
+    },
+    {
+      "id": 542,
+      "start": 1884.55,
+      "end": 1886.55,
+      "text": "let's see how it's been going"
+    },
+    {
+      "id": 543,
+      "start": 1886.55,
+      "end": 1890.18,
+      "text": "this trial started"
+    },
+    {
+      "id": 544,
+      "start": 1890.18,
+      "end": 1892.18,
+      "text": "and you called"
+    },
+    {
+      "id": 545,
+      "start": 1892.18,
+      "end": 1894.18,
+      "text": "I came to report yourself"
+    },
+    {
+      "id": 546,
+      "start": 1894.18,
+      "end": 1896.18,
+      "text": "and you called"
+    },
+    {
+      "id": 547,
+      "start": 1896.18,
+      "end": 1898.18,
+      "text": "this judge a tyrant"
+    },
+    {
+      "id": 548,
+      "start": 1898.18,
+      "end": 1900.18,
+      "text": "and you actually"
+    },
+    {
+      "id": 549,
+      "start": 1900.18,
+      "end": 1902.18,
+      "text": "used that word a lot with your audience"
+    },
+    {
+      "id": 550,
+      "start": 1902.18,
+      "end": 1908.44,
+      "text": "you call people tyrants"
+    },
+    {
+      "id": 551,
+      "start": 1908.44,
+      "end": 1910.44,
+      "text": "I got them"
+    },
+    {
+      "id": 552,
+      "start": 1910.44,
+      "end": 1912.44,
+      "text": "and one way that you've been"
+    },
+    {
+      "id": 553,
+      "start": 1912.44,
+      "end": 1914.44,
+      "text": "conveying to your audience that"
+    },
+    {
+      "id": 554,
+      "start": 1914.44,
+      "end": 1916.44,
+      "text": "Judge Bellis has been acting like"
+    },
+    {
+      "id": 555,
+      "start": 1916.44,
+      "end": 1918.44,
+      "text": "a tyrant is by"
+    },
+    {
+      "id": 556,
+      "start": 1918.44,
+      "end": 1920.44,
+      "text": "look at this judge"
+    },
+    {
+      "id": 557,
+      "start": 1920.44,
+      "end": 1922.44,
+      "text": "you can just tell that for some reason"
+    },
+    {
+      "id": 558,
+      "start": 1922.44,
+      "end": 1924.44,
+      "text": "you don't like him that much"
+    },
+    {
+      "id": 559,
+      "start": 1924.44,
+      "end": 1926.44,
+      "text": "and what has he done to earn her ire"
+    },
+    {
+      "id": 560,
+      "start": 1926.44,
+      "end": 1928.44,
+      "text": "other than say the truth"
+    },
+    {
+      "id": 561,
+      "start": 1928.44,
+      "end": 1930.44,
+      "text": "and yet she can't handle that"
+    },
+    {
+      "id": 562,
+      "start": 1930.44,
+      "end": 1932.44,
+      "text": "I mean say what you will about our legal system"
+    },
+    {
+      "id": 563,
+      "start": 1932.44,
+      "end": 1934.44,
+      "text": "but she's looking down and I just"
+    },
+    {
+      "id": 564,
+      "start": 1934.44,
+      "end": 1936.44,
+      "text": "don't know the vibe that she does not like him at all"
+    },
+    {
+      "id": 565,
+      "start": 1936.44,
+      "end": 1938.44,
+      "text": "and I'm just asking why"
+    },
+    {
+      "id": 566,
+      "start": 1938.44,
+      "end": 1940.44,
+      "text": "showing her with lasers coming out of her eyes"
+    },
+    {
+      "id": 567,
+      "start": 1940.44,
+      "end": 1942.44,
+      "text": "right"
+    },
+    {
+      "id": 568,
+      "start": 1942.44,
+      "end": 1944.44,
+      "text": "you know you did that"
+    },
+    {
+      "id": 569,
+      "start": 1944.44,
+      "end": 1946.44,
+      "text": "I didn't direct that for some of my cells in court"
+    },
+    {
+      "id": 570,
+      "start": 1946.44,
+      "end": 1948.44,
+      "text": "oh so you've been watching this"
+    },
+    {
+      "id": 571,
+      "start": 1948.44,
+      "end": 1950.44,
+      "text": "yeah I've been watching"
+    },
+    {
+      "id": 572,
+      "start": 1950.44,
+      "end": 1952.44,
+      "text": "you can just watch from this"
+    },
+    {
+      "id": 573,
+      "start": 1952.44,
+      "end": 1954.44,
+      "text": "actually an argumentative"
+    },
+    {
+      "id": 574,
+      "start": 1954.44,
+      "end": 1956.44,
+      "text": "some people say she's taking note"
+    },
+    {
+      "id": 575,
+      "start": 1956.44,
+      "end": 1958.44,
+      "text": "I'll be a whole different narrative"
+    },
+    {
+      "id": 576,
+      "start": 1958.44,
+      "end": 1960.44,
+      "text": "I have changed some of my show"
+    },
+    {
+      "id": 577,
+      "start": 1960.44,
+      "end": 1962.44,
+      "text": "let's pull up 477"
+    },
+    {
+      "id": 578,
+      "start": 1962.44,
+      "end": 1964.44,
+      "text": "this should be in already"
+    },
+    {
+      "id": 579,
+      "start": 1964.44,
+      "end": 1966.44,
+      "text": "it is a full exhibit"
+    },
+    {
+      "id": 580,
+      "start": 1966.44,
+      "end": 1968.44,
+      "text": "and what was it wrong 477"
+    },
+    {
+      "id": 581,
+      "start": 1968.44,
+      "end": 1970.44,
+      "text": "477 your honor"
+    },
+    {
+      "id": 582,
+      "start": 1970.44,
+      "end": 1973.94,
+      "text": "this is the tyrant you've been telling your audience about right"
+    },
+    {
+      "id": 583,
+      "start": 1973.94,
+      "end": 1975.94,
+      "text": "yep"
+    },
+    {
+      "id": 584,
+      "start": 1975.94,
+      "end": 1977.94,
+      "text": "I'm barred from saying why I said it"
+    },
+    {
+      "id": 585,
+      "start": 1977.94,
+      "end": 1979.94,
+      "text": "this is the tyrant you've been telling your audience about right"
+    },
+    {
+      "id": 586,
+      "start": 1979.94,
+      "end": 1981.94,
+      "text": "this is unfair to use youtube thumbnails"
+    },
+    {
+      "id": 587,
+      "start": 1981.94,
+      "end": 1983.94,
+      "text": "against someone"
+    },
+    {
+      "id": 588,
+      "start": 1983.94,
+      "end": 1987.45,
+      "text": "because"
+    },
+    {
+      "id": 589,
+      "start": 1987.45,
+      "end": 1989.45,
+      "text": "when you make a youtube thumbnail"
+    },
+    {
+      "id": 590,
+      "start": 1989.45,
+      "end": 1991.45,
+      "text": "you have to give them red eyes"
+    },
+    {
+      "id": 591,
+      "start": 1991.45,
+      "end": 1993.45,
+      "text": "or no one will click on the video"
+    },
+    {
+      "id": 592,
+      "start": 1993.45,
+      "end": 1995.45,
+      "text": "the real person who should be on trial here is youtube"
+    },
+    {
+      "id": 593,
+      "start": 1995.45,
+      "end": 1997.45,
+      "text": "because I've run into this myself"
+    },
+    {
+      "id": 594,
+      "start": 1997.45,
+      "end": 1999.45,
+      "text": "I'd love to just put up a flattering photo of someone"
+    },
+    {
+      "id": 595,
+      "start": 1999.45,
+      "end": 2001.45,
+      "text": "but you have to make their eyes huge"
+    },
+    {
+      "id": 596,
+      "start": 2001.45,
+      "end": 2003.45,
+      "text": "you have to put fire behind them"
+    },
+    {
+      "id": 597,
+      "start": 2003.45,
+      "end": 2005.45,
+      "text": "you have to make their eyes red"
+    },
+    {
+      "id": 598,
+      "start": 2005.45,
+      "end": 2007.45,
+      "text": "it helps if you stretch out their mouth"
+    },
+    {
+      "id": 599,
+      "start": 2007.45,
+      "end": 2009.45,
+      "text": "you kind of want to turn them into like"
+    },
+    {
+      "id": 600,
+      "start": 2009.45,
+      "end": 2011.45,
+      "text": "a clown version of that"
+    },
+    {
+      "id": 601,
+      "start": 2011.45,
+      "end": 2013.45,
+      "text": "painting the screen"
+    },
+    {
+      "id": 602,
+      "start": 2013.45,
+      "end": 2015.45,
+      "text": "plus a bunch of fire effects"
+    },
+    {
+      "id": 603,
+      "start": 2015.45,
+      "end": 2017.45,
+      "text": "but that's not because we want to"
+    },
+    {
+      "id": 604,
+      "start": 2017.45,
+      "end": 2019.45,
+      "text": "that's because that's what the algorithm demands"
+    },
+    {
+      "id": 605,
+      "start": 2019.45,
+      "end": 2021.45,
+      "text": "and that's not our fault"
+    },
+    {
+      "id": 606,
+      "start": 2021.45,
+      "end": 2023.45,
+      "text": "I believe"
+    },
+    {
+      "id": 607,
+      "start": 2023.45,
+      "end": 2025.45,
+      "text": "I believe"
+    },
+    {
+      "id": 608,
+      "start": 2025.45,
+      "end": 2027.45,
+      "text": "yes"
+    },
+    {
+      "id": 609,
+      "start": 2027.45,
+      "end": 2034.47,
+      "text": "I don't know"
+    },
+    {
+      "id": 610,
+      "start": 2034.47,
+      "end": 2036.47,
+      "text": "the answer is you don't know"
+    },
+    {
+      "id": 611,
+      "start": 2036.47,
+      "end": 2038.47,
+      "text": "is that even legal"
+    },
+    {
+      "id": 612,
+      "start": 2038.47,
+      "end": 2040.47,
+      "text": "can the judge help you like that"
+    },
+    {
+      "id": 613,
+      "start": 2040.47,
+      "end": 2042.47,
+      "text": "so it's called help"
+    },
+    {
+      "id": 614,
+      "start": 2042.47,
+      "end": 2044.47,
+      "text": "she basically came in"
+    },
+    {
+      "id": 615,
+      "start": 2044.47,
+      "end": 2046.47,
+      "text": "and gave him the answers"
+    },
+    {
+      "id": 616,
+      "start": 2046.47,
+      "end": 2048.47,
+      "text": "and if a teacher did that they'd be in trouble"
+    },
+    {
+      "id": 617,
+      "start": 2048.47,
+      "end": 2050.47,
+      "text": "because you can't do that for students"
+    },
+    {
+      "id": 618,
+      "start": 2050.47,
+      "end": 2052.47,
+      "text": "they're not letting Alex don't mind"
+    },
+    {
+      "id": 619,
+      "start": 2052.47,
+      "end": 2054.47,
+      "text": "developing a healthy way"
+    },
+    {
+      "id": 620,
+      "start": 2054.47,
+      "end": 2056.47,
+      "text": "currently he's a student of the law system"
+    },
+    {
+      "id": 621,
+      "start": 2056.47,
+      "end": 2058.47,
+      "text": "by being embroiled in this"
+    },
+    {
+      "id": 622,
+      "start": 2058.47,
+      "end": 2060.47,
+      "text": "and I think that the teaching style"
+    },
+    {
+      "id": 623,
+      "start": 2060.47,
+      "end": 2062.47,
+      "text": "that this judge is going with"
+    },
+    {
+      "id": 624,
+      "start": 2062.47,
+      "end": 2064.47,
+      "text": "is really unfair to him actually"
+    },
+    {
+      "id": 625,
+      "start": 2064.47,
+      "end": 2066.47,
+      "text": "and I think that could be grounds to throw this whole trial out"
+    },
+    {
+      "id": 626,
+      "start": 2066.47,
+      "end": 2068.47,
+      "text": "this is the tyrant picture here"
+    },
+    {
+      "id": 627,
+      "start": 2068.47,
+      "end": 2070.47,
+      "text": "that you've been telling me about"
+    },
+    {
+      "id": 628,
+      "start": 2070.47,
+      "end": 2072.47,
+      "text": "we believe this is tyrannical"
+    },
+    {
+      "id": 629,
+      "start": 2072.47,
+      "end": 2074.47,
+      "text": "can we send the question please"
+    },
+    {
+      "id": 630,
+      "start": 2074.47,
+      "end": 2076.47,
+      "text": "I'll see how we send it"
+    },
+    {
+      "id": 631,
+      "start": 2076.47,
+      "end": 2078.47,
+      "text": "a hard raid"
+    },
+    {
+      "id": 632,
+      "start": 2078.47,
+      "end": 2080.47,
+      "text": "from Kassim G and you're in luck"
+    },
+    {
+      "id": 633,
+      "start": 2080.47,
+      "end": 2082.47,
+      "text": "because you're in the temper truth zone"
+    },
+    {
+      "id": 634,
+      "start": 2082.47,
+      "end": 2084.47,
+      "text": "where we pull no punches"
+    },
+    {
+      "id": 635,
+      "start": 2084.47,
+      "end": 2086.47,
+      "text": "but we do attack the truth"
+    },
+    {
+      "id": 636,
+      "start": 2086.47,
+      "end": 2088.47,
+      "text": "but we're on its side though"
+    },
+    {
+      "id": 637,
+      "start": 2088.47,
+      "end": 2090.47,
+      "text": "sorry we attack"
+    },
+    {
+      "id": 638,
+      "start": 2090.47,
+      "end": 2092.47,
+      "text": "we defend the truth, there we go"
+    },
+    {
+      "id": 639,
+      "start": 2092.47,
+      "end": 2094.47,
+      "text": "but using attacks"
+    },
+    {
+      "id": 640,
+      "start": 2094.47,
+      "end": 2096.47,
+      "text": "I hope all of you had a good time with Kassim G"
+    },
+    {
+      "id": 641,
+      "start": 2096.47,
+      "end": 2098.47,
+      "text": "we're learning about the incredible struggle"
+    },
+    {
+      "id": 642,
+      "start": 2098.47,
+      "end": 2100.47,
+      "text": "that Alex Jones did in today"
+    },
+    {
+      "id": 643,
+      "start": 2100.47,
+      "end": 2102.47,
+      "text": "he's fighting, he's in a fight for his life"
+    },
+    {
+      "id": 644,
+      "start": 2102.47,
+      "end": 2104.47,
+      "text": "with all the king's men"
+    },
+    {
+      "id": 645,
+      "start": 2104.47,
+      "end": 2106.47,
+      "text": "a raid against him"
+    },
+    {
+      "id": 646,
+      "start": 2106.47,
+      "end": 2108.47,
+      "text": "and unfortunately it sounds like"
+    },
+    {
+      "id": 647,
+      "start": 2108.47,
+      "end": 2110.47,
+      "text": "he's already lost that fight"
+    },
+    {
+      "id": 648,
+      "start": 2110.47,
+      "end": 2114.58,
+      "text": "please stop calling Kass Junior"
+    },
+    {
+      "id": 649,
+      "start": 2114.58,
+      "end": 2116.58,
+      "text": "before raiding"
+    },
+    {
+      "id": 650,
+      "start": 2116.58,
+      "end": 2118.58,
+      "text": "he's a bigger streamer than you"
+    },
+    {
+      "id": 651,
+      "start": 2118.58,
+      "end": 2120.58,
+      "text": "that's from Kassim Q"
+    },
+    {
+      "id": 652,
+      "start": 2120.58,
+      "end": 2122.58,
+      "text": "well he's a bigger streamer cut to me"
+    },
+    {
+      "id": 653,
+      "start": 2122.58,
+      "end": 2124.58,
+      "text": "thank you for the follow twiddly wink"
+    },
+    {
+      "id": 654,
+      "start": 2124.58,
+      "end": 2128.41,
+      "text": "follow the truth right here"
+    },
+    {
+      "id": 655,
+      "start": 2128.41,
+      "end": 2130.41,
+      "text": "and prepare to have your mind absolutely shattered"
+    },
+    {
+      "id": 656,
+      "start": 2130.41,
+      "end": 2132.41,
+      "text": "if you think that you"
+    },
+    {
+      "id": 657,
+      "start": 2132.41,
+      "end": 2134.41,
+      "text": "unless you already know the truth"
+    },
+    {
+      "id": 658,
+      "start": 2134.41,
+      "end": 2136.41,
+      "text": "in which case it's golf that couldn't come here"
+    },
+    {
+      "id": 659,
+      "start": 2136.41,
+      "end": 2138.41,
+      "text": "for confirmation"
+    },
+    {
+      "id": 660,
+      "start": 2138.41,
+      "end": 2140.41,
+      "text": "but what we say here is actually 100%"
+    },
+    {
+      "id": 661,
+      "start": 2140.41,
+      "end": 2142.41,
+      "text": "confirmed to be the unequivocal"
+    },
+    {
+      "id": 662,
+      "start": 2142.41,
+      "end": 2144.41,
+      "text": "undeniable truth"
+    },
+    {
+      "id": 663,
+      "start": 2144.41,
+      "end": 2146.41,
+      "text": "and with that in mind let's continue to watch"
+    },
+    {
+      "id": 664,
+      "start": 2146.41,
+      "end": 2148.41,
+      "text": "Alex Jones in the courtroom"
+    },
+    {
+      "id": 665,
+      "start": 2148.41,
+      "end": 2150.41,
+      "text": "from earlier this week"
+    },
+    {
+      "id": 666,
+      "start": 2150.41,
+      "end": 2152.41,
+      "text": "to try to find out if he's been handled fairly"
+    },
+    {
+      "id": 667,
+      "start": 2152.41,
+      "end": 2154.41,
+      "text": "spoiled or alert"
+    },
+    {
+      "id": 668,
+      "start": 2154.41,
+      "end": 2159.16,
+      "text": "he is not"
+    },
+    {
+      "id": 669,
+      "start": 2159.16,
+      "end": 2161.16,
+      "text": "thank you for the follow"
+    },
+    {
+      "id": 670,
+      "start": 2161.16,
+      "end": 2163.16,
+      "text": "and we have one more"
+    },
+    {
+      "id": 671,
+      "start": 2163.16,
+      "end": 2165.16,
+      "text": "thank you"
+    },
+    {
+      "id": 672,
+      "start": 2165.16,
+      "end": 2167.16,
+      "text": "this picture right here"
+    },
+    {
+      "id": 673,
+      "start": 2167.16,
+      "end": 2169.16,
+      "text": "that's just bells correct"
+    },
+    {
+      "id": 674,
+      "start": 2169.16,
+      "end": 2171.16,
+      "text": "lasers coming out of my eyes"
+    },
+    {
+      "id": 675,
+      "start": 2171.16,
+      "end": 2173.16,
+      "text": "yes"
+    },
+    {
+      "id": 676,
+      "start": 2173.16,
+      "end": 2175.16,
+      "text": "big FD delete that you're really"
+    },
+    {
+      "id": 677,
+      "start": 2175.16,
+      "end": 2177.16,
+      "text": "oh it ended I'm sorry I coughed over the unit"
+    },
+    {
+      "id": 678,
+      "start": 2177.16,
+      "end": 2179.16,
+      "text": "I'll follow that rod are totally wrong"
+    },
+    {
+      "id": 679,
+      "start": 2179.16,
+      "end": 2181.16,
+      "text": "well fucked up"
+    },
+    {
+      "id": 680,
+      "start": 2181.16,
+      "end": 2183.16,
+      "text": "but it's fucked up all throat"
+    },
+    {
+      "id": 681,
+      "start": 2183.16,
+      "end": 2185.16,
+      "text": "the water's after me"
+    },
+    {
+      "id": 682,
+      "start": 2185.16,
+      "end": 2187.16,
+      "text": "that's big water coming to get me again"
+    },
+    {
+      "id": 683,
+      "start": 2187.16,
+      "end": 2189.16,
+      "text": "that's just more proof that what's in our water"
+    },
+    {
+      "id": 684,
+      "start": 2189.16,
+      "end": 2191.16,
+      "text": "safe off where I'll drink it normally in the water"
+    },
+    {
+      "id": 685,
+      "start": 2191.16,
+      "end": 2193.16,
+      "text": "the water is trying to stop me"
+    },
+    {
+      "id": 686,
+      "start": 2193.16,
+      "end": 2196.54,
+      "text": "from talking to you"
+    },
+    {
+      "id": 687,
+      "start": 2196.54,
+      "end": 2198.54,
+      "text": "do you see that he's being led through the trial"
+    },
+    {
+      "id": 688,
+      "start": 2198.54,
+      "end": 2200.54,
+      "text": "by the nose the judge literally telling him"
+    },
+    {
+      "id": 689,
+      "start": 2200.54,
+      "end": 2202.54,
+      "text": "his only options are to say yes"
+    },
+    {
+      "id": 690,
+      "start": 2202.54,
+      "end": 2204.54,
+      "text": "no or I don't know"
+    },
+    {
+      "id": 691,
+      "start": 2204.54,
+      "end": 2206.54,
+      "text": "now what can he say but I don't know in that case"
+    },
+    {
+      "id": 692,
+      "start": 2206.54,
+      "end": 2208.54,
+      "text": "and when you don't know you can't defend yourself"
+    },
+    {
+      "id": 693,
+      "start": 2208.54,
+      "end": 2210.54,
+      "text": "even though he does know he's being told"
+    },
+    {
+      "id": 694,
+      "start": 2210.54,
+      "end": 2216.5,
+      "text": "that he can't know the things that he knows"
+    },
+    {
+      "id": 695,
+      "start": 2216.5,
+      "end": 2218.5,
+      "text": "the state water boarding attack"
+    },
+    {
+      "id": 696,
+      "start": 2218.5,
+      "end": 2220.5,
+      "text": "I just got water boarded by just a normal couple water"
+    },
+    {
+      "id": 697,
+      "start": 2220.5,
+      "end": 2222.5,
+      "text": "and that's the state this country is in"
+    },
+    {
+      "id": 698,
+      "start": 2222.5,
+      "end": 2224.5,
+      "text": "even our normal water is water boarding"
+    },
+    {
+      "id": 699,
+      "start": 2224.5,
+      "end": 2226.5,
+      "text": "and I was actually in favor of water boarding"
+    },
+    {
+      "id": 700,
+      "start": 2226.5,
+      "end": 2230.33,
+      "text": "being illegal"
+    },
+    {
+      "id": 701,
+      "start": 2230.33,
+      "end": 2232.33,
+      "text": "but not in our cup"
+    },
+    {
+      "id": 702,
+      "start": 2232.33,
+      "end": 2234.33,
+      "text": "what done by cool military guys"
+    },
+    {
+      "id": 703,
+      "start": 2234.33,
+      "end": 2236.33,
+      "text": "I just thought of nowhere to my throat"
+    },
+    {
+      "id": 704,
+      "start": 2236.33,
+      "end": 2238.33,
+      "text": "just because I'm drinking but they"
+    },
+    {
+      "id": 705,
+      "start": 2238.33,
+      "end": 2242.09,
+      "text": "put stuff in the water to make that happen"
+    },
+    {
+      "id": 706,
+      "start": 2242.09,
+      "end": 2244.09,
+      "text": "hmm"
+    },
+    {
+      "id": 707,
+      "start": 2244.09,
+      "end": 2246.09,
+      "text": "what can you even say"
+    },
+    {
+      "id": 708,
+      "start": 2246.09,
+      "end": 2248.09,
+      "text": "yeah Alex Jones it's Joe anymore"
+    },
+    {
+      "id": 709,
+      "start": 2248.09,
+      "end": 2250.09,
+      "text": "Alex Jones"
+    },
+    {
+      "id": 710,
+      "start": 2250.09,
+      "end": 2252.09,
+      "text": "info wars"
+    },
+    {
+      "id": 711,
+      "start": 2252.09,
+      "end": 2254.09,
+      "text": "where do you even watch that now"
+    },
+    {
+      "id": 712,
+      "start": 2254.09,
+      "end": 2257.85,
+      "text": "is it been stricken from Google"
+    },
+    {
+      "id": 713,
+      "start": 2257.85,
+      "end": 2259.85,
+      "text": "you have to pay is it is it behind"
+    },
+    {
+      "id": 714,
+      "start": 2259.85,
+      "end": 2261.85,
+      "text": "a paywall"
+    },
+    {
+      "id": 715,
+      "start": 2261.85,
+      "end": 2263.85,
+      "text": "how do I care for no clips of it"
+    },
+    {
+      "id": 716,
+      "start": 2263.85,
+      "end": 2265.85,
+      "text": "the conspiracy of itself"
+    },
+    {
+      "id": 717,
+      "start": 2265.85,
+      "end": 2267.85,
+      "text": "it's on the spice channel"
+    },
+    {
+      "id": 718,
+      "start": 2267.85,
+      "end": 2269.85,
+      "text": "is that real"
+    },
+    {
+      "id": 719,
+      "start": 2269.85,
+      "end": 2271.85,
+      "text": "is there even such a thing as the spice channel"
+    },
+    {
+      "id": 720,
+      "start": 2271.85,
+      "end": 2273.85,
+      "text": "how come we're in this"
+    },
+    {
+      "id": 721,
+      "start": 2273.85,
+      "end": 2275.85,
+      "text": "we're in this maze"
+    },
+    {
+      "id": 722,
+      "start": 2275.85,
+      "end": 2282.36,
+      "text": "this maze where I can't find any facts"
+    },
+    {
+      "id": 723,
+      "start": 2282.36,
+      "end": 2284.36,
+      "text": "the spice channel doesn't look like info wars"
+    },
+    {
+      "id": 724,
+      "start": 2284.36,
+      "end": 2286.36,
+      "text": "I think that might be a deep space"
+    },
+    {
+      "id": 725,
+      "start": 2286.36,
+      "end": 2288.36,
+      "text": "actor"
+    },
+    {
+      "id": 726,
+      "start": 2288.36,
+      "end": 2290.36,
+      "text": "I call them deep space actors"
+    },
+    {
+      "id": 727,
+      "start": 2290.36,
+      "end": 2292.36,
+      "text": "because"
+    },
+    {
+      "id": 728,
+      "start": 2292.36,
+      "end": 2294.36,
+      "text": "I don't even think it's just the state of raid against"
+    },
+    {
+      "id": 729,
+      "start": 2294.36,
+      "end": 2296.36,
+      "text": "I think it's all of space"
+    },
+    {
+      "id": 730,
+      "start": 2296.36,
+      "end": 2298.36,
+      "text": "someone just sent me to the spice channel"
+    },
+    {
+      "id": 731,
+      "start": 2298.36,
+      "end": 2300.36,
+      "text": "well let me show you what's on the spice channel"
+    },
+    {
+      "id": 732,
+      "start": 2300.36,
+      "end": 2304.57,
+      "text": "10 ways to care for your breath"
+    },
+    {
+      "id": 733,
+      "start": 2304.57,
+      "end": 2306.57,
+      "text": "does this look like info wars to you"
+    },
+    {
+      "id": 734,
+      "start": 2306.57,
+      "end": 2308.57,
+      "text": "because if it is I would like to"
+    },
+    {
+      "id": 735,
+      "start": 2308.57,
+      "end": 2310.57,
+      "text": "I'm curious"
+    },
+    {
+      "id": 736,
+      "start": 2310.57,
+      "end": 2314.26,
+      "text": "maintain a healthy"
+    },
+    {
+      "id": 737,
+      "start": 2314.26,
+      "end": 2316.26,
+      "text": "and exercise"
+    },
+    {
+      "id": 738,
+      "start": 2316.26,
+      "end": 2318.26,
+      "text": "as with the rest of your body"
+    },
+    {
+      "id": 739,
+      "start": 2318.26,
+      "end": 2320.26,
+      "text": "your breath require balance and arrangement"
+    },
+    {
+      "id": 740,
+      "start": 2320.26,
+      "end": 2322.26,
+      "text": "to keep them have time covering up some of the text"
+    },
+    {
+      "id": 741,
+      "start": 2322.26,
+      "end": 2324.26,
+      "text": "increase physical activity"
+    },
+    {
+      "id": 742,
+      "start": 2324.26,
+      "end": 2326.26,
+      "text": "reduce the overall risk of breast cancer by 10 to 30"
+    },
+    {
+      "id": 743,
+      "start": 2326.26,
+      "end": 2333.42,
+      "text": "well this is useful information"
+    },
+    {
+      "id": 744,
+      "start": 2333.42,
+      "end": 2335.42,
+      "text": "don't believe me this is the spice channel"
+    },
+    {
+      "id": 745,
+      "start": 2335.42,
+      "end": 2337.42,
+      "text": "look at this this is it"
+    },
+    {
+      "id": 746,
+      "start": 2337.42,
+      "end": 2343.06,
+      "text": "this is the spice channel"
+    },
+    {
+      "id": 747,
+      "start": 2343.06,
+      "end": 2345.06,
+      "text": "Nigeria movie abominate the full movie"
+    },
+    {
+      "id": 748,
+      "start": 2345.06,
+      "end": 2347.06,
+      "text": "abomination the power of"
+    },
+    {
+      "id": 749,
+      "start": 2347.06,
+      "end": 2349.06,
+      "text": "planning and change by doctor miles"
+    },
+    {
+      "id": 750,
+      "start": 2349.06,
+      "end": 2353.05,
+      "text": "I'm being told that's not the spice channel"
+    },
+    {
+      "id": 751,
+      "start": 2353.05,
+      "end": 2357.32,
+      "text": "I'm one of the fastest"
+    },
+    {
+      "id": 752,
+      "start": 2357.32,
+      "end": 2359.32,
+      "text": "Googlers there is"
+    },
+    {
+      "id": 753,
+      "start": 2359.32,
+      "end": 2361.32,
+      "text": "and I can't"
+    },
+    {
+      "id": 754,
+      "start": 2361.32,
+      "end": 2363.32,
+      "text": "even find info wars"
+    },
+    {
+      "id": 755,
+      "start": 2363.32,
+      "end": 2365.32,
+      "text": "that's how deep they've buried the truth"
+    },
+    {
+      "id": 756,
+      "start": 2365.32,
+      "end": 2367.32,
+      "text": "you can't even"
+    },
+    {
+      "id": 757,
+      "start": 2367.32,
+      "end": 2369.32,
+      "text": "the internet machine doesn't even"
+    },
+    {
+      "id": 758,
+      "start": 2369.32,
+      "end": 2373.82,
+      "text": "tell you where it is anymore"
+    },
+    {
+      "id": 759,
+      "start": 2373.82,
+      "end": 2381.54,
+      "text": "that's how hidden it is"
+    },
+    {
+      "id": 760,
+      "start": 2381.54,
+      "end": 2383.54,
+      "text": "I know it might not be the spice channel"
+    },
+    {
+      "id": 761,
+      "start": 2383.54,
+      "end": 2385.54,
+      "text": "remember it's the spice channel that's left"
+    },
+    {
+      "id": 762,
+      "start": 2385.54,
+      "end": 2387.54,
+      "text": "after the attacks of the state"
+    },
+    {
+      "id": 763,
+      "start": 2387.54,
+      "end": 2389.54,
+      "text": "upon let's be real free speech"
+    },
+    {
+      "id": 764,
+      "start": 2389.54,
+      "end": 2391.54,
+      "text": "if you're not free to say stuff"
+    },
+    {
+      "id": 765,
+      "start": 2391.54,
+      "end": 2393.54,
+      "text": "that's just"
+    },
+    {
+      "id": 766,
+      "start": 2393.54,
+      "end": 2395.54,
+      "text": "like"
+    },
+    {
+      "id": 767,
+      "start": 2395.54,
+      "end": 2397.54,
+      "text": "morally abhorrent and diminishes"
+    },
+    {
+      "id": 768,
+      "start": 2397.54,
+      "end": 2399.54,
+      "text": "the literal death of children"
+    },
+    {
+      "id": 769,
+      "start": 2399.54,
+      "end": 2401.54,
+      "text": "then what are you allowed to say"
+    },
+    {
+      "id": 770,
+      "start": 2401.54,
+      "end": 2405.91,
+      "text": "I thought that free speech means"
+    },
+    {
+      "id": 771,
+      "start": 2405.91,
+      "end": 2407.91,
+      "text": "that everything they say has zero consequences"
+    },
+    {
+      "id": 772,
+      "start": 2407.91,
+      "end": 2411.99,
+      "text": "but that's what they want"
+    },
+    {
+      "id": 773,
+      "start": 2411.99,
+      "end": 2413.99,
+      "text": "because they want you to"
+    }
+  ],
+  "text": "I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog.\nCase Blackwell said conspiracy time is back despite Clementine's disappearance.\nHello everybody. Good to see you all, MSG.\nApple to Apple, Sony 4.7, Subritchie.\nLoading up my stream as we start.\nCommander Gab, live and sleazy.\nYes.\nOh, baby. It's Friday.\nI'm just gonna do a little bit of whatever this is today.\nAnd then I think...\nCameraworker.\nAnd then there's a little Elden Ring, I think.\nContinue our character preparation for the DLC.\nOh, baby, the graphics are in effect.\nYesterday Munch absolutely crushing the plane count.\nBut could Crumb be on yet another Crumb back?\nFirst to 200.\nI wanted to do the kitchen stream today.\nHowever, my kitchen, I think I want to get it in better condition before we do that.\nAnd I need to go shopping.\nSo I think we'll aim for Tuesday for that one.\nThough I will go ahead and make a new stream goal.\nThis will be a stretch goal.\nThis will be a longer, because we're gonna make a whole event out of it.\nSo let me do that really quick.\nThe webs!\nYou know, I don't know how these alerts work.\nThey're supposed to be on a delay.\nActually, I guess Live and Sleazy can demand it whenever they want.\nI think mods can...\nAnd I'm not gonna change that.\nCan request a segment anytime.\nOkay, overlays.\nWe will do the webs.\nWe also can do conspiracies again.\nWe've got a new conspiracy guy.\nMaybe literally a guy.\nAnd you'll see what that means.\nShockingly a guy.\nA guy with settings.\nLet me change this.\nThere it is.\nOkay.\nEight hour debate stream.\nThere we go.\nGonna make it a high goal.\nIt'll take me some time to get people to see if they can do it.\nThere we go.\nEight hot hours of debate.\nProbably sometime in July.\nNo rush on meeting this goal, guys.\nYeah, I want to do the kitchen today.\nBut I just don't...\nJust don't think I'm quite set up for it yet.\nAnd we gotta let Jeb...\nYou know, we need to get the kitchen camera ready for Jeb.\nIt's what he deserves.\nBut that'll still give us even more time\nto figure out what disgusting things he gets to make.\nAnd that's the greatest gift of all.\nAlright.\nWhat are we doing today?\nPepito, are you doing alright?\nYeah.\nThere's baits for eight hours straight.\nThat's nothing new.\nDamn, Pepito.\nThis is the apple.\nNo, p-p-p-punches.\nP-p-p-punches.\nWe could do it at the end of June or...\nI mean, I just have to ask people to click on a link for this one.\nI don't need a bunch of guests to show up in the studio.\nSo that's easier to organize.\nI can make this one kind of quickly.\nEight hours of debate, we might have to plan some things that have happened.\nSo it's not just eight straight hours of munch and crumb.\nBecause I just don't know if they'll survive it.\nAnd you know, if they don't survive it, I'll feel so guilty.\nI might not survive it.\nAlright.\nYeah, it's a lot of debating.\nWe also have the town halls,\nwhich I originally was planning to be a debate between two character people.\nPresidents, there we go.\nAnd I think I might finally have it set up to where I could do that.\nAnd also then guests could pop into that.\nSo we could possibly vary up the types of debates we're doing.\nThen I do have an idea for a segment that also requires\ncertain technical things that I'm just sorting out\nthat maybe I can get online by then.\nReturn to SimCity.\nWe could even pop back into SimCity.\nMaybe we can let Krum run the city.\nAlthough, we never hit 600.\nWhich was a long time goal.\nI guess seeing as we now have a new conspiracy guy,\nwe could start the stream with it.\nBefore we get to Newzik,\nwho we'll probably end with,\nunless somebody, whoever requested it, needs to go.\nBefore then.\nI think we'll probably do about an hour and a half of news\nand then maybe an hour and a half of gameplay.\nThat's shocking.\nThree hour stream.\nTwitch streamer streams for three hours.\nThat's your top story.\nAlthough who knows?\nWho knows how long I'll get pulled in by that game.\nSo maybe we'll kick it off with some conspiracy\nbefore we go amongst the web\nand do some Newzik.\nAlthough I don't even know what conspiracies\nare circulating in the air.\nIf anybody has any recommendations,\nI guess let the new host know.\nPoor Clementine.\nHe might have to get his emote updated soon\nto whatever this new guy is.\nI know who did silence Clementine.\nI just don't know if there's any YouTube videos on that.\nAnd the main function of\nbeing a conspiracy expert\nis typing things into YouTube.\nSo I guess we could just see\nwho's silencing long-haired British guys.\nBut I might not like the results we get from them.\nI might have to veto that one.\nAlso I borrowed some technology.\nSome Rennerton tech\nto send us to this new conspiracy guy.\nBut let's give it a shot\nand send it their way.\nIt's time\nto, uh,\nseize the truth.\nWelcome everybody to the Truth Zone.\nIt's me, Guy Redacted,\nready to bring you the hardest facts\nthat they don't\nwant to tell you about.\nThat's right.\nI've been contacted.\nI've been paid a king's ransom\nto be pulled from my truth cave\ninto this voluminous studio.\nBut I'm ready to pull no punches\nand bring all the facts.\nThank you so much for supporting this journey.\nThese are extremely dark sunglasses I'm learning.\nUsually I'm in a slightly brighter room.\nBut the truth actually hides in darkness.\nSome people say that that's where lies is.\nBut the world is so against truth\nyou've got to sometimes take it into the dark.\nWhich I have. I'm Guy Redacted.\nIs that my real name?\nThat's for me to know.\nAnd you to never find my birth certificate.\nThank you so much for the sub, Skymer.\nThat's 19 months of truth.\nOr maybe just one now that I'm here.\nMaybe we've just begun to uncover the dark\nendless hole that is the web of lies\ncreated by reality every day.\nI'll fuck for sure.\nI'll never tell I'm a gentleman.\nThere's actually still some gentlemen\nin this country whether or not\nyou believe that I'm here to prove it.\nAnd that's what we're all about here.\nIt's proof.\nFacts.\nReason.\nAnd never letting our feelings get in the way\nof any of the stuff I just said.\nIt's not easy, but it's necessary.\nWhile info war is well, you know,\nthat IP was up for grabs.\nMaybe that's what we learned about actually.\nOne of our brothers in truth\nis being assaulted by the system.\nWhy is this happening to him?\nWho's making it happen to him?\nWhy would anyone be mad at him ever\njust for saying stuff that like\nit seems common sense to me?\nI guess we can find out.\nBut first let's catch up on what is happening to him.\nHe's being forced to sell everything\nexcept his soul which is not for sale just like mine.\nLet's see.\nI prefer the medium of video\nbecause the picture speaks a thousand words.\nWell, the video is staying near about a million then.\nSo that saves us a lot of time.\nSo let's check out the yellow journalism of the AP news.\nWhat I like to call a pile of lies\nthat you have to add in more acronyms after AP\nfor that to work.\nBut I do because I'm not afraid to.\nLet's see what's going on with the AP.\nNews.\nI'm Corva Coleman.\nPresident Biden has met in Paris\nwith Ukraine President Volodymyr Zelensky.\nAs NPR's Tamara Keith reports\nthey discussed Ukraine's ongoing war with Russia.\nPresident Biden apologized.\nI'm here for Alec, goddammit.\nFor the recent AP package to Ukraine\ntaking months to be approved by Congress.\nBut we got it done finally.\nAnd since then, including today,\nI've announced six packages of significant funding.\nToday I'm also signing an additional package\nfor $225 million.\nZelensky said today's meeting would get into military strategy\nbut was also symbolic.\nIt's very important that you stay with us.\nDespite partisan support with the Congress.\nIt's very important that in this unity,\nUnited States, America, all American people\nstay with Ukraine.\nWe're still in.\nCompletely said Biden.\nTamara Keith, NPR News, Paris.\nPresident Biden has addressed his son Hunter's\nongoing trial with his gun charges.\nHe told ABC News his exclusive interview.\nHe was not reporting his son.\nListen up, Jack.\nIt's come to just Mama Jan 300.\nI'm showing you tasty coins and I've been dying\nto say this, that it's me and that video.\nThat's not you.\nEven the president, who I often,\nI would say most of the time disagree with.\nIt's still being contradicted by the very media\nthat he runs.\nAnd that just shows you the shape that this country\nis in.\nWhen even the dark lords of the media\necosphere are being silenced.\nThis trial began in Wilmington, Delaware.\nBiden's only surviving son faces three felony charges\nfor illegally obtaining a firearm back in 2018.\nHe was indicted last fall.\nHunter Biden has previously been public about his\nlong time struggle with addiction.\nHe is also expected to appear in a city trial\nlater this year.\nPresident Biden has typically not commented on his son's\nlong-term struggle.\nWhere's Mr. Jones?\nWe're trying to learn about Alex there.\nHe loves and supports his son.\nElena Moore, NPR News, Washington.\nConspiracy theorist and talk show host Alex Jones\nis a step closer to starting to pay damages\nto the Sandy Hook families who sued him for defamation.\nJones was ordered to pay the family's $1.5\nbillion, but he filed for bankruptcy protection\nand he hasn't paid a dime.\nNPR's Tobias Smith reports,\nJones now wants to resolve the case\nthrough a Chapter 7 arbitration.\nThe families say Jones's bogus conspiracies\nthat the Sandy Hook shooting never happened\nand they were all just actors\nprompted his followers to harass and torment them.\nJones, who's been obstructive through the proceedings,\nnow says liquidating his assets to pay the families\nis in everyone's interest.\nThat would mean a kind of fire sale\nof everything from his ownership in his media company\nto his personal gun collection.\nIn the end, that may yield only a couple hundred thousand\ndollars per plaintiff,\nbut a judge has ruled Jones's debt\nwill not be wiped out by bankruptcy\nso families can go after his future earnings\nand any assets he may have hidden\nfor the rest of his life.\nFor the rest of his life.\nTo approve the bankruptcy plan.\nTobias Smith, NPR News.\nThey literally are,\nthey want to silence them so hard\nthey're not even saying,\nwell what if he pays all the damages,\nwhat if he pays all billion dollars\nto this man?\nHe's capable of making and paying off that kind of money\ndue to his powerful media\nand his influence,\nbut they're saying that's never enough.\nThey never can get enough\nand they want him to pay forever.\nAnd that's supposed to be fair.\nLook, when you have to tell the truth a lot,\nsometimes you do say stuff\nthat could be construed as\nbased on the fact completely untrue.\nAm I saying that's what he did\nby claiming that\nclaiming that a guy\nthat basically claiming that a bunch of dead children\nwere not actually killed?\nI'm actually, unfortunately,\nI'm not that I'm ever silenced and never compromised\nbut I'm learning that actually illegally\nI can't actually comment on that\nbecause of\nthird non-going lawsuit\nthat I might also be involved in.\nBut they're claiming that he's harassing them\nand yet they're taking all of his money\nand so I just ask you\naudience to really consider\nthat he's the one even being harassed here.\nThe one that basically\nsent an army of followers after a bunch of\nafter a bunch of victims\nin this case children's parents\ndeceased children's parents\nokay that's bad I guess, but they're trying to take his money now.\nAnd that's the money\nthat he made fairly by saying that stuff.\nIt's just something to consider.\nLet's see what Alex has to say about it.\nAlex Jones reacts\nCan I find it on YouTube quickly?\nOh wait, this is Joe Rogan from a month ago.\nLet's see him react to a trial\nverdict from a year ago.\nWait, can I, wait, I've got to throw in there\nthe story about this.\nLet me see.\nOh yeah here we go.\nInfowars host Alex Jones\nsells off his assets, admits\nhe has to pay Sandy Hook family.\nHe's even admitting it.\nLike they're still after him\neven though he said my bad.\nThink of how unfair that is.\nThink of all the times in your life\nwhere people have been mad at you.\nImagine if you couldn't get out of the stuff\nthat you did wrong just by being like\nwhoopsie daisy.\nIf you can't just say whoopsie daisy\nand then have things be okay\nhow are we ever going to heal this country?\nCourts of order\nJones to pay 1.5 billion\nthat's with a capital B\neven though here it's not.\nTo the relatives of 20 students and 6 staff members\nkilled in the 2012 attack\non Sandy Hook Elementary School.\nEspecially when you've never done anything\nthat's when people don't understand the news\nand the facts can be confusing\nand that's why they're hard to discern.\nThe yellow media\nthe yellow urinalist media will\nand I say that intentionally\nurinalist media\nwill try to say that it's easy to discern the facts\nbut that's because they're the ones making the fake narrative.\nConspiracy theorist Alex Jones\nhas asked the US judge to convert the bank\nthroughout the year into a Chapter 7 liquidation\nleading up in the effort to settle math of legal judgments\nrelated to the lies\nabout the 2012 Sandy Hook Elementary massacre.\nJones really there's no reasonable\nprospect of a successful reorganization\nof his debts\nmost of which stem from 1.5 billion awarded\nin the defamation lawsuits\nhis attorney said in a court following on Thursday\na Chapter 7 liquidation will not\nallow Jones to escape paying the legal judgments\nbut it offers a streamlined procedure\nfor selling his assets under the supervision\nof a court appointed trustee.\nAnd look I'm a competitor to this man\nbecause he's one of the biggest names\nin this space\nbut I probably the second\nor not the first so I'm just saying if you need\nto sell it I can't quite do\n1.5 billion dollars but\nI could establish a payment plan\nto help support you in this trying\ntime of I don't know like\nwhatever I make off tubs so like\na couple hundred bucks\nI could give you a couple hundred bucks\nevery week or so and it seems like\nyour brand is actually kind of\npretty touchy right now so that could be\nthat could be an offer that he has to take\nand I am putting it out there\nBaker if he can be used to wipe out debts\nand legal judgments well then what's going on here\neveryone dropped the secret hand\nthing and Mr. Whoopie Boo Boo got it right away\nsome people say that that's just a regular email that's actually\nour secret hand signal\nthe judge over seeing the\nJones case ruled in October that most of the defamation\nverdict cannot be legally discharged\nbecause they resulted from willfully\nthis injuries but I'm just saying what's malicious\nabout trying to find the truth which was\nbasically if you think about all who's doing\nJohn's believes there's no reasonable prospect\nand we said that courts and tactics and\nConnecticut have already done to pay 1.5 billion\nto relatives of 20 students and six staff\nmembers killed in 2012 mass shooting at\nSandy Hook Elementary School Connecticut\nbankruptcy can be used to wipe out\ndebts and legal judgments I don't think\nI feel like I'm repeating this\nJohn said Tuesday on his Alex Dunge that\nSandy Hook families are trying to shut down his broadcast\nwith a made-up kangaroo court debt\na spokesman from the Sandy Hook family\ndeclined to comment on Thursday\nI like to see I'd like to find a clip of this\nI'm going to\nI heard from the glasses\nthe glasses is really dark\nI'm going to see if I can find a clip from\nhis show with him talking about Sandy Hook\nand then we can judge for ourselves\nthat this is really 1.5 billion\ndollar mistake\nAlex James\nSandy Hook\ncompilation\nthat was easy to find actually\noh wait maybe it's not\nI don't need to see a bunch of people\na bunch of vultures\nflying over the corpse\ntrying to find\ntrying to make me a lot of this man's\ndownfall\nthis is just a really\nI can't believe there's no\nI can't believe there's no compilation\nI can't believe someone hasn't done all this work for me\nit sounds like someone's been taking these down\nbecause they want to silence him\neven when I go to Reddit\nwhere there's various links\nthere's a playlist on Spotify\nwhoa\nwhat just happened\nSpotify.com\nmaybe you really can't find it\nmaybe they've really scrubbed this from the internet\nall I can see is a bunch of\nis a bunch of vulture 3\nacting to him crying\nand that's not fair because I'd say he only\nspends about 20% of his program to crying\nlet's just watch this\nquick clip I mean we've already seen\nsome of you might have seen this\non the Patreon stream\nbut\nhere he is on his\non his show reacting\nto what he's going through right now\nwar cry\nit's not really though I mean it is but it isn't\nit's also inspiring\nmy voice will completely go into this\nit's fine\nit's my resistance to them\nit's unconscious transmission\nit's a human under attack\nwe're going to beat these people\nhow about trying to be dramatic\nhe's not trying to be\nthese people\nhate our children\nAlex Schilder\nhas agreed to liquidate his assets\nto pay the families\nlook it's not his fault\nhe's trying to not be dramatic\nbut you can't help it when a fifth\nsituation of this magnitude\nit's dropped on your doorstep\nthe Amazon package\nof misery is dropped off at your front door\nand there's no one to even steal it\nnobody wants to even steal it from your porch\neven though you've turned off your ring cam\nthat's the situation he's in\nI dare you\nto get a $1.5 billion\ndemand from the courts\nlevied against you and to not weep\nand scream\nyou heard Alex Jones was absolutely hammered for that\nwhat about what you just saw\nmade you think that he was drunk\nhe's red with passion\nhe's slurring his words because he's so upset\nand he's violently switching between\nemotions because he's feeling all of them\nat the same time\nwhat about that sounds like he's drunk\nyou've heard he's not a great husband\nthere's so much stress on his life\nwhen you're $1.5 billion in debt\nit's really hard to focus on your relationship\nI understand that there's a lot of\nrumors about this man\nbut I'm just saying\nI'll let you know him personally\nwhich I don't\nyou can't really judge him\nlet's see him in court\nfind a clip of him in court\nunlike our recent presidential trial\nwhere for some reason they didn't let\nin no cameras\nthere were cameras all over Alex Jones' trial\nI guess his right\nto privacy has been denied permanently\nlet's see how it's been going\nthis trial started\nand you called\nI came to report yourself\nand you called\nthis judge a tyrant\nand you actually\nused that word a lot with your audience\nyou call people tyrants\nI got them\nand one way that you've been\nconveying to your audience that\nJudge Bellis has been acting like\na tyrant is by\nlook at this judge\nyou can just tell that for some reason\nyou don't like him that much\nand what has he done to earn her ire\nother than say the truth\nand yet she can't handle that\nI mean say what you will about our legal system\nbut she's looking down and I just\ndon't know the vibe that she does not like him at all\nand I'm just asking why\nshowing her with lasers coming out of her eyes\nright\nyou know you did that\nI didn't direct that for some of my cells in court\noh so you've been watching this\nyeah I've been watching\nyou can just watch from this\nactually an argumentative\nsome people say she's taking note\nI'll be a whole different narrative\nI have changed some of my show\nlet's pull up 477\nthis should be in already\nit is a full exhibit\nand what was it wrong 477\n477 your honor\nthis is the tyrant you've been telling your audience about right\nyep\nI'm barred from saying why I said it\nthis is the tyrant you've been telling your audience about right\nthis is unfair to use youtube thumbnails\nagainst someone\nbecause\nwhen you make a youtube thumbnail\nyou have to give them red eyes\nor no one will click on the video\nthe real person who should be on trial here is youtube\nbecause I've run into this myself\nI'd love to just put up a flattering photo of someone\nbut you have to make their eyes huge\nyou have to put fire behind them\nyou have to make their eyes red\nit helps if you stretch out their mouth\nyou kind of want to turn them into like\na clown version of that\npainting the screen\nplus a bunch of fire effects\nbut that's not because we want to\nthat's because that's what the algorithm demands\nand that's not our fault\nI believe\nI believe\nyes\nI don't know\nthe answer is you don't know\nis that even legal\ncan the judge help you like that\nso it's called help\nshe basically came in\nand gave him the answers\nand if a teacher did that they'd be in trouble\nbecause you can't do that for students\nthey're not letting Alex don't mind\ndeveloping a healthy way\ncurrently he's a student of the law system\nby being embroiled in this\nand I think that the teaching style\nthat this judge is going with\nis really unfair to him actually\nand I think that could be grounds to throw this whole trial out\nthis is the tyrant picture here\nthat you've been telling me about\nwe believe this is tyrannical\ncan we send the question please\nI'll see how we send it\na hard raid\nfrom Kassim G and you're in luck\nbecause you're in the temper truth zone\nwhere we pull no punches\nbut we do attack the truth\nbut we're on its side though\nsorry we attack\nwe defend the truth, there we go\nbut using attacks\nI hope all of you had a good time with Kassim G\nwe're learning about the incredible struggle\nthat Alex Jones did in today\nhe's fighting, he's in a fight for his life\nwith all the king's men\na raid against him\nand unfortunately it sounds like\nhe's already lost that fight\nplease stop calling Kass Junior\nbefore raiding\nhe's a bigger streamer than you\nthat's from Kassim Q\nwell he's a bigger streamer cut to me\nthank you for the follow twiddly wink\nfollow the truth right here\nand prepare to have your mind absolutely shattered\nif you think that you\nunless you already know the truth\nin which case it's golf that couldn't come here\nfor confirmation\nbut what we say here is actually 100%\nconfirmed to be the unequivocal\nundeniable truth\nand with that in mind let's continue to watch\nAlex Jones in the courtroom\nfrom earlier this week\nto try to find out if he's been handled fairly\nspoiled or alert\nhe is not\nthank you for the follow\nand we have one more\nthank you\nthis picture right here\nthat's just bells correct\nlasers coming out of my eyes\nyes\nbig FD delete that you're really\noh it ended I'm sorry I coughed over the unit\nI'll follow that rod are totally wrong\nwell fucked up\nbut it's fucked up all throat\nthe water's after me\nthat's big water coming to get me again\nthat's just more proof that what's in our water\nsafe off where I'll drink it normally in the water\nthe water is trying to stop me\nfrom talking to you\ndo you see that he's being led through the trial\nby the nose the judge literally telling him\nhis only options are to say yes\nno or I don't know\nnow what can he say but I don't know in that case\nand when you don't know you can't defend yourself\neven though he does know he's being told\nthat he can't know the things that he knows\nthe state water boarding attack\nI just got water boarded by just a normal couple water\nand that's the state this country is in\neven our normal water is water boarding\nand I was actually in favor of water boarding\nbeing illegal\nbut not in our cup\nwhat done by cool military guys\nI just thought of nowhere to my throat\njust because I'm drinking but they\nput stuff in the water to make that happen\nhmm\nwhat can you even say\nyeah Alex Jones it's Joe anymore\nAlex Jones\ninfo wars\nwhere do you even watch that now\nis it been stricken from Google\nyou have to pay is it is it behind\na paywall\nhow do I care for no clips of it\nthe conspiracy of itself\nit's on the spice channel\nis that real\nis there even such a thing as the spice channel\nhow come we're in this\nwe're in this maze\nthis maze where I can't find any facts\nthe spice channel doesn't look like info wars\nI think that might be a deep space\nactor\nI call them deep space actors\nbecause\nI don't even think it's just the state of raid against\nI think it's all of space\nsomeone just sent me to the spice channel\nwell let me show you what's on the spice channel\n10 ways to care for your breath\ndoes this look like info wars to you\nbecause if it is I would like to\nI'm curious\nmaintain a healthy\nand exercise\nas with the rest of your body\nyour breath require balance and arrangement\nto keep them have time covering up some of the text\nincrease physical activity\nreduce the overall risk of breast cancer by 10 to 30\nwell this is useful information\ndon't believe me this is the spice channel\nlook at this this is it\nthis is the spice channel\nNigeria movie abominate the full movie\nabomination the power of\nplanning and change by doctor miles\nI'm being told that's not the spice channel\nI'm one of the fastest\nGooglers there is\nand I can't\neven find info wars\nthat's how deep they've buried the truth\nyou can't even\nthe internet machine doesn't even\ntell you where it is anymore\nthat's how hidden it is\nI know it might not be the spice channel\nremember it's the spice channel that's left\nafter the attacks of the state\nupon let's be real free speech\nif you're not free to say stuff\nthat's just\nlike\nmorally abhorrent and diminishes\nthe literal death of children\nthen what are you allowed to say\nI thought that free speech means\nthat everything they say has zero consequences\nbut that's what they want\nbecause they want you to",
+  "text_timestamped": "[00:04 --> 00:10] I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog.\n[00:10 --> 03:12] Case Blackwell said conspiracy time is back despite Clementine's disappearance.\n[07:49 --> 08:24] Hello everybody. Good to see you all, MSG.\n[08:24 --> 08:27] Apple to Apple, Sony 4.7, Subritchie.\n[08:28 --> 08:30] Loading up my stream as we start.\n[08:30 --> 08:33] Commander Gab, live and sleazy.\n[08:33 --> 08:34] Yes.\n[08:34 --> 08:38] Oh, baby. It's Friday.\n[08:38 --> 08:41] I'm just gonna do a little bit of whatever this is today.\n[08:42 --> 08:44] And then I think...\n[08:44 --> 08:47] Cameraworker.\n[08:47 --> 08:52] And then there's a little Elden Ring, I think.\n[08:52 --> 08:58] Continue our character preparation for the DLC.\n[08:58 --> 09:01] Oh, baby, the graphics are in effect.\n[09:01 --> 09:04] Yesterday Munch absolutely crushing the plane count.\n[09:04 --> 09:06] But could Crumb be on yet another Crumb back?\n[09:06 --> 09:08] First to 200.\n[09:08 --> 09:10] I wanted to do the kitchen stream today.\n[09:10 --> 09:18] However, my kitchen, I think I want to get it in better condition before we do that.\n[09:18 --> 09:20] And I need to go shopping.\n[09:20 --> 09:23] So I think we'll aim for Tuesday for that one.\n[09:23 --> 09:25] Though I will go ahead and make a new stream goal.\n[09:25 --> 09:27] This will be a stretch goal.\n[09:28 --> 09:31] This will be a longer, because we're gonna make a whole event out of it.\n[09:34 --> 09:36] So let me do that really quick.\n[09:36 --> 09:41] The webs!\n[09:41 --> 09:49] You know, I don't know how these alerts work.\n[09:49 --> 09:52] They're supposed to be on a delay.\n[09:52 --> 09:54] Actually, I guess Live and Sleazy can demand it whenever they want.\n[09:54 --> 09:55] I think mods can...\n[09:55 --> 09:56] And I'm not gonna change that.\n[09:56 --> 09:58] Can request a segment anytime.\n[10:00 --> 10:01] Okay, overlays.\n[10:01 --> 10:02] We will do the webs.\n[10:02 --> 10:04] We also can do conspiracies again.\n[10:04 --> 10:06] We've got a new conspiracy guy.\n[10:07 --> 10:09] Maybe literally a guy.\n[10:09 --> 10:11] And you'll see what that means.\n[10:14 --> 10:15] Shockingly a guy.\n[10:15 --> 10:19] A guy with settings.\n[10:19 --> 10:25] Let me change this.\n[10:25 --> 10:26] There it is.\n[10:26 --> 10:27] Okay.\n[10:27 --> 10:30] Eight hour debate stream.\n[10:30 --> 10:32] There we go.\n[10:33 --> 10:36] Gonna make it a high goal.\n[10:36 --> 10:41] It'll take me some time to get people to see if they can do it.\n[10:47 --> 10:49] There we go.\n[10:49 --> 10:51] Eight hot hours of debate.\n[10:51 --> 10:55] Probably sometime in July.\n[10:55 --> 10:59] No rush on meeting this goal, guys.\n[10:59 --> 11:03] Yeah, I want to do the kitchen today.\n[11:03 --> 11:05] But I just don't...\n[11:05 --> 11:08] Just don't think I'm quite set up for it yet.\n[11:08 --> 11:10] And we gotta let Jeb...\n[11:10 --> 11:14] You know, we need to get the kitchen camera ready for Jeb.\n[11:14 --> 11:19] It's what he deserves.\n[11:19 --> 11:21] But that'll still give us even more time\n[11:21 --> 11:25] to figure out what disgusting things he gets to make.\n[11:25 --> 11:29] And that's the greatest gift of all.\n[11:29 --> 11:31] Alright.\n[11:31 --> 11:33] What are we doing today?\n[11:33 --> 11:35] Pepito, are you doing alright?\n[11:35 --> 11:36] Yeah.\n[11:36 --> 11:40] There's baits for eight hours straight.\n[11:40 --> 11:43] That's nothing new.\n[11:43 --> 11:44] Damn, Pepito.\n[11:44 --> 11:45] This is the apple.\n[11:45 --> 11:47] No, p-p-p-punches.\n[11:47 --> 11:55] P-p-p-punches.\n[11:55 --> 11:57] We could do it at the end of June or...\n[11:57 --> 12:01] I mean, I just have to ask people to click on a link for this one.\n[12:01 --> 12:04] I don't need a bunch of guests to show up in the studio.\n[12:04 --> 12:06] So that's easier to organize.\n[12:06 --> 12:08] I can make this one kind of quickly.\n[12:08 --> 12:11] Eight hours of debate, we might have to plan some things that have happened.\n[12:11 --> 12:16] So it's not just eight straight hours of munch and crumb.\n[12:16 --> 12:21] Because I just don't know if they'll survive it.\n[12:21 --> 12:24] And you know, if they don't survive it, I'll feel so guilty.\n[12:24 --> 12:29] I might not survive it.\n[12:29 --> 12:31] Alright.\n[12:31 --> 12:35] Yeah, it's a lot of debating.\n[12:35 --> 12:37] We also have the town halls,\n[12:37 --> 12:41] which I originally was planning to be a debate between two character people.\n[12:41 --> 12:43] Presidents, there we go.\n[12:43 --> 12:46] And I think I might finally have it set up to where I could do that.\n[12:46 --> 12:48] And also then guests could pop into that.\n[12:48 --> 12:51] So we could possibly vary up the types of debates we're doing.\n[12:51 --> 12:54] Then I do have an idea for a segment that also requires\n[12:54 --> 12:57] certain technical things that I'm just sorting out\n[12:57 --> 13:00] that maybe I can get online by then.\n[13:00 --> 13:02] Return to SimCity.\n[13:02 --> 13:04] We could even pop back into SimCity.\n[13:04 --> 13:06] Maybe we can let Krum run the city.\n[13:06 --> 13:08] Although, we never hit 600.\n[13:08 --> 13:10] Which was a long time goal.\n[13:10 --> 13:15] I guess seeing as we now have a new conspiracy guy,\n[13:15 --> 13:17] we could start the stream with it.\n[13:17 --> 13:19] Before we get to Newzik,\n[13:19 --> 13:21] who we'll probably end with,\n[13:21 --> 13:24] unless somebody, whoever requested it, needs to go.\n[13:24 --> 13:25] Before then.\n[13:25 --> 13:27] I think we'll probably do about an hour and a half of news\n[13:27 --> 13:29] and then maybe an hour and a half of gameplay.\n[13:29 --> 13:30] That's shocking.\n[13:30 --> 13:32] Three hour stream.\n[13:32 --> 13:34] Twitch streamer streams for three hours.\n[13:34 --> 13:36] That's your top story.\n[13:36 --> 13:37] Although who knows?\n[13:37 --> 13:40] Who knows how long I'll get pulled in by that game.\n[13:41 --> 13:43] So maybe we'll kick it off with some conspiracy\n[13:43 --> 13:45] before we go amongst the web\n[13:45 --> 13:47] and do some Newzik.\n[13:47 --> 13:49] Although I don't even know what conspiracies\n[13:49 --> 13:51] are circulating in the air.\n[13:51 --> 13:53] If anybody has any recommendations,\n[13:53 --> 13:55] I guess let the new host know.\n[13:56 --> 13:57] Poor Clementine.\n[13:57 --> 13:59] He might have to get his emote updated soon\n[13:59 --> 14:01] to whatever this new guy is.\n[14:01 --> 14:05] I know who did silence Clementine.\n[14:05 --> 14:08] I just don't know if there's any YouTube videos on that.\n[14:08 --> 14:10] And the main function of\n[14:10 --> 14:12] being a conspiracy expert\n[14:12 --> 14:14] is typing things into YouTube.\n[14:14 --> 14:18] So I guess we could just see\n[14:18 --> 14:21] who's silencing long-haired British guys.\n[14:21 --> 14:23] But I might not like the results we get from them.\n[14:23 --> 14:26] I might have to veto that one.\n[14:27 --> 14:30] Also I borrowed some technology.\n[14:30 --> 14:32] Some Rennerton tech\n[14:32 --> 14:34] to send us to this new conspiracy guy.\n[14:35 --> 14:37] But let's give it a shot\n[14:37 --> 14:39] and send it their way.\n[14:39 --> 14:41] It's time\n[14:41 --> 14:43] to, uh,\n[14:43 --> 14:45] seize the truth.\n[14:45 --> 15:31] Welcome everybody to the Truth Zone.\n[15:31 --> 15:33] It's me, Guy Redacted,\n[15:33 --> 15:35] ready to bring you the hardest facts\n[15:35 --> 15:37] that they don't\n[15:37 --> 15:42] want to tell you about.\n[15:42 --> 15:43] That's right.\n[15:43 --> 15:44] I've been contacted.\n[15:44 --> 15:46] I've been paid a king's ransom\n[15:46 --> 15:48] to be pulled from my truth cave\n[15:48 --> 15:50] into this voluminous studio.\n[15:50 --> 15:53] But I'm ready to pull no punches\n[15:53 --> 15:55] and bring all the facts.\n[15:55 --> 15:58] Thank you so much for supporting this journey.\n[15:58 --> 16:02] These are extremely dark sunglasses I'm learning.\n[16:02 --> 16:05] Usually I'm in a slightly brighter room.\n[16:05 --> 16:07] But the truth actually hides in darkness.\n[16:07 --> 16:10] Some people say that that's where lies is.\n[16:10 --> 16:12] But the world is so against truth\n[16:12 --> 16:14] you've got to sometimes take it into the dark.\n[16:14 --> 16:17] Which I have. I'm Guy Redacted.\n[16:17 --> 16:18] Is that my real name?\n[16:18 --> 16:20] That's for me to know.\n[16:20 --> 16:22] And you to never find my birth certificate.\n[16:22 --> 16:24] Thank you so much for the sub, Skymer.\n[16:24 --> 16:27] That's 19 months of truth.\n[16:27 --> 16:31] Or maybe just one now that I'm here.\n[16:31 --> 16:35] Maybe we've just begun to uncover the dark\n[16:35 --> 16:38] endless hole that is the web of lies\n[16:38 --> 16:41] created by reality every day.\n[16:41 --> 16:47] I'll fuck for sure.\n[16:47 --> 16:49] I'll never tell I'm a gentleman.\n[16:49 --> 16:51] There's actually still some gentlemen\n[16:51 --> 16:52] in this country whether or not\n[16:52 --> 16:55] you believe that I'm here to prove it.\n[16:55 --> 16:57] And that's what we're all about here.\n[16:57 --> 16:58] It's proof.\n[16:58 --> 16:59] Facts.\n[16:59 --> 17:00] Reason.\n[17:00 --> 17:02] And never letting our feelings get in the way\n[17:02 --> 17:05] of any of the stuff I just said.\n[17:05 --> 17:09] It's not easy, but it's necessary.\n[17:09 --> 17:14] While info war is well, you know,\n[17:14 --> 17:16] that IP was up for grabs.\n[17:16 --> 17:18] Maybe that's what we learned about actually.\n[17:18 --> 17:20] One of our brothers in truth\n[17:20 --> 17:23] is being assaulted by the system.\n[17:23 --> 17:25] Why is this happening to him?\n[17:25 --> 17:28] Who's making it happen to him?\n[17:28 --> 17:31] Why would anyone be mad at him ever\n[17:31 --> 17:33] just for saying stuff that like\n[17:33 --> 17:36] it seems common sense to me?\n[17:36 --> 17:39] I guess we can find out.\n[17:39 --> 17:42] But first let's catch up on what is happening to him.\n[17:42 --> 17:46] He's being forced to sell everything\n[17:46 --> 17:50] except his soul which is not for sale just like mine.\n[17:50 --> 17:53] Let's see.\n[17:53 --> 18:01] I prefer the medium of video\n[18:01 --> 18:03] because the picture speaks a thousand words.\n[18:03 --> 18:06] Well, the video is staying near about a million then.\n[18:06 --> 18:08] So that saves us a lot of time.\n[18:08 --> 18:13] So let's check out the yellow journalism of the AP news.\n[18:13 --> 18:17] What I like to call a pile of lies\n[18:17 --> 18:21] that you have to add in more acronyms after AP\n[18:21 --> 18:22] for that to work.\n[18:22 --> 18:24] But I do because I'm not afraid to.\n[18:24 --> 18:26] Let's see what's going on with the AP.\n[18:26 --> 18:29] News.\n[18:29 --> 18:30] I'm Corva Coleman.\n[18:30 --> 18:32] President Biden has met in Paris\n[18:32 --> 18:34] with Ukraine President Volodymyr Zelensky.\n[18:34 --> 18:36] As NPR's Tamara Keith reports\n[18:36 --> 18:39] they discussed Ukraine's ongoing war with Russia.\n[18:39 --> 18:41] President Biden apologized.\n[18:41 --> 18:43] I'm here for Alec, goddammit.\n[18:43 --> 18:45] For the recent AP package to Ukraine\n[18:45 --> 18:47] taking months to be approved by Congress.\n[18:47 --> 18:49] But we got it done finally.\n[18:49 --> 18:52] And since then, including today,\n[18:52 --> 18:55] I've announced six packages of significant funding.\n[18:55 --> 18:58] Today I'm also signing an additional package\n[18:58 --> 19:00] for $225 million.\n[19:00 --> 19:03] Zelensky said today's meeting would get into military strategy\n[19:03 --> 19:05] but was also symbolic.\n[19:05 --> 19:08] It's very important that you stay with us.\n[19:08 --> 19:11] Despite partisan support with the Congress.\n[19:11 --> 19:13] It's very important that in this unity,\n[19:13 --> 19:15] United States, America, all American people\n[19:15 --> 19:16] stay with Ukraine.\n[19:16 --> 19:17] We're still in.\n[19:17 --> 19:19] Completely said Biden.\n[19:19 --> 19:21] Tamara Keith, NPR News, Paris.\n[19:21 --> 19:23] President Biden has addressed his son Hunter's\n[19:23 --> 19:26] ongoing trial with his gun charges.\n[19:26 --> 19:29] He told ABC News his exclusive interview.\n[19:29 --> 19:31] He was not reporting his son.\n[19:31 --> 19:33] Listen up, Jack.\n[19:33 --> 19:35] It's come to just Mama Jan 300.\n[19:35 --> 19:37] I'm showing you tasty coins and I've been dying\n[19:37 --> 19:40] to say this, that it's me and that video.\n[19:40 --> 19:44] That's not you.\n[19:44 --> 19:47] Even the president, who I often,\n[19:47 --> 19:50] I would say most of the time disagree with.\n[19:50 --> 19:53] It's still being contradicted by the very media\n[19:53 --> 19:55] that he runs.\n[19:55 --> 19:57] And that just shows you the shape that this country\n[19:57 --> 19:58] is in.\n[19:58 --> 20:01] When even the dark lords of the media\n[20:01 --> 20:03] ecosphere are being silenced.\n[20:03 --> 20:05] This trial began in Wilmington, Delaware.\n[20:05 --> 20:09] Biden's only surviving son faces three felony charges\n[20:09 --> 20:12] for illegally obtaining a firearm back in 2018.\n[20:12 --> 20:14] He was indicted last fall.\n[20:14 --> 20:17] Hunter Biden has previously been public about his\n[20:17 --> 20:19] long time struggle with addiction.\n[20:19 --> 20:21] He is also expected to appear in a city trial\n[20:21 --> 20:23] later this year.\n[20:23 --> 20:25] President Biden has typically not commented on his son's\n[20:25 --> 20:26] long-term struggle.\n[20:26 --> 20:27] Where's Mr. Jones?\n[20:27 --> 20:29] We're trying to learn about Alex there.\n[20:29 --> 20:31] He loves and supports his son.\n[20:31 --> 20:33] Elena Moore, NPR News, Washington.\n[20:33 --> 20:35] Conspiracy theorist and talk show host Alex Jones\n[20:35 --> 20:38] is a step closer to starting to pay damages\n[20:38 --> 20:41] to the Sandy Hook families who sued him for defamation.\n[20:41 --> 20:44] Jones was ordered to pay the family's $1.5\n[20:44 --> 20:47] billion, but he filed for bankruptcy protection\n[20:47 --> 20:49] and he hasn't paid a dime.\n[20:49 --> 20:51] NPR's Tobias Smith reports,\n[20:51 --> 20:53] Jones now wants to resolve the case\n[20:53 --> 20:55] through a Chapter 7 arbitration.\n[20:55 --> 20:57] The families say Jones's bogus conspiracies\n[20:57 --> 20:59] that the Sandy Hook shooting never happened\n[20:59 --> 21:01] and they were all just actors\n[21:01 --> 21:04] prompted his followers to harass and torment them.\n[21:04 --> 21:07] Jones, who's been obstructive through the proceedings,\n[21:07 --> 21:09] now says liquidating his assets to pay the families\n[21:09 --> 21:11] is in everyone's interest.\n[21:11 --> 21:13] That would mean a kind of fire sale\n[21:13 --> 21:16] of everything from his ownership in his media company\n[21:16 --> 21:18] to his personal gun collection.\n[21:18 --> 21:21] In the end, that may yield only a couple hundred thousand\n[21:21 --> 21:23] dollars per plaintiff,\n[21:23 --> 21:25] but a judge has ruled Jones's debt\n[21:25 --> 21:27] will not be wiped out by bankruptcy\n[21:27 --> 21:29] so families can go after his future earnings\n[21:29 --> 21:31] and any assets he may have hidden\n[21:31 --> 21:33] for the rest of his life.\n[21:33 --> 21:35] For the rest of his life.\n[21:35 --> 21:37] To approve the bankruptcy plan.\n[21:37 --> 21:41] Tobias Smith, NPR News.\n[21:41 --> 21:43] They literally are,\n[21:43 --> 21:45] they want to silence them so hard\n[21:45 --> 21:47] they're not even saying,\n[21:47 --> 21:49] well what if he pays all the damages,\n[21:49 --> 21:53] what if he pays all billion dollars\n[21:53 --> 21:55] to this man?\n[21:55 --> 21:57] He's capable of making and paying off that kind of money\n[21:57 --> 21:59] due to his powerful media\n[21:59 --> 22:01] and his influence,\n[22:01 --> 22:03] but they're saying that's never enough.\n[22:03 --> 22:05] They never can get enough\n[22:05 --> 22:07] and they want him to pay forever.\n[22:07 --> 22:09] And that's supposed to be fair.\n[22:09 --> 22:11] Look, when you have to tell the truth a lot,\n[22:11 --> 22:13] sometimes you do say stuff\n[22:13 --> 22:15] that could be construed as\n[22:15 --> 22:19] based on the fact completely untrue.\n[22:19 --> 22:21] Am I saying that's what he did\n[22:21 --> 22:23] by claiming that\n[22:23 --> 22:25] claiming that a guy\n[22:25 --> 22:27] that basically claiming that a bunch of dead children\n[22:27 --> 22:31] were not actually killed?\n[22:31 --> 22:33] I'm actually, unfortunately,\n[22:33 --> 22:35] I'm not that I'm ever silenced and never compromised\n[22:35 --> 22:37] but I'm learning that actually illegally\n[22:37 --> 22:39] I can't actually comment on that\n[22:39 --> 22:42] because of\n[22:42 --> 22:44] third non-going lawsuit\n[22:44 --> 22:48] that I might also be involved in.\n[22:48 --> 22:50] But they're claiming that he's harassing them\n[22:50 --> 22:52] and yet they're taking all of his money\n[22:52 --> 22:54] and so I just ask you\n[22:54 --> 22:56] audience to really consider\n[22:56 --> 22:58] that he's the one even being harassed here.\n[22:58 --> 23:00] The one that basically\n[23:00 --> 23:02] sent an army of followers after a bunch of\n[23:02 --> 23:04] after a bunch of victims\n[23:04 --> 23:06] in this case children's parents\n[23:06 --> 23:08] deceased children's parents\n[23:08 --> 23:10] okay that's bad I guess, but they're trying to take his money now.\n[23:10 --> 23:12] And that's the money\n[23:12 --> 23:14] that he made fairly by saying that stuff.\n[23:14 --> 23:16] It's just something to consider.\n[23:18 --> 23:22] Let's see what Alex has to say about it.\n[23:22 --> 23:24] Alex Jones reacts\n[23:24 --> 23:26] Can I find it on YouTube quickly?\n[23:26 --> 23:28] Oh wait, this is Joe Rogan from a month ago.\n[23:28 --> 23:32] Let's see him react to a trial\n[23:32 --> 23:34] verdict from a year ago.\n[23:34 --> 23:36] Wait, can I, wait, I've got to throw in there\n[23:36 --> 23:38] the story about this.\n[23:38 --> 23:40] Let me see.\n[23:40 --> 23:42] Oh yeah here we go.\n[23:42 --> 23:47] Infowars host Alex Jones\n[23:47 --> 23:49] sells off his assets, admits\n[23:49 --> 23:51] he has to pay Sandy Hook family.\n[23:51 --> 23:53] He's even admitting it.\n[23:53 --> 23:55] Like they're still after him\n[23:55 --> 23:57] even though he said my bad.\n[23:57 --> 23:59] Think of how unfair that is.\n[23:59 --> 24:01] Think of all the times in your life\n[24:01 --> 24:03] where people have been mad at you.\n[24:03 --> 24:05] Imagine if you couldn't get out of the stuff\n[24:05 --> 24:07] that you did wrong just by being like\n[24:07 --> 24:09] whoopsie daisy.\n[24:09 --> 24:11] If you can't just say whoopsie daisy\n[24:11 --> 24:13] and then have things be okay\n[24:13 --> 24:15] how are we ever going to heal this country?\n[24:15 --> 24:17] Courts of order\n[24:17 --> 24:19] Jones to pay 1.5 billion\n[24:19 --> 24:21] that's with a capital B\n[24:21 --> 24:23] even though here it's not.\n[24:23 --> 24:25] To the relatives of 20 students and 6 staff members\n[24:25 --> 24:27] killed in the 2012 attack\n[24:27 --> 24:31] on Sandy Hook Elementary School.\n[24:31 --> 24:33] Especially when you've never done anything\n[24:33 --> 24:35] that's when people don't understand the news\n[24:35 --> 24:37] and the facts can be confusing\n[24:37 --> 24:39] and that's why they're hard to discern.\n[24:39 --> 24:41] The yellow media\n[24:41 --> 24:43] the yellow urinalist media will\n[24:43 --> 24:45] and I say that intentionally\n[24:45 --> 24:47] urinalist media\n[24:47 --> 24:49] will try to say that it's easy to discern the facts\n[24:49 --> 24:51] but that's because they're the ones making the fake narrative.\n[24:51 --> 24:53] Conspiracy theorist Alex Jones\n[24:53 --> 24:55] has asked the US judge to convert the bank\n[24:55 --> 24:57] throughout the year into a Chapter 7 liquidation\n[24:57 --> 24:59] leading up in the effort to settle math of legal judgments\n[24:59 --> 25:01] related to the lies\n[25:01 --> 25:03] about the 2012 Sandy Hook Elementary massacre.\n[25:03 --> 25:05] Jones really there's no reasonable\n[25:05 --> 25:07] prospect of a successful reorganization\n[25:07 --> 25:09] of his debts\n[25:09 --> 25:11] most of which stem from 1.5 billion awarded\n[25:11 --> 25:13] in the defamation lawsuits\n[25:13 --> 25:15] his attorney said in a court following on Thursday\n[25:15 --> 25:17] a Chapter 7 liquidation will not\n[25:17 --> 25:19] allow Jones to escape paying the legal judgments\n[25:19 --> 25:21] but it offers a streamlined procedure\n[25:21 --> 25:23] for selling his assets under the supervision\n[25:23 --> 25:25] of a court appointed trustee.\n[25:25 --> 25:27] And look I'm a competitor to this man\n[25:27 --> 25:29] because he's one of the biggest names\n[25:29 --> 25:31] in this space\n[25:31 --> 25:33] but I probably the second\n[25:33 --> 25:35] or not the first so I'm just saying if you need\n[25:35 --> 25:37] to sell it I can't quite do\n[25:37 --> 25:39] 1.5 billion dollars but\n[25:39 --> 25:41] I could establish a payment plan\n[25:41 --> 25:43] to help support you in this trying\n[25:43 --> 25:45] time of I don't know like\n[25:45 --> 25:47] whatever I make off tubs so like\n[25:47 --> 25:50] a couple hundred bucks\n[25:50 --> 25:52] I could give you a couple hundred bucks\n[25:52 --> 25:54] every week or so and it seems like\n[25:54 --> 25:56] your brand is actually kind of\n[25:56 --> 25:58] pretty touchy right now so that could be\n[25:58 --> 26:00] that could be an offer that he has to take\n[26:00 --> 26:04] and I am putting it out there\n[26:04 --> 26:06] Baker if he can be used to wipe out debts\n[26:06 --> 26:08] and legal judgments well then what's going on here\n[26:08 --> 26:12] everyone dropped the secret hand\n[26:12 --> 26:14] thing and Mr. Whoopie Boo Boo got it right away\n[26:14 --> 26:16] some people say that that's just a regular email that's actually\n[26:16 --> 26:18] our secret hand signal\n[26:18 --> 26:20] the judge over seeing the\n[26:20 --> 26:22] Jones case ruled in October that most of the defamation\n[26:22 --> 26:24] verdict cannot be legally discharged\n[26:24 --> 26:26] because they resulted from willfully\n[26:26 --> 26:28] this injuries but I'm just saying what's malicious\n[26:28 --> 26:30] about trying to find the truth which was\n[26:30 --> 26:32] basically if you think about all who's doing\n[26:32 --> 26:34] John's believes there's no reasonable prospect\n[26:34 --> 26:36] and we said that courts and tactics and\n[26:36 --> 26:38] Connecticut have already done to pay 1.5 billion\n[26:38 --> 26:40] to relatives of 20 students and six staff\n[26:40 --> 26:42] members killed in 2012 mass shooting at\n[26:42 --> 26:44] Sandy Hook Elementary School Connecticut\n[26:44 --> 26:46] bankruptcy can be used to wipe out\n[26:46 --> 26:48] debts and legal judgments I don't think\n[26:48 --> 26:50] I feel like I'm repeating this\n[26:50 --> 26:52] John said Tuesday on his Alex Dunge that\n[26:52 --> 26:54] Sandy Hook families are trying to shut down his broadcast\n[26:54 --> 26:56] with a made-up kangaroo court debt\n[26:56 --> 26:58] a spokesman from the Sandy Hook family\n[26:58 --> 27:00] declined to comment on Thursday\n[27:00 --> 27:02] I like to see I'd like to find a clip of this\n[27:02 --> 27:04] I'm going to\n[27:04 --> 27:06] I heard from the glasses\n[27:06 --> 27:08] the glasses is really dark\n[27:08 --> 27:10] I'm going to see if I can find a clip from\n[27:10 --> 27:12] his show with him talking about Sandy Hook\n[27:12 --> 27:14] and then we can judge for ourselves\n[27:14 --> 27:16] that this is really 1.5 billion\n[27:16 --> 27:18] dollar mistake\n[27:18 --> 27:20] Alex James\n[27:20 --> 27:22] Sandy Hook\n[27:22 --> 27:24] compilation\n[27:24 --> 27:26] that was easy to find actually\n[27:26 --> 27:28] oh wait maybe it's not\n[27:34 --> 27:36] I don't need to see a bunch of people\n[27:36 --> 27:38] a bunch of vultures\n[27:38 --> 27:40] flying over the corpse\n[27:40 --> 27:42] trying to find\n[27:42 --> 27:44] trying to make me a lot of this man's\n[27:44 --> 27:50] downfall\n[27:50 --> 27:54] this is just a really\n[27:54 --> 27:56] I can't believe there's no\n[27:56 --> 27:58] I can't believe there's no compilation\n[27:58 --> 28:00] I can't believe someone hasn't done all this work for me\n[28:00 --> 28:05] it sounds like someone's been taking these down\n[28:05 --> 28:07] because they want to silence him\n[28:07 --> 28:09] even when I go to Reddit\n[28:09 --> 28:11] where there's various links\n[28:11 --> 28:13] there's a playlist on Spotify\n[28:13 --> 28:17] whoa\n[28:17 --> 28:21] what just happened\n[28:21 --> 28:23] Spotify.com\n[28:23 --> 28:25] maybe you really can't find it\n[28:25 --> 28:27] maybe they've really scrubbed this from the internet\n[28:27 --> 28:30] all I can see is a bunch of\n[28:30 --> 28:32] is a bunch of vulture 3\n[28:32 --> 28:36] acting to him crying\n[28:36 --> 28:38] and that's not fair because I'd say he only\n[28:38 --> 28:40] spends about 20% of his program to crying\n[28:40 --> 28:43] let's just watch this\n[28:43 --> 28:45] quick clip I mean we've already seen\n[28:45 --> 28:47] some of you might have seen this\n[28:47 --> 28:49] on the Patreon stream\n[28:49 --> 28:51] but\n[28:51 --> 28:53] here he is on his\n[28:53 --> 28:55] on his show reacting\n[28:55 --> 28:57] to what he's going through right now\n[28:57 --> 28:59] war cry\n[28:59 --> 29:01] it's not really though I mean it is but it isn't\n[29:01 --> 29:03] it's also inspiring\n[29:03 --> 29:05] my voice will completely go into this\n[29:05 --> 29:07] it's fine\n[29:07 --> 29:09] it's my resistance to them\n[29:09 --> 29:11] it's unconscious transmission\n[29:11 --> 29:17] it's a human under attack\n[29:17 --> 29:23] we're going to beat these people\n[29:23 --> 29:27] how about trying to be dramatic\n[29:27 --> 29:29] he's not trying to be\n[29:29 --> 29:31] these people\n[29:31 --> 29:33] hate our children\n[29:33 --> 29:35] Alex Schilder\n[29:35 --> 29:37] has agreed to liquidate his assets\n[29:37 --> 29:39] to pay the families\n[29:39 --> 29:46] look it's not his fault\n[29:46 --> 29:48] he's trying to not be dramatic\n[29:48 --> 29:50] but you can't help it when a fifth\n[29:50 --> 29:52] situation of this magnitude\n[29:52 --> 29:54] it's dropped on your doorstep\n[29:54 --> 29:56] the Amazon package\n[29:56 --> 29:58] of misery is dropped off at your front door\n[29:58 --> 30:00] and there's no one to even steal it\n[30:00 --> 30:02] nobody wants to even steal it from your porch\n[30:02 --> 30:04] even though you've turned off your ring cam\n[30:04 --> 30:06] that's the situation he's in\n[30:06 --> 30:08] I dare you\n[30:08 --> 30:10] to get a $1.5 billion\n[30:10 --> 30:12] demand from the courts\n[30:12 --> 30:14] levied against you and to not weep\n[30:14 --> 30:16] and scream\n[30:16 --> 30:18] you heard Alex Jones was absolutely hammered for that\n[30:18 --> 30:20] what about what you just saw\n[30:20 --> 30:22] made you think that he was drunk\n[30:22 --> 30:24] he's red with passion\n[30:24 --> 30:26] he's slurring his words because he's so upset\n[30:26 --> 30:28] and he's violently switching between\n[30:28 --> 30:30] emotions because he's feeling all of them\n[30:30 --> 30:32] at the same time\n[30:32 --> 30:36] what about that sounds like he's drunk\n[30:36 --> 30:38] you've heard he's not a great husband\n[30:38 --> 30:40] there's so much stress on his life\n[30:40 --> 30:42] when you're $1.5 billion in debt\n[30:42 --> 30:44] it's really hard to focus on your relationship\n[30:44 --> 30:48] I understand that there's a lot of\n[30:48 --> 30:50] rumors about this man\n[30:50 --> 30:52] but I'm just saying\n[30:52 --> 30:54] I'll let you know him personally\n[30:54 --> 30:58] which I don't\n[30:58 --> 31:03] you can't really judge him\n[31:03 --> 31:05] let's see him in court\n[31:05 --> 31:07] find a clip of him in court\n[31:07 --> 31:14] unlike our recent presidential trial\n[31:14 --> 31:16] where for some reason they didn't let\n[31:16 --> 31:18] in no cameras\n[31:18 --> 31:20] there were cameras all over Alex Jones' trial\n[31:20 --> 31:22] I guess his right\n[31:22 --> 31:24] to privacy has been denied permanently\n[31:24 --> 31:26] let's see how it's been going\n[31:26 --> 31:30] this trial started\n[31:30 --> 31:32] and you called\n[31:32 --> 31:34] I came to report yourself\n[31:34 --> 31:36] and you called\n[31:36 --> 31:38] this judge a tyrant\n[31:38 --> 31:40] and you actually\n[31:40 --> 31:42] used that word a lot with your audience\n[31:42 --> 31:48] you call people tyrants\n[31:48 --> 31:50] I got them\n[31:50 --> 31:52] and one way that you've been\n[31:52 --> 31:54] conveying to your audience that\n[31:54 --> 31:56] Judge Bellis has been acting like\n[31:56 --> 31:58] a tyrant is by\n[31:58 --> 32:00] look at this judge\n[32:00 --> 32:02] you can just tell that for some reason\n[32:02 --> 32:04] you don't like him that much\n[32:04 --> 32:06] and what has he done to earn her ire\n[32:06 --> 32:08] other than say the truth\n[32:08 --> 32:10] and yet she can't handle that\n[32:10 --> 32:12] I mean say what you will about our legal system\n[32:12 --> 32:14] but she's looking down and I just\n[32:14 --> 32:16] don't know the vibe that she does not like him at all\n[32:16 --> 32:18] and I'm just asking why\n[32:18 --> 32:20] showing her with lasers coming out of her eyes\n[32:20 --> 32:22] right\n[32:22 --> 32:24] you know you did that\n[32:24 --> 32:26] I didn't direct that for some of my cells in court\n[32:26 --> 32:28] oh so you've been watching this\n[32:28 --> 32:30] yeah I've been watching\n[32:30 --> 32:32] you can just watch from this\n[32:32 --> 32:34] actually an argumentative\n[32:34 --> 32:36] some people say she's taking note\n[32:36 --> 32:38] I'll be a whole different narrative\n[32:38 --> 32:40] I have changed some of my show\n[32:40 --> 32:42] let's pull up 477\n[32:42 --> 32:44] this should be in already\n[32:44 --> 32:46] it is a full exhibit\n[32:46 --> 32:48] and what was it wrong 477\n[32:48 --> 32:50] 477 your honor\n[32:50 --> 32:53] this is the tyrant you've been telling your audience about right\n[32:53 --> 32:55] yep\n[32:55 --> 32:57] I'm barred from saying why I said it\n[32:57 --> 32:59] this is the tyrant you've been telling your audience about right\n[32:59 --> 33:01] this is unfair to use youtube thumbnails\n[33:01 --> 33:03] against someone\n[33:03 --> 33:07] because\n[33:07 --> 33:09] when you make a youtube thumbnail\n[33:09 --> 33:11] you have to give them red eyes\n[33:11 --> 33:13] or no one will click on the video\n[33:13 --> 33:15] the real person who should be on trial here is youtube\n[33:15 --> 33:17] because I've run into this myself\n[33:17 --> 33:19] I'd love to just put up a flattering photo of someone\n[33:19 --> 33:21] but you have to make their eyes huge\n[33:21 --> 33:23] you have to put fire behind them\n[33:23 --> 33:25] you have to make their eyes red\n[33:25 --> 33:27] it helps if you stretch out their mouth\n[33:27 --> 33:29] you kind of want to turn them into like\n[33:29 --> 33:31] a clown version of that\n[33:31 --> 33:33] painting the screen\n[33:33 --> 33:35] plus a bunch of fire effects\n[33:35 --> 33:37] but that's not because we want to\n[33:37 --> 33:39] that's because that's what the algorithm demands\n[33:39 --> 33:41] and that's not our fault\n[33:41 --> 33:43] I believe\n[33:43 --> 33:45] I believe\n[33:45 --> 33:47] yes\n[33:47 --> 33:54] I don't know\n[33:54 --> 33:56] the answer is you don't know\n[33:56 --> 33:58] is that even legal\n[33:58 --> 34:00] can the judge help you like that\n[34:00 --> 34:02] so it's called help\n[34:02 --> 34:04] she basically came in\n[34:04 --> 34:06] and gave him the answers\n[34:06 --> 34:08] and if a teacher did that they'd be in trouble\n[34:08 --> 34:10] because you can't do that for students\n[34:10 --> 34:12] they're not letting Alex don't mind\n[34:12 --> 34:14] developing a healthy way\n[34:14 --> 34:16] currently he's a student of the law system\n[34:16 --> 34:18] by being embroiled in this\n[34:18 --> 34:20] and I think that the teaching style\n[34:20 --> 34:22] that this judge is going with\n[34:22 --> 34:24] is really unfair to him actually\n[34:24 --> 34:26] and I think that could be grounds to throw this whole trial out\n[34:26 --> 34:28] this is the tyrant picture here\n[34:28 --> 34:30] that you've been telling me about\n[34:30 --> 34:32] we believe this is tyrannical\n[34:32 --> 34:34] can we send the question please\n[34:34 --> 34:36] I'll see how we send it\n[34:36 --> 34:38] a hard raid\n[34:38 --> 34:40] from Kassim G and you're in luck\n[34:40 --> 34:42] because you're in the temper truth zone\n[34:42 --> 34:44] where we pull no punches\n[34:44 --> 34:46] but we do attack the truth\n[34:46 --> 34:48] but we're on its side though\n[34:48 --> 34:50] sorry we attack\n[34:50 --> 34:52] we defend the truth, there we go\n[34:52 --> 34:54] but using attacks\n[34:54 --> 34:56] I hope all of you had a good time with Kassim G\n[34:56 --> 34:58] we're learning about the incredible struggle\n[34:58 --> 35:00] that Alex Jones did in today\n[35:00 --> 35:02] he's fighting, he's in a fight for his life\n[35:02 --> 35:04] with all the king's men\n[35:04 --> 35:06] a raid against him\n[35:06 --> 35:08] and unfortunately it sounds like\n[35:08 --> 35:10] he's already lost that fight\n[35:10 --> 35:14] please stop calling Kass Junior\n[35:14 --> 35:16] before raiding\n[35:16 --> 35:18] he's a bigger streamer than you\n[35:18 --> 35:20] that's from Kassim Q\n[35:20 --> 35:22] well he's a bigger streamer cut to me\n[35:22 --> 35:24] thank you for the follow twiddly wink\n[35:24 --> 35:28] follow the truth right here\n[35:28 --> 35:30] and prepare to have your mind absolutely shattered\n[35:30 --> 35:32] if you think that you\n[35:32 --> 35:34] unless you already know the truth\n[35:34 --> 35:36] in which case it's golf that couldn't come here\n[35:36 --> 35:38] for confirmation\n[35:38 --> 35:40] but what we say here is actually 100%\n[35:40 --> 35:42] confirmed to be the unequivocal\n[35:42 --> 35:44] undeniable truth\n[35:44 --> 35:46] and with that in mind let's continue to watch\n[35:46 --> 35:48] Alex Jones in the courtroom\n[35:48 --> 35:50] from earlier this week\n[35:50 --> 35:52] to try to find out if he's been handled fairly\n[35:52 --> 35:54] spoiled or alert\n[35:54 --> 35:59] he is not\n[35:59 --> 36:01] thank you for the follow\n[36:01 --> 36:03] and we have one more\n[36:03 --> 36:05] thank you\n[36:05 --> 36:07] this picture right here\n[36:07 --> 36:09] that's just bells correct\n[36:09 --> 36:11] lasers coming out of my eyes\n[36:11 --> 36:13] yes\n[36:13 --> 36:15] big FD delete that you're really\n[36:15 --> 36:17] oh it ended I'm sorry I coughed over the unit\n[36:17 --> 36:19] I'll follow that rod are totally wrong\n[36:19 --> 36:21] well fucked up\n[36:21 --> 36:23] but it's fucked up all throat\n[36:23 --> 36:25] the water's after me\n[36:25 --> 36:27] that's big water coming to get me again\n[36:27 --> 36:29] that's just more proof that what's in our water\n[36:29 --> 36:31] safe off where I'll drink it normally in the water\n[36:31 --> 36:33] the water is trying to stop me\n[36:33 --> 36:36] from talking to you\n[36:36 --> 36:38] do you see that he's being led through the trial\n[36:38 --> 36:40] by the nose the judge literally telling him\n[36:40 --> 36:42] his only options are to say yes\n[36:42 --> 36:44] no or I don't know\n[36:44 --> 36:46] now what can he say but I don't know in that case\n[36:46 --> 36:48] and when you don't know you can't defend yourself\n[36:48 --> 36:50] even though he does know he's being told\n[36:50 --> 36:56] that he can't know the things that he knows\n[36:56 --> 36:58] the state water boarding attack\n[36:58 --> 37:00] I just got water boarded by just a normal couple water\n[37:00 --> 37:02] and that's the state this country is in\n[37:02 --> 37:04] even our normal water is water boarding\n[37:04 --> 37:06] and I was actually in favor of water boarding\n[37:06 --> 37:10] being illegal\n[37:10 --> 37:12] but not in our cup\n[37:12 --> 37:14] what done by cool military guys\n[37:14 --> 37:16] I just thought of nowhere to my throat\n[37:16 --> 37:18] just because I'm drinking but they\n[37:18 --> 37:22] put stuff in the water to make that happen\n[37:22 --> 37:24] hmm\n[37:24 --> 37:26] what can you even say\n[37:26 --> 37:28] yeah Alex Jones it's Joe anymore\n[37:28 --> 37:30] Alex Jones\n[37:30 --> 37:32] info wars\n[37:32 --> 37:34] where do you even watch that now\n[37:34 --> 37:37] is it been stricken from Google\n[37:37 --> 37:39] you have to pay is it is it behind\n[37:39 --> 37:41] a paywall\n[37:41 --> 37:43] how do I care for no clips of it\n[37:43 --> 37:45] the conspiracy of itself\n[37:45 --> 37:47] it's on the spice channel\n[37:47 --> 37:49] is that real\n[37:49 --> 37:51] is there even such a thing as the spice channel\n[37:51 --> 37:53] how come we're in this\n[37:53 --> 37:55] we're in this maze\n[37:55 --> 38:02] this maze where I can't find any facts\n[38:02 --> 38:04] the spice channel doesn't look like info wars\n[38:04 --> 38:06] I think that might be a deep space\n[38:06 --> 38:08] actor\n[38:08 --> 38:10] I call them deep space actors\n[38:10 --> 38:12] because\n[38:12 --> 38:14] I don't even think it's just the state of raid against\n[38:14 --> 38:16] I think it's all of space\n[38:16 --> 38:18] someone just sent me to the spice channel\n[38:18 --> 38:20] well let me show you what's on the spice channel\n[38:20 --> 38:24] 10 ways to care for your breath\n[38:24 --> 38:26] does this look like info wars to you\n[38:26 --> 38:28] because if it is I would like to\n[38:28 --> 38:30] I'm curious\n[38:30 --> 38:34] maintain a healthy\n[38:34 --> 38:36] and exercise\n[38:36 --> 38:38] as with the rest of your body\n[38:38 --> 38:40] your breath require balance and arrangement\n[38:40 --> 38:42] to keep them have time covering up some of the text\n[38:42 --> 38:44] increase physical activity\n[38:44 --> 38:46] reduce the overall risk of breast cancer by 10 to 30\n[38:46 --> 38:53] well this is useful information\n[38:53 --> 38:55] don't believe me this is the spice channel\n[38:55 --> 38:57] look at this this is it\n[38:57 --> 39:03] this is the spice channel\n[39:03 --> 39:05] Nigeria movie abominate the full movie\n[39:05 --> 39:07] abomination the power of\n[39:07 --> 39:09] planning and change by doctor miles\n[39:09 --> 39:13] I'm being told that's not the spice channel\n[39:13 --> 39:17] I'm one of the fastest\n[39:17 --> 39:19] Googlers there is\n[39:19 --> 39:21] and I can't\n[39:21 --> 39:23] even find info wars\n[39:23 --> 39:25] that's how deep they've buried the truth\n[39:25 --> 39:27] you can't even\n[39:27 --> 39:29] the internet machine doesn't even\n[39:29 --> 39:33] tell you where it is anymore\n[39:33 --> 39:41] that's how hidden it is\n[39:41 --> 39:43] I know it might not be the spice channel\n[39:43 --> 39:45] remember it's the spice channel that's left\n[39:45 --> 39:47] after the attacks of the state\n[39:47 --> 39:49] upon let's be real free speech\n[39:49 --> 39:51] if you're not free to say stuff\n[39:51 --> 39:53] that's just\n[39:53 --> 39:55] like\n[39:55 --> 39:57] morally abhorrent and diminishes\n[39:57 --> 39:59] the literal death of children\n[39:59 --> 40:01] then what are you allowed to say\n[40:01 --> 40:05] I thought that free speech means\n[40:05 --> 40:07] that everything they say has zero consequences\n[40:07 --> 40:11] but that's what they want\n[40:11 --> 40:13] because they want you to"
+}
