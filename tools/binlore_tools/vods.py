@@ -5,125 +5,152 @@ import os
 import shutil
 import subprocess
 import sys
+import time
 from dataclasses import dataclass
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 
 from .paths import CHANNEL_VIDEOS_URL, TOOLS_ROOT
 
 
-def youtube_cookies_hint() -> str:
-    """Self-contained operator recipe. Printed when YouTube bot-check stops the batch."""
-    dest = TOOLS_ROOT / "cookies.txt"
-    env_path = os.environ.get("YTDLP_COOKIES", "").strip()
-    if env_path:
-        dest = _cookies_path(env_path)
-    return f"""YouTube blocked this host as a bot. Every remaining archive download will fail until cookies are on this machine.
+# YouTube does not publish a fixed bot-check TTL. Community + yt-dlp docs:
+# - Session rate-limit ("try again later"): up to ~1 hour
+# - Temporary IP bot-check: often clears in ~1–12 hours if you stop hammering
+# - Heavy / datacenter blocks: days, or until IP changes
+DEFAULT_BOT_COOLDOWN_INITIAL_S = 3600  # 1 hour before first probe
+DEFAULT_BOT_COOLDOWN_PROBE_S = 1800  # 30 minutes between probes
 
-HOW TO EXPORT (do this on your laptop, not the server):
-  1. Use a throwaway Google account, not your main one. A VPS IP can get the account banned.
-  2. Open a private/incognito window. Log into YouTube.
-  3. In that SAME tab, go to https://www.youtube.com/robots.txt
-     Keep only that one incognito tab open.
-  4. Export cookies with the browser extension "Get cookies.txt LOCALLY"
-     (Chrome/Firefox). Click export for youtube.com.
-  5. Close the incognito window immediately so YouTube does not rotate the session.
 
-FORMAT — Netscape cookies.txt (tab-separated plain text). NOT JSON, NOT CSV, NOT a screenshot of DevTools.
-  The file must look like this (tabs between columns, one cookie per line):
+def _env_seconds(name: str, default: int) -> int:
+    raw = os.environ.get(name, "").strip()
+    if not raw:
+        return default
+    try:
+        return max(60, int(float(raw)))
+    except ValueError:
+        return default
 
-  # Netscape HTTP Cookie File
-  .youtube.com	TRUE	/	TRUE	1735689600	SID	...
-  .youtube.com	TRUE	/	TRUE	1735689600	HSID	...
-  .youtube.com	TRUE	/	TRUE	1735689600	SSID	...
-  .youtube.com	TRUE	/	TRUE	1735689600	APISID	...
-  .youtube.com	TRUE	/	TRUE	1735689600	LOGIN_INFO	...
 
-  First line can be the Netscape header. Columns are:
-  domain, include-subdomains, path, secure, expiry-unix, name, value
-  If the export is cookies.json or starts with [ or {{, it is the wrong format — re-export as Netscape.
+def youtube_bot_cooldown_hint() -> str:
+    """Explain the cooldown (no published fixed timeout)."""
+    initial = _env_seconds("YTDLP_BOT_COOLDOWN_INITIAL", DEFAULT_BOT_COOLDOWN_INITIAL_S)
+    probe = _env_seconds("YTDLP_BOT_COOLDOWN_PROBE", DEFAULT_BOT_COOLDOWN_PROBE_S)
+    return f"""YouTube bot-check on this host (temporary IP / session throttle).
 
-WHERE TO PUT IT on this host (gitignored, never commit):
-  {dest}
+There is NO published fixed timeout. Observed behavior:
+  • Official yt-dlp session rate-limit message: "up to an hour"
+  • Temporary bot-checks often clear in ~1–12 hours if you STOP retrying
+  • Hammering during a block can extend it; datacenter IPs get hit hardest
 
-  From your laptop:
-    scp cookies.txt server:{dest}
-
-  Or paste on the server (entire Netscape file, as-is, no quotes):
-    nano {dest}
-    # paste, save. Or: cat > {dest}   then paste, then Ctrl-D
-
-  Then confirm it is Netscape text (not JSON):
-    head -n 5 {dest}
-
-  Restart the harvester (./binlore transcribe-all). You should see:
-    yt-dlp: using cookies file {dest}
-
-Do not put cookies in tools/.env, chat, or git. The file above is the only place.
-
-Re-export a fresh incognito session when this error comes back (cookies expire / get rotated).
+This batch will sleep and probe until YouTube accepts requests again
+(initial wait {initial}s / {initial / 3600:.1f}h, then every {probe}s / {probe / 60:.0f}m).
+Override with YTDLP_BOT_COOLDOWN_INITIAL / YTDLP_BOT_COOLDOWN_PROBE in tools/.env.
 """
 
 
 class YoutubeBotCheckError(RuntimeError):
-    """YouTube rejected the client as a bot; further archive downloads will fail too."""
+    """YouTube rejected the client as a bot; wait/cooldown before retrying."""
 
 
-_AUTH_LOGGED = False
-
-
-def _cookies_path(raw: str) -> Path:
-    path = Path(raw).expanduser()
-    if not path.is_absolute():
-        path = TOOLS_ROOT / path
-    return path.resolve()
+_YTDLP_OPTS_LOGGED = False
 
 
 def youtube_bot_check(text: str) -> bool:
     return "not a bot" in text.lower()
 
 
+def interruptible_sleep(seconds: float, *, is_interrupted) -> bool:
+    """Sleep up to `seconds`. Returns False if interrupted."""
+    deadline = time.time() + max(0.0, seconds)
+    while time.time() < deadline:
+        if is_interrupted():
+            return False
+        time.sleep(min(5.0, max(0.0, deadline - time.time())))
+    return not is_interrupted()
+
+
+def probe_youtube_clear(url: str) -> bool:
+    """True if a lightweight metadata fetch is not bot-blocked."""
+    cmd = [
+        *get_yt_dlp_cmd(),
+        "--dump-json",
+        "--no-download",
+        "--no-playlist",
+        "--quiet",
+        "--no-warnings",
+        url,
+    ]
+    proc = subprocess.run(cmd, capture_output=True, text=True)
+    if proc.returncode == 0:
+        return True
+    err = (proc.stderr or proc.stdout or "")
+    # Any non-bot failure means the IP throttle cleared; let the real download decide.
+    return not youtube_bot_check(err)
+
+
+def wait_for_youtube_clear(
+    url: str,
+    *,
+    log,
+    is_interrupted,
+) -> bool:
+    """Sleep/probe until YouTube stops bot-checking `url`. Returns False if interrupted."""
+    initial = _env_seconds("YTDLP_BOT_COOLDOWN_INITIAL", DEFAULT_BOT_COOLDOWN_INITIAL_S)
+    probe = _env_seconds("YTDLP_BOT_COOLDOWN_PROBE", DEFAULT_BOT_COOLDOWN_PROBE_S)
+    log(youtube_bot_cooldown_hint())
+    started = time.time()
+    wait_s = float(initial)
+    attempt = 0
+    while True:
+        if is_interrupted():
+            return False
+        attempt += 1
+        resume_at = datetime.now(tz=timezone.utc) + timedelta(seconds=wait_s)
+        log(
+            f"YouTube cooldown: sleeping {wait_s / 60:.0f}m "
+            f"(probe #{attempt}; resume ~{resume_at.strftime('%Y-%m-%d %H:%M:%S UTC')}). "
+            "Ctrl+C to abort."
+        )
+        if not interruptible_sleep(wait_s, is_interrupted=is_interrupted):
+            return False
+        log(f"YouTube cooldown: probing access for {url}…")
+        try:
+            if probe_youtube_clear(url):
+                elapsed = time.time() - started
+                log(
+                    f"YouTube cooldown cleared after {elapsed / 60:.1f} minutes. "
+                    "Retrying download."
+                )
+                return True
+        except Exception as e:
+            log(f"YouTube probe error ({e}); will keep waiting.")
+        wait_s = float(probe)
+
+
 def yt_dlp_extra_args() -> list[str]:
-    """Cookie / extractor args so YouTube accepts datacenter IPs.
-
-    Precedence:
-      1. YTDLP_COOKIES_FROM_BROWSER (e.g. chrome, firefox, safari, chrome:Profile 1)
-      2. YTDLP_COOKIES path, or tools/cookies.txt if that file exists
-      3. YTDLP_EXTRACTOR_ARGS if set (appended either way)
-    """
-    global _AUTH_LOGGED
+    """Pacing / extractor args for YouTube (reduces bot-check trips)."""
+    global _YTDLP_OPTS_LOGGED
     args: list[str] = []
-
-    browser = os.environ.get("YTDLP_COOKIES_FROM_BROWSER", "").strip()
-    cookies_raw = os.environ.get("YTDLP_COOKIES", "").strip()
-    default_cookies = TOOLS_ROOT / "cookies.txt"
-    cookies_file = _cookies_path(cookies_raw) if cookies_raw else (
-        default_cookies if default_cookies.is_file() else None
-    )
-
-    if browser:
-        args.extend(["--cookies-from-browser", browser])
-        source = f"browser {browser}"
-    elif cookies_file is not None:
-        if not cookies_file.is_file():
-            raise RuntimeError(
-                f"YTDLP_COOKIES is set but file not found: {cookies_file}\n"
-                "Export YouTube cookies to that path, or unset YTDLP_COOKIES."
-            )
-        args.extend(["--cookies", str(cookies_file)])
-        source = f"cookies file {cookies_file}"
-    else:
-        source = ""
 
     extractor_args = os.environ.get("YTDLP_EXTRACTOR_ARGS", "").strip()
     if extractor_args:
         args.extend(["--extractor-args", extractor_args])
 
-    if args and not _AUTH_LOGGED:
-        _AUTH_LOGGED = True
-        parts = [p for p in (source, "extractor-args" if extractor_args else "") if p]
-        print(f"yt-dlp: using {' + '.join(parts)}", flush=True)
+    # Pace metadata requests; bursts trip YouTube bot-checks faster than byte downloads.
+    sleep_req = os.environ.get("YTDLP_SLEEP_REQUESTS", "1").strip()
+    if sleep_req and sleep_req not in {"0", "false", "off"}:
+        args.extend(["--sleep-requests", sleep_req])
+
+    if args and not _YTDLP_OPTS_LOGGED:
+        _YTDLP_OPTS_LOGGED = True
+        parts: list[str] = []
+        if extractor_args:
+            parts.append("extractor-args")
+        if sleep_req and sleep_req not in {"0", "false", "off"}:
+            parts.append(f"sleep-requests={sleep_req}")
+        if parts:
+            print(f"yt-dlp: using {' + '.join(parts)}", flush=True)
 
     return args
 
@@ -136,9 +163,6 @@ def get_yt_dlp_cmd() -> list[str]:
     2. Active virtual environment bin directory
     3. tools/.venv bin directory
     4. Python module invocation via sys.executable -m yt_dlp
-
-    Cookie/auth flags from the environment are appended so every caller
-    (ingest, catalog resolve, screencap) gets the same YouTube session.
     """
     # 1. System or active PATH
     ytdlp = shutil.which("yt-dlp")
@@ -208,13 +232,15 @@ def _run_yt_dlp(args: list[str]) -> str:
     except subprocess.CalledProcessError as e:
         err = (e.stderr or e.stdout or str(e)).strip()
         if youtube_bot_check(err):
-            raise YoutubeBotCheckError(youtube_cookies_hint()) from e
+            raise YoutubeBotCheckError(
+                "YouTube bot-check (temporary). Batch will sleep and probe until clear."
+            ) from e
         raise RuntimeError(err) from e
     return proc.stdout
 
 
 def run_yt_dlp(cmd: list[str]) -> None:
-    """Run yt-dlp, streaming stderr live. Halt the batch on YouTube bot-check."""
+    """Run yt-dlp, streaming stderr live. Raise YoutubeBotCheckError on bot-check."""
     proc = subprocess.Popen(cmd, stderr=subprocess.PIPE, text=True)
     err_lines: list[str] = []
     if proc.stderr is not None:
@@ -227,7 +253,9 @@ def run_yt_dlp(cmd: list[str]) -> None:
         return
     err = "".join(err_lines)
     if youtube_bot_check(err):
-        raise YoutubeBotCheckError(youtube_cookies_hint())
+        raise YoutubeBotCheckError(
+            "YouTube bot-check (temporary). Batch will sleep and probe until clear."
+        )
     raise subprocess.CalledProcessError(rc, cmd, stderr=err)
 
 

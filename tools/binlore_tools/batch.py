@@ -16,7 +16,13 @@ from typing import Any, Sequence
 from .clean import clean_run_dir, find_cleanable_runs, execute_clean
 from .extract import DEFAULT_MODEL, DailyQuotaExceeded, extract_lore_from_vod, get_api_key, load_env
 from .paths import CATALOG_JSON, CONTENT_EPISODES, REPO_ROOT, RUNS_DIR, TOOLS_ROOT
-from .vods import Vod, YoutubeBotCheckError, format_duration, vod_from_catalog_entry, youtube_cookies_hint
+from .vods import (
+    Vod,
+    YoutubeBotCheckError,
+    format_duration,
+    vod_from_catalog_entry,
+    wait_for_youtube_clear,
+)
 
 _INTERRUPTED = False
 _CURRENT_ACTIVE_RUN_DIR: Path | None = None
@@ -528,11 +534,10 @@ def run_batch_processing(
         try:
             ytdlp_cmd = get_yt_dlp_cmd()
             logger.info(f"External tool yt-dlp: {' '.join(ytdlp_cmd)}")
-            if "--cookies" not in ytdlp_cmd and "--cookies-from-browser" not in ytdlp_cmd:
-                logger.warning(
-                    "No YouTube cookies configured. Archive fallbacks will hit a bot check "
-                    "on this host. Place tools/cookies.txt or set YTDLP_COOKIES, then restart."
-                )
+            logger.info(
+                "YouTube archive fallbacks may hit temporary bot-checks; "
+                "the batch will sleep and probe until clear."
+            )
         except RuntimeError as e:
             logger.error(f"Missing dependency:\n{e}")
             return 1
@@ -607,18 +612,49 @@ def run_batch_processing(
         logger.info(f"[{idx}/{len(unprocessed)}] Processing Episode: {date_s} — \"{title}\"")
 
         try:
-            res = process_single_episode(
-                stream,
-                logger,
-                whisper_model=whisper_model,
-                extract_model=extract_model,
-                timeout=timeout,
-                clean_audio=clean_audio,
-                skip_extract=skip_extract,
-                build_quartz=build_quartz,
-                git_commit=git_commit,
-                min_disk_gb=min_disk_gb,
-            )
+            while True:
+                try:
+                    res = process_single_episode(
+                        stream,
+                        logger,
+                        whisper_model=whisper_model,
+                        extract_model=extract_model,
+                        timeout=timeout,
+                        clean_audio=clean_audio,
+                        skip_extract=skip_extract,
+                        build_quartz=build_quartz,
+                        git_commit=git_commit,
+                        min_disk_gb=min_disk_gb,
+                    )
+                    break
+                except YoutubeBotCheckError as e:
+                    logger.warning(str(e))
+                    if _CURRENT_ACTIVE_RUN_DIR and _CURRENT_ACTIVE_RUN_DIR.exists():
+                        clean_run_dir(_CURRENT_ACTIVE_RUN_DIR, force=True)
+                    yt_id = stream.get("yt_id") or stream.get("id") or ""
+                    probe_url = (
+                        stream.get("yt_url")
+                        or (f"https://www.youtube.com/watch?v={yt_id}" if yt_id else "")
+                    )
+                    if not probe_url:
+                        raise
+                    logger.warning(
+                        f"[{idx}/{len(unprocessed)}] YouTube bot-check at {date_s} — {title}. "
+                        "Waiting for cooldown (no fixed published TTL; probing until clear)…"
+                    )
+                    cleared = wait_for_youtube_clear(
+                        probe_url,
+                        log=logger.info,
+                        is_interrupted=lambda: _INTERRUPTED,
+                    )
+                    if not cleared:
+                        logger.warning("Interrupted during YouTube cooldown. Exiting loop.")
+                        halt_reason = "interrupted"
+                        break
+                    logger.info(f"Retrying episode {date_s} — {title} after YouTube cooldown…")
+                    continue
+            if halt_reason:
+                break
             processed_count += 1
             logger.success(
                 f"[{idx}/{len(unprocessed)}] ✓ Completed {date_s} (VOD: {res['vod_id']}). "
@@ -628,16 +664,6 @@ def run_batch_processing(
             logger.warning(str(e))
             logger.warning("Halting extract batch until Gemini daily quota resets (midnight Pacific).")
             halt_reason = "quota"
-            break
-        except YoutubeBotCheckError as e:
-            logger.error(str(e))
-            logger.error(
-                f"[{idx}/{len(unprocessed)}] Stopping batch at {date_s} — {title}. "
-                "Remaining YouTube archive downloads will fail the same way until cookies are set."
-            )
-            if _CURRENT_ACTIVE_RUN_DIR and _CURRENT_ACTIVE_RUN_DIR.exists():
-                clean_run_dir(_CURRENT_ACTIVE_RUN_DIR, force=True)
-            halt_reason = "youtube-bot"
             break
         except Exception as e:
             err_msg = str(e) or type(e).__name__
@@ -666,12 +692,11 @@ def run_batch_processing(
             f"BATCH PAUSED for daily quota after {elapsed / 60:.1f} minutes "
             f"({processed_count} succeeded, {len(failed_episodes)} failed)"
         )
-    elif halt_reason == "youtube-bot":
-        logger.error(
-            f"BATCH STOPPED for YouTube bot check after {elapsed / 60:.1f} minutes "
-            f"({processed_count} succeeded)."
+    elif halt_reason == "interrupted":
+        logger.warning(
+            f"BATCH INTERRUPTED after {elapsed / 60:.1f} minutes "
+            f"({processed_count} succeeded, {len(failed_episodes)} failed)"
         )
-        logger.error(youtube_cookies_hint())
     elif failed_episodes and processed_count == 0:
         logger.error(
             f"BATCH RUN FAILED in {elapsed / 60:.1f} minutes (0/{len(unprocessed)} succeeded, {len(failed_episodes)} failed)"
@@ -696,6 +721,6 @@ def run_batch_processing(
     logger.info("=" * 65)
     if halt_reason == "quota":
         return 0
-    if halt_reason == "youtube-bot":
-        return 1
+    if halt_reason == "interrupted":
+        return 130
     return 0 if not failed_episodes else 1

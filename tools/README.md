@@ -62,21 +62,9 @@ Transcription does not need a key. Extraction calls Gemini directly:
    ```
 This provides higher download speeds, avoids rate limits, and silences the unauthenticated HF Hub warning.
 
-#### YouTube cookies (required on most VPS / datacenter IPs)
+#### YouTube bot-checks
 
-YouTube will refuse `yt-dlp` without a logged-in session (`Sign in to confirm you’re not a bot`). Twitch downloads are unaffected.
-
-1. In a **throwaway** Google account, open a private/incognito window, log into YouTube, then go to `https://www.youtube.com/robots.txt` (keep only that tab).
-2. Export `youtube.com` cookies with a Netscape cookies.txt extension ([yt-dlp cookie export notes](https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies)). Close the private window so the session is not rotated.
-3. Copy the file to the harvester host as `tools/cookies.txt` (gitignored; auto-detected). Or set in `tools/.env`:
-   ```
-   YTDLP_COOKIES=cookies.txt
-   ```
-   On a Mac with a local browser instead:
-   ```
-   YTDLP_COOKIES_FROM_BROWSER=chrome
-   ```
-4. Re-export when downloads start failing again. Do not use your main Google account on a VPS.
+YouTube may refuse `yt-dlp` with `Sign in to confirm you’re not a bot`. Twitch downloads are unaffected. **No published fixed timeout** — temporary blocks often clear in ~1–12 hours. The batch sleeps (default 1h) then probes every 30m until clear. Tune with `YTDLP_BOT_COOLDOWN_INITIAL` / `YTDLP_BOT_COOLDOWN_PROBE`.
 
 ## Commands
 

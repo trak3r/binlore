@@ -39,5 +39,3 @@ tools/.venv/
 .env.*
 !.env.example
 deno.lock
-tools/cookies.txt
-cookies.txt
