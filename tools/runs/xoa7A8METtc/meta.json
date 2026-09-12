@@ -1,0 +1,19 @@
+{
+  "vod_id": "xoa7A8METtc",
+  "title": "Cooking with Jeb and NEWS?",
+  "url": "https://www.youtube.com/watch?v=xoa7A8METtc",
+  "duration_seconds": 11173,
+  "duration": "3:06:13",
+  "timestamp": 1718236800,
+  "aired_at": "2024-06-13T00:00:00+00:00",
+  "date": "2024-06-13",
+  "ingested_at": "2026-09-12T15:24:41.811925+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "xoa7A8METtc",
+  "yt_url": "https://www.youtube.com/watch?v=xoa7A8METtc",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-06-13"
+}
