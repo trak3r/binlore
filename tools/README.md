@@ -71,16 +71,13 @@ Killed
 … resource_tracker: There appear to be 1 leaked semaphore objects …
 ```
 
-No Python traceback. Fix: free RAM, use a smaller model, or let auto-downgrade work:
+No Python traceback. Common cause: **very long VODs** (e.g. 8h Deb-8) — Whisper decodes the whole file into one PCM buffer. Streams longer than 30 minutes are now transcribed in chunks (`WHISPER_CHUNK_SECONDS`, default 1800).
+
+Also: free RAM, or use a smaller model:
 
 ```bash
 ./binlore transcribe-all --model base   # or tiny
-# optional in tools/.env:
-# WHISPER_BEAM_SIZE=1
-# WHISPER_CPU_THREADS=2
 ```
-
-Default beam size is `1` (was `5`, which OOM’d multi-hour VODs on small hosts).
 
 ## Commands
 
