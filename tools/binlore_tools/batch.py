@@ -549,6 +549,22 @@ def run_batch_processing(
             logger.error(f"Missing dependency:\n{e}")
             return 1
 
+        from .transcribe import available_ram_mb, _min_ram_for
+
+        avail = available_ram_mb()
+        if avail is not None:
+            need = _min_ram_for(whisper_model)
+            logger.info(
+                f"RAM available: {avail:.0f} MiB "
+                f"(Whisper model={whisper_model} wants ~{need} MiB free)"
+            )
+            if avail < need:
+                logger.warning(
+                    f"Low RAM for model={whisper_model}. Transcription will auto-downgrade "
+                    f"or the kernel may SIGKILL the process ('Killed'). "
+                    f"Prefer: ./binlore transcribe-all --model base   (or tiny)"
+                )
+
     if not skip_extract and not dry_run:
         load_env()
         try:

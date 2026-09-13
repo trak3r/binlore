@@ -62,9 +62,25 @@ Transcription does not need a key. Extraction calls Gemini directly:
    ```
 This provides higher download speeds, avoids rate limits, and silences the unauthenticated HF Hub warning.
 
-#### YouTube bot-checks
+#### Whisper / RAM (why you see `Killed`)
 
-YouTube may refuse `yt-dlp` with `Sign in to confirm you’re not a bot`. Twitch downloads are unaffected. **No published fixed timeout** — temporary blocks often clear in ~1–12 hours. The batch sleeps (default 1h) then probes every 30m until clear. Tune with `YTDLP_BOT_COOLDOWN_INITIAL` / `YTDLP_BOT_COOLDOWN_PROBE`.
+Transcription runs locally via `faster-whisper` on CPU. If the Linux OOM killer fires you get only:
+
+```text
+Killed
+… resource_tracker: There appear to be 1 leaked semaphore objects …
+```
+
+No Python traceback. Fix: free RAM, use a smaller model, or let auto-downgrade work:
+
+```bash
+./binlore transcribe-all --model base   # or tiny
+# optional in tools/.env:
+# WHISPER_BEAM_SIZE=1
+# WHISPER_CPU_THREADS=2
+```
+
+Default beam size is `1` (was `5`, which OOM’d multi-hour VODs on small hosts).
 
 ## Commands
 
