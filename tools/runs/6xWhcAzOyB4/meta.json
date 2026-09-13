@@ -1,0 +1,19 @@
+{
+  "vod_id": "6xWhcAzOyB4",
+  "title": "Quick Thursday NEWS",
+  "url": "https://www.youtube.com/watch?v=6xWhcAzOyB4",
+  "duration_seconds": 5133,
+  "duration": "1:25:33",
+  "timestamp": 1722470400,
+  "aired_at": "2024-08-01T00:00:00+00:00",
+  "date": "2024-08-01",
+  "ingested_at": "2026-09-13T14:14:10.718995+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "6xWhcAzOyB4",
+  "yt_url": "https://www.youtube.com/watch?v=6xWhcAzOyB4",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-08-01"
+}
