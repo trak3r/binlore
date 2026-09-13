@@ -1,0 +1,19 @@
+{
+  "vod_id": "cqOaGBONLxo",
+  "title": "Harris Says Things, Robots Do Things, Tamagotchi Eggs, all of that is NEWS we SWEAR",
+  "url": "https://www.youtube.com/watch?v=cqOaGBONLxo",
+  "duration_seconds": 9252,
+  "duration": "2:34:12",
+  "timestamp": 1724976000,
+  "aired_at": "2024-08-30T00:00:00+00:00",
+  "date": "2024-08-30",
+  "ingested_at": "2026-09-13T19:45:49.155826+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "cqOaGBONLxo",
+  "yt_url": "https://www.youtube.com/watch?v=cqOaGBONLxo",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-08-30"
+}
