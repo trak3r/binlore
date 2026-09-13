@@ -1,0 +1,19 @@
+{
+  "vod_id": "Ai84ODNL5eg",
+  "title": "Rowling Down Hill, AI Demo Failures, Crap Hacks, 2/3 Could be NEWS!",
+  "url": "https://www.youtube.com/watch?v=Ai84ODNL5eg",
+  "duration_seconds": 8606,
+  "duration": "2:23:26",
+  "timestamp": 1723593600,
+  "aired_at": "2024-08-14T00:00:00+00:00",
+  "date": "2024-08-14",
+  "ingested_at": "2026-09-13T15:22:25.675669+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "Ai84ODNL5eg",
+  "yt_url": "https://www.youtube.com/watch?v=Ai84ODNL5eg",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-08-14"
+}
