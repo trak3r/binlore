@@ -1,0 +1,19 @@
+{
+  "vod_id": "fivS6SdvEmg",
+  "title": "Diddy, Drones, and Dicks - the usual NEWS",
+  "url": "https://www.youtube.com/watch?v=fivS6SdvEmg",
+  "duration_seconds": 5786,
+  "duration": "1:36:26",
+  "timestamp": 1726704000,
+  "aired_at": "2024-09-19T00:00:00+00:00",
+  "date": "2024-09-19",
+  "ingested_at": "2026-09-13T21:53:57.384263+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "fivS6SdvEmg",
+  "yt_url": "https://www.youtube.com/watch?v=fivS6SdvEmg",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-09-19"
+}
