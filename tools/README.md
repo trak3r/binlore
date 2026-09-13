@@ -71,7 +71,7 @@ Killed
 … resource_tracker: There appear to be 1 leaked semaphore objects …
 ```
 
-No Python traceback. Common cause: **very long VODs** (e.g. 8h Deb-8) — Whisper decodes the whole file into one PCM buffer. Streams longer than 30 minutes are now transcribed in chunks (`WHISPER_CHUNK_SECONDS`, default 1800).
+No Python traceback. Common cause: **very long VODs** (e.g. 8h Deb-8) — Whisper decodes the whole file into one PCM buffer. Catalog median is ~2.4h; only streams longer than **4 hours** are chunked (`WHISPER_CHUNK_SECONDS`, default 14400). That covers ~4% of the archive (Deb-8, long Lethal Company nights), not normal shows.
 
 Also: free RAM, or use a smaller model:
 

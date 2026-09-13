@@ -26,8 +26,9 @@ _MODEL_MIN_AVAIL_MB: dict[str, int] = {
 
 _MODEL_FALLBACK_ORDER = ("tiny", "base", "small", "medium", "large-v3")
 
-# Multi-hour BIN streams (e.g. 8h Deb-8) OOM if decoded as one PCM buffer.
-DEFAULT_CHUNK_SECONDS = 1800  # 30 minutes
+# Multi-hour BIN streams are usually ~2–3h; only rare outliers (Deb-8, long
+# Lethal Company) need chunking. Ceiling of 4h keeps normal shows single-pass.
+DEFAULT_CHUNK_SECONDS = 14400  # 4 hours
 
 
 def format_ts(seconds: float) -> str:
@@ -253,8 +254,11 @@ def transcribe_audio(
     else:
         assert duration is not None
         n_chunks = int((duration + chunk_s - 1) // chunk_s)
+        chunk_label = (
+            f"{chunk_s // 3600}h" if chunk_s >= 3600 else f"{chunk_s // 60}m"
+        )
         print(
-            f"  Audio duration {format_ts(duration)} — chunking into ~{chunk_s // 60}m slices "
+            f"  Audio duration {format_ts(duration)} — chunking into ~{chunk_label} slices "
             f"({n_chunks} chunks) so the full {format_ts(duration)} PCM is never in RAM at once "
             f"(this is what OOM-killed 8h streams). Set WHISPER_CHUNK_SECONDS=0 to disable.",
             flush=True,
