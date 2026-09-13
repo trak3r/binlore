@@ -1,0 +1,19 @@
+{
+  "vod_id": "tXdoW9cixMk",
+  "title": "Deb-8 - Eight Hours of DEBATE",
+  "url": "https://www.youtube.com/watch?v=tXdoW9cixMk",
+  "duration_seconds": 29503,
+  "duration": "8:11:43",
+  "timestamp": 1721433600,
+  "aired_at": "2024-07-20T00:00:00+00:00",
+  "date": "2024-07-20",
+  "ingested_at": "2026-09-13T12:36:59.309261+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "tXdoW9cixMk",
+  "yt_url": "https://www.youtube.com/watch?v=tXdoW9cixMk",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-07-20"
+}
