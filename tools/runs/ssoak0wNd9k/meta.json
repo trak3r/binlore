@@ -1,0 +1,19 @@
+{
+  "vod_id": "ssoak0wNd9k",
+  "title": "Call Kass",
+  "url": "https://www.youtube.com/watch?v=ssoak0wNd9k",
+  "duration_seconds": 29,
+  "duration": "0:29",
+  "timestamp": 1727740800,
+  "aired_at": "2024-10-01T00:00:00+00:00",
+  "date": "2024-10-01",
+  "ingested_at": "2026-09-14T00:37:35.293947+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "ssoak0wNd9k",
+  "yt_url": "https://www.youtube.com/watch?v=ssoak0wNd9k",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-10-01"
+}
