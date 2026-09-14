@@ -1,0 +1,19 @@
+{
+  "vod_id": "tXrY4p8UfOI",
+  "title": "Inagoonation",
+  "url": "https://www.youtube.com/watch?v=tXrY4p8UfOI",
+  "duration_seconds": 1655,
+  "duration": "27:35",
+  "timestamp": 1737331200,
+  "aired_at": "2025-01-20T00:00:00+00:00",
+  "date": "2025-01-20",
+  "ingested_at": "2026-09-14T09:08:09.214985+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "tXrY4p8UfOI",
+  "yt_url": "https://www.youtube.com/watch?v=tXrY4p8UfOI",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-01-20"
+}

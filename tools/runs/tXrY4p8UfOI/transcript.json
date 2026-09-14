@@ -1,0 +1,3259 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "model_requested": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 1654.289,
+  "chunk_seconds": null,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.18,
+      "end": 2.9,
+      "text": "I'm Papita."
+    },
+    {
+      "id": 1,
+      "start": 2.9,
+      "end": 17.43,
+      "text": "I'm the dog that produces the show and now it is live and I'm a dog."
+    },
+    {
+      "id": 2,
+      "start": 17.43,
+      "end": 18.43,
+      "text": "Vice President-elect J.D."
+    },
+    {
+      "id": 3,
+      "start": 18.43,
+      "end": 20.79,
+      "text": "Vance making his way into the Capitol."
+    },
+    {
+      "id": 4,
+      "start": 20.79,
+      "end": 25.15,
+      "text": "We expect President-elect Trump to be entering shortly as well."
+    },
+    {
+      "id": 5,
+      "start": 25.15,
+      "end": 29.71,
+      "text": "Former Ohio Senator Sherrod Brown has been with us this morning watching this all unfold."
+    },
+    {
+      "id": 6,
+      "start": 29.71,
+      "end": 35.11,
+      "text": "Senator Brown, your thoughts on this moment as we await just moments away from when"
+    },
+    {
+      "id": 7,
+      "start": 35.11,
+      "end": 38.07,
+      "text": "President-elect Trump will be sworn back into office."
+    },
+    {
+      "id": 8,
+      "start": 38.07,
+      "end": 42.27,
+      "text": "I find the sort of theme of a couple of speakers."
+    },
+    {
+      "id": 9,
+      "start": 42.27,
+      "end": 44.43,
+      "text": "I can't see them on screen."
+    },
+    {
+      "id": 10,
+      "start": 44.43,
+      "end": 50.15,
+      "text": "I think it was a Trump spokesperson talking about disrupting that it's no longer corporate"
+    },
+    {
+      "id": 11,
+      "start": 50.15,
+      "end": 54.55,
+      "text": "interest and no longer the people who ran the Republican Party."
+    },
+    {
+      "id": 12,
+      "start": 54.55,
+      "end": 59.67,
+      "text": "I find it, if not for the seriousness that I find immunity in it."
+    },
+    {
+      "id": 13,
+      "start": 59.67,
+      "end": 63.91,
+      "text": "We're saying that Trump isn't going to listen to Wall Street anymore, isn't going to listen"
+    },
+    {
+      "id": 14,
+      "start": 63.91,
+      "end": 68.15,
+      "text": "to the big corporate CEOs who's going to listen to these California billionaires."
+    },
+    {
+      "id": 15,
+      "start": 68.15,
+      "end": 73.07,
+      "text": "I mean, the three of the richest people in the world are sitting on that platform with"
+    },
+    {
+      "id": 16,
+      "start": 73.07,
+      "end": 74.07,
+      "text": "them."
+    },
+    {
+      "id": 17,
+      "start": 74.07,
+      "end": 75.31,
+      "text": "They all want tax cuts."
+    },
+    {
+      "id": 18,
+      "start": 75.31,
+      "end": 77.67,
+      "text": "They all want weaker consumer protections."
+    },
+    {
+      "id": 19,
+      "start": 77.67,
+      "end": 82.03,
+      "text": "They all want weaker worker safety rules."
+    },
+    {
+      "id": 20,
+      "start": 82.03,
+      "end": 83.03,
+      "text": "And so what gives?"
+    },
+    {
+      "id": 21,
+      "start": 83.03,
+      "end": 88.55,
+      "text": "I mean, he's still going to provide a Republican mantra for years has always been more"
+    },
+    {
+      "id": 22,
+      "start": 88.55,
+      "end": 92.39,
+      "text": "tax cuts for the rich, more tax cuts for large corporations."
+    },
+    {
+      "id": 23,
+      "start": 92.87,
+      "end": 95.79,
+      "text": "I don't see any movement away from that."
+    },
+    {
+      "id": 24,
+      "start": 95.79,
+      "end": 100.03,
+      "text": "But at the same time, he's clearly listening to billionaires, one of them as we"
+    },
+    {
+      "id": 25,
+      "start": 100.03,
+      "end": 104.11,
+      "text": "know, on the stage of the $250 million through the President's campaign."
+    },
+    {
+      "id": 26,
+      "start": 104.11,
+      "end": 108.79,
+      "text": "So it's not like disruption means it's all about focusing on workers."
+    },
+    {
+      "id": 27,
+      "start": 108.79,
+      "end": 113.03,
+      "text": "Disruption means we won't do quite as much for corporate America."
+    },
+    {
+      "id": 28,
+      "start": 113.03,
+      "end": 117.63,
+      "text": "We're going to take care of these newly minted, in some cases, deca or"
+    },
+    {
+      "id": 29,
+      "start": 117.63,
+      "end": 120.07,
+      "text": "simply if that's the word simply there."
+    },
+    {
+      "id": 30,
+      "start": 120.07,
+      "end": 122.51,
+      "text": "So I don't find much change."
+    },
+    {
+      "id": 31,
+      "start": 122.51,
+      "end": 126.79,
+      "text": "And I don't again, politics is not left to right to side me on."
+    },
+    {
+      "id": 32,
+      "start": 126.79,
+      "end": 131.63,
+      "text": "And I think the president today needs to essentially say to the public, I'm not"
+    },
+    {
+      "id": 33,
+      "start": 131.63,
+      "end": 133.95,
+      "text": "I'm not going to let these bloaters run the country."
+    },
+    {
+      "id": 34,
+      "start": 133.95,
+      "end": 135.43,
+      "text": "They helped my campaign."
+    },
+    {
+      "id": 35,
+      "start": 135.43,
+      "end": 136.79,
+      "text": "And I'm going to look out for workers."
+    },
+    {
+      "id": 36,
+      "start": 136.79,
+      "end": 138.07,
+      "text": "I hope he does that."
+    },
+    {
+      "id": 37,
+      "start": 138.07,
+      "end": 139.27,
+      "text": "I'm always optimistic."
+    },
+    {
+      "id": 38,
+      "start": 139.27,
+      "end": 141.23,
+      "text": "I just don't really see it coming."
+    },
+    {
+      "id": 39,
+      "start": 141.23,
+      "end": 145.15,
+      "text": "Well, President-elect Trump is now making his way into the Capitol."
+    },
+    {
+      "id": 40,
+      "start": 145.71,
+      "end": 149.47,
+      "text": "Tiffany Smiley, as we watch this live picture, I believe Senator Brown was"
+    },
+    {
+      "id": 41,
+      "start": 149.47,
+      "end": 151.79,
+      "text": "referring to what you mentioned earlier about the disruptors."
+    },
+    {
+      "id": 42,
+      "start": 151.79,
+      "end": 153.19,
+      "text": "Care to respond?"
+    },
+    {
+      "id": 43,
+      "start": 153.19,
+      "end": 157.67,
+      "text": "Yeah, I mean, look, I mean, these people worked with Biden as well, but they"
+    },
+    {
+      "id": 44,
+      "start": 157.67,
+      "end": 160.31,
+      "text": "also know that President Trump will deliver."
+    },
+    {
+      "id": 45,
+      "start": 160.31,
+      "end": 164.43,
+      "text": "So unfortunately, over the last four years, the economy, it hasn't worked"
+    },
+    {
+      "id": 46,
+      "start": 164.43,
+      "end": 165.35,
+      "text": "for the working class."
+    },
+    {
+      "id": 47,
+      "start": 165.35,
+      "end": 171.15,
+      "text": "It hasn't worked for an average American who has lost nearly $33,000"
+    },
+    {
+      "id": 48,
+      "start": 171.15,
+      "end": 173.19,
+      "text": "over the last four years under Bidenomics."
+    },
+    {
+      "id": 49,
+      "start": 173.19,
+      "end": 174.87,
+      "text": "So I think Trump is just painting a picture."
+    },
+    {
+      "id": 50,
+      "start": 174.87,
+      "end": 177.59,
+      "text": "Trump is Trump and he will always do what he wants to do."
+    },
+    {
+      "id": 51,
+      "start": 177.59,
+      "end": 180.91,
+      "text": "And he will always do what's best for America and the American people."
+    },
+    {
+      "id": 52,
+      "start": 180.91,
+      "end": 183.91,
+      "text": "I think he's just showing like, hey, look, I'm bringing people from all walks"
+    },
+    {
+      "id": 53,
+      "start": 183.91,
+      "end": 185.55,
+      "text": "of life. This isn't just DC."
+    },
+    {
+      "id": 54,
+      "start": 185.55,
+      "end": 187.27,
+      "text": "This isn't just the establishment."
+    },
+    {
+      "id": 55,
+      "start": 187.27,
+      "end": 191.31,
+      "text": "And we are going to solve these problems that are facing the American people."
+    },
+    {
+      "id": 56,
+      "start": 191.31,
+      "end": 194.91,
+      "text": "Former and future First Lady Melania Trump has made her way inside the Capitol"
+    },
+    {
+      "id": 57,
+      "start": 194.91,
+      "end": 199.95,
+      "text": "Rotunda. Former Republican Senator Bob Corker has been with us all morning."
+    },
+    {
+      "id": 58,
+      "start": 199.95,
+      "end": 203.99,
+      "text": "Senator Corker, we saw a moment ago the arrival of House and Senate leaders."
+    },
+    {
+      "id": 59,
+      "start": 204.11,
+      "end": 209.19,
+      "text": "How do you expect the House and Senate in this go-around to be a check on"
+    },
+    {
+      "id": 60,
+      "start": 209.19,
+      "end": 210.43,
+      "text": "executive power?"
+    },
+    {
+      "id": 61,
+      "start": 214.22,
+      "end": 215.62,
+      "text": "I think they're going to be a check."
+    },
+    {
+      "id": 62,
+      "start": 215.62,
+      "end": 220.42,
+      "text": "And I just had a conversation with John, the"
+    },
+    {
+      "id": 63,
+      "start": 220.42,
+      "end": 221.9,
+      "text": "President of the United States, and the Vice President of the United States."
+    },
+    {
+      "id": 64,
+      "start": 221.9,
+      "end": 224.9,
+      "text": "On the Senate floor, I escorted a new senator,"
+    },
+    {
+      "id": 65,
+      "start": 224.9,
+      "end": 228.3,
+      "text": "someone who's been sworn in about on January 3rd."
+    },
+    {
+      "id": 66,
+      "start": 229.38,
+      "end": 231.38,
+      "text": "But I think they will be a check."
+    },
+    {
+      "id": 67,
+      "start": 231.38,
+      "end": 233.94,
+      "text": "Obviously, there's going to be a lot more communication."
+    },
+    {
+      "id": 68,
+      "start": 234.94,
+      "end": 238.94,
+      "text": "There's going to be a lot more communication between the two than"
+    },
+    {
+      "id": 69,
+      "start": 238.94,
+      "end": 240.74,
+      "text": "has happened in the past."
+    },
+    {
+      "id": 70,
+      "start": 240.74,
+      "end": 245.06,
+      "text": "Obviously, Senator McConnell and President Trump didn't communicate that much."
+    },
+    {
+      "id": 71,
+      "start": 245.06,
+      "end": 247.66,
+      "text": "Thun and the President will."
+    },
+    {
+      "id": 72,
+      "start": 248.66,
+      "end": 250.14,
+      "text": "And then look in the House."
+    },
+    {
+      "id": 73,
+      "start": 250.14,
+      "end": 254.18,
+      "text": "You've got some independent Republicans over there."
+    },
+    {
+      "id": 74,
+      "start": 254.18,
+      "end": 256.66,
+      "text": "Obviously, the Democratic side is going to be a check."
+    },
+    {
+      "id": 75,
+      "start": 256.66,
+      "end": 260.9,
+      "text": "I think that people this time, though, are going to pick and choose."
+    },
+    {
+      "id": 76,
+      "start": 261.66,
+      "end": 266.66,
+      "text": "I think there's going to be more prudence in the way that they check,"
+    },
+    {
+      "id": 77,
+      "start": 266.66,
+      "end": 271.82,
+      "text": "understanding that the capital that the President comes in with, political capital."
+    },
+    {
+      "id": 78,
+      "start": 271.82,
+      "end": 273.3,
+      "text": "I do want to say one other thing."
+    },
+    {
+      "id": 79,
+      "start": 273.3,
+      "end": 275.74,
+      "text": "I enjoy being almost Senator Brown."
+    },
+    {
+      "id": 80,
+      "start": 275.74,
+      "end": 281.3,
+      "text": "And I think what both of us are doing today in our different ways,"
+    },
+    {
+      "id": 81,
+      "start": 281.3,
+      "end": 286.06,
+      "text": "with a different focus, is we're trying to be aspirational."
+    },
+    {
+      "id": 82,
+      "start": 286.06,
+      "end": 290.78,
+      "text": "Meaning that we're hopeful that Senator Brown is hopeful"
+    },
+    {
+      "id": 83,
+      "start": 290.78,
+      "end": 295.58,
+      "text": "that the President is going to focus on workers and their needs."
+    },
+    {
+      "id": 84,
+      "start": 295.58,
+      "end": 297.74,
+      "text": "An issue that he's always talked about."
+    },
+    {
+      "id": 85,
+      "start": 297.74,
+      "end": 303.78,
+      "text": "We came in together in 2007, elected in 2006."
+    },
+    {
+      "id": 86,
+      "start": 303.78,
+      "end": 306.22,
+      "text": "I, too, am trying to be aspirational."
+    },
+    {
+      "id": 87,
+      "start": 306.22,
+      "end": 311.22,
+      "text": "And I think that that is the way that both the House and Senate, in some ways,"
+    },
+    {
+      "id": 88,
+      "start": 311.22,
+      "end": 311.78,
+      "text": "will be."
+    },
+    {
+      "id": 89,
+      "start": 311.78,
+      "end": 317.46,
+      "text": "Can they influence the President to stay focused, to move in a direction"
+    },
+    {
+      "id": 90,
+      "start": 317.46,
+      "end": 319.58,
+      "text": "that is good for our country?"
+    },
+    {
+      "id": 91,
+      "start": 319.58,
+      "end": 324.7,
+      "text": "I think that's the mode that everyone around is going to be hopeful,"
+    },
+    {
+      "id": 92,
+      "start": 324.7,
+      "end": 327.98,
+      "text": "that somehow the President will stay focused,"
+    },
+    {
+      "id": 93,
+      "start": 327.98,
+      "end": 331.26,
+      "text": "that he'll try to bring out the best in all of us."
+    },
+    {
+      "id": 94,
+      "start": 331.26,
+      "end": 336.3,
+      "text": "And we're going to see in just a few moments whether that's his first step"
+    },
+    {
+      "id": 95,
+      "start": 336.3,
+      "end": 338.78,
+      "text": "here at the inaugural speech."
+    },
+    {
+      "id": 96,
+      "start": 338.78,
+      "end": 341.82,
+      "text": "Indeed, we'll end on that moment of hope, that note of hope,"
+    },
+    {
+      "id": 97,
+      "start": 341.82,
+      "end": 350.95,
+      "text": "and go inside the Capitol Rotunda to watch this inaugural proceed."
+    },
+    {
+      "id": 98,
+      "start": 350.95,
+      "end": 354.79,
+      "text": "Ladies and gentlemen, the Vice President-Elect of the United States,"
+    },
+    {
+      "id": 99,
+      "start": 354.79,
+      "end": 362.32,
+      "text": "the Honorable JD Vance."
+    },
+    {
+      "id": 100,
+      "start": 362.32,
+      "end": 363.68,
+      "text": "Not cases, brother, said."
+    },
+    {
+      "id": 101,
+      "start": 363.68,
+      "end": 364.36,
+      "text": "What's happening?"
+    },
+    {
+      "id": 102,
+      "start": 364.36,
+      "end": 434.66,
+      "text": "Where are you taking me?"
+    },
+    {
+      "id": 103,
+      "start": 434.66,
+      "end": 437.7,
+      "text": "Ladies and gentlemen, escorting the President-Elect,"
+    },
+    {
+      "id": 104,
+      "start": 437.7,
+      "end": 440.3,
+      "text": "the staff director for the Joint Congressional Committee"
+    },
+    {
+      "id": 105,
+      "start": 440.3,
+      "end": 444.02,
+      "text": "on Inaugural Ceremonies, Elizabeth Farah, House Sergeant"
+    },
+    {
+      "id": 106,
+      "start": 444.02,
+      "end": 447.22,
+      "text": "at Arms, the Honorable William P. McFarland,"
+    },
+    {
+      "id": 107,
+      "start": 447.22,
+      "end": 449.42,
+      "text": "Senate Sergeant at Arms and Doorkeeper,"
+    },
+    {
+      "id": 108,
+      "start": 449.42,
+      "end": 452.06,
+      "text": "the Honorable Jennifer A. Hemingway,"
+    },
+    {
+      "id": 109,
+      "start": 452.1,
+      "end": 455.46,
+      "text": "Senate Majority Leader, the Honorable John Thune,"
+    },
+    {
+      "id": 110,
+      "start": 455.46,
+      "end": 457.38,
+      "text": "and the Joint Congressional Committee"
+    },
+    {
+      "id": 111,
+      "start": 457.38,
+      "end": 460.54,
+      "text": "on Inaugural Ceremonies, House Democratic Leader,"
+    },
+    {
+      "id": 112,
+      "start": 460.54,
+      "end": 464.06,
+      "text": "the Honorable Hakim Jeffries, House Majority Leader,"
+    },
+    {
+      "id": 113,
+      "start": 464.06,
+      "end": 467.14,
+      "text": "the Honorable Steve Scalise, Speaker of the House"
+    },
+    {
+      "id": 114,
+      "start": 467.14,
+      "end": 470.66,
+      "text": "of Representatives, the Honorable Mike Johnson,"
+    },
+    {
+      "id": 115,
+      "start": 470.66,
+      "end": 472.46,
+      "text": "Senate Democratic Leader, the-"
+    },
+    {
+      "id": 116,
+      "start": 472.46,
+      "end": 478.98,
+      "text": "Seven, six, five, four, three, two, one."
+    },
+    {
+      "id": 117,
+      "start": 478.98,
+      "end": 480.86,
+      "text": "Let's do this."
+    },
+    {
+      "id": 118,
+      "start": 481.06,
+      "end": 516.38,
+      "text": "There we go."
+    },
+    {
+      "id": 119,
+      "start": 516.38,
+      "end": 518.78,
+      "text": "Hello, everyone."
+    },
+    {
+      "id": 120,
+      "start": 518.78,
+      "end": 521.02,
+      "text": "It's too early of a start for me."
+    },
+    {
+      "id": 121,
+      "start": 521.02,
+      "end": 522.9,
+      "text": "Making a coffee."
+    },
+    {
+      "id": 122,
+      "start": 522.9,
+      "end": 524.22,
+      "text": "So I was screaming at Pepito."
+    },
+    {
+      "id": 123,
+      "start": 524.22,
+      "end": 526.9,
+      "text": "Don't start the show."
+    },
+    {
+      "id": 124,
+      "start": 526.9,
+      "end": 527.9,
+      "text": "Making him look bad."
+    },
+    {
+      "id": 125,
+      "start": 527.9,
+      "end": 529.22,
+      "text": "That's actually his fault."
+    },
+    {
+      "id": 126,
+      "start": 529.22,
+      "end": 532.86,
+      "text": "Ooh."
+    },
+    {
+      "id": 127,
+      "start": 532.86,
+      "end": 533.7,
+      "text": "All right."
+    },
+    {
+      "id": 128,
+      "start": 533.7,
+      "end": 538.22,
+      "text": "We're missing some hot, missing hot inauguration"
+    },
+    {
+      "id": 129,
+      "start": 538.22,
+      "end": 539.66,
+      "text": "as we speak."
+    },
+    {
+      "id": 130,
+      "start": 539.66,
+      "end": 543.46,
+      "text": "So I think we got to jump right into it."
+    },
+    {
+      "id": 131,
+      "start": 543.46,
+      "end": 545.66,
+      "text": "I do accidental gray face, not today."
+    },
+    {
+      "id": 132,
+      "start": 545.66,
+      "end": 549.82,
+      "text": "Only Trump could do that."
+    },
+    {
+      "id": 133,
+      "start": 549.82,
+      "end": 555.5,
+      "text": "Only he can prevent the present, the bold vision"
+    },
+    {
+      "id": 134,
+      "start": 555.5,
+      "end": 559.5,
+      "text": "of once again making it OK to do gray face,"
+    },
+    {
+      "id": 135,
+      "start": 559.5,
+      "end": 563.05,
+      "text": "which I did not achieve."
+    },
+    {
+      "id": 136,
+      "start": 563.05,
+      "end": 567.96,
+      "text": "I have never achieved making that OK."
+    },
+    {
+      "id": 137,
+      "start": 567.96,
+      "end": 569.12,
+      "text": "Maybe we'll debut a new look."
+    },
+    {
+      "id": 138,
+      "start": 569.12,
+      "end": 573.56,
+      "text": "Let's show it off."
+    },
+    {
+      "id": 139,
+      "start": 573.56,
+      "end": 575.04,
+      "text": "Let's get right into it aggressively."
+    },
+    {
+      "id": 140,
+      "start": 575.04,
+      "end": 576.52,
+      "text": "Let's attack aggressively."
+    },
+    {
+      "id": 141,
+      "start": 576.52,
+      "end": 578.2,
+      "text": "We're already fucking missing it."
+    },
+    {
+      "id": 142,
+      "start": 578.2,
+      "end": 583.23,
+      "text": "And I'm doing a bad job already of covering this."
+    },
+    {
+      "id": 143,
+      "start": 583.23,
+      "end": 587.4,
+      "text": "That's his new look."
+    },
+    {
+      "id": 144,
+      "start": 587.4,
+      "end": 594.34,
+      "text": "The worst thing that could happen today."
+    },
+    {
+      "id": 145,
+      "start": 594.34,
+      "end": 596.02,
+      "text": "Probably the worst thing that will happen"
+    },
+    {
+      "id": 146,
+      "start": 596.02,
+      "end": 601.88,
+      "text": "is just an insane speech."
+    },
+    {
+      "id": 147,
+      "start": 601.88,
+      "end": 603.88,
+      "text": "But apparently the Trump is inaugurated."
+    },
+    {
+      "id": 148,
+      "start": 603.88,
+      "end": 604.72,
+      "text": "It's the worst thing."
+    },
+    {
+      "id": 149,
+      "start": 604.72,
+      "end": 606.24,
+      "text": "I do think that'll probably happen."
+    },
+    {
+      "id": 150,
+      "start": 606.24,
+      "end": 608.68,
+      "text": "Please be seated."
+    },
+    {
+      "id": 151,
+      "start": 608.68,
+      "end": 610.48,
+      "text": "Damn, I missed his death start entrance."
+    },
+    {
+      "id": 152,
+      "start": 610.48,
+      "end": 611.8,
+      "text": "Let's just run back really quick"
+    },
+    {
+      "id": 153,
+      "start": 611.8,
+      "end": 616.2,
+      "text": "to see our dear sweet boy walk out."
+    },
+    {
+      "id": 154,
+      "start": 616.2,
+      "end": 617.12,
+      "text": "How is he looking?"
+    },
+    {
+      "id": 155,
+      "start": 617.12,
+      "end": 618.04,
+      "text": "Farland."
+    },
+    {
+      "id": 156,
+      "start": 618.04,
+      "end": 620.0,
+      "text": "Senate Sergeant Ed Hanson."
+    },
+    {
+      "id": 157,
+      "start": 620.0,
+      "end": 624.81,
+      "text": "Senate Democratic."
+    },
+    {
+      "id": 158,
+      "start": 624.81,
+      "end": 628.97,
+      "text": "We're not quite live now because I ran it back."
+    },
+    {
+      "id": 159,
+      "start": 628.97,
+      "end": 634.92,
+      "text": "Because I missed President Trump walking out."
+    },
+    {
+      "id": 160,
+      "start": 634.92,
+      "end": 637.36,
+      "text": "Ladies and gentlemen, the president elect"
+    },
+    {
+      "id": 161,
+      "start": 637.36,
+      "end": 641.4,
+      "text": "of the United States, the honorable Donald John Trump."
+    },
+    {
+      "id": 162,
+      "start": 641.4,
+      "end": 643.64,
+      "text": "Oh, not that good."
+    },
+    {
+      "id": 163,
+      "start": 643.64,
+      "end": 649.8,
+      "text": "It should be pointed out this inauguration had $250 million"
+    },
+    {
+      "id": 164,
+      "start": 649.8,
+      "end": 652.68,
+      "text": "donated to it by various tech billionaires."
+    },
+    {
+      "id": 165,
+      "start": 652.68,
+      "end": 657.88,
+      "text": "And among others, Jesus, OK, someone"
+    },
+    {
+      "id": 166,
+      "start": 657.92,
+      "end": 660.16,
+      "text": "debuted a new look."
+    },
+    {
+      "id": 167,
+      "start": 660.16,
+      "end": 661.64,
+      "text": "Smooth criminal over there."
+    },
+    {
+      "id": 168,
+      "start": 661.64,
+      "end": 670.01,
+      "text": "Jesus."
+    },
+    {
+      "id": 169,
+      "start": 670.01,
+      "end": 671.25,
+      "text": "Oh, the cat cam is still on."
+    },
+    {
+      "id": 170,
+      "start": 671.25,
+      "end": 673.13,
+      "text": "Whoops."
+    },
+    {
+      "id": 171,
+      "start": 673.13,
+      "end": 680.49,
+      "text": "But it's also off."
+    },
+    {
+      "id": 172,
+      "start": 680.49,
+      "end": 682.97,
+      "text": "OK, anyway, now we'll go live."
+    },
+    {
+      "id": 173,
+      "start": 682.97,
+      "end": 684.69,
+      "text": "Now we're going live."
+    },
+    {
+      "id": 174,
+      "start": 684.69,
+      "end": 685.81,
+      "text": "Whatever's happening live."
+    },
+    {
+      "id": 175,
+      "start": 685.81,
+      "end": 686.33,
+      "text": "OK, great."
+    },
+    {
+      "id": 176,
+      "start": 686.33,
+      "end": 686.93,
+      "text": "Amy Cope."
+    },
+    {
+      "id": 177,
+      "start": 686.93,
+      "end": 689.89,
+      "text": "For the past year, I've chaired the inaugural ceremony committee."
+    },
+    {
+      "id": 178,
+      "start": 689.89,
+      "end": 691.21,
+      "text": "Amy Clobuchar for some reason."
+    },
+    {
+      "id": 179,
+      "start": 691.21,
+      "end": 694.61,
+      "text": "She's the leadership of Congress from both parties."
+    },
+    {
+      "id": 180,
+      "start": 694.61,
+      "end": 697.69,
+      "text": "We thank the committee and capital staff and law"
+    },
+    {
+      "id": 181,
+      "start": 697.69,
+      "end": 701.73,
+      "text": "enforcement who worked so hard over the last year,"
+    },
+    {
+      "id": 182,
+      "start": 701.73,
+      "end": 704.37,
+      "text": "and especially the last three days."
+    },
+    {
+      "id": 183,
+      "start": 704.37,
+      "end": 706.33,
+      "text": "You've done a beautiful job, and you"
+    },
+    {
+      "id": 184,
+      "start": 706.33,
+      "end": 710.53,
+      "text": "have shown grace under pressure."
+    },
+    {
+      "id": 185,
+      "start": 710.53,
+      "end": 712.61,
+      "text": "Amy cost $20 million herself."
+    },
+    {
+      "id": 186,
+      "start": 712.61,
+      "end": 715.25,
+      "text": "That was part of the $250 million package"
+    },
+    {
+      "id": 187,
+      "start": 715.25,
+      "end": 716.29,
+      "text": "to make this stream happen."
+    },
+    {
+      "id": 188,
+      "start": 716.29,
+      "end": 720.09,
+      "text": "Our theme this year is our enduring democracy."
+    },
+    {
+      "id": 189,
+      "start": 720.09,
+      "end": 723.13,
+      "text": "The presence of so many presidents and vice"
+    },
+    {
+      "id": 190,
+      "start": 723.13,
+      "end": 726.89,
+      "text": "presidents here today is truly a testament to that"
+    },
+    {
+      "id": 191,
+      "start": 726.89,
+      "end": 728.25,
+      "text": "and to the perseverance."
+    },
+    {
+      "id": 192,
+      "start": 728.25,
+      "end": 732.17,
+      "text": "We welcome President Biden and Dr. Biden."
+    },
+    {
+      "id": 193,
+      "start": 732.17,
+      "end": 735.53,
+      "text": "We welcome Vice President Harris and Doug Emhoff,"
+    },
+    {
+      "id": 194,
+      "start": 735.53,
+      "end": 740.33,
+      "text": "President Obama, President Clinton and Secretary Clinton,"
+    },
+    {
+      "id": 195,
+      "start": 740.33,
+      "end": 744.53,
+      "text": "President Bush and Laura Bush, Vice President Pence,"
+    },
+    {
+      "id": 196,
+      "start": 744.53,
+      "end": 747.81,
+      "text": "Vice President Quayle and Marilyn Quayle."
+    },
+    {
+      "id": 197,
+      "start": 747.81,
+      "end": 749.05,
+      "text": "What's happening?"
+    },
+    {
+      "id": 198,
+      "start": 749.05,
+      "end": 751.37,
+      "text": "I just woke up."
+    },
+    {
+      "id": 199,
+      "start": 751.37,
+      "end": 754.03,
+      "text": "Why are we awake right now?"
+    },
+    {
+      "id": 200,
+      "start": 754.03,
+      "end": 754.81,
+      "text": "Don't worry about it."
+    },
+    {
+      "id": 201,
+      "start": 755.13,
+      "end": 757.49,
+      "text": "The Trump and Vance families."
+    },
+    {
+      "id": 202,
+      "start": 757.49,
+      "end": 758.69,
+      "text": "Of course."
+    },
+    {
+      "id": 203,
+      "start": 758.69,
+      "end": 759.57,
+      "text": "Oh, look, I needed it."
+    },
+    {
+      "id": 204,
+      "start": 759.57,
+      "end": 764.61,
+      "text": "Marx, what will soon be 250 years of our democracy."
+    },
+    {
+      "id": 205,
+      "start": 764.61,
+      "end": 766.69,
+      "text": "You guys are already seeing double today."
+    },
+    {
+      "id": 206,
+      "start": 766.69,
+      "end": 769.97,
+      "text": "When leaders elevated by the will of the people"
+    },
+    {
+      "id": 207,
+      "start": 769.97,
+      "end": 773.05,
+      "text": "promise to be faithful to our Constitution,"
+    },
+    {
+      "id": 208,
+      "start": 773.05,
+      "end": 776.61,
+      "text": "to cherish and defend it, it is the moment"
+    },
+    {
+      "id": 209,
+      "start": 776.61,
+      "end": 779.33,
+      "text": "when they become, as we all should be,"
+    },
+    {
+      "id": 210,
+      "start": 779.33,
+      "end": 781.73,
+      "text": "the guardians of our country."
+    },
+    {
+      "id": 211,
+      "start": 781.77,
+      "end": 785.77,
+      "text": "Through war and peace, through adversity and prosperity,"
+    },
+    {
+      "id": 212,
+      "start": 785.77,
+      "end": 788.89,
+      "text": "we hold this inauguration every four years."
+    },
+    {
+      "id": 213,
+      "start": 788.89,
+      "end": 790.69,
+      "text": "How come I wasn't told to wake up?"
+    },
+    {
+      "id": 214,
+      "start": 790.69,
+      "end": 794.41,
+      "text": "On Martin Luther King Day, a further reminder."
+    },
+    {
+      "id": 215,
+      "start": 794.41,
+      "end": 795.69,
+      "text": "Why are they doing this so early?"
+    },
+    {
+      "id": 216,
+      "start": 795.69,
+      "end": 797.89,
+      "text": "To uphold the values enshrined in our constitution."
+    },
+    {
+      "id": 217,
+      "start": 797.89,
+      "end": 799.53,
+      "text": "It's only 1130 on the East Coast."
+    },
+    {
+      "id": 218,
+      "start": 799.53,
+      "end": 804.13,
+      "text": "The freedoms, the liberties, and as is inscribed"
+    },
+    {
+      "id": 219,
+      "start": 804.13,
+      "end": 805.61,
+      "text": "on the entrance of the United States Supreme Court."
+    },
+    {
+      "id": 220,
+      "start": 805.61,
+      "end": 807.49,
+      "text": "Look at those two beer enjoyers."
+    },
+    {
+      "id": 221,
+      "start": 807.49,
+      "end": 811.09,
+      "text": "Equal justice under law."
+    },
+    {
+      "id": 222,
+      "start": 811.09,
+      "end": 817.33,
+      "text": "Jesus, the Supreme Court justice is so fucking miserable."
+    },
+    {
+      "id": 223,
+      "start": 817.33,
+      "end": 821.41,
+      "text": "But what makes this moment more than a passing ceremony"
+    },
+    {
+      "id": 224,
+      "start": 821.41,
+      "end": 823.81,
+      "text": "is all who are watching it across the country."
+    },
+    {
+      "id": 225,
+      "start": 823.81,
+      "end": 825.77,
+      "text": "This is why people relate to Trump so hard,"
+    },
+    {
+      "id": 226,
+      "start": 825.77,
+      "end": 828.01,
+      "text": "is he looks bored as shit."
+    },
+    {
+      "id": 227,
+      "start": 828.01,
+      "end": 830.49,
+      "text": "Doing extraordinary things."
+    },
+    {
+      "id": 228,
+      "start": 830.49,
+      "end": 832.65,
+      "text": "President Kennedy, who at one point"
+    },
+    {
+      "id": 229,
+      "start": 832.65,
+      "end": 835.29,
+      "text": "worked as a senator in this building"
+    },
+    {
+      "id": 230,
+      "start": 835.29,
+      "end": 837.73,
+      "text": "and would often walk through this very rotunda."
+    },
+    {
+      "id": 231,
+      "start": 837.73,
+      "end": 839.17,
+      "text": "In case this is important stuff."
+    },
+    {
+      "id": 232,
+      "start": 839.17,
+      "end": 842.29,
+      "text": "In a democracy, every citizen, regardless"
+    },
+    {
+      "id": 233,
+      "start": 842.33,
+      "end": 845.29,
+      "text": "of interest in politics holds office."
+    },
+    {
+      "id": 234,
+      "start": 845.29,
+      "end": 848.49,
+      "text": "Every one of us is in a position of responsibility."
+    },
+    {
+      "id": 235,
+      "start": 848.49,
+      "end": 850.25,
+      "text": "Metalcast, thank you so much."
+    },
+    {
+      "id": 236,
+      "start": 850.25,
+      "end": 852.41,
+      "text": "Every donation you send today goes directly"
+    },
+    {
+      "id": 237,
+      "start": 852.41,
+      "end": 854.53,
+      "text": "to the inauguration fund already in progress."
+    },
+    {
+      "id": 238,
+      "start": 854.53,
+      "end": 859.05,
+      "text": "Not to seek out Malice as President Lincoln once reminded us,"
+    },
+    {
+      "id": 239,
+      "start": 859.05,
+      "end": 862.29,
+      "text": "but to view others with a generosity of spirit"
+    },
+    {
+      "id": 240,
+      "start": 862.29,
+      "end": 864.37,
+      "text": "despite our differences."
+    },
+    {
+      "id": 241,
+      "start": 864.37,
+      "end": 865.73,
+      "text": "Sorry about that, Metalcast."
+    },
+    {
+      "id": 242,
+      "start": 865.73,
+      "end": 867.29,
+      "text": "We should have warned you."
+    },
+    {
+      "id": 243,
+      "start": 867.29,
+      "end": 871.25,
+      "text": "Comes an obligation to stand our ground when we must"
+    },
+    {
+      "id": 244,
+      "start": 871.29,
+      "end": 874.01,
+      "text": "and find common ground when we can."
+    },
+    {
+      "id": 245,
+      "start": 874.89,
+      "end": 877.21,
+      "text": "With everything swirling around us,"
+    },
+    {
+      "id": 246,
+      "start": 877.21,
+      "end": 879.93,
+      "text": "the hot mess of division, it is on all of us"
+    },
+    {
+      "id": 247,
+      "start": 879.93,
+      "end": 882.81,
+      "text": "to close the incredible citizen writer"
+    },
+    {
+      "id": 248,
+      "start": 882.81,
+      "end": 885.77,
+      "text": "who just happened to be born in my state"
+    },
+    {
+      "id": 249,
+      "start": 885.77,
+      "end": 889.05,
+      "text": "to ensure that our nation's democracy"
+    },
+    {
+      "id": 250,
+      "start": 889.05,
+      "end": 891.85,
+      "text": "is our shelter from the storm."
+    },
+    {
+      "id": 251,
+      "start": 891.85,
+      "end": 894.57,
+      "text": "Oh my God, someone give her a fork."
+    },
+    {
+      "id": 252,
+      "start": 894.57,
+      "end": 897.77,
+      "text": "Chat was right, she needs to throw forks."
+    },
+    {
+      "id": 253,
+      "start": 897.77,
+      "end": 900.69,
+      "text": "In other countries that might be in a presidential palace"
+    },
+    {
+      "id": 254,
+      "start": 900.69,
+      "end": 902.33,
+      "text": "or a gilded executive office building."
+    },
+    {
+      "id": 255,
+      "start": 902.33,
+      "end": 904.25,
+      "text": "Give her a couple phones, a couple forks,"
+    },
+    {
+      "id": 256,
+      "start": 904.25,
+      "end": 906.29,
+      "text": "and a couple interns with some bullseyes."
+    },
+    {
+      "id": 257,
+      "start": 906.29,
+      "end": 907.93,
+      "text": "The people's house."
+    },
+    {
+      "id": 258,
+      "start": 907.93,
+      "end": 910.45,
+      "text": "It is a fitting reminder of the system"
+    },
+    {
+      "id": 259,
+      "start": 910.45,
+      "end": 914.09,
+      "text": "of challenges and balances that is the very foundation"
+    },
+    {
+      "id": 260,
+      "start": 914.09,
+      "end": 915.61,
+      "text": "of our government."
+    },
+    {
+      "id": 261,
+      "start": 915.61,
+      "end": 917.41,
+      "text": "Sunny, flaming Los Angeles."
+    },
+    {
+      "id": 262,
+      "start": 917.41,
+      "end": 919.93,
+      "text": "Three people branches of government."
+    },
+    {
+      "id": 263,
+      "start": 919.93,
+      "end": 923.17,
+      "text": "That is how for nearly 250 years"
+    },
+    {
+      "id": 264,
+      "start": 923.17,
+      "end": 926.13,
+      "text": "our great American experiment grounded"
+    },
+    {
+      "id": 265,
+      "start": 926.13,
+      "end": 928.57,
+      "text": "in the rule of law has endured."
+    },
+    {
+      "id": 266,
+      "start": 929.45,
+      "end": 933.65,
+      "text": "So, as we have not reached our new president"
+    },
+    {
+      "id": 267,
+      "start": 933.65,
+      "end": 936.57,
+      "text": "and vice president, let us remember"
+    },
+    {
+      "id": 268,
+      "start": 936.57,
+      "end": 940.37,
+      "text": "that the power of those in this room"
+    },
+    {
+      "id": 269,
+      "start": 940.37,
+      "end": 942.53,
+      "text": "comes from the people."
+    },
+    {
+      "id": 270,
+      "start": 942.53,
+      "end": 944.85,
+      "text": "The construction workers who build our country."
+    },
+    {
+      "id": 271,
+      "start": 944.85,
+      "end": 946.05,
+      "text": "This is the worst pro wrestling speech ever."
+    },
+    {
+      "id": 272,
+      "start": 946.05,
+      "end": 949.05,
+      "text": "The teachers and healthcare workers who nurture us."
+    },
+    {
+      "id": 273,
+      "start": 949.05,
+      "end": 950.17,
+      "text": "The troops depending on who we are."
+    },
+    {
+      "id": 274,
+      "start": 950.17,
+      "end": 953.01,
+      "text": "What, you guys aren't seeing that $250 million on screen?"
+    },
+    {
+      "id": 275,
+      "start": 953.01,
+      "end": 955.29,
+      "text": "The firefighters in Los Angeles"
+    },
+    {
+      "id": 276,
+      "start": 955.29,
+      "end": 957.89,
+      "text": "waiting themselves up in the line"
+    },
+    {
+      "id": 277,
+      "start": 957.89,
+      "end": 961.65,
+      "text": "for that family matters tirade."
+    },
+    {
+      "id": 278,
+      "start": 961.65,
+      "end": 962.49,
+      "text": "Where's Musk?"
+    },
+    {
+      "id": 279,
+      "start": 963.57,
+      "end": 964.89,
+      "text": "Oh, he's off to the side."
+    },
+    {
+      "id": 280,
+      "start": 966.49,
+      "end": 967.93,
+      "text": "He's right up there though."
+    },
+    {
+      "id": 281,
+      "start": 969.05,
+      "end": 972.33,
+      "text": "Our democracy's strength and grit"
+    },
+    {
+      "id": 282,
+      "start": 972.33,
+      "end": 974.13,
+      "text": "surprise he doesn't have his kid on his lap."
+    },
+    {
+      "id": 283,
+      "start": 974.13,
+      "end": 977.05,
+      "text": "There's, may God bless our nation."
+    },
+    {
+      "id": 284,
+      "start": 977.05,
+      "end": 978.53,
+      "text": "Jesus Christ, this Melania."
+    },
+    {
+      "id": 285,
+      "start": 979.89,
+      "end": 980.93,
+      "text": "And Barron."
+    },
+    {
+      "id": 286,
+      "start": 981.97,
+      "end": 984.17,
+      "text": "I thought he was that fucking podcaster."
+    },
+    {
+      "id": 287,
+      "start": 985.37,
+      "end": 986.57,
+      "text": "One who talks really low"
+    },
+    {
+      "id": 288,
+      "start": 987.05,
+      "end": 990.77,
+      "text": "and somehow claims to be a MIT genius."
+    },
+    {
+      "id": 289,
+      "start": 993.13,
+      "end": 994.97,
+      "text": "Today we're reviewing this podium"
+    },
+    {
+      "id": 290,
+      "start": 994.97,
+      "end": 999.3,
+      "text": "about inaugurating President Donald Trump."
+    },
+    {
+      "id": 291,
+      "start": 999.3,
+      "end": 1000.46,
+      "text": "Good afternoon."
+    },
+    {
+      "id": 292,
+      "start": 1001.86,
+      "end": 1006.22,
+      "text": "Endurance through the years is the ultimate test."
+    },
+    {
+      "id": 293,
+      "start": 1006.22,
+      "end": 1010.46,
+      "text": "To persevere and honor this is the truest measure"
+    },
+    {
+      "id": 294,
+      "start": 1010.46,
+      "end": 1011.22,
+      "text": "of an idea."
+    },
+    {
+      "id": 295,
+      "start": 1011.22,
+      "end": 1012.26,
+      "text": "Measure."
+    },
+    {
+      "id": 296,
+      "start": 1012.26,
+      "end": 1013.7,
+      "text": "An institution."
+    },
+    {
+      "id": 297,
+      "start": 1013.7,
+      "end": 1014.54,
+      "text": "Did I wear in the measures?"
+    },
+    {
+      "id": 298,
+      "start": 1014.54,
+      "end": 1015.54,
+      "text": "And a nation."
+    },
+    {
+      "id": 299,
+      "start": 1016.38,
+      "end": 1019.14,
+      "text": "Our founders wrote the constitution"
+    },
+    {
+      "id": 300,
+      "start": 1019.14,
+      "end": 1023.46,
+      "text": "so that America could withstand all the twists"
+    },
+    {
+      "id": 301,
+      "start": 1023.46,
+      "end": 1024.3,
+      "text": "and turns of time."
+    },
+    {
+      "id": 302,
+      "start": 1024.3,
+      "end": 1025.22,
+      "text": "I didn't know I was gonna have to take a fucking"
+    },
+    {
+      "id": 303,
+      "start": 1025.22,
+      "end": 1026.14,
+      "text": "social studies class today."
+    },
+    {
+      "id": 304,
+      "start": 1026.14,
+      "end": 1028.1,
+      "text": "They wrote it to guide us."
+    },
+    {
+      "id": 305,
+      "start": 1028.1,
+      "end": 1033.1,
+      "text": "And to preserve forever our right of life, liberty,"
+    },
+    {
+      "id": 306,
+      "start": 1033.86,
+      "end": 1036.42,
+      "text": "and the pursuit of happiness."
+    },
+    {
+      "id": 307,
+      "start": 1036.42,
+      "end": 1039.5,
+      "text": "But as much as the truths and principles"
+    },
+    {
+      "id": 308,
+      "start": 1039.5,
+      "end": 1044.02,
+      "text": "in our constitution remain the same,"
+    },
+    {
+      "id": 309,
+      "start": 1044.06,
+      "end": 1047.78,
+      "text": "our democracy promises the American people"
+    },
+    {
+      "id": 310,
+      "start": 1047.78,
+      "end": 1049.62,
+      "text": "the power to change."
+    },
+    {
+      "id": 311,
+      "start": 1049.62,
+      "end": 1050.46,
+      "text": "Just bring out Trump."
+    },
+    {
+      "id": 312,
+      "start": 1050.46,
+      "end": 1053.7,
+      "text": "But to chart their own destiny."
+    },
+    {
+      "id": 313,
+      "start": 1053.7,
+      "end": 1054.94,
+      "text": "That's the beauty."
+    },
+    {
+      "id": 314,
+      "start": 1054.94,
+      "end": 1056.78,
+      "text": "The democratic process is making me more"
+    },
+    {
+      "id": 315,
+      "start": 1056.78,
+      "end": 1059.42,
+      "text": "in favor of democracy."
+    },
+    {
+      "id": 316,
+      "start": 1059.42,
+      "end": 1062.66,
+      "text": "It allows the importance of permanence"
+    },
+    {
+      "id": 317,
+      "start": 1062.66,
+      "end": 1067.06,
+      "text": "of permanence of a nation through change."
+    },
+    {
+      "id": 318,
+      "start": 1067.06,
+      "end": 1070.98,
+      "text": "It allows nations like our United States"
+    },
+    {
+      "id": 319,
+      "start": 1071.26,
+      "end": 1074.02,
+      "text": "to avoid the obstacles if you wanna get drunk"
+    },
+    {
+      "id": 320,
+      "start": 1074.02,
+      "end": 1076.82,
+      "text": "and to seize the opportunities"
+    },
+    {
+      "id": 321,
+      "start": 1076.82,
+      "end": 1079.78,
+      "text": "that God has placed before us."
+    },
+    {
+      "id": 322,
+      "start": 1079.78,
+      "end": 1084.46,
+      "text": "All was saying true to our founding principles."
+    },
+    {
+      "id": 323,
+      "start": 1084.46,
+      "end": 1089.46,
+      "text": "Today is our country's 60th inauguration ceremony."
+    },
+    {
+      "id": 324,
+      "start": 1089.78,
+      "end": 1090.62,
+      "text": "And maybe our last."
+    },
+    {
+      "id": 325,
+      "start": 1090.62,
+      "end": 1092.02,
+      "text": "Like all the others before it."
+    },
+    {
+      "id": 326,
+      "start": 1092.02,
+      "end": 1095.9,
+      "text": "It is a celebration of our right to set out"
+    },
+    {
+      "id": 327,
+      "start": 1095.9,
+      "end": 1097.9,
+      "text": "uniquely American course."
+    },
+    {
+      "id": 328,
+      "start": 1097.9,
+      "end": 1099.34,
+      "text": "Trump might make come true."
+    },
+    {
+      "id": 329,
+      "start": 1099.34,
+      "end": 1102.66,
+      "text": "The last several years have been trying at times"
+    },
+    {
+      "id": 330,
+      "start": 1102.66,
+      "end": 1105.74,
+      "text": "for many, many Americans."
+    },
+    {
+      "id": 331,
+      "start": 1105.74,
+      "end": 1107.7,
+      "text": "And also for the nations of the free world."
+    },
+    {
+      "id": 332,
+      "start": 1107.7,
+      "end": 1110.7,
+      "text": "Abby Grendel, this is about a smooth transition."
+    },
+    {
+      "id": 333,
+      "start": 1110.7,
+      "end": 1112.66,
+      "text": "Strive to lead."
+    },
+    {
+      "id": 334,
+      "start": 1112.66,
+      "end": 1114.34,
+      "text": "For the man that they called the New Hitler."
+    },
+    {
+      "id": 335,
+      "start": 1114.34,
+      "end": 1117.78,
+      "text": "And a fascist and an exigent threat to democracy."
+    },
+    {
+      "id": 336,
+      "start": 1117.78,
+      "end": 1119.28,
+      "text": "Towards greatness."
+    },
+    {
+      "id": 337,
+      "start": 1119.28,
+      "end": 1122.98,
+      "text": "The secure, safe, and prosperous future."
+    },
+    {
+      "id": 338,
+      "start": 1122.98,
+      "end": 1123.98,
+      "text": "Look at Kamala."
+    },
+    {
+      "id": 339,
+      "start": 1123.98,
+      "end": 1127.34,
+      "text": "That our founders envisioned for all of us."
+    },
+    {
+      "id": 340,
+      "start": 1127.34,
+      "end": 1128.62,
+      "text": "Look at poor, sweet Kamala."
+    },
+    {
+      "id": 341,
+      "start": 1128.82,
+      "end": 1133.82,
+      "text": "Today we celebrate not only their decision to do so,"
+    },
+    {
+      "id": 342,
+      "start": 1134.22,
+      "end": 1139.22,
+      "text": "but also the simple right and wisdom of a free people"
+    },
+    {
+      "id": 343,
+      "start": 1140.34,
+      "end": 1145.34,
+      "text": "to make their own choice so that their nation might endure."
+    },
+    {
+      "id": 344,
+      "start": 1146.74,
+      "end": 1151.6,
+      "text": "And now allow me to welcome Archbishop Timothy Dolan"
+    },
+    {
+      "id": 345,
+      "start": 1151.6,
+      "end": 1153.9,
+      "text": "and Reverend Franklin Graham"
+    },
+    {
+      "id": 346,
+      "start": 1153.9,
+      "end": 1156.7,
+      "text": "who will deliver our invocation."
+    },
+    {
+      "id": 347,
+      "start": 1156.7,
+      "end": 1157.82,
+      "text": "Please rise."
+    },
+    {
+      "id": 348,
+      "start": 1159.06,
+      "end": 1166.42,
+      "text": "I was adding some music for them."
+    },
+    {
+      "id": 349,
+      "start": 1167.86,
+      "end": 1169.54,
+      "text": "Just a little solemn otherwise."
+    },
+    {
+      "id": 350,
+      "start": 1169.54,
+      "end": 1170.62,
+      "text": "Be still."
+    },
+    {
+      "id": 351,
+      "start": 1170.62,
+      "end": 1171.46,
+      "text": "Okay, there we go."
+    },
+    {
+      "id": 352,
+      "start": 1171.46,
+      "end": 1173.34,
+      "text": "And know that I am God."
+    },
+    {
+      "id": 353,
+      "start": 1173.34,
+      "end": 1177.54,
+      "text": "Supreme among the nations, supreme on the earth."
+    },
+    {
+      "id": 354,
+      "start": 1177.54,
+      "end": 1178.54,
+      "text": "Look at this man."
+    },
+    {
+      "id": 355,
+      "start": 1179.82,
+      "end": 1182.58,
+      "text": "We're dealing with God himself right now."
+    },
+    {
+      "id": 356,
+      "start": 1182.58,
+      "end": 1184.98,
+      "text": "General George Washington on the seas."
+    },
+    {
+      "id": 357,
+      "start": 1184.98,
+      "end": 1185.98,
+      "text": "Oh no."
+    },
+    {
+      "id": 358,
+      "start": 1185.98,
+      "end": 1191.1,
+      "text": "Recalling Abraham Lincoln at his second inaugural"
+    },
+    {
+      "id": 359,
+      "start": 1191.14,
+      "end": 1193.94,
+      "text": "with malice toward none, with charity for all,"
+    },
+    {
+      "id": 360,
+      "start": 1193.94,
+      "end": 1197.42,
+      "text": "with firmness in the right as God gives us to see the right."
+    },
+    {
+      "id": 361,
+      "start": 1198.62,
+      "end": 1199.46,
+      "text": "We're getting Amy."
+    },
+    {
+      "id": 362,
+      "start": 1199.46,
+      "end": 1200.94,
+      "text": "General George, he's cracking up."
+    },
+    {
+      "id": 363,
+      "start": 1200.94,
+      "end": 1201.78,
+      "text": "He's cracking up."
+    },
+    {
+      "id": 364,
+      "start": 1201.78,
+      "end": 1204.66,
+      "text": "To his soldiers as they began the battle of the bulge"
+    },
+    {
+      "id": 365,
+      "start": 1204.66,
+      "end": 1205.98,
+      "text": "eight decades ago."
+    },
+    {
+      "id": 366,
+      "start": 1205.98,
+      "end": 1209.14,
+      "text": "Pray, pray when fighting, pray alone,"
+    },
+    {
+      "id": 367,
+      "start": 1209.14,
+      "end": 1212.78,
+      "text": "pray with others, pray by night, pray by day."
+    },
+    {
+      "id": 368,
+      "start": 1212.78,
+      "end": 1214.58,
+      "text": "They're just clipping Biden in here."
+    },
+    {
+      "id": 369,
+      "start": 1214.58,
+      "end": 1216.7,
+      "text": "The birthday of the reverend,"
+    },
+    {
+      "id": 370,
+      "start": 1216.7,
+      "end": 1219.46,
+      "text": "Martin Luther King who warned without God,"
+    },
+    {
+      "id": 371,
+      "start": 1219.46,
+      "end": 1221.86,
+      "text": "our efforts turn to ashes."
+    },
+    {
+      "id": 372,
+      "start": 1222.86,
+      "end": 1224.62,
+      "text": "Sinister death, accurate."
+    },
+    {
+      "id": 373,
+      "start": 1224.62,
+      "end": 1228.38,
+      "text": "Bless citizens of this one nation under God,"
+    },
+    {
+      "id": 374,
+      "start": 1228.38,
+      "end": 1231.3,
+      "text": "humbled by our claim that in God we trust."
+    },
+    {
+      "id": 375,
+      "start": 1231.3,
+      "end": 1232.14,
+      "text": "This guy likes it."
+    },
+    {
+      "id": 376,
+      "start": 1232.14,
+      "end": 1234.42,
+      "text": "Gather indeed this inauguration day to pray."
+    },
+    {
+      "id": 377,
+      "start": 1234.42,
+      "end": 1235.98,
+      "text": "Are they in Italy?"
+    },
+    {
+      "id": 378,
+      "start": 1235.98,
+      "end": 1238.26,
+      "text": "For our president, Donald J. Trump is family."
+    },
+    {
+      "id": 379,
+      "start": 1238.26,
+      "end": 1239.58,
+      "text": "Is this the 17 Chapel?"
+    },
+    {
+      "id": 380,
+      "start": 1239.58,
+      "end": 1241.74,
+      "text": "His advisors, his cabinet, his aspirations."
+    },
+    {
+      "id": 381,
+      "start": 1241.74,
+      "end": 1242.74,
+      "text": "So the 17 Chapel room."
+    },
+    {
+      "id": 382,
+      "start": 1242.74,
+      "end": 1244.42,
+      "text": "His vice president."
+    },
+    {
+      "id": 383,
+      "start": 1244.42,
+      "end": 1247.26,
+      "text": "For the Lord's blessings upon Joseph Biden."
+    },
+    {
+      "id": 384,
+      "start": 1248.18,
+      "end": 1249.18,
+      "text": "For our men and women."
+    },
+    {
+      "id": 385,
+      "start": 1249.22,
+      "end": 1250.18,
+      "text": "Yeah, that's where they are, Chet."
+    },
+    {
+      "id": 386,
+      "start": 1250.18,
+      "end": 1251.1,
+      "text": "For each other."
+    },
+    {
+      "id": 387,
+      "start": 1251.1,
+      "end": 1251.94,
+      "text": "Called it."
+    },
+    {
+      "id": 388,
+      "start": 1251.94,
+      "end": 1254.58,
+      "text": "Whose hopes are stoked this new year,"
+    },
+    {
+      "id": 389,
+      "start": 1254.58,
+      "end": 1256.46,
+      "text": "this inauguration day."
+    },
+    {
+      "id": 390,
+      "start": 1257.7,
+      "end": 1260.26,
+      "text": "We cannot air and relying upon that prayer"
+    },
+    {
+      "id": 391,
+      "start": 1260.26,
+      "end": 1261.1,
+      "text": "from the Bible."
+    },
+    {
+      "id": 392,
+      "start": 1261.1,
+      "end": 1262.46,
+      "text": "Those paintings must have been really expensive."
+    },
+    {
+      "id": 393,
+      "start": 1262.46,
+      "end": 1266.22,
+      "text": "On which our president will soon place his hand in oath."
+    },
+    {
+      "id": 394,
+      "start": 1266.22,
+      "end": 1268.46,
+      "text": "As we make our own the supplications"
+    },
+    {
+      "id": 395,
+      "start": 1268.46,
+      "end": 1270.06,
+      "text": "of King Solomon's wisdom."
+    },
+    {
+      "id": 396,
+      "start": 1271.34,
+      "end": 1273.18,
+      "text": "As he began his governance."
+    },
+    {
+      "id": 397,
+      "start": 1274.42,
+      "end": 1275.66,
+      "text": "God of our fathers."
+    },
+    {
+      "id": 398,
+      "start": 1275.66,
+      "end": 1278.9,
+      "text": "In your wisdom you set man to govern your creatures."
+    },
+    {
+      "id": 399,
+      "start": 1279.1,
+      "end": 1279.94,
+      "text": "This little lady."
+    },
+    {
+      "id": 400,
+      "start": 1279.94,
+      "end": 1281.42,
+      "text": "To govern your holiness and justice."
+    },
+    {
+      "id": 401,
+      "start": 1281.42,
+      "end": 1283.66,
+      "text": "To render justice with integrity."
+    },
+    {
+      "id": 402,
+      "start": 1283.66,
+      "end": 1286.38,
+      "text": "Give our leader wisdom."
+    },
+    {
+      "id": 403,
+      "start": 1286.38,
+      "end": 1288.62,
+      "text": "For he is your servant aware of your"
+    },
+    {
+      "id": 404,
+      "start": 1288.62,
+      "end": 1291.18,
+      "text": "up-to-own weakness and brevity of life."
+    },
+    {
+      "id": 405,
+      "start": 1291.18,
+      "end": 1293.86,
+      "text": "This is why they do this early on West Coast time."
+    },
+    {
+      "id": 406,
+      "start": 1293.86,
+      "end": 1297.3,
+      "text": "So that people like you don't have to watch your case."
+    },
+    {
+      "id": 407,
+      "start": 1297.3,
+      "end": 1298.26,
+      "text": "I've made a mistake."
+    },
+    {
+      "id": 408,
+      "start": 1298.26,
+      "end": 1301.74,
+      "text": "Wisdom from heavens that she may be with him."
+    },
+    {
+      "id": 409,
+      "start": 1301.74,
+      "end": 1303.22,
+      "text": "That he may know your design."
+    },
+    {
+      "id": 410,
+      "start": 1303.22,
+      "end": 1304.22,
+      "text": "There he is."
+    },
+    {
+      "id": 411,
+      "start": 1304.22,
+      "end": 1305.86,
+      "text": "Lex Freedman is who I'm thinking of."
+    },
+    {
+      "id": 412,
+      "start": 1305.86,
+      "end": 1307.22,
+      "text": "That's Lex Freedman."
+    },
+    {
+      "id": 413,
+      "start": 1307.22,
+      "end": 1308.66,
+      "text": "He's lost some weight, but."
+    },
+    {
+      "id": 414,
+      "start": 1309.02,
+      "end": 1309.86,
+      "text": "He's gained some hair."
+    },
+    {
+      "id": 415,
+      "start": 1309.86,
+      "end": 1311.94,
+      "text": "Mentor every flaw."
+    },
+    {
+      "id": 416,
+      "start": 1311.94,
+      "end": 1314.62,
+      "text": "You are the guy who we trust who lives and reigns."
+    },
+    {
+      "id": 417,
+      "start": 1314.62,
+      "end": 1316.06,
+      "text": "He mostly just looks tall."
+    },
+    {
+      "id": 418,
+      "start": 1316.06,
+      "end": 1316.9,
+      "text": "Amen."
+    },
+    {
+      "id": 419,
+      "start": 1318.14,
+      "end": 1319.14,
+      "text": "Damn Lex Freedman."
+    },
+    {
+      "id": 420,
+      "start": 1319.14,
+      "end": 1321.22,
+      "text": "So tall and younger."
+    },
+    {
+      "id": 421,
+      "start": 1322.7,
+      "end": 1325.14,
+      "text": "That's what a successful podcast will do for you."
+    },
+    {
+      "id": 422,
+      "start": 1326.46,
+      "end": 1328.22,
+      "text": "Who the fuck is this?"
+    },
+    {
+      "id": 423,
+      "start": 1328.22,
+      "end": 1329.06,
+      "text": "Mr. President."
+    },
+    {
+      "id": 424,
+      "start": 1329.06,
+      "end": 1329.9,
+      "text": "You don't know this guy?"
+    },
+    {
+      "id": 425,
+      "start": 1329.9,
+      "end": 1332.02,
+      "text": "The last four years."
+    },
+    {
+      "id": 426,
+      "start": 1332.02,
+      "end": 1334.9,
+      "text": "There are times I'm sure you thought it was pretty dark."
+    },
+    {
+      "id": 427,
+      "start": 1335.98,
+      "end": 1338.02,
+      "text": "But not anymore America."
+    },
+    {
+      "id": 428,
+      "start": 1339.02,
+      "end": 1341.18,
+      "text": "We praise him and give him glory."
+    },
+    {
+      "id": 429,
+      "start": 1341.18,
+      "end": 1342.62,
+      "text": "We're done with the prayers."
+    },
+    {
+      "id": 430,
+      "start": 1343.9,
+      "end": 1349.17,
+      "text": "We had the prayer section already."
+    },
+    {
+      "id": 431,
+      "start": 1349.17,
+      "end": 1350.01,
+      "text": "Damn."
+    },
+    {
+      "id": 432,
+      "start": 1351.45,
+      "end": 1352.37,
+      "text": "Let us pray."
+    },
+    {
+      "id": 433,
+      "start": 1352.37,
+      "end": 1353.97,
+      "text": "Another reverend?"
+    },
+    {
+      "id": 434,
+      "start": 1354.97,
+      "end": 1356.85,
+      "text": "Our father and our God that has said,"
+    },
+    {
+      "id": 435,
+      "start": 1356.85,
+      "end": 1358.57,
+      "text": "blessed is the nation."
+    },
+    {
+      "id": 436,
+      "start": 1358.57,
+      "end": 1359.89,
+      "text": "All right, I'll pump this up too."
+    },
+    {
+      "id": 437,
+      "start": 1359.89,
+      "end": 1361.65,
+      "text": "That God is the Lord."
+    },
+    {
+      "id": 438,
+      "start": 1361.65,
+      "end": 1363.25,
+      "text": "As the prophet Daniel prayed,"
+    },
+    {
+      "id": 439,
+      "start": 1363.25,
+      "end": 1366.69,
+      "text": "blessed be the name of God forever and ever."
+    },
+    {
+      "id": 440,
+      "start": 1366.69,
+      "end": 1369.69,
+      "text": "For wisdom and might are his."
+    },
+    {
+      "id": 441,
+      "start": 1369.73,
+      "end": 1372.53,
+      "text": "He changes the times and the seasons."
+    },
+    {
+      "id": 442,
+      "start": 1372.53,
+      "end": 1374.29,
+      "text": "He removes kings."
+    },
+    {
+      "id": 443,
+      "start": 1374.29,
+      "end": 1376.25,
+      "text": "He raises up kings."
+    },
+    {
+      "id": 444,
+      "start": 1376.25,
+      "end": 1377.69,
+      "text": "He gives wisdom to the wise."
+    },
+    {
+      "id": 445,
+      "start": 1377.69,
+      "end": 1378.53,
+      "text": "He could have just played this."
+    },
+    {
+      "id": 446,
+      "start": 1378.53,
+      "end": 1381.21,
+      "text": "The knowledge to those who have understanding."
+    },
+    {
+      "id": 447,
+      "start": 1381.21,
+      "end": 1382.53,
+      "text": "Our father today."
+    },
+    {
+      "id": 448,
+      "start": 1384.21,
+      "end": 1386.89,
+      "text": "As President Donald J. Trump takes the oath of office"
+    },
+    {
+      "id": 449,
+      "start": 1386.89,
+      "end": 1389.97,
+      "text": "once again, we come to say thank you,"
+    },
+    {
+      "id": 450,
+      "start": 1389.97,
+      "end": 1391.25,
+      "text": "oh Lord our God."
+    },
+    {
+      "id": 451,
+      "start": 1392.33,
+      "end": 1394.69,
+      "text": "Father when Donald Trump's enemies"
+    },
+    {
+      "id": 452,
+      "start": 1394.69,
+      "end": 1396.93,
+      "text": "thought he would be down and out,"
+    },
+    {
+      "id": 453,
+      "start": 1396.93,
+      "end": 1399.85,
+      "text": "you and you alone saved his life"
+    },
+    {
+      "id": 454,
+      "start": 1399.85,
+      "end": 1401.29,
+      "text": "and raised him up with strength."
+    },
+    {
+      "id": 455,
+      "start": 1401.29,
+      "end": 1403.41,
+      "text": "Oh yeah, he got assassinated or attempted to."
+    },
+    {
+      "id": 456,
+      "start": 1403.41,
+      "end": 1404.25,
+      "text": "Remember that?"
+    },
+    {
+      "id": 457,
+      "start": 1404.25,
+      "end": 1405.09,
+      "text": "Your mighty hand."
+    },
+    {
+      "id": 458,
+      "start": 1405.09,
+      "end": 1406.09,
+      "text": "I kind of forgot about it."
+    },
+    {
+      "id": 459,
+      "start": 1406.09,
+      "end": 1408.09,
+      "text": "We pray for President Trump"
+    },
+    {
+      "id": 460,
+      "start": 1408.09,
+      "end": 1411.73,
+      "text": "that you'll watch over, protect, guide, direct him."
+    },
+    {
+      "id": 461,
+      "start": 1411.73,
+      "end": 1414.53,
+      "text": "Give him your wisdom from your throne."
+    },
+    {
+      "id": 462,
+      "start": 1416.97,
+      "end": 1417.81,
+      "text": "Hey Obama."
+    },
+    {
+      "id": 463,
+      "start": 1417.81,
+      "end": 1419.77,
+      "text": "We say to bless him and that our nation"
+    },
+    {
+      "id": 464,
+      "start": 1419.77,
+      "end": 1422.61,
+      "text": "has ever been a better time to say thanks Obama."
+    },
+    {
+      "id": 465,
+      "start": 1422.61,
+      "end": 1425.57,
+      "text": "We also ask that you have blessed and protect Melania"
+    },
+    {
+      "id": 466,
+      "start": 1425.57,
+      "end": 1427.25,
+      "text": "as First Lady."
+    },
+    {
+      "id": 467,
+      "start": 1427.25,
+      "end": 1431.25,
+      "text": "We thank you for the beauty, the warmth and grace"
+    },
+    {
+      "id": 468,
+      "start": 1431.25,
+      "end": 1434.41,
+      "text": "that she shows not only to this nation"
+    },
+    {
+      "id": 469,
+      "start": 1434.41,
+      "end": 1435.69,
+      "text": "but to the whole world."
+    },
+    {
+      "id": 470,
+      "start": 1437.37,
+      "end": 1440.93,
+      "text": "We thank you for Vice President-elect J.D. Vance"
+    },
+    {
+      "id": 471,
+      "start": 1440.93,
+      "end": 1443.57,
+      "text": "and his wife Usha and their young family."
+    },
+    {
+      "id": 472,
+      "start": 1443.57,
+      "end": 1444.93,
+      "text": "It's amazing you got to do that"
+    },
+    {
+      "id": 473,
+      "start": 1444.93,
+      "end": 1446.29,
+      "text": "with a straight face."
+    },
+    {
+      "id": 474,
+      "start": 1446.29,
+      "end": 1448.29,
+      "text": "The case they're thanking you."
+    },
+    {
+      "id": 475,
+      "start": 1448.29,
+      "end": 1451.09,
+      "text": "Hold up his arms like Aaron held up arms of Moses"
+    },
+    {
+      "id": 476,
+      "start": 1451.09,
+      "end": 1453.13,
+      "text": "in the midst of battle."
+    },
+    {
+      "id": 477,
+      "start": 1453.17,
+      "end": 1455.97,
+      "text": "The Prophet Samuel reminded the people."
+    },
+    {
+      "id": 478,
+      "start": 1455.97,
+      "end": 1459.69,
+      "text": "It was you that brought them up from the land of Egypt."
+    },
+    {
+      "id": 479,
+      "start": 1459.69,
+      "end": 1461.73,
+      "text": "And he said now, stand still."
+    },
+    {
+      "id": 480,
+      "start": 1461.73,
+      "end": 1463.85,
+      "text": "I feel like I'm looking at my little black book"
+    },
+    {
+      "id": 481,
+      "start": 1463.85,
+      "end": 1464.85,
+      "text": "all in one room."
+    },
+    {
+      "id": 482,
+      "start": 1464.85,
+      "end": 1465.85,
+      "text": "This is crazy."
+    },
+    {
+      "id": 483,
+      "start": 1466.85,
+      "end": 1467.69,
+      "text": "This is a lot for you."
+    },
+    {
+      "id": 484,
+      "start": 1467.69,
+      "end": 1469.13,
+      "text": "I'm sure Liliana."
+    },
+    {
+      "id": 485,
+      "start": 1469.13,
+      "end": 1469.97,
+      "text": "Very much."
+    },
+    {
+      "id": 486,
+      "start": 1469.97,
+      "end": 1471.97,
+      "text": "A lot of financial opportunity."
+    },
+    {
+      "id": 487,
+      "start": 1471.97,
+      "end": 1474.25,
+      "text": "Thank you for the protection, the bounty,"
+    },
+    {
+      "id": 488,
+      "start": 1474.25,
+      "end": 1479.66,
+      "text": "the freedoms that we so enjoy."
+    },
+    {
+      "id": 489,
+      "start": 1479.66,
+      "end": 1483.26,
+      "text": "We remember to keep our eyes fixed on you."
+    },
+    {
+      "id": 490,
+      "start": 1484.14,
+      "end": 1487.46,
+      "text": "And may our hearts be inclined to your voice."
+    },
+    {
+      "id": 491,
+      "start": 1487.46,
+      "end": 1490.38,
+      "text": "We know that America can never be great again"
+    },
+    {
+      "id": 492,
+      "start": 1490.38,
+      "end": 1492.7,
+      "text": "if we turn our backs on you."
+    },
+    {
+      "id": 493,
+      "start": 1492.7,
+      "end": 1494.34,
+      "text": "We ask for your help."
+    },
+    {
+      "id": 494,
+      "start": 1494.34,
+      "end": 1497.66,
+      "text": "We pray all of this in the name of the King of Cambridge,"
+    },
+    {
+      "id": 495,
+      "start": 1497.66,
+      "end": 1501.3,
+      "text": "the Lord of Lords, your son, my savior"
+    },
+    {
+      "id": 496,
+      "start": 1501.3,
+      "end": 1503.58,
+      "text": "and my redeemer, Jesus Christ, amen."
+    },
+    {
+      "id": 497,
+      "start": 1505.06,
+      "end": 1506.86,
+      "text": "Ladies and gentlemen, please welcome"
+    },
+    {
+      "id": 498,
+      "start": 1506.86,
+      "end": 1508.42,
+      "text": "Associate Justice Kavanaugh"
+    },
+    {
+      "id": 499,
+      "start": 1508.42,
+      "end": 1511.42,
+      "text": "to administer the Vice Presidential Oath of Office."
+    },
+    {
+      "id": 500,
+      "start": 1512.42,
+      "end": 1540.78,
+      "text": "Taking their time."
+    },
+    {
+      "id": 501,
+      "start": 1540.78,
+      "end": 1554.35,
+      "text": "Raise your right hand and repeat after me."
+    },
+    {
+      "id": 502,
+      "start": 1555.91,
+      "end": 1559.59,
+      "text": "I, James David Vance, do solemnly swear."
+    },
+    {
+      "id": 503,
+      "start": 1559.59,
+      "end": 1562.63,
+      "text": "I, James David Vance, do solemnly swear"
+    },
+    {
+      "id": 504,
+      "start": 1562.63,
+      "end": 1564.75,
+      "text": "that I will support and defend"
+    },
+    {
+      "id": 505,
+      "start": 1564.75,
+      "end": 1567.11,
+      "text": "the Constitution of the United States."
+    },
+    {
+      "id": 506,
+      "start": 1567.11,
+      "end": 1568.87,
+      "text": "That I will support and defend"
+    },
+    {
+      "id": 507,
+      "start": 1568.87,
+      "end": 1570.23,
+      "text": "the Constitution of the United States."
+    },
+    {
+      "id": 508,
+      "start": 1570.23,
+      "end": 1571.87,
+      "text": "They couldn't even make JD Vance."
+    },
+    {
+      "id": 509,
+      "start": 1571.87,
+      "end": 1573.87,
+      "text": "All enemies, foreign and domestic."
+    },
+    {
+      "id": 510,
+      "start": 1573.87,
+      "end": 1574.87,
+      "text": "You just get to pick up, Mike."
+    },
+    {
+      "id": 511,
+      "start": 1574.87,
+      "end": 1576.87,
+      "text": "All enemies, foreign and domestic."
+    },
+    {
+      "id": 512,
+      "start": 1577.03,
+      "end": 1578.59,
+      "text": "It's not a case. I know that must be upsetting"
+    },
+    {
+      "id": 513,
+      "start": 1578.59,
+      "end": 1580.79,
+      "text": "for you to not be Mike appropriately."
+    },
+    {
+      "id": 514,
+      "start": 1580.79,
+      "end": 1582.15,
+      "text": "I'm right next to you."
+    },
+    {
+      "id": 515,
+      "start": 1582.15,
+      "end": 1583.47,
+      "text": "How am I him?"
+    },
+    {
+      "id": 516,
+      "start": 1583.47,
+      "end": 1585.19,
+      "text": "That's a great question, but you are."
+    },
+    {
+      "id": 517,
+      "start": 1585.19,
+      "end": 1587.23,
+      "text": "Did I take this obligation freely?"
+    },
+    {
+      "id": 518,
+      "start": 1587.23,
+      "end": 1589.15,
+      "text": "Did I take this obligation freely"
+    },
+    {
+      "id": 519,
+      "start": 1589.15,
+      "end": 1590.15,
+      "text": "without any national reservation?"
+    },
+    {
+      "id": 520,
+      "start": 1590.15,
+      "end": 1591.87,
+      "text": "Who was this lady?"
+    },
+    {
+      "id": 521,
+      "start": 1591.87,
+      "end": 1593.75,
+      "text": "Who was this little lady in the red sweater?"
+    },
+    {
+      "id": 522,
+      "start": 1593.75,
+      "end": 1595.27,
+      "text": "For a purpose of evasion."
+    },
+    {
+      "id": 523,
+      "start": 1595.27,
+      "end": 1596.75,
+      "text": "For a purpose of evasion."
+    },
+    {
+      "id": 524,
+      "start": 1596.75,
+      "end": 1597.71,
+      "text": "And that I will..."
+    },
+    {
+      "id": 525,
+      "start": 1597.71,
+      "end": 1600.27,
+      "text": "Oh, that's JD Vance's mom."
+    },
+    {
+      "id": 526,
+      "start": 1600.27,
+      "end": 1601.51,
+      "text": "And that I will well and..."
+    },
+    {
+      "id": 527,
+      "start": 1601.51,
+      "end": 1602.59,
+      "text": "I'm surprised she showed up"
+    },
+    {
+      "id": 528,
+      "start": 1602.59,
+      "end": 1604.59,
+      "text": "after he called her like a crack addict"
+    },
+    {
+      "id": 529,
+      "start": 1604.59,
+      "end": 1605.79,
+      "text": "for 30 years to make his career."
+    },
+    {
+      "id": 530,
+      "start": 1605.87,
+      "end": 1607.51,
+      "text": "I'm on which I'm about to enter."
+    },
+    {
+      "id": 531,
+      "start": 1607.51,
+      "end": 1608.99,
+      "text": "On which I'm about to enter."
+    },
+    {
+      "id": 532,
+      "start": 1608.99,
+      "end": 1610.19,
+      "text": "So help me God."
+    },
+    {
+      "id": 533,
+      "start": 1610.19,
+      "end": 1611.11,
+      "text": "So help me God."
+    },
+    {
+      "id": 534,
+      "start": 1611.11,
+      "end": 1612.99,
+      "text": "I think it was a meth addict, not crack."
+    },
+    {
+      "id": 535,
+      "start": 1612.99,
+      "end": 1631.05,
+      "text": "Yeah!"
+    },
+    {
+      "id": 536,
+      "start": 1631.05,
+      "end": 1632.05,
+      "text": "Yeah!"
+    },
+    {
+      "id": 537,
+      "start": 1632.05,
+      "end": 1643.04,
+      "text": "Gentlemen, please welcome Chief Justice Roberts"
+    },
+    {
+      "id": 538,
+      "start": 1643.04,
+      "end": 1645.4,
+      "text": "to administer the Presidential Oath of Office."
+    },
+    {
+      "id": 539,
+      "start": 1645.4,
+      "end": 1646.88,
+      "text": "All right."
+    },
+    {
+      "id": 540,
+      "start": 1646.88,
+      "end": 1647.88,
+      "text": "Let's run it back again."
+    }
+  ],
+  "text": "I'm Papita.\nI'm the dog that produces the show and now it is live and I'm a dog.\nVice President-elect J.D.\nVance making his way into the Capitol.\nWe expect President-elect Trump to be entering shortly as well.\nFormer Ohio Senator Sherrod Brown has been with us this morning watching this all unfold.\nSenator Brown, your thoughts on this moment as we await just moments away from when\nPresident-elect Trump will be sworn back into office.\nI find the sort of theme of a couple of speakers.\nI can't see them on screen.\nI think it was a Trump spokesperson talking about disrupting that it's no longer corporate\ninterest and no longer the people who ran the Republican Party.\nI find it, if not for the seriousness that I find immunity in it.\nWe're saying that Trump isn't going to listen to Wall Street anymore, isn't going to listen\nto the big corporate CEOs who's going to listen to these California billionaires.\nI mean, the three of the richest people in the world are sitting on that platform with\nthem.\nThey all want tax cuts.\nThey all want weaker consumer protections.\nThey all want weaker worker safety rules.\nAnd so what gives?\nI mean, he's still going to provide a Republican mantra for years has always been more\ntax cuts for the rich, more tax cuts for large corporations.\nI don't see any movement away from that.\nBut at the same time, he's clearly listening to billionaires, one of them as we\nknow, on the stage of the $250 million through the President's campaign.\nSo it's not like disruption means it's all about focusing on workers.\nDisruption means we won't do quite as much for corporate America.\nWe're going to take care of these newly minted, in some cases, deca or\nsimply if that's the word simply there.\nSo I don't find much change.\nAnd I don't again, politics is not left to right to side me on.\nAnd I think the president today needs to essentially say to the public, I'm not\nI'm not going to let these bloaters run the country.\nThey helped my campaign.\nAnd I'm going to look out for workers.\nI hope he does that.\nI'm always optimistic.\nI just don't really see it coming.\nWell, President-elect Trump is now making his way into the Capitol.\nTiffany Smiley, as we watch this live picture, I believe Senator Brown was\nreferring to what you mentioned earlier about the disruptors.\nCare to respond?\nYeah, I mean, look, I mean, these people worked with Biden as well, but they\nalso know that President Trump will deliver.\nSo unfortunately, over the last four years, the economy, it hasn't worked\nfor the working class.\nIt hasn't worked for an average American who has lost nearly $33,000\nover the last four years under Bidenomics.\nSo I think Trump is just painting a picture.\nTrump is Trump and he will always do what he wants to do.\nAnd he will always do what's best for America and the American people.\nI think he's just showing like, hey, look, I'm bringing people from all walks\nof life. This isn't just DC.\nThis isn't just the establishment.\nAnd we are going to solve these problems that are facing the American people.\nFormer and future First Lady Melania Trump has made her way inside the Capitol\nRotunda. Former Republican Senator Bob Corker has been with us all morning.\nSenator Corker, we saw a moment ago the arrival of House and Senate leaders.\nHow do you expect the House and Senate in this go-around to be a check on\nexecutive power?\nI think they're going to be a check.\nAnd I just had a conversation with John, the\nPresident of the United States, and the Vice President of the United States.\nOn the Senate floor, I escorted a new senator,\nsomeone who's been sworn in about on January 3rd.\nBut I think they will be a check.\nObviously, there's going to be a lot more communication.\nThere's going to be a lot more communication between the two than\nhas happened in the past.\nObviously, Senator McConnell and President Trump didn't communicate that much.\nThun and the President will.\nAnd then look in the House.\nYou've got some independent Republicans over there.\nObviously, the Democratic side is going to be a check.\nI think that people this time, though, are going to pick and choose.\nI think there's going to be more prudence in the way that they check,\nunderstanding that the capital that the President comes in with, political capital.\nI do want to say one other thing.\nI enjoy being almost Senator Brown.\nAnd I think what both of us are doing today in our different ways,\nwith a different focus, is we're trying to be aspirational.\nMeaning that we're hopeful that Senator Brown is hopeful\nthat the President is going to focus on workers and their needs.\nAn issue that he's always talked about.\nWe came in together in 2007, elected in 2006.\nI, too, am trying to be aspirational.\nAnd I think that that is the way that both the House and Senate, in some ways,\nwill be.\nCan they influence the President to stay focused, to move in a direction\nthat is good for our country?\nI think that's the mode that everyone around is going to be hopeful,\nthat somehow the President will stay focused,\nthat he'll try to bring out the best in all of us.\nAnd we're going to see in just a few moments whether that's his first step\nhere at the inaugural speech.\nIndeed, we'll end on that moment of hope, that note of hope,\nand go inside the Capitol Rotunda to watch this inaugural proceed.\nLadies and gentlemen, the Vice President-Elect of the United States,\nthe Honorable JD Vance.\nNot cases, brother, said.\nWhat's happening?\nWhere are you taking me?\nLadies and gentlemen, escorting the President-Elect,\nthe staff director for the Joint Congressional Committee\non Inaugural Ceremonies, Elizabeth Farah, House Sergeant\nat Arms, the Honorable William P. McFarland,\nSenate Sergeant at Arms and Doorkeeper,\nthe Honorable Jennifer A. Hemingway,\nSenate Majority Leader, the Honorable John Thune,\nand the Joint Congressional Committee\non Inaugural Ceremonies, House Democratic Leader,\nthe Honorable Hakim Jeffries, House Majority Leader,\nthe Honorable Steve Scalise, Speaker of the House\nof Representatives, the Honorable Mike Johnson,\nSenate Democratic Leader, the-\nSeven, six, five, four, three, two, one.\nLet's do this.\nThere we go.\nHello, everyone.\nIt's too early of a start for me.\nMaking a coffee.\nSo I was screaming at Pepito.\nDon't start the show.\nMaking him look bad.\nThat's actually his fault.\nOoh.\nAll right.\nWe're missing some hot, missing hot inauguration\nas we speak.\nSo I think we got to jump right into it.\nI do accidental gray face, not today.\nOnly Trump could do that.\nOnly he can prevent the present, the bold vision\nof once again making it OK to do gray face,\nwhich I did not achieve.\nI have never achieved making that OK.\nMaybe we'll debut a new look.\nLet's show it off.\nLet's get right into it aggressively.\nLet's attack aggressively.\nWe're already fucking missing it.\nAnd I'm doing a bad job already of covering this.\nThat's his new look.\nThe worst thing that could happen today.\nProbably the worst thing that will happen\nis just an insane speech.\nBut apparently the Trump is inaugurated.\nIt's the worst thing.\nI do think that'll probably happen.\nPlease be seated.\nDamn, I missed his death start entrance.\nLet's just run back really quick\nto see our dear sweet boy walk out.\nHow is he looking?\nFarland.\nSenate Sergeant Ed Hanson.\nSenate Democratic.\nWe're not quite live now because I ran it back.\nBecause I missed President Trump walking out.\nLadies and gentlemen, the president elect\nof the United States, the honorable Donald John Trump.\nOh, not that good.\nIt should be pointed out this inauguration had $250 million\ndonated to it by various tech billionaires.\nAnd among others, Jesus, OK, someone\ndebuted a new look.\nSmooth criminal over there.\nJesus.\nOh, the cat cam is still on.\nWhoops.\nBut it's also off.\nOK, anyway, now we'll go live.\nNow we're going live.\nWhatever's happening live.\nOK, great.\nAmy Cope.\nFor the past year, I've chaired the inaugural ceremony committee.\nAmy Clobuchar for some reason.\nShe's the leadership of Congress from both parties.\nWe thank the committee and capital staff and law\nenforcement who worked so hard over the last year,\nand especially the last three days.\nYou've done a beautiful job, and you\nhave shown grace under pressure.\nAmy cost $20 million herself.\nThat was part of the $250 million package\nto make this stream happen.\nOur theme this year is our enduring democracy.\nThe presence of so many presidents and vice\npresidents here today is truly a testament to that\nand to the perseverance.\nWe welcome President Biden and Dr. Biden.\nWe welcome Vice President Harris and Doug Emhoff,\nPresident Obama, President Clinton and Secretary Clinton,\nPresident Bush and Laura Bush, Vice President Pence,\nVice President Quayle and Marilyn Quayle.\nWhat's happening?\nI just woke up.\nWhy are we awake right now?\nDon't worry about it.\nThe Trump and Vance families.\nOf course.\nOh, look, I needed it.\nMarx, what will soon be 250 years of our democracy.\nYou guys are already seeing double today.\nWhen leaders elevated by the will of the people\npromise to be faithful to our Constitution,\nto cherish and defend it, it is the moment\nwhen they become, as we all should be,\nthe guardians of our country.\nThrough war and peace, through adversity and prosperity,\nwe hold this inauguration every four years.\nHow come I wasn't told to wake up?\nOn Martin Luther King Day, a further reminder.\nWhy are they doing this so early?\nTo uphold the values enshrined in our constitution.\nIt's only 1130 on the East Coast.\nThe freedoms, the liberties, and as is inscribed\non the entrance of the United States Supreme Court.\nLook at those two beer enjoyers.\nEqual justice under law.\nJesus, the Supreme Court justice is so fucking miserable.\nBut what makes this moment more than a passing ceremony\nis all who are watching it across the country.\nThis is why people relate to Trump so hard,\nis he looks bored as shit.\nDoing extraordinary things.\nPresident Kennedy, who at one point\nworked as a senator in this building\nand would often walk through this very rotunda.\nIn case this is important stuff.\nIn a democracy, every citizen, regardless\nof interest in politics holds office.\nEvery one of us is in a position of responsibility.\nMetalcast, thank you so much.\nEvery donation you send today goes directly\nto the inauguration fund already in progress.\nNot to seek out Malice as President Lincoln once reminded us,\nbut to view others with a generosity of spirit\ndespite our differences.\nSorry about that, Metalcast.\nWe should have warned you.\nComes an obligation to stand our ground when we must\nand find common ground when we can.\nWith everything swirling around us,\nthe hot mess of division, it is on all of us\nto close the incredible citizen writer\nwho just happened to be born in my state\nto ensure that our nation's democracy\nis our shelter from the storm.\nOh my God, someone give her a fork.\nChat was right, she needs to throw forks.\nIn other countries that might be in a presidential palace\nor a gilded executive office building.\nGive her a couple phones, a couple forks,\nand a couple interns with some bullseyes.\nThe people's house.\nIt is a fitting reminder of the system\nof challenges and balances that is the very foundation\nof our government.\nSunny, flaming Los Angeles.\nThree people branches of government.\nThat is how for nearly 250 years\nour great American experiment grounded\nin the rule of law has endured.\nSo, as we have not reached our new president\nand vice president, let us remember\nthat the power of those in this room\ncomes from the people.\nThe construction workers who build our country.\nThis is the worst pro wrestling speech ever.\nThe teachers and healthcare workers who nurture us.\nThe troops depending on who we are.\nWhat, you guys aren't seeing that $250 million on screen?\nThe firefighters in Los Angeles\nwaiting themselves up in the line\nfor that family matters tirade.\nWhere's Musk?\nOh, he's off to the side.\nHe's right up there though.\nOur democracy's strength and grit\nsurprise he doesn't have his kid on his lap.\nThere's, may God bless our nation.\nJesus Christ, this Melania.\nAnd Barron.\nI thought he was that fucking podcaster.\nOne who talks really low\nand somehow claims to be a MIT genius.\nToday we're reviewing this podium\nabout inaugurating President Donald Trump.\nGood afternoon.\nEndurance through the years is the ultimate test.\nTo persevere and honor this is the truest measure\nof an idea.\nMeasure.\nAn institution.\nDid I wear in the measures?\nAnd a nation.\nOur founders wrote the constitution\nso that America could withstand all the twists\nand turns of time.\nI didn't know I was gonna have to take a fucking\nsocial studies class today.\nThey wrote it to guide us.\nAnd to preserve forever our right of life, liberty,\nand the pursuit of happiness.\nBut as much as the truths and principles\nin our constitution remain the same,\nour democracy promises the American people\nthe power to change.\nJust bring out Trump.\nBut to chart their own destiny.\nThat's the beauty.\nThe democratic process is making me more\nin favor of democracy.\nIt allows the importance of permanence\nof permanence of a nation through change.\nIt allows nations like our United States\nto avoid the obstacles if you wanna get drunk\nand to seize the opportunities\nthat God has placed before us.\nAll was saying true to our founding principles.\nToday is our country's 60th inauguration ceremony.\nAnd maybe our last.\nLike all the others before it.\nIt is a celebration of our right to set out\nuniquely American course.\nTrump might make come true.\nThe last several years have been trying at times\nfor many, many Americans.\nAnd also for the nations of the free world.\nAbby Grendel, this is about a smooth transition.\nStrive to lead.\nFor the man that they called the New Hitler.\nAnd a fascist and an exigent threat to democracy.\nTowards greatness.\nThe secure, safe, and prosperous future.\nLook at Kamala.\nThat our founders envisioned for all of us.\nLook at poor, sweet Kamala.\nToday we celebrate not only their decision to do so,\nbut also the simple right and wisdom of a free people\nto make their own choice so that their nation might endure.\nAnd now allow me to welcome Archbishop Timothy Dolan\nand Reverend Franklin Graham\nwho will deliver our invocation.\nPlease rise.\nI was adding some music for them.\nJust a little solemn otherwise.\nBe still.\nOkay, there we go.\nAnd know that I am God.\nSupreme among the nations, supreme on the earth.\nLook at this man.\nWe're dealing with God himself right now.\nGeneral George Washington on the seas.\nOh no.\nRecalling Abraham Lincoln at his second inaugural\nwith malice toward none, with charity for all,\nwith firmness in the right as God gives us to see the right.\nWe're getting Amy.\nGeneral George, he's cracking up.\nHe's cracking up.\nTo his soldiers as they began the battle of the bulge\neight decades ago.\nPray, pray when fighting, pray alone,\npray with others, pray by night, pray by day.\nThey're just clipping Biden in here.\nThe birthday of the reverend,\nMartin Luther King who warned without God,\nour efforts turn to ashes.\nSinister death, accurate.\nBless citizens of this one nation under God,\nhumbled by our claim that in God we trust.\nThis guy likes it.\nGather indeed this inauguration day to pray.\nAre they in Italy?\nFor our president, Donald J. Trump is family.\nIs this the 17 Chapel?\nHis advisors, his cabinet, his aspirations.\nSo the 17 Chapel room.\nHis vice president.\nFor the Lord's blessings upon Joseph Biden.\nFor our men and women.\nYeah, that's where they are, Chet.\nFor each other.\nCalled it.\nWhose hopes are stoked this new year,\nthis inauguration day.\nWe cannot air and relying upon that prayer\nfrom the Bible.\nThose paintings must have been really expensive.\nOn which our president will soon place his hand in oath.\nAs we make our own the supplications\nof King Solomon's wisdom.\nAs he began his governance.\nGod of our fathers.\nIn your wisdom you set man to govern your creatures.\nThis little lady.\nTo govern your holiness and justice.\nTo render justice with integrity.\nGive our leader wisdom.\nFor he is your servant aware of your\nup-to-own weakness and brevity of life.\nThis is why they do this early on West Coast time.\nSo that people like you don't have to watch your case.\nI've made a mistake.\nWisdom from heavens that she may be with him.\nThat he may know your design.\nThere he is.\nLex Freedman is who I'm thinking of.\nThat's Lex Freedman.\nHe's lost some weight, but.\nHe's gained some hair.\nMentor every flaw.\nYou are the guy who we trust who lives and reigns.\nHe mostly just looks tall.\nAmen.\nDamn Lex Freedman.\nSo tall and younger.\nThat's what a successful podcast will do for you.\nWho the fuck is this?\nMr. President.\nYou don't know this guy?\nThe last four years.\nThere are times I'm sure you thought it was pretty dark.\nBut not anymore America.\nWe praise him and give him glory.\nWe're done with the prayers.\nWe had the prayer section already.\nDamn.\nLet us pray.\nAnother reverend?\nOur father and our God that has said,\nblessed is the nation.\nAll right, I'll pump this up too.\nThat God is the Lord.\nAs the prophet Daniel prayed,\nblessed be the name of God forever and ever.\nFor wisdom and might are his.\nHe changes the times and the seasons.\nHe removes kings.\nHe raises up kings.\nHe gives wisdom to the wise.\nHe could have just played this.\nThe knowledge to those who have understanding.\nOur father today.\nAs President Donald J. Trump takes the oath of office\nonce again, we come to say thank you,\noh Lord our God.\nFather when Donald Trump's enemies\nthought he would be down and out,\nyou and you alone saved his life\nand raised him up with strength.\nOh yeah, he got assassinated or attempted to.\nRemember that?\nYour mighty hand.\nI kind of forgot about it.\nWe pray for President Trump\nthat you'll watch over, protect, guide, direct him.\nGive him your wisdom from your throne.\nHey Obama.\nWe say to bless him and that our nation\nhas ever been a better time to say thanks Obama.\nWe also ask that you have blessed and protect Melania\nas First Lady.\nWe thank you for the beauty, the warmth and grace\nthat she shows not only to this nation\nbut to the whole world.\nWe thank you for Vice President-elect J.D. Vance\nand his wife Usha and their young family.\nIt's amazing you got to do that\nwith a straight face.\nThe case they're thanking you.\nHold up his arms like Aaron held up arms of Moses\nin the midst of battle.\nThe Prophet Samuel reminded the people.\nIt was you that brought them up from the land of Egypt.\nAnd he said now, stand still.\nI feel like I'm looking at my little black book\nall in one room.\nThis is crazy.\nThis is a lot for you.\nI'm sure Liliana.\nVery much.\nA lot of financial opportunity.\nThank you for the protection, the bounty,\nthe freedoms that we so enjoy.\nWe remember to keep our eyes fixed on you.\nAnd may our hearts be inclined to your voice.\nWe know that America can never be great again\nif we turn our backs on you.\nWe ask for your help.\nWe pray all of this in the name of the King of Cambridge,\nthe Lord of Lords, your son, my savior\nand my redeemer, Jesus Christ, amen.\nLadies and gentlemen, please welcome\nAssociate Justice Kavanaugh\nto administer the Vice Presidential Oath of Office.\nTaking their time.\nRaise your right hand and repeat after me.\nI, James David Vance, do solemnly swear.\nI, James David Vance, do solemnly swear\nthat I will support and defend\nthe Constitution of the United States.\nThat I will support and defend\nthe Constitution of the United States.\nThey couldn't even make JD Vance.\nAll enemies, foreign and domestic.\nYou just get to pick up, Mike.\nAll enemies, foreign and domestic.\nIt's not a case. I know that must be upsetting\nfor you to not be Mike appropriately.\nI'm right next to you.\nHow am I him?\nThat's a great question, but you are.\nDid I take this obligation freely?\nDid I take this obligation freely\nwithout any national reservation?\nWho was this lady?\nWho was this little lady in the red sweater?\nFor a purpose of evasion.\nFor a purpose of evasion.\nAnd that I will...\nOh, that's JD Vance's mom.\nAnd that I will well and...\nI'm surprised she showed up\nafter he called her like a crack addict\nfor 30 years to make his career.\nI'm on which I'm about to enter.\nOn which I'm about to enter.\nSo help me God.\nSo help me God.\nI think it was a meth addict, not crack.\nYeah!\nYeah!\nGentlemen, please welcome Chief Justice Roberts\nto administer the Presidential Oath of Office.\nAll right.\nLet's run it back again.",
+  "text_timestamped": "[00:00 --> 00:02] I'm Papita.\n[00:02 --> 00:17] I'm the dog that produces the show and now it is live and I'm a dog.\n[00:17 --> 00:18] Vice President-elect J.D.\n[00:18 --> 00:20] Vance making his way into the Capitol.\n[00:20 --> 00:25] We expect President-elect Trump to be entering shortly as well.\n[00:25 --> 00:29] Former Ohio Senator Sherrod Brown has been with us this morning watching this all unfold.\n[00:29 --> 00:35] Senator Brown, your thoughts on this moment as we await just moments away from when\n[00:35 --> 00:38] President-elect Trump will be sworn back into office.\n[00:38 --> 00:42] I find the sort of theme of a couple of speakers.\n[00:42 --> 00:44] I can't see them on screen.\n[00:44 --> 00:50] I think it was a Trump spokesperson talking about disrupting that it's no longer corporate\n[00:50 --> 00:54] interest and no longer the people who ran the Republican Party.\n[00:54 --> 00:59] I find it, if not for the seriousness that I find immunity in it.\n[00:59 --> 01:03] We're saying that Trump isn't going to listen to Wall Street anymore, isn't going to listen\n[01:03 --> 01:08] to the big corporate CEOs who's going to listen to these California billionaires.\n[01:08 --> 01:13] I mean, the three of the richest people in the world are sitting on that platform with\n[01:13 --> 01:14] them.\n[01:14 --> 01:15] They all want tax cuts.\n[01:15 --> 01:17] They all want weaker consumer protections.\n[01:17 --> 01:22] They all want weaker worker safety rules.\n[01:22 --> 01:23] And so what gives?\n[01:23 --> 01:28] I mean, he's still going to provide a Republican mantra for years has always been more\n[01:28 --> 01:32] tax cuts for the rich, more tax cuts for large corporations.\n[01:32 --> 01:35] I don't see any movement away from that.\n[01:35 --> 01:40] But at the same time, he's clearly listening to billionaires, one of them as we\n[01:40 --> 01:44] know, on the stage of the $250 million through the President's campaign.\n[01:44 --> 01:48] So it's not like disruption means it's all about focusing on workers.\n[01:48 --> 01:53] Disruption means we won't do quite as much for corporate America.\n[01:53 --> 01:57] We're going to take care of these newly minted, in some cases, deca or\n[01:57 --> 02:00] simply if that's the word simply there.\n[02:00 --> 02:02] So I don't find much change.\n[02:02 --> 02:06] And I don't again, politics is not left to right to side me on.\n[02:06 --> 02:11] And I think the president today needs to essentially say to the public, I'm not\n[02:11 --> 02:13] I'm not going to let these bloaters run the country.\n[02:13 --> 02:15] They helped my campaign.\n[02:15 --> 02:16] And I'm going to look out for workers.\n[02:16 --> 02:18] I hope he does that.\n[02:18 --> 02:19] I'm always optimistic.\n[02:19 --> 02:21] I just don't really see it coming.\n[02:21 --> 02:25] Well, President-elect Trump is now making his way into the Capitol.\n[02:25 --> 02:29] Tiffany Smiley, as we watch this live picture, I believe Senator Brown was\n[02:29 --> 02:31] referring to what you mentioned earlier about the disruptors.\n[02:31 --> 02:33] Care to respond?\n[02:33 --> 02:37] Yeah, I mean, look, I mean, these people worked with Biden as well, but they\n[02:37 --> 02:40] also know that President Trump will deliver.\n[02:40 --> 02:44] So unfortunately, over the last four years, the economy, it hasn't worked\n[02:44 --> 02:45] for the working class.\n[02:45 --> 02:51] It hasn't worked for an average American who has lost nearly $33,000\n[02:51 --> 02:53] over the last four years under Bidenomics.\n[02:53 --> 02:54] So I think Trump is just painting a picture.\n[02:54 --> 02:57] Trump is Trump and he will always do what he wants to do.\n[02:57 --> 03:00] And he will always do what's best for America and the American people.\n[03:00 --> 03:03] I think he's just showing like, hey, look, I'm bringing people from all walks\n[03:03 --> 03:05] of life. This isn't just DC.\n[03:05 --> 03:07] This isn't just the establishment.\n[03:07 --> 03:11] And we are going to solve these problems that are facing the American people.\n[03:11 --> 03:14] Former and future First Lady Melania Trump has made her way inside the Capitol\n[03:14 --> 03:19] Rotunda. Former Republican Senator Bob Corker has been with us all morning.\n[03:19 --> 03:23] Senator Corker, we saw a moment ago the arrival of House and Senate leaders.\n[03:24 --> 03:29] How do you expect the House and Senate in this go-around to be a check on\n[03:29 --> 03:30] executive power?\n[03:34 --> 03:35] I think they're going to be a check.\n[03:35 --> 03:40] And I just had a conversation with John, the\n[03:40 --> 03:41] President of the United States, and the Vice President of the United States.\n[03:41 --> 03:44] On the Senate floor, I escorted a new senator,\n[03:44 --> 03:48] someone who's been sworn in about on January 3rd.\n[03:49 --> 03:51] But I think they will be a check.\n[03:51 --> 03:53] Obviously, there's going to be a lot more communication.\n[03:54 --> 03:58] There's going to be a lot more communication between the two than\n[03:58 --> 04:00] has happened in the past.\n[04:00 --> 04:05] Obviously, Senator McConnell and President Trump didn't communicate that much.\n[04:05 --> 04:07] Thun and the President will.\n[04:08 --> 04:10] And then look in the House.\n[04:10 --> 04:14] You've got some independent Republicans over there.\n[04:14 --> 04:16] Obviously, the Democratic side is going to be a check.\n[04:16 --> 04:20] I think that people this time, though, are going to pick and choose.\n[04:21 --> 04:26] I think there's going to be more prudence in the way that they check,\n[04:26 --> 04:31] understanding that the capital that the President comes in with, political capital.\n[04:31 --> 04:33] I do want to say one other thing.\n[04:33 --> 04:35] I enjoy being almost Senator Brown.\n[04:35 --> 04:41] And I think what both of us are doing today in our different ways,\n[04:41 --> 04:46] with a different focus, is we're trying to be aspirational.\n[04:46 --> 04:50] Meaning that we're hopeful that Senator Brown is hopeful\n[04:50 --> 04:55] that the President is going to focus on workers and their needs.\n[04:55 --> 04:57] An issue that he's always talked about.\n[04:57 --> 05:03] We came in together in 2007, elected in 2006.\n[05:03 --> 05:06] I, too, am trying to be aspirational.\n[05:06 --> 05:11] And I think that that is the way that both the House and Senate, in some ways,\n[05:11 --> 05:11] will be.\n[05:11 --> 05:17] Can they influence the President to stay focused, to move in a direction\n[05:17 --> 05:19] that is good for our country?\n[05:19 --> 05:24] I think that's the mode that everyone around is going to be hopeful,\n[05:24 --> 05:27] that somehow the President will stay focused,\n[05:27 --> 05:31] that he'll try to bring out the best in all of us.\n[05:31 --> 05:36] And we're going to see in just a few moments whether that's his first step\n[05:36 --> 05:38] here at the inaugural speech.\n[05:38 --> 05:41] Indeed, we'll end on that moment of hope, that note of hope,\n[05:41 --> 05:50] and go inside the Capitol Rotunda to watch this inaugural proceed.\n[05:50 --> 05:54] Ladies and gentlemen, the Vice President-Elect of the United States,\n[05:54 --> 06:02] the Honorable JD Vance.\n[06:02 --> 06:03] Not cases, brother, said.\n[06:03 --> 06:04] What's happening?\n[06:04 --> 07:14] Where are you taking me?\n[07:14 --> 07:17] Ladies and gentlemen, escorting the President-Elect,\n[07:17 --> 07:20] the staff director for the Joint Congressional Committee\n[07:20 --> 07:24] on Inaugural Ceremonies, Elizabeth Farah, House Sergeant\n[07:24 --> 07:27] at Arms, the Honorable William P. McFarland,\n[07:27 --> 07:29] Senate Sergeant at Arms and Doorkeeper,\n[07:29 --> 07:32] the Honorable Jennifer A. Hemingway,\n[07:32 --> 07:35] Senate Majority Leader, the Honorable John Thune,\n[07:35 --> 07:37] and the Joint Congressional Committee\n[07:37 --> 07:40] on Inaugural Ceremonies, House Democratic Leader,\n[07:40 --> 07:44] the Honorable Hakim Jeffries, House Majority Leader,\n[07:44 --> 07:47] the Honorable Steve Scalise, Speaker of the House\n[07:47 --> 07:50] of Representatives, the Honorable Mike Johnson,\n[07:50 --> 07:52] Senate Democratic Leader, the-\n[07:52 --> 07:58] Seven, six, five, four, three, two, one.\n[07:58 --> 08:00] Let's do this.\n[08:01 --> 08:36] There we go.\n[08:36 --> 08:38] Hello, everyone.\n[08:38 --> 08:41] It's too early of a start for me.\n[08:41 --> 08:42] Making a coffee.\n[08:42 --> 08:44] So I was screaming at Pepito.\n[08:44 --> 08:46] Don't start the show.\n[08:46 --> 08:47] Making him look bad.\n[08:47 --> 08:49] That's actually his fault.\n[08:49 --> 08:52] Ooh.\n[08:52 --> 08:53] All right.\n[08:53 --> 08:58] We're missing some hot, missing hot inauguration\n[08:58 --> 08:59] as we speak.\n[08:59 --> 09:03] So I think we got to jump right into it.\n[09:03 --> 09:05] I do accidental gray face, not today.\n[09:05 --> 09:09] Only Trump could do that.\n[09:09 --> 09:15] Only he can prevent the present, the bold vision\n[09:15 --> 09:19] of once again making it OK to do gray face,\n[09:19 --> 09:23] which I did not achieve.\n[09:23 --> 09:27] I have never achieved making that OK.\n[09:27 --> 09:29] Maybe we'll debut a new look.\n[09:29 --> 09:33] Let's show it off.\n[09:33 --> 09:35] Let's get right into it aggressively.\n[09:35 --> 09:36] Let's attack aggressively.\n[09:36 --> 09:38] We're already fucking missing it.\n[09:38 --> 09:43] And I'm doing a bad job already of covering this.\n[09:43 --> 09:47] That's his new look.\n[09:47 --> 09:54] The worst thing that could happen today.\n[09:54 --> 09:56] Probably the worst thing that will happen\n[09:56 --> 10:01] is just an insane speech.\n[10:01 --> 10:03] But apparently the Trump is inaugurated.\n[10:03 --> 10:04] It's the worst thing.\n[10:04 --> 10:06] I do think that'll probably happen.\n[10:06 --> 10:08] Please be seated.\n[10:08 --> 10:10] Damn, I missed his death start entrance.\n[10:10 --> 10:11] Let's just run back really quick\n[10:11 --> 10:16] to see our dear sweet boy walk out.\n[10:16 --> 10:17] How is he looking?\n[10:17 --> 10:18] Farland.\n[10:18 --> 10:20] Senate Sergeant Ed Hanson.\n[10:20 --> 10:24] Senate Democratic.\n[10:24 --> 10:28] We're not quite live now because I ran it back.\n[10:28 --> 10:34] Because I missed President Trump walking out.\n[10:34 --> 10:37] Ladies and gentlemen, the president elect\n[10:37 --> 10:41] of the United States, the honorable Donald John Trump.\n[10:41 --> 10:43] Oh, not that good.\n[10:43 --> 10:49] It should be pointed out this inauguration had $250 million\n[10:49 --> 10:52] donated to it by various tech billionaires.\n[10:52 --> 10:57] And among others, Jesus, OK, someone\n[10:57 --> 11:00] debuted a new look.\n[11:00 --> 11:01] Smooth criminal over there.\n[11:01 --> 11:10] Jesus.\n[11:10 --> 11:11] Oh, the cat cam is still on.\n[11:11 --> 11:13] Whoops.\n[11:13 --> 11:20] But it's also off.\n[11:20 --> 11:22] OK, anyway, now we'll go live.\n[11:22 --> 11:24] Now we're going live.\n[11:24 --> 11:25] Whatever's happening live.\n[11:25 --> 11:26] OK, great.\n[11:26 --> 11:26] Amy Cope.\n[11:26 --> 11:29] For the past year, I've chaired the inaugural ceremony committee.\n[11:29 --> 11:31] Amy Clobuchar for some reason.\n[11:31 --> 11:34] She's the leadership of Congress from both parties.\n[11:34 --> 11:37] We thank the committee and capital staff and law\n[11:37 --> 11:41] enforcement who worked so hard over the last year,\n[11:41 --> 11:44] and especially the last three days.\n[11:44 --> 11:46] You've done a beautiful job, and you\n[11:46 --> 11:50] have shown grace under pressure.\n[11:50 --> 11:52] Amy cost $20 million herself.\n[11:52 --> 11:55] That was part of the $250 million package\n[11:55 --> 11:56] to make this stream happen.\n[11:56 --> 12:00] Our theme this year is our enduring democracy.\n[12:00 --> 12:03] The presence of so many presidents and vice\n[12:03 --> 12:06] presidents here today is truly a testament to that\n[12:06 --> 12:08] and to the perseverance.\n[12:08 --> 12:12] We welcome President Biden and Dr. Biden.\n[12:12 --> 12:15] We welcome Vice President Harris and Doug Emhoff,\n[12:15 --> 12:20] President Obama, President Clinton and Secretary Clinton,\n[12:20 --> 12:24] President Bush and Laura Bush, Vice President Pence,\n[12:24 --> 12:27] Vice President Quayle and Marilyn Quayle.\n[12:27 --> 12:29] What's happening?\n[12:29 --> 12:31] I just woke up.\n[12:31 --> 12:34] Why are we awake right now?\n[12:34 --> 12:34] Don't worry about it.\n[12:35 --> 12:37] The Trump and Vance families.\n[12:37 --> 12:38] Of course.\n[12:38 --> 12:39] Oh, look, I needed it.\n[12:39 --> 12:44] Marx, what will soon be 250 years of our democracy.\n[12:44 --> 12:46] You guys are already seeing double today.\n[12:46 --> 12:49] When leaders elevated by the will of the people\n[12:49 --> 12:53] promise to be faithful to our Constitution,\n[12:53 --> 12:56] to cherish and defend it, it is the moment\n[12:56 --> 12:59] when they become, as we all should be,\n[12:59 --> 13:01] the guardians of our country.\n[13:01 --> 13:05] Through war and peace, through adversity and prosperity,\n[13:05 --> 13:08] we hold this inauguration every four years.\n[13:08 --> 13:10] How come I wasn't told to wake up?\n[13:10 --> 13:14] On Martin Luther King Day, a further reminder.\n[13:14 --> 13:15] Why are they doing this so early?\n[13:15 --> 13:17] To uphold the values enshrined in our constitution.\n[13:17 --> 13:19] It's only 1130 on the East Coast.\n[13:19 --> 13:24] The freedoms, the liberties, and as is inscribed\n[13:24 --> 13:25] on the entrance of the United States Supreme Court.\n[13:25 --> 13:27] Look at those two beer enjoyers.\n[13:27 --> 13:31] Equal justice under law.\n[13:31 --> 13:37] Jesus, the Supreme Court justice is so fucking miserable.\n[13:37 --> 13:41] But what makes this moment more than a passing ceremony\n[13:41 --> 13:43] is all who are watching it across the country.\n[13:43 --> 13:45] This is why people relate to Trump so hard,\n[13:45 --> 13:48] is he looks bored as shit.\n[13:48 --> 13:50] Doing extraordinary things.\n[13:50 --> 13:52] President Kennedy, who at one point\n[13:52 --> 13:55] worked as a senator in this building\n[13:55 --> 13:57] and would often walk through this very rotunda.\n[13:57 --> 13:59] In case this is important stuff.\n[13:59 --> 14:02] In a democracy, every citizen, regardless\n[14:02 --> 14:05] of interest in politics holds office.\n[14:05 --> 14:08] Every one of us is in a position of responsibility.\n[14:08 --> 14:10] Metalcast, thank you so much.\n[14:10 --> 14:12] Every donation you send today goes directly\n[14:12 --> 14:14] to the inauguration fund already in progress.\n[14:14 --> 14:19] Not to seek out Malice as President Lincoln once reminded us,\n[14:19 --> 14:22] but to view others with a generosity of spirit\n[14:22 --> 14:24] despite our differences.\n[14:24 --> 14:25] Sorry about that, Metalcast.\n[14:25 --> 14:27] We should have warned you.\n[14:27 --> 14:31] Comes an obligation to stand our ground when we must\n[14:31 --> 14:34] and find common ground when we can.\n[14:34 --> 14:37] With everything swirling around us,\n[14:37 --> 14:39] the hot mess of division, it is on all of us\n[14:39 --> 14:42] to close the incredible citizen writer\n[14:42 --> 14:45] who just happened to be born in my state\n[14:45 --> 14:49] to ensure that our nation's democracy\n[14:49 --> 14:51] is our shelter from the storm.\n[14:51 --> 14:54] Oh my God, someone give her a fork.\n[14:54 --> 14:57] Chat was right, she needs to throw forks.\n[14:57 --> 15:00] In other countries that might be in a presidential palace\n[15:00 --> 15:02] or a gilded executive office building.\n[15:02 --> 15:04] Give her a couple phones, a couple forks,\n[15:04 --> 15:06] and a couple interns with some bullseyes.\n[15:06 --> 15:07] The people's house.\n[15:07 --> 15:10] It is a fitting reminder of the system\n[15:10 --> 15:14] of challenges and balances that is the very foundation\n[15:14 --> 15:15] of our government.\n[15:15 --> 15:17] Sunny, flaming Los Angeles.\n[15:17 --> 15:19] Three people branches of government.\n[15:19 --> 15:23] That is how for nearly 250 years\n[15:23 --> 15:26] our great American experiment grounded\n[15:26 --> 15:28] in the rule of law has endured.\n[15:29 --> 15:33] So, as we have not reached our new president\n[15:33 --> 15:36] and vice president, let us remember\n[15:36 --> 15:40] that the power of those in this room\n[15:40 --> 15:42] comes from the people.\n[15:42 --> 15:44] The construction workers who build our country.\n[15:44 --> 15:46] This is the worst pro wrestling speech ever.\n[15:46 --> 15:49] The teachers and healthcare workers who nurture us.\n[15:49 --> 15:50] The troops depending on who we are.\n[15:50 --> 15:53] What, you guys aren't seeing that $250 million on screen?\n[15:53 --> 15:55] The firefighters in Los Angeles\n[15:55 --> 15:57] waiting themselves up in the line\n[15:57 --> 16:01] for that family matters tirade.\n[16:01 --> 16:02] Where's Musk?\n[16:03 --> 16:04] Oh, he's off to the side.\n[16:06 --> 16:07] He's right up there though.\n[16:09 --> 16:12] Our democracy's strength and grit\n[16:12 --> 16:14] surprise he doesn't have his kid on his lap.\n[16:14 --> 16:17] There's, may God bless our nation.\n[16:17 --> 16:18] Jesus Christ, this Melania.\n[16:19 --> 16:20] And Barron.\n[16:21 --> 16:24] I thought he was that fucking podcaster.\n[16:25 --> 16:26] One who talks really low\n[16:27 --> 16:30] and somehow claims to be a MIT genius.\n[16:33 --> 16:34] Today we're reviewing this podium\n[16:34 --> 16:39] about inaugurating President Donald Trump.\n[16:39 --> 16:40] Good afternoon.\n[16:41 --> 16:46] Endurance through the years is the ultimate test.\n[16:46 --> 16:50] To persevere and honor this is the truest measure\n[16:50 --> 16:51] of an idea.\n[16:51 --> 16:52] Measure.\n[16:52 --> 16:53] An institution.\n[16:53 --> 16:54] Did I wear in the measures?\n[16:54 --> 16:55] And a nation.\n[16:56 --> 16:59] Our founders wrote the constitution\n[16:59 --> 17:03] so that America could withstand all the twists\n[17:03 --> 17:04] and turns of time.\n[17:04 --> 17:05] I didn't know I was gonna have to take a fucking\n[17:05 --> 17:06] social studies class today.\n[17:06 --> 17:08] They wrote it to guide us.\n[17:08 --> 17:13] And to preserve forever our right of life, liberty,\n[17:13 --> 17:16] and the pursuit of happiness.\n[17:16 --> 17:19] But as much as the truths and principles\n[17:19 --> 17:24] in our constitution remain the same,\n[17:24 --> 17:27] our democracy promises the American people\n[17:27 --> 17:29] the power to change.\n[17:29 --> 17:30] Just bring out Trump.\n[17:30 --> 17:33] But to chart their own destiny.\n[17:33 --> 17:34] That's the beauty.\n[17:34 --> 17:36] The democratic process is making me more\n[17:36 --> 17:39] in favor of democracy.\n[17:39 --> 17:42] It allows the importance of permanence\n[17:42 --> 17:47] of permanence of a nation through change.\n[17:47 --> 17:50] It allows nations like our United States\n[17:51 --> 17:54] to avoid the obstacles if you wanna get drunk\n[17:54 --> 17:56] and to seize the opportunities\n[17:56 --> 17:59] that God has placed before us.\n[17:59 --> 18:04] All was saying true to our founding principles.\n[18:04 --> 18:09] Today is our country's 60th inauguration ceremony.\n[18:09 --> 18:10] And maybe our last.\n[18:10 --> 18:12] Like all the others before it.\n[18:12 --> 18:15] It is a celebration of our right to set out\n[18:15 --> 18:17] uniquely American course.\n[18:17 --> 18:19] Trump might make come true.\n[18:19 --> 18:22] The last several years have been trying at times\n[18:22 --> 18:25] for many, many Americans.\n[18:25 --> 18:27] And also for the nations of the free world.\n[18:27 --> 18:30] Abby Grendel, this is about a smooth transition.\n[18:30 --> 18:32] Strive to lead.\n[18:32 --> 18:34] For the man that they called the New Hitler.\n[18:34 --> 18:37] And a fascist and an exigent threat to democracy.\n[18:37 --> 18:39] Towards greatness.\n[18:39 --> 18:42] The secure, safe, and prosperous future.\n[18:42 --> 18:43] Look at Kamala.\n[18:43 --> 18:47] That our founders envisioned for all of us.\n[18:47 --> 18:48] Look at poor, sweet Kamala.\n[18:48 --> 18:53] Today we celebrate not only their decision to do so,\n[18:54 --> 18:59] but also the simple right and wisdom of a free people\n[19:00 --> 19:05] to make their own choice so that their nation might endure.\n[19:06 --> 19:11] And now allow me to welcome Archbishop Timothy Dolan\n[19:11 --> 19:13] and Reverend Franklin Graham\n[19:13 --> 19:16] who will deliver our invocation.\n[19:16 --> 19:17] Please rise.\n[19:19 --> 19:26] I was adding some music for them.\n[19:27 --> 19:29] Just a little solemn otherwise.\n[19:29 --> 19:30] Be still.\n[19:30 --> 19:31] Okay, there we go.\n[19:31 --> 19:33] And know that I am God.\n[19:33 --> 19:37] Supreme among the nations, supreme on the earth.\n[19:37 --> 19:38] Look at this man.\n[19:39 --> 19:42] We're dealing with God himself right now.\n[19:42 --> 19:44] General George Washington on the seas.\n[19:44 --> 19:45] Oh no.\n[19:45 --> 19:51] Recalling Abraham Lincoln at his second inaugural\n[19:51 --> 19:53] with malice toward none, with charity for all,\n[19:53 --> 19:57] with firmness in the right as God gives us to see the right.\n[19:58 --> 19:59] We're getting Amy.\n[19:59 --> 20:00] General George, he's cracking up.\n[20:00 --> 20:01] He's cracking up.\n[20:01 --> 20:04] To his soldiers as they began the battle of the bulge\n[20:04 --> 20:05] eight decades ago.\n[20:05 --> 20:09] Pray, pray when fighting, pray alone,\n[20:09 --> 20:12] pray with others, pray by night, pray by day.\n[20:12 --> 20:14] They're just clipping Biden in here.\n[20:14 --> 20:16] The birthday of the reverend,\n[20:16 --> 20:19] Martin Luther King who warned without God,\n[20:19 --> 20:21] our efforts turn to ashes.\n[20:22 --> 20:24] Sinister death, accurate.\n[20:24 --> 20:28] Bless citizens of this one nation under God,\n[20:28 --> 20:31] humbled by our claim that in God we trust.\n[20:31 --> 20:32] This guy likes it.\n[20:32 --> 20:34] Gather indeed this inauguration day to pray.\n[20:34 --> 20:35] Are they in Italy?\n[20:35 --> 20:38] For our president, Donald J. Trump is family.\n[20:38 --> 20:39] Is this the 17 Chapel?\n[20:39 --> 20:41] His advisors, his cabinet, his aspirations.\n[20:41 --> 20:42] So the 17 Chapel room.\n[20:42 --> 20:44] His vice president.\n[20:44 --> 20:47] For the Lord's blessings upon Joseph Biden.\n[20:48 --> 20:49] For our men and women.\n[20:49 --> 20:50] Yeah, that's where they are, Chet.\n[20:50 --> 20:51] For each other.\n[20:51 --> 20:51] Called it.\n[20:51 --> 20:54] Whose hopes are stoked this new year,\n[20:54 --> 20:56] this inauguration day.\n[20:57 --> 21:00] We cannot air and relying upon that prayer\n[21:00 --> 21:01] from the Bible.\n[21:01 --> 21:02] Those paintings must have been really expensive.\n[21:02 --> 21:06] On which our president will soon place his hand in oath.\n[21:06 --> 21:08] As we make our own the supplications\n[21:08 --> 21:10] of King Solomon's wisdom.\n[21:11 --> 21:13] As he began his governance.\n[21:14 --> 21:15] God of our fathers.\n[21:15 --> 21:18] In your wisdom you set man to govern your creatures.\n[21:19 --> 21:19] This little lady.\n[21:19 --> 21:21] To govern your holiness and justice.\n[21:21 --> 21:23] To render justice with integrity.\n[21:23 --> 21:26] Give our leader wisdom.\n[21:26 --> 21:28] For he is your servant aware of your\n[21:28 --> 21:31] up-to-own weakness and brevity of life.\n[21:31 --> 21:33] This is why they do this early on West Coast time.\n[21:33 --> 21:37] So that people like you don't have to watch your case.\n[21:37 --> 21:38] I've made a mistake.\n[21:38 --> 21:41] Wisdom from heavens that she may be with him.\n[21:41 --> 21:43] That he may know your design.\n[21:43 --> 21:44] There he is.\n[21:44 --> 21:45] Lex Freedman is who I'm thinking of.\n[21:45 --> 21:47] That's Lex Freedman.\n[21:47 --> 21:48] He's lost some weight, but.\n[21:49 --> 21:49] He's gained some hair.\n[21:49 --> 21:51] Mentor every flaw.\n[21:51 --> 21:54] You are the guy who we trust who lives and reigns.\n[21:54 --> 21:56] He mostly just looks tall.\n[21:56 --> 21:56] Amen.\n[21:58 --> 21:59] Damn Lex Freedman.\n[21:59 --> 22:01] So tall and younger.\n[22:02 --> 22:05] That's what a successful podcast will do for you.\n[22:06 --> 22:08] Who the fuck is this?\n[22:08 --> 22:09] Mr. President.\n[22:09 --> 22:09] You don't know this guy?\n[22:09 --> 22:12] The last four years.\n[22:12 --> 22:14] There are times I'm sure you thought it was pretty dark.\n[22:15 --> 22:18] But not anymore America.\n[22:19 --> 22:21] We praise him and give him glory.\n[22:21 --> 22:22] We're done with the prayers.\n[22:23 --> 22:29] We had the prayer section already.\n[22:29 --> 22:30] Damn.\n[22:31 --> 22:32] Let us pray.\n[22:32 --> 22:33] Another reverend?\n[22:34 --> 22:36] Our father and our God that has said,\n[22:36 --> 22:38] blessed is the nation.\n[22:38 --> 22:39] All right, I'll pump this up too.\n[22:39 --> 22:41] That God is the Lord.\n[22:41 --> 22:43] As the prophet Daniel prayed,\n[22:43 --> 22:46] blessed be the name of God forever and ever.\n[22:46 --> 22:49] For wisdom and might are his.\n[22:49 --> 22:52] He changes the times and the seasons.\n[22:52 --> 22:54] He removes kings.\n[22:54 --> 22:56] He raises up kings.\n[22:56 --> 22:57] He gives wisdom to the wise.\n[22:57 --> 22:58] He could have just played this.\n[22:58 --> 23:01] The knowledge to those who have understanding.\n[23:01 --> 23:02] Our father today.\n[23:04 --> 23:06] As President Donald J. Trump takes the oath of office\n[23:06 --> 23:09] once again, we come to say thank you,\n[23:09 --> 23:11] oh Lord our God.\n[23:12 --> 23:14] Father when Donald Trump's enemies\n[23:14 --> 23:16] thought he would be down and out,\n[23:16 --> 23:19] you and you alone saved his life\n[23:19 --> 23:21] and raised him up with strength.\n[23:21 --> 23:23] Oh yeah, he got assassinated or attempted to.\n[23:23 --> 23:24] Remember that?\n[23:24 --> 23:25] Your mighty hand.\n[23:25 --> 23:26] I kind of forgot about it.\n[23:26 --> 23:28] We pray for President Trump\n[23:28 --> 23:31] that you'll watch over, protect, guide, direct him.\n[23:31 --> 23:34] Give him your wisdom from your throne.\n[23:36 --> 23:37] Hey Obama.\n[23:37 --> 23:39] We say to bless him and that our nation\n[23:39 --> 23:42] has ever been a better time to say thanks Obama.\n[23:42 --> 23:45] We also ask that you have blessed and protect Melania\n[23:45 --> 23:47] as First Lady.\n[23:47 --> 23:51] We thank you for the beauty, the warmth and grace\n[23:51 --> 23:54] that she shows not only to this nation\n[23:54 --> 23:55] but to the whole world.\n[23:57 --> 24:00] We thank you for Vice President-elect J.D. Vance\n[24:00 --> 24:03] and his wife Usha and their young family.\n[24:03 --> 24:04] It's amazing you got to do that\n[24:04 --> 24:06] with a straight face.\n[24:06 --> 24:08] The case they're thanking you.\n[24:08 --> 24:11] Hold up his arms like Aaron held up arms of Moses\n[24:11 --> 24:13] in the midst of battle.\n[24:13 --> 24:15] The Prophet Samuel reminded the people.\n[24:15 --> 24:19] It was you that brought them up from the land of Egypt.\n[24:19 --> 24:21] And he said now, stand still.\n[24:21 --> 24:23] I feel like I'm looking at my little black book\n[24:23 --> 24:24] all in one room.\n[24:24 --> 24:25] This is crazy.\n[24:26 --> 24:27] This is a lot for you.\n[24:27 --> 24:29] I'm sure Liliana.\n[24:29 --> 24:29] Very much.\n[24:29 --> 24:31] A lot of financial opportunity.\n[24:31 --> 24:34] Thank you for the protection, the bounty,\n[24:34 --> 24:39] the freedoms that we so enjoy.\n[24:39 --> 24:43] We remember to keep our eyes fixed on you.\n[24:44 --> 24:47] And may our hearts be inclined to your voice.\n[24:47 --> 24:50] We know that America can never be great again\n[24:50 --> 24:52] if we turn our backs on you.\n[24:52 --> 24:54] We ask for your help.\n[24:54 --> 24:57] We pray all of this in the name of the King of Cambridge,\n[24:57 --> 25:01] the Lord of Lords, your son, my savior\n[25:01 --> 25:03] and my redeemer, Jesus Christ, amen.\n[25:05 --> 25:06] Ladies and gentlemen, please welcome\n[25:06 --> 25:08] Associate Justice Kavanaugh\n[25:08 --> 25:11] to administer the Vice Presidential Oath of Office.\n[25:12 --> 25:40] Taking their time.\n[25:40 --> 25:54] Raise your right hand and repeat after me.\n[25:55 --> 25:59] I, James David Vance, do solemnly swear.\n[25:59 --> 26:02] I, James David Vance, do solemnly swear\n[26:02 --> 26:04] that I will support and defend\n[26:04 --> 26:07] the Constitution of the United States.\n[26:07 --> 26:08] That I will support and defend\n[26:08 --> 26:10] the Constitution of the United States.\n[26:10 --> 26:11] They couldn't even make JD Vance.\n[26:11 --> 26:13] All enemies, foreign and domestic.\n[26:13 --> 26:14] You just get to pick up, Mike.\n[26:14 --> 26:16] All enemies, foreign and domestic.\n[26:17 --> 26:18] It's not a case. I know that must be upsetting\n[26:18 --> 26:20] for you to not be Mike appropriately.\n[26:20 --> 26:22] I'm right next to you.\n[26:22 --> 26:23] How am I him?\n[26:23 --> 26:25] That's a great question, but you are.\n[26:25 --> 26:27] Did I take this obligation freely?\n[26:27 --> 26:29] Did I take this obligation freely\n[26:29 --> 26:30] without any national reservation?\n[26:30 --> 26:31] Who was this lady?\n[26:31 --> 26:33] Who was this little lady in the red sweater?\n[26:33 --> 26:35] For a purpose of evasion.\n[26:35 --> 26:36] For a purpose of evasion.\n[26:36 --> 26:37] And that I will...\n[26:37 --> 26:40] Oh, that's JD Vance's mom.\n[26:40 --> 26:41] And that I will well and...\n[26:41 --> 26:42] I'm surprised she showed up\n[26:42 --> 26:44] after he called her like a crack addict\n[26:44 --> 26:45] for 30 years to make his career.\n[26:45 --> 26:47] I'm on which I'm about to enter.\n[26:47 --> 26:48] On which I'm about to enter.\n[26:48 --> 26:50] So help me God.\n[26:50 --> 26:51] So help me God.\n[26:51 --> 26:52] I think it was a meth addict, not crack.\n[26:52 --> 27:11] Yeah!\n[27:11 --> 27:12] Yeah!\n[27:12 --> 27:23] Gentlemen, please welcome Chief Justice Roberts\n[27:23 --> 27:25] to administer the Presidential Oath of Office.\n[27:25 --> 27:26] All right.\n[27:26 --> 27:27] Let's run it back again."
+}
