@@ -1,0 +1,12 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "model_requested": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 720.824,
+  "chunk_seconds": null,
+  "segments": [],
+  "text": "",
+  "text_timestamped": ""
+}
