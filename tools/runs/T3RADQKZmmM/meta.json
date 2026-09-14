@@ -1,0 +1,19 @@
+{
+  "vod_id": "T3RADQKZmmM",
+  "title": "News by Executive Order",
+  "url": "https://www.youtube.com/watch?v=T3RADQKZmmM",
+  "duration_seconds": 9377,
+  "duration": "2:36:17",
+  "timestamp": 1737504000,
+  "aired_at": "2025-01-22T00:00:00+00:00",
+  "date": "2025-01-22",
+  "ingested_at": "2026-09-14T09:17:53.962485+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "T3RADQKZmmM",
+  "yt_url": "https://www.youtube.com/watch?v=T3RADQKZmmM",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-01-22"
+}
