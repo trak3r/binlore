@@ -1,0 +1,1825 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "model_requested": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 2791.208,
+  "chunk_seconds": null,
+  "segments": [
+    {
+      "id": 0,
+      "start": 147.89,
+      "end": 149.89,
+      "text": "Make the sounds case make the sounds"
+    },
+    {
+      "id": 1,
+      "start": 158.96,
+      "end": 160.96,
+      "text": "Okay, there we go. I"
+    },
+    {
+      "id": 2,
+      "start": 162.36,
+      "end": 167.14,
+      "text": "Haven't used this scene setting in a while. All right now I'm back to carrying this team"
+    },
+    {
+      "id": 3,
+      "start": 170.32,
+      "end": 177.07,
+      "text": "Yeah, I'm amazed they did not push further in it's almost like they don't need me"
+    },
+    {
+      "id": 4,
+      "start": 180.41,
+      "end": 182.41,
+      "text": "Where was a couple of professionals"
+    },
+    {
+      "id": 5,
+      "start": 187.01,
+      "end": 190.67,
+      "text": "I just want to get the gold"
+    },
+    {
+      "id": 6,
+      "start": 193.66,
+      "end": 224.29,
+      "text": "Wish to come run it back my strategy is just play an old if I have don't think about it. Hmm. Nobody's diving"
+    },
+    {
+      "id": 7,
+      "start": 224.77,
+      "end": 245.1,
+      "text": "There's the diver"
+    },
+    {
+      "id": 8,
+      "start": 248.82,
+      "end": 255.75,
+      "text": "Oh, there's you"
+    },
+    {
+      "id": 9,
+      "start": 259.23,
+      "end": 263.51,
+      "text": "God we're doing so playing I think he's playing with a different crew"
+    },
+    {
+      "id": 10,
+      "start": 267.91,
+      "end": 269.91,
+      "text": "I"
+    },
+    {
+      "id": 11,
+      "start": 283.28,
+      "end": 285.28,
+      "text": "They're pushing"
+    },
+    {
+      "id": 12,
+      "start": 295.69,
+      "end": 297.69,
+      "text": "No, I let the group die"
+    },
+    {
+      "id": 13,
+      "start": 302.55,
+      "end": 313.45,
+      "text": "No, hello behind us how many years"
+    },
+    {
+      "id": 14,
+      "start": 317.77,
+      "end": 321.41,
+      "text": "No, I'm sorry we've lost all our tanks"
+    },
+    {
+      "id": 15,
+      "start": 322.45,
+      "end": 324.45,
+      "text": "But you can't blame the"
+    },
+    {
+      "id": 16,
+      "start": 326.77,
+      "end": 328.77,
+      "text": "Anyway"
+    },
+    {
+      "id": 17,
+      "start": 328.85,
+      "end": 336.3,
+      "text": "There's a noble sacrifice from all players except me wait Pete"
+    },
+    {
+      "id": 18,
+      "start": 336.3,
+      "end": 339.12,
+      "text": "I just flipped a skateboard into his nuts on camera"
+    },
+    {
+      "id": 19,
+      "start": 340.56,
+      "end": 342.56,
+      "text": "Camer I missed that"
+    },
+    {
+      "id": 20,
+      "start": 343.56,
+      "end": 354.47,
+      "text": "That's gotta be in their live coverage, right? How could that even happen in this context?"
+    },
+    {
+      "id": 21,
+      "start": 355.47,
+      "end": 358.27,
+      "text": "It's live and sleazy saying it I feel like I have to believe it"
+    },
+    {
+      "id": 22,
+      "start": 361.63,
+      "end": 363.63,
+      "text": "All right, let's do it was do one more"
+    },
+    {
+      "id": 23,
+      "start": 364.15,
+      "end": 378.62,
+      "text": "It says one more round we got to do one more upvotes for all right chat if there's anyone you want to see me play as"
+    },
+    {
+      "id": 24,
+      "start": 379.5,
+      "end": 387.37,
+      "text": "To show you how bad I am. Let me know. Yeah, should we all play our worst characters?"
+    },
+    {
+      "id": 25,
+      "start": 390.29,
+      "end": 392.29,
+      "text": "If you have one"
+    },
+    {
+      "id": 26,
+      "start": 393.73,
+      "end": 395.73,
+      "text": "Me not sure I do"
+    },
+    {
+      "id": 27,
+      "start": 396.25,
+      "end": 400.89,
+      "text": "Six Spider-Man, okay, that's awful"
+    },
+    {
+      "id": 28,
+      "start": 402.57,
+      "end": 404.57,
+      "text": "I'll play a different killer"
+    },
+    {
+      "id": 29,
+      "start": 406.05,
+      "end": 408.05,
+      "text": "I'll play one that's supposed to be able to do damage"
+    },
+    {
+      "id": 30,
+      "start": 408.69,
+      "end": 414.83,
+      "text": "Yeah, I'll play someone I want to be good at but I'm not good at nice"
+    },
+    {
+      "id": 31,
+      "start": 416.27,
+      "end": 425.85,
+      "text": "The aspirational pick I'm playing a sexy robot bug"
+    },
+    {
+      "id": 32,
+      "start": 429.24,
+      "end": 435.56,
+      "text": "So chat this this character's deal you're supposed to be able to aim so that"
+    },
+    {
+      "id": 33,
+      "start": 436.68,
+      "end": 438.68,
+      "text": "And that's gonna be my problem"
+    },
+    {
+      "id": 34,
+      "start": 442.82,
+      "end": 446.5,
+      "text": "You can also heal you guys know this board above us is readable"
+    },
+    {
+      "id": 35,
+      "start": 449.14,
+      "end": 454.38,
+      "text": "Yeah, if you can get up there you can read it will teach you how to cope with it earth it says earth a lot"
+    },
+    {
+      "id": 36,
+      "start": 456.38,
+      "end": 458.38,
+      "text": "Super soldier incubator"
+    },
+    {
+      "id": 37,
+      "start": 459.14,
+      "end": 464.54,
+      "text": "Like this is like visitor information you're visiting the super soldier incubator"
+    },
+    {
+      "id": 38,
+      "start": 471.62,
+      "end": 473.62,
+      "text": "I can inspire people with this game"
+    },
+    {
+      "id": 39,
+      "start": 475.54,
+      "end": 479.53,
+      "text": "I need to see this hegseth"
+    },
+    {
+      "id": 40,
+      "start": 485.47,
+      "end": 489.31,
+      "text": "Where are they dude? Yeah, where are they?"
+    },
+    {
+      "id": 41,
+      "start": 491.71,
+      "end": 497.42,
+      "text": "Oh"
+    },
+    {
+      "id": 42,
+      "start": 511.91,
+      "end": 514.87,
+      "text": "My god, I lost to a bad start"
+    },
+    {
+      "id": 43,
+      "start": 519.67,
+      "end": 529.34,
+      "text": "Don't do it don't do it stop chasing me it's not worth it. Oh my god"
+    },
+    {
+      "id": 44,
+      "start": 529.34,
+      "end": 534.46,
+      "text": "I keep so as this character you can like sleep people they keep throwing it in no direction"
+    },
+    {
+      "id": 45,
+      "start": 540.22,
+      "end": 550.66,
+      "text": "Damn now I'm pissed now. I'm gonna start playing for real it's time to show them"
+    },
+    {
+      "id": 46,
+      "start": 552.38,
+      "end": 554.88,
+      "text": "My boy Pete's fire grows me immediately"
+    },
+    {
+      "id": 47,
+      "start": 564.3,
+      "end": 570.69,
+      "text": "I think I have to bail on that character. I can't heal anyone cuz I"
+    },
+    {
+      "id": 48,
+      "start": 573.13,
+      "end": 575.13,
+      "text": "Was like I have to bail"
+    },
+    {
+      "id": 49,
+      "start": 575.13,
+      "end": 577.13,
+      "text": "Oh"
+    },
+    {
+      "id": 50,
+      "start": 584.57,
+      "end": 586.57,
+      "text": "Actually, yeah, everyone die right now"
+    },
+    {
+      "id": 51,
+      "start": 591.22,
+      "end": 593.22,
+      "text": "They can't kill us if they're dead"
+    },
+    {
+      "id": 52,
+      "start": 602.46,
+      "end": 604.46,
+      "text": "Okay, I got immediately destroyed"
+    },
+    {
+      "id": 53,
+      "start": 604.78,
+      "end": 608.5,
+      "text": "This is an aberration you just saw how good we are so this doesn't really make any sense"
+    },
+    {
+      "id": 54,
+      "start": 609.34,
+      "end": 612.74,
+      "text": "Yeah, I'm so bad. I'm switching to DPS as requested"
+    },
+    {
+      "id": 55,
+      "start": 627.34,
+      "end": 631.7,
+      "text": "They hear me out"
+    },
+    {
+      "id": 56,
+      "start": 636.9,
+      "end": 656.05,
+      "text": "No Magneto stop I did seem to lose that but I hit the I hit them a couple times"
+    },
+    {
+      "id": 57,
+      "start": 656.81,
+      "end": 658.97,
+      "text": "See look the moment I switch they got a kill"
+    },
+    {
+      "id": 58,
+      "start": 661.65,
+      "end": 663.65,
+      "text": "Just go all DPS"
+    },
+    {
+      "id": 59,
+      "start": 665.09,
+      "end": 666.93,
+      "text": "So down"
+    },
+    {
+      "id": 60,
+      "start": 666.93,
+      "end": 671.51,
+      "text": "If I see any of you healing is wasting time if you're not doing damage, you're just wasting time"
+    },
+    {
+      "id": 61,
+      "start": 671.69,
+      "end": 673.75,
+      "text": "I'm gonna ban you from the chat"
+    },
+    {
+      "id": 62,
+      "start": 679.34,
+      "end": 681.54,
+      "text": "Don't use health pack side of that's a waste of time"
+    },
+    {
+      "id": 63,
+      "start": 681.54,
+      "end": 683.54,
+      "text": "I"
+    },
+    {
+      "id": 64,
+      "start": 686.09,
+      "end": 692.21,
+      "text": "Can I perform as my character I turned off I turned off those things cuz it was lagging so much"
+    },
+    {
+      "id": 65,
+      "start": 693.61,
+      "end": 696.85,
+      "text": "But I can look I can just do a voice. Oh, I'm gonna shoot you"
+    },
+    {
+      "id": 66,
+      "start": 701.69,
+      "end": 703.97,
+      "text": "Just make chat the punisher, yeah"
+    },
+    {
+      "id": 67,
+      "start": 705.17,
+      "end": 707.17,
+      "text": "Show the fucking mob whose boss"
+    },
+    {
+      "id": 68,
+      "start": 707.65,
+      "end": 712.85,
+      "text": "You"
+    },
+    {
+      "id": 69,
+      "start": 715.77,
+      "end": 720.97,
+      "text": "Know who's gonna be so proud of us on the other team daddy dick in you"
+    },
+    {
+      "id": 70,
+      "start": 723.69,
+      "end": 730.41,
+      "text": "If we can get the G from daddy dick in you we know we've done in magazines. Yeah, it's all I ever wanted"
+    },
+    {
+      "id": 71,
+      "start": 732.21,
+      "end": 734.21,
+      "text": "Thank you daddy"
+    },
+    {
+      "id": 72,
+      "start": 735.17,
+      "end": 737.17,
+      "text": "I"
+    },
+    {
+      "id": 73,
+      "start": 737.53,
+      "end": 742.73,
+      "text": "Will never see this coming if I stand up here and do those they definitely won't instantly kill me"
+    },
+    {
+      "id": 74,
+      "start": 760.48,
+      "end": 762.48,
+      "text": "No, they caught on somehow"
+    },
+    {
+      "id": 75,
+      "start": 763.32,
+      "end": 772.3,
+      "text": "Okay, I got it all this is my chance"
+    },
+    {
+      "id": 76,
+      "start": 777.94,
+      "end": 779.94,
+      "text": "No"
+    },
+    {
+      "id": 77,
+      "start": 784.3,
+      "end": 786.3,
+      "text": "Oh"
+    },
+    {
+      "id": 78,
+      "start": 786.7,
+      "end": 790.36,
+      "text": "Well, they're having fun at least sometimes you want to let the other team have fun. Yeah"
+    },
+    {
+      "id": 79,
+      "start": 797.78,
+      "end": 801.66,
+      "text": "What surely I have to get at least a killer use your old hair buddy"
+    },
+    {
+      "id": 80,
+      "start": 802.3,
+      "end": 808.18,
+      "text": "I'm gonna stand on the point and I could have gone better, but I did get one kill"
+    },
+    {
+      "id": 81,
+      "start": 808.18,
+      "end": 816.05,
+      "text": "So can I get some heels guys can I get some heels?"
+    },
+    {
+      "id": 82,
+      "start": 822.36,
+      "end": 827.0,
+      "text": "I think we're technically doing better than last time actually"
+    },
+    {
+      "id": 83,
+      "start": 845.34,
+      "end": 855.18,
+      "text": "He never count on me hitting him a few times, okay that guy died today"
+    },
+    {
+      "id": 84,
+      "start": 859.7,
+      "end": 863.01,
+      "text": "Oh"
+    },
+    {
+      "id": 85,
+      "start": 863.41,
+      "end": 871.28,
+      "text": "This is the sneaky spot to do this no don't hold"
+    },
+    {
+      "id": 86,
+      "start": 878.34,
+      "end": 881.54,
+      "text": "What the why'd they let me do this why are they letting me do this?"
+    },
+    {
+      "id": 87,
+      "start": 882.54,
+      "end": 889.41,
+      "text": "Who they caught on"
+    },
+    {
+      "id": 88,
+      "start": 889.49,
+      "end": 891.49,
+      "text": "Elon's doing Elon things"
+    },
+    {
+      "id": 89,
+      "start": 892.05,
+      "end": 897.65,
+      "text": "That's I guess I shouldn't be surprised. It's here from Elon temporarily"
+    },
+    {
+      "id": 90,
+      "start": 898.17,
+      "end": 901.33,
+      "text": "And we know a few Americans in our history"
+    },
+    {
+      "id": 91,
+      "start": 904.29,
+      "end": 906.29,
+      "text": "Very"
+    },
+    {
+      "id": 92,
+      "start": 908.65,
+      "end": 914.29,
+      "text": "Playing Marvel rivals that shit is brutal even two seconds of it"
+    },
+    {
+      "id": 93,
+      "start": 915.85,
+      "end": 919.49,
+      "text": "So we won as far as I can tell I got a kill at the end so I feel pretty good about myself"
+    },
+    {
+      "id": 94,
+      "start": 921.42,
+      "end": 924.06,
+      "text": "Defeat 10 enemies. I completed a daily quest"
+    },
+    {
+      "id": 95,
+      "start": 925.02,
+      "end": 928.78,
+      "text": "Let's check out my highlight. Oh, yeah, look at this high level game"
+    },
+    {
+      "id": 96,
+      "start": 929.62,
+      "end": 934.64,
+      "text": "I said I made a this game a tower defense game briefly"
+    },
+    {
+      "id": 97,
+      "start": 935.08,
+      "end": 940.8,
+      "text": "This is that section of the gameplay and then ignore the last part yours. There's nothing to see here"
+    },
+    {
+      "id": 98,
+      "start": 940.8,
+      "end": 942.08,
+      "text": "Why'd they leave that in?"
+    },
+    {
+      "id": 99,
+      "start": 942.08,
+      "end": 945.85,
+      "text": "All right one more round the buttons right there"
+    },
+    {
+      "id": 100,
+      "start": 945.85,
+      "end": 951.05,
+      "text": "Just just so you guys know it's one more round until you say it's not one more round of all healers"
+    },
+    {
+      "id": 101,
+      "start": 951.21,
+      "end": 953.21,
+      "text": "We can never die"
+    },
+    {
+      "id": 102,
+      "start": 954.37,
+      "end": 962.34,
+      "text": "That's true. We tried all DPS we got to get this rank up somehow our quick"
+    },
+    {
+      "id": 103,
+      "start": 962.82,
+      "end": 964.82,
+      "text": "Our quick play"
+    },
+    {
+      "id": 104,
+      "start": 966.42,
+      "end": 968.78,
+      "text": "I'll just go healer and see what everybody else"
+    },
+    {
+      "id": 105,
+      "start": 973.1,
+      "end": 977.54,
+      "text": "Is Kendall is not streaming although I am planning on making Kendall some stream assets"
+    },
+    {
+      "id": 106,
+      "start": 979.14,
+      "end": 982.42,
+      "text": "As someone who's made too many stream assets, I feel qualified"
+    },
+    {
+      "id": 107,
+      "start": 983.26,
+      "end": 987.4,
+      "text": "Yeah, last time I was a streamer. I was doing like the five days a week"
+    },
+    {
+      "id": 108,
+      "start": 987.8,
+      "end": 991.84,
+      "text": "Six to eight hours a day still with a full-time job"
+    },
+    {
+      "id": 109,
+      "start": 992.68,
+      "end": 996.64,
+      "text": "Have you ever thought about doing two hours every once in a while?"
+    },
+    {
+      "id": 110,
+      "start": 998.84,
+      "end": 1002.24,
+      "text": "Some of my best friends are crooks and villains stream"
+    },
+    {
+      "id": 111,
+      "start": 1002.76,
+      "end": 1005.56,
+      "text": "Keep doing this 60 ps six healer"
+    },
+    {
+      "id": 112,
+      "start": 1019.74,
+      "end": 1021.74,
+      "text": "Please put your"
+    },
+    {
+      "id": 113,
+      "start": 1023.46,
+      "end": 1025.46,
+      "text": "Calls called"
+    },
+    {
+      "id": 114,
+      "start": 1026.3,
+      "end": 1028.88,
+      "text": "Your spray your spray on this guy's butt, please"
+    },
+    {
+      "id": 115,
+      "start": 1030.06,
+      "end": 1034.3,
+      "text": "We're doing a whole clean. We can't leave this room until you put your spray on its butt"
+    },
+    {
+      "id": 116,
+      "start": 1040.3,
+      "end": 1046.14,
+      "text": "Beautiful all we need to do is capture the mission area. So what's our excuse?"
+    },
+    {
+      "id": 117,
+      "start": 1047.06,
+      "end": 1050.82,
+      "text": "I'm extremely what the hell why these people do damage bullshit"
+    },
+    {
+      "id": 118,
+      "start": 1059.26,
+      "end": 1061.26,
+      "text": "I'm a diver rocket raccoon"
+    },
+    {
+      "id": 119,
+      "start": 1062.02,
+      "end": 1077.53,
+      "text": "It's working. It's working. It works. Oh shoot. No, it works less well. No, wait, how did we get a kill?"
+    },
+    {
+      "id": 120,
+      "start": 1077.53,
+      "end": 1079.53,
+      "text": "We're supposed to be healing. Oh"
+    },
+    {
+      "id": 121,
+      "start": 1079.97,
+      "end": 1083.45,
+      "text": "I'm so sorry my balls did damage for a little while for some reason"
+    },
+    {
+      "id": 122,
+      "start": 1085.01,
+      "end": 1092.42,
+      "text": "I feel like"
+    },
+    {
+      "id": 123,
+      "start": 1097.97,
+      "end": 1100.25,
+      "text": "The other team stands totally still I'm pretty good"
+    },
+    {
+      "id": 124,
+      "start": 1107.25,
+      "end": 1110.77,
+      "text": "They can't kill Kendall not if we're all healing Kendall"
+    },
+    {
+      "id": 125,
+      "start": 1132.72,
+      "end": 1134.72,
+      "text": "We got it this time I"
+    },
+    {
+      "id": 126,
+      "start": 1135.72,
+      "end": 1139.12,
+      "text": "Think the trick is if we come in one at a time then we can really focus"
+    },
+    {
+      "id": 127,
+      "start": 1140.08,
+      "end": 1148.8,
+      "text": "That's what I'm gonna try right now"
+    },
+    {
+      "id": 128,
+      "start": 1152.16,
+      "end": 1154.16,
+      "text": "We should ask yeah"
+    },
+    {
+      "id": 129,
+      "start": 1156.64,
+      "end": 1160.76,
+      "text": "But the trick is we can still heal each other going on this guy"
+    },
+    {
+      "id": 130,
+      "start": 1162.6,
+      "end": 1164.6,
+      "text": "Oh, I fucking got it"
+    },
+    {
+      "id": 131,
+      "start": 1168.8,
+      "end": 1170.8,
+      "text": "Oh"
+    },
+    {
+      "id": 132,
+      "start": 1175.96,
+      "end": 1177.96,
+      "text": "Yeah"
+    },
+    {
+      "id": 133,
+      "start": 1181.97,
+      "end": 1185.76,
+      "text": "God we're doing it. Oh"
+    },
+    {
+      "id": 134,
+      "start": 1187.12,
+      "end": 1191.97,
+      "text": "We're doing so well"
+    },
+    {
+      "id": 135,
+      "start": 1200.76,
+      "end": 1202.76,
+      "text": "We're all healers we can't die"
+    },
+    {
+      "id": 136,
+      "start": 1205.32,
+      "end": 1210.06,
+      "text": "Okay, feel free to die. I think um"
+    },
+    {
+      "id": 137,
+      "start": 1211.06,
+      "end": 1226.19,
+      "text": "Spider-girl characters still counts as a healer because they can heal themselves. We just can't let our one tank die. No"
+    },
+    {
+      "id": 138,
+      "start": 1228.19,
+      "end": 1231.67,
+      "text": "Oh nice even better"
+    },
+    {
+      "id": 139,
+      "start": 1235.59,
+      "end": 1240.72,
+      "text": "We captured the point"
+    },
+    {
+      "id": 140,
+      "start": 1244.16,
+      "end": 1247.8,
+      "text": "We scare them off as healers"
+    },
+    {
+      "id": 141,
+      "start": 1250.69,
+      "end": 1253.77,
+      "text": "Hmm, I feel like I should have been hitting that person but I was not"
+    },
+    {
+      "id": 142,
+      "start": 1254.25,
+      "end": 1258.65,
+      "text": "There is a lot happening"
+    },
+    {
+      "id": 143,
+      "start": 1266.2,
+      "end": 1268.2,
+      "text": "Okay"
+    },
+    {
+      "id": 144,
+      "start": 1282.14,
+      "end": 1286.86,
+      "text": "This is a real fire power we can take down this Wolverine we can take down anyone"
+    },
+    {
+      "id": 145,
+      "start": 1290.06,
+      "end": 1292.06,
+      "text": "They're gonna feel so good when they lose to us"
+    },
+    {
+      "id": 146,
+      "start": 1294.38,
+      "end": 1296.38,
+      "text": "Oh"
+    },
+    {
+      "id": 147,
+      "start": 1313.38,
+      "end": 1318.98,
+      "text": "God I ran right into a bunch of minds if you're wondering what happened there I rock it"
+    },
+    {
+      "id": 148,
+      "start": 1338.65,
+      "end": 1340.65,
+      "text": "Okay, he's actually hit him for once"
+    },
+    {
+      "id": 149,
+      "start": 1344.25,
+      "end": 1346.25,
+      "text": "Now I hit him"
+    },
+    {
+      "id": 150,
+      "start": 1347.05,
+      "end": 1350.37,
+      "text": "You guys can't catch me. I'm a rocket raccoon. No, they're doing it"
+    },
+    {
+      "id": 151,
+      "start": 1358.92,
+      "end": 1367.11,
+      "text": "Yeah, I missed so brutally all my show whatever we got two minutes left"
+    },
+    {
+      "id": 152,
+      "start": 1374.97,
+      "end": 1376.97,
+      "text": "No, they all to do"
+    },
+    {
+      "id": 153,
+      "start": 1377.13,
+      "end": 1380.29,
+      "text": "It's too old for us they're allowed to do that"
+    },
+    {
+      "id": 154,
+      "start": 1382.77,
+      "end": 1394.34,
+      "text": "How the how are they winning?"
+    },
+    {
+      "id": 155,
+      "start": 1395.7,
+      "end": 1398.95,
+      "text": "It's really close"
+    },
+    {
+      "id": 156,
+      "start": 1415.33,
+      "end": 1418.97,
+      "text": "My god, he's not killing me. It's gotta be so frustrated. Oh, no, he is killing me"
+    },
+    {
+      "id": 157,
+      "start": 1422.04,
+      "end": 1428.15,
+      "text": "Okay, yeah, these are hacks. It's cuz they're aimbot the song"
+    },
+    {
+      "id": 158,
+      "start": 1428.83,
+      "end": 1433.17,
+      "text": "Be sure to report all of them after this game"
+    },
+    {
+      "id": 159,
+      "start": 1464.91,
+      "end": 1466.91,
+      "text": "Oh"
+    },
+    {
+      "id": 160,
+      "start": 1472.63,
+      "end": 1482.68,
+      "text": "I killed one of them that satisfying we got to kill their healers"
+    },
+    {
+      "id": 161,
+      "start": 1483.64,
+      "end": 1485.96,
+      "text": "Things are gonna be different this time"
+    },
+    {
+      "id": 162,
+      "start": 1486.48,
+      "end": 1488.48,
+      "text": "You're setting up with those minds"
+    },
+    {
+      "id": 163,
+      "start": 1497.08,
+      "end": 1499.08,
+      "text": "I gotta be a diver rocket"
+    },
+    {
+      "id": 164,
+      "start": 1520.55,
+      "end": 1522.55,
+      "text": "Gotta get on the point"
+    },
+    {
+      "id": 165,
+      "start": 1533.39,
+      "end": 1535.39,
+      "text": "They know I was there I'm so little"
+    },
+    {
+      "id": 166,
+      "start": 1538.87,
+      "end": 1551.02,
+      "text": "All right, let's get one more win and then we'll call that an inauguration day damn"
+    },
+    {
+      "id": 167,
+      "start": 1551.62,
+      "end": 1556.56,
+      "text": "They got lucky I'm amazed they had more kills than death"
+    },
+    {
+      "id": 168,
+      "start": 1558.98,
+      "end": 1566.59,
+      "text": "Well, I guess I really just assist all right all right one more win guys we can do it"
+    },
+    {
+      "id": 169,
+      "start": 1567.31,
+      "end": 1572.83,
+      "text": "Show the world"
+    },
+    {
+      "id": 170,
+      "start": 1577.75,
+      "end": 1579.75,
+      "text": "It's inauguration day"
+    },
+    {
+      "id": 171,
+      "start": 1587.55,
+      "end": 1589.55,
+      "text": "And the great wall of great"
+    },
+    {
+      "id": 172,
+      "start": 1591.11,
+      "end": 1599.34,
+      "text": "We don't need healers cuz we're also beefy big strong boys and one girl"
+    },
+    {
+      "id": 173,
+      "start": 1601.12,
+      "end": 1615.44,
+      "text": "Poor venom getting no love attribute the win to president Trump"
+    },
+    {
+      "id": 174,
+      "start": 1616.42,
+      "end": 1622.44,
+      "text": "Today's his day. This is all for him. I will all of us will be delivering a 20 minute sermon also"
+    },
+    {
+      "id": 175,
+      "start": 1626.34,
+      "end": 1630.22,
+      "text": "Only 20 minutes. Yeah, sorry, we'll do 30 we'll make it an even 30"
+    },
+    {
+      "id": 176,
+      "start": 1631.02,
+      "end": 1634.54,
+      "text": "Was it I thought you were imprisoned on another plane"
+    },
+    {
+      "id": 177,
+      "start": 1638.86,
+      "end": 1642.42,
+      "text": "That's what I said in the tower we should probably go right to their door"
+    },
+    {
+      "id": 178,
+      "start": 1642.42,
+      "end": 1644.42,
+      "text": "Or just to really emphasize our ten"
+    },
+    {
+      "id": 179,
+      "start": 1644.42,
+      "end": 1646.42,
+      "text": "I"
+    },
+    {
+      "id": 180,
+      "start": 1668.88,
+      "end": 1670.88,
+      "text": "Absolutely not"
+    },
+    {
+      "id": 181,
+      "start": 1671.56,
+      "end": 1676.24,
+      "text": "They do have the advantage of infinite healing one step behind them, but I don't think I'm gonna use it, right?"
+    },
+    {
+      "id": 182,
+      "start": 1677.6,
+      "end": 1680.4,
+      "text": "Yeah, but these are bots they really don't know what to do"
+    },
+    {
+      "id": 183,
+      "start": 1684.32,
+      "end": 1686.32,
+      "text": "This is working great"
+    },
+    {
+      "id": 184,
+      "start": 1686.32,
+      "end": 1688.32,
+      "text": "I"
+    },
+    {
+      "id": 185,
+      "start": 1722.72,
+      "end": 1730.86,
+      "text": "Working too well, they just got a turn in there shooting straight out"
+    },
+    {
+      "id": 186,
+      "start": 1731.5,
+      "end": 1739.22,
+      "text": "This is the most American way to play this game you really is"
+    },
+    {
+      "id": 187,
+      "start": 1740.26,
+      "end": 1742.26,
+      "text": "We were group building a wall"
+    },
+    {
+      "id": 188,
+      "start": 1746.66,
+      "end": 1750.54,
+      "text": "I'm being the most American I can't just enforcing the laws of this game"
+    },
+    {
+      "id": 189,
+      "start": 1752.42,
+      "end": 1754.42,
+      "text": "We need to be consequences to leaving your"
+    },
+    {
+      "id": 190,
+      "start": 1769.23,
+      "end": 1771.23,
+      "text": "Really good"
+    },
+    {
+      "id": 191,
+      "start": 1774.07,
+      "end": 1779.71,
+      "text": "I'm like 90% sure that they're bots. This is a really good strategy against bots though"
+    },
+    {
+      "id": 192,
+      "start": 1781.07,
+      "end": 1783.07,
+      "text": "Really like"
+    },
+    {
+      "id": 193,
+      "start": 1783.39,
+      "end": 1785.63,
+      "text": "We're cracking this AI in 2025"
+    },
+    {
+      "id": 194,
+      "start": 1787.27,
+      "end": 1803.08,
+      "text": "They're only putting out a one door for sure boss. Yeah, but look at that dodging. That's not"
+    },
+    {
+      "id": 195,
+      "start": 1804.08,
+      "end": 1809.16,
+      "text": "Normal maybe some of them are"
+    },
+    {
+      "id": 196,
+      "start": 1810.96,
+      "end": 1812.96,
+      "text": "Damn how they're still two minutes left"
+    },
+    {
+      "id": 197,
+      "start": 1821.11,
+      "end": 1824.99,
+      "text": "Also love that love the hate is just on the side door completely"
+    },
+    {
+      "id": 198,
+      "start": 1847.08,
+      "end": 1849.08,
+      "text": "The bots are getting serious"
+    },
+    {
+      "id": 199,
+      "start": 1855.28,
+      "end": 1859.26,
+      "text": "We miss"
+    },
+    {
+      "id": 200,
+      "start": 1878.09,
+      "end": 1880.09,
+      "text": "Okay, I'm starting to think that it might"
+    },
+    {
+      "id": 201,
+      "start": 1885.09,
+      "end": 1889.81,
+      "text": "Now it's a little odd the gameplay here is a little suspect"
+    },
+    {
+      "id": 202,
+      "start": 1890.81,
+      "end": 1892.81,
+      "text": "I"
+    },
+    {
+      "id": 203,
+      "start": 1898.33,
+      "end": 1901.93,
+      "text": "Do bots change characters and I"
+    },
+    {
+      "id": 204,
+      "start": 1908.69,
+      "end": 1910.69,
+      "text": "None of their names are like"
+    },
+    {
+      "id": 205,
+      "start": 1915.13,
+      "end": 1917.45,
+      "text": "There's no by curious 6 6 9 9"
+    },
+    {
+      "id": 206,
+      "start": 1921.95,
+      "end": 1923.95,
+      "text": "Build my ball"
+    },
+    {
+      "id": 207,
+      "start": 1933.82,
+      "end": 1936.28,
+      "text": "I don't think I've ever spent this much time in this part of the map"
+    },
+    {
+      "id": 208,
+      "start": 1941.32,
+      "end": 1943.32,
+      "text": "14 seconds"
+    },
+    {
+      "id": 209,
+      "start": 1946.76,
+      "end": 1953.18,
+      "text": "She's going to the point oh no they switch they're all takes down"
+    },
+    {
+      "id": 210,
+      "start": 1956.44,
+      "end": 1959.68,
+      "text": "They pushed us off the door right at the end"
+    },
+    {
+      "id": 211,
+      "start": 1961.36,
+      "end": 1968.32,
+      "text": "Wow, I think we find the we found the ultimate strategy go away"
+    },
+    {
+      "id": 212,
+      "start": 1982.0,
+      "end": 1985.44,
+      "text": "Alright, let's do one more anything goes and then I think Kendall and I have to go eat"
+    },
+    {
+      "id": 213,
+      "start": 1986.44,
+      "end": 1992.64,
+      "text": "You say what what I always say it says one more round is the thing so it's really telling me to say one more"
+    },
+    {
+      "id": 214,
+      "start": 1993.24,
+      "end": 1995.36,
+      "text": "But this I think has to be my actual last one"
+    },
+    {
+      "id": 215,
+      "start": 1996.12,
+      "end": 1998.12,
+      "text": "And a quick inauguration day check in"
+    },
+    {
+      "id": 216,
+      "start": 1999.12,
+      "end": 2001.12,
+      "text": "Elon Musk is still talking. He's aged"
+    },
+    {
+      "id": 217,
+      "start": 2002.2,
+      "end": 2007.76,
+      "text": "Unfortunately your hero. Well, these people look like refugees"
+    },
+    {
+      "id": 218,
+      "start": 2008.56,
+      "end": 2012.29,
+      "text": "They look so sad at this"
+    },
+    {
+      "id": 219,
+      "start": 2013.53,
+      "end": 2015.53,
+      "text": "Rally oh my god"
+    },
+    {
+      "id": 220,
+      "start": 2015.85,
+      "end": 2017.85,
+      "text": "All right, we'll try to throw"
+    },
+    {
+      "id": 221,
+      "start": 2019.89,
+      "end": 2025.67,
+      "text": "Adventure"
+    },
+    {
+      "id": 222,
+      "start": 2025.99,
+      "end": 2027.99,
+      "text": "God of blunder"
+    },
+    {
+      "id": 223,
+      "start": 2028.35,
+      "end": 2030.35,
+      "text": "That was my second pick for screen name"
+    },
+    {
+      "id": 224,
+      "start": 2030.91,
+      "end": 2037.88,
+      "text": "And it could have been a team of five year olds on cell phones"
+    },
+    {
+      "id": 225,
+      "start": 2037.88,
+      "end": 2048.8,
+      "text": "I don't know if this is on cell phones yet, but the teens could figure out a way the toddler true warrior is not defined by strength"
+    },
+    {
+      "id": 226,
+      "start": 2050.24,
+      "end": 2052.24,
+      "text": "We're gonna spread"
+    },
+    {
+      "id": 227,
+      "start": 2055.59,
+      "end": 2059.22,
+      "text": "Gamer apples"
+    },
+    {
+      "id": 228,
+      "start": 2061.06,
+      "end": 2066.08,
+      "text": "It's like long lists of miss team ups is hilarious"
+    },
+    {
+      "id": 229,
+      "start": 2067.32,
+      "end": 2069.32,
+      "text": "Oh"
+    },
+    {
+      "id": 230,
+      "start": 2072.36,
+      "end": 2077.88,
+      "text": "The battle starts in five four three two one"
+    },
+    {
+      "id": 231,
+      "start": 2077.88,
+      "end": 2079.88,
+      "text": "I"
+    },
+    {
+      "id": 232,
+      "start": 2097.9,
+      "end": 2111.27,
+      "text": "Jumping directly in the middle is a mistake. That's some real case blackwell gameplay jump directly into their whole team"
+    },
+    {
+      "id": 233,
+      "start": 2130.04,
+      "end": 2132.04,
+      "text": "What he still wants to fight me"
+    },
+    {
+      "id": 234,
+      "start": 2150.8,
+      "end": 2152.8,
+      "text": "Gosh case"
+    },
+    {
+      "id": 235,
+      "start": 2153.2,
+      "end": 2155.2,
+      "text": "Thank you for keeping me alive"
+    },
+    {
+      "id": 236,
+      "start": 2203.43,
+      "end": 2205.43,
+      "text": "I'll never see me up here"
+    },
+    {
+      "id": 237,
+      "start": 2205.43,
+      "end": 2211.24,
+      "text": "Oh"
+    },
+    {
+      "id": 238,
+      "start": 2214.6,
+      "end": 2216.6,
+      "text": "Hey, I took one with me"
+    },
+    {
+      "id": 239,
+      "start": 2218.96,
+      "end": 2228.06,
+      "text": "Yeah"
+    },
+    {
+      "id": 240,
+      "start": 2266.66,
+      "end": 2268.66,
+      "text": "Very good"
+    },
+    {
+      "id": 241,
+      "start": 2282.74,
+      "end": 2285.98,
+      "text": "I just need to give the other team some kills so they keep playing seriously"
+    },
+    {
+      "id": 242,
+      "start": 2288.09,
+      "end": 2290.09,
+      "text": "Oh"
+    },
+    {
+      "id": 243,
+      "start": 2294.25,
+      "end": 2303.37,
+      "text": "It's like a gun hammer though cuz you can throw it and these have to be real people"
+    },
+    {
+      "id": 244,
+      "start": 2306.65,
+      "end": 2308.65,
+      "text": "There's like three"
+    },
+    {
+      "id": 245,
+      "start": 2309.13,
+      "end": 2311.49,
+      "text": "RTC people and I hate you there"
+    },
+    {
+      "id": 246,
+      "start": 2311.77,
+      "end": 2317.07,
+      "text": "Oh and a crazy see like a group right like a group they're trying to make"
+    },
+    {
+      "id": 247,
+      "start": 2318.05,
+      "end": 2320.05,
+      "text": "the RTC"
+    },
+    {
+      "id": 248,
+      "start": 2321.61,
+      "end": 2323.61,
+      "text": "A little league"
+    },
+    {
+      "id": 249,
+      "start": 2325.05,
+      "end": 2328.25,
+      "text": "What's like the college version of the military is it the ROC"
+    },
+    {
+      "id": 250,
+      "start": 2329.65,
+      "end": 2331.65,
+      "text": "ROTC"
+    },
+    {
+      "id": 251,
+      "start": 2335.49,
+      "end": 2339.93,
+      "text": "Idris ill be praised what an epic gathering across Rome's right"
+    },
+    {
+      "id": 252,
+      "start": 2342.17,
+      "end": 2349.17,
+      "text": "Maybe that's what they're going for the battle starts in five they're bringing back some factions three two one"
+    },
+    {
+      "id": 253,
+      "start": 2351.61,
+      "end": 2353.61,
+      "text": "Mission area"
+    },
+    {
+      "id": 254,
+      "start": 2358.73,
+      "end": 2366.36,
+      "text": "I got it broke that"
+    },
+    {
+      "id": 255,
+      "start": 2397.64,
+      "end": 2399.64,
+      "text": "Oh"
+    },
+    {
+      "id": 256,
+      "start": 2413.06,
+      "end": 2415.06,
+      "text": "Who's chasing me no one"
+    },
+    {
+      "id": 257,
+      "start": 2432.25,
+      "end": 2439.73,
+      "text": "Video somebody training it 16 times in a row. Oh my shit. How's that even possible? It's so broken"
+    },
+    {
+      "id": 258,
+      "start": 2461.96,
+      "end": 2464.32,
+      "text": "Chasing people with hammers guys very satisfying"
+    },
+    {
+      "id": 259,
+      "start": 2467.32,
+      "end": 2476.96,
+      "text": "The real Trump crew guys we're fighting the real Trump crew for being anti-american"
+    },
+    {
+      "id": 260,
+      "start": 2490.86,
+      "end": 2501.61,
+      "text": "Oh my that was impressive that you survived"
+    },
+    {
+      "id": 261,
+      "start": 2544.91,
+      "end": 2581.56,
+      "text": "Wow, oh my god"
+    },
+    {
+      "id": 262,
+      "start": 2584.4,
+      "end": 2588.88,
+      "text": "We frickin did it guys another big win for America"
+    },
+    {
+      "id": 263,
+      "start": 2589.72,
+      "end": 2591.72,
+      "text": "Oh"
+    },
+    {
+      "id": 264,
+      "start": 2593.32,
+      "end": 2599.6,
+      "text": "Nobody else is streaming right? Otherwise, I would raid whoever's on him was on really I don't know if he still is oh"
+    },
+    {
+      "id": 265,
+      "start": 2600.8,
+      "end": 2606.96,
+      "text": "Totally to him nice. Well, thanks so much for playing with us. Yeah, thanks"
+    },
+    {
+      "id": 266,
+      "start": 2608.16,
+      "end": 2611.04,
+      "text": "Anytime. Thanks for the invite of course"
+    },
+    {
+      "id": 267,
+      "start": 2612.24,
+      "end": 2614.24,
+      "text": "All right"
+    },
+    {
+      "id": 268,
+      "start": 2614.68,
+      "end": 2615.72,
+      "text": "Success"
+    },
+    {
+      "id": 269,
+      "start": 2615.72,
+      "end": 2617.72,
+      "text": "No, so fun. Yeah"
+    },
+    {
+      "id": 270,
+      "start": 2618.72,
+      "end": 2622.16,
+      "text": "And now we're friends so you can see that we're on way too much lately"
+    },
+    {
+      "id": 271,
+      "start": 2623.52,
+      "end": 2628.08,
+      "text": "I'm back in the Elden Ring room"
+    },
+    {
+      "id": 272,
+      "start": 2629.8,
+      "end": 2632.24,
+      "text": "Say bye bye guys. I'd see you later"
+    },
+    {
+      "id": 273,
+      "start": 2636.36,
+      "end": 2644.78,
+      "text": "There we go, okay. Whoo what a day. All right, let's briefly check in"
+    },
+    {
+      "id": 274,
+      "start": 2645.34,
+      "end": 2648.12,
+      "text": "with"
+    },
+    {
+      "id": 275,
+      "start": 2648.12,
+      "end": 2660.15,
+      "text": "With this inauguration, which is now just a convention center. Hey, hey"
+    },
+    {
+      "id": 276,
+      "start": 2661.15,
+      "end": 2663.15,
+      "text": "All right, we're gonna go get some food"
+    },
+    {
+      "id": 277,
+      "start": 2665.31,
+      "end": 2669.27,
+      "text": "Let's see who's on though who's on twitch.tv"
+    },
+    {
+      "id": 278,
+      "start": 2671.03,
+      "end": 2673.03,
+      "text": "Tim is on"
+    },
+    {
+      "id": 279,
+      "start": 2673.15,
+      "end": 2675.61,
+      "text": "He's bald. This is a fact"
+    },
+    {
+      "id": 280,
+      "start": 2676.47,
+      "end": 2681.79,
+      "text": "Elevate your space with up to 60 days of fragrance with Glade Max also. I gotta subscribe"
+    },
+    {
+      "id": 281,
+      "start": 2684.36,
+      "end": 2690.94,
+      "text": "I'll do it later, but just know we're rating totally Tim because it's totally him"
+    },
+    {
+      "id": 282,
+      "start": 2691.94,
+      "end": 2698.08,
+      "text": "And who knows when he'll be streaming again totally Tim lol"
+    },
+    {
+      "id": 283,
+      "start": 2702.92,
+      "end": 2704.92,
+      "text": "Is Trump streaming"
+    },
+    {
+      "id": 284,
+      "start": 2705.48,
+      "end": 2707.48,
+      "text": "Great question. I could have rated Trump"
+    },
+    {
+      "id": 285,
+      "start": 2708.56,
+      "end": 2711.0,
+      "text": "Sorry Tim, but I could have rated Trump"
+    },
+    {
+      "id": 286,
+      "start": 2713.12,
+      "end": 2718.04,
+      "text": "Well, thanks for the dual stream today watching checking out the dual stream election coverage plus"
+    },
+    {
+      "id": 287,
+      "start": 2718.84,
+      "end": 2721.28,
+      "text": "Marvel rivals to try to restore sanity to myself"
+    },
+    {
+      "id": 288,
+      "start": 2724.87,
+      "end": 2730.91,
+      "text": "I could see myself accidentally rating totally Trump lol that does sound like the sort of thing I would do"
+    },
+    {
+      "id": 289,
+      "start": 2733.51,
+      "end": 2737.11,
+      "text": "Sick what a day I really feel"
+    },
+    {
+      "id": 290,
+      "start": 2738.75,
+      "end": 2741.87,
+      "text": "Like I'm living in a bit of a mental fog from listening to"
+    },
+    {
+      "id": 291,
+      "start": 2742.99,
+      "end": 2748.15,
+      "text": "Both presidents speak today, but especially Trump so I'm gonna recover with a little bit of food"
+    },
+    {
+      "id": 292,
+      "start": 2748.47,
+      "end": 2752.87,
+      "text": "But say hi to Tim for me. It is a case rate of the classic"
+    },
+    {
+      "id": 293,
+      "start": 2753.67,
+      "end": 2755.35,
+      "text": "compliment him on his"
+    },
+    {
+      "id": 294,
+      "start": 2755.35,
+      "end": 2757.35,
+      "text": "Lex Luthor look and"
+    },
+    {
+      "id": 295,
+      "start": 2759.35,
+      "end": 2762.79,
+      "text": "Have a great rest of your day. I'll be back on on Wednesday or Monday Wednesday Friday now"
+    },
+    {
+      "id": 296,
+      "start": 2763.15,
+      "end": 2766.11,
+      "text": "hopefully starting between 11 and noon every time and"
+    },
+    {
+      "id": 297,
+      "start": 2767.39,
+      "end": 2769.39,
+      "text": "I'm sure we'll have some"
+    },
+    {
+      "id": 298,
+      "start": 2770.07,
+      "end": 2772.07,
+      "text": "More things to talk about on Wednesday"
+    },
+    {
+      "id": 299,
+      "start": 2772.55,
+      "end": 2777.75,
+      "text": "They're gonna be doing some raids some of the less pleasant raids probably today or tomorrow"
+    },
+    {
+      "id": 300,
+      "start": 2778.67,
+      "end": 2786.35,
+      "text": "See how that goes. Okay. Bye. Bye everybody say hi to Tim for me and happy inauguration day. We did it"
+    },
+    {
+      "id": 301,
+      "start": 2786.79,
+      "end": 2790.16,
+      "text": "We frickin did it everybody"
+    }
+  ],
+  "text": "Make the sounds case make the sounds\nOkay, there we go. I\nHaven't used this scene setting in a while. All right now I'm back to carrying this team\nYeah, I'm amazed they did not push further in it's almost like they don't need me\nWhere was a couple of professionals\nI just want to get the gold\nWish to come run it back my strategy is just play an old if I have don't think about it. Hmm. Nobody's diving\nThere's the diver\nOh, there's you\nGod we're doing so playing I think he's playing with a different crew\nI\nThey're pushing\nNo, I let the group die\nNo, hello behind us how many years\nNo, I'm sorry we've lost all our tanks\nBut you can't blame the\nAnyway\nThere's a noble sacrifice from all players except me wait Pete\nI just flipped a skateboard into his nuts on camera\nCamer I missed that\nThat's gotta be in their live coverage, right? How could that even happen in this context?\nIt's live and sleazy saying it I feel like I have to believe it\nAll right, let's do it was do one more\nIt says one more round we got to do one more upvotes for all right chat if there's anyone you want to see me play as\nTo show you how bad I am. Let me know. Yeah, should we all play our worst characters?\nIf you have one\nMe not sure I do\nSix Spider-Man, okay, that's awful\nI'll play a different killer\nI'll play one that's supposed to be able to do damage\nYeah, I'll play someone I want to be good at but I'm not good at nice\nThe aspirational pick I'm playing a sexy robot bug\nSo chat this this character's deal you're supposed to be able to aim so that\nAnd that's gonna be my problem\nYou can also heal you guys know this board above us is readable\nYeah, if you can get up there you can read it will teach you how to cope with it earth it says earth a lot\nSuper soldier incubator\nLike this is like visitor information you're visiting the super soldier incubator\nI can inspire people with this game\nI need to see this hegseth\nWhere are they dude? Yeah, where are they?\nOh\nMy god, I lost to a bad start\nDon't do it don't do it stop chasing me it's not worth it. Oh my god\nI keep so as this character you can like sleep people they keep throwing it in no direction\nDamn now I'm pissed now. I'm gonna start playing for real it's time to show them\nMy boy Pete's fire grows me immediately\nI think I have to bail on that character. I can't heal anyone cuz I\nWas like I have to bail\nOh\nActually, yeah, everyone die right now\nThey can't kill us if they're dead\nOkay, I got immediately destroyed\nThis is an aberration you just saw how good we are so this doesn't really make any sense\nYeah, I'm so bad. I'm switching to DPS as requested\nThey hear me out\nNo Magneto stop I did seem to lose that but I hit the I hit them a couple times\nSee look the moment I switch they got a kill\nJust go all DPS\nSo down\nIf I see any of you healing is wasting time if you're not doing damage, you're just wasting time\nI'm gonna ban you from the chat\nDon't use health pack side of that's a waste of time\nI\nCan I perform as my character I turned off I turned off those things cuz it was lagging so much\nBut I can look I can just do a voice. Oh, I'm gonna shoot you\nJust make chat the punisher, yeah\nShow the fucking mob whose boss\nYou\nKnow who's gonna be so proud of us on the other team daddy dick in you\nIf we can get the G from daddy dick in you we know we've done in magazines. Yeah, it's all I ever wanted\nThank you daddy\nI\nWill never see this coming if I stand up here and do those they definitely won't instantly kill me\nNo, they caught on somehow\nOkay, I got it all this is my chance\nNo\nOh\nWell, they're having fun at least sometimes you want to let the other team have fun. Yeah\nWhat surely I have to get at least a killer use your old hair buddy\nI'm gonna stand on the point and I could have gone better, but I did get one kill\nSo can I get some heels guys can I get some heels?\nI think we're technically doing better than last time actually\nHe never count on me hitting him a few times, okay that guy died today\nOh\nThis is the sneaky spot to do this no don't hold\nWhat the why'd they let me do this why are they letting me do this?\nWho they caught on\nElon's doing Elon things\nThat's I guess I shouldn't be surprised. It's here from Elon temporarily\nAnd we know a few Americans in our history\nVery\nPlaying Marvel rivals that shit is brutal even two seconds of it\nSo we won as far as I can tell I got a kill at the end so I feel pretty good about myself\nDefeat 10 enemies. I completed a daily quest\nLet's check out my highlight. Oh, yeah, look at this high level game\nI said I made a this game a tower defense game briefly\nThis is that section of the gameplay and then ignore the last part yours. There's nothing to see here\nWhy'd they leave that in?\nAll right one more round the buttons right there\nJust just so you guys know it's one more round until you say it's not one more round of all healers\nWe can never die\nThat's true. We tried all DPS we got to get this rank up somehow our quick\nOur quick play\nI'll just go healer and see what everybody else\nIs Kendall is not streaming although I am planning on making Kendall some stream assets\nAs someone who's made too many stream assets, I feel qualified\nYeah, last time I was a streamer. I was doing like the five days a week\nSix to eight hours a day still with a full-time job\nHave you ever thought about doing two hours every once in a while?\nSome of my best friends are crooks and villains stream\nKeep doing this 60 ps six healer\nPlease put your\nCalls called\nYour spray your spray on this guy's butt, please\nWe're doing a whole clean. We can't leave this room until you put your spray on its butt\nBeautiful all we need to do is capture the mission area. So what's our excuse?\nI'm extremely what the hell why these people do damage bullshit\nI'm a diver rocket raccoon\nIt's working. It's working. It works. Oh shoot. No, it works less well. No, wait, how did we get a kill?\nWe're supposed to be healing. Oh\nI'm so sorry my balls did damage for a little while for some reason\nI feel like\nThe other team stands totally still I'm pretty good\nThey can't kill Kendall not if we're all healing Kendall\nWe got it this time I\nThink the trick is if we come in one at a time then we can really focus\nThat's what I'm gonna try right now\nWe should ask yeah\nBut the trick is we can still heal each other going on this guy\nOh, I fucking got it\nOh\nYeah\nGod we're doing it. Oh\nWe're doing so well\nWe're all healers we can't die\nOkay, feel free to die. I think um\nSpider-girl characters still counts as a healer because they can heal themselves. We just can't let our one tank die. No\nOh nice even better\nWe captured the point\nWe scare them off as healers\nHmm, I feel like I should have been hitting that person but I was not\nThere is a lot happening\nOkay\nThis is a real fire power we can take down this Wolverine we can take down anyone\nThey're gonna feel so good when they lose to us\nOh\nGod I ran right into a bunch of minds if you're wondering what happened there I rock it\nOkay, he's actually hit him for once\nNow I hit him\nYou guys can't catch me. I'm a rocket raccoon. No, they're doing it\nYeah, I missed so brutally all my show whatever we got two minutes left\nNo, they all to do\nIt's too old for us they're allowed to do that\nHow the how are they winning?\nIt's really close\nMy god, he's not killing me. It's gotta be so frustrated. Oh, no, he is killing me\nOkay, yeah, these are hacks. It's cuz they're aimbot the song\nBe sure to report all of them after this game\nOh\nI killed one of them that satisfying we got to kill their healers\nThings are gonna be different this time\nYou're setting up with those minds\nI gotta be a diver rocket\nGotta get on the point\nThey know I was there I'm so little\nAll right, let's get one more win and then we'll call that an inauguration day damn\nThey got lucky I'm amazed they had more kills than death\nWell, I guess I really just assist all right all right one more win guys we can do it\nShow the world\nIt's inauguration day\nAnd the great wall of great\nWe don't need healers cuz we're also beefy big strong boys and one girl\nPoor venom getting no love attribute the win to president Trump\nToday's his day. This is all for him. I will all of us will be delivering a 20 minute sermon also\nOnly 20 minutes. Yeah, sorry, we'll do 30 we'll make it an even 30\nWas it I thought you were imprisoned on another plane\nThat's what I said in the tower we should probably go right to their door\nOr just to really emphasize our ten\nI\nAbsolutely not\nThey do have the advantage of infinite healing one step behind them, but I don't think I'm gonna use it, right?\nYeah, but these are bots they really don't know what to do\nThis is working great\nI\nWorking too well, they just got a turn in there shooting straight out\nThis is the most American way to play this game you really is\nWe were group building a wall\nI'm being the most American I can't just enforcing the laws of this game\nWe need to be consequences to leaving your\nReally good\nI'm like 90% sure that they're bots. This is a really good strategy against bots though\nReally like\nWe're cracking this AI in 2025\nThey're only putting out a one door for sure boss. Yeah, but look at that dodging. That's not\nNormal maybe some of them are\nDamn how they're still two minutes left\nAlso love that love the hate is just on the side door completely\nThe bots are getting serious\nWe miss\nOkay, I'm starting to think that it might\nNow it's a little odd the gameplay here is a little suspect\nI\nDo bots change characters and I\nNone of their names are like\nThere's no by curious 6 6 9 9\nBuild my ball\nI don't think I've ever spent this much time in this part of the map\n14 seconds\nShe's going to the point oh no they switch they're all takes down\nThey pushed us off the door right at the end\nWow, I think we find the we found the ultimate strategy go away\nAlright, let's do one more anything goes and then I think Kendall and I have to go eat\nYou say what what I always say it says one more round is the thing so it's really telling me to say one more\nBut this I think has to be my actual last one\nAnd a quick inauguration day check in\nElon Musk is still talking. He's aged\nUnfortunately your hero. Well, these people look like refugees\nThey look so sad at this\nRally oh my god\nAll right, we'll try to throw\nAdventure\nGod of blunder\nThat was my second pick for screen name\nAnd it could have been a team of five year olds on cell phones\nI don't know if this is on cell phones yet, but the teens could figure out a way the toddler true warrior is not defined by strength\nWe're gonna spread\nGamer apples\nIt's like long lists of miss team ups is hilarious\nOh\nThe battle starts in five four three two one\nI\nJumping directly in the middle is a mistake. That's some real case blackwell gameplay jump directly into their whole team\nWhat he still wants to fight me\nGosh case\nThank you for keeping me alive\nI'll never see me up here\nOh\nHey, I took one with me\nYeah\nVery good\nI just need to give the other team some kills so they keep playing seriously\nOh\nIt's like a gun hammer though cuz you can throw it and these have to be real people\nThere's like three\nRTC people and I hate you there\nOh and a crazy see like a group right like a group they're trying to make\nthe RTC\nA little league\nWhat's like the college version of the military is it the ROC\nROTC\nIdris ill be praised what an epic gathering across Rome's right\nMaybe that's what they're going for the battle starts in five they're bringing back some factions three two one\nMission area\nI got it broke that\nOh\nWho's chasing me no one\nVideo somebody training it 16 times in a row. Oh my shit. How's that even possible? It's so broken\nChasing people with hammers guys very satisfying\nThe real Trump crew guys we're fighting the real Trump crew for being anti-american\nOh my that was impressive that you survived\nWow, oh my god\nWe frickin did it guys another big win for America\nOh\nNobody else is streaming right? Otherwise, I would raid whoever's on him was on really I don't know if he still is oh\nTotally to him nice. Well, thanks so much for playing with us. Yeah, thanks\nAnytime. Thanks for the invite of course\nAll right\nSuccess\nNo, so fun. Yeah\nAnd now we're friends so you can see that we're on way too much lately\nI'm back in the Elden Ring room\nSay bye bye guys. I'd see you later\nThere we go, okay. Whoo what a day. All right, let's briefly check in\nwith\nWith this inauguration, which is now just a convention center. Hey, hey\nAll right, we're gonna go get some food\nLet's see who's on though who's on twitch.tv\nTim is on\nHe's bald. This is a fact\nElevate your space with up to 60 days of fragrance with Glade Max also. I gotta subscribe\nI'll do it later, but just know we're rating totally Tim because it's totally him\nAnd who knows when he'll be streaming again totally Tim lol\nIs Trump streaming\nGreat question. I could have rated Trump\nSorry Tim, but I could have rated Trump\nWell, thanks for the dual stream today watching checking out the dual stream election coverage plus\nMarvel rivals to try to restore sanity to myself\nI could see myself accidentally rating totally Trump lol that does sound like the sort of thing I would do\nSick what a day I really feel\nLike I'm living in a bit of a mental fog from listening to\nBoth presidents speak today, but especially Trump so I'm gonna recover with a little bit of food\nBut say hi to Tim for me. It is a case rate of the classic\ncompliment him on his\nLex Luthor look and\nHave a great rest of your day. I'll be back on on Wednesday or Monday Wednesday Friday now\nhopefully starting between 11 and noon every time and\nI'm sure we'll have some\nMore things to talk about on Wednesday\nThey're gonna be doing some raids some of the less pleasant raids probably today or tomorrow\nSee how that goes. Okay. Bye. Bye everybody say hi to Tim for me and happy inauguration day. We did it\nWe frickin did it everybody",
+  "text_timestamped": "[02:27 --> 02:29] Make the sounds case make the sounds\n[02:38 --> 02:40] Okay, there we go. I\n[02:42 --> 02:47] Haven't used this scene setting in a while. All right now I'm back to carrying this team\n[02:50 --> 02:57] Yeah, I'm amazed they did not push further in it's almost like they don't need me\n[03:00 --> 03:02] Where was a couple of professionals\n[03:07 --> 03:10] I just want to get the gold\n[03:13 --> 03:44] Wish to come run it back my strategy is just play an old if I have don't think about it. Hmm. Nobody's diving\n[03:44 --> 04:05] There's the diver\n[04:08 --> 04:15] Oh, there's you\n[04:19 --> 04:23] God we're doing so playing I think he's playing with a different crew\n[04:27 --> 04:29] I\n[04:43 --> 04:45] They're pushing\n[04:55 --> 04:57] No, I let the group die\n[05:02 --> 05:13] No, hello behind us how many years\n[05:17 --> 05:21] No, I'm sorry we've lost all our tanks\n[05:22 --> 05:24] But you can't blame the\n[05:26 --> 05:28] Anyway\n[05:28 --> 05:36] There's a noble sacrifice from all players except me wait Pete\n[05:36 --> 05:39] I just flipped a skateboard into his nuts on camera\n[05:40 --> 05:42] Camer I missed that\n[05:43 --> 05:54] That's gotta be in their live coverage, right? How could that even happen in this context?\n[05:55 --> 05:58] It's live and sleazy saying it I feel like I have to believe it\n[06:01 --> 06:03] All right, let's do it was do one more\n[06:04 --> 06:18] It says one more round we got to do one more upvotes for all right chat if there's anyone you want to see me play as\n[06:19 --> 06:27] To show you how bad I am. Let me know. Yeah, should we all play our worst characters?\n[06:30 --> 06:32] If you have one\n[06:33 --> 06:35] Me not sure I do\n[06:36 --> 06:40] Six Spider-Man, okay, that's awful\n[06:42 --> 06:44] I'll play a different killer\n[06:46 --> 06:48] I'll play one that's supposed to be able to do damage\n[06:48 --> 06:54] Yeah, I'll play someone I want to be good at but I'm not good at nice\n[06:56 --> 07:05] The aspirational pick I'm playing a sexy robot bug\n[07:09 --> 07:15] So chat this this character's deal you're supposed to be able to aim so that\n[07:16 --> 07:18] And that's gonna be my problem\n[07:22 --> 07:26] You can also heal you guys know this board above us is readable\n[07:29 --> 07:34] Yeah, if you can get up there you can read it will teach you how to cope with it earth it says earth a lot\n[07:36 --> 07:38] Super soldier incubator\n[07:39 --> 07:44] Like this is like visitor information you're visiting the super soldier incubator\n[07:51 --> 07:53] I can inspire people with this game\n[07:55 --> 07:59] I need to see this hegseth\n[08:05 --> 08:09] Where are they dude? Yeah, where are they?\n[08:11 --> 08:17] Oh\n[08:31 --> 08:34] My god, I lost to a bad start\n[08:39 --> 08:49] Don't do it don't do it stop chasing me it's not worth it. Oh my god\n[08:49 --> 08:54] I keep so as this character you can like sleep people they keep throwing it in no direction\n[09:00 --> 09:10] Damn now I'm pissed now. I'm gonna start playing for real it's time to show them\n[09:12 --> 09:14] My boy Pete's fire grows me immediately\n[09:24 --> 09:30] I think I have to bail on that character. I can't heal anyone cuz I\n[09:33 --> 09:35] Was like I have to bail\n[09:35 --> 09:37] Oh\n[09:44 --> 09:46] Actually, yeah, everyone die right now\n[09:51 --> 09:53] They can't kill us if they're dead\n[10:02 --> 10:04] Okay, I got immediately destroyed\n[10:04 --> 10:08] This is an aberration you just saw how good we are so this doesn't really make any sense\n[10:09 --> 10:12] Yeah, I'm so bad. I'm switching to DPS as requested\n[10:27 --> 10:31] They hear me out\n[10:36 --> 10:56] No Magneto stop I did seem to lose that but I hit the I hit them a couple times\n[10:56 --> 10:58] See look the moment I switch they got a kill\n[11:01 --> 11:03] Just go all DPS\n[11:05 --> 11:06] So down\n[11:06 --> 11:11] If I see any of you healing is wasting time if you're not doing damage, you're just wasting time\n[11:11 --> 11:13] I'm gonna ban you from the chat\n[11:19 --> 11:21] Don't use health pack side of that's a waste of time\n[11:21 --> 11:23] I\n[11:26 --> 11:32] Can I perform as my character I turned off I turned off those things cuz it was lagging so much\n[11:33 --> 11:36] But I can look I can just do a voice. Oh, I'm gonna shoot you\n[11:41 --> 11:43] Just make chat the punisher, yeah\n[11:45 --> 11:47] Show the fucking mob whose boss\n[11:47 --> 11:52] You\n[11:55 --> 12:00] Know who's gonna be so proud of us on the other team daddy dick in you\n[12:03 --> 12:10] If we can get the G from daddy dick in you we know we've done in magazines. Yeah, it's all I ever wanted\n[12:12 --> 12:14] Thank you daddy\n[12:15 --> 12:17] I\n[12:17 --> 12:22] Will never see this coming if I stand up here and do those they definitely won't instantly kill me\n[12:40 --> 12:42] No, they caught on somehow\n[12:43 --> 12:52] Okay, I got it all this is my chance\n[12:57 --> 12:59] No\n[13:04 --> 13:06] Oh\n[13:06 --> 13:10] Well, they're having fun at least sometimes you want to let the other team have fun. Yeah\n[13:17 --> 13:21] What surely I have to get at least a killer use your old hair buddy\n[13:22 --> 13:28] I'm gonna stand on the point and I could have gone better, but I did get one kill\n[13:28 --> 13:36] So can I get some heels guys can I get some heels?\n[13:42 --> 13:47] I think we're technically doing better than last time actually\n[14:05 --> 14:15] He never count on me hitting him a few times, okay that guy died today\n[14:19 --> 14:23] Oh\n[14:23 --> 14:31] This is the sneaky spot to do this no don't hold\n[14:38 --> 14:41] What the why'd they let me do this why are they letting me do this?\n[14:42 --> 14:49] Who they caught on\n[14:49 --> 14:51] Elon's doing Elon things\n[14:52 --> 14:57] That's I guess I shouldn't be surprised. It's here from Elon temporarily\n[14:58 --> 15:01] And we know a few Americans in our history\n[15:04 --> 15:06] Very\n[15:08 --> 15:14] Playing Marvel rivals that shit is brutal even two seconds of it\n[15:15 --> 15:19] So we won as far as I can tell I got a kill at the end so I feel pretty good about myself\n[15:21 --> 15:24] Defeat 10 enemies. I completed a daily quest\n[15:25 --> 15:28] Let's check out my highlight. Oh, yeah, look at this high level game\n[15:29 --> 15:34] I said I made a this game a tower defense game briefly\n[15:35 --> 15:40] This is that section of the gameplay and then ignore the last part yours. There's nothing to see here\n[15:40 --> 15:42] Why'd they leave that in?\n[15:42 --> 15:45] All right one more round the buttons right there\n[15:45 --> 15:51] Just just so you guys know it's one more round until you say it's not one more round of all healers\n[15:51 --> 15:53] We can never die\n[15:54 --> 16:02] That's true. We tried all DPS we got to get this rank up somehow our quick\n[16:02 --> 16:04] Our quick play\n[16:06 --> 16:08] I'll just go healer and see what everybody else\n[16:13 --> 16:17] Is Kendall is not streaming although I am planning on making Kendall some stream assets\n[16:19 --> 16:22] As someone who's made too many stream assets, I feel qualified\n[16:23 --> 16:27] Yeah, last time I was a streamer. I was doing like the five days a week\n[16:27 --> 16:31] Six to eight hours a day still with a full-time job\n[16:32 --> 16:36] Have you ever thought about doing two hours every once in a while?\n[16:38 --> 16:42] Some of my best friends are crooks and villains stream\n[16:42 --> 16:45] Keep doing this 60 ps six healer\n[16:59 --> 17:01] Please put your\n[17:03 --> 17:05] Calls called\n[17:06 --> 17:08] Your spray your spray on this guy's butt, please\n[17:10 --> 17:14] We're doing a whole clean. We can't leave this room until you put your spray on its butt\n[17:20 --> 17:26] Beautiful all we need to do is capture the mission area. So what's our excuse?\n[17:27 --> 17:30] I'm extremely what the hell why these people do damage bullshit\n[17:39 --> 17:41] I'm a diver rocket raccoon\n[17:42 --> 17:57] It's working. It's working. It works. Oh shoot. No, it works less well. No, wait, how did we get a kill?\n[17:57 --> 17:59] We're supposed to be healing. Oh\n[17:59 --> 18:03] I'm so sorry my balls did damage for a little while for some reason\n[18:05 --> 18:12] I feel like\n[18:17 --> 18:20] The other team stands totally still I'm pretty good\n[18:27 --> 18:30] They can't kill Kendall not if we're all healing Kendall\n[18:52 --> 18:54] We got it this time I\n[18:55 --> 18:59] Think the trick is if we come in one at a time then we can really focus\n[19:00 --> 19:08] That's what I'm gonna try right now\n[19:12 --> 19:14] We should ask yeah\n[19:16 --> 19:20] But the trick is we can still heal each other going on this guy\n[19:22 --> 19:24] Oh, I fucking got it\n[19:28 --> 19:30] Oh\n[19:35 --> 19:37] Yeah\n[19:41 --> 19:45] God we're doing it. Oh\n[19:47 --> 19:51] We're doing so well\n[20:00 --> 20:02] We're all healers we can't die\n[20:05 --> 20:10] Okay, feel free to die. I think um\n[20:11 --> 20:26] Spider-girl characters still counts as a healer because they can heal themselves. We just can't let our one tank die. No\n[20:28 --> 20:31] Oh nice even better\n[20:35 --> 20:40] We captured the point\n[20:44 --> 20:47] We scare them off as healers\n[20:50 --> 20:53] Hmm, I feel like I should have been hitting that person but I was not\n[20:54 --> 20:58] There is a lot happening\n[21:06 --> 21:08] Okay\n[21:22 --> 21:26] This is a real fire power we can take down this Wolverine we can take down anyone\n[21:30 --> 21:32] They're gonna feel so good when they lose to us\n[21:34 --> 21:36] Oh\n[21:53 --> 21:58] God I ran right into a bunch of minds if you're wondering what happened there I rock it\n[22:18 --> 22:20] Okay, he's actually hit him for once\n[22:24 --> 22:26] Now I hit him\n[22:27 --> 22:30] You guys can't catch me. I'm a rocket raccoon. No, they're doing it\n[22:38 --> 22:47] Yeah, I missed so brutally all my show whatever we got two minutes left\n[22:54 --> 22:56] No, they all to do\n[22:57 --> 23:00] It's too old for us they're allowed to do that\n[23:02 --> 23:14] How the how are they winning?\n[23:15 --> 23:18] It's really close\n[23:35 --> 23:38] My god, he's not killing me. It's gotta be so frustrated. Oh, no, he is killing me\n[23:42 --> 23:48] Okay, yeah, these are hacks. It's cuz they're aimbot the song\n[23:48 --> 23:53] Be sure to report all of them after this game\n[24:24 --> 24:26] Oh\n[24:32 --> 24:42] I killed one of them that satisfying we got to kill their healers\n[24:43 --> 24:45] Things are gonna be different this time\n[24:46 --> 24:48] You're setting up with those minds\n[24:57 --> 24:59] I gotta be a diver rocket\n[25:20 --> 25:22] Gotta get on the point\n[25:33 --> 25:35] They know I was there I'm so little\n[25:38 --> 25:51] All right, let's get one more win and then we'll call that an inauguration day damn\n[25:51 --> 25:56] They got lucky I'm amazed they had more kills than death\n[25:58 --> 26:06] Well, I guess I really just assist all right all right one more win guys we can do it\n[26:07 --> 26:12] Show the world\n[26:17 --> 26:19] It's inauguration day\n[26:27 --> 26:29] And the great wall of great\n[26:31 --> 26:39] We don't need healers cuz we're also beefy big strong boys and one girl\n[26:41 --> 26:55] Poor venom getting no love attribute the win to president Trump\n[26:56 --> 27:02] Today's his day. This is all for him. I will all of us will be delivering a 20 minute sermon also\n[27:06 --> 27:10] Only 20 minutes. Yeah, sorry, we'll do 30 we'll make it an even 30\n[27:11 --> 27:14] Was it I thought you were imprisoned on another plane\n[27:18 --> 27:22] That's what I said in the tower we should probably go right to their door\n[27:22 --> 27:24] Or just to really emphasize our ten\n[27:24 --> 27:26] I\n[27:48 --> 27:50] Absolutely not\n[27:51 --> 27:56] They do have the advantage of infinite healing one step behind them, but I don't think I'm gonna use it, right?\n[27:57 --> 28:00] Yeah, but these are bots they really don't know what to do\n[28:04 --> 28:06] This is working great\n[28:06 --> 28:08] I\n[28:42 --> 28:50] Working too well, they just got a turn in there shooting straight out\n[28:51 --> 28:59] This is the most American way to play this game you really is\n[29:00 --> 29:02] We were group building a wall\n[29:06 --> 29:10] I'm being the most American I can't just enforcing the laws of this game\n[29:12 --> 29:14] We need to be consequences to leaving your\n[29:29 --> 29:31] Really good\n[29:34 --> 29:39] I'm like 90% sure that they're bots. This is a really good strategy against bots though\n[29:41 --> 29:43] Really like\n[29:43 --> 29:45] We're cracking this AI in 2025\n[29:47 --> 30:03] They're only putting out a one door for sure boss. Yeah, but look at that dodging. That's not\n[30:04 --> 30:09] Normal maybe some of them are\n[30:10 --> 30:12] Damn how they're still two minutes left\n[30:21 --> 30:24] Also love that love the hate is just on the side door completely\n[30:47 --> 30:49] The bots are getting serious\n[30:55 --> 30:59] We miss\n[31:18 --> 31:20] Okay, I'm starting to think that it might\n[31:25 --> 31:29] Now it's a little odd the gameplay here is a little suspect\n[31:30 --> 31:32] I\n[31:38 --> 31:41] Do bots change characters and I\n[31:48 --> 31:50] None of their names are like\n[31:55 --> 31:57] There's no by curious 6 6 9 9\n[32:01 --> 32:03] Build my ball\n[32:13 --> 32:16] I don't think I've ever spent this much time in this part of the map\n[32:21 --> 32:23] 14 seconds\n[32:26 --> 32:33] She's going to the point oh no they switch they're all takes down\n[32:36 --> 32:39] They pushed us off the door right at the end\n[32:41 --> 32:48] Wow, I think we find the we found the ultimate strategy go away\n[33:02 --> 33:05] Alright, let's do one more anything goes and then I think Kendall and I have to go eat\n[33:06 --> 33:12] You say what what I always say it says one more round is the thing so it's really telling me to say one more\n[33:13 --> 33:15] But this I think has to be my actual last one\n[33:16 --> 33:18] And a quick inauguration day check in\n[33:19 --> 33:21] Elon Musk is still talking. He's aged\n[33:22 --> 33:27] Unfortunately your hero. Well, these people look like refugees\n[33:28 --> 33:32] They look so sad at this\n[33:33 --> 33:35] Rally oh my god\n[33:35 --> 33:37] All right, we'll try to throw\n[33:39 --> 33:45] Adventure\n[33:45 --> 33:47] God of blunder\n[33:48 --> 33:50] That was my second pick for screen name\n[33:50 --> 33:57] And it could have been a team of five year olds on cell phones\n[33:57 --> 34:08] I don't know if this is on cell phones yet, but the teens could figure out a way the toddler true warrior is not defined by strength\n[34:10 --> 34:12] We're gonna spread\n[34:15 --> 34:19] Gamer apples\n[34:21 --> 34:26] It's like long lists of miss team ups is hilarious\n[34:27 --> 34:29] Oh\n[34:32 --> 34:37] The battle starts in five four three two one\n[34:37 --> 34:39] I\n[34:57 --> 35:11] Jumping directly in the middle is a mistake. That's some real case blackwell gameplay jump directly into their whole team\n[35:30 --> 35:32] What he still wants to fight me\n[35:50 --> 35:52] Gosh case\n[35:53 --> 35:55] Thank you for keeping me alive\n[36:43 --> 36:45] I'll never see me up here\n[36:45 --> 36:51] Oh\n[36:54 --> 36:56] Hey, I took one with me\n[36:58 --> 37:08] Yeah\n[37:46 --> 37:48] Very good\n[38:02 --> 38:05] I just need to give the other team some kills so they keep playing seriously\n[38:08 --> 38:10] Oh\n[38:14 --> 38:23] It's like a gun hammer though cuz you can throw it and these have to be real people\n[38:26 --> 38:28] There's like three\n[38:29 --> 38:31] RTC people and I hate you there\n[38:31 --> 38:37] Oh and a crazy see like a group right like a group they're trying to make\n[38:38 --> 38:40] the RTC\n[38:41 --> 38:43] A little league\n[38:45 --> 38:48] What's like the college version of the military is it the ROC\n[38:49 --> 38:51] ROTC\n[38:55 --> 38:59] Idris ill be praised what an epic gathering across Rome's right\n[39:02 --> 39:09] Maybe that's what they're going for the battle starts in five they're bringing back some factions three two one\n[39:11 --> 39:13] Mission area\n[39:18 --> 39:26] I got it broke that\n[39:57 --> 39:59] Oh\n[40:13 --> 40:15] Who's chasing me no one\n[40:32 --> 40:39] Video somebody training it 16 times in a row. Oh my shit. How's that even possible? It's so broken\n[41:01 --> 41:04] Chasing people with hammers guys very satisfying\n[41:07 --> 41:16] The real Trump crew guys we're fighting the real Trump crew for being anti-american\n[41:30 --> 41:41] Oh my that was impressive that you survived\n[42:24 --> 43:01] Wow, oh my god\n[43:04 --> 43:08] We frickin did it guys another big win for America\n[43:09 --> 43:11] Oh\n[43:13 --> 43:19] Nobody else is streaming right? Otherwise, I would raid whoever's on him was on really I don't know if he still is oh\n[43:20 --> 43:26] Totally to him nice. Well, thanks so much for playing with us. Yeah, thanks\n[43:28 --> 43:31] Anytime. Thanks for the invite of course\n[43:32 --> 43:34] All right\n[43:34 --> 43:35] Success\n[43:35 --> 43:37] No, so fun. Yeah\n[43:38 --> 43:42] And now we're friends so you can see that we're on way too much lately\n[43:43 --> 43:48] I'm back in the Elden Ring room\n[43:49 --> 43:52] Say bye bye guys. I'd see you later\n[43:56 --> 44:04] There we go, okay. Whoo what a day. All right, let's briefly check in\n[44:05 --> 44:08] with\n[44:08 --> 44:20] With this inauguration, which is now just a convention center. Hey, hey\n[44:21 --> 44:23] All right, we're gonna go get some food\n[44:25 --> 44:29] Let's see who's on though who's on twitch.tv\n[44:31 --> 44:33] Tim is on\n[44:33 --> 44:35] He's bald. This is a fact\n[44:36 --> 44:41] Elevate your space with up to 60 days of fragrance with Glade Max also. I gotta subscribe\n[44:44 --> 44:50] I'll do it later, but just know we're rating totally Tim because it's totally him\n[44:51 --> 44:58] And who knows when he'll be streaming again totally Tim lol\n[45:02 --> 45:04] Is Trump streaming\n[45:05 --> 45:07] Great question. I could have rated Trump\n[45:08 --> 45:11] Sorry Tim, but I could have rated Trump\n[45:13 --> 45:18] Well, thanks for the dual stream today watching checking out the dual stream election coverage plus\n[45:18 --> 45:21] Marvel rivals to try to restore sanity to myself\n[45:24 --> 45:30] I could see myself accidentally rating totally Trump lol that does sound like the sort of thing I would do\n[45:33 --> 45:37] Sick what a day I really feel\n[45:38 --> 45:41] Like I'm living in a bit of a mental fog from listening to\n[45:42 --> 45:48] Both presidents speak today, but especially Trump so I'm gonna recover with a little bit of food\n[45:48 --> 45:52] But say hi to Tim for me. It is a case rate of the classic\n[45:53 --> 45:55] compliment him on his\n[45:55 --> 45:57] Lex Luthor look and\n[45:59 --> 46:02] Have a great rest of your day. I'll be back on on Wednesday or Monday Wednesday Friday now\n[46:03 --> 46:06] hopefully starting between 11 and noon every time and\n[46:07 --> 46:09] I'm sure we'll have some\n[46:10 --> 46:12] More things to talk about on Wednesday\n[46:12 --> 46:17] They're gonna be doing some raids some of the less pleasant raids probably today or tomorrow\n[46:18 --> 46:26] See how that goes. Okay. Bye. Bye everybody say hi to Tim for me and happy inauguration day. We did it\n[46:26 --> 46:30] We frickin did it everybody"
+}

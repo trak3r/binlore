@@ -1,0 +1,19 @@
+{
+  "vod_id": "CW-N32Uf_sI",
+  "title": "Inagoonation Gamer",
+  "url": "https://www.youtube.com/watch?v=CW-N32Uf_sI",
+  "duration_seconds": 2792,
+  "duration": "46:32",
+  "timestamp": 1737331200,
+  "aired_at": "2025-01-20T00:00:00+00:00",
+  "date": "2025-01-20",
+  "ingested_at": "2026-09-14T09:11:41.718943+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "CW-N32Uf_sI",
+  "yt_url": "https://www.youtube.com/watch?v=CW-N32Uf_sI",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-01-20"
+}
