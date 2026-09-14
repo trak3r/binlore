@@ -1,0 +1,19 @@
+{
+  "vod_id": "Renj5SaVQLY",
+  "title": "Repo Madness",
+  "url": "https://www.youtube.com/watch?v=Renj5SaVQLY",
+  "duration_seconds": 12431,
+  "duration": "3:27:11",
+  "timestamp": 1743811200,
+  "aired_at": "2025-04-05T00:00:00+00:00",
+  "date": "2025-04-05",
+  "ingested_at": "2026-09-14T18:57:38.289474+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "Renj5SaVQLY",
+  "yt_url": "https://www.youtube.com/watch?v=Renj5SaVQLY",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-04-05"
+}
