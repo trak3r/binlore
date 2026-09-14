@@ -1,0 +1,19 @@
+{
+  "vod_id": "anGKbHGedtI",
+  "title": "Budgets, Screwworms, and Various People Yelling Things that are NEWS",
+  "url": "https://www.youtube.com/watch?v=anGKbHGedtI",
+  "duration_seconds": 4081,
+  "duration": "1:08:01",
+  "timestamp": 1746230400,
+  "aired_at": "2025-05-03T00:00:00+00:00",
+  "date": "2025-05-03",
+  "ingested_at": "2026-09-14T21:32:38.387060+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "anGKbHGedtI",
+  "yt_url": "https://www.youtube.com/watch?v=anGKbHGedtI",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-05-03"
+}
