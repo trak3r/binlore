@@ -1,0 +1,3493 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "model_requested": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 2239.618,
+  "chunk_seconds": null,
+  "segments": [
+    {
+      "id": 0,
+      "start": 6.16,
+      "end": 12.16,
+      "text": "I'm Papito, I'm the dog that produces the show and now it is live and I'm a dog."
+    },
+    {
+      "id": 1,
+      "start": 12.16,
+      "end": 511.1,
+      "text": "Oh everybody."
+    },
+    {
+      "id": 2,
+      "start": 511.1,
+      "end": 515.1,
+      "text": "Good to see you all."
+    },
+    {
+      "id": 3,
+      "start": 515.1,
+      "end": 517.1,
+      "text": "Setting things up still."
+    },
+    {
+      "id": 4,
+      "start": 517.1,
+      "end": 523.1,
+      "text": "Oh my gosh, Shaka42000 with the 22."
+    },
+    {
+      "id": 5,
+      "start": 523.1,
+      "end": 524.1,
+      "text": "Nasty months."
+    },
+    {
+      "id": 6,
+      "start": 524.1,
+      "end": 527.1,
+      "text": "Love to see it."
+    },
+    {
+      "id": 7,
+      "start": 527.1,
+      "end": 528.1,
+      "text": "Great to see everybody."
+    },
+    {
+      "id": 8,
+      "start": 528.1,
+      "end": 531.1,
+      "text": "Live and sleazy Matt Liddell, CV loves you propaganda."
+    },
+    {
+      "id": 9,
+      "start": 531.1,
+      "end": 532.1,
+      "text": "Greg T.U."
+    },
+    {
+      "id": 10,
+      "start": 532.1,
+      "end": 535.1,
+      "text": "Apple DApple, Ray Silva, Sabrichi."
+    },
+    {
+      "id": 11,
+      "start": 535.1,
+      "end": 537.1,
+      "text": "The master mods are here."
+    },
+    {
+      "id": 12,
+      "start": 537.1,
+      "end": 543.1,
+      "text": "John Michael with the request for to hash it out between Jeff Ripple and Crumb."
+    },
+    {
+      "id": 13,
+      "start": 543.1,
+      "end": 546.1,
+      "text": "SuperB67, great to see everyone."
+    },
+    {
+      "id": 14,
+      "start": 546.1,
+      "end": 551.1,
+      "text": "I don't know if I'll be able to news for too long today, but on a little bit of a time crunch lately."
+    },
+    {
+      "id": 15,
+      "start": 551.1,
+      "end": 555.1,
+      "text": "But we got to do at least like a little bit of news."
+    },
+    {
+      "id": 16,
+      "start": 555.1,
+      "end": 558.63,
+      "text": "No thoughts on that Papito?"
+    },
+    {
+      "id": 17,
+      "start": 558.63,
+      "end": 565.98,
+      "text": "Papito is missing in action currently?"
+    },
+    {
+      "id": 18,
+      "start": 565.98,
+      "end": 567.98,
+      "text": "Is anybody is anybody even around?"
+    },
+    {
+      "id": 19,
+      "start": 567.98,
+      "end": 568.98,
+      "text": "I'm here."
+    },
+    {
+      "id": 20,
+      "start": 568.98,
+      "end": 570.98,
+      "text": "Is it helpful if I'm here?"
+    },
+    {
+      "id": 21,
+      "start": 570.98,
+      "end": 577.48,
+      "text": "Just ignore Crumb being here."
+    },
+    {
+      "id": 22,
+      "start": 577.48,
+      "end": 580.48,
+      "text": "Let me see if I can find Papito really quick."
+    },
+    {
+      "id": 23,
+      "start": 580.48,
+      "end": 582.48,
+      "text": "That's just alarming because he gets all over the place."
+    },
+    {
+      "id": 24,
+      "start": 582.48,
+      "end": 583.48,
+      "text": "Scurries all around."
+    },
+    {
+      "id": 25,
+      "start": 583.48,
+      "end": 586.48,
+      "text": "I don't keep an eye on him."
+    },
+    {
+      "id": 26,
+      "start": 586.48,
+      "end": 588.48,
+      "text": "Honestly, who knows what could happen?"
+    },
+    {
+      "id": 27,
+      "start": 588.48,
+      "end": 595.76,
+      "text": "Okay, let's check this out."
+    },
+    {
+      "id": 28,
+      "start": 595.76,
+      "end": 598.76,
+      "text": "He's just he's such a mischievous little guy."
+    },
+    {
+      "id": 29,
+      "start": 598.76,
+      "end": 600.76,
+      "text": "There. Okay. I think I see him."
+    },
+    {
+      "id": 30,
+      "start": 600.76,
+      "end": 602.76,
+      "text": "I think I got eyes on him now."
+    },
+    {
+      "id": 31,
+      "start": 602.76,
+      "end": 605.76,
+      "text": "But do I have to stay here the whole time?"
+    },
+    {
+      "id": 32,
+      "start": 605.76,
+      "end": 607.76,
+      "text": "What if I want to scurry around?"
+    },
+    {
+      "id": 33,
+      "start": 607.76,
+      "end": 610.04,
+      "text": "Don't?"
+    },
+    {
+      "id": 34,
+      "start": 610.04,
+      "end": 611.04,
+      "text": "No."
+    },
+    {
+      "id": 35,
+      "start": 611.04,
+      "end": 614.04,
+      "text": "But sometimes I want to scurry around."
+    },
+    {
+      "id": 36,
+      "start": 614.04,
+      "end": 615.04,
+      "text": "Yeah."
+    },
+    {
+      "id": 37,
+      "start": 615.04,
+      "end": 619.04,
+      "text": "Are they having are you being all glitchy again Papito?"
+    },
+    {
+      "id": 38,
+      "start": 619.04,
+      "end": 620.04,
+      "text": "Maybe."
+    },
+    {
+      "id": 39,
+      "start": 620.04,
+      "end": 624.42,
+      "text": "It might be a day where we're glitchy again."
+    },
+    {
+      "id": 40,
+      "start": 624.42,
+      "end": 626.42,
+      "text": "It happens."
+    },
+    {
+      "id": 41,
+      "start": 626.42,
+      "end": 628.42,
+      "text": "Damn it."
+    },
+    {
+      "id": 42,
+      "start": 629.42,
+      "end": 631.42,
+      "text": "But why does it happen?"
+    },
+    {
+      "id": 43,
+      "start": 631.42,
+      "end": 632.42,
+      "text": "One might ask."
+    },
+    {
+      "id": 44,
+      "start": 632.42,
+      "end": 638.26,
+      "text": "I'm going to try one thing real quick."
+    },
+    {
+      "id": 45,
+      "start": 638.26,
+      "end": 639.26,
+      "text": "Trent at the movies."
+    },
+    {
+      "id": 46,
+      "start": 639.26,
+      "end": 643.62,
+      "text": "We can do that for sure."
+    },
+    {
+      "id": 47,
+      "start": 643.62,
+      "end": 646.62,
+      "text": "My flawless production system here."
+    },
+    {
+      "id": 48,
+      "start": 646.62,
+      "end": 648.62,
+      "text": "Betraying me at times."
+    },
+    {
+      "id": 49,
+      "start": 648.62,
+      "end": 653.12,
+      "text": "That doesn't look quite right."
+    },
+    {
+      "id": 50,
+      "start": 653.12,
+      "end": 655.12,
+      "text": "Am I better?"
+    },
+    {
+      "id": 51,
+      "start": 655.12,
+      "end": 657.12,
+      "text": "Am I better now?"
+    },
+    {
+      "id": 52,
+      "start": 657.12,
+      "end": 659.12,
+      "text": "Not really."
+    },
+    {
+      "id": 53,
+      "start": 659.12,
+      "end": 660.12,
+      "text": "But you know what can you do?"
+    },
+    {
+      "id": 54,
+      "start": 660.12,
+      "end": 661.12,
+      "text": "Let me check chat."
+    },
+    {
+      "id": 55,
+      "start": 661.12,
+      "end": 663.12,
+      "text": "Let me bring chat over here."
+    },
+    {
+      "id": 56,
+      "start": 663.12,
+      "end": 665.12,
+      "text": "Okay. Let's see how chat's doing."
+    },
+    {
+      "id": 57,
+      "start": 665.12,
+      "end": 667.12,
+      "text": "I feel like I look good."
+    },
+    {
+      "id": 58,
+      "start": 667.12,
+      "end": 669.12,
+      "text": "I think it's good enough."
+    },
+    {
+      "id": 59,
+      "start": 669.12,
+      "end": 671.12,
+      "text": "I'm going to say good enough."
+    },
+    {
+      "id": 60,
+      "start": 671.12,
+      "end": 675.46,
+      "text": "Fine. I'll just let it slide this time."
+    },
+    {
+      "id": 61,
+      "start": 675.46,
+      "end": 677.46,
+      "text": "Even though my computer is misbehaving,"
+    },
+    {
+      "id": 62,
+      "start": 677.46,
+      "end": 679.46,
+      "text": "sometimes you have to be kind to your computer."
+    },
+    {
+      "id": 63,
+      "start": 679.46,
+      "end": 682.46,
+      "text": "I don't really think that's true."
+    },
+    {
+      "id": 64,
+      "start": 682.46,
+      "end": 684.46,
+      "text": "I don't think it cares what you do because"
+    },
+    {
+      "id": 65,
+      "start": 684.46,
+      "end": 688.46,
+      "text": "I don't have feelings like me who has the feeling of"
+    },
+    {
+      "id": 66,
+      "start": 688.46,
+      "end": 690.46,
+      "text": "I don't care if I'm looking a little jittery,"
+    },
+    {
+      "id": 67,
+      "start": 690.46,
+      "end": 692.46,
+      "text": "gimme stuff."
+    },
+    {
+      "id": 68,
+      "start": 692.46,
+      "end": 694.46,
+      "text": "That's a fair feeling."
+    },
+    {
+      "id": 69,
+      "start": 694.46,
+      "end": 697.46,
+      "text": "Alright. Let's do a little bit of news to set us off today."
+    },
+    {
+      "id": 70,
+      "start": 697.46,
+      "end": 701.46,
+      "text": "Then we'll have Jeff over and maybe he can"
+    },
+    {
+      "id": 71,
+      "start": 701.46,
+      "end": 705.46,
+      "text": "discuss his seeming issues with Crumb."
+    },
+    {
+      "id": 72,
+      "start": 705.46,
+      "end": 707.46,
+      "text": "Either way, it's news time."
+    },
+    {
+      "id": 73,
+      "start": 707.46,
+      "end": 731.58,
+      "text": "What the hell?"
+    },
+    {
+      "id": 74,
+      "start": 731.58,
+      "end": 734.58,
+      "text": "Okay. I think I might see what the problem is, case."
+    },
+    {
+      "id": 75,
+      "start": 734.58,
+      "end": 737.58,
+      "text": "I feel like you're shadowing me right now."
+    },
+    {
+      "id": 76,
+      "start": 737.58,
+      "end": 740.58,
+      "text": "Could imagine that could be causing"
+    },
+    {
+      "id": 77,
+      "start": 740.58,
+      "end": 743.58,
+      "text": "some slight issues here."
+    },
+    {
+      "id": 78,
+      "start": 743.58,
+      "end": 745.58,
+      "text": "It's a little unsettling."
+    },
+    {
+      "id": 79,
+      "start": 745.58,
+      "end": 748.58,
+      "text": "You could stop mirroring me."
+    },
+    {
+      "id": 80,
+      "start": 748.58,
+      "end": 751.58,
+      "text": "What the hell?"
+    },
+    {
+      "id": 81,
+      "start": 751.58,
+      "end": 754.58,
+      "text": "What the hell is going on around this place today?"
+    },
+    {
+      "id": 82,
+      "start": 754.58,
+      "end": 765.29,
+      "text": "Alright. We're going to have to see if we can get"
+    },
+    {
+      "id": 83,
+      "start": 765.29,
+      "end": 768.29,
+      "text": "case out from behind me."
+    },
+    {
+      "id": 84,
+      "start": 768.29,
+      "end": 771.29,
+      "text": "One second. You might lose audio here for a second."
+    },
+    {
+      "id": 85,
+      "start": 771.29,
+      "end": 777.73,
+      "text": "Sometimes this studio just does not behave itself."
+    },
+    {
+      "id": 86,
+      "start": 777.73,
+      "end": 798.45,
+      "text": "Okay. Maybe now you're gone."
+    },
+    {
+      "id": 87,
+      "start": 798.45,
+      "end": 801.45,
+      "text": "Sorry about that. I should be gone now."
+    },
+    {
+      "id": 88,
+      "start": 801.45,
+      "end": 804.45,
+      "text": "I don't know if I can tolerate how jittery you're being."
+    },
+    {
+      "id": 89,
+      "start": 804.45,
+      "end": 806.45,
+      "text": "What?"
+    },
+    {
+      "id": 90,
+      "start": 806.45,
+      "end": 810.45,
+      "text": "Just learn to relax, man."
+    },
+    {
+      "id": 91,
+      "start": 810.45,
+      "end": 813.45,
+      "text": "You're not learning to relax. He's over there just pressing buttons."
+    },
+    {
+      "id": 92,
+      "start": 813.45,
+      "end": 816.45,
+      "text": "He's not learning to relax everyone."
+    },
+    {
+      "id": 93,
+      "start": 816.45,
+      "end": 820.45,
+      "text": "I can confirm he's never relaxed for a second apparently."
+    },
+    {
+      "id": 94,
+      "start": 820.45,
+      "end": 825.59,
+      "text": "Is that better? Are we feeling better now?"
+    },
+    {
+      "id": 95,
+      "start": 825.59,
+      "end": 831.74,
+      "text": "We got to listen to my whole song at least."
+    },
+    {
+      "id": 96,
+      "start": 831.74,
+      "end": 836.56,
+      "text": "Nope. Still not very good."
+    },
+    {
+      "id": 97,
+      "start": 836.56,
+      "end": 838.56,
+      "text": "You thought Chrome was the only one interrupting, Jeff?"
+    },
+    {
+      "id": 98,
+      "start": 838.56,
+      "end": 840.56,
+      "text": "No. Today, Case is getting in on it."
+    },
+    {
+      "id": 99,
+      "start": 840.56,
+      "end": 843.56,
+      "text": "He's upset about the delays on this camera."
+    },
+    {
+      "id": 100,
+      "start": 843.56,
+      "end": 845.56,
+      "text": "And I don't know if he's capable of letting it go."
+    },
+    {
+      "id": 101,
+      "start": 845.56,
+      "end": 847.56,
+      "text": "No, I can be super chill."
+    },
+    {
+      "id": 102,
+      "start": 847.56,
+      "end": 851.56,
+      "text": "You're not proving it. I can sense your anxiety from over here."
+    },
+    {
+      "id": 103,
+      "start": 851.56,
+      "end": 859.85,
+      "text": "Nah, it's fine. I'll just let it slide."
+    },
+    {
+      "id": 104,
+      "start": 859.85,
+      "end": 861.85,
+      "text": "Alright, look. We can't even stream for that long today,"
+    },
+    {
+      "id": 105,
+      "start": 861.85,
+      "end": 864.85,
+      "text": "so I'm going to make the executive decision for Case to shut up."
+    },
+    {
+      "id": 106,
+      "start": 864.85,
+      "end": 866.85,
+      "text": "Oh, great."
+    },
+    {
+      "id": 107,
+      "start": 866.85,
+      "end": 870.85,
+      "text": "You've been in a mood lately and people have noticed that you seemingly have a problem with Chrome."
+    },
+    {
+      "id": 108,
+      "start": 870.85,
+      "end": 873.85,
+      "text": "Yeah, what's up with that big dog?"
+    },
+    {
+      "id": 109,
+      "start": 873.85,
+      "end": 875.85,
+      "text": "He's back."
+    },
+    {
+      "id": 110,
+      "start": 875.85,
+      "end": 878.85,
+      "text": "Wouldn't the best way to maybe resolve this conflict to be,"
+    },
+    {
+      "id": 111,
+      "start": 878.85,
+      "end": 882.51,
+      "text": "he's just not here?"
+    },
+    {
+      "id": 112,
+      "start": 882.51,
+      "end": 884.51,
+      "text": "It's pretty mean, man."
+    },
+    {
+      "id": 113,
+      "start": 884.51,
+      "end": 886.51,
+      "text": "I'm just shitting in the satellite room."
+    },
+    {
+      "id": 114,
+      "start": 886.51,
+      "end": 888.51,
+      "text": "Speaking of jittery, look. His camera's terrible."
+    },
+    {
+      "id": 115,
+      "start": 888.51,
+      "end": 890.51,
+      "text": "He's in the satellite room."
+    },
+    {
+      "id": 116,
+      "start": 890.51,
+      "end": 892.51,
+      "text": "I'm coming in via satellite."
+    },
+    {
+      "id": 117,
+      "start": 892.51,
+      "end": 894.51,
+      "text": "Why? It's right down the hall."
+    },
+    {
+      "id": 118,
+      "start": 894.51,
+      "end": 896.51,
+      "text": "Yeah, but it's a satellite connection."
+    },
+    {
+      "id": 119,
+      "start": 896.51,
+      "end": 898.51,
+      "text": "It's a satellite connection. It's a little jittery."
+    },
+    {
+      "id": 120,
+      "start": 898.51,
+      "end": 900.51,
+      "text": "Oh, my God."
+    },
+    {
+      "id": 121,
+      "start": 900.51,
+      "end": 902.51,
+      "text": "We're supposed to just talk about news."
+    },
+    {
+      "id": 122,
+      "start": 902.51,
+      "end": 904.51,
+      "text": "Why is it, why are there so many guys around?"
+    },
+    {
+      "id": 123,
+      "start": 904.51,
+      "end": 906.51,
+      "text": "What is this expertise?"
+    },
+    {
+      "id": 124,
+      "start": 906.51,
+      "end": 909.51,
+      "text": "Well, I'm a former mayor of a beautiful town called Chrome."
+    },
+    {
+      "id": 125,
+      "start": 909.51,
+      "end": 913.51,
+      "text": "You know what I take it back? Never cared. Don't care."
+    },
+    {
+      "id": 126,
+      "start": 913.51,
+      "end": 915.51,
+      "text": "There's no issue. How about that?"
+    },
+    {
+      "id": 127,
+      "start": 915.51,
+      "end": 918.51,
+      "text": "There's no issue. We're good."
+    },
+    {
+      "id": 128,
+      "start": 918.51,
+      "end": 921.51,
+      "text": "I just, it would really help me if you never talked"
+    },
+    {
+      "id": 129,
+      "start": 921.51,
+      "end": 923.51,
+      "text": "and I never had to see your face again."
+    },
+    {
+      "id": 130,
+      "start": 923.51,
+      "end": 925.51,
+      "text": "I'm just saying, it doesn't make sense."
+    },
+    {
+      "id": 131,
+      "start": 925.51,
+      "end": 928.51,
+      "text": "No, that's pretty mean."
+    },
+    {
+      "id": 132,
+      "start": 928.51,
+      "end": 930.51,
+      "text": "It does make sense to me."
+    },
+    {
+      "id": 133,
+      "start": 930.51,
+      "end": 932.51,
+      "text": "To be fair, it does make sense."
+    },
+    {
+      "id": 134,
+      "start": 932.51,
+      "end": 934.51,
+      "text": "What? Why did it make sense to you?"
+    },
+    {
+      "id": 135,
+      "start": 934.51,
+      "end": 937.51,
+      "text": "Just on a, just on a vibes level that does make a ton of sense."
+    },
+    {
+      "id": 136,
+      "start": 937.51,
+      "end": 939.51,
+      "text": "What did I do?"
+    },
+    {
+      "id": 137,
+      "start": 939.51,
+      "end": 941.51,
+      "text": "I just, I'm saying it does."
+    },
+    {
+      "id": 138,
+      "start": 941.51,
+      "end": 947.36,
+      "text": "It is mean, but it does make sense."
+    },
+    {
+      "id": 139,
+      "start": 947.36,
+      "end": 951.92,
+      "text": "Look at him just staring at me."
+    },
+    {
+      "id": 140,
+      "start": 951.92,
+      "end": 953.92,
+      "text": "So we resolved it where result."
+    },
+    {
+      "id": 141,
+      "start": 953.92,
+      "end": 956.92,
+      "text": "I don't feel super comfortable."
+    },
+    {
+      "id": 142,
+      "start": 956.92,
+      "end": 959.92,
+      "text": "I don't feel very involved, but do you feel good, Jeff?"
+    },
+    {
+      "id": 143,
+      "start": 959.92,
+      "end": 962.92,
+      "text": "I feel great. I feel like I feel great and I look great."
+    },
+    {
+      "id": 144,
+      "start": 962.92,
+      "end": 964.92,
+      "text": "And I think I said what needed to be said."
+    },
+    {
+      "id": 145,
+      "start": 964.92,
+      "end": 966.92,
+      "text": "Well, Jeff seems good. So I think we're good."
+    },
+    {
+      "id": 146,
+      "start": 966.92,
+      "end": 969.92,
+      "text": "But I'm directly saying, I'm not okay."
+    },
+    {
+      "id": 147,
+      "start": 969.92,
+      "end": 971.92,
+      "text": "Yeah, but you know, what can you do?"
+    },
+    {
+      "id": 148,
+      "start": 971.92,
+      "end": 975.92,
+      "text": "You can't satisfy everyone, but I think we're good to move on."
+    },
+    {
+      "id": 149,
+      "start": 975.92,
+      "end": 977.92,
+      "text": "Yeah, I'd say so."
+    },
+    {
+      "id": 150,
+      "start": 977.92,
+      "end": 984.09,
+      "text": "Oh, that's chats kind of on our side, Grom."
+    },
+    {
+      "id": 151,
+      "start": 984.09,
+      "end": 987.09,
+      "text": "So I think you're kind of holding things up."
+    },
+    {
+      "id": 152,
+      "start": 987.09,
+      "end": 991.09,
+      "text": "If you could maybe just go away."
+    },
+    {
+      "id": 153,
+      "start": 991.09,
+      "end": 994.09,
+      "text": "Hey, no worry. No worries, bros."
+    },
+    {
+      "id": 154,
+      "start": 994.09,
+      "end": 996.09,
+      "text": "Now I'm here."
+    },
+    {
+      "id": 155,
+      "start": 996.09,
+      "end": 999.09,
+      "text": "Well, you got a problem with that case?"
+    },
+    {
+      "id": 156,
+      "start": 999.09,
+      "end": 1001.09,
+      "text": "No, I've got no problem."
+    },
+    {
+      "id": 157,
+      "start": 1001.09,
+      "end": 1003.09,
+      "text": "Chats my boy. Okay."
+    },
+    {
+      "id": 158,
+      "start": 1003.09,
+      "end": 1005.09,
+      "text": "Well, yeah, Jeff's cool with it now."
+    },
+    {
+      "id": 159,
+      "start": 1005.09,
+      "end": 1007.09,
+      "text": "We can't just keep this triangle of hate, Rosie."
+    },
+    {
+      "id": 160,
+      "start": 1007.09,
+      "end": 1009.09,
+      "text": "Can we just do a little bit of news, please?"
+    },
+    {
+      "id": 161,
+      "start": 1009.09,
+      "end": 1012.09,
+      "text": "We maybe just do a little bit of news."
+    },
+    {
+      "id": 162,
+      "start": 1012.09,
+      "end": 1016.49,
+      "text": "I see no reason why we can't."
+    },
+    {
+      "id": 163,
+      "start": 1016.49,
+      "end": 1019.49,
+      "text": "Let's do some pleasantly awful,"
+    },
+    {
+      "id": 164,
+      "start": 1019.49,
+      "end": 1022.49,
+      "text": "not great news. Yeah."
+    },
+    {
+      "id": 165,
+      "start": 1022.49,
+      "end": 1024.49,
+      "text": "Yes."
+    },
+    {
+      "id": 166,
+      "start": 1024.49,
+      "end": 1026.49,
+      "text": "What's what?"
+    },
+    {
+      "id": 167,
+      "start": 1026.49,
+      "end": 1028.49,
+      "text": "This story is all over the book."
+    },
+    {
+      "id": 168,
+      "start": 1028.49,
+      "end": 1030.49,
+      "text": "Okay, let's just fix this."
+    },
+    {
+      "id": 169,
+      "start": 1030.49,
+      "end": 1034.25,
+      "text": "Hmm."
+    },
+    {
+      "id": 170,
+      "start": 1034.25,
+      "end": 1036.25,
+      "text": "Ahem."
+    },
+    {
+      "id": 171,
+      "start": 1036.25,
+      "end": 1039.25,
+      "text": "Former Abercrombie and Fitch CEO, Mike Jeffries,"
+    },
+    {
+      "id": 172,
+      "start": 1039.25,
+      "end": 1041.25,
+      "text": "charged with sex trafficking."
+    },
+    {
+      "id": 173,
+      "start": 1041.25,
+      "end": 1046.87,
+      "text": "Who could have seen it coming?"
+    },
+    {
+      "id": 174,
+      "start": 1046.87,
+      "end": 1048.87,
+      "text": "Who could have seen it coming?"
+    },
+    {
+      "id": 175,
+      "start": 1048.87,
+      "end": 1052.87,
+      "text": "Well, we did talk about it before, so I guess we saw it coming."
+    },
+    {
+      "id": 176,
+      "start": 1052.87,
+      "end": 1055.87,
+      "text": "There's a video. I'm being told there's a video."
+    },
+    {
+      "id": 177,
+      "start": 1055.87,
+      "end": 1057.87,
+      "text": "Submitted license extension for the plant,"
+    },
+    {
+      "id": 178,
+      "start": 1057.87,
+      "end": 1060.87,
+      "text": "which will allow it to run till 2054."
+    },
+    {
+      "id": 179,
+      "start": 1060.87,
+      "end": 1064.87,
+      "text": "That's 835 megawatts, a zero-carbon reliable energy"
+    },
+    {
+      "id": 180,
+      "start": 1064.87,
+      "end": 1066.87,
+      "text": "that is available to American-"
+    },
+    {
+      "id": 181,
+      "start": 1066.87,
+      "end": 1069.87,
+      "text": "Why did news site players have the worst everything?"
+    },
+    {
+      "id": 182,
+      "start": 1069.87,
+      "end": 1074.87,
+      "text": "I just want to see this sex criminal talk."
+    },
+    {
+      "id": 183,
+      "start": 1074.87,
+      "end": 1075.87,
+      "text": "Is that what we want to see?"
+    },
+    {
+      "id": 184,
+      "start": 1075.87,
+      "end": 1077.87,
+      "text": "Well, I just want to see whatever the video is."
+    },
+    {
+      "id": 185,
+      "start": 1077.87,
+      "end": 1080.87,
+      "text": "I just want to show off his horrifying face."
+    },
+    {
+      "id": 186,
+      "start": 1080.87,
+      "end": 1082.87,
+      "text": "Hmm."
+    },
+    {
+      "id": 187,
+      "start": 1082.87,
+      "end": 1084.87,
+      "text": "I don't know if that's the most noble goal,"
+    },
+    {
+      "id": 188,
+      "start": 1084.87,
+      "end": 1086.87,
+      "text": "but that is also why I clicked on the video."
+    },
+    {
+      "id": 189,
+      "start": 1086.87,
+      "end": 1088.87,
+      "text": "Here we go."
+    },
+    {
+      "id": 190,
+      "start": 1088.87,
+      "end": 1091.87,
+      "text": "Former Abercrombie and Fitch CEO, Mike Jeffries,"
+    },
+    {
+      "id": 191,
+      "start": 1091.87,
+      "end": 1094.87,
+      "text": "was arrested and criminally charged"
+    },
+    {
+      "id": 192,
+      "start": 1094.87,
+      "end": 1097.87,
+      "text": "with sex trafficking and prostitution on Tuesday."
+    },
+    {
+      "id": 193,
+      "start": 1097.87,
+      "end": 1099.87,
+      "text": "That makes him a slightly normal."
+    },
+    {
+      "id": 194,
+      "start": 1099.87,
+      "end": 1101.87,
+      "text": "He looks worse than that, I promise."
+    },
+    {
+      "id": 195,
+      "start": 1101.87,
+      "end": 1104.87,
+      "text": "He was in the case involved, more than a dozen male victims."
+    },
+    {
+      "id": 196,
+      "start": 1104.87,
+      "end": 1108.87,
+      "text": "Powerful individuals for too long have trafficked"
+    },
+    {
+      "id": 197,
+      "start": 1108.87,
+      "end": 1111.87,
+      "text": "and abused for their own sexual pleasure,"
+    },
+    {
+      "id": 198,
+      "start": 1111.87,
+      "end": 1113.87,
+      "text": "young people with few resources."
+    },
+    {
+      "id": 199,
+      "start": 1113.87,
+      "end": 1115.87,
+      "text": "U.S. Attorney for the Eastern District of New York,"
+    },
+    {
+      "id": 200,
+      "start": 1115.87,
+      "end": 1118.87,
+      "text": "Breon Peace, said Jeffries was charged,"
+    },
+    {
+      "id": 201,
+      "start": 1118.87,
+      "end": 1121.87,
+      "text": "along with his partner Matthew Smith,"
+    },
+    {
+      "id": 202,
+      "start": 1121.87,
+      "end": 1123.87,
+      "text": "and a third man, James Jacobson."
+    },
+    {
+      "id": 203,
+      "start": 1123.87,
+      "end": 1126.87,
+      "text": "Jeffries and Smith employed James Jacobson"
+    },
+    {
+      "id": 204,
+      "start": 1126.87,
+      "end": 1130.87,
+      "text": "to act as a recruiter to find men."
+    },
+    {
+      "id": 205,
+      "start": 1130.87,
+      "end": 1134.87,
+      "text": "Jeffries, Smith and Jacobson used force,"
+    },
+    {
+      "id": 206,
+      "start": 1134.87,
+      "end": 1138.87,
+      "text": "fraud and coercion to traffic those men"
+    },
+    {
+      "id": 207,
+      "start": 1138.87,
+      "end": 1141.87,
+      "text": "for their own sexual gratification."
+    },
+    {
+      "id": 208,
+      "start": 1141.87,
+      "end": 1145.87,
+      "text": "They caused the men to believe that attending these sex events"
+    },
+    {
+      "id": 209,
+      "start": 1145.87,
+      "end": 1148.87,
+      "text": "could yield modeling opportunities with Abercrombie"
+    },
+    {
+      "id": 210,
+      "start": 1148.87,
+      "end": 1151.87,
+      "text": "or otherwise benefit their careers."
+    },
+    {
+      "id": 211,
+      "start": 1151.87,
+      "end": 1154.87,
+      "text": "The 16-count indictment was unveiled a decade"
+    },
+    {
+      "id": 212,
+      "start": 1154.87,
+      "end": 1158.87,
+      "text": "after Jeffries left the retailer he built over 22 years"
+    },
+    {
+      "id": 213,
+      "start": 1158.87,
+      "end": 1162.87,
+      "text": "into a popular clothing brand known for sexually charged marketing."
+    },
+    {
+      "id": 214,
+      "start": 1162.87,
+      "end": 1165.87,
+      "text": "Abercrombie said it was shocked and appalled"
+    },
+    {
+      "id": 215,
+      "start": 1165.87,
+      "end": 1168.87,
+      "text": "by the allegations against the 80-year-old Jeffries,"
+    },
+    {
+      "id": 216,
+      "start": 1168.87,
+      "end": 1172.87,
+      "text": "who led Abercrombie from 1992 to 2014."
+    },
+    {
+      "id": 217,
+      "start": 1172.87,
+      "end": 1177.87,
+      "text": "The defendants pressured the men to consume alcohol,"
+    },
+    {
+      "id": 218,
+      "start": 1177.87,
+      "end": 1180.87,
+      "text": "by agra, and muscle relaxants known as poppers"
+    },
+    {
+      "id": 219,
+      "start": 1180.87,
+      "end": 1182.87,
+      "text": "during the sex events."
+    },
+    {
+      "id": 220,
+      "start": 1182.87,
+      "end": 1184.87,
+      "text": "And they required the presence of staff"
+    },
+    {
+      "id": 221,
+      "start": 1184.87,
+      "end": 1186.87,
+      "text": "during the sexual activity"
+    },
+    {
+      "id": 222,
+      "start": 1186.87,
+      "end": 1191.87,
+      "text": "and ensure that the men did not leave the sex events."
+    },
+    {
+      "id": 223,
+      "start": 1191.87,
+      "end": 1194.87,
+      "text": "Can I just give a shout out to this guy here?"
+    },
+    {
+      "id": 224,
+      "start": 1194.87,
+      "end": 1196.87,
+      "text": "Not an easy job to have to just kind of stand there"
+    },
+    {
+      "id": 225,
+      "start": 1196.87,
+      "end": 1199.87,
+      "text": "and be like, where'd you, alright?"
+    },
+    {
+      "id": 226,
+      "start": 1199.87,
+      "end": 1201.87,
+      "text": "I'm just sort of hanging out here."
+    },
+    {
+      "id": 227,
+      "start": 1201.87,
+      "end": 1203.87,
+      "text": "You got to wonder, you got the whole time,"
+    },
+    {
+      "id": 228,
+      "start": 1203.87,
+      "end": 1206.87,
+      "text": "like, am I making a face that is stern enough"
+    },
+    {
+      "id": 229,
+      "start": 1206.87,
+      "end": 1209.87,
+      "text": "but also soft enough to be like,"
+    },
+    {
+      "id": 230,
+      "start": 1209.87,
+      "end": 1211.87,
+      "text": "but I feel for them."
+    },
+    {
+      "id": 231,
+      "start": 1211.87,
+      "end": 1214.87,
+      "text": "Your focus is mostly on the guy standing to his left."
+    },
+    {
+      "id": 232,
+      "start": 1214.87,
+      "end": 1217.87,
+      "text": "My thoughts and prayers go immediately to the guy standing"
+    },
+    {
+      "id": 233,
+      "start": 1217.87,
+      "end": 1220.87,
+      "text": "to the left of this guy making an announcement."
+    },
+    {
+      "id": 234,
+      "start": 1220.87,
+      "end": 1223.87,
+      "text": "It's a weird place to put your sympathies in this situation, Jeff."
+    },
+    {
+      "id": 235,
+      "start": 1223.87,
+      "end": 1225.87,
+      "text": "Again, I just, I know, as a guy who's on camera"
+    },
+    {
+      "id": 236,
+      "start": 1225.87,
+      "end": 1228.87,
+      "text": "and has to make faces, I just relate to that."
+    },
+    {
+      "id": 237,
+      "start": 1228.87,
+      "end": 1231.87,
+      "text": "That's how the news is supposed to work, you just make faces."
+    },
+    {
+      "id": 238,
+      "start": 1231.87,
+      "end": 1233.87,
+      "text": "I'm pretty sure that's how it works around here, so."
+    },
+    {
+      "id": 239,
+      "start": 1233.87,
+      "end": 1236.87,
+      "text": "Allow me to process this news in my own way case."
+    },
+    {
+      "id": 240,
+      "start": 1236.87,
+      "end": 1238.87,
+      "text": "I am doing that."
+    },
+    {
+      "id": 241,
+      "start": 1238.87,
+      "end": 1240.87,
+      "text": "Well, then keep doing that. Let's finish off what he has to say."
+    },
+    {
+      "id": 242,
+      "start": 1240.87,
+      "end": 1244.87,
+      "text": "So, Jeffries and Smith decided that the sessions were over."
+    },
+    {
+      "id": 243,
+      "start": 1244.87,
+      "end": 1247.87,
+      "text": "A lawyer for Jeffries said in an email"
+    },
+    {
+      "id": 244,
+      "start": 1247.87,
+      "end": 1250.87,
+      "text": "that he would respond to the charges in court."
+    },
+    {
+      "id": 245,
+      "start": 1250.87,
+      "end": 1253.87,
+      "text": "Lawyers for the other two defendants either declined to comment"
+    },
+    {
+      "id": 246,
+      "start": 1253.87,
+      "end": 1256.87,
+      "text": "or did not immediately respond to requests."
+    },
+    {
+      "id": 247,
+      "start": 1256.87,
+      "end": 1258.87,
+      "text": "Now that it's showing off the clothes."
+    },
+    {
+      "id": 248,
+      "start": 1258.87,
+      "end": 1260.87,
+      "text": "If convicted, he and the other two defendants"
+    },
+    {
+      "id": 249,
+      "start": 1260.87,
+      "end": 1264.87,
+      "text": "face possible life sentences for the sex trafficking charges."
+    },
+    {
+      "id": 250,
+      "start": 1264.87,
+      "end": 1266.87,
+      "text": "Okay, he's looking scarier the more they zoom in."
+    },
+    {
+      "id": 251,
+      "start": 1266.87,
+      "end": 1268.87,
+      "text": "And the prostitution charges."
+    },
+    {
+      "id": 252,
+      "start": 1271.89,
+      "end": 1274.89,
+      "text": "Mike Jeffries."
+    },
+    {
+      "id": 253,
+      "start": 1274.89,
+      "end": 1277.89,
+      "text": "I swear he doesn't look as normal as that photo makes him look."
+    },
+    {
+      "id": 254,
+      "start": 1277.89,
+      "end": 1279.89,
+      "text": "Or this still frame."
+    },
+    {
+      "id": 255,
+      "start": 1279.89,
+      "end": 1283.89,
+      "text": "Well, to be fair, it's not making him look that normal."
+    },
+    {
+      "id": 256,
+      "start": 1283.89,
+      "end": 1287.89,
+      "text": "Whoa, if you Google him, you get a much less normal result."
+    },
+    {
+      "id": 257,
+      "start": 1287.89,
+      "end": 1290.89,
+      "text": "Whoa, what's going on with that expression?"
+    },
+    {
+      "id": 258,
+      "start": 1290.89,
+      "end": 1295.14,
+      "text": "Okay, yeah, he's looking slightly worse in some."
+    },
+    {
+      "id": 259,
+      "start": 1295.14,
+      "end": 1300.14,
+      "text": "Whoa, I know we've seen this before, but it is surprising to me"
+    },
+    {
+      "id": 260,
+      "start": 1300.14,
+      "end": 1304.14,
+      "text": "every time when I'm like, this guy, this guy is the one responsible"
+    },
+    {
+      "id": 261,
+      "start": 1304.14,
+      "end": 1307.14,
+      "text": "for selling me pants via men's butts."
+    },
+    {
+      "id": 262,
+      "start": 1307.14,
+      "end": 1312.14,
+      "text": "You know, that was the main appeal to you is the butts."
+    },
+    {
+      "id": 263,
+      "start": 1312.14,
+      "end": 1316.14,
+      "text": "He showed off butts and stuff."
+    },
+    {
+      "id": 264,
+      "start": 1316.14,
+      "end": 1318.14,
+      "text": "Yes, a clay face."
+    },
+    {
+      "id": 265,
+      "start": 1318.14,
+      "end": 1321.14,
+      "text": "Yeah, the marketing strategy was kind of men's butts."
+    },
+    {
+      "id": 266,
+      "start": 1321.14,
+      "end": 1327.14,
+      "text": "Can I just chime in and say it is never okay to shell pants"
+    },
+    {
+      "id": 267,
+      "start": 1327.14,
+      "end": 1331.09,
+      "text": "via butt."
+    },
+    {
+      "id": 268,
+      "start": 1331.09,
+      "end": 1333.09,
+      "text": "Cirque three ring circus around here."
+    },
+    {
+      "id": 269,
+      "start": 1333.09,
+      "end": 1337.09,
+      "text": "Uh, yeah, I guess scrum that's fine."
+    },
+    {
+      "id": 270,
+      "start": 1337.09,
+      "end": 1341.09,
+      "text": "The whole point of a pant is to cover the rear."
+    },
+    {
+      "id": 271,
+      "start": 1341.09,
+      "end": 1348.09,
+      "text": "So to sell a pant using the absence of pant revealing the butt."
+    },
+    {
+      "id": 272,
+      "start": 1348.09,
+      "end": 1351.09,
+      "text": "I think that's criminal as well."
+    },
+    {
+      "id": 273,
+      "start": 1351.09,
+      "end": 1355.09,
+      "text": "And I've been calling for this man's arrest well before these recent allegations."
+    },
+    {
+      "id": 274,
+      "start": 1355.09,
+      "end": 1358.09,
+      "text": "And I just felt that needed to be said."
+    },
+    {
+      "id": 275,
+      "start": 1358.09,
+      "end": 1361.75,
+      "text": "Hmm, it really didn't."
+    },
+    {
+      "id": 276,
+      "start": 1361.75,
+      "end": 1366.75,
+      "text": "But that does count as your bi-monthly appearance scrum."
+    },
+    {
+      "id": 277,
+      "start": 1366.75,
+      "end": 1367.75,
+      "text": "Thank you."
+    },
+    {
+      "id": 278,
+      "start": 1367.75,
+      "end": 1369.75,
+      "text": "I rushed my case."
+    },
+    {
+      "id": 279,
+      "start": 1369.75,
+      "end": 1373.9,
+      "text": "Okay."
+    },
+    {
+      "id": 280,
+      "start": 1373.9,
+      "end": 1377.9,
+      "text": "Anyway, so this is we all kind of knew he was doing this and now he's being charged."
+    },
+    {
+      "id": 281,
+      "start": 1377.9,
+      "end": 1379.9,
+      "text": "Is that the deal?"
+    },
+    {
+      "id": 282,
+      "start": 1379.9,
+      "end": 1381.9,
+      "text": "What the?"
+    },
+    {
+      "id": 283,
+      "start": 1381.9,
+      "end": 1383.9,
+      "text": "We all kind of heard it from that video."
+    },
+    {
+      "id": 284,
+      "start": 1383.9,
+      "end": 1385.9,
+      "text": "It followed a BBC investigation."
+    },
+    {
+      "id": 285,
+      "start": 1385.9,
+      "end": 1390.9,
+      "text": "The charges and proposed class action lawsuit accusing Jeffries of"
+    },
+    {
+      "id": 286,
+      "start": 1390.9,
+      "end": 1394.9,
+      "text": "baiting young men with the prospect of modeling jobs, which now we've heard about."
+    },
+    {
+      "id": 287,
+      "start": 1394.9,
+      "end": 1399.9,
+      "text": "If convicted, sorry, US Attorney Breon Peace,"
+    },
+    {
+      "id": 288,
+      "start": 1399.9,
+      "end": 1403.9,
+      "text": "whose office won a conviction in 30 year prison term for R. Kelly,"
+    },
+    {
+      "id": 289,
+      "start": 1403.9,
+      "end": 1406.9,
+      "text": "said powerful people for too long sexually abused young people."
+    },
+    {
+      "id": 290,
+      "start": 1406.9,
+      "end": 1408.9,
+      "text": "We saw that as well."
+    },
+    {
+      "id": 291,
+      "start": 1408.9,
+      "end": 1414.9,
+      "text": "He, they face up to 20 years in prison for the interstate prostitution charges"
+    },
+    {
+      "id": 292,
+      "start": 1414.9,
+      "end": 1416.9,
+      "text": "in separate court hearings."
+    },
+    {
+      "id": 293,
+      "start": 1416.9,
+      "end": 1422.9,
+      "text": "Jeffries and Jacobson were ordered released on respective bonds of 10 million"
+    },
+    {
+      "id": 294,
+      "start": 1422.9,
+      "end": 1425.9,
+      "text": "and 500,000."
+    },
+    {
+      "id": 295,
+      "start": 1425.9,
+      "end": 1428.9,
+      "text": "Where did those bonds go again?"
+    },
+    {
+      "id": 296,
+      "start": 1428.9,
+      "end": 1430.9,
+      "text": "The state."
+    },
+    {
+      "id": 297,
+      "start": 1430.9,
+      "end": 1432.9,
+      "text": "You know, we can't tax the rich."
+    },
+    {
+      "id": 298,
+      "start": 1432.9,
+      "end": 1435.9,
+      "text": "So we just have to convict."
+    },
+    {
+      "id": 299,
+      "start": 1435.9,
+      "end": 1439.9,
+      "text": "We have to charge the rich and extract our taxes via bonds."
+    },
+    {
+      "id": 300,
+      "start": 1439.9,
+      "end": 1440.9,
+      "text": "Is that how that works?"
+    },
+    {
+      "id": 301,
+      "start": 1440.9,
+      "end": 1441.9,
+      "text": "No, not at all."
+    },
+    {
+      "id": 302,
+      "start": 1441.9,
+      "end": 1445.9,
+      "text": "I honestly don't know where bonds go, but the state."
+    },
+    {
+      "id": 303,
+      "start": 1448.24,
+      "end": 1451.24,
+      "text": "Be Grendel. Thank you so much for the 23 months."
+    },
+    {
+      "id": 304,
+      "start": 1451.24,
+      "end": 1454.65,
+      "text": "23 you missed a month?"
+    },
+    {
+      "id": 305,
+      "start": 1454.65,
+      "end": 1455.65,
+      "text": "That's okay."
+    },
+    {
+      "id": 306,
+      "start": 1455.65,
+      "end": 1457.65,
+      "text": "Never miss a month."
+    },
+    {
+      "id": 307,
+      "start": 1457.65,
+      "end": 1458.65,
+      "text": "No, you can miss a month."
+    },
+    {
+      "id": 308,
+      "start": 1458.65,
+      "end": 1460.65,
+      "text": "It's fine. You're one month away from two years."
+    },
+    {
+      "id": 309,
+      "start": 1460.65,
+      "end": 1467.14,
+      "text": "Two years of whatever this is."
+    },
+    {
+      "id": 310,
+      "start": 1467.14,
+      "end": 1469.14,
+      "text": "You know, I do know."
+    },
+    {
+      "id": 311,
+      "start": 1469.14,
+      "end": 1472.14,
+      "text": "We can't tax the rich, but I guess we are forced to make them."
+    },
+    {
+      "id": 312,
+      "start": 1472.14,
+      "end": 1474.14,
+      "text": "Okay, I can't even say that."
+    },
+    {
+      "id": 313,
+      "start": 1474.14,
+      "end": 1475.14,
+      "text": "You can what?"
+    },
+    {
+      "id": 314,
+      "start": 1475.14,
+      "end": 1477.14,
+      "text": "What? What can't you say?"
+    },
+    {
+      "id": 315,
+      "start": 1477.14,
+      "end": 1481.14,
+      "text": "Well, I mean, that's not an unfortunately not inaccurate propaganda,"
+    },
+    {
+      "id": 316,
+      "start": 1481.14,
+      "end": 1484.14,
+      "text": "but it's troubling to say out loud."
+    },
+    {
+      "id": 317,
+      "start": 1484.14,
+      "end": 1487.14,
+      "text": "Well, it's a troubling story if you think about it for two seconds."
+    },
+    {
+      "id": 318,
+      "start": 1487.14,
+      "end": 1489.14,
+      "text": "Well, yes."
+    },
+    {
+      "id": 319,
+      "start": 1489.14,
+      "end": 1491.14,
+      "text": "And I've thought about it for one,"
+    },
+    {
+      "id": 320,
+      "start": 1491.14,
+      "end": 1494.14,
+      "text": "and I'm afraid to think about it for one more."
+    },
+    {
+      "id": 321,
+      "start": 1494.14,
+      "end": 1497.14,
+      "text": "Yeah, that is our no thought policy here really protects us."
+    },
+    {
+      "id": 322,
+      "start": 1497.14,
+      "end": 1498.14,
+      "text": "Well, we try to."
+    },
+    {
+      "id": 323,
+      "start": 1498.14,
+      "end": 1503.14,
+      "text": "A spokesperson for peace said they are expected to enter formal pleas on Friday."
+    },
+    {
+      "id": 324,
+      "start": 1503.14,
+      "end": 1508.14,
+      "text": "Okay, Smith, a dual British citizen, was ordered detained at his court hearing."
+    },
+    {
+      "id": 325,
+      "start": 1508.14,
+      "end": 1512.14,
+      "text": "Prosecutors want him jailed pending trial citing the risk of flight."
+    },
+    {
+      "id": 326,
+      "start": 1512.14,
+      "end": 1516.14,
+      "text": "Although I will say it's going to be hard for this guy to hide."
+    },
+    {
+      "id": 327,
+      "start": 1516.14,
+      "end": 1520.14,
+      "text": "Well, I guess they're talking about his partner if they're talking about..."
+    },
+    {
+      "id": 328,
+      "start": 1520.14,
+      "end": 1521.14,
+      "text": "Pierce?"
+    },
+    {
+      "id": 329,
+      "start": 1521.14,
+      "end": 1526.14,
+      "text": "Or, you know, the partner in this alleged awful activity."
+    },
+    {
+      "id": 330,
+      "start": 1526.14,
+      "end": 1528.14,
+      "text": "Sounding less alleged every day."
+    },
+    {
+      "id": 331,
+      "start": 1528.14,
+      "end": 1532.14,
+      "text": "But yes, I suppose for legal reasons alleged."
+    },
+    {
+      "id": 332,
+      "start": 1532.14,
+      "end": 1539.14,
+      "text": "Jeffrey's lawyer, Brian Bieber, and Smith's lawyers did not immediately respond to requests for comment."
+    },
+    {
+      "id": 333,
+      "start": 1539.14,
+      "end": 1542.14,
+      "text": "But he is here holding his hand up saying,"
+    },
+    {
+      "id": 334,
+      "start": 1542.14,
+      "end": 1545.14,
+      "text": "you must be this tall to attend my sex party."
+    },
+    {
+      "id": 335,
+      "start": 1545.14,
+      "end": 1548.14,
+      "text": "But then he brings the hand away, way, way, way, way down."
+    },
+    {
+      "id": 336,
+      "start": 1548.14,
+      "end": 1552.1,
+      "text": "All the way to floor level."
+    },
+    {
+      "id": 337,
+      "start": 1552.1,
+      "end": 1553.1,
+      "text": "What?"
+    },
+    {
+      "id": 338,
+      "start": 1553.1,
+      "end": 1554.1,
+      "text": "Well, that's just what I'm assuming happened."
+    },
+    {
+      "id": 339,
+      "start": 1554.1,
+      "end": 1556.1,
+      "text": "All right, well, let's not make crazy assumptions here."
+    },
+    {
+      "id": 340,
+      "start": 1556.1,
+      "end": 1559.1,
+      "text": "Well, seems like we could have made crazy assumptions about Abercrombie,"
+    },
+    {
+      "id": 341,
+      "start": 1559.1,
+      "end": 1561.1,
+      "text": "and we would have been correct."
+    },
+    {
+      "id": 342,
+      "start": 1561.1,
+      "end": 1562.1,
+      "text": "Oh, you've got a call."
+    },
+    {
+      "id": 343,
+      "start": 1562.1,
+      "end": 1564.1,
+      "text": "Kendall, you want to hang out with Chad for a second?"
+    },
+    {
+      "id": 344,
+      "start": 1564.1,
+      "end": 1567.73,
+      "text": "It's zilch, surprisingly."
+    },
+    {
+      "id": 345,
+      "start": 1567.73,
+      "end": 1578.08,
+      "text": "Can you hear me? Can you hear me?"
+    },
+    {
+      "id": 346,
+      "start": 1578.08,
+      "end": 1580.08,
+      "text": "We thought this might happen."
+    },
+    {
+      "id": 347,
+      "start": 1580.08,
+      "end": 1584.08,
+      "text": "I was prepared, and I put on mascara."
+    },
+    {
+      "id": 348,
+      "start": 1584.08,
+      "end": 1586.08,
+      "text": "Oh, he's coming back. He's coming back."
+    },
+    {
+      "id": 349,
+      "start": 1586.08,
+      "end": 1588.08,
+      "text": "Oh, no, he's not. He's putting on shoes."
+    },
+    {
+      "id": 350,
+      "start": 1588.08,
+      "end": 1589.08,
+      "text": "He's putting on shoes."
+    },
+    {
+      "id": 351,
+      "start": 1589.08,
+      "end": 1590.08,
+      "text": "What on earth are you?"
+    },
+    {
+      "id": 352,
+      "start": 1590.08,
+      "end": 1592.08,
+      "text": "Okay, he's stepping outside."
+    },
+    {
+      "id": 353,
+      "start": 1592.08,
+      "end": 1594.08,
+      "text": "You guys can hear me, right?"
+    },
+    {
+      "id": 354,
+      "start": 1594.08,
+      "end": 1596.08,
+      "text": "Oh."
+    },
+    {
+      "id": 355,
+      "start": 1596.08,
+      "end": 1599.08,
+      "text": "I can't see."
+    },
+    {
+      "id": 356,
+      "start": 1599.08,
+      "end": 1601.08,
+      "text": "I can't see."
+    },
+    {
+      "id": 357,
+      "start": 1601.08,
+      "end": 1603.08,
+      "text": "I'm sick. Okay."
+    },
+    {
+      "id": 358,
+      "start": 1606.08,
+      "end": 1608.08,
+      "text": "I don't know how his buttons work."
+    },
+    {
+      "id": 359,
+      "start": 1608.08,
+      "end": 1611.08,
+      "text": "All right, let's start pressing stuff."
+    },
+    {
+      "id": 360,
+      "start": 1611.08,
+      "end": 1616.08,
+      "text": "All right, guys, pick left or right stream deck."
+    },
+    {
+      "id": 361,
+      "start": 1616.08,
+      "end": 1618.08,
+      "text": "I don't know if you guys know this."
+    },
+    {
+      "id": 362,
+      "start": 1618.08,
+      "end": 1620.08,
+      "text": "The case has three stream decks."
+    },
+    {
+      "id": 363,
+      "start": 1620.08,
+      "end": 1623.08,
+      "text": "Okay, but we're going with the two biggest ones,"
+    },
+    {
+      "id": 364,
+      "start": 1623.08,
+      "end": 1627.08,
+      "text": "left and right, and it's the one, two, three, four, five, six, seven, eight."
+    },
+    {
+      "id": 365,
+      "start": 1627.08,
+      "end": 1629.08,
+      "text": "It's the 24 button one."
+    },
+    {
+      "id": 366,
+      "start": 1629.08,
+      "end": 1632.08,
+      "text": "Left. I'm seeing a bunch of lefts."
+    },
+    {
+      "id": 367,
+      "start": 1632.08,
+      "end": 1636.08,
+      "text": "Okay, now pick, give me a number one through 24."
+    },
+    {
+      "id": 368,
+      "start": 1636.08,
+      "end": 1639.08,
+      "text": "And that's the one we're going to hit."
+    },
+    {
+      "id": 369,
+      "start": 1642.08,
+      "end": 1645.08,
+      "text": "Ooh, I see 13 first from entity."
+    },
+    {
+      "id": 370,
+      "start": 1645.08,
+      "end": 1648.08,
+      "text": "Nine, 10, 11, 12, 13."
+    },
+    {
+      "id": 371,
+      "start": 1648.08,
+      "end": 1650.08,
+      "text": "This is a blank button."
+    },
+    {
+      "id": 372,
+      "start": 1650.08,
+      "end": 1652.08,
+      "text": "Did that do anything? It was blank."
+    },
+    {
+      "id": 373,
+      "start": 1652.08,
+      "end": 1653.08,
+      "text": "So I'm assuming no."
+    },
+    {
+      "id": 374,
+      "start": 1653.08,
+      "end": 1655.08,
+      "text": "What's next? 23."
+    },
+    {
+      "id": 375,
+      "start": 1655.08,
+      "end": 1656.08,
+      "text": "Okay, this."
+    },
+    {
+      "id": 376,
+      "start": 1656.08,
+      "end": 1657.08,
+      "text": "Yo, all right."
+    },
+    {
+      "id": 377,
+      "start": 1657.08,
+      "end": 1659.08,
+      "text": "I don't even know what this music."
+    },
+    {
+      "id": 378,
+      "start": 1659.08,
+      "end": 1661.08,
+      "text": "Oh my God's DJ music."
+    },
+    {
+      "id": 379,
+      "start": 1661.08,
+      "end": 1662.08,
+      "text": "Add options now."
+    },
+    {
+      "id": 380,
+      "start": 1662.08,
+      "end": 1665.97,
+      "text": "Did that do anything?"
+    },
+    {
+      "id": 381,
+      "start": 1665.97,
+      "end": 1666.97,
+      "text": "Is it doing anything?"
+    },
+    {
+      "id": 382,
+      "start": 1666.97,
+      "end": 1667.97,
+      "text": "I can't hear."
+    },
+    {
+      "id": 383,
+      "start": 1667.97,
+      "end": 1669.97,
+      "text": "I feel like I got to put headphones on."
+    },
+    {
+      "id": 384,
+      "start": 1669.97,
+      "end": 1671.97,
+      "text": "Hold on, hold on, hold on."
+    },
+    {
+      "id": 385,
+      "start": 1671.97,
+      "end": 1677.67,
+      "text": "There we go."
+    },
+    {
+      "id": 386,
+      "start": 1677.67,
+      "end": 1679.67,
+      "text": "There we go."
+    },
+    {
+      "id": 387,
+      "start": 1679.67,
+      "end": 1681.67,
+      "text": "Let's vote now."
+    },
+    {
+      "id": 388,
+      "start": 1681.67,
+      "end": 1682.67,
+      "text": "Okay."
+    },
+    {
+      "id": 389,
+      "start": 1682.67,
+      "end": 1687.7,
+      "text": "Okay."
+    },
+    {
+      "id": 390,
+      "start": 1687.7,
+      "end": 1689.7,
+      "text": "Will I be able to hear anything?"
+    },
+    {
+      "id": 391,
+      "start": 1689.7,
+      "end": 1691.7,
+      "text": "That's the real question."
+    },
+    {
+      "id": 392,
+      "start": 1691.7,
+      "end": 1692.7,
+      "text": "Okay."
+    },
+    {
+      "id": 393,
+      "start": 1692.7,
+      "end": 1695.7,
+      "text": "I actually can't tell."
+    },
+    {
+      "id": 394,
+      "start": 1695.7,
+      "end": 1696.7,
+      "text": "Okay."
+    },
+    {
+      "id": 395,
+      "start": 1696.7,
+      "end": 1697.7,
+      "text": "I think I can hear stuff."
+    },
+    {
+      "id": 396,
+      "start": 1697.7,
+      "end": 1698.7,
+      "text": "Okay."
+    },
+    {
+      "id": 397,
+      "start": 1698.7,
+      "end": 1700.7,
+      "text": "23 did nothing."
+    },
+    {
+      "id": 398,
+      "start": 1700.7,
+      "end": 1704.7,
+      "text": "Guys, we might have to go to the right deck."
+    },
+    {
+      "id": 399,
+      "start": 1704.7,
+      "end": 1705.7,
+      "text": "Okay."
+    },
+    {
+      "id": 400,
+      "start": 1705.7,
+      "end": 1713.7,
+      "text": "Give me another number after voting so that I don't get confused with all your voting numbers."
+    },
+    {
+      "id": 401,
+      "start": 1713.7,
+      "end": 1715.7,
+      "text": "Which stream deck do we choose?"
+    },
+    {
+      "id": 402,
+      "start": 1715.7,
+      "end": 1717.7,
+      "text": "I like that there are two 69s."
+    },
+    {
+      "id": 403,
+      "start": 1717.7,
+      "end": 1719.7,
+      "text": "I didn't know that was possible."
+    },
+    {
+      "id": 404,
+      "start": 1719.7,
+      "end": 1723.7,
+      "text": "I didn't know you can have two of the same thing unless they're somehow different."
+    },
+    {
+      "id": 405,
+      "start": 1723.7,
+      "end": 1726.7,
+      "text": "And I'm just right, dick."
+    },
+    {
+      "id": 406,
+      "start": 1726.7,
+      "end": 1727.7,
+      "text": "14."
+    },
+    {
+      "id": 407,
+      "start": 1727.7,
+      "end": 1728.7,
+      "text": "Okay."
+    },
+    {
+      "id": 408,
+      "start": 1728.7,
+      "end": 1729.7,
+      "text": "14."
+    },
+    {
+      "id": 409,
+      "start": 1729.7,
+      "end": 1731.7,
+      "text": "9, 10, 11, 12, 14."
+    },
+    {
+      "id": 410,
+      "start": 1731.7,
+      "end": 1746.73,
+      "text": "Did you guys have you guys heard that before or was that a secret that I ruined?"
+    },
+    {
+      "id": 411,
+      "start": 1746.73,
+      "end": 1752.01,
+      "text": "I need to know before I keep playing the whole thing."
+    },
+    {
+      "id": 412,
+      "start": 1752.01,
+      "end": 1755.01,
+      "text": "It's a secret or you have heard it."
+    },
+    {
+      "id": 413,
+      "start": 1755.01,
+      "end": 1757.01,
+      "text": "You can't just say yes."
+    },
+    {
+      "id": 414,
+      "start": 1757.01,
+      "end": 1760.01,
+      "text": "I need specifics."
+    },
+    {
+      "id": 415,
+      "start": 1760.01,
+      "end": 1761.01,
+      "text": "Okay."
+    },
+    {
+      "id": 416,
+      "start": 1761.01,
+      "end": 1783.63,
+      "text": "You guys know this is like 200, 200, 2 minutes, 50 seconds."
+    },
+    {
+      "id": 417,
+      "start": 1783.63,
+      "end": 1797.55,
+      "text": "Oh my God."
+    },
+    {
+      "id": 418,
+      "start": 1797.55,
+      "end": 1798.55,
+      "text": "Let's find some secrets."
+    },
+    {
+      "id": 419,
+      "start": 1798.55,
+      "end": 1799.55,
+      "text": "Okay."
+    },
+    {
+      "id": 420,
+      "start": 1799.55,
+      "end": 1801.55,
+      "text": "Should we stop scrumming?"
+    },
+    {
+      "id": 421,
+      "start": 1801.55,
+      "end": 1804.55,
+      "text": "Give me another left or right deck and a number."
+    },
+    {
+      "id": 422,
+      "start": 1804.55,
+      "end": 1806.55,
+      "text": "Am I talking too close to this?"
+    },
+    {
+      "id": 423,
+      "start": 1806.55,
+      "end": 1809.55,
+      "text": "I don't actually really know how this works."
+    },
+    {
+      "id": 424,
+      "start": 1809.55,
+      "end": 1815.55,
+      "text": "I mean, I do, but I just don't know how to like."
+    },
+    {
+      "id": 425,
+      "start": 1815.55,
+      "end": 1819.55,
+      "text": "He has so, so many stream decks."
+    },
+    {
+      "id": 426,
+      "start": 1819.55,
+      "end": 1821.55,
+      "text": "Okay."
+    },
+    {
+      "id": 427,
+      "start": 1821.55,
+      "end": 1822.55,
+      "text": "Right three."
+    },
+    {
+      "id": 428,
+      "start": 1822.55,
+      "end": 1824.55,
+      "text": "One, two, three says Lily."
+    },
+    {
+      "id": 429,
+      "start": 1824.55,
+      "end": 1827.55,
+      "text": "Oh, it's a Snapchat filter."
+    },
+    {
+      "id": 430,
+      "start": 1827.55,
+      "end": 1832.55,
+      "text": "How do I turn on his chat, Snapchat filter?"
+    },
+    {
+      "id": 431,
+      "start": 1832.55,
+      "end": 1840.55,
+      "text": "I'm looking for a Snapchat logo or at least the word Snapchat."
+    },
+    {
+      "id": 432,
+      "start": 1840.55,
+      "end": 1841.55,
+      "text": "Maybe this one."
+    },
+    {
+      "id": 433,
+      "start": 1841.55,
+      "end": 1842.55,
+      "text": "Nope."
+    },
+    {
+      "id": 434,
+      "start": 1842.55,
+      "end": 1845.18,
+      "text": "Maybe this one."
+    },
+    {
+      "id": 435,
+      "start": 1845.18,
+      "end": 1846.18,
+      "text": "Nope."
+    },
+    {
+      "id": 436,
+      "start": 1846.18,
+      "end": 1847.18,
+      "text": "Okay."
+    },
+    {
+      "id": 437,
+      "start": 1847.18,
+      "end": 1848.18,
+      "text": "Hold on."
+    },
+    {
+      "id": 438,
+      "start": 1848.18,
+      "end": 1852.18,
+      "text": "Does anyone know how to do this?"
+    },
+    {
+      "id": 439,
+      "start": 1852.18,
+      "end": 1855.18,
+      "text": "Turn on the Snapchat."
+    },
+    {
+      "id": 440,
+      "start": 1856.18,
+      "end": 1859.18,
+      "text": "Main, been main."
+    },
+    {
+      "id": 441,
+      "start": 1859.18,
+      "end": 1860.18,
+      "text": "Nope."
+    },
+    {
+      "id": 442,
+      "start": 1860.18,
+      "end": 1861.18,
+      "text": "Okay."
+    },
+    {
+      "id": 443,
+      "start": 1861.18,
+      "end": 1863.18,
+      "text": "Guest."
+    },
+    {
+      "id": 444,
+      "start": 1863.18,
+      "end": 1864.18,
+      "text": "No."
+    },
+    {
+      "id": 445,
+      "start": 1864.18,
+      "end": 1866.18,
+      "text": "Main."
+    },
+    {
+      "id": 446,
+      "start": 1866.18,
+      "end": 1868.18,
+      "text": "Main."
+    },
+    {
+      "id": 447,
+      "start": 1868.18,
+      "end": 1872.33,
+      "text": "I'm kind of learning."
+    },
+    {
+      "id": 448,
+      "start": 1872.33,
+      "end": 1875.57,
+      "text": "Main scene."
+    },
+    {
+      "id": 449,
+      "start": 1875.57,
+      "end": 1878.57,
+      "text": "He has two buttons that say Main C."
+    },
+    {
+      "id": 450,
+      "start": 1878.57,
+      "end": 1879.57,
+      "text": "Yeah."
+    },
+    {
+      "id": 451,
+      "start": 1879.57,
+      "end": 1881.57,
+      "text": "Were you guys talking about this guy?"
+    },
+    {
+      "id": 452,
+      "start": 1881.57,
+      "end": 1886.57,
+      "text": "I also don't want to accidentally like show other stuff."
+    },
+    {
+      "id": 453,
+      "start": 1886.57,
+      "end": 1887.57,
+      "text": "You know what I mean?"
+    },
+    {
+      "id": 454,
+      "start": 1887.57,
+      "end": 1888.57,
+      "text": "I'm kind of scared."
+    },
+    {
+      "id": 455,
+      "start": 1888.57,
+      "end": 1889.57,
+      "text": "He's coming back."
+    },
+    {
+      "id": 456,
+      "start": 1889.57,
+      "end": 1890.57,
+      "text": "He's back."
+    },
+    {
+      "id": 457,
+      "start": 1890.57,
+      "end": 1895.57,
+      "text": "How do I turn on Snapchat?"
+    },
+    {
+      "id": 458,
+      "start": 1895.57,
+      "end": 1897.57,
+      "text": "I made them."
+    },
+    {
+      "id": 459,
+      "start": 1897.57,
+      "end": 1899.57,
+      "text": "Give me this button."
+    },
+    {
+      "id": 460,
+      "start": 1899.57,
+      "end": 1900.57,
+      "text": "No, it's not."
+    },
+    {
+      "id": 461,
+      "start": 1900.57,
+      "end": 1903.57,
+      "text": "I clicked it and it's not doing it."
+    },
+    {
+      "id": 462,
+      "start": 1903.57,
+      "end": 1904.57,
+      "text": "Really?"
+    },
+    {
+      "id": 463,
+      "start": 1904.57,
+      "end": 1907.57,
+      "text": "Oh, you're in my other thing."
+    },
+    {
+      "id": 464,
+      "start": 1907.57,
+      "end": 1909.57,
+      "text": "I don't know how to get there."
+    },
+    {
+      "id": 465,
+      "start": 1909.57,
+      "end": 1914.57,
+      "text": "Oh, guys."
+    },
+    {
+      "id": 466,
+      "start": 1914.57,
+      "end": 1917.57,
+      "text": "He has so many things in here."
+    },
+    {
+      "id": 467,
+      "start": 1917.57,
+      "end": 1928.51,
+      "text": "Anyway, I made them pick a left or right stream deck and then a number 1324 and then I would hit that button."
+    },
+    {
+      "id": 468,
+      "start": 1928.51,
+      "end": 1930.51,
+      "text": "I have to do a thing."
+    },
+    {
+      "id": 469,
+      "start": 1930.51,
+      "end": 1931.51,
+      "text": "More?"
+    },
+    {
+      "id": 470,
+      "start": 1931.51,
+      "end": 1934.69,
+      "text": "I'm sorry."
+    },
+    {
+      "id": 471,
+      "start": 1934.69,
+      "end": 1935.69,
+      "text": "They're killing me."
+    },
+    {
+      "id": 472,
+      "start": 1935.69,
+      "end": 1938.69,
+      "text": "All right, guys, we're back with me."
+    },
+    {
+      "id": 473,
+      "start": 1938.69,
+      "end": 1942.69,
+      "text": "This is okay."
+    },
+    {
+      "id": 474,
+      "start": 1942.69,
+      "end": 1947.69,
+      "text": "Guys, we have a whole new set of options for stream deck."
+    },
+    {
+      "id": 475,
+      "start": 1947.69,
+      "end": 1952.69,
+      "text": "Pick left or right and a number 1324."
+    },
+    {
+      "id": 476,
+      "start": 1952.69,
+      "end": 1954.69,
+      "text": "This is the Lily filter."
+    },
+    {
+      "id": 477,
+      "start": 1954.69,
+      "end": 1961.69,
+      "text": "I don't actually know if that's what the real filter is called or if he's just calling it Lily R12."
+    },
+    {
+      "id": 478,
+      "start": 1961.69,
+      "end": 1963.69,
+      "text": "9, 10, 11, 12."
+    },
+    {
+      "id": 479,
+      "start": 1963.69,
+      "end": 1983.7,
+      "text": "Can you guys hear this?"
+    },
+    {
+      "id": 480,
+      "start": 1983.7,
+      "end": 1986.4,
+      "text": "Is it low?"
+    },
+    {
+      "id": 481,
+      "start": 1986.4,
+      "end": 1987.4,
+      "text": "Low for me."
+    },
+    {
+      "id": 482,
+      "start": 1987.4,
+      "end": 1989.4,
+      "text": "I also don't know how to work stuff."
+    },
+    {
+      "id": 483,
+      "start": 1989.4,
+      "end": 1994.25,
+      "text": "So like, no."
+    },
+    {
+      "id": 484,
+      "start": 1994.25,
+      "end": 1997.94,
+      "text": "Oh, I'm playing."
+    },
+    {
+      "id": 485,
+      "start": 1997.94,
+      "end": 1998.94,
+      "text": "Okay."
+    },
+    {
+      "id": 486,
+      "start": 1998.94,
+      "end": 2002.02,
+      "text": "Is it still going?"
+    },
+    {
+      "id": 487,
+      "start": 2002.02,
+      "end": 2008.11,
+      "text": "I don't know how to work this thing."
+    },
+    {
+      "id": 488,
+      "start": 2008.11,
+      "end": 2011.83,
+      "text": "Oh, shit."
+    },
+    {
+      "id": 489,
+      "start": 2011.83,
+      "end": 2024.98,
+      "text": "I keep still hit the button level Peter."
+    },
+    {
+      "id": 490,
+      "start": 2024.98,
+      "end": 2028.98,
+      "text": "I know who Peter is and I will find him."
+    },
+    {
+      "id": 491,
+      "start": 2028.98,
+      "end": 2031.98,
+      "text": "Peter, Peter, Peter, Peter, Peter."
+    },
+    {
+      "id": 492,
+      "start": 2031.98,
+      "end": 2033.98,
+      "text": "No, I see."
+    },
+    {
+      "id": 493,
+      "start": 2033.98,
+      "end": 2035.98,
+      "text": "We get checked."
+    },
+    {
+      "id": 494,
+      "start": 2035.98,
+      "end": 2036.98,
+      "text": "We get checked."
+    },
+    {
+      "id": 495,
+      "start": 2036.98,
+      "end": 2037.98,
+      "text": "Check close."
+    },
+    {
+      "id": 496,
+      "start": 2037.98,
+      "end": 2038.98,
+      "text": "Check wide."
+    },
+    {
+      "id": 497,
+      "start": 2038.98,
+      "end": 2040.98,
+      "text": "Check full."
+    },
+    {
+      "id": 498,
+      "start": 2040.98,
+      "end": 2044.98,
+      "text": "We have trip munch and Trent."
+    },
+    {
+      "id": 499,
+      "start": 2044.98,
+      "end": 2045.98,
+      "text": "We have Clem."
+    },
+    {
+      "id": 500,
+      "start": 2045.98,
+      "end": 2047.98,
+      "text": "We have checked guy."
+    },
+    {
+      "id": 501,
+      "start": 2048.98,
+      "end": 2050.98,
+      "text": "We have the hype trains."
+    },
+    {
+      "id": 502,
+      "start": 2050.98,
+      "end": 2051.98,
+      "text": "That did nothing."
+    },
+    {
+      "id": 503,
+      "start": 2051.98,
+      "end": 2067.87,
+      "text": "Bottom left button of which one?"
+    },
+    {
+      "id": 504,
+      "start": 2067.87,
+      "end": 2068.87,
+      "text": "My God."
+    },
+    {
+      "id": 505,
+      "start": 2068.87,
+      "end": 2082.78,
+      "text": "Is this song still playing for you guys?"
+    },
+    {
+      "id": 506,
+      "start": 2082.78,
+      "end": 2090.78,
+      "text": "All right, guys, I know what to do."
+    },
+    {
+      "id": 507,
+      "start": 2090.78,
+      "end": 2091.78,
+      "text": "Hold on."
+    },
+    {
+      "id": 508,
+      "start": 2091.78,
+      "end": 2093.78,
+      "text": "I know what to do."
+    },
+    {
+      "id": 509,
+      "start": 2093.78,
+      "end": 2097.78,
+      "text": "It's time to teach everyone."
+    },
+    {
+      "id": 510,
+      "start": 2097.78,
+      "end": 2099.78,
+      "text": "It's time to teach everyone."
+    },
+    {
+      "id": 511,
+      "start": 2099.78,
+      "end": 2105.78,
+      "text": "It's time to teach everyone how to play mine sweeper."
+    },
+    {
+      "id": 512,
+      "start": 2105.78,
+      "end": 2108.78,
+      "text": "This is for everyone who doesn't know how to play mine sweeper."
+    },
+    {
+      "id": 513,
+      "start": 2108.78,
+      "end": 2110.78,
+      "text": "We are ready for this."
+    },
+    {
+      "id": 514,
+      "start": 2110.78,
+      "end": 2111.78,
+      "text": "Okay."
+    },
+    {
+      "id": 515,
+      "start": 2111.78,
+      "end": 2113.78,
+      "text": "Oh, I don't get to teach whatever."
+    },
+    {
+      "id": 516,
+      "start": 2113.78,
+      "end": 2114.78,
+      "text": "It's fine."
+    },
+    {
+      "id": 517,
+      "start": 2114.78,
+      "end": 2115.78,
+      "text": "Okay."
+    },
+    {
+      "id": 518,
+      "start": 2115.78,
+      "end": 2119.78,
+      "text": "I don't know how long this song is going to go for, but we're just going to keep it."
+    },
+    {
+      "id": 519,
+      "start": 2119.78,
+      "end": 2120.78,
+      "text": "Okay."
+    },
+    {
+      "id": 520,
+      "start": 2120.78,
+      "end": 2121.78,
+      "text": "Are we all ready?"
+    },
+    {
+      "id": 521,
+      "start": 2121.78,
+      "end": 2122.78,
+      "text": "Are we all ready?"
+    },
+    {
+      "id": 522,
+      "start": 2122.78,
+      "end": 2123.78,
+      "text": "Let's click."
+    },
+    {
+      "id": 523,
+      "start": 2123.78,
+      "end": 2124.78,
+      "text": "Boom."
+    },
+    {
+      "id": 524,
+      "start": 2124.78,
+      "end": 2127.78,
+      "text": "This is mine sweeper."
+    },
+    {
+      "id": 525,
+      "start": 2127.78,
+      "end": 2131.78,
+      "text": "The numbers correlate to how many bombs are next to it."
+    },
+    {
+      "id": 526,
+      "start": 2131.78,
+      "end": 2134.78,
+      "text": "How many bombs it's touching."
+    },
+    {
+      "id": 527,
+      "start": 2134.78,
+      "end": 2137.78,
+      "text": "Let's go with this guy right here."
+    },
+    {
+      "id": 528,
+      "start": 2137.78,
+      "end": 2138.78,
+      "text": "You see this guy?"
+    },
+    {
+      "id": 529,
+      "start": 2138.78,
+      "end": 2139.78,
+      "text": "That's a bomb."
+    },
+    {
+      "id": 530,
+      "start": 2139.78,
+      "end": 2140.78,
+      "text": "Why is it a bomb?"
+    },
+    {
+      "id": 531,
+      "start": 2140.78,
+      "end": 2142.78,
+      "text": "Because of these number ones."
+    },
+    {
+      "id": 532,
+      "start": 2142.78,
+      "end": 2147.78,
+      "text": "So what I'm trying to say is this corner breaking news."
+    },
+    {
+      "id": 533,
+      "start": 2147.78,
+      "end": 2149.78,
+      "text": "What's the breaking news?"
+    },
+    {
+      "id": 534,
+      "start": 2149.78,
+      "end": 2151.78,
+      "text": "I don't know what it is."
+    },
+    {
+      "id": 535,
+      "start": 2151.78,
+      "end": 2152.78,
+      "text": "What is it?"
+    },
+    {
+      "id": 536,
+      "start": 2152.78,
+      "end": 2153.78,
+      "text": "I didn't read it."
+    },
+    {
+      "id": 537,
+      "start": 2153.78,
+      "end": 2155.78,
+      "text": "How do I see it?"
+    },
+    {
+      "id": 538,
+      "start": 2155.78,
+      "end": 2158.25,
+      "text": "Dream."
+    },
+    {
+      "id": 539,
+      "start": 2158.25,
+      "end": 2162.85,
+      "text": "I don't know how to know who did it."
+    },
+    {
+      "id": 540,
+      "start": 2162.85,
+      "end": 2164.85,
+      "text": "First time raider chatter."
+    },
+    {
+      "id": 541,
+      "start": 2164.85,
+      "end": 2165.85,
+      "text": "What's happened?"
+    },
+    {
+      "id": 542,
+      "start": 2165.85,
+      "end": 2167.85,
+      "text": "Oh, I'm really rated."
+    },
+    {
+      "id": 543,
+      "start": 2167.85,
+      "end": 2169.85,
+      "text": "You should come in here."
+    },
+    {
+      "id": 544,
+      "start": 2169.85,
+      "end": 2170.85,
+      "text": "Oh my bad."
+    },
+    {
+      "id": 545,
+      "start": 2170.85,
+      "end": 2171.85,
+      "text": "I'm so sorry."
+    },
+    {
+      "id": 546,
+      "start": 2171.85,
+      "end": 2172.85,
+      "text": "Hello, lovely."
+    },
+    {
+      "id": 547,
+      "start": 2172.85,
+      "end": 2174.85,
+      "text": "I've literally thank you so much."
+    },
+    {
+      "id": 548,
+      "start": 2174.85,
+      "end": 2181.85,
+      "text": "I've literally just summon in four case right now because he had to take a work call."
+    },
+    {
+      "id": 549,
+      "start": 2181.85,
+      "end": 2182.85,
+      "text": "My bad."
+    },
+    {
+      "id": 550,
+      "start": 2182.85,
+      "end": 2183.85,
+      "text": "Hello everybody."
+    },
+    {
+      "id": 551,
+      "start": 2183.85,
+      "end": 2184.85,
+      "text": "Welcome to stream."
+    },
+    {
+      "id": 552,
+      "start": 2184.85,
+      "end": 2186.85,
+      "text": "This is not what the stream's like."
+    },
+    {
+      "id": 553,
+      "start": 2186.85,
+      "end": 2187.85,
+      "text": "Okay."
+    },
+    {
+      "id": 554,
+      "start": 2187.85,
+      "end": 2188.85,
+      "text": "This is not it."
+    },
+    {
+      "id": 555,
+      "start": 2188.85,
+      "end": 2189.85,
+      "text": "What it is at all."
+    },
+    {
+      "id": 556,
+      "start": 2189.85,
+      "end": 2191.85,
+      "text": "I am not a streamer."
+    },
+    {
+      "id": 557,
+      "start": 2191.85,
+      "end": 2192.85,
+      "text": "Case is somewhere else."
+    },
+    {
+      "id": 558,
+      "start": 2192.85,
+      "end": 2193.85,
+      "text": "Somewhere else."
+    },
+    {
+      "id": 559,
+      "start": 2193.85,
+      "end": 2194.85,
+      "text": "Avaly, if you're still here."
+    },
+    {
+      "id": 560,
+      "start": 2194.85,
+      "end": 2195.85,
+      "text": "Thanks so much."
+    },
+    {
+      "id": 561,
+      "start": 2195.85,
+      "end": 2196.85,
+      "text": "How was the stream?"
+    },
+    {
+      "id": 562,
+      "start": 2196.85,
+      "end": 2197.85,
+      "text": "Are you doing great?"
+    },
+    {
+      "id": 563,
+      "start": 2197.85,
+      "end": 2198.85,
+      "text": "Case is coming back."
+    },
+    {
+      "id": 564,
+      "start": 2198.85,
+      "end": 2199.85,
+      "text": "Yeah."
+    },
+    {
+      "id": 565,
+      "start": 2199.85,
+      "end": 2200.85,
+      "text": "Here we go."
+    },
+    {
+      "id": 566,
+      "start": 2200.85,
+      "end": 2209.13,
+      "text": "Avaly, thank you so much for the raid."
+    },
+    {
+      "id": 567,
+      "start": 2209.13,
+      "end": 2210.13,
+      "text": "What is Kendall doing?"
+    },
+    {
+      "id": 568,
+      "start": 2210.13,
+      "end": 2213.13,
+      "text": "Oh, this is better than news."
+    },
+    {
+      "id": 569,
+      "start": 2213.13,
+      "end": 2217.13,
+      "text": "I noticed at the bottom there's like an unsettling news headline because that's what I'm usually doing."
+    },
+    {
+      "id": 570,
+      "start": 2217.13,
+      "end": 2221.13,
+      "text": "But Kendall had made the wise choice to play Minecraft instead."
+    },
+    {
+      "id": 571,
+      "start": 2221.13,
+      "end": 2222.13,
+      "text": "Mine sweeper."
+    },
+    {
+      "id": 572,
+      "start": 2222.13,
+      "end": 2223.13,
+      "text": "Sorry."
+    },
+    {
+      "id": 573,
+      "start": 2223.13,
+      "end": 2224.13,
+      "text": "Mine sweeper."
+    },
+    {
+      "id": 574,
+      "start": 2224.13,
+      "end": 2227.13,
+      "text": "This is actually mine sweeper but built in Minecraft."
+    },
+    {
+      "id": 575,
+      "start": 2227.13,
+      "end": 2229.13,
+      "text": "It's very next level."
+    },
+    {
+      "id": 576,
+      "start": 2229.13,
+      "end": 2230.13,
+      "text": "Embrace the chaos."
+    },
+    {
+      "id": 577,
+      "start": 2230.13,
+      "end": 2231.13,
+      "text": "Yeah, I have no choice."
+    },
+    {
+      "id": 578,
+      "start": 2231.13,
+      "end": 2233.13,
+      "text": "You all, everybody gets it."
+    },
+    {
+      "id": 579,
+      "start": 2233.13,
+      "end": 2235.13,
+      "text": "Everything that's happening here is very normal."
+    }
+  ],
+  "text": "I'm Papito, I'm the dog that produces the show and now it is live and I'm a dog.\nOh everybody.\nGood to see you all.\nSetting things up still.\nOh my gosh, Shaka42000 with the 22.\nNasty months.\nLove to see it.\nGreat to see everybody.\nLive and sleazy Matt Liddell, CV loves you propaganda.\nGreg T.U.\nApple DApple, Ray Silva, Sabrichi.\nThe master mods are here.\nJohn Michael with the request for to hash it out between Jeff Ripple and Crumb.\nSuperB67, great to see everyone.\nI don't know if I'll be able to news for too long today, but on a little bit of a time crunch lately.\nBut we got to do at least like a little bit of news.\nNo thoughts on that Papito?\nPapito is missing in action currently?\nIs anybody is anybody even around?\nI'm here.\nIs it helpful if I'm here?\nJust ignore Crumb being here.\nLet me see if I can find Papito really quick.\nThat's just alarming because he gets all over the place.\nScurries all around.\nI don't keep an eye on him.\nHonestly, who knows what could happen?\nOkay, let's check this out.\nHe's just he's such a mischievous little guy.\nThere. Okay. I think I see him.\nI think I got eyes on him now.\nBut do I have to stay here the whole time?\nWhat if I want to scurry around?\nDon't?\nNo.\nBut sometimes I want to scurry around.\nYeah.\nAre they having are you being all glitchy again Papito?\nMaybe.\nIt might be a day where we're glitchy again.\nIt happens.\nDamn it.\nBut why does it happen?\nOne might ask.\nI'm going to try one thing real quick.\nTrent at the movies.\nWe can do that for sure.\nMy flawless production system here.\nBetraying me at times.\nThat doesn't look quite right.\nAm I better?\nAm I better now?\nNot really.\nBut you know what can you do?\nLet me check chat.\nLet me bring chat over here.\nOkay. Let's see how chat's doing.\nI feel like I look good.\nI think it's good enough.\nI'm going to say good enough.\nFine. I'll just let it slide this time.\nEven though my computer is misbehaving,\nsometimes you have to be kind to your computer.\nI don't really think that's true.\nI don't think it cares what you do because\nI don't have feelings like me who has the feeling of\nI don't care if I'm looking a little jittery,\ngimme stuff.\nThat's a fair feeling.\nAlright. Let's do a little bit of news to set us off today.\nThen we'll have Jeff over and maybe he can\ndiscuss his seeming issues with Crumb.\nEither way, it's news time.\nWhat the hell?\nOkay. I think I might see what the problem is, case.\nI feel like you're shadowing me right now.\nCould imagine that could be causing\nsome slight issues here.\nIt's a little unsettling.\nYou could stop mirroring me.\nWhat the hell?\nWhat the hell is going on around this place today?\nAlright. We're going to have to see if we can get\ncase out from behind me.\nOne second. You might lose audio here for a second.\nSometimes this studio just does not behave itself.\nOkay. Maybe now you're gone.\nSorry about that. I should be gone now.\nI don't know if I can tolerate how jittery you're being.\nWhat?\nJust learn to relax, man.\nYou're not learning to relax. He's over there just pressing buttons.\nHe's not learning to relax everyone.\nI can confirm he's never relaxed for a second apparently.\nIs that better? Are we feeling better now?\nWe got to listen to my whole song at least.\nNope. Still not very good.\nYou thought Chrome was the only one interrupting, Jeff?\nNo. Today, Case is getting in on it.\nHe's upset about the delays on this camera.\nAnd I don't know if he's capable of letting it go.\nNo, I can be super chill.\nYou're not proving it. I can sense your anxiety from over here.\nNah, it's fine. I'll just let it slide.\nAlright, look. We can't even stream for that long today,\nso I'm going to make the executive decision for Case to shut up.\nOh, great.\nYou've been in a mood lately and people have noticed that you seemingly have a problem with Chrome.\nYeah, what's up with that big dog?\nHe's back.\nWouldn't the best way to maybe resolve this conflict to be,\nhe's just not here?\nIt's pretty mean, man.\nI'm just shitting in the satellite room.\nSpeaking of jittery, look. His camera's terrible.\nHe's in the satellite room.\nI'm coming in via satellite.\nWhy? It's right down the hall.\nYeah, but it's a satellite connection.\nIt's a satellite connection. It's a little jittery.\nOh, my God.\nWe're supposed to just talk about news.\nWhy is it, why are there so many guys around?\nWhat is this expertise?\nWell, I'm a former mayor of a beautiful town called Chrome.\nYou know what I take it back? Never cared. Don't care.\nThere's no issue. How about that?\nThere's no issue. We're good.\nI just, it would really help me if you never talked\nand I never had to see your face again.\nI'm just saying, it doesn't make sense.\nNo, that's pretty mean.\nIt does make sense to me.\nTo be fair, it does make sense.\nWhat? Why did it make sense to you?\nJust on a, just on a vibes level that does make a ton of sense.\nWhat did I do?\nI just, I'm saying it does.\nIt is mean, but it does make sense.\nLook at him just staring at me.\nSo we resolved it where result.\nI don't feel super comfortable.\nI don't feel very involved, but do you feel good, Jeff?\nI feel great. I feel like I feel great and I look great.\nAnd I think I said what needed to be said.\nWell, Jeff seems good. So I think we're good.\nBut I'm directly saying, I'm not okay.\nYeah, but you know, what can you do?\nYou can't satisfy everyone, but I think we're good to move on.\nYeah, I'd say so.\nOh, that's chats kind of on our side, Grom.\nSo I think you're kind of holding things up.\nIf you could maybe just go away.\nHey, no worry. No worries, bros.\nNow I'm here.\nWell, you got a problem with that case?\nNo, I've got no problem.\nChats my boy. Okay.\nWell, yeah, Jeff's cool with it now.\nWe can't just keep this triangle of hate, Rosie.\nCan we just do a little bit of news, please?\nWe maybe just do a little bit of news.\nI see no reason why we can't.\nLet's do some pleasantly awful,\nnot great news. Yeah.\nYes.\nWhat's what?\nThis story is all over the book.\nOkay, let's just fix this.\nHmm.\nAhem.\nFormer Abercrombie and Fitch CEO, Mike Jeffries,\ncharged with sex trafficking.\nWho could have seen it coming?\nWho could have seen it coming?\nWell, we did talk about it before, so I guess we saw it coming.\nThere's a video. I'm being told there's a video.\nSubmitted license extension for the plant,\nwhich will allow it to run till 2054.\nThat's 835 megawatts, a zero-carbon reliable energy\nthat is available to American-\nWhy did news site players have the worst everything?\nI just want to see this sex criminal talk.\nIs that what we want to see?\nWell, I just want to see whatever the video is.\nI just want to show off his horrifying face.\nHmm.\nI don't know if that's the most noble goal,\nbut that is also why I clicked on the video.\nHere we go.\nFormer Abercrombie and Fitch CEO, Mike Jeffries,\nwas arrested and criminally charged\nwith sex trafficking and prostitution on Tuesday.\nThat makes him a slightly normal.\nHe looks worse than that, I promise.\nHe was in the case involved, more than a dozen male victims.\nPowerful individuals for too long have trafficked\nand abused for their own sexual pleasure,\nyoung people with few resources.\nU.S. Attorney for the Eastern District of New York,\nBreon Peace, said Jeffries was charged,\nalong with his partner Matthew Smith,\nand a third man, James Jacobson.\nJeffries and Smith employed James Jacobson\nto act as a recruiter to find men.\nJeffries, Smith and Jacobson used force,\nfraud and coercion to traffic those men\nfor their own sexual gratification.\nThey caused the men to believe that attending these sex events\ncould yield modeling opportunities with Abercrombie\nor otherwise benefit their careers.\nThe 16-count indictment was unveiled a decade\nafter Jeffries left the retailer he built over 22 years\ninto a popular clothing brand known for sexually charged marketing.\nAbercrombie said it was shocked and appalled\nby the allegations against the 80-year-old Jeffries,\nwho led Abercrombie from 1992 to 2014.\nThe defendants pressured the men to consume alcohol,\nby agra, and muscle relaxants known as poppers\nduring the sex events.\nAnd they required the presence of staff\nduring the sexual activity\nand ensure that the men did not leave the sex events.\nCan I just give a shout out to this guy here?\nNot an easy job to have to just kind of stand there\nand be like, where'd you, alright?\nI'm just sort of hanging out here.\nYou got to wonder, you got the whole time,\nlike, am I making a face that is stern enough\nbut also soft enough to be like,\nbut I feel for them.\nYour focus is mostly on the guy standing to his left.\nMy thoughts and prayers go immediately to the guy standing\nto the left of this guy making an announcement.\nIt's a weird place to put your sympathies in this situation, Jeff.\nAgain, I just, I know, as a guy who's on camera\nand has to make faces, I just relate to that.\nThat's how the news is supposed to work, you just make faces.\nI'm pretty sure that's how it works around here, so.\nAllow me to process this news in my own way case.\nI am doing that.\nWell, then keep doing that. Let's finish off what he has to say.\nSo, Jeffries and Smith decided that the sessions were over.\nA lawyer for Jeffries said in an email\nthat he would respond to the charges in court.\nLawyers for the other two defendants either declined to comment\nor did not immediately respond to requests.\nNow that it's showing off the clothes.\nIf convicted, he and the other two defendants\nface possible life sentences for the sex trafficking charges.\nOkay, he's looking scarier the more they zoom in.\nAnd the prostitution charges.\nMike Jeffries.\nI swear he doesn't look as normal as that photo makes him look.\nOr this still frame.\nWell, to be fair, it's not making him look that normal.\nWhoa, if you Google him, you get a much less normal result.\nWhoa, what's going on with that expression?\nOkay, yeah, he's looking slightly worse in some.\nWhoa, I know we've seen this before, but it is surprising to me\nevery time when I'm like, this guy, this guy is the one responsible\nfor selling me pants via men's butts.\nYou know, that was the main appeal to you is the butts.\nHe showed off butts and stuff.\nYes, a clay face.\nYeah, the marketing strategy was kind of men's butts.\nCan I just chime in and say it is never okay to shell pants\nvia butt.\nCirque three ring circus around here.\nUh, yeah, I guess scrum that's fine.\nThe whole point of a pant is to cover the rear.\nSo to sell a pant using the absence of pant revealing the butt.\nI think that's criminal as well.\nAnd I've been calling for this man's arrest well before these recent allegations.\nAnd I just felt that needed to be said.\nHmm, it really didn't.\nBut that does count as your bi-monthly appearance scrum.\nThank you.\nI rushed my case.\nOkay.\nAnyway, so this is we all kind of knew he was doing this and now he's being charged.\nIs that the deal?\nWhat the?\nWe all kind of heard it from that video.\nIt followed a BBC investigation.\nThe charges and proposed class action lawsuit accusing Jeffries of\nbaiting young men with the prospect of modeling jobs, which now we've heard about.\nIf convicted, sorry, US Attorney Breon Peace,\nwhose office won a conviction in 30 year prison term for R. Kelly,\nsaid powerful people for too long sexually abused young people.\nWe saw that as well.\nHe, they face up to 20 years in prison for the interstate prostitution charges\nin separate court hearings.\nJeffries and Jacobson were ordered released on respective bonds of 10 million\nand 500,000.\nWhere did those bonds go again?\nThe state.\nYou know, we can't tax the rich.\nSo we just have to convict.\nWe have to charge the rich and extract our taxes via bonds.\nIs that how that works?\nNo, not at all.\nI honestly don't know where bonds go, but the state.\nBe Grendel. Thank you so much for the 23 months.\n23 you missed a month?\nThat's okay.\nNever miss a month.\nNo, you can miss a month.\nIt's fine. You're one month away from two years.\nTwo years of whatever this is.\nYou know, I do know.\nWe can't tax the rich, but I guess we are forced to make them.\nOkay, I can't even say that.\nYou can what?\nWhat? What can't you say?\nWell, I mean, that's not an unfortunately not inaccurate propaganda,\nbut it's troubling to say out loud.\nWell, it's a troubling story if you think about it for two seconds.\nWell, yes.\nAnd I've thought about it for one,\nand I'm afraid to think about it for one more.\nYeah, that is our no thought policy here really protects us.\nWell, we try to.\nA spokesperson for peace said they are expected to enter formal pleas on Friday.\nOkay, Smith, a dual British citizen, was ordered detained at his court hearing.\nProsecutors want him jailed pending trial citing the risk of flight.\nAlthough I will say it's going to be hard for this guy to hide.\nWell, I guess they're talking about his partner if they're talking about...\nPierce?\nOr, you know, the partner in this alleged awful activity.\nSounding less alleged every day.\nBut yes, I suppose for legal reasons alleged.\nJeffrey's lawyer, Brian Bieber, and Smith's lawyers did not immediately respond to requests for comment.\nBut he is here holding his hand up saying,\nyou must be this tall to attend my sex party.\nBut then he brings the hand away, way, way, way, way down.\nAll the way to floor level.\nWhat?\nWell, that's just what I'm assuming happened.\nAll right, well, let's not make crazy assumptions here.\nWell, seems like we could have made crazy assumptions about Abercrombie,\nand we would have been correct.\nOh, you've got a call.\nKendall, you want to hang out with Chad for a second?\nIt's zilch, surprisingly.\nCan you hear me? Can you hear me?\nWe thought this might happen.\nI was prepared, and I put on mascara.\nOh, he's coming back. He's coming back.\nOh, no, he's not. He's putting on shoes.\nHe's putting on shoes.\nWhat on earth are you?\nOkay, he's stepping outside.\nYou guys can hear me, right?\nOh.\nI can't see.\nI can't see.\nI'm sick. Okay.\nI don't know how his buttons work.\nAll right, let's start pressing stuff.\nAll right, guys, pick left or right stream deck.\nI don't know if you guys know this.\nThe case has three stream decks.\nOkay, but we're going with the two biggest ones,\nleft and right, and it's the one, two, three, four, five, six, seven, eight.\nIt's the 24 button one.\nLeft. I'm seeing a bunch of lefts.\nOkay, now pick, give me a number one through 24.\nAnd that's the one we're going to hit.\nOoh, I see 13 first from entity.\nNine, 10, 11, 12, 13.\nThis is a blank button.\nDid that do anything? It was blank.\nSo I'm assuming no.\nWhat's next? 23.\nOkay, this.\nYo, all right.\nI don't even know what this music.\nOh my God's DJ music.\nAdd options now.\nDid that do anything?\nIs it doing anything?\nI can't hear.\nI feel like I got to put headphones on.\nHold on, hold on, hold on.\nThere we go.\nThere we go.\nLet's vote now.\nOkay.\nOkay.\nWill I be able to hear anything?\nThat's the real question.\nOkay.\nI actually can't tell.\nOkay.\nI think I can hear stuff.\nOkay.\n23 did nothing.\nGuys, we might have to go to the right deck.\nOkay.\nGive me another number after voting so that I don't get confused with all your voting numbers.\nWhich stream deck do we choose?\nI like that there are two 69s.\nI didn't know that was possible.\nI didn't know you can have two of the same thing unless they're somehow different.\nAnd I'm just right, dick.\n14.\nOkay.\n14.\n9, 10, 11, 12, 14.\nDid you guys have you guys heard that before or was that a secret that I ruined?\nI need to know before I keep playing the whole thing.\nIt's a secret or you have heard it.\nYou can't just say yes.\nI need specifics.\nOkay.\nYou guys know this is like 200, 200, 2 minutes, 50 seconds.\nOh my God.\nLet's find some secrets.\nOkay.\nShould we stop scrumming?\nGive me another left or right deck and a number.\nAm I talking too close to this?\nI don't actually really know how this works.\nI mean, I do, but I just don't know how to like.\nHe has so, so many stream decks.\nOkay.\nRight three.\nOne, two, three says Lily.\nOh, it's a Snapchat filter.\nHow do I turn on his chat, Snapchat filter?\nI'm looking for a Snapchat logo or at least the word Snapchat.\nMaybe this one.\nNope.\nMaybe this one.\nNope.\nOkay.\nHold on.\nDoes anyone know how to do this?\nTurn on the Snapchat.\nMain, been main.\nNope.\nOkay.\nGuest.\nNo.\nMain.\nMain.\nI'm kind of learning.\nMain scene.\nHe has two buttons that say Main C.\nYeah.\nWere you guys talking about this guy?\nI also don't want to accidentally like show other stuff.\nYou know what I mean?\nI'm kind of scared.\nHe's coming back.\nHe's back.\nHow do I turn on Snapchat?\nI made them.\nGive me this button.\nNo, it's not.\nI clicked it and it's not doing it.\nReally?\nOh, you're in my other thing.\nI don't know how to get there.\nOh, guys.\nHe has so many things in here.\nAnyway, I made them pick a left or right stream deck and then a number 1324 and then I would hit that button.\nI have to do a thing.\nMore?\nI'm sorry.\nThey're killing me.\nAll right, guys, we're back with me.\nThis is okay.\nGuys, we have a whole new set of options for stream deck.\nPick left or right and a number 1324.\nThis is the Lily filter.\nI don't actually know if that's what the real filter is called or if he's just calling it Lily R12.\n9, 10, 11, 12.\nCan you guys hear this?\nIs it low?\nLow for me.\nI also don't know how to work stuff.\nSo like, no.\nOh, I'm playing.\nOkay.\nIs it still going?\nI don't know how to work this thing.\nOh, shit.\nI keep still hit the button level Peter.\nI know who Peter is and I will find him.\nPeter, Peter, Peter, Peter, Peter.\nNo, I see.\nWe get checked.\nWe get checked.\nCheck close.\nCheck wide.\nCheck full.\nWe have trip munch and Trent.\nWe have Clem.\nWe have checked guy.\nWe have the hype trains.\nThat did nothing.\nBottom left button of which one?\nMy God.\nIs this song still playing for you guys?\nAll right, guys, I know what to do.\nHold on.\nI know what to do.\nIt's time to teach everyone.\nIt's time to teach everyone.\nIt's time to teach everyone how to play mine sweeper.\nThis is for everyone who doesn't know how to play mine sweeper.\nWe are ready for this.\nOkay.\nOh, I don't get to teach whatever.\nIt's fine.\nOkay.\nI don't know how long this song is going to go for, but we're just going to keep it.\nOkay.\nAre we all ready?\nAre we all ready?\nLet's click.\nBoom.\nThis is mine sweeper.\nThe numbers correlate to how many bombs are next to it.\nHow many bombs it's touching.\nLet's go with this guy right here.\nYou see this guy?\nThat's a bomb.\nWhy is it a bomb?\nBecause of these number ones.\nSo what I'm trying to say is this corner breaking news.\nWhat's the breaking news?\nI don't know what it is.\nWhat is it?\nI didn't read it.\nHow do I see it?\nDream.\nI don't know how to know who did it.\nFirst time raider chatter.\nWhat's happened?\nOh, I'm really rated.\nYou should come in here.\nOh my bad.\nI'm so sorry.\nHello, lovely.\nI've literally thank you so much.\nI've literally just summon in four case right now because he had to take a work call.\nMy bad.\nHello everybody.\nWelcome to stream.\nThis is not what the stream's like.\nOkay.\nThis is not it.\nWhat it is at all.\nI am not a streamer.\nCase is somewhere else.\nSomewhere else.\nAvaly, if you're still here.\nThanks so much.\nHow was the stream?\nAre you doing great?\nCase is coming back.\nYeah.\nHere we go.\nAvaly, thank you so much for the raid.\nWhat is Kendall doing?\nOh, this is better than news.\nI noticed at the bottom there's like an unsettling news headline because that's what I'm usually doing.\nBut Kendall had made the wise choice to play Minecraft instead.\nMine sweeper.\nSorry.\nMine sweeper.\nThis is actually mine sweeper but built in Minecraft.\nIt's very next level.\nEmbrace the chaos.\nYeah, I have no choice.\nYou all, everybody gets it.\nEverything that's happening here is very normal.",
+  "text_timestamped": "[00:06 --> 00:12] I'm Papito, I'm the dog that produces the show and now it is live and I'm a dog.\n[00:12 --> 08:31] Oh everybody.\n[08:31 --> 08:35] Good to see you all.\n[08:35 --> 08:37] Setting things up still.\n[08:37 --> 08:43] Oh my gosh, Shaka42000 with the 22.\n[08:43 --> 08:44] Nasty months.\n[08:44 --> 08:47] Love to see it.\n[08:47 --> 08:48] Great to see everybody.\n[08:48 --> 08:51] Live and sleazy Matt Liddell, CV loves you propaganda.\n[08:51 --> 08:52] Greg T.U.\n[08:52 --> 08:55] Apple DApple, Ray Silva, Sabrichi.\n[08:55 --> 08:57] The master mods are here.\n[08:57 --> 09:03] John Michael with the request for to hash it out between Jeff Ripple and Crumb.\n[09:03 --> 09:06] SuperB67, great to see everyone.\n[09:06 --> 09:11] I don't know if I'll be able to news for too long today, but on a little bit of a time crunch lately.\n[09:11 --> 09:15] But we got to do at least like a little bit of news.\n[09:15 --> 09:18] No thoughts on that Papito?\n[09:18 --> 09:25] Papito is missing in action currently?\n[09:25 --> 09:27] Is anybody is anybody even around?\n[09:27 --> 09:28] I'm here.\n[09:28 --> 09:30] Is it helpful if I'm here?\n[09:30 --> 09:37] Just ignore Crumb being here.\n[09:37 --> 09:40] Let me see if I can find Papito really quick.\n[09:40 --> 09:42] That's just alarming because he gets all over the place.\n[09:42 --> 09:43] Scurries all around.\n[09:43 --> 09:46] I don't keep an eye on him.\n[09:46 --> 09:48] Honestly, who knows what could happen?\n[09:48 --> 09:55] Okay, let's check this out.\n[09:55 --> 09:58] He's just he's such a mischievous little guy.\n[09:58 --> 10:00] There. Okay. I think I see him.\n[10:00 --> 10:02] I think I got eyes on him now.\n[10:02 --> 10:05] But do I have to stay here the whole time?\n[10:05 --> 10:07] What if I want to scurry around?\n[10:07 --> 10:10] Don't?\n[10:10 --> 10:11] No.\n[10:11 --> 10:14] But sometimes I want to scurry around.\n[10:14 --> 10:15] Yeah.\n[10:15 --> 10:19] Are they having are you being all glitchy again Papito?\n[10:19 --> 10:20] Maybe.\n[10:20 --> 10:24] It might be a day where we're glitchy again.\n[10:24 --> 10:26] It happens.\n[10:26 --> 10:28] Damn it.\n[10:29 --> 10:31] But why does it happen?\n[10:31 --> 10:32] One might ask.\n[10:32 --> 10:38] I'm going to try one thing real quick.\n[10:38 --> 10:39] Trent at the movies.\n[10:39 --> 10:43] We can do that for sure.\n[10:43 --> 10:46] My flawless production system here.\n[10:46 --> 10:48] Betraying me at times.\n[10:48 --> 10:53] That doesn't look quite right.\n[10:53 --> 10:55] Am I better?\n[10:55 --> 10:57] Am I better now?\n[10:57 --> 10:59] Not really.\n[10:59 --> 11:00] But you know what can you do?\n[11:00 --> 11:01] Let me check chat.\n[11:01 --> 11:03] Let me bring chat over here.\n[11:03 --> 11:05] Okay. Let's see how chat's doing.\n[11:05 --> 11:07] I feel like I look good.\n[11:07 --> 11:09] I think it's good enough.\n[11:09 --> 11:11] I'm going to say good enough.\n[11:11 --> 11:15] Fine. I'll just let it slide this time.\n[11:15 --> 11:17] Even though my computer is misbehaving,\n[11:17 --> 11:19] sometimes you have to be kind to your computer.\n[11:19 --> 11:22] I don't really think that's true.\n[11:22 --> 11:24] I don't think it cares what you do because\n[11:24 --> 11:28] I don't have feelings like me who has the feeling of\n[11:28 --> 11:30] I don't care if I'm looking a little jittery,\n[11:30 --> 11:32] gimme stuff.\n[11:32 --> 11:34] That's a fair feeling.\n[11:34 --> 11:37] Alright. Let's do a little bit of news to set us off today.\n[11:37 --> 11:41] Then we'll have Jeff over and maybe he can\n[11:41 --> 11:45] discuss his seeming issues with Crumb.\n[11:45 --> 11:47] Either way, it's news time.\n[11:47 --> 12:11] What the hell?\n[12:11 --> 12:14] Okay. I think I might see what the problem is, case.\n[12:14 --> 12:17] I feel like you're shadowing me right now.\n[12:17 --> 12:20] Could imagine that could be causing\n[12:20 --> 12:23] some slight issues here.\n[12:23 --> 12:25] It's a little unsettling.\n[12:25 --> 12:28] You could stop mirroring me.\n[12:28 --> 12:31] What the hell?\n[12:31 --> 12:34] What the hell is going on around this place today?\n[12:34 --> 12:45] Alright. We're going to have to see if we can get\n[12:45 --> 12:48] case out from behind me.\n[12:48 --> 12:51] One second. You might lose audio here for a second.\n[12:51 --> 12:57] Sometimes this studio just does not behave itself.\n[12:57 --> 13:18] Okay. Maybe now you're gone.\n[13:18 --> 13:21] Sorry about that. I should be gone now.\n[13:21 --> 13:24] I don't know if I can tolerate how jittery you're being.\n[13:24 --> 13:26] What?\n[13:26 --> 13:30] Just learn to relax, man.\n[13:30 --> 13:33] You're not learning to relax. He's over there just pressing buttons.\n[13:33 --> 13:36] He's not learning to relax everyone.\n[13:36 --> 13:40] I can confirm he's never relaxed for a second apparently.\n[13:40 --> 13:45] Is that better? Are we feeling better now?\n[13:45 --> 13:51] We got to listen to my whole song at least.\n[13:51 --> 13:56] Nope. Still not very good.\n[13:56 --> 13:58] You thought Chrome was the only one interrupting, Jeff?\n[13:58 --> 14:00] No. Today, Case is getting in on it.\n[14:00 --> 14:03] He's upset about the delays on this camera.\n[14:03 --> 14:05] And I don't know if he's capable of letting it go.\n[14:05 --> 14:07] No, I can be super chill.\n[14:07 --> 14:11] You're not proving it. I can sense your anxiety from over here.\n[14:11 --> 14:19] Nah, it's fine. I'll just let it slide.\n[14:19 --> 14:21] Alright, look. We can't even stream for that long today,\n[14:21 --> 14:24] so I'm going to make the executive decision for Case to shut up.\n[14:24 --> 14:26] Oh, great.\n[14:26 --> 14:30] You've been in a mood lately and people have noticed that you seemingly have a problem with Chrome.\n[14:30 --> 14:33] Yeah, what's up with that big dog?\n[14:33 --> 14:35] He's back.\n[14:35 --> 14:38] Wouldn't the best way to maybe resolve this conflict to be,\n[14:38 --> 14:42] he's just not here?\n[14:42 --> 14:44] It's pretty mean, man.\n[14:44 --> 14:46] I'm just shitting in the satellite room.\n[14:46 --> 14:48] Speaking of jittery, look. His camera's terrible.\n[14:48 --> 14:50] He's in the satellite room.\n[14:50 --> 14:52] I'm coming in via satellite.\n[14:52 --> 14:54] Why? It's right down the hall.\n[14:54 --> 14:56] Yeah, but it's a satellite connection.\n[14:56 --> 14:58] It's a satellite connection. It's a little jittery.\n[14:58 --> 15:00] Oh, my God.\n[15:00 --> 15:02] We're supposed to just talk about news.\n[15:02 --> 15:04] Why is it, why are there so many guys around?\n[15:04 --> 15:06] What is this expertise?\n[15:06 --> 15:09] Well, I'm a former mayor of a beautiful town called Chrome.\n[15:09 --> 15:13] You know what I take it back? Never cared. Don't care.\n[15:13 --> 15:15] There's no issue. How about that?\n[15:15 --> 15:18] There's no issue. We're good.\n[15:18 --> 15:21] I just, it would really help me if you never talked\n[15:21 --> 15:23] and I never had to see your face again.\n[15:23 --> 15:25] I'm just saying, it doesn't make sense.\n[15:25 --> 15:28] No, that's pretty mean.\n[15:28 --> 15:30] It does make sense to me.\n[15:30 --> 15:32] To be fair, it does make sense.\n[15:32 --> 15:34] What? Why did it make sense to you?\n[15:34 --> 15:37] Just on a, just on a vibes level that does make a ton of sense.\n[15:37 --> 15:39] What did I do?\n[15:39 --> 15:41] I just, I'm saying it does.\n[15:41 --> 15:47] It is mean, but it does make sense.\n[15:47 --> 15:51] Look at him just staring at me.\n[15:51 --> 15:53] So we resolved it where result.\n[15:53 --> 15:56] I don't feel super comfortable.\n[15:56 --> 15:59] I don't feel very involved, but do you feel good, Jeff?\n[15:59 --> 16:02] I feel great. I feel like I feel great and I look great.\n[16:02 --> 16:04] And I think I said what needed to be said.\n[16:04 --> 16:06] Well, Jeff seems good. So I think we're good.\n[16:06 --> 16:09] But I'm directly saying, I'm not okay.\n[16:09 --> 16:11] Yeah, but you know, what can you do?\n[16:11 --> 16:15] You can't satisfy everyone, but I think we're good to move on.\n[16:15 --> 16:17] Yeah, I'd say so.\n[16:17 --> 16:24] Oh, that's chats kind of on our side, Grom.\n[16:24 --> 16:27] So I think you're kind of holding things up.\n[16:27 --> 16:31] If you could maybe just go away.\n[16:31 --> 16:34] Hey, no worry. No worries, bros.\n[16:34 --> 16:36] Now I'm here.\n[16:36 --> 16:39] Well, you got a problem with that case?\n[16:39 --> 16:41] No, I've got no problem.\n[16:41 --> 16:43] Chats my boy. Okay.\n[16:43 --> 16:45] Well, yeah, Jeff's cool with it now.\n[16:45 --> 16:47] We can't just keep this triangle of hate, Rosie.\n[16:47 --> 16:49] Can we just do a little bit of news, please?\n[16:49 --> 16:52] We maybe just do a little bit of news.\n[16:52 --> 16:56] I see no reason why we can't.\n[16:56 --> 16:59] Let's do some pleasantly awful,\n[16:59 --> 17:02] not great news. Yeah.\n[17:02 --> 17:04] Yes.\n[17:04 --> 17:06] What's what?\n[17:06 --> 17:08] This story is all over the book.\n[17:08 --> 17:10] Okay, let's just fix this.\n[17:10 --> 17:14] Hmm.\n[17:14 --> 17:16] Ahem.\n[17:16 --> 17:19] Former Abercrombie and Fitch CEO, Mike Jeffries,\n[17:19 --> 17:21] charged with sex trafficking.\n[17:21 --> 17:26] Who could have seen it coming?\n[17:26 --> 17:28] Who could have seen it coming?\n[17:28 --> 17:32] Well, we did talk about it before, so I guess we saw it coming.\n[17:32 --> 17:35] There's a video. I'm being told there's a video.\n[17:35 --> 17:37] Submitted license extension for the plant,\n[17:37 --> 17:40] which will allow it to run till 2054.\n[17:40 --> 17:44] That's 835 megawatts, a zero-carbon reliable energy\n[17:44 --> 17:46] that is available to American-\n[17:46 --> 17:49] Why did news site players have the worst everything?\n[17:49 --> 17:54] I just want to see this sex criminal talk.\n[17:54 --> 17:55] Is that what we want to see?\n[17:55 --> 17:57] Well, I just want to see whatever the video is.\n[17:57 --> 18:00] I just want to show off his horrifying face.\n[18:00 --> 18:02] Hmm.\n[18:02 --> 18:04] I don't know if that's the most noble goal,\n[18:04 --> 18:06] but that is also why I clicked on the video.\n[18:06 --> 18:08] Here we go.\n[18:08 --> 18:11] Former Abercrombie and Fitch CEO, Mike Jeffries,\n[18:11 --> 18:14] was arrested and criminally charged\n[18:14 --> 18:17] with sex trafficking and prostitution on Tuesday.\n[18:17 --> 18:19] That makes him a slightly normal.\n[18:19 --> 18:21] He looks worse than that, I promise.\n[18:21 --> 18:24] He was in the case involved, more than a dozen male victims.\n[18:24 --> 18:28] Powerful individuals for too long have trafficked\n[18:28 --> 18:31] and abused for their own sexual pleasure,\n[18:31 --> 18:33] young people with few resources.\n[18:33 --> 18:35] U.S. Attorney for the Eastern District of New York,\n[18:35 --> 18:38] Breon Peace, said Jeffries was charged,\n[18:38 --> 18:41] along with his partner Matthew Smith,\n[18:41 --> 18:43] and a third man, James Jacobson.\n[18:43 --> 18:46] Jeffries and Smith employed James Jacobson\n[18:46 --> 18:50] to act as a recruiter to find men.\n[18:50 --> 18:54] Jeffries, Smith and Jacobson used force,\n[18:54 --> 18:58] fraud and coercion to traffic those men\n[18:58 --> 19:01] for their own sexual gratification.\n[19:01 --> 19:05] They caused the men to believe that attending these sex events\n[19:05 --> 19:08] could yield modeling opportunities with Abercrombie\n[19:08 --> 19:11] or otherwise benefit their careers.\n[19:11 --> 19:14] The 16-count indictment was unveiled a decade\n[19:14 --> 19:18] after Jeffries left the retailer he built over 22 years\n[19:18 --> 19:22] into a popular clothing brand known for sexually charged marketing.\n[19:22 --> 19:25] Abercrombie said it was shocked and appalled\n[19:25 --> 19:28] by the allegations against the 80-year-old Jeffries,\n[19:28 --> 19:32] who led Abercrombie from 1992 to 2014.\n[19:32 --> 19:37] The defendants pressured the men to consume alcohol,\n[19:37 --> 19:40] by agra, and muscle relaxants known as poppers\n[19:40 --> 19:42] during the sex events.\n[19:42 --> 19:44] And they required the presence of staff\n[19:44 --> 19:46] during the sexual activity\n[19:46 --> 19:51] and ensure that the men did not leave the sex events.\n[19:51 --> 19:54] Can I just give a shout out to this guy here?\n[19:54 --> 19:56] Not an easy job to have to just kind of stand there\n[19:56 --> 19:59] and be like, where'd you, alright?\n[19:59 --> 20:01] I'm just sort of hanging out here.\n[20:01 --> 20:03] You got to wonder, you got the whole time,\n[20:03 --> 20:06] like, am I making a face that is stern enough\n[20:06 --> 20:09] but also soft enough to be like,\n[20:09 --> 20:11] but I feel for them.\n[20:11 --> 20:14] Your focus is mostly on the guy standing to his left.\n[20:14 --> 20:17] My thoughts and prayers go immediately to the guy standing\n[20:17 --> 20:20] to the left of this guy making an announcement.\n[20:20 --> 20:23] It's a weird place to put your sympathies in this situation, Jeff.\n[20:23 --> 20:25] Again, I just, I know, as a guy who's on camera\n[20:25 --> 20:28] and has to make faces, I just relate to that.\n[20:28 --> 20:31] That's how the news is supposed to work, you just make faces.\n[20:31 --> 20:33] I'm pretty sure that's how it works around here, so.\n[20:33 --> 20:36] Allow me to process this news in my own way case.\n[20:36 --> 20:38] I am doing that.\n[20:38 --> 20:40] Well, then keep doing that. Let's finish off what he has to say.\n[20:40 --> 20:44] So, Jeffries and Smith decided that the sessions were over.\n[20:44 --> 20:47] A lawyer for Jeffries said in an email\n[20:47 --> 20:50] that he would respond to the charges in court.\n[20:50 --> 20:53] Lawyers for the other two defendants either declined to comment\n[20:53 --> 20:56] or did not immediately respond to requests.\n[20:56 --> 20:58] Now that it's showing off the clothes.\n[20:58 --> 21:00] If convicted, he and the other two defendants\n[21:00 --> 21:04] face possible life sentences for the sex trafficking charges.\n[21:04 --> 21:06] Okay, he's looking scarier the more they zoom in.\n[21:06 --> 21:08] And the prostitution charges.\n[21:11 --> 21:14] Mike Jeffries.\n[21:14 --> 21:17] I swear he doesn't look as normal as that photo makes him look.\n[21:17 --> 21:19] Or this still frame.\n[21:19 --> 21:23] Well, to be fair, it's not making him look that normal.\n[21:23 --> 21:27] Whoa, if you Google him, you get a much less normal result.\n[21:27 --> 21:30] Whoa, what's going on with that expression?\n[21:30 --> 21:35] Okay, yeah, he's looking slightly worse in some.\n[21:35 --> 21:40] Whoa, I know we've seen this before, but it is surprising to me\n[21:40 --> 21:44] every time when I'm like, this guy, this guy is the one responsible\n[21:44 --> 21:47] for selling me pants via men's butts.\n[21:47 --> 21:52] You know, that was the main appeal to you is the butts.\n[21:52 --> 21:56] He showed off butts and stuff.\n[21:56 --> 21:58] Yes, a clay face.\n[21:58 --> 22:01] Yeah, the marketing strategy was kind of men's butts.\n[22:01 --> 22:07] Can I just chime in and say it is never okay to shell pants\n[22:07 --> 22:11] via butt.\n[22:11 --> 22:13] Cirque three ring circus around here.\n[22:13 --> 22:17] Uh, yeah, I guess scrum that's fine.\n[22:17 --> 22:21] The whole point of a pant is to cover the rear.\n[22:21 --> 22:28] So to sell a pant using the absence of pant revealing the butt.\n[22:28 --> 22:31] I think that's criminal as well.\n[22:31 --> 22:35] And I've been calling for this man's arrest well before these recent allegations.\n[22:35 --> 22:38] And I just felt that needed to be said.\n[22:38 --> 22:41] Hmm, it really didn't.\n[22:41 --> 22:46] But that does count as your bi-monthly appearance scrum.\n[22:46 --> 22:47] Thank you.\n[22:47 --> 22:49] I rushed my case.\n[22:49 --> 22:53] Okay.\n[22:53 --> 22:57] Anyway, so this is we all kind of knew he was doing this and now he's being charged.\n[22:57 --> 22:59] Is that the deal?\n[22:59 --> 23:01] What the?\n[23:01 --> 23:03] We all kind of heard it from that video.\n[23:03 --> 23:05] It followed a BBC investigation.\n[23:05 --> 23:10] The charges and proposed class action lawsuit accusing Jeffries of\n[23:10 --> 23:14] baiting young men with the prospect of modeling jobs, which now we've heard about.\n[23:14 --> 23:19] If convicted, sorry, US Attorney Breon Peace,\n[23:19 --> 23:23] whose office won a conviction in 30 year prison term for R. Kelly,\n[23:23 --> 23:26] said powerful people for too long sexually abused young people.\n[23:26 --> 23:28] We saw that as well.\n[23:28 --> 23:34] He, they face up to 20 years in prison for the interstate prostitution charges\n[23:34 --> 23:36] in separate court hearings.\n[23:36 --> 23:42] Jeffries and Jacobson were ordered released on respective bonds of 10 million\n[23:42 --> 23:45] and 500,000.\n[23:45 --> 23:48] Where did those bonds go again?\n[23:48 --> 23:50] The state.\n[23:50 --> 23:52] You know, we can't tax the rich.\n[23:52 --> 23:55] So we just have to convict.\n[23:55 --> 23:59] We have to charge the rich and extract our taxes via bonds.\n[23:59 --> 24:00] Is that how that works?\n[24:00 --> 24:01] No, not at all.\n[24:01 --> 24:05] I honestly don't know where bonds go, but the state.\n[24:08 --> 24:11] Be Grendel. Thank you so much for the 23 months.\n[24:11 --> 24:14] 23 you missed a month?\n[24:14 --> 24:15] That's okay.\n[24:15 --> 24:17] Never miss a month.\n[24:17 --> 24:18] No, you can miss a month.\n[24:18 --> 24:20] It's fine. You're one month away from two years.\n[24:20 --> 24:27] Two years of whatever this is.\n[24:27 --> 24:29] You know, I do know.\n[24:29 --> 24:32] We can't tax the rich, but I guess we are forced to make them.\n[24:32 --> 24:34] Okay, I can't even say that.\n[24:34 --> 24:35] You can what?\n[24:35 --> 24:37] What? What can't you say?\n[24:37 --> 24:41] Well, I mean, that's not an unfortunately not inaccurate propaganda,\n[24:41 --> 24:44] but it's troubling to say out loud.\n[24:44 --> 24:47] Well, it's a troubling story if you think about it for two seconds.\n[24:47 --> 24:49] Well, yes.\n[24:49 --> 24:51] And I've thought about it for one,\n[24:51 --> 24:54] and I'm afraid to think about it for one more.\n[24:54 --> 24:57] Yeah, that is our no thought policy here really protects us.\n[24:57 --> 24:58] Well, we try to.\n[24:58 --> 25:03] A spokesperson for peace said they are expected to enter formal pleas on Friday.\n[25:03 --> 25:08] Okay, Smith, a dual British citizen, was ordered detained at his court hearing.\n[25:08 --> 25:12] Prosecutors want him jailed pending trial citing the risk of flight.\n[25:12 --> 25:16] Although I will say it's going to be hard for this guy to hide.\n[25:16 --> 25:20] Well, I guess they're talking about his partner if they're talking about...\n[25:20 --> 25:21] Pierce?\n[25:21 --> 25:26] Or, you know, the partner in this alleged awful activity.\n[25:26 --> 25:28] Sounding less alleged every day.\n[25:28 --> 25:32] But yes, I suppose for legal reasons alleged.\n[25:32 --> 25:39] Jeffrey's lawyer, Brian Bieber, and Smith's lawyers did not immediately respond to requests for comment.\n[25:39 --> 25:42] But he is here holding his hand up saying,\n[25:42 --> 25:45] you must be this tall to attend my sex party.\n[25:45 --> 25:48] But then he brings the hand away, way, way, way, way down.\n[25:48 --> 25:52] All the way to floor level.\n[25:52 --> 25:53] What?\n[25:53 --> 25:54] Well, that's just what I'm assuming happened.\n[25:54 --> 25:56] All right, well, let's not make crazy assumptions here.\n[25:56 --> 25:59] Well, seems like we could have made crazy assumptions about Abercrombie,\n[25:59 --> 26:01] and we would have been correct.\n[26:01 --> 26:02] Oh, you've got a call.\n[26:02 --> 26:04] Kendall, you want to hang out with Chad for a second?\n[26:04 --> 26:07] It's zilch, surprisingly.\n[26:07 --> 26:18] Can you hear me? Can you hear me?\n[26:18 --> 26:20] We thought this might happen.\n[26:20 --> 26:24] I was prepared, and I put on mascara.\n[26:24 --> 26:26] Oh, he's coming back. He's coming back.\n[26:26 --> 26:28] Oh, no, he's not. He's putting on shoes.\n[26:28 --> 26:29] He's putting on shoes.\n[26:29 --> 26:30] What on earth are you?\n[26:30 --> 26:32] Okay, he's stepping outside.\n[26:32 --> 26:34] You guys can hear me, right?\n[26:34 --> 26:36] Oh.\n[26:36 --> 26:39] I can't see.\n[26:39 --> 26:41] I can't see.\n[26:41 --> 26:43] I'm sick. Okay.\n[26:46 --> 26:48] I don't know how his buttons work.\n[26:48 --> 26:51] All right, let's start pressing stuff.\n[26:51 --> 26:56] All right, guys, pick left or right stream deck.\n[26:56 --> 26:58] I don't know if you guys know this.\n[26:58 --> 27:00] The case has three stream decks.\n[27:00 --> 27:03] Okay, but we're going with the two biggest ones,\n[27:03 --> 27:07] left and right, and it's the one, two, three, four, five, six, seven, eight.\n[27:07 --> 27:09] It's the 24 button one.\n[27:09 --> 27:12] Left. I'm seeing a bunch of lefts.\n[27:12 --> 27:16] Okay, now pick, give me a number one through 24.\n[27:16 --> 27:19] And that's the one we're going to hit.\n[27:22 --> 27:25] Ooh, I see 13 first from entity.\n[27:25 --> 27:28] Nine, 10, 11, 12, 13.\n[27:28 --> 27:30] This is a blank button.\n[27:30 --> 27:32] Did that do anything? It was blank.\n[27:32 --> 27:33] So I'm assuming no.\n[27:33 --> 27:35] What's next? 23.\n[27:35 --> 27:36] Okay, this.\n[27:36 --> 27:37] Yo, all right.\n[27:37 --> 27:39] I don't even know what this music.\n[27:39 --> 27:41] Oh my God's DJ music.\n[27:41 --> 27:42] Add options now.\n[27:42 --> 27:45] Did that do anything?\n[27:45 --> 27:46] Is it doing anything?\n[27:46 --> 27:47] I can't hear.\n[27:47 --> 27:49] I feel like I got to put headphones on.\n[27:49 --> 27:51] Hold on, hold on, hold on.\n[27:51 --> 27:57] There we go.\n[27:57 --> 27:59] There we go.\n[27:59 --> 28:01] Let's vote now.\n[28:01 --> 28:02] Okay.\n[28:02 --> 28:07] Okay.\n[28:07 --> 28:09] Will I be able to hear anything?\n[28:09 --> 28:11] That's the real question.\n[28:11 --> 28:12] Okay.\n[28:12 --> 28:15] I actually can't tell.\n[28:15 --> 28:16] Okay.\n[28:16 --> 28:17] I think I can hear stuff.\n[28:17 --> 28:18] Okay.\n[28:18 --> 28:20] 23 did nothing.\n[28:20 --> 28:24] Guys, we might have to go to the right deck.\n[28:24 --> 28:25] Okay.\n[28:25 --> 28:33] Give me another number after voting so that I don't get confused with all your voting numbers.\n[28:33 --> 28:35] Which stream deck do we choose?\n[28:35 --> 28:37] I like that there are two 69s.\n[28:37 --> 28:39] I didn't know that was possible.\n[28:39 --> 28:43] I didn't know you can have two of the same thing unless they're somehow different.\n[28:43 --> 28:46] And I'm just right, dick.\n[28:46 --> 28:47] 14.\n[28:47 --> 28:48] Okay.\n[28:48 --> 28:49] 14.\n[28:49 --> 28:51] 9, 10, 11, 12, 14.\n[28:51 --> 29:06] Did you guys have you guys heard that before or was that a secret that I ruined?\n[29:06 --> 29:12] I need to know before I keep playing the whole thing.\n[29:12 --> 29:15] It's a secret or you have heard it.\n[29:15 --> 29:17] You can't just say yes.\n[29:17 --> 29:20] I need specifics.\n[29:20 --> 29:21] Okay.\n[29:21 --> 29:43] You guys know this is like 200, 200, 2 minutes, 50 seconds.\n[29:43 --> 29:57] Oh my God.\n[29:57 --> 29:58] Let's find some secrets.\n[29:58 --> 29:59] Okay.\n[29:59 --> 30:01] Should we stop scrumming?\n[30:01 --> 30:04] Give me another left or right deck and a number.\n[30:04 --> 30:06] Am I talking too close to this?\n[30:06 --> 30:09] I don't actually really know how this works.\n[30:09 --> 30:15] I mean, I do, but I just don't know how to like.\n[30:15 --> 30:19] He has so, so many stream decks.\n[30:19 --> 30:21] Okay.\n[30:21 --> 30:22] Right three.\n[30:22 --> 30:24] One, two, three says Lily.\n[30:24 --> 30:27] Oh, it's a Snapchat filter.\n[30:27 --> 30:32] How do I turn on his chat, Snapchat filter?\n[30:32 --> 30:40] I'm looking for a Snapchat logo or at least the word Snapchat.\n[30:40 --> 30:41] Maybe this one.\n[30:41 --> 30:42] Nope.\n[30:42 --> 30:45] Maybe this one.\n[30:45 --> 30:46] Nope.\n[30:46 --> 30:47] Okay.\n[30:47 --> 30:48] Hold on.\n[30:48 --> 30:52] Does anyone know how to do this?\n[30:52 --> 30:55] Turn on the Snapchat.\n[30:56 --> 30:59] Main, been main.\n[30:59 --> 31:00] Nope.\n[31:00 --> 31:01] Okay.\n[31:01 --> 31:03] Guest.\n[31:03 --> 31:04] No.\n[31:04 --> 31:06] Main.\n[31:06 --> 31:08] Main.\n[31:08 --> 31:12] I'm kind of learning.\n[31:12 --> 31:15] Main scene.\n[31:15 --> 31:18] He has two buttons that say Main C.\n[31:18 --> 31:19] Yeah.\n[31:19 --> 31:21] Were you guys talking about this guy?\n[31:21 --> 31:26] I also don't want to accidentally like show other stuff.\n[31:26 --> 31:27] You know what I mean?\n[31:27 --> 31:28] I'm kind of scared.\n[31:28 --> 31:29] He's coming back.\n[31:29 --> 31:30] He's back.\n[31:30 --> 31:35] How do I turn on Snapchat?\n[31:35 --> 31:37] I made them.\n[31:37 --> 31:39] Give me this button.\n[31:39 --> 31:40] No, it's not.\n[31:40 --> 31:43] I clicked it and it's not doing it.\n[31:43 --> 31:44] Really?\n[31:44 --> 31:47] Oh, you're in my other thing.\n[31:47 --> 31:49] I don't know how to get there.\n[31:49 --> 31:54] Oh, guys.\n[31:54 --> 31:57] He has so many things in here.\n[31:57 --> 32:08] Anyway, I made them pick a left or right stream deck and then a number 1324 and then I would hit that button.\n[32:08 --> 32:10] I have to do a thing.\n[32:10 --> 32:11] More?\n[32:11 --> 32:14] I'm sorry.\n[32:14 --> 32:15] They're killing me.\n[32:15 --> 32:18] All right, guys, we're back with me.\n[32:18 --> 32:22] This is okay.\n[32:22 --> 32:27] Guys, we have a whole new set of options for stream deck.\n[32:27 --> 32:32] Pick left or right and a number 1324.\n[32:32 --> 32:34] This is the Lily filter.\n[32:34 --> 32:41] I don't actually know if that's what the real filter is called or if he's just calling it Lily R12.\n[32:41 --> 32:43] 9, 10, 11, 12.\n[32:43 --> 33:03] Can you guys hear this?\n[33:03 --> 33:06] Is it low?\n[33:06 --> 33:07] Low for me.\n[33:07 --> 33:09] I also don't know how to work stuff.\n[33:09 --> 33:14] So like, no.\n[33:14 --> 33:17] Oh, I'm playing.\n[33:17 --> 33:18] Okay.\n[33:18 --> 33:22] Is it still going?\n[33:22 --> 33:28] I don't know how to work this thing.\n[33:28 --> 33:31] Oh, shit.\n[33:31 --> 33:44] I keep still hit the button level Peter.\n[33:44 --> 33:48] I know who Peter is and I will find him.\n[33:48 --> 33:51] Peter, Peter, Peter, Peter, Peter.\n[33:51 --> 33:53] No, I see.\n[33:53 --> 33:55] We get checked.\n[33:55 --> 33:56] We get checked.\n[33:56 --> 33:57] Check close.\n[33:57 --> 33:58] Check wide.\n[33:58 --> 34:00] Check full.\n[34:00 --> 34:04] We have trip munch and Trent.\n[34:04 --> 34:05] We have Clem.\n[34:05 --> 34:07] We have checked guy.\n[34:08 --> 34:10] We have the hype trains.\n[34:10 --> 34:11] That did nothing.\n[34:11 --> 34:27] Bottom left button of which one?\n[34:27 --> 34:28] My God.\n[34:28 --> 34:42] Is this song still playing for you guys?\n[34:42 --> 34:50] All right, guys, I know what to do.\n[34:50 --> 34:51] Hold on.\n[34:51 --> 34:53] I know what to do.\n[34:53 --> 34:57] It's time to teach everyone.\n[34:57 --> 34:59] It's time to teach everyone.\n[34:59 --> 35:05] It's time to teach everyone how to play mine sweeper.\n[35:05 --> 35:08] This is for everyone who doesn't know how to play mine sweeper.\n[35:08 --> 35:10] We are ready for this.\n[35:10 --> 35:11] Okay.\n[35:11 --> 35:13] Oh, I don't get to teach whatever.\n[35:13 --> 35:14] It's fine.\n[35:14 --> 35:15] Okay.\n[35:15 --> 35:19] I don't know how long this song is going to go for, but we're just going to keep it.\n[35:19 --> 35:20] Okay.\n[35:20 --> 35:21] Are we all ready?\n[35:21 --> 35:22] Are we all ready?\n[35:22 --> 35:23] Let's click.\n[35:23 --> 35:24] Boom.\n[35:24 --> 35:27] This is mine sweeper.\n[35:27 --> 35:31] The numbers correlate to how many bombs are next to it.\n[35:31 --> 35:34] How many bombs it's touching.\n[35:34 --> 35:37] Let's go with this guy right here.\n[35:37 --> 35:38] You see this guy?\n[35:38 --> 35:39] That's a bomb.\n[35:39 --> 35:40] Why is it a bomb?\n[35:40 --> 35:42] Because of these number ones.\n[35:42 --> 35:47] So what I'm trying to say is this corner breaking news.\n[35:47 --> 35:49] What's the breaking news?\n[35:49 --> 35:51] I don't know what it is.\n[35:51 --> 35:52] What is it?\n[35:52 --> 35:53] I didn't read it.\n[35:53 --> 35:55] How do I see it?\n[35:55 --> 35:58] Dream.\n[35:58 --> 36:02] I don't know how to know who did it.\n[36:02 --> 36:04] First time raider chatter.\n[36:04 --> 36:05] What's happened?\n[36:05 --> 36:07] Oh, I'm really rated.\n[36:07 --> 36:09] You should come in here.\n[36:09 --> 36:10] Oh my bad.\n[36:10 --> 36:11] I'm so sorry.\n[36:11 --> 36:12] Hello, lovely.\n[36:12 --> 36:14] I've literally thank you so much.\n[36:14 --> 36:21] I've literally just summon in four case right now because he had to take a work call.\n[36:21 --> 36:22] My bad.\n[36:22 --> 36:23] Hello everybody.\n[36:23 --> 36:24] Welcome to stream.\n[36:24 --> 36:26] This is not what the stream's like.\n[36:26 --> 36:27] Okay.\n[36:27 --> 36:28] This is not it.\n[36:28 --> 36:29] What it is at all.\n[36:29 --> 36:31] I am not a streamer.\n[36:31 --> 36:32] Case is somewhere else.\n[36:32 --> 36:33] Somewhere else.\n[36:33 --> 36:34] Avaly, if you're still here.\n[36:34 --> 36:35] Thanks so much.\n[36:35 --> 36:36] How was the stream?\n[36:36 --> 36:37] Are you doing great?\n[36:37 --> 36:38] Case is coming back.\n[36:38 --> 36:39] Yeah.\n[36:39 --> 36:40] Here we go.\n[36:40 --> 36:49] Avaly, thank you so much for the raid.\n[36:49 --> 36:50] What is Kendall doing?\n[36:50 --> 36:53] Oh, this is better than news.\n[36:53 --> 36:57] I noticed at the bottom there's like an unsettling news headline because that's what I'm usually doing.\n[36:57 --> 37:01] But Kendall had made the wise choice to play Minecraft instead.\n[37:01 --> 37:02] Mine sweeper.\n[37:02 --> 37:03] Sorry.\n[37:03 --> 37:04] Mine sweeper.\n[37:04 --> 37:07] This is actually mine sweeper but built in Minecraft.\n[37:07 --> 37:09] It's very next level.\n[37:09 --> 37:10] Embrace the chaos.\n[37:10 --> 37:11] Yeah, I have no choice.\n[37:11 --> 37:13] You all, everybody gets it.\n[37:13 --> 37:15] Everything that's happening here is very normal."
+}
