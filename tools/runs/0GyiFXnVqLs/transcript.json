@@ -1,0 +1,691 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "model_requested": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 849.416,
+  "chunk_seconds": null,
+  "segments": [
+    {
+      "id": 0,
+      "start": 6.16,
+      "end": 10.92,
+      "text": "I'm Pepito, I'm the dog that produces the show and now it is live."
+    },
+    {
+      "id": 1,
+      "start": 10.92,
+      "end": 12.12,
+      "text": "And I'm a dog."
+    },
+    {
+      "id": 2,
+      "start": 12.12,
+      "end": 411.66,
+      "text": "Case Blackwell said subscribers can now type exclamation point to send messages to get supplied"
+    },
+    {
+      "id": 3,
+      "start": 411.66,
+      "end": 412.66,
+      "text": "on screen."
+    },
+    {
+      "id": 4,
+      "start": 412.66,
+      "end": 426.29,
+      "text": "Ten minute cooldown, but I stay and yum yum extra hot oatmeal."
+    },
+    {
+      "id": 5,
+      "start": 426.29,
+      "end": 431.05,
+      "text": "Case Blackwell said I mean exclamation point C-C-E."
+    },
+    {
+      "id": 6,
+      "start": 431.05,
+      "end": 433.77,
+      "text": "I mean exclamation of Blackwell's..."
+    },
+    {
+      "id": 7,
+      "start": 433.77,
+      "end": 439.49,
+      "text": "..."
+    },
+    {
+      "id": 8,
+      "start": 439.49,
+      "end": 477.9,
+      "text": "5 and 10, 9, 8, 7, 6..."
+    },
+    {
+      "id": 9,
+      "start": 477.9,
+      "end": 521.84,
+      "text": "Everybody, turn my shit up."
+    },
+    {
+      "id": 10,
+      "start": 521.84,
+      "end": 523.04,
+      "text": "Turn up my headphones."
+    },
+    {
+      "id": 11,
+      "start": 523.04,
+      "end": 525.04,
+      "text": "Good to see you all."
+    },
+    {
+      "id": 12,
+      "start": 525.04,
+      "end": 527.36,
+      "text": "Greg T.U. Tastes Zero Propaganda."
+    },
+    {
+      "id": 13,
+      "start": 527.36,
+      "end": 530.04,
+      "text": "Subritchie, MSG, Apple Dapple, Matt Liddell."
+    },
+    {
+      "id": 14,
+      "start": 530.04,
+      "end": 532.76,
+      "text": "I'm doing just fine."
+    },
+    {
+      "id": 15,
+      "start": 532.76,
+      "end": 537.16,
+      "text": "Greener, Sam J. Money, Purple Ranger, oh, eight."
+    },
+    {
+      "id": 16,
+      "start": 537.16,
+      "end": 543.12,
+      "text": "As Biden attempted to mention you can now type exclamation point C to send me..."
+    },
+    {
+      "id": 17,
+      "start": 543.12,
+      "end": 548.84,
+      "text": "To send me little comments to be displayed on screen."
+    },
+    {
+      "id": 18,
+      "start": 548.84,
+      "end": 553.2,
+      "text": "For instance, Pepecheese, Pepecheese, Pepecheese."
+    },
+    {
+      "id": 19,
+      "start": 553.2,
+      "end": 556.58,
+      "text": "Case Blue Pepecheese."
+    },
+    {
+      "id": 20,
+      "start": 556.58,
+      "end": 559.87,
+      "text": "You have the power."
+    },
+    {
+      "id": 21,
+      "start": 559.87,
+      "end": 562.99,
+      "text": "Thank you so much for the support."
+    },
+    {
+      "id": 22,
+      "start": 562.99,
+      "end": 567.95,
+      "text": "We got it coming in already."
+    },
+    {
+      "id": 23,
+      "start": 567.99,
+      "end": 573.55,
+      "text": "Thank you so much for the four months."
+    },
+    {
+      "id": 24,
+      "start": 573.55,
+      "end": 577.39,
+      "text": "And Mr. Whoopi Boo Boo, thank you for the 16."
+    },
+    {
+      "id": 25,
+      "start": 577.39,
+      "end": 586.9,
+      "text": "And Shin Nanagans, thank you for the follow."
+    },
+    {
+      "id": 26,
+      "start": 586.9,
+      "end": 591.25,
+      "text": "We got a call for an expert."
+    },
+    {
+      "id": 27,
+      "start": 591.25,
+      "end": 594.69,
+      "text": "Groblin to watch the Munchies Traylor."
+    },
+    {
+      "id": 28,
+      "start": 594.69,
+      "end": 597.21,
+      "text": "The Munchies."
+    },
+    {
+      "id": 29,
+      "start": 597.21,
+      "end": 601.53,
+      "text": "I guess I can get us a Groblin to watch a Munchies Traylor."
+    },
+    {
+      "id": 30,
+      "start": 601.69,
+      "end": 604.53,
+      "text": "I guess we'll also do a..."
+    },
+    {
+      "id": 31,
+      "start": 604.53,
+      "end": 606.33,
+      "text": "Print today then."
+    },
+    {
+      "id": 32,
+      "start": 606.33,
+      "end": 607.13,
+      "text": "Maybe Trunel..."
+    },
+    {
+      "id": 33,
+      "start": 607.13,
+      "end": 610.13,
+      "text": "Well, summon a Groblin."
+    },
+    {
+      "id": 34,
+      "start": 610.13,
+      "end": 611.97,
+      "text": "Speaking of summoning things."
+    },
+    {
+      "id": 35,
+      "start": 611.97,
+      "end": 615.77,
+      "text": "Oh my."
+    },
+    {
+      "id": 36,
+      "start": 615.77,
+      "end": 617.65,
+      "text": "We're summoning all over the place."
+    },
+    {
+      "id": 37,
+      "start": 617.65,
+      "end": 625.27,
+      "text": "Oh God."
+    },
+    {
+      "id": 38,
+      "start": 625.27,
+      "end": 627.15,
+      "text": "Every time."
+    },
+    {
+      "id": 39,
+      "start": 627.15,
+      "end": 629.23,
+      "text": "I forget how slow I made the train."
+    },
+    {
+      "id": 40,
+      "start": 629.23,
+      "end": 631.35,
+      "text": "That crossed the screen."
+    },
+    {
+      "id": 41,
+      "start": 631.35,
+      "end": 636.27,
+      "text": "Well, sorry, how slow the hype train naturally crossed the screen."
+    },
+    {
+      "id": 42,
+      "start": 636.27,
+      "end": 637.79,
+      "text": "Madness, one might say."
+    },
+    {
+      "id": 43,
+      "start": 637.79,
+      "end": 640.49,
+      "text": "Hype train."
+    },
+    {
+      "id": 44,
+      "start": 640.49,
+      "end": 642.53,
+      "text": "You doing all right today?"
+    },
+    {
+      "id": 45,
+      "start": 642.53,
+      "end": 645.25,
+      "text": "You showing up just in time like usual."
+    },
+    {
+      "id": 46,
+      "start": 645.25,
+      "end": 649.58,
+      "text": "Right at the top of the show."
+    },
+    {
+      "id": 47,
+      "start": 649.58,
+      "end": 651.26,
+      "text": "She's my type."
+    },
+    {
+      "id": 48,
+      "start": 651.26,
+      "end": 654.38,
+      "text": "She's the type where the people part."
+    },
+    {
+      "id": 49,
+      "start": 654.38,
+      "end": 657.18,
+      "text": "She's here for the train, babe."
+    },
+    {
+      "id": 50,
+      "start": 657.18,
+      "end": 659.38,
+      "text": "That's just the way that is."
+    },
+    {
+      "id": 51,
+      "start": 659.38,
+      "end": 661.18,
+      "text": "Man."
+    },
+    {
+      "id": 52,
+      "start": 661.18,
+      "end": 664.1,
+      "text": "Checking out we got little messages."
+    },
+    {
+      "id": 53,
+      "start": 664.1,
+      "end": 667.5,
+      "text": "Whoa, I don't see this being a news at all."
+    },
+    {
+      "id": 54,
+      "start": 667.5,
+      "end": 668.82,
+      "text": "Got a 10 minute cooldown."
+    },
+    {
+      "id": 55,
+      "start": 668.82,
+      "end": 672.36,
+      "text": "How could it possibly be a news?"
+    },
+    {
+      "id": 56,
+      "start": 672.36,
+      "end": 674.76,
+      "text": "Squallon."
+    },
+    {
+      "id": 57,
+      "start": 674.76,
+      "end": 677.32,
+      "text": "Why jack off and you can jack on?"
+    },
+    {
+      "id": 58,
+      "start": 677.32,
+      "end": 678.88,
+      "text": "See?"
+    },
+    {
+      "id": 59,
+      "start": 678.88,
+      "end": 680.68,
+      "text": "These are the messages we need."
+    },
+    {
+      "id": 60,
+      "start": 680.68,
+      "end": 684.63,
+      "text": "Be changing the hype train."
+    },
+    {
+      "id": 61,
+      "start": 684.63,
+      "end": 686.27,
+      "text": "I love to be saved."
+    },
+    {
+      "id": 62,
+      "start": 686.27,
+      "end": 691.18,
+      "text": "I love to travel."
+    },
+    {
+      "id": 63,
+      "start": 691.18,
+      "end": 694.3,
+      "text": "The train is struggling today."
+    },
+    {
+      "id": 64,
+      "start": 694.3,
+      "end": 695.9,
+      "text": "I mean, it's because we have so many noises playing"
+    },
+    {
+      "id": 65,
+      "start": 695.9,
+      "end": 702.03,
+      "text": "all at the same time."
+    },
+    {
+      "id": 66,
+      "start": 702.03,
+      "end": 703.71,
+      "text": "But, Peter, are you struggling today too?"
+    },
+    {
+      "id": 67,
+      "start": 703.71,
+      "end": 707.56,
+      "text": "Out of curiosity?"
+    },
+    {
+      "id": 68,
+      "start": 707.56,
+      "end": 711.24,
+      "text": "A little jumpy today."
+    },
+    {
+      "id": 69,
+      "start": 711.24,
+      "end": 713.96,
+      "text": "I feel very close to the screen."
+    },
+    {
+      "id": 70,
+      "start": 713.96,
+      "end": 718.72,
+      "text": "And I definitely feel a little jumpy."
+    },
+    {
+      "id": 71,
+      "start": 719.68,
+      "end": 724.44,
+      "text": "Maybe we'll hit the restart button."
+    },
+    {
+      "id": 72,
+      "start": 724.44,
+      "end": 727.12,
+      "text": "And whatever's going on with you."
+    },
+    {
+      "id": 73,
+      "start": 727.12,
+      "end": 729.52,
+      "text": "Let's see if that helps."
+    },
+    {
+      "id": 74,
+      "start": 729.52,
+      "end": 733.2,
+      "text": "You never know what might help."
+    },
+    {
+      "id": 75,
+      "start": 733.2,
+      "end": 737.66,
+      "text": "A lot of things happening right now."
+    },
+    {
+      "id": 76,
+      "start": 737.66,
+      "end": 740.46,
+      "text": "A lot of good things happening right now."
+    },
+    {
+      "id": 77,
+      "start": 740.46,
+      "end": 744.66,
+      "text": "Oh, hello there, Ralph."
+    },
+    {
+      "id": 78,
+      "start": 744.66,
+      "end": 747.18,
+      "text": "Thank you to everyone for setting up."
+    },
+    {
+      "id": 79,
+      "start": 747.18,
+      "end": 748.18,
+      "text": "Oh, wow."
+    },
+    {
+      "id": 80,
+      "start": 748.18,
+      "end": 750.87,
+      "text": "Something might be."
+    },
+    {
+      "id": 81,
+      "start": 751.31,
+      "end": 756.75,
+      "text": "I wonder if I'm going to have to do a classic full stream restart."
+    },
+    {
+      "id": 82,
+      "start": 756.75,
+      "end": 763.31,
+      "text": "Something is making my computer feel less than lovely today."
+    },
+    {
+      "id": 83,
+      "start": 763.31,
+      "end": 764.27,
+      "text": "What could it be?"
+    },
+    {
+      "id": 84,
+      "start": 764.27,
+      "end": 765.47,
+      "text": "What?"
+    },
+    {
+      "id": 85,
+      "start": 765.47,
+      "end": 767.67,
+      "text": "What did I do?"
+    },
+    {
+      "id": 86,
+      "start": 767.67,
+      "end": 770.87,
+      "text": "Did I added graphics to everything and many, many layers?"
+    },
+    {
+      "id": 87,
+      "start": 770.87,
+      "end": 774.35,
+      "text": "Suddenly my stream is being slow?"
+    },
+    {
+      "id": 88,
+      "start": 774.35,
+      "end": 775.63,
+      "text": "That's ridiculous."
+    },
+    {
+      "id": 89,
+      "start": 775.63,
+      "end": 783.82,
+      "text": "But I'm just going to quit a bunch of things real quick."
+    },
+    {
+      "id": 90,
+      "start": 783.82,
+      "end": 787.68,
+      "text": "I'm not going to try to get to the bottom of this."
+    },
+    {
+      "id": 91,
+      "start": 787.68,
+      "end": 793.16,
+      "text": "Uh-oh, my computer is taking a dump, everybody."
+    },
+    {
+      "id": 92,
+      "start": 793.16,
+      "end": 794.6,
+      "text": "No."
+    },
+    {
+      "id": 93,
+      "start": 794.6,
+      "end": 798.29,
+      "text": "Not in the midst of a hype train."
+    },
+    {
+      "id": 94,
+      "start": 798.29,
+      "end": 799.89,
+      "text": "I need an even more powerful PC."
+    },
+    {
+      "id": 95,
+      "start": 799.89,
+      "end": 800.37,
+      "text": "Damn it."
+    },
+    {
+      "id": 96,
+      "start": 800.37,
+      "end": 802.65,
+      "text": "This one seemed pretty good."
+    },
+    {
+      "id": 97,
+      "start": 802.65,
+      "end": 806.89,
+      "text": "But I could be tempted to just go all out"
+    },
+    {
+      "id": 98,
+      "start": 806.89,
+      "end": 809.85,
+      "text": "and get an entirely new one."
+    },
+    {
+      "id": 99,
+      "start": 809.85,
+      "end": 811.65,
+      "text": "Who knows how strong I can make a computer now?"
+    },
+    {
+      "id": 100,
+      "start": 811.65,
+      "end": 815.32,
+      "text": "It's been nearly two years."
+    },
+    {
+      "id": 101,
+      "start": 815.32,
+      "end": 817.48,
+      "text": "The old computer needs to be resolved."
+    },
+    {
+      "id": 102,
+      "start": 817.48,
+      "end": 819.92,
+      "text": "I just need RAM."
+    },
+    {
+      "id": 103,
+      "start": 819.92,
+      "end": 821.2,
+      "text": "I've heard that before."
+    },
+    {
+      "id": 104,
+      "start": 821.2,
+      "end": 824.24,
+      "text": "Just ram it in and it's fine."
+    },
+    {
+      "id": 105,
+      "start": 824.24,
+      "end": 829.8,
+      "text": "Well, sometimes you need more versions of ramming."
+    },
+    {
+      "id": 106,
+      "start": 829.8,
+      "end": 832.68,
+      "text": "I think I might have to restart the stream, guys."
+    },
+    {
+      "id": 107,
+      "start": 832.68,
+      "end": 835.52,
+      "text": "So we'll skip the whole preamble."
+    },
+    {
+      "id": 108,
+      "start": 835.52,
+      "end": 838.2,
+      "text": "But I'm going to do that."
+    },
+    {
+      "id": 109,
+      "start": 838.2,
+      "end": 841.12,
+      "text": "I'm assuming the stream will go down when I restart it."
+    },
+    {
+      "id": 110,
+      "start": 841.12,
+      "end": 844.96,
+      "text": "I'll be back in about two to three minutes,"
+    },
+    {
+      "id": 111,
+      "start": 845.0,
+      "end": 848.24,
+      "text": "depending on how hyper-fast I've gotten with this setup."
+    },
+    {
+      "id": 112,
+      "start": 848.24,
+      "end": 849.16,
+      "text": "OK, give me just a sec."
+    }
+  ],
+  "text": "I'm Pepito, I'm the dog that produces the show and now it is live.\nAnd I'm a dog.\nCase Blackwell said subscribers can now type exclamation point to send messages to get supplied\non screen.\nTen minute cooldown, but I stay and yum yum extra hot oatmeal.\nCase Blackwell said I mean exclamation point C-C-E.\nI mean exclamation of Blackwell's...\n...\n5 and 10, 9, 8, 7, 6...\nEverybody, turn my shit up.\nTurn up my headphones.\nGood to see you all.\nGreg T.U. Tastes Zero Propaganda.\nSubritchie, MSG, Apple Dapple, Matt Liddell.\nI'm doing just fine.\nGreener, Sam J. Money, Purple Ranger, oh, eight.\nAs Biden attempted to mention you can now type exclamation point C to send me...\nTo send me little comments to be displayed on screen.\nFor instance, Pepecheese, Pepecheese, Pepecheese.\nCase Blue Pepecheese.\nYou have the power.\nThank you so much for the support.\nWe got it coming in already.\nThank you so much for the four months.\nAnd Mr. Whoopi Boo Boo, thank you for the 16.\nAnd Shin Nanagans, thank you for the follow.\nWe got a call for an expert.\nGroblin to watch the Munchies Traylor.\nThe Munchies.\nI guess I can get us a Groblin to watch a Munchies Traylor.\nI guess we'll also do a...\nPrint today then.\nMaybe Trunel...\nWell, summon a Groblin.\nSpeaking of summoning things.\nOh my.\nWe're summoning all over the place.\nOh God.\nEvery time.\nI forget how slow I made the train.\nThat crossed the screen.\nWell, sorry, how slow the hype train naturally crossed the screen.\nMadness, one might say.\nHype train.\nYou doing all right today?\nYou showing up just in time like usual.\nRight at the top of the show.\nShe's my type.\nShe's the type where the people part.\nShe's here for the train, babe.\nThat's just the way that is.\nMan.\nChecking out we got little messages.\nWhoa, I don't see this being a news at all.\nGot a 10 minute cooldown.\nHow could it possibly be a news?\nSquallon.\nWhy jack off and you can jack on?\nSee?\nThese are the messages we need.\nBe changing the hype train.\nI love to be saved.\nI love to travel.\nThe train is struggling today.\nI mean, it's because we have so many noises playing\nall at the same time.\nBut, Peter, are you struggling today too?\nOut of curiosity?\nA little jumpy today.\nI feel very close to the screen.\nAnd I definitely feel a little jumpy.\nMaybe we'll hit the restart button.\nAnd whatever's going on with you.\nLet's see if that helps.\nYou never know what might help.\nA lot of things happening right now.\nA lot of good things happening right now.\nOh, hello there, Ralph.\nThank you to everyone for setting up.\nOh, wow.\nSomething might be.\nI wonder if I'm going to have to do a classic full stream restart.\nSomething is making my computer feel less than lovely today.\nWhat could it be?\nWhat?\nWhat did I do?\nDid I added graphics to everything and many, many layers?\nSuddenly my stream is being slow?\nThat's ridiculous.\nBut I'm just going to quit a bunch of things real quick.\nI'm not going to try to get to the bottom of this.\nUh-oh, my computer is taking a dump, everybody.\nNo.\nNot in the midst of a hype train.\nI need an even more powerful PC.\nDamn it.\nThis one seemed pretty good.\nBut I could be tempted to just go all out\nand get an entirely new one.\nWho knows how strong I can make a computer now?\nIt's been nearly two years.\nThe old computer needs to be resolved.\nI just need RAM.\nI've heard that before.\nJust ram it in and it's fine.\nWell, sometimes you need more versions of ramming.\nI think I might have to restart the stream, guys.\nSo we'll skip the whole preamble.\nBut I'm going to do that.\nI'm assuming the stream will go down when I restart it.\nI'll be back in about two to three minutes,\ndepending on how hyper-fast I've gotten with this setup.\nOK, give me just a sec.",
+  "text_timestamped": "[00:06 --> 00:10] I'm Pepito, I'm the dog that produces the show and now it is live.\n[00:10 --> 00:12] And I'm a dog.\n[00:12 --> 06:51] Case Blackwell said subscribers can now type exclamation point to send messages to get supplied\n[06:51 --> 06:52] on screen.\n[06:52 --> 07:06] Ten minute cooldown, but I stay and yum yum extra hot oatmeal.\n[07:06 --> 07:11] Case Blackwell said I mean exclamation point C-C-E.\n[07:11 --> 07:13] I mean exclamation of Blackwell's...\n[07:13 --> 07:19] ...\n[07:19 --> 07:57] 5 and 10, 9, 8, 7, 6...\n[07:57 --> 08:41] Everybody, turn my shit up.\n[08:41 --> 08:43] Turn up my headphones.\n[08:43 --> 08:45] Good to see you all.\n[08:45 --> 08:47] Greg T.U. Tastes Zero Propaganda.\n[08:47 --> 08:50] Subritchie, MSG, Apple Dapple, Matt Liddell.\n[08:50 --> 08:52] I'm doing just fine.\n[08:52 --> 08:57] Greener, Sam J. Money, Purple Ranger, oh, eight.\n[08:57 --> 09:03] As Biden attempted to mention you can now type exclamation point C to send me...\n[09:03 --> 09:08] To send me little comments to be displayed on screen.\n[09:08 --> 09:13] For instance, Pepecheese, Pepecheese, Pepecheese.\n[09:13 --> 09:16] Case Blue Pepecheese.\n[09:16 --> 09:19] You have the power.\n[09:19 --> 09:22] Thank you so much for the support.\n[09:22 --> 09:27] We got it coming in already.\n[09:27 --> 09:33] Thank you so much for the four months.\n[09:33 --> 09:37] And Mr. Whoopi Boo Boo, thank you for the 16.\n[09:37 --> 09:46] And Shin Nanagans, thank you for the follow.\n[09:46 --> 09:51] We got a call for an expert.\n[09:51 --> 09:54] Groblin to watch the Munchies Traylor.\n[09:54 --> 09:57] The Munchies.\n[09:57 --> 10:01] I guess I can get us a Groblin to watch a Munchies Traylor.\n[10:01 --> 10:04] I guess we'll also do a...\n[10:04 --> 10:06] Print today then.\n[10:06 --> 10:07] Maybe Trunel...\n[10:07 --> 10:10] Well, summon a Groblin.\n[10:10 --> 10:11] Speaking of summoning things.\n[10:11 --> 10:15] Oh my.\n[10:15 --> 10:17] We're summoning all over the place.\n[10:17 --> 10:25] Oh God.\n[10:25 --> 10:27] Every time.\n[10:27 --> 10:29] I forget how slow I made the train.\n[10:29 --> 10:31] That crossed the screen.\n[10:31 --> 10:36] Well, sorry, how slow the hype train naturally crossed the screen.\n[10:36 --> 10:37] Madness, one might say.\n[10:37 --> 10:40] Hype train.\n[10:40 --> 10:42] You doing all right today?\n[10:42 --> 10:45] You showing up just in time like usual.\n[10:45 --> 10:49] Right at the top of the show.\n[10:49 --> 10:51] She's my type.\n[10:51 --> 10:54] She's the type where the people part.\n[10:54 --> 10:57] She's here for the train, babe.\n[10:57 --> 10:59] That's just the way that is.\n[10:59 --> 11:01] Man.\n[11:01 --> 11:04] Checking out we got little messages.\n[11:04 --> 11:07] Whoa, I don't see this being a news at all.\n[11:07 --> 11:08] Got a 10 minute cooldown.\n[11:08 --> 11:12] How could it possibly be a news?\n[11:12 --> 11:14] Squallon.\n[11:14 --> 11:17] Why jack off and you can jack on?\n[11:17 --> 11:18] See?\n[11:18 --> 11:20] These are the messages we need.\n[11:20 --> 11:24] Be changing the hype train.\n[11:24 --> 11:26] I love to be saved.\n[11:26 --> 11:31] I love to travel.\n[11:31 --> 11:34] The train is struggling today.\n[11:34 --> 11:35] I mean, it's because we have so many noises playing\n[11:35 --> 11:42] all at the same time.\n[11:42 --> 11:43] But, Peter, are you struggling today too?\n[11:43 --> 11:47] Out of curiosity?\n[11:47 --> 11:51] A little jumpy today.\n[11:51 --> 11:53] I feel very close to the screen.\n[11:53 --> 11:58] And I definitely feel a little jumpy.\n[11:59 --> 12:04] Maybe we'll hit the restart button.\n[12:04 --> 12:07] And whatever's going on with you.\n[12:07 --> 12:09] Let's see if that helps.\n[12:09 --> 12:13] You never know what might help.\n[12:13 --> 12:17] A lot of things happening right now.\n[12:17 --> 12:20] A lot of good things happening right now.\n[12:20 --> 12:24] Oh, hello there, Ralph.\n[12:24 --> 12:27] Thank you to everyone for setting up.\n[12:27 --> 12:28] Oh, wow.\n[12:28 --> 12:30] Something might be.\n[12:31 --> 12:36] I wonder if I'm going to have to do a classic full stream restart.\n[12:36 --> 12:43] Something is making my computer feel less than lovely today.\n[12:43 --> 12:44] What could it be?\n[12:44 --> 12:45] What?\n[12:45 --> 12:47] What did I do?\n[12:47 --> 12:50] Did I added graphics to everything and many, many layers?\n[12:50 --> 12:54] Suddenly my stream is being slow?\n[12:54 --> 12:55] That's ridiculous.\n[12:55 --> 13:03] But I'm just going to quit a bunch of things real quick.\n[13:03 --> 13:07] I'm not going to try to get to the bottom of this.\n[13:07 --> 13:13] Uh-oh, my computer is taking a dump, everybody.\n[13:13 --> 13:14] No.\n[13:14 --> 13:18] Not in the midst of a hype train.\n[13:18 --> 13:19] I need an even more powerful PC.\n[13:19 --> 13:20] Damn it.\n[13:20 --> 13:22] This one seemed pretty good.\n[13:22 --> 13:26] But I could be tempted to just go all out\n[13:26 --> 13:29] and get an entirely new one.\n[13:29 --> 13:31] Who knows how strong I can make a computer now?\n[13:31 --> 13:35] It's been nearly two years.\n[13:35 --> 13:37] The old computer needs to be resolved.\n[13:37 --> 13:39] I just need RAM.\n[13:39 --> 13:41] I've heard that before.\n[13:41 --> 13:44] Just ram it in and it's fine.\n[13:44 --> 13:49] Well, sometimes you need more versions of ramming.\n[13:49 --> 13:52] I think I might have to restart the stream, guys.\n[13:52 --> 13:55] So we'll skip the whole preamble.\n[13:55 --> 13:58] But I'm going to do that.\n[13:58 --> 14:01] I'm assuming the stream will go down when I restart it.\n[14:01 --> 14:04] I'll be back in about two to three minutes,\n[14:05 --> 14:08] depending on how hyper-fast I've gotten with this setup.\n[14:08 --> 14:09] OK, give me just a sec."
+}
