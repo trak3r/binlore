@@ -1,0 +1,19 @@
+{
+  "vod_id": "sN3u0466Bdc",
+  "title": "REPO Mens 2",
+  "url": "https://www.youtube.com/watch?v=sN3u0466Bdc",
+  "duration_seconds": 13690,
+  "duration": "3:48:10",
+  "timestamp": 1743638400,
+  "aired_at": "2025-04-03T00:00:00+00:00",
+  "date": "2025-04-03",
+  "ingested_at": "2026-09-14T18:20:44.254265+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "sN3u0466Bdc",
+  "yt_url": "https://www.youtube.com/watch?v=sN3u0466Bdc",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-04-03"
+}
