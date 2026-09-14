@@ -1,0 +1,2407 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "model_requested": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 2501.957,
+  "chunk_seconds": null,
+  "segments": [
+    {
+      "id": 0,
+      "start": 32.69,
+      "end": 229.49,
+      "text": "I'm Papito, I'm the dog that produces the show and now it is live and I'm a dog."
+    },
+    {
+      "id": 1,
+      "start": 229.49,
+      "end": 230.29,
+      "text": "Six."
+    },
+    {
+      "id": 2,
+      "start": 230.29,
+      "end": 268.25,
+      "text": "Oh everybody."
+    },
+    {
+      "id": 3,
+      "start": 268.25,
+      "end": 271.94,
+      "text": "Right, I'm sinking."
+    },
+    {
+      "id": 4,
+      "start": 271.94,
+      "end": 278.91,
+      "text": "Live and sleazy calling for the how-to."
+    },
+    {
+      "id": 5,
+      "start": 278.91,
+      "end": 286.13,
+      "text": "The studio breaking down after last night's election."
+    },
+    {
+      "id": 6,
+      "start": 286.13,
+      "end": 287.65,
+      "text": "Let's run the rules of etiquette."
+    },
+    {
+      "id": 7,
+      "start": 287.65,
+      "end": 288.65,
+      "text": "Okay."
+    },
+    {
+      "id": 8,
+      "start": 288.65,
+      "end": 290.89,
+      "text": "Today's gonna be kind of a quick stream."
+    },
+    {
+      "id": 9,
+      "start": 290.89,
+      "end": 293.69,
+      "text": "I'm just, I'm gonna go to China in about a week."
+    },
+    {
+      "id": 10,
+      "start": 293.69,
+      "end": 296.45,
+      "text": "Alright, in about two days."
+    },
+    {
+      "id": 11,
+      "start": 296.45,
+      "end": 298.77,
+      "text": "My sense of time is slightly thrown off."
+    },
+    {
+      "id": 12,
+      "start": 298.77,
+      "end": 302.93,
+      "text": "So I thought I'd pop on for, honestly maybe even under an hour before."
+    },
+    {
+      "id": 13,
+      "start": 302.93,
+      "end": 307.61,
+      "text": "I just got a fleet of country for some reason."
+    },
+    {
+      "id": 14,
+      "start": 307.61,
+      "end": 310.73,
+      "text": "How to eliminate dread?"
+    },
+    {
+      "id": 15,
+      "start": 310.73,
+      "end": 313.92,
+      "text": "Go to China."
+    },
+    {
+      "id": 16,
+      "start": 313.92,
+      "end": 316.64,
+      "text": "I really should have considered when they told me these dates."
+    },
+    {
+      "id": 17,
+      "start": 316.64,
+      "end": 319.88,
+      "text": "If I had the foresight to remember when the election is, it'd be like, wow, what an"
+    },
+    {
+      "id": 18,
+      "start": 319.88,
+      "end": 322.16,
+      "text": "interesting time to leave the country."
+    },
+    {
+      "id": 19,
+      "start": 322.16,
+      "end": 325.8,
+      "text": "Comey confirmed, I mean more or less."
+    },
+    {
+      "id": 20,
+      "start": 325.8,
+      "end": 326.8,
+      "text": "For a week."
+    },
+    {
+      "id": 21,
+      "start": 326.8,
+      "end": 327.8,
+      "text": "I won't be here next week."
+    },
+    {
+      "id": 22,
+      "start": 327.8,
+      "end": 330.32,
+      "text": "I'll be back on tomorrow because I have a job."
+    },
+    {
+      "id": 23,
+      "start": 330.32,
+      "end": 334.76,
+      "text": "So I don't think I'll be back on until the Monday after next."
+    },
+    {
+      "id": 24,
+      "start": 334.76,
+      "end": 340.2,
+      "text": "I might, if you remember the Patreon, I will see you tomorrow at noon."
+    },
+    {
+      "id": 25,
+      "start": 340.2,
+      "end": 347.02,
+      "text": "But then I will be head to the People's Republic."
+    },
+    {
+      "id": 26,
+      "start": 347.02,
+      "end": 349.66,
+      "text": "Patreon tomorrow, yeah."
+    },
+    {
+      "id": 27,
+      "start": 349.66,
+      "end": 351.96,
+      "text": "Today?"
+    },
+    {
+      "id": 28,
+      "start": 351.96,
+      "end": 355.02,
+      "text": "I figured we'd just chill a little bit, you know?"
+    },
+    {
+      "id": 29,
+      "start": 355.02,
+      "end": 356.02,
+      "text": "See how everybody's feeling."
+    },
+    {
+      "id": 30,
+      "start": 356.02,
+      "end": 359.42,
+      "text": "I'm sure everybody's feeling fine."
+    },
+    {
+      "id": 31,
+      "start": 359.42,
+      "end": 361.5,
+      "text": "There's honestly no real news to cover."
+    },
+    {
+      "id": 32,
+      "start": 361.5,
+      "end": 364.3,
+      "text": "You have a job entertaining us?"
+    },
+    {
+      "id": 33,
+      "start": 364.3,
+      "end": 387.22,
+      "text": "Oop, Kendall's here, one sec."
+    },
+    {
+      "id": 34,
+      "start": 387.22,
+      "end": 390.1,
+      "text": "Guys, Kendall got her nails done."
+    },
+    {
+      "id": 35,
+      "start": 390.1,
+      "end": 391.7,
+      "text": "And it looks pretty good."
+    },
+    {
+      "id": 36,
+      "start": 391.7,
+      "end": 393.94,
+      "text": "Finally, some good news to report."
+    },
+    {
+      "id": 37,
+      "start": 393.94,
+      "end": 397.46,
+      "text": "Kendall's let nails looking nice."
+    },
+    {
+      "id": 38,
+      "start": 397.46,
+      "end": 400.86,
+      "text": "Boom, look at that."
+    },
+    {
+      "id": 39,
+      "start": 400.86,
+      "end": 401.86,
+      "text": "The orange tips."
+    },
+    {
+      "id": 40,
+      "start": 401.86,
+      "end": 406.78,
+      "text": "This is for the girlies and the gays and gays."
+    },
+    {
+      "id": 41,
+      "start": 406.78,
+      "end": 408.46,
+      "text": "They can't see it."
+    },
+    {
+      "id": 42,
+      "start": 408.46,
+      "end": 410.42,
+      "text": "They can see it."
+    },
+    {
+      "id": 43,
+      "start": 410.42,
+      "end": 412.66,
+      "text": "This is for the girlies and the..."
+    },
+    {
+      "id": 44,
+      "start": 412.66,
+      "end": 414.3,
+      "text": "Zoom in on this."
+    },
+    {
+      "id": 45,
+      "start": 414.3,
+      "end": 415.78,
+      "text": "Zoom in on this."
+    },
+    {
+      "id": 46,
+      "start": 415.78,
+      "end": 417.9,
+      "text": "This is as much as I zoom."
+    },
+    {
+      "id": 47,
+      "start": 417.9,
+      "end": 419.18,
+      "text": "Zoom on your face."
+    },
+    {
+      "id": 48,
+      "start": 419.18,
+      "end": 420.18,
+      "text": "Zoom on your face."
+    },
+    {
+      "id": 49,
+      "start": 420.18,
+      "end": 421.18,
+      "text": "You can't zoom more."
+    },
+    {
+      "id": 50,
+      "start": 421.18,
+      "end": 422.18,
+      "text": "Oh wait, I can zoom more."
+    },
+    {
+      "id": 51,
+      "start": 422.18,
+      "end": 423.38,
+      "text": "I can't do it."
+    },
+    {
+      "id": 52,
+      "start": 423.38,
+      "end": 426.42,
+      "text": "I have to be in the right thing though."
+    },
+    {
+      "id": 53,
+      "start": 426.42,
+      "end": 428.46,
+      "text": "This is for the gays, gays and..."
+    },
+    {
+      "id": 54,
+      "start": 428.46,
+      "end": 429.46,
+      "text": "What?"
+    },
+    {
+      "id": 55,
+      "start": 429.46,
+      "end": 430.46,
+      "text": "What am I trying to say?"
+    },
+    {
+      "id": 56,
+      "start": 430.46,
+      "end": 431.46,
+      "text": "Gays and gays."
+    },
+    {
+      "id": 57,
+      "start": 431.46,
+      "end": 432.46,
+      "text": "Can you see it?"
+    },
+    {
+      "id": 58,
+      "start": 432.46,
+      "end": 433.46,
+      "text": "Yeah."
+    },
+    {
+      "id": 59,
+      "start": 433.46,
+      "end": 434.46,
+      "text": "They can't see it."
+    },
+    {
+      "id": 60,
+      "start": 434.46,
+      "end": 435.94,
+      "text": "It's so much cooler."
+    },
+    {
+      "id": 61,
+      "start": 435.94,
+      "end": 437.78,
+      "text": "I sort of got it so much cooler."
+    },
+    {
+      "id": 62,
+      "start": 437.78,
+      "end": 438.78,
+      "text": "What do you mean?"
+    },
+    {
+      "id": 63,
+      "start": 438.78,
+      "end": 439.78,
+      "text": "It looks good."
+    },
+    {
+      "id": 64,
+      "start": 439.78,
+      "end": 441.14,
+      "text": "Look at it."
+    },
+    {
+      "id": 65,
+      "start": 441.14,
+      "end": 442.14,
+      "text": "It's a little more gold."
+    },
+    {
+      "id": 66,
+      "start": 442.14,
+      "end": 443.14,
+      "text": "It could be that it's coming off as..."
+    },
+    {
+      "id": 67,
+      "start": 443.14,
+      "end": 444.64,
+      "text": "Look, it's ombre too."
+    },
+    {
+      "id": 68,
+      "start": 444.64,
+      "end": 447.7,
+      "text": "Hey, wait, hold up in front of my face."
+    },
+    {
+      "id": 69,
+      "start": 447.7,
+      "end": 448.7,
+      "text": "Another side."
+    },
+    {
+      "id": 70,
+      "start": 448.7,
+      "end": 450.86,
+      "text": "I think my green screen is fucking with it."
+    },
+    {
+      "id": 71,
+      "start": 450.86,
+      "end": 451.86,
+      "text": "Ever so slightly."
+    },
+    {
+      "id": 72,
+      "start": 451.86,
+      "end": 452.86,
+      "text": "This is like..."
+    },
+    {
+      "id": 73,
+      "start": 452.86,
+      "end": 453.86,
+      "text": "You can kind of see it."
+    },
+    {
+      "id": 74,
+      "start": 453.86,
+      "end": 454.86,
+      "text": "That's whatever."
+    },
+    {
+      "id": 75,
+      "start": 454.86,
+      "end": 464.58,
+      "text": "It's ombre, orange, pink, and it's lined with gold."
+    },
+    {
+      "id": 76,
+      "start": 464.58,
+      "end": 468.22,
+      "text": "Can I know how you feeling today?"
+    },
+    {
+      "id": 77,
+      "start": 468.5,
+      "end": 473.78,
+      "text": "I listened to her speech while I was listening to the Kamala speech."
+    },
+    {
+      "id": 78,
+      "start": 473.78,
+      "end": 477.62,
+      "text": "I made it close to the end and then I had to do a thing."
+    },
+    {
+      "id": 79,
+      "start": 477.62,
+      "end": 479.54,
+      "text": "I mean, I don't know what she could say."
+    },
+    {
+      "id": 80,
+      "start": 479.54,
+      "end": 483.34,
+      "text": "Her coming out to that Beyonce song that starts with I Can't Lose definitely doesn't feel"
+    },
+    {
+      "id": 81,
+      "start": 483.34,
+      "end": 484.34,
+      "text": "great anymore."
+    },
+    {
+      "id": 82,
+      "start": 484.34,
+      "end": 485.34,
+      "text": "It's getting..."
+    },
+    {
+      "id": 83,
+      "start": 485.34,
+      "end": 490.42,
+      "text": "It's saying that song is now giving, unfortunately, 2016 fight song vibes."
+    },
+    {
+      "id": 84,
+      "start": 490.42,
+      "end": 496.39,
+      "text": "No, I like it."
+    },
+    {
+      "id": 85,
+      "start": 496.39,
+      "end": 497.47,
+      "text": "Orange to match Trump?"
+    },
+    {
+      "id": 86,
+      "start": 497.47,
+      "end": 499.55,
+      "text": "I'd come on."
+    },
+    {
+      "id": 87,
+      "start": 499.55,
+      "end": 501.47,
+      "text": "Candy corn isn't Trump's."
+    },
+    {
+      "id": 88,
+      "start": 501.47,
+      "end": 505.13,
+      "text": "Nothing orange can't be his."
+    },
+    {
+      "id": 89,
+      "start": 505.13,
+      "end": 508.13,
+      "text": "If it was red."
+    },
+    {
+      "id": 90,
+      "start": 508.13,
+      "end": 511.65,
+      "text": "See if it's blue then you're just rubbing it in your own face, the defeat."
+    },
+    {
+      "id": 91,
+      "start": 511.65,
+      "end": 514.53,
+      "text": "Much like this jacket."
+    },
+    {
+      "id": 92,
+      "start": 514.53,
+      "end": 520.49,
+      "text": "Today of all days though."
+    },
+    {
+      "id": 93,
+      "start": 520.49,
+      "end": 521.81,
+      "text": "Look at those orange boglins."
+    },
+    {
+      "id": 94,
+      "start": 521.81,
+      "end": 524.57,
+      "text": "I mean, if anything, they look like Trump."
+    },
+    {
+      "id": 95,
+      "start": 524.57,
+      "end": 531.18,
+      "text": "Yeah, they're not going to register this in China, guys."
+    },
+    {
+      "id": 96,
+      "start": 531.18,
+      "end": 535.47,
+      "text": "I think."
+    },
+    {
+      "id": 97,
+      "start": 535.47,
+      "end": 538.67,
+      "text": "I have the job of entertaining us."
+    },
+    {
+      "id": 98,
+      "start": 538.67,
+      "end": 542.5,
+      "text": "I take this job seriously."
+    },
+    {
+      "id": 99,
+      "start": 542.5,
+      "end": 544.26,
+      "text": "Lowkey Agent Orange."
+    },
+    {
+      "id": 100,
+      "start": 544.26,
+      "end": 545.26,
+      "text": "Yeah."
+    },
+    {
+      "id": 101,
+      "start": 545.26,
+      "end": 549.42,
+      "text": "Well, anyway, I hope everyone's feeling all right."
+    },
+    {
+      "id": 102,
+      "start": 549.42,
+      "end": 557.5,
+      "text": "I hope the immediate shock has slightly started to turn down."
+    },
+    {
+      "id": 103,
+      "start": 557.5,
+      "end": 561.78,
+      "text": "Turn down into probably something akin to Dread for many people, although for the select"
+    },
+    {
+      "id": 104,
+      "start": 561.78,
+      "end": 563.06,
+      "text": "few in chat, who knows?"
+    },
+    {
+      "id": 105,
+      "start": 563.06,
+      "end": 568.91,
+      "text": "Maybe huge party time celebration."
+    },
+    {
+      "id": 106,
+      "start": 568.91,
+      "end": 570.39,
+      "text": "You need a good laugh?"
+    },
+    {
+      "id": 107,
+      "start": 570.39,
+      "end": 571.39,
+      "text": "Yeah."
+    },
+    {
+      "id": 108,
+      "start": 571.39,
+      "end": 572.39,
+      "text": "Yeah."
+    },
+    {
+      "id": 109,
+      "start": 572.39,
+      "end": 574.11,
+      "text": "We'll see what I can provide today."
+    },
+    {
+      "id": 110,
+      "start": 574.11,
+      "end": 581.39,
+      "text": "I'm really only going to be on for about 20 to 30 minutes and then I got to bounce."
+    },
+    {
+      "id": 111,
+      "start": 581.39,
+      "end": 588.8,
+      "text": "But you know, if I can stream for even a second, it's worth it."
+    },
+    {
+      "id": 112,
+      "start": 588.8,
+      "end": 590.96,
+      "text": "You're those people that are happy?"
+    },
+    {
+      "id": 113,
+      "start": 590.96,
+      "end": 593.56,
+      "text": "Mr. Whoopie Boo Boo, you're happy?"
+    },
+    {
+      "id": 114,
+      "start": 593.56,
+      "end": 600.48,
+      "text": "Well, you know, if there's a little joy out there, maybe that's a positive."
+    },
+    {
+      "id": 115,
+      "start": 600.48,
+      "end": 601.48,
+      "text": "Probably not."
+    },
+    {
+      "id": 116,
+      "start": 601.48,
+      "end": 605.68,
+      "text": "I think the people who are happy are in for some major disappointment."
+    },
+    {
+      "id": 117,
+      "start": 605.68,
+      "end": 609.12,
+      "text": "That is one funny thing about, I see the energy online."
+    },
+    {
+      "id": 118,
+      "start": 609.12,
+      "end": 611.44,
+      "text": "Are you sure those people are happy?"
+    },
+    {
+      "id": 119,
+      "start": 611.44,
+      "end": 614.88,
+      "text": "That does make more sense."
+    },
+    {
+      "id": 120,
+      "start": 614.88,
+      "end": 615.88,
+      "text": "Yeah."
+    },
+    {
+      "id": 121,
+      "start": 615.88,
+      "end": 621.6,
+      "text": "I've seen a lot of things online that are like, I fucking hate this country."
+    },
+    {
+      "id": 122,
+      "start": 621.6,
+      "end": 623.96,
+      "text": "Like we're an evil state."
+    },
+    {
+      "id": 123,
+      "start": 623.96,
+      "end": 624.96,
+      "text": "I get it."
+    },
+    {
+      "id": 124,
+      "start": 624.96,
+      "end": 625.96,
+      "text": "I do get that."
+    },
+    {
+      "id": 125,
+      "start": 625.96,
+      "end": 628.2,
+      "text": "I don't think they're necessarily off."
+    },
+    {
+      "id": 126,
+      "start": 628.2,
+      "end": 633.0,
+      "text": "But I do think the people that lined up to support Trump are in for the same disappointment"
+    },
+    {
+      "id": 127,
+      "start": 633.0,
+      "end": 638.56,
+      "text": "that all of us are in the ensuing years and decades if we keep moving in the current direction"
+    },
+    {
+      "id": 128,
+      "start": 638.56,
+      "end": 639.56,
+      "text": "we're moving."
+    },
+    {
+      "id": 129,
+      "start": 639.56,
+      "end": 643.0,
+      "text": "I think we would have honestly been in for a lot of disappointment with Kamala as well."
+    },
+    {
+      "id": 130,
+      "start": 643.0,
+      "end": 647.16,
+      "text": "Just less blunt force trauma, if you will."
+    },
+    {
+      "id": 131,
+      "start": 647.16,
+      "end": 654.04,
+      "text": "It's sort of the slow eroding versus the, you know, home run bat to the face."
+    },
+    {
+      "id": 132,
+      "start": 654.04,
+      "end": 657.24,
+      "text": "We went for the home run bat to the face last night."
+    },
+    {
+      "id": 133,
+      "start": 657.24,
+      "end": 663.72,
+      "text": "You pick up that item and smash brothers and you don't roll in time."
+    },
+    {
+      "id": 134,
+      "start": 663.72,
+      "end": 666.28,
+      "text": "I should still leopard face eating insurance."
+    },
+    {
+      "id": 135,
+      "start": 666.28,
+      "end": 668.28,
+      "text": "I know a group perfect for it."
+    },
+    {
+      "id": 136,
+      "start": 668.28,
+      "end": 670.56,
+      "text": "See psychors making business moves."
+    },
+    {
+      "id": 137,
+      "start": 670.56,
+      "end": 673.56,
+      "text": "That's what we all need to be doing right now."
+    },
+    {
+      "id": 138,
+      "start": 673.56,
+      "end": 677.96,
+      "text": "I've seen some of the people saying some opposite stuff to what he was campaigning"
+    },
+    {
+      "id": 139,
+      "start": 677.96,
+      "end": 678.96,
+      "text": "on."
+    },
+    {
+      "id": 140,
+      "start": 678.96,
+      "end": 686.52,
+      "text": "Yeah, let's, I guess let's just, alright one sec."
+    },
+    {
+      "id": 141,
+      "start": 686.52,
+      "end": 688.52,
+      "text": "Let's, uh, God."
+    },
+    {
+      "id": 142,
+      "start": 688.52,
+      "end": 696.54,
+      "text": "I don't even know if I can stomach watching his, um, his victory speech again."
+    },
+    {
+      "id": 143,
+      "start": 696.54,
+      "end": 699.9,
+      "text": "But it was truly an uncanny moment."
+    },
+    {
+      "id": 144,
+      "start": 699.9,
+      "end": 707.66,
+      "text": "Just a constellation of the worst people getting to completely celebrate is a really unpleasant"
+    },
+    {
+      "id": 145,
+      "start": 707.66,
+      "end": 709.22,
+      "text": "experience."
+    },
+    {
+      "id": 146,
+      "start": 709.22,
+      "end": 715.62,
+      "text": "I think for posterity we at least have to look at one moment and it won't even be Trump"
+    },
+    {
+      "id": 147,
+      "start": 715.62,
+      "end": 717.1,
+      "text": "speaking."
+    },
+    {
+      "id": 148,
+      "start": 717.22,
+      "end": 725.54,
+      "text": "This is when the feeling of dread truly, um, sunk in for me."
+    },
+    {
+      "id": 149,
+      "start": 725.54,
+      "end": 730.74,
+      "text": "Let's see if I can find it."
+    },
+    {
+      "id": 150,
+      "start": 730.74,
+      "end": 732.26,
+      "text": "This probably has it honestly."
+    },
+    {
+      "id": 151,
+      "start": 732.26,
+      "end": 735.7,
+      "text": "How's everybody doing?"
+    },
+    {
+      "id": 152,
+      "start": 735.7,
+      "end": 736.7,
+      "text": "Oh great Chets here."
+    },
+    {
+      "id": 153,
+      "start": 736.7,
+      "end": 739.3,
+      "text": "Well look, I kind of checked out last night."
+    },
+    {
+      "id": 154,
+      "start": 739.3,
+      "end": 745.06,
+      "text": "I ate a bunch of corn dogs and my stomach was in a state so I just thought I'll worry"
+    },
+    {
+      "id": 155,
+      "start": 745.06,
+      "end": 747.98,
+      "text": "about this next week."
+    },
+    {
+      "id": 156,
+      "start": 747.98,
+      "end": 750.18,
+      "text": "Still not entirely sure who I'm voting for."
+    },
+    {
+      "id": 157,
+      "start": 752.47,
+      "end": 754.99,
+      "text": "It's a little late chat."
+    },
+    {
+      "id": 158,
+      "start": 754.99,
+      "end": 757.47,
+      "text": "What do you mean?"
+    },
+    {
+      "id": 159,
+      "start": 757.47,
+      "end": 761.94,
+      "text": "The election happened Trump won?"
+    },
+    {
+      "id": 160,
+      "start": 761.94,
+      "end": 764.26,
+      "text": "Oh today's Wednesday?"
+    },
+    {
+      "id": 161,
+      "start": 764.26,
+      "end": 766.61,
+      "text": "Yeah."
+    },
+    {
+      "id": 162,
+      "start": 766.61,
+      "end": 768.57,
+      "text": "That happens to me so often."
+    },
+    {
+      "id": 163,
+      "start": 768.57,
+      "end": 770.65,
+      "text": "I get Tuesdays and Wednesdays mixed up."
+    },
+    {
+      "id": 164,
+      "start": 770.65,
+      "end": 772.49,
+      "text": "Which one's hump day?"
+    },
+    {
+      "id": 165,
+      "start": 772.49,
+      "end": 774.49,
+      "text": "Wednesday?"
+    },
+    {
+      "id": 166,
+      "start": 774.49,
+      "end": 775.49,
+      "text": "Dang."
+    },
+    {
+      "id": 167,
+      "start": 775.49,
+      "end": 779.09,
+      "text": "Because in my head I'm a hard to remember is election day."
+    },
+    {
+      "id": 168,
+      "start": 779.09,
+      "end": 780.69,
+      "text": "Hump day."
+    },
+    {
+      "id": 169,
+      "start": 780.69,
+      "end": 783.25,
+      "text": "Fuck the USA."
+    },
+    {
+      "id": 170,
+      "start": 783.25,
+      "end": 785.09,
+      "text": "Kind of an anti-patriotic message."
+    },
+    {
+      "id": 171,
+      "start": 785.09,
+      "end": 790.7,
+      "text": "No like fuck the USA like yeah let's get into it."
+    },
+    {
+      "id": 172,
+      "start": 790.7,
+      "end": 792.18,
+      "text": "But super Tuesday."
+    },
+    {
+      "id": 173,
+      "start": 792.18,
+      "end": 795.73,
+      "text": "That's a better how to remember."
+    },
+    {
+      "id": 174,
+      "start": 795.73,
+      "end": 798.29,
+      "text": "Chets vote is worth 20 million that's how I look at it."
+    },
+    {
+      "id": 175,
+      "start": 798.29,
+      "end": 803.13,
+      "text": "I was ready to send 20 million to whoever I finally settled on but I just didn't,"
+    },
+    {
+      "id": 176,
+      "start": 803.13,
+      "end": 804.93,
+      "text": "they didn't appeal to me in time."
+    },
+    {
+      "id": 177,
+      "start": 804.93,
+      "end": 809.67,
+      "text": "They couldn't quite reach me so I was like."
+    },
+    {
+      "id": 178,
+      "start": 809.67,
+      "end": 814.59,
+      "text": "Okay well anyway this is the moment where I was sort of um, feeling the fear and"
+    },
+    {
+      "id": 179,
+      "start": 814.59,
+      "end": 816.23,
+      "text": "loathing style."
+    },
+    {
+      "id": 180,
+      "start": 816.23,
+      "end": 822.87,
+      "text": "The fear was this beautiful moment last night from everyone's favorite political force Dana"
+    },
+    {
+      "id": 181,
+      "start": 822.87,
+      "end": 827.46,
+      "text": "White."
+    },
+    {
+      "id": 182,
+      "start": 827.46,
+      "end": 833.66,
+      "text": "Some people real quick I want to thank the Nelpoys, Aiden Ross, Theo Vaughan, Boston with"
+    },
+    {
+      "id": 183,
+      "start": 833.66,
+      "end": 844.38,
+      "text": "the boys and last but not least the mighty and powerful Joe Rogan."
+    },
+    {
+      "id": 184,
+      "start": 844.38,
+      "end": 851.38,
+      "text": "There's just something about our actual soon to be president."
+    },
+    {
+      "id": 185,
+      "start": 851.38,
+      "end": 856.26,
+      "text": "The current president-elect as lovely as that is to say."
+    },
+    {
+      "id": 186,
+      "start": 856.26,
+      "end": 863.66,
+      "text": "Standing behind fucking Dana White who thinks Aiden Ross the Nelpoys."
+    },
+    {
+      "id": 187,
+      "start": 863.66,
+      "end": 864.66,
+      "text": "Who did he have after that?"
+    },
+    {
+      "id": 188,
+      "start": 864.66,
+      "end": 867.02,
+      "text": "I want to thank some people real quick."
+    },
+    {
+      "id": 189,
+      "start": 867.02,
+      "end": 873.78,
+      "text": "I want to thank the Nelpoys, Aiden Ross, Theo Vaughan, Boston with the boys."
+    },
+    {
+      "id": 190,
+      "start": 873.78,
+      "end": 876.7,
+      "text": "Aiden with the boys."
+    },
+    {
+      "id": 191,
+      "start": 876.7,
+      "end": 878.78,
+      "text": "Theo Vaughan."
+    },
+    {
+      "id": 192,
+      "start": 878.78,
+      "end": 884.7,
+      "text": "The only person in that list that I have even casual awareness of what it is they do."
+    },
+    {
+      "id": 193,
+      "start": 884.7,
+      "end": 888.34,
+      "text": "I guess I know who Aiden Ross is now courtesy of that Trump stream."
+    },
+    {
+      "id": 194,
+      "start": 888.34,
+      "end": 891.62,
+      "text": "And then of course Joe Rogan."
+    },
+    {
+      "id": 195,
+      "start": 891.62,
+      "end": 895.74,
+      "text": "It really I don't know."
+    },
+    {
+      "id": 196,
+      "start": 895.74,
+      "end": 901.38,
+      "text": "I think it like I threw out the word catastrophizing last night and I do think we're all kind"
+    },
+    {
+      "id": 197,
+      "start": 901.38,
+      "end": 905.22,
+      "text": "of guilty of that in moments like this where we don't really know the full"
+    },
+    {
+      "id": 198,
+      "start": 905.22,
+      "end": 909.14,
+      "text": "implications of something or how it turns out so all of us kind of rushed to the worst"
+    },
+    {
+      "id": 199,
+      "start": 909.14,
+      "end": 911.7,
+      "text": "conclusions like about how bad it'll be."
+    },
+    {
+      "id": 200,
+      "start": 911.7,
+      "end": 914.1,
+      "text": "That being said it could get very bad."
+    },
+    {
+      "id": 201,
+      "start": 914.1,
+      "end": 921.22,
+      "text": "But something about this particular political tableau really made me feel like we are just"
+    },
+    {
+      "id": 202,
+      "start": 921.22,
+      "end": 924.46,
+      "text": "living in an absolute slop nation."
+    },
+    {
+      "id": 203,
+      "start": 924.46,
+      "end": 926.42,
+      "text": "Like we are piggies."
+    },
+    {
+      "id": 204,
+      "start": 926.42,
+      "end": 934.86,
+      "text": "We are at the troth and we are totally satisfied just consuming nothing but slop."
+    },
+    {
+      "id": 205,
+      "start": 935.5,
+      "end": 941.86,
+      "text": "Unfortunately all of us we are just inundated with the lowest rent cultural products by that"
+    },
+    {
+      "id": 206,
+      "start": 941.86,
+      "end": 944.1,
+      "text": "I don't just mean movies and TV."
+    },
+    {
+      "id": 207,
+      "start": 944.1,
+      "end": 953.46,
+      "text": "I mean the fact that this thing that he just said is actually politically relevant to anyone"
+    },
+    {
+      "id": 208,
+      "start": 953.46,
+      "end": 957.78,
+      "text": "suggests that and obviously this isn't the only warning sign it just was going to hit"
+    },
+    {
+      "id": 209,
+      "start": 957.78,
+      "end": 967.18,
+      "text": "me very viscerally that something has to change or I just I don't know."
+    },
+    {
+      "id": 210,
+      "start": 967.18,
+      "end": 974.98,
+      "text": "I really don't know how bad culture and then eventually downstream from culture actual"
+    },
+    {
+      "id": 211,
+      "start": 974.98,
+      "end": 979.98,
+      "text": "material reality will get for your average American."
+    },
+    {
+      "id": 212,
+      "start": 979.98,
+      "end": 982.7,
+      "text": "I don't think we're cooked honestly."
+    },
+    {
+      "id": 213,
+      "start": 982.7,
+      "end": 986.54,
+      "text": "I think it's just like it's a depressing cultural moment."
+    },
+    {
+      "id": 214,
+      "start": 986.54,
+      "end": 992.74,
+      "text": "I think if you look at your life there's probably people if you look at your life on"
+    },
+    {
+      "id": 215,
+      "start": 992.74,
+      "end": 996.94,
+      "text": "a micro level like me for instance you look at the people around you there's tons of people"
+    },
+    {
+      "id": 216,
+      "start": 996.94,
+      "end": 1002.62,
+      "text": "I love I'm honestly in a better position than I was four years ago."
+    },
+    {
+      "id": 217,
+      "start": 1002.62,
+      "end": 1006.54,
+      "text": "Maybe why I'm more willing to just slap down the vote for Kamala."
+    },
+    {
+      "id": 218,
+      "start": 1006.54,
+      "end": 1010.62,
+      "text": "So if I look at my life at like a micro level things are going reasonably well but if"
+    },
+    {
+      "id": 219,
+      "start": 1010.62,
+      "end": 1017.5,
+      "text": "you look at culture and the nation and really the world at a macro level it is really fucking"
+    },
+    {
+      "id": 220,
+      "start": 1017.5,
+      "end": 1024.34,
+      "text": "bleak right now and I think a lot of people that are just signing off on whatever the"
+    },
+    {
+      "id": 221,
+      "start": 1024.34,
+      "end": 1029.66,
+      "text": "fuck this is are probably a somewhat similar spot they might be in worse or better situations"
+    },
+    {
+      "id": 222,
+      "start": 1029.66,
+      "end": 1032.58,
+      "text": "when they look at their immediate circumstances around them but I'm sure there's people"
+    },
+    {
+      "id": 223,
+      "start": 1032.58,
+      "end": 1037.38,
+      "text": "in their life they care about there's moments in their life where they feel a lot of satisfaction"
+    },
+    {
+      "id": 224,
+      "start": 1037.38,
+      "end": 1046.46,
+      "text": "but I think as a political hive mind as a lumbering beast of a country even surviving or living"
+    },
+    {
+      "id": 225,
+      "start": 1046.46,
+      "end": 1054.3,
+      "text": "through like eight years of George Bush this feels way worse and more extreme and like"
+    },
+    {
+      "id": 226,
+      "start": 1054.3,
+      "end": 1062.06,
+      "text": "we essentially just sold the country to a less charismatic version of the monorail man"
+    },
+    {
+      "id": 227,
+      "start": 1062.06,
+      "end": 1067.38,
+      "text": "and his crossy the clown is fucking Dana White and I don't know I mean there's been"
+    },
+    {
+      "id": 228,
+      "start": 1067.42,
+      "end": 1073.74,
+      "text": "so much ranting online that I don't think anyone really needs to capture and summarize the moment"
+    },
+    {
+      "id": 229,
+      "start": 1073.74,
+      "end": 1082.9,
+      "text": "which I'm not even really trying to do it just it is it is difficult to watch and not want to like"
+    },
+    {
+      "id": 230,
+      "start": 1082.9,
+      "end": 1088.7,
+      "text": "run into the streets and just be like hey guys I think we need to call a town meeting"
+    },
+    {
+      "id": 231,
+      "start": 1089.46,
+      "end": 1102.78,
+      "text": "retire Rogan segment at a third Rogan never hella yes and you have to but if those two Joe Rogan's"
+    },
+    {
+      "id": 232,
+      "start": 1102.78,
+      "end": 1111.76,
+      "text": "aren't talking then we only have the one Rogan left we'll see where we land as this is essentially"
+    },
+    {
+      "id": 233,
+      "start": 1111.76,
+      "end": 1118.36,
+      "text": "one of the few remaining democratic institutions left in this country and I sign off on that"
+    },
+    {
+      "id": 234,
+      "start": 1118.36,
+      "end": 1126.2,
+      "text": "entirely we will have to abide by these binding results oh man it is a tight race between at a"
+    },
+    {
+      "id": 235,
+      "start": 1126.2,
+      "end": 1135.92,
+      "text": "third and yes to be honest I would be fine with either of these options as it is very annoying"
+    },
+    {
+      "id": 236,
+      "start": 1135.92,
+      "end": 1148.96,
+      "text": "to pull up that software alright there you have it it's the end of an era of poorly face"
+    },
+    {
+      "id": 237,
+      "start": 1149.04,
+      "end": 1160.68,
+      "text": "masked Joe Rogan's speaking in vaguely his tone but when the people speak here we still listen"
+    },
+    {
+      "id": 238,
+      "start": 1160.68,
+      "end": 1171.6,
+      "text": "it's poor fight says finally there's at least one no in chat sad can we have chat eat Rogan"
+    },
+    {
+      "id": 239,
+      "start": 1171.6,
+      "end": 1178.64,
+      "text": "are you not just gonna be a cannibal then hmm well it's unclear the physical space those"
+    },
+    {
+      "id": 240,
+      "start": 1178.68,
+      "end": 1185.36,
+      "text": "two Rogan's inhabit and unfortunately their caboose has just been cut from the train the long"
+    },
+    {
+      "id": 241,
+      "start": 1185.36,
+      "end": 1193.6,
+      "text": "reign of terror officially ends today allow me to do the let me play some music here in honor of"
+    },
+    {
+      "id": 242,
+      "start": 1193.6,
+      "end": 1199.6,
+      "text": "this segment dying the people have spoken it was a tight election but the turnout for Rogan"
+    },
+    {
+      "id": 243,
+      "start": 1199.6,
+      "end": 1206.88,
+      "text": "just wasn't there at the end of the day so I do have to call it and I will officially retire this"
+    },
+    {
+      "id": 244,
+      "start": 1207.12,
+      "end": 1215.36,
+      "text": "and show you guys that we mean business by showing you the work let me find the thing that triggers it"
+    },
+    {
+      "id": 245,
+      "start": 1215.36,
+      "end": 1235.14,
+      "text": "thing and it's not the right song this is the one we want I'm gonna get emotional the people are"
+    },
+    {
+      "id": 246,
+      "start": 1235.14,
+      "end": 1247.33,
+      "text": "demanding a recount okay you know what here's what we'll do what are we gonna do just in case"
+    },
+    {
+      "id": 247,
+      "start": 1247.33,
+      "end": 1253.01,
+      "text": "there's any huge Rogan heads out there we're gonna send it to Munchen Crumb who will do for"
+    },
+    {
+      "id": 248,
+      "start": 1253.01,
+      "end": 1260.37,
+      "text": "one of the few occasions a non-cooked point driven poll and whoever wins this one that's the"
+    },
+    {
+      "id": 249,
+      "start": 1260.37,
+      "end": 1266.61,
+      "text": "last the last chance it's the last chance for Rogan we'll see how the turnout is or maybe we do the"
+    },
+    {
+      "id": 250,
+      "start": 1266.61,
+      "end": 1271.33,
+      "text": "point-cooked poll but I feel like that might not be giving democracy a chance let's set it to"
+    },
+    {
+      "id": 251,
+      "start": 1271.33,
+      "end": 1276.69,
+      "text": "Munchen Crumb and see if they can uh if they can fight if one of them can defend Rogan's right"
+    },
+    {
+      "id": 252,
+      "start": 1276.69,
+      "end": 1302.51,
+      "text": "to me freely speaking for him you absolute maniacs really chat you lose one little election and you"
+    },
+    {
+      "id": 253,
+      "start": 1302.51,
+      "end": 1309.87,
+      "text": "immediately come for Joe Rogan this is not a dark day for america until right now in this moment"
+    },
+    {
+      "id": 254,
+      "start": 1309.87,
+      "end": 1314.03,
+      "text": "and suddenly it's becoming one of the darkest days what was supposed to be a day where we"
+    },
+    {
+      "id": 255,
+      "start": 1314.03,
+      "end": 1321.15,
+      "text": "celebrate democracy and fair elections yeah I don't think that's everybody's takeaway here I for one"
+    },
+    {
+      "id": 256,
+      "start": 1321.15,
+      "end": 1329.15,
+      "text": "would really not mind hearing less from Rogan in whatever male form context he may be in whether he's"
+    },
+    {
+      "id": 257,
+      "start": 1329.15,
+      "end": 1335.63,
+      "text": "two apparition versions of himself or the real deal I am pretty fucking tired of hearing from that guy"
+    },
+    {
+      "id": 258,
+      "start": 1337.63,
+      "end": 1348.83,
+      "text": "celebrate yeah I celebrate every day what he doesn't hear himself so I don't even think there's"
+    },
+    {
+      "id": 259,
+      "start": 1348.83,
+      "end": 1356.08,
+      "text": "any point in me calling it out yeah because you got nothing to celebrate yeah I don't because"
+    },
+    {
+      "id": 260,
+      "start": 1356.08,
+      "end": 1362.8,
+      "text": "I got a beautiful wife and now he's insulting his wife she's at home probably not celebrating at all"
+    },
+    {
+      "id": 261,
+      "start": 1362.8,
+      "end": 1374.37,
+      "text": "excuse me she has uh yoga lessons today in home with her trainer yes but believe me she's just"
+    },
+    {
+      "id": 262,
+      "start": 1374.37,
+      "end": 1384.29,
+      "text": "doing yoga okay anyway brought down everybody I know you're excited to see me tired of mainstream"
+    },
+    {
+      "id": 263,
+      "start": 1384.29,
+      "end": 1390.77,
+      "text": "media influencing people to be worse well yeah come to me to influence you to be"
+    },
+    {
+      "id": 264,
+      "start": 1391.73,
+      "end": 1397.33,
+      "text": "your choice dealer's choice I'm influencing you to be more of whatever you're currently feel and"
+    },
+    {
+      "id": 265,
+      "start": 1397.33,
+      "end": 1403.89,
+      "text": "follow your bliss and don't think for a second and I'm saying do think more I think we need to think"
+    },
+    {
+      "id": 266,
+      "start": 1403.89,
+      "end": 1412.77,
+      "text": "more this is my heuristic for the nation please take a moment and just maybe think for a few"
+    },
+    {
+      "id": 267,
+      "start": 1412.77,
+      "end": 1418.69,
+      "text": "minutes a day start as it lowest 30 starting as low as 30 seconds a day of thinking it's not as"
+    },
+    {
+      "id": 268,
+      "start": 1418.69,
+      "end": 1425.65,
+      "text": "painful as you think god damn you are patronizing and you wonder what happened"
+    },
+    {
+      "id": 269,
+      "start": 1426.53,
+      "end": 1430.21,
+      "text": "crumb is the ultimate celibate I believe it and that's why I celebrate"
+    },
+    {
+      "id": 270,
+      "start": 1432.05,
+      "end": 1443.47,
+      "text": "you fucked us I ruined us chat I put 9000 towards crumb I meant to do much okay we gotta do an"
+    },
+    {
+      "id": 271,
+      "start": 1443.47,
+      "end": 1447.47,
+      "text": "actual election here meaning I think we gotta leave channel points on the table who really wants it"
+    },
+    {
+      "id": 272,
+      "start": 1447.47,
+      "end": 1455.55,
+      "text": "more you know this is I'm tired of even considering this an analog for any kind of legitimate voting"
+    },
+    {
+      "id": 273,
+      "start": 1455.55,
+      "end": 1460.43,
+      "text": "system I honestly don't fucking care so whatever just leave it at mod it's up to you whatever you"
+    },
+    {
+      "id": 274,
+      "start": 1460.43,
+      "end": 1464.99,
+      "text": "want obviously I'd love to see Rogan off this fucking network I'd love to see him just off"
+    },
+    {
+      "id": 275,
+      "start": 1465.71,
+      "end": 1472.99,
+      "text": "turn it off like a light switch it goes click that's a cool little crummy trick stop fucking"
+    },
+    {
+      "id": 276,
+      "start": 1472.99,
+      "end": 1480.27,
+      "text": "doing parody songs of musicals off the cuff I don't see I don't fucking care that's the"
+    },
+    {
+      "id": 277,
+      "start": 1480.27,
+      "end": 1483.47,
+      "text": "apathy that led to Trump I do care and I want him to speak his mind"
+    },
+    {
+      "id": 278,
+      "start": 1487.55,
+      "end": 1490.99,
+      "text": "everybody says they're good with no Rogan anyway I don't know if there's a mod around that can"
+    },
+    {
+      "id": 279,
+      "start": 1490.99,
+      "end": 1497.63,
+      "text": "make that pull but mod if there is the power is with you to decide whether we use channel points"
+    },
+    {
+      "id": 280,
+      "start": 1498.91,
+      "end": 1506.03,
+      "text": "okay look we had our fun we've seen two Rogans talk a lot and I'll be honest they pretty much"
+    },
+    {
+      "id": 281,
+      "start": 1506.03,
+      "end": 1513.95,
+      "text": "always say the same thing they're confused they rant they blabber Jamie is covered in some version"
+    },
+    {
+      "id": 282,
+      "start": 1513.95,
+      "end": 1521.87,
+      "text": "of spaghetti or plastic and you know good enough good enough maybe we can move on to two"
+    },
+    {
+      "id": 283,
+      "start": 1522.83,
+      "end": 1526.03,
+      "text": "milk boys or whatever the fuck case thinks is a good idea next"
+    },
+    {
+      "id": 284,
+      "start": 1526.91,
+      "end": 1532.19,
+      "text": "two JD vances to any okay maybe actually two people that I would be happy to hear from"
+    },
+    {
+      "id": 285,
+      "start": 1532.75,
+      "end": 1539.71,
+      "text": "about just two reasonable people having a discourse that aren't the same person that could"
+    },
+    {
+      "id": 286,
+      "start": 1539.71,
+      "end": 1545.15,
+      "text": "be a welcome addition to this channel so why don't we just replace the Rogan segment with something"
+    },
+    {
+      "id": 287,
+      "start": 1545.15,
+      "end": 1550.03,
+      "text": "slightly healthier oh healthy what are we what are we caring about healthy here what do we ever care"
+    },
+    {
+      "id": 288,
+      "start": 1550.03,
+      "end": 1557.31,
+      "text": "about healthy in this nation we like fun and it's fun to see a scary face rant at another"
+    },
+    {
+      "id": 289,
+      "start": 1557.39,
+      "end": 1563.87,
+      "text": "scary face that's most of the stuff that we watch on the news oh my gosh you guys you're selling"
+    },
+    {
+      "id": 290,
+      "start": 1563.87,
+      "end": 1567.87,
+      "text": "yourself short you don't know what incredible opinions you could be missing what happens the next"
+    },
+    {
+      "id": 291,
+      "start": 1567.87,
+      "end": 1572.99,
+      "text": "time they're like when they remove fluoride from water and now you're not gonna want to hear how"
+    },
+    {
+      "id": 292,
+      "start": 1572.99,
+      "end": 1580.35,
+      "text": "Rogan's fitness routine has been 10 plus by his lack of fluoride in his tap water or his ice bath"
+    },
+    {
+      "id": 293,
+      "start": 1580.35,
+      "end": 1585.07,
+      "text": "you're gonna miss out on so much relevant information to flood your brain with if you"
+    },
+    {
+      "id": 294,
+      "start": 1585.07,
+      "end": 1592.83,
+      "text": "don't let two Joe Rogan's sort of just save them at you replace with between two ferns and"
+    },
+    {
+      "id": 295,
+      "start": 1592.83,
+      "end": 1599.79,
+      "text": "virtually the ferns are both Rogan no that's even more conceptually confusing uh case I need a twitch"
+    },
+    {
+      "id": 296,
+      "start": 1599.79,
+      "end": 1608.91,
+      "text": "link sorry uh in the discord of these videos there's a now i'm getting distracted i see"
+    },
+    {
+      "id": 297,
+      "start": 1608.91,
+      "end": 1614.59,
+      "text": "because i got distracted i didn't have adequately defend Rogan we need a recount this is so unfair oh no"
+    },
+    {
+      "id": 298,
+      "start": 1618.46,
+      "end": 1625.5,
+      "text": "even you can't mount that much of a defense even you can't claim to care that much about not"
+    },
+    {
+      "id": 299,
+      "start": 1625.5,
+      "end": 1635.01,
+      "text": "having to do that segment well i don't have to ever do it and now it is with a heavy heart"
+    },
+    {
+      "id": 300,
+      "start": 1636.21,
+      "end": 1642.77,
+      "text": "that i will be the bigger man and show that democracy still lives in this country"
+    },
+    {
+      "id": 301,
+      "start": 1643.01,
+      "end": 1653.7,
+      "text": "i thank you so much bill sess guy for the 24 months look at this horrific list of stuff that case has"
+    },
+    {
+      "id": 302,
+      "start": 1654.9,
+      "end": 1658.34,
+      "text": "all of it triggering unnecessary segments and shit"
+    },
+    {
+      "id": 303,
+      "start": 1660.74,
+      "end": 1668.34,
+      "text": "where is the Rogan segment i must find it oh here it is get the Rogan's 2500 channel points"
+    },
+    {
+      "id": 304,
+      "start": 1669.3,
+      "end": 1677.7,
+      "text": "sorry folks oh my god they got it right under the fucking wire how did they manage that that was"
+    },
+    {
+      "id": 305,
+      "start": 1677.7,
+      "end": 1689.7,
+      "text": "truly incredible it is not enabled anymore that was impressive i'm impressed by whoever did that"
+    },
+    {
+      "id": 306,
+      "start": 1689.7,
+      "end": 1694.74,
+      "text": "they saw it fucking coming from a mile away all right we'll give them one last chance because it"
+    },
+    {
+      "id": 307,
+      "start": 1694.74,
+      "end": 1700.82,
+      "text": "was redeemed i guess we'll go out with them saying goodbye forever uh but this is getting"
+    },
+    {
+      "id": 308,
+      "start": 1700.9,
+      "end": 1715.98,
+      "text": "deleted now from twitch goodbye to Joe Rogan's may gentle jaymey sing the to the sleep maybe the"
+    },
+    {
+      "id": 309,
+      "start": 1715.98,
+      "end": 1723.58,
+      "text": "joes are sorry for what they did no never backpedal never apologize to Rogan's you did the work of"
+    },
+    {
+      "id": 310,
+      "start": 1723.58,
+      "end": 1727.74,
+      "text": "the angels but angels aren't meant for this earth and eventually they must return to heaven"
+    },
+    {
+      "id": 311,
+      "start": 1729.02,
+      "end": 1734.38,
+      "text": "and today that's what's gonna happen apparently so let's uh send it out today"
+    },
+    {
+      "id": 312,
+      "start": 1734.94,
+      "end": 1743.33,
+      "text": "with two joe rogans uh saying their farewells i don't really think they'll give it shit no they're"
+    },
+    {
+      "id": 313,
+      "start": 1743.33,
+      "end": 1750.61,
+      "text": "very unlikely to care at all i'll be real this was never a priority for them it's finally"
+    },
+    {
+      "id": 314,
+      "start": 1750.61,
+      "end": 1763.04,
+      "text": "jover it's finally jover and this is so sad really it was a win i would just love to point out"
+    },
+    {
+      "id": 315,
+      "start": 1763.92,
+      "end": 1769.36,
+      "text": "that the trummy points have been awarded this is all going in the sun what the wrong joe got sent to the"
+    },
+    {
+      "id": 316,
+      "start": 1769.36,
+      "end": 1777.52,
+      "text": "stars give you say so i'm not feeling bad for it i'm not feeling bad just celebrating look at his"
+    },
+    {
+      "id": 317,
+      "start": 1777.52,
+      "end": 1784.0,
+      "text": "side just celebrating violence violence is not going to send it to this weird thing status quo"
+    },
+    {
+      "id": 318,
+      "start": 1784.64,
+      "end": 1791.52,
+      "text": "and exposed if anything this is a this is a just a bit of good news the truth will shine that's my creed"
+    },
+    {
+      "id": 319,
+      "start": 1791.92,
+      "end": 1797.28,
+      "text": "look you're fucking breaking the whole stream with your bad attitude look at what you did"
+    },
+    {
+      "id": 320,
+      "start": 1798.88,
+      "end": 1804.32,
+      "text": "oh no the stream is really struggling this is one reason why i'm really not going to"
+    },
+    {
+      "id": 321,
+      "start": 1804.32,
+      "end": 1811.68,
+      "text": "regret this segment going away is um turning on this awful ai program has this effect"
+    },
+    {
+      "id": 322,
+      "start": 1813.36,
+      "end": 1819.84,
+      "text": "you're unbelievable what the voice is legitimately upset i'm seeing the way i'm turning it on and"
+    },
+    {
+      "id": 323,
+      "start": 1819.84,
+      "end": 1827.68,
+      "text": "off again we're going to try it one more time of the few times that the entire stream stops functioning"
+    },
+    {
+      "id": 324,
+      "start": 1828.4,
+      "end": 1834.48,
+      "text": "um i've actually i i did locate the problem and it seems to be this voice.ai software so"
+    },
+    {
+      "id": 325,
+      "start": 1835.68,
+      "end": 1841.36,
+      "text": "having less of it on the stream does not sound like a big problem to me that's so sad because"
+    },
+    {
+      "id": 326,
+      "start": 1842.32,
+      "end": 1845.68,
+      "text": "it's an incredible technology that allows us to talk to the real joe rogan"
+    },
+    {
+      "id": 327,
+      "start": 1849.92,
+      "end": 1857.68,
+      "text": "if you say so okay see we can get this to work without it breaking the stream"
+    },
+    {
+      "id": 328,
+      "start": 1858.64,
+      "end": 1863.52,
+      "text": "all right it does seem to be working this is the bridge a poor craftsman blames his tool"
+    },
+    {
+      "id": 329,
+      "start": 1864.88,
+      "end": 1871.6,
+      "text": "the tool of democracy worked expertly today like a surgeon with its scale for it has cleaved off"
+    },
+    {
+      "id": 330,
+      "start": 1871.6,
+      "end": 1879.6,
+      "text": "the cancerous tissue that is this joe rogan segment oh see what it does do you see what it does"
+    },
+    {
+      "id": 331,
+      "start": 1886.88,
+      "end": 1893.6,
+      "text": "i gotta turn it off again unbelievable oh you see what i did at the end there we were arguing i think i"
+    },
+    {
+      "id": 332,
+      "start": 1893.6,
+      "end": 1906.82,
+      "text": "nailed that out oh my gosh i feel like your face is on top of my face the matrix is not handling this"
+    },
+    {
+      "id": 333,
+      "start": 1906.82,
+      "end": 1916.69,
+      "text": "well joe rogan's gone full andrew tate and we are inside the matrix now we don't make fun of joe"
+    },
+    {
+      "id": 334,
+      "start": 1916.69,
+      "end": 1927.15,
+      "text": "rogan who will we still can um if we oh god need to retire oh we could do two bidens well i don't"
+    },
+    {
+      "id": 335,
+      "start": 1927.15,
+      "end": 1935.15,
+      "text": "even know if we could do two rogans maybe we have to send it to two james um because oh boy"
+    },
+    {
+      "id": 336,
+      "start": 1939.52,
+      "end": 1944.24,
+      "text": "because i don't think i can load this rogan thing it is totally crashing the stream"
+    },
+    {
+      "id": 337,
+      "start": 1946.53,
+      "end": 1951.33,
+      "text": "we're gonna turn on the hype train for now and i'm gonna just send it to these two rogans"
+    },
+    {
+      "id": 338,
+      "start": 1953.25,
+      "end": 1958.05,
+      "text": "they can they can try to make it work themselves we'll see how long they make it before the"
+    },
+    {
+      "id": 339,
+      "start": 1958.05,
+      "end": 1965.17,
+      "text": "cord is officially cut if it works at all um then this will be there farewell if it doesn't then"
+    },
+    {
+      "id": 340,
+      "start": 1966.77,
+      "end": 1970.29,
+      "text": "we'll we'll see we'll replace it with some other segment eventually but here for the"
+    },
+    {
+      "id": 341,
+      "start": 1970.29,
+      "end": 2084.35,
+      "text": "flash time it's two joe rogans the joe rogan experience is everybody okay i think the void"
+    },
+    {
+      "id": 342,
+      "start": 2084.35,
+      "end": 2093.31,
+      "text": "officially took them i tried to patch them in but all i heard was the absence oh my god i don't know"
+    },
+    {
+      "id": 343,
+      "start": 2093.31,
+      "end": 2101.98,
+      "text": "i normally that just works i would have loved to hear from them but i think whatever path i opened"
+    },
+    {
+      "id": 344,
+      "start": 2101.98,
+      "end": 2115.98,
+      "text": "is forever closed in the swirling nothingness i heard but one whisper oh my god yeah i i don't"
+    },
+    {
+      "id": 345,
+      "start": 2115.98,
+      "end": 2123.79,
+      "text": "want to touch that button again i consider myself a pretty effervescent being incapable of fear"
+    },
+    {
+      "id": 346,
+      "start": 2124.75,
+      "end": 2135.22,
+      "text": "but i'm rattled wow poetic no i don't know what i'm saying well we never got to see jamie"
+    },
+    {
+      "id": 347,
+      "start": 2136.34,
+      "end": 2142.74,
+      "text": "thank you for the one bit uh it does help thank you uh bootstack 88 uh for the 11 months"
+    },
+    {
+      "id": 348,
+      "start": 2143.38,
+      "end": 2151.14,
+      "text": "thank you film fest guy again for the 24 honestly joe thanks for the memories um it was fun"
+    },
+    {
+      "id": 349,
+      "start": 2151.38,
+      "end": 2163.66,
+      "text": "fun while it lasted uh but i i guess the i guess we can't really risk the void leaking back in so"
+    },
+    {
+      "id": 350,
+      "start": 2164.7,
+      "end": 2169.5,
+      "text": "um i just don't know what else we can really do"
+    },
+    {
+      "id": 351,
+      "start": 2174.18,
+      "end": 2187.33,
+      "text": "okay well i guess um i guess that's it for joe man we'll never we may not get gotten rid of trump"
+    },
+    {
+      "id": 352,
+      "start": 2187.33,
+      "end": 2195.33,
+      "text": "but apparently consolation prize we did get rid of two joe rogan that doesn't mean there's still one left"
+    },
+    {
+      "id": 353,
+      "start": 2196.29,
+      "end": 2203.57,
+      "text": "so i don't know what to uh to really do about that but you know you can't win them all"
+    },
+    {
+      "id": 354,
+      "start": 2204.37,
+      "end": 2216.34,
+      "text": "this is bullshit who the hell are you i'm before no you're not like a mortal combat boss uh i'm"
+    },
+    {
+      "id": 355,
+      "start": 2216.34,
+      "end": 2226.51,
+      "text": "devoid it's me the void you really gotta you gotta give this guy a chance you know"
+    },
+    {
+      "id": 356,
+      "start": 2226.99,
+      "end": 2232.51,
+      "text": "his opinions they move back and forth he really represents a lot of a lot of men that don't feel"
+    },
+    {
+      "id": 357,
+      "start": 2232.51,
+      "end": 2239.23,
+      "text": "seen in this country okay the void i'm done with it the hype has ended the void"
+    },
+    {
+      "id": 358,
+      "start": 2240.91,
+      "end": 2246.11,
+      "text": "have we officially closed the portal permanently yeah sorry a little void leaked in but that"
+    },
+    {
+      "id": 359,
+      "start": 2246.11,
+      "end": 2251.63,
+      "text": "wasn't a void that was just a fan yeah that was more than noid i think that's the noids father"
+    },
+    {
+      "id": 360,
+      "start": 2252.43,
+      "end": 2259.07,
+      "text": "damn where's cal to fight the void when you need him does this dude know the noid i don't know"
+    },
+    {
+      "id": 361,
+      "start": 2259.07,
+      "end": 2269.63,
+      "text": "can you get it back on the line no i prefer not listen up jack microphone and i'm just"
+    },
+    {
+      "id": 362,
+      "start": 2269.63,
+      "end": 2275.95,
+      "text": "mammajam 500 shanty and i've been dying to say this and the president now will be for the"
+    },
+    {
+      "id": 363,
+      "start": 2275.95,
+      "end": 2288.03,
+      "text": "rest of my life you're not taking me a lot jack i'm staying i'm gonna miss that yeah who are you"
+    },
+    {
+      "id": 364,
+      "start": 2288.03,
+      "end": 2294.75,
+      "text": "gonna get to do is it gonna be trump now uh maybe i'll just leave it biden i think i'll just leave"
+    },
+    {
+      "id": 365,
+      "start": 2294.75,
+      "end": 2301.95,
+      "text": "it biden because he's gonna be retired he's gonna need something to do i think that's all the time"
+    },
+    {
+      "id": 366,
+      "start": 2301.95,
+      "end": 2307.47,
+      "text": "we have yeah that is actually all the time we have for today but you know in some ways one of"
+    },
+    {
+      "id": 367,
+      "start": 2307.47,
+      "end": 2311.63,
+      "text": "the most momentous streams we finally used our voting power to get rid of the two rogans"
+    },
+    {
+      "id": 368,
+      "start": 2312.59,
+      "end": 2319.39,
+      "text": "um we got to see an aiden rush shout out from dana white and we met the void again i don't"
+    },
+    {
+      "id": 369,
+      "start": 2319.39,
+      "end": 2325.47,
+      "text": "think that was the actual void i think it's more like a void cover band and it was not capturing"
+    },
+    {
+      "id": 370,
+      "start": 2325.55,
+      "end": 2334.85,
+      "text": "the original vibe just to be clear okay well thanks for hanging out sorry it's such a brief one um"
+    },
+    {
+      "id": 371,
+      "start": 2336.37,
+      "end": 2341.09,
+      "text": "not only will be be missing those two joe rogans but we'll be missing me for the next week"
+    },
+    {
+      "id": 372,
+      "start": 2341.09,
+      "end": 2350.45,
+      "text": "plus as i'll be in china and i'll report back on who seems to be doing better it's not the highest"
+    },
+    {
+      "id": 373,
+      "start": 2350.45,
+      "end": 2355.01,
+      "text": "bar i think they there's a good chance they're gonna take it um but i'm assuming my nine days"
+    },
+    {
+      "id": 374,
+      "start": 2355.01,
+      "end": 2363.57,
+      "text": "there will really be totally illuminating for me with any luck i'll come back speaking a whole new language"
+    },
+    {
+      "id": 375,
+      "start": 2365.41,
+      "end": 2370.77,
+      "text": "yeah i'm honestly excited i i in i i feel like uh as americans we all honestly know"
+    },
+    {
+      "id": 376,
+      "start": 2370.77,
+      "end": 2377.33,
+      "text": "way too little about most countries and i know so little about um i don't know i just don't"
+    },
+    {
+      "id": 377,
+      "start": 2377.33,
+      "end": 2382.77,
+      "text": "know much about china especially modern china outside of vague political awareness of some"
+    },
+    {
+      "id": 378,
+      "start": 2382.77,
+      "end": 2388.21,
+      "text": "things about them so i'm excited to see it on ground level at least you know one or two of its cities"
+    },
+    {
+      "id": 379,
+      "start": 2388.93,
+      "end": 2395.33,
+      "text": "let's send you the way of bruce green been international if i if i could stream over"
+    },
+    {
+      "id": 380,
+      "start": 2395.33,
+      "end": 2400.61,
+      "text": "there like on my phone i would honestly consider doing it um for at least a little while like maybe"
+    },
+    {
+      "id": 381,
+      "start": 2400.61,
+      "end": 2405.17,
+      "text": "when we're at a particular exhibit that lets us but i just don't think i i don't think i can"
+    },
+    {
+      "id": 382,
+      "start": 2406.45,
+      "end": 2411.01,
+      "text": "i really i i haven't looked it up yet so i'm honestly not sure but i i know that there's"
+    },
+    {
+      "id": 383,
+      "start": 2411.09,
+      "end": 2418.93,
+      "text": "some internet limitations in china um i'm just not and i i also don't think i will have like"
+    },
+    {
+      "id": 384,
+      "start": 2420.05,
+      "end": 2425.49,
+      "text": "4g or 5g whatever on my phone but i do plan on calling at and t later to see what the deal is"
+    },
+    {
+      "id": 385,
+      "start": 2426.29,
+      "end": 2431.65,
+      "text": "so i just i think it's very unlikely but um you know if i can crack that chinese internet"
+    },
+    {
+      "id": 386,
+      "start": 2431.65,
+      "end": 2438.77,
+      "text": "without getting immediately uh deported i might give it a shot anyway thanks for hanging out"
+    },
+    {
+      "id": 387,
+      "start": 2438.77,
+      "end": 2442.53,
+      "text": "i hope everybody's feeling better today if the election didn't go your way and if you're in this"
+    },
+    {
+      "id": 388,
+      "start": 2442.53,
+      "end": 2447.89,
+      "text": "channel i think there's a very good chance it didn't it's uh it's very disappointing and"
+    },
+    {
+      "id": 389,
+      "start": 2448.77,
+      "end": 2453.65,
+      "text": "honestly extremely embarrassing i did wake up this morning feeling like i feel embarrassed i feel"
+    },
+    {
+      "id": 390,
+      "start": 2453.65,
+      "end": 2458.69,
+      "text": "like i got drunk last night and i like had a bunch of embarrassing conversations i don't even and"
+    },
+    {
+      "id": 391,
+      "start": 2458.69,
+      "end": 2463.25,
+      "text": "i don't mean that because i said stuff on the stream i i regret just like the final result and"
+    },
+    {
+      "id": 392,
+      "start": 2463.25,
+      "end": 2469.41,
+      "text": "watching his acceptance victory speech i just i had the feeling of embarrassment of like oh"
+    },
+    {
+      "id": 393,
+      "start": 2469.41,
+      "end": 2473.81,
+      "text": "shit that i blacked out last night and do something i wasn't supposed to that was the feeling i had"
+    },
+    {
+      "id": 394,
+      "start": 2473.81,
+      "end": 2479.01,
+      "text": "this morning and i could imagine uh that's honestly not the worst feeling i will have"
+    },
+    {
+      "id": 395,
+      "start": 2479.65,
+      "end": 2486.29,
+      "text": "in reaction to the things this president might get up to so we'll see though focus on the"
+    },
+    {
+      "id": 396,
+      "start": 2486.29,
+      "end": 2492.93,
+      "text": "things in front of you everybody have a great week we'll be back with more of whatever this is"
+    },
+    {
+      "id": 397,
+      "start": 2494.13,
+      "end": 2501.49,
+      "text": "soon enough enjoy your trip as well wherever it may be say hi to spinachi for me and talk to you all later"
+    },
+    {
+      "id": 398,
+      "start": 2501.49,
+      "end": 2503.49,
+      "text": "bye bye"
+    }
+  ],
+  "text": "I'm Papito, I'm the dog that produces the show and now it is live and I'm a dog.\nSix.\nOh everybody.\nRight, I'm sinking.\nLive and sleazy calling for the how-to.\nThe studio breaking down after last night's election.\nLet's run the rules of etiquette.\nOkay.\nToday's gonna be kind of a quick stream.\nI'm just, I'm gonna go to China in about a week.\nAlright, in about two days.\nMy sense of time is slightly thrown off.\nSo I thought I'd pop on for, honestly maybe even under an hour before.\nI just got a fleet of country for some reason.\nHow to eliminate dread?\nGo to China.\nI really should have considered when they told me these dates.\nIf I had the foresight to remember when the election is, it'd be like, wow, what an\ninteresting time to leave the country.\nComey confirmed, I mean more or less.\nFor a week.\nI won't be here next week.\nI'll be back on tomorrow because I have a job.\nSo I don't think I'll be back on until the Monday after next.\nI might, if you remember the Patreon, I will see you tomorrow at noon.\nBut then I will be head to the People's Republic.\nPatreon tomorrow, yeah.\nToday?\nI figured we'd just chill a little bit, you know?\nSee how everybody's feeling.\nI'm sure everybody's feeling fine.\nThere's honestly no real news to cover.\nYou have a job entertaining us?\nOop, Kendall's here, one sec.\nGuys, Kendall got her nails done.\nAnd it looks pretty good.\nFinally, some good news to report.\nKendall's let nails looking nice.\nBoom, look at that.\nThe orange tips.\nThis is for the girlies and the gays and gays.\nThey can't see it.\nThey can see it.\nThis is for the girlies and the...\nZoom in on this.\nZoom in on this.\nThis is as much as I zoom.\nZoom on your face.\nZoom on your face.\nYou can't zoom more.\nOh wait, I can zoom more.\nI can't do it.\nI have to be in the right thing though.\nThis is for the gays, gays and...\nWhat?\nWhat am I trying to say?\nGays and gays.\nCan you see it?\nYeah.\nThey can't see it.\nIt's so much cooler.\nI sort of got it so much cooler.\nWhat do you mean?\nIt looks good.\nLook at it.\nIt's a little more gold.\nIt could be that it's coming off as...\nLook, it's ombre too.\nHey, wait, hold up in front of my face.\nAnother side.\nI think my green screen is fucking with it.\nEver so slightly.\nThis is like...\nYou can kind of see it.\nThat's whatever.\nIt's ombre, orange, pink, and it's lined with gold.\nCan I know how you feeling today?\nI listened to her speech while I was listening to the Kamala speech.\nI made it close to the end and then I had to do a thing.\nI mean, I don't know what she could say.\nHer coming out to that Beyonce song that starts with I Can't Lose definitely doesn't feel\ngreat anymore.\nIt's getting...\nIt's saying that song is now giving, unfortunately, 2016 fight song vibes.\nNo, I like it.\nOrange to match Trump?\nI'd come on.\nCandy corn isn't Trump's.\nNothing orange can't be his.\nIf it was red.\nSee if it's blue then you're just rubbing it in your own face, the defeat.\nMuch like this jacket.\nToday of all days though.\nLook at those orange boglins.\nI mean, if anything, they look like Trump.\nYeah, they're not going to register this in China, guys.\nI think.\nI have the job of entertaining us.\nI take this job seriously.\nLowkey Agent Orange.\nYeah.\nWell, anyway, I hope everyone's feeling all right.\nI hope the immediate shock has slightly started to turn down.\nTurn down into probably something akin to Dread for many people, although for the select\nfew in chat, who knows?\nMaybe huge party time celebration.\nYou need a good laugh?\nYeah.\nYeah.\nWe'll see what I can provide today.\nI'm really only going to be on for about 20 to 30 minutes and then I got to bounce.\nBut you know, if I can stream for even a second, it's worth it.\nYou're those people that are happy?\nMr. Whoopie Boo Boo, you're happy?\nWell, you know, if there's a little joy out there, maybe that's a positive.\nProbably not.\nI think the people who are happy are in for some major disappointment.\nThat is one funny thing about, I see the energy online.\nAre you sure those people are happy?\nThat does make more sense.\nYeah.\nI've seen a lot of things online that are like, I fucking hate this country.\nLike we're an evil state.\nI get it.\nI do get that.\nI don't think they're necessarily off.\nBut I do think the people that lined up to support Trump are in for the same disappointment\nthat all of us are in the ensuing years and decades if we keep moving in the current direction\nwe're moving.\nI think we would have honestly been in for a lot of disappointment with Kamala as well.\nJust less blunt force trauma, if you will.\nIt's sort of the slow eroding versus the, you know, home run bat to the face.\nWe went for the home run bat to the face last night.\nYou pick up that item and smash brothers and you don't roll in time.\nI should still leopard face eating insurance.\nI know a group perfect for it.\nSee psychors making business moves.\nThat's what we all need to be doing right now.\nI've seen some of the people saying some opposite stuff to what he was campaigning\non.\nYeah, let's, I guess let's just, alright one sec.\nLet's, uh, God.\nI don't even know if I can stomach watching his, um, his victory speech again.\nBut it was truly an uncanny moment.\nJust a constellation of the worst people getting to completely celebrate is a really unpleasant\nexperience.\nI think for posterity we at least have to look at one moment and it won't even be Trump\nspeaking.\nThis is when the feeling of dread truly, um, sunk in for me.\nLet's see if I can find it.\nThis probably has it honestly.\nHow's everybody doing?\nOh great Chets here.\nWell look, I kind of checked out last night.\nI ate a bunch of corn dogs and my stomach was in a state so I just thought I'll worry\nabout this next week.\nStill not entirely sure who I'm voting for.\nIt's a little late chat.\nWhat do you mean?\nThe election happened Trump won?\nOh today's Wednesday?\nYeah.\nThat happens to me so often.\nI get Tuesdays and Wednesdays mixed up.\nWhich one's hump day?\nWednesday?\nDang.\nBecause in my head I'm a hard to remember is election day.\nHump day.\nFuck the USA.\nKind of an anti-patriotic message.\nNo like fuck the USA like yeah let's get into it.\nBut super Tuesday.\nThat's a better how to remember.\nChets vote is worth 20 million that's how I look at it.\nI was ready to send 20 million to whoever I finally settled on but I just didn't,\nthey didn't appeal to me in time.\nThey couldn't quite reach me so I was like.\nOkay well anyway this is the moment where I was sort of um, feeling the fear and\nloathing style.\nThe fear was this beautiful moment last night from everyone's favorite political force Dana\nWhite.\nSome people real quick I want to thank the Nelpoys, Aiden Ross, Theo Vaughan, Boston with\nthe boys and last but not least the mighty and powerful Joe Rogan.\nThere's just something about our actual soon to be president.\nThe current president-elect as lovely as that is to say.\nStanding behind fucking Dana White who thinks Aiden Ross the Nelpoys.\nWho did he have after that?\nI want to thank some people real quick.\nI want to thank the Nelpoys, Aiden Ross, Theo Vaughan, Boston with the boys.\nAiden with the boys.\nTheo Vaughan.\nThe only person in that list that I have even casual awareness of what it is they do.\nI guess I know who Aiden Ross is now courtesy of that Trump stream.\nAnd then of course Joe Rogan.\nIt really I don't know.\nI think it like I threw out the word catastrophizing last night and I do think we're all kind\nof guilty of that in moments like this where we don't really know the full\nimplications of something or how it turns out so all of us kind of rushed to the worst\nconclusions like about how bad it'll be.\nThat being said it could get very bad.\nBut something about this particular political tableau really made me feel like we are just\nliving in an absolute slop nation.\nLike we are piggies.\nWe are at the troth and we are totally satisfied just consuming nothing but slop.\nUnfortunately all of us we are just inundated with the lowest rent cultural products by that\nI don't just mean movies and TV.\nI mean the fact that this thing that he just said is actually politically relevant to anyone\nsuggests that and obviously this isn't the only warning sign it just was going to hit\nme very viscerally that something has to change or I just I don't know.\nI really don't know how bad culture and then eventually downstream from culture actual\nmaterial reality will get for your average American.\nI don't think we're cooked honestly.\nI think it's just like it's a depressing cultural moment.\nI think if you look at your life there's probably people if you look at your life on\na micro level like me for instance you look at the people around you there's tons of people\nI love I'm honestly in a better position than I was four years ago.\nMaybe why I'm more willing to just slap down the vote for Kamala.\nSo if I look at my life at like a micro level things are going reasonably well but if\nyou look at culture and the nation and really the world at a macro level it is really fucking\nbleak right now and I think a lot of people that are just signing off on whatever the\nfuck this is are probably a somewhat similar spot they might be in worse or better situations\nwhen they look at their immediate circumstances around them but I'm sure there's people\nin their life they care about there's moments in their life where they feel a lot of satisfaction\nbut I think as a political hive mind as a lumbering beast of a country even surviving or living\nthrough like eight years of George Bush this feels way worse and more extreme and like\nwe essentially just sold the country to a less charismatic version of the monorail man\nand his crossy the clown is fucking Dana White and I don't know I mean there's been\nso much ranting online that I don't think anyone really needs to capture and summarize the moment\nwhich I'm not even really trying to do it just it is it is difficult to watch and not want to like\nrun into the streets and just be like hey guys I think we need to call a town meeting\nretire Rogan segment at a third Rogan never hella yes and you have to but if those two Joe Rogan's\naren't talking then we only have the one Rogan left we'll see where we land as this is essentially\none of the few remaining democratic institutions left in this country and I sign off on that\nentirely we will have to abide by these binding results oh man it is a tight race between at a\nthird and yes to be honest I would be fine with either of these options as it is very annoying\nto pull up that software alright there you have it it's the end of an era of poorly face\nmasked Joe Rogan's speaking in vaguely his tone but when the people speak here we still listen\nit's poor fight says finally there's at least one no in chat sad can we have chat eat Rogan\nare you not just gonna be a cannibal then hmm well it's unclear the physical space those\ntwo Rogan's inhabit and unfortunately their caboose has just been cut from the train the long\nreign of terror officially ends today allow me to do the let me play some music here in honor of\nthis segment dying the people have spoken it was a tight election but the turnout for Rogan\njust wasn't there at the end of the day so I do have to call it and I will officially retire this\nand show you guys that we mean business by showing you the work let me find the thing that triggers it\nthing and it's not the right song this is the one we want I'm gonna get emotional the people are\ndemanding a recount okay you know what here's what we'll do what are we gonna do just in case\nthere's any huge Rogan heads out there we're gonna send it to Munchen Crumb who will do for\none of the few occasions a non-cooked point driven poll and whoever wins this one that's the\nlast the last chance it's the last chance for Rogan we'll see how the turnout is or maybe we do the\npoint-cooked poll but I feel like that might not be giving democracy a chance let's set it to\nMunchen Crumb and see if they can uh if they can fight if one of them can defend Rogan's right\nto me freely speaking for him you absolute maniacs really chat you lose one little election and you\nimmediately come for Joe Rogan this is not a dark day for america until right now in this moment\nand suddenly it's becoming one of the darkest days what was supposed to be a day where we\ncelebrate democracy and fair elections yeah I don't think that's everybody's takeaway here I for one\nwould really not mind hearing less from Rogan in whatever male form context he may be in whether he's\ntwo apparition versions of himself or the real deal I am pretty fucking tired of hearing from that guy\ncelebrate yeah I celebrate every day what he doesn't hear himself so I don't even think there's\nany point in me calling it out yeah because you got nothing to celebrate yeah I don't because\nI got a beautiful wife and now he's insulting his wife she's at home probably not celebrating at all\nexcuse me she has uh yoga lessons today in home with her trainer yes but believe me she's just\ndoing yoga okay anyway brought down everybody I know you're excited to see me tired of mainstream\nmedia influencing people to be worse well yeah come to me to influence you to be\nyour choice dealer's choice I'm influencing you to be more of whatever you're currently feel and\nfollow your bliss and don't think for a second and I'm saying do think more I think we need to think\nmore this is my heuristic for the nation please take a moment and just maybe think for a few\nminutes a day start as it lowest 30 starting as low as 30 seconds a day of thinking it's not as\npainful as you think god damn you are patronizing and you wonder what happened\ncrumb is the ultimate celibate I believe it and that's why I celebrate\nyou fucked us I ruined us chat I put 9000 towards crumb I meant to do much okay we gotta do an\nactual election here meaning I think we gotta leave channel points on the table who really wants it\nmore you know this is I'm tired of even considering this an analog for any kind of legitimate voting\nsystem I honestly don't fucking care so whatever just leave it at mod it's up to you whatever you\nwant obviously I'd love to see Rogan off this fucking network I'd love to see him just off\nturn it off like a light switch it goes click that's a cool little crummy trick stop fucking\ndoing parody songs of musicals off the cuff I don't see I don't fucking care that's the\napathy that led to Trump I do care and I want him to speak his mind\neverybody says they're good with no Rogan anyway I don't know if there's a mod around that can\nmake that pull but mod if there is the power is with you to decide whether we use channel points\nokay look we had our fun we've seen two Rogans talk a lot and I'll be honest they pretty much\nalways say the same thing they're confused they rant they blabber Jamie is covered in some version\nof spaghetti or plastic and you know good enough good enough maybe we can move on to two\nmilk boys or whatever the fuck case thinks is a good idea next\ntwo JD vances to any okay maybe actually two people that I would be happy to hear from\nabout just two reasonable people having a discourse that aren't the same person that could\nbe a welcome addition to this channel so why don't we just replace the Rogan segment with something\nslightly healthier oh healthy what are we what are we caring about healthy here what do we ever care\nabout healthy in this nation we like fun and it's fun to see a scary face rant at another\nscary face that's most of the stuff that we watch on the news oh my gosh you guys you're selling\nyourself short you don't know what incredible opinions you could be missing what happens the next\ntime they're like when they remove fluoride from water and now you're not gonna want to hear how\nRogan's fitness routine has been 10 plus by his lack of fluoride in his tap water or his ice bath\nyou're gonna miss out on so much relevant information to flood your brain with if you\ndon't let two Joe Rogan's sort of just save them at you replace with between two ferns and\nvirtually the ferns are both Rogan no that's even more conceptually confusing uh case I need a twitch\nlink sorry uh in the discord of these videos there's a now i'm getting distracted i see\nbecause i got distracted i didn't have adequately defend Rogan we need a recount this is so unfair oh no\neven you can't mount that much of a defense even you can't claim to care that much about not\nhaving to do that segment well i don't have to ever do it and now it is with a heavy heart\nthat i will be the bigger man and show that democracy still lives in this country\ni thank you so much bill sess guy for the 24 months look at this horrific list of stuff that case has\nall of it triggering unnecessary segments and shit\nwhere is the Rogan segment i must find it oh here it is get the Rogan's 2500 channel points\nsorry folks oh my god they got it right under the fucking wire how did they manage that that was\ntruly incredible it is not enabled anymore that was impressive i'm impressed by whoever did that\nthey saw it fucking coming from a mile away all right we'll give them one last chance because it\nwas redeemed i guess we'll go out with them saying goodbye forever uh but this is getting\ndeleted now from twitch goodbye to Joe Rogan's may gentle jaymey sing the to the sleep maybe the\njoes are sorry for what they did no never backpedal never apologize to Rogan's you did the work of\nthe angels but angels aren't meant for this earth and eventually they must return to heaven\nand today that's what's gonna happen apparently so let's uh send it out today\nwith two joe rogans uh saying their farewells i don't really think they'll give it shit no they're\nvery unlikely to care at all i'll be real this was never a priority for them it's finally\njover it's finally jover and this is so sad really it was a win i would just love to point out\nthat the trummy points have been awarded this is all going in the sun what the wrong joe got sent to the\nstars give you say so i'm not feeling bad for it i'm not feeling bad just celebrating look at his\nside just celebrating violence violence is not going to send it to this weird thing status quo\nand exposed if anything this is a this is a just a bit of good news the truth will shine that's my creed\nlook you're fucking breaking the whole stream with your bad attitude look at what you did\noh no the stream is really struggling this is one reason why i'm really not going to\nregret this segment going away is um turning on this awful ai program has this effect\nyou're unbelievable what the voice is legitimately upset i'm seeing the way i'm turning it on and\noff again we're going to try it one more time of the few times that the entire stream stops functioning\num i've actually i i did locate the problem and it seems to be this voice.ai software so\nhaving less of it on the stream does not sound like a big problem to me that's so sad because\nit's an incredible technology that allows us to talk to the real joe rogan\nif you say so okay see we can get this to work without it breaking the stream\nall right it does seem to be working this is the bridge a poor craftsman blames his tool\nthe tool of democracy worked expertly today like a surgeon with its scale for it has cleaved off\nthe cancerous tissue that is this joe rogan segment oh see what it does do you see what it does\ni gotta turn it off again unbelievable oh you see what i did at the end there we were arguing i think i\nnailed that out oh my gosh i feel like your face is on top of my face the matrix is not handling this\nwell joe rogan's gone full andrew tate and we are inside the matrix now we don't make fun of joe\nrogan who will we still can um if we oh god need to retire oh we could do two bidens well i don't\neven know if we could do two rogans maybe we have to send it to two james um because oh boy\nbecause i don't think i can load this rogan thing it is totally crashing the stream\nwe're gonna turn on the hype train for now and i'm gonna just send it to these two rogans\nthey can they can try to make it work themselves we'll see how long they make it before the\ncord is officially cut if it works at all um then this will be there farewell if it doesn't then\nwe'll we'll see we'll replace it with some other segment eventually but here for the\nflash time it's two joe rogans the joe rogan experience is everybody okay i think the void\nofficially took them i tried to patch them in but all i heard was the absence oh my god i don't know\ni normally that just works i would have loved to hear from them but i think whatever path i opened\nis forever closed in the swirling nothingness i heard but one whisper oh my god yeah i i don't\nwant to touch that button again i consider myself a pretty effervescent being incapable of fear\nbut i'm rattled wow poetic no i don't know what i'm saying well we never got to see jamie\nthank you for the one bit uh it does help thank you uh bootstack 88 uh for the 11 months\nthank you film fest guy again for the 24 honestly joe thanks for the memories um it was fun\nfun while it lasted uh but i i guess the i guess we can't really risk the void leaking back in so\num i just don't know what else we can really do\nokay well i guess um i guess that's it for joe man we'll never we may not get gotten rid of trump\nbut apparently consolation prize we did get rid of two joe rogan that doesn't mean there's still one left\nso i don't know what to uh to really do about that but you know you can't win them all\nthis is bullshit who the hell are you i'm before no you're not like a mortal combat boss uh i'm\ndevoid it's me the void you really gotta you gotta give this guy a chance you know\nhis opinions they move back and forth he really represents a lot of a lot of men that don't feel\nseen in this country okay the void i'm done with it the hype has ended the void\nhave we officially closed the portal permanently yeah sorry a little void leaked in but that\nwasn't a void that was just a fan yeah that was more than noid i think that's the noids father\ndamn where's cal to fight the void when you need him does this dude know the noid i don't know\ncan you get it back on the line no i prefer not listen up jack microphone and i'm just\nmammajam 500 shanty and i've been dying to say this and the president now will be for the\nrest of my life you're not taking me a lot jack i'm staying i'm gonna miss that yeah who are you\ngonna get to do is it gonna be trump now uh maybe i'll just leave it biden i think i'll just leave\nit biden because he's gonna be retired he's gonna need something to do i think that's all the time\nwe have yeah that is actually all the time we have for today but you know in some ways one of\nthe most momentous streams we finally used our voting power to get rid of the two rogans\num we got to see an aiden rush shout out from dana white and we met the void again i don't\nthink that was the actual void i think it's more like a void cover band and it was not capturing\nthe original vibe just to be clear okay well thanks for hanging out sorry it's such a brief one um\nnot only will be be missing those two joe rogans but we'll be missing me for the next week\nplus as i'll be in china and i'll report back on who seems to be doing better it's not the highest\nbar i think they there's a good chance they're gonna take it um but i'm assuming my nine days\nthere will really be totally illuminating for me with any luck i'll come back speaking a whole new language\nyeah i'm honestly excited i i in i i feel like uh as americans we all honestly know\nway too little about most countries and i know so little about um i don't know i just don't\nknow much about china especially modern china outside of vague political awareness of some\nthings about them so i'm excited to see it on ground level at least you know one or two of its cities\nlet's send you the way of bruce green been international if i if i could stream over\nthere like on my phone i would honestly consider doing it um for at least a little while like maybe\nwhen we're at a particular exhibit that lets us but i just don't think i i don't think i can\ni really i i haven't looked it up yet so i'm honestly not sure but i i know that there's\nsome internet limitations in china um i'm just not and i i also don't think i will have like\n4g or 5g whatever on my phone but i do plan on calling at and t later to see what the deal is\nso i just i think it's very unlikely but um you know if i can crack that chinese internet\nwithout getting immediately uh deported i might give it a shot anyway thanks for hanging out\ni hope everybody's feeling better today if the election didn't go your way and if you're in this\nchannel i think there's a very good chance it didn't it's uh it's very disappointing and\nhonestly extremely embarrassing i did wake up this morning feeling like i feel embarrassed i feel\nlike i got drunk last night and i like had a bunch of embarrassing conversations i don't even and\ni don't mean that because i said stuff on the stream i i regret just like the final result and\nwatching his acceptance victory speech i just i had the feeling of embarrassment of like oh\nshit that i blacked out last night and do something i wasn't supposed to that was the feeling i had\nthis morning and i could imagine uh that's honestly not the worst feeling i will have\nin reaction to the things this president might get up to so we'll see though focus on the\nthings in front of you everybody have a great week we'll be back with more of whatever this is\nsoon enough enjoy your trip as well wherever it may be say hi to spinachi for me and talk to you all later\nbye bye",
+  "text_timestamped": "[00:32 --> 03:49] I'm Papito, I'm the dog that produces the show and now it is live and I'm a dog.\n[03:49 --> 03:50] Six.\n[03:50 --> 04:28] Oh everybody.\n[04:28 --> 04:31] Right, I'm sinking.\n[04:31 --> 04:38] Live and sleazy calling for the how-to.\n[04:38 --> 04:46] The studio breaking down after last night's election.\n[04:46 --> 04:47] Let's run the rules of etiquette.\n[04:47 --> 04:48] Okay.\n[04:48 --> 04:50] Today's gonna be kind of a quick stream.\n[04:50 --> 04:53] I'm just, I'm gonna go to China in about a week.\n[04:53 --> 04:56] Alright, in about two days.\n[04:56 --> 04:58] My sense of time is slightly thrown off.\n[04:58 --> 05:02] So I thought I'd pop on for, honestly maybe even under an hour before.\n[05:02 --> 05:07] I just got a fleet of country for some reason.\n[05:07 --> 05:10] How to eliminate dread?\n[05:10 --> 05:13] Go to China.\n[05:13 --> 05:16] I really should have considered when they told me these dates.\n[05:16 --> 05:19] If I had the foresight to remember when the election is, it'd be like, wow, what an\n[05:19 --> 05:22] interesting time to leave the country.\n[05:22 --> 05:25] Comey confirmed, I mean more or less.\n[05:25 --> 05:26] For a week.\n[05:26 --> 05:27] I won't be here next week.\n[05:27 --> 05:30] I'll be back on tomorrow because I have a job.\n[05:30 --> 05:34] So I don't think I'll be back on until the Monday after next.\n[05:34 --> 05:40] I might, if you remember the Patreon, I will see you tomorrow at noon.\n[05:40 --> 05:47] But then I will be head to the People's Republic.\n[05:47 --> 05:49] Patreon tomorrow, yeah.\n[05:49 --> 05:51] Today?\n[05:51 --> 05:55] I figured we'd just chill a little bit, you know?\n[05:55 --> 05:56] See how everybody's feeling.\n[05:56 --> 05:59] I'm sure everybody's feeling fine.\n[05:59 --> 06:01] There's honestly no real news to cover.\n[06:01 --> 06:04] You have a job entertaining us?\n[06:04 --> 06:27] Oop, Kendall's here, one sec.\n[06:27 --> 06:30] Guys, Kendall got her nails done.\n[06:30 --> 06:31] And it looks pretty good.\n[06:31 --> 06:33] Finally, some good news to report.\n[06:33 --> 06:37] Kendall's let nails looking nice.\n[06:37 --> 06:40] Boom, look at that.\n[06:40 --> 06:41] The orange tips.\n[06:41 --> 06:46] This is for the girlies and the gays and gays.\n[06:46 --> 06:48] They can't see it.\n[06:48 --> 06:50] They can see it.\n[06:50 --> 06:52] This is for the girlies and the...\n[06:52 --> 06:54] Zoom in on this.\n[06:54 --> 06:55] Zoom in on this.\n[06:55 --> 06:57] This is as much as I zoom.\n[06:57 --> 06:59] Zoom on your face.\n[06:59 --> 07:00] Zoom on your face.\n[07:00 --> 07:01] You can't zoom more.\n[07:01 --> 07:02] Oh wait, I can zoom more.\n[07:02 --> 07:03] I can't do it.\n[07:03 --> 07:06] I have to be in the right thing though.\n[07:06 --> 07:08] This is for the gays, gays and...\n[07:08 --> 07:09] What?\n[07:09 --> 07:10] What am I trying to say?\n[07:10 --> 07:11] Gays and gays.\n[07:11 --> 07:12] Can you see it?\n[07:12 --> 07:13] Yeah.\n[07:13 --> 07:14] They can't see it.\n[07:14 --> 07:15] It's so much cooler.\n[07:15 --> 07:17] I sort of got it so much cooler.\n[07:17 --> 07:18] What do you mean?\n[07:18 --> 07:19] It looks good.\n[07:19 --> 07:21] Look at it.\n[07:21 --> 07:22] It's a little more gold.\n[07:22 --> 07:23] It could be that it's coming off as...\n[07:23 --> 07:24] Look, it's ombre too.\n[07:24 --> 07:27] Hey, wait, hold up in front of my face.\n[07:27 --> 07:28] Another side.\n[07:28 --> 07:30] I think my green screen is fucking with it.\n[07:30 --> 07:31] Ever so slightly.\n[07:31 --> 07:32] This is like...\n[07:32 --> 07:33] You can kind of see it.\n[07:33 --> 07:34] That's whatever.\n[07:34 --> 07:44] It's ombre, orange, pink, and it's lined with gold.\n[07:44 --> 07:48] Can I know how you feeling today?\n[07:48 --> 07:53] I listened to her speech while I was listening to the Kamala speech.\n[07:53 --> 07:57] I made it close to the end and then I had to do a thing.\n[07:57 --> 07:59] I mean, I don't know what she could say.\n[07:59 --> 08:03] Her coming out to that Beyonce song that starts with I Can't Lose definitely doesn't feel\n[08:03 --> 08:04] great anymore.\n[08:04 --> 08:05] It's getting...\n[08:05 --> 08:10] It's saying that song is now giving, unfortunately, 2016 fight song vibes.\n[08:10 --> 08:16] No, I like it.\n[08:16 --> 08:17] Orange to match Trump?\n[08:17 --> 08:19] I'd come on.\n[08:19 --> 08:21] Candy corn isn't Trump's.\n[08:21 --> 08:25] Nothing orange can't be his.\n[08:25 --> 08:28] If it was red.\n[08:28 --> 08:31] See if it's blue then you're just rubbing it in your own face, the defeat.\n[08:31 --> 08:34] Much like this jacket.\n[08:34 --> 08:40] Today of all days though.\n[08:40 --> 08:41] Look at those orange boglins.\n[08:41 --> 08:44] I mean, if anything, they look like Trump.\n[08:44 --> 08:51] Yeah, they're not going to register this in China, guys.\n[08:51 --> 08:55] I think.\n[08:55 --> 08:58] I have the job of entertaining us.\n[08:58 --> 09:02] I take this job seriously.\n[09:02 --> 09:04] Lowkey Agent Orange.\n[09:04 --> 09:05] Yeah.\n[09:05 --> 09:09] Well, anyway, I hope everyone's feeling all right.\n[09:09 --> 09:17] I hope the immediate shock has slightly started to turn down.\n[09:17 --> 09:21] Turn down into probably something akin to Dread for many people, although for the select\n[09:21 --> 09:23] few in chat, who knows?\n[09:23 --> 09:28] Maybe huge party time celebration.\n[09:28 --> 09:30] You need a good laugh?\n[09:30 --> 09:31] Yeah.\n[09:31 --> 09:32] Yeah.\n[09:32 --> 09:34] We'll see what I can provide today.\n[09:34 --> 09:41] I'm really only going to be on for about 20 to 30 minutes and then I got to bounce.\n[09:41 --> 09:48] But you know, if I can stream for even a second, it's worth it.\n[09:48 --> 09:50] You're those people that are happy?\n[09:50 --> 09:53] Mr. Whoopie Boo Boo, you're happy?\n[09:53 --> 10:00] Well, you know, if there's a little joy out there, maybe that's a positive.\n[10:00 --> 10:01] Probably not.\n[10:01 --> 10:05] I think the people who are happy are in for some major disappointment.\n[10:05 --> 10:09] That is one funny thing about, I see the energy online.\n[10:09 --> 10:11] Are you sure those people are happy?\n[10:11 --> 10:14] That does make more sense.\n[10:14 --> 10:15] Yeah.\n[10:15 --> 10:21] I've seen a lot of things online that are like, I fucking hate this country.\n[10:21 --> 10:23] Like we're an evil state.\n[10:23 --> 10:24] I get it.\n[10:24 --> 10:25] I do get that.\n[10:25 --> 10:28] I don't think they're necessarily off.\n[10:28 --> 10:33] But I do think the people that lined up to support Trump are in for the same disappointment\n[10:33 --> 10:38] that all of us are in the ensuing years and decades if we keep moving in the current direction\n[10:38 --> 10:39] we're moving.\n[10:39 --> 10:43] I think we would have honestly been in for a lot of disappointment with Kamala as well.\n[10:43 --> 10:47] Just less blunt force trauma, if you will.\n[10:47 --> 10:54] It's sort of the slow eroding versus the, you know, home run bat to the face.\n[10:54 --> 10:57] We went for the home run bat to the face last night.\n[10:57 --> 11:03] You pick up that item and smash brothers and you don't roll in time.\n[11:03 --> 11:06] I should still leopard face eating insurance.\n[11:06 --> 11:08] I know a group perfect for it.\n[11:08 --> 11:10] See psychors making business moves.\n[11:10 --> 11:13] That's what we all need to be doing right now.\n[11:13 --> 11:17] I've seen some of the people saying some opposite stuff to what he was campaigning\n[11:17 --> 11:18] on.\n[11:18 --> 11:26] Yeah, let's, I guess let's just, alright one sec.\n[11:26 --> 11:28] Let's, uh, God.\n[11:28 --> 11:36] I don't even know if I can stomach watching his, um, his victory speech again.\n[11:36 --> 11:39] But it was truly an uncanny moment.\n[11:39 --> 11:47] Just a constellation of the worst people getting to completely celebrate is a really unpleasant\n[11:47 --> 11:49] experience.\n[11:49 --> 11:55] I think for posterity we at least have to look at one moment and it won't even be Trump\n[11:55 --> 11:57] speaking.\n[11:57 --> 12:05] This is when the feeling of dread truly, um, sunk in for me.\n[12:05 --> 12:10] Let's see if I can find it.\n[12:10 --> 12:12] This probably has it honestly.\n[12:12 --> 12:15] How's everybody doing?\n[12:15 --> 12:16] Oh great Chets here.\n[12:16 --> 12:19] Well look, I kind of checked out last night.\n[12:19 --> 12:25] I ate a bunch of corn dogs and my stomach was in a state so I just thought I'll worry\n[12:25 --> 12:27] about this next week.\n[12:27 --> 12:30] Still not entirely sure who I'm voting for.\n[12:32 --> 12:34] It's a little late chat.\n[12:34 --> 12:37] What do you mean?\n[12:37 --> 12:41] The election happened Trump won?\n[12:41 --> 12:44] Oh today's Wednesday?\n[12:44 --> 12:46] Yeah.\n[12:46 --> 12:48] That happens to me so often.\n[12:48 --> 12:50] I get Tuesdays and Wednesdays mixed up.\n[12:50 --> 12:52] Which one's hump day?\n[12:52 --> 12:54] Wednesday?\n[12:54 --> 12:55] Dang.\n[12:55 --> 12:59] Because in my head I'm a hard to remember is election day.\n[12:59 --> 13:00] Hump day.\n[13:00 --> 13:03] Fuck the USA.\n[13:03 --> 13:05] Kind of an anti-patriotic message.\n[13:05 --> 13:10] No like fuck the USA like yeah let's get into it.\n[13:10 --> 13:12] But super Tuesday.\n[13:12 --> 13:15] That's a better how to remember.\n[13:15 --> 13:18] Chets vote is worth 20 million that's how I look at it.\n[13:18 --> 13:23] I was ready to send 20 million to whoever I finally settled on but I just didn't,\n[13:23 --> 13:24] they didn't appeal to me in time.\n[13:24 --> 13:29] They couldn't quite reach me so I was like.\n[13:29 --> 13:34] Okay well anyway this is the moment where I was sort of um, feeling the fear and\n[13:34 --> 13:36] loathing style.\n[13:36 --> 13:42] The fear was this beautiful moment last night from everyone's favorite political force Dana\n[13:42 --> 13:47] White.\n[13:47 --> 13:53] Some people real quick I want to thank the Nelpoys, Aiden Ross, Theo Vaughan, Boston with\n[13:53 --> 14:04] the boys and last but not least the mighty and powerful Joe Rogan.\n[14:04 --> 14:11] There's just something about our actual soon to be president.\n[14:11 --> 14:16] The current president-elect as lovely as that is to say.\n[14:16 --> 14:23] Standing behind fucking Dana White who thinks Aiden Ross the Nelpoys.\n[14:23 --> 14:24] Who did he have after that?\n[14:24 --> 14:27] I want to thank some people real quick.\n[14:27 --> 14:33] I want to thank the Nelpoys, Aiden Ross, Theo Vaughan, Boston with the boys.\n[14:33 --> 14:36] Aiden with the boys.\n[14:36 --> 14:38] Theo Vaughan.\n[14:38 --> 14:44] The only person in that list that I have even casual awareness of what it is they do.\n[14:44 --> 14:48] I guess I know who Aiden Ross is now courtesy of that Trump stream.\n[14:48 --> 14:51] And then of course Joe Rogan.\n[14:51 --> 14:55] It really I don't know.\n[14:55 --> 15:01] I think it like I threw out the word catastrophizing last night and I do think we're all kind\n[15:01 --> 15:05] of guilty of that in moments like this where we don't really know the full\n[15:05 --> 15:09] implications of something or how it turns out so all of us kind of rushed to the worst\n[15:09 --> 15:11] conclusions like about how bad it'll be.\n[15:11 --> 15:14] That being said it could get very bad.\n[15:14 --> 15:21] But something about this particular political tableau really made me feel like we are just\n[15:21 --> 15:24] living in an absolute slop nation.\n[15:24 --> 15:26] Like we are piggies.\n[15:26 --> 15:34] We are at the troth and we are totally satisfied just consuming nothing but slop.\n[15:35 --> 15:41] Unfortunately all of us we are just inundated with the lowest rent cultural products by that\n[15:41 --> 15:44] I don't just mean movies and TV.\n[15:44 --> 15:53] I mean the fact that this thing that he just said is actually politically relevant to anyone\n[15:53 --> 15:57] suggests that and obviously this isn't the only warning sign it just was going to hit\n[15:57 --> 16:07] me very viscerally that something has to change or I just I don't know.\n[16:07 --> 16:14] I really don't know how bad culture and then eventually downstream from culture actual\n[16:14 --> 16:19] material reality will get for your average American.\n[16:19 --> 16:22] I don't think we're cooked honestly.\n[16:22 --> 16:26] I think it's just like it's a depressing cultural moment.\n[16:26 --> 16:32] I think if you look at your life there's probably people if you look at your life on\n[16:32 --> 16:36] a micro level like me for instance you look at the people around you there's tons of people\n[16:36 --> 16:42] I love I'm honestly in a better position than I was four years ago.\n[16:42 --> 16:46] Maybe why I'm more willing to just slap down the vote for Kamala.\n[16:46 --> 16:50] So if I look at my life at like a micro level things are going reasonably well but if\n[16:50 --> 16:57] you look at culture and the nation and really the world at a macro level it is really fucking\n[16:57 --> 17:04] bleak right now and I think a lot of people that are just signing off on whatever the\n[17:04 --> 17:09] fuck this is are probably a somewhat similar spot they might be in worse or better situations\n[17:09 --> 17:12] when they look at their immediate circumstances around them but I'm sure there's people\n[17:12 --> 17:17] in their life they care about there's moments in their life where they feel a lot of satisfaction\n[17:17 --> 17:26] but I think as a political hive mind as a lumbering beast of a country even surviving or living\n[17:26 --> 17:34] through like eight years of George Bush this feels way worse and more extreme and like\n[17:34 --> 17:42] we essentially just sold the country to a less charismatic version of the monorail man\n[17:42 --> 17:47] and his crossy the clown is fucking Dana White and I don't know I mean there's been\n[17:47 --> 17:53] so much ranting online that I don't think anyone really needs to capture and summarize the moment\n[17:53 --> 18:02] which I'm not even really trying to do it just it is it is difficult to watch and not want to like\n[18:02 --> 18:08] run into the streets and just be like hey guys I think we need to call a town meeting\n[18:09 --> 18:22] retire Rogan segment at a third Rogan never hella yes and you have to but if those two Joe Rogan's\n[18:22 --> 18:31] aren't talking then we only have the one Rogan left we'll see where we land as this is essentially\n[18:31 --> 18:38] one of the few remaining democratic institutions left in this country and I sign off on that\n[18:38 --> 18:46] entirely we will have to abide by these binding results oh man it is a tight race between at a\n[18:46 --> 18:55] third and yes to be honest I would be fine with either of these options as it is very annoying\n[18:55 --> 19:08] to pull up that software alright there you have it it's the end of an era of poorly face\n[19:09 --> 19:20] masked Joe Rogan's speaking in vaguely his tone but when the people speak here we still listen\n[19:20 --> 19:31] it's poor fight says finally there's at least one no in chat sad can we have chat eat Rogan\n[19:31 --> 19:38] are you not just gonna be a cannibal then hmm well it's unclear the physical space those\n[19:38 --> 19:45] two Rogan's inhabit and unfortunately their caboose has just been cut from the train the long\n[19:45 --> 19:53] reign of terror officially ends today allow me to do the let me play some music here in honor of\n[19:53 --> 19:59] this segment dying the people have spoken it was a tight election but the turnout for Rogan\n[19:59 --> 20:06] just wasn't there at the end of the day so I do have to call it and I will officially retire this\n[20:07 --> 20:15] and show you guys that we mean business by showing you the work let me find the thing that triggers it\n[20:15 --> 20:35] thing and it's not the right song this is the one we want I'm gonna get emotional the people are\n[20:35 --> 20:47] demanding a recount okay you know what here's what we'll do what are we gonna do just in case\n[20:47 --> 20:53] there's any huge Rogan heads out there we're gonna send it to Munchen Crumb who will do for\n[20:53 --> 21:00] one of the few occasions a non-cooked point driven poll and whoever wins this one that's the\n[21:00 --> 21:06] last the last chance it's the last chance for Rogan we'll see how the turnout is or maybe we do the\n[21:06 --> 21:11] point-cooked poll but I feel like that might not be giving democracy a chance let's set it to\n[21:11 --> 21:16] Munchen Crumb and see if they can uh if they can fight if one of them can defend Rogan's right\n[21:16 --> 21:42] to me freely speaking for him you absolute maniacs really chat you lose one little election and you\n[21:42 --> 21:49] immediately come for Joe Rogan this is not a dark day for america until right now in this moment\n[21:49 --> 21:54] and suddenly it's becoming one of the darkest days what was supposed to be a day where we\n[21:54 --> 22:01] celebrate democracy and fair elections yeah I don't think that's everybody's takeaway here I for one\n[22:01 --> 22:09] would really not mind hearing less from Rogan in whatever male form context he may be in whether he's\n[22:09 --> 22:15] two apparition versions of himself or the real deal I am pretty fucking tired of hearing from that guy\n[22:17 --> 22:28] celebrate yeah I celebrate every day what he doesn't hear himself so I don't even think there's\n[22:28 --> 22:36] any point in me calling it out yeah because you got nothing to celebrate yeah I don't because\n[22:36 --> 22:42] I got a beautiful wife and now he's insulting his wife she's at home probably not celebrating at all\n[22:42 --> 22:54] excuse me she has uh yoga lessons today in home with her trainer yes but believe me she's just\n[22:54 --> 23:04] doing yoga okay anyway brought down everybody I know you're excited to see me tired of mainstream\n[23:04 --> 23:10] media influencing people to be worse well yeah come to me to influence you to be\n[23:11 --> 23:17] your choice dealer's choice I'm influencing you to be more of whatever you're currently feel and\n[23:17 --> 23:23] follow your bliss and don't think for a second and I'm saying do think more I think we need to think\n[23:23 --> 23:32] more this is my heuristic for the nation please take a moment and just maybe think for a few\n[23:32 --> 23:38] minutes a day start as it lowest 30 starting as low as 30 seconds a day of thinking it's not as\n[23:38 --> 23:45] painful as you think god damn you are patronizing and you wonder what happened\n[23:46 --> 23:50] crumb is the ultimate celibate I believe it and that's why I celebrate\n[23:52 --> 24:03] you fucked us I ruined us chat I put 9000 towards crumb I meant to do much okay we gotta do an\n[24:03 --> 24:07] actual election here meaning I think we gotta leave channel points on the table who really wants it\n[24:07 --> 24:15] more you know this is I'm tired of even considering this an analog for any kind of legitimate voting\n[24:15 --> 24:20] system I honestly don't fucking care so whatever just leave it at mod it's up to you whatever you\n[24:20 --> 24:24] want obviously I'd love to see Rogan off this fucking network I'd love to see him just off\n[24:25 --> 24:32] turn it off like a light switch it goes click that's a cool little crummy trick stop fucking\n[24:32 --> 24:40] doing parody songs of musicals off the cuff I don't see I don't fucking care that's the\n[24:40 --> 24:43] apathy that led to Trump I do care and I want him to speak his mind\n[24:47 --> 24:50] everybody says they're good with no Rogan anyway I don't know if there's a mod around that can\n[24:50 --> 24:57] make that pull but mod if there is the power is with you to decide whether we use channel points\n[24:58 --> 25:06] okay look we had our fun we've seen two Rogans talk a lot and I'll be honest they pretty much\n[25:06 --> 25:13] always say the same thing they're confused they rant they blabber Jamie is covered in some version\n[25:13 --> 25:21] of spaghetti or plastic and you know good enough good enough maybe we can move on to two\n[25:22 --> 25:26] milk boys or whatever the fuck case thinks is a good idea next\n[25:26 --> 25:32] two JD vances to any okay maybe actually two people that I would be happy to hear from\n[25:32 --> 25:39] about just two reasonable people having a discourse that aren't the same person that could\n[25:39 --> 25:45] be a welcome addition to this channel so why don't we just replace the Rogan segment with something\n[25:45 --> 25:50] slightly healthier oh healthy what are we what are we caring about healthy here what do we ever care\n[25:50 --> 25:57] about healthy in this nation we like fun and it's fun to see a scary face rant at another\n[25:57 --> 26:03] scary face that's most of the stuff that we watch on the news oh my gosh you guys you're selling\n[26:03 --> 26:07] yourself short you don't know what incredible opinions you could be missing what happens the next\n[26:07 --> 26:12] time they're like when they remove fluoride from water and now you're not gonna want to hear how\n[26:12 --> 26:20] Rogan's fitness routine has been 10 plus by his lack of fluoride in his tap water or his ice bath\n[26:20 --> 26:25] you're gonna miss out on so much relevant information to flood your brain with if you\n[26:25 --> 26:32] don't let two Joe Rogan's sort of just save them at you replace with between two ferns and\n[26:32 --> 26:39] virtually the ferns are both Rogan no that's even more conceptually confusing uh case I need a twitch\n[26:39 --> 26:48] link sorry uh in the discord of these videos there's a now i'm getting distracted i see\n[26:48 --> 26:54] because i got distracted i didn't have adequately defend Rogan we need a recount this is so unfair oh no\n[26:58 --> 27:05] even you can't mount that much of a defense even you can't claim to care that much about not\n[27:05 --> 27:15] having to do that segment well i don't have to ever do it and now it is with a heavy heart\n[27:16 --> 27:22] that i will be the bigger man and show that democracy still lives in this country\n[27:23 --> 27:33] i thank you so much bill sess guy for the 24 months look at this horrific list of stuff that case has\n[27:34 --> 27:38] all of it triggering unnecessary segments and shit\n[27:40 --> 27:48] where is the Rogan segment i must find it oh here it is get the Rogan's 2500 channel points\n[27:49 --> 27:57] sorry folks oh my god they got it right under the fucking wire how did they manage that that was\n[27:57 --> 28:09] truly incredible it is not enabled anymore that was impressive i'm impressed by whoever did that\n[28:09 --> 28:14] they saw it fucking coming from a mile away all right we'll give them one last chance because it\n[28:14 --> 28:20] was redeemed i guess we'll go out with them saying goodbye forever uh but this is getting\n[28:20 --> 28:35] deleted now from twitch goodbye to Joe Rogan's may gentle jaymey sing the to the sleep maybe the\n[28:35 --> 28:43] joes are sorry for what they did no never backpedal never apologize to Rogan's you did the work of\n[28:43 --> 28:47] the angels but angels aren't meant for this earth and eventually they must return to heaven\n[28:49 --> 28:54] and today that's what's gonna happen apparently so let's uh send it out today\n[28:54 --> 29:03] with two joe rogans uh saying their farewells i don't really think they'll give it shit no they're\n[29:03 --> 29:10] very unlikely to care at all i'll be real this was never a priority for them it's finally\n[29:10 --> 29:23] jover it's finally jover and this is so sad really it was a win i would just love to point out\n[29:23 --> 29:29] that the trummy points have been awarded this is all going in the sun what the wrong joe got sent to the\n[29:29 --> 29:37] stars give you say so i'm not feeling bad for it i'm not feeling bad just celebrating look at his\n[29:37 --> 29:44] side just celebrating violence violence is not going to send it to this weird thing status quo\n[29:44 --> 29:51] and exposed if anything this is a this is a just a bit of good news the truth will shine that's my creed\n[29:51 --> 29:57] look you're fucking breaking the whole stream with your bad attitude look at what you did\n[29:58 --> 30:04] oh no the stream is really struggling this is one reason why i'm really not going to\n[30:04 --> 30:11] regret this segment going away is um turning on this awful ai program has this effect\n[30:13 --> 30:19] you're unbelievable what the voice is legitimately upset i'm seeing the way i'm turning it on and\n[30:19 --> 30:27] off again we're going to try it one more time of the few times that the entire stream stops functioning\n[30:28 --> 30:34] um i've actually i i did locate the problem and it seems to be this voice.ai software so\n[30:35 --> 30:41] having less of it on the stream does not sound like a big problem to me that's so sad because\n[30:42 --> 30:45] it's an incredible technology that allows us to talk to the real joe rogan\n[30:49 --> 30:57] if you say so okay see we can get this to work without it breaking the stream\n[30:58 --> 31:03] all right it does seem to be working this is the bridge a poor craftsman blames his tool\n[31:04 --> 31:11] the tool of democracy worked expertly today like a surgeon with its scale for it has cleaved off\n[31:11 --> 31:19] the cancerous tissue that is this joe rogan segment oh see what it does do you see what it does\n[31:26 --> 31:33] i gotta turn it off again unbelievable oh you see what i did at the end there we were arguing i think i\n[31:33 --> 31:46] nailed that out oh my gosh i feel like your face is on top of my face the matrix is not handling this\n[31:46 --> 31:56] well joe rogan's gone full andrew tate and we are inside the matrix now we don't make fun of joe\n[31:56 --> 32:07] rogan who will we still can um if we oh god need to retire oh we could do two bidens well i don't\n[32:07 --> 32:15] even know if we could do two rogans maybe we have to send it to two james um because oh boy\n[32:19 --> 32:24] because i don't think i can load this rogan thing it is totally crashing the stream\n[32:26 --> 32:31] we're gonna turn on the hype train for now and i'm gonna just send it to these two rogans\n[32:33 --> 32:38] they can they can try to make it work themselves we'll see how long they make it before the\n[32:38 --> 32:45] cord is officially cut if it works at all um then this will be there farewell if it doesn't then\n[32:46 --> 32:50] we'll we'll see we'll replace it with some other segment eventually but here for the\n[32:50 --> 34:44] flash time it's two joe rogans the joe rogan experience is everybody okay i think the void\n[34:44 --> 34:53] officially took them i tried to patch them in but all i heard was the absence oh my god i don't know\n[34:53 --> 35:01] i normally that just works i would have loved to hear from them but i think whatever path i opened\n[35:01 --> 35:15] is forever closed in the swirling nothingness i heard but one whisper oh my god yeah i i don't\n[35:15 --> 35:23] want to touch that button again i consider myself a pretty effervescent being incapable of fear\n[35:24 --> 35:35] but i'm rattled wow poetic no i don't know what i'm saying well we never got to see jamie\n[35:36 --> 35:42] thank you for the one bit uh it does help thank you uh bootstack 88 uh for the 11 months\n[35:43 --> 35:51] thank you film fest guy again for the 24 honestly joe thanks for the memories um it was fun\n[35:51 --> 36:03] fun while it lasted uh but i i guess the i guess we can't really risk the void leaking back in so\n[36:04 --> 36:09] um i just don't know what else we can really do\n[36:14 --> 36:27] okay well i guess um i guess that's it for joe man we'll never we may not get gotten rid of trump\n[36:27 --> 36:35] but apparently consolation prize we did get rid of two joe rogan that doesn't mean there's still one left\n[36:36 --> 36:43] so i don't know what to uh to really do about that but you know you can't win them all\n[36:44 --> 36:56] this is bullshit who the hell are you i'm before no you're not like a mortal combat boss uh i'm\n[36:56 --> 37:06] devoid it's me the void you really gotta you gotta give this guy a chance you know\n[37:06 --> 37:12] his opinions they move back and forth he really represents a lot of a lot of men that don't feel\n[37:12 --> 37:19] seen in this country okay the void i'm done with it the hype has ended the void\n[37:20 --> 37:26] have we officially closed the portal permanently yeah sorry a little void leaked in but that\n[37:26 --> 37:31] wasn't a void that was just a fan yeah that was more than noid i think that's the noids father\n[37:32 --> 37:39] damn where's cal to fight the void when you need him does this dude know the noid i don't know\n[37:39 --> 37:49] can you get it back on the line no i prefer not listen up jack microphone and i'm just\n[37:49 --> 37:55] mammajam 500 shanty and i've been dying to say this and the president now will be for the\n[37:55 --> 38:08] rest of my life you're not taking me a lot jack i'm staying i'm gonna miss that yeah who are you\n[38:08 --> 38:14] gonna get to do is it gonna be trump now uh maybe i'll just leave it biden i think i'll just leave\n[38:14 --> 38:21] it biden because he's gonna be retired he's gonna need something to do i think that's all the time\n[38:21 --> 38:27] we have yeah that is actually all the time we have for today but you know in some ways one of\n[38:27 --> 38:31] the most momentous streams we finally used our voting power to get rid of the two rogans\n[38:32 --> 38:39] um we got to see an aiden rush shout out from dana white and we met the void again i don't\n[38:39 --> 38:45] think that was the actual void i think it's more like a void cover band and it was not capturing\n[38:45 --> 38:54] the original vibe just to be clear okay well thanks for hanging out sorry it's such a brief one um\n[38:56 --> 39:01] not only will be be missing those two joe rogans but we'll be missing me for the next week\n[39:01 --> 39:10] plus as i'll be in china and i'll report back on who seems to be doing better it's not the highest\n[39:10 --> 39:15] bar i think they there's a good chance they're gonna take it um but i'm assuming my nine days\n[39:15 --> 39:23] there will really be totally illuminating for me with any luck i'll come back speaking a whole new language\n[39:25 --> 39:30] yeah i'm honestly excited i i in i i feel like uh as americans we all honestly know\n[39:30 --> 39:37] way too little about most countries and i know so little about um i don't know i just don't\n[39:37 --> 39:42] know much about china especially modern china outside of vague political awareness of some\n[39:42 --> 39:48] things about them so i'm excited to see it on ground level at least you know one or two of its cities\n[39:48 --> 39:55] let's send you the way of bruce green been international if i if i could stream over\n[39:55 --> 40:00] there like on my phone i would honestly consider doing it um for at least a little while like maybe\n[40:00 --> 40:05] when we're at a particular exhibit that lets us but i just don't think i i don't think i can\n[40:06 --> 40:11] i really i i haven't looked it up yet so i'm honestly not sure but i i know that there's\n[40:11 --> 40:18] some internet limitations in china um i'm just not and i i also don't think i will have like\n[40:20 --> 40:25] 4g or 5g whatever on my phone but i do plan on calling at and t later to see what the deal is\n[40:26 --> 40:31] so i just i think it's very unlikely but um you know if i can crack that chinese internet\n[40:31 --> 40:38] without getting immediately uh deported i might give it a shot anyway thanks for hanging out\n[40:38 --> 40:42] i hope everybody's feeling better today if the election didn't go your way and if you're in this\n[40:42 --> 40:47] channel i think there's a very good chance it didn't it's uh it's very disappointing and\n[40:48 --> 40:53] honestly extremely embarrassing i did wake up this morning feeling like i feel embarrassed i feel\n[40:53 --> 40:58] like i got drunk last night and i like had a bunch of embarrassing conversations i don't even and\n[40:58 --> 41:03] i don't mean that because i said stuff on the stream i i regret just like the final result and\n[41:03 --> 41:09] watching his acceptance victory speech i just i had the feeling of embarrassment of like oh\n[41:09 --> 41:13] shit that i blacked out last night and do something i wasn't supposed to that was the feeling i had\n[41:13 --> 41:19] this morning and i could imagine uh that's honestly not the worst feeling i will have\n[41:19 --> 41:26] in reaction to the things this president might get up to so we'll see though focus on the\n[41:26 --> 41:32] things in front of you everybody have a great week we'll be back with more of whatever this is\n[41:34 --> 41:41] soon enough enjoy your trip as well wherever it may be say hi to spinachi for me and talk to you all later\n[41:41 --> 41:43] bye bye"
+}

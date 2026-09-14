@@ -1,0 +1,19 @@
+{
+  "vod_id": "e-EdPY6nm1k",
+  "title": "Quick Detox Stream",
+  "url": "https://www.youtube.com/watch?v=e-EdPY6nm1k",
+  "duration_seconds": 2502,
+  "duration": "41:42",
+  "timestamp": 1730851200,
+  "aired_at": "2024-11-06T00:00:00+00:00",
+  "date": "2024-11-06",
+  "ingested_at": "2026-09-14T07:19:02.365407+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "e-EdPY6nm1k",
+  "yt_url": "https://www.youtube.com/watch?v=e-EdPY6nm1k",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-11-06"
+}
