@@ -1,0 +1,19 @@
+{
+  "vod_id": "T4WJKaS7Mjk",
+  "title": "New Year, New News",
+  "url": "https://www.youtube.com/watch?v=T4WJKaS7Mjk",
+  "duration_seconds": 8687,
+  "duration": "2:24:47",
+  "timestamp": 1736121600,
+  "aired_at": "2025-01-06T00:00:00+00:00",
+  "date": "2025-01-06",
+  "ingested_at": "2026-09-14T07:59:53.041978+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "T4WJKaS7Mjk",
+  "yt_url": "https://www.youtube.com/watch?v=T4WJKaS7Mjk",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-01-06"
+}
