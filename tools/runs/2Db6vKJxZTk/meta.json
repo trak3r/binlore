@@ -1,0 +1,19 @@
+{
+  "vod_id": "2Db6vKJxZTk",
+  "title": "A Fully Liberated Decline",
+  "url": "https://www.youtube.com/watch?v=2Db6vKJxZTk",
+  "duration_seconds": 9786,
+  "duration": "2:43:06",
+  "timestamp": 1743724800,
+  "aired_at": "2025-04-04T00:00:00+00:00",
+  "date": "2025-04-04",
+  "ingested_at": "2026-09-14T18:39:38.488956+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "2Db6vKJxZTk",
+  "yt_url": "https://www.youtube.com/watch?v=2Db6vKJxZTk",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-04-04"
+}
