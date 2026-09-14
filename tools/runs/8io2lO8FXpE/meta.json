@@ -1,0 +1,19 @@
+{
+  "vod_id": "8io2lO8FXpE",
+  "title": "Normal News for the Normal World",
+  "url": "https://www.youtube.com/watch?v=8io2lO8FXpE",
+  "duration_seconds": 10122,
+  "duration": "2:48:42",
+  "timestamp": 1744243200,
+  "aired_at": "2025-04-10T00:00:00+00:00",
+  "date": "2025-04-10",
+  "ingested_at": "2026-09-14T19:17:09.181843+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "8io2lO8FXpE",
+  "yt_url": "https://www.youtube.com/watch?v=8io2lO8FXpE",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-04-10"
+}
