@@ -1,0 +1,19 @@
+{
+  "vod_id": "ZUFPFKnF1zU",
+  "title": "Oscars, Trump Backlash, and Streamer Problems, it's supposedly NEWS",
+  "url": "https://www.youtube.com/watch?v=ZUFPFKnF1zU",
+  "duration_seconds": 10039,
+  "duration": "2:47:19",
+  "timestamp": 1741046400,
+  "aired_at": "2025-03-04T00:00:00+00:00",
+  "date": "2025-03-04",
+  "ingested_at": "2026-09-14T13:54:37.220238+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "ZUFPFKnF1zU",
+  "yt_url": "https://www.youtube.com/watch?v=ZUFPFKnF1zU",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-03-04"
+}
