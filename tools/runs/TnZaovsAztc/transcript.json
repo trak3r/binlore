@@ -1,0 +1,637 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "model_requested": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 516.628,
+  "chunk_seconds": null,
+  "segments": [
+    {
+      "id": 0,
+      "start": 1.58,
+      "end": 11.74,
+      "text": "Okay, I'm Papito. I'm the dog that produces the show and now it is live and I'm a dog"
+    },
+    {
+      "id": 1,
+      "start": 12.18,
+      "end": 14.9,
+      "text": "Pupito, are you feeling any better? Not really"
+    },
+    {
+      "id": 2,
+      "start": 15.54,
+      "end": 17.7,
+      "text": "I feel very feeling real jumpy"
+    },
+    {
+      "id": 3,
+      "start": 18.9,
+      "end": 20.9,
+      "text": "So I don't know why"
+    },
+    {
+      "id": 4,
+      "start": 21.54,
+      "end": 23.54,
+      "text": "It's just a jumpy day for me"
+    },
+    {
+      "id": 5,
+      "start": 24.9,
+      "end": 29.14,
+      "text": "Feel a little behind my own voice and really jumpy"
+    },
+    {
+      "id": 6,
+      "start": 30.1,
+      "end": 31.78,
+      "text": "What can you do?"
+    },
+    {
+      "id": 7,
+      "start": 31.78,
+      "end": 36.78,
+      "text": "A great question. I don't know"
+    },
+    {
+      "id": 8,
+      "start": 36.78,
+      "end": 38.78,
+      "text": "double OBS"
+    },
+    {
+      "id": 9,
+      "start": 39.26,
+      "end": 42.22,
+      "text": "I think I'm running double OBS. Is that a thing?"
+    },
+    {
+      "id": 10,
+      "start": 43.18,
+      "end": 49.58,
+      "text": "I mean, I did just restart my whole computer. I don't know. I've never really had any issues since I got this new computer"
+    },
+    {
+      "id": 11,
+      "start": 49.58,
+      "end": 51.58,
+      "text": "I didn't really change anything other than adding"
+    },
+    {
+      "id": 12,
+      "start": 52.22,
+      "end": 54.22,
+      "text": "this little thing here"
+    },
+    {
+      "id": 13,
+      "start": 54.78,
+      "end": 56.78,
+      "text": "Do you think that wouldn't cause too much of an issue?"
+    },
+    {
+      "id": 14,
+      "start": 57.58,
+      "end": 63.02,
+      "text": "It doesn't seem to be on twitch's end. It seems to be on my end. It's a it's a snap camera issue seemingly"
+    },
+    {
+      "id": 15,
+      "start": 65.41,
+      "end": 68.93,
+      "text": "Because the rest of it does seem to be running normally from what I can tell"
+    },
+    {
+      "id": 16,
+      "start": 70.85,
+      "end": 82.98,
+      "text": "I guess we can test it. I mean if it can run this so flawlessly"
+    },
+    {
+      "id": 17,
+      "start": 88.48,
+      "end": 90.48,
+      "text": "um, it might be"
+    },
+    {
+      "id": 18,
+      "start": 90.48,
+      "end": 93.86,
+      "text": "It might be my"
+    },
+    {
+      "id": 19,
+      "start": 93.86,
+      "end": 97.22,
+      "text": "It might be my cam link. I've honestly had kind of issues with my cam link being"
+    },
+    {
+      "id": 20,
+      "start": 98.9,
+      "end": 100.9,
+      "text": "Not working as intended"
+    },
+    {
+      "id": 21,
+      "start": 102.34,
+      "end": 103.86,
+      "text": "I don't know why"
+    },
+    {
+      "id": 22,
+      "start": 103.86,
+      "end": 106.82,
+      "text": "I've honestly had issues ever since I got the only issue I've had with this computer"
+    },
+    {
+      "id": 23,
+      "start": 106.82,
+      "end": 109.38,
+      "text": "Is with the cam link inside it like not turning on sometimes"
+    },
+    {
+      "id": 24,
+      "start": 109.94,
+      "end": 111.94,
+      "text": "that like an olcato"
+    },
+    {
+      "id": 25,
+      "start": 112.02,
+      "end": 114.61,
+      "text": "Whatever"
+    },
+    {
+      "id": 26,
+      "start": 114.61,
+      "end": 118.61,
+      "text": "Anyway, it's working. I guess well enough. I'm fine enough"
+    },
+    {
+      "id": 27,
+      "start": 119.57,
+      "end": 121.57,
+      "text": "It's close enough. I'm mostly good"
+    },
+    {
+      "id": 28,
+      "start": 123.49,
+      "end": 125.49,
+      "text": "Yeah, papito says he's mostly fine"
+    },
+    {
+      "id": 29,
+      "start": 126.45,
+      "end": 130.37,
+      "text": "Maybe there's drivers to update. Yeah, give me a driver. I'm gonna go for now"
+    },
+    {
+      "id": 30,
+      "start": 131.81,
+      "end": 137.49,
+      "text": "Not at this speed. You're not papito. I'm gonna be dangerous to hand you clubs right now. I don't know what's going on with you"
+    },
+    {
+      "id": 31,
+      "start": 139.01,
+      "end": 141.01,
+      "text": "Okay, whatever"
+    },
+    {
+      "id": 32,
+      "start": 141.49,
+      "end": 147.01,
+      "text": "What can you do? I mean, I maybe I blame this new chat feature. I guess this one time this tiny chat icon"
+    },
+    {
+      "id": 33,
+      "start": 147.49,
+      "end": 149.49,
+      "text": "push this stream over the edge"
+    },
+    {
+      "id": 34,
+      "start": 149.97,
+      "end": 151.97,
+      "text": "and now"
+    },
+    {
+      "id": 35,
+      "start": 152.05,
+      "end": 153.89,
+      "text": "There's no telling"
+    },
+    {
+      "id": 36,
+      "start": 153.89,
+      "end": 158.99,
+      "text": "What this stream can handle"
+    },
+    {
+      "id": 37,
+      "start": 158.99,
+      "end": 162.03,
+      "text": "You know, the amount of memory obs is taking up is a little abnormal"
+    },
+    {
+      "id": 38,
+      "start": 165.22,
+      "end": 171.65,
+      "text": "Maybe something weird happened. I can't tell"
+    },
+    {
+      "id": 39,
+      "start": 172.29,
+      "end": 173.81,
+      "text": "So confused"
+    },
+    {
+      "id": 40,
+      "start": 173.81,
+      "end": 175.81,
+      "text": "Maybe if pito's chomping on all the wires"
+    },
+    {
+      "id": 41,
+      "start": 176.77,
+      "end": 180.7,
+      "text": "He does love to do that"
+    },
+    {
+      "id": 42,
+      "start": 180.7,
+      "end": 183.1,
+      "text": "Maybe I added something that is not I don't know whatever"
+    },
+    {
+      "id": 43,
+      "start": 183.82,
+      "end": 185.58,
+      "text": "Whatever"
+    },
+    {
+      "id": 44,
+      "start": 185.58,
+      "end": 188.14,
+      "text": "Let's just get into some news and we'll figure it out later"
+    },
+    {
+      "id": 45,
+      "start": 189.5,
+      "end": 191.98,
+      "text": "We'll figure it out with the stream is not I honestly can't stream for that long today"
+    },
+    {
+      "id": 46,
+      "start": 191.98,
+      "end": 194.38,
+      "text": "So I've wasted enough time. It's news time"
+    },
+    {
+      "id": 47,
+      "start": 216.91,
+      "end": 219.47,
+      "text": "What you're too good to even play my freaking song now, man"
+    },
+    {
+      "id": 48,
+      "start": 220.43,
+      "end": 222.43,
+      "text": "How broken is this stream?"
+    },
+    {
+      "id": 49,
+      "start": 222.83,
+      "end": 226.03,
+      "text": "I don't know. You look a little you look a little janky to chat. What do you mean?"
+    },
+    {
+      "id": 50,
+      "start": 226.83,
+      "end": 228.83,
+      "text": "I'm moving at my normal pace"
+    },
+    {
+      "id": 51,
+      "start": 234.16,
+      "end": 236.16,
+      "text": "Yeah, everything else does seem to be fun"
+    },
+    {
+      "id": 52,
+      "start": 238.58,
+      "end": 241.94,
+      "text": "But at least your whole stream doesn't run off basically one external program"
+    },
+    {
+      "id": 53,
+      "start": 243.14,
+      "end": 247.15,
+      "text": "Right. Yeah"
+    },
+    {
+      "id": 54,
+      "start": 249.52,
+      "end": 253.04,
+      "text": "I do feel kind of fucked is it because I drank so much before work"
+    },
+    {
+      "id": 55,
+      "start": 254.48,
+      "end": 258.8,
+      "text": "Maybe it's you chat. Yeah, maybe it's the amount you do not usually do that. No, I mean I do that every time"
+    },
+    {
+      "id": 56,
+      "start": 260.0,
+      "end": 262.0,
+      "text": "I drink only before this job"
+    },
+    {
+      "id": 57,
+      "start": 262.8,
+      "end": 265.76,
+      "text": "It's over for every sober outside of working here. All right"
+    },
+    {
+      "id": 58,
+      "start": 267.28,
+      "end": 269.28,
+      "text": "The stress will play"
+    },
+    {
+      "id": 59,
+      "start": 269.84,
+      "end": 271.84,
+      "text": "It seemed that hard"
+    },
+    {
+      "id": 60,
+      "start": 272.0,
+      "end": 274.0,
+      "text": "You don't understand the pressure we're under to"
+    },
+    {
+      "id": 61,
+      "start": 275.04,
+      "end": 278.21,
+      "text": "Say a news"
+    },
+    {
+      "id": 62,
+      "start": 278.21,
+      "end": 281.06,
+      "text": "Okay, well, I'm sorry"
+    },
+    {
+      "id": 63,
+      "start": 281.06,
+      "end": 283.06,
+      "text": "Anyway, maybe it'll just fix itself"
+    },
+    {
+      "id": 64,
+      "start": 284.5,
+      "end": 289.46,
+      "text": "Just don't think about it. Maybe it'll go away. That's what I do with all of my thoughts of my divorce"
+    },
+    {
+      "id": 65,
+      "start": 292.03,
+      "end": 295.79,
+      "text": "It's possible. It still works. Yeah, but it is the kind of thing that unfortunately really"
+    },
+    {
+      "id": 66,
+      "start": 296.99,
+      "end": 298.99,
+      "text": "Sticks in my brain"
+    },
+    {
+      "id": 67,
+      "start": 299.07,
+      "end": 302.03,
+      "text": "My brain is now stuck on it. My every thought has bent on it"
+    },
+    {
+      "id": 68,
+      "start": 303.47,
+      "end": 308.43,
+      "text": "But I'll try to stop thinking about it. Okay, what are we going to talk about today? What's the news?"
+    },
+    {
+      "id": 69,
+      "start": 309.07,
+      "end": 326.19,
+      "text": "Go turn that down just a little bit computer's auto repair. Yeah, I think so"
+    },
+    {
+      "id": 70,
+      "start": 327.39,
+      "end": 330.67,
+      "text": "I hope so"
+    },
+    {
+      "id": 71,
+      "start": 330.67,
+      "end": 335.87,
+      "text": "I guess I really went overboard with this one graphic. What the hell is going on papito a question. I'm asking too"
+    },
+    {
+      "id": 72,
+      "start": 336.59,
+      "end": 340.42,
+      "text": "But he's got no answers right now"
+    },
+    {
+      "id": 73,
+      "start": 340.58,
+      "end": 344.42,
+      "text": "Exclamation point CSI sending those little message those stream breaking messages"
+    },
+    {
+      "id": 74,
+      "start": 345.78,
+      "end": 347.78,
+      "text": "Or some tussin on it"
+    },
+    {
+      "id": 75,
+      "start": 348.5,
+      "end": 350.5,
+      "text": "Maybe some yeah that roba tussin"
+    },
+    {
+      "id": 76,
+      "start": 351.94,
+      "end": 361.66,
+      "text": "Robo it up. All right. Well, um, let's do some news"
+    },
+    {
+      "id": 77,
+      "start": 362.94,
+      "end": 377.09,
+      "text": "Let me pop open all this news that we were gonna news. I lost all the stories I was gonna do"
+    },
+    {
+      "id": 78,
+      "start": 377.89,
+      "end": 380.37,
+      "text": "Why the snapchat breaking such a disaster"
+    },
+    {
+      "id": 79,
+      "start": 381.41,
+      "end": 384.05,
+      "text": "What a disaster. Well, you know this counts as election news"
+    },
+    {
+      "id": 80,
+      "start": 388.72,
+      "end": 396.03,
+      "text": "Hmm"
+    },
+    {
+      "id": 81,
+      "start": 396.03,
+      "end": 398.99,
+      "text": "Like there was a whole sim city on the stream or something everything's all broken"
+    },
+    {
+      "id": 82,
+      "start": 399.55,
+      "end": 401.55,
+      "text": "You know what I blame sim city for this"
+    },
+    {
+      "id": 83,
+      "start": 402.03,
+      "end": 406.03,
+      "text": "I blame renterton everything was working fine before renterton"
+    },
+    {
+      "id": 84,
+      "start": 407.07,
+      "end": 409.07,
+      "text": "Now there's all sorts of renterton on my stream"
+    },
+    {
+      "id": 85,
+      "start": 410.19,
+      "end": 414.83,
+      "text": "Don't blame the hardworking people of renterton where I'm still running despite it being a zombie apocalypse"
+    },
+    {
+      "id": 86,
+      "start": 416.43,
+      "end": 418.43,
+      "text": "I still consider myself in the hunt"
+    },
+    {
+      "id": 87,
+      "start": 419.71,
+      "end": 425.46,
+      "text": "Hmm not me"
+    },
+    {
+      "id": 88,
+      "start": 426.18,
+      "end": 430.66,
+      "text": "I refused my nomination. Ah, you were on there, dude. You would have had to do it if you got elected"
+    },
+    {
+      "id": 89,
+      "start": 434.34,
+      "end": 436.34,
+      "text": "We'll see about that"
+    },
+    {
+      "id": 90,
+      "start": 436.34,
+      "end": 445.06,
+      "text": "Checking one last setting here. Aha"
+    },
+    {
+      "id": 91,
+      "start": 446.1,
+      "end": 454.06,
+      "text": "Nope, that's not it either. I could maybe I should clear my cache a"
+    },
+    {
+      "id": 92,
+      "start": 455.98,
+      "end": 459.82,
+      "text": "Should I be brave and just clear the cache a of snap camera and see if that does anything"
+    },
+    {
+      "id": 93,
+      "start": 462.24,
+      "end": 470.64,
+      "text": "Let's do it. Okay. Did that do irreparable damage? What no"
+    },
+    {
+      "id": 94,
+      "start": 472.08,
+      "end": 474.4,
+      "text": "I'm no better. I feel just as fucked up"
+    },
+    {
+      "id": 95,
+      "start": 476.24,
+      "end": 480.08,
+      "text": "I'm not god that did not cash me out at all but you can cash me outside"
+    },
+    {
+      "id": 96,
+      "start": 480.4,
+      "end": 484.13,
+      "text": "You'll figure out what's going on with me"
+    },
+    {
+      "id": 97,
+      "start": 484.53,
+      "end": 487.03,
+      "text": "Uh shaggy, thank you so much for the 175"
+    },
+    {
+      "id": 98,
+      "start": 488.45,
+      "end": 491.33,
+      "text": "You know, here's an experiment we can do chat. Let's send it to renterton"
+    },
+    {
+      "id": 99,
+      "start": 491.97,
+      "end": 493.97,
+      "text": "And see if we have the same issues there"
+    },
+    {
+      "id": 100,
+      "start": 494.69,
+      "end": 497.17,
+      "text": "Okay, I'll sit behind the disc of renterton for a second"
+    },
+    {
+      "id": 101,
+      "start": 499.41,
+      "end": 504.53,
+      "text": "Look, I just you know, I'm a simple man who's obsessed with tech. So I have to I have to test it"
+    },
+    {
+      "id": 102,
+      "start": 504.53,
+      "end": 506.13,
+      "text": "Let's see what's wrong"
+    },
+    {
+      "id": 103,
+      "start": 506.13,
+      "end": 510.13,
+      "text": "Let's see if it follows us to renterton just one second check go to renterton real quick"
+    }
+  ],
+  "text": "Okay, I'm Papito. I'm the dog that produces the show and now it is live and I'm a dog\nPupito, are you feeling any better? Not really\nI feel very feeling real jumpy\nSo I don't know why\nIt's just a jumpy day for me\nFeel a little behind my own voice and really jumpy\nWhat can you do?\nA great question. I don't know\ndouble OBS\nI think I'm running double OBS. Is that a thing?\nI mean, I did just restart my whole computer. I don't know. I've never really had any issues since I got this new computer\nI didn't really change anything other than adding\nthis little thing here\nDo you think that wouldn't cause too much of an issue?\nIt doesn't seem to be on twitch's end. It seems to be on my end. It's a it's a snap camera issue seemingly\nBecause the rest of it does seem to be running normally from what I can tell\nI guess we can test it. I mean if it can run this so flawlessly\num, it might be\nIt might be my\nIt might be my cam link. I've honestly had kind of issues with my cam link being\nNot working as intended\nI don't know why\nI've honestly had issues ever since I got the only issue I've had with this computer\nIs with the cam link inside it like not turning on sometimes\nthat like an olcato\nWhatever\nAnyway, it's working. I guess well enough. I'm fine enough\nIt's close enough. I'm mostly good\nYeah, papito says he's mostly fine\nMaybe there's drivers to update. Yeah, give me a driver. I'm gonna go for now\nNot at this speed. You're not papito. I'm gonna be dangerous to hand you clubs right now. I don't know what's going on with you\nOkay, whatever\nWhat can you do? I mean, I maybe I blame this new chat feature. I guess this one time this tiny chat icon\npush this stream over the edge\nand now\nThere's no telling\nWhat this stream can handle\nYou know, the amount of memory obs is taking up is a little abnormal\nMaybe something weird happened. I can't tell\nSo confused\nMaybe if pito's chomping on all the wires\nHe does love to do that\nMaybe I added something that is not I don't know whatever\nWhatever\nLet's just get into some news and we'll figure it out later\nWe'll figure it out with the stream is not I honestly can't stream for that long today\nSo I've wasted enough time. It's news time\nWhat you're too good to even play my freaking song now, man\nHow broken is this stream?\nI don't know. You look a little you look a little janky to chat. What do you mean?\nI'm moving at my normal pace\nYeah, everything else does seem to be fun\nBut at least your whole stream doesn't run off basically one external program\nRight. Yeah\nI do feel kind of fucked is it because I drank so much before work\nMaybe it's you chat. Yeah, maybe it's the amount you do not usually do that. No, I mean I do that every time\nI drink only before this job\nIt's over for every sober outside of working here. All right\nThe stress will play\nIt seemed that hard\nYou don't understand the pressure we're under to\nSay a news\nOkay, well, I'm sorry\nAnyway, maybe it'll just fix itself\nJust don't think about it. Maybe it'll go away. That's what I do with all of my thoughts of my divorce\nIt's possible. It still works. Yeah, but it is the kind of thing that unfortunately really\nSticks in my brain\nMy brain is now stuck on it. My every thought has bent on it\nBut I'll try to stop thinking about it. Okay, what are we going to talk about today? What's the news?\nGo turn that down just a little bit computer's auto repair. Yeah, I think so\nI hope so\nI guess I really went overboard with this one graphic. What the hell is going on papito a question. I'm asking too\nBut he's got no answers right now\nExclamation point CSI sending those little message those stream breaking messages\nOr some tussin on it\nMaybe some yeah that roba tussin\nRobo it up. All right. Well, um, let's do some news\nLet me pop open all this news that we were gonna news. I lost all the stories I was gonna do\nWhy the snapchat breaking such a disaster\nWhat a disaster. Well, you know this counts as election news\nHmm\nLike there was a whole sim city on the stream or something everything's all broken\nYou know what I blame sim city for this\nI blame renterton everything was working fine before renterton\nNow there's all sorts of renterton on my stream\nDon't blame the hardworking people of renterton where I'm still running despite it being a zombie apocalypse\nI still consider myself in the hunt\nHmm not me\nI refused my nomination. Ah, you were on there, dude. You would have had to do it if you got elected\nWe'll see about that\nChecking one last setting here. Aha\nNope, that's not it either. I could maybe I should clear my cache a\nShould I be brave and just clear the cache a of snap camera and see if that does anything\nLet's do it. Okay. Did that do irreparable damage? What no\nI'm no better. I feel just as fucked up\nI'm not god that did not cash me out at all but you can cash me outside\nYou'll figure out what's going on with me\nUh shaggy, thank you so much for the 175\nYou know, here's an experiment we can do chat. Let's send it to renterton\nAnd see if we have the same issues there\nOkay, I'll sit behind the disc of renterton for a second\nLook, I just you know, I'm a simple man who's obsessed with tech. So I have to I have to test it\nLet's see what's wrong\nLet's see if it follows us to renterton just one second check go to renterton real quick",
+  "text_timestamped": "[00:01 --> 00:11] Okay, I'm Papito. I'm the dog that produces the show and now it is live and I'm a dog\n[00:12 --> 00:14] Pupito, are you feeling any better? Not really\n[00:15 --> 00:17] I feel very feeling real jumpy\n[00:18 --> 00:20] So I don't know why\n[00:21 --> 00:23] It's just a jumpy day for me\n[00:24 --> 00:29] Feel a little behind my own voice and really jumpy\n[00:30 --> 00:31] What can you do?\n[00:31 --> 00:36] A great question. I don't know\n[00:36 --> 00:38] double OBS\n[00:39 --> 00:42] I think I'm running double OBS. Is that a thing?\n[00:43 --> 00:49] I mean, I did just restart my whole computer. I don't know. I've never really had any issues since I got this new computer\n[00:49 --> 00:51] I didn't really change anything other than adding\n[00:52 --> 00:54] this little thing here\n[00:54 --> 00:56] Do you think that wouldn't cause too much of an issue?\n[00:57 --> 01:03] It doesn't seem to be on twitch's end. It seems to be on my end. It's a it's a snap camera issue seemingly\n[01:05 --> 01:08] Because the rest of it does seem to be running normally from what I can tell\n[01:10 --> 01:22] I guess we can test it. I mean if it can run this so flawlessly\n[01:28 --> 01:30] um, it might be\n[01:30 --> 01:33] It might be my\n[01:33 --> 01:37] It might be my cam link. I've honestly had kind of issues with my cam link being\n[01:38 --> 01:40] Not working as intended\n[01:42 --> 01:43] I don't know why\n[01:43 --> 01:46] I've honestly had issues ever since I got the only issue I've had with this computer\n[01:46 --> 01:49] Is with the cam link inside it like not turning on sometimes\n[01:49 --> 01:51] that like an olcato\n[01:52 --> 01:54] Whatever\n[01:54 --> 01:58] Anyway, it's working. I guess well enough. I'm fine enough\n[01:59 --> 02:01] It's close enough. I'm mostly good\n[02:03 --> 02:05] Yeah, papito says he's mostly fine\n[02:06 --> 02:10] Maybe there's drivers to update. Yeah, give me a driver. I'm gonna go for now\n[02:11 --> 02:17] Not at this speed. You're not papito. I'm gonna be dangerous to hand you clubs right now. I don't know what's going on with you\n[02:19 --> 02:21] Okay, whatever\n[02:21 --> 02:27] What can you do? I mean, I maybe I blame this new chat feature. I guess this one time this tiny chat icon\n[02:27 --> 02:29] push this stream over the edge\n[02:29 --> 02:31] and now\n[02:32 --> 02:33] There's no telling\n[02:33 --> 02:38] What this stream can handle\n[02:38 --> 02:42] You know, the amount of memory obs is taking up is a little abnormal\n[02:45 --> 02:51] Maybe something weird happened. I can't tell\n[02:52 --> 02:53] So confused\n[02:53 --> 02:55] Maybe if pito's chomping on all the wires\n[02:56 --> 03:00] He does love to do that\n[03:00 --> 03:03] Maybe I added something that is not I don't know whatever\n[03:03 --> 03:05] Whatever\n[03:05 --> 03:08] Let's just get into some news and we'll figure it out later\n[03:09 --> 03:11] We'll figure it out with the stream is not I honestly can't stream for that long today\n[03:11 --> 03:14] So I've wasted enough time. It's news time\n[03:36 --> 03:39] What you're too good to even play my freaking song now, man\n[03:40 --> 03:42] How broken is this stream?\n[03:42 --> 03:46] I don't know. You look a little you look a little janky to chat. What do you mean?\n[03:46 --> 03:48] I'm moving at my normal pace\n[03:54 --> 03:56] Yeah, everything else does seem to be fun\n[03:58 --> 04:01] But at least your whole stream doesn't run off basically one external program\n[04:03 --> 04:07] Right. Yeah\n[04:09 --> 04:13] I do feel kind of fucked is it because I drank so much before work\n[04:14 --> 04:18] Maybe it's you chat. Yeah, maybe it's the amount you do not usually do that. No, I mean I do that every time\n[04:20 --> 04:22] I drink only before this job\n[04:22 --> 04:25] It's over for every sober outside of working here. All right\n[04:27 --> 04:29] The stress will play\n[04:29 --> 04:31] It seemed that hard\n[04:32 --> 04:34] You don't understand the pressure we're under to\n[04:35 --> 04:38] Say a news\n[04:38 --> 04:41] Okay, well, I'm sorry\n[04:41 --> 04:43] Anyway, maybe it'll just fix itself\n[04:44 --> 04:49] Just don't think about it. Maybe it'll go away. That's what I do with all of my thoughts of my divorce\n[04:52 --> 04:55] It's possible. It still works. Yeah, but it is the kind of thing that unfortunately really\n[04:56 --> 04:58] Sticks in my brain\n[04:59 --> 05:02] My brain is now stuck on it. My every thought has bent on it\n[05:03 --> 05:08] But I'll try to stop thinking about it. Okay, what are we going to talk about today? What's the news?\n[05:09 --> 05:26] Go turn that down just a little bit computer's auto repair. Yeah, I think so\n[05:27 --> 05:30] I hope so\n[05:30 --> 05:35] I guess I really went overboard with this one graphic. What the hell is going on papito a question. I'm asking too\n[05:36 --> 05:40] But he's got no answers right now\n[05:40 --> 05:44] Exclamation point CSI sending those little message those stream breaking messages\n[05:45 --> 05:47] Or some tussin on it\n[05:48 --> 05:50] Maybe some yeah that roba tussin\n[05:51 --> 06:01] Robo it up. All right. Well, um, let's do some news\n[06:02 --> 06:17] Let me pop open all this news that we were gonna news. I lost all the stories I was gonna do\n[06:17 --> 06:20] Why the snapchat breaking such a disaster\n[06:21 --> 06:24] What a disaster. Well, you know this counts as election news\n[06:28 --> 06:36] Hmm\n[06:36 --> 06:38] Like there was a whole sim city on the stream or something everything's all broken\n[06:39 --> 06:41] You know what I blame sim city for this\n[06:42 --> 06:46] I blame renterton everything was working fine before renterton\n[06:47 --> 06:49] Now there's all sorts of renterton on my stream\n[06:50 --> 06:54] Don't blame the hardworking people of renterton where I'm still running despite it being a zombie apocalypse\n[06:56 --> 06:58] I still consider myself in the hunt\n[06:59 --> 07:05] Hmm not me\n[07:06 --> 07:10] I refused my nomination. Ah, you were on there, dude. You would have had to do it if you got elected\n[07:14 --> 07:16] We'll see about that\n[07:16 --> 07:25] Checking one last setting here. Aha\n[07:26 --> 07:34] Nope, that's not it either. I could maybe I should clear my cache a\n[07:35 --> 07:39] Should I be brave and just clear the cache a of snap camera and see if that does anything\n[07:42 --> 07:50] Let's do it. Okay. Did that do irreparable damage? What no\n[07:52 --> 07:54] I'm no better. I feel just as fucked up\n[07:56 --> 08:00] I'm not god that did not cash me out at all but you can cash me outside\n[08:00 --> 08:04] You'll figure out what's going on with me\n[08:04 --> 08:07] Uh shaggy, thank you so much for the 175\n[08:08 --> 08:11] You know, here's an experiment we can do chat. Let's send it to renterton\n[08:11 --> 08:13] And see if we have the same issues there\n[08:14 --> 08:17] Okay, I'll sit behind the disc of renterton for a second\n[08:19 --> 08:24] Look, I just you know, I'm a simple man who's obsessed with tech. So I have to I have to test it\n[08:24 --> 08:26] Let's see what's wrong\n[08:26 --> 08:30] Let's see if it follows us to renterton just one second check go to renterton real quick"
+}
