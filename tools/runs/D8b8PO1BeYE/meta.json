@@ -1,0 +1,19 @@
+{
+  "vod_id": "D8b8PO1BeYE",
+  "title": "The Hottest News Straight From LA",
+  "url": "https://www.youtube.com/watch?v=D8b8PO1BeYE",
+  "duration_seconds": 6807,
+  "duration": "1:53:27",
+  "timestamp": 1736294400,
+  "aired_at": "2025-01-08T00:00:00+00:00",
+  "date": "2025-01-08",
+  "ingested_at": "2026-09-14T08:15:37.822049+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "D8b8PO1BeYE",
+  "yt_url": "https://www.youtube.com/watch?v=D8b8PO1BeYE",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-01-08"
+}
