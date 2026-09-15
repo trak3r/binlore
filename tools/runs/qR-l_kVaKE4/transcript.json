@@ -1,0 +1,1963 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "model_requested": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 1183.621,
+  "chunk_seconds": null,
+  "segments": [
+    {
+      "id": 0,
+      "start": 6.16,
+      "end": 12.16,
+      "text": "I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog."
+    },
+    {
+      "id": 1,
+      "start": 37.79,
+      "end": 44.04,
+      "text": "No set, bitch, yeah, no set."
+    },
+    {
+      "id": 2,
+      "start": 44.04,
+      "end": 49.5,
+      "text": "Sonic Lola by Dutch, every nasty."
+    },
+    {
+      "id": 3,
+      "start": 49.5,
+      "end": 52.5,
+      "text": "Knocked her in the bushes but do not have you."
+    },
+    {
+      "id": 4,
+      "start": 52.5,
+      "end": 55.5,
+      "text": "Climbing to bed, nah nah, don't stop."
+    },
+    {
+      "id": 5,
+      "start": 55.5,
+      "end": 58.5,
+      "text": "Those dog web pillow hung on the top."
+    },
+    {
+      "id": 6,
+      "start": 58.5,
+      "end": 61.5,
+      "text": "No fucks all sleep in the mad store."
+    },
+    {
+      "id": 7,
+      "start": 61.5,
+      "end": 66.5,
+      "text": "No sleep allowed, bitch, I sleep more, sleep more."
+    },
+    {
+      "id": 8,
+      "start": 66.5,
+      "end": 74.46,
+      "text": "Every enemy's a fucking ton of sleep."
+    },
+    {
+      "id": 9,
+      "start": 74.46,
+      "end": 77.46,
+      "text": "Loving of it every time I am counting shit."
+    },
+    {
+      "id": 10,
+      "start": 77.46,
+      "end": 84.69,
+      "text": "Bedtime story, nah."
+    },
+    {
+      "id": 11,
+      "start": 84.69,
+      "end": 86.69,
+      "text": "Tying up an extra-large lamp."
+    },
+    {
+      "id": 12,
+      "start": 86.69,
+      "end": 88.69,
+      "text": "Ramblin' down as a big clone."
+    },
+    {
+      "id": 13,
+      "start": 88.69,
+      "end": 89.69,
+      "text": "This is a Lollipan."
+    },
+    {
+      "id": 14,
+      "start": 89.69,
+      "end": 91.69,
+      "text": "Taming as a pan."
+    },
+    {
+      "id": 15,
+      "start": 91.69,
+      "end": 92.69,
+      "text": "Trees in the lamp."
+    },
+    {
+      "id": 16,
+      "start": 92.69,
+      "end": 94.69,
+      "text": "Doctor, pen, president."
+    },
+    {
+      "id": 17,
+      "start": 94.69,
+      "end": 95.69,
+      "text": "Ramblin' the T-man."
+    },
+    {
+      "id": 18,
+      "start": 95.69,
+      "end": 97.69,
+      "text": "Super Rex around."
+    },
+    {
+      "id": 19,
+      "start": 97.69,
+      "end": 99.69,
+      "text": "Lambo Rex around."
+    },
+    {
+      "id": 20,
+      "start": 99.69,
+      "end": 102.69,
+      "text": "Duh, hi, I'm Fedor, and I'm in the mechs a lot."
+    },
+    {
+      "id": 21,
+      "start": 102.69,
+      "end": 109.82,
+      "text": "Melatonin, me, me."
+    },
+    {
+      "id": 22,
+      "start": 109.82,
+      "end": 111.82,
+      "text": "All sleep in the mad store."
+    },
+    {
+      "id": 23,
+      "start": 111.82,
+      "end": 114.82,
+      "text": "No sleep allowed, bitch, I sleep more."
+    },
+    {
+      "id": 24,
+      "start": 114.82,
+      "end": 120.82,
+      "text": "Sleep on, sleep on, sleep on."
+    },
+    {
+      "id": 25,
+      "start": 120.82,
+      "end": 205.31,
+      "text": "The feral child you've been wrapped."
+    },
+    {
+      "id": 26,
+      "start": 205.31,
+      "end": 207.31,
+      "text": "My ending gonna still take a while."
+    },
+    {
+      "id": 27,
+      "start": 207.31,
+      "end": 209.31,
+      "text": "Another fictional orphan, oh no."
+    },
+    {
+      "id": 28,
+      "start": 209.31,
+      "end": 211.31,
+      "text": "Do the same favor for Boratow."
+    },
+    {
+      "id": 29,
+      "start": 211.31,
+      "end": 213.31,
+      "text": "You're like a broke fat man with a sash on his head."
+    },
+    {
+      "id": 30,
+      "start": 213.31,
+      "end": 259.32,
+      "text": "But fat man is rich, your parents are just shit."
+    },
+    {
+      "id": 31,
+      "start": 259.32,
+      "end": 260.32,
+      "text": "Joe, that's the chick."
+    },
+    {
+      "id": 32,
+      "start": 260.32,
+      "end": 262.73,
+      "text": "Who's here?"
+    },
+    {
+      "id": 33,
+      "start": 262.73,
+      "end": 263.73,
+      "text": "I got freestyle this good."
+    },
+    {
+      "id": 34,
+      "start": 263.73,
+      "end": 264.73,
+      "text": "They didn't write this part."
+    },
+    {
+      "id": 35,
+      "start": 264.73,
+      "end": 265.73,
+      "text": "Macho, macho."
+    },
+    {
+      "id": 36,
+      "start": 265.73,
+      "end": 268.73,
+      "text": "And he's the chick who's here."
+    },
+    {
+      "id": 37,
+      "start": 268.73,
+      "end": 272.73,
+      "text": "Macho, macho, yeah, you're the king of all the rest."
+    },
+    {
+      "id": 38,
+      "start": 272.73,
+      "end": 275.73,
+      "text": "He's the world's strongest, coolest man to contest."
+    },
+    {
+      "id": 39,
+      "start": 275.73,
+      "end": 277.73,
+      "text": "Macho chatting his with sons."
+    },
+    {
+      "id": 40,
+      "start": 277.73,
+      "end": 279.73,
+      "text": "He's always sick."
+    },
+    {
+      "id": 41,
+      "start": 279.73,
+      "end": 282.73,
+      "text": "He's the ultimate role model, the one we won't forget."
+    },
+    {
+      "id": 42,
+      "start": 282.73,
+      "end": 286.73,
+      "text": "Macho, macho, yeah."
+    },
+    {
+      "id": 43,
+      "start": 286.73,
+      "end": 289.73,
+      "text": "Oh shit, this isn't the chorus."
+    },
+    {
+      "id": 44,
+      "start": 289.73,
+      "end": 291.73,
+      "text": "Macho, here we go."
+    },
+    {
+      "id": 45,
+      "start": 291.73,
+      "end": 295.73,
+      "text": "In my case his brother said he did all the FG files of faith."
+    },
+    {
+      "id": 46,
+      "start": 295.73,
+      "end": 297.73,
+      "text": "It's such a relief."
+    },
+    {
+      "id": 47,
+      "start": 297.73,
+      "end": 298.73,
+      "text": "I could have sworn he were real."
+    },
+    {
+      "id": 48,
+      "start": 298.73,
+      "end": 300.73,
+      "text": "All my friends that I bring there."
+    },
+    {
+      "id": 49,
+      "start": 300.73,
+      "end": 302.73,
+      "text": "And he's also a role model."
+    },
+    {
+      "id": 50,
+      "start": 302.73,
+      "end": 304.73,
+      "text": "And I'm your fucking boy."
+    },
+    {
+      "id": 51,
+      "start": 304.73,
+      "end": 305.73,
+      "text": "So fucking chill."
+    },
+    {
+      "id": 52,
+      "start": 305.73,
+      "end": 306.73,
+      "text": "And here we go."
+    },
+    {
+      "id": 53,
+      "start": 306.73,
+      "end": 308.73,
+      "text": "Everybody's fucking singing this shit."
+    },
+    {
+      "id": 54,
+      "start": 308.73,
+      "end": 311.73,
+      "text": "Macho, macho, chat."
+    },
+    {
+      "id": 55,
+      "start": 311.73,
+      "end": 315.73,
+      "text": "He's the king of all the rest."
+    },
+    {
+      "id": 56,
+      "start": 315.73,
+      "end": 319.73,
+      "text": "The world's strongest, coolest man."
+    },
+    {
+      "id": 57,
+      "start": 319.73,
+      "end": 321.73,
+      "text": "And greatest dad no contest."
+    },
+    {
+      "id": 58,
+      "start": 321.73,
+      "end": 322.73,
+      "text": "Say it again."
+    },
+    {
+      "id": 59,
+      "start": 322.73,
+      "end": 326.73,
+      "text": "Macho, macho, chat."
+    },
+    {
+      "id": 60,
+      "start": 326.73,
+      "end": 329.73,
+      "text": "With his sons he is always sad."
+    },
+    {
+      "id": 61,
+      "start": 329.73,
+      "end": 333.73,
+      "text": "The ultimate role model."
+    },
+    {
+      "id": 62,
+      "start": 333.73,
+      "end": 335.73,
+      "text": "Just add your chick cause you won't forget."
+    },
+    {
+      "id": 63,
+      "start": 335.73,
+      "end": 337.73,
+      "text": "Stop fucking adding that."
+    },
+    {
+      "id": 64,
+      "start": 337.73,
+      "end": 340.73,
+      "text": "Chet, chet, the dude with an attitude so smooth."
+    },
+    {
+      "id": 65,
+      "start": 340.73,
+      "end": 344.73,
+      "text": "And he can fix a car but with just a glance."
+    },
+    {
+      "id": 66,
+      "start": 344.73,
+      "end": 346.73,
+      "text": "And dance like no one else can groove."
+    },
+    {
+      "id": 67,
+      "start": 346.73,
+      "end": 349.73,
+      "text": "But I just don't know how this car goes."
+    },
+    {
+      "id": 68,
+      "start": 349.73,
+      "end": 351.73,
+      "text": "Shit, alright."
+    },
+    {
+      "id": 69,
+      "start": 351.73,
+      "end": 354.73,
+      "text": "Got a heart of gold in a swallow, lights up the sky."
+    },
+    {
+      "id": 70,
+      "start": 354.73,
+      "end": 358.73,
+      "text": "And when Chet is right, you know you're in for a good time."
+    },
+    {
+      "id": 71,
+      "start": 358.73,
+      "end": 360.73,
+      "text": "Because he's coming."
+    },
+    {
+      "id": 72,
+      "start": 360.73,
+      "end": 363.73,
+      "text": "Look that's me, the one who's coming."
+    },
+    {
+      "id": 73,
+      "start": 363.73,
+      "end": 366.73,
+      "text": "And Chet's here and he's gonna get you all coming."
+    },
+    {
+      "id": 74,
+      "start": 366.73,
+      "end": 368.73,
+      "text": "Fucking did the bi-accident."
+    },
+    {
+      "id": 75,
+      "start": 368.73,
+      "end": 370.73,
+      "text": "And he's sick with it next."
+    },
+    {
+      "id": 76,
+      "start": 370.73,
+      "end": 372.73,
+      "text": "And also he's a dad."
+    },
+    {
+      "id": 77,
+      "start": 372.73,
+      "end": 373.73,
+      "text": "Let's tell him all."
+    },
+    {
+      "id": 78,
+      "start": 373.73,
+      "end": 375.73,
+      "text": "Macho, fuck that's not the chorus."
+    },
+    {
+      "id": 79,
+      "start": 375.73,
+      "end": 377.73,
+      "text": "The shit's blowing."
+    },
+    {
+      "id": 80,
+      "start": 377.73,
+      "end": 379.73,
+      "text": "Fucking start the song back over, okay?"
+    },
+    {
+      "id": 81,
+      "start": 379.73,
+      "end": 381.73,
+      "text": "I refuse."
+    },
+    {
+      "id": 82,
+      "start": 381.73,
+      "end": 383.73,
+      "text": "Everyone else that did one Chet, take Chet."
+    },
+    {
+      "id": 83,
+      "start": 383.73,
+      "end": 385.73,
+      "text": "You think you're not good enough to do it in one take?"
+    },
+    {
+      "id": 84,
+      "start": 385.73,
+      "end": 387.73,
+      "text": "I know I'm good enough."
+    },
+    {
+      "id": 85,
+      "start": 387.73,
+      "end": 389.73,
+      "text": "In fact they call me the one take king."
+    },
+    {
+      "id": 86,
+      "start": 389.73,
+      "end": 392.73,
+      "text": "And that's why I'm gonna crush this shit no problem."
+    },
+    {
+      "id": 87,
+      "start": 392.73,
+      "end": 394.73,
+      "text": "This is all part of it."
+    },
+    {
+      "id": 88,
+      "start": 394.73,
+      "end": 398.73,
+      "text": "And there we fucking go."
+    },
+    {
+      "id": 89,
+      "start": 398.73,
+      "end": 401.73,
+      "text": "Macho, macho, chat."
+    },
+    {
+      "id": 90,
+      "start": 402.73,
+      "end": 405.73,
+      "text": "He's the king of all the rest."
+    },
+    {
+      "id": 91,
+      "start": 405.73,
+      "end": 408.73,
+      "text": "He's the world's strongest coolest man."
+    },
+    {
+      "id": 92,
+      "start": 408.73,
+      "end": 411.73,
+      "text": "And greatest dad and that is no contest."
+    },
+    {
+      "id": 93,
+      "start": 411.73,
+      "end": 413.73,
+      "text": "Here we fucking go."
+    },
+    {
+      "id": 94,
+      "start": 413.73,
+      "end": 416.73,
+      "text": "Macho, macho, chat."
+    },
+    {
+      "id": 95,
+      "start": 416.73,
+      "end": 423.73,
+      "text": "With his sixth son, he is always in the ultimate role model."
+    },
+    {
+      "id": 96,
+      "start": 423.73,
+      "end": 425.73,
+      "text": "Just ask your wife, you will not forget."
+    },
+    {
+      "id": 97,
+      "start": 425.73,
+      "end": 427.73,
+      "text": "I fucked your wife is what I'm saying."
+    },
+    {
+      "id": 98,
+      "start": 427.73,
+      "end": 430.73,
+      "text": "He's not just macho man, he's a macho dad."
+    },
+    {
+      "id": 99,
+      "start": 430.73,
+      "end": 434.73,
+      "text": "With his son by his side, he is never sad, that's not true."
+    },
+    {
+      "id": 100,
+      "start": 434.73,
+      "end": 437.73,
+      "text": "He is teaching them to be strong, to be kind, be true."
+    },
+    {
+      "id": 101,
+      "start": 437.73,
+      "end": 440.73,
+      "text": "Macho, chat, we're also grateful for you."
+    },
+    {
+      "id": 102,
+      "start": 440.73,
+      "end": 446.73,
+      "text": "And then we keep Chet as fucking good as the people in my home."
+    },
+    {
+      "id": 103,
+      "start": 446.73,
+      "end": 448.73,
+      "text": "They are liking him."
+    },
+    {
+      "id": 104,
+      "start": 448.73,
+      "end": 450.73,
+      "text": "They're still liking him."
+    },
+    {
+      "id": 105,
+      "start": 450.73,
+      "end": 453.73,
+      "text": "Just ask anybody he wants within the gym"
+    },
+    {
+      "id": 106,
+      "start": 453.73,
+      "end": 456.73,
+      "text": "and spotting people without them even having to ask too much."
+    },
+    {
+      "id": 107,
+      "start": 456.73,
+      "end": 459.73,
+      "text": "And there's wind blowing down."
+    },
+    {
+      "id": 108,
+      "start": 459.73,
+      "end": 462.73,
+      "text": "There's like a cop and a Native American."
+    },
+    {
+      "id": 109,
+      "start": 462.73,
+      "end": 465.73,
+      "text": "But they're all mean, picture that."
+    },
+    {
+      "id": 110,
+      "start": 465.73,
+      "end": 468.73,
+      "text": "And also like a road worker."
+    },
+    {
+      "id": 111,
+      "start": 468.73,
+      "end": 472.73,
+      "text": "And the shit looks crazy and everyone lights it up."
+    },
+    {
+      "id": 112,
+      "start": 472.73,
+      "end": 474.73,
+      "text": "And people of all the twist."
+    },
+    {
+      "id": 113,
+      "start": 474.73,
+      "end": 480.73,
+      "text": "Seven, six, five, four, three, two, one."
+    },
+    {
+      "id": 114,
+      "start": 480.73,
+      "end": 482.73,
+      "text": "Let's do this."
+    },
+    {
+      "id": 115,
+      "start": 482.73,
+      "end": 484.73,
+      "text": "Appetito."
+    },
+    {
+      "id": 116,
+      "start": 487.73,
+      "end": 518.12,
+      "text": "Hello everybody."
+    },
+    {
+      "id": 117,
+      "start": 520.12,
+      "end": 523.12,
+      "text": "We've got some tears in reality today."
+    },
+    {
+      "id": 118,
+      "start": 523.12,
+      "end": 526.12,
+      "text": "What is that ever bothered me?"
+    },
+    {
+      "id": 119,
+      "start": 528.12,
+      "end": 531.12,
+      "text": "Good to see you all."
+    },
+    {
+      "id": 120,
+      "start": 532.12,
+      "end": 534.12,
+      "text": "Yeah, it's news time."
+    },
+    {
+      "id": 121,
+      "start": 534.12,
+      "end": 538.12,
+      "text": "Not a lot of time for news time today."
+    },
+    {
+      "id": 122,
+      "start": 538.12,
+      "end": 542.12,
+      "text": "Barely any time some could say."
+    },
+    {
+      "id": 123,
+      "start": 542.12,
+      "end": 546.12,
+      "text": "But we got to do it anyway."
+    },
+    {
+      "id": 124,
+      "start": 546.12,
+      "end": 548.12,
+      "text": "The Patreon's at six."
+    },
+    {
+      "id": 125,
+      "start": 548.12,
+      "end": 553.37,
+      "text": "So probably only allow, well,"
+    },
+    {
+      "id": 126,
+      "start": 553.37,
+      "end": 555.37,
+      "text": "attempt to only allow for one segment redemption"
+    },
+    {
+      "id": 127,
+      "start": 555.37,
+      "end": 557.37,
+      "text": "because that's probably all we have time for."
+    },
+    {
+      "id": 128,
+      "start": 557.37,
+      "end": 559.37,
+      "text": "Just a heads up."
+    },
+    {
+      "id": 129,
+      "start": 559.37,
+      "end": 561.37,
+      "text": "So if more of those pour in and I don't stop them successfully"
+    },
+    {
+      "id": 130,
+      "start": 561.37,
+      "end": 563.37,
+      "text": "due to my various broken buttons here."
+    },
+    {
+      "id": 131,
+      "start": 563.37,
+      "end": 567.37,
+      "text": "Just so we'll probably only have time for one."
+    },
+    {
+      "id": 132,
+      "start": 567.37,
+      "end": 569.37,
+      "text": "25 minutes."
+    },
+    {
+      "id": 133,
+      "start": 569.37,
+      "end": 571.37,
+      "text": "Well, we have till six, 55."
+    },
+    {
+      "id": 134,
+      "start": 571.37,
+      "end": 573.37,
+      "text": "Oh, yeah, this be I usually I buzz it down."
+    },
+    {
+      "id": 135,
+      "start": 573.37,
+      "end": 577.58,
+      "text": "I haven't lately because I've just been too lazy."
+    },
+    {
+      "id": 136,
+      "start": 577.58,
+      "end": 579.58,
+      "text": "I also kind of need a haircut."
+    },
+    {
+      "id": 137,
+      "start": 579.58,
+      "end": 581.58,
+      "text": "These gray sides are getting more powerful."
+    },
+    {
+      "id": 138,
+      "start": 581.58,
+      "end": 583.58,
+      "text": "Maybe I should grow them out and see how gray they can get."
+    },
+    {
+      "id": 139,
+      "start": 583.58,
+      "end": 585.58,
+      "text": "Should I just go back to blonde so nobody knows how old I am."
+    },
+    {
+      "id": 140,
+      "start": 585.58,
+      "end": 587.58,
+      "text": "All right."
+    },
+    {
+      "id": 141,
+      "start": 587.58,
+      "end": 589.58,
+      "text": "Sorry, one second."
+    },
+    {
+      "id": 142,
+      "start": 589.58,
+      "end": 591.58,
+      "text": "Okay, there we go."
+    },
+    {
+      "id": 143,
+      "start": 591.58,
+      "end": 595.5,
+      "text": "OBS changed a couple very small things around that probably"
+    },
+    {
+      "id": 144,
+      "start": 595.5,
+      "end": 599.16,
+      "text": "only I would notice."
+    },
+    {
+      "id": 145,
+      "start": 599.16,
+      "end": 603.75,
+      "text": "And it's throng."
+    },
+    {
+      "id": 146,
+      "start": 603.75,
+      "end": 605.75,
+      "text": "And it's throng."
+    },
+    {
+      "id": 147,
+      "start": 605.75,
+      "end": 607.75,
+      "text": "And it's thrown my ass off."
+    },
+    {
+      "id": 148,
+      "start": 607.75,
+      "end": 609.75,
+      "text": "Good to see everyone though."
+    },
+    {
+      "id": 149,
+      "start": 609.75,
+      "end": 613.96,
+      "text": "Mel Devon torture be Grendel live and sleazy."
+    },
+    {
+      "id": 150,
+      "start": 613.96,
+      "end": 615.96,
+      "text": "Bundle Sprout."
+    },
+    {
+      "id": 151,
+      "start": 615.96,
+      "end": 617.96,
+      "text": "Mr. Whoopie Boo Boo Teflon."
+    },
+    {
+      "id": 152,
+      "start": 617.96,
+      "end": 619.96,
+      "text": "Ted, thank you again for noticing the thickness of my beard."
+    },
+    {
+      "id": 153,
+      "start": 619.96,
+      "end": 621.96,
+      "text": "The whole reason I have a beard."
+    },
+    {
+      "id": 154,
+      "start": 621.96,
+      "end": 623.96,
+      "text": "To me the brain."
+    },
+    {
+      "id": 155,
+      "start": 623.96,
+      "end": 625.96,
+      "text": "Thank you so much for the 27 months."
+    },
+    {
+      "id": 156,
+      "start": 625.96,
+      "end": 627.96,
+      "text": "John Michael."
+    },
+    {
+      "id": 157,
+      "start": 627.96,
+      "end": 629.96,
+      "text": "Good to see you."
+    },
+    {
+      "id": 158,
+      "start": 629.96,
+      "end": 631.96,
+      "text": "Mighty Oz."
+    },
+    {
+      "id": 159,
+      "start": 631.96,
+      "end": 633.96,
+      "text": "Apple Dapple."
+    },
+    {
+      "id": 160,
+      "start": 633.96,
+      "end": 635.96,
+      "text": "Skimer."
+    },
+    {
+      "id": 161,
+      "start": 635.96,
+      "end": 637.96,
+      "text": "Skimer."
+    },
+    {
+      "id": 162,
+      "start": 637.96,
+      "end": 639.96,
+      "text": "Skimer as Kendall would usually say."
+    },
+    {
+      "id": 163,
+      "start": 639.96,
+      "end": 641.96,
+      "text": "I honestly don't know what's right."
+    },
+    {
+      "id": 164,
+      "start": 641.96,
+      "end": 643.96,
+      "text": "After all these years."
+    },
+    {
+      "id": 165,
+      "start": 643.96,
+      "end": 645.96,
+      "text": "After all these literal years."
+    },
+    {
+      "id": 166,
+      "start": 645.96,
+      "end": 647.96,
+      "text": "What should case do with hair?"
+    },
+    {
+      "id": 167,
+      "start": 647.96,
+      "end": 649.96,
+      "text": "Blue."
+    },
+    {
+      "id": 168,
+      "start": 649.96,
+      "end": 651.96,
+      "text": "Mohawk."
+    },
+    {
+      "id": 169,
+      "start": 651.96,
+      "end": 653.96,
+      "text": "September popular option."
+    },
+    {
+      "id": 170,
+      "start": 653.96,
+      "end": 655.96,
+      "text": "Shave it."
+    },
+    {
+      "id": 171,
+      "start": 655.96,
+      "end": 657.96,
+      "text": "Nair which is like shaving it but chemical."
+    },
+    {
+      "id": 172,
+      "start": 657.96,
+      "end": 659.96,
+      "text": "I'm assuming."
+    },
+    {
+      "id": 173,
+      "start": 659.96,
+      "end": 665.0,
+      "text": "Blue."
+    },
+    {
+      "id": 174,
+      "start": 665.0,
+      "end": 667.0,
+      "text": "I'm not."
+    },
+    {
+      "id": 175,
+      "start": 667.0,
+      "end": 669.0,
+      "text": "I'm not saying guys I can't just ninja it up."
+    },
+    {
+      "id": 176,
+      "start": 669.0,
+      "end": 672.34,
+      "text": "Nair is stink."
+    },
+    {
+      "id": 177,
+      "start": 672.34,
+      "end": 674.34,
+      "text": "Blue."
+    },
+    {
+      "id": 178,
+      "start": 674.34,
+      "end": 676.34,
+      "text": "Would allow me to change the color of it more easily."
+    },
+    {
+      "id": 179,
+      "start": 676.34,
+      "end": 678.34,
+      "text": "By that I mean."
+    },
+    {
+      "id": 180,
+      "start": 678.34,
+      "end": 680.34,
+      "text": "In certain non."
+    },
+    {
+      "id": 181,
+      "start": 680.34,
+      "end": 682.34,
+      "text": "IRL ways."
+    },
+    {
+      "id": 182,
+      "start": 682.34,
+      "end": 684.34,
+      "text": "Sorry that is not a legally binding poll."
+    },
+    {
+      "id": 183,
+      "start": 684.34,
+      "end": 686.34,
+      "text": "There's just."
+    },
+    {
+      "id": 184,
+      "start": 686.34,
+      "end": 688.34,
+      "text": "I think blue hair is just awkward enough on me."
+    },
+    {
+      "id": 185,
+      "start": 688.34,
+      "end": 690.34,
+      "text": "I'm not saying this is about everyone with blue hair."
+    },
+    {
+      "id": 186,
+      "start": 690.34,
+      "end": 692.34,
+      "text": "I mean on me."
+    },
+    {
+      "id": 187,
+      "start": 692.34,
+      "end": 694.34,
+      "text": "That it would cost me some work."
+    },
+    {
+      "id": 188,
+      "start": 694.34,
+      "end": 696.34,
+      "text": "Even though I'm not acting really."
+    },
+    {
+      "id": 189,
+      "start": 696.34,
+      "end": 698.34,
+      "text": "The whole presentation of like business."
+    },
+    {
+      "id": 190,
+      "start": 698.34,
+      "end": 700.34,
+      "text": "Media."
+    },
+    {
+      "id": 191,
+      "start": 700.34,
+      "end": 702.34,
+      "text": "Guy that I sometimes have to do to get a job."
+    },
+    {
+      "id": 192,
+      "start": 702.34,
+      "end": 704.34,
+      "text": "I think the blue hair will look so shitty on me that."
+    },
+    {
+      "id": 193,
+      "start": 704.34,
+      "end": 706.34,
+      "text": "It'll scare people off."
+    },
+    {
+      "id": 194,
+      "start": 706.34,
+      "end": 708.34,
+      "text": "They'll be like no he's gone full streamer."
+    },
+    {
+      "id": 195,
+      "start": 708.34,
+      "end": 710.34,
+      "text": "I can't hire him for anything other than that."
+    },
+    {
+      "id": 196,
+      "start": 710.34,
+      "end": 712.34,
+      "text": "Oh comments."
+    },
+    {
+      "id": 197,
+      "start": 712.34,
+      "end": 714.34,
+      "text": "You can always send me these magical comments."
+    },
+    {
+      "id": 198,
+      "start": 714.34,
+      "end": 718.14,
+      "text": "If you're a subscriber I think it might be limited to subscribers."
+    },
+    {
+      "id": 199,
+      "start": 718.14,
+      "end": 720.14,
+      "text": "Did you see the Trump letter."
+    },
+    {
+      "id": 200,
+      "start": 720.14,
+      "end": 722.14,
+      "text": "And CBS cancelling coal bombs."
+    },
+    {
+      "id": 201,
+      "start": 722.14,
+      "end": 724.14,
+      "text": "I think it's a good idea."
+    },
+    {
+      "id": 202,
+      "start": 724.14,
+      "end": 726.14,
+      "text": "I think it's a good idea."
+    },
+    {
+      "id": 203,
+      "start": 726.14,
+      "end": 730.14,
+      "text": "And CBS cancelling coal bear to please Trump."
+    },
+    {
+      "id": 204,
+      "start": 730.14,
+      "end": 732.14,
+      "text": "I didn't hear about the coal bear thing."
+    },
+    {
+      "id": 205,
+      "start": 732.14,
+      "end": 734.14,
+      "text": "I saw the."
+    },
+    {
+      "id": 206,
+      "start": 734.14,
+      "end": 736.14,
+      "text": "By the letter do you mean the birthday."
+    },
+    {
+      "id": 207,
+      "start": 736.14,
+      "end": 738.14,
+      "text": "I saw some story about a birthday card."
+    },
+    {
+      "id": 208,
+      "start": 738.14,
+      "end": 740.14,
+      "text": "A very."
+    },
+    {
+      "id": 209,
+      "start": 740.14,
+      "end": 742.14,
+      "text": "Troubling birthday card from Trump."
+    },
+    {
+      "id": 210,
+      "start": 742.14,
+      "end": 744.14,
+      "text": "Legitimately those it seems to have."
+    },
+    {
+      "id": 211,
+      "start": 744.14,
+      "end": 746.14,
+      "text": "Bended Jeffrey Epstein."
+    },
+    {
+      "id": 212,
+      "start": 746.14,
+      "end": 748.14,
+      "text": "But that might be something else."
+    },
+    {
+      "id": 213,
+      "start": 748.14,
+      "end": 750.14,
+      "text": "Yeah the sexy birthday letter we can talk about that."
+    },
+    {
+      "id": 214,
+      "start": 750.14,
+      "end": 752.14,
+      "text": "I haven't even I've got a little swamped"
+    },
+    {
+      "id": 215,
+      "start": 752.14,
+      "end": 754.14,
+      "text": "with words."
+    },
+    {
+      "id": 216,
+      "start": 754.14,
+      "end": 756.14,
+      "text": "I got a little swamped with work the last two days."
+    },
+    {
+      "id": 217,
+      "start": 756.14,
+      "end": 758.14,
+      "text": "You might have noticed."
+    },
+    {
+      "id": 218,
+      "start": 758.14,
+      "end": 761.42,
+      "text": "I didn't stream yesterday."
+    },
+    {
+      "id": 219,
+      "start": 761.42,
+      "end": 764.95,
+      "text": "Oh shit."
+    },
+    {
+      "id": 220,
+      "start": 764.95,
+      "end": 766.95,
+      "text": "Guys I fucked up."
+    },
+    {
+      "id": 221,
+      "start": 768.95,
+      "end": 770.95,
+      "text": "I hope it doesn't do the thing that it often does."
+    },
+    {
+      "id": 222,
+      "start": 770.95,
+      "end": 772.95,
+      "text": "Where it won't let me."
+    },
+    {
+      "id": 223,
+      "start": 772.95,
+      "end": 774.95,
+      "text": "Do the thing I want to do."
+    },
+    {
+      "id": 224,
+      "start": 774.95,
+      "end": 776.95,
+      "text": "Because I forgot to turn a certain program on."
+    },
+    {
+      "id": 225,
+      "start": 776.95,
+      "end": 778.95,
+      "text": "You guys probably know what I'm talking about."
+    },
+    {
+      "id": 226,
+      "start": 778.95,
+      "end": 780.95,
+      "text": "Or you don't both are totally fair."
+    },
+    {
+      "id": 227,
+      "start": 780.95,
+      "end": 782.95,
+      "text": "Let's see what happens."
+    },
+    {
+      "id": 228,
+      "start": 782.95,
+      "end": 784.95,
+      "text": "Maybe I do the rare."
+    },
+    {
+      "id": 229,
+      "start": 784.95,
+      "end": 788.62,
+      "text": "I mean technically I have a backup."
+    },
+    {
+      "id": 230,
+      "start": 788.62,
+      "end": 790.62,
+      "text": "I can still talk to people using."
+    },
+    {
+      "id": 231,
+      "start": 790.62,
+      "end": 792.62,
+      "text": "Other hidden technologies."
+    },
+    {
+      "id": 232,
+      "start": 792.62,
+      "end": 794.62,
+      "text": "But for some reason this."
+    },
+    {
+      "id": 233,
+      "start": 794.62,
+      "end": 796.62,
+      "text": "Program has been very annoying lately."
+    },
+    {
+      "id": 234,
+      "start": 796.62,
+      "end": 800.31,
+      "text": "About."
+    },
+    {
+      "id": 235,
+      "start": 800.31,
+      "end": 802.31,
+      "text": "The order of operations of opening things up."
+    },
+    {
+      "id": 236,
+      "start": 802.31,
+      "end": 804.31,
+      "text": "The late show is being sunset."
+    },
+    {
+      "id": 237,
+      "start": 804.31,
+      "end": 806.31,
+      "text": "I'm not."
+    },
+    {
+      "id": 238,
+      "start": 806.31,
+      "end": 808.31,
+      "text": "In favor of."
+    },
+    {
+      "id": 239,
+      "start": 808.31,
+      "end": 810.31,
+      "text": "The."
+    },
+    {
+      "id": 240,
+      "start": 810.31,
+      "end": 812.31,
+      "text": "The."
+    },
+    {
+      "id": 241,
+      "start": 812.31,
+      "end": 814.31,
+      "text": "The late show is being sunset."
+    },
+    {
+      "id": 242,
+      "start": 814.31,
+      "end": 816.31,
+      "text": "I'm not."
+    },
+    {
+      "id": 243,
+      "start": 816.31,
+      "end": 818.31,
+      "text": "In favor of."
+    },
+    {
+      "id": 244,
+      "start": 818.31,
+      "end": 820.31,
+      "text": "I know people who write for that."
+    },
+    {
+      "id": 245,
+      "start": 820.31,
+      "end": 822.31,
+      "text": "So I that's a bummer to hear."
+    },
+    {
+      "id": 246,
+      "start": 822.31,
+      "end": 824.31,
+      "text": "I'm not the biggest fan myself."
+    },
+    {
+      "id": 247,
+      "start": 824.31,
+      "end": 826.31,
+      "text": "No offense to my."
+    },
+    {
+      "id": 248,
+      "start": 826.31,
+      "end": 828.31,
+      "text": "Friends who work for that show."
+    },
+    {
+      "id": 249,
+      "start": 828.31,
+      "end": 832.31,
+      "text": "Despite me currently trying to make a late night show."
+    },
+    {
+      "id": 250,
+      "start": 832.31,
+      "end": 834.31,
+      "text": "In quotes."
+    },
+    {
+      "id": 251,
+      "start": 834.31,
+      "end": 838.31,
+      "text": "Cop the style of a late night show I've been spending some of my free time trying to make."
+    },
+    {
+      "id": 252,
+      "start": 838.31,
+      "end": 840.31,
+      "text": "Pupito a late night show."
+    },
+    {
+      "id": 253,
+      "start": 840.31,
+      "end": 842.31,
+      "text": "I do think as a format."
+    },
+    {
+      "id": 254,
+      "start": 842.31,
+      "end": 844.31,
+      "text": "The like."
+    },
+    {
+      "id": 255,
+      "start": 844.31,
+      "end": 848.31,
+      "text": "Sweep to sleep talking to celebrities that it's."
+    },
+    {
+      "id": 256,
+      "start": 848.31,
+      "end": 852.31,
+      "text": "It's got to be dying like I don't know how that can possibly function."
+    },
+    {
+      "id": 257,
+      "start": 852.31,
+      "end": 855.31,
+      "text": "At least on network TV for much longer."
+    },
+    {
+      "id": 258,
+      "start": 855.31,
+      "end": 857.31,
+      "text": "Even though it's a notoriously."
+    },
+    {
+      "id": 259,
+      "start": 857.31,
+      "end": 862.31,
+      "text": "Well it's a relatively cheap way to make TV versus series but."
+    },
+    {
+      "id": 260,
+      "start": 862.31,
+      "end": 865.31,
+      "text": "I think just podcasts have."
+    },
+    {
+      "id": 261,
+      "start": 865.31,
+      "end": 869.31,
+      "text": "In so much the way that certain companies I work for."
+    },
+    {
+      "id": 262,
+      "start": 869.31,
+      "end": 872.31,
+      "text": "A little kind of like they were of a different era."
+    },
+    {
+      "id": 263,
+      "start": 872.31,
+      "end": 877.79,
+      "text": "I think late night shows feel like a total holdover at this point. I think basically what keeps them going is"
+    },
+    {
+      "id": 264,
+      "start": 878.67,
+      "end": 880.03,
+      "text": "ooh"
+    },
+    {
+      "id": 265,
+      "start": 880.03,
+      "end": 887.11,
+      "text": "The secondary news cycle that you can get out of late night TV shows is sometimes pretty strong like it's a good place to farm"
+    },
+    {
+      "id": 266,
+      "start": 887.79,
+      "end": 891.91,
+      "text": "both celebrity and political clips at this point like"
+    },
+    {
+      "id": 267,
+      "start": 892.83,
+      "end": 898.95,
+      "text": "The Colbert like Zora and interview going kind of viral. I think is a good example of that, but I just don't know"
+    },
+    {
+      "id": 268,
+      "start": 899.75,
+      "end": 904.91,
+      "text": "It's like it's like one of the few places where network TV still makes viral moments that feel somewhat relevant"
+    },
+    {
+      "id": 269,
+      "start": 905.15,
+      "end": 909.95,
+      "text": "so I don't know if if they can entirely get rid of the format for that reason but"
+    },
+    {
+      "id": 270,
+      "start": 912.07,
+      "end": 919.42,
+      "text": "Eventually the damn has to break I'm assuming you would have thought that tonight show would have been canceled before before Colbert"
+    },
+    {
+      "id": 271,
+      "start": 919.42,
+      "end": 922.38,
+      "text": "I've heard that Colbert is one of the more successful ones honestly"
+    },
+    {
+      "id": 272,
+      "start": 923.82,
+      "end": 928.18,
+      "text": "Deuce and Mira was the late night show we needed I never watched it, but I've heard I've heard better things about that"
+    },
+    {
+      "id": 273,
+      "start": 928.66,
+      "end": 930.94,
+      "text": "I mostly dislike the Colbert rapport"
+    },
+    {
+      "id": 274,
+      "start": 932.14,
+      "end": 934.14,
+      "text": "because I feel like"
+    },
+    {
+      "id": 275,
+      "start": 934.62,
+      "end": 938.94,
+      "text": "It's not it's not even really like the show. It's like Colbert himself"
+    },
+    {
+      "id": 276,
+      "start": 940.9,
+      "end": 946.9,
+      "text": "As I just burn bridges unnecessarily, I don't know what's happened to the guy he used to be"
+    },
+    {
+      "id": 277,
+      "start": 948.82,
+      "end": 953.46,
+      "text": "He used to just feel so relevant to like the conversation and"
+    },
+    {
+      "id": 278,
+      "start": 954.02,
+      "end": 957.74,
+      "text": "Like he had some kind of insight and I don't know he just got"
+    },
+    {
+      "id": 279,
+      "start": 958.78,
+      "end": 962.78,
+      "text": "It's like I not that I've probably been like anti-trump or anything, but he just"
+    },
+    {
+      "id": 280,
+      "start": 963.9,
+      "end": 969.46,
+      "text": "Seems to have kind of slid off the comedy beam so heavily that I don't"
+    },
+    {
+      "id": 281,
+      "start": 970.22,
+      "end": 976.86,
+      "text": "Just don't know but like politically I get the sense. I probably disagree with him based on his treatment of certain leftist"
+    },
+    {
+      "id": 282,
+      "start": 977.42,
+      "end": 979.42,
+      "text": "mayoral candidates and"
+    },
+    {
+      "id": 283,
+      "start": 979.74,
+      "end": 981.74,
+      "text": "Comedically, I just don't get what's there anymore"
+    },
+    {
+      "id": 284,
+      "start": 982.82,
+      "end": 986.46,
+      "text": "Yeah, maybe it's just being in character, which hey, I have some sympathy for"
+    },
+    {
+      "id": 285,
+      "start": 986.9,
+      "end": 994.76,
+      "text": "Some people have a hard time doing comedy outside of the character. I also yeah, I've also heard that doosan Miro broke up"
+    },
+    {
+      "id": 286,
+      "start": 995.72,
+      "end": 999.24,
+      "text": "Fallen is brutal fell and I get more because he like never was funny"
+    },
+    {
+      "id": 287,
+      "start": 999.52,
+      "end": 1004.36,
+      "text": "That wasn't what he was going for I get or it might be what he's going for but like he's pleasant"
+    },
+    {
+      "id": 288,
+      "start": 1004.36,
+      "end": 1010.64,
+      "text": "He's like explicitly like I'm fun. I'm easy for celebrities be around you want to make Jello"
+    },
+    {
+      "id": 289,
+      "start": 1011.04,
+      "end": 1016.8,
+      "text": "May let's make slimes together Ariana Grande and then they spend 10 minutes making slimes and giggling like"
+    },
+    {
+      "id": 290,
+      "start": 1017.36,
+      "end": 1022.32,
+      "text": "That seemed to be his selling point like Colbert. I was I've been a fan of for like decades"
+    },
+    {
+      "id": 291,
+      "start": 1022.88,
+      "end": 1028.04,
+      "text": "Which is why his fall off at least for me comedically was like kind of sad to see"
+    },
+    {
+      "id": 292,
+      "start": 1028.96,
+      "end": 1032.96,
+      "text": "I'm sure he's still very capable because he's I don't know"
+    },
+    {
+      "id": 293,
+      "start": 1032.96,
+      "end": 1038.84,
+      "text": "I've been a fan of like his archive work for like the second city, you know like I was a pretty big fan, so"
+    },
+    {
+      "id": 294,
+      "start": 1040.0,
+      "end": 1044.4,
+      "text": "It's probably still in there, but it seems to have been subsumed by something else"
+    },
+    {
+      "id": 295,
+      "start": 1044.92,
+      "end": 1048.72,
+      "text": "It's got how I feel about like Chappelle who I was a huge fan of"
+    },
+    {
+      "id": 296,
+      "start": 1049.44,
+      "end": 1051.44,
+      "text": "for years and"
+    },
+    {
+      "id": 297,
+      "start": 1053.28,
+      "end": 1057.48,
+      "text": "His last couple of specials even outside of the incredibly tasteless"
+    },
+    {
+      "id": 298,
+      "start": 1058.2,
+      "end": 1060.2,
+      "text": "trans jokes he makes which are just"
+    },
+    {
+      "id": 299,
+      "start": 1060.92,
+      "end": 1069.24,
+      "text": "Ridiculous at this point the general just it's also like patting himself on the back and like it's so light on actual comedy in my opinion"
+    },
+    {
+      "id": 300,
+      "start": 1069.52,
+      "end": 1073.68,
+      "text": "There's a lot of like my favorite comedians ever"
+    },
+    {
+      "id": 301,
+      "start": 1073.68,
+      "end": 1076.4,
+      "text": "I mean another one of my favorite comedians growing up was Louis CK"
+    },
+    {
+      "id": 302,
+      "start": 1076.4,
+      "end": 1078.4,
+      "text": "So I'm batting pretty low on"
+    },
+    {
+      "id": 303,
+      "start": 1079.24,
+      "end": 1083.44,
+      "text": "Like comedic inspirations who have held it together over the years"
+    },
+    {
+      "id": 304,
+      "start": 1086.2,
+      "end": 1088.2,
+      "text": "What can you do though?"
+    },
+    {
+      "id": 305,
+      "start": 1089.28,
+      "end": 1090.64,
+      "text": "My other and thought you know"
+    },
+    {
+      "id": 306,
+      "start": 1090.64,
+      "end": 1095.0,
+      "text": "I also like a guy named Chris Morris of the of who made a thing called the day today way back in the day"
+    },
+    {
+      "id": 307,
+      "start": 1095.04,
+      "end": 1097.28,
+      "text": "Whenever I check with him he seems like he's doing okay"
+    },
+    {
+      "id": 308,
+      "start": 1097.28,
+      "end": 1101.04,
+      "text": "So I'm gonna stick with that guy people ask me who my inspirations are I'll be like this comedian"
+    },
+    {
+      "id": 309,
+      "start": 1101.04,
+      "end": 1103.64,
+      "text": "You've never heard her from from the UK"
+    },
+    {
+      "id": 310,
+      "start": 1105.2,
+      "end": 1109.2,
+      "text": "She bet Chappelle became a nimby yeah, he became like a cultural nimby for everything"
+    },
+    {
+      "id": 311,
+      "start": 1109.2,
+      "end": 1114.08,
+      "text": "It's like his whole thing was like I don't want to be bothered basically is how it feels to me"
+    },
+    {
+      "id": 312,
+      "start": 1115.56,
+      "end": 1117.56,
+      "text": "Which isn't great I"
+    },
+    {
+      "id": 313,
+      "start": 1118.24,
+      "end": 1121.16,
+      "text": "Don't think that that's the best personally"
+    },
+    {
+      "id": 314,
+      "start": 1124.96,
+      "end": 1129.76,
+      "text": "But also you know you get older you get a bunch of money and I guess at the end of the day like"
+    },
+    {
+      "id": 315,
+      "start": 1130.48,
+      "end": 1135.32,
+      "text": "I think worked out for me. Why is everybody complaining? Let's just vote for Andrew Yang and shut the fuck up"
+    },
+    {
+      "id": 316,
+      "start": 1136.32,
+      "end": 1141.28,
+      "text": "And also if you feel weird about your body shut up because I kind of don't or"
+    },
+    {
+      "id": 317,
+      "start": 1142.12,
+      "end": 1145.32,
+      "text": "Definitely do and that's why I can't drop it. Who knows"
+    },
+    {
+      "id": 318,
+      "start": 1148.8,
+      "end": 1150.16,
+      "text": "I'm not sure what to do"
+    },
+    {
+      "id": 319,
+      "start": 1150.16,
+      "end": 1155.8,
+      "text": "I don't really want to reset the stream, but this whole stream is predicated on one program. That's not working"
+    },
+    {
+      "id": 320,
+      "start": 1156.24,
+      "end": 1160.22,
+      "text": "Guess we could just hang out for an hour"
+    },
+    {
+      "id": 321,
+      "start": 1160.58,
+      "end": 1166.06,
+      "text": "Do something different for once you're just stuck with me"
+    },
+    {
+      "id": 322,
+      "start": 1166.7,
+      "end": 1174.49,
+      "text": "You'll stay if you have to reset. Alright, I'll just reset it. That is the path of least resistance. I will be right back"
+    },
+    {
+      "id": 323,
+      "start": 1175.29,
+      "end": 1177.93,
+      "text": "After this thing. Hopefully just works"
+    },
+    {
+      "id": 324,
+      "start": 1178.77,
+      "end": 1180.77,
+      "text": "See you in a sec one moment, please"
+    }
+  ],
+  "text": "I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog.\nNo set, bitch, yeah, no set.\nSonic Lola by Dutch, every nasty.\nKnocked her in the bushes but do not have you.\nClimbing to bed, nah nah, don't stop.\nThose dog web pillow hung on the top.\nNo fucks all sleep in the mad store.\nNo sleep allowed, bitch, I sleep more, sleep more.\nEvery enemy's a fucking ton of sleep.\nLoving of it every time I am counting shit.\nBedtime story, nah.\nTying up an extra-large lamp.\nRamblin' down as a big clone.\nThis is a Lollipan.\nTaming as a pan.\nTrees in the lamp.\nDoctor, pen, president.\nRamblin' the T-man.\nSuper Rex around.\nLambo Rex around.\nDuh, hi, I'm Fedor, and I'm in the mechs a lot.\nMelatonin, me, me.\nAll sleep in the mad store.\nNo sleep allowed, bitch, I sleep more.\nSleep on, sleep on, sleep on.\nThe feral child you've been wrapped.\nMy ending gonna still take a while.\nAnother fictional orphan, oh no.\nDo the same favor for Boratow.\nYou're like a broke fat man with a sash on his head.\nBut fat man is rich, your parents are just shit.\nJoe, that's the chick.\nWho's here?\nI got freestyle this good.\nThey didn't write this part.\nMacho, macho.\nAnd he's the chick who's here.\nMacho, macho, yeah, you're the king of all the rest.\nHe's the world's strongest, coolest man to contest.\nMacho chatting his with sons.\nHe's always sick.\nHe's the ultimate role model, the one we won't forget.\nMacho, macho, yeah.\nOh shit, this isn't the chorus.\nMacho, here we go.\nIn my case his brother said he did all the FG files of faith.\nIt's such a relief.\nI could have sworn he were real.\nAll my friends that I bring there.\nAnd he's also a role model.\nAnd I'm your fucking boy.\nSo fucking chill.\nAnd here we go.\nEverybody's fucking singing this shit.\nMacho, macho, chat.\nHe's the king of all the rest.\nThe world's strongest, coolest man.\nAnd greatest dad no contest.\nSay it again.\nMacho, macho, chat.\nWith his sons he is always sad.\nThe ultimate role model.\nJust add your chick cause you won't forget.\nStop fucking adding that.\nChet, chet, the dude with an attitude so smooth.\nAnd he can fix a car but with just a glance.\nAnd dance like no one else can groove.\nBut I just don't know how this car goes.\nShit, alright.\nGot a heart of gold in a swallow, lights up the sky.\nAnd when Chet is right, you know you're in for a good time.\nBecause he's coming.\nLook that's me, the one who's coming.\nAnd Chet's here and he's gonna get you all coming.\nFucking did the bi-accident.\nAnd he's sick with it next.\nAnd also he's a dad.\nLet's tell him all.\nMacho, fuck that's not the chorus.\nThe shit's blowing.\nFucking start the song back over, okay?\nI refuse.\nEveryone else that did one Chet, take Chet.\nYou think you're not good enough to do it in one take?\nI know I'm good enough.\nIn fact they call me the one take king.\nAnd that's why I'm gonna crush this shit no problem.\nThis is all part of it.\nAnd there we fucking go.\nMacho, macho, chat.\nHe's the king of all the rest.\nHe's the world's strongest coolest man.\nAnd greatest dad and that is no contest.\nHere we fucking go.\nMacho, macho, chat.\nWith his sixth son, he is always in the ultimate role model.\nJust ask your wife, you will not forget.\nI fucked your wife is what I'm saying.\nHe's not just macho man, he's a macho dad.\nWith his son by his side, he is never sad, that's not true.\nHe is teaching them to be strong, to be kind, be true.\nMacho, chat, we're also grateful for you.\nAnd then we keep Chet as fucking good as the people in my home.\nThey are liking him.\nThey're still liking him.\nJust ask anybody he wants within the gym\nand spotting people without them even having to ask too much.\nAnd there's wind blowing down.\nThere's like a cop and a Native American.\nBut they're all mean, picture that.\nAnd also like a road worker.\nAnd the shit looks crazy and everyone lights it up.\nAnd people of all the twist.\nSeven, six, five, four, three, two, one.\nLet's do this.\nAppetito.\nHello everybody.\nWe've got some tears in reality today.\nWhat is that ever bothered me?\nGood to see you all.\nYeah, it's news time.\nNot a lot of time for news time today.\nBarely any time some could say.\nBut we got to do it anyway.\nThe Patreon's at six.\nSo probably only allow, well,\nattempt to only allow for one segment redemption\nbecause that's probably all we have time for.\nJust a heads up.\nSo if more of those pour in and I don't stop them successfully\ndue to my various broken buttons here.\nJust so we'll probably only have time for one.\n25 minutes.\nWell, we have till six, 55.\nOh, yeah, this be I usually I buzz it down.\nI haven't lately because I've just been too lazy.\nI also kind of need a haircut.\nThese gray sides are getting more powerful.\nMaybe I should grow them out and see how gray they can get.\nShould I just go back to blonde so nobody knows how old I am.\nAll right.\nSorry, one second.\nOkay, there we go.\nOBS changed a couple very small things around that probably\nonly I would notice.\nAnd it's throng.\nAnd it's throng.\nAnd it's thrown my ass off.\nGood to see everyone though.\nMel Devon torture be Grendel live and sleazy.\nBundle Sprout.\nMr. Whoopie Boo Boo Teflon.\nTed, thank you again for noticing the thickness of my beard.\nThe whole reason I have a beard.\nTo me the brain.\nThank you so much for the 27 months.\nJohn Michael.\nGood to see you.\nMighty Oz.\nApple Dapple.\nSkimer.\nSkimer.\nSkimer as Kendall would usually say.\nI honestly don't know what's right.\nAfter all these years.\nAfter all these literal years.\nWhat should case do with hair?\nBlue.\nMohawk.\nSeptember popular option.\nShave it.\nNair which is like shaving it but chemical.\nI'm assuming.\nBlue.\nI'm not.\nI'm not saying guys I can't just ninja it up.\nNair is stink.\nBlue.\nWould allow me to change the color of it more easily.\nBy that I mean.\nIn certain non.\nIRL ways.\nSorry that is not a legally binding poll.\nThere's just.\nI think blue hair is just awkward enough on me.\nI'm not saying this is about everyone with blue hair.\nI mean on me.\nThat it would cost me some work.\nEven though I'm not acting really.\nThe whole presentation of like business.\nMedia.\nGuy that I sometimes have to do to get a job.\nI think the blue hair will look so shitty on me that.\nIt'll scare people off.\nThey'll be like no he's gone full streamer.\nI can't hire him for anything other than that.\nOh comments.\nYou can always send me these magical comments.\nIf you're a subscriber I think it might be limited to subscribers.\nDid you see the Trump letter.\nAnd CBS cancelling coal bombs.\nI think it's a good idea.\nI think it's a good idea.\nAnd CBS cancelling coal bear to please Trump.\nI didn't hear about the coal bear thing.\nI saw the.\nBy the letter do you mean the birthday.\nI saw some story about a birthday card.\nA very.\nTroubling birthday card from Trump.\nLegitimately those it seems to have.\nBended Jeffrey Epstein.\nBut that might be something else.\nYeah the sexy birthday letter we can talk about that.\nI haven't even I've got a little swamped\nwith words.\nI got a little swamped with work the last two days.\nYou might have noticed.\nI didn't stream yesterday.\nOh shit.\nGuys I fucked up.\nI hope it doesn't do the thing that it often does.\nWhere it won't let me.\nDo the thing I want to do.\nBecause I forgot to turn a certain program on.\nYou guys probably know what I'm talking about.\nOr you don't both are totally fair.\nLet's see what happens.\nMaybe I do the rare.\nI mean technically I have a backup.\nI can still talk to people using.\nOther hidden technologies.\nBut for some reason this.\nProgram has been very annoying lately.\nAbout.\nThe order of operations of opening things up.\nThe late show is being sunset.\nI'm not.\nIn favor of.\nThe.\nThe.\nThe late show is being sunset.\nI'm not.\nIn favor of.\nI know people who write for that.\nSo I that's a bummer to hear.\nI'm not the biggest fan myself.\nNo offense to my.\nFriends who work for that show.\nDespite me currently trying to make a late night show.\nIn quotes.\nCop the style of a late night show I've been spending some of my free time trying to make.\nPupito a late night show.\nI do think as a format.\nThe like.\nSweep to sleep talking to celebrities that it's.\nIt's got to be dying like I don't know how that can possibly function.\nAt least on network TV for much longer.\nEven though it's a notoriously.\nWell it's a relatively cheap way to make TV versus series but.\nI think just podcasts have.\nIn so much the way that certain companies I work for.\nA little kind of like they were of a different era.\nI think late night shows feel like a total holdover at this point. I think basically what keeps them going is\nooh\nThe secondary news cycle that you can get out of late night TV shows is sometimes pretty strong like it's a good place to farm\nboth celebrity and political clips at this point like\nThe Colbert like Zora and interview going kind of viral. I think is a good example of that, but I just don't know\nIt's like it's like one of the few places where network TV still makes viral moments that feel somewhat relevant\nso I don't know if if they can entirely get rid of the format for that reason but\nEventually the damn has to break I'm assuming you would have thought that tonight show would have been canceled before before Colbert\nI've heard that Colbert is one of the more successful ones honestly\nDeuce and Mira was the late night show we needed I never watched it, but I've heard I've heard better things about that\nI mostly dislike the Colbert rapport\nbecause I feel like\nIt's not it's not even really like the show. It's like Colbert himself\nAs I just burn bridges unnecessarily, I don't know what's happened to the guy he used to be\nHe used to just feel so relevant to like the conversation and\nLike he had some kind of insight and I don't know he just got\nIt's like I not that I've probably been like anti-trump or anything, but he just\nSeems to have kind of slid off the comedy beam so heavily that I don't\nJust don't know but like politically I get the sense. I probably disagree with him based on his treatment of certain leftist\nmayoral candidates and\nComedically, I just don't get what's there anymore\nYeah, maybe it's just being in character, which hey, I have some sympathy for\nSome people have a hard time doing comedy outside of the character. I also yeah, I've also heard that doosan Miro broke up\nFallen is brutal fell and I get more because he like never was funny\nThat wasn't what he was going for I get or it might be what he's going for but like he's pleasant\nHe's like explicitly like I'm fun. I'm easy for celebrities be around you want to make Jello\nMay let's make slimes together Ariana Grande and then they spend 10 minutes making slimes and giggling like\nThat seemed to be his selling point like Colbert. I was I've been a fan of for like decades\nWhich is why his fall off at least for me comedically was like kind of sad to see\nI'm sure he's still very capable because he's I don't know\nI've been a fan of like his archive work for like the second city, you know like I was a pretty big fan, so\nIt's probably still in there, but it seems to have been subsumed by something else\nIt's got how I feel about like Chappelle who I was a huge fan of\nfor years and\nHis last couple of specials even outside of the incredibly tasteless\ntrans jokes he makes which are just\nRidiculous at this point the general just it's also like patting himself on the back and like it's so light on actual comedy in my opinion\nThere's a lot of like my favorite comedians ever\nI mean another one of my favorite comedians growing up was Louis CK\nSo I'm batting pretty low on\nLike comedic inspirations who have held it together over the years\nWhat can you do though?\nMy other and thought you know\nI also like a guy named Chris Morris of the of who made a thing called the day today way back in the day\nWhenever I check with him he seems like he's doing okay\nSo I'm gonna stick with that guy people ask me who my inspirations are I'll be like this comedian\nYou've never heard her from from the UK\nShe bet Chappelle became a nimby yeah, he became like a cultural nimby for everything\nIt's like his whole thing was like I don't want to be bothered basically is how it feels to me\nWhich isn't great I\nDon't think that that's the best personally\nBut also you know you get older you get a bunch of money and I guess at the end of the day like\nI think worked out for me. Why is everybody complaining? Let's just vote for Andrew Yang and shut the fuck up\nAnd also if you feel weird about your body shut up because I kind of don't or\nDefinitely do and that's why I can't drop it. Who knows\nI'm not sure what to do\nI don't really want to reset the stream, but this whole stream is predicated on one program. That's not working\nGuess we could just hang out for an hour\nDo something different for once you're just stuck with me\nYou'll stay if you have to reset. Alright, I'll just reset it. That is the path of least resistance. I will be right back\nAfter this thing. Hopefully just works\nSee you in a sec one moment, please",
+  "text_timestamped": "[00:06 --> 00:12] I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog.\n[00:37 --> 00:44] No set, bitch, yeah, no set.\n[00:44 --> 00:49] Sonic Lola by Dutch, every nasty.\n[00:49 --> 00:52] Knocked her in the bushes but do not have you.\n[00:52 --> 00:55] Climbing to bed, nah nah, don't stop.\n[00:55 --> 00:58] Those dog web pillow hung on the top.\n[00:58 --> 01:01] No fucks all sleep in the mad store.\n[01:01 --> 01:06] No sleep allowed, bitch, I sleep more, sleep more.\n[01:06 --> 01:14] Every enemy's a fucking ton of sleep.\n[01:14 --> 01:17] Loving of it every time I am counting shit.\n[01:17 --> 01:24] Bedtime story, nah.\n[01:24 --> 01:26] Tying up an extra-large lamp.\n[01:26 --> 01:28] Ramblin' down as a big clone.\n[01:28 --> 01:29] This is a Lollipan.\n[01:29 --> 01:31] Taming as a pan.\n[01:31 --> 01:32] Trees in the lamp.\n[01:32 --> 01:34] Doctor, pen, president.\n[01:34 --> 01:35] Ramblin' the T-man.\n[01:35 --> 01:37] Super Rex around.\n[01:37 --> 01:39] Lambo Rex around.\n[01:39 --> 01:42] Duh, hi, I'm Fedor, and I'm in the mechs a lot.\n[01:42 --> 01:49] Melatonin, me, me.\n[01:49 --> 01:51] All sleep in the mad store.\n[01:51 --> 01:54] No sleep allowed, bitch, I sleep more.\n[01:54 --> 02:00] Sleep on, sleep on, sleep on.\n[02:00 --> 03:25] The feral child you've been wrapped.\n[03:25 --> 03:27] My ending gonna still take a while.\n[03:27 --> 03:29] Another fictional orphan, oh no.\n[03:29 --> 03:31] Do the same favor for Boratow.\n[03:31 --> 03:33] You're like a broke fat man with a sash on his head.\n[03:33 --> 04:19] But fat man is rich, your parents are just shit.\n[04:19 --> 04:20] Joe, that's the chick.\n[04:20 --> 04:22] Who's here?\n[04:22 --> 04:23] I got freestyle this good.\n[04:23 --> 04:24] They didn't write this part.\n[04:24 --> 04:25] Macho, macho.\n[04:25 --> 04:28] And he's the chick who's here.\n[04:28 --> 04:32] Macho, macho, yeah, you're the king of all the rest.\n[04:32 --> 04:35] He's the world's strongest, coolest man to contest.\n[04:35 --> 04:37] Macho chatting his with sons.\n[04:37 --> 04:39] He's always sick.\n[04:39 --> 04:42] He's the ultimate role model, the one we won't forget.\n[04:42 --> 04:46] Macho, macho, yeah.\n[04:46 --> 04:49] Oh shit, this isn't the chorus.\n[04:49 --> 04:51] Macho, here we go.\n[04:51 --> 04:55] In my case his brother said he did all the FG files of faith.\n[04:55 --> 04:57] It's such a relief.\n[04:57 --> 04:58] I could have sworn he were real.\n[04:58 --> 05:00] All my friends that I bring there.\n[05:00 --> 05:02] And he's also a role model.\n[05:02 --> 05:04] And I'm your fucking boy.\n[05:04 --> 05:05] So fucking chill.\n[05:05 --> 05:06] And here we go.\n[05:06 --> 05:08] Everybody's fucking singing this shit.\n[05:08 --> 05:11] Macho, macho, chat.\n[05:11 --> 05:15] He's the king of all the rest.\n[05:15 --> 05:19] The world's strongest, coolest man.\n[05:19 --> 05:21] And greatest dad no contest.\n[05:21 --> 05:22] Say it again.\n[05:22 --> 05:26] Macho, macho, chat.\n[05:26 --> 05:29] With his sons he is always sad.\n[05:29 --> 05:33] The ultimate role model.\n[05:33 --> 05:35] Just add your chick cause you won't forget.\n[05:35 --> 05:37] Stop fucking adding that.\n[05:37 --> 05:40] Chet, chet, the dude with an attitude so smooth.\n[05:40 --> 05:44] And he can fix a car but with just a glance.\n[05:44 --> 05:46] And dance like no one else can groove.\n[05:46 --> 05:49] But I just don't know how this car goes.\n[05:49 --> 05:51] Shit, alright.\n[05:51 --> 05:54] Got a heart of gold in a swallow, lights up the sky.\n[05:54 --> 05:58] And when Chet is right, you know you're in for a good time.\n[05:58 --> 06:00] Because he's coming.\n[06:00 --> 06:03] Look that's me, the one who's coming.\n[06:03 --> 06:06] And Chet's here and he's gonna get you all coming.\n[06:06 --> 06:08] Fucking did the bi-accident.\n[06:08 --> 06:10] And he's sick with it next.\n[06:10 --> 06:12] And also he's a dad.\n[06:12 --> 06:13] Let's tell him all.\n[06:13 --> 06:15] Macho, fuck that's not the chorus.\n[06:15 --> 06:17] The shit's blowing.\n[06:17 --> 06:19] Fucking start the song back over, okay?\n[06:19 --> 06:21] I refuse.\n[06:21 --> 06:23] Everyone else that did one Chet, take Chet.\n[06:23 --> 06:25] You think you're not good enough to do it in one take?\n[06:25 --> 06:27] I know I'm good enough.\n[06:27 --> 06:29] In fact they call me the one take king.\n[06:29 --> 06:32] And that's why I'm gonna crush this shit no problem.\n[06:32 --> 06:34] This is all part of it.\n[06:34 --> 06:38] And there we fucking go.\n[06:38 --> 06:41] Macho, macho, chat.\n[06:42 --> 06:45] He's the king of all the rest.\n[06:45 --> 06:48] He's the world's strongest coolest man.\n[06:48 --> 06:51] And greatest dad and that is no contest.\n[06:51 --> 06:53] Here we fucking go.\n[06:53 --> 06:56] Macho, macho, chat.\n[06:56 --> 07:03] With his sixth son, he is always in the ultimate role model.\n[07:03 --> 07:05] Just ask your wife, you will not forget.\n[07:05 --> 07:07] I fucked your wife is what I'm saying.\n[07:07 --> 07:10] He's not just macho man, he's a macho dad.\n[07:10 --> 07:14] With his son by his side, he is never sad, that's not true.\n[07:14 --> 07:17] He is teaching them to be strong, to be kind, be true.\n[07:17 --> 07:20] Macho, chat, we're also grateful for you.\n[07:20 --> 07:26] And then we keep Chet as fucking good as the people in my home.\n[07:26 --> 07:28] They are liking him.\n[07:28 --> 07:30] They're still liking him.\n[07:30 --> 07:33] Just ask anybody he wants within the gym\n[07:33 --> 07:36] and spotting people without them even having to ask too much.\n[07:36 --> 07:39] And there's wind blowing down.\n[07:39 --> 07:42] There's like a cop and a Native American.\n[07:42 --> 07:45] But they're all mean, picture that.\n[07:45 --> 07:48] And also like a road worker.\n[07:48 --> 07:52] And the shit looks crazy and everyone lights it up.\n[07:52 --> 07:54] And people of all the twist.\n[07:54 --> 08:00] Seven, six, five, four, three, two, one.\n[08:00 --> 08:02] Let's do this.\n[08:02 --> 08:04] Appetito.\n[08:07 --> 08:38] Hello everybody.\n[08:40 --> 08:43] We've got some tears in reality today.\n[08:43 --> 08:46] What is that ever bothered me?\n[08:48 --> 08:51] Good to see you all.\n[08:52 --> 08:54] Yeah, it's news time.\n[08:54 --> 08:58] Not a lot of time for news time today.\n[08:58 --> 09:02] Barely any time some could say.\n[09:02 --> 09:06] But we got to do it anyway.\n[09:06 --> 09:08] The Patreon's at six.\n[09:08 --> 09:13] So probably only allow, well,\n[09:13 --> 09:15] attempt to only allow for one segment redemption\n[09:15 --> 09:17] because that's probably all we have time for.\n[09:17 --> 09:19] Just a heads up.\n[09:19 --> 09:21] So if more of those pour in and I don't stop them successfully\n[09:21 --> 09:23] due to my various broken buttons here.\n[09:23 --> 09:27] Just so we'll probably only have time for one.\n[09:27 --> 09:29] 25 minutes.\n[09:29 --> 09:31] Well, we have till six, 55.\n[09:31 --> 09:33] Oh, yeah, this be I usually I buzz it down.\n[09:33 --> 09:37] I haven't lately because I've just been too lazy.\n[09:37 --> 09:39] I also kind of need a haircut.\n[09:39 --> 09:41] These gray sides are getting more powerful.\n[09:41 --> 09:43] Maybe I should grow them out and see how gray they can get.\n[09:43 --> 09:45] Should I just go back to blonde so nobody knows how old I am.\n[09:45 --> 09:47] All right.\n[09:47 --> 09:49] Sorry, one second.\n[09:49 --> 09:51] Okay, there we go.\n[09:51 --> 09:55] OBS changed a couple very small things around that probably\n[09:55 --> 09:59] only I would notice.\n[09:59 --> 10:03] And it's throng.\n[10:03 --> 10:05] And it's throng.\n[10:05 --> 10:07] And it's thrown my ass off.\n[10:07 --> 10:09] Good to see everyone though.\n[10:09 --> 10:13] Mel Devon torture be Grendel live and sleazy.\n[10:13 --> 10:15] Bundle Sprout.\n[10:15 --> 10:17] Mr. Whoopie Boo Boo Teflon.\n[10:17 --> 10:19] Ted, thank you again for noticing the thickness of my beard.\n[10:19 --> 10:21] The whole reason I have a beard.\n[10:21 --> 10:23] To me the brain.\n[10:23 --> 10:25] Thank you so much for the 27 months.\n[10:25 --> 10:27] John Michael.\n[10:27 --> 10:29] Good to see you.\n[10:29 --> 10:31] Mighty Oz.\n[10:31 --> 10:33] Apple Dapple.\n[10:33 --> 10:35] Skimer.\n[10:35 --> 10:37] Skimer.\n[10:37 --> 10:39] Skimer as Kendall would usually say.\n[10:39 --> 10:41] I honestly don't know what's right.\n[10:41 --> 10:43] After all these years.\n[10:43 --> 10:45] After all these literal years.\n[10:45 --> 10:47] What should case do with hair?\n[10:47 --> 10:49] Blue.\n[10:49 --> 10:51] Mohawk.\n[10:51 --> 10:53] September popular option.\n[10:53 --> 10:55] Shave it.\n[10:55 --> 10:57] Nair which is like shaving it but chemical.\n[10:57 --> 10:59] I'm assuming.\n[10:59 --> 11:05] Blue.\n[11:05 --> 11:07] I'm not.\n[11:07 --> 11:09] I'm not saying guys I can't just ninja it up.\n[11:09 --> 11:12] Nair is stink.\n[11:12 --> 11:14] Blue.\n[11:14 --> 11:16] Would allow me to change the color of it more easily.\n[11:16 --> 11:18] By that I mean.\n[11:18 --> 11:20] In certain non.\n[11:20 --> 11:22] IRL ways.\n[11:22 --> 11:24] Sorry that is not a legally binding poll.\n[11:24 --> 11:26] There's just.\n[11:26 --> 11:28] I think blue hair is just awkward enough on me.\n[11:28 --> 11:30] I'm not saying this is about everyone with blue hair.\n[11:30 --> 11:32] I mean on me.\n[11:32 --> 11:34] That it would cost me some work.\n[11:34 --> 11:36] Even though I'm not acting really.\n[11:36 --> 11:38] The whole presentation of like business.\n[11:38 --> 11:40] Media.\n[11:40 --> 11:42] Guy that I sometimes have to do to get a job.\n[11:42 --> 11:44] I think the blue hair will look so shitty on me that.\n[11:44 --> 11:46] It'll scare people off.\n[11:46 --> 11:48] They'll be like no he's gone full streamer.\n[11:48 --> 11:50] I can't hire him for anything other than that.\n[11:50 --> 11:52] Oh comments.\n[11:52 --> 11:54] You can always send me these magical comments.\n[11:54 --> 11:58] If you're a subscriber I think it might be limited to subscribers.\n[11:58 --> 12:00] Did you see the Trump letter.\n[12:00 --> 12:02] And CBS cancelling coal bombs.\n[12:02 --> 12:04] I think it's a good idea.\n[12:04 --> 12:06] I think it's a good idea.\n[12:06 --> 12:10] And CBS cancelling coal bear to please Trump.\n[12:10 --> 12:12] I didn't hear about the coal bear thing.\n[12:12 --> 12:14] I saw the.\n[12:14 --> 12:16] By the letter do you mean the birthday.\n[12:16 --> 12:18] I saw some story about a birthday card.\n[12:18 --> 12:20] A very.\n[12:20 --> 12:22] Troubling birthday card from Trump.\n[12:22 --> 12:24] Legitimately those it seems to have.\n[12:24 --> 12:26] Bended Jeffrey Epstein.\n[12:26 --> 12:28] But that might be something else.\n[12:28 --> 12:30] Yeah the sexy birthday letter we can talk about that.\n[12:30 --> 12:32] I haven't even I've got a little swamped\n[12:32 --> 12:34] with words.\n[12:34 --> 12:36] I got a little swamped with work the last two days.\n[12:36 --> 12:38] You might have noticed.\n[12:38 --> 12:41] I didn't stream yesterday.\n[12:41 --> 12:44] Oh shit.\n[12:44 --> 12:46] Guys I fucked up.\n[12:48 --> 12:50] I hope it doesn't do the thing that it often does.\n[12:50 --> 12:52] Where it won't let me.\n[12:52 --> 12:54] Do the thing I want to do.\n[12:54 --> 12:56] Because I forgot to turn a certain program on.\n[12:56 --> 12:58] You guys probably know what I'm talking about.\n[12:58 --> 13:00] Or you don't both are totally fair.\n[13:00 --> 13:02] Let's see what happens.\n[13:02 --> 13:04] Maybe I do the rare.\n[13:04 --> 13:08] I mean technically I have a backup.\n[13:08 --> 13:10] I can still talk to people using.\n[13:10 --> 13:12] Other hidden technologies.\n[13:12 --> 13:14] But for some reason this.\n[13:14 --> 13:16] Program has been very annoying lately.\n[13:16 --> 13:20] About.\n[13:20 --> 13:22] The order of operations of opening things up.\n[13:22 --> 13:24] The late show is being sunset.\n[13:24 --> 13:26] I'm not.\n[13:26 --> 13:28] In favor of.\n[13:28 --> 13:30] The.\n[13:30 --> 13:32] The.\n[13:32 --> 13:34] The late show is being sunset.\n[13:34 --> 13:36] I'm not.\n[13:36 --> 13:38] In favor of.\n[13:38 --> 13:40] I know people who write for that.\n[13:40 --> 13:42] So I that's a bummer to hear.\n[13:42 --> 13:44] I'm not the biggest fan myself.\n[13:44 --> 13:46] No offense to my.\n[13:46 --> 13:48] Friends who work for that show.\n[13:48 --> 13:52] Despite me currently trying to make a late night show.\n[13:52 --> 13:54] In quotes.\n[13:54 --> 13:58] Cop the style of a late night show I've been spending some of my free time trying to make.\n[13:58 --> 14:00] Pupito a late night show.\n[14:00 --> 14:02] I do think as a format.\n[14:02 --> 14:04] The like.\n[14:04 --> 14:08] Sweep to sleep talking to celebrities that it's.\n[14:08 --> 14:12] It's got to be dying like I don't know how that can possibly function.\n[14:12 --> 14:15] At least on network TV for much longer.\n[14:15 --> 14:17] Even though it's a notoriously.\n[14:17 --> 14:22] Well it's a relatively cheap way to make TV versus series but.\n[14:22 --> 14:25] I think just podcasts have.\n[14:25 --> 14:29] In so much the way that certain companies I work for.\n[14:29 --> 14:32] A little kind of like they were of a different era.\n[14:32 --> 14:37] I think late night shows feel like a total holdover at this point. I think basically what keeps them going is\n[14:38 --> 14:40] ooh\n[14:40 --> 14:47] The secondary news cycle that you can get out of late night TV shows is sometimes pretty strong like it's a good place to farm\n[14:47 --> 14:51] both celebrity and political clips at this point like\n[14:52 --> 14:58] The Colbert like Zora and interview going kind of viral. I think is a good example of that, but I just don't know\n[14:59 --> 15:04] It's like it's like one of the few places where network TV still makes viral moments that feel somewhat relevant\n[15:05 --> 15:09] so I don't know if if they can entirely get rid of the format for that reason but\n[15:12 --> 15:19] Eventually the damn has to break I'm assuming you would have thought that tonight show would have been canceled before before Colbert\n[15:19 --> 15:22] I've heard that Colbert is one of the more successful ones honestly\n[15:23 --> 15:28] Deuce and Mira was the late night show we needed I never watched it, but I've heard I've heard better things about that\n[15:28 --> 15:30] I mostly dislike the Colbert rapport\n[15:32 --> 15:34] because I feel like\n[15:34 --> 15:38] It's not it's not even really like the show. It's like Colbert himself\n[15:40 --> 15:46] As I just burn bridges unnecessarily, I don't know what's happened to the guy he used to be\n[15:48 --> 15:53] He used to just feel so relevant to like the conversation and\n[15:54 --> 15:57] Like he had some kind of insight and I don't know he just got\n[15:58 --> 16:02] It's like I not that I've probably been like anti-trump or anything, but he just\n[16:03 --> 16:09] Seems to have kind of slid off the comedy beam so heavily that I don't\n[16:10 --> 16:16] Just don't know but like politically I get the sense. I probably disagree with him based on his treatment of certain leftist\n[16:17 --> 16:19] mayoral candidates and\n[16:19 --> 16:21] Comedically, I just don't get what's there anymore\n[16:22 --> 16:26] Yeah, maybe it's just being in character, which hey, I have some sympathy for\n[16:26 --> 16:34] Some people have a hard time doing comedy outside of the character. I also yeah, I've also heard that doosan Miro broke up\n[16:35 --> 16:39] Fallen is brutal fell and I get more because he like never was funny\n[16:39 --> 16:44] That wasn't what he was going for I get or it might be what he's going for but like he's pleasant\n[16:44 --> 16:50] He's like explicitly like I'm fun. I'm easy for celebrities be around you want to make Jello\n[16:51 --> 16:56] May let's make slimes together Ariana Grande and then they spend 10 minutes making slimes and giggling like\n[16:57 --> 17:02] That seemed to be his selling point like Colbert. I was I've been a fan of for like decades\n[17:02 --> 17:08] Which is why his fall off at least for me comedically was like kind of sad to see\n[17:08 --> 17:12] I'm sure he's still very capable because he's I don't know\n[17:12 --> 17:18] I've been a fan of like his archive work for like the second city, you know like I was a pretty big fan, so\n[17:20 --> 17:24] It's probably still in there, but it seems to have been subsumed by something else\n[17:24 --> 17:28] It's got how I feel about like Chappelle who I was a huge fan of\n[17:29 --> 17:31] for years and\n[17:33 --> 17:37] His last couple of specials even outside of the incredibly tasteless\n[17:38 --> 17:40] trans jokes he makes which are just\n[17:40 --> 17:49] Ridiculous at this point the general just it's also like patting himself on the back and like it's so light on actual comedy in my opinion\n[17:49 --> 17:53] There's a lot of like my favorite comedians ever\n[17:53 --> 17:56] I mean another one of my favorite comedians growing up was Louis CK\n[17:56 --> 17:58] So I'm batting pretty low on\n[17:59 --> 18:03] Like comedic inspirations who have held it together over the years\n[18:06 --> 18:08] What can you do though?\n[18:09 --> 18:10] My other and thought you know\n[18:10 --> 18:15] I also like a guy named Chris Morris of the of who made a thing called the day today way back in the day\n[18:15 --> 18:17] Whenever I check with him he seems like he's doing okay\n[18:17 --> 18:21] So I'm gonna stick with that guy people ask me who my inspirations are I'll be like this comedian\n[18:21 --> 18:23] You've never heard her from from the UK\n[18:25 --> 18:29] She bet Chappelle became a nimby yeah, he became like a cultural nimby for everything\n[18:29 --> 18:34] It's like his whole thing was like I don't want to be bothered basically is how it feels to me\n[18:35 --> 18:37] Which isn't great I\n[18:38 --> 18:41] Don't think that that's the best personally\n[18:44 --> 18:49] But also you know you get older you get a bunch of money and I guess at the end of the day like\n[18:50 --> 18:55] I think worked out for me. Why is everybody complaining? Let's just vote for Andrew Yang and shut the fuck up\n[18:56 --> 19:01] And also if you feel weird about your body shut up because I kind of don't or\n[19:02 --> 19:05] Definitely do and that's why I can't drop it. Who knows\n[19:08 --> 19:10] I'm not sure what to do\n[19:10 --> 19:15] I don't really want to reset the stream, but this whole stream is predicated on one program. That's not working\n[19:16 --> 19:20] Guess we could just hang out for an hour\n[19:20 --> 19:26] Do something different for once you're just stuck with me\n[19:26 --> 19:34] You'll stay if you have to reset. Alright, I'll just reset it. That is the path of least resistance. I will be right back\n[19:35 --> 19:37] After this thing. Hopefully just works\n[19:38 --> 19:40] See you in a sec one moment, please"
+}
