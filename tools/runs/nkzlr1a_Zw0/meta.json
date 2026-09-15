@@ -1,0 +1,19 @@
+{
+  "vod_id": "nkzlr1a_Zw0",
+  "title": "The Monday News Comedy Festival",
+  "url": "https://www.youtube.com/watch?v=nkzlr1a_Zw0",
+  "duration_seconds": 10295,
+  "duration": "2:51:35",
+  "timestamp": 1759104000,
+  "aired_at": "2025-09-29T00:00:00+00:00",
+  "date": "2025-09-29",
+  "ingested_at": "2026-09-15T19:35:51.103510+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "nkzlr1a_Zw0",
+  "yt_url": "https://www.youtube.com/watch?v=nkzlr1a_Zw0",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-09-29"
+}
