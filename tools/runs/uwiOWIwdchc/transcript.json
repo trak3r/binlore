@@ -1,0 +1,3589 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "model_requested": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 2657.809,
+  "chunk_seconds": null,
+  "segments": [
+    {
+      "id": 0,
+      "start": 1.23,
+      "end": 4.67,
+      "text": "Should be working minus what's going on here?"
+    },
+    {
+      "id": 1,
+      "start": 8.56,
+      "end": 12.48,
+      "text": "I'm Papita. I'm the dog that produces the show and now it is live."
+    },
+    {
+      "id": 2,
+      "start": 15.2,
+      "end": 20.06,
+      "text": "Okay, let's see"
+    },
+    {
+      "id": 3,
+      "start": 23.22,
+      "end": 38.93,
+      "text": "Resetting a bunch of things. Okay, there we go. Now I can see chat again"
+    },
+    {
+      "id": 4,
+      "start": 40.21,
+      "end": 42.21,
+      "text": "We're back to normal"
+    },
+    {
+      "id": 5,
+      "start": 42.73,
+      "end": 44.73,
+      "text": "ish"
+    },
+    {
+      "id": 6,
+      "start": 45.49,
+      "end": 51.61,
+      "text": "Normal ish the question is will it do the thing now where?"
+    },
+    {
+      "id": 7,
+      "start": 53.33,
+      "end": 56.13,
+      "text": "Everything runs super e it is doing that"
+    },
+    {
+      "id": 8,
+      "start": 57.81,
+      "end": 62.81,
+      "text": "Peter where are you running at 10 frames per second because we might just have to we might just have to live with it for the day"
+    },
+    {
+      "id": 9,
+      "start": 63.61,
+      "end": 65.61,
+      "text": "If you're feeling off"
+    },
+    {
+      "id": 10,
+      "start": 65.69,
+      "end": 67.69,
+      "text": "Like you sometimes do"
+    },
+    {
+      "id": 11,
+      "start": 67.69,
+      "end": 70.53,
+      "text": "Yeah, I'll well slow today"
+    },
+    {
+      "id": 12,
+      "start": 78.2,
+      "end": 80.2,
+      "text": "Okay, nothing you can do"
+    },
+    {
+      "id": 13,
+      "start": 81.08,
+      "end": 83.72,
+      "text": "Oh, no, my brain is not running well"
+    },
+    {
+      "id": 14,
+      "start": 84.68,
+      "end": 87.72,
+      "text": "Hmm. Is it usually usually a whip smart?"
+    },
+    {
+      "id": 15,
+      "start": 88.44,
+      "end": 90.92,
+      "text": "a trenchant political commentary from"
+    },
+    {
+      "id": 16,
+      "start": 94.76,
+      "end": 99.16,
+      "text": "Hmm visually he looks all right. It could also just be my computer. Oh, I see what happened"
+    },
+    {
+      "id": 17,
+      "start": 100.28,
+      "end": 103.8,
+      "text": "Guys, I see what happened. Are you doing better now? Um"
+    },
+    {
+      "id": 18,
+      "start": 104.84,
+      "end": 108.86,
+      "text": "Sort of"
+    },
+    {
+      "id": 19,
+      "start": 108.86,
+      "end": 112.14,
+      "text": "He's taking the death of late night very hard. Papita. Were you a fan of cold bear?"
+    },
+    {
+      "id": 20,
+      "start": 112.94,
+      "end": 116.95,
+      "text": "Yeah"
+    },
+    {
+      "id": 21,
+      "start": 117.75,
+      "end": 119.75,
+      "text": "burrito"
+    },
+    {
+      "id": 22,
+      "start": 120.31,
+      "end": 122.31,
+      "text": "Um, not that I'm aware of"
+    },
+    {
+      "id": 23,
+      "start": 124.73,
+      "end": 126.73,
+      "text": "he's"
+    },
+    {
+      "id": 24,
+      "start": 126.81,
+      "end": 128.09,
+      "text": "Chicken"
+    },
+    {
+      "id": 25,
+      "start": 128.09,
+      "end": 130.97,
+      "text": "He's a late night host right love that guy"
+    },
+    {
+      "id": 26,
+      "start": 132.33,
+      "end": 137.77,
+      "text": "I'm gonna try to reset one other thing and see if that helps you're gonna lose audio for just a sec"
+    },
+    {
+      "id": 27,
+      "start": 139.69,
+      "end": 175.78,
+      "text": "Most likely okay, here we go. That's the best we can do today. I guess I feel great now"
+    },
+    {
+      "id": 28,
+      "start": 176.58,
+      "end": 178.58,
+      "text": "Everything is normal"
+    },
+    {
+      "id": 29,
+      "start": 179.06,
+      "end": 183.22,
+      "text": "Well, you're not any more delayed than the other people that I might talk to you so I guess I shouldn't complain"
+    },
+    {
+      "id": 30,
+      "start": 184.26,
+      "end": 187.86,
+      "text": "What do you mean? My mouth is moving at the normal pace case"
+    },
+    {
+      "id": 31,
+      "start": 188.58,
+      "end": 190.58,
+      "text": "Uh"
+    },
+    {
+      "id": 32,
+      "start": 190.98,
+      "end": 194.98,
+      "text": "Oh my god, there's too many there's too many people flying around. Papita. Can you stay in your producer's corner?"
+    },
+    {
+      "id": 33,
+      "start": 195.06,
+      "end": 197.06,
+      "text": "I was over there to help Jeff"
+    },
+    {
+      "id": 34,
+      "start": 197.46,
+      "end": 199.14,
+      "text": "Okay"
+    },
+    {
+      "id": 35,
+      "start": 199.14,
+      "end": 201.78,
+      "text": "Jeff, why are you over there? This is sometimes where I go"
+    },
+    {
+      "id": 36,
+      "start": 202.82,
+      "end": 204.82,
+      "text": "to"
+    },
+    {
+      "id": 37,
+      "start": 204.82,
+      "end": 207.67,
+      "text": "Piss"
+    },
+    {
+      "id": 38,
+      "start": 207.67,
+      "end": 210.17,
+      "text": "We've got a debate so that'll kill some time"
+    },
+    {
+      "id": 39,
+      "start": 211.59,
+      "end": 217.75,
+      "text": "Hard or soft shell tacos. Ooh, we're running through some classics lately. You love to see it piss tacos"
+    },
+    {
+      "id": 40,
+      "start": 218.39,
+      "end": 220.79,
+      "text": "Jeff you just have piss on the mind. That's true"
+    },
+    {
+      "id": 41,
+      "start": 221.27,
+      "end": 224.47,
+      "text": "You interrupted me on my way to the bathroom and now I feel like I'm on the spot"
+    },
+    {
+      "id": 42,
+      "start": 224.79,
+      "end": 228.31,
+      "text": "Also, where's your goddamn fish tie you non-professional?"
+    },
+    {
+      "id": 43,
+      "start": 229.99,
+      "end": 233.43,
+      "text": "At least jeff keeps keeps me on track when it comes to this fish tie"
+    },
+    {
+      "id": 44,
+      "start": 233.51,
+      "end": 237.75,
+      "text": "It doesn't matter if we're only streaming for 20 minutes and I've spent half of it doing tech stuff"
+    },
+    {
+      "id": 45,
+      "start": 239.91,
+      "end": 241.91,
+      "text": "I gotta wear this fish tie"
+    },
+    {
+      "id": 46,
+      "start": 243.75,
+      "end": 246.47,
+      "text": "Oh wait, I also have to remember to take these off"
+    },
+    {
+      "id": 47,
+      "start": 247.99,
+      "end": 249.99,
+      "text": "Fuck hard shell tacos"
+    },
+    {
+      "id": 48,
+      "start": 251.03,
+      "end": 254.34,
+      "text": "That's crazy guys"
+    },
+    {
+      "id": 49,
+      "start": 254.34,
+      "end": 256.58,
+      "text": "What's the problem with hard shell tacos?"
+    },
+    {
+      "id": 50,
+      "start": 256.66,
+      "end": 259.62,
+      "text": "I kind of agree with melody von tortur if your point is that they're like nachos"
+    },
+    {
+      "id": 51,
+      "start": 260.26,
+      "end": 261.46,
+      "text": "but in a"
+    },
+    {
+      "id": 52,
+      "start": 261.46,
+      "end": 262.58,
+      "text": "tube"
+    },
+    {
+      "id": 53,
+      "start": 262.58,
+      "end": 266.66,
+      "text": "In a half in a half pipe hard shell tacos are just nachos in a half pipe"
+    },
+    {
+      "id": 54,
+      "start": 267.22,
+      "end": 272.74,
+      "text": "Fortunately, I don't have to debate this incredibly touchy issue. I can leave it to the semi professionals and dead people"
+    },
+    {
+      "id": 55,
+      "start": 274.34,
+      "end": 275.46,
+      "text": "sick"
+    },
+    {
+      "id": 56,
+      "start": 275.46,
+      "end": 281.66,
+      "text": "Out of um recovering people. There we go. People say it's not authentic"
+    },
+    {
+      "id": 57,
+      "start": 283.02,
+      "end": 285.02,
+      "text": "uh"
+    },
+    {
+      "id": 58,
+      "start": 285.02,
+      "end": 286.14,
+      "text": "I mean"
+    },
+    {
+      "id": 59,
+      "start": 286.14,
+      "end": 291.66,
+      "text": "I guess I've only really had them that often at taco bell to me. They're authentically taco bell"
+    },
+    {
+      "id": 60,
+      "start": 292.62,
+      "end": 297.9,
+      "text": "If I go to taco bell, I don't think I'm getting too touchy on if I have a soft shell or a hard shell taco"
+    },
+    {
+      "id": 61,
+      "start": 298.54,
+      "end": 302.86,
+      "text": "I guess I honestly can't think of the last time I had a hard shell taco outside of taco bell"
+    },
+    {
+      "id": 62,
+      "start": 303.26,
+      "end": 307.02,
+      "text": "My point would just be that at taco bell. Sometimes I want a hard shell taco"
+    },
+    {
+      "id": 63,
+      "start": 307.5,
+      "end": 309.98,
+      "text": "But I don't really trust any of their food. So"
+    },
+    {
+      "id": 64,
+      "start": 311.1,
+      "end": 316.38,
+      "text": "An expert on how not to get caught on a kiss cam with your wife at a cold play concert"
+    },
+    {
+      "id": 65,
+      "start": 317.66,
+      "end": 319.66,
+      "text": "That"
+    },
+    {
+      "id": 66,
+      "start": 319.9,
+      "end": 322.78,
+      "text": "Could have been useful for some people for sure"
+    },
+    {
+      "id": 67,
+      "start": 324.86,
+      "end": 326.86,
+      "text": "Not your wife"
+    },
+    {
+      "id": 68,
+      "start": 327.5,
+      "end": 329.5,
+      "text": "Yeah, not your wife"
+    },
+    {
+      "id": 69,
+      "start": 330.78,
+      "end": 337.21,
+      "text": "Why is it doing with not your wife? Yeah"
+    },
+    {
+      "id": 70,
+      "start": 338.41,
+      "end": 340.41,
+      "text": "Not your wife. I get it. I think"
+    },
+    {
+      "id": 71,
+      "start": 341.13,
+      "end": 343.13,
+      "text": "Wait, I'm gonna let me try one last thing. I just realized"
+    },
+    {
+      "id": 72,
+      "start": 343.85,
+      "end": 345.85,
+      "text": "This program is shitting the bed once again once I"
+    },
+    {
+      "id": 73,
+      "start": 363.48,
+      "end": 365.48,
+      "text": "Oh the many mysteries of computer"
+    },
+    {
+      "id": 74,
+      "start": 365.88,
+      "end": 367.88,
+      "text": "Who would be an expert in that?"
+    },
+    {
+      "id": 75,
+      "start": 369.86,
+      "end": 374.42,
+      "text": "At least now I can load things. We're good now. I mean, it's not gonna look good, but"
+    },
+    {
+      "id": 76,
+      "start": 375.46,
+      "end": 378.18,
+      "text": "I should have stopped having that be a concern on the stream long ago"
+    },
+    {
+      "id": 77,
+      "start": 381.21,
+      "end": 383.21,
+      "text": "An expert in kissing"
+    },
+    {
+      "id": 78,
+      "start": 384.25,
+      "end": 386.25,
+      "text": "Okay, this seems like it makes sense"
+    },
+    {
+      "id": 79,
+      "start": 386.81,
+      "end": 388.81,
+      "text": "Um, Donald Trump"
+    },
+    {
+      "id": 80,
+      "start": 390.82,
+      "end": 393.46,
+      "text": "I don't know if we want his kissing expertise, but"
+    },
+    {
+      "id": 81,
+      "start": 396.04,
+      "end": 398.04,
+      "text": "If the request is out there"
+    },
+    {
+      "id": 82,
+      "start": 399.0,
+      "end": 404.46,
+      "text": "We can do that"
+    },
+    {
+      "id": 83,
+      "start": 404.46,
+      "end": 406.46,
+      "text": "Chat can can s word it"
+    },
+    {
+      "id": 84,
+      "start": 407.18,
+      "end": 409.18,
+      "text": "See caught myself"
+    },
+    {
+      "id": 85,
+      "start": 409.26,
+      "end": 411.26,
+      "text": "I won't be tricked not today"
+    },
+    {
+      "id": 86,
+      "start": 411.5,
+      "end": 413.5,
+      "text": "George Lopez"
+    },
+    {
+      "id": 87,
+      "start": 414.3,
+      "end": 416.3,
+      "text": "Wait a minute. What is this one second?"
+    },
+    {
+      "id": 88,
+      "start": 417.02,
+      "end": 420.55,
+      "text": "Will this load"
+    },
+    {
+      "id": 89,
+      "start": 420.63,
+      "end": 422.79,
+      "text": "Sometimes you see an expert floating around out there"
+    },
+    {
+      "id": 90,
+      "start": 423.91,
+      "end": 425.43,
+      "text": "And you're like"
+    },
+    {
+      "id": 91,
+      "start": 425.43,
+      "end": 427.43,
+      "text": "Is it gonna let me get away with this?"
+    },
+    {
+      "id": 92,
+      "start": 429.67,
+      "end": 431.35,
+      "text": "Oh"
+    },
+    {
+      "id": 93,
+      "start": 431.35,
+      "end": 433.35,
+      "text": "If only you guys knew"
+    },
+    {
+      "id": 94,
+      "start": 433.67,
+      "end": 435.67,
+      "text": "All the beauty you're missing out on"
+    },
+    {
+      "id": 95,
+      "start": 436.63,
+      "end": 440.22,
+      "text": "By um"
+    },
+    {
+      "id": 96,
+      "start": 440.22,
+      "end": 443.02,
+      "text": "By this program only half functioning. It's so sad"
+    },
+    {
+      "id": 97,
+      "start": 443.98,
+      "end": 449.9,
+      "text": "There's so much incredible stuff out there. I just can't show you. Oh the worlds. I could show you"
+    },
+    {
+      "id": 98,
+      "start": 452.52,
+      "end": 455.88,
+      "text": "No brown face. Yeah, I do avoid though. I would avoid those filters either way"
+    },
+    {
+      "id": 99,
+      "start": 456.6,
+      "end": 458.6,
+      "text": "though sometimes I click on one and"
+    },
+    {
+      "id": 100,
+      "start": 459.16,
+      "end": 461.96,
+      "text": "Fortunately outside of one Mario occasion"
+    },
+    {
+      "id": 101,
+      "start": 462.68,
+      "end": 467.48,
+      "text": "I uh, I haven't shown you it but they're out there every once in a while. I'll click on one and be like"
+    },
+    {
+      "id": 102,
+      "start": 467.64,
+      "end": 470.2,
+      "text": "Thank god. It didn't hard cut to this"
+    },
+    {
+      "id": 103,
+      "start": 471.4,
+      "end": 473.4,
+      "text": "because"
+    },
+    {
+      "id": 104,
+      "start": 473.4,
+      "end": 475.24,
+      "text": "stream fails"
+    },
+    {
+      "id": 105,
+      "start": 475.24,
+      "end": 477.64,
+      "text": "But maybe maybe worse than what you're expecting"
+    },
+    {
+      "id": 106,
+      "start": 478.2,
+      "end": 480.2,
+      "text": "Okay, anyway, I guess we'll ask donald trump about this"
+    },
+    {
+      "id": 107,
+      "start": 481.0,
+      "end": 485.4,
+      "text": "You know, well, let's do the news first because it's about donald trump that will I'm gonna turn off requests"
+    },
+    {
+      "id": 108,
+      "start": 485.4,
+      "end": 488.44,
+      "text": "We'll talk to this kiss expert and then uh, we'll"
+    },
+    {
+      "id": 109,
+      "start": 489.96,
+      "end": 493.8,
+      "text": "Do whatever else for the day. Uh, oh munchin crime. Then we'll just get the fuck out of here"
+    },
+    {
+      "id": 110,
+      "start": 493.8,
+      "end": 497.32,
+      "text": "I gotta I gotta hurry up. We only have 30 minutes to do it all so let's do some quick news"
+    },
+    {
+      "id": 111,
+      "start": 498.36,
+      "end": 518.47,
+      "text": "Flip it take you on it through history"
+    },
+    {
+      "id": 112,
+      "start": 522.63,
+      "end": 529.19,
+      "text": "Yes, feeling great today, you know, let me even check this"
+    },
+    {
+      "id": 113,
+      "start": 531.67,
+      "end": 533.67,
+      "text": "Good to see everyone it's your boy rick"
+    },
+    {
+      "id": 114,
+      "start": 534.71,
+      "end": 538.79,
+      "text": "You're to smooth everything over national temperatures gotten a little hot"
+    },
+    {
+      "id": 115,
+      "start": 539.83,
+      "end": 541.83,
+      "text": "Why am I feeling so groggy today?"
+    },
+    {
+      "id": 116,
+      "start": 542.31,
+      "end": 548.63,
+      "text": "Everybody's gonna be feeling groggy today. Sorry. It's a short stream at least so you don't have to feel groggy for that long rick"
+    },
+    {
+      "id": 117,
+      "start": 550.55,
+      "end": 554.23,
+      "text": "I just feel like i'm moving at like half the usual pace"
+    },
+    {
+      "id": 118,
+      "start": 554.95,
+      "end": 557.7,
+      "text": "Whoa"
+    },
+    {
+      "id": 119,
+      "start": 557.7,
+      "end": 561.06,
+      "text": "Yeah, there's a lot of white in your hair and beard now. Who's that fault is that?"
+    },
+    {
+      "id": 120,
+      "start": 561.86,
+      "end": 564.55,
+      "text": "Who knows?"
+    },
+    {
+      "id": 121,
+      "start": 564.55,
+      "end": 568.63,
+      "text": "Hmm, you just got home msg good"
+    },
+    {
+      "id": 122,
+      "start": 569.43,
+      "end": 570.79,
+      "text": "You're home"
+    },
+    {
+      "id": 123,
+      "start": 570.79,
+      "end": 572.55,
+      "text": "Welcome home"
+    },
+    {
+      "id": 124,
+      "start": 572.55,
+      "end": 575.51,
+      "text": "Hope you had an okay day. Oh my god. Everything is breaking"
+    },
+    {
+      "id": 125,
+      "start": 577.64,
+      "end": 578.6,
+      "text": "Uh"
+    },
+    {
+      "id": 126,
+      "start": 578.6,
+      "end": 580.92,
+      "text": "Trump special day"
+    },
+    {
+      "id": 127,
+      "start": 582.76,
+      "end": 588.12,
+      "text": "Let's talk about it. I haven't really um checked in on all the details of whatever this birthday story is"
+    },
+    {
+      "id": 128,
+      "start": 588.92,
+      "end": 590.92,
+      "text": "So birthday card story"
+    },
+    {
+      "id": 129,
+      "start": 591.8,
+      "end": 593.88,
+      "text": "So i'm excited to learn with the rest of you"
+    },
+    {
+      "id": 130,
+      "start": 595.56,
+      "end": 597.56,
+      "text": "What could he have done this time?"
+    },
+    {
+      "id": 131,
+      "start": 598.6,
+      "end": 602.14,
+      "text": "Getting himself in trouble"
+    },
+    {
+      "id": 132,
+      "start": 602.38,
+      "end": 604.38,
+      "text": "Just for a good old birthday card"
+    },
+    {
+      "id": 133,
+      "start": 606.65,
+      "end": 612.1,
+      "text": "Come on. Come on. Come on. Oh"
+    },
+    {
+      "id": 134,
+      "start": 612.34,
+      "end": 616.3,
+      "text": "This is beautiful. What the frick"
+    },
+    {
+      "id": 135,
+      "start": 620.07,
+      "end": 623.75,
+      "text": "Ah guys"
+    },
+    {
+      "id": 136,
+      "start": 623.75,
+      "end": 628.74,
+      "text": "If I had a camera behind you would see that things are not"
+    },
+    {
+      "id": 137,
+      "start": 629.54,
+      "end": 631.54,
+      "text": "Working the way that they're supposed to today"
+    },
+    {
+      "id": 138,
+      "start": 632.1,
+      "end": 634.1,
+      "text": "And i'm far i'll be fine"
+    },
+    {
+      "id": 139,
+      "start": 634.42,
+      "end": 638.1,
+      "text": "Wait, i'm fine with that because i can roll with the punches and it's not"
+    },
+    {
+      "id": 140,
+      "start": 638.82,
+      "end": 640.82,
+      "text": "Going to drive me insane"
+    },
+    {
+      "id": 141,
+      "start": 641.3,
+      "end": 644.66,
+      "text": "You know, you know what i mean rick you're sounding scary"
+    },
+    {
+      "id": 142,
+      "start": 645.7,
+      "end": 647.3,
+      "text": "and"
+    },
+    {
+      "id": 143,
+      "start": 647.3,
+      "end": 648.9,
+      "text": "Just chill"
+    },
+    {
+      "id": 144,
+      "start": 648.9,
+      "end": 650.9,
+      "text": "Rick's got the news covered"
+    },
+    {
+      "id": 145,
+      "start": 651.7,
+      "end": 653.7,
+      "text": "rick news"
+    },
+    {
+      "id": 146,
+      "start": 654.1,
+      "end": 657.38,
+      "text": "I don't know. I don't know if I like that that framing for this rick"
+    },
+    {
+      "id": 147,
+      "start": 658.02,
+      "end": 662.98,
+      "text": "I feel like you're gonna probably do a pretty bad job with the commentary on this. What?"
+    },
+    {
+      "id": 148,
+      "start": 663.94,
+      "end": 665.94,
+      "text": "Stop prejudging"
+    },
+    {
+      "id": 149,
+      "start": 666.34,
+      "end": 672.25,
+      "text": "My pre news workout. All right. Here we go. That's not the right one"
+    },
+    {
+      "id": 150,
+      "start": 673.85,
+      "end": 676.65,
+      "text": "Here we go. We're swapping it all around"
+    },
+    {
+      "id": 151,
+      "start": 676.97,
+      "end": 679.69,
+      "text": "And now I sound like rick. All right"
+    },
+    {
+      "id": 152,
+      "start": 680.73,
+      "end": 682.25,
+      "text": "Jesus"
+    },
+    {
+      "id": 153,
+      "start": 682.25,
+      "end": 684.25,
+      "text": "Okay, can it work not there we go"
+    },
+    {
+      "id": 154,
+      "start": 686.65,
+      "end": 688.65,
+      "text": "Frickin headaches today everybody"
+    },
+    {
+      "id": 155,
+      "start": 690.17,
+      "end": 692.17,
+      "text": "Rick what were you gonna say?"
+    },
+    {
+      "id": 156,
+      "start": 692.73,
+      "end": 694.73,
+      "text": "Oh, and now this isn't working"
+    },
+    {
+      "id": 157,
+      "start": 694.81,
+      "end": 697.37,
+      "text": "I'm gonna murder. I'm gonna murder stream my stream"
+    },
+    {
+      "id": 158,
+      "start": 698.65,
+      "end": 700.65,
+      "text": "I gotta murder my stream set up real quick"
+    },
+    {
+      "id": 159,
+      "start": 702.94,
+      "end": 705.18,
+      "text": "Because it is not cooperating"
+    },
+    {
+      "id": 160,
+      "start": 707.77,
+      "end": 711.05,
+      "text": "We're back. Okay. We're so set up. Boom"
+    },
+    {
+      "id": 161,
+      "start": 711.53,
+      "end": 713.53,
+      "text": "flawless"
+    },
+    {
+      "id": 162,
+      "start": 713.53,
+      "end": 715.53,
+      "text": "And I look great"
+    },
+    {
+      "id": 163,
+      "start": 716.01,
+      "end": 719.69,
+      "text": "Just uh, when you hear my words move my mouth forward in the future by about"
+    },
+    {
+      "id": 164,
+      "start": 720.73,
+      "end": 728.81,
+      "text": "One second reported birthday card from trump to epstein shines new light on their friendship as fallout from files release"
+    },
+    {
+      "id": 165,
+      "start": 729.53,
+      "end": 731.37,
+      "text": "bounce"
+    },
+    {
+      "id": 166,
+      "start": 731.37,
+      "end": 733.37,
+      "text": "murderbot"
+    },
+    {
+      "id": 167,
+      "start": 733.61,
+      "end": 738.01,
+      "text": "What a murder bot sorry live and please call that up my brother recommended it"
+    },
+    {
+      "id": 168,
+      "start": 738.97,
+      "end": 745.13,
+      "text": "Or said that he watched it. I did I have a bit of a bias against apple tv, but I got to say murder bot was pretty good"
+    },
+    {
+      "id": 169,
+      "start": 746.81,
+      "end": 751.53,
+      "text": "I also liked um something else I watched on apple tv recently that I've already forgotten"
+    },
+    {
+      "id": 170,
+      "start": 752.09,
+      "end": 754.09,
+      "text": "And obviously there's severance"
+    },
+    {
+      "id": 171,
+      "start": 754.25,
+      "end": 759.21,
+      "text": "But the fact that I watched a show I like a show I liked but forgot and severance might mean"
+    },
+    {
+      "id": 172,
+      "start": 760.41,
+      "end": 763.29,
+      "text": "That frankly apple tv might be batting the highest average"
+    },
+    {
+      "id": 173,
+      "start": 763.93,
+      "end": 764.73,
+      "text": "of"
+    },
+    {
+      "id": 174,
+      "start": 764.73,
+      "end": 766.97,
+      "text": "Of quality this year my favorite streaming service"
+    },
+    {
+      "id": 175,
+      "start": 768.01,
+      "end": 770.01,
+      "text": "might be apple tv now"
+    },
+    {
+      "id": 176,
+      "start": 770.73,
+      "end": 772.97,
+      "text": "Which I don't feel good about at all"
+    },
+    {
+      "id": 177,
+      "start": 773.77,
+      "end": 775.77,
+      "text": "But I got a call the strikes and balls"
+    },
+    {
+      "id": 178,
+      "start": 776.49,
+      "end": 778.49,
+      "text": "And they've been balling a little bit"
+    },
+    {
+      "id": 179,
+      "start": 778.49,
+      "end": 782.25,
+      "text": "I haven't watched the gorge. Oh, uh, the they're in a nuclear silo"
+    },
+    {
+      "id": 180,
+      "start": 782.89,
+      "end": 789.53,
+      "text": "Fallout, but it's uh, but less slightly less cartoony the studio. I also watched that the studio was also pretty good"
+    },
+    {
+      "id": 181,
+      "start": 790.33,
+      "end": 792.41,
+      "text": "So despite me constantly talking shit"
+    },
+    {
+      "id": 182,
+      "start": 793.13,
+      "end": 795.13,
+      "text": "about apple tv"
+    },
+    {
+      "id": 183,
+      "start": 795.21,
+      "end": 798.17,
+      "text": "And feeling slightly disgusted every time I see the apple logo"
+    },
+    {
+      "id": 184,
+      "start": 799.21,
+      "end": 803.37,
+      "text": "I also saw the preview for monarch monsters, which I didn't even ever hear about"
+    },
+    {
+      "id": 185,
+      "start": 804.17,
+      "end": 809.69,
+      "text": "When it came out. I feel like I completely missed any hyper around that at all even though we watched the trailer for it at some point"
+    },
+    {
+      "id": 186,
+      "start": 810.81,
+      "end": 817.05,
+      "text": "Both can be true. I guess I don't know why I would feel loyalty to like hbo max over apple tv"
+    },
+    {
+      "id": 187,
+      "start": 817.29,
+      "end": 821.13,
+      "text": "I think it's just something about apple tv be an apple and amazon both being like"
+    },
+    {
+      "id": 188,
+      "start": 821.69,
+      "end": 823.69,
+      "text": "We are we're movie we do movies now"
+    },
+    {
+      "id": 189,
+      "start": 823.69,
+      "end": 829.21,
+      "text": "I find annoying we're kind of in the entertainment business actually and we're on top of it"
+    },
+    {
+      "id": 190,
+      "start": 830.89,
+      "end": 838.06,
+      "text": "The actress is having a moment. I don't know what that means live in sleazy that oh that actress man"
+    },
+    {
+      "id": 191,
+      "start": 838.06,
+      "end": 841.9,
+      "text": "I can't read lately. That's why you outsource that stuff to the professional"
+    },
+    {
+      "id": 192,
+      "start": 843.26,
+      "end": 846.33,
+      "text": "mouth guys"
+    },
+    {
+      "id": 193,
+      "start": 846.33,
+      "end": 848.33,
+      "text": "I'm trying to do the news man"
+    },
+    {
+      "id": 194,
+      "start": 848.81,
+      "end": 851.93,
+      "text": "From monarch and shogun. I hope it's a good moment"
+    },
+    {
+      "id": 195,
+      "start": 852.49,
+      "end": 859.45,
+      "text": "The apple tv stuff deaf has an overproduced vibe because they put money into their shows, but they usually are still very good"
+    },
+    {
+      "id": 196,
+      "start": 860.09,
+      "end": 863.21,
+      "text": "Yeah, the murder budget was nice. It was like a nice sci-fi show"
+    },
+    {
+      "id": 197,
+      "start": 863.37,
+      "end": 868.81,
+      "text": "The scope wasn't like so huge that they couldn't pull it off, but it would just still did a lot of world building"
+    },
+    {
+      "id": 198,
+      "start": 869.69,
+      "end": 873.69,
+      "text": "And no complaints scar's guard did a great job. I thought the whole cast was was great"
+    },
+    {
+      "id": 199,
+      "start": 874.33,
+      "end": 876.33,
+      "text": "I like all the annoying hippy characters"
+    },
+    {
+      "id": 200,
+      "start": 877.53,
+      "end": 880.97,
+      "text": "Uh, they're flawed in a way that doesn't make them complete cartoons. It was very well done"
+    },
+    {
+      "id": 201,
+      "start": 881.93,
+      "end": 883.93,
+      "text": "And they got jason mimowa"
+    },
+    {
+      "id": 202,
+      "start": 884.57,
+      "end": 886.97,
+      "text": "Doing hawaii stuff soon. So"
+    },
+    {
+      "id": 203,
+      "start": 889.53,
+      "end": 891.53,
+      "text": "I guess I have to be an apple guy"
+    },
+    {
+      "id": 204,
+      "start": 892.09,
+      "end": 896.73,
+      "text": "The tv the streaming service did it for you not the phone you've used for over two decades"
+    },
+    {
+      "id": 205,
+      "start": 897.37,
+      "end": 900.81,
+      "text": "I could take or leave the phone that I that big chunks of my life rely on"
+    },
+    {
+      "id": 206,
+      "start": 901.29,
+      "end": 903.29,
+      "text": "I'm mostly impressed by their tv output"
+    },
+    {
+      "id": 207,
+      "start": 903.93,
+      "end": 906.97,
+      "text": "Hmm"
+    },
+    {
+      "id": 208,
+      "start": 906.97,
+      "end": 911.05,
+      "text": "Well, what about this of the news man? I look good. Okay"
+    },
+    {
+      "id": 209,
+      "start": 911.61,
+      "end": 919.69,
+      "text": "Donald trump reportedly helped celebrate jeffrey eppstein's 50th birthday with a body greeting accompanied by a hand-drawn image of a naked woman"
+    },
+    {
+      "id": 210,
+      "start": 920.33,
+      "end": 925.53,
+      "text": "I'm sorry. I had a birthday caught in my throat a report from the wall street journal on thursday"
+    },
+    {
+      "id": 211,
+      "start": 925.53,
+      "end": 931.77,
+      "text": "Uncovers new details about the relationship between the president and disgraced financier and convicted sex offender whose death and connections to"
+    },
+    {
+      "id": 212,
+      "start": 931.77,
+      "end": 938.49,
+      "text": "Trump are at the center of an explosive feud between his allies and right-wing figures demanding more information about the case"
+    },
+    {
+      "id": 213,
+      "start": 938.89,
+      "end": 943.93,
+      "text": "A letter bearing trump's name which was reviewed by the journal contains several lines of typewritten text"
+    },
+    {
+      "id": 214,
+      "start": 944.33,
+      "end": 949.85,
+      "text": "Framed by a drawing of a naked woman his signature is squiggly donald below her waist mimicking"
+    },
+    {
+      "id": 215,
+      "start": 951.21,
+      "end": 954.47,
+      "text": "pubes"
+    },
+    {
+      "id": 216,
+      "start": 954.47,
+      "end": 960.07,
+      "text": "You hate iphone such a hassle to do anything with it. I am a not a fan of apples design in general"
+    },
+    {
+      "id": 217,
+      "start": 961.35,
+      "end": 969.43,
+      "text": "Not we're talking about sex offenders case. I'm talking about both. We can talk about iphone's and sex offenders at the same time"
+    },
+    {
+      "id": 218,
+      "start": 971.72,
+      "end": 973.48,
+      "text": "Yeah"
+    },
+    {
+      "id": 219,
+      "start": 973.48,
+      "end": 977.48,
+      "text": "You hate both iphone's and androids. What does that leave samsung phones?"
+    },
+    {
+      "id": 220,
+      "start": 979.32,
+      "end": 981.56,
+      "text": "I don't know my phones well enough. Let's get a brick phone"
+    },
+    {
+      "id": 221,
+      "start": 982.12,
+      "end": 987.24,
+      "text": "I apple's design is annoying to me because they don't allow for much customization in my opinion. They hide"
+    },
+    {
+      "id": 222,
+      "start": 987.96,
+      "end": 989.96,
+      "text": "a lot of the um"
+    },
+    {
+      "id": 223,
+      "start": 990.04,
+      "end": 991.48,
+      "text": "functionality"
+    },
+    {
+      "id": 224,
+      "start": 991.48,
+      "end": 996.12,
+      "text": "That you might want to access to make it a more user friendly experience. Some people really like that"
+    },
+    {
+      "id": 225,
+      "start": 996.12,
+      "end": 999.24,
+      "text": "I'm sure if you're a dedicated applehead you can get past all that stuff"
+    },
+    {
+      "id": 226,
+      "start": 999.8,
+      "end": 1002.28,
+      "text": "I'm just too used to windows products at this point"
+    },
+    {
+      "id": 227,
+      "start": 1002.92,
+      "end": 1008.84,
+      "text": "Which are on which have their own function problems, but I feel like in general whenever I've had like a windows computer"
+    },
+    {
+      "id": 228,
+      "start": 1009.48,
+      "end": 1015.24,
+      "text": "Um, it's way easier to access like the layers of customization that I'm interested in whereas with iphone stuff"
+    },
+    {
+      "id": 229,
+      "start": 1015.32,
+      "end": 1017.32,
+      "text": "It's always really fucking annoying"
+    },
+    {
+      "id": 230,
+      "start": 1017.88,
+      "end": 1021.48,
+      "text": "You had a windows phone for a decade and like it except for the lack of app support"
+    },
+    {
+      "id": 231,
+      "start": 1021.96,
+      "end": 1024.12,
+      "text": "I could see that being a problem google phones"
+    },
+    {
+      "id": 232,
+      "start": 1024.84,
+      "end": 1026.84,
+      "text": "Google's phone"
+    },
+    {
+      "id": 233,
+      "start": 1028.68,
+      "end": 1032.36,
+      "text": "Wait, it's a windows phone a thing. I'm talking about computers the phone"
+    },
+    {
+      "id": 234,
+      "start": 1033.4,
+      "end": 1036.92,
+      "text": "It probably has the same problems. You I mean people want to jailbreak them for a reason, right?"
+    },
+    {
+      "id": 235,
+      "start": 1038.52,
+      "end": 1040.36,
+      "text": "Whenever I have to do any weird"
+    },
+    {
+      "id": 236,
+      "start": 1040.36,
+      "end": 1044.52,
+      "text": "This has come up more than once whenever I have to emulate a cell phone on my computer"
+    },
+    {
+      "id": 237,
+      "start": 1045.0,
+      "end": 1047.0,
+      "text": "It's way easier to do it with non"
+    },
+    {
+      "id": 238,
+      "start": 1047.32,
+      "end": 1048.68,
+      "text": "iphone"
+    },
+    {
+      "id": 239,
+      "start": 1048.68,
+      "end": 1050.68,
+      "text": "Emulators that makes sense"
+    },
+    {
+      "id": 240,
+      "start": 1051.0,
+      "end": 1052.84,
+      "text": "I don't know why that's come up for me several times"
+    },
+    {
+      "id": 241,
+      "start": 1052.84,
+      "end": 1057.72,
+      "text": "But it has windows phone os needs to make a comeback. I have a unihertz tighten pocket"
+    },
+    {
+      "id": 242,
+      "start": 1058.28,
+      "end": 1064.44,
+      "text": "With the physical this is a preachy with a physical keyboard like a blackberry and it would be unstoppable with windows phone os"
+    },
+    {
+      "id": 243,
+      "start": 1066.2,
+      "end": 1069.88,
+      "text": "And back to sex sex offenders top five sex offenders rick. Can you count these down?"
+    },
+    {
+      "id": 244,
+      "start": 1070.12,
+      "end": 1075.72,
+      "text": "Coming in at number five according to live in sleazy. We have jimmy sevile number four donald trump"
+    },
+    {
+      "id": 245,
+      "start": 1076.2,
+      "end": 1078.2,
+      "text": "Okay, allegedly"
+    },
+    {
+      "id": 246,
+      "start": 1078.44,
+      "end": 1080.44,
+      "text": "Not even no"
+    },
+    {
+      "id": 247,
+      "start": 1081.0,
+      "end": 1083.0,
+      "text": "Allegedly no allegedly according to him. No"
+    },
+    {
+      "id": 248,
+      "start": 1083.56,
+      "end": 1085.56,
+      "text": "Number three harvey winestein"
+    },
+    {
+      "id": 249,
+      "start": 1086.12,
+      "end": 1089.16,
+      "text": "Number two prince andrew allegedly according to him. No"
+    },
+    {
+      "id": 250,
+      "start": 1090.04,
+      "end": 1096.2,
+      "text": "He can't say allegedly according to him. No all in one sentence. There's periods in there somewhere and it's not my responsibility to tell you where"
+    },
+    {
+      "id": 251,
+      "start": 1096.76,
+      "end": 1099.24,
+      "text": "And number one gary glitter. That's number one with"
+    },
+    {
+      "id": 252,
+      "start": 1100.2,
+      "end": 1102.2,
+      "text": "What should have probably been a literal bullet?"
+    },
+    {
+      "id": 253,
+      "start": 1103.8,
+      "end": 1105.8,
+      "text": "Yeah, those are such a rough list"
+    },
+    {
+      "id": 254,
+      "start": 1106.76,
+      "end": 1109.8,
+      "text": "It's an accurate possibly accurate but pretty rough list"
+    },
+    {
+      "id": 255,
+      "start": 1111.32,
+      "end": 1114.2,
+      "text": "Snorlaxing says when I took mobile development in school"
+    },
+    {
+      "id": 256,
+      "start": 1114.2,
+      "end": 1118.12,
+      "text": "You had to have an apple computer to emulate an iphone where android just worked"
+    },
+    {
+      "id": 257,
+      "start": 1118.76,
+      "end": 1122.52,
+      "text": "That's the kind of apple versus uh windows experience. I'm talking about"
+    },
+    {
+      "id": 258,
+      "start": 1122.6,
+      "end": 1125.08,
+      "text": "I just feel like a windows as an operating system is so much more flexible"
+    },
+    {
+      "id": 259,
+      "start": 1125.48,
+      "end": 1132.52,
+      "text": "Case in point. I have a pretty good windows laptop that I use for work when I have to work with clients that"
+    },
+    {
+      "id": 260,
+      "start": 1133.48,
+      "end": 1137.88,
+      "text": "tend to operate off of uh more of like an apple infrastructure and"
+    },
+    {
+      "id": 261,
+      "start": 1138.92,
+      "end": 1141.88,
+      "text": "It was so fucking hard to get this snap camera"
+    },
+    {
+      "id": 262,
+      "start": 1143.32,
+      "end": 1149.08,
+      "text": "Rip working on it that I just had to uh bell and get like a cheap secondary"
+    },
+    {
+      "id": 263,
+      "start": 1150.28,
+      "end": 1152.28,
+      "text": "laptop to run it on"
+    },
+    {
+      "id": 264,
+      "start": 1152.84,
+      "end": 1154.52,
+      "text": "That's the kind of thing"
+    },
+    {
+      "id": 265,
+      "start": 1154.52,
+      "end": 1156.68,
+      "text": "I feel like they're constantly fucking up for me"
+    },
+    {
+      "id": 266,
+      "start": 1159.02,
+      "end": 1162.06,
+      "text": "But those are very specific complaints if you're if you're just looking to like"
+    },
+    {
+      "id": 267,
+      "start": 1162.94,
+      "end": 1167.02,
+      "text": "Edit video or like play media or use a computer firmware"
+    },
+    {
+      "id": 268,
+      "start": 1167.9,
+      "end": 1169.9,
+      "text": "for less like"
+    },
+    {
+      "id": 269,
+      "start": 1170.3,
+      "end": 1173.58,
+      "text": "I don't know weird media projects then I could see it not being a problem"
+    },
+    {
+      "id": 270,
+      "start": 1173.58,
+      "end": 1178.78,
+      "text": "And it's I mean I've heard that their laptops in general are higher performing than um a lot of like"
+    },
+    {
+      "id": 271,
+      "start": 1179.26,
+      "end": 1181.42,
+      "text": "Dell laptops or like laptops that use windows"
+    },
+    {
+      "id": 272,
+      "start": 1182.38,
+      "end": 1185.02,
+      "text": "I don't know that stuff well enough to really to speak on it"
+    },
+    {
+      "id": 273,
+      "start": 1185.9,
+      "end": 1191.42,
+      "text": "Then shut up and talk about pedophiles already alleged pet. No one's a pedophile. There's no more pedophile"
+    },
+    {
+      "id": 274,
+      "start": 1191.42,
+      "end": 1197.93,
+      "text": "We got them all I think you're a little behind rick and not just because of your mouth. What do you mean?"
+    },
+    {
+      "id": 275,
+      "start": 1198.41,
+      "end": 1202.09,
+      "text": "I'm literally reading the most up-to-the-date news courtesy of yahoo"
+    },
+    {
+      "id": 276,
+      "start": 1202.81,
+      "end": 1204.17,
+      "text": "Anyway, he wrote"
+    },
+    {
+      "id": 277,
+      "start": 1204.17,
+      "end": 1207.61,
+      "text": "We're back to trump now. Okay. We're doing trump still we're still talking about trump"
+    },
+    {
+      "id": 278,
+      "start": 1207.61,
+      "end": 1210.49,
+      "text": "We're back to trump and we got to hurry up because you're on much time apparently"
+    },
+    {
+      "id": 279,
+      "start": 1210.97,
+      "end": 1215.37,
+      "text": "Anyway, he sent him a sexy letter that he didn't send he didn't trump didn't send him a sexy letter"
+    },
+    {
+      "id": 280,
+      "start": 1215.69,
+      "end": 1218.57,
+      "text": "Says trump and everyone else that's saying he did"
+    },
+    {
+      "id": 281,
+      "start": 1219.37,
+      "end": 1220.65,
+      "text": "prove it"
+    },
+    {
+      "id": 282,
+      "start": 1220.65,
+      "end": 1226.81,
+      "text": "But if you did believe it the letter concludes happy birthday and may every day be another wonderful secret"
+    },
+    {
+      "id": 283,
+      "start": 1230.63,
+      "end": 1235.19,
+      "text": "That's just a nice thing that friends say to each other. One of you ever asked a friend told a friend"
+    },
+    {
+      "id": 284,
+      "start": 1236.71,
+      "end": 1239.11,
+      "text": "It may every day be another wonderful secret"
+    },
+    {
+      "id": 285,
+      "start": 1239.83,
+      "end": 1241.83,
+      "text": "secrets"
+    },
+    {
+      "id": 286,
+      "start": 1242.07,
+      "end": 1245.27,
+      "text": "Can be the thing about a secret is it's like Schrodinger's"
+    },
+    {
+      "id": 287,
+      "start": 1246.07,
+      "end": 1251.19,
+      "text": "Happiness you don't know if it's good or bad until you open the box and see what the secret is"
+    },
+    {
+      "id": 288,
+      "start": 1251.75,
+      "end": 1253.75,
+      "text": "And if the box stays closed"
+    },
+    {
+      "id": 289,
+      "start": 1253.99,
+      "end": 1255.59,
+      "text": "then"
+    },
+    {
+      "id": 290,
+      "start": 1255.59,
+      "end": 1260.87,
+      "text": "The secret could always be incredibly pop pop positive and that's the that's our country right now"
+    },
+    {
+      "id": 291,
+      "start": 1261.43,
+      "end": 1263.43,
+      "text": "Everybody wants to open the box"
+    },
+    {
+      "id": 292,
+      "start": 1263.99,
+      "end": 1267.03,
+      "text": "But as long as we don't open the box. There's a 60 percent chance"
+    },
+    {
+      "id": 293,
+      "start": 1267.03,
+      "end": 1273.11,
+      "text": "There's an adorable kitten in it and if we open the box, there's a 40 percent chance to hire that it's full of"
+    },
+    {
+      "id": 294,
+      "start": 1273.99,
+      "end": 1275.99,
+      "text": "Stuff you just don't need to know about"
+    },
+    {
+      "id": 295,
+      "start": 1279.54,
+      "end": 1281.54,
+      "text": "I just can't take you seriously"
+    },
+    {
+      "id": 296,
+      "start": 1282.5,
+      "end": 1287.86,
+      "text": "When you're this glitchy looking i'm i'm glitching for america right now america you're glitching me out"
+    },
+    {
+      "id": 297,
+      "start": 1289.06,
+      "end": 1293.54,
+      "text": "And it's because you're stressing us as you're stressing us decision makers out with your nosiness"
+    },
+    {
+      "id": 298,
+      "start": 1293.94,
+      "end": 1297.62,
+      "text": "That's affecting polls that apparently mattered. Some people still damn it"
+    },
+    {
+      "id": 299,
+      "start": 1298.98,
+      "end": 1304.98,
+      "text": "The card could depict a trumpy finger going into an ass could this be a secret"
+    },
+    {
+      "id": 300,
+      "start": 1306.34,
+      "end": 1308.42,
+      "text": "Let's go with that they fingered each other's butts"
+    },
+    {
+      "id": 301,
+      "start": 1309.06,
+      "end": 1312.58,
+      "text": "Would that satisfy everyone a little humiliation but not"
+    },
+    {
+      "id": 302,
+      "start": 1313.86,
+      "end": 1315.86,
+      "text": "Legally as troubling"
+    },
+    {
+      "id": 303,
+      "start": 1317.22,
+      "end": 1320.26,
+      "text": "If they wanted we're you know if those two had just fingered each other's butts"
+    },
+    {
+      "id": 304,
+      "start": 1321.06,
+      "end": 1323.06,
+      "text": "Then I would say god bless"
+    },
+    {
+      "id": 305,
+      "start": 1323.06,
+      "end": 1325.7,
+      "text": "But their butts aren't the butts that were worried about"
+    },
+    {
+      "id": 306,
+      "start": 1327.74,
+      "end": 1330.7,
+      "text": "At least you said that terribly we I can at least enjoy that"
+    },
+    {
+      "id": 307,
+      "start": 1331.42,
+      "end": 1336.46,
+      "text": "In an interview with the journal trump denied writing the letter or drawing the picture. This is not me. See here we go"
+    },
+    {
+      "id": 308,
+      "start": 1337.18,
+      "end": 1340.46,
+      "text": "This is a fake thing. It's a fake wall street journal story"
+    },
+    {
+      "id": 309,
+      "start": 1341.58,
+      "end": 1345.26,
+      "text": "By that I'm assuming it is a it's a fault. They did put out a whole story on it"
+    },
+    {
+      "id": 310,
+      "start": 1345.58,
+      "end": 1350.7,
+      "text": "So that it's real that it's a story unfortunately, but it's fake. What he means to say is the story isn't true"
+    },
+    {
+      "id": 311,
+      "start": 1351.58,
+      "end": 1355.82,
+      "text": "uh, Donald trump and jeffrey eppstein pictured in 1992 uh, this is in the story"
+    },
+    {
+      "id": 312,
+      "start": 1357.66,
+      "end": 1362.7,
+      "text": "Look everybody loves these little gotcha photos of them hanging out and"
+    },
+    {
+      "id": 313,
+      "start": 1363.18,
+      "end": 1369.18,
+      "text": "Virginia guffrey worked at mara lago and that's where eppstein met her and"
+    },
+    {
+      "id": 314,
+      "start": 1370.22,
+      "end": 1378.62,
+      "text": "Trump openly dated a 20 year old woman that he said jis lane maxwell introduced him to and she seems to have known her"
+    },
+    {
+      "id": 315,
+      "start": 1378.7,
+      "end": 1384.62,
+      "text": "Possibly when she was younger than that and he said that jis lane maxwell introduced him to other women"
+    },
+    {
+      "id": 316,
+      "start": 1385.18,
+      "end": 1388.14,
+      "text": "In a tabloid in the 90s"
+    },
+    {
+      "id": 317,
+      "start": 1389.9,
+      "end": 1391.9,
+      "text": "So"
+    },
+    {
+      "id": 318,
+      "start": 1392.22,
+      "end": 1395.66,
+      "text": "I was I don't think most people are even aware of the stuff you're talking about right now rick"
+    },
+    {
+      "id": 319,
+      "start": 1397.58,
+      "end": 1399.58,
+      "text": "My point is stop talking about it"
+    },
+    {
+      "id": 320,
+      "start": 1400.7,
+      "end": 1406.7,
+      "text": "Geez what it's not like the guy was criminally accused of sexual assault by a 13 year old girl"
+    },
+    {
+      "id": 321,
+      "start": 1407.34,
+      "end": 1410.46,
+      "text": "He'd literally well she wasn't 13 when she accused him, but"
+    },
+    {
+      "id": 322,
+      "start": 1411.5,
+      "end": 1413.5,
+      "text": "But that case got thrown out so"
+    },
+    {
+      "id": 323,
+      "start": 1414.38,
+      "end": 1416.38,
+      "text": "Let's throw it all out"
+    },
+    {
+      "id": 324,
+      "start": 1416.86,
+      "end": 1418.86,
+      "text": "Throw it all out throw it all out"
+    },
+    {
+      "id": 325,
+      "start": 1419.42,
+      "end": 1421.42,
+      "text": "Every time it gets to a court it doesn't"
+    },
+    {
+      "id": 326,
+      "start": 1422.14,
+      "end": 1425.1,
+      "text": "Work so it must be a lie"
+    },
+    {
+      "id": 327,
+      "start": 1426.46,
+      "end": 1429.9,
+      "text": "Yeah, virginia guffrey. I think is her name. She did she did die"
+    },
+    {
+      "id": 328,
+      "start": 1430.86,
+      "end": 1432.22,
+      "text": "She died"
+    },
+    {
+      "id": 329,
+      "start": 1432.22,
+      "end": 1437.58,
+      "text": "You know and I've also seen people say she's not credible because she was caught lying about certain things"
+    },
+    {
+      "id": 330,
+      "start": 1440.01,
+      "end": 1442.01,
+      "text": "like like that would"
+    },
+    {
+      "id": 331,
+      "start": 1442.09,
+      "end": 1445.21,
+      "text": "Make everyone even if she was lying like"
+    },
+    {
+      "id": 332,
+      "start": 1446.17,
+      "end": 1448.49,
+      "text": "One of these victims who definitely wasn't lying about everything"
+    },
+    {
+      "id": 333,
+      "start": 1449.05,
+      "end": 1454.81,
+      "text": "Um, there's just so much shit at this point. There's just mountains and mountains and mountains of shit. I believe her too"
+    },
+    {
+      "id": 334,
+      "start": 1455.21,
+      "end": 1460.33,
+      "text": "I think there's like specific things where people like found contradictory facts to something or other"
+    },
+    {
+      "id": 335,
+      "start": 1461.13,
+      "end": 1463.13,
+      "text": "That's just so ridiculous like"
+    },
+    {
+      "id": 336,
+      "start": 1463.77,
+      "end": 1465.77,
+      "text": "I again, I don't even know"
+    },
+    {
+      "id": 337,
+      "start": 1466.25,
+      "end": 1468.25,
+      "text": "Exactly what happened. I don't know if trump"
+    },
+    {
+      "id": 338,
+      "start": 1469.05,
+      "end": 1471.05,
+      "text": "was directly involved with"
+    },
+    {
+      "id": 339,
+      "start": 1472.01,
+      "end": 1479.05,
+      "text": "Attacking women or if he just knew this guy really well. He's protecting other people. I suspect the"
+    },
+    {
+      "id": 340,
+      "start": 1479.85,
+      "end": 1485.85,
+      "text": "I suspect the more obvious option is true. Like if I had to go with my gut, I think donald trump is"
+    },
+    {
+      "id": 341,
+      "start": 1486.97,
+      "end": 1489.61,
+      "text": "You know, I try not to use this word that often but a rapist"
+    },
+    {
+      "id": 342,
+      "start": 1490.17,
+      "end": 1494.81,
+      "text": "He's been accused of it by multiple people at this point and he absolutely seems like one"
+    },
+    {
+      "id": 343,
+      "start": 1495.13,
+      "end": 1497.13,
+      "text": "So it would not surprise me at all"
+    },
+    {
+      "id": 344,
+      "start": 1497.85,
+      "end": 1500.89,
+      "text": "Um, and he was criminally liable for for rape. So like"
+    },
+    {
+      "id": 345,
+      "start": 1502.49,
+      "end": 1505.61,
+      "text": "That's just the fact that we even have to entertain this like delusion"
+    },
+    {
+      "id": 346,
+      "start": 1506.25,
+      "end": 1508.41,
+      "text": "that he's not a fucking creep and"
+    },
+    {
+      "id": 347,
+      "start": 1509.53,
+      "end": 1511.53,
+      "text": "Almost certainly did this shit is insane"
+    },
+    {
+      "id": 348,
+      "start": 1512.33,
+      "end": 1514.33,
+      "text": "but it's just so I guess"
+    },
+    {
+      "id": 349,
+      "start": 1515.37,
+      "end": 1517.13,
+      "text": "somehow this"
+    },
+    {
+      "id": 350,
+      "start": 1517.13,
+      "end": 1519.13,
+      "text": "Was not apparent to people"
+    },
+    {
+      "id": 351,
+      "start": 1519.21,
+      "end": 1524.41,
+      "text": "Both times they voted for him and it's and it's managing to create like at least a fissure in his"
+    },
+    {
+      "id": 352,
+      "start": 1525.37,
+      "end": 1527.13,
+      "text": "Um"
+    },
+    {
+      "id": 353,
+      "start": 1527.13,
+      "end": 1533.53,
+      "text": "podcasting wing the podcasting wing of the of the republican party is acting like this is some type of revelation"
+    },
+    {
+      "id": 354,
+      "start": 1534.49,
+      "end": 1539.45,
+      "text": "I don't know how aware like your average voter is of this stuff, but it's just it was so obvious"
+    },
+    {
+      "id": 355,
+      "start": 1540.41,
+      "end": 1545.37,
+      "text": "Back in 2016 that this is who he was. It's only become more obvious since he's been president"
+    },
+    {
+      "id": 356,
+      "start": 1546.09,
+      "end": 1551.13,
+      "text": "Uh, it's hard for me to believe that this is what's gonna take him down because it should have taken him down"
+    },
+    {
+      "id": 357,
+      "start": 1551.85,
+      "end": 1553.85,
+      "text": "17 times over"
+    },
+    {
+      "id": 358,
+      "start": 1553.93,
+      "end": 1557.61,
+      "text": "But I guess the specific conspiratorial nature of the epstein stuff"
+    },
+    {
+      "id": 359,
+      "start": 1558.17,
+      "end": 1563.05,
+      "text": "Makes it feel so deep rooted and troubling that I don't think people are going to be able to entirely move past it"
+    },
+    {
+      "id": 360,
+      "start": 1563.37,
+      "end": 1565.37,
+      "text": "Like that combined. I guess with him just"
+    },
+    {
+      "id": 361,
+      "start": 1565.93,
+      "end": 1568.33,
+      "text": "Going full like violence mode on a ran"
+    },
+    {
+      "id": 362,
+      "start": 1569.21,
+      "end": 1574.33,
+      "text": "Despite people not really wanting us to get it pulled into more conflicts. Maybe that one-two punch is actually gonna"
+    },
+    {
+      "id": 363,
+      "start": 1575.05,
+      "end": 1577.05,
+      "text": "Peel off support from him"
+    },
+    {
+      "id": 364,
+      "start": 1577.85,
+      "end": 1579.85,
+      "text": "We'll just have to wait and see"
+    },
+    {
+      "id": 365,
+      "start": 1580.09,
+      "end": 1582.09,
+      "text": "I don't think the birthday card is going to do it"
+    },
+    {
+      "id": 366,
+      "start": 1583.85,
+      "end": 1587.05,
+      "text": "This birthday card didn't do it because it's not it's just"
+    },
+    {
+      "id": 367,
+      "start": 1588.49,
+      "end": 1591.93,
+      "text": "It's just a store-bought card a store-bought card. They sold it at a store"
+    },
+    {
+      "id": 368,
+      "start": 1592.25,
+      "end": 1597.13,
+      "text": "They sold a store at a store. It was just the hate it was the card that was already pre-signed donald"
+    },
+    {
+      "id": 369,
+      "start": 1597.53,
+      "end": 1600.25,
+      "text": "And it was in the wacky card section of"
+    },
+    {
+      "id": 370,
+      "start": 1600.97,
+      "end": 1605.13,
+      "text": "The hallmark store that donald trump probably had in one of his towers"
+    },
+    {
+      "id": 371,
+      "start": 1605.93,
+      "end": 1609.93,
+      "text": "And it just came like that it came with that weird secret thing in the drawing of the naked woman"
+    },
+    {
+      "id": 372,
+      "start": 1609.93,
+      "end": 1612.01,
+      "text": "And he just he was in a rush. So that's the one he bought"
+    },
+    {
+      "id": 373,
+      "start": 1612.73,
+      "end": 1617.13,
+      "text": "Hmm is that in this news article you're reading? This is this is deep inside knowledge and I will"
+    },
+    {
+      "id": 374,
+      "start": 1618.17,
+      "end": 1624.09,
+      "text": "I will be quoted on this. No one's gonna quote you rick. Well, but they could I'm just saying if you want to put me in the news"
+    },
+    {
+      "id": 375,
+      "start": 1625.05,
+      "end": 1630.49,
+      "text": "Anyway, he the trump went on for more facts that aren't facts. We don't trust the news. It's not my language"
+    },
+    {
+      "id": 376,
+      "start": 1630.65,
+      "end": 1634.25,
+      "text": "It's not my words trump told a newspaper allegedly according to this newspaper"
+    },
+    {
+      "id": 377,
+      "start": 1634.65,
+      "end": 1638.89,
+      "text": "A type written note styled as an imaginary conversation between trump and epsi written in the third person"
+    },
+    {
+      "id": 378,
+      "start": 1638.89,
+      "end": 1642.57,
+      "text": "Is reportedly included inside the outline of the naked woman"
+    },
+    {
+      "id": 379,
+      "start": 1643.45,
+      "end": 1649.69,
+      "text": "In the imagined conversation trump reportedly says we have certain things in common jeffrey to which epsi replies"
+    },
+    {
+      "id": 380,
+      "start": 1649.69,
+      "end": 1651.69,
+      "text": "Yes, we do come to think of it"
+    },
+    {
+      "id": 381,
+      "start": 1652.81,
+      "end": 1655.69,
+      "text": "Onigmas never age. Have you noticed trump writes?"
+    },
+    {
+      "id": 382,
+      "start": 1657.69,
+      "end": 1659.69,
+      "text": "According to the journal"
+    },
+    {
+      "id": 383,
+      "start": 1660.17,
+      "end": 1665.21,
+      "text": "Um, I'm not unsettled by this. I just I my vision's not good today"
+    },
+    {
+      "id": 384,
+      "start": 1666.17,
+      "end": 1668.17,
+      "text": "Okay"
+    },
+    {
+      "id": 385,
+      "start": 1668.33,
+      "end": 1671.85,
+      "text": "Claims to have reviewed pages from a leather bound album of birthday cards"
+    },
+    {
+      "id": 386,
+      "start": 1672.41,
+      "end": 1676.73,
+      "text": "Examined by a department of justice officials who investigated epsi and his former girlfriend"
+    },
+    {
+      "id": 387,
+      "start": 1677.21,
+      "end": 1679.21,
+      "text": "Just in just laying at max well"
+    },
+    {
+      "id": 388,
+      "start": 1680.33,
+      "end": 1683.45,
+      "text": "The revelation follows a disastrous week for trump which we don't need to get into"
+    },
+    {
+      "id": 389,
+      "start": 1684.89,
+      "end": 1689.45,
+      "text": "So fucking creepy with not even that weird even if it was true"
+    },
+    {
+      "id": 390,
+      "start": 1689.77,
+      "end": 1694.97,
+      "text": "Which it's not says the president who we need to trust because we elected him to be our commander"
+    },
+    {
+      "id": 391,
+      "start": 1695.37,
+      "end": 1699.77,
+      "text": "In honesty and why would he lie about this? Why wouldn't he lie about this?"
+    },
+    {
+      "id": 392,
+      "start": 1702.84,
+      "end": 1708.2,
+      "text": "This this could be the kind of thing though like this is just creepy. So it's somewhat fascinating"
+    },
+    {
+      "id": 393,
+      "start": 1709.16,
+      "end": 1710.52,
+      "text": "um"
+    },
+    {
+      "id": 394,
+      "start": 1710.52,
+      "end": 1712.52,
+      "text": "But it could be the kind of story that never"
+    },
+    {
+      "id": 395,
+      "start": 1713.48,
+      "end": 1714.52,
+      "text": "really"
+    },
+    {
+      "id": 396,
+      "start": 1714.52,
+      "end": 1716.52,
+      "text": "syncs into like uh"
+    },
+    {
+      "id": 397,
+      "start": 1717.16,
+      "end": 1721.88,
+      "text": "Being accepted as fact like the leaked um like biden's daughter had a leaked"
+    },
+    {
+      "id": 398,
+      "start": 1722.6,
+      "end": 1724.6,
+      "text": "uh"
+    },
+    {
+      "id": 399,
+      "start": 1724.76,
+      "end": 1727.64,
+      "text": "Journal she like had a journal that supposedly leaked"
+    },
+    {
+      "id": 400,
+      "start": 1728.28,
+      "end": 1733.0,
+      "text": "And in that journal she talked about taking showers with her dad when she was like a teenager"
+    },
+    {
+      "id": 401,
+      "start": 1734.12,
+      "end": 1738.76,
+      "text": "But that never really rose to the level of being accepted commonly as fact"
+    },
+    {
+      "id": 402,
+      "start": 1739.72,
+      "end": 1742.2,
+      "text": "To the point where i'm not even sure if it's that that's like legit or not"
+    },
+    {
+      "id": 403,
+      "start": 1742.2,
+      "end": 1747.08,
+      "text": "It was it was very in right wing circles. I could imagine this kind of thing sort of being more"
+    },
+    {
+      "id": 404,
+      "start": 1748.68,
+      "end": 1751.56,
+      "text": "Like the left wing version of that but the heat is on him"
+    },
+    {
+      "id": 405,
+      "start": 1752.12,
+      "end": 1759.56,
+      "text": "So hard right now trump that is not biden biden's heat is very much fading dark soul style"
+    },
+    {
+      "id": 406,
+      "start": 1760.28,
+      "end": 1765.08,
+      "text": "Uh, the heat is on trump so hard right now that it's just like the the chips keeps stacking up"
+    },
+    {
+      "id": 407,
+      "start": 1765.8,
+      "end": 1767.8,
+      "text": "I don't know"
+    },
+    {
+      "id": 408,
+      "start": 1768.2,
+      "end": 1773.56,
+      "text": "There's no incentive for him to actually release any of these things in a way that will get him legally in trouble"
+    },
+    {
+      "id": 409,
+      "start": 1773.56,
+      "end": 1777.96,
+      "text": "So I just and as long as he's got the reigns of the party, which I don't see going anywhere"
+    },
+    {
+      "id": 410,
+      "start": 1778.36,
+      "end": 1782.12,
+      "text": "I don't see him losing those reigns anytime soon. He's roman reigning over the party"
+    },
+    {
+      "id": 411,
+      "start": 1783.16,
+      "end": 1787.24,
+      "text": "I just I I feel again like all of this is going to just be kind of circling outrage"
+    },
+    {
+      "id": 412,
+      "start": 1788.04,
+      "end": 1792.2,
+      "text": "Where everything is just constantly denied and everyone basically knows"
+    },
+    {
+      "id": 413,
+      "start": 1793.08,
+      "end": 1796.28,
+      "text": "more or less everyone has a vague sense of what actually happened, but"
+    },
+    {
+      "id": 414,
+      "start": 1797.08,
+      "end": 1802.68,
+      "text": "There's just no way that anyone will hold him legally culpable for it. I know that democrats have introduced"
+    },
+    {
+      "id": 415,
+      "start": 1803.56,
+      "end": 1804.68,
+      "text": "Um"
+    },
+    {
+      "id": 416,
+      "start": 1804.68,
+      "end": 1805.88,
+      "text": "Like"
+    },
+    {
+      "id": 417,
+      "start": 1805.88,
+      "end": 1809.72,
+      "text": "Or they're trying to introduce legislation to be voted on to release the eppstein files"
+    },
+    {
+      "id": 418,
+      "start": 1810.44,
+      "end": 1816.84,
+      "text": "Legislation, I don't even know what it would be there. They're trying to like bring it to a vote to release the eppstein files certain democrats"
+    },
+    {
+      "id": 419,
+      "start": 1817.64,
+      "end": 1821.0,
+      "text": "I don't know how that's going or where that will go"
+    },
+    {
+      "id": 420,
+      "start": 1821.56,
+      "end": 1825.4,
+      "text": "But it would be good if they could at least use this moment a discharge petition"
+    },
+    {
+      "id": 421,
+      "start": 1825.48,
+      "end": 1826.76,
+      "text": "Thank you bonsai bullfrog"
+    },
+    {
+      "id": 422,
+      "start": 1826.76,
+      "end": 1829.16,
+      "text": "Would be good if the democrats could get their shit together"
+    },
+    {
+      "id": 423,
+      "start": 1829.56,
+      "end": 1836.76,
+      "text": "For just even half a second to make everyone go on the record and vote against these files being released, which I think"
+    },
+    {
+      "id": 424,
+      "start": 1837.48,
+      "end": 1840.44,
+      "text": "Trump would have to whip at least the republicans to vote against it"
+    },
+    {
+      "id": 425,
+      "start": 1841.08,
+      "end": 1846.04,
+      "text": "The fucked up thing though is I'm assuming democrats would also have to vote against it because"
+    },
+    {
+      "id": 426,
+      "start": 1847.48,
+      "end": 1851.96,
+      "text": "Again, the only thing that really makes sense to me here is that these files implicate"
+    },
+    {
+      "id": 427,
+      "start": 1852.76,
+      "end": 1857.0,
+      "text": "people on both sides of the political spectrum from all over the place"
+    },
+    {
+      "id": 428,
+      "start": 1857.72,
+      "end": 1859.72,
+      "text": "The only thing that doesn't make sense to me about that"
+    },
+    {
+      "id": 429,
+      "start": 1860.2,
+      "end": 1862.36,
+      "text": "Like line of reasoning is if"
+    },
+    {
+      "id": 430,
+      "start": 1863.24,
+      "end": 1868.84,
+      "text": "All of our national power brokers are the ones in charge of stewarding these files and these revelations"
+    },
+    {
+      "id": 431,
+      "start": 1870.6,
+      "end": 1876.12,
+      "text": "Why wouldn't they just manipulate them like trump's talking about how how biden manipulated them to make him look bad"
+    },
+    {
+      "id": 432,
+      "start": 1876.6,
+      "end": 1879.8,
+      "text": "I don't understand why trump isn't just manipulating them to make the democrats look bad"
+    },
+    {
+      "id": 433,
+      "start": 1880.6,
+      "end": 1886.52,
+      "text": "I guess it's just like all of the norms have been so shattered. I can't imagine that these things aren't basically up for sale"
+    },
+    {
+      "id": 434,
+      "start": 1887.0,
+      "end": 1889.0,
+      "text": "Like I don't know why"
+    },
+    {
+      "id": 435,
+      "start": 1889.0,
+      "end": 1891.0,
+      "text": "The state department or the fbi"
+    },
+    {
+      "id": 436,
+      "start": 1891.4,
+      "end": 1894.76,
+      "text": "Wouldn't be you couldn't just manipulate them into manipulating the documents"
+    },
+    {
+      "id": 437,
+      "start": 1895.32,
+      "end": 1898.44,
+      "text": "Um, but maybe I'm being too nihilistic. Maybe there's still"
+    },
+    {
+      "id": 438,
+      "start": 1899.16,
+      "end": 1902.52,
+      "text": "Enough credibility when these investigations happen that they just uncover things"
+    },
+    {
+      "id": 439,
+      "start": 1902.92,
+      "end": 1907.0,
+      "text": "Then again, half the things they could uncover would probably just be shit. Again, we already know"
+    },
+    {
+      "id": 440,
+      "start": 1907.64,
+      "end": 1909.24,
+      "text": "um, so"
+    },
+    {
+      "id": 441,
+      "start": 1909.24,
+      "end": 1913.24,
+      "text": "I don't know we'll see we'll see how much this continues to be a story"
+    },
+    {
+      "id": 442,
+      "start": 1913.24,
+      "end": 1920.28,
+      "text": "Two a exists for a reason. I don't I'm too dumb to even know what two a is in this context live in sleazy"
+    },
+    {
+      "id": 443,
+      "start": 1922.97,
+      "end": 1924.97,
+      "text": "Ready for a great stream"
+    },
+    {
+      "id": 444,
+      "start": 1925.37,
+      "end": 1930.89,
+      "text": "With many wonderful secrets. Thank you. Thank you, my friend you and I what did he say?"
+    },
+    {
+      "id": 445,
+      "start": 1931.53,
+      "end": 1933.53,
+      "text": "That is one of the more insane"
+    },
+    {
+      "id": 446,
+      "start": 1933.77,
+      "end": 1935.77,
+      "text": "Things I've heard written"
+    },
+    {
+      "id": 447,
+      "start": 1936.01,
+      "end": 1938.01,
+      "text": "enigmas never age"
+    },
+    {
+      "id": 448,
+      "start": 1938.33,
+      "end": 1943.53,
+      "text": "Keep that in mind us enigmas we never age. Whoa, you're claiming to be an enigma now"
+    },
+    {
+      "id": 449,
+      "start": 1943.85,
+      "end": 1945.85,
+      "text": "I'm just trying to sound presidential personally"
+    },
+    {
+      "id": 450,
+      "start": 1946.57,
+      "end": 1949.45,
+      "text": "I'm studying up on how to be an orator like donald trump"
+    },
+    {
+      "id": 451,
+      "start": 1950.73,
+      "end": 1956.49,
+      "text": "E gene carol would uh disagree with the every time it goes to court thing fair enough"
+    },
+    {
+      "id": 452,
+      "start": 1957.29,
+      "end": 1960.89,
+      "text": "They couldn't hide the fact that they edited the video in the metadata exactly"
+    },
+    {
+      "id": 453,
+      "start": 1961.37,
+      "end": 1964.33,
+      "text": "But I just mean like if you're if you control the spigot"
+    },
+    {
+      "id": 454,
+      "start": 1965.37,
+      "end": 1967.37,
+      "text": "Then you can kind of"
+    },
+    {
+      "id": 455,
+      "start": 1967.37,
+      "end": 1969.37,
+      "text": "Control the flow of information. I'm assuming"
+    },
+    {
+      "id": 456,
+      "start": 1970.33,
+      "end": 1974.25,
+      "text": "But maybe not I mean, you know the government's so big and cumbersome maybe"
+    },
+    {
+      "id": 457,
+      "start": 1975.93,
+      "end": 1980.89,
+      "text": "Maybe there just is legitimately a file that's like and then on this day donald trump was hanging out with"
+    },
+    {
+      "id": 458,
+      "start": 1981.13,
+      "end": 1985.05,
+      "text": "Epstein at his pedophile mansion and there were this many 15 year old girls there"
+    },
+    {
+      "id": 459,
+      "start": 1985.53,
+      "end": 1988.09,
+      "text": "And there's just no way for him to like edit that shit out of there"
+    },
+    {
+      "id": 460,
+      "start": 1990.34,
+      "end": 1993.42,
+      "text": "We'll see"
+    },
+    {
+      "id": 461,
+      "start": 1993.42,
+      "end": 1995.58,
+      "text": "Yeah, we're this all but spigot control"
+    },
+    {
+      "id": 462,
+      "start": 1996.94,
+      "end": 1999.98,
+      "text": "The whole government is just about spigot control"
+    },
+    {
+      "id": 463,
+      "start": 2003.5,
+      "end": 2007.82,
+      "text": "Was there a wrestler the enigma there has to have been or at least it was"
+    },
+    {
+      "id": 464,
+      "start": 2008.78,
+      "end": 2010.78,
+      "text": "Like the nickname in front of a wrestler's name"
+    },
+    {
+      "id": 465,
+      "start": 2012.14,
+      "end": 2014.14,
+      "text": "Louis baton the enigma"
+    },
+    {
+      "id": 466,
+      "start": 2014.38,
+      "end": 2019.5,
+      "text": "There should be a wrestler named Louis baton the enigma. I've decided even if it's a brand just do it anyway"
+    },
+    {
+      "id": 467,
+      "start": 2020.78,
+      "end": 2023.58,
+      "text": "Jeff Hardy was the charismatic enigma. That's a good point"
+    },
+    {
+      "id": 468,
+      "start": 2025.18,
+      "end": 2029.42,
+      "text": "They just fully released the attorney involved in the Epstein case would be allowed to release what they have"
+    },
+    {
+      "id": 469,
+      "start": 2029.74,
+      "end": 2035.82,
+      "text": "Well, they just fired uh, James Comey's daughter who I guess was involved in the Epstein investigation"
+    },
+    {
+      "id": 470,
+      "start": 2037.1,
+      "end": 2039.1,
+      "text": "um"
+    },
+    {
+      "id": 471,
+      "start": 2039.1,
+      "end": 2041.1,
+      "text": "Though given her handling of"
+    },
+    {
+      "id": 472,
+      "start": 2041.26,
+      "end": 2043.26,
+      "text": "The p-ditty trial"
+    },
+    {
+      "id": 473,
+      "start": 2043.26,
+      "end": 2044.94,
+      "text": "I can't say"
+    },
+    {
+      "id": 474,
+      "start": 2044.94,
+      "end": 2049.1,
+      "text": "Her batting record against rapists and pedophiles feels particularly strong"
+    },
+    {
+      "id": 475,
+      "start": 2051.02,
+      "end": 2055.82,
+      "text": "But I'm also kind of surprised she was still around given how much trump"
+    },
+    {
+      "id": 476,
+      "start": 2056.54,
+      "end": 2060.7,
+      "text": "Uh, you know hates the Comey's he hates Comey's"
+    },
+    {
+      "id": 477,
+      "start": 2061.98,
+      "end": 2064.22,
+      "text": "Kind of sounds like a fun product when you say it like that"
+    },
+    {
+      "id": 478,
+      "start": 2065.42,
+      "end": 2067.42,
+      "text": "So anyway, you're out of time case"
+    },
+    {
+      "id": 479,
+      "start": 2068.46,
+      "end": 2071.98,
+      "text": "You got to just hard cut to munch and do a a uh"
+    },
+    {
+      "id": 480,
+      "start": 2073.34,
+      "end": 2078.46,
+      "text": "Debate that's true. There's no time to wait a quick debate. It's time for munching crumbs"
+    },
+    {
+      "id": 481,
+      "start": 2079.34,
+      "end": 2101.96,
+      "text": "How am I supposed to debate under these circumstances?"
+    },
+    {
+      "id": 482,
+      "start": 2102.84,
+      "end": 2105.16,
+      "text": "Growing to me when I only got five minutes to do this"
+    },
+    {
+      "id": 483,
+      "start": 2106.28,
+      "end": 2109.96,
+      "text": "For a topic as meaningful as hard shell versus soft shell tacos"
+    },
+    {
+      "id": 484,
+      "start": 2110.52,
+      "end": 2121.06,
+      "text": "Let's see if uh"
+    },
+    {
+      "id": 485,
+      "start": 2121.06,
+      "end": 2123.06,
+      "text": "See if this still works"
+    },
+    {
+      "id": 486,
+      "start": 2123.06,
+      "end": 2125.78,
+      "text": "Is your is your speaking spell working today? Yum yum yum"
+    },
+    {
+      "id": 487,
+      "start": 2129.37,
+      "end": 2131.37,
+      "text": "Okay, it is working I guess"
+    },
+    {
+      "id": 488,
+      "start": 2132.09,
+      "end": 2134.09,
+      "text": "Good to know"
+    },
+    {
+      "id": 489,
+      "start": 2134.89,
+      "end": 2136.89,
+      "text": "What's that you more to say"
+    },
+    {
+      "id": 490,
+      "start": 2137.93,
+      "end": 2139.93,
+      "text": "constantly saying"
+    },
+    {
+      "id": 491,
+      "start": 2140.17,
+      "end": 2145.21,
+      "text": "Things to me"
+    },
+    {
+      "id": 492,
+      "start": 2145.29,
+      "end": 2147.29,
+      "text": "Munch love soft shell"
+    },
+    {
+      "id": 493,
+      "start": 2148.41,
+      "end": 2152.25,
+      "text": "That's actually true soft shell is the traditional"
+    },
+    {
+      "id": 494,
+      "start": 2153.53,
+      "end": 2154.89,
+      "text": "taco"
+    },
+    {
+      "id": 495,
+      "start": 2154.89,
+      "end": 2156.49,
+      "text": "arrangement"
+    },
+    {
+      "id": 496,
+      "start": 2156.49,
+      "end": 2162.41,
+      "text": "But just do nachos if you're gonna do nachos nachos are a superior way to scoop up ingredients into your mouth anyway"
+    },
+    {
+      "id": 497,
+      "start": 2163.53,
+      "end": 2165.77,
+      "text": "Yeah, traditional and as we all know"
+    },
+    {
+      "id": 498,
+      "start": 2166.73,
+      "end": 2169.13,
+      "text": "I've claimed to be mexican on this stream before"
+    },
+    {
+      "id": 499,
+      "start": 2170.33,
+      "end": 2178.18,
+      "text": "Isn't that right crumb?"
+    },
+    {
+      "id": 500,
+      "start": 2178.18,
+      "end": 2180.18,
+      "text": "I prefer burritos"
+    },
+    {
+      "id": 501,
+      "start": 2181.06,
+      "end": 2192.26,
+      "text": "Okay, well that's convenient. Wait, that's not an option you fucking bastard. I only eat white foods"
+    },
+    {
+      "id": 502,
+      "start": 2193.62,
+      "end": 2195.62,
+      "text": "That sounds about right"
+    },
+    {
+      "id": 503,
+      "start": 2195.62,
+      "end": 2197.62,
+      "text": "That does sound about right for you"
+    },
+    {
+      "id": 504,
+      "start": 2198.98,
+      "end": 2200.98,
+      "text": "So disappointing"
+    },
+    {
+      "id": 505,
+      "start": 2201.3,
+      "end": 2205.38,
+      "text": "I miss my numby"
+    },
+    {
+      "id": 506,
+      "start": 2205.38,
+      "end": 2211.38,
+      "text": "Maybe this thing really works, you know, I was wondering if it did but I can't imagine anyone other than you saying some shit like that"
+    },
+    {
+      "id": 507,
+      "start": 2211.38,
+      "end": 2214.02,
+      "text": "That's disgusting. It's a disgusting thing to say"
+    },
+    {
+      "id": 508,
+      "start": 2214.5,
+      "end": 2216.5,
+      "text": "Yummy crunchy taco in my tummy"
+    },
+    {
+      "id": 509,
+      "start": 2217.7,
+      "end": 2219.7,
+      "text": "All right for anyone who doesn't know"
+    },
+    {
+      "id": 510,
+      "start": 2219.78,
+      "end": 2226.26,
+      "text": "Look crump seems to damage his vocal cords. I got him this device so that he can talk to me the very real him"
+    },
+    {
+      "id": 511,
+      "start": 2226.34,
+      "end": 2228.98,
+      "text": "Who's definitely still alive and how could he not be listen to him go?"
+    },
+    {
+      "id": 512,
+      "start": 2230.5,
+      "end": 2232.5,
+      "text": "Listen to him go crumb"
+    },
+    {
+      "id": 513,
+      "start": 2233.38,
+      "end": 2235.38,
+      "text": "He lost those flaccid shells"
+    },
+    {
+      "id": 514,
+      "start": 2237.14,
+      "end": 2238.18,
+      "text": "No, I'm"
+    },
+    {
+      "id": 515,
+      "start": 2238.18,
+      "end": 2242.1,
+      "text": "I'm saying first of all soft shell the soft taco is not flaccid"
+    },
+    {
+      "id": 516,
+      "start": 2242.58,
+      "end": 2244.58,
+      "text": "If anything it should be filled to bursting"
+    },
+    {
+      "id": 517,
+      "start": 2244.9,
+      "end": 2251.38,
+      "text": "Okay, and that makes it stiff in its own way like an overstuffed burrito. We don't have much time left. I gotta fucking go"
+    },
+    {
+      "id": 518,
+      "start": 2251.62,
+      "end": 2256.02,
+      "text": "So i'm soft shell you're apparently a maniac and love hard shell tacos disgusting to say"
+    },
+    {
+      "id": 519,
+      "start": 2256.58,
+      "end": 2260.34,
+      "text": "Uh, but I will bravely defend the side of the angels here for my proud mexican people"
+    },
+    {
+      "id": 520,
+      "start": 2260.82,
+      "end": 2263.46,
+      "text": "Um, which I am claiming to 100 represent"
+    },
+    {
+      "id": 521,
+      "start": 2265.88,
+      "end": 2268.04,
+      "text": "No one here to give me pushback on that. I'm realizing"
+    },
+    {
+      "id": 522,
+      "start": 2268.52,
+      "end": 2270.52,
+      "text": "Which is fine"
+    },
+    {
+      "id": 523,
+      "start": 2270.84,
+      "end": 2274.68,
+      "text": "It's fine when I have to sit in the statements that I make and no one can disagree with them right away"
+    },
+    {
+      "id": 524,
+      "start": 2278.79,
+      "end": 2287.46,
+      "text": "Unless they want to"
+    },
+    {
+      "id": 525,
+      "start": 2287.46,
+      "end": 2289.46,
+      "text": "No munch is still a broke"
+    },
+    {
+      "id": 526,
+      "start": 2291.54,
+      "end": 2293.54,
+      "text": "Okay, look, um"
+    },
+    {
+      "id": 527,
+      "start": 2293.62,
+      "end": 2295.62,
+      "text": "It's just you miss coach magurg"
+    },
+    {
+      "id": 528,
+      "start": 2296.9,
+      "end": 2300.5,
+      "text": "That's insane to say no one no one misses that man a trader"
+    },
+    {
+      "id": 529,
+      "start": 2301.14,
+      "end": 2304.74,
+      "text": "A trader. I don't even want his support and I don't and I never wanted it"
+    },
+    {
+      "id": 530,
+      "start": 2304.74,
+      "end": 2308.1,
+      "text": "And I don't need it because uh, he probably wants to give it back and I don't even care"
+    },
+    {
+      "id": 531,
+      "start": 2308.5,
+      "end": 2313.54,
+      "text": "I've rejected him. He didn't reject me and the point is soft shell tacos are better"
+    },
+    {
+      "id": 532,
+      "start": 2314.26,
+      "end": 2317.54,
+      "text": "Because look if you're too hard and you're come this our best"
+    },
+    {
+      "id": 533,
+      "start": 2317.7,
+      "end": 2322.18,
+      "text": "It's my turn to talk actually it's actually my turn to talk. I'm currently the one disgusting soft shell tacos"
+    },
+    {
+      "id": 534,
+      "start": 2322.9,
+      "end": 2327.3,
+      "text": "Look the point is uh, you you want a flexible taco because what's just got us"
+    },
+    {
+      "id": 535,
+      "start": 2327.94,
+      "end": 2332.5,
+      "text": "What about fucking to status? We're not talking about that grumb point is soft shell tacos are more malleable"
+    },
+    {
+      "id": 536,
+      "start": 2332.5,
+      "end": 2334.5,
+      "text": "You can stuff them with more meats and delicious"
+    },
+    {
+      "id": 537,
+      "start": 2334.66,
+      "end": 2336.66,
+      "text": "Join the cream team patreon"
+    },
+    {
+      "id": 538,
+      "start": 2336.66,
+      "end": 2340.66,
+      "text": "The quick fucking plug in the patreon right now. We're trying to have an actual discussion about"
+    },
+    {
+      "id": 539,
+      "start": 2341.3,
+      "end": 2342.58,
+      "text": "I'm scared"
+    },
+    {
+      "id": 540,
+      "start": 2342.58,
+      "end": 2346.9,
+      "text": "Yeah, I bet you're scared you're scared because I'm hitting you with facts like that soft shell tacos are frankly superior"
+    },
+    {
+      "id": 541,
+      "start": 2346.9,
+      "end": 2350.58,
+      "text": "It's easier to get in your mouth. You can't have a taco without baha blast"
+    },
+    {
+      "id": 542,
+      "start": 2350.9,
+      "end": 2356.42,
+      "text": "You you absolutely can you can have a diet coke you can have a agua fresca you can have a jarito"
+    },
+    {
+      "id": 543,
+      "start": 2357.06,
+      "end": 2360.34,
+      "text": "Haritos on your hard shell so with sour cream"
+    },
+    {
+      "id": 544,
+      "start": 2360.5,
+      "end": 2365.7,
+      "text": "You fucking wish you could cream up your soul your soul is as dry as a goddamn badgat left out in the desert"
+    },
+    {
+      "id": 545,
+      "start": 2367.46,
+      "end": 2370.26,
+      "text": "You I don't you don't even know how to say his fucking name. How could you miss him?"
+    },
+    {
+      "id": 546,
+      "start": 2371.06,
+      "end": 2375.46,
+      "text": "Do you actually have anything to fucking say about soft shell tacos or hard shell tacos?"
+    },
+    {
+      "id": 547,
+      "start": 2390.34,
+      "end": 2396.9,
+      "text": "Because while trying not the idea of hard shells you can have nachos you can have taco salad"
+    },
+    {
+      "id": 548,
+      "start": 2397.86,
+      "end": 2400.1,
+      "text": "What do you get when your taco falls apart?"
+    },
+    {
+      "id": 549,
+      "start": 2401.14,
+      "end": 2405.14,
+      "text": "Depression and rejection which I know you're all too familiar with"
+    },
+    {
+      "id": 550,
+      "start": 2407.48,
+      "end": 2409.48,
+      "text": "Are you fucking done? Jesus"
+    },
+    {
+      "id": 551,
+      "start": 2412.33,
+      "end": 2414.33,
+      "text": "How's it feel to lose suck my wife?"
+    },
+    {
+      "id": 552,
+      "start": 2420.79,
+      "end": 2422.79,
+      "text": "Just gonna ignore that because I'm one"
+    },
+    {
+      "id": 553,
+      "start": 2423.91,
+      "end": 2426.15,
+      "text": "Whoa, don't need to win in that way"
+    },
+    {
+      "id": 554,
+      "start": 2426.15,
+      "end": 2428.15,
+      "text": "Hey"
+    },
+    {
+      "id": 555,
+      "start": 2428.15,
+      "end": 2430.15,
+      "text": "Can't even find your wife actually"
+    },
+    {
+      "id": 556,
+      "start": 2431.35,
+      "end": 2436.79,
+      "text": "You could get a hold of her that'd be very helpful because I don't know where to send you after work"
+    },
+    {
+      "id": 557,
+      "start": 2436.87,
+      "end": 2438.87,
+      "text": "You just sit here and it's unsettling"
+    },
+    {
+      "id": 558,
+      "start": 2440.97,
+      "end": 2442.97,
+      "text": "Oh, shit. You didn't win"
+    },
+    {
+      "id": 559,
+      "start": 2444.89,
+      "end": 2448.74,
+      "text": "Yeah, no one's getting points for that"
+    },
+    {
+      "id": 560,
+      "start": 2448.98,
+      "end": 2450.98,
+      "text": "Turn it turn his music off"
+    },
+    {
+      "id": 561,
+      "start": 2451.46,
+      "end": 2454.02,
+      "text": "And reduce his score. That's ridiculous one second"
+    },
+    {
+      "id": 562,
+      "start": 2455.14,
+      "end": 2457.14,
+      "text": "Boom"
+    },
+    {
+      "id": 563,
+      "start": 2457.38,
+      "end": 2460.66,
+      "text": "Trying to steal my victory you truly must think that you're"
+    },
+    {
+      "id": 564,
+      "start": 2461.3,
+      "end": 2464.98,
+      "text": "Unkillable if you're trying to pull some shit like that my hard earned victory"
+    },
+    {
+      "id": 565,
+      "start": 2465.06,
+      "end": 2470.98,
+      "text": "I already gave you six points out of the kindness of my heart because I felt so bad for you being so fucking pathetic all the time"
+    },
+    {
+      "id": 566,
+      "start": 2471.78,
+      "end": 2473.78,
+      "text": "Jesus I gotta fucking go"
+    },
+    {
+      "id": 567,
+      "start": 2476.44,
+      "end": 2483.24,
+      "text": "Munchie tortoise if you know what I mean. I don't know what that means. What would that even fucking mean from realistically?"
+    },
+    {
+      "id": 568,
+      "start": 2484.2,
+      "end": 2486.2,
+      "text": "You took eating from me"
+    },
+    {
+      "id": 569,
+      "start": 2489.34,
+      "end": 2493.34,
+      "text": "First of all you took it from yourself with your bad behavior and your gambling"
+    },
+    {
+      "id": 570,
+      "start": 2493.34,
+      "end": 2495.74,
+      "text": "I want to boom boom boom and a zoom zoom"
+    },
+    {
+      "id": 571,
+      "start": 2496.54,
+      "end": 2501.5,
+      "text": "I'll bet you do and we would all support you doing anything other than sitting still"
+    },
+    {
+      "id": 572,
+      "start": 2501.9,
+      "end": 2503.9,
+      "text": "I will stuff your taco dry"
+    },
+    {
+      "id": 573,
+      "start": 2505.7,
+      "end": 2511.7,
+      "text": "I bet you would love whatever anyone know that is to make sense, but you cannot even step"
+    },
+    {
+      "id": 574,
+      "start": 2512.42,
+      "end": 2514.42,
+      "text": "to this"
+    },
+    {
+      "id": 575,
+      "start": 2526.82,
+      "end": 2528.82,
+      "text": "Your voice thing just malfunction"
+    },
+    {
+      "id": 576,
+      "start": 2529.78,
+      "end": 2533.46,
+      "text": "Because that wouldn't be surprising hell is too hard for soft tacos"
+    },
+    {
+      "id": 577,
+      "start": 2534.34,
+      "end": 2540.42,
+      "text": "But in hell the hard shells always stab the roof of your mouth. All right, look we gotta fucking go"
+    },
+    {
+      "id": 578,
+      "start": 2540.98,
+      "end": 2546.02,
+      "text": "I'm we're gonna raid somebody. I guess I'll do it because someone's being so lazy today"
+    },
+    {
+      "id": 579,
+      "start": 2549.67,
+      "end": 2552.71,
+      "text": "Trying to swoop me with your malfunctioning voice box"
+    },
+    {
+      "id": 580,
+      "start": 2553.27,
+      "end": 2558.95,
+      "text": "I'm not that easily scared by whatever you think that even was okay. Don't do it again"
+    },
+    {
+      "id": 581,
+      "start": 2559.91,
+      "end": 2567.66,
+      "text": "Please is someone looking after my mummy. I hope it's okay. There's no time for this. Uh, let's raid Bruce Green"
+    },
+    {
+      "id": 582,
+      "start": 2567.98,
+      "end": 2577.46,
+      "text": "Actually, let's raid Ricky Pica"
+    },
+    {
+      "id": 583,
+      "start": 2577.54,
+      "end": 2582.34,
+      "text": "Uh, good. Thank you red jacket is a cool nickname and I will absolutely take that melty bond torture"
+    },
+    {
+      "id": 584,
+      "start": 2582.66,
+      "end": 2584.82,
+      "text": "Unlike your nickname, which is still just"
+    },
+    {
+      "id": 585,
+      "start": 2592.68,
+      "end": 2597.08,
+      "text": "Sorry for the quick stream today. I don't really understand what's happening. You might be getting actually haunted"
+    },
+    {
+      "id": 586,
+      "start": 2598.28,
+      "end": 2600.28,
+      "text": "What what did you even just say?"
+    },
+    {
+      "id": 587,
+      "start": 2600.6,
+      "end": 2602.12,
+      "text": "Jesus christ"
+    },
+    {
+      "id": 588,
+      "start": 2602.12,
+      "end": 2605.48,
+      "text": "Let's play the credits and then let's actually use it as the end of the stream for once"
+    },
+    {
+      "id": 589,
+      "start": 2607.24,
+      "end": 2609.24,
+      "text": "Yeah, well"
+    },
+    {
+      "id": 590,
+      "start": 2612.49,
+      "end": 2614.49,
+      "text": "What'd you say about my mother taco"
+    },
+    {
+      "id": 591,
+      "start": 2616.33,
+      "end": 2620.89,
+      "text": "My mother taco is a saint and she is filled with only the finest meats which are not yours"
+    },
+    {
+      "id": 592,
+      "start": 2621.05,
+      "end": 2625.69,
+      "text": "That's all the time we have for today case has to do a patreon or something. He's just so busy"
+    },
+    {
+      "id": 593,
+      "start": 2625.69,
+      "end": 2628.33,
+      "text": "He's literally so busy. He's already late. What the fuck is that?"
+    },
+    {
+      "id": 594,
+      "start": 2628.81,
+      "end": 2632.25,
+      "text": "It's fucking terrifying. Can you not put yourself on a tv?"
+    },
+    {
+      "id": 595,
+      "start": 2634.01,
+      "end": 2636.41,
+      "text": "Yeah, well apparently you already are jesus"
+    }
+  ],
+  "text": "Should be working minus what's going on here?\nI'm Papita. I'm the dog that produces the show and now it is live.\nOkay, let's see\nResetting a bunch of things. Okay, there we go. Now I can see chat again\nWe're back to normal\nish\nNormal ish the question is will it do the thing now where?\nEverything runs super e it is doing that\nPeter where are you running at 10 frames per second because we might just have to we might just have to live with it for the day\nIf you're feeling off\nLike you sometimes do\nYeah, I'll well slow today\nOkay, nothing you can do\nOh, no, my brain is not running well\nHmm. Is it usually usually a whip smart?\na trenchant political commentary from\nHmm visually he looks all right. It could also just be my computer. Oh, I see what happened\nGuys, I see what happened. Are you doing better now? Um\nSort of\nHe's taking the death of late night very hard. Papita. Were you a fan of cold bear?\nYeah\nburrito\nUm, not that I'm aware of\nhe's\nChicken\nHe's a late night host right love that guy\nI'm gonna try to reset one other thing and see if that helps you're gonna lose audio for just a sec\nMost likely okay, here we go. That's the best we can do today. I guess I feel great now\nEverything is normal\nWell, you're not any more delayed than the other people that I might talk to you so I guess I shouldn't complain\nWhat do you mean? My mouth is moving at the normal pace case\nUh\nOh my god, there's too many there's too many people flying around. Papita. Can you stay in your producer's corner?\nI was over there to help Jeff\nOkay\nJeff, why are you over there? This is sometimes where I go\nto\nPiss\nWe've got a debate so that'll kill some time\nHard or soft shell tacos. Ooh, we're running through some classics lately. You love to see it piss tacos\nJeff you just have piss on the mind. That's true\nYou interrupted me on my way to the bathroom and now I feel like I'm on the spot\nAlso, where's your goddamn fish tie you non-professional?\nAt least jeff keeps keeps me on track when it comes to this fish tie\nIt doesn't matter if we're only streaming for 20 minutes and I've spent half of it doing tech stuff\nI gotta wear this fish tie\nOh wait, I also have to remember to take these off\nFuck hard shell tacos\nThat's crazy guys\nWhat's the problem with hard shell tacos?\nI kind of agree with melody von tortur if your point is that they're like nachos\nbut in a\ntube\nIn a half in a half pipe hard shell tacos are just nachos in a half pipe\nFortunately, I don't have to debate this incredibly touchy issue. I can leave it to the semi professionals and dead people\nsick\nOut of um recovering people. There we go. People say it's not authentic\nuh\nI mean\nI guess I've only really had them that often at taco bell to me. They're authentically taco bell\nIf I go to taco bell, I don't think I'm getting too touchy on if I have a soft shell or a hard shell taco\nI guess I honestly can't think of the last time I had a hard shell taco outside of taco bell\nMy point would just be that at taco bell. Sometimes I want a hard shell taco\nBut I don't really trust any of their food. So\nAn expert on how not to get caught on a kiss cam with your wife at a cold play concert\nThat\nCould have been useful for some people for sure\nNot your wife\nYeah, not your wife\nWhy is it doing with not your wife? Yeah\nNot your wife. I get it. I think\nWait, I'm gonna let me try one last thing. I just realized\nThis program is shitting the bed once again once I\nOh the many mysteries of computer\nWho would be an expert in that?\nAt least now I can load things. We're good now. I mean, it's not gonna look good, but\nI should have stopped having that be a concern on the stream long ago\nAn expert in kissing\nOkay, this seems like it makes sense\nUm, Donald Trump\nI don't know if we want his kissing expertise, but\nIf the request is out there\nWe can do that\nChat can can s word it\nSee caught myself\nI won't be tricked not today\nGeorge Lopez\nWait a minute. What is this one second?\nWill this load\nSometimes you see an expert floating around out there\nAnd you're like\nIs it gonna let me get away with this?\nOh\nIf only you guys knew\nAll the beauty you're missing out on\nBy um\nBy this program only half functioning. It's so sad\nThere's so much incredible stuff out there. I just can't show you. Oh the worlds. I could show you\nNo brown face. Yeah, I do avoid though. I would avoid those filters either way\nthough sometimes I click on one and\nFortunately outside of one Mario occasion\nI uh, I haven't shown you it but they're out there every once in a while. I'll click on one and be like\nThank god. It didn't hard cut to this\nbecause\nstream fails\nBut maybe maybe worse than what you're expecting\nOkay, anyway, I guess we'll ask donald trump about this\nYou know, well, let's do the news first because it's about donald trump that will I'm gonna turn off requests\nWe'll talk to this kiss expert and then uh, we'll\nDo whatever else for the day. Uh, oh munchin crime. Then we'll just get the fuck out of here\nI gotta I gotta hurry up. We only have 30 minutes to do it all so let's do some quick news\nFlip it take you on it through history\nYes, feeling great today, you know, let me even check this\nGood to see everyone it's your boy rick\nYou're to smooth everything over national temperatures gotten a little hot\nWhy am I feeling so groggy today?\nEverybody's gonna be feeling groggy today. Sorry. It's a short stream at least so you don't have to feel groggy for that long rick\nI just feel like i'm moving at like half the usual pace\nWhoa\nYeah, there's a lot of white in your hair and beard now. Who's that fault is that?\nWho knows?\nHmm, you just got home msg good\nYou're home\nWelcome home\nHope you had an okay day. Oh my god. Everything is breaking\nUh\nTrump special day\nLet's talk about it. I haven't really um checked in on all the details of whatever this birthday story is\nSo birthday card story\nSo i'm excited to learn with the rest of you\nWhat could he have done this time?\nGetting himself in trouble\nJust for a good old birthday card\nCome on. Come on. Come on. Oh\nThis is beautiful. What the frick\nAh guys\nIf I had a camera behind you would see that things are not\nWorking the way that they're supposed to today\nAnd i'm far i'll be fine\nWait, i'm fine with that because i can roll with the punches and it's not\nGoing to drive me insane\nYou know, you know what i mean rick you're sounding scary\nand\nJust chill\nRick's got the news covered\nrick news\nI don't know. I don't know if I like that that framing for this rick\nI feel like you're gonna probably do a pretty bad job with the commentary on this. What?\nStop prejudging\nMy pre news workout. All right. Here we go. That's not the right one\nHere we go. We're swapping it all around\nAnd now I sound like rick. All right\nJesus\nOkay, can it work not there we go\nFrickin headaches today everybody\nRick what were you gonna say?\nOh, and now this isn't working\nI'm gonna murder. I'm gonna murder stream my stream\nI gotta murder my stream set up real quick\nBecause it is not cooperating\nWe're back. Okay. We're so set up. Boom\nflawless\nAnd I look great\nJust uh, when you hear my words move my mouth forward in the future by about\nOne second reported birthday card from trump to epstein shines new light on their friendship as fallout from files release\nbounce\nmurderbot\nWhat a murder bot sorry live and please call that up my brother recommended it\nOr said that he watched it. I did I have a bit of a bias against apple tv, but I got to say murder bot was pretty good\nI also liked um something else I watched on apple tv recently that I've already forgotten\nAnd obviously there's severance\nBut the fact that I watched a show I like a show I liked but forgot and severance might mean\nThat frankly apple tv might be batting the highest average\nof\nOf quality this year my favorite streaming service\nmight be apple tv now\nWhich I don't feel good about at all\nBut I got a call the strikes and balls\nAnd they've been balling a little bit\nI haven't watched the gorge. Oh, uh, the they're in a nuclear silo\nFallout, but it's uh, but less slightly less cartoony the studio. I also watched that the studio was also pretty good\nSo despite me constantly talking shit\nabout apple tv\nAnd feeling slightly disgusted every time I see the apple logo\nI also saw the preview for monarch monsters, which I didn't even ever hear about\nWhen it came out. I feel like I completely missed any hyper around that at all even though we watched the trailer for it at some point\nBoth can be true. I guess I don't know why I would feel loyalty to like hbo max over apple tv\nI think it's just something about apple tv be an apple and amazon both being like\nWe are we're movie we do movies now\nI find annoying we're kind of in the entertainment business actually and we're on top of it\nThe actress is having a moment. I don't know what that means live in sleazy that oh that actress man\nI can't read lately. That's why you outsource that stuff to the professional\nmouth guys\nI'm trying to do the news man\nFrom monarch and shogun. I hope it's a good moment\nThe apple tv stuff deaf has an overproduced vibe because they put money into their shows, but they usually are still very good\nYeah, the murder budget was nice. It was like a nice sci-fi show\nThe scope wasn't like so huge that they couldn't pull it off, but it would just still did a lot of world building\nAnd no complaints scar's guard did a great job. I thought the whole cast was was great\nI like all the annoying hippy characters\nUh, they're flawed in a way that doesn't make them complete cartoons. It was very well done\nAnd they got jason mimowa\nDoing hawaii stuff soon. So\nI guess I have to be an apple guy\nThe tv the streaming service did it for you not the phone you've used for over two decades\nI could take or leave the phone that I that big chunks of my life rely on\nI'm mostly impressed by their tv output\nHmm\nWell, what about this of the news man? I look good. Okay\nDonald trump reportedly helped celebrate jeffrey eppstein's 50th birthday with a body greeting accompanied by a hand-drawn image of a naked woman\nI'm sorry. I had a birthday caught in my throat a report from the wall street journal on thursday\nUncovers new details about the relationship between the president and disgraced financier and convicted sex offender whose death and connections to\nTrump are at the center of an explosive feud between his allies and right-wing figures demanding more information about the case\nA letter bearing trump's name which was reviewed by the journal contains several lines of typewritten text\nFramed by a drawing of a naked woman his signature is squiggly donald below her waist mimicking\npubes\nYou hate iphone such a hassle to do anything with it. I am a not a fan of apples design in general\nNot we're talking about sex offenders case. I'm talking about both. We can talk about iphone's and sex offenders at the same time\nYeah\nYou hate both iphone's and androids. What does that leave samsung phones?\nI don't know my phones well enough. Let's get a brick phone\nI apple's design is annoying to me because they don't allow for much customization in my opinion. They hide\na lot of the um\nfunctionality\nThat you might want to access to make it a more user friendly experience. Some people really like that\nI'm sure if you're a dedicated applehead you can get past all that stuff\nI'm just too used to windows products at this point\nWhich are on which have their own function problems, but I feel like in general whenever I've had like a windows computer\nUm, it's way easier to access like the layers of customization that I'm interested in whereas with iphone stuff\nIt's always really fucking annoying\nYou had a windows phone for a decade and like it except for the lack of app support\nI could see that being a problem google phones\nGoogle's phone\nWait, it's a windows phone a thing. I'm talking about computers the phone\nIt probably has the same problems. You I mean people want to jailbreak them for a reason, right?\nWhenever I have to do any weird\nThis has come up more than once whenever I have to emulate a cell phone on my computer\nIt's way easier to do it with non\niphone\nEmulators that makes sense\nI don't know why that's come up for me several times\nBut it has windows phone os needs to make a comeback. I have a unihertz tighten pocket\nWith the physical this is a preachy with a physical keyboard like a blackberry and it would be unstoppable with windows phone os\nAnd back to sex sex offenders top five sex offenders rick. Can you count these down?\nComing in at number five according to live in sleazy. We have jimmy sevile number four donald trump\nOkay, allegedly\nNot even no\nAllegedly no allegedly according to him. No\nNumber three harvey winestein\nNumber two prince andrew allegedly according to him. No\nHe can't say allegedly according to him. No all in one sentence. There's periods in there somewhere and it's not my responsibility to tell you where\nAnd number one gary glitter. That's number one with\nWhat should have probably been a literal bullet?\nYeah, those are such a rough list\nIt's an accurate possibly accurate but pretty rough list\nSnorlaxing says when I took mobile development in school\nYou had to have an apple computer to emulate an iphone where android just worked\nThat's the kind of apple versus uh windows experience. I'm talking about\nI just feel like a windows as an operating system is so much more flexible\nCase in point. I have a pretty good windows laptop that I use for work when I have to work with clients that\ntend to operate off of uh more of like an apple infrastructure and\nIt was so fucking hard to get this snap camera\nRip working on it that I just had to uh bell and get like a cheap secondary\nlaptop to run it on\nThat's the kind of thing\nI feel like they're constantly fucking up for me\nBut those are very specific complaints if you're if you're just looking to like\nEdit video or like play media or use a computer firmware\nfor less like\nI don't know weird media projects then I could see it not being a problem\nAnd it's I mean I've heard that their laptops in general are higher performing than um a lot of like\nDell laptops or like laptops that use windows\nI don't know that stuff well enough to really to speak on it\nThen shut up and talk about pedophiles already alleged pet. No one's a pedophile. There's no more pedophile\nWe got them all I think you're a little behind rick and not just because of your mouth. What do you mean?\nI'm literally reading the most up-to-the-date news courtesy of yahoo\nAnyway, he wrote\nWe're back to trump now. Okay. We're doing trump still we're still talking about trump\nWe're back to trump and we got to hurry up because you're on much time apparently\nAnyway, he sent him a sexy letter that he didn't send he didn't trump didn't send him a sexy letter\nSays trump and everyone else that's saying he did\nprove it\nBut if you did believe it the letter concludes happy birthday and may every day be another wonderful secret\nThat's just a nice thing that friends say to each other. One of you ever asked a friend told a friend\nIt may every day be another wonderful secret\nsecrets\nCan be the thing about a secret is it's like Schrodinger's\nHappiness you don't know if it's good or bad until you open the box and see what the secret is\nAnd if the box stays closed\nthen\nThe secret could always be incredibly pop pop positive and that's the that's our country right now\nEverybody wants to open the box\nBut as long as we don't open the box. There's a 60 percent chance\nThere's an adorable kitten in it and if we open the box, there's a 40 percent chance to hire that it's full of\nStuff you just don't need to know about\nI just can't take you seriously\nWhen you're this glitchy looking i'm i'm glitching for america right now america you're glitching me out\nAnd it's because you're stressing us as you're stressing us decision makers out with your nosiness\nThat's affecting polls that apparently mattered. Some people still damn it\nThe card could depict a trumpy finger going into an ass could this be a secret\nLet's go with that they fingered each other's butts\nWould that satisfy everyone a little humiliation but not\nLegally as troubling\nIf they wanted we're you know if those two had just fingered each other's butts\nThen I would say god bless\nBut their butts aren't the butts that were worried about\nAt least you said that terribly we I can at least enjoy that\nIn an interview with the journal trump denied writing the letter or drawing the picture. This is not me. See here we go\nThis is a fake thing. It's a fake wall street journal story\nBy that I'm assuming it is a it's a fault. They did put out a whole story on it\nSo that it's real that it's a story unfortunately, but it's fake. What he means to say is the story isn't true\nuh, Donald trump and jeffrey eppstein pictured in 1992 uh, this is in the story\nLook everybody loves these little gotcha photos of them hanging out and\nVirginia guffrey worked at mara lago and that's where eppstein met her and\nTrump openly dated a 20 year old woman that he said jis lane maxwell introduced him to and she seems to have known her\nPossibly when she was younger than that and he said that jis lane maxwell introduced him to other women\nIn a tabloid in the 90s\nSo\nI was I don't think most people are even aware of the stuff you're talking about right now rick\nMy point is stop talking about it\nGeez what it's not like the guy was criminally accused of sexual assault by a 13 year old girl\nHe'd literally well she wasn't 13 when she accused him, but\nBut that case got thrown out so\nLet's throw it all out\nThrow it all out throw it all out\nEvery time it gets to a court it doesn't\nWork so it must be a lie\nYeah, virginia guffrey. I think is her name. She did she did die\nShe died\nYou know and I've also seen people say she's not credible because she was caught lying about certain things\nlike like that would\nMake everyone even if she was lying like\nOne of these victims who definitely wasn't lying about everything\nUm, there's just so much shit at this point. There's just mountains and mountains and mountains of shit. I believe her too\nI think there's like specific things where people like found contradictory facts to something or other\nThat's just so ridiculous like\nI again, I don't even know\nExactly what happened. I don't know if trump\nwas directly involved with\nAttacking women or if he just knew this guy really well. He's protecting other people. I suspect the\nI suspect the more obvious option is true. Like if I had to go with my gut, I think donald trump is\nYou know, I try not to use this word that often but a rapist\nHe's been accused of it by multiple people at this point and he absolutely seems like one\nSo it would not surprise me at all\nUm, and he was criminally liable for for rape. So like\nThat's just the fact that we even have to entertain this like delusion\nthat he's not a fucking creep and\nAlmost certainly did this shit is insane\nbut it's just so I guess\nsomehow this\nWas not apparent to people\nBoth times they voted for him and it's and it's managing to create like at least a fissure in his\nUm\npodcasting wing the podcasting wing of the of the republican party is acting like this is some type of revelation\nI don't know how aware like your average voter is of this stuff, but it's just it was so obvious\nBack in 2016 that this is who he was. It's only become more obvious since he's been president\nUh, it's hard for me to believe that this is what's gonna take him down because it should have taken him down\n17 times over\nBut I guess the specific conspiratorial nature of the epstein stuff\nMakes it feel so deep rooted and troubling that I don't think people are going to be able to entirely move past it\nLike that combined. I guess with him just\nGoing full like violence mode on a ran\nDespite people not really wanting us to get it pulled into more conflicts. Maybe that one-two punch is actually gonna\nPeel off support from him\nWe'll just have to wait and see\nI don't think the birthday card is going to do it\nThis birthday card didn't do it because it's not it's just\nIt's just a store-bought card a store-bought card. They sold it at a store\nThey sold a store at a store. It was just the hate it was the card that was already pre-signed donald\nAnd it was in the wacky card section of\nThe hallmark store that donald trump probably had in one of his towers\nAnd it just came like that it came with that weird secret thing in the drawing of the naked woman\nAnd he just he was in a rush. So that's the one he bought\nHmm is that in this news article you're reading? This is this is deep inside knowledge and I will\nI will be quoted on this. No one's gonna quote you rick. Well, but they could I'm just saying if you want to put me in the news\nAnyway, he the trump went on for more facts that aren't facts. We don't trust the news. It's not my language\nIt's not my words trump told a newspaper allegedly according to this newspaper\nA type written note styled as an imaginary conversation between trump and epsi written in the third person\nIs reportedly included inside the outline of the naked woman\nIn the imagined conversation trump reportedly says we have certain things in common jeffrey to which epsi replies\nYes, we do come to think of it\nOnigmas never age. Have you noticed trump writes?\nAccording to the journal\nUm, I'm not unsettled by this. I just I my vision's not good today\nOkay\nClaims to have reviewed pages from a leather bound album of birthday cards\nExamined by a department of justice officials who investigated epsi and his former girlfriend\nJust in just laying at max well\nThe revelation follows a disastrous week for trump which we don't need to get into\nSo fucking creepy with not even that weird even if it was true\nWhich it's not says the president who we need to trust because we elected him to be our commander\nIn honesty and why would he lie about this? Why wouldn't he lie about this?\nThis this could be the kind of thing though like this is just creepy. So it's somewhat fascinating\num\nBut it could be the kind of story that never\nreally\nsyncs into like uh\nBeing accepted as fact like the leaked um like biden's daughter had a leaked\nuh\nJournal she like had a journal that supposedly leaked\nAnd in that journal she talked about taking showers with her dad when she was like a teenager\nBut that never really rose to the level of being accepted commonly as fact\nTo the point where i'm not even sure if it's that that's like legit or not\nIt was it was very in right wing circles. I could imagine this kind of thing sort of being more\nLike the left wing version of that but the heat is on him\nSo hard right now trump that is not biden biden's heat is very much fading dark soul style\nUh, the heat is on trump so hard right now that it's just like the the chips keeps stacking up\nI don't know\nThere's no incentive for him to actually release any of these things in a way that will get him legally in trouble\nSo I just and as long as he's got the reigns of the party, which I don't see going anywhere\nI don't see him losing those reigns anytime soon. He's roman reigning over the party\nI just I I feel again like all of this is going to just be kind of circling outrage\nWhere everything is just constantly denied and everyone basically knows\nmore or less everyone has a vague sense of what actually happened, but\nThere's just no way that anyone will hold him legally culpable for it. I know that democrats have introduced\nUm\nLike\nOr they're trying to introduce legislation to be voted on to release the eppstein files\nLegislation, I don't even know what it would be there. They're trying to like bring it to a vote to release the eppstein files certain democrats\nI don't know how that's going or where that will go\nBut it would be good if they could at least use this moment a discharge petition\nThank you bonsai bullfrog\nWould be good if the democrats could get their shit together\nFor just even half a second to make everyone go on the record and vote against these files being released, which I think\nTrump would have to whip at least the republicans to vote against it\nThe fucked up thing though is I'm assuming democrats would also have to vote against it because\nAgain, the only thing that really makes sense to me here is that these files implicate\npeople on both sides of the political spectrum from all over the place\nThe only thing that doesn't make sense to me about that\nLike line of reasoning is if\nAll of our national power brokers are the ones in charge of stewarding these files and these revelations\nWhy wouldn't they just manipulate them like trump's talking about how how biden manipulated them to make him look bad\nI don't understand why trump isn't just manipulating them to make the democrats look bad\nI guess it's just like all of the norms have been so shattered. I can't imagine that these things aren't basically up for sale\nLike I don't know why\nThe state department or the fbi\nWouldn't be you couldn't just manipulate them into manipulating the documents\nUm, but maybe I'm being too nihilistic. Maybe there's still\nEnough credibility when these investigations happen that they just uncover things\nThen again, half the things they could uncover would probably just be shit. Again, we already know\num, so\nI don't know we'll see we'll see how much this continues to be a story\nTwo a exists for a reason. I don't I'm too dumb to even know what two a is in this context live in sleazy\nReady for a great stream\nWith many wonderful secrets. Thank you. Thank you, my friend you and I what did he say?\nThat is one of the more insane\nThings I've heard written\nenigmas never age\nKeep that in mind us enigmas we never age. Whoa, you're claiming to be an enigma now\nI'm just trying to sound presidential personally\nI'm studying up on how to be an orator like donald trump\nE gene carol would uh disagree with the every time it goes to court thing fair enough\nThey couldn't hide the fact that they edited the video in the metadata exactly\nBut I just mean like if you're if you control the spigot\nThen you can kind of\nControl the flow of information. I'm assuming\nBut maybe not I mean, you know the government's so big and cumbersome maybe\nMaybe there just is legitimately a file that's like and then on this day donald trump was hanging out with\nEpstein at his pedophile mansion and there were this many 15 year old girls there\nAnd there's just no way for him to like edit that shit out of there\nWe'll see\nYeah, we're this all but spigot control\nThe whole government is just about spigot control\nWas there a wrestler the enigma there has to have been or at least it was\nLike the nickname in front of a wrestler's name\nLouis baton the enigma\nThere should be a wrestler named Louis baton the enigma. I've decided even if it's a brand just do it anyway\nJeff Hardy was the charismatic enigma. That's a good point\nThey just fully released the attorney involved in the Epstein case would be allowed to release what they have\nWell, they just fired uh, James Comey's daughter who I guess was involved in the Epstein investigation\num\nThough given her handling of\nThe p-ditty trial\nI can't say\nHer batting record against rapists and pedophiles feels particularly strong\nBut I'm also kind of surprised she was still around given how much trump\nUh, you know hates the Comey's he hates Comey's\nKind of sounds like a fun product when you say it like that\nSo anyway, you're out of time case\nYou got to just hard cut to munch and do a a uh\nDebate that's true. There's no time to wait a quick debate. It's time for munching crumbs\nHow am I supposed to debate under these circumstances?\nGrowing to me when I only got five minutes to do this\nFor a topic as meaningful as hard shell versus soft shell tacos\nLet's see if uh\nSee if this still works\nIs your is your speaking spell working today? Yum yum yum\nOkay, it is working I guess\nGood to know\nWhat's that you more to say\nconstantly saying\nThings to me\nMunch love soft shell\nThat's actually true soft shell is the traditional\ntaco\narrangement\nBut just do nachos if you're gonna do nachos nachos are a superior way to scoop up ingredients into your mouth anyway\nYeah, traditional and as we all know\nI've claimed to be mexican on this stream before\nIsn't that right crumb?\nI prefer burritos\nOkay, well that's convenient. Wait, that's not an option you fucking bastard. I only eat white foods\nThat sounds about right\nThat does sound about right for you\nSo disappointing\nI miss my numby\nMaybe this thing really works, you know, I was wondering if it did but I can't imagine anyone other than you saying some shit like that\nThat's disgusting. It's a disgusting thing to say\nYummy crunchy taco in my tummy\nAll right for anyone who doesn't know\nLook crump seems to damage his vocal cords. I got him this device so that he can talk to me the very real him\nWho's definitely still alive and how could he not be listen to him go?\nListen to him go crumb\nHe lost those flaccid shells\nNo, I'm\nI'm saying first of all soft shell the soft taco is not flaccid\nIf anything it should be filled to bursting\nOkay, and that makes it stiff in its own way like an overstuffed burrito. We don't have much time left. I gotta fucking go\nSo i'm soft shell you're apparently a maniac and love hard shell tacos disgusting to say\nUh, but I will bravely defend the side of the angels here for my proud mexican people\nUm, which I am claiming to 100 represent\nNo one here to give me pushback on that. I'm realizing\nWhich is fine\nIt's fine when I have to sit in the statements that I make and no one can disagree with them right away\nUnless they want to\nNo munch is still a broke\nOkay, look, um\nIt's just you miss coach magurg\nThat's insane to say no one no one misses that man a trader\nA trader. I don't even want his support and I don't and I never wanted it\nAnd I don't need it because uh, he probably wants to give it back and I don't even care\nI've rejected him. He didn't reject me and the point is soft shell tacos are better\nBecause look if you're too hard and you're come this our best\nIt's my turn to talk actually it's actually my turn to talk. I'm currently the one disgusting soft shell tacos\nLook the point is uh, you you want a flexible taco because what's just got us\nWhat about fucking to status? We're not talking about that grumb point is soft shell tacos are more malleable\nYou can stuff them with more meats and delicious\nJoin the cream team patreon\nThe quick fucking plug in the patreon right now. We're trying to have an actual discussion about\nI'm scared\nYeah, I bet you're scared you're scared because I'm hitting you with facts like that soft shell tacos are frankly superior\nIt's easier to get in your mouth. You can't have a taco without baha blast\nYou you absolutely can you can have a diet coke you can have a agua fresca you can have a jarito\nHaritos on your hard shell so with sour cream\nYou fucking wish you could cream up your soul your soul is as dry as a goddamn badgat left out in the desert\nYou I don't you don't even know how to say his fucking name. How could you miss him?\nDo you actually have anything to fucking say about soft shell tacos or hard shell tacos?\nBecause while trying not the idea of hard shells you can have nachos you can have taco salad\nWhat do you get when your taco falls apart?\nDepression and rejection which I know you're all too familiar with\nAre you fucking done? Jesus\nHow's it feel to lose suck my wife?\nJust gonna ignore that because I'm one\nWhoa, don't need to win in that way\nHey\nCan't even find your wife actually\nYou could get a hold of her that'd be very helpful because I don't know where to send you after work\nYou just sit here and it's unsettling\nOh, shit. You didn't win\nYeah, no one's getting points for that\nTurn it turn his music off\nAnd reduce his score. That's ridiculous one second\nBoom\nTrying to steal my victory you truly must think that you're\nUnkillable if you're trying to pull some shit like that my hard earned victory\nI already gave you six points out of the kindness of my heart because I felt so bad for you being so fucking pathetic all the time\nJesus I gotta fucking go\nMunchie tortoise if you know what I mean. I don't know what that means. What would that even fucking mean from realistically?\nYou took eating from me\nFirst of all you took it from yourself with your bad behavior and your gambling\nI want to boom boom boom and a zoom zoom\nI'll bet you do and we would all support you doing anything other than sitting still\nI will stuff your taco dry\nI bet you would love whatever anyone know that is to make sense, but you cannot even step\nto this\nYour voice thing just malfunction\nBecause that wouldn't be surprising hell is too hard for soft tacos\nBut in hell the hard shells always stab the roof of your mouth. All right, look we gotta fucking go\nI'm we're gonna raid somebody. I guess I'll do it because someone's being so lazy today\nTrying to swoop me with your malfunctioning voice box\nI'm not that easily scared by whatever you think that even was okay. Don't do it again\nPlease is someone looking after my mummy. I hope it's okay. There's no time for this. Uh, let's raid Bruce Green\nActually, let's raid Ricky Pica\nUh, good. Thank you red jacket is a cool nickname and I will absolutely take that melty bond torture\nUnlike your nickname, which is still just\nSorry for the quick stream today. I don't really understand what's happening. You might be getting actually haunted\nWhat what did you even just say?\nJesus christ\nLet's play the credits and then let's actually use it as the end of the stream for once\nYeah, well\nWhat'd you say about my mother taco\nMy mother taco is a saint and she is filled with only the finest meats which are not yours\nThat's all the time we have for today case has to do a patreon or something. He's just so busy\nHe's literally so busy. He's already late. What the fuck is that?\nIt's fucking terrifying. Can you not put yourself on a tv?\nYeah, well apparently you already are jesus",
+  "text_timestamped": "[00:01 --> 00:04] Should be working minus what's going on here?\n[00:08 --> 00:12] I'm Papita. I'm the dog that produces the show and now it is live.\n[00:15 --> 00:20] Okay, let's see\n[00:23 --> 00:38] Resetting a bunch of things. Okay, there we go. Now I can see chat again\n[00:40 --> 00:42] We're back to normal\n[00:42 --> 00:44] ish\n[00:45 --> 00:51] Normal ish the question is will it do the thing now where?\n[00:53 --> 00:56] Everything runs super e it is doing that\n[00:57 --> 01:02] Peter where are you running at 10 frames per second because we might just have to we might just have to live with it for the day\n[01:03 --> 01:05] If you're feeling off\n[01:05 --> 01:07] Like you sometimes do\n[01:07 --> 01:10] Yeah, I'll well slow today\n[01:18 --> 01:20] Okay, nothing you can do\n[01:21 --> 01:23] Oh, no, my brain is not running well\n[01:24 --> 01:27] Hmm. Is it usually usually a whip smart?\n[01:28 --> 01:30] a trenchant political commentary from\n[01:34 --> 01:39] Hmm visually he looks all right. It could also just be my computer. Oh, I see what happened\n[01:40 --> 01:43] Guys, I see what happened. Are you doing better now? Um\n[01:44 --> 01:48] Sort of\n[01:48 --> 01:52] He's taking the death of late night very hard. Papita. Were you a fan of cold bear?\n[01:52 --> 01:56] Yeah\n[01:57 --> 01:59] burrito\n[02:00 --> 02:02] Um, not that I'm aware of\n[02:04 --> 02:06] he's\n[02:06 --> 02:08] Chicken\n[02:08 --> 02:10] He's a late night host right love that guy\n[02:12 --> 02:17] I'm gonna try to reset one other thing and see if that helps you're gonna lose audio for just a sec\n[02:19 --> 02:55] Most likely okay, here we go. That's the best we can do today. I guess I feel great now\n[02:56 --> 02:58] Everything is normal\n[02:59 --> 03:03] Well, you're not any more delayed than the other people that I might talk to you so I guess I shouldn't complain\n[03:04 --> 03:07] What do you mean? My mouth is moving at the normal pace case\n[03:08 --> 03:10] Uh\n[03:10 --> 03:14] Oh my god, there's too many there's too many people flying around. Papita. Can you stay in your producer's corner?\n[03:15 --> 03:17] I was over there to help Jeff\n[03:17 --> 03:19] Okay\n[03:19 --> 03:21] Jeff, why are you over there? This is sometimes where I go\n[03:22 --> 03:24] to\n[03:24 --> 03:27] Piss\n[03:27 --> 03:30] We've got a debate so that'll kill some time\n[03:31 --> 03:37] Hard or soft shell tacos. Ooh, we're running through some classics lately. You love to see it piss tacos\n[03:38 --> 03:40] Jeff you just have piss on the mind. That's true\n[03:41 --> 03:44] You interrupted me on my way to the bathroom and now I feel like I'm on the spot\n[03:44 --> 03:48] Also, where's your goddamn fish tie you non-professional?\n[03:49 --> 03:53] At least jeff keeps keeps me on track when it comes to this fish tie\n[03:53 --> 03:57] It doesn't matter if we're only streaming for 20 minutes and I've spent half of it doing tech stuff\n[03:59 --> 04:01] I gotta wear this fish tie\n[04:03 --> 04:06] Oh wait, I also have to remember to take these off\n[04:07 --> 04:09] Fuck hard shell tacos\n[04:11 --> 04:14] That's crazy guys\n[04:14 --> 04:16] What's the problem with hard shell tacos?\n[04:16 --> 04:19] I kind of agree with melody von tortur if your point is that they're like nachos\n[04:20 --> 04:21] but in a\n[04:21 --> 04:22] tube\n[04:22 --> 04:26] In a half in a half pipe hard shell tacos are just nachos in a half pipe\n[04:27 --> 04:32] Fortunately, I don't have to debate this incredibly touchy issue. I can leave it to the semi professionals and dead people\n[04:34 --> 04:35] sick\n[04:35 --> 04:41] Out of um recovering people. There we go. People say it's not authentic\n[04:43 --> 04:45] uh\n[04:45 --> 04:46] I mean\n[04:46 --> 04:51] I guess I've only really had them that often at taco bell to me. They're authentically taco bell\n[04:52 --> 04:57] If I go to taco bell, I don't think I'm getting too touchy on if I have a soft shell or a hard shell taco\n[04:58 --> 05:02] I guess I honestly can't think of the last time I had a hard shell taco outside of taco bell\n[05:03 --> 05:07] My point would just be that at taco bell. Sometimes I want a hard shell taco\n[05:07 --> 05:09] But I don't really trust any of their food. So\n[05:11 --> 05:16] An expert on how not to get caught on a kiss cam with your wife at a cold play concert\n[05:17 --> 05:19] That\n[05:19 --> 05:22] Could have been useful for some people for sure\n[05:24 --> 05:26] Not your wife\n[05:27 --> 05:29] Yeah, not your wife\n[05:30 --> 05:37] Why is it doing with not your wife? Yeah\n[05:38 --> 05:40] Not your wife. I get it. I think\n[05:41 --> 05:43] Wait, I'm gonna let me try one last thing. I just realized\n[05:43 --> 05:45] This program is shitting the bed once again once I\n[06:03 --> 06:05] Oh the many mysteries of computer\n[06:05 --> 06:07] Who would be an expert in that?\n[06:09 --> 06:14] At least now I can load things. We're good now. I mean, it's not gonna look good, but\n[06:15 --> 06:18] I should have stopped having that be a concern on the stream long ago\n[06:21 --> 06:23] An expert in kissing\n[06:24 --> 06:26] Okay, this seems like it makes sense\n[06:26 --> 06:28] Um, Donald Trump\n[06:30 --> 06:33] I don't know if we want his kissing expertise, but\n[06:36 --> 06:38] If the request is out there\n[06:39 --> 06:44] We can do that\n[06:44 --> 06:46] Chat can can s word it\n[06:47 --> 06:49] See caught myself\n[06:49 --> 06:51] I won't be tricked not today\n[06:51 --> 06:53] George Lopez\n[06:54 --> 06:56] Wait a minute. What is this one second?\n[06:57 --> 07:00] Will this load\n[07:00 --> 07:02] Sometimes you see an expert floating around out there\n[07:03 --> 07:05] And you're like\n[07:05 --> 07:07] Is it gonna let me get away with this?\n[07:09 --> 07:11] Oh\n[07:11 --> 07:13] If only you guys knew\n[07:13 --> 07:15] All the beauty you're missing out on\n[07:16 --> 07:20] By um\n[07:20 --> 07:23] By this program only half functioning. It's so sad\n[07:23 --> 07:29] There's so much incredible stuff out there. I just can't show you. Oh the worlds. I could show you\n[07:32 --> 07:35] No brown face. Yeah, I do avoid though. I would avoid those filters either way\n[07:36 --> 07:38] though sometimes I click on one and\n[07:39 --> 07:41] Fortunately outside of one Mario occasion\n[07:42 --> 07:47] I uh, I haven't shown you it but they're out there every once in a while. I'll click on one and be like\n[07:47 --> 07:50] Thank god. It didn't hard cut to this\n[07:51 --> 07:53] because\n[07:53 --> 07:55] stream fails\n[07:55 --> 07:57] But maybe maybe worse than what you're expecting\n[07:58 --> 08:00] Okay, anyway, I guess we'll ask donald trump about this\n[08:01 --> 08:05] You know, well, let's do the news first because it's about donald trump that will I'm gonna turn off requests\n[08:05 --> 08:08] We'll talk to this kiss expert and then uh, we'll\n[08:09 --> 08:13] Do whatever else for the day. Uh, oh munchin crime. Then we'll just get the fuck out of here\n[08:13 --> 08:17] I gotta I gotta hurry up. We only have 30 minutes to do it all so let's do some quick news\n[08:18 --> 08:38] Flip it take you on it through history\n[08:42 --> 08:49] Yes, feeling great today, you know, let me even check this\n[08:51 --> 08:53] Good to see everyone it's your boy rick\n[08:54 --> 08:58] You're to smooth everything over national temperatures gotten a little hot\n[08:59 --> 09:01] Why am I feeling so groggy today?\n[09:02 --> 09:08] Everybody's gonna be feeling groggy today. Sorry. It's a short stream at least so you don't have to feel groggy for that long rick\n[09:10 --> 09:14] I just feel like i'm moving at like half the usual pace\n[09:14 --> 09:17] Whoa\n[09:17 --> 09:21] Yeah, there's a lot of white in your hair and beard now. Who's that fault is that?\n[09:21 --> 09:24] Who knows?\n[09:24 --> 09:28] Hmm, you just got home msg good\n[09:29 --> 09:30] You're home\n[09:30 --> 09:32] Welcome home\n[09:32 --> 09:35] Hope you had an okay day. Oh my god. Everything is breaking\n[09:37 --> 09:38] Uh\n[09:38 --> 09:40] Trump special day\n[09:42 --> 09:48] Let's talk about it. I haven't really um checked in on all the details of whatever this birthday story is\n[09:48 --> 09:50] So birthday card story\n[09:51 --> 09:53] So i'm excited to learn with the rest of you\n[09:55 --> 09:57] What could he have done this time?\n[09:58 --> 10:02] Getting himself in trouble\n[10:02 --> 10:04] Just for a good old birthday card\n[10:06 --> 10:12] Come on. Come on. Come on. Oh\n[10:12 --> 10:16] This is beautiful. What the frick\n[10:20 --> 10:23] Ah guys\n[10:23 --> 10:28] If I had a camera behind you would see that things are not\n[10:29 --> 10:31] Working the way that they're supposed to today\n[10:32 --> 10:34] And i'm far i'll be fine\n[10:34 --> 10:38] Wait, i'm fine with that because i can roll with the punches and it's not\n[10:38 --> 10:40] Going to drive me insane\n[10:41 --> 10:44] You know, you know what i mean rick you're sounding scary\n[10:45 --> 10:47] and\n[10:47 --> 10:48] Just chill\n[10:48 --> 10:50] Rick's got the news covered\n[10:51 --> 10:53] rick news\n[10:54 --> 10:57] I don't know. I don't know if I like that that framing for this rick\n[10:58 --> 11:02] I feel like you're gonna probably do a pretty bad job with the commentary on this. What?\n[11:03 --> 11:05] Stop prejudging\n[11:06 --> 11:12] My pre news workout. All right. Here we go. That's not the right one\n[11:13 --> 11:16] Here we go. We're swapping it all around\n[11:16 --> 11:19] And now I sound like rick. All right\n[11:20 --> 11:22] Jesus\n[11:22 --> 11:24] Okay, can it work not there we go\n[11:26 --> 11:28] Frickin headaches today everybody\n[11:30 --> 11:32] Rick what were you gonna say?\n[11:32 --> 11:34] Oh, and now this isn't working\n[11:34 --> 11:37] I'm gonna murder. I'm gonna murder stream my stream\n[11:38 --> 11:40] I gotta murder my stream set up real quick\n[11:42 --> 11:45] Because it is not cooperating\n[11:47 --> 11:51] We're back. Okay. We're so set up. Boom\n[11:51 --> 11:53] flawless\n[11:53 --> 11:55] And I look great\n[11:56 --> 11:59] Just uh, when you hear my words move my mouth forward in the future by about\n[12:00 --> 12:08] One second reported birthday card from trump to epstein shines new light on their friendship as fallout from files release\n[12:09 --> 12:11] bounce\n[12:11 --> 12:13] murderbot\n[12:13 --> 12:18] What a murder bot sorry live and please call that up my brother recommended it\n[12:18 --> 12:25] Or said that he watched it. I did I have a bit of a bias against apple tv, but I got to say murder bot was pretty good\n[12:26 --> 12:31] I also liked um something else I watched on apple tv recently that I've already forgotten\n[12:32 --> 12:34] And obviously there's severance\n[12:34 --> 12:39] But the fact that I watched a show I like a show I liked but forgot and severance might mean\n[12:40 --> 12:43] That frankly apple tv might be batting the highest average\n[12:43 --> 12:44] of\n[12:44 --> 12:46] Of quality this year my favorite streaming service\n[12:48 --> 12:50] might be apple tv now\n[12:50 --> 12:52] Which I don't feel good about at all\n[12:53 --> 12:55] But I got a call the strikes and balls\n[12:56 --> 12:58] And they've been balling a little bit\n[12:58 --> 13:02] I haven't watched the gorge. Oh, uh, the they're in a nuclear silo\n[13:02 --> 13:09] Fallout, but it's uh, but less slightly less cartoony the studio. I also watched that the studio was also pretty good\n[13:10 --> 13:12] So despite me constantly talking shit\n[13:13 --> 13:15] about apple tv\n[13:15 --> 13:18] And feeling slightly disgusted every time I see the apple logo\n[13:19 --> 13:23] I also saw the preview for monarch monsters, which I didn't even ever hear about\n[13:24 --> 13:29] When it came out. I feel like I completely missed any hyper around that at all even though we watched the trailer for it at some point\n[13:30 --> 13:37] Both can be true. I guess I don't know why I would feel loyalty to like hbo max over apple tv\n[13:37 --> 13:41] I think it's just something about apple tv be an apple and amazon both being like\n[13:41 --> 13:43] We are we're movie we do movies now\n[13:43 --> 13:49] I find annoying we're kind of in the entertainment business actually and we're on top of it\n[13:50 --> 13:58] The actress is having a moment. I don't know what that means live in sleazy that oh that actress man\n[13:58 --> 14:01] I can't read lately. That's why you outsource that stuff to the professional\n[14:03 --> 14:06] mouth guys\n[14:06 --> 14:08] I'm trying to do the news man\n[14:08 --> 14:11] From monarch and shogun. I hope it's a good moment\n[14:12 --> 14:19] The apple tv stuff deaf has an overproduced vibe because they put money into their shows, but they usually are still very good\n[14:20 --> 14:23] Yeah, the murder budget was nice. It was like a nice sci-fi show\n[14:23 --> 14:28] The scope wasn't like so huge that they couldn't pull it off, but it would just still did a lot of world building\n[14:29 --> 14:33] And no complaints scar's guard did a great job. I thought the whole cast was was great\n[14:34 --> 14:36] I like all the annoying hippy characters\n[14:37 --> 14:40] Uh, they're flawed in a way that doesn't make them complete cartoons. It was very well done\n[14:41 --> 14:43] And they got jason mimowa\n[14:44 --> 14:46] Doing hawaii stuff soon. So\n[14:49 --> 14:51] I guess I have to be an apple guy\n[14:52 --> 14:56] The tv the streaming service did it for you not the phone you've used for over two decades\n[14:57 --> 15:00] I could take or leave the phone that I that big chunks of my life rely on\n[15:01 --> 15:03] I'm mostly impressed by their tv output\n[15:03 --> 15:06] Hmm\n[15:06 --> 15:11] Well, what about this of the news man? I look good. Okay\n[15:11 --> 15:19] Donald trump reportedly helped celebrate jeffrey eppstein's 50th birthday with a body greeting accompanied by a hand-drawn image of a naked woman\n[15:20 --> 15:25] I'm sorry. I had a birthday caught in my throat a report from the wall street journal on thursday\n[15:25 --> 15:31] Uncovers new details about the relationship between the president and disgraced financier and convicted sex offender whose death and connections to\n[15:31 --> 15:38] Trump are at the center of an explosive feud between his allies and right-wing figures demanding more information about the case\n[15:38 --> 15:43] A letter bearing trump's name which was reviewed by the journal contains several lines of typewritten text\n[15:44 --> 15:49] Framed by a drawing of a naked woman his signature is squiggly donald below her waist mimicking\n[15:51 --> 15:54] pubes\n[15:54 --> 16:00] You hate iphone such a hassle to do anything with it. I am a not a fan of apples design in general\n[16:01 --> 16:09] Not we're talking about sex offenders case. I'm talking about both. We can talk about iphone's and sex offenders at the same time\n[16:11 --> 16:13] Yeah\n[16:13 --> 16:17] You hate both iphone's and androids. What does that leave samsung phones?\n[16:19 --> 16:21] I don't know my phones well enough. Let's get a brick phone\n[16:22 --> 16:27] I apple's design is annoying to me because they don't allow for much customization in my opinion. They hide\n[16:27 --> 16:29] a lot of the um\n[16:30 --> 16:31] functionality\n[16:31 --> 16:36] That you might want to access to make it a more user friendly experience. Some people really like that\n[16:36 --> 16:39] I'm sure if you're a dedicated applehead you can get past all that stuff\n[16:39 --> 16:42] I'm just too used to windows products at this point\n[16:42 --> 16:48] Which are on which have their own function problems, but I feel like in general whenever I've had like a windows computer\n[16:49 --> 16:55] Um, it's way easier to access like the layers of customization that I'm interested in whereas with iphone stuff\n[16:55 --> 16:57] It's always really fucking annoying\n[16:57 --> 17:01] You had a windows phone for a decade and like it except for the lack of app support\n[17:01 --> 17:04] I could see that being a problem google phones\n[17:04 --> 17:06] Google's phone\n[17:08 --> 17:12] Wait, it's a windows phone a thing. I'm talking about computers the phone\n[17:13 --> 17:16] It probably has the same problems. You I mean people want to jailbreak them for a reason, right?\n[17:18 --> 17:20] Whenever I have to do any weird\n[17:20 --> 17:24] This has come up more than once whenever I have to emulate a cell phone on my computer\n[17:25 --> 17:27] It's way easier to do it with non\n[17:27 --> 17:28] iphone\n[17:28 --> 17:30] Emulators that makes sense\n[17:31 --> 17:32] I don't know why that's come up for me several times\n[17:32 --> 17:37] But it has windows phone os needs to make a comeback. I have a unihertz tighten pocket\n[17:38 --> 17:44] With the physical this is a preachy with a physical keyboard like a blackberry and it would be unstoppable with windows phone os\n[17:46 --> 17:49] And back to sex sex offenders top five sex offenders rick. Can you count these down?\n[17:50 --> 17:55] Coming in at number five according to live in sleazy. We have jimmy sevile number four donald trump\n[17:56 --> 17:58] Okay, allegedly\n[17:58 --> 18:00] Not even no\n[18:01 --> 18:03] Allegedly no allegedly according to him. No\n[18:03 --> 18:05] Number three harvey winestein\n[18:06 --> 18:09] Number two prince andrew allegedly according to him. No\n[18:10 --> 18:16] He can't say allegedly according to him. No all in one sentence. There's periods in there somewhere and it's not my responsibility to tell you where\n[18:16 --> 18:19] And number one gary glitter. That's number one with\n[18:20 --> 18:22] What should have probably been a literal bullet?\n[18:23 --> 18:25] Yeah, those are such a rough list\n[18:26 --> 18:29] It's an accurate possibly accurate but pretty rough list\n[18:31 --> 18:34] Snorlaxing says when I took mobile development in school\n[18:34 --> 18:38] You had to have an apple computer to emulate an iphone where android just worked\n[18:38 --> 18:42] That's the kind of apple versus uh windows experience. I'm talking about\n[18:42 --> 18:45] I just feel like a windows as an operating system is so much more flexible\n[18:45 --> 18:52] Case in point. I have a pretty good windows laptop that I use for work when I have to work with clients that\n[18:53 --> 18:57] tend to operate off of uh more of like an apple infrastructure and\n[18:58 --> 19:01] It was so fucking hard to get this snap camera\n[19:03 --> 19:09] Rip working on it that I just had to uh bell and get like a cheap secondary\n[19:10 --> 19:12] laptop to run it on\n[19:12 --> 19:14] That's the kind of thing\n[19:14 --> 19:16] I feel like they're constantly fucking up for me\n[19:19 --> 19:22] But those are very specific complaints if you're if you're just looking to like\n[19:22 --> 19:27] Edit video or like play media or use a computer firmware\n[19:27 --> 19:29] for less like\n[19:30 --> 19:33] I don't know weird media projects then I could see it not being a problem\n[19:33 --> 19:38] And it's I mean I've heard that their laptops in general are higher performing than um a lot of like\n[19:39 --> 19:41] Dell laptops or like laptops that use windows\n[19:42 --> 19:45] I don't know that stuff well enough to really to speak on it\n[19:45 --> 19:51] Then shut up and talk about pedophiles already alleged pet. No one's a pedophile. There's no more pedophile\n[19:51 --> 19:57] We got them all I think you're a little behind rick and not just because of your mouth. What do you mean?\n[19:58 --> 20:02] I'm literally reading the most up-to-the-date news courtesy of yahoo\n[20:02 --> 20:04] Anyway, he wrote\n[20:04 --> 20:07] We're back to trump now. Okay. We're doing trump still we're still talking about trump\n[20:07 --> 20:10] We're back to trump and we got to hurry up because you're on much time apparently\n[20:10 --> 20:15] Anyway, he sent him a sexy letter that he didn't send he didn't trump didn't send him a sexy letter\n[20:15 --> 20:18] Says trump and everyone else that's saying he did\n[20:19 --> 20:20] prove it\n[20:20 --> 20:26] But if you did believe it the letter concludes happy birthday and may every day be another wonderful secret\n[20:30 --> 20:35] That's just a nice thing that friends say to each other. One of you ever asked a friend told a friend\n[20:36 --> 20:39] It may every day be another wonderful secret\n[20:39 --> 20:41] secrets\n[20:42 --> 20:45] Can be the thing about a secret is it's like Schrodinger's\n[20:46 --> 20:51] Happiness you don't know if it's good or bad until you open the box and see what the secret is\n[20:51 --> 20:53] And if the box stays closed\n[20:53 --> 20:55] then\n[20:55 --> 21:00] The secret could always be incredibly pop pop positive and that's the that's our country right now\n[21:01 --> 21:03] Everybody wants to open the box\n[21:03 --> 21:07] But as long as we don't open the box. There's a 60 percent chance\n[21:07 --> 21:13] There's an adorable kitten in it and if we open the box, there's a 40 percent chance to hire that it's full of\n[21:13 --> 21:15] Stuff you just don't need to know about\n[21:19 --> 21:21] I just can't take you seriously\n[21:22 --> 21:27] When you're this glitchy looking i'm i'm glitching for america right now america you're glitching me out\n[21:29 --> 21:33] And it's because you're stressing us as you're stressing us decision makers out with your nosiness\n[21:33 --> 21:37] That's affecting polls that apparently mattered. Some people still damn it\n[21:38 --> 21:44] The card could depict a trumpy finger going into an ass could this be a secret\n[21:46 --> 21:48] Let's go with that they fingered each other's butts\n[21:49 --> 21:52] Would that satisfy everyone a little humiliation but not\n[21:53 --> 21:55] Legally as troubling\n[21:57 --> 22:00] If they wanted we're you know if those two had just fingered each other's butts\n[22:01 --> 22:03] Then I would say god bless\n[22:03 --> 22:05] But their butts aren't the butts that were worried about\n[22:07 --> 22:10] At least you said that terribly we I can at least enjoy that\n[22:11 --> 22:16] In an interview with the journal trump denied writing the letter or drawing the picture. This is not me. See here we go\n[22:17 --> 22:20] This is a fake thing. It's a fake wall street journal story\n[22:21 --> 22:25] By that I'm assuming it is a it's a fault. They did put out a whole story on it\n[22:25 --> 22:30] So that it's real that it's a story unfortunately, but it's fake. What he means to say is the story isn't true\n[22:31 --> 22:35] uh, Donald trump and jeffrey eppstein pictured in 1992 uh, this is in the story\n[22:37 --> 22:42] Look everybody loves these little gotcha photos of them hanging out and\n[22:43 --> 22:49] Virginia guffrey worked at mara lago and that's where eppstein met her and\n[22:50 --> 22:58] Trump openly dated a 20 year old woman that he said jis lane maxwell introduced him to and she seems to have known her\n[22:58 --> 23:04] Possibly when she was younger than that and he said that jis lane maxwell introduced him to other women\n[23:05 --> 23:08] In a tabloid in the 90s\n[23:09 --> 23:11] So\n[23:12 --> 23:15] I was I don't think most people are even aware of the stuff you're talking about right now rick\n[23:17 --> 23:19] My point is stop talking about it\n[23:20 --> 23:26] Geez what it's not like the guy was criminally accused of sexual assault by a 13 year old girl\n[23:27 --> 23:30] He'd literally well she wasn't 13 when she accused him, but\n[23:31 --> 23:33] But that case got thrown out so\n[23:34 --> 23:36] Let's throw it all out\n[23:36 --> 23:38] Throw it all out throw it all out\n[23:39 --> 23:41] Every time it gets to a court it doesn't\n[23:42 --> 23:45] Work so it must be a lie\n[23:46 --> 23:49] Yeah, virginia guffrey. I think is her name. She did she did die\n[23:50 --> 23:52] She died\n[23:52 --> 23:57] You know and I've also seen people say she's not credible because she was caught lying about certain things\n[24:00 --> 24:02] like like that would\n[24:02 --> 24:05] Make everyone even if she was lying like\n[24:06 --> 24:08] One of these victims who definitely wasn't lying about everything\n[24:09 --> 24:14] Um, there's just so much shit at this point. There's just mountains and mountains and mountains of shit. I believe her too\n[24:15 --> 24:20] I think there's like specific things where people like found contradictory facts to something or other\n[24:21 --> 24:23] That's just so ridiculous like\n[24:23 --> 24:25] I again, I don't even know\n[24:26 --> 24:28] Exactly what happened. I don't know if trump\n[24:29 --> 24:31] was directly involved with\n[24:32 --> 24:39] Attacking women or if he just knew this guy really well. He's protecting other people. I suspect the\n[24:39 --> 24:45] I suspect the more obvious option is true. Like if I had to go with my gut, I think donald trump is\n[24:46 --> 24:49] You know, I try not to use this word that often but a rapist\n[24:50 --> 24:54] He's been accused of it by multiple people at this point and he absolutely seems like one\n[24:55 --> 24:57] So it would not surprise me at all\n[24:57 --> 25:00] Um, and he was criminally liable for for rape. So like\n[25:02 --> 25:05] That's just the fact that we even have to entertain this like delusion\n[25:06 --> 25:08] that he's not a fucking creep and\n[25:09 --> 25:11] Almost certainly did this shit is insane\n[25:12 --> 25:14] but it's just so I guess\n[25:15 --> 25:17] somehow this\n[25:17 --> 25:19] Was not apparent to people\n[25:19 --> 25:24] Both times they voted for him and it's and it's managing to create like at least a fissure in his\n[25:25 --> 25:27] Um\n[25:27 --> 25:33] podcasting wing the podcasting wing of the of the republican party is acting like this is some type of revelation\n[25:34 --> 25:39] I don't know how aware like your average voter is of this stuff, but it's just it was so obvious\n[25:40 --> 25:45] Back in 2016 that this is who he was. It's only become more obvious since he's been president\n[25:46 --> 25:51] Uh, it's hard for me to believe that this is what's gonna take him down because it should have taken him down\n[25:51 --> 25:53] 17 times over\n[25:53 --> 25:57] But I guess the specific conspiratorial nature of the epstein stuff\n[25:58 --> 26:03] Makes it feel so deep rooted and troubling that I don't think people are going to be able to entirely move past it\n[26:03 --> 26:05] Like that combined. I guess with him just\n[26:05 --> 26:08] Going full like violence mode on a ran\n[26:09 --> 26:14] Despite people not really wanting us to get it pulled into more conflicts. Maybe that one-two punch is actually gonna\n[26:15 --> 26:17] Peel off support from him\n[26:17 --> 26:19] We'll just have to wait and see\n[26:20 --> 26:22] I don't think the birthday card is going to do it\n[26:23 --> 26:27] This birthday card didn't do it because it's not it's just\n[26:28 --> 26:31] It's just a store-bought card a store-bought card. They sold it at a store\n[26:32 --> 26:37] They sold a store at a store. It was just the hate it was the card that was already pre-signed donald\n[26:37 --> 26:40] And it was in the wacky card section of\n[26:40 --> 26:45] The hallmark store that donald trump probably had in one of his towers\n[26:45 --> 26:49] And it just came like that it came with that weird secret thing in the drawing of the naked woman\n[26:49 --> 26:52] And he just he was in a rush. So that's the one he bought\n[26:52 --> 26:57] Hmm is that in this news article you're reading? This is this is deep inside knowledge and I will\n[26:58 --> 27:04] I will be quoted on this. No one's gonna quote you rick. Well, but they could I'm just saying if you want to put me in the news\n[27:05 --> 27:10] Anyway, he the trump went on for more facts that aren't facts. We don't trust the news. It's not my language\n[27:10 --> 27:14] It's not my words trump told a newspaper allegedly according to this newspaper\n[27:14 --> 27:18] A type written note styled as an imaginary conversation between trump and epsi written in the third person\n[27:18 --> 27:22] Is reportedly included inside the outline of the naked woman\n[27:23 --> 27:29] In the imagined conversation trump reportedly says we have certain things in common jeffrey to which epsi replies\n[27:29 --> 27:31] Yes, we do come to think of it\n[27:32 --> 27:35] Onigmas never age. Have you noticed trump writes?\n[27:37 --> 27:39] According to the journal\n[27:40 --> 27:45] Um, I'm not unsettled by this. I just I my vision's not good today\n[27:46 --> 27:48] Okay\n[27:48 --> 27:51] Claims to have reviewed pages from a leather bound album of birthday cards\n[27:52 --> 27:56] Examined by a department of justice officials who investigated epsi and his former girlfriend\n[27:57 --> 27:59] Just in just laying at max well\n[28:00 --> 28:03] The revelation follows a disastrous week for trump which we don't need to get into\n[28:04 --> 28:09] So fucking creepy with not even that weird even if it was true\n[28:09 --> 28:14] Which it's not says the president who we need to trust because we elected him to be our commander\n[28:15 --> 28:19] In honesty and why would he lie about this? Why wouldn't he lie about this?\n[28:22 --> 28:28] This this could be the kind of thing though like this is just creepy. So it's somewhat fascinating\n[28:29 --> 28:30] um\n[28:30 --> 28:32] But it could be the kind of story that never\n[28:33 --> 28:34] really\n[28:34 --> 28:36] syncs into like uh\n[28:37 --> 28:41] Being accepted as fact like the leaked um like biden's daughter had a leaked\n[28:42 --> 28:44] uh\n[28:44 --> 28:47] Journal she like had a journal that supposedly leaked\n[28:48 --> 28:53] And in that journal she talked about taking showers with her dad when she was like a teenager\n[28:54 --> 28:58] But that never really rose to the level of being accepted commonly as fact\n[28:59 --> 29:02] To the point where i'm not even sure if it's that that's like legit or not\n[29:02 --> 29:07] It was it was very in right wing circles. I could imagine this kind of thing sort of being more\n[29:08 --> 29:11] Like the left wing version of that but the heat is on him\n[29:12 --> 29:19] So hard right now trump that is not biden biden's heat is very much fading dark soul style\n[29:20 --> 29:25] Uh, the heat is on trump so hard right now that it's just like the the chips keeps stacking up\n[29:25 --> 29:27] I don't know\n[29:28 --> 29:33] There's no incentive for him to actually release any of these things in a way that will get him legally in trouble\n[29:33 --> 29:37] So I just and as long as he's got the reigns of the party, which I don't see going anywhere\n[29:38 --> 29:42] I don't see him losing those reigns anytime soon. He's roman reigning over the party\n[29:43 --> 29:47] I just I I feel again like all of this is going to just be kind of circling outrage\n[29:48 --> 29:52] Where everything is just constantly denied and everyone basically knows\n[29:53 --> 29:56] more or less everyone has a vague sense of what actually happened, but\n[29:57 --> 30:02] There's just no way that anyone will hold him legally culpable for it. I know that democrats have introduced\n[30:03 --> 30:04] Um\n[30:04 --> 30:05] Like\n[30:05 --> 30:09] Or they're trying to introduce legislation to be voted on to release the eppstein files\n[30:10 --> 30:16] Legislation, I don't even know what it would be there. They're trying to like bring it to a vote to release the eppstein files certain democrats\n[30:17 --> 30:21] I don't know how that's going or where that will go\n[30:21 --> 30:25] But it would be good if they could at least use this moment a discharge petition\n[30:25 --> 30:26] Thank you bonsai bullfrog\n[30:26 --> 30:29] Would be good if the democrats could get their shit together\n[30:29 --> 30:36] For just even half a second to make everyone go on the record and vote against these files being released, which I think\n[30:37 --> 30:40] Trump would have to whip at least the republicans to vote against it\n[30:41 --> 30:46] The fucked up thing though is I'm assuming democrats would also have to vote against it because\n[30:47 --> 30:51] Again, the only thing that really makes sense to me here is that these files implicate\n[30:52 --> 30:57] people on both sides of the political spectrum from all over the place\n[30:57 --> 30:59] The only thing that doesn't make sense to me about that\n[31:00 --> 31:02] Like line of reasoning is if\n[31:03 --> 31:08] All of our national power brokers are the ones in charge of stewarding these files and these revelations\n[31:10 --> 31:16] Why wouldn't they just manipulate them like trump's talking about how how biden manipulated them to make him look bad\n[31:16 --> 31:19] I don't understand why trump isn't just manipulating them to make the democrats look bad\n[31:20 --> 31:26] I guess it's just like all of the norms have been so shattered. I can't imagine that these things aren't basically up for sale\n[31:27 --> 31:29] Like I don't know why\n[31:29 --> 31:31] The state department or the fbi\n[31:31 --> 31:34] Wouldn't be you couldn't just manipulate them into manipulating the documents\n[31:35 --> 31:38] Um, but maybe I'm being too nihilistic. Maybe there's still\n[31:39 --> 31:42] Enough credibility when these investigations happen that they just uncover things\n[31:42 --> 31:47] Then again, half the things they could uncover would probably just be shit. Again, we already know\n[31:47 --> 31:49] um, so\n[31:49 --> 31:53] I don't know we'll see we'll see how much this continues to be a story\n[31:53 --> 32:00] Two a exists for a reason. I don't I'm too dumb to even know what two a is in this context live in sleazy\n[32:02 --> 32:04] Ready for a great stream\n[32:05 --> 32:10] With many wonderful secrets. Thank you. Thank you, my friend you and I what did he say?\n[32:11 --> 32:13] That is one of the more insane\n[32:13 --> 32:15] Things I've heard written\n[32:16 --> 32:18] enigmas never age\n[32:18 --> 32:23] Keep that in mind us enigmas we never age. Whoa, you're claiming to be an enigma now\n[32:23 --> 32:25] I'm just trying to sound presidential personally\n[32:26 --> 32:29] I'm studying up on how to be an orator like donald trump\n[32:30 --> 32:36] E gene carol would uh disagree with the every time it goes to court thing fair enough\n[32:37 --> 32:40] They couldn't hide the fact that they edited the video in the metadata exactly\n[32:41 --> 32:44] But I just mean like if you're if you control the spigot\n[32:45 --> 32:47] Then you can kind of\n[32:47 --> 32:49] Control the flow of information. I'm assuming\n[32:50 --> 32:54] But maybe not I mean, you know the government's so big and cumbersome maybe\n[32:55 --> 33:00] Maybe there just is legitimately a file that's like and then on this day donald trump was hanging out with\n[33:01 --> 33:05] Epstein at his pedophile mansion and there were this many 15 year old girls there\n[33:05 --> 33:08] And there's just no way for him to like edit that shit out of there\n[33:10 --> 33:13] We'll see\n[33:13 --> 33:15] Yeah, we're this all but spigot control\n[33:16 --> 33:19] The whole government is just about spigot control\n[33:23 --> 33:27] Was there a wrestler the enigma there has to have been or at least it was\n[33:28 --> 33:30] Like the nickname in front of a wrestler's name\n[33:32 --> 33:34] Louis baton the enigma\n[33:34 --> 33:39] There should be a wrestler named Louis baton the enigma. I've decided even if it's a brand just do it anyway\n[33:40 --> 33:43] Jeff Hardy was the charismatic enigma. That's a good point\n[33:45 --> 33:49] They just fully released the attorney involved in the Epstein case would be allowed to release what they have\n[33:49 --> 33:55] Well, they just fired uh, James Comey's daughter who I guess was involved in the Epstein investigation\n[33:57 --> 33:59] um\n[33:59 --> 34:01] Though given her handling of\n[34:01 --> 34:03] The p-ditty trial\n[34:03 --> 34:04] I can't say\n[34:04 --> 34:09] Her batting record against rapists and pedophiles feels particularly strong\n[34:11 --> 34:15] But I'm also kind of surprised she was still around given how much trump\n[34:16 --> 34:20] Uh, you know hates the Comey's he hates Comey's\n[34:21 --> 34:24] Kind of sounds like a fun product when you say it like that\n[34:25 --> 34:27] So anyway, you're out of time case\n[34:28 --> 34:31] You got to just hard cut to munch and do a a uh\n[34:33 --> 34:38] Debate that's true. There's no time to wait a quick debate. It's time for munching crumbs\n[34:39 --> 35:01] How am I supposed to debate under these circumstances?\n[35:02 --> 35:05] Growing to me when I only got five minutes to do this\n[35:06 --> 35:09] For a topic as meaningful as hard shell versus soft shell tacos\n[35:10 --> 35:21] Let's see if uh\n[35:21 --> 35:23] See if this still works\n[35:23 --> 35:25] Is your is your speaking spell working today? Yum yum yum\n[35:29 --> 35:31] Okay, it is working I guess\n[35:32 --> 35:34] Good to know\n[35:34 --> 35:36] What's that you more to say\n[35:37 --> 35:39] constantly saying\n[35:40 --> 35:45] Things to me\n[35:45 --> 35:47] Munch love soft shell\n[35:48 --> 35:52] That's actually true soft shell is the traditional\n[35:53 --> 35:54] taco\n[35:54 --> 35:56] arrangement\n[35:56 --> 36:02] But just do nachos if you're gonna do nachos nachos are a superior way to scoop up ingredients into your mouth anyway\n[36:03 --> 36:05] Yeah, traditional and as we all know\n[36:06 --> 36:09] I've claimed to be mexican on this stream before\n[36:10 --> 36:18] Isn't that right crumb?\n[36:18 --> 36:20] I prefer burritos\n[36:21 --> 36:32] Okay, well that's convenient. Wait, that's not an option you fucking bastard. I only eat white foods\n[36:33 --> 36:35] That sounds about right\n[36:35 --> 36:37] That does sound about right for you\n[36:38 --> 36:40] So disappointing\n[36:41 --> 36:45] I miss my numby\n[36:45 --> 36:51] Maybe this thing really works, you know, I was wondering if it did but I can't imagine anyone other than you saying some shit like that\n[36:51 --> 36:54] That's disgusting. It's a disgusting thing to say\n[36:54 --> 36:56] Yummy crunchy taco in my tummy\n[36:57 --> 36:59] All right for anyone who doesn't know\n[36:59 --> 37:06] Look crump seems to damage his vocal cords. I got him this device so that he can talk to me the very real him\n[37:06 --> 37:08] Who's definitely still alive and how could he not be listen to him go?\n[37:10 --> 37:12] Listen to him go crumb\n[37:13 --> 37:15] He lost those flaccid shells\n[37:17 --> 37:18] No, I'm\n[37:18 --> 37:22] I'm saying first of all soft shell the soft taco is not flaccid\n[37:22 --> 37:24] If anything it should be filled to bursting\n[37:24 --> 37:31] Okay, and that makes it stiff in its own way like an overstuffed burrito. We don't have much time left. I gotta fucking go\n[37:31 --> 37:36] So i'm soft shell you're apparently a maniac and love hard shell tacos disgusting to say\n[37:36 --> 37:40] Uh, but I will bravely defend the side of the angels here for my proud mexican people\n[37:40 --> 37:43] Um, which I am claiming to 100 represent\n[37:45 --> 37:48] No one here to give me pushback on that. I'm realizing\n[37:48 --> 37:50] Which is fine\n[37:50 --> 37:54] It's fine when I have to sit in the statements that I make and no one can disagree with them right away\n[37:58 --> 38:07] Unless they want to\n[38:07 --> 38:09] No munch is still a broke\n[38:11 --> 38:13] Okay, look, um\n[38:13 --> 38:15] It's just you miss coach magurg\n[38:16 --> 38:20] That's insane to say no one no one misses that man a trader\n[38:21 --> 38:24] A trader. I don't even want his support and I don't and I never wanted it\n[38:24 --> 38:28] And I don't need it because uh, he probably wants to give it back and I don't even care\n[38:28 --> 38:33] I've rejected him. He didn't reject me and the point is soft shell tacos are better\n[38:34 --> 38:37] Because look if you're too hard and you're come this our best\n[38:37 --> 38:42] It's my turn to talk actually it's actually my turn to talk. I'm currently the one disgusting soft shell tacos\n[38:42 --> 38:47] Look the point is uh, you you want a flexible taco because what's just got us\n[38:47 --> 38:52] What about fucking to status? We're not talking about that grumb point is soft shell tacos are more malleable\n[38:52 --> 38:54] You can stuff them with more meats and delicious\n[38:54 --> 38:56] Join the cream team patreon\n[38:56 --> 39:00] The quick fucking plug in the patreon right now. We're trying to have an actual discussion about\n[39:01 --> 39:02] I'm scared\n[39:02 --> 39:06] Yeah, I bet you're scared you're scared because I'm hitting you with facts like that soft shell tacos are frankly superior\n[39:06 --> 39:10] It's easier to get in your mouth. You can't have a taco without baha blast\n[39:10 --> 39:16] You you absolutely can you can have a diet coke you can have a agua fresca you can have a jarito\n[39:17 --> 39:20] Haritos on your hard shell so with sour cream\n[39:20 --> 39:25] You fucking wish you could cream up your soul your soul is as dry as a goddamn badgat left out in the desert\n[39:27 --> 39:30] You I don't you don't even know how to say his fucking name. How could you miss him?\n[39:31 --> 39:35] Do you actually have anything to fucking say about soft shell tacos or hard shell tacos?\n[39:50 --> 39:56] Because while trying not the idea of hard shells you can have nachos you can have taco salad\n[39:57 --> 40:00] What do you get when your taco falls apart?\n[40:01 --> 40:05] Depression and rejection which I know you're all too familiar with\n[40:07 --> 40:09] Are you fucking done? Jesus\n[40:12 --> 40:14] How's it feel to lose suck my wife?\n[40:20 --> 40:22] Just gonna ignore that because I'm one\n[40:23 --> 40:26] Whoa, don't need to win in that way\n[40:26 --> 40:28] Hey\n[40:28 --> 40:30] Can't even find your wife actually\n[40:31 --> 40:36] You could get a hold of her that'd be very helpful because I don't know where to send you after work\n[40:36 --> 40:38] You just sit here and it's unsettling\n[40:40 --> 40:42] Oh, shit. You didn't win\n[40:44 --> 40:48] Yeah, no one's getting points for that\n[40:48 --> 40:50] Turn it turn his music off\n[40:51 --> 40:54] And reduce his score. That's ridiculous one second\n[40:55 --> 40:57] Boom\n[40:57 --> 41:00] Trying to steal my victory you truly must think that you're\n[41:01 --> 41:04] Unkillable if you're trying to pull some shit like that my hard earned victory\n[41:05 --> 41:10] I already gave you six points out of the kindness of my heart because I felt so bad for you being so fucking pathetic all the time\n[41:11 --> 41:13] Jesus I gotta fucking go\n[41:16 --> 41:23] Munchie tortoise if you know what I mean. I don't know what that means. What would that even fucking mean from realistically?\n[41:24 --> 41:26] You took eating from me\n[41:29 --> 41:33] First of all you took it from yourself with your bad behavior and your gambling\n[41:33 --> 41:35] I want to boom boom boom and a zoom zoom\n[41:36 --> 41:41] I'll bet you do and we would all support you doing anything other than sitting still\n[41:41 --> 41:43] I will stuff your taco dry\n[41:45 --> 41:51] I bet you would love whatever anyone know that is to make sense, but you cannot even step\n[41:52 --> 41:54] to this\n[42:06 --> 42:08] Your voice thing just malfunction\n[42:09 --> 42:13] Because that wouldn't be surprising hell is too hard for soft tacos\n[42:14 --> 42:20] But in hell the hard shells always stab the roof of your mouth. All right, look we gotta fucking go\n[42:20 --> 42:26] I'm we're gonna raid somebody. I guess I'll do it because someone's being so lazy today\n[42:29 --> 42:32] Trying to swoop me with your malfunctioning voice box\n[42:33 --> 42:38] I'm not that easily scared by whatever you think that even was okay. Don't do it again\n[42:39 --> 42:47] Please is someone looking after my mummy. I hope it's okay. There's no time for this. Uh, let's raid Bruce Green\n[42:47 --> 42:57] Actually, let's raid Ricky Pica\n[42:57 --> 43:02] Uh, good. Thank you red jacket is a cool nickname and I will absolutely take that melty bond torture\n[43:02 --> 43:04] Unlike your nickname, which is still just\n[43:12 --> 43:17] Sorry for the quick stream today. I don't really understand what's happening. You might be getting actually haunted\n[43:18 --> 43:20] What what did you even just say?\n[43:20 --> 43:22] Jesus christ\n[43:22 --> 43:25] Let's play the credits and then let's actually use it as the end of the stream for once\n[43:27 --> 43:29] Yeah, well\n[43:32 --> 43:34] What'd you say about my mother taco\n[43:36 --> 43:40] My mother taco is a saint and she is filled with only the finest meats which are not yours\n[43:41 --> 43:45] That's all the time we have for today case has to do a patreon or something. He's just so busy\n[43:45 --> 43:48] He's literally so busy. He's already late. What the fuck is that?\n[43:48 --> 43:52] It's fucking terrifying. Can you not put yourself on a tv?\n[43:54 --> 43:56] Yeah, well apparently you already are jesus"
+}
