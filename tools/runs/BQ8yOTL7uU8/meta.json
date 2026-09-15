@@ -1,0 +1,19 @@
+{
+  "vod_id": "BQ8yOTL7uU8",
+  "title": "Ceaseless Newsing",
+  "url": "https://www.youtube.com/watch?v=BQ8yOTL7uU8",
+  "duration_seconds": 11575,
+  "duration": "3:12:55",
+  "timestamp": 1750723200,
+  "aired_at": "2025-06-24T00:00:00+00:00",
+  "date": "2025-06-24",
+  "ingested_at": "2026-09-15T05:02:34.303531+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "BQ8yOTL7uU8",
+  "yt_url": "https://www.youtube.com/watch?v=BQ8yOTL7uU8",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-06-24"
+}
