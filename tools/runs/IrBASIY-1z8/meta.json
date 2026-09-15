@@ -1,0 +1,19 @@
+{
+  "vod_id": "IrBASIY-1z8",
+  "title": "Fast and Late Friday News",
+  "url": "https://www.youtube.com/watch?v=IrBASIY-1z8",
+  "duration_seconds": 10230,
+  "duration": "2:50:30",
+  "timestamp": 1752883200,
+  "aired_at": "2025-07-19T00:00:00+00:00",
+  "date": "2025-07-19",
+  "ingested_at": "2026-09-15T10:36:03.069292+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "IrBASIY-1z8",
+  "yt_url": "https://www.youtube.com/watch?v=IrBASIY-1z8",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-07-19"
+}
