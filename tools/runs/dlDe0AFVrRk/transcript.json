@@ -1,0 +1,3541 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "model_requested": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 2722.361,
+  "chunk_seconds": null,
+  "segments": [
+    {
+      "id": 0,
+      "start": 6.13,
+      "end": 12.13,
+      "text": "I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog."
+    },
+    {
+      "id": 1,
+      "start": 12.13,
+      "end": 469.8,
+      "text": "Case Blackwell said 10, 9, 8, 7 is this how time works. Can we start?"
+    },
+    {
+      "id": 2,
+      "start": 469.8,
+      "end": 484.8,
+      "text": "We're live in 10, 9, 8, 7, 6, 5, 4, 3, 2, 1. Let's do this. I'm Pepito."
+    },
+    {
+      "id": 3,
+      "start": 484.8,
+      "end": 521.63,
+      "text": "Oh yeah everybody. We're back. There's no time to mess around today. I only have 30 minutes to stream before this..."
+    },
+    {
+      "id": 4,
+      "start": 521.63,
+      "end": 528.63,
+      "text": "Before the Patreon where I'll still be streaming. But only if you're one of our specific patrons."
+    },
+    {
+      "id": 5,
+      "start": 528.63,
+      "end": 533.49,
+      "text": "Bitch, if you're watching this you might be."
+    },
+    {
+      "id": 6,
+      "start": 533.49,
+      "end": 543.49,
+      "text": "Uh, Daggett, thank you so much for the 31 months. What? Where does the time go?"
+    },
+    {
+      "id": 7,
+      "start": 543.49,
+      "end": 554.42,
+      "text": "Uh, also thank you Archangels and a hype train. I don't even think I have time to check in with a hype train."
+    },
+    {
+      "id": 8,
+      "start": 554.42,
+      "end": 568.9,
+      "text": "Pepito, we need to run a tight ship today, okay? We might have trouble running a tight ship today."
+    },
+    {
+      "id": 9,
+      "start": 568.9,
+      "end": 570.9,
+      "text": "I'm already sensing some technical difficulties."
+    },
+    {
+      "id": 10,
+      "start": 570.9,
+      "end": 583.69,
+      "text": "Hype train, are you there? Are you fricking there? There's no time."
+    },
+    {
+      "id": 11,
+      "start": 583.69,
+      "end": 588.69,
+      "text": "There's no time for any of this, dude."
+    },
+    {
+      "id": 12,
+      "start": 588.69,
+      "end": 594.69,
+      "text": "Because that's actually the sweetest part of talking to yourself. You just need to leave it on me."
+    },
+    {
+      "id": 13,
+      "start": 594.69,
+      "end": 596.69,
+      "text": "I don't know if I want to do it."
+    },
+    {
+      "id": 14,
+      "start": 596.69,
+      "end": 606.13,
+      "text": "You have zero choice. Yes, let's do a cool 30 minutes of me thinking."
+    },
+    {
+      "id": 15,
+      "start": 606.13,
+      "end": 616.13,
+      "text": "Wondle Sprout and Big Jada and Stonkin and Daggett on Twitch. 30 minutes of that case."
+    },
+    {
+      "id": 16,
+      "start": 616.13,
+      "end": 619.13,
+      "text": "They deserve 30 minutes of me thinking. So what are you going to do?"
+    },
+    {
+      "id": 17,
+      "start": 619.13,
+      "end": 627.13,
+      "text": "I'm going to have to move on. There's only got 30 minutes. But..."
+    },
+    {
+      "id": 18,
+      "start": 627.13,
+      "end": 632.59,
+      "text": "But? But? You know."
+    },
+    {
+      "id": 19,
+      "start": 632.59,
+      "end": 638.18,
+      "text": "What if the hype train took over the entire stream?"
+    },
+    {
+      "id": 20,
+      "start": 638.18,
+      "end": 643.18,
+      "text": "That's what I'm fricking saying, man. I'm just saying."
+    },
+    {
+      "id": 21,
+      "start": 643.18,
+      "end": 646.18,
+      "text": "Okay, okay, boom. Like I'm saying."
+    },
+    {
+      "id": 22,
+      "start": 646.18,
+      "end": 649.18,
+      "text": "Yes. Anyway, let me do the whole stream."
+    },
+    {
+      "id": 23,
+      "start": 649.18,
+      "end": 654.18,
+      "text": "Jeb was requested in the movies. I don't have time for that. We just need to immediately go to these other segments."
+    },
+    {
+      "id": 24,
+      "start": 654.18,
+      "end": 661.66,
+      "text": "So unfair. I'm barely ever alive. You're already going right past me."
+    },
+    {
+      "id": 25,
+      "start": 666.08,
+      "end": 681.86,
+      "text": "In other news, I think Pepito might have just declared his absence once again, unfortunately."
+    },
+    {
+      "id": 26,
+      "start": 681.86,
+      "end": 688.94,
+      "text": "But why would it be? Why would Pepito be missing again?"
+    },
+    {
+      "id": 27,
+      "start": 688.94,
+      "end": 692.94,
+      "text": "Let me just try one thing real quick. Maybe something else broke."
+    },
+    {
+      "id": 28,
+      "start": 692.94,
+      "end": 712.87,
+      "text": "He was working earlier today. He was in here working hard. He's just eating. He might be."
+    },
+    {
+      "id": 29,
+      "start": 712.87,
+      "end": 718.4,
+      "text": "Okay, wait. I'm going to do one thing real quick, guys."
+    },
+    {
+      "id": 30,
+      "start": 718.4,
+      "end": 728.61,
+      "text": "You know, after I said I need to do this as quickly as possible, I think it's important that I take a minute here to mess with the tech stuff."
+    },
+    {
+      "id": 31,
+      "start": 728.61,
+      "end": 737.06,
+      "text": "But don't worry. We have the hype trains music at least while I do this."
+    },
+    {
+      "id": 32,
+      "start": 737.06,
+      "end": 743.46,
+      "text": "Let's see how many followers we can lose today. It's my new mission. Get those negative numbers up."
+    },
+    {
+      "id": 33,
+      "start": 743.46,
+      "end": 749.97,
+      "text": "Ooh, ooh. Okay. Okay, this has to work, right?"
+    },
+    {
+      "id": 34,
+      "start": 749.97,
+      "end": 755.62,
+      "text": "Up we go."
+    },
+    {
+      "id": 35,
+      "start": 755.62,
+      "end": 760.62,
+      "text": "Yeah, you're back at work. I knew you couldn't stay away, Pepito."
+    },
+    {
+      "id": 36,
+      "start": 760.62,
+      "end": 764.62,
+      "text": "Why were you not in your freaking seat?"
+    },
+    {
+      "id": 37,
+      "start": 764.62,
+      "end": 772.19,
+      "text": "I was doing stuff. I'm busy. I was being the hype train."
+    },
+    {
+      "id": 38,
+      "start": 772.19,
+      "end": 774.19,
+      "text": "You're the hype train?"
+    },
+    {
+      "id": 39,
+      "start": 774.19,
+      "end": 781.19,
+      "text": "Yeah, that's me in a costume. That's the new hype train lore. Did you know that that's what's going on there?"
+    },
+    {
+      "id": 40,
+      "start": 781.19,
+      "end": 787.19,
+      "text": "The hype train is on my other screen, and I don't think it's you."
+    },
+    {
+      "id": 41,
+      "start": 787.19,
+      "end": 796.19,
+      "text": "I'm deaf if that is not more accurate. I am my own entity. Stop stealing hype train valor."
+    },
+    {
+      "id": 42,
+      "start": 796.19,
+      "end": 800.5,
+      "text": "Pepito, what do you have to say for yourself?"
+    },
+    {
+      "id": 43,
+      "start": 800.5,
+      "end": 803.5,
+      "text": "Well, I have hype train and I have appeared on the same screen."
+    },
+    {
+      "id": 44,
+      "start": 803.5,
+      "end": 806.5,
+      "text": "Have you and I ever appeared on the same screen?"
+    },
+    {
+      "id": 45,
+      "start": 806.5,
+      "end": 809.5,
+      "text": "Actually, yes."
+    },
+    {
+      "id": 46,
+      "start": 809.5,
+      "end": 819.33,
+      "text": "Okay. Well, the hype train has been powered up to level one? Level one?"
+    },
+    {
+      "id": 47,
+      "start": 819.33,
+      "end": 823.33,
+      "text": "Is he at level zero? I guess he was at level zero."
+    },
+    {
+      "id": 48,
+      "start": 823.33,
+      "end": 826.33,
+      "text": "Okay, there's no time for this. You only have two minutes left to stream."
+    },
+    {
+      "id": 49,
+      "start": 826.33,
+      "end": 829.33,
+      "text": "I think I have 25 minutes at least."
+    },
+    {
+      "id": 50,
+      "start": 829.33,
+      "end": 837.33,
+      "text": "You have two segments? Maniac, I don't actually care. I was trying to get worked up, but I don't really care what happens."
+    },
+    {
+      "id": 51,
+      "start": 837.33,
+      "end": 842.33,
+      "text": "Okay, well, we'll do the segments that were requested. Were you baptizing the cheese?"
+    },
+    {
+      "id": 52,
+      "start": 842.33,
+      "end": 847.33,
+      "text": "Yeah, I'm the Pope. I'm the stream Pope. Can you change my title already?"
+    },
+    {
+      "id": 53,
+      "start": 847.33,
+      "end": 853.33,
+      "text": "Wait, I guess I'm the producer. Can I read and write, please? How do you read and write?"
+    },
+    {
+      "id": 54,
+      "start": 853.33,
+      "end": 858.33,
+      "text": "I don't think I can teach you in the 25 minutes we have to stream."
+    },
+    {
+      "id": 55,
+      "start": 858.33,
+      "end": 863.33,
+      "text": "Can someone teach me how to read and write really quickly so I can update my title to stream Pope?"
+    },
+    {
+      "id": 56,
+      "start": 863.33,
+      "end": 867.33,
+      "text": "I'll do it for you later. I'm also building you your own talk show, you know."
+    },
+    {
+      "id": 57,
+      "start": 867.33,
+      "end": 869.33,
+      "text": "Build it faster."
+    },
+    {
+      "id": 58,
+      "start": 869.33,
+      "end": 873.33,
+      "text": "Okay. This is the wildest episode of 24 Ever."
+    },
+    {
+      "id": 59,
+      "start": 873.33,
+      "end": 881.33,
+      "text": "It's all happening in real time. Everything you're seeing, it took place over 24 minutes?"
+    },
+    {
+      "id": 60,
+      "start": 881.33,
+      "end": 883.33,
+      "text": "It'll be about that."
+    },
+    {
+      "id": 61,
+      "start": 883.33,
+      "end": 888.33,
+      "text": "Okay, well anyway, I'm gonna send it. Let's send it to the other thing. What do we have requested?"
+    },
+    {
+      "id": 62,
+      "start": 888.33,
+      "end": 892.33,
+      "text": "We need to see a debate. No wait, that was yesterday."
+    },
+    {
+      "id": 63,
+      "start": 892.33,
+      "end": 905.33,
+      "text": "We need to see a trend at the movies. I don't actually see a request for Jeb, who's still missing."
+    },
+    {
+      "id": 64,
+      "start": 905.33,
+      "end": 911.33,
+      "text": "So we couldn't see him even if we wanted to. I only see a request for the movies."
+    },
+    {
+      "id": 65,
+      "start": 911.33,
+      "end": 916.33,
+      "text": "But we can maybe do Jeb. I just don't see the Jeb request live in Sleazy."
+    },
+    {
+      "id": 66,
+      "start": 917.33,
+      "end": 920.33,
+      "text": "Is it broken? Case, did you break another thing?"
+    },
+    {
+      "id": 67,
+      "start": 920.33,
+      "end": 922.33,
+      "text": "Well, we can just do it if there's time."
+    },
+    {
+      "id": 68,
+      "start": 922.33,
+      "end": 928.33,
+      "text": "Okay, then if there's time, we'll do it. But for now, it's time for whatever this segment is."
+    },
+    {
+      "id": 69,
+      "start": 928.33,
+      "end": 953.51,
+      "text": "Oh yeah. What a perfect time for me to work for five minutes."
+    },
+    {
+      "id": 70,
+      "start": 953.51,
+      "end": 958.51,
+      "text": "And then get the fuck out of here because I'm so busy. You're at the movies. I'm Trent."
+    },
+    {
+      "id": 71,
+      "start": 958.51,
+      "end": 961.51,
+      "text": "There's my parole officer, apparently. Supposedly."
+    },
+    {
+      "id": 72,
+      "start": 961.51,
+      "end": 965.51,
+      "text": "No, I am. I'm really your parole officer."
+    },
+    {
+      "id": 73,
+      "start": 965.51,
+      "end": 971.51,
+      "text": "Supposedly, allegedly. According to you in the state, but I don't know if I believe in the state."
+    },
+    {
+      "id": 74,
+      "start": 971.51,
+      "end": 978.51,
+      "text": "I mean, who else would make me a parole officer? Good question. That's a question for the state."
+    },
+    {
+      "id": 75,
+      "start": 978.51,
+      "end": 982.51,
+      "text": "Do you don't believe in the state, I thought? Exactly. You see my conundrum."
+    },
+    {
+      "id": 76,
+      "start": 982.51,
+      "end": 986.51,
+      "text": "Okay, well look, we're also in the middle of a hype train, so..."
+    },
+    {
+      "id": 77,
+      "start": 986.51,
+      "end": 992.51,
+      "text": "Hyper-R-R-Roonios! Oh my God, stop. What are you doing?"
+    },
+    {
+      "id": 78,
+      "start": 992.51,
+      "end": 996.51,
+      "text": "Hype! Hypetonic! What do you guys say for hype?"
+    },
+    {
+      "id": 79,
+      "start": 996.51,
+      "end": 1001.51,
+      "text": "None of what you just said. Just fucking don't mention it. Jesus."
+    },
+    {
+      "id": 80,
+      "start": 1001.51,
+      "end": 1006.51,
+      "text": "Play it fucking cool, man. If anything, case is overdue. Look at all this shit on the screen."
+    },
+    {
+      "id": 81,
+      "start": 1006.51,
+      "end": 1010.51,
+      "text": "What you gotta do is when there's a hype train happening to say, I don't even care about this bullshit,"
+    },
+    {
+      "id": 82,
+      "start": 1010.51,
+      "end": 1015.51,
+      "text": "I guess subscribe if you want. Whatever, if you're into that kind of stupid fucking thing."
+    },
+    {
+      "id": 83,
+      "start": 1015.51,
+      "end": 1019.51,
+      "text": "And then people will sub like crazy. That sounds like you're just gonna discourage people."
+    },
+    {
+      "id": 84,
+      "start": 1019.51,
+      "end": 1023.51,
+      "text": "We don't have time for this, dude. We have to watch, I think, eight full films today."
+    },
+    {
+      "id": 85,
+      "start": 1023.51,
+      "end": 1027.51,
+      "text": "Three trailers. We're saying the same thing."
+    },
+    {
+      "id": 86,
+      "start": 1027.51,
+      "end": 1031.51,
+      "text": "I gotta get down to business, dude. We're fucking so busy today."
+    },
+    {
+      "id": 87,
+      "start": 1031.51,
+      "end": 1039.51,
+      "text": "And there's like, I think a thousand trailers came out, and I gotta like, at least watch 90% of those."
+    },
+    {
+      "id": 88,
+      "start": 1039.51,
+      "end": 1043.51,
+      "text": "Probably. Let's see what we even have to deal with."
+    },
+    {
+      "id": 89,
+      "start": 1043.51,
+      "end": 1048.69,
+      "text": "It actually is Trailer Thursdays. That's crazy."
+    },
+    {
+      "id": 90,
+      "start": 1048.69,
+      "end": 1055.69,
+      "text": "I mean, sometimes this segment's requested on Thursdays. Is that that crazy? It's fucking crazy, dude. That never happens."
+    },
+    {
+      "id": 91,
+      "start": 1055.69,
+      "end": 1059.69,
+      "text": "Well, case actually doesn't stream on Thursdays usually, so it is kind of crazy."
+    },
+    {
+      "id": 92,
+      "start": 1059.69,
+      "end": 1062.69,
+      "text": "Okay, in that specific context, it's a little crazy, I guess."
+    },
+    {
+      "id": 93,
+      "start": 1062.69,
+      "end": 1071.58,
+      "text": "Elden Ring Night Rain Bring Me To Life? Like with the song Bring Me, Bring Me, oh my god, they did it."
+    },
+    {
+      "id": 94,
+      "start": 1071.58,
+      "end": 1074.58,
+      "text": "They got this song for an Elden Ring Trailer?"
+    },
+    {
+      "id": 95,
+      "start": 1074.58,
+      "end": 1078.58,
+      "text": "I'm assuming you want to see this. The Wake Me Up song?"
+    },
+    {
+      "id": 96,
+      "start": 1078.58,
+      "end": 1083.58,
+      "text": "Wake me up. I think it's Bring Me To Life. No, it's Wake Me Up."
+    },
+    {
+      "id": 97,
+      "start": 1083.58,
+      "end": 1093.58,
+      "text": "Let's not argue about this. It's killing, it literally killed the Hyper Roonies and the Hyptasms, and now nobody's hypodonic."
+    },
+    {
+      "id": 98,
+      "start": 1093.58,
+      "end": 1097.58,
+      "text": "This is just, why are you doing this today? Why are you talking like this? I'm just trying to make it fun."
+    },
+    {
+      "id": 99,
+      "start": 1097.58,
+      "end": 1100.58,
+      "text": "Just play the fucking Elden Ring Trailer."
+    },
+    {
+      "id": 100,
+      "start": 1100.58,
+      "end": 1116.18,
+      "text": "With respect, this is beautiful."
+    },
+    {
+      "id": 101,
+      "start": 1116.18,
+      "end": 1120.18,
+      "text": "He's got picked up by a screeching awk."
+    },
+    {
+      "id": 102,
+      "start": 1120.18,
+      "end": 1123.18,
+      "text": "Hello, PB7s."
+    },
+    {
+      "id": 103,
+      "start": 1123.18,
+      "end": 1190.63,
+      "text": "I wasn't into this, but now I am. There's a goofy version? I don't even know what this game is, but if this is the soundtrack I'm in, that was fucking beautiful."
+    },
+    {
+      "id": 104,
+      "start": 1190.63,
+      "end": 1196.63,
+      "text": "That... can we make that the official theme song of our stream?"
+    },
+    {
+      "id": 105,
+      "start": 1196.63,
+      "end": 1199.63,
+      "text": "Can we play Evanescence copyrighted constantly?"
+    },
+    {
+      "id": 106,
+      "start": 1199.63,
+      "end": 1211.7,
+      "text": "How can you see into my eyes like all you know?"
+    },
+    {
+      "id": 107,
+      "start": 1211.7,
+      "end": 1220.7,
+      "text": "Now into my core where I become so numb."
+    },
+    {
+      "id": 108,
+      "start": 1220.7,
+      "end": 1223.7,
+      "text": "We cloud us all."
+    },
+    {
+      "id": 109,
+      "start": 1232.7,
+      "end": 1237.7,
+      "text": "Until you find it there and leave."
+    },
+    {
+      "id": 110,
+      "start": 1237.7,
+      "end": 1242.7,
+      "text": "Yeah, back home."
+    },
+    {
+      "id": 111,
+      "start": 1242.7,
+      "end": 1247.7,
+      "text": "Wake me up. Wake me up inside. Wake me up inside. Wake me up inside."
+    },
+    {
+      "id": 112,
+      "start": 1247.7,
+      "end": 1252.7,
+      "text": "The mix is about as good as the mix's case makes on this stream. I will say that."
+    },
+    {
+      "id": 113,
+      "start": 1252.7,
+      "end": 1257.7,
+      "text": "Oh yeah, ratings. That's technically a button I can hit."
+    },
+    {
+      "id": 114,
+      "start": 1257.7,
+      "end": 1260.7,
+      "text": "You can indeed rate it from 1 to 5."
+    },
+    {
+      "id": 115,
+      "start": 1260.7,
+      "end": 1265.7,
+      "text": "And only that. There's no... no decimals here. No decimals allowed."
+    },
+    {
+      "id": 116,
+      "start": 1265.7,
+      "end": 1270.7,
+      "text": "It's 1 to 5 stars. You're so upset. I'm just explaining."
+    },
+    {
+      "id": 117,
+      "start": 1270.7,
+      "end": 1274.7,
+      "text": "I haven't been told I have a little bit of an angry pedantic voice when I try to explain things."
+    },
+    {
+      "id": 118,
+      "start": 1274.7,
+      "end": 1280.7,
+      "text": "But I'm just trying to explain something. Okay. You're getting upset."
+    },
+    {
+      "id": 119,
+      "start": 1280.7,
+      "end": 1284.7,
+      "text": "No, I'm actually not. I thought I just clarified. Oh my god. Alright."
+    },
+    {
+      "id": 120,
+      "start": 1284.7,
+      "end": 1290.59,
+      "text": "Smoke? Good fortune."
+    },
+    {
+      "id": 121,
+      "start": 1290.59,
+      "end": 1300.66,
+      "text": "Keanu Reeves, Seth Rogen, Aziz Ansari. It was 3. 3 stars."
+    },
+    {
+      "id": 122,
+      "start": 1300.66,
+      "end": 1307.66,
+      "text": "It didn't show off the game super well, but it did show off, in a sense, pretty well."
+    },
+    {
+      "id": 123,
+      "start": 1307.66,
+      "end": 1310.66,
+      "text": "3 seems fair. That's always fair."
+    },
+    {
+      "id": 124,
+      "start": 1310.66,
+      "end": 1316.66,
+      "text": "By the power of star ratings in our audience, it's always the most accurate possible score."
+    },
+    {
+      "id": 125,
+      "start": 1316.66,
+      "end": 1321.66,
+      "text": "One Piece is returning, apparently."
+    },
+    {
+      "id": 126,
+      "start": 1321.66,
+      "end": 1328.66,
+      "text": "I know I famously said, famously. Everyone remembers this in the world, probably."
+    },
+    {
+      "id": 127,
+      "start": 1328.66,
+      "end": 1332.66,
+      "text": "That I said One Piece was going to suck ass."
+    },
+    {
+      "id": 128,
+      "start": 1332.66,
+      "end": 1338.66,
+      "text": "And I'll bring it up to hold myself accountable, because the live action One Piece was honestly pretty good."
+    },
+    {
+      "id": 129,
+      "start": 1338.66,
+      "end": 1341.66,
+      "text": "Which is notably better than sucking huge ass."
+    },
+    {
+      "id": 130,
+      "start": 1341.66,
+      "end": 1346.66,
+      "text": "And kind of a huge achievement, because it's semi-impossible to adapt."
+    },
+    {
+      "id": 131,
+      "start": 1346.66,
+      "end": 1351.66,
+      "text": "It should get more impossible as they go, so they are playing on hard mode."
+    },
+    {
+      "id": 132,
+      "start": 1351.66,
+      "end": 1357.66,
+      "text": "Will this suck ass? I'm hoping not. I'm hoping it's kind of good again. That's my hope."
+    },
+    {
+      "id": 133,
+      "start": 1357.66,
+      "end": 1364.66,
+      "text": "This is not an official trailer. It's an announcement that's special, like a trailer."
+    },
+    {
+      "id": 134,
+      "start": 1364.66,
+      "end": 1372.5,
+      "text": "A special announcement trailer. We're just going to watch it and find out."
+    },
+    {
+      "id": 135,
+      "start": 1372.5,
+      "end": 1395.33,
+      "text": "Next up, the Grand Line!"
+    },
+    {
+      "id": 136,
+      "start": 1395.33,
+      "end": 1402.55,
+      "text": "Luffy, what are you doing here?"
+    },
+    {
+      "id": 137,
+      "start": 1402.55,
+      "end": 1409.55,
+      "text": "Let me! I had an idea. I realized that every great pirate crew needs some good, solid bonding time."
+    },
+    {
+      "id": 138,
+      "start": 1409.55,
+      "end": 1412.55,
+      "text": "So we're having a slumber party!"
+    },
+    {
+      "id": 139,
+      "start": 1412.55,
+      "end": 1415.55,
+      "text": "No, no, no, no, no. We're not having a slumber party."
+    },
+    {
+      "id": 140,
+      "start": 1415.55,
+      "end": 1419.55,
+      "text": "It's snacks. Oh, it's like a little thing, yeah."
+    },
+    {
+      "id": 141,
+      "start": 1419.55,
+      "end": 1421.55,
+      "text": "And I fixed the snail projector, which..."
+    },
+    {
+      "id": 142,
+      "start": 1421.55,
+      "end": 1422.55,
+      "text": "What the fuck?"
+    },
+    {
+      "id": 143,
+      "start": 1422.55,
+      "end": 1424.55,
+      "text": "It's kind of a disturbing process."
+    },
+    {
+      "id": 144,
+      "start": 1424.55,
+      "end": 1426.55,
+      "text": "Zorro! You made it!"
+    },
+    {
+      "id": 145,
+      "start": 1426.55,
+      "end": 1428.55,
+      "text": "They said there was going to be booze."
+    },
+    {
+      "id": 146,
+      "start": 1428.55,
+      "end": 1432.55,
+      "text": "So, question. Do you sleep with those fools?"
+    },
+    {
+      "id": 147,
+      "start": 1432.55,
+      "end": 1434.55,
+      "text": "Maybe."
+    },
+    {
+      "id": 148,
+      "start": 1434.55,
+      "end": 1438.55,
+      "text": "Okay, I guess we are having a slumber party."
+    },
+    {
+      "id": 149,
+      "start": 1438.55,
+      "end": 1439.55,
+      "text": "Showtime!"
+    },
+    {
+      "id": 150,
+      "start": 1439.55,
+      "end": 1445.66,
+      "text": "I know they had popcorn in one piece, but I guess they did."
+    },
+    {
+      "id": 151,
+      "start": 1445.66,
+      "end": 1446.66,
+      "text": "That's the popcorn!"
+    },
+    {
+      "id": 152,
+      "start": 1446.66,
+      "end": 1451.82,
+      "text": "Okay, so what are we watching?"
+    },
+    {
+      "id": 153,
+      "start": 1451.82,
+      "end": 1453.82,
+      "text": "Do you want to do the honors?"
+    },
+    {
+      "id": 154,
+      "start": 1453.82,
+      "end": 1474.64,
+      "text": "Oh, that's the whole announcement."
+    },
+    {
+      "id": 155,
+      "start": 1474.64,
+      "end": 1476.64,
+      "text": "What's to dumb?"
+    },
+    {
+      "id": 156,
+      "start": 1476.64,
+      "end": 1479.64,
+      "text": "Wait, is what sea at Netflix..."
+    },
+    {
+      "id": 157,
+      "start": 1479.64,
+      "end": 1480.64,
+      "text": "Is that enough?"
+    },
+    {
+      "id": 158,
+      "start": 1480.64,
+      "end": 1481.64,
+      "text": "To dumb?"
+    },
+    {
+      "id": 159,
+      "start": 1481.64,
+      "end": 1487.81,
+      "text": "What is Netflix to dumb?"
+    },
+    {
+      "id": 160,
+      "start": 1487.81,
+      "end": 1490.81,
+      "text": "The noise that Netflix makes when you open it up?"
+    },
+    {
+      "id": 161,
+      "start": 1490.81,
+      "end": 1496.85,
+      "text": "That was an announcement of an announcement."
+    },
+    {
+      "id": 162,
+      "start": 1496.85,
+      "end": 1498.85,
+      "text": "Oh, is this a thing they've done?"
+    },
+    {
+      "id": 163,
+      "start": 1498.85,
+      "end": 1501.85,
+      "text": "I guess it's like their fan fest."
+    },
+    {
+      "id": 164,
+      "start": 1501.85,
+      "end": 1503.85,
+      "text": "It's called to dumb."
+    },
+    {
+      "id": 165,
+      "start": 1503.85,
+      "end": 1505.85,
+      "text": "Because that's the noise."
+    },
+    {
+      "id": 166,
+      "start": 1505.85,
+      "end": 1509.85,
+      "text": "I'm as surprised as you are that this is what their fan fest is called."
+    },
+    {
+      "id": 167,
+      "start": 1509.85,
+      "end": 1514.63,
+      "text": "I didn't know this."
+    },
+    {
+      "id": 168,
+      "start": 1514.63,
+      "end": 1518.88,
+      "text": "I don't know if I like that."
+    },
+    {
+      "id": 169,
+      "start": 1518.88,
+      "end": 1520.88,
+      "text": "Too dumb to spell correctly."
+    },
+    {
+      "id": 170,
+      "start": 1520.88,
+      "end": 1522.88,
+      "text": "How do you spell to dumb correctly?"
+    },
+    {
+      "id": 171,
+      "start": 1522.88,
+      "end": 1524.88,
+      "text": "Too dumb?"
+    },
+    {
+      "id": 172,
+      "start": 1524.88,
+      "end": 1527.88,
+      "text": "Look, we're in a hurry. We don't have a lot of time."
+    },
+    {
+      "id": 173,
+      "start": 1527.88,
+      "end": 1529.88,
+      "text": "Yeah, I forgot."
+    },
+    {
+      "id": 174,
+      "start": 1529.88,
+      "end": 1532.88,
+      "text": "Look, I do want to talk about the to dumb Netflix event"
+    },
+    {
+      "id": 175,
+      "start": 1532.88,
+      "end": 1536.88,
+      "text": "and my feelings on its title for 20 minutes at least."
+    },
+    {
+      "id": 176,
+      "start": 1536.88,
+      "end": 1540.88,
+      "text": "But, as our time is limited today,"
+    },
+    {
+      "id": 177,
+      "start": 1540.88,
+      "end": 1544.88,
+      "text": "I guess I'll keep scrolling until I find"
+    },
+    {
+      "id": 178,
+      "start": 1544.88,
+      "end": 1547.88,
+      "text": "the perfect trailer."
+    },
+    {
+      "id": 179,
+      "start": 1547.88,
+      "end": 1550.88,
+      "text": "Because playing for Netflix is to dumb."
+    },
+    {
+      "id": 180,
+      "start": 1550.88,
+      "end": 1554.22,
+      "text": "Correct, dude."
+    },
+    {
+      "id": 181,
+      "start": 1554.22,
+      "end": 1558.22,
+      "text": "That's why I pirate the entire streaming service, Netflix."
+    },
+    {
+      "id": 182,
+      "start": 1558.22,
+      "end": 1559.22,
+      "text": "In what sense?"
+    },
+    {
+      "id": 183,
+      "start": 1559.22,
+      "end": 1561.22,
+      "text": "Well, my dad pays for it."
+    },
+    {
+      "id": 184,
+      "start": 1561.22,
+      "end": 1565.22,
+      "text": "And I live with my dad and my mom."
+    },
+    {
+      "id": 185,
+      "start": 1565.22,
+      "end": 1568.22,
+      "text": "And they kind of split finances, so in a way they both pay for it."
+    },
+    {
+      "id": 186,
+      "start": 1568.22,
+      "end": 1574.05,
+      "text": "Zero stars for that announcement of an announcement?"
+    },
+    {
+      "id": 187,
+      "start": 1574.05,
+      "end": 1575.05,
+      "text": "No, but it was kind of cute."
+    },
+    {
+      "id": 188,
+      "start": 1575.05,
+      "end": 1577.05,
+      "text": "And then at the end, there's a cow or something showing up."
+    },
+    {
+      "id": 189,
+      "start": 1577.05,
+      "end": 1580.05,
+      "text": "It's obviously chopper there, teasing chopper."
+    },
+    {
+      "id": 190,
+      "start": 1580.05,
+      "end": 1582.05,
+      "text": "Could be a cow. You can't prove that it's chopper."
+    },
+    {
+      "id": 191,
+      "start": 1582.05,
+      "end": 1584.05,
+      "text": "Uncle Phil 2K."
+    },
+    {
+      "id": 192,
+      "start": 1584.05,
+      "end": 1586.05,
+      "text": "Thank you so much for the hundred bits."
+    },
+    {
+      "id": 193,
+      "start": 1586.05,
+      "end": 1588.05,
+      "text": "Excuse me?"
+    },
+    {
+      "id": 194,
+      "start": 1588.05,
+      "end": 1590.05,
+      "text": "Okay."
+    },
+    {
+      "id": 195,
+      "start": 1590.05,
+      "end": 1592.05,
+      "text": "Um..."
+    },
+    {
+      "id": 196,
+      "start": 1592.05,
+      "end": 1595.05,
+      "text": "House of Kong? Did we already watch that?"
+    },
+    {
+      "id": 197,
+      "start": 1595.05,
+      "end": 1598.05,
+      "text": "Maybe we already watched that."
+    },
+    {
+      "id": 198,
+      "start": 1598.05,
+      "end": 1601.05,
+      "text": "Titan, the Ocean Gate disaster."
+    },
+    {
+      "id": 199,
+      "start": 1601.05,
+      "end": 1605.05,
+      "text": "I've been waiting to watch this and go."
+    },
+    {
+      "id": 200,
+      "start": 1605.05,
+      "end": 1607.05,
+      "text": "Oh, what?"
+    },
+    {
+      "id": 201,
+      "start": 1607.05,
+      "end": 1609.05,
+      "text": "Man."
+    },
+    {
+      "id": 202,
+      "start": 1609.05,
+      "end": 1610.05,
+      "text": "So sad."
+    },
+    {
+      "id": 203,
+      "start": 1610.05,
+      "end": 1613.05,
+      "text": "But also, whoa."
+    },
+    {
+      "id": 204,
+      "start": 1613.05,
+      "end": 1616.05,
+      "text": "That's what I'm going to go through when this movie comes up."
+    },
+    {
+      "id": 205,
+      "start": 1616.05,
+      "end": 1621.05,
+      "text": "All right. Well, there, I mean, it was the inevitable exploitation of exploitation."
+    },
+    {
+      "id": 206,
+      "start": 1621.05,
+      "end": 1624.05,
+      "text": "Let's see..."
+    },
+    {
+      "id": 207,
+      "start": 1624.05,
+      "end": 1626.05,
+      "text": "The trailer for it."
+    },
+    {
+      "id": 208,
+      "start": 1626.05,
+      "end": 1634.36,
+      "text": "There was no way of knowing when the title was going to fail."
+    },
+    {
+      "id": 209,
+      "start": 1634.36,
+      "end": 1638.36,
+      "text": "But it was a mathematical certainty that it would fail."
+    },
+    {
+      "id": 210,
+      "start": 1641.41,
+      "end": 1646.41,
+      "text": "Stockton saw an opportunity to restart tourist visits to Titanic."
+    },
+    {
+      "id": 211,
+      "start": 1646.41,
+      "end": 1650.41,
+      "text": "Stockton fully believed in what he was doing and that it would work."
+    },
+    {
+      "id": 212,
+      "start": 1650.41,
+      "end": 1652.41,
+      "text": "He wanted fame."
+    },
+    {
+      "id": 213,
+      "start": 1652.41,
+      "end": 1655.41,
+      "text": "To fuel his ego, fame."
+    },
+    {
+      "id": 214,
+      "start": 1655.41,
+      "end": 1657.41,
+      "text": "I have no desire to die."
+    },
+    {
+      "id": 215,
+      "start": 1657.41,
+      "end": 1662.33,
+      "text": "I understand this kind of risk."
+    },
+    {
+      "id": 216,
+      "start": 1662.33,
+      "end": 1665.33,
+      "text": "I thought Stockton was the borderline psychopath."
+    },
+    {
+      "id": 217,
+      "start": 1665.33,
+      "end": 1668.33,
+      "text": "How do you manage a person like that who owns the company?"
+    },
+    {
+      "id": 218,
+      "start": 1669.33,
+      "end": 1672.33,
+      "text": "This is one of the safest things I will ever do."
+    },
+    {
+      "id": 219,
+      "start": 1672.33,
+      "end": 1673.33,
+      "text": "Nobody spoke up."
+    },
+    {
+      "id": 220,
+      "start": 1673.33,
+      "end": 1675.33,
+      "text": "It would ruin somebody's life."
+    },
+    {
+      "id": 221,
+      "start": 1675.33,
+      "end": 1678.33,
+      "text": "Stockton said Bonnie is going to be our next lead pilot."
+    },
+    {
+      "id": 222,
+      "start": 1678.33,
+      "end": 1681.33,
+      "text": "Are you nuts? I'm an accountant."
+    },
+    {
+      "id": 223,
+      "start": 1682.33,
+      "end": 1687.24,
+      "text": "So what you got promoted?"
+    },
+    {
+      "id": 224,
+      "start": 1687.24,
+      "end": 1689.24,
+      "text": "No one's dying under my watch."
+    },
+    {
+      "id": 225,
+      "start": 1689.24,
+      "end": 1705.67,
+      "text": "Period."
+    },
+    {
+      "id": 226,
+      "start": 1705.67,
+      "end": 1709.67,
+      "text": "You can now rate their deaths."
+    },
+    {
+      "id": 227,
+      "start": 1709.67,
+      "end": 1711.67,
+      "text": "No, you're rating the trailer, Chad."
+    },
+    {
+      "id": 228,
+      "start": 1711.67,
+      "end": 1714.67,
+      "text": "Don't worry, you're not rating the deaths of those on board."
+    },
+    {
+      "id": 229,
+      "start": 1714.67,
+      "end": 1718.14,
+      "text": "But they kind of are."
+    },
+    {
+      "id": 230,
+      "start": 1718.14,
+      "end": 1720.14,
+      "text": "No, it's a trailer."
+    },
+    {
+      "id": 231,
+      "start": 1720.14,
+      "end": 1722.14,
+      "text": "It's an event that happened and was covered."
+    },
+    {
+      "id": 232,
+      "start": 1722.14,
+      "end": 1724.14,
+      "text": "It's fair to make a documentary about it."
+    },
+    {
+      "id": 233,
+      "start": 1724.14,
+      "end": 1728.52,
+      "text": "I'm glad you're enjoying yourself."
+    },
+    {
+      "id": 234,
+      "start": 1728.52,
+      "end": 1731.52,
+      "text": "While the whole Titanic died."
+    },
+    {
+      "id": 235,
+      "start": 1731.52,
+      "end": 1734.52,
+      "text": "No, they were going to see the Titanic, young blood."
+    },
+    {
+      "id": 236,
+      "start": 1734.52,
+      "end": 1737.52,
+      "text": "You gotta understand the world slightly better."
+    },
+    {
+      "id": 237,
+      "start": 1737.52,
+      "end": 1741.52,
+      "text": "So that the things you say aren't so painfully stupid."
+    },
+    {
+      "id": 238,
+      "start": 1741.52,
+      "end": 1748.42,
+      "text": "That's a 2.63."
+    },
+    {
+      "id": 239,
+      "start": 1748.42,
+      "end": 1751.42,
+      "text": "I would have given their deaths as a zero because I think deaths are bad."
+    },
+    {
+      "id": 240,
+      "start": 1751.42,
+      "end": 1755.24,
+      "text": "Let's not end on that note."
+    },
+    {
+      "id": 241,
+      "start": 1755.24,
+      "end": 1757.24,
+      "text": "Because you're making it weird."
+    },
+    {
+      "id": 242,
+      "start": 1757.24,
+      "end": 1759.24,
+      "text": "Let's watch K-pop Demon Hunters."
+    },
+    {
+      "id": 243,
+      "start": 1759.24,
+      "end": 1761.24,
+      "text": "I don't know what that is."
+    },
+    {
+      "id": 244,
+      "start": 1761.24,
+      "end": 1763.24,
+      "text": "I don't know why that is."
+    },
+    {
+      "id": 245,
+      "start": 1763.24,
+      "end": 1765.24,
+      "text": "But the title makes me want to click on it."
+    },
+    {
+      "id": 246,
+      "start": 1765.24,
+      "end": 1769.24,
+      "text": "I'll watch the girls from Blackpink hunt demons."
+    },
+    {
+      "id": 247,
+      "start": 1769.24,
+      "end": 1771.24,
+      "text": "I don't know if it's them doing it."
+    },
+    {
+      "id": 248,
+      "start": 1771.24,
+      "end": 1775.24,
+      "text": "But that's the K-pop band I have reference for."
+    },
+    {
+      "id": 249,
+      "start": 1775.24,
+      "end": 1778.24,
+      "text": "Well anyway, they're Demon Hunters and they're K-pop. Let's see."
+    },
+    {
+      "id": 250,
+      "start": 1779.24,
+      "end": 1784.15,
+      "text": "It's time."
+    },
+    {
+      "id": 251,
+      "start": 1784.15,
+      "end": 1789.07,
+      "text": "The world will know you as pop stars."
+    },
+    {
+      "id": 252,
+      "start": 1789.07,
+      "end": 1791.07,
+      "text": "Well, they lost some of the frames again."
+    },
+    {
+      "id": 253,
+      "start": 1791.07,
+      "end": 1793.07,
+      "text": "It keeps happening in these movies."
+    },
+    {
+      "id": 254,
+      "start": 1793.07,
+      "end": 1796.07,
+      "text": "They keep forgetting to put in about every other frame."
+    },
+    {
+      "id": 255,
+      "start": 1796.07,
+      "end": 1802.58,
+      "text": "You will be hunters."
+    },
+    {
+      "id": 256,
+      "start": 1802.58,
+      "end": 1805.58,
+      "text": "This is the man's bathhouse. Get out of here."
+    },
+    {
+      "id": 257,
+      "start": 1809.21,
+      "end": 1813.81,
+      "text": "They're stealing the souls of our fans?"
+    },
+    {
+      "id": 258,
+      "start": 1813.81,
+      "end": 1817.81,
+      "text": "Let's send those disgusting demons back to the depths where they belong."
+    },
+    {
+      "id": 259,
+      "start": 1817.81,
+      "end": 1821.76,
+      "text": "Yeah!"
+    },
+    {
+      "id": 260,
+      "start": 1821.76,
+      "end": 1837.55,
+      "text": "Get that already."
+    },
+    {
+      "id": 261,
+      "start": 1837.55,
+      "end": 1839.55,
+      "text": "Love action would have been more fun."
+    },
+    {
+      "id": 262,
+      "start": 1839.55,
+      "end": 1841.55,
+      "text": "I can destroy the hunters."
+    },
+    {
+      "id": 263,
+      "start": 1841.55,
+      "end": 1842.55,
+      "text": "For good."
+    },
+    {
+      "id": 264,
+      "start": 1842.55,
+      "end": 1844.55,
+      "text": "Oh shit, K-pop hot boys?"
+    },
+    {
+      "id": 265,
+      "start": 1844.55,
+      "end": 1846.55,
+      "text": "Oh those are hot boys."
+    },
+    {
+      "id": 266,
+      "start": 1846.55,
+      "end": 1848.55,
+      "text": "Oh you knew it."
+    },
+    {
+      "id": 267,
+      "start": 1848.55,
+      "end": 1860.35,
+      "text": "I love a good rowdy rough boys antagonist."
+    },
+    {
+      "id": 268,
+      "start": 1860.35,
+      "end": 1863.35,
+      "text": "Demon boy band? They're coming after the fans."
+    },
+    {
+      "id": 269,
+      "start": 1866.43,
+      "end": 1868.43,
+      "text": "The Sasha boys!"
+    },
+    {
+      "id": 270,
+      "start": 1868.43,
+      "end": 1870.43,
+      "text": "Let's go get these guys."
+    },
+    {
+      "id": 271,
+      "start": 1870.43,
+      "end": 1877.94,
+      "text": "People are just going to let you steal our fans."
+    },
+    {
+      "id": 272,
+      "start": 1877.94,
+      "end": 1880.94,
+      "text": "You're going to have to fight us for that."
+    },
+    {
+      "id": 273,
+      "start": 1880.94,
+      "end": 1882.94,
+      "text": "Yeah I think maybe Kendall made this."
+    },
+    {
+      "id": 274,
+      "start": 1882.94,
+      "end": 1887.42,
+      "text": "I think she's been moonlighting as a studio executive."
+    },
+    {
+      "id": 275,
+      "start": 1887.42,
+      "end": 1897.0,
+      "text": "Yeah this plane's trashed."
+    },
+    {
+      "id": 276,
+      "start": 1897.0,
+      "end": 1904.63,
+      "text": "Everything is upstate."
+    },
+    {
+      "id": 277,
+      "start": 1904.63,
+      "end": 1906.63,
+      "text": "Oh no!"
+    },
+    {
+      "id": 278,
+      "start": 1906.63,
+      "end": 1908.63,
+      "text": "Gina's boyfriend is in this."
+    },
+    {
+      "id": 279,
+      "start": 1908.63,
+      "end": 1910.63,
+      "text": "The hero Josh."
+    },
+    {
+      "id": 280,
+      "start": 1910.63,
+      "end": 1917.91,
+      "text": "One of the ultimate cool dudes for real."
+    },
+    {
+      "id": 281,
+      "start": 1917.91,
+      "end": 1918.91,
+      "text": "Oh they're small."
+    },
+    {
+      "id": 282,
+      "start": 1918.91,
+      "end": 1926.29,
+      "text": "Oh it's only on Netflix."
+    },
+    {
+      "id": 283,
+      "start": 1927.29,
+      "end": 1929.29,
+      "text": "They don't want to put it in theaters."
+    },
+    {
+      "id": 284,
+      "start": 1929.29,
+      "end": 1931.29,
+      "text": "It's only on Netflix."
+    },
+    {
+      "id": 285,
+      "start": 1931.29,
+      "end": 1933.29,
+      "text": "What if I want to go to a theater?"
+    },
+    {
+      "id": 286,
+      "start": 1933.29,
+      "end": 1934.29,
+      "text": "Do you? No."
+    },
+    {
+      "id": 287,
+      "start": 1934.29,
+      "end": 1936.29,
+      "text": "But maybe I would have."
+    },
+    {
+      "id": 288,
+      "start": 1936.29,
+      "end": 1939.4,
+      "text": "It's just once."
+    },
+    {
+      "id": 289,
+      "start": 1939.4,
+      "end": 1942.4,
+      "text": "I think the metrics would indicate that you don't youngblood."
+    },
+    {
+      "id": 290,
+      "start": 1942.4,
+      "end": 1944.4,
+      "text": "Tadum! Is that going to be at the Tadum?"
+    },
+    {
+      "id": 291,
+      "start": 1944.4,
+      "end": 1946.4,
+      "text": "The Tadum Fest?"
+    },
+    {
+      "id": 292,
+      "start": 1946.4,
+      "end": 1948.4,
+      "text": "Probably."
+    },
+    {
+      "id": 293,
+      "start": 1948.4,
+      "end": 1949.4,
+      "text": "Tadum!"
+    },
+    {
+      "id": 294,
+      "start": 1949.4,
+      "end": 1951.4,
+      "text": "It's got to be better than the Electric State right?"
+    },
+    {
+      "id": 295,
+      "start": 1951.4,
+      "end": 1955.4,
+      "text": "They set the bar nice and low for themselves with the most expensive movie they've ever made."
+    },
+    {
+      "id": 296,
+      "start": 1955.4,
+      "end": 1957.4,
+      "text": "They really did. That was smart."
+    },
+    {
+      "id": 297,
+      "start": 1957.4,
+      "end": 1961.4,
+      "text": "So once you make your biggest movie ever and it's awful in every way."
+    },
+    {
+      "id": 298,
+      "start": 1961.4,
+      "end": 1965.4,
+      "text": "Then when you make better movies for cheaper you look like a hero."
+    },
+    {
+      "id": 299,
+      "start": 1965.4,
+      "end": 1969.4,
+      "text": "Makes as much sense as anything else about making that movie."
+    },
+    {
+      "id": 300,
+      "start": 1969.4,
+      "end": 1972.4,
+      "text": "You like your CGI with five frames?"
+    },
+    {
+      "id": 301,
+      "start": 1972.4,
+      "end": 1976.4,
+      "text": "We've unfortunately lost the technology for 24 frames per second in animation."
+    },
+    {
+      "id": 302,
+      "start": 1976.4,
+      "end": 1980.4,
+      "text": "Well I don't think most animation is 24. I think it's more like 15 right?"
+    },
+    {
+      "id": 303,
+      "start": 1980.4,
+      "end": 1981.4,
+      "text": "Isn't that standard?"
+    },
+    {
+      "id": 304,
+      "start": 1981.4,
+      "end": 1984.4,
+      "text": "What's the standard animation frame rate?"
+    },
+    {
+      "id": 305,
+      "start": 1984.4,
+      "end": 1990.62,
+      "text": "Oh it's 24 frames per second."
+    },
+    {
+      "id": 306,
+      "start": 1990.62,
+      "end": 1995.02,
+      "text": "According to...wait that's AI."
+    },
+    {
+      "id": 307,
+      "start": 1995.02,
+      "end": 1999.02,
+      "text": "Is 12 FPS an anime...12 FPS is a good frame rate for animation."
+    },
+    {
+      "id": 308,
+      "start": 2000.02,
+      "end": 2003.02,
+      "text": "Especially for traditional stop motion techniques."
+    },
+    {
+      "id": 309,
+      "start": 2003.02,
+      "end": 2006.62,
+      "text": "I don't know."
+    },
+    {
+      "id": 310,
+      "start": 2006.62,
+      "end": 2008.62,
+      "text": "I'm guessing that's less than 12?"
+    },
+    {
+      "id": 311,
+      "start": 2008.62,
+      "end": 2010.62,
+      "text": "What's up MSG?"
+    },
+    {
+      "id": 312,
+      "start": 2010.62,
+      "end": 2012.62,
+      "text": "What's up Metlid Dell?"
+    },
+    {
+      "id": 313,
+      "start": 2012.62,
+      "end": 2014.62,
+      "text": "We gotta go. I'm getting the red light."
+    },
+    {
+      "id": 314,
+      "start": 2014.62,
+      "end": 2019.61,
+      "text": "There isn't...do you mean the exit light? That's always on."
+    },
+    {
+      "id": 315,
+      "start": 2019.61,
+      "end": 2020.61,
+      "text": "Oh I thought that was my red light."
+    },
+    {
+      "id": 316,
+      "start": 2020.61,
+      "end": 2023.61,
+      "text": "But it's on the whole time we're streaming."
+    },
+    {
+      "id": 317,
+      "start": 2023.61,
+      "end": 2026.61,
+      "text": "I just thought I was always being told to wrap it up the whole time."
+    },
+    {
+      "id": 318,
+      "start": 2026.61,
+      "end": 2029.61,
+      "text": "Oh so now that you know that you're not."
+    },
+    {
+      "id": 319,
+      "start": 2029.61,
+      "end": 2031.61,
+      "text": "You could take your time."
+    },
+    {
+      "id": 320,
+      "start": 2031.61,
+      "end": 2033.61,
+      "text": "No well we're busy today so we can't."
+    },
+    {
+      "id": 321,
+      "start": 2033.61,
+      "end": 2035.61,
+      "text": "We gotta learn how to with some guy who's not Jeb."
+    },
+    {
+      "id": 322,
+      "start": 2035.61,
+      "end": 2037.61,
+      "text": "Cause I don't know who Jeb is."
+    },
+    {
+      "id": 323,
+      "start": 2037.61,
+      "end": 2039.61,
+      "text": "I've never met him."
+    },
+    {
+      "id": 324,
+      "start": 2039.61,
+      "end": 2041.61,
+      "text": "But apparently he's dead or something."
+    },
+    {
+      "id": 325,
+      "start": 2041.61,
+      "end": 2043.61,
+      "text": "So I don't know how it works."
+    },
+    {
+      "id": 326,
+      "start": 2043.61,
+      "end": 2046.61,
+      "text": "But we send you down to whoever that is now."
+    },
+    {
+      "id": 327,
+      "start": 2046.61,
+      "end": 2047.61,
+      "text": "Bye bye."
+    },
+    {
+      "id": 328,
+      "start": 2047.61,
+      "end": 2048.61,
+      "text": "Do you know what it is?"
+    },
+    {
+      "id": 329,
+      "start": 2048.61,
+      "end": 2050.61,
+      "text": "Offer it and forget."
+    },
+    {
+      "id": 330,
+      "start": 2050.61,
+      "end": 2096.79,
+      "text": "Whoa."
+    },
+    {
+      "id": 331,
+      "start": 2096.79,
+      "end": 2098.79,
+      "text": "Oh it's this."
+    },
+    {
+      "id": 332,
+      "start": 2098.79,
+      "end": 2100.79,
+      "text": "It's this little guy again."
+    },
+    {
+      "id": 333,
+      "start": 2100.79,
+      "end": 2102.79,
+      "text": "Hello little guy."
+    },
+    {
+      "id": 334,
+      "start": 2103.79,
+      "end": 2105.79,
+      "text": "Um..."
+    },
+    {
+      "id": 335,
+      "start": 2105.79,
+      "end": 2107.79,
+      "text": "Do you know where my son is?"
+    },
+    {
+      "id": 336,
+      "start": 2107.79,
+      "end": 2109.79,
+      "text": "No."
+    },
+    {
+      "id": 337,
+      "start": 2109.79,
+      "end": 2111.79,
+      "text": "Um..."
+    },
+    {
+      "id": 338,
+      "start": 2111.79,
+      "end": 2114.79,
+      "text": "Jeb should be like Captain Murphy from C-Lab."
+    },
+    {
+      "id": 339,
+      "start": 2114.79,
+      "end": 2117.79,
+      "text": "We hear all about him running all over the globe."
+    },
+    {
+      "id": 340,
+      "start": 2117.79,
+      "end": 2119.79,
+      "text": "Doing stuff but he never comes back."
+    },
+    {
+      "id": 341,
+      "start": 2119.79,
+      "end": 2121.79,
+      "text": "I do wonder where he is."
+    },
+    {
+      "id": 342,
+      "start": 2121.79,
+      "end": 2125.79,
+      "text": "Cause I would love to not be in the wood."
+    },
+    {
+      "id": 343,
+      "start": 2125.79,
+      "end": 2127.79,
+      "text": "Do you know anything about getting out of it?"
+    },
+    {
+      "id": 344,
+      "start": 2127.79,
+      "end": 2129.79,
+      "text": "I don't get any of it."
+    },
+    {
+      "id": 345,
+      "start": 2129.79,
+      "end": 2131.79,
+      "text": "I don't get what you're doing."
+    },
+    {
+      "id": 346,
+      "start": 2131.79,
+      "end": 2136.51,
+      "text": "Nope."
+    },
+    {
+      "id": 347,
+      "start": 2136.51,
+      "end": 2138.51,
+      "text": "RIP Uncle Harry."
+    },
+    {
+      "id": 348,
+      "start": 2138.51,
+      "end": 2140.51,
+      "text": "Am I Uncle Harry?"
+    },
+    {
+      "id": 349,
+      "start": 2140.51,
+      "end": 2141.51,
+      "text": "I don't know."
+    },
+    {
+      "id": 350,
+      "start": 2141.51,
+      "end": 2143.51,
+      "text": "But look we only have 10 minutes left."
+    },
+    {
+      "id": 351,
+      "start": 2143.51,
+      "end": 2151.37,
+      "text": "Are you gonna watch a how-to?"
+    },
+    {
+      "id": 352,
+      "start": 2151.37,
+      "end": 2153.37,
+      "text": "It's the only thing you have to do."
+    },
+    {
+      "id": 353,
+      "start": 2153.37,
+      "end": 2158.34,
+      "text": "I got a haircut."
+    },
+    {
+      "id": 354,
+      "start": 2158.34,
+      "end": 2160.34,
+      "text": "Is that okay?"
+    },
+    {
+      "id": 355,
+      "start": 2160.34,
+      "end": 2161.34,
+      "text": "When?"
+    },
+    {
+      "id": 356,
+      "start": 2161.34,
+      "end": 2163.34,
+      "text": "Two weeks ago?"
+    },
+    {
+      "id": 357,
+      "start": 2163.34,
+      "end": 2168.96,
+      "text": "It's been a while though."
+    },
+    {
+      "id": 358,
+      "start": 2168.96,
+      "end": 2171.98,
+      "text": "That's fine."
+    },
+    {
+      "id": 359,
+      "start": 2171.98,
+      "end": 2172.98,
+      "text": "Let's watch a how-to."
+    },
+    {
+      "id": 360,
+      "start": 2172.98,
+      "end": 2173.98,
+      "text": "Oh you are gonna do it."
+    },
+    {
+      "id": 361,
+      "start": 2173.98,
+      "end": 2174.98,
+      "text": "I won't."
+    },
+    {
+      "id": 362,
+      "start": 2174.98,
+      "end": 2175.98,
+      "text": "No it's fine."
+    },
+    {
+      "id": 363,
+      "start": 2175.98,
+      "end": 2183.06,
+      "text": "Do that."
+    },
+    {
+      "id": 364,
+      "start": 2183.06,
+      "end": 2185.06,
+      "text": "How to flex your muscles?"
+    },
+    {
+      "id": 365,
+      "start": 2185.06,
+      "end": 2188.56,
+      "text": "I don't like to do that."
+    },
+    {
+      "id": 366,
+      "start": 2188.56,
+      "end": 2190.56,
+      "text": "So I won't be doing this."
+    },
+    {
+      "id": 367,
+      "start": 2190.56,
+      "end": 2192.56,
+      "text": "But..."
+    },
+    {
+      "id": 368,
+      "start": 2192.56,
+      "end": 2195.56,
+      "text": "If you'd like to learn how, let's see."
+    },
+    {
+      "id": 369,
+      "start": 2195.56,
+      "end": 2202.42,
+      "text": "Oh it's just a person."
+    },
+    {
+      "id": 370,
+      "start": 2202.42,
+      "end": 2205.95,
+      "text": "Tell mother fuckers."
+    },
+    {
+      "id": 371,
+      "start": 2205.95,
+      "end": 2207.95,
+      "text": "I'm gonna be showing y'all"
+    },
+    {
+      "id": 372,
+      "start": 2207.95,
+      "end": 2209.95,
+      "text": "how to fuck y'all muscles."
+    },
+    {
+      "id": 373,
+      "start": 2209.95,
+      "end": 2210.95,
+      "text": "Oh."
+    },
+    {
+      "id": 374,
+      "start": 2210.95,
+      "end": 2212.95,
+      "text": "You gotta get a real strong"
+    },
+    {
+      "id": 375,
+      "start": 2212.95,
+      "end": 2214.95,
+      "text": "and big"
+    },
+    {
+      "id": 376,
+      "start": 2214.95,
+      "end": 2220.73,
+      "text": "lifting weights"
+    },
+    {
+      "id": 377,
+      "start": 2220.73,
+      "end": 2222.73,
+      "text": "like this."
+    },
+    {
+      "id": 378,
+      "start": 2222.73,
+      "end": 2235.64,
+      "text": "Get them big deadies."
+    },
+    {
+      "id": 379,
+      "start": 2235.64,
+      "end": 2237.64,
+      "text": "Like that."
+    },
+    {
+      "id": 380,
+      "start": 2237.64,
+      "end": 2239.64,
+      "text": "You gotta turn."
+    },
+    {
+      "id": 381,
+      "start": 2239.64,
+      "end": 2240.64,
+      "text": "You know."
+    },
+    {
+      "id": 382,
+      "start": 2240.64,
+      "end": 2242.64,
+      "text": "You gonna turn into some monsters."
+    },
+    {
+      "id": 383,
+      "start": 2242.64,
+      "end": 2244.64,
+      "text": "We gonna be some monsters."
+    },
+    {
+      "id": 384,
+      "start": 2244.64,
+      "end": 2246.64,
+      "text": "After you get done with my video."
+    },
+    {
+      "id": 385,
+      "start": 2246.64,
+      "end": 2247.64,
+      "text": "You gonna be a monster."
+    },
+    {
+      "id": 386,
+      "start": 2247.64,
+      "end": 2248.64,
+      "text": "Okay."
+    },
+    {
+      "id": 387,
+      "start": 2248.64,
+      "end": 2249.64,
+      "text": "Like me."
+    },
+    {
+      "id": 388,
+      "start": 2249.64,
+      "end": 2251.64,
+      "text": "Get the flex in your abs."
+    },
+    {
+      "id": 389,
+      "start": 2251.64,
+      "end": 2252.64,
+      "text": "You know."
+    },
+    {
+      "id": 390,
+      "start": 2252.64,
+      "end": 2254.64,
+      "text": "Get the biceps."
+    },
+    {
+      "id": 391,
+      "start": 2254.64,
+      "end": 2255.64,
+      "text": "You know."
+    },
+    {
+      "id": 392,
+      "start": 2255.64,
+      "end": 2256.64,
+      "text": "The..."
+    },
+    {
+      "id": 393,
+      "start": 2256.64,
+      "end": 2257.64,
+      "text": "Uh oh."
+    },
+    {
+      "id": 394,
+      "start": 2257.64,
+      "end": 2258.64,
+      "text": "You know what I'm saying."
+    },
+    {
+      "id": 395,
+      "start": 2258.64,
+      "end": 2260.64,
+      "text": "You can get the calf muscles in it."
+    },
+    {
+      "id": 396,
+      "start": 2260.64,
+      "end": 2261.64,
+      "text": "You know."
+    },
+    {
+      "id": 397,
+      "start": 2261.64,
+      "end": 2262.64,
+      "text": "Yeah."
+    },
+    {
+      "id": 398,
+      "start": 2262.64,
+      "end": 2264.64,
+      "text": "Hard as a rock."
+    },
+    {
+      "id": 399,
+      "start": 2264.64,
+      "end": 2265.64,
+      "text": "You know what I'm saying."
+    },
+    {
+      "id": 400,
+      "start": 2265.64,
+      "end": 2266.64,
+      "text": "Yeah."
+    },
+    {
+      "id": 401,
+      "start": 2266.64,
+      "end": 2268.64,
+      "text": "Get the back muscles."
+    },
+    {
+      "id": 402,
+      "start": 2268.64,
+      "end": 2270.64,
+      "text": "Like this."
+    },
+    {
+      "id": 403,
+      "start": 2270.64,
+      "end": 2271.64,
+      "text": "Yeah."
+    },
+    {
+      "id": 404,
+      "start": 2271.64,
+      "end": 2273.64,
+      "text": "We gonna be some monsters."
+    },
+    {
+      "id": 405,
+      "start": 2273.64,
+      "end": 2275.64,
+      "text": "The king is back."
+    },
+    {
+      "id": 406,
+      "start": 2275.64,
+      "end": 2276.64,
+      "text": "Niggas."
+    },
+    {
+      "id": 407,
+      "start": 2276.64,
+      "end": 2277.64,
+      "text": "Monsters."
+    },
+    {
+      "id": 408,
+      "start": 2277.64,
+      "end": 2292.18,
+      "text": "You in pretty good shape."
+    },
+    {
+      "id": 409,
+      "start": 2292.18,
+      "end": 2297.45,
+      "text": "I didn't like it."
+    },
+    {
+      "id": 410,
+      "start": 2297.45,
+      "end": 2299.45,
+      "text": "There's too much body."
+    },
+    {
+      "id": 411,
+      "start": 2299.45,
+      "end": 2300.45,
+      "text": "Yeah."
+    },
+    {
+      "id": 412,
+      "start": 2300.45,
+      "end": 2301.45,
+      "text": "What?"
+    },
+    {
+      "id": 413,
+      "start": 2301.45,
+      "end": 2303.45,
+      "text": "He was showing off the body for sure."
+    },
+    {
+      "id": 414,
+      "start": 2303.45,
+      "end": 2304.45,
+      "text": "Whoa."
+    },
+    {
+      "id": 415,
+      "start": 2304.45,
+      "end": 2305.45,
+      "text": "Sorry."
+    },
+    {
+      "id": 416,
+      "start": 2305.45,
+      "end": 2307.45,
+      "text": "My spectralness is fluctuating today."
+    },
+    {
+      "id": 417,
+      "start": 2307.45,
+      "end": 2308.45,
+      "text": "Ah."
+    },
+    {
+      "id": 418,
+      "start": 2308.45,
+      "end": 2314.36,
+      "text": "Is this Redneck magic mic?"
+    },
+    {
+      "id": 419,
+      "start": 2314.36,
+      "end": 2317.67,
+      "text": "Did he know magic?"
+    },
+    {
+      "id": 420,
+      "start": 2317.67,
+      "end": 2318.67,
+      "text": "Is he gonna appear?"
+    },
+    {
+      "id": 421,
+      "start": 2318.67,
+      "end": 2319.67,
+      "text": "What here?"
+    },
+    {
+      "id": 422,
+      "start": 2319.67,
+      "end": 2320.67,
+      "text": "I don't know."
+    },
+    {
+      "id": 423,
+      "start": 2320.67,
+      "end": 2321.67,
+      "text": "Really?"
+    },
+    {
+      "id": 424,
+      "start": 2321.67,
+      "end": 2323.67,
+      "text": "I'm assuming probably not."
+    },
+    {
+      "id": 425,
+      "start": 2323.67,
+      "end": 2330.03,
+      "text": "Free crime no purchase necessary please take him."
+    },
+    {
+      "id": 426,
+      "start": 2330.03,
+      "end": 2334.03,
+      "text": "Also the free jab was said earlier."
+    },
+    {
+      "id": 427,
+      "start": 2334.03,
+      "end": 2335.03,
+      "text": "Can you do that?"
+    },
+    {
+      "id": 428,
+      "start": 2335.03,
+      "end": 2336.03,
+      "text": "Free my..."
+    },
+    {
+      "id": 429,
+      "start": 2336.03,
+      "end": 2340.03,
+      "text": "I want my son to come back and explain what the hell is going on."
+    },
+    {
+      "id": 430,
+      "start": 2340.03,
+      "end": 2343.38,
+      "text": "That was how to be a monster."
+    },
+    {
+      "id": 431,
+      "start": 2343.38,
+      "end": 2344.38,
+      "text": "Wait."
+    },
+    {
+      "id": 432,
+      "start": 2344.38,
+      "end": 2345.38,
+      "text": "That was how to flex your muscles."
+    },
+    {
+      "id": 433,
+      "start": 2345.38,
+      "end": 2346.38,
+      "text": "But also to be a monster."
+    },
+    {
+      "id": 434,
+      "start": 2346.38,
+      "end": 2349.38,
+      "text": "It was a combination of things to learn."
+    },
+    {
+      "id": 435,
+      "start": 2349.38,
+      "end": 2354.17,
+      "text": "This is Kendall."
+    },
+    {
+      "id": 436,
+      "start": 2354.17,
+      "end": 2359.17,
+      "text": "I'm not sure what the how to is here but cause it's case his girlfriend."
+    },
+    {
+      "id": 437,
+      "start": 2359.17,
+      "end": 2362.17,
+      "text": "I think it's polite if I watch it."
+    },
+    {
+      "id": 438,
+      "start": 2362.17,
+      "end": 2364.17,
+      "text": "I guess."
+    },
+    {
+      "id": 439,
+      "start": 2364.17,
+      "end": 2366.17,
+      "text": "I just want to be polite."
+    },
+    {
+      "id": 440,
+      "start": 2366.17,
+      "end": 2367.17,
+      "text": "Okay."
+    },
+    {
+      "id": 441,
+      "start": 2367.17,
+      "end": 2368.17,
+      "text": "Left leg straight."
+    },
+    {
+      "id": 442,
+      "start": 2368.17,
+      "end": 2370.17,
+      "text": "Right leg bend it."
+    },
+    {
+      "id": 443,
+      "start": 2370.17,
+      "end": 2374.31,
+      "text": "Knees tuck point."
+    },
+    {
+      "id": 444,
+      "start": 2374.31,
+      "end": 2375.31,
+      "text": "Okay."
+    },
+    {
+      "id": 445,
+      "start": 2375.31,
+      "end": 2376.31,
+      "text": "Left hand on hip."
+    },
+    {
+      "id": 446,
+      "start": 2376.31,
+      "end": 2378.31,
+      "text": "Are you guys doing this or what?"
+    },
+    {
+      "id": 447,
+      "start": 2378.31,
+      "end": 2379.31,
+      "text": "Left hand on hip."
+    },
+    {
+      "id": 448,
+      "start": 2379.31,
+      "end": 2380.31,
+      "text": "Right hand."
+    },
+    {
+      "id": 449,
+      "start": 2380.31,
+      "end": 2384.94,
+      "text": "And now your minimus."
+    },
+    {
+      "id": 450,
+      "start": 2384.94,
+      "end": 2386.94,
+      "text": "This is minimus."
+    },
+    {
+      "id": 451,
+      "start": 2386.94,
+      "end": 2387.94,
+      "text": "Okay."
+    },
+    {
+      "id": 452,
+      "start": 2387.94,
+      "end": 2389.94,
+      "text": "That's fucking minimus."
+    },
+    {
+      "id": 453,
+      "start": 2389.94,
+      "end": 2390.94,
+      "text": "That's fucking minimus."
+    },
+    {
+      "id": 454,
+      "start": 2390.94,
+      "end": 2391.94,
+      "text": "Okay."
+    },
+    {
+      "id": 455,
+      "start": 2391.94,
+      "end": 2392.94,
+      "text": "Don't..."
+    },
+    {
+      "id": 456,
+      "start": 2392.94,
+      "end": 2398.79,
+      "text": "Is she about to yell at me at the end?"
+    },
+    {
+      "id": 457,
+      "start": 2398.79,
+      "end": 2399.79,
+      "text": "Yes."
+    },
+    {
+      "id": 458,
+      "start": 2399.79,
+      "end": 2400.79,
+      "text": "Left hand hip."
+    },
+    {
+      "id": 459,
+      "start": 2400.79,
+      "end": 2401.79,
+      "text": "Right hand..."
+    },
+    {
+      "id": 460,
+      "start": 2401.79,
+      "end": 2402.79,
+      "text": "A minimus."
+    },
+    {
+      "id": 461,
+      "start": 2402.79,
+      "end": 2411.95,
+      "text": "I don't feel like I was mini at all."
+    },
+    {
+      "id": 462,
+      "start": 2411.95,
+      "end": 2412.95,
+      "text": "That's the post she..."
+    },
+    {
+      "id": 463,
+      "start": 2412.95,
+      "end": 2413.95,
+      "text": "I wasn't her."
+    },
+    {
+      "id": 464,
+      "start": 2413.95,
+      "end": 2414.95,
+      "text": "I failed."
+    },
+    {
+      "id": 465,
+      "start": 2414.95,
+      "end": 2419.95,
+      "text": "I think you set your expectations a little too high maybe."
+    },
+    {
+      "id": 466,
+      "start": 2419.95,
+      "end": 2420.95,
+      "text": "How to..."
+    },
+    {
+      "id": 467,
+      "start": 2420.95,
+      "end": 2422.95,
+      "text": "How to do effing minimus."
+    },
+    {
+      "id": 468,
+      "start": 2422.95,
+      "end": 2424.95,
+      "text": "That was that."
+    },
+    {
+      "id": 469,
+      "start": 2424.95,
+      "end": 2428.78,
+      "text": "I agree."
+    },
+    {
+      "id": 470,
+      "start": 2428.78,
+      "end": 2430.78,
+      "text": "It wasn't her fault."
+    },
+    {
+      "id": 471,
+      "start": 2430.78,
+      "end": 2431.78,
+      "text": "It was a good explanation."
+    },
+    {
+      "id": 472,
+      "start": 2431.78,
+      "end": 2433.78,
+      "text": "I just didn't pull it off."
+    },
+    {
+      "id": 473,
+      "start": 2433.78,
+      "end": 2437.82,
+      "text": "How to dance like Mickey Mouse."
+    },
+    {
+      "id": 474,
+      "start": 2437.82,
+      "end": 2438.82,
+      "text": "What?"
+    },
+    {
+      "id": 475,
+      "start": 2438.82,
+      "end": 2441.82,
+      "text": "I have to try that too?"
+    },
+    {
+      "id": 476,
+      "start": 2441.82,
+      "end": 2443.82,
+      "text": "Okay."
+    },
+    {
+      "id": 477,
+      "start": 2443.82,
+      "end": 2444.82,
+      "text": "Oh!"
+    },
+    {
+      "id": 478,
+      "start": 2444.82,
+      "end": 2449.23,
+      "text": "Stand the fuck up right now."
+    },
+    {
+      "id": 479,
+      "start": 2449.23,
+      "end": 2451.23,
+      "text": "Stand up from your desk."
+    },
+    {
+      "id": 480,
+      "start": 2451.23,
+      "end": 2452.23,
+      "text": "I did!"
+    },
+    {
+      "id": 481,
+      "start": 2452.23,
+      "end": 2453.23,
+      "text": "I'm short."
+    },
+    {
+      "id": 482,
+      "start": 2453.23,
+      "end": 2455.23,
+      "text": "This is as high as I go."
+    },
+    {
+      "id": 483,
+      "start": 2455.23,
+      "end": 2456.23,
+      "text": "Okay."
+    },
+    {
+      "id": 484,
+      "start": 2456.23,
+      "end": 2458.7,
+      "text": "Is everyone standing?"
+    },
+    {
+      "id": 485,
+      "start": 2458.7,
+      "end": 2459.7,
+      "text": "Yes."
+    },
+    {
+      "id": 486,
+      "start": 2459.7,
+      "end": 2460.7,
+      "text": "Okay guys."
+    },
+    {
+      "id": 487,
+      "start": 2460.7,
+      "end": 2461.7,
+      "text": "Stand."
+    },
+    {
+      "id": 488,
+      "start": 2461.7,
+      "end": 2465.02,
+      "text": "Legs shoulder width apart."
+    },
+    {
+      "id": 489,
+      "start": 2465.02,
+      "end": 2466.02,
+      "text": "Okay."
+    },
+    {
+      "id": 490,
+      "start": 2466.02,
+      "end": 2467.02,
+      "text": "My foot forward."
+    },
+    {
+      "id": 491,
+      "start": 2467.02,
+      "end": 2468.02,
+      "text": "Okay."
+    },
+    {
+      "id": 492,
+      "start": 2468.02,
+      "end": 2469.02,
+      "text": "Are you fucking doing it?"
+    },
+    {
+      "id": 493,
+      "start": 2469.02,
+      "end": 2470.02,
+      "text": "Right foot forward."
+    },
+    {
+      "id": 494,
+      "start": 2470.02,
+      "end": 2471.02,
+      "text": "Okay."
+    },
+    {
+      "id": 495,
+      "start": 2471.02,
+      "end": 2475.55,
+      "text": "Left hand kind of behind you."
+    },
+    {
+      "id": 496,
+      "start": 2475.55,
+      "end": 2477.55,
+      "text": "Make some fists."
+    },
+    {
+      "id": 497,
+      "start": 2477.55,
+      "end": 2478.55,
+      "text": "Make some fists."
+    },
+    {
+      "id": 498,
+      "start": 2478.55,
+      "end": 2479.55,
+      "text": "I spitted two times."
+    },
+    {
+      "id": 499,
+      "start": 2479.55,
+      "end": 2482.55,
+      "text": "Left hand fist kind of behind you."
+    },
+    {
+      "id": 500,
+      "start": 2482.55,
+      "end": 2483.55,
+      "text": "Like this."
+    },
+    {
+      "id": 501,
+      "start": 2483.55,
+      "end": 2486.55,
+      "text": "Right hand fist."
+    },
+    {
+      "id": 502,
+      "start": 2486.55,
+      "end": 2488.55,
+      "text": "Pirate yourself."
+    },
+    {
+      "id": 503,
+      "start": 2488.55,
+      "end": 2490.55,
+      "text": "And this is a Mickey Mouse pose."
+    },
+    {
+      "id": 504,
+      "start": 2490.55,
+      "end": 2491.55,
+      "text": "You go for this."
+    },
+    {
+      "id": 505,
+      "start": 2491.55,
+      "end": 2492.55,
+      "text": "And you go, hiya!"
+    },
+    {
+      "id": 506,
+      "start": 2492.55,
+      "end": 2493.55,
+      "text": "Mickey Mouse."
+    },
+    {
+      "id": 507,
+      "start": 2493.55,
+      "end": 2494.55,
+      "text": "Mickey Mouse."
+    },
+    {
+      "id": 508,
+      "start": 2494.55,
+      "end": 2495.55,
+      "text": "That's not a dance."
+    },
+    {
+      "id": 509,
+      "start": 2495.55,
+      "end": 2496.55,
+      "text": "That's not a dance."
+    },
+    {
+      "id": 510,
+      "start": 2496.55,
+      "end": 2500.55,
+      "text": "I don't think she said it was the title was just how to dance."
+    },
+    {
+      "id": 511,
+      "start": 2500.55,
+      "end": 2504.44,
+      "text": "I felt aggressive."
+    },
+    {
+      "id": 512,
+      "start": 2504.44,
+      "end": 2505.44,
+      "text": "Mickey Mouse."
+    },
+    {
+      "id": 513,
+      "start": 2505.44,
+      "end": 2506.44,
+      "text": "I'm sorry."
+    },
+    {
+      "id": 514,
+      "start": 2506.44,
+      "end": 2507.44,
+      "text": "I'm sorry."
+    },
+    {
+      "id": 515,
+      "start": 2507.44,
+      "end": 2508.44,
+      "text": "I'm sorry."
+    },
+    {
+      "id": 516,
+      "start": 2508.44,
+      "end": 2509.44,
+      "text": "I'm sorry."
+    },
+    {
+      "id": 517,
+      "start": 2509.44,
+      "end": 2512.55,
+      "text": "I'm sorry."
+    },
+    {
+      "id": 518,
+      "start": 2512.55,
+      "end": 2513.55,
+      "text": "I'm sorry."
+    },
+    {
+      "id": 519,
+      "start": 2513.55,
+      "end": 2514.55,
+      "text": "I'm sorry."
+    },
+    {
+      "id": 520,
+      "start": 2514.55,
+      "end": 2515.55,
+      "text": "I felt aggressive."
+    },
+    {
+      "id": 521,
+      "start": 2515.55,
+      "end": 2518.55,
+      "text": "Mickey wouldn't be aggressive like I just was."
+    },
+    {
+      "id": 522,
+      "start": 2518.55,
+      "end": 2520.55,
+      "text": "That was pretty mild."
+    },
+    {
+      "id": 523,
+      "start": 2520.55,
+      "end": 2522.55,
+      "text": "I feel so guilty."
+    },
+    {
+      "id": 524,
+      "start": 2522.55,
+      "end": 2523.55,
+      "text": "I'm sorry, Mickey."
+    },
+    {
+      "id": 525,
+      "start": 2523.55,
+      "end": 2525.55,
+      "text": "I'm not you."
+    },
+    {
+      "id": 526,
+      "start": 2525.55,
+      "end": 2527.55,
+      "text": "Oh, jeez."
+    },
+    {
+      "id": 527,
+      "start": 2527.55,
+      "end": 2531.55,
+      "text": "I never thought I'd say this, but I miss my son."
+    },
+    {
+      "id": 528,
+      "start": 2531.55,
+      "end": 2532.55,
+      "text": "Am I your son?"
+    },
+    {
+      "id": 529,
+      "start": 2532.55,
+      "end": 2534.55,
+      "text": "No."
+    },
+    {
+      "id": 530,
+      "start": 2534.55,
+      "end": 2538.22,
+      "text": "No."
+    },
+    {
+      "id": 531,
+      "start": 2538.22,
+      "end": 2540.22,
+      "text": "Correct."
+    },
+    {
+      "id": 532,
+      "start": 2540.22,
+      "end": 2542.22,
+      "text": "Why would I fail that?"
+    },
+    {
+      "id": 533,
+      "start": 2542.22,
+      "end": 2543.22,
+      "text": "I don't know."
+    },
+    {
+      "id": 534,
+      "start": 2543.22,
+      "end": 2546.22,
+      "text": "That's all the time we have. That's the end of the stream."
+    },
+    {
+      "id": 535,
+      "start": 2546.22,
+      "end": 2551.22,
+      "text": "What? This is it? That's all we had time for today!"
+    },
+    {
+      "id": 536,
+      "start": 2551.22,
+      "end": 2557.44,
+      "text": "Oh man."
+    },
+    {
+      "id": 537,
+      "start": 2557.44,
+      "end": 2560.44,
+      "text": "And this is the stream where Kay's gained a follower."
+    },
+    {
+      "id": 538,
+      "start": 2560.44,
+      "end": 2562.44,
+      "text": "He could lose followers too."
+    },
+    {
+      "id": 539,
+      "start": 2562.44,
+      "end": 2565.44,
+      "text": "And he might have lost some."
+    },
+    {
+      "id": 540,
+      "start": 2565.44,
+      "end": 2567.44,
+      "text": "So he could still be in the negative."
+    },
+    {
+      "id": 541,
+      "start": 2567.44,
+      "end": 2570.97,
+      "text": "Well okay."
+    },
+    {
+      "id": 542,
+      "start": 2570.97,
+      "end": 2573.97,
+      "text": "Yes, that's it. That's it."
+    },
+    {
+      "id": 543,
+      "start": 2573.97,
+      "end": 2575.97,
+      "text": "I did my best."
+    },
+    {
+      "id": 544,
+      "start": 2575.97,
+      "end": 2580.31,
+      "text": "Let's raid Ricky Peacock."
+    },
+    {
+      "id": 545,
+      "start": 2580.31,
+      "end": 2584.31,
+      "text": "Or... oh wait, no. Christine is on."
+    },
+    {
+      "id": 546,
+      "start": 2584.31,
+      "end": 2587.31,
+      "text": "Gameplay, I can't even get a message out in the chat."
+    },
+    {
+      "id": 547,
+      "start": 2587.31,
+      "end": 2590.31,
+      "text": "But anyway, Ricky's also... what? Round?"
+    },
+    {
+      "id": 548,
+      "start": 2590.31,
+      "end": 2595.83,
+      "text": "Let's send you towards..."
+    },
+    {
+      "id": 549,
+      "start": 2595.83,
+      "end": 2597.83,
+      "text": "Talates!"
+    },
+    {
+      "id": 550,
+      "start": 2597.83,
+      "end": 2602.83,
+      "text": "But also, there's a Patreon stream that Kay's just said"
+    },
+    {
+      "id": 551,
+      "start": 2602.83,
+      "end": 2605.83,
+      "text": "give him the money and join the Patreon."
+    },
+    {
+      "id": 552,
+      "start": 2605.83,
+      "end": 2607.83,
+      "text": "He said, you owe me."
+    },
+    {
+      "id": 553,
+      "start": 2607.83,
+      "end": 2609.83,
+      "text": "You owe me! Join it!"
+    },
+    {
+      "id": 554,
+      "start": 2609.83,
+      "end": 2612.83,
+      "text": "That's... I don't think he said that. I saw what he asked you to read."
+    },
+    {
+      "id": 555,
+      "start": 2612.83,
+      "end": 2617.17,
+      "text": "Oh, did I add that?"
+    },
+    {
+      "id": 556,
+      "start": 2617.17,
+      "end": 2618.17,
+      "text": "Yes."
+    },
+    {
+      "id": 557,
+      "start": 2618.17,
+      "end": 2621.17,
+      "text": "Thank you, I tried my best."
+    },
+    {
+      "id": 558,
+      "start": 2621.17,
+      "end": 2624.17,
+      "text": "Okay, that's... have fun with Christine."
+    },
+    {
+      "id": 559,
+      "start": 2624.17,
+      "end": 2626.17,
+      "text": "I'm already late."
+    },
+    {
+      "id": 560,
+      "start": 2626.17,
+      "end": 2629.17,
+      "text": "It's a different thing. I'm not invited to the Patreon."
+    },
+    {
+      "id": 561,
+      "start": 2629.17,
+      "end": 2631.17,
+      "text": "I mean, you could probably go if you want."
+    },
+    {
+      "id": 562,
+      "start": 2631.17,
+      "end": 2633.17,
+      "text": "It's too far away."
+    },
+    {
+      "id": 563,
+      "start": 2633.17,
+      "end": 2634.17,
+      "text": "What state are we in?"
+    },
+    {
+      "id": 564,
+      "start": 2634.17,
+      "end": 2636.17,
+      "text": "You should know that!"
+    },
+    {
+      "id": 565,
+      "start": 2636.17,
+      "end": 2638.17,
+      "text": "Yes?"
+    },
+    {
+      "id": 566,
+      "start": 2638.17,
+      "end": 2640.17,
+      "text": "Kendall needs help."
+    },
+    {
+      "id": 567,
+      "start": 2640.17,
+      "end": 2642.17,
+      "text": "Hang out with Chat then."
+    },
+    {
+      "id": 568,
+      "start": 2642.17,
+      "end": 2644.17,
+      "text": "No, no, no, I need a grammar thing."
+    },
+    {
+      "id": 569,
+      "start": 2644.17,
+      "end": 2645.17,
+      "text": "Who's this?"
+    },
+    {
+      "id": 570,
+      "start": 2645.17,
+      "end": 2646.17,
+      "text": "I'm Jake."
+    },
+    {
+      "id": 571,
+      "start": 2646.17,
+      "end": 2648.17,
+      "text": "Maybe Jake can help me."
+    },
+    {
+      "id": 572,
+      "start": 2648.17,
+      "end": 2653.17,
+      "text": "I'm trying to say that I'm honored to be at the same event as a person,"
+    },
+    {
+      "id": 573,
+      "start": 2653.17,
+      "end": 2656.17,
+      "text": "but past tense. How do I write that?"
+    },
+    {
+      "id": 574,
+      "start": 2656.17,
+      "end": 2659.17,
+      "text": "I'm honored to have been at the same event."
+    },
+    {
+      "id": 575,
+      "start": 2659.17,
+      "end": 2661.17,
+      "text": "It was an honor to be at the same event as Blank."
+    },
+    {
+      "id": 576,
+      "start": 2661.17,
+      "end": 2663.17,
+      "text": "It wasn't. Thank you."
+    },
+    {
+      "id": 577,
+      "start": 2663.17,
+      "end": 2665.17,
+      "text": "Oh, that was stressful."
+    },
+    {
+      "id": 578,
+      "start": 2665.17,
+      "end": 2669.17,
+      "text": "I did it though. I pulled it off."
+    },
+    {
+      "id": 579,
+      "start": 2669.17,
+      "end": 2673.09,
+      "text": "Oh!"
+    },
+    {
+      "id": 580,
+      "start": 2673.09,
+      "end": 2676.09,
+      "text": "Okay. Can someone play the music?"
+    },
+    {
+      "id": 581,
+      "start": 2676.09,
+      "end": 2679.09,
+      "text": "That's new."
+    },
+    {
+      "id": 582,
+      "start": 2679.09,
+      "end": 2682.09,
+      "text": "Okay, say hi to Christine for everybody."
+    },
+    {
+      "id": 583,
+      "start": 2682.09,
+      "end": 2684.09,
+      "text": "I should have played this the whole time."
+    },
+    {
+      "id": 584,
+      "start": 2684.09,
+      "end": 2685.09,
+      "text": "It's pretty loud."
+    },
+    {
+      "id": 585,
+      "start": 2685.09,
+      "end": 2690.58,
+      "text": "Goodbye, everybody. Bye!"
+    },
+    {
+      "id": 586,
+      "start": 2690.58,
+      "end": 2693.58,
+      "text": "You have to hit... you have to end the stream."
+    },
+    {
+      "id": 587,
+      "start": 2693.58,
+      "end": 2717.28,
+      "text": "End the stream!"
+    }
+  ],
+  "text": "I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog.\nCase Blackwell said 10, 9, 8, 7 is this how time works. Can we start?\nWe're live in 10, 9, 8, 7, 6, 5, 4, 3, 2, 1. Let's do this. I'm Pepito.\nOh yeah everybody. We're back. There's no time to mess around today. I only have 30 minutes to stream before this...\nBefore the Patreon where I'll still be streaming. But only if you're one of our specific patrons.\nBitch, if you're watching this you might be.\nUh, Daggett, thank you so much for the 31 months. What? Where does the time go?\nUh, also thank you Archangels and a hype train. I don't even think I have time to check in with a hype train.\nPepito, we need to run a tight ship today, okay? We might have trouble running a tight ship today.\nI'm already sensing some technical difficulties.\nHype train, are you there? Are you fricking there? There's no time.\nThere's no time for any of this, dude.\nBecause that's actually the sweetest part of talking to yourself. You just need to leave it on me.\nI don't know if I want to do it.\nYou have zero choice. Yes, let's do a cool 30 minutes of me thinking.\nWondle Sprout and Big Jada and Stonkin and Daggett on Twitch. 30 minutes of that case.\nThey deserve 30 minutes of me thinking. So what are you going to do?\nI'm going to have to move on. There's only got 30 minutes. But...\nBut? But? You know.\nWhat if the hype train took over the entire stream?\nThat's what I'm fricking saying, man. I'm just saying.\nOkay, okay, boom. Like I'm saying.\nYes. Anyway, let me do the whole stream.\nJeb was requested in the movies. I don't have time for that. We just need to immediately go to these other segments.\nSo unfair. I'm barely ever alive. You're already going right past me.\nIn other news, I think Pepito might have just declared his absence once again, unfortunately.\nBut why would it be? Why would Pepito be missing again?\nLet me just try one thing real quick. Maybe something else broke.\nHe was working earlier today. He was in here working hard. He's just eating. He might be.\nOkay, wait. I'm going to do one thing real quick, guys.\nYou know, after I said I need to do this as quickly as possible, I think it's important that I take a minute here to mess with the tech stuff.\nBut don't worry. We have the hype trains music at least while I do this.\nLet's see how many followers we can lose today. It's my new mission. Get those negative numbers up.\nOoh, ooh. Okay. Okay, this has to work, right?\nUp we go.\nYeah, you're back at work. I knew you couldn't stay away, Pepito.\nWhy were you not in your freaking seat?\nI was doing stuff. I'm busy. I was being the hype train.\nYou're the hype train?\nYeah, that's me in a costume. That's the new hype train lore. Did you know that that's what's going on there?\nThe hype train is on my other screen, and I don't think it's you.\nI'm deaf if that is not more accurate. I am my own entity. Stop stealing hype train valor.\nPepito, what do you have to say for yourself?\nWell, I have hype train and I have appeared on the same screen.\nHave you and I ever appeared on the same screen?\nActually, yes.\nOkay. Well, the hype train has been powered up to level one? Level one?\nIs he at level zero? I guess he was at level zero.\nOkay, there's no time for this. You only have two minutes left to stream.\nI think I have 25 minutes at least.\nYou have two segments? Maniac, I don't actually care. I was trying to get worked up, but I don't really care what happens.\nOkay, well, we'll do the segments that were requested. Were you baptizing the cheese?\nYeah, I'm the Pope. I'm the stream Pope. Can you change my title already?\nWait, I guess I'm the producer. Can I read and write, please? How do you read and write?\nI don't think I can teach you in the 25 minutes we have to stream.\nCan someone teach me how to read and write really quickly so I can update my title to stream Pope?\nI'll do it for you later. I'm also building you your own talk show, you know.\nBuild it faster.\nOkay. This is the wildest episode of 24 Ever.\nIt's all happening in real time. Everything you're seeing, it took place over 24 minutes?\nIt'll be about that.\nOkay, well anyway, I'm gonna send it. Let's send it to the other thing. What do we have requested?\nWe need to see a debate. No wait, that was yesterday.\nWe need to see a trend at the movies. I don't actually see a request for Jeb, who's still missing.\nSo we couldn't see him even if we wanted to. I only see a request for the movies.\nBut we can maybe do Jeb. I just don't see the Jeb request live in Sleazy.\nIs it broken? Case, did you break another thing?\nWell, we can just do it if there's time.\nOkay, then if there's time, we'll do it. But for now, it's time for whatever this segment is.\nOh yeah. What a perfect time for me to work for five minutes.\nAnd then get the fuck out of here because I'm so busy. You're at the movies. I'm Trent.\nThere's my parole officer, apparently. Supposedly.\nNo, I am. I'm really your parole officer.\nSupposedly, allegedly. According to you in the state, but I don't know if I believe in the state.\nI mean, who else would make me a parole officer? Good question. That's a question for the state.\nDo you don't believe in the state, I thought? Exactly. You see my conundrum.\nOkay, well look, we're also in the middle of a hype train, so...\nHyper-R-R-Roonios! Oh my God, stop. What are you doing?\nHype! Hypetonic! What do you guys say for hype?\nNone of what you just said. Just fucking don't mention it. Jesus.\nPlay it fucking cool, man. If anything, case is overdue. Look at all this shit on the screen.\nWhat you gotta do is when there's a hype train happening to say, I don't even care about this bullshit,\nI guess subscribe if you want. Whatever, if you're into that kind of stupid fucking thing.\nAnd then people will sub like crazy. That sounds like you're just gonna discourage people.\nWe don't have time for this, dude. We have to watch, I think, eight full films today.\nThree trailers. We're saying the same thing.\nI gotta get down to business, dude. We're fucking so busy today.\nAnd there's like, I think a thousand trailers came out, and I gotta like, at least watch 90% of those.\nProbably. Let's see what we even have to deal with.\nIt actually is Trailer Thursdays. That's crazy.\nI mean, sometimes this segment's requested on Thursdays. Is that that crazy? It's fucking crazy, dude. That never happens.\nWell, case actually doesn't stream on Thursdays usually, so it is kind of crazy.\nOkay, in that specific context, it's a little crazy, I guess.\nElden Ring Night Rain Bring Me To Life? Like with the song Bring Me, Bring Me, oh my god, they did it.\nThey got this song for an Elden Ring Trailer?\nI'm assuming you want to see this. The Wake Me Up song?\nWake me up. I think it's Bring Me To Life. No, it's Wake Me Up.\nLet's not argue about this. It's killing, it literally killed the Hyper Roonies and the Hyptasms, and now nobody's hypodonic.\nThis is just, why are you doing this today? Why are you talking like this? I'm just trying to make it fun.\nJust play the fucking Elden Ring Trailer.\nWith respect, this is beautiful.\nHe's got picked up by a screeching awk.\nHello, PB7s.\nI wasn't into this, but now I am. There's a goofy version? I don't even know what this game is, but if this is the soundtrack I'm in, that was fucking beautiful.\nThat... can we make that the official theme song of our stream?\nCan we play Evanescence copyrighted constantly?\nHow can you see into my eyes like all you know?\nNow into my core where I become so numb.\nWe cloud us all.\nUntil you find it there and leave.\nYeah, back home.\nWake me up. Wake me up inside. Wake me up inside. Wake me up inside.\nThe mix is about as good as the mix's case makes on this stream. I will say that.\nOh yeah, ratings. That's technically a button I can hit.\nYou can indeed rate it from 1 to 5.\nAnd only that. There's no... no decimals here. No decimals allowed.\nIt's 1 to 5 stars. You're so upset. I'm just explaining.\nI haven't been told I have a little bit of an angry pedantic voice when I try to explain things.\nBut I'm just trying to explain something. Okay. You're getting upset.\nNo, I'm actually not. I thought I just clarified. Oh my god. Alright.\nSmoke? Good fortune.\nKeanu Reeves, Seth Rogen, Aziz Ansari. It was 3. 3 stars.\nIt didn't show off the game super well, but it did show off, in a sense, pretty well.\n3 seems fair. That's always fair.\nBy the power of star ratings in our audience, it's always the most accurate possible score.\nOne Piece is returning, apparently.\nI know I famously said, famously. Everyone remembers this in the world, probably.\nThat I said One Piece was going to suck ass.\nAnd I'll bring it up to hold myself accountable, because the live action One Piece was honestly pretty good.\nWhich is notably better than sucking huge ass.\nAnd kind of a huge achievement, because it's semi-impossible to adapt.\nIt should get more impossible as they go, so they are playing on hard mode.\nWill this suck ass? I'm hoping not. I'm hoping it's kind of good again. That's my hope.\nThis is not an official trailer. It's an announcement that's special, like a trailer.\nA special announcement trailer. We're just going to watch it and find out.\nNext up, the Grand Line!\nLuffy, what are you doing here?\nLet me! I had an idea. I realized that every great pirate crew needs some good, solid bonding time.\nSo we're having a slumber party!\nNo, no, no, no, no. We're not having a slumber party.\nIt's snacks. Oh, it's like a little thing, yeah.\nAnd I fixed the snail projector, which...\nWhat the fuck?\nIt's kind of a disturbing process.\nZorro! You made it!\nThey said there was going to be booze.\nSo, question. Do you sleep with those fools?\nMaybe.\nOkay, I guess we are having a slumber party.\nShowtime!\nI know they had popcorn in one piece, but I guess they did.\nThat's the popcorn!\nOkay, so what are we watching?\nDo you want to do the honors?\nOh, that's the whole announcement.\nWhat's to dumb?\nWait, is what sea at Netflix...\nIs that enough?\nTo dumb?\nWhat is Netflix to dumb?\nThe noise that Netflix makes when you open it up?\nThat was an announcement of an announcement.\nOh, is this a thing they've done?\nI guess it's like their fan fest.\nIt's called to dumb.\nBecause that's the noise.\nI'm as surprised as you are that this is what their fan fest is called.\nI didn't know this.\nI don't know if I like that.\nToo dumb to spell correctly.\nHow do you spell to dumb correctly?\nToo dumb?\nLook, we're in a hurry. We don't have a lot of time.\nYeah, I forgot.\nLook, I do want to talk about the to dumb Netflix event\nand my feelings on its title for 20 minutes at least.\nBut, as our time is limited today,\nI guess I'll keep scrolling until I find\nthe perfect trailer.\nBecause playing for Netflix is to dumb.\nCorrect, dude.\nThat's why I pirate the entire streaming service, Netflix.\nIn what sense?\nWell, my dad pays for it.\nAnd I live with my dad and my mom.\nAnd they kind of split finances, so in a way they both pay for it.\nZero stars for that announcement of an announcement?\nNo, but it was kind of cute.\nAnd then at the end, there's a cow or something showing up.\nIt's obviously chopper there, teasing chopper.\nCould be a cow. You can't prove that it's chopper.\nUncle Phil 2K.\nThank you so much for the hundred bits.\nExcuse me?\nOkay.\nUm...\nHouse of Kong? Did we already watch that?\nMaybe we already watched that.\nTitan, the Ocean Gate disaster.\nI've been waiting to watch this and go.\nOh, what?\nMan.\nSo sad.\nBut also, whoa.\nThat's what I'm going to go through when this movie comes up.\nAll right. Well, there, I mean, it was the inevitable exploitation of exploitation.\nLet's see...\nThe trailer for it.\nThere was no way of knowing when the title was going to fail.\nBut it was a mathematical certainty that it would fail.\nStockton saw an opportunity to restart tourist visits to Titanic.\nStockton fully believed in what he was doing and that it would work.\nHe wanted fame.\nTo fuel his ego, fame.\nI have no desire to die.\nI understand this kind of risk.\nI thought Stockton was the borderline psychopath.\nHow do you manage a person like that who owns the company?\nThis is one of the safest things I will ever do.\nNobody spoke up.\nIt would ruin somebody's life.\nStockton said Bonnie is going to be our next lead pilot.\nAre you nuts? I'm an accountant.\nSo what you got promoted?\nNo one's dying under my watch.\nPeriod.\nYou can now rate their deaths.\nNo, you're rating the trailer, Chad.\nDon't worry, you're not rating the deaths of those on board.\nBut they kind of are.\nNo, it's a trailer.\nIt's an event that happened and was covered.\nIt's fair to make a documentary about it.\nI'm glad you're enjoying yourself.\nWhile the whole Titanic died.\nNo, they were going to see the Titanic, young blood.\nYou gotta understand the world slightly better.\nSo that the things you say aren't so painfully stupid.\nThat's a 2.63.\nI would have given their deaths as a zero because I think deaths are bad.\nLet's not end on that note.\nBecause you're making it weird.\nLet's watch K-pop Demon Hunters.\nI don't know what that is.\nI don't know why that is.\nBut the title makes me want to click on it.\nI'll watch the girls from Blackpink hunt demons.\nI don't know if it's them doing it.\nBut that's the K-pop band I have reference for.\nWell anyway, they're Demon Hunters and they're K-pop. Let's see.\nIt's time.\nThe world will know you as pop stars.\nWell, they lost some of the frames again.\nIt keeps happening in these movies.\nThey keep forgetting to put in about every other frame.\nYou will be hunters.\nThis is the man's bathhouse. Get out of here.\nThey're stealing the souls of our fans?\nLet's send those disgusting demons back to the depths where they belong.\nYeah!\nGet that already.\nLove action would have been more fun.\nI can destroy the hunters.\nFor good.\nOh shit, K-pop hot boys?\nOh those are hot boys.\nOh you knew it.\nI love a good rowdy rough boys antagonist.\nDemon boy band? They're coming after the fans.\nThe Sasha boys!\nLet's go get these guys.\nPeople are just going to let you steal our fans.\nYou're going to have to fight us for that.\nYeah I think maybe Kendall made this.\nI think she's been moonlighting as a studio executive.\nYeah this plane's trashed.\nEverything is upstate.\nOh no!\nGina's boyfriend is in this.\nThe hero Josh.\nOne of the ultimate cool dudes for real.\nOh they're small.\nOh it's only on Netflix.\nThey don't want to put it in theaters.\nIt's only on Netflix.\nWhat if I want to go to a theater?\nDo you? No.\nBut maybe I would have.\nIt's just once.\nI think the metrics would indicate that you don't youngblood.\nTadum! Is that going to be at the Tadum?\nThe Tadum Fest?\nProbably.\nTadum!\nIt's got to be better than the Electric State right?\nThey set the bar nice and low for themselves with the most expensive movie they've ever made.\nThey really did. That was smart.\nSo once you make your biggest movie ever and it's awful in every way.\nThen when you make better movies for cheaper you look like a hero.\nMakes as much sense as anything else about making that movie.\nYou like your CGI with five frames?\nWe've unfortunately lost the technology for 24 frames per second in animation.\nWell I don't think most animation is 24. I think it's more like 15 right?\nIsn't that standard?\nWhat's the standard animation frame rate?\nOh it's 24 frames per second.\nAccording to...wait that's AI.\nIs 12 FPS an anime...12 FPS is a good frame rate for animation.\nEspecially for traditional stop motion techniques.\nI don't know.\nI'm guessing that's less than 12?\nWhat's up MSG?\nWhat's up Metlid Dell?\nWe gotta go. I'm getting the red light.\nThere isn't...do you mean the exit light? That's always on.\nOh I thought that was my red light.\nBut it's on the whole time we're streaming.\nI just thought I was always being told to wrap it up the whole time.\nOh so now that you know that you're not.\nYou could take your time.\nNo well we're busy today so we can't.\nWe gotta learn how to with some guy who's not Jeb.\nCause I don't know who Jeb is.\nI've never met him.\nBut apparently he's dead or something.\nSo I don't know how it works.\nBut we send you down to whoever that is now.\nBye bye.\nDo you know what it is?\nOffer it and forget.\nWhoa.\nOh it's this.\nIt's this little guy again.\nHello little guy.\nUm...\nDo you know where my son is?\nNo.\nUm...\nJeb should be like Captain Murphy from C-Lab.\nWe hear all about him running all over the globe.\nDoing stuff but he never comes back.\nI do wonder where he is.\nCause I would love to not be in the wood.\nDo you know anything about getting out of it?\nI don't get any of it.\nI don't get what you're doing.\nNope.\nRIP Uncle Harry.\nAm I Uncle Harry?\nI don't know.\nBut look we only have 10 minutes left.\nAre you gonna watch a how-to?\nIt's the only thing you have to do.\nI got a haircut.\nIs that okay?\nWhen?\nTwo weeks ago?\nIt's been a while though.\nThat's fine.\nLet's watch a how-to.\nOh you are gonna do it.\nI won't.\nNo it's fine.\nDo that.\nHow to flex your muscles?\nI don't like to do that.\nSo I won't be doing this.\nBut...\nIf you'd like to learn how, let's see.\nOh it's just a person.\nTell mother fuckers.\nI'm gonna be showing y'all\nhow to fuck y'all muscles.\nOh.\nYou gotta get a real strong\nand big\nlifting weights\nlike this.\nGet them big deadies.\nLike that.\nYou gotta turn.\nYou know.\nYou gonna turn into some monsters.\nWe gonna be some monsters.\nAfter you get done with my video.\nYou gonna be a monster.\nOkay.\nLike me.\nGet the flex in your abs.\nYou know.\nGet the biceps.\nYou know.\nThe...\nUh oh.\nYou know what I'm saying.\nYou can get the calf muscles in it.\nYou know.\nYeah.\nHard as a rock.\nYou know what I'm saying.\nYeah.\nGet the back muscles.\nLike this.\nYeah.\nWe gonna be some monsters.\nThe king is back.\nNiggas.\nMonsters.\nYou in pretty good shape.\nI didn't like it.\nThere's too much body.\nYeah.\nWhat?\nHe was showing off the body for sure.\nWhoa.\nSorry.\nMy spectralness is fluctuating today.\nAh.\nIs this Redneck magic mic?\nDid he know magic?\nIs he gonna appear?\nWhat here?\nI don't know.\nReally?\nI'm assuming probably not.\nFree crime no purchase necessary please take him.\nAlso the free jab was said earlier.\nCan you do that?\nFree my...\nI want my son to come back and explain what the hell is going on.\nThat was how to be a monster.\nWait.\nThat was how to flex your muscles.\nBut also to be a monster.\nIt was a combination of things to learn.\nThis is Kendall.\nI'm not sure what the how to is here but cause it's case his girlfriend.\nI think it's polite if I watch it.\nI guess.\nI just want to be polite.\nOkay.\nLeft leg straight.\nRight leg bend it.\nKnees tuck point.\nOkay.\nLeft hand on hip.\nAre you guys doing this or what?\nLeft hand on hip.\nRight hand.\nAnd now your minimus.\nThis is minimus.\nOkay.\nThat's fucking minimus.\nThat's fucking minimus.\nOkay.\nDon't...\nIs she about to yell at me at the end?\nYes.\nLeft hand hip.\nRight hand...\nA minimus.\nI don't feel like I was mini at all.\nThat's the post she...\nI wasn't her.\nI failed.\nI think you set your expectations a little too high maybe.\nHow to...\nHow to do effing minimus.\nThat was that.\nI agree.\nIt wasn't her fault.\nIt was a good explanation.\nI just didn't pull it off.\nHow to dance like Mickey Mouse.\nWhat?\nI have to try that too?\nOkay.\nOh!\nStand the fuck up right now.\nStand up from your desk.\nI did!\nI'm short.\nThis is as high as I go.\nOkay.\nIs everyone standing?\nYes.\nOkay guys.\nStand.\nLegs shoulder width apart.\nOkay.\nMy foot forward.\nOkay.\nAre you fucking doing it?\nRight foot forward.\nOkay.\nLeft hand kind of behind you.\nMake some fists.\nMake some fists.\nI spitted two times.\nLeft hand fist kind of behind you.\nLike this.\nRight hand fist.\nPirate yourself.\nAnd this is a Mickey Mouse pose.\nYou go for this.\nAnd you go, hiya!\nMickey Mouse.\nMickey Mouse.\nThat's not a dance.\nThat's not a dance.\nI don't think she said it was the title was just how to dance.\nI felt aggressive.\nMickey Mouse.\nI'm sorry.\nI'm sorry.\nI'm sorry.\nI'm sorry.\nI'm sorry.\nI'm sorry.\nI'm sorry.\nI felt aggressive.\nMickey wouldn't be aggressive like I just was.\nThat was pretty mild.\nI feel so guilty.\nI'm sorry, Mickey.\nI'm not you.\nOh, jeez.\nI never thought I'd say this, but I miss my son.\nAm I your son?\nNo.\nNo.\nCorrect.\nWhy would I fail that?\nI don't know.\nThat's all the time we have. That's the end of the stream.\nWhat? This is it? That's all we had time for today!\nOh man.\nAnd this is the stream where Kay's gained a follower.\nHe could lose followers too.\nAnd he might have lost some.\nSo he could still be in the negative.\nWell okay.\nYes, that's it. That's it.\nI did my best.\nLet's raid Ricky Peacock.\nOr... oh wait, no. Christine is on.\nGameplay, I can't even get a message out in the chat.\nBut anyway, Ricky's also... what? Round?\nLet's send you towards...\nTalates!\nBut also, there's a Patreon stream that Kay's just said\ngive him the money and join the Patreon.\nHe said, you owe me.\nYou owe me! Join it!\nThat's... I don't think he said that. I saw what he asked you to read.\nOh, did I add that?\nYes.\nThank you, I tried my best.\nOkay, that's... have fun with Christine.\nI'm already late.\nIt's a different thing. I'm not invited to the Patreon.\nI mean, you could probably go if you want.\nIt's too far away.\nWhat state are we in?\nYou should know that!\nYes?\nKendall needs help.\nHang out with Chat then.\nNo, no, no, I need a grammar thing.\nWho's this?\nI'm Jake.\nMaybe Jake can help me.\nI'm trying to say that I'm honored to be at the same event as a person,\nbut past tense. How do I write that?\nI'm honored to have been at the same event.\nIt was an honor to be at the same event as Blank.\nIt wasn't. Thank you.\nOh, that was stressful.\nI did it though. I pulled it off.\nOh!\nOkay. Can someone play the music?\nThat's new.\nOkay, say hi to Christine for everybody.\nI should have played this the whole time.\nIt's pretty loud.\nGoodbye, everybody. Bye!\nYou have to hit... you have to end the stream.\nEnd the stream!",
+  "text_timestamped": "[00:06 --> 00:12] I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog.\n[00:12 --> 07:49] Case Blackwell said 10, 9, 8, 7 is this how time works. Can we start?\n[07:49 --> 08:04] We're live in 10, 9, 8, 7, 6, 5, 4, 3, 2, 1. Let's do this. I'm Pepito.\n[08:04 --> 08:41] Oh yeah everybody. We're back. There's no time to mess around today. I only have 30 minutes to stream before this...\n[08:41 --> 08:48] Before the Patreon where I'll still be streaming. But only if you're one of our specific patrons.\n[08:48 --> 08:53] Bitch, if you're watching this you might be.\n[08:53 --> 09:03] Uh, Daggett, thank you so much for the 31 months. What? Where does the time go?\n[09:03 --> 09:14] Uh, also thank you Archangels and a hype train. I don't even think I have time to check in with a hype train.\n[09:14 --> 09:28] Pepito, we need to run a tight ship today, okay? We might have trouble running a tight ship today.\n[09:28 --> 09:30] I'm already sensing some technical difficulties.\n[09:30 --> 09:43] Hype train, are you there? Are you fricking there? There's no time.\n[09:43 --> 09:48] There's no time for any of this, dude.\n[09:48 --> 09:54] Because that's actually the sweetest part of talking to yourself. You just need to leave it on me.\n[09:54 --> 09:56] I don't know if I want to do it.\n[09:56 --> 10:06] You have zero choice. Yes, let's do a cool 30 minutes of me thinking.\n[10:06 --> 10:16] Wondle Sprout and Big Jada and Stonkin and Daggett on Twitch. 30 minutes of that case.\n[10:16 --> 10:19] They deserve 30 minutes of me thinking. So what are you going to do?\n[10:19 --> 10:27] I'm going to have to move on. There's only got 30 minutes. But...\n[10:27 --> 10:32] But? But? You know.\n[10:32 --> 10:38] What if the hype train took over the entire stream?\n[10:38 --> 10:43] That's what I'm fricking saying, man. I'm just saying.\n[10:43 --> 10:46] Okay, okay, boom. Like I'm saying.\n[10:46 --> 10:49] Yes. Anyway, let me do the whole stream.\n[10:49 --> 10:54] Jeb was requested in the movies. I don't have time for that. We just need to immediately go to these other segments.\n[10:54 --> 11:01] So unfair. I'm barely ever alive. You're already going right past me.\n[11:06 --> 11:21] In other news, I think Pepito might have just declared his absence once again, unfortunately.\n[11:21 --> 11:28] But why would it be? Why would Pepito be missing again?\n[11:28 --> 11:32] Let me just try one thing real quick. Maybe something else broke.\n[11:32 --> 11:52] He was working earlier today. He was in here working hard. He's just eating. He might be.\n[11:52 --> 11:58] Okay, wait. I'm going to do one thing real quick, guys.\n[11:58 --> 12:08] You know, after I said I need to do this as quickly as possible, I think it's important that I take a minute here to mess with the tech stuff.\n[12:08 --> 12:17] But don't worry. We have the hype trains music at least while I do this.\n[12:17 --> 12:23] Let's see how many followers we can lose today. It's my new mission. Get those negative numbers up.\n[12:23 --> 12:29] Ooh, ooh. Okay. Okay, this has to work, right?\n[12:29 --> 12:35] Up we go.\n[12:35 --> 12:40] Yeah, you're back at work. I knew you couldn't stay away, Pepito.\n[12:40 --> 12:44] Why were you not in your freaking seat?\n[12:44 --> 12:52] I was doing stuff. I'm busy. I was being the hype train.\n[12:52 --> 12:54] You're the hype train?\n[12:54 --> 13:01] Yeah, that's me in a costume. That's the new hype train lore. Did you know that that's what's going on there?\n[13:01 --> 13:07] The hype train is on my other screen, and I don't think it's you.\n[13:07 --> 13:16] I'm deaf if that is not more accurate. I am my own entity. Stop stealing hype train valor.\n[13:16 --> 13:20] Pepito, what do you have to say for yourself?\n[13:20 --> 13:23] Well, I have hype train and I have appeared on the same screen.\n[13:23 --> 13:26] Have you and I ever appeared on the same screen?\n[13:26 --> 13:29] Actually, yes.\n[13:29 --> 13:39] Okay. Well, the hype train has been powered up to level one? Level one?\n[13:39 --> 13:43] Is he at level zero? I guess he was at level zero.\n[13:43 --> 13:46] Okay, there's no time for this. You only have two minutes left to stream.\n[13:46 --> 13:49] I think I have 25 minutes at least.\n[13:49 --> 13:57] You have two segments? Maniac, I don't actually care. I was trying to get worked up, but I don't really care what happens.\n[13:57 --> 14:02] Okay, well, we'll do the segments that were requested. Were you baptizing the cheese?\n[14:02 --> 14:07] Yeah, I'm the Pope. I'm the stream Pope. Can you change my title already?\n[14:07 --> 14:13] Wait, I guess I'm the producer. Can I read and write, please? How do you read and write?\n[14:13 --> 14:18] I don't think I can teach you in the 25 minutes we have to stream.\n[14:18 --> 14:23] Can someone teach me how to read and write really quickly so I can update my title to stream Pope?\n[14:23 --> 14:27] I'll do it for you later. I'm also building you your own talk show, you know.\n[14:27 --> 14:29] Build it faster.\n[14:29 --> 14:33] Okay. This is the wildest episode of 24 Ever.\n[14:33 --> 14:41] It's all happening in real time. Everything you're seeing, it took place over 24 minutes?\n[14:41 --> 14:43] It'll be about that.\n[14:43 --> 14:48] Okay, well anyway, I'm gonna send it. Let's send it to the other thing. What do we have requested?\n[14:48 --> 14:52] We need to see a debate. No wait, that was yesterday.\n[14:52 --> 15:05] We need to see a trend at the movies. I don't actually see a request for Jeb, who's still missing.\n[15:05 --> 15:11] So we couldn't see him even if we wanted to. I only see a request for the movies.\n[15:11 --> 15:16] But we can maybe do Jeb. I just don't see the Jeb request live in Sleazy.\n[15:17 --> 15:20] Is it broken? Case, did you break another thing?\n[15:20 --> 15:22] Well, we can just do it if there's time.\n[15:22 --> 15:28] Okay, then if there's time, we'll do it. But for now, it's time for whatever this segment is.\n[15:28 --> 15:53] Oh yeah. What a perfect time for me to work for five minutes.\n[15:53 --> 15:58] And then get the fuck out of here because I'm so busy. You're at the movies. I'm Trent.\n[15:58 --> 16:01] There's my parole officer, apparently. Supposedly.\n[16:01 --> 16:05] No, I am. I'm really your parole officer.\n[16:05 --> 16:11] Supposedly, allegedly. According to you in the state, but I don't know if I believe in the state.\n[16:11 --> 16:18] I mean, who else would make me a parole officer? Good question. That's a question for the state.\n[16:18 --> 16:22] Do you don't believe in the state, I thought? Exactly. You see my conundrum.\n[16:22 --> 16:26] Okay, well look, we're also in the middle of a hype train, so...\n[16:26 --> 16:32] Hyper-R-R-Roonios! Oh my God, stop. What are you doing?\n[16:32 --> 16:36] Hype! Hypetonic! What do you guys say for hype?\n[16:36 --> 16:41] None of what you just said. Just fucking don't mention it. Jesus.\n[16:41 --> 16:46] Play it fucking cool, man. If anything, case is overdue. Look at all this shit on the screen.\n[16:46 --> 16:50] What you gotta do is when there's a hype train happening to say, I don't even care about this bullshit,\n[16:50 --> 16:55] I guess subscribe if you want. Whatever, if you're into that kind of stupid fucking thing.\n[16:55 --> 16:59] And then people will sub like crazy. That sounds like you're just gonna discourage people.\n[16:59 --> 17:03] We don't have time for this, dude. We have to watch, I think, eight full films today.\n[17:03 --> 17:07] Three trailers. We're saying the same thing.\n[17:07 --> 17:11] I gotta get down to business, dude. We're fucking so busy today.\n[17:11 --> 17:19] And there's like, I think a thousand trailers came out, and I gotta like, at least watch 90% of those.\n[17:19 --> 17:23] Probably. Let's see what we even have to deal with.\n[17:23 --> 17:28] It actually is Trailer Thursdays. That's crazy.\n[17:28 --> 17:35] I mean, sometimes this segment's requested on Thursdays. Is that that crazy? It's fucking crazy, dude. That never happens.\n[17:35 --> 17:39] Well, case actually doesn't stream on Thursdays usually, so it is kind of crazy.\n[17:39 --> 17:42] Okay, in that specific context, it's a little crazy, I guess.\n[17:42 --> 17:51] Elden Ring Night Rain Bring Me To Life? Like with the song Bring Me, Bring Me, oh my god, they did it.\n[17:51 --> 17:54] They got this song for an Elden Ring Trailer?\n[17:54 --> 17:58] I'm assuming you want to see this. The Wake Me Up song?\n[17:58 --> 18:03] Wake me up. I think it's Bring Me To Life. No, it's Wake Me Up.\n[18:03 --> 18:13] Let's not argue about this. It's killing, it literally killed the Hyper Roonies and the Hyptasms, and now nobody's hypodonic.\n[18:13 --> 18:17] This is just, why are you doing this today? Why are you talking like this? I'm just trying to make it fun.\n[18:17 --> 18:20] Just play the fucking Elden Ring Trailer.\n[18:20 --> 18:36] With respect, this is beautiful.\n[18:36 --> 18:40] He's got picked up by a screeching awk.\n[18:40 --> 18:43] Hello, PB7s.\n[18:43 --> 19:50] I wasn't into this, but now I am. There's a goofy version? I don't even know what this game is, but if this is the soundtrack I'm in, that was fucking beautiful.\n[19:50 --> 19:56] That... can we make that the official theme song of our stream?\n[19:56 --> 19:59] Can we play Evanescence copyrighted constantly?\n[19:59 --> 20:11] How can you see into my eyes like all you know?\n[20:11 --> 20:20] Now into my core where I become so numb.\n[20:20 --> 20:23] We cloud us all.\n[20:32 --> 20:37] Until you find it there and leave.\n[20:37 --> 20:42] Yeah, back home.\n[20:42 --> 20:47] Wake me up. Wake me up inside. Wake me up inside. Wake me up inside.\n[20:47 --> 20:52] The mix is about as good as the mix's case makes on this stream. I will say that.\n[20:52 --> 20:57] Oh yeah, ratings. That's technically a button I can hit.\n[20:57 --> 21:00] You can indeed rate it from 1 to 5.\n[21:00 --> 21:05] And only that. There's no... no decimals here. No decimals allowed.\n[21:05 --> 21:10] It's 1 to 5 stars. You're so upset. I'm just explaining.\n[21:10 --> 21:14] I haven't been told I have a little bit of an angry pedantic voice when I try to explain things.\n[21:14 --> 21:20] But I'm just trying to explain something. Okay. You're getting upset.\n[21:20 --> 21:24] No, I'm actually not. I thought I just clarified. Oh my god. Alright.\n[21:24 --> 21:30] Smoke? Good fortune.\n[21:30 --> 21:40] Keanu Reeves, Seth Rogen, Aziz Ansari. It was 3. 3 stars.\n[21:40 --> 21:47] It didn't show off the game super well, but it did show off, in a sense, pretty well.\n[21:47 --> 21:50] 3 seems fair. That's always fair.\n[21:50 --> 21:56] By the power of star ratings in our audience, it's always the most accurate possible score.\n[21:56 --> 22:01] One Piece is returning, apparently.\n[22:01 --> 22:08] I know I famously said, famously. Everyone remembers this in the world, probably.\n[22:08 --> 22:12] That I said One Piece was going to suck ass.\n[22:12 --> 22:18] And I'll bring it up to hold myself accountable, because the live action One Piece was honestly pretty good.\n[22:18 --> 22:21] Which is notably better than sucking huge ass.\n[22:21 --> 22:26] And kind of a huge achievement, because it's semi-impossible to adapt.\n[22:26 --> 22:31] It should get more impossible as they go, so they are playing on hard mode.\n[22:31 --> 22:37] Will this suck ass? I'm hoping not. I'm hoping it's kind of good again. That's my hope.\n[22:37 --> 22:44] This is not an official trailer. It's an announcement that's special, like a trailer.\n[22:44 --> 22:52] A special announcement trailer. We're just going to watch it and find out.\n[22:52 --> 23:15] Next up, the Grand Line!\n[23:15 --> 23:22] Luffy, what are you doing here?\n[23:22 --> 23:29] Let me! I had an idea. I realized that every great pirate crew needs some good, solid bonding time.\n[23:29 --> 23:32] So we're having a slumber party!\n[23:32 --> 23:35] No, no, no, no, no. We're not having a slumber party.\n[23:35 --> 23:39] It's snacks. Oh, it's like a little thing, yeah.\n[23:39 --> 23:41] And I fixed the snail projector, which...\n[23:41 --> 23:42] What the fuck?\n[23:42 --> 23:44] It's kind of a disturbing process.\n[23:44 --> 23:46] Zorro! You made it!\n[23:46 --> 23:48] They said there was going to be booze.\n[23:48 --> 23:52] So, question. Do you sleep with those fools?\n[23:52 --> 23:54] Maybe.\n[23:54 --> 23:58] Okay, I guess we are having a slumber party.\n[23:58 --> 23:59] Showtime!\n[23:59 --> 24:05] I know they had popcorn in one piece, but I guess they did.\n[24:05 --> 24:06] That's the popcorn!\n[24:06 --> 24:11] Okay, so what are we watching?\n[24:11 --> 24:13] Do you want to do the honors?\n[24:13 --> 24:34] Oh, that's the whole announcement.\n[24:34 --> 24:36] What's to dumb?\n[24:36 --> 24:39] Wait, is what sea at Netflix...\n[24:39 --> 24:40] Is that enough?\n[24:40 --> 24:41] To dumb?\n[24:41 --> 24:47] What is Netflix to dumb?\n[24:47 --> 24:50] The noise that Netflix makes when you open it up?\n[24:50 --> 24:56] That was an announcement of an announcement.\n[24:56 --> 24:58] Oh, is this a thing they've done?\n[24:58 --> 25:01] I guess it's like their fan fest.\n[25:01 --> 25:03] It's called to dumb.\n[25:03 --> 25:05] Because that's the noise.\n[25:05 --> 25:09] I'm as surprised as you are that this is what their fan fest is called.\n[25:09 --> 25:14] I didn't know this.\n[25:14 --> 25:18] I don't know if I like that.\n[25:18 --> 25:20] Too dumb to spell correctly.\n[25:20 --> 25:22] How do you spell to dumb correctly?\n[25:22 --> 25:24] Too dumb?\n[25:24 --> 25:27] Look, we're in a hurry. We don't have a lot of time.\n[25:27 --> 25:29] Yeah, I forgot.\n[25:29 --> 25:32] Look, I do want to talk about the to dumb Netflix event\n[25:32 --> 25:36] and my feelings on its title for 20 minutes at least.\n[25:36 --> 25:40] But, as our time is limited today,\n[25:40 --> 25:44] I guess I'll keep scrolling until I find\n[25:44 --> 25:47] the perfect trailer.\n[25:47 --> 25:50] Because playing for Netflix is to dumb.\n[25:50 --> 25:54] Correct, dude.\n[25:54 --> 25:58] That's why I pirate the entire streaming service, Netflix.\n[25:58 --> 25:59] In what sense?\n[25:59 --> 26:01] Well, my dad pays for it.\n[26:01 --> 26:05] And I live with my dad and my mom.\n[26:05 --> 26:08] And they kind of split finances, so in a way they both pay for it.\n[26:08 --> 26:14] Zero stars for that announcement of an announcement?\n[26:14 --> 26:15] No, but it was kind of cute.\n[26:15 --> 26:17] And then at the end, there's a cow or something showing up.\n[26:17 --> 26:20] It's obviously chopper there, teasing chopper.\n[26:20 --> 26:22] Could be a cow. You can't prove that it's chopper.\n[26:22 --> 26:24] Uncle Phil 2K.\n[26:24 --> 26:26] Thank you so much for the hundred bits.\n[26:26 --> 26:28] Excuse me?\n[26:28 --> 26:30] Okay.\n[26:30 --> 26:32] Um...\n[26:32 --> 26:35] House of Kong? Did we already watch that?\n[26:35 --> 26:38] Maybe we already watched that.\n[26:38 --> 26:41] Titan, the Ocean Gate disaster.\n[26:41 --> 26:45] I've been waiting to watch this and go.\n[26:45 --> 26:47] Oh, what?\n[26:47 --> 26:49] Man.\n[26:49 --> 26:50] So sad.\n[26:50 --> 26:53] But also, whoa.\n[26:53 --> 26:56] That's what I'm going to go through when this movie comes up.\n[26:56 --> 27:01] All right. Well, there, I mean, it was the inevitable exploitation of exploitation.\n[27:01 --> 27:04] Let's see...\n[27:04 --> 27:06] The trailer for it.\n[27:06 --> 27:14] There was no way of knowing when the title was going to fail.\n[27:14 --> 27:18] But it was a mathematical certainty that it would fail.\n[27:21 --> 27:26] Stockton saw an opportunity to restart tourist visits to Titanic.\n[27:26 --> 27:30] Stockton fully believed in what he was doing and that it would work.\n[27:30 --> 27:32] He wanted fame.\n[27:32 --> 27:35] To fuel his ego, fame.\n[27:35 --> 27:37] I have no desire to die.\n[27:37 --> 27:42] I understand this kind of risk.\n[27:42 --> 27:45] I thought Stockton was the borderline psychopath.\n[27:45 --> 27:48] How do you manage a person like that who owns the company?\n[27:49 --> 27:52] This is one of the safest things I will ever do.\n[27:52 --> 27:53] Nobody spoke up.\n[27:53 --> 27:55] It would ruin somebody's life.\n[27:55 --> 27:58] Stockton said Bonnie is going to be our next lead pilot.\n[27:58 --> 28:01] Are you nuts? I'm an accountant.\n[28:02 --> 28:07] So what you got promoted?\n[28:07 --> 28:09] No one's dying under my watch.\n[28:09 --> 28:25] Period.\n[28:25 --> 28:29] You can now rate their deaths.\n[28:29 --> 28:31] No, you're rating the trailer, Chad.\n[28:31 --> 28:34] Don't worry, you're not rating the deaths of those on board.\n[28:34 --> 28:38] But they kind of are.\n[28:38 --> 28:40] No, it's a trailer.\n[28:40 --> 28:42] It's an event that happened and was covered.\n[28:42 --> 28:44] It's fair to make a documentary about it.\n[28:44 --> 28:48] I'm glad you're enjoying yourself.\n[28:48 --> 28:51] While the whole Titanic died.\n[28:51 --> 28:54] No, they were going to see the Titanic, young blood.\n[28:54 --> 28:57] You gotta understand the world slightly better.\n[28:57 --> 29:01] So that the things you say aren't so painfully stupid.\n[29:01 --> 29:08] That's a 2.63.\n[29:08 --> 29:11] I would have given their deaths as a zero because I think deaths are bad.\n[29:11 --> 29:15] Let's not end on that note.\n[29:15 --> 29:17] Because you're making it weird.\n[29:17 --> 29:19] Let's watch K-pop Demon Hunters.\n[29:19 --> 29:21] I don't know what that is.\n[29:21 --> 29:23] I don't know why that is.\n[29:23 --> 29:25] But the title makes me want to click on it.\n[29:25 --> 29:29] I'll watch the girls from Blackpink hunt demons.\n[29:29 --> 29:31] I don't know if it's them doing it.\n[29:31 --> 29:35] But that's the K-pop band I have reference for.\n[29:35 --> 29:38] Well anyway, they're Demon Hunters and they're K-pop. Let's see.\n[29:39 --> 29:44] It's time.\n[29:44 --> 29:49] The world will know you as pop stars.\n[29:49 --> 29:51] Well, they lost some of the frames again.\n[29:51 --> 29:53] It keeps happening in these movies.\n[29:53 --> 29:56] They keep forgetting to put in about every other frame.\n[29:56 --> 30:02] You will be hunters.\n[30:02 --> 30:05] This is the man's bathhouse. Get out of here.\n[30:09 --> 30:13] They're stealing the souls of our fans?\n[30:13 --> 30:17] Let's send those disgusting demons back to the depths where they belong.\n[30:17 --> 30:21] Yeah!\n[30:21 --> 30:37] Get that already.\n[30:37 --> 30:39] Love action would have been more fun.\n[30:39 --> 30:41] I can destroy the hunters.\n[30:41 --> 30:42] For good.\n[30:42 --> 30:44] Oh shit, K-pop hot boys?\n[30:44 --> 30:46] Oh those are hot boys.\n[30:46 --> 30:48] Oh you knew it.\n[30:48 --> 31:00] I love a good rowdy rough boys antagonist.\n[31:00 --> 31:03] Demon boy band? They're coming after the fans.\n[31:06 --> 31:08] The Sasha boys!\n[31:08 --> 31:10] Let's go get these guys.\n[31:10 --> 31:17] People are just going to let you steal our fans.\n[31:17 --> 31:20] You're going to have to fight us for that.\n[31:20 --> 31:22] Yeah I think maybe Kendall made this.\n[31:22 --> 31:27] I think she's been moonlighting as a studio executive.\n[31:27 --> 31:37] Yeah this plane's trashed.\n[31:37 --> 31:44] Everything is upstate.\n[31:44 --> 31:46] Oh no!\n[31:46 --> 31:48] Gina's boyfriend is in this.\n[31:48 --> 31:50] The hero Josh.\n[31:50 --> 31:57] One of the ultimate cool dudes for real.\n[31:57 --> 31:58] Oh they're small.\n[31:58 --> 32:06] Oh it's only on Netflix.\n[32:07 --> 32:09] They don't want to put it in theaters.\n[32:09 --> 32:11] It's only on Netflix.\n[32:11 --> 32:13] What if I want to go to a theater?\n[32:13 --> 32:14] Do you? No.\n[32:14 --> 32:16] But maybe I would have.\n[32:16 --> 32:19] It's just once.\n[32:19 --> 32:22] I think the metrics would indicate that you don't youngblood.\n[32:22 --> 32:24] Tadum! Is that going to be at the Tadum?\n[32:24 --> 32:26] The Tadum Fest?\n[32:26 --> 32:28] Probably.\n[32:28 --> 32:29] Tadum!\n[32:29 --> 32:31] It's got to be better than the Electric State right?\n[32:31 --> 32:35] They set the bar nice and low for themselves with the most expensive movie they've ever made.\n[32:35 --> 32:37] They really did. That was smart.\n[32:37 --> 32:41] So once you make your biggest movie ever and it's awful in every way.\n[32:41 --> 32:45] Then when you make better movies for cheaper you look like a hero.\n[32:45 --> 32:49] Makes as much sense as anything else about making that movie.\n[32:49 --> 32:52] You like your CGI with five frames?\n[32:52 --> 32:56] We've unfortunately lost the technology for 24 frames per second in animation.\n[32:56 --> 33:00] Well I don't think most animation is 24. I think it's more like 15 right?\n[33:00 --> 33:01] Isn't that standard?\n[33:01 --> 33:04] What's the standard animation frame rate?\n[33:04 --> 33:10] Oh it's 24 frames per second.\n[33:10 --> 33:15] According to...wait that's AI.\n[33:15 --> 33:19] Is 12 FPS an anime...12 FPS is a good frame rate for animation.\n[33:20 --> 33:23] Especially for traditional stop motion techniques.\n[33:23 --> 33:26] I don't know.\n[33:26 --> 33:28] I'm guessing that's less than 12?\n[33:28 --> 33:30] What's up MSG?\n[33:30 --> 33:32] What's up Metlid Dell?\n[33:32 --> 33:34] We gotta go. I'm getting the red light.\n[33:34 --> 33:39] There isn't...do you mean the exit light? That's always on.\n[33:39 --> 33:40] Oh I thought that was my red light.\n[33:40 --> 33:43] But it's on the whole time we're streaming.\n[33:43 --> 33:46] I just thought I was always being told to wrap it up the whole time.\n[33:46 --> 33:49] Oh so now that you know that you're not.\n[33:49 --> 33:51] You could take your time.\n[33:51 --> 33:53] No well we're busy today so we can't.\n[33:53 --> 33:55] We gotta learn how to with some guy who's not Jeb.\n[33:55 --> 33:57] Cause I don't know who Jeb is.\n[33:57 --> 33:59] I've never met him.\n[33:59 --> 34:01] But apparently he's dead or something.\n[34:01 --> 34:03] So I don't know how it works.\n[34:03 --> 34:06] But we send you down to whoever that is now.\n[34:06 --> 34:07] Bye bye.\n[34:07 --> 34:08] Do you know what it is?\n[34:08 --> 34:10] Offer it and forget.\n[34:10 --> 34:56] Whoa.\n[34:56 --> 34:58] Oh it's this.\n[34:58 --> 35:00] It's this little guy again.\n[35:00 --> 35:02] Hello little guy.\n[35:03 --> 35:05] Um...\n[35:05 --> 35:07] Do you know where my son is?\n[35:07 --> 35:09] No.\n[35:09 --> 35:11] Um...\n[35:11 --> 35:14] Jeb should be like Captain Murphy from C-Lab.\n[35:14 --> 35:17] We hear all about him running all over the globe.\n[35:17 --> 35:19] Doing stuff but he never comes back.\n[35:19 --> 35:21] I do wonder where he is.\n[35:21 --> 35:25] Cause I would love to not be in the wood.\n[35:25 --> 35:27] Do you know anything about getting out of it?\n[35:27 --> 35:29] I don't get any of it.\n[35:29 --> 35:31] I don't get what you're doing.\n[35:31 --> 35:36] Nope.\n[35:36 --> 35:38] RIP Uncle Harry.\n[35:38 --> 35:40] Am I Uncle Harry?\n[35:40 --> 35:41] I don't know.\n[35:41 --> 35:43] But look we only have 10 minutes left.\n[35:43 --> 35:51] Are you gonna watch a how-to?\n[35:51 --> 35:53] It's the only thing you have to do.\n[35:53 --> 35:58] I got a haircut.\n[35:58 --> 36:00] Is that okay?\n[36:00 --> 36:01] When?\n[36:01 --> 36:03] Two weeks ago?\n[36:03 --> 36:08] It's been a while though.\n[36:08 --> 36:11] That's fine.\n[36:11 --> 36:12] Let's watch a how-to.\n[36:12 --> 36:13] Oh you are gonna do it.\n[36:13 --> 36:14] I won't.\n[36:14 --> 36:15] No it's fine.\n[36:15 --> 36:23] Do that.\n[36:23 --> 36:25] How to flex your muscles?\n[36:25 --> 36:28] I don't like to do that.\n[36:28 --> 36:30] So I won't be doing this.\n[36:30 --> 36:32] But...\n[36:32 --> 36:35] If you'd like to learn how, let's see.\n[36:35 --> 36:42] Oh it's just a person.\n[36:42 --> 36:45] Tell mother fuckers.\n[36:45 --> 36:47] I'm gonna be showing y'all\n[36:47 --> 36:49] how to fuck y'all muscles.\n[36:49 --> 36:50] Oh.\n[36:50 --> 36:52] You gotta get a real strong\n[36:52 --> 36:54] and big\n[36:54 --> 37:00] lifting weights\n[37:00 --> 37:02] like this.\n[37:02 --> 37:15] Get them big deadies.\n[37:15 --> 37:17] Like that.\n[37:17 --> 37:19] You gotta turn.\n[37:19 --> 37:20] You know.\n[37:20 --> 37:22] You gonna turn into some monsters.\n[37:22 --> 37:24] We gonna be some monsters.\n[37:24 --> 37:26] After you get done with my video.\n[37:26 --> 37:27] You gonna be a monster.\n[37:27 --> 37:28] Okay.\n[37:28 --> 37:29] Like me.\n[37:29 --> 37:31] Get the flex in your abs.\n[37:31 --> 37:32] You know.\n[37:32 --> 37:34] Get the biceps.\n[37:34 --> 37:35] You know.\n[37:35 --> 37:36] The...\n[37:36 --> 37:37] Uh oh.\n[37:37 --> 37:38] You know what I'm saying.\n[37:38 --> 37:40] You can get the calf muscles in it.\n[37:40 --> 37:41] You know.\n[37:41 --> 37:42] Yeah.\n[37:42 --> 37:44] Hard as a rock.\n[37:44 --> 37:45] You know what I'm saying.\n[37:45 --> 37:46] Yeah.\n[37:46 --> 37:48] Get the back muscles.\n[37:48 --> 37:50] Like this.\n[37:50 --> 37:51] Yeah.\n[37:51 --> 37:53] We gonna be some monsters.\n[37:53 --> 37:55] The king is back.\n[37:55 --> 37:56] Niggas.\n[37:56 --> 37:57] Monsters.\n[37:57 --> 38:12] You in pretty good shape.\n[38:12 --> 38:17] I didn't like it.\n[38:17 --> 38:19] There's too much body.\n[38:19 --> 38:20] Yeah.\n[38:20 --> 38:21] What?\n[38:21 --> 38:23] He was showing off the body for sure.\n[38:23 --> 38:24] Whoa.\n[38:24 --> 38:25] Sorry.\n[38:25 --> 38:27] My spectralness is fluctuating today.\n[38:27 --> 38:28] Ah.\n[38:28 --> 38:34] Is this Redneck magic mic?\n[38:34 --> 38:37] Did he know magic?\n[38:37 --> 38:38] Is he gonna appear?\n[38:38 --> 38:39] What here?\n[38:39 --> 38:40] I don't know.\n[38:40 --> 38:41] Really?\n[38:41 --> 38:43] I'm assuming probably not.\n[38:43 --> 38:50] Free crime no purchase necessary please take him.\n[38:50 --> 38:54] Also the free jab was said earlier.\n[38:54 --> 38:55] Can you do that?\n[38:55 --> 38:56] Free my...\n[38:56 --> 39:00] I want my son to come back and explain what the hell is going on.\n[39:00 --> 39:03] That was how to be a monster.\n[39:03 --> 39:04] Wait.\n[39:04 --> 39:05] That was how to flex your muscles.\n[39:05 --> 39:06] But also to be a monster.\n[39:06 --> 39:09] It was a combination of things to learn.\n[39:09 --> 39:14] This is Kendall.\n[39:14 --> 39:19] I'm not sure what the how to is here but cause it's case his girlfriend.\n[39:19 --> 39:22] I think it's polite if I watch it.\n[39:22 --> 39:24] I guess.\n[39:24 --> 39:26] I just want to be polite.\n[39:26 --> 39:27] Okay.\n[39:27 --> 39:28] Left leg straight.\n[39:28 --> 39:30] Right leg bend it.\n[39:30 --> 39:34] Knees tuck point.\n[39:34 --> 39:35] Okay.\n[39:35 --> 39:36] Left hand on hip.\n[39:36 --> 39:38] Are you guys doing this or what?\n[39:38 --> 39:39] Left hand on hip.\n[39:39 --> 39:40] Right hand.\n[39:40 --> 39:44] And now your minimus.\n[39:44 --> 39:46] This is minimus.\n[39:46 --> 39:47] Okay.\n[39:47 --> 39:49] That's fucking minimus.\n[39:49 --> 39:50] That's fucking minimus.\n[39:50 --> 39:51] Okay.\n[39:51 --> 39:52] Don't...\n[39:52 --> 39:58] Is she about to yell at me at the end?\n[39:58 --> 39:59] Yes.\n[39:59 --> 40:00] Left hand hip.\n[40:00 --> 40:01] Right hand...\n[40:01 --> 40:02] A minimus.\n[40:02 --> 40:11] I don't feel like I was mini at all.\n[40:11 --> 40:12] That's the post she...\n[40:12 --> 40:13] I wasn't her.\n[40:13 --> 40:14] I failed.\n[40:14 --> 40:19] I think you set your expectations a little too high maybe.\n[40:19 --> 40:20] How to...\n[40:20 --> 40:22] How to do effing minimus.\n[40:22 --> 40:24] That was that.\n[40:24 --> 40:28] I agree.\n[40:28 --> 40:30] It wasn't her fault.\n[40:30 --> 40:31] It was a good explanation.\n[40:31 --> 40:33] I just didn't pull it off.\n[40:33 --> 40:37] How to dance like Mickey Mouse.\n[40:37 --> 40:38] What?\n[40:38 --> 40:41] I have to try that too?\n[40:41 --> 40:43] Okay.\n[40:43 --> 40:44] Oh!\n[40:44 --> 40:49] Stand the fuck up right now.\n[40:49 --> 40:51] Stand up from your desk.\n[40:51 --> 40:52] I did!\n[40:52 --> 40:53] I'm short.\n[40:53 --> 40:55] This is as high as I go.\n[40:55 --> 40:56] Okay.\n[40:56 --> 40:58] Is everyone standing?\n[40:58 --> 40:59] Yes.\n[40:59 --> 41:00] Okay guys.\n[41:00 --> 41:01] Stand.\n[41:01 --> 41:05] Legs shoulder width apart.\n[41:05 --> 41:06] Okay.\n[41:06 --> 41:07] My foot forward.\n[41:07 --> 41:08] Okay.\n[41:08 --> 41:09] Are you fucking doing it?\n[41:09 --> 41:10] Right foot forward.\n[41:10 --> 41:11] Okay.\n[41:11 --> 41:15] Left hand kind of behind you.\n[41:15 --> 41:17] Make some fists.\n[41:17 --> 41:18] Make some fists.\n[41:18 --> 41:19] I spitted two times.\n[41:19 --> 41:22] Left hand fist kind of behind you.\n[41:22 --> 41:23] Like this.\n[41:23 --> 41:26] Right hand fist.\n[41:26 --> 41:28] Pirate yourself.\n[41:28 --> 41:30] And this is a Mickey Mouse pose.\n[41:30 --> 41:31] You go for this.\n[41:31 --> 41:32] And you go, hiya!\n[41:32 --> 41:33] Mickey Mouse.\n[41:33 --> 41:34] Mickey Mouse.\n[41:34 --> 41:35] That's not a dance.\n[41:35 --> 41:36] That's not a dance.\n[41:36 --> 41:40] I don't think she said it was the title was just how to dance.\n[41:40 --> 41:44] I felt aggressive.\n[41:44 --> 41:45] Mickey Mouse.\n[41:45 --> 41:46] I'm sorry.\n[41:46 --> 41:47] I'm sorry.\n[41:47 --> 41:48] I'm sorry.\n[41:48 --> 41:49] I'm sorry.\n[41:49 --> 41:52] I'm sorry.\n[41:52 --> 41:53] I'm sorry.\n[41:53 --> 41:54] I'm sorry.\n[41:54 --> 41:55] I felt aggressive.\n[41:55 --> 41:58] Mickey wouldn't be aggressive like I just was.\n[41:58 --> 42:00] That was pretty mild.\n[42:00 --> 42:02] I feel so guilty.\n[42:02 --> 42:03] I'm sorry, Mickey.\n[42:03 --> 42:05] I'm not you.\n[42:05 --> 42:07] Oh, jeez.\n[42:07 --> 42:11] I never thought I'd say this, but I miss my son.\n[42:11 --> 42:12] Am I your son?\n[42:12 --> 42:14] No.\n[42:14 --> 42:18] No.\n[42:18 --> 42:20] Correct.\n[42:20 --> 42:22] Why would I fail that?\n[42:22 --> 42:23] I don't know.\n[42:23 --> 42:26] That's all the time we have. That's the end of the stream.\n[42:26 --> 42:31] What? This is it? That's all we had time for today!\n[42:31 --> 42:37] Oh man.\n[42:37 --> 42:40] And this is the stream where Kay's gained a follower.\n[42:40 --> 42:42] He could lose followers too.\n[42:42 --> 42:45] And he might have lost some.\n[42:45 --> 42:47] So he could still be in the negative.\n[42:47 --> 42:50] Well okay.\n[42:50 --> 42:53] Yes, that's it. That's it.\n[42:53 --> 42:55] I did my best.\n[42:55 --> 43:00] Let's raid Ricky Peacock.\n[43:00 --> 43:04] Or... oh wait, no. Christine is on.\n[43:04 --> 43:07] Gameplay, I can't even get a message out in the chat.\n[43:07 --> 43:10] But anyway, Ricky's also... what? Round?\n[43:10 --> 43:15] Let's send you towards...\n[43:15 --> 43:17] Talates!\n[43:17 --> 43:22] But also, there's a Patreon stream that Kay's just said\n[43:22 --> 43:25] give him the money and join the Patreon.\n[43:25 --> 43:27] He said, you owe me.\n[43:27 --> 43:29] You owe me! Join it!\n[43:29 --> 43:32] That's... I don't think he said that. I saw what he asked you to read.\n[43:32 --> 43:37] Oh, did I add that?\n[43:37 --> 43:38] Yes.\n[43:38 --> 43:41] Thank you, I tried my best.\n[43:41 --> 43:44] Okay, that's... have fun with Christine.\n[43:44 --> 43:46] I'm already late.\n[43:46 --> 43:49] It's a different thing. I'm not invited to the Patreon.\n[43:49 --> 43:51] I mean, you could probably go if you want.\n[43:51 --> 43:53] It's too far away.\n[43:53 --> 43:54] What state are we in?\n[43:54 --> 43:56] You should know that!\n[43:56 --> 43:58] Yes?\n[43:58 --> 44:00] Kendall needs help.\n[44:00 --> 44:02] Hang out with Chat then.\n[44:02 --> 44:04] No, no, no, I need a grammar thing.\n[44:04 --> 44:05] Who's this?\n[44:05 --> 44:06] I'm Jake.\n[44:06 --> 44:08] Maybe Jake can help me.\n[44:08 --> 44:13] I'm trying to say that I'm honored to be at the same event as a person,\n[44:13 --> 44:16] but past tense. How do I write that?\n[44:16 --> 44:19] I'm honored to have been at the same event.\n[44:19 --> 44:21] It was an honor to be at the same event as Blank.\n[44:21 --> 44:23] It wasn't. Thank you.\n[44:23 --> 44:25] Oh, that was stressful.\n[44:25 --> 44:29] I did it though. I pulled it off.\n[44:29 --> 44:33] Oh!\n[44:33 --> 44:36] Okay. Can someone play the music?\n[44:36 --> 44:39] That's new.\n[44:39 --> 44:42] Okay, say hi to Christine for everybody.\n[44:42 --> 44:44] I should have played this the whole time.\n[44:44 --> 44:45] It's pretty loud.\n[44:45 --> 44:50] Goodbye, everybody. Bye!\n[44:50 --> 44:53] You have to hit... you have to end the stream.\n[44:53 --> 45:17] End the stream!"
+}
