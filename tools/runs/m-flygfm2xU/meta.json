@@ -1,0 +1,19 @@
+{
+  "vod_id": "m-flygfm2xU",
+  "title": "Join the Wall",
+  "url": "https://www.youtube.com/watch?v=m-flygfm2xU",
+  "duration_seconds": 11609,
+  "duration": "3:13:29",
+  "timestamp": 1758412800,
+  "aired_at": "2025-09-21T00:00:00+00:00",
+  "date": "2025-09-21",
+  "ingested_at": "2026-09-15T18:48:27.132987+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "m-flygfm2xU",
+  "yt_url": "https://www.youtube.com/watch?v=m-flygfm2xU",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-09-21"
+}
