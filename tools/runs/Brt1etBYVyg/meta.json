@@ -1,0 +1,19 @@
+{
+  "vod_id": "Brt1etBYVyg",
+  "title": "More Public Murder, it's Wednesday News",
+  "url": "https://www.youtube.com/watch?v=Brt1etBYVyg",
+  "duration_seconds": 2375,
+  "duration": "39:35",
+  "timestamp": 1757462400,
+  "aired_at": "2025-09-10T00:00:00+00:00",
+  "date": "2025-09-10",
+  "ingested_at": "2026-09-15T17:17:49.977083+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "Brt1etBYVyg",
+  "yt_url": "https://www.youtube.com/watch?v=Brt1etBYVyg",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-09-10"
+}
