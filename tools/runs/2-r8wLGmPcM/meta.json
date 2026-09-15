@@ -1,0 +1,19 @@
+{
+  "vod_id": "2-r8wLGmPcM",
+  "title": "Friday News Blast",
+  "url": "https://www.youtube.com/watch?v=2-r8wLGmPcM",
+  "duration_seconds": 9259,
+  "duration": "2:34:19",
+  "timestamp": 1754092800,
+  "aired_at": "2025-08-02T00:00:00+00:00",
+  "date": "2025-08-02",
+  "ingested_at": "2026-09-15T12:01:50.356431+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "2-r8wLGmPcM",
+  "yt_url": "https://www.youtube.com/watch?v=2-r8wLGmPcM",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-08-02"
+}
