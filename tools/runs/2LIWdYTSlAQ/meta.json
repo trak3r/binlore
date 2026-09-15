@@ -1,0 +1,19 @@
+{
+  "vod_id": "2LIWdYTSlAQ",
+  "title": "Habeus Corpsing the NEWS",
+  "url": "https://www.youtube.com/watch?v=2LIWdYTSlAQ",
+  "duration_seconds": 10921,
+  "duration": "3:02:01",
+  "timestamp": 1747785600,
+  "aired_at": "2025-05-21T00:00:00+00:00",
+  "date": "2025-05-21",
+  "ingested_at": "2026-09-15T01:10:39.455352+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "2LIWdYTSlAQ",
+  "yt_url": "https://www.youtube.com/watch?v=2LIWdYTSlAQ",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-05-21"
+}
