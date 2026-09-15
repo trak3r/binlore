@@ -1,0 +1,2407 @@
+[00:08 --> 00:12] I'm Pepito, I'm the dog that produces the show and now it is live.
+[00:12 --> 00:14] And I'm a dog.
+[00:14 --> 00:51] My penis is back!
+[00:51 --> 08:04] Five and ten, nine, eight, seven, six, five, four, three, two, one.
+[08:04 --> 08:36] Sometimes, you know?
+[08:36 --> 08:38] The sad music plays.
+[08:38 --> 08:42] And then suddenly you have to apologize.
+[08:42 --> 08:43] There we go.
+[08:43 --> 08:47] Guys, Crumb is back to life. That's the big apology.
+[08:47 --> 08:49] Who didn't die is more like it.
+[08:49 --> 08:54] Oh, I did a haircut so bad!
+[08:54 --> 08:57] Did any of the bin team get raptured?
+[08:57 --> 09:02] I guess Crumb got sucked back up from hell.
+[09:02 --> 09:05] Yeah, look at this cowlet go.
+[09:05 --> 09:08] We have the neck beard going, oh, I'm rocking it today.
+[09:08 --> 09:12] How many subs to kill Crumb again?
+[09:12 --> 09:15] Six.
+[09:15 --> 09:19] It's too much work to kill him.
+[09:19 --> 09:23] No amount of subs seems to be able to keep him dead.
+[09:23 --> 09:25] You thought we were in hell?
+[09:25 --> 09:28] I guess they got out.
+[09:28 --> 09:34] Sunday, according to Munch, Peter was vanquished, whatever that means.
+[09:34 --> 09:38] And Crumb is back.
+[09:38 --> 09:39] So that's the big news.
+[09:39 --> 09:43] It's the big stream news of the day.
+[09:43 --> 09:46] These very real people are back in our lives or out of them.
+[09:46 --> 09:47] Maybe Peter's gone.
+[09:47 --> 09:50] Maybe that's the trade we had to make.
+[09:50 --> 09:52] To see ourselves to Valhalla.
+[09:52 --> 09:54] Just like certain people.
+[09:54 --> 09:57] Such a popular term lately.
+[09:57 --> 09:59] Are Peter and Grand-Man dead?
+[09:59 --> 10:01] I don't know.
+[10:01 --> 10:03] They blew up.
+[10:03 --> 10:05] According to Munch, they blew up.
+[10:05 --> 10:07] Big time exploded.
+[10:07 --> 10:11] There's still a hole in the wall.
+[10:11 --> 10:14] I don't know what was accomplished.
+[10:14 --> 10:16] But I know it was a lot of work.
+[10:16 --> 10:19] We might do it again at some point.
+[10:19 --> 10:21] Today though, I have to do a pretty quick stream.
+[10:21 --> 10:23] I'll be honest.
+[10:23 --> 10:25] I started really late.
+[10:25 --> 10:27] I might try to do an hour.
+[10:27 --> 10:32] But we'll be back on Friday.
+[10:32 --> 10:34] I put so much work in that stream.
+[10:34 --> 10:36] I thought I'll take a little less time to stream this week.
+[10:36 --> 10:39] To catch up with the rest of my life.
+[10:39 --> 10:42] And Dave is wandering around this too.
+[10:42 --> 10:45] Maybe we'll have Dave get his own thing.
+[10:45 --> 10:51] He's such a beautiful, stocky man.
+[10:51 --> 10:53] It was...
+[10:53 --> 10:56] If you want to see a little under the hood, guys.
+[10:56 --> 11:00] For the red tape that we had to clear.
+[11:00 --> 11:03] To make that wall thing work.
+[11:03 --> 11:09] Here, I'll open up all of the individual tasks.
+[11:09 --> 11:11] That had to be created.
+[11:11 --> 11:14] And there were still a lot of problems, to be honest.
+[11:14 --> 11:19] Because I didn't really have time to test it.
+[11:19 --> 11:23] Not that I was building an actual game exactly.
+[11:23 --> 11:26] But I realized even to simulate an RPG.
+[11:26 --> 11:31] I guess I had to build the incredibly bare bones version of a game.
+[11:31 --> 11:33] Essentially into OPS.
+[11:33 --> 11:36] From the text still didn't work.
+[11:36 --> 11:38] That's true.
+[11:38 --> 11:41] But if you want to see the dumb thing.
+[11:41 --> 11:45] In list form that we did.
+[11:45 --> 11:47] It...
+[11:47 --> 11:49] I don't want to see it at all.
+[11:49 --> 11:51] I don't even want to be here.
+[11:51 --> 11:53] Oh weird.
+[11:53 --> 11:55] That grandma was here.
+[11:55 --> 11:57] It was not a plug-in. It was all custom.
+[11:57 --> 11:59] So...
+[11:59 --> 12:01] Look.
+[12:01 --> 12:03] Transitions. Just transitions.
+[12:03 --> 12:05] The player 2 stuff.
+[12:05 --> 12:07] Player 1.
+[12:07 --> 12:09] Effects. When you open any of these up.
+[12:09 --> 12:13] Unfortunately they're all tabs of like a million different...
+[12:13 --> 12:15] Little mini sub-actions.
+[12:15 --> 12:18] Some way worse than others.
+[12:19 --> 12:21] And their level of intensity.
+[12:21 --> 12:34] This is the only time streamer bot full screen will ever get 5 stars.
+[12:34 --> 12:36] Anyway all of this is just...
+[12:36 --> 12:38] The shit.
+[12:38 --> 12:42] It's not actually that bad looking at it this way.
+[12:42 --> 12:47] But though when you open each one and realize all of them have like little individual...
+[12:47 --> 12:49] Crazy things going on.
+[12:49 --> 12:55] Every one of these is just a really long list of stuff that all had to be done manually.
+[12:55 --> 12:58] There's probably a better way.
+[12:58 --> 13:00] There was probably a better way.
+[13:00 --> 13:03] But I was committed to doing it that way.
+[13:03 --> 13:05] Once I had started.
+[13:05 --> 13:08] Because then you can customize it as much as you want.
+[13:08 --> 13:10] You get it.
+[13:10 --> 13:12] Anyway.
+[13:12 --> 13:13] Maybe we'll...
+[13:13 --> 13:16] It took enough work that we should probably do it again at some point.
+[13:16 --> 13:19] Just so I didn't literally put in like...
+[13:19 --> 13:24] Hobby style work for a...
+[13:24 --> 13:26] One 3 hour stream.
+[13:26 --> 13:28] Streamer bot is...
+[13:28 --> 13:32] For whatever streaming requires independently.
+[13:32 --> 13:34] It's the best app I've found.
+[13:34 --> 13:36] So I guess I have to give it 5 stars.
+[13:36 --> 13:39] But working with it is like a 2 star experience still for sure.
+[13:39 --> 13:41] Which is up from 1 star.
+[13:41 --> 13:44] Yeah we could do the murder mystery as an RPG probably.
+[13:44 --> 13:46] Maybe I can even make Fiona do it with me.
+[13:46 --> 13:51] I think the only limitation that I still see of this system is...
+[13:51 --> 13:53] Oh my god.
+[13:53 --> 13:55] And we'll get to thinking subs in just a second.
+[13:55 --> 14:00] Is it might still be a little confusing for any person playing it with me.
+[14:00 --> 14:02] Like the guess that we get.
+[14:02 --> 14:06] So like what exactly is even happening.
+[14:06 --> 14:08] So I might try to find a...
+[14:08 --> 14:10] That might be the next goal I have for that kind of system.
+[14:10 --> 14:13] Is just making it a little easier for...
+[14:13 --> 14:15] Whoever joins me.
+[14:15 --> 14:20] And also it might be easier if I wasn't also playing as a person too.
+[14:20 --> 14:21] Or munch wasn't.
+[14:21 --> 14:24] Sorry not to take all the credit for whatever munch is doing.
+[14:24 --> 14:26] That's what a producer is for.
+[14:26 --> 14:29] We don't have a different producer.
+[14:29 --> 14:32] Other than the one producer that we have.
+[14:32 --> 14:36] And he's been very clear that he's not willing to help.
+[14:36 --> 14:37] Yeah.
+[14:37 --> 14:40] I'm not doing that stuff.
+[14:40 --> 14:41] I was in there though.
+[14:41 --> 14:43] I revived people several times.
+[14:43 --> 14:46] But that's the limit of the amount of work I'm willing to do.
+[14:46 --> 14:50] So get wrecked.
+[14:50 --> 14:52] We did.
+[14:52 --> 14:54] Although I guess they also won.
+[14:55 --> 14:57] Okay.
+[14:57 --> 14:59] Well look we don't have much time.
+[14:59 --> 15:01] And there's a whole new segment also that I made.
+[15:01 --> 15:03] I made it well.
+[15:03 --> 15:05] I updated an old segment.
+[15:05 --> 15:08] To possibly be a little more functional.
+[15:08 --> 15:09] So hype train.
+[15:09 --> 15:13] I need you to just also spoiler alert.
+[15:13 --> 15:18] One fun thing that happened to make Sunday a little more stressful for me.
+[15:18 --> 15:21] Is my snap camera.
+[15:21 --> 15:23] Completely reset.
+[15:23 --> 15:25] My hotkeys.
+[15:25 --> 15:27] You might guess.
+[15:27 --> 15:29] That there's like.
+[15:29 --> 15:32] There were hundreds of hotkeys that are now gone.
+[15:32 --> 15:34] So that was fun.
+[15:34 --> 15:36] All the filters are still available.
+[15:36 --> 15:38] I just have to refind.
+[15:38 --> 15:40] Some people again.
+[15:40 --> 15:42] Jeb might get another facelift.
+[15:42 --> 15:45] If I'm not able to locate certain assets.
+[15:45 --> 15:48] Anyway.
+[15:48 --> 15:50] As we love to say.
+[15:51 --> 15:53] Mmm.
+[15:54 --> 15:56] Also I have no idea why it happened.
+[15:56 --> 15:58] It just happens every couple of months.
+[15:58 --> 16:00] Where is Salazar.
+[16:00 --> 16:05] Again it's just like a real commitment for me to figure out the.
+[16:05 --> 16:11] To pop the hood on snap camera and reactivate all the custom filters that got broken.
+[16:11 --> 16:15] By some update on snap cameras and to make this.
+[16:15 --> 16:18] Hack of their software even less functional.
+[16:18 --> 16:21] I don't know why Pepito was gone for so long.
+[16:21 --> 16:24] But someday maybe we'll get him back.
+[16:24 --> 16:28] It just I mean it'll probably take like more work than you'd think.
+[16:28 --> 16:32] I'll probably have to figure it out for about five or six hours of just.
+[16:32 --> 16:36] Reading so I haven't made the time to do that yet.
+[16:36 --> 16:38] But someday we might.
+[16:38 --> 16:41] Anyway I train what the what are you doing.
+[16:41 --> 16:43] Oh.
+[16:43 --> 16:46] I was not vanquished.
+[16:46 --> 16:49] I saw you guys go zooming by in hell.
+[16:49 --> 16:50] Garcy.
+[16:50 --> 16:52] Light this bitch up.
+[16:52 --> 16:54] And I was unimpressed.
+[16:54 --> 16:57] I got in and out of hell all the time.
+[16:57 --> 16:59] You guys are amateurs of this game.
+[16:59 --> 17:02] I was born in hell.
+[17:02 --> 17:04] Living in a hot piss smell.
+[17:04 --> 17:06] But the piss smells well.
+[17:06 --> 17:07] Smells well.
+[17:07 --> 17:08] Smells well in the piss.
+[17:08 --> 17:10] If you catch my giz.
+[17:10 --> 17:12] I'm a half a bris.
+[17:12 --> 17:14] I'ma drink some crisps.
+[17:14 --> 17:15] But.
+[17:15 --> 17:19] Crisps in hell is pissing pissing hell is crisps in crisps on earth is piss.
+[17:19 --> 17:21] But nobody knows this.
+[17:21 --> 17:22] What?
+[17:22 --> 17:24] I know that the crisps pissing pissing.
+[17:24 --> 17:26] Crisps in that's my wish I made on the earth piss.
+[17:26 --> 17:27] In the crisps.
+[17:27 --> 17:29] In the crisps pissing the hell piss.
+[17:29 --> 17:32] You're just saying where's the rhyme with piss.
+[17:32 --> 17:34] Nope.
+[17:34 --> 17:36] Sorry miss.
+[17:36 --> 17:38] Anyway I got some people to thank.
+[17:38 --> 17:40] Let's see you some chat man.
+[17:40 --> 17:44] Looking out for this god damn sub rolling in.
+[17:44 --> 17:45] Alright.
+[17:45 --> 17:47] We're summing me today.
+[17:47 --> 17:49] Let's thank them all.
+[17:49 --> 17:50] So I went back on my way.
+[17:50 --> 17:52] We got car kangles for 300 bits.
+[17:52 --> 17:54] That was three days ago though.
+[17:54 --> 17:56] It was in the day man.
+[17:56 --> 17:58] Let me take this real slow.
+[17:58 --> 18:01] We got an antedad in 17 minutes ago.
+[18:01 --> 18:05] With the 35 months we've been putting on the show.
+[18:05 --> 18:07] We got check.
+[18:07 --> 18:08] Once in five.
+[18:08 --> 18:12] 35 months keeping the hot train way to the live.
+[18:12 --> 18:15] We got another sub governing before that.
+[18:15 --> 18:17] We got waffles art.
+[18:17 --> 18:20] 34 months baby I'd say that's a pretty damn good start.
+[18:20 --> 18:22] We got beef rando.
+[18:22 --> 18:24] Seven minutes ago with the wee wee wee.
+[18:24 --> 18:26] You know what else is wee wee?
+[18:26 --> 18:27] This.
+[18:27 --> 18:29] Now you see okay.
+[18:29 --> 18:31] Bum sprout.
+[18:31 --> 18:32] Five subs.
+[18:32 --> 18:36] Money I was draping it on thick showing too much love.
+[18:36 --> 18:38] Currently working four minutes ago.
+[18:38 --> 18:39] The wall stream was awesome.
+[18:39 --> 18:40] Thank you.
+[18:40 --> 18:44] Didn't do anything I drank.
+[18:44 --> 18:45] Yeah I did.
+[18:45 --> 18:46] I was there.
+[18:46 --> 18:48] For like two seconds.
+[18:48 --> 18:49] Counts.
+[18:49 --> 18:50] Still counts.
+[18:50 --> 18:52] Stormburn 92.
+[18:52 --> 18:55] 35 months they've been coming through my the eyes.
+[18:55 --> 18:56] Five community subs again.
+[18:56 --> 18:58] That's just way too much love.
+[18:58 --> 18:59] Who else took the five?
+[18:59 --> 19:00] Somebody else took the five.
+[19:00 --> 19:01] I'm gonna miss it.
+[19:01 --> 19:02] Bubble sprout.
+[19:02 --> 19:03] Oh my god.
+[19:03 --> 19:04] Listen god.
+[19:04 --> 19:05] No doubt.
+[19:05 --> 19:06] Five.
+[19:06 --> 19:07] Community subs.
+[19:07 --> 19:09] Two months love.
+[19:09 --> 19:12] For now I think the hype train is fucking done.
+[19:12 --> 19:13] I'm busy today case.
+[19:13 --> 19:17] What are you doing that's more important than rapping on my stream?
+[19:17 --> 19:21] I gotta go file some divorce papers in hell.
+[19:21 --> 19:23] Make sure they're fully on the file.
+[19:23 --> 19:27] My marriage is gonna be nulled by someone returning to life.
+[19:27 --> 19:30] You were actually married to Crum & El?
+[19:30 --> 19:31] Of course.
+[19:31 --> 19:33] I'm a hot commodity down there.
+[19:33 --> 19:36] Although I'm one of the few things that doesn't have sex in hell
+[19:36 --> 19:38] because I just don't know what it is.
+[19:38 --> 19:40] And I don't think I have the parts.
+[19:40 --> 19:42] But people still love to throw up their channels all over the place.
+[19:42 --> 19:44] So I guess that counts.
+[19:44 --> 19:46] I don't really need you to get into it.
+[19:46 --> 19:50] You want me to get into a graphic detail about how sex works in hell with a train?
+[19:50 --> 19:52] No.
+[19:52 --> 19:56] You sure?
+[19:56 --> 19:58] That's crazy. See ya.
+[19:58 --> 20:02] The hype is still happening.
+[20:02 --> 20:04] The hype train left.
+[20:04 --> 20:07] That's a dereliction of duty.
+[20:07 --> 20:10] But also I usually complain about him being on for too long anyway.
+[20:10 --> 20:12] Let's just do some news.
+[20:12 --> 20:38] Tripping out in here, case.
+[20:38 --> 20:40] How am I supposed to confidence?
+[20:40 --> 20:44] Confidence? How am I supposed to focus?
+[20:44 --> 20:46] Me, Jeff Ripple.
+[20:46 --> 20:49] Clearly you can't even use words right now, Jeff.
+[20:49 --> 20:51] You're losing it, man.
+[20:51 --> 20:53] No!
+[20:53 --> 20:57] I accidentally said confidence because I have so much.
+[20:57 --> 21:00] Hype Ripple. That's right. Don't adjust your TV.
+[21:00 --> 21:02] The hype is emanating from me today.
+[21:02 --> 21:04] Want me to rhyme with piss a lot?
+[21:04 --> 21:08] No, you've had a fair amount of that for almost three years.
+[21:08 --> 21:11] Brevory Wolf.
+[21:11 --> 21:12] Great to see you.
+[21:12 --> 21:14] The resident wolf got raptured.
+[21:14 --> 21:17] But I was inside so I got stuck on the ceiling.
+[21:17 --> 21:19] And now they're back down.
+[21:19 --> 21:22] Congratulations on being one of the elect.
+[21:22 --> 21:24] But then I guess blowing it.
+[21:24 --> 21:26] Did you get raptured?
+[21:26 --> 21:27] Are you still here?
+[21:27 --> 21:28] I'm looking right at you.
+[21:28 --> 21:29] Oh, right.
+[21:29 --> 21:33] I forgot that you're looking directly at me.
+[21:33 --> 21:35] Did you get raptured?
+[21:35 --> 21:37] I'm right here, you idiot.
+[21:37 --> 21:41] You just asked me the same question.
+[21:41 --> 21:49] We have fun speaking of biblical levels of importance.
+[21:49 --> 21:52] You hear about Jimmy Kimmel's monologue?
+[21:52 --> 21:54] Is that the top story we're getting into?
+[21:54 --> 21:57] Jimmy Kimmel did a...
+[21:57 --> 22:00] He saved the country last night.
+[22:00 --> 22:02] And I'm laughing as it was so funny.
+[22:03 --> 22:08] I saw clips.
+[22:08 --> 22:11] I think the whole thing is on YouTube.
+[22:11 --> 22:14] We could watch some of it.
+[22:14 --> 22:16] I think it's like 20 minutes long.
+[22:16 --> 22:19] It already has...
+[22:19 --> 22:21] How many views does it have?
+[22:21 --> 22:24] 17 million people watch Jimmy Kimmel.
+[22:24 --> 22:26] Respond to this Trump beef.
+[22:26 --> 22:28] Classic freedom.
+[22:28 --> 22:29] I like the new beef system.
+[22:29 --> 22:31] It's freedom of speech based.
+[22:31 --> 22:34] We need a headline.
+[22:34 --> 22:40] Jimmy Kim Weld?
+[22:40 --> 22:42] Is that good case?
+[22:42 --> 22:45] Do you like this headline that I just made?
+[22:45 --> 22:47] It's one of our worst ever.
+[22:47 --> 22:49] I had to think of it on short notice.
+[22:49 --> 22:50] What do you want from me?
+[22:50 --> 22:51] Look, I could read stories about it.
+[22:51 --> 22:53] Or I could just click on this.
+[22:53 --> 22:54] Breaking news.
+[22:54 --> 22:56] We watch...
+[22:56 --> 22:58] How much of this can we watch?
+[22:58 --> 23:00] I don't know.
+[23:00 --> 23:01] I heard he cried.
+[23:01 --> 23:03] I saw clips of him crying.
+[23:03 --> 23:04] I don't know how much he cried.
+[23:04 --> 23:07] Let's see how much crying he was doing.
+[23:07 --> 23:09] The tears of freedom.
+[23:09 --> 23:13] It was on Jimmy Kimmel and autism.
+[23:13 --> 23:16] Jimmy Kimmel coming back to late night television.
+[23:16 --> 23:19] ABC chose to bring back their low rating night time hosts.
+[23:19 --> 23:25] We are in for a monologue that will be a marker in late night show history.
+[23:25 --> 23:27] It's going to be in a moment.
+[23:27 --> 23:28] Yeah, no question.
+[23:28 --> 23:29] Yeah, look at all this hype.
+[23:29 --> 23:30] American history.
+[23:30 --> 23:32] Oh, there we go.
+[23:32 --> 23:38] He will be delivering what is being dubbed the most anticipated monologue in late night in years.
+[23:38 --> 23:42] Change year.
+[23:42 --> 23:49] From Hollywood, it's Jimmy Kimmel Live.
+[23:49 --> 24:13] Report.
+[24:13 --> 24:15] He gets cheered a lot.
+[24:15 --> 24:17] Let's just watch the whole thing.
+[24:17 --> 24:19] Well, alright.
+[24:19 --> 24:26] I guess we can't get taken down if everybody's doing it.
+[24:26 --> 24:27] Eat in the audience.
+[24:27 --> 24:31] It would have made a real statement.
+[24:31 --> 24:33] That's next level what you're saying.
+[24:33 --> 24:34] Jesus.
+[24:34 --> 24:40] Too loud for our speakers to handle.
+[24:40 --> 24:46] It's 20 minutes.
+[24:46 --> 24:47] We might get bored.
+[24:47 --> 24:49] We'll see how long case can handle it.
+[24:49 --> 24:52] I was saying before I was interrupting.
+[24:52 --> 25:00] If you're just joining us, we are preempting your regularly scheduled on-core episode of Celebrity Family Feud to bring you this special report.
+[25:00 --> 25:03] I'm happy to be here tonight with you.
+[25:03 --> 25:26] Well, if Jay Leno appeared, the new Trump ambassador, Leno, you gonna poo poo this case?
+[25:26 --> 25:28] I think it's good he's back.
+[25:28 --> 25:30] I'm not sure who had a weirder 48 hours.
+[25:30 --> 25:32] Me or the CEO of Tylenol.
+[25:32 --> 25:35] It's been overwhelming.
+[25:35 --> 25:38] I've heard from a lot of people over the last six days.
+[25:38 --> 25:42] I've heard from all the people in the world over the last six days.
+[25:42 --> 25:46] Everyone I have ever met has reached out 10 or 11 times.
+[25:46 --> 25:49] Weird characters from my past are...
+[25:49 --> 25:55] The guy who fired me from my first radio job in Seattle, where we are not airing tonight, by the way.
+[25:55 --> 25:57] Sorry, Seattle.
+[25:57 --> 25:58] His name is Larry.
+[25:58 --> 26:00] In 1989, Larry tried to force me...
+[26:00 --> 26:05] Oh, yeah. In case anybody wasn't aware, Fiona Nova probably did reach out.
+[26:05 --> 26:09] He still wasn't airing in like 25% of stations or something.
+[26:09 --> 26:11] I think he wasn't airing in Washington.
+[26:11 --> 26:15] Some Sinclair broadcasting was like, no, not after what you said, Jimmy.
+[26:15 --> 26:21] You need to do a bit called jokes for donuts, where people would call in with a joke and I would give them donuts.
+[26:21 --> 26:25] I refused to do it and I made a lot of fun of Larry for suggesting it.
+[26:25 --> 26:29] Eventually, Larry fired me and I had to move back in with my parents.
+[26:29 --> 26:32] But even he learned to cheer me up.
+[26:32 --> 26:33] Thank you, Larry.
+[26:33 --> 26:35] And I want to thank everyone who checked in.
+[26:35 --> 26:38] He does seem...
+[26:38 --> 26:42] I mean, it's understandable, but he does seem pretty wavery.
+[26:42 --> 26:47] I guess this is hitting him in the soft spots.
+[26:47 --> 26:50] Which is, again, I don't know what I'm saying. That's bad.
+[26:50 --> 26:54] It's fair. He probably felt like he'd lost a lot.
+[26:54 --> 26:55] We'll see how it goes.
+[26:55 --> 27:01] Some that I do especially want to mention are my fellow late night talk show host,
+[27:01 --> 27:03] my friend Stephen Colbert.
+[27:03 --> 27:08] He's found himself in this predicament.
+[27:08 --> 27:12] My friend, John Stewart, Seth Meyers, Jimmy Fallon, John Oliver,
+[27:12 --> 27:17] Conan O'Brien, James Corden, our senior Matthew Wanda, Chelsea.
+[27:17 --> 27:18] One of them.
+[27:18 --> 27:19] Jay reached out.
+[27:19 --> 27:21] Jay did. Jay reached out.
+[27:21 --> 27:24] In other countries from Ireland and from Germany,
+[27:24 --> 27:26] the guy in Germany offered me a job.
+[27:26 --> 27:28] Can you imagine?
+[27:28 --> 27:32] This country has become so authoritarian, the Germans.
+[27:32 --> 27:35] Would he have been screwed if he didn't get his job back?
+[27:35 --> 27:37] I don't really think so.
+[27:37 --> 27:40] I think a lot of his staff would have been screwed.
+[27:40 --> 27:46] Which, I mean, he also would take a huge pay cut if he wasn't on traditional cable TV.
+[27:46 --> 27:51] I don't think he would immediately be making as much money on a podcast or something.
+[27:51 --> 27:56] But I do think all of these legacy late night figures,
+[27:56 --> 28:01] something's got to give independently of all this free speech stuff, which is ridiculous.
+[28:01 --> 28:05] I just don't know how much the financials of these shows make sense anymore,
+[28:05 --> 28:07] although they could still make sense.
+[28:07 --> 28:12] Because again, they create a lot of cultural wake that other people talk about.
+[28:12 --> 28:18] But if the Joe Rogans and Tim, whatever,
+[28:18 --> 28:22] Dylan's of the world get the same reach and are just a guy in a room,
+[28:22 --> 28:25] it makes these shows seem a little less reasonable.
+[28:25 --> 28:27] For better or worse, probably for worse.
+[28:27 --> 28:29] How loose!
+[28:29 --> 28:32] Yeah, he's going to be fine either way also. He's already rich.
+[28:32 --> 28:35] I don't know if Sterne and David Letterman were very considerate.
+[28:35 --> 28:41] I feel honored to be part of a group of people that knows what goes into doing a show.
+[28:41 --> 28:42] We do love a guy in a room.
+[28:42 --> 28:44] I also want to thank all of you.
+[28:44 --> 28:53] Guys!
+[28:53 --> 28:59] We supported our show, cared enough to do something about it to make your voices heard so that mine could be heard.
+[28:59 --> 29:02] Is it weird that I think less of him for coming back?
+[29:02 --> 29:04] I don't think so.
+[29:04 --> 29:10] I mean, I guess like, if you want to give him more of the, extend more of the olive branch,
+[29:10 --> 29:14] I think it's good that Disney caved to public pressure essentially.
+[29:14 --> 29:17] Although then they also caved to Donald Trump's pressure.
+[29:17 --> 29:19] So it's a bit of a wash.
+[29:19 --> 29:25] Again, I think because these guys have really big staffs of like writers and producers and crew,
+[29:25 --> 29:29] it would be difficult for them to just take a stand here and be like,
+[29:29 --> 29:37] I won't come back when the livelihoods of like, you know, hundreds or more people are relying on you just doing this show.
+[29:37 --> 29:40] I think that's, I think that's fair.
+[29:40 --> 29:42] It just depends what kind of statements he makes.
+[29:42 --> 29:47] And again, I haven't really watched this full thing as to how I feel about the whole circus of it all.
+[29:47 --> 29:50] But I think on the whole, for me at least, I get why he came back.
+[29:50 --> 29:51] I'll never forget it.
+[29:51 --> 30:00] And maybe, maybe most of all, I want to thank the people who don't support my show and what I believe,
+[30:00 --> 30:04] but support my right to share those beliefs anyway.
+[30:04 --> 30:11] People who I never would have imagined.
+[30:11 --> 30:18] Like Ben Shapiro, Clay Travis, Candace Owens, Mitch McConnell, Rand Paul, even my old pal Ted Cruz,
+[30:18 --> 30:23] who believe it or not said something very beautiful on my behalf.
+[30:23 --> 30:24] Beautiful.
+[30:24 --> 30:26] I hate what Jimmy Kimmel said.
+[30:26 --> 30:29] I am thrilled that he was fired.
+[30:29 --> 30:32] Oh wait, no, not that.
+[30:32 --> 30:33] The other part.
+[30:33 --> 30:37] But let me tell you, if the government gets in the business of saying,
+[30:37 --> 30:39] What you can't say.
+[30:39 --> 30:42] We don't like what you, the media have said.
+[30:42 --> 30:47] We're going to ban you from the airwaves if you don't say what we like.
+[30:47 --> 30:51] That will end up bad for conservatives.
+[30:51 --> 30:54] I don't think I've ever seen this before, but Ted Cruz is right.
+[30:54 --> 30:57] He's absolutely right.
+[30:57 --> 31:01] It's affecting all of us, including him.
+[31:01 --> 31:02] I mean, think about it.
+[31:02 --> 31:08] If Ted Cruz can't speak freely, then he can't cast spells on the Smurfs.
+[31:08 --> 31:12] Even though I don't agree with many of the people on most subjects,
+[31:12 --> 31:15] some of the things they say even make me want to throw up.
+[31:15 --> 31:19] It takes courage for them to speak out against this administration.
+[31:19 --> 31:21] They did and they deserve credit for it.
+[31:21 --> 31:27] I mean, this is like, you know, I can obviously just speak as crazily as I want on a stream.
+[31:27 --> 31:34] And I have not even a tenth of a 1% of this guy's audience.
+[31:34 --> 31:40] I can get why he's trying to like make inroads, I guess, here to conservatives,
+[31:40 --> 31:47] but like, I don't know, I don't really feel the need to give like Ted Cruz the pad on the back.
+[31:47 --> 31:53] He's just in a very different position though than like most of the creators you watch.
+[31:53 --> 31:56] And obviously a million eyes are on him.
+[31:56 --> 31:58] 17 million just on YouTube.
+[31:58 --> 32:02] So, I don't know.
+[32:02 --> 32:06] This doesn't really make me feel inspired, but let's keep going.
+[32:06 --> 32:16] That our government cannot be allowed to control what we do and do not say on television
+[32:16 --> 32:18] and that we have to stand up to it.
+[32:18 --> 32:21] I've been hearing a lot about what I need to say and do tonight.
+[32:21 --> 32:25] And the truth is, I don't think what I have to say is going to make much of a difference.
+[32:25 --> 32:27] If you like me, you like me. If you don't, you don't.
+[32:27 --> 32:29] I have no illusions about changing anyone's mind.
+[32:29 --> 32:33] But I do want to make something clear because it's important to me as a human.
+[32:33 --> 32:39] And that is, you understand that it was never my intention to make light of the murder of a young...
+[32:39 --> 32:44] Sorry, this is literally the spot where I think he starts crying so we'll rewind it,
+[32:44 --> 32:47] but I did miss a call from Kendall so I gotta take it real quick guys.
+[32:47 --> 32:52] List of priorities here, you know.
+[32:52 --> 32:55] We have to say tether to the real world at some time, sometimes.
+[32:55 --> 32:58] Hey, I'm streaming, sorry.
+[32:59 --> 33:01] Oh, okay.
+[33:01 --> 33:07] But I'm only gonna do a little bit today. I think I'll be done by 7.45-ish.
+[33:07 --> 33:14] You can stream longer because I'm gonna watch Murr on Discord.
+[33:14 --> 33:19] Oh, okay. Well then maybe we do go longer.
+[33:19 --> 33:24] If you... because I'm not allowed to watch that show because I had a bad attitude the first time.
+[33:24 --> 33:27] You really did. You had such a bad attitude.
+[33:27 --> 33:32] I'm like, you can't watch it with me and you're not gonna enjoy it.
+[33:32 --> 33:36] I'm so bad at doing running commentary on things, everyone. You might have noticed.
+[33:36 --> 33:43] If it on shows, people are excited to show him.
+[33:43 --> 33:51] I think I still submit that I was enjoying it. I think I just made one or two comments that ruined it.
+[33:51 --> 33:54] One or two is a lot.
+[33:54 --> 34:00] Yeah, that's fair. Anyway, okay. Well, I will order us food at some point then.
+[34:00 --> 34:02] Okay.
+[34:02 --> 34:05] But how far are you from home?
+[34:05 --> 34:08] 30 minutes. Okay, I'll see you in 30 minutes.
+[34:08 --> 34:10] Okay. Okay, bye.
+[34:10 --> 34:13] Bye. Say bye to the stream.
+[34:13 --> 34:17] Bye, stream. There you go, guys. Okay, talk soon. Bye-bye.
+[34:17 --> 34:24] My wife is not a fan of hilarious comments on shows she wants me to watch.
+[34:24 --> 34:28] It's a bad habit that I think a lot of guys have, unfortunately.
+[34:28 --> 34:33] Including me. I'm like, but what if I say this?
+[34:34 --> 34:41] In case you watched Dan to Dan, Dan to Dan Dan, my brother also, not my brother or my brother also told me I need to watch that.
+[34:41 --> 34:44] So I really should. That was when I tried to watch with Kendall.
+[34:44 --> 34:47] And you know what? She had little comments on that one that she did not want to watch it.
+[34:47 --> 34:49] And she hated the animation style.
+[34:49 --> 34:53] But I will say that is a more upfront way to do it than being like, you all watch it and then being like,
+[34:53 --> 34:57] this is the rating here. That does sound annoying, case. And you're bad.
+[34:57 --> 35:00] Thank you for backing Kendall up there.
+[35:00 --> 35:06] Okay, anyway, we're in the middle of the peak of the Kimmel experience here.
+[35:06 --> 35:13] The first time I've watched him in years. Let's go back a couple seconds so we can pick up with our previously scheduled Kimmeling
+[35:13 --> 35:15] and see what he's got to say.
+[35:15 --> 35:22] So far, Republicans are also in some cases in favor of free speech.
+[35:22 --> 35:24] Has been at the thrust of it.
+[35:25 --> 35:29] And do not say on television and that we have to stand up to it.
+[35:29 --> 35:32] I've been hearing a lot about what I need to say and do tonight.
+[35:32 --> 35:36] And the truth is, I don't think what I have to say is going to make much of a difference.
+[35:36 --> 35:38] If you like me, like me. If you don't, you don't.
+[35:38 --> 35:40] I have no illusions about changing anyone's mind.
+[35:40 --> 35:44] But I do want to make something clear because it's important to me as a human.
+[35:44 --> 35:51] And that is you understand that it was never my intention to make light of the murder of a young man.
+[35:51 --> 35:58] I don't think there's anything funny about it.
+[35:58 --> 36:04] I posted a message on Instagram of the Dave's killed sending love to his family and asking for compassion.
+[36:04 --> 36:06] And I meant it. I still do.
+[36:06 --> 36:14] Nor was it my intention to blame any specific group for the actions of what it was obviously a deeply disturbed individual.
+[36:14 --> 36:17] That was really the opposite of the point I was trying to make.
+[36:17 --> 36:22] But I understand that to some that felt either ill timed or unclear or maybe both.
+[36:22 --> 36:26] And for those who think I did point a finger, I get why you're upset.
+[36:26 --> 36:30] If the situation was reversed, there's a good chance I'd have felt the same way.
+[36:30 --> 36:36] I have many friends and family members on the other side who I love and remain close to,
+[36:36 --> 36:39] even though we don't agree on politics at all.
+[36:39 --> 36:43] I don't think the murderer who shot Charlie Kirk represents anyone.
+[36:43 --> 36:49] This was a sick person who believed violence was a solution and it isn't. It ever.
+[36:49 --> 36:59] And also selfishly, I am a person who gets a lot of threats.
+[36:59 --> 37:04] I have many ugly and scary threats against my life, my wife, my kids, my coworkers.
+[37:04 --> 37:09] I think that's all kind of fair. We'll keep, we'll keep, we'll just watch the whole thing.
+[37:09 --> 37:13] But seeing as we're watching it on the stream, I guess I may as well say something about it.
+[37:13 --> 37:17] Don't. Do you want to say anything about it?
+[37:17 --> 37:22] Um, wow. That's not useful, Jeff.
+[37:22 --> 37:26] Whoa. Okay. Hmm.
+[37:26 --> 37:31] I think he's being pretty conciliatory is my basic feeling.
+[37:31 --> 37:37] I'm guessing he's going to probably spin back around to some more general statements about free speech.
+[37:37 --> 37:41] Obviously for my taste, I would prefer if he was a little less conciliatory.
+[37:41 --> 37:48] If he wasn't like, I kind of get on some level feeling like if you really believe,
+[37:48 --> 37:55] like I do that all violence is wrong, that if you felt like you were contributing to it in some capacity,
+[37:55 --> 37:59] maybe it would make you emotional. I don't know. It's not really like kind of like he was saying.
+[37:59 --> 38:07] I don't really think it's his responsibility to say exactly the right thing and heal all national wounds.
+[38:07 --> 38:14] I will say, I think if I think if he draws some illusions and I don't know if he does,
+[38:14 --> 38:21] like Mahmood Khalil, for instance, I would say is a more serious infraction against free speech
+[38:21 --> 38:27] than even what he's going through. It's literally like deporting people and imprisoning them.
+[38:27 --> 38:32] And there's other cases of that. Will he get into that stuff?
+[38:32 --> 38:37] That's what I would. That's the angle I would go with if I was him and not doing that.
+[38:37 --> 38:45] I'm not a little disappointing because I just think it's I think it's a more prescient issue.
+[38:45 --> 38:51] I don't know. I kind of agree with him that like he's in a shitty position where it feels like he's supposed to say like
+[38:51 --> 38:56] he's supposed to give some independence, they start style speech to protect us from the aliens.
+[38:56 --> 39:03] But I guess I just wish he had a little bit more of a sober look at the situation and found like a clear angle.
+[39:03 --> 39:06] And I also kind of wish...
+[39:07 --> 39:10] Oh, people are saying you to something.
+[39:11 --> 39:15] Wait until he breaks on over Erica's speech at the rally.
+[39:15 --> 39:20] I've heard a lot of talk about Erica Kirk's speech and I don't know.
+[39:20 --> 39:26] I can't really... there's nothing good someone like me can say about it.
+[39:26 --> 39:32] Like she is an actual widow who literally just lost her husband, whose husband was just violently killed.
+[39:32 --> 39:47] But the political spectacle of the thing just makes it so insane that like the fact people are trying to glean this moat, this like a nugget of brave reconciliation
+[39:47 --> 39:57] that maybe she was earnestly going for. I'm sorry to me it's overshadowed by like the fucking literal Nazi rally rhetoric that was flying around the entire time.
+[39:57 --> 40:00] Anyway, separate thing. Let's get back to Kimmel, I guess.
+[40:02 --> 40:08] Because of what I choose to say. And I know those threats don't come from the kind of people on the right who I know and love.
+[40:08 --> 40:13] So that's what I wanted to say on that subject. But I don't want to make this about me because...
+[40:13 --> 40:17] And I know this is what people say when they make things about them. But I really don't.
+[40:17 --> 40:26] This show... this show is not important. What is important is that we get to live in a country that allows us to have a show like this.
+[40:26 --> 40:41] I've had the opportunity to meet and spend time with comedians and talk show hosts from countries like Russia, countries in the Middle East
+[40:41 --> 40:47] who told me they would get thrown in prison for making fun of those in power, and worse than being thrown in prison.
+[40:47 --> 40:53] They know how lucky we are here. Our freedom to speak is what they admire most about this country.
+[40:53 --> 41:01] And that's something I'm embarrassed to say I took for granted until they pulled my friend Stephen off the air and tried to coerce the affiliates.
+[41:01 --> 41:09] Again, he's taking... it's understandable that he is. He's taking the angle of the main assaults against free speech are against late night hosts.
+[41:09 --> 41:14] I don't know if he's going to stay there. Maybe it's just... there's a million ways to justify it.
+[41:14 --> 41:20] Maybe he's just trying to make this digestible for his audience who cares more about him than someone like, again, like Mahmood Khalil.
+[41:20 --> 41:29] But the hyper focus around people losing these legacy late night shows does feel odd to me.
+[41:29 --> 41:37] But I understand that people will legitimately care more about this than like people getting kicked out of the country for criticizing Israel.
+[41:37 --> 41:39] So anyway, let's keep going.
+[41:39 --> 41:47] Who run our show in the cities that you live in to take my show off the air. That's not legal. That's not American. That is un-American.
+[41:47 --> 41:51] And it's so crazy.
+[41:51 --> 41:55] Why didn't you think about that?
+[41:55 --> 42:09] Could the government be allowed to regulate which podcasts the cell phone companies and Wi-Fi providers are allowed to let you download to make sure they serve the public interest?
+[42:09 --> 42:17] Case. There are certain podcasts that if they couldn't be downloaded.
+[42:17 --> 42:25] Look, it would actually be bad. It would be bad. But him just saying that a lot is like, well, they couldn't hear some of them.
+[42:25 --> 42:28] But yes, I do agree with him. That would be bad.
+[42:28 --> 42:30] You think that sounds crazy?
+[42:30 --> 42:38] Ten years ago, this sounded crazy. Brendan Carr, the chairman of the FCC, telling an American company, we can do this the easy way or the hard way,
+[42:38 --> 42:48] and that these companies can find ways to change conduct and take action on Kimmel, or there's going to be additional work for the FCC ahead.
+[42:48 --> 42:57] In addition to being the direct violation of the First Amendment is not a particularly intelligent threat to make in public.
+[42:57 --> 43:11] Ted Cruz said he sounded like a mafioso. Although I don't know, if you want to hear a mob boss make a threat like that, you have to hide a microphone in a deli and park outside in a van with a taper quarter all night long.
+[43:11 --> 43:21] This genius said it on a podcast. Brendan Carr is the most embarrassing Carr Republicans have embraced since this one.
+[43:21 --> 43:28] And that's saying something.
+[43:28 --> 43:35] Yeah, Card King, that's a fair point. I mean, this is certainly not the first time.
+[43:35 --> 43:43] The idea that like cancel culture is the progenitor of all of all these celebrities losing their job is just so laughable.
+[43:43 --> 43:51] If you've ever looked into the history of politics in our country since the arrival of TV, like the airwaves have always been regulated.
+[43:51 --> 43:56] It's just a question of how and like around what subjects he could.
+[43:56 --> 44:04] Again, he could easily get kicked off the air for really openly criticizing Israel still.
+[44:04 --> 44:12] There's other subjects he could easily get kicked off the air for. There's obviously stuff around like sexuality and expression like that that's always been completely disallowed.
+[44:12 --> 44:19] But there's like a long history of political speech also getting censored for sure.
+[44:19 --> 44:24] I do think what he's saying is like for his negatives, I can be about the state of our country.
+[44:24 --> 44:41] I do broadly agree with him that like one of the few, not few, but one of the things I like about being an American is, you know, that we do seem to have certain privileged free speech still, although it's clearly a pro precarious situation.
+[44:41 --> 44:46] So I'm glad he's at least talking in that direction. I don't know. Let's see how it goes.
+[44:46 --> 44:49] The FCC has a tradition of meddling where they shouldn't underpin.
+[44:49 --> 44:59] Do you? Yeah. I mean, that's what I'm saying. Like obviously it is not entirely free, but it is still you still have certain protections that you don't have in other countries.
+[44:59 --> 45:07] I do think that's true. There are also countries where you might have more free speech around certain subjects.
+[45:07 --> 45:23] It's not never as simple as like we just have free speech. But I do think it's fair to say you are still able to criticize the government in most cases without immediate repercussions.
+[45:23 --> 45:29] But that is a sliding scale. And I do think currently it's sliding in the wrong direction, which I do think is broadly his point.
+[45:29 --> 45:38] Many admit any exact some people have like this. There was an FCC commissioner back in 2022 who worked under Joe Biden who was spot on.
+[45:38 --> 45:45] He wrote President Biden is right. Political satire is one of the oldest and most important forms of free speech.
+[45:45 --> 45:50] It challenges those in power while using humor to draw more people into the discussion.
+[45:50 --> 45:55] That's why people in influential positions have always targeted it for censorship.
+[45:55 --> 46:08] You know who wrote that? FCC commissioner, Brendan Carr, who later was appointed chairman of the FCC by this former crusader for free speech.
+[46:08 --> 46:14] If we don't have free speech, then we just don't have a free country. It's as simple as that.
+[46:14 --> 46:20] If this most fundamental right is allowed to perish, then the rest of our rights and liberties will talk.
+[46:20 --> 46:21] He's talking about game or gate during this.
+[46:21 --> 46:24] Just like Dominos, one by one they'll go down.
+[46:24 --> 46:30] That was also in 2022. And I wonder how did that guy turn into this guy?
+[46:30 --> 46:33] Who would you like to see replace Kimmel on late night?
+[46:33 --> 46:40] A lot of people, anybody could replace him. The guy had no talent. Kimmel had, the key was fired. He had no talent.
+[46:40 --> 46:48] He's a whack job, but he had no talent. And more importantly the talent he had though, because a lot of people have no talent to get ratings.
+[46:48 --> 46:51] But he had no ratings.
+[46:51 --> 47:03] Well, I do tonight.
+[47:03 --> 47:07] At least on YouTube.
+[47:07 --> 47:20] George almost had to feel sorry for him. He tried his best to cancel me.
+[47:20 --> 47:26] Instead he forced millions of people to watch the show. That backfired bigly.
+[47:26 --> 47:30] He might have to release the Epstein files to distract us from this now.
+[47:30 --> 47:41] A lot of people have been asking me if there are conditions for my return to the air.
+[47:41 --> 47:45] This is one. Disney has asked me to read the following statement.
+[47:45 --> 47:49] And I've agreed to do it. Here we go.
+[47:49 --> 47:54] To reactivate your Disney Plus and Hudo account.
+[47:54 --> 48:03] That's just slam Diego for sure.
+[48:03 --> 48:08] Honestly, I'm a terrible laugher when it comes to watching comedy clips.
+[48:08 --> 48:13] I don't actually think all of this is terrible even though my face is completely placid.
+[48:14 --> 48:18] I do think he's in a difficult position.
+[48:18 --> 48:25] I don't think we have the most free speech of any nation.
+[48:25 --> 48:34] But I broadly agree with the point that the forms of free speech that we traditionally have had are at least worth aspiring to uphold.
+[48:34 --> 48:37] I don't know.
+[48:37 --> 48:41] It kind of does point to what he says doesn't really matter.
+[48:41 --> 48:43] Unfortunately, that's kind of true.
+[48:43 --> 48:48] The basic action is Disney could take him off the air and then they let him back on.
+[48:48 --> 48:51] So, I don't know.
+[48:51 --> 48:54] I've heard this get praised a lot and also get attacked.
+[48:54 --> 48:58] And right now I feel kind of in the middle which is not the most exciting position.
+[48:58 --> 49:01] Open the Disney Plus app on your smart TV or TV.
+[49:01 --> 49:04] Yeah, Christ is sick. I feel kind of the same way.
+[49:04 --> 49:14] I've been fortunate to work at a company that has allowed me to do the show the way we want to do it for almost 23 years.
+[49:14 --> 49:17] I've done almost 4,000 shows on ABC.
+[49:17 --> 49:26] And over that time, the people who run this network have allowed me to evolve and to stretch the boundaries of what was once traditional for a late-night talk show,
+[49:26 --> 49:30] even when it made them uncomfortable, which I do a lot.
+[49:30 --> 49:35] Every night they've defended my right to poke fun at our leaders and to advocate for subjects that I've never seen before.
+[49:35 --> 49:36] Well, not every night.
+[49:36 --> 49:41] It's important by allowing me to use their platform and I'm very grateful for that.
+[49:41 --> 49:46] With that said, I was not happy when they pulled me off the air on one.
+[49:46 --> 49:51] I did not agree with that decision and I told them that and we had many conversations.
+[49:51 --> 49:55] I shared my point of view. They shared theirs. We talked it through.
+[49:55 --> 49:59] And at the end, even though they didn't have to, they really didn't have to.
+[49:59 --> 50:06] This is a giant company. We have short attention spans and I am a tiny part of the Disney Corporation.
+[50:06 --> 50:13] They welcomed me back on the air and I thank them for that.
+[50:13 --> 50:21] Fortunately, and I think unjustly, this puts them at risk.
+[50:21 --> 50:28] The President of the United States made it very clear he wants to see me and the hundreds of people who work here fired from our jobs.
+[50:28 --> 50:34] Our leader celebrates Americans losing their livelihoods because he can't take a joke.
+[50:34 --> 50:36] He was...
+[50:36 --> 50:39] So like what he just said about...
+[50:39 --> 50:45] Again, like, this is the crazy thing about critiquing a late night.
+[50:45 --> 50:48] It's hosts, political effectiveness.
+[50:48 --> 50:53] Because I do kind of agree that it's like, it's never going to really...
+[50:53 --> 50:56] It's never going to create the fireworks people are expecting.
+[50:56 --> 50:59] It is ultimately about entertaining us.
+[50:59 --> 51:02] And I don't mean that as like...
+[51:02 --> 51:09] He has no responsibility to anything, but like, I do agree that like broadly comedy, for better or worse,
+[51:09 --> 51:13] doesn't have the political effectiveness some people think it does.
+[51:13 --> 51:17] But he's in a position right now where like, it's really...
+[51:17 --> 51:22] It doesn't even really matter what kind of jokes he makes unless he just feels like really turning it on
+[51:22 --> 51:25] and like somehow pulls the funniest monologue of all time out of this.
+[51:25 --> 51:34] Like he is basically doing like a campaign speech weirdly right now for broadly like liberal democracy.
+[51:34 --> 51:46] And I don't find it that inspiring when you do things like humanize the Disney executives that pulled you off the air.
+[51:46 --> 51:49] I understand that he probably actually has a relationship with these people.
+[51:49 --> 52:03] So to him it feels naturally humanized, but it's like a multi-billion dollar corporation making an incredibly monetarily motivated decision
+[52:03 --> 52:09] to do something completely cowardly and then to give them credit for like reversing on it.
+[52:09 --> 52:11] I wouldn't have done that if I was him.
+[52:11 --> 52:15] But again, he has like a literal open business relationship with these people
+[52:15 --> 52:19] and he's probably trying to defend his show and the jobs of the people at that show.
+[52:19 --> 52:27] So I get it, but you know, people are clearly trying to draw battle lines right now
+[52:27 --> 52:32] and his are feeling pretty wavery I think because the general thrust of this at least so far to me feels like,
+[52:32 --> 52:35] let's come together.
+[52:35 --> 52:40] I can see why he went that angle because it feels good, but I just don't know.
+[52:40 --> 52:42] I don't know if that's really the message right now.
+[52:42 --> 52:55] I do think people need to be willing to be a little more aggressive and it doesn't feel like he is.
+[52:55 --> 53:00] Able to squeeze Colbert out of CBS, then he turned his sights on me
+[53:00 --> 53:05] and now he's openly rooting for NBC to fire Jimmy Fallon and Seth Meyers
+[53:05 --> 53:10] and the hundreds of Americans who work for their shows who don't make millions of dollars.
+[53:10 --> 53:14] And I hope that if that happens or if there's even any hint of that happening,
+[53:14 --> 53:17] you will be ten times as loud as you were this week.
+[53:17 --> 53:28] We have to speak out against this fact and it's not just comedy.
+[53:28 --> 53:30] He's gunning for our journalists too.
+[53:30 --> 53:33] He's suing them, he's bullying them over the weekend.
+[53:33 --> 53:38] His foxy friend Pete Hegseth announced a new policy that requires journalists
+[53:38 --> 53:44] with Pentagon press credentials to sign a pledge promising not to report information
+[53:44 --> 53:47] that hasn't been explicitly authorized for release.
+[53:47 --> 53:50] That includes unclassified information.
+[53:50 --> 53:53] They want to pick and choose what the news is.
+[53:53 --> 53:56] I know that's not as interesting as muzzling a comedian
+[53:56 --> 54:02] but it's so important to have a free press and it is nuts that we aren't paying more attention to it.
+[54:02 --> 54:14] Walter Cronkite must be spinning in his grave right now.
+[54:14 --> 54:16] He's dead, right?
+[54:16 --> 54:19] Look, I never imagined I would be in a situation like this.
+[54:19 --> 54:22] I barely paid attention in school.
+[54:22 --> 54:26] One thing I did learn from Lenny Bruce and George Carlin and Howard Stern
+[54:26 --> 54:32] is that a government threat to silence a comedian the president doesn't like is anti-American.
+[54:32 --> 54:35] That's anti-American.
+[54:35 --> 54:38] If we do it enough times it kind of becomes American, right?
+[54:38 --> 54:44] Some solidarity on that from the right and the left and from those in the middle like Joe Rogan.
+[54:44 --> 54:48] Maybe the silver lining from this is we found one thing we can agree on
+[54:48 --> 54:50] and maybe we'll even find another one.
+[54:50 --> 54:53] Maybe we can get a little bit closer together.
+[54:53 --> 54:55] We do agree on a lot of things.
+[54:55 --> 54:58] We agree on keeping our children safe from guns,
+[54:58 --> 55:02] from reproductive rights for women, social security.
+[55:02 --> 55:05] Yeah, I...
+[55:07 --> 55:10] Saying Joe Rogan is a person in the middle is...
+[55:10 --> 55:16] That's an angle, I guess, that you could take.
+[55:16 --> 55:21] All of this is very conciliatory in nature.
+[55:23 --> 55:27] If I had a huge national platform, I don't know what I feel like my responsibilities would be
+[55:27 --> 55:37] because I do broadly agree like at some point people need like a shared sense of identity
+[55:37 --> 55:39] for a country to be functional.
+[55:39 --> 55:42] Like it would be nice if we could come together around certain issues.
+[55:42 --> 55:45] In a sense, there's things Americans still agree on.
+[55:45 --> 55:48] We still agree money is a thing everyone wants.
+[55:48 --> 55:50] I'd say that's one of our few shared beliefs.
+[55:53 --> 55:54] I just don't... I don't know.
+[55:54 --> 55:59] This feels like it's coming from like a just a different reality to me a little bit.
+[55:59 --> 56:01] Yeah, I mean some of us like football.
+[56:01 --> 56:04] More Americans like football than don't like it probably.
+[56:04 --> 56:06] That's the thing we could at least say.
+[56:07 --> 56:15] I guess I feel like the moment of like we can come together around our shared values
+[56:15 --> 56:17] is just like we're too far from there.
+[56:17 --> 56:20] I hope someday we get there, but I don't think we're there right now.
+[56:20 --> 56:23] So I think you may as well come in guns blazing.
+[56:23 --> 56:27] I kind of agree like the more baller move would for sure be like,
+[56:27 --> 56:30] yeah, I'll come back and then you just go nuts on the airways for 20 minutes
+[56:30 --> 56:32] and get immediately canceled again.
+[56:32 --> 56:35] And then you'd ride off into the sunset to like start a podcast
+[56:35 --> 56:40] or your own YouTube show or whatever the fuck someone at his level of exposure can do.
+[56:41 --> 56:43] I don't fault him for not doing that.
+[56:43 --> 56:45] I'm sure he has all sorts of considerations.
+[56:45 --> 56:48] But this definitely is...
+[56:48 --> 56:51] There's parts of it I can broadly agree with
+[56:51 --> 56:53] because I guess the point is to make it kind of agreeable,
+[56:53 --> 56:56] but so far this does not work for me.
+[56:58 --> 57:01] Affordable healthcare, pediatric cancer research.
+[57:01 --> 57:05] These are all things that most Americans support.
+[57:05 --> 57:09] Let's stop letting these politicians tell us what they want
+[57:09 --> 57:11] and tell them what we want.
+[57:11 --> 57:31] Over the weekend, a very beautiful moment.
+[57:31 --> 57:33] I don't know if you saw this on Sunday.
+[57:33 --> 57:37] Erica Kirk forgave the man who shot her husband.
+[57:37 --> 57:38] She forgave him.
+[57:38 --> 57:39] Oh shoot.
+[57:39 --> 57:41] Well, some of that stuff does not work.
+[57:41 --> 57:43] I'll try to turn it off eventually.
+[57:45 --> 57:46] It's for the RPG stream.
+[57:46 --> 57:51] In the teachings of Jesus as I do, there it was.
+[57:51 --> 57:53] That's it.
+[57:53 --> 57:58] A selfless act of grace, forgiveness from a grieving widow.
+[57:58 --> 58:00] It touched me deeply.
+[58:00 --> 58:05] And I hope it touches many.
+[58:05 --> 58:09] And if there's anything we should take from this tragedy to carry forward,
+[58:09 --> 58:13] I hope it can be that, not this.
+[58:13 --> 58:15] So thank you for listening.
+[58:15 --> 58:19] And I'll have more to say when we come back.
+[58:21 --> 58:27] I mean, there is more, but I feel like I get the thrust of his message.
+[58:27 --> 58:30] Did you feel the thrust?
+[58:30 --> 58:32] I felt it.
+[58:32 --> 58:34] Did you like the feeling?
+[58:36 --> 58:41] Crazy how since the pandemic, things have taken a complete U-turn,
+[58:41 --> 58:43] almost like being shut in for a solo program,
+[58:43 --> 58:45] the most vulnerable idiots of our population,
+[58:45 --> 58:49] turned their mega mind melt into a twisted version of mainstream.
+[58:49 --> 58:51] I don't even know.
+[58:51 --> 58:55] I think our media landscape is fractured enough that I'm not even going to guess
+[58:55 --> 58:59] where the actual popular center on things is anymore.
+[58:59 --> 59:06] I think if I had one issue with this speech,
+[59:06 --> 59:09] which I think is closer to what it is from Jimmy Kimmel,
+[59:09 --> 59:11] and I understand why he's giving one,
+[59:11 --> 59:14] given the amount of attention on him,
+[59:14 --> 59:17] and the things that feel like are at stake.
+[59:18 --> 59:22] If I had a main issue, it's just that I don't feel like he has a clear sense of the actual
+[59:22 --> 59:26] hard divisions that are not reconcilable,
+[59:26 --> 59:29] that I do think you have to speak to.
+[59:29 --> 59:32] Like, he can say things bring us together,
+[59:32 --> 59:36] but half the country believes that an immigrant invasion
+[59:36 --> 59:40] is the principal reason for all of the problems in our country,
+[59:40 --> 59:43] and that if we just lock up enough brown people,
+[59:43 --> 59:45] then everything's going to work out.
+[59:45 --> 59:50] And it's just, you know, that's a complete fantasy.
+[59:50 --> 59:53] Not that he has to bring that up here necessarily,
+[59:53 --> 01:00:01] but unless you can articulate a clearer alternate vision
+[01:00:01 --> 01:00:04] than just like, we need to believe in each other,
+[01:00:04 --> 01:00:08] I just don't know what there is to say.
+[01:00:08 --> 01:00:13] Like, I don't know what you have to say that that's that valuable
+[01:00:13 --> 01:00:15] if your ultimate feeling is just like,
+[01:00:15 --> 01:00:18] if we just believe in being American hard enough,
+[01:00:18 --> 01:00:20] we can really write this ship like,
+[01:00:20 --> 01:00:23] no, there's some real poison in the veins right now
+[01:00:23 --> 01:00:26] that I think we have to speak to a little more directly
+[01:00:26 --> 01:00:28] than what he's doing here.
+[01:00:29 --> 01:00:33] People from Montana so worried about illegals coming from Mexico.
+[01:00:33 --> 01:00:36] Yeah, it's like a total psychopathy.
+[01:00:36 --> 01:00:40] And the real culprit in all of this, in my opinion,
+[01:00:40 --> 01:00:43] is of course the Disney executives
+[01:00:43 --> 01:00:45] that he spent like a good two minutes there,
+[01:00:45 --> 01:00:48] fileting despite them kicking him off the air
+[01:00:48 --> 01:00:51] for making the mildest fucking joke of all time
+[01:00:51 --> 01:00:53] about the Charlie Kirk situation.
+[01:00:53 --> 01:00:56] So the real issue here, in my opinion,
+[01:00:56 --> 01:00:59] is the person holding the puppet strings
+[01:00:59 --> 01:01:01] and the money strings told him,
+[01:01:01 --> 01:01:03] behave yourself and he's doing it.
+[01:01:04 --> 01:01:06] And I, again, it's not that simple of a situation
+[01:01:06 --> 01:01:10] because that's the situation most of us are in,
+[01:01:10 --> 01:01:13] in some capacity, like, granted, he's so rich
+[01:01:13 --> 01:01:16] he, at this point, he really could write off into the sunset.
+[01:01:18 --> 01:01:20] It's not Jimmy Kimmel's job to be like
+[01:01:20 --> 01:01:23] a revolutionary leader of America,
+[01:01:23 --> 01:01:27] but I do find, I find the general tenor of that
+[01:01:27 --> 01:01:29] to be a little less inspirational
+[01:01:29 --> 01:01:32] than I think probably some people are feeling like it is.
+[01:01:33 --> 01:01:35] But I'm glad that, you know, again,
+[01:01:35 --> 01:01:37] Disney caved to what pressure there was, seemingly,
+[01:01:37 --> 01:01:41] to bring him back, and it's crazy that this was even a thing.
+[01:01:41 --> 01:01:43] The joke was against Trump, not Kirk.
+[01:01:43 --> 01:01:46] Yeah, I mean, the thing conservatives are so enraged about.
+[01:01:46 --> 01:01:48] Oh my gosh.
+[01:01:48 --> 01:01:50] Not so clear.
+[01:01:50 --> 01:01:53] Oh shit. Who's that walking over here?
+[01:01:53 --> 01:01:55] That Kendall fucking Linus.
+[01:01:55 --> 01:01:57] Yo, let me tell you about a girl in candle
+[01:01:57 --> 01:01:59] got a vibe so wild, makes you raise your mouth.
+[01:01:59 --> 01:02:01] This is a Chris scene, bi-size in this party.
+[01:02:01 --> 01:02:03] Kendall Bus was inside of me.
+[01:02:03 --> 01:02:05] At a dude popping out, he's popping off.
+[01:02:05 --> 01:02:07] Say the wrong things.
+[01:02:07 --> 01:02:09] She's behind me now.
+[01:02:09 --> 01:02:11] And it's my son.
+[01:02:11 --> 01:02:13] What?
+[01:02:13 --> 01:02:15] What's her name?
+[01:02:15 --> 01:02:17] What's her name?
+[01:02:17 --> 01:02:19] What's her name?
+[01:02:19 --> 01:02:21] Kendall.
+[01:02:21 --> 01:02:23] Looking good.
+[01:02:23 --> 01:02:25] Bus bus?
+[01:02:25 --> 01:02:27] Bus bus?
+[01:02:27 --> 01:02:29] How you doing?
+[01:02:29 --> 01:02:31] How you doing?
+[01:02:31 --> 01:02:33] It's okay.
+[01:02:33 --> 01:02:35] Look great.
+[01:02:35 --> 01:02:37] Thanks.
+[01:02:37 --> 01:02:39] I put a mouse head on today.
+[01:02:39 --> 01:02:42] Wow.
+[01:02:42 --> 01:02:44] Was that fun?
+[01:02:44 --> 01:02:47] No.
+[01:02:47 --> 01:02:49] All right, bye.
+[01:02:49 --> 01:02:53] That's Kendall.
+[01:02:53 --> 01:02:55] Yes, case we know.
+[01:02:55 --> 01:02:57] I don't want to just shit on Jimmy Kimmel.
+[01:02:57 --> 01:02:59] Again, I don't really feel like he's in an easy position here.
+[01:02:59 --> 01:03:01] I don't know exactly what I would say.
+[01:03:01 --> 01:03:03] I would have already said so many things that would have.
+[01:03:03 --> 01:03:05] I'm assuming pissed people off way more.
+[01:03:05 --> 01:03:07] Given what they got mad about.
+[01:03:07 --> 01:03:11] But anyway, the thing that conservatives are claiming to be mad about now is that he
+[01:03:11 --> 01:03:15] misattributed this, the Tyler Robinson skies.
+[01:03:15 --> 01:03:19] Ideology is like a Republican Pepe or whatever.
+[01:03:19 --> 01:03:21] Even though he even did that in such a mild way.
+[01:03:21 --> 01:03:25] And at the time he was speaking, that was like the popular operating theory was that he was like some kind of online
+[01:03:25 --> 01:03:27] Gropor guy.
+[01:03:27 --> 01:03:33] And at this point, they've just flipped and decided that he's like the ultimate leftist despite there being incredibly limited proof of that.
+[01:03:33 --> 01:03:35] I guess the proof is that he had a
+[01:03:35 --> 01:03:37] transpartner.
+[01:03:37 --> 01:03:39] It's not even clear if that's...
+[01:03:39 --> 01:03:43] I'm not even gonna fuck.
+[01:03:43 --> 01:03:45] I'm so untrusting
+[01:03:45 --> 01:03:47] of like the general narrative.
+[01:03:47 --> 01:03:51] And I don't even mean that in the conspiratorial sense of like, he didn't do it. It's someone else.
+[01:03:51 --> 01:03:55] I mean just the facts that have been released by the government.
+[01:03:55 --> 01:03:57] About the Charlie Kirk shooting.
+[01:03:57 --> 01:03:59] About the shooter himself.
+[01:03:59 --> 01:04:03] They've been so confusingly delivered and are being used so politically that
+[01:04:03 --> 01:04:05] I just don't know.
+[01:04:05 --> 01:04:07] I don't think it's a valuable
+[01:04:07 --> 01:04:09] exercise to try to figure out the exact
+[01:04:09 --> 01:04:11] beliefs of Tyler Robinson at this point.
+[01:04:11 --> 01:04:13] But the fake ass tweet.
+[01:04:13 --> 01:04:15] Mm-hmm.
+[01:04:15 --> 01:04:18] Um...
+[01:04:18 --> 01:04:20] He had a trans Uber to kill him.
+[01:04:20 --> 01:04:22] He had a trans Uber to kill him.
+[01:04:22 --> 01:04:24] And he had a trans Uber to kill him.
+[01:04:24 --> 01:04:26] He had a trans Uber driver once.
+[01:04:26 --> 01:04:28] And that radicalized him.
+[01:04:28 --> 01:04:30] Yeah. That experience.
+[01:04:30 --> 01:04:32] Because they were great. They had like the free candy in there
+[01:04:32 --> 01:04:34] and water bottles and a little mini fridge.
+[01:04:34 --> 01:04:36] That would radicalize anyone.
+[01:04:36 --> 01:04:38] At that point.
+[01:04:38 --> 01:04:40] Whatever group drove you, you're on their side now.
+[01:04:40 --> 01:04:42] Yeah, that's how America works.
+[01:04:42 --> 01:04:44] It's a cool place.
+[01:04:44 --> 01:04:46] Anyway.
+[01:04:46 --> 01:04:48] Uh...
+[01:04:48 --> 01:04:50] When's the last time Crumb interrupted Jeff Ripple?
+[01:04:50 --> 01:04:52] Does he know
+[01:04:52 --> 01:04:54] that he's alive?
+[01:04:54 --> 01:04:56] It's a very fair question.
+[01:04:56 --> 01:04:58] And I'm not sure.
+[01:04:58 --> 01:05:00] Jeff?
+[01:05:00 --> 01:05:02] I wasn't even sure that he was dead.
+[01:05:02 --> 01:05:04] I keep the stuff that goes on in the other studios in this building
+[01:05:04 --> 01:05:06] out of my brain.
+[01:05:06 --> 01:05:08] Because
+[01:05:08 --> 01:05:10] frankly,
+[01:05:10 --> 01:05:12] everyone who works here is
+[01:05:12 --> 01:05:14] I think psychotic.
+[01:05:14 --> 01:05:16] Oh, yeah. I mean, that's definitely
+[01:05:16 --> 01:05:18] a good thing.
+[01:05:18 --> 01:05:20] I think that's a good thing.
+[01:05:20 --> 01:05:22] Oh, yeah. I mean, that's definitely
+[01:05:22 --> 01:05:24] that's definitely true.
+[01:05:24 --> 01:05:26] I'm trying to see if I can get Crumb on the line.
+[01:05:28 --> 01:05:30] Although I guess we'll go down to Munchin Crumb
+[01:05:30 --> 01:05:32] after this and then we'll try a new segment.
+[01:05:32 --> 01:05:34] And then we have to do amongst the web.
+[01:05:34 --> 01:05:36] And then I think I probably have to call it because I started
+[01:05:36 --> 01:05:38] a bit late today.
+[01:05:38 --> 01:05:42] Anyway,
+[01:05:42 --> 01:05:44] I don't know.
+[01:05:44 --> 01:05:46] I feel like I'm maybe being more negative than I need to be
+[01:05:46 --> 01:05:48] about what Jimmy Kimmel said.
+[01:05:48 --> 01:05:50] Given that on the whole, it's like
+[01:05:50 --> 01:05:52] he's saying fairly
+[01:05:52 --> 01:05:54] I guess the problem is it feels kind of benign
+[01:05:54 --> 01:05:56] like benign things to me.
+[01:05:56 --> 01:05:58] But given that he was literally kicked off the air
+[01:05:58 --> 01:06:00] for saying something so incredibly benign,
+[01:06:00 --> 01:06:02] I can see
+[01:06:02 --> 01:06:04] I can see how this feels
+[01:06:04 --> 01:06:06] now transgressive, I guess to some people,
+[01:06:06 --> 01:06:08] given the shifting
+[01:06:08 --> 01:06:10] state of what's
+[01:06:10 --> 01:06:12] allowed.
+[01:06:12 --> 01:06:14] But then at the same time, everything online
+[01:06:14 --> 01:06:16] is such a fucking free for all
+[01:06:16 --> 01:06:18] that you can kind of say
+[01:06:18 --> 01:06:20] anything
+[01:06:20 --> 01:06:22] in other forms of popular media.
+[01:06:22 --> 01:06:24] They're just not on legacy TV.
+[01:06:24 --> 01:06:26] So it's weird.
+[01:06:26 --> 01:06:28] We're in like a weird
+[01:06:28 --> 01:06:30] media landscape
+[01:06:30 --> 01:06:32] possibly transitionary period
+[01:06:32 --> 01:06:34] or maybe this is just, it's all insane now.
+[01:06:34 --> 01:06:36] Maybe it's always been insane.
+[01:06:36 --> 01:06:38] I mean, mass media has always been a little insane.
+[01:06:38 --> 01:06:40] But right now there's
+[01:06:40 --> 01:06:42] some extra insane dimensions to it.
+[01:06:42 --> 01:06:44] What about a conspiracy?
+[01:06:44 --> 01:06:46] Do we have a conspiracy too?
+[01:06:46 --> 01:06:48] I want to request on the Sunday stream
+[01:06:48 --> 01:06:50] that I do want to
+[01:06:50 --> 01:06:52] do.
+[01:06:52 --> 01:06:54] But I have to go back through and see what they were
+[01:06:54 --> 01:06:56] because
+[01:06:56 --> 01:06:58] there's just so many alerts that I got
+[01:06:58 --> 01:07:00] from the way I was running that stream
+[01:07:00 --> 01:07:02] that I kind of can't tell which segments were requested.
+[01:07:02 --> 01:07:04] Hmm.
+[01:07:04 --> 01:07:06] Okay.
+[01:07:06 --> 01:07:08] Don't we need an
+[01:07:08 --> 01:07:10] a Ouija Ouija board for Crumb?
+[01:07:10 --> 01:07:12] Unfortunately or fortunately
+[01:07:12 --> 01:07:14] depending on how you feel
+[01:07:14 --> 01:07:16] Crumb was resurrected from the dead
+[01:07:16 --> 01:07:18] on Sunday.
+[01:07:18 --> 01:07:20] And I know that sounds crazy but
+[01:07:20 --> 01:07:22] technically there's a Twitch VOD and a YouTube VOD
+[01:07:22 --> 01:07:24] to prove it.
+[01:07:24 --> 01:07:26] Can I just say, oh my god, Crumb, what's going on with you?
+[01:07:26 --> 01:07:28] Uh...
+[01:07:28 --> 01:07:30] Uh-oh.
+[01:07:30 --> 01:07:32] Am I fading already?
+[01:07:32 --> 01:07:34] Am I fading back into the distance?
+[01:07:34 --> 01:07:37] Uh...
+[01:07:37 --> 01:07:39] There we go.
+[01:07:39 --> 01:07:41] Okay, I'm feeling
+[01:07:41 --> 01:07:43] I'm feeling slightly more alive already.
+[01:07:43 --> 01:07:47] Uh-uh-uh-uhm.
+[01:07:47 --> 01:07:49] Is this thing on?
+[01:07:49 --> 01:07:51] Am I back?
+[01:07:51 --> 01:07:53] Can anyone just clarify what dated is?
+[01:07:53 --> 01:07:55] Because um...
+[01:07:55 --> 01:07:57] I went home
+[01:07:57 --> 01:07:59] and my wife,
+[01:07:59 --> 01:08:01] Ballulia
+[01:08:01 --> 01:08:03] seems to have been living with her.
+[01:08:03 --> 01:08:05] She's taking French classes online
+[01:08:05 --> 01:08:07] and somehow
+[01:08:07 --> 01:08:09] I guess she started taking them in person because
+[01:08:09 --> 01:08:11] it felt like her French instructor had been there for
+[01:08:11 --> 01:08:13] a couple months
+[01:08:13 --> 01:08:15] and she was weird because I'd just seen her
+[01:08:15 --> 01:08:19] that morning.
+[01:08:19 --> 01:08:21] Uh, it's September.
+[01:08:21 --> 01:08:24] That just can't be.
+[01:08:24 --> 01:08:26] That can't
+[01:08:26 --> 01:08:30] that can't be right.
+[01:08:30 --> 01:08:32] If you want it straight, Crumb,
+[01:08:32 --> 01:08:34] your head got exploded by a gorilla punch
+[01:08:34 --> 01:08:36] and I think you went to hell for most of the summer.
+[01:08:36 --> 01:08:38] Yeah,
+[01:08:38 --> 01:08:40] that seems to be what happened.
+[01:08:40 --> 01:08:42] Just if you want a second opinion.
+[01:08:42 --> 01:08:44] But that's so stupid that
+[01:08:44 --> 01:08:46] there's no way that that's
+[01:08:46 --> 01:08:48] what happened, so
+[01:08:48 --> 01:08:50] I didn't die. I'm right here.
+[01:08:50 --> 01:08:52] My body hair is growing back already.
+[01:08:52 --> 01:08:54] No, you're all being crazy.
+[01:08:54 --> 01:08:59] I think you're all
+[01:08:59 --> 01:09:01] the ones being crazy.
+[01:09:01 --> 01:09:03] So I'm gonna
+[01:09:03 --> 01:09:05] just
+[01:09:05 --> 01:09:08] I'm just gonna go do my job. How about that?
+[01:09:08 --> 01:09:10] How about I just go do my job?
+[01:09:10 --> 01:09:12] At some point though, you're probably gonna have to come to terms with the fact that you died and went to hell.
+[01:09:12 --> 01:09:14] Well, but I don't have any memory of that, so
+[01:09:14 --> 01:09:16] maybe you're just protecting yourself?
+[01:09:16 --> 01:09:18] I'm just gonna go do my job.
+[01:09:18 --> 01:09:20] Maybe you're just protecting yourself?
+[01:09:20 --> 01:09:22] Oh, no, no, no, no, no, no.
+[01:09:22 --> 01:09:24] Ah, that's cute.
+[01:09:24 --> 01:09:26] Mr. President, any thoughts on this?
+[01:09:26 --> 01:09:28] Listen up, Jack.
+[01:09:28 --> 01:09:30] Biggs of 91, just Mama Jam,
+[01:09:30 --> 01:09:32] 300 shiny tasty coins
+[01:09:32 --> 01:09:34] and I've been dying to say this.
+[01:09:34 --> 01:09:36] Do you have any idea how much I want to fuck up all of you?
+[01:09:36 --> 01:09:38] I'm gonna take a woman in front of my son
+[01:09:38 --> 01:09:40] dying because that woman's son is an initial monster.
+[01:09:40 --> 01:09:42] But I didn't because I have self-respect.
+[01:09:42 --> 01:09:44] Damn it.
+[01:09:44 --> 01:09:46] Crumb, somehow you leveled
+[01:09:46 --> 01:09:50] everyone up.
+[01:09:50 --> 01:09:56] There might be some slight technical issues today.
+[01:09:56 --> 01:09:58] What happened?
+[01:09:58 --> 01:10:00] Well, the stream was set up.
+[01:10:00 --> 01:10:02] There's all sorts of new auto effects
+[01:10:02 --> 01:10:04] for the RPG stream.
+[01:10:04 --> 01:10:06] So somehow everybody just leveled up.
+[01:10:06 --> 01:10:08] Hmm, I see.
+[01:10:08 --> 01:10:10] Congratulations, Chat.
+[01:10:10 --> 01:10:12] Yeah, I got real loud for a sec.
+[01:10:12 --> 01:10:15] This also feels like all my audio is
+[01:10:15 --> 01:10:17] really turned up today.
+[01:10:17 --> 01:10:19] It kind of looked like the pole wasn't working.
+[01:10:19 --> 01:10:21] I think the pole was technically working.
+[01:10:21 --> 01:10:25] Kendall, tell us the mean things
+[01:10:25 --> 01:10:27] case set up about only murders in the building.
+[01:10:27 --> 01:10:29] Yeah, what did I even say?
+[01:10:29 --> 01:10:31] It was mostly...
+[01:10:31 --> 01:10:33] It wasn't even the premise
+[01:10:33 --> 01:10:35] of the show.
+[01:10:35 --> 01:10:37] It was
+[01:10:37 --> 01:10:39] most the production slash Selena Gomez.
+[01:10:39 --> 01:10:41] He said a lot about Selena Gomez.
+[01:10:41 --> 01:10:43] About her acting.
+[01:10:43 --> 01:10:45] Oh, her acting, that was it.
+[01:10:45 --> 01:10:47] But like, he couldn't get past it.
+[01:10:47 --> 01:10:49] You know?
+[01:10:49 --> 01:10:51] That's true. To enjoy the show.
+[01:10:51 --> 01:10:53] Her acting was throwing me off a little bit.
+[01:10:53 --> 01:10:55] Yeah.
+[01:10:55 --> 01:10:57] Which maybe she's good,
+[01:10:57 --> 01:10:59] and I'm just being... I can't remember.
+[01:10:59 --> 01:11:01] I might have just been judgmental.
+[01:11:01 --> 01:11:03] Wait,
+[01:11:03 --> 01:11:05] what RPG? Expedition 33?
+[01:11:05 --> 01:11:07] Yeah, yeah, yeah. I'm talking about Expedition 33.
+[01:11:07 --> 01:11:09] You guys just leveled up in that.
+[01:11:09 --> 01:11:11] Well, I'm sorry. I do apologize.
+[01:11:11 --> 01:11:13] It's okay. It's Selena Gomez. I bet you're good.
+[01:11:13 --> 01:11:15] She's probably a bad person.
+[01:11:15 --> 01:11:17] One time, Kendall watched
+[01:11:17 --> 01:11:19] the Apple Selena Gomez
+[01:11:19 --> 01:11:21] documentary, and it did make me dislike her
+[01:11:21 --> 01:11:23] a little bit.
+[01:11:23 --> 01:11:25] Yeah.
+[01:11:25 --> 01:11:27] But I think she's like a bad person,
+[01:11:27 --> 01:11:29] not in a sense that she like plays the victim
+[01:11:29 --> 01:11:31] or is manipulative.
+[01:11:31 --> 01:11:33] I think she's like
+[01:11:33 --> 01:11:35] a bad person in a sense that
+[01:11:35 --> 01:11:37] she probably is secretly
+[01:11:37 --> 01:11:39] not racist,
+[01:11:39 --> 01:11:41] but prejudice, and
+[01:11:41 --> 01:11:43] pretends she
+[01:11:43 --> 01:11:45] likes everyone.
+[01:11:45 --> 01:11:47] When I think really she
+[01:11:47 --> 01:11:49] thinks she's better
+[01:11:49 --> 01:11:51] than everybody, and things don't apply
+[01:11:51 --> 01:11:53] to her because she's pretty and rich.
+[01:11:53 --> 01:11:55] That's how I think she actually
+[01:11:55 --> 01:11:57] works. I will say that is technically
+[01:11:57 --> 01:11:59] meaner than what I said, which is that she's a bad actor.
+[01:11:59 --> 01:12:01] What Kendall just said
+[01:12:01 --> 01:12:03] was a little more brutal.
+[01:12:03 --> 01:12:05] Can you be a good person
+[01:12:05 --> 01:12:07] if you're engaged
+[01:12:07 --> 01:12:09] to Benny Blanco?
+[01:12:09 --> 01:12:11] I don't know much about Benny Blanco,
+[01:12:11 --> 01:12:13] but I do know he showed up on that show Dave.
+[01:12:13 --> 01:12:15] Back when I still watched that show Dave
+[01:12:15 --> 01:12:17] with Lil Dickie,
+[01:12:17 --> 01:12:19] and the vibes were very unsavory to me.
+[01:12:19 --> 01:12:21] Granted that's a show.
+[01:12:21 --> 01:12:23] Yeah, I just don't like it.
+[01:12:23 --> 01:12:25] But I was like, what is this?
+[01:12:25 --> 01:12:27] He's like, I don't know if Filipino is way too much.
+[01:12:27 --> 01:12:29] In like an actual racist way.
+[01:12:29 --> 01:12:31] That sounds like, that
+[01:12:31 --> 01:12:33] squares for me.
+[01:12:33 --> 01:12:35] He's not attractive, yeah, that's something.
+[01:12:35 --> 01:12:37] And also one time Selena Gomez was playing Scrabble,
+[01:12:37 --> 01:12:39] and she posted a picture
+[01:12:39 --> 01:12:41] of it on her story.
+[01:12:41 --> 01:12:43] And on her side of Scrabble,
+[01:12:43 --> 01:12:45] like she was the, wait, is it Scrabble?
+[01:12:45 --> 01:12:47] Or no, I think it's BananaGrams.
+[01:12:47 --> 01:12:49] I think she was playing BananaGrams.
+[01:12:49 --> 01:12:51] Okay.
+[01:12:51 --> 01:12:53] And on her BananaGram
+[01:12:53 --> 01:12:55] she had
+[01:12:55 --> 01:12:57] a three letter word,
+[01:12:57 --> 01:12:59] but she hearted it out with like
+[01:12:59 --> 01:13:01] a heart emoji.
+[01:13:01 --> 01:13:03] But we could tell the top word was,
+[01:13:03 --> 01:13:05] the top letter was an F,
+[01:13:05 --> 01:13:07] and the bottom letter was a G.
+[01:13:07 --> 01:13:09] And she hearted it out,
+[01:13:09 --> 01:13:11] but not enough.
+[01:13:11 --> 01:13:13] You're gonna cover up your slurs.
+[01:13:13 --> 01:13:15] Why don't you just go all the way?
+[01:13:15 --> 01:13:17] I don't just like cover it up, you know what I mean?
+[01:13:17 --> 01:13:19] Yeah.
+[01:13:19 --> 01:13:22] Big.
+[01:13:22 --> 01:13:24] Yeah, so I'm like, ever since then
+[01:13:24 --> 01:13:26] and the Benny Blanco stuff, I'm like,
+[01:13:26 --> 01:13:28] I don't like her, but I like
+[01:13:28 --> 01:13:30] only burgers in the building.
+[01:13:30 --> 01:13:32] What the fuck?
+[01:13:32 --> 01:13:34] Benny Blanco, this is completely slander,
+[01:13:34 --> 01:13:36] because I know nothing about him.
+[01:13:36 --> 01:13:38] But he has the vibe of like,
+[01:13:38 --> 01:13:40] there's a certain breed of guy
+[01:13:40 --> 01:13:42] that's kind of the worst type of guy,
+[01:13:42 --> 01:13:44] where they're like,
+[01:13:44 --> 01:13:46] they're at a party and they were like
+[01:13:46 --> 01:13:48] touching a girl too much,
+[01:13:48 --> 01:13:50] and they were like, stop.
+[01:13:50 --> 01:13:52] They'd be like, oh, come on, we're just relaxing.
+[01:13:52 --> 01:13:54] We're just chilling.
+[01:13:54 --> 01:13:56] He's got that vibe to me.
+[01:13:56 --> 01:13:58] Okay, sorry, we're just being chill.
+[01:13:58 --> 01:14:00] But he's doing something creepy.
+[01:14:00 --> 01:14:02] Do you know what vibe he gives me?
+[01:14:02 --> 01:14:04] He says the F slur
+[01:14:04 --> 01:14:06] and goes, I'm just joking.
+[01:14:06 --> 01:14:08] That's the same vibe.
+[01:14:08 --> 01:14:10] He's got the vibe of that, plus maybe he would be
+[01:14:10 --> 01:14:12] make people uncomfortable with how
+[01:14:12 --> 01:14:14] physically he is with them.
+[01:14:14 --> 01:14:16] That's the vibe he gives.
+[01:14:16 --> 01:14:18] He didn't do any of that.
+[01:14:18 --> 01:14:20] That's the vibe. I have no idea.
+[01:14:20 --> 01:14:22] Although that's his definite vibe
+[01:14:22 --> 01:14:24] with Filipinos specifically.
+[01:14:24 --> 01:14:26] Have you seen him?
+[01:14:26 --> 01:14:28] I just took over the stream.
+[01:14:28 --> 01:14:30] Have you seen him?
+[01:14:30 --> 01:14:32] Review Jolly Bee?
+[01:14:32 --> 01:14:34] No.
+[01:14:34 --> 01:14:36] That's like microaggression racism.
+[01:14:36 --> 01:14:38] We don't do those.
+[01:14:38 --> 01:14:40] Those aren't a thing.
+[01:14:40 --> 01:14:42] We do macroaggressions now, Kendall.
+[01:14:42 --> 01:14:44] We can't even bother with the micro ones.
+[01:14:44 --> 01:14:46] Yeah, and sometimes they're not even micro.
+[01:14:46 --> 01:14:48] Do you know what?
+[01:14:48 --> 01:14:50] Someone like tastes cultural food
+[01:14:50 --> 01:14:52] and then they just go,
+[01:14:52 --> 01:14:54] and I'm like, oh, okay.
+[01:14:54 --> 01:14:56] It's just spaghetti, sir.
+[01:14:56 --> 01:14:58] It's just sweet spaghetti.
+[01:14:58 --> 01:15:00] Who put fucking sugar on my spaghetti?
+[01:15:00 --> 01:15:02] Who put fucking sugar on my spaghetti?
+[01:15:02 --> 01:15:04] Who put fucking sugar on my spaghetti?
+[01:15:04 --> 01:15:06] You're a weird Asian guy.
+[01:15:06 --> 01:15:08] Oh my God.
+[01:15:08 --> 01:15:10] Anyway, that's my lore dump for today.
+[01:15:10 --> 01:15:12] Bye.
+[01:15:12 --> 01:15:14] Bye.
+[01:15:14 --> 01:15:16] I like Benny Blanco.
+[01:15:16 --> 01:15:18] Why?
+[01:15:18 --> 01:15:20] Because he wrote that one song.
+[01:15:20 --> 01:15:22] Abiza.
+[01:15:22 --> 01:15:26] I don't think he wrote the Abiza song.
+[01:15:26 --> 01:15:28] He wrote that one song, My Girl.
+[01:15:28 --> 01:15:32] Like from 30, 40 years ago.
+[01:15:32 --> 01:15:34] My girl, my girl.
+[01:15:34 --> 01:15:36] No, he's...
+[01:15:36 --> 01:15:38] I don't even think he was alive.
+[01:15:38 --> 01:15:48] He wrote Eminem's music?
+[01:15:48 --> 01:15:50] No.
+[01:15:50 --> 01:15:52] He wrote that song, Fug.
+[01:15:52 --> 01:15:54] I'm a fug.
+[01:15:54 --> 01:15:56] No, I don't think that's a song.
+[01:15:56 --> 01:15:58] I'm a fan is my point.
+[01:15:58 --> 01:16:00] You can't name one of his songs and you think he wrote
+[01:16:00 --> 01:16:02] an incredibly broad variety of music
+[01:16:02 --> 01:16:04] spanning from like 50s crooners
+[01:16:04 --> 01:16:06] to Eminem's raps.
+[01:16:06 --> 01:16:08] Yeah, he's talented is my point.
+[01:16:08 --> 01:16:10] It's not a takeover unless you talk about K-pop
+[01:16:10 --> 01:16:13] or Love's Rap.
+[01:16:13 --> 01:16:15] Well, anyway, are you done
+[01:16:15 --> 01:16:17] attacking people for defending free speech?
+[01:16:17 --> 01:16:19] Yes, yes I am.
+[01:16:19 --> 01:16:21] Hey, I do wish Jimmy Kimmel
+[01:16:21 --> 01:16:23] all the best.
+[01:16:23 --> 01:16:25] Take it from Carl Malone.
+[01:16:25 --> 01:16:27] He's an OG.
+[01:16:27 --> 01:16:31] What are you trying to say there?
+[01:16:31 --> 01:16:33] Nothing.
+[01:16:33 --> 01:16:35] I do actually wish... I don't know.
+[01:16:35 --> 01:16:37] I guess I'm on the whole I'm glad that he got a showback.
+[01:16:37 --> 01:16:39] Though I do think all of these...
+[01:16:39 --> 01:16:41] I do think all of these...
+[01:16:41 --> 01:16:43] I do think all of these...
+[01:16:43 --> 01:16:46] I do think all of these
+[01:16:46 --> 01:16:48] late night hosts are going to
+[01:16:48 --> 01:16:50] they're going to need to transition
+[01:16:50 --> 01:16:52] in the next 5-ish years.
+[01:16:52 --> 01:16:54] But maybe I'm wrong. Maybe cable will just
+[01:16:54 --> 01:16:56] limp along forever. Maybe in 100 years
+[01:16:56 --> 01:16:58] there will just still be...
+[01:16:58 --> 01:17:00] I guess he's not even cable. He's on network TV.
+[01:17:00 --> 01:17:02] But is anybody watching
+[01:17:02 --> 01:17:04] late night shows on streaming?
+[01:17:04 --> 01:17:06] Does anybody sign into like...
+[01:17:06 --> 01:17:08] What is this even on? ABC?
+[01:17:08 --> 01:17:10] Like in a Disney Plus to watch Jimmy Kimmel
+[01:17:10 --> 01:17:12] or whatever?
+[01:17:12 --> 01:17:14] Because technically
+[01:17:14 --> 01:17:16] that could still be a thing
+[01:17:16 --> 01:17:18] but I just can't imagine clicking on like...
+[01:17:20 --> 01:17:22] I don't even know if I would click on like the Conan O'Brien
+[01:17:22 --> 01:17:24] show. Maybe I probably would.
+[01:17:24 --> 01:17:26] I just don't know if most people would
+[01:17:26 --> 01:17:28] if it was on like Hulu
+[01:17:28 --> 01:17:30] or whatever. It just feels like somehow
+[01:17:30 --> 01:17:32] that format needs to be slotted
+[01:17:32 --> 01:17:34] into a schedule that you can't escape.
+[01:17:34 --> 01:17:36] Otherwise people just won't watch it
+[01:17:36 --> 01:17:38] casually.
+[01:17:38 --> 01:17:40] I don't know.
+[01:17:40 --> 01:17:42] You don't watch terrestrial TV anymore with the exception of SNL.
+[01:17:42 --> 01:17:44] SNL like it's sea surviving
+[01:17:44 --> 01:17:46] in a streaming ecosystem for some reason.
+[01:17:46 --> 01:17:48] Like sketch comedy seems
+[01:17:48 --> 01:17:50] cordoned off enough that it's like...
+[01:17:50 --> 01:17:52] I guess it's just too close to podcast.
+[01:17:52 --> 01:17:54] The media
+[01:17:54 --> 01:17:56] VIN diagram
+[01:17:56 --> 01:17:58] like you have shows that are like produced
+[01:17:58 --> 01:18:00] and those you will sit down and watch on Netflix
+[01:18:00 --> 01:18:02] and then you and
+[01:18:02 --> 01:18:04] reality TV shows are in there too.
+[01:18:04 --> 01:18:06] And you have like podcasts that you expect
+[01:18:06 --> 01:18:08] to be on YouTube and in your ears.
+[01:18:08 --> 01:18:10] And I think
+[01:18:10 --> 01:18:12] late night shows currently exist too much
+[01:18:12 --> 01:18:14] in the podcast space.
+[01:18:14 --> 01:18:16] So nobody would feel like going to like
+[01:18:16 --> 01:18:18] HBO Max or Netflix or whatever for them.
+[01:18:18 --> 01:18:20] But you would watch
+[01:18:20 --> 01:18:22] a travel show with Conan.
+[01:18:22 --> 01:18:24] They tried to figure it out a while ago
+[01:18:24 --> 01:18:26] like David Letterman did this more plus
+[01:18:26 --> 01:18:28] interview show where there was like a big audience
+[01:18:28 --> 01:18:30] and it had like cool vibes and there was
+[01:18:30 --> 01:18:32] like these interspersed documentary moments.
+[01:18:32 --> 01:18:34] And that didn't really work for me
+[01:18:34 --> 01:18:36] either.
+[01:18:36 --> 01:18:39] But I don't know.
+[01:18:39 --> 01:18:41] Kendall's back.
+[01:18:41 --> 01:18:43] Benny Blanco
+[01:18:43 --> 01:18:45] in...
+[01:18:45 --> 01:18:47] I don't know if it was COVID or post COVID
+[01:18:47 --> 01:18:49] one of those times. Posted a video
+[01:18:49 --> 01:18:51] on TikTok of a little
+[01:18:51 --> 01:18:53] kid. It could have been his son, his nephew
+[01:18:53 --> 01:18:55] I don't know.
+[01:18:55 --> 01:18:57] Of that kid completely
+[01:18:57 --> 01:18:59] butt naked.
+[01:18:59 --> 01:19:01] And in that video
+[01:19:01 --> 01:19:03] the kid was like I'm touching my
+[01:19:03 --> 01:19:05] pee pee. And he posted on TikTok.
+[01:19:05 --> 01:19:07] And then he refused to take it down.
+[01:19:07 --> 01:19:12] That sounds kind of bad.
+[01:19:12 --> 01:19:14] Sorry I just had to put that in there.
+[01:19:14 --> 01:19:16] So can you be a good person
+[01:19:16 --> 01:19:18] if you're engaged to Benny?
+[01:19:18 --> 01:19:20] We're
+[01:19:20 --> 01:19:24] Benny Blanco haters here now.
+[01:19:24 --> 01:19:26] He might come on the stream.
+[01:19:26 --> 01:19:28] You know of all the celebrities who
+[01:19:28 --> 01:19:30] might be willing to come on a stream like this?
+[01:19:30 --> 01:19:32] Do you feel like Benny Blanco might be willing to?
+[01:19:32 --> 01:19:34] I even need more viewers.
+[01:19:34 --> 01:19:36] But I mean, I'm not going to be a big fan of Benny Blanco.
+[01:19:36 --> 01:19:38] I'm not going to be a big fan of Benny Blanco.
+[01:19:38 --> 01:19:40] I even need more viewers.
+[01:19:40 --> 01:19:42] But I mean the aesthetic, unfortunately
+[01:19:42 --> 01:19:44] I could see him being down for it. And I don't know what that says about this stream.
+[01:19:46 --> 01:19:48] Apparently nothing good.
+[01:19:48 --> 01:19:50] Damn it.
+[01:19:50 --> 01:19:52] Okay, well look, that's
+[01:19:52 --> 01:19:54] again all the best to Jimmy Kimmel.
+[01:19:54 --> 01:19:56] I'm glad he's back. I don't know why I feel slightly guilty for
+[01:19:56 --> 01:19:58] like, I think because he's
+[01:19:58 --> 01:20:00] a comedian who was legitimately
+[01:20:00 --> 01:20:02] taking off the air for a ridiculous reason.
+[01:20:02 --> 01:20:04] I feel bad just like shitting on him
+[01:20:04 --> 01:20:06] trying to say his piece about it.
+[01:20:06 --> 01:20:08] But there are just elements about it that I'm like
+[01:20:08 --> 01:20:10] ah, come on Jimmy.
+[01:20:10 --> 01:20:12] We can be a little meaner than that.
+[01:20:12 --> 01:20:14] You're a bad person.
+[01:20:14 --> 01:20:16] Sure. That's also fair.
+[01:20:16 --> 01:20:18] Let's set it down to Munch and Crumb though.
+[01:20:18 --> 01:20:20] And then we got a new segment to try.
+[01:20:20 --> 01:20:22] And we have to go amongst the web.
+[01:20:22 --> 01:20:24] So there's a lot to get done.
+[01:20:24 --> 01:20:26] But for now,
+[01:20:26 --> 01:20:28] Crumb is back apparently.
+[01:20:28 --> 01:20:30] It's time for Munch and Crumb.
+[01:20:30 --> 01:20:32] What is happening?
+[01:20:32 --> 01:20:57] What is happening?
+[01:20:57 --> 01:20:59] Crumb, you're back and you immediately break everything
+[01:20:59 --> 01:21:01] with your bad attitude.
+[01:21:01 --> 01:21:03] Your weird hell amnesia.
+[01:21:03 --> 01:21:05] Spent all my time
+[01:21:05 --> 01:21:07] saving your stupid ass.
+[01:21:07 --> 01:21:09] You're back and you already forgot what the fuck even happened.
+[01:21:09 --> 01:21:11] How is that even possible?
+[01:21:11 --> 01:21:13] Welcome back to the most useless guy on the planet.
+[01:21:13 --> 01:21:15] Better without you.
+[01:21:15 --> 01:21:17] You were better when you were fucking dead.
+[01:21:17 --> 01:21:19] It's Crumb.
+[01:21:19 --> 01:21:21] It's fucking Jeff. Jeff, what are you doing?
+[01:21:21 --> 01:21:23] Crumb said he had to use the bathroom.
+[01:21:23 --> 01:21:25] He said, where this? It'll bother Munch.
+[01:21:25 --> 01:21:27] He was just right here.
+[01:21:27 --> 01:21:29] He's doing this again?
+[01:21:29 --> 01:21:31] I'm back.
+[01:21:31 --> 01:21:33] Oh my God.
+[01:21:33 --> 01:21:35] You've been gone for that long.
+[01:21:35 --> 01:21:38] And this is what you do.
+[01:21:38 --> 01:21:40] I just again, everybody's,
+[01:21:40 --> 01:21:42] I am not falling for another prank.
+[01:21:42 --> 01:21:44] Okay?
+[01:21:44 --> 01:21:46] Nobody's going to trick me.
+[01:21:46 --> 01:21:48] It's very elaborate the way
+[01:21:48 --> 01:21:50] that you've created
+[01:21:50 --> 01:21:52] a footprint of a whole summer of news
+[01:21:52 --> 01:21:54] and every date I've checked
+[01:21:54 --> 01:21:56] and the internet and
+[01:21:56 --> 01:21:58] my phone and everything
+[01:21:58 --> 01:22:00] points to it having been several months
+[01:22:00 --> 01:22:02] since I can remember
+[01:22:02 --> 01:22:04] everything or anything.
+[01:22:04 --> 01:22:06] But I feel like this is a trick.
+[01:22:06 --> 01:22:10] Just accept that you died.
+[01:22:12 --> 01:22:14] Where's my...
+[01:22:14 --> 01:22:16] Why am I like, why is this like this?
+[01:22:16 --> 01:22:18] Oh, there we go.
+[01:22:18 --> 01:22:23] Here's your back.
+[01:22:23 --> 01:22:25] You're immediately concerned about the overlay?
+[01:22:25 --> 01:22:27] Well, that's one of the things I do here
+[01:22:27 --> 01:22:29] is I handle the overlay.
+[01:22:29 --> 01:22:31] I handle the overlays
+[01:22:31 --> 01:22:33] focusing on what I can focus on.
+[01:22:33 --> 01:22:35] You died, you went to hell.
+[01:22:35 --> 01:22:37] I went to all the trouble to save you.
+[01:22:37 --> 01:22:39] You don't even remember. You were down there fucking trains
+[01:22:39 --> 01:22:41] openly praising the devil?
+[01:22:41 --> 01:22:43] No, that doesn't, that just doesn't sound like
+[01:22:43 --> 01:22:45] when you say stuff like that
+[01:22:45 --> 01:22:47] I just don't believe that I died.
+[01:22:47 --> 01:22:49] I had to beat the devil in debates
+[01:22:49 --> 01:22:51] at least five times, I think.
+[01:22:51 --> 01:22:53] And I beat him every time.
+[01:22:53 --> 01:22:55] Not to save you, but because everyone
+[01:22:55 --> 01:22:57] was accusing me
+[01:22:57 --> 01:22:59] the most honest man on the planet
+[01:22:59 --> 01:23:01] one of the most decent men
+[01:23:01 --> 01:23:03] ever to be incredibly
+[01:23:03 --> 01:23:05] more than decent and actually perfect
+[01:23:05 --> 01:23:07] of killing you
+[01:23:07 --> 01:23:09] as if I would waste my time.
+[01:23:09 --> 01:23:11] You threaten to kill me every day.
+[01:23:11 --> 01:23:13] You threaten to kill, you tried to kill me
+[01:23:13 --> 01:23:15] actively with a gorilla.
+[01:23:15 --> 01:23:17] But there's no way that would work.
+[01:23:17 --> 01:23:19] So I do still, I can't get the chance
+[01:23:19 --> 01:23:21] to kill you, but I do still
+[01:23:21 --> 01:23:25] I do still, I can't get the taste of
+[01:23:25 --> 01:23:27] like how a fire smells out of my mouth.
+[01:23:27 --> 01:23:29] And I want to know how you did that.
+[01:23:29 --> 01:23:31] How did you do that? I didn't do that.
+[01:23:31 --> 01:23:33] You were in fucking hell.
+[01:23:33 --> 01:23:35] I'm surprised it doesn't taste like fucking train loop
+[01:23:35 --> 01:23:37] because you married a train.
+[01:23:37 --> 01:23:39] What does that even, that's great.
+[01:23:39 --> 01:23:41] What does that even mean? I don't know.
+[01:23:41 --> 01:23:43] You're the one who did it. You should be able to explain these things to me.
+[01:23:43 --> 01:23:45] You pierced the veil
+[01:23:45 --> 01:23:47] and you came back with fucking nothing.
+[01:23:47 --> 01:23:49] That's incredible. How did you even manage that?
+[01:23:49 --> 01:23:54] Munch killed me.
+[01:23:54 --> 01:23:59] But I'm alive again.
+[01:23:59 --> 01:24:01] I'd never, you got killed by a gorilla
+[01:24:01 --> 01:24:03] that you bet yourself.
+[01:24:03 --> 01:24:10] None of this is ringing a bell?
+[01:24:10 --> 01:24:12] Well, the gorilla part.
+[01:24:12 --> 01:24:14] But you know, he was an animatronic
+[01:24:14 --> 01:24:16] gorilla, so how would he have punched me?
+[01:24:16 --> 01:24:18] If that's your logic, then how did you
+[01:24:18 --> 01:24:20] bet him $300,000?
+[01:24:20 --> 01:24:22] He did threaten me a lot
+[01:24:22 --> 01:24:24] to get the money back.
+[01:24:24 --> 01:24:28] A lot of this isn't adding up.
+[01:24:30 --> 01:24:32] The last thing I remember is
+[01:24:32 --> 01:24:34] bravely
+[01:24:34 --> 01:24:37] asking for forgiveness
+[01:24:39 --> 01:24:41] in the face of danger. You mean begging the gorilla
+[01:24:41 --> 01:24:43] and me to let you live?
+[01:24:43 --> 01:24:45] Pathetically?
+[01:24:45 --> 01:24:47] Bravely in a blight for death situation
+[01:24:47 --> 01:24:49] standing up for what I believed in
+[01:24:49 --> 01:24:51] is the last thing I remember.
+[01:24:51 --> 01:24:54] Then
+[01:24:54 --> 01:24:56] kind of an impossibly, somehow
+[01:24:56 --> 01:24:58] both dark and bright light
+[01:25:00 --> 01:25:02] that was like an agony so searing
+[01:25:02 --> 01:25:04] that it was also like a release
+[01:25:04 --> 01:25:06] and it was timeless
+[01:25:06 --> 01:25:11] and then I was, you know,
+[01:25:11 --> 01:25:13] finishing my sentence
+[01:25:13 --> 01:25:17] and I'm stronger than I used to be.
+[01:25:17 --> 01:25:19] I keep pulling doors off
+[01:25:19 --> 01:25:23] of their hinges
+[01:25:23 --> 01:25:25] and I have not been hitting the gym
+[01:25:25 --> 01:25:28] so not sure what that's about.
+[01:25:28 --> 01:25:31] Hmm. You're a ticking time bomb.
+[01:25:31 --> 01:25:33] I'm gonna have to send you back to hell
+[01:25:33 --> 01:25:35] just so people are safe.
+[01:25:35 --> 01:25:37] My penis is hairless.
+[01:25:37 --> 01:25:39] Completely hairless.
+[01:25:39 --> 01:25:41] And it was the size of a baby's
+[01:25:41 --> 01:25:43] for
+[01:25:43 --> 01:25:45] about 48 hours.
+[01:25:45 --> 01:25:47] But it's returned
+[01:25:47 --> 01:25:49] to normal.
+[01:25:49 --> 01:25:51] It was seemingly the baby,
+[01:25:51 --> 01:25:55] the penis I had as a baby.
+[01:25:55 --> 01:25:57] What?
+[01:25:57 --> 01:25:59] How would you even know that? I just mean it was tiny
+[01:25:59 --> 01:26:01] and the testicles
+[01:26:01 --> 01:26:03] were a level of
+[01:26:03 --> 01:26:05] lifted that I've never experienced in my memory.
+[01:26:05 --> 01:26:07] And
+[01:26:07 --> 01:26:09] but then over the course of 48 hours it returned to normal
+[01:26:09 --> 01:26:13] which is, you know,
+[01:26:13 --> 01:26:15] big but
+[01:26:15 --> 01:26:17] unpleasant.
+[01:26:17 --> 01:26:19] It's how I would describe my penis.
+[01:26:19 --> 01:26:21] I'll admit it. It's an ugly, it's an ugly horse.
+[01:26:21 --> 01:26:25] What are we debating today?
+[01:26:25 --> 01:26:27] Look, we need to focus on what we can control here, Crump.
+[01:26:27 --> 01:26:29] And that is me crushing you into the dirt.
+[01:26:29 --> 01:26:31] Also, my points.
+[01:26:31 --> 01:26:33] First of all, where are my points?
+[01:26:33 --> 01:26:35] They're there.
+[01:26:35 --> 01:26:37] Where are my points?
+[01:26:37 --> 01:26:39] Is my point. You bet, you said
+[01:26:39 --> 01:26:41] you gave me all your points
+[01:26:41 --> 01:26:43] so that you would live.
+[01:26:43 --> 01:26:47] And then you killed yourself.
+[01:26:47 --> 01:26:49] I do remember that.
+[01:26:49 --> 01:26:51] I remember saying, I made a deal with you
+[01:26:51 --> 01:26:53] to not get punched by a gorilla.
+[01:26:55 --> 01:26:57] And then, and for that I gave you all my points.
+[01:26:59 --> 01:27:01] Which is ridiculous that you agreed to that
+[01:27:01 --> 01:27:03] and cruel.
+[01:27:03 --> 01:27:05] But apparently I did get punched by the gorilla
+[01:27:05 --> 01:27:07] so I think I'd get the points back.
+[01:27:07 --> 01:27:09] So you admit that you got killed by a gorilla
+[01:27:09 --> 01:27:13] and you went to hell.
+[01:27:13 --> 01:27:15] I don't. I do refuse to accept that.
+[01:27:17 --> 01:27:19] So then the deal was fair.
+[01:27:19 --> 01:27:21] And the points are mine.
+[01:27:21 --> 01:27:26] The points get given back.
+[01:27:26 --> 01:27:28] Everyone is agreeing that the points should get
+[01:27:28 --> 01:27:30] given back.
+[01:27:30 --> 01:27:32] I don't agree.
+[01:27:32 --> 01:27:34] By your own admission, you weren't killed by a gorilla.
+[01:27:36 --> 01:27:38] So until you can accept that,
+[01:27:38 --> 01:27:40] I don't see any reason that I should give your points back.
+[01:27:40 --> 01:27:42] And also I didn't do it. The gorilla did it.
+[01:27:42 --> 01:27:44] He violated the deal. If anything, the gorilla
+[01:27:44 --> 01:27:46] was you points. Or he owes me all that money
+[01:27:46 --> 01:27:48] that I for some reason just set on fire.
+[01:27:48 --> 01:27:50] Paying him back only for him to murder you.
+[01:27:52 --> 01:27:54] Something that he was clearly bad at.
+[01:27:54 --> 01:27:56] I would have done a much better job. That's the thing.
+[01:27:56 --> 01:27:58] If I had killed you, you would be dead currently.
+[01:27:58 --> 01:28:00] Gorilla kills you all of a sudden.
+[01:28:00 --> 01:28:02] You're fucking back after a couple months.
+[01:28:02 --> 01:28:04] Like you just had a fucking
+[01:28:04 --> 01:28:06] weird summer in Spain
+[01:28:06 --> 01:28:08] or some shit.
+[01:28:08 --> 01:28:11] Spain.
+[01:28:11 --> 01:28:13] Beyblade combat? Are you afraid?
+[01:28:13 --> 01:28:15] You're afraid of me?
+[01:28:15 --> 01:28:17] In the realm of Beyblade?
+[01:28:17 --> 01:28:19] Do you have the stones?
+[01:28:19 --> 01:28:21] For that kind of action?
+[01:28:21 --> 01:28:23] For me to get
+[01:28:23 --> 01:28:25] all of your points? How about that?
+[01:28:25 --> 01:28:27] No, you just get your points back, Max.
+[01:28:27 --> 01:28:29] Okay, I agree.
+[01:28:29 --> 01:28:33] Alright.
+[01:28:33 --> 01:28:35] We did the belly dancing class.
+[01:28:35 --> 01:28:37] And since then,
+[01:28:37 --> 01:28:39] we've really let this sub goal
+[01:28:39 --> 01:28:41] tick up. So,
+[01:28:41 --> 01:28:43] not today
+[01:28:43 --> 01:28:45] because the situation with all these overlays
+[01:28:45 --> 01:28:47] is insane right now.
+[01:28:47 --> 01:28:49] But on Friday, we will create a new goal
+[01:28:49 --> 01:28:51] for a Beyblade battle.
+[01:28:51 --> 01:28:53] Also,
+[01:28:53 --> 01:28:55] we lost the Beyblades. You lost the Beyblade?
+[01:28:55 --> 01:28:57] Apparently, K's lost him in a move.
+[01:28:57 --> 01:28:59] So, he's got to order new ones.
+[01:28:59 --> 01:29:01] It's the main reason we can't just do it immediately.
+[01:29:01 --> 01:29:05] What do Munch and Crome redeem their points for?
+[01:29:05 --> 01:29:07] Everything.
+[01:29:07 --> 01:29:09] With nothing.
+[01:29:09 --> 01:29:11] I will admit it's basically just a
+[01:29:11 --> 01:29:13] marker of
+[01:29:13 --> 01:29:15] well, it's just sort of a nice reminder
+[01:29:15 --> 01:29:17] that you're insane
+[01:29:17 --> 01:29:19] and that I was, that I,
+[01:29:19 --> 01:29:21] despite you starting this with an insane
+[01:29:21 --> 01:29:23] cult of personality
+[01:29:23 --> 01:29:25] several years ago at this point,
+[01:29:25 --> 01:29:27] I crawled my way up.
+[01:29:27 --> 01:29:29] I crawled back
+[01:29:29 --> 01:29:31] like I was crawling out of an
+[01:29:31 --> 01:29:33] impossible abyss that there should be
+[01:29:33 --> 01:29:35] no escape from.
+[01:29:35 --> 01:29:37] And I bested you and I had more points
+[01:29:37 --> 01:29:39] than you and that's undeniable.
+[01:29:39 --> 01:29:41] I deny it. I have, look how many more points
+[01:29:41 --> 01:29:43] than you have.
+[01:29:43 --> 01:29:45] Look how long
+[01:29:45 --> 01:29:47] I've been ahead of you.
+[01:29:47 --> 01:29:49] But you gave, I gave you the only reason
+[01:29:49 --> 01:29:51] to say I gave you all my points.
+[01:29:51 --> 01:29:53] What's really brave here? I ask you this.
+[01:29:53 --> 01:29:55] To, to like a coward
+[01:29:55 --> 01:29:57] demand Beyblade combat to get points
+[01:29:57 --> 01:29:59] you didn't earn, you didn't earn their points.
+[01:29:59 --> 01:30:01] I gave you the points. Points you didn't, you gave them to me
+[01:30:01 --> 01:30:03] so you didn't earn these. They're mine now.
+[01:30:03 --> 01:30:05] And you want to Beyblade your way back
+[01:30:05 --> 01:30:07] to the top instead of debating your way
+[01:30:07 --> 01:30:09] back to the top.
+[01:30:09 --> 01:30:11] Mr. Abyss Climber
+[01:30:11 --> 01:30:13] fucking Dark Souls 1
+[01:30:13 --> 01:30:18] lower crumb.
+[01:30:18 --> 01:30:20] I do want to Beyblade for it so
+[01:30:20 --> 01:30:22] I'm not falling for whatever you're trying to do right now.
+[01:30:24 --> 01:30:26] Enough points for Slinky. There is a prize pool
+[01:30:26 --> 01:30:28] for the points. What?
+[01:30:28 --> 01:30:30] Yeah, there's like a doctor's style, like a dentist style
+[01:30:30 --> 01:30:32] prize
+[01:30:32 --> 01:30:34] drawer.
+[01:30:34 --> 01:30:36] But I have the key.
+[01:30:36 --> 01:30:38] Why wasn't I made aware of this? What types of prizes?
+[01:30:38 --> 01:30:40] There's like the little sticky guy that'll
+[01:30:40 --> 01:30:42] slide down a wall. Oh, what?
+[01:30:42 --> 01:30:44] That's uh
+[01:30:44 --> 01:30:46] 50 points. 50?
+[01:30:46 --> 01:30:48] And there is a Nintendo Wii
+[01:30:48 --> 01:30:50] for some reason
+[01:30:50 --> 01:30:52] like the old, you know, couple generations ago
+[01:30:52 --> 01:30:54] Wii and that's a thousand points.
+[01:30:54 --> 01:30:56] Work with that she's years away.
+[01:30:56 --> 01:30:58] By then the Wii will be so outdated.
+[01:30:58 --> 01:31:00] It already is.
+[01:31:00 --> 01:31:02] But it's available.
+[01:31:02 --> 01:31:04] It's in the drawer. What?
+[01:31:04 --> 01:31:06] Could I have it now? You have nine points.
+[01:31:06 --> 01:31:08] Or what can nine points get me?
+[01:31:08 --> 01:31:11] A single
+[01:31:11 --> 01:31:13] off-brand Pog chip. I'll take it.
+[01:31:13 --> 01:31:15] No.
+[01:31:15 --> 01:31:17] You have to settle this stuff with the Beyblade first
+[01:31:17 --> 01:31:19] before you start turning in your points for Pogs
+[01:31:19 --> 01:31:21] off-brand Pogs. They're called Logs.
+[01:31:23 --> 01:31:25] Like, L-O-G-S? No.
+[01:31:25 --> 01:31:30] Technically all Pogs are off-brand. That's a very good point, Card King.
+[01:31:30 --> 01:31:32] And as usual, you don't know what you're talking about.
+[01:31:32 --> 01:31:34] I'm doubting that this drawer even exists.
+[01:31:34 --> 01:31:36] I'd turn in my nine points just to prove that you're lying.
+[01:31:36 --> 01:31:38] They exist and you haven't earned them.
+[01:31:38 --> 01:31:40] And it's actually ten points. It's a minimum of ten points.
+[01:31:40 --> 01:31:42] For any of the prizes.
+[01:31:42 --> 01:31:44] So, that is how you spell it, Boulevard Trask Good guess.
+[01:31:44 --> 01:31:46] Logs? L-A-G? Like a...
+[01:31:46 --> 01:31:48] Logonetus?
+[01:31:48 --> 01:31:50] Can you stop skin walking
+[01:31:50 --> 01:31:52] instantly after coming back?
+[01:31:52 --> 01:31:54] I just have itchy eyebrows.
+[01:31:54 --> 01:31:56] It's the only hair I have right now.
+[01:31:56 --> 01:31:58] Cut me a break.
+[01:31:58 --> 01:32:00] Body is growing back slowly.
+[01:32:00 --> 01:32:02] And it's itchy.
+[01:32:02 --> 01:32:04] I feel like shitting my skin like a snake sometimes.
+[01:32:04 --> 01:32:06] What happened to me?
+[01:32:06 --> 01:32:08] I'm not sure.
+[01:32:08 --> 01:32:10] What happened to me?
+[01:32:10 --> 01:32:12] What happened to me, Munch?
+[01:32:12 --> 01:32:14] What happened to me? Stop it.
+[01:32:14 --> 01:32:19] Can you just...
+[01:32:19 --> 01:32:21] Yeah, can we debate some...
+[01:32:21 --> 01:32:23] There's probably a debate that was requested.
+[01:32:23 --> 01:32:25] At some point, I can't remember what it was.
+[01:32:25 --> 01:32:27] What am I supposed to remember?
+[01:32:27 --> 01:32:29] Every little thing that happens on this?
+[01:32:29 --> 01:32:31] Craziness.
+[01:32:31 --> 01:32:33] Go to hell, get nothing for it.
+[01:32:33 --> 01:32:35] Just get your enemy back. That's my life.
+[01:32:35 --> 01:32:37] And now I can't even find
+[01:32:37 --> 01:32:39] whatever the last debate requested was.
+[01:32:39 --> 01:32:43] I could show you the footage.
+[01:32:43 --> 01:32:45] You want to see the footage of you exploding?
+[01:32:45 --> 01:32:48] There's no time.
+[01:32:48 --> 01:32:50] We need to debate and we gotta move...
+[01:32:50 --> 01:32:52] This segmentation is supposed to be the whole show.
+[01:32:52 --> 01:32:54] But it is the whole show.
+[01:32:54 --> 01:32:56] The whole damn show.
+[01:32:56 --> 01:32:58] Right here. Mr. The Whole Show.
+[01:32:58 --> 01:33:03] Yeah, I literally saved you from hell
+[01:33:03 --> 01:33:05] and you immediately were like,
+[01:33:05 --> 01:33:07] Gimme points. I am calm.
+[01:33:07 --> 01:33:10] Well, I'm Munch.
+[01:33:10 --> 01:33:12] And I don't want to do that.
+[01:33:12 --> 01:33:14] I'm Munch.
+[01:33:14 --> 01:33:16] You didn't have your points.
+[01:33:16 --> 01:33:20] I've been doing that a lot lately.
+[01:33:20 --> 01:33:22] I can't do voices anymore.
+[01:33:22 --> 01:33:24] What the fuck was that?
+[01:33:24 --> 01:33:26] Well, it feels like there's something trying to crawl out of me at all times lately.
+[01:33:26 --> 01:33:28] Like there's bugs in me.
+[01:33:28 --> 01:33:30] But there's none.
+[01:33:30 --> 01:33:34] I went to a doctor.
+[01:33:34 --> 01:33:37] I feel like a part of me exists somewhere else.
+[01:33:37 --> 01:33:39] That part of me is trying to escape.
+[01:33:39 --> 01:33:41] You should be able to relate.
+[01:33:41 --> 01:33:43] You have all sorts of alter egos rattling around in there, right?
+[01:33:43 --> 01:33:45] Nope. Cockered them all easily.
+[01:33:45 --> 01:33:47] Now it's just me in here.
+[01:33:47 --> 01:33:49] For peace.
+[01:33:49 --> 01:33:51] Mentally as sound as possible.
+[01:33:51 --> 01:33:53] Crumb has nine points.
+[01:33:53 --> 01:33:55] He's a dead man.
+[01:33:55 --> 01:33:57] I agree.
+[01:33:57 --> 01:33:59] If I was really dead,
+[01:33:59 --> 01:34:01] he should be worth at least 1.5.
+[01:34:01 --> 01:34:03] At least say double.
+[01:34:03 --> 01:34:07] What is wrong with you?
+[01:34:07 --> 01:34:09] Let's just debate this. Did Crumb...
+[01:34:11 --> 01:34:15] Did Crumb...
+[01:34:20 --> 01:34:22] What's something bad you could have done in hell?
+[01:34:22 --> 01:34:26] Did Crumb have sex with...
+[01:34:26 --> 01:34:29] hmm...
+[01:34:29 --> 01:34:31] Hitler in hell?
+[01:34:31 --> 01:34:33] What? I know.
+[01:34:33 --> 01:34:35] No.
+[01:34:35 --> 01:34:37] Well, I think that's a decent debate, right?
+[01:34:37 --> 01:34:39] You guys think Crumb had sex with Hitler in hell?
+[01:34:39 --> 01:34:41] I do.
+[01:34:41 --> 01:34:43] Everybody, if hell exists,
+[01:34:43 --> 01:34:45] and as a Christian obviously I believe it does,
+[01:34:45 --> 01:34:47] there's so many people in hell.
+[01:34:47 --> 01:34:49] What are the chances I would even run into Hitler?
+[01:34:49 --> 01:34:51] There'd be beyond billions of souls in there.
+[01:34:51 --> 01:34:53] There'd be beyond billions of souls in there.
+[01:34:53 --> 01:34:55] In fact, if multi-dimensions are real,
+[01:34:55 --> 01:34:57] who knows? There'd be infinite souls in hell.
+[01:34:57 --> 01:34:59] And you expect me to...
+[01:34:59 --> 01:35:01] Well, look. Fine.
+[01:35:01 --> 01:35:03] That's so stupid. I'm glad to trounce your dumbass.
+[01:35:03 --> 01:35:05] Because I was in hell and be I would in the ever.
+[01:35:07 --> 01:35:09] Make love to Hitler.
+[01:35:09 --> 01:35:11] I said have sex.
+[01:35:11 --> 01:35:13] That's even worse.
+[01:35:13 --> 01:35:15] Making love to... that's where your head went?
+[01:35:17 --> 01:35:19] No way Hitler would associate with Crumb.
+[01:35:19 --> 01:35:21] Yeah, because I'm too pure.
+[01:35:21 --> 01:35:23] If you can make this debate, very simple.
+[01:35:23 --> 01:35:25] I think you did have sex with Hitler in hell.
+[01:35:25 --> 01:35:27] And...
+[01:35:27 --> 01:35:29] You should accept that
+[01:35:29 --> 01:35:31] and just agree with me.
+[01:35:31 --> 01:35:33] And then we can just call it a day and go.
+[01:35:33 --> 01:35:35] I'll go get a sandwich and you can go eat all alone
+[01:35:35 --> 01:35:37] like you always do. You literally eat alone.
+[01:35:37 --> 01:35:39] I've never seen you eat with someone.
+[01:35:39 --> 01:35:41] I do not believe that you have friends.
+[01:35:41 --> 01:35:43] Coach McGurk was here just a little while ago.
+[01:35:43 --> 01:35:45] Who the fuck is Coach McGurk?
+[01:35:45 --> 01:35:47] What are you even talking about?
+[01:35:47 --> 01:35:49] Look, I think...
+[01:35:49 --> 01:35:51] In all likelihood, based on you achieving
+[01:35:51 --> 01:35:53] a surprising level of status in hell
+[01:35:53 --> 01:35:55] I'm assuming transportation is a pretty big deal
+[01:35:55 --> 01:35:57] because like you said
+[01:35:57 --> 01:35:59] it's an immortal realm full of all sorts of fucking people
+[01:35:59 --> 01:36:01] you gotta get from point A to point B
+[01:36:01 --> 01:36:03] probably all the time.
+[01:36:03 --> 01:36:05] You gotta bowel entanglement scheduled at 6
+[01:36:05 --> 01:36:07] you gotta go get your fucking legs
+[01:36:07 --> 01:36:09] put into your eyes
+[01:36:09 --> 01:36:11] or whatever it to.
+[01:36:11 --> 01:36:13] You're gonna need a public transit system for that to happen.
+[01:36:13 --> 01:36:15] And you were in charge of that.
+[01:36:15 --> 01:36:17] I don't know how you manage that
+[01:36:17 --> 01:36:19] but you were in charge of somehow hell transit.
+[01:36:19 --> 01:36:21] Really?
+[01:36:21 --> 01:36:23] Because I always thought I'd make a pretty good
+[01:36:23 --> 01:36:25] secretary of transportation.
+[01:36:25 --> 01:36:27] I mean bootage edge
+[01:36:27 --> 01:36:29] is doing a fantastic job
+[01:36:29 --> 01:36:31] but I think if I got shut the fuck
+[01:36:31 --> 01:36:33] that's not the point.
+[01:36:33 --> 01:36:35] The point is I think probably because you were mingling
+[01:36:35 --> 01:36:37] with the upper echelons of hell
+[01:36:37 --> 01:36:39] you probably all over Hitler's social crew
+[01:36:39 --> 01:36:41] you're probably like top 5 on hell my space or whatever.
+[01:36:41 --> 01:36:43] I think it's extremely like
+[01:36:43 --> 01:36:45] and given that apparently everyone in hell straight up fucking all the time.
+[01:36:45 --> 01:36:47] They are?
+[01:36:47 --> 01:36:49] Based on what you were saying
+[01:36:49 --> 01:36:51] like a lot of sex in hell
+[01:36:51 --> 01:36:53] I mean probably not good
+[01:36:53 --> 01:36:55] like it was weird.
+[01:36:55 --> 01:36:57] Wait what do you mean it was weird?
+[01:36:57 --> 01:36:59] What happens in hell stays in hell?
+[01:36:59 --> 01:37:01] Well clearly I can't remember any of it.
+[01:37:01 --> 01:37:03] What kind of sex are we talking about?
+[01:37:03 --> 01:37:05] Well look
+[01:37:05 --> 01:37:07] all of my teams are talking too much.
+[01:37:07 --> 01:37:11] I would never have sex with Hitler.
+[01:37:11 --> 01:37:13] I wouldn't, I didn't
+[01:37:13 --> 01:37:15] I didn't die.
+[01:37:15 --> 01:37:17] I'm right here.
+[01:37:17 --> 01:37:19] I can't have sex with Hitler.
+[01:37:19 --> 01:37:21] Honestly I'm not attracted to mustaches of that size.
+[01:37:21 --> 01:37:23] If I was going to have sex with a man I'd want him to have a brawny mustache.
+[01:37:23 --> 01:37:25] Like a really thick Yosemite
+[01:37:25 --> 01:37:27] style mustache.
+[01:37:27 --> 01:37:29] If I'm even going to consider it.
+[01:37:29 --> 01:37:31] You want to fuck Yosemite Sam?
+[01:37:31 --> 01:37:33] More than Hitler.
+[01:37:33 --> 01:37:37] Funnel web that's between us.
+[01:37:37 --> 01:37:39] You weren't invited to the hell orgy that I had.
+[01:37:39 --> 01:37:41] You had an orgy already in hell.
+[01:37:41 --> 01:37:43] Just a little bit of one.
+[01:37:43 --> 01:37:45] It was mostly heavy kissing.
+[01:37:45 --> 01:37:52] All of this is so all of this is so stupid.
+[01:37:52 --> 01:37:54] It didn't happen.
+[01:37:54 --> 01:37:56] It did not happen and
+[01:37:56 --> 01:37:58] whatever I'm not even
+[01:37:58 --> 01:38:00] it's fine if I was really dead
+[01:38:00 --> 01:38:02] then people would have definitely given me a win
+[01:38:02 --> 01:38:04] because they would have missed me.
+[01:38:04 --> 01:38:06] So they would have given me a win.
+[01:38:06 --> 01:38:08] You were dead and nobody cared.
+[01:38:08 --> 01:38:10] But they did give me a win.
+[01:38:10 --> 01:38:12] Boom!
+[01:38:12 --> 01:38:15] Yes!
+[01:38:15 --> 01:38:17] Oh God it is good for this to be against
+[01:38:17 --> 01:38:19] the you that can really feel it again.
+[01:38:19 --> 01:38:21] You died.
+[01:38:21 --> 01:38:23] You straight up died.
+[01:38:23 --> 01:38:25] This is your first show back.
+[01:38:25 --> 01:38:27] And I'm looking to beat you so easily.
+[01:38:27 --> 01:38:31] Everybody thinks you fucked Hitler.
+[01:38:31 --> 01:38:33] Munchkirch.
+[01:38:33 --> 01:38:35] You know the real lesson if I was dead
+[01:38:35 --> 01:38:37] as you claim
+[01:38:37 --> 01:38:39] is that you could not make it
+[01:38:39 --> 01:38:41] even a few months
+[01:38:41 --> 01:38:43] without defying the laws
+[01:38:43 --> 01:38:45] of all that is holy
+[01:38:45 --> 01:38:47] to resurrect me.
+[01:38:47 --> 01:38:49] You literally moved
+[01:38:49 --> 01:38:51] not just mountains but realities
+[01:38:51 --> 01:38:53] just to be in my presence again Munchk.
+[01:38:53 --> 01:38:55] No.
+[01:38:55 --> 01:38:57] I had a lot of detectives breathing down my neck.
+[01:38:57 --> 01:38:59] If it was months ago
+[01:38:59 --> 01:39:01] why were you still on the air if I
+[01:39:01 --> 01:39:03] openly died?
+[01:39:03 --> 01:39:05] Well they weren't that worried because it was you.
+[01:39:05 --> 01:39:07] They were like well there's a statue
+[01:39:07 --> 01:39:09] of limitations on Krom where
+[01:39:09 --> 01:39:11] we don't really have to care
+[01:39:11 --> 01:39:13] ever.
+[01:39:13 --> 01:39:15] That's what the detective said. I was surprised too.
+[01:39:15 --> 01:39:17] They were like look we want to be clear with you.
+[01:39:17 --> 01:39:19] It seems like you did this but we don't
+[01:39:19 --> 01:39:21] care very much.
+[01:39:21 --> 01:39:23] So if you can just figure it out in the next couple of years
+[01:39:23 --> 01:39:25] then you're off.
+[01:39:25 --> 01:39:27] And I did.
+[01:39:27 --> 01:39:30] I wasn't that worried about it.
+[01:39:30 --> 01:39:32] It wasn't that big of a deal for me.
+[01:39:32 --> 01:39:34] If what you're saying is true
+[01:39:34 --> 01:39:36] you resurrected me from hell
+[01:39:36 --> 01:39:42] that David guy is still on tour isn't he?
+[01:39:42 --> 01:39:46] I don't want to debate that.
+[01:39:46 --> 01:39:48] Well there wouldn't be a debate would it?
+[01:39:48 --> 01:39:50] Who's David? You know that's not
+[01:39:50 --> 01:39:52] even...
+[01:39:52 --> 01:39:54] Don't ask that. Is his music good?
+[01:39:54 --> 01:39:57] Who is he?
+[01:39:57 --> 01:39:59] Nope.
+[01:39:59 --> 01:40:01] No.
+[01:40:01 --> 01:40:03] Can you tell me why the debate I had scheduled
+[01:40:03 --> 01:40:05] for September is
+[01:40:05 --> 01:40:07] he's not returning my calls.
+[01:40:07 --> 01:40:09] I was supposed to debate a major Republican influencer.
+[01:40:09 --> 01:40:11] And just next week...
+[01:40:11 --> 01:40:13] No, that's not...
+[01:40:13 --> 01:40:15] Krom?
+[01:40:15 --> 01:40:17] You're on a news show technically.
+[01:40:17 --> 01:40:21] Look at the fucking news.
+[01:40:21 --> 01:40:23] It was a big event.
+[01:40:23 --> 01:40:29] It was at a college and everything.
+[01:40:29 --> 01:40:31] What am I saying?
+[01:40:31 --> 01:40:33] Can you just explain it? No!
+[01:40:33 --> 01:40:35] I cannot.
+[01:40:35 --> 01:40:37] I'm not going to get recorded explaining that to you.
+[01:40:37 --> 01:40:39] Just keep saying things until maybe someone
+[01:40:39 --> 01:40:41] makes you get off the air again.
+[01:40:41 --> 01:40:46] And then it's a win for everybody.
+[01:40:46 --> 01:40:49] I didn't see him down there. She who?
+[01:40:49 --> 01:40:51] Down in Pennsylvania?
+[01:40:51 --> 01:40:53] That's where it's supposed to be.
+[01:40:53 --> 01:40:55] You know what? That's where I said it.
+[01:40:55 --> 01:41:01] I flew down to Pennsylvania to shut up.
+[01:41:01 --> 01:41:03] We got all the time we had. We got to go.
+[01:41:03 --> 01:41:05] What an untrigh-up but return.
+[01:41:05 --> 01:41:07] Jesus.
+[01:41:07 --> 01:41:09] It's supposed to be back in the swing of things.
+[01:41:09 --> 01:41:11] You can't even get your fucking reality straight.
+[01:41:11 --> 01:41:14] Now you're going to kill the show
+[01:41:14 --> 01:41:16] with your fucking craziness.
+[01:41:16 --> 01:41:18] This is all your fault.
+[01:41:18 --> 01:41:20] And that's what I want to leave you all with.
+[01:41:20 --> 01:42:23] We'll see you soon. Bye-bye.
+[01:42:23 --> 01:42:25] Guys, there was a town hall request
+[01:42:25 --> 01:42:27] a while ago
+[01:42:29 --> 01:42:31] that I was unable to meet at the time.
+[01:42:31 --> 01:42:33] Which reminded me that there was a fully broken
+[01:42:33 --> 01:42:35] segment on the screen
+[01:42:35 --> 01:42:37] that I had no choice but to fix.
+[01:42:37 --> 01:42:39] It was several weeks ago.
+[01:42:39 --> 01:42:41] But we're back.
+[01:42:41 --> 01:42:45] We're back in the town hall
+[01:42:45 --> 01:42:47] with our live studio audience
+[01:42:47 --> 01:42:49] as you can hear absolutely losing their minds
+[01:42:49 --> 01:42:51] because they get to ask the questions.
+[01:42:51 --> 01:42:53] You can ask the questions
+[01:42:53 --> 01:42:55] by typing
+[01:42:55 --> 01:42:57] exclamation point
+[01:42:57 --> 01:42:59] T followed by an H.
+[01:42:59 --> 01:43:01] There was supposed to be a graphic on stream.
+[01:43:01 --> 01:43:03] But we forgot.
+[01:43:03 --> 01:43:05] But exclamation point T H followed by your question
+[01:43:05 --> 01:43:07] or comment
+[01:43:07 --> 01:43:09] will put you in line
+[01:43:09 --> 01:43:11] to ask your very own question
+[01:43:11 --> 01:43:13] here at the bin town hall.
+[01:43:13 --> 01:43:15] Now in the future
+[01:43:15 --> 01:43:17] you'll be able to request
+[01:43:17 --> 01:43:19] whatever our guests are for the
+[01:43:19 --> 01:43:21] for the day if you
+[01:43:21 --> 01:43:23] ask for this segment.
+[01:43:23 --> 01:43:25] But because you have no idea what the segment is
+[01:43:25 --> 01:43:27] and why should you
+[01:43:27 --> 01:43:29] we just scheduled to guest today.
+[01:43:29 --> 01:43:31] Coming in all the way from I'm assuming Texas
+[01:43:31 --> 01:43:33] or I guess he lives in LA now
+[01:43:33 --> 01:43:35] it's chat.
+[01:43:35 --> 01:43:37] That's right. I'm here at the town halls
+[01:43:37 --> 01:43:39] and ready to answer all
+[01:43:39 --> 01:43:41] of your questions.
+[01:43:41 --> 01:43:43] Pull no punches with me because I'm
+[01:43:43 --> 01:43:46] so ready to answer.
+[01:43:46 --> 01:43:48] That's great chat. Pleasure to be
+[01:43:48 --> 01:43:50] of of here.
+[01:43:50 --> 01:43:52] Hi.
+[01:43:52 --> 01:43:54] Oh really.
+[01:43:54 --> 01:43:56] Also
+[01:43:56 --> 01:43:58] because
+[01:43:58 --> 01:44:00] I'm short notice.
+[01:44:00 --> 01:44:02] I don't know where they're from probably like
+[01:44:02 --> 01:44:04] the LA suburbs
+[01:44:04 --> 01:44:06] it's Darfus.
+[01:44:06 --> 01:44:08] That's right. I'm well not
+[01:44:08 --> 01:44:10] actually from Arizona.
+[01:44:10 --> 01:44:12] What's that?
+[01:44:12 --> 01:44:14] And thanks for giving it up for me everybody.
+[01:44:14 --> 01:44:16] It's me your favorite
+[01:44:16 --> 01:44:21] your favorite Darfus.
+[01:44:21 --> 01:44:23] Yes. Okay.
+[01:44:23 --> 01:44:25] Well let's get into it.
+[01:44:25 --> 01:44:27] Are there rules to this?
+[01:44:27 --> 01:44:29] What is this?
+[01:44:29 --> 01:44:31] The town halls.
+[01:44:31 --> 01:44:33] People ask questions and you're both
+[01:44:33 --> 01:44:35] supposed to give answers.
+[01:44:35 --> 01:44:37] And what does one of us win?
+[01:44:37 --> 01:44:39] How does this...
+[01:44:39 --> 01:44:41] I guess we could have set up something like that.
+[01:44:41 --> 01:44:43] We already have a debate show.
+[01:44:43 --> 01:44:45] This is more of an open forum.
+[01:44:45 --> 01:44:47] Maybe we'll eventually do a breakdown
+[01:44:47 --> 01:44:53] with a post or something to see.
+[01:44:53 --> 01:44:55] There's a lot happening already.
+[01:44:55 --> 01:44:57] Jack.
+[01:44:57 --> 01:44:59] I'm a jam 300 shiny tasty coins
+[01:44:59 --> 01:45:01] and I've been dying to say this.
+[01:45:01 --> 01:45:03] I'm a bad man
+[01:45:03 --> 01:45:05] I never played.
+[01:45:05 --> 01:45:07] You know except for the one we finally beat Medicare Ex
+[01:45:07 --> 01:45:09] but everything turned out okay right?
+[01:45:09 --> 01:45:11] Dodge
+[01:45:11 --> 01:45:13] D.
+[01:45:13 --> 01:45:15] It sure did turn out alright Mr. President.
+[01:45:15 --> 01:45:17] Give it up for the President everybody.
+[01:45:17 --> 01:45:21] He did his best.
+[01:45:21 --> 01:45:23] He beat Medicare.
+[01:45:23 --> 01:45:25] How did he do it?
+[01:45:25 --> 01:45:27] How did he beat it?
+[01:45:27 --> 01:45:29] He just did it.
+[01:45:29 --> 01:45:31] Alright. Let's get into it.
+[01:45:31 --> 01:45:34] questions submitted you can submit as many questions as you want. Exclamation point,
+[01:45:35 --> 01:45:41] TH is how you do it. Let's see who's up first with a question.
+[01:45:42 --> 01:45:56] This, this, this. Didn't quite work. Man, I don't really think that's a...
+[01:45:56 --> 01:45:57] We were looking for an actual question.
+[01:45:59 --> 01:46:05] I mean, well what do you mean by test, test, test?
+[01:46:16 --> 01:46:21] Okay, and then she didn't really have one I guess. All right, never mind.
+[01:46:21 --> 01:46:24] Let's just go with the next question. Who else has a question for us?
+[01:46:28 --> 01:46:32] Bagruse. Okay, if we could just get a couple less questions that are related to
+[01:46:33 --> 01:46:40] completely nonsensical two-word things, that would be fantastic. So next time we'll get to your
+[01:46:40 --> 01:46:57] question if you have a different question. Like this. Sorry, like what? Like this. You like this?
+[01:46:57 --> 01:47:01] Me too. I like what you put. I like your eye patch. I do also like your eye patch.
+[01:47:01 --> 01:47:07] I didn't sense much of a question or even a comment there, but agreed? Well, what are you
+[01:47:07 --> 01:47:13] agreeing with? I just generally agree like this. Yeah, like I get it like this. And I also get it.
+[01:47:13 --> 01:47:24] Next question, please. When is Gizbo gonna fix the wall? Rats are still getting out and I
+[01:47:24 --> 01:47:31] want to get something out of the refrigerator. When is Gizbo gonna fix...
+[01:47:31 --> 01:47:41] When is Gizbo gonna fix the wall? Rats are still getting out and I want to get something out of the refrigerator.
+[01:47:41 --> 01:47:46] Um, who is... Yeah, that's a great question. Who is Gizbo? I think they mean Gizbo.
+[01:47:46 --> 01:47:52] That was our... That's one of the maintenance guys in the building. How come I haven't...
+[01:47:53 --> 01:47:58] I don't know. I don't know. Is your... Look, my name is Marfis Darfis. That's your name.
+[01:47:58 --> 01:48:02] My name is Marfis Darfis. I don't know that much about this stuff. So happy to answer any
+[01:48:02 --> 01:48:09] questions about stuff that I like. It's like about me? And now... But I will say I think Tuesday.
+[01:48:09 --> 01:48:14] Next Tuesday? Did you talk to him? No, I'm just like guessing. I'm just gonna say next...
+[01:48:14 --> 01:48:18] And if you're listening Gizbo, then we're gonna hold you to that. So next Tuesday.
+[01:48:19 --> 01:48:25] Does that answer your question? I can't really tell if that answered his question at all. But,
+[01:48:25 --> 01:48:27] okay, whatever. Next question, please.
+[01:48:40 --> 01:48:52] That is a really good question. And thank you for singing it. That is the Texas way. That's the Texas
+[01:48:52 --> 01:48:57] way. You don't know that? It is. Yeah, no, both of you are correct. If you're gonna ask
+[01:48:57 --> 01:49:03] question about Texas, it is polite to sing it. Um, no, it is onto itself, actually. Um,
+[01:49:03 --> 01:49:09] it's a little too big of a deal just to be contained by one cardinal direction. Texas
+[01:49:09 --> 01:49:15] is actually its own cardinal direction called Touth. It starts with a T for Texas. And we're part of the
+[01:49:15 --> 01:49:22] Touth. It's not an alien thing. It's like a Texas thing. I'm gonna say it is part of the South,
+[01:49:22 --> 01:49:27] because it's like part of the Southern United States. And I think that's how that works. I do think,
+[01:49:27 --> 01:49:32] Darfus might be honest. Then you're both wrong. You are both wrong, but it is an excellent
+[01:49:32 --> 01:49:36] question. And thank you so much for asking. Did you have another one? Oh, you... Nope.
+[01:49:36 --> 01:49:38] Okay, sinking away. That's fine.
+[01:49:45 --> 01:49:51] Is Arizona hot? You all can ask for the record. You all can ask right away when you stand up,
+[01:49:51 --> 01:49:55] if you want. Now, I like the delay. Let's me kind of take the person in first.
+[01:49:56 --> 01:50:03] Is Arizona hot? Yes. Not as hot as Texas. I don't know if that's true. I think it's plenty
+[01:50:03 --> 01:50:09] hot in Arizona. It can get just as steamy. If anything, it's more arid. I used to have
+[01:50:09 --> 01:50:16] a friend named Arid, actually. He was very funny. What? His name was Arid. He owned a bunch of spiders,
+[01:50:16 --> 01:50:20] and he used to put them in people's cereal boxes, and you'd pour it your cereal, and there'd be a
+[01:50:20 --> 01:50:29] big spider in there. And you'd say, Arid, got us. Arid, Aridophobia. Does that answer your question?
+[01:50:31 --> 01:50:48] I guess it did. He's gone. Um, is I mean, Darfus, is that something you'd be into? No,
+[01:50:48 --> 01:50:57] I'd really prefer not to be killed. And I will defend myself. I've actually got a lot of upper body
+[01:50:57 --> 01:51:06] strength, and I have, like, kind of, I've been told I kind of have, like, what was the word?
+[01:51:08 --> 01:51:17] Ribarded strength or something? Reparded strength? That's what they used to say. I hadn't
+[01:51:17 --> 01:51:23] in high school. So don't mess with me, is my point. I'm a man of peace.
+[01:51:25 --> 01:51:31] Just don't keep searching for the word. I was just asking. Yeah, I really don't, please don't finish.
+[01:51:33 --> 01:51:38] Maybe we just move on. Well, that's a no from us. I think we could have just said no.
+[01:51:39 --> 01:51:45] Just that that's a, oops. Are Peter and Grandman dead?
+[01:51:45 --> 01:51:54] Are Peter and Grandman dead? It's probably more of a Munch question or a Dave question or a Gizbo question.
+[01:51:55 --> 01:51:59] I'm going to assume Peter is dead because he had a, that's the stench of a corpse at all times,
+[01:51:59 --> 01:52:05] and I don't think you can live that long looking like how he looked. And I don't know who either of
+[01:52:05 --> 01:52:13] those people are. Okay, not even Grandman. Oh, I do know Grandman. Is he okay? I don't know. What?
+[01:52:14 --> 01:52:20] Grandman. He's Grandman's a lot for sure. Nothing can kill Grandman that easily. So
+[01:52:22 --> 01:52:27] maybe Peter's dead. I honestly, I don't know. Looks like we have another question there. Yes,
+[01:52:27 --> 01:52:42] you there. Hello? Yes, anybody? That one's a little unsettling. If
+[01:52:46 --> 01:52:54] are you okay, sir? Sir, I think they're a little shy today.
+[01:52:54 --> 01:52:59] Well, he has got a mic, so we could hear him. Well, anyway, I'm actually a skintist, so
+[01:53:00 --> 01:53:06] jokes on you. I'm one of the smartest. Skiantifically proven to be, I'm one of the guys that's
+[01:53:06 --> 01:53:15] considered to be one of the smartest to ever be a guy. And I'm pretty dumb. So I, I guess I agree.
+[01:53:16 --> 01:53:28] Next question, please. Who decided what praises Munch and Crump can redeem their points for?
+[01:53:29 --> 01:53:36] Well, do you have an answer for that, Chet? Just if there's any questions about me,
+[01:53:38 --> 01:53:45] mostly I know about myself. But are there prizes? Is that a thing, guys? Munch seems to have made a
+[01:53:45 --> 01:53:50] prize drawer according to him. And is that open season? I would also like to get in on the prize
+[01:53:50 --> 01:53:59] drawer if that's an option. I just, it's not me. I don't know. Okay, so it'd be nice if you
+[01:53:59 --> 01:54:04] knew this kind of stuff because the people, he asked a very reasonable question and it'd be nice if we
+[01:54:04 --> 01:54:11] could know. And also you are a very handsome man. If I, is that rude to say to comment on your appearance
+[01:54:11 --> 01:54:16] right away? Oh, shoot. I scared him off. I did scare him off. And that is probably fair.
+[01:54:21 --> 01:54:23] Can we go back in the wall to rescue Grandman?
+[01:54:24 --> 01:54:34] Chet, I will go to the wall to rescue Grandman. Yes. And I don't get the question.
+[01:54:35 --> 01:54:40] Chet, you're committing, please don't, please just don't commit to a date that you're going to do that.
+[01:54:41 --> 01:54:49] Tomorrow. Okay, I'll go. Nope, nope, no. Okay, but I will go rescue Grandman in the wall.
+[01:54:50 --> 01:54:52] That's the thing that I'm now committing to at some point.
+[01:54:54 --> 01:55:00] Fantastic. And when I go, I'm going to have a bunch of special abilities that have a lot of effects
+[01:55:00 --> 01:55:12] attached to them. Brand new ones. And I want a new stat. So to answer your question, that's how it's
+[01:55:12 --> 01:55:29] going to be. Right? Should I, if they cut the interest rates one more time?
+[01:55:31 --> 01:55:36] Is there any chance you could repeat that? Yeah, I didn't quite catch that.
+[01:55:39 --> 01:55:43] What's a different guy? Should the Fed cut the interest rates one more time?
+[01:55:44 --> 01:55:48] You stole that guy's question. What'd you do to the other guy? No, well, look,
+[01:55:48 --> 01:55:52] you have the same question. He repeated it for us. It's a little racist that you,
+[01:55:52 --> 01:55:58] I don't know what race that blonde guy was, but I guess I could have read the text next to you.
+[01:55:59 --> 01:56:15] Personally, I think interest shouldn't be rated because it's more of a vibe. I agree 100% with
+[01:56:16 --> 01:56:23] Morph, Morphus, Morphan Ranger, Marphus, Darfus. That's a very cool name. Thank you.
+[01:56:24 --> 01:56:27] So we're not like enemies in this. We don't have to fight each other.
+[01:56:28 --> 01:56:42] No, it's just a town hall. It's literally all this. Okay. Next question, I guess. Yes?
+[01:56:42 --> 01:56:45] Legalize weed. Question or a statement?
+[01:56:49 --> 01:56:55] Legalize weed. Okay, we're going a lot of it today. I think we did.
+[01:56:57 --> 01:57:03] It is? I don't really like to do drugs. I am a little traditional in that sense.
+[01:57:03 --> 01:57:14] I believe in a drug-free orgy. Okay. And I think weed's only good if it's in a protein powder.
+[01:57:14 --> 01:57:18] But cannabis protein is very actually an incredible pre-workup.
+[01:57:20 --> 01:57:23] You know, I'm not going to claim that they don't make cannabis protein, but
+[01:57:23 --> 01:57:29] hopefully they don't make cannabis protein. Well, they do. They do. So you're wrong.
+[01:57:33 --> 01:57:34] Bestial moment, chok.
+[01:57:34 --> 01:57:44] Well, if I may say, thank you for the incredible question. You asked it so well, and I like a lady
+[01:57:44 --> 01:57:51] with a deep voice. And I think you're really smart for asking that. Can we all smile at her
+[01:57:51 --> 01:58:04] real quick? I tried to smile, but I think you're being odd. Bestial mama joke. Your mother was so
+[01:58:04 --> 01:58:11] beautiful that she gave birth to an absolute angel. And I mean that inside and out, and I know we just
+[01:58:11 --> 01:58:20] met, but I just respect your mother so much. That's your joke. It's not a joke. And the
+[01:58:20 --> 01:58:28] jokes are offensive. And I've never told one. And thank you. Thank you so much. Thank you all.
+[01:58:28 --> 01:58:41] Thank you. Your mom is so, your mother is so French.
+[01:58:44 --> 01:58:54] She, I, do you know this guy? That's my brother. You know this guy, right? Yeah, that's Evan.
+[01:58:54 --> 01:58:58] You actually know him? Yeah. That ass? That's Evan. He's an only martyrs in the building.
+[01:58:58 --> 01:59:05] I know that. That's my friend. Is that your brother? Some people say we look like brothers.
+[01:59:06 --> 01:59:17] You both have very similar faces. Anyway, your mom is so French that she meant to
+[01:59:19 --> 01:59:24] take birth control, but she, but she had a kid. So I guess she bugged about it.
+[01:59:36 --> 01:59:38] She didn't like it. Shoot. Shoot, shoot, shoot.
+[01:59:52 --> 01:59:57] Uh, yes. And I am the Marshal of the Been Halloween Parade. Parade?
+[01:59:59 --> 02:00:04] Isn't that a thing? We've never done that before, chat. But I think we probably should this year,
+[02:00:04 --> 02:00:09] the Been Halloween Parade. Can you stop making big promises for segments that are tied to
+[02:00:09 --> 02:00:17] specific dates that are only a month away? 4.29 was the rating for my, for Darfus's joke.
+[02:00:17 --> 02:00:20] And because the Halloween parade I do would have gotten a 10. That's pretty good.
+[02:00:21 --> 02:00:25] That would be, I think, a failing grade anywhere. Anyway, Been Halloween Parade, October
+[02:00:26 --> 02:00:33] second? That's a good date. No, that's way too soon. Maybe chat. Maybe. I don't even know
+[02:00:33 --> 02:00:39] what that means. Been Halloween Parade. Next, excellent question, but a next question, please.
+[02:00:39 --> 02:00:49] We've got to keep moving here. Chat, what is your favorite part of skins and does it skins?
+[02:00:50 --> 02:00:54] Chat, do you understand the question? Of course I understand the question. You are saying it
+[02:00:54 --> 02:01:01] wrong. It's Skye-ance, but I don't want to be overly pedantic because skye, and typically
+[02:01:01 --> 02:01:05] speaking, as long as you understand what a word means, it's skye and typically relevant to the
+[02:01:05 --> 02:01:10] sentence that it exists in. And I think that answers your question because Skye's really applies to
+[02:01:10 --> 02:01:19] everything, from both the words to the wind. And yes, I don't, and that seemed like a question
+[02:01:19 --> 02:01:28] for him. So I agree and thank you for being a cute little fox. That's fun. Yes, you there. Next
+[02:01:28 --> 02:01:43] question. I like your hair. Why is hate suck so nice to condemn? That's a really good
+[02:01:43 --> 02:01:47] case. What's going on there? This is a town hall for you guys. I'm just the host, actually.
+[02:01:51 --> 02:01:56] Okay. I think it's a good question case and you do seem like the one to, well, we could ask Kendall,
+[02:01:57 --> 02:02:02] but nothing. I think something is going on to answer your very reasonable question.
+[02:02:03 --> 02:02:09] And I also really liked, I'm sad earlier, I like a deep voice. And the way you whisper,
+[02:02:09 --> 02:02:16] you remember whisper saw like whisper rap 2015 that she was popping off. I just, I was a huge fan.
+[02:02:17 --> 02:02:21] And I like the way you talk. And I don't mean any disrespect by that. And I also think it was fun
+[02:02:21 --> 02:02:27] how you were scary. Sometimes I like a little spooky trick. And that, and you did that for us.
+[02:02:28 --> 02:02:34] And next question you there. Oh, it's her again. Okay, this time, don't ask test, test, test,
+[02:02:34 --> 02:02:41] please. Chet should be like diggy and say you look so good. I'll suck on your that is the
+[02:02:45 --> 02:02:53] did you guys get that? What? Wait, what? If I can just say I do also like your voice.
+[02:02:54 --> 02:02:58] And I like your vibe and I do like what you're wearing. And I think it's cool. You asked test,
+[02:02:58 --> 02:03:05] test, test. What did you ask? She said it's very simple. Chet, she said, Chet should be like
+[02:03:05 --> 02:03:14] big and say you look so good. I'd suck your daddy's dick. So try that. Oh, hey, you look so good. I'd
+[02:03:14 --> 02:03:19] suck. No, it doesn't feel right. Miss, I'd love to, I'd love to make your dreams come true.
+[02:03:21 --> 02:03:26] But I don't, I don't do those types of, I don't do requests. I do
+[02:03:26 --> 02:03:35] some set. Well, no, I do your fan, I do your, I do your fantasies. There you go. How's that?
+[02:03:37 --> 02:03:42] No? Let's take one question from the other person that asked a dumb question or just anybody. Oh,
+[02:03:42 --> 02:03:50] you again, goddamn. Nothing for us. This is a test. We're back to test. So I think that'll
+[02:03:50 --> 02:03:55] probably do it for today. But great job, everyone. That's, Chet, you're free to go. Thank you
+[02:03:55 --> 02:04:00] so much for all of your hard work. Look, I'm happy to be the first one to ever answer a question
+[02:04:00 --> 02:04:06] correctly. And I did, I got 100% on this exam. And that means I've earned six months off and I'll
+[02:04:06 --> 02:04:14] see you all in what's in six months, September 22nd. Okay, bye bye. So that's, that's two days
+[02:04:14 --> 02:04:22] to go, Chet. And he's gone. And I also really thought I like the little fox. And I think test
+[02:04:22 --> 02:04:27] is a good question because everything is a test because people are asking you stuff.
+[02:04:30 --> 02:04:40] That was your goodbye? Oh, yep, I guess it was. Okay. Well, that's what this segment is. You can,
+[02:04:40 --> 02:04:45] you'll be able to request it next time we do a stream here at the town hall. Thanks for hanging
+[02:04:45 --> 02:04:50] out, everybody. And we'll try this again. Maybe we'll add a little between question music.
+[02:04:51 --> 02:04:56] And maybe we'll make some kind of game out of it. I don't know. But now the town hall does work again.
+[02:04:56 --> 02:04:58] So we'll see you all soon.
+[02:06:26 --> 02:06:30] These legs keep your distance. I would never grab a crumble bottom. I would never
+[02:06:32 --> 02:06:39] watch. I mean, I would never be rude. Okay. Or whatever you're doing. Say, look, you're in
+[02:06:39 --> 02:06:41] trouble for what? What did I do? Look, you're in trouble, young man.
+[02:06:43 --> 02:06:53] Where you're acting? Are you trying to hit on me? Oh, you send her into the wall.
+[02:06:54 --> 02:06:57] I'll go in there. You think I ever been in a while before?
+[02:06:58 --> 02:07:04] You used to back in then you moved to Seattle in 1992. What you'd have to live in a wall.
+[02:07:05 --> 02:07:11] There's nothing for us back in the greatest generation they called us in 1992. How old are you?
+[02:07:12 --> 02:07:18] I'm pretty old. If I was in my 30s and you know, because I don't look a day over 60.
+[02:07:19 --> 02:07:24] They're saying, you didn't have all these fancy ragamuffins you kids have nowadays.
+[02:07:25 --> 02:07:35] Back in 1996, you were lucky to get even a TV tuner. So you watch TV in bed.
+[02:07:37 --> 02:07:42] How old are you? Old enough to know that's a rude question.
+[02:07:43 --> 02:07:46] Okay. Well, look, what we do here, Grandma, crumble bottom is we watch
+[02:07:46 --> 02:07:53] internet videos. Pass. Well, we're going to do it. So you don't have to watch them.
+[02:07:53 --> 02:08:01] But you are here for some reason. I got lost. Is that an aging thing? No.
+[02:08:01 --> 02:08:10] Been that way since I was 16 back in 1982. Now I can do the math. Well, I was at the
+[02:08:10 --> 02:08:19] vibe I had in 1982 was 16. But that wasn't my age. Okay. You can submit
+[02:08:21 --> 02:08:27] videos in the bin thread at the discord, the cream team discord in the bin thread.
+[02:08:28 --> 02:08:32] And then and then within the bin thread amongst the web thread.
+[02:08:33 --> 02:08:37] What? You got to find a better way to describe that. And yet I never have and I never will.
+[02:08:37 --> 02:08:44] Okay, let's see what people have for us today. It's a video.
+[02:08:44 --> 02:09:08] It can't superserve you don't game boy advanced. Oh, there's a gorilla over there. I didn't even see him.
+[02:09:09 --> 02:09:15] Are you okay over there, young man? He's playing the tunes. You didn't even notice the gorilla?
+[02:09:15 --> 02:09:24] Didn't see him till just now. That can happen. So we don't all age gracefully. Some of us age
+[02:09:24 --> 02:09:31] into a truck and they get smushed up. It's a real meat grinder out there for the over 40 crowd over 40.
+[02:09:33 --> 02:09:39] Maybe if you're under 40, you're like my age. Maybe I am young man. No, then you can't call me young man.
+[02:09:46 --> 02:09:53] You're freaking me out in a good way. Let's just watch another one. See what else we got.
+[02:09:55 --> 02:10:18] Damn bro, I can't fit. What fell off? What fell off? Oh, it was on the whole time.
+[02:10:20 --> 02:10:32] Oh, it was in. Oh, oh. It used to happen back on dates. Anybody riding a ferris wheel?
+[02:10:32 --> 02:10:42] Or a roller coaster turns upside down. Back in 2002, it was a huge hazard. Every time somebody
+[02:10:42 --> 02:10:49] rode a roller coaster, any kids, you'd just hear the butt plugs raining down onto the fairground floor.
+[02:10:50 --> 02:11:00] Try again or late. Kind of impressive that he was doing that trick. Kind of
+[02:11:00 --> 02:11:03] as if he was doing that trick and his butt loosened enough for the butt plug to fall out.
+[02:11:03 --> 02:11:07] I feel like doing a trick like that, you would clench. Not if you're experienced.
+[02:11:11 --> 02:11:16] Guess you loosen up sometimes if you're stressed. If you've trained, then in stress,
+[02:11:16 --> 02:11:21] you train yourself to loosen. Say that's the kind of thing I know how to do.
+[02:11:22 --> 02:11:41] New sub goal. Let's just watch another one. What? What? It ate it?
+[02:11:41 --> 02:11:58] I relate to sperm whales because I'm big and fill in the rest. You are pretty tall. Yeah.
+[02:11:59 --> 02:12:09] taller than you little guy. I'm kind of tall. Not tall enough for me.
+[02:12:10 --> 02:12:15] It's pretty gross looking. I think nature's beautiful, even when it's being vicious.
+[02:12:15 --> 02:12:22] As long as something's going into a hole, I like it. I'm not going to interrogate that,
+[02:12:22 --> 02:12:26] what you just said at all. I'm going to click on another video. I'm just going to try to get
+[02:12:26 --> 02:12:30] through this today, grandma, because of the way you're being. Can't handle a little old school
+[02:12:30 --> 02:14:04] action. We've all been there. I didn't want to chest one thing, guys. I'm going to
+[02:14:04 --> 02:14:13] mutosaurus because I feel like I might be double. Everything is very loud. I guess I'm nuts.
+[02:14:17 --> 02:14:25] Turn up. What are you doing? Click it on things. Give me a sec.
+[02:14:41 --> 02:14:45] Okay. I guess everything's somehow turned way up. We're overly turnt today.
+[02:14:47 --> 02:14:52] I'm going to turn down our game a little bit. It's turnt up a lot. Check, check, check.
+[02:14:54 --> 02:14:55] Uh, check, check. Oh, check, check, check.
+[02:14:56 --> 02:15:01] That's a check, check, check. Is this how you spend your time? I'm here to watch
+[02:15:01 --> 02:15:09] crazy fucking videos. I want to see, I want to see splatter. What type of splatter? Any type.
+[02:15:10 --> 02:15:17] I want to see things go. What's your god? We can't watch violent. I didn't say violent.
+[02:15:17 --> 02:15:25] I said splatter. Well, we might run into that. We might run into that then at some point, but
+[02:15:25 --> 02:15:31] we can't. Let's just see what this next one is. Actually feel the tip. Has it come through?
+[02:15:31 --> 02:15:36] In slowly. That's too hard. Hang on. If I push back on the tip, I push back on the tip. Yeah,
+[02:15:36 --> 02:15:40] I can feel you pushing back against me, but because of this big rubber plug is here,
+[02:15:40 --> 02:15:45] I can't actually see where your hole is. Which hole is it? Is it the front one or the?
+[02:15:45 --> 02:15:48] Just went in my eye. Oh no. Is it the front hole or is there another one at the back? No,
+[02:15:48 --> 02:15:53] I need that hole because I need to stick that up from underneath. Yeah, well, does it have a,
+[02:15:53 --> 02:15:58] it's got the big rubber over it already, right? Yeah, but can you, if I stick it all the way and
+[02:15:58 --> 02:16:02] can you feel it or not? I can see it now that I'm bending back. No, but can you feel it? I can
+[02:16:02 --> 02:16:06] with the tip. Yeah, okay. So now you should be able to jam that. So now can you feel that?
+[02:16:06 --> 02:16:11] Oh, no, it's not quite lined up. Well, then you need to start pumping it with your hands a bit
+[02:16:11 --> 02:16:13] until you can feel it come through. It's the entire cup. Oh, there it goes.
+[02:16:13 --> 02:16:17] Oh, dude, where it went. Awesome. Did you feel that? Yep. Put that around the tip of it.
+[02:16:17 --> 02:16:22] So good. Screw that on it. Might need some juice. I put some juice on it in advance.
+[02:16:22 --> 02:16:25] There you go. That's not a dude. Is that on? Yeah, I'm not a, yep. Done. Yeah.
+[02:16:25 --> 02:16:29] We're watching the whole thing. Can you actually feel the tip? Oh, that's it.
+[02:16:30 --> 02:16:35] There's not any more of that. Is that one of your kinks? That's everybody's kink.
+[02:16:36 --> 02:16:45] Two meaty guys, good with screwdrivers. Plugging away. I just imagine I was a car.
+[02:16:48 --> 02:16:51] I think they might have been doing it. Honestly, though, we had a similar bit somebody
+[02:16:51 --> 02:16:55] post the other day and I do think those guys were acting it a little bit better.
+[02:16:55 --> 02:17:02] So I give their acting a 10. They were selling it. Or they're just very comfortable describing things
+[02:17:02 --> 02:17:07] accurately. Why am I so horny? Well, not because of questions like that.
+[02:17:08 --> 02:17:21] You know, you never know why the wind blows. You might ask why I did. I'm clicking on the next thing.
+[02:17:21 --> 02:17:27] We are heading back to school and facing the world's hardest amazing digital circus and
+[02:17:27 --> 02:17:32] poppy playtime quizzes. But first, we'll study by facing the amazing digital circus in real life
+[02:17:32 --> 02:17:39] and watching exclusive leaked Garden of Panpan poppy playtime chapter seven videos. If we get all
+[02:17:39 --> 02:17:45] of these questions right, we'll unlock a super amazing digital circus art video at the end. Let's go.
+[02:17:45 --> 02:18:00] RE3 Koning Inc. What did you just show us? Are you trying to break my mind? Because I've seen
+[02:18:02 --> 02:18:07] Dejaria types that'll fuck with your brain more than that. That's kid stuff. I think it is
+[02:18:07 --> 02:18:16] literally kids stuff to your point. I got to look this channel up because in a different time I
+[02:18:16 --> 02:18:22] would have thought that was a parody. But I think that's just the harsh reality of the current
+[02:18:22 --> 02:18:31] media landscape bearing down on us. Let's give them even more exposure because they earned it with
+[02:18:31 --> 02:18:39] those incredible graphics. Oh, they're on Instagram. That was an Instagram channel. Even better. I
+[02:18:39 --> 02:18:45] got to go to Instagram to find this. Stop it. Stop it. You're killing my buzz. You're drunk. Always.
+[02:18:46 --> 02:18:52] But I'm showboring up. If you're not careful and I get really horny when I'm sober. Oh, well,
+[02:18:53 --> 02:19:06] okay. The smiling grinners. Maybe this is, maybe that is a bit. I think it is a bit. That makes
+[02:19:06 --> 02:19:16] me feel a lot better if it is. The smiling grinners. Any of you hookers know how to bowl? Is it
+[02:19:16 --> 02:19:29] just like brain rotty stuff? Or was it someone reposting a different thing? That was a very
+[02:19:29 --> 02:19:43] zero worthy video. Unless what is it though? I need to know. Stop it. Not everything needs to be
+[02:19:43 --> 02:19:53] interrogated. Like I have three arms. No. I can't. You can't find it. It does seem I can't find it.
+[02:19:56 --> 02:20:07] Live and sleazy. If you know what the source of that is, I'm curious. Is there a new level of like,
+[02:20:07 --> 02:20:11] because I've talked about before, that I was kind of fascinated when I discovered that there was
+[02:20:11 --> 02:20:16] like a whole genre of YouTube just based around Spider-Man and Elsa kissing. And this feels like
+[02:20:16 --> 02:20:23] it's three layers deeper than that. Is it troll nonsense? I just can't tell if this is like
+[02:20:23 --> 02:20:29] a common style for kids content on YouTube. And I'd kind of like to know if that's the dark future. Oh,
+[02:20:29 --> 02:20:40] here it is. I found the original. The original post from Reckoning Inc. But I guess it's just this video.
+[02:20:40 --> 02:20:46] Facing the world's hardest amazing digital circus and poppy playtime quizzes. But first we'll study
+[02:20:46 --> 02:20:51] by facing the amazing digital circus in real life and watching exclusively the garden of pan pan
+[02:20:51 --> 02:20:57] poppy playtime chapter seven videos. If we get all of these questions right, we'll unlock a super
+[02:20:57 --> 02:21:05] amazing digital circus art video at the end. Let's go. Hey, we are heading back to school and facing the world.
+[02:21:06 --> 02:21:12] What is this? It's got to be a YouTube channel, right? It's posted, but it's I think this is a
+[02:21:12 --> 02:21:18] repost from this like meme account. I think this might be a straight up YouTube channel.
+[02:21:19 --> 02:21:28] And I need to find it. Why? I need to know. I'll do it on my own time. Don't. I'll do it on my own time.
+[02:21:28 --> 02:21:38] And then I'll report back. Stop it. We'll find out. No, not for that reason. Click original audio.
+[02:21:40 --> 02:21:45] I don't even know how to do that. It's not on TikTok, so I don't think I can do that.
+[02:21:46 --> 02:21:50] Unless you can do that on Instagram now. Also, I'm not on the app. I'm on the fucking shitty
+[02:21:50 --> 02:21:55] web client that all these social apps have. You're pretty invested in the mystery.
+[02:22:01 --> 02:22:06] All right. I'm just going to type back to school amazing digital circus
+[02:22:07 --> 02:22:22] poppy playtime. Anyone else obsessed with the huggy wuggy poppy's playtime? What?
+[02:22:26 --> 02:22:28] I don't know what the fuck this is. There's a TikTok of it too.
+[02:22:32 --> 02:22:36] We are heading back to school and facing the world's hardest. I mean,
+[02:22:37 --> 02:22:41] tell me what the source of this is. You bastards. It's a YouTube show. Yeah,
+[02:22:41 --> 02:22:45] I just need to find out what one this is a this is a new low.
+[02:22:46 --> 02:22:54] I feel like we've discovered a new low and I need to be aware of the genre.
+[02:22:55 --> 02:22:58] It's basically brainwrap. But this is like gross on a level that I'm
+[02:22:59 --> 02:23:13] kind of legitimately impressed by. Oh God. I guess this is like a what? I can't find it.
+[02:23:15 --> 02:23:18] But I guess there's a the digital circus I guess is a thing for kids.
+[02:23:19 --> 02:23:24] There's something here with 31 million views that just is the amazing digital circus official
+[02:23:24 --> 02:23:35] trailer. Like what the fuck is this? Welcome to the amazing digital circus. My name is Cain.
+[02:23:35 --> 02:23:41] I'm your ringmaster and I'm here to show you the most jaw-dropping hard stuffing. This has 394 million
+[02:23:41 --> 02:23:56] views. Welcome to the amazing digital circus. I've never heard of this. My name is Cain.
+[02:23:56 --> 02:24:01] I'm your ringmaster and I'm here to show you the most jaw-dropping hard stuffing mind-bending
+[02:24:01 --> 02:24:06] pervanalia you've ever I don't care about this as much. This makes some sense to my brain. It's some
+[02:24:06 --> 02:24:16] kind of weird kids and or adult or I can't tell a thing. I'm more curious about what those other
+[02:24:16 --> 02:24:24] two kids were doing. It's famous. I never heard. I mean I think I'm out of the age group. I think.
+[02:24:24 --> 02:24:29] I don't know what it is. I'm only caring about these two guys with their horrible bus animation.
+[02:24:30 --> 02:24:30] Thank you box world
+[02:24:30 --> 02:24:40] Tcha. I figured it out for me, possibly today, we are we're seeing all
+[02:24:40 --> 02:24:52] probably played on Yup 4 characters, you�
+[02:24:52 --> 02:24:57] you in a
+[02:24:57 --> 02:25:00] nice appointed 4K a new footage of Mr.crowd captain even doughy the little?
+[02:25:00 --> 02:25:04] Okay, but that's just normal-ish.
+[02:25:05 --> 02:25:08] Don't do my voice. That's just normal-ish.
+[02:25:09 --> 02:25:12] I need to see more of these horrendous animations they make.
+[02:25:13 --> 02:25:15] Look at the horror of their thumbnails though.
+[02:25:16 --> 02:25:19] Goo Goo Gaga and their both babies.
+[02:25:21 --> 02:25:26] Extreme Try Not to Cry Challenge impossible. We can go to their most popular videos.
+[02:25:26 --> 02:25:30] What's their their most popular video?
+[02:25:31 --> 02:25:33] Deleted Linky Box music video?
+[02:25:56 --> 02:26:03] Suddenly Boss Baby shows up right there next to me says you want to be more free hop up in my time machine
+[02:26:03 --> 02:26:06] Sat down in the box. He said crisscross apple sauce
+[02:26:06 --> 02:26:13] I must show you how to find yourself when you feel lost these machines a little new hope you keep your fingers crossed
+[02:26:13 --> 02:26:16] Now let's start you to a baby like me and be a boss
+[02:26:17 --> 02:26:20] Goo Goo Gaga turn into a baby
+[02:26:20 --> 02:26:23] Okay, I'm with my friends and together we go crazy
+[02:26:24 --> 02:26:27] Into a time machine and now we have fun
+[02:26:27 --> 02:26:29] This is probably closer to my rhymes than I'd like to admit
+[02:26:31 --> 02:26:34] Open eyes, I'm a little baby hoping that I'm not going crazy
+[02:26:34 --> 02:26:40] Everything seems different lately whole world starts to amaze me everything's brave. Well, I we gotta see the whole thing
+[02:26:40 --> 02:26:44] Hey, hey, look it's all blue. Hey, I'm in such a good mood
+[02:26:44 --> 02:26:50] Hey, this could be me in the ocean and I'm in the deep and baby sharks went up to me with all his
+[02:26:50 --> 02:26:52] In a diaper
+[02:26:53 --> 02:26:57] Little legs doing right being kind from a baby up to the end
+[02:26:58 --> 02:27:05] Reaching for a snack. I look over and it's jack-jack. He said follow me. We're moving forward. Don't you ever look back?
+[02:27:05 --> 02:27:08] Pull up in the sky. He said you already know
+[02:27:08 --> 02:27:10] Life's a lot like me incredible
+[02:27:12 --> 02:27:15] Do go go go turn into a baby
+[02:27:16 --> 02:27:18] Friends and together we go crazy
+[02:27:20 --> 02:27:22] Machine and now we have fun
+[02:27:22 --> 02:27:24] I'm baby jack jack baby shark
+[02:27:24 --> 02:27:38] Oh, I can do this. I am quit. That's a good choice. I quit this show. I resigned
+[02:27:39 --> 02:27:42] There's the last you'll ever see of grandma crumble bottom
+[02:27:43 --> 02:27:49] Grandma, I'm sorry. We had to watch all two minutes of that. It's only a minute 55 seconds
+[02:27:50 --> 02:28:00] That is 23 million views. You think 23 million babies are it is for kids. Why?
+[02:28:00 --> 02:28:05] Well, it's about babies kids like colors
+[02:28:07 --> 02:28:09] That's unsettling I
+[02:28:10 --> 02:28:13] Get the that kids would it's fine to make children's entertainment
+[02:28:13 --> 02:28:19] But you have to do you have to do better than that. I think you have to I think it's your responsibility
+[02:28:20 --> 02:28:25] Linky box world to do better than that and I think they should feel bad
+[02:28:26 --> 02:28:30] It feels like fetish content
+[02:28:31 --> 02:28:33] Some I think because of this adult
+[02:28:33 --> 02:28:40] Ish it's like 20 year old at least I'm guessing 18 year old
+[02:28:41 --> 02:28:48] Guys probably older. I just it's so unsettled the aesthetic is so unsettling
+[02:28:49 --> 02:28:57] Yeah, it has a dark web. But it immediately like I said it immediately reminds me of the spider-man Elsa thing I
+[02:28:59 --> 02:29:02] In the defense of the next generation while I wish they wouldn't watch that
+[02:29:03 --> 02:29:07] Only 23 million of them did globally and also I don't even think they would know what they're watching
+[02:29:07 --> 02:29:10] I think they just be like I am a baby
+[02:29:11 --> 02:29:15] You think babies have the thought I'm a baby. Well, like if they're five or six
+[02:29:17 --> 02:29:21] How young are or if they're three when do they give kids phones now right away?
+[02:29:22 --> 02:29:26] Fresh out of the placenta. You don't come out of the placenta as a baby
+[02:29:27 --> 02:29:29] They reach in the placenta and they pull out a phone
+[02:29:29 --> 02:29:31] And they tape it to the kids hands
+[02:29:35 --> 02:29:39] Anyway, that's definitely got views from baby tiktok. I'm assuming does it it's comments are turned off
+[02:29:40 --> 02:29:43] Which is the thing on most children's videos
+[02:29:44 --> 02:29:46] But I wouldn't want to know what the comments are anyway
+[02:29:46 --> 02:29:53] We need to redo the cream chifer like that video, you know, everyone's saying that I could do it
+[02:29:53 --> 02:29:57] I don't I'm pretty sure that's not a couple of it
+[02:29:58 --> 02:30:02] That's a that's a that's one sub goal. I just don't think we can make
+[02:30:03 --> 02:30:08] If I make baby wraps, they have to be better for kids than that I
+[02:30:09 --> 02:30:11] Need to I need to study children's brains
+[02:30:12 --> 02:30:18] That doesn't sound better. I need to I need a children's brain scientist. Tell me how we can fix them
+[02:30:19 --> 02:30:23] What wraps can I make that will heal the next generation?
+[02:30:24 --> 02:30:27] Peter and crumb baby wrap shumgle
+[02:30:27 --> 02:30:32] If I were to if I was to earnestly try to make stuff for like babies, I would I would feel a responsibility
+[02:30:32 --> 02:30:36] To not make that that's for sure. Okay, we need a palette cleanser
+[02:30:37 --> 02:30:38] And this might not be it
+[02:30:38 --> 02:30:42] We're gonna go till we hit a video that doesn't make us feel totally sick and then we'll stop
+[02:30:42 --> 02:30:49] All right, here's that classic cheese burger you asked for oh, thank you, but I didn't want cheese
+[02:30:49 --> 02:30:57] All right, I'll get that fix for you right now. I bet you thought I was gonna throw this cheese burger
+[02:30:57 --> 02:30:59] But that's not the top of restaurant. We are
+[02:31:00 --> 02:31:09] You know it's simple, but it was effective in my opinion
+[02:31:10 --> 02:31:15] That's what we all needed right now in this moment is a slap
+[02:31:17 --> 02:31:18] Yeah
+[02:31:18 --> 02:31:23] That's why I say you got to hit people. Well, that's not what I'm saying, but it's what I'm saying sometimes
+[02:31:23 --> 02:31:25] He's not people
+[02:31:27 --> 02:31:29] And they'll thank you for it
+[02:31:29 --> 02:31:31] Don't thank me
+[02:31:31 --> 02:31:38] Just a little face bank. Thank you for the smorgasbord of
+[02:31:38 --> 02:31:44] Options that we received today the bounty of chat a lot of high-scoring videos and then maybe I
+[02:31:46 --> 02:31:49] Don't think I can prove this but one of the worst videos we've ever watched which was just me
+[02:31:50 --> 02:31:52] In the fence of chat with me doing that to us
+[02:31:53 --> 02:31:55] although live and sleazy understands
+[02:31:55 --> 02:31:58] The things that will worm their way into my brain and
+[02:31:59 --> 02:32:06] Credit to live and sleazy for finding that lanky box video and sending us we could keep going down this rabbit hole
+[02:32:06 --> 02:32:08] But I'll spare you guys
+[02:32:08 --> 02:32:12] But just just know you could be watching roblox k-pop demon hunters hide and seek
+[02:32:13 --> 02:32:20] And that's just from you order their 22 million million view hit video games and roblox with zero budget
+[02:32:21 --> 02:32:28] That could be you case. Oh, it wasn't sorry. I'm on stream remote
+[02:32:29 --> 02:32:35] So I can't see everyone's name psych or apologies. You understand how my horrible brain works
+[02:32:35 --> 02:32:39] Why haven't sleazy also does but in this case psych or was
+[02:32:40 --> 02:32:48] Cycler was fishing deep into the YouTube hole and pulled out well the Instagram hole which then fished this deep into the YouTube hole
+[02:32:49 --> 02:32:51] Oh, I gotta get this off my screen
+[02:32:51 --> 02:32:55] That aesthetic does legitimately make my stomach feel like
+[02:32:56 --> 02:32:58] It has a problem
+[02:32:58 --> 02:33:02] So thank you psych or I pretty I anytime someone finds a
+[02:33:03 --> 02:33:05] a new low for children's
+[02:33:05 --> 02:33:12] YouTube content. I like to know about it and now I feel like we do I bet it gets even worse than that. Oh, yeah for sure
+[02:33:13 --> 02:33:15] Okay
+[02:33:16 --> 02:33:18] Someone who cares more about money can cut I mean God
+[02:33:20 --> 02:33:24] You do need to hire like an animator maybe to make that maybe
+[02:33:25 --> 02:33:30] Maybe but you could we could definitely make one of those and
+[02:33:31 --> 02:33:33] less than an afternoon probably
+[02:33:34 --> 02:33:37] Without minus the animation you can only make a wrap in like ten minutes
+[02:33:39 --> 02:33:42] Tempting but I think I would rather
+[02:33:44 --> 02:33:51] Be poisoned to death. Oh, we can make Fiona do it though. I would watch the other two
+[02:33:52 --> 02:33:57] Yeah, I'm sure it gets lower, but that's pretty rough. That's pretty rough
+[02:33:58 --> 02:34:00] Okay, I think we're gonna call it
+[02:34:01 --> 02:34:06] Straight from the webs. We're leaving the stream from the webs
+[02:34:07 --> 02:34:17] There's nothing you can do you can only exit the stream through the webs actually because we're in the webs you dare me to do it
+[02:34:18 --> 02:34:20] dare me to drive
+[02:34:20 --> 02:34:25] Let's raid Ovali. I'll be back on Friday and then um
+[02:34:27 --> 02:34:30] Hopefully next week we'll be back to our usual streaming schedule. I
+[02:34:31 --> 02:34:35] Really spent more time on that RPG than I
+[02:34:36 --> 02:34:38] should
+[02:34:38 --> 02:34:39] Have probably
+[02:34:39 --> 02:34:43] So I had to take a little extra time this week to do other things, but next week I have no
+[02:34:46 --> 02:34:50] Fully insane deadlines. I've set for myself. So we should be back to the relatively normal
+[02:34:50 --> 02:34:52] goody-goody
+[02:34:53 --> 02:34:55] So we'll see you Friday
+[02:34:55 --> 02:34:57] For our regularly scheduled whatever this is
+[02:34:58 --> 02:35:00] Say hi to Ovali for me
+[02:35:00 --> 02:35:05] It's a oh fuck. I already forgot the name of that horrific YouTube channel
+[02:35:06 --> 02:35:08] Lanky box
+[02:35:08 --> 02:35:13] It's a lanky box raid be sure to type lanky box in chat in the hopes that
+[02:35:13 --> 02:35:19] Ovali is also poisoned by having to know about that existing or maybe she already does
+[02:35:19 --> 02:35:22] Maybe this is like the biggest children's entertainment group on the internet and I'm as
+[02:35:23 --> 02:35:25] Usual woefully behind the times
+[02:35:26 --> 02:35:28] Fill up her head with some of that baby rot slob
+[02:35:29 --> 02:35:31] Yeah
+[02:35:31 --> 02:35:36] Okay, thanks for hanging out everybody sorry for the late and slightly short stream, but we'll be back
+[02:35:37 --> 02:35:43] Back in action on Friday and tomorrow if you're a member of the of the patreon then I'll be on there with Kassim
+[02:35:44 --> 02:35:47] Until then see you later. Have a beautiful Wednesday. Bye. Bye everybody
+[02:35:48 --> 02:35:50] Jesus I am serious. I quit
+[02:35:51 --> 02:35:56] You're no one's making you be here. It's a court order actually we already have that gimmick
