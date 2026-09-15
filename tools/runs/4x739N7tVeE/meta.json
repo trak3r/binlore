@@ -1,0 +1,19 @@
+{
+  "vod_id": "4x739N7tVeE",
+  "title": "Quick Pre-Patron, Post Crumsplosion Stream",
+  "url": "https://www.youtube.com/watch?v=4x739N7tVeE",
+  "duration_seconds": 4881,
+  "duration": "1:21:21",
+  "timestamp": 1750291200,
+  "aired_at": "2025-06-19T00:00:00+00:00",
+  "date": "2025-06-19",
+  "ingested_at": "2026-09-15T04:40:30.079222+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "4x739N7tVeE",
+  "yt_url": "https://www.youtube.com/watch?v=4x739N7tVeE",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-06-19"
+}
