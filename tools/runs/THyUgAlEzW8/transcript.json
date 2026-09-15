@@ -1,0 +1,391 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "model_requested": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 310.62,
+  "chunk_seconds": null,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.47,
+      "end": 5.47,
+      "text": "Think we should be back now"
+    },
+    {
+      "id": 1,
+      "start": 5.75,
+      "end": 7.25,
+      "text": "mm-hmm"
+    },
+    {
+      "id": 2,
+      "start": 7.25,
+      "end": 12.49,
+      "text": "My gosh, I'm papita. I'm the dog that produces the show and now it is live"
+    },
+    {
+      "id": 3,
+      "start": 12.65,
+      "end": 18.49,
+      "text": "And I'm a dog papito put on the right jacket. All right. Oh my god. You know I haven't worn my fish tie in Dave"
+    },
+    {
+      "id": 4,
+      "start": 18.95,
+      "end": 22.46,
+      "text": "Where even is it? Oh"
+    },
+    {
+      "id": 5,
+      "start": 22.5,
+      "end": 24.74,
+      "text": "So unprofessional of me everyone. I'm so sorry"
+    },
+    {
+      "id": 6,
+      "start": 25.94,
+      "end": 31.98,
+      "text": "You didn't even need to refresh magic my fish tie"
+    },
+    {
+      "id": 7,
+      "start": 33.18,
+      "end": 35.86,
+      "text": "It's grown on me. This is probably why"
+    },
+    {
+      "id": 8,
+      "start": 39.14,
+      "end": 40.94,
+      "text": "There's so much bad news"
+    },
+    {
+      "id": 9,
+      "start": 40.94,
+      "end": 42.94,
+      "text": "So I'm not wearing this fish tie"
+    },
+    {
+      "id": 10,
+      "start": 43.34,
+      "end": 50.05,
+      "text": "Fish tie will will make us have good news. Oh my god. I can't get it on the fish tie is strangling me"
+    },
+    {
+      "id": 11,
+      "start": 50.05,
+      "end": 52.05,
+      "text": "Should I start wearing it like this?"
+    },
+    {
+      "id": 12,
+      "start": 52.05,
+      "end": 54.25,
+      "text": "This feels kind of more like a look for this string"
+    },
+    {
+      "id": 13,
+      "start": 55.05,
+      "end": 61.66,
+      "text": "We're going to the movies"
+    },
+    {
+      "id": 14,
+      "start": 62.74,
+      "end": 64.74,
+      "text": "It's so blousey"
+    },
+    {
+      "id": 15,
+      "start": 64.74,
+      "end": 66.74,
+      "text": "Why is it so blousey?"
+    },
+    {
+      "id": 16,
+      "start": 67.54,
+      "end": 69.54,
+      "text": "Good enough"
+    },
+    {
+      "id": 17,
+      "start": 69.66,
+      "end": 73.8,
+      "text": "Good enough"
+    },
+    {
+      "id": 18,
+      "start": 73.8,
+      "end": 79.4,
+      "text": "Eating the subs I need those but I need those I'm ever gonna do yodeling class"
+    },
+    {
+      "id": 19,
+      "start": 80.4,
+      "end": 82.4,
+      "text": "We also still have to go to the wall"
+    },
+    {
+      "id": 20,
+      "start": 82.88,
+      "end": 84.64,
+      "text": "which"
+    },
+    {
+      "id": 21,
+      "start": 84.64,
+      "end": 93.26,
+      "text": "It's still kind of it's not looking great over there. I don't love the way the wall looks"
+    },
+    {
+      "id": 22,
+      "start": 95.66,
+      "end": 97.66,
+      "text": "nuke the wall first"
+    },
+    {
+      "id": 23,
+      "start": 98.1,
+      "end": 100.1,
+      "text": "That's a popular idea lately"
+    },
+    {
+      "id": 24,
+      "start": 101.22,
+      "end": 105.9,
+      "text": "Free jolt yeah, I haven't been able to get access to any of my free jolt because the wall is so"
+    },
+    {
+      "id": 25,
+      "start": 106.46,
+      "end": 108.46,
+      "text": "Troubling to look at"
+    },
+    {
+      "id": 26,
+      "start": 112.22,
+      "end": 114.22,
+      "text": "Man"
+    },
+    {
+      "id": 27,
+      "start": 114.34,
+      "end": 121.14,
+      "text": "Guys sometimes sometimes the gods just don't cooperate with your stream. I"
+    },
+    {
+      "id": 28,
+      "start": 122.74,
+      "end": 127.34,
+      "text": "Did break Papito?"
+    },
+    {
+      "id": 29,
+      "start": 127.74,
+      "end": 129.54,
+      "text": "We're going"
+    },
+    {
+      "id": 30,
+      "start": 129.54,
+      "end": 131.54,
+      "text": "To try to fix it"
+    },
+    {
+      "id": 31,
+      "start": 132.42,
+      "end": 135.66,
+      "text": "Maybe it's just gonna be one of those days where my computer even I'm kind of"
+    },
+    {
+      "id": 32,
+      "start": 136.66,
+      "end": 140.18,
+      "text": "Maybe OBS just can't keep up with all this hot work today"
+    },
+    {
+      "id": 33,
+      "start": 140.7,
+      "end": 145.38,
+      "text": "Too much, you know also my my discord won't work"
+    },
+    {
+      "id": 34,
+      "start": 145.98,
+      "end": 153.22,
+      "text": "For some reason I can't load discord so I'm a little worried that maybe this computer is in the process of tapping out"
+    },
+    {
+      "id": 35,
+      "start": 154.3,
+      "end": 157.46,
+      "text": "Maybe it's time to waste a bunch of money on a new one"
+    },
+    {
+      "id": 36,
+      "start": 158.22,
+      "end": 159.98,
+      "text": "What's open?"
+    },
+    {
+      "id": 37,
+      "start": 159.98,
+      "end": 164.02,
+      "text": "45 programs. I mean honestly just the usuals the big thing that"
+    },
+    {
+      "id": 38,
+      "start": 164.98,
+      "end": 167.46,
+      "text": "Consumes my resources is a docker. I"
+    },
+    {
+      "id": 39,
+      "start": 168.22,
+      "end": 174.78,
+      "text": "Gotta run a certain program through docker and it fucks everything up, but let's see if we can fix Papito"
+    },
+    {
+      "id": 40,
+      "start": 175.18,
+      "end": 200.86,
+      "text": "Are you doing any better?"
+    },
+    {
+      "id": 41,
+      "start": 203.86,
+      "end": 205.86,
+      "text": "Okay"
+    },
+    {
+      "id": 42,
+      "start": 206.1,
+      "end": 208.86,
+      "text": "We're gonna try something that probably won't work"
+    },
+    {
+      "id": 43,
+      "start": 210.46,
+      "end": 212.46,
+      "text": "Got to turn it off and on"
+    },
+    {
+      "id": 44,
+      "start": 212.46,
+      "end": 213.66,
+      "text": "again"
+    },
+    {
+      "id": 45,
+      "start": 213.66,
+      "end": 226.28,
+      "text": "Or do I why is it like this today and it's not working. Oh"
+    },
+    {
+      "id": 46,
+      "start": 230.72,
+      "end": 232.72,
+      "text": "Boy everybody some days"
+    },
+    {
+      "id": 47,
+      "start": 234.48,
+      "end": 238.2,
+      "text": "Some days it's just out to get you well turned off again"
+    },
+    {
+      "id": 48,
+      "start": 239.44,
+      "end": 244.24,
+      "text": "Just drop it although on the PC. We could just do an all-case stream. I guess all case"
+    },
+    {
+      "id": 49,
+      "start": 244.8,
+      "end": 247.48,
+      "text": "All the day know it. Nope as I say I don't love that sounds"
+    },
+    {
+      "id": 50,
+      "start": 248.44,
+      "end": 250.44,
+      "text": "fucking awful"
+    },
+    {
+      "id": 51,
+      "start": 253.1,
+      "end": 255.1,
+      "text": "Was there a fucking windows update?"
+    },
+    {
+      "id": 52,
+      "start": 258.28,
+      "end": 261.32,
+      "text": "Okay, it's just me cutting to me in the same with the same face being like"
+    },
+    {
+      "id": 53,
+      "start": 262.32,
+      "end": 264.9,
+      "text": "That sounds about the same actually"
+    },
+    {
+      "id": 54,
+      "start": 265.52,
+      "end": 268.44,
+      "text": "Munch is still available. We could just do a me and munch stream"
+    },
+    {
+      "id": 55,
+      "start": 271.02,
+      "end": 276.62,
+      "text": "Thank you for the follow which as we chase that elusive positive follower ratio"
+    },
+    {
+      "id": 56,
+      "start": 277.54,
+      "end": 279.76,
+      "text": "You're doing your part rookie X-Play"
+    },
+    {
+      "id": 57,
+      "start": 280.66,
+      "end": 285.46,
+      "text": "And I appreciate it. It would just be you talking yourself"
+    },
+    {
+      "id": 58,
+      "start": 286.06,
+      "end": 288.3,
+      "text": "That sounds awful. Who would do that?"
+    },
+    {
+      "id": 59,
+      "start": 288.66,
+      "end": 296.62,
+      "text": "That trip is also available and he could talk to himself too. I am going to possibly have to reset my computer"
+    },
+    {
+      "id": 60,
+      "start": 297.06,
+      "end": 301.7,
+      "text": "So we might be down for a minute. I'm gonna try to fix it and then we'll do we'll do some stuff"
+    },
+    {
+      "id": 61,
+      "start": 301.7,
+      "end": 304.18,
+      "text": "We'll do a few things you can stick around great"
+    },
+    {
+      "id": 62,
+      "start": 304.54,
+      "end": 310.74,
+      "text": "Shouldn't be more than two minutes. We'll say and then I'll be back prepare for f's again. I just can't"
+    }
+  ],
+  "text": "Think we should be back now\nmm-hmm\nMy gosh, I'm papita. I'm the dog that produces the show and now it is live\nAnd I'm a dog papito put on the right jacket. All right. Oh my god. You know I haven't worn my fish tie in Dave\nWhere even is it? Oh\nSo unprofessional of me everyone. I'm so sorry\nYou didn't even need to refresh magic my fish tie\nIt's grown on me. This is probably why\nThere's so much bad news\nSo I'm not wearing this fish tie\nFish tie will will make us have good news. Oh my god. I can't get it on the fish tie is strangling me\nShould I start wearing it like this?\nThis feels kind of more like a look for this string\nWe're going to the movies\nIt's so blousey\nWhy is it so blousey?\nGood enough\nGood enough\nEating the subs I need those but I need those I'm ever gonna do yodeling class\nWe also still have to go to the wall\nwhich\nIt's still kind of it's not looking great over there. I don't love the way the wall looks\nnuke the wall first\nThat's a popular idea lately\nFree jolt yeah, I haven't been able to get access to any of my free jolt because the wall is so\nTroubling to look at\nMan\nGuys sometimes sometimes the gods just don't cooperate with your stream. I\nDid break Papito?\nWe're going\nTo try to fix it\nMaybe it's just gonna be one of those days where my computer even I'm kind of\nMaybe OBS just can't keep up with all this hot work today\nToo much, you know also my my discord won't work\nFor some reason I can't load discord so I'm a little worried that maybe this computer is in the process of tapping out\nMaybe it's time to waste a bunch of money on a new one\nWhat's open?\n45 programs. I mean honestly just the usuals the big thing that\nConsumes my resources is a docker. I\nGotta run a certain program through docker and it fucks everything up, but let's see if we can fix Papito\nAre you doing any better?\nOkay\nWe're gonna try something that probably won't work\nGot to turn it off and on\nagain\nOr do I why is it like this today and it's not working. Oh\nBoy everybody some days\nSome days it's just out to get you well turned off again\nJust drop it although on the PC. We could just do an all-case stream. I guess all case\nAll the day know it. Nope as I say I don't love that sounds\nfucking awful\nWas there a fucking windows update?\nOkay, it's just me cutting to me in the same with the same face being like\nThat sounds about the same actually\nMunch is still available. We could just do a me and munch stream\nThank you for the follow which as we chase that elusive positive follower ratio\nYou're doing your part rookie X-Play\nAnd I appreciate it. It would just be you talking yourself\nThat sounds awful. Who would do that?\nThat trip is also available and he could talk to himself too. I am going to possibly have to reset my computer\nSo we might be down for a minute. I'm gonna try to fix it and then we'll do we'll do some stuff\nWe'll do a few things you can stick around great\nShouldn't be more than two minutes. We'll say and then I'll be back prepare for f's again. I just can't",
+  "text_timestamped": "[00:03 --> 00:05] Think we should be back now\n[00:05 --> 00:07] mm-hmm\n[00:07 --> 00:12] My gosh, I'm papita. I'm the dog that produces the show and now it is live\n[00:12 --> 00:18] And I'm a dog papito put on the right jacket. All right. Oh my god. You know I haven't worn my fish tie in Dave\n[00:18 --> 00:22] Where even is it? Oh\n[00:22 --> 00:24] So unprofessional of me everyone. I'm so sorry\n[00:25 --> 00:31] You didn't even need to refresh magic my fish tie\n[00:33 --> 00:35] It's grown on me. This is probably why\n[00:39 --> 00:40] There's so much bad news\n[00:40 --> 00:42] So I'm not wearing this fish tie\n[00:43 --> 00:50] Fish tie will will make us have good news. Oh my god. I can't get it on the fish tie is strangling me\n[00:50 --> 00:52] Should I start wearing it like this?\n[00:52 --> 00:54] This feels kind of more like a look for this string\n[00:55 --> 01:01] We're going to the movies\n[01:02 --> 01:04] It's so blousey\n[01:04 --> 01:06] Why is it so blousey?\n[01:07 --> 01:09] Good enough\n[01:09 --> 01:13] Good enough\n[01:13 --> 01:19] Eating the subs I need those but I need those I'm ever gonna do yodeling class\n[01:20 --> 01:22] We also still have to go to the wall\n[01:22 --> 01:24] which\n[01:24 --> 01:33] It's still kind of it's not looking great over there. I don't love the way the wall looks\n[01:35 --> 01:37] nuke the wall first\n[01:38 --> 01:40] That's a popular idea lately\n[01:41 --> 01:45] Free jolt yeah, I haven't been able to get access to any of my free jolt because the wall is so\n[01:46 --> 01:48] Troubling to look at\n[01:52 --> 01:54] Man\n[01:54 --> 02:01] Guys sometimes sometimes the gods just don't cooperate with your stream. I\n[02:02 --> 02:07] Did break Papito?\n[02:07 --> 02:09] We're going\n[02:09 --> 02:11] To try to fix it\n[02:12 --> 02:15] Maybe it's just gonna be one of those days where my computer even I'm kind of\n[02:16 --> 02:20] Maybe OBS just can't keep up with all this hot work today\n[02:20 --> 02:25] Too much, you know also my my discord won't work\n[02:25 --> 02:33] For some reason I can't load discord so I'm a little worried that maybe this computer is in the process of tapping out\n[02:34 --> 02:37] Maybe it's time to waste a bunch of money on a new one\n[02:38 --> 02:39] What's open?\n[02:39 --> 02:44] 45 programs. I mean honestly just the usuals the big thing that\n[02:44 --> 02:47] Consumes my resources is a docker. I\n[02:48 --> 02:54] Gotta run a certain program through docker and it fucks everything up, but let's see if we can fix Papito\n[02:55 --> 03:20] Are you doing any better?\n[03:23 --> 03:25] Okay\n[03:26 --> 03:28] We're gonna try something that probably won't work\n[03:30 --> 03:32] Got to turn it off and on\n[03:32 --> 03:33] again\n[03:33 --> 03:46] Or do I why is it like this today and it's not working. Oh\n[03:50 --> 03:52] Boy everybody some days\n[03:54 --> 03:58] Some days it's just out to get you well turned off again\n[03:59 --> 04:04] Just drop it although on the PC. We could just do an all-case stream. I guess all case\n[04:04 --> 04:07] All the day know it. Nope as I say I don't love that sounds\n[04:08 --> 04:10] fucking awful\n[04:13 --> 04:15] Was there a fucking windows update?\n[04:18 --> 04:21] Okay, it's just me cutting to me in the same with the same face being like\n[04:22 --> 04:24] That sounds about the same actually\n[04:25 --> 04:28] Munch is still available. We could just do a me and munch stream\n[04:31 --> 04:36] Thank you for the follow which as we chase that elusive positive follower ratio\n[04:37 --> 04:39] You're doing your part rookie X-Play\n[04:40 --> 04:45] And I appreciate it. It would just be you talking yourself\n[04:46 --> 04:48] That sounds awful. Who would do that?\n[04:48 --> 04:56] That trip is also available and he could talk to himself too. I am going to possibly have to reset my computer\n[04:57 --> 05:01] So we might be down for a minute. I'm gonna try to fix it and then we'll do we'll do some stuff\n[05:01 --> 05:04] We'll do a few things you can stick around great\n[05:04 --> 05:10] Shouldn't be more than two minutes. We'll say and then I'll be back prepare for f's again. I just can't"
+}
