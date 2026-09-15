@@ -1,0 +1,19 @@
+{
+  "vod_id": "O_CiCowdnL8",
+  "title": "What Happened Wednesday? aka NEWS",
+  "url": "https://www.youtube.com/watch?v=O_CiCowdnL8",
+  "duration_seconds": 9110,
+  "duration": "2:31:50",
+  "timestamp": 1755734400,
+  "aired_at": "2025-08-21T00:00:00+00:00",
+  "date": "2025-08-21",
+  "ingested_at": "2026-09-15T14:20:08.177068+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "O_CiCowdnL8",
+  "yt_url": "https://www.youtube.com/watch?v=O_CiCowdnL8",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-08-21"
+}
