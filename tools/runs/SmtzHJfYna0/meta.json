@@ -1,0 +1,19 @@
+{
+  "vod_id": "SmtzHJfYna0",
+  "title": "Quick News and Crum Punch",
+  "url": "https://www.youtube.com/watch?v=SmtzHJfYna0",
+  "duration_seconds": 7083,
+  "duration": "1:58:03",
+  "timestamp": 1750118400,
+  "aired_at": "2025-06-17T00:00:00+00:00",
+  "date": "2025-06-17",
+  "ingested_at": "2026-09-15T04:30:00.365588+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "SmtzHJfYna0",
+  "yt_url": "https://www.youtube.com/watch?v=SmtzHJfYna0",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-06-17"
+}
