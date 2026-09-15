@@ -1,0 +1,19 @@
+{
+  "vod_id": "LNQ0e2tBowY",
+  "title": "Post Wall and Rapture Clarity",
+  "url": "https://www.youtube.com/watch?v=LNQ0e2tBowY",
+  "duration_seconds": 6320,
+  "duration": "1:45:20",
+  "timestamp": 1758844800,
+  "aired_at": "2025-09-26T00:00:00+00:00",
+  "date": "2025-09-26",
+  "ingested_at": "2026-09-15T19:22:52.339522+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "LNQ0e2tBowY",
+  "yt_url": "https://www.youtube.com/watch?v=LNQ0e2tBowY",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-09-26"
+}
