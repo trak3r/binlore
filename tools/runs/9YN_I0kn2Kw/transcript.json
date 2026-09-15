@@ -1,0 +1,919 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "model_requested": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 624.02,
+  "chunk_seconds": null,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": "You wanna work here for this man?"
+    },
+    {
+      "id": 1,
+      "start": 2.0,
+      "end": 4.0,
+      "text": "I'm kidding, this is not a film"
+    },
+    {
+      "id": 2,
+      "start": 4.0,
+      "end": 6.0,
+      "text": "I'm worried about me sleep falling"
+    },
+    {
+      "id": 3,
+      "start": 6.0,
+      "end": 9.0,
+      "text": "I'm the beat on, the dog that produces the show"
+    },
+    {
+      "id": 4,
+      "start": 9.0,
+      "end": 11.0,
+      "text": "My tail is flying"
+    },
+    {
+      "id": 5,
+      "start": 11.0,
+      "end": 12.0,
+      "text": "I'm the real pill brand memory foam"
+    },
+    {
+      "id": 6,
+      "start": 12.0,
+      "end": 14.0,
+      "text": "The nab zone, the nab zone"
+    },
+    {
+      "id": 7,
+      "start": 14.0,
+      "end": 17.0,
+      "text": "Filly cone with cuffs and pillow on the bitch's sleep"
+    },
+    {
+      "id": 8,
+      "start": 17.0,
+      "end": 20.0,
+      "text": "The kitty in the middle of the nus, the kitty in the tweek"
+    },
+    {
+      "id": 9,
+      "start": 20.0,
+      "end": 23.0,
+      "text": "It's no relax, except I never relax"
+    },
+    {
+      "id": 10,
+      "start": 23.0,
+      "end": 27.0,
+      "text": "Still on the most relaxed, no cell type"
+    },
+    {
+      "id": 11,
+      "start": 27.0,
+      "end": 32.0,
+      "text": "Bitch, yeah, no cell type"
+    },
+    {
+      "id": 12,
+      "start": 32.0,
+      "end": 36.5,
+      "text": "Tonic low, the body dutch, every nasty"
+    },
+    {
+      "id": 13,
+      "start": 36.5,
+      "end": 41.94,
+      "text": "Knock on the mission's butt, doonan, I don't stop"
+    },
+    {
+      "id": 14,
+      "start": 41.94,
+      "end": 45.44,
+      "text": "I have pillow on, I'm top"
+    },
+    {
+      "id": 15,
+      "start": 45.44,
+      "end": 48.44,
+      "text": "No flux, all sleep in the max"
+    },
+    {
+      "id": 16,
+      "start": 48.44,
+      "end": 101.74,
+      "text": "Lambo restaurant, bitch, I sleep"
+    },
+    {
+      "id": 17,
+      "start": 101.74,
+      "end": 121.33,
+      "text": "Here's our lyrics"
+    },
+    {
+      "id": 18,
+      "start": 121.33,
+      "end": 125.12,
+      "text": "Looking good to go"
+    },
+    {
+      "id": 19,
+      "start": 125.12,
+      "end": 129.07,
+      "text": "Feeling good to go"
+    },
+    {
+      "id": 20,
+      "start": 129.07,
+      "end": 132.07,
+      "text": "Damn, damn girl, I saw you in that thing"
+    },
+    {
+      "id": 21,
+      "start": 132.07,
+      "end": 134.07,
+      "text": "Sammy head dumps like a truck"
+    },
+    {
+      "id": 22,
+      "start": 134.07,
+      "end": 136.07,
+      "text": "Truck, but I was like, what?"
+    },
+    {
+      "id": 23,
+      "start": 136.07,
+      "end": 138.07,
+      "text": "Babe, move your butt, butt, butt"
+    },
+    {
+      "id": 24,
+      "start": 138.07,
+      "end": 140.07,
+      "text": "I go sing it again"
+    },
+    {
+      "id": 25,
+      "start": 140.07,
+      "end": 143.07,
+      "text": "Sammy had a style like a don, don, don"
+    },
+    {
+      "id": 26,
+      "start": 143.07,
+      "end": 145.07,
+      "text": "Hands on the keys like he's on, on"
+    },
+    {
+      "id": 27,
+      "start": 145.07,
+      "end": 147.07,
+      "text": "Italian swag, turn it on, on"
+    },
+    {
+      "id": 28,
+      "start": 147.07,
+      "end": 148.07,
+      "text": "Let me sing it again"
+    },
+    {
+      "id": 29,
+      "start": 148.07,
+      "end": 150.07,
+      "text": "Sammy that thing, thing, thing"
+    },
+    {
+      "id": 30,
+      "start": 150.07,
+      "end": 152.07,
+      "text": "The way you make a sing, sing"
+    },
+    {
+      "id": 31,
+      "start": 152.07,
+      "end": 154.07,
+      "text": "Italian bling, bling, bling"
+    },
+    {
+      "id": 32,
+      "start": 154.07,
+      "end": 156.07,
+      "text": "You do this thing, thing, thing"
+    },
+    {
+      "id": 33,
+      "start": 156.07,
+      "end": 158.07,
+      "text": "Oh, Sammy got a thing, show it off"
+    },
+    {
+      "id": 34,
+      "start": 158.07,
+      "end": 160.07,
+      "text": "Boys wanna say style and he cough"
+    },
+    {
+      "id": 35,
+      "start": 160.07,
+      "end": 162.07,
+      "text": "What the fuck's going on?"
+    },
+    {
+      "id": 36,
+      "start": 162.07,
+      "end": 163.07,
+      "text": "Oh, man"
+    },
+    {
+      "id": 37,
+      "start": 163.07,
+      "end": 167.96,
+      "text": "Doo doo doo doo doo doo, oh shoot, I lost it"
+    },
+    {
+      "id": 38,
+      "start": 167.96,
+      "end": 170.96,
+      "text": "Doo doo doo doo doo, that thing, the thing, thing, thing"
+    },
+    {
+      "id": 39,
+      "start": 170.96,
+      "end": 172.96,
+      "text": "Sammy had a thing, yeah, the thing, the thing"
+    },
+    {
+      "id": 40,
+      "start": 172.96,
+      "end": 174.96,
+      "text": "Sammy does a thing, yeah, the thing"
+    },
+    {
+      "id": 41,
+      "start": 174.96,
+      "end": 176.96,
+      "text": "Sammy does a thing, yeah, the thing"
+    },
+    {
+      "id": 42,
+      "start": 176.96,
+      "end": 178.96,
+      "text": "That thing, the thing, thing, thing"
+    },
+    {
+      "id": 43,
+      "start": 178.96,
+      "end": 180.96,
+      "text": "That thing's so wild"
+    },
+    {
+      "id": 44,
+      "start": 180.96,
+      "end": 183.96,
+      "text": "Oh my gosh, I completely lost my place"
+    },
+    {
+      "id": 45,
+      "start": 183.96,
+      "end": 185.96,
+      "text": "Sammy, get together, man"
+    },
+    {
+      "id": 46,
+      "start": 185.96,
+      "end": 186.96,
+      "text": "I'm trying"
+    },
+    {
+      "id": 47,
+      "start": 186.96,
+      "end": 188.96,
+      "text": "Uh, yeah, that's the thing, on"
+    },
+    {
+      "id": 48,
+      "start": 188.96,
+      "end": 191.96,
+      "text": "Going on and on, Italian ice"
+    },
+    {
+      "id": 49,
+      "start": 191.96,
+      "end": 192.96,
+      "text": "And he smoothed like a boss"
+    },
+    {
+      "id": 50,
+      "start": 192.96,
+      "end": 194.96,
+      "text": "Sammy, that's the way that you floss"
+    },
+    {
+      "id": 51,
+      "start": 194.96,
+      "end": 196.96,
+      "text": "He had a loving, cause he's so real"
+    },
+    {
+      "id": 52,
+      "start": 196.96,
+      "end": 198.96,
+      "text": "From the suits to the ride of big deal"
+    },
+    {
+      "id": 53,
+      "start": 198.96,
+      "end": 200.96,
+      "text": "Man of the hour with the gang to repeal"
+    },
+    {
+      "id": 54,
+      "start": 200.96,
+      "end": 202.96,
+      "text": "He's reform now, but he got that feel"
+    },
+    {
+      "id": 55,
+      "start": 202.96,
+      "end": 204.96,
+      "text": "Sammy got a thing, he's showing it off"
+    },
+    {
+      "id": 56,
+      "start": 204.96,
+      "end": 206.96,
+      "text": "Boys wanna see his style when he cough"
+    },
+    {
+      "id": 57,
+      "start": 206.96,
+      "end": 208.96,
+      "text": "You know that Sammy was a boss"
+    },
+    {
+      "id": 58,
+      "start": 208.96,
+      "end": 210.96,
+      "text": "He's pickle man and he's br..."
+    },
+    {
+      "id": 59,
+      "start": 210.96,
+      "end": 212.96,
+      "text": "Sammy got a thing, thing, thing"
+    },
+    {
+      "id": 60,
+      "start": 212.96,
+      "end": 214.96,
+      "text": "The way you make a sing, sing"
+    },
+    {
+      "id": 61,
+      "start": 214.96,
+      "end": 216.96,
+      "text": "Italian's bringing that thing to me, bling"
+    },
+    {
+      "id": 62,
+      "start": 216.96,
+      "end": 218.96,
+      "text": "You know he's doing his thing, yeah"
+    },
+    {
+      "id": 63,
+      "start": 218.96,
+      "end": 220.96,
+      "text": "Sammy got a thing, thing, thing"
+    },
+    {
+      "id": 64,
+      "start": 220.96,
+      "end": 222.96,
+      "text": "Sammy bring a bling, bling, bling"
+    },
+    {
+      "id": 65,
+      "start": 222.96,
+      "end": 226.34,
+      "text": "He's Sammy's biggest, and now he's doing a thing"
+    },
+    {
+      "id": 66,
+      "start": 226.34,
+      "end": 228.34,
+      "text": "Whoa, whoa, whoa, whoa, thing, thing"
+    },
+    {
+      "id": 67,
+      "start": 228.34,
+      "end": 230.34,
+      "text": "Sammy got a thing, yeah, thing, thing"
+    },
+    {
+      "id": 68,
+      "start": 230.34,
+      "end": 232.34,
+      "text": "The way you sing, sing, sing"
+    },
+    {
+      "id": 69,
+      "start": 232.34,
+      "end": 234.34,
+      "text": "You know I'm doing a thing, yeah"
+    },
+    {
+      "id": 70,
+      "start": 234.34,
+      "end": 236.34,
+      "text": "Sammy got a thing, thing, thing"
+    },
+    {
+      "id": 71,
+      "start": 236.34,
+      "end": 238.34,
+      "text": "And I'm doing that thing, thing, thing"
+    },
+    {
+      "id": 72,
+      "start": 238.34,
+      "end": 240.34,
+      "text": "And I'm bringing that bling, bling, bling"
+    },
+    {
+      "id": 73,
+      "start": 240.34,
+      "end": 242.34,
+      "text": "You know I'm doing a thing"
+    },
+    {
+      "id": 74,
+      "start": 242.34,
+      "end": 244.34,
+      "text": "That thing's so wild"
+    },
+    {
+      "id": 75,
+      "start": 244.34,
+      "end": 246.34,
+      "text": "Look at Sammy go now"
+    },
+    {
+      "id": 76,
+      "start": 246.34,
+      "end": 248.78,
+      "text": "From the streets he's bringing that style."
+    },
+    {
+      "id": 77,
+      "start": 248.78,
+      "end": 250.7,
+      "text": "He brings style like style."
+    },
+    {
+      "id": 78,
+      "start": 250.7,
+      "end": 252.74,
+      "text": "He's got a thing that, wow, wow."
+    },
+    {
+      "id": 79,
+      "start": 252.74,
+      "end": 255.02,
+      "text": "He's a gangster and now he's reformed."
+    },
+    {
+      "id": 80,
+      "start": 255.02,
+      "end": 256.42,
+      "text": "They're living a life never before,"
+    },
+    {
+      "id": 81,
+      "start": 256.42,
+      "end": 259.18,
+      "text": "a Italian flavor and he's adorned."
+    },
+    {
+      "id": 82,
+      "start": 259.18,
+      "end": 260.58,
+      "text": "And he's got a thing."
+    },
+    {
+      "id": 83,
+      "start": 260.58,
+      "end": 263.14,
+      "text": "Jesus, Sammy, I've got a thing."
+    },
+    {
+      "id": 84,
+      "start": 263.14,
+      "end": 265.02,
+      "text": "And I'm bringing the bling."
+    },
+    {
+      "id": 85,
+      "start": 265.02,
+      "end": 267.06,
+      "text": "And I've got a thing."
+    },
+    {
+      "id": 86,
+      "start": 267.06,
+      "end": 269.02,
+      "text": "But don't I bring the thing?"
+    },
+    {
+      "id": 87,
+      "start": 269.02,
+      "end": 270.62,
+      "text": "I'm also bringing the bling."
+    },
+    {
+      "id": 88,
+      "start": 270.62,
+      "end": 273.02,
+      "text": "Because I'm a boss and here's the thing."
+    },
+    {
+      "id": 89,
+      "start": 273.02,
+      "end": 274.5,
+      "text": "And then I'm seeing the thing."
+    },
+    {
+      "id": 90,
+      "start": 274.5,
+      "end": 276.58,
+      "text": "Sammy, go wow, wow, wow."
+    },
+    {
+      "id": 91,
+      "start": 276.58,
+      "end": 278.46,
+      "text": "Sammy got a child, wow, wow."
+    },
+    {
+      "id": 92,
+      "start": 278.46,
+      "end": 280.34,
+      "text": "Sammy got the dial, now, now."
+    },
+    {
+      "id": 93,
+      "start": 280.34,
+      "end": 284.54,
+      "text": "I'm not into dial, how, how, oh, oh, oh."
+    },
+    {
+      "id": 94,
+      "start": 284.54,
+      "end": 288.46,
+      "text": "Let me see you go."
+    },
+    {
+      "id": 95,
+      "start": 288.46,
+      "end": 293.48,
+      "text": "I'm bringing that thing that I'm making you sing."
+    },
+    {
+      "id": 96,
+      "start": 293.48,
+      "end": 318.57,
+      "text": "I'm talking about it, man."
+    },
+    {
+      "id": 97,
+      "start": 318.57,
+      "end": 319.65,
+      "text": "That's the thing."
+    },
+    {
+      "id": 98,
+      "start": 319.65,
+      "end": 326.02,
+      "text": "Look at the thing go, man."
+    },
+    {
+      "id": 99,
+      "start": 326.02,
+      "end": 327.38,
+      "text": "Look at them fucking go."
+    },
+    {
+      "id": 100,
+      "start": 333.81,
+      "end": 336.73,
+      "text": "They've only got hand games."
+    },
+    {
+      "id": 101,
+      "start": 336.73,
+      "end": 338.65,
+      "text": "You got to spit on that thing."
+    },
+    {
+      "id": 102,
+      "start": 338.65,
+      "end": 340.65,
+      "text": "Because I got that thing."
+    },
+    {
+      "id": 103,
+      "start": 340.65,
+      "end": 342.69,
+      "text": "And so I spit on that thing, hit a little hot tool"
+    },
+    {
+      "id": 104,
+      "start": 342.69,
+      "end": 343.41,
+      "text": "on the thing."
+    },
+    {
+      "id": 105,
+      "start": 344.37,
+      "end": 356.95,
+      "text": "No chance."
+    },
+    {
+      "id": 106,
+      "start": 356.95,
+      "end": 359.15,
+      "text": "I must be here as a representative of God."
+    },
+    {
+      "id": 107,
+      "start": 359.15,
+      "end": 472.46,
+      "text": "And I'm going to show you how."
+    },
+    {
+      "id": 108,
+      "start": 472.46,
+      "end": 480.94,
+      "text": "Five and 10, nine, eight, seven, six, five, four, three,"
+    },
+    {
+      "id": 109,
+      "start": 480.94,
+      "end": 482.42,
+      "text": "two, one."
+    },
+    {
+      "id": 110,
+      "start": 482.42,
+      "end": 484.26,
+      "text": "Let's do this."
+    },
+    {
+      "id": 111,
+      "start": 484.26,
+      "end": 513.86,
+      "text": "I'm a pedo."
+    },
+    {
+      "id": 112,
+      "start": 513.86,
+      "end": 516.78,
+      "text": "Whoa."
+    },
+    {
+      "id": 113,
+      "start": 516.78,
+      "end": 520.5,
+      "text": "Hmm."
+    },
+    {
+      "id": 114,
+      "start": 520.5,
+      "end": 522.54,
+      "text": "Guys, I seem to, I'm communicating with you"
+    },
+    {
+      "id": 115,
+      "start": 522.54,
+      "end": 529.71,
+      "text": "telepathically."
+    },
+    {
+      "id": 116,
+      "start": 529.71,
+      "end": 533.67,
+      "text": "I'm trapped in a different universe."
+    },
+    {
+      "id": 117,
+      "start": 533.67,
+      "end": 537.6,
+      "text": "In this one, I am frozen."
+    },
+    {
+      "id": 118,
+      "start": 537.6,
+      "end": 542.07,
+      "text": "But perhaps there is hope."
+    },
+    {
+      "id": 119,
+      "start": 542.07,
+      "end": 543.83,
+      "text": "Yeah, I'm a full Vtuber."
+    },
+    {
+      "id": 120,
+      "start": 543.83,
+      "end": 547.07,
+      "text": "I'm one of the first JPEG tubers."
+    },
+    {
+      "id": 121,
+      "start": 547.07,
+      "end": 549.67,
+      "text": "I think I'm going to call myself the JPEG mob."
+    },
+    {
+      "id": 122,
+      "start": 549.67,
+      "end": 551.03,
+      "text": "Is that taken?"
+    },
+    {
+      "id": 123,
+      "start": 551.03,
+      "end": 551.79,
+      "text": "JPEG mobbya?"
+    },
+    {
+      "id": 124,
+      "start": 557.18,
+      "end": 563.42,
+      "text": "This is not ideal."
+    },
+    {
+      "id": 125,
+      "start": 563.42,
+      "end": 564.54,
+      "text": "I have returned."
+    },
+    {
+      "id": 126,
+      "start": 564.54,
+      "end": 566.26,
+      "text": "OK."
+    },
+    {
+      "id": 127,
+      "start": 566.26,
+      "end": 569.24,
+      "text": "I'm on a journey."
+    },
+    {
+      "id": 128,
+      "start": 569.24,
+      "end": 574.4,
+      "text": "The other question, the other pressing question is, there we go."
+    },
+    {
+      "id": 129,
+      "start": 574.4,
+      "end": 579.62,
+      "text": "Ooh."
+    },
+    {
+      "id": 130,
+      "start": 579.62,
+      "end": 581.18,
+      "text": "Do these still work?"
+    },
+    {
+      "id": 131,
+      "start": 581.18,
+      "end": 581.9,
+      "text": "Oh, yeah, they do."
+    },
+    {
+      "id": 132,
+      "start": 581.9,
+      "end": 584.31,
+      "text": "OK."
+    },
+    {
+      "id": 133,
+      "start": 584.31,
+      "end": 587.67,
+      "text": "The other one, the other case was pretty charismatic."
+    },
+    {
+      "id": 134,
+      "start": 587.67,
+      "end": 590.07,
+      "text": "This one flops around too much."
+    },
+    {
+      "id": 135,
+      "start": 590.07,
+      "end": 591.71,
+      "text": "The other one was Resolute."
+    },
+    {
+      "id": 136,
+      "start": 591.71,
+      "end": 594.99,
+      "text": "Doesn't have those shifty eyes that I have."
+    },
+    {
+      "id": 137,
+      "start": 594.99,
+      "end": 596.27,
+      "text": "I can see the appeal."
+    },
+    {
+      "id": 138,
+      "start": 596.27,
+      "end": 599.91,
+      "text": "But unfortunately, this is my world."
+    },
+    {
+      "id": 139,
+      "start": 599.91,
+      "end": 602.15,
+      "text": "This is my stream."
+    },
+    {
+      "id": 140,
+      "start": 602.15,
+      "end": 602.67,
+      "text": "OK."
+    },
+    {
+      "id": 141,
+      "start": 602.67,
+      "end": 605.55,
+      "text": "I also probably, hold disclosure, going"
+    },
+    {
+      "id": 142,
+      "start": 605.55,
+      "end": 609.75,
+      "text": "to have to reset the stream because it seems a number of things"
+    },
+    {
+      "id": 143,
+      "start": 609.75,
+      "end": 610.67,
+      "text": "broke."
+    },
+    {
+      "id": 144,
+      "start": 610.67,
+      "end": 612.55,
+      "text": "And I have no idea why."
+    },
+    {
+      "id": 145,
+      "start": 612.55,
+      "end": 614.63,
+      "text": "And the hype has ended."
+    },
+    {
+      "id": 146,
+      "start": 614.63,
+      "end": 617.95,
+      "text": "That seems like the perfect time to reset the stream."
+    },
+    {
+      "id": 147,
+      "start": 617.95,
+      "end": 620.07,
+      "text": "Hold your horses for one second, chat."
+    },
+    {
+      "id": 148,
+      "start": 620.07,
+      "end": 620.71,
+      "text": "I'll be right back."
+    },
+    {
+      "id": 149,
+      "start": 620.71,
+      "end": 621.47,
+      "text": "Cut the music."
+    },
+    {
+      "id": 150,
+      "start": 621.47,
+      "end": 624.95,
+      "text": "Can't even cut to Pepito because he's biting all the wires."
+    }
+  ],
+  "text": "You wanna work here for this man?\nI'm kidding, this is not a film\nI'm worried about me sleep falling\nI'm the beat on, the dog that produces the show\nMy tail is flying\nI'm the real pill brand memory foam\nThe nab zone, the nab zone\nFilly cone with cuffs and pillow on the bitch's sleep\nThe kitty in the middle of the nus, the kitty in the tweek\nIt's no relax, except I never relax\nStill on the most relaxed, no cell type\nBitch, yeah, no cell type\nTonic low, the body dutch, every nasty\nKnock on the mission's butt, doonan, I don't stop\nI have pillow on, I'm top\nNo flux, all sleep in the max\nLambo restaurant, bitch, I sleep\nHere's our lyrics\nLooking good to go\nFeeling good to go\nDamn, damn girl, I saw you in that thing\nSammy head dumps like a truck\nTruck, but I was like, what?\nBabe, move your butt, butt, butt\nI go sing it again\nSammy had a style like a don, don, don\nHands on the keys like he's on, on\nItalian swag, turn it on, on\nLet me sing it again\nSammy that thing, thing, thing\nThe way you make a sing, sing\nItalian bling, bling, bling\nYou do this thing, thing, thing\nOh, Sammy got a thing, show it off\nBoys wanna say style and he cough\nWhat the fuck's going on?\nOh, man\nDoo doo doo doo doo doo, oh shoot, I lost it\nDoo doo doo doo doo, that thing, the thing, thing, thing\nSammy had a thing, yeah, the thing, the thing\nSammy does a thing, yeah, the thing\nSammy does a thing, yeah, the thing\nThat thing, the thing, thing, thing\nThat thing's so wild\nOh my gosh, I completely lost my place\nSammy, get together, man\nI'm trying\nUh, yeah, that's the thing, on\nGoing on and on, Italian ice\nAnd he smoothed like a boss\nSammy, that's the way that you floss\nHe had a loving, cause he's so real\nFrom the suits to the ride of big deal\nMan of the hour with the gang to repeal\nHe's reform now, but he got that feel\nSammy got a thing, he's showing it off\nBoys wanna see his style when he cough\nYou know that Sammy was a boss\nHe's pickle man and he's br...\nSammy got a thing, thing, thing\nThe way you make a sing, sing\nItalian's bringing that thing to me, bling\nYou know he's doing his thing, yeah\nSammy got a thing, thing, thing\nSammy bring a bling, bling, bling\nHe's Sammy's biggest, and now he's doing a thing\nWhoa, whoa, whoa, whoa, thing, thing\nSammy got a thing, yeah, thing, thing\nThe way you sing, sing, sing\nYou know I'm doing a thing, yeah\nSammy got a thing, thing, thing\nAnd I'm doing that thing, thing, thing\nAnd I'm bringing that bling, bling, bling\nYou know I'm doing a thing\nThat thing's so wild\nLook at Sammy go now\nFrom the streets he's bringing that style.\nHe brings style like style.\nHe's got a thing that, wow, wow.\nHe's a gangster and now he's reformed.\nThey're living a life never before,\na Italian flavor and he's adorned.\nAnd he's got a thing.\nJesus, Sammy, I've got a thing.\nAnd I'm bringing the bling.\nAnd I've got a thing.\nBut don't I bring the thing?\nI'm also bringing the bling.\nBecause I'm a boss and here's the thing.\nAnd then I'm seeing the thing.\nSammy, go wow, wow, wow.\nSammy got a child, wow, wow.\nSammy got the dial, now, now.\nI'm not into dial, how, how, oh, oh, oh.\nLet me see you go.\nI'm bringing that thing that I'm making you sing.\nI'm talking about it, man.\nThat's the thing.\nLook at the thing go, man.\nLook at them fucking go.\nThey've only got hand games.\nYou got to spit on that thing.\nBecause I got that thing.\nAnd so I spit on that thing, hit a little hot tool\non the thing.\nNo chance.\nI must be here as a representative of God.\nAnd I'm going to show you how.\nFive and 10, nine, eight, seven, six, five, four, three,\ntwo, one.\nLet's do this.\nI'm a pedo.\nWhoa.\nHmm.\nGuys, I seem to, I'm communicating with you\ntelepathically.\nI'm trapped in a different universe.\nIn this one, I am frozen.\nBut perhaps there is hope.\nYeah, I'm a full Vtuber.\nI'm one of the first JPEG tubers.\nI think I'm going to call myself the JPEG mob.\nIs that taken?\nJPEG mobbya?\nThis is not ideal.\nI have returned.\nOK.\nI'm on a journey.\nThe other question, the other pressing question is, there we go.\nOoh.\nDo these still work?\nOh, yeah, they do.\nOK.\nThe other one, the other case was pretty charismatic.\nThis one flops around too much.\nThe other one was Resolute.\nDoesn't have those shifty eyes that I have.\nI can see the appeal.\nBut unfortunately, this is my world.\nThis is my stream.\nOK.\nI also probably, hold disclosure, going\nto have to reset the stream because it seems a number of things\nbroke.\nAnd I have no idea why.\nAnd the hype has ended.\nThat seems like the perfect time to reset the stream.\nHold your horses for one second, chat.\nI'll be right back.\nCut the music.\nCan't even cut to Pepito because he's biting all the wires.",
+  "text_timestamped": "[00:00 --> 00:02] You wanna work here for this man?\n[00:02 --> 00:04] I'm kidding, this is not a film\n[00:04 --> 00:06] I'm worried about me sleep falling\n[00:06 --> 00:09] I'm the beat on, the dog that produces the show\n[00:09 --> 00:11] My tail is flying\n[00:11 --> 00:12] I'm the real pill brand memory foam\n[00:12 --> 00:14] The nab zone, the nab zone\n[00:14 --> 00:17] Filly cone with cuffs and pillow on the bitch's sleep\n[00:17 --> 00:20] The kitty in the middle of the nus, the kitty in the tweek\n[00:20 --> 00:23] It's no relax, except I never relax\n[00:23 --> 00:27] Still on the most relaxed, no cell type\n[00:27 --> 00:32] Bitch, yeah, no cell type\n[00:32 --> 00:36] Tonic low, the body dutch, every nasty\n[00:36 --> 00:41] Knock on the mission's butt, doonan, I don't stop\n[00:41 --> 00:45] I have pillow on, I'm top\n[00:45 --> 00:48] No flux, all sleep in the max\n[00:48 --> 01:41] Lambo restaurant, bitch, I sleep\n[01:41 --> 02:01] Here's our lyrics\n[02:01 --> 02:05] Looking good to go\n[02:05 --> 02:09] Feeling good to go\n[02:09 --> 02:12] Damn, damn girl, I saw you in that thing\n[02:12 --> 02:14] Sammy head dumps like a truck\n[02:14 --> 02:16] Truck, but I was like, what?\n[02:16 --> 02:18] Babe, move your butt, butt, butt\n[02:18 --> 02:20] I go sing it again\n[02:20 --> 02:23] Sammy had a style like a don, don, don\n[02:23 --> 02:25] Hands on the keys like he's on, on\n[02:25 --> 02:27] Italian swag, turn it on, on\n[02:27 --> 02:28] Let me sing it again\n[02:28 --> 02:30] Sammy that thing, thing, thing\n[02:30 --> 02:32] The way you make a sing, sing\n[02:32 --> 02:34] Italian bling, bling, bling\n[02:34 --> 02:36] You do this thing, thing, thing\n[02:36 --> 02:38] Oh, Sammy got a thing, show it off\n[02:38 --> 02:40] Boys wanna say style and he cough\n[02:40 --> 02:42] What the fuck's going on?\n[02:42 --> 02:43] Oh, man\n[02:43 --> 02:47] Doo doo doo doo doo doo, oh shoot, I lost it\n[02:47 --> 02:50] Doo doo doo doo doo, that thing, the thing, thing, thing\n[02:50 --> 02:52] Sammy had a thing, yeah, the thing, the thing\n[02:52 --> 02:54] Sammy does a thing, yeah, the thing\n[02:54 --> 02:56] Sammy does a thing, yeah, the thing\n[02:56 --> 02:58] That thing, the thing, thing, thing\n[02:58 --> 03:00] That thing's so wild\n[03:00 --> 03:03] Oh my gosh, I completely lost my place\n[03:03 --> 03:05] Sammy, get together, man\n[03:05 --> 03:06] I'm trying\n[03:06 --> 03:08] Uh, yeah, that's the thing, on\n[03:08 --> 03:11] Going on and on, Italian ice\n[03:11 --> 03:12] And he smoothed like a boss\n[03:12 --> 03:14] Sammy, that's the way that you floss\n[03:14 --> 03:16] He had a loving, cause he's so real\n[03:16 --> 03:18] From the suits to the ride of big deal\n[03:18 --> 03:20] Man of the hour with the gang to repeal\n[03:20 --> 03:22] He's reform now, but he got that feel\n[03:22 --> 03:24] Sammy got a thing, he's showing it off\n[03:24 --> 03:26] Boys wanna see his style when he cough\n[03:26 --> 03:28] You know that Sammy was a boss\n[03:28 --> 03:30] He's pickle man and he's br...\n[03:30 --> 03:32] Sammy got a thing, thing, thing\n[03:32 --> 03:34] The way you make a sing, sing\n[03:34 --> 03:36] Italian's bringing that thing to me, bling\n[03:36 --> 03:38] You know he's doing his thing, yeah\n[03:38 --> 03:40] Sammy got a thing, thing, thing\n[03:40 --> 03:42] Sammy bring a bling, bling, bling\n[03:42 --> 03:46] He's Sammy's biggest, and now he's doing a thing\n[03:46 --> 03:48] Whoa, whoa, whoa, whoa, thing, thing\n[03:48 --> 03:50] Sammy got a thing, yeah, thing, thing\n[03:50 --> 03:52] The way you sing, sing, sing\n[03:52 --> 03:54] You know I'm doing a thing, yeah\n[03:54 --> 03:56] Sammy got a thing, thing, thing\n[03:56 --> 03:58] And I'm doing that thing, thing, thing\n[03:58 --> 04:00] And I'm bringing that bling, bling, bling\n[04:00 --> 04:02] You know I'm doing a thing\n[04:02 --> 04:04] That thing's so wild\n[04:04 --> 04:06] Look at Sammy go now\n[04:06 --> 04:08] From the streets he's bringing that style.\n[04:08 --> 04:10] He brings style like style.\n[04:10 --> 04:12] He's got a thing that, wow, wow.\n[04:12 --> 04:15] He's a gangster and now he's reformed.\n[04:15 --> 04:16] They're living a life never before,\n[04:16 --> 04:19] a Italian flavor and he's adorned.\n[04:19 --> 04:20] And he's got a thing.\n[04:20 --> 04:23] Jesus, Sammy, I've got a thing.\n[04:23 --> 04:25] And I'm bringing the bling.\n[04:25 --> 04:27] And I've got a thing.\n[04:27 --> 04:29] But don't I bring the thing?\n[04:29 --> 04:30] I'm also bringing the bling.\n[04:30 --> 04:33] Because I'm a boss and here's the thing.\n[04:33 --> 04:34] And then I'm seeing the thing.\n[04:34 --> 04:36] Sammy, go wow, wow, wow.\n[04:36 --> 04:38] Sammy got a child, wow, wow.\n[04:38 --> 04:40] Sammy got the dial, now, now.\n[04:40 --> 04:44] I'm not into dial, how, how, oh, oh, oh.\n[04:44 --> 04:48] Let me see you go.\n[04:48 --> 04:53] I'm bringing that thing that I'm making you sing.\n[04:53 --> 05:18] I'm talking about it, man.\n[05:18 --> 05:19] That's the thing.\n[05:19 --> 05:26] Look at the thing go, man.\n[05:26 --> 05:27] Look at them fucking go.\n[05:33 --> 05:36] They've only got hand games.\n[05:36 --> 05:38] You got to spit on that thing.\n[05:38 --> 05:40] Because I got that thing.\n[05:40 --> 05:42] And so I spit on that thing, hit a little hot tool\n[05:42 --> 05:43] on the thing.\n[05:44 --> 05:56] No chance.\n[05:56 --> 05:59] I must be here as a representative of God.\n[05:59 --> 07:52] And I'm going to show you how.\n[07:52 --> 08:00] Five and 10, nine, eight, seven, six, five, four, three,\n[08:00 --> 08:02] two, one.\n[08:02 --> 08:04] Let's do this.\n[08:04 --> 08:33] I'm a pedo.\n[08:33 --> 08:36] Whoa.\n[08:36 --> 08:40] Hmm.\n[08:40 --> 08:42] Guys, I seem to, I'm communicating with you\n[08:42 --> 08:49] telepathically.\n[08:49 --> 08:53] I'm trapped in a different universe.\n[08:53 --> 08:57] In this one, I am frozen.\n[08:57 --> 09:02] But perhaps there is hope.\n[09:02 --> 09:03] Yeah, I'm a full Vtuber.\n[09:03 --> 09:07] I'm one of the first JPEG tubers.\n[09:07 --> 09:09] I think I'm going to call myself the JPEG mob.\n[09:09 --> 09:11] Is that taken?\n[09:11 --> 09:11] JPEG mobbya?\n[09:17 --> 09:23] This is not ideal.\n[09:23 --> 09:24] I have returned.\n[09:24 --> 09:26] OK.\n[09:26 --> 09:29] I'm on a journey.\n[09:29 --> 09:34] The other question, the other pressing question is, there we go.\n[09:34 --> 09:39] Ooh.\n[09:39 --> 09:41] Do these still work?\n[09:41 --> 09:41] Oh, yeah, they do.\n[09:41 --> 09:44] OK.\n[09:44 --> 09:47] The other one, the other case was pretty charismatic.\n[09:47 --> 09:50] This one flops around too much.\n[09:50 --> 09:51] The other one was Resolute.\n[09:51 --> 09:54] Doesn't have those shifty eyes that I have.\n[09:54 --> 09:56] I can see the appeal.\n[09:56 --> 09:59] But unfortunately, this is my world.\n[09:59 --> 10:02] This is my stream.\n[10:02 --> 10:02] OK.\n[10:02 --> 10:05] I also probably, hold disclosure, going\n[10:05 --> 10:09] to have to reset the stream because it seems a number of things\n[10:09 --> 10:10] broke.\n[10:10 --> 10:12] And I have no idea why.\n[10:12 --> 10:14] And the hype has ended.\n[10:14 --> 10:17] That seems like the perfect time to reset the stream.\n[10:17 --> 10:20] Hold your horses for one second, chat.\n[10:20 --> 10:20] I'll be right back.\n[10:20 --> 10:21] Cut the music.\n[10:21 --> 10:24] Can't even cut to Pepito because he's biting all the wires."
+}
