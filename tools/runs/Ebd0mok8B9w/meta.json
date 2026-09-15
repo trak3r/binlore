@@ -1,0 +1,19 @@
+{
+  "vod_id": "Ebd0mok8B9w",
+  "title": "Quick, Late and Dirty Friday Newsday",
+  "url": "https://www.youtube.com/watch?v=Ebd0mok8B9w",
+  "duration_seconds": 8538,
+  "duration": "2:22:18",
+  "timestamp": 1752278400,
+  "aired_at": "2025-07-12T00:00:00+00:00",
+  "date": "2025-07-12",
+  "ingested_at": "2026-09-15T10:01:40.198650+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "Ebd0mok8B9w",
+  "yt_url": "https://www.youtube.com/watch?v=Ebd0mok8B9w",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-07-12"
+}
