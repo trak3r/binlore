@@ -1,0 +1,19 @@
+{
+  "vod_id": "vdPpPGW3_DA",
+  "title": "Government Shutdown, Rooney Upgrades",
+  "url": "https://www.youtube.com/watch?v=vdPpPGW3_DA",
+  "duration_seconds": 8655,
+  "duration": "2:24:15",
+  "timestamp": 1759363200,
+  "aired_at": "2025-10-02T00:00:00+00:00",
+  "date": "2025-10-02",
+  "ingested_at": "2026-09-15T19:51:58.072927+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "vdPpPGW3_DA",
+  "yt_url": "https://www.youtube.com/watch?v=vdPpPGW3_DA",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-10-02"
+}
