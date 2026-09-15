@@ -1,0 +1,19 @@
+{
+  "vod_id": "s8KIIY2Q8FI",
+  "title": "Leaky Friday News",
+  "url": "https://www.youtube.com/watch?v=s8KIIY2Q8FI",
+  "duration_seconds": 9887,
+  "duration": "2:44:47",
+  "timestamp": 1760745600,
+  "aired_at": "2025-10-18T00:00:00+00:00",
+  "date": "2025-10-18",
+  "ingested_at": "2026-09-15T23:44:00.578499+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "s8KIIY2Q8FI",
+  "yt_url": "https://www.youtube.com/watch?v=s8KIIY2Q8FI",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-10-18"
+}
