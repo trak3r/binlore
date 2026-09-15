@@ -1,0 +1,19 @@
+{
+  "vod_id": "S_KvZRUJpIw",
+  "title": "Non Alarming Apocalyptic NEWS (plus music maybe)",
+  "url": "https://www.youtube.com/watch?v=S_KvZRUJpIw",
+  "duration_seconds": 10238,
+  "duration": "2:50:38",
+  "timestamp": 1749772800,
+  "aired_at": "2025-06-13T00:00:00+00:00",
+  "date": "2025-06-13",
+  "ingested_at": "2026-09-15T04:03:25.849009+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "S_KvZRUJpIw",
+  "yt_url": "https://www.youtube.com/watch?v=S_KvZRUJpIw",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-06-13"
+}
