@@ -1,0 +1,19 @@
+{
+  "vod_id": "lUV3sToI6Ts",
+  "title": "Newsical Fridays",
+  "url": "https://www.youtube.com/watch?v=lUV3sToI6Ts",
+  "duration_seconds": 8673,
+  "duration": "2:24:33",
+  "timestamp": 1755907200,
+  "aired_at": "2025-08-23T00:00:00+00:00",
+  "date": "2025-08-23",
+  "ingested_at": "2026-09-15T14:36:30.502752+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "lUV3sToI6Ts",
+  "yt_url": "https://www.youtube.com/watch?v=lUV3sToI6Ts",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-08-23"
+}
