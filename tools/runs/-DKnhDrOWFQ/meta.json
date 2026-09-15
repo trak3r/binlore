@@ -1,0 +1,19 @@
+{
+  "vod_id": "-DKnhDrOWFQ",
+  "title": "What Some Call News, and Ever Fewer Call Music, it's FRIDAY NEWS",
+  "url": "https://www.youtube.com/watch?v=-DKnhDrOWFQ",
+  "duration_seconds": 6093,
+  "duration": "1:41:33",
+  "timestamp": 1750377600,
+  "aired_at": "2025-06-20T00:00:00+00:00",
+  "date": "2025-06-20",
+  "ingested_at": "2026-09-15T04:48:49.197867+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "-DKnhDrOWFQ",
+  "yt_url": "https://www.youtube.com/watch?v=-DKnhDrOWFQ",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-06-20"
+}
