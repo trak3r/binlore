@@ -1,0 +1,19 @@
+{
+  "vod_id": "R0wJXZzbVaA",
+  "title": "Illegal Raids and Beyblade Days",
+  "url": "https://www.youtube.com/watch?v=R0wJXZzbVaA",
+  "duration_seconds": 10522,
+  "duration": "2:55:22",
+  "timestamp": 1759536000,
+  "aired_at": "2025-10-04T00:00:00+00:00",
+  "date": "2025-10-04",
+  "ingested_at": "2026-09-15T20:08:35.706516+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "R0wJXZzbVaA",
+  "yt_url": "https://www.youtube.com/watch?v=R0wJXZzbVaA",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-10-04"
+}
