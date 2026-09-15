@@ -1,0 +1,457 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "model_requested": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 399.274,
+  "chunk_seconds": null,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.16,
+      "end": 4.16,
+      "text": "Woo!"
+    },
+    {
+      "id": 1,
+      "start": 4.16,
+      "end": 6.16,
+      "text": "I'm Pappito."
+    },
+    {
+      "id": 2,
+      "start": 6.16,
+      "end": 8.16,
+      "text": "I'm the dog that produced the show."
+    },
+    {
+      "id": 3,
+      "start": 8.16,
+      "end": 10.16,
+      "text": "And now it is live."
+    },
+    {
+      "id": 4,
+      "start": 10.16,
+      "end": 12.16,
+      "text": "And I'm a dog."
+    },
+    {
+      "id": 5,
+      "start": 12.16,
+      "end": 19.92,
+      "text": "Now we got the chill set up."
+    },
+    {
+      "id": 6,
+      "start": 19.92,
+      "end": 21.92,
+      "text": "Now we're chilling!"
+    },
+    {
+      "id": 7,
+      "start": 21.92,
+      "end": 26.8,
+      "text": "Yeah, we're in the..."
+    },
+    {
+      "id": 8,
+      "start": 26.8,
+      "end": 28.8,
+      "text": "We're in the gamer set up now."
+    },
+    {
+      "id": 9,
+      "start": 28.8,
+      "end": 30.8,
+      "text": "For straight gamers."
+    },
+    {
+      "id": 10,
+      "start": 30.8,
+      "end": 32.8,
+      "text": "But we still have a hamster with us, hopefully."
+    },
+    {
+      "id": 11,
+      "start": 32.8,
+      "end": 34.8,
+      "text": "Hamster here."
+    },
+    {
+      "id": 12,
+      "start": 34.8,
+      "end": 81.02,
+      "text": "There we go. Back to normal."
+    },
+    {
+      "id": 13,
+      "start": 81.02,
+      "end": 83.02,
+      "text": "Hamster."
+    },
+    {
+      "id": 14,
+      "start": 83.02,
+      "end": 85.02,
+      "text": "Hamster's kind of teleporting around."
+    },
+    {
+      "id": 15,
+      "start": 85.02,
+      "end": 88.3,
+      "text": "Okay, it still looks a little janky."
+    },
+    {
+      "id": 16,
+      "start": 88.3,
+      "end": 90.3,
+      "text": "If I'm being real."
+    },
+    {
+      "id": 17,
+      "start": 90.3,
+      "end": 92.3,
+      "text": "Actually..."
+    },
+    {
+      "id": 18,
+      "start": 92.3,
+      "end": 95.74,
+      "text": "Now it looks fine, I guess."
+    },
+    {
+      "id": 19,
+      "start": 95.74,
+      "end": 97.74,
+      "text": "I guess if I'm being real, it looks fine."
+    },
+    {
+      "id": 20,
+      "start": 97.74,
+      "end": 101.25,
+      "text": "Let's drop down a little bit though."
+    },
+    {
+      "id": 21,
+      "start": 101.25,
+      "end": 103.25,
+      "text": "Oh, now we're in the strike zone."
+    },
+    {
+      "id": 22,
+      "start": 103.25,
+      "end": 105.25,
+      "text": "Now we're in this hole."
+    },
+    {
+      "id": 23,
+      "start": 105.25,
+      "end": 107.25,
+      "text": "Um..."
+    },
+    {
+      "id": 24,
+      "start": 107.25,
+      "end": 109.25,
+      "text": "Can I still do this though?"
+    },
+    {
+      "id": 25,
+      "start": 109.25,
+      "end": 129.49,
+      "text": "This, we got the parters leveled."
+    },
+    {
+      "id": 26,
+      "start": 129.49,
+      "end": 175.78,
+      "text": "There are horse tracks running low as you know."
+    },
+    {
+      "id": 27,
+      "start": 175.78,
+      "end": 177.78,
+      "text": "I'm not sure if the village won't."
+    },
+    {
+      "id": 28,
+      "start": 177.78,
+      "end": 179.78,
+      "text": "Without them our village won't survive."
+    },
+    {
+      "id": 29,
+      "start": 179.78,
+      "end": 181.78,
+      "text": "Oh my god, oh my hamster's going to die."
+    },
+    {
+      "id": 30,
+      "start": 181.78,
+      "end": 210.34,
+      "text": "Here it is as a king."
+    },
+    {
+      "id": 31,
+      "start": 210.34,
+      "end": 212.34,
+      "text": "Thanks to the black and blue for the gubbling."
+    },
+    {
+      "id": 32,
+      "start": 212.34,
+      "end": 214.34,
+      "text": "I'm the village's..."
+    },
+    {
+      "id": 33,
+      "start": 214.34,
+      "end": 244.53,
+      "text": "We are literally doing the parter for your trail."
+    },
+    {
+      "id": 34,
+      "start": 244.53,
+      "end": 246.53,
+      "text": "We're first leveled again."
+    },
+    {
+      "id": 35,
+      "start": 246.53,
+      "end": 248.53,
+      "text": "You need to make that."
+    },
+    {
+      "id": 36,
+      "start": 248.53,
+      "end": 250.53,
+      "text": "That's the engineer's voice."
+    },
+    {
+      "id": 37,
+      "start": 250.53,
+      "end": 252.53,
+      "text": "To build the path into my path."
+    },
+    {
+      "id": 38,
+      "start": 252.53,
+      "end": 254.53,
+      "text": "You need to make that."
+    },
+    {
+      "id": 39,
+      "start": 254.53,
+      "end": 256.53,
+      "text": "I'm just gonna journey."
+    },
+    {
+      "id": 40,
+      "start": 256.53,
+      "end": 258.53,
+      "text": "You need to make that."
+    },
+    {
+      "id": 41,
+      "start": 258.53,
+      "end": 260.53,
+      "text": "I'm the parter's family to my genie, Terri."
+    },
+    {
+      "id": 42,
+      "start": 260.53,
+      "end": 262.53,
+      "text": "You know, Terri is the fairly half the collect"
+    },
+    {
+      "id": 43,
+      "start": 262.53,
+      "end": 264.53,
+      "text": "or the best metcanny I have seen for"
+    },
+    {
+      "id": 44,
+      "start": 264.53,
+      "end": 266.53,
+      "text": "to continue journey taking care of the guy."
+    },
+    {
+      "id": 45,
+      "start": 266.53,
+      "end": 268.53,
+      "text": "Good."
+    },
+    {
+      "id": 46,
+      "start": 268.53,
+      "end": 270.53,
+      "text": "That's the engineer's voice."
+    },
+    {
+      "id": 47,
+      "start": 270.53,
+      "end": 272.53,
+      "text": "You will take these through the village"
+    },
+    {
+      "id": 48,
+      "start": 272.53,
+      "end": 274.53,
+      "text": "as far as the rest I can enable."
+    },
+    {
+      "id": 49,
+      "start": 274.53,
+      "end": 276.53,
+      "text": "You need to reach your genie's jumps."
+    },
+    {
+      "id": 50,
+      "start": 276.53,
+      "end": 278.53,
+      "text": "Don't worry."
+    },
+    {
+      "id": 51,
+      "start": 278.53,
+      "end": 288.11,
+      "text": "I will provide you with the details."
+    },
+    {
+      "id": 52,
+      "start": 288.11,
+      "end": 290.11,
+      "text": "You can't see through each one of them."
+    },
+    {
+      "id": 53,
+      "start": 290.11,
+      "end": 292.11,
+      "text": "Any questions?"
+    },
+    {
+      "id": 54,
+      "start": 292.11,
+      "end": 294.11,
+      "text": "I'm just gonna go through them."
+    },
+    {
+      "id": 55,
+      "start": 294.11,
+      "end": 296.11,
+      "text": "I'm just gonna go through them."
+    },
+    {
+      "id": 56,
+      "start": 296.11,
+      "end": 298.11,
+      "text": "Any questions?"
+    },
+    {
+      "id": 57,
+      "start": 298.11,
+      "end": 306.93,
+      "text": "Oh my god."
+    },
+    {
+      "id": 58,
+      "start": 306.93,
+      "end": 308.93,
+      "text": "Journey."
+    },
+    {
+      "id": 59,
+      "start": 308.93,
+      "end": 310.93,
+      "text": "Say hi to the player."
+    },
+    {
+      "id": 60,
+      "start": 310.93,
+      "end": 314.98,
+      "text": "What? A friend? It's great to have you with me."
+    },
+    {
+      "id": 61,
+      "start": 314.98,
+      "end": 316.98,
+      "text": "You'll be a great add to the seat."
+    },
+    {
+      "id": 62,
+      "start": 316.98,
+      "end": 320.42,
+      "text": "Oh my god. You're looking at me."
+    },
+    {
+      "id": 63,
+      "start": 320.42,
+      "end": 322.42,
+      "text": "Wonderful. Let me get to my grab."
+    },
+    {
+      "id": 64,
+      "start": 322.42,
+      "end": 326.05,
+      "text": "Let me get my grab. I'm on a good trip."
+    },
+    {
+      "id": 65,
+      "start": 326.05,
+      "end": 328.05,
+      "text": "Why am I rushing in this place?"
+    },
+    {
+      "id": 66,
+      "start": 328.05,
+      "end": 330.05,
+      "text": "I don't know. Hamsters level of focus."
+    },
+    {
+      "id": 67,
+      "start": 330.05,
+      "end": 332.05,
+      "text": "I got Hamsters attention span."
+    },
+    {
+      "id": 68,
+      "start": 332.05,
+      "end": 334.05,
+      "text": "Thank you, Chief."
+    },
+    {
+      "id": 69,
+      "start": 334.05,
+      "end": 336.05,
+      "text": "Any rest assured me to fulfill this mission."
+    },
+    {
+      "id": 70,
+      "start": 336.05,
+      "end": 340.45,
+      "text": "I'm gonna turn these bad boys all the way down."
+    },
+    {
+      "id": 71,
+      "start": 340.45,
+      "end": 342.45,
+      "text": "Triple A games and shit on this."
+    },
+    {
+      "id": 72,
+      "start": 342.45,
+      "end": 343.45,
+      "text": "Burn them down?"
+    },
+    {
+      "id": 73,
+      "start": 343.45,
+      "end": 344.45,
+      "text": "Got full screen?"
+    }
+  ],
+  "text": "Woo!\nI'm Pappito.\nI'm the dog that produced the show.\nAnd now it is live.\nAnd I'm a dog.\nNow we got the chill set up.\nNow we're chilling!\nYeah, we're in the...\nWe're in the gamer set up now.\nFor straight gamers.\nBut we still have a hamster with us, hopefully.\nHamster here.\nThere we go. Back to normal.\nHamster.\nHamster's kind of teleporting around.\nOkay, it still looks a little janky.\nIf I'm being real.\nActually...\nNow it looks fine, I guess.\nI guess if I'm being real, it looks fine.\nLet's drop down a little bit though.\nOh, now we're in the strike zone.\nNow we're in this hole.\nUm...\nCan I still do this though?\nThis, we got the parters leveled.\nThere are horse tracks running low as you know.\nI'm not sure if the village won't.\nWithout them our village won't survive.\nOh my god, oh my hamster's going to die.\nHere it is as a king.\nThanks to the black and blue for the gubbling.\nI'm the village's...\nWe are literally doing the parter for your trail.\nWe're first leveled again.\nYou need to make that.\nThat's the engineer's voice.\nTo build the path into my path.\nYou need to make that.\nI'm just gonna journey.\nYou need to make that.\nI'm the parter's family to my genie, Terri.\nYou know, Terri is the fairly half the collect\nor the best metcanny I have seen for\nto continue journey taking care of the guy.\nGood.\nThat's the engineer's voice.\nYou will take these through the village\nas far as the rest I can enable.\nYou need to reach your genie's jumps.\nDon't worry.\nI will provide you with the details.\nYou can't see through each one of them.\nAny questions?\nI'm just gonna go through them.\nI'm just gonna go through them.\nAny questions?\nOh my god.\nJourney.\nSay hi to the player.\nWhat? A friend? It's great to have you with me.\nYou'll be a great add to the seat.\nOh my god. You're looking at me.\nWonderful. Let me get to my grab.\nLet me get my grab. I'm on a good trip.\nWhy am I rushing in this place?\nI don't know. Hamsters level of focus.\nI got Hamsters attention span.\nThank you, Chief.\nAny rest assured me to fulfill this mission.\nI'm gonna turn these bad boys all the way down.\nTriple A games and shit on this.\nBurn them down?\nGot full screen?",
+  "text_timestamped": "[00:02 --> 00:04] Woo!\n[00:04 --> 00:06] I'm Pappito.\n[00:06 --> 00:08] I'm the dog that produced the show.\n[00:08 --> 00:10] And now it is live.\n[00:10 --> 00:12] And I'm a dog.\n[00:12 --> 00:19] Now we got the chill set up.\n[00:19 --> 00:21] Now we're chilling!\n[00:21 --> 00:26] Yeah, we're in the...\n[00:26 --> 00:28] We're in the gamer set up now.\n[00:28 --> 00:30] For straight gamers.\n[00:30 --> 00:32] But we still have a hamster with us, hopefully.\n[00:32 --> 00:34] Hamster here.\n[00:34 --> 01:21] There we go. Back to normal.\n[01:21 --> 01:23] Hamster.\n[01:23 --> 01:25] Hamster's kind of teleporting around.\n[01:25 --> 01:28] Okay, it still looks a little janky.\n[01:28 --> 01:30] If I'm being real.\n[01:30 --> 01:32] Actually...\n[01:32 --> 01:35] Now it looks fine, I guess.\n[01:35 --> 01:37] I guess if I'm being real, it looks fine.\n[01:37 --> 01:41] Let's drop down a little bit though.\n[01:41 --> 01:43] Oh, now we're in the strike zone.\n[01:43 --> 01:45] Now we're in this hole.\n[01:45 --> 01:47] Um...\n[01:47 --> 01:49] Can I still do this though?\n[01:49 --> 02:09] This, we got the parters leveled.\n[02:09 --> 02:55] There are horse tracks running low as you know.\n[02:55 --> 02:57] I'm not sure if the village won't.\n[02:57 --> 02:59] Without them our village won't survive.\n[02:59 --> 03:01] Oh my god, oh my hamster's going to die.\n[03:01 --> 03:30] Here it is as a king.\n[03:30 --> 03:32] Thanks to the black and blue for the gubbling.\n[03:32 --> 03:34] I'm the village's...\n[03:34 --> 04:04] We are literally doing the parter for your trail.\n[04:04 --> 04:06] We're first leveled again.\n[04:06 --> 04:08] You need to make that.\n[04:08 --> 04:10] That's the engineer's voice.\n[04:10 --> 04:12] To build the path into my path.\n[04:12 --> 04:14] You need to make that.\n[04:14 --> 04:16] I'm just gonna journey.\n[04:16 --> 04:18] You need to make that.\n[04:18 --> 04:20] I'm the parter's family to my genie, Terri.\n[04:20 --> 04:22] You know, Terri is the fairly half the collect\n[04:22 --> 04:24] or the best metcanny I have seen for\n[04:24 --> 04:26] to continue journey taking care of the guy.\n[04:26 --> 04:28] Good.\n[04:28 --> 04:30] That's the engineer's voice.\n[04:30 --> 04:32] You will take these through the village\n[04:32 --> 04:34] as far as the rest I can enable.\n[04:34 --> 04:36] You need to reach your genie's jumps.\n[04:36 --> 04:38] Don't worry.\n[04:38 --> 04:48] I will provide you with the details.\n[04:48 --> 04:50] You can't see through each one of them.\n[04:50 --> 04:52] Any questions?\n[04:52 --> 04:54] I'm just gonna go through them.\n[04:54 --> 04:56] I'm just gonna go through them.\n[04:56 --> 04:58] Any questions?\n[04:58 --> 05:06] Oh my god.\n[05:06 --> 05:08] Journey.\n[05:08 --> 05:10] Say hi to the player.\n[05:10 --> 05:14] What? A friend? It's great to have you with me.\n[05:14 --> 05:16] You'll be a great add to the seat.\n[05:16 --> 05:20] Oh my god. You're looking at me.\n[05:20 --> 05:22] Wonderful. Let me get to my grab.\n[05:22 --> 05:26] Let me get my grab. I'm on a good trip.\n[05:26 --> 05:28] Why am I rushing in this place?\n[05:28 --> 05:30] I don't know. Hamsters level of focus.\n[05:30 --> 05:32] I got Hamsters attention span.\n[05:32 --> 05:34] Thank you, Chief.\n[05:34 --> 05:36] Any rest assured me to fulfill this mission.\n[05:36 --> 05:40] I'm gonna turn these bad boys all the way down.\n[05:40 --> 05:42] Triple A games and shit on this.\n[05:42 --> 05:43] Burn them down?\n[05:43 --> 05:44] Got full screen?"
+}
