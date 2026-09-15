@@ -1,0 +1,19 @@
+{
+  "vod_id": "UHazmiRCsHw",
+  "title": "Hamtaro Time (news?)",
+  "url": "https://www.youtube.com/watch?v=UHazmiRCsHw",
+  "duration_seconds": 5102,
+  "duration": "1:25:02",
+  "timestamp": 1748390400,
+  "aired_at": "2025-05-28T00:00:00+00:00",
+  "date": "2025-05-28",
+  "ingested_at": "2026-09-15T01:58:13.701415+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "UHazmiRCsHw",
+  "yt_url": "https://www.youtube.com/watch?v=UHazmiRCsHw",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-05-28"
+}

@@ -1,0 +1,3187 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "model_requested": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 5101.477,
+  "chunk_seconds": null,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Graphically demanding game"
+    },
+    {
+      "id": 1,
+      "start": 3.96,
+      "end": 5.96,
+      "text": "Of all time"
+    },
+    {
+      "id": 2,
+      "start": 6.12,
+      "end": 8.32,
+      "text": "All right now it's streaming again on my end"
+    },
+    {
+      "id": 3,
+      "start": 8.48,
+      "end": 13.72,
+      "text": "I'm Pupito. I'm the dog that produces the show and now it is live. I'm not my dog."
+    },
+    {
+      "id": 4,
+      "start": 13.72,
+      "end": 14.72,
+      "text": "Fs?"
+    },
+    {
+      "id": 5,
+      "start": 15.36,
+      "end": 17.36,
+      "text": "Fs, Fs, Fs, Fs in chat"
+    },
+    {
+      "id": 6,
+      "start": 18.76,
+      "end": 22.0,
+      "text": "How does this keep breaking the stream this hamster game?"
+    },
+    {
+      "id": 7,
+      "start": 23.48,
+      "end": 27.76,
+      "text": "All right, let's see what happens if I switch to the game which the hamster is still playing"
+    },
+    {
+      "id": 8,
+      "start": 27.76,
+      "end": 32.1,
+      "text": "Does it work anymore?"
+    },
+    {
+      "id": 9,
+      "start": 32.1,
+      "end": 37.1,
+      "text": "Get it handled on graphics of this incredible game"
+    },
+    {
+      "id": 10,
+      "start": 37.1,
+      "end": 42.01,
+      "text": "Oh, looks pretty crisp"
+    },
+    {
+      "id": 11,
+      "start": 42.01,
+      "end": 49.54,
+      "text": "It's a crash of shows. I mean look at this"
+    },
+    {
+      "id": 12,
+      "start": 50.54,
+      "end": 52.54,
+      "text": "Look at the intense puzzle I gotta do"
+    },
+    {
+      "id": 13,
+      "start": 52.54,
+      "end": 58.62,
+      "text": "Hello traveler, I can work in the mine because I love my pickaxe"
+    },
+    {
+      "id": 14,
+      "start": 58.62,
+      "end": 59.62,
+      "text": "Any help me?"
+    },
+    {
+      "id": 15,
+      "start": 59.62,
+      "end": 70.21,
+      "text": "My guy's like, yeah I can"
+    },
+    {
+      "id": 16,
+      "start": 70.21,
+      "end": 72.21,
+      "text": "Oh my god they literally is complexity"
+    },
+    {
+      "id": 17,
+      "start": 72.21,
+      "end": 85.67,
+      "text": "Bones of choices, what are you training?"
+    },
+    {
+      "id": 18,
+      "start": 85.67,
+      "end": 136.6,
+      "text": "Maybe this game is unstreamable"
+    },
+    {
+      "id": 19,
+      "start": 138.6,
+      "end": 139.6,
+      "text": "But why?"
+    },
+    {
+      "id": 20,
+      "start": 145.11,
+      "end": 147.11,
+      "text": "I was, I mean that hamster was locked in"
+    },
+    {
+      "id": 21,
+      "start": 147.11,
+      "end": 150.11,
+      "text": "You can see me, can you see the hamster game though?"
+    },
+    {
+      "id": 22,
+      "start": 150.11,
+      "end": 155.11,
+      "text": "And why would this hamster game create so many issues?"
+    },
+    {
+      "id": 23,
+      "start": 155.11,
+      "end": 157.11,
+      "text": "It's working now? Okay"
+    },
+    {
+      "id": 24,
+      "start": 157.11,
+      "end": 162.11,
+      "text": "I'm just gonna leave, I'm gonna pull up my stream on my end as well"
+    },
+    {
+      "id": 25,
+      "start": 162.11,
+      "end": 165.11,
+      "text": "And then I'll see if it dies I guess"
+    },
+    {
+      "id": 26,
+      "start": 165.11,
+      "end": 168.81,
+      "text": "I'll keep an eye"
+    },
+    {
+      "id": 27,
+      "start": 168.81,
+      "end": 172.54,
+      "text": "I'll keep an eye on it, you already missed out"
+    },
+    {
+      "id": 28,
+      "start": 172.54,
+      "end": 174.54,
+      "text": "This level's impossible"
+    },
+    {
+      "id": 29,
+      "start": 174.54,
+      "end": 178.55,
+      "text": "No one's ever beaten me"
+    },
+    {
+      "id": 30,
+      "start": 178.55,
+      "end": 179.55,
+      "text": "Nobody ever will"
+    },
+    {
+      "id": 31,
+      "start": 179.55,
+      "end": 181.83,
+      "text": "The hardest game"
+    },
+    {
+      "id": 32,
+      "start": 181.83,
+      "end": 255.2,
+      "text": "Forget to do the loop, the loop and launch right into the peak"
+    },
+    {
+      "id": 33,
+      "start": 255.2,
+      "end": 301.65,
+      "text": "Wait a minute, Kendall should come try this too"
+    },
+    {
+      "id": 34,
+      "start": 301.65,
+      "end": 309.44,
+      "text": "It's the kind of thing she'd do for a minute"
+    },
+    {
+      "id": 35,
+      "start": 309.44,
+      "end": 327.62,
+      "text": "That's a little presumptuous of the hamster to assume that for some reason I wouldn't be doing well"
+    },
+    {
+      "id": 36,
+      "start": 327.62,
+      "end": 330.62,
+      "text": "I'm doing fine, I'm just chilling"
+    },
+    {
+      "id": 37,
+      "start": 330.62,
+      "end": 332.62,
+      "text": "While this hamster"
+    },
+    {
+      "id": 38,
+      "start": 332.62,
+      "end": 334.62,
+      "text": "Honestly if I was playing this"
+    },
+    {
+      "id": 39,
+      "start": 334.62,
+      "end": 336.62,
+      "text": "I'd be going so fast"
+    },
+    {
+      "id": 40,
+      "start": 336.62,
+      "end": 340.62,
+      "text": "I'd be like crush, I'd essentially be speedrunning this game first time playing it"
+    },
+    {
+      "id": 41,
+      "start": 340.62,
+      "end": 342.62,
+      "text": "Just so you know hamster"
+    },
+    {
+      "id": 42,
+      "start": 342.62,
+      "end": 345.62,
+      "text": "Wow, tastes extremely full of themselves"
+    },
+    {
+      "id": 43,
+      "start": 345.62,
+      "end": 353.86,
+      "text": "And the absolute avoiding this just saying here is probably got so many levels"
+    },
+    {
+      "id": 44,
+      "start": 353.86,
+      "end": 355.86,
+      "text": "This is a real game"
+    },
+    {
+      "id": 45,
+      "start": 355.86,
+      "end": 360.86,
+      "text": "This is a real game for smarts"
+    },
+    {
+      "id": 46,
+      "start": 360.86,
+      "end": 363.86,
+      "text": "Some of the smartest ever to play a game"
+    },
+    {
+      "id": 47,
+      "start": 363.86,
+      "end": 371.52,
+      "text": "Or never beat this"
+    },
+    {
+      "id": 48,
+      "start": 371.52,
+      "end": 372.52,
+      "text": "Look at this, look at this"
+    },
+    {
+      "id": 49,
+      "start": 372.52,
+      "end": 374.52,
+      "text": "No, I hit the wrong button"
+    },
+    {
+      "id": 50,
+      "start": 374.52,
+      "end": 423.75,
+      "text": "If you click on the same thing twice"
+    },
+    {
+      "id": 51,
+      "start": 423.75,
+      "end": 426.75,
+      "text": "It breaks it is a thing we just learned together"
+    },
+    {
+      "id": 52,
+      "start": 426.75,
+      "end": 435.09,
+      "text": "The hamster god"
+    },
+    {
+      "id": 53,
+      "start": 435.09,
+      "end": 438.09,
+      "text": "The church of Hamtaro does not appreciate"
+    },
+    {
+      "id": 54,
+      "start": 438.09,
+      "end": 525.98,
+      "text": "Avengers that he snapped out of existence"
+    },
+    {
+      "id": 55,
+      "start": 525.98,
+      "end": 527.98,
+      "text": "Wait, you can rewind?"
+    },
+    {
+      "id": 56,
+      "start": 527.98,
+      "end": 589.74,
+      "text": "For longer agree with everything that's been a duty playing that game"
+    },
+    {
+      "id": 57,
+      "start": 589.74,
+      "end": 716.14,
+      "text": "Hit it Hamtaro, let alone seem to show"
+    },
+    {
+      "id": 58,
+      "start": 716.14,
+      "end": 718.14,
+      "text": "We've brewed into the subject"
+    },
+    {
+      "id": 59,
+      "start": 718.14,
+      "end": 721.54,
+      "text": "This is pretty much what it was"
+    },
+    {
+      "id": 60,
+      "start": 721.54,
+      "end": 752.82,
+      "text": "Dude, is something trick to this?"
+    },
+    {
+      "id": 61,
+      "start": 752.82,
+      "end": 754.82,
+      "text": "Or fortress mom where all your doors are hamsters"
+    },
+    {
+      "id": 62,
+      "start": 754.82,
+      "end": 755.82,
+      "text": "Should we play door fortress?"
+    },
+    {
+      "id": 63,
+      "start": 755.82,
+      "end": 773.63,
+      "text": "Hamsters on wheelchains"
+    },
+    {
+      "id": 64,
+      "start": 773.63,
+      "end": 774.63,
+      "text": "Probably nothing"
+    },
+    {
+      "id": 65,
+      "start": 774.63,
+      "end": 776.63,
+      "text": "Which is too accurate for sure I guess"
+    },
+    {
+      "id": 66,
+      "start": 776.63,
+      "end": 811.43,
+      "text": "I'll go backwards if you're actually"
+    },
+    {
+      "id": 67,
+      "start": 811.43,
+      "end": 818.62,
+      "text": "This is one of the cruelest games in player progress"
+    },
+    {
+      "id": 68,
+      "start": 818.62,
+      "end": 824.62,
+      "text": "I would really prefer to just undo one move"
+    },
+    {
+      "id": 69,
+      "start": 824.62,
+      "end": 829.3,
+      "text": "What are my skins?"
+    },
+    {
+      "id": 70,
+      "start": 829.3,
+      "end": 830.3,
+      "text": "Show me the hamster"
+    },
+    {
+      "id": 71,
+      "start": 830.3,
+      "end": 838.91,
+      "text": "What the game we're actually playing is patience simulator"
+    },
+    {
+      "id": 72,
+      "start": 838.91,
+      "end": 840.91,
+      "text": "But if you make a mistake"
+    },
+    {
+      "id": 73,
+      "start": 840.91,
+      "end": 842.91,
+      "text": "You pay the ultimate price"
+    },
+    {
+      "id": 74,
+      "start": 842.91,
+      "end": 844.91,
+      "text": "Of having to play this game longer"
+    },
+    {
+      "id": 75,
+      "start": 846.96,
+      "end": 847.96,
+      "text": "It's cruel"
+    },
+    {
+      "id": 76,
+      "start": 847.96,
+      "end": 849.96,
+      "text": "It's a cruel game"
+    },
+    {
+      "id": 77,
+      "start": 849.96,
+      "end": 851.96,
+      "text": "Or psycho"
+    },
+    {
+      "id": 78,
+      "start": 851.96,
+      "end": 869.02,
+      "text": "How to meditate"
+    },
+    {
+      "id": 79,
+      "start": 869.02,
+      "end": 905.01,
+      "text": "Think on what it means"
+    },
+    {
+      "id": 80,
+      "start": 905.01,
+      "end": 906.01,
+      "text": "Now check this shit out, okay"
+    },
+    {
+      "id": 81,
+      "start": 906.01,
+      "end": 1390.22,
+      "text": "In for all my problems"
+    },
+    {
+      "id": 82,
+      "start": 1390.22,
+      "end": 1392.22,
+      "text": "But I'll admit"
+    },
+    {
+      "id": 83,
+      "start": 1392.22,
+      "end": 1394.22,
+      "text": "But I didn't know what one of the fundamental buttons was"
+    },
+    {
+      "id": 84,
+      "start": 1394.22,
+      "end": 1398.52,
+      "text": "Back in hell we go"
+    },
+    {
+      "id": 85,
+      "start": 1398.52,
+      "end": 1400.52,
+      "text": "On our day we trip to hell"
+    },
+    {
+      "id": 86,
+      "start": 1400.52,
+      "end": 1407.54,
+      "text": "Click on the airbrake"
+    },
+    {
+      "id": 87,
+      "start": 1407.54,
+      "end": 1446.94,
+      "text": "Creatures I'd see"
+    },
+    {
+      "id": 88,
+      "start": 1446.94,
+      "end": 1451.4,
+      "text": "It's normal for hell though"
+    },
+    {
+      "id": 89,
+      "start": 1451.4,
+      "end": 1453.4,
+      "text": "You have to eat your friends"
+    },
+    {
+      "id": 90,
+      "start": 1453.4,
+      "end": 1466.76,
+      "text": "Hamsters are the only means"
+    },
+    {
+      "id": 91,
+      "start": 1466.76,
+      "end": 1468.76,
+      "text": "Warn you that this was hell"
+    },
+    {
+      "id": 92,
+      "start": 1468.76,
+      "end": 1779.91,
+      "text": "The treasure and then the hamster water"
+    },
+    {
+      "id": 93,
+      "start": 1779.91,
+      "end": 1780.91,
+      "text": "We don't do this"
+    },
+    {
+      "id": 94,
+      "start": 1780.91,
+      "end": 1793.41,
+      "text": "So let's see if Kendall wants to play"
+    },
+    {
+      "id": 95,
+      "start": 1793.41,
+      "end": 1795.41,
+      "text": "You know if we were at negative"
+    },
+    {
+      "id": 96,
+      "start": 1795.41,
+      "end": 1797.41,
+      "text": "Followers before"
+    },
+    {
+      "id": 97,
+      "start": 1797.41,
+      "end": 1798.41,
+      "text": "We can do"
+    },
+    {
+      "id": 98,
+      "start": 1798.41,
+      "end": 1800.41,
+      "text": "We can go even more negative"
+    },
+    {
+      "id": 99,
+      "start": 1800.41,
+      "end": 1802.41,
+      "text": "If I keep playing this game"
+    },
+    {
+      "id": 100,
+      "start": 1802.41,
+      "end": 1805.41,
+      "text": "So I better keep playing it"
+    },
+    {
+      "id": 101,
+      "start": 1805.41,
+      "end": 1807.41,
+      "text": "I don't know if Kendall wants to play"
+    },
+    {
+      "id": 102,
+      "start": 1807.41,
+      "end": 1808.41,
+      "text": "But I'll go check"
+    },
+    {
+      "id": 103,
+      "start": 1808.41,
+      "end": 1810.41,
+      "text": "She did seem interested when she saw me"
+    },
+    {
+      "id": 104,
+      "start": 1810.41,
+      "end": 1813.41,
+      "text": "For the record purchasing this game"
+    },
+    {
+      "id": 105,
+      "start": 1813.41,
+      "end": 1815.41,
+      "text": "With real money"
+    },
+    {
+      "id": 106,
+      "start": 1815.41,
+      "end": 1816.41,
+      "text": "I'll be right back"
+    },
+    {
+      "id": 107,
+      "start": 1816.41,
+      "end": 1878.35,
+      "text": "No maybe I got this wallpaper for free"
+    },
+    {
+      "id": 108,
+      "start": 1878.35,
+      "end": 1881.35,
+      "text": "But I got Hamtaro for money"
+    },
+    {
+      "id": 109,
+      "start": 1881.35,
+      "end": 1884.35,
+      "text": "And by Hamtaro I mean not Hamtaro"
+    },
+    {
+      "id": 110,
+      "start": 1884.35,
+      "end": 1886.35,
+      "text": "Scan the setup"
+    },
+    {
+      "id": 111,
+      "start": 1886.35,
+      "end": 1888.35,
+      "text": "Find all my secret devices"
+    },
+    {
+      "id": 112,
+      "start": 1888.35,
+      "end": 1891.73,
+      "text": "My favorite secret devices"
+    },
+    {
+      "id": 113,
+      "start": 1891.73,
+      "end": 1894.73,
+      "text": "You thought the background was green screen"
+    },
+    {
+      "id": 114,
+      "start": 1894.73,
+      "end": 1896.73,
+      "text": "No it's real"
+    },
+    {
+      "id": 115,
+      "start": 1896.73,
+      "end": 1899.73,
+      "text": "But it's lit very differently than me"
+    },
+    {
+      "id": 116,
+      "start": 1899.73,
+      "end": 1900.73,
+      "text": "So it kinda looks fake"
+    },
+    {
+      "id": 117,
+      "start": 1900.73,
+      "end": 1905.51,
+      "text": "Still too much for that wallpaper"
+    },
+    {
+      "id": 118,
+      "start": 1905.51,
+      "end": 1907.51,
+      "text": "I kinda like this wallpaper"
+    },
+    {
+      "id": 119,
+      "start": 1907.51,
+      "end": 1910.51,
+      "text": "It looks a little worse on stream than it does in"
+    },
+    {
+      "id": 120,
+      "start": 1910.51,
+      "end": 1911.51,
+      "text": "IRL"
+    },
+    {
+      "id": 121,
+      "start": 1911.51,
+      "end": 1913.51,
+      "text": "You'll just have to take my word for it"
+    },
+    {
+      "id": 122,
+      "start": 1913.51,
+      "end": 1918.39,
+      "text": "How much was the not Hamtaro game?"
+    },
+    {
+      "id": 123,
+      "start": 1918.39,
+      "end": 1920.39,
+      "text": "$15"
+    },
+    {
+      "id": 124,
+      "start": 1920.39,
+      "end": 1923.39,
+      "text": "Kendall refuses to play"
+    },
+    {
+      "id": 125,
+      "start": 1923.39,
+      "end": 1926.39,
+      "text": "Kendall you wanna say hi before you go over there?"
+    },
+    {
+      "id": 126,
+      "start": 1926.39,
+      "end": 1929.39,
+      "text": "She says she's busy"
+    },
+    {
+      "id": 127,
+      "start": 1929.39,
+      "end": 1932.39,
+      "text": "I can't believe she's too busy for this"
+    },
+    {
+      "id": 128,
+      "start": 1932.39,
+      "end": 1936.63,
+      "text": "15 is a lot"
+    },
+    {
+      "id": 129,
+      "start": 1936.63,
+      "end": 1938.63,
+      "text": "Yeah"
+    },
+    {
+      "id": 130,
+      "start": 1938.63,
+      "end": 1940.63,
+      "text": "It's probably not worth it"
+    },
+    {
+      "id": 131,
+      "start": 1940.63,
+      "end": 1943.63,
+      "text": "But we better play it"
+    },
+    {
+      "id": 132,
+      "start": 1943.63,
+      "end": 1945.63,
+      "text": "No she's playing D&D"
+    },
+    {
+      "id": 133,
+      "start": 1945.63,
+      "end": 1946.63,
+      "text": "That's why she can't"
+    },
+    {
+      "id": 134,
+      "start": 1946.63,
+      "end": 1948.63,
+      "text": "She has a social engagement"
+    },
+    {
+      "id": 135,
+      "start": 1948.63,
+      "end": 1950.63,
+      "text": "I should have asked her 30 minutes ago"
+    },
+    {
+      "id": 136,
+      "start": 1950.63,
+      "end": 1955.64,
+      "text": "But I think she was sleeping then"
+    },
+    {
+      "id": 137,
+      "start": 1955.64,
+      "end": 1956.64,
+      "text": "Nobody cares"
+    },
+    {
+      "id": 138,
+      "start": 1956.64,
+      "end": 1961.85,
+      "text": "Everybody wonders what's going on with this game"
+    },
+    {
+      "id": 139,
+      "start": 1961.85,
+      "end": 1963.85,
+      "text": "All that people care about is this"
+    },
+    {
+      "id": 140,
+      "start": 1963.85,
+      "end": 1965.85,
+      "text": "Listen how many"
+    },
+    {
+      "id": 141,
+      "start": 1965.85,
+      "end": 1968.85,
+      "text": "How many levels can there even be?"
+    },
+    {
+      "id": 142,
+      "start": 1968.85,
+      "end": 1974.24,
+      "text": "In the grass world"
+    },
+    {
+      "id": 143,
+      "start": 1974.24,
+      "end": 1975.24,
+      "text": "One biome"
+    },
+    {
+      "id": 144,
+      "start": 1975.24,
+      "end": 1990.39,
+      "text": "Thank you so much"
+    },
+    {
+      "id": 145,
+      "start": 1990.39,
+      "end": 1992.39,
+      "text": "For the three gifted subs"
+    },
+    {
+      "id": 146,
+      "start": 1992.39,
+      "end": 2001.82,
+      "text": "Which is what everybody really wanted to see"
+    },
+    {
+      "id": 147,
+      "start": 2001.82,
+      "end": 2003.82,
+      "text": "I'm not sure about that hamster"
+    },
+    {
+      "id": 148,
+      "start": 2003.82,
+      "end": 2018.82,
+      "text": "Fun off case this is my time"
+    },
+    {
+      "id": 149,
+      "start": 2018.82,
+      "end": 2019.82,
+      "text": "By defense"
+    },
+    {
+      "id": 150,
+      "start": 2019.82,
+      "end": 2022.82,
+      "text": "It's really small on my screen"
+    },
+    {
+      "id": 151,
+      "start": 2022.82,
+      "end": 2024.82,
+      "text": "I had to get a little mini version"
+    },
+    {
+      "id": 152,
+      "start": 2024.82,
+      "end": 2026.82,
+      "text": "I had to shrink it down to"
+    },
+    {
+      "id": 153,
+      "start": 2026.82,
+      "end": 2029.82,
+      "text": "About a third of my screen size"
+    },
+    {
+      "id": 154,
+      "start": 2029.82,
+      "end": 2031.82,
+      "text": "And my little hamster eyes can barely even see"
+    },
+    {
+      "id": 155,
+      "start": 2031.82,
+      "end": 2039.4,
+      "text": "What if I don't get this guy's shovel"
+    },
+    {
+      "id": 156,
+      "start": 2039.4,
+      "end": 2042.4,
+      "text": "Somebody's probably pissed off about losing their shovel"
+    },
+    {
+      "id": 157,
+      "start": 2042.4,
+      "end": 2048.82,
+      "text": "Look how out of the way this shovel is"
+    },
+    {
+      "id": 158,
+      "start": 2048.82,
+      "end": 2056.04,
+      "text": "Somebody's really putting us out"
+    },
+    {
+      "id": 159,
+      "start": 2056.04,
+      "end": 2058.04,
+      "text": "With this shovel bullshit"
+    },
+    {
+      "id": 160,
+      "start": 2058.04,
+      "end": 2060.96,
+      "text": "ruining my day"
+    },
+    {
+      "id": 161,
+      "start": 2060.96,
+      "end": 2069.66,
+      "text": "Impossible psychotic shovel stuff"
+    },
+    {
+      "id": 162,
+      "start": 2069.66,
+      "end": 2136.03,
+      "text": "Cause I'm so little"
+    },
+    {
+      "id": 163,
+      "start": 2136.03,
+      "end": 2138.73,
+      "text": "That's what I'm saying"
+    },
+    {
+      "id": 164,
+      "start": 2138.73,
+      "end": 2471.06,
+      "text": "You don't have to"
+    },
+    {
+      "id": 165,
+      "start": 2471.06,
+      "end": 2474.06,
+      "text": "I'm letting you play this baby hamster game"
+    },
+    {
+      "id": 166,
+      "start": 2474.06,
+      "end": 2476.06,
+      "text": "You don't have to be that mean to me"
+    },
+    {
+      "id": 167,
+      "start": 2476.06,
+      "end": 2477.06,
+      "text": "Okay"
+    },
+    {
+      "id": 168,
+      "start": 2477.06,
+      "end": 2505.2,
+      "text": "Get this stuff and then rewind it"
+    },
+    {
+      "id": 169,
+      "start": 2505.2,
+      "end": 2512.29,
+      "text": "Then it's really how you're supposed to play this game"
+    },
+    {
+      "id": 170,
+      "start": 2512.29,
+      "end": 3024.33,
+      "text": "That works"
+    },
+    {
+      "id": 171,
+      "start": 3024.33,
+      "end": 3027.09,
+      "text": "That works"
+    },
+    {
+      "id": 172,
+      "start": 3027.09,
+      "end": 3030.01,
+      "text": "With the cutting hamster"
+    },
+    {
+      "id": 173,
+      "start": 3030.01,
+      "end": 3033.61,
+      "text": "I'm like you have one thing going on"
+    },
+    {
+      "id": 174,
+      "start": 3033.61,
+      "end": 3034.61,
+      "text": "Which is cutting wood"
+    },
+    {
+      "id": 175,
+      "start": 3034.61,
+      "end": 3360.26,
+      "text": "You're about to lid this"
+    },
+    {
+      "id": 176,
+      "start": 3360.26,
+      "end": 3368.01,
+      "text": "Oh I got max"
+    },
+    {
+      "id": 177,
+      "start": 3368.01,
+      "end": 3384.3,
+      "text": "Not from this man"
+    },
+    {
+      "id": 178,
+      "start": 3384.3,
+      "end": 3425.76,
+      "text": "The whole game that's how it works"
+    },
+    {
+      "id": 179,
+      "start": 3425.76,
+      "end": 3427.76,
+      "text": "I gotta pick up this pile of crap"
+    },
+    {
+      "id": 180,
+      "start": 3427.76,
+      "end": 3428.76,
+      "text": "And I gotta get this key"
+    },
+    {
+      "id": 181,
+      "start": 3428.76,
+      "end": 3431.76,
+      "text": "And I gotta get rich off this treasure chest"
+    },
+    {
+      "id": 182,
+      "start": 3431.76,
+      "end": 3434.76,
+      "text": "What would I got in store this time"
+    },
+    {
+      "id": 183,
+      "start": 3434.76,
+      "end": 3659.51,
+      "text": "One terabyte of death storage"
+    },
+    {
+      "id": 184,
+      "start": 3659.51,
+      "end": 3662.51,
+      "text": "All of this is actually an AI game"
+    },
+    {
+      "id": 185,
+      "start": 3662.51,
+      "end": 3665.51,
+      "text": "All of these graphics are being rendered in real time"
+    },
+    {
+      "id": 186,
+      "start": 3665.51,
+      "end": 3666.51,
+      "text": "By a large language model"
+    },
+    {
+      "id": 187,
+      "start": 3666.51,
+      "end": 3689.51,
+      "text": "And that's why it looks so nice level"
+    },
+    {
+      "id": 188,
+      "start": 3689.51,
+      "end": 3690.51,
+      "text": "We're gonna do this"
+    },
+    {
+      "id": 189,
+      "start": 3690.51,
+      "end": 3692.51,
+      "text": "Just to get this freakin' treasure"
+    },
+    {
+      "id": 190,
+      "start": 3692.51,
+      "end": 3722.42,
+      "text": "Murder treasure that wants me to get that treasure"
+    },
+    {
+      "id": 191,
+      "start": 3722.42,
+      "end": 3724.42,
+      "text": "No memorial day sales price"
+    },
+    {
+      "id": 192,
+      "start": 3724.42,
+      "end": 3726.42,
+      "text": "Hamsters don't believe in memorial day"
+    },
+    {
+      "id": 193,
+      "start": 3726.42,
+      "end": 3729.42,
+      "text": "Because we work all the time"
+    },
+    {
+      "id": 194,
+      "start": 3729.42,
+      "end": 3731.42,
+      "text": "We're constantly in service"
+    },
+    {
+      "id": 195,
+      "start": 3731.42,
+      "end": 3734.42,
+      "text": "So for us it's more like a memorial year"
+    },
+    {
+      "id": 196,
+      "start": 3734.42,
+      "end": 3737.42,
+      "text": "Hamsters are constantly at war with ourselves"
+    },
+    {
+      "id": 197,
+      "start": 3737.42,
+      "end": 3741.18,
+      "text": "Even turtle battles"
+    },
+    {
+      "id": 198,
+      "start": 3741.18,
+      "end": 3745.48,
+      "text": "This hamster's happy"
+    },
+    {
+      "id": 199,
+      "start": 3745.48,
+      "end": 3749.53,
+      "text": "Look how many costumes there are"
+    },
+    {
+      "id": 200,
+      "start": 3749.53,
+      "end": 3751.53,
+      "text": "It's a panda hamster"
+    },
+    {
+      "id": 201,
+      "start": 3751.53,
+      "end": 3753.53,
+      "text": "This is incredible stuff"
+    },
+    {
+      "id": 202,
+      "start": 3753.53,
+      "end": 3763.34,
+      "text": "Bounty of skins"
+    },
+    {
+      "id": 203,
+      "start": 3763.34,
+      "end": 3764.34,
+      "text": "More skins"
+    },
+    {
+      "id": 204,
+      "start": 3764.34,
+      "end": 3784.26,
+      "text": "Got the treasure so I'll rewind this shit back"
+    },
+    {
+      "id": 205,
+      "start": 3784.26,
+      "end": 3982.67,
+      "text": "Way to go hamster"
+    },
+    {
+      "id": 206,
+      "start": 3982.67,
+      "end": 3985.67,
+      "text": "There's no time for your petty thank yous case"
+    },
+    {
+      "id": 207,
+      "start": 3985.67,
+      "end": 3988.67,
+      "text": "Time is now for me to wrap"
+    },
+    {
+      "id": 208,
+      "start": 3988.67,
+      "end": 3991.94,
+      "text": "Oh yeah"
+    },
+    {
+      "id": 209,
+      "start": 3991.94,
+      "end": 3993.94,
+      "text": "Well you don't have to do a really long one"
+    },
+    {
+      "id": 210,
+      "start": 3993.94,
+      "end": 3994.94,
+      "text": "We'll see"
+    },
+    {
+      "id": 211,
+      "start": 3994.94,
+      "end": 3996.94,
+      "text": "We'll see how I feel"
+    },
+    {
+      "id": 212,
+      "start": 3996.94,
+      "end": 4001.96,
+      "text": "I'll send other hamsters that can pop into wraps"
+    },
+    {
+      "id": 213,
+      "start": 4001.96,
+      "end": 4024.79,
+      "text": "It's like a weight's been removed from my shoulders"
+    },
+    {
+      "id": 214,
+      "start": 4024.79,
+      "end": 4041.45,
+      "text": "The hamsters"
+    },
+    {
+      "id": 215,
+      "start": 4041.45,
+      "end": 4043.45,
+      "text": "Did that game only have one song?"
+    },
+    {
+      "id": 216,
+      "start": 4043.45,
+      "end": 4045.45,
+      "text": "Well we didn't see the other biomes"
+    },
+    {
+      "id": 217,
+      "start": 4045.45,
+      "end": 4047.45,
+      "text": "So it's hard to say"
+    },
+    {
+      "id": 218,
+      "start": 4047.45,
+      "end": 4050.53,
+      "text": "Hmm"
+    },
+    {
+      "id": 219,
+      "start": 4050.53,
+      "end": 4052.53,
+      "text": "Uh, try raiding Will Neff"
+    },
+    {
+      "id": 220,
+      "start": 4052.53,
+      "end": 4055.53,
+      "text": "Might help numbers and remind him of you"
+    },
+    {
+      "id": 221,
+      "start": 4055.53,
+      "end": 4056.53,
+      "text": "Get those numbers up"
+    },
+    {
+      "id": 222,
+      "start": 4056.53,
+      "end": 4059.53,
+      "text": "I'll be honest I'm not terribly concerned"
+    },
+    {
+      "id": 223,
+      "start": 4059.53,
+      "end": 4061.53,
+      "text": "I'll vote my numbers"
+    },
+    {
+      "id": 224,
+      "start": 4061.53,
+      "end": 4063.53,
+      "text": "I kind of just stream for fun"
+    },
+    {
+      "id": 225,
+      "start": 4063.53,
+      "end": 4065.53,
+      "text": "Oh really?"
+    },
+    {
+      "id": 226,
+      "start": 4065.53,
+      "end": 4069.57,
+      "text": "Yeah"
+    },
+    {
+      "id": 227,
+      "start": 4069.57,
+      "end": 4076.72,
+      "text": "This is about hamster rap"
+    },
+    {
+      "id": 228,
+      "start": 4077.72,
+      "end": 4080.72,
+      "text": "That song was kind of eating my soul as well"
+    },
+    {
+      "id": 229,
+      "start": 4080.72,
+      "end": 4081.72,
+      "text": "Hmm"
+    },
+    {
+      "id": 230,
+      "start": 4081.72,
+      "end": 4084.16,
+      "text": "Um"
+    },
+    {
+      "id": 231,
+      "start": 4084.16,
+      "end": 4085.16,
+      "text": "Don't worry"
+    },
+    {
+      "id": 232,
+      "start": 4085.16,
+      "end": 4088.16,
+      "text": "If we really wanted to get our followers and numbers up"
+    },
+    {
+      "id": 233,
+      "start": 4088.16,
+      "end": 4089.16,
+      "text": "There would be various ways to do it"
+    },
+    {
+      "id": 234,
+      "start": 4089.16,
+      "end": 4090.16,
+      "text": "Which we might do at some point"
+    },
+    {
+      "id": 235,
+      "start": 4090.16,
+      "end": 4091.16,
+      "text": "But um"
+    },
+    {
+      "id": 236,
+      "start": 4091.16,
+      "end": 4095.82,
+      "text": "Right now I'm kind of"
+    },
+    {
+      "id": 237,
+      "start": 4095.82,
+      "end": 4097.82,
+      "text": "I'm more of a hamster focused streamer"
+    },
+    {
+      "id": 238,
+      "start": 4097.82,
+      "end": 4099.82,
+      "text": "More than a growth focused streamer"
+    },
+    {
+      "id": 239,
+      "start": 4099.82,
+      "end": 4104.06,
+      "text": "Yeah I could like hang Dong"
+    },
+    {
+      "id": 240,
+      "start": 4104.06,
+      "end": 4108.06,
+      "text": "Or I could like um collaborate with other people that hang Dong"
+    },
+    {
+      "id": 241,
+      "start": 4108.06,
+      "end": 4110.06,
+      "text": "Or I could um"
+    },
+    {
+      "id": 242,
+      "start": 4110.06,
+      "end": 4115.06,
+      "text": "I could invite three of my best male friends over to berate a row of women"
+    },
+    {
+      "id": 243,
+      "start": 4115.06,
+      "end": 4117.06,
+      "text": "That we've assembled"
+    },
+    {
+      "id": 244,
+      "start": 4117.06,
+      "end": 4120.06,
+      "text": "To tell them that they're bad for having sex"
+    },
+    {
+      "id": 245,
+      "start": 4120.06,
+      "end": 4124.06,
+      "text": "Is another, is like another growth strategy that I really enjoy"
+    },
+    {
+      "id": 246,
+      "start": 4124.06,
+      "end": 4127.06,
+      "text": "Um, alright"
+    },
+    {
+      "id": 247,
+      "start": 4127.06,
+      "end": 4131.17,
+      "text": "Hamster beat"
+    },
+    {
+      "id": 248,
+      "start": 4131.17,
+      "end": 4135.48,
+      "text": "Can a hamster beat honor, these aren't hamster beats"
+    },
+    {
+      "id": 249,
+      "start": 4135.48,
+      "end": 4139.14,
+      "text": "Hamster trap beat"
+    },
+    {
+      "id": 250,
+      "start": 4139.14,
+      "end": 4144.14,
+      "text": "Sorry I did not, maybe I should have shown that number if it makes anyone actually concerned"
+    },
+    {
+      "id": 251,
+      "start": 4144.14,
+      "end": 4148.14,
+      "text": "I think I just kind of like that it's negative 0.16"
+    },
+    {
+      "id": 252,
+      "start": 4148.14,
+      "end": 4152.14,
+      "text": "If it ever goes into the positives then I have nothing fun to show you"
+    },
+    {
+      "id": 253,
+      "start": 4152.14,
+      "end": 4158.09,
+      "text": "If I notice someone's doing a hamster stream to raid"
+    },
+    {
+      "id": 254,
+      "start": 4158.09,
+      "end": 4160.09,
+      "text": "Now that's an idea"
+    },
+    {
+      "id": 255,
+      "start": 4160.09,
+      "end": 4162.09,
+      "text": "That's my kind of idea"
+    },
+    {
+      "id": 256,
+      "start": 4162.09,
+      "end": 4164.37,
+      "text": "Oh shit"
+    },
+    {
+      "id": 257,
+      "start": 4164.37,
+      "end": 4167.37,
+      "text": "This is a hamster beat"
+    },
+    {
+      "id": 258,
+      "start": 4167.37,
+      "end": 4169.37,
+      "text": "Wait do I have a full screen?"
+    },
+    {
+      "id": 259,
+      "start": 4169.37,
+      "end": 4178.99,
+      "text": "Damn I can't show you this beat in this setup"
+    },
+    {
+      "id": 260,
+      "start": 4178.99,
+      "end": 4181.99,
+      "text": "Cause like for some reason don't have a full screen"
+    },
+    {
+      "id": 261,
+      "start": 4181.99,
+      "end": 4183.99,
+      "text": "Button"
+    },
+    {
+      "id": 262,
+      "start": 4183.99,
+      "end": 4185.99,
+      "text": "Wait maybe I do, is this it?"
+    },
+    {
+      "id": 263,
+      "start": 4185.99,
+      "end": 4187.99,
+      "text": "Nope"
+    },
+    {
+      "id": 264,
+      "start": 4187.99,
+      "end": 4191.72,
+      "text": "Oh well"
+    },
+    {
+      "id": 265,
+      "start": 4191.72,
+      "end": 4193.72,
+      "text": "This is your hamster beat"
+    },
+    {
+      "id": 266,
+      "start": 4193.72,
+      "end": 4199.75,
+      "text": "Or we'll give you an option"
+    },
+    {
+      "id": 267,
+      "start": 4199.75,
+      "end": 4202.75,
+      "text": "I don't know why this is a hamster beat either"
+    },
+    {
+      "id": 268,
+      "start": 4202.75,
+      "end": 4209.34,
+      "text": "This is Hampton the hamster trap remix"
+    },
+    {
+      "id": 269,
+      "start": 4209.34,
+      "end": 4218.6,
+      "text": "Oh it's the hamster song"
+    },
+    {
+      "id": 270,
+      "start": 4218.6,
+      "end": 4226.11,
+      "text": "This one's a kind of great too cause it's only a minute long"
+    },
+    {
+      "id": 271,
+      "start": 4226.11,
+      "end": 4230.11,
+      "text": "Uh Austin Show did streams to find the next big streamer"
+    },
+    {
+      "id": 272,
+      "start": 4230.11,
+      "end": 4232.11,
+      "text": "And Willniff was a coach"
+    },
+    {
+      "id": 273,
+      "start": 4232.11,
+      "end": 4235.11,
+      "text": "I'd love to see you sponsored for a lack of a better term"
+    },
+    {
+      "id": 274,
+      "start": 4235.11,
+      "end": 4237.11,
+      "text": "If you're into that"
+    },
+    {
+      "id": 275,
+      "start": 4237.11,
+      "end": 4239.11,
+      "text": "Wait what does that mean?"
+    },
+    {
+      "id": 276,
+      "start": 4239.11,
+      "end": 4242.26,
+      "text": "Sponsored?"
+    },
+    {
+      "id": 277,
+      "start": 4242.26,
+      "end": 4247.95,
+      "text": "I just I don't personally have a ton of interest in like um"
+    },
+    {
+      "id": 278,
+      "start": 4247.95,
+      "end": 4249.95,
+      "text": "I don't know"
+    },
+    {
+      "id": 279,
+      "start": 4249.95,
+      "end": 4252.95,
+      "text": "Like and this is nothing against uh"
+    },
+    {
+      "id": 280,
+      "start": 4252.95,
+      "end": 4255.95,
+      "text": "Like the streamer ecosystem but like I would"
+    },
+    {
+      "id": 281,
+      "start": 4255.95,
+      "end": 4260.95,
+      "text": "Much rather stream to like 50 people than have to go on like streamer again"
+    },
+    {
+      "id": 282,
+      "start": 4260.95,
+      "end": 4262.95,
+      "text": "Or whatever"
+    },
+    {
+      "id": 283,
+      "start": 4262.95,
+      "end": 4266.2,
+      "text": "What is it streamer university?"
+    },
+    {
+      "id": 284,
+      "start": 4266.2,
+      "end": 4270.2,
+      "text": "I just might not be like the ideal choice for like the streamer ecosystem"
+    },
+    {
+      "id": 285,
+      "start": 4270.2,
+      "end": 4274.31,
+      "text": "Doing this is a career"
+    },
+    {
+      "id": 286,
+      "start": 4274.31,
+      "end": 4278.31,
+      "text": "And the other thing is if I like if I really wanted to um"
+    },
+    {
+      "id": 287,
+      "start": 4278.31,
+      "end": 4282.31,
+      "text": "Like stream professionally as opposed to like a hobby"
+    },
+    {
+      "id": 288,
+      "start": 4282.31,
+      "end": 4285.31,
+      "text": "Um I'd have to do it way more"
+    },
+    {
+      "id": 289,
+      "start": 4285.31,
+      "end": 4288.31,
+      "text": "I'd have to do it like probably at least five hours a day"
+    },
+    {
+      "id": 290,
+      "start": 4288.31,
+      "end": 4290.31,
+      "text": "And I just don't think I have it in me"
+    },
+    {
+      "id": 291,
+      "start": 4290.31,
+      "end": 4295.78,
+      "text": "They also dropped uh out when they found out progressive"
+    },
+    {
+      "id": 292,
+      "start": 4295.78,
+      "end": 4298.78,
+      "text": "Or the sponsor was botting viewership"
+    },
+    {
+      "id": 293,
+      "start": 4298.78,
+      "end": 4305.06,
+      "text": "But no I mean it's a totally reasonable thing to bring up"
+    },
+    {
+      "id": 294,
+      "start": 4305.06,
+      "end": 4310.85,
+      "text": "Um and and Austin and Will are great"
+    },
+    {
+      "id": 295,
+      "start": 4310.85,
+      "end": 4315.83,
+      "text": "This is exactly why you have to go"
+    },
+    {
+      "id": 296,
+      "start": 4315.83,
+      "end": 4317.83,
+      "text": "To streamer university"
+    },
+    {
+      "id": 297,
+      "start": 4317.83,
+      "end": 4319.83,
+      "text": "What is it what is kai sanat thing?"
+    },
+    {
+      "id": 298,
+      "start": 4319.83,
+      "end": 4323.83,
+      "text": "Is it streamer streamer university?"
+    },
+    {
+      "id": 299,
+      "start": 4323.83,
+      "end": 4325.83,
+      "text": "Clout university"
+    },
+    {
+      "id": 300,
+      "start": 4325.83,
+      "end": 4331.4,
+      "text": "Can't believe no one has come in here asking if you're the clown from the ODK stream"
+    },
+    {
+      "id": 301,
+      "start": 4331.4,
+      "end": 4335.4,
+      "text": "Yeah I don't know I don't even know what the viewership is like"
+    },
+    {
+      "id": 302,
+      "start": 4335.4,
+      "end": 4338.4,
+      "text": "On those ODK streams I've never checked"
+    },
+    {
+      "id": 303,
+      "start": 4338.4,
+      "end": 4341.68,
+      "text": "What is progressive view botting?"
+    },
+    {
+      "id": 304,
+      "start": 4341.68,
+      "end": 4348.26,
+      "text": "Should I ask Kevin?"
+    },
+    {
+      "id": 305,
+      "start": 4348.26,
+      "end": 4352.08,
+      "text": "Progressive view botting"
+    },
+    {
+      "id": 306,
+      "start": 4352.08,
+      "end": 4354.08,
+      "text": "Progressive new show is view botting again"
+    },
+    {
+      "id": 307,
+      "start": 4354.08,
+      "end": 4356.08,
+      "text": "What does that mean?"
+    },
+    {
+      "id": 308,
+      "start": 4356.08,
+      "end": 4358.08,
+      "text": "Was the show called progressive?"
+    },
+    {
+      "id": 309,
+      "start": 4358.08,
+      "end": 4365.54,
+      "text": "Just an idea"
+    },
+    {
+      "id": 310,
+      "start": 4365.54,
+      "end": 4368.54,
+      "text": "I just mean like I uh"
+    },
+    {
+      "id": 311,
+      "start": 4368.54,
+      "end": 4371.54,
+      "text": "I would happily work with like Austin or Will"
+    },
+    {
+      "id": 312,
+      "start": 4371.54,
+      "end": 4373.54,
+      "text": "But you know I tend to"
+    },
+    {
+      "id": 313,
+      "start": 4373.54,
+      "end": 4376.54,
+      "text": "I tend to enjoy working slightly more on like"
+    },
+    {
+      "id": 314,
+      "start": 4376.54,
+      "end": 4382.82,
+      "text": "Vaguely scripted comedy things or like high concept comedy stuff"
+    },
+    {
+      "id": 315,
+      "start": 4382.82,
+      "end": 4385.82,
+      "text": "I feel like I would fare less well"
+    },
+    {
+      "id": 316,
+      "start": 4385.82,
+      "end": 4389.78,
+      "text": "On like a"
+    },
+    {
+      "id": 317,
+      "start": 4389.78,
+      "end": 4392.78,
+      "text": "On a whatever like a kai sanat event is"
+    },
+    {
+      "id": 318,
+      "start": 4392.78,
+      "end": 4394.78,
+      "text": "I think I would"
+    },
+    {
+      "id": 319,
+      "start": 4394.78,
+      "end": 4398.78,
+      "text": "I think I would not have the personality type that people would appreciate for that kind of thing"
+    },
+    {
+      "id": 320,
+      "start": 4398.78,
+      "end": 4403.12,
+      "text": "The ODK stream had around 6k viewers"
+    },
+    {
+      "id": 321,
+      "start": 4403.12,
+      "end": 4406.12,
+      "text": "I think also ODK makes their um"
+    },
+    {
+      "id": 322,
+      "start": 4406.12,
+      "end": 4409.12,
+      "text": "Like other streamers"
+    },
+    {
+      "id": 323,
+      "start": 4409.12,
+      "end": 4414.12,
+      "text": "Like stream like multi or like they have to watch it while they stream or something"
+    },
+    {
+      "id": 324,
+      "start": 4414.12,
+      "end": 4418.91,
+      "text": "I'm assuming I'm not really sure what the"
+    },
+    {
+      "id": 325,
+      "start": 4418.91,
+      "end": 4420.91,
+      "text": "What the deal is"
+    },
+    {
+      "id": 326,
+      "start": 4420.91,
+      "end": 4422.91,
+      "text": "Because I don't have to know"
+    },
+    {
+      "id": 327,
+      "start": 4422.91,
+      "end": 4425.91,
+      "text": "That's the beauty of working on contract guys"
+    },
+    {
+      "id": 328,
+      "start": 4425.91,
+      "end": 4427.91,
+      "text": "You just don't have to know"
+    },
+    {
+      "id": 329,
+      "start": 4427.91,
+      "end": 4430.91,
+      "text": "It was a shared chat I see"
+    },
+    {
+      "id": 330,
+      "start": 4430.91,
+      "end": 4437.37,
+      "text": "Hamster moody rap beat"
+    },
+    {
+      "id": 331,
+      "start": 4437.37,
+      "end": 4440.62,
+      "text": "Not knowing his half the battle"
+    },
+    {
+      "id": 332,
+      "start": 4440.62,
+      "end": 4442.62,
+      "text": "This is just a moody rap beat"
+    },
+    {
+      "id": 333,
+      "start": 4442.62,
+      "end": 4450.5,
+      "text": "They were sponsoring a big stream with Austin, Will, Carolina, etc. on the progressive"
+    },
+    {
+      "id": 334,
+      "start": 4450.5,
+      "end": 4452.5,
+      "text": "And progressive was viewbotting"
+    },
+    {
+      "id": 335,
+      "start": 4452.5,
+      "end": 4454.5,
+      "text": "Oh the insurance company was viewbotting"
+    },
+    {
+      "id": 336,
+      "start": 4454.5,
+      "end": 4457.5,
+      "text": "I thought it was like an exciting new type of viewbot"
+    },
+    {
+      "id": 337,
+      "start": 4457.5,
+      "end": 4459.5,
+      "text": "That like"
+    },
+    {
+      "id": 338,
+      "start": 4459.5,
+      "end": 4463.5,
+      "text": "Progressively fluctuated or something"
+    },
+    {
+      "id": 339,
+      "start": 4463.5,
+      "end": 4465.5,
+      "text": "It increased your numbers but in a believable way"
+    },
+    {
+      "id": 340,
+      "start": 4465.5,
+      "end": 4467.5,
+      "text": "It only like doubled them or something"
+    },
+    {
+      "id": 341,
+      "start": 4467.5,
+      "end": 4473.5,
+      "text": "Damn this is a moody trap beat"
+    },
+    {
+      "id": 342,
+      "start": 4473.5,
+      "end": 4476.13,
+      "text": "Okay Hamster"
+    },
+    {
+      "id": 343,
+      "start": 4476.13,
+      "end": 4478.13,
+      "text": "I think the winner is"
+    },
+    {
+      "id": 344,
+      "start": 4478.13,
+      "end": 4480.13,
+      "text": "Hampton Trap Remix by unknown"
+    },
+    {
+      "id": 345,
+      "start": 4481.13,
+      "end": 4483.13,
+      "text": "By literally unknown beats"
+    },
+    {
+      "id": 346,
+      "start": 4483.13,
+      "end": 4485.13,
+      "text": "Normally I'd show you the beat"
+    },
+    {
+      "id": 347,
+      "start": 4485.13,
+      "end": 4488.13,
+      "text": "But I can't hear because I didn't set this up right"
+    },
+    {
+      "id": 348,
+      "start": 4488.13,
+      "end": 4494.55,
+      "text": "Will had 30k viewers at one point"
+    },
+    {
+      "id": 349,
+      "start": 4494.55,
+      "end": 4495.55,
+      "text": "Wow wow wow"
+    },
+    {
+      "id": 350,
+      "start": 4495.55,
+      "end": 4498.83,
+      "text": "The opposite of a conservative viewbot"
+    },
+    {
+      "id": 351,
+      "start": 4498.83,
+      "end": 4499.83,
+      "text": "Exactly"
+    },
+    {
+      "id": 352,
+      "start": 4499.83,
+      "end": 4505.43,
+      "text": "On the Austin show competition you could win 75k"
+    },
+    {
+      "id": 353,
+      "start": 4505.43,
+      "end": 4507.43,
+      "text": "I could take the year off baby"
+    },
+    {
+      "id": 354,
+      "start": 4507.43,
+      "end": 4514.66,
+      "text": "Yeah I mean you know if I ever"
+    },
+    {
+      "id": 355,
+      "start": 4514.66,
+      "end": 4520.04,
+      "text": "If I'm ever working less"
+    },
+    {
+      "id": 356,
+      "start": 4520.04,
+      "end": 4521.04,
+      "text": "And I was"
+    },
+    {
+      "id": 357,
+      "start": 4521.04,
+      "end": 4524.04,
+      "text": "I just don't ever want to be in a position where I have to stream more"
+    },
+    {
+      "id": 358,
+      "start": 4524.04,
+      "end": 4527.32,
+      "text": "Because it's I don't know"
+    },
+    {
+      "id": 359,
+      "start": 4527.32,
+      "end": 4532.73,
+      "text": "I mean you know granted I think it's good to not just like stay in your bubble"
+    },
+    {
+      "id": 360,
+      "start": 4532.73,
+      "end": 4535.73,
+      "text": "And like try to reach out to other communities"
+    },
+    {
+      "id": 361,
+      "start": 4535.73,
+      "end": 4537.73,
+      "text": "Probably if I ever grow the stream"
+    },
+    {
+      "id": 362,
+      "start": 4537.73,
+      "end": 4541.73,
+      "text": "It'll be because I start doing streams that feature other people"
+    },
+    {
+      "id": 363,
+      "start": 4541.73,
+      "end": 4545.73,
+      "text": "That would be probably my preferred way of attempting to"
+    },
+    {
+      "id": 364,
+      "start": 4545.73,
+      "end": 4547.73,
+      "text": "Spread the tendrils a little bit"
+    },
+    {
+      "id": 365,
+      "start": 4547.73,
+      "end": 4550.73,
+      "text": "And just the fact that I said spread the tendrils there"
+    },
+    {
+      "id": 366,
+      "start": 4550.73,
+      "end": 4552.73,
+      "text": "Is a good example of why"
+    },
+    {
+      "id": 367,
+      "start": 4552.73,
+      "end": 4555.73,
+      "text": "I'm probably best off not having too many viewers"
+    },
+    {
+      "id": 368,
+      "start": 4558.73,
+      "end": 4562.73,
+      "text": "Yeah that doesn't even pay off all of Crumb's debt"
+    },
+    {
+      "id": 369,
+      "start": 4562.73,
+      "end": 4566.58,
+      "text": "Put some of the debates on YouTube"
+    },
+    {
+      "id": 370,
+      "start": 4566.58,
+      "end": 4568.58,
+      "text": "I have also considered like"
+    },
+    {
+      "id": 371,
+      "start": 4570.58,
+      "end": 4574.58,
+      "text": "I considered briefly hiring an editor to like"
+    },
+    {
+      "id": 372,
+      "start": 4574.58,
+      "end": 4579.58,
+      "text": "Basically clip sections of my stream to put on TikTok"
+    },
+    {
+      "id": 373,
+      "start": 4579.58,
+      "end": 4583.58,
+      "text": "Or I could also probably try to stream on TikTok"
+    },
+    {
+      "id": 374,
+      "start": 4583.58,
+      "end": 4585.58,
+      "text": "Or just make more TikToks"
+    },
+    {
+      "id": 375,
+      "start": 4585.58,
+      "end": 4588.58,
+      "text": "There's like various ideas of how I could"
+    },
+    {
+      "id": 376,
+      "start": 4588.58,
+      "end": 4592.58,
+      "text": "Refocus a bit more on my own stuff again"
+    },
+    {
+      "id": 377,
+      "start": 4592.58,
+      "end": 4597.38,
+      "text": "But you know"
+    },
+    {
+      "id": 378,
+      "start": 4597.38,
+      "end": 4602.38,
+      "text": "Unfortunately I'm fairly easily satisfied"
+    },
+    {
+      "id": 379,
+      "start": 4602.38,
+      "end": 4606.38,
+      "text": "So if I got you know if I got this beautiful chat"
+    },
+    {
+      "id": 380,
+      "start": 4606.38,
+      "end": 4608.38,
+      "text": "You guys hanging out"
+    },
+    {
+      "id": 381,
+      "start": 4608.38,
+      "end": 4610.38,
+      "text": "And I can just do some dumb bullshit"
+    },
+    {
+      "id": 382,
+      "start": 4610.38,
+      "end": 4615.84,
+      "text": "I'm pretty happy for better or worse"
+    },
+    {
+      "id": 383,
+      "start": 4615.84,
+      "end": 4617.84,
+      "text": "There's no shortage of things to do"
+    },
+    {
+      "id": 384,
+      "start": 4617.84,
+      "end": 4620.84,
+      "text": "I mean half of the jobs I have are just"
+    },
+    {
+      "id": 385,
+      "start": 4620.84,
+      "end": 4622.84,
+      "text": "Making satellite content"
+    },
+    {
+      "id": 386,
+      "start": 4622.84,
+      "end": 4625.84,
+      "text": "For other people that are trying to grow channels"
+    },
+    {
+      "id": 387,
+      "start": 4625.84,
+      "end": 4628.84,
+      "text": "Or maintain channels or whatever"
+    },
+    {
+      "id": 388,
+      "start": 4628.84,
+      "end": 4631.84,
+      "text": "So I feel like I've seen at this point"
+    },
+    {
+      "id": 389,
+      "start": 4631.84,
+      "end": 4633.84,
+      "text": "You know both streamers who are trying to grow"
+    },
+    {
+      "id": 390,
+      "start": 4633.84,
+      "end": 4635.84,
+      "text": "YouTubers who are trying to grow"
+    },
+    {
+      "id": 391,
+      "start": 4635.84,
+      "end": 4638.84,
+      "text": "And YouTubers who are trying to maintain an audience"
+    },
+    {
+      "id": 392,
+      "start": 4638.84,
+      "end": 4640.84,
+      "text": "And like the ways to do it"
+    },
+    {
+      "id": 393,
+      "start": 4640.84,
+      "end": 4642.84,
+      "text": "At least the current ways to do it are"
+    },
+    {
+      "id": 394,
+      "start": 4642.84,
+      "end": 4645.84,
+      "text": "Are more clear to me than it used to be"
+    },
+    {
+      "id": 395,
+      "start": 4645.84,
+      "end": 4648.84,
+      "text": "But some of them I honestly still want to do"
+    },
+    {
+      "id": 396,
+      "start": 4648.84,
+      "end": 4652.84,
+      "text": "So we'll see but yeah I mean it wouldn't hurt"
+    },
+    {
+      "id": 397,
+      "start": 4652.84,
+      "end": 4655.84,
+      "text": "If I'm going to be streaming"
+    },
+    {
+      "id": 398,
+      "start": 4655.84,
+      "end": 4659.84,
+      "text": "Even six hours a week to make some attempt to grow"
+    },
+    {
+      "id": 399,
+      "start": 4659.84,
+      "end": 4660.84,
+      "text": "So maybe that can be a goal"
+    },
+    {
+      "id": 400,
+      "start": 4660.84,
+      "end": 4662.84,
+      "text": "That can be a summer goal"
+    },
+    {
+      "id": 401,
+      "start": 4662.84,
+      "end": 4663.84,
+      "text": "Summer goal"
+    },
+    {
+      "id": 402,
+      "start": 4663.84,
+      "end": 4667.84,
+      "text": "Get up from negative 0.16"
+    },
+    {
+      "id": 403,
+      "start": 4667.84,
+      "end": 4675.32,
+      "text": "Positive 0.16 viewers per hour"
+    },
+    {
+      "id": 404,
+      "start": 4675.32,
+      "end": 4678.32,
+      "text": "This show could be good for clips"
+    },
+    {
+      "id": 405,
+      "start": 4678.32,
+      "end": 4683.32,
+      "text": "Or just totally no one idea"
+    },
+    {
+      "id": 406,
+      "start": 4683.32,
+      "end": 4685.32,
+      "text": "No one would have any idea what they're looking at"
+    },
+    {
+      "id": 407,
+      "start": 4685.32,
+      "end": 4687.32,
+      "text": "I posted like a clip"
+    },
+    {
+      "id": 408,
+      "start": 4687.32,
+      "end": 4690.32,
+      "text": "I think I made two or three clips"
+    },
+    {
+      "id": 409,
+      "start": 4690.32,
+      "end": 4692.32,
+      "text": "Out of some stuff on the stream"
+    },
+    {
+      "id": 410,
+      "start": 4692.32,
+      "end": 4694.32,
+      "text": "That I tried on tiktok"
+    },
+    {
+      "id": 411,
+      "start": 4694.32,
+      "end": 4697.32,
+      "text": "And definitely none of them really hit the algorithm"
+    },
+    {
+      "id": 412,
+      "start": 4697.32,
+      "end": 4698.32,
+      "text": "I'll say"
+    },
+    {
+      "id": 413,
+      "start": 4698.32,
+      "end": 4700.32,
+      "text": "But it's kind of like a numbers game"
+    },
+    {
+      "id": 414,
+      "start": 4700.32,
+      "end": 4702.32,
+      "text": "I'm sure if I kept doing it"
+    },
+    {
+      "id": 415,
+      "start": 4702.32,
+      "end": 4705.32,
+      "text": "And just did like 20 of them"
+    },
+    {
+      "id": 416,
+      "start": 4705.32,
+      "end": 4707.32,
+      "text": "Some would do better than others"
+    },
+    {
+      "id": 417,
+      "start": 4707.32,
+      "end": 4709.32,
+      "text": "I also think though the look of the stream"
+    },
+    {
+      "id": 418,
+      "start": 4709.32,
+      "end": 4714.32,
+      "text": "People on tiktok really like"
+    },
+    {
+      "id": 419,
+      "start": 4714.32,
+      "end": 4718.32,
+      "text": "In my experience people kind of like seeing human faces"
+    },
+    {
+      "id": 420,
+      "start": 4718.32,
+      "end": 4722.32,
+      "text": "And like having a sense of a person behind an account"
+    },
+    {
+      "id": 421,
+      "start": 4722.32,
+      "end": 4724.32,
+      "text": "Either that or just the exact opposite"
+    },
+    {
+      "id": 422,
+      "start": 4724.32,
+      "end": 4727.32,
+      "text": "And a robot telling you like what the plot of a movie is"
+    },
+    {
+      "id": 423,
+      "start": 4728.32,
+      "end": 4731.32,
+      "text": "So I think the way my stream looks"
+    },
+    {
+      "id": 424,
+      "start": 4731.32,
+      "end": 4732.32,
+      "text": "Kind of falls in the middle"
+    },
+    {
+      "id": 425,
+      "start": 4732.32,
+      "end": 4734.32,
+      "text": "Where it almost looks like AI"
+    },
+    {
+      "id": 426,
+      "start": 4734.32,
+      "end": 4738.32,
+      "text": "Which I don't think people are super into on tiktok"
+    },
+    {
+      "id": 427,
+      "start": 4738.32,
+      "end": 4739.32,
+      "text": "Understandably"
+    },
+    {
+      "id": 428,
+      "start": 4739.32,
+      "end": 4741.32,
+      "text": "So I might also have to"
+    },
+    {
+      "id": 429,
+      "start": 4741.32,
+      "end": 4744.7,
+      "text": "I don't know"
+    },
+    {
+      "id": 430,
+      "start": 4744.7,
+      "end": 4747.7,
+      "text": "I might have to do a segment"
+    },
+    {
+      "id": 431,
+      "start": 4747.7,
+      "end": 4749.7,
+      "text": "That I'm specifically trying to farm"
+    },
+    {
+      "id": 432,
+      "start": 4749.7,
+      "end": 4754.49,
+      "text": "Clips of me talking out of basically"
+    },
+    {
+      "id": 433,
+      "start": 4754.49,
+      "end": 4756.49,
+      "text": "Go full AI or that"
+    },
+    {
+      "id": 434,
+      "start": 4756.49,
+      "end": 4758.49,
+      "text": "Or I could just try to find a different"
+    },
+    {
+      "id": 435,
+      "start": 4758.49,
+      "end": 4759.49,
+      "text": "A niche"
+    },
+    {
+      "id": 436,
+      "start": 4760.49,
+      "end": 4761.49,
+      "text": "Anyway"
+    },
+    {
+      "id": 437,
+      "start": 4761.49,
+      "end": 4763.49,
+      "text": "Lots of things to try"
+    },
+    {
+      "id": 438,
+      "start": 4763.49,
+      "end": 4765.49,
+      "text": "What do you mean the stream looks weird"
+    },
+    {
+      "id": 439,
+      "start": 4766.49,
+      "end": 4768.49,
+      "text": "You know what even as I say it"
+    },
+    {
+      "id": 440,
+      "start": 4769.49,
+      "end": 4770.49,
+      "text": "What do I mean"
+    },
+    {
+      "id": 441,
+      "start": 4770.49,
+      "end": 4771.49,
+      "text": "Yeah what do you mean"
+    },
+    {
+      "id": 442,
+      "start": 4772.49,
+      "end": 4774.49,
+      "text": "Stream looks great"
+    },
+    {
+      "id": 443,
+      "start": 4774.49,
+      "end": 4778.66,
+      "text": "Yeah some of them got redacted for his tiktok"
+    },
+    {
+      "id": 444,
+      "start": 4778.66,
+      "end": 4781.66,
+      "text": "I could just do straight up"
+    },
+    {
+      "id": 445,
+      "start": 4781.66,
+      "end": 4783.66,
+      "text": "Misinformation propaganda"
+    },
+    {
+      "id": 446,
+      "start": 4783.66,
+      "end": 4787.46,
+      "text": "I'm gonna do more dances for tiktok"
+    },
+    {
+      "id": 447,
+      "start": 4787.46,
+      "end": 4789.46,
+      "text": "Well I'm working on a YouTube series"
+    },
+    {
+      "id": 448,
+      "start": 4789.46,
+      "end": 4790.46,
+      "text": "With my sketch group"
+    },
+    {
+      "id": 449,
+      "start": 4790.46,
+      "end": 4793.46,
+      "text": "That I have no idea if it will do any numbers"
+    },
+    {
+      "id": 450,
+      "start": 4793.46,
+      "end": 4795.46,
+      "text": "But I think it will be fun to make at least"
+    },
+    {
+      "id": 451,
+      "start": 4797.46,
+      "end": 4798.46,
+      "text": "Rooting AI 24-7"
+    },
+    {
+      "id": 452,
+      "start": 4798.46,
+      "end": 4800.46,
+      "text": "That wouldn't be that hard to make honestly"
+    },
+    {
+      "id": 453,
+      "start": 4801.46,
+      "end": 4803.46,
+      "text": "I could just set up like a"
+    },
+    {
+      "id": 454,
+      "start": 4804.46,
+      "end": 4808.46,
+      "text": "I could try to program like munch's personality into an LLM"
+    },
+    {
+      "id": 455,
+      "start": 4808.46,
+      "end": 4811.46,
+      "text": "And then just have it talk to that Maya thing all day"
+    },
+    {
+      "id": 456,
+      "start": 4811.46,
+      "end": 4815.76,
+      "text": "Oh that's a good question about tiktok"
+    },
+    {
+      "id": 457,
+      "start": 4816.76,
+      "end": 4820.76,
+      "text": "Tiktok ban extension"
+    },
+    {
+      "id": 458,
+      "start": 4820.76,
+      "end": 4823.76,
+      "text": "It's on a progressive 90-day lease to exist"
+    },
+    {
+      "id": 459,
+      "start": 4824.76,
+      "end": 4826.76,
+      "text": "The tiktok enforcement has been extended multiple times"
+    },
+    {
+      "id": 460,
+      "start": 4826.76,
+      "end": 4829.76,
+      "text": "Most recently to June 19th"
+    },
+    {
+      "id": 461,
+      "start": 4830.76,
+      "end": 4833.76,
+      "text": "And I honestly if I was trying to make clips for reels"
+    },
+    {
+      "id": 462,
+      "start": 4834.76,
+      "end": 4837.76,
+      "text": "I'm guessing they'd be similar but I have less of a sense"
+    },
+    {
+      "id": 463,
+      "start": 4837.76,
+      "end": 4840.76,
+      "text": "How Instagram works"
+    },
+    {
+      "id": 464,
+      "start": 4841.76,
+      "end": 4844.76,
+      "text": "I haven't had I have one I have one post on Instagram"
+    },
+    {
+      "id": 465,
+      "start": 4844.76,
+      "end": 4846.76,
+      "text": "That went kind of Instagram viral for me"
+    },
+    {
+      "id": 466,
+      "start": 4846.76,
+      "end": 4849.76,
+      "text": "I have like a Jurassic Park sketch that I posted"
+    },
+    {
+      "id": 467,
+      "start": 4849.76,
+      "end": 4851.76,
+      "text": "Like over a year ago"
+    },
+    {
+      "id": 468,
+      "start": 4852.76,
+      "end": 4854.76,
+      "text": "That I think got like a couple hundred thousand views"
+    },
+    {
+      "id": 469,
+      "start": 4856.76,
+      "end": 4859.76,
+      "text": "But I again honestly I have no idea"
+    },
+    {
+      "id": 470,
+      "start": 4860.76,
+      "end": 4864.76,
+      "text": "Why anything in particular hits on any of the social media sites"
+    },
+    {
+      "id": 471,
+      "start": 4865.76,
+      "end": 4867.76,
+      "text": "It just seems like"
+    },
+    {
+      "id": 472,
+      "start": 4868.76,
+      "end": 4870.76,
+      "text": "You have to keep posting until"
+    },
+    {
+      "id": 473,
+      "start": 4870.76,
+      "end": 4873.76,
+      "text": "You find a format that works and then do that a bunch"
+    },
+    {
+      "id": 474,
+      "start": 4874.76,
+      "end": 4876.76,
+      "text": "Do it a lot"
+    },
+    {
+      "id": 475,
+      "start": 4876.76,
+      "end": 4881.51,
+      "text": "Joey headset that's the move"
+    },
+    {
+      "id": 476,
+      "start": 4881.51,
+      "end": 4882.51,
+      "text": "Stay on Vine"
+    },
+    {
+      "id": 477,
+      "start": 4892.82,
+      "end": 4894.82,
+      "text": "Or just do all Jurassic Park sketches"
+    },
+    {
+      "id": 478,
+      "start": 4894.82,
+      "end": 4895.82,
+      "text": "People love Jurassic Park"
+    },
+    {
+      "id": 479,
+      "start": 4895.82,
+      "end": 4898.82,
+      "text": "Nobody wants to go up against Jurassic Park"
+    },
+    {
+      "id": 480,
+      "start": 4901.17,
+      "end": 4904.17,
+      "text": "Okay let's have this hamster wrap us out of here"
+    },
+    {
+      "id": 481,
+      "start": 4905.17,
+      "end": 4907.17,
+      "text": "While we find someone to raid"
+    },
+    {
+      "id": 482,
+      "start": 4908.17,
+      "end": 4910.17,
+      "text": "Hamster you got anything for us?"
+    },
+    {
+      "id": 483,
+      "start": 4910.17,
+      "end": 4911.17,
+      "text": "I got everything for you"
+    },
+    {
+      "id": 484,
+      "start": 4912.17,
+      "end": 4914.17,
+      "text": "Let's fucking get out of here"
+    },
+    {
+      "id": 485,
+      "start": 4916.7,
+      "end": 4922.57,
+      "text": "Hamster"
+    },
+    {
+      "id": 486,
+      "start": 4923.57,
+      "end": 4924.57,
+      "text": "Fucking with a hamster"
+    },
+    {
+      "id": 487,
+      "start": 4925.57,
+      "end": 4934.42,
+      "text": "Got all fours took a man out"
+    },
+    {
+      "id": 488,
+      "start": 4935.42,
+      "end": 4937.42,
+      "text": "That's how I hit the thumb on my fuck"
+    },
+    {
+      "id": 489,
+      "start": 4937.42,
+      "end": 4988.34,
+      "text": "So I could be what are they playing"
+    },
+    {
+      "id": 490,
+      "start": 4988.34,
+      "end": 4990.34,
+      "text": "Dreamcast rather than evil"
+    },
+    {
+      "id": 491,
+      "start": 4992.88,
+      "end": 4996.88,
+      "text": "Guys we're sending you from one hamster stream straight to another"
+    },
+    {
+      "id": 492,
+      "start": 4997.88,
+      "end": 4998.88,
+      "text": "And there's looks"
+    },
+    {
+      "id": 493,
+      "start": 4998.88,
+      "end": 5000.88,
+      "text": "Better considered honestly"
+    },
+    {
+      "id": 494,
+      "start": 5000.88,
+      "end": 5003.88,
+      "text": "I think their hamster look is pretty strong"
+    },
+    {
+      "id": 495,
+      "start": 5004.88,
+      "end": 5005.88,
+      "text": "They look cute"
+    },
+    {
+      "id": 496,
+      "start": 5005.88,
+      "end": 5007.88,
+      "text": "They got a great vibe"
+    },
+    {
+      "id": 497,
+      "start": 5008.88,
+      "end": 5009.88,
+      "text": "And they're fun"
+    },
+    {
+      "id": 498,
+      "start": 5013.02,
+      "end": 5014.02,
+      "text": "Who are you trying to sound like there?"
+    },
+    {
+      "id": 499,
+      "start": 5014.02,
+      "end": 5015.02,
+      "text": "Oh yeah"
+    },
+    {
+      "id": 500,
+      "start": 5015.02,
+      "end": 5016.02,
+      "text": "Oh hey Mr"
+    },
+    {
+      "id": 501,
+      "start": 5017.02,
+      "end": 5019.02,
+      "text": "I forgot I can do that"
+    },
+    {
+      "id": 502,
+      "start": 5019.02,
+      "end": 5020.02,
+      "text": "Don't do it too much"
+    },
+    {
+      "id": 503,
+      "start": 5022.02,
+      "end": 5023.02,
+      "text": "Guys thanks for hanging out"
+    },
+    {
+      "id": 504,
+      "start": 5025.02,
+      "end": 5028.02,
+      "text": "Sort of an extended stream discussion there at the end"
+    },
+    {
+      "id": 505,
+      "start": 5029.02,
+      "end": 5032.02,
+      "text": "Always happy to talk to talk fucking big time numbers"
+    },
+    {
+      "id": 506,
+      "start": 5032.02,
+      "end": 5033.02,
+      "text": "Big money"
+    },
+    {
+      "id": 507,
+      "start": 5033.02,
+      "end": 5034.02,
+      "text": "Numbers"
+    },
+    {
+      "id": 508,
+      "start": 5036.02,
+      "end": 5039.02,
+      "text": "We'll be back tomorrow actually"
+    },
+    {
+      "id": 509,
+      "start": 5040.02,
+      "end": 5041.02,
+      "text": "For more"
+    },
+    {
+      "id": 510,
+      "start": 5042.02,
+      "end": 5043.02,
+      "text": "Non-Hamster stream"
+    },
+    {
+      "id": 511,
+      "start": 5043.02,
+      "end": 5044.02,
+      "text": "What?"
+    },
+    {
+      "id": 512,
+      "start": 5044.02,
+      "end": 5046.02,
+      "text": "This should just be what you do now"
+    },
+    {
+      "id": 513,
+      "start": 5046.02,
+      "end": 5047.02,
+      "text": "There's"
+    },
+    {
+      "id": 514,
+      "start": 5048.02,
+      "end": 5050.02,
+      "text": "54 more levels"
+    },
+    {
+      "id": 515,
+      "start": 5051.02,
+      "end": 5055.02,
+      "text": "Maybe someday hamster will return to the hamster train game"
+    },
+    {
+      "id": 516,
+      "start": 5055.02,
+      "end": 5057.02,
+      "text": "You gotta get those numbers up baby"
+    },
+    {
+      "id": 517,
+      "start": 5057.02,
+      "end": 5059.02,
+      "text": "Put niche down play the hamster train game"
+    },
+    {
+      "id": 518,
+      "start": 5059.02,
+      "end": 5062.02,
+      "text": "It's a hamster raid for underlock V"
+    },
+    {
+      "id": 519,
+      "start": 5062.02,
+      "end": 5064.02,
+      "text": "Who we've never met"
+    },
+    {
+      "id": 520,
+      "start": 5064.02,
+      "end": 5068.02,
+      "text": "If they start saying slurs with the hamster Vtuber setup"
+    },
+    {
+      "id": 521,
+      "start": 5068.02,
+      "end": 5070.02,
+      "text": "Then you have my permission to watch something else"
+    },
+    {
+      "id": 522,
+      "start": 5070.02,
+      "end": 5072.02,
+      "text": "But until until they do that"
+    },
+    {
+      "id": 523,
+      "start": 5072.02,
+      "end": 5074.02,
+      "text": "I think we should lock in and watch some hamster"
+    },
+    {
+      "id": 524,
+      "start": 5074.02,
+      "end": 5075.02,
+      "text": "It's hamster time"
+    },
+    {
+      "id": 525,
+      "start": 5075.02,
+      "end": 5076.02,
+      "text": "Hamster raid"
+    },
+    {
+      "id": 526,
+      "start": 5076.02,
+      "end": 5078.02,
+      "text": "Bye bye everybody"
+    },
+    {
+      "id": 527,
+      "start": 5078.02,
+      "end": 5080.02,
+      "text": "None of the that they don't know"
+    },
+    {
+      "id": 528,
+      "start": 5080.02,
+      "end": 5082.02,
+      "text": "They not know them"
+    }
+  ],
+  "text": "Graphically demanding game\nOf all time\nAll right now it's streaming again on my end\nI'm Pupito. I'm the dog that produces the show and now it is live. I'm not my dog.\nFs?\nFs, Fs, Fs, Fs in chat\nHow does this keep breaking the stream this hamster game?\nAll right, let's see what happens if I switch to the game which the hamster is still playing\nDoes it work anymore?\nGet it handled on graphics of this incredible game\nOh, looks pretty crisp\nIt's a crash of shows. I mean look at this\nLook at the intense puzzle I gotta do\nHello traveler, I can work in the mine because I love my pickaxe\nAny help me?\nMy guy's like, yeah I can\nOh my god they literally is complexity\nBones of choices, what are you training?\nMaybe this game is unstreamable\nBut why?\nI was, I mean that hamster was locked in\nYou can see me, can you see the hamster game though?\nAnd why would this hamster game create so many issues?\nIt's working now? Okay\nI'm just gonna leave, I'm gonna pull up my stream on my end as well\nAnd then I'll see if it dies I guess\nI'll keep an eye\nI'll keep an eye on it, you already missed out\nThis level's impossible\nNo one's ever beaten me\nNobody ever will\nThe hardest game\nForget to do the loop, the loop and launch right into the peak\nWait a minute, Kendall should come try this too\nIt's the kind of thing she'd do for a minute\nThat's a little presumptuous of the hamster to assume that for some reason I wouldn't be doing well\nI'm doing fine, I'm just chilling\nWhile this hamster\nHonestly if I was playing this\nI'd be going so fast\nI'd be like crush, I'd essentially be speedrunning this game first time playing it\nJust so you know hamster\nWow, tastes extremely full of themselves\nAnd the absolute avoiding this just saying here is probably got so many levels\nThis is a real game\nThis is a real game for smarts\nSome of the smartest ever to play a game\nOr never beat this\nLook at this, look at this\nNo, I hit the wrong button\nIf you click on the same thing twice\nIt breaks it is a thing we just learned together\nThe hamster god\nThe church of Hamtaro does not appreciate\nAvengers that he snapped out of existence\nWait, you can rewind?\nFor longer agree with everything that's been a duty playing that game\nHit it Hamtaro, let alone seem to show\nWe've brewed into the subject\nThis is pretty much what it was\nDude, is something trick to this?\nOr fortress mom where all your doors are hamsters\nShould we play door fortress?\nHamsters on wheelchains\nProbably nothing\nWhich is too accurate for sure I guess\nI'll go backwards if you're actually\nThis is one of the cruelest games in player progress\nI would really prefer to just undo one move\nWhat are my skins?\nShow me the hamster\nWhat the game we're actually playing is patience simulator\nBut if you make a mistake\nYou pay the ultimate price\nOf having to play this game longer\nIt's cruel\nIt's a cruel game\nOr psycho\nHow to meditate\nThink on what it means\nNow check this shit out, okay\nIn for all my problems\nBut I'll admit\nBut I didn't know what one of the fundamental buttons was\nBack in hell we go\nOn our day we trip to hell\nClick on the airbrake\nCreatures I'd see\nIt's normal for hell though\nYou have to eat your friends\nHamsters are the only means\nWarn you that this was hell\nThe treasure and then the hamster water\nWe don't do this\nSo let's see if Kendall wants to play\nYou know if we were at negative\nFollowers before\nWe can do\nWe can go even more negative\nIf I keep playing this game\nSo I better keep playing it\nI don't know if Kendall wants to play\nBut I'll go check\nShe did seem interested when she saw me\nFor the record purchasing this game\nWith real money\nI'll be right back\nNo maybe I got this wallpaper for free\nBut I got Hamtaro for money\nAnd by Hamtaro I mean not Hamtaro\nScan the setup\nFind all my secret devices\nMy favorite secret devices\nYou thought the background was green screen\nNo it's real\nBut it's lit very differently than me\nSo it kinda looks fake\nStill too much for that wallpaper\nI kinda like this wallpaper\nIt looks a little worse on stream than it does in\nIRL\nYou'll just have to take my word for it\nHow much was the not Hamtaro game?\n$15\nKendall refuses to play\nKendall you wanna say hi before you go over there?\nShe says she's busy\nI can't believe she's too busy for this\n15 is a lot\nYeah\nIt's probably not worth it\nBut we better play it\nNo she's playing D&D\nThat's why she can't\nShe has a social engagement\nI should have asked her 30 minutes ago\nBut I think she was sleeping then\nNobody cares\nEverybody wonders what's going on with this game\nAll that people care about is this\nListen how many\nHow many levels can there even be?\nIn the grass world\nOne biome\nThank you so much\nFor the three gifted subs\nWhich is what everybody really wanted to see\nI'm not sure about that hamster\nFun off case this is my time\nBy defense\nIt's really small on my screen\nI had to get a little mini version\nI had to shrink it down to\nAbout a third of my screen size\nAnd my little hamster eyes can barely even see\nWhat if I don't get this guy's shovel\nSomebody's probably pissed off about losing their shovel\nLook how out of the way this shovel is\nSomebody's really putting us out\nWith this shovel bullshit\nruining my day\nImpossible psychotic shovel stuff\nCause I'm so little\nThat's what I'm saying\nYou don't have to\nI'm letting you play this baby hamster game\nYou don't have to be that mean to me\nOkay\nGet this stuff and then rewind it\nThen it's really how you're supposed to play this game\nThat works\nThat works\nWith the cutting hamster\nI'm like you have one thing going on\nWhich is cutting wood\nYou're about to lid this\nOh I got max\nNot from this man\nThe whole game that's how it works\nI gotta pick up this pile of crap\nAnd I gotta get this key\nAnd I gotta get rich off this treasure chest\nWhat would I got in store this time\nOne terabyte of death storage\nAll of this is actually an AI game\nAll of these graphics are being rendered in real time\nBy a large language model\nAnd that's why it looks so nice level\nWe're gonna do this\nJust to get this freakin' treasure\nMurder treasure that wants me to get that treasure\nNo memorial day sales price\nHamsters don't believe in memorial day\nBecause we work all the time\nWe're constantly in service\nSo for us it's more like a memorial year\nHamsters are constantly at war with ourselves\nEven turtle battles\nThis hamster's happy\nLook how many costumes there are\nIt's a panda hamster\nThis is incredible stuff\nBounty of skins\nMore skins\nGot the treasure so I'll rewind this shit back\nWay to go hamster\nThere's no time for your petty thank yous case\nTime is now for me to wrap\nOh yeah\nWell you don't have to do a really long one\nWe'll see\nWe'll see how I feel\nI'll send other hamsters that can pop into wraps\nIt's like a weight's been removed from my shoulders\nThe hamsters\nDid that game only have one song?\nWell we didn't see the other biomes\nSo it's hard to say\nHmm\nUh, try raiding Will Neff\nMight help numbers and remind him of you\nGet those numbers up\nI'll be honest I'm not terribly concerned\nI'll vote my numbers\nI kind of just stream for fun\nOh really?\nYeah\nThis is about hamster rap\nThat song was kind of eating my soul as well\nHmm\nUm\nDon't worry\nIf we really wanted to get our followers and numbers up\nThere would be various ways to do it\nWhich we might do at some point\nBut um\nRight now I'm kind of\nI'm more of a hamster focused streamer\nMore than a growth focused streamer\nYeah I could like hang Dong\nOr I could like um collaborate with other people that hang Dong\nOr I could um\nI could invite three of my best male friends over to berate a row of women\nThat we've assembled\nTo tell them that they're bad for having sex\nIs another, is like another growth strategy that I really enjoy\nUm, alright\nHamster beat\nCan a hamster beat honor, these aren't hamster beats\nHamster trap beat\nSorry I did not, maybe I should have shown that number if it makes anyone actually concerned\nI think I just kind of like that it's negative 0.16\nIf it ever goes into the positives then I have nothing fun to show you\nIf I notice someone's doing a hamster stream to raid\nNow that's an idea\nThat's my kind of idea\nOh shit\nThis is a hamster beat\nWait do I have a full screen?\nDamn I can't show you this beat in this setup\nCause like for some reason don't have a full screen\nButton\nWait maybe I do, is this it?\nNope\nOh well\nThis is your hamster beat\nOr we'll give you an option\nI don't know why this is a hamster beat either\nThis is Hampton the hamster trap remix\nOh it's the hamster song\nThis one's a kind of great too cause it's only a minute long\nUh Austin Show did streams to find the next big streamer\nAnd Willniff was a coach\nI'd love to see you sponsored for a lack of a better term\nIf you're into that\nWait what does that mean?\nSponsored?\nI just I don't personally have a ton of interest in like um\nI don't know\nLike and this is nothing against uh\nLike the streamer ecosystem but like I would\nMuch rather stream to like 50 people than have to go on like streamer again\nOr whatever\nWhat is it streamer university?\nI just might not be like the ideal choice for like the streamer ecosystem\nDoing this is a career\nAnd the other thing is if I like if I really wanted to um\nLike stream professionally as opposed to like a hobby\nUm I'd have to do it way more\nI'd have to do it like probably at least five hours a day\nAnd I just don't think I have it in me\nThey also dropped uh out when they found out progressive\nOr the sponsor was botting viewership\nBut no I mean it's a totally reasonable thing to bring up\nUm and and Austin and Will are great\nThis is exactly why you have to go\nTo streamer university\nWhat is it what is kai sanat thing?\nIs it streamer streamer university?\nClout university\nCan't believe no one has come in here asking if you're the clown from the ODK stream\nYeah I don't know I don't even know what the viewership is like\nOn those ODK streams I've never checked\nWhat is progressive view botting?\nShould I ask Kevin?\nProgressive view botting\nProgressive new show is view botting again\nWhat does that mean?\nWas the show called progressive?\nJust an idea\nI just mean like I uh\nI would happily work with like Austin or Will\nBut you know I tend to\nI tend to enjoy working slightly more on like\nVaguely scripted comedy things or like high concept comedy stuff\nI feel like I would fare less well\nOn like a\nOn a whatever like a kai sanat event is\nI think I would\nI think I would not have the personality type that people would appreciate for that kind of thing\nThe ODK stream had around 6k viewers\nI think also ODK makes their um\nLike other streamers\nLike stream like multi or like they have to watch it while they stream or something\nI'm assuming I'm not really sure what the\nWhat the deal is\nBecause I don't have to know\nThat's the beauty of working on contract guys\nYou just don't have to know\nIt was a shared chat I see\nHamster moody rap beat\nNot knowing his half the battle\nThis is just a moody rap beat\nThey were sponsoring a big stream with Austin, Will, Carolina, etc. on the progressive\nAnd progressive was viewbotting\nOh the insurance company was viewbotting\nI thought it was like an exciting new type of viewbot\nThat like\nProgressively fluctuated or something\nIt increased your numbers but in a believable way\nIt only like doubled them or something\nDamn this is a moody trap beat\nOkay Hamster\nI think the winner is\nHampton Trap Remix by unknown\nBy literally unknown beats\nNormally I'd show you the beat\nBut I can't hear because I didn't set this up right\nWill had 30k viewers at one point\nWow wow wow\nThe opposite of a conservative viewbot\nExactly\nOn the Austin show competition you could win 75k\nI could take the year off baby\nYeah I mean you know if I ever\nIf I'm ever working less\nAnd I was\nI just don't ever want to be in a position where I have to stream more\nBecause it's I don't know\nI mean you know granted I think it's good to not just like stay in your bubble\nAnd like try to reach out to other communities\nProbably if I ever grow the stream\nIt'll be because I start doing streams that feature other people\nThat would be probably my preferred way of attempting to\nSpread the tendrils a little bit\nAnd just the fact that I said spread the tendrils there\nIs a good example of why\nI'm probably best off not having too many viewers\nYeah that doesn't even pay off all of Crumb's debt\nPut some of the debates on YouTube\nI have also considered like\nI considered briefly hiring an editor to like\nBasically clip sections of my stream to put on TikTok\nOr I could also probably try to stream on TikTok\nOr just make more TikToks\nThere's like various ideas of how I could\nRefocus a bit more on my own stuff again\nBut you know\nUnfortunately I'm fairly easily satisfied\nSo if I got you know if I got this beautiful chat\nYou guys hanging out\nAnd I can just do some dumb bullshit\nI'm pretty happy for better or worse\nThere's no shortage of things to do\nI mean half of the jobs I have are just\nMaking satellite content\nFor other people that are trying to grow channels\nOr maintain channels or whatever\nSo I feel like I've seen at this point\nYou know both streamers who are trying to grow\nYouTubers who are trying to grow\nAnd YouTubers who are trying to maintain an audience\nAnd like the ways to do it\nAt least the current ways to do it are\nAre more clear to me than it used to be\nBut some of them I honestly still want to do\nSo we'll see but yeah I mean it wouldn't hurt\nIf I'm going to be streaming\nEven six hours a week to make some attempt to grow\nSo maybe that can be a goal\nThat can be a summer goal\nSummer goal\nGet up from negative 0.16\nPositive 0.16 viewers per hour\nThis show could be good for clips\nOr just totally no one idea\nNo one would have any idea what they're looking at\nI posted like a clip\nI think I made two or three clips\nOut of some stuff on the stream\nThat I tried on tiktok\nAnd definitely none of them really hit the algorithm\nI'll say\nBut it's kind of like a numbers game\nI'm sure if I kept doing it\nAnd just did like 20 of them\nSome would do better than others\nI also think though the look of the stream\nPeople on tiktok really like\nIn my experience people kind of like seeing human faces\nAnd like having a sense of a person behind an account\nEither that or just the exact opposite\nAnd a robot telling you like what the plot of a movie is\nSo I think the way my stream looks\nKind of falls in the middle\nWhere it almost looks like AI\nWhich I don't think people are super into on tiktok\nUnderstandably\nSo I might also have to\nI don't know\nI might have to do a segment\nThat I'm specifically trying to farm\nClips of me talking out of basically\nGo full AI or that\nOr I could just try to find a different\nA niche\nAnyway\nLots of things to try\nWhat do you mean the stream looks weird\nYou know what even as I say it\nWhat do I mean\nYeah what do you mean\nStream looks great\nYeah some of them got redacted for his tiktok\nI could just do straight up\nMisinformation propaganda\nI'm gonna do more dances for tiktok\nWell I'm working on a YouTube series\nWith my sketch group\nThat I have no idea if it will do any numbers\nBut I think it will be fun to make at least\nRooting AI 24-7\nThat wouldn't be that hard to make honestly\nI could just set up like a\nI could try to program like munch's personality into an LLM\nAnd then just have it talk to that Maya thing all day\nOh that's a good question about tiktok\nTiktok ban extension\nIt's on a progressive 90-day lease to exist\nThe tiktok enforcement has been extended multiple times\nMost recently to June 19th\nAnd I honestly if I was trying to make clips for reels\nI'm guessing they'd be similar but I have less of a sense\nHow Instagram works\nI haven't had I have one I have one post on Instagram\nThat went kind of Instagram viral for me\nI have like a Jurassic Park sketch that I posted\nLike over a year ago\nThat I think got like a couple hundred thousand views\nBut I again honestly I have no idea\nWhy anything in particular hits on any of the social media sites\nIt just seems like\nYou have to keep posting until\nYou find a format that works and then do that a bunch\nDo it a lot\nJoey headset that's the move\nStay on Vine\nOr just do all Jurassic Park sketches\nPeople love Jurassic Park\nNobody wants to go up against Jurassic Park\nOkay let's have this hamster wrap us out of here\nWhile we find someone to raid\nHamster you got anything for us?\nI got everything for you\nLet's fucking get out of here\nHamster\nFucking with a hamster\nGot all fours took a man out\nThat's how I hit the thumb on my fuck\nSo I could be what are they playing\nDreamcast rather than evil\nGuys we're sending you from one hamster stream straight to another\nAnd there's looks\nBetter considered honestly\nI think their hamster look is pretty strong\nThey look cute\nThey got a great vibe\nAnd they're fun\nWho are you trying to sound like there?\nOh yeah\nOh hey Mr\nI forgot I can do that\nDon't do it too much\nGuys thanks for hanging out\nSort of an extended stream discussion there at the end\nAlways happy to talk to talk fucking big time numbers\nBig money\nNumbers\nWe'll be back tomorrow actually\nFor more\nNon-Hamster stream\nWhat?\nThis should just be what you do now\nThere's\n54 more levels\nMaybe someday hamster will return to the hamster train game\nYou gotta get those numbers up baby\nPut niche down play the hamster train game\nIt's a hamster raid for underlock V\nWho we've never met\nIf they start saying slurs with the hamster Vtuber setup\nThen you have my permission to watch something else\nBut until until they do that\nI think we should lock in and watch some hamster\nIt's hamster time\nHamster raid\nBye bye everybody\nNone of the that they don't know\nThey not know them",
+  "text_timestamped": "[00:00 --> 00:02] Graphically demanding game\n[00:03 --> 00:05] Of all time\n[00:06 --> 00:08] All right now it's streaming again on my end\n[00:08 --> 00:13] I'm Pupito. I'm the dog that produces the show and now it is live. I'm not my dog.\n[00:13 --> 00:14] Fs?\n[00:15 --> 00:17] Fs, Fs, Fs, Fs in chat\n[00:18 --> 00:22] How does this keep breaking the stream this hamster game?\n[00:23 --> 00:27] All right, let's see what happens if I switch to the game which the hamster is still playing\n[00:27 --> 00:32] Does it work anymore?\n[00:32 --> 00:37] Get it handled on graphics of this incredible game\n[00:37 --> 00:42] Oh, looks pretty crisp\n[00:42 --> 00:49] It's a crash of shows. I mean look at this\n[00:50 --> 00:52] Look at the intense puzzle I gotta do\n[00:52 --> 00:58] Hello traveler, I can work in the mine because I love my pickaxe\n[00:58 --> 00:59] Any help me?\n[00:59 --> 01:10] My guy's like, yeah I can\n[01:10 --> 01:12] Oh my god they literally is complexity\n[01:12 --> 01:25] Bones of choices, what are you training?\n[01:25 --> 02:16] Maybe this game is unstreamable\n[02:18 --> 02:19] But why?\n[02:25 --> 02:27] I was, I mean that hamster was locked in\n[02:27 --> 02:30] You can see me, can you see the hamster game though?\n[02:30 --> 02:35] And why would this hamster game create so many issues?\n[02:35 --> 02:37] It's working now? Okay\n[02:37 --> 02:42] I'm just gonna leave, I'm gonna pull up my stream on my end as well\n[02:42 --> 02:45] And then I'll see if it dies I guess\n[02:45 --> 02:48] I'll keep an eye\n[02:48 --> 02:52] I'll keep an eye on it, you already missed out\n[02:52 --> 02:54] This level's impossible\n[02:54 --> 02:58] No one's ever beaten me\n[02:58 --> 02:59] Nobody ever will\n[02:59 --> 03:01] The hardest game\n[03:01 --> 04:15] Forget to do the loop, the loop and launch right into the peak\n[04:15 --> 05:01] Wait a minute, Kendall should come try this too\n[05:01 --> 05:09] It's the kind of thing she'd do for a minute\n[05:09 --> 05:27] That's a little presumptuous of the hamster to assume that for some reason I wouldn't be doing well\n[05:27 --> 05:30] I'm doing fine, I'm just chilling\n[05:30 --> 05:32] While this hamster\n[05:32 --> 05:34] Honestly if I was playing this\n[05:34 --> 05:36] I'd be going so fast\n[05:36 --> 05:40] I'd be like crush, I'd essentially be speedrunning this game first time playing it\n[05:40 --> 05:42] Just so you know hamster\n[05:42 --> 05:45] Wow, tastes extremely full of themselves\n[05:45 --> 05:53] And the absolute avoiding this just saying here is probably got so many levels\n[05:53 --> 05:55] This is a real game\n[05:55 --> 06:00] This is a real game for smarts\n[06:00 --> 06:03] Some of the smartest ever to play a game\n[06:03 --> 06:11] Or never beat this\n[06:11 --> 06:12] Look at this, look at this\n[06:12 --> 06:14] No, I hit the wrong button\n[06:14 --> 07:03] If you click on the same thing twice\n[07:03 --> 07:06] It breaks it is a thing we just learned together\n[07:06 --> 07:15] The hamster god\n[07:15 --> 07:18] The church of Hamtaro does not appreciate\n[07:18 --> 08:45] Avengers that he snapped out of existence\n[08:45 --> 08:47] Wait, you can rewind?\n[08:47 --> 09:49] For longer agree with everything that's been a duty playing that game\n[09:49 --> 11:56] Hit it Hamtaro, let alone seem to show\n[11:56 --> 11:58] We've brewed into the subject\n[11:58 --> 12:01] This is pretty much what it was\n[12:01 --> 12:32] Dude, is something trick to this?\n[12:32 --> 12:34] Or fortress mom where all your doors are hamsters\n[12:34 --> 12:35] Should we play door fortress?\n[12:35 --> 12:53] Hamsters on wheelchains\n[12:53 --> 12:54] Probably nothing\n[12:54 --> 12:56] Which is too accurate for sure I guess\n[12:56 --> 13:31] I'll go backwards if you're actually\n[13:31 --> 13:38] This is one of the cruelest games in player progress\n[13:38 --> 13:44] I would really prefer to just undo one move\n[13:44 --> 13:49] What are my skins?\n[13:49 --> 13:50] Show me the hamster\n[13:50 --> 13:58] What the game we're actually playing is patience simulator\n[13:58 --> 14:00] But if you make a mistake\n[14:00 --> 14:02] You pay the ultimate price\n[14:02 --> 14:04] Of having to play this game longer\n[14:06 --> 14:07] It's cruel\n[14:07 --> 14:09] It's a cruel game\n[14:09 --> 14:11] Or psycho\n[14:11 --> 14:29] How to meditate\n[14:29 --> 15:05] Think on what it means\n[15:05 --> 15:06] Now check this shit out, okay\n[15:06 --> 23:10] In for all my problems\n[23:10 --> 23:12] But I'll admit\n[23:12 --> 23:14] But I didn't know what one of the fundamental buttons was\n[23:14 --> 23:18] Back in hell we go\n[23:18 --> 23:20] On our day we trip to hell\n[23:20 --> 23:27] Click on the airbrake\n[23:27 --> 24:06] Creatures I'd see\n[24:06 --> 24:11] It's normal for hell though\n[24:11 --> 24:13] You have to eat your friends\n[24:13 --> 24:26] Hamsters are the only means\n[24:26 --> 24:28] Warn you that this was hell\n[24:28 --> 29:39] The treasure and then the hamster water\n[29:39 --> 29:40] We don't do this\n[29:40 --> 29:53] So let's see if Kendall wants to play\n[29:53 --> 29:55] You know if we were at negative\n[29:55 --> 29:57] Followers before\n[29:57 --> 29:58] We can do\n[29:58 --> 30:00] We can go even more negative\n[30:00 --> 30:02] If I keep playing this game\n[30:02 --> 30:05] So I better keep playing it\n[30:05 --> 30:07] I don't know if Kendall wants to play\n[30:07 --> 30:08] But I'll go check\n[30:08 --> 30:10] She did seem interested when she saw me\n[30:10 --> 30:13] For the record purchasing this game\n[30:13 --> 30:15] With real money\n[30:15 --> 30:16] I'll be right back\n[30:16 --> 31:18] No maybe I got this wallpaper for free\n[31:18 --> 31:21] But I got Hamtaro for money\n[31:21 --> 31:24] And by Hamtaro I mean not Hamtaro\n[31:24 --> 31:26] Scan the setup\n[31:26 --> 31:28] Find all my secret devices\n[31:28 --> 31:31] My favorite secret devices\n[31:31 --> 31:34] You thought the background was green screen\n[31:34 --> 31:36] No it's real\n[31:36 --> 31:39] But it's lit very differently than me\n[31:39 --> 31:40] So it kinda looks fake\n[31:40 --> 31:45] Still too much for that wallpaper\n[31:45 --> 31:47] I kinda like this wallpaper\n[31:47 --> 31:50] It looks a little worse on stream than it does in\n[31:50 --> 31:51] IRL\n[31:51 --> 31:53] You'll just have to take my word for it\n[31:53 --> 31:58] How much was the not Hamtaro game?\n[31:58 --> 32:00] $15\n[32:00 --> 32:03] Kendall refuses to play\n[32:03 --> 32:06] Kendall you wanna say hi before you go over there?\n[32:06 --> 32:09] She says she's busy\n[32:09 --> 32:12] I can't believe she's too busy for this\n[32:12 --> 32:16] 15 is a lot\n[32:16 --> 32:18] Yeah\n[32:18 --> 32:20] It's probably not worth it\n[32:20 --> 32:23] But we better play it\n[32:23 --> 32:25] No she's playing D&D\n[32:25 --> 32:26] That's why she can't\n[32:26 --> 32:28] She has a social engagement\n[32:28 --> 32:30] I should have asked her 30 minutes ago\n[32:30 --> 32:35] But I think she was sleeping then\n[32:35 --> 32:36] Nobody cares\n[32:36 --> 32:41] Everybody wonders what's going on with this game\n[32:41 --> 32:43] All that people care about is this\n[32:43 --> 32:45] Listen how many\n[32:45 --> 32:48] How many levels can there even be?\n[32:48 --> 32:54] In the grass world\n[32:54 --> 32:55] One biome\n[32:55 --> 33:10] Thank you so much\n[33:10 --> 33:12] For the three gifted subs\n[33:12 --> 33:21] Which is what everybody really wanted to see\n[33:21 --> 33:23] I'm not sure about that hamster\n[33:23 --> 33:38] Fun off case this is my time\n[33:38 --> 33:39] By defense\n[33:39 --> 33:42] It's really small on my screen\n[33:42 --> 33:44] I had to get a little mini version\n[33:44 --> 33:46] I had to shrink it down to\n[33:46 --> 33:49] About a third of my screen size\n[33:49 --> 33:51] And my little hamster eyes can barely even see\n[33:51 --> 33:59] What if I don't get this guy's shovel\n[33:59 --> 34:02] Somebody's probably pissed off about losing their shovel\n[34:02 --> 34:08] Look how out of the way this shovel is\n[34:08 --> 34:16] Somebody's really putting us out\n[34:16 --> 34:18] With this shovel bullshit\n[34:18 --> 34:20] ruining my day\n[34:20 --> 34:29] Impossible psychotic shovel stuff\n[34:29 --> 35:36] Cause I'm so little\n[35:36 --> 35:38] That's what I'm saying\n[35:38 --> 41:11] You don't have to\n[41:11 --> 41:14] I'm letting you play this baby hamster game\n[41:14 --> 41:16] You don't have to be that mean to me\n[41:16 --> 41:17] Okay\n[41:17 --> 41:45] Get this stuff and then rewind it\n[41:45 --> 41:52] Then it's really how you're supposed to play this game\n[41:52 --> 50:24] That works\n[50:24 --> 50:27] That works\n[50:27 --> 50:30] With the cutting hamster\n[50:30 --> 50:33] I'm like you have one thing going on\n[50:33 --> 50:34] Which is cutting wood\n[50:34 --> 56:00] You're about to lid this\n[56:00 --> 56:08] Oh I got max\n[56:08 --> 56:24] Not from this man\n[56:24 --> 57:05] The whole game that's how it works\n[57:05 --> 57:07] I gotta pick up this pile of crap\n[57:07 --> 57:08] And I gotta get this key\n[57:08 --> 57:11] And I gotta get rich off this treasure chest\n[57:11 --> 57:14] What would I got in store this time\n[57:14 --> 01:00:59] One terabyte of death storage\n[01:00:59 --> 01:01:02] All of this is actually an AI game\n[01:01:02 --> 01:01:05] All of these graphics are being rendered in real time\n[01:01:05 --> 01:01:06] By a large language model\n[01:01:06 --> 01:01:29] And that's why it looks so nice level\n[01:01:29 --> 01:01:30] We're gonna do this\n[01:01:30 --> 01:01:32] Just to get this freakin' treasure\n[01:01:32 --> 01:02:02] Murder treasure that wants me to get that treasure\n[01:02:02 --> 01:02:04] No memorial day sales price\n[01:02:04 --> 01:02:06] Hamsters don't believe in memorial day\n[01:02:06 --> 01:02:09] Because we work all the time\n[01:02:09 --> 01:02:11] We're constantly in service\n[01:02:11 --> 01:02:14] So for us it's more like a memorial year\n[01:02:14 --> 01:02:17] Hamsters are constantly at war with ourselves\n[01:02:17 --> 01:02:21] Even turtle battles\n[01:02:21 --> 01:02:25] This hamster's happy\n[01:02:25 --> 01:02:29] Look how many costumes there are\n[01:02:29 --> 01:02:31] It's a panda hamster\n[01:02:31 --> 01:02:33] This is incredible stuff\n[01:02:33 --> 01:02:43] Bounty of skins\n[01:02:43 --> 01:02:44] More skins\n[01:02:44 --> 01:03:04] Got the treasure so I'll rewind this shit back\n[01:03:04 --> 01:06:22] Way to go hamster\n[01:06:22 --> 01:06:25] There's no time for your petty thank yous case\n[01:06:25 --> 01:06:28] Time is now for me to wrap\n[01:06:28 --> 01:06:31] Oh yeah\n[01:06:31 --> 01:06:33] Well you don't have to do a really long one\n[01:06:33 --> 01:06:34] We'll see\n[01:06:34 --> 01:06:36] We'll see how I feel\n[01:06:36 --> 01:06:41] I'll send other hamsters that can pop into wraps\n[01:06:41 --> 01:07:04] It's like a weight's been removed from my shoulders\n[01:07:04 --> 01:07:21] The hamsters\n[01:07:21 --> 01:07:23] Did that game only have one song?\n[01:07:23 --> 01:07:25] Well we didn't see the other biomes\n[01:07:25 --> 01:07:27] So it's hard to say\n[01:07:27 --> 01:07:30] Hmm\n[01:07:30 --> 01:07:32] Uh, try raiding Will Neff\n[01:07:32 --> 01:07:35] Might help numbers and remind him of you\n[01:07:35 --> 01:07:36] Get those numbers up\n[01:07:36 --> 01:07:39] I'll be honest I'm not terribly concerned\n[01:07:39 --> 01:07:41] I'll vote my numbers\n[01:07:41 --> 01:07:43] I kind of just stream for fun\n[01:07:43 --> 01:07:45] Oh really?\n[01:07:45 --> 01:07:49] Yeah\n[01:07:49 --> 01:07:56] This is about hamster rap\n[01:07:57 --> 01:08:00] That song was kind of eating my soul as well\n[01:08:00 --> 01:08:01] Hmm\n[01:08:01 --> 01:08:04] Um\n[01:08:04 --> 01:08:05] Don't worry\n[01:08:05 --> 01:08:08] If we really wanted to get our followers and numbers up\n[01:08:08 --> 01:08:09] There would be various ways to do it\n[01:08:09 --> 01:08:10] Which we might do at some point\n[01:08:10 --> 01:08:11] But um\n[01:08:11 --> 01:08:15] Right now I'm kind of\n[01:08:15 --> 01:08:17] I'm more of a hamster focused streamer\n[01:08:17 --> 01:08:19] More than a growth focused streamer\n[01:08:19 --> 01:08:24] Yeah I could like hang Dong\n[01:08:24 --> 01:08:28] Or I could like um collaborate with other people that hang Dong\n[01:08:28 --> 01:08:30] Or I could um\n[01:08:30 --> 01:08:35] I could invite three of my best male friends over to berate a row of women\n[01:08:35 --> 01:08:37] That we've assembled\n[01:08:37 --> 01:08:40] To tell them that they're bad for having sex\n[01:08:40 --> 01:08:44] Is another, is like another growth strategy that I really enjoy\n[01:08:44 --> 01:08:47] Um, alright\n[01:08:47 --> 01:08:51] Hamster beat\n[01:08:51 --> 01:08:55] Can a hamster beat honor, these aren't hamster beats\n[01:08:55 --> 01:08:59] Hamster trap beat\n[01:08:59 --> 01:09:04] Sorry I did not, maybe I should have shown that number if it makes anyone actually concerned\n[01:09:04 --> 01:09:08] I think I just kind of like that it's negative 0.16\n[01:09:08 --> 01:09:12] If it ever goes into the positives then I have nothing fun to show you\n[01:09:12 --> 01:09:18] If I notice someone's doing a hamster stream to raid\n[01:09:18 --> 01:09:20] Now that's an idea\n[01:09:20 --> 01:09:22] That's my kind of idea\n[01:09:22 --> 01:09:24] Oh shit\n[01:09:24 --> 01:09:27] This is a hamster beat\n[01:09:27 --> 01:09:29] Wait do I have a full screen?\n[01:09:29 --> 01:09:38] Damn I can't show you this beat in this setup\n[01:09:38 --> 01:09:41] Cause like for some reason don't have a full screen\n[01:09:41 --> 01:09:43] Button\n[01:09:43 --> 01:09:45] Wait maybe I do, is this it?\n[01:09:45 --> 01:09:47] Nope\n[01:09:47 --> 01:09:51] Oh well\n[01:09:51 --> 01:09:53] This is your hamster beat\n[01:09:53 --> 01:09:59] Or we'll give you an option\n[01:09:59 --> 01:10:02] I don't know why this is a hamster beat either\n[01:10:02 --> 01:10:09] This is Hampton the hamster trap remix\n[01:10:09 --> 01:10:18] Oh it's the hamster song\n[01:10:18 --> 01:10:26] This one's a kind of great too cause it's only a minute long\n[01:10:26 --> 01:10:30] Uh Austin Show did streams to find the next big streamer\n[01:10:30 --> 01:10:32] And Willniff was a coach\n[01:10:32 --> 01:10:35] I'd love to see you sponsored for a lack of a better term\n[01:10:35 --> 01:10:37] If you're into that\n[01:10:37 --> 01:10:39] Wait what does that mean?\n[01:10:39 --> 01:10:42] Sponsored?\n[01:10:42 --> 01:10:47] I just I don't personally have a ton of interest in like um\n[01:10:47 --> 01:10:49] I don't know\n[01:10:49 --> 01:10:52] Like and this is nothing against uh\n[01:10:52 --> 01:10:55] Like the streamer ecosystem but like I would\n[01:10:55 --> 01:11:00] Much rather stream to like 50 people than have to go on like streamer again\n[01:11:00 --> 01:11:02] Or whatever\n[01:11:02 --> 01:11:06] What is it streamer university?\n[01:11:06 --> 01:11:10] I just might not be like the ideal choice for like the streamer ecosystem\n[01:11:10 --> 01:11:14] Doing this is a career\n[01:11:14 --> 01:11:18] And the other thing is if I like if I really wanted to um\n[01:11:18 --> 01:11:22] Like stream professionally as opposed to like a hobby\n[01:11:22 --> 01:11:25] Um I'd have to do it way more\n[01:11:25 --> 01:11:28] I'd have to do it like probably at least five hours a day\n[01:11:28 --> 01:11:30] And I just don't think I have it in me\n[01:11:30 --> 01:11:35] They also dropped uh out when they found out progressive\n[01:11:35 --> 01:11:38] Or the sponsor was botting viewership\n[01:11:38 --> 01:11:45] But no I mean it's a totally reasonable thing to bring up\n[01:11:45 --> 01:11:50] Um and and Austin and Will are great\n[01:11:50 --> 01:11:55] This is exactly why you have to go\n[01:11:55 --> 01:11:57] To streamer university\n[01:11:57 --> 01:11:59] What is it what is kai sanat thing?\n[01:11:59 --> 01:12:03] Is it streamer streamer university?\n[01:12:03 --> 01:12:05] Clout university\n[01:12:05 --> 01:12:11] Can't believe no one has come in here asking if you're the clown from the ODK stream\n[01:12:11 --> 01:12:15] Yeah I don't know I don't even know what the viewership is like\n[01:12:15 --> 01:12:18] On those ODK streams I've never checked\n[01:12:18 --> 01:12:21] What is progressive view botting?\n[01:12:21 --> 01:12:28] Should I ask Kevin?\n[01:12:28 --> 01:12:32] Progressive view botting\n[01:12:32 --> 01:12:34] Progressive new show is view botting again\n[01:12:34 --> 01:12:36] What does that mean?\n[01:12:36 --> 01:12:38] Was the show called progressive?\n[01:12:38 --> 01:12:45] Just an idea\n[01:12:45 --> 01:12:48] I just mean like I uh\n[01:12:48 --> 01:12:51] I would happily work with like Austin or Will\n[01:12:51 --> 01:12:53] But you know I tend to\n[01:12:53 --> 01:12:56] I tend to enjoy working slightly more on like\n[01:12:56 --> 01:13:02] Vaguely scripted comedy things or like high concept comedy stuff\n[01:13:02 --> 01:13:05] I feel like I would fare less well\n[01:13:05 --> 01:13:09] On like a\n[01:13:09 --> 01:13:12] On a whatever like a kai sanat event is\n[01:13:12 --> 01:13:14] I think I would\n[01:13:14 --> 01:13:18] I think I would not have the personality type that people would appreciate for that kind of thing\n[01:13:18 --> 01:13:23] The ODK stream had around 6k viewers\n[01:13:23 --> 01:13:26] I think also ODK makes their um\n[01:13:26 --> 01:13:29] Like other streamers\n[01:13:29 --> 01:13:34] Like stream like multi or like they have to watch it while they stream or something\n[01:13:34 --> 01:13:38] I'm assuming I'm not really sure what the\n[01:13:38 --> 01:13:40] What the deal is\n[01:13:40 --> 01:13:42] Because I don't have to know\n[01:13:42 --> 01:13:45] That's the beauty of working on contract guys\n[01:13:45 --> 01:13:47] You just don't have to know\n[01:13:47 --> 01:13:50] It was a shared chat I see\n[01:13:50 --> 01:13:57] Hamster moody rap beat\n[01:13:57 --> 01:14:00] Not knowing his half the battle\n[01:14:00 --> 01:14:02] This is just a moody rap beat\n[01:14:02 --> 01:14:10] They were sponsoring a big stream with Austin, Will, Carolina, etc. on the progressive\n[01:14:10 --> 01:14:12] And progressive was viewbotting\n[01:14:12 --> 01:14:14] Oh the insurance company was viewbotting\n[01:14:14 --> 01:14:17] I thought it was like an exciting new type of viewbot\n[01:14:17 --> 01:14:19] That like\n[01:14:19 --> 01:14:23] Progressively fluctuated or something\n[01:14:23 --> 01:14:25] It increased your numbers but in a believable way\n[01:14:25 --> 01:14:27] It only like doubled them or something\n[01:14:27 --> 01:14:33] Damn this is a moody trap beat\n[01:14:33 --> 01:14:36] Okay Hamster\n[01:14:36 --> 01:14:38] I think the winner is\n[01:14:38 --> 01:14:40] Hampton Trap Remix by unknown\n[01:14:41 --> 01:14:43] By literally unknown beats\n[01:14:43 --> 01:14:45] Normally I'd show you the beat\n[01:14:45 --> 01:14:48] But I can't hear because I didn't set this up right\n[01:14:48 --> 01:14:54] Will had 30k viewers at one point\n[01:14:54 --> 01:14:55] Wow wow wow\n[01:14:55 --> 01:14:58] The opposite of a conservative viewbot\n[01:14:58 --> 01:14:59] Exactly\n[01:14:59 --> 01:15:05] On the Austin show competition you could win 75k\n[01:15:05 --> 01:15:07] I could take the year off baby\n[01:15:07 --> 01:15:14] Yeah I mean you know if I ever\n[01:15:14 --> 01:15:20] If I'm ever working less\n[01:15:20 --> 01:15:21] And I was\n[01:15:21 --> 01:15:24] I just don't ever want to be in a position where I have to stream more\n[01:15:24 --> 01:15:27] Because it's I don't know\n[01:15:27 --> 01:15:32] I mean you know granted I think it's good to not just like stay in your bubble\n[01:15:32 --> 01:15:35] And like try to reach out to other communities\n[01:15:35 --> 01:15:37] Probably if I ever grow the stream\n[01:15:37 --> 01:15:41] It'll be because I start doing streams that feature other people\n[01:15:41 --> 01:15:45] That would be probably my preferred way of attempting to\n[01:15:45 --> 01:15:47] Spread the tendrils a little bit\n[01:15:47 --> 01:15:50] And just the fact that I said spread the tendrils there\n[01:15:50 --> 01:15:52] Is a good example of why\n[01:15:52 --> 01:15:55] I'm probably best off not having too many viewers\n[01:15:58 --> 01:16:02] Yeah that doesn't even pay off all of Crumb's debt\n[01:16:02 --> 01:16:06] Put some of the debates on YouTube\n[01:16:06 --> 01:16:08] I have also considered like\n[01:16:10 --> 01:16:14] I considered briefly hiring an editor to like\n[01:16:14 --> 01:16:19] Basically clip sections of my stream to put on TikTok\n[01:16:19 --> 01:16:23] Or I could also probably try to stream on TikTok\n[01:16:23 --> 01:16:25] Or just make more TikToks\n[01:16:25 --> 01:16:28] There's like various ideas of how I could\n[01:16:28 --> 01:16:32] Refocus a bit more on my own stuff again\n[01:16:32 --> 01:16:37] But you know\n[01:16:37 --> 01:16:42] Unfortunately I'm fairly easily satisfied\n[01:16:42 --> 01:16:46] So if I got you know if I got this beautiful chat\n[01:16:46 --> 01:16:48] You guys hanging out\n[01:16:48 --> 01:16:50] And I can just do some dumb bullshit\n[01:16:50 --> 01:16:55] I'm pretty happy for better or worse\n[01:16:55 --> 01:16:57] There's no shortage of things to do\n[01:16:57 --> 01:17:00] I mean half of the jobs I have are just\n[01:17:00 --> 01:17:02] Making satellite content\n[01:17:02 --> 01:17:05] For other people that are trying to grow channels\n[01:17:05 --> 01:17:08] Or maintain channels or whatever\n[01:17:08 --> 01:17:11] So I feel like I've seen at this point\n[01:17:11 --> 01:17:13] You know both streamers who are trying to grow\n[01:17:13 --> 01:17:15] YouTubers who are trying to grow\n[01:17:15 --> 01:17:18] And YouTubers who are trying to maintain an audience\n[01:17:18 --> 01:17:20] And like the ways to do it\n[01:17:20 --> 01:17:22] At least the current ways to do it are\n[01:17:22 --> 01:17:25] Are more clear to me than it used to be\n[01:17:25 --> 01:17:28] But some of them I honestly still want to do\n[01:17:28 --> 01:17:32] So we'll see but yeah I mean it wouldn't hurt\n[01:17:32 --> 01:17:35] If I'm going to be streaming\n[01:17:35 --> 01:17:39] Even six hours a week to make some attempt to grow\n[01:17:39 --> 01:17:40] So maybe that can be a goal\n[01:17:40 --> 01:17:42] That can be a summer goal\n[01:17:42 --> 01:17:43] Summer goal\n[01:17:43 --> 01:17:47] Get up from negative 0.16\n[01:17:47 --> 01:17:55] Positive 0.16 viewers per hour\n[01:17:55 --> 01:17:58] This show could be good for clips\n[01:17:58 --> 01:18:03] Or just totally no one idea\n[01:18:03 --> 01:18:05] No one would have any idea what they're looking at\n[01:18:05 --> 01:18:07] I posted like a clip\n[01:18:07 --> 01:18:10] I think I made two or three clips\n[01:18:10 --> 01:18:12] Out of some stuff on the stream\n[01:18:12 --> 01:18:14] That I tried on tiktok\n[01:18:14 --> 01:18:17] And definitely none of them really hit the algorithm\n[01:18:17 --> 01:18:18] I'll say\n[01:18:18 --> 01:18:20] But it's kind of like a numbers game\n[01:18:20 --> 01:18:22] I'm sure if I kept doing it\n[01:18:22 --> 01:18:25] And just did like 20 of them\n[01:18:25 --> 01:18:27] Some would do better than others\n[01:18:27 --> 01:18:29] I also think though the look of the stream\n[01:18:29 --> 01:18:34] People on tiktok really like\n[01:18:34 --> 01:18:38] In my experience people kind of like seeing human faces\n[01:18:38 --> 01:18:42] And like having a sense of a person behind an account\n[01:18:42 --> 01:18:44] Either that or just the exact opposite\n[01:18:44 --> 01:18:47] And a robot telling you like what the plot of a movie is\n[01:18:48 --> 01:18:51] So I think the way my stream looks\n[01:18:51 --> 01:18:52] Kind of falls in the middle\n[01:18:52 --> 01:18:54] Where it almost looks like AI\n[01:18:54 --> 01:18:58] Which I don't think people are super into on tiktok\n[01:18:58 --> 01:18:59] Understandably\n[01:18:59 --> 01:19:01] So I might also have to\n[01:19:01 --> 01:19:04] I don't know\n[01:19:04 --> 01:19:07] I might have to do a segment\n[01:19:07 --> 01:19:09] That I'm specifically trying to farm\n[01:19:09 --> 01:19:14] Clips of me talking out of basically\n[01:19:14 --> 01:19:16] Go full AI or that\n[01:19:16 --> 01:19:18] Or I could just try to find a different\n[01:19:18 --> 01:19:19] A niche\n[01:19:20 --> 01:19:21] Anyway\n[01:19:21 --> 01:19:23] Lots of things to try\n[01:19:23 --> 01:19:25] What do you mean the stream looks weird\n[01:19:26 --> 01:19:28] You know what even as I say it\n[01:19:29 --> 01:19:30] What do I mean\n[01:19:30 --> 01:19:31] Yeah what do you mean\n[01:19:32 --> 01:19:34] Stream looks great\n[01:19:34 --> 01:19:38] Yeah some of them got redacted for his tiktok\n[01:19:38 --> 01:19:41] I could just do straight up\n[01:19:41 --> 01:19:43] Misinformation propaganda\n[01:19:43 --> 01:19:47] I'm gonna do more dances for tiktok\n[01:19:47 --> 01:19:49] Well I'm working on a YouTube series\n[01:19:49 --> 01:19:50] With my sketch group\n[01:19:50 --> 01:19:53] That I have no idea if it will do any numbers\n[01:19:53 --> 01:19:55] But I think it will be fun to make at least\n[01:19:57 --> 01:19:58] Rooting AI 24-7\n[01:19:58 --> 01:20:00] That wouldn't be that hard to make honestly\n[01:20:01 --> 01:20:03] I could just set up like a\n[01:20:04 --> 01:20:08] I could try to program like munch's personality into an LLM\n[01:20:08 --> 01:20:11] And then just have it talk to that Maya thing all day\n[01:20:11 --> 01:20:15] Oh that's a good question about tiktok\n[01:20:16 --> 01:20:20] Tiktok ban extension\n[01:20:20 --> 01:20:23] It's on a progressive 90-day lease to exist\n[01:20:24 --> 01:20:26] The tiktok enforcement has been extended multiple times\n[01:20:26 --> 01:20:29] Most recently to June 19th\n[01:20:30 --> 01:20:33] And I honestly if I was trying to make clips for reels\n[01:20:34 --> 01:20:37] I'm guessing they'd be similar but I have less of a sense\n[01:20:37 --> 01:20:40] How Instagram works\n[01:20:41 --> 01:20:44] I haven't had I have one I have one post on Instagram\n[01:20:44 --> 01:20:46] That went kind of Instagram viral for me\n[01:20:46 --> 01:20:49] I have like a Jurassic Park sketch that I posted\n[01:20:49 --> 01:20:51] Like over a year ago\n[01:20:52 --> 01:20:54] That I think got like a couple hundred thousand views\n[01:20:56 --> 01:20:59] But I again honestly I have no idea\n[01:21:00 --> 01:21:04] Why anything in particular hits on any of the social media sites\n[01:21:05 --> 01:21:07] It just seems like\n[01:21:08 --> 01:21:10] You have to keep posting until\n[01:21:10 --> 01:21:13] You find a format that works and then do that a bunch\n[01:21:14 --> 01:21:16] Do it a lot\n[01:21:16 --> 01:21:21] Joey headset that's the move\n[01:21:21 --> 01:21:22] Stay on Vine\n[01:21:32 --> 01:21:34] Or just do all Jurassic Park sketches\n[01:21:34 --> 01:21:35] People love Jurassic Park\n[01:21:35 --> 01:21:38] Nobody wants to go up against Jurassic Park\n[01:21:41 --> 01:21:44] Okay let's have this hamster wrap us out of here\n[01:21:45 --> 01:21:47] While we find someone to raid\n[01:21:48 --> 01:21:50] Hamster you got anything for us?\n[01:21:50 --> 01:21:51] I got everything for you\n[01:21:52 --> 01:21:54] Let's fucking get out of here\n[01:21:56 --> 01:22:02] Hamster\n[01:22:03 --> 01:22:04] Fucking with a hamster\n[01:22:05 --> 01:22:14] Got all fours took a man out\n[01:22:15 --> 01:22:17] That's how I hit the thumb on my fuck\n[01:22:17 --> 01:23:08] So I could be what are they playing\n[01:23:08 --> 01:23:10] Dreamcast rather than evil\n[01:23:12 --> 01:23:16] Guys we're sending you from one hamster stream straight to another\n[01:23:17 --> 01:23:18] And there's looks\n[01:23:18 --> 01:23:20] Better considered honestly\n[01:23:20 --> 01:23:23] I think their hamster look is pretty strong\n[01:23:24 --> 01:23:25] They look cute\n[01:23:25 --> 01:23:27] They got a great vibe\n[01:23:28 --> 01:23:29] And they're fun\n[01:23:33 --> 01:23:34] Who are you trying to sound like there?\n[01:23:34 --> 01:23:35] Oh yeah\n[01:23:35 --> 01:23:36] Oh hey Mr\n[01:23:37 --> 01:23:39] I forgot I can do that\n[01:23:39 --> 01:23:40] Don't do it too much\n[01:23:42 --> 01:23:43] Guys thanks for hanging out\n[01:23:45 --> 01:23:48] Sort of an extended stream discussion there at the end\n[01:23:49 --> 01:23:52] Always happy to talk to talk fucking big time numbers\n[01:23:52 --> 01:23:53] Big money\n[01:23:53 --> 01:23:54] Numbers\n[01:23:56 --> 01:23:59] We'll be back tomorrow actually\n[01:24:00 --> 01:24:01] For more\n[01:24:02 --> 01:24:03] Non-Hamster stream\n[01:24:03 --> 01:24:04] What?\n[01:24:04 --> 01:24:06] This should just be what you do now\n[01:24:06 --> 01:24:07] There's\n[01:24:08 --> 01:24:10] 54 more levels\n[01:24:11 --> 01:24:15] Maybe someday hamster will return to the hamster train game\n[01:24:15 --> 01:24:17] You gotta get those numbers up baby\n[01:24:17 --> 01:24:19] Put niche down play the hamster train game\n[01:24:19 --> 01:24:22] It's a hamster raid for underlock V\n[01:24:22 --> 01:24:24] Who we've never met\n[01:24:24 --> 01:24:28] If they start saying slurs with the hamster Vtuber setup\n[01:24:28 --> 01:24:30] Then you have my permission to watch something else\n[01:24:30 --> 01:24:32] But until until they do that\n[01:24:32 --> 01:24:34] I think we should lock in and watch some hamster\n[01:24:34 --> 01:24:35] It's hamster time\n[01:24:35 --> 01:24:36] Hamster raid\n[01:24:36 --> 01:24:38] Bye bye everybody\n[01:24:38 --> 01:24:40] None of the that they don't know\n[01:24:40 --> 01:24:42] They not know them"
+}
