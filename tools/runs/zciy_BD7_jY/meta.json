@@ -1,0 +1,19 @@
+{
+  "vod_id": "zciy_BD7_jY",
+  "title": "More Massive News Filings",
+  "url": "https://www.youtube.com/watch?v=zciy_BD7_jY",
+  "duration_seconds": 6265,
+  "duration": "1:44:25",
+  "timestamp": 1779321600,
+  "aired_at": "2026-05-21T00:00:00+00:00",
+  "date": "2026-05-21",
+  "ingested_at": "2026-09-16T19:32:38.622060+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "zciy_BD7_jY",
+  "yt_url": "https://www.youtube.com/watch?v=zciy_BD7_jY",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-05-21"
+}
