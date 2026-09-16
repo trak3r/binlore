@@ -1,0 +1,19 @@
+{
+  "vod_id": "FzHxojsvBmA",
+  "title": "Big Friday News Deals",
+  "url": "https://www.youtube.com/watch?v=FzHxojsvBmA",
+  "duration_seconds": 9833,
+  "duration": "2:43:53",
+  "timestamp": 1775865600,
+  "aired_at": "2026-04-11T00:00:00+00:00",
+  "date": "2026-04-11",
+  "ingested_at": "2026-09-16T15:53:04.737359+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "FzHxojsvBmA",
+  "yt_url": "https://www.youtube.com/watch?v=FzHxojsvBmA",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-04-11"
+}
