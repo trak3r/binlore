@@ -1,0 +1,19 @@
+{
+  "vod_id": "SnZ46D_gvYQ",
+  "title": "Deck the News with Awful Stories",
+  "url": "https://www.youtube.com/watch?v=SnZ46D_gvYQ",
+  "duration_seconds": 10161,
+  "duration": "2:49:21",
+  "timestamp": 1766534400,
+  "aired_at": "2025-12-24T00:00:00+00:00",
+  "date": "2025-12-24",
+  "ingested_at": "2026-09-16T03:58:27.908033+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "SnZ46D_gvYQ",
+  "yt_url": "https://www.youtube.com/watch?v=SnZ46D_gvYQ",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-12-24"
+}
