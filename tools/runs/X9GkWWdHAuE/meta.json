@@ -1,0 +1,19 @@
+{
+  "vod_id": "X9GkWWdHAuE",
+  "title": "Seizing the Wednesday News",
+  "url": "https://www.youtube.com/watch?v=X9GkWWdHAuE",
+  "duration_seconds": 9546,
+  "duration": "2:39:06",
+  "timestamp": 1767744000,
+  "aired_at": "2026-01-07T00:00:00+00:00",
+  "date": "2026-01-07",
+  "ingested_at": "2026-09-16T04:30:42.384063+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "X9GkWWdHAuE",
+  "yt_url": "https://www.youtube.com/watch?v=X9GkWWdHAuE",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-01-07"
+}
