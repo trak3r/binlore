@@ -1,0 +1,19 @@
+{
+  "vod_id": "6-Ej6m49W-w",
+  "title": "News Minus 30 Scrum Minutes",
+  "url": "https://www.youtube.com/watch?v=6-Ej6m49W-w",
+  "duration_seconds": 9322,
+  "duration": "2:35:22",
+  "timestamp": 1776729600,
+  "aired_at": "2026-04-21T00:00:00+00:00",
+  "date": "2026-04-21",
+  "ingested_at": "2026-09-16T16:56:51.348712+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "6-Ej6m49W-w",
+  "yt_url": "https://www.youtube.com/watch?v=6-Ej6m49W-w",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-04-21"
+}
