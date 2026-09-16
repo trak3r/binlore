@@ -1,0 +1,19 @@
+{
+  "vod_id": "RzZ1eEUzOlI",
+  "title": "Senate Kegger Committee News",
+  "url": "https://www.youtube.com/watch?v=RzZ1eEUzOlI",
+  "duration_seconds": 8976,
+  "duration": "2:29:36",
+  "timestamp": 1777420800,
+  "aired_at": "2026-04-29T00:00:00+00:00",
+  "date": "2026-04-29",
+  "ingested_at": "2026-09-16T17:59:59.039083+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "RzZ1eEUzOlI",
+  "yt_url": "https://www.youtube.com/watch?v=RzZ1eEUzOlI",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-04-29"
+}
