@@ -1,0 +1,19 @@
+{
+  "vod_id": "UyY_i6HCd9g",
+  "title": "Gotta Catch the News",
+  "url": "https://www.youtube.com/watch?v=UyY_i6HCd9g",
+  "duration_seconds": 13770,
+  "duration": "3:49:30",
+  "timestamp": 1771286400,
+  "aired_at": "2026-02-17T00:00:00+00:00",
+  "date": "2026-02-17",
+  "ingested_at": "2026-09-16T07:27:18.987671+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "UyY_i6HCd9g",
+  "yt_url": "https://www.youtube.com/watch?v=UyY_i6HCd9g",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-02-17"
+}
