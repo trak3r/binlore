@@ -1,0 +1,19 @@
+{
+  "vod_id": "R-IQkXacTG4",
+  "title": "Friday News Slime",
+  "url": "https://www.youtube.com/watch?v=R-IQkXacTG4",
+  "duration_seconds": 5617,
+  "duration": "1:33:37",
+  "timestamp": 1777593600,
+  "aired_at": "2026-05-01T00:00:00+00:00",
+  "date": "2026-05-01",
+  "ingested_at": "2026-09-16T18:14:04.857180+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "R-IQkXacTG4",
+  "yt_url": "https://www.youtube.com/watch?v=R-IQkXacTG4",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-05-01"
+}
