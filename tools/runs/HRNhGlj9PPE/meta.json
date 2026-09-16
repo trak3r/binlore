@@ -1,0 +1,19 @@
+{
+  "vod_id": "HRNhGlj9PPE",
+  "title": "Wednesday News Ignition",
+  "url": "https://www.youtube.com/watch?v=HRNhGlj9PPE",
+  "duration_seconds": 6650,
+  "duration": "1:50:50",
+  "timestamp": 1775001600,
+  "aired_at": "2026-04-01T00:00:00+00:00",
+  "date": "2026-04-01",
+  "ingested_at": "2026-09-16T15:11:22.505666+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "HRNhGlj9PPE",
+  "yt_url": "https://www.youtube.com/watch?v=HRNhGlj9PPE",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-04-01"
+}
