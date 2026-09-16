@@ -1,0 +1,19 @@
+{
+  "vod_id": "75I8_0lBL-Q",
+  "title": "The All American News Time Show",
+  "url": "https://www.youtube.com/watch?v=75I8_0lBL-Q",
+  "duration_seconds": 7882,
+  "duration": "2:11:22",
+  "timestamp": 1770681600,
+  "aired_at": "2026-02-10T00:00:00+00:00",
+  "date": "2026-02-10",
+  "ingested_at": "2026-09-16T06:40:02.985476+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "75I8_0lBL-Q",
+  "yt_url": "https://www.youtube.com/watch?v=75I8_0lBL-Q",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-02-10"
+}
