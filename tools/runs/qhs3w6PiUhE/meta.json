@@ -1,0 +1,19 @@
+{
+  "vod_id": "qhs3w6PiUhE",
+  "title": "Big Time Swear News",
+  "url": "https://www.youtube.com/watch?v=qhs3w6PiUhE",
+  "duration_seconds": 9440,
+  "duration": "2:37:20",
+  "timestamp": 1775433600,
+  "aired_at": "2026-04-06T00:00:00+00:00",
+  "date": "2026-04-06",
+  "ingested_at": "2026-09-16T15:23:42.501040+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "qhs3w6PiUhE",
+  "yt_url": "https://www.youtube.com/watch?v=qhs3w6PiUhE",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-04-06"
+}
