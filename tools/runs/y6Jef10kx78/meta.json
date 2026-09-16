@@ -1,0 +1,19 @@
+{
+  "vod_id": "y6Jef10kx78",
+  "title": "Woops, All War",
+  "url": "https://www.youtube.com/watch?v=y6Jef10kx78",
+  "duration_seconds": 9062,
+  "duration": "2:31:02",
+  "timestamp": 1772496000,
+  "aired_at": "2026-03-03T00:00:00+00:00",
+  "date": "2026-03-03",
+  "ingested_at": "2026-09-16T08:27:08.614964+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "y6Jef10kx78",
+  "yt_url": "https://www.youtube.com/watch?v=y6Jef10kx78",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-03-03"
+}
