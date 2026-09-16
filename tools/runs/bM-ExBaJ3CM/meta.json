@@ -1,0 +1,19 @@
+{
+  "vod_id": "bM-ExBaJ3CM",
+  "title": "Midweek Middling News",
+  "url": "https://www.youtube.com/watch?v=bM-ExBaJ3CM",
+  "duration_seconds": 10223,
+  "duration": "2:50:23",
+  "timestamp": 1776211200,
+  "aired_at": "2026-04-15T00:00:00+00:00",
+  "date": "2026-04-15",
+  "ingested_at": "2026-09-16T16:26:51.403464+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "bM-ExBaJ3CM",
+  "yt_url": "https://www.youtube.com/watch?v=bM-ExBaJ3CM",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-04-15"
+}
