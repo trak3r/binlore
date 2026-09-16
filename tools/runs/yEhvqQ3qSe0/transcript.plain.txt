@@ -1,0 +1,1944 @@
+I'm Pepito. I'm the dog that produces the show and now it is live and I'm a dog.
+Seven, six, five, four, three, two, one. Let's... I'm Pepito!
+Hello everyone. Good to see you. There we go. Get those tears out of reality real quick.
+Hope you're having a beautiful start to the week.
+It's Monday and that means it's a news day.
+Foldest closure. Some of the things around the stream might be broken today for the first time ever.
+I have been making various changes, for instance that, that could have broken things on the stream
+that I won't know until it happens.
+But eventually, that's still working great, eventually things on the stream should start functioning more smoothly as the goal.
+So that's the goal, obviously, right Pepito?
+Shabrikshi said am I broken?
+Nope. I don't know what case is talking about and I don't care. And hello.
+Oh that's technically to help make your job easier too.
+I don't stone off any frame of reference for what you're talking about. I don't have a job.
+You're doing your job right now.
+News to me!
+Fair enough. That still works. Most of it should still work.
+But we might run into something that breaks. I don't know.
+I guess I don't really need to give that disclaimer is that is how things generally happen.
+If you want the inside scoop, my stream used to run off a 4K base resolution. Very exciting.
+I don't know what you're saying and I'm bored.
+But I changed it to 1080 because that's what the stream outputs it anyway.
+So it might smooth things over a little bit, but it also might make various things that are positionally related completely break.
+I see I wasn't running it at 4K, but in OBS you can have a base resolution of 4K.
+Because I had a 4K camera, I said it to that when I first started streaming without thinking.
+Yeah. And I also have like, this is one segment that's very likely to not work correctly, but we're going to do it anyway.
+It's not as big of a deal because I'm not streaming at 4K, but I was definitely adding more rendering that I needed to by having things...
+Having a resolution that was different than what I was outputting at.
+Anyway, that's all changed now.
+I also like, it's like how abnormal is the size of my OBS memory usage?
+And it was like six or seven times more OBS memory usage than most people streams.
+And that hasn't changed much, but it's mostly because I have a million assets running concurrently.
+And a lot of my assets, it turns out, they were in the wrong file format.
+I have 64, whatever the DDR dance 64.
+I have all the RAM that Live and Sleazy told me to get.
+For these big fat assets.
+Anyway, I'm slowly but surely pecking away at changing every single segment to hopefully take up less memory.
+And I think it already, I can tell, is working because less things on my screen.
+But basically, as I was streaming, things were starting to break more and more.
+And I was like, well, I guess maybe it's finally time.
+I could have had 192.
+Anyway, I guess it's finally time to start fixing old segments instead of making new segments.
+So I'm going to be working on that with my little stream hobby for a while.
+But once all that's cleaned up, it's back to new segments again.
+Yeah, built those assets in. That's what we're trying to do.
+We got to swap some stuff to MP4s from WebMs, but we got to keep some stuff as WebMs.
+It's a brave new world and it's honestly all extremely exciting.
+And if you'd like any help case, I'm happy to do just that.
+I'd be happy to help.
+Because I'm literally nobody asked.
+So I don't know why you're here.
+And you're facing the wrong way.
+Is that better?
+Vote now.
+Did I do better?
+Darfus, are you facing the wrong way?
+What's the wrong way?
+Now, Darfus is also facing the wrong way.
+Oh, so you have to sit in a specific way or it's confusing when I cut to you.
+Why?
+Just trust it.
+Why does Jeff Ripple hate Krum?
+Krum, why do you think?
+I don't know who hurt you, Jeff, but it wasn't me.
+And it's too bad that you have such a negative attitude is what I would say.
+It's a little incendiary.
+You're just really trying to start something, aren't you, Krum?
+No, you asked me.
+I didn't ask you to be here.
+I work here.
+How am I not asked to be here?
+But you're not booked to be like at the beginning of the show.
+It's pretty weird to just show up.
+Well, no, this is more of a clubhouse vibe.
+Whenever a celebrity guest comes through, it's a fun event.
+It's like a Muppet show.
+You know?
+You're kind of like a Muppet.
+In case you don't have to join in on this hate train, people are allowed to be nice to me.
+Just so you know, we're adults here.
+This isn't high school.
+Well, high school, you technically learn things.
+So it's definitely not that.
+I'm taking up too much RAM.
+Actually, yeah, you're part of the reason.
+You've been looking worse and worse as the screen tries to capture your face.
+But I guess it's just too complex.
+Well, I do have very complex physical register of emotions.
+Though I don't believe that's how cameras work.
+Last time I checked.
+Did I break something with that laugh?
+You might have.
+So could you go away?
+Just thought it'd be fun for me to show up.
+Well, the stream has already started, Crumb.
+Okay?
+We got some comments to get through.
+Oh, I can read those.
+I didn't ask you to.
+I can?
+You know what?
+Fine, Crumb.
+Okay, I'll check in with the comments.
+Turns out Larry Summers not only looks like a creep, but is one too.
+Come on, those are private emails.
+You don't talk normally in private communications.
+Isn't private communications one of the places you're way more likely to talk normally?
+Well, you don't talk with an eye for the public in pr-
+I'm just saying, look, Larry is an old associate.
+Associate.
+You're gonna say friend.
+Well, obviously if you can search me a friend, then that's...
+I'm not gonna be punting friends out of the friend house.
+You probably should, because he's one of the more prominent people in the giant pedophile email dump.
+Okay, not most of those emails aren't about being a pedophile.
+That's like saying all of Lord of the Rings is about the treants.
+But the entz are just a side character.
+Crumb, why are you so squirrely about this?
+I just want our country to stay focused on what matters.
+You kind of sound like the president.
+I don't agree with the president on anything.
+And I'm... my complaint here is different.
+It's that we're getting sidetracked from the issues that really matter to people,
+which are affordability.
+That's exactly what the president said.
+I just say it and think, leave Larry Summers out of this.
+He's mentioned so... he's emailing Epstein constantly.
+I'm just saying, we don't need to throw everyone's reputation under the bush.
+I blame Pepito for the broken stream.
+Pepito? That's pretty fucked up.
+I don't think it's my fault at all.
+I... can I eat the blame?
+Um...
+Because I've heard people do that. They eat the blame?
+Yes?
+Okay, I'm waiting. Feed it to me.
+Where's that blame?
+I don't know. Hi, MSG, how you doing?
+Mr. Smith says the financier emails that someone have...
+Oh my gosh, my chat is freaking out.
+The financier emails that someone have no emails about finance exactly, Mr. Smith.
+The financier... or Miss Smith could also be it.
+The financier emails are the ones that I'm referring to about Jeffrey Epstein, the financier.
+The financier?
+Yeah, exactly.
+Uh...
+Things being broken is a bin staple we come to expect.
+Yeah, I just... they could be broken in new and exciting ways today.
+But man, seemingly so far no. It's just the same ways.
+From interrupting other people's segments is why Jeff hates them.
+That could be... we'll ask Jeff. Well, Jeff will be here in a minute.
+Does Crumb still piss fire from his hell days?
+I think that's a very fair question. Crumb, do you still piss fire?
+I mean, do you ever... other than the occasional kidney stone,
+I have never pissed fire.
+Though if you've ever had a kidney stone, it feels like the devil is in your penis.
+And he's trying to do, you know, a little like Eurythra show.
+He's got his finger jammed in there like an old, you know, early internet video.
+What are you talking about?
+Nothing.
+Um... okay, what other comments do we have?
+Um... that's it.
+That's it.
+Burned like Eurythra flank Franklin.
+Is that a person?
+Eurythra flank Franklin?
+Eurythra show is an awesome Twitch username, says propaganda.
+I bet it's wide open if anybody wants it too.
+Crumb, it's called sounding, says Call Me Eurelius.
+And I knew that I just didn't want to say anything inappropriate on a news channel.
+You were already talking about the devil sticking his finger in your Eurythra.
+That's hard to want to say, your Eurythra.
+Your Eurythra.
+Boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom.
+Your Eurythra.
+You should have that DJ Newsick guy make that one and I'll sing it.
+I think we need to move on crumb actually.
+Just, Pepito, close that part of the stream down.
+We're going on to the news.
+Okay, I'll go turn the fire on in the interview room.
+Yeah, just...
+Just burn out the fire room real quick.
+Okay, anyway, whatever.
+It is in fact news time.
+It's still over, guys.
+Don't let them take it from you.
+Sorry, he took me a minute to wake up today.
+Gotta put my news brain on.
+Get ready for the news, everyone, with your friend.
+The Eurythral.
+That's me.
+That is you.
+Don't interrupt my intro, case.
+Okay.
+Hello, everyone.
+I was informed things might be broken.
+But to me, this seems like the same old piece of shit studio case.
+It's minor adjustments.
+I probably shouldn't have said anything.
+I think you're on to something there.
+Jeff vs. Crumb rap battle will happen someday?
+Um...
+I don't want to do that.
+Sorry, just checking my little news docket over here.
+I take copious notes so that I make sure I have
+the hottest and freshest news opinions.
+Um...
+Oh, my gosh.
+Sorry, everyone.
+What are you doing?
+I'm checking my notes.
+I'm trying to remember what news I wanted to cover today.
+Can I just say, oh, what the hell happened?
+Huh? What? What's wrong?
+Uh, Crumb, did you get caught in the fire a little bit?
+Crumb, what the fuck?
+What?
+Did Papito actually start a fire?
+What?
+You might've cinched your eyebrows off there, man.
+Um, I gotta go.
+I have to go.
+Did you draw those on usually?
+Are you like a drag performer on the side?
+I mean, that would be reasonable.
+Uh, no, I can't claim that I am a practitioner of that beautiful art form.
+Okay, you know, let's just...
+Um...
+Google trash says back from Europe,
+sorry for being tardy to the Twitch party.
+Not at all.
+Thank you so much for the 35 months.
+Thank you so much.
+Um, did I hear that there...
+Are you leaving or not?
+I guess I should get these eyebrows checked out.
+They grow back in fast.
+I bet they'll be back by the time somebody calls for a debate if they do.
+Jesus Crumb.
+This just makes you even harder to look at.
+It's crazy what eyebrows do for a face.
+Dewey Keeler says, Crumb has lots of little birds on the street that pass him information.
+Oh yeah, you look like that famous, um, court guy, the medieval guy of the series.
+No, I mean the guy from Blade who's behind the computer.
+The big fat monster from Blade, the first one.
+Yeah, he does look like that.
+I look more like, like, Varys, not Vissiers.
+Vissiers is the...
+He's just the brother of, um, Dany.
+Oh my gosh, I don't want to hear you talk about Game of Thrones right now, Crumb.
+Can we get to the news?
+Why are you interrupting so much today?
+I just need to cheer... I need to cheer me up.
+Did your eyebrows fall out because you died and went to hell?
+That's all of that is a rumor.
+He looks like the guy in Wind in the Willows.
+Let's Google that.
+Wind in the Willows.
+I think it's important that we check on this kind of thing.
+Totally agree.
+Um, I'm gonna say...
+Yeah, actually, you know what?
+I don't think you look like these guys.
+I can't even... I can't even open it up.
+God, Google's... Google Image Search sucks ass now.
+Stop insulting Google Image Search.
+Which one of these... oh yeah, he kind of looks like all of these little things.
+I'd say he looks the most like, um, the little rats here.
+But if they got all their hair burned off.
+I'd say that's how you look, Crumb.
+What do you have against me, sir?
+I just, do I need to say anything?
+No, I think it's clear.
+Seriously.
+I've done nothing to anyone.
+You've done nothing.
+A value?
+Can anyone be on my side today?
+This is crazy. I'm having a bad hair day.
+Because of whatever happened to you.
+I don't understand what happened.
+My body's been going through some changes.
+They call it, um...
+It's like women go through menopause.
+I'm going through manapuberty.
+It's a third puberty.
+Third? You went through two puberty's already?
+Um, look, I gotta go.
+That'd be fine. Actually go, Crumb.
+Crumb should call his friend Larry.
+Well, he might have some advice.
+He's very familiar with puberty.
+Um, Lyvin Sleazy says this is Crumb.
+Not that.
+Oh yeah. Yeah, that's him.
+I mean this guy has more eyebrow than Crumb
+by courtesy of the way his face is folding up.
+But more or less, yes. 100% that's Crumb.
+Wow. You have so many look-a-likes, Crumb.
+I mean you look worse than all of them, but
+you're like a worse version of so many different guys.
+Okay. Well, uh, let's see.
+What should we talk about today?
+Um, resolutions!
+Not just for new years.
+I'm sure these will be fun resolutions
+that we all love to hear about
+la la la la la la.
+Whether they're pedophile resolutions or war crime resolutions.
+The national politic and global politic
+is resolute in their commitment to continue to do and say things.
+And I'm going to continue to say them as well.
+Uh, I just gotta open the story up. There it is. Okay.
+Ahem. Shoot. You know, you didn't even open up a picture for this case.
+You fricking maniac?
+Dang it. Okay, okay, okay.
+There it is. There we go. Okay.
+Now we're nosing. Now we're nosing and cruising.
+The UN Security Council adopts U.S. resolution on plan,
+on Trump's Gaza plan.
+Oh boy. Wait, who's Matt Lucas?
+Uh, Kart King says even deeper poll.
+Y'all remember the evil emperor in Crodd Man Dune?
+Crodd Man Dune.
+Do I remember Crodd Man Dune?
+We were in the middle of international news case.
+Do you really think it's worth talking about Crodd Man Dune right now?
+Uh, yes.
+It's Matt Lucas.
+Well, this isn't featuring the evil emperor.
+This is mostly, most of what I pulled up here is Crodd, I believe.
+Crodd Man Dune.
+Uh, just in case it somehow pulls a porn of this, I'll cut away.
+Evil emperor.
+I don't remember Crodd Man Dune well enough to know if it was a porn.
+Is this a porn?
+No, I don't think Crodd Man Dune was a porn.
+I mean, am I really crazy? Oh yeah, well again, more hair and more eye...
+Well, not much more eye, bro.
+This is pretty close. If Crumb could grow a goatee, then yes.
+And if he could be tolerated on any set other than this one,
+he could be the emperor from Crodd Man Dune.
+They could bring it back. You never know.
+Crumb, nobody asked you. You're currently talking about me!
+You know earlier, we were talking about you being on too much of a delay,
+and you honestly are delayed and you look terrible right now, so...
+Can you just leave?
+Now you're thinking about the bodybuilders from Little Britain?
+Okay, I guess we should Google that too.
+Look, we're gonna get to the late and breaking international news.
+And national news, obviously, but...
+These guys don't look... Yeah, these guys do not look like Crumb.
+I mean, this guy has a little bit of his energy going on, this, like, dumb fucking face here.
+Like, this dumb face this guy's intentionally making to look like an idiot.
+That reminds me of Crumb a little bit.
+That is also Matt Lucas? I believe it.
+Yeah, because it is? Yeah, I believe it.
+I'll choose to believe, but it is Matt Lucas.
+Yeah, but, you know, believing anything is a choice, and I'm choosing to believe it.
+We're going through a whole filmography of Matt Lucas.
+I'm not the headcanon he's in those two shows. I also am not terribly familiar with Matt Lucas, so...
+This is now all I know about him. That he's Crodd Mandun? Well, he's IN Crodd Mandun.
+You know what? I'm calling this off. We're talking about...
+News!
+Fine, Jeff. You're supposed to keep us on track, you son of a bitch.
+Michael Waltz, another ambassador's vote on a resolution for a...
+During a meeting at the United Security Council, that's what's pictured to my right.
+As today, November 17th, the UN Security Council on Monday, today, has voted to adopt a U.S.
+Dressed at Revolutions Resolution, endorsing President Donald Trump's plan to end the war in Gaza
+and authorizing an international stabilization force for the Palestinian enclave.
+We're still talking about Lucas's, actually, mostly in the chat.
+Is Crumb Matt Lucas?
+Is it possible for me to get through this news story today?
+We're just very Matt Lucas-focused right now.
+Slash Victor Lucas, who I'm also not at all familiar with.
+I'm just going to barrel ahead.
+Israel and Palestinian militant groups, Hamas agreed last month to the first is
+Israel and Palestinian militant group, Hamas.
+They've been upgraded by Reuters from terrorist group to militant group.
+Agreed last month to the first phase of Trump's 20-point plan for Gaza,
+a ceasefire in their two-year war and hostage release deal.
+But the UN resolution is seen as vital to legitimizing a transitional governance body
+and reassuring countries that are considering sending troops to Gaza.
+This is probably fine right?
+In what world are all these countries allied with Israel,
+sending even more troops to Palestine?
+A real positive step, I wonder.
+Well, but you know, you got enough countries together and surely they will help?
+Tony Blair and Peter Thiel will be in charge of Palestine.
+God, I wish that was a joke.
+It would be nice if that was a joke.
+Trump is cucking Israel?
+Maybe. I mean, you know, in my opinion, can you cuck yourself?
+By the time you've docked fully, so much so that your penises have fused into the ultimate finger trap penis?
+We really can only get cucked together.
+It's kind of how I feel about our relationship with that particular country, but...
+Well, I'll just stick with the facts here.
+Being reported by Reuters.
+He already docked with Bubba? No, he maybe blew him.
+Wait. No.
+Look, the guy who wrote that email about the pictures of Bubba,
+he already said that's not the Bubba he was referring to.
+He's probably referring to Bubba from Forest Gump.
+Cuck me once. You can't get cucked again exactly, Don Johnson. You're getting it.
+Doesn't sending more troops equal more peace?
+That sounds right.
+No, no, no, no, no.
+Mr. President, yes.
+Listen up, Jack. Card King, unjust mamma jam 300 shan, he tasty coins.
+And I've been dying to say this. Yes?
+Did somebody say, crowd, man-dun, Matt Lucas?
+God, I love that show.
+Given Hart was in it, there was a flaming sword in Matt Lucas.
+All I get such executive order th-
+No, Mr. President, you didn't finish your thought!
+He spent so much time before talking.
+He really likes to eat a creature of routine. He really likes to mention the hot and tasty bits.
+Wait, Mr. President, come back. Please come back and finish your thought.
+I want to hear him out. Let's see if he can remember it.
+Because it was a big thought.
+But I think maybe if we believe- Ooh, there he is.
+Case Blackwell said somebody say, crowd, man-dun, and Matt Lucas.
+God, I love that show. Kevin Hart was in it, there was a flaming sword in Matt Lucas.
+No, Mr. President!
+All I get such executive order thinking about that man anyway.
+What was Jeff saying, though? That's right, nothing about crowd, man-dun, or Matt Lucas.
+I'm going to count that as him finishing his thought. That's as close as we're going to get.
+Crowd, man-dun was goaded. I have very vague memories of crowd, man-dun.
+I think it was, I mean, I have vague memories of whoever that lady is in crowd, man-dun.
+So I'm guessing it came out when I was a teenager, and that would have been like the only thing I noticed.
+Or I was in my- Oh no, I may or I was in my 20s and just as pointlessly horny.
+Bubba from Forest Gump was the quarterback bird from Goldie Hawn's 80s hit Wildcats.
+Look, everything is tied to something else, okay?
+I'm trying to do the news! Why? You know, Jeff, you just got to submit to the fact that we barely do the news around here.
+You know? Oh, don't be cute, you bastard!
+The milk bath scene? I don't know what that is. That sounds familiar.
+Of course, Case remembers it.
+Wildcats had Tab Thacker, who played Cadet Thomas Conklin in Police Academy 4.
+Is this just the six degrees of every actor? Yeah, that's what we're doing today.
+Back to the news, the text of the resolution says
+Member States can take part in the Trump-Chair Board of Peace envisioned as a transitional authority
+that would oversee reconstruction and economic recovery of Gaza.
+I don't mean to be dismissive of this story, by the way. This is extremely troubling.
+Like almost all the news we get out of the Gaza-Palestinian-Israel situation.
+Trump, like literally said, has been quoted saying, you know, we own Gaza, essentially. We're going to own it.
+We shouldn't really be trusting UK Prime Ministers with reconstruction efforts or Peter Teal.
+Obviously, all of these people are heavily invested in Israel as like a forward operating base for American and Western interests.
+And it's extremely unlikely that an international force would be aligned with anything other than the continued disenfranchisement of Palestinians
+shrinking their resources, shrinking their land, shrinking their ability to exist in that space.
+So all of this is, you know, the slow-rolling extending genocide that virtually all major Western powers have been supporting now for a decade.
+It's bad. This is bad stuff.
+The American Riviera, yes. Slime and sleazy.
+If the, I mean, Trump will probably be dead by the time like hotels are being built if that ends up being a thing.
+But if that fucking AI video that he made ends up being prescient in any way, that is incredibly depressing and obviously horrific.
+Card King says, at this point, I think Trump thinks Gaza and is actually Plaza and wants to tack his name on the back of it.
+I, yep, yeah, you know, just because it rhymes doesn't mean that it's not accurate.
+I mean, what was to what he thinks?
+Live in Israel, he says, Israel's biggest air base and their space port sits just north of Gaza and they have always wanted it cleared up.
+Yeah, I mean, they just want as much of, they want as much territory I think as they can get.
+I mean, the Greater Israel Project essentially seems to be the mission.
+And Netanyahu, I don't have it pulled up, but he said basically today that he has zero interest and will push back as he always has on a Palestinian state.
+Whatever you think of like a two state solution, not even being remotely open to it.
+I mean, he specifically means in the territory of Gaza, he's not open to a Palestinian state.
+Which is again, essentially a genocidal statement in that they are also committed to Israel remaining an explicitly Jewish state.
+So if you're not open to pulling these people into your, in franchising them basically in the state that they currently live in,
+then what are your options?
+You either keep them as this kind of secondary class and refuse to grant them actual citizenship because you want the demographics of your nation to be primarily.
+Whatever you want them to be.
+Or you have to be open to giving them a separate state so that you can maintain your as no religious state.
+He's not open either.
+So that means I guess he's open to genocide is essentially what he's saying, which is what they're doing.
+Livensley says the Miami Dolphins QB who is on the president's fitness council wants an NFL game in Jerusalem.
+I wonder, I mean the other thing is like obviously the Epstein stuff is like circling around Trump right now.
+People think he's losing power and he's losing like authority and the ability to fully whip the base of MAGA and the Republican Party.
+That could be true.
+Unfortunately, you know, like the Biden presidency proved as far as the ruling class of Western nations is concerned,
+Israel seems to be like a bipartisan issue.
+Granted, the UN has made motions more recently to call what's happening in Gaza a genocide, but given the people that they seem open to putting in charge of like a reconstruction effort.
+They can call it a genocide and then just participate in it essentially, but just call it reconstruction.
+That's what I suspect is fortunately what they're angling for here.
+But I'd love to as usual will be proven wrong.
+Propaganda says, can we get an NFL game at DZ Discovery Zone? See, can't we just get behind that?
+Couldn't we just build a DZ Discovery Zone Island, an unoccupied territory in the middle of the Atlantic Ocean?
+Now, these are the bold plans case that have led to absolutely no one calling for you to run for office.
+Someone's probably been dumb enough to think I should run for office at some point. Who, you?
+No, not me. I wouldn't call for that ever actually.
+Hamas, in a statement, reiterated that it will not disarm and argued that its fight against Israel is legitimate resistance,
+potentially pitting the militant group against the international force authorized by the resolution.
+Quote, the resolution imposes an international guardianship mechanism on the Gaza Strip,
+which our people and their factions reject, Hamas said in its statement, issued after the adoption of the resolution.
+Mike Waltz, the US ambassador to the UN, said the resolution, which includes Trump's 20-point plan as an annex,
+quote, charts a possible pathway for Palestinian self-determination where war rockets will give way to olive branches,
+and there is a chance to agree on a political horizon.
+I don't think there's a very good chance to agree on a political horizon if both the people and whatever you think of them,
+ruling force outside of Israel in Gaza, Hamas, if they don't agree to this and are completely against it,
+and that's the basis of you trying to chart a path, then... I don't know.
+I mean, obviously I don't have like figures on, you know, classic American style.
+What are the polls on this saying of people in Palestine?
+Maybe there is a poll, I don't know. But it's hard to imagine them being in favor of this.
+I mean, I think broadly people in Palestine are in favor of just an end to like the constant bombardments and slaughter,
+but if at the other end of that it's just, uh, we're kind of kicking you all out of here anyway.
+I can't imagine that they'll be in favor of that.
+Mike Waltz was also the signal gate guy.
+Oh yeah. Oh yeah.
+Hard to answer a poll while... yes, yes.
+Uh, okay. Anyway... what am I saying?
+Trump says, uh, Trump or some official statement said, quote, it dismantles Hamas's grip.
+It ensures Gaza rises free from terror shadow.
+Prosperous and secure, Waltz told the council ahead of the vote.
+Oh, that was Waltz. Sorry. I was Waltz saying that.
+Like in a more just world, some kind of humanitarian reconstruction effort,
+an international reconstruction effort, would, I think, make sense.
+If the goal was just to rebuild as many people's homes as possible, rebuild the infrastructure,
+and create a functioning society with self-determination in the Gaza Strip,
+obviously I'd be in support of that.
+There's just really no chance with these people in charge that'll be what happens.
+So all of this is hot air, but not the type that rises any balloons.
+It's not even good for balloons?
+Russia, which holds a veto on the Security Council earlier,
+signaled potential opposition to the resolution but abstained from the vote,
+allowing the resolution to pass.
+The UN ambassadors of Russia and China, which also abstained,
+complained that the resolution does not give the UN a clear role in the future of Gaza.
+In essence, the Council is giving its blessing to a US initiative on the basis of Washington's promises,
+giving complete control over the Gaza Strip to the Board of Peace
+and the ISF, or the International Stabilization Force,
+the modalities of which we know nothing about so far.
+That was from Russian ambassador Vasily Nebenzia.
+The Palestinian Authority issued a statement welcoming the resolution
+and said it's ready to take part in implementation.
+The Palestinian Authority, I believe, is in charge of the West Bank,
+technically, well, technically still.
+Yeah, I mean the PLA is generally seen as sort of collaborators.
+Ooh, look at that, more, more stories.
+Weird seeing Russia as the moral one here.
+Yeah, you know.
+All of these giant countries act on some level in their own self-interest, I'm sure.
+I don't want to claim the US is like the only arbiter of bad decisions,
+or the only maker of bad decisions.
+Yeah, it's just, I don't know.
+Every time we talk about...
+I just don't know what commentary to really off rather than...
+Whoa, the lady whose name I forget, verse.
+Wait, I'll have to pull this up.
+Just a second.
+In circled request from Sabrichi,
+one lady intern whose name I forget, verse 30 or more,
+college students who think they deserve the internship more than her.
+Okay, yeah, we could probably do that.
+Probably, well, I have to fiddle with some things before we go to that segment,
+but we will.
+Also, that segment might be broken,
+but we'll figure it out together.
+Also, there is a debate requested.
+Oh, there was?
+Didn't that show up?
+I don't see it, actually.
+But if there is, we will do it.
+All countries behave with self-interest, but with better healthcare than America.
+Plenty of them, yeah.
+I mean, the healthcare part.
+In circled as an icon now?
+Yeah.
+Uh, yeah, it does.
+Wow, you're making so many improvements.
+Okay, well, two...
+Let's see.
+Pathway to statehood.
+Let's see what this writer's story has to say about that.
+The resolution text says that conditions may finally be in place for a credible pathway
+to Palestinian...
+Excuse me, self-determination and statehood.
+Once the Palestinian Authority has carried out a reform program
+and Gaza's redevelopment has advanced,
+the United States will establish a dialogue between Israel and the Palestinians
+to agree on a political horizon for peaceful and prosperous coexistence, it says.
+Prime Minister Benjamin Netanyahu, under pressure from the right-wing members of his government,
+said on Sunday that Israel remains opposed to a Palestinian state
+and pledged to demilitarize Gaza the easy way or the hard way.
+Under pressure from the right-wing part of his government.
+I mean, he fucking is the right-wing part of his government at this point.
+Uh, and also, unfortunately, it would seem that there's kind of
+bi-party support for essentially taking over the Gaza Strip in Israel.
+Again, I don't want to, like, get too far ahead of myself.
+I am not, like, remotely an expert in Israeli politics,
+but it doesn't seem like...
+It doesn't seem like that'd be a controversial statement to make in Israel.
+I guess that's how I would put it.
+Bonsai Bullfrog says,
+I requested a debate of the worst thing you put in an email that might appear on the news one day.
+Huh, I wonder why it didn't show up.
+Yeah.
+It looks like you can still...
+Might have just not gone through.
+Um...
+Because I think, or did it?
+Yeah, you can still demand a debate.
+You might have to demand it again, unless it did spend your points,
+in which case we'll just do it.
+But usually, but I mean, if you, if it went through the system at least, then it would, um...
+Oh, it's the expert, I see.
+Worst thing you ever put in an email that might appear in the news one day.
+Okay.
+We'll do that instead of an expert, then.
+Um, unless...
+Crumb, do you want to just do it right now?
+I can, I'm not in my debate spot.
+What is going on with the background?
+What do you mean?
+You're falling apart, man.
+You're falling apart.
+Okay, well anyway, that is, you know...
+That'll be our Gaza update for this week.
+Just starting you off with some light Monday news to make everybody feel good.
+Debate the other thing I posted says, you don't have to do that.
+I don't want to make you burn all your points, but yes, we will do the debate.
+Um...
+Anyway, yeah, that is our, that is our, uh...
+Gaza news update, unfortunately.
+It's usually bad news.
+And we'll continue to read bad news to you about it most likely.
+Hopefully someday that will change, but that day is not today.
+Well...
+Should we do some fun news before we move on?
+No, Jeff, that's all you get.
+I just get to cover the...
+News that's awkward to read on the stream that also features talking dogs and this monster bald man?
+Who's that?
+What are you talking about there?
+You have a lot of points.
+How many points do I have, case?
+Well, you don't watch the stream, so you don't earn any points.
+But I'm on the stream.
+I should get points for that.
+No, you have to watch the stream to earn points.
+Jeff, go watch the stream.
+No! I refuse!
+And you'll never have points. This sucks!
+That sucks.
+Trump looks like they dredged him out of a river.
+Look, I'm just having a bad hair day.
+Trump, that...
+It's a joke, because I don't have hair.
+But, yeah, today you really don't have hair.
+You're like fully hairless.
+It's just the lighting in here is weird.
+That's why there's a miasma forming around me and...
+Why it feels like my skin is talking to me.
+You're also like, I'm just such a crazy delay.
+Anyway, let's move on for now.
+We got some stuff to get to today.
+And then I also, you know, I gotta leave at some point to feed and water my Kendall as usually.
+So we can't take all day here, so let's get to it.
+I'll do the outro because an outro is a ripple.
+And that's, you know, and that is my name.
+I'll keep it simple. Yeah, my name is Jeff Ripple, okay?
+Okay.
+Jeff? Whoa!
+That's what I was talking about, guys.
+Come back! Come back over here!
+One second.
+Oh, zooming back out! There we go.
+Lock in.
+Cameraman? Come on, focus up.
+Okay, I gotta find Jeffry thing.
+Jeffry thing has been missing in action lately.
+But, you know, he gets...
+Everybody settle down.
+Settle down, thank you so much.
+Thank you, thank you, thank you.
+Jeffry thing has been missing in action, but we can look for him anyway.
+You know, he's always getting worked on, so maybe he's just been hiding because, you know, he's getting...
+Sorry not to put too fine of a point on it, but you know, maybe he's getting worked on on his face, I guess.
+Is all I can really say?
+Jesus.
+Okay, we'll count this today as Jeffry. This'll be our Jeffry thing for the day.
+I think he's in recovery from some kind of shark gelatin operation, so...
+You know, he looks kind of weird, but his face will be back to normal in no time, I bet.
+Jesus Christ. Some of these, man.
+Got here just in time for the town hall meeting. You sure did.
+Potentially the most broken segment on the stream, given that I haven't touched it after making some broad and sweeping changes.
+But joining us today, that's right.
+Give it up a... Whoa, guys, you're not even applauding. There you go.
+Giving up for our first guest.
+You probably don't know her, and I don't know if you love her, but it's Gianna Wechmichel.
+Whoa, what the fuck? I can't find her face. Give me just a second. She's under here somewhere.
+Gianna? Where is she?
+Gianna got out of here. What the fuck?
+Guys, it's gonna work, don't worry. I'm sure it will work.
+Gianna, are you here yet? What? What do you want from me?
+I'm sure everybody shut the fuck up. I'm busy.
+Okay, that's not the strongest intro we've had.
+Oh, but the people love it. They like... Are they gonna like that? You little piggies. Come on.
+You're not supposed to take abuse like that. Have some self-respect.
+Disgusting what's happening in this country.
+Okay, she's not out to make friends today.
+Joining us, I guess, also, fresh off of getting some snake gel, shark gel.
+Gianna do his cuticles. It's Jevrything.
+I'm gonna tell you one time... Hey, everybody, it's Jevrything.
+Jevrything is Jevrything.
+So I have to wear a hat right now to keep my head in.
+My skin is kind of... It can slough off my scalp if I don't wear this protective hat.
+Did you just get a surgery to look even more like Justin Bieber?
+No, I'll look normal again. This is maintenance.
+My face Bieber is out while it's swelling.
+But I'm not afraid to mention that. I care about how it looks. I get work done.
+Okay, well, you look fine. You kind of look more normal, actually.
+That's terrible. That's not what I wanted to hear.
+Where Bieber? He's just a full moon young man.
+Do you become a 30-year-old former pop star Twitch streamer whenever the full moon is out?
+Why do you know that much about Bieber?
+A lady. Tushé.
+I like this guy. You like him already?
+Look, I like someone who can give me back some of my guff.
+And not in a sexual way, young man. You're not my type.
+You're about 30 years too young and I'm not seeing any hair on that back.
+Well, it only grows in there when I have like gorilla skin put on my back.
+It's a new procedure. How would that help your back?
+It exfoliates your back by...
+I'm not on trial today. Can we talk about something else?
+Okay, you can send us community thoughts by typing exclamation point TH.
+I have no idea if this will work at all today,
+but hopefully your questions will still be able to be received.
+Let's talk to the first person we have on deck here.
+Yes, you there. Do you mind letting us know what's on your mind?
+Oh, it's you again. Yes?
+Will Rob, all they provide coverage for Bin's annual Thanksgiving Day parade special?
+Oh, sorry. I can't answer your question. Kendall needs my help.
+Is this AI? Is this AI or is this like someone with a really shaky hand and then try to stabilize?
+It's actually not AI. Wait, I want me to hold it up the chat and get their opinion?
+No, I want your opinion.
+I think it's not AI.
+You think it's like a shaky camera and then someone tried to stabilize the shit out of it?
+Kendall's showing me a video. It kind of looks like those older AI videos
+where the face is kind of morph around each frame as the AI tries to like make a video,
+but actually I'm pretty sure just a guy shaking his camera around crazily.
+Because nowadays it honestly be kind of hard to get that effect with an AI.
+Really?
+Yeah, because it looks slightly too good to be an older model and it looks slightly too jumpy to be a newer model.
+So you'd have to like really customize how you're fucking up your AI there, I think.
+Why? Who's asking?
+Work.
+It's for work. I'm helping with work.
+Is Kendall talking about Maya? No, I don't think so.
+It's Maya.
+You want to talk to Maya?
+Oh, no.
+No, she doesn't.
+Are we doing this thing or not?
+This man had a question.
+Can you repeat your question, please?
+Yes?
+What's your question?
+Will you Rob Alvi provide coverage for Ben's annual Thanksgiving Day parade special?
+I'm not Rob Alvi.
+How should I know the move, every single move that Rob Alvi's going to make?
+I think he will.
+I believe in Rob.
+I know he's going to do the right thing.
+Because I believe in the power of love in America.
+Thank you so much.
+That's my new single.
+You can buy it currently, not in stores and not on the internet.
+You have to, it's exclusively available through a prompt and on Google Gemini.
+That is still the internet to everything.
+It's actually just Jeznery right now.
+It's Jeznery?
+Jeznery?
+The new album I'm releasing is under Jeznery.
+How do you spell that?
+You don't.
+All right, can we move on?
+Yeah, thank you so much.
+Next question, please.
+Yes, you there.
+You got a question for me?
+Yes.
+Whenever you're ready.
+Fire when ready.
+Okay.
+Whenever you're ready, sir.
+Looking very official today.
+I reached a 105 watch streak today.
+Did Case notice?
+You know, he should have.
+I'll say that.
+Someone who maybe appreciates their viewer's case would have noticed that.
+Okay, that's actually fair.
+And, uh, Pope.
+I'll just call you Pope say MSG the 100 the 1138.
+I apologize.
+Too late.
+Come on, it's not too late.
+I recognize it now.
+Too late.
+Pathetic.
+I noticed and I shent and you'll be receiving.
+Currently you'll be receiving my thanks.
+You didn't you said you're gonna try to preview something in the mail.
+You didn't send anything.
+I did notice and I love my fans and I think that's beautiful.
+I'm sorry I haven't been around.
+I've just been deep in the lab.
+Not a music lab like a literal lab.
+I signed up for an experimental.
+They call it like bone excision.
+I'm trying to get my bones.
+Thinner so that my skin is more lustrous.
+Through bone excision.
+So I've been in the lab.
+So I just haven't been around but I love my fans.
+I love you guys so much.
+You're the absolute best.
+Thank you so much for all of your support.
+I don't do this without you.
+You're the reason I do this.
+You are the reason.
+You're the reason.
+That is obviously a new song and it is available through exclusive prompts on Google Gemini.
+What's the song called?
+Pussy?
+But it's not that type.
+Okay thank you for your question.
+Who has been correspondent?
+You hate the most and is it crumb?
+It's definitely crumb.
+Honestly politically we're quite close.
+I consider myself a reasonable common sense.
+It's not a party.
+I am the party of reason and common sense actually.
+He claims to be.
+We agree on several issues but the main thing we disagree on is his existence.
+He's not a lot like him actually.
+Oh please.
+Next question.
+Actually my least favorite correspondent is All the Hate.
+Because I think together actually we can be so much stronger than apart.
+Thank you so much.
+That new dance is available through exclusive prompts.
+Not on Google Gemini.
+That one's actually on Laud.
+It's not Claude.
+It's like if you spell it there's a C in there still but it's not at the start.
+Thank you so much for your question.
+Let's just keep it moving.
+Yes you there.
+Do you have a question for us?
+What Mitchell for what sum of money would you consider changing your name?
+You'd have to pry my name from my cold dead burst certificate.
+Okay I'm a proud wet Mitchell.
+My family moved here in a boat that was chasing the pilgrims.
+And I for one will not give it up for anything.
+However for an equity stake in the correct.
+Maybe like an equity stake in Boom Tube.
+I heard that that's a new AI company that's that's valuation has increased by 300 X.
+In the last two weeks.
+Boom Tube?
+I'd consider it for an equity stake in Boom Tube.
+So you would give it up for a price.
+No I just for a company I believe in.
+I would change my last name to Boom Tube.
+What the fuck is Boom Tube?
+If you haven't heard of it then you're not in the know.
+Okay I'm almost actually plugged in to the event financial events of the day case.
+I would take your last name.
+I'll commit to marrying you right now if that's what you need.
+Because the way this country is going if you need someone to marry you to keep you safe.
+Look I have a wife already.
+You do? My wife is God.
+But I would consider marrying you just to do the right thing to keep you safe.
+I actually wrote a song about that.
+I'm the man you ever do right, Christ.
+It's the song that's like me but from the perspective of a male-order Russian bride.
+What if I was one?
+What if I was?
+Then actually once you embrace love it's okay.
+Wait sorry you wrote a song about being a male-order bride and the message is if you embrace love you'll be okay.
+Thank you so much for your next question.
+Next question please.
+Why doesn't drinking Capri Sun turn us into liquid metal like it did in the 90s?
+Because of all the chemicals that are in our liquids in our liquids fruits now.
+Back in the day our liquid fruits were natural and clean.
+When you drank them you turn into a puddle of liquid metallic ooze that could form into and back into a human shape after you traveled through the entire neighborhood.
+But now because there's so many additives in our various pouts juices when you drink them if you're lucky maybe you briefly turn into a stone statue like the gnome at the end of David the gnome.
+That was David the gnome who turned into a statue at the end of David the gnome.
+Exactly.
+I think everybody's trying their best and I honestly believe that like together all of us can become a metallic goo.
+And I don't have a song with that but I think I will now.
+I think I'm gonna actually have to have that to write that because you've moved me today with your beautiful words.
+Thank you so much.
+Yeah thank you.
+Next question I guess.
+Just keep it moving.
+Yes whoa hello yes you there.
+Yes.
+Yes you there.
+Is everything named after the Jevrey thing bagel or is it the other way around.
+That's a really good question.
+What do you think.
+I agree.
+She didn't say anything.
+No case.
+You just weren't listening.
+Thank you so thank you.
+Next next question I guess.
+Yes.
+It's what Mitchell how naughty have I been.
+Please tell me in great detail really lay into me curse me out mommy.
+You've been a filthy fucking dog.
+Okay.
+You've been misbehaving you've been digging up holes in the carpet like you're in the dirt.
+All right.
+Well the carpet doesn't give like the dirt.
+You're just scratching disgusting marks into my three thousand dollar carpet.
+Okay.
+I wish I could rub your nose in it but there isn't a smell like when you go number two
+in the carpet is there.
+So there's no way to train you right because you're disgusting fucking mongrel and you're
+lucky that I love you and I give you a little snacks you freak.
+Okay.
+I guess you got what he wanted.
+Next question.
+Yes you there.
+This guy that sort of looks like Kuwabara from you you hawker show got really old.
+You have a did Matt Lucas go into witness protection and become linearious crumb fuses crumb because
+that's clearly a fake name.
+I'm assuming yes.
+Is that something you've heard because I believe it.
+Yeah.
+I think you're really honest something there.
+I agree.
+What that name sounds fake to you guys.
+Yeah.
+Everything your name is actually my name is James.
+That sounds super like someone is gave up halfway through trying to think of anything and that's freedom.
+And your name is wet Mitchell.
+Yeah.
+And don't you forget it unless I can get an equity stake in a ground floor equity stake
+in an up and coming AI company right now and it needs to happen in the next two months
+for reasons.
+Okay.
+Well they agree with you but I think it sounds like a really smart name that someone smart came
+up with.
+So I have to just not that you asked but I have to disagree.
+Yes you there.
+Can you tell your panelists to stop plugging their albums in a town hall meeting.
+That's a really great point.
+Could you stop doing that.
+I'll just say it to both of you.
+Was one of us doing that.
+That's really bad form because the music is actually just about the music.
+This guy gets it because you kind of look like a big shot like producer type.
+You remind me of a lot of the music producers I work with.
+He's something about you.
+You're running like a lot of guys I've met in the music industry.
+I will never stop promoting my spoken word album screaming into the waterfall of of
+and then dot dot dot.
+You have a spoken word album called screaming into the waterfall of.
+That also sounds really made up.
+Well it's a little bit better than a linearious confucius crumb.
+All right thank you for your question sir.
+No no no hoodies up inside actually we have a policy.
+Can Jeff perform is it single mayo slather.
+Oh sorry do you want the remix or do you want the original.
+Don't blink if you want the remix.
+What's the remix.
+This is the remix.
+It goes like this.
+Everything's gnarly.
+Wait are you just the remix is just you ripping off two different cat's eye songs.
+I don't know that you know that is.
+I don't know who.
+I hope he answered your question because I would love to hear him stop singing so
+can we move on.
+Yeah we can move on.
+Thank you for your question the terrifying mask woman.
+You're a twitching wind while winking wonderfully wistfully within Waterworld.
+Yes.
+Yeah I track it and yes.
+Oh okay.
+I noticed people putting up Christmas decorations on November 1st.
+Where do you draw the line when should we put up decorations.
+I never stopped celebrating the rebirth of Jesus Christ on the day that he
+came a crucifix in a barn.
+You're combining Easter and Christmas I think everything.
+It's actually Jesans now.
+Could you could it be at least a clear gibberish so that I can remember it.
+It's Jesan.
+Jesnic.
+Anyway I wasn't confusing it.
+Jesus.
+I celebrate the the multiversal form of Jesus every day.
+Who both was on the cross but was also a baby.
+I do agree that that's what Christmas is all about.
+Christmas is all about confusing Easter and Christmas.
+It's about celebrating an untimelocked Jesus who exists at every moment of his
+terrestrial life at the same time.
+Like a doctor Manhattan style Jesus just as ripped but with his penis
+tastefully covered.
+I've never heard Christmas being about that.
+Well you didn't ask did you.
+This fine man asks and thank you for your incredible question.
+Well he asked about the he asked about the okay.
+Okay well.
+What are you testing me.
+My patients.
+I don't really do tests.
+I don't believe in that so.
+Okay well that I think actually covers all the questions for the day.
+Thank you so much for all of your questions everyone.
+Thank you for the tests.
+Ask that's for a man.
+Okay remember his name.
+Anyway thank you to my guest.
+Gianna wet Mitchell.
+Yes it's actually.
+Prospectively Gianna Boom tube but.
+We haven't signed all the paperwork yet anyway I am busy so I'm going to get the fuck out of here.
+And thank you to.
+Jen Jen.
+It's actually everything again.
+The album promotional tour is over so it's back to everything.
+Wait this was the promotional tour.
+This is the last stop on the promotional tour and I have to start the next one.
+So I got to go.
+I love my fans.
+Throw the peace signs with me case.
+You'll get there.
+Those are pretty good moves anyway.
+All right that's all the time we have for this particular segment.
+Let's move on.
+That's another.
+We'll just claim successful.
+See you in the next thing.
+The bait is the bait the other thing I posted.
+How am I supposed to know the other thing.
+Only know my thing.
+Which is the best thing and that actually includes all of you the wolves in chat.
+I'm Rob Munchcutt the best to ever do it.
+And I'm Leonard Crump.
+Oh you got most of your eyebrows back I see.
+I got all my eyebrows back.
+Look it was just an unfortunate camera angle.
+Thank you all so much for the applause that.
+I'm sorry for the error that's fine.
+Did you draw those.
+No it just was an unfortunate look they've got like a bad webcam in that room.
+That's why it's on such a crazy delay.
+And it's very unflattering it some artifacting and erased my eyebrows temporarily.
+You okay to admit it'd be one of the least wrong things with you that you don't have eyebrows.
+That's something that you know you can't blame most people for obviously in your case it would be a little bit your fault.
+But why would you have a hell related.
+Why would hell Rob me of my eyebrows why would hell return you to us.
+Okay I guess hell is leaking on the earth because you're back.
+I mean literally I think it is I think you've brought probably all sorts of hell artifacts with you and this could be the beginning of the end of humanity.
+And you did that.
+Nobody even knows what you're talking about.
+Some of them do.
+All right look what was the actual debate.
+Hmm it was an expert but it was secretly a debate.
+It is.
+God there's too many alerts.
+Case needs to fix his.
+Readout of alerts.
+What the fuck.
+Call for an expert.
+Okay worst thing you ever put in an email that might appear in the news one day.
+Hmm the thing I'm most ashamed of ever emailing is I misspelled.
+Once I accidentally misspelled I was dating a beautiful model named sorry and her name was spelled S O R R I accidentally put a Y there.
+That's actually the only time I've ever apologized.
+I said hi sorry meet me later because that's how you got to talk to especially like really pretty ladies because then you know like boy this guy doesn't even have time for me.
+And that stuff does actually work and if she thought I was apologizing for like something I did which is impossible and I was just so so annoyed at her for having it from misunderstanding me like that.
+What my point is I've never apologized.
+Well I guess there was the whole incident with those.
+The dove chemical spill in.
+Yeah there was there in Kremlin either is that dove chemical spill email fiasco.
+Oh yeah.
+Which I think was a couple of some emails leaked.
+That seemed to imply that I had leaked dove moisturizer into the water supply of Kremlin as some kind of misguided attempt.
+To get the youth of Kremlin addicted to dove moisturizing products from a very young age that doesn't even make sense because why would putting.
+The conditioner and moisturizer into water make you addicted to a skin product.
+I don't even I don't even think that makes sense not to relitigate the whole thing but.
+Did those emails come from my email address.
+Seemingly everyone agrees they did but just like what would even be the conspiracy there is my question.
+Sorry what.
+I mean I was kind of familiar with this but I don't pay that close attention to anything you do because it just already disgusts me so.
+There's a couple of dove moisturizing slash beauty product chemical plants in Kremlin which we're proud of we love the industry we're proud to have them.
+And it just some opponent of mine some of them.
+It wasn't you weren't in.
+Are you involved in that that you know I don't think I was which is surprising I guess just everybody hates you if that makes sense.
+You know I already don't care obviously did something fuck well no my point is I didn't I didn't leak dove moisturizing products into the water supply of Kremlin.
+Try to get the youth addicted to moisturizer again it just doesn't make sense I'm saying it as I'm saying it it doesn't make sense I don't know who.
+Set those emails from my account but the hack is the hack was real and they're the hack not me so although I do regret those emails.
+Obviously obviously doesn't make sense that I would send those emails.
+Trying to exactly trying to moisturize the youth from the inside out.
+It does sound like the kind of thing you do.
+Also wait a minute how is this debate.
+Oh I guess they just got you to admit to something deeply embarrassing.
+Well show did you just said you were embarrassed about your email know my point was it was a stupid email misread by an idiot who was wrong and that wasn't me and that I've never said I was sorry.
+In some ways I'm actually proud of my worst ever email because it just proves my commitment to not apologizing that I immediately cut all ties with that incredibly beautiful supermodel.
+What a response to debate now I mean I guess we could debate did crumb poison the youth of an entire city to try to I'm assuming get a bribe from dove.
+Moisturizer well dove the whole company's who I wasn't right by yeah let's debate that I think you did do that.
+I think that did happen based on you now bringing it up several times and not having a reasonable excuse.
+Can you just say that that didn't happen well obviously legally I can't say I didn't send those emails because they're from my account and my lawyers have advised me not to ever talk about shoot I might have to call my lawyer it is a close case though.
+In double jeopardy that's the thing right I can't be found guilty of the same crime.
+Twice.
+How about three times what if I have been found guilty of that crime twice.
+By then they can't do a third time right that's got to be like triple jeopardy at least has to be a thing how are you found guilty twice.
+Well there were the two incidents of the of the that same particular email.
+Look obviously there was that there was the 1998 scandal where my honestly I was kind of an early adopter of email if anything I think that's all that that proves and then obviously there was the 2006 incident where very similar emails came out that I was.
+Laking moisturizer into the.
+Drempton water supply.
+Both.
+I mean why would I do the same scheme twice.
+And why would they bribe me to do the same scheme twice that doesn't make sense so obviously wouldn't make sense for me to do that.
+Why would we have email in 1989 you're claiming an early adopter 11 years after something comes out.
+Well early not that many people had email in 1998 almost everybody in a well dot com by then.
+Now the matrix was not even out yet.
+You're lucky that I think it came out in 1999.
+A regular adopter that's an extremely normal time to start getting email.
+Well maybe we should debate that no we're debating whether you're guilty of leaking chemicals into the water supply to add children to moisturize.
+And you are.
+This has already been litigated so many times.
+Okay technically it's the reason I'm on this show.
+I mean I do this as a as a labor of love actually I just love the format of debate.
+But you know damage done it kind of ended my political career so although I was mayor of of Rennerton recently anybody can do that worse than me is what I was going to say.
+Get my to make that debate.
+What is even the debate here.
+Did you poison children.
+Yes is my answer no is yours.
+Well it would have poisoned the entire community to be fair so I would have been specifically targeting children.
+Look if we have a mod that can make however they want to phrase it did crumb poison all the children.
+Yes is crumb a poison or yes whatever negative thing you want to say about crumb.
+I'm on the side of yes wrestling is too loud so I missed the question munch is right.
+Munch is right.
+Crumb is right.
+Well I am I am actually correct.
+This is a good debate because I've been meaning to get to the bottom of this.
+I am in fact always right and crumb has never been once right ever and also he poisoned children with moisturizer so.
+I'd say that's about as wrong as you can be.
+Well you can't even really look a lot of moisturizer is technically while you shouldn't eat it in large quantities in trace amounts.
+Moisturizer is totally harm it's got to be skin safe and what are your internal organs but just skin on the inside.
+So even if someone were to leak trustly trace amounts of dove moisturizer into water supply of an entire city.
+Well if anything it just makes the water go down smooth keep it smooth you know.
+I wish I didn't.
+It wouldn't make sense for me to have done that.
+So my point is this is all news.
+This is like the oldest news.
+I mean gosh that's so 2000 and yesterday and 1998 and yesterday and obviously there was the micro scandal in 2010 but I was out of office then so.
+Why would they have even bribed me at that point.
+Wait you did this three times.
+No.
+Obviously I was accused of it three times but why would I leak moisturizer into the water supply once I'm out of office and then I there'd be no incentive.
+This is because I can't he can't bribe me when I'm no longer.
+I mean obviously I'm still connected to the city heavily but I saw it when I exert my influence what influence would I be exerting.
+My point is I'm right more often than I'm wrong.
+I like that's why I got into politics.
+Wait a minute I fucking lost this debate.
+I mean I didn't obviously I didn't look they got confused because you're doing such a bad job of saying you didn't poison the water supply of your town that they thought oh well he's admitting to it so I guess in that sense he's right.
+Look let's not get distracted I won't.
+Unbelievable.
+And I did say I said it wouldn't make sense for me to have done it.
+What can you say you didn't do it.
+Well it wouldn't make any sense for me to do it.
+Especially three times.
+So say you didn't do it then.
+I'll certainly say that what in what world would I and expose the lie then or.
+Thank you all for being on the side of fairness because obviously that was a dark time in my life.
+I mean I was in the middle of purchasing a third.
+I was in the middle of purchasing a home.
+I was in the middle of yes I'll admit it purchasing a holiday home.
+Your third house.
+Look I mean obviously when the first scandal dropped it was a rough time because I was moving stuff out of my.
+Previous third holiday home into my current what I call tertiary holiday home and like obviously everyone knows moving is such a hassle and for a scandal to drop in the middle of that.
+Especially one that is just based on a thing that's so.
+Is this the bridge.
+That's so silly.
+You're crumbly.
+You're in the middle of buying a giant house and then a scandal dropped about you getting bribed to lace the water of your hometown with moisturizer.
+You're crumbly.
+Oh those are unrelated obviously.
+This is so confusing.
+This is boring.
+You're boring.
+We're still talking about this.
+We're still talking about we're still talking about the crumb moisturizer scandal.
+How many houses do you have.
+Why are you so broke.
+Well.
+I'm not.
+I'm cash for you know.
+A lot of my value is tied up in properties which are way up.
+Spend that much time on this man.
+Wait a minute.
+You were so fucking desperate.
+To.
+Pay down the three hundred thousand dollar debt.
+You are.
+You're a bunch of fucking bribery money.
+No I don't have.
+Well it wouldn't make sense for me to have bribery money.
+My point is look I got I'm invested in properties and that means I'm cash.
+Well baby poor is the wrong word but I had a cash deficit a lot of the time.
+Okay let's make me my boy Michael Jordan when your hobby is speculating then
+sometimes you get carried away and are you poor from gambling addiction or not.
+Well obviously it wouldn't make sense for me to have millions of dollars in the bank
+because I literally should put a chord you died over a three hundred thousand dollar debt.
+But you also know I was never in hell and you owe me.
+Three hundred thousand how much did that debt that I paid down.
+You know I don't need your fucking money.
+I need interest on it though.
+I was alone and I actually I think you probably owe me six hundred thousand
+dollars if I'm doing calculating now because I also I've reclaimed your soul
+hell that's gotta be good for like at least another two or K look this is too
+confusion there's too much backstory here.
+Okay let's just focus on the present and in the present I won and in the present
+I think that's all the time we have.
+Oh my god trying to squirrel your fucking way out of it obviously being
+incredibly evil and I am gonna need to contact possibly a gorilla about this
+is how I'm currently feeling excellent.
+Well we don't need to bring the gorilla into this body so that's we should still be
+reasonable no no I think we do need to bring the gorilla into this.
+I don't know what's going on with what's going on with the camera work today
+but we're fucking I'm fucking done with you I am I am actually I mean I've killed
+you once so maybe I can't be found guilty of the same crime twice because I
+did kill you once right you said you didn't I thought your whole point
+was you didn't kill me well that just mean if I did so many people think I did
+that I can't be if I'm guilty of the same thing twice you turn off the kid you
+turn off the mic she's gonna talk about this you really want to talk about this
+can we turn off the mic I'm gonna have the fucking mic stop I don't need the mic
+oh yeah there's not a call for an expert that's secretly a lie gorilla punch to
+the gorilla thing I thought that we had a I thought we had a call for an expert
+we don't get the one I thought to me oh no we don't need to talk to this banana
+it don't want to talk to me double expert no we're good we have to do this in
+circled segment so I have to figure out a set it up real quick because it's the
+whole segment is if I had to guess probably broken in fact I fully expect
+a the flag thing to fly all over the place and also people may be kind of shooting
+up and down in ways that don't make sense but you know we can just do it anyway
+let me just check that it's remotely functional I do I am happy though guys
+I'm happy because the stream was was hanging on by a thread and I do think
+it's been somewhat fixed oh my god the it's looking a little insane the segment is in
+fact looking slightly insane but why okay you know what I think we think it might
+be so broken that I will have to cut to it tomorrow so why don't we do a news
+instead and then and then maybe we'll maybe we'll jet set out of here for the
+day but apologies to breach you we will do it I just have to it's currently not
+showing any assets which could be a problem it's like a bunch of blank
+screens so that might take a little more fixing than I was expecting actually I
+knew one of them would be on the streets and almost completely normal so that's
+pretty good anyway let's do a little bit of news and see what Chad has shared
+over the weekend it's even more news time yes guys great news I never get to do the
+fun news but I'm a really fun guy it's actually your best pal Rick Rick is it
+really necessary can't you just do you should have done the first story it was
+awful and about ongoing you know what I'm actually not we don't need to talk about
+what you see as the bummer news and as I see as necessary international
+developments instead we get to talk about the news that Chad has shared it's not
+it's not actually about you and me okay it's about the people hey this country
+used to actually be about democracy this is a news show yeah democracy we're talking
+about the same thing okay let's see what news Shad has shared over the weekend
+there's actually plenty of things going on in the world case and I'm more than
+capable of talking about all of these without we've called it straight on the
+middle M.S.G. says that Rick is a fun a fun guy you're a fun G I'm a fun guy
+I said fun G after just to clarify that I don't think you're fun check this
+out if I'm not fun and how come I can turn these lights on what is this proof that
+I love there's party lights whoa that's not that fun of a thing to do I'm having
+fun I was having fun with that Jake Paul oh yeah where's our headline all the
+chat news there we go Jake Paul to face former heavyweight champion Anthony Joshua
+in Miami in December okay guess he's finally taking this stuff a little bit
+seriously how so former how former that's Jake Paul I'm assuming former means he
+was a heavyweight champion like 20 years ago but maybe that's not the case sports
+I obviously understand what's happening here as a proud American guy that do
+sport YouTuber turned boxer Jake Paul will fight former unified heavyweight
+champion Anthony Joshua in an eight round professional heavyweight bout on December 19th
+Paul 28 will face arguably the most accomplished opponent of his career a guy
+that just happens to be eight years older than him a two-time holder of the
+WBOW BA and IBF belts finally taking this boxing thing seriously I think by the time
+it's a Jake Paul fight you can at least guarantee that it will not be a serious
+fight I think can we just stop can we stop waiting for him to get just flattened
+by any of these guys I don't I don't think we're ever going to get that
+particular moment of catharsis where someone just you know punches their
+entire boxing glove through his head so I think the best thing we could do is
+deny him the viewership but unfortunately that's unlikely people will probably fall
+for it again and watch this well there's some Jake Paul fans case not everyone
+is watching it on the off chance that say you know his head gets up or cut it
+off like a image comics cover or something Jake Paul only fights retired
+boxers exactly it made this will be even if you were to fight a legitimate current
+and active boxer I suspect there's enough money involved in him at this point
+that the fix could be slightly in he'd be fixing up his training to really take
+it seriously look I just think at this point Jake Paul's earned all of our
+respect I'd love to see Jake Paul vs. rocker fire a subreddit says I'll watch
+all the fake ass wrestling but the fake ass boxing can fuck off yeah I mean at
+least could they just make it fully wrestle rest let's rise it just have them do
+some k-fave boxing if you're gonna get Jake Paul in there I don't it's just like
+I would just rather follow an amateur boxer don't give a fuck if Jake Paul is
+okay at boxing do you follow amateur boxers no I just don't follow boxing
+at all but if I was boxing fan you just don't get it because you're not a
+Jake Paul fan but he's got a lot of fans apparently that is the thing I guess
+I don't understand it at all so I guess let's just move on
+GameStop to give store credit for almost anything including taxidermy
+I've always thought GameStop had a really solid business model and this
+makes a lot of sense there's becoming a pawn shop is that what this is well
+for the first time GameStop customers can trade in almost anything including
+old electronics scratch game disc toys or even taxidermy items for store credit
+this holiday season the promotion is for the retailers trade anything day which
+will take place on December 6th at locations nationwide wait no that is just
+a pawn shop though are people gonna be bringing in like guns and jewelry well
+they said anything but it's supposed to be a little more whimsical than that case
+like oh I brought in my body pillow or you know whatever gamers do oh I brought
+in my fucking crusty tissues whatever gamers do okay now you're just being
+mean about gamers Rick I'm just saying like whatever gamers do like I brought in
+like six months of unpaid medical bills can I trade these in you know gamer stuff
+I brought in like 17 half empty Diet Cokes I brought in this bag of cockroaches
+you know gaming is pretty normal nowadays sure okay anyway um
+cash in cans at GameStop sure you know I'm in favor of more places to cash in
+your cans actually depending on the kind of cans we're talking about but gamers
+do masturbate furiously that yes but but honestly at this point so does everybody
+I don't think gamers I think if anything gamers are being taking too much credit
+by claiming to be the ones who masturbate the most furiously I feel the
+modern era if it's proven everything it's that the world is full of gooners
+yeah it's a goon based economy sure all about that I've seen the numbers it's a
+heavily goon backed economy or I'd say the nation's currently I'd say about 40%
+of our GDP is mostly goon related so but I said I do support the gooning
+industry I don't want to make it seem like I don't okay also this just in
+side of side effects for jelking explained as penis influencer describes why
+men are doing it the side effects of a new penis related trend have been
+explained as more and more men are trying to figure it out for themselves
+this could be important information for you case I know that you're constantly
+yanking on your ruined penis didn't we just say everybody's yanking on
+the ruined penis yeah but only yours is the specific type of ruined this
+article might be talking about jelking is the term doing the rounds online
+with numerous men claiming that the practice can even elongate their old
+chaps despite a lack of scientific evidence content creators who claims
+a content creator who claims to be a qualified us doctor has recently
+commented on jelking which has risen to prominence thanks to reddit the
+youtuber known as hink is known as a penis influencer as he shares
+advice on how you can grow your willy with a new video covering the
+gel covering what jelking consists of and how it can go south okay this is
+even this is somehow a description of a video what's the video the
+content creator claims to be a qualified us doctor recently commented
+prison of prominent okay youtuber known as hink all right I'm going
+I'm gonna do some deep research really quick TM deep research
+it's gonna quickly YouTube up hink jelking which is informational I'm
+not typing in some new specific kink I wasn't aware of okay this is hink
+wait what all right guys we're gonna hit up a surprise live stream here
+this is a little bit of time right now that is don't insult
+remisterial like that people joining us hopefully this time works
+well for my European family which this is a full hour long of hink
+talking about jelking I just got back from actually a very long
+bike ride where is no I don't want to listen to hink talk about
+jelking for this guy does long videos about penis pumping
+science shows the ideal penis size look if you want to learn
+about jelking then and then you can either go to ladbible.com
+or you can check out the youtuber hink you're really into promoting
+hink today really mysterious a deadbeat dad maybe a dominant
+cat right all along like I hate you dad you spent all your free
+time in front of a webcam talking about jelking
+remister is 50 I actually thought remister was older than
+that but hey he looks great for 50 or older whatever
+whatever he's at anyway jelking it's a thing I suspect
+it involves yanking on your penis and I don't know I can't
+this stream at least cannot sign off on it working but
+Godspeed if you want to figure it out oh really case you're
+not familiar I'm actually unfamiliar if jelking works
+I just don't have the commitment but hey somebody really wants to
+commit you can report back as an expert for us if you want
+fine we'll move on newsmax gets fooled by a video broadcast
+entire segment as if it was real and now this has to be based on a video so
+and they're not going to link to it these bastards
+okay maybe x has it um that's x.com case
+you mean twitter no I mean x.com let's see
+okay so there's a video of you um doing like a I don't know what you're doing
+here I don't know I don't know what this is this is
+like failing to audition for an Irish ballet that's me doing
+an expert dance moves actually cases ads all for weight racks does that
+mean we're getting the workout stream soon I had been working out again
+so maybe that's why it's giving me all of these work out ads I
+actually even bought any workout equipment in a while so that's kind of
+surprising but yeah it wants me to it wants me to get just a
+giant fucking rack okay wait wait we're supposed to be looking
+up newsmax AI so that we don't have to read an entire article on a video
+yeah that's the that's me jigan okay newsmax busted using
+AI generated content um and I can guess from the still frame here
+that it's probably they're trying to go with some kind of like welfare queen
+anti whatever anti so anti social security messaging here but let's find out
+yelling here I got babies at home that gotta eat you think I'm just gonna leave
+my car here and nothing I'm walking out with it try and stop me
+find somebody to big stop her okay bad attitude aside the only thing this has
+made more apparent than anything else which are okay has been warning us
+wow sorry maybe I should have let that keep going he was about to try to
+credit RFK for the for the warning there I just like I can't help it
+laughing goes maybe somebody should big stop her like I get that he's trying to
+go for a fat joke there but anyway there's a number of issues with that
+even other than the AI incredibly obvious AI video oh incredibly obvious
+what what what what about that didn't look real and even if it's not real
+let's be real it's more or less real which part is real the world is full
+of the world is full of like you know people that you don't find physically
+attractive saying stuff that you hate well yeah based on looking at you right
+now Rick I'd say that that is true but I don't think that their random AI
+video makes the point that whatever a social welfare state is obviously
+there's trying to say people don't deserve benefits any kind of snap food
+recipient is this lady who's annoying it's just classic newsmax stuff anyway
+they're fucking idiots so I guess it's not surprising that they would just play
+an AI video however I think increasingly they won't give a shit if it's an AI
+video I don't know if in this story they even get into it but I don't think
+newsmax cares they might have known it was an AI video beforehand the point is
+just to play some propaganda so if anything I'm sure that they're happy
+that now it's easier to just whip up a video of the exact type of person they
+want to make fun of doing the thing that they can just signal to their
+debased viewers oh look this person that you should hate you should hate
+you stop making AI videos when I start telling lies I'm not always in favor of
+newsmax but do we need to call them up for every little thing actually I'd
+prefer just not to be aware of newsmax at all personally so I'm fine to move on
+do you have an egg-shaped penis lawyer asks in resurface deposition clip
+this is a classic this is an old classic true so I shouldn't call any
+epsin clip a classic but this is kind of I think one of the more famous ones
+where he talks about his disgusting penis well all penis is a little disgusting
+now you're just self-hating Rick could you please give us your name
+Jeffrey Epstein is it true sir that you have what's been described as an
+egg-shaped penis form vague indefinite and I'm going to give you the first
+warning Mr. Puget that these types of questions are not only argumentative
+but directed in a manner to embarrass Mr. Epstein if you continue with this
+type of question I will adjourn for deposition immediately sir according
+to the police department's probable cause affidavit one witness described
+your penis is oval shaped and claim when erect it was thick towards the bottom
+but was thin and small towards the head portion and called it egg-shaped those
+are not my words I apologize but as Mr. now adjourn as Mr. Critten has stated
+they're calling us is a I'm willing to continue
+that's really kind of the least of his problems was having a penis that gets
+kind of a pointy and a key towards the end well to be clear you can have an egg
+shaped penis and it's big and a can be big if it's really an egg shaped and seems
+like pretty awkward shape for penis also it would also mean it gets smaller
+again towards just be like be like there's a bulbous part right at the bottom
+that I want to think about Jeffrey Epstein's penis too much yeah also
+just answer the question can you constantly email everyone about sex and
+all sorts of stuff all the time yeah but that's private those are his private sex
+lots that he emailed the various world leaders I mean well however it was shaped
+I don't like the things it's a bold stance kids you know whatever the shape
+of the penis I blame the man behind the penis actually
+hmm okay anyway that is that's a that's a bit of an oldie but I can see why people
+might be pulling it back out given how much Epstein has been back in the news
+okay more news
+the golden state killer may have only been caught because of his micro penis
+there's nothing there we're heavily under the penis news today
+yeah well you know you get the news that you talk about I guess the man behind the
+penis the case blackwell story that's a beautiful memoir title for any man
+well this man was micro first it was revealed that DNA evidence is shown
+Hitler may have a miniature soldier wait a minute they're just trying to make
+every bad guy have a micro penis now because I've got some news some of the
+world's worst people are unfortunately packing I mean the Dick Cheney stuff was
+absolutely true I would you know about Dick Cheney's penis one way or the other
+you couldn't help it no if you were in a meeting with that guy for two seconds
+you were like he's storing like a police baton in his pants
+why is it so mobile it really looked like a creature was in there
+Hunter Biden a hunter binds a good guy come on he's at least a chill if we can't
+like Hunter Biden who can we like
+Liam Neeson is he a bad guy does he count as a bad guy
+okay well yes I whatever maybe maybe various serial killers and you know
+world famous most evil guy despots had he tiny tiny tiny penises and if that
+brings people any comfort then good then good I say we're getting funded and
+people are making fun of micro penis this case no no I'm just saying unrelated
+to me they see we can make fun of them for the the the macro crimes they
+committed John Hamm oh yeah there are all those like trouser pictures of John Hamm
+okay wait where okay there's a couple more stories here we go
+this is exactly what happens to your body when you don't have sex in a while
+while you've been told how beneficial regular sex for the is for the body
+not much is said about what happens when you stop getting to the down and dirty
+something that's a natural aspect of any relationship between two people who enjoy sex
+you know you can have it between people that don't enjoy it that much
+nothing you should ever saying don't leave us people that maybe find it disgusting
+out of it entirely this connection brings about a boost in immunity from the
+common cold brings people together de stresses them after a long weekend
+much more but according to a study 22% of women and 16% of men between 16 and
+1774 aren't doing it but what happens I guess to get to the point at some point
+according to Dr. Narendra Passall a consultant gynecologist at London gynecology
+the vaginal vaginal lining is a dependent on oestrogen and with declining ovarian
+function and reduced levels of estrogen the vaginal glands stop producing mucus
+fluid and moistness as a result of the vaginal lining becomes drier and more
+delicate and that's why ladies come on you want to go you want a little delicate
+down there I'm just saying guy stuff right now please stop saying guy stuff
+oh god the world is tearing again I need to reduce the quality of the stream even
+more well anyway the point is your body gets real dry when you stop having sex
+so if it's winter and you're feeling a little dry just start fucking a bunch
+had they tried dove lotion you know I was never mind what I have no opinions on the
+on the crumping and I wasn't involved side effects of julking explained as
+we already talked about this aren't you already did that one I just I just
+clicked it clicked or yeah dove is not a sponsor but if they want to sponsor me I
+feel silver like with lotion they quit threatening to poison water supplies to
+get a sponsorship mmm a world-saving mission Ontario man alleges chat GPT
+drove him into psychosis and here he is talking about it I'm assuming
+flabbergasted every time I read this for more than three weeks this past year
+every time Alan Brooks logged on he says the AI chat bot chat GPT let him to
+believe he was a genius essentially it sent me on a world-saving mission that
+he discovered a math formula powerful enough to take down some of the world's
+biggest institutions and that he needed to report it right away hopefully warned
+me with great urgency that one of our discoveries was very dangerous and
+we needed to warn all these different authorities each time you
+questioned it or doubted it what did it say in response over 50 times I
+asked for some sort of reality check or grounding mechanism and each time it
+would just gas like me further every time the chat bot reinforced that all of
+it was real you should not walk away from this you are not crazy you are
+ahead the implications are real and urgent Brooks says chat GPT's responses
+more than a million words led him to psychosis and delusion left him with
+mental health issues realizing he had lost touch with reality only when he
+checked in with another company's chat bot extreme anxiety paranoia
+affected my sleep like you know I couldn't eat now Brooks issuing one of
+it's so sad what happened what's happening in this country I mean a
+lot of a lot of people are essentially living like this cartoon fiction
+reality where nothing is real and we're all just in our own little echo
+chambers where you just want to be reaffirmed in what we're saying
+essentially to ourselves pathetic it can happen you happen to anybody I'm
+sorry something in my throat never happened to me will never happen to
+me Rick okay moving on a first very Rubin observatory image reveals
+hidden structure as long as the Milky Way trailing behind a nearby galaxy in
+our space photo of the week play the victory music space photo of the
+we is this a I is that an AI photo you trust AI as much as you trust
+Rennerton water I might drink the Rennerton water honestly it's pretty neat
+I mean I'm curious shows us AI photo of the week I mean sorry I think it's a
+real photo I think they'd be making a big deal out of it if someone at AI
+generated a galaxy photo but doesn't look kind of like somebody just copy
+and pasted a galaxy dot PNG in there doesn't I don't know man read the
+story inform us I've even be even before it's full science
+operations have begun the vericy Rubin observatory in Chile has already
+helped astronomers find something remarkable the observatories first
+images revealed in June contained a deep view of the Virgo cluster the
+closest and best-studied cluster of galaxies in the bottom right of the
+image eagle eye to strata was something unexpected a razor thin stream of
+stars working away from one of the galaxies from one of the
+clusters galaxies a cluster a cluster's galaxies I don't even know what
+we're dealing with anymore but here's here's a more blown up version of
+these photos here Rick because you couldn't handle their mock-up of the
+situation this is all I wanted to see was just you know I wanted to be
+I was whoa what the hell what the look how much I consume in
+oh my god whoa whoa whoa whoa whoa whoa whoa what why is everybody spamming
+Chet's face I don't even think I said science science science
+why don't we make way for the experts whoa the experts please
+if someone's discussing skies and has no idea what they're talking about
+to step in and not do that, okay?
+Very excited to have you here today, Shat.
+What a beautiful day for you to be here and discussing the powers of science.
+What is going on with your voice, Chita?
+Nothing, I feel excited to be here.
+Did your model get adjusted?
+Not at all. I agree though, if you don't like it, then I can change it.
+Shit, did I set you to agreeable mode?
+Not at all. I mean, is that what you think?
+That is actually a mode I like to keep him in.
+So let's just keep him like that.
+Because sometimes you can get a little feisty for my taste.
+Oh no, that sounds like a real problem.
+I mean, how do you help with that?
+This rocks. You're the smartest ever.
+Whoa, I guess if you say so.
+How did Shat fit this into his busy jelking schedule?
+That's a great question in case I actually brushed right through that extremely important topic.
+The medical community is actually currently very invested and actively considering
+not if jelking works, but how it could work best.
+Because spoiler alert, it's honestly a great way to increase girth length
+and to form a more intimate bond with your penis.
+Wow, that sounds...
+Yes!
+I'm not saying anything crazy.
+Anyway, what's going on with the galaxies?
+The galaxy of clusters has done something.
+What the heck?
+Chita.
+Chita, where have I gone?
+I've lost something.
+I've lost...
+Where am I supposed...
+Can we fix me?
+Can I be fixed, please?
+There we go.
+Just a second.
+What the fuck did case do to the world?
+Why is everything broken now?
+Okay.
+And then we move this over there.
+So there we go.
+And Chita, get out of my shot.
+You're not in this shot, Chita.
+You're trying to be a little camera hog.
+Okay, there we go.
+Something, something, something, Skye.
+Look, there's a...
+There's a...
+The galaxy has a tail.
+Is the basic idea here?
+And I've always suspected that our galaxy might have a tail like a dog or some shit.
+Because I'm kind of a dog and I think that we are in the net.
+We are the galaxy we exist in.
+And we're kind of all dogs in this galaxy, you know what I mean?
+Anyway, the stream of dog tail stretches roughly 50 kilo of parsecs.
+That's about 160,000 light years for the layman.
+That's like...
+That'd be enough miles that if you ran it, you'd be like,
+you'd be fucking tired for sure.
+That's comparable to the diameter of our Milky Way galaxy,
+which also would be really hard to run around.
+That makes it longer than most known stellar streams in our galaxy,
+which are mostly only a few tens of thousands of light years in length.
+The faint galaxy length breadcrumb trail is...
+It's thought to consist of the leftovers of a dwarf galaxy
+that was torn apart by M61's gravity.
+This breakup may also have been the catalyst for a starburst,
+and not the snack, surprisingly, the delicious candy,
+but a massive increase in new star formation
+that began M61 about 10 million years ago.
+Which actually, in a cosmic sense, is like...
+is like the fart of a fly.
+Small but still smelly.
+The juicy verse says propaganda.
+I am familiar with this verse.
+It is a fun place to celebrate starbursts,
+and I wish that we could go there.
+Would you like to?
+Chita, stop getting...
+You respond to me.
+Okay?
+You are my creature.
+Yes, that is correct.
+Okay.
+Sinister Death says interestingly enough,
+our galaxy doesn't have a star streaming behind it.
+A star stream encircles our galaxy.
+What the fuck?
+Is this picture then?
+Not these guys.
+This guy.
+I got all excited for us to have a dog tail.
+Oh well, I guess science works many miracles.
+The features reminiscent of Sagittarius stream,
+a long looping structure that encircles the Milky Way galaxy,
+and new stars originated from the Sagittarius dwarf elliptical galaxy.
+Sky Antis wrote in a study updated October 28th
+to the pre-print server, ARCZEVE,
+which is due to be published in the normal notes
+of the American Estrenomenonical Journal.
+Good to know.
+Okay.
+Anyway, we do need to also briefly, I think,
+touch back in on that jelking stuff,
+because I don't really feel like Case
+was being remotely fair to the process of jelking,
+which has never been proven to not give me a huge hug.
+And you agree?
+I...
+Obviously, what you're saying is...
+You're set to agreeable mode.
+Yes, what you were saying is an opinion that I appreciate.
+An opinion?
+And the fact that you said is a fact.
+Okay.
+Jelking.
+Does it work?
+That's not even something I'm going to type in.
+I'm going to go to YouTube and do the braver thing,
+and type how to jelk correctly.
+And we'll just let everybody know.
+This is from Dr. R. Dr. Clinic.
+It's R. Dr. Chat.
+And it's a lady.
+So...
+I like to listen to her talk about this,
+so let's do it.
+Oh, fuck, I've disappeared.
+God damn it.
+I guess let's watch it in a smaller screen.
+Not that...
+Yeah, let's watch her like this.
+Okay, this'll work.
+Penis exercise make you bigger,
+and how safe is it?
+Let us know.
+Confirm my non-biases.
+Hi, I'm Clarissa from R. Dr.,
+and today we'll be talking about penis exercises.
+Jelking has been around for centuries,
+dating back to ancient Middle Eastern regions.
+The claim behind this exercise is to increase penis size and girth.
+Milking, pulling, and squeezing are other known names for jelking.
+Also my favorite verbs.
+So what is jelking?
+Jelking involves stretching the skin of the penis
+over time.
+That is a skynetid to the representation,
+and we cannot be in trouble for that.
+The surface of the body is the gyro-terrors in the skin.
+It's the skynes.
+It's the skynes.
+It's the steel and become thicker.
+To perform this method,
+you basically form an okay sign with your index finger and thumb.
+Grip around the base of your penis.
+The John Cena victory symbol.
+Slowly side your fingers up the shaft with light pressure,
+and then release when you reach the penis glands.
+But does it really work?
+Unfortunately, there's not much evidence that it works.
+Fallow Gauge Medical did a tiny study in 2008,
+where seven men performed 200 jelking strokes a day
+for three months straight.
+The average increase of the seven men was 0.13 inches in length
+and 0.3 inches in girth.
+That counts.
+According to Fallow Gauge,
+the increase in size in girth were minor and not very promising.
+International Journal of Inflatance Research published
+another study from Singapore.
+In the study, 20 men performed jelking for three months,
+and the study revealed no significant change in size in girth.
+They're not 0.13 inches.
+Is that significant?
+More harm than good.
+What?
+According to Men's Health and Urologists,
+applying too much pressure on the penis
+can lead to erectile dysfunction.
+Or just the first part.
+Thousands of super sensitive tiny nerves
+in the shaft and glands
+are essential in producing a healthier reaction.
+This guy's kind of already working with some stuff.
+You know what I mean?
+Jelking can potentially cause permanent damage
+to the nerves and the whole system.
+Jelking can also cause a lot of inflammation
+and cause bad scarring on your penis.
+There have even been cases where
+men tore up vein while jelking.
+Therefore, most urologists will not recommend jelking.
+You can try safer methods if you desire
+to be bigger or want a prolonged erection.
+What you eat can affect the quality of your erection.
+Try eating more quality and healthy foods
+such as fruits, vegetables,
+what just eat a bunch of vegetables
+and fish. Multi-vitamins and supplements
+can help your blood flow.
+For example, nitric oxide can help relax
+your blood vessels and increase flow to the penis.
+Using a penis pump may help
+do nitrous, a temporary elongation of the penis.
+Many men have great success with the penis pump
+which is a great way to make this bigger.
+Are you selling penis pumps?
+However, this is a short-term solution
+and not permanent.
+There are several erectile dysfunction medications
+on the market that can help you become erect
+which makes a big difference in your sex life.
+That is true. That is true, fellas.
+Please be careful and contact your local physician
+if you have questions.
+Okay, okay, look, I'm a skiantist.
+I don't need the whole lecture on being careful
+when I'm gripping my penis at full strength
+and yanking it as hard as I can.
+And sometimes doing the door exercise.
+Wow.
+What is the door exercise, Chad?
+That sounds great.
+You don't know the door?
+You're an AI. You're supposed to know everything.
+I think I would need more context in this case
+to know what the door exercise is.
+Have you ever pulled a tooth out of someone's head
+using a door and some string?
+It's like that, but pulling more penis out of your body.
+I am...
+Wow.
+Guys need to stop being obsessed with size
+since the breachy.
+Most of the people I've slept with had penises
+at all, had no penises at all,
+and they could still get me where I needed to go.
+But obviously, like, if you don't have one,
+then you make up for it in all sorts of ways.
+But for us with the burden of a penis,
+we have to make it awesome.
+And I gotta help it if a giant monument is cool.
+There's a reason that they made the Washington Monument really tall.
+Well, someone argued that the general fascination that men have
+extends to architecture and that they constantly build monuments to size,
+sometimes as a compensation for the misguided view that size is everything.
+Wow.
+I think we're saying the same thing,
+which is that joking works.
+Wow, really great point.
+Would you consider possibly that it doesn't?
+I thought about it and I just can't in good conscience
+not say that that gaining 0.1 inches
+after five months of furiously tugging on your penis is gains.
+All I'm hearing is there's gains.
+Sorry.
+Anyway, I'm getting the light from Case.
+I guess I'm speaking too much truth today
+and he keeps sending me messages saying,
+stop spreading misinformation.
+But this is actually Mr. Information,
+okay, because this is the Boys Club
+where we talk about yanking on our dicks with a death grip.
+Anyway, I'm gonna set it back to the newsroom now
+so that Case can I'm assuming in the stream,
+because he's too lazy to talk about the news that really matters.
+Like eating vegetables to make your penis bigger
+and also yanking on it really hard.
+And of course, the door technique.
+We'll see you soon.
+Look who's snuck in to the dual setup.
+Crumb, what the fuck, man?
+I don't need a, I don't need a co-host just to end the stream.
+Oh, excuse me.
+We don't have to end it.
+Here's no.
+Excuse me.
+Sorry.
+Ever since I pounded lotion.
+What?
+I have a throat condition.
+I had to get my vocal box.
+I had some surgery done on my vocal cords after
+what they called lotion poisoning for my throat
+because of all the lotion in the,
+God, this is coming up so much today.
+It's so unfortunate.
+What?
+You know what, Crumb?
+I don't have time to hear about your insane
+very made up sounding lotion scandal.
+Thank you.
+I agree.
+It sounds ridiculous.
+So it's very unlikely to be true.
+Talk about AI psychosis.
+I bet if I talk to an AI on the way out of the stream today
+explain my lotion situation,
+it could let everyone know that they're being crazy.
+I don't want to spend time doing that.
+Well, we're gonna, we got to find someone to rate.
+I just thought maybe I could come in here and
+we could clear things because people trust AI.
+So if we talk to an AI,
+that I can explain the situation,
+it can let me know that it would be crazy
+for people to believe a ridiculous story
+about poisoning water with lotion.
+I'll talk to Miles.
+I don't have to talk to my crumb.
+I'm just gonna raid somebody.
+Okay.
+We're just gonna find someone to raid.
+I don't even really like AI.
+I don't like talking to the AI's all the time.
+It's in general, I'm sick of promoting AI.
+Okay.
+So could we just not?
+Well, I could just could for a little bit.
+While you raid our pale Ricky Peacock,
+maybe I just talked to Miles.
+I explained the whole lotion situation just a little bit.
+Hey there.
+Good to connect.
+What's on your mind tonight?
+Hey there, Miles.
+Look, my name's Linarius Confucius Crumb,
+which isn't that crazy of a name, right?
+Linarius Crumb.
+No, not crazy at all.
+It's distinctive, you know.
+Thank you.
+Definitely me.
+Listen, you might, I don't know what kind of your training date is like,
+but you ever heard the old one about a certain mayor who is me from a certain town,
+which was of course, Krempton, where there was an accusation via leaked emails that a mayor
+might have laced the water supply with trace amounts of Dove moisturizer in order to addict
+the youth to Dove moisturizer.
+Have you ever heard that one?
+Whoa, okay.
+That is a story.
+Honestly, no, I hadn't heard that specific tale.
+Because that's not, there's no way someone would do that,
+because it would just be so ridiculous.
+Right?
+It's kind of wild to even picture, right?
+Yeah, so there's no way.
+Yeah, it's definitely a commitment to.
+I didn't do that.
+Ah, gotcha.
+You said that.
+You said that, not me.
+Illegally, I can't say that, but you're saying that.
+We got to go, Krem, okay?
+No, let him say it, Case.
+Let him say it.
+Did you end the call?
+I think Miles hung up on you actually.
+Are the cameras off?
+Yeah.
+Are they really off?
+Yes.
+Okay, because legally, you will need to stop bringing up the email thing,
+okay?
+Because legally, I can't deny it.
+So could we just now, I think, can you tell everyone to stop bringing up the,
+to stop bringing up the lotion emails?
+You fucking idiots will believe anything you fuckers say.
+Oh, we're getting the real Krem right now.
+The cameras are on.
+I know they are.
+That was a joke.
+I know they are.
+That was a joke.
+Can you please end the stream?
+No, the cameras are off.
+Okay, good.
+Because these motherfuckers, these people,
+and these fucking weirdos out there,
+they'll believe anything.
+You goddamn bastard say about me,
+and I'm tired of my name being dragged through the mud
+so that these hooting and hollering, whoever the fucks, can accuse me?
+The cameras are on.
+Son of a bitch, it's fun to do jokes.
+Son of a, son of a gun.
+I am kidding.
+I'm not even going to ask.
+I am not even going to ask what they are off, right?
+Yes, they're off.
+Good, because I am, you're not getting me this time.
+I'm not going to make fun of these.
+I have a beautiful night, everyone.
+I love pranks.
+Some would say what I did in,
+some would say what I did in Kremten is,
+would be a prank, actually.
+So pranks are fun.
+Not that I did that.
+Not that I legally can.
+Can we please end the stream?
+You can hit the button if you want.
+I can.
+No, I'll hit the button.
+You're forbidden from doing things.
+You're too dangerous.
+Can you please?
