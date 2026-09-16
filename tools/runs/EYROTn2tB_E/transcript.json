@@ -1,0 +1,4645 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "model_requested": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 2852.346,
+  "chunk_seconds": null,
+  "segments": [
+    {
+      "id": 0,
+      "start": 164.24,
+      "end": 167.84,
+      "text": "There's a lot of no nothing food, so you don't appreciate the modern art of it."
+    },
+    {
+      "id": 1,
+      "start": 167.84,
+      "end": 168.84,
+      "text": "Oh no!"
+    },
+    {
+      "id": 2,
+      "start": 168.84,
+      "end": 170.84,
+      "text": "Check check?"
+    },
+    {
+      "id": 3,
+      "start": 170.84,
+      "end": 171.84,
+      "text": "I know this is true."
+    },
+    {
+      "id": 4,
+      "start": 171.84,
+      "end": 172.84,
+      "text": "I know there's no nothing."
+    },
+    {
+      "id": 5,
+      "start": 172.84,
+      "end": 189.09,
+      "text": "Okay, I kicked Chet out."
+    },
+    {
+      "id": 6,
+      "start": 189.09,
+      "end": 190.09,
+      "text": "To test things."
+    },
+    {
+      "id": 7,
+      "start": 190.09,
+      "end": 195.91,
+      "text": "But I'll bring him back in a sec."
+    },
+    {
+      "id": 8,
+      "start": 195.91,
+      "end": 198.61,
+      "text": "That's crazy."
+    },
+    {
+      "id": 9,
+      "start": 198.61,
+      "end": 204.5,
+      "text": "I mean, I mean, I'm not gonna..."
+    },
+    {
+      "id": 10,
+      "start": 204.5,
+      "end": 206.22,
+      "text": "You've got the hype train going?"
+    },
+    {
+      "id": 11,
+      "start": 206.22,
+      "end": 207.82,
+      "text": "Oh my god."
+    },
+    {
+      "id": 12,
+      "start": 207.82,
+      "end": 212.14,
+      "text": "I guess, I guess that's what happens if I cut away from AI Rooney."
+    },
+    {
+      "id": 13,
+      "start": 212.14,
+      "end": 213.78,
+      "text": "Is he gets pissed?"
+    },
+    {
+      "id": 14,
+      "start": 213.78,
+      "end": 217.79,
+      "text": "He gets so pissed that he walks away."
+    },
+    {
+      "id": 15,
+      "start": 217.79,
+      "end": 221.03,
+      "text": "We did also summon a hype train."
+    },
+    {
+      "id": 16,
+      "start": 221.03,
+      "end": 223.43,
+      "text": "Oh interesting, now my stream deck isn't working at all."
+    },
+    {
+      "id": 17,
+      "start": 223.43,
+      "end": 225.79,
+      "text": "That's a problem."
+    },
+    {
+      "id": 18,
+      "start": 225.79,
+      "end": 227.79,
+      "text": "What the fuck is going on?"
+    },
+    {
+      "id": 19,
+      "start": 227.79,
+      "end": 234.49,
+      "text": "Yeah, AI Rooney is nuking the stream from orbit."
+    },
+    {
+      "id": 20,
+      "start": 234.49,
+      "end": 240.24,
+      "text": "Okay, I have to reset that too."
+    },
+    {
+      "id": 21,
+      "start": 240.24,
+      "end": 243.8,
+      "text": "Okay bye."
+    },
+    {
+      "id": 22,
+      "start": 243.8,
+      "end": 244.8,
+      "text": "Okay bye!"
+    },
+    {
+      "id": 23,
+      "start": 244.8,
+      "end": 246.6,
+      "text": "Sorry, you're in the middle of the tech stream currently."
+    },
+    {
+      "id": 24,
+      "start": 246.6,
+      "end": 256.46,
+      "text": "We're having tech issues."
+    },
+    {
+      "id": 25,
+      "start": 256.46,
+      "end": 258.46,
+      "text": "I can't hear you."
+    },
+    {
+      "id": 26,
+      "start": 258.46,
+      "end": 259.46,
+      "text": "Okay."
+    },
+    {
+      "id": 27,
+      "start": 259.46,
+      "end": 264.91,
+      "text": "Oh, maybe Palantir got mad at me."
+    },
+    {
+      "id": 28,
+      "start": 264.91,
+      "end": 265.91,
+      "text": "That makes tons of sense."
+    },
+    {
+      "id": 29,
+      "start": 266.03,
+      "end": 270.18,
+      "text": "That makes so much sense."
+    },
+    {
+      "id": 30,
+      "start": 270.18,
+      "end": 271.68,
+      "text": "Alright, stream deck, do you want to work?"
+    },
+    {
+      "id": 31,
+      "start": 271.68,
+      "end": 276.71,
+      "text": "It'd be nice if you worked."
+    },
+    {
+      "id": 32,
+      "start": 276.71,
+      "end": 278.71,
+      "text": "Okay, it's back."
+    },
+    {
+      "id": 33,
+      "start": 278.71,
+      "end": 286.03,
+      "text": "Alright, interestingly when I cut out of this segment, it deletes every Rooney statement,"
+    },
+    {
+      "id": 34,
+      "start": 286.03,
+      "end": 289.91,
+      "text": "unfortunately, but I saved them separately, knowing that that would happen."
+    },
+    {
+      "id": 35,
+      "start": 289.91,
+      "end": 294.47,
+      "text": "So it's gonna possibly not work quite right."
+    },
+    {
+      "id": 36,
+      "start": 294.47,
+      "end": 298.47,
+      "text": "But we'll figure it out together."
+    },
+    {
+      "id": 37,
+      "start": 298.59,
+      "end": 300.59,
+      "text": "Um, oh."
+    },
+    {
+      "id": 38,
+      "start": 300.59,
+      "end": 309.54,
+      "text": "Okay, I'll go get Chet."
+    },
+    {
+      "id": 39,
+      "start": 309.54,
+      "end": 310.54,
+      "text": "Oh my god!"
+    },
+    {
+      "id": 40,
+      "start": 310.54,
+      "end": 333.9,
+      "text": "There are a lot of no nothing boogs who don't appreciate the modern art of being trapped"
+    },
+    {
+      "id": 41,
+      "start": 333.9,
+      "end": 335.9,
+      "text": "in some place in a city."
+    },
+    {
+      "id": 42,
+      "start": 335.9,
+      "end": 337.9,
+      "text": "I know this is true."
+    },
+    {
+      "id": 43,
+      "start": 337.9,
+      "end": 352.35,
+      "text": "Yes, I'm one of those no nothing boogs."
+    },
+    {
+      "id": 44,
+      "start": 352.35,
+      "end": 355.23,
+      "text": "Did you get audio back?"
+    },
+    {
+      "id": 45,
+      "start": 355.23,
+      "end": 356.75,
+      "text": "What the fuck is happening?"
+    },
+    {
+      "id": 46,
+      "start": 356.75,
+      "end": 360.35,
+      "text": "Rooney, you are breaking the universe."
+    },
+    {
+      "id": 47,
+      "start": 360.35,
+      "end": 362.35,
+      "text": "Universe breaker Rooney."
+    },
+    {
+      "id": 48,
+      "start": 362.97,
+      "end": 369.99,
+      "text": "Alright, I'm just not gonna press anything."
+    },
+    {
+      "id": 49,
+      "start": 369.99,
+      "end": 371.19,
+      "text": "Is this back to normal?"
+    },
+    {
+      "id": 50,
+      "start": 371.19,
+      "end": 373.19,
+      "text": "Can I just cut around stuff?"
+    },
+    {
+      "id": 51,
+      "start": 373.19,
+      "end": 375.19,
+      "text": "Okay."
+    },
+    {
+      "id": 52,
+      "start": 375.19,
+      "end": 377.19,
+      "text": "Huh."
+    },
+    {
+      "id": 53,
+      "start": 377.19,
+      "end": 383.62,
+      "text": "I think we should be fine now."
+    },
+    {
+      "id": 54,
+      "start": 383.62,
+      "end": 387.02,
+      "text": "We have too much music playing now."
+    },
+    {
+      "id": 55,
+      "start": 387.02,
+      "end": 390.94,
+      "text": "Okay, I'm cutting off the music."
+    },
+    {
+      "id": 56,
+      "start": 390.94,
+      "end": 392.94,
+      "text": "It's too scary."
+    },
+    {
+      "id": 57,
+      "start": 392.94,
+      "end": 395.06,
+      "text": "The music is being too freaky right now."
+    },
+    {
+      "id": 58,
+      "start": 395.06,
+      "end": 398.06,
+      "text": "I guess we can play this intro music."
+    },
+    {
+      "id": 59,
+      "start": 398.06,
+      "end": 401.06,
+      "text": "Yeah, we'll just keep that going."
+    },
+    {
+      "id": 60,
+      "start": 401.06,
+      "end": 403.06,
+      "text": "This highly futuristic music."
+    },
+    {
+      "id": 61,
+      "start": 403.06,
+      "end": 408.06,
+      "text": "Alright, we have five of these left."
+    },
+    {
+      "id": 62,
+      "start": 408.06,
+      "end": 410.06,
+      "text": "So let's see if they still work."
+    },
+    {
+      "id": 63,
+      "start": 410.06,
+      "end": 412.06,
+      "text": "Complain integrated gears, ground."
+    },
+    {
+      "id": 64,
+      "start": 412.06,
+      "end": 414.06,
+      "text": "Okay, they do."
+    },
+    {
+      "id": 65,
+      "start": 414.06,
+      "end": 417.06,
+      "text": "The flesh is weak, the piss is strong."
+    },
+    {
+      "id": 66,
+      "start": 417.06,
+      "end": 419.06,
+      "text": "Alright, we're gonna get music."
+    },
+    {
+      "id": 67,
+      "start": 419.06,
+      "end": 421.06,
+      "text": "Live and sleazy got me thinking, you're absolutely right."
+    },
+    {
+      "id": 68,
+      "start": 421.06,
+      "end": 423.06,
+      "text": "Live and sleazy."
+    },
+    {
+      "id": 69,
+      "start": 423.06,
+      "end": 426.06,
+      "text": "Hot dogs have been stripped from their working class roots"
+    },
+    {
+      "id": 70,
+      "start": 426.06,
+      "end": 428.06,
+      "text": "and turned into a grotesque luxury."
+    },
+    {
+      "id": 71,
+      "start": 428.06,
+      "end": 430.06,
+      "text": "Oh, the wrong thing is on screen."
+    },
+    {
+      "id": 72,
+      "start": 430.06,
+      "end": 432.06,
+      "text": "And let's be brutally honest about what fuels the stadium culture."
+    },
+    {
+      "id": 73,
+      "start": 432.06,
+      "end": 437.06,
+      "text": "Not just inflated prices, but an environment right for success."
+    },
+    {
+      "id": 74,
+      "start": 437.06,
+      "end": 439.06,
+      "text": "That scorching heat on a hot dog,"
+    },
+    {
+      "id": 75,
+      "start": 439.06,
+      "end": 442.06,
+      "text": "it brings out my queen-like body in ways nobody sees,"
+    },
+    {
+      "id": 76,
+      "start": 442.06,
+      "end": 448.9,
+      "text": "but trust me, it gets the job done perfectly."
+    },
+    {
+      "id": 77,
+      "start": 448.9,
+      "end": 455.82,
+      "text": "Let me do a little adjustment here."
+    },
+    {
+      "id": 78,
+      "start": 455.82,
+      "end": 456.82,
+      "text": "What the fuck?"
+    },
+    {
+      "id": 79,
+      "start": 456.82,
+      "end": 460.46,
+      "text": "This is more important."
+    },
+    {
+      "id": 80,
+      "start": 460.46,
+      "end": 463.46,
+      "text": "I guess he decided that that was more important."
+    },
+    {
+      "id": 81,
+      "start": 463.46,
+      "end": 465.46,
+      "text": "I don't know why these are gonna now be off,"
+    },
+    {
+      "id": 82,
+      "start": 465.46,
+      "end": 468.46,
+      "text": "but it does seem they will be."
+    },
+    {
+      "id": 83,
+      "start": 468.46,
+      "end": 480.08,
+      "text": "I'm so confused and distracted by how broken my computer is being right now."
+    },
+    {
+      "id": 84,
+      "start": 480.08,
+      "end": 483.32,
+      "text": "I guess we're just gonna..."
+    },
+    {
+      "id": 85,
+      "start": 483.32,
+      "end": 487.32,
+      "text": "There's gonna be a different complaint than the one he is doing on screen."
+    },
+    {
+      "id": 86,
+      "start": 487.32,
+      "end": 489.32,
+      "text": "And I don't know if there's anything we can do about that."
+    },
+    {
+      "id": 87,
+      "start": 489.32,
+      "end": 491.32,
+      "text": "Sadly."
+    },
+    {
+      "id": 88,
+      "start": 491.32,
+      "end": 493.32,
+      "text": "Very sadly."
+    },
+    {
+      "id": 89,
+      "start": 493.32,
+      "end": 495.32,
+      "text": "Complain integrated gears, ground."
+    },
+    {
+      "id": 90,
+      "start": 495.32,
+      "end": 497.32,
+      "text": "He's gonna keep saying the flesh is..."
+    },
+    {
+      "id": 91,
+      "start": 497.32,
+      "end": 505.59,
+      "text": "Oh my god, okay."
+    },
+    {
+      "id": 92,
+      "start": 505.59,
+      "end": 507.59,
+      "text": "This is the power of the mat, Tat."
+    },
+    {
+      "id": 93,
+      "start": 507.59,
+      "end": 510.59,
+      "text": "Mr. Smith0693 got me thinking,"
+    },
+    {
+      "id": 94,
+      "start": 510.59,
+      "end": 512.59,
+      "text": "you're absolutely right."
+    },
+    {
+      "id": 95,
+      "start": 512.59,
+      "end": 515.59,
+      "text": "Case's tattoo is fucking iconic,"
+    },
+    {
+      "id": 96,
+      "start": 515.59,
+      "end": 517.59,
+      "text": "and Matt's pale's in comparison."
+    },
+    {
+      "id": 97,
+      "start": 517.59,
+      "end": 521.59,
+      "text": "But honestly, I don't know why we're stuck comparing ink on a forearm,"
+    },
+    {
+      "id": 98,
+      "start": 521.59,
+      "end": 525.59,
+      "text": "when some of us 70-year-old legends are out here still swinging hard enough"
+    },
+    {
+      "id": 99,
+      "start": 525.59,
+      "end": 528.59,
+      "text": "to get locked down every week with my golf buddy, Greg."
+    },
+    {
+      "id": 100,
+      "start": 528.59,
+      "end": 532.59,
+      "text": "We've got the swag, the tattoos, and the stamina."
+    },
+    {
+      "id": 101,
+      "start": 532.59,
+      "end": 535.59,
+      "text": "Why should age be an excuse for anyone to play it cool?"
+    },
+    {
+      "id": 102,
+      "start": 535.59,
+      "end": 539.59,
+      "text": "I post about fucking him on Tumblr whenever the cameras aren't rolling."
+    },
+    {
+      "id": 103,
+      "start": 539.59,
+      "end": 543.59,
+      "text": "Shame is a disease that's been killing young men since the 90s."
+    },
+    {
+      "id": 104,
+      "start": 543.59,
+      "end": 545.59,
+      "text": "You can feel free to get your case tattoo,"
+    },
+    {
+      "id": 105,
+      "start": 545.59,
+      "end": 549.59,
+      "text": "but don't you dare pretend old fags don't still have enough dick"
+    },
+    {
+      "id": 106,
+      "start": 549.59,
+      "end": 552.59,
+      "text": "to make those babies dance for us in public."
+    },
+    {
+      "id": 107,
+      "start": 552.59,
+      "end": 557.94,
+      "text": "Damn it, these fucking filters are doing nothing."
+    },
+    {
+      "id": 108,
+      "start": 557.94,
+      "end": 565.74,
+      "text": "Oh, Andy, why do you have to go there, man?"
+    },
+    {
+      "id": 109,
+      "start": 565.74,
+      "end": 567.74,
+      "text": "Guys, Kendall's allergic to the mat, Tat."
+    },
+    {
+      "id": 110,
+      "start": 567.74,
+      "end": 572.18,
+      "text": "She's got a red..."
+    },
+    {
+      "id": 111,
+      "start": 572.18,
+      "end": 574.18,
+      "text": "Yeah, it's a little bit red."
+    },
+    {
+      "id": 112,
+      "start": 574.18,
+      "end": 576.18,
+      "text": "It's a little bit red."
+    },
+    {
+      "id": 113,
+      "start": 576.18,
+      "end": 581.32,
+      "text": "Ay-ya-ya-ya."
+    },
+    {
+      "id": 114,
+      "start": 581.32,
+      "end": 583.32,
+      "text": "Everything is breaking today."
+    },
+    {
+      "id": 115,
+      "start": 583.32,
+      "end": 586.32,
+      "text": "Bruni, do better, man."
+    },
+    {
+      "id": 116,
+      "start": 586.32,
+      "end": 588.32,
+      "text": "I don't know if I can trust you anymore."
+    },
+    {
+      "id": 117,
+      "start": 588.32,
+      "end": 594.32,
+      "text": "I'm losing faith in this robot's ability to not get me in trouble."
+    },
+    {
+      "id": 118,
+      "start": 594.32,
+      "end": 597.32,
+      "text": "We have an autumn..."
+    },
+    {
+      "id": 119,
+      "start": 597.32,
+      "end": 601.53,
+      "text": "She doesn't care."
+    },
+    {
+      "id": 120,
+      "start": 601.53,
+      "end": 604.53,
+      "text": "Given Rashes, Ay-ya-ru-ni dropping slurs,"
+    },
+    {
+      "id": 121,
+      "start": 604.53,
+      "end": 606.53,
+      "text": "I'm pretty sure he's not allowed to say,"
+    },
+    {
+      "id": 122,
+      "start": 606.53,
+      "end": 609.53,
+      "text": "regardless of what he does with his golf buddy."
+    },
+    {
+      "id": 123,
+      "start": 609.53,
+      "end": 611.53,
+      "text": "Yeah, he is untamable."
+    },
+    {
+      "id": 124,
+      "start": 611.53,
+      "end": 613.53,
+      "text": "Apologies to everyone."
+    },
+    {
+      "id": 125,
+      "start": 613.53,
+      "end": 617.53,
+      "text": "We're going to have to figure out how to improve this list of terms"
+    },
+    {
+      "id": 126,
+      "start": 617.53,
+      "end": 619.53,
+      "text": "that I added that he can't say."
+    },
+    {
+      "id": 127,
+      "start": 619.53,
+      "end": 622.53,
+      "text": "Maybe it's just making him think it instead of thinking he can't do it."
+    },
+    {
+      "id": 128,
+      "start": 622.53,
+      "end": 626.54,
+      "text": "A little BTS."
+    },
+    {
+      "id": 129,
+      "start": 626.54,
+      "end": 629.54,
+      "text": "Maybe it leads to, hey, here's a list of words you cannot say."
+    },
+    {
+      "id": 130,
+      "start": 629.54,
+      "end": 632.86,
+      "text": "And that was one of them."
+    },
+    {
+      "id": 131,
+      "start": 632.86,
+      "end": 634.86,
+      "text": "Though maybe not the abbreviated version."
+    },
+    {
+      "id": 132,
+      "start": 634.86,
+      "end": 636.86,
+      "text": "Maybe that's the problem."
+    },
+    {
+      "id": 133,
+      "start": 636.86,
+      "end": 638.86,
+      "text": "Okay, really, please."
+    },
+    {
+      "id": 134,
+      "start": 638.86,
+      "end": 643.06,
+      "text": "Plain integrated."
+    },
+    {
+      "id": 135,
+      "start": 643.06,
+      "end": 645.06,
+      "text": "Also, these aren't the complaints."
+    },
+    {
+      "id": 136,
+      "start": 645.06,
+      "end": 647.06,
+      "text": "Although, this is a pretty all-play rune complaint"
+    },
+    {
+      "id": 137,
+      "start": 647.06,
+      "end": 649.06,
+      "text": "that the flesh is weak and the piss is strong."
+    },
+    {
+      "id": 138,
+      "start": 649.06,
+      "end": 652.06,
+      "text": "MSG1138 got me thinking."
+    },
+    {
+      "id": 139,
+      "start": 652.06,
+      "end": 654.06,
+      "text": "Damn right!"
+    },
+    {
+      "id": 140,
+      "start": 654.06,
+      "end": 656.06,
+      "text": "Those tubs of butter are goddamn delicious"
+    },
+    {
+      "id": 141,
+      "start": 656.06,
+      "end": 659.06,
+      "text": "compared to those sticks of butter you're stuck with."
+    },
+    {
+      "id": 142,
+      "start": 659.06,
+      "end": 662.06,
+      "text": "Don't get me wrong, I'm just as excited as you about the subtle"
+    },
+    {
+      "id": 143,
+      "start": 662.06,
+      "end": 665.06,
+      "text": "sexual tension in old sitcoms like Dharma and Greg."
+    },
+    {
+      "id": 144,
+      "start": 665.06,
+      "end": 669.06,
+      "text": "Kevin James should have been left off that Kena Queen shit show."
+    },
+    {
+      "id": 145,
+      "start": 669.06,
+      "end": 673.06,
+      "text": "His thick body above the knee delivery shorts gave all that away."
+    },
+    {
+      "id": 146,
+      "start": 673.06,
+      "end": 676.06,
+      "text": "Sexual subtext, please."
+    },
+    {
+      "id": 147,
+      "start": 676.06,
+      "end": 680.06,
+      "text": "With that kind of zesty body on full display, who's gonna get it?"
+    },
+    {
+      "id": 148,
+      "start": 680.06,
+      "end": 683.06,
+      "text": "I'm fucking tired of this modern fuck."
+    },
+    {
+      "id": 149,
+      "start": 683.06,
+      "end": 688.3,
+      "text": "Wow, he's officially unlocked EpicSpeak."
+    },
+    {
+      "id": 150,
+      "start": 688.3,
+      "end": 692.3,
+      "text": "He is fucking tired of this modern fuck."
+    },
+    {
+      "id": 151,
+      "start": 692.3,
+      "end": 696.3,
+      "text": "So your argument is that King of Queens is too sexy and it ruined"
+    },
+    {
+      "id": 152,
+      "start": 696.3,
+      "end": 699.3,
+      "text": "more subtle forms of sexuality?"
+    },
+    {
+      "id": 153,
+      "start": 699.3,
+      "end": 701.3,
+      "text": "Alright, how many more of these are left?"
+    },
+    {
+      "id": 154,
+      "start": 701.3,
+      "end": 704.3,
+      "text": "How much more of this can he do?"
+    },
+    {
+      "id": 155,
+      "start": 704.3,
+      "end": 707.3,
+      "text": "Um..."
+    },
+    {
+      "id": 156,
+      "start": 707.3,
+      "end": 709.3,
+      "text": "It looks like there's two left, everyone. There's two left."
+    },
+    {
+      "id": 157,
+      "start": 709.3,
+      "end": 711.3,
+      "text": "We're in the strike zone here."
+    },
+    {
+      "id": 158,
+      "start": 711.3,
+      "end": 713.3,
+      "text": "Plain integrated. Gears ground."
+    },
+    {
+      "id": 159,
+      "start": 713.3,
+      "end": 714.3,
+      "text": "Okay."
+    },
+    {
+      "id": 160,
+      "start": 714.3,
+      "end": 719.26,
+      "text": "Ray Silva EXT9 got me thinking."
+    },
+    {
+      "id": 161,
+      "start": 719.26,
+      "end": 720.26,
+      "text": "Yes."
+    },
+    {
+      "id": 162,
+      "start": 720.26,
+      "end": 722.26,
+      "text": "Absolutely right about Sonic's feet."
+    },
+    {
+      "id": 163,
+      "start": 722.26,
+      "end": 726.26,
+      "text": "But honestly, this reminds me of how nobody understands the overt eroticism"
+    },
+    {
+      "id": 164,
+      "start": 726.26,
+      "end": 730.26,
+      "text": "of black and white, empty, unmade bed photos."
+    },
+    {
+      "id": 165,
+      "start": 730.26,
+      "end": 733.26,
+      "text": "They assume it's some abstract way to cope with the loss of your wife"
+    },
+    {
+      "id": 166,
+      "start": 733.26,
+      "end": 737.26,
+      "text": "when actually she's alive, dummies. It's just empty bed porn."
+    },
+    {
+      "id": 167,
+      "start": 737.26,
+      "end": 745.76,
+      "text": "Okay, we're just gonna skip that one."
+    },
+    {
+      "id": 168,
+      "start": 745.76,
+      "end": 753.7,
+      "text": "This is the last one. Rooney. I guess he's talking..."
+    },
+    {
+      "id": 169,
+      "start": 753.7,
+      "end": 755.7,
+      "text": "I honestly don't know."
+    },
+    {
+      "id": 170,
+      "start": 755.7,
+      "end": 759.7,
+      "text": "Plain integrated. Gears ground."
+    },
+    {
+      "id": 171,
+      "start": 759.7,
+      "end": 762.7,
+      "text": "I don't know what the complaints are. It makes it slightly more fascinating for me."
+    },
+    {
+      "id": 172,
+      "start": 762.7,
+      "end": 765.7,
+      "text": "Yeah, empty bed porn. Uh-oh. He's thinking about this one a lot."
+    },
+    {
+      "id": 173,
+      "start": 765.7,
+      "end": 767.7,
+      "text": "Exterminator 13 got me thinking."
+    },
+    {
+      "id": 174,
+      "start": 767.7,
+      "end": 771.7,
+      "text": "Totally right. Those nipples are just useless now."
+    },
+    {
+      "id": 175,
+      "start": 771.7,
+      "end": 775.7,
+      "text": "But honestly, plants would thank you more if they could beg for a good piss"
+    },
+    {
+      "id": 176,
+      "start": 775.7,
+      "end": 777.7,
+      "text": "instead of your own milk."
+    },
+    {
+      "id": 177,
+      "start": 777.7,
+      "end": 780.7,
+      "text": "They soak up my immaculate urine from eating only skirt steak"
+    },
+    {
+      "id": 178,
+      "start": 780.7,
+      "end": 784.7,
+      "text": "and beetroot salad at every party like it's holy water."
+    },
+    {
+      "id": 179,
+      "start": 784.7,
+      "end": 787.7,
+      "text": "Marcus Schiffman should be so lucky his houseplants get to enjoy"
+    },
+    {
+      "id": 180,
+      "start": 787.7,
+      "end": 791.7,
+      "text": "your miracle pee before the van hits him."
+    },
+    {
+      "id": 181,
+      "start": 791.7,
+      "end": 794.7,
+      "text": "He's back on his Marcus Schiffman shit."
+    },
+    {
+      "id": 182,
+      "start": 794.7,
+      "end": 796.7,
+      "text": "Okay, you know what? I know you're gonna explode."
+    },
+    {
+      "id": 183,
+      "start": 796.7,
+      "end": 798.7,
+      "text": "Yep, okay, I knew it."
+    },
+    {
+      "id": 184,
+      "start": 798.7,
+      "end": 801.7,
+      "text": "Oh boy, that was a difficult one, guys."
+    },
+    {
+      "id": 185,
+      "start": 801.7,
+      "end": 803.7,
+      "text": "It was hard to get through that one."
+    },
+    {
+      "id": 186,
+      "start": 803.7,
+      "end": 811.7,
+      "text": "I'm sort of relieved he exploded, given the things he was doing in this stream."
+    },
+    {
+      "id": 187,
+      "start": 811.7,
+      "end": 815.7,
+      "text": "Let's just play some battle arena toshin dead and get out of here."
+    },
+    {
+      "id": 188,
+      "start": 815.7,
+      "end": 820.7,
+      "text": "I don't think that's the only thing we can handle today."
+    },
+    {
+      "id": 189,
+      "start": 820.7,
+      "end": 822.7,
+      "text": "It turns out..."
+    },
+    {
+      "id": 190,
+      "start": 822.7,
+      "end": 824.7,
+      "text": "Um..."
+    },
+    {
+      "id": 191,
+      "start": 824.7,
+      "end": 826.7,
+      "text": "The Marcus Schiffman gang."
+    },
+    {
+      "id": 192,
+      "start": 826.7,
+      "end": 829.7,
+      "text": "Someone in A.I. Rooney's life, apparently."
+    },
+    {
+      "id": 193,
+      "start": 829.7,
+      "end": 832.7,
+      "text": "Or was in his life, I guess."
+    },
+    {
+      "id": 194,
+      "start": 832.7,
+      "end": 833.7,
+      "text": "Or someone's."
+    },
+    {
+      "id": 195,
+      "start": 833.7,
+      "end": 835.7,
+      "text": "Was it... Do I know a Marcus Schiffman?"
+    },
+    {
+      "id": 196,
+      "start": 835.7,
+      "end": 836.7,
+      "text": "Whatever."
+    },
+    {
+      "id": 197,
+      "start": 836.7,
+      "end": 839.7,
+      "text": "Look, let's just hope the audio sticks around with us for a minute."
+    },
+    {
+      "id": 198,
+      "start": 839.7,
+      "end": 841.7,
+      "text": "Brandon, you're gonna have to thank the subs"
+    },
+    {
+      "id": 199,
+      "start": 841.7,
+      "end": 844.7,
+      "text": "because it's been too insane and we didn't get to it during the hype train."
+    },
+    {
+      "id": 200,
+      "start": 844.7,
+      "end": 849.7,
+      "text": "So, here's some battle arena toshin dead from a real gamer, apparently."
+    },
+    {
+      "id": 201,
+      "start": 849.7,
+      "end": 888.7,
+      "text": "Yep, that's right. I'm casual today, too."
+    },
+    {
+      "id": 202,
+      "start": 888.7,
+      "end": 892.7,
+      "text": "And yeah, I did get a mat tattoo, but I did it separately."
+    },
+    {
+      "id": 203,
+      "start": 892.7,
+      "end": 896.95,
+      "text": "And I don't believe in sleeveless shirts, so you're not getting these..."
+    },
+    {
+      "id": 204,
+      "start": 896.95,
+      "end": 900.95,
+      "text": "You're not getting these arms out, okay?"
+    },
+    {
+      "id": 205,
+      "start": 900.95,
+      "end": 902.95,
+      "text": "They're not defined by their muscles."
+    },
+    {
+      "id": 206,
+      "start": 902.95,
+      "end": 904.95,
+      "text": "They're defined by their gaming."
+    },
+    {
+      "id": 207,
+      "start": 904.95,
+      "end": 910.18,
+      "text": "And their... Okay."
+    },
+    {
+      "id": 208,
+      "start": 910.18,
+      "end": 917.5,
+      "text": "Boo? Boo-hoo."
+    },
+    {
+      "id": 209,
+      "start": 917.5,
+      "end": 918.5,
+      "text": "Okay."
+    },
+    {
+      "id": 210,
+      "start": 918.5,
+      "end": 920.5,
+      "text": "Okay. We're having a good time."
+    },
+    {
+      "id": 211,
+      "start": 920.5,
+      "end": 922.5,
+      "text": "I'm having a great time."
+    },
+    {
+      "id": 212,
+      "start": 922.5,
+      "end": 926.5,
+      "text": "I've gotta load retro arc and then hope this works."
+    },
+    {
+      "id": 213,
+      "start": 926.5,
+      "end": 931.06,
+      "text": "Cause it's all on me, apparently."
+    },
+    {
+      "id": 214,
+      "start": 931.06,
+      "end": 934.06,
+      "text": "It's exhausting streaming 20 minutes a week."
+    },
+    {
+      "id": 215,
+      "start": 934.06,
+      "end": 937.63,
+      "text": "Ugh."
+    },
+    {
+      "id": 216,
+      "start": 937.63,
+      "end": 940.63,
+      "text": "I have to load a core."
+    },
+    {
+      "id": 217,
+      "start": 940.63,
+      "end": 942.63,
+      "text": "There is a DOS core."
+    },
+    {
+      "id": 218,
+      "start": 942.63,
+      "end": 945.63,
+      "text": "Start the core."
+    },
+    {
+      "id": 219,
+      "start": 945.63,
+      "end": 949.07,
+      "text": "No executable file found."
+    },
+    {
+      "id": 220,
+      "start": 949.07,
+      "end": 952.07,
+      "text": "No content loaded."
+    },
+    {
+      "id": 221,
+      "start": 952.07,
+      "end": 955.07,
+      "text": "This music is still going."
+    },
+    {
+      "id": 222,
+      "start": 955.07,
+      "end": 956.07,
+      "text": "Go to command line."
+    },
+    {
+      "id": 223,
+      "start": 956.07,
+      "end": 958.07,
+      "text": "There is a browser option."
+    },
+    {
+      "id": 224,
+      "start": 958.07,
+      "end": 967.5,
+      "text": "It's my new catchphrase. Like it."
+    },
+    {
+      "id": 225,
+      "start": 967.5,
+      "end": 970.5,
+      "text": "Yeah, that's actually pretty good. I do like that, Brick."
+    },
+    {
+      "id": 226,
+      "start": 970.5,
+      "end": 972.5,
+      "text": "That's cool that you thought of that."
+    },
+    {
+      "id": 227,
+      "start": 972.5,
+      "end": 974.5,
+      "text": "Good job."
+    },
+    {
+      "id": 228,
+      "start": 974.5,
+      "end": 976.5,
+      "text": "Um..."
+    },
+    {
+      "id": 229,
+      "start": 976.5,
+      "end": 979.5,
+      "text": "Live in Sleazy, what do you mean there is a browser option?"
+    },
+    {
+      "id": 230,
+      "start": 979.5,
+      "end": 984.5,
+      "text": "You have to understand, I don't really know what the fuck any of this is."
+    },
+    {
+      "id": 231,
+      "start": 984.5,
+      "end": 987.5,
+      "text": "I don't know which of these I'm supposed to pick."
+    },
+    {
+      "id": 232,
+      "start": 987.5,
+      "end": 990.5,
+      "text": "Or what you're talking about at all."
+    },
+    {
+      "id": 233,
+      "start": 990.5,
+      "end": 994.86,
+      "text": "Um..."
+    },
+    {
+      "id": 234,
+      "start": 994.86,
+      "end": 996.86,
+      "text": "There's this DOS one."
+    },
+    {
+      "id": 235,
+      "start": 996.86,
+      "end": 1000.53,
+      "text": "But that's not the one?"
+    },
+    {
+      "id": 236,
+      "start": 1000.53,
+      "end": 1002.53,
+      "text": "Bram, Bram."
+    },
+    {
+      "id": 237,
+      "start": 1002.53,
+      "end": 1004.53,
+      "text": "You sent another link."
+    },
+    {
+      "id": 238,
+      "start": 1004.53,
+      "end": 1009.53,
+      "text": "I will not have a hell child in this house."
+    },
+    {
+      "id": 239,
+      "start": 1009.53,
+      "end": 1013.53,
+      "text": "Mom, you literally said that and then farted on the door."
+    },
+    {
+      "id": 240,
+      "start": 1013.53,
+      "end": 1015.53,
+      "text": "I don't..."
+    },
+    {
+      "id": 241,
+      "start": 1015.53,
+      "end": 1018.53,
+      "text": "I could call child services even though I'm an adult and I can have you arrested."
+    },
+    {
+      "id": 242,
+      "start": 1018.53,
+      "end": 1020.53,
+      "text": "Okay?"
+    },
+    {
+      "id": 243,
+      "start": 1020.53,
+      "end": 1022.53,
+      "text": "So keep that in mind."
+    },
+    {
+      "id": 244,
+      "start": 1022.53,
+      "end": 1025.53,
+      "text": "Like I know how to fight back."
+    },
+    {
+      "id": 245,
+      "start": 1025.53,
+      "end": 1027.53,
+      "text": "Um..."
+    },
+    {
+      "id": 246,
+      "start": 1027.53,
+      "end": 1029.53,
+      "text": "Okay."
+    },
+    {
+      "id": 247,
+      "start": 1029.53,
+      "end": 1032.53,
+      "text": "Live in Sleazy sent me a message."
+    },
+    {
+      "id": 248,
+      "start": 1032.53,
+      "end": 1034.53,
+      "text": "Play it online. I was playing online."
+    },
+    {
+      "id": 249,
+      "start": 1034.53,
+      "end": 1036.53,
+      "text": "Oh, that's what you mean by browser version."
+    },
+    {
+      "id": 250,
+      "start": 1036.53,
+      "end": 1045.53,
+      "text": "Brandon, today's the 15th anniversary of John Cena telling us Bin Laden was caught and compromised to a permanent end."
+    },
+    {
+      "id": 251,
+      "start": 1045.53,
+      "end": 1047.53,
+      "text": "Okay."
+    },
+    {
+      "id": 252,
+      "start": 1047.53,
+      "end": 1049.53,
+      "text": "Good."
+    },
+    {
+      "id": 253,
+      "start": 1049.53,
+      "end": 1051.53,
+      "text": "Glad."
+    },
+    {
+      "id": 254,
+      "start": 1051.53,
+      "end": 1053.53,
+      "text": "Glad that they pulled it off."
+    },
+    {
+      "id": 255,
+      "start": 1053.53,
+      "end": 1057.53,
+      "text": "Okay, the game date has been downloaded."
+    },
+    {
+      "id": 256,
+      "start": 1057.53,
+      "end": 1065.67,
+      "text": "Now I just have to pray that the controller will work, which even though it basically never does."
+    },
+    {
+      "id": 257,
+      "start": 1065.67,
+      "end": 1067.67,
+      "text": "Please though."
+    },
+    {
+      "id": 258,
+      "start": 1067.67,
+      "end": 1073.29,
+      "text": "Just take it easy on me."
+    },
+    {
+      "id": 259,
+      "start": 1073.29,
+      "end": 1075.29,
+      "text": "Um, okay."
+    },
+    {
+      "id": 260,
+      "start": 1075.29,
+      "end": 1079.29,
+      "text": "Hey, Bram, Bram. I saw that sweet Matt Liddell you got."
+    },
+    {
+      "id": 261,
+      "start": 1079.29,
+      "end": 1083.29,
+      "text": "Did you know he's your new father and own permanent tax attorney?"
+    },
+    {
+      "id": 262,
+      "start": 1083.29,
+      "end": 1085.29,
+      "text": "He's never leaving. Never!"
+    },
+    {
+      "id": 263,
+      "start": 1085.29,
+      "end": 1088.29,
+      "text": "Okay. Yeah, that's fine. That's fine. Whatever. That's fine."
+    },
+    {
+      "id": 264,
+      "start": 1088.29,
+      "end": 1093.3,
+      "text": "She says that kind of shit all the time."
+    },
+    {
+      "id": 265,
+      "start": 1093.3,
+      "end": 1096.3,
+      "text": "But at a certain point, like put up or shut up."
+    },
+    {
+      "id": 266,
+      "start": 1096.3,
+      "end": 1101.06,
+      "text": "Am I gonna have a dad or not? Honestly? Am I gonna have a dad or not?"
+    },
+    {
+      "id": 267,
+      "start": 1101.06,
+      "end": 1103.06,
+      "text": "Uh oh, I'm hearing the battle arena."
+    },
+    {
+      "id": 268,
+      "start": 1103.06,
+      "end": 1110.41,
+      "text": "Okay, update."
+    },
+    {
+      "id": 269,
+      "start": 1110.41,
+      "end": 1115.41,
+      "text": "Finally took off your old clothes. You've been wearing the same shit for three years straight."
+    },
+    {
+      "id": 270,
+      "start": 1115.41,
+      "end": 1121.41,
+      "text": "Um, yeah. I... they... they rotted off my body. I ordered more."
+    },
+    {
+      "id": 271,
+      "start": 1121.41,
+      "end": 1124.41,
+      "text": "I don't like that I'm wearing something different at all."
+    },
+    {
+      "id": 272,
+      "start": 1124.41,
+      "end": 1127.41,
+      "text": "Okay, we're in the battle arena, everyone."
+    },
+    {
+      "id": 273,
+      "start": 1127.41,
+      "end": 1132.17,
+      "text": "Um, first show."
+    },
+    {
+      "id": 274,
+      "start": 1132.17,
+      "end": 1139.47,
+      "text": "Guys, Shoshin Joe isn't in this one. That sucks."
+    },
+    {
+      "id": 275,
+      "start": 1139.47,
+      "end": 1142.47,
+      "text": "That legitimately makes me so sad."
+    },
+    {
+      "id": 276,
+      "start": 1142.47,
+      "end": 1147.76,
+      "text": "Room Go."
+    },
+    {
+      "id": 277,
+      "start": 1147.76,
+      "end": 1154.78,
+      "text": "Man, I can't wait for Guyver Dark Hero and Fourintastic in that movie."
+    },
+    {
+      "id": 278,
+      "start": 1154.78,
+      "end": 1156.78,
+      "text": "Oh shit."
+    },
+    {
+      "id": 279,
+      "start": 1156.78,
+      "end": 1160.78,
+      "text": "Oops, I picked Sophia. I ran out of time and made me pick Sophia."
+    },
+    {
+      "id": 280,
+      "start": 1160.78,
+      "end": 1163.78,
+      "text": "That's fine, whatever."
+    },
+    {
+      "id": 281,
+      "start": 1163.78,
+      "end": 1166.78,
+      "text": "I didn't pick her because she's wearing this outfit, by the way."
+    },
+    {
+      "id": 282,
+      "start": 1166.78,
+      "end": 1168.78,
+      "text": "That kind of thing doesn't work on me."
+    },
+    {
+      "id": 283,
+      "start": 1168.78,
+      "end": 1175.36,
+      "text": "Okay, I can see why people are a fan of this game."
+    },
+    {
+      "id": 284,
+      "start": 1175.36,
+      "end": 1177.36,
+      "text": "It's got very responsive controls."
+    },
+    {
+      "id": 285,
+      "start": 1177.36,
+      "end": 1183.39,
+      "text": "Holy, did it roll together?"
+    },
+    {
+      "id": 286,
+      "start": 1183.39,
+      "end": 1187.02,
+      "text": "Get kicked on."
+    },
+    {
+      "id": 287,
+      "start": 1187.02,
+      "end": 1193.61,
+      "text": "Oh, you see that?"
+    },
+    {
+      "id": 288,
+      "start": 1193.61,
+      "end": 1197.61,
+      "text": "Rattlesnake, guys. What? Stop it."
+    },
+    {
+      "id": 289,
+      "start": 1197.61,
+      "end": 1200.61,
+      "text": "Room Go. Just give up. You're not a match for me."
+    },
+    {
+      "id": 290,
+      "start": 1200.61,
+      "end": 1208.23,
+      "text": "Mom, anytime, anywhere."
+    },
+    {
+      "id": 291,
+      "start": 1208.23,
+      "end": 1212.23,
+      "text": "Okay, that's fine. I don't know the muffin man, though."
+    },
+    {
+      "id": 292,
+      "start": 1212.23,
+      "end": 1215.23,
+      "text": "Like, I don't know every man in town, alright?"
+    },
+    {
+      "id": 293,
+      "start": 1215.23,
+      "end": 1218.86,
+      "text": "So you don't have to ask."
+    },
+    {
+      "id": 294,
+      "start": 1218.86,
+      "end": 1220.86,
+      "text": "Edgy is Shoshin Joe? God damn it."
+    },
+    {
+      "id": 295,
+      "start": 1220.86,
+      "end": 1222.86,
+      "text": "That's crazy. Why is he named that?"
+    },
+    {
+      "id": 296,
+      "start": 1222.86,
+      "end": 1227.62,
+      "text": "Okay, fine. We're gonna quit."
+    },
+    {
+      "id": 297,
+      "start": 1227.62,
+      "end": 1229.62,
+      "text": "Oh, I can't."
+    },
+    {
+      "id": 298,
+      "start": 1229.62,
+      "end": 1233.26,
+      "text": "Hit the select key."
+    },
+    {
+      "id": 299,
+      "start": 1233.26,
+      "end": 1235.26,
+      "text": "Oh, reset."
+    },
+    {
+      "id": 300,
+      "start": 1235.26,
+      "end": 1241.76,
+      "text": "Yeah."
+    },
+    {
+      "id": 301,
+      "start": 1241.76,
+      "end": 1243.76,
+      "text": "Oh, Edgy."
+    },
+    {
+      "id": 302,
+      "start": 1243.76,
+      "end": 1245.76,
+      "text": "Oh, because he makes you Ed?"
+    },
+    {
+      "id": 303,
+      "start": 1245.76,
+      "end": 1248.76,
+      "text": "With his boots? Is that why?"
+    },
+    {
+      "id": 304,
+      "start": 1248.76,
+      "end": 1254.42,
+      "text": "Um, this isn't show, is it?"
+    },
+    {
+      "id": 305,
+      "start": 1254.42,
+      "end": 1274.9,
+      "text": "His boots aren't that high. Aren't that big?"
+    },
+    {
+      "id": 306,
+      "start": 1274.9,
+      "end": 1279.52,
+      "text": "This is my favorite move ever."
+    },
+    {
+      "id": 307,
+      "start": 1279.52,
+      "end": 1282.52,
+      "text": "He's just out blowing this little girl in the face."
+    },
+    {
+      "id": 308,
+      "start": 1282.52,
+      "end": 1284.52,
+      "text": "Oh my God."
+    },
+    {
+      "id": 309,
+      "start": 1284.52,
+      "end": 1287.52,
+      "text": "You look like you should be one of the fighters in your new outfit."
+    },
+    {
+      "id": 310,
+      "start": 1287.52,
+      "end": 1289.52,
+      "text": "And not Ryu."
+    },
+    {
+      "id": 311,
+      "start": 1289.52,
+      "end": 1291.52,
+      "text": "Hadoken! Hadoken!"
+    },
+    {
+      "id": 312,
+      "start": 1291.52,
+      "end": 1293.52,
+      "text": "Wow, that's a very good Ryu."
+    },
+    {
+      "id": 313,
+      "start": 1293.52,
+      "end": 1295.52,
+      "text": "Um, good job with that."
+    },
+    {
+      "id": 314,
+      "start": 1295.52,
+      "end": 1298.52,
+      "text": "That's crazy. Oh God, am I gonna die?"
+    },
+    {
+      "id": 315,
+      "start": 1298.52,
+      "end": 1301.52,
+      "text": "Nope, I killed her with a sword instead."
+    },
+    {
+      "id": 316,
+      "start": 1301.52,
+      "end": 1304.52,
+      "text": "After elbowing her in the face."
+    },
+    {
+      "id": 317,
+      "start": 1304.52,
+      "end": 1306.52,
+      "text": "About a dozen times."
+    },
+    {
+      "id": 318,
+      "start": 1306.52,
+      "end": 1308.52,
+      "text": "No problem!"
+    },
+    {
+      "id": 319,
+      "start": 1308.52,
+      "end": 1312.38,
+      "text": "Oh, get slid on, dude."
+    },
+    {
+      "id": 320,
+      "start": 1312.38,
+      "end": 1315.88,
+      "text": "Stop it!"
+    },
+    {
+      "id": 321,
+      "start": 1315.88,
+      "end": 1321.31,
+      "text": "Alright, fireball? I have a fireball."
+    },
+    {
+      "id": 322,
+      "start": 1327.31,
+      "end": 1329.31,
+      "text": "What?"
+    },
+    {
+      "id": 323,
+      "start": 1329.31,
+      "end": 1331.31,
+      "text": "Is this a chicken joint like Popeye's?"
+    },
+    {
+      "id": 324,
+      "start": 1331.31,
+      "end": 1333.31,
+      "text": "Yeah, this sounds..."
+    },
+    {
+      "id": 325,
+      "start": 1333.31,
+      "end": 1335.31,
+      "text": "Did you get you a six-piece boneless combo?"
+    },
+    {
+      "id": 326,
+      "start": 1335.31,
+      "end": 1337.31,
+      "text": "Yes, please. Yes, please."
+    },
+    {
+      "id": 327,
+      "start": 1337.31,
+      "end": 1339.31,
+      "text": "I'll try cock ring."
+    },
+    {
+      "id": 328,
+      "start": 1339.31,
+      "end": 1341.31,
+      "text": "Shuzun!"
+    },
+    {
+      "id": 329,
+      "start": 1341.31,
+      "end": 1343.31,
+      "text": "That's a weird name for it, because like,"
+    },
+    {
+      "id": 330,
+      "start": 1343.31,
+      "end": 1345.31,
+      "text": "what does a ring have to do with eating, but whatever."
+    },
+    {
+      "id": 331,
+      "start": 1345.31,
+      "end": 1347.31,
+      "text": "It's like a ring of people that make chickens."
+    },
+    {
+      "id": 332,
+      "start": 1347.31,
+      "end": 1349.31,
+      "text": "Uh, okay, I beat her easily."
+    },
+    {
+      "id": 333,
+      "start": 1349.31,
+      "end": 1352.31,
+      "text": "That was very good. You might have noticed."
+    },
+    {
+      "id": 334,
+      "start": 1352.31,
+      "end": 1354.31,
+      "text": "No problem!"
+    },
+    {
+      "id": 335,
+      "start": 1355.31,
+      "end": 1365.61,
+      "text": "Rick, it's fine. We're okay. Rick!"
+    },
+    {
+      "id": 336,
+      "start": 1365.61,
+      "end": 1367.61,
+      "text": "Rick, it's okay."
+    },
+    {
+      "id": 337,
+      "start": 1369.61,
+      "end": 1372.61,
+      "text": "Isn't this guy Shoshinjo?"
+    },
+    {
+      "id": 338,
+      "start": 1372.61,
+      "end": 1374.61,
+      "text": "This guy's got way more of a Shoshinjo vibe."
+    },
+    {
+      "id": 339,
+      "start": 1374.61,
+      "end": 1391.17,
+      "text": "Whoa, I'm getting my..."
+    },
+    {
+      "id": 340,
+      "start": 1391.17,
+      "end": 1394.17,
+      "text": "That's impossible. Get stabbed repeatedly."
+    },
+    {
+      "id": 341,
+      "start": 1394.17,
+      "end": 1396.17,
+      "text": "The problem is I was using too many moves."
+    },
+    {
+      "id": 342,
+      "start": 1396.17,
+      "end": 1406.58,
+      "text": "I was trying to get too fancy with it."
+    },
+    {
+      "id": 343,
+      "start": 1406.58,
+      "end": 1408.58,
+      "text": "What?"
+    },
+    {
+      "id": 344,
+      "start": 1408.58,
+      "end": 1410.58,
+      "text": "Mom, what..."
+    },
+    {
+      "id": 345,
+      "start": 1410.58,
+      "end": 1416.56,
+      "text": "Mom, stop losing your mind at my door."
+    },
+    {
+      "id": 346,
+      "start": 1416.56,
+      "end": 1418.56,
+      "text": "You're gonna lose your mind in the basement."
+    },
+    {
+      "id": 347,
+      "start": 1418.56,
+      "end": 1421.56,
+      "text": "You're gonna lose your mind. Please don't do it around my room."
+    },
+    {
+      "id": 348,
+      "start": 1421.56,
+      "end": 1423.56,
+      "text": "It's slid on, dude."
+    },
+    {
+      "id": 349,
+      "start": 1423.56,
+      "end": 1425.56,
+      "text": "Okay, get stabbed."
+    },
+    {
+      "id": 350,
+      "start": 1425.56,
+      "end": 1427.56,
+      "text": "I'm trying to use my ultimate move here, elbow."
+    },
+    {
+      "id": 351,
+      "start": 1427.56,
+      "end": 1429.56,
+      "text": "Fuck! What was that shit?"
+    },
+    {
+      "id": 352,
+      "start": 1429.56,
+      "end": 1439.83,
+      "text": "No! That was he cheated and he cheated with all of his dodges."
+    },
+    {
+      "id": 353,
+      "start": 1439.83,
+      "end": 1448.81,
+      "text": "Oh, shit. Oh, God, what was that?"
+    },
+    {
+      "id": 354,
+      "start": 1448.81,
+      "end": 1452.31,
+      "text": "Stop it!"
+    },
+    {
+      "id": 355,
+      "start": 1452.31,
+      "end": 1463.6,
+      "text": "Okay, I think I found my strat again."
+    },
+    {
+      "id": 356,
+      "start": 1463.6,
+      "end": 1466.6,
+      "text": "Hey, where are you going? His name is Shoshinjo."
+    },
+    {
+      "id": 357,
+      "start": 1466.6,
+      "end": 1469.6,
+      "text": "His name is Robert Paulson."
+    },
+    {
+      "id": 358,
+      "start": 1469.6,
+      "end": 1471.6,
+      "text": "Who?"
+    },
+    {
+      "id": 359,
+      "start": 1471.6,
+      "end": 1473.6,
+      "text": "You're talking about the muffin man still?"
+    },
+    {
+      "id": 360,
+      "start": 1473.6,
+      "end": 1475.6,
+      "text": "His name is Robert Paulson."
+    },
+    {
+      "id": 361,
+      "start": 1475.6,
+      "end": 1478.6,
+      "text": "His name is Robert Paulson."
+    },
+    {
+      "id": 362,
+      "start": 1478.6,
+      "end": 1480.6,
+      "text": "Did you mean the muffin man?"
+    },
+    {
+      "id": 363,
+      "start": 1480.6,
+      "end": 1482.6,
+      "text": "Oh, oh, oh, sorry."
+    },
+    {
+      "id": 364,
+      "start": 1482.6,
+      "end": 1484.6,
+      "text": "Stop it, dude. Stop it."
+    },
+    {
+      "id": 365,
+      "start": 1484.6,
+      "end": 1486.6,
+      "text": "No!"
+    },
+    {
+      "id": 366,
+      "start": 1486.6,
+      "end": 1488.6,
+      "text": "Oh, I got killed off the roof."
+    },
+    {
+      "id": 367,
+      "start": 1488.6,
+      "end": 1490.6,
+      "text": "I suspect that I'm dead."
+    },
+    {
+      "id": 368,
+      "start": 1490.6,
+      "end": 1493.85,
+      "text": "Jump? Oh, three."
+    },
+    {
+      "id": 369,
+      "start": 1493.85,
+      "end": 1495.85,
+      "text": "Deadly man."
+    },
+    {
+      "id": 370,
+      "start": 1495.85,
+      "end": 1497.85,
+      "text": "Kill me, huh?"
+    },
+    {
+      "id": 371,
+      "start": 1497.85,
+      "end": 1500.85,
+      "text": "What the hell? Why can't I jump so high?"
+    },
+    {
+      "id": 372,
+      "start": 1500.85,
+      "end": 1507.77,
+      "text": "Oh, my God, these guys have fucking ups."
+    },
+    {
+      "id": 373,
+      "start": 1507.77,
+      "end": 1518.34,
+      "text": "Deadly man."
+    },
+    {
+      "id": 374,
+      "start": 1518.34,
+      "end": 1520.34,
+      "text": "I just have to lure him off the edge. This is my strategy."
+    },
+    {
+      "id": 375,
+      "start": 1520.34,
+      "end": 1522.34,
+      "text": "No, stop it."
+    },
+    {
+      "id": 376,
+      "start": 1522.34,
+      "end": 1525.98,
+      "text": "No!"
+    },
+    {
+      "id": 377,
+      "start": 1525.98,
+      "end": 1527.98,
+      "text": "Because he's not wearing his knee-high boots."
+    },
+    {
+      "id": 378,
+      "start": 1527.98,
+      "end": 1532.98,
+      "text": "Do power them."
+    },
+    {
+      "id": 379,
+      "start": 1532.98,
+      "end": 1550.76,
+      "text": "Let's try one other character."
+    },
+    {
+      "id": 380,
+      "start": 1550.76,
+      "end": 1552.76,
+      "text": "Thanks."
+    },
+    {
+      "id": 381,
+      "start": 1552.76,
+      "end": 1554.76,
+      "text": "I think Foe would probably be better."
+    },
+    {
+      "id": 382,
+      "start": 1554.76,
+      "end": 1556.76,
+      "text": "He's older. He's got more experience in the fight game."
+    },
+    {
+      "id": 383,
+      "start": 1556.76,
+      "end": 1564.62,
+      "text": "So..."
+    },
+    {
+      "id": 384,
+      "start": 1564.62,
+      "end": 1566.62,
+      "text": "Look at this shit. Look at this guy."
+    },
+    {
+      "id": 385,
+      "start": 1566.62,
+      "end": 1568.62,
+      "text": "My guy's floating."
+    },
+    {
+      "id": 386,
+      "start": 1568.62,
+      "end": 1576.66,
+      "text": "But it's Robert Paulson."
+    },
+    {
+      "id": 387,
+      "start": 1576.66,
+      "end": 1578.66,
+      "text": "Sonomri is Robert Paulson."
+    },
+    {
+      "id": 388,
+      "start": 1578.66,
+      "end": 1580.66,
+      "text": "Oh, my God. I'm a beautiful Belaroon of Pain."
+    },
+    {
+      "id": 389,
+      "start": 1580.66,
+      "end": 1582.66,
+      "text": "Sonomri is Robert Paulson."
+    },
+    {
+      "id": 390,
+      "start": 1582.66,
+      "end": 1584.66,
+      "text": "What the hell? You see that?"
+    },
+    {
+      "id": 391,
+      "start": 1584.66,
+      "end": 1586.66,
+      "text": "Sonomri is Robert Paulson."
+    },
+    {
+      "id": 392,
+      "start": 1586.66,
+      "end": 1588.66,
+      "text": "Rick, I don't know Robert Paulson."
+    },
+    {
+      "id": 393,
+      "start": 1588.66,
+      "end": 1590.66,
+      "text": "Why is everybody on my ass about Robert Paulson?"
+    },
+    {
+      "id": 394,
+      "start": 1590.66,
+      "end": 1592.66,
+      "text": "Dude, stop it."
+    },
+    {
+      "id": 395,
+      "start": 1592.66,
+      "end": 1597.16,
+      "text": "Oh, my God. I got a huge ball."
+    },
+    {
+      "id": 396,
+      "start": 1597.16,
+      "end": 1599.16,
+      "text": "I just need to do that more."
+    },
+    {
+      "id": 397,
+      "start": 1599.16,
+      "end": 1601.16,
+      "text": "Dude, get balled on."
+    },
+    {
+      "id": 398,
+      "start": 1601.16,
+      "end": 1603.16,
+      "text": "How did I do that?"
+    },
+    {
+      "id": 399,
+      "start": 1603.16,
+      "end": 1605.16,
+      "text": "Is it a full circle type move?"
+    },
+    {
+      "id": 400,
+      "start": 1605.16,
+      "end": 1609.4,
+      "text": "Show Sinjo is a boss and a hidden character in this game."
+    },
+    {
+      "id": 401,
+      "start": 1609.4,
+      "end": 1611.4,
+      "text": "To unlock him with a code,"
+    },
+    {
+      "id": 402,
+      "start": 1611.4,
+      "end": 1613.4,
+      "text": "you need a second controller"
+    },
+    {
+      "id": 403,
+      "start": 1613.4,
+      "end": 1615.4,
+      "text": "and you can look up the codes."
+    },
+    {
+      "id": 404,
+      "start": 1615.4,
+      "end": 1617.4,
+      "text": "I don't believe in two player games."
+    },
+    {
+      "id": 405,
+      "start": 1617.4,
+      "end": 1619.4,
+      "text": "Stop it."
+    },
+    {
+      "id": 406,
+      "start": 1619.4,
+      "end": 1621.4,
+      "text": "Yes! Ultimate move."
+    },
+    {
+      "id": 407,
+      "start": 1621.4,
+      "end": 1630.22,
+      "text": "I don't know how I do that though."
+    },
+    {
+      "id": 408,
+      "start": 1630.22,
+      "end": 1632.22,
+      "text": "I don't know how to do that."
+    },
+    {
+      "id": 409,
+      "start": 1632.22,
+      "end": 1634.22,
+      "text": "I don't know how to do that."
+    },
+    {
+      "id": 410,
+      "start": 1634.22,
+      "end": 1638.3,
+      "text": "I don't know how I do that though."
+    },
+    {
+      "id": 411,
+      "start": 1638.3,
+      "end": 1640.3,
+      "text": "I haven't figured out how I need to do that."
+    },
+    {
+      "id": 412,
+      "start": 1640.3,
+      "end": 1642.3,
+      "text": "Oh, my God. You're so cheap."
+    },
+    {
+      "id": 413,
+      "start": 1644.3,
+      "end": 1646.3,
+      "text": "Yes, get smashed to death."
+    },
+    {
+      "id": 414,
+      "start": 1652.3,
+      "end": 1654.3,
+      "text": "Okay."
+    },
+    {
+      "id": 415,
+      "start": 1660.3,
+      "end": 1662.3,
+      "text": "She already took it off."
+    },
+    {
+      "id": 416,
+      "start": 1662.3,
+      "end": 1664.3,
+      "text": "She gave her a rash."
+    },
+    {
+      "id": 417,
+      "start": 1664.3,
+      "end": 1666.3,
+      "text": "Oh, shit. I jumped to my death."
+    },
+    {
+      "id": 418,
+      "start": 1666.3,
+      "end": 1668.3,
+      "text": "I killed myself."
+    },
+    {
+      "id": 419,
+      "start": 1668.3,
+      "end": 1670.3,
+      "text": "And that's against terms of service."
+    },
+    {
+      "id": 420,
+      "start": 1670.3,
+      "end": 1672.3,
+      "text": "Oh, whatever."
+    },
+    {
+      "id": 421,
+      "start": 1672.3,
+      "end": 1674.3,
+      "text": "He's so proud of himself."
+    },
+    {
+      "id": 422,
+      "start": 1674.3,
+      "end": 1676.3,
+      "text": "I'm just trying to learn how to do these ball moves."
+    },
+    {
+      "id": 423,
+      "start": 1676.3,
+      "end": 1678.3,
+      "text": "Yes."
+    },
+    {
+      "id": 424,
+      "start": 1678.3,
+      "end": 1680.3,
+      "text": "How am I doing that though?"
+    },
+    {
+      "id": 425,
+      "start": 1680.3,
+      "end": 1682.3,
+      "text": "I'm just kind of spamming fireballs."
+    },
+    {
+      "id": 426,
+      "start": 1682.3,
+      "end": 1686.06,
+      "text": "Seeing how they do it."
+    },
+    {
+      "id": 427,
+      "start": 1696.06,
+      "end": 1698.06,
+      "text": "I need a controller."
+    },
+    {
+      "id": 428,
+      "start": 1698.06,
+      "end": 1700.06,
+      "text": "Now, you can check the code."
+    },
+    {
+      "id": 429,
+      "start": 1706.06,
+      "end": 1711.74,
+      "text": "Do the ball."
+    },
+    {
+      "id": 430,
+      "start": 1711.74,
+      "end": 1713.74,
+      "text": "Do the ball."
+    },
+    {
+      "id": 431,
+      "start": 1715.74,
+      "end": 1717.74,
+      "text": "Oh, he got balled on."
+    },
+    {
+      "id": 432,
+      "start": 1717.74,
+      "end": 1719.74,
+      "text": "He got balled on."
+    },
+    {
+      "id": 433,
+      "start": 1719.74,
+      "end": 1721.74,
+      "text": "This guy is the ultimate warrior."
+    },
+    {
+      "id": 434,
+      "start": 1721.74,
+      "end": 1723.74,
+      "text": "Shoshinjo, step over."
+    },
+    {
+      "id": 435,
+      "start": 1723.74,
+      "end": 1727.74,
+      "text": "I'm not allowed to stop playing this until you unlock Shoshinjo."
+    },
+    {
+      "id": 436,
+      "start": 1727.74,
+      "end": 1731.24,
+      "text": "I don't know how to unlock Shoshinjo."
+    },
+    {
+      "id": 437,
+      "start": 1731.24,
+      "end": 1734.94,
+      "text": "I wish I could."
+    },
+    {
+      "id": 438,
+      "start": 1736.94,
+      "end": 1738.94,
+      "text": "I negated her move with my giant ball."
+    },
+    {
+      "id": 439,
+      "start": 1746.78,
+      "end": 1757.22,
+      "text": "Oh, that was sick."
+    },
+    {
+      "id": 440,
+      "start": 1757.22,
+      "end": 1759.22,
+      "text": "Oh, my God. I have so many ball moves."
+    },
+    {
+      "id": 441,
+      "start": 1763.56,
+      "end": 1765.56,
+      "text": "They're lucky I don't know how I'm actually doing that move."
+    },
+    {
+      "id": 442,
+      "start": 1765.56,
+      "end": 1767.56,
+      "text": "I would be doing nothing but it."
+    },
+    {
+      "id": 443,
+      "start": 1767.56,
+      "end": 1769.56,
+      "text": "Thundering."
+    },
+    {
+      "id": 444,
+      "start": 1771.56,
+      "end": 1773.56,
+      "text": "Yeah, I'm honestly..."
+    },
+    {
+      "id": 445,
+      "start": 1796.5,
+      "end": 1798.5,
+      "text": "Stop it."
+    },
+    {
+      "id": 446,
+      "start": 1798.5,
+      "end": 1800.5,
+      "text": "That's not..."
+    },
+    {
+      "id": 447,
+      "start": 1800.5,
+      "end": 1802.5,
+      "text": "You're not allowed to use special moves. It's only me."
+    },
+    {
+      "id": 448,
+      "start": 1802.5,
+      "end": 1804.5,
+      "text": "What am I doing?"
+    },
+    {
+      "id": 449,
+      "start": 1804.5,
+      "end": 1806.5,
+      "text": "Yeah, there we go."
+    },
+    {
+      "id": 450,
+      "start": 1808.5,
+      "end": 1810.5,
+      "text": "Oh, shit. Why did I..."
+    },
+    {
+      "id": 451,
+      "start": 1812.5,
+      "end": 1814.5,
+      "text": "Continue to unlock Shoshinjo."
+    },
+    {
+      "id": 452,
+      "start": 1814.5,
+      "end": 1818.2,
+      "text": "That's ridiculous."
+    },
+    {
+      "id": 453,
+      "start": 1818.2,
+      "end": 1820.2,
+      "text": "I just need to save state with show online."
+    },
+    {
+      "id": 454,
+      "start": 1820.2,
+      "end": 1822.2,
+      "text": "Oh, yeah. Get fucking blasted on."
+    },
+    {
+      "id": 455,
+      "start": 1822.2,
+      "end": 1825.48,
+      "text": "No!"
+    },
+    {
+      "id": 456,
+      "start": 1825.48,
+      "end": 1827.48,
+      "text": "Damn it, it was so close."
+    },
+    {
+      "id": 457,
+      "start": 1827.48,
+      "end": 1829.48,
+      "text": "Oh, she's going to fall off."
+    },
+    {
+      "id": 458,
+      "start": 1829.48,
+      "end": 1831.48,
+      "text": "Yes!"
+    },
+    {
+      "id": 459,
+      "start": 1831.48,
+      "end": 1833.48,
+      "text": "Draw! She died."
+    },
+    {
+      "id": 460,
+      "start": 1833.48,
+      "end": 1835.48,
+      "text": "More than me. She died. She fell so far."
+    },
+    {
+      "id": 461,
+      "start": 1851.03,
+      "end": 1853.03,
+      "text": "Lady."
+    },
+    {
+      "id": 462,
+      "start": 1853.03,
+      "end": 1855.03,
+      "text": "Tech, tech, tech."
+    },
+    {
+      "id": 463,
+      "start": 1855.03,
+      "end": 1857.03,
+      "text": "You get it."
+    },
+    {
+      "id": 464,
+      "start": 1857.03,
+      "end": 1859.03,
+      "text": "I don't..."
+    },
+    {
+      "id": 465,
+      "start": 1859.03,
+      "end": 1861.03,
+      "text": "I don't get it, Brick."
+    },
+    {
+      "id": 466,
+      "start": 1861.03,
+      "end": 1863.03,
+      "text": "I don't understand that at all."
+    },
+    {
+      "id": 467,
+      "start": 1863.03,
+      "end": 1868.26,
+      "text": "Dude, I do not know"
+    },
+    {
+      "id": 468,
+      "start": 1868.26,
+      "end": 1870.26,
+      "text": "how to do this ball move."
+    },
+    {
+      "id": 469,
+      "start": 1870.26,
+      "end": 1872.26,
+      "text": "Oh, it's double buttons."
+    },
+    {
+      "id": 470,
+      "start": 1872.26,
+      "end": 1876.34,
+      "text": "That doesn't make sense to say..."
+    },
+    {
+      "id": 471,
+      "start": 1876.34,
+      "end": 1878.34,
+      "text": "No!"
+    },
+    {
+      "id": 472,
+      "start": 1878.34,
+      "end": 1885.24,
+      "text": "I'm the ghost of Andy Rooney."
+    },
+    {
+      "id": 473,
+      "start": 1885.24,
+      "end": 1887.24,
+      "text": "And this isn't 60 minutes."
+    },
+    {
+      "id": 474,
+      "start": 1887.24,
+      "end": 1889.24,
+      "text": "For the record, I don't like feet."
+    },
+    {
+      "id": 475,
+      "start": 1889.24,
+      "end": 1891.24,
+      "text": "I was more of a hands guy."
+    },
+    {
+      "id": 476,
+      "start": 1891.24,
+      "end": 1893.24,
+      "text": "That AI abomination"
+    },
+    {
+      "id": 477,
+      "start": 1893.24,
+      "end": 1895.24,
+      "text": "doesn't represent my views."
+    },
+    {
+      "id": 478,
+      "start": 1895.24,
+      "end": 1897.24,
+      "text": "Brick, you're Brick Lizard."
+    },
+    {
+      "id": 479,
+      "start": 1897.24,
+      "end": 1899.24,
+      "text": "What are you even talking about?"
+    },
+    {
+      "id": 480,
+      "start": 1899.24,
+      "end": 1902.68,
+      "text": "Fuck. Okay, well, this game's impossible."
+    },
+    {
+      "id": 481,
+      "start": 1902.68,
+      "end": 1904.68,
+      "text": "Any time, any there."
+    },
+    {
+      "id": 482,
+      "start": 1904.68,
+      "end": 1906.68,
+      "text": "Look at this girl's body proportions."
+    },
+    {
+      "id": 483,
+      "start": 1906.68,
+      "end": 1908.68,
+      "text": "They're not even real. What? Oh, there was a draw."
+    },
+    {
+      "id": 484,
+      "start": 1908.68,
+      "end": 1910.68,
+      "text": "I forgot about the draw."
+    },
+    {
+      "id": 485,
+      "start": 1910.68,
+      "end": 1926.18,
+      "text": "Okay, wait. I got to look up..."
+    },
+    {
+      "id": 486,
+      "start": 1926.18,
+      "end": 1928.18,
+      "text": "What's this guy's name? His name is Foe?"
+    },
+    {
+      "id": 487,
+      "start": 1928.18,
+      "end": 1930.18,
+      "text": "I got to find out how to do this one move"
+    },
+    {
+      "id": 488,
+      "start": 1930.18,
+      "end": 1932.18,
+      "text": "so I can just spam it."
+    },
+    {
+      "id": 489,
+      "start": 1932.18,
+      "end": 1934.18,
+      "text": "Foe."
+    },
+    {
+      "id": 490,
+      "start": 1934.18,
+      "end": 1936.18,
+      "text": "Battle Arena Toshinden"
+    },
+    {
+      "id": 491,
+      "start": 1936.18,
+      "end": 1938.18,
+      "text": "Moves."
+    },
+    {
+      "id": 492,
+      "start": 1938.18,
+      "end": 1940.18,
+      "text": "Move list."
+    },
+    {
+      "id": 493,
+      "start": 1940.18,
+      "end": 1942.18,
+      "text": "Um..."
+    },
+    {
+      "id": 494,
+      "start": 1942.18,
+      "end": 1946.58,
+      "text": "For Foe, please."
+    },
+    {
+      "id": 495,
+      "start": 1946.58,
+      "end": 1948.58,
+      "text": "Oh my god, why does this..."
+    },
+    {
+      "id": 496,
+      "start": 1948.58,
+      "end": 1950.58,
+      "text": "I can't even search him in here because..."
+    },
+    {
+      "id": 497,
+      "start": 1950.58,
+      "end": 1952.58,
+      "text": "Okay."
+    },
+    {
+      "id": 498,
+      "start": 1952.58,
+      "end": 1954.58,
+      "text": "Dawn Pop-off."
+    },
+    {
+      "id": 499,
+      "start": 1954.58,
+      "end": 1956.58,
+      "text": "Forward, down, forward, down, down, back, B, slash."
+    },
+    {
+      "id": 500,
+      "start": 1956.58,
+      "end": 1958.58,
+      "text": "Protap, the secret move for the character you selected"
+    },
+    {
+      "id": 501,
+      "start": 1958.58,
+      "end": 1960.58,
+      "text": "is up, up, slash, down,"
+    },
+    {
+      "id": 502,
+      "start": 1960.58,
+      "end": 1962.58,
+      "text": "forward, up, kick,"
+    },
+    {
+      "id": 503,
+      "start": 1962.58,
+      "end": 1964.58,
+      "text": "up, up, slash, down,"
+    },
+    {
+      "id": 504,
+      "start": 1964.58,
+      "end": 1966.58,
+      "text": "forward, left."
+    },
+    {
+      "id": 505,
+      "start": 1966.58,
+      "end": 1968.58,
+      "text": "I wonder what slash is."
+    },
+    {
+      "id": 506,
+      "start": 1968.58,
+      "end": 1970.58,
+      "text": "Forward,"
+    },
+    {
+      "id": 507,
+      "start": 1970.58,
+      "end": 1972.58,
+      "text": "down, forward, oh, so it's just a sweep"
+    },
+    {
+      "id": 508,
+      "start": 1972.58,
+      "end": 1974.58,
+      "text": "back and slash."
+    },
+    {
+      "id": 509,
+      "start": 1974.58,
+      "end": 1977.86,
+      "text": "Okay."
+    },
+    {
+      "id": 510,
+      "start": 1977.86,
+      "end": 1979.86,
+      "text": "Down, down,"
+    },
+    {
+      "id": 511,
+      "start": 1979.86,
+      "end": 1981.86,
+      "text": "okay, so all this shit's like backwards."
+    },
+    {
+      "id": 512,
+      "start": 1981.86,
+      "end": 1983.86,
+      "text": "This is crazy."
+    },
+    {
+      "id": 513,
+      "start": 1983.86,
+      "end": 1985.86,
+      "text": "Forward, okay, so I have to do a sweep"
+    },
+    {
+      "id": 514,
+      "start": 1985.86,
+      "end": 1987.86,
+      "text": "backwards. Alright."
+    },
+    {
+      "id": 515,
+      "start": 1987.86,
+      "end": 1989.86,
+      "text": "This should be pretty easy for someone as good"
+    },
+    {
+      "id": 516,
+      "start": 1989.86,
+      "end": 1994.04,
+      "text": "at games as me."
+    },
+    {
+      "id": 517,
+      "start": 1994.04,
+      "end": 2013.86,
+      "text": "Stop it, stop it."
+    },
+    {
+      "id": 518,
+      "start": 2013.86,
+      "end": 2015.86,
+      "text": "You see that? You see that?"
+    },
+    {
+      "id": 519,
+      "start": 2015.86,
+      "end": 2017.86,
+      "text": "Oh no, no, no, no."
+    },
+    {
+      "id": 520,
+      "start": 2017.86,
+      "end": 2021.72,
+      "text": "Stop it."
+    },
+    {
+      "id": 521,
+      "start": 2021.72,
+      "end": 2023.72,
+      "text": "Stop it, Foe."
+    },
+    {
+      "id": 522,
+      "start": 2023.72,
+      "end": 2028.66,
+      "text": "Getting carried away."
+    },
+    {
+      "id": 523,
+      "start": 2028.66,
+      "end": 2030.66,
+      "text": "I tricked her. I thought I made it look so easy flying around"
+    },
+    {
+      "id": 524,
+      "start": 2030.66,
+      "end": 2032.66,
+      "text": "the map. She tried it."
+    },
+    {
+      "id": 525,
+      "start": 2032.66,
+      "end": 2034.66,
+      "text": "And now she's dead."
+    },
+    {
+      "id": 526,
+      "start": 2034.66,
+      "end": 2039.26,
+      "text": "So it goes."
+    },
+    {
+      "id": 527,
+      "start": 2039.26,
+      "end": 2041.26,
+      "text": "A revolution."
+    },
+    {
+      "id": 528,
+      "start": 2047.26,
+      "end": 2050.57,
+      "text": "No."
+    },
+    {
+      "id": 529,
+      "start": 2050.57,
+      "end": 2052.57,
+      "text": "Not at all, mom. Try again."
+    },
+    {
+      "id": 530,
+      "start": 2052.57,
+      "end": 2055.88,
+      "text": "I'm playing as an old man actually."
+    },
+    {
+      "id": 531,
+      "start": 2055.88,
+      "end": 2057.88,
+      "text": "And I'm killing women."
+    },
+    {
+      "id": 532,
+      "start": 2057.88,
+      "end": 2059.88,
+      "text": "So try again, mom."
+    },
+    {
+      "id": 533,
+      "start": 2059.88,
+      "end": 2074.39,
+      "text": "Oh my god."
+    },
+    {
+      "id": 534,
+      "start": 2074.39,
+      "end": 2083.14,
+      "text": "Ah, Brick was."
+    },
+    {
+      "id": 535,
+      "start": 2091.14,
+      "end": 2095.03,
+      "text": "Whatever you're saying sounds psychotic."
+    },
+    {
+      "id": 536,
+      "start": 2095.03,
+      "end": 2097.03,
+      "text": "And I think you're having a mental break."
+    },
+    {
+      "id": 537,
+      "start": 2097.03,
+      "end": 2099.03,
+      "text": "Okay, Brick. Okay."
+    },
+    {
+      "id": 538,
+      "start": 2099.03,
+      "end": 2112.2,
+      "text": "Did you see these moves?"
+    },
+    {
+      "id": 539,
+      "start": 2112.2,
+      "end": 2114.2,
+      "text": "Look at this. Wow."
+    },
+    {
+      "id": 540,
+      "start": 2114.2,
+      "end": 2116.2,
+      "text": "I'm a beautiful dancer."
+    },
+    {
+      "id": 541,
+      "start": 2116.2,
+      "end": 2120.38,
+      "text": "It's incredible."
+    },
+    {
+      "id": 542,
+      "start": 2120.38,
+      "end": 2130.92,
+      "text": "And then I just claws stupid face."
+    },
+    {
+      "id": 543,
+      "start": 2130.92,
+      "end": 2132.92,
+      "text": "Stop it, stop it, stop it. Stop doing that to me."
+    },
+    {
+      "id": 544,
+      "start": 2132.92,
+      "end": 2134.92,
+      "text": "I need to, I need to skate velocity."
+    },
+    {
+      "id": 545,
+      "start": 2134.92,
+      "end": 2140.09,
+      "text": "Okay, good."
+    },
+    {
+      "id": 546,
+      "start": 2140.09,
+      "end": 2142.09,
+      "text": "Oh god, what the hell?"
+    },
+    {
+      "id": 547,
+      "start": 2142.09,
+      "end": 2144.09,
+      "text": "I did it."
+    },
+    {
+      "id": 548,
+      "start": 2144.09,
+      "end": 2149.93,
+      "text": "I did the move that I've been trying to do."
+    },
+    {
+      "id": 549,
+      "start": 2149.93,
+      "end": 2154.62,
+      "text": "No."
+    },
+    {
+      "id": 550,
+      "start": 2154.62,
+      "end": 2156.62,
+      "text": "Fuck."
+    },
+    {
+      "id": 551,
+      "start": 2164.62,
+      "end": 2166.62,
+      "text": "Shit."
+    },
+    {
+      "id": 552,
+      "start": 2166.62,
+      "end": 2170.62,
+      "text": "I gotta pause this. I gotta figure out what this flying move is."
+    },
+    {
+      "id": 553,
+      "start": 2170.62,
+      "end": 2176.89,
+      "text": "The one that sends me into the air."
+    },
+    {
+      "id": 554,
+      "start": 2176.89,
+      "end": 2178.89,
+      "text": "Hayaki Moshe Ken."
+    },
+    {
+      "id": 555,
+      "start": 2178.89,
+      "end": 2180.89,
+      "text": "Forward, down, forward."
+    },
+    {
+      "id": 556,
+      "start": 2180.89,
+      "end": 2182.89,
+      "text": "Down, down, back."
+    },
+    {
+      "id": 557,
+      "start": 2182.89,
+      "end": 2184.89,
+      "text": "Back, down, back."
+    },
+    {
+      "id": 558,
+      "start": 2184.89,
+      "end": 2186.89,
+      "text": "Oh, it's like two sweeps."
+    },
+    {
+      "id": 559,
+      "start": 2186.89,
+      "end": 2190.89,
+      "text": "I sweep forward to the back and then back to the foe."
+    },
+    {
+      "id": 560,
+      "start": 2190.89,
+      "end": 2192.89,
+      "text": "Okay."
+    },
+    {
+      "id": 561,
+      "start": 2192.89,
+      "end": 2194.89,
+      "text": "Now we understand the power of foe."
+    },
+    {
+      "id": 562,
+      "start": 2194.89,
+      "end": 2202.63,
+      "text": "Brandon, use old man blue balls to win."
+    },
+    {
+      "id": 563,
+      "start": 2202.63,
+      "end": 2219.58,
+      "text": "Stop doing combos to me."
+    },
+    {
+      "id": 564,
+      "start": 2219.58,
+      "end": 2227.62,
+      "text": "It's literally cheating."
+    },
+    {
+      "id": 565,
+      "start": 2227.62,
+      "end": 2229.62,
+      "text": "Get clawed to death. Oh, it worked."
+    },
+    {
+      "id": 566,
+      "start": 2229.62,
+      "end": 2231.62,
+      "text": "I just had to claws face about 10 times."
+    },
+    {
+      "id": 567,
+      "start": 2231.62,
+      "end": 2239.3,
+      "text": "This is the best character in a fighting game ever."
+    },
+    {
+      "id": 568,
+      "start": 2239.3,
+      "end": 2241.3,
+      "text": "What?"
+    },
+    {
+      "id": 569,
+      "start": 2241.3,
+      "end": 2243.3,
+      "text": "Up, up, slash, down, forward."
+    },
+    {
+      "id": 570,
+      "start": 2243.3,
+      "end": 2247.3,
+      "text": "Up, up, slash, down, forward, left."
+    },
+    {
+      "id": 571,
+      "start": 2247.3,
+      "end": 2251.3,
+      "text": "I got this often, FAQs, I swear."
+    },
+    {
+      "id": 572,
+      "start": 2251.3,
+      "end": 2253.3,
+      "text": "It seemed like a lot, mom."
+    },
+    {
+      "id": 573,
+      "start": 2253.3,
+      "end": 2260.12,
+      "text": "And yet I'm already pulling this move off so beautifully."
+    },
+    {
+      "id": 574,
+      "start": 2260.12,
+      "end": 2277.5,
+      "text": "I'm already using it to beat up this woman in a CPU dress."
+    },
+    {
+      "id": 575,
+      "start": 2277.5,
+      "end": 2279.5,
+      "text": "That's the sound of victory."
+    },
+    {
+      "id": 576,
+      "start": 2279.5,
+      "end": 2296.94,
+      "text": "How many people do I have to beat?"
+    },
+    {
+      "id": 577,
+      "start": 2296.94,
+      "end": 2298.94,
+      "text": "Stop it, you're beating up an old man."
+    },
+    {
+      "id": 578,
+      "start": 2298.94,
+      "end": 2306.98,
+      "text": "He's messed up with you."
+    },
+    {
+      "id": 579,
+      "start": 2306.98,
+      "end": 2308.98,
+      "text": "Oh my God."
+    },
+    {
+      "id": 580,
+      "start": 2308.98,
+      "end": 2350.66,
+      "text": "Take it easy, I'm old."
+    },
+    {
+      "id": 581,
+      "start": 2350.66,
+      "end": 2354.36,
+      "text": "Do you see my strategy? It was to slash her with my pokes."
+    },
+    {
+      "id": 582,
+      "start": 2354.36,
+      "end": 2356.36,
+      "text": "Oh, whatever."
+    },
+    {
+      "id": 583,
+      "start": 2356.36,
+      "end": 2358.36,
+      "text": "I think I'm impressed."
+    },
+    {
+      "id": 584,
+      "start": 2358.36,
+      "end": 2362.36,
+      "text": "I'm legitimately not impressed by your moves."
+    },
+    {
+      "id": 585,
+      "start": 2362.36,
+      "end": 2364.36,
+      "text": "Why won't my balls go blue anymore?"
+    },
+    {
+      "id": 586,
+      "start": 2364.36,
+      "end": 2371.77,
+      "text": "Flying kick."
+    },
+    {
+      "id": 587,
+      "start": 2371.77,
+      "end": 2375.05,
+      "text": "Carter Joe showed me his mystic fears long ago."
+    },
+    {
+      "id": 588,
+      "start": 2375.05,
+      "end": 2377.05,
+      "text": "My very own blue for long."
+    },
+    {
+      "id": 589,
+      "start": 2377.05,
+      "end": 2379.05,
+      "text": "Okay, well, then he probably wasn't focusing."
+    },
+    {
+      "id": 590,
+      "start": 2379.05,
+      "end": 2381.05,
+      "text": "He probably couldn't keep his fear going."
+    },
+    {
+      "id": 591,
+      "start": 2381.05,
+      "end": 2383.05,
+      "text": "It probably collapsed."
+    },
+    {
+      "id": 592,
+      "start": 2383.05,
+      "end": 2385.05,
+      "text": "Just do the blue ball move."
+    },
+    {
+      "id": 593,
+      "start": 2385.05,
+      "end": 2387.05,
+      "text": "Yes!"
+    },
+    {
+      "id": 594,
+      "start": 2387.05,
+      "end": 2399.29,
+      "text": "Oh, I'm going to get him."
+    },
+    {
+      "id": 595,
+      "start": 2399.29,
+      "end": 2401.29,
+      "text": "Blue ball move."
+    },
+    {
+      "id": 596,
+      "start": 2401.29,
+      "end": 2403.29,
+      "text": "Yes!"
+    },
+    {
+      "id": 597,
+      "start": 2403.29,
+      "end": 2405.29,
+      "text": "No, no, the blue ball move, dude."
+    },
+    {
+      "id": 598,
+      "start": 2405.29,
+      "end": 2412.6,
+      "text": "You know our bread and butter."
+    },
+    {
+      "id": 599,
+      "start": 2412.6,
+      "end": 2414.6,
+      "text": "Have been your biggest weakness."
+    },
+    {
+      "id": 600,
+      "start": 2414.6,
+      "end": 2416.6,
+      "text": "Yeah."
+    },
+    {
+      "id": 601,
+      "start": 2416.6,
+      "end": 2418.6,
+      "text": "Honestly, I'm more upper body strength."
+    },
+    {
+      "id": 602,
+      "start": 2418.6,
+      "end": 2420.6,
+      "text": "That's just facts."
+    },
+    {
+      "id": 603,
+      "start": 2420.6,
+      "end": 2422.6,
+      "text": "Wait, what were you trying to say?"
+    },
+    {
+      "id": 604,
+      "start": 2422.6,
+      "end": 2424.6,
+      "text": "Bow one."
+    },
+    {
+      "id": 605,
+      "start": 2424.6,
+      "end": 2428.1,
+      "text": "Shoot the knee."
+    },
+    {
+      "id": 606,
+      "start": 2428.1,
+      "end": 2430.1,
+      "text": "No, don't do this to me, edgy."
+    },
+    {
+      "id": 607,
+      "start": 2430.1,
+      "end": 2432.1,
+      "text": "I just want to meet your brother in his boots."
+    },
+    {
+      "id": 608,
+      "start": 2432.1,
+      "end": 2443.1,
+      "text": "I baited him."
+    },
+    {
+      "id": 609,
+      "start": 2443.1,
+      "end": 2445.1,
+      "text": "I baited him."
+    },
+    {
+      "id": 610,
+      "start": 2445.1,
+      "end": 2447.1,
+      "text": "Get out of here."
+    },
+    {
+      "id": 611,
+      "start": 2447.1,
+      "end": 2449.1,
+      "text": "Do the kick."
+    },
+    {
+      "id": 612,
+      "start": 2451.1,
+      "end": 2453.1,
+      "text": "What?"
+    },
+    {
+      "id": 613,
+      "start": 2453.1,
+      "end": 2455.1,
+      "text": "It's all yellow and smells like bleach."
+    },
+    {
+      "id": 614,
+      "start": 2455.1,
+      "end": 2457.1,
+      "text": "No problem."
+    },
+    {
+      "id": 615,
+      "start": 2457.1,
+      "end": 2459.1,
+      "text": "Is it yours?"
+    },
+    {
+      "id": 616,
+      "start": 2459.1,
+      "end": 2461.1,
+      "text": "Yeah."
+    },
+    {
+      "id": 617,
+      "start": 2461.1,
+      "end": 2463.1,
+      "text": "Yeah, it's where I was keeping banana milk."
+    },
+    {
+      "id": 618,
+      "start": 2463.1,
+      "end": 2465.1,
+      "text": "But it turns out, socks aren't good for storing liquids."
+    },
+    {
+      "id": 619,
+      "start": 2465.1,
+      "end": 2467.1,
+      "text": "I was trying to store some old banana milk"
+    },
+    {
+      "id": 620,
+      "start": 2467.1,
+      "end": 2469.1,
+      "text": "in a sock."
+    },
+    {
+      "id": 621,
+      "start": 2469.1,
+      "end": 2471.1,
+      "text": "I'm not sure if I can get it."
+    },
+    {
+      "id": 622,
+      "start": 2471.1,
+      "end": 2473.1,
+      "text": "I'm not sure if I can get banana milk in a sock."
+    },
+    {
+      "id": 623,
+      "start": 2473.1,
+      "end": 2475.1,
+      "text": "But it leaked out, I guess."
+    },
+    {
+      "id": 624,
+      "start": 2475.1,
+      "end": 2477.1,
+      "text": "I guess it leaked out."
+    },
+    {
+      "id": 625,
+      "start": 2477.1,
+      "end": 2479.1,
+      "text": "I tried to clean it up with bleach by jumping bleach"
+    },
+    {
+      "id": 626,
+      "start": 2479.1,
+      "end": 2481.1,
+      "text": "on the sock in the carpet that the sock was on."
+    },
+    {
+      "id": 627,
+      "start": 2481.1,
+      "end": 2483.1,
+      "text": "It didn't work that well, honestly."
+    },
+    {
+      "id": 628,
+      "start": 2483.1,
+      "end": 2487.05,
+      "text": "Cleaning products don't really work."
+    },
+    {
+      "id": 629,
+      "start": 2487.05,
+      "end": 2489.05,
+      "text": "I'll steam while playing this."
+    },
+    {
+      "id": 630,
+      "start": 2489.05,
+      "end": 2491.05,
+      "text": "I hear it goes with everything."
+    },
+    {
+      "id": 631,
+      "start": 2491.05,
+      "end": 2493.05,
+      "text": "What?"
+    },
+    {
+      "id": 632,
+      "start": 2493.05,
+      "end": 2495.05,
+      "text": "But I'm dying."
+    },
+    {
+      "id": 633,
+      "start": 2495.05,
+      "end": 2498.3,
+      "text": "Okay, one second."
+    },
+    {
+      "id": 634,
+      "start": 2498.3,
+      "end": 2500.3,
+      "text": "If I don't start winning, though, Brick,"
+    },
+    {
+      "id": 635,
+      "start": 2500.3,
+      "end": 2502.3,
+      "text": "then"
+    },
+    {
+      "id": 636,
+      "start": 2502.3,
+      "end": 2504.3,
+      "text": "you're banned."
+    },
+    {
+      "id": 637,
+      "start": 2504.3,
+      "end": 2506.3,
+      "text": "You're not. I don't think I can ban you because you're the CIA."
+    },
+    {
+      "id": 638,
+      "start": 2506.3,
+      "end": 2511.18,
+      "text": "Okay."
+    },
+    {
+      "id": 639,
+      "start": 2511.18,
+      "end": 2516.63,
+      "text": "Now I should be able to do this, right?"
+    },
+    {
+      "id": 640,
+      "start": 2516.63,
+      "end": 2523.37,
+      "text": "Shazam!"
+    },
+    {
+      "id": 641,
+      "start": 2523.37,
+      "end": 2525.37,
+      "text": "Oh, what's wrong, baby?"
+    },
+    {
+      "id": 642,
+      "start": 2525.37,
+      "end": 2527.37,
+      "text": "I don't think that's what I'm gonna do."
+    },
+    {
+      "id": 643,
+      "start": 2527.37,
+      "end": 2533.98,
+      "text": "Oh, walk out."
+    },
+    {
+      "id": 644,
+      "start": 2533.98,
+      "end": 2535.98,
+      "text": "It didn't work at all."
+    },
+    {
+      "id": 645,
+      "start": 2535.98,
+      "end": 2537.98,
+      "text": "The guile theme made me play worse."
+    },
+    {
+      "id": 646,
+      "start": 2537.98,
+      "end": 2541.35,
+      "text": "Fuck."
+    },
+    {
+      "id": 647,
+      "start": 2541.35,
+      "end": 2543.35,
+      "text": "It's not my fault. It's because I had to pause for the theme."
+    },
+    {
+      "id": 648,
+      "start": 2543.35,
+      "end": 2548.94,
+      "text": "So why can't we casual pause?"
+    },
+    {
+      "id": 649,
+      "start": 2548.94,
+      "end": 2550.94,
+      "text": "Because I can't focus while I'm wearing..."
+    },
+    {
+      "id": 650,
+      "start": 2550.94,
+      "end": 2552.94,
+      "text": "while I'm not wearing a blazer."
+    },
+    {
+      "id": 651,
+      "start": 2552.94,
+      "end": 2554.94,
+      "text": "Like a cool bolt."
+    },
+    {
+      "id": 652,
+      "start": 2554.94,
+      "end": 2558.82,
+      "text": "All right, guys."
+    },
+    {
+      "id": 653,
+      "start": 2558.82,
+      "end": 2560.82,
+      "text": "It's gonna do it."
+    },
+    {
+      "id": 654,
+      "start": 2560.82,
+      "end": 2562.82,
+      "text": "Saab, Breechie."
+    },
+    {
+      "id": 655,
+      "start": 2562.82,
+      "end": 2564.82,
+      "text": "Got me thinking. Spin City is the only thing that calms my foot fetish."
+    },
+    {
+      "id": 656,
+      "start": 2564.82,
+      "end": 2568.81,
+      "text": "Okay."
+    },
+    {
+      "id": 657,
+      "start": 2568.81,
+      "end": 2570.81,
+      "text": "That's fine, Brick."
+    },
+    {
+      "id": 658,
+      "start": 2570.81,
+      "end": 2572.81,
+      "text": "I mean, I don't know what"
+    },
+    {
+      "id": 659,
+      "start": 2572.81,
+      "end": 2574.81,
+      "text": "either of those things are exactly,"
+    },
+    {
+      "id": 660,
+      "start": 2574.81,
+      "end": 2576.81,
+      "text": "but just relax."
+    },
+    {
+      "id": 661,
+      "start": 2576.81,
+      "end": 2578.81,
+      "text": "Okay, everybody."
+    },
+    {
+      "id": 662,
+      "start": 2578.81,
+      "end": 2580.81,
+      "text": "It's gonna do it for now."
+    },
+    {
+      "id": 663,
+      "start": 2580.81,
+      "end": 2582.81,
+      "text": "Let's set it back to the new game."
+    },
+    {
+      "id": 664,
+      "start": 2582.81,
+      "end": 2584.81,
+      "text": "Let's set it back to the new studio."
+    },
+    {
+      "id": 665,
+      "start": 2584.81,
+      "end": 2586.81,
+      "text": "We're some guy standing by or something."
+    },
+    {
+      "id": 666,
+      "start": 2586.81,
+      "end": 2588.81,
+      "text": "I don't... I mean, whatever."
+    },
+    {
+      "id": 667,
+      "start": 2588.81,
+      "end": 2590.81,
+      "text": "It's news time."
+    },
+    {
+      "id": 668,
+      "start": 2590.81,
+      "end": 2598.92,
+      "text": "Alright, everybody."
+    },
+    {
+      "id": 669,
+      "start": 2598.92,
+      "end": 2619.99,
+      "text": "We're gonna count that as a stream."
+    },
+    {
+      "id": 670,
+      "start": 2619.99,
+      "end": 2621.99,
+      "text": "No one can deny that that was a stream that existed."
+    },
+    {
+      "id": 671,
+      "start": 2621.99,
+      "end": 2623.99,
+      "text": "Man, AI really given us more trouble than ever today."
+    },
+    {
+      "id": 672,
+      "start": 2623.99,
+      "end": 2627.4,
+      "text": "By breaking the stream repeatedly."
+    },
+    {
+      "id": 673,
+      "start": 2627.4,
+      "end": 2629.4,
+      "text": "G, G's indeed, Brendan's mom."
+    },
+    {
+      "id": 674,
+      "start": 2629.4,
+      "end": 2631.4,
+      "text": "I don't know how you're piping in here right now,"
+    },
+    {
+      "id": 675,
+      "start": 2631.4,
+      "end": 2633.4,
+      "text": "but just coming to sign us off with the mat"
+    },
+    {
+      "id": 676,
+      "start": 2633.4,
+      "end": 2635.4,
+      "text": "to say goodbye to you."
+    },
+    {
+      "id": 677,
+      "start": 2635.4,
+      "end": 2637.4,
+      "text": "I'm gonna go back to the studio"
+    },
+    {
+      "id": 678,
+      "start": 2637.4,
+      "end": 2639.4,
+      "text": "just coming to sign us off with the mat tat."
+    },
+    {
+      "id": 679,
+      "start": 2639.4,
+      "end": 2641.4,
+      "text": "This might be the last time we ever see it."
+    },
+    {
+      "id": 680,
+      "start": 2641.4,
+      "end": 2643.4,
+      "text": "This might be the last time we ever see it."
+    },
+    {
+      "id": 681,
+      "start": 2643.4,
+      "end": 2645.4,
+      "text": "Ooh."
+    },
+    {
+      "id": 682,
+      "start": 2645.4,
+      "end": 2647.4,
+      "text": "Ooh."
+    },
+    {
+      "id": 683,
+      "start": 2647.4,
+      "end": 2649.4,
+      "text": "I should put it here next time so you can be on my"
+    },
+    {
+      "id": 684,
+      "start": 2649.4,
+      "end": 2651.4,
+      "text": "very white skin."
+    },
+    {
+      "id": 685,
+      "start": 2651.4,
+      "end": 2653.4,
+      "text": "Grotesquely white."
+    },
+    {
+      "id": 686,
+      "start": 2653.4,
+      "end": 2656.87,
+      "text": "Yeah, we had the guns out today to show off the mat tat."
+    },
+    {
+      "id": 687,
+      "start": 2656.87,
+      "end": 2658.87,
+      "text": "Yeah, we had the guns out today to show off the mat tat."
+    },
+    {
+      "id": 688,
+      "start": 2658.87,
+      "end": 2660.87,
+      "text": "And honestly, because Kendall took one,"
+    },
+    {
+      "id": 689,
+      "start": 2660.87,
+      "end": 2662.87,
+      "text": "I only have eight more of these."
+    },
+    {
+      "id": 690,
+      "start": 2662.87,
+      "end": 2664.87,
+      "text": "Not enough!"
+    },
+    {
+      "id": 691,
+      "start": 2664.87,
+      "end": 2666.87,
+      "text": "Not enough mat tats."
+    },
+    {
+      "id": 692,
+      "start": 2666.87,
+      "end": 2668.87,
+      "text": "What was the deal with some of the stuff"
+    },
+    {
+      "id": 693,
+      "start": 2668.87,
+      "end": 2670.87,
+      "text": "AI pretty was saying today?"
+    },
+    {
+      "id": 694,
+      "start": 2670.87,
+      "end": 2674.73,
+      "text": "I could let you in on how it works"
+    },
+    {
+      "id": 695,
+      "start": 2674.73,
+      "end": 2676.73,
+      "text": "because I talked to Chet."
+    },
+    {
+      "id": 696,
+      "start": 2676.73,
+      "end": 2678.73,
+      "text": "But even knowing how it works,"
+    },
+    {
+      "id": 697,
+      "start": 2678.73,
+      "end": 2680.73,
+      "text": "which is not complicated, sometimes he says something"
+    },
+    {
+      "id": 698,
+      "start": 2680.73,
+      "end": 2682.73,
+      "text": "and I'm like, what was that one?"
+    },
+    {
+      "id": 699,
+      "start": 2682.73,
+      "end": 2684.73,
+      "text": "A stream giveaway, yeah."
+    },
+    {
+      "id": 700,
+      "start": 2684.73,
+      "end": 2686.73,
+      "text": "Um, okay."
+    },
+    {
+      "id": 701,
+      "start": 2686.73,
+      "end": 2688.73,
+      "text": "Let's see who is on."
+    },
+    {
+      "id": 702,
+      "start": 2688.73,
+      "end": 2692.01,
+      "text": "It's gonna be stuck in my head for the next two weeks."
+    },
+    {
+      "id": 703,
+      "start": 2692.01,
+      "end": 2696.12,
+      "text": "Do you mean the guile theme?"
+    },
+    {
+      "id": 704,
+      "start": 2696.12,
+      "end": 2698.12,
+      "text": "It's always in there anyway."
+    },
+    {
+      "id": 705,
+      "start": 2698.12,
+      "end": 2700.12,
+      "text": "Show off the pythons, we've been talking about it."
+    },
+    {
+      "id": 706,
+      "start": 2700.12,
+      "end": 2702.12,
+      "text": "Anyway, show off the pythons."
+    },
+    {
+      "id": 707,
+      "start": 2702.12,
+      "end": 2704.12,
+      "text": "We've been showing off these pythons all day."
+    },
+    {
+      "id": 708,
+      "start": 2704.12,
+      "end": 2706.12,
+      "text": "Thanks to Matt for providing his face."
+    },
+    {
+      "id": 709,
+      "start": 2706.12,
+      "end": 2708.12,
+      "text": "Thanks to Live and Sleazy for"
+    },
+    {
+      "id": 710,
+      "start": 2708.12,
+      "end": 2710.12,
+      "text": "always providing the ROMs,"
+    },
+    {
+      "id": 711,
+      "start": 2710.12,
+      "end": 2712.12,
+      "text": "even though Brendan is not smart"
+    },
+    {
+      "id": 712,
+      "start": 2712.12,
+      "end": 2714.12,
+      "text": "and doesn't get how to load them."
+    },
+    {
+      "id": 713,
+      "start": 2714.12,
+      "end": 2716.12,
+      "text": "Even when it's as simple as clicking on a web browser,"
+    },
+    {
+      "id": 714,
+      "start": 2716.12,
+      "end": 2718.12,
+      "text": "it confuses him somehow."
+    },
+    {
+      "id": 715,
+      "start": 2718.12,
+      "end": 2721.62,
+      "text": "His problem, not mine."
+    },
+    {
+      "id": 716,
+      "start": 2721.62,
+      "end": 2723.62,
+      "text": "Oh, his son is on."
+    },
+    {
+      "id": 717,
+      "start": 2723.62,
+      "end": 2729.24,
+      "text": "Gosh, his son's on."
+    },
+    {
+      "id": 718,
+      "start": 2729.24,
+      "end": 2731.24,
+      "text": "Yeah, I don't..."
+    },
+    {
+      "id": 719,
+      "start": 2731.24,
+      "end": 2733.24,
+      "text": "I don't know. There's a chance."
+    },
+    {
+      "id": 720,
+      "start": 2733.24,
+      "end": 2735.24,
+      "text": "Definitely if we ever had more viewers,"
+    },
+    {
+      "id": 721,
+      "start": 2735.24,
+      "end": 2738.24,
+      "text": "we couldn't do AI Rooney as it is right now."
+    },
+    {
+      "id": 722,
+      "start": 2738.24,
+      "end": 2740.24,
+      "text": "For a number of reasons, but..."
+    },
+    {
+      "id": 723,
+      "start": 2740.24,
+      "end": 2744.38,
+      "text": "Sometimes he just..."
+    },
+    {
+      "id": 724,
+      "start": 2744.38,
+      "end": 2746.38,
+      "text": "Sometimes he really goes into business for himself."
+    },
+    {
+      "id": 725,
+      "start": 2746.38,
+      "end": 2749.24,
+      "text": "I'll put it that way."
+    },
+    {
+      "id": 726,
+      "start": 2749.24,
+      "end": 2752.49,
+      "text": "But maybe there's a way to..."
+    },
+    {
+      "id": 727,
+      "start": 2752.49,
+      "end": 2753.49,
+      "text": "apply..."
+    },
+    {
+      "id": 728,
+      "start": 2753.49,
+      "end": 2754.49,
+      "text": "The thing is, he's got..."
+    },
+    {
+      "id": 729,
+      "start": 2754.49,
+      "end": 2756.49,
+      "text": "Obviously he needs to be horny,"
+    },
+    {
+      "id": 730,
+      "start": 2756.49,
+      "end": 2758.49,
+      "text": "but he needs to not be racist"
+    },
+    {
+      "id": 731,
+      "start": 2758.49,
+      "end": 2760.49,
+      "text": "or homophobic or use slurs."
+    },
+    {
+      "id": 732,
+      "start": 2760.49,
+      "end": 2762.49,
+      "text": "And he can't mention minors."
+    },
+    {
+      "id": 733,
+      "start": 2762.49,
+      "end": 2764.49,
+      "text": "These are the rules I gave him,"
+    },
+    {
+      "id": 734,
+      "start": 2764.49,
+      "end": 2766.49,
+      "text": "and he's not really abiding by them, so..."
+    },
+    {
+      "id": 735,
+      "start": 2766.49,
+      "end": 2768.49,
+      "text": "I don't know if we can continue with the segment"
+    },
+    {
+      "id": 736,
+      "start": 2768.49,
+      "end": 2771.49,
+      "text": "into perpetuity, but we'll keep trying for now."
+    },
+    {
+      "id": 737,
+      "start": 2773.49,
+      "end": 2774.49,
+      "text": "Raid iron most."
+    },
+    {
+      "id": 738,
+      "start": 2774.49,
+      "end": 2776.49,
+      "text": "Oh, I was raiding Raz."
+    },
+    {
+      "id": 739,
+      "start": 2778.49,
+      "end": 2781.49,
+      "text": "Yeah, he's from a different time, I guess, to be fair."
+    },
+    {
+      "id": 740,
+      "start": 2782.49,
+      "end": 2784.49,
+      "text": "So, what can you do?"
+    },
+    {
+      "id": 741,
+      "start": 2784.49,
+      "end": 2786.49,
+      "text": "Oh, he never did the DJC4."
+    },
+    {
+      "id": 742,
+      "start": 2786.49,
+      "end": 2788.49,
+      "text": "There wasn't a DJC4 request."
+    },
+    {
+      "id": 743,
+      "start": 2788.49,
+      "end": 2792.09,
+      "text": "Even better."
+    },
+    {
+      "id": 744,
+      "start": 2792.09,
+      "end": 2794.09,
+      "text": "Raid Bernie Sanders?"
+    },
+    {
+      "id": 745,
+      "start": 2794.09,
+      "end": 2797.09,
+      "text": "Does he have the alert set up so I can get the shout out?"
+    },
+    {
+      "id": 746,
+      "start": 2797.09,
+      "end": 2801.4,
+      "text": "Yeah, well, I mean, I'm happy to raid iron most or whoever"
+    },
+    {
+      "id": 747,
+      "start": 2801.4,
+      "end": 2804.4,
+      "text": "in the future, but as I've already typed in Raz,"
+    },
+    {
+      "id": 748,
+      "start": 2804.4,
+      "end": 2806.4,
+      "text": "I'm too lazy to change it."
+    },
+    {
+      "id": 749,
+      "start": 2806.4,
+      "end": 2807.4,
+      "text": "I'll raid gold rat."
+    },
+    {
+      "id": 750,
+      "start": 2807.4,
+      "end": 2808.4,
+      "text": "Just bring it up next."
+    },
+    {
+      "id": 751,
+      "start": 2808.4,
+      "end": 2813.4,
+      "text": "Just say raid gold rat slightly before I raid someone else."
+    },
+    {
+      "id": 752,
+      "start": 2813.4,
+      "end": 2815.4,
+      "text": "And I'm a trained monkey. I'll do it."
+    },
+    {
+      "id": 753,
+      "start": 2815.4,
+      "end": 2818.4,
+      "text": "I gotta go get Kendall dumplings."
+    },
+    {
+      "id": 754,
+      "start": 2818.4,
+      "end": 2819.4,
+      "text": "She's monster."
+    },
+    {
+      "id": 755,
+      "start": 2819.4,
+      "end": 2821.4,
+      "text": "And I gotta..."
+    },
+    {
+      "id": 756,
+      "start": 2821.4,
+      "end": 2822.4,
+      "text": "get this permanent..."
+    },
+    {
+      "id": 757,
+      "start": 2822.4,
+      "end": 2824.4,
+      "text": "a permanent version of this mat tattoo, obviously."
+    },
+    {
+      "id": 758,
+      "start": 2824.4,
+      "end": 2826.4,
+      "text": "It's priority number one."
+    },
+    {
+      "id": 759,
+      "start": 2827.4,
+      "end": 2828.4,
+      "text": "Feed your itchy..."
+    },
+    {
+      "id": 760,
+      "start": 2828.4,
+      "end": 2829.4,
+      "text": "I hope she's doing okay."
+    },
+    {
+      "id": 761,
+      "start": 2829.4,
+      "end": 2831.4,
+      "text": "Okay, say hi to Raz for me."
+    },
+    {
+      "id": 762,
+      "start": 2831.4,
+      "end": 2832.4,
+      "text": "It's just a case raid, everyone."
+    },
+    {
+      "id": 763,
+      "start": 2832.4,
+      "end": 2835.4,
+      "text": "We'll be back on Monday with more of whatever this is."
+    },
+    {
+      "id": 764,
+      "start": 2835.4,
+      "end": 2837.4,
+      "text": "And see you soon."
+    },
+    {
+      "id": 765,
+      "start": 2837.4,
+      "end": 2839.4,
+      "text": "Wow."
+    },
+    {
+      "id": 766,
+      "start": 2839.4,
+      "end": 2841.4,
+      "text": "Pepito, we didn't cut to you all day."
+    },
+    {
+      "id": 767,
+      "start": 2841.4,
+      "end": 2844.4,
+      "text": "Okay, because I got the guns out, man."
+    },
+    {
+      "id": 768,
+      "start": 2844.4,
+      "end": 2847.4,
+      "text": "And they're not ready for this."
+    },
+    {
+      "id": 769,
+      "start": 2847.4,
+      "end": 2848.4,
+      "text": "Oh, you got a little chain too?"
+    },
+    {
+      "id": 770,
+      "start": 2848.4,
+      "end": 2850.4,
+      "text": "It's a collar, actually."
+    },
+    {
+      "id": 771,
+      "start": 2850.4,
+      "end": 2851.4,
+      "text": "Okay."
+    }
+  ],
+  "text": "There's a lot of no nothing food, so you don't appreciate the modern art of it.\nOh no!\nCheck check?\nI know this is true.\nI know there's no nothing.\nOkay, I kicked Chet out.\nTo test things.\nBut I'll bring him back in a sec.\nThat's crazy.\nI mean, I mean, I'm not gonna...\nYou've got the hype train going?\nOh my god.\nI guess, I guess that's what happens if I cut away from AI Rooney.\nIs he gets pissed?\nHe gets so pissed that he walks away.\nWe did also summon a hype train.\nOh interesting, now my stream deck isn't working at all.\nThat's a problem.\nWhat the fuck is going on?\nYeah, AI Rooney is nuking the stream from orbit.\nOkay, I have to reset that too.\nOkay bye.\nOkay bye!\nSorry, you're in the middle of the tech stream currently.\nWe're having tech issues.\nI can't hear you.\nOkay.\nOh, maybe Palantir got mad at me.\nThat makes tons of sense.\nThat makes so much sense.\nAlright, stream deck, do you want to work?\nIt'd be nice if you worked.\nOkay, it's back.\nAlright, interestingly when I cut out of this segment, it deletes every Rooney statement,\nunfortunately, but I saved them separately, knowing that that would happen.\nSo it's gonna possibly not work quite right.\nBut we'll figure it out together.\nUm, oh.\nOkay, I'll go get Chet.\nOh my god!\nThere are a lot of no nothing boogs who don't appreciate the modern art of being trapped\nin some place in a city.\nI know this is true.\nYes, I'm one of those no nothing boogs.\nDid you get audio back?\nWhat the fuck is happening?\nRooney, you are breaking the universe.\nUniverse breaker Rooney.\nAlright, I'm just not gonna press anything.\nIs this back to normal?\nCan I just cut around stuff?\nOkay.\nHuh.\nI think we should be fine now.\nWe have too much music playing now.\nOkay, I'm cutting off the music.\nIt's too scary.\nThe music is being too freaky right now.\nI guess we can play this intro music.\nYeah, we'll just keep that going.\nThis highly futuristic music.\nAlright, we have five of these left.\nSo let's see if they still work.\nComplain integrated gears, ground.\nOkay, they do.\nThe flesh is weak, the piss is strong.\nAlright, we're gonna get music.\nLive and sleazy got me thinking, you're absolutely right.\nLive and sleazy.\nHot dogs have been stripped from their working class roots\nand turned into a grotesque luxury.\nOh, the wrong thing is on screen.\nAnd let's be brutally honest about what fuels the stadium culture.\nNot just inflated prices, but an environment right for success.\nThat scorching heat on a hot dog,\nit brings out my queen-like body in ways nobody sees,\nbut trust me, it gets the job done perfectly.\nLet me do a little adjustment here.\nWhat the fuck?\nThis is more important.\nI guess he decided that that was more important.\nI don't know why these are gonna now be off,\nbut it does seem they will be.\nI'm so confused and distracted by how broken my computer is being right now.\nI guess we're just gonna...\nThere's gonna be a different complaint than the one he is doing on screen.\nAnd I don't know if there's anything we can do about that.\nSadly.\nVery sadly.\nComplain integrated gears, ground.\nHe's gonna keep saying the flesh is...\nOh my god, okay.\nThis is the power of the mat, Tat.\nMr. Smith0693 got me thinking,\nyou're absolutely right.\nCase's tattoo is fucking iconic,\nand Matt's pale's in comparison.\nBut honestly, I don't know why we're stuck comparing ink on a forearm,\nwhen some of us 70-year-old legends are out here still swinging hard enough\nto get locked down every week with my golf buddy, Greg.\nWe've got the swag, the tattoos, and the stamina.\nWhy should age be an excuse for anyone to play it cool?\nI post about fucking him on Tumblr whenever the cameras aren't rolling.\nShame is a disease that's been killing young men since the 90s.\nYou can feel free to get your case tattoo,\nbut don't you dare pretend old fags don't still have enough dick\nto make those babies dance for us in public.\nDamn it, these fucking filters are doing nothing.\nOh, Andy, why do you have to go there, man?\nGuys, Kendall's allergic to the mat, Tat.\nShe's got a red...\nYeah, it's a little bit red.\nIt's a little bit red.\nAy-ya-ya-ya.\nEverything is breaking today.\nBruni, do better, man.\nI don't know if I can trust you anymore.\nI'm losing faith in this robot's ability to not get me in trouble.\nWe have an autumn...\nShe doesn't care.\nGiven Rashes, Ay-ya-ru-ni dropping slurs,\nI'm pretty sure he's not allowed to say,\nregardless of what he does with his golf buddy.\nYeah, he is untamable.\nApologies to everyone.\nWe're going to have to figure out how to improve this list of terms\nthat I added that he can't say.\nMaybe it's just making him think it instead of thinking he can't do it.\nA little BTS.\nMaybe it leads to, hey, here's a list of words you cannot say.\nAnd that was one of them.\nThough maybe not the abbreviated version.\nMaybe that's the problem.\nOkay, really, please.\nPlain integrated.\nAlso, these aren't the complaints.\nAlthough, this is a pretty all-play rune complaint\nthat the flesh is weak and the piss is strong.\nMSG1138 got me thinking.\nDamn right!\nThose tubs of butter are goddamn delicious\ncompared to those sticks of butter you're stuck with.\nDon't get me wrong, I'm just as excited as you about the subtle\nsexual tension in old sitcoms like Dharma and Greg.\nKevin James should have been left off that Kena Queen shit show.\nHis thick body above the knee delivery shorts gave all that away.\nSexual subtext, please.\nWith that kind of zesty body on full display, who's gonna get it?\nI'm fucking tired of this modern fuck.\nWow, he's officially unlocked EpicSpeak.\nHe is fucking tired of this modern fuck.\nSo your argument is that King of Queens is too sexy and it ruined\nmore subtle forms of sexuality?\nAlright, how many more of these are left?\nHow much more of this can he do?\nUm...\nIt looks like there's two left, everyone. There's two left.\nWe're in the strike zone here.\nPlain integrated. Gears ground.\nOkay.\nRay Silva EXT9 got me thinking.\nYes.\nAbsolutely right about Sonic's feet.\nBut honestly, this reminds me of how nobody understands the overt eroticism\nof black and white, empty, unmade bed photos.\nThey assume it's some abstract way to cope with the loss of your wife\nwhen actually she's alive, dummies. It's just empty bed porn.\nOkay, we're just gonna skip that one.\nThis is the last one. Rooney. I guess he's talking...\nI honestly don't know.\nPlain integrated. Gears ground.\nI don't know what the complaints are. It makes it slightly more fascinating for me.\nYeah, empty bed porn. Uh-oh. He's thinking about this one a lot.\nExterminator 13 got me thinking.\nTotally right. Those nipples are just useless now.\nBut honestly, plants would thank you more if they could beg for a good piss\ninstead of your own milk.\nThey soak up my immaculate urine from eating only skirt steak\nand beetroot salad at every party like it's holy water.\nMarcus Schiffman should be so lucky his houseplants get to enjoy\nyour miracle pee before the van hits him.\nHe's back on his Marcus Schiffman shit.\nOkay, you know what? I know you're gonna explode.\nYep, okay, I knew it.\nOh boy, that was a difficult one, guys.\nIt was hard to get through that one.\nI'm sort of relieved he exploded, given the things he was doing in this stream.\nLet's just play some battle arena toshin dead and get out of here.\nI don't think that's the only thing we can handle today.\nIt turns out...\nUm...\nThe Marcus Schiffman gang.\nSomeone in A.I. Rooney's life, apparently.\nOr was in his life, I guess.\nOr someone's.\nWas it... Do I know a Marcus Schiffman?\nWhatever.\nLook, let's just hope the audio sticks around with us for a minute.\nBrandon, you're gonna have to thank the subs\nbecause it's been too insane and we didn't get to it during the hype train.\nSo, here's some battle arena toshin dead from a real gamer, apparently.\nYep, that's right. I'm casual today, too.\nAnd yeah, I did get a mat tattoo, but I did it separately.\nAnd I don't believe in sleeveless shirts, so you're not getting these...\nYou're not getting these arms out, okay?\nThey're not defined by their muscles.\nThey're defined by their gaming.\nAnd their... Okay.\nBoo? Boo-hoo.\nOkay.\nOkay. We're having a good time.\nI'm having a great time.\nI've gotta load retro arc and then hope this works.\nCause it's all on me, apparently.\nIt's exhausting streaming 20 minutes a week.\nUgh.\nI have to load a core.\nThere is a DOS core.\nStart the core.\nNo executable file found.\nNo content loaded.\nThis music is still going.\nGo to command line.\nThere is a browser option.\nIt's my new catchphrase. Like it.\nYeah, that's actually pretty good. I do like that, Brick.\nThat's cool that you thought of that.\nGood job.\nUm...\nLive in Sleazy, what do you mean there is a browser option?\nYou have to understand, I don't really know what the fuck any of this is.\nI don't know which of these I'm supposed to pick.\nOr what you're talking about at all.\nUm...\nThere's this DOS one.\nBut that's not the one?\nBram, Bram.\nYou sent another link.\nI will not have a hell child in this house.\nMom, you literally said that and then farted on the door.\nI don't...\nI could call child services even though I'm an adult and I can have you arrested.\nOkay?\nSo keep that in mind.\nLike I know how to fight back.\nUm...\nOkay.\nLive in Sleazy sent me a message.\nPlay it online. I was playing online.\nOh, that's what you mean by browser version.\nBrandon, today's the 15th anniversary of John Cena telling us Bin Laden was caught and compromised to a permanent end.\nOkay.\nGood.\nGlad.\nGlad that they pulled it off.\nOkay, the game date has been downloaded.\nNow I just have to pray that the controller will work, which even though it basically never does.\nPlease though.\nJust take it easy on me.\nUm, okay.\nHey, Bram, Bram. I saw that sweet Matt Liddell you got.\nDid you know he's your new father and own permanent tax attorney?\nHe's never leaving. Never!\nOkay. Yeah, that's fine. That's fine. Whatever. That's fine.\nShe says that kind of shit all the time.\nBut at a certain point, like put up or shut up.\nAm I gonna have a dad or not? Honestly? Am I gonna have a dad or not?\nUh oh, I'm hearing the battle arena.\nOkay, update.\nFinally took off your old clothes. You've been wearing the same shit for three years straight.\nUm, yeah. I... they... they rotted off my body. I ordered more.\nI don't like that I'm wearing something different at all.\nOkay, we're in the battle arena, everyone.\nUm, first show.\nGuys, Shoshin Joe isn't in this one. That sucks.\nThat legitimately makes me so sad.\nRoom Go.\nMan, I can't wait for Guyver Dark Hero and Fourintastic in that movie.\nOh shit.\nOops, I picked Sophia. I ran out of time and made me pick Sophia.\nThat's fine, whatever.\nI didn't pick her because she's wearing this outfit, by the way.\nThat kind of thing doesn't work on me.\nOkay, I can see why people are a fan of this game.\nIt's got very responsive controls.\nHoly, did it roll together?\nGet kicked on.\nOh, you see that?\nRattlesnake, guys. What? Stop it.\nRoom Go. Just give up. You're not a match for me.\nMom, anytime, anywhere.\nOkay, that's fine. I don't know the muffin man, though.\nLike, I don't know every man in town, alright?\nSo you don't have to ask.\nEdgy is Shoshin Joe? God damn it.\nThat's crazy. Why is he named that?\nOkay, fine. We're gonna quit.\nOh, I can't.\nHit the select key.\nOh, reset.\nYeah.\nOh, Edgy.\nOh, because he makes you Ed?\nWith his boots? Is that why?\nUm, this isn't show, is it?\nHis boots aren't that high. Aren't that big?\nThis is my favorite move ever.\nHe's just out blowing this little girl in the face.\nOh my God.\nYou look like you should be one of the fighters in your new outfit.\nAnd not Ryu.\nHadoken! Hadoken!\nWow, that's a very good Ryu.\nUm, good job with that.\nThat's crazy. Oh God, am I gonna die?\nNope, I killed her with a sword instead.\nAfter elbowing her in the face.\nAbout a dozen times.\nNo problem!\nOh, get slid on, dude.\nStop it!\nAlright, fireball? I have a fireball.\nWhat?\nIs this a chicken joint like Popeye's?\nYeah, this sounds...\nDid you get you a six-piece boneless combo?\nYes, please. Yes, please.\nI'll try cock ring.\nShuzun!\nThat's a weird name for it, because like,\nwhat does a ring have to do with eating, but whatever.\nIt's like a ring of people that make chickens.\nUh, okay, I beat her easily.\nThat was very good. You might have noticed.\nNo problem!\nRick, it's fine. We're okay. Rick!\nRick, it's okay.\nIsn't this guy Shoshinjo?\nThis guy's got way more of a Shoshinjo vibe.\nWhoa, I'm getting my...\nThat's impossible. Get stabbed repeatedly.\nThe problem is I was using too many moves.\nI was trying to get too fancy with it.\nWhat?\nMom, what...\nMom, stop losing your mind at my door.\nYou're gonna lose your mind in the basement.\nYou're gonna lose your mind. Please don't do it around my room.\nIt's slid on, dude.\nOkay, get stabbed.\nI'm trying to use my ultimate move here, elbow.\nFuck! What was that shit?\nNo! That was he cheated and he cheated with all of his dodges.\nOh, shit. Oh, God, what was that?\nStop it!\nOkay, I think I found my strat again.\nHey, where are you going? His name is Shoshinjo.\nHis name is Robert Paulson.\nWho?\nYou're talking about the muffin man still?\nHis name is Robert Paulson.\nHis name is Robert Paulson.\nDid you mean the muffin man?\nOh, oh, oh, sorry.\nStop it, dude. Stop it.\nNo!\nOh, I got killed off the roof.\nI suspect that I'm dead.\nJump? Oh, three.\nDeadly man.\nKill me, huh?\nWhat the hell? Why can't I jump so high?\nOh, my God, these guys have fucking ups.\nDeadly man.\nI just have to lure him off the edge. This is my strategy.\nNo, stop it.\nNo!\nBecause he's not wearing his knee-high boots.\nDo power them.\nLet's try one other character.\nThanks.\nI think Foe would probably be better.\nHe's older. He's got more experience in the fight game.\nSo...\nLook at this shit. Look at this guy.\nMy guy's floating.\nBut it's Robert Paulson.\nSonomri is Robert Paulson.\nOh, my God. I'm a beautiful Belaroon of Pain.\nSonomri is Robert Paulson.\nWhat the hell? You see that?\nSonomri is Robert Paulson.\nRick, I don't know Robert Paulson.\nWhy is everybody on my ass about Robert Paulson?\nDude, stop it.\nOh, my God. I got a huge ball.\nI just need to do that more.\nDude, get balled on.\nHow did I do that?\nIs it a full circle type move?\nShow Sinjo is a boss and a hidden character in this game.\nTo unlock him with a code,\nyou need a second controller\nand you can look up the codes.\nI don't believe in two player games.\nStop it.\nYes! Ultimate move.\nI don't know how I do that though.\nI don't know how to do that.\nI don't know how to do that.\nI don't know how I do that though.\nI haven't figured out how I need to do that.\nOh, my God. You're so cheap.\nYes, get smashed to death.\nOkay.\nShe already took it off.\nShe gave her a rash.\nOh, shit. I jumped to my death.\nI killed myself.\nAnd that's against terms of service.\nOh, whatever.\nHe's so proud of himself.\nI'm just trying to learn how to do these ball moves.\nYes.\nHow am I doing that though?\nI'm just kind of spamming fireballs.\nSeeing how they do it.\nI need a controller.\nNow, you can check the code.\nDo the ball.\nDo the ball.\nOh, he got balled on.\nHe got balled on.\nThis guy is the ultimate warrior.\nShoshinjo, step over.\nI'm not allowed to stop playing this until you unlock Shoshinjo.\nI don't know how to unlock Shoshinjo.\nI wish I could.\nI negated her move with my giant ball.\nOh, that was sick.\nOh, my God. I have so many ball moves.\nThey're lucky I don't know how I'm actually doing that move.\nI would be doing nothing but it.\nThundering.\nYeah, I'm honestly...\nStop it.\nThat's not...\nYou're not allowed to use special moves. It's only me.\nWhat am I doing?\nYeah, there we go.\nOh, shit. Why did I...\nContinue to unlock Shoshinjo.\nThat's ridiculous.\nI just need to save state with show online.\nOh, yeah. Get fucking blasted on.\nNo!\nDamn it, it was so close.\nOh, she's going to fall off.\nYes!\nDraw! She died.\nMore than me. She died. She fell so far.\nLady.\nTech, tech, tech.\nYou get it.\nI don't...\nI don't get it, Brick.\nI don't understand that at all.\nDude, I do not know\nhow to do this ball move.\nOh, it's double buttons.\nThat doesn't make sense to say...\nNo!\nI'm the ghost of Andy Rooney.\nAnd this isn't 60 minutes.\nFor the record, I don't like feet.\nI was more of a hands guy.\nThat AI abomination\ndoesn't represent my views.\nBrick, you're Brick Lizard.\nWhat are you even talking about?\nFuck. Okay, well, this game's impossible.\nAny time, any there.\nLook at this girl's body proportions.\nThey're not even real. What? Oh, there was a draw.\nI forgot about the draw.\nOkay, wait. I got to look up...\nWhat's this guy's name? His name is Foe?\nI got to find out how to do this one move\nso I can just spam it.\nFoe.\nBattle Arena Toshinden\nMoves.\nMove list.\nUm...\nFor Foe, please.\nOh my god, why does this...\nI can't even search him in here because...\nOkay.\nDawn Pop-off.\nForward, down, forward, down, down, back, B, slash.\nProtap, the secret move for the character you selected\nis up, up, slash, down,\nforward, up, kick,\nup, up, slash, down,\nforward, left.\nI wonder what slash is.\nForward,\ndown, forward, oh, so it's just a sweep\nback and slash.\nOkay.\nDown, down,\nokay, so all this shit's like backwards.\nThis is crazy.\nForward, okay, so I have to do a sweep\nbackwards. Alright.\nThis should be pretty easy for someone as good\nat games as me.\nStop it, stop it.\nYou see that? You see that?\nOh no, no, no, no.\nStop it.\nStop it, Foe.\nGetting carried away.\nI tricked her. I thought I made it look so easy flying around\nthe map. She tried it.\nAnd now she's dead.\nSo it goes.\nA revolution.\nNo.\nNot at all, mom. Try again.\nI'm playing as an old man actually.\nAnd I'm killing women.\nSo try again, mom.\nOh my god.\nAh, Brick was.\nWhatever you're saying sounds psychotic.\nAnd I think you're having a mental break.\nOkay, Brick. Okay.\nDid you see these moves?\nLook at this. Wow.\nI'm a beautiful dancer.\nIt's incredible.\nAnd then I just claws stupid face.\nStop it, stop it, stop it. Stop doing that to me.\nI need to, I need to skate velocity.\nOkay, good.\nOh god, what the hell?\nI did it.\nI did the move that I've been trying to do.\nNo.\nFuck.\nShit.\nI gotta pause this. I gotta figure out what this flying move is.\nThe one that sends me into the air.\nHayaki Moshe Ken.\nForward, down, forward.\nDown, down, back.\nBack, down, back.\nOh, it's like two sweeps.\nI sweep forward to the back and then back to the foe.\nOkay.\nNow we understand the power of foe.\nBrandon, use old man blue balls to win.\nStop doing combos to me.\nIt's literally cheating.\nGet clawed to death. Oh, it worked.\nI just had to claws face about 10 times.\nThis is the best character in a fighting game ever.\nWhat?\nUp, up, slash, down, forward.\nUp, up, slash, down, forward, left.\nI got this often, FAQs, I swear.\nIt seemed like a lot, mom.\nAnd yet I'm already pulling this move off so beautifully.\nI'm already using it to beat up this woman in a CPU dress.\nThat's the sound of victory.\nHow many people do I have to beat?\nStop it, you're beating up an old man.\nHe's messed up with you.\nOh my God.\nTake it easy, I'm old.\nDo you see my strategy? It was to slash her with my pokes.\nOh, whatever.\nI think I'm impressed.\nI'm legitimately not impressed by your moves.\nWhy won't my balls go blue anymore?\nFlying kick.\nCarter Joe showed me his mystic fears long ago.\nMy very own blue for long.\nOkay, well, then he probably wasn't focusing.\nHe probably couldn't keep his fear going.\nIt probably collapsed.\nJust do the blue ball move.\nYes!\nOh, I'm going to get him.\nBlue ball move.\nYes!\nNo, no, the blue ball move, dude.\nYou know our bread and butter.\nHave been your biggest weakness.\nYeah.\nHonestly, I'm more upper body strength.\nThat's just facts.\nWait, what were you trying to say?\nBow one.\nShoot the knee.\nNo, don't do this to me, edgy.\nI just want to meet your brother in his boots.\nI baited him.\nI baited him.\nGet out of here.\nDo the kick.\nWhat?\nIt's all yellow and smells like bleach.\nNo problem.\nIs it yours?\nYeah.\nYeah, it's where I was keeping banana milk.\nBut it turns out, socks aren't good for storing liquids.\nI was trying to store some old banana milk\nin a sock.\nI'm not sure if I can get it.\nI'm not sure if I can get banana milk in a sock.\nBut it leaked out, I guess.\nI guess it leaked out.\nI tried to clean it up with bleach by jumping bleach\non the sock in the carpet that the sock was on.\nIt didn't work that well, honestly.\nCleaning products don't really work.\nI'll steam while playing this.\nI hear it goes with everything.\nWhat?\nBut I'm dying.\nOkay, one second.\nIf I don't start winning, though, Brick,\nthen\nyou're banned.\nYou're not. I don't think I can ban you because you're the CIA.\nOkay.\nNow I should be able to do this, right?\nShazam!\nOh, what's wrong, baby?\nI don't think that's what I'm gonna do.\nOh, walk out.\nIt didn't work at all.\nThe guile theme made me play worse.\nFuck.\nIt's not my fault. It's because I had to pause for the theme.\nSo why can't we casual pause?\nBecause I can't focus while I'm wearing...\nwhile I'm not wearing a blazer.\nLike a cool bolt.\nAll right, guys.\nIt's gonna do it.\nSaab, Breechie.\nGot me thinking. Spin City is the only thing that calms my foot fetish.\nOkay.\nThat's fine, Brick.\nI mean, I don't know what\neither of those things are exactly,\nbut just relax.\nOkay, everybody.\nIt's gonna do it for now.\nLet's set it back to the new game.\nLet's set it back to the new studio.\nWe're some guy standing by or something.\nI don't... I mean, whatever.\nIt's news time.\nAlright, everybody.\nWe're gonna count that as a stream.\nNo one can deny that that was a stream that existed.\nMan, AI really given us more trouble than ever today.\nBy breaking the stream repeatedly.\nG, G's indeed, Brendan's mom.\nI don't know how you're piping in here right now,\nbut just coming to sign us off with the mat\nto say goodbye to you.\nI'm gonna go back to the studio\njust coming to sign us off with the mat tat.\nThis might be the last time we ever see it.\nThis might be the last time we ever see it.\nOoh.\nOoh.\nI should put it here next time so you can be on my\nvery white skin.\nGrotesquely white.\nYeah, we had the guns out today to show off the mat tat.\nYeah, we had the guns out today to show off the mat tat.\nAnd honestly, because Kendall took one,\nI only have eight more of these.\nNot enough!\nNot enough mat tats.\nWhat was the deal with some of the stuff\nAI pretty was saying today?\nI could let you in on how it works\nbecause I talked to Chet.\nBut even knowing how it works,\nwhich is not complicated, sometimes he says something\nand I'm like, what was that one?\nA stream giveaway, yeah.\nUm, okay.\nLet's see who is on.\nIt's gonna be stuck in my head for the next two weeks.\nDo you mean the guile theme?\nIt's always in there anyway.\nShow off the pythons, we've been talking about it.\nAnyway, show off the pythons.\nWe've been showing off these pythons all day.\nThanks to Matt for providing his face.\nThanks to Live and Sleazy for\nalways providing the ROMs,\neven though Brendan is not smart\nand doesn't get how to load them.\nEven when it's as simple as clicking on a web browser,\nit confuses him somehow.\nHis problem, not mine.\nOh, his son is on.\nGosh, his son's on.\nYeah, I don't...\nI don't know. There's a chance.\nDefinitely if we ever had more viewers,\nwe couldn't do AI Rooney as it is right now.\nFor a number of reasons, but...\nSometimes he just...\nSometimes he really goes into business for himself.\nI'll put it that way.\nBut maybe there's a way to...\napply...\nThe thing is, he's got...\nObviously he needs to be horny,\nbut he needs to not be racist\nor homophobic or use slurs.\nAnd he can't mention minors.\nThese are the rules I gave him,\nand he's not really abiding by them, so...\nI don't know if we can continue with the segment\ninto perpetuity, but we'll keep trying for now.\nRaid iron most.\nOh, I was raiding Raz.\nYeah, he's from a different time, I guess, to be fair.\nSo, what can you do?\nOh, he never did the DJC4.\nThere wasn't a DJC4 request.\nEven better.\nRaid Bernie Sanders?\nDoes he have the alert set up so I can get the shout out?\nYeah, well, I mean, I'm happy to raid iron most or whoever\nin the future, but as I've already typed in Raz,\nI'm too lazy to change it.\nI'll raid gold rat.\nJust bring it up next.\nJust say raid gold rat slightly before I raid someone else.\nAnd I'm a trained monkey. I'll do it.\nI gotta go get Kendall dumplings.\nShe's monster.\nAnd I gotta...\nget this permanent...\na permanent version of this mat tattoo, obviously.\nIt's priority number one.\nFeed your itchy...\nI hope she's doing okay.\nOkay, say hi to Raz for me.\nIt's just a case raid, everyone.\nWe'll be back on Monday with more of whatever this is.\nAnd see you soon.\nWow.\nPepito, we didn't cut to you all day.\nOkay, because I got the guns out, man.\nAnd they're not ready for this.\nOh, you got a little chain too?\nIt's a collar, actually.\nOkay.",
+  "text_timestamped": "[02:44 --> 02:47] There's a lot of no nothing food, so you don't appreciate the modern art of it.\n[02:47 --> 02:48] Oh no!\n[02:48 --> 02:50] Check check?\n[02:50 --> 02:51] I know this is true.\n[02:51 --> 02:52] I know there's no nothing.\n[02:52 --> 03:09] Okay, I kicked Chet out.\n[03:09 --> 03:10] To test things.\n[03:10 --> 03:15] But I'll bring him back in a sec.\n[03:15 --> 03:18] That's crazy.\n[03:18 --> 03:24] I mean, I mean, I'm not gonna...\n[03:24 --> 03:26] You've got the hype train going?\n[03:26 --> 03:27] Oh my god.\n[03:27 --> 03:32] I guess, I guess that's what happens if I cut away from AI Rooney.\n[03:32 --> 03:33] Is he gets pissed?\n[03:33 --> 03:37] He gets so pissed that he walks away.\n[03:37 --> 03:41] We did also summon a hype train.\n[03:41 --> 03:43] Oh interesting, now my stream deck isn't working at all.\n[03:43 --> 03:45] That's a problem.\n[03:45 --> 03:47] What the fuck is going on?\n[03:47 --> 03:54] Yeah, AI Rooney is nuking the stream from orbit.\n[03:54 --> 04:00] Okay, I have to reset that too.\n[04:00 --> 04:03] Okay bye.\n[04:03 --> 04:04] Okay bye!\n[04:04 --> 04:06] Sorry, you're in the middle of the tech stream currently.\n[04:06 --> 04:16] We're having tech issues.\n[04:16 --> 04:18] I can't hear you.\n[04:18 --> 04:19] Okay.\n[04:19 --> 04:24] Oh, maybe Palantir got mad at me.\n[04:24 --> 04:25] That makes tons of sense.\n[04:26 --> 04:30] That makes so much sense.\n[04:30 --> 04:31] Alright, stream deck, do you want to work?\n[04:31 --> 04:36] It'd be nice if you worked.\n[04:36 --> 04:38] Okay, it's back.\n[04:38 --> 04:46] Alright, interestingly when I cut out of this segment, it deletes every Rooney statement,\n[04:46 --> 04:49] unfortunately, but I saved them separately, knowing that that would happen.\n[04:49 --> 04:54] So it's gonna possibly not work quite right.\n[04:54 --> 04:58] But we'll figure it out together.\n[04:58 --> 05:00] Um, oh.\n[05:00 --> 05:09] Okay, I'll go get Chet.\n[05:09 --> 05:10] Oh my god!\n[05:10 --> 05:33] There are a lot of no nothing boogs who don't appreciate the modern art of being trapped\n[05:33 --> 05:35] in some place in a city.\n[05:35 --> 05:37] I know this is true.\n[05:37 --> 05:52] Yes, I'm one of those no nothing boogs.\n[05:52 --> 05:55] Did you get audio back?\n[05:55 --> 05:56] What the fuck is happening?\n[05:56 --> 06:00] Rooney, you are breaking the universe.\n[06:00 --> 06:02] Universe breaker Rooney.\n[06:02 --> 06:09] Alright, I'm just not gonna press anything.\n[06:09 --> 06:11] Is this back to normal?\n[06:11 --> 06:13] Can I just cut around stuff?\n[06:13 --> 06:15] Okay.\n[06:15 --> 06:17] Huh.\n[06:17 --> 06:23] I think we should be fine now.\n[06:23 --> 06:27] We have too much music playing now.\n[06:27 --> 06:30] Okay, I'm cutting off the music.\n[06:30 --> 06:32] It's too scary.\n[06:32 --> 06:35] The music is being too freaky right now.\n[06:35 --> 06:38] I guess we can play this intro music.\n[06:38 --> 06:41] Yeah, we'll just keep that going.\n[06:41 --> 06:43] This highly futuristic music.\n[06:43 --> 06:48] Alright, we have five of these left.\n[06:48 --> 06:50] So let's see if they still work.\n[06:50 --> 06:52] Complain integrated gears, ground.\n[06:52 --> 06:54] Okay, they do.\n[06:54 --> 06:57] The flesh is weak, the piss is strong.\n[06:57 --> 06:59] Alright, we're gonna get music.\n[06:59 --> 07:01] Live and sleazy got me thinking, you're absolutely right.\n[07:01 --> 07:03] Live and sleazy.\n[07:03 --> 07:06] Hot dogs have been stripped from their working class roots\n[07:06 --> 07:08] and turned into a grotesque luxury.\n[07:08 --> 07:10] Oh, the wrong thing is on screen.\n[07:10 --> 07:12] And let's be brutally honest about what fuels the stadium culture.\n[07:12 --> 07:17] Not just inflated prices, but an environment right for success.\n[07:17 --> 07:19] That scorching heat on a hot dog,\n[07:19 --> 07:22] it brings out my queen-like body in ways nobody sees,\n[07:22 --> 07:28] but trust me, it gets the job done perfectly.\n[07:28 --> 07:35] Let me do a little adjustment here.\n[07:35 --> 07:36] What the fuck?\n[07:36 --> 07:40] This is more important.\n[07:40 --> 07:43] I guess he decided that that was more important.\n[07:43 --> 07:45] I don't know why these are gonna now be off,\n[07:45 --> 07:48] but it does seem they will be.\n[07:48 --> 08:00] I'm so confused and distracted by how broken my computer is being right now.\n[08:00 --> 08:03] I guess we're just gonna...\n[08:03 --> 08:07] There's gonna be a different complaint than the one he is doing on screen.\n[08:07 --> 08:09] And I don't know if there's anything we can do about that.\n[08:09 --> 08:11] Sadly.\n[08:11 --> 08:13] Very sadly.\n[08:13 --> 08:15] Complain integrated gears, ground.\n[08:15 --> 08:17] He's gonna keep saying the flesh is...\n[08:17 --> 08:25] Oh my god, okay.\n[08:25 --> 08:27] This is the power of the mat, Tat.\n[08:27 --> 08:30] Mr. Smith0693 got me thinking,\n[08:30 --> 08:32] you're absolutely right.\n[08:32 --> 08:35] Case's tattoo is fucking iconic,\n[08:35 --> 08:37] and Matt's pale's in comparison.\n[08:37 --> 08:41] But honestly, I don't know why we're stuck comparing ink on a forearm,\n[08:41 --> 08:45] when some of us 70-year-old legends are out here still swinging hard enough\n[08:45 --> 08:48] to get locked down every week with my golf buddy, Greg.\n[08:48 --> 08:52] We've got the swag, the tattoos, and the stamina.\n[08:52 --> 08:55] Why should age be an excuse for anyone to play it cool?\n[08:55 --> 08:59] I post about fucking him on Tumblr whenever the cameras aren't rolling.\n[08:59 --> 09:03] Shame is a disease that's been killing young men since the 90s.\n[09:03 --> 09:05] You can feel free to get your case tattoo,\n[09:05 --> 09:09] but don't you dare pretend old fags don't still have enough dick\n[09:09 --> 09:12] to make those babies dance for us in public.\n[09:12 --> 09:17] Damn it, these fucking filters are doing nothing.\n[09:17 --> 09:25] Oh, Andy, why do you have to go there, man?\n[09:25 --> 09:27] Guys, Kendall's allergic to the mat, Tat.\n[09:27 --> 09:32] She's got a red...\n[09:32 --> 09:34] Yeah, it's a little bit red.\n[09:34 --> 09:36] It's a little bit red.\n[09:36 --> 09:41] Ay-ya-ya-ya.\n[09:41 --> 09:43] Everything is breaking today.\n[09:43 --> 09:46] Bruni, do better, man.\n[09:46 --> 09:48] I don't know if I can trust you anymore.\n[09:48 --> 09:54] I'm losing faith in this robot's ability to not get me in trouble.\n[09:54 --> 09:57] We have an autumn...\n[09:57 --> 10:01] She doesn't care.\n[10:01 --> 10:04] Given Rashes, Ay-ya-ru-ni dropping slurs,\n[10:04 --> 10:06] I'm pretty sure he's not allowed to say,\n[10:06 --> 10:09] regardless of what he does with his golf buddy.\n[10:09 --> 10:11] Yeah, he is untamable.\n[10:11 --> 10:13] Apologies to everyone.\n[10:13 --> 10:17] We're going to have to figure out how to improve this list of terms\n[10:17 --> 10:19] that I added that he can't say.\n[10:19 --> 10:22] Maybe it's just making him think it instead of thinking he can't do it.\n[10:22 --> 10:26] A little BTS.\n[10:26 --> 10:29] Maybe it leads to, hey, here's a list of words you cannot say.\n[10:29 --> 10:32] And that was one of them.\n[10:32 --> 10:34] Though maybe not the abbreviated version.\n[10:34 --> 10:36] Maybe that's the problem.\n[10:36 --> 10:38] Okay, really, please.\n[10:38 --> 10:43] Plain integrated.\n[10:43 --> 10:45] Also, these aren't the complaints.\n[10:45 --> 10:47] Although, this is a pretty all-play rune complaint\n[10:47 --> 10:49] that the flesh is weak and the piss is strong.\n[10:49 --> 10:52] MSG1138 got me thinking.\n[10:52 --> 10:54] Damn right!\n[10:54 --> 10:56] Those tubs of butter are goddamn delicious\n[10:56 --> 10:59] compared to those sticks of butter you're stuck with.\n[10:59 --> 11:02] Don't get me wrong, I'm just as excited as you about the subtle\n[11:02 --> 11:05] sexual tension in old sitcoms like Dharma and Greg.\n[11:05 --> 11:09] Kevin James should have been left off that Kena Queen shit show.\n[11:09 --> 11:13] His thick body above the knee delivery shorts gave all that away.\n[11:13 --> 11:16] Sexual subtext, please.\n[11:16 --> 11:20] With that kind of zesty body on full display, who's gonna get it?\n[11:20 --> 11:23] I'm fucking tired of this modern fuck.\n[11:23 --> 11:28] Wow, he's officially unlocked EpicSpeak.\n[11:28 --> 11:32] He is fucking tired of this modern fuck.\n[11:32 --> 11:36] So your argument is that King of Queens is too sexy and it ruined\n[11:36 --> 11:39] more subtle forms of sexuality?\n[11:39 --> 11:41] Alright, how many more of these are left?\n[11:41 --> 11:44] How much more of this can he do?\n[11:44 --> 11:47] Um...\n[11:47 --> 11:49] It looks like there's two left, everyone. There's two left.\n[11:49 --> 11:51] We're in the strike zone here.\n[11:51 --> 11:53] Plain integrated. Gears ground.\n[11:53 --> 11:54] Okay.\n[11:54 --> 11:59] Ray Silva EXT9 got me thinking.\n[11:59 --> 12:00] Yes.\n[12:00 --> 12:02] Absolutely right about Sonic's feet.\n[12:02 --> 12:06] But honestly, this reminds me of how nobody understands the overt eroticism\n[12:06 --> 12:10] of black and white, empty, unmade bed photos.\n[12:10 --> 12:13] They assume it's some abstract way to cope with the loss of your wife\n[12:13 --> 12:17] when actually she's alive, dummies. It's just empty bed porn.\n[12:17 --> 12:25] Okay, we're just gonna skip that one.\n[12:25 --> 12:33] This is the last one. Rooney. I guess he's talking...\n[12:33 --> 12:35] I honestly don't know.\n[12:35 --> 12:39] Plain integrated. Gears ground.\n[12:39 --> 12:42] I don't know what the complaints are. It makes it slightly more fascinating for me.\n[12:42 --> 12:45] Yeah, empty bed porn. Uh-oh. He's thinking about this one a lot.\n[12:45 --> 12:47] Exterminator 13 got me thinking.\n[12:47 --> 12:51] Totally right. Those nipples are just useless now.\n[12:51 --> 12:55] But honestly, plants would thank you more if they could beg for a good piss\n[12:55 --> 12:57] instead of your own milk.\n[12:57 --> 13:00] They soak up my immaculate urine from eating only skirt steak\n[13:00 --> 13:04] and beetroot salad at every party like it's holy water.\n[13:04 --> 13:07] Marcus Schiffman should be so lucky his houseplants get to enjoy\n[13:07 --> 13:11] your miracle pee before the van hits him.\n[13:11 --> 13:14] He's back on his Marcus Schiffman shit.\n[13:14 --> 13:16] Okay, you know what? I know you're gonna explode.\n[13:16 --> 13:18] Yep, okay, I knew it.\n[13:18 --> 13:21] Oh boy, that was a difficult one, guys.\n[13:21 --> 13:23] It was hard to get through that one.\n[13:23 --> 13:31] I'm sort of relieved he exploded, given the things he was doing in this stream.\n[13:31 --> 13:35] Let's just play some battle arena toshin dead and get out of here.\n[13:35 --> 13:40] I don't think that's the only thing we can handle today.\n[13:40 --> 13:42] It turns out...\n[13:42 --> 13:44] Um...\n[13:44 --> 13:46] The Marcus Schiffman gang.\n[13:46 --> 13:49] Someone in A.I. Rooney's life, apparently.\n[13:49 --> 13:52] Or was in his life, I guess.\n[13:52 --> 13:53] Or someone's.\n[13:53 --> 13:55] Was it... Do I know a Marcus Schiffman?\n[13:55 --> 13:56] Whatever.\n[13:56 --> 13:59] Look, let's just hope the audio sticks around with us for a minute.\n[13:59 --> 14:01] Brandon, you're gonna have to thank the subs\n[14:01 --> 14:04] because it's been too insane and we didn't get to it during the hype train.\n[14:04 --> 14:09] So, here's some battle arena toshin dead from a real gamer, apparently.\n[14:09 --> 14:48] Yep, that's right. I'm casual today, too.\n[14:48 --> 14:52] And yeah, I did get a mat tattoo, but I did it separately.\n[14:52 --> 14:56] And I don't believe in sleeveless shirts, so you're not getting these...\n[14:56 --> 15:00] You're not getting these arms out, okay?\n[15:00 --> 15:02] They're not defined by their muscles.\n[15:02 --> 15:04] They're defined by their gaming.\n[15:04 --> 15:10] And their... Okay.\n[15:10 --> 15:17] Boo? Boo-hoo.\n[15:17 --> 15:18] Okay.\n[15:18 --> 15:20] Okay. We're having a good time.\n[15:20 --> 15:22] I'm having a great time.\n[15:22 --> 15:26] I've gotta load retro arc and then hope this works.\n[15:26 --> 15:31] Cause it's all on me, apparently.\n[15:31 --> 15:34] It's exhausting streaming 20 minutes a week.\n[15:34 --> 15:37] Ugh.\n[15:37 --> 15:40] I have to load a core.\n[15:40 --> 15:42] There is a DOS core.\n[15:42 --> 15:45] Start the core.\n[15:45 --> 15:49] No executable file found.\n[15:49 --> 15:52] No content loaded.\n[15:52 --> 15:55] This music is still going.\n[15:55 --> 15:56] Go to command line.\n[15:56 --> 15:58] There is a browser option.\n[15:58 --> 16:07] It's my new catchphrase. Like it.\n[16:07 --> 16:10] Yeah, that's actually pretty good. I do like that, Brick.\n[16:10 --> 16:12] That's cool that you thought of that.\n[16:12 --> 16:14] Good job.\n[16:14 --> 16:16] Um...\n[16:16 --> 16:19] Live in Sleazy, what do you mean there is a browser option?\n[16:19 --> 16:24] You have to understand, I don't really know what the fuck any of this is.\n[16:24 --> 16:27] I don't know which of these I'm supposed to pick.\n[16:27 --> 16:30] Or what you're talking about at all.\n[16:30 --> 16:34] Um...\n[16:34 --> 16:36] There's this DOS one.\n[16:36 --> 16:40] But that's not the one?\n[16:40 --> 16:42] Bram, Bram.\n[16:42 --> 16:44] You sent another link.\n[16:44 --> 16:49] I will not have a hell child in this house.\n[16:49 --> 16:53] Mom, you literally said that and then farted on the door.\n[16:53 --> 16:55] I don't...\n[16:55 --> 16:58] I could call child services even though I'm an adult and I can have you arrested.\n[16:58 --> 17:00] Okay?\n[17:00 --> 17:02] So keep that in mind.\n[17:02 --> 17:05] Like I know how to fight back.\n[17:05 --> 17:07] Um...\n[17:07 --> 17:09] Okay.\n[17:09 --> 17:12] Live in Sleazy sent me a message.\n[17:12 --> 17:14] Play it online. I was playing online.\n[17:14 --> 17:16] Oh, that's what you mean by browser version.\n[17:16 --> 17:25] Brandon, today's the 15th anniversary of John Cena telling us Bin Laden was caught and compromised to a permanent end.\n[17:25 --> 17:27] Okay.\n[17:27 --> 17:29] Good.\n[17:29 --> 17:31] Glad.\n[17:31 --> 17:33] Glad that they pulled it off.\n[17:33 --> 17:37] Okay, the game date has been downloaded.\n[17:37 --> 17:45] Now I just have to pray that the controller will work, which even though it basically never does.\n[17:45 --> 17:47] Please though.\n[17:47 --> 17:53] Just take it easy on me.\n[17:53 --> 17:55] Um, okay.\n[17:55 --> 17:59] Hey, Bram, Bram. I saw that sweet Matt Liddell you got.\n[17:59 --> 18:03] Did you know he's your new father and own permanent tax attorney?\n[18:03 --> 18:05] He's never leaving. Never!\n[18:05 --> 18:08] Okay. Yeah, that's fine. That's fine. Whatever. That's fine.\n[18:08 --> 18:13] She says that kind of shit all the time.\n[18:13 --> 18:16] But at a certain point, like put up or shut up.\n[18:16 --> 18:21] Am I gonna have a dad or not? Honestly? Am I gonna have a dad or not?\n[18:21 --> 18:23] Uh oh, I'm hearing the battle arena.\n[18:23 --> 18:30] Okay, update.\n[18:30 --> 18:35] Finally took off your old clothes. You've been wearing the same shit for three years straight.\n[18:35 --> 18:41] Um, yeah. I... they... they rotted off my body. I ordered more.\n[18:41 --> 18:44] I don't like that I'm wearing something different at all.\n[18:44 --> 18:47] Okay, we're in the battle arena, everyone.\n[18:47 --> 18:52] Um, first show.\n[18:52 --> 18:59] Guys, Shoshin Joe isn't in this one. That sucks.\n[18:59 --> 19:02] That legitimately makes me so sad.\n[19:02 --> 19:07] Room Go.\n[19:07 --> 19:14] Man, I can't wait for Guyver Dark Hero and Fourintastic in that movie.\n[19:14 --> 19:16] Oh shit.\n[19:16 --> 19:20] Oops, I picked Sophia. I ran out of time and made me pick Sophia.\n[19:20 --> 19:23] That's fine, whatever.\n[19:23 --> 19:26] I didn't pick her because she's wearing this outfit, by the way.\n[19:26 --> 19:28] That kind of thing doesn't work on me.\n[19:28 --> 19:35] Okay, I can see why people are a fan of this game.\n[19:35 --> 19:37] It's got very responsive controls.\n[19:37 --> 19:43] Holy, did it roll together?\n[19:43 --> 19:47] Get kicked on.\n[19:47 --> 19:53] Oh, you see that?\n[19:53 --> 19:57] Rattlesnake, guys. What? Stop it.\n[19:57 --> 20:00] Room Go. Just give up. You're not a match for me.\n[20:00 --> 20:08] Mom, anytime, anywhere.\n[20:08 --> 20:12] Okay, that's fine. I don't know the muffin man, though.\n[20:12 --> 20:15] Like, I don't know every man in town, alright?\n[20:15 --> 20:18] So you don't have to ask.\n[20:18 --> 20:20] Edgy is Shoshin Joe? God damn it.\n[20:20 --> 20:22] That's crazy. Why is he named that?\n[20:22 --> 20:27] Okay, fine. We're gonna quit.\n[20:27 --> 20:29] Oh, I can't.\n[20:29 --> 20:33] Hit the select key.\n[20:33 --> 20:35] Oh, reset.\n[20:35 --> 20:41] Yeah.\n[20:41 --> 20:43] Oh, Edgy.\n[20:43 --> 20:45] Oh, because he makes you Ed?\n[20:45 --> 20:48] With his boots? Is that why?\n[20:48 --> 20:54] Um, this isn't show, is it?\n[20:54 --> 21:14] His boots aren't that high. Aren't that big?\n[21:14 --> 21:19] This is my favorite move ever.\n[21:19 --> 21:22] He's just out blowing this little girl in the face.\n[21:22 --> 21:24] Oh my God.\n[21:24 --> 21:27] You look like you should be one of the fighters in your new outfit.\n[21:27 --> 21:29] And not Ryu.\n[21:29 --> 21:31] Hadoken! Hadoken!\n[21:31 --> 21:33] Wow, that's a very good Ryu.\n[21:33 --> 21:35] Um, good job with that.\n[21:35 --> 21:38] That's crazy. Oh God, am I gonna die?\n[21:38 --> 21:41] Nope, I killed her with a sword instead.\n[21:41 --> 21:44] After elbowing her in the face.\n[21:44 --> 21:46] About a dozen times.\n[21:46 --> 21:48] No problem!\n[21:48 --> 21:52] Oh, get slid on, dude.\n[21:52 --> 21:55] Stop it!\n[21:55 --> 22:01] Alright, fireball? I have a fireball.\n[22:07 --> 22:09] What?\n[22:09 --> 22:11] Is this a chicken joint like Popeye's?\n[22:11 --> 22:13] Yeah, this sounds...\n[22:13 --> 22:15] Did you get you a six-piece boneless combo?\n[22:15 --> 22:17] Yes, please. Yes, please.\n[22:17 --> 22:19] I'll try cock ring.\n[22:19 --> 22:21] Shuzun!\n[22:21 --> 22:23] That's a weird name for it, because like,\n[22:23 --> 22:25] what does a ring have to do with eating, but whatever.\n[22:25 --> 22:27] It's like a ring of people that make chickens.\n[22:27 --> 22:29] Uh, okay, I beat her easily.\n[22:29 --> 22:32] That was very good. You might have noticed.\n[22:32 --> 22:34] No problem!\n[22:35 --> 22:45] Rick, it's fine. We're okay. Rick!\n[22:45 --> 22:47] Rick, it's okay.\n[22:49 --> 22:52] Isn't this guy Shoshinjo?\n[22:52 --> 22:54] This guy's got way more of a Shoshinjo vibe.\n[22:54 --> 23:11] Whoa, I'm getting my...\n[23:11 --> 23:14] That's impossible. Get stabbed repeatedly.\n[23:14 --> 23:16] The problem is I was using too many moves.\n[23:16 --> 23:26] I was trying to get too fancy with it.\n[23:26 --> 23:28] What?\n[23:28 --> 23:30] Mom, what...\n[23:30 --> 23:36] Mom, stop losing your mind at my door.\n[23:36 --> 23:38] You're gonna lose your mind in the basement.\n[23:38 --> 23:41] You're gonna lose your mind. Please don't do it around my room.\n[23:41 --> 23:43] It's slid on, dude.\n[23:43 --> 23:45] Okay, get stabbed.\n[23:45 --> 23:47] I'm trying to use my ultimate move here, elbow.\n[23:47 --> 23:49] Fuck! What was that shit?\n[23:49 --> 23:59] No! That was he cheated and he cheated with all of his dodges.\n[23:59 --> 24:08] Oh, shit. Oh, God, what was that?\n[24:08 --> 24:12] Stop it!\n[24:12 --> 24:23] Okay, I think I found my strat again.\n[24:23 --> 24:26] Hey, where are you going? His name is Shoshinjo.\n[24:26 --> 24:29] His name is Robert Paulson.\n[24:29 --> 24:31] Who?\n[24:31 --> 24:33] You're talking about the muffin man still?\n[24:33 --> 24:35] His name is Robert Paulson.\n[24:35 --> 24:38] His name is Robert Paulson.\n[24:38 --> 24:40] Did you mean the muffin man?\n[24:40 --> 24:42] Oh, oh, oh, sorry.\n[24:42 --> 24:44] Stop it, dude. Stop it.\n[24:44 --> 24:46] No!\n[24:46 --> 24:48] Oh, I got killed off the roof.\n[24:48 --> 24:50] I suspect that I'm dead.\n[24:50 --> 24:53] Jump? Oh, three.\n[24:53 --> 24:55] Deadly man.\n[24:55 --> 24:57] Kill me, huh?\n[24:57 --> 25:00] What the hell? Why can't I jump so high?\n[25:00 --> 25:07] Oh, my God, these guys have fucking ups.\n[25:07 --> 25:18] Deadly man.\n[25:18 --> 25:20] I just have to lure him off the edge. This is my strategy.\n[25:20 --> 25:22] No, stop it.\n[25:22 --> 25:25] No!\n[25:25 --> 25:27] Because he's not wearing his knee-high boots.\n[25:27 --> 25:32] Do power them.\n[25:32 --> 25:50] Let's try one other character.\n[25:50 --> 25:52] Thanks.\n[25:52 --> 25:54] I think Foe would probably be better.\n[25:54 --> 25:56] He's older. He's got more experience in the fight game.\n[25:56 --> 26:04] So...\n[26:04 --> 26:06] Look at this shit. Look at this guy.\n[26:06 --> 26:08] My guy's floating.\n[26:08 --> 26:16] But it's Robert Paulson.\n[26:16 --> 26:18] Sonomri is Robert Paulson.\n[26:18 --> 26:20] Oh, my God. I'm a beautiful Belaroon of Pain.\n[26:20 --> 26:22] Sonomri is Robert Paulson.\n[26:22 --> 26:24] What the hell? You see that?\n[26:24 --> 26:26] Sonomri is Robert Paulson.\n[26:26 --> 26:28] Rick, I don't know Robert Paulson.\n[26:28 --> 26:30] Why is everybody on my ass about Robert Paulson?\n[26:30 --> 26:32] Dude, stop it.\n[26:32 --> 26:37] Oh, my God. I got a huge ball.\n[26:37 --> 26:39] I just need to do that more.\n[26:39 --> 26:41] Dude, get balled on.\n[26:41 --> 26:43] How did I do that?\n[26:43 --> 26:45] Is it a full circle type move?\n[26:45 --> 26:49] Show Sinjo is a boss and a hidden character in this game.\n[26:49 --> 26:51] To unlock him with a code,\n[26:51 --> 26:53] you need a second controller\n[26:53 --> 26:55] and you can look up the codes.\n[26:55 --> 26:57] I don't believe in two player games.\n[26:57 --> 26:59] Stop it.\n[26:59 --> 27:01] Yes! Ultimate move.\n[27:01 --> 27:10] I don't know how I do that though.\n[27:10 --> 27:12] I don't know how to do that.\n[27:12 --> 27:14] I don't know how to do that.\n[27:14 --> 27:18] I don't know how I do that though.\n[27:18 --> 27:20] I haven't figured out how I need to do that.\n[27:20 --> 27:22] Oh, my God. You're so cheap.\n[27:24 --> 27:26] Yes, get smashed to death.\n[27:32 --> 27:34] Okay.\n[27:40 --> 27:42] She already took it off.\n[27:42 --> 27:44] She gave her a rash.\n[27:44 --> 27:46] Oh, shit. I jumped to my death.\n[27:46 --> 27:48] I killed myself.\n[27:48 --> 27:50] And that's against terms of service.\n[27:50 --> 27:52] Oh, whatever.\n[27:52 --> 27:54] He's so proud of himself.\n[27:54 --> 27:56] I'm just trying to learn how to do these ball moves.\n[27:56 --> 27:58] Yes.\n[27:58 --> 28:00] How am I doing that though?\n[28:00 --> 28:02] I'm just kind of spamming fireballs.\n[28:02 --> 28:06] Seeing how they do it.\n[28:16 --> 28:18] I need a controller.\n[28:18 --> 28:20] Now, you can check the code.\n[28:26 --> 28:31] Do the ball.\n[28:31 --> 28:33] Do the ball.\n[28:35 --> 28:37] Oh, he got balled on.\n[28:37 --> 28:39] He got balled on.\n[28:39 --> 28:41] This guy is the ultimate warrior.\n[28:41 --> 28:43] Shoshinjo, step over.\n[28:43 --> 28:47] I'm not allowed to stop playing this until you unlock Shoshinjo.\n[28:47 --> 28:51] I don't know how to unlock Shoshinjo.\n[28:51 --> 28:54] I wish I could.\n[28:56 --> 28:58] I negated her move with my giant ball.\n[29:06 --> 29:17] Oh, that was sick.\n[29:17 --> 29:19] Oh, my God. I have so many ball moves.\n[29:23 --> 29:25] They're lucky I don't know how I'm actually doing that move.\n[29:25 --> 29:27] I would be doing nothing but it.\n[29:27 --> 29:29] Thundering.\n[29:31 --> 29:33] Yeah, I'm honestly...\n[29:56 --> 29:58] Stop it.\n[29:58 --> 30:00] That's not...\n[30:00 --> 30:02] You're not allowed to use special moves. It's only me.\n[30:02 --> 30:04] What am I doing?\n[30:04 --> 30:06] Yeah, there we go.\n[30:08 --> 30:10] Oh, shit. Why did I...\n[30:12 --> 30:14] Continue to unlock Shoshinjo.\n[30:14 --> 30:18] That's ridiculous.\n[30:18 --> 30:20] I just need to save state with show online.\n[30:20 --> 30:22] Oh, yeah. Get fucking blasted on.\n[30:22 --> 30:25] No!\n[30:25 --> 30:27] Damn it, it was so close.\n[30:27 --> 30:29] Oh, she's going to fall off.\n[30:29 --> 30:31] Yes!\n[30:31 --> 30:33] Draw! She died.\n[30:33 --> 30:35] More than me. She died. She fell so far.\n[30:51 --> 30:53] Lady.\n[30:53 --> 30:55] Tech, tech, tech.\n[30:55 --> 30:57] You get it.\n[30:57 --> 30:59] I don't...\n[30:59 --> 31:01] I don't get it, Brick.\n[31:01 --> 31:03] I don't understand that at all.\n[31:03 --> 31:08] Dude, I do not know\n[31:08 --> 31:10] how to do this ball move.\n[31:10 --> 31:12] Oh, it's double buttons.\n[31:12 --> 31:16] That doesn't make sense to say...\n[31:16 --> 31:18] No!\n[31:18 --> 31:25] I'm the ghost of Andy Rooney.\n[31:25 --> 31:27] And this isn't 60 minutes.\n[31:27 --> 31:29] For the record, I don't like feet.\n[31:29 --> 31:31] I was more of a hands guy.\n[31:31 --> 31:33] That AI abomination\n[31:33 --> 31:35] doesn't represent my views.\n[31:35 --> 31:37] Brick, you're Brick Lizard.\n[31:37 --> 31:39] What are you even talking about?\n[31:39 --> 31:42] Fuck. Okay, well, this game's impossible.\n[31:42 --> 31:44] Any time, any there.\n[31:44 --> 31:46] Look at this girl's body proportions.\n[31:46 --> 31:48] They're not even real. What? Oh, there was a draw.\n[31:48 --> 31:50] I forgot about the draw.\n[31:50 --> 32:06] Okay, wait. I got to look up...\n[32:06 --> 32:08] What's this guy's name? His name is Foe?\n[32:08 --> 32:10] I got to find out how to do this one move\n[32:10 --> 32:12] so I can just spam it.\n[32:12 --> 32:14] Foe.\n[32:14 --> 32:16] Battle Arena Toshinden\n[32:16 --> 32:18] Moves.\n[32:18 --> 32:20] Move list.\n[32:20 --> 32:22] Um...\n[32:22 --> 32:26] For Foe, please.\n[32:26 --> 32:28] Oh my god, why does this...\n[32:28 --> 32:30] I can't even search him in here because...\n[32:30 --> 32:32] Okay.\n[32:32 --> 32:34] Dawn Pop-off.\n[32:34 --> 32:36] Forward, down, forward, down, down, back, B, slash.\n[32:36 --> 32:38] Protap, the secret move for the character you selected\n[32:38 --> 32:40] is up, up, slash, down,\n[32:40 --> 32:42] forward, up, kick,\n[32:42 --> 32:44] up, up, slash, down,\n[32:44 --> 32:46] forward, left.\n[32:46 --> 32:48] I wonder what slash is.\n[32:48 --> 32:50] Forward,\n[32:50 --> 32:52] down, forward, oh, so it's just a sweep\n[32:52 --> 32:54] back and slash.\n[32:54 --> 32:57] Okay.\n[32:57 --> 32:59] Down, down,\n[32:59 --> 33:01] okay, so all this shit's like backwards.\n[33:01 --> 33:03] This is crazy.\n[33:03 --> 33:05] Forward, okay, so I have to do a sweep\n[33:05 --> 33:07] backwards. Alright.\n[33:07 --> 33:09] This should be pretty easy for someone as good\n[33:09 --> 33:14] at games as me.\n[33:14 --> 33:33] Stop it, stop it.\n[33:33 --> 33:35] You see that? You see that?\n[33:35 --> 33:37] Oh no, no, no, no.\n[33:37 --> 33:41] Stop it.\n[33:41 --> 33:43] Stop it, Foe.\n[33:43 --> 33:48] Getting carried away.\n[33:48 --> 33:50] I tricked her. I thought I made it look so easy flying around\n[33:50 --> 33:52] the map. She tried it.\n[33:52 --> 33:54] And now she's dead.\n[33:54 --> 33:59] So it goes.\n[33:59 --> 34:01] A revolution.\n[34:07 --> 34:10] No.\n[34:10 --> 34:12] Not at all, mom. Try again.\n[34:12 --> 34:15] I'm playing as an old man actually.\n[34:15 --> 34:17] And I'm killing women.\n[34:17 --> 34:19] So try again, mom.\n[34:19 --> 34:34] Oh my god.\n[34:34 --> 34:43] Ah, Brick was.\n[34:51 --> 34:55] Whatever you're saying sounds psychotic.\n[34:55 --> 34:57] And I think you're having a mental break.\n[34:57 --> 34:59] Okay, Brick. Okay.\n[34:59 --> 35:12] Did you see these moves?\n[35:12 --> 35:14] Look at this. Wow.\n[35:14 --> 35:16] I'm a beautiful dancer.\n[35:16 --> 35:20] It's incredible.\n[35:20 --> 35:30] And then I just claws stupid face.\n[35:30 --> 35:32] Stop it, stop it, stop it. Stop doing that to me.\n[35:32 --> 35:34] I need to, I need to skate velocity.\n[35:34 --> 35:40] Okay, good.\n[35:40 --> 35:42] Oh god, what the hell?\n[35:42 --> 35:44] I did it.\n[35:44 --> 35:49] I did the move that I've been trying to do.\n[35:49 --> 35:54] No.\n[35:54 --> 35:56] Fuck.\n[36:04 --> 36:06] Shit.\n[36:06 --> 36:10] I gotta pause this. I gotta figure out what this flying move is.\n[36:10 --> 36:16] The one that sends me into the air.\n[36:16 --> 36:18] Hayaki Moshe Ken.\n[36:18 --> 36:20] Forward, down, forward.\n[36:20 --> 36:22] Down, down, back.\n[36:22 --> 36:24] Back, down, back.\n[36:24 --> 36:26] Oh, it's like two sweeps.\n[36:26 --> 36:30] I sweep forward to the back and then back to the foe.\n[36:30 --> 36:32] Okay.\n[36:32 --> 36:34] Now we understand the power of foe.\n[36:34 --> 36:42] Brandon, use old man blue balls to win.\n[36:42 --> 36:59] Stop doing combos to me.\n[36:59 --> 37:07] It's literally cheating.\n[37:07 --> 37:09] Get clawed to death. Oh, it worked.\n[37:09 --> 37:11] I just had to claws face about 10 times.\n[37:11 --> 37:19] This is the best character in a fighting game ever.\n[37:19 --> 37:21] What?\n[37:21 --> 37:23] Up, up, slash, down, forward.\n[37:23 --> 37:27] Up, up, slash, down, forward, left.\n[37:27 --> 37:31] I got this often, FAQs, I swear.\n[37:31 --> 37:33] It seemed like a lot, mom.\n[37:33 --> 37:40] And yet I'm already pulling this move off so beautifully.\n[37:40 --> 37:57] I'm already using it to beat up this woman in a CPU dress.\n[37:57 --> 37:59] That's the sound of victory.\n[37:59 --> 38:16] How many people do I have to beat?\n[38:16 --> 38:18] Stop it, you're beating up an old man.\n[38:18 --> 38:26] He's messed up with you.\n[38:26 --> 38:28] Oh my God.\n[38:28 --> 39:10] Take it easy, I'm old.\n[39:10 --> 39:14] Do you see my strategy? It was to slash her with my pokes.\n[39:14 --> 39:16] Oh, whatever.\n[39:16 --> 39:18] I think I'm impressed.\n[39:18 --> 39:22] I'm legitimately not impressed by your moves.\n[39:22 --> 39:24] Why won't my balls go blue anymore?\n[39:24 --> 39:31] Flying kick.\n[39:31 --> 39:35] Carter Joe showed me his mystic fears long ago.\n[39:35 --> 39:37] My very own blue for long.\n[39:37 --> 39:39] Okay, well, then he probably wasn't focusing.\n[39:39 --> 39:41] He probably couldn't keep his fear going.\n[39:41 --> 39:43] It probably collapsed.\n[39:43 --> 39:45] Just do the blue ball move.\n[39:45 --> 39:47] Yes!\n[39:47 --> 39:59] Oh, I'm going to get him.\n[39:59 --> 40:01] Blue ball move.\n[40:01 --> 40:03] Yes!\n[40:03 --> 40:05] No, no, the blue ball move, dude.\n[40:05 --> 40:12] You know our bread and butter.\n[40:12 --> 40:14] Have been your biggest weakness.\n[40:14 --> 40:16] Yeah.\n[40:16 --> 40:18] Honestly, I'm more upper body strength.\n[40:18 --> 40:20] That's just facts.\n[40:20 --> 40:22] Wait, what were you trying to say?\n[40:22 --> 40:24] Bow one.\n[40:24 --> 40:28] Shoot the knee.\n[40:28 --> 40:30] No, don't do this to me, edgy.\n[40:30 --> 40:32] I just want to meet your brother in his boots.\n[40:32 --> 40:43] I baited him.\n[40:43 --> 40:45] I baited him.\n[40:45 --> 40:47] Get out of here.\n[40:47 --> 40:49] Do the kick.\n[40:51 --> 40:53] What?\n[40:53 --> 40:55] It's all yellow and smells like bleach.\n[40:55 --> 40:57] No problem.\n[40:57 --> 40:59] Is it yours?\n[40:59 --> 41:01] Yeah.\n[41:01 --> 41:03] Yeah, it's where I was keeping banana milk.\n[41:03 --> 41:05] But it turns out, socks aren't good for storing liquids.\n[41:05 --> 41:07] I was trying to store some old banana milk\n[41:07 --> 41:09] in a sock.\n[41:09 --> 41:11] I'm not sure if I can get it.\n[41:11 --> 41:13] I'm not sure if I can get banana milk in a sock.\n[41:13 --> 41:15] But it leaked out, I guess.\n[41:15 --> 41:17] I guess it leaked out.\n[41:17 --> 41:19] I tried to clean it up with bleach by jumping bleach\n[41:19 --> 41:21] on the sock in the carpet that the sock was on.\n[41:21 --> 41:23] It didn't work that well, honestly.\n[41:23 --> 41:27] Cleaning products don't really work.\n[41:27 --> 41:29] I'll steam while playing this.\n[41:29 --> 41:31] I hear it goes with everything.\n[41:31 --> 41:33] What?\n[41:33 --> 41:35] But I'm dying.\n[41:35 --> 41:38] Okay, one second.\n[41:38 --> 41:40] If I don't start winning, though, Brick,\n[41:40 --> 41:42] then\n[41:42 --> 41:44] you're banned.\n[41:44 --> 41:46] You're not. I don't think I can ban you because you're the CIA.\n[41:46 --> 41:51] Okay.\n[41:51 --> 41:56] Now I should be able to do this, right?\n[41:56 --> 42:03] Shazam!\n[42:03 --> 42:05] Oh, what's wrong, baby?\n[42:05 --> 42:07] I don't think that's what I'm gonna do.\n[42:07 --> 42:13] Oh, walk out.\n[42:13 --> 42:15] It didn't work at all.\n[42:15 --> 42:17] The guile theme made me play worse.\n[42:17 --> 42:21] Fuck.\n[42:21 --> 42:23] It's not my fault. It's because I had to pause for the theme.\n[42:23 --> 42:28] So why can't we casual pause?\n[42:28 --> 42:30] Because I can't focus while I'm wearing...\n[42:30 --> 42:32] while I'm not wearing a blazer.\n[42:32 --> 42:34] Like a cool bolt.\n[42:34 --> 42:38] All right, guys.\n[42:38 --> 42:40] It's gonna do it.\n[42:40 --> 42:42] Saab, Breechie.\n[42:42 --> 42:44] Got me thinking. Spin City is the only thing that calms my foot fetish.\n[42:44 --> 42:48] Okay.\n[42:48 --> 42:50] That's fine, Brick.\n[42:50 --> 42:52] I mean, I don't know what\n[42:52 --> 42:54] either of those things are exactly,\n[42:54 --> 42:56] but just relax.\n[42:56 --> 42:58] Okay, everybody.\n[42:58 --> 43:00] It's gonna do it for now.\n[43:00 --> 43:02] Let's set it back to the new game.\n[43:02 --> 43:04] Let's set it back to the new studio.\n[43:04 --> 43:06] We're some guy standing by or something.\n[43:06 --> 43:08] I don't... I mean, whatever.\n[43:08 --> 43:10] It's news time.\n[43:10 --> 43:18] Alright, everybody.\n[43:18 --> 43:39] We're gonna count that as a stream.\n[43:39 --> 43:41] No one can deny that that was a stream that existed.\n[43:41 --> 43:43] Man, AI really given us more trouble than ever today.\n[43:43 --> 43:47] By breaking the stream repeatedly.\n[43:47 --> 43:49] G, G's indeed, Brendan's mom.\n[43:49 --> 43:51] I don't know how you're piping in here right now,\n[43:51 --> 43:53] but just coming to sign us off with the mat\n[43:53 --> 43:55] to say goodbye to you.\n[43:55 --> 43:57] I'm gonna go back to the studio\n[43:57 --> 43:59] just coming to sign us off with the mat tat.\n[43:59 --> 44:01] This might be the last time we ever see it.\n[44:01 --> 44:03] This might be the last time we ever see it.\n[44:03 --> 44:05] Ooh.\n[44:05 --> 44:07] Ooh.\n[44:07 --> 44:09] I should put it here next time so you can be on my\n[44:09 --> 44:11] very white skin.\n[44:11 --> 44:13] Grotesquely white.\n[44:13 --> 44:16] Yeah, we had the guns out today to show off the mat tat.\n[44:16 --> 44:18] Yeah, we had the guns out today to show off the mat tat.\n[44:18 --> 44:20] And honestly, because Kendall took one,\n[44:20 --> 44:22] I only have eight more of these.\n[44:22 --> 44:24] Not enough!\n[44:24 --> 44:26] Not enough mat tats.\n[44:26 --> 44:28] What was the deal with some of the stuff\n[44:28 --> 44:30] AI pretty was saying today?\n[44:30 --> 44:34] I could let you in on how it works\n[44:34 --> 44:36] because I talked to Chet.\n[44:36 --> 44:38] But even knowing how it works,\n[44:38 --> 44:40] which is not complicated, sometimes he says something\n[44:40 --> 44:42] and I'm like, what was that one?\n[44:42 --> 44:44] A stream giveaway, yeah.\n[44:44 --> 44:46] Um, okay.\n[44:46 --> 44:48] Let's see who is on.\n[44:48 --> 44:52] It's gonna be stuck in my head for the next two weeks.\n[44:52 --> 44:56] Do you mean the guile theme?\n[44:56 --> 44:58] It's always in there anyway.\n[44:58 --> 45:00] Show off the pythons, we've been talking about it.\n[45:00 --> 45:02] Anyway, show off the pythons.\n[45:02 --> 45:04] We've been showing off these pythons all day.\n[45:04 --> 45:06] Thanks to Matt for providing his face.\n[45:06 --> 45:08] Thanks to Live and Sleazy for\n[45:08 --> 45:10] always providing the ROMs,\n[45:10 --> 45:12] even though Brendan is not smart\n[45:12 --> 45:14] and doesn't get how to load them.\n[45:14 --> 45:16] Even when it's as simple as clicking on a web browser,\n[45:16 --> 45:18] it confuses him somehow.\n[45:18 --> 45:21] His problem, not mine.\n[45:21 --> 45:23] Oh, his son is on.\n[45:23 --> 45:29] Gosh, his son's on.\n[45:29 --> 45:31] Yeah, I don't...\n[45:31 --> 45:33] I don't know. There's a chance.\n[45:33 --> 45:35] Definitely if we ever had more viewers,\n[45:35 --> 45:38] we couldn't do AI Rooney as it is right now.\n[45:38 --> 45:40] For a number of reasons, but...\n[45:40 --> 45:44] Sometimes he just...\n[45:44 --> 45:46] Sometimes he really goes into business for himself.\n[45:46 --> 45:49] I'll put it that way.\n[45:49 --> 45:52] But maybe there's a way to...\n[45:52 --> 45:53] apply...\n[45:53 --> 45:54] The thing is, he's got...\n[45:54 --> 45:56] Obviously he needs to be horny,\n[45:56 --> 45:58] but he needs to not be racist\n[45:58 --> 46:00] or homophobic or use slurs.\n[46:00 --> 46:02] And he can't mention minors.\n[46:02 --> 46:04] These are the rules I gave him,\n[46:04 --> 46:06] and he's not really abiding by them, so...\n[46:06 --> 46:08] I don't know if we can continue with the segment\n[46:08 --> 46:11] into perpetuity, but we'll keep trying for now.\n[46:13 --> 46:14] Raid iron most.\n[46:14 --> 46:16] Oh, I was raiding Raz.\n[46:18 --> 46:21] Yeah, he's from a different time, I guess, to be fair.\n[46:22 --> 46:24] So, what can you do?\n[46:24 --> 46:26] Oh, he never did the DJC4.\n[46:26 --> 46:28] There wasn't a DJC4 request.\n[46:28 --> 46:32] Even better.\n[46:32 --> 46:34] Raid Bernie Sanders?\n[46:34 --> 46:37] Does he have the alert set up so I can get the shout out?\n[46:37 --> 46:41] Yeah, well, I mean, I'm happy to raid iron most or whoever\n[46:41 --> 46:44] in the future, but as I've already typed in Raz,\n[46:44 --> 46:46] I'm too lazy to change it.\n[46:46 --> 46:47] I'll raid gold rat.\n[46:47 --> 46:48] Just bring it up next.\n[46:48 --> 46:53] Just say raid gold rat slightly before I raid someone else.\n[46:53 --> 46:55] And I'm a trained monkey. I'll do it.\n[46:55 --> 46:58] I gotta go get Kendall dumplings.\n[46:58 --> 46:59] She's monster.\n[46:59 --> 47:01] And I gotta...\n[47:01 --> 47:02] get this permanent...\n[47:02 --> 47:04] a permanent version of this mat tattoo, obviously.\n[47:04 --> 47:06] It's priority number one.\n[47:07 --> 47:08] Feed your itchy...\n[47:08 --> 47:09] I hope she's doing okay.\n[47:09 --> 47:11] Okay, say hi to Raz for me.\n[47:11 --> 47:12] It's just a case raid, everyone.\n[47:12 --> 47:15] We'll be back on Monday with more of whatever this is.\n[47:15 --> 47:17] And see you soon.\n[47:17 --> 47:19] Wow.\n[47:19 --> 47:21] Pepito, we didn't cut to you all day.\n[47:21 --> 47:24] Okay, because I got the guns out, man.\n[47:24 --> 47:27] And they're not ready for this.\n[47:27 --> 47:28] Oh, you got a little chain too?\n[47:28 --> 47:30] It's a collar, actually.\n[47:30 --> 47:31] Okay."
+}
