@@ -1,0 +1,19 @@
+{
+  "vod_id": "rF7Aow8Vu7U",
+  "title": "Friday Newsend",
+  "url": "https://www.youtube.com/watch?v=rF7Aow8Vu7U",
+  "duration_seconds": 7573,
+  "duration": "2:06:13",
+  "timestamp": 1765584000,
+  "aired_at": "2025-12-13T00:00:00+00:00",
+  "date": "2025-12-13",
+  "ingested_at": "2026-09-16T03:11:25.240390+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "rF7Aow8Vu7U",
+  "yt_url": "https://www.youtube.com/watch?v=rF7Aow8Vu7U",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-12-13"
+}
