@@ -1,0 +1,19 @@
+{
+  "vod_id": "n-wROAV7x9Q",
+  "title": "Back in the MORE NEWS mood",
+  "url": "https://www.youtube.com/watch?v=n-wROAV7x9Q",
+  "duration_seconds": 8585,
+  "duration": "2:23:05",
+  "timestamp": 1778544000,
+  "aired_at": "2026-05-12T00:00:00+00:00",
+  "date": "2026-05-12",
+  "ingested_at": "2026-09-16T18:48:10.151354+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "n-wROAV7x9Q",
+  "yt_url": "https://www.youtube.com/watch?v=n-wROAV7x9Q",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-05-12"
+}
