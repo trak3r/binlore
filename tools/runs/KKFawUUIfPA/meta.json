@@ -1,0 +1,19 @@
+{
+  "vod_id": "KKFawUUIfPA",
+  "title": "Another Monday, Another NEWS",
+  "url": "https://www.youtube.com/watch?v=KKFawUUIfPA",
+  "duration_seconds": 11219,
+  "duration": "3:06:59",
+  "timestamp": 1779062400,
+  "aired_at": "2026-05-18T00:00:00+00:00",
+  "date": "2026-05-18",
+  "ingested_at": "2026-09-16T19:14:24.994954+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "KKFawUUIfPA",
+  "yt_url": "https://www.youtube.com/watch?v=KKFawUUIfPA",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-05-18"
+}
