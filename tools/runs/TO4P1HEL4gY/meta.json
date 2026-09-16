@@ -1,0 +1,19 @@
+{
+  "vod_id": "TO4P1HEL4gY",
+  "title": "Late Night Workouts",
+  "url": "https://www.youtube.com/watch?v=TO4P1HEL4gY",
+  "duration_seconds": 6087,
+  "duration": "1:41:27",
+  "timestamp": 1773446400,
+  "aired_at": "2026-03-14T00:00:00+00:00",
+  "date": "2026-03-14",
+  "ingested_at": "2026-09-16T11:45:02.283424+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "TO4P1HEL4gY",
+  "yt_url": "https://www.youtube.com/watch?v=TO4P1HEL4gY",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-03-14"
+}
