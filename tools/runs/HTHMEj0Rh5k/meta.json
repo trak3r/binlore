@@ -1,0 +1,19 @@
+{
+  "vod_id": "HTHMEj0Rh5k",
+  "title": "Another Week, Another NEWS",
+  "url": "https://www.youtube.com/watch?v=HTHMEj0Rh5k",
+  "duration_seconds": 8658,
+  "duration": "2:24:18",
+  "timestamp": 1777852800,
+  "aired_at": "2026-05-04T00:00:00+00:00",
+  "date": "2026-05-04",
+  "ingested_at": "2026-09-16T18:29:52.761502+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "HTHMEj0Rh5k",
+  "yt_url": "https://www.youtube.com/watch?v=HTHMEj0Rh5k",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-05-04"
+}
