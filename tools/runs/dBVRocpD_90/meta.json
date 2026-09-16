@@ -1,0 +1,19 @@
+{
+  "vod_id": "dBVRocpD_90",
+  "title": "Tuesday Newsday",
+  "url": "https://www.youtube.com/watch?v=dBVRocpD_90",
+  "duration_seconds": 8408,
+  "duration": "2:20:08",
+  "timestamp": 1768953600,
+  "aired_at": "2026-01-21T00:00:00+00:00",
+  "date": "2026-01-21",
+  "ingested_at": "2026-09-16T05:02:06.911843+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "dBVRocpD_90",
+  "yt_url": "https://www.youtube.com/watch?v=dBVRocpD_90",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-01-21"
+}
