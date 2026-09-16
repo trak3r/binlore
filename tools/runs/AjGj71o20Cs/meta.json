@@ -1,0 +1,19 @@
+{
+  "vod_id": "AjGj71o20Cs",
+  "title": "Monday News Slop",
+  "url": "https://www.youtube.com/watch?v=AjGj71o20Cs",
+  "duration_seconds": 7780,
+  "duration": "2:09:40",
+  "timestamp": 1765238400,
+  "aired_at": "2025-12-09T00:00:00+00:00",
+  "date": "2025-12-09",
+  "ingested_at": "2026-09-16T02:45:33.032418+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "AjGj71o20Cs",
+  "yt_url": "https://www.youtube.com/watch?v=AjGj71o20Cs",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-12-09"
+}
