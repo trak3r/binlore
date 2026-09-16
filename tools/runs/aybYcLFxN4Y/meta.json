@@ -1,0 +1,19 @@
+{
+  "vod_id": "aybYcLFxN4Y",
+  "title": "Wentheday Newthday",
+  "url": "https://www.youtube.com/watch?v=aybYcLFxN4Y",
+  "duration_seconds": 5154,
+  "duration": "1:25:54",
+  "timestamp": 1769040000,
+  "aired_at": "2026-01-22T00:00:00+00:00",
+  "date": "2026-01-22",
+  "ingested_at": "2026-09-16T05:15:09.370861+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "aybYcLFxN4Y",
+  "yt_url": "https://www.youtube.com/watch?v=aybYcLFxN4Y",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-01-22"
+}
