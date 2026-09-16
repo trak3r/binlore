@@ -1,0 +1,19 @@
+{
+  "vod_id": "yoNLHJo56bs",
+  "title": "Friday News Dump",
+  "url": "https://www.youtube.com/watch?v=yoNLHJo56bs",
+  "duration_seconds": 8739,
+  "duration": "2:25:39",
+  "timestamp": 1764979200,
+  "aired_at": "2025-12-06T00:00:00+00:00",
+  "date": "2025-12-06",
+  "ingested_at": "2026-09-16T02:31:19.964476+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "yoNLHJo56bs",
+  "yt_url": "https://www.youtube.com/watch?v=yoNLHJo56bs",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-12-06"
+}
