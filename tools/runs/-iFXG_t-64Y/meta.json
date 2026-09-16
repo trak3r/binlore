@@ -1,0 +1,19 @@
+{
+  "vod_id": "-iFXG_t-64Y",
+  "title": "Back in the News",
+  "url": "https://www.youtube.com/watch?v=-iFXG_t-64Y",
+  "duration_seconds": 8277,
+  "duration": "2:17:57",
+  "timestamp": 1764806400,
+  "aired_at": "2025-12-04T00:00:00+00:00",
+  "date": "2025-12-04",
+  "ingested_at": "2026-09-16T02:16:16.824120+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "-iFXG_t-64Y",
+  "yt_url": "https://www.youtube.com/watch?v=-iFXG_t-64Y",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-12-04"
+}
