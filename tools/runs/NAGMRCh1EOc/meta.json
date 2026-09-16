@@ -1,0 +1,19 @@
+{
+  "vod_id": "NAGMRCh1EOc",
+  "title": "Resigned to the NEWS",
+  "url": "https://www.youtube.com/watch?v=NAGMRCh1EOc",
+  "duration_seconds": 7897,
+  "duration": "2:11:37",
+  "timestamp": 1773705600,
+  "aired_at": "2026-03-17T00:00:00+00:00",
+  "date": "2026-03-17",
+  "ingested_at": "2026-09-16T11:54:24.881427+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "NAGMRCh1EOc",
+  "yt_url": "https://www.youtube.com/watch?v=NAGMRCh1EOc",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-03-17"
+}
