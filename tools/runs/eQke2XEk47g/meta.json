@@ -1,0 +1,19 @@
+{
+  "vod_id": "eQke2XEk47g",
+  "title": "Newsing for the Weekend",
+  "url": "https://www.youtube.com/watch?v=eQke2XEk47g",
+  "duration_seconds": 9021,
+  "duration": "2:30:21",
+  "timestamp": 1768608000,
+  "aired_at": "2026-01-17T00:00:00+00:00",
+  "date": "2026-01-17",
+  "ingested_at": "2026-09-16T04:47:31.660918+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "eQke2XEk47g",
+  "yt_url": "https://www.youtube.com/watch?v=eQke2XEk47g",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-01-17"
+}
