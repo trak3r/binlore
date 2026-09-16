@@ -1,0 +1,19 @@
+{
+  "vod_id": "lzFoheJkjZ4",
+  "title": "Grunchmas 2025",
+  "url": "https://www.youtube.com/watch?v=lzFoheJkjZ4",
+  "duration_seconds": 8773,
+  "duration": "2:26:13",
+  "timestamp": 1766102400,
+  "aired_at": "2025-12-19T00:00:00+00:00",
+  "date": "2025-12-19",
+  "ingested_at": "2026-09-16T03:43:11.646167+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "lzFoheJkjZ4",
+  "yt_url": "https://www.youtube.com/watch?v=lzFoheJkjZ4",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-12-19"
+}
