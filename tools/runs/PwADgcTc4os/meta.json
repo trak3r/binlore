@@ -1,0 +1,19 @@
+{
+  "vod_id": "PwADgcTc4os",
+  "title": "Mid Week Newsery",
+  "url": "https://www.youtube.com/watch?v=PwADgcTc4os",
+  "duration_seconds": 7537,
+  "duration": "2:05:37",
+  "timestamp": 1765411200,
+  "aired_at": "2025-12-11T00:00:00+00:00",
+  "date": "2025-12-11",
+  "ingested_at": "2026-09-16T02:58:56.801852+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "PwADgcTc4os",
+  "yt_url": "https://www.youtube.com/watch?v=PwADgcTc4os",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-12-11"
+}
