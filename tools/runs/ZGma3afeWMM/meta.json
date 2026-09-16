@@ -1,0 +1,19 @@
+{
+  "vod_id": "ZGma3afeWMM",
+  "title": "Monday News Blast",
+  "url": "https://www.youtube.com/watch?v=ZGma3afeWMM",
+  "duration_seconds": 8534,
+  "duration": "2:22:14",
+  "timestamp": 1764028800,
+  "aired_at": "2025-11-25T00:00:00+00:00",
+  "date": "2025-11-25",
+  "ingested_at": "2026-09-16T01:46:49.677133+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "ZGma3afeWMM",
+  "yt_url": "https://www.youtube.com/watch?v=ZGma3afeWMM",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-11-25"
+}
