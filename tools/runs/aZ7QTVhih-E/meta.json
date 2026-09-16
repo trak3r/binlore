@@ -1,0 +1,19 @@
+{
+  "vod_id": "aZ7QTVhih-E",
+  "title": "Bonking the News",
+  "url": "https://www.youtube.com/watch?v=aZ7QTVhih-E",
+  "duration_seconds": 8769,
+  "duration": "2:26:09",
+  "timestamp": 1773964800,
+  "aired_at": "2026-03-20T00:00:00+00:00",
+  "date": "2026-03-20",
+  "ingested_at": "2026-09-16T14:20:23.848503+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "aZ7QTVhih-E",
+  "yt_url": "https://www.youtube.com/watch?v=aZ7QTVhih-E",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-03-20"
+}
