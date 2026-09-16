@@ -1,0 +1,19 @@
+{
+  "vod_id": "HQATAA2cFZA",
+  "title": "Quick Stream Before Patreon",
+  "url": "https://www.youtube.com/watch?v=HQATAA2cFZA",
+  "duration_seconds": 5340,
+  "duration": "1:29:00",
+  "timestamp": 1772755200,
+  "aired_at": "2026-03-06T00:00:00+00:00",
+  "date": "2026-03-06",
+  "ingested_at": "2026-09-16T10:43:03.344913+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "HQATAA2cFZA",
+  "yt_url": "https://www.youtube.com/watch?v=HQATAA2cFZA",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-03-06"
+}
