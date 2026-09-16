@@ -1,0 +1,19 @@
+{
+  "vod_id": "EDonZvzvWPg",
+  "title": "Unblocking the News",
+  "url": "https://www.youtube.com/watch?v=EDonZvzvWPg",
+  "duration_seconds": 10438,
+  "duration": "2:53:58",
+  "timestamp": 1776124800,
+  "aired_at": "2026-04-14T00:00:00+00:00",
+  "date": "2026-04-14",
+  "ingested_at": "2026-09-16T16:09:11.251958+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "EDonZvzvWPg",
+  "yt_url": "https://www.youtube.com/watch?v=EDonZvzvWPg",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-04-14"
+}
