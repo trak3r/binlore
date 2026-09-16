@@ -1,0 +1,19 @@
+{
+  "vod_id": "JdY8XzYEq0g",
+  "title": "Indefinitely Firing Wednesday News",
+  "url": "https://www.youtube.com/watch?v=JdY8XzYEq0g",
+  "duration_seconds": 8808,
+  "duration": "2:26:48",
+  "timestamp": 1776816000,
+  "aired_at": "2026-04-22T00:00:00+00:00",
+  "date": "2026-04-22",
+  "ingested_at": "2026-09-16T17:13:23.297292+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "JdY8XzYEq0g",
+  "yt_url": "https://www.youtube.com/watch?v=JdY8XzYEq0g",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-04-22"
+}
