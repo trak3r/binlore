@@ -1,0 +1,19 @@
+{
+  "vod_id": "dEVsBowATT8",
+  "title": "Breaking the 48 Hour News Deadline",
+  "url": "https://www.youtube.com/watch?v=dEVsBowATT8",
+  "duration_seconds": 9577,
+  "duration": "2:39:37",
+  "timestamp": 1774396800,
+  "aired_at": "2026-03-25T00:00:00+00:00",
+  "date": "2026-03-25",
+  "ingested_at": "2026-09-16T14:47:10.159115+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "dEVsBowATT8",
+  "yt_url": "https://www.youtube.com/watch?v=dEVsBowATT8",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-03-25"
+}
