@@ -1,0 +1,19 @@
+{
+  "vod_id": "OqJdz29iD1E",
+  "title": "Humpday Hump News",
+  "url": "https://www.youtube.com/watch?v=OqJdz29iD1E",
+  "duration_seconds": 10399,
+  "duration": "2:53:19",
+  "timestamp": 1770854400,
+  "aired_at": "2026-02-12T00:00:00+00:00",
+  "date": "2026-02-12",
+  "ingested_at": "2026-09-16T06:55:00.241183+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "OqJdz29iD1E",
+  "yt_url": "https://www.youtube.com/watch?v=OqJdz29iD1E",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-02-12"
+}
