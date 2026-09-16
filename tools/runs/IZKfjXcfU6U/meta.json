@@ -1,0 +1,19 @@
+{
+  "vod_id": "IZKfjXcfU6U",
+  "title": "Unceasing News",
+  "url": "https://www.youtube.com/watch?v=IZKfjXcfU6U",
+  "duration_seconds": 7410,
+  "duration": "2:03:30",
+  "timestamp": 1775692800,
+  "aired_at": "2026-04-09T00:00:00+00:00",
+  "date": "2026-04-09",
+  "ingested_at": "2026-09-16T15:38:52.047614+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "IZKfjXcfU6U",
+  "yt_url": "https://www.youtube.com/watch?v=IZKfjXcfU6U",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-04-09"
+}
