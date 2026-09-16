@@ -1,0 +1,19 @@
+{
+  "vod_id": "jSa3zc6fyo0",
+  "title": "Happy News Year",
+  "url": "https://www.youtube.com/watch?v=jSa3zc6fyo0",
+  "duration_seconds": 467,
+  "duration": "7:47",
+  "timestamp": 1767657600,
+  "aired_at": "2026-01-06T00:00:00+00:00",
+  "date": "2026-01-06",
+  "ingested_at": "2026-09-16T04:12:04.300725+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "jSa3zc6fyo0",
+  "yt_url": "https://www.youtube.com/watch?v=jSa3zc6fyo0",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-01-06"
+}
