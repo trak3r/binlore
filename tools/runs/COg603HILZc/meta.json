@@ -1,0 +1,19 @@
+{
+  "vod_id": "COg603HILZc",
+  "title": "The News Strikes Again",
+  "url": "https://www.youtube.com/watch?v=COg603HILZc",
+  "duration_seconds": 6345,
+  "duration": "1:45:45",
+  "timestamp": 1773878400,
+  "aired_at": "2026-03-19T00:00:00+00:00",
+  "date": "2026-03-19",
+  "ingested_at": "2026-09-16T14:08:40.512904+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "COg603HILZc",
+  "yt_url": "https://www.youtube.com/watch?v=COg603HILZc",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-03-19"
+}
