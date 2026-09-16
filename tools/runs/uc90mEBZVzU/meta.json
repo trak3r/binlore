@@ -1,0 +1,19 @@
+{
+  "vod_id": "uc90mEBZVzU",
+  "title": "Another Tuesday News Just Dropped",
+  "url": "https://www.youtube.com/watch?v=uc90mEBZVzU",
+  "duration_seconds": 14483,
+  "duration": "4:01:23",
+  "timestamp": 1770163200,
+  "aired_at": "2026-02-04T00:00:00+00:00",
+  "date": "2026-02-04",
+  "ingested_at": "2026-09-16T06:01:20.262460+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "uc90mEBZVzU",
+  "yt_url": "https://www.youtube.com/watch?v=uc90mEBZVzU",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-02-04"
+}
