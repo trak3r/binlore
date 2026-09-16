@@ -1,0 +1,19 @@
+{
+  "vod_id": "xkVJYG7yOs4",
+  "title": "New Hair, New News",
+  "url": "https://www.youtube.com/watch?v=xkVJYG7yOs4",
+  "duration_seconds": 9424,
+  "duration": "2:37:04",
+  "timestamp": 1770336000,
+  "aired_at": "2026-02-06T00:00:00+00:00",
+  "date": "2026-02-06",
+  "ingested_at": "2026-09-16T06:26:09.503931+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "xkVJYG7yOs4",
+  "yt_url": "https://www.youtube.com/watch?v=xkVJYG7yOs4",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-02-06"
+}

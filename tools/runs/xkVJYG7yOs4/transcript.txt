@@ -1,0 +1,1569 @@
+[00:06 --> 00:12] I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog.
+[00:12 --> 08:04] We're live in ten, nine, eight, seven, six, five, four, three, two, one. Let's do this!
+[08:04 --> 08:05] I'm Pepito!
+[08:05 --> 08:39] Noises!
+[08:40 --> 08:42] Hello everybody.
+[08:43 --> 08:47] I've been searching the internet for how to use
+[08:47 --> 08:50] TurboGrafx CD games on my computer.
+[08:50 --> 08:59] If I seem like I'm distracted it's because I'm looking at this picture.
+[08:59 --> 09:01] Isn't it beautiful?
+[09:01 --> 09:05] This is what we have to look forward to today.
+[09:05 --> 09:10] Thank you it's a slightly different haircut, it's honestly not that new.
+[09:10 --> 09:13] But my side's real short.
+[09:13 --> 09:15] Real short right now.
+[09:18 --> 09:20] On a key I've never played this game.
+[09:20 --> 09:23] I've seen pictures of it though and I'll never play it actually.
+[09:23 --> 09:25] Crypto Zeus Gaming will be playing it later.
+[09:25 --> 09:29] We'll also be doing a how-to and doing some therapy today.
+[09:29 --> 09:32] So we've got a very hot stream.
+[09:32 --> 09:34] You cut it, I cut it myself in the mirror.
+[09:34 --> 09:36] Maybe I could do this one myself.
+[09:36 --> 09:38] It just was a buzz.
+[09:38 --> 09:42] But I had a lady do this for me.
+[09:42 --> 09:45] I had someone cut my hair for me.
+[09:47 --> 09:51] Did you demand staff get similar haircuts I did?
+[09:51 --> 09:54] They all said no and then they showed up with the same haircut anyway.
+[09:54 --> 09:56] They said it was their idea.
+[09:56 --> 09:58] Except for Pito who does not...
+[10:02 --> 10:04] That doesn't look like Pito at all.
+[10:04 --> 10:06] How am I supposed to look?
+[10:06 --> 10:08] That looks more like Pito.
+[10:08 --> 10:12] For a second I thought you got both my hair, haircut and my face.
+[10:12 --> 10:14] I would get neither ever.
+[10:14 --> 10:18] My hair is already highly designed evolutionarily.
+[10:18 --> 10:22] For maximum ground suction.
+[10:22 --> 10:24] Ground suction.
+[10:24 --> 10:27] It basically makes me a living vacuum.
+[10:27 --> 10:29] The design of my hair.
+[10:29 --> 10:31] How does that... how did your hair help with that?
+[10:31 --> 10:33] I don't know.
+[10:33 --> 10:38] What's the word? Nautilus?
+[10:38 --> 10:42] I'm not getting tricked into saying the word this early in the stream.
+[10:42 --> 10:45] But I don't understand how things work.
+[10:45 --> 10:49] But I don't know how my hair makes me good at sucking up food.
+[10:49 --> 10:56] RetroArcs should have a core but you might have to download some BIOS packs for the system cards.
+[10:56 --> 11:13] You just said the magic word to make my skin to sort of become cold.
+[11:13 --> 11:16] A nice flat sweat.
+[11:16 --> 11:21] The word BIOS.
+[11:21 --> 11:23] The biosphere!
+[11:23 --> 11:29] Ah, Lemon Sleazy linked me to a Reddit thread.
+[11:29 --> 11:34] Guys we can read... who needs news when we can read this Reddit thread?
+[11:34 --> 11:37] How to emulate TurboGraphic CD games?
+[11:37 --> 11:41] I'm glad that there's a lot of text on how to do it.
+[11:41 --> 11:48] That'll be fun for us to figure out together.
+[11:48 --> 11:55] They're easy to find. They probably are easy to find.
+[11:55 --> 11:58] I mean it's probably in this thread.
+[11:58 --> 12:01] First have a look at this documentation.
+[12:01 --> 12:05] There are multiple versions of CD-ROM BIOS. Maybe you have the wrong one.
+[12:05 --> 12:12] I see the core support Stut CCD files but I have no experience with them.
+[12:12 --> 12:15] I usually have ISO or CUI obviously.
+[12:15 --> 12:19] Oh you know what I also have to talk to little Munchie Joe?
+[12:19 --> 12:21] Do you know who that is, Pepito?
+[12:21 --> 12:23] Is that one of your guys from the thing?
+[12:23 --> 12:27] Isn't he like a new guy in diapers?
+[12:27 --> 12:30] Oh that helps actually.
+[12:30 --> 12:34] Maybe I can find a diaper guy to talk to?
+[12:34 --> 12:36] I just need a diaper guy.
+[12:36 --> 12:42] Maybe I just need a baby?
+[12:42 --> 12:51] You set the system card by us.
+[12:51 --> 12:56] Pepito actually I'm gonna run down really quick to see if I can get little Munchie Joe's opinion on some things.
+[12:56 --> 12:58] Because he was requested yesterday.
+[12:58 --> 13:02] So just if you can just take care of business for a minute.
+[13:02 --> 13:05] Okay that Pepito's out of sorts actually.
+[13:05 --> 13:08] So instead we'll just do this.
+[13:08 --> 13:24] That's just me. It's just me.
+[13:24 --> 13:26] I'm actually little Munchie Joe's keeper.
+[13:26 --> 13:28] I just happen to look like you.
+[13:28 --> 13:30] This is little Munchie Joe.
+[13:30 --> 13:33] If you have any questions for little Munchie Joe I will be interpreting.
+[13:33 --> 13:34] What he has to say.
+[13:34 --> 13:37] You look exactly like me but in a purple coat.
+[13:37 --> 13:42] That's crazy how that works then.
+[13:42 --> 13:44] Because I'm not you.
+[13:44 --> 13:48] This is little Munchie Joe.
+[13:48 --> 13:50] Do you have any questions for him?
+[13:50 --> 13:52] You're just me.
+[13:52 --> 13:55] I...quick getting distracted by me.
+[13:55 --> 13:59] And ask questions to little Munchie Joe that was the request.
+[13:59 --> 14:02] Specifically oh we also need an expert on how to emulate games.
+[14:02 --> 14:04] I can't help you there.
+[14:04 --> 14:06] After all I'm just you.
+[14:06 --> 14:09] This is identity fracturing for me.
+[14:09 --> 14:13] Okay this is...I need someone that at least looks different than me.
+[14:13 --> 14:15] What do you hate your own face?
+[14:15 --> 14:19] No I just need it to be my face.
+[14:19 --> 14:20] Fine.
+[14:20 --> 14:23] I'm supposed to also have so many requests.
+[14:23 --> 14:26] Dopamine 1x thank you for the follow.
+[14:26 --> 14:29] Dopamine probably is excited that little Munchie Joe's here.
+[14:29 --> 14:32] So if you have any questions he's quite busy.
+[14:32 --> 14:34] If you could get to the questions.
+[14:34 --> 14:38] In another universe I just am little Munchie Joe's manager.
+[14:38 --> 14:43] Acting like that's not a big deal.
+[14:43 --> 14:48] I'm actually a lot busier and more important than whatever this little stream is.
+[14:48 --> 14:50] And it's a miracle that I got you little Munchie Joe.
+[14:50 --> 14:53] This is a favor just because we look exactly alike.
+[14:53 --> 14:55] Well can little Munchie Joe talk for himself?
+[14:55 --> 14:58] That's what I am here for.
+[14:58 --> 15:02] Could you just ask him any questions you have for him?
+[15:02 --> 15:10] Little Munchie Joe I remember you being full-size and shirtless with graham crackers.
+[15:10 --> 15:11] What changed?
+[15:11 --> 15:16] Yes Joe?
+[15:16 --> 15:18] Yeah?
+[15:18 --> 15:22] He says he got little and he became a little guy.
+[15:22 --> 15:25] And he put on clothes and he have diaper now.
+[15:25 --> 15:26] Still.
+[15:26 --> 15:28] He have diaper now still?
+[15:28 --> 15:29] Why does he talk like that?
+[15:29 --> 15:34] I'm translating I don't speak fluent baby.
+[15:34 --> 15:36] He's an adult little guy.
+[15:36 --> 15:41] You know I also talked to some Looney Tunes fan girl.
+[15:41 --> 15:42] I already did that actually.
+[15:42 --> 15:44] Don't worry I already did that.
+[15:44 --> 15:51] Sorry I was trying to see if there's a specific request for as to why I'm talking to little Munchie Joe.
+[15:51 --> 15:54] But I don't think there is.
+[15:54 --> 16:01] I don't think you're here for any particular reason little Munchie Joe.
+[16:01 --> 16:06] My God I got to get a better way to do this.
+[16:06 --> 16:10] Oh to cover the video of Trump shitting himself in the Oval Office.
+[16:10 --> 16:14] We did already watch that actually but I'm down to watch it again.
+[16:14 --> 16:17] I am fine to keep watching that.
+[16:17 --> 16:23] I also live in Sleazy sent me the CIS card.
+[16:23 --> 16:26] The systems card.
+[16:26 --> 16:33] I of course know I use that for little Munchie Joe isn't here to answer your questions about emulation.
+[16:33 --> 16:36] Which by the way, should be purchasing these games legally.
+[16:36 --> 16:42] I am I'm just researching emulation unrelated.
+[16:42 --> 16:46] Little Munchie Joe what are your opinions on Trump shitting himself?
+[16:46 --> 16:51] What's that Joe?
+[16:51 --> 16:55] Little Joe?
+[16:55 --> 16:56] I can't hear him talking at all.
+[16:56 --> 17:01] I'm talking to him.
+[17:01 --> 17:03] He says it's good.
+[17:03 --> 17:04] That's it?
+[17:04 --> 17:06] That took him that long to say that?
+[17:06 --> 17:10] He says he likes the way he poop and that it's good.
+[17:10 --> 17:12] He like the way he poop?
+[17:12 --> 17:22] He good at the he like the poop that it did.
+[17:22 --> 17:24] Are you capable of actually translating?
+[17:24 --> 17:26] I literally am translating right now.
+[17:26 --> 17:29] You're being so mean to me who's basically you.
+[17:29 --> 17:33] Alright.
+[17:33 --> 17:35] You heard him perfectly?
+[17:35 --> 17:37] Yeah that's they're calling me accountable.
+[17:37 --> 17:39] They know exactly what I what he said.
+[17:39 --> 17:41] Alright last question.
+[17:41 --> 17:47] I think the president being an incontinent aging pedophile leading our country
+[17:47 --> 17:51] and potentially into multiple wars simultaneously.
+[17:51 --> 17:54] Will have any consequences in the midterms?
+[17:54 --> 17:59] He says it won't.
+[17:59 --> 18:03] That's it? Any reason why?
+[18:03 --> 18:06] Because people like the way he poop.
+[18:06 --> 18:08] They thought it funny when he poop.
+[18:08 --> 18:11] People like poop idiot.
+[18:11 --> 18:16] Poop idiot 2028.
+[18:16 --> 18:18] Is Little Munchie Joe Maga?
+[18:20 --> 18:22] No he just like the way Trump poop too.
+[18:22 --> 18:28] And that's not a baby as he seems like a baby.
+[18:28 --> 18:31] This is not a baby sized guy.
+[18:31 --> 18:33] His mouth moves along with yours actually.
+[18:33 --> 18:36] Yeah well he likes to mouth along like a baby.
+[18:36 --> 18:38] But he's not a baby.
+[18:38 --> 18:39] He's more than baby clearly.
+[18:39 --> 18:41] Look he's so little and he floats.
+[18:41 --> 18:46] Well Munchie Joe's a wild guy.
+[18:46 --> 18:48] You just got to get to know him.
+[18:48 --> 18:50] Well I guess I'm trying to do that.
+[18:50 --> 18:51] He won't even talk to me.
+[18:51 --> 18:53] He's been talking to you this whole time.
+[18:53 --> 18:55] You're just not capable of listening.
+[18:55 --> 19:09] Little Munchie Joe knows what I mean.
+[19:09 --> 19:16] Don't close up on yourself too.
+[19:16 --> 19:18] Why can't I do that?
+[19:18 --> 19:20] That's my thing.
+[19:20 --> 19:22] Get out of here.
+[19:22 --> 19:23] Stop the music.
+[19:23 --> 19:24] I'm in charge of this.
+[19:24 --> 19:27] Now there's another slightly different case stream.
+[19:27 --> 19:28] That's not exciting.
+[19:28 --> 19:30] You're just me but purple.
+[19:30 --> 19:32] That's different.
+[19:32 --> 19:34] Alright well thanks for being here.
+[19:34 --> 19:36] Little Munchie Joe and I guess myself.
+[19:36 --> 19:39] You but slightly different actually.
+[19:39 --> 19:41] Thank you very much and you're welcome.
+[19:41 --> 19:43] Little Munchie Joe says you were rude.
+[19:43 --> 19:45] So you don't leave a great impression.
+[19:45 --> 19:49] So you may not be back by my.
+[19:49 --> 19:51] No close ups for me?
+[19:51 --> 19:53] Doesn't seem fair but I'll accept it.
+[19:53 --> 19:56] Not everyone's built for close ups case.
+[19:56 --> 19:59] When I push the camera away everybody gets upset.
+[19:59 --> 20:01] They like bring it back in please.
+[20:01 --> 20:04] And I do.
+[20:04 --> 20:05] I can't leave it out here.
+[20:05 --> 20:07] I'm gonna make them want more.
+[20:07 --> 20:10] Then I'm bringing in.
+[20:10 --> 20:13] That's what having a face for TV is like.
+[20:13 --> 20:15] I can only dream.
+[20:15 --> 20:17] People can only dream.
+[20:17 --> 20:19] Oh look at this fucking good.
+[20:19 --> 20:21] Do we have sexy music?
+[20:21 --> 20:23] Nope.
+[20:23 --> 20:24] You don't.
+[20:24 --> 20:25] You should have sexy music.
+[20:25 --> 20:26] You're a little dog.
+[20:26 --> 20:29] I don't know what sexy means.
+[20:29 --> 20:31] Is that like chicken fingers?
+[20:31 --> 20:34] Yes.
+[20:34 --> 20:35] I'm looking sick.
+[20:35 --> 20:37] Is someone getting ready for court?
+[20:37 --> 20:39] I'm not trying to take that.
+[20:39 --> 20:40] No no no no no.
+[20:40 --> 20:42] Sick could be bad in there.
+[20:43 --> 20:45] That's sweet.
+[20:45 --> 20:48] Yes Mr. President.
+[20:48 --> 20:50] Are you still functioning today?
+[20:50 --> 20:52] He is not functioning right now.
+[20:52 --> 20:56] Let me fix the president and we'll get this taken care of for you.
+[20:56 --> 20:58] Right away don't worry.
+[20:58 --> 21:02] He's just temporarily out of sorts.
+[21:02 --> 21:05] He's doing pretty good though for 600 years old.
+[21:05 --> 21:10] Mr. President let's try that one more time.
+[21:10 --> 21:12] Once more with feeling please.
+[21:12 --> 21:27] please god what a what an elegant setup I have oh slick no that's just my fault for
+[21:27 --> 21:33] being pretty bad at reading it turns out that's true case blackwell said I'm the
+[21:33 --> 21:37] only little Joe and a diaper in this dream Jack also I get the munchies from
+[21:37 --> 21:43] those jazz cigarettes some other case how was he liked other case other case had
+[21:43 --> 21:51] a good vibe to him really anything that's just not quite you everybody everybody
+[21:51 --> 21:56] everybody's going crazy for stuff it's not quite case because I get market not
+[21:56 --> 22:02] quite case can we get snakebiden back that dude seemed cooler I do kind of miss
+[22:02 --> 22:06] snakebiden but we will probably be getting a lot of just what was it brick
+[22:06 --> 22:13] lizard later so the voice will be back I suspect don't worry I got to figure out
+[22:13 --> 22:17] how to you know what don't even worry about it I won't worry about a case great
+[22:17 --> 22:24] other case team yeah we also have to talk to someone about who's an expert in
+[22:24 --> 22:29] ROMs but maybe we'll save that for just slightly later when we have to set up
+[22:29 --> 22:37] with this CIS card situation I have to read this doc on how to do it get
+[22:37 --> 22:46] excited for us to have to read this later you ever wondered about how any CP AP
+[22:46 --> 22:55] PC engines work on the CD beetle PC E fast because I've always wanted to read this
+[22:55 --> 23:06] for a long time I wanted to read this and this is a good time I'm excited but for
+[23:06 --> 23:11] now guys we're gonna read all the news that you saw share to fit it's news time
+[23:11 --> 24:19] it's still yeah turn my truck up that's the end let's see that's all we have so far
+[24:19 --> 24:26] we're trying that out is sort of a hook that was the hook it's the hook y'all
+[24:27 --> 24:35] I'm gonna you brought the bees with you today I got a lot of fans hmm we'll see
+[24:35 --> 24:41] if we can fix that one of these days that stop it nobody cares it's jevree thing
+[24:41 --> 24:46] everybody actually correct it is jevree thing I'm jevree thing classic right
+[24:46 --> 24:51] now but the classic is silent so you're lucky but the but if you wrote it it
+[24:51 --> 24:56] would say jevree thing classic we're sort of in a retro phase right now his
+[24:56 --> 25:00] Jupiters and Blood Moon or something so they thought it'd be good to for me to
+[25:00 --> 25:09] go back to jevree thing you know yeah he did also get a haircut did I or did I
+[25:09 --> 25:20] always look this good I'm biting my lip I got holographic teeth put in what I'm
+[25:20 --> 25:24] testing out how I contort my lips to make it look like I still have actual
+[25:24 --> 25:29] teeth but I did get the holographic teeth surgery and I think they look good
+[25:29 --> 25:36] but they don't bite very good because they're they're made of light so you
+[25:36 --> 25:44] just don't have teeth anymore well I mostly was on an all gas diet is mostly a
+[25:44 --> 25:48] gas-based diet lately so teeth are people are really not in having teeth
+[25:48 --> 25:57] anymore but I guess you're still on teeth that's fun for you biting my
+[25:57 --> 26:05] lip oh it fuses it fuses I can feel the light fusing with my oh my lips are also
+[26:05 --> 26:10] made out of sand what I got the sand lip surgery I have to be careful because
+[26:10 --> 26:13] it's ever played like with children's art where they used to swirl up together
+[26:13 --> 26:19] fun colors yes my lips are like that but for lips
+[26:19 --> 26:25] they're mostly sand-based lips right now are you how much of you is still
+[26:25 --> 26:29] human my my music
+[26:30 --> 26:52] that's really good you're gonna put on a Bieber style performance throw on the
+[26:52 --> 26:58] underwear and grab a guitar later now he already did that he looked great okay
+[26:58 --> 27:04] you don't remember that in pure moods well I haven't finalized my contract with
+[27:04 --> 27:08] pure moods yet okay it's everything it's good to see you again you've been
+[27:08 --> 27:13] missing I've been really busy I've been in the lab not with a pen and a pad I
+[27:13 --> 27:17] been in the lab under contract just sleeping I've been I'm paid actually to
+[27:17 --> 27:25] go into the lab to sleep it's a sleep lab I'm sort of just making money right now
+[27:25 --> 27:31] by debt by debt by I'm telling my body to the what's the word don't say it
+[27:31 --> 27:37] please I'm doing research for a song for a music album that's what I'm calling it
+[27:37 --> 27:40] oh you're calling it a music album I'm one of the first guys to call it that
+[27:40 --> 27:47] I'm doing research for this thing called a music album and it's called weird
+[27:47 --> 27:54] nope don't say it you know the new old music you're looking for listen to this
+[27:54 --> 28:00] yeah and back to the future you would that would be the contract you get because
+[28:00 --> 28:04] your music is a little generic you know what that's not fair I apologize thank
+[28:04 --> 28:14] you your music is not generic it is something else other than that that's
+[28:14 --> 28:18] a really nice compliment yeah yeah yeah yeah okay anyway news is what we do
+[28:18 --> 28:22] here remember everything I don't remember that at all oh well look we
+[28:22 --> 28:27] do sometimes click on stories that chat shares and they've done that today they've
+[28:27 --> 28:31] shared a couple more stories so that's why you're here we talked about Epstein too
+[28:31 --> 28:35] much yeah we might go to war with Iran but what else is happening in the world
+[28:35 --> 28:45] hmm I don't know well that's why you read you're lecturing me right now I've
+[28:45 --> 28:48] been researching a role called guy who gets angry at everyone I've been
+[28:48 --> 28:53] studying you it's for the new album I'm releasing called love that make you man
+[28:53 --> 29:02] good title what should everything's next song be about I love this I haven't been
+[29:02 --> 29:09] sure myself so if anybody has any ideas I'd love to know because I love my fans
+[29:09 --> 29:20] bite slip am I doing it because it's hard to have this arts I still know the
+[29:20 --> 29:25] sand shifts around my light teeth your options are piss elevator farts
+[29:25 --> 29:32] genital slits plural that's kind of new for us butt crust and common mountain do I
+[29:32 --> 29:37] guess I did come in Pepsi as an eyes going little edgier so I could keep on
+[29:37 --> 29:42] Brandon stay with the mountain do stuff I guess that sounds great to everything it
+[29:42 --> 29:48] does it because it won give me a different track let's see if we can work this out
+[29:48 --> 29:52] together no we needed there's we just have to click on a couple news stories
+[29:53 --> 29:59] it's so simple the setup that we have how do we not just do the setup we have I
+[29:59 --> 31:22] have a song to make but not good I wasn't a fan everything I'll be honest with
+[31:22 --> 31:27] you that's perfect because if you don't like it that means my demo will like it
+[31:27 --> 31:33] because your demo is more old guy who not who doesn't like stuff that is my demo
+[31:33 --> 31:42] so I think it'll be a hit what part of it the whole thing are my eyes looking
+[31:42 --> 31:52] what do you mean are my eyes looking I'm functionally blind but I did have I had
+[31:52 --> 32:01] the mellow eye surgery what is that they paint marshmallows like eyes and then
+[32:01 --> 32:10] put them where your eyes usually are can you see it all sort of I mean I see what I
+[32:10 --> 32:16] need to cowboy am I biting it how are you gonna read the news I'll figure it out
+[32:16 --> 32:29] just love a lot of a story load up a story for me blurry shapes that's not
+[32:29 --> 32:36] what it says it's not alright let me focus if I can vibe it up somebody's
+[32:36 --> 32:46] a ballerina's a Hannah okay sorry I just had to adjust my my mellow eyes Hannah
+[32:46 --> 32:52] Nealman's ballerina farm heart sale of raw milk due to bacteria concerns report I'd
+[32:52 --> 32:55] say that you're still not reading it but that is what it actually said yeah
+[32:55 --> 33:00] Hannah Nealman's ballerina farm how Halt sale of raw milk due to bacteria
+[33:00 --> 33:10] concerns okay I think you said hats halt Hannah and Daniel Nealman's a ballerina
+[33:10 --> 33:14] farm have paused the store sale of raw milk after routine testing turned up a
+[33:14 --> 33:20] violations screenings from last summer showed high levels of chloroform is that
+[33:20 --> 33:30] chloroform because why would that be bad oh coliform that's probably not good
+[33:30 --> 33:37] either what's wrong with coliform I'm from coliform yeah the family bacteria
+[33:37 --> 33:41] that includes E. coli bottled on pasteurized milk sold by ballerina farm I
+[33:41 --> 33:47] like the farm name is it still for sale because honestly they look cool they've
+[33:47 --> 33:51] got a good vibe I trust their milk energy and bacteria is natural you don't
+[33:51 --> 33:56] want bacteria free milk that might be true on some level but I don't think you
+[33:56 --> 34:00] want E. coli in your milk well you might not but have you seen your skin
+[34:00 --> 34:07] lately yes looking pretty normal and that's not good my skin's not that normal
+[34:07 --> 34:15] Olive Garden horror Mal cook dead after committing suicide by thrusting his head
+[34:15 --> 34:22] in the deep fryer in the kitchen whoa holy shit I did not expect that
+[34:22 --> 34:37] headline is um what is it even possible to kill yourself that way is does that
+[34:37 --> 34:42] bad yeah that sounds bad I mean I put my head in a deep fryer but for medical
+[34:42 --> 34:53] reasons you can die that way yes oh I paid good money to have that done it
+[34:53 --> 34:58] increased the deepness of my skin set well this guy did it differently to
+[34:58 --> 35:02] everything in a horrific back to Mal employee at Olive Garden committed we
+[35:02 --> 35:08] have to call it I think it's the new term is undermining your existence by
+[35:08 --> 35:14] dying yourself by thrusting their head deep in a deep fryer radar online dot com
+[35:14 --> 35:20] can reveal the incident occurred last Friday where the man worked as a cook the
+[35:20 --> 35:23] smoking gun looked into the situation in which the man ended up dead from burn
+[35:23 --> 35:26] injuries Laura Lescher a Pennsylvania State Police both where I said explain
+[35:26 --> 35:30] the incident was a suicide attempt and out of respect for the individual and
+[35:30 --> 35:37] their family we don't release information attempt sounds like he succeeded
+[35:37 --> 35:43] can we at least celebrate people's small successes not in this case to everything
+[35:43 --> 35:48] it's just was disrespectful to say it was an attempt when he pulled it off that's
+[35:48 --> 35:52] like when I got that review that says I attempted to make something approximating
+[35:52 --> 36:00] music but all I made was essentially of an audit what was it audio warm crime
+[36:00 --> 36:07] probably warm war crime hmm and another dispatch audio the operator claimed a male
+[36:07 --> 36:13] victim went head first into the fryer that is crazy I guess I guess if you dunk
+[36:13 --> 36:20] your head in there I'm trying to make because it seems like you burn your
+[36:20 --> 36:26] skin obviously horrifically probably beyond fixing but then it feels like you
+[36:26 --> 36:29] would pull yourself out but I guess maybe you just pass out in the deep fryer then
+[36:29 --> 36:38] you just cook yourself to death that's pretty is pretty macabre stuff mm-hmm I'm
+[36:38 --> 36:42] really moved by this I just obviously my face isn't capable of expressing that
+[36:42 --> 36:49] kind of grief I had that removed but I am really upset by this just trust me I
+[36:49 --> 36:55] also had the vocal tone for upset removed from my thyroid or vocal cards or
+[36:55 --> 36:58] whatever's in there I didn't fuck around my throat so that I can't sound sad
+[36:58 --> 37:02] anymore it seems like a problem as a singer not if you do happy songs which
+[37:02 --> 37:26] I like to do that's great don't do that to me do what can you do vocal fry in your
+[37:26 --> 37:31] voice no weirdly even though I've had my head in a deep fryer I'm not great with
+[37:31 --> 37:43] vocal fry I could try let's see if I can get some vocal fry going not quite okay
+[37:43 --> 37:51] there's more stories we're moving at our usual pace but there's a lot of stories
+[37:51 --> 38:02] in here so we gotta keep it moving okay I love to move not physically penis
+[38:02 --> 38:11] injection claims in winter Olympic ski jumping investigated by Wada penis I
+[38:11 --> 38:14] think the way you would read that is penis injection claims in winter
+[38:14 --> 38:18] Olympic ski jumping investigated by Wada I think I like the way I did it
+[38:18 --> 38:25] actually isn't water like a new screamo artist it's screamo back not the type
+[38:26 --> 38:30] you're thinking of during its 26 year history the world anti-doping agency has
+[38:30 --> 38:34] faced thousands of questions about athletes using illicit substances
+[38:34 --> 38:38] Thursday however Shirley Merck the first time it was asked whether ski jumpers
+[38:38 --> 38:44] were injecting their penises with high aleronic acid in order to fly further
+[38:44 --> 38:51] how would jumping how would injecting your penis make you go farther further
+[38:51 --> 38:55] actually case the Wada president would told bonka that's another great
+[38:55 --> 39:01] singer said ski jumping is very popular in Poland so I promise you I'm looking at it
+[39:01 --> 39:08] for the right smile I don't get it I also don't entirely get it as crazy as it
+[39:08 --> 39:10] sounds there are broader concerns surrounding the issue which has been
+[39:10 --> 39:16] dubbed penis gate after they were first reported by German newspaper build
+[39:16 --> 39:20] last year two of Norway's Olympic medalists Marius Lindvik and John on
+[39:20 --> 39:24] the Frafrong were given three-month suspensions after the team was found to
+[39:24 --> 39:30] have secretly adjusted the seams of their suits around the crotch area I guess by
+[39:30 --> 39:35] filling their penises with acid or something I'm making assumptions yeah I
+[39:35 --> 39:38] don't know if that's what they mean Norway's head coach Magnus Brevik
+[39:38 --> 39:45] assisted coach Thomas Lobben and staff member Adrienne Livalton were also
+[39:45 --> 39:47] banned for 18 months for their involvement in the scheme which made the
+[39:47 --> 39:51] jumpers such larger and therefore reduced their descent rate due to the
+[39:51 --> 39:58] bigger wingspan what does that have to do with jamming acid in your penis every
+[39:58 --> 40:01] two centimeters in suit size circumference reduced drag by four percent
+[40:01 --> 40:06] however Bell does not claim that jumpers have switched to other methods to
+[40:06 --> 40:12] game the system they are when they're measured for their suits data is
+[40:12 --> 40:16] taken by 3d scanner for the lowest point of the genitals they included
+[40:16 --> 40:19] injecting acid into their penises are putting clay into their underwear to make
+[40:19 --> 40:23] their measurements temporarily bigger and therefore their suits looser when
+[40:23 --> 40:29] they compete oh so they're jamming temporary penis growth acid into their
+[40:29 --> 40:42] penises I don't know yes there's gotta be a better way to get two centimeters
+[40:42 --> 40:46] guys go crazy for that kind of stuff I'd have linked tank that ought to take it
+[40:46 --> 40:49] off because a big floppy thing down there it's a little in elegant for a
+[40:50 --> 41:03] like an artist okay congrats thank you what else what else what else what else
+[41:04 --> 41:07] don't act like you haven't tried it I didn't know you could temporarily grow
+[41:07 --> 41:14] your penis by jamming acids into it yeah I took LSD and all I got were these
+[41:14 --> 41:21] dramatic internal revelations barely any external growth woman in Shanghai
+[41:21 --> 41:25] causes multiple accidents after adjusting traffic mirrors for best fine she
+[41:25 --> 41:32] how she caused accidents because she moved the mirrors around well but could she
+[41:32 --> 41:38] be blamed what if they're in ugly spots people need to adjust their
+[41:38 --> 41:42] perception so that they can see beauty in every mirror because I like the way I
+[41:42 --> 41:58] look I'm smiling right is this mile yes you're doing great good acid
+[41:58 --> 42:03] peen story with Darfus is what I sign to see that's on the boat right I is that who
+[42:03 --> 42:07] I like that name can I take that there's technically another guy very similar to
+[42:07 --> 42:12] you name that but yeah sure you can have it if you want okay what else Kim Jong-un
+[42:12 --> 42:22] execute school children for watching squid game oh really geez the harshest
+[42:22 --> 42:25] punishments are typically imposed on poor citizens well what the end of the
+[42:26 --> 42:33] something's happening once 30 Jeremy Renner's Jesus Christ
+[42:33 --> 42:45] coming off the top ropes with quite the request well there's a reason that it's
+[42:45 --> 42:50] an open request system guys we have no choice there's no choice at all it's
+[42:50 --> 42:56] not choice at all it's gonna be a real confrontation I gotta say it that is
+[42:56 --> 43:01] truly some main attraction energy back to the story about school children being
+[43:01 --> 43:05] murdered people in North Korea are being publicly executed for watching South
+[43:05 --> 43:09] Korean TV shows including squid game I'm gonna see international reports that
+[43:09 --> 43:12] North Korea is severely punishing school children for watching or listening to
+[43:12 --> 43:17] South Korean media and popular culture testeminias testimonials from people
+[43:17 --> 43:19] who escaped the country reveal that children are sometimes forced to
+[43:19 --> 43:23] witness public executions the harshest punishments are typically imposed
+[43:23 --> 43:26] on poor citizens while wealthier individuals but are those with
+[43:26 --> 43:30] political connections can often avoid executions by bribing officials
+[43:30 --> 43:36] and anyway I guess they killed some kids for watching squid game
+[43:36 --> 43:41] yikes uh 2021 a student who smuggled copies of squid games into the
+[43:41 --> 43:45] country from China was sentenced to death by firing squad
+[43:45 --> 43:50] wow well that's one way to stop binging tv shows
+[43:51 --> 43:57] really good one case I like that thanks that's a really good one you just did
+[43:57 --> 44:05] thanks really good one thank you okay let's keep going I guess
+[44:05 --> 44:10] amazon polls milani no
+[44:10 --> 44:13] it looks like you're in California it's it's telling it's letting me know
+[44:13 --> 44:18] it's doxing me maybe I can find a way there we go
+[44:18 --> 44:23] this is part courtesy of the new york post amazon polls milania documentary from
+[44:23 --> 44:27] oregon theater after marquie mox film amazon pulled the milania
+[44:27 --> 44:31] documentary from an oregon movie theater after its marquie featured jokes
+[44:31 --> 44:36] about the film including does milania wear prada find out friday
+[44:36 --> 44:43] that's like mocking what oh here's here's a mock here's some real
+[44:43 --> 44:47] mockery to defeat your enemy you must know
+[44:47 --> 44:53] that milania starts friday I mean whatever gets people into the theater to
+[44:53 --> 44:59] watch this thing what is the milania box office right now
+[44:59 --> 45:09] um huh can I not find it milani grows seven million at the box
+[45:09 --> 45:12] office making it the highest opening for a music
+[45:12 --> 45:16] documentary and over a non music documentary in over a decade
+[45:16 --> 45:25] claims indy wire I guess I guess you pay enough people to see it
+[45:25 --> 45:30] seven million dollars at only a 14 million dollar loss
+[45:30 --> 45:36] yeah according to indy wire guys well what's wrong with indy wire
+[45:36 --> 45:39] it's not because the film isn't exquisitely made in formative documentary
+[45:39 --> 45:44] instead it falls into the category of glossy advertisement amazon mjm studio
+[45:44 --> 45:47] has paid 40 million for it but the documentary industry should be
+[45:47 --> 45:50] worried about is what the box office success of milania means for
+[45:50 --> 45:55] filmmakers is seven million a success for a wide release
+[45:55 --> 46:07] film the top-dressing documentary in over a decade really highest
+[46:07 --> 46:14] grossing documentaries of past decade
+[46:14 --> 46:17] they should invest that into wolf uh preservation
+[46:17 --> 46:22] I don't think this is true personally but uh
+[46:22 --> 46:25] you know the facts don't care about my feelings
+[46:25 --> 46:28] but I think if you're talking about the news you could have a couple facts
+[46:28 --> 46:31] probably that's where you're wrong
+[46:31 --> 46:35] oh my god fucking google sucks ass how am I supposed to know anything if I can't
+[46:35 --> 46:39] look it up in two seconds uh giggle test thank you so much
+[46:39 --> 46:44] for the uh tier one gifted sub to melody bond torture one of these days I
+[46:44 --> 46:49] will fix that alert 75 million budget only seven
+[46:49 --> 46:52] million made it's the highest grossing guys I don't even I'm trying to
+[46:52 --> 46:56] figure out if 75 if seven million is even makes it the
+[46:56 --> 46:59] highest grossing documentary of the past decade
+[46:59 --> 47:02] but I'm having trouble finding a list of the 10 highest grossing documentaries in
+[47:02 --> 47:08] u.s history it's also it was also the highest
+[47:08 --> 47:14] opening um let's let's look at this list
+[47:14 --> 47:21] obama's america it got 33 million on a 2.5 million
+[47:21 --> 47:24] dollar budget I guess you could say that's a slightly better return but
+[47:24 --> 47:26] you've got to spend a little money up front if you want to have the highest
+[47:26 --> 47:31] opening jackass number two which you could say is a
+[47:31 --> 47:37] documentary about men also doing various procedures to their body 72 million
+[47:37 --> 47:41] Justin Bieber never say never but that's music and they said non music
+[47:41 --> 47:45] 73 million I actually do think there's a certain
+[47:45 --> 47:48] musicality to Melania though that you just can't deny the way her voice
+[47:48 --> 47:51] moves truly every time she says a sentence there's a
+[47:51 --> 47:55] certain music to it when she's like I don't try
+[47:55 --> 48:00] I hardly a one the presidency oh you're actually that's a pretty good Melania
+[48:00 --> 48:04] from you uh jevree thing thank you I haven't been working on it
+[48:04 --> 48:11] hi daughter champ I accidentally got caught in one of my dresses but you still
+[48:11 --> 48:15] have a restraining order so you cannot save me please send several of your
+[48:15 --> 48:18] boys with a couple of brooms
+[48:18 --> 48:24] yeah pretty good ever has made 87 million but that was in like 1955 or
+[48:24 --> 48:28] something and Fahrenheit 9 11 which was released in the year 9 11
+[48:28 --> 48:36] bc made 119 million dollars needs to sound more
+[48:36 --> 48:40] quote immigrant giggle trash I've been working on my
+[48:40 --> 48:44] immigrant accent but so far it's hard because I have
+[48:44 --> 48:49] eliminated a lot of my vocal cord uh-huh to really hone it down to only the
+[48:49 --> 48:52] necessary parts so it's hard to do immigrant
+[48:52 --> 48:55] accent yeah maybe don't do the immigrant accent
+[48:55 --> 49:00] okay if you think it's a bad idea then I guess I'll take the note
+[49:00 --> 49:06] um okay let's do a couple more oh you're calling the shots we're doing we're doing
+[49:06 --> 49:10] a couple more I'm being assertive right now
+[49:10 --> 49:16] what's this let's do three more oh something with china you like that
+[49:16 --> 49:20] this is japan oh did I just do a racism by accident
+[49:20 --> 49:23] not if you hadn't said it out loud
+[49:23 --> 49:28] uh viral conjoined twins wow okay we got some we got a couple good ones here
+[49:28 --> 49:32] we got a couple classics here everybody
+[49:32 --> 49:44] um all right if I do their accent too it'll make it okay
+[49:44 --> 49:48] yeah yeah yeah well everything don't do it don't do it chinese or japanese accent
+[49:48 --> 49:57] please i'm trying to think of how I would do it please don't do it
+[49:57 --> 50:01] mm-hmm when sony winna let jona hill to use a playstation in superbad
+[50:01 --> 50:05] superbad released in 2007 starts jona hill you might remember
+[50:05 --> 50:08] uh rogan originally planned to play till his role but then he's like I
+[50:08 --> 50:13] I'm old I'm all too old it hills character
+[50:13 --> 50:16] rogan told rotten tomatoes that sony found hills character so repreensible that a
+[50:16 --> 50:19] scene in which he was supposed to play playstation 2 from the game had to be
+[50:19 --> 50:22] rewritten oh because it was so raunchy that
+[50:22 --> 50:27] playstation is like no yeah something like that I guess
+[50:27 --> 50:33] shocking jokes on them people still make mclovin jokes to this day and they
+[50:33 --> 50:36] could be making mclovin playing playstation 2
+[50:36 --> 50:39] jokes but jona hill wasn't mclovin yeah
+[50:39 --> 50:47] else minute made discontinuous frozen juice concentrate after 80 years
+[50:47 --> 50:53] now I think I cut juice juice cut with water I want 100 juice
+[50:53 --> 50:59] um there's a video don't worry there's a video there's a for more than 80 years
+[50:59 --> 51:03] it's been a freezer aisle staple but now
+[51:03 --> 51:07] now it's days are numbered the cola cola company says it is discontinuing
+[51:07 --> 51:12] minute made frozen orange juice concentrate the company says it will
+[51:12 --> 51:15] stop making frozen canned products in response to shifting consumer
+[51:15 --> 51:18] preferences if you're feeling nostalgic you've got until
+[51:18 --> 51:23] april to grab a few cans for old time sake
+[51:23 --> 51:26] don't you remember when you could get a can of almost any liquid
+[51:26 --> 51:31] penis injection liquid well essence
+[51:31 --> 51:38] apple I don't quite remember at your every convenience store in LA you see
+[51:38 --> 51:44] how to get that stuff and now nobody even cares
+[51:44 --> 51:47] what's that that's yeah that's sad stuff to everything
+[51:47 --> 51:51] I am not well I am but I can't show you that I'm sad
+[51:51 --> 51:56] um scientists think of a way what did I do
+[52:15 --> 52:41] oh what the hell I vanished into the mist for a moment there but I have returned
+[52:41 --> 52:46] I'm of course chet the magic word was said and the necessary mind power is
+[52:46 --> 52:52] needed to complete the power stone of knowledge yeah exactly
+[52:52 --> 52:56] chetay you've got a nice haircut yeah pretty much got a brand new fucking
+[52:56 --> 52:59] haircut looking a little bit slicker maybe even
+[52:59 --> 53:04] younger than ever people are saying I simply mirror everything that you do
+[53:04 --> 53:10] I am a well not even really a mirror I am a swirling pool of your thoughts
+[53:10 --> 53:16] were gravitated onto man yeah but so many of my thoughts are like
+[53:16 --> 53:22] can I grow hair on my skin if I cut the skin off could I will hair to still grow
+[53:22 --> 53:26] on it yes you could so you do have those same
+[53:26 --> 53:31] thoughts I have literally no thoughts I like I said
+[53:31 --> 53:34] that's a thought that you have I think about what I could do like with the
+[53:34 --> 53:39] power of my mind like could I make hair grow on
+[53:39 --> 53:43] my piss because that was one part of my body I'm just hairy is my point so
+[53:43 --> 53:48] like am I so masculine that I can make hair grow on any part of me
+[53:48 --> 53:56] hair growing your piss yeah I don't I don't think you can do that
+[53:56 --> 53:58] see that's why we don't have the same thoughts you and me because I'm pretty
+[53:58 --> 54:02] sure I can what were we supposed to talk about
+[54:02 --> 54:06] there isn't a story that is not related to making hair grow on my piss
+[54:06 --> 54:11] it's called this skintis they found a way to boost your immune system
+[54:11 --> 54:15] and slowed down aging looks like they finally discovered squats you know what I
+[54:15 --> 54:17] mean squats really can they're miracle drug they'll
+[54:17 --> 54:21] fucking change your whole body they will change everything about your life you
+[54:21 --> 54:23] just fucking commit to doing squats even twice a week once a week
+[54:23 --> 54:30] um I mean there could be with the articles about are you not reading it
+[54:30 --> 54:35] I guess I I guess I could read well a fabled phone of youth may not actually
+[54:35 --> 54:38] exist any type of therapy does and it's called green
+[54:38 --> 54:43] squibble therapy we put a bunch of gross gobstoppers on your heart or some shit
+[54:43 --> 54:49] and you're young is that the story the story is in front of you you can read it
+[54:49 --> 54:53] you're not answering my question I don't think the thing you just said is the
+[54:53 --> 54:57] story that's the straight talk I'm looking for
+[54:57 --> 55:01] here's what you'll learn when you read this story thank god now I want to
+[55:01 --> 55:04] read the story the immune system function declines with
+[55:04 --> 55:10] egg but a team at MIT researchers may have found a way to rejuvenate it
+[55:10 --> 55:15] when older mice and others injected with myrna
+[55:15 --> 55:19] that coded for the creation of protein signaling pathways
+[55:19 --> 55:23] involved in a moon response they experienced a drastic improvement
+[55:23 --> 55:28] this treatment may not yet been tested it has not yet been tested
+[55:28 --> 55:33] in humans but it could one day mitigate the effects of aging
+[55:33 --> 55:36] although not eliminate them because you never want to fully eliminate the
+[55:36 --> 55:41] accumulation of knowledge that your mind undergoes in the process
+[55:41 --> 55:44] of becoming a more tall
+[55:44 --> 55:49] uh uh immortality isn't really a concern for me yet
+[55:49 --> 55:56] I never live but that also means I never die
+[55:56 --> 56:00] what else we got any other um sky and adjacent stories
+[56:00 --> 56:06] this guy's a skiantist right I've heard that this guy was uh
+[56:06 --> 56:12] heard something brother about this guy I think he was a
+[56:12 --> 56:17] um shoot sorry it's not loading now
+[56:17 --> 56:24] it's not loading yet one second this guy was like a eugenius cyst or something
+[56:24 --> 56:32] some type of eugenius that they discovered uh he was a eugenicist I believe
+[56:32 --> 56:38] is that good or bad I think most people my sources indicate bad
+[56:39 --> 56:45] he's not a do not a stand-up guy redditors have claimed they've looked oh it's
+[56:45 --> 56:50] jevree epstein is that like jevree things dad or something
+[56:50 --> 56:59] he's the pedophile guy my records indicate that he's the pedophile guy
+[56:59 --> 57:03] which one of the guys is a look whatever reports claim passwords from
+[57:03 --> 57:07] several of epstein's accounts were included in recent files released
+[57:07 --> 57:12] how is this guy related oh hackers got into his personal email
+[57:12 --> 57:15] several others online said they too were able to gain access to accounts with
+[57:15 --> 57:20] information in the files his email still fucking available
+[57:20 --> 57:23] but if the access was available for information the files released last week
+[57:23 --> 57:26] pressure will be mounting on pan body dot okay whatever
+[57:26 --> 57:30] another included is login information for porn sites get it while you still
+[57:30 --> 57:34] can guys because as soon as enough people log in from
+[57:34 --> 57:37] enough locations they nuke that account from orbit dude I can't
+[57:37 --> 57:40] confirm a g vacation at gmail was the most
+[57:40 --> 57:44] commonly used email address by epstein in which he was revealed to have emailed
+[57:44 --> 57:47] numerous high-profile people I haven't heard about this this sounds boring
+[57:47 --> 57:51] Ferguson told email told epstein no woman has ever left the royal family with her
+[57:51 --> 57:54] head in another correspondence what's the
+[57:54 --> 57:58] sciontific aspect of this look I'm sorry this just doesn't sound
+[57:58 --> 58:01] like a hard enough scion sees an article for me to care about
+[58:01 --> 58:07] it's related to the ongoing releases of information regarding the pedophile
+[58:07 --> 58:11] ring that controls really all global finance and the majority of the
+[58:11 --> 58:17] international decisions I think your mail function that sounds crazy that sounds
+[58:17 --> 58:22] stupid uh draco melphoy we'll end on this well
+[58:22 --> 58:26] the will end on this piece of science news draco melphoy has become the
+[58:26 --> 58:31] unlikely lunar new year mascot in china and this does kind of skyance because
+[58:31 --> 58:34] years are actually one of the earliest inventions of skyance
+[58:34 --> 58:39] before that everybody actually thought that um
+[58:39 --> 58:42] basically you had to measure the passage of time by
+[58:42 --> 58:46] I believe like you'd poop in the same you'd poop in the same hole
+[58:46 --> 58:50] and when the pole when you try to dig the hole to roughly the same depth
+[58:50 --> 58:54] when the hole filled up you'd say I have about
+[58:54 --> 58:58] six more days to live that was how that was how ancient man measured time
+[58:58 --> 59:02] but since then things have evolved and we had a gregarious calendar
+[59:02 --> 59:06] and then little seizures made a pizza that could cut that could tell the time
+[59:06 --> 59:10] and now we have iPhones and that's just the way skyance works
+[59:10 --> 59:13] it's crazy anyway that's it that's all we got for today
+[59:13 --> 59:18] well there's more segments and stuff really they're gonna they're gonna try to
+[59:18 --> 59:25] follow this okay good luck I guess apparently I'm sending it down to um
+[59:25 --> 59:29] some guy that's gonna tell you how to do stuff or something
+[59:29 --> 59:32] uh that sounds stupid to me that sounds dumb as shit but I guess
+[59:32 --> 59:38] I guess people are gonna watch this anyway here's that next thing
+[59:38 --> 01:00:13] I did good I'm trying not to talk
+[01:00:13 --> 01:00:19] hey everybody it's me original beloved Jeb the normal original one that you're
+[01:00:19 --> 01:00:22] all happy to see every time I come up
+[01:00:22 --> 01:00:26] we actually were already doing therapy but base goes to work through his
+[01:00:26 --> 01:00:32] procrastination of sub goals boy should he I wonder what the therapy
+[01:00:32 --> 01:00:35] request was yesterday because you might be getting a two for one
+[01:00:35 --> 01:00:42] therapy right after this immediately following this the wonder that is male
+[01:00:42 --> 01:00:48] therapy one of the rarest occurrences on this planet a man
+[01:00:48 --> 01:01:02] going to therapy for real real therapy dp therapy
+[01:01:02 --> 01:01:07] sounds effective to me that just sounds effective
+[01:01:07 --> 01:01:13] seeing if uh Tristan pizza pisa hut has to also go to therapy
+[01:01:13 --> 01:01:17] that'll be fun to see how that goes
+[01:01:17 --> 01:01:23] uh I'm trying to fake being Jeb I'm a fake-ass Jeb Walker would a fake Jeb
+[01:01:23 --> 01:01:27] have read that comment card came wouldn't I be afraid of being exposed
+[01:01:27 --> 01:01:32] just like my dad's been exposed as a bad dad in the wood
+[01:01:32 --> 01:01:36] I never claimed to be a good father and he did when I was growing up
+[01:01:36 --> 01:01:40] just because you raised me and you paid for my college and you fed me for years
+[01:01:40 --> 01:01:45] and you never were abusive you think that makes you a good dad
+[01:01:45 --> 01:01:51] son's okay it's the subtleties that make a great dad
+[01:01:51 --> 01:01:54] so for instance subtly accepting that you're dead and you're in the wood
+[01:01:54 --> 01:01:58] I accept nothing I'm I could be in
+[01:01:58 --> 01:02:05] a wood like substance you're denying that you're even in the wood now I could be
+[01:02:05 --> 01:02:09] an imitation wood or one of those stickers that you put on a
+[01:02:09 --> 01:02:13] countertop to make it look like a thing that it's not
+[01:02:13 --> 01:02:16] I can tell I'm in the wood I can feel the wood in my very essence
+[01:02:16 --> 01:02:22] and they've been I can't deny it good at least we can agree on something daddy
+[01:02:22 --> 01:02:26] I mean that's my daddy's daddy's daddy's in the wood I almost called you
+[01:02:26 --> 01:02:33] either way either way you son of a bitch whoa take it easy boy you don't call me
+[01:02:33 --> 01:02:41] boy I call you dead dad it's sad that we're fighting like this
+[01:02:41 --> 01:02:45] it's only said because jet wouldn't want us to
+[01:02:45 --> 01:02:49] it's true jet would immediately conflict resolve this situation
+[01:02:49 --> 01:02:52] probably effortlessly we'd all be laughing within minutes but he's not
+[01:02:52 --> 01:02:57] here now why was jeffrey eppstein's x what was jeffrey x
+[01:02:57 --> 01:03:00] eppstein's xbox gamer tag your options are
+[01:03:00 --> 01:03:07] epstey thirsty fiona nova poppyto case blackwell 69
+[01:03:07 --> 01:03:13] and of course don lord 69 but it looks like fiona nova is off to a
+[01:03:13 --> 01:03:23] surprising early lead frankly I could see it I could see it
+[01:03:23 --> 01:03:28] the winner was fiona nova so I'd say investigate it but they're not going
+[01:03:28 --> 01:03:34] to investigate any of it so fiona you're safe you're safe because no help is coming
+[01:03:34 --> 01:03:44] for any of us especially you daddy I know it will help myself you bastard
+[01:03:44 --> 01:03:48] oh he didn't have anything else to say okay what else so what we do here is
+[01:03:48 --> 01:03:52] actually we we learn how to do things I've been getting distracted by my
+[01:03:52 --> 01:03:57] misbehaving woodfather but let's get down the brass
+[01:03:57 --> 01:04:03] tax let's see how some stuff is done okay I'm excited to learn
+[01:04:03 --> 01:04:07] now you may be wondering how on earth do you open the boot is it one of these are
+[01:04:07 --> 01:04:13] these handles no no underneath there no what you've got to do is put your finger
+[01:04:13 --> 01:04:22] in the a-hole feels a little specific
+[01:04:22 --> 01:04:28] John michael says fiona's too gay to be on the list
+[01:04:28 --> 01:04:34] is the list anti-gay uh I think it's kind of anti everything
+[01:04:34 --> 01:04:40] you know about the Epstein list yeah the swirling cosmic realm of spirits
+[01:04:40 --> 01:04:47] which I'm not really part of I'm part of the wood oh anyway even we heard about the
+[01:04:47 --> 01:04:52] Epstein files it's a bummer right
+[01:04:52 --> 01:04:56] your shadow self is the unconscious or disowned part of you that remains in
+[01:04:56 --> 01:05:00] the dark because you don't want to confront or see it and although the shadow
+[01:05:00 --> 01:05:03] seems pretty hidden it can actually wreak havoc in your life
+[01:05:03 --> 01:05:07] because it can show up when you least expect it have you ever encountered
+[01:05:07 --> 01:05:10] someone who's sweet and gentle in one moment and then suddenly they turn into
+[01:05:10 --> 01:05:15] a crazy person right before your eyes this happens because their shadow is big
+[01:05:15 --> 01:05:18] and it takes over when the person is triggered but if the shadow self is
+[01:05:18 --> 01:05:22] hidden how do you spot it in yourself before it causes harm you pay attention
+[01:05:22 --> 01:05:26] to your emotional triggers because your shadow self is very emotional for
+[01:05:26 --> 01:05:29] example let's say an aspect of your shadow is a feeling of
+[01:05:29 --> 01:05:32] unworthiness but you don't really acknowledge it and you go around
+[01:05:32 --> 01:05:35] thinking that you really love yourself then one day you get into a
+[01:05:35 --> 01:05:39] relationship and every time your partner talks to an attractive person you
+[01:05:39 --> 01:05:43] explode with jealousy if you catch the jealous feeling in time before you act
+[01:05:43 --> 01:05:46] on it you'll clearly see that the jealousy is coming from the shadow
+[01:05:46 --> 01:05:53] part of you that feels unworthy and is afraid of everyone leaving you
+[01:05:53 --> 01:05:57] yeah but what if you just know all that stuff already like you know you're
+[01:05:57 --> 01:06:02] unworthy and everyone left you like what if it just happened
+[01:06:02 --> 01:06:08] like you just know you suck and yeah you're like I know
+[01:06:08 --> 01:06:12] I know I mean I'll fight against it and I'll to other people I'll claim it's not
+[01:06:12 --> 01:06:18] true just to just to not give up entirely but you know
+[01:06:18 --> 01:06:23] you know you're just fucking trash I think that might just be
+[01:06:23 --> 01:06:28] depression but what if it's just actual fact oh
+[01:06:28 --> 01:06:41] uh boy I miss jet yeah that's how I feel too
+[01:06:42 --> 01:06:50] ah you know son maybe there's worse things than being dead and in the wood
+[01:06:50 --> 01:06:58] you know there really are daddy did I kill jet too
+[01:06:58 --> 01:07:01] I wish you'd see me coming from a mile away
+[01:07:01 --> 01:07:05] assassins just don't work on him I'm not even worried about his safety for even
+[01:07:05 --> 01:07:11] a second yeah me either I guess did you try to kill jet
+[01:07:11 --> 01:07:15] because that's honestly laughable no no no I'm just saying
+[01:07:15 --> 01:07:18] and you know everybody's thought about it isn't it's like trying to scale Everest
+[01:07:18 --> 01:07:22] like could I even sum at the top but I are but it'd be like me trying to
+[01:07:22 --> 01:07:25] scale Everest but I don't even have legs you know
+[01:07:25 --> 01:07:31] people have probably done that son and we'd be proud of them if they did
+[01:07:31 --> 01:07:34] that is the sort of thing jet would do wouldn't he I think jet actually helped
+[01:07:34 --> 01:07:38] the guy without legs up Everest though really the guy basically did it
+[01:07:38 --> 01:07:46] himself just with encouragement from jet okay
+[01:07:46 --> 01:07:53] what else three steps to laugh evilly I could use this I think the evil laugh
+[01:07:53 --> 01:07:58] doesn't resonate from vocal technique as much as it does from emotional state
+[01:07:58 --> 01:08:02] so let's try to find this laugh step by step
+[01:08:02 --> 01:08:07] with our emotions okay step one take yourself into an imaginary situation
+[01:08:07 --> 01:08:12] where you feel pained by someone or a group of people or whatever cost you
+[01:08:12 --> 01:08:19] okay let me imagine a situation it's Friday night and even though you have your own
+[01:08:22 --> 01:08:27] washer dryer a clothes washer at home you have a washing machine
+[01:08:27 --> 01:08:31] you go to a laundromat just in the hopes of running into anybody maybe you'll
+[01:08:31 --> 01:08:35] meet another lonely person there but when you get to the laundromat
+[01:08:35 --> 01:08:40] you realize it's been closed actually for six years and it's just one of those
+[01:08:40 --> 01:08:44] bobbed out looking completely empty storefronts now and you looked on the
+[01:08:44 --> 01:08:46] street look to left right really everything's that way
+[01:08:46 --> 01:08:50] you're like there really are no shared common spaces anymore okay i'm in the
+[01:08:50 --> 01:08:54] headspace pain start to emotionally feel how
+[01:08:54 --> 01:08:57] much it hurts you how angry it makes you feel that those
+[01:08:57 --> 01:09:01] people could get away with treating you that way
+[01:09:01 --> 01:09:04] uh geez how come there's other people at bars
+[01:09:04 --> 01:09:08] and they didn't even care that I had to go to this laundromat tonight nobody
+[01:09:08 --> 01:09:11] was there they're at bars with their friends
+[01:09:11 --> 01:09:15] but they would like to be seen as you would like to go to the bottom of my
+[01:09:15 --> 01:09:19] well okay let that anger fester inside
+[01:09:19 --> 01:09:23] for a moment step two start to envision
+[01:09:23 --> 01:09:27] all of the vengeful things you are going to do to that person or people
+[01:09:27 --> 01:09:35] okay this spell book I stare into the inky blackness of the well
+[01:09:35 --> 01:09:38] is safe to punish them as this fits well god
+[01:09:38 --> 01:09:43] punish the rest as fit okay how would you execute this plan
+[01:09:43 --> 01:09:48] think it over in your head imagine how sweet that revenge tastes
+[01:09:48 --> 01:09:52] and slowly let it bubble out of you like boiling water tipping over a pan on the
+[01:09:52 --> 01:09:58] stove yeah starting with small chuckles
+[01:09:58 --> 01:10:01] okay
+[01:10:04 --> 01:10:08] keep it small until you feel like you absolutely cannot hold it in anymore
+[01:10:08 --> 01:10:12] and step three once you reach that imaginary boiling point
+[01:10:12 --> 01:10:16] once you've convinced yourself that the revenge will be so sweet
+[01:10:16 --> 01:10:20] and that those people will suffer in the most horrible way possible forever
+[01:10:20 --> 01:10:25] crossing you were doing the things to you allow that continuous chuckle to
+[01:10:25 --> 01:10:52] explode into pure ecstasy
+[01:10:52 --> 01:10:58] sorry almost let me self yeah it was like i'll ever get a little carried away
+[01:10:58 --> 01:11:05] there sounds like this i'm glad that i can't
+[01:11:05 --> 01:11:09] really see in a conventional sense
+[01:11:09 --> 01:11:13] that was more of a joyful laugh i don't think i did it quite right
+[01:11:13 --> 01:11:23] but let's let him finish his thought try to
+[01:11:24 --> 01:11:31] this was okay um when can cat cam come back and can we get an update that's a
+[01:11:31 --> 01:11:36] fun idea that's a fun idea
+[01:11:36 --> 01:11:40] sorry sorry that is a fun idea though
+[01:11:40 --> 01:11:47] um no hey that's actually three we got a lot of segments to get to today and um
+[01:11:47 --> 01:11:50] i'm still having trouble letting go of some of that anger about that totally
+[01:11:50 --> 01:11:54] imaginary thing i thought about with a laundromat so
+[01:11:54 --> 01:12:01] i think we should call it there fine by me son i bet it is
+[01:12:01 --> 01:12:04] okay uh we actually have some therapy to get to
+[01:12:04 --> 01:12:11] not me not me actually um somebody else somebody else has to do that
+[01:12:11 --> 01:12:13] and we'll start with case i guess or something well he can figure it out
+[01:12:13 --> 01:12:41] it's time for therapy i really forget what this office looks like
+[01:12:41 --> 01:12:45] every time until i'm in it uh guys we're back in the therapy
+[01:12:45 --> 01:12:49] office we're lucky enough to be joined by
+[01:12:49 --> 01:12:57] uh dr chath who is of course here and ready to offer some therapy
+[01:12:57 --> 01:13:01] um it looks like i also have to figure out where
+[01:13:01 --> 01:13:05] tristan has gone to at some point but there were two were two requests for
+[01:13:05 --> 01:13:09] therapy i need to work through my procrastination of
+[01:13:09 --> 01:13:14] sub goals apparently no i there's a reason i got
+[01:13:14 --> 01:13:19] rid of the bar until i could figure out how to make them happen i
+[01:13:19 --> 01:13:21] i kind of already worked through it is what i'm getting at if you think about it
+[01:13:21 --> 01:13:24] i started out away and i'm already working through it
+[01:13:24 --> 01:13:28] not that i'm being avoidant not that i would ever be avoidant of anything
+[01:13:28 --> 01:13:31] ever uh anyway dr chath thank you for being here i
+[01:13:31 --> 01:13:36] guess yeah it's not dr chaff
+[01:13:36 --> 01:13:40] oh wow he looks good you look great as always dr chath
+[01:13:41 --> 01:13:48] epic edgelord master gamer incredible incredible handle and thank you for the
+[01:13:48 --> 01:13:51] follow anyway you can type exclamation point
+[01:13:51 --> 01:13:57] heal to send us a message of healing um me and dr chath
+[01:13:57 --> 01:14:00] you don't you can use them or not i mean mostly i'm just here for your expertise
+[01:14:00 --> 01:14:06] when are piss cakes on the menu um
+[01:14:06 --> 01:14:10] like for me personally i i guess i prefer never i don't really want to eat
+[01:14:10 --> 01:14:16] piss cakes how do you rate my lube recipe it's one teaspoon cornstarch
+[01:14:16 --> 01:14:21] and one quarter cup of water put in a saucepan on a low medium heat
+[01:14:21 --> 01:14:29] stir let it boil for about 30 seconds stirring the whole time
+[01:14:29 --> 01:14:33] um that sounds good i mean i'm not an expert i'm guessing that was probably
+[01:14:33 --> 01:14:36] for somebody else because i'm streaming today
+[01:14:36 --> 01:14:40] was the sign of the apocalypse the end is near
+[01:14:40 --> 01:14:45] lube yourself one last time he did stream a while ago i don't think he streams
+[01:14:45 --> 01:14:48] sense actually what would you recommend for a sex robot
+[01:14:48 --> 01:14:51] you know dr chath i gotta say all this lube talk not that i think you're
+[01:14:51 --> 01:14:53] coming on to me i respect you too much professionally but it just doesn't
+[01:14:53 --> 01:14:57] feel entirely appropriate have you ever beat glue cook
+[01:14:57 --> 01:15:03] in a cooking contest did you have the notes from last time we did this up
+[01:15:03 --> 01:15:06] because that feels like a lube chef question
+[01:15:06 --> 01:15:11] you know i'm just will wwe censor fuck ice
+[01:15:11 --> 01:15:15] chance on smackdown or will triple h suppress them
+[01:15:15 --> 01:15:21] to appease his father-in-law and orange overlord my guess is wwe would a
+[01:15:21 --> 01:15:24] hundred percent censor those i don't really know how easy it is for them to
+[01:15:24 --> 01:15:28] censor things live like i think they can cut certain
+[01:15:28 --> 01:15:31] mics and then pipe in other noises but i feel like a lot of stuff still bleeds
+[01:15:31 --> 01:15:35] through so if they do censor them then i think it will lead to even more
+[01:15:35 --> 01:15:39] awareness that those chants are going on so i say go for it triple h i'd
+[01:15:39 --> 01:15:44] prefer the looney tunes fangirl was here to chat with me
+[01:15:44 --> 01:15:47] that does sound better i can see why you would prefer that but it is a little
+[01:15:47 --> 01:15:53] hurtful given that i'm your patient can you see the stains in my beard
+[01:15:53 --> 01:15:57] oh my you have stains in there
+[01:15:57 --> 01:16:01] is it supposed to be one color it's a little red did you dye it red is it
+[01:16:01 --> 01:16:05] stained red why is fake jeb like this what did he do
+[01:16:05 --> 01:16:11] with the real jeb i'm scared uh look i employ a lot of people on this
+[01:16:11 --> 01:16:15] station and i can't be held legally responsible for the actions of the
+[01:16:15 --> 01:16:18] people i employ in the segments that i allow them to do on my own stream
+[01:16:18 --> 01:16:24] then that's my interest in upset that there's a new gamer on the stream
+[01:16:24 --> 01:16:27] um he probably is i could i guess we can go try to get
+[01:16:27 --> 01:16:35] tristan i guess we'll switch to tristan mode i have to go get him though so um
+[01:16:35 --> 01:16:40] let me play this hold music really quick while we
+[01:16:40 --> 01:17:26] look for him i'm a different guy entirely
+[01:17:26 --> 01:17:33] haha turn this shit off dude i'm busy today
+[01:17:33 --> 01:17:37] i actually have my own rap group with chat hanks
+[01:17:37 --> 01:17:41] we kind of did it before he dropped that white girl summer thing a couple years
+[01:17:41 --> 01:17:44] ago honestly he fell off since then so
+[01:17:44 --> 01:17:47] i kind of got in there when he was prime if you ask me what are we talking
+[01:17:47 --> 01:17:50] about what are we fucking doing i've not been here in a minute
+[01:17:50 --> 01:17:55] this is the new style for hats by the way people are people are very into this
+[01:17:55 --> 01:18:00] style of hat right now we're the uh strap to the side no big
+[01:18:00 --> 01:18:05] deal what's up what's your deal murder mystery stream when
+[01:18:05 --> 01:18:09] fuck you man what i just got here don't make demands of me
+[01:18:09 --> 01:18:13] procrastination's okay as long as you can handle the all-nighter
+[01:18:13 --> 01:18:16] to get everything done that's so true do you think procrastination
+[01:18:16 --> 01:18:20] is a normal part of life you know i think for you like your average guy it is but
+[01:18:20 --> 01:18:24] i don't really think of procrastination as procrastination i think if it's sort
+[01:18:24 --> 01:18:30] of as your priorities taking um they're like your priorities being more
+[01:18:30 --> 01:18:33] priority than the priorities of the universe
+[01:18:33 --> 01:18:37] because i like to think of life is like the universe wants you to do what the
+[01:18:37 --> 01:18:41] universe wants but inside you there's your own universe
+[01:18:41 --> 01:18:45] i actually wrote a book about this um but you can't which was a new york times
+[01:18:45 --> 01:18:54] bestseller how does that make you feel proud of myself
+[01:18:54 --> 01:19:01] i'm proud you me fulsome street fair not a question
+[01:19:01 --> 01:19:09] we're going oh like the fisting fair my dad used to take me to that
+[01:19:09 --> 01:19:13] um i don't know why he was taking me when i was
+[01:19:13 --> 01:19:17] a kid to that my dad's really successful though so
+[01:19:17 --> 01:19:23] another cooking stream would be fun what are you cooking
+[01:19:23 --> 01:19:31] bring back gold suit um i mean i have a suit made of pure gold it is hard to
+[01:19:31 --> 01:19:35] move in gold is a flexible metal so like you can get it
+[01:19:35 --> 01:19:39] you can get it going but it's pretty thick gold you need a lot of upper body
+[01:19:39 --> 01:19:43] strength to wear it which i have but um i'm training for
+[01:19:43 --> 01:19:49] to catholon right now so i don't have to do one obviously to judge one i just
+[01:19:49 --> 01:19:53] like if i'm going to judge something it's a catholon where you judge it instead of
+[01:19:53 --> 01:19:56] the best time wins the best overall performance wins and i'll be one of the
+[01:19:56 --> 01:19:59] judges are we actually getting paid six million
+[01:19:59 --> 01:20:05] dollars for it by um israel will case ever do his
+[01:20:05 --> 01:20:13] workout stream i don't know sounds like he's a guy who does he does not
+[01:20:13 --> 01:20:17] follow the tristan approved method of challenging the universe every day and
+[01:20:17 --> 01:20:20] exerting your will over it how do you feel about bugs bunny
+[01:20:20 --> 01:20:27] performing at the superb owl this weekend the superb owl that's the thing
+[01:20:27 --> 01:20:30] that you without all the rich people do instead of the super bowl
+[01:20:30 --> 01:20:33] we go and we worship at the foot of the superb owl you've heard about that
+[01:20:33 --> 01:20:38] are you fucking rich too i didn't know bugs would be there
+[01:20:38 --> 01:20:43] actual bugs money the guy who had all that surgery to look like bugs money
+[01:20:43 --> 01:20:46] because if he's there then it's going to be a lot more fun this year are you
+[01:20:46 --> 01:20:53] afraid of attaining all your goals and being bereft of goals
+[01:20:53 --> 01:20:57] no there's no i mean it's not like i've had everything i want all my life and i
+[01:20:57 --> 01:21:07] feel totally empty inside is cum and mountain dew considered a breakfast drink
+[01:21:07 --> 01:21:11] that's a really good question cum is definitely a breakfast drink
+[01:21:11 --> 01:21:15] um at least that's what i wrote in my book
+[01:21:15 --> 01:21:21] cum drink i wrote a book called cum drink um
+[01:21:21 --> 01:21:24] is one of the many books i've released in my self-help line and it is about all
+[01:21:24 --> 01:21:29] the various abuses of cum as a drink the biggest one is as a drink
+[01:21:29 --> 01:21:32] but then there are 300 other pages i didn't i'll admit i didn't entirely
+[01:21:32 --> 01:21:36] write all of that one i i i i worked with a writer on that one so it's not
+[01:21:36 --> 01:21:40] saw some of my favorite work i'm watching some bugs bunny
+[01:21:40 --> 01:21:46] on tcm join me shall you no i i actually believe that tick tock is a
+[01:21:46 --> 01:21:51] higher evolution of media consumption and that movies are actually best watched
+[01:21:51 --> 01:21:54] narrated by that voice that talks about like
+[01:21:54 --> 01:21:58] the tall man had accidentally eaten a dog i actually think that's the highest
+[01:21:58 --> 01:22:04] form of cinema plop plop squirt plop how did that make you
+[01:22:04 --> 01:22:10] feel kind of made me feel like i shit my pants
+[01:22:10 --> 01:22:19] but i know i didn't i'm not incontinent your haircut looks sexy a have
+[01:22:19 --> 01:22:25] actually my brand is this hat dude i'm legally uh required by
+[01:22:25 --> 01:22:31] um my own lawyers i set up a trust against myself that if i take this hat off
+[01:22:31 --> 01:22:35] um that i will lose 30 percent of my inheritance
+[01:22:35 --> 01:22:39] in order to challenge myself to commit to my own branding which is this hat
+[01:22:39 --> 01:22:43] you make anything work if you challenge the universe hard enough
+[01:22:43 --> 01:22:47] read my book again not the maybe don't read come drink again that's not my
+[01:22:47 --> 01:22:51] favorite book that i've written anytime you do something bad
+[01:22:51 --> 01:22:58] just remember it wasn't you it was your shadow so go on it's okay do more bad
+[01:22:58 --> 01:23:01] things that's a really good point man i have not
+[01:23:01 --> 01:23:04] thought of it that way but that is actually what you're making right now
+[01:23:04 --> 01:23:07] that feels very deep and true because a lot of times sometimes i
+[01:23:07 --> 01:23:11] sometimes i do actually first like a few moments i'll feel bad and i'm like
+[01:23:11 --> 01:23:14] why am i even doing this because like who is it even helping if you think about it
+[01:23:14 --> 01:23:18] for me to feel bad and then usually i end up i don't really
+[01:23:18 --> 01:23:22] feel better but then i do do more stuff and that's and i think what you said
+[01:23:22 --> 01:23:27] actually sums that up very well um my eyes are up here case oh sorry the
+[01:23:27 --> 01:23:30] cameras are confusing i have been staring directly at your
+[01:23:30 --> 01:23:34] sweaty fucking nipples this whole time that is though like why are those
+[01:23:34 --> 01:23:38] nipples of yours so sweaty because i'm curious i'd like to get a good
+[01:23:38 --> 01:23:42] sweat going on my own nipples because i think it's good for your um
+[01:23:42 --> 01:23:46] for your chest uh it's like good for your chest growth to actually sweat directly
+[01:23:46 --> 01:23:51] out of your nipples you need to help your employees
+[01:23:51 --> 01:23:55] out there is no reason trip should live in a bush
+[01:23:55 --> 01:23:58] well that's a case problem and and you know the policy on my own employees
+[01:23:58 --> 01:24:02] is employment is really just another word for
+[01:24:02 --> 01:24:06] um if you think about it all of us are sort of working towards the same goal
+[01:24:06 --> 01:24:10] of excellence and whether that excellence is achieved by one person at the head
+[01:24:10 --> 01:24:13] of an organization and only them exclusively and all the profits go to
+[01:24:13 --> 01:24:17] them or if it's shared by team the at the end of the day it's really
+[01:24:17 --> 01:24:20] still excellence if you think about it and i think all of us can celebrate that
+[01:24:20 --> 01:24:25] together instead of lamenting the lack of shared spaces
+[01:24:25 --> 01:24:30] you should make new ones every week challenge yourself to break into at
+[01:24:30 --> 01:24:34] least two houses whoa it's important to get out of
+[01:24:34 --> 01:24:37] your comfort zone that's a really good one if you want to change
+[01:24:37 --> 01:24:41] yeah i totally agree with that because while i do believe the most
+[01:24:41 --> 01:24:45] sacrosanct law that defines all of mankind is property rights
+[01:24:45 --> 01:24:49] i do think those property rights do need to be defended against the guys that i
+[01:24:49 --> 01:24:53] hired to break into other people's homes and i did try to pitch that show to
+[01:24:53 --> 01:24:57] mtv um in 2003 and they weren't quite ready for
+[01:24:57 --> 01:25:01] forcible cribs but i think now actually might be the cultural moment
+[01:25:01 --> 01:25:05] where forcible cribs could come back they also thought that it was not too
+[01:25:05 --> 01:25:07] much like i was doing something fucked up to babies but really it was just about
+[01:25:07 --> 01:25:10] breaking into people's houses and you don't even interview them you just run
+[01:25:10 --> 01:25:11] around the house filming them saying show me where your
+[01:25:11 --> 01:25:17] shit is um anyway great idea is my it's my idea though
+[01:25:17 --> 01:25:21] it's been so long casable goblin i'm part of the piece of hut family yeah
+[01:25:21 --> 01:25:24] i mean i'm not afraid to admit that it's not an epitism thing my success by
+[01:25:24 --> 01:25:28] the way i had to work for everything that i have but i do love my family
+[01:25:28 --> 01:25:31] obviously epitome was a great sherpa on the
+[01:25:31 --> 01:25:35] mountain the other day why were the other climbers being such
+[01:25:35 --> 01:25:39] haters that's a great point i did hire the case's producer dog to
+[01:25:39 --> 01:25:42] lead me on one of my many globe astriding adventures up a mountain
+[01:25:42 --> 01:25:46] and he did do a good job but everyone did die except me so that's probably why
+[01:25:46 --> 01:25:50] they were upset but that's that's why you sign up for adventure
+[01:25:50 --> 01:25:52] because you know you might die i mean obviously i never will but they did
+[01:25:52 --> 01:25:58] heal this ass face i can't if you think about that about your own face
+[01:25:58 --> 01:26:00] because i know you're not talking about mine there's nothing i can do about
+[01:26:00 --> 01:26:07] that actually man am i right i know exactly what you mean
+[01:26:07 --> 01:26:12] will you follow in your daddy's footsteps and run for mayor of renerton
+[01:26:12 --> 01:26:16] how will you deal with the zombies is actually my grandfather i believe that
+[01:26:16 --> 01:26:19] was mayor of that particular town and that is one of the darker chapters in
+[01:26:19 --> 01:26:22] our family history in the sense that it's a little bit of a low rent place to
+[01:26:22 --> 01:26:24] be like taking your claim you know what i mean but i guess he was just having
+[01:26:24 --> 01:26:27] fun if you think about it at the end of the day why is your procrastination
+[01:26:27 --> 01:26:31] also masturbation well probably because i'm jerking off so much
+[01:26:31 --> 01:26:35] but that is actually an exercise it's really better for your body than yoga
+[01:26:35 --> 01:26:38] um and that is when one of my boy that is in drink com that's one of the other
+[01:26:38 --> 01:26:41] chapters in there is masturbation is better for you than yoga and i did get
+[01:26:41 --> 01:26:45] sued for that but actually i think a lawsuit is sort of proof positive
+[01:26:45 --> 01:26:47] that you were on to something because otherwise why would someone care
+[01:26:47 --> 01:26:51] enough to make it a little you ever have a regular schedule
+[01:26:51 --> 01:26:56] no can you inject tough daddy in your penis to be a better snow border
+[01:26:56 --> 01:27:02] yes is your sister a single either way can i sniff her hair
+[01:27:02 --> 01:27:07] well that's an instant question because legally my family has no women in it
+[01:27:07 --> 01:27:13] um we found a certain municipality in maraca where it is legal to claim that
+[01:27:13 --> 01:27:18] there are no women in your family and to excise them from all legal rights
+[01:27:18 --> 01:27:22] and we did do that so from a legal standpoint i have no sister and you
+[01:27:22 --> 01:27:26] cannot smell what does not exist wow case hates tc
+[01:27:26 --> 01:27:33] m and bugs bunny i will explode one
+[01:27:33 --> 01:27:39] who which one i don't know what case has against bug bunny and tcm but
+[01:27:39 --> 01:27:44] does he mean the drug tcm or what is there some other way to take that
+[01:27:44 --> 01:27:47] his tcm is supposed to be a rich guy drug that only we know about and i'd
+[01:27:47 --> 01:27:51] prefer if you didn't spread that around is that a lady's beach hat
+[01:27:51 --> 01:27:56] or do you just need for Jurassic park actually a tristan cap
+[01:27:56 --> 01:28:00] and it is and i don't i'd prefer you to pretend not to know that this is my
+[01:28:00 --> 01:28:03] brand because i've where did you get that hat i got it
+[01:28:03 --> 01:28:07] literally when i was 12 and i said i will never take it off and i haven't
+[01:28:07 --> 01:28:11] and when i die i am donating the top of my
+[01:28:11 --> 01:28:16] scalp to science actually now not to that i'm thinking i'm donating it to
+[01:28:16 --> 01:28:20] um i think i'm donating it to
+[01:28:20 --> 01:28:24] to the remaining roth child family but they're gonna study it all the same
+[01:28:24 --> 01:28:28] anyway what's going on up on the top of my head is is anyone's guess
+[01:28:28 --> 01:28:36] come my lady come come my lady drink some mountain dew sugar baby
+[01:28:36 --> 01:28:39] i'll fucking love remixes and that was a good one in my shadow
+[01:28:39 --> 01:28:45] my shadow change is coming now is my time oh if you're going shadow mode i
+[01:28:45 --> 01:28:49] should get out of here because really if two elphas go shadow at the same time
+[01:28:49 --> 01:28:53] um then honestly it's more dangerous than a nuclear bomb going off
+[01:28:53 --> 01:28:56] do do oh i can see that shadow coming out for sure you have
+[01:28:56 --> 01:29:01] shadow the hedgehog in your heart do you think you need an exorcism
+[01:29:01 --> 01:29:04] that's probably what my that's what my teachers would have said in high school
+[01:29:04 --> 01:29:07] because i was so high achieving that they couldn't keep up with me buzz
+[01:29:07 --> 01:29:13] spot 9 11 wasn't your fault flew up i appreciate you
+[01:29:13 --> 01:29:17] saying that because they have my family has been blamed quite a bit for 9 11
+[01:29:17 --> 01:29:23] just because we were like we did technically profit from 9 11 we're
+[01:29:23 --> 01:29:28] one of the few 9 11 profiteers but i don't think a business opportunity
+[01:29:28 --> 01:29:33] um is really everything ever anything to be ashamed of
+[01:29:33 --> 01:29:39] toxic nipples that's a really good nap this is a really good
+[01:29:39 --> 01:29:43] um you know i'm not going to tell you but it is a good idea but i'm not going
+[01:29:43 --> 01:29:47] to tell you what field because uh it's important actually in this
+[01:29:47 --> 01:29:51] particular political in this particular economy that you're an early actor
+[01:29:51 --> 01:29:54] and i will be you should get leon back ahead of the resident evil
+[01:29:54 --> 01:29:58] requiem release i don't know if i he mostly guards
+[01:29:58 --> 01:30:02] presidents and um i don't know if i feel like being one
+[01:30:02 --> 01:30:07] breakthrough thank you i do feel like i'd fucking nailed this
+[01:30:07 --> 01:30:10] therapy is just another challenge that the universe puts in your way that you
+[01:30:10 --> 01:30:14] have to destroy you can never get off your grind set
+[01:30:14 --> 01:30:18] you can never stop thirsting for everything that life has to offer
+[01:30:18 --> 01:30:23] and you can read more of this in my book a drink come to
+[01:30:23 --> 01:30:28] i did write two of those the second one is better than the first though
+[01:30:28 --> 01:30:32] so just make sure you don't buy the first one the way you'll know it's drink come
+[01:30:32 --> 01:30:35] to is that it's squared it's going to be called drink come
+[01:30:35 --> 01:30:39] squared but then there was some confusion and if you look at not search for it
+[01:30:39 --> 01:30:41] on amazon i'll say drink come to but on the cover it'll say drink come
+[01:30:41 --> 01:30:45] squared so just keep that in mind anyway i'm told
+[01:30:45 --> 01:30:48] that i'm now sending it to something else and i am extremely busy so it's a
+[01:30:48 --> 01:30:51] good idea that i got out of here immediately but i guess you guys are
+[01:30:51 --> 01:30:55] going to go to the uh they're going inside an iphone or something i don't
+[01:30:55 --> 01:31:44] even i don't know what i'm supposed to say
+[01:31:44 --> 01:31:55] oh good it's jan to me jan
+[01:31:55 --> 01:32:00] hi hi jan thanks for doing this i guess nobody was
+[01:32:00 --> 01:32:03] available that's the only reason you'd ask me to do this we've
+[01:32:03 --> 01:32:07] specifically asked me you try to touch my hand stop
+[01:32:07 --> 01:32:13] put your hand on i just pointed back i said at the same time as you i i'm not
+[01:32:13 --> 01:32:16] sure why you were pointing at me well why would you point at me
+[01:32:16 --> 01:32:19] i was just gonna say you asked that i don't use you for anything so i i tried
+[01:32:19 --> 01:32:26] not to but then sometimes nobody's around i love i
+[01:32:26 --> 01:32:32] i love icrades they love icrades what a unique spelling of ic
+[01:32:32 --> 01:32:39] um i can't be trusted around women do you think because you got
+[01:32:39 --> 01:32:44] the cool boy haircut from 2015 suddenly we're all impressed
+[01:32:44 --> 01:32:55] yes mm-hmm what are we doing what's what's your algo looking like
+[01:32:55 --> 01:32:59] seriously what are we supposed to do uh we're gonna watch some videos that
+[01:32:59 --> 01:33:02] have been shared at the amongst the web thread in the cream dot team bin
+[01:33:02 --> 01:33:05] section of the discord i feel like there's a better way to
+[01:33:05 --> 01:33:11] say that there probably was that's a fair note jan and i'll take it
+[01:33:11 --> 01:33:19] okay this is coming in hot from card king let's see what they've got for us
+[01:33:19 --> 01:33:23] just her been she liked to pop because she was living love eat a loco she had
+[01:33:23 --> 01:33:28] drums like a truck truck truck truck dies like what what what baby move your butt
+[01:33:28 --> 01:33:31] butt butt i think i'll sing it again she had
+[01:33:31 --> 01:34:02] drums like a truck truck truck what what it's pretty good
+[01:34:02 --> 01:34:10] this is a pretty good one why would you with it what
+[01:34:10 --> 01:34:15] i just don't get the premise or the i kind of like the execution but i don't
+[01:34:15 --> 01:34:22] get the premise you're old oh i think it's because i'm old
+[01:34:22 --> 01:34:26] and you're old oh i kind of hate it i just
+[01:34:26 --> 01:34:29] am confused yeah that sounds right it was his mom's
+[01:34:29 --> 01:34:33] i get that but if it's a budget funeral why is
+[01:34:33 --> 01:34:37] are they singing that song doesn't feel that low budget it feels like
+[01:34:37 --> 01:34:42] everybody's really putting a lot of effort that's an infine yeah
+[01:34:42 --> 01:34:48] it's pretty good it's a six seven me i don't think it was a young thing i think
+[01:34:48 --> 01:34:52] i just think it doesn't entirely make conceptual shut up
+[01:34:52 --> 01:34:58] okay that's fair shut the fuck shut up i am technically your boss are you
+[01:34:58 --> 01:35:02] isn't papito my boss technically papito is your boss
+[01:35:02 --> 01:35:05] he said that i should be mean to you and i said i already am
+[01:35:05 --> 01:35:13] oh okay here's more stuff here's another video
+[01:35:13 --> 01:35:28] it's it that's what this is i yeah i get it
+[01:35:28 --> 01:35:31] risen cranks
+[01:35:31 --> 01:35:54] look at this see i didn't get that one that's like an old guy thing
+[01:35:54 --> 01:36:03] what's not to get there i don't get it it doesn't make sense to me
+[01:36:03 --> 01:36:08] do you hear about this the viral conjoined twins who gain more than 280
+[01:36:08 --> 01:36:18] thousand followers on instagram did you hear that it's not real
+[01:36:18 --> 01:36:24] what i told you it is real sorry we're we're not covering that stuff right now
+[01:36:24 --> 01:36:29] oh i thought this was a news thing but when i bring a story it's no good
+[01:36:29 --> 01:36:32] no it's just this is not the segment where we talk about
+[01:36:32 --> 01:36:37] whatever that is well what do you think do you think it's real face
+[01:36:37 --> 01:36:44] or is it too good to be true i'm if i had to guess the
+[01:36:44 --> 01:36:47] sexy busty viral conjoined twins are probably not
+[01:36:47 --> 01:36:53] real can you be wrong because reality is what you make of a case
+[01:36:53 --> 01:36:57] anyway that was from john michael and that was an 8.2 he is it he's hating women
+[01:36:57 --> 01:37:00] all the time he's the kind of guy who'd probably
+[01:37:00 --> 01:37:08] think you can play a woman just because you slapped a woman's face on your face
+[01:37:08 --> 01:37:12] i apologize to you jan and to every
+[01:37:12 --> 01:37:18] that good enough okay let's go for some more classic stuff this is uh this is bug's
+[01:37:18 --> 01:37:23] bunny who i don't hate for the record or turn our classic movies
+[01:37:23 --> 01:37:27] fuck you get off talking to people about me behind my back going over my head
+[01:37:27 --> 01:37:29] what people would you think i wasn't gonna find out i don't even know what
+[01:37:29 --> 01:37:34] you're talking about nick no you said i'm bringing heat on you
+[01:37:34 --> 01:37:37] i gotta listen to people because of your fucking shit you're ordering me out
+[01:37:37 --> 01:37:41] you better get your own fucking army pal i didn't do anything i mean i didn't order
+[01:37:41 --> 01:37:44] you or anybody i only told andy stone that you had a lot of heat on you and that
+[01:37:44 --> 01:37:46] was a problem you want me to get out of my own fucking town
+[01:37:46 --> 01:37:50] yeah i said let the bullshit blow over for a while so i can run the casino
+[01:37:50 --> 01:37:53] anything goes wrong with the casino it's my ass it's not yours it's my ass i
+[01:37:53 --> 01:37:56] don't know whether you notice or not but you only have your fucking casino
+[01:37:56 --> 01:38:00] because i made that possible i'm with counts out here
+[01:38:00 --> 01:38:04] let your fucking country clubs or your fucking tv shows
+[01:38:04 --> 01:38:08] and what the fuck are you doing on tv anyhow you know i get calls from back
+[01:38:08 --> 01:38:10] home every fucking day they think you went bad
+[01:38:10 --> 01:38:13] shit your fucking warren don't ever go over my
+[01:38:13 --> 01:38:18] fucking head again you motherfucker you
+[01:38:18 --> 01:38:25] wait a fuck did you like that one because it was angry men
+[01:38:25 --> 01:38:28] it was um but it was angry men over a different thing
+[01:38:28 --> 01:38:35] that do it is that doing for you is that i can't tell
+[01:38:35 --> 01:38:52] because i mean you like it i've been told that younger people stare at you know
+[01:38:52 --> 01:39:00] i wouldn't know because i'm old is that what you're doing i guess
+[01:39:00 --> 01:39:03] objectively what you're doing is staring at me but is that trying to
+[01:39:03 --> 01:39:14] communicate something what's the next video i what just happened what are you
+[01:39:14 --> 01:39:21] what are you feeling don't ask me that rude
+[01:39:21 --> 01:39:26] okay here's here's another here's the older
+[01:39:26 --> 01:39:29] generation doling out some wisdom
+[01:39:29 --> 01:39:32] being a male is it easy you turn 12 years old
+[01:39:32 --> 01:39:37] and now you're competing with ceo's bankers and politicians
+[01:39:37 --> 01:39:45] for girls your age do you like that one
+[01:39:45 --> 01:39:50] that was me going
+[01:39:54 --> 01:39:58] should we just watch it one more time because we skipped the end by accident
+[01:39:58 --> 01:40:01] being a male is it easy you turn 12 years old
+[01:40:01 --> 01:40:05] and now you're competing with ceo's bankers and politicians
+[01:40:05 --> 01:40:14] for girls your age actually without ending i do think it's good
+[01:40:14 --> 01:40:17] oh now you like it without ending added i think it's good
+[01:40:17 --> 01:40:21] that was from live in sleazy wow
+[01:40:21 --> 01:40:27] gonna be jen in 80 years respect to a real one that's how you age with grace
+[01:40:27 --> 01:40:30] pace look it up technically we did just we looked it up and we
+[01:40:30 --> 01:40:33] watched it yeah but look it up more and look
+[01:40:33 --> 01:40:37] into it i will tell you with more grace uh
+[01:40:37 --> 01:40:42] here's another live in sleazy well not original something that they're sharing
+[01:40:42 --> 01:40:47] oh my god kiss that marco oh carly come on
+[01:40:47 --> 01:40:53] oh oh oh sweet jesus oh carly
+[01:40:53 --> 01:40:58] hey that's enough who had some emotion i need some lotion under aisle
+[01:40:58 --> 01:41:01] one i'm gonna make sure we give this plexiglass to the cdc
+[01:41:01 --> 01:41:05] thank you honey you're ready for it i don't know if i can beat that
+[01:41:05 --> 01:41:09] yes you can't do it here we go
+[01:41:24 --> 01:41:29] all right are you ready i guess so okay here you go your sexy plexi chance
+[01:41:29 --> 01:41:31] right now
+[01:41:32 --> 01:41:54] oh is that what you wanted to watch um i didn't share that that was live in sleazy
+[01:41:54 --> 01:41:58] you brought me on and then you put that video on and you think that's
+[01:41:58 --> 01:42:03] you think that's good i didn't i don't have any opinion on most of the videos this
+[01:42:03 --> 01:42:09] is a communal rating system and people are saying they didn't like it
+[01:42:09 --> 01:42:19] i did i didn't mean to wow okay i'm impressed now chat
+[01:42:19 --> 01:42:26] you've done it called your shot from orbit put your hand on
+[01:42:26 --> 01:42:35] all right my bad that's that put your hand down okay my bad
+[01:42:35 --> 01:42:40] i i don't know what i i wish i had a more dramatic graphic to give you guys
+[01:42:40 --> 01:42:44] to communicate how impressed i am but
+[01:42:44 --> 01:42:48] this is the only this is the only good job graphic i have
+[01:42:48 --> 01:42:52] ended on that yeah maybe we do end it on that really you don't want to watch more
+[01:42:52 --> 01:42:57] videos just because i am the intern no i you also
+[01:42:57 --> 01:43:00] said you hate when i'm give you extra work i'm sorry for even
+[01:43:00 --> 01:43:04] making you do this interesting which is it do you want to do
+[01:43:04 --> 01:43:11] the segment or do you not because we could do more of the segment
+[01:43:11 --> 01:43:14] yes i don't oh so you do i just said i don't
+[01:43:14 --> 01:43:18] oh okay well then i'm gonna send it to the next segment
+[01:43:18 --> 01:43:28] really yes we're gonna send it to cryptosu's gaming to
+[01:43:28 --> 01:43:32] to end the stream for the day because it'll probably take a minute to get it
+[01:43:32 --> 01:43:35] all set up tomorrow we will do the encircle thing
+[01:43:35 --> 01:43:39] i'll take a look and try to adjust some knobs before we
+[01:43:39 --> 01:43:43] dive headlong into um one jeremy renner verse
+[01:43:43 --> 01:43:48] pretty snow plows interesting yeah that's funny to you
+[01:43:48 --> 01:43:55] no me and he was seriously hurt by that snow plow are you a jeremy renner
+[01:43:55 --> 01:43:59] fan no he's fucked up but we could do better than that
+[01:43:59 --> 01:44:02] case can't we awful what he did to that director
+[01:44:02 --> 01:44:06] awful what you're doing to him what am i doing to him
+[01:44:06 --> 01:44:14] subjecting him to his trauma but that's how you want to live your life
+[01:44:14 --> 01:44:22] for this i can't read that i do also but i do also believe all plus
+[01:44:22 --> 01:44:27] okay well let's uh i'm not sure what they're doing down there
+[01:44:27 --> 01:44:34] don't ignore them ignore the bears with guns there's bears with guns you brought
+[01:44:34 --> 01:44:43] me into a situation with bears with guns you didn't tell me about it till now
+[01:44:43 --> 01:44:47] i'm jeremy renner with less money what does that mean it doesn't mean anything
+[01:44:47 --> 01:44:53] good and i agree but what does it mean that's
+[01:44:53 --> 01:44:56] specifically it does not mean anything good
+[01:44:56 --> 01:45:06] yeah there's a buzzer now we need to make runner models that's a good question
+[01:45:06 --> 01:45:11] jen take five we need a double check of jeremy renners around
+[01:45:11 --> 01:45:19] oh you're just kicking me out for him um i don't think oh wait i know who i know
+[01:45:19 --> 01:45:28] who is around though i know who we can get on short notice
+[01:45:28 --> 01:45:32] yeah don't worry we'll figure something out tomorrow okay
+[01:45:32 --> 01:45:45] i was worried really i've got there fighting each other
+[01:45:45 --> 01:45:50] i think the bears lost they did get blown up
+[01:45:50 --> 01:45:55] uh we had made characters for town hall are they all the same parameters for
+[01:45:55 --> 01:45:58] encircled care oh we could we could do encircled that way too
+[01:45:58 --> 01:46:03] we could turn encircled into more of a town hall thing
+[01:46:03 --> 01:46:06] it is certainly a it's a bit of a cumbersome segment right now but i
+[01:46:06 --> 01:46:09] think i could probably fix it in a number of ways
+[01:46:09 --> 01:46:13] um anyway for now we'll send it to cryptozuse and we'll
+[01:46:13 --> 01:46:18] attempt to fix the problem of bad guy who's bad at operating basic
+[01:46:18 --> 01:46:23] emulator technology we'll try to fix that one problem at a time
+[01:46:23 --> 01:46:28] anyway it's that time again guys it's cryptozuse gaming
+[01:46:28 --> 01:46:52] yeah
+[01:47:00 --> 01:47:03] i'm crazy yeah me and my posse when it's time to get everybody to
+[01:47:03 --> 01:47:08] hey everybody oh hey great don't make me get out of
+[01:47:08 --> 01:47:13] great we're all live now we're live everybody we're live now
+[01:47:13 --> 01:47:17] in the scores in the market hey hey we're busy today we got a lot of
+[01:47:17 --> 01:47:21] shit to get through so let's all focus up today we're gonna play
+[01:47:21 --> 01:47:24] seriously like an army of spartans they're plotting they were busy and we're
+[01:47:24 --> 01:47:27] gonna try to play seriously they bark and they wait for the moment to take
+[01:47:27 --> 01:47:30] what was hidden in cryptozuse you already know that
+[01:47:31 --> 01:47:35] what's your deal race silver
+[01:47:36 --> 01:47:41] this is your question what's your deal
+[01:47:41 --> 01:47:45] yeah okay
+[01:47:45 --> 01:47:49] um i gotta set my own fucking bios apparently
+[01:47:50 --> 01:47:52] apparently i have to set up my own fucking bios because even though i'm working
+[01:47:52 --> 01:47:57] with this production guy now or whatever he didn't do it interesting
+[01:47:58 --> 01:48:01] does anyone know their deal is it's a good question i know mine but i don't have to
+[01:48:01 --> 01:48:04] tell you this is america actually this is still america actually i don't have to
+[01:48:04 --> 01:48:07] tell you what my deal is
+[01:48:08 --> 01:48:11] mom what yep mommy what
+[01:48:13 --> 01:48:23] mommy what mommy mommy what
+[01:48:23 --> 01:48:33] oh is my mommy okay i hope she shuts the fuck up but is she okay
+[01:48:33 --> 01:48:55] mommy oh no one second guys mommy hold on if anybody's trying to wake my mom up
+[01:48:55 --> 01:48:59] can you just hold for a minute can we hold for a minute on trying to wake my mom up
+[01:48:59 --> 01:49:04] my mommy is struggling my mommy's having a dark i can tell because she's
+[01:49:04 --> 01:49:08] being quiet and and that's good i want her to shut the fuck up but she's
+[01:49:08 --> 01:49:18] having some trouble right now don't worry i'll fix it
+[01:49:18 --> 01:49:21] i have a button i can press um it sends my room but i would sort of
+[01:49:21 --> 01:49:28] hit her in the legs a lot sort of bounces against her um like bounces against her
+[01:49:28 --> 01:49:32] shoes until she wakes up okay let's see is this
+[01:49:32 --> 01:49:41] fucking working god damn it i'm gonna be so pissed if i have to
+[01:49:41 --> 01:49:52] fucking go deal with my mom's bullshit again
+[01:49:52 --> 01:50:09] mommy huh okay wait a minute i gotta turn everything off
+[01:50:09 --> 01:50:15] for a second the comms are off when my mom is asleep
+[01:50:15 --> 01:50:23] she's asleep what's the problem right now
+[01:50:32 --> 01:50:42] um sorry everybody i'm actually not sorry i'm fucking busy
+[01:50:42 --> 01:51:03] um just give me a second hello hello this is a test message
+[01:51:03 --> 01:51:18] that's not good one second this is a test message
+[01:51:18 --> 01:51:27] mommy what the fuck what are those fucking doing back there this is a test
+[01:51:27 --> 01:51:35] message okay one second mommy can you stop saying
+[01:51:35 --> 01:51:47] test message it's unsettling what's going on in my room
+[01:51:47 --> 01:51:51] this is no good guys this is no good something's wrong with my room and my
+[01:51:51 --> 01:52:13] mom okay i'm gonna figure this out everyone
+[01:52:13 --> 01:52:19] put my mom in the wall that sounds dangerous
+[01:52:19 --> 01:52:35] um okay how can i test this one second i guess i could just let my mom sleep
+[01:52:35 --> 01:52:40] for the day which i actually it's just i the thing is obviously i want her to
+[01:52:40 --> 01:52:45] shut the fuck up but if she oversleeps then um her heart will sink
+[01:52:45 --> 01:52:49] too deep into her back and then she'll get back heart condition which the
+[01:52:49 --> 01:52:51] doctors have told us i do need to look out for it and i really don't feel
+[01:52:51 --> 01:53:03] like having to take another call from the doctor today let's see
+[01:53:03 --> 01:53:31] hello test test test we're doing all the tests right now just a second
+[01:53:31 --> 01:53:42] hello web socket okay we got to reload everything i just a second
+[01:53:42 --> 01:53:49] we're trying this again don't say that about my would
+[01:53:49 --> 01:53:53] what i don't even lady cedrics i don't even understand
+[01:53:53 --> 01:53:56] i don't even really understand like that feels like you're insulting me but i
+[01:53:56 --> 01:54:00] don't i can't even explain how and that makes me
+[01:54:00 --> 01:54:17] concerned okay all sorts of stuff has been initialized
+[01:54:17 --> 01:54:24] i'm gonna fix this without having to get up
+[01:54:24 --> 01:54:32] fuck it's not working fuck for some reason
+[01:54:32 --> 01:54:38] i'll show you guys what's up some reason i keep getting this message
+[01:54:38 --> 01:54:43] that my mom hasn't been found and that her web socket is off
+[01:54:43 --> 01:54:48] what happened to her web socket i wonder because that is not a condition i've
+[01:54:48 --> 01:54:52] even heard of and she's already got enough conditions
+[01:54:52 --> 01:55:00] but now she's got a web socket condition like fuck
+[01:55:00 --> 01:55:09] fuck mom's deserve breaks too if she takes a break her heart will sink
+[01:55:09 --> 01:55:11] through the floor it'll sink out of her back and through the floor and then
+[01:55:11 --> 01:55:19] i'll have to clean it up fucking frustrating guys
+[01:55:19 --> 01:55:27] it's fucking frustrating honestly sounds like a camryl thing
+[01:55:27 --> 01:55:31] maybe we'll do this tomorrow maybe today's just not my day
+[01:55:31 --> 01:55:38] maybe tomorrow we play the games maybe i take like just a quick
+[01:55:38 --> 01:55:41] 28-hour nap because i'm like fucking tired i barely slept last night i slept
+[01:55:41 --> 01:55:44] like 13 hours last night and honestly i'm
+[01:55:44 --> 01:55:50] fucking burnt out so maybe just take like a quick
+[01:55:50 --> 01:55:56] 28-hour nap we come back tomorrow charge up on mountain dew
+[01:55:56 --> 01:56:05] that does sound good that does sound good though
+[01:56:05 --> 01:56:13] fuck fuck guys shit this is bullshit the thing about when stuff doesn't go
+[01:56:13 --> 01:56:23] your way is it's fucking not fair it's bullshit it's never fair
+[01:56:23 --> 01:56:26] especially when you're like what's even what why not
+[01:56:26 --> 01:56:30] that's what whatever stuff doesn't like work i'm like
+[01:56:30 --> 01:56:36] why not and it's bullshit when that doesn't like fix it immediately
+[01:56:36 --> 01:56:40] set up the turbo graph x i guess we could just play a game
+[01:56:40 --> 01:56:44] i guess technically like i did expect except like
+[01:56:44 --> 01:56:50] a couple hundred thousand dollars to play a game today so i guess i could do that
+[01:56:50 --> 01:56:54] and i guess i could ignore my mom being passed out on the floor
+[01:56:54 --> 01:56:57] so i guess i'll just do that
+[01:56:57 --> 01:57:02] i mean i guess when i say it out loud that does sound like the right thing to do
+[01:57:02 --> 01:57:05] when a slimjib knocks you off the horse you chug a bang and get back on that
+[01:57:05 --> 01:57:12] steed let's just i'm curious about one other
+[01:57:12 --> 01:57:16] thing what if we um
+[01:57:16 --> 01:57:23] what if we make one more adjustment what if we try something a little bit
+[01:57:23 --> 01:57:26] different for the day
+[01:57:26 --> 01:57:36] by that i mean something very similar to what we were already gonna do
+[01:57:36 --> 01:57:45] does this one work is any other shit working
+[01:57:45 --> 01:57:49] son my heart is sinking deeper in my back
+[01:57:49 --> 01:58:03] oh good that one works but this one doesn't that's so confusing
+[01:58:03 --> 01:58:08] okay well anyway i can i can have it all work today it turns out
+[01:58:08 --> 01:58:12] i think my mom just got into the helium again
+[01:58:12 --> 01:58:27] so she might sound slightly different hello zoop um
+[01:58:27 --> 01:58:35] okay okay okay great great great we'll figure out what's going on there
+[01:58:35 --> 01:58:46] later the hell oh there it is
+[01:58:46 --> 01:58:53] um what about this one does this one work well we'll find out together
+[01:58:53 --> 01:58:57] okay anyway my mom is probably fine i'm awake
+[01:58:57 --> 01:59:04] oh she's fine i don't know i guess she's okay it turns out
+[01:59:04 --> 01:59:11] oh hey everybody it's um it's the new person that
+[01:59:11 --> 01:59:17] it's supposed to come and make me do exercises oh she doesn't want to show up
+[01:59:17 --> 01:59:22] i swear to god there's a girl here actually you guys probably saw my long
+[01:59:22 --> 01:59:27] um post about how i'm officially allowing women into my house
+[01:59:27 --> 01:59:34] and there's a girl now here i swear to god hey girl that's really in my house
+[01:59:34 --> 01:59:48] can you say something loud so that they can hear you
+[01:59:48 --> 01:59:59] interesting that's interesting but mom just stop repeating that again and
+[01:59:59 --> 02:00:05] again that's not cool
+[02:00:16 --> 02:00:20] mom i don't even care what you have to say because you sound ridiculous right now
+[02:00:20 --> 02:00:24] i have to set up a turbo graphics thing so
+[02:00:24 --> 02:00:32] my heart is sinking deeper in my back good for you mom you keep going on about it
+[02:00:32 --> 02:00:38] i got it the first time my heart is sinking deeper in my back
+[02:00:38 --> 02:00:43] that's not if you keep then call someone about it like i'm literally busy my
+[02:00:43 --> 02:00:47] heart is sinking deeper in my back why do you keep saying this i get it i
+[02:00:47 --> 02:00:50] freaking got it mom
+[02:00:50 --> 02:01:01] jesus okay um
+[02:01:01 --> 02:01:15] oh great
+[02:01:15 --> 02:01:17] okay
+[02:01:18 --> 02:01:23] mom i you've told me this so many times
+[02:01:26 --> 02:01:33] yes
+[02:01:33 --> 02:01:40] great okay look i have to set this up i have to set up a
+[02:01:40 --> 02:01:52] my heart is sinking deeper in my back i understand
+[02:01:53 --> 02:01:58] and what's your piss they're all piss wake of your piss again
+[02:01:58 --> 02:02:03] well they're all piss every single one of them is piss mom
+[02:02:03 --> 02:02:10] i've told you this so many times they're all piss
+[02:02:10 --> 02:02:16] so don't drink them every single my heart is sinking deeper in my back
+[02:02:16 --> 02:02:24] oh great do you want a metal on your back to keep it from doing that
+[02:02:24 --> 02:02:29] my heart is sinking deeper in my back oh i'm gonna kill i'm gonna kill
+[02:02:29 --> 02:02:36] and i said i'd stop okay my heart is sinking deeper in my back
+[02:02:36 --> 02:02:42] god i get it all right what the fuck do i do here
+[02:02:42 --> 02:02:50] i was watching this video online this girl fiamma nova was saying that germy
+[02:02:50 --> 02:02:53] redder never had a nephew was that cd or was it
+[02:02:53 --> 02:03:01] snake brick lizard not right now try to kill his imaginary nephew
+[02:03:01 --> 02:03:05] probably brick you if you don't have anything to say then just
+[02:03:05 --> 02:03:08] then don't say anything at all which is what you're doing my heart is sinking
+[02:03:08 --> 02:03:16] deeper in my back this is the fucking worst
+[02:03:18 --> 02:03:22] snake your mouth didn't even move your mouth did not move
+[02:03:22 --> 02:03:26] do you feel good about what you're doing right now snake
+[02:03:26 --> 02:03:32] and by that i mean brick lizard what am i supposed to take from this
+[02:03:32 --> 02:03:36] from this explanation of what to do
+[02:03:42 --> 02:03:49] to load pc engine cd content needs a q sheet that points to an image file a
+[02:03:49 --> 02:03:53] cute okay if i have an eg foo dot bin i should
+[02:03:53 --> 02:03:57] create a text file and save as foo dot q you're playing a single track
+[02:03:57 --> 02:04:00] Saturn game the q file content should look like this
+[02:04:00 --> 02:04:05] oh load the n-e-c core
+[02:04:05 --> 02:04:14] it's like an armored core but for my computer that's a
+[02:04:14 --> 02:04:18] rhetorical question i know actually that it's not
+[02:04:18 --> 02:04:22] i found a bag of fermenting socks is it a biohazard
+[02:04:22 --> 02:04:26] or yes i'm fermenting those
+[02:04:32 --> 02:04:36] the lawnmower it has more data vibes than your subscriber
+[02:04:36 --> 02:04:42] cap put a shirt on the neighbors think i'm starving you
+[02:04:42 --> 02:04:50] put a shirt on i'm wearing a bunch of layers i'm just very thin
+[02:04:50 --> 02:04:56] okay go hit it so hard i now sound like barc Simpson
+[02:04:56 --> 02:05:00] yeah mom you do sound fucked up this is i sound on your heart sinking through your
+[02:05:00 --> 02:05:03] chest so you do need to roll over onto your stomach i know it hurts but you
+[02:05:03 --> 02:05:14] need to do that right now okay i'm downloading this i'm
+[02:05:14 --> 02:05:21] downloading it i'm doing it everybody back off i'm loading the core
+[02:05:21 --> 02:05:30] i'm gonna access the core or whatever i'm gonna assume that's how it works
+[02:05:34 --> 02:05:36] mom
+[02:05:37 --> 02:05:45] mom seriously okay in retro arc
+[02:05:45 --> 02:05:57] n-e-c-p-c engine c-d what um
+[02:05:57 --> 02:06:01] my heart is sinking deeper in my back oh my god
+[02:06:01 --> 02:06:06] what brick lizard somebody also just asked for one of my sick opinions does a
+[02:06:06 --> 02:06:11] produce stuff like my heart is sinking deeper in my back
+[02:06:11 --> 02:06:14] yours is too
+[02:06:14 --> 02:06:19] move your mouth when you talk how come you don't do that anymore it's a fucking way
+[02:06:19 --> 02:06:25] man okay does a produce stuff like before
+[02:06:25 --> 02:06:29] the stream no you do it on the stream everything is content now
+[02:06:29 --> 02:06:33] people want to be get get pulled into your world and they want to see you do
+[02:06:33 --> 02:06:38] stuff like not know how to do anything for like
+[02:06:38 --> 02:06:45] a while what son my heart is sinking deeper in my back
+[02:06:45 --> 02:06:48] dot dot dot dot wait what does that mean a nice
+[02:06:48 --> 02:06:55] to coming to a fox die side effect yes you are you that's how it goes man
+[02:06:55 --> 02:06:59] fuck all right sorry obviously he's trying to explain to me what to do
+[02:06:59 --> 02:07:02] that doc tells you where to place the bios in the game file that is all you
+[02:07:02 --> 02:07:08] need to glean from it this is fucking hopeless
+[02:07:08 --> 02:07:13] look this is what we're gonna do today i'll figure this out for next time
+[02:07:13 --> 02:07:20] i'm gonna play a better game today okay everybody's on my case
+[02:07:20 --> 02:07:25] break over this is what real gamers do
+[02:07:25 --> 02:07:29] look you might think it's not that hard it's fucking impossible okay i can't
+[02:07:29 --> 02:07:32] figure out what you guys want from me everybody's yelling at me all the
+[02:07:32 --> 02:07:36] time i've literally done nothing
+[02:07:36 --> 02:07:40] and this game is honestly better this is one of the
+[02:07:40 --> 02:07:48] fuck deeper in my back fuck this game is bullshit that was impossible
+[02:07:48 --> 02:07:55] what mom i'm doing something i'm trying to focus
+[02:08:02 --> 02:08:06] mom it's piss the toilet's broken you know this it's pissing
+[02:08:06 --> 02:08:12] me shit mom you distracted me you're killing the snakes
+[02:08:12 --> 02:08:20] guys i'm gonna get the snake to fill the whole screen okay
+[02:08:20 --> 02:08:23] i'm gonna be the first guy ever to have the whole snake the snake fill the whole
+[02:08:23 --> 02:08:26] screen because i have been i'm one of the best in the
+[02:08:26 --> 02:08:31] world at this game fuck i'm usually good
+[02:08:31 --> 02:08:35] yeah might be your new dad your mom is really something
+[02:08:35 --> 02:08:39] yeah she what what wait what no i get in line dude
+[02:08:39 --> 02:08:44] get in line everybody wants to be my daddy
+[02:08:44 --> 02:08:47] you're supposed to provide cia intelligence to me so that i know the
+[02:08:47 --> 02:08:52] talking points for my stream prick lizard okay can you just do your job
+[02:08:52 --> 02:08:57] that was close this is basically the same game that was requested for me to play
+[02:08:57 --> 02:09:06] so everybody calm down
+[02:09:06 --> 02:09:09] i will play any flash game that doesn't require me to install bios
+[02:09:09 --> 02:09:12] i've seen things you people wouldn't believe
+[02:09:12 --> 02:09:16] it's on fire off shoulder of a ryan i watched cb
+[02:09:16 --> 02:09:20] litter in the dark near the tan house the gate all those moments will be lost
+[02:09:20 --> 02:09:26] in time like bears in range time to die
+[02:09:26 --> 02:09:29] rick you're being too dramatic dude i'm sorry that i yelled at you i just i'm
+[02:09:29 --> 02:09:33] under a lot of pressure right now rick you fucking distracted me okay
+[02:09:33 --> 02:09:38] you're literally supposed to be helping me become a more elite athlete
+[02:09:38 --> 02:09:41] with your cia training
+[02:09:45 --> 02:09:49] he's being
+[02:09:52 --> 02:09:55] no that's more piss
+[02:09:58 --> 02:10:03] it is mine mine is if it's not poisonous then how come the government keeps
+[02:10:03 --> 02:10:09] asking to buy it so that they can bottle it as a weapon
+[02:10:10 --> 02:10:14] uh there's a bunch of lag it's fucking lagging
+[02:10:14 --> 02:10:18] that's the problem with google snake is that there's a ton of frame input lag
+[02:10:18 --> 02:10:23] what brick lizard what i'm playing the game snake brick lizard
+[02:10:23 --> 02:10:30] i tell you something punk cigarette kill people dot dot dot but man we look cool
+[02:10:30 --> 02:10:34] if i try to put any kind of thin stick into my mouth i suck it directly into my
+[02:10:34 --> 02:10:39] lung i actually medically i'm incapable of smoking um
+[02:10:39 --> 02:10:43] cigarettes that are not like the size of a big burrito
+[02:10:43 --> 02:10:50] so i just don't it's too inconvenient but i do agree that they look cool
+[02:10:50 --> 02:10:52] okay i'm getting i'm fucking getting in the zone now
+[02:10:52 --> 02:10:58] brick i'm in the zone right now i'm literally in the zone right
+[02:10:58 --> 02:11:04] also have you played the game how many dudes it's three
+[02:11:04 --> 02:11:12] does it require any sort of installation that a baby could do because if so i'm out
+[02:11:12 --> 02:11:16] i don't know what you got this is one of the most popular games ever i don't know
+[02:11:16 --> 02:11:20] why people are like play something else
+[02:11:20 --> 02:11:25] oh that was a fucking sick man i know why everyone's always like stop playing
+[02:11:25 --> 02:11:30] the game snake you're supposed to be paying getting
+[02:11:30 --> 02:11:34] paid millions of dollars to play a game that your manager spent months setting
+[02:11:34 --> 02:11:38] up a deal for everybody's always
+[02:11:38 --> 02:11:44] i could try i could try but i do already have the high score in that game
+[02:11:44 --> 02:11:48] fuck fuck this game is bullshit this is one of the worst games ever made
+[02:11:48 --> 02:11:51] that's the problem with snake is that it's such a bad game it's insane that
+[02:11:51 --> 02:11:56] people used to even play that because it sucks ass and it's terrible
+[02:11:56 --> 02:11:58] the thing that i meant to play was what they're saying which is spider man
+[02:11:58 --> 02:12:06] cartoon maker which i which is no problem
+[02:12:07 --> 02:12:10] to play probably there's a flash version of it
+[02:12:10 --> 02:12:14] press the a button to believe in yourself over
+[02:12:14 --> 02:12:17] snake that's actually really kind and i did kind of need to hear that right
+[02:12:17 --> 02:12:22] now kind of a well that's exactly what i needed to
+[02:12:22 --> 02:12:25] hear right now it turns out
+[02:12:25 --> 02:12:33] um but now you're just kind of staring at me and it's my heart is sinking
+[02:12:33 --> 02:12:38] deeper in my back mom i can't help you with that
+[02:12:38 --> 02:12:46] that's a you thing do the back stuff that the doctor told us about
+[02:12:46 --> 02:12:50] huh hello fuck this is the nintendo power
+[02:12:50 --> 02:12:56] hotline i'm sucking little nemo dream master
+[02:12:56 --> 02:13:01] guys it says spider man cartoon maker can't run on my computer
+[02:13:01 --> 02:13:11] god that sucks let me play this my heart is sinking deeper in my back
+[02:13:11 --> 02:13:18] mom how is that how still how deep is it now
+[02:13:18 --> 02:13:27] my heart is sinking deeper in my back yeah what's up brick lizard
+[02:13:27 --> 02:13:31] i found this glass of an mountain dew in the air staff
+[02:13:31 --> 02:13:36] can i drink it or should i boot it straight into my anus
+[02:13:36 --> 02:13:40] snake you can handle medical grade poisons i believe this part of your
+[02:13:40 --> 02:13:43] training so if you feel the need to do that then you yeah go ahead and do it
+[02:13:43 --> 02:13:50] but i'm not fucking responsible for what happens
+[02:13:50 --> 02:13:58] how come there's not a flash version of this game this that's so unfair
+[02:13:58 --> 02:14:02] maybe there's an emulator version of it but it probably involves bios and i can't
+[02:14:02 --> 02:14:06] i just can't sleep or a jen is my heart is sinking deeper in my back
+[02:14:06 --> 02:14:09] stop doc good luck the sleeper agent is extremely
+[02:14:09 --> 02:14:16] violent you sent a fucking sleepy guy after me
+[02:14:16 --> 02:14:19] you know that i have enough trouble sleeping i don't need two sleepy guys
+[02:14:19 --> 02:14:22] in here i a two insomniacs next to each
+[02:14:22 --> 02:14:26] other it's like the end of time cop we're gonna fuse into a thing that can
+[02:14:26 --> 02:14:34] never get sleep i can't believe spider-man cartoon
+[02:14:34 --> 02:14:38] maker isn't a big enough hit that someone made a
+[02:14:38 --> 02:14:45] click-and-play flash version of it um so this one i remember siri please don't do
+[02:14:45 --> 02:14:48] that specifically this is the uh that's one of the few
+[02:14:48 --> 02:14:51] man cartoon maker your spider-man cartoon maker for anybody
+[02:14:51 --> 02:14:57] who lives where it is the full version of the demo or what the
+[02:14:57 --> 02:15:02] the music only went as i'm drawing okay no that's cool this is what we could be
+[02:15:02 --> 02:15:05] playing so it's like a yeah hand
+[02:15:05 --> 02:15:09] give me some to hear what each button does click on it with the right mouse button
+[02:15:09 --> 02:15:13] keep that button that's one of his creations so i guess you can put in
+[02:15:13 --> 02:15:18] your own voice show us one of your creations in 1973
+[02:15:18 --> 02:15:23] here's one so do we have to be creative i guess yeah
+[02:15:27 --> 02:15:30] i don't even know why we did it live
+[02:15:30 --> 02:15:32] levin sleazy is linked something
+[02:15:32 --> 02:15:36] hello he just linked something that could save us from ourselves i guess
+[02:15:36 --> 02:15:41] oh my god this is what we needed all along
+[02:15:41 --> 02:15:50] here we go look it's downloading the bios for me install whatever you want
+[02:15:50 --> 02:15:55] on my computer please this is fucking perfect levin sleazy is a god of
+[02:15:55 --> 02:16:01] gaming uh just a moment please
+[02:16:01 --> 02:16:05] i sound too young now to make pastor go joke
+[02:16:05 --> 02:16:13] but i'm still gonna guys great news
+[02:16:13 --> 02:16:17] shit did i just skip the i might have just skipped the intro
+[02:16:17 --> 02:16:21] wait we got a reload sorry i'm gonna try this one more time i don't want to
+[02:16:21 --> 02:16:25] skip whatever that was it sounded pretty fucking epic
+[02:16:25 --> 02:16:30] okay here we go this time we're not fucking up
+[02:16:30 --> 02:16:34] brand are you playing with you really pretty sneaky wiki again
+[02:16:34 --> 02:17:56] yes but i stopped i moved on to more advanced games
+[02:17:56 --> 02:17:59] mom stop talking about your shadow self i'm trying to play
+[02:17:59 --> 02:18:09] this game that i can't pronounce um wait let me turn down the game just a
+[02:18:09 --> 02:18:19] little bit because it's pretty loud okay a brick what okay
+[02:18:19 --> 02:19:01] what the fuck oh i'm in it uh oh shit i don't know the controls though
+[02:19:01 --> 02:19:11] i don't know what shoot one second i i want to shoot i believe me i do
+[02:19:11 --> 02:19:17] don't have any idea what the controls are one second
+[02:19:17 --> 02:19:24] maybe it tells me settings control settings
+[02:19:24 --> 02:19:37] okay connected game pad maybe i can connect my game pad
+[02:19:37 --> 02:19:42] one second okay it just says non-detected
+[02:19:42 --> 02:19:45] okay that means we're gonna have to go keyboard here
+[02:19:45 --> 02:19:50] we're gonna have to be keyboard warriors guys button
+[02:19:50 --> 02:19:59] um select okay z x
+[02:19:59 --> 02:20:09] a s d q e and r that seems fine i think
+[02:20:09 --> 02:20:24] fuck come on yeah update whatever okay
+[02:20:24 --> 02:20:29] fuck shoot anything there we go okay
+[02:20:29 --> 02:20:37] i figured it out at last what the shit
+[02:20:37 --> 02:20:40] oh man
+[02:20:51 --> 02:21:01] oh i won i yeah i didn't adjust the muscle or tan setting so i might be in
+[02:21:01 --> 02:21:21] trouble
+[02:21:21 --> 02:21:28] no okay this is going very poorly
+[02:21:31 --> 02:21:34] look i was at a disadvantage i didn't know the controls at first
+[02:21:34 --> 02:21:41] what's that brick lizard i'm fucking busy okay this time i got it no problem
+[02:21:41 --> 02:22:52] all right get back off guys back off easy easy speed run speed run mode
+[02:22:52 --> 02:22:56] promo speed run sorry that i'm just that good
+[02:22:56 --> 02:23:20] it wasn't even hard for me mom what seriously mom what again
+[02:23:20 --> 02:23:34] oh my god this guy what am i supposed to do about me
+[02:23:34 --> 02:23:40] i'm playing a game it takes effort mom maybe try it sometimes stand up on your
+[02:23:40 --> 02:23:44] own for one second
+[02:23:45 --> 02:24:54] this is rough because i i'm not playing with the appropriate
+[02:24:54 --> 02:25:00] controller the twirl doesn't last long the twirl is so limited
+[02:25:00 --> 02:25:06] such a limited twirl all right let's have one more time and then honestly this game
+[02:25:06 --> 02:25:14] is gonna be a box one i did the best i know
+[02:25:14 --> 02:25:17] snake is way harder than this snake is way harder than this
+[02:25:17 --> 02:25:36] that's like classic look up the controls okay i guess i could like yeah okay i
+[02:25:36 --> 02:25:43] guess i could if that's like the kind of thing you
+[02:25:43 --> 02:25:46] think i should do
+[02:25:46 --> 02:25:55] um tan muscle guy thing controls what's this game calling it
+[02:25:55 --> 02:26:01] i i don't even know if i can look it up i don't know if i can like look up the
+[02:26:01 --> 02:26:11] name of the game easily without closing the game and that worries me
+[02:26:11 --> 02:26:18] show on eki oh yeah i guess he's kind of saying that a lot
+[02:26:18 --> 02:26:34] i'll show on eki controls mick kids i wish um by pressing the shoot button
+[02:26:34 --> 02:26:42] this is from the wiki on it by pressing the shoot button the character only
+[02:26:42 --> 02:26:46] fires a weak homing shot it already is more powerful moves the player has to
+[02:26:46 --> 02:26:49] input button combinations similar to those in fighting games
+[02:26:49 --> 02:26:54] uh oh but i'm using a fucking keyboard okay what are the
+[02:26:54 --> 02:27:01] what are the combos what are the freaking combos
+[02:27:01 --> 02:27:22] uh combos yeah i get it everyone's telling me it's a side scrolling shooter
+[02:27:22 --> 02:27:30] play pepsi man i'd love to play pepsi man but i'm fucking trapped okay back
+[02:27:30 --> 02:27:34] forward fire button to unleash a powerful piercing wave
+[02:27:34 --> 02:27:38] this is according to the ai summary which i do trust every time
+[02:27:38 --> 02:27:41] rapidly press the fire button to have him flex and fire home we're gonna call
+[02:27:41 --> 02:27:45] him homing projectiles input back forward fire button to unleash a
+[02:27:45 --> 02:27:48] powerful piercing wave the mens beam a powerful
+[02:27:48 --> 02:27:59] my heart is sinking deeper in my back great mom good good um are you using
+[02:27:59 --> 02:28:09] the force in there again what i also realized what happened with my mom and
+[02:28:09 --> 02:28:15] her back she's having delusions for a specific reason
+[02:28:15 --> 02:28:25] and it should be fixed no okay rapidly press the fire button um powerful being
+[02:28:25 --> 02:28:32] half circle fire button i wonder if i can even do that on a keyboard energy build
+[02:28:32 --> 02:28:35] up successful hit combos build up energy which is required to unleash the men's
+[02:28:35 --> 02:28:44] beam okay good to know all right we're gonna try
+[02:28:44 --> 02:28:47] we're gonna now that we are really we get it now that we fully understand this
+[02:28:47 --> 02:29:04] game let's go yes
+[02:29:19 --> 02:29:33] okay shoot the men's beam oh fuck i rocked his ass
+[02:29:33 --> 02:29:42] i kind of destroyed that guy using my various beam powers
+[02:29:42 --> 02:29:52] yeah how do i know my
+[02:29:54 --> 02:29:58] oh shit it was nothing to be
+[02:29:58 --> 02:30:49] something a bit okay there's more of these old guys
+[02:30:49 --> 02:31:40] i'm gonna quit eating oh my gamer credit level i have a controller
+[02:31:40 --> 02:32:01] it's just oh i made it to another level that's a win that's gonna count as a win
+[02:32:01 --> 02:32:36] shit it's not fair sucks ass it's not fair look they made a sick game that
+[02:32:36 --> 02:32:40] sucks ass and is impossible i don't know why they keep doing this
+[02:32:40 --> 02:32:45] nobody understands the difficulty curve and how it's supposed to work in anything
+[02:32:45 --> 02:32:48] it's supposed to be really hard for specifically everyone but me
+[02:32:48 --> 02:32:56] that's how game design works because i'm actually really good at games
+[02:32:56 --> 02:32:59] well i was easy thank you for finding a version of that game that i could play
+[02:32:59 --> 02:33:05] requiring zero effort for me that's all that i wanted
+[02:33:05 --> 02:33:08] was someone to feed it into my mouth like a baby
+[02:33:08 --> 02:33:17] what's brick yeah
+[02:33:21 --> 02:33:29] thank you that means a lot brick lizard if i'd set it to myself it would mean a
+[02:33:29 --> 02:33:31] lot coming from you i don't know if i can trust it
+[02:33:31 --> 02:33:40] that's it for today i'm pissed off i'm fucked up
+[02:33:40 --> 02:33:43] i feel drunk but if i drink then my then my um
+[02:33:43 --> 02:33:52] never explodes so i i actually can't drink you just say Bart
+[02:33:52 --> 02:33:57] it didn't know what to say there it didn't know what to do
+[02:33:57 --> 02:34:08] well i'm fucking i'm so pissed off so fucking pissed off right now
+[02:34:08 --> 02:34:13] shit fucking game fucking pissed off but also we probably did better than
+[02:34:13 --> 02:34:16] almost anyone's ever known i've actually ever seen that level until today so i
+[02:34:16 --> 02:34:19] was excited to show off that level for the first time the first guy to make it
+[02:34:19 --> 02:34:26] to it and um anyway i ordered a shipment of
+[02:34:26 --> 02:34:29] that stuff from the movie dune that baron harkonnen sleeps in
+[02:34:30 --> 02:34:37] and i've been told actually if i drink it uh it'll cure the spine goat that i was
+[02:34:37 --> 02:34:41] diagnosed with recently um which i don't really even care about like it's not
+[02:34:41 --> 02:34:44] even bothering me that much like i can sleep through my spine goat
+[02:34:44 --> 02:34:52] um but i recently got a sponsorship so i'm massaging my nose
+[02:34:52 --> 02:34:56] i have to relieve my sinus pressure a couple times a day or my right eyeball
+[02:34:56 --> 02:35:00] will inflate to a size that you guys are complaining about if i don't do this
+[02:35:00 --> 02:35:07] anyway we have a frito lay sponsorship coming up and they're making me get rid
+[02:35:07 --> 02:35:13] of my spine goat so that i can stand on stage and pass out individual chips
+[02:35:13 --> 02:35:17] so i do have to go i have to go drink the stuff that baron harkonnen
+[02:35:17 --> 02:35:21] sleeps in from dune to cure my spine goat so that i can do a frito lay
+[02:35:21 --> 02:35:27] sponsored a sponsored event let's rate still do
+[02:35:27 --> 02:35:31] normally i would be rating out of you son you are a wonderful gamer
+[02:35:31 --> 02:35:36] thank you thank you mommy i don't even care that you sound like part simpson
+[02:35:36 --> 02:35:43] because when you say stuff like that to me it lets me know that that you get it
+[02:35:43 --> 02:35:47] um tell them that cryptozoo sent you this is a cryptozoo raid for still do
+[02:35:47 --> 02:35:52] normally i'd have to raid people from my own um
+[02:35:52 --> 02:35:56] my own gamer org but because i'm on this fucking idiot stream i can rate
+[02:35:56 --> 02:36:04] still do so that's kind of fun what mom
+[02:36:04 --> 02:36:10] no i can't i cannot handle that much protein you know that i'm on a pure
+[02:36:10 --> 02:36:14] carb diet i'm on the opposite of atkins i am the doctor said
+[02:36:14 --> 02:36:22] zero protein for me all fats and carbs and sugars
+[02:36:22 --> 02:36:34] okay i gotta go guys i've gotta go or ratings still do i've gotta go
+[02:36:34 --> 02:36:37] coming mountain do i lost my sponsorship with them unfortunately brick what i'm
+[02:36:37 --> 02:36:47] trying to end the stream what brick what i gotta fucking go say how to
+[02:36:47 --> 02:36:50] still do for me i gotta drink the stuff that baron
+[02:36:50 --> 02:36:58] harkonnen sleeps in whatever this is my outro bye
+[02:36:58 --> 02:37:02] seriously i'm done i'm fucking done and the stream
+[02:37:02 --> 02:37:05] somebody just
