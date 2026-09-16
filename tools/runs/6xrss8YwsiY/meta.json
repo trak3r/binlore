@@ -1,0 +1,19 @@
+{
+  "vod_id": "6xrss8YwsiY",
+  "title": "Slaying Some Spires Instead of NEWS",
+  "url": "https://www.youtube.com/watch?v=6xrss8YwsiY",
+  "duration_seconds": 5964,
+  "duration": "1:39:24",
+  "timestamp": 1776384000,
+  "aired_at": "2026-04-17T00:00:00+00:00",
+  "date": "2026-04-17",
+  "ingested_at": "2026-09-16T16:44:25.272580+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "6xrss8YwsiY",
+  "yt_url": "https://www.youtube.com/watch?v=6xrss8YwsiY",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2026-04-17"
+}
