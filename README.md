@@ -14,7 +14,7 @@ Most “AI demos” stop at a chat transcript. BIN Lore is an end-to-end product
 
 - **VOD ingest** — `yt-dlp` audio-only download from Twitch, with automatic YouTube-archive fallback when Twitch retention expires
 - **Local transcription** — `faster-whisper` timestamped transcripts (no cloud STT required)
-- **Canon-aware extraction** — Google AI Studio (Gemini free tier) prompts seeded with existing characters / segments / storylines so ASR name errors reconcile to wiki canon
+- **Canon-aware extraction** — OpenRouter (capable models only) prompts seeded with existing characters / segments / storylines so ASR name errors reconcile to wiki canon
 - **Idempotent wiki updates** — episode rundowns, character appearance tables, storyline beats, segment occurrence logs
 - **Screencap CDN** — ffmpeg frame capture hosted on a permanent GitHub Release asset CDN (repo stays binary-light)
 - **Unattended batch** — `binlore process-all` with disk hygiene, retries, Quartz build gates, and per-episode git commits
@@ -32,7 +32,7 @@ Twitch / YouTube VOD
           │
           ▼
 ┌───────────────────┐
-│  binlore extract  │  Gemini (AI Studio) → structured lore JSON
+│  binlore extract  │  OpenRouter → structured lore JSON
 └─────────┬─────────┘
           │
           ▼
@@ -59,7 +59,7 @@ Twitch / YouTube VOD
 # deps: ffmpeg, Node 22+, Python 3.11+
 npm ci
 cd tools && python3 -m venv .venv && source .venv/bin/activate && pip install -e . && cd ..
-cp tools/.env.example tools/.env   # add GEMINI_API_KEY (extract only)
+cp tools/.env.example tools/.env   # add OPENROUTER_API_KEY (extract only)
 
 ./binlore vods
 ./binlore ingest --latest
@@ -73,7 +73,7 @@ Unattended backlog (370+ historical streams). Default is transcribe-only:
 ```bash
 ./binlore process-all --status
 ./binlore transcribe-all           # ingest + Whisper; no LLM
-./binlore process-all --extract    # mine existing transcripts oldest-first via Gemini
+./binlore process-all --extract    # mine existing transcripts oldest-first via OpenRouter
 ```
 
 > **Legal Disclaimer:** Unofficial, non-commercial fan wiki and documentation project. Not affiliated with, endorsed by, or sponsored by Case Blackwell, Barely Informed News, or Twitch. All character names, likenesses, trademarks, and media assets belong to their respective copyright holders and are referenced under fair use (17 U.S.C. § 107) for commentary, criticism, and archival purposes. Not operated for profit. See [`content/disclaimer.md`](content/disclaimer.md) for full legal disclosures.
@@ -169,19 +169,22 @@ Copy the template configuration file:
 cp tools/.env.example tools/.env
 ```
 
-#### Google AI Studio API Key & Model Configuration
+#### OpenRouter API Key & Model Configuration
 
-Lore extraction uses the Gemini API free tier directly (not OpenRouter). Transcription does not need a key.
+Lore extraction uses [OpenRouter](https://openrouter.ai/) (not Google AI Studio). Transcription does not need a key.
 
-1. Get a free API key at [https://aistudio.google.com/apikey](https://aistudio.google.com/apikey). Do not attach a billing account.
+**Policy:** one capable model only. There is **no** automatic fallback to cheaper/weaker models — if the primary model fails after retries, extraction stops.
+
+1. Get an API key at [https://openrouter.ai/keys](https://openrouter.ai/keys).
 2. Add your key to `tools/.env`:
    ```bash
-   GEMINI_API_KEY="your-gemini-api-key-here"
+   OPENROUTER_API_KEY="your-openrouter-api-key-here"
    ```
-3. *(Optional)* Pin a model. Default is `gemini-3.6-flash`. If daily quota is tiny, switch to Flash-Lite:
+3. *(Optional)* Pin a capable model. Default is `anthropic/claude-sonnet-4.6`:
    ```bash
-   GEMINI_MODEL="gemini-3.6-flash"
-   # GEMINI_MODEL="gemini-3.6-flash-lite"
+   OPENROUTER_MODEL="anthropic/claude-sonnet-4.6"
+   # OPENROUTER_MODEL="anthropic/claude-sonnet-5"
+   # OPENROUTER_MODEL="openai/gpt-4.1"
    ```
 
 #### Hugging Face Token (Optional, Recommended for Cloud Servers)
@@ -246,7 +249,7 @@ Download the stream audio and generate a full timestamped transcript using local
 
 This creates the run folder in `tools/runs/<vod-id>/` and stubs an episode page in `content/episodes/YYYY-MM-DD.md`.
 
-### Step 3: Extract Lore, Characters & Segments (Gemini)
+### Step 3: Extract Lore, Characters & Segments (OpenRouter)
 
 Run the LLM extraction pipeline over the transcript:
 
@@ -254,11 +257,11 @@ Run the LLM extraction pipeline over the transcript:
 # Preview prompt & token counts without calling the API (dry-run)
 ./binlore extract --latest --dry-run
 
-# Run extraction using Gemini Flash (requires GEMINI_API_KEY)
+# Run extraction using OpenRouter (requires OPENROUTER_API_KEY)
 ./binlore extract --latest
 
-# Or specify Flash-Lite / a timeout
-./binlore extract --latest --model gemini-3.6-flash-lite
+# Or specify a capable model explicitly
+./binlore extract --latest --model anthropic/claude-sonnet-4.6
 ./binlore extract 2863722826 --timeout 180
 ```
 
@@ -405,12 +408,12 @@ Mining (after transcripts exist):
 2. **Audio Ingest & Resilient Fallback:** Downloads audio using `yt-dlp`. If a Twitch VOD has expired (Twitch retention is ~60 days), it automatically falls back to the permanent YouTube archive stream. Skipped when a transcript already exists.
 3. **Local Whisper Transcription:** Transcribes audio via `faster-whisper` (default model: `small`). Does not write episode stubs in transcribe-only mode.
 4. **Immediate Disk Cleanup:** **Deletes the audio file immediately** once transcription finishes and is saved. Peak disk usage is capped to at most *one* temporary audio file at any moment (~150 MB).
-5. **Lore Extraction (`--extract` only):** Sends the transcript and a compact canon roster to Google AI Studio (Gemini Flash, JSON schema). Unknown names are queued to `tools/runs/unknown-characters.jsonl` instead of auto-creating pages. Storyline wiki pages are left for a later corpus pass. On daily-quota 429s the batch **stops until reset**, rather than falling back to other vendors.
+5. **Lore Extraction (`--extract` only):** Sends the transcript and a compact canon roster to OpenRouter (capable model only, JSON). Unknown names are queued to `tools/runs/unknown-characters.jsonl` instead of auto-creating pages. Storyline beats append to Timeline. On credit/quota exhaustion the batch **stops** — never falls back to a weaker model.
 6. **Wiki Population (`--extract` only):** Updates `content/episodes/<date>.md` and existing character/segment pages. Fixture cold-opens (Pepito, Case, News) do not get a row for “did the usual thing.” Appearance tables are sorted by date; `first_seen` is backdated.
 7. **Catalog Synchronization:** Regenerates `content/episodes/index.md` after extract.
 8. **Wiki Compilation (`--extract` only):** Quartz build is skipped during transcribe-all.
 9. **Automatic Git Commit:** Transcript ingest commits `tools/runs/<id>/`. Extract commits also include `content/`.
-10. **Fault-Tolerant Loop:** If an individual stream fails, it cleans up partial files, logs the failure, and continues. Gemini daily quota exhaustion pauses the extract batch cleanly.
+10. **Fault-Tolerant Loop:** If an individual stream fails, it cleans up partial files, logs the failure, and continues. OpenRouter credit/quota exhaustion pauses the extract batch cleanly.
 
 ### Disk Space & Hygiene Guarantees
 
@@ -513,7 +516,7 @@ tail -f tools/runs/batch.log
 | `--oldest-first` | `True` | Process backlog from oldest to newest (default) |
 | `--newest-first` | `False` | Process newest unprocessed items first |
 | `--model MODEL` | `small` | `faster-whisper` model: `tiny`, `base`, `small`, `medium`, `large-v3` |
-| `--extract-model` | `gemini-3.6-flash` | Gemini model id (`--openrouter-model` is an alias) |
+| `--extract-model` | `anthropic/claude-sonnet-4.6` | OpenRouter model id (`--openrouter-model` is an alias) |
 | `--delay SECONDS` | `5.0` | Cool-down sleep in seconds between episodes |
 | `--timeout SECONDS` | `180.0` | Extraction timeout per model |
 | `--min-disk-gb GB` | `1.0` | Minimum free disk space in GB required before ingesting |
@@ -521,7 +524,7 @@ tail -f tools/runs/batch.log
 | `--dry-run` | — | Preview the queue without downloading or modifying files |
 | `--keep-audio` | `False` | Retain audio files on disk (warning: consumes ~150 MB per episode) |
 | `--skip-extract` | `True` | Transcribe only (default). `transcribe-all` forces this |
-| `--extract` | — | Mine existing transcripts with Gemini, oldest-first |
+| `--extract` | — | Mine existing transcripts with OpenRouter, oldest-first |
 | `--no-clean-existing` | `False` | Do not sweep `tools/runs/` for old media files on startup |
 | `--no-skip-drafts` | `False` | Do not skip episodes marked with `draft: true` |
 | `--build-quartz` / `--no-build` | extract only | Quartz is skipped during transcribe-all |
@@ -551,7 +554,7 @@ Content lives in [`content/`](content/):
 
 - [x] Phase 0: Repo bootstrap, Quartz setup, GitHub Pages CI/CD, seed pages
 - [x] Phase 1: VOD listing, audio download, local Whisper transcription, runs archive
-- [x] Phase 2: LLM segment and lore extraction via Google AI Studio (Gemini free tier)
+- [x] Phase 2: LLM segment and lore extraction via OpenRouter (capable models only)
 - [x] Phase 3: Unattended server batch pipeline (`binlore process-all`) with auto-cleanup & validation
 - [ ] Automated git branch/PR generation for proposed wiki edits
 - [ ] Broadcast screencap gallery and on-air graphic asset index

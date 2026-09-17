@@ -34,9 +34,15 @@ def load_env() -> None:
 
 load_env()
 
-DEFAULT_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
-# Same-family fallback only when the primary model is unavailable (404), never on quota.
-FALLBACK_MODELS = ["gemini-3.6-flash-lite"]
+# Capable model only. Never auto-fallback to cheaper/weaker models — bad lore is worse than no lore.
+DEFAULT_MODEL = (
+    os.environ.get("OPENROUTER_MODEL")
+    or os.environ.get("GEMINI_MODEL")  # legacy alias
+    or "anthropic/claude-sonnet-4.6"
+)
+FALLBACK_MODELS: list[str] = []
+
+OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 EXTRACT_SCHEMA: dict[str, Any] = {
     "type": "object",
@@ -103,7 +109,7 @@ EXTRACT_SCHEMA: dict[str, Any] = {
 
 
 class DailyQuotaExceeded(RuntimeError):
-    """Gemini free-tier daily quota is exhausted; stop extracting until reset."""
+    """Provider quota / credits exhausted; stop extracting until reset or top-up."""
 
 
 SYSTEM_PROMPT = """You are the canon lore archivist for 'Barely Informed News' (BIN), documenting the network's broadcast archive (twitch.tv/caseblackwell).
@@ -154,15 +160,17 @@ Respond with a single JSON object matching the schema. No markdown, no preamble.
 
 def get_api_key() -> str:
     load_env()
-    key = os.environ.get("GEMINI_API_KEY", "").strip() or os.environ.get("GOOGLE_API_KEY", "").strip()
+    key = os.environ.get("OPENROUTER_API_KEY", "").strip()
     if not key:
         raise SystemExit(
-            "\n[Error] GEMINI_API_KEY is not set.\n"
-            "Lore extraction uses the Google AI Studio free tier (not OpenRouter).\n"
-            "  1. Get a key at https://aistudio.google.com/apikey\n"
+            "\n[Error] OPENROUTER_API_KEY is not set.\n"
+            "Lore extraction uses OpenRouter (OpenAI-compatible chat API).\n"
+            "  1. Get a key at https://openrouter.ai/keys\n"
             "  2. Add it to tools/.env:\n"
-            "       GEMINI_API_KEY=...\n"
-            "Do not attach a billing account.\n"
+            "       OPENROUTER_API_KEY=...\n"
+            "  3. Optional model pin (default: anthropic/claude-sonnet-4.6):\n"
+            "       OPENROUTER_MODEL=anthropic/claude-sonnet-4.6\n"
+            "There is no automatic fallback to weaker models.\n"
         )
     return key
 
@@ -219,15 +227,32 @@ def _is_daily_quota_error(exc: BaseException) -> bool:
             "per_day",
             "daily quota",
             "rpd",
-            "generate_content_free_tier_requests",
-            "quota exceeded for metric",
+            "quota exceeded",
+            "insufficient credits",
+            "payment required",
+        )
+    )
+
+
+def _is_rate_or_quota_error(exc: BaseException) -> bool:
+    msg = str(exc).lower()
+    return any(
+        token in msg
+        for token in (
+            "429",
+            "rate limit",
+            "rate-limit",
+            "quota",
+            "insufficient credits",
+            "payment required",
+            "402",
         )
     )
 
 
 def _is_not_found_error(exc: BaseException) -> bool:
     msg = str(exc).lower()
-    return "404" in msg or "not found" in msg or "not_found" in msg
+    return "404" in msg or "not found" in msg or "not_found" in msg or "no endpoints" in msg
 
 
 def validate_extraction(data: dict[str, Any]) -> dict[str, Any]:
@@ -262,117 +287,137 @@ def validate_extraction(data: dict[str, Any]) -> dict[str, Any]:
     return data
 
 
-def query_gemini(
+def _openrouter_chat(
+    *,
+    api_key: str,
+    model: str,
+    user_prompt: str,
+    timeout: float,
+) -> str:
+    """Single OpenRouter chat completion; returns assistant text."""
+    import urllib.error
+    import urllib.request
+
+    payload = {
+        "model": model,
+        "temperature": 0.2,
+        "messages": [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": user_prompt},
+        ],
+        "response_format": {"type": "json_object"},
+    }
+    body = json.dumps(payload).encode("utf-8")
+    req = urllib.request.Request(
+        OPENROUTER_URL,
+        data=body,
+        method="POST",
+        headers={
+            "Authorization": f"Bearer {api_key}",
+            "Content-Type": "application/json",
+            "HTTP-Referer": "https://trak3r.github.io/binlore/",
+            "X-Title": "BIN Lore extract",
+        },
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=max(timeout, 30.0)) as resp:
+            raw = resp.read().decode("utf-8")
+    except urllib.error.HTTPError as e:
+        err_body = e.read().decode("utf-8", errors="replace")[:800]
+        raise RuntimeError(f"OpenRouter HTTP {e.code}: {err_body}") from e
+
+    data = json.loads(raw)
+    if data.get("error"):
+        raise RuntimeError(f"OpenRouter error: {data['error']}")
+    choices = data.get("choices") or []
+    if not choices:
+        raise RuntimeError(f"OpenRouter empty choices: {raw[:400]}")
+    message = choices[0].get("message") or {}
+    text = (message.get("content") or "").strip()
+    if not text:
+        raise RuntimeError("OpenRouter returned empty message content")
+    return text
+
+
+def query_openrouter(
     prompt: str,
     *,
     api_key: str,
-    models: list[str],
+    model: str,
     timeout: float = 180.0,
-    max_retries_per_model: int = 2,
+    max_retries: int = 3,
 ) -> tuple[dict[str, Any], str]:
-    """Call Google AI Studio with JSON schema. Halt on daily quota; do not fall back to other vendors."""
-    try:
-        from google import genai
-        from google.genai import types
-    except ImportError as e:
-        raise SystemExit(
-            "google-genai is not installed. From the tools venv run:\n"
-            "  pip install google-genai\n"
-        ) from e
-
-    timeout_ms = max(int(timeout * 1000), 30_000)
-    client = genai.Client(api_key=api_key, http_options=types.HttpOptions(timeout=timeout_ms))
-
+    """
+    Call OpenRouter with one capable model only.
+    Retries the same model on transient errors; never falls back to a weaker model.
+    """
     last_error: BaseException | None = None
-    for model_idx, model in enumerate(models):
-        if model_idx > 0:
-            time.sleep(2.0)
+    for attempt in range(1, max_retries + 1):
+        retry_note = f" (attempt {attempt}/{max_retries})" if attempt > 1 else ""
+        print(f"\n[OpenRouter] Trying model: {model}{retry_note} (timeout: {timeout:.0f}s)...", flush=True)
 
-        for attempt in range(1, max_retries_per_model + 1):
-            retry_note = f" (attempt {attempt}/{max_retries_per_model})" if attempt > 1 else ""
-            print(f"\n[Gemini] Trying model: {model}{retry_note} (timeout: {timeout:.0f}s)...", flush=True)
+        start_time = time.time()
+        stop_heartbeat = threading.Event()
 
-            start_time = time.time()
-            stop_heartbeat = threading.Event()
-
-            def heartbeat() -> None:
-                spinner = ["⠋", "⠙", "⠹", "⠸", "⠼", "⠴", "⠦", "⠧", "⠇", "⠏"]
-                idx = 0
-                while not stop_heartbeat.is_set():
-                    elapsed = time.time() - start_time
-                    spin = spinner[idx % len(spinner)]
-                    print(f"\r  {spin} waiting for Gemini ({elapsed:.0f}s)   ", end="", flush=True)
-                    idx += 1
-                    stop_heartbeat.wait(1.0)
-
-            t = threading.Thread(target=heartbeat, daemon=True)
-            t.start()
-            try:
-                config_kwargs: dict[str, Any] = {
-                    "system_instruction": SYSTEM_PROMPT,
-                    "temperature": 0.2,
-                    "response_mime_type": "application/json",
-                    "response_schema": EXTRACT_SCHEMA,
-                }
-                try:
-                    config_kwargs["thinking_config"] = types.ThinkingConfig(thinking_budget=0)
-                except (TypeError, AttributeError):
-                    pass
-
-                response = client.models.generate_content(
-                    model=model,
-                    contents=prompt,
-                    config=types.GenerateContentConfig(**config_kwargs),
-                )
-            except Exception as exc:
-                stop_heartbeat.set()
-                print(flush=True)
-                last_error = exc
-                msg = str(exc)
-                print(f"  [Gemini] {model} error: {msg[:300]}", flush=True)
-                if _is_daily_quota_error(exc):
-                    raise DailyQuotaExceeded(
-                        f"Gemini daily quota exhausted on {model}. Stop extracting until the quota resets (midnight Pacific)."
-                    ) from exc
-                status = getattr(exc, "status_code", None) or getattr(exc, "code", None)
-                if status == 429 or "429" in msg:
-                    if attempt < max_retries_per_model:
-                        wait = 30.0 * attempt
-                        print(f"  Rate limited. Sleeping {wait:.0f}s...", flush=True)
-                        time.sleep(wait)
-                        continue
-                    raise DailyQuotaExceeded(
-                        f"Gemini 429 on {model} after {max_retries_per_model} retries. "
-                        "Treating as quota exhaustion; not falling back to another vendor."
-                    ) from exc
-                if _is_not_found_error(exc):
-                    break
-                if attempt < max_retries_per_model:
-                    time.sleep(2.0 * attempt)
-                    continue
-                break
-            else:
-                stop_heartbeat.set()
+        def heartbeat() -> None:
+            spinner = ["⠋", "⠙", "⠹", "⠸", "⠼", "⠴", "⠦", "⠧", "⠇", "⠏"]
+            idx = 0
+            while not stop_heartbeat.is_set():
                 elapsed = time.time() - start_time
-                print(f"\r  Gemini responded in {elapsed:.1f}s                    ", flush=True)
-                text = (getattr(response, "text", None) or "").strip()
-                if not text:
-                    last_error = ValueError(f"Empty response from {model}")
-                    print(f"  [Gemini] empty response from {model}", flush=True)
-                    if attempt < max_retries_per_model:
-                        continue
-                    break
-                try:
-                    parsed = validate_extraction(_parse_llm_json(text))
-                except (ValueError, json.JSONDecodeError) as exc:
-                    last_error = exc
-                    print(f"  [Gemini] schema/parse failure: {exc}", flush=True)
-                    if attempt < max_retries_per_model:
-                        continue
-                    break
-                return parsed, model
+                spin = spinner[idx % len(spinner)]
+                print(f"\r  {spin} waiting for OpenRouter ({elapsed:.0f}s)   ", end="", flush=True)
+                idx += 1
+                stop_heartbeat.wait(1.0)
 
-    raise RuntimeError(f"All Gemini models failed: {last_error}")
+        t = threading.Thread(target=heartbeat, daemon=True)
+        t.start()
+        try:
+            text = _openrouter_chat(
+                api_key=api_key,
+                model=model,
+                user_prompt=prompt,
+                timeout=timeout,
+            )
+            stop_heartbeat.set()
+            elapsed = time.time() - start_time
+            print(f"\r  OpenRouter responded in {elapsed:.1f}s                    ", flush=True)
+            parsed = validate_extraction(_parse_llm_json(text))
+            return parsed, model
+        except Exception as exc:
+            stop_heartbeat.set()
+            print(flush=True)
+            last_error = exc
+            msg = str(exc)
+            print(f"  [OpenRouter] {model} error: {msg[:300]}", flush=True)
+
+            if _is_rate_or_quota_error(exc) and (
+                "insufficient credits" in msg.lower()
+                or "payment required" in msg.lower()
+                or "402" in msg
+                or _is_daily_quota_error(exc)
+            ):
+                # Hard stop — do not burn more attempts or switch to junk models
+                raise DailyQuotaExceeded(
+                    f"OpenRouter quota/credits exhausted on {model}. "
+                    "Top up or wait for reset; not falling back to a weaker model."
+                ) from exc
+
+            if _is_not_found_error(exc):
+                raise RuntimeError(
+                    f"Model '{model}' is not available on OpenRouter. "
+                    "Set OPENROUTER_MODEL to another *capable* model id. "
+                    "No automatic fallback is configured."
+                ) from exc
+
+            if attempt < max_retries:
+                # 503 / transient 429: backoff on the SAME model only
+                wait = 15.0 * attempt if ("503" in msg or "429" in msg or "unavailable" in msg.lower()) else 5.0 * attempt
+                print(f"  Retrying same model in {wait:.0f}s (no model fallback)...", flush=True)
+                time.sleep(wait)
+                continue
+            break
+
+    raise RuntimeError(f"OpenRouter model {model} failed after {max_retries} attempts: {last_error}")
 
 
 def format_transcript_for_prompt(run_dir: Path) -> str:
@@ -461,7 +506,7 @@ def extract_lore_from_vod(
         f"({omitted_count} one-offs/public figures omitted from prompt)"
     )
     print(f"Core talent: {', '.join(core_names)}")
-    print(f"Provider: Google AI Studio  model={model}")
+    print(f"Provider: OpenRouter  model={model}  (no weaker-model fallback)")
 
     if dry_run:
         print("\n--- [DRY RUN: Prompt Preview] ---")
@@ -473,29 +518,18 @@ def extract_lore_from_vod(
         return {"dry_run": True}
 
     api_key = get_api_key()
-    models_to_try = [model]
-    if not str(model).startswith("gemini-"):
-        print(
-            f"  Warning: '{model}' is not a Gemini model id. "
-            f"Using {DEFAULT_MODEL}. Set GEMINI_MODEL in tools/.env.",
-            flush=True,
-        )
-        models_to_try = [DEFAULT_MODEL]
-    for m in FALLBACK_MODELS:
-        if m not in models_to_try:
-            models_to_try.append(m)
-
-    extracted_data, used_model = query_gemini(
+    # Policy: one capable model only. Never append FALLBACK_MODELS.
+    extracted_data, used_model = query_openrouter(
         user_prompt,
         api_key=api_key,
-        models=models_to_try,
+        model=model,
         timeout=timeout,
     )
 
     extracted_data["_meta"] = {
         "vod_id": vod_id,
         "model": used_model,
-        "provider": "google-ai-studio",
+        "provider": "openrouter",
         "prompt_chars": len(user_prompt),
         "approx_prompt_tokens": len(user_prompt) // 4,
         "transcript_lines": len(transcript_text.splitlines()),

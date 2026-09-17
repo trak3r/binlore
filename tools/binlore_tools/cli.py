@@ -364,7 +364,10 @@ def cmd_extract_ranked(args: argparse.Namespace) -> int:
             err = str(e)
             logger.error(f"Failed {vod_id}: {e}")
             if "API_KEY_INVALID" in err or "API key not valid" in err:
-                logger.error("GEMINI_API_KEY is invalid. Fix tools/.env and re-run.")
+                logger.error("OPENROUTER_API_KEY is invalid. Fix tools/.env and re-run.")
+                break
+            if "not available on OpenRouter" in err or "No automatic fallback" in err:
+                logger.error(err)
                 break
         if args.delay > 0 and i < len(rows):
             time.sleep(args.delay)
@@ -419,7 +422,7 @@ def build_parser() -> argparse.ArgumentParser:
     )
     ing.set_defaults(func=cmd_ingest)
 
-    ext = sub.add_parser("extract", help="Extract segments, characters, and lore using Google AI Studio")
+    ext = sub.add_parser("extract", help="Extract segments, characters, and lore using OpenRouter")
     ext.add_argument("target", nargs="?", help="VOD ID or Twitch URL (defaults to latest ingested run)")
     ext.add_argument(
         "--latest",
@@ -429,18 +432,18 @@ def build_parser() -> argparse.ArgumentParser:
     ext.add_argument(
         "--model",
         default=DEFAULT_MODEL,
-        help=f"Gemini model id (default: {DEFAULT_MODEL})",
+        help=f"OpenRouter model id (default: {DEFAULT_MODEL})",
     )
     ext.add_argument(
         "--timeout",
         type=float,
         default=180.0,
-        help="Timeout in seconds per model (default: 180)",
+        help="Timeout in seconds per attempt (default: 180)",
     )
     ext.add_argument(
         "--dry-run",
         action="store_true",
-        help="Preview prompt and token estimate without calling Gemini",
+        help="Preview prompt and token estimate without calling OpenRouter",
     )
     ext.set_defaults(func=cmd_extract)
 
@@ -542,7 +545,7 @@ def build_parser() -> argparse.ArgumentParser:
             "--openrouter-model",
             dest="extract_model",
             default=DEFAULT_MODEL,
-            help=f"Gemini model id for lore extraction (default: {DEFAULT_MODEL})",
+            help=f"OpenRouter model id for lore extraction (default: {DEFAULT_MODEL})",
         )
         proc.add_argument(
             "--delay",
@@ -593,7 +596,7 @@ def build_parser() -> argparse.ArgumentParser:
             "--extract",
             dest="skip_extract",
             action="store_false",
-            help="Mine transcripts with Gemini (oldest-first); requires GEMINI_API_KEY",
+            help="Mine transcripts with OpenRouter (oldest-first); requires OPENROUTER_API_KEY",
         )
         proc.add_argument(
             "--no-skip-drafts",
@@ -701,7 +704,7 @@ def build_parser() -> argparse.ArgumentParser:
         default=0,
         help="Only process rows with rank score >= this (default: 0)",
     )
-    er.add_argument("--model", default=DEFAULT_MODEL, help=f"Gemini model (default: {DEFAULT_MODEL})")
+    er.add_argument("--model", default=DEFAULT_MODEL, help=f"OpenRouter model (default: {DEFAULT_MODEL})")
     er.add_argument("--timeout", type=float, default=180.0, help="Per-episode timeout seconds")
     er.add_argument("--delay", type=float, default=5.0, help="Delay between episodes")
     er.add_argument("--dry-run", action="store_true", help="Print queue only")

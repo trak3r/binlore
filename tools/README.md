@@ -36,19 +36,20 @@ Copy the sample environment file:
 cp .env.example .env
 ```
 
-#### Google AI Studio API Key (extract only)
+#### OpenRouter API Key (extract only)
 
-Transcription does not need a key. Extraction calls Gemini directly:
+Transcription does not need a key. Extraction uses OpenRouter with a **capable model only** (no automatic fallback to weaker models — bad lore is worse than no lore):
 
-1. Get a free API key at [https://aistudio.google.com/apikey](https://aistudio.google.com/apikey). Do not attach billing.
+1. Get an API key at [https://openrouter.ai/keys](https://openrouter.ai/keys).
 2. Set it in `tools/.env`:
    ```bash
-   GEMINI_API_KEY=your-key-here
+   OPENROUTER_API_KEY=your-key-here
    ```
-3. *(Optional)* Pin a model:
+3. *(Optional)* Pin a capable model (default: `anthropic/claude-sonnet-4.6`):
    ```bash
-   GEMINI_MODEL=gemini-3.6-flash
-   # GEMINI_MODEL=gemini-3.6-flash-lite
+   OPENROUTER_MODEL=anthropic/claude-sonnet-4.6
+   # OPENROUTER_MODEL=anthropic/claude-sonnet-5
+   # OPENROUTER_MODEL=openai/gpt-4.1
    ```
 
 #### Hugging Face Token (Optional, Recommended for Remote Servers)
@@ -109,19 +110,19 @@ binlore ingest --latest --model small
 - `transcript.plain.txt` (raw text)
 - Initial episode stub in `content/episodes/YYYY-MM-DD.md`
 
-### 3. Extract segments, characters & lore (Gemini)
+### 3. Extract segments, characters & lore (OpenRouter)
 
 ```bash
 # Preview prompt & token estimate without sending API request
 binlore extract --latest --dry-run
 
-# Extract lore from the latest ingested VOD (GEMINI_API_KEY required)
+# Extract lore from the latest ingested VOD (OPENROUTER_API_KEY required)
 binlore extract --latest
 
 # Extract for a specific VOD ID
 binlore extract 2863722826
 
-binlore extract --latest --model gemini-3.6-flash-lite
+binlore extract --latest --model anthropic/claude-sonnet-4.6
 ```
 
 ### 4. Propagate lore into the wiki (`binlore update-wiki`)
@@ -158,7 +159,7 @@ binlore rank-munch-crum
 # Preview next unextracted high-signal episodes
 binlore extract-ranked --dry-run --limit 12
 
-# Extract + update-wiki (free-tier Gemini; stops on daily quota)
+# Extract + update-wiki (OpenRouter; stops on credit/quota; no weak-model fallback)
 # Default order = score rank (highest signal first). Optional: --oldest-first --min-score 100
 binlore extract-ranked --limit 12
 

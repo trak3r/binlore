@@ -268,7 +268,7 @@ def process_single_episode(
       1. Disk space check
       2. Ingest audio & transcribe (Twitch with automatic YouTube archive fallback)
       3. Immediately deletes audio files to conserve disk space
-      4. Lore extraction via Google AI Studio (skipped in transcribe-only mode)
+      4. Lore extraction via OpenRouter (skipped in transcribe-only mode)
       5. Updates wiki pages (episode, characters, segments; storylines deferred)
       6. Regenerates catalog index
       7. Final disk hygiene check
@@ -374,11 +374,11 @@ def process_single_episode(
         if freed > 0:
             logger.info(f"Disk cleanup: Reclaimed {_format_size(freed)} from {run_dir.name}/")
 
-    # 4. Lore Extraction via Google AI Studio
+    # 4. Lore Extraction via OpenRouter
     if not skip_extract:
         extraction_path = run_dir / "extraction.json"
         if not extraction_path.exists():
-            logger.info(f"Extracting lore via Gemini for {target_vod_id} (model={extract_model})...")
+            logger.info(f"Extracting lore via OpenRouter for {target_vod_id} (model={extract_model})...")
             extract_lore_from_vod(
                 vod_id=target_vod_id,
                 model=extract_model,
@@ -578,7 +578,7 @@ def run_batch_processing(
             get_api_key()
         except SystemExit:
             logger.error(
-                "GEMINI_API_KEY is not set. Add a Google AI Studio key to tools/.env. "
+                "OPENROUTER_API_KEY is not set. Add an OpenRouter key to tools/.env. "
                 "Default process-all is transcribe-only and does not need a key."
             )
             return 1
@@ -686,7 +686,7 @@ def run_batch_processing(
             )
         except DailyQuotaExceeded as e:
             logger.warning(str(e))
-            logger.warning("Halting extract batch until Gemini daily quota resets (midnight Pacific).")
+            logger.warning("Halting extract batch — OpenRouter credits/quota exhausted (no weak-model fallback).")
             halt_reason = "quota"
             break
         except Exception as e:
