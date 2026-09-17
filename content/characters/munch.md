@@ -65,6 +65,10 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 
 
 
+
+
+
+
 - **[01:50:38]** ([[episodes/2026-09-07|2026-09-07]]): Incinerated by the explosive backfire of the Rock-afire mechanical gorilla during the climax of the Crum Dick Punch execution, transforming into an animated, talking skeleton.
 - **[01:52:38]** ([[episodes/2026-09-07|2026-09-07]]): Boasts of having superior bone structure as a skeleton and claims he is now immune to mortal racial boundaries because he has no skin.
 - **[1:15:02]** ([[episodes/2026-09-02|2026-09-02]]): Broadcasts the viewer-compiled dossier titled 'Reasons You Deserve to Get Your Dick Punched,' enumerating Crum's baldness, cowardice, unearned reputation, and arrogance.
@@ -85,3 +89,8 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 - **[01:14:00]** ([[episodes/2026-06-18|2026-06-18]]): Completed approximately eight years of improv training between 1991-1998; took class with actor later cast as extra in Anchorman.
 - **[01:56:33]** ([[episodes/2026-06-08|2026-06-08]]): Spent summers in Macedonia where 'the ancient world had different views' on same-sex relations, implying bipartisan sexual history.
 - **[08:40]** ([[episodes/2026-05-26|2026-05-26]]): Ralph Munchcut's disheveled silver hair and combative demeanor make him the network's primary political counterweight to Crum, representing traditional conservative perspectives.
+- **[01:27:28]** ([[episodes/2026-08-26|2026-08-26]]): Munch positions himself as a 'triple x Vin Diesel' on skis/jungle; demands to be 'Mayor of the stream'.
+- **[50:30]** ([[episodes/2026-09-01|2026-09-01]]): Munch actively solicits chat protection for his penis before the gorilla punch, pleading for prayers and asking chat to 'hold it in your heart and in your spiritual hands.'
+- **[1:15:02]** ([[episodes/2026-09-02|2026-09-02]]): Reads community-supplied 'reasons you deserve to get your dick punched' list: you're bald, you're a bitch, it will make Munch envious he's not getting the same treatment (joke from 'Yojimbo'), hand game overhyped.
+- **[1:21:58]** ([[episodes/2026-09-02|2026-09-02]]): This episode's intended prompt was Christian vs Kendall, but was overtaken by the Crum-penis-punch thread; chat vote ended in a 'pretty big margin' win for Christian.
+- **[01:52:38]** ([[episodes/2026-09-07|2026-09-07]]): Transformed into a talking skeleton after catching the fiery backblast of the Rock-afire Gorilla stunt. Claims to have superior bone structure and to be liberated from mortal race boundaries.

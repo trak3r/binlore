@@ -99,6 +99,10 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 
 
 
+
+
+
+
 - **[19:32]** ([[episodes/2026-09-02|2026-09-02]]): Unveils *Piss Fruit Ninja* as an upcoming interactive project, chiding Blackwell for leaking details on the network feed.
 - **[22:33]** ([[episodes/2026-09-02|2026-09-02]]): Introduces his Panther partner to the audience and articulates his non-possessive relationship ethos.
 - **[32:42]** ([[episodes/2026-09-02|2026-09-02]]): Declares his metaphysical lineage: "Born in hell but raised in the crypto universe."
@@ -134,3 +138,15 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[48:05]** ([[episodes/2026-06-03|2026-06-03]]): Hype Train claims a second job as a professional bassoonist, stating symphony audiences (including elderly women and police) are sexually aroused by his playing.
 - **[43:14]** ([[episodes/2026-06-03|2026-06-03]]): Hype Train's 'human dog shit' bit refers to humans defecating during dog walks when they cannot stop; Hype Train claims to eat this as a job.
 - **[33:27]** ([[episodes/2026-05-29|2026-05-29]]): Hype Train's raps often involve escalating physical transformations, including milk feet, fish eyes, and time travel.
+- **[31:22]** ([[episodes/2026-08-26|2026-08-26]]): Reached Level 5 on the hype train. Bit detoured into inventing an 'ancient piss language' whose six original letters were piss, shit, puke, barf, and fart - claimed to predate and inspire Homer's epics.
+- **[21:34]** ([[episodes/2026-08-26|2026-08-26]]): Hype Train bit pattern reaffirmed: starts by thanking subs but reliably gets distracted, often derailing into piss-related topics.
+- **[14:09]** ([[episodes/2026-09-01|2026-09-01]]): Hype Train claims that every time another train car attaches to him, it counts as a pregnancy, and he gives birth to the new train cars and any 'skeleton' humans who may have died inside him due to 'lack of safety standards.'
+- **[23:29]** ([[episodes/2026-09-01|2026-09-01]]): Hype Train claims to have 'died via autotune,' 'like all the greats,' and notes this is his preferred method of death.
+- **[23:13]** ([[episodes/2026-09-01|2026-09-01]]): Hype Train has known Case for three years and considers him an 'acquaintance' (despite Case complaining about him feeling like a hater).
+- **[23:33]** ([[episodes/2026-09-01|2026-09-01]]): This Hype Train episode notably contains NO piss-related content, which Case explicitly acknowledges as a relief ('No piss today').
+- **[19:32]** ([[episodes/2026-09-02|2026-09-02]]): Claims Piss Fruit Ninja was a AAA studio-locked game he was developing; blames Case for spoiling it on air.
+- **[32:42]** ([[episodes/2026-09-02|2026-09-02]]): Hails from the 'crypto universe,' where Patrick is 'the Starfish guy,' sand is non-fungible, and Sam Bankman Fried is 'Sam Bankman Friend.' He was 'born in hell but raised in the crypto universe.'
+- **[22:33]** ([[episodes/2026-09-02|2026-09-02]]): Has a girlfriend nicknamed 'Panther' and says he keeps the relationship open — 'I don't believe in ownership like that.'
+- **[01:12:09]** ([[episodes/2026-09-04|2026-09-04]]): Recurring Hype Train persona rants that eggs do not contain sauce inside them and demands eggs be 'bred to have sauce already in them.' Performs 'egg-type beats' in a Dr. Seuss cadence ('Some things are born with squiggles on their tummies'). Also claims to have learned a CIA lesson that 'you can't make everyone like you' and asks for a sensual love-song beat when fans unfollow.
+- **[01:14:19]** ([[episodes/2026-09-04|2026-09-04]]): Rap self-description: 'puff-puff pass while I'm eating the yolk' and 'You're smoking yellow, not mellow' — establishes Hype Train persona as mixing food and weed wordplay. Also raps 'beating eggs' and 'eggs been in breath.'
+- **[01:20:13]** ([[episodes/2026-09-04|2026-09-04]]): Twitch sub acknowledgments: s1000 (42-month resub), Skymer (300 bits), Giggle Trash (community sub), Mighty Oz (100 bits), Apple to Apple (100 bits), Tamtrend, Bundle Sprout (resub), Card King (gifted sub to Swillery Hank). Establishes recurring Hype Train sub-thanking cadence.

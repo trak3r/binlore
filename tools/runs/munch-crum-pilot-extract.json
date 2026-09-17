@@ -1,0 +1,123 @@
+[
+  {
+    "vod_id": "tXdoW9cixMk",
+    "date": "2024-07-20",
+    "title": "Deb-8 - Eight Hours of DEBATE",
+    "duration_seconds": 29502.097,
+    "duration_min": 491.7,
+    "score": 266,
+    "munch": 27,
+    "crum": 87,
+    "arcs": {
+      "dick_punch": 7,
+      "gambling": 12
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "DRCre_ofu50",
+    "date": "2024-10-13",
+    "title": "Return To Renerton",
+    "duration_seconds": 16608.149,
+    "duration_min": 276.8,
+    "score": 249,
+    "munch": 51,
+    "crum": 75,
+    "arcs": {
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "kmm6ANnhWcQ",
+    "date": "2025-05-27",
+    "title": "Hamtaro Time (news?)",
+    "duration_seconds": 4912.095,
+    "duration_min": 81.9,
+    "score": 216,
+    "munch": 7,
+    "crum": 32,
+    "arcs": {
+      "dick_punch": 30,
+      "gambling": 19
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "gnN-yI8Xmdw",
+    "date": "2025-06-02",
+    "title": "Musk of Failure, Toilet Snakes, and Music Maybe, it's NEWS",
+    "duration_seconds": 10451.076,
+    "duration_min": 174.2,
+    "score": 233,
+    "munch": 3,
+    "crum": 41,
+    "arcs": {
+      "dick_punch": 32,
+      "gambling": 17
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "SmtzHJfYna0",
+    "date": "2025-06-17",
+    "title": "Quick News and Crum Punch",
+    "duration_seconds": 7082.511,
+    "duration_min": 118.0,
+    "score": 316,
+    "munch": 22,
+    "crum": 63,
+    "arcs": {
+      "dick_punch": 33,
+      "skeleton": 2,
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "JEtaFUnBQUM",
+    "date": "2025-09-02",
+    "title": "Return the Newsosphere",
+    "duration_seconds": 10716.759,
+    "duration_min": 178.6,
+    "score": 240,
+    "munch": 5,
+    "crum": 27,
+    "arcs": {
+      "dick_punch": 43,
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "QDY1wkyfA-k",
+    "date": "2025-09-25",
+    "title": "Post Wall and Rapture Clarity",
+    "duration_seconds": 9357.022,
+    "duration_min": 156.0,
+    "score": 228,
+    "munch": 15,
+    "crum": 30,
+    "arcs": {
+      "dick_punch": 15,
+      "beyblade": 9,
+      "gambling": 6
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "obXQhBxu7PI",
+    "date": "2026-03-07",
+    "title": "A Night of Courts",
+    "duration_seconds": 9548.029,
+    "duration_min": 159.1,
+    "score": 300,
+    "munch": 13,
+    "crum": 107,
+    "arcs": {
+      "dick_punch": 15,
+      "gambling": 1
+    },
+    "has_extraction": false
+  }
+]

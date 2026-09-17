@@ -1,0 +1,4442 @@
+[
+  {
+    "vod_id": "2868220752",
+    "date": "2026-09-07",
+    "title": "Crum Punch News",
+    "duration_seconds": 8257.2586875,
+    "duration_min": 137.6,
+    "score": 341,
+    "munch": 16,
+    "crum": 21,
+    "arcs": {
+      "dick_punch": 25,
+      "skeleton": 31,
+      "gambling": 4
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "SmtzHJfYna0",
+    "date": "2025-06-17",
+    "title": "Quick News and Crum Punch",
+    "duration_seconds": 7082.511,
+    "duration_min": 118.0,
+    "score": 316,
+    "munch": 22,
+    "crum": 63,
+    "arcs": {
+      "dick_punch": 33,
+      "skeleton": 2,
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "obXQhBxu7PI",
+    "date": "2026-03-07",
+    "title": "A Night of Courts",
+    "duration_seconds": 9548.029,
+    "duration_min": 159.1,
+    "score": 300,
+    "munch": 13,
+    "crum": 107,
+    "arcs": {
+      "dick_punch": 15,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "tXdoW9cixMk",
+    "date": "2024-07-20",
+    "title": "Deb-8 - Eight Hours of DEBATE",
+    "duration_seconds": 29502.097,
+    "duration_min": 491.7,
+    "score": 266,
+    "munch": 27,
+    "crum": 87,
+    "arcs": {
+      "dick_punch": 7,
+      "gambling": 12
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "DRCre_ofu50",
+    "date": "2024-10-13",
+    "title": "Return To Renerton",
+    "duration_seconds": 16608.149,
+    "duration_min": 276.8,
+    "score": 249,
+    "munch": 51,
+    "crum": 75,
+    "arcs": {
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "JEtaFUnBQUM",
+    "date": "2025-09-02",
+    "title": "Return the Newsosphere",
+    "duration_seconds": 10716.759,
+    "duration_min": 178.6,
+    "score": 240,
+    "munch": 5,
+    "crum": 27,
+    "arcs": {
+      "dick_punch": 43,
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "gnN-yI8Xmdw",
+    "date": "2025-06-02",
+    "title": "Musk of Failure, Toilet Snakes, and Music Maybe, it's NEWS",
+    "duration_seconds": 10451.076,
+    "duration_min": 174.2,
+    "score": 233,
+    "munch": 3,
+    "crum": 41,
+    "arcs": {
+      "dick_punch": 32,
+      "gambling": 17
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "QDY1wkyfA-k",
+    "date": "2025-09-25",
+    "title": "Post Wall and Rapture Clarity",
+    "duration_seconds": 9357.022,
+    "duration_min": 156.0,
+    "score": 228,
+    "munch": 15,
+    "crum": 30,
+    "arcs": {
+      "dick_punch": 15,
+      "beyblade": 9,
+      "gambling": 6
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "kmm6ANnhWcQ",
+    "date": "2025-05-27",
+    "title": "Hamtaro Time (news?)",
+    "duration_seconds": 4912.095,
+    "duration_min": 81.9,
+    "score": 216,
+    "munch": 7,
+    "crum": 32,
+    "arcs": {
+      "dick_punch": 30,
+      "gambling": 19
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "4x739N7tVeE",
+    "date": "2025-06-19",
+    "title": "Quick Pre-Patron, Post Crumsplosion Stream",
+    "duration_seconds": 4880.075,
+    "duration_min": 81.3,
+    "score": 208,
+    "munch": 19,
+    "crum": 56,
+    "arcs": {
+      "dick_punch": 14,
+      "gambling": 5
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "sfaxMmV44EQ",
+    "date": "2024-10-03",
+    "title": "Election Check In, Bigfoots, Geomagnetic Storms, it's disasters that are NEWS",
+    "duration_seconds": 10512.702,
+    "duration_min": 175.2,
+    "score": 201,
+    "munch": 3,
+    "crum": 8,
+    "arcs": {
+      "dick_punch": 44,
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "R0wJXZzbVaA",
+    "date": "2025-10-04",
+    "title": "Illegal Raids and Beyblade Days",
+    "duration_seconds": 10521.224,
+    "duration_min": 175.4,
+    "score": 194,
+    "munch": 8,
+    "crum": 26,
+    "arcs": {
+      "beyblade": 15,
+      "gambling": 6
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "m-flygfm2xU",
+    "date": "2025-09-21",
+    "title": "Join the Wall",
+    "duration_seconds": 11608.173,
+    "duration_min": 193.5,
+    "score": 175,
+    "munch": 13,
+    "crum": 39,
+    "arcs": {
+      "dick_punch": 15,
+      "gambling": 11
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "BQ8yOTL7uU8",
+    "date": "2025-06-24",
+    "title": "Ceaseless Newsing",
+    "duration_seconds": 11574.551,
+    "duration_min": 192.9,
+    "score": 169,
+    "munch": 2,
+    "crum": 43,
+    "arcs": {
+      "dick_punch": 18,
+      "gambling": 8
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "S_KvZRUJpIw",
+    "date": "2025-06-13",
+    "title": "Non Alarming Apocalyptic NEWS (plus music maybe)",
+    "duration_seconds": 10237.94,
+    "duration_min": 170.6,
+    "score": 167,
+    "munch": 9,
+    "crum": 23,
+    "arcs": {
+      "dick_punch": 24,
+      "gambling": 7
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "ERveBURDEZ4",
+    "date": "2025-07-01",
+    "title": "Big Beautiful Monday News",
+    "duration_seconds": 11253.687,
+    "duration_min": 187.6,
+    "score": 167,
+    "munch": 11,
+    "crum": 53,
+    "arcs": {
+      "dick_punch": 8,
+      "gambling": 8
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "xnDll_axGTU",
+    "date": "2025-04-23",
+    "title": "Losing Some Musk, Losing Some Rights, Gaining Sperm Races, it's N E W S",
+    "duration_seconds": 8442.759,
+    "duration_min": 140.7,
+    "score": 159,
+    "munch": 9,
+    "crum": 39,
+    "arcs": {
+      "dick_punch": 14,
+      "skeleton": 1,
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "oFPrJN6iGVE",
+    "date": "2025-09-05",
+    "title": "Surrogate Slander, Pay Packages, and Free AI Luigis, it's NEWS supposedly",
+    "duration_seconds": 11104.486,
+    "duration_min": 185.1,
+    "score": 156,
+    "munch": 11,
+    "crum": 66,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "XLwB0_H9UjI",
+    "date": "2025-03-21",
+    "title": "Columbia Caves, Deportation Details, Black Hole Everything? or NEWS everything",
+    "duration_seconds": 8186.62,
+    "duration_min": 136.4,
+    "score": 149,
+    "munch": 2,
+    "crum": 2,
+    "arcs": {
+      "dick_punch": 15,
+      "beyblade": 9,
+      "skeleton": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "b9tvtwX2zQA",
+    "date": "2025-06-07",
+    "title": "This Week's Fight of the Century, it's BATTLE NEWS (plus music?)",
+    "duration_seconds": 13007.825,
+    "duration_min": 216.8,
+    "score": 149,
+    "munch": 6,
+    "crum": 23,
+    "arcs": {
+      "dick_punch": 21,
+      "gambling": 9
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "3hRyg_SPR8o",
+    "date": "2025-06-11",
+    "title": "One Year Older, Possibly 24 Hours Wiser, it's NEWS",
+    "duration_seconds": 13257.417,
+    "duration_min": 221.0,
+    "score": 148,
+    "munch": 1,
+    "crum": 35,
+    "arcs": {
+      "dick_punch": 17,
+      "gambling": 8
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "PsP5ot46kys",
+    "date": "2025-02-25",
+    "title": "Mass BIN Staff Layoffs, Any News Happen While I Was Sick?",
+    "duration_seconds": 8565.755,
+    "duration_min": 142.8,
+    "score": 145,
+    "munch": 2,
+    "crum": 25,
+    "arcs": {
+      "dick_punch": 21,
+      "gambling": 8
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "HsARa2c80x4",
+    "date": "2024-02-29",
+    "title": "NEWS? NEWS!",
+    "duration_seconds": 10831.7296875,
+    "duration_min": 180.5,
+    "score": 142,
+    "munch": 17,
+    "crum": 16,
+    "arcs": {
+      "beyblade": 9,
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "dEw-PVo3KCY",
+    "date": "2025-06-05",
+    "title": "Penile Correction Newsery",
+    "duration_seconds": 10869.755,
+    "duration_min": 181.2,
+    "score": 141,
+    "munch": 15,
+    "crum": 39,
+    "arcs": {
+      "dick_punch": 9
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "oDSuSzbumUs",
+    "date": "2024-08-22",
+    "title": "DNC Even More, Lindell Watch, Costco Cups and Vance Cups, the Cups of NEWS",
+    "duration_seconds": 10261.648,
+    "duration_min": 171.0,
+    "score": 136,
+    "munch": 11,
+    "crum": 18,
+    "arcs": {
+      "dick_punch": 19,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "52sAT7DuWXo",
+    "date": "2024-05-28",
+    "title": "Amongst  The Web",
+    "duration_seconds": 8562.7803125,
+    "duration_min": 142.7,
+    "score": 131,
+    "munch": 10,
+    "crum": 14,
+    "arcs": {
+      "dick_punch": 21
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "ZUFPFKnF1zU",
+    "date": "2025-03-04",
+    "title": "Oscars, Trump Backlash, and Streamer Problems, it's supposedly NEWS",
+    "duration_seconds": 10038.899,
+    "duration_min": 167.3,
+    "score": 126,
+    "munch": 4,
+    "crum": 7,
+    "arcs": {
+      "dick_punch": 22,
+      "gambling": 16
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "uTS9xVOj5gQ",
+    "date": "2025-06-17",
+    "title": "Kendelle's B-Day, Hopefully No WWIII Day, it's NEWS",
+    "duration_seconds": 4789.61,
+    "duration_min": 79.8,
+    "score": 126,
+    "munch": 8,
+    "crum": 20,
+    "arcs": {
+      "dick_punch": 15,
+      "skeleton": 1,
+      "gambling": 6
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "T4WJKaS7Mjk",
+    "date": "2025-01-06",
+    "title": "New Year, New News",
+    "duration_seconds": 8686.429,
+    "duration_min": 144.8,
+    "score": 124,
+    "munch": 4,
+    "crum": 15,
+    "arcs": {
+      "dick_punch": 16,
+      "gambling": 22
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "UyY_i6HCd9g",
+    "date": "2026-02-17",
+    "title": "Gotta Catch the News",
+    "duration_seconds": 13769.951,
+    "duration_min": 229.5,
+    "score": 123,
+    "munch": 4,
+    "crum": 53,
+    "arcs": {
+      "skeleton": 1,
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "_nvoKaHtAIU",
+    "date": "2025-06-28",
+    "title": "Friday Newsday Plus Potential Musical Punishment",
+    "duration_seconds": 9277.563,
+    "duration_min": 154.6,
+    "score": 122,
+    "munch": 8,
+    "crum": 25,
+    "arcs": {
+      "dick_punch": 13,
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "yEhvqQ3qSe0",
+    "date": "2025-11-18",
+    "title": "New Week, New Resolutions, it's NEWS",
+    "duration_seconds": 8320.901,
+    "duration_min": 138.7,
+    "score": 120,
+    "munch": 2,
+    "crum": 44,
+    "arcs": {
+      "dick_punch": 6,
+      "gambling": 5
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "U4Sm2UnvH2c",
+    "date": "2023-12-16",
+    "title": "Artistically Nude No More, Rudy Payments, Chuck E. Selling, it's NEWZZZ",
+    "duration_seconds": 8947.207,
+    "duration_min": 149.1,
+    "score": 117,
+    "munch": 8,
+    "crum": 51,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "QRN1ZIHDHG8",
+    "date": "2025-05-30",
+    "title": "Musk of Failure, Toilet Snakes, and Music Maybe, it's NEWS",
+    "duration_seconds": 5902.008,
+    "duration_min": 98.4,
+    "score": 114,
+    "munch": 17,
+    "crum": 11,
+    "arcs": {
+      "dick_punch": 12,
+      "beyblade": 1,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "XmhXkdunOB4",
+    "date": "2026-03-10",
+    "title": "A Night of Courts",
+    "duration_seconds": 9890.477,
+    "duration_min": 164.8,
+    "score": 114,
+    "munch": 1,
+    "crum": 29,
+    "arcs": {
+      "dick_punch": 12,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "2LIWdYTSlAQ",
+    "date": "2025-05-21",
+    "title": "Habeus Corpsing the NEWS",
+    "duration_seconds": 10920.7,
+    "duration_min": 182.0,
+    "score": 111,
+    "munch": 7,
+    "crum": 4,
+    "arcs": {
+      "dick_punch": 21,
+      "gambling": 5
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "VCjlD1mTzn4",
+    "date": "2025-05-02",
+    "title": "Budgets, Screwworms, and Various People Yelling Things that are NEWS",
+    "duration_seconds": 12253.887,
+    "duration_min": 204.2,
+    "score": 109,
+    "munch": 12,
+    "crum": 9,
+    "arcs": {
+      "dick_punch": 16,
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "2822556962",
+    "date": "2026-07-17",
+    "title": "Friday News Flops",
+    "duration_seconds": 8393.7066875,
+    "duration_min": 139.9,
+    "score": 108,
+    "munch": 5,
+    "crum": 37,
+    "arcs": {
+      "dick_punch": 6
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "d_n98PLCE6A",
+    "date": "2026-06-27",
+    "title": "Lil Friday Newses",
+    "duration_seconds": 6604.16,
+    "duration_min": 110.1,
+    "score": 106,
+    "munch": 2,
+    "crum": 29,
+    "arcs": {
+      "dick_punch": 5,
+      "skeleton": 3,
+      "gambling": 1
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "2863722826",
+    "date": "2026-09-02",
+    "title": "High T Wednesday News",
+    "duration_seconds": 7811.072,
+    "duration_min": 130.2,
+    "score": 106,
+    "munch": 5,
+    "crum": 22,
+    "arcs": {
+      "dick_punch": 3,
+      "skeleton": 7,
+      "gambling": 2
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "ydQl3A2eos0",
+    "date": "2024-05-15",
+    "title": "Munchcut Finally LOSES? Mass celeb blocking? Epstein Recreates Multiplicity? These are things tha\u2026",
+    "duration_seconds": 10630.087,
+    "duration_min": 177.2,
+    "score": 97,
+    "munch": 18,
+    "crum": 28,
+    "arcs": {
+      "skeleton": 1,
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "KEDgSMAYkXE",
+    "date": "2025-02-28",
+    "title": "Mass BIN Staff Layoffs, Any News Happen While I Was Sick?",
+    "duration_seconds": 7195.615,
+    "duration_min": 119.9,
+    "score": 97,
+    "munch": 1,
+    "crum": 14,
+    "arcs": {
+      "dick_punch": 16,
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "rqFZIgRPgf8",
+    "date": "2025-03-31",
+    "title": "The News Icestravaganza!",
+    "duration_seconds": 12380.956,
+    "duration_min": 206.3,
+    "score": 96,
+    "munch": 3,
+    "crum": 16,
+    "arcs": {
+      "dick_punch": 13,
+      "skeleton": 1,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "xcrzwZZVnhQ",
+    "date": "2025-03-17",
+    "title": "Rights? Where We're Going We Don't Need Rights. It's Back to the NEWS",
+    "duration_seconds": 7879.211,
+    "duration_min": 131.3,
+    "score": 95,
+    "munch": 11,
+    "crum": 6,
+    "arcs": {
+      "dick_punch": 14,
+      "gambling": 5
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "LNQ0e2tBowY",
+    "date": "2025-09-26",
+    "title": "Post Wall and Rapture Clarity",
+    "duration_seconds": 6319.619,
+    "duration_min": 105.3,
+    "score": 94,
+    "munch": 3,
+    "crum": 16,
+    "arcs": {
+      "beyblade": 7
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "5o-c316Qmww",
+    "date": "2025-07-10",
+    "title": "Back From the Wet Hot American Party, Time to NEWS",
+    "duration_seconds": 9984.611,
+    "duration_min": 166.4,
+    "score": 93,
+    "munch": 11,
+    "crum": 27,
+    "arcs": {
+      "dick_punch": 4,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "5m35zq3Yh8A",
+    "date": "2023-12-18",
+    "title": "Grunchmas Time is Here",
+    "duration_seconds": 11281.799,
+    "duration_min": 188.0,
+    "score": 92,
+    "munch": 11,
+    "crum": 37,
+    "arcs": {
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "2862064673",
+    "date": "2026-09-01",
+    "title": "The Quickest Latest News",
+    "duration_seconds": 5590.4426875,
+    "duration_min": 93.2,
+    "score": 92,
+    "munch": 0,
+    "crum": 13,
+    "arcs": {
+      "dick_punch": 8,
+      "skeleton": 6,
+      "gambling": 2
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "nkzlr1a_Zw0",
+    "date": "2025-09-29",
+    "title": "The Monday News Comedy Festival",
+    "duration_seconds": 10294.481,
+    "duration_min": 171.6,
+    "score": 90,
+    "munch": 4,
+    "crum": 6,
+    "arcs": {
+      "dick_punch": 1,
+      "beyblade": 8,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "1-vTU_qnKlc",
+    "date": "2024-06-28",
+    "title": "Presidential Recreation Activity Hour",
+    "duration_seconds": 9964.0176875,
+    "duration_min": 166.1,
+    "score": 86,
+    "munch": 13,
+    "crum": 12,
+    "arcs": {
+      "beyblade": 3,
+      "skeleton": 2,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "IZWYSBoOxPA",
+    "date": "2026-06-15",
+    "title": "40 Years of Mondays",
+    "duration_seconds": 8103.7723125,
+    "duration_min": 135.1,
+    "score": 85,
+    "munch": 0,
+    "crum": 17,
+    "arcs": {
+      "dick_punch": 3,
+      "beyblade": 3,
+      "gambling": 7
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "Cli2U0rYw28",
+    "date": "2024-11-26",
+    "title": "Post-China, Pre-Move News Grooves",
+    "duration_seconds": 9134.087,
+    "duration_min": 152.2,
+    "score": 83,
+    "munch": 2,
+    "crum": 37,
+    "arcs": {
+      "skeleton": 1,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "OAq9wosVy00",
+    "date": "2024-02-15",
+    "title": "Newsing w/ Jon Matteson",
+    "duration_seconds": 5583.1323125,
+    "duration_min": 93.1,
+    "score": 81,
+    "munch": 8,
+    "crum": 30,
+    "arcs": {
+      "dick_punch": 1,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "W2AYD3T2Ya0",
+    "date": "2024-09-18",
+    "title": "Exploding Pagers, Rate Cuts, Abercrombie and Sex Crimes, is it NEWS?",
+    "duration_seconds": 8079.947,
+    "duration_min": 134.7,
+    "score": 80,
+    "munch": 2,
+    "crum": 38,
+    "arcs": {},
+    "has_extraction": false
+  },
+  {
+    "vod_id": "Pq0dGk5M91U",
+    "date": "2025-05-05",
+    "title": "Budgets, Screwworms, and Various People Yelling Things that are NEWS",
+    "duration_seconds": 9784.826,
+    "duration_min": 163.1,
+    "score": 79,
+    "munch": 0,
+    "crum": 19,
+    "arcs": {
+      "dick_punch": 10,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "-DKnhDrOWFQ",
+    "date": "2025-06-20",
+    "title": "What Some Call News, and Ever Fewer Call Music, it's FRIDAY NEWS",
+    "duration_seconds": 6092.621,
+    "duration_min": 101.5,
+    "score": 79,
+    "munch": 5,
+    "crum": 27,
+    "arcs": {
+      "dick_punch": 3,
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "IrBASIY-1z8",
+    "date": "2025-07-19",
+    "title": "Fast and Late Friday News",
+    "duration_seconds": 10229.813,
+    "duration_min": 170.5,
+    "score": 79,
+    "munch": 4,
+    "crum": 25,
+    "arcs": {
+      "dick_punch": 5,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "M1817myPrHo",
+    "date": "2024-07-19",
+    "title": "RNC You Next Time, Unalive Machines, Air Butter, what is a NEWS?",
+    "duration_seconds": 7038.983,
+    "duration_min": 117.3,
+    "score": 76,
+    "munch": 16,
+    "crum": 17,
+    "arcs": {
+      "beyblade": 1,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "YoRiwFszQmM",
+    "date": "2024-03-01",
+    "title": "Tampon Attacks, AI Rat Dick, Leap Day Crashes, there's NEWS in these hills",
+    "duration_seconds": 8789.9376875,
+    "duration_min": 146.5,
+    "score": 74,
+    "munch": 10,
+    "crum": 22,
+    "arcs": {
+      "beyblade": 1,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "aPzAtK5ZVeM",
+    "date": "2024-10-31",
+    "title": "Godzilla Mayors Zombie Apocalypse",
+    "duration_seconds": 6201.546,
+    "duration_min": 103.4,
+    "score": 73,
+    "munch": 19,
+    "crum": 17,
+    "arcs": {
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "fZjhnGq43xA",
+    "date": "2025-02-08",
+    "title": "Government Block Off, Elon Harem, and Other Wank Motion NEWS",
+    "duration_seconds": 10278.273,
+    "duration_min": 171.3,
+    "score": 73,
+    "munch": 2,
+    "crum": 11,
+    "arcs": {
+      "dick_punch": 10,
+      "skeleton": 1,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "iCCqpvNIlFY",
+    "date": "2024-10-30",
+    "title": "Tuesday Newsday Catch Up",
+    "duration_seconds": 8569.494,
+    "duration_min": 142.8,
+    "score": 72,
+    "munch": 3,
+    "crum": 30,
+    "arcs": {
+      "dick_punch": 1,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "lzFoheJkjZ4",
+    "date": "2025-12-19",
+    "title": "Grunchmas 2025",
+    "duration_seconds": 8772.947,
+    "duration_min": 146.2,
+    "score": 72,
+    "munch": 6,
+    "crum": 20,
+    "arcs": {
+      "dick_punch": 2,
+      "beyblade": 1,
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "XbNYVM1zu8c",
+    "date": "2024-05-10",
+    "title": "More Weapons or NO More Weapons? NBA Moans, \"Package Enhances\" - some of it may be NEWS",
+    "duration_seconds": 9067.911,
+    "duration_min": 151.1,
+    "score": 71,
+    "munch": 8,
+    "crum": 9,
+    "arcs": {
+      "beyblade": 4,
+      "gambling": 5
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "fivS6SdvEmg",
+    "date": "2024-09-19",
+    "title": "Diddy, Drones, and Dicks - the usual NEWS",
+    "duration_seconds": 5785.305,
+    "duration_min": 96.4,
+    "score": 71,
+    "munch": 2,
+    "crum": 22,
+    "arcs": {
+      "beyblade": 2,
+      "gambling": 7
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "ZGma3afeWMM",
+    "date": "2025-11-25",
+    "title": "Monday News Blast",
+    "duration_seconds": 8533.154,
+    "duration_min": 142.2,
+    "score": 71,
+    "munch": 1,
+    "crum": 30,
+    "arcs": {
+      "dick_punch": 3,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "E9P4PugF1yo",
+    "date": "2025-05-01",
+    "title": "Taking Minerals, Shrinking GPDs, plus Literal Fart Walks, could it be NEWS?",
+    "duration_seconds": 7178.479,
+    "duration_min": 119.6,
+    "score": 70,
+    "munch": 0,
+    "crum": 1,
+    "arcs": {
+      "dick_punch": 17
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "2865460780",
+    "date": "2026-09-04",
+    "title": "Artificially General News",
+    "duration_seconds": 6693.12,
+    "duration_min": 111.6,
+    "score": 69,
+    "munch": 5,
+    "crum": 15,
+    "arcs": {
+      "dick_punch": 5,
+      "gambling": 1
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "bldjU0QVKbc",
+    "date": "2023-12-08",
+    "title": "Returnal to the News - then Lethal Slam Company",
+    "duration_seconds": 14062.279,
+    "duration_min": 234.4,
+    "score": 67,
+    "munch": 11,
+    "crum": 22,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "Ai84ODNL5eg",
+    "date": "2024-08-14",
+    "title": "Rowling Down Hill, AI Demo Failures, Crap Hacks, 2/3 Could be NEWS!",
+    "duration_seconds": 8605.786,
+    "duration_min": 143.4,
+    "score": 67,
+    "munch": 6,
+    "crum": 25,
+    "arcs": {
+      "skeleton": 1,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "WYpY1XlIuWc",
+    "date": "2026-02-19",
+    "title": "Wenthday Newthday",
+    "duration_seconds": 5812.147,
+    "duration_min": 96.9,
+    "score": 67,
+    "munch": 5,
+    "crum": 24,
+    "arcs": {
+      "dick_punch": 2,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "LoXdofDrxCg",
+    "date": "2025-01-24",
+    "title": "Stargate SG5 Billion, Musky Week, Johnson Watch, it's NEWS (maybe)",
+    "duration_seconds": 10986.552,
+    "duration_min": 183.1,
+    "score": 66,
+    "munch": 4,
+    "crum": 11,
+    "arcs": {
+      "dick_punch": 8,
+      "gambling": 5
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "2857407927",
+    "date": "2026-08-26",
+    "title": "Expertly Negotiated News",
+    "duration_seconds": 7501.3973125,
+    "duration_min": 125.0,
+    "score": 66,
+    "munch": 8,
+    "crum": 6,
+    "arcs": {
+      "dick_punch": 6,
+      "gambling": 3
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "vTLr6CeC2vM",
+    "date": "2025-10-16",
+    "title": "The Hottest Pentagon Reporting, it's Wednesday NEWS",
+    "duration_seconds": 7517.56,
+    "duration_min": 125.3,
+    "score": 65,
+    "munch": 3,
+    "crum": 7,
+    "arcs": {
+      "dick_punch": 1,
+      "beyblade": 4,
+      "skeleton": 1,
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "O_CiCowdnL8",
+    "date": "2025-08-21",
+    "title": "What Happened Wednesday? aka NEWS",
+    "duration_seconds": 9108.963,
+    "duration_min": 151.8,
+    "score": 64,
+    "munch": 8,
+    "crum": 12,
+    "arcs": {
+      "beyblade": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "1iwbH5qCCZc",
+    "date": "2025-10-13",
+    "title": "Swaps, Crashes, and Self Congratulatory Speeches, it's Monday NEWS",
+    "duration_seconds": 9157.748,
+    "duration_min": 152.6,
+    "score": 64,
+    "munch": 1,
+    "crum": 28,
+    "arcs": {
+      "gambling": 7
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "OshWD1EFHZI",
+    "date": "2026-03-24",
+    "title": "Breaking the 48 Hour News Deadline",
+    "duration_seconds": 6430.959,
+    "duration_min": 107.2,
+    "score": 64,
+    "munch": 2,
+    "crum": 7,
+    "arcs": {
+      "dick_punch": 11,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "MV6eB9De3Q8",
+    "date": "2025-06-26",
+    "title": "Positive Political News? Enjoyable Panic? Could it actually be NEWS?",
+    "duration_seconds": 8258.247,
+    "duration_min": 137.6,
+    "score": 63,
+    "munch": 0,
+    "crum": 11,
+    "arcs": {
+      "dick_punch": 9,
+      "gambling": 5
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "ydUAWTVDd-Q",
+    "date": "2025-07-30",
+    "title": "Stealing Employees and Other Excuses for Atrocities, it's NEWS",
+    "duration_seconds": 10911.83,
+    "duration_min": 181.9,
+    "score": 63,
+    "munch": 3,
+    "crum": 26,
+    "arcs": {
+      "gambling": 5
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "dEVsBowATT8",
+    "date": "2026-03-25",
+    "title": "Breaking the 48 Hour News Deadline",
+    "duration_seconds": 9576.218,
+    "duration_min": 159.6,
+    "score": 63,
+    "munch": 3,
+    "crum": 6,
+    "arcs": {
+      "dick_punch": 3,
+      "skeleton": 6,
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "uc90mEBZVzU",
+    "date": "2026-02-04",
+    "title": "Another Tuesday News Just Dropped",
+    "duration_seconds": 14482.641,
+    "duration_min": 241.4,
+    "score": 62,
+    "munch": 5,
+    "crum": 17,
+    "arcs": {
+      "dick_punch": 2,
+      "beyblade": 1,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "b8Z_7MPVXng",
+    "date": "2024-02-20",
+    "title": "Nerualink Mice, Lockbit Lockdown, Nobody Likes Money Shots? At least on is NEWS",
+    "duration_seconds": 7555.3563125,
+    "duration_min": 125.9,
+    "score": 61,
+    "munch": 14,
+    "crum": 15,
+    "arcs": {
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "vdPpPGW3_DA",
+    "date": "2025-10-02",
+    "title": "Government Shutdown, Rooney Upgrades",
+    "duration_seconds": 8654.247,
+    "duration_min": 144.2,
+    "score": 61,
+    "munch": 2,
+    "crum": 12,
+    "arcs": {
+      "dick_punch": 3,
+      "beyblade": 2,
+      "skeleton": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "3vBzXHG5hAg",
+    "date": "2025-11-03",
+    "title": "Mayor Elections, Billboard Selections, and Scott Adams Interventions, it's supposedly NEWS",
+    "duration_seconds": 9125.887,
+    "duration_min": 152.1,
+    "score": 61,
+    "munch": 4,
+    "crum": 20,
+    "arcs": {
+      "dick_punch": 1,
+      "beyblade": 1,
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "c7wPYaGN08E",
+    "date": "2025-12-18",
+    "title": "Monday News Slam",
+    "duration_seconds": 8661.647,
+    "duration_min": 144.4,
+    "score": 61,
+    "munch": 3,
+    "crum": 13,
+    "arcs": {
+      "dick_punch": 1,
+      "beyblade": 3,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "o0bVkc_PPFs",
+    "date": "2023-12-12",
+    "title": "The Cream Team Dream Stream - presented by Hart Audio",
+    "duration_seconds": 12181.9163125,
+    "duration_min": 203.0,
+    "score": 60,
+    "munch": 8,
+    "crum": 13,
+    "arcs": {
+      "beyblade": 2,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "dC3wSFhKDlo",
+    "date": "2025-01-29",
+    "title": "Working Dogs, Less Working Government, And Butt News, it's INFO that's NEWS",
+    "duration_seconds": 9584.763,
+    "duration_min": 159.7,
+    "score": 59,
+    "munch": 3,
+    "crum": 12,
+    "arcs": {
+      "dick_punch": 6,
+      "gambling": 5
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "o1eg5JpmnJY",
+    "date": "2026-03-12",
+    "title": "Straights of More News, it's THURSDAY BIN",
+    "duration_seconds": 10606.975,
+    "duration_min": 176.8,
+    "score": 59,
+    "munch": 2,
+    "crum": 9,
+    "arcs": {
+      "dick_punch": 7,
+      "gambling": 9
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "1AADn1SpecU",
+    "date": "2025-02-14",
+    "title": "Quick Friday Non-Kendelle Graphics News Stream",
+    "duration_seconds": 9149.017,
+    "duration_min": 152.5,
+    "score": 58,
+    "munch": 1,
+    "crum": 5,
+    "arcs": {
+      "dick_punch": 9,
+      "gambling": 10
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "RX_K8dURYts",
+    "date": "2025-09-03",
+    "title": "Extra Evil Ads, Immortal World Leaders, and other VERY COOL NEWS",
+    "duration_seconds": 10382.554,
+    "duration_min": 173.0,
+    "score": 58,
+    "munch": 10,
+    "crum": 16,
+    "arcs": {
+      "dick_punch": 1,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "kRdImfIwy4Q",
+    "date": "2024-10-30",
+    "title": "Trump V 2 Rogans,",
+    "duration_seconds": 6097.962,
+    "duration_min": 101.6,
+    "score": 57,
+    "munch": 2,
+    "crum": 25,
+    "arcs": {
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "03maVjRy6EE",
+    "date": "2025-08-11",
+    "title": "Streamer Returns to Declare Unilateral Control Over News Station",
+    "duration_seconds": 8974.96,
+    "duration_min": 149.6,
+    "score": 57,
+    "munch": 4,
+    "crum": 21,
+    "arcs": {
+      "dick_punch": 1,
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "HEmYnIbwQRk",
+    "date": "2025-03-19",
+    "title": "Unceased Fire, JFKs New Hit Recods, And Various Other NEWS Disasters",
+    "duration_seconds": 8443.073,
+    "duration_min": 140.7,
+    "score": 55,
+    "munch": 2,
+    "crum": 7,
+    "arcs": {
+      "dick_punch": 8,
+      "gambling": 5
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "jbMSE_4v_TE",
+    "date": "2023-11-22",
+    "title": "Open Relationship AI, Taco Bell Sex Parties, Endless Hangovers, it's NEWS maybe",
+    "duration_seconds": 8126.4283125,
+    "duration_min": 135.4,
+    "score": 54,
+    "munch": 12,
+    "crum": 10,
+    "arcs": {
+      "beyblade": 1,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "COOyBDwQZzM",
+    "date": "2024-05-21",
+    "title": "A.I. Death Dogs, Trump Crypto Third Reich, Terrance Howard Maybe? That's supposedly NEWS",
+    "duration_seconds": 7784.007,
+    "duration_min": 129.7,
+    "score": 54,
+    "munch": 14,
+    "crum": 10,
+    "arcs": {
+      "dick_punch": 1,
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "sugAmJtb3HU",
+    "date": "2024-10-13",
+    "title": "Return To Renerton",
+    "duration_seconds": 9636.358,
+    "duration_min": 160.6,
+    "score": 54,
+    "munch": 23,
+    "crum": 4,
+    "arcs": {},
+    "has_extraction": false
+  },
+  {
+    "vod_id": "F6s9T-XdRCI",
+    "date": "2025-05-08",
+    "title": "The Papal Binclave",
+    "duration_seconds": 4643.208,
+    "duration_min": 77.4,
+    "score": 54,
+    "munch": 7,
+    "crum": 15,
+    "arcs": {
+      "dick_punch": 2,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "KKFawUUIfPA",
+    "date": "2026-05-18",
+    "title": "Another Monday, Another NEWS",
+    "duration_seconds": 11219.03,
+    "duration_min": 187.0,
+    "score": 54,
+    "munch": 0,
+    "crum": 6,
+    "arcs": {
+      "dick_punch": 7,
+      "beyblade": 1,
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "CPQbEcWhowI",
+    "date": "2026-05-26",
+    "title": "Tuesday News Slay",
+    "duration_seconds": 8270.4426875,
+    "duration_min": 137.8,
+    "score": 54,
+    "munch": 1,
+    "crum": 16,
+    "arcs": {
+      "dick_punch": 5
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "4xAoUbdxBjE",
+    "date": "2024-10-22",
+    "title": "Quick News Before Hot Calls",
+    "duration_seconds": 4687.21,
+    "duration_min": 78.1,
+    "score": 53,
+    "munch": 2,
+    "crum": 24,
+    "arcs": {
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "qnctO7klnKA",
+    "date": "2026-06-08",
+    "title": "Monday News Respawn",
+    "duration_seconds": 10102.6203125,
+    "duration_min": 168.4,
+    "score": 53,
+    "munch": 3,
+    "crum": 4,
+    "arcs": {
+      "dick_punch": 3,
+      "skeleton": 5,
+      "gambling": 2
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "2824980914",
+    "date": "2026-07-20",
+    "title": "Monday News All Blocked Up",
+    "duration_seconds": 11063.3173125,
+    "duration_min": 184.4,
+    "score": 53,
+    "munch": 4,
+    "crum": 4,
+    "arcs": {
+      "dick_punch": 1,
+      "beyblade": 4,
+      "gambling": 1
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "GgZ8pG-gib4",
+    "date": "2024-01-17",
+    "title": "Desanticide Watch, AI Stimulation, Definitely Real Alien Lights, it's NEWS",
+    "duration_seconds": 7419.527,
+    "duration_min": 123.7,
+    "score": 52,
+    "munch": 6,
+    "crum": 19,
+    "arcs": {
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "6xWhcAzOyB4",
+    "date": "2024-08-01",
+    "title": "Quick Thursday NEWS",
+    "duration_seconds": 5132.012,
+    "duration_min": 85.5,
+    "score": 52,
+    "munch": 6,
+    "crum": 20,
+    "arcs": {},
+    "has_extraction": false
+  },
+  {
+    "vod_id": "tAqkjWd82Q4",
+    "date": "2026-06-18",
+    "title": "Quick Stream Before Patreon",
+    "duration_seconds": 6254.4283125,
+    "duration_min": 104.2,
+    "score": 52,
+    "munch": 2,
+    "crum": 20,
+    "arcs": {
+      "dick_punch": 1,
+      "gambling": 4
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "yHz1R0hOixg",
+    "date": "2024-01-05",
+    "title": "Returnal to the News",
+    "duration_seconds": 6851.527,
+    "duration_min": 114.2,
+    "score": 51,
+    "munch": 9,
+    "crum": 11,
+    "arcs": {
+      "skeleton": 2,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "iFul-4NutEk",
+    "date": "2024-08-13",
+    "title": "Musking All Over the Place, Chatbots Come Clean, Summer... Things, what is News?",
+    "duration_seconds": 9362.293,
+    "duration_min": 156.0,
+    "score": 51,
+    "munch": 14,
+    "crum": 9,
+    "arcs": {
+      "gambling": 5
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "2GSL33V1DLE",
+    "date": "2026-05-28",
+    "title": "Quick Thursday News Squirt",
+    "duration_seconds": 6365.2266875,
+    "duration_min": 106.1,
+    "score": 51,
+    "munch": 0,
+    "crum": 2,
+    "arcs": {
+      "dick_punch": 11,
+      "gambling": 3
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "ZdELhJ21dfg",
+    "date": "2024-06-26",
+    "title": "Reploid Improvements, Tesla Recall, Kingpin Depenised, maybe its NEWS?",
+    "duration_seconds": 11101.383,
+    "duration_min": 185.0,
+    "score": 49,
+    "munch": 1,
+    "crum": 1,
+    "arcs": {
+      "dick_punch": 11,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "X-zigNPGBUA",
+    "date": "2025-09-15",
+    "title": "Kashing Up on the Monday News",
+    "duration_seconds": 10162.684,
+    "duration_min": 169.4,
+    "score": 49,
+    "munch": 13,
+    "crum": 7,
+    "arcs": {
+      "dick_punch": 2,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "NAGMRCh1EOc",
+    "date": "2026-03-17",
+    "title": "Resigned to the NEWS",
+    "duration_seconds": 7896.208,
+    "duration_min": 131.6,
+    "score": 49,
+    "munch": 3,
+    "crum": 15,
+    "arcs": {
+      "dick_punch": 2,
+      "skeleton": 1,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "HRNhGlj9PPE",
+    "date": "2026-04-01",
+    "title": "Wednesday News Ignition",
+    "duration_seconds": 6649.412,
+    "duration_min": 110.8,
+    "score": 49,
+    "munch": 0,
+    "crum": 7,
+    "arcs": {
+      "dick_punch": 8,
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "TE6TvEDz5I8",
+    "date": "2023-12-21",
+    "title": "Deck the News with Dick News Stories",
+    "duration_seconds": 5885.703,
+    "duration_min": 98.1,
+    "score": 48,
+    "munch": 12,
+    "crum": 12,
+    "arcs": {},
+    "has_extraction": false
+  },
+  {
+    "vod_id": "KQgNM3Uwe_U",
+    "date": "2025-02-03",
+    "title": "Tariff Delays, Nudity Now, Deep Researching the NEWS",
+    "duration_seconds": 7735.154,
+    "duration_min": 128.9,
+    "score": 48,
+    "munch": 5,
+    "crum": 12,
+    "arcs": {
+      "dick_punch": 3,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "zEmmbc3NZ1c",
+    "date": "2024-02-16",
+    "title": "Sora Keyblades AI Video, AI Job Application Tests, Exploding Penises, it's probably all AI News",
+    "duration_seconds": 9813.4256875,
+    "duration_min": 163.6,
+    "score": 47,
+    "munch": 15,
+    "crum": 8,
+    "arcs": {
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "tCYDD4ndbDM",
+    "date": "2024-04-02",
+    "title": "Liz Hurley's Son Very Comfortable with Self, Cicada-geddon, Free Chess Vibrators, it's supposedly\u2026",
+    "duration_seconds": 7367.175,
+    "duration_min": 122.8,
+    "score": 47,
+    "munch": 6,
+    "crum": 13,
+    "arcs": {
+      "skeleton": 1,
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "ISNv40CD_1Q",
+    "date": "2025-04-11",
+    "title": "Deportation Nation, Herpes Gum, and Returning Dogs, it's (N)EWS",
+    "duration_seconds": 9300.829,
+    "duration_min": 155.0,
+    "score": 46,
+    "munch": 0,
+    "crum": 10,
+    "arcs": {
+      "dick_punch": 6,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "HTHMEj0Rh5k",
+    "date": "2026-05-04",
+    "title": "Another Week, Another NEWS",
+    "duration_seconds": 8656.94,
+    "duration_min": 144.3,
+    "score": 46,
+    "munch": 2,
+    "crum": 6,
+    "arcs": {
+      "dick_punch": 4,
+      "skeleton": 2,
+      "gambling": 5
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "mPpM41kH9jw",
+    "date": "2024-10-10",
+    "title": "Hurricanes, Fat Bears, and Alt Right Pron Exposes, does it NEWS?",
+    "duration_seconds": 11471.361,
+    "duration_min": 191.2,
+    "score": 45,
+    "munch": 7,
+    "crum": 11,
+    "arcs": {
+      "dick_punch": 2,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "wNwqjB_M89E",
+    "date": "2025-01-14",
+    "title": "Hegseth Opening Remarks and Other News About Creeps",
+    "duration_seconds": 7274.819,
+    "duration_min": 121.2,
+    "score": 45,
+    "munch": 7,
+    "crum": 7,
+    "arcs": {
+      "dick_punch": 4,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "LDmLZfQMrs4",
+    "date": "2025-10-06",
+    "title": "Peace Deals? Maybe. Alien DNA? FOR SURE - it's NEWS",
+    "duration_seconds": 7486.561,
+    "duration_min": 124.8,
+    "score": 45,
+    "munch": 0,
+    "crum": 1,
+    "arcs": {
+      "beyblade": 3,
+      "skeleton": 3,
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "AjGj71o20Cs",
+    "date": "2025-12-09",
+    "title": "Monday News Slop",
+    "duration_seconds": 7779.407,
+    "duration_min": 129.7,
+    "score": 45,
+    "munch": 2,
+    "crum": 18,
+    "arcs": {
+      "dick_punch": 1,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "eVZvbJFawhA",
+    "date": "2024-12-23",
+    "title": "Grunchmas 2024",
+    "duration_seconds": 8853.543,
+    "duration_min": 147.6,
+    "score": 44,
+    "munch": 4,
+    "crum": 18,
+    "arcs": {},
+    "has_extraction": false
+  },
+  {
+    "vod_id": "zfeR83pG4xg",
+    "date": "2025-02-12",
+    "title": "Small Government Run by Large Babies, T-Shirt Site Down, and Pizza Perfume, it could be NEWS",
+    "duration_seconds": 8240.746,
+    "duration_min": 137.3,
+    "score": 44,
+    "munch": 4,
+    "crum": 7,
+    "arcs": {
+      "dick_punch": 5,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "lUV3sToI6Ts",
+    "date": "2025-08-23",
+    "title": "Newsical Fridays",
+    "duration_seconds": 8672.358,
+    "duration_min": 144.5,
+    "score": 44,
+    "munch": 6,
+    "crum": 14,
+    "arcs": {
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "KYt3i33Zq8c",
+    "date": "2023-12-02",
+    "title": "ChatGP-War, Young Thug Trial, an End to No Nut, it's NEWZZZ",
+    "duration_seconds": 6724.3376875,
+    "duration_min": 112.1,
+    "score": 43,
+    "munch": 8,
+    "crum": 9,
+    "arcs": {
+      "beyblade": 1,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "T-JFE6q_RJM",
+    "date": "2025-08-26",
+    "title": "Extra Guarded Monday News",
+    "duration_seconds": 7653.559,
+    "duration_min": 127.6,
+    "score": 43,
+    "munch": 5,
+    "crum": 12,
+    "arcs": {
+      "dick_punch": 2,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "tRl0VQfW80k",
+    "date": "2025-09-11",
+    "title": "Banning Boycotts, Shooter Searches, and Pantie Scrunchies, it's 9/11 NEWS",
+    "duration_seconds": 8786.693,
+    "duration_min": 146.4,
+    "score": 43,
+    "munch": 8,
+    "crum": 12,
+    "arcs": {
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "PN208UJ8iWk",
+    "date": "2025-10-31",
+    "title": "Banning Refugees, Evicting Princes, Mr Beast Banks, it's unfortunately NEWS",
+    "duration_seconds": 9600.413,
+    "duration_min": 160.0,
+    "score": 43,
+    "munch": 5,
+    "crum": 7,
+    "arcs": {
+      "dick_punch": 1,
+      "skeleton": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "X9GkWWdHAuE",
+    "date": "2026-01-07",
+    "title": "Seizing the Wednesday News",
+    "duration_seconds": 9545.887,
+    "duration_min": 159.1,
+    "score": 43,
+    "munch": 0,
+    "crum": 20,
+    "arcs": {
+      "gambling": 5
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "EDonZvzvWPg",
+    "date": "2026-04-14",
+    "title": "Unblocking the News",
+    "duration_seconds": 10437.493,
+    "duration_min": 174.0,
+    "score": 43,
+    "munch": 10,
+    "crum": 9,
+    "arcs": {
+      "gambling": 5
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "e7hY2_N6gVs",
+    "date": "2026-06-01",
+    "title": "Monday News Weaponization Inquiry",
+    "duration_seconds": 10891.2283125,
+    "duration_min": 181.5,
+    "score": 43,
+    "munch": 3,
+    "crum": 12,
+    "arcs": {
+      "dick_punch": 3,
+      "gambling": 1
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "wsw-paXfPp8",
+    "date": "2024-02-09",
+    "title": "All My Correspondents Called In Sick, but We Found Fill Ins!",
+    "duration_seconds": 7855.7296875,
+    "duration_min": 130.9,
+    "score": 41,
+    "munch": 5,
+    "crum": 12,
+    "arcs": {
+      "gambling": 7
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "cqOaGBONLxo",
+    "date": "2024-08-30",
+    "title": "Harris Says Things, Robots Do Things, Tamagotchi Eggs, all of that is NEWS we SWEAR",
+    "duration_seconds": 9251.789,
+    "duration_min": 154.2,
+    "score": 41,
+    "munch": 0,
+    "crum": 9,
+    "arcs": {
+      "dick_punch": 5,
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "Qkpp47pjBvw",
+    "date": "2025-10-09",
+    "title": "Ceasefires Hopefully Now, Chicago Deployments, and of course SLOP, it's NEWS",
+    "duration_seconds": 9485.487,
+    "duration_min": 158.1,
+    "score": 41,
+    "munch": 0,
+    "crum": 17,
+    "arcs": {
+      "dick_punch": 1,
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "2850985649",
+    "date": "2026-08-19",
+    "title": "Upsetting Wednesday News",
+    "duration_seconds": 9546.496,
+    "duration_min": 159.1,
+    "score": 41,
+    "munch": 1,
+    "crum": 18,
+    "arcs": {
+      "gambling": 3
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "uqwmNhOs5cA",
+    "date": "2024-04-03",
+    "title": "Resident Eviling",
+    "duration_seconds": 11816.3483125,
+    "duration_min": 196.9,
+    "score": 40,
+    "munch": 2,
+    "crum": 1,
+    "arcs": {
+      "beyblade": 4,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "tt3qCDlQkDs",
+    "date": "2024-09-25",
+    "title": "Escalations, Nail Conspiracies, New Nazcas, who what where NEWS",
+    "duration_seconds": 8818.507,
+    "duration_min": 147.0,
+    "score": 40,
+    "munch": 9,
+    "crum": 10,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "FsxuzX7kiUY",
+    "date": "2025-10-27",
+    "title": "Huge Deals? Sounds like Huge NEWS",
+    "duration_seconds": 9507.905,
+    "duration_min": 158.5,
+    "score": 40,
+    "munch": 10,
+    "crum": 7,
+    "arcs": {
+      "skeleton": 1,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "COg603HILZc",
+    "date": "2026-03-19",
+    "title": "The News Strikes Again",
+    "duration_seconds": 6344.488,
+    "duration_min": 105.7,
+    "score": 40,
+    "munch": 3,
+    "crum": 11,
+    "arcs": {
+      "dick_punch": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "FzHxojsvBmA",
+    "date": "2026-04-11",
+    "title": "Big Friday News Deals",
+    "duration_seconds": 9832.891,
+    "duration_min": 163.9,
+    "score": 40,
+    "munch": 1,
+    "crum": 15,
+    "arcs": {
+      "dick_punch": 1,
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "2840162096",
+    "date": "2026-08-08",
+    "title": "Friday News Slop",
+    "duration_seconds": 8995.712,
+    "duration_min": 149.9,
+    "score": 40,
+    "munch": 0,
+    "crum": 12,
+    "arcs": {
+      "dick_punch": 2,
+      "gambling": 8
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "MEdieUXyfBU",
+    "date": "2024-03-14",
+    "title": "End of the Beast Era? Boeing 187s Informant? Red Hitler Ranger? These are words that are NEWS",
+    "duration_seconds": 10403.0576875,
+    "duration_min": 173.4,
+    "score": 39,
+    "munch": 10,
+    "crum": 5,
+    "arcs": {
+      "skeleton": 1,
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "u_JKNMWWWnM",
+    "date": "2024-10-15",
+    "title": "Election Updates, US \"Threatens\" Military Aid, Currency Kicks and Twitch Bans,",
+    "duration_seconds": 5776.551,
+    "duration_min": 96.3,
+    "score": 39,
+    "munch": 4,
+    "crum": 12,
+    "arcs": {
+      "dick_punch": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "-iFXG_t-64Y",
+    "date": "2025-12-04",
+    "title": "Back in the News",
+    "duration_seconds": 8276.647,
+    "duration_min": 137.9,
+    "score": 39,
+    "munch": 1,
+    "crum": 7,
+    "arcs": {
+      "dick_punch": 3,
+      "beyblade": 1,
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "SFJ6YhAsL1w",
+    "date": "2023-11-28",
+    "title": "AI Articles Attack, Frozen Dicks Freeze, Disney Streaks, it's NEWS supposedly",
+    "duration_seconds": 7975.303,
+    "duration_min": 132.9,
+    "score": 38,
+    "munch": 2,
+    "crum": 12,
+    "arcs": {
+      "beyblade": 1,
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "glJgNb9ZUXU",
+    "date": "2024-02-02",
+    "title": "BioHacker NFTs, Shrinking Moons, Syphilis, and other diseases that NEWS",
+    "duration_seconds": 8725.4896875,
+    "duration_min": 145.4,
+    "score": 38,
+    "munch": 1,
+    "crum": 2,
+    "arcs": {
+      "beyblade": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "AJ5UbfIdQgg",
+    "date": "2024-09-11",
+    "title": "Derpbate Reactions, Musky Goes Swifty, and other things we say are NEWS",
+    "duration_seconds": 4114.861,
+    "duration_min": 68.6,
+    "score": 38,
+    "munch": 2,
+    "crum": 11,
+    "arcs": {
+      "dick_punch": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "jrkCVNxKeaE",
+    "date": "2025-05-17",
+    "title": "Bad Credit? No Problem! Apply for $Free$ NEWS today",
+    "duration_seconds": 11987.285,
+    "duration_min": 199.8,
+    "score": 38,
+    "munch": 3,
+    "crum": 1,
+    "arcs": {
+      "dick_punch": 5,
+      "skeleton": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "xrehBtgAXKQ",
+    "date": "2025-07-26",
+    "title": "Big Time Birthday Boys and Their Special Letters, it's NEWS",
+    "duration_seconds": 8726.878,
+    "duration_min": 145.4,
+    "score": 38,
+    "munch": 4,
+    "crum": 15,
+    "arcs": {
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "2-r8wLGmPcM",
+    "date": "2025-08-02",
+    "title": "Friday News Blast",
+    "duration_seconds": 9258.43,
+    "duration_min": 154.3,
+    "score": 38,
+    "munch": 9,
+    "crum": 6,
+    "arcs": {
+      "dick_punch": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "UcAZTjmALyg",
+    "date": "2025-11-13",
+    "title": "Return to News Mountain",
+    "duration_seconds": 7101.847,
+    "duration_min": 118.4,
+    "score": 38,
+    "munch": 4,
+    "crum": 15,
+    "arcs": {},
+    "has_extraction": false
+  },
+  {
+    "vod_id": "r0pO8W4TSDg",
+    "date": "2023-11-30",
+    "title": "Kissingrave, Masturbation World Record (unrelated), and Lethal Cream Company with Fi",
+    "duration_seconds": 11882.759,
+    "duration_min": 198.0,
+    "score": 37,
+    "munch": 3,
+    "crum": 15,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "BCW2rBdZf2A",
+    "date": "2024-04-25",
+    "title": "Protests, AI, and other words you KNOW are NEWS",
+    "duration_seconds": 7938.311,
+    "duration_min": 132.3,
+    "score": 37,
+    "munch": 7,
+    "crum": 9,
+    "arcs": {
+      "gambling": 5
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "0SjXgi9nwxo",
+    "date": "2024-07-30",
+    "title": "Olympic Check In, JD Vamping, and Skibidi Copyrights or SOMETHING that's NEWS",
+    "duration_seconds": 10265.973,
+    "duration_min": 171.1,
+    "score": 37,
+    "munch": 4,
+    "crum": 13,
+    "arcs": {
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "anGKbHGedtI",
+    "date": "2025-05-03",
+    "title": "Budgets, Screwworms, and Various People Yelling Things that are NEWS",
+    "duration_seconds": 4080.821,
+    "duration_min": 68.0,
+    "score": 37,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "dick_punch": 9,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "dBVRocpD_90",
+    "date": "2026-01-21",
+    "title": "Tuesday Newsday",
+    "duration_seconds": 8407.163,
+    "duration_min": 140.1,
+    "score": 37,
+    "munch": 6,
+    "crum": 12,
+    "arcs": {
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "KWzD34UnyBw",
+    "date": "2026-06-29",
+    "title": "America's Big Boy Birthday Week, it's NEWS",
+    "duration_seconds": 9097.4293125,
+    "duration_min": 151.6,
+    "score": 37,
+    "munch": 4,
+    "crum": 12,
+    "arcs": {
+      "skeleton": 1
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "nU9DEMPKhx8",
+    "date": "2024-04-10",
+    "title": "A.I. Learns New Music and Racism? Cicada Sex Zombies? Eclipse Nuts? All thiings that could be NEWS",
+    "duration_seconds": 8091.527,
+    "duration_min": 134.9,
+    "score": 36,
+    "munch": 5,
+    "crum": 13,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "e9mnunhp-gU",
+    "date": "2024-06-24",
+    "title": "Saduchidi Toilet Ring",
+    "duration_seconds": 13387.7616875,
+    "duration_min": 223.1,
+    "score": 36,
+    "munch": 9,
+    "crum": 0,
+    "arcs": {
+      "dick_punch": 4,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "pchDIXxcNXc",
+    "date": "2024-07-09",
+    "title": "Biden Time, AI Bullet Vending Machines, Gay Furry Hackers, all words equaling NEWS",
+    "duration_seconds": 9160.967,
+    "duration_min": 152.7,
+    "score": 36,
+    "munch": 1,
+    "crum": 8,
+    "arcs": {
+      "dick_punch": 4,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "y6Jef10kx78",
+    "date": "2026-03-03",
+    "title": "Woops, All War",
+    "duration_seconds": 9061.687,
+    "duration_min": 151.0,
+    "score": 36,
+    "munch": 2,
+    "crum": 16,
+    "arcs": {},
+    "has_extraction": false
+  },
+  {
+    "vod_id": "EfJcO_6LBxw",
+    "date": "2024-06-05",
+    "title": "Elden Things",
+    "duration_seconds": 9086.5136875,
+    "duration_min": 151.4,
+    "score": 35,
+    "munch": 6,
+    "crum": 12,
+    "arcs": {
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "7u44KkeZxfE",
+    "date": "2024-07-22",
+    "title": "Unburdened  by what has Biden and other things that are NEWS",
+    "duration_seconds": 10463.824,
+    "duration_min": 174.4,
+    "score": 35,
+    "munch": 0,
+    "crum": 5,
+    "arcs": {
+      "beyblade": 3,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "yogcHKthSsY",
+    "date": "2025-04-14",
+    "title": "Toilet News, from Deportations to Eggs",
+    "duration_seconds": 8950.022,
+    "duration_min": 149.2,
+    "score": 35,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "dick_punch": 7,
+      "skeleton": 1,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "3cgJ83uiRU4",
+    "date": "2024-05-31",
+    "title": "Felon Gives Rally, WWE Investigated, Ghost Poops Explained - all equally valid NEWS",
+    "duration_seconds": 11033.1803125,
+    "duration_min": 183.9,
+    "score": 34,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "dick_punch": 8,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "DoZg3h2hh0A",
+    "date": "2025-04-25",
+    "title": "Judge Judgement, Cowering to Foreign Powers, Sperm Race Previews, things that some call NEWS",
+    "duration_seconds": 9674.415,
+    "duration_min": 161.2,
+    "score": 34,
+    "munch": 3,
+    "crum": 8,
+    "arcs": {
+      "dick_punch": 2,
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "lZ9b1vOwa9w",
+    "date": "2025-09-18",
+    "title": "Quick Stream Before Patreon",
+    "duration_seconds": 6120.087,
+    "duration_min": 102.0,
+    "score": 34,
+    "munch": 3,
+    "crum": 5,
+    "arcs": {
+      "dick_punch": 1,
+      "beyblade": 1,
+      "gambling": 6
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "s8KIIY2Q8FI",
+    "date": "2025-10-18",
+    "title": "Leaky Friday News",
+    "duration_seconds": 9886.413,
+    "duration_min": 164.8,
+    "score": 34,
+    "munch": 2,
+    "crum": 12,
+    "arcs": {
+      "skeleton": 1,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "2817027458",
+    "date": "2026-07-11",
+    "title": "The News LIVES",
+    "duration_seconds": 10788.416,
+    "duration_min": 179.8,
+    "score": 34,
+    "munch": 1,
+    "crum": 12,
+    "arcs": {
+      "dick_punch": 2,
+      "gambling": 3
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "DECkFwVVSYo",
+    "date": "2025-04-18",
+    "title": "Immigration Contempt, Doppelganger Fails, and Various Types of Grappling, it's NEWSish",
+    "duration_seconds": 9949.084,
+    "duration_min": 165.8,
+    "score": 32,
+    "munch": 3,
+    "crum": 2,
+    "arcs": {
+      "dick_punch": 4,
+      "gambling": 6
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "2f8_nHwMAo4",
+    "date": "2024-02-07",
+    "title": "Drake Dicks, Apple Vision Dicks, Gina Carano Dicks? It's NEWS dicks",
+    "duration_seconds": 9197.0203125,
+    "duration_min": 153.3,
+    "score": 31,
+    "munch": 3,
+    "crum": 7,
+    "arcs": {
+      "skeleton": 2,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "HSrm1TmuL7c",
+    "date": "2025-09-10",
+    "title": "More Public Murder, it's Wednesday News",
+    "duration_seconds": 7303.147,
+    "duration_min": 121.7,
+    "score": 31,
+    "munch": 5,
+    "crum": 10,
+    "arcs": {
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "PwADgcTc4os",
+    "date": "2025-12-11",
+    "title": "Mid Week Newsery",
+    "duration_seconds": 7536.367,
+    "duration_min": 125.6,
+    "score": 31,
+    "munch": 3,
+    "crum": 9,
+    "arcs": {
+      "beyblade": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "RErv_n1vBKs",
+    "date": "2024-02-27",
+    "title": "Psychic Google, Wendy's Surge Pricing, Sony Un-stations Employees - NEWS? NEWS!",
+    "duration_seconds": 8376.7963125,
+    "duration_min": 139.6,
+    "score": 30,
+    "munch": 8,
+    "crum": 6,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "zV8vLxiWkLY",
+    "date": "2024-03-18",
+    "title": "Two Genitals, Two Boyfriends, Tucker Tricked, Trump Stuff Maybe? There's probably NEWS",
+    "duration_seconds": 8740.359,
+    "duration_min": 145.7,
+    "score": 30,
+    "munch": 4,
+    "crum": 7,
+    "arcs": {
+      "beyblade": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "h0joE2H03nQ",
+    "date": "2024-04-17",
+    "title": "Grimey Coachella, Israel Check In, We Can Talk to Whales? It's NEWS and/or SCIENCE?",
+    "duration_seconds": 7801.0523125,
+    "duration_min": 130.0,
+    "score": 30,
+    "munch": 5,
+    "crum": 10,
+    "arcs": {},
+    "has_extraction": false
+  },
+  {
+    "vod_id": "w0-O6PkI7ZA",
+    "date": "2024-08-07",
+    "title": "Walzing In, Trumping Streams, Xing Out of SF, NEWS WORDS",
+    "duration_seconds": 7254.199,
+    "duration_min": 120.9,
+    "score": 30,
+    "munch": 7,
+    "crum": 7,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "WUNFqfbcaPY",
+    "date": "2024-09-11",
+    "title": "Debate-orade 2024",
+    "duration_seconds": 8411.552,
+    "duration_min": 140.2,
+    "score": 30,
+    "munch": 6,
+    "crum": 9,
+    "arcs": {
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "K4yX3u2nfNg",
+    "date": "2026-05-14",
+    "title": "China News Maxing",
+    "duration_seconds": 6002.086,
+    "duration_min": 100.0,
+    "score": 30,
+    "munch": 2,
+    "crum": 13,
+    "arcs": {
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "5P3u9f8zacQ",
+    "date": "2024-01-19",
+    "title": "Fi's 12 Hour Cream Company",
+    "duration_seconds": 11645.127,
+    "duration_min": 194.1,
+    "score": 29,
+    "munch": 3,
+    "crum": 12,
+    "arcs": {},
+    "has_extraction": false
+  },
+  {
+    "vod_id": "A7LQDw79pv4",
+    "date": "2024-07-17",
+    "title": "Quick Stream Before Patreon",
+    "duration_seconds": 5054.407,
+    "duration_min": 84.2,
+    "score": 29,
+    "munch": 7,
+    "crum": 6,
+    "arcs": {
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "5TGwi0w3IUU",
+    "date": "2024-09-12",
+    "title": "No Country for Old Debates, How to Stay Calm, Bone Boners, is NEWS?",
+    "duration_seconds": 9749.926,
+    "duration_min": 162.5,
+    "score": 29,
+    "munch": 4,
+    "crum": 6,
+    "arcs": {
+      "dick_punch": 2,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "VR_30Y6cdLo",
+    "date": "2024-10-08",
+    "title": "Truth Social Scams, Super Perverts, Snakes Trends, it's curse NEWS",
+    "duration_seconds": 10485.744,
+    "duration_min": 174.8,
+    "score": 29,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "dick_punch": 7,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "PaeUZEwfgWA",
+    "date": "2026-03-27",
+    "title": "Newsing for the Weekend",
+    "duration_seconds": 6506.749,
+    "duration_min": 108.4,
+    "score": 29,
+    "munch": 2,
+    "crum": 5,
+    "arcs": {
+      "dick_punch": 2,
+      "skeleton": 1,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "JdY8XzYEq0g",
+    "date": "2026-04-22",
+    "title": "Indefinitely Firing Wednesday News",
+    "duration_seconds": 8807.359,
+    "duration_min": 146.8,
+    "score": 29,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "skeleton": 5,
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "dP22pTIQy60",
+    "date": "2026-06-19",
+    "title": "Quick Casual Friday SUPER NEWS",
+    "duration_seconds": 12914.631,
+    "duration_min": 215.2,
+    "score": 29,
+    "munch": 4,
+    "crum": 8,
+    "arcs": {
+      "dick_punch": 1,
+      "gambling": 1
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "1sdCfCqoVhU",
+    "date": "2024-07-25",
+    "title": "Netenyahu Stays Heel, Gets Cheered, Bodybuilder Marries Sex Doll, and other NEWS of VARYING QUALITY",
+    "duration_seconds": 7976.084,
+    "duration_min": 132.9,
+    "score": 28,
+    "munch": 6,
+    "crum": 6,
+    "arcs": {
+      "dick_punch": 1,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "ZUYyMjg_NiM",
+    "date": "2025-07-15",
+    "title": "Monday Icey Summer News",
+    "duration_seconds": 6753.229,
+    "duration_min": 112.6,
+    "score": 28,
+    "munch": 2,
+    "crum": 4,
+    "arcs": {
+      "dick_punch": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "OqJdz29iD1E",
+    "date": "2026-02-12",
+    "title": "Humpday Hump News",
+    "duration_seconds": 10398.228,
+    "duration_min": 173.3,
+    "score": 28,
+    "munch": 1,
+    "crum": 12,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "RzZ1eEUzOlI",
+    "date": "2026-04-29",
+    "title": "Senate Kegger Committee News",
+    "duration_seconds": 8975.495,
+    "duration_min": 149.6,
+    "score": 28,
+    "munch": 5,
+    "crum": 8,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "J8kzyFlpwEs",
+    "date": "2023-12-30",
+    "title": "Quick Friday Night Newzzz",
+    "duration_seconds": 5679.3243125,
+    "duration_min": 94.7,
+    "score": 27,
+    "munch": 2,
+    "crum": 12,
+    "arcs": {
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "-1KwRplR-y4",
+    "date": "2024-02-09",
+    "title": "Quick Thursday Stream",
+    "duration_seconds": 6708.423,
+    "duration_min": 111.8,
+    "score": 27,
+    "munch": 4,
+    "crum": 8,
+    "arcs": {
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "tb_paDxQs8k",
+    "date": "2024-03-26",
+    "title": "Diddy Raids, Neuralink Mario Kart, Twitch SEXIER than ever? That's GOTTA be NEWS",
+    "duration_seconds": 5167.943,
+    "duration_min": 86.1,
+    "score": 27,
+    "munch": 3,
+    "crum": 5,
+    "arcs": {
+      "beyblade": 1,
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "rebvXtyjddU",
+    "date": "2025-07-29",
+    "title": "Trade Deals and NEWS deals",
+    "duration_seconds": 5775.483,
+    "duration_min": 96.3,
+    "score": 27,
+    "munch": 4,
+    "crum": 9,
+    "arcs": {
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "gpAG0nhU010",
+    "date": "2025-10-20",
+    "title": "Protests, Ceasefire Violations, and Presidential Slop, it's NEWS",
+    "duration_seconds": 6127.288,
+    "duration_min": 102.1,
+    "score": 27,
+    "munch": 1,
+    "crum": 0,
+    "arcs": {
+      "beyblade": 3,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "qhs3w6PiUhE",
+    "date": "2026-04-06",
+    "title": "Big Time Swear News",
+    "duration_seconds": 9439.29,
+    "duration_min": 157.3,
+    "score": 27,
+    "munch": 2,
+    "crum": 4,
+    "arcs": {
+      "dick_punch": 3,
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "xoa7A8METtc",
+    "date": "2024-06-13",
+    "title": "Cooking with Jeb and NEWS?",
+    "duration_seconds": 11171.975,
+    "duration_min": 186.2,
+    "score": 26,
+    "munch": 8,
+    "crum": 3,
+    "arcs": {
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "vBKCAfftuU0",
+    "date": "2026-06-22",
+    "title": "Don't Kier the Reaper, it's MONDAY NEWS",
+    "duration_seconds": 8301.9163125,
+    "duration_min": 138.4,
+    "score": 26,
+    "munch": 1,
+    "crum": 5,
+    "arcs": {
+      "dick_punch": 2,
+      "gambling": 2
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "pT3Onoz9sFg",
+    "date": "2025-01-15",
+    "title": "Ceasefire Now? Tiktok Bans, Maybe Drake for Some Reason",
+    "duration_seconds": 8590.81,
+    "duration_min": 143.2,
+    "score": 25,
+    "munch": 0,
+    "crum": 1,
+    "arcs": {
+      "dick_punch": 4,
+      "skeleton": 1,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "SnZ46D_gvYQ",
+    "date": "2025-12-24",
+    "title": "Deck the News with Awful Stories",
+    "duration_seconds": 10160.084,
+    "duration_min": 169.3,
+    "score": 25,
+    "munch": 3,
+    "crum": 6,
+    "arcs": {
+      "gambling": 7
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "aZ7QTVhih-E",
+    "date": "2026-03-20",
+    "title": "Bonking the News",
+    "duration_seconds": 8768.837,
+    "duration_min": 146.1,
+    "score": 25,
+    "munch": 2,
+    "crum": 5,
+    "arcs": {
+      "dick_punch": 2,
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "1wvNi-9f-rM",
+    "date": "2024-02-15",
+    "title": "Delta In Flight Maggots, Gaza Horror Check In, Super Wolves? It's Two Dumb NEWS and a real NEWS",
+    "duration_seconds": 9487.367,
+    "duration_min": 158.1,
+    "score": 24,
+    "munch": 0,
+    "crum": 4,
+    "arcs": {
+      "dick_punch": 1,
+      "skeleton": 2,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "9wnqHcUCbY8",
+    "date": "2024-05-02",
+    "title": "Biden Says Things, X-Men Mansion For Rent, Armpit Balls, it's NEWZ (news)",
+    "duration_seconds": 7441.031,
+    "duration_min": 124.0,
+    "score": 24,
+    "munch": 5,
+    "crum": 7,
+    "arcs": {},
+    "has_extraction": false
+  },
+  {
+    "vod_id": "uAGQr9nE2dM",
+    "date": "2025-11-27",
+    "title": "The Most Thankfull News",
+    "duration_seconds": 6990.167,
+    "duration_min": 116.5,
+    "score": 24,
+    "munch": 0,
+    "crum": 11,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "Pl_x_zUaUA0",
+    "date": "2026-02-26",
+    "title": "State of the Newsing",
+    "duration_seconds": 8887.561,
+    "duration_min": 148.1,
+    "score": 24,
+    "munch": 2,
+    "crum": 4,
+    "arcs": {
+      "dick_punch": 2,
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "oSU1CPtwZFQ",
+    "date": "2026-02-28",
+    "title": "Gotta Catch MORE news",
+    "duration_seconds": 7245.561,
+    "duration_min": 120.8,
+    "score": 24,
+    "munch": 1,
+    "crum": 11,
+    "arcs": {},
+    "has_extraction": false
+  },
+  {
+    "vod_id": "I3QmBKyhrJU",
+    "date": "2024-05-30",
+    "title": "All Extra Thumbs, Google Leaks, Used Water Bottle Give Away, things that could be NEWS",
+    "duration_seconds": 5559.4523125,
+    "duration_min": 92.7,
+    "score": 23,
+    "munch": 4,
+    "crum": 4,
+    "arcs": {
+      "skeleton": 1,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "kL40NJ8Av5o",
+    "date": "2024-07-15",
+    "title": "Call Kass - Testing the Lines",
+    "duration_seconds": 5202.375,
+    "duration_min": 86.7,
+    "score": 23,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "dick_punch": 5,
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "S_eRFD6zrto",
+    "date": "2024-09-20",
+    "title": "Diddy, Drones, and Dicks - the usual NEWS",
+    "duration_seconds": 14654.213,
+    "duration_min": 244.2,
+    "score": 23,
+    "munch": 2,
+    "crum": 7,
+    "arcs": {
+      "dick_punch": 1,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "RVFbjH-_kJI",
+    "date": "2025-01-17",
+    "title": "Tik, Tik, Ban, Ceasfeire Still Hopefully Now, and a Man with No Hole",
+    "duration_seconds": 8271.558,
+    "duration_min": 137.9,
+    "score": 23,
+    "munch": 2,
+    "crum": 5,
+    "arcs": {
+      "dick_punch": 1,
+      "skeleton": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "VrnjwHYHoLM",
+    "date": "2025-05-23",
+    "title": "Fed Judge Blocks, AI Slop, the NEWS can't stop",
+    "duration_seconds": 11416.353,
+    "duration_min": 190.3,
+    "score": 23,
+    "munch": 0,
+    "crum": 1,
+    "arcs": {
+      "dick_punch": 5,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "2819383717",
+    "date": "2026-07-13",
+    "title": "The Brave New News of Gerontocromancy",
+    "duration_seconds": 7129.1733125,
+    "duration_min": 118.8,
+    "score": 23,
+    "munch": 0,
+    "crum": 9,
+    "arcs": {
+      "dick_punch": 1,
+      "gambling": 1
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "2846389025",
+    "date": "2026-08-14",
+    "title": "The Guiltiest Friday News",
+    "duration_seconds": 5894.0373125,
+    "duration_min": 98.2,
+    "score": 23,
+    "munch": 0,
+    "crum": 4,
+    "arcs": {
+      "gambling": 15
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "cx5fBPbLfBQ",
+    "date": "2024-01-05",
+    "title": "Logan Bought a Cryptozoo, Self Love, Blah Blah Trump, it's NEWS",
+    "duration_seconds": 7689.799,
+    "duration_min": 128.2,
+    "score": 22,
+    "munch": 7,
+    "crum": 4,
+    "arcs": {},
+    "has_extraction": false
+  },
+  {
+    "vod_id": "G1zqyb8N25Q",
+    "date": "2024-01-13",
+    "title": "Para-Sale, AI So Special, Trump Paying Lib Service - NEWS!?",
+    "duration_seconds": 8615.9643125,
+    "duration_min": 143.6,
+    "score": 22,
+    "munch": 6,
+    "crum": 3,
+    "arcs": {
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "NKxQg3CrVcA",
+    "date": "2024-02-01",
+    "title": "Quick News Stream Before Patreon",
+    "duration_seconds": 3806.7056875,
+    "duration_min": 63.4,
+    "score": 22,
+    "munch": 1,
+    "crum": 8,
+    "arcs": {
+      "dick_punch": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "eQke2XEk47g",
+    "date": "2026-01-17",
+    "title": "Newsing for the Weekend",
+    "duration_seconds": 9020.367,
+    "duration_min": 150.3,
+    "score": 22,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "dick_punch": 1,
+      "beyblade": 1,
+      "skeleton": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "h48FA_yrQs0",
+    "date": "2024-04-04",
+    "title": "Actual Calls for Ceasfire? AI Survivor Contestant? Invisibility Shields? it is NEWS?",
+    "duration_seconds": 10692.8923125,
+    "duration_min": 178.2,
+    "score": 21,
+    "munch": 2,
+    "crum": 8,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "ZFkYtTUot-E",
+    "date": "2024-06-18",
+    "title": "Nohm Lives? Armie Hammers Back? Space Catapluts? All things that COULD be NEWS",
+    "duration_seconds": 10215.5163125,
+    "duration_min": 170.3,
+    "score": 21,
+    "munch": 3,
+    "crum": 7,
+    "arcs": {
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "VmIPtNAei-U",
+    "date": "2024-09-06",
+    "title": "Weird Interviews, Dis Retrun, Dis Week's NEWS",
+    "duration_seconds": 8474.919,
+    "duration_min": 141.2,
+    "score": 21,
+    "munch": 5,
+    "crum": 6,
+    "arcs": {},
+    "has_extraction": false
+  },
+  {
+    "vod_id": "SUbhyRiToyQ",
+    "date": "2023-12-12",
+    "title": "Some News then Some Company",
+    "duration_seconds": 6740.4016875,
+    "duration_min": 112.3,
+    "score": 20,
+    "munch": 5,
+    "crum": 5,
+    "arcs": {
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "yhUQMRD9TBk",
+    "date": "2025-07-24",
+    "title": "Pedophiles, Starvation, and Hunter Biden, Possibly Not in That Order, it's Unfortunately News",
+    "duration_seconds": 10807.767,
+    "duration_min": 180.1,
+    "score": 20,
+    "munch": 1,
+    "crum": 4,
+    "arcs": {
+      "dick_punch": 2,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "zciy_BD7_jY",
+    "date": "2026-05-21",
+    "title": "More Massive News Filings",
+    "duration_seconds": 6264.031,
+    "duration_min": 104.4,
+    "score": 20,
+    "munch": 1,
+    "crum": 2,
+    "arcs": {
+      "dick_punch": 3,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "WSjFvY_g9tU",
+    "date": "2024-03-21",
+    "title": "Exercise Pills that Work? Kota-K.O.? Apple Bad? It's NUUUS (news)",
+    "duration_seconds": 5793.0736875,
+    "duration_min": 96.6,
+    "score": 19,
+    "munch": 5,
+    "crum": 4,
+    "arcs": {
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "soY-oCZN8NY",
+    "date": "2025-03-25",
+    "title": "Leaks, Election \"Tweaks,\" and Various Freaks, it's NEWS maybe",
+    "duration_seconds": 9737.295,
+    "duration_min": 162.3,
+    "score": 19,
+    "munch": 3,
+    "crum": 0,
+    "arcs": {
+      "dick_punch": 3,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "Di1lVisrU3Y",
+    "date": "2025-05-14",
+    "title": "Trump Around The World, Biden Burns, Chimp Cleaning, it's all the NEWS",
+    "duration_seconds": 9066.285,
+    "duration_min": 151.1,
+    "score": 18,
+    "munch": 1,
+    "crum": 1,
+    "arcs": {
+      "dick_punch": 3,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "PLRIFcPURHo",
+    "date": "2024-04-29",
+    "title": "Seinfelding, Porn Solves Mysteries, Monkeys Attack, it's... NEWS?",
+    "duration_seconds": 7597.895,
+    "duration_min": 126.6,
+    "score": 17,
+    "munch": 4,
+    "crum": 3,
+    "arcs": {
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "VXbo679vgzo",
+    "date": "2024-05-23",
+    "title": "Quick How To Stream Before Patreon",
+    "duration_seconds": 3292.7856875,
+    "duration_min": 54.9,
+    "score": 17,
+    "munch": 2,
+    "crum": 6,
+    "arcs": {
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "W5B5IJS_MmI",
+    "date": "2024-07-31",
+    "title": "Trump Tantrums, Eels in Special Places, Boycots Work? It's NEWS MAYBE",
+    "duration_seconds": 7555.919,
+    "duration_min": 125.9,
+    "score": 17,
+    "munch": 2,
+    "crum": 0,
+    "arcs": {
+      "dick_punch": 3,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "r_f4NEI06Dk",
+    "date": "2025-12-16",
+    "title": "Peaking Hard",
+    "duration_seconds": 8428.103,
+    "duration_min": 140.5,
+    "score": 17,
+    "munch": 2,
+    "crum": 0,
+    "arcs": {
+      "dick_punch": 3,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "HQATAA2cFZA",
+    "date": "2026-03-06",
+    "title": "Quick Stream Before Patreon",
+    "duration_seconds": 5339.552,
+    "duration_min": 89.0,
+    "score": 17,
+    "munch": 0,
+    "crum": 8,
+    "arcs": {
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "2821762273",
+    "date": "2026-07-16",
+    "title": "Quick Stream Before Patreon",
+    "duration_seconds": 4773.0346875,
+    "duration_min": 79.6,
+    "score": 17,
+    "munch": 2,
+    "crum": 2,
+    "arcs": {
+      "dick_punch": 2,
+      "gambling": 1
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "2828248065",
+    "date": "2026-07-24",
+    "title": "Patreon in One Hour",
+    "duration_seconds": 4541.8666875,
+    "duration_min": 75.7,
+    "score": 17,
+    "munch": 0,
+    "crum": 2,
+    "arcs": {
+      "dick_punch": 1,
+      "beyblade": 1,
+      "gambling": 1
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "uon0frZHI5U",
+    "date": "2024-04-19",
+    "title": "Fallout Boy Meets World",
+    "duration_seconds": 15660.7643125,
+    "duration_min": 261.0,
+    "score": 16,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "skeleton": 2,
+      "gambling": 6
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "aNR6303s4XA",
+    "date": "2024-06-11",
+    "title": "Elden Things",
+    "duration_seconds": 8617.4576875,
+    "duration_min": 143.6,
+    "score": 16,
+    "munch": 0,
+    "crum": 8,
+    "arcs": {},
+    "has_extraction": false
+  },
+  {
+    "vod_id": "TcrjeRJrOwI",
+    "date": "2024-10-22",
+    "title": "Call Kass",
+    "duration_seconds": 6431.888,
+    "duration_min": 107.2,
+    "score": 16,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "dick_punch": 2,
+      "gambling": 8
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "lgeM5Hpl3Io",
+    "date": "2025-11-15",
+    "title": "Friday News Slop",
+    "duration_seconds": 9280.087,
+    "duration_min": 154.7,
+    "score": 16,
+    "munch": 3,
+    "crum": 4,
+    "arcs": {
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "qV6OVgUibSA",
+    "date": "2026-01-06",
+    "title": "Happy News Year Redux",
+    "duration_seconds": 7624.813,
+    "duration_min": 127.1,
+    "score": 16,
+    "munch": 4,
+    "crum": 2,
+    "arcs": {
+      "dick_punch": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "CRhSlHwpnFk",
+    "date": "2026-05-22",
+    "title": "Resigned to the NEWS",
+    "duration_seconds": 8973.474,
+    "duration_min": 149.6,
+    "score": 16,
+    "munch": 1,
+    "crum": 7,
+    "arcs": {
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "bUgo6CtCkHU",
+    "date": "2023-12-19",
+    "title": "Solo Company (unless I make friends or Kendelle wakes up)",
+    "duration_seconds": 16506.8443125,
+    "duration_min": 275.1,
+    "score": 15,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "skeleton": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "Iu514jPE85o",
+    "date": "2024-08-08",
+    "title": "VP On Me, Worst Face Mask Yet, Pets Grieve? It's NEW(s)!",
+    "duration_seconds": 7965.682,
+    "duration_min": 132.8,
+    "score": 15,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "dick_punch": 3,
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "7bPx-GV5ug4",
+    "date": "2026-01-27",
+    "title": "Case of the Mondays",
+    "duration_seconds": 9328.949,
+    "duration_min": 155.5,
+    "score": 15,
+    "munch": 0,
+    "crum": 1,
+    "arcs": {
+      "dick_punch": 3,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "Gkz3_2sLS-0",
+    "date": "2024-05-01",
+    "title": "Protests, Rock Bottles of Urine, and Schneider Returns, GOD help us it's NEWS",
+    "duration_seconds": 6727.303,
+    "duration_min": 112.1,
+    "score": 14,
+    "munch": 3,
+    "crum": 3,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "uwiOWIwdchc",
+    "date": "2025-07-18",
+    "title": "Quick Stream Before Patreon",
+    "duration_seconds": 2657.809,
+    "duration_min": 44.3,
+    "score": 14,
+    "munch": 3,
+    "crum": 2,
+    "arcs": {
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "qUBM5HE-dOU",
+    "date": "2026-02-14",
+    "title": "Friday News Guy",
+    "duration_seconds": 7406.22,
+    "duration_min": 123.4,
+    "score": 14,
+    "munch": 2,
+    "crum": 2,
+    "arcs": {
+      "dick_punch": 1,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "xHkqXfqP8Ng",
+    "date": "2024-08-20",
+    "title": "DNCU This Tuesday, Disney Super Streaming Blocked, GamesCom All Over Me, NEWZZZ",
+    "duration_seconds": 10417.245,
+    "duration_min": 173.6,
+    "score": 13,
+    "munch": 0,
+    "crum": 4,
+    "arcs": {
+      "gambling": 5
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "rF7Aow8Vu7U",
+    "date": "2025-12-13",
+    "title": "Friday Newsend",
+    "duration_seconds": 7572.615,
+    "duration_min": 126.2,
+    "score": 13,
+    "munch": 3,
+    "crum": 3,
+    "arcs": {
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "_yLP5yrqUDk",
+    "date": "2026-01-24",
+    "title": "TGIF (This Guy is FingNews)",
+    "duration_seconds": 9706.482,
+    "duration_min": 161.8,
+    "score": 13,
+    "munch": 0,
+    "crum": 5,
+    "arcs": {
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "avYCesK1H4w",
+    "date": "2023-12-14",
+    "title": "Quick News then Lethal Company",
+    "duration_seconds": 3040.9883125,
+    "duration_min": 50.7,
+    "score": 12,
+    "munch": 0,
+    "crum": 5,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "9vl7XeeEkDo",
+    "date": "2024-04-20",
+    "title": "Fallout Boy Meets More World",
+    "duration_seconds": 13078.8336875,
+    "duration_min": 218.0,
+    "score": 12,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "skeleton": 2,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "x1qwIP-JW14",
+    "date": "2025-01-31",
+    "title": "Air Disasters Now \"Woke,\" Health Now Bad, And Robots Now Running Marathons, it's news so it's BAD",
+    "duration_seconds": 13182.741,
+    "duration_min": 219.7,
+    "score": 12,
+    "munch": 1,
+    "crum": 2,
+    "arcs": {
+      "dick_punch": 1,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "0wPpJKn5-yI",
+    "date": "2025-03-07",
+    "title": "Government Backed Crypto and AI Slop, Solid Light, Hackman Details, it's NEWS(lop)",
+    "duration_seconds": 10145.607,
+    "duration_min": 169.1,
+    "score": 12,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "dick_punch": 2,
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "bM-ExBaJ3CM",
+    "date": "2026-04-15",
+    "title": "Midweek Middling News",
+    "duration_seconds": 10222.824,
+    "duration_min": 170.4,
+    "score": 12,
+    "munch": 2,
+    "crum": 3,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "6-Ej6m49W-w",
+    "date": "2026-04-21",
+    "title": "News Minus 30 Scrum Minutes",
+    "duration_seconds": 9321.356,
+    "duration_min": 155.4,
+    "score": 12,
+    "munch": 1,
+    "crum": 3,
+    "arcs": {
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "1L6MvGwPUkY",
+    "date": "2026-06-05",
+    "title": "Casual Friday News",
+    "duration_seconds": 11058.759,
+    "duration_min": 184.3,
+    "score": 12,
+    "munch": 0,
+    "crum": 6,
+    "arcs": {},
+    "has_extraction": true
+  },
+  {
+    "vod_id": "zCMUbRg0dnw",
+    "date": "2024-08-07",
+    "title": "Corpse Train, Missing Bluey Lil Hog Watch, all the NEWS that is IMPORTANT",
+    "duration_seconds": 7984.207,
+    "duration_min": 133.1,
+    "score": 11,
+    "munch": 1,
+    "crum": 0,
+    "arcs": {
+      "dick_punch": 2,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "seFq3PZAeSU",
+    "date": "2025-08-16",
+    "title": "Friday News To Diplomacy To",
+    "duration_seconds": 9797.295,
+    "duration_min": 163.3,
+    "score": 11,
+    "munch": 0,
+    "crum": 2,
+    "arcs": {
+      "dick_punch": 1,
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "GIpN8hsz3vI",
+    "date": "2023-12-31",
+    "title": "Case and Kendelle Company",
+    "duration_seconds": 20900.8496875,
+    "duration_min": 348.3,
+    "score": 10,
+    "munch": 2,
+    "crum": 2,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "zLRcxwKGlK0",
+    "date": "2024-06-07",
+    "title": "Elden Things",
+    "duration_seconds": 2413.383,
+    "duration_min": 40.2,
+    "score": 10,
+    "munch": 2,
+    "crum": 3,
+    "arcs": {},
+    "has_extraction": false
+  },
+  {
+    "vod_id": "T3RADQKZmmM",
+    "date": "2025-01-22",
+    "title": "News by Executive Order",
+    "duration_seconds": 9376.225,
+    "duration_min": 156.3,
+    "score": 10,
+    "munch": 1,
+    "crum": 4,
+    "arcs": {},
+    "has_extraction": false
+  },
+  {
+    "vod_id": "kJeIy_NAPyY",
+    "date": "2025-07-25",
+    "title": "Quick Stream Before Patreon",
+    "duration_seconds": 3518.8763125,
+    "duration_min": 58.6,
+    "score": 10,
+    "munch": 1,
+    "crum": 1,
+    "arcs": {
+      "dick_punch": 1,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "75I8_0lBL-Q",
+    "date": "2026-02-10",
+    "title": "The All American News Time Show",
+    "duration_seconds": 7881.022,
+    "duration_min": 131.4,
+    "score": 10,
+    "munch": 2,
+    "crum": 3,
+    "arcs": {},
+    "has_extraction": false
+  },
+  {
+    "vod_id": "GJ46ADmIPkU",
+    "date": "2023-12-27",
+    "title": "Post Christmas Company",
+    "duration_seconds": 16445.831,
+    "duration_min": 274.1,
+    "score": 9,
+    "munch": 1,
+    "crum": 0,
+    "arcs": {
+      "gambling": 7
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "LWcsZ959nlY",
+    "date": "2023-11-23",
+    "title": "Macy's Day Parade - LIVE! (probably",
+    "duration_seconds": 8060.1883125,
+    "duration_min": 134.3,
+    "score": 8,
+    "munch": 0,
+    "crum": 1,
+    "arcs": {
+      "skeleton": 1,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "neIV8euk8Rs",
+    "date": "2024-06-19",
+    "title": "Elden Kings",
+    "duration_seconds": 4724.3803125,
+    "duration_min": 78.7,
+    "score": 8,
+    "munch": 1,
+    "crum": 0,
+    "arcs": {
+      "skeleton": 1,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "IASWTtRIhPU",
+    "date": "2024-10-22",
+    "title": "Abercrombie and... Other Stuff, Lunchlumps, Rudy Starts No Nut Early",
+    "duration_seconds": 2239.618,
+    "duration_min": 37.3,
+    "score": 8,
+    "munch": 1,
+    "crum": 3,
+    "arcs": {},
+    "has_extraction": false
+  },
+  {
+    "vod_id": "e-EdPY6nm1k",
+    "date": "2024-11-06",
+    "title": "Quick Detox Stream",
+    "duration_seconds": 2501.957,
+    "duration_min": 41.7,
+    "score": 8,
+    "munch": 0,
+    "crum": 4,
+    "arcs": {},
+    "has_extraction": false
+  },
+  {
+    "vod_id": "sN3u0466Bdc",
+    "date": "2025-04-03",
+    "title": "REPO Mens 2",
+    "duration_seconds": 13689.145,
+    "duration_min": 228.2,
+    "score": 8,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "skeleton": 1,
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "Q994QG9CwLk",
+    "date": "2023-12-29",
+    "title": "Post Christmas Company",
+    "duration_seconds": 13136.8176875,
+    "duration_min": 218.9,
+    "score": 7,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "skeleton": 1,
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "Ebd0mok8B9w",
+    "date": "2025-07-12",
+    "title": "Quick, Late and Dirty Friday Newsday",
+    "duration_seconds": 8537.218,
+    "duration_min": 142.3,
+    "score": 7,
+    "munch": 0,
+    "crum": 2,
+    "arcs": {
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "vm0IHEvByp4",
+    "date": "2025-10-10",
+    "title": "Nobel Piece o Prize, Mass Firings, and Other NEWS to Grind Your Teeth",
+    "duration_seconds": 9061.757,
+    "duration_min": 151.0,
+    "score": 7,
+    "munch": 1,
+    "crum": 0,
+    "arcs": {
+      "dick_punch": 1,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "Rc2Qh2cwt7s",
+    "date": "2024-01-09",
+    "title": "The Great Lethal Off! Crushing @missginadarling & @ovileemay w/ team @fionanova & @kassemg",
+    "duration_seconds": 19019.8256875,
+    "duration_min": 317.0,
+    "score": 6,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "skeleton": 1,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "6IEUkP-sdKk",
+    "date": "2024-03-27",
+    "title": "News and Science Guys who are Chet",
+    "duration_seconds": 4272.6896875,
+    "duration_min": 71.2,
+    "score": 6,
+    "munch": 1,
+    "crum": 2,
+    "arcs": {},
+    "has_extraction": false
+  },
+  {
+    "vod_id": "ydph_OLqsMA",
+    "date": "2024-04-30",
+    "title": "Fallout Boy 4",
+    "duration_seconds": 6640.6256875,
+    "duration_min": 110.7,
+    "score": 6,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "skeleton": 1,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "F1_w2rz1nzU",
+    "date": "2025-09-13",
+    "title": "Finders Killers, it's Friday NEWS",
+    "duration_seconds": 11982.293,
+    "duration_min": 199.7,
+    "score": 6,
+    "munch": 0,
+    "crum": 1,
+    "arcs": {
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "jub4zuwY84Q",
+    "date": "2024-09-13",
+    "title": "AI Box People, Nobel Butt Winners, Trump Continues to Say Words, NEWS they say",
+    "duration_seconds": 7940.233,
+    "duration_min": 132.3,
+    "score": 5,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "dick_punch": 1,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "BY_MRZxBMfQ",
+    "date": "2024-10-01",
+    "title": "Escalation Minus the De, VP Debate Preview, Fat Bear Delays, all of it IMPORTANT NEWS",
+    "duration_seconds": 9595.142,
+    "duration_min": 159.9,
+    "score": 5,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "dick_punch": 1,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "D8b8PO1BeYE",
+    "date": "2025-01-08",
+    "title": "The Hottest News Straight From LA",
+    "duration_seconds": 6806.031,
+    "duration_min": 113.4,
+    "score": 5,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "dick_punch": 1,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "LDyh9LWX4M8",
+    "date": "2025-02-01",
+    "title": "Bubble Trent",
+    "duration_seconds": 9464.762,
+    "duration_min": 157.7,
+    "score": 5,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 5
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "TO4P1HEL4gY",
+    "date": "2026-03-14",
+    "title": "Late Night Workouts",
+    "duration_seconds": 6086.212,
+    "duration_min": 101.4,
+    "score": 5,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "dick_punch": 1,
+      "gambling": 1
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "IZKfjXcfU6U",
+    "date": "2026-04-09",
+    "title": "Unceasing News",
+    "duration_seconds": 7409.727,
+    "duration_min": 123.5,
+    "score": 5,
+    "munch": 0,
+    "crum": 1,
+    "arcs": {
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "h3RpC3MAvRg",
+    "date": "2024-04-16",
+    "title": "Fountain of Youth is... Salmon Sperm, The Inevitable Wonka 2, Cybertucking Along, it's phrases th\u2026",
+    "duration_seconds": 9518.6416875,
+    "duration_min": 158.6,
+    "score": 4,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "4TOTdj1zvR8",
+    "date": "2024-04-23",
+    "title": "Town Hall Tuesday",
+    "duration_seconds": 7627.143,
+    "duration_min": 127.1,
+    "score": 4,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "kJZLdk_8IjA",
+    "date": "2024-05-23",
+    "title": "Queer Rock Peering with @fionanova",
+    "duration_seconds": 5879.6656875,
+    "duration_min": 98.0,
+    "score": 4,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 4
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "a5A5FfhhehU",
+    "date": "2023-12-11",
+    "title": "Sunday Lethaling With Some Comapny",
+    "duration_seconds": 21146.503,
+    "duration_min": 352.4,
+    "score": 3,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "oHJXJu3AtmE",
+    "date": "2024-02-19",
+    "title": "Cream Team Dream(ish) Stream - presented by Hart Audio",
+    "duration_seconds": 4133.3616875,
+    "duration_min": 68.9,
+    "score": 3,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "aycH2A_URvI",
+    "date": "2024-05-03",
+    "title": "Fallout Boy Kills More Wild",
+    "duration_seconds": 8801.2016875,
+    "duration_min": 146.7,
+    "score": 3,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "QxjjWzyqJ-c",
+    "date": "2025-06-09",
+    "title": "Protests, Float Interceptions, Warner Undiscovers, it's NEWS they say",
+    "duration_seconds": 8068.407,
+    "duration_min": 134.5,
+    "score": 3,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 3
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "2827427766",
+    "date": "2026-07-23",
+    "title": "No Patreon today News Stream",
+    "duration_seconds": 8294.272,
+    "duration_min": 138.2,
+    "score": 3,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 3
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "4X5ZdimKD-w",
+    "date": "2023-12-05",
+    "title": "Lethal Cream Company",
+    "duration_seconds": 7369.4576875,
+    "duration_min": 122.8,
+    "score": 2,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "i1Acx1I0wY8",
+    "date": "2023-12-15",
+    "title": "Lethal Cream Company",
+    "duration_seconds": 19684.423,
+    "duration_min": 328.1,
+    "score": 2,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "e1eUXUDvw_8",
+    "date": "2024-01-18",
+    "title": "Phasmofionanova",
+    "duration_seconds": 4728.6896875,
+    "duration_min": 78.8,
+    "score": 2,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "NZA7xxMYLvI",
+    "date": "2024-01-20",
+    "title": "Late Night Lethal Modity",
+    "duration_seconds": 12118.1723125,
+    "duration_min": 202.0,
+    "score": 2,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "i6D48dIRi0w",
+    "date": "2024-03-28",
+    "title": "News and Science Guys who are Chet",
+    "duration_seconds": 7598.471,
+    "duration_min": 126.6,
+    "score": 2,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "qXdCdu7z8oA",
+    "date": "2024-03-29",
+    "title": "Finally Beating RE4 (got my CIA job back)",
+    "duration_seconds": 7870.8336875,
+    "duration_min": 131.2,
+    "score": 2,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "-7SyMp1VkMM",
+    "date": "2024-04-13",
+    "title": "Back in the Resident",
+    "duration_seconds": 11216.3696875,
+    "duration_min": 186.9,
+    "score": 2,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "QLZ92dLvCM8",
+    "date": "2024-04-24",
+    "title": "Fallout Boy MEAT world",
+    "duration_seconds": 10372.9776875,
+    "duration_min": 172.9,
+    "score": 2,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "lKKl55DZCBw",
+    "date": "2024-05-09",
+    "title": "Fallout Boy Rides Again",
+    "duration_seconds": 13662.4923125,
+    "duration_min": 227.7,
+    "score": 2,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "sdLobXg05Gg",
+    "date": "2024-06-10",
+    "title": "Elden Things - Becoming More Notorious",
+    "duration_seconds": 15125.831,
+    "duration_min": 252.1,
+    "score": 2,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "EJqH1B8lTec",
+    "date": "2024-06-25",
+    "title": "Elden Skadoooo",
+    "duration_seconds": 9583.6656875,
+    "duration_min": 159.7,
+    "score": 2,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "7JAGG7LYYUk",
+    "date": "2024-08-27",
+    "title": "Nightly News",
+    "duration_seconds": 5218.088,
+    "duration_min": 87.0,
+    "score": 2,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "oesp62SYzbk",
+    "date": "2025-01-27",
+    "title": "Deepseeking a friend, Cabinet Confirmation Bias, Future Dicks, wat is a news?",
+    "duration_seconds": 11030.878,
+    "duration_min": 183.8,
+    "score": 2,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "Renj5SaVQLY",
+    "date": "2025-04-05",
+    "title": "Repo Madness",
+    "duration_seconds": 12430.949,
+    "duration_min": 207.2,
+    "score": 2,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  },
+  {
+    "vod_id": "J1ps8ZZNOjs",
+    "date": "2026-04-27",
+    "title": "Monday Newsway",
+    "duration_seconds": 7275.213,
+    "duration_min": 121.3,
+    "score": 2,
+    "munch": 0,
+    "crum": 0,
+    "arcs": {
+      "gambling": 2
+    },
+    "has_extraction": false
+  }
+]

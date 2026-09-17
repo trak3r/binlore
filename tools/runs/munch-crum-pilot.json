@@ -1,0 +1,183 @@
+[
+  {
+    "vod_id": "d_n98PLCE6A",
+    "date": "2026-06-27",
+    "title": "Lil Friday Newses",
+    "duration_seconds": 6604.16,
+    "duration_min": 110.1,
+    "score": 106,
+    "munch": 2,
+    "crum": 29,
+    "arcs": {
+      "dick_punch": 5,
+      "skeleton": 3,
+      "gambling": 1
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "KWzD34UnyBw",
+    "date": "2026-06-29",
+    "title": "America's Big Boy Birthday Week, it's NEWS",
+    "duration_seconds": 9097.4293125,
+    "duration_min": 151.6,
+    "score": 37,
+    "munch": 4,
+    "crum": 12,
+    "arcs": {
+      "skeleton": 1
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "2817027458",
+    "date": "2026-07-11",
+    "title": "The News LIVES",
+    "duration_seconds": 10788.416,
+    "duration_min": 179.8,
+    "score": 34,
+    "munch": 1,
+    "crum": 12,
+    "arcs": {
+      "dick_punch": 2,
+      "gambling": 3
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "2821762273",
+    "date": "2026-07-16",
+    "title": "Quick Stream Before Patreon",
+    "duration_seconds": 4773.0346875,
+    "duration_min": 79.6,
+    "score": 17,
+    "munch": 2,
+    "crum": 2,
+    "arcs": {
+      "dick_punch": 2,
+      "gambling": 1
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "2822556962",
+    "date": "2026-07-17",
+    "title": "Friday News Flops",
+    "duration_seconds": 8393.7066875,
+    "duration_min": 139.9,
+    "score": 108,
+    "munch": 5,
+    "crum": 37,
+    "arcs": {
+      "dick_punch": 6
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "2840162096",
+    "date": "2026-08-08",
+    "title": "Friday News Slop",
+    "duration_seconds": 8995.712,
+    "duration_min": 149.9,
+    "score": 40,
+    "munch": 0,
+    "crum": 12,
+    "arcs": {
+      "dick_punch": 2,
+      "gambling": 8
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "2846389025",
+    "date": "2026-08-14",
+    "title": "The Guiltiest Friday News",
+    "duration_seconds": 5894.0373125,
+    "duration_min": 98.2,
+    "score": 23,
+    "munch": 0,
+    "crum": 4,
+    "arcs": {
+      "gambling": 15
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "2857407927",
+    "date": "2026-08-26",
+    "title": "Expertly Negotiated News",
+    "duration_seconds": 7501.3973125,
+    "duration_min": 125.0,
+    "score": 66,
+    "munch": 8,
+    "crum": 6,
+    "arcs": {
+      "dick_punch": 6,
+      "gambling": 3
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "2862064673",
+    "date": "2026-09-01",
+    "title": "The Quickest Latest News",
+    "duration_seconds": 5590.4426875,
+    "duration_min": 93.2,
+    "score": 92,
+    "munch": 0,
+    "crum": 13,
+    "arcs": {
+      "dick_punch": 8,
+      "skeleton": 6,
+      "gambling": 2
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "2863722826",
+    "date": "2026-09-02",
+    "title": "High T Wednesday News",
+    "duration_seconds": 7811.072,
+    "duration_min": 130.2,
+    "score": 106,
+    "munch": 5,
+    "crum": 22,
+    "arcs": {
+      "dick_punch": 3,
+      "skeleton": 7,
+      "gambling": 2
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "2865460780",
+    "date": "2026-09-04",
+    "title": "Artificially General News",
+    "duration_seconds": 6693.12,
+    "duration_min": 111.6,
+    "score": 69,
+    "munch": 5,
+    "crum": 15,
+    "arcs": {
+      "dick_punch": 5,
+      "gambling": 1
+    },
+    "has_extraction": true
+  },
+  {
+    "vod_id": "2868220752",
+    "date": "2026-09-07",
+    "title": "Crum Punch News",
+    "duration_seconds": 8257.2586875,
+    "duration_min": 137.6,
+    "score": 341,
+    "munch": 16,
+    "crum": 21,
+    "arcs": {
+      "dick_punch": 25,
+      "skeleton": 31,
+      "gambling": 4
+    },
+    "has_extraction": true
+  }
+]

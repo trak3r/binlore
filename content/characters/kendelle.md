@@ -41,6 +41,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 
 
 
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-06-03|2026-06-03]] | Lead Anchor's girlfriend and in-studio contributor. Appears briefly to announce mall trip, reveals emergency cash ziplock bag from LA fires, receives $100 from Case. |
@@ -57,6 +58,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-07-20|2026-07-20]] | In-studio contributor and freelance video editor. Consults Case live on air for legal advice regarding a restrictive freelance video editing contract. |
 | [[episodes/2026-08-04|2026-08-04]] | Referenced during the CM Punk stain investigation as the in-studio authority who would know the answer, but reported to be napping off-camera. Viewer demand for Kendelle-branded BIN merch is also noted. |
 | [[episodes/2026-08-06|2026-08-06]] | In-studio contributor appearing intermittently. Debuts briefly before ghosting off-camera, later returns to announce she has already started playing *BigWog* without Blackwell. |
+| [[episodes/2026-09-02|2026-09-02]] | Studio guest referenced throughout — asked to talk to skeletons, fed lines to Filipino Christmas tree, and is one half of the 'Kendall vs… |
 
 ## Notable moments
 

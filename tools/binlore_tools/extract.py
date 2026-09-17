@@ -123,8 +123,17 @@ Bio tracking is ONLY for on-air network figures who speak in studio scenes.
 - Twitch chatters and viewers are NOT characters.
 - Stream raid recipients are NOT characters.
 
-STORYLINES:
-A single-episode incident is NOT a storyline. Storylines are multi-episode arcs (e.g. Crum Dick Punch, Beyblade Tournament). Prefer empty storylines[] unless the transcript clearly continues a Known Storyline from the roster.
+CHARACTER NOTES (keep bios short):
+- characters[].notes must be ONE short sentence for the Appearances index (role + what mattered this episode). No arc essays.
+- Put multi-episode narrative in storylines[].beat, not in character notes.
+- lore_notes are sparse durable traits/facts only (new gambling liability, physical transformation, standing rivalry beat). Skip generic jokes and one-offs.
+- Prefer linking facts to Known Storylines when an arc already exists (e.g. Crum Dick Punch, Beyblade Tournament).
+
+STORYLINES (overlapping threads):
+- A single-episode incident is NOT a storyline.
+- Storylines are multi-episode arcs that may overlap and intertwine; climactic events are bookmarks.
+- Prefer Known Storylines from the roster. Use empty storylines[] unless the transcript clearly continues a Known Storyline or clearly advances a multi-episode arc.
+- storylines[].beat: one concrete dated beat with optional timestamp — not a full recap.
 
 ASR:
 Whisper misspells names. Reconcile to the roster when possible:
@@ -134,7 +143,7 @@ Match canonical_segment and character names to the Existing Wiki Canon Roster in
 
 TASK: Extract from the transcript:
 1. segments — major blocks with start/end timestamps, canonical_segment from the roster, episode-specific title, notes
-2. characters — on-air network figures (speaking or heavily discussed). Not news subjects.
+2. characters — on-air network figures (speaking or heavily discussed). Not news subjects. notes = one short sentence.
 3. storylines — beats of known multi-episode arcs only
 4. lore_notes — new canonical facts with an exact timestamp like "[49:58]". No generic one-off jokes.
 5. episode_summary — 2-3 sentences, deadpan in-universe journalism

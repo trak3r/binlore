@@ -56,6 +56,9 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 
 
 
+
+
+
 - **[01:45:21]** ([[episodes/2026-06-29|2026-06-29]]): Activated via the `!rr` chat command for 10 viewer interactions per session with pronouns "he/hyped." Blackwell nervously remarks, "I wonder if maybe I've created a monster that will kill us all."
 - **[01:47:30]** ([[episodes/2026-06-29|2026-06-29]]): Fixates on the sitcom *Wings*, the Daumont Network, and bizarre claims about Michael J. Fox appearing in *Sleepaway Camp*.
 - **[55:46]** ([[episodes/2026-07-13|2026-07-13]]): Blackwell asserts he is being sued by the Andy Rooney estate and is legally required to claim AI Rooney is an independent entity.
@@ -68,3 +71,7 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 - **[11:12]** ([[episodes/2026-06-03|2026-06-03]]): AI Rooney receives daily training data updates written by the production team; the system prompt includes a guardrail: 'don't talk about anyone unless they're 25 or older.'
 - **[01:02:06]** ([[episodes/2026-06-03|2026-06-03]]): AI Rooney operates on 1700 GPUs in a separate room, consuming electricity of three small countries, and required purchasing a lake for cooling (now nearly drained).
 - **[01:14:51]** ([[episodes/2026-05-29|2026-05-29]]): AI Rooney was retired due to offensive outputs but makes a return appearance with adjusted programming.
+- **[01:45:21]** ([[episodes/2026-06-29|2026-06-29]]): AI Rooney is activated via '!rr' command and limited to 10 viewer interactions per session. Pronouns 'he/hyped.' Casey notes 'I wonder if maybe I've created a monster that will kill us all.'
+- **[01:47:30]** ([[episodes/2026-06-29|2026-06-29]]): AI Rooney has a recurring fixation on the sitcom Wings, the Daumont Network, and Michael J. Fox allegedly appearing in 'Sleep Away Camp.'
+- **[01:10:38]** ([[episodes/2026-07-16|2026-07-16]]): The decommissioned Rooney model has pivoted to alternative research funding after the Saudis declined to finance him; he claims to have secured a different back channel.
+- **[01:06:45]** ([[episodes/2026-07-17|2026-07-17]]): The decommissioned AI Rooney is now only available as 'Rooney 1.0 Knot Prime' in the digital space. Live in Sleazy located the model. The old model drained two lakes of water for his segment; the new model would have drained more but cut funding limited capacity.

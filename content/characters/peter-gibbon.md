@@ -59,9 +59,11 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 
 
 
+
 - **[18:01]** ([[episodes/2026-09-04|2026-09-04]]): Emerges uninvited onto the live broadcast (*"Looks like you couldn't keep me away forever. Back again it's Peter Gibbon... And you're probably going to be mean to me Case, but no big deal"*), prompting the control room to hastily generate the lower-third graphic *Peter G. NEWS STOWAWAY & FOOD EATER*.
 - **[18:04]** ([[episodes/2026-09-04|2026-09-04]]): Boasts of his physical conditioning, claiming superior dead-lifting power in his lower extremities, while checking whether wall rodents have chewed his hair.
 - **[24:24]** ([[episodes/2026-09-04|2026-09-04]]): Experiences an on-air transmission cross-talk incident with debate analyst Crum during a botched paranormal spell, briefly conflating their identities in the control room archives.
 - **[01:37:45]** ([[episodes/2026-08-14|2026-08-14]]): The fused Crum/Peter Gibbon identity resurfaced during the outro, now self-styling as 'Kendelle' and announcing a breakup with 'Kate'.
 - **[48:05]** ([[episodes/2026-08-06|2026-08-06]]): The network chat community actively tracks and ranks the 'cream team' of frequent guests, with the nude steakhouse story prompting a live poll on which contributor would attend.
 - **[50:34]** ([[episodes/2026-06-22|2026-06-22]]): Peter Gibbon is a disgraced former producer who now inhabits the studio wall crawlspaces as a news stowaway. He is referenced in a merch submission titled 'Leave it to Peter, starring Peter Gibbon.'
+- **[18:04]** ([[episodes/2026-09-04|2026-09-04]]): Peter's defining traits re-confirmed: stout build with most strength in his legs (good for dead-lifting kegs), rat-collecting habits ('did the rats eat my hair again'), rocket obsession, and being described as 'a rocket Peter doing all the stuff I like to do.' Claims he 'more or less' was in the military and has CIA training (echoed by Hype Train later).

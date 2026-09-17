@@ -384,7 +384,7 @@ def update_character_file(
             before_app, app_text, after_app = _extract_section(body, "## Appearances")
 
         ep_link = f"[[episodes/{ep_slug}|{ep_slug}]]"
-        safe_notes = char_notes.replace("|", "/").strip()
+        safe_notes = _short_appearance_notes(char_notes).replace("|", "/")
         new_row = f"| {ep_link} | {safe_notes} |"
         updated_app = _append_table_row(
             app_text,
@@ -578,6 +578,24 @@ tags:
     return target_path
 
 
+def _short_appearance_notes(notes: str, max_chars: int = 140) -> str:
+    """Keep Appearances index rows short — one sentence / capped length."""
+    text = " ".join((notes or "").split()).strip()
+    if not text:
+        return ""
+    # Prefer first sentence
+    for sep in (". ", "! ", "? "):
+        if sep in text:
+            first = text.split(sep, 1)[0].strip()
+            if first and not first.endswith((".", "!", "?")):
+                first = first + sep[0]
+            text = first
+            break
+    if len(text) > max_chars:
+        text = text[:max_chars].rsplit(" ", 1)[0] + "…"
+    return text
+
+
 def update_storyline_file(
     file_path: Path,
     ep_slug: str,
@@ -585,26 +603,46 @@ def update_storyline_file(
     *,
     dry_run: bool = False,
 ) -> bool:
-    """Updates Key beats in a storyline markdown file."""
+    """Append rows to Timeline & Broadcast Log (or legacy ## Key beats). Never overwrites Background/climax prose."""
     content = file_path.read_text(encoding="utf-8")
     fm, body = _split_frontmatter_and_body(content)
-    before_beats, beats_text, after_beats = _extract_section(body, "## Key beats")
-    if not beats_text:
-        return False
+
+    heading = "## Timeline & Broadcast Log"
+    before_beats, beats_text, after_beats = _extract_section(body, heading)
+    if not before_beats.endswith(heading + "\n") and heading not in body:
+        before_beats, beats_text, after_beats = _extract_section(body, "## Key beats")
+        if "## Key beats" in body:
+            heading = "## Key beats"
+        else:
+            heading = "## Timeline & Broadcast Log"
+            if "## Related Pages" in body:
+                parts = body.split("## Related Pages", 1)
+                body = (
+                    f"{parts[0].rstrip()}\n\n{heading}\n\n"
+                    "| Date / Episode | Beat |\n|----------------|------|\n\n## Related Pages"
+                    f"{parts[1]}"
+                )
+            else:
+                body = (
+                    f"{body.rstrip()}\n\n{heading}\n\n"
+                    "| Date / Episode | Beat |\n|----------------|------|\n"
+                )
+            before_beats, beats_text, after_beats = _extract_section(body, heading)
 
     updated_beats = beats_text
     modified = False
     for ts, beat in beats:
         beat_snip = beat[:40]
-        date_col = f"[[episodes/{ep_slug}|{ep_slug}]] [{ts}]"
-        source_col = f"[[episodes/{ep_slug}#storyline-updates|Episode {ep_slug}]]"
+        ts_part = f" [{ts}]" if ts else ""
+        date_col = f"[[../episodes/{ep_slug}|{ep_slug}]]{ts_part}"
         safe_beat = beat.replace("|", "/")
-        new_row = f"| {date_col} | {safe_beat} | {source_col} |"
+        new_row = f"| {date_col} | {safe_beat} |"
+        dedupe = f"{ep_slug}]]{ts_part}" if ts else beat_snip
         res = _append_table_row(
             updated_beats,
             new_row,
-            dedupe_key=beat_snip,
-            default_headers=("| Date / episode | Beat | Source |", "|---|---|---|"),
+            dedupe_key=dedupe if dedupe.strip() else beat_snip,
+            default_headers=("| Date / Episode | Beat |", "|----------------|------|"),
         )
         if res != updated_beats:
             updated_beats = res
@@ -666,7 +704,7 @@ def update_wiki_from_extraction(
     *,
     dry_run: bool = False,
     auto_create_characters: bool = False,
-    update_storylines: bool = False,
+    update_storylines: bool = True,
 ) -> UpdateReport:
     """Propagates structured extraction data into Character, Segment, and Storyline wiki pages."""
     run_dir = RUNS_DIR / vod_id

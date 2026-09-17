@@ -144,6 +144,7 @@ def find_unprocessed_episodes(
     oldest_first: bool = True,
     skip_drafts: bool = True,
     skip_extract: bool = True,
+    min_duration_seconds: float = 0.0,
 ) -> list[dict[str, Any]]:
     """
     Transcribe mode (skip_extract=True): catalog entries with no transcript in tools/runs/.
@@ -188,6 +189,11 @@ def find_unprocessed_episodes(
             if yt_id and yt_id in skipped_vod_ids:
                 continue
             if twitch_id and twitch_id in skipped_vod_ids:
+                continue
+
+        if min_duration_seconds > 0:
+            dur = float(s.get("duration_seconds") or 0)
+            if dur and dur < min_duration_seconds:
                 continue
 
         run_dir = _stream_run_dir(s, by_id, by_date)
@@ -387,7 +393,7 @@ def process_single_episode(
         report = update_wiki_from_extraction(
             vod_id=target_vod_id,
             auto_create_characters=False,
-            update_storylines=False,
+            update_storylines=True,
         )
         unknown_note = ""
         if report.unknown_queued:
@@ -505,6 +511,7 @@ def run_batch_processing(
     build_quartz: bool = True,
     git_commit: bool = True,
     min_disk_gb: float = 1.0,
+    min_duration_seconds: float = 0.0,
     log_file: Path = RUNS_DIR / "batch.log",
     dry_run: bool = False,
 ) -> int:
@@ -587,6 +594,7 @@ def run_batch_processing(
         oldest_first=oldest_first,
         skip_drafts=skip_drafts,
         skip_extract=skip_extract,
+        min_duration_seconds=min_duration_seconds if not skip_extract else 0.0,
     )
 
     total_unprocessed = len(unprocessed)

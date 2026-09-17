@@ -45,6 +45,9 @@ During the Season 3 finale on September 7, 2026—the final broadcast before anc
 
 ## Timeline & Broadcast Log
 
+
+
+
 | Date / Episode | Beat |
 |----------------|------|
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
@@ -53,12 +56,15 @@ During the Season 3 finale on September 7, 2026—the final broadcast before anc
 | [[../episodes/2026-07-16|2026-07-16]] [13:27] | Blackwell confirms the gorilla punch execution is targeted for mid-August, with chat demanding a referendum. |
 | [[../episodes/2026-07-17|2026-07-17]] [01:15:25] | Chat demands the gorilla punch during a merch debate; Crum claims he can "absorb gorilla punches" like Muhammad Ali. |
 | [[../episodes/2026-08-08|2026-08-08]] [104:52] | Crum locks in August 31st as the tentative date for the execution, claiming his penis is actively training. |
+| [[../episodes/2026-08-08|2026-08-08]] [102:12] | Crum claims to have been 'training' for the impact and asserts his penis will be ready for the strike. |
 | [[../episodes/2026-08-14|2026-08-14]] [01:05:31] | Munch invokes the pending robot gorilla execution as punishment after Crum hijacks the scoreboard button. |
 | [[../episodes/2026-08-26|2026-08-26]] [01:30:07] | Crum pleads for an extension to acquire iron underwear; rescheduled to Friday the 13th before being locked in ahead of Blackwell's Thailand trip. |
+| [[../episodes/2026-08-26|2026-08-26]] [01:39:59] | Gooter (Brick) sub delivers correction: Crum D*ck Punch must happen BEFORE the 4th because Case will be in Thailand Aug 8-17. Pushes the urgency. |
 | [[../episodes/2026-09-01|2026-09-01]] [48:05] | Crum confirms the execution is locked in for Labor Day Monday. Munch pleads for spiritual protection from the audience. |
 | [[../episodes/2026-09-02|2026-09-02]] [49:58] | Crum enters the desk to confirm he will be getting his penis punched on Monday, citing "super strength in spits." |
 | [[../episodes/2026-09-02|2026-09-02]] [1:13:35] | Munch recites the viewer dossier enumerating reasons Crum deserves the blow. |
 | [[../episodes/2026-09-04|2026-09-04]] [23:32] | Blackwell confirms Monday's special broadcast will settle the debt before his international vacation. |
+| [[../episodes/2026-09-04|2026-09-04]] [01:46:54] | Case announces a 'big bad boy stream' on Monday before leaving the country on vacation for a million years. Pepito says he's 'currently on vacation' and threatens to drink a trash bag of sangria for Labor Day. |
 | [[../episodes/2026-09-07|2026-09-07]] [01:50:38] | **Climax & Conclusion:** The Rock-afire Gorilla fires the punch, triggering a massive explosion. The gorilla is vaporized to dust, Munch is burned into a talking skeleton, and Crum survives unscathed. Storyline officially concludes. |
 
 ## Related Pages

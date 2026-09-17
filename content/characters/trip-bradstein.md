@@ -42,4 +42,6 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 
 ## Notable moments
 
+
 - **[01:50:21]** ([[episodes/2026-06-29|2026-06-29]]): Emerges live from his park bush following an alleged two-month hibernation, declaring "I'll never leave these streets," and conducts street interviews based on audience-submitted questions. When his own mother approaches his bush, he treats her as an unfamiliar pedestrian.
+- **[01:50:21]** ([[episodes/2026-06-29|2026-06-29]]): Field correspondent Trip Bradstein broadcasts live from a park bush after a 'two-month bush hibernation' and insists 'I'll never leave these streets.' Has a mother who visits the park and confuses him with a stranger.

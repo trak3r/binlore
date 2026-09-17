@@ -91,6 +91,11 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 
 
 
+
+
+
+
+
 - **[01:50:38]** ([[episodes/2026-09-07|2026-09-07]]): Faces the Rock-afire mechanical gorilla execution and emerges completely unscathed after an explosive misfire destroys the ape and converts Munch into a talking skeleton.
 - **[01:39:45]** ([[episodes/2026-09-07|2026-09-07]]): Details his grueling groin conditioning regimen, which involved swinging 45-pound weighted logs into his crotch to prepare for the gorilla punch.
 - **[52:07]** ([[episodes/2026-09-02|2026-09-02]]): Declares publicly on the network: "I will be getting my penis punched on Monday," and claims to possess "super strength for some reason in spits," demonstrated by crushing an electric toothbrush.
@@ -126,3 +131,21 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 - **[01:18:36]** ([[episodes/2026-06-15|2026-06-15]]): Crum is referenced in the context of the unresolved Dick Punch wager and body positivity debate.
 - **[01:52:25]** ([[episodes/2026-06-08|2026-06-08]]): Claims a 'classified' social calendar in Dubai involving 'Rennerton water' (medicinal and defense-contract liquid that can kill a man and cure emphysema).
 - **[01:50:51]** ([[episodes/2026-06-08|2026-06-08]]): Uses a 'honey bag' for stretch therapy, which he says may add 10 years to his life.
+- **[01:11:10]** ([[episodes/2026-07-16|2026-07-16]]): Referred to as 'Grandman' in a station-wide joke, with Case crediting 'the honestly miracle accounting of grand man' as the reason BIN stays afloat.
+- **[47:37]** ([[episodes/2026-09-01|2026-09-01]]): Crum recounts the full origin of the gorilla punch: he bet a gorilla '$200,000-ish' and when the amount went up, he let the gorilla punch him, which 'sent me to a fugue state for several years' and 'killed him and sent him to hell.'
+- **[48:23]** ([[episodes/2026-09-01|2026-09-01]]): Crum has agreed to let the gorilla now punch him in the penis on the following Monday (the last show before Case goes to Thailand). He claims he has 'meditated' and feels 'spiritually and physically secure' to allow it to happen 'consensually.'
+- **[50:00]** ([[episodes/2026-09-01|2026-09-01]]): Crum says 'my penis is with all of you' and asks chat to 'cradle my penis, cherish it, and give me strength' while also praying to God for his penis's strength.
+- **[56:36]** ([[episodes/2026-09-01|2026-09-01]]): Crum reveals he has been eating raw turnips straight from his turnip garden ('I took them straight out of the dirt and I ate them right away'), making his wife yell from the third story that he needs to clean them.
+- **[57:11]** ([[episodes/2026-09-01|2026-09-01]]): Crum claims he is now '290 points ahead' in the debate scoreboard (down from more), and predicts he will surpass Munch again in 'another 2 to 10 years.'
+- **[80:39]** ([[episodes/2026-09-01|2026-09-01]]): Crum mentions a 'new prayer suggested by Crumb' that Pastor Joe really likes; his mom references trying this prayer as well.
+- **[57:59]** ([[episodes/2026-09-01|2026-09-01]]): Crum wins the mayonnaise-vs-pepperoni debate decisively and gloats that he will 'face no consequences' for the gorilla penis punch, calling it 'the perfect plan.'
+- **[51:30]** ([[episodes/2026-09-01|2026-09-01]]): Munch and Crum both agree that 'rank choice voting is cheating' and that 'in any democratic system there can really only be two options and one winner.'
+- **[52:07]** ([[episodes/2026-09-02|2026-09-02]]): Vows publicly on stream that 'I will be getting my penis punched on Monday,' and later in the debate claims he has trained for it and possesses 'super strength for some reason in spits,' demonstrated by crushing an electric toothbrush to dust.
+- **[1:16:44]** ([[episodes/2026-09-02|2026-09-02]]): Hosts the Best Boob Club at his house 'because their wives get mad if they do it,' but is told 'you're just the host, you're not a member' — his own wife's breasts are repeatedly rejected.
+- **[1:23:18]** ([[episodes/2026-09-02|2026-09-02]]): Keeps carrots in his glove box 'in case I encounter a donkey' and changes them every two or three days.
+- **[50:42]** ([[episodes/2026-09-02|2026-09-02]]): Insists he is not in the Epstein files despite one search hit; explains it as accidentally emailing 'Jeffrey Epstein' instead of YouTuber 'Jabri Epstein' ~300 times due to Google auto-complete.
+- **[1:15:32]** ([[episodes/2026-09-02|2026-09-02]]): Mocks his own 'hand game' as 'grossly overhyped' by himself, but floats launching an OnlyFans to prove it ('not because it's sexual… an exhibition of skill').
+- **[1:21:58]** ([[episodes/2026-09-02|2026-09-02]]): This episode's intended prompt was Christian vs Kendall, but was overtaken by the Crum-penis-punch thread; chat vote ended in a 'pretty big margin' win for Christian.
+- **[16:17]** ([[episodes/2026-09-04|2026-09-04]]): Crum's verbal tics include archaic 'japs' (claiming it's an old-timey word for 'fun mischief' akin to 'getting a cream soda at the doodle shop') and immediate interest in any situation involving his body. He is the scheduled victim of the robotic gorilla crotch-punch on Monday.
+- **[24:24]** ([[episodes/2026-09-04|2026-09-04]]): Peter + Crum fusion is officially named 'Scrotum' after rejecting 'Scummer,' 'Skeeter,' 'Scrutter,' 'Scretem,' and 'Screamer.' Crum's voice reportedly 'deeper and super echoey' from the low-rent mystic — establishes the merger has slightly altered vocal timbre.
+- **[01:39:45]** ([[episodes/2026-09-07|2026-09-07]]): Trained his groin against blunt force trauma by swinging 45-pound weighted logs into his crotch; accused by Munch of wearing metal underwear during the gorilla stunt.

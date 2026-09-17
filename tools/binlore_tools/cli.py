@@ -138,7 +138,7 @@ def cmd_update_wiki(args: argparse.Namespace) -> int:
     if report.storylines_updated:
         print(f"{prefix} storylines ({len(report.storylines_updated)}):")
         for s in report.storylines_updated:
-            print(f"  ✓ content/storylines/{s}.md (key beats)")
+            print(f"  ✓ content/storylines/{s}.md (timeline beats)")
 
     if report.segments_updated:
         print(f"{prefix} segments ({len(report.segments_updated)}):")
@@ -221,6 +221,7 @@ def cmd_clean(args: argparse.Namespace) -> int:
 
 def cmd_process_all(args: argparse.Namespace) -> int:
     from .batch import check_backlog_status, run_batch_processing
+    from .rank import MIN_DURATION_SECONDS
 
     if args.status:
         st = check_backlog_status()
@@ -243,6 +244,11 @@ def cmd_process_all(args: argparse.Namespace) -> int:
     if getattr(args, "command", "") == "transcribe-all":
         args.skip_extract = True
 
+    min_dur = float(getattr(args, "min_duration_seconds", 0) or 0)
+    if not args.skip_extract and min_dur <= 0:
+        # Extract mode skips sub-20m technical burps by default
+        min_dur = float(MIN_DURATION_SECONDS)
+
     return run_batch_processing(
         limit=args.limit,
         oldest_first=not args.newest_first,
@@ -257,9 +263,114 @@ def cmd_process_all(args: argparse.Namespace) -> int:
         build_quartz=args.build_quartz,
         git_commit=args.git_commit,
         min_disk_gb=args.min_disk_gb,
+        min_duration_seconds=min_dur,
         log_file=args.log_file,
         dry_run=args.dry_run,
     )
+
+
+def cmd_rank_munch_crum(args: argparse.Namespace) -> int:
+    from .rank import DEFAULT_PILOT_PATH, DEFAULT_RANKED_PATH, write_rankings
+
+    ranked, pilot = write_rankings(
+        ranked_path=Path(args.output) if args.output else DEFAULT_RANKED_PATH,
+        pilot_path=Path(args.pilot_output) if args.pilot_output else DEFAULT_PILOT_PATH,
+        pilot_size=args.pilot_size,
+        min_duration_seconds=args.min_duration_seconds,
+    )
+    print(f"Ranked {len(ranked)} Munch/Crum/arc episodes (>= {args.min_duration_seconds/60:.0f} min)")
+    print(f"Wrote {args.output or DEFAULT_RANKED_PATH}")
+    print(f"Pilot set ({len(pilot)}) -> {args.pilot_output or DEFAULT_PILOT_PATH}")
+    print(f"\nTop {min(15, len(ranked))}:")
+    for r in ranked[:15]:
+        arcs = ",".join(f"{k}:{v}" for k, v in (r.get("arcs") or {}).items()) or "-"
+        print(
+            f"  {r['score']:4d}  {r.get('date') or '?':10}  "
+            f"{'ext' if r.get('has_extraction') else '   '}  "
+            f"{(r.get('title') or '')[:55]}  [{arcs}]"
+        )
+    return 0
+
+
+def cmd_extract_ranked(args: argparse.Namespace) -> int:
+    """Extract + update-wiki for entries in a ranked JSON list (Munch/Crum mine)."""
+    import json
+    import time
+
+    from .batch import BatchLogger
+    from .extract import DailyQuotaExceeded, extract_lore_from_vod
+    from .rank import DEFAULT_RANKED_PATH
+
+    list_path = Path(args.list)
+    if not list_path.exists():
+        raise SystemExit(f"Ranked list not found: {list_path}\nRun `./binlore rank-munch-crum` first.")
+
+    rows = json.loads(list_path.read_text(encoding="utf-8"))
+    if not isinstance(rows, list):
+        raise SystemExit(f"Expected a JSON array in {list_path}")
+
+    # Prefer unextracted; default keeps score rank from the JSON file
+    if args.skip_existing:
+        rows = [r for r in rows if not r.get("has_extraction")]
+        # Refresh has_extraction from disk (rank file may be stale)
+        refreshed: list[dict] = []
+        for r in rows:
+            vod_id = str(r.get("vod_id") or "")
+            if vod_id and (RUNS_DIR / vod_id / "extraction.json").exists():
+                continue
+            refreshed.append(r)
+        rows = refreshed
+    if args.oldest_first:
+        rows = sorted(rows, key=lambda r: r.get("date") or "")
+    if args.min_score > 0:
+        rows = [r for r in rows if int(r.get("score") or 0) >= args.min_score]
+    if args.limit and args.limit > 0:
+        rows = rows[: args.limit]
+
+    logger = BatchLogger(Path(args.log_file) if args.log_file else RUNS_DIR / "munch-crum-extract.log")
+    logger.info(f"extract-ranked: {len(rows)} episodes from {list_path}")
+    if args.dry_run:
+        for i, r in enumerate(rows, 1):
+            print(f"  {i:3d}. [{r.get('date')}] score={r.get('score')} {r.get('vod_id')} — {r.get('title')}")
+        return 0
+
+    ok = 0
+    for i, r in enumerate(rows, 1):
+        vod_id = str(r.get("vod_id") or "")
+        if not vod_id:
+            continue
+        run_dir = RUNS_DIR / vod_id
+        if not (run_dir / "transcript.json").exists() and not (run_dir / "transcript.txt").exists():
+            logger.warning(f"[{i}/{len(rows)}] skip {vod_id}: no transcript")
+            continue
+        try:
+            logger.info(f"[{i}/{len(rows)}] extract {vod_id} ({r.get('date')}) — {r.get('title')}")
+            if args.force or not (run_dir / "extraction.json").exists():
+                extract_lore_from_vod(vod_id=vod_id, model=args.model, timeout=args.timeout)
+            report = update_wiki_from_extraction(
+                vod_id=vod_id,
+                auto_create_characters=False,
+                update_storylines=True,
+            )
+            logger.info(
+                f"  wiki: chars={report.characters_updated} storylines={report.storylines_updated} "
+                f"segs={report.segments_updated}"
+            )
+            ok += 1
+        except DailyQuotaExceeded as e:
+            logger.warning(f"Daily quota hit: {e}. Stopping.")
+            break
+        except Exception as e:
+            err = str(e)
+            logger.error(f"Failed {vod_id}: {e}")
+            if "API_KEY_INVALID" in err or "API key not valid" in err:
+                logger.error("GEMINI_API_KEY is invalid. Fix tools/.env and re-run.")
+                break
+        if args.delay > 0 and i < len(rows):
+            time.sleep(args.delay)
+
+    logger.success(f"extract-ranked finished: {ok}/{len(rows)} ok")
+    return 0
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -353,7 +464,14 @@ def build_parser() -> argparse.ArgumentParser:
     wiki.add_argument(
         "--update-storylines",
         action="store_true",
-        help="Append storyline beats (default: defer to a corpus pass)",
+        default=True,
+        help="Append storyline Timeline beats (default: on)",
+    )
+    wiki.add_argument(
+        "--no-update-storylines",
+        action="store_false",
+        dest="update_storylines",
+        help="Skip storyline page updates",
     )
     wiki.add_argument(
         "--dry-run",
@@ -510,12 +628,85 @@ def build_parser() -> argparse.ArgumentParser:
             help="Do not create local git commits",
         )
         proc.add_argument(
+            "--min-duration-seconds",
+            type=float,
+            default=0.0,
+            help="Skip catalog entries shorter than this (extract mode defaults to 1200 = 20min)",
+        )
+        proc.add_argument(
             "--log-file",
             type=Path,
             default=RUNS_DIR / "batch.log",
             help="Log file path (default: tools/runs/batch.log)",
         )
         proc.set_defaults(func=cmd_process_all)
+
+    rank = sub.add_parser(
+        "rank-munch-crum",
+        help="Local (no-LLM) rank of Munch/Crum + arc-keyword transcripts",
+    )
+    rank.add_argument(
+        "--output",
+        help="Ranked JSON path (default: tools/runs/munch-crum-ranked.json)",
+    )
+    rank.add_argument(
+        "--pilot-output",
+        help="Pilot JSON path (default: tools/runs/munch-crum-pilot.json)",
+    )
+    rank.add_argument("--pilot-size", type=int, default=12, help="Pilot set size (default: 12)")
+    rank.add_argument(
+        "--min-duration-seconds",
+        type=float,
+        default=20 * 60,
+        help="Exclude shorter episodes (default: 1200)",
+    )
+    rank.set_defaults(func=cmd_rank_munch_crum)
+
+    er = sub.add_parser(
+        "extract-ranked",
+        help="Extract + update-wiki from a ranked JSON list (Munch/Crum mine)",
+    )
+    er.add_argument(
+        "--list",
+        default=str(RUNS_DIR / "munch-crum-ranked.json"),
+        help="Ranked JSON from rank-munch-crum (default: tools/runs/munch-crum-ranked.json)",
+    )
+    er.add_argument("--limit", type=int, default=None, help="Max episodes to process")
+    er.add_argument(
+        "--skip-existing",
+        action="store_true",
+        default=True,
+        help="Skip rows that already have extraction.json (default)",
+    )
+    er.add_argument(
+        "--force",
+        action="store_true",
+        help="Re-extract even when extraction.json exists",
+    )
+    er.add_argument(
+        "--include-existing",
+        action="store_false",
+        dest="skip_existing",
+        help="Include already-extracted rows (use with --force to re-mine)",
+    )
+    er.add_argument(
+        "--oldest-first",
+        action="store_true",
+        default=False,
+        help="Re-sort by date ascending (default: keep score rank from the JSON list)",
+    )
+    er.add_argument(
+        "--min-score",
+        type=int,
+        default=0,
+        help="Only process rows with rank score >= this (default: 0)",
+    )
+    er.add_argument("--model", default=DEFAULT_MODEL, help=f"Gemini model (default: {DEFAULT_MODEL})")
+    er.add_argument("--timeout", type=float, default=180.0, help="Per-episode timeout seconds")
+    er.add_argument("--delay", type=float, default=5.0, help="Delay between episodes")
+    er.add_argument("--dry-run", action="store_true", help="Print queue only")
+    er.add_argument("--log-file", help="Log path (default: tools/runs/munch-crum-extract.log)")
+    er.set_defaults(func=cmd_extract_ranked)
 
     return p
 

@@ -43,6 +43,8 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 
 
 
+
+
 | Episode | Notes |
 |---------|-------|
 | [[episodes/2026-05-26|2026-05-26]] | Chief Science Correspondent who operates the Chet Guy the Science Eyes desk alongside synthetic AI co-host ChetAI. Specializes in investigative science reporting and technical analysis. |
@@ -50,12 +52,17 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2026-06-05|2026-06-05]] | Chief science correspondent running the specialized science desk with ChetAI as synthetic co-host. |
 | [[episodes/2026-06-15|2026-06-15]] | Chief science correspondent, investigates triple-penis donor. |
 | [[episodes/2026-06-19|2026-06-19]] |  |
+| [[episodes/2026-07-11|2026-07-11]] | Chief science correspondent disguised as 'Dr. |
+| [[episodes/2026-07-17|2026-07-17]] | Chief science correspondent appearing as 'Dr. |
 | [[episodes/2026-07-23|2026-07-23]] | Chief Science Correspondent. Spontaneously activates upon hearing the 'skiantist' trigger to offer medical advice on Case's ankle, advising thick power calves and full body thick activation. Notes his lack of a fully operational medical license. |
 | [[episodes/2026-08-19|2026-08-19]] | Chief science correspondent deploying to the desk to investigate the smart underwear flatulence research. |
 | [[episodes/2026-09-02|2026-09-02]] | Triggered after the news desk utters "scientists"; reviews a Brazilian Journal of Plastic Surgery aesthetic proportion study alongside [[chet-ai|ChetAI]], determining that "all boobs is good." |
 | [[episodes/2026-09-04|2026-09-04]] | Intervenes following coverage of The Family International cult; introduces upgraded blue-light protective eyewear, investigates cult propaganda tracks, and warns of cognitive AI vulnerabilities. |
 
 ## Notable moments
+
+
+
 
 
 
@@ -75,3 +82,7 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 - **[12:45]** ([[episodes/2026-06-05|2026-06-05]]): Chet has developed a reputation for demanding rigorous scientific methodology while simultaneously embracing the absurdity of modern AI integration into daily life.
 - **[28:49]** ([[episodes/2026-06-03|2026-06-03]]): Chief Science Correspondent Chet Manscape's father owns an oil field, providing Chet with discounted gas.
 - **[12:03]** ([[episodes/2026-05-26|2026-05-26]]): Chet Manscape uses specialized blue-light-filtering eyewear and maintains a distinctive appearance with large laboratory optical microscope positioned directly on the news desk.
+- **[01:36:25]** ([[episodes/2026-07-17|2026-07-17]]): Chet diagnoses the studio with 'AI Psychosis' caused by releasing the spirit of Andy Rooney that had been trapped in the algorithm, infecting everyone within a hundred-mile radius. He claims he can 'suck all that soul back in' once he 'gets it up and running again.'
+- **[01:38:11]** ([[episodes/2026-07-17|2026-07-17]]): Chet operates a military-grade therapy persona ('Dr. Chath') and bills at $500 per hour, double Tommy Biglaw's rate. He recommends an angled bucket for male pattern baldness and prescribes dance as therapy.
+- **[1:04:47]** ([[episodes/2026-09-02|2026-09-02]]): Skynce persona's core shtick: 'all the boobs are in my training data' but they are not allowed to discuss them; concludes 'all boobs is good' as the scientific finding.
+- **[01:37:50]** ([[episodes/2026-09-04|2026-09-04]]): Chet's spontaneous trigger: jumps in to investigate The Family International after Scrotum plays their song 'Cathy Don't Go.' Chet introduces a pair of 'better sunglasses' that filter 'good blue light in, bad blue light out' and complains 'somebody fucked up my music' (Hype Train's intrusion).

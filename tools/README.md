@@ -140,10 +140,35 @@ binlore update-wiki 2863722826
 ```
 
 **What this updates:**
-- `content/characters/<name>.md`: Appends rows to `## Appearances` and adds timestamped bullets to `## Notable moments` with links back to the episode.
+- `content/characters/<name>.md`: Appends rows to `## Appearances` (short notes) and adds timestamped bullets to `## Notable moments` with links back to the episode. Overview / Key Attributes / Canon notes are never overwritten.
 - Auto-creates pages only with `--create-characters` (default: queue unknown names to `tools/runs/unknown-characters.jsonl`).
-- `content/storylines/<slug>.md`: not updated unless `--update-storylines` (corpus pass).
+- `content/storylines/<slug>.md`: appends to `## Timeline & Broadcast Log` (Background/climax sections are never overwritten). Disable with `--no-update-storylines`.
 - `content/segments/<slug>.md`: Appends occurrences except fixture desks (News / pre-show).
+- Episode pages with `curated: true` in frontmatter are not overwritten by re-extract.
+- External-subject deny list: [`canon_denylist.yaml`](canon_denylist.yaml) (manual corrections here feed future extracts).
+
+### 4b. Munch & Crum wiki mine (ranked extract)
+
+Character-first mining without burning quota on the full catalog:
+
+```bash
+# Local grep rank (no LLM) — writes tools/runs/munch-crum-ranked.json
+binlore rank-munch-crum
+
+# Preview next unextracted high-signal episodes
+binlore extract-ranked --dry-run --limit 12
+
+# Extract + update-wiki (free-tier Gemini; stops on daily quota)
+# Default order = score rank (highest signal first). Optional: --oldest-first --min-score 100
+binlore extract-ranked --limit 12
+
+# After pilot sign-off, keep going nightly:
+binlore extract-ranked --limit 20 --min-score 80
+```
+
+Weekly human curation: tighten character Overviews, promote repeated beats into storyline Background, and merge `main` → `production` only after local Quartz preview.
+
+Sub-20-minute technical burps are excluded from ranking and from `process-all --extract` by default.
 
 ### 5. Extract screencaps (`binlore screencap`)
 

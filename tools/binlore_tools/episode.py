@@ -4,6 +4,8 @@ import json
 from pathlib import Path
 from typing import Any
 
+import yaml
+
 from .paths import CONTENT_CHARACTERS, CONTENT_EPISODES, CONTENT_SEGMENTS, CONTENT_STORYLINES, RUNS_DIR
 from .vods import Vod, format_duration
 
@@ -195,7 +197,11 @@ def _format_storyline_link(name: str) -> str:
 
 
 def update_episode_from_extraction(vod_id: str, extraction: dict[str, Any]) -> Path:
-    """Update or generate episode markdown file with extracted lore and segment rundown."""
+    """Update or generate episode markdown file with extracted lore and segment rundown.
+
+    If the existing episode page has frontmatter ``curated: true``, leave the markdown
+    untouched (extraction.json may still be refreshed by the caller).
+    """
     run_dir = RUNS_DIR / vod_id
     meta_path = run_dir / "meta.json"
     meta: dict[str, Any] = {}
@@ -206,6 +212,23 @@ def update_episode_from_extraction(vod_id: str, extraction: dict[str, Any]) -> P
             pass
 
     date = meta.get("date") or "unknown-date"
+    existing = _find_episode_file(vod_id, date)
+    if existing.exists():
+        try:
+            raw = existing.read_text(encoding="utf-8")
+            if raw.startswith("---"):
+                parts = raw.split("---", 2)
+                if len(parts) >= 3:
+                    fm = yaml.safe_load(parts[1]) or {}
+                    if fm.get("curated") is True or str(fm.get("curated", "")).lower() in (
+                        "true",
+                        "yes",
+                        "1",
+                    ):
+                        return existing
+        except Exception:
+            pass
+
     vod_title = meta.get("title") or "Barely Informed News"
     if vod_title and vod_title != "Barely Informed News":
         title = f"{vod_title} ({date})"

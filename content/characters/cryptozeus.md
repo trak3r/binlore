@@ -70,6 +70,9 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 
 
 
+
+
+
 - **[1:26:47]** ([[episodes/2026-09-02|2026-09-02]]): Delivers extended *Jill of the Jungle* gameplay commentary interspersed with Gooters sponsorship spots and maternal arguments.
 - **[24:51]** ([[episodes/2026-09-04|2026-09-04]]): Newsroom inquiries regarding his origins clarify that Brandon was extracted from the "crypto universe" prior to joining the network.
 - **[67:37]** ([[episodes/2026-09-01|2026-09-01]]): Mother repeatedly drops consonants while shouting through the door; Brandon urges her to refine her sneezing technique and dietary habits.
@@ -93,3 +96,9 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 See also: [[../segments/cryptozeus|CryptoZeu$ (Segment)]], [[characters/brandons-mother|Brandon's Mother]], [[characters/case-blackwell|Case Blackwell]], [[index|On-Air Talent & Staff]].
 - **[01:44:27]** ([[episodes/2026-06-15|2026-06-15]]): Brandon's CryptoZeu$ segment includes a random number game and interactions with his mother.
 - **[02:02:03]** ([[episodes/2026-06-08|2026-06-08]]): Refuses to pay for games ('hard I don't want to pay for games policy'); plays on Case's copies. Mother yells through bedroom door throughout broadcasts.
+- **[01:21:43]** ([[episodes/2026-08-26|2026-08-26]]): Gooters sponsor bit: 'wet storage bins', 'potato turducken' with $20 inside, 'herniated cheese disc', 'moist kitten poppers' (Halloween). Mom calls him 'Bran Bran'.
+- **[02:00:22]** ([[episodes/2026-08-26|2026-08-26]]): Played The Journey Home indie demo to credits; reached a 'sparkle' state after dying, pranced, played a Flappy Bird section, and finished to a credit roll thanking him for playing Walter.
+- **[67:37]** ([[episodes/2026-09-01|2026-09-01]]): Mom yells 'washed' instead of 'washed' (dropping the R) repeatedly; Brandon insists she needs to 'learn to sneeze better' and 'learn to eat better.'
+- **[65:43]** ([[episodes/2026-09-01|2026-09-01]]): Mom mentions Pastor Joe is coming over that night and gets upset that Brandon's grunting 'puts mama in a moon.'
+- **[80:30]** ([[episodes/2026-09-01|2026-09-01]]): Mom claims her Italian bicycle 'intimidates people into thinking that I do sports' and protects her house because people assume she's like Lance Armstrong.
+- **[01:17:00]** ([[episodes/2026-09-07|2026-09-07]]): Streamed Intelligent Qube (PS1) via keyboard after controller connection failures, proclaiming his superior spatial IQ.

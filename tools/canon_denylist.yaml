@@ -1,0 +1,55 @@
+# Names / note tokens that must never become wiki characters.
+# Consumed by canon.py, extract validation, and wiki_updater.
+# Edit this file when correcting false positives — future extracts will honor it.
+
+names:
+  - Card King
+  - Ben Hooper
+  - Donald Trump
+  - JD Vance
+  - Mitch McConnell
+  - Lindsey Graham
+  - Pete Hegseth
+  - Joe Biden
+  - Sam Altman
+
+name_tokens:
+  - trump
+  - vance
+  - mcconnell
+  - graham
+  - hegseth
+  - biden
+  - nixon
+  - johnson
+  - starmer
+  - bevin
+  - altman
+  - ben hooper
+  - card king
+
+note_tokens:
+  - senator
+  - president
+  - politician
+  - public figure
+  - secretary of
+  - vice president
+  - biohacker
+  - prime minister
+  - minister
+  - governor
+  - congressman
+  - representative
+  - celebrity
+  - actor in
+  - movie clip
+  - video clip
+  - news clip
+  - clip subject
+  - viral video
+  - being watched
+  - chatter
+  - chat user
+  - twitch chat
+  - raid

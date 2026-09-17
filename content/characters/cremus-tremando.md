@@ -32,4 +32,6 @@ Invoking *"Bielzotroth, the God of Mistriff,"* Tremando attempted to cast an anc
 
 ## Notable moments
 
+
 - **[14:35]** ([[episodes/2026-09-04|2026-09-04]]): Invokes Bielzotroth live on the broadcast, invoices the network, and makes a hasty exit via snake powers.
+- **[14:35]** ([[episodes/2026-09-04|2026-09-04]]): One-off mystic persona. Origin: 'from the back alleys of New York' and 'the heights of the ancient mountain Balamansore.' Invoked entity: 'Bielzotroth, the God of Mistriff.' Charge: 'no refunds.' Casts spells via 'snake powers.'

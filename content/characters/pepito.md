@@ -112,6 +112,10 @@ Beyond station management, Pepito is known for asserting his demands across the 
 
 
 
+
+
+
+
 - **[00:06]** ([[episodes/2026-09-02|2026-09-02]]): Broadcasts the network's official sign-on: *"I'm Pepito, I'm the dog that produces the show, and now it is live, and I'm a dog."*
 - **[15:39]** ([[episodes/2026-09-04|2026-09-04]]): Immediately alerts the control room to audio discrepancies during an attempted body-swap: *"That's not him... That sounds exactly like Crum. Because I am exactly like Crum. Because I am Crum."*
 - **[01:50:58]** ([[episodes/2026-09-04|2026-09-04]]): Issues an executive broadcast decree demanding a "big bag of sangria" for the extended holiday weekend.
@@ -137,3 +141,8 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[00:06]** ([[episodes/2026-06-03|2026-06-03]]): Executive Producer Pepito is a canine broadcast executive who opens every show from the control room via Producer Cam, identifying as 'the dog that produces the show.'
 - **[00:08]** ([[episodes/2026-05-29|2026-05-29]]): Pepito opens broadcasts with his signature 'I'm Pepito, I'm the dog that produces the show' intro.
 - **[00:06]** ([[episodes/2026-05-26|2026-05-26]]): As the network's canine mascot, Pepito serves as both host and executive producer, with his signature 'I'm the dog that produces the show' introduction becoming a staple of BIN broadcasts.
+- **[00:08]** ([[episodes/2026-08-26|2026-08-26]]): Pepito cold open remains the standard show intro: 'I'm Pepito, I'm the dog that produces the show.'
+- **[00:08]** ([[episodes/2026-09-01|2026-09-01]]): Pepito opens the show stating 'I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog.'
+- **[00:06]** ([[episodes/2026-09-02|2026-09-02]]): Standard opening line: 'I'm Pepito, I'm the dog that produces the show, and now it is live, and I'm a dog.'
+- **[00:08]** ([[episodes/2026-09-04|2026-09-04]]): Producer catchphrase: 'I'm Pepito, I'm the dog that produces the show.' End-of-show bit: demands a 'big bag of sangria' for Labor Day weekend and ultimately declares he will drink 'a whole bag of sangria' (Case: 'I'll also drink a whole bag of sangria'). Pepito also confirms he does NOT do tricks and that his catchphrase request 'give me a big old bowl of spaghetti' comes from chat.
+- **[15:39]** ([[episodes/2026-09-04|2026-09-04]]): During the body-swap, Pepito observes 'That's not him' when an unknown presence arrives, then 'Yeah, sorry. I'm here. That sounds exactly like Crumb. Because I am exactly like Crumb. Because I am Crumb.' — establishes Pepito as a recognizer of voices in real-time.

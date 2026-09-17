@@ -7,7 +7,12 @@ from typing import Any
 
 import yaml
 
-from .paths import CONTENT_CHARACTERS, CONTENT_SEGMENTS, CONTENT_STORYLINES
+from .paths import (
+    CANON_DENYLIST_YAML,
+    CONTENT_CHARACTERS,
+    CONTENT_SEGMENTS,
+    CONTENT_STORYLINES,
+)
 
 
 @dataclass
@@ -38,28 +43,98 @@ def _parse_frontmatter_and_body(path: Path) -> tuple[dict[str, Any], str]:
     return data, body
 
 
+def _strip_md_inline(text: str) -> str:
+    text = re.sub(r"\[\[(?:[^|\]]+\|)?([^\]]+)\]\]", r"\1", text)
+    text = re.sub(r"\*\*([^*]+)\*\*", r"\1", text)
+    text = re.sub(r"\*([^*]+)\*", r"\1", text)
+    return " ".join(text.split())
+
+
+def _section_body(body: str, heading: str) -> str:
+    pattern = rf"(^|\n)({re.escape(heading)}\s*\n)"
+    match = re.search(pattern, body, re.MULTILINE)
+    if not match:
+        return ""
+    start = match.end()
+    next_match = re.search(r"\n(?=#{1,2}\s)", body[start:])
+    end = start + next_match.start() if next_match else len(body)
+    return body[start:end].strip()
+
+
 def _clean_summary(body: str, max_chars: int = 140) -> str:
-    """Extract a concise single-sentence summary stripped of markdown links, callouts, and disclaimers."""
+    """Legacy short summary from first prose lines."""
     lines: list[str] = []
     for line in body.splitlines():
         line_str = line.strip()
-        # Skip headings, tables, bullet points, images, HTML, and blockquotes/callouts
         if not line_str or line_str.startswith(("#", "|", "-", "*", "!", "<", ">")):
             continue
         lines.append(line_str)
         if len(lines) >= 2:
             break
 
-    combined = " ".join(lines)
-    # Strip wikilinks [[target|label]] -> label, [[target]] -> target
-    combined = re.sub(r"\[\[(?:[^|\]]+\|)?([^\]]+)\]\]", r"\1", combined)
-    # Strip markdown bold/italic
-    combined = re.sub(r"\*\*([^*]+)\*\*", r"\1", combined)
-    combined = re.sub(r"\*([^*]+)\*", r"\1", combined)
-    combined = " ".join(combined.split())
-
+    combined = _strip_md_inline(" ".join(lines))
     if len(combined) > max_chars:
-        # Cut cleanly at word boundary
+        truncated = combined[:max_chars].rsplit(" ", 1)[0]
+        return truncated + "..."
+    return combined
+
+
+def _rich_character_summary(frontmatter: dict[str, Any], body: str, max_chars: int = 900) -> str:
+    """
+    Durable canon for prompts: frontmatter canon_notes, ## Canon notes,
+    ## Overview, and ## Key Attributes — so manual corrections survive re-extract.
+    """
+    parts: list[str] = []
+
+    fm_notes = frontmatter.get("canon_notes")
+    if isinstance(fm_notes, list):
+        parts.extend(str(n).strip() for n in fm_notes if str(n).strip())
+    elif isinstance(fm_notes, str) and fm_notes.strip():
+        parts.append(fm_notes.strip())
+
+    for heading in ("## Canon notes", "## Canon Notes"):
+        section = _section_body(body, heading)
+        if section:
+            for line in section.splitlines():
+                cleaned = _strip_md_inline(line.lstrip("-* ").strip())
+                if cleaned:
+                    parts.append(cleaned)
+            break
+
+    overview = _section_body(body, "## Overview")
+    if overview:
+        prose: list[str] = []
+        for line in overview.splitlines():
+            s = line.strip()
+            if not s or s.startswith(("#", "|", "!", "<", ">")):
+                continue
+            if s.startswith(("-", "*")):
+                prose.append(_strip_md_inline(s.lstrip("-* ").strip()))
+            else:
+                prose.append(_strip_md_inline(s))
+            if len(prose) >= 4:
+                break
+        if prose:
+            parts.append(" ".join(prose))
+
+    attrs = _section_body(body, "## Key Attributes & Lore") or _section_body(body, "## Key Attributes")
+    if attrs:
+        bullets: list[str] = []
+        for line in attrs.splitlines():
+            s = line.strip()
+            if s.startswith(("-", "*")):
+                bullets.append(_strip_md_inline(s.lstrip("-* ").strip()))
+            if len(bullets) >= 6:
+                break
+        if bullets:
+            parts.append("Traits: " + "; ".join(bullets))
+
+    if not parts:
+        return _clean_summary(body)
+
+    combined = " | ".join(parts)
+    combined = _strip_md_inline(combined)
+    if len(combined) > max_chars:
         truncated = combined[:max_chars].rsplit(" ", 1)[0]
         return truncated + "..."
     return combined
@@ -80,7 +155,17 @@ def load_canon_entities(directory: Path, entity_type: str) -> list[CanonEntity]:
         status = str(frontmatter.get("status") or "")
         tags = [str(t) for t in (frontmatter.get("tags") or [])]
 
-        summary = _clean_summary(body)
+        if entity_type == "character":
+            summary = _rich_character_summary(frontmatter, body)
+        else:
+            summary = _clean_summary(body)
+            # Storylines: prefer Background / Status for richer seed
+            if entity_type == "storyline":
+                bg = _section_body(body, "## Background & Network Record") or _section_body(
+                    body, "## Background"
+                )
+                if bg:
+                    summary = _rich_character_summary({}, f"## Overview\n\n{bg}") or summary
 
         entities.append(
             CanonEntity(
@@ -96,7 +181,7 @@ def load_canon_entities(directory: Path, entity_type: str) -> list[CanonEntity]:
     return entities
 
 
-_EXCLUDED_NAME_TOKENS = (
+_DEFAULT_NAME_TOKENS = (
     "trump",
     "vance",
     "mcconnell",
@@ -112,7 +197,7 @@ _EXCLUDED_NAME_TOKENS = (
     "card king",
 )
 
-_EXCLUDED_NOTE_TOKENS = (
+_DEFAULT_NOTE_TOKENS = (
     "senator",
     "president",
     "politician",
@@ -139,14 +224,50 @@ _EXCLUDED_NOTE_TOKENS = (
     "raid",
 )
 
+_denylist_cache: dict[str, Any] | None = None
+
+
+def load_canon_denylist() -> dict[str, Any]:
+    """Load tools/canon_denylist.yaml merged over built-in defaults."""
+    global _denylist_cache
+    if _denylist_cache is not None:
+        return _denylist_cache
+
+    data: dict[str, Any] = {
+        "names": [],
+        "name_tokens": list(_DEFAULT_NAME_TOKENS),
+        "note_tokens": list(_DEFAULT_NOTE_TOKENS),
+    }
+    if CANON_DENYLIST_YAML.exists():
+        try:
+            loaded = yaml.safe_load(CANON_DENYLIST_YAML.read_text(encoding="utf-8")) or {}
+        except yaml.YAMLError:
+            loaded = {}
+        for key in ("names", "name_tokens", "note_tokens"):
+            extra = loaded.get(key) or []
+            if isinstance(extra, list):
+                merged = list(data[key])
+                for item in extra:
+                    s = str(item).strip()
+                    if s and s.lower() not in {x.lower() for x in merged}:
+                        merged.append(s)
+                data[key] = merged
+    _denylist_cache = data
+    return data
+
 
 def is_excluded_external_subject(name: str, notes: str = "") -> bool:
     """True for politicians, clip subjects, chatters, raid targets — not wiki characters."""
-    lower_name = name.lower()
+    deny = load_canon_denylist()
+    lower_name = name.lower().strip()
     lower_notes = notes.lower()
-    if any(token in lower_name for token in _EXCLUDED_NAME_TOKENS):
+
+    for exact in deny.get("names") or []:
+        if lower_name == str(exact).lower().strip():
+            return True
+    if any(token in lower_name for token in deny.get("name_tokens") or []):
         return True
-    if any(token in lower_notes for token in _EXCLUDED_NOTE_TOKENS):
+    if any(token in lower_notes for token in deny.get("note_tokens") or []):
         return True
     if "hooper" in lower_name:
         return True
