@@ -47,8 +47,8 @@ Transcription does not need a key. Extraction calls Gemini directly:
    ```
 3. *(Optional)* Pin a model:
    ```bash
-   GEMINI_MODEL=gemini-2.5-flash
-   # GEMINI_MODEL=gemini-2.5-flash-lite
+   GEMINI_MODEL=gemini-3.6-flash
+   # GEMINI_MODEL=gemini-3.6-flash-lite
    ```
 
 #### Hugging Face Token (Optional, Recommended for Remote Servers)
@@ -121,7 +121,7 @@ binlore extract --latest
 # Extract for a specific VOD ID
 binlore extract 2863722826
 
-binlore extract --latest --model gemini-2.5-flash-lite
+binlore extract --latest --model gemini-3.6-flash-lite
 ```
 
 ### 4. Propagate lore into the wiki (`binlore update-wiki`)

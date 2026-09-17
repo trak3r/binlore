@@ -178,10 +178,10 @@ Lore extraction uses the Gemini API free tier directly (not OpenRouter). Transcr
    ```bash
    GEMINI_API_KEY="your-gemini-api-key-here"
    ```
-3. *(Optional)* Pin a model. Default is `gemini-2.5-flash`. If daily quota is tiny, switch to Flash-Lite:
+3. *(Optional)* Pin a model. Default is `gemini-3.6-flash`. If daily quota is tiny, switch to Flash-Lite:
    ```bash
-   GEMINI_MODEL="gemini-2.5-flash"
-   # GEMINI_MODEL="gemini-2.5-flash-lite"
+   GEMINI_MODEL="gemini-3.6-flash"
+   # GEMINI_MODEL="gemini-3.6-flash-lite"
    ```
 
 #### Hugging Face Token (Optional, Recommended for Cloud Servers)
@@ -258,7 +258,7 @@ Run the LLM extraction pipeline over the transcript:
 ./binlore extract --latest
 
 # Or specify Flash-Lite / a timeout
-./binlore extract --latest --model gemini-2.5-flash-lite
+./binlore extract --latest --model gemini-3.6-flash-lite
 ./binlore extract 2863722826 --timeout 180
 ```
 
@@ -513,7 +513,7 @@ tail -f tools/runs/batch.log
 | `--oldest-first` | `True` | Process backlog from oldest to newest (default) |
 | `--newest-first` | `False` | Process newest unprocessed items first |
 | `--model MODEL` | `small` | `faster-whisper` model: `tiny`, `base`, `small`, `medium`, `large-v3` |
-| `--extract-model` | `gemini-2.5-flash` | Gemini model id (`--openrouter-model` is an alias) |
+| `--extract-model` | `gemini-3.6-flash` | Gemini model id (`--openrouter-model` is an alias) |
 | `--delay SECONDS` | `5.0` | Cool-down sleep in seconds between episodes |
 | `--timeout SECONDS` | `180.0` | Extraction timeout per model |
 | `--min-disk-gb GB` | `1.0` | Minimum free disk space in GB required before ingesting |

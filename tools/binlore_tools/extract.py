@@ -34,9 +34,9 @@ def load_env() -> None:
 
 load_env()
 
-DEFAULT_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+DEFAULT_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
 # Same-family fallback only when the primary model is unavailable (404), never on quota.
-FALLBACK_MODELS = ["gemini-2.5-flash-lite"]
+FALLBACK_MODELS = ["gemini-3.6-flash-lite"]
 
 EXTRACT_SCHEMA: dict[str, Any] = {
     "type": "object",
