@@ -50,6 +50,9 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2026-07-17|2026-07-17]] | How-To host. Co-hosted instructional triple-feature on vocal aerobics, advanced finger snapping, and self-massage. |
 | [[episodes/2026-06-22|2026-06-22]] | Mentioned in reference to 'the two Jebs' during merch brainstorming. |
 | [[episodes/2026-06-15|2026-06-15]] | Host of 'How To with Jeb', demonstrates Kool-Aid recipe. |
+| [[episodes/2025-09-15|2025-09-15]] | How To host. |
+| [[episodes/2025-07-01|2025-07-01]] | instructional host. |
+| [[episodes/2025-06-19|2025-06-19]] | instructional host. |
 | [[episodes/2024-07-20|2024-07-20]] | Debates Dad on better son (Dad picks Jet), learns RISA debate framework, scat-offs with Dad in wood resonance. |
 
 ## Notable Quotes
@@ -69,10 +72,10 @@ See also: [[../segments/how-to-with-jeb|How To with Jeb]], [[../characters/index
 
 ## Notable moments
 
-
-
-
 - **[01:25:37]** ([[episodes/2026-07-17|2026-07-17]]): Jeb's Dad reveals he is actively trying to escape his timber prison by willing his hands into a file to sand down 'the spiritual bars that must be holding me in here' one second at a time.
 - **[54:37]** ([[episodes/2026-06-22|2026-06-22]]): Jeb Nogget is the host of 'How To with Jeb' who is joined by his deceased father trapped inside a wooden board. He is referenced in merch brainstorming as 'the two Jebs' inside all of us.
 - **[01:36:43]** ([[episodes/2026-06-15|2026-06-15]]): Jeb Nogget's 'How To with Jeb' segment features a Kool-Aid pineapple recipe and oral aerobics.
 - **[01:25:00]** ([[episodes/2026-08-14|2026-08-14]]): Jeb appears to host the unscheduled 'How To' block, claiming pre-cut wood and an unspecified 'mechanism' for handling wood, while learning about college-level self-defense and club dancing.
+- **[[01:13:51]]** ([[episodes/2025-06-19|2025-06-19]]): Currently missing; Jeb's Dad (spirit in board) confirms no one can find him and he hasn't seen signs of death.
+- **[42:10]** ([[episodes/2025-07-01|2025-07-01]]): Fell down a 40-foot empty well, landed face-first on stone bottom, required facial reconstructive surgery using throat tissue [42:10].
+- **[48:10]** ([[episodes/2025-07-01|2025-07-01]]): Brother Jet Nogget is a world-class plastic surgeon but unavailable due to full schedule [48:10].

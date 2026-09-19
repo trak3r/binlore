@@ -5,7 +5,7 @@ aliases:
   - Marfis Darfus
   - Marf
   - Marv
-first_seen: 2026-06-15
+first_seen: 2025-09-25
 status: recurring
 tags:
   - character
@@ -39,6 +39,7 @@ Lead anchor [[case-blackwell|Case Blackwell]] and in-studio contributor [[lilian
 |---|---|
 | [[../episodes/2026-08-14|2026-08-14]] | Guest Desk Anchor | Arrives at `[01:06:30]` to guest-host [[../segments/amongst-the-web|Amongst the Web]], rating submissions from the Discord queue including a *Love Island* confession (`5.5`), an escalator fugue state, a vintage *Family Matters* cop tragedy scene (`6.44`), and a "crotch pot" hiking teriyaki demonstration (`5.0`). |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
+| [[episodes/2025-09-25|2025-09-25]] | town hall guest. |
 
 ## Notable Moments
 
@@ -53,3 +54,8 @@ Lead anchor [[case-blackwell|Case Blackwell]] and in-studio contributor [[lilian
 - How did Marfus first gain clearance to access the *Barely Informed News* broadcast room and Discord submission queue?
 
 See also: [[../segments/amongst-the-web|Amongst the Web]], [[../characters/index|On-Air Talent & Staff]].
+
+## Notable moments
+
+- **[1:51:08]** ([[episodes/2025-09-25|2025-09-25]]): Claims 'reparded strength' from high school; upper body strength sufficient to defend against killers [1:51:08].
+- **[1:59:59]** ([[episodes/2025-09-25|2025-09-25]]): Self-appointed Marshal of the BIN Halloween Parade; proposes October 2 date [1:59:59].

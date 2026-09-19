@@ -1,0 +1,282 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "08:01",
+      "canonical_segment": "News",
+      "title": "Musical Cold Open: Pepito, Jeff Ripple, and Crum Perform Original Songs",
+      "notes": "Pepito opens as 'Papita the dog,' Jeff Ripple debuts a smooth R&B ballad about himself, and Crum delivers a glitchy auto-tuned track about being 'crumbelievable' before the official broadcast countdown."
+    },
+    {
+      "start": "08:53",
+      "end": "50:54",
+      "canonical_segment": "News",
+      "title": "Trump–Musk Feud Dominates; Kendall Visits; Neighbor CIA Saga Recounted",
+      "notes": "Case, Pepito, Crum, and Kendall dissect the escalating Trump–Elon public breakup, debate the 'America Party,' and Case recounts the summer-long neighbor confrontation involving CIA claims and a parking lot standoff."
+    },
+    {
+      "start": "50:54",
+      "end": "01:14:19",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Trailer Reviews: Tetsuo, Architectone, Iron Man Game",
+      "notes": "Trent (introduced as Chet's son) and Guy Redacted watch and discuss the Tetsuo: The Iron Man trailer, an architecture documentary trailer, and a Marvel Iron Man game trailer heavy on body-horror imagery."
+    },
+    {
+      "start": "01:14:19",
+      "end": "01:31:16",
+      "canonical_segment": "Munch & Crum",
+      "title": "Who Gets Joe Rogan in the Divorce: Trump or Elon?",
+      "notes": "Crum and Munch debate which billionaire retains Joe Rogan's allegiance; Crum reveals he is $55,000 from clearing his $300,000 gorilla gambling debt, and Munch rallies chat votes for the gorilla punch."
+    },
+    {
+      "start": "01:31:16",
+      "end": "01:53:25",
+      "canonical_segment": "Guy Redacted",
+      "title": "Guy Redacted Teaches Dark Debate Arts; Demonstrates on Chet and Chat",
+      "notes": "Guy Redacted hosts a solo segment dissecting 'debate conspiracy' videos, then field-tests ten manipulation techniques—including judo concession, Socratic questioning, and contrast effect—on a disguised Chet and chat participants."
+    },
+    {
+      "start": "01:53:25",
+      "end": "02:25:37",
+      "canonical_segment": "News",
+      "title": "Jay Drilla Rapid-Fire News & Ted Turner Interview",
+      "notes": "New artist Jay Drilla speed-runs viewer-submitted headlines (Amazon humanoid robots, 200-year-old condom, pet yeast, AI attractiveness rating) before interviewing a Ted Turner impersonator who claims ownership of every network starting with T."
+    },
+    {
+      "start": "02:25:37",
+      "end": "02:33:18",
+      "canonical_segment": "Therapy",
+      "title": "Therapy with Dr. Chath: Jay Drilla Embraces Flies and Fart Philosophy",
+      "notes": "Dr. Chath counsels Jay Drilla on fly swarms, daddy issues, and the universal truth that every historical figure has ripped an asshole-shredding fart; Jay declares a breakthrough and exits."
+    },
+    {
+      "start": "02:41:53",
+      "end": "03:36:48",
+      "canonical_segment": "DJ C4",
+      "title": "DJ C4 & Ghost Writer Craft 'Sleep Aura' with Sleepy Boy",
+      "notes": "DJ C4 summons the undead Ghost Writer to pen a rebellious sleep-themed track, then records Sleepy Boy—fresh off experimental 'psychophagia' surgery—over a copyright-free beat, iterating through multiple vocal passes and a sleeping-pill laundry list."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "Lead Anchor",
+      "notes": "Lead Anchor. Anchored the Trump–Musk feud coverage, recounted the CIA neighbor saga, and managed the broadcast's three-segment limit.",
+      "lore_notes": [],
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "Executive Producer",
+      "notes": "Executive Producer. Opened the show as 'Papita the dog,' fired graphics for the feud coverage, and later appeared as a DJ C4 collaborator.",
+      "lore_notes": [],
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "Correspondent",
+      "notes": "Correspondent. Debuted an original R&B ballad about his own romantic prowess during the cold open.",
+      "lore_notes": [],
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "Debate Analyst",
+      "notes": "Debate Analyst. Sang a glitchy auto-tuned track in the cold open; revealed $55K remaining on $300K gorilla gambling debt and guest-house living arrangement.",
+      "lore_notes": [
+        "Gorilla gambling debt reduced to $55,000 from $300,000 [01:15:57]",
+        "Lives in a guest house separate from partner Belulia [01:19:23]"
+      ],
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "In-Studio Contributor",
+      "notes": "In-Studio Contributor. Walked through the studio, shared birthday timeline (June 13th), promoted weekend streams, and confirmed sister no longer hates Case.",
+      "lore_notes": [
+        "Birthday June 13th (celebrated between June 10–16) [13:25]",
+        "Sister no longer hates Case; neighbor CIA incident fizzled after Case's cordial text strategy [40:02, 43:18]"
+      ],
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "Chief Science Correspondent",
+      "notes": "Chief Science Correspondent. Appeared as 'Trent' (claimed son) and later as debate dummy for Guy Redacted's manipulation techniques; defended science via faith-in-God argument.",
+      "lore_notes": [
+        "Introduced a teenage 'son' persona named Trent [53:19]"
+      ],
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Guy Redacted",
+      "role": "Segment Host",
+      "notes": "Segment Host. Hosted a solo segment teaching ten dark debate tactics, successfully demonstrating them on Chet and chat; claimed ghost-wrote every Pink song.",
+      "lore_notes": [
+        "Claims authorship of all Pink songs [03:30:07]"
+      ],
+      "canonical_name": "Guy Redacted",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "Debate Analyst",
+      "notes": "Debate Analyst. Rallied chat votes for Crum's gorilla punch, argued Joe Rogan stays with Trump, and mocked Crum's 'moose-boosh' speaking style.",
+      "lore_notes": [],
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jay Drilla",
+      "role": "Guest Artist / Fill-In Host",
+      "notes": "Guest Artist / Fill-In Host. Debuted as up-and-coming musician, speed-ran news headlines, rated own AI attractiveness, interviewed Ted Turner, and received therapy.",
+      "lore_notes": [
+        "Had 'song installation surgery' on thyroid limiting vocal range [02:24:30]"
+      ],
+      "canonical_name": "Jay Drilla",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Chath",
+      "role": "Therapist",
+      "notes": "Therapist. Counseled Jay Drilla on flies, daddy issues, and the universal fart equality principle; accepted spider-web joint hit.",
+      "lore_notes": [],
+      "canonical_name": "Dr. Chath",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Ted Turner",
+      "role": "Guest (Impersonator)",
+      "notes": "Guest (Impersonator). Claimed ownership of every network starting with T, advocated sun worship via 18 visor-bearers, and declared himself 'sexy crazy' vs. Vince McMahon.",
+      "lore_notes": [],
+      "canonical_name": "Ted Turner",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ C4",
+      "role": "Musical Producer",
+      "notes": "Musical Producer. Orchestrated collaborative 'Sleep Aura' track with Ghost Writer and Sleepy Boy, explaining AI-branding revenue model.",
+      "lore_notes": [],
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Sleepy Boy",
+      "role": "Guest Artist",
+      "notes": "Guest Artist. Recorded vocals for 'Sleep Aura' after experimental 'psychophagia' surgery; fell asleep mid-session.",
+      "lore_notes": [
+        "Underwent experimental 'psychophagia' surgery (psychedelic dip) [03:07:58]"
+      ],
+      "canonical_name": "Sleepy Boy",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Ghost Writer",
+      "role": "Undead Lyricist",
+      "notes": "Undead Lyricist. Claimed all songs ever written were authored by ghosts; supplied sleep-themed word bank and sleeping-pill list via ChatGPT.",
+      "lore_notes": [],
+      "canonical_name": "Ghost Writer",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum reveals debt to mechanical gorilla reduced to $55K; Munch intensifies chat campaign for gorilla punch execution.",
+      "timestamp": "01:15:57"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "Crum",
+      "fact": "Crum's gorilla gambling debt reduced to $55,000 from $300,000 [01:15:57]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Crum",
+      "fact": "Crum lives in a guest house separate from partner Belulia [01:19:23]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Kendelle",
+      "fact": "Kendelle's birthday June 13th (celebrated mid-June) [13:25]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Kendelle",
+      "fact": "Kendelle's sister no longer hates Case; neighbor CIA incident resolved via Case's cordial text strategy [40:02, 43:18]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Chet",
+      "fact": "Chet introduced a teenage 'son' persona named Trent [53:19]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Guy Redacted claims authorship of all Pink songs [03:30:07]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Jay Drilla had 'song installation surgery' on thyroid limiting vocal range [02:24:30]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Sleepy Boy underwent experimental 'psychophagia' surgery (psychedelic dip) [03:07:58]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News led with the Trump–Musk feud as 'battle of the century,' featuring a musical cold open, Kendall's studio visit, and a Munch & Crum debate on Joe Rogan custody that advanced the Crum Dick Punch storyline. The broadcast then cycled through a Chet Guy the Science Eyes trailer review, a Guy Redacted masterclass in debate manipulation, a Jay Drilla rapid-news hour with a Ted Turner interview, a Therapy session on universal fart equality, and a marathon DJ C4 songwriting session producing the sleep-rebellion anthem 'Sleep Aura' with an undead ghost writer and a post-surgery Sleepy Boy.",
+  "_meta": {
+    "vod_id": "b9tvtwX2zQA",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 174291,
+    "approx_prompt_tokens": 43572,
+    "transcript_lines": 543
+  }
+}

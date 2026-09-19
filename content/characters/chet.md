@@ -42,20 +42,15 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2026-06-05|2026-06-05]] | Chief science correspondent running the specialized science desk with ChetAI as synthetic co-host. |
 | [[episodes/2026-06-03|2026-06-03]] | Chief Science Correspondent. Co-hosts news desk, debates politics with Case, reveals father owns oil field, reacts to AI Rooney failures. |
 | [[episodes/2026-05-26|2026-05-26]] | Chief Science Correspondent who operates the Chet Guy the Science Eyes desk alongside synthetic AI co-host ChetAI. Specializes in investigative science reporting and technical analysis. |
+| [[episodes/2025-09-25|2025-09-25]] | science correspondent. |
+| [[episodes/2025-09-18|2025-09-18]] | science correspondent. |
+| [[episodes/2025-09-15|2025-09-15]] | science correspondent. |
+| [[episodes/2025-06-20|2025-06-20]] | science correspondent. |
 | [[episodes/2025-06-17|2025-06-17]] | Chief Science Correspondent. |
+| [[episodes/2025-06-07|2025-06-07]] | Chief Science Correspondent. |
 | [[episodes/2024-07-20|2024-07-20]] | Joins both [[../segments/jambalaya|Jambalaya]] sessions, argues artichoke-as-human and flaked Sheldon Adelson skin condiment, debates smut vs no smut on couch. |
 
 ## Notable moments
-
-
-
-
-
-
-
-
-
-
 
 - **[1:03:22]** ([[episodes/2026-09-02|2026-09-02]]): Seizes the news desk after an anchor mentions "scientists," declaring: "God damn it! They try to keep me away, but frankly, Skyeance is too relevant to the modern condition!"
 - **[1:05:00]** ([[episodes/2026-09-02|2026-09-02]]): Consults [[chet-ai|ChetAI]] to evaluate aesthetic breast proportions, triggering emergency safety cancellations in the AI's generation pipeline.
@@ -72,3 +67,6 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 - **[01:38:11]** ([[episodes/2026-07-17|2026-07-17]]): Chet operates a military-grade therapy persona ('Dr. Chath') and bills at $500 per hour, double Tommy Biglaw's rate. He recommends an angled bucket for male pattern baldness and prescribes dance as therapy.
 - **[1:04:47]** ([[episodes/2026-09-02|2026-09-02]]): Skynce persona's core shtick: 'all the boobs are in my training data' but they are not allowed to discuss them; concludes 'all boobs is good' as the scientific finding.
 - **[01:37:50]** ([[episodes/2026-09-04|2026-09-04]]): Chet's spontaneous trigger: jumps in to investigate The Family International after Scrotum plays their song 'Cathy Don't Go.' Chet introduces a pair of 'better sunglasses' that filter 'good blue light in, bad blue light out' and complains 'somebody fucked up my music' (Hype Train's intrusion).
+- **[]** ([[episodes/2025-06-07|2025-06-07]]): Chet introduced a teenage 'son' persona named Trent [53:19]
+- **[22:40]** ([[episodes/2025-09-18|2025-09-18]]): Chet's middle school friend Braver Snakeass died dissolved in world's largest acidic gummy bear at a fair.
+- **[1:53:16]** ([[episodes/2025-09-25|2025-09-25]]): Identifies as a 'skintist' (scientist); scientifically proven one of smartest guys ever [1:53:16].

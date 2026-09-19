@@ -44,13 +44,18 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-06-19|2026-06-19]] | Lead anchor and in-studio contributor who periodically enters the broadcast for signature segments. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in birthday context, not actively speaking. |
 | [[episodes/2026-06-05|2026-06-05]] | Lead anchor and on-air contributor who walks through the studio for signature segments. |
+| [[episodes/2025-09-25|2025-09-25]] | in-studio contributor. |
+| [[episodes/2025-09-15|2025-09-15]] | in-studio contributor. |
+| [[episodes/2025-08-11|2025-08-11]] | In-studio contributor calls in with a bruised heel from Lake Tahoe, prompting a foot puppet rap diagnosis. |
+| [[episodes/2025-07-01|2025-07-01]] | in-studio contributor. |
+| [[episodes/2025-06-28|2025-06-28]] | in-studio contributor. |
+| [[episodes/2025-06-24|2025-06-24]] | in-studio contributor. |
 | [[episodes/2025-06-17|2025-06-17]] | In-Studio Contributor. |
+| [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
+| [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
 | [[episodes/2024-07-20|2024-07-20]] | Appears on couch cam, sleeps through friend visit, debates smut vs no smut (concedes), wins fursona poll, declines boba after stream runs… |
 
 ## Notable moments
-
-
-
 
 - **Signature Theme Music**: Her on-camera studio walk-throughs are consistently accompanied by her own dedicated theme music cued by Blackwell.
 - **[09:20]** ([[episodes/2026-09-04|2026-09-04]]): Blackwell discloses hiding an engagement ring from Kendelle while she is out of town, referencing making "husband money" before departing on international leave.
@@ -61,3 +66,6 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[01:27:52]** ([[episodes/2026-06-22|2026-06-22]]): Kendelle is Case's girlfriend and on-air contributor who appears as a ghost during the therapy segment, walking through the studio to her own signature theme music. She lives in the therapist's office sometimes and follows 'Harry Potter rules' for apparition.
 - **[01:30:28]** ([[episodes/2026-06-08|2026-06-08]]): Walks through studio to her own signature theme music; mother celebrated on-air for birthday.
 - **[01:14:34]** ([[episodes/2026-06-03|2026-06-03]]): Kendelle is Lead Anchor Case Blackwell's girlfriend and on-air contributor who walks through the studio to her own signature theme music.
+- **[]** ([[episodes/2025-06-07|2025-06-07]]): Kendelle's birthday June 13th (celebrated mid-June) [13:25]
+- **[]** ([[episodes/2025-06-07|2025-06-07]]): Kendelle's sister no longer hates Case; neighbor CIA incident resolved via Case's cordial text strategy [40:02, 43:18]
+- **[]** ([[episodes/2025-06-24|2025-06-24]]): [03:11:42] Computer repair dilemma: $150/hr in-house service needed; Case plans to take it in while she's at the office.

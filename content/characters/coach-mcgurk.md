@@ -3,7 +3,7 @@ title: Coach McGurk
 type: character
 aliases:
   - McGurk
-first_seen: 2026-03-07
+first_seen: 2025-06-28
 status: minor contributor
 tags:
   - character
@@ -28,6 +28,8 @@ On the stand he greets the room warmly, notes that some of his old voice has ret
 | Episode | Notes |
 |---|---|
 | [[../episodes/2026-03-07|2026-03-07]] | Character Witness | Called at `[01:22:32]` for Crum; objects to counsel pantslessness; later referenced when Case loses track of who was on the stand. |
+| [[episodes/2025-07-01|2025-07-01]] | guest vocalist. |
+| [[episodes/2025-06-28|2025-06-28]] | physical therapist. |
 
 ## Notable Quotes
 
@@ -46,3 +48,7 @@ On the stand he greets the room warmly, notes that some of his old voice has ret
 - Will McGurk return as a recurring character witness for other network defendants?
 
 See also: [[don-riggles|Don Riggles]], [[jizbo|Jizbo]], [[crum|Crum]], [[../episodes/2026-03-07|Episode 2026-03-07]], [[index|On-Air Talent & Staff]].
+
+## Notable moments
+
+- **[01:41:50]** ([[episodes/2025-06-28|2025-06-28]]): [01:41:50] Fired by Munch after defending Crum; revealed he taught a sex-ed class claiming men can squirt.

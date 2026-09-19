@@ -4,7 +4,7 @@ type: character
 aliases:
   - Ripple
   - Jam EFE
-first_seen: 2026-05-29
+first_seen: 2025-05-30
 status: recurring
 tags:
   - character

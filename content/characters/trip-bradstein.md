@@ -36,11 +36,19 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 | [[episodes/2026-06-29|2026-06-29]] | Debuts after emerging from a two-month bush hibernation. Conducts [[../segments/trip-on-the-street|Trip on the Street]] interviews with park visitors on audience-submitted topics, interviewing his mother (confusing her for a stranger), Hype Train, an aggressive DVD salesman, and a George W. Bush impersonator. |
 | [[episodes/2026-06-19|2026-06-19]] | Field correspondent stationed in public parks conducting on-the-spot interviews with passersby. |
 | [[episodes/2026-06-05|2026-06-05]] | Field correspondent residing permanently in public parks, conducting 'on the street' opinion interviews. |
+| [[episodes/2025-06-28|2025-06-28]] | field correspondent. |
+| [[episodes/2025-06-24|2025-06-24]] | field correspondent. |
 | [[episodes/2025-06-17|2025-06-17]] | Field Correspondent. |
+| [[episodes/2025-06-11|2025-06-11]] | field correspondent. |
+| [[episodes/2025-06-02|2025-06-02]] | field correspondent. |
 | [[episodes/2024-07-20|2024-07-20]] | Rapid-fire street debates from park bushes, settles all via coin flip, loses majority, refuses to leave streets, interacts with bread man,… |
 
 ## Notable moments
 
-
 - **[01:50:21]** ([[episodes/2026-06-29|2026-06-29]]): Emerges live from his park bush following an alleged two-month hibernation, declaring "I'll never leave these streets," and conducts street interviews based on audience-submitted questions. When his own mother approaches his bush, he treats her as an unfamiliar pedestrian.
 - **[01:50:21]** ([[episodes/2026-06-29|2026-06-29]]): Field correspondent Trip Bradstein broadcasts live from a park bush after a 'two-month bush hibernation' and insists 'I'll never leave these streets.' Has a mother who visits the park and confuses him with a stranger.
+- **[2:11:54]** ([[episodes/2025-06-02|2025-06-02]]): Trip Bradstein institutes a three-strike 'fan ejection' rule for repeat park interviewees.
+- **[]** ([[episodes/2025-06-11|2025-06-11]]): Trip Bradstein's accountant/enemy is a hamster who lives in his bush. [3:05:42]
+- **[]** ([[episodes/2025-06-11|2025-06-11]]): Trip Bradstein's ska band covered mariachi songs ska-style; former bandmate Mitchell died in a bus accident but is kept alive by 'the power of ska.' [3:28:31]
+- **[]** ([[episodes/2025-06-24|2025-06-24]]): [02:52:28] Keeps a computer in his bush; claims to be landlord of the bush he claimed.
+- **[01:53:15]** ([[episodes/2025-06-28|2025-06-28]]): [01:53:15] Implemented 10-minute cooldown on !trip command per person.

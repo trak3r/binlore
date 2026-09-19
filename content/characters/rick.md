@@ -3,7 +3,7 @@ title: Rick
 type: character
 aliases:
   - Rick (Host of Amongst the Web)
-first_seen: 2026-06-03
+first_seen: 2025-06-02
 status: recurring
 tags:
   - character
@@ -31,6 +31,10 @@ Rick joined the broadcast on the [[episodes/2026-09-04|2026-09-04 broadcast]] to
 | [[episodes/2026-07-16|2026-07-16]] | Investigative media correspondent joins the news desk, providing commentary on Trump's address, JD Vance's couch jokes, and the humanoid robot story. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
 | [[episodes/2026-06-03|2026-06-03]] | Host of Amongst the Web. Referenced in AI Rooney complaint about thin blue line flag at his BBQs. |
+| [[episodes/2025-09-15|2025-09-15]] | host of Amongst the Web. |
+| [[episodes/2025-06-24|2025-06-24]] | Deep State correspondent / Amongst the Web host. |
+| [[episodes/2025-06-13|2025-06-13]] | Amongst the Web host. |
+| [[episodes/2025-06-02|2025-06-02]] | Amongst the Web host. |
 
 ## Notable moments
 

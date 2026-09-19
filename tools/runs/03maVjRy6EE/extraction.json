@@ -1,0 +1,201 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "start": "00:08",
+      "end": "03:58",
+      "notes": "Pepito delivers the top-of-hour sign-on as executive producer, identifying himself as the dog who produces the show."
+    },
+    {
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Piss Freestyle & Subscriber Thanks",
+      "start": "03:58",
+      "end": "33:13",
+      "notes": "Hype Train commandeers the return broadcast with a ten-minute piss-themed freestyle rap, thanking subscribers while advancing the theory that urine is stored in the balls via ghost artists painting it into Tupperware."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Trump Deploys National Guard to DC",
+      "start": "33:47",
+      "end": "59:51",
+      "notes": "Jeff Ripple joins Case at the news desk to cover Trump's invocation of the D.C. Home Rule Act to federalize the Metropolitan Police and deploy 800 National Guard troops, citing crime statistics that show violent crime actually declining since 2023."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Trailer Watching: Haunted Hotel, One Piece S2, Jordan Peele Football Horror, Highway to Hell",
+      "start": "01:01:30",
+      "end": "01:19:48",
+      "notes": "Case and Jeff Ripple react to four trailers: Netflix's animated Haunted Hotel, One Piece Season 2 live-action, Jordan Peele's football horror film, and the 1991 cult film Highway to Hell."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "title": "Gatorade vs Powerade Debate Derailed by Crum's Missing Penis",
+      "start": "01:19:48",
+      "end": "01:34:36",
+      "notes": "Munch and Crum debate sports drinks while Crum reveals his penis is missing, he holds a devil's key in his soul, suffers flaming pigeon visions, and everything tastes like sardines; Munch claims he visited hell and was promised resurrection."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Peter Gibbon Reads AI Porn Addiction & Medical Oddities",
+      "start": "01:34:36",
+      "end": "01:55:30",
+      "notes": "Peter Gibbon reads stories on AI-generated porn addiction ('gooners'), Ozempic anti-aging study, a woman selling toenails for $80k/year, persistent genital arousal disorder, and tarantulas with massive penises."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "title": "How to Scat and How to Skank",
+      "start": "01:57:05",
+      "end": "02:15:15",
+      "notes": "Jeb Nogget attempts to learn scatting from the Scatman and a vocal coach, then skanking from a ska tutorial, while his dead father's board heckles and reveals brother Jet performed at the Scatman's funeral."
+    },
+    {
+      "canonical_segment": "DJ Newsic",
+      "title": "Kendelle's Foot Injury & Foot Puppet Rap Diagnosis",
+      "start": "02:15:15",
+      "end": "02:27:02",
+      "notes": "Kendelle calls in with a bruised heel from Lake Tahoe; DJ Newsic introduces a foot puppet rapper who delivers medical advice in verse before the musical sign-off and raid."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "notes": "Anchor returns from vacation to preside over a chaotic broadcast spanning piss freestyles, martial law news, and a rapping foot puppet.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "notes": "Executive producer delivers cold open and manages broadcast control throughout the episode.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "notes": "Derails the top of the show with a ten-minute piss-themed freestyle rap incorporating subscriber thanks and ball-based urine storage theory.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "notes": "Correspondent covers Trump's National Guard deployment to DC while trading barbs with Case about authoritarian overreach.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "notes": "Debate analyst torments Crum over his missing penis and hell visions while arguing for Gatorade supremacy.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "notes": "Debate analyst defends Powerade while missing his penis, harboring a devil's key in his soul, and experiencing flaming pigeon visions.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "notes": "News stowaway reads gooner AI porn addiction and medical oddity stories while promoting his wall crawlspace mythology.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "notes": "Woodshop host learns to scat and skank via YouTube tutorials while his dead father's board heckles from the timber.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "notes": "Wooden board spirit mocks Jeb's scatting, reveals brother Jet performed at the Scatman's funeral per the Scatman's dying wish.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "notes": "In-studio contributor calls in with a bruised heel from Lake Tahoe, prompting a foot puppet rap diagnosis.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum's penis remains missing; he holds a devil's key in his soul, experiences flaming pigeon visions, tastes sardines constantly, and hears ancient grumbling at doors. [01:21:54]",
+      "timestamp": "01:21:54"
+    },
+    {
+      "storyline": "Peter Gibbon Wall",
+      "beat": "Peter claims the devil gave him a special light for the wall crawlspace and seeks mayoral clearance to send people (starting with Munch) inside. [01:35:43]",
+      "timestamp": "01:35:43"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Crum's penis is missing; he has a key in his soul from the devil, sees flaming pigeon visions, everything tastes like sardines, hears ancient grumbling at doors.",
+      "timestamp": "[01:21:54]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Munch visited hell, spoke to Fiona (who rejected him), and was promised resurrection by the devil.",
+      "timestamp": "[01:21:54]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Peter Gibbon says the devil gave him a special light for the wall crawlspace.",
+      "timestamp": "[01:35:43]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jeb Nogget smashed his face into a well bottom, required months of facial reassembly.",
+      "timestamp": "[01:57:37]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jeb's brother Jet performed at the Scatman's funeral per the Scatman's last wish.",
+      "timestamp": "[02:06:00]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Kendelle bruised her heel on slippery rocks at Lake Tahoe, possibly bone bruise, not swelling.",
+      "timestamp": "[02:15:15]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns from a Lake Tahoe vacation to anchor a broadcast dominated by Hype Train's extended piss-themed freestyle, followed by Jeff Ripple covering Trump's deployment of National Guard to DC under the Home Rule Act. The show cycles through trailer reactions (Haunted Hotel, One Piece Season 2, Jordan Peele football horror, Highway to Hell), a Munch & Crum debate on Gatorade vs Powerade interrupted by Crum's missing penis and hell visions, Peter Gibbon reading news about AI porn addiction and medical oddities, Jeb Nogget's How To segment on scatting and skanking, and Kendall's foot injury diagnosed by a rapping foot puppet. The broadcast ends with DJ Newsic's musical sign-off and a raid.",
+  "_meta": {
+    "vod_id": "03maVjRy6EE",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 120946,
+    "approx_prompt_tokens": 30236,
+    "transcript_lines": 301
+  }
+}

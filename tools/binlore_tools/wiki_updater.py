@@ -436,10 +436,40 @@ def _match_storyline_file(title: str, canon: dict[str, list[CanonEntity]]) -> Pa
         for alias in story.aliases:
             if alias.lower() in title_lower or title_lower in alias.lower():
                 return story.file_path
-    if any(k in title_lower for k in ("gorilla", "groin", "penis", "punch", "gambling", "dick")):
-        target = CONTENT_STORYLINES / "crum-dick-punch.md"
-        if target.exists():
-            return target
+    # Crum Punch trilogy heuristics (specific before generic "punch"/"gorilla").
+    face = CONTENT_STORYLINES / "crum-face-punch.md"
+    wall = CONTENT_STORYLINES / "join-the-wall.md"
+    dick = CONTENT_STORYLINES / "crum-dick-punch.md"
+    if any(
+        k in title_lower
+        for k in (
+            "face punch",
+            "crumsplosion",
+            "head explod",
+            "head explosion",
+            "exploding head",
+            "exploded head",
+        )
+    ):
+        if face.exists():
+            return face
+    if any(
+        k in title_lower
+        for k in (
+            "join the wall",
+            "volleyball",
+            "wall quest",
+            "into the wall",
+            "hell quest",
+            "resurrection",
+            "resurrect",
+        )
+    ):
+        if wall.exists():
+            return wall
+    if any(k in title_lower for k in ("dick", "groin", "penis", "d*ck")):
+        if dick.exists():
+            return dick
     return None
 
 

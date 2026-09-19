@@ -1,0 +1,224 @@
+{
+  "segments": [
+    {
+      "start": "00:05",
+      "end": "17:13",
+      "canonical_segment": "Hype Train",
+      "title": "Pride Month Kickoff and Fish Tie Frenzy",
+      "notes": "Hype Train commandeers the open with a Pride month greeting, then derails into a prolonged fish-tie shopping tangent and a surreal 'fish vs chat' war monologue before Pepito restores order."
+    },
+    {
+      "start": "17:13",
+      "end": "38:32",
+      "canonical_segment": "News",
+      "title": "Gaza Aid Line Killings and Greta Thunberg's Flotilla",
+      "notes": "Rick joins the news desk for a contentious discussion of the UN call for investigation into Israeli fire on a Gaza food line, Lindsey Graham's threat to Greta Thunberg's aid ship, and America's Funniest Home Videos nostalgia."
+    },
+    {
+      "start": "38:32",
+      "end": "48:28",
+      "canonical_segment": "Amongst the Web",
+      "title": "Billy Ray Cyrus Achy Breaky Heart Flashback",
+      "notes": "Case and Rick watch a 1992 America's Funniest Home Videos clip of Billy Ray Cyrus promoting the Achy Breaky dance contest, followed by the winning viewer submission featuring paramedics."
+    },
+    {
+      "start": "48:28",
+      "end": "1:06:09",
+      "canonical_segment": "Munch & Crum",
+      "title": "Musical Gorilla vs Bald Gambling Addict Debate",
+      "notes": "Munch and Crum clash over a hypothetical fight; Crum argues the addict would ally with the gorilla, Munch insists on a football-field death match. Gambling debt ledger dispute erupts mid-debate."
+    },
+    {
+      "start": "1:06:09",
+      "end": "1:18:01",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Gordon Robertson Interview (Hugh Jackman Impersonator)",
+      "notes": "A caller claiming to be 700 Club's Gordon Robertson appears but insists he is Hugh Jackman wearing 'putty flesh'; Case and Pepito play along until the bit collapses into a flood prayer."
+    },
+    {
+      "start": "1:18:42",
+      "end": "1:41:22",
+      "canonical_segment": "Jambalaya",
+      "title": "Evil Twin Identification Panel",
+      "notes": "Crum, Grandma Crumble Bottom, Pepito, and Christ field chat questions to expose an evil twin; reveals include Grandma's janitor-closet origin, Pepito's litter cannibalism, and Christ's humanitarian twin in Gaza."
+    },
+    {
+      "start": "1:41:22",
+      "end": "2:12:46",
+      "canonical_segment": "Trip on the Street",
+      "title": "Park Interviews: Al Manchester, Ayatollah Kermani, and Ghost of Rob LV",
+      "notes": "Trip Bradstein fields a parade of park denizens including a returning Al Manchester, a superpowered Ayatollah Kermani, a fungus monster actor, and an aggressive Rob LV ghost; Trip debuts a three-strike fan ejection rule."
+    },
+    {
+      "start": "2:12:46",
+      "end": "2:52:15",
+      "canonical_segment": "News",
+      "title": "Discord News Rundown: FEMA Chief, Circumcision Regret, and Toilet Snake",
+      "notes": "Rapid-fire headlines: FEMA director unaware of hurricane season, January 6 pardon refusal, porn star circumcision regret, Russian bomber losses, King of the Hill voice actor killed, 3D-printed spire, R-Truth WWE firing, Trump intelligence briefing revamp, Biden clone Truth Social post, UK 'woke' roundabout, 50 Cent vs Diddy, Twitch vertical streaming, Elon Musk ketamine bladder damage, German church chicken-diaper performance, Oreo lawsuit, and an 11-foot toilet snake penis bite."
+    },
+    {
+      "start": "2:52:15",
+      "end": "2:54:12",
+      "canonical_segment": "News",
+      "title": "Raid Outro to Christine Te Latte",
+      "notes": "Case abandons a snake-bite sketch pitch, thanks top chatters, and raids Christine Te Latte's Minecraft stream."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the broadcast, wrangled Hype Train's fish tangent, debated Rick on Gaza, moderated Munch & Crum debt dispute, hosted Jumbalaya evil twin panel, and closed with a toilet-snake sketch pitch.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype correspondent",
+      "notes": "hype correspondent. Opened the show with a Pride month rampage, invented a fish-vs-chat war cosmology, and demanded a fish-tie rap beat before self-terminating.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Managed scene transitions, admitted to eating corporate goldfish and litter-mate puppies, fed Crum lines during Jumbalaya, and operated the papal binclave set.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "Amongst the Web host",
+      "notes": "Amongst the Web host. Co-hosted the news block, defended Israel's warning-shot narrative, celebrated a world-government One Piece stance, and riffed on America's Funniest Home Videos history.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued a bald gambling addict would befriend a musical gorilla, negotiated his $60k-70k gorilla debt on air, revealed therapy progress with his wife, and called into Trip's park segment to harass Al Manchester.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Insisted the gorilla would pulp Crum on a 49ers field, revealed an 'Only Munch' OnlyFans for wolves, and refused to update the debt graphic despite Crum's three straight wins.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Grandma Crumble Bottom",
+      "role": "Jambalaya panelist",
+      "notes": "Jambalaya panelist. Disclosed her janitor-closet origin and mulch-and-gravel diet while denying evil twin status.",
+      "canonical_name": "Grandma Crumble Bottom",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Christ",
+      "role": "Jambalaya panelist",
+      "notes": "Jambalaya panelist. Revealed his twin brother is a pro bono doctor in Gaza, admitted a past 'evil twin' phase, and resisted Case's attempts to extract self-worth.",
+      "canonical_name": "Christ",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted bush interviews from the park, enforced a new three-strike fan-ejection rule, and fended off a ghostly Rob LV and a superpowered Ayatollah Kermani.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Briefly cued for Jumbalaya but did not materialize on mic before the segment began.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[59:04] Crum's gorilla gambling debt recalculated to ~$60k-70k; Munch pays $5k per Crum win but refuses to update graphic; Crum claims three consecutive debate victories.",
+      "timestamp": "59:04"
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[31:49] Case references pending Beyblade event possibly still 'inside the Papal Binclave'; no further advancement this episode.",
+      "timestamp": "31:49"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "53:21",
+      "entity": "Crum",
+      "fact": "Crum states he is in therapy with his wife and identifies as a recovering addict.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:05:01",
+      "entity": "Munch",
+      "fact": "Munch operates a secret 'Only Mush' OnlyFans for 'wolves' subscribers.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:25:34",
+      "entity": "Grandma Crumble Bottom",
+      "fact": "Grandma Crumble Bottom originated under the sink of a high school janitor's closet.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:30:48",
+      "entity": "Grandma Crumble Bottom",
+      "fact": "Grandma Crumble Bottom consumes only mulch and gravel; everything else disagrees with her stomach.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:26:42",
+      "entity": "Pepito",
+      "fact": "Pepito admits to eating some of his 48 litter-mate puppies.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:39:04",
+      "entity": "",
+      "fact": "Christ's twin brother is a humanitarian doctor currently working in Gaza.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "2:11:54",
+      "entity": "Trip Bradstein",
+      "fact": "Trip Bradstein institutes a three-strike 'fan ejection' rule for repeat park interviewees.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened with Hype Train's fish-themed Pride rampage before pivoting to a fractious news block on Gaza aid-line killings and Greta Thunberg's flotilla. The broadcast devolved into a Billy Ray Cyrus nostalgia hole, a Munch & Crum debate that exposed Crum's six-figure gorilla debt, a Jambalaya evil-twin panel revealing Grandma Crumble Bottom's janitor-closet genesis, and a chaotic Trip on the Street featuring a superpowered Ayatollah and a ghostly Rob LV. The episode closed with a rapid discord news rundown culminating in an 11-foot toilet snake penis-bite story and a raid on Christine Te Latte.",
+  "_meta": {
+    "vod_id": "gnN-yI8Xmdw",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 137044,
+    "approx_prompt_tokens": 34261,
+    "transcript_lines": 306
+  }
+}

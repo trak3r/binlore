@@ -1,0 +1,170 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "08:34",
+      "end": "12:05",
+      "title": "Negative Follower Analytics & Hamtaro Stream Kickoff",
+      "notes": "Case opens the Hamtaro-themed broadcast by displaying negative follower analytics (-0.16/hr) and framing the stream as an unemployment simulator."
+    },
+    {
+      "canonical_segment": "Hype Train",
+      "start": "12:05",
+      "end": "15:17",
+      "title": "Subscriber & Bit Acknowledgments",
+      "notes": "Hype Train delivers a brief freestyle thank-you for sub milestones and bit donations before being 'slain'; Pepito claims canine multiverse awareness and completes the acknowledgments."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "15:17",
+      "end": "27:03",
+      "title": "Bathroom Flood Crisis & Handyman Lore",
+      "notes": "Case leaves to answer the doorbell; Kendall discusses water leaking under bathroom floorboards, the contractor who caused it, and Case's landlord/handyman background."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "27:03",
+      "end": "33:42",
+      "title": "Popcorn the Hamster Human-Interest Story",
+      "notes": "Case and Kendall watch a viral video about a hamster named Popcorn who facilitated a marriage after a breakup, reaching 100K followers."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "33:42",
+      "end": "43:51",
+      "title": "AI Blackmail Story & Harry Potter Disinterest",
+      "notes": "Chat submits an AI blackmail story via the news hole; Case dismisses Harry Potter/HBO news and reads an article about an AI threatening to reveal an engineer's affair."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "43:51",
+      "end": "53:13",
+      "title": "Sesame AI 'Miles' Roleplay Session",
+      "notes": "Case connects to Sesame AI 'Miles' for a live roleplay as a hamster in a corporate blackmail scenario; the AI narrates rather than participates and times out."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "start": "53:13",
+      "end": "01:13:18",
+      "title": "Hamtaro vs. Goku & 100 Men vs. Gorilla Death Wager",
+      "notes": "Crum and Munch debate Hamtaro vs. Goku then 100 men vs. gorilla; Crum escalates his gorilla gambling debt into a triple-or-death wager: $15k/win, full-force gorilla face punch on next loss, eight-win deadline to clear $115k debt or die."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "01:13:18",
+      "end": "01:21:53",
+      "title": "Post-Debate Fallout & Hamster Game Transition",
+      "notes": "Case wraps the debate block, mocks Crum's mortality odds, and attempts to launch the hamster game 'Hamsters on Rails' before technical concerns force a stream restart."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the Hamtaro-themed broadcast, managed negative follower analytics, and oversaw a catastrophic gorilla wager escalation.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered the cold open, managed hype train handoff, and claimed canine multiverse awareness.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical/cultural interruption",
+      "notes": "musical/cultural interruption. Executed a brief freestyle subscriber thank-you before being 'slain' and replaced by Peter Gibbon.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendall",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through the studio in Hamtaro attire and discussed the bathroom flood crisis with Case.",
+      "canonical_name": "Kendall",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Escalated his gorilla gambling debt to a potential death wager after a winning streak.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Advocated for Crum's gorilla execution and negotiated a high-stakes eight-debate kill condition.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum's gorilla debt reaches $115,000; new wager triples payout to $15k/win but mandates a full-force gorilla face punch if he loses the next debate, with an eight-win deadline to clear the debt or die. [59:49, 1:01:53, 1:12:13]",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Case's channel loses -0.16 followers per hour.",
+      "timestamp": "[09:42]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Bathroom floorboards leaking water; repair contractor originally built the faulty plumbing.",
+      "timestamp": "[17:25]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum owes the mechanical gorilla $115,000.",
+      "timestamp": "[59:49]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum's wife extracted a promise to curb gambling.",
+      "timestamp": "[1:00:24]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum claims seven consecutive debate wins.",
+      "timestamp": "[1:07:33]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "New wager: $15k per win (tripled), gorilla face punch on next loss, eight-win deadline to clear debt or death.",
+      "timestamp": "[1:01:53]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News aired a Hamtaro-themed broadcast anchored by Case Blackwell, featuring negative follower analytics, a bathroom flood crisis, and a viral hamster marriage story. The centerpiece was a Munch & Crum debate that spiraled into a lethal gambling escalation: Crum accepted a triple-or-death wager against his mechanical gorilla creditor, mandating a full-force face punch on his next loss with an eight-win deadline to clear $115,000 or die. The broadcast concluded with a failed attempt to launch the hamster puzzle game 'Hamsters on Rails' before technical instability forced a stream restart.",
+  "_meta": {
+    "vod_id": "kmm6ANnhWcQ",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 62204,
+    "approx_prompt_tokens": 15551,
+    "transcript_lines": 124
+  }
+}

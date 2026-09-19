@@ -4,7 +4,7 @@ type: character
 aliases:
   - Pepito the Dog
   - Peptron 3000
-first_seen: 2025-06-17
+first_seen: 2025-05-27
 status: executive producer
 tags:
   - character
@@ -61,39 +61,21 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (3)</summary>
+<summary>Earlier appearances (7)</summary>
 
 | Episode | Notes |
 |---|---|
 | [[episodes/2026-06-03|2026-06-03]] | Executive Producer. Canine broadcast executive appearing via Producer Cam. Opens show, manages sub goals, discusses Bart Simpson tattoo logistics. |
 | [[episodes/2026-05-29|2026-05-29]] | Executive producer opening the show with his signature intro. |
+| [[episodes/2025-09-15|2025-09-15]] | executive producer. |
+| [[episodes/2025-06-24|2025-06-24]] | executive producer. |
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
+| [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
+| [[episodes/2025-06-02|2025-06-02]] | executive producer. |
 
 </details>
 
 ## Notable moments
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 - **[00:06]** ([[episodes/2026-09-02|2026-09-02]]): Broadcasts the network's official sign-on: *"I'm Pepito, I'm the dog that produces the show, and now it is live, and I'm a dog."*
 - **[15:39]** ([[episodes/2026-09-04|2026-09-04]]): Immediately alerts the control room to audio discrepancies during an attempted body-swap: *"That's not him... That sounds exactly like Crum. Because I am exactly like Crum. Because I am Crum."*
@@ -127,3 +109,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[15:39]** ([[episodes/2026-09-04|2026-09-04]]): During the body-swap, Pepito observes 'That's not him' when an unknown presence arrives, then 'Yeah, sorry. I'm here. That sounds exactly like Crumb. Because I am exactly like Crumb. Because I am Crumb.' — establishes Pepito as a recognizer of voices in real-time.
 - **[01:16:30]** ([[episodes/2025-06-17|2025-06-17]]): Pepito claims direct line to God as 'official pope of this stream'; references secret deity 'Mother Glabla' who vaults the gross into space.
 - **[01:52:51]** ([[episodes/2025-06-17|2025-06-17]]): Pepito ordered the gorilla's moving plate due to its bad knees, making him an accessory to the execution logistics.
+- **[1:26:42]** ([[episodes/2025-06-02|2025-06-02]]): Pepito admits to eating some of his 48 litter-mate puppies.
+- **[]** ([[episodes/2025-06-24|2025-06-24]]): [11:04] Non-verbal for the entire broadcast; Case notes 'he's non-verbal today.'
+- **[10:09]** ([[episodes/2025-09-15|2025-09-15]]): Pepito ate multiple tiny computers/phones left around the studio.
+- **[09:46]** ([[episodes/2025-09-15|2025-09-15]]): Pepito spends non-stream days with his mother, who picks him up.

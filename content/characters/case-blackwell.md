@@ -26,27 +26,6 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 
 ## Notable moments
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **[02:12:45]** ([[episodes/2026-09-07|2026-09-07]]): Anchors the Season 3 finale ahead of departing for an extended two-week international leave to Thailand. Oversees the long-awaited Rock-afire mechanical gorilla execution and observes Munch's transformation into a skeleton.
 - **[15:18]** ([[episodes/2026-09-02|2026-09-02]]): Mentions an upcoming Chicago Sketchfest date 'October 2nd' and teases a larger project announcement with his sketch ensemble.
 - **[42:29]** ([[episodes/2026-09-02|2026-09-02]]): Credited field reporter on the Pentagon story: 'Reporting for this was done by Christy Santhosh.'
@@ -96,3 +75,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[09:20]** ([[episodes/2026-09-04|2026-09-04]]): Personal lore: hiding a ring (or similar item) from Kendall who is out of town for 24 hours. References making 'husband money,' planning to leave the country on a long vacation after Monday, and revealing the chat trigger word 'science' triggers Chet (Case's wife Kendall apparently hears him rail against AI frequently).
 - **[42:46]** ([[episodes/2026-09-04|2026-09-04]]): On AI prompting: 'the sweet spot is like three sentences' for getting AI image generation to deliver — established professional opinion on AI tools. Also references working 'a job where I was generating AI role for a guy' (one of his 'coolest jobs ever').
 - **[40:02]** ([[episodes/2026-09-04|2026-09-04]]): Personal lore: Case names his hypothetical personal AI 'Tane' (rather than Alexa/Cortana), jokes 'if I ever have to get an AI I'm definitely naming it Tane.' Also mentions using 'angled buckets' for aging-related efficient urination, and owning smart windows that open/close on voice command.
+- **[]** ([[episodes/2025-06-24|2025-06-24]]): [41:05] Voice deepening described as 'next level puberty' despite being past his 20s.

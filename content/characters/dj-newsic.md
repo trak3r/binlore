@@ -47,6 +47,7 @@ His signature broadcast mission is "singing the news"—specifically fast-tracki
 | [[episodes/2026-06-19|2026-06-19]] | Signature closing segment performing auto-tuned techno songs while presenting updated statistics and concluding the broadcast. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of raid, not actively speaking. |
 | [[episodes/2026-06-05|2026-06-05]] | Auto-tuned music host who delivers the signature closing news recap with heavy techno production. |
+| [[episodes/2025-09-21|2025-09-21]] | musical finale host. |
 | [[episodes/2024-07-20|2024-07-20]] | Debuts auto-tune voice issues, debates Country Bear on cinnamon vs hawk tuah, loses on country logic, eyes eaten mid-debate. |
 
 ## Notable Quotes

@@ -1,0 +1,172 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "22:17",
+      "canonical_segment": "News",
+      "title": "Cold Open & Housekeeping",
+      "notes": "Pepito delivers station sign-on; Case announces wall stream moved to Sunday 1pm, promotes Smosh 'We're All Gonna Die' show Friday 7:30pm West Coast, and discusses talk show landscape."
+    },
+    {
+      "start": "22:17",
+      "end": "01:02:27",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet Manscape News Desk: Kimmel, Kirk & Cash Patel",
+      "notes": "Chet interrupts with gummy bear fatality lore; duo covers Jimmy Kimmel suspension over Charlie Kirk joke, reads alleged killer's text messages, and watches Cash Patel Senate hearing highlights."
+    },
+    {
+      "start": "01:02:27",
+      "end": "01:33:00",
+      "canonical_segment": "Amongst the Web",
+      "title": "Internet Video Review: Ducks, Jelly Roll, Titanic Pool & Arnold",
+      "notes": "Case and Jake rate viewer submissions: philosophical duck cartoon, Jelly Roll clip, protein cookie fart confession, Titanic pool physics debate, Sakura Gummy Man archive, Arnold Schwarzenegger car improv, and emotional unavailability monologue."
+    },
+    {
+      "start": "01:33:00",
+      "end": "01:36:08",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Hell Casino & Robot Gorilla Recriminations",
+      "notes": "Munch claims he beat the devil in debate for soul shards; Crum admits losing his soul shards in hell's casino; both blame chat for Crum's robot gorilla death; poll system malfunctions."
+    },
+    {
+      "start": "01:36:08",
+      "end": "01:40:47",
+      "canonical_segment": "Amongst the Web",
+      "title": "Jack's Door Interview: Titanic Pool Verification",
+      "notes": "Case interviews Jack's Door (early 20th century child-labor oak) which confirms the Titanic pool is full, captain made jungle juice while sinking, and exonerates Rose via text message."
+    },
+    {
+      "start": "01:40:47",
+      "end": "01:42:01",
+      "canonical_segment": "News",
+      "title": "Wrap & Patreon Transition",
+      "notes": "Case reminds of Smosh show Friday, raids Gina Darling with 'We're All Gonna Die' message, exits to Patreon stream."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors broadcast, manages housekeeping for wall stream and Smosh appearance, hosts Amongst the Web, moderates Munch & Crum, interviews Jack's Door.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open sign-on; button malfunctions blamed on him during Jack's Door segment.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype announcer",
+      "notes": "hype announcer. Briefly appears at top of stream before Case suppresses hype for housekeeping.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet Manscape",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeers news desk with gummy bear fatality lore, reads Cash Patel hearing clips, insists on evidentiary posture.",
+      "canonical_name": "Chet Manscape",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jake",
+      "role": "Amongst the Web co-host",
+      "notes": "Amongst the Web co-host. Co-hosts video review segment with Case, reacts to submissions, operates rating polls.",
+      "canonical_name": "Jake",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Claims he killed the devil in debate, won soul shards and a hell key, blames chat for Crum's robot gorilla death.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Admits gambling addiction lost his soul shards in hell's casino, denies killing himself, insists chat or robot gorilla responsible.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jack's Door",
+      "role": "Titanic artifact",
+      "notes": "Titanic artifact. Sentient door from Titanic confirms pool is full, made of child-labor oak, exonerates Rose via text from ocean floor.",
+      "canonical_name": "Jack's Door",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:33:00] Munch claims chat killed Crum via robot gorilla; Crum blames chat or monkey; Munch reveals he beat devil in debate for soul shards; Crum admits losing soul shards in hell's casino.",
+      "timestamp": "01:33:00"
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[01:34:38] Munch notes 'very brief appearance from Beyblade' as wall stream seeps into broadcast.",
+      "timestamp": "01:34:38"
+    },
+    {
+      "storyline": "Wall Stream",
+      "beat": "[00:10] Case moves wall stream to Sunday 1pm after Smosh scheduling conflict; [01:24:32] Munch locks in Sunday date regardless of red tape.",
+      "timestamp": "00:10"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "22:40",
+      "entity": "Chet",
+      "fact": "Chet's middle school friend Braver Snakeass died dissolved in world's largest acidic gummy bear at a fair.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:24:32",
+      "entity": "Munch",
+      "fact": "Munch claims he defeated the devil in debate multiple times, winning soul shards and a hell key housed in his soul.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:26:48",
+      "entity": "Crum",
+      "fact": "Crum admits his gambling addiction led him to bet soul shards in hell's casino, leaving him an 'empty shell of an empty shell.'",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:37:25",
+      "entity": "",
+      "fact": "Jack's Door claims Titanic pool is full, captain made jungle juice as ship sank, door constructed from 'early 20th century industrial child labor oak.'",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell opens with housekeeping: the wall stream moves to Sunday 1pm and he promotes his Friday Smosh 'We're All Gonna Die' appearance. Chet Manscape hijacks the news desk to cover Jimmy Kimmel's suspension over a Charlie Kirk joke, reads the alleged killer's text messages, and reacts to Cash Patel's combative Senate hearing. Amongst the Web reviews duck philosophy, Jelly Roll, protein cookie flatulence, Titanic pool physics, and Arnold Schwarzenegger car improv. Munch and Crum revisit the Crum Dick Punch saga from hell, with Munch claiming devil-debate victories and Crum confessing total soul-shard bankruptcy. The broadcast closes with Case interviewing Jack's Door, which confirms the Titanic's pool remains full at the bottom of the Atlantic.",
+  "_meta": {
+    "vod_id": "lZ9b1vOwa9w",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 90239,
+    "approx_prompt_tokens": 22559,
+    "transcript_lines": 201
+  }
+}

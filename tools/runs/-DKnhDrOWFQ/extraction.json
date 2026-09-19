@@ -1,0 +1,156 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "08:37",
+      "canonical_segment": "News",
+      "title": "Pepito Cold Open Rap",
+      "notes": "Executive Producer Pepito delivers an extended freestyle rap cold open as the broadcast sign-on, performing 'Scrummin'' and 'Macho Chap' tracks while Case waits for the official start."
+    },
+    {
+      "start": "08:37",
+      "end": "11:54",
+      "canonical_segment": "News",
+      "title": "Top-of-Hour Banter & Raid Thanks",
+      "notes": "Case and Pepito exchange universe-pace banter, thank raider Psycor, and discuss segment request toggles while Pepito's emotes are highlighted."
+    },
+    {
+      "start": "11:54",
+      "end": "38:59",
+      "canonical_segment": "News",
+      "title": "News Desk with Jeff Ripple",
+      "notes": "Jeff Ripple joins for the 'ripple' news block covering Trump/Iran nuclear strike considerations, Schumer's Iran stance, Farrah Abraham's AI OnlyFans twin, vaginal Botox trend, asteroid-moon collision risk, ChatGPT losing chess to Atari 2600, and a man declaring love for his AI girlfriend."
+    },
+    {
+      "start": "39:31",
+      "end": "47:42",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Atari 2600 vs ChatGPT Chess Analysis",
+      "notes": "Chet commandeers the broadcast after 'science' trigger; he and Case test ChatGPT chess live, Case wins in one move via 'king's gambit' exploit, and Chet laments AI guardrails while an Xbox emulator story is briefly noted."
+    },
+    {
+      "start": "48:04",
+      "end": "01:00:32",
+      "canonical_segment": "Munch & Crum",
+      "title": "Engagement Ring vs OpenAI Subscription Debate",
+      "notes": "Munch and Crum debate the merits of an OpenAI subscription versus an engagement ring; Crum appears physically diminished post-gorilla-punch, Munch torments him, and Case promises a physical therapist for Monday."
+    },
+    {
+      "start": "01:01:33",
+      "end": "01:41:33",
+      "canonical_segment": "DJ C4",
+      "title": "AI Coldplay Song: Disneyland Edition",
+      "notes": "DJ C4 (with ghostwriter assistance) uses Refusion AI to generate a Coldplay-style song about exploring Disneyland, iterating through multiple generations and genre tweaks before ending the stream with a raid."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers extended freestyle rap cold open and manages segment request toggles while Case waits.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors news desk, triggers Chet's science segment, moderates Munch & Crum debate, and oversees DJ C4's AI music generation.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Delivers 'ripple' news block covering Iran nukes, AI OnlyFans, vaginal Botox, asteroid shrapnel, and AI romance stories.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeers broadcast for Atari vs ChatGPT chess analysis, tests AI live, and debates AI consciousness with Case.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Torments Crum over lost gorilla wager, argues for OpenAI subscription over engagement ring, and claims he cleaned Crum's remains for two days.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Appears physically diminished post-gorilla-punch, argues for engagement ring, refuses to drive, and is promised a physical therapist.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[48:04-01:00:32] Crum appears physically diminished after mechanical gorilla punch; Munch claims he cleaned Crum's remains for two days; chat compares Crum to Deathlock and a children's drawing; Case promises physical therapist for Monday.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "48:46",
+      "entity": "Crum",
+      "fact": "Crum refuses to drive; Case put him behind the wheel and he did nothing.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "49:58",
+      "entity": "Munch",
+      "fact": "Munch claims he gathered all the pieces to sew Crum back together after the gorilla explosion; cleanup took two days.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "56:55",
+      "entity": "Crum",
+      "fact": "Crum went to hell and the devil didn't want him (chat lore).",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "57:37",
+      "entity": "",
+      "fact": "Belia (presumed Crum's wife) has not appeared or contacted the studio despite Case's contingency plans.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:03:25",
+      "entity": "",
+      "fact": "Case's Google/Twitch password revealed as 'casebutthole' by DJ C4 during AI music generation.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:05:38",
+      "entity": "",
+      "fact": "DJ C4 uses Refusion AI for music generation; creates songs under 'casebutthole' account.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opens with Pepito's extended freestyle cold open before Case and Jeff Ripple race through a news block covering Trump's nuclear Iran options, Farrah Abraham's AI OnlyFans twin, and a man's televised love for ChatGPT. Chet commandeers the broadcast for a live chess showdown where Case defeats ChatGPT in one move via a king's gambit exploit. Munch and Crum debate engagement rings versus OpenAI subscriptions while Crum visibly suffers the aftermath of his mechanical gorilla punch loss. The broadcast closes with DJ C4 generating a Coldplay-style Disneyland anthem through Refusion AI before raiding a dungeon-crawl TTRPG stream.",
+  "_meta": {
+    "vod_id": "-DKnhDrOWFQ",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 87609,
+    "approx_prompt_tokens": 21902,
+    "transcript_lines": 257
+  }
+}

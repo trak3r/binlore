@@ -4,7 +4,7 @@ type: character
 aliases:
   - The Hate Sock
   - Hatesawk
-first_seen: 2026-03-07
+first_seen: 2025-06-11
 status: recurring
 tags:
   - character
@@ -56,6 +56,8 @@ Due to his hostile reception and instant notoriety among viewers, Case and produ
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
 | [[episodes/2026-06-03|2026-06-03]] | Dark charcoal puppet with googly eyes. Mentioned in chat during AI Rooney segment: 'hate sock loves cute animal videos new segment'. |
 | [[episodes/2026-03-07|2026-03-07]] | Testifies from a paper bag; engages in rap battle with Mudbutter; declares Crum guilty and offends existence. |
+| [[episodes/2025-06-28|2025-06-28]] | recurring puppet. |
+| [[episodes/2025-06-11|2025-06-11]] | puppet correspondent. |
 
 ## Notable Quotes
 
@@ -70,3 +72,7 @@ Due to his hostile reception and instant notoriety among viewers, Case and produ
 - Will the network ever produce official "Hatesawk" apparel?
 
 See also: [[case-blackwell|Case Blackwell]], [[../episodes/2026-07-20|Episode 2026-07-20]], [[index|On-Air Talent & Staff]].
+
+## Notable moments
+
+- **[04:51]** ([[episodes/2025-06-28|2025-06-28]]): [04:51] Revealed canonical identity as Sammy Seven Elbows (former president, now sock).

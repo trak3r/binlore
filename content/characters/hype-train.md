@@ -3,7 +3,7 @@ title: Hype Train
 type: character
 aliases:
   - Hyper Train
-first_seen: 2025-06-17
+first_seen: 2025-05-27
 status: recurring
 tags:
   - character
@@ -56,7 +56,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-06-22|2026-06-22]] | High-velocity musical correspondent who confesses to cheating on his Panther girlfriend, discusses beats, and provides cultural commentary throughout the pre-show. |
 
 <details>
-<summary>Earlier appearances (7)</summary>
+<summary>Earlier appearances (16)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -66,7 +66,16 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-06-03|2026-06-03]] | High-velocity musical/cultural correspondent. Triggered by hype train surge. Raps about eating 'human dog shit', thanks subscribers, claims second job as bassoonist. |
 | [[episodes/2026-05-29|2026-05-29]] | Musical correspondent delivering an extended rap about body parts and time travel. |
 | [[episodes/2026-03-07|2026-03-07]] | Commandeers the courtroom for an extended freestyle rap session; acknowledges 1,000-bit donation; references Obama holiday parties. |
+| [[episodes/2025-09-25|2025-09-25]] | hype correspondent. |
+| [[episodes/2025-09-21|2025-09-21]] | musical/cultural correspondent. |
+| [[episodes/2025-09-18|2025-09-18]] | hype announcer. |
+| [[episodes/2025-09-15|2025-09-15]] | musical/cultural interruption. |
+| [[episodes/2025-08-11|2025-08-11]] | Derails the top of the show with a ten-minute piss-themed freestyle rap incorporating subscriber thanks and ball-based urine storage theory. |
+| [[episodes/2025-06-28|2025-06-28]] | musical/cultural correspondent. |
 | [[episodes/2025-06-17|2025-06-17]] | Musical/Cultural Interruption. |
+| [[episodes/2025-06-11|2025-06-11]] | Commandeered the birthday broadcast with freestyle raps, hell lore, and a level-13 surge while insisting every hype train is his birthday. |
+| [[episodes/2025-06-02|2025-06-02]] | hype correspondent. |
+| [[episodes/2025-05-27|2025-05-27]] | musical/cultural interruption. |
 
 </details>
 

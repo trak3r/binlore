@@ -39,6 +39,8 @@ He displays a profound, open disdain for Jeb's woodworking skills and emotional 
 |---|---|
 | [[../episodes/2026-08-14|2026-08-14]] | [[../segments/how-to-with-jeb|How To with Jeb]] | Broadcast debut alongside Jeb. Heckles Jeb throughout the introductory demonstration, complains about the grain quality, and repeatedly praises Jet Nogget. |
 | [[episodes/2026-06-15|2026-06-15]] | Deceased father trapped in wooden board, non-verbal. |
+| [[episodes/2025-09-15|2025-09-15]] | deceased spirit in timber. |
+| [[episodes/2025-07-01|2025-07-01]] | co-host (spirit in timber). |
 | [[episodes/2024-07-20|2024-07-20]] | Trapped in wooden board, favors Jet over Jeb, teaches debate alignment, scats with wood resonance advantage. |
 
 ## Notable Quotes

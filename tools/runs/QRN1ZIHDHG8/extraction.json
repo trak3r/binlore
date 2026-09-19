@@ -1,0 +1,160 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "10:18",
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour sign-on as a dog, then transitions to Case Blackwell at the anchor desk for the Friday broadcast."
+    },
+    {
+      "start": "10:18",
+      "end": "38:17",
+      "canonical_segment": "News",
+      "title": "Elon Musk Black Eye & Trump Press Conference",
+      "notes": "Case and Jeff Ripple cover Elon Musk's black eye (blamed on his son), the Musk-Trump joint press conference, and the Stephen Miller/Katie Miller personnel drama. Includes a viewer poll on the black eye's origin."
+    },
+    {
+      "start": "21:02",
+      "end": "24:00",
+      "canonical_segment": "Hype Train",
+      "title": "Jeff Ripple as Hype Train",
+      "notes": "Jeff Ripple commandeers the hype train role, delivering freestyle raps over subscriber alerts and bit donations while riffing on mortality and roof damage."
+    },
+    {
+      "start": "38:17",
+      "end": "57:37",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: Crum's Gorilla Debt & Munch's Death Wish",
+      "notes": "Munch and Crum debate Crum's remaining gambling liability to the mechanical gorilla, Munch's explicit desire for Crum's death, and Kendall's packing ultimatum. No formal debate topic recorded."
+    },
+    {
+      "start": "57:37",
+      "end": "98:23",
+      "canonical_segment": "DJ C4",
+      "title": "Corgi Butts Song Production with NeoCore G",
+      "notes": "DJ C4, a ghost writer, and rapper NeoCore G write, record, and finalize a viewer-requested track titled 'Corgi Butts' under severe time pressure before Kendall's departure deadline."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the Friday broadcast, managed the Elon Musk/Trump press conference coverage, and oversaw the DJ C4 music production segment.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered the station sign-on in dog persona and managed the DJ C4 segment request toggle.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosted the news desk, then improvised as Hype Train during a subscription surge, blending donor reads with surreal freestyle.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Crum over the gorilla debt, explicitly stated he wants Crum dead, and revealed his friend Thomas Bahamas Pickles.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Detailed his remaining $100k debt to the mechanical gorilla (7 wins needed), claimed credit for Munch's resurrection, and faced Kendall's packing threat.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ C4",
+      "role": "musical producer",
+      "notes": "musical producer. Produced the 'Corgi Butts' beat, coordinated the ghost writer and NeoCore G, and recorded the track under a 40-minute deadline.",
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Ghost Writer",
+      "role": "lyricist",
+      "notes": "lyricist. Wrote the 'Corgi Butts' lyrics on the fly, leaning heavily on the title and dog-themed word association.",
+      "canonical_name": "Ghost Writer",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "NeoCore G",
+      "role": "guest artist",
+      "notes": "guest artist. Recorded the 'Corgi Butts' vocals in multiple takes, preferring written lyrics over freestyling, and delivered ad-libs on the final pass.",
+      "canonical_name": "NeoCore G",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum confirms he owes the mechanical gorilla $100k, earns $15k per debate win (needs 7 more), and faces a face punch if debt uncleared in 8 debates. Munch actively campaigns for Crum's death. [40:30-41:37, 42:48-43:31]",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "Munch references past Beyblade episodes during debate count banter. [39:25]",
+      "timestamp": "39:25"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "Crum",
+      "fact": "Crum's gorilla debt: $100k remaining, $15k per win, 7 wins needed, face punch forfeit if not cleared in 8 debates [40:30-41:37]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Munch",
+      "fact": "Munch was resurrected after Crum relinquished several wins to reach $100k threshold [42:02-42:26]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Kendall threatens to break Crum's nose and drive the bone into his brain if not packed by 4pm [48:44-49:28]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Munch",
+      "fact": "Munch's friend is Thomas Bahamas Pickles; they pretend not to know each other on air [55:22-56:05]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered Elon Musk's black eye and exit from the Trump administration alongside a chaotic Trump press conference, then pivoted to a Munch & Crum debate dominated by Crum's mechanical gorilla gambling liability and Munch's explicit death wishes. The broadcast closed with a rushed DJ C4 music production session yielding the track 'Corgi Butts' featuring rapper NeoCore G, all under threat of Kendall's 4pm departure deadline.",
+  "_meta": {
+    "vod_id": "QRN1ZIHDHG8",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 89590,
+    "approx_prompt_tokens": 22397,
+    "transcript_lines": 239
+  }
+}

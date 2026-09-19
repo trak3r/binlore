@@ -1,0 +1,219 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "08:39",
+      "canonical_segment": "News",
+      "title": "Cold Open & Pepito Sign-On",
+      "notes": "Pepito delivers the station ID as a dog; Case Blackwell opens the broadcast amid breaking Iran/Israel ceasefire confusion."
+    },
+    {
+      "start": "08:39",
+      "end": "42:31",
+      "canonical_segment": "News",
+      "title": "Iran/Israel Ceasefire Breaking News",
+      "notes": "Case and Rick parse Trump's Truth Social ceasefire announcement; conflicting reports from Iran and Israel; Rick attempts a surreal Deep State negotiation bit."
+    },
+    {
+      "start": "42:31",
+      "end": "59:49",
+      "canonical_segment": "News",
+      "title": "Trailer Thursday",
+      "notes": "Case and Rick watch and rate trailers for Weapons, Ice Road Vengeance, Nobu documentary, Sandman Season 2, and Train Wreck Balloon Boy."
+    },
+    {
+      "start": "01:00:20",
+      "end": "01:10:16",
+      "canonical_segment": "Amongst the Web",
+      "title": "Expert Summoning: Red Queen & Voodoo Resurrection",
+      "notes": "Case summons the Red Queen (Eddie) three times, then a voodoo expert to discuss resurrecting Crum; Eddie cycles through multiple personas."
+    },
+    {
+      "start": "01:10:16",
+      "end": "01:29:33",
+      "canonical_segment": "Munch & Crum",
+      "title": "Coke vs. Pepsi Debate with Coach McGopp",
+      "notes": "Munch and Crum debate soda allegiance; Crum's personal trainer Coach McGopp attempts physical rehabilitation; channel-point chaos ensues."
+    },
+    {
+      "start": "01:29:33",
+      "end": "01:47:40",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web: Kim Ketrol, Squirrels, Eric Adams",
+      "notes": "Case, Rick, and Eddie review viral clips: Kim Ketrol poetry recital, taxidermy(?) squirrels, Eric Adams water PSA, NYC mayoral race chat."
+    },
+    {
+      "start": "01:47:40",
+      "end": "02:02:10",
+      "canonical_segment": "News",
+      "title": "Conspiracy Time: Multiverse of Crumbs & CERN",
+      "notes": "Case falls down a YouTube rabbit hole on the Mandela Effect, CERN, and 'world's smartest kid' Max Laughlin; ends with Baby Gronk tangent."
+    },
+    {
+      "start": "02:02:10",
+      "end": "02:44:11",
+      "canonical_segment": "News",
+      "title": "News Wire Catch-Up & Ceasefire Updates",
+      "notes": "Case reads Reuters/BBC/HuffPost on the ceasefire; Mahmoud Khalil release; YouTube Veo3 AI slop button; alcohol-free beer sugar; Bezos wedding protests; Martin Kove assault; penis implant news; 28 Years Later zombie prosthetic; Palantir orb naming."
+    },
+    {
+      "start": "02:44:11",
+      "end": "03:10:33",
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip Bradstein: Street Opinions & Emergency Alert",
+      "notes": "Trip interviews park denizens amid a fake Twitch emergency alert; parade of Crum variants, zombie Crum, baby-eyebrow dimension Crum, tech support scammer, and Hushy Squirts."
+    },
+    {
+      "start": "03:10:33",
+      "end": "03:12:55",
+      "canonical_segment": "News",
+      "title": "Wrap-Up & Raid",
+      "notes": "Case thanks viewers, mentions Wednesday return, Kendall's computer repair dilemma, and raids a Minecraft streamer (Christine)."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "lead anchor",
+      "notes": "lead anchor. Anchored breaking ceasefire coverage, hosted Trailer Thursday, summoned experts, moderated Munch & Crum, and fell down a CERN multiverse rabbit hole.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold-open as a dog; remained non-verbal for the broadcast; managed segment alerts and sub-goal updates.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "Deep State correspondent / Amongst the Web host",
+      "notes": "Deep State correspondent / Amongst the Web host. Co-hosted ceasefire analysis, attempted a surreal snack-war negotiation, and joined Amongst the Web video reviews.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through the studio to hype Case; later discussed her computer repair dilemma off-camera.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Crum on Coke vs. Pepsi; tormented Crum over gambling losses; referenced the gorilla incident.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Struggled through Coke/Pepsi debate while Coach McGopp attempted rehab; zombie and multiverse variants appeared later.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Coach McGopp",
+      "role": "Crum's personal trainer",
+      "notes": "Crum's personal trainer. Joined Munch & Crum to physically rehabilitate Crum; claimed to have removed a rat from Crum's head.",
+      "canonical_name": "Coach McGopp",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Eddie",
+      "role": "call-in guest / expert",
+      "notes": "call-in guest / expert. Cycled through Red Queen, voodoo resurrectionist, and multiple Crum-dimension personas during expert and street segments.",
+      "canonical_name": "Eddie",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted street interviews from the bushes amid a fake emergency alert; wrangled Crum variants and a tech-support scammer.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Interjected as 'Jeff' during news wire and conspiracy segments; bantered about AI slop and multiverse theory.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:10:16] Munch references the gorilla medal of freedom and Crum's pending pneumatic fist execution; Coach McGopp claims Crum's head rat removed.",
+      "timestamp": "01:10:16"
+    },
+    {
+      "storyline": "Iran/Israel Ceasefire",
+      "beat": "[08:39] Trump announces ceasefire via Truth Social; [02:38:21] Reuters reports conflicting missile launches and denials; ceasefire status unresolved at sign-off.",
+      "timestamp": "08:39"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "[41:05] Voice deepening described as 'next level puberty' despite being past his 20s.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "[01:12:45] Coach McGopp claims to have removed 'most of the rat' from Crum's head.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "[11:04] Non-verbal for the entire broadcast; Case notes 'he's non-verbal today.'",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "[03:11:42] Computer repair dilemma: $150/hr in-house service needed; Case plans to take it in while she's at the office.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trip Bradstein",
+      "fact": "[02:52:28] Keeps a computer in his bush; claims to be landlord of the bush he claimed.",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a chaotic Monday broadcast dominated by a confusing Trump-announced Iran/Israel ceasefire that may or may not hold. The show cycles through Trailer Thursday, a multiverse-themed expert block summoning the Red Queen and a voodoo resurrectionist, a Coke vs. Pepsi Munch & Crum debate derailed by Crum's trainer Coach McGopp, an Amongst the Web viral review, a deep-dive into CERN Mandela Effect conspiracy theory, and a Trip on the Street segment interrupted by a fake Twitch emergency alert and a parade of interdimensional Crum variants. The ceasefire remains unverified as the stream ends with a raid.",
+  "_meta": {
+    "vod_id": "BQ8yOTL7uU8",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 147494,
+    "approx_prompt_tokens": 36873,
+    "transcript_lines": 343
+  }
+}

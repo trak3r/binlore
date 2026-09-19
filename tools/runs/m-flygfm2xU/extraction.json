@@ -1,0 +1,166 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "14:05",
+      "canonical_segment": "News",
+      "title": "Cold Open: Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on as a dog, reclaiming his penis and initiating the live feed."
+    },
+    {
+      "start": "14:05",
+      "end": "02:56:00",
+      "canonical_segment": "News",
+      "title": "Join the Wall: Descent into the Studio Drywall",
+      "notes": "Munch, building maintenance Dave, and electrician Gizbo enter the studio wall cavity, encountering Peter Gibbon, spectral former maintenance workers, rat gods, and a hellish transit authority managed by a deceased Crum; the party battles through RPG-style combat, retrieves Crum via hell key, and returns to the studio."
+    },
+    {
+      "start": "02:56:00",
+      "end": "03:10:47",
+      "canonical_segment": "News",
+      "title": "Wrap-Up & Viewer Thanks",
+      "notes": "Munch and Crum thank subscribers and bit donors while Crum raps over a swimmy beat; Crum reveals he is now dating Belilia and has a debate scheduled with a Republican influencer in late September."
+    },
+    {
+      "start": "03:10:47",
+      "end": "03:13:29",
+      "canonical_segment": "News",
+      "title": "Raid Out to Sir Lar",
+      "notes": "Munch initiates a raid on Sir Lar of the Bite Boys after a botched raid command."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered the station sign-on as a dog and opened the broadcast with a cold open from the control room.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Commandeered the broadcast as captain of the wall expedition, led the party through the drywall and hell, and closed the show with a rap wrap-up.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Encountered living in the studio wall cavity; revealed as a former producer fired multiple times who now haunts the drywall with a camera setup.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Found managing the hell transit authority after dying from the gorilla wager; reluctantly rescued via hell key and returned to the mortal plane.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dave",
+      "role": "building maintenance",
+      "notes": "building maintenance. Accompanied Munch into the wall as the legitimate maintenance worker; gained hell powers and a hell key fused to his soul.",
+      "canonical_name": "Dave",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Gizbo",
+      "role": "electrician",
+      "notes": "Dwarf-warrior electrician with a robotic female voice; served as MVP combatant throughout the wall descent and hell battle.",
+      "canonical_name": "Gizbo",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical/cultural correspondent",
+      "notes": "musical/cultural correspondent. Briefly empowered the party in hell with the power of straight cash (bits) and was revealed as Crum's ex-wife in hell.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "musical finale host",
+      "notes": "musical finale host. Referenced as the source of looping background music during the wall combat sequences.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[02:31:32] Crum confirmed dead in hell, serving as assistant manager of the hell transit authority after losing the gorilla wager; rescued by Munch's hell key but retains gambling addiction and hell memories.",
+      "timestamp": "02:31:32"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Munch won a bet with the devil and received a hell key fused to his soul, enabling two-way travel to hell.",
+      "timestamp": "[02:29:35]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Peter Gibbon confirmed living permanently in the studio wall cavity with a full camera setup; claims the wall is an endless voluminous hallway.",
+      "timestamp": "[03:00:14]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Hell operates on opposite logic: everything is backwards, money only goes to the worst people, and Crum reverted to Christianity 'for the devil.'",
+      "timestamp": "[02:33:13]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum is now dating Belilia as of this broadcast.",
+      "timestamp": "[03:01:02]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Munch has a debate scheduled with a 'certain republican influencer' at the end of September and plans to suspend summer preparation.",
+      "timestamp": "[02:59:24]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum's penis was temporarily lost in hell but returned 'slightly smoother than usual.'",
+      "timestamp": "[03:09:29]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Munch stole Crum's debate points during the hell confrontation.",
+      "timestamp": "[02:35:58]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News aired a special 'Join the Wall' event where debate analyst Munch led building maintenance Dave and electrician Gizbo into the studio drywall, uncovering a subterranean labyrinth inhabited by news stowaway Peter Gibbon, spectral rat gods, and a hellish transit authority managed by deceased debate analyst Crum. After RPG-style combat through the wall and a climactic battle in hell, the party retrieved Crum via a hell key fused to Munch's soul and returned to the studio, where Crum revealed a new relationship with Belilia and an upcoming debate against a Republican influencer.",
+  "_meta": {
+    "vod_id": "m-flygfm2xU",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 143847,
+    "approx_prompt_tokens": 35961,
+    "transcript_lines": 336
+  }
+}

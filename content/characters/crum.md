@@ -23,7 +23,7 @@ tags:
 
 Crum serves as the long-suffering political counterweight to [[munch|Ralph Munchcut]] on *Barely Informed News*. Distinguished by his hollow-eyed stare and severe bald pate, Crum is infamous across the network for a crippling gambling addiction that routinely plunges him into reckless wagers, physical forfeits, and existential panic.
 
-Together with Munch, their fierce professional rivalry drives the [[../storylines/crum-dick-punch|Crum Dick Punch]] storyline, stemming from an astronomical lost wager against a mechanical ape.
+Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylines/crum-face-punch|Crum Face Punch]], [[../storylines/join-the-wall|Join the Wall]], and [[../storylines/crum-dick-punch|Crum Dick Punch]]—all stemming from catastrophic wagers against a mechanical Rock-afire ape.
 
 ## Key Attributes & Lore
 
@@ -50,29 +50,33 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity and Dick Punch wager. |
 | [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (hollow-eyed, bald). Argues for political decorum, reveals Dubai 'classified' social life, honey-bag therapy, claims penile conditioning for gorilla dick-punch. |
 | [[episodes/2026-03-07|2026-03-07]] | Stands trial for peen.ui IP infringement; reveals he co-founded peen.ui, has a 'nasty pig room,' and suffers from labia growing on his… |
+| [[episodes/2025-09-25|2025-09-25]] | debate analyst. |
+| [[episodes/2025-09-21|2025-09-21]] | debate analyst. |
+| [[episodes/2025-09-18|2025-09-18]] | debate analyst. |
+| [[episodes/2025-09-15|2025-09-15]] | debate analyst. |
+| [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
+
+<details>
+<summary>Earlier appearances (12)</summary>
+
+| Episode | Notes |
+|---|---|
+| [[episodes/2025-06-28|2025-06-28]] | debate analyst. |
+| [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
+| [[episodes/2025-06-20|2025-06-20]] | debate analyst. |
+| [[episodes/2025-06-19|2025-06-19]] | debate analyst. |
 | [[episodes/2025-06-17|2025-06-17]] | Senior Debate Analyst. |
+| [[episodes/2025-06-13|2025-06-13]] | Debate analyst one loss from gorilla execution, reveals $300k debt repayment at $15k per win, pleads for chat mercy. |
+| [[episodes/2025-06-11|2025-06-11]] | debate analyst. |
+| [[episodes/2025-06-07|2025-06-07]] | Debate Analyst. |
+| [[episodes/2025-06-02|2025-06-02]] | debate analyst. |
+| [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
+| [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
 | [[episodes/2024-07-20|2024-07-20]] | Loses wiki feet, wins wife verification, sweet vs salty, Alien vs Predator, carnivore diet, gold vs porcelain teeth, orphan meat, spoon vs… |
 
+</details>
+
 ## Notable moments
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 - **[01:50:38]** ([[episodes/2026-09-07|2026-09-07]]): Faces the Rock-afire mechanical gorilla execution and emerges completely unscathed after an explosive misfire destroys the ape and converts Munch into a talking skeleton.
 - **[01:39:45]** ([[episodes/2026-09-07|2026-09-07]]): Details his grueling groin conditioning regimen, which involved swinging 45-pound weighted logs into his crotch to prepare for the gorilla punch.
@@ -129,3 +133,23 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 - **[01:39:45]** ([[episodes/2026-09-07|2026-09-07]]): Trained his groin against blunt force trauma by swinging 45-pound weighted logs into his crotch; accused by Munch of wearing metal underwear during the gorilla stunt.
 - **[01:00:39]** ([[episodes/2025-06-17|2025-06-17]]): Crum's cherished blanket is named 'nummie' (spelled N-U-M-M-I-E).
 - **[01:02:20]** ([[episodes/2025-06-17|2025-06-17]]): Crum's wife is named Belilia; she is active on Instagram and responds to DMs.
+- **[]** ([[episodes/2025-05-30|2025-05-30]]): Crum's gorilla debt: $100k remaining, $15k per win, 7 wins needed, face punch forfeit if not cleared in 8 debates [40:30-41:37]
+- **[53:21]** ([[episodes/2025-06-02|2025-06-02]]): Crum states he is in therapy with his wife and identifies as a recovering addict.
+- **[1:25:34]** ([[episodes/2025-06-02|2025-06-02]]): Grandma Crumble Bottom originated under the sink of a high school janitor's closet.
+- **[1:30:48]** ([[episodes/2025-06-02|2025-06-02]]): Grandma Crumble Bottom consumes only mulch and gravel; everything else disagrees with her stomach.
+- **[]** ([[episodes/2025-06-07|2025-06-07]]): Crum's gorilla gambling debt reduced to $55,000 from $300,000 [01:15:57]
+- **[]** ([[episodes/2025-06-07|2025-06-07]]): Crum lives in a guest house separate from partner Belulia [01:19:23]
+- **[]** ([[episodes/2025-06-11|2025-06-11]]): Crum celebrates his baptism (June 11) as his true birthday; biological birthday is March 28. [23:34]
+- **[]** ([[episodes/2025-06-11|2025-06-11]]): Crum claims to be 'stupidly rich' and the stream's debt-tracking UI is broken. [1:24:24]
+- **[]** ([[episodes/2025-06-13|2025-06-13]]): Crum's gorilla debt terms: $300k original bet, $15k per win repayment, two wins from freedom. [01:05:31]
+- **[[53:43]]** ([[episodes/2025-06-19|2025-06-19]]): Survived the mechanical gorilla punch but lost his head; returned in a damaged ghostlike state for the mandated debate.
+- **[[01:00:49]]** ([[episodes/2025-06-19|2025-06-19]]): Channel points counter for Crum's 'jets' is broken and not awarding points.
+- **[48:46]** ([[episodes/2025-06-20|2025-06-20]]): Crum refuses to drive; Case put him behind the wheel and he did nothing.
+- **[56:55]** ([[episodes/2025-06-20|2025-06-20]]): Crum went to hell and the devil didn't want him (chat lore).
+- **[]** ([[episodes/2025-06-24|2025-06-24]]): [01:12:45] Coach McGopp claims to have removed 'most of the rat' from Crum's head.
+- **[01:34:13]** ([[episodes/2025-06-28|2025-06-28]]): [01:34:13] Crum's head exploded/decomposed; he is 'recovering from a slip up' (the gorilla murder).
+- **[125:28]** ([[episodes/2025-07-01|2025-07-01]]): Jaw was 'knocked off first because that's where he punched' during mechanical gorilla wager execution [2:05:28].
+- **[01:26:48]** ([[episodes/2025-09-18|2025-09-18]]): Crum admits his gambling addiction led him to bet soul shards in hell's casino, leaving him an 'empty shell of an empty shell.'
+- **[1:25:57]** ([[episodes/2025-09-25|2025-09-25]]): Penis hairless and baby-sized for 48 hours post-resurrection; returned to normal 'big but unpleasant' [1:25:57].
+- **[1:25:13]** ([[episodes/2025-09-25|2025-09-25]]): Claims super strength: pulling doors off hinges without gym training [1:25:13].
+- **[1:36:03]** ([[episodes/2025-09-25|2025-09-25]]): Ran hell transit system while deceased [1:36:03].

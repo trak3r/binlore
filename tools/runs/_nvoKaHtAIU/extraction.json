@@ -1,0 +1,277 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "01:05",
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour sign-on as a dog; Case discusses restart habits and technical prep."
+    },
+    {
+      "start": "01:05",
+      "end": "02:45",
+      "canonical_segment": "News",
+      "title": "Rundown & Crumb Song Planning",
+      "notes": "Case outlines the night: Amongst the Web, Hate Sock, and a Crumb backup-vocal song with DJ C4; Crumb is absent."
+    },
+    {
+      "start": "02:45",
+      "end": "09:25",
+      "canonical_segment": "Amongst the Web",
+      "title": "AI Slop Video Showcase (VO3/Veo)",
+      "notes": "Case watches viewer-submitted AI-generated videos of himself and Pepito; marvels at improving realism."
+    },
+    {
+      "start": "09:25",
+      "end": "26:31",
+      "canonical_segment": "News",
+      "title": "News Desk with Jeff Ripple",
+      "notes": "Jeff Ripple reads Supreme Court birthright citizenship ruling, Senate war-powers vote, Trump-Canada trade termination, and stock market rally."
+    },
+    {
+      "start": "26:31",
+      "end": "40:19",
+      "canonical_segment": "Amongst the Web",
+      "title": "Trailer Watch: Monster Island, Star People, Garten of Banban 8, Night of the Comet",
+      "notes": "Case and Trent (parole officer) watch and rate trailers; Trent's chaotic energy derails the segment."
+    },
+    {
+      "start": "40:19",
+      "end": "48:26",
+      "canonical_segment": "Hype Train",
+      "title": "Hate Sock on Birthright Citizenship",
+      "notes": "Hate Sock delivers a hate-fueled monologue against the Supreme Court; reveals he is Sammy Seven Elbows in sock form."
+    },
+    {
+      "start": "48:26",
+      "end": "59:45",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web with Hype Train",
+      "notes": "Hype Train hijacks the segment, describes hell's new 'rainbow traffic' scrunchie system, watches churning butter and organ videos."
+    },
+    {
+      "start": "59:45",
+      "end": "01:11:47",
+      "canonical_segment": "Amongst the Web",
+      "title": "Scott Steiner Workout Infomercial Marathon",
+      "notes": "Case and Scrum watch the full Scott Steiner 'Big Poppa Pump' workout video; debate its eroticism and rating."
+    },
+    {
+      "start": "01:11:47",
+      "end": "01:30:37",
+      "canonical_segment": "News",
+      "title": "Peter Gibbon News Block",
+      "notes": "News stowaway Peter Gibbon forces his way on air; reads mile-high club, sperm freezing, Bezos wedding, poop cruise, SpaceX crane collapse, and ChatGPT bleach-vinegar stories."
+    },
+    {
+      "start": "01:30:37",
+      "end": "01:42:21",
+      "canonical_segment": "Therapy",
+      "title": "Therapy Roulette & Coach McGurk Firing",
+      "notes": "Case cycles through fake therapists; Coach McGurk appears, argues with Munch, gets fired by Munch after defending Crum."
+    },
+    {
+      "start": "01:42:21",
+      "end": "01:52:45",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: Worst Mario Party Mini-Game",
+      "notes": "Munch picks 'Multi-Face Bowser Vine'; Crum picks 'Sonic Racers'; Coach McGurk interrupts; Munch fires him again."
+    },
+    {
+      "start": "01:52:45",
+      "end": "02:09:37",
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip Bradstein Street Interviews",
+      "notes": "Trip interviews park denizens: box man, Crumb Stashio Crumbfish, sound guy, Francis Sick Nerf, cat man, Balthazar, Big Bobby Bagelsby, Big Poppa Pump, Kendall."
+    },
+    {
+      "start": "02:09:37",
+      "end": "02:33:16",
+      "canonical_segment": "DJ C4",
+      "title": "AI-Generated 'Gooning' Country Song",
+      "notes": "DJ C4 writes and generates a vulgar country song about gooning and rats using Suno/Refusion; plays final version over YouTube beat."
+    },
+    {
+      "start": "02:33:16",
+      "end": "02:34:38",
+      "canonical_segment": "News",
+      "title": "Raid & Sign-Off",
+      "notes": "Case raids BYTT (Butt Gamers); promises real song next week."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the broadcast, managed technical chaos, hosted News, Amongst the Web, and DJ C4 segments.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open as a dog; operated switcher; managed music bans on Peter.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Delivered the news block covering Supreme Court, Senate, Trump-Canada trade, and markets.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hate Sock",
+      "role": "recurring puppet",
+      "notes": "recurring puppet. Revealed identity as Sammy Seven Elbows; threatened self-immolation in Supreme Court justices' mouths.",
+      "canonical_name": "Hate Sock",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical/cultural correspondent",
+      "notes": "musical/cultural correspondent. Hijacked Amongst the Web; described hell's rainbow traffic; watched butter-churning and organ videos.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Invaded news block; admitted to OnlyFans subscriptions on company card; banned from music for three weeks.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Coach McGurk",
+      "role": "physical therapist",
+      "notes": "physical therapist. Appeared in Therapy and Debate; defended Crum; fired by Munch after revealing male-squirting sex-ed past.",
+      "canonical_name": "Coach McGurk",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Crum on Mario Party mini-games; fired Coach McGurk; claimed 99% victory forecast over Crum.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Present as decomposed corpse; picked Sonic Racers; blamed for Munch's legal expenses and gorilla murder.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted street interviews with 10-minute cooldown on !trip command; encountered parade of park characters.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ C4",
+      "role": "musical producer",
+      "notes": "musical producer. Wrote and AI-generated a vulgar country song about gooning and rats; played final version over YouTube beat.",
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendall",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Briefly appeared on Trip's street segment; told Trip to let Case leave for DJ bit.",
+      "canonical_name": "Kendall",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:34:13] Munch says Crum is 'recovering from a slip up' (murder) and that legal expenses mount; Crum's head exploded/decomposed.",
+      "timestamp": "01:34:13"
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[01:55:22] Trip mentions 'round one at eight o'clock' (in 10 minutes), confirming tournament is imminent.",
+      "timestamp": "01:55:22"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum",
+      "fact": "[01:34:13] Crum's head exploded/decomposed; he is 'recovering from a slip up' (the gorilla murder).",
+      "timestamp": "01:34:13",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch",
+      "fact": "[01:36:21] Munch claims he has security now.",
+      "timestamp": "01:36:21",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Coach McGurk",
+      "fact": "[01:41:50] Fired by Munch after defending Crum; revealed he taught a sex-ed class claiming men can squirt.",
+      "timestamp": "01:41:50",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "[01:20:48] Has internet in the wall; runs OnlyFans subscriptions on company credit card.",
+      "timestamp": "01:20:48",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trip Bradstein",
+      "fact": "[01:53:15] Implemented 10-minute cooldown on !trip command per person.",
+      "timestamp": "01:53:15",
+      "confidence": 0.7
+    },
+    {
+      "entity": "DJ C4",
+      "fact": "[02:22:29] Suno/Refusion rejected explicit 'gooning' lyrics; fell back to YouTube beat for final playout.",
+      "timestamp": "02:22:29",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Hate Sock",
+      "fact": "[04:51] Revealed canonical identity as Sammy Seven Elbows (former president, now sock).",
+      "timestamp": "04:51",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News delivered a chaotic Friday broadcast: Jeff Ripple read the Supreme Court's birthright citizenship punt and Senate war-powers failure, Hate Sock outed himself as Sammy Seven Elbows while threatening judicial self-immolation, Hype Train described hell's new scrunchie-based traffic system, Peter Gibbon hijacked the news block to confess company-card OnlyFans spending, Coach McGurk was fired twice in one night by Munch, and DJ C4 closed the show by AI-generating a vulgar country anthem about gooning rats before raiding the Butt Gamers.",
+  "_meta": {
+    "vod_id": "_nvoKaHtAIU",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 122910,
+    "approx_prompt_tokens": 30727,
+    "transcript_lines": 279
+  }
+}

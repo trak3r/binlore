@@ -406,6 +406,114 @@ def validate_extraction(data: dict[str, Any]) -> dict[str, Any]:
     return data
 
 
+def _resolve_host_ipv4(hostname: str) -> str:
+    """Resolve hostname to IPv4; fall back to DNS-over-HTTPS when system DNS is blocked."""
+    import socket
+    import subprocess
+    import urllib.error
+    import urllib.request
+
+    pinned = os.environ.get("BINLORE_OPENROUTER_IP", "").strip()
+    if hostname == "openrouter.ai" and pinned:
+        return pinned
+
+    try:
+        return socket.getaddrinfo(hostname, 443, socket.AF_INET)[0][4][0]
+    except OSError:
+        pass
+
+    # Sandbox / broken resolvers: query Cloudflare DoH by IP (no DNS needed).
+    url = f"https://1.1.1.1/dns-query?name={hostname}&type=A"
+    req = urllib.request.Request(url, headers={"accept": "application/dns-json"})
+    opener = urllib.request.build_opener(urllib.request.ProxyHandler({}))
+    try:
+        with opener.open(req, timeout=15) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, json.JSONDecodeError):
+        # Last resort: curl with --noproxy
+        proc = subprocess.run(
+            [
+                "curl",
+                "-sS",
+                "--noproxy",
+                "*",
+                "-H",
+                "accept: application/dns-json",
+                url,
+            ],
+            capture_output=True,
+            check=False,
+        )
+        if proc.returncode != 0:
+            # Hardcoded Cloudflare edge IPs for openrouter.ai (last-resort).
+            if hostname == "openrouter.ai":
+                return "104.18.2.115"
+            err = (proc.stderr or b"").decode("utf-8", errors="replace")[:300]
+            raise RuntimeError(f"DNS resolve failed for {hostname}: {err}") from None
+        data = json.loads(proc.stdout.decode("utf-8"))
+
+    for ans in data.get("Answer") or []:
+        if ans.get("type") == 1 and ans.get("data"):
+            return str(ans["data"])
+    if hostname == "openrouter.ai":
+        return "104.18.2.115"
+    raise RuntimeError(f"DNS resolve failed for {hostname}: no A record")
+
+
+def _openrouter_chat_curl(
+    *,
+    api_key: str,
+    model: str,
+    user_prompt: str,
+    timeout: float,
+    payload_bytes: bytes,
+) -> str:
+    """POST via curl + --resolve (avoids broken urllib proxies / sandbox DNS)."""
+    import subprocess
+
+    ip = _resolve_host_ipv4("openrouter.ai")
+    cmd = [
+        "curl",
+        "-sS",
+        "--noproxy",
+        "*",
+        "--fail-with-body",
+        "--max-time",
+        str(max(int(timeout), 30)),
+        "--resolve",
+        f"openrouter.ai:443:{ip}",
+        "-X",
+        "POST",
+        OPENROUTER_URL,
+        "-H",
+        f"Authorization: Bearer {api_key}",
+        "-H",
+        "Content-Type: application/json",
+        "-H",
+        "HTTP-Referer: https://trak3r.github.io/binlore/",
+        "-H",
+        "X-Title: BIN Lore extract",
+        "--data-binary",
+        "@-",
+    ]
+    env = {
+        k: v
+        for k, v in os.environ.items()
+        if k.lower() not in {"http_proxy", "https_proxy", "all_proxy", "no_proxy"}
+    }
+    proc = subprocess.run(
+        cmd,
+        input=payload_bytes,
+        capture_output=True,
+        env=env,
+        check=False,
+    )
+    if proc.returncode != 0:
+        err = (proc.stderr or proc.stdout or b"").decode("utf-8", errors="replace")[:800]
+        raise RuntimeError(f"OpenRouter curl failed ({proc.returncode}): {err}")
+    return proc.stdout.decode("utf-8")
+
+
 def _openrouter_chat(
     *,
     api_key: str,
@@ -427,24 +535,37 @@ def _openrouter_chat(
         "response_format": {"type": "json_object"},
     }
     body = json.dumps(payload).encode("utf-8")
-    req = urllib.request.Request(
-        OPENROUTER_URL,
-        data=body,
-        method="POST",
-        headers={
-            "Authorization": f"Bearer {api_key}",
-            "Content-Type": "application/json",
-            "HTTP-Referer": "https://trak3r.github.io/binlore/",
-            "X-Title": "BIN Lore extract",
-        },
-    )
+    raw: str | None = None
     try:
-        with urllib.request.urlopen(req, timeout=max(timeout, 30.0)) as resp:
+        req = urllib.request.Request(
+            OPENROUTER_URL,
+            data=body,
+            method="POST",
+            headers={
+                "Authorization": f"Bearer {api_key}",
+                "Content-Type": "application/json",
+                "HTTP-Referer": "https://trak3r.github.io/binlore/",
+                "X-Title": "BIN Lore extract",
+            },
+        )
+        # Prefer a direct connection when a broken local proxy is injected.
+        opener = urllib.request.build_opener(urllib.request.ProxyHandler({}))
+        with opener.open(req, timeout=max(timeout, 30.0)) as resp:
             raw = resp.read().decode("utf-8")
     except urllib.error.HTTPError as e:
         err_body = e.read().decode("utf-8", errors="replace")[:800]
         raise RuntimeError(f"OpenRouter HTTP {e.code}: {err_body}") from e
+    except (urllib.error.URLError, TimeoutError, OSError) as e:
+        print(f"  [OpenRouter] urllib failed ({e}); retrying via curl --resolve...", flush=True)
+        raw = _openrouter_chat_curl(
+            api_key=api_key,
+            model=model,
+            user_prompt=user_prompt,
+            timeout=timeout,
+            payload_bytes=body,
+        )
 
+    assert raw is not None
     data = json.loads(raw)
     if data.get("error"):
         raise RuntimeError(f"OpenRouter error: {data['error']}")

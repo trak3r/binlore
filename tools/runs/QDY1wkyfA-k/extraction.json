@@ -1,0 +1,206 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "00:51",
+      "canonical_segment": "News",
+      "title": "Cold Open: Pepito Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on and countdown, announces his penis is back."
+    },
+    {
+      "start": "20:38",
+      "end": "01:01:41",
+      "canonical_segment": "News",
+      "title": "Jimmy Kimmel Monologue Reaction",
+      "notes": "Case Blackwell and Jeff Ripple watch and dissect Jimmy Kimmel's 20-minute return monologue addressing the Trump/Disney free speech controversy, Ted Cruz's defense, and Erica Kirk's forgiveness statement."
+    },
+    {
+      "start": "01:01:41",
+      "end": "01:03:03",
+      "canonical_segment": "News",
+      "title": "Kendall Walk-Through",
+      "notes": "Kendelle crosses the studio frame with signature theme music; brief domestic check-in about dinner plans and Only Murders in the Building critique."
+    },
+    {
+      "start": "01:20:22",
+      "end": "01:42:23",
+      "canonical_segment": "Munch & Crum",
+      "title": "Crum Resurrection & Points Dispute",
+      "notes": "Crum returns from hell with amnesia; Munch confronts him over the gorilla wager, points ledger, Beyblade tournament scheduling, and a debate on whether Crum had sex with Hitler in hell."
+    },
+    {
+      "start": "01:42:23",
+      "end": "02:04:51",
+      "canonical_segment": "News",
+      "title": "BIN Town Hall with Marfus Darfus & Chet",
+      "notes": "Marfus Darfus and Chet field viewer questions via !TH command; topics include Gizbo wall repairs, Texas cardinal direction 'Touth', Arizona heat, Grandman rescue, Fed rates, weed legalization, and Hate Sock."
+    },
+    {
+      "start": "02:06:32",
+      "end": "02:34:07",
+      "canonical_segment": "Amongst the Web",
+      "title": "Grandma Crumble Bottom & The Lanky Box Discovery",
+      "notes": "Grandma Crumble Bottom joins Case for viral video review; they uncover the 'Lanky Box' children's content rabbit hole (Goo Goo Gaga, baby-fetish animation) and a palate-cleanser cheeseburger slap video."
+    },
+    {
+      "start": "02:34:07",
+      "end": "02:35:58",
+      "canonical_segment": "News",
+      "title": "Raid & Sign-Off",
+      "notes": "Case raids Ovali with 'Lanky Box' spam; announces Friday return and Patreon stream with Kassim."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "lead anchor",
+      "notes": "lead anchor. Anchors the broadcast, reacts to Kimmel monologue, moderates Munch & Crum and Town Hall, hosts Amongst the Web with Grandma.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open sign-on and countdown; mentions snap camera filter reset.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosts News desk during Kimmel watch; banters about Hype Train emanating from him.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype correspondent",
+      "notes": "hype correspondent. Brief freestyle rap thanking subs; claims marriage to Crum in hell; exits to file divorce papers.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walk-through with theme music; discusses dinner plans and Selena Gomez/Benny Blanco critique.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Returns from hell with amnesia; disputes points ledger with Munch; claims super strength and baby-sized penis post-resurrection.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Confronts Crum over resurrection, points, and Beyblade tournament; accuses Crum of hell orgy with Hitler.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Marfus Darfus",
+      "role": "town hall guest",
+      "notes": "town hall guest. Fields viewer questions at Town Hall; claims 'reparded strength' and Marshal of BIN Halloween Parade title.",
+      "canonical_name": "Marfus Darfus",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Participates in Town Hall; claims to be a 'skintist'; commits to rescuing Grandman from the wall tomorrow.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum resurrected from hell after gorilla explosion; Munch demands points return; Crum claims amnesia and super strength; Beyblade tournament re-pledged for Friday [1:20:22-1:42:23].",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "Beyblades lost in move; new sub goal for Beyblade battle to be created Friday [1:28:35].",
+      "timestamp": "1:28:35"
+    },
+    {
+      "storyline": "Peter Gibbon / Grandman in the Wall",
+      "beat": "Town Hall question asks if Peter and Grandman dead; Marfus assumes Peter dead, Grandman unkillable; Chet commits to wall rescue mission [1:51:55, 1:54:50].",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Penis hairless and baby-sized for 48 hours post-resurrection; returned to normal 'big but unpleasant' [1:25:57].",
+      "timestamp": "1:25:57",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Claims super strength: pulling doors off hinges without gym training [1:25:13].",
+      "timestamp": "1:25:13",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Ran hell transit system while deceased [1:36:03].",
+      "timestamp": "1:36:03",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Marfus Darfus",
+      "fact": "Claims 'reparded strength' from high school; upper body strength sufficient to defend against killers [1:51:08].",
+      "timestamp": "1:51:08",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Marfus Darfus",
+      "fact": "Self-appointed Marshal of the BIN Halloween Parade; proposes October 2 date [1:59:59].",
+      "timestamp": "1:59:59",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Identifies as a 'skintist' (scientist); scientifically proven one of smartest guys ever [1:53:16].",
+      "timestamp": "1:53:16",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Grandma Crumble Bottom",
+      "fact": "Claims vibe of being 16 in 1982 but not actual age; been lost since 1982 [2:07:43].",
+      "timestamp": "2:07:43",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns from a late start to dissect Jimmy Kimmel's emotional return monologue on free speech and Disney pressure. Crum reappears after a summer in hell with amnesia, a hairless baby penis, and newfound super strength, sparking a points dispute with Munch and a Beyblade tournament re-commitment. The revived Town Hall segment debuts with Marfus Darfus and Chet fielding chaotic viewer questions, culminating in a Grandman wall-rescue pledge. Grandma Crumble Bottom joins Amongst the Web to uncover the unsettling 'Lanky Box' children's content empire before the broadcast raids Ovali with baby-rot spam.",
+  "_meta": {
+    "vod_id": "QDY1wkyfA-k",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 133629,
+    "approx_prompt_tokens": 33407,
+    "transcript_lines": 351
+  }
+}

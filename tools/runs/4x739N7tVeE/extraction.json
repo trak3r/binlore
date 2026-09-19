@@ -1,0 +1,152 @@
+{
+  "segments": [
+    {
+      "start": "00:04",
+      "end": "08:33",
+      "canonical_segment": "News",
+      "title": "Station Sign-On and Cold Open",
+      "notes": "Pepito delivers the top-of-hour countdown and sign-on, noting the irregular broadcast schedule and multiverse crumb references."
+    },
+    {
+      "start": "08:33",
+      "end": "52:33",
+      "canonical_segment": "News",
+      "title": "Iran War Deadline and Polling Analysis",
+      "notes": "Case Blackwell and Liliana welcome correspondent Gianna Wetmichael to discuss Trump's two-week decision window on Iran involvement, CNN polling on airstrikes vs. diplomacy, and a Nostradamus clip from 'The Man Who Saw Tomorrow.'"
+    },
+    {
+      "start": "52:54",
+      "end": "01:11:42",
+      "canonical_segment": "Munch & Crum",
+      "title": "Post-Gorilla Poop Debate",
+      "notes": "Munch declares victory after the mechanical gorilla incident; Crum appears headless/ghostlike but returns for a mandated 'who eats poop' debate that devolves into Crum's victory song and Munch's existential spiral."
+    },
+    {
+      "start": "01:13:30",
+      "end": "01:20:19",
+      "canonical_segment": "How To with Jeb",
+      "title": "Karate Warm-Up for Staving Off Death",
+      "notes": "Jeb Nogget and his father's spirit in the wooden board present an abbreviated karate warm-up routine while discussing Jeb's disappearance and the network's recent mortality rate."
+    },
+    {
+      "start": "01:20:19",
+      "end": "01:21:21",
+      "canonical_segment": "News",
+      "title": "Raid Outro to Dink Sauce",
+      "notes": "Jeb's Dad signs off with metaphysical resignation as the broadcast raids Dink Sauce and plugs the KREEM.DOT team Patreon."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered station sign-on and cold open, referenced sending 'Ed' into the studio walls and confirmed Munch has not left the studio.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the news desk with Liliana and Gianna Wetmichael, covering Iran war deadline and polling before sending to Munch & Crum.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Co-anchored the news block, debated polling nuance and manufacturing consent, resisted Case's topless news suggestion.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Gianna Wetmichael",
+      "role": "correspondent",
+      "notes": "Joined the news desk as a guest correspondent, sparred with Case on Iran expertise and Trump's landlord-style 30-day timers.",
+      "canonical_name": "Gianna Wetmichael",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Claimed total victory over the mechanical gorilla, orchestrated the poop debate, and spiraled into gloating song disruption.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Returned from the gorilla punch headless and ghostlike, participated in the mandated poop debate, and performed a repetitive victory song.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosted How To with a karate warm-up routine while his father's spirit noted Jeb's unexplained absence.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[2025-06-19] Gorilla punch executed: Crum's head removed but he returns as a ghost/headless entity; Munch claims victory and declares the gorilla 'in jail'; Crum's points counter broken; mandated poop debate proceeds regardless.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum",
+      "fact": "Survived the mechanical gorilla punch but lost his head; returned in a damaged ghostlike state for the mandated debate.",
+      "timestamp": "[53:43]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch",
+      "fact": "Claims the gorilla 'acted alone' and is now 'in jail'; declares himself winner of the Crum Dick Punch wager.",
+      "timestamp": "[01:01:13]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "Currently missing; Jeb's Dad (spirit in board) confirms no one can find him and he hasn't seen signs of death.",
+      "timestamp": "[01:13:51]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Still inhabiting the studio walls; Pepito considers sending 'Ed' (serial killer guy) into the wall on his behalf.",
+      "timestamp": "[10:59]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "Channel points counter for Crum's 'jets' is broken and not awarding points.",
+      "timestamp": "[01:00:49]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened with Pepito's irregular sign-on before Case Blackwell and Liliana analyzed Trump's two-week Iran war deadline alongside correspondent Gianna Wetmichael, dissecting CNN polling that revealed a manufacturing-consent gap between airstrike support and diplomatic preference. The broadcast then pivoted to a post-gorilla Munch & Crum debate where Munch claimed total victory over the mechanical ape — now reportedly jailed — while a headless, ghostlike Crum fulfilled his contractual debate obligation on 'who eats poop.' Jeb Nogget's How To segment followed with a karate warm-up from his workshop, where his father's wooden-board spirit revealed Jeb has vanished. The hour concluded with a raid on Dink Sauce.",
+  "_meta": {
+    "vod_id": "4x739N7tVeE",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 71931,
+    "approx_prompt_tokens": 17982,
+    "transcript_lines": 176
+  }
+}

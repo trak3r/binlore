@@ -34,7 +34,9 @@ While lead anchor [[../characters/case-blackwell|Case Blackwell]] is the most fr
 
 | Episode | Timestamp | Notes |
 |---|---|---|
+| [[episodes/2025-06-07|2025-06-07]] | 02:25:37 | Therapy with Dr. Chath: Jay Drilla Embraces Flies and Fart Philosophy: Dr. Chath counsels Jay Drilla on fly swarms, daddy issues, and the universal truth that every historical figure has ripped an asshole-shredding fart; Jay declares a breakthrough and exits. |
 | [[episodes/2025-06-17|2025-06-17]] | 01:46:05 | Therapy Session Hijacked by Peter Gibbon & Dr. Chath: Peter Gibbon attempts to conduct therapy with Case; Dr. Chath (revealed as Case's cousin) intervenes; Peter claims to be 427 rats in a man suit; discussion of Crum replacement options and the pending wall lore; stream ends with raid announcement. |
+| [[episodes/2025-06-28|2025-06-28]] | 01:30:37 | Therapy Roulette & Coach McGurk Firing: Case cycles through fake therapists; Coach McGurk appears, argues with Munch, gets fired by Munch after defending Crum. |
 | [[episodes/2026-05-28|2026-05-28]] | 01:21:27 | Interactive Mental Wellness: Dr. Chath (Cheth) provides counseling to viewers' submitted life dilemmas via chat, offering therapeutic guidance in a high-pressure broadcast environment. |
 | [[../episodes/2026-06-22|2026-06-22]] | 01:24:35 | Case sits down for a therapy session with Dr. Chath, who reads viewer-submitted `!h` prompts, attempts the Dougie on his chair, references wrestling, and watches Kendelle drift through the studio like a ghost. |
 | [[../episodes/2026-07-11|2026-07-11]] | 01:32:26 | Dr. Chath conducts a therapy and looks-maxing consultation with Case, addressing Case's haircut crisis and Denver travel nightmare while receiving healing affirmations. |

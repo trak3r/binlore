@@ -1,0 +1,210 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "Hype Train",
+      "title": "Birthday Hype Train Marathon",
+      "start": "00:06",
+      "end": "37:28",
+      "notes": "Pepito opens the broadcast; Case celebrates his baptism-day birthday with a massive Hype Train level 13, fending off Crum's competing birthday claim and an onslaught of birthday beats."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Immigration Protests & New Hire Debut",
+      "start": "37:28",
+      "end": "1:12:06",
+      "notes": "Gianna Wetmichael joins as a center-right correspondent; she and Case clash with Crum over nationwide ICE protests, Trump's military parade, and Waymo arson."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "title": "Gorilla Debt Tracker & Wallpaper Trial",
+      "start": "1:12:06",
+      "end": "1:30:11",
+      "notes": "Crum returns to defend his $300k gorilla wager (debt now $15k) and debates Case's Bora Stapider Indigo Garden wallpaper, pivoting to accusations of cultural fetishization."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Trailer Watch: Too Much, The Lost Bus, Sliders, Waves of Madness",
+      "start": "1:30:11",
+      "end": "1:52:11",
+      "notes": "Case and Crum react to Netflix's Too Much, Apple's The Lost Bus, the 1995 Sliders pilot, and a kitchen-filmed side-scroller titled Waves of Madness."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Hate Sock Town Hall on Protests",
+      "start": "1:52:11",
+      "end": "2:04:06",
+      "notes": "Hate Sock refuses to engage on the protests, insults everyone, and introduces his suspiciously agreeable sister/partner sock before being dismissed."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Guy Redacted's Lizard People Exposé",
+      "start": "2:04:06",
+      "end": "2:29:15",
+      "notes": "Guy Redacted presents a Vice documentary on reptilian conspiracy violence, argues 75% of humans are lizards, and declares Case a lizard person."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Peter Gibbon Wall Preview & Legal Consult",
+      "start": "2:29:15",
+      "end": "2:32:06",
+      "notes": "Peter Gibbon promotes Friday's wall expedition, reveals his lawyer lacks object permanence, and plays his theme song."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Rapid-Fire News Rundown",
+      "start": "2:32:06",
+      "end": "3:03:39",
+      "notes": "Peter Gibbon speed-runs: Eggers' Christmas Carol, Pentagon UFO disinformation, Ozempic penis growth claims, Disney vs Midjourney, Weinstein retrial conviction, Brian Wilson death, Kentucky raccoon bar incident, Enhanced Games doping league, USB cable urethral insertion, Kojima biography, R. Kelly inmate murder solicitation, Splitgate 2 controversy, Joey Chestnut MLE return, Diddy birthday video, Mountain Dew dragon fruit flavor."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "title": "Park Opinions: Alternate Realities, Ska Ghosts, and a Rat",
+      "start": "3:03:39",
+      "end": "3:38:16",
+      "notes": "Trip Bradstein fields bush interviews from Trippy B, September, alternate-universe Brand Steam, Rob Elvie, Party Man, Mountain Man Mike, Tickle-My-Beckle pickle entity, Rory Blarneystone, Casey's sentient wallpaper, Kendall, Mitchell (ska immortal), Macho Man Randy Savage's ghost, Sliders Harold & Kumar, Cool Cumber, fake JD Vance, a ventriloquist rat, and Kamala Khan."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "lead anchor",
+      "notes": "lead anchor. Celebrated his baptism-day birthday amid a record Hype Train, sparred with new hire Gianna Wetmichael, and defended his wallpaper against Crum's racism accusations.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered the cold open as a self-aware dog, then stepped back while the birthday chaos unfolded.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "Commandeered the birthday broadcast with freestyle raps, hell lore, and a level-13 surge while insisting every hype train is his birthday.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Claimed a competing baptism-day birthday, reduced his gorilla-punch debt from $40k to $15k, and prosecuted Case's wallpaper as cultural fetishization.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Gianna Wetmichael",
+      "role": "correspondent",
+      "notes": "correspondent. Debuted as a center-right news hire, immediately clashed with Case and Crum over protest framing, and demanded to be called 'Miss Wet Mitchell.'",
+      "canonical_name": "Gianna Wetmichael",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Hosted the wall preview and rapid-fire news rundown, revealed his lawyer's object-permanence issues, and plugged his theme song.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Guy Redacted",
+      "role": "conspiracy correspondent",
+      "notes": "conspiracy correspondent. Presented a Vice documentary on reptilian conspiracy murders, asserted 75% lizard population, and declared Case a lizard person.",
+      "canonical_name": "Guy Redacted",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hate Sock",
+      "role": "puppet correspondent",
+      "notes": "puppet correspondent. Refused to comment on protests, insulted everyone with 'fuck you/wish/dumbass,' and introduced a suspiciously agreeable sister sock.",
+      "canonical_name": "Hate Sock",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted bush interviews with a parade of alternate-reality selves, ska ghosts, a sentient wallpaper, and a ventriloquist rat before signing off.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[1:23:44] Crum's gorilla-punch debt reduced from $40,000 to $15,000 after a $25,000 payment; two victories remain before the $300,000 wager is settled.",
+      "timestamp": "1:23:44"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "Crum",
+      "fact": "Crum celebrates his baptism (June 11) as his true birthday; biological birthday is March 28. [23:34]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Crum",
+      "fact": "Crum claims to be 'stupidly rich' and the stream's debt-tracking UI is broken. [1:24:24]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case's studio wallpaper is Bora Stapider Indigo Garden in gray; Crum calls it 'too busy' and 'Asian-coded.' [1:17:45]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Peter Gibbon",
+      "fact": "Peter Gibbon's lawyer struggles with object permanence, sometimes forgetting Peter exists. [2:30:56]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Hate Sock has a sister/partner sock who calls herself 'the nicest sock you'll ever meet.' [2:02:21]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Trip Bradstein",
+      "fact": "Trip Bradstein's accountant/enemy is a hamster who lives in his bush. [3:05:42]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Trip Bradstein",
+      "fact": "Trip Bradstein's ska band covered mariachi songs ska-style; former bandmate Mitchell died in a bus accident but is kept alive by 'the power of ska.' [3:28:31]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell marks his baptism-day birthday with a level-13 Hype Train while debuting center-right correspondent Gianna Wetmichael, who immediately locks horns with Crum over immigration protests and Trump's military parade. Later, Guy Redacted delivers a lizard-people conspiracy deep-dive declaring Case a reptilian, Peter Gibbon teases Friday's wall expedition, and Trip Bradstein closes the broadcast with a surreal parade of park interviewees before raiding Danny Plots.",
+  "_meta": {
+    "vod_id": "3hRyg_SPR8o",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 169711,
+    "approx_prompt_tokens": 42427,
+    "transcript_lines": 467
+  }
+}

@@ -21,7 +21,7 @@ tags:
 
 Munch serves as the combative, unapologetic political counterweight to [[crum|Crum]] on *Barely Informed News*. Distinguished by his disheveled silver mane, Munch brings relentless swagger and hostility to the debate desk.
 
-Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch|Crum Dick Punch]] storyline, wherein Munch relentlessly torments Crum over his lost gambling wagers and orchestrates community support for the impending robotic gorilla execution. On September 7, 2026, Munch suffered a catastrophic workplace accident when the mechanical gorilla exploded, incinerating his flesh and converting him into an immortal talking skeleton.
+Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goaded the [[../storylines/crum-face-punch|2025 face-punch Crumsplosion]], then [[../storylines/join-the-wall|rescued Crum from hell]] after weeks of volleyball-corpse denial, and finally agitated for the [[../storylines/crum-dick-punch|2026 groin-punch]] sequel. On September 7, 2026, that sequel's mechanical failure incinerated Munch into an immortal talking skeleton.
 
 ## Appearances
 
@@ -39,19 +39,33 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 | [[episodes/2026-06-05|2026-06-05]] | Senior debate analyst with distinctive disheveled appearance and confrontational debate style. |
 | [[episodes/2026-05-26|2026-05-26]] | Senior debate analyst known for his disheveled silver hair and combative political style. Engages in heated exchanges with Crum and frequently references his 'Dick Punch' wager storyline. |
 | [[episodes/2026-03-07|2026-03-07]] | Appears in wizard attire as immortal skeleton; confirms he is a warlock; missed the trial but compares it to ancient druidic proceedings. |
+| [[episodes/2025-09-25|2025-09-25]] | debate analyst. |
+| [[episodes/2025-09-21|2025-09-21]] | debate analyst. |
+| [[episodes/2025-09-18|2025-09-18]] | debate analyst. |
+| [[episodes/2025-09-15|2025-09-15]] | debate analyst. |
+| [[episodes/2025-08-11|2025-08-11]] | Debate analyst torments Crum over his missing penis and hell visions while arguing for Gatorade supremacy. |
+| [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
+| [[episodes/2025-06-28|2025-06-28]] | debate analyst. |
+| [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
+
+<details>
+<summary>Earlier appearances (9)</summary>
+
+| Episode | Notes |
+|---|---|
+| [[episodes/2025-06-20|2025-06-20]] | debate analyst. |
+| [[episodes/2025-06-19|2025-06-19]] | debate analyst. |
 | [[episodes/2025-06-17|2025-06-17]] | Senior Debate Analyst. |
+| [[episodes/2025-06-13|2025-06-13]] | Skeleton debate analyst torments Crum over gorilla wager, refuses Saturday shifts, admits HIPAA violation. |
+| [[episodes/2025-06-07|2025-06-07]] | Debate Analyst. |
+| [[episodes/2025-06-02|2025-06-02]] | debate analyst. |
+| [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
+| [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
 | [[episodes/2024-07-20|2024-07-20]] | Wins wiki feet, wife verification, sweet vs salty, Alien vs Predator, carnivore diet, Spike vs Luffy, Shaggy vs Jedi Shaggy, Country… |
 
+</details>
+
 ## Notable moments
-
-
-
-
-
-
-
-
-
 
 - **[01:50:38]** ([[episodes/2026-09-07|2026-09-07]]): Incinerated by the explosive backfire of the Rock-afire mechanical gorilla during the climax of the Crum Dick Punch execution, transforming into an animated, talking skeleton.
 - **[01:52:38]** ([[episodes/2026-09-07|2026-09-07]]): Boasts of having superior bone structure as a skeleton and claims he is now immune to mortal racial boundaries because he has no skin.
@@ -79,3 +93,15 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 - **[1:21:58]** ([[episodes/2026-09-02|2026-09-02]]): This episode's intended prompt was Christian vs Kendall, but was overtaken by the Crum-penis-punch thread; chat vote ended in a 'pretty big margin' win for Christian.
 - **[01:52:38]** ([[episodes/2026-09-07|2026-09-07]]): Transformed into a talking skeleton after catching the fiery backblast of the Rock-afire Gorilla stunt. Claims to have superior bone structure and to be liberated from mortal race boundaries.
 - **[01:11:15]** ([[episodes/2025-06-17|2025-06-17]]): Munch freezes completely motionless after Crum's death, described as 'glitched reality' and 'hibernating because his central purpose has been fulfilled'.
+- **[]** ([[episodes/2025-05-30|2025-05-30]]): Munch was resurrected after Crum relinquished several wins to reach $100k threshold [42:02-42:26]
+- **[]** ([[episodes/2025-05-30|2025-05-30]]): Munch's friend is Thomas Bahamas Pickles; they pretend not to know each other on air [55:22-56:05]
+- **[1:05:01]** ([[episodes/2025-06-02|2025-06-02]]): Munch operates a secret 'Only Mush' OnlyFans for 'wolves' subscribers.
+- **[]** ([[episodes/2025-06-13|2025-06-13]]): Munch admits to identity fraud and HIPAA violation by calling Crum's doctor posing as him to check for cancer. [01:04:39]
+- **[]** ([[episodes/2025-06-13|2025-06-13]]): Munch refuses to work Saturdays as 'man who values freedom; all my time is free time.' [01:16:45]
+- **[[01:01:13]]** ([[episodes/2025-06-19|2025-06-19]]): Claims the gorilla 'acted alone' and is now 'in jail'; declares himself winner of the Crum Dick Punch wager.
+- **[49:58]** ([[episodes/2025-06-20|2025-06-20]]): Munch claims he gathered all the pieces to sew Crum back together after the gorilla explosion; cleanup took two days.
+- **[01:36:21]** ([[episodes/2025-06-28|2025-06-28]]): [01:36:21] Munch claims he has security now.
+- **[128:30]** ([[episodes/2025-07-01|2025-07-01]]): Claims he got Crum's name out of press over 'male G-spot' incident; Coach McGurk reported him to police [2:08:30].
+- **[01:21:24]** ([[episodes/2025-09-15|2025-09-15]]): Munch confirms mechanical gorilla gone, Crum Dick Punch mission accomplished.
+- **[01:22:43]** ([[episodes/2025-09-15|2025-09-15]]): Munch mentions Coach McGurk coaching him in hell.
+- **[01:24:32]** ([[episodes/2025-09-18|2025-09-18]]): Munch claims he defeated the devil in debate multiple times, winning soul shards and a hell key housed in his soul.

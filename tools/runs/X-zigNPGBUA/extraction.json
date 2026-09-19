@@ -1,0 +1,304 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "start": "00:08",
+      "end": "08:07",
+      "notes": "Pepito delivers the official top-of-hour sign-on as a dog, counting down to live broadcast."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Opening Desk Banter",
+      "start": "08:07",
+      "end": "14:13",
+      "notes": "Case and Pepito discuss hair, milk, Pepito's mother, tiny computers, the Wall project paperwork for Friday, and a chat debate about zombie civil rights."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Charlie Kirk Assassination Coverage",
+      "start": "14:13",
+      "end": "21:45",
+      "notes": "Case and Rick discuss the Nepal Discord government story briefly, then pivot to the Charlie Kirk shooting: suspect details, trans roommate discourse, FBI confusion, and conservative cancel-culture retaliation."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Cash Patel FBI Statement",
+      "start": "21:45",
+      "end": "41:05",
+      "notes": "Case and Rick watch FBI Director Cash Patel's Fox & Friends victory lap on the Kirk arrest, mocking his delivery, transparency claims, and the 'Valhalla' sign-off to Charlie Kirk."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Internet Discourse Rant",
+      "start": "41:05",
+      "end": "50:37",
+      "notes": "Case delivers an extended monologue on the stupidity amplification machine of Twitter, Ryan Grim's 'both sides' cancel-culture take, and the broader rot of online conversation."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Kendall Phone Call",
+      "start": "50:37",
+      "end": "51:00",
+      "notes": "Kendall calls in to arrange a 4 AM airport ride; Case announces a shorter stream to spend time with her before her work trip."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Movie Trailers",
+      "start": "01:01:09",
+      "end": "01:18:06",
+      "notes": "Case and Rick watch trailers for 'Nightmares of Nature' (Conjuring producers), 'Argonaut' (1960s Superman knockoff with 'kill each other' mind-control), 'The Witcher' Season 4 (Liam Hemsworth), and skip the Ed Gein trailer."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "title": "Zombie Civil Rights Debate",
+      "start": "01:18:06",
+      "end": "01:35:46",
+      "notes": "Munch and Crum debate from hell/crawlspace: Munch denies zombies civil rights; Crum argues for ethical brain-eating. Munch declares the mechanical gorilla gone and the Crum Dick Punch mission accomplished."
+    },
+    {
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Subscriber Shoutouts",
+      "start": "01:35:46",
+      "end": "01:40:15",
+      "notes": "Hype Train appears outside the window, delivers Garfield-type beat rap for subs (Bruiser St. George 12 months, Card King, etc.), claims curing-cancer kisses for his panther girlfriend."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Jeff Ripple News Block",
+      "start": "01:40:15",
+      "end": "01:52:45",
+      "notes": "Jeff reads: scuba-gear Disney Springs robbery, Nigerian church penis-regrowth miracle, Trump's second Venezuela narco-terrorist strike, UK Ferrari F1-livery GP2 car on motorway, NASA Perseverance Mars biosignature study."
+    },
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Mars Biosignature Science Desk",
+      "start": "01:52:45",
+      "end": "02:00:09",
+      "notes": "Chet interrupts for the Mars story: Perseverance found vivianite and griguite in Sapphire Canyon mudstone, potential microbial biosignatures; Chet riffs on Dune worms and 'skientific' shorthand."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Final News Rundown",
+      "start": "02:00:09",
+      "end": "02:22:13",
+      "notes": "Jeff reads: Ricky Hatton death, Ice Cube War of the Worlds 15-day isolated shoot, 29-minute breath-hold record (pure O2 pre-breathe), San Francisco Narcan vigilante misuse, HBO Max price hike/Zaslav at Goldman Sachs Communicopia, Fox News Brian Kilmeade 'involuntary lethal injection' comment for homeless."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "title": "Belly Dancing & Life Skills",
+      "start": "02:22:13",
+      "end": "02:46:56",
+      "notes": "Jeb (reconstructed jaw, dad's spirit in wood) attempts belly dance tutorials (shimmy, hip lift, Egyptian, hip drop), watches Gun Mario hot dog eating, slap tutorial, Mike Tyson pushups; ends with Drano stomach-noises bit."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Sign-Off",
+      "start": "02:46:56",
+      "end": "02:49:23",
+      "notes": "Case and Pepito close out; Pepito plays his song, reminds of Wednesday return, exits as a dog."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the broadcast, led Charlie Kirk coverage, ranted on internet discourse, took Kendall call, hosted trailers and Jeb segment.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered sign-on/off as a dog, bantered about tiny computers and Wall project, played his song at close.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "host of Amongst the Web",
+      "notes": "host of Amongst the Web. Co-hosted news desk, sparred with Case on Kirk shooting and Cash Patel, watched trailers, participated in science desk.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendall",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Called in for 4 AM airport ride, mentioned as present in studio, Case shortening stream for her work trip.",
+      "canonical_name": "Kendall",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Crum on zombie rights from hell, declared mechanical gorilla gone and Crum Dick Punch mission accomplished.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued for zombie civil rights and ethical brain-eating, traded insults with Munch, referenced dehydrated-poop hair.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical/cultural interruption",
+      "notes": "musical/cultural interruption. Delivered Garfield-beat subscriber rap, claimed cancer-curing panther kisses, announced 12-month sub for Bruiser St. George.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Read news block: Disney Springs scuba thief, penis regrowth miracle, Trump Venezuela strike, UK F1 car, Mars biosignature, Hatton death, Ice Cube, breath record, Narcan vigilantes, HBO Max, Communicopia, Fox lethal injection.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Interrupted for Mars Perseverance biosignature story, detailed vivianite/griguite findings, riffed on Dune worms.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "How To host",
+      "notes": "How To host. Hosted belly dance tutorials with reconstructed jaw, watched Gun Mario hot dog, slap tutorial, Mike Tyson pushups, drank Drano for stomach noises.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "deceased spirit in timber",
+      "notes": "deceased spirit in timber. Appeared as wooden board in workshop, bickered with Jeb, claimed possession of Jeb during pushup demo.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:21:24] Munch declares the mechanical gorilla gone and the Crum Dick Punch mission accomplished, marking the storyline resolved.",
+      "timestamp": "01:21:24"
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[01:12:22] Case references paying off a sub goal on Friday and 'Case's fucking series coming up that he spent all that time planning,' likely pointing to Beyblade event prep.",
+      "timestamp": "01:12:22"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "10:09",
+      "entity": "Pepito",
+      "fact": "Pepito ate multiple tiny computers/phones left around the studio.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "09:46",
+      "entity": "Pepito",
+      "fact": "Pepito spends non-stream days with his mother, who picks him up.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "10:31",
+      "entity": "",
+      "fact": "Wall project scheduled for Friday 9/11 at 2 PM, paperwork clearing for worker access.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "13:03",
+      "entity": "",
+      "fact": "Case denies testosterone cream story after baby genital-growth report.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "14:13",
+      "entity": "",
+      "fact": "Nepal formed new government using Discord; Case read one article over weekend.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "21:45",
+      "entity": "",
+      "fact": "FBI Director Cash Patel held Fox & Friends victory lap on Kirk arrest, claimed 33-hour solve, 'Valhalla' sign-off.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "32:54",
+      "entity": "",
+      "fact": "Discord spokesperson denied platform was used to plan Kirk shooting; messages were roommate recounting note post-shooting.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "50:37",
+      "entity": "",
+      "fact": "Kendall leaving for work trip, early flight, Case driving her.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:21:24",
+      "entity": "Munch",
+      "fact": "Munch confirms mechanical gorilla gone, Crum Dick Punch mission accomplished.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:22:43",
+      "entity": "Munch",
+      "fact": "Munch mentions Coach McGurk coaching him in hell.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:23:52",
+      "entity": "",
+      "fact": "Jeb's face reconstructed with metal after falling down a well.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:25:21",
+      "entity": "",
+      "fact": "Jeb briefly had a phone in the wall/crawlspace.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:32:08",
+      "entity": "",
+      "fact": "Jeb attempted belly dancing tutorials (shimmy, hip lift, Egyptian, hip drop) as sub goal payoff.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchored a Monday broadcast dominated by the Charlie Kirk assassination aftermath, featuring a Cash Patel FBI victory lap, a Discord denial, and a sprawling rant on internet discourse rot. The desk devolved into a Munch & Crum zombie-rights debate from hell where Munch declared the mechanical gorilla gone and the Crum Dick Punch resolved. Hype Train delivered a Garfield-beat sub rap, Jeff Ripple ran a news gauntlet from Disney Springs scuba heists to Mars biosignatures, Chet interrupted for the Perseverance findings, and Jeb Nogget closed the show with a reconstructed-jaw belly-dancing tutorial, Gun Mario hot-dog eating, and a Drano stomach-noises finale.",
+  "_meta": {
+    "vod_id": "X-zigNPGBUA",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 148110,
+    "approx_prompt_tokens": 37027,
+    "transcript_lines": 412
+  }
+}
