@@ -53,6 +53,9 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/dr-chath|Dr. Chath]] | Minor-Character Therapist / Consultant | Eccentric counseling consultant presiding over the [[../segments/therapy\|Therapy]] desk, fielding viewer prompts and offering confusing wrestling and dance-based guidance |
 | [[characters/granman|Granman]] | Minor Guest Host (*Amongst the Web*) | Blunt guest critic of viewer clips; athletic-sock crusader and occasional web-desk host |
 | [[characters/jazz-shrimp|Jazz Shrimp]] | Minor Culinary-Music Correspondent | Tempura-fried jazz shrimp who debates food critics over his claim to be the greatest jazz shrimp of all time |
+| [[characters/don-riggles|Don Riggles]] | Minor Trial Witness | Returning elder witness whose testimony is almost entirely about smells and bowels |
+| [[characters/coach-mcgurk|Coach McGurk]] | Minor Character Witness | Character witness for Crum from the Bart Simpson voice / zombie-head era |
+| [[characters/jizbo|Jizbo]] | Minor Trial Witness | Returns from the mountain; answers examination with a conga |
 | [[characters/steak|Steak]] | Guest Artist | Collaborator on the Thump Steaks theme song with DJ C4 |
 
 See also: [[../storylines/crum-dick-punch|Crum Dick Punch]], [[../segments/munch-and-crum|Munch & Crum]].

@@ -316,11 +316,13 @@ def update_episode_from_extraction(vod_id: str, extraction: dict[str, Any]) -> P
                 continue
             if not isinstance(l, dict):
                 continue
-            entity = l.get("entity", "")
+            entity = l.get("entity", "") or l.get("character", "")
             entity_link = _format_character_link(entity) if entity else ""
             prefix = f"**{entity_link}**: " if entity_link else ""
             ts = f"**[{l['timestamp']}]** " if l.get("timestamp") else ""
-            fact = l.get("fact", "")
+            fact = str(l.get("fact") or l.get("note") or l.get("text") or "").strip()
+            if not fact:
+                continue
             lore_bullets.append(f"- {ts}{prefix}{fact}")
     else:
         lore_bullets.append("- _No lore notes recorded_")

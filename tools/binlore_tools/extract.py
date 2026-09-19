@@ -127,8 +127,8 @@ CHARACTERS vs EXTERNAL SUBJECTS:
 Bio tracking is ONLY for on-air network figures who speak in studio scenes.
 - Public figures and politicians (Trump, JD Vance, Mitch McConnell, Lindsey Graham, Pete Hegseth, etc.) who appear in news coverage are NOT characters.
 - People in news clips, viral videos, or movie clips being watched are NOT characters.
-- Twitch chatters and viewers are NOT characters.
-- Stream raid recipients are NOT characters.
+- Twitch chatters and viewers are NOT characters (including Skymer; ASR often garbling the name as S.K.O.A.M.Y.R.).
+- Stream raid recipients are NOT characters. Never name the other streamer's channel in overview, segment notes, or wrap-ups — if the broadcast ends with a raid, omit the destination.
 
 CHARACTER NOTES (keep bios short):
 - characters[].notes must be ONE short sentence for the Appearances index (role + what mattered this episode). No arc essays.
@@ -144,7 +144,7 @@ STORYLINES (overlapping threads):
 
 ASR:
 Whisper misspells names. Reconcile to the roster when possible:
-Crumb/Crumble → Crum; Monch → Munch; Skynce/Chad → Chet; Chetah → ChetAI; Noggin → Nogget; Papita/Pepita → Pepito.
+Crumb/Crumble → Crum; Monch → Munch; Skynce/Chad → Chet; Chetah → ChetAI; Noggin → Nogget; Papita/Pepita → Pepito; S.K.O.A.M.Y.R./SKOAMYR → Skymer (viewer only — never a character).
 
 Match canonical_segment and character names to the Existing Wiki Canon Roster in the user message. Do not invent desks or staff that are not in the roster or clearly on-air in this transcript.
 

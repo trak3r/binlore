@@ -735,9 +735,11 @@ def update_wiki_from_extraction(
     # Group lore notes by entity
     lore_by_entity: dict[str, list[tuple[str, str]]] = {}
     for note in extraction.get("lore_notes", []):
-        ent = str(note.get("entity", "")).strip()
-        ts = str(note.get("timestamp", ""))
-        fact = str(note.get("fact", "")).strip()
+        if not isinstance(note, dict):
+            continue
+        ent = str(note.get("entity") or note.get("character") or "").strip()
+        ts = str(note.get("timestamp") or note.get("time") or "")
+        fact = str(note.get("fact") or note.get("note") or note.get("text") or "").strip()
         if ent and fact:
             lore_by_entity.setdefault(ent.lower(), []).append((ts, fact))
 

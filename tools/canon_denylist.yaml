@@ -12,6 +12,9 @@ names:
   - Pete Hegseth
   - Joe Biden
   - Sam Altman
+  - Skymer
+  - S.K.O.A.M.Y.R.
+  - Jackie Jing
 
 name_tokens:
   - trump
@@ -27,6 +30,10 @@ name_tokens:
   - altman
   - ben hooper
   - card king
+  - skymer
+  - s.k.o.a.m.y.r
+  - skoamyr
+  - jackie jing
 
 note_tokens:
   - senator
@@ -53,3 +60,6 @@ note_tokens:
   - chat user
   - twitch chat
   - raid
+  - raids
+  - raid to
+  - raid on
