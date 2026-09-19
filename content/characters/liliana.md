@@ -40,7 +40,7 @@ Liliana was absent from *Barely Informed News* for approximately a full year bef
 | [[episodes/2026-07-16|2026-07-16]] | Mentioned by chat as knowing where Stephanie is, with Case confirming she is a 'big time international power broker' currently busy. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
 | [[episodes/2026-03-07|2026-03-07]] | Briefly appears during newsroom wrap-up; Case mentions her dedicated theme music. |
-| [[episodes/2024-07-20|2024-07-20]] | Participates in both Jambalaya sessions, argues for buttersnitch pie and potato-as-human, dominates piss-play questions, votes for Kendall… |
+| [[episodes/2024-07-20|2024-07-20]] | Participates in both [[../segments/jambalaya|Jambalaya]] sessions, argues for buttersnitch pie and potato-as-human, dominates piss-play questions, votes for Kendall… |
 
 ## Notable Quotes
 
