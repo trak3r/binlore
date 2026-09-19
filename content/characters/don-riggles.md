@@ -26,9 +26,7 @@ His entire on-air vocabulary tends toward smells, gases, and digestive catastrop
 
 ## Appearances
 
-| Episode | Notes |
-|---|---|
-| [[../episodes/2026-03-07|2026-03-07]] | Trial Witness | Called at `[01:07:16]`; returns at `[01:24:39]` for bowel-and-Domino's commentary against Crum. |
+_No appearance notes recorded yet._
 
 ## Notable Quotes
 

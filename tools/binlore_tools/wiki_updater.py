@@ -220,6 +220,8 @@ def _format_capped_appearances(
     deduped: list[str] = []
     seen: set[str] = set()
     for row in ordered:
+        if not _appearance_row_usable(row):
+            continue
         date = _episode_date_from_row(row)
         key = date if date != "0000-00-00" else row
         if key in seen:
@@ -229,6 +231,8 @@ def _format_capped_appearances(
 
     recent = deduped[:limit]
     archive = deduped[limit:]
+    if not recent and not archive:
+        return "_No appearance notes recorded yet._"
     parts: list[str] = ["| Episode | Notes |", "|---|---|", *recent]
     if archive:
         parts.extend(
@@ -459,9 +463,15 @@ def update_character_file(
         modified = True
 
     skip_appearance = _is_usual_fixture_appearance(slug, char_notes, lore_facts)
+    safe_notes = _short_appearance_notes(char_notes).replace("|", "/")
+    can_write_appearance = (
+        not skip_appearance
+        and _appearance_notes_usable(safe_notes)
+        and ("## Appearances" in body or slug != "case-blackwell")
+    )
 
     # 1. Update Appearances (if appearances section exists, or if not the host)
-    if not skip_appearance and ("## Appearances" in body or slug != "case-blackwell"):
+    if can_write_appearance:
         before_app, app_text, after_app = _extract_section(body, "## Appearances")
         if not app_text and "## Appearances" not in body:
             if "## Notable moments" in body:
@@ -472,7 +482,6 @@ def update_character_file(
             before_app, app_text, after_app = _extract_section(body, "## Appearances")
 
         ep_link = f"[[episodes/{ep_slug}|{ep_slug}]]"
-        safe_notes = _short_appearance_notes(char_notes).replace("|", "/")
         new_row = f"| {ep_link} | {safe_notes} |"
         updated_app = _upsert_appearance_row(app_text, ep_slug, new_row)
         if updated_app != app_text.strip():
@@ -660,22 +669,91 @@ tags:
     return target_path
 
 
+_ABBREV_BEFORE_DOT = frozenset(
+    {
+        "dr",
+        "mr",
+        "mrs",
+        "ms",
+        "mz",
+        "st",
+        "vs",
+        "etc",
+        "approx",
+        "dept",
+        "est",
+        "no",
+        "vol",
+        "jr",
+        "sr",
+    }
+)
+
+
 def _short_appearance_notes(notes: str, max_chars: int = 140) -> str:
     """Keep Appearances index rows short — one sentence / capped length."""
     text = " ".join((notes or "").split()).strip()
     if not text:
         return ""
-    # Prefer first sentence
-    for sep in (". ", "! ", "? "):
-        if sep in text:
-            first = text.split(sep, 1)[0].strip()
-            if first and not first.endswith((".", "!", "?")):
-                first = first + sep[0]
-            text = first
-            break
+
+    # Prefer first sentence, but do not split on abbreviations like "Dr. Chath".
+    cut = None
+    for i, ch in enumerate(text):
+        if ch not in ".!?":
+            continue
+        if i + 1 < len(text) and text[i + 1] != " ":
+            continue
+        # Look at the token immediately before the punctuation.
+        j = i - 1
+        while j >= 0 and text[j].isalnum():
+            j -= 1
+        token = text[j + 1 : i].lower()
+        if token in _ABBREV_BEFORE_DOT or (len(token) == 1 and token.isalpha()):
+            continue
+        cut = i + 1
+        break
+    if cut is not None:
+        text = text[:cut].strip()
+
     if len(text) > max_chars:
-        text = text[:max_chars].rsplit(" ", 1)[0] + "…"
+        text = text[:max_chars].rsplit(" ", 1)[0].rstrip(".,;:") + "…"
     return text
+
+
+def _appearance_notes_usable(notes: str) -> bool:
+    """Skip blank / too-vague / mid-abbreviation-truncated Appearances rows."""
+    text = " ".join((notes or "").split()).strip()
+    if len(text) < 12:
+        return False
+    # Truncated on an abbreviation / open quote (classic "Dr. " split bug)
+    if re.search(r"\b(Dr|Mr|Mrs|Ms)\.\s*$", text):
+        return False
+    if text.count("'") % 2 == 1 or text.count('"') % 2 == 1:
+        return False
+    if text.endswith((" as", " as a", " as an", " with", " and", " for", " of", " to")):
+        return False
+    vague = re.compile(
+        r"^(speaking|mentioned|appears?|guest|correspondent|host)\.?$",
+        re.I,
+    )
+    return not vague.match(text)
+
+
+def _appearance_row_notes(row: str) -> str:
+    """Notes cell from an Appearances row (wikilinks contain '|' so avoid naive split)."""
+    match = re.match(
+        r"^\|\s*\[\[episodes/[^\]]+\]\]\s*\|\s*(.*?)\s*\|?\s*$",
+        row.strip(),
+    )
+    if match:
+        return match.group(1).strip()
+    # Fallback: last pipe-delimited cell
+    parts = row.strip().strip("|").split("|")
+    return parts[-1].strip() if parts else ""
+
+
+def _appearance_row_usable(row: str) -> bool:
+    return _appearance_notes_usable(_appearance_row_notes(row))
 
 
 def update_storyline_file(

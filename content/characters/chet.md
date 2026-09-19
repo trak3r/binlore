@@ -38,10 +38,6 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2026-09-04|2026-09-04]] | Intervenes following coverage of The Family International cult; introduces upgraded blue-light protective eyewear, investigates cult propaganda tracks, and warns of cognitive AI vulnerabilities. |
 | [[episodes/2026-09-02|2026-09-02]] | Triggered after the news desk utters "scientists"; reviews a Brazilian Journal of Plastic Surgery aesthetic proportion study alongside [[chet-ai|ChetAI]], determining that "all boobs is good." |
 | [[episodes/2026-08-19|2026-08-19]] | Chief science correspondent deploying to the desk to investigate the smart underwear flatulence research. |
-| [[episodes/2026-07-23|2026-07-23]] | Chief Science Correspondent. Spontaneously activates upon hearing the 'skiantist' trigger to offer medical advice on Case's ankle, advising thick power calves and full body thick activation. Notes his lack of a fully operational medical license. |
-| [[episodes/2026-07-17|2026-07-17]] | Chief science correspondent appearing as 'Dr. |
-| [[episodes/2026-07-11|2026-07-11]] | Chief science correspondent disguised as 'Dr. |
-| [[episodes/2026-06-19|2026-06-19]] |  |
 | [[episodes/2026-06-15|2026-06-15]] | Chief science correspondent, investigates triple-penis donor. |
 | [[episodes/2026-06-05|2026-06-05]] | Chief science correspondent running the specialized science desk with ChetAI as synthetic co-host. |
 | [[episodes/2026-06-03|2026-06-03]] | Chief Science Correspondent. Co-hosts news desk, debates politics with Case, reveals father owns oil field, reacts to AI Rooney failures. |

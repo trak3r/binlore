@@ -35,22 +35,15 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 
 | Episode | Notes |
 |---|---|
-| [[episodes/2026-09-02|2026-09-02]] | Studio guest referenced throughout — asked to talk to skeletons, fed lines to Filipino Christmas tree, and is one half of the 'Kendall vs… |
 | [[episodes/2026-08-06|2026-08-06]] | In-studio contributor appearing intermittently. Debuts briefly before ghosting off-camera, later returns to announce she has already started playing *BigWog* without Blackwell. |
 | [[episodes/2026-08-04|2026-08-04]] | Referenced during the CM Punk stain investigation as the in-studio authority who would know the answer, but reported to be napping off-camera. Viewer demand for Kendelle-branded BIN merch is also noted. |
 | [[episodes/2026-07-20|2026-07-20]] | In-studio contributor and freelance video editor. Consults Case live on air for legal advice regarding a restrictive freelance video editing contract. |
 | [[episodes/2026-07-17|2026-07-17]] | Brief on-camera walk-through mid-therapy session, stopping by to announce plans to get sticky rice in an hour. |
-| [[episodes/2026-07-16|2026-07-16]] | Referenced in passing by Case as 'Drunkleted' in relation to Stephanie's potential new girlfriend. |
-| [[episodes/2026-07-11|2026-07-11]] | Evaluates Case's haircut and beard paint, joins a lighthearted world kissing record attempt, and assists during the Mecha Chameleon gaming session. |
 | [[episodes/2026-06-27|2026-06-27]] | Mentioned by Blackwell when discussing having to leave the broadcast early for a date night. |
 | [[episodes/2026-06-22|2026-06-22]] | On-air contributor who appears as a ghost during the therapy segment, walking through the studio to her own signature theme music. |
 | [[episodes/2026-06-19|2026-06-19]] | Lead anchor and in-studio contributor who periodically enters the broadcast for signature segments. |
-| [[episodes/2026-06-18|2026-06-18]] | Lead anchor's girlfriend and on-air contributor. Co-hosting upcoming 'Say With Me' podcast testing billionaire routines (Kim Kardashian routine). Walks through studio to signature theme music. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in birthday context, not actively speaking. |
-| [[episodes/2026-06-08|2026-06-08]] | Lead anchor's girlfriend, in-studio contributor. Brings machete, does laundry on camera, receives birthday shirt, mother celebrated. |
 | [[episodes/2026-06-05|2026-06-05]] | Lead anchor and on-air contributor who walks through the studio for signature segments. |
-| [[episodes/2026-06-03|2026-06-03]] | Lead Anchor's girlfriend and in-studio contributor. Appears briefly to announce mall trip, reveals emergency cash ziplock bag from LA fires, receives $100 from Case. |
-| [[episodes/2026-03-07|2026-03-07]] | Appears as a surfing banana; admits to drinking Crum's urine and being hired as lead programmer without experience. |
 | [[episodes/2025-06-17|2025-06-17]] | In-Studio Contributor. |
 | [[episodes/2024-07-20|2024-07-20]] | Appears on couch cam, sleeps through friend visit, debates smut vs no smut (concedes), wins fursona poll, declines boba after stream runs… |
 
