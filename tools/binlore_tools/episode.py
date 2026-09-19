@@ -202,6 +202,9 @@ def update_episode_from_extraction(vod_id: str, extraction: dict[str, Any]) -> P
     If the existing episode page has frontmatter ``curated: true``, leave the markdown
     untouched (extraction.json may still be refreshed by the caller).
     """
+    from .extract import validate_extraction
+
+    extraction = validate_extraction(dict(extraction))
     run_dir = RUNS_DIR / vod_id
     meta_path = run_dir / "meta.json"
     meta: dict[str, Any] = {}
@@ -292,8 +295,10 @@ def update_episode_from_extraction(vod_id: str, extraction: dict[str, Any]) -> P
     story_bullets: list[str] = []
     if storylines:
         for st in storylines:
-            st_name = st.get("storyline", "Storyline")
-            st_link = _format_storyline_link(st_name)
+            if not isinstance(st, dict):
+                continue
+            st_name = st.get("storyline") or st.get("name") or "Storyline"
+            st_link = _format_storyline_link(str(st_name))
             beat = st.get("beat", "")
             ts = f" [{st['timestamp']}]" if st.get("timestamp") else ""
             story_bullets.append(f"- **{st_link}**{ts}: {beat}")
@@ -306,6 +311,11 @@ def update_episode_from_extraction(vod_id: str, extraction: dict[str, Any]) -> P
     lore_bullets: list[str] = []
     if lore_notes:
         for l in lore_notes:
+            if isinstance(l, str):
+                lore_bullets.append(f"- {l}")
+                continue
+            if not isinstance(l, dict):
+                continue
             entity = l.get("entity", "")
             entity_link = _format_character_link(entity) if entity else ""
             prefix = f"**{entity_link}**: " if entity_link else ""

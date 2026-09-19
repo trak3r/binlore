@@ -48,8 +48,10 @@ During the Season 3 finale on September 7, 2026—the final broadcast before anc
 
 
 
+
 | Date / Episode | Beat |
 |----------------|------|
+| [[../episodes/2025-06-17|2025-06-17]] | [2025-06-17] Crum Dick Punch storyline resolved: mechanical gorilla executes Crum on live broadcast, exploding his head; Munch freezes in post-purpose catatonia; network processes aftermath across segments. |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |

@@ -9,7 +9,7 @@ aliases:
   - Kendelle McDonald
   - Kendall McDonald
   - Candy Lane
-first_seen: 2026-06-03
+first_seen: 2025-06-17
 status: in-studio contributor
 tags:
   - character
@@ -42,8 +42,12 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 
 
 
+
+
 | Episode | Notes |
 |---------|-------|
+| [[episodes/2025-06-17|2025-06-17]] | In-Studio Contributor. |
+| [[episodes/2026-03-07|2026-03-07]] | Appears as a surfing banana; admits to drinking Crum's urine and being hired as lead programmer without experience. |
 | [[episodes/2026-06-03|2026-06-03]] | Lead Anchor's girlfriend and in-studio contributor. Appears briefly to announce mall trip, reveals emergency cash ziplock bag from LA fires, receives $100 from Case. |
 | [[episodes/2026-06-05|2026-06-05]] | Lead anchor and on-air contributor who walks through the studio for signature segments. |
 | [[episodes/2026-06-08|2026-06-08]] | Lead anchor's girlfriend, in-studio contributor. Brings machete, does laundry on camera, receives birthday shirt, mother celebrated. |

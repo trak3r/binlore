@@ -1,0 +1,156 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "08:03",
+      "canonical_segment": "News",
+      "title": "Station Cold-Open & Sign-On",
+      "notes": "Pepito delivers the top-of-hour sign-on as executive producer, identifies as a dog, and expresses support for Crum ahead of the trial."
+    },
+    {
+      "start": "08:03",
+      "end": "02:01:13",
+      "canonical_segment": "News",
+      "title": "The People v. Crum: Mock Trial Proceedings",
+      "notes": "Case Blackwell serves as judge in a chaotic mock trial where Crum is sued by peen.ui for IP infringement and annoyance. Defense attorney Cleetance Mudbutter (repeatedly misnamed Mudbottom) and prosecutor Rock Justice examine witnesses including Kendall (surfing banana), Hate Sock, Don Riggles, Coach McGurk, Jizbo, and Munch's sister. Crum testifies about his scalp condition, strip mining, and peen.ui co-founding."
+    },
+    {
+      "start": "02:01:13",
+      "end": "02:08:41",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Courtroom Takeover",
+      "notes": "Hype Train interrupts the trial with an extended freestyle rap session, derailing proceedings. Crum attempts a rebuttal rap but is cut off by objection. Hype Train acknowledges a 1,000-bit donation from S.K.O.A.M.Y.R. and references an Obama appearance."
+    },
+    {
+      "start": "02:08:41",
+      "end": "02:32:13",
+      "canonical_segment": "News",
+      "title": "Trial Resumes: Evidence Review & Sentencing",
+      "notes": "Case resumes as judge, reviews final evidence including Crum's Davos speech about vibe-coding a pee-pee site as a front for PnuCrimes.ai. Munch appears in wizard attire as immortal skeleton. Jury (chat) votes 'genital slit.' Case sentences Crum to debate a gorilla then receive a gorilla punch in coming weeks, plus $6M owed to peen.ui."
+    },
+    {
+      "start": "02:32:13",
+      "end": "02:38:56",
+      "canonical_segment": "News",
+      "title": "News Desk Wrap-Up & Raid",
+      "notes": "Case returns to anchor desk, summarizes the trial outcome, raids Jackie Jing's channel, and signs off. Pepito and Liliana briefly appear. Monday court continuation teased."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor / judge",
+      "notes": "Anchors the broadcast and serves as judge in the mock trial, having obtained a federal judge license online."
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "Delivers cold open sign-on as a dog, supports Crum, and later appears in the newsroom wrap-up."
+    },
+    {
+      "name": "Crum",
+      "role": "defendant / debate analyst",
+      "notes": "Stands trial for peen.ui IP infringement; reveals he co-founded peen.ui, has a 'nasty pig room,' and suffers from labia growing on his scalp."
+    },
+    {
+      "name": "Cleetance Mudbutter",
+      "role": "defense attorney",
+      "notes": "Civil defense attorney representing Crum; repeatedly misaddressed as Mudbottom; falls asleep during prosecution's closing."
+    },
+    {
+      "name": "Rock Justice",
+      "role": "prosecutor",
+      "notes": "Maximum prosecutor for peen.ui; plans to watch hockey with Case after trial; delivers Navy SEAL copypasta as testimony."
+    },
+    {
+      "name": "Kendall",
+      "role": "witness",
+      "notes": "Appears as a surfing banana; admits to drinking Crum's urine and being hired as lead programmer without experience."
+    },
+    {
+      "name": "Hate Sock",
+      "role": "witness",
+      "notes": "Testifies from a paper bag; engages in rap battle with Mudbutter; declares Crum guilty and offends existence."
+    },
+    {
+      "name": "Don Riggles",
+      "role": "witness",
+      "notes": "Returns after absence; describes trial as 'big fresh stack of ass pooping out smells'; insults Crum's bowels."
+    },
+    {
+      "name": "Coach McGurk",
+      "role": "witness",
+      "notes": "Character witness for Crum from his 'Bart Simpson voice and zombie head' days; objects to opposing counsel's pantslessness."
+    },
+    {
+      "name": "Jizbo",
+      "role": "witness",
+      "notes": "Returns 'from the mountain'; leads conga line; sustained by court despite not answering questions."
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst / immortal wizard",
+      "notes": "Appears in wizard attire as immortal skeleton; confirms he is a warlock; missed the trial but compares it to ancient druidic proceedings."
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "Commandeers the courtroom for an extended freestyle rap session; acknowledges 1,000-bit donation; references Obama holiday parties."
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "Briefly appears during newsroom wrap-up; Case mentions her dedicated theme music."
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "Referenced by Case during wrap-up as 'Jeff' in the newsroom."
+    }
+  ],
+  "storylines": [
+    {
+      "name": "Crum Dick Punch",
+      "beat": "[02:23:09] Case sentences Crum to debate a gorilla then receive a gorilla punch in the next couple weeks, continuing the gambling liability arc. Crum owes $6M to peen.ui."
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "note": "Obtained a federal judge license online ('kind of like a marriage license') to preside over the mock trial. [12:12]"
+    },
+    {
+      "entity": "Crum",
+      "note": "Co-founded peen.ui with Lenny Riz (lemur Rizler); the lawsuit is a 'tiff between two pals.' [01:50:59]"
+    },
+    {
+      "entity": "Crum",
+      "note": "Scalp condition confirmed as labia (not scabies) growing naturally from his skull; required special shampoo. [01:34:56]"
+    },
+    {
+      "entity": "Crum",
+      "note": "Released a spoken word album titled 'Crime is Peace' in his 20s when he 'thought crime was peace.' [02:11:19]"
+    },
+    {
+      "entity": "Crum",
+      "note": "Gave a Davos speech titled 'I spent three months AI vibe coding a pee pee site to use it as a front for my illegal dark website PnuCrimes.ai for crimes.' [02:13:31]"
+    },
+    {
+      "entity": "Munch",
+      "note": "Confirms he is an immortal wizard/warlock who teleports; has a sister ('sexy cat woman') who did art for Crum's crimes. [02:27:15]"
+    },
+    {
+      "entity": "peen.ui",
+      "note": "CEO Lenny Riz (lemur Rizler) never appeared for the trial despite suing Crum. [01:51:30]"
+    }
+  ],
+  "episode_summary": "Barely Informed News broadcasts a chaotic mock trial where Case Blackwell, newly licensed as a federal judge, presides over Crum's lawsuit from peen.ui for IP infringement. The proceedings devolve into a parade of absurd witnesses — including a surfing banana who admits to drinking Crum's urine, Hate Sock in a paper bag, and an immortal wizard Munch — while Hype Train hijacks the courtroom for a freestyle rap set. The jury (chat) votes 'genital slit,' and Case sentences Crum to debate a gorilla then face a gorilla punch within weeks, plus a $6 million judgment to peen.ui. The broadcast concludes with a raid on Jackie Jing's channel and a promise to continue the trial on Monday.",
+  "_meta": {
+    "vod_id": "obXQhBxu7PI",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 128463,
+    "approx_prompt_tokens": 32115,
+    "transcript_lines": 340
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "segments": [
+    {
+      "start": "00:13:24",
+      "end": "00:55:21",
+      "canonical_segment": "News",
+      "title": "News Roundup: Iran Nuclear Tensions, R. Kelly, Cancer Detection, Grammy Categories, Diddy Trial, Joey Chestnut, Trump Mobile",
+      "notes": "Case Blackwell anchors a rapid-fire news block covering Trump dismissing US intelligence on Iran's nuclear program, R. Kelly prison overdose allegations, Johns Hopkins cancer blood detection breakthrough, Grammy category changes for country music, Diddy trial juror dismissal, Joey Chestnut's Nathan's Hot Dog Contest return, and Trump Mobile wireless service launch."
+    },
+    {
+      "start": "00:55:45",
+      "end": "01:08:26",
+      "canonical_segment": "Munch & Crum",
+      "title": "Crum Dick Punch Execution: Gorilla Punch Day",
+      "notes": "The long-deferred Crum Dick Punch storyline reaches its climax as Crum faces the mechanical gorilla; after failed bargaining and emotional farewells, the gorilla delivers the fatal blow, exploding Crum's head on live broadcast."
+    },
+    {
+      "start": "01:08:26",
+      "end": "01:18:14",
+      "canonical_segment": "News",
+      "title": "Post-Punch Fallout & Streets Setup",
+      "notes": "Case, Pepito, and chat process Crum's death; Munch freezes motionless; Pepito delivers a surreal Gregorian chant blessing sending Crum's spirit to 'space demons'; transition to Trip on the Street."
+    },
+    {
+      "start": "01:18:14",
+      "end": "01:46:05",
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip on the Street: Public Reaction to Crum's Death",
+      "notes": "Trip Bradstein interviews park visitors about Crum's demise, encountering a Crum stunt double claimant, a Wendy's drive-thru ghost, a sheriff with jurisdictional disputes, Shane Gillis, a talking skeleton, Jeffrey Epstein's ghost, a ghostbuster, a portal artist, Matt Liddell threatening Munch, the Hindenburg, and multiple Crum impostors."
+    },
+    {
+      "start": "01:46:05",
+      "end": "01:58:03",
+      "canonical_segment": "Therapy",
+      "title": "Therapy Session Hijacked by Peter Gibbon & Dr. Chath",
+      "notes": "Peter Gibbon attempts to conduct therapy with Case; Dr. Chath (revealed as Case's cousin) intervenes; Peter claims to be 427 rats in a man suit; discussion of Crum replacement options and the pending wall lore; stream ends with raid announcement."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "Senior Debate Analyst",
+      "notes": "Faces and loses the Crum Dick Punch execution via mechanical gorilla; head explodes on air; leaves behind wife Belilia and beloved blanket 'nummie'."
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "Senior Debate Analyst",
+      "notes": "Orchestrates and witnesses Crum's gorilla punch execution; freezes motionless afterward in apparent purpose-loss catatonia."
+    },
+    {
+      "name": "Pepito",
+      "role": "Executive Producer",
+      "notes": "Orders gorilla moving plate for bad knees; delivers trippy Gregorian chant blessing sending Crum to space demons; manages segment transitions."
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "Chief Science Correspondent",
+      "notes": "Briefly appears to check on stressed Kendelle; riffs on methylene blue 'limitless pill' and blue urine during news roundup."
+    },
+    {
+      "name": "Kendelle",
+      "role": "In-Studio Contributor",
+      "notes": "Brings food for Case; stressed with work; birthday month mentioned; receives candle from Chet."
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "Field Correspondent",
+      "notes": "Conducts man-on-the-street interviews about Crum's death; fends off multiverse Crum claimants, ghosts, and a portal artist."
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "News Stowaway",
+      "notes": "Hijacks therapy segment; claims to be 427 rats in a man suit; suggests shaved-head Case as Crum replacement; advocates for wall lore."
+    },
+    {
+      "name": "Dr. Chath",
+      "role": "Resident Therapist",
+      "notes": "Revealed as Case's cousin; intervenes in Peter's therapy hijack; gives cousins work out of worry."
+    },
+    {
+      "name": "Hype Train",
+      "role": "Musical/Cultural Interruption",
+      "notes": "Referenced as containing chat in its back; Crum's spirit said to be roasting inside it."
+    }
+  ],
+  "storylines": [
+    {
+      "name": "Crum Dick Punch",
+      "beat": "[2025-06-17] Crum Dick Punch storyline resolved: mechanical gorilla executes Crum on live broadcast, exploding his head; Munch freezes in post-purpose catatonia; network processes aftermath across segments."
+    },
+    {
+      "name": "Beyblade Tournament",
+      "beat": "[2025-06-17] Referenced as pending community-pledge event; no progress shown this episode."
+    }
+  ],
+  "lore_notes": [
+    "[01:00:39] Crum's cherished blanket is named 'nummie' (spelled N-U-M-M-I-E).",
+    "[01:02:20] Crum's wife is named Belilia; she is active on Instagram and responds to DMs.",
+    "[01:06:24] Mechanical gorilla's punch explodes Crum's head on live broadcast.",
+    "[01:11:15] Munch freezes completely motionless after Crum's death, described as 'glitched reality' and 'hibernating because his central purpose has been fulfilled'.",
+    "[01:16:30] Pepito claims direct line to God as 'official pope of this stream'; references secret deity 'Mother Glabla' who vaults the gross into space.",
+    "[01:47:59] Dr. Chath is Case Blackwell's cousin; Case gives cousins work out of worry.",
+    "[01:49:35] Peter Gibbon claims to be '427 rats in a man suit'.",
+    "[01:52:51] Pepito ordered the gorilla's moving plate due to its bad knees, making him an accessory to the execution logistics."
+  ],
+  "episode_summary": "Barely Informed News broadcasts 'Gorilla Punch Day,' executing the long-deferred Crum Dick Punch storyline as a mechanical gorilla detonates Crum's head on live television. Munch is left purpose-frozen in the aftermath while the network processes the loss through a surreal papal blessing, a multiverse-heavy Trip on the Street, and a therapy session hijacked by wall-dwelling stowaway Peter Gibbon and Case's therapist cousin Dr. Chath.",
+  "_meta": {
+    "vod_id": "SmtzHJfYna0",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 96161,
+    "approx_prompt_tokens": 24040,
+    "transcript_lines": 198
+  }
+}

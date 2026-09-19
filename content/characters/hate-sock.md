@@ -4,7 +4,7 @@ type: character
 aliases:
   - The Hate Sock
   - Hatesawk
-first_seen: 2026-06-03
+first_seen: 2026-03-07
 status: recurring
 tags:
   - character
@@ -53,8 +53,10 @@ Due to his hostile reception and instant notoriety among viewers, Case and produ
 
 
 
+
 | Episode | Role | Notes |
 |---------|------|-------|
+| [[episodes/2026-03-07|2026-03-07]] | Testifies from a paper bag; engages in rap battle with Mudbutter; declares Crum guilty and offends existence. |
 | [[episodes/2026-06-03|2026-06-03]] | Dark charcoal puppet with googly eyes. Mentioned in chat during AI Rooney segment: 'hate sock loves cute animal videos new segment'. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
 | [[episodes/2026-06-22|2026-06-22]] | Mentioned in reference to 'Hate Sock for mayor' and merch potential. |

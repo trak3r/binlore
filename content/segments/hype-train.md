@@ -51,8 +51,10 @@ While officially tasked with acknowledging viewer contributions and network patr
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
+| [[episodes/2026-03-07|2026-03-07]] | 02:01:13 | Hype Train Courtroom Takeover: Hype Train interrupts the trial with an extended freestyle rap session, derailing proceedings. Crum attempts a rebuttal rap but is cut off by objection. Hype Train acknowledges a 1,000-bit donation from S.K.O.A.M.Y.R. and references an Obama appearance. |
 | [[episodes/2026-05-26|2026-05-26]] | 04:30 | Broadband Surge Interruption: A high-energy musical interruption triggered by viewer engagement spikes, featuring retro synthwave graphics and the Hype Train correspondent's energetic delivery about the 'couch' phenomenon. |
 | [[episodes/2026-05-29|2026-05-29]] | 33:27 | Milk Feet, Fish Eyes, and Guitar Cars: Hype Train launches into an extended rap about his body parts being milk, fish eyes, and a guitar car, escalating into time travel and universe rebirth themes. The segment includes a duet with Case and ends with a level 7 hype surge. |
 | [[episodes/2026-06-01|2026-06-01]] | 16:00 | Hype Train Level-Up & Fundraiser: Hype Train interrupts with synthwave graphics, a 'revolutionary war' beat, and a 'Blackwell Jan 6 fund' promotion featuring 'massive bunny breasts' and 'lactating gold coins.' |

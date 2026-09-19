@@ -5,7 +5,7 @@ aliases:
   - Ralph Munchcut
   - Munchcut
   - Munch
-first_seen: 2026-05-26
+first_seen: 2025-06-17
 tags:
   - character
   - debate
@@ -39,8 +39,12 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 
 
 
+
+
 | Episode | Notes |
 |---------|-------|
+| [[episodes/2025-06-17|2025-06-17]] | Senior Debate Analyst. |
+| [[episodes/2026-03-07|2026-03-07]] | Appears in wizard attire as immortal skeleton; confirms he is a warlock; missed the trial but compares it to ancient druidic proceedings. |
 | [[episodes/2026-05-26|2026-05-26]] | Senior debate analyst known for his disheveled silver hair and combative political style. Engages in heated exchanges with Crum and frequently references his 'Dick Punch' wager storyline. |
 | [[episodes/2026-06-05|2026-06-05]] | Senior debate analyst with distinctive disheveled appearance and confrontational debate style. |
 | [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (disheveled silver hair). Defends reality-TV politicians, endorses Gooters, mocks Crum's hairline. |
@@ -60,6 +64,7 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 | [[episodes/2026-09-07|2026-09-07]] | Oversees the long-delayed Rock-afire Gorilla execution against Crum. Caught in the catastrophic backblast when the machine explodes, incinerating him into a living, talking skeleton. Insists his skeletal form highlights superior bone structure, debates Crum on Crayola vs. RoseArt, and promises to haunt the desk indefinitely. |
 
 ## Notable moments
+
 
 
 
@@ -94,3 +99,4 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 - **[1:15:02]** ([[episodes/2026-09-02|2026-09-02]]): Reads community-supplied 'reasons you deserve to get your dick punched' list: you're bald, you're a bitch, it will make Munch envious he's not getting the same treatment (joke from 'Yojimbo'), hand game overhyped.
 - **[1:21:58]** ([[episodes/2026-09-02|2026-09-02]]): This episode's intended prompt was Christian vs Kendall, but was overtaken by the Crum-penis-punch thread; chat vote ended in a 'pretty big margin' win for Christian.
 - **[01:52:38]** ([[episodes/2026-09-07|2026-09-07]]): Transformed into a talking skeleton after catching the fiery backblast of the Rock-afire Gorilla stunt. Claims to have superior bone structure and to be liberated from mortal race boundaries.
+- **[01:11:15]** ([[episodes/2025-06-17|2025-06-17]]): Munch freezes completely motionless after Crum's death, described as 'glitched reality' and 'hibernating because his central purpose has been fulfilled'.

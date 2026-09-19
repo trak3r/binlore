@@ -3,7 +3,7 @@ title: Case Blackwell
 type: character
 aliases:
   - Case
-first_seen: 2026-06-03
+first_seen: 2026-03-07
 tags:
   - character
   - host

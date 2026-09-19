@@ -256,8 +256,124 @@ def _is_not_found_error(exc: BaseException) -> bool:
     return "404" in msg or "not found" in msg or "not_found" in msg or "no endpoints" in msg
 
 
+def _parse_lore_note_string(raw: str) -> dict[str, Any] | None:
+    """Coerce free-form lore strings into {timestamp, entity, fact}."""
+    text = " ".join(str(raw).split()).strip()
+    if not text:
+        return None
+    ts = ""
+    m = re.match(r"^\[([^\]]+)\]\s*(.*)$", text)
+    if m:
+        ts = m.group(1).strip()
+        text = m.group(2).strip()
+    entity = ""
+    # "Crum's blanket..." / "Pepito claims..." / "Dr. Chath is..."
+    ent_m = re.match(
+        r"^(Dr\.?\s+Chath|Peter Gibbon|Case Blackwell|Grandma Crumble Bottom|"
+        r"Hype Train|AI Rooney|Trip Bradstein|Jeff Ripple|Jeb Nogget|"
+        r"Crum|Munch|Pepito|Chet|Kendelle|Liliana|Rick|Steak|Tommy Biglaw|"
+        r"Brandon|CryptoZeu\$?)\b[\s's]*",
+        text,
+        re.I,
+    )
+    if ent_m:
+        entity = ent_m.group(1).strip()
+    return {"timestamp": ts, "entity": entity, "fact": text, "confidence": 0.7}
+
+
+def normalize_extraction(data: dict[str, Any]) -> dict[str, Any]:
+    """
+    Coerce provider-specific JSON drift into the binlore schema.
+    Free models often emit lore_notes as strings and storyline.name instead of storyline.
+    """
+    # segments: keep dicts only
+    segs: list[dict[str, Any]] = []
+    for item in data.get("segments") or []:
+        if isinstance(item, dict) and (item.get("title") or item.get("canonical_segment")):
+            segs.append(item)
+    data["segments"] = segs
+
+    # characters: require name; default speaking=True when role/notes present
+    chars: list[dict[str, Any]] = []
+    for item in data.get("characters") or []:
+        if not isinstance(item, dict):
+            continue
+        name = str(item.get("canonical_name") or item.get("name") or "").strip()
+        if not name:
+            continue
+        notes = str(item.get("notes") or "")
+        role = str(item.get("role") or "").strip()
+        if role and role.lower() not in notes.lower():
+            notes = f"{role}. {notes}".strip() if notes else role
+        speaking = item.get("speaking")
+        if not isinstance(speaking, bool):
+            speaking = True
+        chars.append(
+            {
+                **item,
+                "name": name,
+                "canonical_name": str(item.get("canonical_name") or name),
+                "speaking": speaking,
+                "notes": notes,
+                "timestamps": item.get("timestamps") if isinstance(item.get("timestamps"), list) else [],
+                "confidence": float(item.get("confidence") or 0.8),
+            }
+        )
+    data["characters"] = chars
+
+    # storylines: accept name as alias for storyline
+    stories: list[dict[str, Any]] = []
+    for item in data.get("storylines") or []:
+        if isinstance(item, str):
+            text = item.strip()
+            if text:
+                stories.append({"storyline": text, "beat": text, "timestamp": ""})
+            continue
+        if not isinstance(item, dict):
+            continue
+        st_name = str(item.get("storyline") or item.get("name") or "").strip()
+        beat = str(item.get("beat") or item.get("summary") or "").strip()
+        if not st_name or not beat:
+            continue
+        ts = str(item.get("timestamp") or "")
+        # Prefer timestamp embedded in beat like [01:06:24] or [2025-06-17]
+        if not ts:
+            tm = re.search(r"\[(\d{1,2}:\d{2}(?::\d{2})?)\]", beat)
+            if tm:
+                ts = tm.group(1)
+        stories.append({"storyline": st_name, "beat": beat, "timestamp": ts})
+    data["storylines"] = stories
+
+    # lore_notes: accept strings or dicts
+    notes: list[dict[str, Any]] = []
+    for item in data.get("lore_notes") or []:
+        if isinstance(item, str):
+            parsed = _parse_lore_note_string(item)
+            if parsed:
+                notes.append(parsed)
+            continue
+        if not isinstance(item, dict):
+            continue
+        fact = str(item.get("fact") or item.get("note") or item.get("text") or "").strip()
+        if not fact and item.get("entity"):
+            # sometimes models put the whole line in entity
+            fact = str(item.get("entity") or "").strip()
+        if not fact:
+            continue
+        notes.append(
+            {
+                "entity": str(item.get("entity") or item.get("character") or "").strip(),
+                "fact": fact,
+                "timestamp": str(item.get("timestamp") or item.get("time") or "").strip(),
+                "confidence": float(item.get("confidence") or 0.7),
+            }
+        )
+    data["lore_notes"] = notes
+    return data
+
+
 def validate_extraction(data: dict[str, Any]) -> dict[str, Any]:
-    """Fail closed: require the core schema, drop external news subjects."""
+    """Fail closed: require the core schema, normalize drift, drop external news subjects."""
     if not isinstance(data, dict):
         raise ValueError("Extraction is not a JSON object")
 
@@ -272,6 +388,8 @@ def validate_extraction(data: dict[str, Any]) -> dict[str, Any]:
             continue
         if not isinstance(value, list):
             raise ValueError(f"extraction.{key} must be a list")
+
+    data = normalize_extraction(data)
 
     cleaned_chars: list[dict[str, Any]] = []
     for char in data.get("characters", []):

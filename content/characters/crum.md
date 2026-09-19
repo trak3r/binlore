@@ -7,7 +7,7 @@ aliases:
   - Leonard Crumb
   - Leonard Crumfuscious
   - Crumfuscious
-first_seen: 2026-05-26
+first_seen: 2025-06-17
 tags:
   - character
   - debate
@@ -51,8 +51,12 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 
 
 
+
+
 | Episode | Notes |
 |---------|-------|
+| [[episodes/2025-06-17|2025-06-17]] | Senior Debate Analyst. |
+| [[episodes/2026-03-07|2026-03-07]] | Stands trial for peen.ui IP infringement; reveals he co-founded peen.ui, has a 'nasty pig room,' and suffers from labia growing on his… |
 | [[episodes/2026-05-26|2026-05-26]] | Senior debate analyst characterized by hollow eyes and perpetual gambling debts. Serves as Munch's primary ideological counterpoint in the Munch & Crum debate segment. |
 | [[episodes/2026-06-05|2026-06-05]] | Senior debate analyst serving as Munch's primary political counterweight, known for gambling debts and blunt rhetoric. |
 | [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (hollow-eyed, bald). Argues for political decorum, reveals Dubai 'classified' social life, honey-bag therapy, claims penile conditioning for gorilla dick-punch. |
@@ -77,6 +81,7 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 | [[episodes/2026-09-07|2026-09-07]] | Steps up to face the long-delayed Rock-afire Gorilla execution during the Season 3 finale. Reveals his physical conditioning included swinging 45-pound logs into his groin. Survives a catastrophic mechanical explosion that destroys the gorilla and burns Munch into a talking skeleton, claiming ultimate victory. |
 
 ## Notable moments
+
 
 
 
@@ -149,3 +154,5 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 - **[16:17]** ([[episodes/2026-09-04|2026-09-04]]): Crum's verbal tics include archaic 'japs' (claiming it's an old-timey word for 'fun mischief' akin to 'getting a cream soda at the doodle shop') and immediate interest in any situation involving his body. He is the scheduled victim of the robotic gorilla crotch-punch on Monday.
 - **[24:24]** ([[episodes/2026-09-04|2026-09-04]]): Peter + Crum fusion is officially named 'Scrotum' after rejecting 'Scummer,' 'Skeeter,' 'Scrutter,' 'Scretem,' and 'Screamer.' Crum's voice reportedly 'deeper and super echoey' from the low-rent mystic — establishes the merger has slightly altered vocal timbre.
 - **[01:39:45]** ([[episodes/2026-09-07|2026-09-07]]): Trained his groin against blunt force trauma by swinging 45-pound weighted logs into his crotch; accused by Munch of wearing metal underwear during the gorilla stunt.
+- **[01:00:39]** ([[episodes/2025-06-17|2025-06-17]]): Crum's cherished blanket is named 'nummie' (spelled N-U-M-M-I-E).
+- **[01:02:20]** ([[episodes/2025-06-17|2025-06-17]]): Crum's wife is named Belilia; she is active on Instagram and responds to DMs.

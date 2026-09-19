@@ -724,6 +724,9 @@ def update_wiki_from_extraction(
             pass
 
     extraction: dict[str, Any] = json.loads(ext_path.read_text(encoding="utf-8"))
+    from .extract import validate_extraction
+
+    extraction = validate_extraction(extraction)
     ep_slug = meta.get("date") or f"vod-{vod_id}"
 
     canon = load_wiki_canon()

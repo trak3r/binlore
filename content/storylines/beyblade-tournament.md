@@ -34,8 +34,10 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 ## Timeline & Broadcast Log
 
 
+
 | Date / Episode | Beat |
 |----------------|------|
+| [[../episodes/2025-06-17|2025-06-17]] | [2025-06-17] Referenced as pending community-pledge event; no progress shown this episode. |
 | [[../episodes/2026-07-17|2026-07-17]] [01:47:23] | No direct development; tournament remains pending. (Blackwell joked 'I'll do the conspiracy segment one of these days I swear to god but it won't be today'.) |
 | [[../episodes/2026-07-20|2026-07-20]] [01:05:51] | [[../characters/abraham-lincoln|Abraham Lincoln]] confronts Case Blackwell on air over the unpaid community Beyblade debt. Case formally commits to a 2v2 Beyblade Burst event for Crum and announces he has ordered custom Bart Simpson tattoos ('Barts'). |
 | [[../episodes/2026-07-24|2026-07-24]] [08:47] | Production update by [[../characters/pepito|Pepito]] and Case confirms the Beyblades stream is stalled among backlogged subscriber goals, delayed Bart orders, and Case's swollen ankle mobility issues. |
