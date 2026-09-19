@@ -14,7 +14,7 @@ Most “AI demos” stop at a chat transcript. BIN Lore is an end-to-end product
 
 - **VOD ingest** — `yt-dlp` audio-only download from Twitch, with automatic YouTube-archive fallback when Twitch retention expires
 - **Local transcription** — `faster-whisper` timestamped transcripts (no cloud STT required)
-- **Canon-aware extraction** — OpenRouter (capable models only) prompts seeded with existing characters / segments / storylines so ASR name errors reconcile to wiki canon
+- **Canon-aware extraction** — LLM prompts seeded with existing characters / segments / storylines so ASR name errors reconcile to wiki canon
 - **Idempotent wiki updates** — episode rundowns, character appearance tables, storyline beats, segment occurrence logs
 - **Screencap CDN** — ffmpeg frame capture hosted on a permanent GitHub Release asset CDN (repo stays binary-light)
 - **Unattended batch** — `binlore process-all` with disk hygiene, retries, Quartz build gates, and per-episode git commits
@@ -32,7 +32,7 @@ Twitch / YouTube VOD
           │
           ▼
 ┌───────────────────┐
-│  binlore extract  │  OpenRouter → structured lore JSON
+│  binlore extract  │  LLM analysis → structured lore JSON
 └─────────┬─────────┘
           │
           ▼
@@ -73,7 +73,7 @@ Unattended backlog (370+ historical streams). Default is transcribe-only:
 ```bash
 ./binlore process-all --status
 ./binlore transcribe-all           # ingest + Whisper; no LLM
-./binlore process-all --extract    # mine existing transcripts oldest-first via OpenRouter
+./binlore process-all --extract    # mine existing transcripts oldest-first via LLM
 ```
 
 > **Legal Disclaimer:** Unofficial, non-commercial fan wiki and documentation project. Not affiliated with, endorsed by, or sponsored by Case Blackwell, Barely Informed News, or Twitch. All character names, likenesses, trademarks, and media assets belong to their respective copyright holders and are referenced under fair use (17 U.S.C. § 107) for commentary, criticism, and archival purposes. Not operated for profit. See [`content/disclaimer.md`](content/disclaimer.md) for full legal disclosures.
