@@ -149,3 +149,50 @@ a.internal {
     border-color: var(--secondary);
   }
 }
+
+// Recent changes — compact sidebar list (avoid h3 blowout + footer overlap)
+.sidebar .recent-notes {
+  flex: 0 1 auto;
+  min-height: 0;
+  max-height: min(36vh, 22rem);
+  overflow-y: auto;
+  padding-bottom: 0.5rem;
+  border-top: 1px solid var(--lightgray);
+  margin-top: 0.25rem;
+
+  & > h3 {
+    margin: 0.75rem 0 0.25rem;
+    font-size: 0.8rem;
+    letter-spacing: 0.04em;
+  }
+
+  & > ul.recent-ul {
+    margin: 0.35rem 0 0;
+    padding: 0;
+
+    & > li {
+      margin: 0.3rem 0;
+
+      .section > .desc > h3 {
+        margin: 0;
+        font-size: 0.88rem;
+        font-weight: 600;
+        text-transform: none;
+        letter-spacing: 0;
+        line-height: 1.25;
+      }
+
+      .section > .meta {
+        margin: 0.05rem 0 0;
+        font-size: 0.72rem;
+        line-height: 1.2;
+      }
+    }
+  }
+}
+
+// Keep sticky sidebars from painting over the footer when their content is tall
+.page > .sidebar {
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}

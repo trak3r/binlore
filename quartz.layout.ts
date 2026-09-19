@@ -1,6 +1,22 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+/** Compact recently-modified list for post-update review (git dates via CreatedModifiedDate). */
+const recentChanges = Component.DesktopOnly(
+  Component.RecentNotes({
+    title: "Recent changes",
+    limit: 8,
+    showTags: false,
+    filter: (f) => {
+      const slug = f.slug ?? ""
+      if (!slug || slug === "index") return false
+      if (slug.startsWith("tags/")) return false
+      if (slug.endsWith("/index")) return false
+      return true
+    },
+  }),
+)
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -41,6 +57,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
+    recentChanges,
   ],
   right: [
     Component.Graph(),
@@ -65,6 +82,7 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
+    recentChanges,
   ],
   right: [],
 }
