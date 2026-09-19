@@ -45,11 +45,11 @@ Transcription does not need a key. Extraction uses OpenRouter with a **capable m
    ```bash
    OPENROUTER_API_KEY=your-key-here
    ```
-3. *(Optional)* Pin a capable model (default: `anthropic/claude-sonnet-4.6`):
+3. *(Optional)* Pin a capable model (default free: `nvidia/nemotron-3-ultra-550b-a55b:free`):
    ```bash
-   OPENROUTER_MODEL=anthropic/claude-sonnet-4.6
-   # OPENROUTER_MODEL=anthropic/claude-sonnet-5
-   # OPENROUTER_MODEL=openai/gpt-4.1
+   OPENROUTER_MODEL=nvidia/nemotron-3-ultra-550b-a55b:free
+   # OPENROUTER_MODEL=nvidia/nemotron-3-super-120b-a12b:free
+   # OPENROUTER_MODEL=deepseek/deepseek-v4-flash-0731:free
    ```
 
 #### Hugging Face Token (Optional, Recommended for Remote Servers)
@@ -122,7 +122,7 @@ binlore extract --latest
 # Extract for a specific VOD ID
 binlore extract 2863722826
 
-binlore extract --latest --model anthropic/claude-sonnet-4.6
+binlore extract --latest --model nvidia/nemotron-3-ultra-550b-a55b:free
 ```
 
 ### 4. Propagate lore into the wiki (`binlore update-wiki`)

@@ -180,11 +180,12 @@ Lore extraction uses [OpenRouter](https://openrouter.ai/) (not Google AI Studio)
    ```bash
    OPENROUTER_API_KEY="your-openrouter-api-key-here"
    ```
-3. *(Optional)* Pin a capable model. Default is `anthropic/claude-sonnet-4.6`:
+3. *(Optional)* Pin a capable model. Default is the OpenRouter free **Nemotron 3 Ultra** (no purchased credits required):
    ```bash
-   OPENROUTER_MODEL="anthropic/claude-sonnet-4.6"
-   # OPENROUTER_MODEL="anthropic/claude-sonnet-5"
-   # OPENROUTER_MODEL="openai/gpt-4.1"
+   OPENROUTER_MODEL="nvidia/nemotron-3-ultra-550b-a55b:free"
+   # OPENROUTER_MODEL="nvidia/nemotron-3-super-120b-a12b:free"
+   # OPENROUTER_MODEL="deepseek/deepseek-v4-flash-0731:free"
+   # Paid: OPENROUTER_MODEL="anthropic/claude-sonnet-4.6"
    ```
 
 #### Hugging Face Token (Optional, Recommended for Cloud Servers)
@@ -261,7 +262,7 @@ Run the LLM extraction pipeline over the transcript:
 ./binlore extract --latest
 
 # Or specify a capable model explicitly
-./binlore extract --latest --model anthropic/claude-sonnet-4.6
+./binlore extract --latest --model nvidia/nemotron-3-ultra-550b-a55b:free
 ./binlore extract 2863722826 --timeout 180
 ```
 
@@ -516,7 +517,7 @@ tail -f tools/runs/batch.log
 | `--oldest-first` | `True` | Process backlog from oldest to newest (default) |
 | `--newest-first` | `False` | Process newest unprocessed items first |
 | `--model MODEL` | `small` | `faster-whisper` model: `tiny`, `base`, `small`, `medium`, `large-v3` |
-| `--extract-model` | `anthropic/claude-sonnet-4.6` | OpenRouter model id (`--openrouter-model` is an alias) |
+| `--extract-model` | `nvidia/nemotron-3-ultra-550b-a55b:free` | OpenRouter model id (`--openrouter-model` is an alias) |
 | `--delay SECONDS` | `5.0` | Cool-down sleep in seconds between episodes |
 | `--timeout SECONDS` | `180.0` | Extraction timeout per model |
 | `--min-disk-gb GB` | `1.0` | Minimum free disk space in GB required before ingesting |

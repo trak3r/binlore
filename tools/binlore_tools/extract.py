@@ -34,11 +34,12 @@ def load_env() -> None:
 
 load_env()
 
-# Capable model only. Never auto-fallback to cheaper/weaker models — bad lore is worse than no lore.
+# Capable model only. Never auto-fallback to weaker models — bad lore is worse than no lore.
+# Default is an OpenRouter :free model so extract works without purchased credits.
 DEFAULT_MODEL = (
     os.environ.get("OPENROUTER_MODEL")
     or os.environ.get("GEMINI_MODEL")  # legacy alias
-    or "anthropic/claude-sonnet-4.6"
+    or "nvidia/nemotron-3-ultra-550b-a55b:free"
 )
 FALLBACK_MODELS: list[str] = []
 
@@ -168,8 +169,8 @@ def get_api_key() -> str:
             "  1. Get a key at https://openrouter.ai/keys\n"
             "  2. Add it to tools/.env:\n"
             "       OPENROUTER_API_KEY=...\n"
-            "  3. Optional model pin (default: anthropic/claude-sonnet-4.6):\n"
-            "       OPENROUTER_MODEL=anthropic/claude-sonnet-4.6\n"
+            "  3. Optional model pin (default free: nvidia/nemotron-3-ultra-550b-a55b:free):\n"
+            "       OPENROUTER_MODEL=nvidia/nemotron-3-ultra-550b-a55b:free\n"
             "There is no automatic fallback to weaker models.\n"
         )
     return key
