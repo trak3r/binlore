@@ -7,7 +7,7 @@ aliases:
   - Trip
   - trip
   - Bradstein
-first_seen: 2025-06-17
+first_seen: 2024-07-20
 status: field correspondent
 tags:
   - character
@@ -35,8 +35,10 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 
 
 
+
 | Episode | Notes |
 |---------|-------|
+| [[episodes/2024-07-20|2024-07-20]] | Rapid-fire street debates from park bushes, settles all via coin flip, loses majority, refuses to leave streets, interacts with bread man,… |
 | [[episodes/2025-06-17|2025-06-17]] | Field Correspondent. |
 | [[episodes/2026-06-05|2026-06-05]] | Field correspondent residing permanently in public parks, conducting 'on the street' opinion interviews. |
 | [[episodes/2026-06-19|2026-06-19]] | Field correspondent stationed in public parks conducting on-the-spot interviews with passersby. |

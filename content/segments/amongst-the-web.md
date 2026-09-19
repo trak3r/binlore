@@ -44,8 +44,10 @@ The audience-interactive viral media review desk on *Barely Informed News*.
 
 
 
+
 | Episode | Timestamp | Notes |
 |---|---|---|
+| [[episodes/2024-07-20|2024-07-20]] | 7:08:10 | Amongst the Web: National Anthem Butchery, Geometry Cheese, Dog Nature, Tall Women, RFK Ravens, 87-Year-Old TikTok: Video ratings: national anthem fail (8.1), polygon cheese slicer (9.9), ski juggling (9.38), dog catches treat (nature), tall women (unrated), RFK Jr ravens (low rated), 87-year-old sexually active TikTok (9); Peter Gibbon emerges from walls, civil, shares 'take that to the bank and smoke it' catchphrase. |
 | [[episodes/2026-05-26|2026-05-26]] | 15:30 | Viral Media Review: Field correspondent Trip Bradstein interviews park visitors in a public park, gathering 'on-the-street' opinions on viral content submitted by viewers. |
 | [[episodes/2026-05-29|2026-05-29]] | 01:34:49 | Movie Trailers & Epstein Island: Case reviews movie trailers including Dead Howling, Clayface, and Bring Me the Beauties, which transitions into a discussion about Jeffrey Epstein and cults. The segment ends with a shrimp-themed food critic debate. |
 | [[episodes/2026-06-01|2026-06-01]] | 01:02:04 | Viral Media Review & Horse Genre: Case reviews a clip of his past screaming and discusses 'horse genre' content, including a story about a horse getting a new saddle. |

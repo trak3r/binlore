@@ -5,7 +5,7 @@ aliases:
   - Grandma
   - Grammar Bom
   - Grammar Crumble Bottom
-first_seen: 2026-06-15
+first_seen: 2024-07-20
 status: recurring
 tags:
   - character
@@ -46,8 +46,10 @@ Grandma frequently drifts into reminiscences of her deceased husband. Rather tha
 
 
 
+
 | Episode | Role | Notes |
 |---------|------|-------|
+| [[episodes/2024-07-20|2024-07-20]] | Debuts in Jambalaya, reveals she voted Romney/Green Party based on smell, defends civility, survives elder abuse accusations. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
 | [[episodes/2026-07-17|2026-07-17]] | Munch declared Grandma 'the most fully formed idea' on the stream and 'a colleague and a scholar,' claiming she holds a doctorate in chemistry from Yale. |
 | [[episodes/2026-08-08|2026-08-08]] | In-studio contributor co-hosting the Amongst the Web viral clip review segment. Offers stream-of-consciousness commentary on the submitted clips. |

@@ -5,7 +5,7 @@ aliases:
   - Ralph Munchcut
   - Munchcut
   - Munch
-first_seen: 2025-06-17
+first_seen: 2024-07-20
 tags:
   - character
   - debate
@@ -41,8 +41,10 @@ Their volatile dynamic forms the backbone of the [[../storylines/crum-dick-punch
 
 
 
+
 | Episode | Notes |
 |---------|-------|
+| [[episodes/2024-07-20|2024-07-20]] | Wins wiki feet, wife verification, sweet vs salty, Alien vs Predator, carnivore diet, Spike vs Luffy, Shaggy vs Jedi Shaggy, Country… |
 | [[episodes/2025-06-17|2025-06-17]] | Senior Debate Analyst. |
 | [[episodes/2026-03-07|2026-03-07]] | Appears in wizard attire as immortal skeleton; confirms he is a warlock; missed the trial but compares it to ancient druidic proceedings. |
 | [[episodes/2026-05-26|2026-05-26]] | Senior debate analyst known for his disheveled silver hair and combative political style. Engages in heated exchanges with Crum and frequently references his 'Dick Punch' wager storyline. |

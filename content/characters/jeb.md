@@ -6,7 +6,7 @@ aliases:
   - Jeb Noggin
   - Fake Jeb
   - Skin Suit Jeb
-first_seen: 2026-06-15
+first_seen: 2024-07-20
 status: recurring
 tags:
   - character
@@ -50,8 +50,10 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 
 
 
+
 | Episode | Role | Notes |
 |---------|------|-------|
+| [[episodes/2024-07-20|2024-07-20]] | Debates Dad on better son (Dad picks Jet), learns RISA debate framework, scat-offs with Dad in wood resonance. |
 | [[episodes/2026-06-15|2026-06-15]] | Host of 'How To with Jeb', demonstrates Kool-Aid recipe. |
 | [[episodes/2026-06-22|2026-06-22]] | Mentioned in reference to 'the two Jebs' during merch brainstorming. |
 | [[episodes/2026-07-16|2026-07-16]] | Chat references Jeb's expertise in 'getting rid of unwanted' things when discussing Puffy Bear. |

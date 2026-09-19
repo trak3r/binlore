@@ -44,8 +44,10 @@ Broadcast under the title **Munch & Crum**, the segment features rotating 3D net
 
 
 
+
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
+| [[episodes/2024-07-20|2024-07-20]] | 00:04 | Eight-Hour Debate Stream Kickoff: Case Blackwell launches the eight-hour debate marathon, sets timer, fields chat questions about pre-show counting, and introduces upcoming segments including Munch & Crum, DJ Newsic, Jo Rogen Experience, Country Jamboree, and Trend at the Movies. |
 | [[episodes/2025-06-17|2025-06-17]] | 00:55:45 | Crum Dick Punch Execution: Gorilla Punch Day: The long-deferred Crum Dick Punch storyline reaches its climax as Crum faces the mechanical gorilla; after failed bargaining and emotional farewells, the gorilla delivers the fatal blow, exploding Crum's head on live broadcast. |
 | [[episodes/2026-05-26|2026-05-26]] | 06:00 | Political Debate: Munch vs. Crum: The flagship debate segment pits senior analysts Munch (Ralph Munchcut) and Crum (Leonard Crum) against each other in a heated exchange about politics, with Crum referencing his famous 'Dick Punch' wager and Munch maintaining his combative style. |
 | [[episodes/2026-05-28|2026-05-28]] | 31:16 | Political Debate: Bugs Bunny Controversy: The flagship debate segment pits Munch (Ralph Munchcut) against Crum (Leonard Crum) on the Bugs Bunny sexualization controversy, with Munch defending the cartoon character's artistic intent and Crum expressing concern about cultural implications. |

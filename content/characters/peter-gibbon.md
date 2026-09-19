@@ -4,7 +4,7 @@ type: character
 aliases:
   - Peter G.
   - Peter
-first_seen: 2025-06-17
+first_seen: 2024-07-20
 status: news stowaway
 tags:
   - character
@@ -44,8 +44,10 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 
 
 
+
 | Episode | Notes |
 |---------|-------|
+| [[episodes/2024-07-20|2024-07-20]] | Emerges from walls for Amongst the Web, rates videos civilly, shares catchphrase 'take that to the bank and smoke it', returns to walls on… |
 | [[episodes/2025-06-17|2025-06-17]] | News Stowaway. |
 | [[episodes/2026-03-07|2026-03-07]] | Referenced by Case during wrap-up as 'Jeff' in the newsroom. |
 | [[episodes/2026-05-29|2026-05-29]] | Mentioned as a stowaway causing a chaos portal incident. |

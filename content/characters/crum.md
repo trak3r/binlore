@@ -7,7 +7,7 @@ aliases:
   - Leonard Crumb
   - Leonard Crumfuscious
   - Crumfuscious
-first_seen: 2025-06-17
+first_seen: 2024-07-20
 tags:
   - character
   - debate
@@ -53,8 +53,10 @@ Together with Munch, their fierce professional rivalry drives the [[../storyline
 
 
 
+
 | Episode | Notes |
 |---------|-------|
+| [[episodes/2024-07-20|2024-07-20]] | Loses wiki feet, wins wife verification, sweet vs salty, Alien vs Predator, carnivore diet, gold vs porcelain teeth, orphan meat, spoon vs… |
 | [[episodes/2025-06-17|2025-06-17]] | Senior Debate Analyst. |
 | [[episodes/2026-03-07|2026-03-07]] | Stands trial for peen.ui IP infringement; reveals he co-founded peen.ui, has a 'nasty pig room,' and suffers from labia growing on his… |
 | [[episodes/2026-05-26|2026-05-26]] | Senior debate analyst characterized by hollow eyes and perpetual gambling debts. Serves as Munch's primary ideological counterpoint in the Munch & Crum debate segment. |
