@@ -20,8 +20,8 @@ Christian appeared in-studio during the [[episodes/2026-09-02|2026-09-02 broadca
 
 ## Appearances
 
-| Episode | Role | Notes |
-|---------|------|-------|
+| Episode | Notes |
+|---|---|
 | [[episodes/2026-09-02|2026-09-02]] | Guest Announcer | In-studio guest announcer and lab assistant; dispatched for studio dinner run; won the Christian vs. Kendelle audience debate poll. |
 
 ## Notable moments

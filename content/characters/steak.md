@@ -21,7 +21,7 @@ Guest artist collaborating on the Thump Steaks song.
 ## Appearances
 
 | Episode | Notes |
-|---------|-------|
+|---|---|
 | [[episodes/2026-05-29|2026-05-29]] | Guest artist collaborating on the Thump Steaks song. |
 
 ## Notable moments

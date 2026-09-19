@@ -35,18 +35,13 @@ Liliana was absent from *Barely Informed News* for approximately a full year bef
 
 ## Appearances
 
-
-
-
-
-
-| Episode | Role | Notes |
-|---------|------|-------|
-| [[episodes/2024-07-20|2024-07-20]] | Participates in both Jambalaya sessions, argues for buttersnitch pie and potato-as-human, dominates piss-play questions, votes for Kendall… |
-| [[episodes/2026-03-07|2026-03-07]] | Briefly appears during newsroom wrap-up; Case mentions her dedicated theme music. |
-| [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
-| [[episodes/2026-07-16|2026-07-16]] | Mentioned by chat as knowing where Stephanie is, with Case confirming she is a 'big time international power broker' currently busy. |
+| Episode | Notes |
+|---|---|
 | [[../episodes/2026-08-14|2026-08-14]] | Co-Anchor / Desk Contributor | Makes her triumphant return after a year away (`[09:55]`). Shares vacation photos, demands year-long PTO from Case, and co-anchors the News desk covering Luigi Mangione, CIA Galapagos strikes, and Mike Lindell's gubernatorial campaign. |
+| [[episodes/2026-07-16|2026-07-16]] | Mentioned by chat as knowing where Stephanie is, with Case confirming she is a 'big time international power broker' currently busy. |
+| [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
+| [[episodes/2026-03-07|2026-03-07]] | Briefly appears during newsroom wrap-up; Case mentions her dedicated theme music. |
+| [[episodes/2024-07-20|2024-07-20]] | Participates in both Jambalaya sessions, argues for buttersnitch pie and potato-as-human, dominates piss-play questions, votes for Kendall… |
 
 ## Notable Quotes
 

@@ -176,17 +176,6 @@ function createFolderNode(
         : createFileNode(currentSlug, child)
       ul.appendChild(childNode)
     }
-
-    if (childrenToRender.length > maxEpisodes) {
-      const archiveLi = document.createElement("li")
-      archiveLi.className = "explorer-archive-link"
-      const archiveA = document.createElement("a")
-      archiveA.href = resolveRelative(currentSlug, node.slug)
-      archiveA.dataset.for = node.slug
-      archiveA.innerHTML = '<span class="archive-icon">📁</span> Full Archive →'
-      archiveLi.appendChild(archiveA)
-      ul.appendChild(archiveLi)
-    }
   } else if (isCharactersFolder) {
     const maxCharacters = 10
     const childrenToRender = [...node.children]
@@ -218,17 +207,6 @@ function createFolderNode(
         ? createFolderNode(currentSlug, child, opts, characterCounts)
         : createFileNode(currentSlug, child)
       ul.appendChild(childNode)
-    }
-
-    if (childrenToRender.length > maxCharacters) {
-      const rosterLi = document.createElement("li")
-      rosterLi.className = "explorer-archive-link"
-      const rosterA = document.createElement("a")
-      rosterA.href = resolveRelative(currentSlug, node.slug)
-      rosterA.dataset.for = node.slug
-      rosterA.innerHTML = '<span class="archive-icon">👥</span> Full Roster →'
-      rosterLi.appendChild(rosterA)
-      ul.appendChild(rosterLi)
     }
   } else {
     for (const child of node.children) {

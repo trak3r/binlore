@@ -26,7 +26,7 @@ Communicating exclusively in what he termed "the language of baseball," the bewi
 ## Appearances
 
 | Episode | Notes |
-|---------|-------|
+|---|---|
 | [[episodes/2026-07-16|2026-07-16]] | Booked as Pablo Sanchez; speaks only 'baseball,' identifies everyone as baseballs, and is launched into the stratosphere. |
 
 ## Notable Moments

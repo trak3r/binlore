@@ -34,31 +34,20 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 
 ## Appearances
 
-
-
-
-
-
-
-
-
-
-
-
 | Episode | Notes |
-|---------|-------|
-| [[episodes/2024-07-20|2024-07-20]] | Emerges from walls for Amongst the Web, rates videos civilly, shares catchphrase 'take that to the bank and smoke it', returns to walls on… |
-| [[episodes/2025-06-17|2025-06-17]] | News Stowaway. |
-| [[episodes/2026-03-07|2026-03-07]] | Referenced by Case during wrap-up as 'Jeff' in the newsroom. |
-| [[episodes/2026-05-29|2026-05-29]] | Mentioned as a stowaway causing a chaos portal incident. |
-| [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of 'idiocracy' comment, not actively speaking. |
-| [[episodes/2026-06-19|2026-06-19]] | Former producer now residing in the studio walls, occasionally interrupting segments with commentary. |
-| [[episodes/2026-06-22|2026-06-22]] | Mentioned in reference to 'Leave it to Peter, starring Peter Gibbon' during merch discussion. |
-| [[episodes/2026-07-17|2026-07-17]] | News stowaway. Dr. Chath hinted he may have 'taken Stephanie to the wall'; Dr. Chath also noted Don will live in a wall for years for a bit. |
-| [[episodes/2026-07-24|2026-07-24]] | Takes over Jeff Ripple's news reading duties during the pre-show segment. Later hosts the Streets segment, fielding callers (Trippy B, Dale Huffy, and Avatar), confirms he never left the walls, references interdimensional wall portals, and spills battery acid on his way out. |
-| [[episodes/2026-08-06|2026-08-06]] | Disgraced former producer / news stowaway. Mentioned as the chat-recommended winner of a 'cream team' poll regarding who would attend the nude restaurant. |
-| [[episodes/2026-08-14|2026-08-14]] | Mentioned obliquely via the merged 'Kendelle' identity. The fused Crum/Gibbon entity announces 'I'm Kendelle now' and a breakup with 'Kate' during the final raid segment. |
+|---|---|
 | [[episodes/2026-09-04|2026-09-04]] | Crawls out of the studio walls to seize the broadcast desk: *"Looks like you couldn't keep me away forever. Back again it's Peter Gibbon."* Reads the news bulletin, plays music tracks from a controversial cult, and anchors the viral video review desk. |
+| [[episodes/2026-08-14|2026-08-14]] | Mentioned obliquely via the merged 'Kendelle' identity. The fused Crum/Gibbon entity announces 'I'm Kendelle now' and a breakup with 'Kate' during the final raid segment. |
+| [[episodes/2026-08-06|2026-08-06]] | Disgraced former producer / news stowaway. Mentioned as the chat-recommended winner of a 'cream team' poll regarding who would attend the nude restaurant. |
+| [[episodes/2026-07-24|2026-07-24]] | Takes over Jeff Ripple's news reading duties during the pre-show segment. Later hosts the Streets segment, fielding callers (Trippy B, Dale Huffy, and Avatar), confirms he never left the walls, references interdimensional wall portals, and spills battery acid on his way out. |
+| [[episodes/2026-07-17|2026-07-17]] | News stowaway. Dr. Chath hinted he may have 'taken Stephanie to the wall'; Dr. Chath also noted Don will live in a wall for years for a bit. |
+| [[episodes/2026-06-22|2026-06-22]] | Mentioned in reference to 'Leave it to Peter, starring Peter Gibbon' during merch discussion. |
+| [[episodes/2026-06-19|2026-06-19]] | Former producer now residing in the studio walls, occasionally interrupting segments with commentary. |
+| [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of 'idiocracy' comment, not actively speaking. |
+| [[episodes/2026-05-29|2026-05-29]] | Mentioned as a stowaway causing a chaos portal incident. |
+| [[episodes/2026-03-07|2026-03-07]] | Referenced by Case during wrap-up as 'Jeff' in the newsroom. |
+| [[episodes/2025-06-17|2025-06-17]] | News Stowaway. |
+| [[episodes/2024-07-20|2024-07-20]] | Emerges from walls for Amongst the Web, rates videos civilly, shares catchphrase 'take that to the bank and smoke it', returns to walls on… |
 
 ## Notable moments
 

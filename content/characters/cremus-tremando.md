@@ -26,8 +26,8 @@ Invoking *"Bielzotroth, the God of Mistriff,"* Tremando attempted to cast an anc
 
 ## Appearances
 
-| Episode | Role | Notes |
-|---------|------|-------|
+| Episode | Notes |
+|---|---|
 | [[episodes/2026-09-04|2026-09-04]] | Occult Consultant | Retained to execute a body-swap ritual on air; botches the incantation, declares "no refunds," and escapes using snake powers. |
 
 ## Notable moments

@@ -32,8 +32,6 @@ Broadcasting live directly from park shrubbery, [[../characters/trip-bradstein|T
 
 ## Known occurrences
 
-
-
 | Episode | Timestamp | Notes |
 |---|---|---|
 | [[episodes/2025-06-17|2025-06-17]] | 01:18:14 | Trip on the Street: Public Reaction to Crum's Death: Trip Bradstein interviews park visitors about Crum's demise, encountering a Crum stunt double claimant, a Wendy's drive-thru ghost, a sheriff with jurisdictional disputes, Shane Gillis, a talking skeleton, Jeffrey Epstein's ghost, a ghostbuster, a portal artist, Matt Liddell threatening Munch, the Hindenburg, and multiple Crum impostors. |

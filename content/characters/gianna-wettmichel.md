@@ -32,7 +32,7 @@ Known for her blunt commentary and skepticism of network management, Wettmichel 
 ## Appearances
 
 | Episode | Notes |
-|---------|-------|
+|---|---|
 | [[../episodes/2026-08-06|2026-08-06]] | Live desk appearance at `[18:40]`. Reintroduces herself, delivers a public advisory concerning *Danny Phantom*, critiques the network against CNN, and departs as the main news block begins. |
 
 ## Notable Quotes

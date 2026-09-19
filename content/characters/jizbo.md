@@ -25,8 +25,8 @@ The court sustains the musical interruption despite Jizbo clarifying he does not
 
 ## Appearances
 
-| Episode | Role | Notes |
-|---------|------|-------|
+| Episode | Notes |
+|---|---|
 | [[../episodes/2026-03-07|2026-03-07]] | Trial Witness | Appears at `[01:51:50]`; leads a conga rather than answering; sustained by the court. |
 
 ## Notable Quotes

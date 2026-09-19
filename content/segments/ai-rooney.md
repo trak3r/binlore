@@ -33,10 +33,6 @@ Conceived as a computational homage to CBS *60 Minutes* commentator Andy Rooney,
 
 ## Known occurrences
 
-
-
-
-
 | Episode | Timestamp | Notes |
 |---|---|---|
 | [[episodes/2026-05-29|2026-05-29]] | 01:14:51 | Retirement Rant & Nipple Milk: AI Rooney returns with a series of grievance rants about Michael J. Fox, ferrets, and garbage disposals, interspersed with references to penis cream and fish eyes. The segment ends with Rooney's final complaint about Daredevil's video game. |

@@ -29,22 +29,6 @@ The audience-interactive viral media review desk on *Barely Informed News*.
 
 ## Known occurrences
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 | Episode | Timestamp | Notes |
 |---|---|---|
 | [[episodes/2024-07-20|2024-07-20]] | 7:08:10 | Amongst the Web: National Anthem Butchery, Geometry Cheese, Dog Nature, Tall Women, RFK Ravens, 87-Year-Old TikTok: Video ratings: national anthem fail (8.1), polygon cheese slicer (9.9), ski juggling (9.38), dog catches treat (nature), tall women (unrated), RFK Jr ravens (low rated), 87-year-old sexually active TikTok (9); Peter Gibbon emerges from walls, civil, shares 'take that to the bank and smoke it' catchphrase. |

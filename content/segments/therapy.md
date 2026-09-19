@@ -32,9 +32,6 @@ While lead anchor [[../characters/case-blackwell|Case Blackwell]] is the most fr
 
 ## Known occurrences
 
-
-
-
 | Episode | Timestamp | Notes |
 |---|---|---|
 | [[episodes/2025-06-17|2025-06-17]] | 01:46:05 | Therapy Session Hijacked by Peter Gibbon & Dr. Chath: Peter Gibbon attempts to conduct therapy with Case; Dr. Chath (revealed as Case's cousin) intervenes; Peter claims to be 427 rats in a man suit; discussion of Crum replacement options and the pending wall lore; stream ends with raid announcement. |

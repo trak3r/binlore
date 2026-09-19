@@ -34,10 +34,10 @@ He is a specialty presence rather than a desk fixture: useful for sock lectures,
 ## Appearances
 
 | Episode | Notes |
-|---------|-------|
-| [[../episodes/2026-05-29|2026-05-29]] | Cold-open return; athletic sock advocacy; Case questions whether to keep checking in with him. |
-| [[../episodes/2026-06-15|2026-06-15]] | Mentioned in passing during birthday broadcast game chatter. |
+|---|---|
 | [[../episodes/2026-06-18|2026-06-18]] | Guest-hosts Amongst the Web; egg claim; Furby 10/10; exits after failed high-five. |
+| [[../episodes/2026-06-15|2026-06-15]] | Mentioned in passing during birthday broadcast game chatter. |
+| [[../episodes/2026-05-29|2026-05-29]] | Cold-open return; athletic sock advocacy; Case questions whether to keep checking in with him. |
 
 ## Notable Quotes
 

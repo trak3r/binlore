@@ -48,20 +48,14 @@ Due to his hostile reception and instant notoriety among viewers, Case and produ
 
 ## Appearances
 
-
-
-
-
-
-
-| Episode | Role | Notes |
-|---------|------|-------|
-| [[episodes/2026-03-07|2026-03-07]] | Testifies from a paper bag; engages in rap battle with Mudbutter; declares Crum guilty and offends existence. |
-| [[episodes/2026-06-03|2026-06-03]] | Dark charcoal puppet with googly eyes. Mentioned in chat during AI Rooney segment: 'hate sock loves cute animal videos new segment'. |
-| [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
-| [[episodes/2026-06-22|2026-06-22]] | Mentioned in reference to 'Hate Sock for mayor' and merch potential. |
-| [[episodes/2026-07-17|2026-07-17]] | Discussed as a potential merch item ('cheaply made hate sock puppet') requiring only googly eyes and a sock. |
+| Episode | Notes |
+|---|---|
 | [[../episodes/2026-07-20|2026-07-20]] | Town Hall Guest | Debuts behind the podium at `[01:12:14]`. Shuts down questions on public skate parks, Gooters drive-throughs, and his missing sibling with his signature two-phrase retorts. |
+| [[episodes/2026-07-17|2026-07-17]] | Discussed as a potential merch item ('cheaply made hate sock puppet') requiring only googly eyes and a sock. |
+| [[episodes/2026-06-22|2026-06-22]] | Mentioned in reference to 'Hate Sock for mayor' and merch potential. |
+| [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
+| [[episodes/2026-06-03|2026-06-03]] | Dark charcoal puppet with googly eyes. Mentioned in chat during AI Rooney segment: 'hate sock loves cute animal videos new segment'. |
+| [[episodes/2026-03-07|2026-03-07]] | Testifies from a paper bag; engages in rap battle with Mudbutter; declares Crum guilty and offends existence. |
 
 ## Notable Quotes
 

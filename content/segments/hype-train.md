@@ -29,30 +29,6 @@ While officially tasked with acknowledging viewer contributions and network patr
 
 ## Known occurrences
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2024-07-20|2024-07-20]] | 10:37 | Pre-Show Chat & Golden Kappa Hype Train: Kendall appears on couch cam; King Capitaran (golden kappa hype train persona) debuts with 'ass turns to gold' bit; early subs and bits trigger golden hype train; Case debates King Capitaran on monarchy vs democracy and best cartoon character smoking a spliff (Bugs Bunny wins). |

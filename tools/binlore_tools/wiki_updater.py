@@ -18,13 +18,17 @@ from .paths import (
 FIXTURE_CHARACTER_SLUGS = frozenset({"pepito", "case-blackwell"})
 FIXTURE_SEGMENT_SLUGS = frozenset({"news", "pre-show", "preshow", "cold-open"})
 UNKNOWN_CHARACTERS_LOG = RUNS_DIR / "unknown-characters.jsonl"
+APPEARANCES_RECENT_LIMIT = 20
 _EP_DATE_RE = re.compile(r"episodes/(\d{4}-\d{2}-\d{2})")
 _USUAL_APPEARANCE_RE = re.compile(
     r"opens? (the )?(broadcast|show|episode)|cold[- ]open|"
     r"signature (intro|greeting|line|canine)|"
     r"executive producer\.?$|lead anchor|"
     r"top-of-hour|station sign-on|production countdown|"
-    r"canine broadcast executive",
+    r"canine broadcast executive|"
+    r"anchors? the (broadcast|show|episode|news)|"
+    r"presides over|managing editor|"
+    r"\bhost\b|\banker\b",
     re.I,
 )
 
@@ -62,7 +66,8 @@ def _extract_section(body: str, heading: str) -> tuple[str, str, str]:
     Splits body into (before_section, section_content, after_section).
     heading is the exact header e.g. '## Appearances'
     """
-    pattern = rf"(^|\n)({re.escape(heading)}\s*\n)"
+    # Only allow trailing spaces/tabs on the heading line — do not let \\s* eat blank lines.
+    pattern = rf"(^|\n)({re.escape(heading)}[ \t]*\n)"
     match = re.search(pattern, body, re.MULTILINE)
     if not match:
         return body, "", ""
@@ -75,6 +80,11 @@ def _extract_section(body: str, heading: str) -> tuple[str, str, str]:
         return body[:start_pos], body[start_pos:end_pos].strip(), body[end_pos:]
     else:
         return body[:start_pos], body[start_pos:].strip(), ""
+
+
+def _splice_section(before: str, section: str, after: str) -> str:
+    """Rejoin a section without leaving blank-line runs after the heading."""
+    return f"{before.rstrip()}\n\n{section.strip()}\n\n{after.lstrip()}"
 
 
 def _append_table_row(
@@ -132,11 +142,24 @@ def _episode_date_from_row(row: str) -> str:
     match = _EP_DATE_RE.search(row)
     if match:
         return match.group(1)
-    return "9999-99-99"
+    return "0000-00-00"
 
 
-def _sort_table_rows(section_text: str) -> str:
-    """Keep header/separator; sort data rows by episode date ascending."""
+def _is_markdown_table_sep(line: str) -> bool:
+    stripped = line.strip()
+    if not (stripped.startswith("|") and stripped.endswith("|")):
+        return False
+    inner = stripped.strip("|")
+    return set(inner.replace("|", "").replace("-", "").replace(":", "").replace(" ", "")) == set()
+
+
+def _is_appearances_header_row(line: str) -> bool:
+    cells = [c.strip().lower() for c in line.strip().strip("|").split("|")]
+    return bool(cells) and cells[0] == "episode"
+
+
+def _sort_table_rows(section_text: str, *, newest_first: bool = False) -> str:
+    """Keep header/separator; sort data rows by episode date."""
     lines = section_text.splitlines()
     preamble: list[str] = []
     header: list[str] = []
@@ -149,11 +172,9 @@ def _sort_table_rows(section_text: str) -> str:
         is_row = stripped.startswith("|") and stripped.endswith("|")
         if is_row:
             saw_table = True
-            inner = stripped.strip("|")
-            is_sep = set(inner.replace("|", "").replace("-", "").replace(":", "").replace(" ", "")) == set()
             if not in_data:
                 header.append(line)
-                if is_sep:
+                if _is_markdown_table_sep(stripped):
                     in_data = True
             else:
                 data_rows.append(line)
@@ -165,8 +186,72 @@ def _sort_table_rows(section_text: str) -> str:
     if not header or not data_rows:
         return section_text
 
-    data_rows.sort(key=_episode_date_from_row)
+    data_rows.sort(key=_episode_date_from_row, reverse=newest_first)
     return "\n".join(preamble + header + data_rows + trailing)
+
+
+def _collect_appearance_rows(section_text: str) -> list[str]:
+    """All Appearances data rows (recent table + Earlier appearances archive)."""
+    rows: list[str] = []
+    seen_dates: set[str] = set()
+    for line in section_text.splitlines():
+        stripped = line.strip()
+        if not (stripped.startswith("|") and stripped.endswith("|")):
+            continue
+        if _is_markdown_table_sep(stripped) or _is_appearances_header_row(stripped):
+            continue
+        date = _episode_date_from_row(stripped)
+        if date in seen_dates:
+            continue
+        if date != "0000-00-00":
+            seen_dates.add(date)
+        rows.append(stripped)
+    return rows
+
+
+def _format_capped_appearances(
+    rows: list[str],
+    *,
+    limit: int = APPEARANCES_RECENT_LIMIT,
+) -> str:
+    """Newest-episode rows on-page; older rows under a collapsed details archive."""
+    # Newest broadcast date first (not process order).
+    ordered = sorted(rows, key=_episode_date_from_row, reverse=True)
+    deduped: list[str] = []
+    seen: set[str] = set()
+    for row in ordered:
+        date = _episode_date_from_row(row)
+        key = date if date != "0000-00-00" else row
+        if key in seen:
+            continue
+        seen.add(key)
+        deduped.append(row)
+
+    recent = deduped[:limit]
+    archive = deduped[limit:]
+    parts: list[str] = ["| Episode | Notes |", "|---|---|", *recent]
+    if archive:
+        parts.extend(
+            [
+                "",
+                "<details>",
+                f"<summary>Earlier appearances ({len(archive)})</summary>",
+                "",
+                "| Episode | Notes |",
+                "|---|---|",
+                *archive,
+                "",
+                "</details>",
+            ]
+        )
+    return "\n".join(parts)
+
+
+def _upsert_appearance_row(section_text: str, ep_slug: str, new_row: str) -> str:
+    """Insert/replace one episode row, then cap to recent + details archive."""
+    rows = [r for r in _collect_appearance_rows(section_text) if ep_slug not in r]
+    rows.append(new_row)
+    return _format_capped_appearances(rows)
 
 
 def _is_iso_date(value: str) -> bool:
@@ -191,6 +276,9 @@ def _backdate_first_seen(frontmatter: str, ep_slug: str) -> tuple[str, bool]:
 
 
 def _is_usual_fixture_appearance(slug: str, notes: str, lore_facts: list[tuple[str, str]]) -> bool:
+    # Host never gets an Appearances ledger — Notable moments only.
+    if slug == "case-blackwell":
+        return True
     if slug not in FIXTURE_CHARACTER_SLUGS:
         return False
     if lore_facts:
@@ -386,15 +474,9 @@ def update_character_file(
         ep_link = f"[[episodes/{ep_slug}|{ep_slug}]]"
         safe_notes = _short_appearance_notes(char_notes).replace("|", "/")
         new_row = f"| {ep_link} | {safe_notes} |"
-        updated_app = _append_table_row(
-            app_text,
-            new_row,
-            dedupe_key=ep_slug,
-            default_headers=("| Episode | Notes |", "|---|---|"),
-        )
-        updated_app = _sort_table_rows(updated_app)
-        if updated_app != app_text:
-            body = f"{before_app}\n{updated_app}\n{after_app}"
+        updated_app = _upsert_appearance_row(app_text, ep_slug, new_row)
+        if updated_app != app_text.strip():
+            body = _splice_section(before_app, updated_app, after_app)
             modified = True
 
     # 2. Update Notable moments
@@ -857,9 +939,16 @@ def _repair_page_tables(path: Path) -> bool:
         before, section, after = _extract_section(body, heading)
         if not section:
             continue
-        sorted_section = _sort_table_rows(section)
-        if sorted_section != section:
-            body = f"{before}\n{sorted_section}\n{after}"
+        if heading == "## Appearances":
+            rows = _collect_appearance_rows(section)
+            if not rows:
+                continue
+            sorted_section = _format_capped_appearances(rows)
+        else:
+            sorted_section = _sort_table_rows(section)
+        spliced = _splice_section(before, sorted_section, after)
+        if spliced != body:
+            body = spliced
             modified = True
 
     if modified:
@@ -868,7 +957,7 @@ def _repair_page_tables(path: Path) -> bool:
 
 
 def repair_existing_wiki_pages() -> list[str]:
-    """Date-sort appearance/occurrence/beat tables and backdate first_seen from earliest row."""
+    """Cap/sort Appearances (newest episodes first), sort other tables, backdate first_seen."""
     changed: list[str] = []
     for directory in (CONTENT_CHARACTERS, CONTENT_SEGMENTS, CONTENT_STORYLINES):
         if not directory.exists():

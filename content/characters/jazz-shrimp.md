@@ -35,7 +35,7 @@ Despite Case teasing early in the telecast that "Jazz Shrimp will be a regular c
 ## Appearances
 
 | Episode | Notes |
-|---------|-------|
+|---|---|
 | [[../episodes/2026-05-29|2026-05-29]] | Debut. Debates thirty food critics on the Amongst the Web desk; exits after defending greatness, veins, and anti-bug ontology. |
 
 ## Notable Quotes

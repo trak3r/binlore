@@ -25,8 +25,8 @@ On the stand he greets the room warmly, notes that some of his old voice has ret
 
 ## Appearances
 
-| Episode | Role | Notes |
-|---------|------|-------|
+| Episode | Notes |
+|---|---|
 | [[../episodes/2026-03-07|2026-03-07]] | Character Witness | Called at `[01:22:32]` for Crum; objects to counsel pantslessness; later referenced when Case loses track of who was on the stand. |
 
 ## Notable Quotes

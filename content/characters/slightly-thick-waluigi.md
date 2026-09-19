@@ -24,7 +24,7 @@ As Blackwell struggled to maintain journalistic order over the studio lines, the
 ## Appearances
 
 | Episode | Notes |
-|---------|-------|
+|---|---|
 | [[episodes/2026-09-01|2026-09-01]] | Live telephone interview claiming responsibility for major historical assassinations via banana peel munitions before control room staff severed the feed. |
 
 ## Notable moments

@@ -32,17 +32,6 @@ Brandon's gameplay is consistently disrupted by his mother shouting through the 
 
 ## Known occurrences
 
-
-
-
-
-
-
-
-
-
-
-
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-05-26|2026-05-26]] | 14:00 | Gaming & Digital Culture Report: Resident gaming correspondent Brandon (CryptoZeu$) conducts deep-dive playthroughs of retro games and discusses digital culture trends, including AI-generated content and cryptocurrency-related topics. |

@@ -25,32 +25,6 @@ Lead anchor [[../characters/case-blackwell|Case Blackwell]] presides over the an
 
 ## Known occurrences
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-05-26|2026-05-26]] | 00:45 | Breaking International & Domestic Coverage: Multiple news segments cover US military strikes in Iran and Israel, the ceasefire situation in the Middle East, and global conflicts including the US strikes on Bandar Abbas. The news desk delivers rapid-fire updates on geopolitical tensions. |

@@ -26,25 +26,6 @@ Broadcast under the title **Munch & Crum**, the segment features rotating 3D net
 
 ## Known occurrences
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2024-07-20|2024-07-20]] | 00:04 | Eight-Hour Debate Stream Kickoff: Case Blackwell launches the eight-hour debate marathon, sets timer, fields chat questions about pre-show counting, and introduces upcoming segments including Munch & Crum, DJ Newsic, Jo Rogen Experience, Country Jamboree, and Trend at the Movies. |

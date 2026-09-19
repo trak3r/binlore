@@ -33,18 +33,6 @@ Chet conducts deep-dive inquiries into peer-reviewed medical publications, anato
 
 ## Known occurrences
 
-
-
-
-
-
-
-
-
-
-
-
-
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-05-26|2026-05-26]] | 12:00 | Science Investigation Desk: Chief Science Correspondent Chet (Chet Manscape) leads his dual-host desk with ChetAI, conducting investigations into AI capabilities, medical research, and technology trends. The segment includes detailed lab work with Chet's microscope and AI-assisted analysis. |

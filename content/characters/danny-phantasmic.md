@@ -25,9 +25,9 @@ During his live video dispatches, Danny provides running commentary on horror ci
 ## Appearances
 
 | Episode | Notes |
-|---------|-------|
-| [[episodes/2026-08-04|2026-08-04]] | Debuts as a tiny British folk-horror analyst with oversized hands; freestyles original tracks over classic rock instrumentals. |
+|---|---|
 | [[episodes/2026-08-06|2026-08-06]] | Cultural correspondent delivering live trailer analysis and reactions to folk horror releases. |
+| [[episodes/2026-08-04|2026-08-04]] | Debuts as a tiny British folk-horror analyst with oversized hands; freestyles original tracks over classic rock instrumentals. |
 
 ## Notable Moments
 
