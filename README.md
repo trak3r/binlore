@@ -24,31 +24,31 @@ Most “AI demos” stop at a chat transcript. BIN Lore is an end-to-end product
 
 ```text
 Twitch / YouTube VOD
-        │
-        ▼
-┌───────────────────┐
-│  binlore ingest   │  audio-only download + Whisper transcript
-└─────────┬─────────┘
-          │
-          ▼
-┌───────────────────┐
-│  binlore extract  │  LLM analysis → structured lore JSON
-└─────────┬─────────┘
-          │
-          ▼
-┌───────────────────┐
-│ binlore update-wiki│  characters · segments · storylines · episodes
-└─────────┬─────────┘
-          │
-          ▼
-┌───────────────────┐
-│  Quartz preview   │  validate build locally on main
-└─────────┬─────────┘
-          │
-          ▼
-┌───────────────────┐
-│  merge → production│  express publish → GitHub Pages
-└───────────────────┘
+         │
+         ▼
+┌─────────────────────┐
+│   binlore ingest    │  audio-only download + Whisper transcript
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│   binlore extract   │  LLM analysis -> structured lore JSON
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ binlore update-wiki │  characters · segments · storylines · episodes
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│   Quartz preview    │  validate build locally on main
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ merge -> production │  express publish -> GitHub Pages
+└─────────────────────┘
 ```
 
 [![Character page](https://github.com/trak3r/binlore/releases/download/media-assets/binlore-character-page.png)](https://trak3r.github.io/binlore/characters/case-blackwell)
