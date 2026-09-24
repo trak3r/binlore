@@ -57,7 +57,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (15)</summary>
+<summary>Earlier appearances (16)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -73,6 +73,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
 | [[episodes/2024-07-20|2024-07-20]] | Loses wiki feet, wins wife verification, sweet vs salty, Alien vs Predator, carnivore diet, gold vs porcelain teeth, orphan meat, spoon vs… |
+| [[episodes/2023-12-02|2023-12-02]] | debate analyst. |
 | [[episodes/2023-11-30|2023-11-30]] | debate analyst. |
 | [[episodes/2023-11-28|2023-11-28]] | debate analyst. |
 | [[episodes/2023-11-22|2023-11-22]] | debate analyst. |
@@ -156,3 +157,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[1:25:57]** ([[episodes/2025-09-25|2025-09-25]]): Penis hairless and baby-sized for 48 hours post-resurrection; returned to normal 'big but unpleasant' [1:25:57].
 - **[1:25:13]** ([[episodes/2025-09-25|2025-09-25]]): Claims super strength: pulling doors off hinges without gym training [1:25:13].
 - **[1:36:03]** ([[episodes/2025-09-25|2025-09-25]]): Ran hell transit system while deceased [1:36:03].
+- **[[1:27:55]]** ([[episodes/2023-12-02|2023-12-02]]): Debate score catching up to Munch; Munch fears Crum surpassing him will cause 1920s businessman roof leap.

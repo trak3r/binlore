@@ -70,10 +70,8 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 
 ## Notable moments
 
-
-
-
 - **[00:40:07]** ([[episodes/2026-06-08|2026-06-08]]): Harbors intense one-sided rivalry with real-world UPI reporter Ben Hooper; audience favors Hooper's corny antics.
 - **[01:12:49]** ([[episodes/2026-05-29|2026-05-29]]): Ben Hooper is an external real-world journalist, not a character on the show, and is mentioned in news coverage.
 - **[01:42:35]** ([[episodes/2026-06-29|2026-06-29]]): Jeff Ripple is now going by 'Jam EFE' (and 'Jeff Everything') in his current 'era.' Claims to have had his 'whole genitals replaced with custom whale bone' and is dropping a new album called 'Steam Shirt No Pants.'
 - **[34:53]** ([[episodes/2026-09-01|2026-09-01]]): Jeff Ripple (transcribed by ASR as 'Ben Hooper') delivers an 'odds and ends' news segment covering the floating BC island, bat-mouth Virginia doctor, Tarzana coyote-vs-bear, and David Rush's water-balloon record. Case cheers his 'first internal segment.'
+- **[[13:57]]** ([[episodes/2023-12-02|2023-12-02]]): Has a 'hot Filipino son' ornament made by Kendelle; referenced during Young Thug coverage.

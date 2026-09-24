@@ -1,0 +1,231 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "16:45",
+      "canonical_segment": "News",
+      "title": "Opening News Desk: Young Thug Trial & Live Show Announcement",
+      "notes": "Case Blackwell opens late Friday broadcast; announces live comedy show next Wednesday 7:30 PM Pacific with Tim; Kendelle making Grinch ornaments in studio; Young Thug trial discussion begins."
+    },
+    {
+      "start": "16:45",
+      "end": "23:25",
+      "canonical_segment": "News",
+      "title": "Young Thug Trial Coverage Setup",
+      "notes": "Case searches for Young Thug trial clips; mentions bleach reference; Jeff Ripple joins; sub goal reached — messy wings eating pending."
+    },
+    {
+      "start": "23:25",
+      "end": "31:20",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Interruption (Level 6)",
+      "notes": "Hype Train commandeers broadcast for 10 minutes during sub hype train; Quad City DJs Christmas songs; thanks subscribers including Skull Meat, Skimer, Metal Chaos, Giggle Trash, Dilemma, Tam Tran, Daddy Kev."
+    },
+    {
+      "start": "31:20",
+      "end": "52:10",
+      "canonical_segment": "News",
+      "title": "Young Thug Trial Deep Dive with Jeff Ripple",
+      "notes": "Jeff Ripple returns; watches Twitter clips of trial — anime Bleach analogy used by defendant, DA burden-shifting objection sustained, prosecutor questioned on criminalizing speech; 17 lyric sets admitted as evidence; RICO implications for Trump Fulton County case discussed; slime/Nickelodeon Gack tangent."
+    },
+    {
+      "start": "52:10",
+      "end": "57:30",
+      "canonical_segment": "News",
+      "title": "Transition to Therapy & Manga Talk",
+      "notes": "Case thanks Jeff; mentions AI military use; Case reads One Piece chapter 1100; Shonen Jump subscription; transitions to Therapy segment."
+    },
+    {
+      "start": "57:30",
+      "end": "1:01:40",
+      "canonical_segment": "Therapy",
+      "title": "Therapy Session with Dr. Chath",
+      "notes": "Dr. Chath session: Harvey Dent/Two-Face, Harvey from Sabrina, Mormonism, lethal company loop, Cool Runnings as Christmas movie, Bleach as Christmas movie, bathroom windows, John Candy assassination, Kendelle (girlfriend) appears, GYAT slang, Mariah Carey Christmas song, card king 10 community sub gifts."
+    },
+    {
+      "start": "1:01:40",
+      "end": "1:19:30",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum Debate: 'Young' in Rap Names After Age 40",
+      "notes": "Debate topic from Psychor: should rappers with 'Young' in name legally change it when old (Young Bucks pushing 40)? Munch claims ancient Sumeria immortality; Crum argues cultural naming conventions; Carl Jung dragged in; Crum gains score lead; Munch forced to kneel/apologize after death remark; audience applause rhythm noted."
+    },
+    {
+      "start": "1:19:30",
+      "end": "1:26:45",
+      "canonical_segment": "News",
+      "title": "Post-Debate & Rob Elvie Check-In",
+      "notes": "Case checks on Rob Elvie per chat demand; Rob appears, claims fictional country Alvalstonia; Case bans Rob from studio; Rob's voice distorts into Rick (Amongst the Web host); Rob leaves threatening return."
+    },
+    {
+      "start": "1:26:45",
+      "end": "1:49:00",
+      "canonical_segment": "Movies",
+      "title": "Trailer Time: Fast and Feel Love with Trent",
+      "notes": "Trent at movies with Chris (parole officer/legal guardian); watches 'Fast and Feel Love' trailer (Thai Fast & Furious parody with whiplash-style drumming); audio issues; Case rushing to see Wish movie."
+    },
+    {
+      "start": "1:49:00",
+      "end": "1:52:05",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid to Dink Sauce",
+      "notes": "Trent signs off, raids Dink Sauce (chicken shit bingo in Unreal Engine); Case mentions Tuesday stream; waiters/haters joke."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored late Friday broadcast; announced live comedy show Wednesday 7:30 PM Pacific; managed Hype Train interruption and Rob Elvie banishment.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Making Grinch ornaments in studio; appeared during Therapy as Case's girlfriend; reads chat; watches Bleach.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Covered Young Thug trial clips; referenced 'hot Filipino son' ornament; debated legal strategy with Case.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "Commandeered broadcast for Level 6 hype train; performed Quad City DJs Christmas freestyles; thanked subscribers.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Chath",
+      "role": "therapist",
+      "notes": "therapist. Conducted therapy session covering Harvey Dent, Mormonism, lethal company, Cool Runnings, Bleach, bathroom windows, John Candy, Mariah Carey.",
+      "canonical_name": "Dr. Chath",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Crum on 'Young' in rap names; claimed ancient Sumeria immortality; forced to kneel/apologize after death remark; score closing on Crum.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued cultural naming conventions; referenced Carl Jung; gained score lead over Munch; mocked Munch's kneeling acid reflux.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rob Elvie",
+      "role": "guest",
+      "notes": "guest. Appeared per chat demand; claimed fictional Alvalstonia citizenship; banned by Case; voice distorted into Rick before exit.",
+      "canonical_name": "Rob Elvie",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "field correspondent",
+      "notes": "field correspondent. Hosted Trailer Time from movie theater with Chris; watched 'Fast and Feel Love' trailer; rushed Case to see Wish.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "role": "field correspondent",
+      "notes": "field correspondent. Trent's co-host at movies; identified as parole officer/legal guardian; present for trailer watch.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[31:24] Hype Train references Crum's Beyblade win ('he got smashed with the crumb wins') and Beyblade song on Munch & Crum tab.",
+      "timestamp": "31:24"
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[1:28:35] Munch & Crum debate score tightening; Crum catching up; Munch threatens building leap if surpassed — echoes Crum Punch trilogy tension.",
+      "timestamp": "1:28:35"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Live comedy show scheduled Wednesday 7:30 PM Pacific with Tim (saved in phone as 'case bitch'); 10-minute set plus other comedians; streaming on Case's channel.",
+      "timestamp": "[17:57]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Making Grinch ornaments from Universal Studios Whoville performers; ornaments for 'friendship justified by content.'",
+      "timestamp": "[11:44]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeff Ripple",
+      "fact": "Has a 'hot Filipino son' ornament made by Kendelle; referenced during Young Thug coverage.",
+      "timestamp": "[13:57]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Claims to be ancient immortal from Sumeria; crossed thousand-year threshold and dropped 'Young' from name.",
+      "timestamp": "[1:25:08]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Debate score catching up to Munch; Munch fears Crum surpassing him will cause 1920s businessman roof leap.",
+      "timestamp": "[1:27:55]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Rob Elvie",
+      "fact": "Claims citizenship of fictional 'Alvalstonia' with national anthem/war dirges; banned from studio by Case; voice shifted into Rick (Amongst the Web host) on exit.",
+      "timestamp": "[1:37:48]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trent",
+      "fact": "Movie correspondent at theater with Chris (parole officer/legal guardian); watched 'Fast and Feel Love' Thai Fast & Furious parody trailer.",
+      "timestamp": "[1:44:38]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchored a chaotic late Friday broadcast featuring Young Thug trial coverage with Jeff Ripple, a Level 6 Hype Train hijacking, a therapy session with Dr. Chath derailed by Kendelle's appearance, and a heated Munch & Crum debate on whether aging rappers must legally drop 'Young' from their names — ending with Munch forced to kneel. Rob Elvie was summoned and banned after claiming fictional Alvalstonia citizenship, his voice distorting into Rick on exit. The broadcast closed with Trent's Trailer Time at a movie theater and a raid to Dink Sauce.",
+  "_meta": {
+    "vod_id": "KYt3i33Zq8c",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 95071,
+    "approx_prompt_tokens": 23767,
+    "transcript_lines": 174
+  }
+}

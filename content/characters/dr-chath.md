@@ -5,7 +5,7 @@ aliases:
   - Doctor Chath
   - Dr. Cheth
   - Cheth
-first_seen: 2025-06-07
+first_seen: 2023-12-02
 status: minor contributor
 tags:
   - character

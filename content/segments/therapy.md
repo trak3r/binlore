@@ -34,6 +34,7 @@ While lead anchor [[../characters/case-blackwell|Case Blackwell]] is the most fr
 
 | Episode | Timestamp | Notes |
 |---|---|---|
+| [[episodes/2023-12-02|2023-12-02]] | 57:30 | Therapy Session with Dr. Chath: Dr. Chath session: Harvey Dent/Two-Face, Harvey from Sabrina, Mormonism, lethal company loop, Cool Runnings as Christmas movie, Bleach as Christmas movie, bathroom windows, John Candy assassination, Kendelle (girlfriend) appears, GYAT slang, Mariah Carey Christmas song, card king 10 community sub gifts. |
 | [[episodes/2025-06-07|2025-06-07]] | 02:25:37 | Therapy with Dr. Chath: Jay Drilla Embraces Flies and Fart Philosophy: Dr. Chath counsels Jay Drilla on fly swarms, daddy issues, and the universal truth that every historical figure has ripped an asshole-shredding fart; Jay declares a breakthrough and exits. |
 | [[episodes/2025-06-17|2025-06-17]] | 01:46:05 | Therapy Session Hijacked by Peter Gibbon & Dr. Chath: Peter Gibbon attempts to conduct therapy with Case; Dr. Chath (revealed as Case's cousin) intervenes; Peter claims to be 427 rats in a man suit; discussion of Crum replacement options and the pending wall lore; stream ends with raid announcement. |
 | [[episodes/2025-06-28|2025-06-28]] | 01:30:37 | Therapy Roulette & Coach McGurk Firing: Case cycles through fake therapists; Coach McGurk appears, argues with Munch, gets fired by Munch after defending Crum. |

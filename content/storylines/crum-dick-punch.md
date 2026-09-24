@@ -50,6 +50,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 
 | Date / Episode | Beat |
 |----------------|------|
+| [[../episodes/2023-12-02|2023-12-02]] [1:28:35] | [1:28:35] Munch & Crum debate score tightening; Crum catching up; Munch threatens building leap if surpassed — echoes Crum Punch trilogy tension. |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |

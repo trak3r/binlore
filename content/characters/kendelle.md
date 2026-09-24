@@ -54,13 +54,14 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
 | [[episodes/2024-07-20|2024-07-20]] | Appears on couch cam, sleeps through friend visit, debates smut vs no smut (concedes), wins fursona poll, declines boba after stream runs… |
-| [[episodes/2023-11-30|2023-11-30]] | in-studio contributor. |
+| [[episodes/2023-12-02|2023-12-02]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (2)</summary>
+<summary>Earlier appearances (3)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2023-11-30|2023-11-30]] | in-studio contributor. |
 | [[episodes/2023-11-28|2023-11-28]] | in-studio contributor. |
 | [[episodes/2023-11-23|2023-11-23]] | in-studio contributor. |
 
@@ -81,3 +82,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[]** ([[episodes/2025-06-07|2025-06-07]]): Kendelle's sister no longer hates Case; neighbor CIA incident resolved via Case's cordial text strategy [40:02, 43:18]
 - **[]** ([[episodes/2025-06-24|2025-06-24]]): [03:11:42] Computer repair dilemma: $150/hr in-house service needed; Case plans to take it in while she's at the office.
 - **[01:07:17]** ([[episodes/2023-11-23|2023-11-23]]): Worked at Disneyland as R2-D2 character; knows parade dances from the park. [01:07:17]
+- **[[11:44]]** ([[episodes/2023-12-02|2023-12-02]]): Making Grinch ornaments from Universal Studios Whoville performers; ornaments for 'friendship justified by content.'

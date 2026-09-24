@@ -80,3 +80,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[01:33:26]** ([[episodes/2023-11-23|2023-11-23]]): Paid $20/month for an AI dating/sexting chatbot subscription on stream; found it lame and planned to cancel. [01:33:26]
 - **[01:31:55]** ([[episodes/2023-11-23|2023-11-23]]): Participated in a sketch show where cast carried cumbersome objects: Case a giant speaker, Tim a pillow mech suit, Andy four vacuums. [01:31:55]
 - **[[10:12]]** ([[episodes/2023-11-30|2023-11-30]]): Broadcast transition system (scene transitions, fire transition) suffered a total failure at top of show, forcing 'smoke teleportation' manual cuts.
+- **[[17:57]]** ([[episodes/2023-12-02|2023-12-02]]): Live comedy show scheduled Wednesday 7:30 PM Pacific with Tim (saved in phone as 'case bitch'); 10-minute set plus other comedians; streaming on Case's channel.

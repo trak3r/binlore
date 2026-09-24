@@ -49,7 +49,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (12)</summary>
+<summary>Earlier appearances (13)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -62,6 +62,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
 | [[episodes/2024-07-20|2024-07-20]] | Wins wiki feet, wife verification, sweet vs salty, Alien vs Predator, carnivore diet, Spike vs Luffy, Shaggy vs Jedi Shaggy, Country… |
+| [[episodes/2023-12-02|2023-12-02]] | debate analyst. |
 | [[episodes/2023-11-30|2023-11-30]] | debate analyst. |
 | [[episodes/2023-11-28|2023-11-28]] | debate analyst. |
 | [[episodes/2023-11-22|2023-11-22]] | debate analyst. |
@@ -109,3 +110,4 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[01:22:43]** ([[episodes/2025-09-15|2025-09-15]]): Munch mentions Coach McGurk coaching him in hell.
 - **[01:24:32]** ([[episodes/2025-09-18|2025-09-18]]): Munch claims he defeated the devil in debate multiple times, winning soul shards and a hell key housed in his soul.
 - **[[1:57:35]]** ([[episodes/2023-11-22|2023-11-22]]): Claims 20-point lead in debate score over Crum; threatens east/west coast defection to Munchtopia if turkey becomes national bird [1:57:35].
+- **[[1:25:08]]** ([[episodes/2023-12-02|2023-12-02]]): Claims to be ancient immortal from Sumeria; crossed thousand-year threshold and dropped 'Young' from name.
