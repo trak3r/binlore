@@ -49,6 +49,7 @@ His signature broadcast mission is "singing the news"—specifically fast-tracki
 | [[episodes/2026-06-05|2026-06-05]] | Auto-tuned music host who delivers the signature closing news recap with heavy techno production. |
 | [[episodes/2025-09-21|2025-09-21]] | musical finale host. |
 | [[episodes/2024-07-20|2024-07-20]] | Debuts auto-tune voice issues, debates Country Bear on cinnamon vs hawk tuah, loses on country logic, eyes eaten mid-debate. |
+| [[episodes/2024-02-09|2024-02-09]] | musical host. |
 | [[episodes/2024-01-19|2024-01-19]] | musical correspondent. |
 | [[episodes/2024-01-05|2024-01-05]] | musical finale host. |
 | [[episodes/2023-12-31|2023-12-31]] | musical finale host. |

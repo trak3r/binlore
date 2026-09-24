@@ -1,0 +1,147 @@
+{
+  "segments": [
+    {
+      "start": "09:43",
+      "end": "15:34",
+      "canonical_segment": "News",
+      "title": "Cold Open & Stream Setup",
+      "notes": "Case Blackwell opens the Thursday stream, manages chat and subscription alerts, banishes Peter Gibbon to the walls, and prepares for the broadcast."
+    },
+    {
+      "start": "15:34",
+      "end": "33:00",
+      "canonical_segment": "News",
+      "title": "Disney Invests $1.5B in Epic Games for Persistent Universe",
+      "notes": "Jeff Ripple joins to cover Disney's equity stake in Epic Games to build a Fortnite-connected metaverse; discussion veers into Fortnite lore, IP consolidation, and layoffs at both companies."
+    },
+    {
+      "start": "33:00",
+      "end": "46:42",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Study Links Nose Size to Penile Length via Cadaver Measurement",
+      "notes": "Chet interrupts via 'science' trigger to present a Kyoto Prefectural University study measuring stretched penile length on 126 male corpses; Case and Chet bicker about anatomy, dry spells, and corpse ethics."
+    },
+    {
+      "start": "46:42",
+      "end": "1:16:04",
+      "canonical_segment": "News",
+      "title": "Orgasmic Birth, Arm Transplants, and Penis Transplants",
+      "notes": "Case reads about 'ecstatic birth' theory (0.3% incidence), then falls down a rabbit hole of vascularized composite allotransplantation — double arm transplant for Marine Brendan Marrocco and the first U.S. penis transplant (Thomas Manning, 2016)."
+    },
+    {
+      "start": "1:16:04",
+      "end": "1:31:44",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: Has Science Gone Too Far?",
+      "notes": "Munch argues science has always gone too far (fire, Romans, Terminator); Crum defends progress. Munch wins poll 70/30; scoreboard updated, jacket wager discussed, bickering escalates to sexual innuendo and timeout threats."
+    },
+    {
+      "start": "1:31:44",
+      "end": "1:51:49",
+      "canonical_segment": "DJ Newsic",
+      "title": "Rooftop Close: The Rock Slaps Cody Rhodes & Pepito Wishes on Stars",
+      "notes": "DJ Newsic covers WWE angle (Rock/Cody/Roman), Pepito ascends roof to wish on stars for chat, lasers malfunction, stream ends with raid callouts and Case's sign-off rap."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Manages sub alerts and graphics, wishes on stars from the roof at close, demands chat wishes.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Delivers Disney/Epic Games story, spars with Case over beard thickness and news coma theory, claims pure fact conduit status.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Interrupts via 'science' trigger to present cadaver nose/penis study, mocks Case's anatomy and dry spell, boasts 'realest friend' status.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues science has gone too far since fire/Romans, wins poll 70/30, updates scoreboard, wagers crew jackets on century mark.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defends scientific progress, loses poll, threatens comeback, engages in escalating sexual innuendo with Munch.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "musical host",
+      "notes": "musical host. Hosts rooftop close, covers WWE Rock/Cody angle, manages lasers, facilitates Pepito's star wishes.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Banished to walls by Case after brief appearance; smell containment discussed.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Mentions possibly streaming with a guest tomorrow and moving in on 'Kassim's territory' [13:51].",
+      "timestamp": "13:51",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Trigger word 'science' summons Chet Guy the Science Eyes desk immediately [33:00].",
+      "timestamp": "33:00",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Wins 'Has science gone too far?' poll 70/30; scoreboard updated, Munch nearing exit from teens [1:26:51].",
+      "timestamp": "1:26:51",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Performs 'wish upon a star' segment from roof with DJ Newsic, collects chat wishes [1:41:58].",
+      "timestamp": "1:41:58",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell hosts a truncated Thursday broadcast covering Disney's $1.5B Epic Games investment, a cadaver study linking nose size to penile length, and a deep dive into vascularized composite allotransplantation including arm and penis transplants. Munch and Crum debate whether science has gone too far, with Munch winning a 70/30 poll. The show closes on the roof with DJ Newsic covering WWE and Pepito wishing on stars for chat.",
+  "_meta": {
+    "vod_id": "-1KwRplR-y4",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 89911,
+    "approx_prompt_tokens": 22477,
+    "transcript_lines": 176
+  }
+}

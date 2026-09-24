@@ -49,18 +49,19 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2025-06-17|2025-06-17]] | Chief Science Correspondent. |
 | [[episodes/2025-06-07|2025-06-07]] | Chief Science Correspondent. |
 | [[episodes/2024-07-20|2024-07-20]] | Joins both [[../segments/jambalaya|Jambalaya]] sessions, argues artichoke-as-human and flaked Sheldon Adelson skin condiment, debates smut vs no smut on couch. |
+| [[episodes/2024-02-09|2024-02-09]] | science correspondent. |
 | [[episodes/2024-02-01|2024-02-01]] | science correspondent. |
 | [[episodes/2024-01-27|2024-01-27]] | science correspondent. |
 | [[episodes/2024-01-19|2024-01-19]] | science correspondent. |
 | [[episodes/2024-01-13|2024-01-13]] | science correspondent. |
 | [[episodes/2023-12-31|2023-12-31]] | science correspondent. |
-| [[episodes/2023-12-18|2023-12-18]] | science correspondent. |
 
 <details>
-<summary>Earlier appearances (4)</summary>
+<summary>Earlier appearances (5)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2023-12-18|2023-12-18]] | science correspondent. |
 | [[episodes/2023-12-12|2023-12-12]] | science correspondent. |
 | [[episodes/2023-12-08|2023-12-08]] | science correspondent. |
 | [[episodes/2023-11-30|2023-11-30]] | science correspondent. |
@@ -93,3 +94,4 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 - **[]** ([[episodes/2024-01-13|2024-01-13]]): Repeatedly tells Case 'I fucking love movies' and serves as Trent's parole officer [1:22:51, 1:35:30].
 - **[[53:31]]** ([[episodes/2024-02-01|2024-02-01]]): Uses a 'spelunking rod' kept in shower to clean anal cavity, hoses it down with alcohol afterward.
 - **[[49:51]]** ([[episodes/2024-02-01|2024-02-01]]): Father is a 'Texas big shot' with catchphrase 'what are we, Alcada?'
+- **[33:00]** ([[episodes/2024-02-09|2024-02-09]]): Trigger word 'science' summons Chet Guy the Science Eyes desk immediately [33:00].

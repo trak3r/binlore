@@ -61,7 +61,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (23)</summary>
+<summary>Earlier appearances (24)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -72,6 +72,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
 | [[episodes/2025-06-02|2025-06-02]] | executive producer. |
+| [[episodes/2024-02-09|2024-02-09]] | executive producer. |
 | [[episodes/2024-02-02|2024-02-02]] | executive producer. |
 | [[episodes/2024-02-01|2024-02-01]] | executive producer. |
 | [[episodes/2024-01-27|2024-01-27]] | executive producer. |
@@ -141,3 +142,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[00:21:42]** ([[episodes/2024-01-05|2024-01-05]]): [00:21:42] Case refers to Pepito as 'Pappito' during Goku Bracken emergency cut.
 - **[05:51]** ([[episodes/2024-01-12|2024-01-12]]): Uses snap camera filter to appear as a dog in Lethal Company; purchases a boombox with in-game credits and freestyles until timeout. [05:51]
 - **[[49:24]]** ([[episodes/2024-01-19|2024-01-19]]): Plays Lethal Company as a dog mod named 'Papito' with unique sprint-and-rap survival meta; claims dog vision is black-and-white [49:24].
+- **[1:41:58]** ([[episodes/2024-02-09|2024-02-09]]): Performs 'wish upon a star' segment from roof with DJ Newsic, collects chat wishes [1:41:58].
