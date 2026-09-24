@@ -1,0 +1,94 @@
+{
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:13:43",
+      "canonical_segment": "News",
+      "title": "Pre-Show Setup & Mod Configuration",
+      "notes": "Case configures Lethal Company mods (BiggerLobby, BepInEx, Goku Bracken) and coordinates invites for a 16-player lobby while troubleshooting audio bleed with Kendelle in the same room."
+    },
+    {
+      "start": "00:13:43",
+      "end": "01:30:00",
+      "canonical_segment": "News",
+      "title": "Early Expeditions: Experimentation & Offense",
+      "notes": "Crew learns modded mechanics — sonic thumper audio glitch, Goku Bracken ultra-instinct music — suffers multiple wipes on Experimentation, then moves to Offense for first successful quota runs."
+    },
+    {
+      "start": "01:30:00",
+      "end": "02:30:00",
+      "canonical_segment": "News",
+      "title": "Dine & Titan Rotations, Crew Expansion",
+      "notes": "Roster grows to 13+ players (Fancy, Foxy, Radium, John, Amir, Tim, Kyle); crew tackles Dine fire exits, Titan stormy conditions, and door-muncher mimics while managing ladder economy and turret gauntlets."
+    },
+    {
+      "start": "02:30:00",
+      "end": "03:30:00",
+      "canonical_segment": "News",
+      "title": "High-Stakes Loot Runs & Near-Total Wipes",
+      "notes": "Multiple jack-in-the-box and nutcracker ambushes decimate crew; Case micromanages teleporter purchases, shovel distribution, and body recovery while quota surpasses 1,000 credits."
+    },
+    {
+      "start": "03:30:00",
+      "end": "04:29:00",
+      "canonical_segment": "News",
+      "title": "Final Quota Push & Giant Encounters",
+      "notes": "Last day on Titan: crew navigates eclipse dogs, spring-heads, and earth leviathans; Fancy distinguishes himself as primary combatant; Case secures final loot haul before sign-off."
+    },
+    {
+      "start": "04:29:00",
+      "end": "04:36:59",
+      "canonical_segment": "News",
+      "title": "Live Proposal, Raid Farewell & Sign-Off",
+      "notes": "Case proposes to Kendelle on air at 04:28:59; she accepts. Case raids Fiona's channel, announces Cream Team podcast for tomorrow noon, confirms standard news return Wednesday."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "notes": "Anchored a four-hour Lethal Company marathon and proposed to Kendelle on live broadcast.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "notes": "Co-piloted the Lethal Company expedition from the studio floor and accepted Case's on-air marriage proposal.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "timestamp": "04:28:59",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell proposes to Kendelle on live broadcast; she accepts.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "04:35:27",
+      "entity": "",
+      "fact": "Case announces Cream Team podcast with Fiona scheduled for tomorrow noon.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "04:36:59",
+      "entity": "",
+      "fact": "Case confirms return to standard news broadcast Wednesday.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Anchor Case Blackwell hosted an extended Lethal Company marathon with a rotating crew of correspondents and contributors, culminating in a live on-air marriage proposal to in-studio contributor Kendelle. The broadcast featured multiple high-casualty expeditions to moons including Experimentation, Offense, Dine, and Titan, with the crew securing substantial quota surpluses despite repeated wipes. Blackwell closed the broadcast confirming a Cream Team podcast for the following day and a return to standard news programming Wednesday.",
+  "_meta": {
+    "vod_id": "-PJ3hpUKf-g",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 143642,
+    "approx_prompt_tokens": 35910,
+    "transcript_lines": 418
+  }
+}
