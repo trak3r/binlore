@@ -1,46 +1,57 @@
 {
   "segments": [
     {
-      "start": "10:12",
-      "end": "39:18",
+      "start": "00:10:12",
+      "end": "00:30:15",
       "canonical_segment": "News",
-      "title": "Kissinger Obituary and Liliana's Power Daddy Eulogy",
-      "notes": "Case Blackwell opens with technical difficulties (missing transitions) before welcoming Liliana to discuss Henry Kissinger's death at 100; Liliana delivers a sexually charged, satirical tribute framing Kissinger as a 'power daddy' while reading The Intercept's investigation into his war crimes."
+      "title": "Kissinger Obituary with Liliana",
+      "notes": "Case opens without transitions; Liliana delivers a sexually charged eulogy for Henry Kissinger, praising his 'power daddy' energy while reading The Intercept's war-crimes tally; Case cuts her off after she fantasizes about 'sexy hell.'"
     },
     {
-      "start": "39:18",
-      "end": "59:02",
+      "start": "00:30:15",
+      "end": "00:39:18",
+      "canonical_segment": "News",
+      "title": "Tech Issues & Randy Orton Diversion",
+      "notes": "Case troubleshoots missing scene transitions, shows Randy Orton's physique, reads top underwriters and new subs, confirms Lethal Company session with Fiona later."
+    },
+    {
+      "start": "00:39:18",
+      "end": "00:59:02",
       "canonical_segment": "Chet Guy the Science Eyes",
-      "title": "Masturbation World Record Attempt and the Scottish System",
-      "notes": "Chet Manscape commandeers the broadcast to analyze Drake Hardy's claimed 10-hour-10-minute masturbation record, detailing mood-lighting protocols, partial-tumescence strategy, and an invented 'Scottish system' of competitive self-pleasure measurement."
+      "title": "Masturbation World Record Deep-Dive",
+      "notes": "Chet interrupts to analyze Drake Hardy's 10-hour-10-minute claim, details 'mood music, mood lighting, partial tumescence' method, debates ref requirements and 'gooning' vs. raw endurance, signs off with a freestyle 'never quit jerking' chant."
     },
     {
-      "start": "59:51",
-      "end": "1:21:36",
-      "canonical_segment": "Trent at the Movies",
-      "title": "Obliterated Trailer, Pokemon Horizons, and TM Robot Thriller",
-      "notes": "Trent reviews the Netflix film Obliterated (dismissing critical pans), watches the Pokemon Horizons trailer, and reacts to a TM-starring robot-assistant thriller trailer while complaining about missing fire transitions."
+      "start": "00:59:25",
+      "end": "01:21:08",
+      "canonical_segment": "News",
+      "title": "Trent at the Movies: Trailer Thursday",
+      "notes": "Trent hosts without his contractual fire transition; reviews Obliterated (Netflix), Pokemon Horizons, and TM robot-thriller trailer; debates review fairness with Case; multistream audio issues persist."
     },
     {
-      "start": "1:21:36",
-      "end": "1:32:27",
+      "start": "01:21:36",
+      "end": "01:32:27",
       "canonical_segment": "Munch & Crum",
-      "title": "Kelce Brothers Debate Ends in 50/50 Poll Tie",
-      "notes": "Munch and Crum debate Travis vs. Jason Kelce; a rushed multi-stream poll finishes 50/50 before either can argue, prompting accusations of a 'miscarriage of something' and a chaotic sign-off as Case departs for gameplay."
+      "title": "Kelce Brothers Debate (Poll Glitched)",
+      "notes": "Munch and Crum debate Travis vs. Jason Kelce; multistream poll desync yields a 50-50 deadlock; Crum argues for Jason's traditional values, Munch for Travis's Swift-fueled fame; segment ends in 'crumb believable' banter."
     },
     {
-      "start": "1:32:47",
-      "end": "3:18:03",
-      "canonical_segment": "Gaming",
-      "title": "Lethal Company Session with Fiona, Malco, Exterminator, and Kendelle",
-      "notes": "Case Blackwell joins Fiona and crew for an extended Lethal Company run across multiple moons (Assurance, Offense, Val), featuring quicksand deaths, turret ambushes, a giant forest keeper, and a final quota scrape after a catastrophic orbital strike wipes the squad."
+      "start": "01:32:47",
+      "end": "03:17:53",
+      "canonical_segment": "News",
+      "title": "Lethal Company with Fi, Malco, Exterminator & Kendelle",
+      "notes": "Extended gameplay session: crew cycles through moons (Assurance, Offense, Val), battles bunker spiders, eyeless dogs, forest giants, turrets, quicksand; buys inverse teleporter, apparatus, air horn, pro flashlights; meets 239 quota after multiple wipes; ends with raid to Ricky Peacock."
     }
   ],
   "characters": [
     {
       "name": "Case Blackwell",
       "role": "anchor",
-      "notes": "Anchored the broadcast, managed technical failures, and hosted a multi-hour Lethal Company session with Fiona's crew.",
+      "aliases": [
+        "Case"
+      ],
+      "notes": "Anchored the transition-less broadcast, hosted Kissinger obituary, Chet segment, trailer review, Munch & Crum debate, and Lethal Company gameplay with Fiona's crew.",
+      "lore_notes": [],
       "canonical_name": "Case Blackwell",
       "speaking": true,
       "timestamps": [],
@@ -49,44 +60,113 @@
     {
       "name": "Liliana",
       "role": "desk partner",
-      "notes": "desk partner. Delivered a provocative, sexually charged eulogy for Henry Kissinger while reading The Intercept's war-crimes investigation.",
+      "aliases": [],
+      "notes": "desk partner. Delivered a sexually charged, unhinged eulogy for Henry Kissinger before being cut off by Case.",
+      "lore_notes": [
+        "[13:30] Declares Henry Kissinger 'the most power daddy' and saves Intercept article in 'FAP folder.'"
+      ],
       "canonical_name": "Liliana",
       "speaking": true,
       "timestamps": [],
       "confidence": 0.8
     },
     {
-      "name": "Chet",
+      "name": "Chet (Chet Manscape)",
       "role": "science correspondent",
-      "notes": "science correspondent. Presented the masturbation world record story, advocating mood lighting, partial tumescence, and a fabricated Scottish competitive framework.",
-      "canonical_name": "Chet",
+      "aliases": [
+        "Chet Manscape",
+        "Chet Guy",
+        "Science Eyes",
+        "Skynce",
+        "Skyentist"
+      ],
+      "notes": "science correspondent. Detailed a masturbation world record attempt with mood lighting and 'partial tumescence' technique while resisting the urge on air.",
+      "lore_notes": [
+        "[39:18] Claims personal masturbation expertise exceeding world record, cites 'almost never stop nutting November.'",
+        "[49:58] Demonstrates studio mood lighting capabilities (purple erotic lighting) during masturbation record discussion."
+      ],
+      "canonical_name": "Chet (Chet Manscape)",
       "speaking": true,
       "timestamps": [],
       "confidence": 0.8
     },
     {
       "name": "Trent",
-      "role": "film correspondent",
-      "notes": "film correspondent. Hosted Trent at the Movies, reviewing Obliterated, Pokemon Horizons, and a TM robot thriller while missing his fire transition.",
+      "role": "movie correspondent",
+      "aliases": [],
+      "notes": "movie correspondent. Hosted a fire-transition-less Trailer Thursday reviewing Obliterated, Pokemon Horizons, and a TM robot movie trailer.",
+      "lore_notes": [
+        "[1:00:20] Contractually required fire transition missing, derailing his 'rider.'"
+      ],
       "canonical_name": "Trent",
       "speaking": true,
       "timestamps": [],
       "confidence": 0.8
     },
     {
-      "name": "Munch",
+      "name": "Munch (Ralph Munchcut)",
       "role": "debate analyst",
-      "notes": "debate analyst. Argued for Travis Kelce in a rushed Kelce-brothers debate that ended in a 50/50 poll tie before he could make his case.",
-      "canonical_name": "Munch",
+      "aliases": [
+        "Ralph Munchcut",
+        "Munchcut",
+        "Munch"
+      ],
+      "notes": "debate analyst. Debated Crum on Kelce brothers amid a broken multistream poll that deadlocked 50-50.",
+      "lore_notes": [],
+      "canonical_name": "Munch (Ralph Munchcut)",
       "speaking": true,
       "timestamps": [],
       "confidence": 0.8
     },
     {
-      "name": "Crum",
+      "name": "Crum (Leonard Crum)",
       "role": "debate analyst",
-      "notes": "debate analyst. Defended Jason Kelce over Travis in a tied debate, then claimed moral victory after a chaotic sign-off.",
-      "canonical_name": "Crum",
+      "aliases": [
+        "Leonard Crum",
+        "Crumb",
+        "Leonard Crumb",
+        "Leonard Crumfuscious",
+        "Crumfuscious"
+      ],
+      "notes": "debate analyst. Argued for Jason Kelce's traditional values over Travis's Swift-fueled fame during a glitched 50-50 poll.",
+      "lore_notes": [],
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "aliases": [
+        "Pepito the Dog",
+        "Peptron 3000"
+      ],
+      "notes": "executive producer. Briefly appeared as 'Fiona's dog' to claim all dogs see ghosts and resigned to spectral surroundings.",
+      "lore_notes": [],
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Fiona",
+      "role": "gaming correspondent",
+      "aliases": [],
+      "notes": "gaming correspondent. Co-piloted Lethal Company runs with Case, Malco, and Exterminator, navigating quotas and quicksand.",
+      "lore_notes": [],
+      "canonical_name": "Fiona",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Malco",
+      "role": "gaming partner",
+      "aliases": [],
+      "notes": "gaming partner. Returned for Lethal Company, secured apparatus and beehives before falling to quicksand.",
+      "lore_notes": [],
+      "canonical_name": "Malco",
       "speaking": true,
       "timestamps": [],
       "confidence": 0.8
@@ -94,7 +174,15 @@
     {
       "name": "Kendelle",
       "role": "in-studio contributor",
-      "notes": "in-studio contributor. Joined the Lethal Company session as a guest player, referencing Pokimane cookies and monster-scanning tactics.",
+      "aliases": [
+        "Kendall",
+        "Kendall McDonald",
+        "Candy Lane"
+      ],
+      "notes": "in-studio contributor. Joined Lethal Company late, brought Pokimane cookies knowledge and scanned for monsters.",
+      "lore_notes": [
+        "[2:16:25] Joins Lethal Company session, references 'lethal company TikTok' for monster strategies."
+      ],
       "canonical_name": "Kendelle",
       "speaking": true,
       "timestamps": [],
@@ -104,31 +192,37 @@
   "storylines": [],
   "lore_notes": [
     {
-      "entity": "Chet",
-      "fact": "Claims a personal supplement regimen called 'cryptotine' (crypto-linked creatine) at two spoonfuls daily.",
-      "timestamp": "[46:41]",
+      "timestamp": "10:12",
+      "entity": "",
+      "fact": "Case's scene transition system completely deleted, forcing 'barely functional news' without transitions.",
       "confidence": 0.7
     },
     {
-      "entity": "Trent",
-      "fact": "Reveals an uncle lived in his basement for an extended period watching Silence of the Lambs on repeat in the dark, leaving a persistent stench.",
-      "timestamp": "[1:15:18]",
+      "timestamp": "1:25:14",
+      "entity": "",
+      "fact": "Multistream poll desync causes Munch & Crum Kelce debate to deadlock 50-50 with 100 votes.",
       "confidence": 0.7
     },
     {
-      "entity": "Case Blackwell",
-      "fact": "Broadcast transition system (scene transitions, fire transition) suffered a total failure at top of show, forcing 'smoke teleportation' manual cuts.",
-      "timestamp": "[10:12]",
+      "timestamp": "1:41:19",
+      "entity": "",
+      "fact": "Lethal Company inverse teleporter introduced: 3.5-min cooldown, teleports whole crew outside ship, drops items at teleporter.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "3:16:51",
+      "entity": "",
+      "fact": "Broadcast ends with raid to Ricky Peacock.",
       "confidence": 0.7
     }
   ],
-  "episode_summary": "Barely Informed News opened with a transition-less broadcast and Liliana's libidinal Kissinger obituary, followed by Chet's exhaustive breakdown of a masturbation world-record attempt complete with invented Scottish rules. Trent at the Movies reviewed Obliterated and a TM robot thriller before a multi-stream poll glitch deadlocked the Munch & Crum Kelce debate. The network then pivoted to a feature-length Lethal Company session where Case, Fiona, Malco, Exterminator, and Kendelle scraped a quota victory after a catastrophic orbital strike wiped the entire crew.",
+  "episode_summary": "Barely Informed News aired a transition-free broadcast covering Henry Kissinger's death with Liliana's unconventional mourning, a Chet Guy the Science Eyes deep-dive on masturbation endurance records, a fire-transition-less Trent at the Movies, a multistream-glitched Munch & Crum Kelce debate, and an extended Lethal Company session where Case, Fiona, Malco, Exterminator, and Kendelle narrowly met quota before being nuked by an alien ship.",
   "_meta": {
     "vod_id": "r0pO8W4TSDg",
     "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
     "provider": "openrouter",
-    "prompt_chars": 144035,
-    "approx_prompt_tokens": 36008,
+    "prompt_chars": 140152,
+    "approx_prompt_tokens": 35038,
     "transcript_lines": 483
   }
 }
