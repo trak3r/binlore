@@ -1,0 +1,188 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Cold Open & Studio Check-In",
+      "start": "10:25",
+      "end": "16:00",
+      "notes": "Case Blackwell and Pepito open the broadcast; Kendelle haunts the studio background while Pepito debuts a new countdown graphic."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "title": "Fiona Nova Guest Debate: Pepito Parentage",
+      "start": "16:01",
+      "end": "40:24",
+      "notes": "Streamer Fiona Nova remotes in as guest; Munch and Crum debate whether she is Pepito's mother, devolving into personal insults and a rigged poll."
+    },
+    {
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Dual Joe Rogan Experience: Aliens, Cold Exposure, Menstrual Fluids",
+      "start": "41:26",
+      "end": "55:08",
+      "notes": "Two Joe Rogan avatars discuss John Jones vs. aliens, nude subzero baths as monk training, drinking menstrual blood for muscle gain, and shared-wife logistics."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Rich Trickle Debut: Iowa Caucus Fallout",
+      "start": "55:40",
+      "end": "1:10:24",
+      "notes": "New correspondent Rich Trickle (ex-CIA, 28) joins Case at the desk to cover DeSantis' distant second-place finish in Iowa; Trickle insists the race is still alive while Case calls it for Trump."
+    },
+    {
+      "canonical_segment": "Trent at the Movies",
+      "title": "Trailer Tuesday: Zoocosis, Deal or No Deal Island, Spaceman, Abigail",
+      "start": "1:12:00",
+      "end": "1:35:15",
+      "notes": "Trent screens four trailers from the theater with parole officer Chris; the pair oscillate between friendship and hostility while reacting to twisted game-show and horror concepts."
+    },
+    {
+      "canonical_segment": "AI Rooney",
+      "title": "AI Rooney Viewer Grievance Freestyle",
+      "start": "1:35:49",
+      "end": "1:44:21",
+      "notes": "AI Rooney processes chat complaints about bong water, cereal prices, spider therapists, slow drivers, Bluetooth mice, and the CIA infiltrating the show."
+    },
+    {
+      "canonical_segment": "DJ Newsic",
+      "title": "DJ Newsic Roof Concert: AI Stimulation Device & Crum Freestyle",
+      "start": "1:44:59",
+      "end": "2:03:40",
+      "notes": "DJ Newsic sings the news from the roof about a CES AI-powered ejaculation-control device; Crum attempts a woodwind-backed freestyle rap before the broadcast raids Jenna Darlin."
+    }
+  ],
+  "characters": [
+    {
+      "character_id": "case_blackwell",
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the full broadcast, managed guest segments, debuted new correspondent Rich Trickle, and oversaw the musical finale.",
+      "lore_notes": [],
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "character_id": "pepito",
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Ran the new countdown graphic, insisted Fiona Nova is his mother, and claimed vindication after the debate poll.",
+      "lore_notes": [],
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "character_id": "kendelle",
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through the studio background during the cold open while Case discussed her upcoming New York work trip.",
+      "lore_notes": [],
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "character_id": "munch",
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Fiona Nova alongside Crum, claimed victory in the Pepito parentage poll, and teleported out of the segment.",
+      "lore_notes": [],
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "character_id": "crum",
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Lost the Pepito parentage debate and poll to Fiona Nova, then attempted a woodwind-backed freestyle rap at broadcast close.",
+      "lore_notes": [],
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "character_id": "rich_trickle",
+      "name": "Rich Trickle",
+      "role": "correspondent",
+      "notes": "Debuted as a political correspondent claiming ex-CIA service in three wars, age 28, and metal implants; covered Iowa caucus results.",
+      "lore_notes": [
+        "[56:10] Claims former CIA service in three wars, age 28, metal in body from injuries."
+      ],
+      "canonical_name": "Rich Trickle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "character_id": "trent",
+      "name": "Trent",
+      "role": "field correspondent",
+      "notes": "field correspondent. Hosted Trailer Tuesday from the movie theater with parole officer Chris, reacting to four trailers while toggling between friendship and hostility.",
+      "lore_notes": [
+        "[1:12:32] Has parole officer Chris accompanying him during broadcasts."
+      ],
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "character_id": "chris",
+      "name": "Chris",
+      "role": "parole officer",
+      "notes": "Appeared as Trent's parole officer during the movie segment, briefly joining the trailer commentary.",
+      "lore_notes": [],
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "character_id": "ai_rooney",
+      "name": "AI Rooney",
+      "role": "cyborg commentator",
+      "notes": "cyborg commentator. Processed viewer complaints into a freestyle grievance segment covering bong water, cereal prices, and CIA infiltration.",
+      "lore_notes": [],
+      "canonical_name": "AI Rooney",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "timestamp": "56:10",
+      "entity": "",
+      "fact": "Rich Trickle introduced as former CIA operative (three wars), age 28, with metal implants.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:12:32",
+      "entity": "",
+      "fact": "Trent confirmed to have a parole officer named Chris who appears on-air.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:45:53",
+      "entity": "",
+      "fact": "DJ Newsic operates from the roof with a 'six billion dollar DJ laser machine.'",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened with a chaotic guest debate between Fiona Nova and the Munch & Crum desk over Pepito's parentage, followed by a surreal dual-Joe-Rogan segment featuring alien fight theory and menstrual-fluid fitness. New CIA-background correspondent Rich Trickle debuted at the news desk to downplay DeSantis' Iowa collapse, Trent screened twisted trailers with his parole officer, AI Rooney aired viewer grievances, and DJ Newsic closed from the roof with a song about an AI ejaculation device and a Crum freestyle attempt before raiding Jenna Darlin.",
+  "_meta": {
+    "vod_id": "GgZ8pG-gib4",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 94473,
+    "approx_prompt_tokens": 23618,
+    "transcript_lines": 189
+  }
+}
