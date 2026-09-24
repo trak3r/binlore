@@ -22,11 +22,11 @@ Complete stream archive tracked for *Barely Informed News*. Episodes are ingeste
     <div class="stat-label">Total Broadcast Lore</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">71</div>
+    <div class="stat-value">72</div>
     <div class="stat-label">Ingested & Extracted</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">305</div>
+    <div class="stat-value">304</div>
     <div class="stat-label">Pending Ingestion Backlog</div>
   </div>
 </div>
@@ -44,8 +44,8 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   <div class="filter-group">
     <select id="status-filter">
       <option value="all">All Statuses (376)</option>
-      <option value="ingested">Ingested Only (71)</option>
-      <option value="backlog">Backlog Only (305)</option>
+      <option value="ingested">Ingested Only (72)</option>
+      <option value="backlog">Backlog Only (304)</option>
     </select>
     <select id="page-size">
       <option value="25">25 per page</option>
@@ -426,7 +426,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
 <tr data-status="backlog" data-title="post christmas company" data-date="2023-12-29" data-vod-id="q994qg9cwlk" style="display: none;"><td class="cell-date"><code>2023-12-29</code></td><td class="cell-title">Post Christmas Company</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">Q994QG9CwLk</code></td><td class="cell-dur">3:38:57</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=Q994QG9CwLk" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="post christmas company" data-date="2023-12-27" data-vod-id="gj46admipku" style="display: none;"><td class="cell-date"><code>2023-12-27</code></td><td class="cell-title">Post Christmas Company</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">GJ46ADmIPkU</code></td><td class="cell-dur">4:34:06</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=GJ46ADmIPkU" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="deck the news with dick news stories" data-date="2023-12-21" data-vod-id="te6tvedz5i8" style="display: none;"><td class="cell-date"><code>2023-12-21</code></td><td class="cell-title">Deck the News with Dick News Stories</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">TE6TvEDz5I8</code></td><td class="cell-dur">1:38:06</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=TE6TvEDz5I8" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
-<tr data-status="backlog" data-title="solo company (unless i make friends or kendelle wakes up)" data-date="2023-12-19" data-vod-id="bugo6ctckhu" style="display: none;"><td class="cell-date"><code>2023-12-19</code></td><td class="cell-title">Solo Company (unless I make friends or Kendelle wakes up)</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">bUgo6CtCkHU</code></td><td class="cell-dur">4:35:07</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=bUgo6CtCkHU" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
+<tr data-status="ingested" data-title="solo company (unless i make friends or kendelle wakes up)" data-date="2023-12-19" data-vod-id="bugo6ctckhu" style="display: none;"><td class="cell-date"><code>2023-12-19</code></td><td class="cell-title"><a href="./2023-12-19" class="internal"><strong>Solo Company (unless I make friends or Kendelle wakes up)</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">bUgo6CtCkHU</code></td><td class="cell-dur">4:35:07</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=bUgo6CtCkHU" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="grunchmas time is here" data-date="2023-12-18" data-vod-id="5m35zq3yh8a" style="display: none;"><td class="cell-date"><code>2023-12-18</code></td><td class="cell-title"><a href="./2023-12-18" class="internal"><strong>Grunchmas Time is Here</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">5m35zq3Yh8A</code></td><td class="cell-dur">3:08:02</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=5m35zq3Yh8A" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="artistically nude no more, rudy payments, chuck e. selling, it's newzzz" data-date="2023-12-16" data-vod-id="u4sm2unvh2c" style="display: none;"><td class="cell-date"><code>2023-12-16</code></td><td class="cell-title"><a href="./2023-12-16" class="internal"><strong>Artistically Nude No More, Rudy Payments, Chuck E. Selling, it's NEWZZZ</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">U4Sm2UnvH2c</code></td><td class="cell-dur">2:29:08</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=U4Sm2UnvH2c" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="lethal cream company" data-date="2023-12-15" data-vod-id="i1acx1i0wy8" style="display: none;"><td class="cell-date"><code>2023-12-15</code></td><td class="cell-title"><a href="./2023-12-15" class="internal"><strong>Lethal Cream Company</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">i1Acx1I0wY8</code></td><td class="cell-dur">5:28:05</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=i1Acx1I0wY8" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>

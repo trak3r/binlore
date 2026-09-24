@@ -1,0 +1,63 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "04:35:07",
+      "canonical_segment": "News",
+      "title": "Lethal Company Co-Op Session",
+      "notes": "Anchor Case Blackwell hosts an extended Lethal Company gameplay session with in-studio contributor Kendelle and rotating remote players including Foxy Grandpa, Exterminator, Fancy, Rad, Nathan, and Christian; crew cycles through multiple moons, struggles with turret-heavy facilities, coil-head encounters, and bee-hive distractions, ultimately failing to reach premium moons before sign-off."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors a marathon Lethal Company co-op session, manages lobby mods and invitations, and coordinates crew survival across multiple quota runs.",
+      "lore_notes": [],
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Wakes up at 9 p.m. to join the Lethal Company session in person, provides live comms and item runs, and shares banter about sleep schedule and streaming setup.",
+      "lore_notes": [],
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Mentions being rejected for a job at Autodesk but invited to their talent community [01:54:40].",
+      "timestamp": "01:54:40",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Reports waking up at 9 p.m. and adjusting to night-time lighting setup [15:48].",
+      "timestamp": "15:48",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Maintains three separate Lethal Company save files [48:27].",
+      "timestamp": "48:27",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News anchor Case Blackwell departs the news desk for a four-hour Lethal Company co-op marathon, joined by in-studio contributor Kendelle and a rotating crew of remote players. The team cycles through turret-ridden facilities, coil-head gauntlets, and ill-timed bee-hive raids, repeatedly losing gear and crew to environmental hazards while failing to accumulate enough credits for premium moons. The broadcast concludes with a raid to a fellow Lethal Company streamer as Case signs off past his bedtime.",
+  "_meta": {
+    "vod_id": "bUgo6CtCkHU",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 160051,
+    "approx_prompt_tokens": 40012,
+    "transcript_lines": 652
+  }
+}

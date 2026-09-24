@@ -90,3 +90,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[04:53:09]** ([[episodes/2023-12-15|2023-12-15]]): Hosted a 5+ hour Lethal Company marathon with a 16-player modded lobby, culminating in teleporter purchase and successful quota clearance on final moon. [04:53:09]
 - **[39:39]** ([[episodes/2023-12-16|2023-12-16]]): [39:39] Read Twitch's official statement rolling back artistic nudity policy effective 2023-12-16; digital depictions of nudity banned regardless of medium.
 - **[[00:45]]** ([[episodes/2023-12-18|2023-12-18]]): Performs annual Grunchmas stream as 'The Grunch,' a horny Grinch variant who maintains a Fucks List of pop culture figures.
+- **[01:54:40]** ([[episodes/2023-12-19|2023-12-19]]): Mentions being rejected for a job at Autodesk but invited to their talent community [01:54:40].
+- **[48:27]** ([[episodes/2023-12-19|2023-12-19]]): Maintains three separate Lethal Company save files [48:27].
