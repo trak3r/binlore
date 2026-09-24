@@ -54,13 +54,14 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
 | [[episodes/2024-07-20|2024-07-20]] | Appears on couch cam, sleeps through friend visit, debates smut vs no smut (concedes), wins fursona poll, declines boba after stream runs… |
-| [[episodes/2024-01-27|2024-01-27]] | in-studio contributor. |
+| [[episodes/2024-02-01|2024-02-01]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (25)</summary>
+<summary>Earlier appearances (26)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-01-27|2024-01-27]] | in-studio contributor. |
 | [[episodes/2024-01-20|2024-01-20]] | in-studio contributor. |
 | [[episodes/2024-01-19|2024-01-19]] | in-studio contributor. |
 | [[episodes/2024-01-17|2024-01-17]] | in-studio contributor. |
@@ -116,3 +117,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[30:06]** ([[episodes/2024-01-12|2024-01-12]]): Confirms she and Case use spray-paint dots above doors for exits and to the side for dead ends as a navigation system. [30:06]
 - **[03:21:31]** ([[episodes/2024-01-20|2024-01-20]]): Participated for the full duration as Case's primary co-op partner across all custom maps [03:21:31].
 - **[01:04:11]** ([[episodes/2024-01-27|2024-01-27]]): Streaming on Pixel Circus channel during this broadcast; Case planned to raid and rate her stream.
+- **[[23:46]]** ([[episodes/2024-02-01|2024-02-01]]): Getting tattoo removed from back; requires ointment application.

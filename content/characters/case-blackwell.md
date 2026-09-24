@@ -102,3 +102,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[[15:46]]** ([[episodes/2024-01-19|2024-01-19]]): Nephew plays under handle 'Tracy Chapman' and joins lobby via right-click invite [15:46].
 - **[03:21:31]** ([[episodes/2024-01-20|2024-01-20]]): Completed a 14-hour continuous modded Lethal Company stream starting at noon, ending at ~4 AM [03:21:31].
 - **[01:35:43]** ([[episodes/2024-01-27|2024-01-27]]): Interviewing for a new job that could dramatically shift the broadcast schedule if hired.
+- **[[11:06]]** ([[episodes/2024-02-01|2024-02-01]]): Has pending job interview outcome; would reduce editing workload if hired.
