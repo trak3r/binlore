@@ -1,0 +1,52 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "01:18:49",
+      "canonical_segment": "News",
+      "title": "Phasmophobia Gameplay Session",
+      "notes": "Case Blackwell hosts a multiplayer Phasmophobia ghost-hunting session with guests Fiona and Bry across multiple haunted maps, identifying ghost types (Oni, Spirit) and managing sanity mechanics before transitioning to Patreon podcast."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors a Phasmophobia gameplay stream with guests, struggles with audio settings and sanity mechanics, mentions beating Spider-Man 2 and considering Lethal Company later.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Case Blackwell has beaten Spider-Man 2.",
+      "timestamp": "[01:17:39]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case Blackwell is level 3 in Phasmophobia progression.",
+      "timestamp": "[00:55:59]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case Blackwell considers playing Lethal Company after the Patreon podcast.",
+      "timestamp": "[01:17:04]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell departs the news desk for a full-session Phasmophobia stream, teaming with Fiona and Bry to investigate haunted houses, identify ghost types including an Oni and a Spirit, and manage sanity mechanics across multiple rounds. The broadcast concludes with Case transitioning to a Patreon podcast and raiding Avali.",
+  "_meta": {
+    "vod_id": "e1eUXUDvw_8",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 55735,
+    "approx_prompt_tokens": 13933,
+    "transcript_lines": 118
+  }
+}

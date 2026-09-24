@@ -22,11 +22,11 @@ Complete stream archive tracked for *Barely Informed News*. Episodes are ingeste
     <div class="stat-label">Total Broadcast Lore</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">89</div>
+    <div class="stat-value">90</div>
     <div class="stat-label">Ingested & Extracted</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">287</div>
+    <div class="stat-value">286</div>
     <div class="stat-label">Pending Ingestion Backlog</div>
   </div>
 </div>
@@ -44,8 +44,8 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   <div class="filter-group">
     <select id="status-filter">
       <option value="all">All Statuses (376)</option>
-      <option value="ingested">Ingested Only (89)</option>
-      <option value="backlog">Backlog Only (287)</option>
+      <option value="ingested">Ingested Only (90)</option>
+      <option value="backlog">Backlog Only (286)</option>
     </select>
     <select id="page-size">
       <option value="25">25 per page</option>
@@ -408,7 +408,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
 <tr data-status="backlog" data-title="late night lethal modity" data-date="2024-01-20" data-vod-id="nza7xxmylvi" style="display: none;"><td class="cell-date"><code>2024-01-20</code></td><td class="cell-title">Late Night Lethal Modity</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">NZA7xxMYLvI</code></td><td class="cell-dur">3:21:59</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=NZA7xxMYLvI" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="fi's 12 hour cream company" data-date="2024-01-19" data-vod-id="5p3u9f8zacq" style="display: none;"><td class="cell-date"><code>2024-01-19</code></td><td class="cell-title">Fi's 12 Hour Cream Company</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">5P3u9f8zacQ</code></td><td class="cell-dur">3:14:06</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=5P3u9f8zacQ" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="quick news then lethal cream" data-date="2024-01-19" data-vod-id="1pzwg_g2jt4" style="display: none;"><td class="cell-date"><code>2024-01-19</code></td><td class="cell-title">Quick News then Lethal Cream</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">1pZwg_g2jT4</code></td><td class="cell-dur">1:03:15</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=1pZwg_g2jT4" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
-<tr data-status="backlog" data-title="phasmofionanova" data-date="2024-01-18" data-vod-id="e1euxudvw_8" style="display: none;"><td class="cell-date"><code>2024-01-18</code></td><td class="cell-title">Phasmofionanova</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">e1eUXUDvw_8</code></td><td class="cell-dur">1:18:49</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=e1eUXUDvw_8" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
+<tr data-status="ingested" data-title="phasmofionanova" data-date="2024-01-18" data-vod-id="e1euxudvw_8" style="display: none;"><td class="cell-date"><code>2024-01-18</code></td><td class="cell-title"><a href="./2024-01-18" class="internal"><strong>Phasmofionanova</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">e1eUXUDvw_8</code></td><td class="cell-dur">1:18:49</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=e1eUXUDvw_8" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="desanticide watch, ai stimulation, definitely real alien lights, it's news" data-date="2024-01-17" data-vod-id="ggz8pg-gib4" style="display: none;"><td class="cell-date"><code>2024-01-17</code></td><td class="cell-title"><a href="./2024-01-17" class="internal"><strong>Desanticide Watch, AI Stimulation, Definitely Real Alien Lights, it's NEWS</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">GgZ8pG-gib4</code></td><td class="cell-dur">2:03:40</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=GgZ8pG-gib4" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="para-sale, ai so special, trump paying lib service - news!?" data-date="2024-01-13" data-vod-id="g1zqyb8n25q" style="display: none;"><td class="cell-date"><code>2024-01-13</code></td><td class="cell-title"><a href="./2024-01-13" class="internal"><strong>Para-Sale, AI So Special, Trump Paying Lib Service - NEWS!?</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">G1zqyb8N25Q</code></td><td class="cell-dur">2:23:36</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=G1zqyb8N25Q" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="cream company" data-date="2024-01-12" data-vod-id="h9d5suaabjy" style="display: none;"><td class="cell-date"><code>2024-01-12</code></td><td class="cell-title"><a href="./2024-01-12" class="internal"><strong>Cream Company</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">H9d5sUAABJY</code></td><td class="cell-dur">1:45:12</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=H9d5sUAABJY" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
