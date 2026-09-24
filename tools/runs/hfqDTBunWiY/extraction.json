@@ -1,0 +1,55 @@
+{
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "01:48:35",
+      "canonical_segment": "News",
+      "title": "Lethal Company Co-Op Operation",
+      "notes": "Case Blackwell leads a chaotic Lethal Company session with guest crew, navigating scrap collection, monster encounters, and repeated fatalities across multiple moons."
+    },
+    {
+      "start": "01:48:35",
+      "end": "02:15:30",
+      "canonical_segment": "News",
+      "title": "Broadcast Close & Schedule Announcements",
+      "notes": "Case outlines upcoming Patreon stream and improvised sketch comedy show with Tim, initiates raid on Gina's channel."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "notes": "Anchors the Lethal Company co-op special, directing crew movements and managing terminal purchases amid escalating casualties.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "notes": "Makes brief on-mic appearance during the mission, demonstrating uncharacteristic bravery in the haunted facility.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "notes": "Referenced as a dog (Pipita) in the studio, audible in background during equipment phase.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [],
+  "episode_summary": "Case Blackwell commandeers the nightly broadcast for an extended Lethal Company operation, shepherding a revolving crew of guests through scrap runs on March and Dine that yield heavy casualties but meet quota. The broadcast closes with schedule notices for a Patreon stream and a late-night improvised sketch showcase.",
+  "_meta": {
+    "vod_id": "hfqDTBunWiY",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 121592,
+    "approx_prompt_tokens": 30398,
+    "transcript_lines": 359
+  }
+}
