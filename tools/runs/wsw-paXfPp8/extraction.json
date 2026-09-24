@@ -1,0 +1,157 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "end_ts": "00:24:25",
+      "notes": "Case opens the broadcast solo after all regular correspondents call in sick; introduces friend Andy as emergency fill-in, then brings on Brett (Chat's brother) to cover Biden's contentious press conference responding to Special Counsel Robert Hur's report questioning his memory.",
+      "start_ts": "00:09:47",
+      "title": "Emergency Fill-In Anchors Cover Biden Press Conference"
+    },
+    {
+      "canonical_segment": "News",
+      "end_ts": "00:36:10",
+      "notes": "Case video-calls 'President Biden' (Andy doing an impression) for a chaotic interview covering penis size averages, Corn Pop stories, drone strike threats against viewers, and Biden's bedtime routine.",
+      "start_ts": "00:24:25",
+      "title": "Andy Impersonates Biden for Absurdist Interview"
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "end_ts": "01:12:30",
+      "notes": "Trip Bradstein attempts man-on-the-street interviews but is repeatedly sabotaged by a shape-shifting baby who drinks his proprietary 'mic juice,' an alien named John Bronson claiming to know Drake, a talking bear advocating public defecation, a weatherman named Hogarth denying global warming because he's cold, and a twin-flame seeker who turns out to be the baby again.",
+      "start_ts": "00:36:41",
+      "title": "Trip's Street Interviews Sabotaged by Mic-Juice Baby"
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "end_ts": "01:32:18",
+      "notes": "With Crum sick, his brother Come (pronounced 'calm') fills in to debate Munch. They clash over Come's name, Munch's claimed immortal wizard origin, condiments, hats vs. shoes, and finally 'up vs. down' — Come argues for down citing gravity as god's will, wins the chat poll, and Munch erupts in a slur-laden meltdown.",
+      "start_ts": "01:13:04",
+      "title": "Come (Crum's Brother) Debates Munch; Chat Votes Down"
+    },
+    {
+      "canonical_segment": "Conspiracy Time",
+      "end_ts": "01:49:56",
+      "notes": "Case watches a Fox Recaps video essay about the short film 'The Curve,' realizes it's a near-full re-upload with AI narration, then watches the last two minutes of the original film to 'support' it, concluding the curve is a metaphor for inescapable truth.",
+      "start_ts": "01:37:16",
+      "title": "Case Deconstructs Content-Farm Recaps of 'The Curve'"
+    },
+    {
+      "canonical_segment": "Trend at the Movies",
+      "end_ts": "02:07:43",
+      "notes": "Chris and Case watch trailers for 'Late Night with the Devil,' 'Quiet on Set: The Dark Side of Kids TV' (Dan Schneider Nickelodeon documentary), and the 'Knuckles' Paramount+ series starring Idris Elba and Adam Pally; Chris loves Knuckles, Case finds the animation cold and manufactured.",
+      "start_ts": "01:50:44",
+      "title": "Trailer Reactions: Late Night with the Devil, Quiet on Set, Knuckles"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "notes": "Anchors solo after entire correspondent roster calls in sick; orchestrates fill-in guests and remote tech experiments.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Andy",
+      "notes": "Case's friend pressed into service as universal fill-in; impersonates Biden, runs tech for Trip, and reveals at the end he was the mic-juice baby all along.",
+      "canonical_name": "Andy",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brett",
+      "notes": "Chat's brother, fill-in correspondent; vapes 'grape ice plastic,' reads Biden press conference coverage, takes a live call from his water-pressure guy.",
+      "canonical_name": "Brett",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "notes": "Fields correspondent broadcasting from park bushes; street interviews derailed by a shape-shifting baby drinking his mic juice and tech gremlins.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "notes": "Debate analyst; claims immortal wizard origin from ancient Assyria, loses 'up vs. down' debate to Come, delivers profane post-loss meltdown.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Come",
+      "notes": "Crum's brother (pronounced 'calm'); fill-in debate partner; argues gravity makes down superior, wins chat poll, steals craft-service nutrient bars.",
+      "canonical_name": "Come",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "notes": "Trend at the Movies co-host; debates alliteration, defends Knuckles trailer, clashes with Case over animation quality.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[2024-02-09] Crum calls in sick; his brother Come debuts as fill-in debate partner, claims he and Crum are 'like Frasier and Niles Crane,' wins 'up vs. down' poll against Munch.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[2024-02-09] Case mentions Beyblade Tournament sub goal still pending; says they'll meet Crum's cousin when it's met.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Andy is a friend of Case who collaborates on non-stream video projects with Case and Bill; handles remote NDI connections for fill-in guests.",
+      "timestamp": "[01:32:50]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum has a brother named Come (pronounced 'calm'); their parents named him 'after where I came from.'",
+      "timestamp": "[01:17:10]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Munch claims to be an immortal wizard born 10,000 years ago after slapping food from Assyrian king Malthafet's mouth.",
+      "timestamp": "[01:18:03]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Trip's microphone contains proprietary 'mic juice' (microphone juice) that multiple street interviewees attempt to drink.",
+      "timestamp": "[00:39:57]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case is experimenting with remote NDI connections to bring guests in without hour-long tech setup.",
+      "timestamp": "[02:08:26]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "With the entire regular correspondent roster mysteriously ill, Case Blackwell drafts his friend Andy and a parade of siblings — Chat's brother Brett, Crum's brother Come — to fill every on-air role. The broadcast careens from a Biden press-conference recap into an absurdist presidential interview, a park-side reporting segment sabotaged by a shape-shifting mic-juice addict, and a debate where Come defeats Munch by arguing gravity makes 'down' morally superior. The night closes with Case dissecting a content-farm movie recap and Chris defending the Knuckles trailer as a certified banger.",
+  "_meta": {
+    "vod_id": "wsw-paXfPp8",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 106894,
+    "approx_prompt_tokens": 26723,
+    "transcript_lines": 223
+  }
+}

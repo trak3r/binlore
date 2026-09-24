@@ -3,10 +3,10 @@ title: Chris
 type: character
 aliases: []
 first_seen: 2023-11-22
-status: minor contributor
+status: recurring
 tags:
-  - character
-  - minor
+- character
+- minor
 ---
 
 # Chris
@@ -23,6 +23,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-02-09|2024-02-09]] | Trend at the Movies co-host; debates alliteration, defends Knuckles trailer, clashes with Case over animation quality. |
 | [[episodes/2024-01-05|2024-01-05]] | parole officer. |
 | [[episodes/2023-11-22|2023-11-22]] | Auto-created minor character after appearing in 3 extracted episodes (threshold 3). |
 
