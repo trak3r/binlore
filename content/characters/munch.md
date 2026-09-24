@@ -50,7 +50,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (17)</summary>
+<summary>Earlier appearances (18)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -63,6 +63,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
 | [[episodes/2024-07-20|2024-07-20]] | Wins wiki feet, wife verification, sweet vs salty, Alien vs Predator, carnivore diet, Spike vs Luffy, Shaggy vs Jedi Shaggy, Country… |
+| [[episodes/2023-12-18|2023-12-18]] | debate analyst. |
 | [[episodes/2023-12-16|2023-12-16]] | debate analyst. |
 | [[episodes/2023-12-14|2023-12-14]] | debate analyst. |
 | [[episodes/2023-12-12|2023-12-12]] | debate analyst. |
@@ -116,3 +117,4 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[01:24:32]** ([[episodes/2025-09-18|2025-09-18]]): Munch claims he defeated the devil in debate multiple times, winning soul shards and a hell key housed in his soul.
 - **[[1:57:35]]** ([[episodes/2023-11-22|2023-11-22]]): Claims 20-point lead in debate score over Crum; threatens east/west coast defection to Munchtopia if turkey becomes national bird [1:57:35].
 - **[[1:25:08]]** ([[episodes/2023-12-02|2023-12-02]]): Claims to be ancient immortal from Sumeria; crossed thousand-year threshold and dropped 'Young' from name.
+- **[[03:00:37]]** ([[episodes/2023-12-18|2023-12-18]]): Agrees to return to the network after forced on-air apology to Crum; claims the show was 'easier than ever' without him.

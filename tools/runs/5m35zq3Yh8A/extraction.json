@@ -1,0 +1,189 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "07:05",
+      "canonical_segment": "News",
+      "title": "Grunchmas Cold Open: The Horny Grinch Ballad",
+      "notes": "Case Blackwell debuts as The Grunch, a horny Grinch variant, performing an original song establishing the Fucks List premise."
+    },
+    {
+      "start": "07:05",
+      "end": "01:01:28",
+      "canonical_segment": "News",
+      "title": "Grunchmas Fucks List: Population Judgment",
+      "notes": "The Grunch adjudicates a massive community-submitted roster of pop culture figures, fictional characters, and network personalities into 'Fucks' or 'Doesn't Fuck' categories with surreal commentary."
+    },
+    {
+      "start": "01:01:28",
+      "end": "01:17:37",
+      "canonical_segment": "News",
+      "title": "The Night Before Crumsmas: Crowdsourced Slam Poetry",
+      "notes": "Crum delivers a freestyle Christmas poem from Whoville, heavily reliant on chat to supply rhymes, culminating in a degenerate holiday moral."
+    },
+    {
+      "start": "01:56:04",
+      "end": "01:58:17",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet Manscape Christmas Cameo",
+      "notes": "Chet appears as 'Trent' for a brief holiday check-in, discussing fitness spirituality and wishing Feliz Navajo before vanishing."
+    },
+    {
+      "start": "02:06:59",
+      "end": "02:12:28",
+      "canonical_segment": "News",
+      "title": "Pepito Check-In: Neutered Dog in a Jean Coat",
+      "notes": "Pepito appears in a Christmas jean coat with green paint in his eyes, confirms neutering, and sings a mournful carol before departing."
+    },
+    {
+      "start": "02:29:27",
+      "end": "02:34:35",
+      "canonical_segment": "Hype Train",
+      "title": "Fucksmas Train Derailment",
+      "notes": "Hype Train manifests as the Fucksmas Train, powered by the idea of sex rather than sex itself, laments exclusion from the Whoville orgy, and recalls devil stick hobby."
+    },
+    {
+      "start": "02:39:02",
+      "end": "02:50:03",
+      "canonical_segment": "News",
+      "title": "Lyrical Fucksmas: Freestyle Rap Adjudication",
+      "notes": "The Grunch speed-runs the remaining Fucks List entries via improvised rap over shifting beats, covering Undertaker, Edward Scissorhands, Falcor, Fivel, Michigan J. Frog, and the Twilight cast."
+    },
+    {
+      "start": "02:51:08",
+      "end": "03:03:52",
+      "canonical_segment": "Munch & Crum",
+      "title": "Christmas Miracle Debate: Munch Apologizes to Crum",
+      "notes": "Munch returns unannounced; a chat poll forces him to apologize to Crum on air, prompting a fragile truce and Munch's agreement to return to the show."
+    },
+    {
+      "start": "03:03:52",
+      "end": "03:08:02",
+      "canonical_segment": "News",
+      "title": "Grunchmas Sign-Off & Raid",
+      "notes": "The Grunch declares the Fucks List complete, describes his annual hibernation-death-resurrection cycle, claims a fake orgy invite, and raids re_re."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "anchor. Hosts as The Grunch, a horny Grinch persona, running the annual Fucks List and mediating the Munch-Crum Christmas truce.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Delivers the crowdsourced 'Night Before Crumsmas' poem from Whoville and receives a forced on-air apology from Munch.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Crashes the Grunch cave, loses a chat poll, apologizes to Crum under duress, and agrees to return to the network.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Checks in wearing a jean coat with green paint in his eyes, confirms neutering, and sings a depressing carol.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical correspondent",
+      "notes": "musical correspondent. Manifests as the Fucksmas Train, laments missing the Whoville orgy, and recalls a devil stick hobby.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet Manscape",
+      "role": "science correspondent",
+      "notes": "science correspondent. Briefly appears as 'Trent' for a Christmas cameo discussing fitness spirituality.",
+      "canonical_name": "Chet Manscape",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Evaluated on the Fucks List; ruled 'only mental domination' and placed on Doesn't Fuck.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "human-interest reporter",
+      "notes": "human-interest reporter. Referenced via his adult son appearing on the Fucks List; Jeff himself left off-list pending judgment.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Munch & Crum Rivalry",
+      "beat": "[2023-12-18] Munch returns unannounced, loses a chat poll 57-43, and is forced to apologize to Crum on air, agreeing to return to the show in a Christmas truce.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Performs annual Grunchmas stream as 'The Grunch,' a horny Grinch variant who maintains a Fucks List of pop culture figures.",
+      "timestamp": "[00:45]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "Delivers the annual 'Night Before Crumsmas' freestyle poem from Whoville, relying on chat for rhymes.",
+      "timestamp": "[01:01:28]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Confirmed neutered; owner is Fiona Nova; wears a Christmas jean coat and gets green paint in his eyes.",
+      "timestamp": "[02:08:00]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch",
+      "fact": "Agrees to return to the network after forced on-air apology to Crum; claims the show was 'easier than ever' without him.",
+      "timestamp": "[03:00:37]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet Manscape",
+      "fact": "Appears as 'Trent' for a Christmas cameo, discusses fitness as spiritual practice, wishes 'Feliz Navajo.'",
+      "timestamp": "[01:57:41]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "The Grunch presides over the annual Fucks List, adjudicating hundreds of submissions into horny/non-horny categories while Crum delivers a chat-assisted slam poem from Whoville. The broadcast culminates in a surprise Munch & Crum debate where chat forces Munch to apologize to Crun, securing Munch's return to the network in a tenuous Christmas truce.",
+  "_meta": {
+    "vod_id": "5m35zq3Yh8A",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 140776,
+    "approx_prompt_tokens": 35194,
+    "transcript_lines": 372
+  }
+}

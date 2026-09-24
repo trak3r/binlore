@@ -49,6 +49,7 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2025-06-17|2025-06-17]] | Chief Science Correspondent. |
 | [[episodes/2025-06-07|2025-06-07]] | Chief Science Correspondent. |
 | [[episodes/2024-07-20|2024-07-20]] | Joins both [[../segments/jambalaya|Jambalaya]] sessions, argues artichoke-as-human and flaked Sheldon Adelson skin condiment, debates smut vs no smut on couch. |
+| [[episodes/2023-12-18|2023-12-18]] | science correspondent. |
 | [[episodes/2023-12-12|2023-12-12]] | science correspondent. |
 | [[episodes/2023-12-08|2023-12-08]] | science correspondent. |
 | [[episodes/2023-11-30|2023-11-30]] | science correspondent. |
@@ -75,3 +76,4 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 - **[22:40]** ([[episodes/2025-09-18|2025-09-18]]): Chet's middle school friend Braver Snakeass died dissolved in world's largest acidic gummy bear at a fair.
 - **[1:53:16]** ([[episodes/2025-09-25|2025-09-25]]): Identifies as a 'skintist' (scientist); scientifically proven one of smartest guys ever [1:53:16].
 - **[[46:41]]** ([[episodes/2023-11-30|2023-11-30]]): Claims a personal supplement regimen called 'cryptotine' (crypto-linked creatine) at two spoonfuls daily.
+- **[[01:57:41]]** ([[episodes/2023-12-18|2023-12-18]]): Appears as 'Trent' for a Christmas cameo, discusses fitness as spiritual practice, wishes 'Feliz Navajo.'
