@@ -3,10 +3,10 @@ title: Trent
 type: character
 aliases: []
 first_seen: 2023-11-22
-status: minor contributor
+status: recurring
 tags:
-  - character
-  - minor
+- character
+- minor
 ---
 
 # Trent
@@ -23,6 +23,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2023-12-21|2023-12-21]] | field correspondent. |
 | [[episodes/2023-12-12|2023-12-12]] | movie correspondent. |
 | [[episodes/2023-11-22|2023-11-22]] | Auto-created minor character after appearing in 3 extracted episodes (threshold 3). |
 

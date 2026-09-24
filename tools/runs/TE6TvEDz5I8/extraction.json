@@ -1,0 +1,183 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "15:30",
+      "end": "31:21",
+      "title": "Holiday Cold Open & Hype Train Santa Parade",
+      "notes": "Case opens with holiday greetings, haircut reveal, and an extended Hype Train bit cycling through AI-generated Santa personas (Spud Kringle, Tim Crangle, Chris Hypedal) while thanking subs and bits."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "31:45",
+      "end": "41:52",
+      "title": "Jeff Ripple Reports: AI Porn Doppelgangers",
+      "notes": "Ripple reads a Washington Post piece on adult creators licensing AI chatbot doubles (Sophie AI); Case and Jeff test the site live, joke about Kevin sex bots, and Ripple threatens a three-month holiday break before settling on Tuesday return."
+    },
+    {
+      "canonical_segment": "The Jo Rogen Experience",
+      "start": "42:22",
+      "end": "55:49",
+      "title": "Joe Rogan Experience: Twizzler Suspenders & Golden Camels",
+      "notes": "Case and Jamie riff as dual Joe Rogans: Jamie's edible Twizzler suspenders fail, Joe defends Musk labor practices, demands real Christmas trees hunted with AK-47s, pitches beehive-mailbox economy, and debates non-denominational gay Santa day."
+    },
+    {
+      "canonical_segment": "Therapy",
+      "start": "56:21",
+      "end": "1:05:33",
+      "title": "Conspiracy Time: The Unverted Exposes Christmas as Saturnalia Psyop",
+      "notes": "The Unverted (Case) speeds through a YouTube video claiming Christmas is a pagan Saturnalia fraud, Jesus born in September, and Russell Crowe is a time-traveling demon seeding truth via Gladiator; Case gets rattled but pivots to trailers."
+    },
+    {
+      "canonical_segment": "CryptoZeu$",
+      "start": "1:05:33",
+      "end": "1:19:52",
+      "title": "Let's Go to the Movies: Trent Reviews Spaceman, Land of Bad, The Regime",
+      "notes": "Trent (Case) watches trailers from a rented theater: Adam Sandler in Spaceman (disappointed by river scenes), Russell Crowe seated in Land of Bad (dream Professor X casting), and Kate Winslet in The Regime (Margaret Thatcher energy, Bubble Boy cameo)."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "start": "1:20:22",
+      "end": "1:31:27",
+      "title": "Munch & Crum: Scrum vs. Crum Debate & Poll",
+      "notes": "Crum returns after 'burying the hatchet' on the grunge stream; Munch introduces Scrum (one-day temp) as superior, chat poll runs close, Crum claims opaque emotional black box, Munch threatens destruction, scoreboard updated to 83."
+    },
+    {
+      "canonical_segment": "DJ Newsic",
+      "start": "1:31:27",
+      "end": "1:37:40",
+      "title": "DJ Music: Munch's Christmas Freestyle & Sign-Off",
+      "notes": "Munch rushes through a Rudolph-replacing 'Munch Miss' rap claiming immortality, nuclear curse power, and real Santa status; DJ Newsic rates the stream, Case scrambles to end before Patreon creamies stream."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors holiday broadcast, cycles Santa personas for Hype Train, hosts Jo Rogen and Unverted bits, manages segment sprint to Patreon stream.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walks through frame, approves Case's haircut, cues signature theme music.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Delivers AI porn doppelganger story, threatens extended holiday leave, negotiates return to Tuesday.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Derails into AI Santa parade (Spud Kringle, Tim Crangle, Chris Hypedal) while acknowledging subs and bits.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "The Unverted",
+      "role": "conspiracy host",
+      "notes": "conspiracy host. Speed-runs Christmas-as-Saturnalia conspiracy video, implicates Russell Crowe as time-traveling demon.",
+      "canonical_name": "The Unverted",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "field correspondent",
+      "notes": "field correspondent. Reviews movie trailers from rented theater: Spaceman, Land of Bad, The Regime; claims six-month school break.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Champions Scrum over Crum, claims nuclear curse immortality, delivers 'Munch Miss' Christmas rap as real Santa.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Returns after grunge-stream reconciliation, defends opaque emotional black box, loses chat poll to Scrum narrowly.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "musical finale host",
+      "notes": "musical finale host. Rates Munch's freestyle, closes broadcast with holiday sign-off before Patreon pivot.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum back on-air after 'burying the hatchet' on grunge stream; Munch revives rivalry by introducing Scrum as replacement, chat poll runs 50/50, scoreboard updated to 83.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Munch & Crum",
+      "beat": "Scrum (one-day temp hire) becomes flashpoint; Case reveals year-long Scrum contract; Munch claims Crum's hands destroy mugs, Crum claims emotional radiation-proof black box.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Haircut shortened; blonde frosted tips nearly gone [16:35].",
+      "timestamp": "16:35",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Case hired Scrum for a year-long contract after one-day trial [1:25:08].",
+      "timestamp": "1:25:08",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Claims to be nuclearly powered by a curse, immortal, and the real Santa who rides Rudolph [1:34:35].",
+      "timestamp": "1:34:35",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Rented movie theater on three-year contract for 'Let's Go to the Movies' segment [1:06:03].",
+      "timestamp": "1:06:03",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News sprints through a holiday gauntlet: Case debuts a shorter haircut and an AI Santa Hype Train parade, Jeff Ripple covers AI porn doppelgangers while threatening a sabbatical, dual Joe Rogans pitch beehive-mailbox economies and AK-47 Christmas tree hunts, The Unverted speed-runs a Saturnalia conspiracy implicating Russell Crowe, Trent reviews trailers from a three-year theater lease, Munch installs a one-day temp (Scrum) to challenge Crum in a near-tied poll, and Munch closes with a 'Munch Miss' rap claiming nuclear-curse immortality and true Santa status — all before a hard pivot to the Patreon creamies stream.",
+  "_meta": {
+    "vod_id": "TE6TvEDz5I8",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 78139,
+    "approx_prompt_tokens": 19534,
+    "transcript_lines": 170
+  }
+}

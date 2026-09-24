@@ -92,3 +92,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[[00:45]]** ([[episodes/2023-12-18|2023-12-18]]): Performs annual Grunchmas stream as 'The Grunch,' a horny Grinch variant who maintains a Fucks List of pop culture figures.
 - **[01:54:40]** ([[episodes/2023-12-19|2023-12-19]]): Mentions being rejected for a job at Autodesk but invited to their talent community [01:54:40].
 - **[48:27]** ([[episodes/2023-12-19|2023-12-19]]): Maintains three separate Lethal Company save files [48:27].
+- **[1:06:03]** ([[episodes/2023-12-21|2023-12-21]]): Rented movie theater on three-year contract for 'Let's Go to the Movies' segment [1:06:03].
