@@ -1,0 +1,192 @@
+{
+  "segments": [
+    {
+      "start": "14:42",
+      "end": "16:19",
+      "canonical_segment": "News",
+      "title": "Cold Open & Hype Train Setup",
+      "notes": "Case Blackwell opens broadcast; Pepito identifies as dog/producer; Trip Bradstein message from Horus sets up street segment."
+    },
+    {
+      "start": "16:19",
+      "end": "52:50",
+      "canonical_segment": "Hype Train",
+      "title": "Extended Hype Train Surge",
+      "notes": "Hype Train commandeers feed for 36 minutes, reaches level 12, generates massive community sub wave; claims origin in 'cypher space'; auto-tunes Case's voice."
+    },
+    {
+      "start": "56:13",
+      "end": "1:15:02",
+      "canonical_segment": "News",
+      "title": "Drake Penis Leak Coverage",
+      "notes": "Case and Kendall analyze Drake's leaked video; debate authenticity, metric measurements, and double standards vs female celebrity leaks; chat celebrates 'big dick club.'"
+    },
+    {
+      "start": "1:17:46",
+      "end": "1:20:33",
+      "canonical_segment": "News",
+      "title": "Peter Gibbon Show Tune: Drake's Penis",
+      "notes": "Peter Gibbon delivers first mandated show tune about Drake's 'noodle' from crawlspace; Case refuses to call it a show tune."
+    },
+    {
+      "start": "1:21:05",
+      "end": "1:52:10",
+      "canonical_segment": "Trip on the Street",
+      "title": "Street Opinions: Games, Improv, Zugzwang, Detroit, Drake's Testicles, Robot Society",
+      "notes": "Trip interviews: Big Mouth Billy Bass penis faker; Ariana Venti on sister's improv addiction; Pervy Merv's 'Zugs Wayne' mental domination; Detroit the city becoming human; Drake's testicles claiming credit; penguin on Remerton conspiracy; robot preserving Drake's penis for post-apocalyptic chipset; raccoon FMK with Halloween decor."
+    },
+    {
+      "start": "1:52:40",
+      "end": "2:07:56",
+      "canonical_segment": "News",
+      "title": "Trailer Reviews with Trent",
+      "notes": "Trent reviews A Quiet Place: Day One (bugs hate whiteface), Love Lies Bleeding (Ed Harris as Cryptkeeper), Dick Turpin (Mighty Boosh actor); Trent reveals 10-minute self-reflection app therapy."
+    },
+    {
+      "start": "2:07:56",
+      "end": "2:11:28",
+      "canonical_segment": "News",
+      "title": "Peter Gibbon Show Tune: Trailer Recap",
+      "notes": "Peter sings St. Louis show tune incorporating Quiet Place, Love Lies Bleeding, and Dick Turpin; surprises with 'dick of Dick Turpin' finale."
+    },
+    {
+      "start": "2:11:28",
+      "end": "2:29:58",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: Drake's Penis vs Kevin Bacon's Penis (Hollow Man)",
+      "notes": "Munch champions Drake's 'magical toy' penis; Crum argues Bacon's 'immortalized in celluloid' penis built to last; score manipulation, death threats, Hotline Bling pun."
+    },
+    {
+      "start": "2:29:58",
+      "end": "2:32:15",
+      "canonical_segment": "News",
+      "title": "Peter Gibbon Show Tune: Kevin Bacon's Penis",
+      "notes": "Peter delivers swing-band number 'fucking you with ham products'; Case objects to explicit chorus; Peter claims elocution classes cured childhood lisp."
+    },
+    {
+      "start": "2:32:15",
+      "end": "2:33:18",
+      "canonical_segment": "News",
+      "title": "Closing & Raid to Erin Stevey",
+      "notes": "Pepito reads raid target; Case thanks subs; raid to Erin Stevey channel."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Commandeered feed for 36 minutes, hit level 12, claimed cypher space origin, auto-tuned Case.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Mandated show tunes after every segment; delivered three musical interstitials from crawlspace; revealed childhood lisp.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Debated game purchases (Stray vs Detroit: Become Human) during Drake coverage; won Fall Guys crown mid-debate.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted surreal street interviews from park; mediated Zugzwang game; facilitated Detroit's human transformation.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "correspondent",
+      "notes": "correspondent. Reviewed trailers from theater; revealed app-based self-reflection therapy; defended Ed Harris Cryptkeeper makeup.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Championed Drake's penis as 'magical toy'; threatened Crum with spirit-breaking comeback; manipulated score to 70.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued for Kevin Bacon's Hollow Man penis as 'immortalized in celluloid'; claimed Drake's penis 'shabby'; score gap narrowed to 15.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Munch & Crum Rivalry",
+      "beat": "[2024-02-07] Debate over Drake vs Kevin Bacon penis narrows score gap to 15 points; Munch threatens world-ending consequences if Crum catches up.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Peter Gibbon Show Tunes",
+      "beat": "[2024-02-07] Peter mandates post-segment show tunes; delivers three interstitials (Drake, trailers, Kevin Bacon); reveals kindergarten elocution classes for lisp.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Hype Train",
+      "fact": "Claims origin in 'cypher space — a realm of pure cypher' [20:07]",
+      "timestamp": "20:07",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Reached level 12 hype train, passed out and 'sunk back to hell' [52:50]",
+      "timestamp": "52:50",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Took elocution classes in kindergarten for severe lisp [2:26:25]",
+      "timestamp": "2:26:25",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Mandated show tune after every segment going forward [1:17:46]",
+      "timestamp": "1:17:46",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trent",
+      "fact": "Uses '10 minutes self-reflection' phone app for therapy [2:07:56]",
+      "timestamp": "2:07:56",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell's broadcast opens with a 36-minute Hype Train surge reaching level 12 and generating hundreds of subs. The news desk covers Drake's leaked penis video while Kendall debates game purchases. Trip Bradstein reports from the streets with surreal interviews including a Big Mouth Billy Bass penis faker, Detroit the city becoming human, Drake's testicles claiming structural credit, and a robot preserving Drake's penis for a post-apocalyptic society. Trent reviews trailers for A Quiet Place: Day One, Love Lies Bleeding, and Dick Turpin. Munch and Crum debate Drake's penis versus Kevin Bacon's Hollow Man penis, narrowing their score gap to 15 points. Peter Gibbon delivers three mandated show tune interstitials. The broadcast ends with a raid to Erin Stevey.",
+  "_meta": {
+    "vod_id": "2f8_nHwMAo4",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 105121,
+    "approx_prompt_tokens": 26280,
+    "transcript_lines": 231
+  }
+}

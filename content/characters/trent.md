@@ -35,6 +35,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 - First identified in [[episodes/2023-11-22|Episode 2023-11-22]].
 - **[[1:30:23]]** ([[episodes/2023-12-12|2023-12-12]]): Hosts Trailer Thursday segment under parole supervision; presents himself as cultural taste-maker.
 - **[]** ([[episodes/2024-01-13|2024-01-13]]): Claims to have made out with women on stream; has long hair from 'hooking up with ladies' [1:34:54].
+- **[2:07:56]** ([[episodes/2024-02-07|2024-02-07]]): Uses '10 minutes self-reflection' phone app for therapy [2:07:56]
 
 ## Open questions
 

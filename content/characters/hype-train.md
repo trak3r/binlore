@@ -133,3 +133,5 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[01:14:19]** ([[episodes/2026-09-04|2026-09-04]]): Rap self-description: 'puff-puff pass while I'm eating the yolk' and 'You're smoking yellow, not mellow' — establishes Hype Train persona as mixing food and weed wordplay. Also raps 'beating eggs' and 'eggs been in breath.'
 - **[01:20:13]** ([[episodes/2026-09-04|2026-09-04]]): Twitch sub acknowledgments: s1000 (42-month resub), Skymer (300 bits), Giggle Trash (community sub), Mighty Oz (100 bits), Apple to Apple (100 bits), Tamtrend, Bundle Sprout (resub), Card King (gifted sub to Swillery Hank). Establishes recurring Hype Train sub-thanking cadence.
 - **[00:45:41]** ([[episodes/2024-01-05|2024-01-05]]): [00:45:41] Manifests as 'Tim Paul' with kid-in-fluer scheme (digital child-influencer hybrids); hotecohospital.paul website returns no results.
+- **[20:07]** ([[episodes/2024-02-07|2024-02-07]]): Claims origin in 'cypher space — a realm of pure cypher' [20:07]
+- **[52:50]** ([[episodes/2024-02-07|2024-02-07]]): Reached level 12 hype train, passed out and 'sunk back to hell' [52:50]

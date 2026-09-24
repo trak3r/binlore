@@ -50,18 +50,19 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2025-06-17|2025-06-17]] | News Stowaway. |
 | [[episodes/2025-06-11|2025-06-11]] | news stowaway. |
 | [[episodes/2024-07-20|2024-07-20]] | Emerges from walls for Amongst the Web, rates videos civilly, shares catchphrase 'take that to the bank and smoke it', returns to walls on… |
+| [[episodes/2024-02-07|2024-02-07]] | news stowaway. |
 | [[episodes/2024-02-02|2024-02-02]] | news stowaway. |
 | [[episodes/2024-01-12|2024-01-12]] | news stowaway. |
 | [[episodes/2024-01-05|2024-01-05]] | news stowaway. |
 | [[episodes/2023-12-31|2023-12-31]] | news stowaway. |
 | [[episodes/2023-12-14|2023-12-14]] | news stowaway. |
-| [[episodes/2023-12-12|2023-12-12]] | news stowaway. |
 
 <details>
-<summary>Earlier appearances (1)</summary>
+<summary>Earlier appearances (2)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2023-12-12|2023-12-12]] | news stowaway. |
 | [[episodes/2023-11-22|2023-11-22]] | news stowaway. |
 
 </details>
@@ -81,3 +82,5 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 - **[[1:37:10]]** ([[episodes/2023-11-22|2023-11-22]]): Retreats from heavy political discussion by claiming he left a coffee mug in the other room [1:37:10].
 - **[[54:43]]** ([[episodes/2023-12-12|2023-12-12]]): Still residing in studio walls; emerges to discuss streaming service rebranding history; claims to work tirelessly daily.
 - **[1:50:29]** ([[episodes/2024-02-02|2024-02-02]]): [1:50:29] Peter Gibbon confirms permanent residence in studio walls; Case can smell him through drywall.
+- **[2:26:25]** ([[episodes/2024-02-07|2024-02-07]]): Took elocution classes in kindergarten for severe lisp [2:26:25]
+- **[1:17:46]** ([[episodes/2024-02-07|2024-02-07]]): Mandated show tune after every segment going forward [1:17:46]
