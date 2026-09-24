@@ -85,3 +85,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[[10:14]]** ([[episodes/2023-12-12|2023-12-12]]): Addicted to Lethal Company; playing with Ovali, Fiona, and Tim; expects two-week obsession cycle.
 - **[51:25]** ([[episodes/2023-12-13|2023-12-13]]): Confirms the broadcast is a one-day break from the regular news grind; will resume news format tomorrow. [51:25]
 - **[1:03:50]** ([[episodes/2023-12-13|2023-12-13]]): Departs early for a 'work thing' outside the network, raiding Fiona's channel on exit. [1:03:50]
+- **[]** ([[episodes/2023-12-14|2023-12-14]]): Acquired Elgato teleprompter for news desk [09:38].
+- **[]** ([[episodes/2023-12-14|2023-12-14]]): Broadcasts without pants from waist down as standard practice [35:32].

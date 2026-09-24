@@ -1,0 +1,159 @@
+{
+  "segments": [
+    {
+      "start": "08:39",
+      "end": "17:58",
+      "canonical_segment": "News",
+      "title": "Teleprompter Debut & Crumbs Miss Scheduling",
+      "notes": "Case unveils new Elgato teleprompter, negotiates Crumbs Miss holiday stream for Sunday 5pm PST/8pm EST with chat input, discusses Munch & Crum employment status."
+    },
+    {
+      "start": "17:58",
+      "end": "34:58",
+      "canonical_segment": "News",
+      "title": "Twitch Sexual Content Policy Overhaul",
+      "notes": "Case and Jeff Ripple cover Twitch's updated guidelines allowing fictionalized nudity, labeled sexual content, and twerking/pole dancing without labels; Case and Jeff test 'topless meta' on camera."
+    },
+    {
+      "start": "38:51",
+      "end": "47:14",
+      "canonical_segment": "News",
+      "title": "Steve Hog Hog Expert Consultation",
+      "notes": "Case summons 'hog expert' Steve Hog Hog to weigh in on Twitch nudity rules; Steve claims 236 teats, reveals Christmas ham suicide pact, and is dismissed as a 'capitalistic death cult' member."
+    },
+    {
+      "start": "47:14",
+      "end": "50:41",
+      "canonical_segment": "News",
+      "title": "Lethal Company Transition & Crum Cliffhanger",
+      "notes": "Case wraps to join Kendelle, John Madden, and others for Lethal Company; Crum's attendance uncertain after quit threats, Trip on the Street deferred to tomorrow."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "anchor. Debuted teleprompter, negotiated Crumbs Miss schedule, tested topless meta, summoned Steve Hog Hog, transitioned to Lethal Company.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Denied installing teleprompter, claimed time is a flat biscuit, endured Case's button-mashing demands.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-anchored Twitch policy coverage, bared chest for 'topless meta', debated hog expertise jurisdiction with Case.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Absent but heavily discussed; threatened to quit, Crumbs Miss appearance uncertain, gambling addiction referenced.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Referenced as Crum's debate rival; Case claims ownership over Crum's schedule.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Steve Hog Hog",
+      "role": "call-in guest",
+      "notes": "call-in guest. Self-proclaimed hog expert with 236 teats; advocated hog display freedom, planned Christmas ham self-sacrifice.",
+      "canonical_name": "Steve Hog Hog",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Mentioned as potential Lethal Company player; yawned at Case when asked.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Referenced in wall/crawlspace context during unionization joke.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Employment Status",
+      "beat": "[48:50] Crum threatened to quit; Case questions if Crum will appear for Crumbs Miss or ever work in this town again.",
+      "timestamp": "48:50"
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[13:36] Crumbs Miss / Grunge Miss scheduled for Sunday 5pm PST / 8pm EST as holiday event; Case suggests messy wings and green face paint dress code.",
+      "timestamp": "13:36"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Acquired Elgato teleprompter for news desk [09:38].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Broadcasts without pants from waist down as standard practice [35:32].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Steve Hog Hog",
+      "fact": "Claims 236 milk-leaking teats across body; plans willing Christmas ham sacrifice [44:33][45:39].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "Threatened to quit network; Case asserts Crum works for him [13:36][48:50].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Describes time perception as 'a flat biscuit' [13:04].",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell debuts a teleprompter and negotiates a Sunday Crumbs Miss holiday stream while covering Twitch's revised sexual content policy with Jeff Ripple, including a live 'topless meta' demonstration. The broadcast veers into absurdity with the introduction of 'hog expert' Steve Hog Hog, who claims 236 teats and a Christmas ham martyrdom fetish. The episode ends with Case departing for Lethal Company alongside Kendelle and John Madden, leaving Crum's employment status unresolved after quit threats.",
+  "_meta": {
+    "vod_id": "avYCesK1H4w",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 49300,
+    "approx_prompt_tokens": 12325,
+    "transcript_lines": 77
+  }
+}

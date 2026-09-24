@@ -54,13 +54,14 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
 | [[episodes/2024-07-20|2024-07-20]] | Appears on couch cam, sleeps through friend visit, debates smut vs no smut (concedes), wins fursona poll, declines boba after stream runs… |
-| [[episodes/2023-12-13|2023-12-13]] | in-studio contributor. |
+| [[episodes/2023-12-14|2023-12-14]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (8)</summary>
+<summary>Earlier appearances (9)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2023-12-13|2023-12-13]] | in-studio contributor. |
 | [[episodes/2023-12-12|2023-12-12]] | in-studio contributor. |
 | [[episodes/2023-12-11|2023-12-11]] | in-studio contributor. |
 | [[episodes/2023-12-06|2023-12-06]] | Makes brief on-mic appearance during the mission, demonstrating uncharacteristic bravery in the haunted facility. |
