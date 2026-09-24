@@ -1,0 +1,199 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "00:00",
+      "end": "12:54",
+      "title": "Cold Open: Kendall's Sports Reporter Bit",
+      "notes": "Kendelle opens the broadcast as a self-declared sports reporter with painted face stripes and a jersey, announces overtime work shift, interacts with chat as her 'sports reporters,' and departs for a 4 PM office job after multiple door-locking attempts."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "12:54",
+      "end": "40:24",
+      "title": "News Desk: Florida Joker vs GTA 6 & Paramount+ Rebrand",
+      "notes": "Case Blackwell and Jeff Ripple cover Lawrence Sullivan (Florida Joker) claiming Rockstar used his likeness in GTA 6 trailer, debate facial tattoo copyright and Jared Leto Joker lineage, then discuss Showtime rebranding to Paramount+ with Showtime."
+    },
+    {
+      "canonical_segment": "DJ Newsic",
+      "start": "40:24",
+      "end": "52:02",
+      "title": "DJ Newsic: Leucistic Alligator at Florida Theme Park",
+      "notes": "DJ Newsic performs an auto-tuned musical segment about a rare white alligator born at Gatorland Orlando, spiraling into a surreal ode to 'sloppy swampy Gator love' across leucistic and colored gator families."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "54:43",
+      "end": "1:10:26",
+      "title": "Peter Gibbon Interrupts: Paramount+ Deep Dive",
+      "notes": "News stowaway Peter Gibbon emerges from the walls to discuss Paramount+ with Showtime rebranding complexities, streaming service catalogs, Quibi on Roku, and Seeso shutdown while Case attempts to usher him out."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "start": "1:13:05",
+      "end": "1:26:40",
+      "title": "Munch & Crum: Rat Stuff vs Shrew Stuff",
+      "notes": "Ralph Munchcut defends rat supremacy (cheese, freedom, reproduction rates) while Leonard Crum champions the misunderstood shrew (caffeinated lifestyle, open imagination), devolving into personal harassment, 'sweet mouth' and 'daddy' roleplay, and HR complaints."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "start": "1:30:23",
+      "end": "1:49:32",
+      "title": "Trailer Thursday with Trent & Chris",
+      "notes": "Movie correspondent Trent (with parole officer Chris) reviews Alan Wake 2 live-action trailer, the failed Jonah Hill sitcom Alan Gregory, Jurassic Park survival game trailer, and Marvel's Blade game trailer, arguing over movie vs game classification."
+    },
+    {
+      "canonical_segment": "CryptoZeu$",
+      "start": "1:49:32",
+      "end": "1:52:21",
+      "title": "Lethal Company Setup & Mod Coordination",
+      "notes": "Case transitions to Lethal Company multiplayer with Fiona, Avali, Jean, and Tim, troubleshooting mod versions, Discord calls, and version mismatches while Fiona chats on her own stream."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors news desk, moderates Florida Joker and Paramount stories, hosts Munch & Crum debate, transitions to Lethal Company gaming session.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Opens broadcast as a comedic sports reporter with face paint and jersey, announces overtime work shift, struggles with door locking.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosts news desk, reads Florida Joker story, debates likeness rights and facial tattoo costs, trades cuckold porn insults with Case.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "musical correspondent",
+      "notes": "musical correspondent. Delivers auto-tuned musical segment on leucistic alligator birth, escalates into surreal 'Gator love' anthem.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Infiltrates broadcast from wall crawlspace to discuss Paramount+ rebranding, streaming service history, and Seeso/Quibi fates.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues rat superiority over shrews, engages in escalating personal harassment of Crum including 'sweet mouth' and 'daddy' roleplay.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defends shrews against Munch's rat advocacy, endures sexual harassment and 'daddy' roleplay, claims victory despite chaos.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Suggested as HR hire by Case to manage Munch and Crum's workplace harassment, claims infinite free time.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "movie correspondent",
+      "notes": "movie correspondent. Hosts Trailer Thursday segment with parole officer Chris, presents game and movie trailers, argues classifications.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "role": "parole officer",
+      "notes": "parole officer. Supervises Trent during Trailer Thursday, corrects trailer classifications, fact-checks dinosaur spit science.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum mentions 50-sub milestone for reading original children's story 'The Night Before Crum's Miss' [09:42], referencing ongoing gambling liability content.",
+      "timestamp": "09:42"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Kendelle",
+      "fact": "Works marketing/social media marketing job requiring 4 PM office attendance; refers to chat as her 'sports reporters.'",
+      "timestamp": "[07:26]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Has an original children's story titled 'The Night Before Crum's Miss' prepared for 50-sub milestone.",
+      "timestamp": "[09:42]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Addicted to Lethal Company; playing with Ovali, Fiona, and Tim; expects two-week obsession cycle.",
+      "timestamp": "[10:14]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Still residing in studio walls; emerges to discuss streaming service rebranding history; claims to work tirelessly daily.",
+      "timestamp": "[54:43]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Considered for HR role by Case to manage Munch and Crum harassment; claims to have 'nothing but time' and not understand work.",
+      "timestamp": "[1:26:40]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trent",
+      "fact": "Hosts Trailer Thursday segment under parole supervision; presents himself as cultural taste-maker.",
+      "timestamp": "[1:30:23]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns from a three-week hiatus to a chaotic broadcast: Kendelle opens as a sports reporter before leaving for her marketing job, Jeff Ripple covers the Florida Joker's GTA 6 likeness claim and Paramount+'s Showtime rebrand, DJ Newsic musicalizes a leucistic alligator birth into a swamp orgy anthem, Peter Gibbon infiltrates from the walls to dissect streaming service genealogy, Munch and Crum's rat vs shrew debate collapses into workplace sexual harassment requiring Pepito's HR intervention, and Trent hosts Trailer Thursday under parole supervision before Case transitions to Lethal Company mod troubleshooting.",
+  "_meta": {
+    "vod_id": "SUbhyRiToyQ",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 97045,
+    "approx_prompt_tokens": 24261,
+    "transcript_lines": 219
+  }
+}
