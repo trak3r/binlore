@@ -1,0 +1,206 @@
+{
+  "segments": [
+    {
+      "start": "10:20",
+      "end": "27:00",
+      "canonical_segment": "News",
+      "title": "Opening News Desk & Kendall Visit",
+      "notes": "Case opens the broadcast post-award-show, fields chat, reveals Kendall napping in the 'noups room,' and demos a Vo weak automatic scrubber brush before pivoting to news."
+    },
+    {
+      "start": "27:00",
+      "end": "45:00",
+      "canonical_segment": "News",
+      "title": "Epstein Documents with Ramon Salazar",
+      "notes": "Case summons Resident Evil's Ramon Salazar to co-anchor the unsealed Epstein court documents; Salazar reads the Independent coverage, names Trump, Clinton, Prince Andrew, Dershowitz, Lucas, Spacey, Jackson, and Hawking, then exits via trap door."
+    },
+    {
+      "start": "47:22",
+      "end": "50:22",
+      "canonical_segment": "News",
+      "title": "Pepito Wrap & Handoff to Streets",
+      "notes": "Pepito delivers a freestyle wrap at chat's request, then accepts a rap battle challenge against Trip Bradstein on location."
+    },
+    {
+      "start": "50:22",
+      "end": "58:27",
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip Hop: Pepito vs. Trip Bradstein Rap Battle",
+      "notes": "Trip Bradstein finds a 'dog freestyle beat' and trades verses with Pepito; chat supplies questions; Pepito claims orphan status and best-mom loyalty to Fiona; Trip dubs the genre 'trip hop.'"
+    },
+    {
+      "start": "59:00",
+      "end": "1:11:24",
+      "canonical_segment": "Munch & Crum",
+      "title": "Belly Button Debate: Dogs & Cats",
+      "notes": "Munch and Crum debate whether dogs and cats have belly buttons; Munch argues mammals need umbilical cords, Crum invents a 'slop shoot' egg-birth theory; chat poll gives Munch a narrow win; Crum storms off to 'take a huge screaming shit of success.'"
+    },
+    {
+      "start": "1:11:58",
+      "end": "1:24:46",
+      "canonical_segment": "Therapy",
+      "title": "Case Blackwell Therapy Session",
+      "notes": "Case visits Dr. Chath; topics include Peter Gibbon sightings, Epstein list exclusion anxiety, collaboration fears, ass-eating flexibility hypotheticals, and Liliana's absence; Dr. Chath ends with a pre-recorded sign-off."
+    },
+    {
+      "start": "1:24:46",
+      "end": "1:44:00",
+      "canonical_segment": "News",
+      "title": "At the Movies: Trailers with Trent & Chris",
+      "notes": "Parole officer Chris and movie correspondent Trent react to Saltburn, Marvel's Echo, and the public-domain horror Mickey Mouse Trap; Chris relates to Saltburn's rich-party anxiety, defends Kingpin's muscle mass, and apologizes for disrespecting low-budget directors."
+    },
+    {
+      "start": "1:44:00",
+      "end": "1:54:12",
+      "canonical_segment": "Trip on the Street",
+      "title": "Streets Wrap-Up & Raid",
+      "notes": "Pepito and Trip return for a second rap round on a 'hard dark type beat'; Pepito declares himself a 'fuck master' (redefined as sweet devotion to Fiona); Case raids Ricky Peacock with a 'Viva Pepito' message."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered a wrap, rap-battled Trip Bradstein twice on location, claimed orphan origin, and received a new emote.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued dogs and cats hatch from eggs via a 'slop shoot,' lost the belly-button poll by three votes, and fled to the bathroom claiming victory-induced bowel emergency.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defended mammalian umbilical cords, won the belly-button poll by a razor-thin margin, and mocked Crum's post-loss spiral.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Briefly appeared napping in the 'noups room,' declined to stream, and left to clean the bathtub with the new scrubber brush.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Ramon Salazar",
+      "role": "guest correspondent",
+      "notes": "guest correspondent. Resident Evil castellan co-anchored the Epstein document dump, recited associate names, and exited through a trap door.",
+      "canonical_name": "Ramon Salazar",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Hosted two street rap sessions with Pepito, coined 'trip hop,' and produced beats from the park.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Chath",
+      "role": "therapist",
+      "notes": "therapist. Conducted a chaotic session with Case, fielded chat questions, and ended with a pre-recorded 'bless up Kyle' sign-off.",
+      "canonical_name": "Dr. Chath",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Reported live from a Trump rally at the Dunskan Donuts Financial Arena after overstaying the award-show rental.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "role": "parole officer",
+      "notes": "parole officer. Supervised Trent at the movie theater, disclosed credit-card debt and ADHD, and bonded over Kingpin's musculature.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "movie correspondent",
+      "notes": "movie correspondent. Presented trailers for Saltburn, Echo, and Mickey Mouse Trap from the theater.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum's gambling-addiction arc not directly advanced, but his 'slop shoot' biology invention and narrow poll loss reinforce his pattern of humiliating defeats.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Kendelle",
+      "fact": "Has a dedicated 'noups room' (news + naps) in the studio where she sleeps during broadcasts. [14:48]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Claims to have been born from an egg via 'sloop shoot' and identifies as an orphan; declares Fiona his 'best mommy' despite Trip's skepticism. [54:42]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trip Bradstein",
+      "fact": "Coined the genre 'trip hop' for his street rap segments. [1:45:47]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Plans to move to a new house with a separate office around February 2024, enabling longer streams without disturbing Kendall. [20:48]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Murder mystery stream (with Fianna and Kevin) remains planned over a year later; Case cites time, money, scheduling, and 'lube' as hurdles. [24:29]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "New Pepito emote saved and ready for upload. [1:21:04]",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns from the award show to a chaotic news night: Kendall demos a scrubber brush in the 'noups room,' Ramon Salazar materializes to read the unsealed Epstein documents, and Pepito engages in two rap battles with Trip Bradstein on the streets. Munch edges Crum in a belly-button poll, prompting Crum's theatrical victory shit, while Case's therapy session veers into ass-eating hypotheticals. The broadcast closes with trailer reactions at the movies and a raid on Ricky Peacock.",
+  "_meta": {
+    "vod_id": "yHz1R0hOixg",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 94640,
+    "approx_prompt_tokens": 23660,
+    "transcript_lines": 183
+  }
+}

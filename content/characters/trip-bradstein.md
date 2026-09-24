@@ -42,6 +42,7 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 | [[episodes/2025-06-11|2025-06-11]] | field correspondent. |
 | [[episodes/2025-06-02|2025-06-02]] | field correspondent. |
 | [[episodes/2024-07-20|2024-07-20]] | Rapid-fire street debates from park bushes, settles all via coin flip, loses majority, refuses to leave streets, interacts with bread man,… |
+| [[episodes/2024-01-05|2024-01-05]] | field correspondent. |
 | [[episodes/2023-12-31|2023-12-31]] | field correspondent. |
 | [[episodes/2023-12-16|2023-12-16]] | field correspondent. |
 | [[episodes/2023-12-12|2023-12-12]] | field correspondent. |
@@ -55,3 +56,4 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 - **[]** ([[episodes/2025-06-11|2025-06-11]]): Trip Bradstein's ska band covered mariachi songs ska-style; former bandmate Mitchell died in a bus accident but is kept alive by 'the power of ska.' [3:28:31]
 - **[]** ([[episodes/2025-06-24|2025-06-24]]): [02:52:28] Keeps a computer in his bush; claims to be landlord of the bush he claimed.
 - **[01:53:15]** ([[episodes/2025-06-28|2025-06-28]]): [01:53:15] Implemented 10-minute cooldown on !trip command per person.
+- **[]** ([[episodes/2024-01-05|2024-01-05]]): Coined the genre 'trip hop' for his street rap segments. [1:45:47]

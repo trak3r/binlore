@@ -61,7 +61,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (15)</summary>
+<summary>Earlier appearances (16)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -72,6 +72,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
 | [[episodes/2025-06-02|2025-06-02]] | executive producer. |
+| [[episodes/2024-01-05|2024-01-05]] | executive producer. |
 | [[episodes/2023-12-31|2023-12-31]] | executive producer. |
 | [[episodes/2023-12-30|2023-12-30]] | executive producer. |
 | [[episodes/2023-12-18|2023-12-18]] | executive producer. |
@@ -128,3 +129,5 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[[02:08:00]]** ([[episodes/2023-12-18|2023-12-18]]): Confirmed neutered; owner is Fiona Nova; wears a Christmas jean coat and gets green paint in his eyes.
 - **[]** ([[episodes/2023-12-30|2023-12-30]]): Attends therapy as dog patient with Dr. Chath's son (animal therapist wearing DJ Newsic sunglasses) [51:30]. Claims pregnancy with lucky street dog [58:40].
 - **[[3:23:59]]** ([[episodes/2023-12-31|2023-12-31]]): Receives Lifetime Achievement Award; Fiona sends voice memo confirming she will pick him up and calling him 'my dog.'
+- **[]** ([[episodes/2024-01-05|2024-01-05]]): Claims to have been born from an egg via 'sloop shoot' and identifies as an orphan; declares Fiona his 'best mommy' despite Trip's skepticism. [54:42]
+- **[]** ([[episodes/2024-01-05|2024-01-05]]): New Pepito emote saved and ready for upload. [1:21:04]
