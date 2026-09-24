@@ -61,7 +61,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (11)</summary>
+<summary>Earlier appearances (12)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -72,6 +72,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
 | [[episodes/2025-06-02|2025-06-02]] | executive producer. |
+| [[episodes/2023-12-16|2023-12-16]] | executive producer. |
 | [[episodes/2023-12-14|2023-12-14]] | executive producer. |
 | [[episodes/2023-12-12|2023-12-12]] | executive producer. |
 | [[episodes/2023-12-08|2023-12-08]] | executive producer. |
@@ -120,3 +121,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[[31:59]]** ([[episodes/2023-12-08|2023-12-08]]): Officially named on-air as the dog/executive producer; previously unnamed.
 - **[[1:26:40]]** ([[episodes/2023-12-12|2023-12-12]]): Considered for HR role by Case to manage Munch and Crum harassment; claims to have 'nothing but time' and not understand work.
 - **[]** ([[episodes/2023-12-14|2023-12-14]]): Describes time perception as 'a flat biscuit' [13:04].
+- **[137:00]** ([[episodes/2023-12-16|2023-12-16]]): [137:00] Voted permanent producer via chat poll (New Keep / Permanent Consulting Producer); legally obligated to no longer be terminated.

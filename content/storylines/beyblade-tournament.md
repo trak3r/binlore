@@ -40,6 +40,7 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 | [[../episodes/2023-12-02|2023-12-02]] [31:24] | [31:24] Hype Train references Crum's Beyblade win ('he got smashed with the crumb wins') and Beyblade song on Munch & Crum tab. |
 | [[../episodes/2023-12-12|2023-12-12]] [02:57:46] | Munch plays the Beyblade Tournament theme song during Munch & Crum, signaling the community-pledge event remains active. |
 | [[../episodes/2023-12-14|2023-12-14]] [13:36] | [13:36] Crumbs Miss / Grunge Miss scheduled for Sunday 5pm PST / 8pm EST as holiday event; Case suggests messy wings and green face paint dress code. |
+| [[../episodes/2023-12-16|2023-12-16]] | [137:00] Sunday 7pm 'Grunch Miss' stream announced for Beyblade 2v2 event; Case and Kendall may appear; green body paint required. |
 | [[../episodes/2025-05-30|2025-05-30]] [39:25] | Munch references past Beyblade episodes during debate count banter. [39:25] |
 | [[../episodes/2025-06-02|2025-06-02]] [31:49] | [31:49] Case references pending Beyblade event possibly still 'inside the Papal Binclave'; no further advancement this episode. |
 | [[../episodes/2025-06-17|2025-06-17]] | [2025-06-17] Referenced as pending community-pledge event; no progress shown this episode. |

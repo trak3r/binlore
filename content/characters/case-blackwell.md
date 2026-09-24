@@ -88,3 +88,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[]** ([[episodes/2023-12-14|2023-12-14]]): Acquired Elgato teleprompter for news desk [09:38].
 - **[]** ([[episodes/2023-12-14|2023-12-14]]): Broadcasts without pants from waist down as standard practice [35:32].
 - **[04:53:09]** ([[episodes/2023-12-15|2023-12-15]]): Hosted a 5+ hour Lethal Company marathon with a 16-player modded lobby, culminating in teleporter purchase and successful quota clearance on final moon. [04:53:09]
+- **[39:39]** ([[episodes/2023-12-16|2023-12-16]]): [39:39] Read Twitch's official statement rolling back artistic nudity policy effective 2023-12-16; digital depictions of nudity banned regardless of medium.

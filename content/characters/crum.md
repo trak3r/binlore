@@ -58,7 +58,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (19)</summary>
+<summary>Earlier appearances (20)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -74,6 +74,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
 | [[episodes/2024-07-20|2024-07-20]] | Loses wiki feet, wins wife verification, sweet vs salty, Alien vs Predator, carnivore diet, gold vs porcelain teeth, orphan meat, spoon vs… |
+| [[episodes/2023-12-16|2023-12-16]] | debate analyst. |
 | [[episodes/2023-12-14|2023-12-14]] | debate analyst. |
 | [[episodes/2023-12-12|2023-12-12]] | debate analyst. |
 | [[episodes/2023-12-08|2023-12-08]] | debate analyst. |
@@ -166,3 +167,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[[38:22]]** ([[episodes/2023-12-08|2023-12-08]]): Claims hand game strength: can crush a golf ball and snap own penis in half; asserts 'super strength in spits'.
 - **[[09:42]]** ([[episodes/2023-12-12|2023-12-12]]): Has an original children's story titled 'The Night Before Crum's Miss' prepared for 50-sub milestone.
 - **[]** ([[episodes/2023-12-14|2023-12-14]]): Threatened to quit network; Case asserts Crum works for him [13:36][48:50].
+- **[101:00]** ([[episodes/2023-12-16|2023-12-16]]): [101:00] Claimed to have quit network; appeared as 'Eugene Scrum' with different graphics; returned by end of show for keys.

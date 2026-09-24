@@ -1,0 +1,181 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Discord Outage & Topless Policy Debate",
+      "start": "00:00",
+      "end": "23:00",
+      "notes": "Case opens broadcast discussing Discord server issues and debates Twitch's topless policy double standards with chat."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Biscord Interview: Discord PR Response",
+      "start": "23:00",
+      "end": "32:00",
+      "notes": "Pepito connects Case with 'Biscord' (Dronovan), Discord's PR representative, who denies outage issues and announces AI bot return."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Fucks List & Twitch Nudity Rollback",
+      "start": "32:00",
+      "end": "51:00",
+      "notes": "Case reviews the 400+ entry Fucks List; reads Twitch's official statement rolling back artistic nudity policy effective today."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip on the Street: Erotic Opinions",
+      "start": "51:00",
+      "end": "77:00",
+      "notes": "Trip Bradstein interviews park denizens about erotic fighting, Venus fly trap encounters, hentai, time travel, and 9/11 warnings."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Conspiracy Time: Michael Jackson's Voice & Nipple Racism",
+      "start": "77:00",
+      "end": "101:00",
+      "notes": "Case investigates YouTube videos claiming Michael Jackson's real voice was deeper, and a Japanese commercial suggesting nipples are racist."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Boobs on Twitch Debate",
+      "start": "101:00",
+      "end": "118:00",
+      "notes": "Munch debates 'Eugene Scrum' (Crum in disguise) about Twitch nudity; Crum refuses to take the con position, Munch declares victory."
+    },
+    {
+      "canonical_segment": "Trent at the Movies",
+      "title": "Trent at the Movies: Three Trailers",
+      "start": "118:00",
+      "end": "137:00",
+      "notes": "Trent reviews trailers for The American Society of Magical Negroes, IF (Ryan Reynolds), and Ballistic: Ecks vs Sever (1990s)."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Closing: Pepito Poll & Raid",
+      "start": "137:00",
+      "end": "149:00",
+      "notes": "Crum returns for keys; Pepito voted permanent producer; raid to Dank Sauce with Grunch Miss Sunday announcement."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored broadcast covering Discord outage, Twitch nudity rollback, conspiracy theories, and trailers; moderated Munch & Crum debate.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Connected Case to Biscord; voted permanent producer via dog poll; demanded scraps raise.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through studio; discussed Twitch nudity meta and nipple color theory; agreed to Sunday Grunch Miss stream.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Biscord (Dronovan)",
+      "role": "call-in guest",
+      "notes": "call-in guest. Discord PR spokesperson who denied outages, announced AI bot return, and claimed Discord kittens don't exist.",
+      "canonical_name": "Biscord (Dronovan)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted street interviews on erotic fighting, hentai, time travel, and 9/11 from park bushes.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated 'Eugene Scrum' on Twitch nudity; declared victory when Crum refused to oppose boobs; sang 'Fat Bottom Girls'.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Pretended to be 'Eugene Scrum' to avoid debating; agreed with Munch on boobs; returned for keys and contract discussion.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "correspondent",
+      "notes": "correspondent. Hosted Trent at the Movies segment reviewing three trailers including Ryan Reynolds' IF and 90s Ballistic: Ecks vs Sever.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[101:00] Crum claims to have quit the network and appears as 'Eugene Scrum' to avoid debating Munch, but returns by end of broadcast for keys and contract talk.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[137:00] Sunday 7pm 'Grunch Miss' stream announced for Beyblade 2v2 event; Case and Kendall may appear; green body paint required.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "[39:39] Read Twitch's official statement rolling back artistic nudity policy effective 2023-12-16; digital depictions of nudity banned regardless of medium.",
+      "timestamp": "39:39",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "[137:00] Voted permanent producer via chat poll (New Keep / Permanent Consulting Producer); legally obligated to no longer be terminated.",
+      "timestamp": "137:00",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "[101:00] Claimed to have quit network; appeared as 'Eugene Scrum' with different graphics; returned by end of show for keys.",
+      "timestamp": "101:00",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "[137:00] May appear Sunday for Grunch Miss Beyblade stream; agreed to 'fucks list' participation.",
+      "timestamp": "137:00",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered Discord's server outage and Twitch's same-day rollback of its artistic nudity policy after AI-generated deepfake concerns. Trip Bradstein canvassed park opinions on erotic fighting and hentai, while conspiracy time examined Michael Jackson's alleged deeper voice and a Japanese milk commercial implying nipple racism. Munch debated a disguised Crum ('Eugene Scrum') on Twitch nudity, declaring victory when Crum refused the con position. Trent reviewed three trailers, and Pepito was voted permanent producer before a raid to Dank Sauce.",
+  "_meta": {
+    "vod_id": "U4Sm2UnvH2c",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 114575,
+    "approx_prompt_tokens": 28643,
+    "transcript_lines": 241
+  }
+}
