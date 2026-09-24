@@ -1,0 +1,89 @@
+{
+  "segments": [
+    {
+      "start": "14:59",
+      "end": "44:00",
+      "canonical_segment": "News",
+      "title": "Great Lethal Off: Pre-Match Hype & Technical Setup",
+      "notes": "Case Blackwell opens the broadcast in full competitive fervor, assembling the Cream Team (Exterminator, Kassem G, Fiona Nova) for a 4v4 Lethal Company showdown against Show Boba's; Kassem's mod installation issues delay practice."
+    },
+    {
+      "start": "44:00",
+      "end": "1:07:00",
+      "canonical_segment": "News",
+      "title": "Great Lethal Off: Practice Runs & Rules Negotiation",
+      "notes": "Cream Team runs vanilla practice rounds to learn turret patterns and fire-exit routing; a Discord call with Show Boba's (Gina Darling, Avali May, Ian, Razz) establishes 90-minute vanilla rules, screenshot scoring, and podcast-appearance stakes."
+    },
+    {
+      "start": "1:07:00",
+      "end": "3:00:00",
+      "canonical_segment": "News",
+      "title": "Great Lethal Off: Live Tournament Gameplay",
+      "notes": "Two lobbies compete simultaneously; Cream Team prioritizes rapid planet-hopping and entrance-loot efficiency while Show Boba's struggles with turret deaths and Razz's mid-match power outage; Case anchors comms from the ship."
+    },
+    {
+      "start": "3:00:00",
+      "end": "3:22:00",
+      "canonical_segment": "News",
+      "title": "Great Lethal Off: Score Verification & Victory",
+      "notes": "Chaotic post-match math session across Discords yields Cream Team 4,087 vs Show Boba's 3,883; Gina Darling concedes, jokingly disbands Show Boba's podcast rather than host Fiona Nova per wager terms."
+    },
+    {
+      "start": "3:22:00",
+      "end": "5:17:00",
+      "canonical_segment": "News",
+      "title": "Great Lethal Off: Modded Victory Lap",
+      "notes": "Case re-enables mods (Goku Bracken, jump-fix) for casual community play; Kendelle joins, recounts sister's physical disdain for Case, and the crew decks out the ship before a raid send-off."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors the Great Lethal Off from the newsroom desk, captains the Cream Team to a narrow vanilla Lethal Company victory over Show Boba's.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Joins the post-victory modded session, reveals her sister once choked Case and tripped him into a brick wall.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Kendelle's sister has a history of physical aggression toward Case (choking, tripping into brick wall).",
+      "timestamp": "[3:26:48]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case filmed Turbo Tax segments at Santa Monica Pier, encountering language-barrier rejections.",
+      "timestamp": "[3:30:24]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Show Boba's podcast kayfabe-dissolved after losing the wager rather than host Fiona Nova.",
+      "timestamp": "[3:21:36]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors the Great Lethal Off, a 90-minute vanilla Lethal Company tournament where the Cream Team edges Show Boba's 4,087 to 3,883 after a frantic screenshot audit. The loss triggers a kayfabe shutdown of the Show Boba's podcast, and the broadcast closes with a modded victory lap featuring Kendelle and community regulars.",
+  "_meta": {
+    "vod_id": "Rc2Qh2cwt7s",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 194917,
+    "approx_prompt_tokens": 48729,
+    "transcript_lines": 528
+  }
+}
