@@ -1,0 +1,89 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "16:00",
+      "canonical_segment": "News",
+      "title": "Pre-Broadcast Systems Check & Lobby Configuration",
+      "notes": "Anchor Case Blackwell initializes Lethal Company session with extended lobby mods; Kendelle present in-studio; technical discussion of Thunderstore mod pipeline and coil-head/weeping-angel variant."
+    },
+    {
+      "start": "16:00",
+      "end": "60:00",
+      "canonical_segment": "News",
+      "title": "First Quota Cycle — Titan & Experimental Moons",
+      "notes": "Crew completes initial scrap runs on Titan; learns nutcracker and coil-head threat patterns; secures first 1,000-credit quota; discovers shower apparatus and radiation mechanics."
+    },
+    {
+      "start": "60:00",
+      "end": "120:00",
+      "canonical_segment": "News",
+      "title": "Mid-Session Quota Push — High-Value Recovery & Freestyle Derailment",
+      "notes": "Blackwell attempts freestyle rap during scavenging; crew hits 1,700+ credits; experiments with inverse teleporter and radar boosters; multiple coil-head wipes on eclipsed moons."
+    },
+    {
+      "start": "120:00",
+      "end": "180:00",
+      "canonical_segment": "News",
+      "title": "Eclipse Moon Gauntlet & Personal Logistics Sidebar",
+      "notes": "Blackwell discusses upcoming relocation, office couch acquisition, and brother's prospective PC build during downtime; crew survives bracken/jack-in-the-box gauntlet; peaks at 2,231 credits."
+    },
+    {
+      "start": "180:00",
+      "end": "202:04",
+      "canonical_segment": "News",
+      "title": "Final Inverse-Teleport YOLO Run & Sign-Off",
+      "notes": "Full crew inverse-teleports into flooded Dine moon; rapid wipe; Blackwell raids Radium V with tomb-looting directive; confirms return to news format tomorrow."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored three-hour Lethal Company marathon from newsroom desk; managed lobby mods, quota strategy, and freestyle interludes.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Co-piloted scavenging runs via Discord; managed teleporter recalls; provided in-studio commentary and scream alerts.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Confirmed impending relocation; new streaming office will accommodate a couch; brother may acquire PC for co-op play.",
+      "timestamp": "[02:45:52]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "States intent to resume standard news broadcast format tomorrow after extended Lethal Company hiatus.",
+      "timestamp": "[03:21:31]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Gifted Blackwell a foot massager for Christmas; operates as in-studio co-pilot during extended gaming broadcasts.",
+      "timestamp": "[07:39]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Anchor Case Blackwell suspended standard news operations for an extended Lethal Company session, fielding a rotating crew of remote operatives and in-studio contributor Kendelle across multiple quota cycles. The broadcast peaked at 2,231 credits before a final inverse-teleport yolo run on a flooded eclipse moon resulted in total crew wipe. Blackwell confirmed return to news desk tomorrow and disclosed impending studio relocation.",
+  "_meta": {
+    "vod_id": "2BQcxy1GwQ0",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 93097,
+    "approx_prompt_tokens": 23274,
+    "transcript_lines": 286
+  }
+}

@@ -54,13 +54,14 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
 | [[episodes/2024-07-20|2024-07-20]] | Appears on couch cam, sleeps through friend visit, debates smut vs no smut (concedes), wins fursona poll, declines boba after stream runs… |
-| [[episodes/2024-01-03|2024-01-03]] | in-studio contributor. |
+| [[episodes/2024-01-04|2024-01-04]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (17)</summary>
+<summary>Earlier appearances (18)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-01-03|2024-01-03]] | in-studio contributor. |
 | [[episodes/2023-12-31|2023-12-31]] | in-studio contributor. |
 | [[episodes/2023-12-29|2023-12-29]] | in-studio contributor. |
 | [[episodes/2023-12-27|2023-12-27]] | in-studio contributor. |
@@ -102,3 +103,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[137:00]** ([[episodes/2023-12-16|2023-12-16]]): [137:00] May appear Sunday for Grunch Miss Beyblade stream; agreed to 'fucks list' participation.
 - **[15:48]** ([[episodes/2023-12-19|2023-12-19]]): Reports waking up at 9 p.m. and adjusting to night-time lighting setup [15:48].
 - **[16:08]** ([[episodes/2023-12-29|2023-12-29]]): Kendelle reveals her mother's pug gave birth at 10 months old, impregnated by its biological father, and accidentally smothered a puppy.
+- **[[07:39]]** ([[episodes/2024-01-04|2024-01-04]]): Gifted Blackwell a foot massager for Christmas; operates as in-studio co-pilot during extended gaming broadcasts.

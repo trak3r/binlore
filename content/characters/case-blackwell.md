@@ -96,3 +96,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[03:37:55]** ([[episodes/2023-12-29|2023-12-29]]): Case Blackwell confirms New Year's Eve broadcast scheduled for Sunday mid-afternoon, prioritizing schedules of major subscribers CV loves you and tamtrant.
 - **[[3:20:52]]** ([[episodes/2023-12-31|2023-12-31]]): Wins Best Host of the Network via multi-poll tournament; admits 'you start a news network to win an award... you make an award show and give it to yourself.'
 - **[04:28:59]** ([[episodes/2024-01-02|2024-01-02]]): Case Blackwell proposes to Kendelle on live broadcast; she accepts.
+- **[[02:45:52]]** ([[episodes/2024-01-04|2024-01-04]]): Confirmed impending relocation; new streaming office will accommodate a couch; brother may acquire PC for co-op play.
+- **[[03:21:31]]** ([[episodes/2024-01-04|2024-01-04]]): States intent to resume standard news broadcast format tomorrow after extended Lethal Company hiatus.
