@@ -4,7 +4,7 @@ type: character
 aliases:
   - Peter G.
   - Peter
-first_seen: 2024-07-20
+first_seen: 2023-11-22
 status: news stowaway
 tags:
   - character
@@ -50,6 +50,7 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2025-06-17|2025-06-17]] | News Stowaway. |
 | [[episodes/2025-06-11|2025-06-11]] | news stowaway. |
 | [[episodes/2024-07-20|2024-07-20]] | Emerges from walls for Amongst the Web, rates videos civilly, shares catchphrase 'take that to the bank and smoke it', returns to walls on… |
+| [[episodes/2023-11-22|2023-11-22]] | news stowaway. |
 
 ## Notable moments
 
@@ -63,3 +64,4 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 - **[01:49:35]** ([[episodes/2025-06-17|2025-06-17]]): Peter Gibbon claims to be '427 rats in a man suit'.
 - **[]** ([[episodes/2025-06-11|2025-06-11]]): Peter Gibbon's lawyer struggles with object permanence, sometimes forgetting Peter exists. [2:30:56]
 - **[01:20:48]** ([[episodes/2025-06-28|2025-06-28]]): [01:20:48] Has internet in the wall; runs OnlyFans subscriptions on company credit card.
+- **[[1:37:10]]** ([[episodes/2023-11-22|2023-11-22]]): Retreats from heavy political discussion by claiming he left a coffee mug in the other room [1:37:10].

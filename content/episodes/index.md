@@ -22,11 +22,11 @@ Complete stream archive tracked for *Barely Informed News*. Episodes are ingeste
     <div class="stat-label">Total Broadcast Lore</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">53</div>
+    <div class="stat-value">54</div>
     <div class="stat-label">Ingested & Extracted</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">323</div>
+    <div class="stat-value">322</div>
     <div class="stat-label">Pending Ingestion Backlog</div>
   </div>
 </div>
@@ -44,8 +44,8 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   <div class="filter-group">
     <select id="status-filter">
       <option value="all">All Statuses (376)</option>
-      <option value="ingested">Ingested Only (53)</option>
-      <option value="backlog">Backlog Only (323)</option>
+      <option value="ingested">Ingested Only (54)</option>
+      <option value="backlog">Backlog Only (322)</option>
     </select>
     <select id="page-size">
       <option value="25">25 per page</option>
@@ -444,7 +444,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
 <tr data-status="backlog" data-title="lethal cream company" data-date="2023-11-30" data-vod-id="vhjv_2bvwlc" style="display: none;"><td class="cell-date"><code>2023-11-30</code></td><td class="cell-title">Lethal Cream Company</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">Vhjv_2bvwlc</code></td><td class="cell-dur">1:47:14</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=Vhjv_2bvwlc" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="ai articles attack, frozen dicks freeze, disney streaks, it's news supposedly" data-date="2023-11-28" data-vod-id="sfj6yhasl1w" style="display: none;"><td class="cell-date"><code>2023-11-28</code></td><td class="cell-title">AI Articles Attack, Frozen Dicks Freeze, Disney Streaks, it's NEWS supposedly</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">SFJ6YhAsL1w</code></td><td class="cell-dur">2:12:56</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=SFJ6YhAsL1w" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="macy's day parade - live! (probably" data-date="2023-11-23" data-vod-id="lwcsz959nly" style="display: none;"><td class="cell-date"><code>2023-11-23</code></td><td class="cell-title">Macy's Day Parade - LIVE! (probably</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">LWcsZ959nlY</code></td><td class="cell-dur">2:14:21</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=LWcsZ959nlY" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
-<tr data-status="backlog" data-title="open relationship ai, taco bell sex parties, endless hangovers, it's news maybe" data-date="2023-11-22" data-vod-id="jbmse_4v_te" style="display: none;"><td class="cell-date"><code>2023-11-22</code></td><td class="cell-title">Open Relationship AI, Taco Bell Sex Parties, Endless Hangovers, it's NEWS maybe</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">jbMSE_4v_TE</code></td><td class="cell-dur">2:15:27</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=jbMSE_4v_TE" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
+<tr data-status="ingested" data-title="open relationship ai, taco bell sex parties, endless hangovers, it's news maybe" data-date="2023-11-22" data-vod-id="jbmse_4v_te" style="display: none;"><td class="cell-date"><code>2023-11-22</code></td><td class="cell-title"><a href="./2023-11-22" class="internal"><strong>Open Relationship AI, Taco Bell Sex Parties, Endless Hangovers, it's NEWS maybe</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">jbMSE_4v_TE</code></td><td class="cell-dur">2:15:27</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=jbMSE_4v_TE" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
   </tbody>
 </table>
 </div>

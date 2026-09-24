@@ -1,0 +1,200 @@
+{
+  "segments": [
+    {
+      "start": "15:29",
+      "end": "24:46",
+      "canonical_segment": "News",
+      "title": "Multi-Platform Opening & Hype Train Malfunction",
+      "notes": "Case opens on multiple platforms simultaneously; Hype Train triggers but music fails, completing at level 2 before Case cuts it off; subscription acknowledgments for Dr. Cool, Be Grendel, CV Loves You, Tam Tran, and others."
+    },
+    {
+      "start": "24:46",
+      "end": "48:03",
+      "canonical_segment": "News",
+      "title": "Taco Bell Sex Party Lawsuit & Snoop Dogg Stove Ad",
+      "notes": "Jeff Ripple joins to cover former Taco Bell employee Alana Beacham's lawsuit alleging a Christmas party with covered windows/cameras devolved into open sex, vomiting into guacamole bowl, and retaliation; brief Snoop Dogg Solo Stove ad diversion; avocado call-in guest describes trauma of witnessing orgy and being vomited into."
+    },
+    {
+      "start": "48:03",
+      "end": "50:49",
+      "canonical_segment": "News",
+      "title": "Post-Avocado De-Hornying & Macy's Parade Preview",
+      "notes": "Case attempts to de-horny the stream after avocado interview; announces Thanksgiving Macy's Day parade stream with Kendall tomorrow at 8 AM PT; mentions possible special guest Tim Lamb."
+    },
+    {
+      "start": "50:49",
+      "end": "1:13:37",
+      "canonical_segment": "Amongst the Web",
+      "title": "Trent at the Movies: Sonic, Bunhofer, Good Burger 2, Imaginary",
+      "notes": "Trent (with parole officer Chris) reviews trailers: Sonic Dream Team mobile game, Bunhofer (Dietrich Bonhoeffer biopic mistaken for ass-sniffing film), Good Burger 2 (skip), Imaginary (scary teddy bear horror); Trent interviews haunted bear in green room."
+    },
+    {
+      "start": "1:13:37",
+      "end": "1:15:41",
+      "canonical_segment": "News",
+      "title": "Bin Bear Appearance & Greg T U 15-Stream Streak",
+      "notes": "Bin Bear (sex bear mascot) appears for Greg T U's 15-stream streak achievement; Case clarifies bear is a coworker, not imaginary friend."
+    },
+    {
+      "start": "1:15:41",
+      "end": "1:49:34",
+      "canonical_segment": "News",
+      "title": "Peter Gibbon on Hollywood Israel Divisions",
+      "notes": "Peter Gibbon sneaks onto desk to discuss Hollywood Reporter article on agency divisions over Israel-Gaza: WME/CAA personnel moves, Melissa Barrera firing, Susan Sarandon dropped, Tom Cruise backing Maha Dakhil, genocide terminology debates; Peter retreats when conversation gets too heavy."
+    },
+    {
+      "start": "1:49:34",
+      "end": "2:02:43",
+      "canonical_segment": "Munch & Crum",
+      "title": "Turkey vs Bald Eagle National Bird Debate",
+      "notes": "Munch argues for bald eagle (raw masculinity, patriotism, 'gain six inches of raw dick'); Crum argues for turkey (consumption culture, family values, pack aggression, owed respect for 200 years of eating them); Munch claims 20-point lead in debate score, threatens defection to 'Munchtopia' if turkey wins."
+    },
+    {
+      "start": "2:02:43",
+      "end": "2:15:05",
+      "canonical_segment": "DJ Newsic",
+      "title": "Turkinheimer PSA & Thanksgiving Freestyle",
+      "notes": "DJ Newsic covers Consumer Product Safety Commission's musical turkey-frying PSA 'Turkinheimer'; improvises auto-tuned song about deep-fried turkey deaths and turkey pride; ends stream with roll call and raid to Bruce Greene."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors multi-platform broadcast; manages Hype Train malfunction; covers Taco Bell lawsuit, Hollywood Israel story, and furniture shopping plans.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "senior news mouth",
+      "notes": "senior news mouth. Delivers Taco Bell sex party lawsuit coverage; issues retraction on vomiting timeline; interviews traumatized avocado; debuts new catchphrase attempt.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Triggers at level 2 with broken music; delivers anti-serotonin manifesto before Case cuts feed; completes and goes to sleep.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "movie correspondent",
+      "notes": "movie correspondent. Hosts Trent at the Movies from personal theater; reviews trailers under community service sentence; interviews haunted bear in green room.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "role": "parole officer",
+      "notes": "parole officer. Supervises Trent's community service; provides gameplay footage for Sonic Dream Team; discusses youth camp bear safety protocols.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Sneaks onto desk to discuss Hollywood Israel divisions; retreats when conversation gets too heavy; mentions leaving coffee mug as excuse.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues for bald eagle as national bird; claims 20-point debate lead over Crum; threatens mass defection to Munchtopia if turkey wins.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues for turkey as national bird citing consumption culture and pack aggression; trails Munch by 20 points in debate score.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Avocado",
+      "role": "call-in guest",
+      "notes": "call-in guest. Describes trauma of witnessing Taco Bell orgy and being vomited into; complains of rotting and requests mashing within 24 hours.",
+      "canonical_name": "Avocado",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Bear",
+      "role": "interview subject",
+      "notes": "interview subject. Haunted teddy bear in green room; evades Trent's questions with cryptic acting advice; causes Trent to flee in terror.",
+      "canonical_name": "Bear",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "Beyblade song played during Munch & Crum poll setup [1:53:50], indicating ongoing community pledge.",
+      "timestamp": "1:53:50"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Now streaming simultaneously on Twitch, YouTube, TikTok (pending 1k followers), and Twitter/X [15:29].",
+      "timestamp": "[15:29]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Confirmed for Thanksgiving Macy's Day parade co-stream tomorrow at 8 AM PT with possible guest Tim Lamb [16:03, 48:37].",
+      "timestamp": "[16:03]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Retreats from heavy political discussion by claiming he left a coffee mug in the other room [1:37:10].",
+      "timestamp": "[1:37:10]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch",
+      "fact": "Claims 20-point lead in debate score over Crum; threatens east/west coast defection to Munchtopia if turkey becomes national bird [1:57:35].",
+      "timestamp": "[1:57:35]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "DJ Newsic",
+      "fact": "Penis catches fire during sign-off (recurring gag) [2:12:19].",
+      "timestamp": "[2:12:19]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a multi-platform broadcast covering a Taco Bell Christmas party lawsuit involving open sex and guacamole contamination, then transitions to Trent at the Movies reviewing trailers including a haunted bear interview. Peter Gibbon sneaks onto the desk to discuss Hollywood agency divisions over Israel-Gaza before retreating. Munch and Crum debate turkey versus bald eagle as national bird, with Munch claiming a 20-point lead. DJ Newsic closes with a musical take on the CPSC's 'Turkinheimer' turkey-frying safety PSA and raids Bruce Greene.",
+  "_meta": {
+    "vod_id": "jbMSE_4v_TE",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 114899,
+    "approx_prompt_tokens": 28724,
+    "transcript_lines": 218
+  }
+}

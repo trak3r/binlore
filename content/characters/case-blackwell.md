@@ -3,7 +3,7 @@ title: Case Blackwell
 type: character
 aliases:
   - Case
-first_seen: 2024-07-20
+first_seen: 2023-11-22
 tags:
   - character
   - host
@@ -76,3 +76,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[42:46]** ([[episodes/2026-09-04|2026-09-04]]): On AI prompting: 'the sweet spot is like three sentences' for getting AI image generation to deliver — established professional opinion on AI tools. Also references working 'a job where I was generating AI role for a guy' (one of his 'coolest jobs ever').
 - **[40:02]** ([[episodes/2026-09-04|2026-09-04]]): Personal lore: Case names his hypothetical personal AI 'Tane' (rather than Alexa/Cortana), jokes 'if I ever have to get an AI I'm definitely naming it Tane.' Also mentions using 'angled buckets' for aging-related efficient urination, and owning smart windows that open/close on voice command.
 - **[]** ([[episodes/2025-06-24|2025-06-24]]): [41:05] Voice deepening described as 'next level puberty' despite being past his 20s.
+- **[[15:29]]** ([[episodes/2023-11-22|2023-11-22]]): Now streaming simultaneously on Twitch, YouTube, TikTok (pending 1k followers), and Twitter/X [15:29].

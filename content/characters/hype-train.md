@@ -3,7 +3,7 @@ title: Hype Train
 type: character
 aliases:
   - Hyper Train
-first_seen: 2025-05-27
+first_seen: 2023-11-22
 status: recurring
 tags:
   - character

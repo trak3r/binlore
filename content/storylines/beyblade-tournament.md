@@ -35,6 +35,7 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 
 | Date / Episode | Beat |
 |----------------|------|
+| [[../episodes/2023-11-22|2023-11-22]] [1:53:50] | Beyblade song played during Munch & Crum poll setup [1:53:50], indicating ongoing community pledge. |
 | [[../episodes/2025-05-30|2025-05-30]] [39:25] | Munch references past Beyblade episodes during debate count banter. [39:25] |
 | [[../episodes/2025-06-02|2025-06-02]] [31:49] | [31:49] Case references pending Beyblade event possibly still 'inside the Papal Binclave'; no further advancement this episode. |
 | [[../episodes/2025-06-17|2025-06-17]] | [2025-06-17] Referenced as pending community-pledge event; no progress shown this episode. |
