@@ -159,6 +159,38 @@ def cmd_update_wiki(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_promote_characters(args: argparse.Namespace) -> int:
+    from .promote import CORE_TALENT_LIMIT, MINOR_THRESHOLD, RECURRING_THRESHOLD, promote_characters, select_core_talent
+    from .canon import load_wiki_canon
+
+    print(
+        f"Promoting characters (minor ≥{MINOR_THRESHOLD}, recurring ≥{RECURRING_THRESHOLD}, "
+        f"core talent top {CORE_TALENT_LIMIT})...",
+        flush=True,
+    )
+    report = promote_characters(dry_run=args.dry_run, rebuild_index=True)
+    prefix = "[DRY RUN] " if args.dry_run else ""
+    print(f"{prefix}Indexed {report.characters_indexed} character slugs → {report.index_path}")
+    if report.minors_created:
+        print(f"{prefix}Created minor pages ({len(report.minors_created)}):")
+        for slug in report.minors_created:
+            print(f"  + content/characters/{slug}.md")
+    if report.promoted_recurring:
+        print(f"{prefix}Promoted to recurring ({len(report.promoted_recurring)}):")
+        for slug in report.promoted_recurring:
+            print(f"  ↑ content/characters/{slug}.md")
+    if not report.minors_created and not report.promoted_recurring:
+        print(f"{prefix}No page creates or status promotions needed.")
+
+    core = select_core_talent(load_wiki_canon().get("characters", []))
+    print(f"\nCore talent for extract prompts ({len(core)}):")
+    for char in core:
+        slug = char.file_path.stem if char.file_path else "?"
+        print(f"  - {char.name} ({slug})")
+    print()
+    return 0
+
+
 def cmd_screencap(args: argparse.Namespace) -> int:
     vod_id = _resolve_target_vod_id(args.target, latest=args.latest)
     print(f"Resolving stream URL for VOD {vod_id}...", flush=True)
@@ -482,6 +514,17 @@ def build_parser() -> argparse.ArgumentParser:
         help="Preview wiki page updates without writing files",
     )
     wiki.set_defaults(func=cmd_update_wiki)
+
+    promo = sub.add_parser(
+        "promote-characters",
+        help="Create minor pages (≥3 eps) and promote to recurring (≥6); refresh appearance index",
+    )
+    promo.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Preview creates/promotions without writing character pages",
+    )
+    promo.set_defaults(func=cmd_promote_characters)
 
     scap = sub.add_parser("screencap", help="Capture high-quality video frames for characters and segments via ffmpeg")
     scap.add_argument("target", nargs="?", help="VOD ID or Twitch URL (defaults to latest)")

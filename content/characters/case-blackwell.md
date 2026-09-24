@@ -5,8 +5,9 @@ aliases:
   - Case
 first_seen: 2023-11-22
 tags:
-  - character
-  - host
+- character
+- host
+status: recurring
 ---
 
 # Case Blackwell

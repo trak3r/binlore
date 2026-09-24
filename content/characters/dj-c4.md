@@ -2,16 +2,16 @@
 title: DJ C4
 type: character
 aliases:
-  - DJC4
-  - C4
+- DJC4
+- C4
 first_seen: 2025-05-30
-status: active
+status: recurring
 tags:
-  - character
-  - talent
-  - music
-  - composer
-  - studio
+- character
+- talent
+- music
+- composer
+- studio
 ---
 
 # DJ C4

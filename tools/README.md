@@ -143,10 +143,28 @@ binlore update-wiki 2863722826
 **What this updates:**
 - `content/characters/<name>.md`: Appends rows to `## Appearances` (short notes) and adds timestamped bullets to `## Notable moments` with links back to the episode. Overview / Key Attributes / Canon notes are never overwritten.
 - Auto-creates pages only with `--create-characters` (default: queue unknown names to `tools/runs/unknown-characters.jsonl`).
+- After each update, runs character promotion (see below).
 - `content/storylines/<slug>.md`: appends to `## Timeline & Broadcast Log` (Background/climax sections are never overwritten). Disable with `--no-update-storylines`.
 - `content/segments/<slug>.md`: Appends occurrences except fixture desks (News / pre-show).
 - Episode pages with `curated: true` in frontmatter are not overwritten by re-extract.
 - External-subject deny list: [`canon_denylist.yaml`](canon_denylist.yaml) (manual corrections here feed future extracts).
+
+### 4a. Character promotion (`binlore promote-characters`)
+
+Appearance counts are rebuilt from speaking detections in `tools/runs/*/extraction.json`, existing Appearances tables, and `unknown-characters.jsonl`, then cached in `tools/runs/character-appearance-index.json`.
+
+| Threshold | Action |
+|---|---|
+| ≥3 distinct episodes | Create `status: minor contributor` page if missing |
+| ≥6 distinct episodes | Promote empty / `active` / minor statuses to `recurring` |
+| Extract Core talent | Top 20 by appearance among recurring-eligible talent |
+
+```bash
+binlore promote-characters --dry-run
+binlore promote-characters
+```
+
+`process-all --extract` / `update-wiki` invoke promotion automatically after wiki writes.
 
 ### 4b. Munch & Crum wiki mine (ranked extract)
 

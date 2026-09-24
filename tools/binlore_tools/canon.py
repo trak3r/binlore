@@ -276,22 +276,30 @@ def is_excluded_external_subject(name: str, notes: str = "") -> bool:
 
 def is_core_network_character(char: CanonEntity) -> bool:
     """
-    Returns True if character is a core recurring show persona rather than a public figure,
-    community contributor, or one-off/special guest.
-    Prompts only include core network cast/talent to conserve prompt tokens and prevent
-    confusing LLM with external news subjects or community chat members.
+    Returns True if character is eligible for the recurring/core filter
+    (not a public figure, community contributor, or one-off guest).
+    Extract prompts further limit to top-N by appearance among recurring-eligible.
     """
     slug = (char.file_path.stem if char.file_path else "").lower()
     if slug in ("abraham-lincoln", "live-in-sleazy", "live-n-sleazy"):
         return False
 
     status_lower = (char.status or "").lower()
-    # Omit satirized public and historical figures
-    if any(k in status_lower for k in ("public figure", "historical figure", "satirized")):
+    # Omit satirized public and historical figures, retired, deceased
+    if any(
+        k in status_lower
+        for k in (
+            "public figure",
+            "historical figure",
+            "satirized",
+            "retired",
+            "deceased",
+        )
+    ):
         return False
 
-    # Omit guests, call-ins, and community contributors/moderators
-    if any(k in status_lower for k in ("guest", "call-in", "community")):
+    # Omit guests, call-ins, community, and minor contributors from core eligibility
+    if any(k in status_lower for k in ("guest", "call-in", "community", "minor")):
         return False
 
     # Check tags
@@ -307,6 +315,7 @@ def is_core_network_character(char: CanonEntity) -> bool:
             "call-in",
             "community",
             "technical",
+            "minor",
         )
         for t in tags_lower
     ):
@@ -329,7 +338,9 @@ def format_canon_for_prompt(*, core_characters_only: bool = True) -> str:
 
     characters = canon["characters"]
     if core_characters_only:
-        characters = [c for c in characters if is_core_network_character(c)]
+        from .promote import select_core_talent
+
+        characters = select_core_talent(characters)
 
     sections.append("### Known Recurring Characters")
     for char in characters:

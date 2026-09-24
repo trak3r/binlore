@@ -7,8 +7,9 @@ aliases:
   - Munch
 first_seen: 2023-11-22
 tags:
-  - character
-  - debate
+- character
+- debate
+status: recurring
 ---
 
 # Munch (Ralph Munchcut)
