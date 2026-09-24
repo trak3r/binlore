@@ -1,0 +1,68 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "02:16",
+      "canonical_segment": "News",
+      "title": "Pre-Stream Crypto Investment Bit",
+      "notes": "Case and Kendelle workshop a crypto investment tip intro line before the gaming session begins."
+    },
+    {
+      "start": "02:16",
+      "end": "02:02:50",
+      "canonical_segment": "News",
+      "title": "Lethal Company Co-op Session",
+      "notes": "Case hosts an extended Lethal Company co-op session with community players including Fiona, Exterminator, Miracle, America, Melko, and Griffin, failing to meet quota across multiple moons before raiding Avaly."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors an impromptu Lethal Company gaming session with community members, briefly attempting a crypto investment bit with Kendelle before extended co-op play.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Appears briefly pre-stream to workshop a crypto investment tip line with Case before he launches into gameplay.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Case confirms his primary role is news anchoring, contrasting it with gaming streams.",
+      "timestamp": "[01:09:53]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case mentions early editing work scheduled for the next day.",
+      "timestamp": "[01:51:42]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Raid attempt on Fiona blocked by her settings; Case raids Avaly instead.",
+      "timestamp": "[02:00:54]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Lead anchor Case Blackwell hosts a nearly two-hour Lethal Company co-op session with community players, cycling through multiple moons and failing to meet quota despite recovered apparatus and high-value scrap. The broadcast opens with a brief crypto investment bit alongside Kendelle before descending into extended gameplay marked by frequent deaths, navigation struggles, and a final sign-off that redirects the audience to Avaly's channel after Fiona's raid settings reject the host.",
+  "_meta": {
+    "vod_id": "4X5ZdimKD-w",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 91129,
+    "approx_prompt_tokens": 22782,
+    "transcript_lines": 220
+  }
+}
