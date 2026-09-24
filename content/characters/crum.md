@@ -58,7 +58,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (23)</summary>
+<summary>Earlier appearances (24)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -74,6 +74,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
 | [[episodes/2024-07-20|2024-07-20]] | Loses wiki feet, wins wife verification, sweet vs salty, Alien vs Predator, carnivore diet, gold vs porcelain teeth, orphan meat, spoon vs… |
+| [[episodes/2023-12-30|2023-12-30]] | debate analyst. |
 | [[episodes/2023-12-29|2023-12-29]] | debate analyst. |
 | [[episodes/2023-12-21|2023-12-21]] | debate analyst. |
 | [[episodes/2023-12-18|2023-12-18]] | debate analyst. |
@@ -174,3 +175,5 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[[01:01:28]]** ([[episodes/2023-12-18|2023-12-18]]): Delivers the annual 'Night Before Crumsmas' freestyle poem from Whoville, relying on chat for rhymes.
 - **[16:35]** ([[episodes/2023-12-21|2023-12-21]]): Haircut shortened; blonde frosted tips nearly gone [16:35].
 - **[1:25:08]** ([[episodes/2023-12-21|2023-12-21]]): Case hired Scrum for a year-long contract after one-day trial [1:25:08].
+- **[]** ([[episodes/2023-12-30|2023-12-30]]): Teleports mid-debate segment [47:48]; claims millions of ass hair follicles exceeding Appalachian population [37:57].
+- **[]** ([[episodes/2023-12-30|2023-12-30]]): Hired by Crum as Munch & Crum replacement co-host; Case locked him to two-year contract [18:22]. Expertise: gummy bear manufacturing, beanie baby smuggling (beanie baggies) [29:25, 30:41].

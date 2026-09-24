@@ -1,0 +1,156 @@
+{
+  "segments": [
+    {
+      "start": "10:20",
+      "end": "18:22",
+      "canonical_segment": "News",
+      "title": "Opening & Best of 2023 Awards Planning",
+      "notes": "Case opens the abbreviated Friday broadcast, announces Best of 2023 award show for Sunday noon stream, solicits categories via Discord back-feed thread, and riffs on Black Santa t-shirts."
+    },
+    {
+      "start": "18:22",
+      "end": "32:50",
+      "canonical_segment": "News",
+      "title": "Louisville Slushie Gate with Eugene Scrum",
+      "notes": "Case introduces Eugene Scrum (hired by Crum as replacement co-host, locked to two-year contract) to cover Louisville undercover officers throwing slushies at civilians 2018-2019; Scrum defends pranks, reveals expertise in gummy bears and beanie baby smuggling."
+    },
+    {
+      "start": "35:28",
+      "end": "48:37",
+      "canonical_segment": "Munch & Crum",
+      "title": "Toilet Brush Debate: Adjustable Head vs Attachments",
+      "notes": "Entedaddy's requested debate: Munch argues for grit and fixed brushes, Crum argues adjustable heads reduce attachment complexity; poll ends in draw after graphic confusion."
+    },
+    {
+      "start": "50:22",
+      "end": "1:00:06",
+      "canonical_segment": "Therapy",
+      "title": "Pepito Therapy Session (Dog Therapist)",
+      "notes": "Pepito attends therapy as a dog patient with Dr. Chath's son (animal therapist wearing DJ Newsic sunglasses); discusses fireworks fear, Fiona as parent, subway subs, and pregnancy with a street dog."
+    },
+    {
+      "start": "1:01:16",
+      "end": "1:14:56",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Dual Joe Rogan Holiday Recap & Plant Theory",
+      "notes": "Two Joe Rogans discuss holiday ice baths, slippers from Target, evolving from trees, photosynthesis as ideal diet, steak sashimi as Japanese espionage, General Tso as Trojan horse, and Jamie bleeding out from mask-making."
+    },
+    {
+      "start": "1:15:21",
+      "end": "1:30:45",
+      "canonical_segment": "Conspiracy Time",
+      "title": "Anyone But You Trailer & Sydney Sweeney Alien Conspiracy",
+      "notes": "Clementine Verne deconstructs Anyone But You trailer as horniness psy-op, identifies Blue Lives Matter flag as gray alien flag with blue laser beam, reveals Sydney Sweeney's cowboy-hat birthday party as alien gathering, cites cowboy hats = alien headgear per Get Out filmmaker."
+    },
+    {
+      "start": "1:30:45",
+      "end": "1:34:40",
+      "canonical_segment": "News",
+      "title": "Wrap-Up & Raid to Golden Boy FTW",
+      "notes": "Case thanks viewers, announces Sunday Best of 2023 stream, considers award names (Binnies, Creamies), raids Golden Boy FTW wishing happy holidays."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Appears as therapy patient (dog) with Dr. Chath's son, discusses fireworks trauma and street dog pregnancy.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates toilet brush attachments vs adjustable head, claims victory then loses on graphic confusion, teleports mid-segment.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues for fixed brushes and manual labor, mocks Crum's ass hair, wins poll then loses on technicality.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Eugene Scrum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debuts as Crum's hired replacement co-host on two-year contract, covers slushie gate, reveals gummy bear and beanie baggy expertise.",
+      "canonical_name": "Eugene Scrum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Clementine Verne",
+      "role": "conspiracy correspondent",
+      "notes": "conspiracy correspondent. Deconstructs Anyone But You trailer as alien horniness psy-op, identifies Blue Lives Matter flag as gray alien laser beacon.",
+      "canonical_name": "Clementine Verne",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Joe Rogan (dual)",
+      "role": "call-in guest",
+      "notes": "call-in guest. Two Rogans parody holiday supplements, plant-based photosynthesis diet, steak sashimi, General Tso espionage, Jamie bleeding from mask-making.",
+      "canonical_name": "Joe Rogan (dual)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Best of 2023 Awards",
+      "beat": "[10:20] Case announces Sunday noon Best of 2023 award show, opens Discord thread for categories and nominees, plans seat-of-pants polls.",
+      "timestamp": "10:20"
+    },
+    {
+      "storyline": "Scrum Hiring",
+      "beat": "[18:22] Case reveals Crum hired Eugene Scrum as replacement co-host; Case locked Scrum to two-year contract to avoid legal trouble.",
+      "timestamp": "18:22"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Eugene Scrum",
+      "fact": "Hired by Crum as Munch & Crum replacement co-host; Case locked him to two-year contract [18:22]. Expertise: gummy bear manufacturing, beanie baby smuggling (beanie baggies) [29:25, 30:41].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Attends therapy as dog patient with Dr. Chath's son (animal therapist wearing DJ Newsic sunglasses) [51:30]. Claims pregnancy with lucky street dog [58:40].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Clementine Verne",
+      "fact": "Conspiracy correspondent: Blue Lives Matter flag = gray alien flag with blue laser beam [1:28:37]; Sydney Sweeney = alien with cowboy hats as alien headgear [1:29:37]; Anyone But You = horniness psy-op for takeover [1:24:59].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Teleports mid-debate segment [47:48]; claims millions of ass hair follicles exceeding Appalachian population [37:57].",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell hosts a truncated Friday night broadcast debuting Eugene Scrum — Crum's hired replacement locked to a two-year contract — to cover the Louisville 'Slushie Gate' police scandal. Munch and Crum debate toilet brush attachments versus adjustable heads in a draw decided by graphic confusion. Pepito attends therapy as a dog patient, revealing a street dog pregnancy. Dual Joe Rogans espouse plant-based photosynthesis diets and General Tso espionage theory. Clementine Verne exposes the Sydney Sweeney film 'Anyone But You' as an alien horniness psy-op with Blue Lives Matter flags as gray alien laser beacons. The stream ends with a raid on Golden Boy FTW.",
+  "_meta": {
+    "vod_id": "J8kzyFlpwEs",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 82232,
+    "approx_prompt_tokens": 20558,
+    "transcript_lines": 154
+  }
+}
