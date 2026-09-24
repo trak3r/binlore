@@ -1,0 +1,36 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Lethal Company Gaming Broadcast",
+      "start": "00:00",
+      "end": "03:06:46",
+      "notes": "Case Blackwell hosts an extended Lethal Company session with a rotating lobby of streamer friends using the Bigger Lobby mod; multiple planetary runs culminate in quota clearance before a raid handoff."
+    }
+  ],
+  "characters": [],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Claims to be canonically embedded in Fortnite lore.",
+      "timestamp": "[35:44]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Announces a 'dream stream at noon' the following day, noting it will be remote.",
+      "timestamp": "[03:06:14]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell departs the news desk for a three-hour Lethal Company marathon, wrangling a oversized lobby of streamer friends through repeated mod installs, planetary expeditions, and chaotic quota runs. After multiple wipes and a final successful haul, Case exits the session and raids Gina's channel.",
+  "_meta": {
+    "vod_id": "HzCwzevOQ7Y",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 126314,
+    "approx_prompt_tokens": 31578,
+    "transcript_lines": 417
+  }
+}
