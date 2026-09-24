@@ -50,7 +50,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (23)</summary>
+<summary>Earlier appearances (24)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -63,6 +63,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
 | [[episodes/2024-07-20|2024-07-20]] | Wins wiki feet, wife verification, sweet vs salty, Alien vs Predator, carnivore diet, Spike vs Luffy, Shaggy vs Jedi Shaggy, Country… |
+| [[episodes/2024-01-13|2024-01-13]] | debate analyst. |
 | [[episodes/2024-01-12|2024-01-12]] | debate analyst. |
 | [[episodes/2024-01-05|2024-01-05]] | debate analyst. |
 | [[episodes/2023-12-31|2023-12-31]] | debate analyst. |

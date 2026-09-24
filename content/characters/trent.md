@@ -23,6 +23,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-01-13|2024-01-13]] | movie correspondent. |
 | [[episodes/2024-01-05|2024-01-05]] | movie correspondent. |
 | [[episodes/2023-12-21|2023-12-21]] | field correspondent. |
 | [[episodes/2023-12-12|2023-12-12]] | movie correspondent. |
@@ -32,6 +33,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 
 - First identified in [[episodes/2023-11-22|Episode 2023-11-22]].
 - **[[1:30:23]]** ([[episodes/2023-12-12|2023-12-12]]): Hosts Trailer Thursday segment under parole supervision; presents himself as cultural taste-maker.
+- **[]** ([[episodes/2024-01-13|2024-01-13]]): Claims to have made out with women on stream; has long hair from 'hooking up with ladies' [1:34:54].
 
 ## Open questions
 
