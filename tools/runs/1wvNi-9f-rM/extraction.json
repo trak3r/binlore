@@ -1,0 +1,181 @@
+{
+  "segments": [
+    {
+      "start": "10:21",
+      "end": "18:07",
+      "canonical_segment": "News",
+      "title": "Cold Open & Hype Train Check-In",
+      "notes": "Case and Pepito banter about Madeline books and hats; Hype Train arrives sick with 'hype pus' and auto-tuned, derails into sleepiness before completing."
+    },
+    {
+      "start": "18:07",
+      "end": "38:58",
+      "canonical_segment": "News",
+      "title": "Gaza Hospital Raid Check-In with Rick",
+      "notes": "Rick (claiming former CIA) reads Reuters report on Israeli raid of Nasser Hospital; repeatedly attributes casualties to Hamas-run sources; frames surgical strikes as 'hospital stuff'; helicopters out to DJ Newsic's roof."
+    },
+    {
+      "start": "40:35",
+      "end": "58:01",
+      "canonical_segment": "Trent at the Movies",
+      "title": "Trailer Block: X-Men '97, Trash Humpers, Thundermans, AI Popeye",
+      "notes": "Trent watches X-Men '97 trailer, Harmony Korine's Trash Humpers, The Thundermans Return, and an AI-generated Will Smith Popeye trailer debunked by local news."
+    },
+    {
+      "start": "1:03:32",
+      "end": "1:16:25",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: Robin Williams vs Will Smith as Popeye",
+      "notes": "Crum returns from 'MIA' week; argues for Will Smith; Munch defends Robin Williams (who actually played Popeye); chat votes Robin Williams; Munch reveals 6-day Raising Cane's streak."
+    },
+    {
+      "start": "1:17:12",
+      "end": "1:30:42",
+      "canonical_segment": "News",
+      "title": "British Bodybuilder Eats Four Sticks of Butter Daily; Bob Pepper Impersonates Bob Shepard",
+      "notes": "Peter Gibbon and Chat read NY Post story on Jonathan Griffiths' butter/meat diet; Case brings up Bob Shepard interview but gets Bob Pepper (gumballs announcer) instead; Pepper rants about silent baseball, mackerel crackers, punt hunts."
+    },
+    {
+      "start": "1:49:49",
+      "end": "2:02:00",
+      "canonical_segment": "News",
+      "title": "Chernobyl Mutant Wolves Develop Cancer Resistance",
+      "notes": "Jeff Ripple reports on Princeton ecotoxicologist study: wolves in exclusion zone show altered immune systems after 11.28 mrem/day radiation; commenters share folk wisdom on eggs, butter, government spelling."
+    },
+    {
+      "start": "2:06:09",
+      "end": "2:35:14",
+      "canonical_segment": "DJ Newsic",
+      "title": "Delta Flight Maggot Infestation; Bob Pepper Baseball Rap; Raid to Ricky Pika",
+      "notes": "Kendall joins on roof to dissect Valentine's dinner; DJ Newsic sings maggot plane story; Bob Pepper raps over 'Take Me Out to the Ball Game' beat; Case raids Ricky Pika."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Opens show asleep; refuses hats due to hair condition; denies butter to Peter; produces Bob Pepper mix-up.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Arrives sick with 'hype pus' in smokestack; auto-tuned; falls asleep mid-rant; completes train.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Woken for Valentine's dinner debrief; later joins DJ Newsic on roof to detail service failures and near-proposal.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "correspondent",
+      "notes": "correspondent. Hosts trailer block from 'at the movies'; reacts to X-Men '97, Trash Humpers, Thundermans, AI Popeye.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Returns to debate desk; defends Robin Williams as Popeye; reveals 6-day Raising Cane's breakfast/lunch/dinner streak.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Returns after week of sending siblings; argues for Will Smith Popeye; claims family wins count for score.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Suggests butter bodybuilder story; claims butter stash in walls; reads NY Post piece with Chat.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Delivers Chernobyl wolf study; reads commenters' folk nutrition takes; signs off as 'Big Ripple'.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "recurring",
+      "notes": "recurring. Hosts musical finale from roof; sings maggot plane parody; struggles with beat selection; brings Bob Pepper for baseball rap.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Bob Pepper",
+      "role": "call-in guest",
+      "notes": "call-in guest. Impersonates deceased Yankees PA announcer Bob Shepard; rants about silent baseball, mackerel crackers, punt hunts; raps over baseball beat.",
+      "canonical_name": "Bob Pepper",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Ate Raising Cane's for breakfast, lunch, and dinner six days in a row.",
+      "timestamp": "1:15:16",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Removed shirt on camera to display physique during butter bodybuilder story.",
+      "timestamp": "1:28:26",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Bob Pepper",
+      "fact": "Impersonated Bob Shepard (died 2010) claiming to be 'Bob Pepper, New Jersey Gumballs announcer, 78 years young.'",
+      "timestamp": "1:37:17",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Joined DJ Newsic segment from roof to recount Valentine's dinner service failures and near-proposal moment.",
+      "timestamp": "2:23:42",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened with a sickly Hype Train before pivoting to a grim Gaza hospital raid check-in delivered by self-proclaimed former CIA asset Rick. The broadcast lightened into a trailer block, a heated Munch & Crum debate over Popeye casting (Robin Williams won), a British bodybuilder's four-stick butter diet, and a botched Bob Shepard interview that yielded gumballs announcer Bob Pepper. Jeff Ripple reported Chernobyl wolves' radiation resistance, then DJ Newsic closed with a maggot-infested Delta flight musical and a baseball rap from Pepper before raiding Ricky Pika.",
+  "_meta": {
+    "vod_id": "1wvNi-9f-rM",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 129585,
+    "approx_prompt_tokens": 32396,
+    "transcript_lines": 308
+  }
+}

@@ -134,3 +134,4 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[01:08:19]** ([[episodes/2024-01-05|2024-01-05]]): [01:08:19] Contractual sub goal (30 subs) forces Munch to be 'nice' for debate segment; Pepito drafted contract.
 - **[[55:31]]** ([[episodes/2024-01-12|2024-01-12]]): Claims to have trained for debate; dances with 'sensuality and emotion' when provoked.
 - **[1:26:51]** ([[episodes/2024-02-09|2024-02-09]]): Wins 'Has science gone too far?' poll 70/30; scoreboard updated, Munch nearing exit from teens [1:26:51].
+- **[1:15:16]** ([[episodes/2024-02-15|2024-02-15]]): Ate Raising Cane's for breakfast, lunch, and dinner six days in a row.
