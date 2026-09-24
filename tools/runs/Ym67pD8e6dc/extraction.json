@@ -1,0 +1,43 @@
+{
+  "segments": [],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored a 4.5-hour Lethal Company co-op session with rotating crew, navigating moons Experimentation, Offense, and Titan while managing inventory, quotas, and frequent deaths.",
+      "lore_notes": [],
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Joined the Lethal Company crew as a regular player, frequently dying to brackens, coil heads, and goo, and at one point glitching into a duplicated state across the facility.",
+      "lore_notes": [],
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Case Blackwell hosted an extended Lethal Company marathon (4h31m) with a large rotating lobby, reaching moons Experimentation, Offense, and Titan while accumulating and losing significant scrap quotas.",
+      "timestamp": "[00:00]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News anchor Case Blackwell suspended regular programming for a marathon Lethal Company co-op session, leading a shifting crew through multiple quota runs on Experimentation, Offense, and Titan. The crew secured high-value hauls — including hair dryers, painting, and apparatus — but suffered repeated wipes to brackens, coil heads, nutcrackers, and eclipse dogs. Despite heavy losses, the team cleared quota repeatedly, ending the night with a jetpack-assisted escape and a promise to return tomorrow.",
+  "_meta": {
+    "vod_id": "Ym67pD8e6dc",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 126887,
+    "approx_prompt_tokens": 31721,
+    "transcript_lines": 377
+  }
+}
