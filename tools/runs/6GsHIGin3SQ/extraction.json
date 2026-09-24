@@ -1,0 +1,57 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "01:04:53",
+      "canonical_segment": "News",
+      "title": "Lethal Company Gaming Hiatus",
+      "notes": "Anchor Case Blackwell suspends the news grind for an impromptu cooperative session of Lethal Company with a crew of freelancers, navigating scrap quotas, brackens, bees, and a looming giant while fielding chat via teleprompter."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors an unscheduled gaming hiatus, coordinating a Lethal Company crew while promising a return to the news grind tomorrow.",
+      "lore_notes": [],
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Mentioned off-mic at stream end as advising Case he could stay longer, but Case departs for a work obligation regardless.",
+      "lore_notes": [],
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Confirms the broadcast is a one-day break from the regular news grind; will resume news format tomorrow. [51:25]",
+      "timestamp": "51:25",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Departs early for a 'work thing' outside the network, raiding Fiona's channel on exit. [1:03:50]",
+      "timestamp": "1:03:50",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News suspends regular programming as anchor Case Blackwell leads a Lethal Company salvage crew through eclipsed moons, bracken encounters, and bee hive heists. The anchor confirms the gaming sortie is a single-night hiatus before returning to the news grind, then signs off early for an external work obligation.",
+  "_meta": {
+    "vod_id": "6GsHIGin3SQ",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 50766,
+    "approx_prompt_tokens": 12691,
+    "transcript_lines": 101
+  }
+}

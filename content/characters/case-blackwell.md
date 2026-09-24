@@ -83,3 +83,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[[10:12]]** ([[episodes/2023-11-30|2023-11-30]]): Broadcast transition system (scene transitions, fire transition) suffered a total failure at top of show, forcing 'smoke teleportation' manual cuts.
 - **[[17:57]]** ([[episodes/2023-12-02|2023-12-02]]): Live comedy show scheduled Wednesday 7:30 PM Pacific with Tim (saved in phone as 'case bitch'); 10-minute set plus other comedians; streaming on Case's channel.
 - **[[10:14]]** ([[episodes/2023-12-12|2023-12-12]]): Addicted to Lethal Company; playing with Ovali, Fiona, and Tim; expects two-week obsession cycle.
+- **[51:25]** ([[episodes/2023-12-13|2023-12-13]]): Confirms the broadcast is a one-day break from the regular news grind; will resume news format tomorrow. [51:25]
+- **[1:03:50]** ([[episodes/2023-12-13|2023-12-13]]): Departs early for a 'work thing' outside the network, raiding Fiona's channel on exit. [1:03:50]
