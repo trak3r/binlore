@@ -57,5 +57,6 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/coach-mcgurk|Coach McGurk]] | Minor Character Witness | Character witness for Crum from the Bart Simpson voice / zombie-head era |
 | [[characters/jizbo|Jizbo]] | Minor Trial Witness | Returns from the mountain; answers examination with a conga |
 | [[characters/steak|Steak]] | Guest Artist | Collaborator on the Thump Steaks theme song with DJ C4 |
+| [[characters/trent|Trent]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
 
 See also: [[../storylines/crum-dick-punch|Crum Dick Punch]], [[../segments/munch-and-crum|Munch & Crum]].
