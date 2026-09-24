@@ -1,0 +1,138 @@
+{
+  "segments": [
+    {
+      "start": "09:53",
+      "end": "35:08",
+      "canonical_segment": "News",
+      "title": "Vince McMahon Sexual Assault & Trafficking Lawsuit",
+      "notes": "Case Blackwell opens the broadcast with a somber rundown of the Janelle Grant lawsuit against Vince McMahon, WWE, and John Laurinaitis, detailing allegations of sexual assault, trafficking, and explicit texts; Slim Jim pauses sponsorship; TKO distances itself; Case expresses personal conflict as a longtime wrestling fan."
+    },
+    {
+      "start": "35:08",
+      "end": "42:40",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Keanu Reeves Receives Inaugural Lance Reddick Legacy Award",
+      "notes": "Chet Manscape commandeers the desk to cover the Saturn Awards announcement: Keanu Reeves to receive the first Lance Reddick Legacy Award at the 51st Saturn Awards on February 4; Chet reminisces about Reddick's warmth on G4 and praises Reeves' filmography, especially Speed and Point Break."
+    },
+    {
+      "start": "42:40",
+      "end": "45:10",
+      "canonical_segment": "News",
+      "title": "Houthi Rebels Strike British Oil Tanker in Red Sea",
+      "notes": "Case returns to the anchor desk for a brief world news update: Houthi rebels hit a British oil tanker, causing an ecological disaster; Case notes the ongoing Israel-Palestine conflict and a residential house explosion involving Israeli soldiers before tossing to Clementine."
+    },
+    {
+      "start": "45:10",
+      "end": "01:04:11",
+      "canonical_segment": "Amongst the Web",
+      "title": "Clementine Investigates Pentagon UAP Report & Alien Invasion Survival Guide",
+      "notes": "Clementine Verne covers a Pentagon Inspector General report finding the DoD's UAP tracking uncoordinated; he then reacts to a seven-year-old 'Epic How-To' YouTube video on stopping an alien invasion, citing experts from SETI, Harvard-Smithsonian, and Michio Kaku, and identifies the host as Kevin Pereira."
+    },
+    {
+      "start": "01:06:20",
+      "end": "01:23:03",
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip Bradstein Polls Park Denizens on Lab-Grown Meat, Palworld, and Potholes",
+      "notes": "Trip interviews three opinion-havers: Jack Mendhoff (former meat magnate) on lab-grown meat and crab sentience; Rose Roach (a roach puppet) advocating toys over guns for Palworld and claiming all roaches have chlamydia; and a Scottish-accented translucent muscle Shrek named Won Tabania complaining about potholes and Shrek-based procreation."
+    },
+    {
+      "start": "01:24:42",
+      "end": "01:37:37",
+      "canonical_segment": "DJ Newsic",
+      "title": "Taylor Swift AI Deepfakes, Meta Teen Nude Block, Raid to Pixel Circus",
+      "notes": "DJ Newsic covers explicit AI-generated Taylor Swift images spreading on X (90% confidence diffusion models per Reality Defender), Meta's new blocking of nude images sent by teens, and a robotic guest (WALL-E's EVE) rapping that the deepfakes are bad; Case announces he's interviewing for a new job that may change the schedule, then raids Pixel Circus where Kendall is streaming."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the broadcast, led coverage of the Vince McMahon lawsuit with personal wrestling-fan conflict, tossed to correspondents, and announced a potential job change affecting schedule.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Acknowledged during pre-stream hype train; Case thanked Pepito for 'always doing the right thing' after the McMahon segment.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet Manscape",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeered the desk for the Keanu Reeves Saturn Award story, riffed on Lance Reddick's G4 appearance, and delivered a freestyle sign-off.",
+      "canonical_name": "Chet Manscape",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Clementine Verne",
+      "role": "conspiracy correspondent",
+      "notes": "conspiracy correspondent. Covered the Pentagon UAP report and reacted to an alien invasion how-to video, claiming anti-facial-recognition software let him stop blurring his face.",
+      "canonical_name": "Clementine Verne",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted park interviews with Jack Mendhoff, Rose Roach, and Won Tabania on lab-grown meat, Palworld, and potholes.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Mentioned leaving for a special stream on Pixel Circus; Case planned to rate it after the broadcast.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Interviewing for a new job that could dramatically shift the broadcast schedule if hired.",
+      "timestamp": "01:35:43",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Clementine Verne",
+      "fact": "Claims to use anti-facial-recognition software allowing him to stop blurring his face and masking his voice despite ongoing threats.",
+      "timestamp": "48:28",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Clementine Verne",
+      "fact": "Identified the host of the 'Epic How-To' alien invasion video as Kevin Pereira (former G4 host).",
+      "timestamp": "57:55",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Streaming on Pixel Circus channel during this broadcast; Case planned to raid and rate her stream.",
+      "timestamp": "01:04:11",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News returned from a week off with a heavy lead on the Vince McMahon sexual assault and trafficking lawsuit, prompting anchor Case Blackwell to wrestle with his longtime fandom. The broadcast lightened with Chet Manscape celebrating Keanu Reeves' Saturn Award honor, Clementine Verne dissecting a Pentagon UAP report and a vintage alien survival guide, Trip Bradstein gathering surreal park opinions, and DJ Newsic closing on the Taylor Swift AI deepfake crisis before raiding Pixel Circus.",
+  "_meta": {
+    "vod_id": "eR4IUHzwua4",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 87809,
+    "approx_prompt_tokens": 21952,
+    "transcript_lines": 159
+  }
+}
