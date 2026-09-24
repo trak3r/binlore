@@ -1,0 +1,209 @@
+{
+  "segments": [
+    {
+      "start": "10:25",
+      "end": "14:40",
+      "canonical_segment": "News",
+      "title": "Opening & Audio Experiments",
+      "notes": "Case Blackwell opens broadcast with new voice modulation tools, tests audio effects, acknowledges subscribers, and banters about Fia's editing."
+    },
+    {
+      "start": "14:40",
+      "end": "24:53",
+      "canonical_segment": "News",
+      "title": "Billionaire Biohacker NFTs with Liliana",
+      "notes": "Liliana joins desk to discuss Brian Johnson's Solana NFT airdrop with Degen Poet for his 'Don't Die' community; debate over immortality vs. innovation ensues."
+    },
+    {
+      "start": "16:51",
+      "end": "20:07",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Interruption",
+      "notes": "Hype Train commandeers feed with freestyle raps over new effects pedal; completes eight minutes prior but remains active on fumes."
+    },
+    {
+      "start": "24:53",
+      "end": "53:02",
+      "canonical_segment": "News",
+      "title": "Cream Team SEO Debate with Kendall",
+      "notes": "Kendall argues 'cream team' hurts SEO; suggests rebrand to 'creme' or 'show bobas'; auto-tune singing experiments derail discussion."
+    },
+    {
+      "start": "53:55",
+      "end": "1:08:12",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Cream Team Name Debate",
+      "notes": "Munch defends keeping name as identity; Crum argues for algorithmic compliance; poll proposed; Munch declares victory."
+    },
+    {
+      "start": "1:08:12",
+      "end": "1:22:11",
+      "canonical_segment": "News",
+      "title": "Unvernished Truth: Doctor Who Watcher Conspiracy",
+      "notes": "Clementine presents DWFan91 video on the Watcher as psychic manifestation of Doctor's next incarnation; Case dismisses as 'pasty guy from Essex'."
+    },
+    {
+      "start": "1:22:11",
+      "end": "1:50:29",
+      "canonical_segment": "News",
+      "title": "Trailer Thursdays with Trent",
+      "notes": "Trent reviews three trailers: Accidental Texan, Road House remake (Conor McGregor), The Ministry of Ungentlemanly Warfare; debates American values and Irish stereotypes."
+    },
+    {
+      "start": "1:50:29",
+      "end": "2:04:09",
+      "canonical_segment": "News",
+      "title": "Moon Shrinking Report with Peter Gibbon",
+      "notes": "Peter Gibbon emerges from walls to deliver study on moon shrinking 150 feet, moonquakes lasting hours, risks to Artemis missions; penis jokes throughout."
+    },
+    {
+      "start": "2:04:37",
+      "end": "2:21:40",
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip on the Street: Park Interviews",
+      "notes": "Trip Bradstein interviews park visitors: Rob Elvie (banned), Ann O'Nem (defends Craig), Francis Sickner (wall laughter haunting), Skip Keep (prank philosophy)."
+    },
+    {
+      "start": "2:22:03",
+      "end": "2:25:26",
+      "canonical_segment": "News",
+      "title": "Closing & Raid",
+      "notes": "Case tests pitch correction, debates raid message, raids Ricky Peacock with 'Ricky P case' spam."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Argues 'cream team' name hurts SEO, suggests rebrand, demonstrates auto-tune singing, watches Bridgerton with Case.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Interrupts broadcast with freestyle raps over new effects pedal, claims to run on hype fumes.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defends 'cream team' name as identity, declares victory in debate, references Saltburn bathwater.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues for algorithmic compliance and rebranding, accuses Munch of chauvinism toward Kendall.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Clementine",
+      "role": "correspondent",
+      "notes": "correspondent. Hosts Unvernished Truth segment on Doctor Who Watcher conspiracy theory.",
+      "canonical_name": "Clementine",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "correspondent",
+      "notes": "correspondent. Hosts Trailer Thursdays, reviews three movie trailers, debates Conor McGregor and Irish stereotypes.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Emerges from walls to deliver moon shrinking report, makes persistent penis jokes, claims legal right to squat.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducts park interviews with surreal visitors, bans Rob Elvie, receives massage offer from Ann O'Nem.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Mentioned as potential first dog on moon, cuts feeds during Peter Gibbon segment.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[42:03] Kendall references Beyblade love in auto-tune song: 'your love for Beyblades... compare that love with your love with me.'",
+      "timestamp": "42:03"
+    },
+    {
+      "storyline": "Cream Team Rebrand",
+      "beat": "[24:53] Kendall argues 'cream team' hurts SEO; proposes 'creme' spelling or 'show bobas'; Munch & Crum debate at [53:55] with poll proposed.",
+      "timestamp": "24:53"
+    },
+    {
+      "storyline": "Peter Gibbon Wall Dwelling",
+      "beat": "[1:50:29] Peter confirms living in studio walls; Case smells him; Pepito refuses to extract him.",
+      "timestamp": "1:50:29"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Kendelle",
+      "fact": "[24:53] Kendall works in marketing and believes 'cream team' name damages SEO; suggests spelling 'creme' or rebranding to 'show bobas'.",
+      "timestamp": "24:53",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "[1:50:29] Peter Gibbon confirms permanent residence in studio walls; Case can smell him through drywall.",
+      "timestamp": "1:50:29",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Moon",
+      "fact": "[1:51:36] Moon has shrunk 150+ feet in circumference over hundreds of millions of years; moonquakes can last hours; threatens Artemis missions.",
+      "timestamp": "1:51:36",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "[2:24:15] Case watches Bridgerton with Kendall as 'solemn duty'.",
+      "timestamp": "2:24:15",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell opens with new voice modulation tools before Liliana joins to dissect billionaire biohacker Brian Johnson's Solana NFT airdrop. Kendall derails the broadcast arguing 'cream team' hurts SEO, leading to a Munch & Crum debate where Munch defends the name as identity. Clementine presents a Doctor Who Watcher conspiracy theory; Trent reviews three trailers including the Conor McGregor Road House remake. Peter Gibbon emerges from the walls to report the moon has shrunk 150 feet causing hour-long moonquakes. Trip Bradstein interviews park visitors including a banned shapeshifter and a man haunted by wall laughter. Broadcast closes with Case testing pitch correction and raiding Ricky Peacock.",
+  "_meta": {
+    "vod_id": "glJgNb9ZUXU",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 125423,
+    "approx_prompt_tokens": 31355,
+    "transcript_lines": 346
+  }
+}

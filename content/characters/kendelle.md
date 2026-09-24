@@ -54,13 +54,14 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
 | [[episodes/2024-07-20|2024-07-20]] | Appears on couch cam, sleeps through friend visit, debates smut vs no smut (concedes), wins fursona poll, declines boba after stream runs… |
-| [[episodes/2024-02-01|2024-02-01]] | in-studio contributor. |
+| [[episodes/2024-02-02|2024-02-02]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (26)</summary>
+<summary>Earlier appearances (27)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-02-01|2024-02-01]] | in-studio contributor. |
 | [[episodes/2024-01-27|2024-01-27]] | in-studio contributor. |
 | [[episodes/2024-01-20|2024-01-20]] | in-studio contributor. |
 | [[episodes/2024-01-19|2024-01-19]] | in-studio contributor. |
@@ -118,3 +119,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[03:21:31]** ([[episodes/2024-01-20|2024-01-20]]): Participated for the full duration as Case's primary co-op partner across all custom maps [03:21:31].
 - **[01:04:11]** ([[episodes/2024-01-27|2024-01-27]]): Streaming on Pixel Circus channel during this broadcast; Case planned to raid and rate her stream.
 - **[[23:46]]** ([[episodes/2024-02-01|2024-02-01]]): Getting tattoo removed from back; requires ointment application.
+- **[24:53]** ([[episodes/2024-02-02|2024-02-02]]): [24:53] Kendall works in marketing and believes 'cream team' name damages SEO; suggests spelling 'creme' or rebranding to 'show bobas'.

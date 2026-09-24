@@ -43,6 +43,7 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 | [[../episodes/2023-12-16|2023-12-16]] | [137:00] Sunday 7pm 'Grunch Miss' stream announced for Beyblade 2v2 event; Case and Kendall may appear; green body paint required. |
 | [[../episodes/2023-12-31|2023-12-31]] [3:11:16] | [3:11:16] Case mentions 'Beyblade Tournament' as a pending community pledge while setting up final host polls. |
 | [[../episodes/2024-01-19|2024-01-19]] | No advancement this episode; tournament remains community-pledge vaporware. |
+| [[../episodes/2024-02-02|2024-02-02]] [42:03] | [42:03] Kendall references Beyblade love in auto-tune song: 'your love for Beyblades... compare that love with your love with me.' |
 | [[../episodes/2025-05-30|2025-05-30]] [39:25] | Munch references past Beyblade episodes during debate count banter. [39:25] |
 | [[../episodes/2025-06-02|2025-06-02]] [31:49] | [31:49] Case references pending Beyblade event possibly still 'inside the Papal Binclave'; no further advancement this episode. |
 | [[../episodes/2025-06-17|2025-06-17]] | [2025-06-17] Referenced as pending community-pledge event; no progress shown this episode. |
