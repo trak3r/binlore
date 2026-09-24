@@ -1,0 +1,116 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "17:45",
+      "canonical_segment": "News",
+      "title": "Pre-Show Setup & Fiona Nova Raid Preview",
+      "notes": "Case Blackwell opens a shortened broadcast, troubleshooting technical issues and promoting Fiona Nova's 12-hour Lethal Company charity stream."
+    },
+    {
+      "start": "17:45",
+      "end": "35:27",
+      "canonical_segment": "News",
+      "title": "Pope Francis Declares Sexual Pleasure a Gift from God",
+      "notes": "Case and Chet cover the BBC report on Pope Francis's sermon on lust, discussing Cardinal Fernandez's controversial 1990s book and conservative backlash; a Level 4 Hype Train interrupts."
+    },
+    {
+      "start": "35:27",
+      "end": "44:31",
+      "canonical_segment": "News",
+      "title": "Anti-Sex Demon Studio Interview",
+      "notes": "Case summons an anti-sex demon who claims to have renounced copulation for knitting, but whose rhetoric veers into graphic horniness; Pepito briefly appears."
+    },
+    {
+      "start": "44:31",
+      "end": "58:18",
+      "canonical_segment": "DJ Newsic",
+      "title": "Kentucky Bill to Decriminalize First-Cousin Sex",
+      "notes": "DJ Newsic delivers an R&B musical report on Kentucky HB269; Case's cousin Chase calls in from Roanoke to defend 'cousin love' including communal bathing."
+    },
+    {
+      "start": "58:18",
+      "end": "01:03:15",
+      "canonical_segment": "News",
+      "title": "Lethal Company Transition & Raid",
+      "notes": "Musical send-off as Case attempts to join Fiona Nova's Lethal Company lobby; stream ends mid-connection."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "anchor. Hosts abbreviated news block before joining Fiona Nova's 12-hour Lethal Company stream.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Joins for Pope Francis story, delivers closing benediction blessing 'thickest ropes' in God's name.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Anti-sex demon",
+      "role": "guest",
+      "notes": "guest. Claims to have bored of sex and taken up knitting, but rhetoric reveals intense repressed horniness.",
+      "canonical_name": "Anti-sex demon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "musical correspondent",
+      "notes": "musical correspondent. Performs R&B report on Kentucky cousin-incest bill with laser effects and blue hair.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chase",
+      "role": "call-in guest",
+      "notes": "call-in guest. Case's first cousin from Roanoke defends cousin love including nude communal bathing.",
+      "canonical_name": "Chase",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case restarting 'Cigarette Sandwich' sketch group for YouTube content [46:10]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case acquired Zoom V3 vocal effects processor, awaiting cords [45:35]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Kentucky HB269 introduced January 16 by 27-year-old public defender to decriminalize first-cousin sex [49:22] [52:06]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a truncated news broadcast ahead of a raid on Fiona Nova's 12-hour Lethal Company stream. Coverage includes Pope Francis declaring sexual pleasure a divine gift, a studio interview with a suspiciously horny anti-sex demon, and DJ Newsic's R&B musical report on a Kentucky bill to decriminalize first-cousin sex — featuring a call-in defense from Case's own cousin Chase. The broadcast closes with a musical transition as Case attempts to join the Lethal Company lobby.",
+  "_meta": {
+    "vod_id": "1pZwg_g2jT4",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 52228,
+    "approx_prompt_tokens": 13057,
+    "transcript_lines": 90
+  }
+}
