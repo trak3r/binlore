@@ -1,0 +1,50 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "01:42:19",
+      "canonical_segment": "News",
+      "title": "Lethal Company Co-op Playthrough",
+      "notes": "Case Blackwell hosts an extended Lethal Company co-op session with mods Malco, Fiona, and Exterminator; crew scavenges moons, battles monsters, manages quota, and loses multiple crewmates across several in-game days."
+    },
+    {
+      "start": "01:42:19",
+      "end": "01:45:22",
+      "canonical_segment": "News",
+      "title": "Kissinger Death Commentary",
+      "notes": "Case breaks from gameplay to remark on Henry Kissinger's death, offering a critical summary of his diplomatic career and role in American hegemony, framed as 'news for the day' from space."
+    },
+    {
+      "start": "01:45:22",
+      "end": "01:47:14",
+      "canonical_segment": "News",
+      "title": "Stream Wrap-Up and Raid",
+      "notes": "Case promotes the Cream Team Dreamstream and Patreon, confirms return for news tomorrow, and raids Raddy Daddy after briefly considering Maude Garrett and Cycord."
+    }
+  ],
+  "characters": [],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Hosts Cream Team Dreamstream and Patreon alongside main BIN broadcast [01:45:22]",
+      "timestamp": "01:45:22",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Delivers critical commentary on Henry Kissinger's death during gameplay stream [01:42:19]",
+      "timestamp": "01:42:19",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell spends the majority of the broadcast co-op streaming Lethal Company with a crew of mods, navigating quota runs, monster encounters, and repeated crew deaths across multiple moons. In the final minutes, he pivots to a brief news commentary on Henry Kissinger's death before promoting the Cream Team Dreamstream and raiding Raddy Daddy.",
+  "_meta": {
+    "vod_id": "Vhjv_2bvwlc",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 91822,
+    "approx_prompt_tokens": 22955,
+    "transcript_lines": 269
+  }
+}
