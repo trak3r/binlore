@@ -42,6 +42,7 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 | [[episodes/2025-06-11|2025-06-11]] | field correspondent. |
 | [[episodes/2025-06-02|2025-06-02]] | field correspondent. |
 | [[episodes/2024-07-20|2024-07-20]] | Rapid-fire street debates from park bushes, settles all via coin flip, loses majority, refuses to leave streets, interacts with bread man,… |
+| [[episodes/2023-12-31|2023-12-31]] | field correspondent. |
 | [[episodes/2023-12-16|2023-12-16]] | field correspondent. |
 | [[episodes/2023-12-12|2023-12-12]] | field correspondent. |
 

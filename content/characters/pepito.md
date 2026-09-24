@@ -61,7 +61,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (14)</summary>
+<summary>Earlier appearances (15)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -72,6 +72,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
 | [[episodes/2025-06-02|2025-06-02]] | executive producer. |
+| [[episodes/2023-12-31|2023-12-31]] | executive producer. |
 | [[episodes/2023-12-30|2023-12-30]] | executive producer. |
 | [[episodes/2023-12-18|2023-12-18]] | executive producer. |
 | [[episodes/2023-12-16|2023-12-16]] | executive producer. |
@@ -126,3 +127,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[137:00]** ([[episodes/2023-12-16|2023-12-16]]): [137:00] Voted permanent producer via chat poll (New Keep / Permanent Consulting Producer); legally obligated to no longer be terminated.
 - **[[02:08:00]]** ([[episodes/2023-12-18|2023-12-18]]): Confirmed neutered; owner is Fiona Nova; wears a Christmas jean coat and gets green paint in his eyes.
 - **[]** ([[episodes/2023-12-30|2023-12-30]]): Attends therapy as dog patient with Dr. Chath's son (animal therapist wearing DJ Newsic sunglasses) [51:30]. Claims pregnancy with lucky street dog [58:40].
+- **[[3:23:59]]** ([[episodes/2023-12-31|2023-12-31]]): Receives Lifetime Achievement Award; Fiona sends voice memo confirming she will pick him up and calling him 'my dog.'

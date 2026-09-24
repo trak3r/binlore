@@ -1,0 +1,19 @@
+{
+  "vod_id": "1u_LMzdmpe0",
+  "title": "The 2023 Barely Awards",
+  "url": "https://www.youtube.com/watch?v=1u_LMzdmpe0",
+  "duration_seconds": 13427,
+  "duration": "3:43:47",
+  "timestamp": 1703980800,
+  "aired_at": "2023-12-31T00:00:00+00:00",
+  "date": "2023-12-31",
+  "ingested_at": "2026-09-24T18:57:05.989156+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "1u_LMzdmpe0",
+  "yt_url": "https://www.youtube.com/watch?v=1u_LMzdmpe0",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2023-12-31"
+}

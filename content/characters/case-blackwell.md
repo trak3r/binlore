@@ -94,3 +94,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[48:27]** ([[episodes/2023-12-19|2023-12-19]]): Maintains three separate Lethal Company save files [48:27].
 - **[1:06:03]** ([[episodes/2023-12-21|2023-12-21]]): Rented movie theater on three-year contract for 'Let's Go to the Movies' segment [1:06:03].
 - **[03:37:55]** ([[episodes/2023-12-29|2023-12-29]]): Case Blackwell confirms New Year's Eve broadcast scheduled for Sunday mid-afternoon, prioritizing schedules of major subscribers CV loves you and tamtrant.
+- **[[3:20:52]]** ([[episodes/2023-12-31|2023-12-31]]): Wins Best Host of the Network via multi-poll tournament; admits 'you start a news network to win an award... you make an award show and give it to yourself.'

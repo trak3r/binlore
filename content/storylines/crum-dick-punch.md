@@ -54,6 +54,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2023-12-12|2023-12-12]] [09:42] | Crum mentions 50-sub milestone for reading original children's story 'The Night Before Crum's Miss' [09:42], referencing ongoing gambling liability content. |
 | [[../episodes/2023-12-16|2023-12-16]] | [101:00] Crum claims to have quit the network and appears as 'Eugene Scrum' to avoid debating Munch, but returns by end of broadcast for keys and contract talk. |
 | [[../episodes/2023-12-21|2023-12-21]] | Crum back on-air after 'burying the hatchet' on grunge stream; Munch revives rivalry by introducing Scrum as replacement, chat poll runs 50/50, scoreboard updated to 83. |
+| [[../episodes/2023-12-31|2023-12-31]] [30:00] | [30:00] Munch renews 'Crum Face Punch' rhetoric during award show monologue: 'Nothing is difficult as looking at crumb's ugly fucking face... I wish he was dead.' |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |

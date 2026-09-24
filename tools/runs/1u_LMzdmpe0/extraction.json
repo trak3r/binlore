@@ -1,0 +1,260 @@
+{
+  "segments": [
+    {
+      "start": "15:23",
+      "end": "27:29",
+      "canonical_segment": "News",
+      "title": "Red Carpet Pre-Show & Best Metaverse/VR News Award",
+      "notes": "Case Blackwell hosts the red carpet outside the Duncan Dozenuts Financial Arena; chat nominates and votes for Best Metaverse/VR News (Juicy Verse wins, accepted by Candy Corn)."
+    },
+    {
+      "start": "27:29",
+      "end": "41:00",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch Hosts Main Award Show — Best Trailer of the Year",
+      "notes": "Ralph Munchcut takes over hosting duties inside the arena; Best Trailer award ends in a tie between Battletruck and the original Sonic trailer (accepted by a static image of Knuckles)."
+    },
+    {
+      "start": "41:00",
+      "end": "47:34",
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip Bradstein Red Carpet Interviews",
+      "notes": "Trip Bradstein interviews a parade of eccentric red-carpet attendees including Cosmic Cat, Rob Elvie, Conway Trippie, Guy Lombardo, Generic Anime Guy, and Bill Flinton."
+    },
+    {
+      "start": "47:34",
+      "end": "1:06:24",
+      "canonical_segment": "News",
+      "title": "Case Returns — Best Guest & Best Interview Awards",
+      "notes": "Case Blackwell resumes hosting; Best Guest on BIN goes to Kendall (tie with bookshelf); Best Street Interview goes to the Molester Bros (accepted by their uncle)."
+    },
+    {
+      "start": "1:06:24",
+      "end": "1:57:17",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch Returns — Best G4TV Employee & Best Kendall Moment",
+      "notes": "Munch hosts Best G4TV Employee (Drunkletad wins, accepted by his manager); Case hosts Best Kendall Moment (tie between Kendall/TikTok CEO)."
+    },
+    {
+      "start": "1:57:17",
+      "end": "2:11:31",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Joe Rogan Experience Year-in-Review",
+      "notes": "Parody Joe Rogan reflects on 2023, discusses shaved-ice diet, internal itch mantras, Jamie's kiddie-pool wire entanglement, and the Rock buying the XFL."
+    },
+    {
+      "start": "2:11:31",
+      "end": "2:40:14",
+      "canonical_segment": "Munch & Crum",
+      "title": "Clementine Hosts Best Conspiracy & Munch Hosts Best B-roll Audience Member",
+      "notes": "Clementine Verne presents Best Conspiracy (Jeremy Renner Snowplow Conspiracy wins, accepted by Renner's 'nephew'); Munch presents Best B-roll Audience Member (Pepito wins)."
+    },
+    {
+      "start": "2:40:14",
+      "end": "2:58:19",
+      "canonical_segment": "News",
+      "title": "Best Shop LC Moment & Best Host of Munch & Crum",
+      "notes": "Munch presents Best Shop LC Moment (SDSO Basecamp wins, accepted by a lieutenant); Best Host of Munch & Crum poll erupts in controversy — Munch declares victory after alleged poll manipulation."
+    },
+    {
+      "start": "2:58:19",
+      "end": "3:23:59",
+      "canonical_segment": "News",
+      "title": "Best Host of the Network & Pepito Lifetime Achievement Award",
+      "notes": "Multi-poll tournament crowns Case Blackwell Best Host of the Network; Case surprises Pepito with Lifetime Achievement Award and a voice memo from Fiona."
+    },
+    {
+      "start": "3:23:59",
+      "end": "3:43:47",
+      "canonical_segment": "DJ Newsic",
+      "title": "DJ Newsic / Goblin Pisa Hut Rap Finale & Raid",
+      "notes": "DJ Newsic hands off to Goblin Pisa Hut (Gio Borglain) for an extended freestyle rap; Case reverts from 'Grunt' persona and raids Jim Tasty."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "anchor. Hosts red carpet and main desk; runs award polls; wins Best Host of the Network; presents Pepito's Lifetime Achievement Award.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Hosts main award show segments; roasts Crum relentlessly; wins Best Host of Munch & Crum after disputing poll results.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Target of Munch's sustained verbal assault; appears in crowd; referenced in gambling/face-punch lore.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Wins Best B-roll Audience Member and Lifetime Achievement Award; receives voice memo from owner Fiona.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducts red-carpet interviews from the street; interacts with parade of bit characters.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Co-hosts red carpet with Case; wins first poll in Best Host of the Network tournament.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Briefly joins Case on red carpet; reads chat reactions.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Wins Best Guest on BIN and Best Kendall Moment (tie); appears backstage and in shower during finale.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Appears uninvited on red carpet; claims he 'watered straight up to the desk.'",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Wins second poll in Best Host of the Network tournament; referenced as 'Chet' and 'Science Eyes.'",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "musical finale host",
+      "notes": "musical finale host. Closes the broadcast with auto-tuned rap; hands off to Goblin Pisa Hut.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype announcer",
+      "notes": "hype announcer. Briefly appears during host tournament; claims 'Best Train' award.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Clementine",
+      "role": "correspondent",
+      "notes": "correspondent. Hosts Best G4TV Employee and Best Conspiracy awards; delivers anti-media rant.",
+      "canonical_name": "Clementine",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Goblin Pisa Hut (Gio Borglain)",
+      "role": "former mayor / recurring character",
+      "notes": "former mayor / recurring character. Delivers extended freestyle rap finale; reveals chin augmentation; references 'Pisa Hut spirit.'",
+      "canonical_name": "Goblin Pisa Hut (Gio Borglain)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[30:00] Munch renews 'Crum Face Punch' rhetoric during award show monologue: 'Nothing is difficult as looking at crumb's ugly fucking face... I wish he was dead.'",
+      "timestamp": "30:00"
+    },
+    {
+      "storyline": "Crum Face Punch",
+      "beat": "[1:54:08] Munch mocks Crum's 'blood age of about 100' while accepting Best B-roll award; Crum visibly reacts in crowd.",
+      "timestamp": "1:54:08"
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[3:11:16] Case mentions 'Beyblade Tournament' as a pending community pledge while setting up final host polls.",
+      "timestamp": "3:11:16"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Receives Lifetime Achievement Award; Fiona sends voice memo confirming she will pick him up and calling him 'my dog.'",
+      "timestamp": "[3:23:59]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Goblin Pisa Hut",
+      "fact": "Has undergone chin augmentation ('went a little Zac Efron with it'); claims to be a century old.",
+      "timestamp": "[3:33:26]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Duncan Dozenuts Financial",
+      "fact": "Official sponsor of the 2023 Barely Awards; arena naming rights holder.",
+      "timestamp": "[17:36]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "CV Loves You (Tam Tran)",
+      "fact": "Principal underwriter of the award show; gifts large sub bundles throughout.",
+      "timestamp": "[42:52]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Wins Best Host of the Network via multi-poll tournament; admits 'you start a news network to win an award... you make an award show and give it to yourself.'",
+      "timestamp": "[3:20:52]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News rings in the new year with the 2023 Barely Awards, a three-hour gala at the Duncan Dozenuts Financial Arena. Ralph Munchcut seizes hosting duties to roast Leonard Crum and preside over categories including Best Metaverse (Juicy Verse), Best Trailer (Battletruck/Sanic tie), and Best Guest (Kendelle). Trip Bradstein works the red carpet while a parody Joe Rogan reflects on a year of shaved-ice diets and wire-entangled producers. The night culminates in a contested Best Host tournament won by Case Blackwell, a surprise Lifetime Achievement Award for Pepito featuring a voice memo from Fiona, and a chaotic freestyle finale from Goblin Pisa Hut before a raid on Jim Tasty.",
+  "_meta": {
+    "vod_id": "1u_LMzdmpe0",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 163982,
+    "approx_prompt_tokens": 40995,
+    "transcript_lines": 495
+  }
+}
