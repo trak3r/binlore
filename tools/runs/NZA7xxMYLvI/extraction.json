@@ -1,0 +1,117 @@
+{
+  "segments": [
+    {
+      "start": "00:01",
+      "end": "25:47",
+      "canonical_segment": "News",
+      "title": "Lethal Company Modded Marathon Begins",
+      "notes": "Case Blackwell opens a 12+ hour heavily modded Lethal Company stream with Kendelle; early rounds feature cosmetic mods, spray paint mechanics, and high enemy density."
+    },
+    {
+      "start": "25:47",
+      "end": "34:35",
+      "canonical_segment": "News",
+      "title": "Peter Griffin House Map",
+      "notes": "Crew explores a Family Guy–themed custom map; Paper Mario map fails to load; Case plays as Peter Griffin model with detailed environment recreation."
+    },
+    {
+      "start": "34:35",
+      "end": "49:04",
+      "canonical_segment": "News",
+      "title": "Mario World Map Exploration",
+      "notes": "Custom Super Mario map with Princess Peach, Yoshi, and Piranha Plant models; crew navigates pipes and hidden areas."
+    },
+    {
+      "start": "49:04",
+      "end": "01:01:20",
+      "canonical_segment": "News",
+      "title": "Adult Content Discovery in Mario Map",
+      "notes": "Crew finds NSFW 'sexy Piranha Plant' area with suggestive animations; Case jokes about Twitch after-dark rules and losing 'lethal company virginity'."
+    },
+    {
+      "start": "01:01:20",
+      "end": "01:12:50",
+      "canonical_segment": "News",
+      "title": "In-Game Drawing Minigame & Quota Completion",
+      "notes": "Players use a clipboard drawing mod for improvised comedy (Pornhub ad parody, political slogans); quota reached, transition to Titan moon."
+    },
+    {
+      "start": "01:12:50",
+      "end": "01:30:45",
+      "canonical_segment": "News",
+      "title": "Titan Moon & Fitness Gram Interruption",
+      "notes": "Brief Titan gameplay; beep test audio plays over comms; Kendall's game crashes requiring rejoin."
+    },
+    {
+      "start": "01:30:45",
+      "end": "02:24:42",
+      "canonical_segment": "News",
+      "title": "Return to Peter Griffin House & Simpsons Map Prep",
+      "notes": "Crew revisits Peter Griffin map; Fiona mentions streaming retirement; decision to uninstall Peter/Paper Mario mods and download Peach's Castle and Simpsons Hit & Run map."
+    },
+    {
+      "start": "02:24:42",
+      "end": "03:03:52",
+      "canonical_segment": "News",
+      "title": "Simpsons Hit & Run Open World Map",
+      "notes": "Massive Springfield/Quimbyville recreation from racing game; no enemies, huge scale causes navigation confusion; players fall through map geometry repeatedly."
+    },
+    {
+      "start": "03:03:52",
+      "end": "03:21:31",
+      "canonical_segment": "News",
+      "title": "Peach's Castle Finale & Stream Conclusion",
+      "notes": "Final map: Princess Peach's Castle with Toad filter, nutcrackers, Arumba, and FNAF animatronics; Case ends 14-hour stream, announces possible Tuesday return."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors 14-hour modded Lethal Company marathon, cycles through Peter Griffin, Toad, and cow suits while wrangling guest players and map installs.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Co-op partner throughout the marathon; survives map transitions, game crashes, and Simpsons map geometry failures alongside Case.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Completed a 14-hour continuous modded Lethal Company stream starting at noon, ending at ~4 AM [03:21:31].",
+      "timestamp": "03:21:31",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Participated for the full duration as Case's primary co-op partner across all custom maps [03:21:31].",
+      "timestamp": "03:21:31",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Barely Informed News",
+      "fact": "Broadcast originated from Case's home streaming room with heavy mod load (1000+ mods) causing PC performance issues [02:26:23].",
+      "timestamp": "02:26:23",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell and Kendelle host a 14-hour modded Lethal Company endurance stream, cycling through custom maps including a detailed Peter Griffin house, a Super Mario world with adult-content Easter eggs, a massive Simpsons Hit & Run open-world recreation, and Princess Peach's Castle. Guest players Fiona, Fancy, and Exterminator join for various segments. The broadcast concludes with Case announcing a likely return on Tuesday after travel.",
+  "_meta": {
+    "vod_id": "NZA7xxMYLvI",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 87650,
+    "approx_prompt_tokens": 21912,
+    "transcript_lines": 392
+  }
+}

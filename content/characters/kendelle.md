@@ -54,13 +54,14 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
 | [[episodes/2024-07-20|2024-07-20]] | Appears on couch cam, sleeps through friend visit, debates smut vs no smut (concedes), wins fursona poll, declines boba after stream runs… |
-| [[episodes/2024-01-19|2024-01-19]] | in-studio contributor. |
+| [[episodes/2024-01-20|2024-01-20]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (23)</summary>
+<summary>Earlier appearances (24)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-01-19|2024-01-19]] | in-studio contributor. |
 | [[episodes/2024-01-17|2024-01-17]] | in-studio contributor. |
 | [[episodes/2024-01-12|2024-01-12]] | in-studio contributor. |
 | [[episodes/2024-01-09|2024-01-09]] | in-studio contributor. |
@@ -112,3 +113,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[]** ([[episodes/2024-01-05|2024-01-05]]): Has a dedicated 'noups room' (news + naps) in the studio where she sleeps during broadcasts. [14:48]
 - **[01:48:03]** ([[episodes/2024-01-05|2024-01-05]]): [01:48:03] Cannot get cat until March due to housing delay; currently in crowded temporary apartment.
 - **[30:06]** ([[episodes/2024-01-12|2024-01-12]]): Confirms she and Case use spray-paint dots above doors for exits and to the side for dead ends as a navigation system. [30:06]
+- **[03:21:31]** ([[episodes/2024-01-20|2024-01-20]]): Participated for the full duration as Case's primary co-op partner across all custom maps [03:21:31].

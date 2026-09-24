@@ -100,3 +100,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[[03:21:31]]** ([[episodes/2024-01-04|2024-01-04]]): States intent to resume standard news broadcast format tomorrow after extended Lethal Company hiatus.
 - **[01:47:32]** ([[episodes/2024-01-05|2024-01-05]]): [01:47:32] Apartment move-in delayed to March; builder originally promised October then November then February.
 - **[[15:46]]** ([[episodes/2024-01-19|2024-01-19]]): Nephew plays under handle 'Tracy Chapman' and joins lobby via right-click invite [15:46].
+- **[03:21:31]** ([[episodes/2024-01-20|2024-01-20]]): Completed a 14-hour continuous modded Lethal Company stream starting at noon, ending at ~4 AM [03:21:31].
