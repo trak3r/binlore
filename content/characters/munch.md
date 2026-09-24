@@ -123,3 +123,4 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[[1:25:08]]** ([[episodes/2023-12-02|2023-12-02]]): Claims to be ancient immortal from Sumeria; crossed thousand-year threshold and dropped 'Young' from name.
 - **[[03:00:37]]** ([[episodes/2023-12-18|2023-12-18]]): Agrees to return to the network after forced on-air apology to Crum; claims the show was 'easier than ever' without him.
 - **[1:34:35]** ([[episodes/2023-12-21|2023-12-21]]): Claims to be nuclearly powered by a curse, immortal, and the real Santa who rides Rudolph [1:34:35].
+- **[01:08:19]** ([[episodes/2024-01-05|2024-01-05]]): [01:08:19] Contractual sub goal (30 subs) forces Munch to be 'nice' for debate segment; Pepito drafted contract.

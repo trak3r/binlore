@@ -106,3 +106,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[16:08]** ([[episodes/2023-12-29|2023-12-29]]): Kendelle reveals her mother's pug gave birth at 10 months old, impregnated by its biological father, and accidentally smothered a puppy.
 - **[[07:39]]** ([[episodes/2024-01-04|2024-01-04]]): Gifted Blackwell a foot massager for Christmas; operates as in-studio co-pilot during extended gaming broadcasts.
 - **[]** ([[episodes/2024-01-05|2024-01-05]]): Has a dedicated 'noups room' (news + naps) in the studio where she sleeps during broadcasts. [14:48]
+- **[01:48:03]** ([[episodes/2024-01-05|2024-01-05]]): [01:48:03] Cannot get cat until March due to housing delay; currently in crowded temporary apartment.

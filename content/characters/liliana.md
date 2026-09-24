@@ -43,6 +43,7 @@ Liliana was absent from *Barely Informed News* for approximately a full year bef
 | [[episodes/2025-06-19|2025-06-19]] | desk partner. |
 | [[episodes/2025-06-02|2025-06-02]] | in-studio contributor. |
 | [[episodes/2024-07-20|2024-07-20]] | Participates in both [[../segments/jambalaya|Jambalaya]] sessions, argues for buttersnitch pie and potato-as-human, dominates piss-play questions, votes for Kendall… |
+| [[episodes/2024-01-05|2024-01-05]] | desk partner. |
 | [[episodes/2023-12-31|2023-12-31]] | desk partner. |
 | [[episodes/2023-12-18|2023-12-18]] | desk partner. |
 | [[episodes/2023-12-12|2023-12-12]] | desk partner. |

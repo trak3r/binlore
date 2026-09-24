@@ -131,3 +131,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[[3:23:59]]** ([[episodes/2023-12-31|2023-12-31]]): Receives Lifetime Achievement Award; Fiona sends voice memo confirming she will pick him up and calling him 'my dog.'
 - **[]** ([[episodes/2024-01-05|2024-01-05]]): Claims to have been born from an egg via 'sloop shoot' and identifies as an orphan; declares Fiona his 'best mommy' despite Trip's skepticism. [54:42]
 - **[]** ([[episodes/2024-01-05|2024-01-05]]): New Pepito emote saved and ready for upload. [1:21:04]
+- **[00:21:42]** ([[episodes/2024-01-05|2024-01-05]]): [00:21:42] Case refers to Pepito as 'Pappito' during Goku Bracken emergency cut.

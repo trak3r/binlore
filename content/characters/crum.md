@@ -179,3 +179,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[1:25:08]** ([[episodes/2023-12-21|2023-12-21]]): Case hired Scrum for a year-long contract after one-day trial [1:25:08].
 - **[]** ([[episodes/2023-12-30|2023-12-30]]): Teleports mid-debate segment [47:48]; claims millions of ass hair follicles exceeding Appalachian population [37:57].
 - **[]** ([[episodes/2023-12-30|2023-12-30]]): Hired by Crum as Munch & Crum replacement co-host; Case locked him to two-year contract [18:22]. Expertise: gummy bear manufacturing, beanie baby smuggling (beanie baggies) [29:25, 30:41].
+- **[01:22:05]** ([[episodes/2024-01-05|2024-01-05]]): [01:22:05] Score updated to Crum 20 points ahead of Munch; Munch claims he updated score yesterday.

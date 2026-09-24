@@ -56,7 +56,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-06-22|2026-06-22]] | High-velocity musical correspondent who confesses to cheating on his Panther girlfriend, discusses beats, and provides cultural commentary throughout the pre-show. |
 
 <details>
-<summary>Earlier appearances (19)</summary>
+<summary>Earlier appearances (20)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -76,6 +76,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2025-06-11|2025-06-11]] | Commandeered the birthday broadcast with freestyle raps, hell lore, and a level-13 surge while insisting every hype train is his birthday. |
 | [[episodes/2025-06-02|2025-06-02]] | hype correspondent. |
 | [[episodes/2025-05-27|2025-05-27]] | musical/cultural interruption. |
+| [[episodes/2024-01-05|2024-01-05]] | musical correspondent. |
 | [[episodes/2023-12-31|2023-12-31]] | hype announcer. |
 | [[episodes/2023-12-18|2023-12-18]] | musical correspondent. |
 | [[episodes/2023-12-02|2023-12-02]] | Commandeered broadcast for Level 6 hype train; performed Quad City DJs Christmas freestyles; thanked subscribers. |
@@ -83,27 +84,6 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 </details>
 
 ## Notable moments
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 - **[19:32]** ([[episodes/2026-09-02|2026-09-02]]): Unveils *Piss Fruit Ninja* as an upcoming interactive project, chiding Blackwell for leaking details on the network feed.
 - **[22:33]** ([[episodes/2026-09-02|2026-09-02]]): Introduces his Panther partner to the audience and articulates his non-possessive relationship ethos.
@@ -152,3 +132,4 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[01:12:09]** ([[episodes/2026-09-04|2026-09-04]]): Recurring Hype Train persona rants that eggs do not contain sauce inside them and demands eggs be 'bred to have sauce already in them.' Performs 'egg-type beats' in a Dr. Seuss cadence ('Some things are born with squiggles on their tummies'). Also claims to have learned a CIA lesson that 'you can't make everyone like you' and asks for a sensual love-song beat when fans unfollow.
 - **[01:14:19]** ([[episodes/2026-09-04|2026-09-04]]): Rap self-description: 'puff-puff pass while I'm eating the yolk' and 'You're smoking yellow, not mellow' — establishes Hype Train persona as mixing food and weed wordplay. Also raps 'beating eggs' and 'eggs been in breath.'
 - **[01:20:13]** ([[episodes/2026-09-04|2026-09-04]]): Twitch sub acknowledgments: s1000 (42-month resub), Skymer (300 bits), Giggle Trash (community sub), Mighty Oz (100 bits), Apple to Apple (100 bits), Tamtrend, Bundle Sprout (resub), Card King (gifted sub to Swillery Hank). Establishes recurring Hype Train sub-thanking cadence.
+- **[00:45:41]** ([[episodes/2024-01-05|2024-01-05]]): [00:45:41] Manifests as 'Tim Paul' with kid-in-fluer scheme (digital child-influencer hybrids); hotecohospital.paul website returns no results.

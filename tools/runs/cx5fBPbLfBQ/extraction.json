@@ -1,0 +1,275 @@
+{
+  "segments": [
+    {
+      "start": "00:15:21",
+      "end": "00:22:47",
+      "canonical_segment": "News",
+      "title": "Opening Chat & Lethal Company Discussion",
+      "notes": "Case opens with chat interaction, discusses Lethal Company streaming marathon and viewer requests for news stories."
+    },
+    {
+      "start": "00:18:44",
+      "end": "00:21:07",
+      "canonical_segment": "News",
+      "title": "Goku Bracken Interview",
+      "notes": "Case interviews Goku Bracken who repeatedly snaps his neck; ultra instinct music forces emergency feed cut."
+    },
+    {
+      "start": "00:22:47",
+      "end": "00:27:43",
+      "canonical_segment": "News",
+      "title": "Chat Persona Segment: Epstein List & George Lucas",
+      "notes": "Chat joins as on-air personality; discusses Epstein list, George Lucas mention, and Logan Paul CryptoZoo pivot."
+    },
+    {
+      "start": "00:27:43",
+      "end": "00:45:08",
+      "canonical_segment": "News",
+      "title": "Logan Paul CryptoZoo Refund Announcement",
+      "notes": "Case reads Logan Paul's statement launching buyback website and $2.3M personal commitment; Case claims $1.5M personal loss."
+    },
+    {
+      "start": "00:45:08",
+      "end": "00:51:47",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train as Tim Paul: Kid-in-Fleur Scheme",
+      "notes": "Hype Train appears as 'Tim Paul' pitching digital child-influencer hybrids; website returns no results."
+    },
+    {
+      "start": "00:52:58",
+      "end": "01:07:17",
+      "canonical_segment": "News",
+      "title": "Conspiracy Time with Clementine: Secret Fifth Ninja Turtle",
+      "notes": "Clementine unveils Kirby the cancelled fifth Ninja Turtle, Beyonce/Illuminati corn syrup theory, and biblical angel redesigns."
+    },
+    {
+      "start": "01:08:19",
+      "end": "01:23:20",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch Forced Nice: Jan 6 Insurrection vs Protest Debate",
+      "notes": "Sub goal forces Munch to be contractually nice; Munch argues Jan 6 was protest, Crum argues insurrection; Crum wins poll decisively."
+    },
+    {
+      "start": "01:23:20",
+      "end": "01:41:01",
+      "canonical_segment": "News",
+      "title": "Call for an Expert: Steve Copeland Clown Interview",
+      "notes": "Jeff Ripple researches clown duo; Case interviews impostor Lou Jacobs claiming to be Steve Copeland; real Steve Copeland video shown."
+    },
+    {
+      "start": "01:41:32",
+      "end": "01:53:51",
+      "canonical_segment": "News",
+      "title": "Auto-Sexuality Segment with Liliana",
+      "notes": "Liliana breaks down auto-sexual orientation; Case and Liliana test five signs; personal housing update reveals March move-in delay."
+    },
+    {
+      "start": "01:53:51",
+      "end": "02:07:24",
+      "canonical_segment": "DJ Newsic",
+      "title": "DJ Newsic Finale: Trump Colorado Ballot & Kirby the Ninja Turtle",
+      "notes": "DJ Newsic sings Trump Supreme Court appeal; brings out Kirby the fifth Ninja Turtle who endorses Splinter for president."
+    },
+    {
+      "start": "02:07:24",
+      "end": "02:08:10",
+      "canonical_segment": "News",
+      "title": "Raid Outro to Still Do",
+      "notes": "Case raids Still Do playing Last of Us Part 2; signs off for weekend."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors full broadcast; claims $1.5M CryptoZoo loss; reveals apartment move delayed to March.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Referenced as 'Pappito' by Case; produces show and cuts Goku Bracken feed.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Wins Jan 6 insurrection debate poll decisively; score updated to 20-point lead over Munch.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Contractually forced to be 'nice' at 30 subs; argues Jan 6 was protest; loses debate poll.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical correspondent",
+      "notes": "musical correspondent. Appears as 'Tim Paul' pitching kid-in-fluer digital child hybrids; website nonexistent.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Clementine",
+      "role": "conspiracy correspondent",
+      "notes": "conspiracy correspondent. Reveals secret fifth Ninja Turtle Kirby; connects Beyonce lyrics to corn syrup Illuminati theory.",
+      "canonical_name": "Clementine",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Researches Steve Copeland clown duo; confused by Show Biz David website.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Breaks down auto-sexuality with clinical sources; reveals housing delay and cat wait until March.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "musical finale host",
+      "notes": "musical finale host. Euro-dance Trump Colorado ballot coverage; debuts Kirby the Ninja Turtle character.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Mentioned as crawlspace resident; Case references 'cramp between Peter and Pepito'.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walks through studio discussing Poppy sweepstakes; naps on camera with lights dimmed.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Goku Bracken",
+      "role": "call-in guest",
+      "notes": "call-in guest. Repeatedly snaps Case's neck; ultra instinct music triggers emergency eject.",
+      "canonical_name": "Goku Bracken",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chat",
+      "role": "call-in guest",
+      "notes": "call-in guest. Personified as on-air personality; discusses Epstein list and George Lucas.",
+      "canonical_name": "Chat",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Steve Copeland / Lou Jacobs",
+      "role": "call-in guest",
+      "notes": "call-in guest. Impostor Lou Jacobs poses as clown Steve Copeland; real Steve Copeland video shown post-interview.",
+      "canonical_name": "Steve Copeland / Lou Jacobs",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Munch & Crum Rivalry",
+      "beat": "[01:08:19] Sub goal forces Munch to be contractually 'nice' for debate; Crum wins Jan 6 insurrection poll decisively; score updated to Crum +20.",
+      "timestamp": "01:08:19"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "[01:47:32] Apartment move-in delayed to March; builder originally promised October then November then February.",
+      "timestamp": "01:47:32",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "[01:48:03] Cannot get cat until March due to housing delay; currently in crowded temporary apartment.",
+      "timestamp": "01:48:03",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "[00:21:42] Case refers to Pepito as 'Pappito' during Goku Bracken emergency cut.",
+      "timestamp": "00:21:42",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "[01:08:19] Contractual sub goal (30 subs) forces Munch to be 'nice' for debate segment; Pepito drafted contract.",
+      "timestamp": "01:08:19",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "[01:22:05] Score updated to Crum 20 points ahead of Munch; Munch claims he updated score yesterday.",
+      "timestamp": "01:22:05",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "[00:45:41] Manifests as 'Tim Paul' with kid-in-fluer scheme (digital child-influencer hybrids); hotecohospital.paul website returns no results.",
+      "timestamp": "00:45:41",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Clementine",
+      "fact": "[00:54:37] Reveals cancelled fifth Ninja Turtle 'Kirby' from unmade TMNT 4; claims Kirby disrupts Renaissance naming convention.",
+      "timestamp": "00:54:37",
+      "confidence": 0.7
+    },
+    {
+      "entity": "DJ Newsic",
+      "fact": "[02:02:08] Debuts Kirby the Ninja Turtle character who endorses Splinter for president and all Supreme Court seats.",
+      "timestamp": "02:02:08",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell delivers a dense two-hour broadcast covering Logan Paul's CryptoZoo refund launch, a contractually mandated 'nice' Munch & Crum debate on January 6th that Crum wins decisively, a clown interview mix-up resolved by Jeff Ripple, Liliana's auto-sexuality breakdown amid personal housing delays, and a DJ Newsic musical finale featuring the debut of Kirby the secret fifth Ninja Turtle endorsing Splinter for president.",
+  "_meta": {
+    "vod_id": "cx5fBPbLfBQ",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 99707,
+    "approx_prompt_tokens": 24926,
+    "transcript_lines": 201
+  }
+}

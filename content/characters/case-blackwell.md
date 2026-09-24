@@ -98,3 +98,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[04:28:59]** ([[episodes/2024-01-02|2024-01-02]]): Case Blackwell proposes to Kendelle on live broadcast; she accepts.
 - **[[02:45:52]]** ([[episodes/2024-01-04|2024-01-04]]): Confirmed impending relocation; new streaming office will accommodate a couch; brother may acquire PC for co-op play.
 - **[[03:21:31]]** ([[episodes/2024-01-04|2024-01-04]]): States intent to resume standard news broadcast format tomorrow after extended Lethal Company hiatus.
+- **[01:47:32]** ([[episodes/2024-01-05|2024-01-05]]): [01:47:32] Apartment move-in delayed to March; builder originally promised October then November then February.
