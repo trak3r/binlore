@@ -1,0 +1,57 @@
+{
+  "segments": [
+    {
+      "start": "00:45",
+      "end": "05:27:44",
+      "canonical_segment": "News",
+      "title": "Lethal Cream Company — Extended Co-Op Survival Session",
+      "notes": "Anchor Case Blackwell hosts a five-hour Lethal Company co-op marathon with rotating lobby of friends and viewers (Fiona, Kendall, Christian, Hostway, John, Fancy, Exterminator, Ash, Nathan, Amir, Malco, Sway, Yael, Radium V, Daddy Rads). Session features repeated quota runs, moon routing debates (Titan, Rend, Dine, Vow), teleporter acquisition, and frequent deaths to brackens, nutcrackers, eclipse fog, and flooded maps. No traditional news desk content; broadcast consists entirely of live gameplay and voice comms."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors an extended Lethal Company co-op session as de facto lobby leader, managing invites, moon purchases, equipment logistics, and teleporter strategy across five hours.",
+      "lore_notes": [],
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Participates as 'Kendall' in the Lethal Company lobby, frequently dying to monsters and environmental hazards while providing comedic commentary.",
+      "lore_notes": [],
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Hosted a 5+ hour Lethal Company marathon with a 16-player modded lobby, culminating in teleporter purchase and successful quota clearance on final moon. [04:53:09]",
+      "timestamp": "04:53:09",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Joined the Lethal Company session as 'Kendall', died repeatedly to brackens, bees, and fall damage, and was teased for 'candle' moves (accidental self-sabotage). [03:00:52]",
+      "timestamp": "03:00:52",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News suspends standard programming for a five-hour Lethal Company co-op marathon. Anchor Case Blackwell commands a volatile 16-player lobby through repeated quota cycles, moon rotations, and catastrophic wipes, ultimately securing a ship teleporter and clearing the final quota before raiding out to Radium V's channel. Executive Producer Pepito, debate analysts Crum and Munch, and stowaway Peter Gibbon are notably absent from the broadcast.",
+  "_meta": {
+    "vod_id": "i1Acx1I0wY8",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 147701,
+    "approx_prompt_tokens": 36925,
+    "transcript_lines": 562
+  }
+}
