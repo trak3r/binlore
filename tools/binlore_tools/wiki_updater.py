@@ -554,6 +554,8 @@ def create_character_page(
     lore_facts: list[tuple[str, str]],
     *,
     dry_run: bool = False,
+    status: str = "minor contributor",
+    tags: list[str] | None = None,
 ) -> Path | None:
     """Create a new character markdown file and add it to characters/index.md."""
     # Exclude stream raid recipients: external streamers Case raids at stream close
@@ -639,8 +641,10 @@ def create_character_page(
 
     cya_block = ""
     intro_lead = f"**{name}** is a persona and contributor featured on *Barely Informed News*."
-    status_tag = "recurring"
-    index_role = "recurring"
+    status_tag = status or "minor contributor"
+    index_role = status_tag
+    tag_list = tags if tags is not None else ["character", "minor"]
+    tags_yaml = "\n".join(f"  - {t}" for t in tag_list)
 
     content = f"""---
 title: {name}
@@ -649,7 +653,7 @@ aliases: []
 first_seen: {ep_slug}
 status: {status_tag}
 tags:
-  - character
+{tags_yaml}
 ---
 
 # {name}
@@ -1022,6 +1026,19 @@ def update_wiki_from_extraction(
             generate_episodes_index()
             if "episodes/index.md" not in report.indexes_updated:
                 report.indexes_updated.append("episodes/index.md")
+        except Exception:
+            pass
+
+    # 5. Promote characters by appearance thresholds (minor ≥3, recurring ≥6)
+    if not dry_run:
+        try:
+            from .promote import promote_characters
+
+            promo = promote_characters(dry_run=False, rebuild_index=True)
+            report.characters_created.extend(promo.minors_created)
+            if promo.minors_created or promo.promoted_recurring:
+                if "characters/index.md" not in report.indexes_updated:
+                    report.indexes_updated.append("characters/index.md")
         except Exception:
             pass
 

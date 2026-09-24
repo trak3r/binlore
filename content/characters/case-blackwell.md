@@ -2,11 +2,12 @@
 title: Case Blackwell
 type: character
 aliases:
-  - Case
+- Case
 first_seen: 2024-07-20
 tags:
-  - character
-  - host
+- character
+- host
+status: recurring
 ---
 
 # Case Blackwell

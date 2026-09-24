@@ -2,17 +2,17 @@
 title: DJ Newsic
 type: character
 aliases:
-  - Newsic
-  - The Newsic Guy
+- Newsic
+- The Newsic Guy
 first_seen: 2024-07-20
-status: active
+status: recurring
 tags:
-  - character
-  - talent
-  - music
-  - dj
-  - newsic
-  - techno
+- character
+- talent
+- music
+- dj
+- newsic
+- techno
 ---
 
 # DJ Newsic

@@ -2,13 +2,14 @@
 title: Munch (Ralph Munchcut)
 type: character
 aliases:
-  - Ralph Munchcut
-  - Munchcut
-  - Munch
+- Ralph Munchcut
+- Munchcut
+- Munch
 first_seen: 2024-07-20
 tags:
-  - character
-  - debate
+- character
+- debate
+status: recurring
 ---
 
 # Munch (Ralph Munchcut)

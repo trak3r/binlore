@@ -2,15 +2,16 @@
 title: Crum (Leonard Crum)
 type: character
 aliases:
-  - Leonard Crum
-  - Crumb
-  - Leonard Crumb
-  - Leonard Crumfuscious
-  - Crumfuscious
+- Leonard Crum
+- Crumb
+- Leonard Crumb
+- Leonard Crumfuscious
+- Crumfuscious
 first_seen: 2024-07-20
 tags:
-  - character
-  - debate
+- character
+- debate
+status: recurring
 ---
 
 # Crum (Leonard Crum)

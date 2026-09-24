@@ -10,11 +10,11 @@ from typing import Any
 
 from .canon import (
     format_canon_for_prompt,
-    is_core_network_character,
     is_excluded_external_subject,
     load_wiki_canon,
 )
 from .paths import REPO_ROOT, RUNS_DIR, TOOLS_ROOT
+from .promote import select_core_talent
 
 
 def load_env() -> None:
@@ -734,7 +734,7 @@ def extract_lore_from_vod(
     user_prompt = build_user_prompt(meta, canon_text, transcript_text)
 
     all_chars = canon.get("characters", [])
-    core_chars = [c for c in all_chars if is_core_network_character(c)]
+    core_chars = select_core_talent(all_chars)
     omitted_count = len(all_chars) - len(core_chars)
     core_names = [c.name for c in core_chars]
 
@@ -743,7 +743,8 @@ def extract_lore_from_vod(
     print(f"Transcript: {len(transcript_text):,} chars (~{len(transcript_text)//4:,} tokens)")
     print(
         f"Canon roster: {len(core_chars)} core recurring characters "
-        f"({omitted_count} one-offs/public figures omitted from prompt)"
+        f"(top {len(core_chars)} by appearance among recurring; "
+        f"{omitted_count} others omitted from prompt)"
     )
     print(f"Core talent: {', '.join(core_names)}")
     print(f"Provider: OpenRouter  model={model}  (no weaker-model fallback)")
