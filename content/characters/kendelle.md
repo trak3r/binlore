@@ -9,7 +9,7 @@ aliases:
   - Kendelle McDonald
   - Kendall McDonald
   - Candy Lane
-first_seen: 2024-07-20
+first_seen: 2023-11-23
 status: in-studio contributor
 tags:
   - character
@@ -54,6 +54,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
 | [[episodes/2024-07-20|2024-07-20]] | Appears on couch cam, sleeps through friend visit, debates smut vs no smut (concedes), wins fursona poll, declines boba after stream runs… |
+| [[episodes/2023-11-23|2023-11-23]] | in-studio contributor. |
 
 ## Notable moments
 
@@ -69,3 +70,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[]** ([[episodes/2025-06-07|2025-06-07]]): Kendelle's birthday June 13th (celebrated mid-June) [13:25]
 - **[]** ([[episodes/2025-06-07|2025-06-07]]): Kendelle's sister no longer hates Case; neighbor CIA incident resolved via Case's cordial text strategy [40:02, 43:18]
 - **[]** ([[episodes/2025-06-24|2025-06-24]]): [03:11:42] Computer repair dilemma: $150/hr in-house service needed; Case plans to take it in while she's at the office.
+- **[01:07:17]** ([[episodes/2023-11-23|2023-11-23]]): Worked at Disneyland as R2-D2 character; knows parade dances from the park. [01:07:17]

@@ -77,3 +77,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[40:02]** ([[episodes/2026-09-04|2026-09-04]]): Personal lore: Case names his hypothetical personal AI 'Tane' (rather than Alexa/Cortana), jokes 'if I ever have to get an AI I'm definitely naming it Tane.' Also mentions using 'angled buckets' for aging-related efficient urination, and owning smart windows that open/close on voice command.
 - **[]** ([[episodes/2025-06-24|2025-06-24]]): [41:05] Voice deepening described as 'next level puberty' despite being past his 20s.
 - **[[15:29]]** ([[episodes/2023-11-22|2023-11-22]]): Now streaming simultaneously on Twitch, YouTube, TikTok (pending 1k followers), and Twitter/X [15:29].
+- **[01:33:26]** ([[episodes/2023-11-23|2023-11-23]]): Paid $20/month for an AI dating/sexting chatbot subscription on stream; found it lame and planned to cancel. [01:33:26]
+- **[01:31:55]** ([[episodes/2023-11-23|2023-11-23]]): Participated in a sketch show where cast carried cumbersome objects: Case a giant speaker, Tim a pillow mech suit, Andy four vacuums. [01:31:55]

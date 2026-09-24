@@ -1,0 +1,96 @@
+{
+  "segments": [
+    {
+      "start": "00:11:19",
+      "end": "02:00:32",
+      "canonical_segment": "News",
+      "title": "Macy's Thanksgiving Day Parade Live Commentary",
+      "notes": "Case Blackwell and Tim provide running commentary on the 2023 Macy's Parade floats, balloons, performances, and parade route incidents including a stuck shoe float and Goku balloon antics."
+    },
+    {
+      "start": "02:00:32",
+      "end": "02:06:14",
+      "canonical_segment": "News",
+      "title": "National Dog Show Live Commentary",
+      "notes": "Broadcast transitions to the National Dog Show coverage with stadium crowd audio overlay; Case and Tim commentate on breed judging and handler runs."
+    },
+    {
+      "start": "02:06:14",
+      "end": "02:13:41",
+      "canonical_segment": "News",
+      "title": "Post-Parade Wind-Down and Raid Preparation",
+      "notes": "Case and Kendall wrap the broadcast, test snap camera filters, discuss holiday plans, and execute a raid to its design time."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "lead anchor",
+      "notes": "lead anchor. Anchored the Macy's Parade live commentary special, riffed on floats and balloons, revealed AI dating chatbot purchase.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Tim",
+      "role": "co-host",
+      "notes": "co-host. Co-commentated the parade and dog show, shared German shepherd bite story, discussed Jason Sudeikis incident, departed for Thanksgiving cooking.",
+      "canonical_name": "Tim",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through studio during parade coverage, revealed Disneyland R2-D2 role, participated in filter tests and sign-off.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Paid $20/month for an AI dating/sexting chatbot subscription on stream; found it lame and planned to cancel. [01:33:26]",
+      "timestamp": "01:33:26",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Worked at Disneyland as R2-D2 character; knows parade dances from the park. [01:07:17]",
+      "timestamp": "01:07:17",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Tim",
+      "fact": "Last name Lamphere (English origin, historical lamp-lighter profession); neighbor once sicced a trained German shepherd on him as a youth. [01:21:58]",
+      "timestamp": "01:21:58",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Participated in a sketch show where cast carried cumbersome objects: Case a giant speaker, Tim a pillow mech suit, Andy four vacuums. [01:31:55]",
+      "timestamp": "01:31:55",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Tim",
+      "fact": "Jason Sudeikis allegedly assaulted a mutual friend on stage while drunk and berated them for union organizing at their theater; incident within the last year. [01:41:58]",
+      "timestamp": "01:41:58",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News broadcasts live commentary of the 2023 Macy's Thanksgiving Day Parade from the newsroom desk, with Case Blackwell and Tim dissecting every float, balloon, and marching band while Kendall drops in from the studio floor. The broadcast segues into the National Dog Show with artificial stadium audio, then winds down with snap filter experiments and a raid handoff.",
+  "_meta": {
+    "vod_id": "LWcsZ959nlY",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 120907,
+    "approx_prompt_tokens": 30226,
+    "transcript_lines": 221
+  }
+}
