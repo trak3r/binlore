@@ -58,6 +58,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2024-01-05|2024-01-05]] | Crum's gambling-addiction arc not directly advanced, but his 'slop shoot' biology invention and narrow poll loss reinforce his pattern of humiliating defeats. |
 | [[../episodes/2024-02-09|2024-02-09]] | [2024-02-09] Crum calls in sick; his brother Come debuts as fill-in debate partner, claims he and Crum are 'like Frasier and Niles Crane,' wins 'up vs. down' poll against Munch. |
 | [[../episodes/2024-02-15|2024-02-15]] [47:05] | [47:05] Crum absent with 'tuberculosis or something with a T' — likely avoiding the pending pneumatic gorilla groin punch; cousin Plumb fills in at debate desk. |
+| [[../episodes/2024-02-16|2024-02-16]] [02:29:07] | [02:29:07] Munch references being '10 little points away from watching you dissolve like someone put stuff you with coin batteries until you burst' — tying the battery medical story to Crum's pending groin-punch forfeit. |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |

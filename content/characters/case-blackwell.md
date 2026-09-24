@@ -103,3 +103,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[03:21:31]** ([[episodes/2024-01-20|2024-01-20]]): Completed a 14-hour continuous modded Lethal Company stream starting at noon, ending at ~4 AM [03:21:31].
 - **[01:35:43]** ([[episodes/2024-01-27|2024-01-27]]): Interviewing for a new job that could dramatically shift the broadcast schedule if hired.
 - **[[11:06]]** ([[episodes/2024-02-01|2024-02-01]]): Has pending job interview outcome; would reduce editing workload if hired.
+- **[]** ([[episodes/2024-02-16|2024-02-16]]): Created Truth Social account 'historic skids' to monitor Donald Trump posts [59:46].

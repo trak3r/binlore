@@ -54,13 +54,14 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
 | [[episodes/2024-07-20|2024-07-20]] | Appears on couch cam, sleeps through friend visit, debates smut vs no smut (concedes), wins fursona poll, declines boba after stream runs… |
-| [[episodes/2024-02-15|2024-02-15]] | in-studio contributor. |
+| [[episodes/2024-02-16|2024-02-16]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (29)</summary>
+<summary>Earlier appearances (30)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-02-15|2024-02-15]] | in-studio contributor. |
 | [[episodes/2024-02-07|2024-02-07]] | in-studio contributor. |
 | [[episodes/2024-02-02|2024-02-02]] | in-studio contributor. |
 | [[episodes/2024-02-01|2024-02-01]] | in-studio contributor. |
@@ -123,3 +124,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[[23:46]]** ([[episodes/2024-02-01|2024-02-01]]): Getting tattoo removed from back; requires ointment application.
 - **[24:53]** ([[episodes/2024-02-02|2024-02-02]]): [24:53] Kendall works in marketing and believes 'cream team' name damages SEO; suggests spelling 'creme' or rebranding to 'show bobas'.
 - **[2:23:42]** ([[episodes/2024-02-15|2024-02-15]]): Joined DJ Newsic segment from roof to recount Valentine's dinner service failures and near-proposal moment.
+- **[]** ([[episodes/2024-02-16|2024-02-16]]): Purchased strawberry slime from Disneyland Chinese New Year festival for $14 base + $13 trinkets = $27 total [01:17:48].

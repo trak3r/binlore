@@ -1,0 +1,189 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "23:25",
+      "canonical_segment": "News",
+      "title": "Pre-Show Setup & Apartment Ceiling Poll",
+      "notes": "Case configures new polling tools, discusses apartment ceiling colors with Kendall, and fields chat suggestions while waiting for the raid to settle."
+    },
+    {
+      "start": "23:25",
+      "end": "57:58",
+      "canonical_segment": "News",
+      "title": "OpenAI Sora AI Video Model Deep Dive",
+      "notes": "Case and Jeff Ripple review OpenAI's Sora text-to-video model, watching curated examples (Tokyo snow walk, papercraft coral reef, bling zoo, woolly mammoths) and debating its photorealism versus uncanny valley artifacts."
+    },
+    {
+      "start": "57:58",
+      "end": "01:01:20",
+      "canonical_segment": "News",
+      "title": "Truth Social Sign-Up & Trump Golf Posts",
+      "notes": "Case creates a Truth Social account (handle: historic skids) to view Donald Trump's AI-generated golf photos and his claim that unflattering images are fake news."
+    },
+    {
+      "start": "01:01:20",
+      "end": "01:28:48",
+      "canonical_segment": "News",
+      "title": "Sora Technical Speculation & Yahoo Finance Valuation",
+      "notes": "Discussion of Sora's diffusion/transformer architecture, possible Unreal Engine 5 integration, burrito-render-time benchmark, and OpenAI's $80B valuation."
+    },
+    {
+      "start": "01:28:48",
+      "end": "01:44:08",
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip on the Street: AI Paranoia & Dart Farts",
+      "notes": "Trip Bradstein interviews park visitors: Hank Terfit fears he's an AI construct, Stan Stanford Banford claims all news is staged, Bart Heart discusses competitive darts farting scandal, Good Flip rates spice level 'very', Chancy Booth reports teeth in her son's slime."
+    },
+    {
+      "start": "01:44:08",
+      "end": "01:45:14",
+      "canonical_segment": "News",
+      "title": "Studio Handoff to Pepito",
+      "notes": "Case sprints back from the street; Pepito holds the desk briefly and reminds viewers he is a dog."
+    },
+    {
+      "start": "01:45:14",
+      "end": "02:11:21",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "AI Personality Tests for McDonald's & Olive Garden Jobs",
+      "notes": "Chet examines Paradox.ai's 'Tradify' assessment featuring blue alien avatars; Case and Chet take sample 'me/not me' slides (spice-prepping aliens, bicycle accident alien, gay frog, psychedelic slug) and debate corporate personality profiling."
+    },
+    {
+      "start": "02:11:21",
+      "end": "02:27:06",
+      "canonical_segment": "News",
+      "title": "Exploding Penis Medical Case: Button Battery Urethral Insertion",
+      "notes": "Liliana covers Australian urology report: 73-year-old inserted three button batteries, caused corrosive black tar tissue necrosis, required partial penectomy; chat suggests 'Acid Anaconda' supervillain origin."
+    },
+    {
+      "start": "02:27:06",
+      "end": "02:43:34",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Drake's Dick vs Electric Dick Debate & Raid",
+      "notes": "Munch argues for 'electric dick' (Electro from Spider-Man) over Drake's leaked photo; poll runs; Munch wins, updates score to 11-point deficit for Crum, raids channel 'spinachy'."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the broadcast, configured new polling tools, signed up for Truth Social as 'historic skids', debated Sora AI video quality with Jeff Ripple.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Briefly held the desk during Case's return from the street, reminded audience he is a dog.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosted the Sora AI video coverage, reacted to generated examples, discussed Trump's Truth Social posts.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendall",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Discussed apartment ceiling paint colors, showed off $27 Disneyland strawberry slime with trinkets, licked slime on air.",
+      "canonical_name": "Kendall",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted man-on-the-street interviews from park bushes featuring AI paranoia, dart farting, spice tolerance, and slime teeth mystery.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Analyzed Paradox.ai personality assessments for fast-food hiring, took live 'me/not me' test slides, claimed possible IRL connection to Paradox promo video.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Presented the exploding penis medical report from Australia, coined 'Acid Anaconda' supervillain concept.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defended Drake's penis against electric dick, fell to 11-point deficit in debate score, threatened by Munch's 'dissolve like coin batteries' line referencing Crum Dick Punch arc.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[02:29:07] Munch references being '10 little points away from watching you dissolve like someone put stuff you with coin batteries until you burst' — tying the battery medical story to Crum's pending groin-punch forfeit.",
+      "timestamp": "02:29:07"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Created Truth Social account 'historic skids' to monitor Donald Trump posts [59:46].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendall",
+      "fact": "Purchased strawberry slime from Disneyland Chinese New Year festival for $14 base + $13 trinkets = $27 total [01:17:48].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Recognized a person in Paradox.ai promotional video, suspects it was filmed in Chicago [01:56:38].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Debate score lead over Crum widened to 11 points after winning 'Drake's dick vs electric dick' poll [02:36:48].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Raided channel 'spinachy' at broadcast close [02:40:39].",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News led with OpenAI's Sora video model, showcasing photorealistic generated clips while Case and Jeff Ripple debated artistic merit versus uncanny valley. Case signed up for Truth Social to fact-check Trump's AI golf photos. Trip Bradstein returned from park hibernation for street interviews on AI identity paranoia and competitive darts flatulence. Chet Manscape dissected Paradox.ai's blue-alien personality tests now used by McDonald's and Olive Garden. Liliana delivered a grisly urology report on a pensioner whose button-battery urethral insertion caused penile necrosis. Munch & Crum closed with a debate on Drake's anatomy versus a hypothetical electric penis, Munch winning and raiding 'spinachy'.",
+  "_meta": {
+    "vod_id": "zEmmbc3NZ1c",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 131627,
+    "approx_prompt_tokens": 32906,
+    "transcript_lines": 269
+  }
+}

@@ -49,18 +49,19 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2025-06-17|2025-06-17]] | Chief Science Correspondent. |
 | [[episodes/2025-06-07|2025-06-07]] | Chief Science Correspondent. |
 | [[episodes/2024-07-20|2024-07-20]] | Joins both [[../segments/jambalaya|Jambalaya]] sessions, argues artichoke-as-human and flaked Sheldon Adelson skin condiment, debates smut vs no smut on couch. |
+| [[episodes/2024-02-16|2024-02-16]] | science correspondent. |
 | [[episodes/2024-02-15|2024-02-15]] | science correspondent. |
 | [[episodes/2024-02-09|2024-02-09]] | science correspondent. |
 | [[episodes/2024-02-01|2024-02-01]] | science correspondent. |
 | [[episodes/2024-01-27|2024-01-27]] | science correspondent. |
 | [[episodes/2024-01-19|2024-01-19]] | science correspondent. |
-| [[episodes/2024-01-13|2024-01-13]] | science correspondent. |
 
 <details>
-<summary>Earlier appearances (6)</summary>
+<summary>Earlier appearances (7)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-01-13|2024-01-13]] | science correspondent. |
 | [[episodes/2023-12-31|2023-12-31]] | science correspondent. |
 | [[episodes/2023-12-18|2023-12-18]] | science correspondent. |
 | [[episodes/2023-12-12|2023-12-12]] | science correspondent. |
@@ -97,3 +98,4 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 - **[[49:51]]** ([[episodes/2024-02-01|2024-02-01]]): Father is a 'Texas big shot' with catchphrase 'what are we, Alcada?'
 - **[33:00]** ([[episodes/2024-02-09|2024-02-09]]): Trigger word 'science' summons Chet Guy the Science Eyes desk immediately [33:00].
 - **[37:31]** ([[episodes/2024-02-15|2024-02-15]]): [37:31] Therapy method includes rotoscoping references, asking patients if they are a fork, spoon/knife/fork marry-fuck-kill, feeding chocolate while calling them 'good boy.'
+- **[]** ([[episodes/2024-02-16|2024-02-16]]): Recognized a person in Paradox.ai promotional video, suspects it was filmed in Chicago [01:56:38].
