@@ -1,0 +1,93 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "36:00",
+      "canonical_segment": "News",
+      "title": "Pre-Show Setup & Mod Installation",
+      "notes": "Case and Kendelle configure Lethal Company mods (Needy Cats, Skin Walkers, reserved flashlight slot) while discussing Kendelle's streaming history, abandoned 'Lady Kendall' handle, and hypothetical child names."
+    },
+    {
+      "start": "36:00",
+      "end": "345:00",
+      "canonical_segment": "News",
+      "title": "Lethal Company: Cat Hunt Marathon",
+      "notes": "Extended co-op run with rotating community players (Amir, Nathan, Fancy, Exterminator, X) focused on capturing modded cats across multiple moons; frequent mod toggling, glitch exploits, and escalating cat population."
+    },
+    {
+      "start": "345:00",
+      "end": "348:21",
+      "canonical_segment": "News",
+      "title": "New Year's Eve Wrap-Up & Raid Out",
+      "notes": "Case announces January 1 'Best of Everything' awards stream at 2:00 PM PST, thanks top donor CV loves you, and raids out to reread."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors a five-hour New Year's Eve Lethal Company co-op marathon, manages mod loadouts, and announces next-day awards stream.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Co-hosts the Lethal Company session, drives the cat-collection objective, and reveals former streaming persona and personal history.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Kendelle's former handle 'Lady Kendall' was banned on gaming platforms because the substring 'dike' triggered filters; she holds a film degree, worked in marketing, and appeared on FBE React.",
+      "timestamp": "[23:53]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case and Kendelle joke about naming a hypothetical child 'Emperor D. Blackwell' (nickname Emmy) but confirm they do not plan to have children.",
+      "timestamp": "[06:00]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case references the 'G4' community and admits to destroying a screen during a prior G4 event.",
+      "timestamp": "[07:41]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Kendelle commits to a one-night January stream, possibly Disney-themed.",
+      "timestamp": "[14:33]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Amir's birthday celebrated during gameplay; cat hunt dedicated to him.",
+      "timestamp": "[2:16:46]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case announces New Year's Day 'Best of Everything' awards stream at 2:00 PM PST, citing top donor CV loves you.",
+      "timestamp": "[5:47:19]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell and Kendelle co-host a New Year's Eve Lethal Company marathon on the BIN flagship channel, troubleshooting a cat-collection mod while cycling through a rotating cast of community players. The broadcast culminates in a profitable but cat-dense final run before Case announces a January 1 'Best of Everything' awards stream at 2:00 PM.",
+  "_meta": {
+    "vod_id": "GIpN8hsz3vI",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 184313,
+    "approx_prompt_tokens": 46078,
+    "transcript_lines": 722
+  }
+}

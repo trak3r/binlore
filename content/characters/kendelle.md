@@ -54,13 +54,14 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
 | [[episodes/2024-07-20|2024-07-20]] | Appears on couch cam, sleeps through friend visit, debates smut vs no smut (concedes), wins fursona poll, declines boba after stream runs… |
-| [[episodes/2023-12-29|2023-12-29]] | in-studio contributor. |
+| [[episodes/2023-12-31|2023-12-31]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (15)</summary>
+<summary>Earlier appearances (16)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2023-12-29|2023-12-29]] | in-studio contributor. |
 | [[episodes/2023-12-27|2023-12-27]] | in-studio contributor. |
 | [[episodes/2023-12-21|2023-12-21]] | in-studio contributor. |
 | [[episodes/2023-12-19|2023-12-19]] | in-studio contributor. |
