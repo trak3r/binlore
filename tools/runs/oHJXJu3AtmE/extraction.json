@@ -1,0 +1,121 @@
+{
+  "segments": [
+    {
+      "start_ts": "00:00",
+      "end_ts": "06:13",
+      "canonical_segment": "News",
+      "title": "Cold Open & Technical Difficulties",
+      "notes": "Case and Fiona open the Cream Team Dream Stream; Kasim absent due to depression; audio issues plague the intro; they apologize to audio-only listeners for visual-heavy episode."
+    },
+    {
+      "start_ts": "06:13",
+      "end_ts": "13:51",
+      "canonical_segment": "News",
+      "title": "Daily Star: Pleasure Boys XXL Male Strip Show",
+      "notes": "Discussion of Daily Star article about fully nude male strippers in Belfast; debate over whether show is for women or gay men; article describes audience members receiving ejaculate in hair; hosts question journalistic standards."
+    },
+    {
+      "start_ts": "13:51",
+      "end_ts": "22:14",
+      "canonical_segment": "Amongst the Web",
+      "title": "Viral Video Hunt: Sexual Eating Tour Bus",
+      "notes": "Fiona describes a Miami-based tour bus where men feed women food sexually (bananas, strawberries); extensive failed search attempts on Twitter; Case calls Kevin Parada during hunt."
+    },
+    {
+      "start_ts": "22:14",
+      "end_ts": "24:58",
+      "canonical_segment": "News",
+      "title": "Fred Durst Fallout: New Vegas Mod",
+      "notes": "Brief coverage of Destructoid article about a Fallout: New Vegas mod adding Fred Durst who plays Limp Bizkit songs when interacted with."
+    },
+    {
+      "start_ts": "24:58",
+      "end_ts": "39:11",
+      "canonical_segment": "News",
+      "title": "Tinder & Hinge Lawsuit: Addictive Design",
+      "notes": "Federal lawsuit alleges Match Group gamifies dating apps to create addicts; discussion of Hinge's 'rose' paywall trapping attractive users; Case shares negative Tinder experience; both agree apps commodify genuine connection."
+    },
+    {
+      "start_ts": "39:11",
+      "end_ts": "55:27",
+      "canonical_segment": "Amongst the Web",
+      "title": "Streamer Awards 2024 Recap & Critique",
+      "notes": "Review of Streamer Awards categories and winners (Kai Cenat, Jynxzi, Valkyrae, etc.); criticism of gay representation (Fortnite parody song controversy); debate over award show legitimacy and platform toxicity."
+    },
+    {
+      "start_ts": "55:27",
+      "end_ts": "01:01:03",
+      "canonical_segment": "News",
+      "title": "Streamer Awards Aftermath & Industry Commentary",
+      "notes": "Discussion of Dan Clancy presenting to YouTube-exclusive Valkyrae; hypothetical Ben Shapiro appearance; critique of streaming culture elevating controversial figures; decision to end podcast."
+    },
+    {
+      "start_ts": "01:01:03",
+      "end_ts": "01:04:44",
+      "canonical_segment": "Amongst the Web",
+      "title": "Found: Sexual Eating Tour Bus Video",
+      "notes": "Fiona locates the viral video; hosts watch explicit clip of women being fed food on a tour bus; Fiona vindicated after hour-long search."
+    },
+    {
+      "start_ts": "01:04:44",
+      "end_ts": "01:08:54",
+      "canonical_segment": "News",
+      "title": "Sub Shoutout Rap & Raid",
+      "notes": "Case performs improvised smooth jazz rap thanking subscribers and bit donors; includes references to Hype Train level 3; raid initiated at close."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor / co-host",
+      "aliases": [
+        "Case"
+      ],
+      "notes": "anchor / co-host. Co-hosts Cream Team Dream Stream with Fiona Nova; runs sub shoutout rap; mentions lighter schedule ahead.",
+      "lore_notes": [
+        "[01:08:42] Case says he has been less busy and may return to streaming tomorrow."
+      ],
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kasim",
+      "role": "absent co-host",
+      "aliases": [],
+      "notes": "absent co-host. Referenced as absent due to depression ('tower moment'); hosts send well wishes.",
+      "lore_notes": [
+        "[03:13] Kasim described as going through a 'tower moment' and depressed."
+      ],
+      "canonical_name": "Kasim",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Kasim (Cream Team co-host) is absent due to depression, described as a 'tower moment'.",
+      "timestamp": "[03:13]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case Blackwell indicates he has been less busy and may resume streaming tomorrow.",
+      "timestamp": "[01:08:42]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell and Fiona Nova host a casual Cream Team Dream Stream in Kasim's absence, covering a Daily Star article on nude male strippers, a federal lawsuit against Tinder and Hinge for addictive design, the 2024 Streamer Awards, and an hour-long search for a viral 'sexual eating tour bus' video which they eventually locate and watch. The episode closes with Case's improvised subscriber rap and a raid.",
+  "_meta": {
+    "vod_id": "oHJXJu3AtmE",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 77306,
+    "approx_prompt_tokens": 19326,
+    "transcript_lines": 174
+  }
+}
