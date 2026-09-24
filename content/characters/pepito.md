@@ -61,7 +61,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (8)</summary>
+<summary>Earlier appearances (9)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -72,6 +72,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
 | [[episodes/2025-06-02|2025-06-02]] | executive producer. |
+| [[episodes/2023-12-08|2023-12-08]] | executive producer. |
 | [[episodes/2023-12-06|2023-12-06]] | Referenced as a dog (Pipita) in the studio, audible in background during equipment phase. |
 
 </details>
@@ -114,3 +115,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[]** ([[episodes/2025-06-24|2025-06-24]]): [11:04] Non-verbal for the entire broadcast; Case notes 'he's non-verbal today.'
 - **[10:09]** ([[episodes/2025-09-15|2025-09-15]]): Pepito ate multiple tiny computers/phones left around the studio.
 - **[09:46]** ([[episodes/2025-09-15|2025-09-15]]): Pepito spends non-stream days with his mother, who picks him up.
+- **[[31:59]]** ([[episodes/2023-12-08|2023-12-08]]): Officially named on-air as the dog/executive producer; previously unnamed.

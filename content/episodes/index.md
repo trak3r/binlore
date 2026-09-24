@@ -22,11 +22,11 @@ Complete stream archive tracked for *Barely Informed News*. Episodes are ingeste
     <div class="stat-label">Total Broadcast Lore</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">61</div>
+    <div class="stat-value">62</div>
     <div class="stat-label">Ingested & Extracted</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">315</div>
+    <div class="stat-value">314</div>
     <div class="stat-label">Pending Ingestion Backlog</div>
   </div>
 </div>
@@ -44,8 +44,8 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   <div class="filter-group">
     <select id="status-filter">
       <option value="all">All Statuses (376)</option>
-      <option value="ingested">Ingested Only (61)</option>
-      <option value="backlog">Backlog Only (315)</option>
+      <option value="ingested">Ingested Only (62)</option>
+      <option value="backlog">Backlog Only (314)</option>
     </select>
     <select id="page-size">
       <option value="25">25 per page</option>
@@ -436,7 +436,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
 <tr data-status="backlog" data-title="lethal cream company" data-date="2023-12-12" data-vod-id="hzcwzevoq7y" style="display: none;"><td class="cell-date"><code>2023-12-12</code></td><td class="cell-title">Lethal Cream Company</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">HzCwzevOQ7Y</code></td><td class="cell-dur">3:06:46</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=HzCwzevOQ7Y" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="some news then some company" data-date="2023-12-12" data-vod-id="subhyritoyq" style="display: none;"><td class="cell-date"><code>2023-12-12</code></td><td class="cell-title">Some News then Some Company</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">SUbhyRiToyQ</code></td><td class="cell-dur">1:52:21</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=SUbhyRiToyQ" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="sunday lethaling with some comapny" data-date="2023-12-11" data-vod-id="a5a5ffhhehu" style="display: none;"><td class="cell-date"><code>2023-12-11</code></td><td class="cell-title">Sunday Lethaling With Some Comapny</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">a5A5FfhhehU</code></td><td class="cell-dur">5:52:27</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=a5A5FfhhehU" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
-<tr data-status="backlog" data-title="returnal to the news - then lethal slam company" data-date="2023-12-08" data-vod-id="bldju0qvkbc" style="display: none;"><td class="cell-date"><code>2023-12-08</code></td><td class="cell-title">Returnal to the News - then Lethal Slam Company</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">bldjU0QVKbc</code></td><td class="cell-dur">3:54:23</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=bldjU0QVKbc" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
+<tr data-status="ingested" data-title="returnal to the news - then lethal slam company" data-date="2023-12-08" data-vod-id="bldju0qvkbc" style="display: none;"><td class="cell-date"><code>2023-12-08</code></td><td class="cell-title"><a href="./2023-12-08" class="internal"><strong>Returnal to the News - then Lethal Slam Company</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">bldjU0QVKbc</code></td><td class="cell-dur">3:54:23</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=bldjU0QVKbc" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="lethal extra cream company" data-date="2023-12-06" data-vod-id="hfqdtbunwiy" style="display: none;"><td class="cell-date"><code>2023-12-06</code></td><td class="cell-title"><a href="./2023-12-06" class="internal"><strong>Lethal Extra Cream Company</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">hfqDTBunWiY</code></td><td class="cell-dur">2:15:30</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=hfqDTBunWiY" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="lethal cream company" data-date="2023-12-05" data-vod-id="4x5zdimkd-w" style="display: none;"><td class="cell-date"><code>2023-12-05</code></td><td class="cell-title"><a href="./2023-12-05" class="internal"><strong>Lethal Cream Company</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">4X5ZdimKD-w</code></td><td class="cell-dur">2:02:50</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=4X5ZdimKD-w" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="chatgp-war, young thug trial, an end to no nut, it's newzzz" data-date="2023-12-02" data-vod-id="kyt3i33zq8c" style="display: none;"><td class="cell-date"><code>2023-12-02</code></td><td class="cell-title"><a href="./2023-12-02" class="internal"><strong>ChatGP-War, Young Thug Trial, an End to No Nut, it's NEWZZZ</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">KYt3i33Zq8c</code></td><td class="cell-dur">1:52:05</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=KYt3i33Zq8c" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>

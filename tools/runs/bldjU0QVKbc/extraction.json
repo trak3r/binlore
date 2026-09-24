@@ -1,0 +1,125 @@
+{
+  "segments": [
+    {
+      "start": "10:29",
+      "end": "33:05",
+      "canonical_segment": "News",
+      "title": "Robert Downey Jr. Masturbation Confession & Peaky Blinders Discussion",
+      "notes": "Case Blackwell anchors solo with Chet Manscape interrupting; covers RDJ's Sunday Times interview about chronic masturbation during Iron Man filming, Killian Murphy's praise, and a confused discussion of Oppenheimer cast photos."
+    },
+    {
+      "start": "33:05",
+      "end": "52:17",
+      "canonical_segment": "Munch & Crum",
+      "title": "Hand Game Debate: Crum vs. Robert Downey Jr.",
+      "notes": "Munch and Crum debate who has stronger hand game; Crum claims he can crush a golf ball and snap his penis in half, Munch argues RDJ has judo-trained grip strength; Munch wins by fiat."
+    },
+    {
+      "start": "52:17",
+      "end": "55:25",
+      "canonical_segment": "News",
+      "title": "Transition to Therapy & Remington Mayoral Confusion",
+      "notes": "Case wraps debate, discusses Remington mayoral situation (Shamroko Johnson possibly mayor), suggests Crum and Munch run for president, then pivots to therapy."
+    },
+    {
+      "start": "55:25",
+      "end": "1:03:38",
+      "canonical_segment": "Therapy",
+      "title": "Crum's Nummy Rag Breakthrough",
+      "notes": "Crum undergoes therapy with Dr. Chath; reveals childhood 'nummy rag' incident at age 11 involving great-grandmother's blanket; forced to 'do the shrew stuff' and roleplay as a varmint; achieves emotional breakthrough."
+    },
+    {
+      "start": "1:04:00",
+      "end": "3:54:23",
+      "canonical_segment": "News",
+      "title": "Lethal Company Marathon with John Madison, Tim Lampier, Griffin Winsler & Crew",
+      "notes": "Case hosts extended Lethal Company session (not a canonical BIN segment); multiple recruits join via Steam; crew navigates flooded moons, turret guns, giants, bees, and space fleas; meets quota after many deaths."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "lead anchor",
+      "notes": "lead anchor. Anchors news block, moderates Munch & Crum debate, hosts therapy handoff, then runs 3-hour Lethal Company session as captain/first mate.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Interrupts news open with 'science' trigger; debates cult branding, mocks Case's masturbation clicks, delivers outro before being cut off.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Revealed as the dog's name on air; appears briefly during therapy transition, asserts new identity.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Returns from 'vacation' to debate Crum on hand game; claims RDJ's judo grip wins; declares himself Crum's 'daddy' and banishes him to Netherrealm.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Claims superior hand game (crush golf ball, snap penis), reveals nummy rag trauma in therapy, forced into shrew roleplay, achieves breakthrough.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Chath",
+      "role": "therapist",
+      "notes": "therapist. Conducts Crum's therapy session; reads chat prompts; guides Crum through nummy rag confrontation and shrew roleplay to breakthrough.",
+      "canonical_name": "Dr. Chath",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Officially named on-air as the dog/executive producer; previously unnamed.",
+      "timestamp": "[31:59]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "Reveals childhood 'nummy rag' incident at age 11 involving great-grandmother Martha's blanket; first sexual experience was accidental onto the blanket.",
+      "timestamp": "[46:52]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "Claims hand game strength: can crush a golf ball and snap own penis in half; asserts 'super strength in spits'.",
+      "timestamp": "[38:22]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns for a Friday news broadcast covering Robert Downey Jr.'s masturbation confession, then oversees a Munch & Crum debate on hand-game supremacy won by Munch. Crum undergoes a therapy session with Dr. Chath that exposes his 'nummy rag' childhood trauma and forces a shrew roleplay breakthrough. The broadcast concludes with a three-hour Lethal Company marathon featuring John Madison, Tim Lampier, Griffin Winsler, and rotating recruits, where the crew barely meets quota after repeated deaths on flooded moons.",
+  "_meta": {
+    "vod_id": "bldjU0QVKbc",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 183331,
+    "approx_prompt_tokens": 45832,
+    "transcript_lines": 526
+  }
+}

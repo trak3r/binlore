@@ -57,7 +57,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (16)</summary>
+<summary>Earlier appearances (17)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -73,6 +73,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
 | [[episodes/2024-07-20|2024-07-20]] | Loses wiki feet, wins wife verification, sweet vs salty, Alien vs Predator, carnivore diet, gold vs porcelain teeth, orphan meat, spoon vs… |
+| [[episodes/2023-12-08|2023-12-08]] | debate analyst. |
 | [[episodes/2023-12-02|2023-12-02]] | debate analyst. |
 | [[episodes/2023-11-30|2023-11-30]] | debate analyst. |
 | [[episodes/2023-11-28|2023-11-28]] | debate analyst. |
@@ -158,3 +159,5 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[1:25:13]** ([[episodes/2025-09-25|2025-09-25]]): Claims super strength: pulling doors off hinges without gym training [1:25:13].
 - **[1:36:03]** ([[episodes/2025-09-25|2025-09-25]]): Ran hell transit system while deceased [1:36:03].
 - **[[1:27:55]]** ([[episodes/2023-12-02|2023-12-02]]): Debate score catching up to Munch; Munch fears Crum surpassing him will cause 1920s businessman roof leap.
+- **[[46:52]]** ([[episodes/2023-12-08|2023-12-08]]): Reveals childhood 'nummy rag' incident at age 11 involving great-grandmother Martha's blanket; first sexual experience was accidental onto the blanket.
+- **[[38:22]]** ([[episodes/2023-12-08|2023-12-08]]): Claims hand game strength: can crush a golf ball and snap own penis in half; asserts 'super strength in spits'.
