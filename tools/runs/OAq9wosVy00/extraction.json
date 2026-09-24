@@ -1,0 +1,216 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Valentine's Day News Desk with Jon Matteson",
+      "start": "07:24",
+      "end": "09:35",
+      "notes": "Case Blackwell hosts guest co-anchor Jon Matteson; opening banter about relationships, bench pressing, and Drake's alleged penis size."
+    },
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet Commandeers the Desk for Drake Penis Investigation",
+      "start": "09:35",
+      "end": "24:58",
+      "notes": "Chet Manscape takes over as co-anchor; reads Daily Star story on celebrity genital censorship, debates Drake's 42.5 cm penis claims, discusses hydration and 'gangest con' diet."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Brian Johnson Interview: Essence Swaps and Werewolf Ascension",
+      "start": "27:33",
+      "end": "34:52",
+      "notes": "Biohacker Brian Johnson calls in; describes plasma 'essence' exchanges with son and father, goal to regress to sperm then become a man-sized wolf with thick hips and blue eyes."
+    },
+    {
+      "canonical_segment": "Therapy",
+      "title": "Dr. Chet's Surreal Therapy Session with Jon Matteson",
+      "start": "35:26",
+      "end": "44:55",
+      "notes": "Dr. Chet conducts bizarre therapy: rotoscoping references, asks if Jon is a fork, spoon/knife/fork marry-fuck-kill, feeds chocolate, declares Jon a 'good boy.'"
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Peter Gibbon Emerges from the Walls",
+      "start": "44:55",
+      "end": "47:05",
+      "notes": "News stowaway Peter Gibbon appears post-therapy, claims to be one of the best anchors, hands off to Munch & Crum."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch Debates Crum's Cousin Plumb in 'Bitch' Showdown",
+      "start": "47:44",
+      "end": "57:34",
+      "notes": "Crum absent with 'tuberculosis or something with a T'; cousin Plumb (from Nashfield, Tennessee) fills in. Munch and Plumb debate whether Munch is a bitch; Plumb reveals he stole all Christmas presents from Crum."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip Bradstein Harvests Street Opinions from Chat",
+      "start": "01:01:59",
+      "end": "01:18:11",
+      "notes": "Trip interviews chat-sourced 'pedestrians': MLG Game on winning, a reeking hippie on indica/sativa hybrids, a snake activist, Dingo Bling on anime appendages, and Mickey Michelson (20% chicken) warring with KFC."
+    },
+    {
+      "canonical_segment": "DJ Newsic",
+      "title": "Valentine's Day Roof Concert with Trump Rap Feature",
+      "start": "01:19:20",
+      "end": "01:30:39",
+      "notes": "DJ Newsic sings Valentine's news: Kevin Costner's new love, Trump's love letter to Melania. Trump (Hump) appears for a trap-infused rap about golden toilets, campaign trails, and banned states."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Closing and Raid to Dank Sauce",
+      "start": "01:30:39",
+      "end": "01:32:58",
+      "notes": "DJ Newsic ends stream with shoutouts, candle tip grab with consent, reveals Case's kink is talking to chat, raids Dank Sauce."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "anchor. Hosts Valentine's Day broadcast with guest Jon Matteson; cycles through segments while managing studio chaos.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jon Matteson",
+      "role": "guest co-anchor",
+      "notes": "guest co-anchor. Actor/comedian guests as co-anchor; discusses cruise ship history with Case, Quibi show with Mark Hamill, endures Dr. Chet therapy.",
+      "canonical_name": "Jon Matteson",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeers desk for Drake penis investigation; promotes hydration barrels and gangest con diet; exits before Brian Johnson call.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Chet",
+      "role": "therapist",
+      "notes": "therapist. Conducts surreal therapy with Jon Matteson involving rotoscoping, utensil roleplay, and chocolate rewards.",
+      "canonical_name": "Dr. Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Emerges from walls post-therapy; claims to be one of the best anchors; transitions to Munch & Crum.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates Crum's cousin Plumb in a 'bitch' showdown; reveals toupee insecurity; babying Plumb into fetal position.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Plumb",
+      "role": "guest debate analyst",
+      "notes": "guest debate analyst. Crum's cousin from Nashfield, Tennessee; stole all Christmas presents from Crum; debates Munch with strange voice and underwater breathing claims.",
+      "canonical_name": "Plumb",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Broadcasts from park bushes; interviews chat-sourced opinions including snake activist, 20% chicken man, and anime appendage enthusiast.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Referenced by Munch to set up poll for Plumb debate; not seen on camera.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Mentioned by Trip on streets with Valentine's Day PSA about Case getting flowers; not physically present.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype announcer",
+      "notes": "hype announcer. Reads community subs and bits at 14:26; not a full segment appearance.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[47:05] Crum absent with 'tuberculosis or something with a T' — likely avoiding the pending pneumatic gorilla groin punch; cousin Plumb fills in at debate desk.",
+      "timestamp": "47:05"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Plumb",
+      "fact": "[47:44] Crum's cousin from Nashfield, Tennessee; lived with Crum for years, stole all Christmas presents; claims to cast spells and breathe underwater.",
+      "timestamp": "47:44",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brian Johnson",
+      "fact": "[28:38] Performs plasma 'essence' exchanges with son and father (naked, individual baths, trading tubes); goal is to regress to sperm, pass through father's bowels, become man-sized wolf with thick hips and blue eyes.",
+      "timestamp": "28:38",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jon Matteson",
+      "fact": "[11:17] Was on a cruise with Case; confirms Case snores like a train in sleep. [11:47] Starred in Quibi show where Mark Hamill sang about his character's penis size relative to King Kong.",
+      "timestamp": "11:17",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Dr. Chet",
+      "fact": "[37:31] Therapy method includes rotoscoping references, asking patients if they are a fork, spoon/knife/fork marry-fuck-kill, feeding chocolate while calling them 'good boy.'",
+      "timestamp": "37:31",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "[47:05] Absent with claimed 'tuberculosis or something with a T' — consistent with ongoing avoidance of Crum Dick Punch execution.",
+      "timestamp": "47:05",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell hosts Jon Matteson for a Valentine's Day broadcast that spirals through a Drake penis investigation led by Chet, a Brian Johnson interview revealing essence-swapping rejuvenation and werewolf ascension plans, a surreal Dr. Chet therapy session, Peter Gibbon's wall emergence, and a Munch vs. Plumb 'bitch' debate where Crum's cousin admits stealing all Christmas presents. Trip Bradstein harvests chat-sourced street opinions including a snake activist and a 20% chicken man, before DJ Newsic closes with a Valentine's roof concert featuring a Trump trap rap about golden toilets and banned states, ending in a raid to Dank Sauce.",
+  "_meta": {
+    "vod_id": "OAq9wosVy00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 87441,
+    "approx_prompt_tokens": 21860,
+    "transcript_lines": 161
+  }
+}
