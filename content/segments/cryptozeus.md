@@ -34,6 +34,7 @@ Brandon's gameplay is consistently disrupted by his mother shouting through the 
 
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
+| [[episodes/2023-11-30|2023-11-30]] | 1:32:47 | Lethal Company Session with Fiona, Malco, Exterminator, and Kendelle: Case Blackwell joins Fiona and crew for an extended Lethal Company run across multiple moons (Assurance, Offense, Val), featuring quicksand deaths, turret ambushes, a giant forest keeper, and a final quota scrape after a catastrophic orbital strike wipes the squad. |
 | [[episodes/2026-05-26|2026-05-26]] | 14:00 | Gaming & Digital Culture Report: Resident gaming correspondent Brandon (CryptoZeu$) conducts deep-dive playthroughs of retro games and discusses digital culture trends, including AI-generated content and cryptocurrency-related topics. |
 | [[episodes/2026-05-28|2026-05-28]] | 30:12 | Retro Game Playthroughs: Brandon (CryptoZeu$) conducts deep-dive playthroughs of vintage DOS classics and retro simulation titles from his bedroom studio, blending gaming commentary with technical nostalgia. |
 | [[episodes/2026-05-29|2026-05-29]] | 02:04:42 | Boogerman Speedrun & Mom Interruptions: Brandon plays Boogerman, dealing with controller issues and his mother's interruptions. The segment includes a speedrun attempt and a discussion about the game's difficulty and strategies. |

@@ -1,0 +1,134 @@
+{
+  "segments": [
+    {
+      "start": "10:12",
+      "end": "39:18",
+      "canonical_segment": "News",
+      "title": "Kissinger Obituary and Liliana's Power Daddy Eulogy",
+      "notes": "Case Blackwell opens with technical difficulties (missing transitions) before welcoming Liliana to discuss Henry Kissinger's death at 100; Liliana delivers a sexually charged, satirical tribute framing Kissinger as a 'power daddy' while reading The Intercept's investigation into his war crimes."
+    },
+    {
+      "start": "39:18",
+      "end": "59:02",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Masturbation World Record Attempt and the Scottish System",
+      "notes": "Chet Manscape commandeers the broadcast to analyze Drake Hardy's claimed 10-hour-10-minute masturbation record, detailing mood-lighting protocols, partial-tumescence strategy, and an invented 'Scottish system' of competitive self-pleasure measurement."
+    },
+    {
+      "start": "59:51",
+      "end": "1:21:36",
+      "canonical_segment": "Trent at the Movies",
+      "title": "Obliterated Trailer, Pokemon Horizons, and TM Robot Thriller",
+      "notes": "Trent reviews the Netflix film Obliterated (dismissing critical pans), watches the Pokemon Horizons trailer, and reacts to a TM-starring robot-assistant thriller trailer while complaining about missing fire transitions."
+    },
+    {
+      "start": "1:21:36",
+      "end": "1:32:27",
+      "canonical_segment": "Munch & Crum",
+      "title": "Kelce Brothers Debate Ends in 50/50 Poll Tie",
+      "notes": "Munch and Crum debate Travis vs. Jason Kelce; a rushed multi-stream poll finishes 50/50 before either can argue, prompting accusations of a 'miscarriage of something' and a chaotic sign-off as Case departs for gameplay."
+    },
+    {
+      "start": "1:32:47",
+      "end": "3:18:03",
+      "canonical_segment": "Gaming",
+      "title": "Lethal Company Session with Fiona, Malco, Exterminator, and Kendelle",
+      "notes": "Case Blackwell joins Fiona and crew for an extended Lethal Company run across multiple moons (Assurance, Offense, Val), featuring quicksand deaths, turret ambushes, a giant forest keeper, and a final quota scrape after a catastrophic orbital strike wipes the squad."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the broadcast, managed technical failures, and hosted a multi-hour Lethal Company session with Fiona's crew.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Delivered a provocative, sexually charged eulogy for Henry Kissinger while reading The Intercept's war-crimes investigation.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Presented the masturbation world record story, advocating mood lighting, partial tumescence, and a fabricated Scottish competitive framework.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "film correspondent",
+      "notes": "film correspondent. Hosted Trent at the Movies, reviewing Obliterated, Pokemon Horizons, and a TM robot thriller while missing his fire transition.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued for Travis Kelce in a rushed Kelce-brothers debate that ended in a 50/50 poll tie before he could make his case.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defended Jason Kelce over Travis in a tied debate, then claimed moral victory after a chaotic sign-off.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Joined the Lethal Company session as a guest player, referencing Pokimane cookies and monster-scanning tactics.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Chet",
+      "fact": "Claims a personal supplement regimen called 'cryptotine' (crypto-linked creatine) at two spoonfuls daily.",
+      "timestamp": "[46:41]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trent",
+      "fact": "Reveals an uncle lived in his basement for an extended period watching Silence of the Lambs on repeat in the dark, leaving a persistent stench.",
+      "timestamp": "[1:15:18]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Broadcast transition system (scene transitions, fire transition) suffered a total failure at top of show, forcing 'smoke teleportation' manual cuts.",
+      "timestamp": "[10:12]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened with a transition-less broadcast and Liliana's libidinal Kissinger obituary, followed by Chet's exhaustive breakdown of a masturbation world-record attempt complete with invented Scottish rules. Trent at the Movies reviewed Obliterated and a TM robot thriller before a multi-stream poll glitch deadlocked the Munch & Crum Kelce debate. The network then pivoted to a feature-length Lethal Company session where Case, Fiona, Malco, Exterminator, and Kendelle scraped a quota victory after a catastrophic orbital strike wiped the entire crew.",
+  "_meta": {
+    "vod_id": "r0pO8W4TSDg",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 144035,
+    "approx_prompt_tokens": 36008,
+    "transcript_lines": 483
+  }
+}

@@ -2,7 +2,7 @@
 title: Liliana
 type: character
 aliases: []
-first_seen: 2024-07-20
+first_seen: 2023-11-30
 status: recurring
 tags:
   - character
@@ -43,6 +43,7 @@ Liliana was absent from *Barely Informed News* for approximately a full year bef
 | [[episodes/2025-06-19|2025-06-19]] | desk partner. |
 | [[episodes/2025-06-02|2025-06-02]] | in-studio contributor. |
 | [[episodes/2024-07-20|2024-07-20]] | Participates in both [[../segments/jambalaya|Jambalaya]] sessions, argues for buttersnitch pie and potato-as-human, dominates piss-play questions, votes for Kendall… |
+| [[episodes/2023-11-30|2023-11-30]] | desk partner. |
 
 ## Notable Quotes
 
