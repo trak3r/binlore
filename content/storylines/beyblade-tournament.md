@@ -38,6 +38,7 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 | [[../episodes/2023-11-22|2023-11-22]] [1:53:50] | Beyblade song played during Munch & Crum poll setup [1:53:50], indicating ongoing community pledge. |
 | [[../episodes/2023-11-28|2023-11-28]] | [126:58] Munch suggests Crum needs 'a hot round of Beyblade' as the show exits, referencing the pending 2v2 Beyblade Burst Event pledge. |
 | [[../episodes/2023-12-02|2023-12-02]] [31:24] | [31:24] Hype Train references Crum's Beyblade win ('he got smashed with the crumb wins') and Beyblade song on Munch & Crum tab. |
+| [[../episodes/2023-12-12|2023-12-12]] [02:57:46] | Munch plays the Beyblade Tournament theme song during Munch & Crum, signaling the community-pledge event remains active. |
 | [[../episodes/2025-05-30|2025-05-30]] [39:25] | Munch references past Beyblade episodes during debate count banter. [39:25] |
 | [[../episodes/2025-06-02|2025-06-02]] [31:49] | [31:49] Case references pending Beyblade event possibly still 'inside the Papal Binclave'; no further advancement this episode. |
 | [[../episodes/2025-06-17|2025-06-17]] | [2025-06-17] Referenced as pending community-pledge event; no progress shown this episode. |

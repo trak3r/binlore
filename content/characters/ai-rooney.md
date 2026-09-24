@@ -5,7 +5,7 @@ aliases:
   - Rooney
   - Rooney 1.0
   - Rooney 1.0 Knot Prime
-first_seen: 2026-05-29
+first_seen: 2023-12-12
 status: retired
 tags:
   - character
@@ -42,6 +42,7 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 | [[episodes/2026-06-05|2026-06-05]] | Cyborg commentator hosting the AI Rooney grievance machine segment, known for escalating rants and audience-focused criticism. |
 | [[episodes/2026-06-03|2026-06-03]] | Proprietary cyborg commentator (Andy Rooney homage). Delivers viewer complaints via !rr. Suffers repeated 'brain empty' failures, violates age guardrails (references 19-year-old), produces incoherent sexualized rants. Case orders full rebuild. |
 | [[episodes/2026-05-29|2026-05-29]] | Retired cyborg commentator delivering grievance rants. |
+| [[episodes/2023-12-12|2023-12-12]] | AI grievance commentator. |
 
 ## Notable moments
 

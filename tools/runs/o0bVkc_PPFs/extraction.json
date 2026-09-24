@@ -1,0 +1,200 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "01:18:34",
+      "canonical_segment": "News",
+      "title": "Cream Team Dream Stream Podcast Crossover",
+      "notes": "Case Blackwell hosts the Cream Team podcast with Kendelle (Fiona) and Kevin (Casem), covering DMV visits, dog health crises, disastrous roommate stories, Meta AI celebrity chatbots, Reddit algorithms, sleep hygiene, and LinkedIn hustle-culture satire."
+    },
+    {
+      "start": "01:18:34",
+      "end": "01:24:01",
+      "canonical_segment": "News",
+      "title": "BIN News Desk Transition",
+      "notes": "Case transitions to the flagship news desk, debuts new graphics with permanent chat overlay, reads gift subs and bits, and dons a blazer for the news block."
+    },
+    {
+      "start": "01:24:01",
+      "end": "01:48:35",
+      "canonical_segment": "News",
+      "title": "BIN Movie Theater Trailer Block",
+      "notes": "Case and parole-officer-turned-correspondent Trend (Chris) screen trailers for Dune: Part Two, The Rocketeer, the documentary Daniel, and the soundless exploitation feature Kung Fu and Titties."
+    },
+    {
+      "start": "01:48:35",
+      "end": "02:03:33",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Kanye West KKK Hoodie at Vultures Listening Party",
+      "notes": "Chet Manscape joins to dissect Kanye West wearing a black KKK-style hood at the Miami Art Basel Vultures rave, North West's on-stage debut, and the rapper's exhausted 'chance counter'."
+    },
+    {
+      "start": "02:03:33",
+      "end": "02:21:52",
+      "canonical_segment": "News",
+      "title": "Thai Prisoner Escapes Via Infected Penis Enlargement",
+      "notes": "Liliana co-anchors the story of inmate Thunpat, whose silicone-injection infection prompted a bolt-cutter-assisted hospital escape orchestrated by his wife; he was recaptured 28 hours later on a psych-ward roof."
+    },
+    {
+      "start": "02:21:52",
+      "end": "02:51:14",
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip Bradstein Park Interviews: Sponges, Swordsmen & Fight-Sex Champions",
+      "notes": "Trip Bradstein fields chat-sourced opinions from a floating sponge face (Oliver Kozlov), a three-sword-wielding Santa denier (Bora Nora Toro), E3 mourner Jeff Blayley, fight-sex-club champion Walt Winters, and ghost Captain Price."
+    },
+    {
+      "start": "02:51:14",
+      "end": "03:12:00",
+      "canonical_segment": "Munch & Crum",
+      "title": "Christmas Decoration Debate & HR Intervention",
+      "notes": "Munch and Crum clash over tree-takedown dates; Case installs Tommy Bidet as HR rep to curb Munch's harassment; Crum threatens to quit on air, citing contract violation."
+    },
+    {
+      "start": "03:12:00",
+      "end": "03:21:06",
+      "canonical_segment": "AI Rooney",
+      "title": "AI Rooney Grievance Engine: Clocks, Bald Quitters & Fight-Sex Clubs",
+      "notes": "The proprietary AI Rooney system ingests chat complaints about broken clocks, bald debaters quitting, problematic bathroom graffiti, Comedy Zach's messaging gatekeeping, prison escapes, bathroom-fixture equity, eggnog, and fight-sex-club inclusivity."
+    },
+    {
+      "start": "03:21:06",
+      "end": "03:23:02",
+      "canonical_segment": "News",
+      "title": "Raid on Bruce Green & Sign-Off",
+      "notes": "Case raids Bruce Green's Battlefield 5 stream, plugs tomorrow's Cream Team Patreon and lethal company sessions, and closes the broadcast."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Co-hosts the Cream Team podcast as Fiona, discusses dog medical bills, roommate trauma, and sleep habits before exiting prior to the news block.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Deploys the Chet Guy the Science Eyes desk to analyze Kanye West's KKK hoodie stunt and the rapper's diminishing cultural capital.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Joins the news desk for the Thai penis-enlargement escape story, advocates for bodily autonomy while mocking 'gray sweatpants season' marketing.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Broadcasts from park shrubbery, interviews a parade of surreal pedestrians including a floating sponge, a sword-swallower, and a fight-sex-club champion.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues for year-round Christmas decorations, goads Crum with 'daddy' rhetoric, and cues the Beyblade Tournament theme song.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defends a 10-day Christmas window, accuses Munch of sexual harassment, threatens to quit the network on air over HR intervention.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Discussed as potential HR mediator and Crum substitute; does not speak on air this episode.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "AI Rooney",
+      "role": "AI grievance commentator",
+      "notes": "AI grievance commentator. Generates Andy Rooney-style rants from chat complaints, covering clocks, bald debaters, bathroom graffiti, Comedy Zach, prison escapes, fixtures, eggnog, and fight-sex clubs.",
+      "canonical_name": "AI Rooney",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "Munch plays the Beyblade Tournament theme song during Munch & Crum, signaling the community-pledge event remains active.",
+      "timestamp": "02:57:46"
+    },
+    {
+      "storyline": "Crum Employment Status",
+      "beat": "Crum declares 'This is my last show' and attempts to quit on air; Case asserts contractual prohibition against quitting.",
+      "timestamp": "03:08:02"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Trend (Chris) is Case's parole officer performing community service as the BIN movie-theater correspondent.",
+      "timestamp": "01:24:01",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Kanye West wore a black KKK-style hood at the Vultures listening party during Miami Art Basel, brought daughter North West on stage for a 'kids bop' verse.",
+      "timestamp": "01:56:56",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Thai inmate Thunpat escaped a hospital using bolt cutters smuggled by his wife to sever restraints while suffering from infected penile silicone injections; recaptured 28 hours later on a psychiatric-ward roof.",
+      "timestamp": "02:08:30",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Cosmetic clinic 'Lush for Aesthetics' markets €3,000 penis fillers as 'gray sweatpants season' enhancement.",
+      "timestamp": "02:11:07",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Tommy Bidet is a practicing tax attorney, not currently working as a human toilet.",
+      "timestamp": "02:53:15",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum threatens to quit BIN live on air; Case claims Crum is contractually barred from quitting.",
+      "timestamp": "03:08:02",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "The Cream Team Dream Stream opens with a podcast crossover covering personal anecdotes and Meta's failed celebrity AI chatbots before transitioning into a standard BIN news block. The news desk screens movie trailers, dissects Kanye West's latest provocation with Chet, reports a Thai prisoner's botched escape via infected penile implants with Liliana, and sends Trip Bradstein to the park for surreal street interviews. Munch & Crum debate Christmas decoration timelines until HR intervention by Tommy Bidet triggers Crum's on-air resignation threat, and the broadcast closes with an AI Rooney grievance session and a raid on Bruce Green.",
+  "_meta": {
+    "vod_id": "o0bVkc_PPFs",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 172894,
+    "approx_prompt_tokens": 43223,
+    "transcript_lines": 359
+  }
+}
