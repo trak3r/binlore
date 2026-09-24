@@ -59,5 +59,6 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/steak|Steak]] | Guest Artist | Collaborator on the Thump Steaks theme song with DJ C4 |
 | [[characters/trent|Trent]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
 | [[characters/chris|Chris]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
+| [[characters/clementine|Clementine]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
 
 See also: [[../storylines/crum-dick-punch|Crum Dick Punch]], [[../segments/munch-and-crum|Munch & Crum]].

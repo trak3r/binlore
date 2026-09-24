@@ -1,0 +1,143 @@
+{
+  "segments": [
+    {
+      "start": "15:21",
+      "end": "18:38",
+      "canonical_segment": "News",
+      "title": "Broadcast Open with Pepito",
+      "notes": "Case Blackwell opens the show with Executive Producer Pepito; Kendelle walks through frame; Peter Gibbon referenced as news stowaway."
+    },
+    {
+      "start": "18:38",
+      "end": "39:04",
+      "canonical_segment": "News",
+      "title": "Florida Exploding Toilet Lawsuit",
+      "notes": "Crum appears as 'Eugene Scrum' to cover a Duncan Donuts toilet explosion lawsuit; Crum reveals personal toilet trauma and birthday."
+    },
+    {
+      "start": "39:04",
+      "end": "49:55",
+      "canonical_segment": "News",
+      "title": "Conspiracy Time with Clementine",
+      "notes": "Clementine Burn broadcasts with dyed red hair claiming identity compromise; covers 10-foot tall aliens in Brazil and Netty Light illuminati conspiracy."
+    },
+    {
+      "start": "49:55",
+      "end": "1:02:14",
+      "canonical_segment": "Munch & Crum",
+      "title": "Kevin Hart vs. Cat Williams Debate",
+      "notes": "Munch and Crum debate comedic merit; Munch defends Cat Williams as 'unhinged font of pure peak comedic potential'; Crum defends Kevin Hart as Hollywood plant."
+    },
+    {
+      "start": "1:02:14",
+      "end": "1:11:34",
+      "canonical_segment": "DJ Newsic",
+      "title": "Lethal Company Patch Notes & Gaming Transition",
+      "notes": "DJ Music reads Lethal Company v47 patch notes in freestyle rap; Case departs to play Lethal Company with streamer Fiona."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors broadcast, manages studio chaos, departs mid-stream to play Lethal Company with Fiona.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open, banters with Case, typing limited by paws.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Appears as Eugene Scrum for toilet story; reveals birthday Jan 6, toilet backfire trauma, bad back; later debates Cat Williams vs Kevin Hart.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates Crum on Cat Williams vs Kevin Hart; claims training, declares victory, dances aggressively.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Clementine",
+      "role": "correspondent",
+      "notes": "correspondent. Hosts Conspiracy Time with red hair disguise; covers 10-foot aliens and Netty Light illuminati.",
+      "canonical_name": "Clementine",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Music",
+      "role": "musical correspondent",
+      "notes": "musical correspondent. Delivers Lethal Company patch notes via freestyle rap including Goku persona; transitions broadcast to gaming.",
+      "canonical_name": "DJ Music",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walk-through appearance; hypoglycemic dinner plans discussed; sister Fiona referenced.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Referenced as former producer living in walls; Case threatens to send people to him.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Crum",
+      "fact": "Birthday is January 6th; allergic to most wrapping papers; toilet backfires 30% of the time with floor-mounted flush button; has bad back requiring strain to flush.",
+      "timestamp": "[28:54]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Clementine",
+      "fact": "Dyed hair red to evade 'Netty Light illuminati consortium'; claims 10-foot tall aliens exist in Brazil and control their biology to maintain exact height.",
+      "timestamp": "[40:15]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch",
+      "fact": "Claims to have trained for debate; dances with 'sensuality and emotion' when provoked.",
+      "timestamp": "[55:31]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell opens the broadcast with Executive Producer Pepito before handing to Crum as 'Eugene Scrum' for a Florida exploding toilet lawsuit story that triggers Crum's personal toilet trauma revelations. Conspiracy correspondent Clementine Burn delivers a red-haired identity-protection segment covering 10-foot Brazilian aliens and the Netty Light illuminati. Debate analysts Munch and Crum clash over Kevin Hart versus Cat Williams, ending with Munch declaring victory through aggressive dance. The broadcast concludes with DJ Music freestyling Lethal Company patch notes as Case departs to play with streamer Fiona.",
+  "_meta": {
+    "vod_id": "JyWx-KRXRXY",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 57448,
+    "approx_prompt_tokens": 14362,
+    "transcript_lines": 102
+  }
+}

@@ -50,7 +50,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (22)</summary>
+<summary>Earlier appearances (23)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -63,6 +63,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
 | [[episodes/2024-07-20|2024-07-20]] | Wins wiki feet, wife verification, sweet vs salty, Alien vs Predator, carnivore diet, Spike vs Luffy, Shaggy vs Jedi Shaggy, Country… |
+| [[episodes/2024-01-12|2024-01-12]] | debate analyst. |
 | [[episodes/2024-01-05|2024-01-05]] | debate analyst. |
 | [[episodes/2023-12-31|2023-12-31]] | debate analyst. |
 | [[episodes/2023-12-30|2023-12-30]] | debate analyst. |
@@ -124,3 +125,4 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[[03:00:37]]** ([[episodes/2023-12-18|2023-12-18]]): Agrees to return to the network after forced on-air apology to Crum; claims the show was 'easier than ever' without him.
 - **[1:34:35]** ([[episodes/2023-12-21|2023-12-21]]): Claims to be nuclearly powered by a curse, immortal, and the real Santa who rides Rudolph [1:34:35].
 - **[01:08:19]** ([[episodes/2024-01-05|2024-01-05]]): [01:08:19] Contractual sub goal (30 subs) forces Munch to be 'nice' for debate segment; Pepito drafted contract.
+- **[[55:31]]** ([[episodes/2024-01-12|2024-01-12]]): Claims to have trained for debate; dances with 'sensuality and emotion' when provoked.
