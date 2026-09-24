@@ -1,0 +1,67 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "01:45:12",
+      "canonical_segment": "News",
+      "title": "Cream Company: Lethal Company Gaming Session",
+      "notes": "Case Blackwell hosts an extended Lethal Company co-op session with Fiona and Pepito (via snap camera filter), completing multiple moons, meeting quota, and experimenting with spray-paint navigation markers before raiding Gina's channel."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Appears in-game as a dog via snap camera filter, freestyles on the boombox, and is put in timeout for misbehavior.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Briefly appears on mic to acknowledge the session and discuss door-marking strategy.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Received a Stanley water bottle gift intended for Kendall but claimed it for himself until she tires of it. [00:33]",
+      "timestamp": "00:33",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Uses snap camera filter to appear as a dog in Lethal Company; purchases a boombox with in-game credits and freestyles until timeout. [05:51]",
+      "timestamp": "05:51",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Confirms she and Case use spray-paint dots above doors for exits and to the side for dead ends as a navigation system. [30:06]",
+      "timestamp": "30:06",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Raids Gina's channel at broadcast close, framing it as a 'Pepito raid' to squash playful beef. [01:43:39]",
+      "timestamp": "01:43:39",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell opens the broadcast with a casual Lethal Company co-op run alongside Fiona and a snap-camera Pepito, successfully navigating multiple eclipsed moons, securing high-value loot, and meeting quota with a spray-paint marking system co-developed with Kendelle. The session closes with Case raiding Gina's channel, declaring it a 'Pepito raid' to resolve mock hostilities.",
+  "_meta": {
+    "vod_id": "H9d5sUAABJY",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 61150,
+    "approx_prompt_tokens": 15287,
+    "transcript_lines": 179
+  }
+}

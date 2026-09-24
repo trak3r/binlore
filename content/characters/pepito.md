@@ -61,7 +61,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (16)</summary>
+<summary>Earlier appearances (17)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -72,6 +72,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
 | [[episodes/2025-06-02|2025-06-02]] | executive producer. |
+| [[episodes/2024-01-12|2024-01-12]] | executive producer. |
 | [[episodes/2024-01-05|2024-01-05]] | executive producer. |
 | [[episodes/2023-12-31|2023-12-31]] | executive producer. |
 | [[episodes/2023-12-30|2023-12-30]] | executive producer. |
@@ -132,3 +133,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[]** ([[episodes/2024-01-05|2024-01-05]]): Claims to have been born from an egg via 'sloop shoot' and identifies as an orphan; declares Fiona his 'best mommy' despite Trip's skepticism. [54:42]
 - **[]** ([[episodes/2024-01-05|2024-01-05]]): New Pepito emote saved and ready for upload. [1:21:04]
 - **[00:21:42]** ([[episodes/2024-01-05|2024-01-05]]): [00:21:42] Case refers to Pepito as 'Pappito' during Goku Bracken emergency cut.
+- **[05:51]** ([[episodes/2024-01-12|2024-01-12]]): Uses snap camera filter to appear as a dog in Lethal Company; purchases a boombox with in-game credits and freestyles until timeout. [05:51]

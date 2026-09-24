@@ -109,3 +109,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[[07:39]]** ([[episodes/2024-01-04|2024-01-04]]): Gifted Blackwell a foot massager for Christmas; operates as in-studio co-pilot during extended gaming broadcasts.
 - **[]** ([[episodes/2024-01-05|2024-01-05]]): Has a dedicated 'noups room' (news + naps) in the studio where she sleeps during broadcasts. [14:48]
 - **[01:48:03]** ([[episodes/2024-01-05|2024-01-05]]): [01:48:03] Cannot get cat until March due to housing delay; currently in crowded temporary apartment.
+- **[30:06]** ([[episodes/2024-01-12|2024-01-12]]): Confirms she and Case use spray-paint dots above doors for exits and to the side for dead ends as a navigation system. [30:06]
