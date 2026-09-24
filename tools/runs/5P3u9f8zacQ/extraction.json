@@ -1,0 +1,128 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "30:00",
+      "canonical_segment": "News",
+      "title": "Mod Hell & Lethal Company Setup",
+      "notes": "Case Blackwell struggles with green screen and mod compatibility (Late Company, Bigger Lobby, LC API, Bippin, Yippie, Spectate Enemies) while attempting to join Fiona's Lethal Company lobby; nephew Tracy Chapman joins; extensive troubleshooting of mod folders and Steam verification."
+    },
+    {
+      "start": "30:00",
+      "end": "75:00",
+      "canonical_segment": "News",
+      "title": "Papito's Debut & First Quota Run",
+      "notes": "Pepito enters as 'Papito' dog mod character; Crum joins and dies to bees; team develops spray-paint door marking system; Rob Elvie makes brief appearance; Bracken and mine encounters; quota partially met despite heavy casualties."
+    },
+    {
+      "start": "75:00",
+      "end": "90:00",
+      "canonical_segment": "News",
+      "title": "Mod Swap to More Company",
+      "notes": "Persistent desync/crash issues prompt full mod list overhaul: Bigger Lobby removed, More Company added; Case guides Casim through folder deletion and reinstall; test run confirms stability."
+    },
+    {
+      "start": "90:00",
+      "end": "150:00",
+      "canonical_segment": "News",
+      "title": "Eclipse Moon & Spray-Paint Navigation",
+      "notes": "Team tackles Eclipse moon with crouch-walk stealth; Case buys spray paints, jetpack, lockpicks; yellow-dot wayfinding system refined; multiple beehives harvested; turret and Bracken gauntlets survived; teleporter used for interior mansion extraction."
+    },
+    {
+      "start": "150:00",
+      "end": "194:00",
+      "canonical_segment": "News",
+      "title": "Final Quota Push & Dinner Break",
+      "notes": "Case hits flow state; V-type engines and hairbrushes recovered; dot system validated; massive quota haul sold; Case announces dinner break at ~7 PM local, plans to return with Kendelle for remaining hours."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "anchor. Hosts 12-hour Lethal Company marathon, manages mod loadouts for 30+ player lobby, develops spray-paint navigation meta.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Plays as 'Papito' dog mod, survives full sessions via sprint-and-freestyle strategy, freestyles rap over boombox.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "recurring",
+      "notes": "recurring. Joins mid-stream, dies repeatedly to bees and Brackens, provides gambling-addict commentary on survival odds.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "recurring",
+      "notes": "recurring. Referenced in chat as 'fake gamer'; Crum challenges him to 1v1 Lethal Company match.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Asleep during broadcast; Case plans to wake her for post-dinner session.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "No advancement this episode; tournament remains community-pledge vaporware.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Plays Lethal Company as a dog mod named 'Papito' with unique sprint-and-rap survival meta; claims dog vision is black-and-white [49:24].",
+      "timestamp": "[49:24]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Nephew plays under handle 'Tracy Chapman' and joins lobby via right-click invite [15:46].",
+      "timestamp": "[15:46]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "Befriends a 'black fellow in the catacombs' (shapeshifter player) who walks him toward exit before bees kill both [47:51].",
+      "timestamp": "[47:51]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Network",
+      "fact": "Spray-paint door-marking system (yellow dots for exit path, red dots for dead ends) invented by Case and refined by shapeshifter [02:04:37].",
+      "timestamp": "[02:04:37]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a 12-hour Lethal Company marathon — 'Fi's 12 Hour Cream Company' — wrangling a 30-player modded lobby through persistent desync crashes, a full mod-list overhaul, and multiple quota runs. Executive Producer Pepito debuts as 'Papito,' a dog-mod speedrunner who survives by sprinting into darkness while freestyling. Crum joins mid-stream, dies spectacularly to bees and Brackens, and challenges Munch to a 1v1 rematch. The crew invents a spray-paint navigation system to escape the facility labyrinths, harvests a record beehive haul, and clears a massive quota before Case breaks for dinner with plans to resume alongside Kendelle.",
+  "_meta": {
+    "vod_id": "5P3u9f8zacQ",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 104900,
+    "approx_prompt_tokens": 26225,
+    "transcript_lines": 317
+  }
+}

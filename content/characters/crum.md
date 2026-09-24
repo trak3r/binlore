@@ -184,3 +184,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[]** ([[episodes/2023-12-30|2023-12-30]]): Hired by Crum as Munch & Crum replacement co-host; Case locked him to two-year contract [18:22]. Expertise: gummy bear manufacturing, beanie baby smuggling (beanie baggies) [29:25, 30:41].
 - **[01:22:05]** ([[episodes/2024-01-05|2024-01-05]]): [01:22:05] Score updated to Crum 20 points ahead of Munch; Munch claims he updated score yesterday.
 - **[[28:54]]** ([[episodes/2024-01-12|2024-01-12]]): Birthday is January 6th; allergic to most wrapping papers; toilet backfires 30% of the time with floor-mounted flush button; has bad back requiring strain to flush.
+- **[[47:51]]** ([[episodes/2024-01-19|2024-01-19]]): Befriends a 'black fellow in the catacombs' (shapeshifter player) who walks him toward exit before bees kill both [47:51].
