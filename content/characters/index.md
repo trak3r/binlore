@@ -60,5 +60,6 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/trent|Trent]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
 | [[characters/chris|Chris]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
 | [[characters/clementine|Clementine]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
+| [[characters/clementine-verne|Clementine Verne]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
 
 See also: [[../storylines/crum-dick-punch|Crum Dick Punch]], [[../segments/munch-and-crum|Munch & Crum]].

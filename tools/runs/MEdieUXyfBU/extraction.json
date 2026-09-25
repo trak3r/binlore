@@ -1,0 +1,225 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "14:48",
+      "end": "18:10",
+      "title": "Cold Open: Case Returns from Hiatus",
+      "notes": "Case Blackwell returns after a week off, mentions haircut and romantic weekend; Pepito signs on as executive producer."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "18:10",
+      "end": "34:35",
+      "title": "Pepito's Sub Goal: Chocolate and Cheese",
+      "notes": "Pepito demands chocolate despite toxicity; consumes large amounts of chocolate and cheese PNGs, undergoes visual form shifts and voice drop."
+    },
+    {
+      "canonical_segment": "Hype Train",
+      "start": "23:03",
+      "end": "27:56",
+      "title": "Hype Train Surge",
+      "notes": "Hype Train commandeers feed with freestyle rap, claims hype comes from 'deep south' and 'hell', banished back to hell."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "38:37",
+      "end": "58:24",
+      "title": "Polygon: End of the MrBeast Era?",
+      "notes": "Case reads lengthy Polygon article on MrBeast's cultural dominance, Jacksepticeye feud, thumbnail brightness obsession; concludes article is a bust."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "59:34",
+      "end": "1:22:14",
+      "title": "Clementine Verne: House of Illuminati & Willy Wonka",
+      "notes": "Clementine investigates Wayback Machine reveal that House of Illuminati (Glasgow Willy Wonka event firm) previously ran an open Illuminati recruitment site in 2022."
+    },
+    {
+      "canonical_segment": "Trent at the Movies",
+      "start": "1:24:29",
+      "end": "1:44:50",
+      "title": "Trailer Reviews: The Crow, The First Omen, Mammals",
+      "notes": "Trent watches 2024 Crow remake trailer (Bill Skarsgård), compares to 1994 original; reviews The First Omen and BBC's Mammals with Coldplay soundtrack."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "start": "1:46:40",
+      "end": "2:02:10",
+      "title": "Debate: Sting vs. The Crow (Face Paint Supremacy)",
+      "notes": "Munch argues Sting elevated the crow makeup; Crum argues The Crow is definitionally tied to the look. Score convergence nears: Crum 5 wins away from 87."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "start": "2:02:33",
+      "end": "2:29:22",
+      "title": "Trip Bradstein: Park Interviews",
+      "notes": "Trip interviews park denizens: metal-shaving poop guy (Optimus Prime aspirant), Wiki Wild West (Kimmel Crow remake), Melina (Elden Ring moon lore), Dumbo crow, Hilly-Dilly-Billy-Dong (duck poop eater), RoboCop thigh-gun pervert."
+    },
+    {
+      "canonical_segment": "DJ Newsic",
+      "start": "2:31:13",
+      "end": "2:50:29",
+      "title": "DJ Newsic: Red Ranger Hitler Line & Boeing Whistleblower",
+      "notes": "DJ Newsic covers Austin St. John's warrior clothing line featuring Hitler quotes; pivots to Boeing whistleblower John Barnett death during deposition; Chet raps Power Rangers trap verse."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors return broadcast, reads MrBeast article, manages segment handoffs.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Demands chocolate/cheese sub goal, consumes both, suffers form glitches and voice drop.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Surges with freestyle rap, claims hype from hell, banished mid-rant.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Clementine Verne",
+      "role": "correspondent",
+      "notes": "correspondent. Investigates House of Illuminati's 2022 Illuminati recruitment site via Wayback Machine.",
+      "canonical_name": "Clementine Verne",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "correspondent",
+      "notes": "correspondent. Reviews Crow remake, First Omen, Mammals trailers; relates to hot angry men.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defends Sting's face-paint legacy; claims 82 stolen elections, five wins from overtaking Crum.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues The Crow owns the makeup; leads score convergence 15,000 to 1,000.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Calls in weather report from 48 minutes away; Munch nicknames her Stacey.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducts surreal park interviews including metal-poop Optimus aspirant and duck-poop eater.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "recurring",
+      "notes": "recurring. Covers Red Ranger Hitler clothing line and Boeing whistleblower death; Chet guests for rap finale.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "recurring",
+      "notes": "recurring. Appears for Power Rangers trap rap about Megazords, Putties, and Pikachu battle.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Briefly referenced during Kendelle weather handoff.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Munch & Crum Score Convergence",
+      "beat": "[1:56:32] Munch claims 82 stolen elections, five wins from tying Crum; Crum leads chat points 15,000 to 1,000.",
+      "timestamp": "1:56:32"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Consumes chocolate and cheese PNGs on air; undergoes three form changes and voice drops an octave after burping [34:35-36:25].",
+      "timestamp": "34:35",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Clementine Verne",
+      "fact": "Discovers House of Illuminati website (Glasgow Willy Wonka event) was an open Illuminati recruitment site in 2022 via Wayback Machine [1:08:08].",
+      "timestamp": "1:08:08",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Austin St. John (Red Ranger)",
+      "fact": "Launching 'warrior line' clothing with historical quotes including Hitler; claims Hitler was 'a demon on steroids' with good one-liners [2:34:47-2:38:25].",
+      "timestamp": "2:34:47",
+      "confidence": 0.7
+    },
+    {
+      "entity": "John Barnett (Boeing whistleblower)",
+      "fact": "Found dead of apparent self-inflicted gunshot in car during deposition against Boeing; lawyer says he was in good spirits [2:42:49-2:43:34].",
+      "timestamp": "2:42:49",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch & Crum",
+      "fact": "Score convergence: Crum leads 15,000 to 1,000 chat points; Munch five debate wins from tying Crum's 87 [1:56:32, 1:57:15].",
+      "timestamp": "1:56:32",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns from a romantic hiatus to a chaotic broadcast: Pepito nearly kills himself on chocolate, Clementine exposes the Willy Wonka Illuminati pipeline, Trent reviews the new Crow remake, and Munch & Crum inch toward score parity while debating face-paint supremacy. The night closes with DJ Newsic revealing the Red Ranger's Hitler-quote clothing line and a Boeing whistleblower's suspicious death, capped by Chet's Power Rangers trap rap.",
+  "_meta": {
+    "vod_id": "MEdieUXyfBU",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 136698,
+    "approx_prompt_tokens": 34174,
+    "transcript_lines": 391
+  }
+}
