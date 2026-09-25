@@ -23,6 +23,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-03-21|2024-03-21]] | probation officer / sidekick. |
 | [[episodes/2024-03-01|2024-03-01]] | contributor. |
 | [[episodes/2024-02-09|2024-02-09]] | Trend at the Movies co-host; debates alliteration, defends Knuckles trailer, clashes with Case over animation quality. |
 | [[episodes/2024-01-05|2024-01-05]] | parole officer. |

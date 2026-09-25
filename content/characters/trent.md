@@ -23,6 +23,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-03-21|2024-03-21]] | movies correspondent. |
 | [[episodes/2024-03-01|2024-03-01]] | field correspondent. |
 | [[episodes/2024-02-27|2024-02-27]] | field correspondent. |
 | [[episodes/2024-01-17|2024-01-17]] | field correspondent. |

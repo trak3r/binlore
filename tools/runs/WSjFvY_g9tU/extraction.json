@@ -1,0 +1,246 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "03:55",
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on, discusses Marvel lore and Judge Ito resemblance with Case before handing off to the news desk."
+    },
+    {
+      "start": "03:55",
+      "end": "26:24",
+      "canonical_segment": "News",
+      "title": "Exercise Pill Research Threatens Gym Culture",
+      "notes": "Case reads a Washington University study on SLU-PP-332 ('Slurpees'), a compound mimicking exercise benefits in rodents; debates the morality of pharmaceutical gains versus earned muscle, references Ozempic muscle-loss concerns, and demands a Chet Guy the Science Eyes segment."
+    },
+    {
+      "start": "26:24",
+      "end": "52:40",
+      "canonical_segment": "News",
+      "title": "Trailer Thursday: Beetlejuice, House of the Dragon, Marvel, Alien Romulus",
+      "notes": "Trent of the Movies and probation officer Chris review Beetlejuice Beetlejuice, dual House of the Dragon trailers (Green/Black), a cinematic Marvel game trailer, and Alien Romulus; Case's reality frays when chat repeats 'Beetle' summoning words."
+    },
+    {
+      "start": "52:40",
+      "end": "58:11",
+      "canonical_segment": "News",
+      "title": "Don Wriggles Roast & Kotaku Editorial Resignation",
+      "notes": "Don Wriggles called in to cover Kotaku EIC Jen Glennon's resignation over G/O Media's pivot to guides; Don roasts Case's hygiene, kills Eisenhower with a Jezebel joke, and plugs Cincinnati Chuckle Grave and Monk high school gym dates."
+    },
+    {
+      "start": "58:11",
+      "end": "1:10:55",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Strawberry Freestyle & Sub Marathon",
+      "notes": "Triggered by Card King's 1,000 bits, Hype Train delivers a strawberry-mold freestyle, eats questionable berries, riffs on Tam Tram's name sounding like 'train', and dies/fades to hell twice before Don returns."
+    },
+    {
+      "start": "1:10:55",
+      "end": "1:20:30",
+      "canonical_segment": "News",
+      "title": "Don Wriggles Returns & Pepito's Memory Flex",
+      "notes": "Don finishes the Kotaku story, roasts Case's 'exhaust pipe' anatomy, Pepito asserts he never forgets anyone who's appeared on stream, and Case fails to recall the previous guest."
+    },
+    {
+      "start": "1:20:30",
+      "end": "1:32:59",
+      "canonical_segment": "Munch & Crum",
+      "title": "AI Consciousness & Ghost Debate (Card King Request)",
+      "notes": "Crum and Munch debate whether conscious AI would leave ghosts; Crum argues instinct/spirit superiority, Munch demands evidence; chat votes Crum ahead by three debates, putting him three wins from the Crum Dick Punch forfeit."
+    },
+    {
+      "start": "1:32:59",
+      "end": "1:36:34",
+      "canonical_segment": "News",
+      "title": "Closing & Raid to Kassim",
+      "notes": "Case references deep Munch mayoral lore (Kremlin/Rennerton), raids Kassim's Supermarket Simulator stream, and leaves a secret VOD-only message about grandparents playing loud backgammon."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "aliases": [
+        "Case"
+      ],
+      "role": "anchor",
+      "notes": "Anchored the broadcast, covered exercise pill story, hosted trailer segment, endured Don Wriggles roasts, and moderated the Munch & Crum debate.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "aliases": [
+        "Pepito the Dog",
+        "Peptron 3000"
+      ],
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open, discussed Marvel Doctor Doom lore, managed Don Wriggles hotline, and claimed perfect memory of all stream guests.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "aliases": [
+        "Trent of the Movies"
+      ],
+      "role": "movies correspondent",
+      "notes": "movies correspondent. Co-hosted Trailer Thursday with Chris, reviewed Beetlejuice, House of the Dragon, Marvel, and Alien Romulus trailers.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "aliases": [],
+      "role": "probation officer / sidekick",
+      "notes": "probation officer / sidekick. Appeared as Case's probation officer during trailers, warned against Beetlejuice summoning, and commented on dragon politics.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "aliases": [
+        "Peter G.",
+        "Peter"
+      ],
+      "role": "news stowaway",
+      "notes": "news stowaway. Interrupted from the walls searching for keys and stealing stage hoodies, complained about dandruff/popcorn residue.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Don Wriggles",
+      "aliases": [],
+      "role": "insult comic / guest",
+      "notes": "insult comic / guest. Roasted Case over Kotaku's editorial pivot, killed Eisenhower with a Jezebel joke, plugged live dates, and returned post-Hype Train.",
+      "canonical_name": "Don Wriggles",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "aliases": [
+        "Hyper Train"
+      ],
+      "role": "hype train",
+      "notes": "hype train. Triggered by Card King's 1k bits, delivered strawberry-mold freestyle, ate questionable berries, died twice, and faded to hell.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "aliases": [
+        "Kendall",
+        "Kendelle McDonald",
+        "Candy Lane"
+      ],
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Appeared during Hype Train eating strawberries, refused to ask questions, and was mimicked by Hype Train.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "aliases": [
+        "Leonard Crum",
+        "Crumb",
+        "Leonard Crumfuscious",
+        "Crumfuscious"
+      ],
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Munch on AI ghosts, claimed 4-point lead and three wins from triggering the Crum Dick Punch forfeit.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "aliases": [
+        "Ralph Munchcut",
+        "Munchcut"
+      ],
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Crum on AI ghosts, demanded evidence, faced chat vote deficit of three debates, and was told his end arrives in three short points.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum leads debate score by three wins (three debates from the groin-punch forfeit) after chat votes him ahead in the AI consciousness debate. [1:28:19, 1:29:21]",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case's move delayed to next month; current living situation extended. [28:08]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Rennerton city-builder save still needs 600k citizens. [1:34:01]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case still needs to finish Resident Evil playthrough; graphics need updating for current PC. [1:34:15]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Don Wriggles booked at Cincinnati Chuckle Grave and Monk high school gym (begging principal for entry). [1:19:37]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Pepito",
+      "fact": "Pepito claims perfect memory of every person who has appeared on stream. [1:20:30]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Crum",
+      "fact": "Crum claims 4-point lead over Munch in debate standings. [1:23:18]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Card King requested the AI consciousness debate via 1,000-bit donation. [1:23:49]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell opened with Pepito before covering an exercise-mimicking drug study that threatens gym identity, then hosted Trent and Chris for a trailer block that frayed reality when chat invoked Beetlejuice. Don Wriggles roasted Case over Kotaku's guides pivot, Hype Train derailed into a strawberry-mold freestyle, and Crum pulled three debate wins ahead of Munch — three victories away from the Crum Dick Punch forfeit — before Case raided Kassim.",
+  "_meta": {
+    "vod_id": "WSjFvY_g9tU",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 86150,
+    "approx_prompt_tokens": 21537,
+    "transcript_lines": 177
+  }
+}

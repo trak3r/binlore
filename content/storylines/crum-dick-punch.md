@@ -62,6 +62,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2024-02-20|2024-02-20]] | Debate scoreboard shows Crum 9 points behind Munch (single digits), reigniting explosion rhetoric; Crum claims victory will trigger Munch's detonation while Munch counters with contained rage cube. |
 | [[../episodes/2024-02-27|2024-02-27]] | Crum and Munch debate with visible score graphic (78-70); Crum alleges rigging, Munch claims he can never lose; gambling debt subtext persists but no direct gorilla mention. |
 | [[../episodes/2024-03-01|2024-03-01]] [54:03] | [54:03] Crum references wife as 'noted tampon terrorist' during tampon debate; gambling liability arc looms in background. |
+| [[../episodes/2024-03-21|2024-03-21]] | Crum leads debate score by three wins (three debates from the groin-punch forfeit) after chat votes him ahead in the AI consciousness debate. [1:28:19, 1:29:21] |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |
