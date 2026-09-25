@@ -1,0 +1,79 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Fallout 4: Cambridge Polymer Labs & The Castle Siege",
+      "start": "00:00",
+      "end": "03:37:59",
+      "notes": "Case Blackwell hosts an extended science-correspondent gameplay session as Chet Manscape, completing the Cambridge Polymer Labs quest, retaking the Castle for the Minutemen, and battling a legendary crab boss. Kendelle confirmed physically present in studio."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors the broadcast as Chet Manscape for a full Fallout 4 science-themed gameplay session.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. The on-air persona Case adopts throughout the stream; completes Cambridge Polymer Labs, takes the Castle, and fights a legendary crab.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Confirmed physically present in the studio during the gameplay session (\"secret Kendall still here\").",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Briefly referenced when Case jokes about having to \"cup a pito off\" to avoid politics.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Kendelle is physically present in the studio during this broadcast.",
+      "timestamp": "[02:17:17]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case Blackwell has a live show scheduled for 10:30 PM at the UCB theater in Los Angeles the following night.",
+      "timestamp": "[03:36:07]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case Blackwell mentions a potential Chicago trip to see Andy and Chicago friends.",
+      "timestamp": "[03:36:44]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell delivers a feature-length Chet Guy the Science Eyes broadcast, steering a Fallout 4 playthrough through the Cambridge Polymer Labs quest, the Minutemen's Castle assault, and a drawn-out legendary crab boss fight. Kendelle is confirmed in the studio throughout, and Case closes by plugging a UCB theater show and a possible Chicago road trip.",
+  "_meta": {
+    "vod_id": "9vl7XeeEkDo",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 109921,
+    "approx_prompt_tokens": 27480,
+    "transcript_lines": 345
+  }
+}
