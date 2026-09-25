@@ -1,0 +1,168 @@
+{
+  "segments": [
+    {
+      "start": "08:26",
+      "end": "13:00",
+      "canonical_segment": "News",
+      "title": "Opening & Trailer Block Kickoff",
+      "notes": "Case opens Town Hall Tuesday with movie trailer requests; announces new Town Hall segment price-locked behind 10 subs."
+    },
+    {
+      "start": "13:00",
+      "end": "38:00",
+      "canonical_segment": "Hype Train",
+      "title": "Golden Kappa Train Derailment",
+      "notes": "Hype Train manifests as 'King Golden Kappa Toran,' an immortal cursed monarch whose rectum transmutes all inserted matter into gold; extended lore improvisation consumes trailer block."
+    },
+    {
+      "start": "38:00",
+      "end": "42:00",
+      "canonical_segment": "News",
+      "title": "Kendall Near-Miss Debrief",
+      "notes": "Kendelle arrives on-set after two near-fatal LA traffic incidents; Case establishes 'Kendall Relief Fund' (dinner) from stream donations."
+    },
+    {
+      "start": "42:00",
+      "end": "54:00",
+      "canonical_segment": "News",
+      "title": "Trailer Block: Hit Man & Deadfall (1993)",
+      "notes": "Hit Man (Glen Powell) and Nicolas Cage/Charlie Sheen cult flop Deadfall trailers screened; Case champions Deadfall's $18K box office as 'worth every dollar.'"
+    },
+    {
+      "start": "54:00",
+      "end": "01:00:00",
+      "canonical_segment": "News",
+      "title": "Trailer Block: Atlas (J.Lo Sci-Fi)",
+      "notes": "Jennifer Lopez AI-action trailer Atlas discussed; Case praises Lopez 'acting in a box' commitment, debates robot ass aesthetics with chat."
+    },
+    {
+      "start": "01:01:00",
+      "end": "01:16:00",
+      "canonical_segment": "News",
+      "title": "Don Wriggles Trump Hush-Money Recap",
+      "notes": "Insult comedian Don Wriggles delivers hush-money trial updates (Pecker testimony, Stormy Daniels fact-checks) while attacking Case's hygiene."
+    },
+    {
+      "start": "01:16:00",
+      "end": "01:53:00",
+      "canonical_segment": "News",
+      "title": "Town Hall: Donald Trump Fields Questions",
+      "notes": "Lawn Soap hosts town hall with Donald Trump; audience asks about mushroom taxonomy, self-resurrection, LA driver veteran status, hand-game mechanics, Melania's $6B purchase price, time-travel bear assassinations, and prison dick-holding logistics."
+    },
+    {
+      "start": "01:54:00",
+      "end": "02:04:00",
+      "canonical_segment": "Therapy",
+      "title": "ASMR Rocket Raccoon Therapy Session",
+      "notes": "ASMR Rocket Raccoon sees raccoon therapist; mouth-sound ASMR duel (toothbrush, banana, bubble wrap, foil); therapist admits impostor syndrome, enables trash relapse."
+    },
+    {
+      "start": "02:04:00",
+      "end": "02:07:08",
+      "canonical_segment": "News",
+      "title": "Wrap-Up & Raid to Kassim",
+      "notes": "Case ends stream at two-hour 'legal limit,' raids Kassim, plugs Patreon dream stream tomorrow."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors Town Hall Tuesday; survives Golden Kappa Train derailment, manages Kendall crisis, oversees chaotic Trump town hall.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical correspondent",
+      "notes": "musical correspondent. Manifests as King Golden Kappa Toran, an immortal cursed king whose ass transmutes all offerings to gold, dominating 25 minutes of airtime.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Survives dual near-miss car accidents en route to studio; receives 'Kendall Relief Fund' dinner from stream donations.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Don Wriggles",
+      "role": "insult comedian",
+      "notes": "insult comedian. Delivers Trump hush-money trial recap while relentlessly mocking Case's chair hygiene and personal scent.",
+      "canonical_name": "Don Wriggles",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Lawn Soap",
+      "role": "town hall host",
+      "notes": "town hall host. Debuts as town hall moderator; struggles with technical 'fixy-dos' while fielding Trump and audience chaos.",
+      "canonical_name": "Lawn Soap",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ASMR Rocket Raccoon",
+      "role": "therapy patient",
+      "notes": "therapy patient. Attends raccoon therapy; demonstrates mouth-sound ASMR repertoire (toothbrush, banana, bubble wrap, foil) and admits trash addiction.",
+      "canonical_name": "ASMR Rocket Raccoon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Therapy Doctor",
+      "role": "therapist",
+      "notes": "Raccoon therapist who reveals impostor syndrome, enables patient's trash relapse, and denies cure for brain diseases.",
+      "canonical_name": "Therapy Doctor",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Hype Train",
+      "fact": "Golden Kappa Train variant 'King Golden Kappa Toran' claims 6,000-year immortality and a curse where anything inserted into his rectum — including bits, subs, crowns, stone tablets, and family members — transmutes to gold.",
+      "timestamp": "[13:00]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Survived two near-fatal LA traffic incidents in one commute: first a lane-swerve into adjacent traffic, second a van turning left then crossing straight into her lane.",
+      "timestamp": "[33:11]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Lawn Soap",
+      "fact": "Debuts as dedicated town hall host, claiming 'I never leave the town hall if I can help it' and performing live technical 'fixy-dos' mid-broadcast.",
+      "timestamp": "[01:16:16]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "ASMR Rocket Raccoon",
+      "fact": "Identifies as 'mouth ASMR guy' not 'prop ASMR guy'; demonstrates raccoon-specific sounds (toothbrushing, banana eating, bubble wrap, aluminum foil) and admits uncontrolled trash addiction.",
+      "timestamp": "[01:56:43]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell's Town Hall Tuesday opens with a movie trailer block that gets hijacked by a Golden Kappa Train Hype Train variant claiming an ancient rectal transmutation curse. After Kendelle survives twin near-miss car crashes, Don Wriggles delivers a hush-money trial recap before Lawn Soap moderates a surreal town hall where Donald Trump fields questions on mushroom taxonomy, self-resurrection, LA drivers as war veterans, Melania's $6B cash purchase, time-travel bear assassinations, and prison dick-holding economics. The broadcast closes with ASMR Rocket Raccoon attending raccoon therapy, where a mouth-sound duel ends in the therapist enabling a trash relapse.",
+  "_meta": {
+    "vod_id": "4TOTdj1zvR8",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 103302,
+    "approx_prompt_tokens": 25825,
+    "transcript_lines": 197
+  }
+}

@@ -22,11 +22,11 @@ Complete stream archive tracked for *Barely Informed News*. Episodes are ingeste
     <div class="stat-label">Total Broadcast Lore</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">126</div>
+    <div class="stat-value">127</div>
     <div class="stat-label">Ingested & Extracted</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">250</div>
+    <div class="stat-value">249</div>
     <div class="stat-label">Pending Ingestion Backlog</div>
   </div>
 </div>
@@ -44,8 +44,8 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   <div class="filter-group">
     <select id="status-filter">
       <option value="all">All Statuses (376)</option>
-      <option value="ingested">Ingested Only (126)</option>
-      <option value="backlog">Backlog Only (250)</option>
+      <option value="ingested">Ingested Only (127)</option>
+      <option value="backlog">Backlog Only (249)</option>
     </select>
     <select id="page-size">
       <option value="25">25 per page</option>
@@ -371,7 +371,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
 <tr data-status="backlog" data-title="seinfelding, porn solves mysteries, monkeys attack, it's... news?" data-date="2024-04-29" data-vod-id="plrifcpurho" style="display: none;"><td class="cell-date"><code>2024-04-29</code></td><td class="cell-title">Seinfelding, Porn Solves Mysteries, Monkeys Attack, it's... NEWS?</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">PLRIFcPURHo</code></td><td class="cell-dur">2:06:38</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=PLRIFcPURHo" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="protests, ai, and other words you know are news" data-date="2024-04-25" data-vod-id="bcw2rbdzf2a" style="display: none;"><td class="cell-date"><code>2024-04-25</code></td><td class="cell-title">Protests, AI, and other words you KNOW are NEWS</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">BCW2rBdZf2A</code></td><td class="cell-dur">2:12:19</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=BCW2rBdZf2A" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="fallout boy meat world" data-date="2024-04-24" data-vod-id="qlz92dlvcm8" style="display: none;"><td class="cell-date"><code>2024-04-24</code></td><td class="cell-title">Fallout Boy MEAT world</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">QLZ92dLvCM8</code></td><td class="cell-dur">2:52:53</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=QLZ92dLvCM8" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
-<tr data-status="backlog" data-title="town hall tuesday" data-date="2024-04-23" data-vod-id="4totdj1zvr8" style="display: none;"><td class="cell-date"><code>2024-04-23</code></td><td class="cell-title">Town Hall Tuesday</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">4TOTdj1zvR8</code></td><td class="cell-dur">2:07:08</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=4TOTdj1zvR8" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
+<tr data-status="ingested" data-title="town hall tuesday" data-date="2024-04-23" data-vod-id="4totdj1zvr8" style="display: none;"><td class="cell-date"><code>2024-04-23</code></td><td class="cell-title"><a href="./2024-04-23" class="internal"><strong>Town Hall Tuesday</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">4TOTdj1zvR8</code></td><td class="cell-dur">2:07:08</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=4TOTdj1zvR8" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="fallout boy meets more world" data-date="2024-04-20" data-vod-id="9vl7xeeekdo" style="display: none;"><td class="cell-date"><code>2024-04-20</code></td><td class="cell-title"><a href="./2024-04-20" class="internal"><strong>Fallout Boy Meets More World</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">9vl7XeeEkDo</code></td><td class="cell-dur">3:37:59</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=9vl7XeeEkDo" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="fallout boy meets world" data-date="2024-04-19" data-vod-id="uon0frzhi5u" style="display: none;"><td class="cell-date"><code>2024-04-19</code></td><td class="cell-title"><a href="./2024-04-19" class="internal"><strong>Fallout Boy Meets World</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">uon0frZHI5U</code></td><td class="cell-dur">4:21:01</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=uon0frZHI5U" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="grimey coachella, israel check in, we can talk to whales? it's news and/or science?" data-date="2024-04-17" data-vod-id="h0joe2h03nq" style="display: none;"><td class="cell-date"><code>2024-04-17</code></td><td class="cell-title"><a href="./2024-04-17" class="internal"><strong>Grimey Coachella, Israel Check In, We Can Talk to Whales? It's NEWS and/or SCIENCE?</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">h0joE2H03nQ</code></td><td class="cell-dur">2:10:02</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=h0joE2H03nQ" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>

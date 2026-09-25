@@ -54,13 +54,14 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
 | [[episodes/2024-07-20|2024-07-20]] | Appears on couch cam, sleeps through friend visit, debates smut vs no smut (concedes), wins fursona poll, declines boba after stream runs… |
-| [[episodes/2024-04-20|2024-04-20]] | in-studio contributor. |
+| [[episodes/2024-04-23|2024-04-23]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (41)</summary>
+<summary>Earlier appearances (42)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-04-20|2024-04-20]] | in-studio contributor. |
 | [[episodes/2024-04-19|2024-04-19]] | in-studio contributor. |
 | [[episodes/2024-04-09|2024-04-09]] | in-studio contributor. |
 | [[episodes/2024-03-29|2024-03-29]] | In-studio contributor appears under CIA clearance, dances in EDM cave lighting triggering subscriber surge. |
@@ -138,3 +139,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[]** ([[episodes/2024-02-16|2024-02-16]]): Purchased strawberry slime from Disneyland Chinese New Year festival for $14 base + $13 trinkets = $27 total [01:17:48].
 - **[40:35]** ([[episodes/2024-03-18|2024-03-18]]): Kendelle confirms she has a copper coil IUD.
 - **[]** ([[episodes/2024-03-29|2024-03-29]]): Kendelle holds CIA clearance for studio access and generates revenue via kinetic movement. [1:25:16]
+- **[[33:11]]** ([[episodes/2024-04-23|2024-04-23]]): Survived two near-fatal LA traffic incidents in one commute: first a lane-swerve into adjacent traffic, second a van turning left then crossing straight into her lane.
