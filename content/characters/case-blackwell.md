@@ -117,3 +117,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[[10:32]]** ([[episodes/2024-04-17|2024-04-17]]): Claims third divorce in progress during Rick Triple segment.
 - **[1:15:48]** ([[episodes/2024-04-25|2024-04-25]]): Performed neutral face experiment for chat and ChatGPT to test AI political prediction study (r=0.22) [1:15:48].
 - **[1:12:20]** ([[episodes/2024-04-29|2024-04-29]]): Accidentally loaded two Joe Biden avatars simultaneously during town hall [1:12:20].
+- **[1:42:37]** ([[episodes/2024-05-01|2024-05-01]]): Declares Drake's son Adonis the winner of the rap beef, crediting Pusha T's earlier diss for forcing Drake to acknowledge the child.

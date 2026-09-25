@@ -61,7 +61,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (37)</summary>
+<summary>Earlier appearances (38)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -72,6 +72,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
 | [[episodes/2025-06-02|2025-06-02]] | executive producer. |
+| [[episodes/2024-05-01|2024-05-01]] | executive producer. |
 | [[episodes/2024-04-29|2024-04-29]] | executive producer. |
 | [[episodes/2024-04-20|2024-04-20]] | executive producer. |
 | [[episodes/2024-04-16|2024-04-16]] | Served as executive producer, declared his own birthday as 'April Day,' and performed the ChatGPT-generated theme song 'Living Pepito Loco.' |
@@ -166,3 +167,5 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[[24:03]]** ([[episodes/2024-04-04|2024-04-04]]): Claims ability to move through portals; defended Windows 11 upgrade.
 - **[03:26]** ([[episodes/2024-04-29|2024-04-29]]): Ate black moldy yogurt from under a chair and claims it tasted great [03:26].
 - **[47:31]** ([[episodes/2024-04-29|2024-04-29]]): Claims genetic composition: 50% Chihuahua, 20% Labradoodle, 50% Viking [47:31].
+- **[14:39]** ([[episodes/2024-05-01|2024-05-01]]): Ate Case's entire original Batman animated series figurine collection, claiming he did Case a favor because Case was 'too old to still have those.'
+- **[51:12]** ([[episodes/2024-05-01|2024-05-01]]): Transfers a stock contract to Tyler, declaring him CEO of the network.

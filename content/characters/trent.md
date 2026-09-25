@@ -40,6 +40,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 - **[]** ([[episodes/2024-01-13|2024-01-13]]): Claims to have made out with women on stream; has long hair from 'hooking up with ladies' [1:34:54].
 - **[2:07:56]** ([[episodes/2024-02-07|2024-02-07]]): Uses '10 minutes self-reflection' phone app for therapy [2:07:56]
 - **[]** ([[episodes/2024-02-27|2024-02-27]]): Hosts recurring 'Trent at the Movies' segment reviewing trailers; advocates for actor safety on green-screen volumes. [1:40:07]
+- **[1:04:50]** ([[episodes/2024-05-01|2024-05-01]]): Mother dropped him off at the studio 20 minutes before broadcast; Chris claims Trent's father owns a steak shop and the parents do not get along.
 
 ## Open questions
 

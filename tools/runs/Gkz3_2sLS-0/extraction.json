@@ -1,0 +1,163 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Cold Open",
+      "start": "02:05",
+      "end": "12:50",
+      "notes": "Hype Train commandeers the top of the broadcast with freestyle raps about rappers, Mortal Kombat, and Def Jam: Fight for New York; Case sets a 25-sub goal to play the game on PS2 emulator."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Campus Protests & Gaza Survey with New Host Tyler",
+      "start": "12:50",
+      "end": "51:55",
+      "notes": "Pepito introduces Tyler, a surreal philosophy-spouting hire secured with circus peanuts; Tyler reads a JL Partners survey on news-consumption splits over Gaza, insists there are 'no sides, only curves,' and eventually curls up under the desk to sleep."
+    },
+    {
+      "canonical_segment": "At the Movies",
+      "title": "Trailer Block: Mikoverse, Betty's Caribbean, Streets of Fire, Ashley Madison",
+      "start": "51:55",
+      "end": "1:42:08",
+      "notes": "Trent and Chris review the Code Miko-backed Mikoverse VR Kickstarter (funded 10x), a four-minute Baddies Caribbean scream-fest, the 1984 rock-noir Streets of Fire, and the Ashley Madison hack documentary; Spinachi raids mid-block."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Kendrick vs. Drake Diss-Track Reaction with Peter Gibbon",
+      "start": "1:21:14",
+      "end": "1:49:25",
+      "notes": "Stowaway Peter Gibbon crashes the desk to react to the Drake/Kendrick Lamar feud; Peter declares Adonis the true winner, then delivers an explicit freestyle about making love to Drake."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Closing & Rock Urine Bottle Mention",
+      "start": "1:49:25",
+      "end": "1:52:08",
+      "notes": "Case briefly references The Rock allegedly urinating in bottles on the Red One set, then raids Fiona's channel."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors the broadcast, manages Hype Train, onboards Tyler, hosts At the Movies handoff, and referees the Kendrick/Drake reaction with Peter Gibbon.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Hires Tyler after being fed circus peanuts, claims Tyler is now CEO, and admits to eating Case's Batman figurine collection.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Opens the show with a surreal freestyle about 2010 rappers, Def Jam: Fight for New York, and bodily fluids.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Tyler",
+      "role": "correspondent",
+      "notes": "correspondent. New hire delivered by Pepito; covers the Gaza protest survey with a philosophy of radical non-duality and sleeps under the desk.",
+      "canonical_name": "Tyler",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "correspondent",
+      "notes": "correspondent. Hosts At the Movies from a parole-officer-mandated trailer-watching sentence; reacts to Mikoverse, Baddies, Streets of Fire, and Ashley Madison docs.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "role": "correspondent",
+      "notes": "correspondent. Trent's co-host and self-described parole officer; reveals Trent's dad owns a steak shop and his parents are estranged.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Infiltrates the studio for the Kendrick/Drake segment, claims ignorance of both rappers, then performs a graphic freestyle about Drake.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Tyler Hiring Arc",
+      "beat": "[13:14] Pepito hires Tyler on a five-year contract after Tyler feeds him a bag of circus peanuts; Tyler immediately reframes news coverage through 'curves not sides' philosophy.",
+      "timestamp": "13:14"
+    },
+    {
+      "storyline": "Peter Gibbon Studio Infiltration",
+      "beat": "[1:22:20] Peter Gibbon enters the broadcast booth uninvited to co-host the Kendrick/Drake reaction, continuing his post-termination residency in the studio walls.",
+      "timestamp": "1:22:20"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Ate Case's entire original Batman animated series figurine collection, claiming he did Case a favor because Case was 'too old to still have those.'",
+      "timestamp": "14:39",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Tyler",
+      "fact": "Claims to be a fire-brigade volleyball-team calendar model who runs a 'peanuts for pups' program stuffing circus peanuts into dogs' mouths.",
+      "timestamp": "47:24",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Tyler",
+      "fact": "Asserts he has 'so many apartments because when you're open to the world, apartments show themselves to you.'",
+      "timestamp": "48:39",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Transfers a stock contract to Tyler, declaring him CEO of the network.",
+      "timestamp": "51:12",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trent",
+      "fact": "Mother dropped him off at the studio 20 minutes before broadcast; Chris claims Trent's father owns a steak shop and the parents do not get along.",
+      "timestamp": "1:04:50",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Declares Drake's son Adonis the winner of the rap beef, crediting Pusha T's earlier diss for forcing Drake to acknowledge the child.",
+      "timestamp": "1:42:37",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News onboards a circus-peanut-fueled correspondent named Tyler, who reframes the Gaza campus-protest survey as a lesson in non-dual curves before napping under the desk. Trent and Chris survive a four-minute Baddies Caribbean trailer and the Ashley Madison hack documentary, then Peter Gibbon hijacks the Kendrick/Drake diss-track reaction to crown Adonis the victor and serenade Drake with an explicit freestyle. The broadcast closes with an unconfirmed rumor that The Rock urinates in bottles on film sets and a raid on Fiona's channel.",
+  "_meta": {
+    "vod_id": "Gkz3_2sLS-0",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 89250,
+    "approx_prompt_tokens": 22312,
+    "transcript_lines": 271
+  }
+}
