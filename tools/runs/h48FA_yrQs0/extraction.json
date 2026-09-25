@@ -1,0 +1,294 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "02:29",
+      "canonical_segment": "News",
+      "title": "Cold Open with Peter Gibbon",
+      "notes": "Peter Gibbon stows away in the intro, singing off-key before Case Blackwell takes control."
+    },
+    {
+      "start": "02:29",
+      "end": "04:17",
+      "canonical_segment": "News",
+      "title": "Case Blackwell Solo Intro",
+      "notes": "Case greets chat, mentions simultaneous Instagram vertical streaming, and considers Vine."
+    },
+    {
+      "start": "04:17",
+      "end": "09:55",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Freestyle",
+      "notes": "Hype Train appears, raps about dying at a Banger Boys concert from lack of subs/bits, and delivers a Bart Simpson trap beat about drug farts and meth brain."
+    },
+    {
+      "start": "09:55",
+      "end": "21:43",
+      "canonical_segment": "News",
+      "title": "Israel Ceasefire Coverage with Rick Tripple",
+      "notes": "Rick Tripple (CIA/foreign affairs expert) joins to cover Biden's call for immediate ceasefire, White House demanding concrete Israeli steps, and the World Central Kitchen convoy attack."
+    },
+    {
+      "start": "22:09",
+      "end": "45:57",
+      "canonical_segment": "News",
+      "title": "Trent at the Movies with Chris",
+      "notes": "Chris joins for trailer reviews: Babes (female Knocked Up), Abigail (ballerina vampire), Bambi: The Reckoning (killer deer), and Jane de Bari (Johnny Depp perfume commercial)."
+    },
+    {
+      "start": "46:20",
+      "end": "01:08:05",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Joe Rogan Experience Technical Difficulties",
+      "notes": "Case patches in the Joes; audio feedback loops plague the segment. Joes discuss female Knocked Up, therapy, samurai wrestling, Undertaker entering through floor fire, and Jamie's copper wire experiments."
+    },
+    {
+      "start": "01:08:05",
+      "end": "01:11:19",
+      "canonical_segment": "News",
+      "title": "Windows 11 Audio Fallout",
+      "notes": "Case blames Windows 11 update for OBS audio routing issues; Pepito defends the upgrade."
+    },
+    {
+      "start": "01:11:19",
+      "end": "01:33:54",
+      "canonical_segment": "News",
+      "title": "AI Influencer Alba Renai Lands Spanish TV Job",
+      "notes": "Jeff Ripple covers virtual influencer Alba Renai (11.3k followers) joining Spanish Survivor spinoff 'Super Secretos con Alba Renai'; debate tease: 'Would you bang an AI?'"
+    },
+    {
+      "start": "01:33:54",
+      "end": "01:53:23",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Would You Bang an AI? / Murder Debate",
+      "notes": "Munch argues for AI intimacy (Cortana reference); Crum cites Christian procreation doctrine. Devolves into Crum threatening to send Munch to a humane slaughterhouse farm; chat votes on murder legality."
+    },
+    {
+      "start": "01:53:23",
+      "end": "02:15:24",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Invisibility Shields with Liliana and Chet",
+      "notes": "Liliana and Chet cover Invisibility Shield Co.'s 6-foot 'mega shield' ($828) using precision lens arrays; Chet claims chameleon DNA tech; privacy law concerns noted."
+    },
+    {
+      "start": "02:15:24",
+      "end": "02:26:52",
+      "canonical_segment": "News",
+      "title": "Conspiracy Corner: Bill Nye with Clementine",
+      "notes": "Clementine searches 'Bill Nye conspiracy'; watches clip where Nye discusses cognitive dissonance, moon landing paperwork, vaccines, and palm reading. Clementine declares Nye 'on our side' and builds a spirit bomb of truth."
+    },
+    {
+      "start": "02:26:52",
+      "end": "02:38:37",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Fiona Nova vs Rooster Fight",
+      "notes": "Second debate: who wins — retired Rooster Teeth host Fiona Nova or a rooster. Munch picks rooster (claws, battle-born); Crum picks human (size advantage). Score update: Munch 292, Crum 1991 (claimed)."
+    },
+    {
+      "start": "02:38:37",
+      "end": "02:58:13",
+      "canonical_segment": "DJ Newsic",
+      "title": "Leon Kennedy Theme Song Contest & Raid",
+      "notes": "DJ Newsic runs poll for Leon Kennedy (Resident Evil 4) theme song; Monster Mash wins. Case uses ChatGPT to write parody lyrics; Leon performs. Ends with Hype Train raiding Katsum G."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors chaotic broadcast; battles Windows 11 audio issues; hosts trailers, Joe Rogan, AI news, and Leon Kennedy song contest.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Opens show singing in the intro booth before being ejected; claims portal access.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Blamed for Windows 11 upgrade that broke OBS audio; claims portal travel.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick Tripple",
+      "role": "correspondent",
+      "notes": "correspondent. CIA/foreign affairs expert covers Israel ceasefire; spars with Case over 'immediate' timeline and step geometry.",
+      "canonical_name": "Rick Tripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Co-hosts Trent at the Movies; reveals 20-minute pee schedule and prostate concerns.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Covers AI influencer Alba Renai; interacts with Comedy Zack AI roast bot; sings.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Co-hosts invisibility shield segment with Chet; suggests poop privacy use-case.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "correspondent",
+      "notes": "correspondent. Science Eyes host; claims chameleon DNA + plastic creates invisibility; rivals Bill Nye.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues for AI intimacy (Cortana) and rooster victory; threatens Crum with farm slaughter; score 292.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Cites Christian procreation doctrine against AI sex; picks human over rooster; claims 1991 score; threatens Munch with typhoon humanitarian crisis.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Clementine",
+      "role": "correspondent",
+      "notes": "correspondent. Runs Conspiracy Corner; searches Bill Nye conspiracies; declares Nye ally; builds spirit bomb of truth.",
+      "canonical_name": "Clementine",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "musical host",
+      "notes": "musical host. Runs Leon Kennedy theme song poll; uses ChatGPT for Monster Mash parody lyrics.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Leon Kennedy",
+      "role": "call-in guest",
+      "notes": "call-in guest. Resident Evil 4 protagonist appears for theme song contest; performs Monster Mash parody; mentions killing pirates.",
+      "canonical_name": "Leon Kennedy",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Windows 11 Audio Crisis",
+      "beat": "[1:08:05] Case updates to Windows 11, breaking OBS audio routing; blames Pepito; issues persist through multiple segments.",
+      "timestamp": "1:08:05"
+    },
+    {
+      "storyline": "AI Influencer Integration",
+      "beat": "[1:11:19] Virtual influencer Alba Renai (11.3k followers) lands segment on Spanish Survivor spinoff; network debates AI intimacy.",
+      "timestamp": "1:11:19"
+    },
+    {
+      "storyline": "Crum Murder Threats Escalation",
+      "beat": "[1:46:37] Crum details plan to send Munch to humane slaughterhouse farm; chat votes on one-time murder legality; Munch demands no-kill precedent.",
+      "timestamp": "1:46:37"
+    },
+    {
+      "storyline": "Invisibility Shield Tech",
+      "beat": "[1:53:23] Invisibility Shield Co. reveals 6-foot mega shield ($828) using precision lens arrays; privacy law opt-outs in 5 states noted.",
+      "timestamp": "1:53:23"
+    },
+    {
+      "storyline": "Bill Nye Conspiracy Arc",
+      "beat": "[2:15:24] Clementine finds Bill Nye discussing cognitive dissonance, moon landing paperwork, and vaccine history; declares Nye 'on our side'.",
+      "timestamp": "2:15:24"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Updated to Windows 11, causing persistent OBS audio routing failures across multiple segments.",
+      "timestamp": "[1:08:05]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Claims ability to move through portals; defended Windows 11 upgrade.",
+      "timestamp": "[24:03]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chris",
+      "fact": "Urinates every 20 minutes; acknowledges prostate issues and leaks.",
+      "timestamp": "[25:05]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "Head shape described as 'slightly less pointy' by Munch; claims 1991 debate score (previously cited as ~91).",
+      "timestamp": "[1:34:59]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch",
+      "fact": "Debate score confirmed at 292; argues samurai wrestling superiority and Cortana intimacy.",
+      "timestamp": "[2:36:16]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Invisibility Shield Co.",
+      "fact": "British startup selling 6-foot mega shield for $828 using precision lens arrays; Kickstarter originated 2022.",
+      "timestamp": "[2:02:57]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Leon Kennedy",
+      "fact": "Appears as on-air guest for theme song contest; performs ChatGPT-written Monster Mash parody; claims Ada Wong plays hard to get.",
+      "timestamp": "[2:49:19]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell hosts a technically cursed broadcast after a Windows 11 update scrambles OBS audio. The show covers Biden's 'immediate' Gaza ceasefire demand with CIA correspondent Rick Tripple, reviews trailers including a female Knocked Up and killer Bambi, endures a feedback-looped Joe Rogan Experience, and reports on AI influencer Alba Renai's Spanish TV debut. Munch & Crum debate AI intimacy and Fiona Nova vs. a rooster, escalating to Crum threatening Munch with a humane slaughterhouse farm. Liliana and Chet test a $828 invisibility shield, Clementine uncovers Bill Nye conspiracy alignment, and the broadcast closes with a Leon Kennedy Monster Mash theme song performed live before raiding Katsum G.",
+  "_meta": {
+    "vod_id": "h48FA_yrQs0",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 150913,
+    "approx_prompt_tokens": 37728,
+    "transcript_lines": 344
+  }
+}

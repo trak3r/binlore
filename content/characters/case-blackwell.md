@@ -110,3 +110,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[]** ([[episodes/2024-03-29|2024-03-29]]): Case Blackwell seeks pre-built PC recommendations for brother Ryan. [1:21:24]
 - **[00:45]** ([[episodes/2024-04-02|2024-04-02]]): Began simulcasting to Instagram in vertical format with 30-second delay [00:45].
 - **[1:04:52]** ([[episodes/2024-04-02|2024-04-02]]): Announced intention to stream daily at 1:00 PM to avoid crossing streams with Kasim [1:04:52].
+- **[[1:08:05]]** ([[episodes/2024-04-04|2024-04-04]]): Updated to Windows 11, causing persistent OBS audio routing failures across multiple segments.

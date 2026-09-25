@@ -23,6 +23,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-04-04|2024-04-04]] | in-studio contributor. |
 | [[episodes/2024-03-21|2024-03-21]] | probation officer / sidekick. |
 | [[episodes/2024-03-01|2024-03-01]] | contributor. |
 | [[episodes/2024-02-09|2024-02-09]] | Trend at the Movies co-host; debates alliteration, defends Knuckles trailer, clashes with Case over animation quality. |
@@ -32,6 +33,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 ## Notable moments
 
 - First identified in [[episodes/2023-11-22|Episode 2023-11-22]].
+- **[[25:05]]** ([[episodes/2024-04-04|2024-04-04]]): Urinates every 20 minutes; acknowledges prostate issues and leaks.
 
 ## Open questions
 
