@@ -105,3 +105,6 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[[11:06]]** ([[episodes/2024-02-01|2024-02-01]]): Has pending job interview outcome; would reduce editing workload if hired.
 - **[]** ([[episodes/2024-02-16|2024-02-16]]): Created Truth Social account 'historic skids' to monitor Donald Trump posts [59:46].
 - **[]** ([[episodes/2024-02-27|2024-02-27]]): Moving residence this month; studio may look the same but personal area relocating; power turn-on pending. [16:00]
+- **[]** ([[episodes/2024-03-29|2024-03-29]]): Case Blackwell maintains Leon Kennedy clone reserves for field deployment after months of abandonment. [07:38]
+- **[]** ([[episodes/2024-03-29|2024-03-29]]): Case Blackwell has not relocated apartment; Kendelle moving in creates dual-maternal dynamic with Fiona as prime. [1:49:56]
+- **[]** ([[episodes/2024-03-29|2024-03-29]]): Case Blackwell seeks pre-built PC recommendations for brother Ryan. [1:21:24]

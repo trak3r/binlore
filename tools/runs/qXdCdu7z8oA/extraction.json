@@ -1,0 +1,103 @@
+{
+  "segments": [
+    {
+      "start": "07:38",
+      "end": "1:25:15",
+      "canonical_segment": "News",
+      "title": "RE4 CIA Operation: Spanish Transylvania",
+      "notes": "Case Blackwell resumes Resident Evil 4 playthrough as Leon Kennedy, framing gameplay as live CIA field operation with clone deployment mechanics."
+    },
+    {
+      "start": "1:25:16",
+      "end": "1:41:18",
+      "canonical_segment": "News",
+      "title": "Kendelle CIA Clearance Dance Interlude",
+      "notes": "Kendelle enters studio with CIA clearance, dances to EDM cave lighting, generates subscriber surge via kinetic movement."
+    },
+    {
+      "start": "1:41:19",
+      "end": "2:09:21",
+      "canonical_segment": "News",
+      "title": "Agent Papito Field Takeover",
+      "notes": "Executive Producer Pepito assumes remote control as Agent Papito, executes canine field ops in dog-simulator mode including butt-smelling protocols and laser-pointer engagement."
+    },
+    {
+      "start": "2:09:22",
+      "end": "2:11:11",
+      "canonical_segment": "News",
+      "title": "Operational Stand-Down & Weekend Outlook",
+      "notes": "Case Blackwell returns to anchor desk, confirms RE4 progress on victory path, announces potential weekend gaming continuation and Monday podcast return."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "Lead Anchor",
+      "notes": "Lead anchor resumes RE4 playthrough as CIA operative Leon Kennedy, deploying clone reserves after months of abandonment.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "Executive Producer",
+      "notes": "Executive producer executes remote field takeover as Agent Papito, piloting canine avatar through aggressive play and scent protocols.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "In-Studio Contributor",
+      "notes": "In-studio contributor appears under CIA clearance, dances in EDM cave lighting triggering subscriber surge.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell maintains Leon Kennedy clone reserves for field deployment after months of abandonment. [07:38]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Kendelle",
+      "fact": "Kendelle holds CIA clearance for studio access and generates revenue via kinetic movement. [1:25:16]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Pepito",
+      "fact": "Pepito operates as Agent Papito for remote field takeovers, piloting canine avatars with butt-smell and laser-pointer protocols. [1:41:19]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell has not relocated apartment; Kendelle moving in creates dual-maternal dynamic with Fiona as prime. [1:49:56]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell seeks pre-built PC recommendations for brother Ryan. [1:21:24]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell reactivates CIA field operations in Spanish Transylvania, deploying Leon Kennedy clones through Resident Evil 4's castle and island chapters. Executive Producer Pepito assumes remote command as Agent Papito for a canine-simulator field takeover. Kendelle exercises CIA clearance for a kinetic interlude that triggers subscriber momentum.",
+  "_meta": {
+    "vod_id": "qXdCdu7z8oA",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 85405,
+    "approx_prompt_tokens": 21351,
+    "transcript_lines": 214
+  }
+}

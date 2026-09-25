@@ -54,13 +54,14 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
 | [[episodes/2024-07-20|2024-07-20]] | Appears on couch cam, sleeps through friend visit, debates smut vs no smut (concedes), wins fursona poll, declines boba after stream runs… |
-| [[episodes/2024-03-28|2024-03-28]] | in-studio contributor. |
+| [[episodes/2024-03-29|2024-03-29]] | In-studio contributor appears under CIA clearance, dances in EDM cave lighting triggering subscriber surge. |
 
 <details>
-<summary>Earlier appearances (37)</summary>
+<summary>Earlier appearances (38)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-03-28|2024-03-28]] | in-studio contributor. |
 | [[episodes/2024-03-27|2024-03-27]] | in-studio contributor. |
 | [[episodes/2024-03-21|2024-03-21]] | in-studio contributor. |
 | [[episodes/2024-03-18|2024-03-18]] | in-studio contributor. |
@@ -133,3 +134,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[2:23:42]** ([[episodes/2024-02-15|2024-02-15]]): Joined DJ Newsic segment from roof to recount Valentine's dinner service failures and near-proposal moment.
 - **[]** ([[episodes/2024-02-16|2024-02-16]]): Purchased strawberry slime from Disneyland Chinese New Year festival for $14 base + $13 trinkets = $27 total [01:17:48].
 - **[40:35]** ([[episodes/2024-03-18|2024-03-18]]): Kendelle confirms she has a copper coil IUD.
+- **[]** ([[episodes/2024-03-29|2024-03-29]]): Kendelle holds CIA clearance for studio access and generates revenue via kinetic movement. [1:25:16]
