@@ -1,0 +1,56 @@
+{
+  "segments": [
+    {
+      "start": "00:00:02",
+      "end": "00:01:07",
+      "canonical_segment": "News",
+      "title": "Broadcast Open & Sponsor Read",
+      "notes": "Case Blackwell opens the broadcast, reads Heart Audio Cables sponsor copy, and checks in on Chet Manscape in the wasteland."
+    },
+    {
+      "start": "00:01:07",
+      "end": "01:48:07",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Fallout 4 Wasteland Gameplay",
+      "notes": "Chet Manscape commandeers the broadcast for an extended Fallout 4 session, building settlements, fighting mutants, and roleplaying as an overpowered wasteland general."
+    },
+    {
+      "start": "01:48:07",
+      "end": "01:50:41",
+      "canonical_segment": "News",
+      "title": "Broadcast Close & Raid",
+      "notes": "Case Blackwell returns to close the broadcast, thanks viewers, and raids Genie Darling."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the broadcast open and close, read sponsor copy, and handed off to Chet for an extended gameplay takeover.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "chief science correspondent",
+      "notes": "chief science correspondent. Commandeered the broadcast for a full Fallout 4 playthrough as an overpowered wasteland general, building settlements and fighting super mutants.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [],
+  "episode_summary": "Lead anchor Case Blackwell opened the broadcast with a sponsor read before handing control to Chief Science Correspondent Chet Manscape, who commandeered the studio for a feature-length Fallout 4 session. Chet roleplayed an overpowered wasteland general, constructing settlements, decimating super mutants and crabs, and flirting with irradiated NPCs. Blackwell returned to close the hour and raid Genie Darling.",
+  "_meta": {
+    "vod_id": "ydph_OLqsMA",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 82905,
+    "approx_prompt_tokens": 20726,
+    "transcript_lines": 197
+  }
+}
