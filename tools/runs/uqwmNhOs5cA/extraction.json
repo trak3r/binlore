@@ -1,0 +1,58 @@
+{
+  "segments": [
+    {
+      "start": "08:09",
+      "end": "03:16:57",
+      "canonical_segment": "News",
+      "title": "Resident Evil 4 Playthrough — Island Chapter",
+      "notes": "Case Blackwell streams a solo playthrough of Resident Evil 4 (Remake) as Leon Kennedy, navigating the island facility, battling Regeneradors and pirate shooting galleries, while fielding chat and referencing network lore."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors a solo gaming broadcast playing Resident Evil 4, narrating combat, puzzles, and pirate shooting galleries while referencing network storylines.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[02:16:02] Case invokes Beyblade Burst as a mental focus technique during the pirate shooting gallery grind; [02:20:20] Sub goal reached — 'Beyblade Blurp' celebrated on air.",
+      "timestamp": "02:16:02"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Case confirms next scheduled news stream for 2024-04-04.",
+      "timestamp": "[12:16]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Patreon recording ('cream team') scheduled for 18:00 on stream day.",
+      "timestamp": "[02:53:30]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Broadcast concludes with a raid on NoMePro (Nomi Pro).",
+      "timestamp": "[03:15:01]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell pilots a three-hour Resident Evil 4 session from the island facility, wrestling Regeneradors, keycard puzzles, and a punishing pirate crossbow shooting gallery. A sub goal triggers a Beyblade Burst invocation, and the broadcast ends with a raid on NoMePro ahead of a next-day news stream and evening Patreon recording.",
+  "_meta": {
+    "vod_id": "uqwmNhOs5cA",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 90013,
+    "approx_prompt_tokens": 22503,
+    "transcript_lines": 301
+  }
+}
