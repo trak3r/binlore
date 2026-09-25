@@ -1,0 +1,208 @@
+{
+  "segments": [
+    {
+      "start": "15:21",
+      "end": "40:22",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Level 6 Freestyle Derailment",
+      "notes": "Pepito delivers live countdown; Hype Train commandeers broadcast for extended R&B freestyle rap over trap soul beats, reaching level 6 with community subs and bits, incorporating manager Larry rap skit and genre shifts."
+    },
+    {
+      "start": "41:48",
+      "end": "48:53",
+      "canonical_segment": "News",
+      "title": "Neuralink First Human Patient Controls Mouse Via Thought",
+      "notes": "Scrum covers Reuters report on Neuralink's first human patient recovering fully and controlling computer mouse via brain chip; Elon Musk claims progress on obesity, autism, depression treatment goals."
+    },
+    {
+      "start": "49:26",
+      "end": "1:06:35",
+      "canonical_segment": "News",
+      "title": "At the Movies: Avatar Live-Action, Dark Web Streamer, Borderlands, Super Sex",
+      "notes": "Trent (Young Blood) joins for trailer reactions: Netflix Avatar live-action teaser, dark web horror concept, nine-second Borderlands preview, and Rocco Siffredi biopic Super Sex sparking soup vs sex debate."
+    },
+    {
+      "start": "1:07:09",
+      "end": "1:27:44",
+      "canonical_segment": "Amongst the Web",
+      "title": "Use the Internet with Peter Gibbon: Jordan-Pippin Wedding, Flamingo Diet, Acrobatic Eating, 90s Commercials",
+      "notes": "Peter Gibbon hosts from newsroom crawlspace; covers Marcus Jordan/Larsa Pippin engagement, flamingo pigmentation, woman inhaling gummy sticks, man acrobatically eating apples, roller coaster projectile vomiting, and poorly aged 9/11-era commercials including Subway/Jared and Raytheon spots."
+    },
+    {
+      "start": "1:28:19",
+      "end": "1:46:51",
+      "canonical_segment": "Munch & Crum",
+      "title": "Soup vs Super Sex Debate; Crum Nine Points from Victory",
+      "notes": "Munch admits eating Kendall's Girl Scout cookies; debate poll pits soup against sex — soup wins 51-49; Crum reaches single-digit deficit (9 points) on debate scoreboard, triggering explosion rhetoric."
+    },
+    {
+      "start": "1:46:51",
+      "end": "1:48:58",
+      "canonical_segment": "Munch & Crum",
+      "title": "Cookie Monster Confronts Munch Over 50 Stolen Cookies",
+      "notes": "Cookie Monster puppet interrupts to accuse Munch of consuming approximately 50 of Kendall's Girl Scout cookies; Munch apologizes to Cookie Monster and Kendall."
+    },
+    {
+      "start": "1:48:58",
+      "end": "2:05:56",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet Receives AI-Generated Theme Song 'Macho Macho Chet'",
+      "notes": "Chet commissions ChatGPT parody of 'Macho Man' claiming six sons, world's strongest coolest man status; records vocals in one take over AI backing track, cementing influencer legacy."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors flagship broadcast; manages Hype Train derailment, Scrum handoff, At the Movies toss, Peter Gibbon internet segment, Munch & Crum debate, and Chet theme song finale.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers live top-of-hour countdown; confirms identical cadence every broadcast.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype correspondent",
+      "notes": "hype correspondent. Commandeers cold open for level 6 freestyle rap marathon featuring trap soul beats, manager Larry skit, country pivot, and explicit chat-in-the-back mythology.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Scrum",
+      "role": "news correspondent",
+      "notes": "news correspondent. Monthly contracted correspondent covers Neuralink brain-chip mouse control story in rapid-fire non-penis segment.",
+      "canonical_name": "Scrum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent (Young Blood)",
+      "role": "correspondent",
+      "notes": "At the Movies correspondent reacts to Avatar, dark web, Borderlands, and Super Sex trailers with personal critique lens.",
+      "canonical_name": "Trent (Young Blood)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Hosts Use the Internet from crawlspace; claims escape from walls, presents viral clips including Jordan-Pippin wedding and 9/11-era commercials.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Admits eating Kendall's Girl Scout cookies; argues for sex over soup; faces Cookie Monster accusation; holds 9-point debate lead over Crum.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues soup superiority over sex; reaches single-digit deficit (9 points) on debate scoreboard; threatens Munch explosion upon victory.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Calls in starving; victim of Munch's Girl Scout cookie theft; receives apology and promised replacement cookies.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Cookie Monster",
+      "role": "puppet character",
+      "notes": "puppet character. Confronts Munch over consumption of approximately 50 Girl Scout cookies; accepts apology.",
+      "canonical_name": "Cookie Monster",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commissions and records AI-generated 'Macho Macho Chet' theme song in one take, claiming six sons and world's strongest coolest dad status.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Debate scoreboard shows Crum 9 points behind Munch (single digits), reigniting explosion rhetoric; Crum claims victory will trigger Munch's detonation while Munch counters with contained rage cube.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Scrum",
+      "fact": "Contracted for approximately monthly appearances, historically for 'dick stories' but assigned non-penis Neuralink story this episode.",
+      "timestamp": "16:26",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Performs the top-of-hour countdown live every broadcast with identical cadence and voice.",
+      "timestamp": "15:50",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Claims to have escaped the newsroom walls ('The walls can't keep me') and hosts Use the Internet from crawlspace.",
+      "timestamp": "1:07:41",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Ate Kendall's Girl Scout cookies (Thin Mints/sleeve) over two weeks; confronted by Cookie Monster for ~50 cookies consumed.",
+      "timestamp": "1:30:00",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Debate scoreboard deficit narrowed to 9 points — closest since early 10-point lead; Crum frames impending victory as Munch explosion event.",
+      "timestamp": "1:37:39",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "AI prompt for theme song establishes canon: 'world's strongest coolest man and incredible dad to six sons'; records 'Macho Macho Chet' parody in single take.",
+      "timestamp": "1:53:51",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opens with Pepito's live countdown before Hype Train hijacks the cold open for a level-six freestyle marathon. Scrum delivers a concise Neuralink report on human mouse control via brain implant. Trent joins for At the Movies covering Avatar live-action, a dark web horror concept, Borderlands, and the Rocco Siffredi biopic Super Sex. Peter Gibbon hosts Use the Internet from the crawlspace with viral clips ranging from the Jordan-Pippin engagement to 9/11-era commercials. Munch & Crum debate soup versus sex — soup wins narrowly — while Crum closes to a nine-point deficit on the scoreboard. Cookie Monster interrupts to accuse Munch of eating fifty Girl Scout cookies. Chet closes the broadcast by recording an AI-generated 'Macho Macho Chet' theme song in one take, cementing his six-son dad canon.",
+  "_meta": {
+    "vod_id": "b8Z_7MPVXng",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 87811,
+    "approx_prompt_tokens": 21952,
+    "transcript_lines": 197
+  }
+}

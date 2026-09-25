@@ -50,7 +50,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (30)</summary>
+<summary>Earlier appearances (31)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -63,6 +63,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
 | [[episodes/2024-07-20|2024-07-20]] | Wins wiki feet, wife verification, sweet vs salty, Alien vs Predator, carnivore diet, Spike vs Luffy, Shaggy vs Jedi Shaggy, Country… |
+| [[episodes/2024-02-20|2024-02-20]] | debate analyst. |
 | [[episodes/2024-02-15|2024-02-15]] | debate analyst. |
 | [[episodes/2024-02-09|2024-02-09]] | Debate analyst; claims immortal wizard origin from ancient Assyria, loses 'up vs. down' debate to Come, delivers profane post-loss meltdown. |
 | [[episodes/2024-02-07|2024-02-07]] | debate analyst. |
@@ -135,3 +136,4 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[[55:31]]** ([[episodes/2024-01-12|2024-01-12]]): Claims to have trained for debate; dances with 'sensuality and emotion' when provoked.
 - **[1:26:51]** ([[episodes/2024-02-09|2024-02-09]]): Wins 'Has science gone too far?' poll 70/30; scoreboard updated, Munch nearing exit from teens [1:26:51].
 - **[1:15:16]** ([[episodes/2024-02-15|2024-02-15]]): Ate Raising Cane's for breakfast, lunch, and dinner six days in a row.
+- **[1:30:00]** ([[episodes/2024-02-20|2024-02-20]]): Ate Kendall's Girl Scout cookies (Thin Mints/sleeve) over two weeks; confronted by Cookie Monster for ~50 cookies consumed.
