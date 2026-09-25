@@ -42,6 +42,7 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 | [[episodes/2025-06-11|2025-06-11]] | field correspondent. |
 | [[episodes/2025-06-02|2025-06-02]] | field correspondent. |
 | [[episodes/2024-07-20|2024-07-20]] | Rapid-fire street debates from park bushes, settles all via coin flip, loses majority, refuses to leave streets, interacts with bread man,… |
+| [[episodes/2024-02-29|2024-02-29]] | field correspondent. |
 | [[episodes/2024-02-16|2024-02-16]] | field correspondent. |
 | [[episodes/2024-02-15|2024-02-15]] | field correspondent. |
 | [[episodes/2024-02-09|2024-02-09]] | Fields correspondent broadcasting from park bushes; street interviews derailed by a shape-shifting baby drinking his mic juice and tech… |
@@ -52,7 +53,15 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 | [[episodes/2024-01-05|2024-01-05]] | field correspondent. |
 | [[episodes/2023-12-31|2023-12-31]] | field correspondent. |
 | [[episodes/2023-12-16|2023-12-16]] | field correspondent. |
+
+<details>
+<summary>Earlier appearances (1)</summary>
+
+| Episode | Notes |
+|---|---|
 | [[episodes/2023-12-12|2023-12-12]] | field correspondent. |
+
+</details>
 
 ## Notable moments
 
@@ -65,3 +74,4 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 - **[01:53:15]** ([[episodes/2025-06-28|2025-06-28]]): [01:53:15] Implemented 10-minute cooldown on !trip command per person.
 - **[]** ([[episodes/2024-01-05|2024-01-05]]): Coined the genre 'trip hop' for his street rap segments. [1:45:47]
 - **[]** ([[episodes/2024-01-13|2024-01-13]]): Has a memorial wig that Case wears to feel invested during Trip segments [2:20:19].
+- **[01:44:31]** ([[episodes/2024-02-29|2024-02-29]]): [01:44:31] Confirms permanent park residence: 'I'll be lapping pond water and scraping food out of the trash.'

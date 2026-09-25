@@ -77,3 +77,4 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 - **[34:53]** ([[episodes/2026-09-01|2026-09-01]]): Jeff Ripple (transcribed by ASR as 'Ben Hooper') delivers an 'odds and ends' news segment covering the floating BC island, bat-mouth Virginia doctor, Tarzana coyote-vs-bear, and David Rush's water-balloon record. Case cheers his 'first internal segment.'
 - **[[13:57]]** ([[episodes/2023-12-02|2023-12-02]]): Has a 'hot Filipino son' ornament made by Kendelle; referenced during Young Thug coverage.
 - **[]** ([[episodes/2024-01-13|2024-01-13]]): Took a second holiday break after already returning once [29:14].
+- **[00:58:23]** ([[episodes/2024-02-29|2024-02-29]]): [00:58:23] Receives AI-generated Madonna 'Express Yourself' parody theme song ('Jeff Express Yourself').

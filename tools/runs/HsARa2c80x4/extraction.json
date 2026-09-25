@@ -1,0 +1,204 @@
+{
+  "segments": [
+    {
+      "start": "14:19",
+      "end": "15:42",
+      "canonical_segment": "News",
+      "title": "Cold Open & Pepito Check-In",
+      "notes": "Case Blackwell opens broadcast from anchor desk; Pepito confirms CBD treat has him 'chilled out for fucking weeks' and 'liberated and unbound.'"
+    },
+    {
+      "start": "15:42",
+      "end": "33:30",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Metaphysical Freestyle",
+      "notes": "Hype Train materializes, delivers surreal freestyle about dying when leaving chat's 'back,' hell pentagon of power, father Bertil, and selling coke with 'girl in the city'; exits hard into jazz mode."
+    },
+    {
+      "start": "33:30",
+      "end": "01:03:03",
+      "canonical_segment": "News",
+      "title": "Jeff Ripple K-Pop Poop Investigation & Theme Song",
+      "notes": "Jeff Ripple joins desk; covers viral Hanteo Music Awards pants-pooping incident with idol reactions, alleged premeditation, and laundry fee offer; Case generates Madonna 'Express Yourself' parody theme for Jeff via ChatGPT."
+    },
+    {
+      "start": "01:03:03",
+      "end": "01:22:36",
+      "canonical_segment": "News",
+      "title": "Putin Nuclear Threat & Political Officer Reinstatement",
+      "notes": "Case and Liliana discuss Putin's explicit nuclear warning to West over Ukraine troop deployment, hypersonic arsenal claims, Hitler/Napoleon historical references, and reinstatement of political officers in Russian departments."
+    },
+    {
+      "start": "01:22:36",
+      "end": "01:45:08",
+      "canonical_segment": "Trip on the Street",
+      "title": "Park Interviews: Mancini, Meth Lab Aspirant, Shrek AI Disaster",
+      "notes": "Trip Bradstein intercepts former producer Mancini (now 'hog dog' salesman), a Scottish meth-lab aspirant demanding penis-eating meth deals, and an 'excellent gamer' whose AI-generated Shrek walkthrough burned parents."
+    },
+    {
+      "start": "01:45:08",
+      "end": "01:51:24",
+      "canonical_segment": "News",
+      "title": "Pepito Bit Consumption & Apple Car Cancellation",
+      "notes": "Pepito eats bits off floor claiming 'ground eater' culture; Case reads Apple's $10B electric car project cancellation."
+    },
+    {
+      "start": "01:51:24",
+      "end": "02:13:06",
+      "canonical_segment": "News",
+      "title": "Diddy Sexual Assault Lawsuits & Godzilla Soundtrack Context",
+      "notes": "Case plays Puff Daddy 'Come With Me' Godzilla music video before covering Rodney 'Lil Rod' Jones lawsuit alleging groping, drugging, bathroom shower harassment; Cassie Ventura settled suit referenced; Case struggles with fan-to-reality whiplash."
+    },
+    {
+      "start": "02:13:06",
+      "end": "02:39:05",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: News Volume, Rap Sketches, Beyblade Supremacy",
+      "notes": "Munch and Crum debate whether BIN should cover more news (poll: chat says yes), then rap sketches as highest music form; Crum invokes Beyblade song to break Munch's silence; Crum leads score 87-86."
+    },
+    {
+      "start": "02:39:05",
+      "end": "03:00:32",
+      "canonical_segment": "DJ Newsic",
+      "title": "Liliana Rammstein 'Du Hast' Parody Theme & Raid",
+      "notes": "Case generates Rammstein parody for Liliana referencing immortality, Kissinger/Munch/Crum dating history, German heritage; Liliana records on roof, closes stream raiding Ricky Peacock."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors full broadcast; wrangles Hype Train, generates AI theme songs for Jeff and Liliana, moderates Munch & Crum debate.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Confirms CBD treat liberation; consumes bits off floor as 'ground eater' culture; backs Case on butt-stink assessment.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Manifests for metaphysical freestyle about death/hell cycles, pentagon of power, and coke empire; exits into jazz then silence.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Delivers K-pop poop investigation with smooth news voice; receives AI-generated Madonna parody theme song.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Co-anchors Putin nuclear segment; claims immortality, Kissinger/Munch/Crum dating history, German heritage; records Rammstein parody theme.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Broadcasts from park bushes; interviews Mancini, meth aspirant, and Shrek AI creator; vows never to leave streets.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates Crum on news volume and rap sketches; broken by Beyblade song; score trails Crum 86-87.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates Munch; claims 'crumbelievable' win streak; leads score 87-86; invokes Beyblade dominance.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Mancini",
+      "role": "former producer",
+      "notes": "former producer. Appears in Trip segment; claims chat fired him, now sells 'hog dogs' door-to-door; warns Trip about Pepito.",
+      "canonical_name": "Mancini",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[02:37:20] Crum plays Beyblade Burst song to break Munch's silence; Munch admits Crum beat him at Beyblades previously; Crum claims Beyblade supremacy as 'wins that matter.'",
+      "timestamp": "02:37:20"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Liliana",
+      "fact": "[02:48:07] Claims immortality, having dated Henry Kissinger, Munch, and Crum; identifies as German ('Brefing Schmidt').",
+      "timestamp": "02:48:07",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeff Ripple",
+      "fact": "[00:58:23] Receives AI-generated Madonna 'Express Yourself' parody theme song ('Jeff Express Yourself').",
+      "timestamp": "00:58:23",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "[01:47:19] Eats bits off floor as 'ground eater' culture; claims bits put hair on chest.",
+      "timestamp": "01:47:19",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trip Bradstein",
+      "fact": "[01:44:31] Confirms permanent park residence: 'I'll be lapping pond water and scraping food out of the trash.'",
+      "timestamp": "01:44:31",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Mancini",
+      "fact": "[01:26:00] Former producer fired by chat (not Case); now door-to-door 'hog dog' salesman; warns Pepito eats 'tallywhacker' and 'hog.'",
+      "timestamp": "01:26:00",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "[02:35:33] Leads Munch & Crum score 87-86; claims Beyblade victories over Munch as factual regardless of memory.",
+      "timestamp": "02:35:33",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a marathon broadcast featuring Hype Train's metaphysical freestyle about hellish death cycles, Jeff Ripple's investigative deep-dive into a viral K-pop pants-pooping incident with an AI-generated theme song, and Liliana's analysis of Putin's explicit nuclear threats and Russian political officer reinstatements. Trip Bradstein reports from his park bush bunker interviewing fired producer Mancini and a Shrek AI disaster creator. The desk covers Diddy's mounting sexual assault lawsuits after playing his Godzilla soundtrack video, then Munch and Crum debate news volume and rap sketch artistic merit before Crum deploys the Beyblade anthem to shatter Munch's resolve. Liliana closes with a Rammstein 'Du Hast' parody theme referencing her claimed immortality and Kissinger/Munch/Crum romantic history, then raids Ricky Peacock.",
+  "_meta": {
+    "vod_id": "HsARa2c80x4",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 131579,
+    "approx_prompt_tokens": 32894,
+    "transcript_lines": 302
+  }
+}

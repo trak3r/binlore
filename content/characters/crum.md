@@ -58,7 +58,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (37)</summary>
+<summary>Earlier appearances (38)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -74,6 +74,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
 | [[episodes/2024-07-20|2024-07-20]] | Loses wiki feet, wins wife verification, sweet vs salty, Alien vs Predator, carnivore diet, gold vs porcelain teeth, orphan meat, spoon vs… |
+| [[episodes/2024-02-29|2024-02-29]] | debate analyst. |
 | [[episodes/2024-02-27|2024-02-27]] | debate analyst. |
 | [[episodes/2024-02-20|2024-02-20]] | debate analyst. |
 | [[episodes/2024-02-16|2024-02-16]] | debate analyst. |
@@ -195,3 +196,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[[47:51]]** ([[episodes/2024-01-19|2024-01-19]]): Befriends a 'black fellow in the catacombs' (shapeshifter player) who walks him toward exit before bees kill both [47:51].
 - **[16:26]** ([[episodes/2024-02-20|2024-02-20]]): Contracted for approximately monthly appearances, historically for 'dick stories' but assigned non-penis Neuralink story this episode.
 - **[1:37:39]** ([[episodes/2024-02-20|2024-02-20]]): Debate scoreboard deficit narrowed to 9 points — closest since early 10-point lead; Crum frames impending victory as Munch explosion event.
+- **[02:35:33]** ([[episodes/2024-02-29|2024-02-29]]): [02:35:33] Leads Munch & Crum score 87-86; claims Beyblade victories over Munch as factual regardless of memory.
