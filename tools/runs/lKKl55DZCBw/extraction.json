@@ -1,0 +1,102 @@
+{
+  "segments": [
+    {
+      "start": "00:28",
+      "end": "01:00",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Surge Opening",
+      "notes": "Twitch hype train activates during pre-show; Case declines full graphics but allows the train to serve as intro sequence."
+    },
+    {
+      "start": "01:00",
+      "end": "01:55:00",
+      "canonical_segment": "News",
+      "title": "Def Jam: Fight for New York Championship Bout",
+      "notes": "Case and co-host Fiona play through story mode as custom fighter 'K-Period', unlocking roster characters and defeating boss Trick after 20 attempts; commentary personas Chance the Rapper and Kid Rock provide post-fight rhymes."
+    },
+    {
+      "start": "01:55:00",
+      "end": "03:47:43",
+      "canonical_segment": "News",
+      "title": "Fallout 4: Glowing Sea Expedition",
+      "notes": "Case switches to Fallout 4, explores the Glowing Sea, clears Finch Farm raiders, investigates Vault 88, and murders Vault-Tec personnel while Kendelle joins mid-stream for skincare discourse and privacy talk."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors extended gaming broadcast, pilots Def Jam and Fallout 4 gameplay while managing chat interaction and co-host dynamics.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Fiona",
+      "role": "co-host",
+      "notes": "Co-hosts gaming session, assists with Def Jam controls research and Fallout navigation, departs before Fallout midpoint.",
+      "canonical_name": "Fiona",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Arrives mid-Fallout segment, discusses personal privacy boundaries and details Case's Korean skincare regimen on air.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case owns a functional PS2 and plays original discs legally on stream [01:00:00]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case created custom Def Jam fighter 'K-Period' (Cape Period) with martial arts style and tribal tattoo of Jesus carrying cross [00:28:00, 00:44:22]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Kendelle",
+      "fact": "Kendelle maintains strict separation between her workplace and the broadcast, refuses Twitter cross-posting [03:03:22]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Kendelle",
+      "fact": "Kendelle implemented a multi-step Korean skincare routine for Case including La Roche-Posay cleanser, Dr. Jart serum, caffeine eye cream, and Korean sunscreen [03:35:19]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case planned pirate costume for 'Unfair' event but missed order window [03:27:34]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Broadcast concludes with raid to Abelie at AT&T (Ovelie) [03:45:41]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell helms a marathon gaming broadcast opening with a hype train surge before diving into Def Jam: Fight for New York, where he and co-host Fiona craft a custom combatant and overcome the brutal boss Trick after two dozen attempts. The stream transitions to Fallout 4 for a Glowing Sea excursion featuring raider clearance at Finch Farm, Vault 88 infiltration, and indiscriminate Vault-Tec slaughter, interrupted by Kendelle's arrival for an extended on-air skincare consultation and workplace privacy discussion. The broadcast closes with a raid handoff to fellow streamer Abelie.",
+  "_meta": {
+    "vod_id": "lKKl55DZCBw",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 147091,
+    "approx_prompt_tokens": 36772,
+    "transcript_lines": 518
+  }
+}

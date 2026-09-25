@@ -54,13 +54,14 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
 | [[episodes/2024-07-20|2024-07-20]] | Appears on couch cam, sleeps through friend visit, debates smut vs no smut (concedes), wins fursona poll, declines boba after stream runs… |
-| [[episodes/2024-05-03|2024-05-03]] | in-studio contributor. |
+| [[episodes/2024-05-09|2024-05-09]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (45)</summary>
+<summary>Earlier appearances (46)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-05-03|2024-05-03]] | in-studio contributor. |
 | [[episodes/2024-04-29|2024-04-29]] | in-studio contributor. |
 | [[episodes/2024-04-24|2024-04-24]] | in-studio contributor. |
 | [[episodes/2024-04-23|2024-04-23]] | in-studio contributor. |
@@ -144,3 +145,5 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[]** ([[episodes/2024-03-29|2024-03-29]]): Kendelle holds CIA clearance for studio access and generates revenue via kinetic movement. [1:25:16]
 - **[[33:11]]** ([[episodes/2024-04-23|2024-04-23]]): Survived two near-fatal LA traffic incidents in one commute: first a lane-swerve into adjacent traffic, second a van turning left then crossing straight into her lane.
 - **[1:46:34]** ([[episodes/2024-04-29|2024-04-29]]): Launching Milf Manor season 2 community watch podcast on Pixel Circus discord with Sage Ryan [1:46:34].
+- **[]** ([[episodes/2024-05-09|2024-05-09]]): Kendelle maintains strict separation between her workplace and the broadcast, refuses Twitter cross-posting [03:03:22]
+- **[]** ([[episodes/2024-05-09|2024-05-09]]): Kendelle implemented a multi-step Korean skincare routine for Case including La Roche-Posay cleanser, Dr. Jart serum, caffeine eye cream, and Korean sunscreen [03:35:19]
