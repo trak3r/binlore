@@ -50,18 +50,19 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2025-06-17|2025-06-17]] | News Stowaway. |
 | [[episodes/2025-06-11|2025-06-11]] | news stowaway. |
 | [[episodes/2024-07-20|2024-07-20]] | Emerges from walls for Amongst the Web, rates videos civilly, shares catchphrase 'take that to the bank and smoke it', returns to walls on… |
+| [[episodes/2024-05-03|2024-05-03]] | news stowaway. |
 | [[episodes/2024-05-01|2024-05-01]] | news stowaway. |
 | [[episodes/2024-04-25|2024-04-25]] | news stowaway. |
 | [[episodes/2024-04-17|2024-04-17]] | news stowaway. |
 | [[episodes/2024-04-04|2024-04-04]] | news stowaway. |
 | [[episodes/2024-03-28|2024-03-28]] | news stowaway. |
-| [[episodes/2024-03-27|2024-03-27]] | news stowaway. |
 
 <details>
-<summary>Earlier appearances (14)</summary>
+<summary>Earlier appearances (15)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-03-27|2024-03-27]] | news stowaway. |
 | [[episodes/2024-03-21|2024-03-21]] | news stowaway. |
 | [[episodes/2024-03-18|2024-03-18]] | news stowaway. |
 | [[episodes/2024-03-01|2024-03-01]] | news stowaway. |

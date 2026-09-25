@@ -51,6 +51,7 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 | [[../episodes/2024-03-18|2024-03-18]] [1:01:21] | [1:01:21] Munch references Beyblade Tournament momentum: 'Like a Beyblade, that top can only spend for so long. And now I'm topping you.' |
 | [[../episodes/2024-03-26|2024-03-26]] [49:14] | [49:14] Chat Beyblade activity signals Science Eyes debut tomorrow; tournament pledge remains pending. |
 | [[../episodes/2024-04-03|2024-04-03]] [02:16:02] | [02:16:02] Case invokes Beyblade Burst as a mental focus technique during the pirate shooting gallery grind; [02:20:20] Sub goal reached — 'Beyblade Blurp' celebrated on air. |
+| [[../episodes/2024-05-03|2024-05-03]] [02:20:52] | [02:20:52] Def Jam: Fight for NY community goal crushed; underground tournament planned for next week with PCSX2 setup. |
 | [[../episodes/2025-05-30|2025-05-30]] [39:25] | Munch references past Beyblade episodes during debate count banter. [39:25] |
 | [[../episodes/2025-06-02|2025-06-02]] [31:49] | [31:49] Case references pending Beyblade event possibly still 'inside the Papal Binclave'; no further advancement this episode. |
 | [[../episodes/2025-06-17|2025-06-17]] | [2025-06-17] Referenced as pending community-pledge event; no progress shown this episode. |

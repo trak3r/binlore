@@ -1,0 +1,142 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Fallout 4: Chet's Irradiated Rampage",
+      "start": "03:29",
+      "end": "02:26:27",
+      "notes": "Case Blackwell roleplays as Chet Manscape in a Fallout 4 melee build playthrough; Snap Camera presets lost; Hype Train triggers from 20 gifted subs; Kendelle appears on camera and takes controls; Def Jam: Fight for NY tournament announced for next week."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "anchor. Hosts Fallout 4 gameplay stream as Chet Manscape; manages technical issues and Hype Train overlay; announces Def Jam tournament.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Persona adopted by Case for Fallout 4 melee run; high intelligence/strength build; 'possessed' by Hype Train during sub surge.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "neural co-host",
+      "notes": "neural co-host. Referenced as still active despite Snap Camera reset; provides off-screen commentary.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Makes secret pre-stream appearance; later appears on camera (encrypted/blurred) and takes controls for a kill.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Triggered by 20 gifted subs; 'possesses' Chet's body for freestyle rap segment; Case forgot to open alert window.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Referenced as station authority; not heard live this broadcast.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Referenced via 'who's in the wall' chat callback; not seen on screen.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[02:20:52] Def Jam: Fight for NY community goal crushed; underground tournament planned for next week with PCSX2 setup.",
+      "timestamp": "02:20:52"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Snap Camera reset erased all presets; library must be rebuilt from scratch.",
+      "timestamp": "[05:01]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Kendelle makes secret appearance in pre-stream footage.",
+      "timestamp": "[07:18]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Radion V gifts 20 tier-1 subs, triggering Hype Train.",
+      "timestamp": "[24:06]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case created Hype Train graphic but forgot to open the alert window.",
+      "timestamp": "[25:31]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Hype Train 'possesses' Chet's body during gameplay freestyle.",
+      "timestamp": "[30:30]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Chat references Peter Gibbon in the wall: 'What's in the wall? Who's in the wall?'",
+      "timestamp": "[01:27:13]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Kendelle appears on camera (encrypted/auto-blurred) and scores a kill.",
+      "timestamp": "[01:28:47]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case experimenting with Twitch-responsive graphic integrations for potential D&D stream.",
+      "timestamp": "[02:26:03]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell broadcasts a Fallout 4 session roleplaying as Chet Manscape, overcoming a Snap Camera preset loss and a surprise Hype Train triggered by 20 gifted subs. Kendelle appears on camera for a brief gameplay takeover. The stream closes with the Def Jam: Fight for NY community goal met and an underground tournament announced for next week, followed by a raid on Pixel Circus.",
+  "_meta": {
+    "vod_id": "aycH2A_URvI",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 103141,
+    "approx_prompt_tokens": 25785,
+    "transcript_lines": 355
+  }
+}
