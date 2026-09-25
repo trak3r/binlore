@@ -61,7 +61,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (36)</summary>
+<summary>Earlier appearances (37)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -72,6 +72,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
 | [[episodes/2025-06-02|2025-06-02]] | executive producer. |
+| [[episodes/2024-04-29|2024-04-29]] | executive producer. |
 | [[episodes/2024-04-20|2024-04-20]] | executive producer. |
 | [[episodes/2024-04-16|2024-04-16]] | Served as executive producer, declared his own birthday as 'April Day,' and performed the ChatGPT-generated theme song 'Living Pepito Loco.' |
 | [[episodes/2024-04-04|2024-04-04]] | executive producer. |
@@ -163,3 +164,5 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[]** ([[episodes/2024-03-21|2024-03-21]]): Pepito claims perfect memory of every person who has appeared on stream. [1:20:30]
 - **[]** ([[episodes/2024-03-29|2024-03-29]]): Pepito operates as Agent Papito for remote field takeovers, piloting canine avatars with butt-smell and laser-pointer protocols. [1:41:19]
 - **[[24:03]]** ([[episodes/2024-04-04|2024-04-04]]): Claims ability to move through portals; defended Windows 11 upgrade.
+- **[03:26]** ([[episodes/2024-04-29|2024-04-29]]): Ate black moldy yogurt from under a chair and claims it tasted great [03:26].
+- **[47:31]** ([[episodes/2024-04-29|2024-04-29]]): Claims genetic composition: 50% Chihuahua, 20% Labradoodle, 50% Viking [47:31].

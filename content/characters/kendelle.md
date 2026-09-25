@@ -54,13 +54,14 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
 | [[episodes/2024-07-20|2024-07-20]] | Appears on couch cam, sleeps through friend visit, debates smut vs no smut (concedes), wins fursona poll, declines boba after stream runs… |
-| [[episodes/2024-04-24|2024-04-24]] | in-studio contributor. |
+| [[episodes/2024-04-29|2024-04-29]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (43)</summary>
+<summary>Earlier appearances (44)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-04-24|2024-04-24]] | in-studio contributor. |
 | [[episodes/2024-04-23|2024-04-23]] | in-studio contributor. |
 | [[episodes/2024-04-20|2024-04-20]] | in-studio contributor. |
 | [[episodes/2024-04-19|2024-04-19]] | in-studio contributor. |
@@ -141,3 +142,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[40:35]** ([[episodes/2024-03-18|2024-03-18]]): Kendelle confirms she has a copper coil IUD.
 - **[]** ([[episodes/2024-03-29|2024-03-29]]): Kendelle holds CIA clearance for studio access and generates revenue via kinetic movement. [1:25:16]
 - **[[33:11]]** ([[episodes/2024-04-23|2024-04-23]]): Survived two near-fatal LA traffic incidents in one commute: first a lane-swerve into adjacent traffic, second a van turning left then crossing straight into her lane.
+- **[1:46:34]** ([[episodes/2024-04-29|2024-04-29]]): Launching Milf Manor season 2 community watch podcast on Pixel Circus discord with Sage Ryan [1:46:34].

@@ -116,3 +116,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[01:07:56]** ([[episodes/2024-04-13|2024-04-13]]): Mouse hardware failure noted during gameplay, affecting aim precision [01:07:56].
 - **[[10:32]]** ([[episodes/2024-04-17|2024-04-17]]): Claims third divorce in progress during Rick Triple segment.
 - **[1:15:48]** ([[episodes/2024-04-25|2024-04-25]]): Performed neutral face experiment for chat and ChatGPT to test AI political prediction study (r=0.22) [1:15:48].
+- **[1:12:20]** ([[episodes/2024-04-29|2024-04-29]]): Accidentally loaded two Joe Biden avatars simultaneously during town hall [1:12:20].

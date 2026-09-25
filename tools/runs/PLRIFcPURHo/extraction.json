@@ -1,0 +1,229 @@
+{
+  "segments": [
+    {
+      "start": "00:56",
+      "end": "04:41",
+      "canonical_segment": "News",
+      "title": "Post-Wonka Studio Return",
+      "notes": "Case returns from LA Wonka experience; Pepito ate moldy yogurt under a chair and claims Viking heritage."
+    },
+    {
+      "start": "04:41",
+      "end": "09:32",
+      "canonical_segment": "News",
+      "title": "Seinfeld Comedy Death Discourse",
+      "notes": "Case and Crum discuss Jerry Seinfeld's claim that comedy is dead due to PC culture; Crum agrees, Case stays agnostic."
+    },
+    {
+      "start": "09:32",
+      "end": "15:55",
+      "canonical_segment": "Hype Train",
+      "title": "Hobbit-Themed Hype Train Derailment",
+      "notes": "Hype Train delivers a freestyle Hobbit rap over trap beats; leaves 'hype radiation residue' that distorts Case's avatar."
+    },
+    {
+      "start": "15:55",
+      "end": "18:43",
+      "canonical_segment": "News",
+      "title": "Hype Radiation Aftermath",
+      "notes": "Case's avatar glitches and grows huge from residual hype radiation; Crum refuses to continue Seinfeld discussion."
+    },
+    {
+      "start": "18:43",
+      "end": "28:24",
+      "canonical_segment": "News",
+      "title": "Kendelle Walk-Through: Wonka Debrief",
+      "notes": "Kendelle enters with theme music; discusses editing walk experience video, VTuber Studio download, and Glasgow vs LA Wonka event origins."
+    },
+    {
+      "start": "28:24",
+      "end": "34:08",
+      "canonical_segment": "News",
+      "title": "Seinfeld Wrap-Up & Fake History",
+      "notes": "Crum invents 1922 comedy death via T.B. Raghamuffin farting; Case calls Seinfeld a curmudgeon shifting to Pop-Tart movies."
+    },
+    {
+      "start": "34:08",
+      "end": "45:36",
+      "canonical_segment": "Munch & Crum",
+      "title": "Seinfeld vs Larry David Debate",
+      "notes": "Munch argues Larry David is the true creative force; Crum defends Seinfeld's franchise legacy; Munch reveals 'rock party' fundamentalism."
+    },
+    {
+      "start": "45:36",
+      "end": "47:52",
+      "canonical_segment": "News",
+      "title": "Post-Debate Studio Chaos",
+      "notes": "Pepito eats lock picks, claims 50% Chihuahua/20% Labradoodle/50% Viking; Case announces Biden town hall."
+    },
+    {
+      "start": "47:52",
+      "end": "1:12:20",
+      "canonical_segment": "News",
+      "title": "Biden Town Hall: Double Biden Glitch",
+      "notes": "Case accidentally loads two Joe Biden avatars; field questions on soup, aspics, corn husk condoms, penny-based sex economy, swallowed coins, and Trans Am."
+    },
+    {
+      "start": "1:12:20",
+      "end": "1:28:21",
+      "canonical_segment": "News",
+      "title": "Porn Solves Music Mystery: Everyone Knows That",
+      "notes": "Jeff Ripple reports on 'Everyone Knows That' identified in 1986 adult film Angels of Passion; plays full track with moaning backing vocals."
+    },
+    {
+      "start": "1:28:21",
+      "end": "1:34:40",
+      "canonical_segment": "News",
+      "title": "Sub Goal & Kendall Departure",
+      "notes": "Chat proposes suit-and-pool photo shoot sub goal; Kendall leaves for Milf Manor podcast on Pixel Circus discord."
+    },
+    {
+      "start": "1:34:40",
+      "end": "1:44:33",
+      "canonical_segment": "Therapy",
+      "title": "Couples Therapy with Dr. Chath",
+      "notes": "Dr. Chath and co-therapist conduct 2v2 basketball metaphor session; Kendall would sell Case for half a Disney ticket and a regenerated worm."
+    },
+    {
+      "start": "1:48:01",
+      "end": "2:06:23",
+      "canonical_segment": "News",
+      "title": "Trent at the Movies: Trailers & Face/Off 2",
+      "notes": "Trent watches Goat Simulator 3, Mufasa (Lin-Manuel Miranda songs), Cash Out (Travolta), Alien: Rogue Incursor; reports Face/Off 2 in development."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors chaotic return broadcast; manages Seinfeld discourse, double Biden glitch, couples therapy, and Trent handoff.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Ate moldy yogurt under chair; claims 50% Chihuahua/20% Labradoodle/50% Viking; eats lock picks to pick locks.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues comedy died in 1922; defends Seinfeld franchise legacy against Munch; avatar glitches from hype radiation.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Delivers Hobbit-themed trap freestyle; leaves radiation residue that distorts Case's avatar and studio physics.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walks through with theme music; discusses Wonka video editing; attends couples therapy; leaves for Milf Manor podcast.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Champions Larry David as true creative force; declares 'rock party' fundamentalism; complains about missing fireworks.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Reports on 'Everyone Knows That' mystery solved via 1986 porn; plays full track; makes dysentery photo-eating joke.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Chath",
+      "role": "therapist",
+      "notes": "Conducts couples therapy with silent co-therapist; uses 2v2 basketball metaphor; charges $400.",
+      "canonical_name": "Dr. Chath",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "correspondent",
+      "notes": "correspondent. Hosts movie trailer segment; hates coats; wants sleeveless shirts; excited for Goat Simulator 3 capybara crossover and Face/Off 2.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Referenced via celebration song trigger; Case avoids saying 'science' to prevent Chet commandeering broadcast.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Ate black moldy yogurt from under a chair and claims it tasted great [03:26].",
+      "timestamp": "03:26",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Claims genetic composition: 50% Chihuahua, 20% Labradoodle, 50% Viking [47:31].",
+      "timestamp": "47:31",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Accidentally loaded two Joe Biden avatars simultaneously during town hall [1:12:20].",
+      "timestamp": "1:12:20",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Launching Milf Manor season 2 community watch podcast on Pixel Circus discord with Sage Ryan [1:46:34].",
+      "timestamp": "1:46:34",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Face/Off franchise",
+      "fact": "Face/Off 2 confirmed in development with new director per Screen Rant [2:03:21].",
+      "timestamp": "2:03:21",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a disjointed post-Wonka broadcast featuring a Seinfeld discourse derailed by a Hobbit-themed Hype Train, a glitched Biden town hall where two presidential avatars were loaded simultaneously, Jeff Ripple's report on the 'Everyone Knows That' music mystery solved via 1986 adult film, couples therapy revealing Kendall would sell Case for half a Disney ticket and a regenerated worm, and Trent at the Movies covering Goat Simulator 3, Mufasa, and Face/Off 2 confirmation.",
+  "_meta": {
+    "vod_id": "PLRIFcPURHo",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 103882,
+    "approx_prompt_tokens": 25970,
+    "transcript_lines": 291
+  }
+}
