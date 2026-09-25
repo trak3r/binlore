@@ -1,0 +1,49 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "06:28",
+      "canonical_segment": "News",
+      "title": "Willy's Chocolate Experience LA Email & Vault Overseer Sign-On",
+      "notes": "Case reads a surreal email from House of Illuminati LA about a Willy Wonka-themed warehouse event, then transitions into Fallout 4 roleplay as Overseer Blackwell."
+    },
+    {
+      "start": "06:28",
+      "end": "02:52:53",
+      "canonical_segment": "News",
+      "title": "Fallout 4 Wasteland Expedition: Trinity Tower to Saugus Ironworks",
+      "notes": "Case roleplays as Chet Manscape navigating the Commonwealth, completing Minutemen quests, acquiring the Searing Shish Kebab flaming sword, and liberating Breakheart Banks for a ghoul settlement while managing an irradiated dog companion."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors the broadcast as Overseer Blackwell, roleplaying a Fallout 4 playthrough as science-axe wielder Chet Manscape while reading viewer mail and managing chat.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Briefly appears on mic to announce she is returning to bed and work, prompting Case to hide her from the stream.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [],
+  "episode_summary": "Overseer Blackwell inaugurates a vault-dweller side hustle by reading a chaotic Willy's Chocolate Experience email before embarking on a marathon Fallout 4 session as axe-specialist Chet Manscape. The expedition clears Trinity Tower, recovers a family heirloom flaming sword from the Forged at Saugus Ironworks, and secures Breakheart Banks for a ghoul settlement, all while managing an irradiated dog companion and a chat-driven sub goal for Hype Train.",
+  "_meta": {
+    "vod_id": "QLZ92dLvCM8",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 116147,
+    "approx_prompt_tokens": 29036,
+    "transcript_lines": 372
+  }
+}
