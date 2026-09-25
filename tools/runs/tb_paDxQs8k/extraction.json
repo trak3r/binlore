@@ -1,0 +1,150 @@
+{
+  "segments": [
+    {
+      "start": "00:56",
+      "end": "12:55",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Cold Open & Freestyle Derailment",
+      "notes": "Pepito delivers station sign-on; Hype Train commandeers feed for high-tempo freestyle rap about mortality, chain-buying, and 'jizz' jazz genre before collapsing back to hell."
+    },
+    {
+      "start": "12:55",
+      "end": "31:48",
+      "canonical_segment": "News",
+      "title": "Diddy Raids: Sex Trafficking Investigation Breaks",
+      "notes": "Case covers Homeland Security raids on Combs' LA and Miami homes, Cassie Ventura settlement, and multiple civil suits; Case admits former fandom revoked."
+    },
+    {
+      "start": "37:27",
+      "end": "48:40",
+      "canonical_segment": "Munch & Crum",
+      "title": "Bridges vs Boats (Both Transformers)",
+      "notes": "Munch argues bridge transformer is superior hard counter to boats; Crum champions boat mobility and uncle-hosted get-togethers. Munch wins 50/50 chat vote, extends lead to four debates."
+    },
+    {
+      "start": "48:40",
+      "end": "52:28",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Science Eyes Studio Build & Blood Facial Tease",
+      "notes": "Case announces Chet Guy studio nearly complete; Beyblade chat activity signals tomorrow's Science Eyes; blood facial story queued from Discord."
+    },
+    {
+      "start": "52:28",
+      "end": "1:05:43",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Ramon Salazar Explains Vampire Facials / PRP",
+      "notes": "Salazar details micro-needling with platelet-rich plasma, mocks Kim Kardashian's viral selfie, claims decades of 'ethical' blood-sourcing via murder, references Diddy's Proactiv ads."
+    },
+    {
+      "start": "1:06:19",
+      "end": "1:22:47",
+      "canonical_segment": "DJ Newsic",
+      "title": "Roof Session: Crum Theme Song 'I'm Scrummin'",
+      "notes": "Poll selects MVP entrance music instrumental; Crum records reluctant raw vocal over 'I'm Scrummin'' lyrics, hates music but refuses to let it win."
+    },
+    {
+      "start": "1:22:47",
+      "end": "1:26:08",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid",
+      "notes": "Case freestyles Rocket Man parody over trap beat, rhymes chatters' names with 'cat', raids out."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered top-of-hour station sign-on and countdown.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Commandeered cold open with freestyle rap about mortality, chains, and 'jizz' jazz before expiring.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued boat transformer superiority citing uncle boat parties; lost debate, four losses from Crum Dick Punch threshold.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued bridge transformer hard-counters boats; won 50/50 vote, leads debate score by four.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Ramon Salazar",
+      "role": "call-in guest",
+      "notes": "call-in guest. Explained vampire facials/PRP, claimed decades of blood-bathing via murder, mocked Kardashian selfie, referenced Diddy Proactiv ads.",
+      "canonical_name": "Ramon Salazar",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "musical producer",
+      "notes": "musical producer. Produced Crum's 'I'm Scrummin'' theme on roof using MVP entrance music instrumental.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[45:11] Munch leads debate score by four; Crum four losses from pneumatic groin strike forfeit.",
+      "timestamp": "45:11"
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[49:14] Chat Beyblade activity signals Science Eyes debut tomorrow; tournament pledge remains pending.",
+      "timestamp": "49:14"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "[49:14] New Chet Guy the Science Eyes studio construction nearly complete; debut expected next broadcast.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "[1:06:19] Received first official theme song 'I'm Scrummin'' produced by DJ Newsic on MVP entrance music instrumental.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Ramon Salazar",
+      "fact": "[56:51] Claims decades of 'ethical' vampire facials via murdering villagers and bathing in their blood; [1:03:32] claims past association with Dracula.",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell covers the Homeland Security raids on Sean 'Diddy' Combs' properties amid sex trafficking allegations, then oversees a Munch & Crum debate where Munch extends his lead to four wins arguing bridge transformers hard-counter boat transformers. Ramon Salazar appears to explain vampire facials while claiming centuries of blood-bathing via murder, and the broadcast closes with DJ Newsic producing Crum's debut theme song 'I'm Scrummin'' on the roof before a raid-out.",
+  "_meta": {
+    "vod_id": "tb_paDxQs8k",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 81377,
+    "approx_prompt_tokens": 20344,
+    "transcript_lines": 156
+  }
+}
