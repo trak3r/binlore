@@ -61,7 +61,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (40)</summary>
+<summary>Earlier appearances (49)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -72,6 +72,15 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
 | [[episodes/2025-06-02|2025-06-02]] | executive producer. |
+| [[episodes/2024-06-13|2024-06-13]] | executive producer. |
+| [[episodes/2024-06-10|2024-06-10]] | executive producer. |
+| [[episodes/2024-06-05|2024-06-05]] | executive producer. |
+| [[episodes/2024-05-31|2024-05-31]] | Executive producer subjected to automated cheese delivery system triggered by 50-bit donations, reaching 68 cheeses by sign-off. |
+| [[episodes/2024-05-30|2024-05-30]] | executive producer. |
+| [[episodes/2024-05-28|2024-05-28]] | executive producer. |
+| [[episodes/2024-05-21|2024-05-21]] | executive producer. |
+| [[episodes/2024-05-15|2024-05-15]] | executive producer. |
+| [[episodes/2024-05-10|2024-05-10]] | executive producer. |
 | [[episodes/2024-05-03|2024-05-03]] | executive producer. |
 | [[episodes/2024-05-02|2024-05-02]] | executive producer. |
 | [[episodes/2024-05-01|2024-05-01]] | executive producer. |
@@ -177,3 +186,9 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[[1:45:24]]** ([[episodes/2024-05-02|2024-05-02]]): Identifies the 'doid' as the canine equivalent of the Noid.
 - **[[1:49:32]]** ([[episodes/2024-05-02|2024-05-02]]): Spent time inside Richard Gere with 50 others listening to a Beatles cover band.
 - **[[1:50:14]]** ([[episodes/2024-05-02|2024-05-02]]): States he is boneless and 'raised GMO'.
+- **[]** ([[episodes/2024-05-10|2024-05-10]]): Claims to have squeezed through sewage system into movie theater toilet to watch Look Who's Talking. [01:44:58]
+- **[]** ([[episodes/2024-05-15|2024-05-15]]): [115:06] Confirms he is the sole producer; admits eating lit cigarettes; weed sends him into deep depression.
+- **[[1:38:03]]** ([[episodes/2024-05-21|2024-05-21]]): Formally declines human resources duties, stating 'I'm a dog. I don't do that' and proposing 'DR' (Dog Resources) instead.
+- **[]** ([[episodes/2024-05-28|2024-05-28]]): Pepito cheese feeding costs 100 bits per cheese [01:09:59]
+- **[07:22]** ([[episodes/2024-06-05|2024-06-05]]): Cheese cannon repaired to shoot cheese directly into Pepito's face [07:22].
+- **[[01:27:22]]** ([[episodes/2024-06-10|2024-06-10]]): Ate spilled chemicals from bathroom floor; tasted good but would not stay down.

@@ -1,0 +1,155 @@
+{
+  "segments": [
+    {
+      "start": "00:02",
+      "end": "38:06",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Inaugurates Permanent Cheese Delivery System for Pepito",
+      "notes": "Hype Train commandeers broadcast for 38 minutes; 50-bit donations trigger cheese feed for Pepito (up to six cheeses); patriotic beats celebrate Trump felony verdict; Pepito reaches 68 cheeses by segment end."
+    },
+    {
+      "start": "38:06",
+      "end": "1:09:50",
+      "canonical_segment": "News",
+      "title": "Trump Felony Verdict Rally Coverage and Biden Counter-Programming",
+      "notes": "Jeff Ripple co-anchors; Trump rally clips analyzed for vigor and rambling; Biden 'lie-off' hypothetical debated; Kendall walk-through; Trump helicopter sadness photo examined."
+    },
+    {
+      "start": "1:09:50",
+      "end": "2:03:51",
+      "canonical_segment": "How To with Jeb",
+      "title": "Jeb Inducted into Brotherhood of the Racks via Prison Energy Drink",
+      "notes": "Jeb prepares Gypsy Rose's 'racks' recipe with substitutions (popsicle, Emergen-C, extra coffee); Kendall assists with bottle opener and Jolly Rancher crushing; macarena tutorial attempted; 1950s tuna rare bit and underwear-sniffing side hustle videos reviewed; Jeb kitchen stream sub goal set at 24."
+    },
+    {
+      "start": "2:03:51",
+      "end": "2:42:32",
+      "canonical_segment": "Amongst the Web",
+      "title": "Tyler Debuts 'Tyler Ritaville' Margaritaville Parody After Viral Video Review",
+      "notes": "Tyler hosts; videos include elder movement session, Paris butt magic trick, vocal performer, Trump 'we're white' clip, Bad Boys monkey ad, squirrel affection, Mark Wahlberg AIDS/Calvin Klein PSA; flash poll yields tie; AI-generated song performed with gorilla accompaniment."
+    },
+    {
+      "start": "2:42:32",
+      "end": "3:03:14",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Dual Rogans Debate Tooth Fairy Commerce While Jamie Suffers Scrub Encapsulation",
+      "notes": "Case performs both Joes; Jamie buried in layered medical scrubs; Trump felony framed as 'adult relationships'; Copy Barra proposed as elk substitute; Tooth Fairy deemed 'realest' via dental commodity arbitrage; Vulcan rituals proposed for presidential selection."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors flagship broadcast while managing Hype Train derailment, Jeb's rack-induced gastric distress, and dual-Rogan impression finale.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "Executive producer subjected to automated cheese delivery system triggered by 50-bit donations, reaching 68 cheeses by sign-off.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train host",
+      "notes": "hype train host. Commandeers first 38 minutes with patriotic freestyle raps celebrating Trump felony verdict while demanding cheese restraint.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "co-anchor",
+      "notes": "Co-anchors Trump verdict coverage, debates Biden 'lie-off' viability, and signs off with cosmic reassurance.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "How To host",
+      "notes": "How To host. Prepares and consumes modified prison 'racks' energy drink, attempts macarena, reviews vintage sandwich and underwear-sniffing videos.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "ghost co-host",
+      "notes": "ghost co-host. Ghost-in-wood co-host encourages rack consumption and reminisces about 1970s palate evolution.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendall",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walks through studio to assist Jeb with bottle opener and Jolly Rancher crushing during rack preparation.",
+      "canonical_name": "Kendall",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Gorilla",
+      "role": "studio fixture",
+      "notes": "Piano-playing studio fixture learns Tyler Ritaville lyrics during sign-off.",
+      "canonical_name": "Gorilla",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Pepito cheese delivery system implemented: every 50 bits feeds cheese, up to six cheeses maximum.",
+      "timestamp": "[09:52]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Hype Train establishes permanent start-of-stream residency.",
+      "timestamp": "[13:22]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jeb kitchen stream sub goal established at 24 subscriptions.",
+      "timestamp": "[1:58:46]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Monday zoo show announced with Case, possibly Feel.",
+      "timestamp": "[3:02:44]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "The Jo Rogen Experience title graphic still reads 'The Joe Rogan Experience' despite segment rename.",
+      "timestamp": "[2:46:39]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News marks Trump's felony conviction with a 38-minute Hype Train cheese fiesta for Pepito before Jeff Ripple co-anchors rally clip analysis and a hypothetical Biden-Trump lie-off. Jeb Nogget survives a modified prison 'racks' energy drink and macarena attempt, Tyler debuts a Margaritaville parody about bananas and bills, and the dual Rogans crown the Tooth Fairy the 'realest' mythical figure via dental commodity arbitrage.",
+  "_meta": {
+    "vod_id": "3cgJ83uiRU4",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 135376,
+    "approx_prompt_tokens": 33844,
+    "transcript_lines": 354
+  }
+}

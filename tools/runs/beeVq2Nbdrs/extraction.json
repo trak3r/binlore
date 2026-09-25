@@ -1,0 +1,76 @@
+{
+  "segments": [
+    {
+      "start": "00:04",
+      "end": "01:32:34",
+      "canonical_segment": "News",
+      "title": "Elden Ring: The Collectining Continues",
+      "notes": "Anchor Case Blackwell hosts an extended Elden Ring gameplay session focused on item collection and build progression for the upcoming expansion, with executive producer Pepito delivering the cold open and in-studio contributor Kendelle making intermittent appearances."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors a solo gaming broadcast, progressing a Frenzy-flame 'Science Eyes' build while fielding chat discussion on Star Wars, SNL, and South Park.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers the top-of-hour sign-on in dog persona, then receives a 750-bit TTS donation invoking Biden.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walks through the studio to attempt a difficult jump, shows off Itzy concert merchandise, and discusses Bluetooth earbud latency issues.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Kendelle",
+      "fact": "Attended an Itzy concert (Itzy minus one) and acquired tour merchandise.",
+      "timestamp": "[23:22]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Dislikes Bluetooth earbuds (Bose ear clip model) due to latency issues for editing and work use.",
+      "timestamp": "[01:26:57]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Birthday week coincides with Case's birthday week, described as a 'double birthday week'.",
+      "timestamp": "[01:32:05]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Plans a kitchen stream for the following broadcast, referencing a previous attempt involving 'Lube Chef'.",
+      "timestamp": "[01:32:29]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News airs a special Elden Ring collection broadcast as anchor Case Blackwell advances a Dragon Communion 'Science Eyes' build toward the Shadow of the Erdtree expansion. Executive producer Pepito opens the hour before yielding to extended gameplay, punctuated by chat-driven digressions on Star Wars streaming series, Saturday Night Live history, and South Park longevity. In-studio contributor Kendelle appears for a platforming challenge and birthday-week recognition before the broadcast raids out to a Patreon after-show.",
+  "_meta": {
+    "vod_id": "beeVq2Nbdrs",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 66522,
+    "approx_prompt_tokens": 16630,
+    "transcript_lines": 223
+  }
+}

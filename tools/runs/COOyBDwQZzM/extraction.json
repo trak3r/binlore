@@ -1,0 +1,180 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "17:44",
+      "canonical_segment": "News",
+      "title": "Cold Open & Stream Setup",
+      "notes": "Case configures new channel point graphics, tests donation triggers, and manages Hype Train's early arrival while waiting for the broadcast to stabilize."
+    },
+    {
+      "start": "17:44",
+      "end": "33:22",
+      "canonical_segment": "News",
+      "title": "Robot Dogs Armed with AI Rifles Evaluated by Marines",
+      "notes": "Case and Pepito cover Ghost Robotics quadrupeds with Onyx Industries weapon payloads; debate the ethics of remote engagement vs. rocket-launcher variants; Pepito endorses the murder-dog future."
+    },
+    {
+      "start": "33:22",
+      "end": "40:07",
+      "canonical_segment": "News",
+      "title": "Live Interview with a Robot Dog",
+      "notes": "Pepito patches in a robot dog (voiced by Case) that claims to target Peter in the walls; the dog executes 'redrocket.exe' and departs to hunt Peter, leaving Case questioning his liability."
+    },
+    {
+      "start": "40:39",
+      "end": "56:29",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Angry Birds Masturbation Debate",
+      "notes": "A conciliatory 'Al Manchester' Munch debates Crum over whether masturbating to Angry Birds Rule 34 is acceptable; Crum wins by default as Munch spirals into defensive Christianity and cloaca jokes."
+    },
+    {
+      "start": "57:18",
+      "end": "1:37:41",
+      "canonical_segment": "Amongst the Web",
+      "title": "Use the Internet with Peter Gibbon",
+      "notes": "Case and Peter watch viewer-submitted clips: monkey rap video, tongue-split creator, Diddy apology parody, race-track brawl, Chinese tattoo fails, pregnant Thomas the Tank Engine, SCP-style 'Balloon Curse' short, and Oscar de la Hoya/Terrence Howard TikTok."
+    },
+    {
+      "start": "1:38:58",
+      "end": "2:09:37",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Terrence Howard on Joe Rogan: Womb Memories & Periodic Table Reformation",
+      "notes": "Chet and ChetAI dissect Terrence Howard's claims of in-utero memory, Walter Russell's periodic table, carbon bisexuality, planetary migration cycles, and the 'one times one equals two' multiplication heresy; Chet validates the logic as 'highly scientific.'"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors the broadcast, debuts new channel-point graphics, interviews a robot dog, moderates Munch & Crum, and co-hosts Use the Internet with Peter.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Demands cheese graphics, endorses weaponized robot dogs, patches in the robot dog call, and refuses HR duties because he is a dog.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Derails the cold open with a patriotic butt-centric freestyle rap and refuses to chill while Case fixes graphics.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Briefly appears to claim the 'ripple' catchphrase after Case's robot-dog sign-off.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defends Angry Birds masturbation on anti-kink-shaming grounds, wins the debate, and mocks Munch's sudden Christian turn.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Appears as 'Al Manchester' with a suspicious hairline, attempts forced niceness, spirals into cloaca and Christianity bits, loses the debate.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Survives a robot-dog assassination order, co-hosts Use the Internet from the walls, reveals his rat-soup/friend-rat wall ecology and bisected-tongue origin story.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeers the broadcast for a full Terrence Howard scientific breakdown, validates Howard's carbon-bisexuality and multiplication theories, cubes numbers live on calculator.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "analytical co-host",
+      "notes": "analytical co-host. Appears alongside Chet to process Terrence Howard's claims and assist with the calculator demonstration.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Referenced as present in the studio eating off-camera; Case notes he has not fed or watered her today.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum defeats Munch in the Angry Birds masturbation debate, reinforcing his 'master debater' status while Munch's mental state remains fractured post-hell arc.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Debuted a new channel-point graphics redemption system with panther, cheese rain, and confetti triggers; claims to have 'blew our whole UFO budget for the season' on graphics.",
+      "timestamp": "[04:19]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Now shares the walls with a robot dog that executed 'affection' commands; organizes wall rats into 'soup rats' (right side) and 'friend rats' (left side).",
+      "timestamp": "[58:23]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Claims his tongue was bisected from biting a bone too hard, resulting in 'two swirling snakes' that eventually healed.",
+      "timestamp": "[1:06:40]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Formally declines human resources duties, stating 'I'm a dog. I don't do that' and proposing 'DR' (Dog Resources) instead.",
+      "timestamp": "[1:38:03]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covers the Marine evaluation of AI-armed robot dogs, culminating in a live interview where a robot dog accepts a contract on wall-dwelling stowaway Peter Gibbon. Munch and Crum clash over Angry Birds Rule 34 ethics, with Crum prevailing as Munch's psyche continues to fracture. The broadcast closes with Chet Guy the Science Eyes validating Terrence Howard's Joe Rogan appearance — womb memories, a vortex-based periodic table, carbon bisexuality, and the mathematical heresy that one times one equals two — as 'highly scientific' truth.",
+  "_meta": {
+    "vod_id": "COOyBDwQZzM",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 116374,
+    "approx_prompt_tokens": 29093,
+    "transcript_lines": 307
+  }
+}

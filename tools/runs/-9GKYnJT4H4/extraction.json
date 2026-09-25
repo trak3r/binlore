@@ -1,0 +1,53 @@
+{
+  "segments": [
+    {
+      "start": "01:23",
+      "end": "02:01",
+      "canonical_segment": "News",
+      "title": "Pre-Broadcast Audio Configuration",
+      "notes": "Anchor Case Blackwell troubleshoots audio routing for co-host Fiona before abandoning news format for an Elden Ring character creation session."
+    },
+    {
+      "start": "02:01",
+      "end": "39:36",
+      "canonical_segment": "News",
+      "title": "Elden Ring Character Creation: Notorious Sex Guy Case Blackwell",
+      "notes": "Chat polls determine character name, class (Samurai), build (Check Guy the Science Eyes/perfumer), age (mature), and visual archetype (Lube Chef) with maximum skin luster, blonde hair, mustache, rosy cheeks, eyeliner, and chocolate facial tattoo."
+    },
+    {
+      "start": "39:36",
+      "end": "01:12:24",
+      "canonical_segment": "News",
+      "title": "Lands Between Tutorial Playthrough",
+      "notes": "Blackwell reacquaints with controls, acquires spectral steed Torrent, meets Melina and Witch Ranni, obtains Spirit Calling Bell, and survives a Tree Sentinel encounter before saving progress."
+    },
+    {
+      "start": "01:12:24",
+      "end": "01:14:04",
+      "canonical_segment": "News",
+      "title": "Broadcast Conclusion and Host Handoff",
+      "notes": "Anchor terminates session for Patreon podcast obligation, acknowledges raid from Mogax, and hosts streamer Psychor."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "notes": "Anchored a non-news Elden Ring character creation and tutorial playthrough, debuting the canonical avatar Notorious Sex Guy Case Blackwell (Lube Chef variant).",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [],
+  "episode_summary": "Barely Informed News suspended standard news operations for an extended Elden Ring character creation and tutorial session. Anchor Case Blackwell, declaring 'this isn't news anymore,' collaborated with chat to construct a mature Samurai named Notorious Sex Guy Case Blackwell optimized for a perfumer-based 'science eyes' build, before acquiring Torrent and the Spirit Calling Bell in the opening hours of the Lands Between.",
+  "_meta": {
+    "vod_id": "-9GKYnJT4H4",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 57578,
+    "approx_prompt_tokens": 14394,
+    "transcript_lines": 115
+  }
+}

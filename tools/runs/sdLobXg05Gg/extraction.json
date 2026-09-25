@@ -1,0 +1,110 @@
+{
+  "segments": [
+    {
+      "start": "00:04",
+      "end": "06:26",
+      "canonical_segment": "News",
+      "title": "Station Sign-On & Cold Open",
+      "notes": "Pepito delivers the official broadcast sign-on as a dog in the Roundtable Hold, then hands off to Case for an Elden Ring gameplay session."
+    },
+    {
+      "start": "06:26",
+      "end": "04:02:40",
+      "canonical_segment": "News",
+      "title": "Elden Ring: Shadow of the Erdtree Expansion Prep",
+      "notes": "Case plays a new 'Notorious Sex Guy' madness-eyes build, following a guide to collect smithing stones and level up before the DLC; spends hours failing a precise jump for Somber Smithing Stone 7 in Volcano Manor."
+    },
+    {
+      "start": "04:02:40",
+      "end": "04:12:06",
+      "canonical_segment": "Hype Train",
+      "title": "Birthday Hype Train & Moon Train Ritual",
+      "notes": "At midnight the broadcast crosses into Case's birthday; a Hype Train triggers with gifted subs, spawning a 'Moon Train' freestyle that culminates in a raid."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors a special Elden Ring prep stream for the Shadow of the Erdtree expansion, reveals his birthday at midnight, and endures a grueling Somber Smithing Stone 7 jump attempt.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers the cold-open sign-on from the Roundtable Hold as a cheese-eating dog before handing off to Case.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Calls in mid-stream to confirm she's returning from a podcast, timing her arrival with the stream's planned end.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rainie",
+      "role": "AI assistant",
+      "notes": "AI assistant. Referenced as an on-call guide ('Elden Cam') that Case can consult for directions, though she claims to be busy and unhelpful.",
+      "canonical_name": "Rainie",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[40:45] Case mentions hoping to launch a call-in show format by next Monday, a step toward the community-pledged Beyblade Tournament execution.",
+      "timestamp": "40:45"
+    },
+    {
+      "storyline": "Elden Ring Expansion Prep",
+      "beat": "[06:26] Case begins a new 'Notorious Sex Guy' madness-eyes build to reach DLC-ready power before Shadow of the Erdtree launches; [03:06:14] explicitly names the expansion.",
+      "timestamp": "06:26"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Character name 'Notorious Sex Guy' chosen by chat for this playthrough; build centers on madness-eyes 'science eyes' concept.",
+      "timestamp": "[21:28]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Birthday is June 11 (stream crosses midnight on June 10); plans to take the next day off, run Patreon Wednesday, and debut a call-in show next Monday.",
+      "timestamp": "[40:24]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Struggles for over an hour on a frame-perfect jump in Volcano Manor to obtain Somber Smithing Stone 7; fails final attempt at [04:01:22].",
+      "timestamp": "[03:49:29]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Birthday Hype Train spawns a 'Moon Train' variant with custom Ronnie/Ranbert lore; train slain at [04:09:11] after 'moon rune' removed from Elden Ring.",
+      "timestamp": "[04:02:40]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell foregoes a standard news rundown to grind a new Elden Ring character for the upcoming Shadow of the Erdtree expansion, spending the bulk of the broadcast collecting upgrade materials and repeatedly failing a notorious Volcano Manor jump for Somber Smithing Stone 7. At midnight the stream rolls into his birthday, triggering a gifted-sub Hype Train that mutates into a Moon Train freestyle before the network raids out.",
+  "_meta": {
+    "vod_id": "sdLobXg05Gg",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 137586,
+    "approx_prompt_tokens": 34396,
+    "transcript_lines": 578
+  }
+}

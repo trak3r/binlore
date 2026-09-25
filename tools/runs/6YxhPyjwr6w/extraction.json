@@ -1,0 +1,82 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "02:46:59",
+      "canonical_segment": "News",
+      "title": "Helldivers 2 Liberation Campaign",
+      "notes": "Case Blackwell replaces the standard news desk with a full Helldivers 2 co-op session alongside his brother Ryan and friend Fancy Rancid, progressing from bug planets to automaton fronts on escalating difficulties while learning stratagems, ship management, and rank customization."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors a special Helldivers 2 gaming broadcast in place of the regular news desk, learning mechanics live with his brother and friend.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Briefly appears on camera to hug Case, smokes a 'spliff of freedom,' and declines to play.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Referenced during a hype train event where Case notes new graphics unlock every five levels.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case's brother is named Ryan (Brian M. Blackwell) [01:55:29]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Fancy Rancid is a friend who streams on Twitch; Case promotes his channel [13:24]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case unlocks and selects the 'Space Cadet' rank at level 6 [02:27:44]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case mentions a friend 'Brine' who serves in the actual military and holds '10 star general' rank in-game, working toward 'Skull Admiral' [02:43:07]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Stream concludes with a raid to Daddy Rads, plus shoutouts to Nomi Pro and Daisy Line 13 [02:44:34]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell foregoes the standard news rundown for a Helldivers 2 co-op campaign with his brother Ryan and friend Fancy Rancid, dropping into bug and automaton operations across rising difficulties while mastering stratagem calls, ship upgrades, and rank titles. Kendelle makes a brief on-camera cameo. The broadcast ends with a raid to Daddy Rads.",
+  "_meta": {
+    "vod_id": "6YxhPyjwr6w",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 97866,
+    "approx_prompt_tokens": 24466,
+    "transcript_lines": 269
+  }
+}

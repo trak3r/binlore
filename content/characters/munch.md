@@ -50,7 +50,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (45)</summary>
+<summary>Earlier appearances (52)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -63,6 +63,13 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
 | [[episodes/2024-07-20|2024-07-20]] | Wins wiki feet, wife verification, sweet vs salty, Alien vs Predator, carnivore diet, Spike vs Luffy, Shaggy vs Jedi Shaggy, Country… |
+| [[episodes/2024-06-13|2024-06-13]] | debate analyst. |
+| [[episodes/2024-06-05|2024-06-05]] | debate analyst. |
+| [[episodes/2024-05-30|2024-05-30]] | debate analyst. |
+| [[episodes/2024-05-28|2024-05-28]] | debate analyst. |
+| [[episodes/2024-05-21|2024-05-21]] | debate analyst. |
+| [[episodes/2024-05-15|2024-05-15]] | debate analyst. |
+| [[episodes/2024-05-10|2024-05-10]] | debate analyst. |
 | [[episodes/2024-05-02|2024-05-02]] | debate analyst. |
 | [[episodes/2024-04-29|2024-04-29]] | debate analyst. |
 | [[episodes/2024-04-25|2024-04-25]] | debate analyst. |
@@ -153,3 +160,6 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[1:30:00]** ([[episodes/2024-02-20|2024-02-20]]): Ate Kendall's Girl Scout cookies (Thin Mints/sleeve) over two weeks; confronted by Cookie Monster for ~50 cookies consumed.
 - **[1:01:21]** ([[episodes/2024-03-18|2024-03-18]]): Munch explicitly references the Beyblade Tournament storyline.
 - **[[2:36:16]]** ([[episodes/2024-04-04|2024-04-04]]): Debate score confirmed at 292; argues samurai wrestling superiority and Cortana intimacy.
+- **[]** ([[episodes/2024-05-10|2024-05-10]]): Invokes 'prima nocte/first knock' rule established by college kids in 1920 to claim victory in ties. [01:59:30]
+- **[]** ([[episodes/2024-05-15|2024-05-15]]): [103:00] Suffers mental breakdown after first debate loss; wanders studio for three minutes; returns with shaved head/bald.
+- **[[01:27:16]]** ([[episodes/2024-05-30|2024-05-30]]): Expressed desire to 'bury the axe' with Crum after spiritual concussion; thanked Crum for reasonable debate partnership.

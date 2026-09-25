@@ -6,7 +6,7 @@ aliases:
   - Mr. Nogget
   - Mr. Noggin
   - The Wooden Board
-first_seen: 2024-07-20
+first_seen: 2024-05-31
 status: deceased (spirit trapped in timber)
 tags:
   - character
@@ -42,6 +42,8 @@ He displays a profound, open disdain for Jeb's woodworking skills and emotional 
 | [[episodes/2025-09-15|2025-09-15]] | deceased spirit in timber. |
 | [[episodes/2025-07-01|2025-07-01]] | co-host (spirit in timber). |
 | [[episodes/2024-07-20|2024-07-20]] | Trapped in wooden board, favors Jet over Jeb, teaches debate alignment, scats with wood resonance advantage. |
+| [[episodes/2024-06-13|2024-06-13]] | co-host (spirit in board). |
+| [[episodes/2024-05-31|2024-05-31]] | ghost co-host. |
 
 ## Notable Quotes
 

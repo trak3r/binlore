@@ -1,0 +1,137 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "Hype Train",
+      "start": "03:45",
+      "end": "12:57",
+      "title": "Pre-Stream Hype Train Derailment",
+      "notes": "Hype Train commandeers the pre-show with a freestyle rap about immortality, bodily fluids, and Daffy Duck graphics before expiring; Case acknowledges sub milestones and tests new channel-point graphics."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "12:57",
+      "end": "33:09",
+      "title": "BrainBridge Head-Transplant Machine",
+      "notes": "Case reads an Instagram-reel pitch for an AI-driven robotic head-transplant startup; the word \"science\" triggers a mandatory Chet Guy the Science Eyes intervention where Chet dissects the video frame-by-frame and volunteers Case for the first human trial."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "start": "36:09",
+      "end": "39:28",
+      "title": "Discord Poll Debate",
+      "notes": "A surprise two-minute debate erupts over launching a standalone BIN Discord; Crum claims his first on-air win, Munch appears under the alias \"Al Manchester,\" and the pair exit once the poll closes in favor of yes."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "start": "40:01",
+      "end": "53:02",
+      "title": "How To Slow Down Time Perception",
+      "notes": "Jeb Nogget debuts his instructional desk, guiding chat through a YouTube clock-staring exercise that subjectively dilates five minutes into ten while revealing his wife Jebra has died and his father haunts a wooden board."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "53:02",
+      "end": "54:53",
+      "title": "Wrap-Up and Raid",
+      "notes": "Case aborts a raid attempt, resets, confirms a gaming stream with Fiona tomorrow, and raids Gina off the virtual camera."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors a truncated pre-Patreon broadcast, tests new graphics and a prospective BIN Discord, and fields a chaotic Hype Train pre-show.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Derails the pre-stream with a freestyle rap about bodily fluids and immortality before expiring on air.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "recurring",
+      "notes": "recurring. Invades the News desk via the \"science\" trigger to dissect BrainBridge's head-transplant video and volunteer Case for the first human trial.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "recurring",
+      "notes": "recurring. Briefly debates the merits of a standalone BIN Discord against Munch, claiming a first-ever on-air win.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "recurring",
+      "notes": "recurring. Spars with Crum over the Discord poll, denies being \"Ralph\" under the alias \"Al Manchester,\" and exits to clear the deck for the How To segment.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "recurring",
+      "notes": "recurring. Debuts his instructional desk by guiding the audience through a YouTube tutorial on slowing subjective time perception while revealing his wife Jebra has died and his father haunts a wooden board.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Case proposes launching a dedicated BIN Discord separate from the Cream Team server to organize segment submissions.",
+      "timestamp": "33:09",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Chet claims he is \"in the lab\" and that his craft is \"making numbers rhyme,\" not rap.",
+      "timestamp": "24:51",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jeb Nogget reveals his deceased wife's name was Jebra and calls her a \"beautiful dead Jebra.\"",
+      "timestamp": "43:51",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jeb confirms his father's spirit is permanently trapped inside a wooden board in his workshop.",
+      "timestamp": "44:55",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jeb demonstrates a subjective time-dilation technique, claiming the method altered his perception so that five minutes felt like ten to twenty.",
+      "timestamp": "46:55",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell hosts a brief pre-Patreon broadcast featuring a chaotic Hype Train pre-show, a News segment on BrainBridge's AI-powered head-transplant machine that triggers Chet Manscape's mandatory science intervention, a surprise Munch & Crum debate over a standalone BIN Discord, and the series debut of Jeb Nogget's \"How To\" desk teaching subjective time dilation. The stream ends with a raid to Gina.",
+  "_meta": {
+    "vod_id": "VXbo679vgzo",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 53665,
+    "approx_prompt_tokens": 13416,
+    "transcript_lines": 84
+  }
+}

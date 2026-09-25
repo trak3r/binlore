@@ -1,0 +1,210 @@
+{
+  "segments": [
+    {
+      "start": "00:04",
+      "end": "08:28",
+      "canonical_segment": "News",
+      "title": "Cold Open: Papito Sign-On",
+      "notes": "Papito delivers the top-of-hour broadcast sign-on from the control room, coughing through the countdown and acknowledging chatters including Skymer (garbled as S.K.O.A.M.Y.R.)."
+    },
+    {
+      "start": "08:28",
+      "end": "27:46",
+      "canonical_segment": "News",
+      "title": "Elon Musk $56B Tesla Pay Package",
+      "notes": "Case and Crum discuss shareholder approval of Musk's compensation package; Crum argues the pay reflects market value while Case questions the sum; Crum's coughing fit persists throughout."
+    },
+    {
+      "start": "27:46",
+      "end": "50:41",
+      "canonical_segment": "How To with Jeb",
+      "title": "How To with Jeb: Tuna Rarebit, Onion Sandwiches & Electrolyte Drink",
+      "notes": "Jeb Nogget broadcasts from his woodshop with his father's spirit trapped in a board; technical glitches trap Jeb between dimensions; Hype Train possesses Jeb during a sub alert; recipes reviewed for tuna rarebit, Jack Popper's onion sandwiches, and a homemade electrolyte drink."
+    },
+    {
+      "start": "50:41",
+      "end": "1:39:05",
+      "canonical_segment": "News",
+      "title": "Kitchen Cooking Segment: Tuna Rarebit & Green Onion Latte",
+      "notes": "Case and Kendall cook in Case's kitchen: tuna rarebit sandwiches (curdled), onion sandwiches, and a Chinese TikTok trend green onion latte; Kendall assists with prep but declines to eat due to lactose intolerance; Case strains tuna post-stream."
+    },
+    {
+      "start": "1:39:05",
+      "end": "1:43:56",
+      "canonical_segment": "How To with Jeb",
+      "title": "Jeb Outro & Green Onion Latte Follow-Up",
+      "notes": "Back in the woodshop, Jeb and his dad debrief; Kendall describes her first week working for Jeb; Jeb makes a second green onion latte live; raid received (destination omitted)."
+    },
+    {
+      "start": "1:43:56",
+      "end": "2:22:14",
+      "canonical_segment": "News",
+      "title": "ISS Mutant Superbugs & Miscellaneous News",
+      "notes": "Case and Jeff Ripple cover 13 strains of drug-resistant Enterobacter bugandensis on the ISS; tangent on cicadas, moon landing conspiracy, street sharks, and water world theory; Ripple's audio issues persist."
+    },
+    {
+      "start": "2:22:14",
+      "end": "2:51:59",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "The Jo Rogen Experience: Void Sync & Elk Herpes",
+      "notes": "Case and Ripple as dual Joe Rogans troubleshoot audio delay via void impression; discuss elk meat tasting like herpes, moon landing fakery, spin kicks vs parries in Elden Ring, Jamie fusing with the studio wall."
+    },
+    {
+      "start": "2:51:59",
+      "end": "3:04:27",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Nudity vs. Clothes Debate",
+      "notes": "Munch at 100 debate wins, Crum at 99; Munch argues nudity unleashes powerful masculine aura; Crum cites practical protection; Munch threatens to summon phantom versions of himself; scoreboard stretched wider."
+    },
+    {
+      "start": "3:04:27",
+      "end": "3:06:13",
+      "canonical_segment": "News",
+      "title": "Elden Ring Gaming & Sign-Off",
+      "notes": "Case transitions to Elden Ring DLC playthrough; mentions changing sheets after kitchen segment; stream crashes on countdown."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors news desk, hosts Jo Rogen Experience, cooks tuna rarebit with Kendall, transitions to Elden Ring at close.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers sign-on as 'Papito'; coughs through countdown; later jammed on buttons during outro causing dual-Papito glitch.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates Musk pay package at news desk; appears in Munch & Crum at 99 debate wins vs Munch's 100; argues for practical clothing.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Assists Case in kitchen cooking segment; reveals lactose intolerance; describes first week working for Jeb; declines green onion latte.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosts How To with Jeb from woodshop; suffers dimensional glitches; temporarily possessed by Hype Train; makes green onion latte.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "co-host (spirit in board)",
+      "notes": "co-host (spirit in board). Trapped in wooden board; bickers with Jeb; comments on Jeb's brother Jet; reacts to Hype Train possession.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype correspondent",
+      "notes": "hype correspondent. Possesses Jeb's body during sub alert; delivers freestyle rap thanking subscribers; declares rage and hype from donations.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosts Jo Rogen Experience as second Joe Rogan; discusses ISS superbugs, elk herpes, moon landing, street sharks.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Leads debate score 100-99; argues nudity is humanity's powerful form; threatens to summon phantom selves; stretches scoreboard graphic.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Munch & Crum Debate Rivalry",
+      "beat": "[2:51:59] Munch reaches 100 debate wins, Crum at 99; Munch stretches scoreboard graphic; Crum vows to catch up before 8-hour debate marathon.",
+      "timestamp": "2:51:59"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Pepito referred to as 'Papito' throughout broadcast; acknowledges chatters including Skymer (ASR: S.K.O.A.M.Y.R.).",
+      "timestamp": "[00:04]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Kendelle confirms lactose intolerance: 'my body can't do milk or yogurt' but eats cheese selectively.",
+      "timestamp": "[1:31:39]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Hype Train possesses Jeb Nogget's body during sub alert, delivering freestyle rap as 'Hype Train Jeb'.",
+      "timestamp": "[41:51]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Green onion latte identified as Chinese TikTok trend: spring onions at bottom of cup with ice, coffee, milk, garnished with scallions.",
+      "timestamp": "[1:44:26]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Munch's debate win streak reaches 100; Crum at 99; scoreboard graphic stretched wider to accommodate triple digits.",
+      "timestamp": "[2:59:52]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case announces 8-hour debate stream upcoming.",
+      "timestamp": "[1:46:39]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jamie (Jo Rogen producer) described as fusing with studio wall, face disappearing into drywall; stomach gurgles heard through floor.",
+      "timestamp": "[2:50:29]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opens with a glitchy Papito sign-on before Case and Crum dissect Elon Musk's $56B Tesla pay package. The broadcast pivots to a chaotic How To with Jeb featuring dimensional instability, a Hype Train possession, and recipe reviews. Case and Kendall then cook tuna rarebit, onion sandwiches, and a viral green onion latte in the studio kitchen. A second news block covers ISS mutant superbugs and moon landing conspiracy theories. The Jo Rogen Experience troubleshoots audio via void impressions while discussing elk herpes and Elden Ring mechanics. Munch & Crum debate nudity versus clothing with the scoreboard at 100-99. The episode ends as Case launches into Elden Ring DLC before the stream crashes.",
+  "_meta": {
+    "vod_id": "xoa7A8METtc",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 133537,
+    "approx_prompt_tokens": 33384,
+    "transcript_lines": 341
+  }
+}

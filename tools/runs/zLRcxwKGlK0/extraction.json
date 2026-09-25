@@ -1,0 +1,101 @@
+{
+  "segments": [
+    {
+      "start": "00:04",
+      "end": "07:49",
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on from the control room, confirming conspiracy time returns despite Clementine's disappearance."
+    },
+    {
+      "start": "07:49",
+      "end": "14:30",
+      "canonical_segment": "News",
+      "title": "Stream Planning & Network Rundown",
+      "notes": "Case Blackwell outlines the broadcast slate: kitchen stream targeted for Tuesday, new 8-hour debate marathon stretch goal set for July, and technical prep for a new conspiracy correspondent."
+    },
+    {
+      "start": "14:30",
+      "end": "39:55",
+      "canonical_segment": "News",
+      "title": "Truth Zone Debut with Guy Redacted",
+      "notes": "Case activates Rennerton tech to introduce Guy Redacted as the network's new conspiracy analyst; Guy Redacted opens the Truth Zone desk, covers Alex Jones' Chapter 7 liquidation and Sandy Hook defamation judgment, reacts to courtroom footage, and fields a raid from Kassim G."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers the live station sign-on and confirms conspiracy programming returns despite Clementine's absence.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors the news desk, sets the broadcast rundown, announces an 8-hour debate marathon stretch goal, and launches the new Truth Zone conspiracy desk.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Guy Redacted",
+      "role": "conspiracy correspondent",
+      "notes": "conspiracy correspondent. Debuts as the network's new conspiracy analyst in the Truth Zone, wearing dark sunglasses and defending Alex Jones while dissecting his bankruptcy liquidation.",
+      "canonical_name": "Guy Redacted",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "Case references the Beyblade Tournament as a pending community pledge event during stream planning.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Case alludes to the Crum Punch trilogy history while setting an 8-hour debate marathon goal, noting Munch and Crum may not survive eight straight hours.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Guy Redacted",
+      "fact": "Introduced as the network's new conspiracy correspondent, replacing the disappeared Clementine; claims to have been pulled from a 'truth cave' for a king's ransom.",
+      "timestamp": "14:30",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Clementine",
+      "fact": "Former conspiracy expert has been 'silenced' and disappeared; Case knows who silenced him but cannot find YouTube videos on it.",
+      "timestamp": "14:08",
+      "confidence": 0.7
+    },
+    {
+      "entity": "8-hour debate marathon",
+      "fact": "New stretch goal set for July; Case plans to vary debate formats beyond Munch & Crum to include presidential town halls and guest appearances.",
+      "timestamp": "10:30",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kitchen stream",
+      "fact": "Targeted for Tuesday pending kitchen condition and shopping; Jeb's kitchen camera setup required for his eventual cooking segment.",
+      "timestamp": "09:28",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opens with Pepito's station sign-on before Case Blackwell outlines a broadcast slate including a Tuesday kitchen stream and an eight-hour debate marathon stretch goal for July. The anchor then debuts Guy Redacted as the network's new conspiracy correspondent in the Truth Zone, where the dark-sunglassed analyst defends Alex Jones against the Sandy Hook families' $1.5 billion judgment and reacts to courtroom footage before a raid from Kassim G interrupts the segment.",
+  "_meta": {
+    "vod_id": "zLRcxwKGlK0",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 43682,
+    "approx_prompt_tokens": 10920,
+    "transcript_lines": 74
+  }
+}

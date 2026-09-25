@@ -237,6 +237,8 @@ def update_episode_from_extraction(vod_id: str, extraction: dict[str, Any]) -> P
         title = f"{vod_title} ({date})"
     else:
         title = f"Episode {date}"
+    # Double-quoted YAML so titles with embedded quotes/colons don't break Quartz.
+    title_yaml = json.dumps(title, ensure_ascii=False)
     vod_url = meta.get("url") or f"https://www.twitch.tv/videos/{vod_id}"
     duration = meta.get("duration") or "?"
     summary = extraction.get("episode_summary", "").strip()
@@ -356,7 +358,7 @@ def update_episode_from_extraction(vod_id: str, extraction: dict[str, Any]) -> P
     vod_header_text = "\n".join(vod_header_lines)
 
     md_content = f"""---
-title: "{title}"
+title: {title_yaml}
 type: episode
 date: {date if date != 'unknown-date' else ''}
 vod_url: {vod_url}

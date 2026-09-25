@@ -56,7 +56,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-06-22|2026-06-22]] | High-velocity musical correspondent who confesses to cheating on his Panther girlfriend, discusses beats, and provides cultural commentary throughout the pre-show. |
 
 <details>
-<summary>Earlier appearances (27)</summary>
+<summary>Earlier appearances (31)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -76,6 +76,10 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2025-06-11|2025-06-11]] | Commandeered the birthday broadcast with freestyle raps, hell lore, and a level-13 surge while insisting every hype train is his birthday. |
 | [[episodes/2025-06-02|2025-06-02]] | hype correspondent. |
 | [[episodes/2025-05-27|2025-05-27]] | musical/cultural interruption. |
+| [[episodes/2024-06-13|2024-06-13]] | hype correspondent. |
+| [[episodes/2024-06-05|2024-06-05]] | musical interruption. |
+| [[episodes/2024-05-31|2024-05-31]] | hype train host. |
+| [[episodes/2024-05-23|2024-05-23]] | recurring interruption. |
 | [[episodes/2024-05-03|2024-05-03]] | musical interruption. |
 | [[episodes/2024-05-02|2024-05-02]] | musical interruption. |
 | [[episodes/2024-04-29|2024-04-29]] | musical interruption. |
@@ -147,3 +151,4 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[[34:46]]** ([[episodes/2024-03-27|2024-03-27]]): Reached level 10; Case acknowledged need to update visual enclosure due to time spent together.
 - **[[13:00]]** ([[episodes/2024-04-23|2024-04-23]]): Golden Kappa Train variant 'King Golden Kappa Toran' claims 6,000-year immortality and a curse where anything inserted into his rectum — including bits, subs, crowns, stone tablets, and family members — transmutes to gold.
 - **[1:24:31]** ([[episodes/2024-04-25|2024-04-25]]): Claims King Kappa ghoul touched his eyes with ass, turning them gold [1:24:31].
+- **[]** ([[episodes/2024-05-15|2024-05-15]]): [157:37] Reaches level 5-6 with new graphics; manifests Scorpion King persona; claims to have altered Edo Japan timeline putting gauges in government.

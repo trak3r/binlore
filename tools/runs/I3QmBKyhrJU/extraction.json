@@ -1,0 +1,207 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "12:06",
+      "canonical_segment": "News",
+      "title": "Trump Conviction Fallout & Legal Analysis",
+      "notes": "Case Blackwell anchors breaking coverage of Trump's guilty verdict on 34 counts, discusses jail prospects with Rick and legal expert Little Tommy Big Law."
+    },
+    {
+      "start": "12:06",
+      "end": "12:55",
+      "canonical_segment": "News",
+      "title": "Transition to Field Coverage",
+      "notes": "Blackwell hands off to Trip Bradstein for street-level reactions to the verdict."
+    },
+    {
+      "start": "12:55",
+      "end": "33:31",
+      "canonical_segment": "Trip on the Street",
+      "title": "Park Denizens React to Historic Verdict",
+      "notes": "Trip Bradstein interviews a Canadian, Nina Hartley's gardener, Bernie Madoff's ghost from hell, Jail Johnny with Ernest Goes to Jail electricity powers, an extraterrestrial offering a new Trudeau model, and a generous park resident named Chip."
+    },
+    {
+      "start": "33:31",
+      "end": "35:51",
+      "canonical_segment": "News",
+      "title": "Post-Street Debrief & Cheese Update",
+      "notes": "Blackwell returns to desk, acknowledges Epstein resub, discusses cheese consumption and upcoming How To segment."
+    },
+    {
+      "start": "35:51",
+      "end": "56:13",
+      "canonical_segment": "How To with Jeb",
+      "title": "Boiled Eggs, Chocolate-Toothpaste Sandwiches & Whiskey Protocol",
+      "notes": "Jeb Nogget demonstrates egg-blowing technique, watches a Hindi/English cooking video featuring mint toothpaste as green paste, and attempts to drink whiskey 'like a sir' with guidance from his wood-trapped father."
+    },
+    {
+      "start": "56:13",
+      "end": "01:19:15",
+      "canonical_segment": "News",
+      "title": "Sammy's Prosthetic Thumb Special & Court Sketch Roast",
+      "notes": "Correspondent Sammy commandeers the desk to cover Cambridge University's third thumb prosthetic, runs a prosthetic body part poll (Gooch vs Tail tie), pitches Gooch & Tail Pixar movie, and roasts courtroom sketches of Trump."
+    },
+    {
+      "start": "01:19:15",
+      "end": "01:20:27",
+      "canonical_segment": "News",
+      "title": "Pre-Debate Wind-Down",
+      "notes": "Blackwell wraps Sammy's segment, notes schedule normalization goals, and tees up Munch & Crum."
+    },
+    {
+      "start": "01:20:27",
+      "end": "01:29:29",
+      "canonical_segment": "Munch & Crum",
+      "title": "Trump Jail Debate & Unexpected Civility",
+      "notes": "Munch argues Trump should not go to jail (precedent/civil unrest); Crum agrees he should but concedes the 'no' side per debate rules. Uncharacteristic warmth emerges; score updates to Crum 97."
+    },
+    {
+      "start": "01:29:29",
+      "end": "01:32:40",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Schedule Announcement",
+      "notes": "Blackwell closes broadcast, announces 12:30 PST consistency goal, raids Casim."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored Trump conviction coverage, hosted Little Tommy Big Law, handed off to Trip and Jeb, closed with schedule announcement.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Briefly appeared in Jeb segment trapped-in-wood bit; confirmed 'porn addict' by chat.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Munch on Trump jail question, unusually cooperative, score updated to 97.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued against Trump jail on precedent grounds, showed uncharacteristic warmth toward Crum, suggested burying the axe.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosted How To segment: boiled egg technique, chocolate-toothpaste sandwich reaction, whiskey tasting with father's ghost.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted street interviews on Trump verdict: Canadian, Nina Hartley's gardener, Bernie Madoff's ghost, Jail Johnny, extraterrestrial, Chip.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Little Tommy Big Law",
+      "role": "call-in guest",
+      "notes": "call-in guest. Provided toddler legal analysis: Trump punished for not saying sorry, no snacks/jail time, bills $1000/minute.",
+      "canonical_name": "Little Tommy Big Law",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Sammy",
+      "role": "correspondent",
+      "notes": "correspondent. Commandeered desk for prosthetic thumb coverage, ran body-part poll, pitched Gooch & Tail movie, roasted court sketches.",
+      "canonical_name": "Sammy",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "correspondent",
+      "notes": "correspondent. Briefly discussed Trump jail logistics and secret service before Blackwell cut to Little Tommy.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Referenced at close: possibly working, Blackwell may game later if she's gone.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum appears in Munch & Crum debate with score at 97, showing unusual civility and cooperation with Munch; no direct reference to gorilla wager or groin punch forfeit.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Jeb Nogget",
+      "fact": "Owns extremely old unopened Maker's Mark whiskey gifted by Case Blackwell; attempted to drink it 'like a sir' without ice per instructional video, got instantly drunk on one sip.",
+      "timestamp": "[52:18]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "Has a 'little brother' mentor program picking up a 32-year-old from prison; claimed drunkenness prevented pickup.",
+      "timestamp": "[54:48]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Debate score updated to 97 wins; Munch acknowledged trading wins back and forth.",
+      "timestamp": "[01:28:20]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Expressed desire to 'bury the axe' with Crum after spiritual concussion; thanked Crum for reasonable debate partnership.",
+      "timestamp": "[01:27:16]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Sammy",
+      "fact": "Self-styled 'Sammy Six Elbows'; brought personal beverage from home; pitched Gooch & Tail Pixar film starring Zachary Levi.",
+      "timestamp": "[01:05:12]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered Trump's historic felony conviction with legal analysis from toddler attorney Little Tommy Big Law, street reactions from Trip Bradstein's park interviewees including a hell-dwelling Bernie Madoff and an extraterrestrial Trudeau salesman, a How To with Jeb segment on boiled eggs and whiskey protocol that left Jeb instantly intoxicated, and a Sammy-hosted deep dive on Cambridge's prosthetic third thumb. Munch & Crum debated Trump's jail prospects with uncharacteristic civility, updating Crum's debate score to 97. Blackwell announced a 12:30 PST consistency goal before raiding Casim.",
+  "_meta": {
+    "vod_id": "I3QmBKyhrJU",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 85274,
+    "approx_prompt_tokens": 21318,
+    "transcript_lines": 239
+  }
+}

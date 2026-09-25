@@ -42,6 +42,9 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 | [[episodes/2025-06-11|2025-06-11]] | field correspondent. |
 | [[episodes/2025-06-02|2025-06-02]] | field correspondent. |
 | [[episodes/2024-07-20|2024-07-20]] | Rapid-fire street debates from park bushes, settles all via coin flip, loses majority, refuses to leave streets, interacts with bread man,… |
+| [[episodes/2024-06-05|2024-06-05]] | field correspondent. |
+| [[episodes/2024-05-30|2024-05-30]] | field correspondent. |
+| [[episodes/2024-05-15|2024-05-15]] | field correspondent. |
 | [[episodes/2024-04-16|2024-04-16]] | field correspondent. |
 | [[episodes/2024-04-02|2024-04-02]] | field correspondent. |
 | [[episodes/2024-03-14|2024-03-14]] | field correspondent. |
@@ -50,15 +53,15 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 | [[episodes/2024-02-15|2024-02-15]] | field correspondent. |
 | [[episodes/2024-02-09|2024-02-09]] | Fields correspondent broadcasting from park bushes; street interviews derailed by a shape-shifting baby drinking his mic juice and tech… |
 | [[episodes/2024-02-07|2024-02-07]] | field correspondent. |
-| [[episodes/2024-02-02|2024-02-02]] | field correspondent. |
-| [[episodes/2024-01-27|2024-01-27]] | field correspondent. |
-| [[episodes/2024-01-13|2024-01-13]] | field correspondent. |
 
 <details>
-<summary>Earlier appearances (4)</summary>
+<summary>Earlier appearances (7)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-02-02|2024-02-02]] | field correspondent. |
+| [[episodes/2024-01-27|2024-01-27]] | field correspondent. |
+| [[episodes/2024-01-13|2024-01-13]] | field correspondent. |
 | [[episodes/2024-01-05|2024-01-05]] | field correspondent. |
 | [[episodes/2023-12-31|2023-12-31]] | field correspondent. |
 | [[episodes/2023-12-16|2023-12-16]] | field correspondent. |
@@ -80,3 +83,4 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 - **[01:44:31]** ([[episodes/2024-02-29|2024-02-29]]): [01:44:31] Confirms permanent park residence: 'I'll be lapping pond water and scraping food out of the trash.'
 - **[1:37:51]** ([[episodes/2024-04-02|2024-04-02]]): Confirmed operating on East Coast time from New York park location [1:37:51].
 - **[1:37:51]** ([[episodes/2024-04-02|2024-04-02]]): Purchased sleep mask ('sleep often') for scheduling attempts [1:37:51].
+- **[01:57:43]** ([[episodes/2024-06-05|2024-06-05]]): New '!trip' command system deployed for viewer opinion submissions; system exhibits opinion duplication bug [01:57:43].

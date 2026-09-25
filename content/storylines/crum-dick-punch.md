@@ -64,6 +64,12 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2024-03-01|2024-03-01]] [54:03] | [54:03] Crum references wife as 'noted tampon terrorist' during tampon debate; gambling liability arc looms in background. |
 | [[../episodes/2024-03-21|2024-03-21]] | Crum leads debate score by three wins (three debates from the groin-punch forfeit) after chat votes him ahead in the AI consciousness debate. [1:28:19, 1:29:21] |
 | [[../episodes/2024-03-26|2024-03-26]] [45:11] | [45:11] Munch leads debate score by four; Crum four losses from pneumatic groin strike forfeit. |
+| [[../episodes/2024-05-15|2024-05-15]] [74:11] | [74:11] Crum defeats Munch in debate score for first time after 200+ debates and six-month Crumback arc; Munch suffers on-air breakdown and temporary baldness. |
+| [[../episodes/2024-05-21|2024-05-21]] | Crum defeats Munch in the Angry Birds masturbation debate, reinforcing his 'master debater' status while Munch's mental state remains fractured post-hell arc. |
+| [[../episodes/2024-05-28|2024-05-28]] | Crum wins Munch & Crum plane count with 97, declares 'I'm in fucking first' — ongoing rivalry scorekeeping continues post-Crum Dick Punch resolution. |
+| [[../episodes/2024-05-30|2024-05-30]] | Crum appears in Munch & Crum debate with score at 97, showing unusual civility and cooperation with Munch; no direct reference to gorilla wager or groin punch forfeit. |
+| [[../episodes/2024-06-05|2024-06-05]] | Crum and Munch continue friendly-truce dynamic across two debates; Munch concedes second debate to tie score, referencing hospital bar drinks afterward. |
+| [[../episodes/2024-06-07|2024-06-07]] | Case alludes to the Crum Punch trilogy history while setting an 8-hour debate marathon goal, noting Munch and Crum may not survive eight straight hours. |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |

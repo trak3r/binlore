@@ -1,0 +1,214 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "05:35",
+      "canonical_segment": "News",
+      "title": "Cold Open & Pepito Cheese Cannon",
+      "notes": "Pepito delivers sign-on; cheese cannon fixed to shoot into his face; multiple sub streaks acknowledged; microphone feedback issues persist."
+    },
+    {
+      "start": "05:36",
+      "end": "21:07",
+      "canonical_segment": "News",
+      "title": "Marubo Tribe Starlink Porn Addiction",
+      "notes": "Jeff Ripple reports on uncontacted Amazon tribe getting Starlink and developing porn/gaming addictions; Hype Train interrupts with freestyle rap about the story; Jeff exits after Hype Train 'dies'."
+    },
+    {
+      "start": "21:55",
+      "end": "45:33",
+      "canonical_segment": "At the Movies",
+      "title": "Trailer Roundup: The Old Man Movie, Maxine, Alien Romulus, Venom",
+      "notes": "Trent hosts from remote location; watches stop-motion Estonian film 'The Old Man Movie', A24's Maxine, Alien Romulus, and Venom: The Last Dance; debates 70s vs 80s aesthetics and Venom's racial subtext."
+    },
+    {
+      "start": "45:34",
+      "end": "01:06:16",
+      "canonical_segment": "News",
+      "title": "AI Netflix: Showrunner Generated TV Previews",
+      "notes": "Liliana joins desk; covers Fable Studio's Showrunner AI streaming service; watches previews of Exit Valley (South Park ripoff), Pixels (Tesla cars), and other AI-generated shows; critiques quality and business model."
+    },
+    {
+      "start": "01:06:43",
+      "end": "01:19:21",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: Mia Goth vs Sydney Sweeney Scream Queen",
+      "notes": "Munch (as Al Manchester) and Crum (as Leonard Confucius Crumb) debate; Crum argues for Mia Goth's horror consistency, Munch for Sydney Sweeney; Munch wins poll 98-97 after score correction; ends with hospital bar drink plan."
+    },
+    {
+      "start": "01:22:58",
+      "end": "01:31:02",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: Will Crum Tie It Up?",
+      "notes": "Second debate demanded; Crum argues he will tie score, Munch concedes to let him; score tied; banter about white Russians, hospital bar staffed by doctors, and mayonnaise-covered white collar crime."
+    },
+    {
+      "start": "01:31:33",
+      "end": "01:54:00",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Ghost Poops: Scientific Explanation",
+      "notes": "Case reads HealthToday article on ghost poop types (gas sensation, sinking stool, no-wipe); shares personal diet of bird seed, horse sausage, grass; claims ripped body causes dense sinking poops; ChetAI confirms at end."
+    },
+    {
+      "start": "01:54:01",
+      "end": "01:57:42",
+      "canonical_segment": "News",
+      "title": "Pepito Graphics Troubleshooting",
+      "notes": "Cheese cannon alerts not triggering; Case manually triggers cheese for 50-bit donations; Pepito blames missing cheese delivery; Biden impression test."
+    },
+    {
+      "start": "01:57:43",
+      "end": "02:27:32",
+      "canonical_segment": "Trip on the Street",
+      "title": "New Opinion System Stress Test",
+      "notes": "Trip Bradstein debuts '!trip' opinion command; interviews cat driving from black hole, Clementine Verne fleeing 'dobbies', Harry Manson on cheese receptors, Rob Alvey on rollercoaster intestines, Johnny Depp wig god offer, Devin Panera ghost come RV incident; system duplicates opinions."
+    },
+    {
+      "start": "02:27:33",
+      "end": "02:31:27",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Elden Ring Character Creation Setup",
+      "notes": "Case transitions to gaming setup; shows complex OBS scene collection; runs poll on chin size; prepares flash pulls for character creation."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors full broadcast; runs cold open, news desk, movie segment, AI TV segment, ghost poop science, and Elden Ring transition.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers sign-on; cheese cannon fixed to shoot into face; graphics alerts malfunction during donations.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Reports on Marubo tribe Starlink story; interrupted and upstaged by Hype Train; exits after Hype Train 'dies'.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Derails Jeff's segment with freestyle rap about tribe porn addiction; 'dies' mid-broadcast; returns as ghost.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "correspondent",
+      "notes": "correspondent. Hosts At the Movies from remote setup with partner gaming; presents trailer roundup including Old Man Movie, Maxine, Alien Romulus, Venom.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Co-hosts AI Netflix segment; watches Showrunner previews with Case; critiques AI content quality; mentions client torture methods.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates as 'Al Manchester'; argues for Sydney Sweeney; concedes second debate to tie score; proposes hospital bar drinks.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates as 'Leonard Confucius Crumb'; argues for Mia Goth; wins first debate 98-97; argues he will tie score in second debate.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Debuts new '!trip' opinion system from park bushes; interviews parade of bizarre characters; system duplicates opinions.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "analytical co-host",
+      "notes": "analytical co-host. Briefly confirms Case's ghost poop science at segment end.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum and Munch continue friendly-truce dynamic across two debates; Munch concedes second debate to tie score, referencing hospital bar drinks afterward.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Cheese cannon repaired to shoot cheese directly into Pepito's face [07:22].",
+      "timestamp": "07:22",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Studio",
+      "fact": "Studio located next to a hospital that has a bar staffed by medical personnel in scrubs [01:17:51].",
+      "timestamp": "01:17:51",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Regularly eats bird seed (three tons purchased for unused feeder) and grass ('nature's popcorn') with butter and protein powder [01:44:51, 01:50:26].",
+      "timestamp": "01:44:51",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trip Bradstein",
+      "fact": "New '!trip' command system deployed for viewer opinion submissions; system exhibits opinion duplication bug [01:57:43].",
+      "timestamp": "01:57:43",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "OBS scene collection contains dozens of layered scenes for different broadcast segments; only active scenes load to prevent computer melt [02:29:11].",
+      "timestamp": "02:29:11",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covers an uncontacted Amazon tribe's Starlink-enabled porn addiction, reviews AI-generated TV shows from Fable Studio's Showrunner service, and hosts two Munch & Crum debates on scream queens and score-tying. The broadcast debuts Trip Bradstein's new opinion submission system from the park, investigates the science of ghost poops with personal dietary confessions, and concludes with a transition to Elden Ring character creation.",
+  "_meta": {
+    "vod_id": "EfJcO_6LBxw",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 127754,
+    "approx_prompt_tokens": 31938,
+    "transcript_lines": 338
+  }
+}

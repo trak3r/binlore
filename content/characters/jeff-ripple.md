@@ -55,6 +55,7 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 | [[episodes/2026-06-08|2026-06-08]] | Studio news reader / breaking chat correspondent. Reads Catholic exorcist story, reacts to Alex Jones comparison, leaves to fix power issue. |
 | [[episodes/2026-06-05|2026-06-05]] | Studio news reader and breaking chat correspondent who monitors viewer submissions and provides updates. |
 | [[episodes/2026-05-29|2026-05-29]] | External journalist mentioned in news coverage, not a character. |
+| [[episodes/2024-05-31|2024-05-31]] | Co-anchors Trump verdict coverage, debates Biden 'lie-off' viability, and signs off with cosmic reassurance. |
 | [[episodes/2023-12-18|2023-12-18]] | human-interest reporter. |
 | [[episodes/2023-11-22|2023-11-22]] | senior news mouth. |
 

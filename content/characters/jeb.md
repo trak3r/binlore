@@ -6,7 +6,7 @@ aliases:
   - Jeb Noggin
   - Fake Jeb
   - Skin Suit Jeb
-first_seen: 2024-07-20
+first_seen: 2024-05-23
 status: recurring
 tags:
   - character
@@ -54,6 +54,9 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2025-07-01|2025-07-01]] | instructional host. |
 | [[episodes/2025-06-19|2025-06-19]] | instructional host. |
 | [[episodes/2024-07-20|2024-07-20]] | Debates Dad on better son (Dad picks Jet), learns RISA debate framework, scat-offs with Dad in wood resonance. |
+| [[episodes/2024-06-13|2024-06-13]] | instructional host. |
+| [[episodes/2024-05-31|2024-05-31]] | How To host. |
+| [[episodes/2024-05-30|2024-05-30]] | instructional host. |
 
 ## Notable Quotes
 
@@ -79,3 +82,5 @@ See also: [[../segments/how-to-with-jeb|How To with Jeb]], [[../characters/index
 - **[[01:13:51]]** ([[episodes/2025-06-19|2025-06-19]]): Currently missing; Jeb's Dad (spirit in board) confirms no one can find him and he hasn't seen signs of death.
 - **[42:10]** ([[episodes/2025-07-01|2025-07-01]]): Fell down a 40-foot empty well, landed face-first on stone bottom, required facial reconstructive surgery using throat tissue [42:10].
 - **[48:10]** ([[episodes/2025-07-01|2025-07-01]]): Brother Jet Nogget is a world-class plastic surgeon but unavailable due to full schedule [48:10].
+- **[[52:18]]** ([[episodes/2024-05-30|2024-05-30]]): Owns extremely old unopened Maker's Mark whiskey gifted by Case Blackwell; attempted to drink it 'like a sir' without ice per instructional video, got instantly drunk on one sip.
+- **[[54:48]]** ([[episodes/2024-05-30|2024-05-30]]): Has a 'little brother' mentor program picking up a 32-year-old from prison; claimed drunkenness prevented pickup.

@@ -1,0 +1,201 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "14:24",
+      "canonical_segment": "News",
+      "title": "Opening & Hype Train Surge",
+      "notes": "Case tests new text-to-speech bit triggers; Hype Train commandeers feed for extended freestyle countdown rap reaching level 3."
+    },
+    {
+      "start": "14:24",
+      "end": "29:28",
+      "canonical_segment": "News",
+      "title": "Tyler on Celebrity Blockout Trend",
+      "notes": "In-studio contributor Tyler reads AP coverage of #Blockout2024 protest targeting celebrities over Gaza silence; devolves into potato liberation rhetoric."
+    },
+    {
+      "start": "30:35",
+      "end": "48:55",
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip Bradstein: Park Opinions & Avatar Encounter",
+      "notes": "Trip interviews park visitors: Big Mouth Billy Bass enthusiast, self-declared Avatar/tax attorney Guy Gilligan, Rob Alvey banning everyone from Cedar Point, Mr. Beast's haunted-teeth baseball card manager, and a shapeshifter sent by ShapeShifter Sips."
+    },
+    {
+      "start": "49:31",
+      "end": "73:40",
+      "canonical_segment": "News",
+      "title": "Sammy Seven Elbows: Epstein Cloning Allegations",
+      "notes": "New correspondent Sammy Seven Elbows debuts reading Daily Mail article claiming Jeffrey Epstein cloned himself via transhumanist biotech; discusses victim genetic harvesting, black book names (Chris Tucker), and Nick Bryant's podcast allegations."
+    },
+    {
+      "start": "74:11",
+      "end": "103:00",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Crum Finally Wins",
+      "notes": "After 200+ debates and six-month Crumback arc, Crum beats Munch's score for first time; Munch suffers on-air breakdown, wanders studio for three minutes, returns bald."
+    },
+    {
+      "start": "103:00",
+      "end": "117:16",
+      "canonical_segment": "News",
+      "title": "Post-Debate Aftermath & Ale Munchester",
+      "notes": "Bruce Green raids during Munch's collapse; amnesiac 'Ale Chrome Chester' / 'Ale Munchester' appears claiming not to be Munch; quick Bruce vs. Casem debate ties score again."
+    },
+    {
+      "start": "117:16",
+      "end": "136:36",
+      "canonical_segment": "At the Movies",
+      "title": "Trent at the Movies: Trailers",
+      "notes": "Trent watches Suburban Commando, Dune: Prophecy, Wicked, and You're Cordially Invited trailers; debates Spider-Man Miles vs. Peter with Chris; Kendall gives thumbs up."
+    },
+    {
+      "start": "136:36",
+      "end": "157:37",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Returns: Level 5-6 Radiation",
+      "notes": "Hype Train reappears at level 2, escalates to level 5-6 with new graphics; auto-tune, Yankee Doodle remix, Seinfeld trap, Scorpion King persona, emotional damage/brain damage freestyles."
+    },
+    {
+      "start": "157:37",
+      "end": "160:12",
+      "canonical_segment": "News",
+      "title": "Wrap-Up & Patreon Plug",
+      "notes": "Case thanks raiders, plugs Patreon with Cas, mentions French Romance game and Fee's prison bail; transitions to Jo Rogen Experience."
+    },
+    {
+      "start": "160:12",
+      "end": "177:11",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Dual Joe Rogans: Worms, Void & GameStop",
+      "notes": "Two Joe Rogans discuss brain worms (psilocybin-secreting), void navigation, GameStop 60M investment, monkey face-ripping strength, cookie semantics, and ketamine boofing; worm commands raid to Herman the Worm song."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors flagship broadcast; manages chaotic studio through Hype Train surges, Crum's historic debate win, and dual Joe Rogan finale.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Hijacks broadcast twice — first for extended countdown rap to level 3, later for level 5-6 auto-tuned radiation event with Scorpion King persona.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducts park interviews with Avatar tax attorney, Cedar Point banner Rob Alvey, Mr. Beast's haunted-teeth manager, and a forgetful shapeshifter.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Sammy Seven Elbows",
+      "role": "correspondent",
+      "notes": "Debuts as new correspondent covering Epstein cloning conspiracy; later claims amnesia as 'Ale Chrome Chester' / 'Ale Munchester'.",
+      "canonical_name": "Sammy Seven Elbows",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Loses debate lead for first time in 200+ debates; suffers mental breakdown, wanders studio bald, returns as amnesiac 'Ale Munchester'.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Achieves historic first debate score victory over Munch after six-month Crumback arc; triggers Munch's collapse.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Confirms dog identity; admits producing everything alone; discusses weed-induced depression and cigarette-eating habit.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "correspondent",
+      "notes": "correspondent. Hosts At the Movies from probation-mandated theater; watches trailers with Chris and Kendall; debates Spider-Man rankings.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[74:11] Crum defeats Munch in debate score for first time after 200+ debates and six-month Crumback arc; Munch suffers on-air breakdown and temporary baldness.",
+      "timestamp": "74:11"
+    },
+    {
+      "storyline": "Crum Face Punch",
+      "beat": "[74:11] Crum's debate victory marks culmination of gambling liability arc; Munch's psychological collapse suggests debt dynamic has shifted.",
+      "timestamp": "74:11"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "[74:11] Finally beats Munch's debate score after 200+ debates and six-month Crumback winning streak.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "[103:00] Suffers mental breakdown after first debate loss; wanders studio for three minutes; returns with shaved head/bald.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Sammy Seven Elbows",
+      "fact": "[49:31] Debuts as new correspondent; later claims amnesia and adopts aliases 'Ale Chrome Chester' and 'Ale Munchester'.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "[157:37] Reaches level 5-6 with new graphics; manifests Scorpion King persona; claims to have altered Edo Japan timeline putting gauges in government.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "[115:06] Confirms he is the sole producer; admits eating lit cigarettes; weed sends him into deep depression.",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Crum achieves his first debate victory over Munch in 200+ encounters, triggering Munch's on-air psychological collapse and temporary baldness. New correspondent Sammy Seven Elbows debuts with Epstein cloning conspiracy coverage before adopting an amnesiac alias. Trip Bradstein interviews a park Avatar, a Cedar Point banner, and a shapeshifter. Hype Train hits level 6 with auto-tuned Scorpion King radiation. The broadcast closes with dual Joe Rogans discussing brain worms, GameStop, and monkey face transplants before raiding to Herman the Worm.",
+  "_meta": {
+    "vod_id": "ydQl3A2eos0",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 152683,
+    "approx_prompt_tokens": 38170,
+    "transcript_lines": 312
+  }
+}

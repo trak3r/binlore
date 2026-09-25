@@ -1,0 +1,82 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "02:23:38",
+      "canonical_segment": "News",
+      "title": "Birthday Elden Ring: Notorious Sex Guy Science Eyes Build",
+      "notes": "Solo birthday gaming broadcast; Case advances arcane/faith build, defeats Godrick, obtains Frenzied Burst incantation, pledges to Mohg, and reaches Mohgwyn Palace farming spot; 20 gifted subs from tamtran push stream past eight-hour debate marathon goal."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "anchor. Solo birthday stream playing Elden Ring; advanced arcane/faith 'notorious sex guy' build, beat Godrick, secured Frenzied Burst, allied with Mohg, and hit debate marathon sub goal.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Eight-Hour Debate Marathon Goal",
+      "beat": "[01:04:01] tamtran gifts 20 subs, slamming the stream through the eight-hour debate marathon goal; Case acknowledges at [01:06:24] and [01:06:56].",
+      "timestamp": "01:04:01"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "00:02",
+      "entity": "",
+      "fact": "Case confirms birthday stream.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:04:01",
+      "entity": "",
+      "fact": "tamtran gifts 20 subs, completing the eight-hour debate marathon goal.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:04:34",
+      "entity": "",
+      "fact": "Case obtains Godrick's Great Rune.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:58:19",
+      "entity": "",
+      "fact": "Case acquires Howl of Shibiri / Frenzied Burst (science eyes incantation).",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:10:42",
+      "entity": "",
+      "fact": "Case allies with Mohg, Lord of Blood, receiving Mohg's Great Rune.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:13:09",
+      "entity": "",
+      "fact": "Case reaches Mohgwyn Palace ledge road grace for albinauric rune farming.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:22:16",
+      "entity": "",
+      "fact": "Raid target: Not Sage (podcast with Candle, No Pixel/Pixel Circus).",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell marks his birthday with a solo Elden Ring playthrough, piloting an arcane/faith 'notorious sex guy' build through Stormveil to a Godrick victory, then chasing the Frenzied Flame incantation and Mohg's oath before settling at the Mohgwyn Palace albinauric farm. A 20-sub gift from tamtran clears the eight-hour debate marathon goal, and the broadcast closes with a raid to Not Sage.",
+  "_meta": {
+    "vod_id": "aNR6303s4XA",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 76555,
+    "approx_prompt_tokens": 19138,
+    "transcript_lines": 237
+  }
+}

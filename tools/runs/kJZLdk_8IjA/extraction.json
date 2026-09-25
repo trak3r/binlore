@@ -1,0 +1,89 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "02:02",
+      "canonical_segment": "News",
+      "title": "Anchor Personal Disclosure: Hair Bleaching and Relationship Status",
+      "notes": "Case Blackwell opens broadcast discussing plans to bleach hair blonde following a breakup; technical audio issues delay start."
+    },
+    {
+      "start": "02:02",
+      "end": "01:17:27",
+      "canonical_segment": "News",
+      "title": "Surreal Indie Game Playthrough: Queer Man Peering into a Rock",
+      "notes": "Case Blackwell and guest Fiona Nova play through a surreal psychological horror game exploring dementia, memory fragmentation, and queer romance; game reveals connections to Tsai Ming-liang film 'The Hole'."
+    },
+    {
+      "start": "01:17:27",
+      "end": "01:32:14",
+      "canonical_segment": "Amongst the Web",
+      "title": "Viral Video Review: Heels, Walruses, and Street Brawls",
+      "notes": "Case and Fiona review viewer-submitted internet clips including high-heel sprinting, walrus encounters, and a beachside altercation."
+    },
+    {
+      "start": "01:32:14",
+      "end": "01:37:11",
+      "canonical_segment": "News",
+      "title": "Anchor Breakup Deliberation: Cheeks vs. Reflection",
+      "notes": "Case Blackwell conducts live audience poll on post-breakup action; chat deadlocks at 50/50 before 'cheeks' wins 51%."
+    },
+    {
+      "start": "01:37:11",
+      "end": "01:37:46",
+      "canonical_segment": "News",
+      "title": "Broadcast Conclusion",
+      "notes": "Case and Fiona sign off; Case references potential return to 'bender era' depending on relationship outcome."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors the broadcast alongside guest Fiona Nova; discloses personal breakup and conducts live poll on post-breakup behavior.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring interruption",
+      "notes": "recurring interruption. Briefly interrupts early broadcast with freestyle hype over game launch; later obscures game animation during hype train event.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "timestamp": "00:00",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell discloses he is going through a breakup and plans to bleach his hair blonde tomorrow.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:32:47",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell references his 'bender era during G4' where he would work hungover after all-night benders.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:33:52",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell conducts live chat poll 'cheeks or reflection' to decide post-breakup action; 'cheeks' wins 51% at [01:36:34].",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News airs a special co-hosted broadcast with guest Fiona Nova, featuring a full playthrough of the surreal indie title 'Queer Man Peering into a Rock' — a fragmented narrative exploring dementia, lost love, and cinematic references to Tsai Ming-liang's 'The Hole.' The broadcast transitions into an Amongst the Web viral video review before concluding with anchor Case Blackwell soliciting live audience guidance on his personal breakup via a deadlocked 'cheeks versus reflection' poll.",
+  "_meta": {
+    "vod_id": "kJZLdk_8IjA",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 80454,
+    "approx_prompt_tokens": 20113,
+    "transcript_lines": 177
+  }
+}

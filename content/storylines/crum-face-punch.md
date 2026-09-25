@@ -41,6 +41,7 @@ On [[../episodes/2025-06-17|Quick News and Crum Punch]], the network executes "G
 | Date / Episode | Beat |
 |----------------|------|
 | [[../episodes/2023-12-31|2023-12-31]] [1:54:08] | [1:54:08] Munch mocks Crum's 'blood age of about 100' while accepting Best B-roll award; Crum visibly reacts in crowd. |
+| [[../episodes/2024-05-15|2024-05-15]] [74:11] | [74:11] Crum's debate victory marks culmination of gambling liability arc; Munch's psychological collapse suggests debt dynamic has shifted. |
 | [[../episodes/2025-05-27|2025-05-27]] | Crum's gorilla debt reaches $115,000; new wager triples payout to $15k/win but mandates a full-force gorilla face punch if he loses the next debate, with an eight-win deadline to clear the debt or die. [59:49, 1:01:53, 1:12:13] |
 | [[../episodes/2025-05-30|2025-05-30]] | Crum confirms he owes the mechanical gorilla ~$100k, earns $15k per debate win (needs 7 more), and faces a face punch if the debt is uncleared in 8 debates. Munch campaigns for Crum's death. [40:30–41:37, 42:48–43:31] |
 | [[../episodes/2025-06-02|2025-06-02]] | Debt recalculated to ~$60k–$70k; Munch pays $5k per Crum win but refuses to update the graphic; Crum claims three consecutive debate victories. [59:04] |

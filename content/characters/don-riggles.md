@@ -28,6 +28,7 @@ His entire on-air vocabulary tends toward smells, gases, and digestive catastrop
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-05-10|2024-05-10]] | roast comic. |
 | [[episodes/2024-02-27|2024-02-27]] | call-in guest. |
 
 ## Notable Quotes
@@ -52,3 +53,4 @@ See also: [[coach-mcgurk|Coach McGurk]], [[jizbo|Jizbo]], [[crum|Crum]], [[../ep
 ## Notable moments
 
 - **[]** ([[episodes/2024-02-27|2024-02-27]]): Established as recurring roast comic character (not the real Don Rickles); claims 120 years old, brings own lighting, tours fictional venues. [1:09:55]
+- **[]** ([[episodes/2024-05-10|2024-05-10]]): Debuted new dyed hair and facial work; admits to dyeing hair. [01:04:56]

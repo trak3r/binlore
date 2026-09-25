@@ -434,17 +434,24 @@ def process_single_episode(
             logger.warning("node/npx not found in PATH; skipping Quartz compilation.")
         except subprocess.CalledProcessError as e:
             err_output = (e.stderr or e.stdout or str(e)).strip()
+            # Prefer the real Quartz ERROR block over leading Node deprecation noise.
+            err_focus = err_output
+            for marker in ("ERROR", "Failed to process markdown", "Error:"):
+                idx = err_output.find(marker)
+                if idx >= 0:
+                    err_focus = err_output[idx:]
+                    break
             # If the error is an environment issue (EBADENGINE, node version mismatch, or uninstalled node_modules),
             # don't treat it as broken content markup. Log a warning and allow git commit to proceed.
             if any(k in err_output for k in ("EBADENGINE", "MODULE_NOT_FOUND", "Cannot find module", "Unsupported engine")):
                 logger.warning(
-                    f"Quartz build encountered environment limitation on host: {err_output[:250]}\n"
+                    f"Quartz build encountered environment limitation on host: {err_focus[:400]}\n"
                     "Allowing git commit to proceed (GitHub Actions will build and deploy Quartz on push)."
                 )
                 quartz_ok = True
             else:
                 quartz_ok = False
-                logger.error(f"Quartz build failed (exit {e.returncode}): {err_output[:300]}")
+                logger.error(f"Quartz build failed (exit {e.returncode}): {err_focus[:600]}")
 
     # 9. Create local Git Commit (runs after Quartz validation)
     if git_commit:
@@ -465,6 +472,13 @@ def process_single_episode(
                 run_rel = str(run_dir.relative_to(REPO_ROOT))
                 if (REPO_ROOT / run_rel).exists():
                     add_paths.append(run_rel)
+                # Shared extract artifacts updated every iteration
+                for shared in (
+                    "tools/runs/character-appearance-index.json",
+                    "tools/runs/unknown-characters.jsonl",
+                ):
+                    if (REPO_ROOT / shared).exists():
+                        add_paths.append(shared)
                 if not add_paths:
                     logger.info("Git: nothing to stage.")
                 else:

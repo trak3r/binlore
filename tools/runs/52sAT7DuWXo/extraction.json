@@ -1,0 +1,149 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "01:08:51",
+      "canonical_segment": "Amongst the Web",
+      "title": "Viewer-Submitted Video Rating Marathon",
+      "notes": "Case and Kendall watch and rate Discord-submitted videos including a balloon death game, goth makeup tutorial, Oreo mug cake, straight edge hardcore compilation, and a 'duka duka' musical performance that scores 9.88 and wins video of the day. The Rock-afire gorilla animatronic provides continuous synthwave accompaniment."
+    },
+    {
+      "start": "01:08:51",
+      "end": "01:36:51",
+      "canonical_segment": "Movies",
+      "title": "Trailer Reviews with 'Young Blood' Persona",
+      "notes": "Case debuts a new look (black beanie, different glasses) as 'Young Blood' to review trailers for The Brat Pack documentary, Elden Ring: Shadow of the Erdtree, Harold and the Purple Crayon, and a Ren Faire documentary. Bruce Green raids the channel at 1:33:12."
+    },
+    {
+      "start": "01:36:51",
+      "end": "01:49:02",
+      "canonical_segment": "News",
+      "title": "Napoleon's Penis in New Jersey",
+      "notes": "Jeff Ripple reads a New York Post article tracing Napoleon Bonaparte's penis through history: allegedly snipped at autopsy, auctioned in 1977, now held by Evan Latimer in Englewood, NJ. Segment includes a rundown of other famous historical body parts (Beethoven's ear bones, Lincoln skull fragments, Galileo's finger, Einstein's brain)."
+    },
+    {
+      "start": "01:49:02",
+      "end": "02:04:07",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Dual Joe Rogan Q&A",
+      "notes": "Case activates voice changer to host as Joe Rogan alongside a second Rogan persona. They answer chat questions on intermittent fasting (Garfield/Odie diets), Terrence Howard's math, Wolverine diet, Furiosa vs. Garfield box office, and Drake impressions. Jamie (off-screen) unhinges jaw and swallows laptop."
+    },
+    {
+      "start": "02:04:07",
+      "end": "02:20:19",
+      "canonical_segment": "Munch & Crum",
+      "title": "Unsettlingly Affectionate Debate",
+      "notes": "Munch and Crum debate Eggman vs. Robotnik, graphics yay/nay, and Top Gun vs. Roadhouse masculinity. Crum wins the plane count (97) and declares first place. Crum's unusually nice behavior and 'I love you' declaration deeply unsettles Munch, who asks to strike the segment from record."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "anchor. Hosted Amongst the Web with Kendall, debuted 'Young Blood' persona for Movies, delivered News intro, performed dual Joe Rogan impressions, and closed with Munch & Crum.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Co-hosted Amongst the Web throughout, reacted to videos and Case's bits, received dedicated theme music on entrance.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Appeared at segment transitions eating cheese fed by viewer bits (100 bits per cheese), graphic glitch caused repeated cheese animations.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Anchored News segment reading the Napoleon's penis article and historical body parts rundown, signed off with 'by Jeff Ripple' catchphrase.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Crum on three topics, became visibly unsettled by Crum's uncharacteristic warmth and 'I love you' declaration, requested segment be struck from record.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Won plane count (97) and declared first place, displayed uncharacteristic affection toward Munch including 'I love you' and 'proud of you', claimed bald head shaved this morning.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum wins Munch & Crum plane count with 97, declares 'I'm in fucking first' — ongoing rivalry scorekeeping continues post-Crum Dick Punch resolution.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case shaved his head this morning before broadcast [02:08:30]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Crum",
+      "fact": "Crum maintains bald look by shaving stubble, claims stubble has been difficult to manage lately [02:08:30]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Pepito",
+      "fact": "Pepito cheese feeding costs 100 bits per cheese [01:09:59]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case uses voice changer for Joe Rogan impressions [01:49:33]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Rock-afire gorilla animatronic plays continuous synthwave, cost ~$100k per appearance with 'tiny man inside sweating' [00:42:52]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Bruce Green raided channel at 1:33:12 [01:33:12]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell and Kendall rate viewer-submitted internet videos in Amongst the Web, crowning a 'duka duka' musical performance the winner at 9.88. Case then debuts a 'Young Blood' persona (black beanie, new glasses) for Movies, reviewing trailers for The Brat Pack documentary, Elden Ring DLC, Harold and the Purple Crayon, and a Ren Faire doc. Jeff Ripple delivers a News deep-dive on Napoleon's penis residing in New Jersey since a 1977 auction. Case hosts The Jo Rogen Experience as dual Joe Rogans answering chat on fasting, Terrence Howard's math, and Drake. The broadcast closes with a deeply unsettling Munch & Crum where Crum wins the plane count (97), professes brotherly love, and leaves Munch requesting the segment be struck from the record.",
+  "_meta": {
+    "vod_id": "52sAT7DuWXo",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 126357,
+    "approx_prompt_tokens": 31589,
+    "transcript_lines": 296
+  }
+}

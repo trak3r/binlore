@@ -118,3 +118,15 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[1:15:48]** ([[episodes/2024-04-25|2024-04-25]]): Performed neutral face experiment for chat and ChatGPT to test AI political prediction study (r=0.22) [1:15:48].
 - **[1:12:20]** ([[episodes/2024-04-29|2024-04-29]]): Accidentally loaded two Joe Biden avatars simultaneously during town hall [1:12:20].
 - **[1:42:37]** ([[episodes/2024-05-01|2024-05-01]]): Declares Drake's son Adonis the winner of the rap beef, crediting Pusha T's earlier diss for forcing Drake to acknowledge the child.
+- **[]** ([[episodes/2024-05-10|2024-05-10]]): Skincare routine currently 4 steps; sprints to therapy on short notice. [01:40:42] [01:29:51]
+- **[[04:19]]** ([[episodes/2024-05-21|2024-05-21]]): Debuted a new channel-point graphics redemption system with panther, cheese rain, and confetti triggers; claims to have 'blew our whole UFO budget for the season' on graphics.
+- **[00:00]** ([[episodes/2024-05-23|2024-05-23]]): Case Blackwell discloses he is going through a breakup and plans to bleach his hair blonde tomorrow.
+- **[01:32:47]** ([[episodes/2024-05-23|2024-05-23]]): Case Blackwell references his 'bender era during G4' where he would work hungover after all-night benders.
+- **[01:33:52]** ([[episodes/2024-05-23|2024-05-23]]): Case Blackwell conducts live chat poll 'cheeks or reflection' to decide post-breakup action; 'cheeks' wins 51% at [01:36:34].
+- **[01:44:51]** ([[episodes/2024-06-05|2024-06-05]]): Regularly eats bird seed (three tons purchased for unused feeder) and grass ('nature's popcorn') with butter and protein powder [01:44:51, 01:50:26].
+- **[02:29:11]** ([[episodes/2024-06-05|2024-06-05]]): OBS scene collection contains dozens of layered scenes for different broadcast segments; only active scenes load to prevent computer melt [02:29:11].
+- **[[21:28]]** ([[episodes/2024-06-10|2024-06-10]]): Character name 'Notorious Sex Guy' chosen by chat for this playthrough; build centers on madness-eyes 'science eyes' concept.
+- **[[40:24]]** ([[episodes/2024-06-10|2024-06-10]]): Birthday is June 11 (stream crosses midnight on June 10); plans to take the next day off, run Patreon Wednesday, and debut a call-in show next Monday.
+- **[[03:49:29]]** ([[episodes/2024-06-10|2024-06-10]]): Struggles for over an hour on a frame-perfect jump in Volcano Manor to obtain Somber Smithing Stone 7; fails final attempt at [04:01:22].
+- **[[39:26]]** ([[episodes/2024-06-10|2024-06-10]]): Plans eight-hour debate marathon for weekend after June 10; deferred How To segment to kitchen stream tomorrow.
+- **[[01:32:29]]** ([[episodes/2024-06-12|2024-06-12]]): Plans a kitchen stream for the following broadcast, referencing a previous attempt involving 'Lube Chef'.

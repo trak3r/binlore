@@ -1,0 +1,152 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "08:27",
+      "canonical_segment": "News",
+      "title": "Birthday Cold Open",
+      "notes": "Pepito delivers station sign-on as dog producer; Case opens in Hawaiian shirt for birthday stream, mentions Elden Ring plans."
+    },
+    {
+      "start": "10:00",
+      "end": "34:06",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Birthday Goon Session",
+      "notes": "Hype Train arrives with 2,000-bit Obama drop; birthday trap beat, gooning freestyle, AI extinction headlines, Crash Bandicoot expert interruption."
+    },
+    {
+      "start": "34:06",
+      "end": "01:09:12",
+      "canonical_segment": "Amongst the Web",
+      "title": "Birthday Amongst the Web with Crum",
+      "notes": "Case and Crum co-host web video review: energy awakening class, Rubik's cube, minion Jesus video, light language codes, sweet potato jam, bear cage, Tasty combo masterclass, Bigfoot/Sasquatch drama."
+    },
+    {
+      "start": "01:11:17",
+      "end": "01:25:41",
+      "canonical_segment": "Therapy",
+      "title": "Crum Therapy with Dr. Chath",
+      "notes": "Rapid-fire therapy: phantom hairs, salt baths, hand game tapes, egg scallium condition, 9/11 deli proximity, portapotty bathroom crisis, Munch resurrection resentment, DMT hindu beings."
+    },
+    {
+      "start": "01:25:41",
+      "end": "01:28:18",
+      "canonical_segment": "News",
+      "title": "Elden Ring Transition",
+      "notes": "Case defers How To segment to tomorrow's kitchen stream; Pepito vomits bathroom chemicals; transition to Elden Ring gameplay for Shadow of the Erdtree prep."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors birthday broadcast in Hawaiian shirt, co-hosts Amongst the Web with Crum, transitions to Elden Ring for expansion prep.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers dog-producer cold open in matching Hawaiian shirt, consumes cheese gifts, vomits bathroom chemicals at sign-off.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Hijacks broadcast with 2,000-bit Obama drop, birthday trap beat, gooning freestyle, AI doom reporting, Crash Bandicoot summoning.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Crashes birthday claiming shared birthday (later reveals actual birthday July 10), co-hosts Amongst the Web, endures rapid-fire therapy with Dr. Chath.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Chath",
+      "role": "therapist",
+      "notes": "therapist. Conducts challenge therapy with Crum: phantom hairs, salt baths, hand game, egg scallium, 9/11, portapotty crisis, Munch resentment, DMT beings.",
+      "canonical_name": "Dr. Chath",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[39:26] Eight-hour debate marathon confirmed for weekend after next; Kendall's birthday week conflicts with this week.",
+      "timestamp": "39:26"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Claims birthday is actually July 10, not June 10; trolled Case about shared birthday.",
+      "timestamp": "[01:04:26]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Briefly regrew 'phantom hairs' but found it unsettling; prefers smooth scalp for consistent tan and moisturizing.",
+      "timestamp": "[01:12:29]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Uses regular table salt in baths (not bath salts) while listening to saxophonist Benny Joggins (not Kenny Loggins) and Pod Save America.",
+      "timestamp": "[01:15:21]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Has 'egg scallium condition' — bits of hard skin shed with mucusy membrane shortly after birth, like a prehensile tail.",
+      "timestamp": "[01:20:26]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Was at a deli near the Twin Towers on 9/11 but does not consider himself a survivor.",
+      "timestamp": "[01:22:12]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Household has eight bathrooms but all occupants cram into one rented portapotty outside; wishes they had bought it.",
+      "timestamp": "[01:18:46]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Ate spilled chemicals from bathroom floor; tasted good but would not stay down.",
+      "timestamp": "[01:27:22]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Plans eight-hour debate marathon for weekend after June 10; deferred How To segment to kitchen stream tomorrow.",
+      "timestamp": "[39:26]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell celebrates his birthday with a casual Hawaiian-shirt broadcast interrupted by Hype Train's gooning freestyle and a surprise Crash Bandicoot expert consultation. Crum crashes the party claiming a shared birthday (later revealed as a July 10 troll), co-hosts Amongst the Web reviewing web videos including a minion Jesus clip and Tasty's perfect combo masterclass, then endures a rapid-fire therapy session with Dr. Chath covering phantom hairs, egg scallium condition, 9/11 proximity, and Munch resurrection resentment. Pepito vomits bathroom chemicals at sign-off as Case transitions to Elden Ring for Shadow of the Erdtree prep, confirming an eight-hour debate marathon for the following weekend.",
+  "_meta": {
+    "vod_id": "9P4PT3Zza5o",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 73358,
+    "approx_prompt_tokens": 18339,
+    "transcript_lines": 169
+  }
+}

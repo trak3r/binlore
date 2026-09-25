@@ -58,7 +58,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (50)</summary>
+<summary>Earlier appearances (58)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -74,6 +74,14 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
 | [[episodes/2024-07-20|2024-07-20]] | Loses wiki feet, wins wife verification, sweet vs salty, Alien vs Predator, carnivore diet, gold vs porcelain teeth, orphan meat, spoon vs… |
+| [[episodes/2024-06-13|2024-06-13]] | debate analyst. |
+| [[episodes/2024-06-10|2024-06-10]] | debate analyst. |
+| [[episodes/2024-06-05|2024-06-05]] | debate analyst. |
+| [[episodes/2024-05-30|2024-05-30]] | debate analyst. |
+| [[episodes/2024-05-28|2024-05-28]] | debate analyst. |
+| [[episodes/2024-05-21|2024-05-21]] | debate analyst. |
+| [[episodes/2024-05-15|2024-05-15]] | debate analyst. |
+| [[episodes/2024-05-10|2024-05-10]] | debate analyst. |
 | [[episodes/2024-05-02|2024-05-02]] | debate analyst. |
 | [[episodes/2024-04-29|2024-04-29]] | debate analyst. |
 | [[episodes/2024-04-25|2024-04-25]] | debate analyst. |
@@ -218,3 +226,13 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[56:46]** ([[episodes/2024-04-10|2024-04-10]]): Full name revealed as Leonard Confucius Crum. [56:46]
 - **[01:02:37]** ([[episodes/2024-04-10|2024-04-10]]): Invested majority of savings in toilet paper stock and physical product in August 2019 pre-pandemic; garage still near-bursting. [01:02:37]
 - **[01:03:45]** ([[episodes/2024-04-10|2024-04-10]]): Created toilet paper swamp in living room for kids; posted YouTube videos later removed due to complaints. [01:03:45]
+- **[]** ([[episodes/2024-05-10|2024-05-10]]): Claims to be sentient coral that feels pain of dying reefs; sponsors green deal bills. [01:54:38]
+- **[]** ([[episodes/2024-05-15|2024-05-15]]): [74:11] Finally beats Munch's debate score after 200+ debates and six-month Crumback winning streak.
+- **[]** ([[episodes/2024-05-28|2024-05-28]]): Crum maintains bald look by shaving stubble, claims stubble has been difficult to manage lately [02:08:30]
+- **[[01:28:20]]** ([[episodes/2024-05-30|2024-05-30]]): Debate score updated to 97 wins; Munch acknowledged trading wins back and forth.
+- **[[01:04:26]]** ([[episodes/2024-06-10|2024-06-10]]): Claims birthday is actually July 10, not June 10; trolled Case about shared birthday.
+- **[[01:12:29]]** ([[episodes/2024-06-10|2024-06-10]]): Briefly regrew 'phantom hairs' but found it unsettling; prefers smooth scalp for consistent tan and moisturizing.
+- **[[01:15:21]]** ([[episodes/2024-06-10|2024-06-10]]): Uses regular table salt in baths (not bath salts) while listening to saxophonist Benny Joggins (not Kenny Loggins) and Pod Save America.
+- **[[01:20:26]]** ([[episodes/2024-06-10|2024-06-10]]): Has 'egg scallium condition' — bits of hard skin shed with mucusy membrane shortly after birth, like a prehensile tail.
+- **[[01:22:12]]** ([[episodes/2024-06-10|2024-06-10]]): Was at a deli near the Twin Towers on 9/11 but does not consider himself a survivor.
+- **[[01:18:46]]** ([[episodes/2024-06-10|2024-06-10]]): Household has eight bathrooms but all occupants cram into one rented portapotty outside; wishes they had bought it.
