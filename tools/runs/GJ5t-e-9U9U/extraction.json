@@ -1,0 +1,89 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "01:08:00",
+      "canonical_segment": "News",
+      "title": "Pirate Shooting Gallery Grind",
+      "notes": "Case Blackwell attempts a perfect run on the Resident Evil 4 pirate shooting gallery challenge for over an hour, cycling through repeated failures and strategy adjustments."
+    },
+    {
+      "start": "01:08:00",
+      "end": "02:05:38",
+      "canonical_segment": "News",
+      "title": "Castle & Sewer Progression",
+      "notes": "Blackwell advances through the castle and sewer chapters, managing inventory, upgrading the combat knife, and navigating blue medallion side quests."
+    },
+    {
+      "start": "02:05:38",
+      "end": "02:07:15",
+      "canonical_segment": "News",
+      "title": "Kendelle Seattle Check-In",
+      "notes": "Kendelle calls in live from a citizenM hotel in Seattle, describing the millennial-targeted room design and confirming she is safe while traveling."
+    },
+    {
+      "start": "02:07:15",
+      "end": "03:13:00",
+      "canonical_segment": "News",
+      "title": "Krauser Duel & Chapter Close",
+      "notes": "Extended knife-and-gun battle against Krauser across multiple Leon clones; Blackwell secures the fighting knife drop and reaches a narrative turning point."
+    },
+    {
+      "start": "03:13:00",
+      "end": "03:21:03",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid",
+      "notes": "Blackwell confirms return for news broadcast tomorrow, mentions boyfriend-point maintenance with Kendelle, and executes a raid handoff."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors a three-hour solo Resident Evil 4 broadcast, clears the pirate shooting gallery and defeats Krauser after extensive clone cycling.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Calls in from a Seattle citizenM hotel to describe the room layout and confirm travel safety during the Krauser fight intermission.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Blackwell describes himself as 'essentially homeless because I just am constantly running around the world killing people' while in-character as Leon Kennedy.",
+      "timestamp": "[01:54:35]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Kendelle is staying at a citizenM hotel in Seattle where 'every room is a corner room' with projecting window bays.",
+      "timestamp": "[02:05:38]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Blackwell references 'max my boyfriend points' regarding Kendelle during sign-off.",
+      "timestamp": "[03:20:40]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Lead anchor Case Blackwell devotes a full broadcast to a Resident Evil 4 marathon, spending the first hour grinding a pirate shooting gallery for a perfect score before pushing through the castle and sewer chapters. After an extended multi-clone knife duel with Krauser yields the fighting knife, Kendelle checks in from a Seattle hotel, and Blackwell signs off confirming a return to news duties the following afternoon.",
+  "_meta": {
+    "vod_id": "GJ5t-e-9U9U",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 112444,
+    "approx_prompt_tokens": 28111,
+    "transcript_lines": 383
+  }
+}
