@@ -1,0 +1,109 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "04:04",
+      "canonical_segment": "News",
+      "title": "Cold Open & Hart Audio Sponsor Read",
+      "notes": "Case Blackwell and Fiona troubleshoot stream setup; Hart Audio 'Cream Team' merch plug with promo code."
+    },
+    {
+      "start": "04:04",
+      "end": "12:23",
+      "canonical_segment": "News",
+      "title": "Casual Desk Chat: Hawaii, Moving, Airbnb Horror Stories",
+      "notes": "Case, Fiona, and V discuss Hawaii nostalgia, Case's impending move and potential homelessness, and swap Airbnb nightmare anecdotes involving creepy owners and hidden cameras."
+    },
+    {
+      "start": "12:23",
+      "end": "41:55",
+      "canonical_segment": "News",
+      "title": "Sex Tape Economics & Porn Industry Deep Dive",
+      "notes": "Extended discussion on celebrity sex tapes (Pamela Anderson, Tommy Lee, Kim Kardashian), male porn performer stamina standards, VR porn constraints, and Case's traumatic 'porn tour' party-bus experience in the Valley."
+    },
+    {
+      "start": "41:55",
+      "end": "55:45",
+      "canonical_segment": "News",
+      "title": "Black History Month Pedagogy & Black Trauma in Media",
+      "notes": "Panel reacts to a viral classroom door decoration segregating students by race; Fiona recounts her fourth-grade 'underground railroad' camp simulation trauma; debate over slavery-film oversaturation vs. historical memory."
+    },
+    {
+      "start": "55:45",
+      "end": "58:36",
+      "canonical_segment": "Amongst the Web",
+      "title": "Fiona Reads Black Twitter Roasts",
+      "notes": "Fiona performs a dramatic reading of a viral thread roasting a man's appearance ('Weenie Hut Juniors', 'SpongeBob when he turned normal')."
+    },
+    {
+      "start": "58:36",
+      "end": "01:01:24",
+      "canonical_segment": "News",
+      "title": "Trump Sneaker Con Debut & Fox News Spin Reaction",
+      "notes": "Panel watches Fox News clip claiming gold Trump sneakers connect with Black voters 'because they love sneakers'; unanimous derision of the racial essentialism and 'Pee-wee Herman' energy."
+    },
+    {
+      "start": "01:01:24",
+      "end": "01:07:13",
+      "canonical_segment": "Hype Train",
+      "title": "Patreon Plug, Movie Night Planning & Hype Train 90s Hip-Hop Sub Rap",
+      "notes": "Case plugs Wednesday Patreon pod and potential Sunday movie night; Hype Train hijacks close-out with a multi-level freestyle rap over 90s hip-hop beats thanking sub/gift donors."
+    },
+    {
+      "start": "01:07:13",
+      "end": "01:08:10",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid",
+      "notes": "Case confirms streaming schedule for the week, mentions apartment move progress, and initiates raid."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "anchor. Hosts the Cream Team Dream Stream special with guests Fiona and V; plugs Hart Audio merch, Patreon, and upcoming movie night.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Fiona",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Guest co-host; shares Airbnb horror stories, performs Black Twitter roast reading, and recounts childhood underground-railroad simulation trauma.",
+      "canonical_name": "Fiona",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "V",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Guest co-host; debates Black history pedagogy, critiques slavery-film industrial complex, and reacts to Trump sneaker discourse.",
+      "canonical_name": "V",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Closes the broadcast with a multi-level 90s-hip-hop freestyle rap acknowledging subscriber and bit donations.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [],
+  "episode_summary": "Case Blackwell hosts a special 'Cream Team Dream Stream' alongside guests Fiona and V, covering personal moving chaos, a legendary porn-tour disaster story, a searing critique of performative Black history month lessons, and a viral Black Twitter roast reading. The broadcast concludes with a Fox News clip dissection on Trump's gold sneakers and a Hype Train sub-reading rap finale.",
+  "_meta": {
+    "vod_id": "TtRo3N_8XRs",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 75727,
+    "approx_prompt_tokens": 18931,
+    "transcript_lines": 117
+  }
+}
