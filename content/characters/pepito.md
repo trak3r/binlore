@@ -61,7 +61,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (38)</summary>
+<summary>Earlier appearances (39)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -72,6 +72,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
 | [[episodes/2025-06-02|2025-06-02]] | executive producer. |
+| [[episodes/2024-05-02|2024-05-02]] | executive producer. |
 | [[episodes/2024-05-01|2024-05-01]] | executive producer. |
 | [[episodes/2024-04-29|2024-04-29]] | executive producer. |
 | [[episodes/2024-04-20|2024-04-20]] | executive producer. |
@@ -169,3 +170,9 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[47:31]** ([[episodes/2024-04-29|2024-04-29]]): Claims genetic composition: 50% Chihuahua, 20% Labradoodle, 50% Viking [47:31].
 - **[14:39]** ([[episodes/2024-05-01|2024-05-01]]): Ate Case's entire original Batman animated series figurine collection, claiming he did Case a favor because Case was 'too old to still have those.'
 - **[51:12]** ([[episodes/2024-05-01|2024-05-01]]): Transfers a stock contract to Tyler, declaring him CEO of the network.
+- **[[02:20]]** ([[episodes/2024-05-02|2024-05-02]]): Ate a cell phone offered by a street vendor who sold phones at half price.
+- **[[31:02]]** ([[episodes/2024-05-02|2024-05-02]]): Consumed a full bag of Sweet Tarts gifted by Sammy Seven Elbows.
+- **[[1:43:40]]** ([[episodes/2024-05-02|2024-05-02]]): Lived in the White House for six years.
+- **[[1:45:24]]** ([[episodes/2024-05-02|2024-05-02]]): Identifies the 'doid' as the canine equivalent of the Noid.
+- **[[1:49:32]]** ([[episodes/2024-05-02|2024-05-02]]): Spent time inside Richard Gere with 50 others listening to a Beatles cover band.
+- **[[1:50:14]]** ([[episodes/2024-05-02|2024-05-02]]): States he is boneless and 'raised GMO'.
