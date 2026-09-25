@@ -49,18 +49,19 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2025-06-17|2025-06-17]] | Chief Science Correspondent. |
 | [[episodes/2025-06-07|2025-06-07]] | Chief Science Correspondent. |
 | [[episodes/2024-07-20|2024-07-20]] | Joins both [[../segments/jambalaya|Jambalaya]] sessions, argues artichoke-as-human and flaked Sheldon Adelson skin condiment, debates smut vs no smut on couch. |
+| [[episodes/2024-03-18|2024-03-18]] | science correspondent. |
 | [[episodes/2024-03-01|2024-03-01]] | science correspondent. |
 | [[episodes/2024-02-27|2024-02-27]] | science correspondent. |
 | [[episodes/2024-02-20|2024-02-20]] | science correspondent. |
 | [[episodes/2024-02-16|2024-02-16]] | science correspondent. |
 | [[episodes/2024-02-15|2024-02-15]] | science correspondent. |
-| [[episodes/2024-02-09|2024-02-09]] | science correspondent. |
 
 <details>
-<summary>Earlier appearances (10)</summary>
+<summary>Earlier appearances (11)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-02-09|2024-02-09]] | science correspondent. |
 | [[episodes/2024-02-01|2024-02-01]] | science correspondent. |
 | [[episodes/2024-01-27|2024-01-27]] | science correspondent. |
 | [[episodes/2024-01-19|2024-01-19]] | science correspondent. |

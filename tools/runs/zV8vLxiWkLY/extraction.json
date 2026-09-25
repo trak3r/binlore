@@ -1,0 +1,257 @@
+{
+  "segments": [
+    {
+      "start": "14:44",
+      "end": "33:43",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Derailment: Leprechauns, Bugs Bunny, and the Scum Goal",
+      "notes": "Pre-show chaos featuring Hype Train's trap-beat freestyle, Pepito claiming leprechaun heritage, a scum goal requiring Pepito to sing a love song to cheese, and an unhinged Bugs Bunny interview where the rabbit threatens to kill Hype Train with Acme dynamite and claims to be Crum's father."
+    },
+    {
+      "start": "34:05",
+      "end": "53:31",
+      "canonical_segment": "News",
+      "title": "Double Vagina, Two Boyfriends: Cheating or Anatomy?",
+      "notes": "Jeff Ripple covers the Daily Star story on Annie Charlotte, a woman with uterus didelphis who dates two men simultaneously using separate vaginas. Case, Jeff, and chat debate whether undisclosed dual partnerships constitute cheating. Kendelle walks through with her son; copper coil IUD mentioned."
+    },
+    {
+      "start": "53:31",
+      "end": "1:07:05",
+      "canonical_segment": "Munch & Crum",
+      "title": "Hole Claim Theory vs. Mutual Expectations",
+      "notes": "Munch argues cheating is defined by 'claimed holes' and the boyfriends only claimed one vagina each; Case argues cheating violates mutually agreed expectations. Munch references Beyblade Tournament momentum. Poll leans toward Munch; Munch exits claiming victory."
+    },
+    {
+      "start": "1:10:23",
+      "end": "1:26:23",
+      "canonical_segment": "News",
+      "title": "Tucker Carlson Duped by Fake Kate Middleton Whistleblower",
+      "notes": "Liliana joins to cover British YouTubers George and Archie pranking Tucker Carlson with a fake Kensington Palace staffer who claimed the Mother's Day photo was taken at Christmas. Tucker's team praised the interview and planned to air it."
+    },
+    {
+      "start": "1:26:48",
+      "end": "1:39:46",
+      "canonical_segment": "Therapy",
+      "title": "Case Blackwell Therapy: Pito, Buttholes, and Starcraft",
+      "notes": "Case visits Dr. Chath next door. Session derails into Pito's butthole fixation, a two-vagina paradox riddle, Case's Twitter 'presence,' and Starcraft commentary. Dr. Chath's final advice: 'breath.'"
+    },
+    {
+      "start": "1:41:12",
+      "end": "1:57:18",
+      "canonical_segment": "News",
+      "title": "Trump's $454M Appeal Bond Crisis",
+      "notes": "Chet joins for Trump's inability to secure a $454M appeal bond in the New York fraud case. Lawyers cite practical impossibility; Chubb insured the $91.6M Carroll bond but declined the larger one. Case and Chet speculate on 'adult sons' music genres and Koch heir parallels."
+    },
+    {
+      "start": "1:58:23",
+      "end": "2:10:29",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "NVIDIA Blackwell AI Chip Shares Case's Surname",
+      "notes": "Crum commandeers the broadcast (trigger: 'AI') to cover NVIDIA's GB200 Blackwell platform announcement. Crum jokes about Intel 'Crum processor,' suffers heartburn spike, and notes Blackwell is a platform not a chip. Case is legally dead for a fraction of a second."
+    },
+    {
+      "start": "2:10:29",
+      "end": "2:25:41",
+      "canonical_segment": "DJ Newsic",
+      "title": "Chuck E. Cheese Fargo Closure; Pepito's Cheese Love Song Finale",
+      "notes": "DJ Newsic reports permanent closure of Fargo Chuck E. Cheese (effective March 17, 2024) with a mournful auto-tuned ballad. Pepito ejects to the roof and delivers a dramatic R&B love song to cheese. Raid to Bruce Green."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored full broadcast; navigated Hype Train chaos, double-vagina debate, Tucker prank, therapy, Trump bond crisis, and NVIDIA Blackwell namesake collision.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Claimed leprechaun heritage; accepted scum goal to sing love song to cheese; delivered dramatic roof-top cheese ballad at close.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Emerges from crawlspace claiming to be a leprechaun who lived at the end of a rainbow.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Freestyled trap beat, threatened Bugs Bunny with Acme weaponry, declared 'I'm a toilet' and 'I'll never die' before running out of hype.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Covered the two-vagina story; revealed two Filipino sons; debated cheating definition with Case and Munch.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Brief walk-through with son Andrew; mentioned copper coil IUD during contraceptive coil discussion.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued cheating requires 'claimed holes'; referenced Beyblade Tournament momentum; claimed poll victory and exited.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Co-hosted Tucker Carlson prank segment; teased Case about 'naughty' sex-story bias; left for therapy.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Chath",
+      "role": "therapist",
+      "notes": "therapist. Conducted session derailed by Pito butthole fixation, vagina paradox riddle, and Starcraft; prescribed 'breath.'",
+      "canonical_name": "Dr. Chath",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Joined for Trump bond analysis; pivoted to NVIDIA Blackwell announcement when Crum triggered 'AI' protocol.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Commandeered broadcast for NVIDIA Blackwell story; referenced Intel 'Crum processor' joke; suffered acute heartburn episode.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[1:01:21] Munch references Beyblade Tournament momentum: 'Like a Beyblade, that top can only spend for so long. And now I'm topping you.'",
+      "timestamp": "1:01:21"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "16:55",
+      "entity": "Pepito",
+      "fact": "Pepito claims to be a leprechaun who lived at the end of a rainbow.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "18:54",
+      "entity": "",
+      "fact": "Scum goal established: Pepito must sing a love song to cheese.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "27:47",
+      "entity": "Hype Train",
+      "fact": "Hype Train declares war on Bugs Bunny with Acme dynamite and military hardware.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "32:37",
+      "entity": "",
+      "fact": "Bugs Bunny (guest) claims to be Crum's father — 'That's Cannon.'",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "36:23",
+      "entity": "Jeff Ripple",
+      "fact": "Jeff Ripple reveals he has two Filipino sons.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "40:35",
+      "entity": "Kendelle",
+      "fact": "Kendelle confirms she has a copper coil IUD.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:01:21",
+      "entity": "Munch",
+      "fact": "Munch explicitly references the Beyblade Tournament storyline.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:58:23",
+      "entity": "Crum",
+      "fact": "Crum appears on-air for the first time this episode, triggered by the word 'AI'.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "2:00:28",
+      "entity": "Crum",
+      "fact": "Crum jokes about Intel 'Crum processor' from skin shavings on his CPU.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "2:05:10",
+      "entity": "Crum",
+      "fact": "Crum reveals a condition: 'temperature of my heart skyrockets' requiring focus to bring down.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "2:00:28",
+      "entity": "",
+      "fact": "NVIDIA names new AI platform 'Blackwell' — same as Case's surname; Case denies sign-off.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "2:14:06",
+      "entity": "",
+      "fact": "Chuck E. Cheese in Fargo permanently closed effective March 17, 2024; gift cards non-refundable.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "2:18:14",
+      "entity": "Pepito",
+      "fact": "Pepito performs dramatic R&B love song to cheese from roof satellite room.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened with a Hype Train derailment featuring a leprechaun-claiming Pepito and a homicidal Bugs Bunny, then pivoted to a philosophical debate on whether a woman with two vaginas dating two men constitutes cheating. Munch's 'claimed hole' theory carried the poll. Liliana exposed Tucker Carlson's interview with a fake Kate Middleton whistleblower, Case endured a therapy session derailed by butthole fixation, and Chet analyzed Trump's $454M bond crisis. Crum commandeered the broadcast for NVIDIA's Blackwell AI platform — sharing Case's surname — before DJ Newsic mourned the Fargo Chuck E. Cheese closure and Pepito closed with a roof-top cheese love song.",
+  "_meta": {
+    "vod_id": "zV8vLxiWkLY",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 115079,
+    "approx_prompt_tokens": 28769,
+    "transcript_lines": 319
+  }
+}

@@ -58,7 +58,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (40)</summary>
+<summary>Earlier appearances (41)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -74,6 +74,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
 | [[episodes/2024-07-20|2024-07-20]] | Loses wiki feet, wins wife verification, sweet vs salty, Alien vs Predator, carnivore diet, gold vs porcelain teeth, orphan meat, spoon vs… |
+| [[episodes/2024-03-18|2024-03-18]] | debate analyst. |
 | [[episodes/2024-03-14|2024-03-14]] | debate analyst. |
 | [[episodes/2024-03-01|2024-03-01]] | debate analyst. |
 | [[episodes/2024-02-29|2024-02-29]] | debate analyst. |
@@ -199,3 +200,6 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[16:26]** ([[episodes/2024-02-20|2024-02-20]]): Contracted for approximately monthly appearances, historically for 'dick stories' but assigned non-penis Neuralink story this episode.
 - **[1:37:39]** ([[episodes/2024-02-20|2024-02-20]]): Debate scoreboard deficit narrowed to 9 points — closest since early 10-point lead; Crum frames impending victory as Munch explosion event.
 - **[02:35:33]** ([[episodes/2024-02-29|2024-02-29]]): [02:35:33] Leads Munch & Crum score 87-86; claims Beyblade victories over Munch as factual regardless of memory.
+- **[1:58:23]** ([[episodes/2024-03-18|2024-03-18]]): Crum appears on-air for the first time this episode, triggered by the word 'AI'.
+- **[2:00:28]** ([[episodes/2024-03-18|2024-03-18]]): Crum jokes about Intel 'Crum processor' from skin shavings on his CPU.
+- **[2:05:10]** ([[episodes/2024-03-18|2024-03-18]]): Crum reveals a condition: 'temperature of my heart skyrockets' requiring focus to bring down.
