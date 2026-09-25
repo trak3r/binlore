@@ -3,10 +3,10 @@ title: Clementine
 type: character
 aliases: []
 first_seen: 2023-12-31
-status: minor contributor
+status: recurring
 tags:
-  - character
-  - minor
+- character
+- minor
 ---
 
 # Clementine
@@ -28,6 +28,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 ## Notable moments
 
 - First identified in [[episodes/2023-12-31|Episode 2023-12-31]].
+- **[01:51:56]** ([[episodes/2024-04-10|2024-04-10]]): Hair partially burned off by oven door while cooking ham; considers it an 'oven haircut.' [01:51:56]
 
 ## Open questions
 

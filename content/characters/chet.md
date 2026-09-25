@@ -49,18 +49,19 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2025-06-17|2025-06-17]] | Chief Science Correspondent. |
 | [[episodes/2025-06-07|2025-06-07]] | Chief Science Correspondent. |
 | [[episodes/2024-07-20|2024-07-20]] | Joins both [[../segments/jambalaya|Jambalaya]] sessions, argues artichoke-as-human and flaked Sheldon Adelson skin condiment, debates smut vs no smut on couch. |
+| [[episodes/2024-04-10|2024-04-10]] | science correspondent. |
 | [[episodes/2024-04-02|2024-04-02]] | science correspondent. |
 | [[episodes/2024-03-27|2024-03-27]] | science correspondent. |
 | [[episodes/2024-03-18|2024-03-18]] | science correspondent. |
 | [[episodes/2024-03-01|2024-03-01]] | science correspondent. |
 | [[episodes/2024-02-27|2024-02-27]] | science correspondent. |
-| [[episodes/2024-02-20|2024-02-20]] | science correspondent. |
 
 <details>
-<summary>Earlier appearances (13)</summary>
+<summary>Earlier appearances (14)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-02-20|2024-02-20]] | science correspondent. |
 | [[episodes/2024-02-16|2024-02-16]] | science correspondent. |
 | [[episodes/2024-02-15|2024-02-15]] | science correspondent. |
 | [[episodes/2024-02-09|2024-02-09]] | science correspondent. |
@@ -110,3 +111,4 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 - **[]** ([[episodes/2024-03-01|2024-03-01]]): Attended Pantera Bread pop-up staffed by Pantera band; menu included 'Sandwich from Hell' and 'Clash with Reality Soup' [1:07:17-1:08:26]
 - **[[47:53]]** ([[episodes/2024-03-27|2024-03-27]]): Now has a dedicated permanent studio room for Chet Guy the Science Eyes, built by Case due to chat demand.
 - **[1:49:10]** ([[episodes/2024-04-02|2024-04-02]]): Claims to eat 13 egg yolks daily for inflamed heart condition [1:49:10].
+- **[01:16:14]** ([[episodes/2024-04-10|2024-04-10]]): Trigger phrase 'science' or 'scientist' summons Chet Guy the Science Eyes desk immediately. [01:16:14]

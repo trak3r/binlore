@@ -65,3 +65,4 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 - **[21:18]** ([[episodes/2024-03-28|2024-03-28]]): Chet Manscape declares himself 'the new science representative of this show' and claims exclusive right to read science stories.
 - **[30:37]** ([[episodes/2024-03-28|2024-03-28]]): Chet chugs multiple large cups of water to simulate polar ice melt effect on rotational velocity; spins in office chair before and after.
 - **[1:58:19]** ([[episodes/2024-04-02|2024-04-02]]): Possesses a chaos emerald [1:58:19].
+- **[01:16:38]** ([[episodes/2024-04-10|2024-04-10]]): Identifies as 'chat high' on Chet's monitor; claims all accumulated bug knowledge available at will. [01:16:38]

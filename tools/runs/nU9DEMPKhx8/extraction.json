@@ -1,0 +1,254 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "03:43",
+      "canonical_segment": "News",
+      "title": "Broadcast Open & AI Bias Headlines",
+      "notes": "Case Blackwell opens the broadcast; Pepito acknowledged in chat; Jeff Ripple joins to discuss Meta AI refusing to generate Asian men with white women."
+    },
+    {
+      "start": "03:43",
+      "end": "22:01",
+      "canonical_segment": "News",
+      "title": "Meta AI Racial Bias Investigation",
+      "notes": "Jeff Ripple and Case dissect The Verge/Gizmodo findings on Meta's Imagine generator failing interracial prompts; debate over 'Caucasian' etymology; AI defaults to Asian couples."
+    },
+    {
+      "start": "22:01",
+      "end": "33:37",
+      "canonical_segment": "News",
+      "title": "AI Music Showcase",
+      "notes": "Case plays viewer-made AI tracks (Suno), including MIT license ballad; Case admits most AI uses feel like scams except Cream Team creations."
+    },
+    {
+      "start": "33:37",
+      "end": "41:00",
+      "canonical_segment": "News",
+      "title": "STI-Detection AI App Fails on Penis Cake",
+      "notes": "Calmara app (HeHealth) claims 94.4% accuracy but clears penis-shaped cake/vase; misses real syphilis; Dr. Ina Park warns of false negatives/positives."
+    },
+    {
+      "start": "41:00",
+      "end": "43:25",
+      "canonical_segment": "News",
+      "title": "Johnny Depp Guitar Slander",
+      "notes": "GuitarGOT.com executive calls Depp 'worst guitarist I've ever seen'; Case and Jeff react to Depp's current look."
+    },
+    {
+      "start": "43:25",
+      "end": "55:20",
+      "canonical_segment": "Munch & Crum",
+      "title": "Wolf vs. 100 Puppies Debate",
+      "notes": "Munch argues puppy swarm overwhelms wolf; Crum insists wolf wins logistically; debate turns personal, Crum exits claiming victory."
+    },
+    {
+      "start": "55:20",
+      "end": "01:08:13",
+      "canonical_segment": "Therapy",
+      "title": "Crum Therapy Session",
+      "notes": "Crum (Leonard Confucius Crum) processes debate rage; reveals 2019 toilet-paper hoarding, damp swamp videos, family details; Munch's hate 'gets into him'."
+    },
+    {
+      "start": "01:09:19",
+      "end": "01:16:14",
+      "canonical_segment": "News",
+      "title": "Cicada STD Fungus Report",
+      "notes": "Liliana joins Case for AP story on Massospora cicadina fungus replacing cicada gonads with spore plugs; cathinone amphetamine keeps them hypersexual."
+    },
+    {
+      "start": "01:16:14",
+      "end": "01:29:50",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet Hijacks Cicada Segment",
+      "notes": "Trigger word 'science' summons Chet; he and ChetAI watch 11-min YouTube dissection of infected cicadas; Chet speculates host may be fungus-compromised."
+    },
+    {
+      "start": "01:29:50",
+      "end": "01:49:31",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Dual Joe Rogans Enter the Void",
+      "notes": "Two Joe Rogans discuss void meditation, kickboxing trauma, Apple AI God, protein-powder ravioli, electric-car sex (glove-box method), caveman gayness, golf-sex risks."
+    },
+    {
+      "start": "01:49:31",
+      "end": "02:01:21",
+      "canonical_segment": "News",
+      "title": "Clementine & the Basement Dobby",
+      "notes": "Clementine (hair singed by oven) battle-raps a Dobby-alien living in his basement; Dobby reveals Elvis was a green Dobby, Area 51 is actually Area 21."
+    },
+    {
+      "start": "02:01:21",
+      "end": "02:14:52",
+      "canonical_segment": "DJ Newsic",
+      "title": "Eclipse Nuts & Sun Confrontation",
+      "notes": "DJ Newsic sings Mexican TV (24-7/Vivo) accidentally airing testicles during eclipse; summons aggressive sleeveless Sun for freestyle battle; raid to Bruce Green."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored full broadcast; managed segment handoffs; reacted to AI music and Crum's therapy revelations.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Acknowledged in chat during cold open; sub-gift song interaction with Case.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosted News desk for AI bias and STI-app stories; declared himself 'noted non-racist'.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Lost wolf-vs-puppies debate to Munch; attended on-air therapy revealing pandemic toilet-paper hoarding and family swamp videos.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Won wolf-vs-puppies debate; his hate 'gets into' Crum per therapy session.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Joined Case for cicada report; segment hijacked by Chet after she said 'science'.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Triggered by 'science'; took over cicada segment with ChetAI; analyzed fungal infection footage.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "AI co-host",
+      "notes": "AI co-host. Appeared as 'chat high' on Chet's monitor; claimed all bug knowledge at will.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Clementine",
+      "role": "correspondent",
+      "notes": "correspondent. Battle-rapped basement Dobby alien after oven haircut; transported Case to secret location.",
+      "canonical_name": "Clementine",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dobby",
+      "role": "call-in guest",
+      "notes": "call-in guest. Basement-dwelling house-elf alien; battle-rapped truths (Elvis=Dobby, Area 51=Area 21) before reverting to cleaning obsession.",
+      "canonical_name": "Dobby",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "The Sun",
+      "role": "call-in guest",
+      "notes": "call-in guest. Sleeveless-shirt celestial body; delivered hostile freestyle at DJ Newsic before sunset exit.",
+      "canonical_name": "The Sun",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Munch & Crum rivalry",
+      "beat": "[2024-04-10] Crum loses wolf-vs-puppies debate, spirals into personal attacks, then enters on-air therapy to process Munch's 'hate getting into him'.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Crum therapy arc",
+      "beat": "[2024-04-10] Crum reveals full name Leonard Confucius Crum, 2019 toilet-paper speculation, damp swamp YouTube videos taken down, and that Munch and Crum will be co-best men at Case's wedding.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Full name revealed as Leonard Confucius Crum. [56:46]",
+      "timestamp": "56:46",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Invested majority of savings in toilet paper stock and physical product in August 2019 pre-pandemic; garage still near-bursting. [01:02:37]",
+      "timestamp": "01:02:37",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Created toilet paper swamp in living room for kids; posted YouTube videos later removed due to complaints. [01:03:45]",
+      "timestamp": "01:03:45",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Trigger phrase 'science' or 'scientist' summons Chet Guy the Science Eyes desk immediately. [01:16:14]",
+      "timestamp": "01:16:14",
+      "confidence": 0.7
+    },
+    {
+      "entity": "ChetAI",
+      "fact": "Identifies as 'chat high' on Chet's monitor; claims all accumulated bug knowledge available at will. [01:16:38]",
+      "timestamp": "01:16:38",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Clementine",
+      "fact": "Hair partially burned off by oven door while cooking ham; considers it an 'oven haircut.' [01:51:56]",
+      "timestamp": "01:51:56",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Dobby",
+      "fact": "Claims to be J.K. Rowling's Dobby; says Rowling wrote house-elves as slaves by nature then tried to backpedal. [01:59:56]",
+      "timestamp": "01:59:56",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a marathon broadcast dissecting Meta AI's racial bias, a faulty STI-detection app that clears penis-shaped cake, and Johnny Depp guitar slander. Munch defeats Crum in a wolf-vs-100-puppies debate, driving Crum into an on-air therapy session where he confesses 2019 toilet-paper hoarding and a damp swamp incident. Liliana's cicada report is seized by Chet for a graphic deep-dive into Massospora fungus. The Jo Rogan Experience features dual Joes discussing void meditation, electric-car glove-box sex, and caveman homosexuality. Clementine battle-raps a basement-dwelling Dobby alien who reveals Elvis was a green Dobby and Area 51 is actually Area 21. DJ Newsic closes with a song about Mexican TV accidentally broadcasting testicles during the eclipse and a hostile freestyle from the Sun before raiding Bruce Green.",
+  "_meta": {
+    "vod_id": "nU9DEMPKhx8",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 117517,
+    "approx_prompt_tokens": 29379,
+    "transcript_lines": 337
+  }
+}

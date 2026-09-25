@@ -58,7 +58,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (45)</summary>
+<summary>Earlier appearances (46)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -74,6 +74,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
 | [[episodes/2024-07-20|2024-07-20]] | Loses wiki feet, wins wife verification, sweet vs salty, Alien vs Predator, carnivore diet, gold vs porcelain teeth, orphan meat, spoon vs… |
+| [[episodes/2024-04-10|2024-04-10]] | debate analyst. |
 | [[episodes/2024-04-04|2024-04-04]] | debate analyst. |
 | [[episodes/2024-04-02|2024-04-02]] | debate analyst. |
 | [[episodes/2024-03-26|2024-03-26]] | debate analyst. |
@@ -210,3 +211,6 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[]** ([[episodes/2024-03-21|2024-03-21]]): Crum claims 4-point lead over Munch in debate standings. [1:23:18]
 - **[]** ([[episodes/2024-03-26|2024-03-26]]): [1:06:19] Received first official theme song 'I'm Scrummin'' produced by DJ Newsic on MVP entrance music instrumental.
 - **[[1:34:59]]** ([[episodes/2024-04-04|2024-04-04]]): Head shape described as 'slightly less pointy' by Munch; claims 1991 debate score (previously cited as ~91).
+- **[56:46]** ([[episodes/2024-04-10|2024-04-10]]): Full name revealed as Leonard Confucius Crum. [56:46]
+- **[01:02:37]** ([[episodes/2024-04-10|2024-04-10]]): Invested majority of savings in toilet paper stock and physical product in August 2019 pre-pandemic; garage still near-bursting. [01:02:37]
+- **[01:03:45]** ([[episodes/2024-04-10|2024-04-10]]): Created toilet paper swamp in living room for kids; posted YouTube videos later removed due to complaints. [01:03:45]
