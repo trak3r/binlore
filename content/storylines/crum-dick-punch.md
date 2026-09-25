@@ -60,6 +60,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2024-02-15|2024-02-15]] [47:05] | [47:05] Crum absent with 'tuberculosis or something with a T' — likely avoiding the pending pneumatic gorilla groin punch; cousin Plumb fills in at debate desk. |
 | [[../episodes/2024-02-16|2024-02-16]] [02:29:07] | [02:29:07] Munch references being '10 little points away from watching you dissolve like someone put stuff you with coin batteries until you burst' — tying the battery medical story to Crum's pending groin-punch forfeit. |
 | [[../episodes/2024-02-20|2024-02-20]] | Debate scoreboard shows Crum 9 points behind Munch (single digits), reigniting explosion rhetoric; Crum claims victory will trigger Munch's detonation while Munch counters with contained rage cube. |
+| [[../episodes/2024-02-27|2024-02-27]] | Crum and Munch debate with visible score graphic (78-70); Crum alleges rigging, Munch claims he can never lose; gambling debt subtext persists but no direct gorilla mention. |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |

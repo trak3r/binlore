@@ -45,6 +45,7 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 | [[../episodes/2024-01-19|2024-01-19]] | No advancement this episode; tournament remains community-pledge vaporware. |
 | [[../episodes/2024-02-02|2024-02-02]] [42:03] | [42:03] Kendall references Beyblade love in auto-tune song: 'your love for Beyblades... compare that love with your love with me.' |
 | [[../episodes/2024-02-09|2024-02-09]] | [2024-02-09] Case mentions Beyblade Tournament sub goal still pending; says they'll meet Crum's cousin when it's met. |
+| [[../episodes/2024-02-27|2024-02-27]] | No advancement this episode. |
 | [[../episodes/2025-05-30|2025-05-30]] [39:25] | Munch references past Beyblade episodes during debate count banter. [39:25] |
 | [[../episodes/2025-06-02|2025-06-02]] [31:49] | [31:49] Case references pending Beyblade event possibly still 'inside the Papal Binclave'; no further advancement this episode. |
 | [[../episodes/2025-06-17|2025-06-17]] | [2025-06-17] Referenced as pending community-pledge event; no progress shown this episode. |

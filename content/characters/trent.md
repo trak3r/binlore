@@ -23,6 +23,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-02-27|2024-02-27]] | field correspondent. |
 | [[episodes/2024-01-17|2024-01-17]] | field correspondent. |
 | [[episodes/2024-01-13|2024-01-13]] | movie correspondent. |
 | [[episodes/2024-01-05|2024-01-05]] | movie correspondent. |
@@ -36,6 +37,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 - **[[1:30:23]]** ([[episodes/2023-12-12|2023-12-12]]): Hosts Trailer Thursday segment under parole supervision; presents himself as cultural taste-maker.
 - **[]** ([[episodes/2024-01-13|2024-01-13]]): Claims to have made out with women on stream; has long hair from 'hooking up with ladies' [1:34:54].
 - **[2:07:56]** ([[episodes/2024-02-07|2024-02-07]]): Uses '10 minutes self-reflection' phone app for therapy [2:07:56]
+- **[]** ([[episodes/2024-02-27|2024-02-27]]): Hosts recurring 'Trent at the Movies' segment reviewing trailers; advocates for actor safety on green-screen volumes. [1:40:07]
 
 ## Open questions
 

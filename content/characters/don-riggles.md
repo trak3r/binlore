@@ -4,7 +4,7 @@ type: character
 aliases:
   - Donny
   - Donny baby
-first_seen: 2026-03-07
+first_seen: 2024-02-27
 status: minor contributor
 tags:
   - character
@@ -26,7 +26,9 @@ His entire on-air vocabulary tends toward smells, gases, and digestive catastrop
 
 ## Appearances
 
-_No appearance notes recorded yet._
+| Episode | Notes |
+|---|---|
+| [[episodes/2024-02-27|2024-02-27]] | call-in guest. |
 
 ## Notable Quotes
 
@@ -46,3 +48,7 @@ _No appearance notes recorded yet._
 - Is the elder face filter canonical form, or an occasional broadcast presentation?
 
 See also: [[coach-mcgurk|Coach McGurk]], [[jizbo|Jizbo]], [[crum|Crum]], [[../episodes/2026-03-07|Episode 2026-03-07]], [[index|On-Air Talent & Staff]].
+
+## Notable moments
+
+- **[]** ([[episodes/2024-02-27|2024-02-27]]): Established as recurring roast comic character (not the real Don Rickles); claims 120 years old, brings own lighting, tours fictional venues. [1:09:55]

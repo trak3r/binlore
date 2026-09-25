@@ -1,0 +1,189 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Opening & MIT Mind-Control Device",
+      "start": "14:39",
+      "end": "30:15",
+      "notes": "Case opens the broadcast discussing his impending move and Jon Stewart's Daily Show return; Jeff Ripple joins to cover MIT student Arnav Kapoor's Alter Ego headset that enables internet search via subvocalization and skull-vibration feedback."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "title": "Hentai vs Furries Debate",
+      "start": "33:30",
+      "end": "46:51",
+      "notes": "Munch argues for furries as a culture; Crum argues hentai's breadth includes furry content. Furries wins the chat poll 78-70; Munch claims the score is rigged and his penis has not been sucked into his stomach."
+    },
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Oklahoma Man: Rattlesnake, Uranium, Whiskey, Firearm",
+      "start": "47:11",
+      "end": "1:02:01",
+      "notes": "Chet debuts his new theme song and announces 'Chetify' streaming service; covers Stephen Jennings' traffic stop yielding a stolen Ford Explorer, rattlesnake, legal-amount uranium canister, open Kentucky Deluxe whiskey, and firearm. Snake euthanized; uranium charges dropped."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Zombies That Hate Breakdancing / Korean Comic TikTok",
+      "start": "1:02:01",
+      "end": "1:05:51",
+      "notes": "Attempted coverage of requested 'zombies that hate breakdancing' leads to a silent TikTok of a Korean comic voicing Frozen characters; Case denies it's his algorithm."
+    },
+    {
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Don Riggles Roast Session",
+      "start": "1:05:51",
+      "end": "1:37:03",
+      "notes": "Don Riggles (imposter Don Rickles) joins via video call and delivers a 30-minute ass-focused roast of Case, Pepito, and chat; plugs fictional tour dates at a checkers factory, Campbell's soup waste plant, and Werther's billiards plantation."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "title": "Trent at the Movies: Trailers",
+      "start": "1:40:07",
+      "end": "2:07:31",
+      "notes": "Trent and Chris watch Monkey Man, Bad vs Wild, Asphalt City, and Borderlands trailers; debate Batman vs Monkey Man, Nick Cannon's progeny, Jack Black as Claptrap, and green-screen aesthetics."
+    },
+    {
+      "canonical_segment": "DJ Newsic",
+      "title": "Wendy's Surge Pricing Musical Sign-Off",
+      "start": "2:07:54",
+      "end": "2:19:31",
+      "notes": "DJ Newsic sings the news from the roof: Wendy's dynamic pricing announced on Q4 2023 earnings call; Baconator price surges at lunch; Hamburglar guest-verse steals and fucks burgers; rate Bruce Green; rain ends stream."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors the broadcast, discusses impending move and power turn-on, fields Don Riggles roast, hands off to Trent and DJ Newsic.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Runs cold-open countdown, manages Don Riggles call timing, defends dog literacy against Don's insults.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosts the Alter Ego mind-device segment, debates skull-vibration safety, signs off with ripple metaphor.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues hentai supremacy over furries, claims chat score is rigged, accuses Munch's penis of retreating into his stomach.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Champions furries as a culture, wins poll 78-70, insists he cannot lose and his penis remains unsucked.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Debuts 'Macho Macho Chet' theme, announces Chetify streaming platform, covers Oklahoma uranium-snake story, defends legal uranium possession.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Don Riggles",
+      "role": "call-in guest",
+      "notes": "call-in guest. Imposter Don Rickles delivers 30-minute ass-obsessed roast, claims 120 years old, plugs fictional geriatric tour dates.",
+      "canonical_name": "Don Riggles",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "field correspondent",
+      "notes": "field correspondent. Hosts Trent at the Movies, watches four trailers with Chris, argues for Monkey Man over Batman and defends green-screen safety.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "musical finale host",
+      "notes": "musical finale host. Performs Wendy's surge pricing song from the roof with lasers, features Hamburglar verse, rates Bruce Green, ends stream in rain.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum and Munch debate with visible score graphic (78-70); Crum alleges rigging, Munch claims he can never lose; gambling debt subtext persists but no direct gorilla mention.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "No advancement this episode.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Moving residence this month; studio may look the same but personal area relocating; power turn-on pending. [16:00]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet",
+      "fact": "Debuts original theme song 'Macho Macho Chet' and announces proprietary streaming service 'Chetify' soft-launching 2030 at $10.99/month. [48:14]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Don Riggles",
+      "fact": "Established as recurring roast comic character (not the real Don Rickles); claims 120 years old, brings own lighting, tours fictional venues. [1:09:55]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trent",
+      "fact": "Hosts recurring 'Trent at the Movies' segment reviewing trailers; advocates for actor safety on green-screen volumes. [1:40:07]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Wendy's",
+      "fact": "Announced dynamic/surge pricing on Q4 2023 earnings call; Baconator price may double at lunch rush. [2:11:46]",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns from a streaming hiatus to anchor a broadcast dominated by an MIT mind-reading headset, a furry-favoring Munch & Crum debate, and Chet's musical rebrand. The night spirals into a 30-minute ass-centric roast from imposter Don Riggles, a trailer-review detour with Trent, and a DJ Newsic roof concert condemning Wendy's surge pricing — all while Case's impending move looms over the studio.",
+  "_meta": {
+    "vod_id": "RErv_n1vBKs",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 116952,
+    "approx_prompt_tokens": 29238,
+    "transcript_lines": 320
+  }
+}

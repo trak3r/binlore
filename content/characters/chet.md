@@ -49,18 +49,19 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2025-06-17|2025-06-17]] | Chief Science Correspondent. |
 | [[episodes/2025-06-07|2025-06-07]] | Chief Science Correspondent. |
 | [[episodes/2024-07-20|2024-07-20]] | Joins both [[../segments/jambalaya|Jambalaya]] sessions, argues artichoke-as-human and flaked Sheldon Adelson skin condiment, debates smut vs no smut on couch. |
+| [[episodes/2024-02-27|2024-02-27]] | science correspondent. |
 | [[episodes/2024-02-20|2024-02-20]] | science correspondent. |
 | [[episodes/2024-02-16|2024-02-16]] | science correspondent. |
 | [[episodes/2024-02-15|2024-02-15]] | science correspondent. |
 | [[episodes/2024-02-09|2024-02-09]] | science correspondent. |
 | [[episodes/2024-02-01|2024-02-01]] | science correspondent. |
-| [[episodes/2024-01-27|2024-01-27]] | science correspondent. |
 
 <details>
-<summary>Earlier appearances (8)</summary>
+<summary>Earlier appearances (9)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-01-27|2024-01-27]] | science correspondent. |
 | [[episodes/2024-01-19|2024-01-19]] | science correspondent. |
 | [[episodes/2024-01-13|2024-01-13]] | science correspondent. |
 | [[episodes/2023-12-31|2023-12-31]] | science correspondent. |
@@ -101,3 +102,4 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 - **[37:31]** ([[episodes/2024-02-15|2024-02-15]]): [37:31] Therapy method includes rotoscoping references, asking patients if they are a fork, spoon/knife/fork marry-fuck-kill, feeding chocolate while calling them 'good boy.'
 - **[]** ([[episodes/2024-02-16|2024-02-16]]): Recognized a person in Paradox.ai promotional video, suspects it was filmed in Chicago [01:56:38].
 - **[1:53:51]** ([[episodes/2024-02-20|2024-02-20]]): AI prompt for theme song establishes canon: 'world's strongest coolest man and incredible dad to six sons'; records 'Macho Macho Chet' parody in single take.
+- **[]** ([[episodes/2024-02-27|2024-02-27]]): Debuts original theme song 'Macho Macho Chet' and announces proprietary streaming service 'Chetify' soft-launching 2030 at $10.99/month. [48:14]
