@@ -1,0 +1,68 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Late Night Helldiving: Operation Democratic Liberation",
+      "start": "00:05:06",
+      "end": "01:18:07",
+      "notes": "Case Blackwell anchors an extended Helldivers 2 gameplay session, learning mechanics with Kendall and coordinating a four-player squad against Automaton forces on medium difficulty."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Late Night Helldiving: Pepito Sub Goal Redemption",
+      "start": "02:04:20",
+      "end": "02:19:19",
+      "notes": "Executive Producer Pepito fulfills a sub goal by taking the controller, adopting a nonviolent diplomatic approach to Terminid forces, and concluding the broadcast with a raid."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored a marathon Helldivers 2 session, struggled with audio routing and game mechanics before coordinating a full squad.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Joined Case for cross-play co-op, provided tactical guidance, and exited mid-session after character death.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Case and Kendall cross-play Helldivers 2 on Steam and PlayStation in the same room.",
+      "timestamp": "[06:46]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Pepito claims he is not Case's dog but a friend who received a matching hoodie.",
+      "timestamp": "[02:09:11]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Pepito adopts a nonviolent 'diplomatic' playstyle, attempting to talk to Terminids instead of shooting them.",
+      "timestamp": "[02:08:25]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Lead anchor Case Blackwell conducted an extended off-rundown Helldivers 2 operation, progressing from solo confusion to a coordinated four-person Automaton eradication before yielding the desk to Executive Producer Pepito for a sub-goal redemption stream. Pepito, wearing a matching hoodie and insisting on his status as a freelance canine associate rather than a pet, pursued a diplomatic engagement doctrine with Terminid forces and closed the broadcast with a raid.",
+  "_meta": {
+    "vod_id": "7dFZGOzJZlQ",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 71084,
+    "approx_prompt_tokens": 17771,
+    "transcript_lines": 283
+  }
+}
