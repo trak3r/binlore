@@ -108,3 +108,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[]** ([[episodes/2024-03-29|2024-03-29]]): Case Blackwell maintains Leon Kennedy clone reserves for field deployment after months of abandonment. [07:38]
 - **[]** ([[episodes/2024-03-29|2024-03-29]]): Case Blackwell has not relocated apartment; Kendelle moving in creates dual-maternal dynamic with Fiona as prime. [1:49:56]
 - **[]** ([[episodes/2024-03-29|2024-03-29]]): Case Blackwell seeks pre-built PC recommendations for brother Ryan. [1:21:24]
+- **[00:45]** ([[episodes/2024-04-02|2024-04-02]]): Began simulcasting to Instagram in vertical format with 30-second delay [00:45].
+- **[1:04:52]** ([[episodes/2024-04-02|2024-04-02]]): Announced intention to stream daily at 1:00 PM to avoid crossing streams with Kasim [1:04:52].

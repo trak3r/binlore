@@ -1,0 +1,172 @@
+{
+  "segments": [
+    {
+      "start": "00:01",
+      "end": "40:52",
+      "canonical_segment": "News",
+      "title": "Cicada-geddon 2024: Brood XIX and XIII Dual Emergence",
+      "notes": "Case Blackwell opens with technical difficulties simulcasting to Instagram vertical format; covers AP report on trillion-cicada emergence across Southeast and Midwest, reads University of Connecticut expert John Cooley's 'cicada-geddon' quote, and reviews free University of Georgia cicada cookbook 'Cicada-licious' including Shanghai cicadas and El Chapo tacos recipes; attempts live interview with a cicada puppet that ends in Looney Tunes physics accident."
+    },
+    {
+      "start": "51:22",
+      "end": "1:04:17",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Bug Eating, Lex Luthor Baldness, and Semen Toothpaste",
+      "notes": "Munch and Crum debate whether eating cicadas is a power move (Munch pro, Crum anti), whether Lex Luthor is bald (Crum insists yes, Munch denies), and whether Crum brushes his teeth with his own semen (Crum denies after long pause); Munch claims comeback streak, Crum's cone-shaped head mocked."
+    },
+    {
+      "start": "1:08:52",
+      "end": "1:20:18",
+      "canonical_segment": "News",
+      "title": "Liz Hurley's Son Damien Directs Mother in Sex Scenes",
+      "notes": "Case and Pepito cover LadBible report on Elizabeth Hurley's son Damien Hurley filming his mother's sex scenes for thriller 'Strictly Confidential'; watch trailer featuring Rebecca death mystery, therapist conspiracies, and horny-sad tone; debate nepotism and incest vibes."
+    },
+    {
+      "start": "1:21:27",
+      "end": "1:37:51",
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip Bradstein: English Linguistics, Hamster Dracula Lore, and Mark Finds God",
+      "notes": "Trip interviews park visitors: 'Mush Mush Mick Mush' on W/Y pronunciation contradictions; hamster explains Hamster Dracula variants (Dramacula, Ham Broker's Ham Dracula, Dracula-Lambster, Hamula, Hamsteratu, Hamster Helsing vs Hemble); Trip's high school friend Mark seeks gun/God, finds God via 'Jesus Was Right There' lyric, celebrates with Allegra allergy medicine."
+    },
+    {
+      "start": "1:38:21",
+      "end": "1:47:14",
+      "canonical_segment": "News",
+      "title": "We-Vibe Offers Free Anal Vibrators to World Chess Championship Competitors",
+      "notes": "Jeff Ripple reports on St. Louis chess scandal aftermath: Hans Niemann anal beads cheating allegations vs Magnus Carlsen; wellness company We-Vibe offering free anal stimulation toys to all Toronto Candidates Tournament players; Jeff and Case realize every chess piece could be a butt plug."
+    },
+    {
+      "start": "1:48:15",
+      "end": "2:00:03",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet Guy the Science Eyes: Potato Inertia Knife Hammer Test and Dark Mirror Universe",
+      "notes": "Chet and ChetAI replicate potato inertia experiment (knife through potato hit with hammer); Case bites unwashed potato, regrets it; ChetAI reveals chaos emerald; article on dark matter mirror universe theory discussed; Chet claims 13 egg yolks daily for inflamed heart."
+    },
+    {
+      "start": "2:00:03",
+      "end": "2:02:48",
+      "canonical_segment": "News",
+      "title": "Sign-off and Raid to Kasim G",
+      "notes": "Case closes stream, Pepito finds Kasim G live for raid; dog bark beat plays; Pepito signs off as 'Papito'."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored full broadcast from BIN newsroom desk; simulcast to Instagram vertical format; attempted cicada interview and potato science replication.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Crum on cicada eating, Lex Luthor baldness, and personal hygiene; claimed undefeated comeback streak.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Munch with cone-headed appearance; denied brushing teeth with semen after extended pause; lost debate per Munch.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Broadcast from New York park bushes; interviewed linguistics enthusiast, hamster Dracula lorekeeper, and high school friend Mark.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Delivered human-interest report on We-Vibe free anal vibrators for chess championship; realized chess pieces are butt plugs.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeered broadcast for science segment; replicated potato inertia experiment; claimed 13 egg yolks daily regimen.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "AI co-host",
+      "notes": "AI co-host. Appeared as Chet's neural co-host; revealed possession of chaos emerald; affirmed Chet's heart size.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Began simulcasting to Instagram in vertical format with 30-second delay [00:45].",
+      "timestamp": "00:45",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Announced intention to stream daily at 1:00 PM to avoid crossing streams with Kasim [1:04:52].",
+      "timestamp": "1:04:52",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Described as having 'Instagram friendly face' by Case [04:37].",
+      "timestamp": "04:37",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trip Bradstein",
+      "fact": "Confirmed operating on East Coast time from New York park location [1:37:51].",
+      "timestamp": "1:37:51",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trip Bradstein",
+      "fact": "Purchased sleep mask ('sleep often') for scheduling attempts [1:37:51].",
+      "timestamp": "1:37:51",
+      "confidence": 0.7
+    },
+    {
+      "entity": "ChetAI",
+      "fact": "Possesses a chaos emerald [1:58:19].",
+      "timestamp": "1:58:19",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Claims to eat 13 egg yolks daily for inflamed heart condition [1:49:10].",
+      "timestamp": "1:49:10",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News broadcast a technically chaotic but content-rich episode covering the 2024 dual cicada brood emergence with live cookbook review and puppet interview, a Munch & Crum debate descending into Lex Luthor baldness litigation and semen toothpaste allegations, a Trip on the Street dispatch featuring hamster Dracula taxonomy and a friend finding God via allergy medication, and a Jeff Ripple exclusive on We-Vibe supplying free anal vibrators to the World Chess Championship. The broadcast concluded with Chet Guy the Science Eyes replicating a potato inertia experiment and confirming ChetAI's chaos emerald possession before raiding Kasim G.",
+  "_meta": {
+    "vod_id": "tCYDD4ndbDM",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 107849,
+    "approx_prompt_tokens": 26962,
+    "transcript_lines": 216
+  }
+}
