@@ -1,0 +1,190 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "12:00",
+      "canonical_segment": "News",
+      "title": "Melting Polar Ice Slowing Earth's Rotation",
+      "notes": "Case Blackwell and Jeff Ripple cover study on climate change altering Earth's angular velocity; Hype Train interrupts at level 2."
+    },
+    {
+      "start": "12:00",
+      "end": "18:40",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Derailment Over Leap Second Debate",
+      "notes": "Hype Train commandeers feed with freestyle raps over bad beats; mocks subscriber acknowledgments; dies after four minutes."
+    },
+    {
+      "start": "18:40",
+      "end": "21:00",
+      "canonical_segment": "News",
+      "title": "Post-Hype Train News Wrap",
+      "notes": "Case and Jeff attempt to finish Earth rotation story; Chet interrupts upon hearing 'science'."
+    },
+    {
+      "start": "21:00",
+      "end": "41:00",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet's Water Chugging Experiment Simulates Polar Ice Melt",
+      "notes": "Chet Manscape declares himself sole science authority; chugs massive water volumes to test rotational physics on office chair; ChetAI provides reluctant support."
+    },
+    {
+      "start": "41:00",
+      "end": "45:00",
+      "canonical_segment": "News",
+      "title": "Case Reclaims Desk After Science Stunt",
+      "notes": "Case jokes about sympathetic water retention; transitions to Use the Internet segment."
+    },
+    {
+      "start": "45:00",
+      "end": "51:00",
+      "canonical_segment": "Use the Internet",
+      "title": "Peter Gibbon Use the Internet: Adam Corolla Podcast Scam",
+      "notes": "Peter Gibbon emerges from wall to review viewer submissions; watches Erin Reynolds expose fake Adam Corolla podcast invitation."
+    },
+    {
+      "start": "51:00",
+      "end": "53:30",
+      "canonical_segment": "Use the Internet",
+      "title": "Kendall Call-In: Road Rage Windshield Wiper Tactic",
+      "notes": "Kendelle calls in while driving; describes aggressive tailgater; considers windshield wiper fluid retaliation."
+    },
+    {
+      "start": "53:30",
+      "end": "1:26:00",
+      "canonical_segment": "Use the Internet",
+      "title": "Use the Internet Continues: Wrestling, Elephant Rampage, Grave Cleaning",
+      "notes": "Peter and Case watch apex wrestling clip, decorated elephant destroying vehicles in India, limber burglars, sports jersey swap, confetti celebration, and grave cleaning TikTok."
+    },
+    {
+      "start": "1:26:00",
+      "end": "1:48:00",
+      "canonical_segment": "Amongst the Web",
+      "title": "Trent at the Movies: Doctor Who, Unfrosted, Bad Boys, Pushpa",
+      "notes": "Trent reviews trailers for Disney+ Doctor Who, Jerry Seinfeld's Unfrosted, Bad Boys: Ride or Die, and Indian action film Pushpa 2."
+    },
+    {
+      "start": "1:48:00",
+      "end": "2:04:00",
+      "canonical_segment": "Use the Internet",
+      "title": "Peter Gibbon Theme Song Creation: Rocket Peter",
+      "notes": "Chat votes for Rocket Man parody; Case uses ChatGPT to write lyrics; Peter performs 'Rocket Peter' over instrumental; declares it his first LP."
+    },
+    {
+      "start": "2:04:00",
+      "end": "2:06:39",
+      "canonical_segment": "News",
+      "title": "Pepito Raid Sign-Off",
+      "notes": "Pepito selects Gina Darling for raid; Case announces Resident Evil playthrough tomorrow; stream ends with raid."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Delivered Earth rotation/climate change story; interrupted by Hype Train and Chet's science desk takeover.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Derailed broadcast with freestyle raps over terrible beats; reached level 2 before dying four minutes in.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "recurring",
+      "notes": "recurring. Provided reluctant analytical support during Chet's water experiment; fact-checked spin times.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Hosted Use the Internet from wall; performed AI-generated 'Rocket Peter' theme song parody; refused to leave wall.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Called in while driving; described tailgater confrontation and windshield wiper fluid retaliation tactic.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "correspondent",
+      "notes": "correspondent. Hosted trailer review segment covering Doctor Who, Unfrosted, Bad Boys 4, and Pushpa 2.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Chet Guy the Science Eyes",
+      "beat": "[21:18] Chet declares himself sole science authority after hearing 'science' on air; performs water chugging experiment to prove Earth rotation physics.",
+      "timestamp": "21:18"
+    },
+    {
+      "storyline": "Peter Gibbon Wall Arc",
+      "beat": "[1:49:21] Peter refuses to leave wall despite theme song creation; performs 'Rocket Peter' parody; Case raids Gina Darling instead of sending Peter to roof.",
+      "timestamp": "1:49:21"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "21:18",
+      "entity": "Chet",
+      "fact": "Chet Manscape declares himself 'the new science representative of this show' and claims exclusive right to read science stories.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "30:37",
+      "entity": "Chet",
+      "fact": "Chet chugs multiple large cups of water to simulate polar ice melt effect on rotational velocity; spins in office chair before and after.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "43:22",
+      "entity": "Pepito",
+      "fact": "Pepito urinated on stacked iPhones in corner while watching Chet's water stunt; claims it was to 'absorb the pee'.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:53:27",
+      "entity": "Peter Gibbon",
+      "fact": "Peter Gibbon's first theme song 'Rocket Peter' created via ChatGPT parody of Elton John's Rocket Man; performed over instrumental.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:51:55",
+      "entity": "",
+      "fact": "Chat poll selected 'Rocket Man' over Wonderwall, Yogi Bear theme, Family Guy, and Sinatra 'Kick in the Head' for Peter's theme.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell's broadcast opened with Jeff Ripple covering a Nature study on melting polar ice slowing Earth's rotation, only to be derailed by a level-2 Hype Train freestyle. Chet Manscape then invoked the science trigger word to seize the desk, conducting a live water-chugging experiment to simulate planetary mass redistribution. Peter Gibbon emerged from the walls for Use the Internet, exposing an Adam Corolla podcast scam and debuting his AI-generated 'Rocket Peter' theme song. Trent closed with trailer reviews before Pepito executed a raid on Gina Darling.",
+  "_meta": {
+    "vod_id": "i6D48dIRi0w",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 111898,
+    "approx_prompt_tokens": 27974,
+    "transcript_lines": 221
+  }
+}

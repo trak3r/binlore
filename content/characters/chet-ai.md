@@ -62,3 +62,5 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 - **[12:03]** ([[episodes/2026-05-26|2026-05-26]]): ChetAI is a synthetic neural network co-host that operates from the studio monitors alongside Chet. It possesses extensive training data and can translate foreign medical literature, though it occasionally exhibits glitches in speech recognition.
 - **[12:03]** ([[episodes/2026-05-26|2026-05-26]]): Chet Manscape uses specialized blue-light-filtering eyewear and maintains a distinctive appearance with large laboratory optical microscope positioned directly on the news desk.
 - **[[49:02]]** ([[episodes/2024-03-27|2024-03-27]]): Created by reprogramming an AI Rooney model with Chet's brain; Chet holds LLCs for the IP preventing rename.
+- **[21:18]** ([[episodes/2024-03-28|2024-03-28]]): Chet Manscape declares himself 'the new science representative of this show' and claims exclusive right to read science stories.
+- **[30:37]** ([[episodes/2024-03-28|2024-03-28]]): Chet chugs multiple large cups of water to simulate polar ice melt effect on rotational velocity; spins in office chair before and after.
