@@ -61,7 +61,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (34)</summary>
+<summary>Earlier appearances (35)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -72,6 +72,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
 | [[episodes/2025-06-02|2025-06-02]] | executive producer. |
+| [[episodes/2024-04-16|2024-04-16]] | Served as executive producer, declared his own birthday as 'April Day,' and performed the ChatGPT-generated theme song 'Living Pepito Loco.' |
 | [[episodes/2024-04-04|2024-04-04]] | executive producer. |
 | [[episodes/2024-03-29|2024-03-29]] | Executive producer executes remote field takeover as Agent Papito, piloting canine avatar through aggressive play and scent protocols. |
 | [[episodes/2024-03-21|2024-03-21]] | executive producer. |

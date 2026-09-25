@@ -1,0 +1,182 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Salmon Sperm Facial Trend",
+      "start": "00:01:25",
+      "end": "00:21:29",
+      "notes": "Case and Jeff Ripple investigate the viral trend of salmon sperm facials, citing Jennifer Aniston and TikTokers, debating peptide science, and interviewing a talking salmon persona named John Salmon."
+    },
+    {
+      "canonical_segment": "Trent at the Movies",
+      "title": "Trailer Roundup: First and Ten, Pac-Man, AI Romance, Mulaney",
+      "start": "00:21:29",
+      "end": "00:52:57",
+      "notes": "Trent and parole officer Chris review trailers for the 1984 HBO football series First and Ten, a Pac-Man keytar music video, The Tattooist of Auschwitz, the fully AI-generated show Next Stop Paris on TCLtv, and John Mulaney's live Netflix series Everybody's in LA."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Willy Wonka LA Experience Recreation",
+      "start": "00:52:57",
+      "end": "01:12:02",
+      "notes": "Case and Trent discuss the House of Illuminati LA recreation of the viral Glasgow Willy Wonka event, debating ironic bullying, the Oompa Loompa's return, and non-refundable $44 tickets for April 28."
+    },
+    {
+      "canonical_segment": "Hype Train",
+      "title": "Extended Pac-Man Freestyle & Wonka Sub Goal",
+      "start": "01:12:02",
+      "end": "01:38:58",
+      "notes": "Hype Train delivers a marathon freestyle over multiple Pac-Man trap beats with panther animations, driving a sub goal that results in Case purchasing Wonka tickets live on air."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "title": "Park Interviews: Salmon Donor, Iguana Walker, Trump Principal, Peta Pumpkin",
+      "start": "01:38:58",
+      "end": "02:01:05",
+      "notes": "Trip Bradstein interviews Dudley Berkshire (donating sperm to salmon), an iguana walker who gets his pet crushed, Baron Trump's former principal (a self-described 'hormonger' with a dipping dot spoon brain injury), and Peter Pumpkin/Peta defending dancing panthers."
+    },
+    {
+      "canonical_segment": "Conspiracy Time",
+      "title": "Escaped Dobby Summoning LA Takeover",
+      "start": "02:01:05",
+      "end": "02:13:02",
+      "notes": "Clementine analyzes footage of a Dobby escaped from his basement, claiming it is casting a spell to summon a Dobby invasion of Los Angeles from a manicured hill, and asserts viewers are immune due to 'truth strengthening.'"
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Bob Shepherd 1998 Yankees PA Announcer Interview",
+      "start": "02:13:02",
+      "end": "02:21:20",
+      "notes": "Case and Pepito watch a 1998 archive interview with longtime Yankees PA announcer Bob Shepherd, discussing his 48-year career, euphonious name pronunciations, and a prank at-bat announcement."
+    },
+    {
+      "canonical_segment": "DJ Newsic",
+      "title": "Pepito Theme 'Living Pepito Loco' & Raid Outro",
+      "start": "02:21:20",
+      "end": "02:38:18",
+      "notes": "Pepito performs a ChatGPT-generated parody of 'La Vida Loca' titled 'Living Pepito Loco,' followed by DJ Newsic's musical outro and a raid to Kassim."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the broadcast, declared Pepito's birthday, bought tickets to the Willy Wonka LA experience, and hosted the Pepito theme song finale.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "Served as executive producer, declared his own birthday as 'April Day,' and performed the ChatGPT-generated theme song 'Living Pepito Loco.'",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Reported on the salmon sperm facial trend and debated peptide science before transitioning to movies.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "correspondent",
+      "notes": "correspondent. Hosted Trent at the Movies, reviewing trailers for First and Ten, a Pac-Man music video, The Tattooist of Auschwitz, the AI show Next Stop Paris, and John Mulaney's Everybody's in LA.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "role": "guest",
+      "notes": "guest. Appeared as Trent's parole officer during the movie segment, providing reluctant commentary on trailers.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Commandeered the broadcast with an extended freestyle rap over Pac-Man beats, featuring panther animations and driving a sub goal for the Wonka event.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted street interviews with a salmon sperm donor, an iguana walker, Baron Trump's former principal, and Peter Pumpkin/Peta.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Clementine",
+      "role": "correspondent",
+      "notes": "correspondent. Investigated an escaped Dobby from his basement, claiming it was summoning a Dobby invasion of Los Angeles.",
+      "canonical_name": "Clementine",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Pepito declared his birthday as 'April Day' (self-declared).",
+      "timestamp": "[00:24:05]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case has a UCB show on April 21 at 10:30 with John Madison and Tim.",
+      "timestamp": "[01:07:10]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case purchased two tickets to the Willy Wonka LA experience for April 28.",
+      "timestamp": "[01:34:22]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Clementine's escaped Dobby is allegedly summoning other Dobbies to take over Los Angeles from a manicured hill.",
+      "timestamp": "[02:03:41]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Clementine claims viewers are immune to Dobby magic due to 'truth strengthening.'",
+      "timestamp": "[02:08:10]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Pepito's theme song 'Living Pepito Loco' was generated via ChatGPT parody of 'La Vida Loca.'",
+      "timestamp": "[02:31:00]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered the salmon sperm facial trend with a live salmon interview, reviewed trailers including an AI-generated romance series, and dissected the ironic LA recreation of the Glasgow Willy Wonka disaster. An extended Hype Train freestyle drove a sub goal that compelled Case to purchase Wonka tickets on air, while Trip Bradstein interviewed a salmon sperm donor, an iguana walker, and Baron Trump's former principal. Clementine warned of a Dobby invasion of Los Angeles, Pepito debuted a ChatGPT-generated birthday theme song, and the broadcast closed with a raid to Kassim.",
+  "_meta": {
+    "vod_id": "h3RpC3MAvRg",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 129025,
+    "approx_prompt_tokens": 32256,
+    "transcript_lines": 311
+  }
+}
