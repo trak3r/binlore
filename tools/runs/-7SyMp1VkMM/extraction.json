@@ -1,0 +1,59 @@
+{
+  "segments": [
+    {
+      "start": "00:00:25",
+      "end": "01:53:40",
+      "canonical_segment": "News",
+      "title": "Resident Evil 4 Main Campaign Completion",
+      "notes": "Case Blackwell plays through the final chapters of the Resident Evil 4 remake, defeating Saddler and rescuing Ashley Graham, concluding the main campaign after an extended castle/island playthrough."
+    },
+    {
+      "start": "01:53:40",
+      "end": "03:06:47",
+      "canonical_segment": "News",
+      "title": "Separate Ways DLC Debut",
+      "notes": "Blackwell purchases and begins the Separate Ways DLC campaign playing as Ada Wong, exploring the castle opening sequence before ending the broadcast."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors a solo gaming broadcast, completing the Resident Evil 4 remake main campaign and debuting the Separate Ways DLC.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Reports Kendelle is attending a bachelorette party off-site [00:57].",
+      "timestamp": "00:57",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Mentions impending move from current apartment but states it has not yet occurred [02:04].",
+      "timestamp": "02:04",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Mouse hardware failure noted during gameplay, affecting aim precision [01:07:56].",
+      "timestamp": "01:07:56",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Lead anchor Case Blackwell conducts an unscheduled Saturday gaming broadcast, completing the Resident Evil 4 remake main campaign after a months-long playthrough and immediately purchasing the Separate Ways DLC to begin Ada Wong's campaign. No other network personnel appear on-air.",
+  "_meta": {
+    "vod_id": "-7SyMp1VkMM",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 92185,
+    "approx_prompt_tokens": 23046,
+    "transcript_lines": 297
+  }
+}
