@@ -56,7 +56,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-06-22|2026-06-22]] | High-velocity musical correspondent who confesses to cheating on his Panther girlfriend, discusses beats, and provides cultural commentary throughout the pre-show. |
 
 <details>
-<summary>Earlier appearances (22)</summary>
+<summary>Earlier appearances (23)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -76,6 +76,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2025-06-11|2025-06-11]] | Commandeered the birthday broadcast with freestyle raps, hell lore, and a level-13 surge while insisting every hype train is his birthday. |
 | [[episodes/2025-06-02|2025-06-02]] | hype correspondent. |
 | [[episodes/2025-05-27|2025-05-27]] | musical/cultural interruption. |
+| [[episodes/2024-03-27|2024-03-27]] | musical interruption. |
 | [[episodes/2024-02-20|2024-02-20]] | hype correspondent. |
 | [[episodes/2024-02-15|2024-02-15]] | hype announcer. |
 | [[episodes/2024-01-05|2024-01-05]] | musical correspondent. |
@@ -139,3 +140,4 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[52:50]** ([[episodes/2024-02-07|2024-02-07]]): Reached level 12 hype train, passed out and 'sunk back to hell' [52:50]
 - **[]** ([[episodes/2024-03-01|2024-03-01]]): Claims mother is Kurt Russell, father is the devil; goes to hell when unfollowed [18:11-20:42]
 - **[27:47]** ([[episodes/2024-03-18|2024-03-18]]): Hype Train declares war on Bugs Bunny with Acme dynamite and military hardware.
+- **[[34:46]]** ([[episodes/2024-03-27|2024-03-27]]): Reached level 10; Case acknowledged need to update visual enclosure due to time spent together.

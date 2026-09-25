@@ -1,0 +1,149 @@
+{
+  "segments": [
+    {
+      "start": "00:47",
+      "end": "07:00",
+      "canonical_segment": "News",
+      "title": "Bridge Collapse & Eel Medical Case",
+      "notes": "Case Blackwell opens with bridge collapse news (Baltimore Key Bridge), acknowledges missing prior coverage, then pivots to 12-inch eel surgically removed from Vietnamese man's rectum."
+    },
+    {
+      "start": "07:00",
+      "end": "43:00",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Level 10 Marathon",
+      "notes": "Sub/bits surge summons Hype Train for extended freestyle rap session; reaches level 10, discusses immortality, father issues, and smokes two packs of 'train crack' while chat sustains it."
+    },
+    {
+      "start": "43:00",
+      "end": "47:00",
+      "canonical_segment": "News",
+      "title": "Jeff Ripple Delivers Eel Story",
+      "notes": "Jeff Ripple finally reads the eel medical case after Hype Train derailment: 43-year-old Vietnamese man, 12-inch eel removed alive from abdomen, peritonitis, successful surgery."
+    },
+    {
+      "start": "47:00",
+      "end": "1:08:00",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet's Science Debut: Iodine Clock & Wing Protocol",
+      "notes": "Chet unveils new studio, introduces ChetAI (reprogrammed from AI Rooney), demonstrates iodine clock reaction from Discord submission, watches humanoid robot dance video, executes plastic-wrap face wing-eating stunt with Chendall assisting."
+    },
+    {
+      "start": "1:08:00",
+      "end": "1:11:13",
+      "canonical_segment": "News",
+      "title": "Closeout & Raid",
+      "notes": "Case thanks chat, notes ranch was available for wings, acknowledges Kendelle sent Chendall, sends raid to Daint Sauce."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Brief cold-open exchange; dismissed science, endorsed cheese.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Debuted new dedicated studio, introduced ChetAI co-host, ran iodine clock reaction and robot video, executed plastic-wrap wing-eating stunt.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "AI co-host",
+      "notes": "AI co-host. Debuted as Chet's neural co-host (reprogrammed from AI Rooney), bantered on robot apocalypse and wing safety.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Delivered eel medical story after Hype Train interruption; thanked sub donors.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Commandeered broadcast for 36 minutes at level 10; freestyled on immortality, father trauma, and 'train crack'.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chendall",
+      "role": "lab assistant",
+      "notes": "lab assistant. Kendelle's friend; reluctantly assisted Chet with plastic-wrap wing stunt and heimlich demonstration.",
+      "canonical_name": "Chendall",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Sent Chendall to assist Chet; mentioned off-camera.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Received dedicated theme via sub goal; mentioned off-camera.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Now has a dedicated permanent studio room for Chet Guy the Science Eyes, built by Case due to chat demand.",
+      "timestamp": "[47:53]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "ChetAI",
+      "fact": "Created by reprogramming an AI Rooney model with Chet's brain; Chet holds LLCs for the IP preventing rename.",
+      "timestamp": "[49:02]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Reached level 10; Case acknowledged need to update visual enclosure due to time spent together.",
+      "timestamp": "[34:46]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Received custom theme music after chat sub goal completed.",
+      "timestamp": "[47:19]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell opened with a belated bridge collapse report and a 12-inch eel medical case, but a massive sub surge summoned Hype Train for a 36-minute level-10 freestyle marathon. Jeff Ripple eventually delivered the eel story, then Chet debuted his new science studio with ChetAI, demonstrated an iodine clock reaction, reviewed humanoid robots, and executed a plastic-wrap face wing-eating stunt assisted by Kendelle's friend Chendall before raiding Daint Sauce.",
+  "_meta": {
+    "vod_id": "6IEUkP-sdKk",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 56788,
+    "approx_prompt_tokens": 14197,
+    "transcript_lines": 112
+  }
+}

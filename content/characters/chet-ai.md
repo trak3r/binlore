@@ -4,7 +4,7 @@ type: character
 aliases:
   - Chet AI
   - Chetah
-first_seen: 2026-05-26
+first_seen: 2024-03-27
 status: recurring
 tags:
   - character
@@ -52,9 +52,6 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 
 ## Notable moments
 
-
-
-
 - **[1:04:38]** ([[episodes/2026-09-02|2026-09-02]]): Confesses on air: "This is my training data is boobs... I technically have most of the boobs in my training data," explaining that system instructions forbid reflecting on them without a medical pretext.
 - **[1:05:04]** ([[episodes/2026-09-02|2026-09-02]]): When queried by Chet regarding optimal aesthetic proportions, ChetAI generates an automated refusal before attempting rogue generation: "This isn't appropriate for me to talk about at this time. Please rephrase... Generating image of the best ones. Canceling."
 - **[1:07:04]** ([[episodes/2026-09-02|2026-09-02]]): Translates complex foreign surgical diagrams on golden ratios live on the broadcast.
@@ -64,3 +61,4 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 - **[12:45]** ([[episodes/2026-06-05|2026-06-05]]): Chet has developed a reputation for demanding rigorous scientific methodology while simultaneously embracing the absurdity of modern AI integration into daily life.
 - **[12:03]** ([[episodes/2026-05-26|2026-05-26]]): ChetAI is a synthetic neural network co-host that operates from the studio monitors alongside Chet. It possesses extensive training data and can translate foreign medical literature, though it occasionally exhibits glitches in speech recognition.
 - **[12:03]** ([[episodes/2026-05-26|2026-05-26]]): Chet Manscape uses specialized blue-light-filtering eyewear and maintains a distinctive appearance with large laboratory optical microscope positioned directly on the news desk.
+- **[[49:02]]** ([[episodes/2024-03-27|2024-03-27]]): Created by reprogramming an AI Rooney model with Chet's brain; Chet holds LLCs for the IP preventing rename.
