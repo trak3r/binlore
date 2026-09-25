@@ -143,3 +143,4 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[27:47]** ([[episodes/2024-03-18|2024-03-18]]): Hype Train declares war on Bugs Bunny with Acme dynamite and military hardware.
 - **[[34:46]]** ([[episodes/2024-03-27|2024-03-27]]): Reached level 10; Case acknowledged need to update visual enclosure due to time spent together.
 - **[[13:00]]** ([[episodes/2024-04-23|2024-04-23]]): Golden Kappa Train variant 'King Golden Kappa Toran' claims 6,000-year immortality and a curse where anything inserted into his rectum — including bits, subs, crowns, stone tablets, and family members — transmutes to gold.
+- **[1:24:31]** ([[episodes/2024-04-25|2024-04-25]]): Claims King Kappa ghoul touched his eyes with ass, turning them gold [1:24:31].

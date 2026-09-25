@@ -1,0 +1,198 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "04:16",
+      "canonical_segment": "News",
+      "title": "Pre-show chat: Fallout 4, Resident Evil 4, Elsie game",
+      "notes": "Case chats with chat about gaming, Resident Evil 4 DLC completion, and upcoming Elsie fighting game with Fiona Nova voice cast."
+    },
+    {
+      "start": "04:16",
+      "end": "07:38",
+      "canonical_segment": "News",
+      "title": "Peter Gibbon appears as dog streamer",
+      "notes": "Peter Gibbon (as a dog) discusses Elsie game voice cast and claims he'll become an Elsie streamer."
+    },
+    {
+      "start": "07:38",
+      "end": "27:10",
+      "canonical_segment": "News",
+      "title": "Rick Triple on campus protests and Israel-Hamas war",
+      "notes": "Rick discusses nationwide college protests, police crackdowns, ABC coverage, White House response, and delivers nihilistic commentary on protest suppression as corporate training."
+    },
+    {
+      "start": "27:10",
+      "end": "54:56",
+      "canonical_segment": "News",
+      "title": "Trent at the Movies: Mayor of Kingstown, The Contestant, Jim Henson doc, Under the Rainbow, Blink Twice",
+      "notes": "Trent reviews trailers for Mayor of Kingstown S3, Japanese reality show documentary The Contestant, Jim Henson Disney+ doc, 1981 Chevy Chase film Under the Rainbow, and Zoe Kravitz's Blink Twice starring Channing Tatum."
+    },
+    {
+      "start": "56:06",
+      "end": "1:22:29",
+      "canonical_segment": "News",
+      "title": "AI predicts political beliefs from neutral faces; Case neutral face experiment",
+      "notes": "Study claims facial recognition predicts political orientation (r=0.22). Case performs neutral face test for chat and ChatGPT; chat guesses 'hog party', ChatGPT refuses. Case declares study fails."
+    },
+    {
+      "start": "1:22:29",
+      "end": "1:29:57",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train appears with gold eyes, performs neutral rap",
+      "notes": "Hype Train claims King Kappa ghoul turned eyes gold, delivers freestyle about staying neutral, voting for both candidates, and neutering people."
+    },
+    {
+      "start": "1:29:57",
+      "end": "1:54:51",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Joe Rogan parody: smart appliances, nuclear reactor workout, butthole tanning, human hunting, horror tunnel",
+      "notes": "Joe Rogan (Case) discusses smart fridge/toilet parenting, squatting in Russian nuclear reactor for gains, mirror-on-belt butthole tanning, hunting humans with Bob Costas and Screech actor, and Jamie's horror tunnel studio entrance."
+    },
+    {
+      "start": "1:54:51",
+      "end": "2:09:18",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum debate lemon drop mascot, Foghorn Leghorn KKK, Yeezy porn",
+      "notes": "Munch insists lemon drop mascot is a baby; Crum says adult man. Both agree Foghorn Leghorn is in chicken KKK. Debate Yeezy porn vs regular porn; Crum argues for new genre, Munch defends established industry."
+    },
+    {
+      "start": "2:09:18",
+      "end": "2:12:19",
+      "canonical_segment": "News",
+      "title": "Pepito raids Spinachy",
+      "notes": "Pepito takes raid command from Case, raids Spinachy channel, signs off for Thursday."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors broadcast; runs neutral face experiment for AI political prediction study; performs Joe Rogan parody with horror tunnel lore.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Appears as dog streamer discussing Elsie fighting game voice cast.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "host of Amongst the Web",
+      "notes": "host of Amongst the Web. Delivers nihilistic take on campus protests, frames crackdowns as corporate training, claims deep state experience.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "correspondent",
+      "notes": "correspondent. Hosts Trent at the Movies trailer segment covering Mayor of Kingstown, The Contestant, Jim Henson doc, Under the Rainbow, Blink Twice.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Interrupts with gold eyes from King Kappa ghoul; performs neutral-themed freestyle rap.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Briefly acknowledged by Hype Train before Hype Train segment.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Referenced by Case as busy confirming race science during AI segment.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates Crum on lemon drop mascot identity, Foghorn Leghorn KKK membership, and Yeezy porn vs regular porn.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Counters Munch on lemon drop mascot, agrees on Foghorn Leghorn KKK, argues Yeezy porn deserves chance as new genre.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Hype Train",
+      "fact": "Claims King Kappa ghoul touched his eyes with ass, turning them gold [1:24:31].",
+      "timestamp": "1:24:31",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Joe Rogan (parody)",
+      "fact": "Studio entrance is a horror tunnel built by Jamie after $10M payout, filled with creepy crawlies and mac and cheese [1:46:24].",
+      "timestamp": "1:46:24",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Joe Rogan (parody)",
+      "fact": "Wears man-skirt with mirror on belt to tan butthole directly with sunlight [1:37:43].",
+      "timestamp": "1:37:43",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Joe Rogan (parody)",
+      "fact": "Works out in Russian nuclear reactor for triple growth rate, aims to look like Tetsuo from Akira [1:34:24].",
+      "timestamp": "1:34:24",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Foghorn Leghorn",
+      "fact": "Confirmed by Munch and Crum as member of chicken-version KKK [1:59:22].",
+      "timestamp": "1:59:22",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Performed neutral face experiment for chat and ChatGPT to test AI political prediction study (r=0.22) [1:15:48].",
+      "timestamp": "1:15:48",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell opens with gaming chat before Peter Gibbon appears as a dog streamer hyping the Elsie fighting game. Rick Triple delivers a cynical breakdown of nationwide campus protests over Gaza, framing police crackdowns as corporate compliance training. Trent at the Movies reviews trailers including Mayor of Kingstown, a Japanese reality-show documentary, a Jim Henson tribute, a 1981 Chevy Chase comedy, and Zoe Kravitz's Blink Twice. Case tests an AI study claiming to predict politics from neutral faces (r=0.22), outperforming both chat and ChatGPT. Hype Train interrupts with gold eyes and a neutrality rap. The Jo Rogen Experience spirals into smart-appliance parenting, nuclear-reactor workouts, butthole tanning via belt mirror, human hunting with Bob Costas, and a horror-tunnel studio entrance. Munch & Crum close by debating whether the lemon-drop mascot is a baby, confirming Foghorn Leghorn's chicken-KKK membership, and clashing over Yeezy porn versus traditional porn. Pepito raids Spinachy to end the broadcast.",
+  "_meta": {
+    "vod_id": "BCW2rBdZf2A",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 119397,
+    "approx_prompt_tokens": 29849,
+    "transcript_lines": 221
+  }
+}

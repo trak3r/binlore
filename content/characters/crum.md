@@ -58,7 +58,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (47)</summary>
+<summary>Earlier appearances (48)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -74,6 +74,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
 | [[episodes/2024-07-20|2024-07-20]] | Loses wiki feet, wins wife verification, sweet vs salty, Alien vs Predator, carnivore diet, gold vs porcelain teeth, orphan meat, spoon vs… |
+| [[episodes/2024-04-25|2024-04-25]] | debate analyst. |
 | [[episodes/2024-04-17|2024-04-17]] | debate analyst. |
 | [[episodes/2024-04-10|2024-04-10]] | debate analyst. |
 | [[episodes/2024-04-04|2024-04-04]] | debate analyst. |
