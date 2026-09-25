@@ -114,3 +114,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[00:57]** ([[episodes/2024-04-13|2024-04-13]]): Reports Kendelle is attending a bachelorette party off-site [00:57].
 - **[02:04]** ([[episodes/2024-04-13|2024-04-13]]): Mentions impending move from current apartment but states it has not yet occurred [02:04].
 - **[01:07:56]** ([[episodes/2024-04-13|2024-04-13]]): Mouse hardware failure noted during gameplay, affecting aim precision [01:07:56].
+- **[[10:32]]** ([[episodes/2024-04-17|2024-04-17]]): Claims third divorce in progress during Rick Triple segment.

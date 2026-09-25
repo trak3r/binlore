@@ -1,0 +1,188 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "00:19",
+      "end": "08:45",
+      "title": "Cold Open & Heart Audio Sponsorship",
+      "notes": "Pepito delivers station sign-on; Case introduces Heart Audio Cable as month-long sponsor with futuristic spokesperson prop; banter about multi-platform chat visibility and Dave Marr podcast plug."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "08:45",
+      "end": "18:45",
+      "title": "Israel-Iran Escalation with Rick Triple",
+      "notes": "Case and CIA correspondent Rick Triple cover Netanyahu's defiance of Western restraint calls after Iranian missile strike; Rick claims third divorce and frames U.S. as giving Israel 'keys and unlimited weapons.'"
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "start": "19:51",
+      "end": "53:02",
+      "title": "Discord Video Roulette with Peter Gibbon",
+      "notes": "Case and stowaway Peter Gibbon watch viewer-submitted clips: USPS dog safety video, Grimes' disastrous Coachella DJ set, Mike Tyson training, survivalist with puppies, Roseanne at Mar-a-Lago, rodeo anti-communist rant, Minnie Mouse upskirt incident prompting Peter's ban."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "start": "53:37",
+      "end": "01:07:27",
+      "title": "Marriage, Liberty & Puppy Kill Shelters",
+      "notes": "Munch and Crum debate marriage vs. solipsistic liberty; Crum admits zero sex life, Munch reveals 30-year marriage to Belulia; argument spirals into kill-shelter complicity and Pepito replacement poll."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "01:09:03",
+      "end": "01:18:13",
+      "title": "Brazilian Corpse Bank Loan",
+      "notes": "Case and Liliana cover Erika Vera Nunez wheeling dead uncle into Rio bank for 17,000 reais loan; teller spots head loll, police confirm pre-mortem; Liliana roasts Case's gender-identity deflection."
+    },
+    {
+      "canonical_segment": "Hype Train",
+      "start": "01:18:13",
+      "end": "01:24:49",
+      "title": "Fiddle Music Mental Breakdown",
+      "notes": "Hype Train arrives claiming mental unwellness, demands fiddle beats, delivers freestyle about destroying a club with train-sized ass; falls asleep mid-rant."
+    },
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "start": "01:24:49",
+      "end": "01:52:09",
+      "title": "Whale Communication & Fake Semen Science",
+      "notes": "Chet and ChetAI discuss SETI Institute's humpback whale 'hello' exchange as alien-contact proxy; Chet pivots to kitchen-science fake semen recipes, tests mayo/Avino lotion/olive oil blend on stream."
+    },
+    {
+      "canonical_segment": "DJ Newsic",
+      "start": "01:52:09",
+      "end": "02:10:02",
+      "title": "VR Porn Sperm Bank & Alternate-Dimension Rap",
+      "notes": "DJ Newsic on roof with laser sync issues covers Manchester Cryos sperm bank offering VR Pornhub headsets; alternate-dimension DJ Music raps about 24/7 VR porn donation trap; Heart Audio re-plug and raid to BlueScreen."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors full broadcast; juggles Israel coverage, internet roulette, science desk hijack, and sponsor reads while deflecting gender-identity jokes.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold-open sign-on; promises animated emotes; produces Munch & Crum theme; fields Crum's replacement poll suggestion.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick Triple",
+      "role": "correspondent",
+      "notes": "correspondent. CIA co-worker persona; claims third divorce during Israel segment; frames U.S. policy as negligent parenting of Israel.",
+      "canonical_name": "Rick Triple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Co-hosts Discord video segment from wall residence; banned for Minnie Mouse upskirt joke but vows return from crawlspace.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defends 30-year marriage to Belulia; attacks Crum's solipsistic liberty; claims victory in debate score.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Advocates army-of-one solipsism; admits zero sex life; loses marriage debate; suggests Pepito replace Munch.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Co-anchors corpse-loan story; mocks Case's gender-identity nonchalance; reacts to security footage.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Arrives mentally unwell; demands fiddle beats; freestyles about train destroying club; falls asleep on air.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Triggered by 'science' keyword; presents whale-alien proxy research; conducts live fake semen kitchen experiment.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "AI co-host",
+      "notes": "AI co-host. Confirms whale communication as first human-humpback exchange; claims credit for Case's whale noises; times sponsor read poorly.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Claims third divorce in progress during Rick Triple segment.",
+      "timestamp": "[10:32]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Formally banned from broadcast for Minnie Mouse upskirt joke but vows to continue watching from wall crawlspace.",
+      "timestamp": "[51:34]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Conducts live fake semen experiment using mayonnaise, Avino daily moisturizer, and olive oil; declares result 'not safe for stomach.'",
+      "timestamp": "[01:49:17]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Heart Audio",
+      "fact": "Confirmed as month-long sponsor; Heart Audio Cable spokesperson prop appears in cold open and close.",
+      "timestamp": "[01:25]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covers Israel's defiance of Western restraint after Iran's missile barrage, then descends into Discord video chaos featuring Grimes' Coachella meltdown and a Brazilian corpse-loan scheme. Munch and Crum debate marriage versus solipsistic liberty while Chet hijacks the broadcast for whale-alien communication research and a kitchen-science fake semen taste test. The broadcast closes with DJ Newsic's roof-top VR porn sperm bank story and an alternate-dimension rap before raiding out.",
+  "_meta": {
+    "vod_id": "h0joE2H03nQ",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 112336,
+    "approx_prompt_tokens": 28084,
+    "transcript_lines": 259
+  }
+}
