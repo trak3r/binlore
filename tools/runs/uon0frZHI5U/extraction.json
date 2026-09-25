@@ -1,0 +1,105 @@
+{
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:28:00",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet Manscape Character Creation",
+      "notes": "Case and Kendelle meticulously sculpt the Chet Manscape avatar in Fallout 4's character creator, debating chin geometry, roguish handsomeness, and SPECIAL allocation before vault entry."
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:50:00",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Vault 111 Cryosleep & Wife's Murder",
+      "notes": "Chet survives nuclear detonation, witnesses spouse's execution by Institute agents, and escapes cryogenic suspension into 2287 Commonwealth."
+    },
+    {
+      "start": "00:50:00",
+      "end": "02:00:00",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Sanctuary Restoration & Hatchet Rampage",
+      "notes": "Chet scraps entire neighborhood for shelf materials, adopts canine companion Bigito, and clears Corvega Assembly Plant using melee-focused Nerd Rage build."
+    },
+    {
+      "start": "02:00:00",
+      "end": "03:00:00",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Minutemen General Promotion & Settlement Management",
+      "notes": "Chet earns General rank, retrieves locket for Abernathy farmers, plants corn/tato crops, and assigns settlers to water pumps."
+    },
+    {
+      "start": "03:00:00",
+      "end": "04:19:00",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Abernathy Farm Defense & Farming Expansion",
+      "notes": "Chet defends farm from raiders, establishes supply lines, and maxes out food production while leveling past 20."
+    },
+    {
+      "start": "04:19:00",
+      "end": "04:21:01",
+      "canonical_segment": "News",
+      "title": "Sign-off & Raid to dank sauce",
+      "notes": "Case ends four-hour Fallout 4 session, thanks subscribers, and raids GTA 5 roleplay streamer dank sauce with 'Chet axe raid' branding."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors four-hour Fallout 4 playthrough as Chet Manscape, sculpting avatar with Kendelle before embarking on melee-only Commonwealth rampage.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Co-pilots Chet's character creation, vetoing chin dimensions and hair choices while delivering signature walk-on banter.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet Manscape",
+      "role": "correspondent",
+      "notes": "correspondent. Debuts as Fallout 4 protagonist with 10 STR/10 INT build, hatchet specialization, and interdimensional chat communion lore.",
+      "canonical_name": "Chet Manscape",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Chet Manscape's canonical SPECIAL stats established: Strength 10, Perception 3, Endurance 2, Charisma 3, Intelligence 10, Agility 4, Luck 1 with Nerd Rage and Gun Nut perks prioritized.",
+      "timestamp": "[32:20]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case establishes 'interdimensional vault' meta-narrative where he channels chat voices across realities into Chet's consciousness during gameplay.",
+      "timestamp": "[01:11:16]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case confirms this is third restart of Fallout 4 playthrough, indicating recurring attachment to vault sequence and character creation phase.",
+      "timestamp": "[03:10:55]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Lead anchor Case Blackwell suspends standard news operations for a four-hour Fallout 4 immersion stream, debuting his Chet Manscape avatar — a 10-Strength/10-Intelligence melee scientist — who survives Vault 111, builds an obsessive shelf empire in Sanctuary, earns Minutemen General rank through hatchet diplomacy, and secures Abernathy Farm's food independence before signing off to raid a Grand Theft Auto V roleplay channel.",
+  "_meta": {
+    "vod_id": "uon0frZHI5U",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 158385,
+    "approx_prompt_tokens": 39596,
+    "transcript_lines": 451
+  }
+}
