@@ -47,6 +47,7 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 | [[../episodes/2024-02-09|2024-02-09]] | [2024-02-09] Case mentions Beyblade Tournament sub goal still pending; says they'll meet Crum's cousin when it's met. |
 | [[../episodes/2024-02-27|2024-02-27]] | No advancement this episode. |
 | [[../episodes/2024-02-29|2024-02-29]] [02:37:20] | [02:37:20] Crum plays Beyblade Burst song to break Munch's silence; Munch admits Crum beat him at Beyblades previously; Crum claims Beyblade supremacy as 'wins that matter.' |
+| [[../episodes/2024-03-01|2024-03-01]] [1:25:03] | [1:25:03] Hype Train lyric 'Careful with the Beyblades, man' references pending 2v2 Beyblade Burst Event pledge. |
 | [[../episodes/2025-05-30|2025-05-30]] [39:25] | Munch references past Beyblade episodes during debate count banter. [39:25] |
 | [[../episodes/2025-06-02|2025-06-02]] [31:49] | [31:49] Case references pending Beyblade event possibly still 'inside the Papal Binclave'; no further advancement this episode. |
 | [[../episodes/2025-06-17|2025-06-17]] | [2025-06-17] Referenced as pending community-pledge event; no progress shown this episode. |

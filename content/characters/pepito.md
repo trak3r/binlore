@@ -61,7 +61,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (28)</summary>
+<summary>Earlier appearances (29)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -72,6 +72,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
 | [[episodes/2025-06-02|2025-06-02]] | executive producer. |
+| [[episodes/2024-03-01|2024-03-01]] | executive producer. |
 | [[episodes/2024-02-29|2024-02-29]] | executive producer. |
 | [[episodes/2024-02-20|2024-02-20]] | executive producer. |
 | [[episodes/2024-02-16|2024-02-16]] | executive producer. |

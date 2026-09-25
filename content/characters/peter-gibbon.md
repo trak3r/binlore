@@ -50,18 +50,19 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2025-06-17|2025-06-17]] | News Stowaway. |
 | [[episodes/2025-06-11|2025-06-11]] | news stowaway. |
 | [[episodes/2024-07-20|2024-07-20]] | Emerges from walls for Amongst the Web, rates videos civilly, shares catchphrase 'take that to the bank and smoke it', returns to walls on… |
+| [[episodes/2024-03-01|2024-03-01]] | news stowaway. |
 | [[episodes/2024-02-20|2024-02-20]] | news stowaway. |
 | [[episodes/2024-02-15|2024-02-15]] | news stowaway. |
 | [[episodes/2024-02-09|2024-02-09]] | news stowaway. |
 | [[episodes/2024-02-07|2024-02-07]] | news stowaway. |
 | [[episodes/2024-02-02|2024-02-02]] | news stowaway. |
-| [[episodes/2024-01-12|2024-01-12]] | news stowaway. |
 
 <details>
-<summary>Earlier appearances (5)</summary>
+<summary>Earlier appearances (6)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-01-12|2024-01-12]] | news stowaway. |
 | [[episodes/2024-01-05|2024-01-05]] | news stowaway. |
 | [[episodes/2023-12-31|2023-12-31]] | news stowaway. |
 | [[episodes/2023-12-14|2023-12-14]] | news stowaway. |
@@ -88,3 +89,4 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 - **[2:26:25]** ([[episodes/2024-02-07|2024-02-07]]): Took elocution classes in kindergarten for severe lisp [2:26:25]
 - **[1:17:46]** ([[episodes/2024-02-07|2024-02-07]]): Mandated show tune after every segment going forward [1:17:46]
 - **[1:07:41]** ([[episodes/2024-02-20|2024-02-20]]): Claims to have escaped the newsroom walls ('The walls can't keep me') and hosts Use the Internet from crawlspace.
+- **[]** ([[episodes/2024-03-01|2024-03-01]]): Wife's name is Louise (previously called Lois) [25:54]; produces natural slime for wall navigation [25:23]

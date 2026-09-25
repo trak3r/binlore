@@ -1,0 +1,209 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Cold Open & Hype Train Check-In",
+      "start": "15:17",
+      "end": "23:45",
+      "notes": "Case opens the Friday broadcast; Hype Train appears briefly, discusses hell trips and parentage (mom Kurt Russell, dad the devil); Peter Gibbon slithers in from the walls."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Peter Gibbon Reads Tampon Assault Story",
+      "start": "23:45",
+      "end": "43:44",
+      "notes": "Peter reads Page Six story about Alaya Baldwin arrested for throwing a used tampon at a bartender and fighting bouncers; chat poll to re-fire Peter fails (Greg2k saves him); Peter claims wall-lubrication necessity."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "title": "Jacket Debate & Tampon-Throwing Debate",
+      "start": "43:44",
+      "end": "1:03:51",
+      "notes": "Munch and Crum debate new crew jackets (chat votes for change); second debate on whether throwing unused tampons is acceptable — Crum argues blood is just liquid, Munch calls it tactical escalation; 50/50 split."
+    },
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "AI-Generated Rat Penis Paper Retracted",
+      "start": "1:06:07",
+      "end": "1:23:59",
+      "notes": "Chet covers Frontiers in Cell Development Biology paper retracted for Midjourney-generated rat genitalia illustrations; Chet shows grotesque AI images (rat with tree-like penis, rat-plant hybrid); ChetAI not present."
+    },
+    {
+      "canonical_segment": "At the Movies",
+      "title": "Trailer Roundup: Dragon Ball VHS, The Beautiful Game, I Saw the TV Glow, Is It Cake?",
+      "start": "1:26:45",
+      "end": "1:49:33",
+      "notes": "Trent and Chris watch 90s Dragon Ball VHS trailer (photorealistic dragon, Goku kicks crocodile), homeless World Cup film The Beautiful Game, A24 horror I Saw the TV Glow, and Is It Cake? season 3."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Jeff Ripple: Willy's Chocolate Experience Disaster",
+      "start": "1:49:33",
+      "end": "2:09:53",
+      "notes": "Jeff covers Glasgow Willy Wonka immersive event (House of Illuminati) that used AI promo images but delivered empty warehouse; police called, refunds promised; organizer's ChatGPT apology letter dissected."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "ASMR Rocket Raccoon: Super Earth Discovery & Raid",
+      "start": "2:13:40",
+      "end": "2:26:12",
+      "notes": "ASMR Rocket Raccoon reads NASA discovery of super-Earth TOI-715b (1.5x Earth, 137 ly away, habitable zone); whisper-raps about space genitals; raids Ovali to close broadcast."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors flagship broadcast; manages chaotic studio including Peter Gibbon poll, Munch/Crum jacket debate, and segment handoffs.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Runs polls, manages stream deck, refuses to fire Craig the security guard; maintains diplomatic immunity.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Emerges from walls to read Alaya Baldwin tampon assault story; survives chat re-fire poll; claims slime lubrication necessary for wall living.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Brief check-in; claims trips to hell when unfollowed; declares mother is Kurt Russell, father the devil.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates Crum on new jackets (wants fresh look) and tampon throwing (tactical escalation risk); claims chat now his after win streak.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defends classic jacket; argues blood is just liquid so used tampon throws acceptable; spirals into 'dark Crum' after win.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeers broadcast for AI rat penis paper; shows grotesque Midjourney images; claims Pantera Bread pop-up dining experience.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Covers Willy's Chocolate Experience disaster; dissects organizer's AI apology letter; promises to make theme music.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "field correspondent",
+      "notes": "field correspondent. Hosts At the Movies from theater; watches trailers with Chris; emotional over Beautiful Game trailer.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "role": "contributor",
+      "notes": "contributor. Co-hosts At the Movies; defends Dragon Ball GT; teases Trent's media literacy.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[54:03] Crum references wife as 'noted tampon terrorist' during tampon debate; gambling liability arc looms in background.",
+      "timestamp": "54:03"
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[1:25:03] Hype Train lyric 'Careful with the Beyblades, man' references pending 2v2 Beyblade Burst Event pledge.",
+      "timestamp": "1:25:03"
+    },
+    {
+      "storyline": "Peter Gibbon Employment",
+      "beat": "[26:57-30:54] Chat poll to re-fire Peter fails 50/50 after Greg2k intervention; Peter claims wall-dwelling popularity.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Hype Train",
+      "fact": "Claims mother is Kurt Russell, father is the devil; goes to hell when unfollowed [18:11-20:42]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Wife's name is Louise (previously called Lois) [25:54]; produces natural slime for wall navigation [25:23]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Attended Pantera Bread pop-up staffed by Pantera band; menu included 'Sandwich from Hell' and 'Clash with Reality Soup' [1:07:17-1:08:26]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "AI Rat Penis Paper",
+      "fact": "Frontiers in Cell Development Biology paper retracted Feb 16, 2024 for Midjourney-generated rat genitalia; 358k views, 24k downloads [1:09:36-1:18:54]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Willy's Chocolate Experience",
+      "fact": "Glasgow immersive event by House of Illuminati used AI promo images; delivered empty warehouse with jelly beans; organizer's ChatGPT apology mentions 'GOA Bank Hub' and cancelled wedding [1:53:32-2:06:33]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Super Earth TOI-715b",
+      "fact": "NASA discovery: 1.5x Earth width, 137 light years away, conservative habitable zone; smaller Earth-sized planet may also dwell in zone [2:18:30-2:20:57]",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell's Friday broadcast veers from a tampon-assault police blotter into a dual Munch & Crum debate on crew jackets and biohazard etiquette, then pivots to Chet's forensic takedown of an AI-hallucinated rat-phallus paper. The second hour sends Trent and Chris to the movies for a Dragon Ball VHS gem and A24 horror, Jeff Ripple dissects the Glasgow Willy Wonka warehouse fiasco, and ASMR Rocket Raccoon closes with a super-Earth discovery and a whisper-rap about space genitals before raiding Ovali.",
+  "_meta": {
+    "vod_id": "YoRiwFszQmM",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 107106,
+    "approx_prompt_tokens": 26776,
+    "transcript_lines": 229
+  }
+}
