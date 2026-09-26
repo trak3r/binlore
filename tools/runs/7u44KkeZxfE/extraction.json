@@ -1,0 +1,188 @@
+{
+  "segments": [
+    {
+      "start": "00:04",
+      "end": "17:19",
+      "canonical_segment": "Hype Train",
+      "title": "Cold Open: Pepito Sign-On & Hype Train Derailment",
+      "notes": "Pepito delivers station sign-on as Papita; Hype Train triggers early, freestyles over 90s beats while acknowledging 21-month subscriber milestones; Kendall appears on-set with eye irritation treated via warm compress and eye patch."
+    },
+    {
+      "start": "17:19",
+      "end": "01:05:38",
+      "canonical_segment": "News",
+      "title": "News Desk: Biden Withdrawal & Kamala Harris Consolidation",
+      "notes": "Jeff Ripple joins to cover Biden's exit, Pelosi endorsement of Harris, and extended review of Kamala 'unburdened' and coconut tree clips; Case coins 'Kamami' support term; Trump stand-up clip and Mountain Dew ally-flavor debate ensue."
+    },
+    {
+      "start": "01:08:51",
+      "end": "01:23:06",
+      "canonical_segment": "Jambalaya",
+      "title": "Jambalaya Debut: Who Is Burdened by What Has Been",
+      "notes": "Panel game (debuted 2024-07-20) where chat, Liliana, Grandma Crumble Bottom, and Tyler answer questions to reveal one liar burdened by the past; Liliana revealed as burdened contestant celebrating her burden."
+    },
+    {
+      "start": "01:23:06",
+      "end": "01:46:51",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web: Cat Escapes, Florida Man, Paint Matching & Seagal",
+      "notes": "Viral video review: cat escaping cardboard tubes, Florida man street fighter, programmer matching paint by eye, Steven Seagal proposal joke, Superman/Endgame mashup, Seagal cop rampage clip."
+    },
+    {
+      "start": "01:47:28",
+      "end": "02:18:01",
+      "canonical_segment": "News",
+      "title": "Town Hall: AI Biden Impression Takes Questions",
+      "notes": "Case deploys Pepito's ventriloquist Biden impression for live town hall; AI Biden fields chat questions on Kamala's feet, Jeremy Piven VP nomination, macron consumption, soup farms, and 2028 re-run pledge."
+    },
+    {
+      "start": "02:18:26",
+      "end": "02:31:27",
+      "canonical_segment": "Therapy",
+      "title": "Therapy: Sperm Counts, JD Vance & Beyblade Validation",
+      "notes": "Dr. Chath fields chat questions on Mountain Dew sperm effects, Fred Durst convention counter, coconut-pilled status, and Case's Beyblade validation craving; Kendall departs for mall mid-session."
+    },
+    {
+      "start": "02:33:17",
+      "end": "02:51:30",
+      "canonical_segment": "How To with Jeb",
+      "title": "How To with Jeb: Face Dancing & Minion Lipstick Tutorial",
+      "notes": "Jeb and wood-trapped father watch smile-for-camera tutorial, Brian B. Cardi face-dance lesson, and minion lipstick face-paint tutorial; Jeb practices face dancing, father offers to be sold as lumber."
+    },
+    {
+      "start": "02:51:30",
+      "end": "02:54:24",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid to Ricky Peacock",
+      "notes": "Case thanks 20/21-month subscribers, announces 8pm call-in show on CASIM's channel, mentions upcoming apartment move for consistent schedule, executes Pepito raid to Ricky Peacock."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "notes": "Anchors the broadcast, manages chaotic studio segments, and tests new AI Biden town hall format.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "notes": "Executes station sign-on, performs ventriloquist Biden impression for town hall segment.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "notes": "Delivers human-interest coverage of Biden withdrawal and Kamala Harris clips with characteristic gravitas.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendall",
+      "notes": "Appears on-set with eye irritation, receives warm compress treatment, departs for mall mid-stream.",
+      "canonical_name": "Kendall",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "notes": "Derails cold open with freestyle rap over 90s beats, acknowledges subscriber milestones.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Chath",
+      "notes": "Conducts therapy session fielding chat questions on sperm counts, JD Vance, and Beyblade validation.",
+      "canonical_name": "Dr. Chath",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "notes": "Hosts How To segment from woodshop with father trapped in wood, learns face dancing and minion lipstick.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "notes": "Spirit trapped in wooden board, banters with Jeb about selling him as lumber.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "notes": "Participates in Jambalaya panel as 'burdened by what has been' contestant, reveals she celebrates her burden.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "Case references craving validation via Beyblades during therapy [02:30:45], confirming ongoing community pledge arc.",
+      "timestamp": "02:30:45"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Kendall suffering from eye stye/irritation requiring warm compress and eye patch [08:58]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Pepito",
+      "fact": "Pepito demonstrates ventriloquist Biden impression capability [01:55:29]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case planning move to new apartment for consistent streaming schedule [02:53:27]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Call-in show scheduled 8pm PT on CASIM's channel (844-721-CAS) [02:33:39]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Jambalaya segment debuted 2024-07-20 per Case [01:08:51]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case coins 'Kamami' term for Kamala Harris support [00:53:26]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covers President Biden's withdrawal from the 2024 race and the immediate Kamala Harris consolidation, debuting the Jambalaya panel game and reviving the AI Biden town hall format. The broadcast cycles through viral video review, a therapy session invoking the pending Beyblade Tournament, and a How To with Jeb face-dancing tutorial before raiding Ricky Peacock.",
+  "_meta": {
+    "vod_id": "7u44KkeZxfE",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 139057,
+    "approx_prompt_tokens": 34764,
+    "transcript_lines": 369
+  }
+}

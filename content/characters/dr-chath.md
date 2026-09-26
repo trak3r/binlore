@@ -39,6 +39,7 @@ Despite his clinical positioning, Dr. Chath is a distinctly minor and highly uno
 | [[../episodes/2026-06-22|2026-06-22]] | Debut appearance. Conducts a therapy session with Case Blackwell, reading viewer `!h` prompts, attempting the Dougie while standing on his chair, and watching Kendelle drift through the office like a ghost. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of euthanizing Crum, not actively speaking. |
 | [[episodes/2025-06-17|2025-06-17]] | Resident Therapist. |
+| [[episodes/2024-07-22|2024-07-22]] | Conducts therapy session fielding chat questions on sperm counts, JD Vance, and Beyblade validation. |
 | [[episodes/2024-04-29|2024-04-29]] | Conducts couples therapy with silent co-therapist; uses 2v2 basketball metaphor; charges $400. |
 
 ## Notable Quotes
