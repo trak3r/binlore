@@ -53,14 +53,15 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-17|2025-06-17]] | In-Studio Contributor. |
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
+| [[episodes/2024-10-02|2024-10-02]] | in-studio contributor. |
 | [[episodes/2024-10-01|2024-10-01]] | in-studio contributor. |
-| [[episodes/2024-09-25|2024-09-25]] | In-studio contributor walks through studio packing for trip, provides live 50 Shades commentary, and receives sweet tea from Jeb. |
 
 <details>
-<summary>Earlier appearances (83)</summary>
+<summary>Earlier appearances (84)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-09-25|2024-09-25]] | In-studio contributor walks through studio packing for trip, provides live 50 Shades commentary, and receives sweet tea from Jeb. |
 | [[episodes/2024-09-24|2024-09-24]] | in-studio contributor. |
 | [[episodes/2024-09-20|2024-09-20]] | in-studio contributor. |
 | [[episodes/2024-09-19|2024-09-19]] | in-studio contributor. |
@@ -195,3 +196,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[[23:10]]** ([[episodes/2024-08-13|2024-08-13]]): Uses her brother's Netflix account for streaming.
 - **[[02:14:31]]** ([[episodes/2024-09-11|2024-09-11]]): Reports Bachelorette contestant Devin broke engagement via phone; ex-fiancé leaked explicit texts including 'can't wait for your mouth to be on my titties.'
 - **[[1:43:54]]** ([[episodes/2024-09-17|2024-09-17]]): Open to one child (up from zero).
+- **[10:03]** ([[episodes/2024-10-02|2024-10-02]]): Got a tattoo at a Jack in the Box event; wears handmade Case Blackwell merch. [10:03]

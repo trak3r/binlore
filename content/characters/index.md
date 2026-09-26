@@ -66,5 +66,6 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/sammy-seven-elbows|Sammy Seven Elbows]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
 | [[characters/tyler|Tyler]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
 | [[characters/sammy|Sammy]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
+| [[characters/joe-rogan|Joe Rogan]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
 
 See also: [[../storylines/crum-dick-punch|Crum Dick Punch]], [[../segments/munch-and-crum|Munch & Crum]].

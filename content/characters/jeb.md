@@ -111,3 +111,4 @@ See also: [[../segments/how-to-with-jeb|How To with Jeb]], [[../characters/index
 - **[[01:41:44]]** ([[episodes/2024-08-22|2024-08-22]]): Father's spirit remains trapped in wooden board; they bicker domestically during How To segments.
 - **[[56:33-57:20]]** ([[episodes/2024-09-13|2024-09-13]]): Defecates in pants during How To segment; continues broadcast while managing containment.
 - **[01:40:34]** ([[episodes/2024-09-18|2024-09-18]]): Claims to be ripped/jacked as a spirit residing in wood [01:40:34].
+- **[52:33]** ([[episodes/2024-10-02|2024-10-02]]): Claims to have figured out how to free his father from the wood, though father insists it's impossible. [52:33]

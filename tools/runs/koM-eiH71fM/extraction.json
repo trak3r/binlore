@@ -1,0 +1,147 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "13:59",
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "notes": "Pepito delivers top-of-hour sign-on; Case discusses streaming logistics, medical advice jokes, and Kendall's Jack in the Box tattoo reveal."
+    },
+    {
+      "start": "13:59",
+      "end": "31:55",
+      "canonical_segment": "News",
+      "title": "VP Debate Recap: Vance vs. Walz",
+      "notes": "Case and Tyler watch Boston Globe highlight reel of vice presidential debate; commentary on Vance's eyeliner, Walz's nervous affect, and cordial tone."
+    },
+    {
+      "start": "31:55",
+      "end": "46:22",
+      "canonical_segment": "Amongst the Web",
+      "title": "Trent at the Movies: Trailers Roundup",
+      "notes": "Trent presents trailers for Indiana Jones and the Great Circle (game), Better Man (Robbie Williams as CGI monkey), Winnie's Hole, and The Franchise series."
+    },
+    {
+      "start": "46:22",
+      "end": "59:07",
+      "canonical_segment": "How To with Jeb",
+      "title": "How To: Lie to Friends, Use a Urinal, Sniff Glue",
+      "notes": "Jeb airs three vintage how-to videos: Daily Grace on lying to friends, Adventure Bros on urinal etiquette, and a 2005 prank on getting high from glue."
+    },
+    {
+      "start": "59:07",
+      "end": "01:10:49",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Jo Rogen Experience: Gardening, Comedy Specials, Glue Man Jamie",
+      "notes": "Case and Tyler parody Joe Rogan discussing gardening faces, Rogan's comedy special reception, and producer Jamie's transformation into glue-trapped 'glue man'."
+    },
+    {
+      "start": "01:10:49",
+      "end": "01:12:23",
+      "canonical_segment": "News",
+      "title": "Outro & Raid to Sir Lar",
+      "notes": "Case plugs Patreon cream.team stream, nominates mayors for tomorrow, and raids Sir Lar in memory of Casem."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers station sign-on and cold open; debates Pepito merch and plushie concepts with Case.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Tyler",
+      "role": "debate analyst",
+      "notes": "debate analyst. Co-hosts VP debate watch and movie segment; mistaken for JD Vance by chat; offers gardening face impression.",
+      "canonical_name": "Tyler",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Referenced for Jack in the Box tattoo and wearing handmade Case Blackwell merch; not physically on camera.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "field correspondent",
+      "notes": "field correspondent. Hosts movie trailer segment 'Trent at the Movies'; presents four trailers under time pressure.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "recurring",
+      "notes": "recurring. Hosts How To with Jeb from workshop; airs three vintage how-to videos; claims progress freeing father from wood.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "recurring",
+      "notes": "recurring. Spirit trapped in wooden board; argues with Jeb about escape prospects; votes in chat poll via exclamation points.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Joe Rogan",
+      "role": "call-in guest",
+      "notes": "call-in guest. Parody appearance in Jo Rogen Experience; discusses gardening, comedy special backlash, and glue-man producer Jamie.",
+      "canonical_name": "Joe Rogan",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Kendelle",
+      "fact": "Got a tattoo at a Jack in the Box event; wears handmade Case Blackwell merch. [10:03]",
+      "timestamp": "10:03",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Considers making 'lubechef' shirts; questions Comcast IP implications. [12:12]",
+      "timestamp": "12:12",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "Claims to have figured out how to free his father from the wood, though father insists it's impossible. [52:33]",
+      "timestamp": "52:33",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jamie (Jo Rogen producer)",
+      "fact": "Transformed into 'glue man' after months of gluing fly corpses to newspaper; stuck to chair, mostly glue, speaks only 'I glue man, touch me become me'. [01:08:46]",
+      "timestamp": "01:08:46",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell and Tyler recap the Vance-Walz vice presidential debate with Boston Globe highlights, then Trent presents a rapid-fire movie trailer block including an Indiana Jones game, Robbie Williams monkey biopic, and Winnie the Pooh horror game. Jeb Nogget returns with vintage how-to videos on lying, urinals, and a glue-sniffing prank, while his wood-trapped father votes via chat poll. The broadcast closes with a Jo Rogen Experience parody where Joe Rogan discusses gardening, his panned comedy special, and producer Jamie's grotesque glue-man transformation.",
+  "_meta": {
+    "vod_id": "koM-eiH71fM",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 72336,
+    "approx_prompt_tokens": 18084,
+    "transcript_lines": 177
+  }
+}
