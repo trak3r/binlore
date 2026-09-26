@@ -1,0 +1,198 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "17:26",
+      "canonical_segment": "Hype Train",
+      "title": "Cold Open & Hype Train Surge",
+      "notes": "Pepito delivers the sign-on as 'Papita'; Hype Train acknowledges bits and subs, births a 'little train', raps over a Bart Simpson instrumental, and derails into apathy toward donor recognition."
+    },
+    {
+      "start": "17:26",
+      "end": "36:15",
+      "canonical_segment": "News",
+      "title": "Truth Social Pig Butchering Scams Target Elderly",
+      "notes": "Case Blackwell and Jeff Ripple detail FTC complaints revealing Truth Social users — predominantly elderly Trump supporters — losing up to $500,000 to pig butchering schemes; Gizmodo's media inquiry email bounced."
+    },
+    {
+      "start": "36:15",
+      "end": "59:20",
+      "canonical_segment": "How To with Jeb",
+      "title": "Prostate Milking, Okra Water, Cocaine Spotting & Hemorrhoids",
+      "notes": "Jeb Nogget and his deceased father (trapped in a wooden board) review instructional videos: prostate milking tutorial (promoting malegspot.co.uk, now for sale), okra water preparation, Dr. George Northrop on spotting cocaine addicts, and a rapid-fire hemorrhoid treatment guide."
+    },
+    {
+      "start": "59:49",
+      "end": "1:12:19",
+      "canonical_segment": "News",
+      "title": "Super Pervert: Car Wash Voyeur Jesse Michael Johnson",
+      "notes": "Peter Gibbon shoves Liliana aside to cover an Arizona man arrested for crawling under women's SUVs at a car wash to stare at feet; flash poll selects 'Dirty Sanchez' as optimal facial hair disguise; Case interviews a sentient foot (Thomas's foot) on foot fetishism and Legos."
+    },
+    {
+      "start": "1:24:04",
+      "end": "1:58:13",
+      "canonical_segment": "Amongst the Web",
+      "title": "Viral Video Review: Tennis F-Bomb, Jeremy Fragrance, Chandelier Jumbotron, Gruden, Body Head",
+      "notes": "Case and Chet Manscape react to: a tennis player telling officials 'fuck you'; Jeremy Fragrance cooking; a son replacing parents' chandelier with a jumbotron; Jon Gruden football hype montage; a child choosing 'illegal immigrant' over liberal friend; 'Asian taste buds' salad TikTok; pumpkin patch grandma cursing; Adult Swim's Body Head trailer (Will Neff, Meat Canyon)."
+    },
+    {
+      "start": "2:00:19",
+      "end": "2:12:05",
+      "canonical_segment": "News",
+      "title": "Snake Therapy Trend: Serpentessa & Vagus Nerve Hugs",
+      "notes": "Liliana reports on snake massage therapy in Eucypsy, NY — 'snake priestess' Sopintessa guides boa constrictors over clients to stimulate the vagus nerve; six-year-old local news footage shows a woman covered in snakes; Case and Liliana debate snake consent and the Krebs cycle of human-interest recycling."
+    },
+    {
+      "start": "2:12:05",
+      "end": "2:36:24",
+      "canonical_segment": "Trip on the Street",
+      "title": "Park Dispatches: Grandma Truth Social Scam, Bead Keeper, Parasite Therapy, Trap Door, Crypto Sister",
+      "notes": "Trip Bradstein (improvising with wrong glasses) interviews: his grandma scammed on Truth Social for $50k; a 'Bead Keeper/Beekeeper' requesting anal bead insertion; a snake enthusiast; Salazar selling parasite therapy to become a 'mantis-rhino'; a Scottish-accented trap door inventor seeking $500k for a 'shovel of iniquity'; Papito's sister pitching Midnight Coin; a hamster mayoral candidate."
+    },
+    {
+      "start": "2:37:34",
+      "end": "2:52:37",
+      "canonical_segment": "DJ Newsic",
+      "title": "Musical Truth Social Scam Rundown with Little Tommy Big Law",
+      "notes": "DJ Newsic raps through three scam cases (Minnesota $500k, Tennessee $170k, New York $168k) over trap beats; legal expert 'Little Tommy Big Law' advises victims to 'talk to everybody's dad' and shills his own crypto coin (little Tommy crypto coin dot biz)."
+    },
+    {
+      "start": "2:52:37",
+      "end": "2:54:46",
+      "canonical_segment": "News",
+      "title": "Raid to Known Pro & Sign-Off",
+      "notes": "Case attempts a raid to 'Known Pro' (No Me Pro) playing Astro Bot; chat sends off with S1000, AppleDaple, Funnel Web; stream ends mid-song with technical noise."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open as 'Papita', interjected during Hype Train and Jeb segments, claimed snake-origin birth, argued with Case over logic.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Acknowledged bits/subs, birthed a 'little train', rapped over Bart Simpson beat, declared apathy toward donations, demanded apathetic trap instrumental.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-anchored Truth Social scam story, plugged his novel 'Jeff Ripple: The Story of a Ripple', debated chiropractic business scam with Case.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "correspondent",
+      "notes": "correspondent. Hosted How To with Jeb from woodshop with deceased father; covered prostate milking, okra water, cocaine addict spotting, hemorrhoids; revealed Stonehaven 'ass wizard' lineage.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Invaded desk to cover car wash voyeur story, shoved Liliana aside, ran facial hair flash poll, claimed cavernous butt prevents prostate milking.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Co-anchored snake therapy segment, debated snake consent and human-interest recycling, admitted feeding men 'hair cookies'.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Broadcast from park bushes with wrong glasses; interviewed grandma, bead keeper, snake man, parasite seller, trap door inventor, crypto sister, hamster; endorsed Ham Tarot for mayor.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Pepito claims to have been born from a snake through 'the power of eating.'",
+      "timestamp": "[2:12:46]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Peter Gibbon states his 'cavernous butt' is too deep for prostate milking, comparing it to 'rummaging through a pile of fisherman's nets.'",
+      "timestamp": "[1:00:31]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jeb's deceased father (in the wood) reveals the Stonehaven family are generational 'ass wizards' akin to Belmonts or Van Helsings for anal matters.",
+      "timestamp": "[46:50]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jeb's father makes a distinctive noise 'every time I'd rock it off' (orgasm).",
+      "timestamp": "[49:28]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Liliana admits she makes men eat 'cookie hairs' and 'hair cookies' and considers perming the hair for presentation.",
+      "timestamp": "[2:05:47]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Trip Bradstein's grandmother flew from Minnesota for a 'mini soda' and claims grandfather moved to 'heaven, Minnesota, one county over.'",
+      "timestamp": "[2:16:01]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Papito has a sister who promotes Midnight Coin on Truth Social and sought $500k from Trip to warn Papito to stop eating cheese.",
+      "timestamp": "[2:33:21]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Trip Bradstein claims Papito can 'go subterranean and ride the mice illegal network underground' and speculates Papito might be a fungus.",
+      "timestamp": "[2:35:47]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Trip Bradstein endorses 'Ham Tarot' for mayor of the park after repeated name mentions.",
+      "timestamp": "[2:27:49]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News exposed a wave of pig butchering scams on Truth Social draining elderly users of hundreds of thousands of dollars, then pivoted to a prostate milking tutorial from Jeb Nogget's woodshop — where his deceased father revealed the Stonehaven family's ancestral 'ass wizard' lineage. Peter Gibbon hijacked the desk to profile a car wash voyeur, Liliana documented the rising snake therapy trend, Trip Bradstein weathered a parade of park grotesques including his Truth Social-scammed grandmother, and DJ Newsic closed with a musical scam rundown featuring a shady legal expert shilling his own crypto coin.",
+  "_meta": {
+    "vod_id": "VR_30Y6cdLo",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 136394,
+    "approx_prompt_tokens": 34098,
+    "transcript_lines": 405
+  }
+}
