@@ -53,14 +53,15 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-17|2025-06-17]] | In-Studio Contributor. |
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
+| [[episodes/2024-09-24|2024-09-24]] | in-studio contributor. |
 | [[episodes/2024-09-20|2024-09-20]] | in-studio contributor. |
-| [[episodes/2024-09-19|2024-09-19]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (80)</summary>
+<summary>Earlier appearances (81)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-09-19|2024-09-19]] | in-studio contributor. |
 | [[episodes/2024-09-17|2024-09-17]] | in-studio contributor. |
 | [[episodes/2024-09-13|2024-09-13]] | in-studio contributor. |
 | [[episodes/2024-09-12|2024-09-12]] | in-studio contributor. |

@@ -1,0 +1,99 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "06:30",
+      "canonical_segment": "News",
+      "title": "Cold Open: Fake Commercial Block",
+      "notes": "Broadcast opens with a surreal montage of parody 1-800 commercials featuring grovelin slaves, dying castlem, and Casim G giving out personal numbers."
+    },
+    {
+      "start": "06:31",
+      "end": "01:37:30",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Call Cas: Listener Call-In Special",
+      "notes": "Case Blackwell and guest Kendelle (billed as Fiona) host a live call-in show covering Kendelle's European trip, breakup, potential NYC move, neurodivergency, vaccine stories, WWE storylines, Chappell Roan politics, Katy Perry speculation, Magic: The Gathering bans, Diddy blackmail theories, MCN history, and the lost 'Ass Cast' series."
+    },
+    {
+      "start": "01:37:30",
+      "end": "01:44:15",
+      "canonical_segment": "News",
+      "title": "Sign-Off and Raid",
+      "notes": "Case thanks subscribers, promotes Wednesday Patreon Vince McMahon watchalong and Cringe Court Episode 2, then raids Gnome Pro after a viewer vote on his remaining streaming hours."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "anchor. Hosts call-in show 'Call Cas' with guest Kendelle, fields calls on vaccines, WWE, Magic bans, and Diddy allegations.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Appears as Fiona discussing Europe trip, breakup, potential move to New York, and neurodivergency.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "recurring",
+      "notes": "recurring. Briefly warms up the broadcast with a racial comedy bit before exiting.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Manages call screening via Danksauce during the call-in segment.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Kendelle considering moving back to New York due to brother leaving LA and industry implosion.",
+      "timestamp": "[17:42]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case received Johnson & Johnson COVID vaccine and drove two hours to San Antonio via a Slack channel to get it.",
+      "timestamp": "[25:56]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case states he made zero money from his MCN arrangement.",
+      "timestamp": "[1:28:45]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case appears as a stenographer in 'Cringe Court Episode 2' on YouTube.",
+      "timestamp": "[1:39:40]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News airs a special call-in edition of 'Call Cas' with anchor Case Blackwell and guest Kendelle fielding listener calls on topics ranging from Magic: The Gathering card bans and WWE storyline complaints to Diddy blackmail theories and the lost 'Ass Cast' series. Kendelle reveals she is considering leaving Los Angeles for New York amid a personal breakup and industry collapse. The broadcast concludes with a raid on Gnome Pro after a chat vote on Case's remaining streaming lifespan.",
+  "_meta": {
+    "vod_id": "knz0Gmf_CVU",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 110901,
+    "approx_prompt_tokens": 27725,
+    "transcript_lines": 218
+  }
+}
