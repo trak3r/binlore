@@ -1,0 +1,161 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "end_ts": "12:00",
+      "notes": "Pepito delivers station cold-open sign-on, manages hype train acknowledgments, and is left in charge of studio while Case attends Patreon.",
+      "start_ts": "00:06",
+      "title": "Cold Open & Station Sign-On"
+    },
+    {
+      "canonical_segment": "News",
+      "end_ts": "47:38",
+      "notes": "Case and Sammy cover the Detroit Bridgerton Ball scam ($150–$1,000 tickets, stripper entertainment, viral backlash), Elon Musk's father having a second child with his stepdaughter, and Kendall's live 50 Shades of Grey commentary.",
+      "start_ts": "12:00",
+      "title": "News Desk: Bridgerton Ball Scam, Musk Family News, 50 Shades Commentary"
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "end_ts": "1:17:04",
+      "notes": "Jeb attempts Venture Brothers cocktails (grenadine-tomato-rum, bourbon-ketchup-coke), watches iron crotch kung fu documentary (65-year-old master, steel log to groin), demonstrates carpsicle (pickle stuffed with Skittles and Capri Sun), and briefly summons a demon.",
+      "start_ts": "47:38",
+      "title": "How To with Jeb: Venture Bros Drinks, Iron Crotch Kung Fu, Carpsicle, Demon Summoning"
+    },
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "end_ts": "1:25:27",
+      "notes": "Chet triggers on 'science' to present DNA-confirmed kefir cheese on Tarim Basin mummies (~3,600–3,300 years old), the world's oldest cheese, with cow/goat DNA and microbial cultures matching modern kefir grains.",
+      "start_ts": "1:18:11",
+      "title": "Chet Guy the Science Eyes: World's Oldest Cheese on Mummies"
+    },
+    {
+      "canonical_segment": "News",
+      "end_ts": "1:38:46",
+      "notes": "Case adopts 'Trent' voice for movie trailer reviews: Thunderbolts (Marvel team-up, Case unimpressed) and Control (Sims-like digital erasure premise). Stream ends with raid to Sir Lar.",
+      "start_ts": "1:25:27",
+      "title": "Movie Trailer Reviews: Thunderbolts & Control"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "notes": "Executive producer delivers cold-open sign-on, runs hype train, and is left in charge of studio during Case's absence.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "notes": "Lead anchor hosts news desk, triggers Chet with 'science', and debuts 'Trent' character voice for movie trailer segment.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Sammy",
+      "notes": "Co-anchor/desk partner discusses Bridgerton Ball scam, Musk family news, 50 Shades franchise, and movie trailers with Case.",
+      "canonical_name": "Sammy",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "notes": "In-studio contributor walks through studio packing for trip, provides live 50 Shades commentary, and receives sweet tea from Jeb.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "notes": "Musical interruption acknowledges subs/bits but claims to feel shy and intimidated by Kendelle's presence.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "notes": "Woodshop host attempts Venture Brothers drinks, watches iron crotch kung fu, demonstrates carpsicle, and summons demon while bickering with his father's board spirit.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "notes": "Deceased father's spirit in a wooden board bickers with Jeb, reveals stomping fetish, and claims to be flattened in the wood.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "notes": "Science correspondent triggered by 'science' presents ancient kefir cheese discovery on Tarim mummies with DNA analysis.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "notes": "Case's character voice for movie trailer reviews, claims to be separate entity with different vibes and demands $800 fee for Ben movie appearance.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Kendelle packing for trip; no streams Thursday/Friday.",
+      "timestamp": "[11:39]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jeb appears early, startled by 'good ghost' alert system; brings Kendelle sweet tea hoping for greeting.",
+      "timestamp": "[48:23]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Carpsicle referenced as past G4 discussion; Case never observed it himself.",
+      "timestamp": "[1:05:34]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "World's oldest cheese identified as kefir cheese on Tarim Basin mummies (~3,600–3,300 years old) via DNA analysis of cow/goat milk and microbial cultures.",
+      "timestamp": "[1:22:43]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case debuts 'Trent' character voice for movie trailer segment, claiming separate identity.",
+      "timestamp": "[1:25:27]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Raid sent to Sir Lar in honor of 'doing a thing with Cassin'.",
+      "timestamp": "[1:37:59]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covers the viral Detroit Bridgerton Ball scam featuring a stripper and KitKat vendors, then pivots to Elon Musk's father's stepdaughter pregnancy and Kendall's live 50 Shades of Grey watch-along. Jeb Nogget commandeers the broadcast for a How To segment sampling grotesque Venture Brothers cocktails, iron crotch kung fu, and a pickle-Skittles-Capri Sun carpsicle. Chet interrupts with the discovery of 3,600-year-old kefir cheese on Chinese mummies. Case closes the broadcast in a 'Trent' voice reviewing the Thunderbolts and Control trailers before raiding to Sir Lar.",
+  "_meta": {
+    "vod_id": "FCEbbDjbk88",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 89793,
+    "approx_prompt_tokens": 22448,
+    "transcript_lines": 234
+  }
+}
