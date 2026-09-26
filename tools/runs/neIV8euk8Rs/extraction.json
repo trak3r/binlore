@@ -1,0 +1,67 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Elden Ring DLC Prep Stream",
+      "start": "00:00",
+      "end": "01:18:45",
+      "notes": "Solo gameplay session with Case Blackwell navigating Leyndell, Royal Capital to acquire Black Whetstone and prepare for Shadow of the Erdtree DLC release on June 21st; includes cold open by Pepito and extended commentary on Star Wars: The Acolyte and Rebel Moon."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors solo Elden Ring gameplay session to prepare for DLC release, discusses Star Wars media and personal anecdotes while navigating Leyndell.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open sign-on as 'Papito the dog' before handing off to Case for gameplay.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Has allergic/depressive reaction to weed: abnormal coughing, nausea, and anxiety instead of relaxation.",
+      "timestamp": "[18:46]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Previously wrote for a Disney-contracted kids YouTube channel using Star Wars characters under heavy corporate brand oversight.",
+      "timestamp": "[36:56]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Traveling to Disney World for her mother's birthday with a large group; Case holds season passes.",
+      "timestamp": "[09:06]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Barely Informed News",
+      "fact": "Shadow of the Erdtree DLC releases June 21, 2024 (Friday); Case aims to be ready by Thursday June 20.",
+      "timestamp": "[03:43]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell hosts a solo Elden Ring session to acquire the Black Whetstone in Leyndell ahead of the Shadow of the Erdtree DLC launch on June 21. Pepito opens the broadcast before Case spends the hour navigating the capital, dying repeatedly, and discussing Star Wars: The Acolyte, Rebel Moon, and his past Disney writing work. The stream ends with Case confirming a Thursday return for final DLC prep.",
+  "_meta": {
+    "vod_id": "neIV8euk8Rs",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 56124,
+    "approx_prompt_tokens": 14031,
+    "transcript_lines": 173
+  }
+}

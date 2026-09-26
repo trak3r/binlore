@@ -134,3 +134,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[1:54:48]** ([[episodes/2024-06-14|2024-06-14]]): Mentions 'kettles week off' affecting broadcast schedule for tomorrow. [1:54:48]
 - **[1:48:43]** ([[episodes/2024-06-14|2024-06-14]]): Confirms Shadow of the Erdtree DLC preparation as current broadcast objective. [1:48:43]
 - **[]** ([[episodes/2024-06-18|2024-06-18]]): Needs to level Elden Ring character to 125-150 for Shadow of the Erdtree expansion; hunting for wet stone and occult modification [02:23:46].
+- **[[18:46]]** ([[episodes/2024-06-19|2024-06-19]]): Has allergic/depressive reaction to weed: abnormal coughing, nausea, and anxiety instead of relaxation.
+- **[[36:56]]** ([[episodes/2024-06-19|2024-06-19]]): Previously wrote for a Disney-contracted kids YouTube channel using Star Wars characters under heavy corporate brand oversight.
