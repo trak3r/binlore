@@ -1,0 +1,146 @@
+{
+  "segments": [
+    {
+      "start": "00:10",
+      "end": "15:57",
+      "canonical_segment": "News",
+      "title": "Cold Open & Pogo Stick Unboxing",
+      "notes": "Pepito delivers sign-on from producer chair; Case unboxes Pogo stick live, Kendall appears on camera, community subs trigger hype train."
+    },
+    {
+      "start": "15:57",
+      "end": "47:06",
+      "canonical_segment": "News",
+      "title": "JK Rowling / Olympic Boxer Controversy",
+      "notes": "Case reads BBC coverage of Imane Khelif eligibility dispute, critiques Rowling and conservative media misgendering a cis woman athlete, discusses testosterone testing and IOC policy."
+    },
+    {
+      "start": "47:44",
+      "end": "57:42",
+      "canonical_segment": "News",
+      "title": "Bullwinkle Interview",
+      "notes": "Case queries AI-generated Bullwinkle on Ukraine war, Russian propaganda accusations, car dealership origin trivia, and moose biology; Bullwinkle offers isolationist foreign policy."
+    },
+    {
+      "start": "58:42",
+      "end": "1:09:25",
+      "canonical_segment": "Munch & Crum",
+      "title": "Penis Size Debate & Rocky vs Rocky",
+      "notes": "Munch and Crum debate big-but-broken vs small-and-functional penis preference, then argue Rocky Balboa vs Rocky the Flying Squirrel cultural impact; audience cheers shift wildly."
+    },
+    {
+      "start": "1:09:25",
+      "end": "1:25:33",
+      "canonical_segment": "News",
+      "title": "Wrap-Up & Raid",
+      "notes": "Peter Gibbon occupies producer chair, Crum freestyles masturbation rap, Case raids 'Some Call Me Johnny' amid chaos."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors abbreviated Thursday broadcast, unboxes Pogo stick, moderates Olympic controversy discussion, interviews Bullwinkle, referees Munch & Crum debate.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold-open sign-on from producer chair, licks floor items, later displaced by Peter Gibbon.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walks through studio with headphones, attempts Pogo stick in cramped space near shoe pile.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Emerges from wall causing technical chaos, mimics Case, claims auto-pay on rent, takes over producer chair at close.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Champions big penis as masculine ideal, debates Rocky Balboa vs Rocky the Flying Squirrel, accuses Case of kink-shaming.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Bullwinkle",
+      "role": "call-in guest",
+      "notes": "call-in guest. AI-generated moose interviewed on Ukraine war, reveals car dealership name origin, claims chocolate mousse contains actual moose.",
+      "canonical_name": "Bullwinkle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Triggered by community subs at stream start, acknowledged by Case before dying down.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Attending anime convention on Saturday 2024-08-03, considers bringing Pogo stick for 'anime Pogo'.",
+      "timestamp": "[10:16]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "States body weight 'a bit over 200' pounds while testing Pogo stick weight limit.",
+      "timestamp": "[14:02]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Claims auto-pay active on rent for apartment he may still possess.",
+      "timestamp": "[46:17]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Bullwinkle",
+      "fact": "Character name inspired by Clarence Bullwinkle Ford Lincoln Mercury dealership in Berkeley, California (1940s).",
+      "timestamp": "[50:57]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Practices morning shoulder rolls and meditation for relaxation.",
+      "timestamp": "[1:17:21]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell hosts a truncated Thursday edition featuring a live Pogo stick unboxing, a news breakdown of the Imane Khelif Olympic eligibility controversy and JK Rowling's rhetoric, an AI-generated interview with Bullwinkle the moose, and a Munch & Crum debate that veers from penis size philosophy to Rocky Balboa versus Rocky the Flying Squirrel. Technical gremlins and Peter Gibbon's wall incursions plague the broadcast throughout, culminating in Crum's explicit freestyle rap and a raid on 'Some Call Me Johnny'.",
+  "_meta": {
+    "vod_id": "6xWhcAzOyB4",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 76762,
+    "approx_prompt_tokens": 19190,
+    "transcript_lines": 156
+  }
+}

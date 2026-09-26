@@ -147,3 +147,6 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[[01:46:59]]** ([[episodes/2024-07-23|2024-07-23]]): Defeats Rugalia, Great Red Bear, and acquires Roar of Rugalia incantation and Gravebird Black Quill Armor.
 - **[[02:16:23]]** ([[episodes/2024-07-23|2024-07-23]]): Defeats Messmer the Impaler in two phases after multiple attempts, using Mimic Tear and a summoned cooperator.
 - **[[02:18:05]]** ([[episodes/2024-07-23|2024-07-23]]): Mentions a meeting in 20 minutes and suggests a possible return stream on Friday.
+- **[[10:16]]** ([[episodes/2024-08-01|2024-08-01]]): Attending anime convention on Saturday 2024-08-03, considers bringing Pogo stick for 'anime Pogo'.
+- **[[14:02]]** ([[episodes/2024-08-01|2024-08-01]]): States body weight 'a bit over 200' pounds while testing Pogo stick weight limit.
+- **[[1:17:21]]** ([[episodes/2024-08-01|2024-08-01]]): Practices morning shoulder rolls and meditation for relaxation.
