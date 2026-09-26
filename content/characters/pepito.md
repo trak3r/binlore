@@ -61,7 +61,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (52)</summary>
+<summary>Earlier appearances (53)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -72,6 +72,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
 | [[episodes/2025-06-02|2025-06-02]] | executive producer. |
+| [[episodes/2024-07-31|2024-07-31]] | executive producer. |
 | [[episodes/2024-07-22|2024-07-22]] | Executes station sign-on, performs ventriloquist Biden impression for town hall segment. |
 | [[episodes/2024-07-19|2024-07-19]] | executive producer. |
 | [[episodes/2024-06-26|2024-06-26]] | executive producer. |

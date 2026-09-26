@@ -1,0 +1,148 @@
+{
+  "segments": [
+    {
+      "start": "00:02",
+      "end": "21:41",
+      "canonical_segment": "Hype Train",
+      "title": "Cold Open & Hype Train 'Club Girl' Debut",
+      "notes": "Pepito delivers station sign-on; Hype Train commandeers broadcast for freestyle debut of 'Club Girl' track recorded months prior, then delivers acapella report on 26-inch eel removed from man's anus in Vietnam alongside a lemon."
+    },
+    {
+      "start": "21:41",
+      "end": "48:09",
+      "canonical_segment": "News",
+      "title": "Trump NABJ Interview Post-Mortem",
+      "notes": "Case and Munch review Trump's contentious National Association of Black Journalists interview, including his claims about being best president for Black people since Lincoln, Kamala Harris 'turning Black,' and 'black jobs' rhetoric; chat grades interview 'poop' via poll."
+    },
+    {
+      "start": "48:09",
+      "end": "58:12",
+      "canonical_segment": "News",
+      "title": "Trump Call-In Impersonation",
+      "notes": "Case impersonates Trump in a live call-in; 'Trump' insults Case's appearance, cites Denzel Washington as favorite thing about Black people, describes orgasm from golf lawsuit opponent dying, redesigns U.S. flag with geometric paths, and claims to be outside Hunter Biden's trailer in cocaine snow."
+    },
+    {
+      "start": "58:12",
+      "end": "1:41:50",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web with Jeff Ripple",
+      "notes": "Jeff Ripple hosts viral video review: Kentucky Gov. Andy Beshear's Diet Mountain Dew apology, snowboarder grass-boarding, RFK Jr. lizard handling, penis-measurement TikTok, Olympic cardboard bed stress tests, Dale's Disney World equation, and celebrity Nazi fashion show."
+    },
+    {
+      "start": "1:41:50",
+      "end": "1:49:00",
+      "canonical_segment": "News",
+      "title": "AI Celebrity Hugging Videos News Bite",
+      "notes": "Liliana joins Case to discuss AI-generated videos of celebrities hugging younger selves; Liliana enjoys them, Case calls them creepy; they attempt an awkward on-camera hug recreation."
+    },
+    {
+      "start": "1:49:00",
+      "end": "1:53:10",
+      "canonical_segment": "News",
+      "title": "HR Candidate Review: Skibidi Toilet & Toilet Brush",
+      "notes": "Case and Pepito debate HR hire candidates including a Skibidi Toilet lookalike and a literal toilet brush; JD Vance lookalike Tommy Bedev offers services; democratic vote proposed for next stream."
+    },
+    {
+      "start": "1:53:10",
+      "end": "2:05:56",
+      "canonical_segment": "DJ Newsic",
+      "title": "DJ Newsic Sign-Off: Skibidi Toilet Copyright War",
+      "notes": "DJ Newsic performs musical news report on Invisible Narratives' DMCA strike against Garry's Mod for Skibidi Toilet content, interviews a Skibidi Toilet who raps about pooping from its mouth and living 'down south where your dick is,' then raids Katsumji."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored Trump interview coverage, impersonated Trump on live call-in, hosted Amongst the Web handoff, attempted hug with Liliana, ordered pogo stick for Kendelle.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on as 'Papita,' managed Hype Train music cues, participated in HR candidate discussion, appeared confused by Skibidi Toilet HR prospect.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Debuted 'Club Girl' track after year of writing, delivered acapella eel-in-anus report, refused to leave broadcast, declared self 'club girl girl.'",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Co-hosted Trump interview post-mortem, attempted fair-and-balanced framing, reacted to Trump's 'black jobs' and Kamala race claims.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Briefly appeared when Case asked 'Can I turn black?', corrected that Chet cannot turn black, grunge form turns grayish-green.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Hype Train's 'Club Girl' track was written over a year ago and recorded months prior to debut.",
+      "timestamp": "[11:28]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "26-inch live eel surgically removed from 31-year-old Indian national's anus in Vietnam alongside a lemon; eel bit large intestine.",
+      "timestamp": "[13:40]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case impersonated Trump on live broadcast, including claims about Denzel Washington, orgasm from lawsuit opponent's death, and redesigned U.S. flag with geometric paths.",
+      "timestamp": "[48:45]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case ordered pogo stick for Kendelle (210 lb limit) using $150 credit card points; plans to stream pogo attempt tomorrow.",
+      "timestamp": "[1:37:54]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Invisible Narratives issued DMCA strike against Garry's Mod for Skibidi Toilet content; creator Gary Newman denied involvement.",
+      "timestamp": "[1:55:19]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "HR candidate pool includes Skibidi Toilet lookalike, literal toilet brush, and JD Vance lookalike Tommy Bedev; democratic vote planned for next stream.",
+      "timestamp": "[1:49:00]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell opened with Pepito's sign-on and Hype Train's 'Club Girl' debut before dissecting Trump's disastrous NABJ interview with Munch. Case then impersonated Trump in a surreal call-in segment, followed by Jeff Ripple hosting Amongst the Web's viral video revue. Liliana joined for a news bite on AI celebrity hugging videos, leading to an awkward on-camera hug. The broadcast closed with an HR candidate review featuring a Skibidi Toilet and a toilet brush, then DJ Newsic's musical report on the Skibidi Toilet copyright war and a raid on Katsumji.",
+  "_meta": {
+    "vod_id": "W5B5IJS_MmI",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 103263,
+    "approx_prompt_tokens": 25815,
+    "transcript_lines": 211
+  }
+}
