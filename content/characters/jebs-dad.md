@@ -41,6 +41,7 @@ He displays a profound, open disdain for Jeb's woodworking skills and emotional 
 | [[episodes/2026-06-15|2026-06-15]] | Deceased father trapped in wooden board, non-verbal. |
 | [[episodes/2025-09-15|2025-09-15]] | deceased spirit in timber. |
 | [[episodes/2025-07-01|2025-07-01]] | co-host (spirit in timber). |
+| [[episodes/2024-07-30|2024-07-30]] | co-host (spirit in board). |
 | [[episodes/2024-07-22|2024-07-22]] | Spirit trapped in wooden board, banters with Jeb about selling him as lumber. |
 | [[episodes/2024-07-20|2024-07-20]] | Trapped in wooden board, favors Jet over Jeb, teaches debate alignment, scats with wood resonance advantage. |
 | [[episodes/2024-06-26|2024-06-26]] | co-host (trapped in wood). |

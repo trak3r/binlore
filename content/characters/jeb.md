@@ -53,6 +53,7 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2025-09-15|2025-09-15]] | How To host. |
 | [[episodes/2025-07-01|2025-07-01]] | instructional host. |
 | [[episodes/2025-06-19|2025-06-19]] | instructional host. |
+| [[episodes/2024-07-30|2024-07-30]] | instructional host. |
 | [[episodes/2024-07-22|2024-07-22]] | Hosts How To segment from woodshop with father trapped in wood, learns face dancing and minion lipstick. |
 | [[episodes/2024-07-20|2024-07-20]] | Debates Dad on better son (Dad picks Jet), learns RISA debate framework, scat-offs with Dad in wood resonance. |
 | [[episodes/2024-07-19|2024-07-19]] | instructional host. |

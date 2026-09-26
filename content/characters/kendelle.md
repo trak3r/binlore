@@ -53,14 +53,15 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-17|2025-06-17]] | In-Studio Contributor. |
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
+| [[episodes/2024-07-30|2024-07-30]] | in-studio contributor. |
 | [[episodes/2024-07-25|2024-07-25]] | in-studio contributor. |
-| [[episodes/2024-07-22|2024-07-22]] | Appears on-set with eye irritation, receives warm compress treatment, departs for mall mid-stream. |
 
 <details>
-<summary>Earlier appearances (67)</summary>
+<summary>Earlier appearances (68)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-07-22|2024-07-22]] | Appears on-set with eye irritation, receives warm compress treatment, departs for mall mid-stream. |
 | [[episodes/2024-07-20|2024-07-20]] | Appears on couch cam, sleeps through friend visit, debates smut vs no smut (concedes), wins fursona poll, declines boba after stream runs… |
 | [[episodes/2024-07-19|2024-07-19]] | in-studio contributor. |
 | [[episodes/2024-07-17|2024-07-17]] | in-studio contributor. |

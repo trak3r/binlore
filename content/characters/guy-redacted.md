@@ -3,10 +3,10 @@ title: Guy Redacted
 type: character
 aliases: []
 first_seen: 2024-06-07
-status: minor contributor
+status: recurring
 tags:
-  - character
-  - minor
+- character
+- minor
 ---
 
 # Guy Redacted
@@ -23,6 +23,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-07-30|2024-07-30]] | conspiracy correspondent. |
 | [[episodes/2024-06-18|2024-06-18]] | Debuts as new conspiracy correspondent; runs blueberry conspiracy deep-dive including Smurf interview. |
 | [[episodes/2024-06-07|2024-06-07]] | Auto-created minor character after appearing in 3 extracted episodes (threshold 3). |
 

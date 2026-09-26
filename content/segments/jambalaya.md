@@ -38,6 +38,7 @@ Rounds mix political trivia, culinary absurdism, and interpersonal gotchas. The 
 | [[../episodes/2024-07-20|2024-07-20]] | 26:14 | **Debut — Secret Obama Voter.** Chet, Liliana, Grandma Crumble Bottom, and Tyler; chat reveals Grandma voted Romney/Green Party by smell. Format tested for future guest use. |
 | [[../episodes/2024-07-20|2024-07-20]] | 3:41:14 | **Round Two — Secret Cannibal & Bedwetter.** Bill, Tim, Liliana, and Chet; Tim is both secret cannibal and secret bedwetter; Bill flees before the reveal. |
 | [[episodes/2024-07-22|2024-07-22]] | 01:08:51 | Jambalaya Debut: Who Is Burdened by What Has Been: Panel game (debuted 2024-07-20) where chat, Liliana, Grandma Crumble Bottom, and Tyler answer questions to reveal one liar burdened by the past; Liliana revealed as burdened contestant celebrating her burden. |
+| [[episodes/2024-07-30|2024-07-30]] | 1:51:35 | Jambalaya: Who Is the Secret Future Ghost of Rick?: Panel (Chet, Liliana, Grandma Crumble Bottom, Tyler) answers chat questions to deduce which panelist is secretly future ghost of Rick; Tyler revealed as the secret future ghost; CIA rebrand discussed. |
 | [[episodes/2025-06-02|2025-06-02]] | 1:18:42 | Evil Twin Identification Panel: Crum, Grandma Crumble Bottom, Pepito, and Christ field chat questions to expose an evil twin; reveals include Grandma's janitor-closet origin, Pepito's litter cannibalism, and Christ's humanitarian twin in Gaza. |
 
 ## Related Pages

@@ -1,0 +1,275 @@
+{
+  "segments": [
+    {
+      "start": "00:10",
+      "end": "07:58",
+      "canonical_segment": "News",
+      "title": "Cold Open: Pepito Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on as executive producer, identifying as the dog who produces the show."
+    },
+    {
+      "start": "07:59",
+      "end": "12:01",
+      "canonical_segment": "News",
+      "title": "Opening Monologue & Subscriber Thanks",
+      "notes": "Case Blackwell opens the broadcast, acknowledges new haircut and shirts, reads early subscriptions and bits while bantering with Pepito about countries and national identity."
+    },
+    {
+      "start": "12:02",
+      "end": "28:02",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Derailment: JD Vance Dolphin Post",
+      "notes": "Hype Train commandeers the feed with freestyle raps over dolphin beats while covering JD Vance's ridiculed social media post featuring dolphin sexual content; includes subscriber shoutouts."
+    },
+    {
+      "start": "28:03",
+      "end": "35:53",
+      "canonical_segment": "News",
+      "title": "Dolphin Interview on JD Vance",
+      "notes": "Case interviews a dolphin character (trad dolphin wife) who criticizes JD Vance for lacking dolphin family values and alpha dolphin machismo; dolphin promotes $13.99 TikTok course."
+    },
+    {
+      "start": "35:54",
+      "end": "44:21",
+      "canonical_segment": "News",
+      "title": "Twitch Reported as Zombie Brand",
+      "notes": "Case and Tyler discuss Wall Street Journal report that Twitch remains unprofitable after 10 years under Amazon, faces potential layoffs, declining web traffic and ad revenue; Tyler jokes about being a Twitch subsidiary."
+    },
+    {
+      "start": "44:22",
+      "end": "50:13",
+      "canonical_segment": "News",
+      "title": "Kick Platform Check-In",
+      "notes": "Tyler browses Kick live on air, notes top streamers including xQc and Adin Ross; Case expresses reluctance to support Kick due to ownership concerns."
+    },
+    {
+      "start": "50:35",
+      "end": "1:04:54",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Avocado Toast vs. Grilled Cheese",
+      "notes": "Debate analysts Ralph Munchcut and Leonard Crum argue sandwich supremacy; Munch champions grilled cheese as the Zerg of sandwiches, Crum defends avocado toast texture symphony; grilled cheese wins 50-50 vote."
+    },
+    {
+      "start": "1:04:55",
+      "end": "1:15:29",
+      "canonical_segment": "News",
+      "title": "Olympics Coverage with Rick",
+      "notes": "Rick joins for Paris Olympics coverage; discusses condom packaging, Phrygian cap mascot 'Frige' (red poop hat), French revolutionary heritage, and Tony Estanguet's liberty messaging."
+    },
+    {
+      "start": "1:15:30",
+      "end": "1:43:57",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet Guy the Science Eyes: Shingles Vaccine & Hand Science",
+      "notes": "Chet interrupts via science trigger; covers shingles vaccine possibly delaying dementia, wildfire smoke as dementia risk factor, then tests sizehim.com hand-scanning site for 'perfect match' — pays $1, receives 'small big head pencil' penis classification, disputes results."
+    },
+    {
+      "start": "1:43:58",
+      "end": "1:46:52",
+      "canonical_segment": "News",
+      "title": "Kendelle Phone Call",
+      "notes": "Case calls Kendelle mid-stream; she describes circuit training for TurboTax marketing, they exchange 'I love you' on air; chat hears everything."
+    },
+    {
+      "start": "1:46:53",
+      "end": "1:51:34",
+      "canonical_segment": "News",
+      "title": "Opening Ceremony Highlights & French Banter",
+      "notes": "Case and Rick watch Gojira/Les Mis opening ceremony clips; Rick continues anti-French commentary, Case challenges whether one can be racist against the French."
+    },
+    {
+      "start": "1:51:35",
+      "end": "2:14:19",
+      "canonical_segment": "Jambalaya",
+      "title": "Jambalaya: Who Is the Secret Future Ghost of Rick?",
+      "notes": "Panel (Chet, Liliana, Grandma Crumble Bottom, Tyler) answers chat questions to deduce which panelist is secretly future ghost of Rick; Tyler revealed as the secret future ghost; CIA rebrand discussed."
+    },
+    {
+      "start": "2:14:48",
+      "end": "2:28:18",
+      "canonical_segment": "News",
+      "title": "Semper Truth: Trump Ear Conspiracy",
+      "notes": "Guy Redacted analyzes AP photo of Trump's ear post-assassination attempt, disputes healing timeline, identifies anomalies (possible blade, UFO, multiple holes), defends Trump's jawline and blood lipstick."
+    },
+    {
+      "start": "2:28:19",
+      "end": "2:51:06",
+      "canonical_segment": "How To with Jeb",
+      "title": "How To with Jeb: O.J. Simpson, Banana Shaving, Pop Locking, Diddy Drink",
+      "notes": "Jeb presents O.J. Simpson murder reenactment (misread as orange juice), banana shaving tutorial, face-pop-locking with 80s dance instructors, and a 'diddy' cocktail (vodka lemonade); Jeb's Dad co-hosts from wooden board."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored full broadcast; opened with new haircut and shirts; conducted dolphin interview, called Kendelle live, closed with Jeb studio origin story.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on; bantered with Case on national identity and countries; issued no hospitality demands this episode.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Derailed JD Vance dolphin story with freestyle raps over dolphin beats; acknowledged subscribers; declared immortality before fading.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Tyler",
+      "role": "co-host",
+      "notes": "Co-hosted Twitch zombie brand segment, browsed Kick live, debated sandwiches in Munch & Crum, participated in Jambalaya panel, revealed as secret future ghost of Rick.",
+      "canonical_name": "Tyler",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued for avocado toast in Munch & Crum; cited tax write-offs for grilled cheese and mountain climbing; lost 50-50 vote.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Championed grilled cheese as Zerg sandwich; howled wolf persona; won 50-50 vote; teased Case about second computer.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "correspondent",
+      "notes": "correspondent. Joined for Olympics coverage and opening ceremony highlights; insulted French mascot; participated in Jambalaya as secret subject.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Triggered by 'science'; covered shingles vaccine/dementia, wildfire smoke risk; tested sizehim.com hand scanner, paid $1, disputed 'small big head pencil' result.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Grandma Crumble Bottom",
+      "role": "Jambalaya panelist",
+      "notes": "Jambalaya panelist; cited lawns as America's best; worst time travel reason: not having sex with LBJ; Werther's ectoplasm; Chrysler hood ornament lich headwear.",
+      "canonical_name": "Grandma Crumble Bottom",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Received mid-stream phone call from Case; described TurboTax marketing circuit training; exchanged 'I love you' on air.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Guy Redacted",
+      "role": "conspiracy correspondent",
+      "notes": "conspiracy correspondent. Delivered Semper Truth segment on Trump ear conspiracy; analyzed AP photo anomalies; defended Trump's jawline and blood lipstick.",
+      "canonical_name": "Guy Redacted",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosted How To with Jeb; presented O.J. Simpson murder reenactment, banana shaving, face pop-locking, diddy cocktail; co-hosted with Jeb's Dad.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "co-host (spirit in board)",
+      "notes": "co-host (spirit in board). Co-hosted How To from wooden board; bickered with Jeb; claimed to have met Rocket Ralph in astral plane.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Case Blackwell got a haircut and bought new shirts before broadcast.",
+      "timestamp": "[09:00]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case Blackwell is considering purchasing a second computer to offload graphics processing.",
+      "timestamp": "[52:51]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Chet spent $1 of network funds on sizehim.com hand-scanning site using a company card.",
+      "timestamp": "[1:27:05]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Chet's hand scan result classified his penis as 'small big head pencil' — he disputes the 'small' descriptor.",
+      "timestamp": "[1:29:37]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Kendelle is doing circuit training for TurboTax marketing campaigns.",
+      "timestamp": "[1:44:21]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jeb Nogget helped Case Blackwell build the current studio setup years ago after overhearing him mumbling on the street.",
+      "timestamp": "[2:49:08]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jeb's son Jet has been declared a hero in newspapers multiple times; predicted Diddy's human trafficking vibe in 2015.",
+      "timestamp": "[2:46:04]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered JD Vance's viral dolphin post with a live dolphin interview and Hype Train musical derailment, then reported on Twitch's 'zombie brand' status per the Wall Street Journal. The broadcast featured a Munch & Crum sandwich debate, Olympics mascot ridicule, a Chet Guy the Science Eyes segment where Chet paid for a hand-scan penis analysis, a Jambalaya panel revealing Tyler as the secret future ghost of Rick, Guy Redacted's Trump ear conspiracy analysis, and a How To with Jeb finale involving an O.J. Simpson murder reenactment mistaken for orange juice instructions.",
+  "_meta": {
+    "vod_id": "0SjXgi9nwxo",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 146265,
+    "approx_prompt_tokens": 36566,
+    "transcript_lines": 414
+  }
+}
