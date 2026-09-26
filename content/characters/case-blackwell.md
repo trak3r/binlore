@@ -130,3 +130,6 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[[03:49:29]]** ([[episodes/2024-06-10|2024-06-10]]): Struggles for over an hour on a frame-perfect jump in Volcano Manor to obtain Somber Smithing Stone 7; fails final attempt at [04:01:22].
 - **[[39:26]]** ([[episodes/2024-06-10|2024-06-10]]): Plans eight-hour debate marathon for weekend after June 10; deferred How To segment to kitchen stream tomorrow.
 - **[[01:32:29]]** ([[episodes/2024-06-12|2024-06-12]]): Plans a kitchen stream for the following broadcast, referencing a previous attempt involving 'Lube Chef'.
+- **[1:52:11]** ([[episodes/2024-06-14|2024-06-14]]): References domestic partner 'candle' returning home, requiring kitchen cleanup. [1:52:11]
+- **[1:54:48]** ([[episodes/2024-06-14|2024-06-14]]): Mentions 'kettles week off' affecting broadcast schedule for tomorrow. [1:54:48]
+- **[1:48:43]** ([[episodes/2024-06-14|2024-06-14]]): Confirms Shadow of the Erdtree DLC preparation as current broadcast objective. [1:48:43]

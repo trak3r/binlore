@@ -1,0 +1,75 @@
+{
+  "segments": [
+    {
+      "start": "00:04",
+      "end": "00:38",
+      "canonical_segment": "News",
+      "title": "Station Cold-Open: Papita Sign-On",
+      "notes": "Executive producer Pepito delivers the top-of-hour broadcast sign-on in character as station mascot Papita the dog, initializing the Elden Ring gameplay session."
+    },
+    {
+      "start": "00:38",
+      "end": "1:52:11",
+      "canonical_segment": "News",
+      "title": "Elden Ring: Science Eyes Build & DLC Prep",
+      "notes": "Anchor Case Blackwell progresses a dragon communion / frenzied flame incantation build through Mohgwyn Dynasty and subterranean areas, farming somber smithing stones 7-9 and upgrading the Dragon Communion Seal to +10 in preparation for the Shadow of the Erdtree DLC."
+    },
+    {
+      "start": "1:52:11",
+      "end": "1:55:02",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Moon Raid to Fancy",
+      "notes": "Blackwell closes the broadcast citing domestic obligations, executes a moon-themed raid to streamer Fancy, and signals possible return tomorrow contingent on life priorities."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors an extended Elden Ring gameplay session framed as a science-themed news desk, advancing a dragon communion build for upcoming DLC.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers the station cold-open as mascot Papita the dog, initializing the live broadcast.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "References domestic partner 'candle' returning home, requiring kitchen cleanup. [1:52:11]",
+      "timestamp": "1:52:11",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Mentions 'kettles week off' affecting broadcast schedule for tomorrow. [1:54:48]",
+      "timestamp": "1:54:48",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Confirms Shadow of the Erdtree DLC preparation as current broadcast objective. [1:48:43]",
+      "timestamp": "1:48:43",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Lead anchor Case Blackwell broadcasts an extended Elden Ring session framed as a science-themed news desk, advancing a dragon communion build through Mohgwyn Dynasty to prepare for the Shadow of the Erdtree DLC. Executive producer Pepito opens the broadcast in character as station mascot Papita. The stream concludes with a moon-themed raid to streamer Fancy.",
+  "_meta": {
+    "vod_id": "XrfJfB47CG8",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 65487,
+    "approx_prompt_tokens": 16371,
+    "transcript_lines": 248
+  }
+}
