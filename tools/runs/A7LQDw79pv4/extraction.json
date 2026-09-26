@@ -1,0 +1,164 @@
+{
+  "segments": [
+    {
+      "start": "00:04",
+      "end": "07:47",
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the official top-of-hour broadcast sign-on and countdown, identifying as the dog that produces the show."
+    },
+    {
+      "start": "07:47",
+      "end": "48:21",
+      "canonical_segment": "News",
+      "title": "Biden COVID Diagnosis & JD Vance Speech Review",
+      "notes": "Case Blackwell and Rick discuss President Biden testing positive for COVID, then watch and react to a 2021 JD Vance speech covering corporate opposition to conservatives, abortion, gender differences, Afghanistan withdrawal, and anti-Semitic tropes about the 2008 financial crisis."
+    },
+    {
+      "start": "48:21",
+      "end": "01:02:48",
+      "canonical_segment": "How To with Jeb",
+      "title": "Lock Picking, Kissing Tutorial & Line Dancing",
+      "notes": "Jeb Nogget presents how-to videos: breaking padlocks with nut wrenches, a Spanish-language kissing demonstration between two women, and a country line dance tutorial. Jeb's Dad (trapped in wood) interjects throughout."
+    },
+    {
+      "start": "01:02:48",
+      "end": "01:04:25",
+      "canonical_segment": "News",
+      "title": "Post-Jeb Transition & Blazer Shopping Setup",
+      "notes": "Case thanks Jeb, announces a Jeb dance segment for tomorrow, and begins searching for a new blazer online with chat suggestions while Kendall appears on camera."
+    },
+    {
+      "start": "01:04:25",
+      "end": "01:23:11",
+      "canonical_segment": "Munch & Crum",
+      "title": "JD Vance Clone Debate & Blazer Shopping",
+      "notes": "Munch and Crum debate whether JD Vance is a clone of Case (or vice versa), escalating into 9/11 accusations against Crum. Case shops for wild blazers from Temu/Shein with chat input while Munch claims he's buying coats for the crew."
+    },
+    {
+      "start": "01:23:11",
+      "end": "01:24:15",
+      "canonical_segment": "News",
+      "title": "Hard Raid to Gina & Patreon Plug",
+      "notes": "Case ends the stream early for the Patreon show, raids Gina's channel, and apologizes for not showing Belulia."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers the station cold open and countdown as the dog that produces the show.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosts the news desk, discusses Biden COVID and JD Vance rhetoric, advocates for de-escalation.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Briefly appears on camera during blazer shopping, reacts to Milf Manor drama.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "correspondent",
+      "notes": "correspondent. Hosts How To with Jeb, presents lock-picking, kissing, and line-dance tutorials while his father's spirit interrupts from the wood.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "co-host",
+      "notes": "co-host. Trapped in wood, complains about flies and the wood closing in, critiques Jeb's kissing education.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates Crum on JD Vance clone theory, claims he's buying the crew new coats, accuses Crum of doing 9/11.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Counters Munch on clone debate, claims he was apple picking with Munch on 9/11, wins the poll.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "JD Vance Clone Discourse",
+      "beat": "[2024-07-17] Case, Rick, Munch, and Crum debate whether JD Vance is a clone of Case (or vice versa) after Case realizes they look alike; Case has been working out daily since the realization.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[2024-07-17] Munch references buying coats for the crew as a winning gesture; Crum's gambling liability not directly mentioned but his 9/11 apple-picking alibi becomes a running gag.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Case has been working out every day since realizing he looks like JD Vance. [27:06]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Case mentions he is about to move and wonders if internet will improve or worsen. [16:41]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb's Dad",
+      "fact": "The wood trapping Jeb's Dad is closing in around him daily; flies around his head grow stronger. [49:29]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Munch claims he is buying the entire crew hot new coats after winning a debate poll. [01:05:07]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Crum claims he was apple picking with Munch all day on 9/11 as an alibi against Munch's accusation. [01:13:25]",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell opens with Biden's COVID diagnosis before diving into a 2021 JD Vance speech that triggers a resemblance crisis — Case has been working out daily since realizing they look alike. Jeb Nogget presents lock-picking, a Spanish kissing tutorial, and line dancing while his wood-trapped father heckles. Munch and Crum debate the clone theory, escalating into 9/11 accusations, while Case shops for wild blazers from Temu/Shein. The stream ends with a hard raid to Gina for the Patreon show.",
+  "_meta": {
+    "vod_id": "A7LQDw79pv4",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 77288,
+    "approx_prompt_tokens": 19322,
+    "transcript_lines": 172
+  }
+}

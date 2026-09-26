@@ -71,3 +71,4 @@ He displays a profound, open disdain for Jeb's woodworking skills and emotional 
 ## Notable moments
 
 - **[]** ([[episodes/2024-06-26|2024-06-26]]): Spirit permanently trapped inside a wooden board in Jeb's workshop. [02:39:24]
+- **[]** ([[episodes/2024-07-17|2024-07-17]]): The wood trapping Jeb's Dad is closing in around him daily; flies around his head grow stronger. [49:29]

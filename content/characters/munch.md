@@ -50,7 +50,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (55)</summary>
+<summary>Earlier appearances (56)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -63,6 +63,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
 | [[episodes/2024-07-20|2024-07-20]] | Wins wiki feet, wife verification, sweet vs salty, Alien vs Predator, carnivore diet, Spike vs Luffy, Shaggy vs Jedi Shaggy, Country… |
+| [[episodes/2024-07-17|2024-07-17]] | debate analyst. |
 | [[episodes/2024-06-28|2024-06-28]] | Served as debate analyst alongside Crum, favoring Trump throughout the broadcast. |
 | [[episodes/2024-06-26|2024-06-26]] | debate analyst. |
 | [[episodes/2024-06-18|2024-06-18]] | debate analyst. |
@@ -166,3 +167,4 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[]** ([[episodes/2024-05-10|2024-05-10]]): Invokes 'prima nocte/first knock' rule established by college kids in 1920 to claim victory in ties. [01:59:30]
 - **[]** ([[episodes/2024-05-15|2024-05-15]]): [103:00] Suffers mental breakdown after first debate loss; wanders studio for three minutes; returns with shaved head/bald.
 - **[[01:27:16]]** ([[episodes/2024-05-30|2024-05-30]]): Expressed desire to 'bury the axe' with Crum after spiritual concussion; thanked Crum for reasonable debate partnership.
+- **[]** ([[episodes/2024-07-17|2024-07-17]]): Munch claims he is buying the entire crew hot new coats after winning a debate poll. [01:05:07]
