@@ -56,6 +56,7 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 | [[../episodes/2024-06-07|2024-06-07]] | Case references the Beyblade Tournament as a pending community pledge event during stream planning. |
 | [[../episodes/2024-06-10|2024-06-10]] [40:45] | [40:45] Case mentions hoping to launch a call-in show format by next Monday, a step toward the community-pledged Beyblade Tournament execution. |
 | [[../episodes/2024-06-10|2024-06-10]] [39:26] | [39:26] Eight-hour debate marathon confirmed for weekend after next; Kendall's birthday week conflicts with this week. |
+| [[../episodes/2024-06-18|2024-06-18]] | Not advanced this episode. |
 | [[../episodes/2025-05-30|2025-05-30]] [39:25] | Munch references past Beyblade episodes during debate count banter. [39:25] |
 | [[../episodes/2025-06-02|2025-06-02]] [31:49] | [31:49] Case references pending Beyblade event possibly still 'inside the Papal Binclave'; no further advancement this episode. |
 | [[../episodes/2025-06-17|2025-06-17]] | [2025-06-17] Referenced as pending community-pledge event; no progress shown this episode. |

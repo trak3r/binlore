@@ -50,18 +50,19 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2025-06-17|2025-06-17]] | News Stowaway. |
 | [[episodes/2025-06-11|2025-06-11]] | news stowaway. |
 | [[episodes/2024-07-20|2024-07-20]] | Emerges from walls for Amongst the Web, rates videos civilly, shares catchphrase 'take that to the bank and smoke it', returns to walls on… |
+| [[episodes/2024-06-18|2024-06-18]] | news stowaway. |
 | [[episodes/2024-05-21|2024-05-21]] | news stowaway. |
 | [[episodes/2024-05-03|2024-05-03]] | news stowaway. |
 | [[episodes/2024-05-01|2024-05-01]] | news stowaway. |
 | [[episodes/2024-04-25|2024-04-25]] | news stowaway. |
 | [[episodes/2024-04-17|2024-04-17]] | news stowaway. |
-| [[episodes/2024-04-04|2024-04-04]] | news stowaway. |
 
 <details>
-<summary>Earlier appearances (16)</summary>
+<summary>Earlier appearances (17)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-04-04|2024-04-04]] | news stowaway. |
 | [[episodes/2024-03-28|2024-03-28]] | news stowaway. |
 | [[episodes/2024-03-27|2024-03-27]] | news stowaway. |
 | [[episodes/2024-03-21|2024-03-21]] | news stowaway. |
@@ -105,3 +106,4 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 - **[[51:34]]** ([[episodes/2024-04-17|2024-04-17]]): Formally banned from broadcast for Minnie Mouse upskirt joke but vows to continue watching from wall crawlspace.
 - **[[58:23]]** ([[episodes/2024-05-21|2024-05-21]]): Now shares the walls with a robot dog that executed 'affection' commands; organizes wall rats into 'soup rats' (right side) and 'friend rats' (left side).
 - **[[1:06:40]]** ([[episodes/2024-05-21|2024-05-21]]): Claims his tongue was bisected from biting a bone too hard, resulting in 'two swirling snakes' that eventually healed.
+- **[]** ([[episodes/2024-06-18|2024-06-18]]): Claims 'first person in the walls claims them' as legal precedent for wall squatting [17:20].

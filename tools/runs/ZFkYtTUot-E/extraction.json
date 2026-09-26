@@ -1,0 +1,217 @@
+{
+  "segments": [
+    {
+      "start": "00:04",
+      "end": "09:19",
+      "canonical_segment": "News",
+      "title": "Pepito Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on as a dog, imposes scroll tariffs, and manages early technical difficulties with alerts."
+    },
+    {
+      "start": "09:19",
+      "end": "14:46",
+      "canonical_segment": "News",
+      "title": "Fake Drake Call-In Bit",
+      "notes": "Case attempts to patch in a Drake impersonator for a celebrity call-in; the fake Drake rambles about Canada, syrup, mental struggles, and declares a presidential run."
+    },
+    {
+      "start": "14:46",
+      "end": "29:59",
+      "canonical_segment": "News",
+      "title": "Noam Chomsky Death Hoax & Peter Gibbon Wall Escape",
+      "notes": "Case investigates conflicting reports of Chomsky's death; Peter Gibbon interrupts from the walls, claims squatter's rights under a 'wall amendment,' and is eventually banished back for a month."
+    },
+    {
+      "start": "30:33",
+      "end": "59:34",
+      "canonical_segment": "News",
+      "title": "Trent at the Movies: Trailers Catch-Up",
+      "notes": "Trent screens Metroid Prime 4, Smile 2, Condor Man (1981), A Quiet Place: The Road Ahead game, and Fear of a Black Hat trailers; Case and Trent debate hat styles and practical effects."
+    },
+    {
+      "start": "01:03:33",
+      "end": "01:22:21",
+      "canonical_segment": "Amongst the Web",
+      "title": "Jeff Ripple: Armie Hammer Breaks Silence",
+      "notes": "Jeff Ripple reviews Armie Hammer's Access Hollywood interview addressing cannibal texts, abuse allegations, and comeback attempts; Case and Ripple debate forgiveness and Hollywood redemption."
+    },
+    {
+      "start": "01:22:21",
+      "end": "01:50:26",
+      "canonical_segment": "How To with Jeb",
+      "title": "Big Mac Taco, Latte Art, Paper Airplane & High Notes",
+      "notes": "Jeb demonstrates a Big Mac taco recipe, latte art tutorial, a 60-second paper airplane (which Case fails to replicate), and vocal coaching for high notes; Jeb's Dad's board interjects; AI-generated 'Jeff is the Wood' song debuts."
+    },
+    {
+      "start": "01:51:13",
+      "end": "02:21:29",
+      "canonical_segment": "News",
+      "title": "Conspiracy Time: Blueberry Conspiracy & Smurf Interview",
+      "notes": "Guy Redacted investigates whether blueberries are actually blue/good; deep-dive into colloidal silver turning a man blue, Randy's anti-blue-food rant, and a live interview with a self-identified Smurf who reveals Smurf biology, Mr. Pibb transmutation, and anarcho-monogamous society."
+    },
+    {
+      "start": "02:21:29",
+      "end": "02:43:00",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: Is Armie Hammer a Cannibal? + Poll Chaos",
+      "notes": "Munch defends Hammer as a sexually gifted deviant; Crum argues he's a terrible guy on an apology tour; poll graphics glitch, scores tie at 100, Munch claims moral victory; Case hires Munch for a 'mini peace task force.'"
+    },
+    {
+      "start": "02:43:00",
+      "end": "02:50:16",
+      "canonical_segment": "News",
+      "title": "Wrap-Up & Elden Ring Transition Attempt",
+      "notes": "Pepito returns cheesed-out; Case checks on Kendall, then attempts to switch to Elden Ring setup for Shadow of the Erdtree prep while Drake lingers on the line."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors the broadcast, manages Drake call-in, investigates Chomsky hoax, banishes Peter Gibbon, hosts trailers and debate, preps Elden Ring character for DLC.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open as a dog, manages cheese consumption, returns at wrap-up cheesed-out and high-voiced.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Escapes the walls, claims squatter rights via 'wall amendment,' interrupts Chomsky segment, banished back for a month.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "correspondent",
+      "notes": "correspondent. Hosts Trent at the Movies trailer block; debates Case on hat styles and practical effects.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Hosts Amongst the Web segment reviewing Armie Hammer's interview; spars with Case on Hammer's redemption.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "correspondent",
+      "notes": "correspondent. Hosts How To with Jeb from wood shop; demonstrates Big Mac taco, latte art, paper airplane, vocal coaching; contends with Dad's board and AI song.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Guy Redacted",
+      "role": "correspondent",
+      "notes": "Debuts as new conspiracy correspondent; runs blueberry conspiracy deep-dive including Smurf interview.",
+      "canonical_name": "Guy Redacted",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defends Armie Hammer as sexually gifted, claims debate moral victory at 100, hired for Case's 'mini peace task force.'",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues Hammer is a terrible guy on apology tour; references upcoming Crum Dick Punch debate prep; ties score at 100 via glitch.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walk-through confirmed at 52:33 and 02:44:39; Case checks on her before Elden Ring transition.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Peter Gibbon Wall Saga",
+      "beat": "[15:19] Peter Gibbon escapes the walls, claims 'first person in the walls claims them' squatter rights, and is banished back for a month after Chomsky segment.",
+      "timestamp": "15:19"
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[02:23:46] Munch references debate happening soon; Case claims to be setting up assets for the Crum Dick Punch execution.",
+      "timestamp": "02:23:46"
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "Not advanced this episode.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Claims 'first person in the walls claims them' as legal precedent for wall squatting [17:20].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Crum Dick Punch debate execution prep underway; Case claims to be setting up assets [02:23:46].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Needs to level Elden Ring character to 125-150 for Shadow of the Erdtree expansion; hunting for wet stone and occult modification [02:23:46].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Guy Redacted",
+      "fact": "Debuts as network's new conspiracy correspondent ('our new conspiracy guy redacted') [01:51:48].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Smurf (Blueberry Conspiracy)",
+      "fact": "Self-identified Smurf reveals Smurf biology: mono-coupling society with one queen (Smurfette), larval birth like 'weak fart,' 99% mortality en route to incubation hut, Smurf jam + milk = Mr. Pibb [02:14:22-02:17:19].",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News investigates the Noam Chomsky death hoax while fending off a wall escape by Peter Gibbon, then pivots to a trailer catch-up featuring Condor Man and Metroid Prime 4. Jeff Ripple dissects Armie Hammer's cannibal-text redemption tour, Jeb Nogget serves up a Big Mac taco and a paper airplane disaster, and new conspiracy correspondent Guy Redacted uncovers a Smurf-led anarcho-monogamous society beneath the blueberry discourse. The broadcast closes with a glitched Munch & Crum debate on Hammer's guilt, a tied 100-100 score, and Case's abortive attempt to switch to Elden Ring for DLC prep.",
+  "_meta": {
+    "vod_id": "ZFkYtTUot-E",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 140617,
+    "approx_prompt_tokens": 35154,
+    "transcript_lines": 296
+  }
+}

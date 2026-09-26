@@ -58,7 +58,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (58)</summary>
+<summary>Earlier appearances (59)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -74,6 +74,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
 | [[episodes/2024-07-20|2024-07-20]] | Loses wiki feet, wins wife verification, sweet vs salty, Alien vs Predator, carnivore diet, gold vs porcelain teeth, orphan meat, spoon vs… |
+| [[episodes/2024-06-18|2024-06-18]] | debate analyst. |
 | [[episodes/2024-06-13|2024-06-13]] | debate analyst. |
 | [[episodes/2024-06-10|2024-06-10]] | debate analyst. |
 | [[episodes/2024-06-05|2024-06-05]] | debate analyst. |
@@ -236,3 +237,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[[01:20:26]]** ([[episodes/2024-06-10|2024-06-10]]): Has 'egg scallium condition' — bits of hard skin shed with mucusy membrane shortly after birth, like a prehensile tail.
 - **[[01:22:12]]** ([[episodes/2024-06-10|2024-06-10]]): Was at a deli near the Twin Towers on 9/11 but does not consider himself a survivor.
 - **[[01:18:46]]** ([[episodes/2024-06-10|2024-06-10]]): Household has eight bathrooms but all occupants cram into one rented portapotty outside; wishes they had bought it.
+- **[]** ([[episodes/2024-06-18|2024-06-18]]): Crum Dick Punch debate execution prep underway; Case claims to be setting up assets [02:23:46].

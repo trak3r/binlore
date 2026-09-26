@@ -70,6 +70,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2024-05-30|2024-05-30]] | Crum appears in Munch & Crum debate with score at 97, showing unusual civility and cooperation with Munch; no direct reference to gorilla wager or groin punch forfeit. |
 | [[../episodes/2024-06-05|2024-06-05]] | Crum and Munch continue friendly-truce dynamic across two debates; Munch concedes second debate to tie score, referencing hospital bar drinks afterward. |
 | [[../episodes/2024-06-07|2024-06-07]] | Case alludes to the Crum Punch trilogy history while setting an 8-hour debate marathon goal, noting Munch and Crum may not survive eight straight hours. |
+| [[../episodes/2024-06-18|2024-06-18]] [02:23:46] | [02:23:46] Munch references debate happening soon; Case claims to be setting up assets for the Crum Dick Punch execution. |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |

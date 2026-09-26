@@ -133,3 +133,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[1:52:11]** ([[episodes/2024-06-14|2024-06-14]]): References domestic partner 'candle' returning home, requiring kitchen cleanup. [1:52:11]
 - **[1:54:48]** ([[episodes/2024-06-14|2024-06-14]]): Mentions 'kettles week off' affecting broadcast schedule for tomorrow. [1:54:48]
 - **[1:48:43]** ([[episodes/2024-06-14|2024-06-14]]): Confirms Shadow of the Erdtree DLC preparation as current broadcast objective. [1:48:43]
+- **[]** ([[episodes/2024-06-18|2024-06-18]]): Needs to level Elden Ring character to 125-150 for Shadow of the Erdtree expansion; hunting for wet stone and occult modification [02:23:46].
