@@ -142,3 +142,8 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[]** ([[episodes/2024-06-24|2024-06-24]]): Case Blackwell attended a very small high school with roughly 40 students in his class. [02:01:13]
 - **[[1:14:04]]** ([[episodes/2024-07-09|2024-07-09]]): Developing CASM assets and call-in show assets for Kendall's future streaming setup.
 - **[[1:32:17]]** ([[episodes/2024-07-09|2024-07-09]]): References Reverend Wolf's prophecy that 'Fiona will never come back and I'll never move.'
+- **[[05:28]]** ([[episodes/2024-07-23|2024-07-23]]): Has been playing Hollow Knight on Switch, causing muscle-memory confusion with Elden Ring controls (A/B button swap).
+- **[[38:43]]** ([[episodes/2024-07-23|2024-07-23]]): Defeats Dry Leaf Dane in a friendly duel and acquires Dane's hat (Sun-faded and Lightly Soiled Hat).
+- **[[01:46:59]]** ([[episodes/2024-07-23|2024-07-23]]): Defeats Rugalia, Great Red Bear, and acquires Roar of Rugalia incantation and Gravebird Black Quill Armor.
+- **[[02:16:23]]** ([[episodes/2024-07-23|2024-07-23]]): Defeats Messmer the Impaler in two phases after multiple attempts, using Mimic Tear and a summoned cooperator.
+- **[[02:18:05]]** ([[episodes/2024-07-23|2024-07-23]]): Mentions a meeting in 20 minutes and suggests a possible return stream on Friday.

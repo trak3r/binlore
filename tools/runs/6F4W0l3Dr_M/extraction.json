@@ -1,0 +1,73 @@
+{
+  "segments": [
+    {
+      "start": "00:10",
+      "end": "02:21:52",
+      "canonical_segment": "News",
+      "title": "Return to the Eldeners: Shadow of the Erdtree Playthrough",
+      "notes": "Case Blackwell cold-opens with Pepito, then spends the broadcast re-acclimating to Elden Ring's DLC after a Hollow Knight hiatus; explores the Land of Shadow, defeats Dry Leaf Dane and Rugalia the Great Red Bear, and clears Messmer the Impaler in a two-phase fight before signing off for a meeting."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors a solo gaming broadcast, re-learning Elden Ring controls and clearing Messmer the Impaler.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers the top-of-hour cold open before handing off to Case for the gameplay session.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Has been playing Hollow Knight on Switch, causing muscle-memory confusion with Elden Ring controls (A/B button swap).",
+      "timestamp": "[05:28]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Defeats Dry Leaf Dane in a friendly duel and acquires Dane's hat (Sun-faded and Lightly Soiled Hat).",
+      "timestamp": "[38:43]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Defeats Rugalia, Great Red Bear, and acquires Roar of Rugalia incantation and Gravebird Black Quill Armor.",
+      "timestamp": "[01:46:59]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Defeats Messmer the Impaler in two phases after multiple attempts, using Mimic Tear and a summoned cooperator.",
+      "timestamp": "[02:16:23]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Mentions a meeting in 20 minutes and suggests a possible return stream on Friday.",
+      "timestamp": "[02:18:05]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns to the Shadow of the Erdtree DLC after a hiatus, re-learning controls while exploring the Land of Shadow. He defeats Dry Leaf Dane and the Great Red Bear Rugalia before ultimately conquering Messmer the Impaler in a two-phase battle, then concludes the broadcast with a raid.",
+  "_meta": {
+    "vod_id": "6F4W0l3Dr_M",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 82803,
+    "approx_prompt_tokens": 20700,
+    "transcript_lines": 240
+  }
+}
