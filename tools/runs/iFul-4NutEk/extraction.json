@@ -1,0 +1,225 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "start": "00:04",
+      "end": "08:26",
+      "notes": "Pepito delivers the official broadcast sign-on and countdown, claims Case said he could win Olympics in crew meeting."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Elon Musk vs EU, UK Unrest, Military Bases",
+      "start": "08:26",
+      "end": "40:03",
+      "notes": "Case covers Musk's Tropic Thunder meme response to EU DSA warning, Musk's UK civil war tweets and fake detainment camp article, debate over US military bases in UK (6 Air Force bases confirmed). Kendelle walks through at 20:59."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "title": "Who Would Win Olympic Gold?",
+      "start": "40:03",
+      "end": "50:09",
+      "notes": "Munch claims he'd win any Olympic event through sheer excellence; Crum dismantles Munch's delusions citing his illiteracy and false reality. Munch declares himself the Olympics personified."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "title": "Blazer Tailoring, Dry Mouth, Mouth Exercises, French Kissing, Fart Jar",
+      "start": "52:52",
+      "end": "01:22:35",
+      "notes": "Jeb and his father (trapped in wood) follow a blazer-making tutorial, then watch videos on dry mouth remedies, mouth strengthening exercises, French kissing techniques (cupcake demo), and a disturbing fart-in-a-jar tutorial featuring a doll named Dave. Jeb flags the fart channel as potentially predatory due to children's content and doll-sniffing."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "AI Chatbot Usage Report & Live Roleplay Test",
+      "start": "01:25:09",
+      "end": "01:37:57",
+      "notes": "Liliana joins desk to discuss Washington Post analysis of 200k WildChat conversations: 21% creative writing/roleplay, 18% homework, 15% work, 7% sexual. Case and Liliana test ChatGPT roleplay as Russian oligarch on Martha's Vineyard; Kendall reacts to Love Is Blind UK in background."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "title": "JD Vance Drag Name Debate",
+      "start": "01:37:57",
+      "end": "01:52:20",
+      "notes": "Munch proposes 'Conserva Live'; Crum counters with 'Ashley's Furnipus' (Ashley's Furniture + couch sex + pussy pun). Chat suggests 'Couchina D'. Munch claims victory, announces run for office."
+    },
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Summer Penis Phenomenon",
+      "start": "01:52:56",
+      "end": "01:59:25",
+      "notes": "Chet triggers on 'science', tackles Crum through a wall (citing castle doctrine sign), then explains 'summer penis' — heat-induced vasodilation making flaccid penis appear larger — with Paul Wall musical accompaniment."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Movie Trailers: Adam Sandler, Twilight of the Warriors, The Monkey, Moana 2",
+      "start": "01:59:25",
+      "end": "02:19:19",
+      "notes": "New correspondent Trent hosts trailer reactions: Adam Sandler stand-up special, Hong Kong walled city action film, Osgood Perkins' The Monkey (teeth in dark hole), Moana 2 (minions crossover). Case and Trent debate whether all kids movies are about death."
+    },
+    {
+      "canonical_segment": "DJ Newsic",
+      "title": "Hellman's Mayonnaise Fragrance & Hype Train Finale",
+      "start": "02:19:40",
+      "end": "02:36:03",
+      "notes": "DJ Newsic and Hype Train close show: Hellman's partners with Will Levis on mayonnaise-based fragrance 'Mayonnaise Accord'; Hype Train delivers extended mayonnaise sexual freestyle over beats, promotes mayonnaise as lube. Pepito appears on roof demanding cheese."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open sign-on; later appears on roof demanding cheese during finale.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors news desk, moderates debates, triggers Chet segment, hosts movie trailer handoff to Trent.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walks through studio with girlfriend; reacts to Love Is Blind UK; uses brother's Netflix account.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Claims he'd win Olympic gold through excellence; proposes 'Conserva Live' as JD Vance drag name; declares candidacy for office.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Dismantles Munch's Olympic delusions; proposes 'Ashley's Furnipus' drag name; tackled through wall by Chet for saying 'science'.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Co-hosts How To with deceased father in wood; attempts blazer tailoring, flags fart-jar channel as potentially predatory.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "co-host (spirit in wood)",
+      "notes": "co-host (spirit in wood). Trapped in wooden board; bitter bickering with Jeb; good mood this episode.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Joins news desk for AI chatbot report; participates in ChatGPT oligarch roleplay test.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Triggers on 'science', tackles Crum through wall citing castle doctrine sign, explains summer penis with Paul Wall rhymes.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "field correspondent",
+      "notes": "field correspondent. Debuts as movie trailer host ('your boy Trent'); reacts to trailers, debates Case on kids movies and death.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "musical finale host",
+      "notes": "musical finale host. Blue-haired DJ closes broadcast with Hype Train; high threshold for mayonnaise sexual content.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train host",
+      "notes": "hype train host. Derails into extended mayonnaise sexual freestyle; promotes mayonnaise as lube; acknowledges bits/subs.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Kendelle",
+      "fact": "Has a girlfriend who accompanied her to the studio.",
+      "timestamp": "[22:28]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Uses her brother's Netflix account for streaming.",
+      "timestamp": "[23:10]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Enforces 'castle doctrine' sign on studio wall: 'if you enter here without my permission, I will tackle you loony tune style through a wall at lightning speed' — used to justify tackling Crum when he said 'science'.",
+      "timestamp": "[01:55:00]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Tackled through a wall by Chet after saying 'science'; left a Crum-shaped hole in the wall.",
+      "timestamp": "[01:54:37]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trent",
+      "fact": "New on-air correspondent introduced as 'your boy Trent' hosting movie trailer segment (Amongst the Web).",
+      "timestamp": "[02:00:01]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Hellman's",
+      "fact": "Released mayonnaise-based fragrance 'Mayonnaise Accord' developed with Titans QB Will Levis and a perfumer.",
+      "timestamp": "[02:25:38]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covers Elon Musk's EU feud and UK misinformation, then descends into Olympic delusion debates, a tailoring tutorial derailed by a predatory fart-jar channel, AI chatbot usage statistics, a JD Vance drag name contest won by 'Ashley's Furnipus', Chet tackling Crum through a wall to explain summer penis physiology, and a movie trailer block hosted by new correspondent Trent. The broadcast closes with DJ Newsic and Hype Train sexualizing Hellman's new mayonnaise fragrance while Pepito demands cheese on the roof.",
+  "_meta": {
+    "vod_id": "iFul-4NutEk",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 125534,
+    "approx_prompt_tokens": 31383,
+    "transcript_lines": 350
+  }
+}

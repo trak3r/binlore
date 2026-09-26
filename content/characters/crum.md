@@ -58,7 +58,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (66)</summary>
+<summary>Earlier appearances (67)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -73,6 +73,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-06-02|2025-06-02]] | debate analyst. |
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
+| [[episodes/2024-08-13|2024-08-13]] | debate analyst. |
 | [[episodes/2024-08-07|2024-08-07]] | debate analyst. |
 | [[episodes/2024-07-30|2024-07-30]] | debate analyst. |
 | [[episodes/2024-07-25|2024-07-25]] | debate analyst. |
@@ -247,3 +248,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[]** ([[episodes/2024-06-18|2024-06-18]]): Crum Dick Punch debate execution prep underway; Case claims to be setting up assets [02:23:46].
 - **[]** ([[episodes/2024-07-17|2024-07-17]]): Crum claims he was apple picking with Munch all day on 9/11 as an alibi against Munch's accusation. [01:13:25]
 - **[01:32:11]** ([[episodes/2024-07-19|2024-07-19]]): Crum claims he bought 'Habitat for Hammies' (hamster housing) and ironically pulled his hamstring.
+- **[[01:54:37]]** ([[episodes/2024-08-13|2024-08-13]]): Tackled through a wall by Chet after saying 'science'; left a Crum-shaped hole in the wall.

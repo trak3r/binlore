@@ -53,14 +53,15 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-17|2025-06-17]] | In-Studio Contributor. |
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
+| [[episodes/2024-08-13|2024-08-13]] | in-studio contributor. |
 | [[episodes/2024-08-07|2024-08-07]] | in-studio contributor. |
-| [[episodes/2024-08-01|2024-08-01]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (70)</summary>
+<summary>Earlier appearances (71)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-08-01|2024-08-01]] | in-studio contributor. |
 | [[episodes/2024-07-30|2024-07-30]] | in-studio contributor. |
 | [[episodes/2024-07-25|2024-07-25]] | in-studio contributor. |
 | [[episodes/2024-07-22|2024-07-22]] | Appears on-set with eye irritation, receives warm compress treatment, departs for mall mid-stream. |
@@ -178,3 +179,5 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[[43:29]]** ([[episodes/2024-07-09|2024-07-09]]): Has a wikiFeet page created by an unknown party (chat suspects Eldrick); page features a single photo from Instagram showing her foot tattoo.
 - **[[1:22:53]]** ([[episodes/2024-07-09|2024-07-09]]): Owns a Charlie Pellet (NYC subway voice) sound pellet.
 - **[11:07]** ([[episodes/2024-08-07|2024-08-07]]): Kendelle attempts pogo stick in studio, achieves ~8.78 bounces
+- **[[22:28]]** ([[episodes/2024-08-13|2024-08-13]]): Has a girlfriend who accompanied her to the studio.
+- **[[23:10]]** ([[episodes/2024-08-13|2024-08-13]]): Uses her brother's Netflix account for streaming.

@@ -23,6 +23,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-08-13|2024-08-13]] | field correspondent. |
 | [[episodes/2024-08-07|2024-08-07]] | film correspondent. |
 | [[episodes/2024-07-09|2024-07-09]] | field correspondent. |
 | [[episodes/2024-03-21|2024-03-21]] | movies correspondent. |
@@ -43,6 +44,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 - **[2:07:56]** ([[episodes/2024-02-07|2024-02-07]]): Uses '10 minutes self-reflection' phone app for therapy [2:07:56]
 - **[]** ([[episodes/2024-02-27|2024-02-27]]): Hosts recurring 'Trent at the Movies' segment reviewing trailers; advocates for actor safety on green-screen volumes. [1:40:07]
 - **[1:04:50]** ([[episodes/2024-05-01|2024-05-01]]): Mother dropped him off at the studio 20 minutes before broadcast; Chris claims Trent's father owns a steak shop and the parents do not get along.
+- **[[02:00:01]]** ([[episodes/2024-08-13|2024-08-13]]): New on-air correspondent introduced as 'your boy Trent' hosting movie trailer segment (Amongst the Web).
 
 ## Open questions
 
