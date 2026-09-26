@@ -1,0 +1,128 @@
+{
+  "segments": [
+    {
+      "start": "00:01",
+      "end": "10:24",
+      "canonical_segment": "News",
+      "title": "Candyland History Package",
+      "notes": "Pre-recorded documentary segments on Candyland's polio-ward origins, Eleanor Abbott's invention, and the game's evolution aired as cold-open filler."
+    },
+    {
+      "start": "11:14",
+      "end": "15:38",
+      "canonical_segment": "News",
+      "title": "Stream Launch & Player Introductions",
+      "notes": "Case Blackwell troubleshoots timer overlay, introduces seven friends as players for a homebrew Candyland RPG session."
+    },
+    {
+      "start": "15:38",
+      "end": "39:12",
+      "canonical_segment": "News",
+      "title": "Character Creation & Lore Dump",
+      "notes": "Charles provides voiced narration for world intro; each player defines a custom class, stats, and backstory (Raw Dog, Gina Cornal, Glenn, Oxford, Getterook Anol, Sir Francis Dorfin, Dad)."
+    },
+    {
+      "start": "39:12",
+      "end": "1:49:06",
+      "canonical_segment": "News",
+      "title": "Early Board Progress & First Encounters",
+      "notes": "Claire, Tim, Carl, Bill, John, Charles, and Raw Dog take initial turns; key events: Jolly Jim meat truck, Agent Ginger rebel, Monopoly Man property deed, Plum Tree prophecy, Gingerbread Man combat, Icebreaker Gum diplomacy."
+    },
+    {
+      "start": "1:49:06",
+      "end": "3:09:13",
+      "canonical_segment": "News",
+      "title": "Mid-Game Escalation & Starcracker Duel",
+      "notes": "Claire and Raw Dog reach Peppermint Wastes, defeat shell-game operator via Mr. Beast mind-meld; Andy and Claire enter Starcracker's human museum, play Squid Game sway-off, murder Starcracker after he surrenders."
+    },
+    {
+      "start": "3:09:13",
+      "end": "3:52:22",
+      "canonical_segment": "News",
+      "title": "Split Party Advances: Rainbow Road & Peanut Acres",
+      "notes": "Tim gains Spice blessing and double sweetness; Carl frees Gummy Zoo, philosophizes worm; Bill and John kill Fudge Cyclops, rocket to Rainbow Valley then Peanut Acres; John sacrifices pig family to Bubble Worm Pond, trades sweetness for bitter armor."
+    },
+    {
+      "start": "3:52:22",
+      "end": "4:34:51",
+      "canonical_segment": "News",
+      "title": "Finale: Twix Crucifix Cult & Mr. Mint Awakening",
+      "notes": "Raw Dog converts to Crunchy Jesus religion, murders Outhouse for golden cards, eats sacred wafer, gains investigation curse and mental clarity; colossal Mr. Mint (Last of the Slave Giants) descends as session cliffhanger."
+    },
+    {
+      "start": "4:34:51",
+      "end": "4:38:55",
+      "canonical_segment": "News",
+      "title": "Wrap & Raid Out",
+      "notes": "Case screenshots board positions (12, 14, 21, 31, 33, 71), thanks Charles for voiceover, raids Avali's channel."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "anchor. DMed a 7-player homebrew Candyland RPG, improvising mechanics and narrating a full board traversal in one session.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Charles",
+      "role": "correspondent",
+      "notes": "correspondent. Recorded extensive voiced narration for world intro and area transitions, performing multiple takes per location.",
+      "canonical_name": "Charles",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Infiltrated the stream overlay with cheese graphics during Carl's turn, prompting Case to acknowledge his presence in the walls.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "correspondent",
+      "notes": "correspondent. Referenced during stream setup as a 'high train' overlay element causing visual clutter on the opening screen.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Ran a complete Candyland RPG campaign in a single 4.5-hour broadcast, inventing mechanics (stats, cards, combat, leveling) live.",
+      "timestamp": "[11:14]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Charles",
+      "fact": "Provided full voiceover narration for every area transition and encounter intro, recorded prior to stream.",
+      "timestamp": "[15:38]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Manifested as cheese graphics on the stream overlay during Carl's turn, confirming continued newsroom wall residency.",
+      "timestamp": "[58:58]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News aired a special 4.5-hour Candyland RPG session hosted by Case Blackwell, guiding seven players through a homebrew campaign from polio-ward origins to a climactic confrontation with Mr. Mint, Last of the Slave Giants. The party fractured across the board, with John and Bill rocketing to Peanut Acres via Rainbow Road while Claire and Raw Dog murdered a Starcracker in the Peppermint Wastes. The session ended on a cliffhanger as Raw Dog's wafer consumption summoned a colossal giant, with board positions saved for a potential continuation.",
+  "_meta": {
+    "vod_id": "P1GimssHUcE",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 232812,
+    "approx_prompt_tokens": 58203,
+    "transcript_lines": 651
+  }
+}

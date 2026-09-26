@@ -159,3 +159,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[]** ([[episodes/2024-08-27|2024-08-27]]): Plans to start next week with voicemails. [01:25:50]
 - **[02:21:41]** ([[episodes/2024-08-30|2024-08-30]]): [02:21:41] Self-discloses ADD: 'honestly dude I got fuckin ADD like it's about time that I fucking admitted dude'.
 - **[00:35:08]** ([[episodes/2024-08-30|2024-08-30]]): [00:35:08] Birthday was months ago; wished for camera lens, not world peace.
+- **[[11:14]]** ([[episodes/2024-09-08|2024-09-08]]): Ran a complete Candyland RPG campaign in a single 4.5-hour broadcast, inventing mechanics (stats, cards, combat, leveling) live.
