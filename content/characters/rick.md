@@ -35,6 +35,7 @@ Rick joined the broadcast on the [[episodes/2026-09-04|2026-09-04 broadcast]] to
 | [[episodes/2025-06-24|2025-06-24]] | Deep State correspondent / Amongst the Web host. |
 | [[episodes/2025-06-13|2025-06-13]] | Amongst the Web host. |
 | [[episodes/2025-06-02|2025-06-02]] | Amongst the Web host. |
+| [[episodes/2024-09-13|2024-09-13]] | Amongst the Web host. |
 | [[episodes/2024-08-08|2024-08-08]] | Amongst the Web host. |
 | [[episodes/2024-04-25|2024-04-25]] | host of Amongst the Web. |
 | [[episodes/2024-01-17|2024-01-17]] | Debuted as a political correspondent claiming ex-CIA service in three wars, age 28, and metal implants; covered Iowa caucus results. |

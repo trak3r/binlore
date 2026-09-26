@@ -1,0 +1,217 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "09:13",
+      "canonical_segment": "News",
+      "title": "Cold Open: Pepito Sign-On and Calendar Confusion",
+      "notes": "Pepito delivers station ID as 'Papita'; Case and Pepito banter about day of the week, YIVO Institute, and Jewish identity."
+    },
+    {
+      "start": "11:20",
+      "end": "15:01",
+      "canonical_segment": "News",
+      "title": "Friday the 13th Special: Jason Voorhees Studio Interview",
+      "notes": "Case attempts to interview a silent Jason Voorhees; Pepito and Case compare mask to JD Vance."
+    },
+    {
+      "start": "15:46",
+      "end": "26:24",
+      "canonical_segment": "News",
+      "title": "Jeff Ripple Reports: AI Minecraft Civilization and IG Nobel Tease",
+      "notes": "Ripple covers Project Sid (1,000 AI agents in Minecraft) and previews IG Nobel Prize winners."
+    },
+    {
+      "start": "26:58",
+      "end": "39:07",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "IG Nobel Prize: Anal Respiration, Coin Bias, and Butt-Breathing Training",
+      "notes": "Chet and ChetAI detail 2024 IG Nobel winners: mammals breathing via anus, coin flip bias, plastic plant mimicry, super-placebos, poor age records; Chet demonstrates anal breathing exercises."
+    },
+    {
+      "start": "40:10",
+      "end": "01:04:00",
+      "canonical_segment": "How To with Jeb",
+      "title": "Cholo Fit, Peanut Butter Milkshake, Trap Flex, and Pants Incident",
+      "notes": "Jeb and ghost dad present Cholo workout, no-blender milkshake, trap flex tutorial; Jeb soils himself on air, attempts Appalachian accent, gets timeout from dad."
+    },
+    {
+      "start": "01:04:40",
+      "end": "01:06:10",
+      "canonical_segment": "News",
+      "title": "Post-Jeb Debrief and Blazer Watch",
+      "notes": "Case and Tyler react to Jeb's accident; Case awaits delivery of second blazer."
+    },
+    {
+      "start": "01:06:10",
+      "end": "01:22:06",
+      "canonical_segment": "News",
+      "title": "Rick Election Update: Trump/Vance Haitian Migrant Rhetoric and DOGE Task Force",
+      "notes": "Rick covers Trump/Vance repeating debunked pet-eating claims amid Springfield bomb threats, proposed Venezuelan deportations, and Elon Musk-led Department of Government Efficiency (DOGE)."
+    },
+    {
+      "start": "01:22:06",
+      "end": "01:43:31",
+      "canonical_segment": "Amongst the Web",
+      "title": "Viral Roundup: LBJ Pants, AI Dog, Sleep Meditation, JD Vance Couch, Wrestling, BMX, and Elder Pizza",
+      "notes": "Tyler hosts: LBJ tailor call, AI chicken-to-pig video, Tyson's puppy, Zach Woods sleep rant, JD Vance couch meme, HOG wrestling Street Fighter bit, Aggie & Terry BMX, Texas Tech sports glitch, late-night pizza artisans."
+    },
+    {
+      "start": "01:43:31",
+      "end": "01:54:53",
+      "canonical_segment": "News",
+      "title": "Crum Closes with Penis Food Poisoning Case Study",
+      "notes": "Crumb reports Lebanese man's Bacillus cereus penile infection ('fried rice syndrome') from vomit/diarrhea contact during sex; Crum and Case banter about gold jacket and 'eat the cat' song."
+    },
+    {
+      "start": "01:54:53",
+      "end": "02:11:56",
+      "canonical_segment": "DJ Newsic",
+      "title": "Garth's Creed Parody: 'With Hat Wide Open'",
+      "notes": "DJ Newsic produces AI-assisted Creed parody for Garth (nomad rockstar, met Scott Stapp, owns hat); live performance, chat poll, raid roll call."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors full broadcast; interviews Jason Voorhees, moderates science and election segments, debuts new gold blazer.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open as 'Papita'; spars with Case on calendar, identity, and Jason Voorhees.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Reports on AI Minecraft civilization and IG Nobel Prize; trades barbs with Case and Hype Train.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Triggers on 'science'; presents IG Nobel winners and demonstrates anal breathing training.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "AI co-host",
+      "notes": "AI co-host. Assists Chet with IG Nobel data; jokes about binary boners and content moderation.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosts How To with ghost dad; presents Cholo Fit, milkshake, trap flex; soils pants on air; attempts Appalachian accent.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "co-host (trapped in wood)",
+      "notes": "co-host (trapped in wood). Bickers with Jeb from wooden board; puts Jeb in timeout after pants incident.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "Amongst the Web host",
+      "notes": "Amongst the Web host. Delivers election update on Trump/Vance rhetoric and DOGE task force; later hosts Amongst the Web as 'Tyler'.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Delivers final news story on penile food poisoning; complains of light sensitivity from gold jacket; claims envelope-licking side channel.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Garth",
+      "role": "call-in guest",
+      "notes": "call-in guest. Receives custom song; reveals he met Scott Stapp, owns a hat, identifies as nomad rockstar.",
+      "canonical_name": "Garth",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Brief walk-by during cold open; Case notes she fled to avoid work meeting hearing stream.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Claims ability to breathe through anus; demonstrates Kegel-like anal breathing training live on air.",
+      "timestamp": "[32:22-38:46]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "Defecates in pants during How To segment; continues broadcast while managing containment.",
+      "timestamp": "[56:33-57:20]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "Reports light sensitivity from gold blazer; claims side channel rating envelope flavors.",
+      "timestamp": "[01:44:35-01:47:18]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Garth",
+      "fact": "Met Scott Stapp of Creed in person; owns a hat; self-describes as nomad rockstar maverick.",
+      "timestamp": "[02:02:32-02:03:36]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Referred to as 'Papita' during cold open sign-on.",
+      "timestamp": "[00:06]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News marks Friday the 13th with a silent Jason Voorhees interview before pivoting to an AI-generated Minecraft civilization and the 2024 IG Nobel Prizes, where Chet Manscape demonstrates anal respiration techniques. Jeb Nogget's instructional segment descends into a live pants-soiling incident and a ghost-dad timeout, while Rick details Trump and Vance's escalating Haitian migrant rhetoric and the proposed DOGE task force. The broadcast closes with Crum's medical case study on penile food poisoning and DJ Newsic's AI-assisted Creed parody for Garth.",
+  "_meta": {
+    "vod_id": "jub4zuwY84Q",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 102011,
+    "approx_prompt_tokens": 25502,
+    "transcript_lines": 269
+  }
+}
