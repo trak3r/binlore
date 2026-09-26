@@ -1,0 +1,143 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "end_ts": "35:34",
+      "notes": "Case Blackwell anchors with Jeff Ripple and Crum; top story covers Trump's Arnold Palmer penis comments and McDonald's campaign stunt; Crum disrupts throughout.",
+      "start_ts": "13:16",
+      "title": "Trump Penis Envy & McDonald's Fry Stunt"
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "end_ts": "52:20",
+      "notes": "Salazar hosts; reviews viral 'things I trust more than Trump' list, bat footage, gaming clip (Squirrel with a Gun), sauce-stirring video, and a penis-size ranking meme; Salazar reveals tentacle powers and bug-based biology.",
+      "start_ts": "37:01",
+      "title": "Salazar's Web Roundup: Bats, Tentacles & Dick Rankings"
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "end_ts": "01:05:31",
+      "notes": "Trip Bradstein broadcasts from park bushes; Pepito visits and demonstrates new bark/howl ability; street denizen debates street definition; hamster-obsessed stranger accosts Trip; Giggle Trash (Donald McDonald) claims assassin role and $6M salary.",
+      "start_ts": "54:47",
+      "title": "Bush Dispatch: Pepito Barks, Hamster Police, McDonald's Assassin"
+    },
+    {
+      "canonical_segment": "The Jo Rogen Experience",
+      "end_ts": "01:10:34",
+      "notes": "Case interviews substitute 'Angry Polar Express Conductor' (cold train guy) who vents about melted train, hates kids, mourns Santa's death, wanted to be fighter pilot, and is in therapy; Peter Gibbon provided only muddy footprints as research.",
+      "start_ts": "01:06:01",
+      "title": "Substitute Conductor: Melted Train, Dead Santa, Therapy"
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "end_ts": "01:17:51",
+      "notes": "Debate: who would be better McDonald's employee — Crum or Munch. Crum advocates worker solidarity; Munch pitches CEO cost-cutting (Laffy Taffy lettuce, triple bun). Munch wins poll 3.4k points; transition to Call Cash.",
+      "start_ts": "01:11:13",
+      "title": "McDonald's Employee Debate: Union Crum vs CEO Munch"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "notes": "Anchors broadcast; runs news desk, Amongst the Web handoff, Trip throw, conductor interview, and Munch & Crum debate.",
+      "role": "anchor",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "notes": "executive producer. Delivers cold-open sign-on; appears in park to demonstrate newly learned bark/howl; fails to book actual Polar Express conductor.",
+      "role": "executive producer",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "notes": "correspondent. Co-anchors news desk; reads Trump/McDonald's coverage; visibly aggravated by Crum's presence and editorialized Deerfield News copy.",
+      "role": "correspondent",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "notes": "debate analyst. Disrupts news desk from satellite room; mimics Case's posture; later debates Munch as pro-worker McDonald's employee.",
+      "role": "debate analyst",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Salazar",
+      "notes": "desk host. Hosts Amongst the Web; reveals tentacle cooling powers, bug-based reproduction, and 'freak flag' flat form.",
+      "role": "desk host",
+      "canonical_name": "Salazar",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "notes": "field correspondent. Broadcasts from park bushes; spars with Pepito and park denizens over street definition; fields hamster-obsessed stranger and McDonald's assassin.",
+      "role": "field correspondent",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "notes": "debate analyst. Debates Crum; argues he'd be McDonald's CEO, proposes Laffy Taffy lettuce and triple-bun burgers; wins viewer poll.",
+      "role": "debate analyst",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "notes": "news stowaway. Mentioned as providing only a plate of muddy footprints instead of interview research for conductor segment.",
+      "role": "news stowaway",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Pepito has learned to bark and howl on command, previously assumed instinctual.",
+      "timestamp": "[56:10]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Trip Bradstein claims a longstanding relationship with the Central Park Police allowing him to film.",
+      "timestamp": "[59:02]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Peter Gibbon remains in the walls and substitutes muddy footprints for research packets.",
+      "timestamp": "[01:10:34]",
+      "confidence": 0.7
+    }
+  ],
+  "storylines": [],
+  "episode_summary": "Case Blackwell presides over a penis-heavy news cycle covering Trump's Arnold Palmer comments and McDonald's fry stunt, with Crum disrupting the news desk. Salazar hosts Amongst the Web revealing new tentacle powers and bug biology. Trip Bradstein broadcasts from the park where Pepito demonstrates barking, a hamster-obsessed stranger accosts him, and a face-tattooed McDonald's assassin claims a $6M salary. A substitute Polar Express conductor vents about his melted train and dead Santa. Munch defeats Crum in a McDonald's employee debate by pitching CEO cost-cutting with Laffy Taffy lettuce.",
+  "_meta": {
+    "vod_id": "4xAoUbdxBjE",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 70849,
+    "approx_prompt_tokens": 17712,
+    "transcript_lines": 181
+  }
+}
