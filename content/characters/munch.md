@@ -50,7 +50,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (61)</summary>
+<summary>Earlier appearances (62)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -62,6 +62,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-02|2025-06-02]] | debate analyst. |
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
+| [[episodes/2024-08-07|2024-08-07]] | debate analyst. |
 | [[episodes/2024-08-01|2024-08-01]] | debate analyst. |
 | [[episodes/2024-07-31|2024-07-31]] | debate analyst. |
 | [[episodes/2024-07-30|2024-07-30]] | debate analyst. |
@@ -173,3 +174,4 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[]** ([[episodes/2024-05-15|2024-05-15]]): [103:00] Suffers mental breakdown after first debate loss; wanders studio for three minutes; returns with shaved head/bald.
 - **[[01:27:16]]** ([[episodes/2024-05-30|2024-05-30]]): Expressed desire to 'bury the axe' with Crum after spiritual concussion; thanked Crum for reasonable debate partnership.
 - **[]** ([[episodes/2024-07-17|2024-07-17]]): Munch claims he is buying the entire crew hot new coats after winning a debate poll. [01:05:07]
+- **[[1:37:51]]** ([[episodes/2024-08-07|2024-08-07]]): Declares heel turn after losing Diet Mountain Dew poll to Tim Walz; claims 'wise wolves' minority will prevail.

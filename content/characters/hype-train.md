@@ -56,7 +56,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-06-22|2026-06-22]] | High-velocity musical correspondent who confesses to cheating on his Panther girlfriend, discusses beats, and provides cultural commentary throughout the pre-show. |
 
 <details>
-<summary>Earlier appearances (37)</summary>
+<summary>Earlier appearances (38)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -76,6 +76,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2025-06-11|2025-06-11]] | Commandeered the birthday broadcast with freestyle raps, hell lore, and a level-13 surge while insisting every hype train is his birthday. |
 | [[episodes/2025-06-02|2025-06-02]] | hype correspondent. |
 | [[episodes/2025-05-27|2025-05-27]] | musical/cultural interruption. |
+| [[episodes/2024-08-07|2024-08-07]] | hype correspondent. |
 | [[episodes/2024-07-31|2024-07-31]] | musical interruption. |
 | [[episodes/2024-07-30|2024-07-30]] | musical interruption. |
 | [[episodes/2024-07-22|2024-07-22]] | Derails cold open with freestyle rap over 90s beats, acknowledges subscriber milestones. |
@@ -159,3 +160,4 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[1:24:31]** ([[episodes/2024-04-25|2024-04-25]]): Claims King Kappa ghoul touched his eyes with ass, turning them gold [1:24:31].
 - **[]** ([[episodes/2024-05-15|2024-05-15]]): [157:37] Reaches level 5-6 with new graphics; manifests Scorpion King persona; claims to have altered Edo Japan timeline putting gauges in government.
 - **[22:27]** ([[episodes/2024-06-24|2024-06-24]]): Hype Train possesses Case's head during broadcast, claims 'I've taken over case his brain'.
+- **[[10:53]]** ([[episodes/2024-08-07|2024-08-07]]): Subscriber alert month counters broken after Streamer.bot migration, showing multiple conflicting values (0/18/19/20/21/24 months).

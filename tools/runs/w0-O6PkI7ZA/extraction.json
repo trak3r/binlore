@@ -1,0 +1,162 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Cold Open & Hype Train Subscriber Alerts",
+      "start": "00:04",
+      "end": "17:15",
+      "notes": "Pepito delivers station sign-on; Hype Train runs chaotic subscriber acknowledgments with broken month counters after Streamer.bot migration; Case and Hype Train riff on Tim Walz VP announcement and Streets of Rage 2."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Tim Walz VP Profile with Jeff Ripple",
+      "start": "17:16",
+      "end": "55:47",
+      "notes": "Jeff Ripple joins desk to read Wall Street Journal profile of Minnesota Governor Tim Walz (Harris VP pick); Biden audio glitches into silence; Case and Jeff discuss Walz's background, progressive record, and contrast with JD Vance; Trump/Adin Ross stream clips reviewed."
+    },
+    {
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Joe Rogan Brain Purge & Milk Monologue",
+      "start": "55:48",
+      "end": "1:14:46",
+      "notes": "AI Joe Rogan appears for 'brain purge' bit (oxygen deprivation valve); delivers extended surreal monologue about male lactation, caveman nipples, Jamie the dog eating batteries, Egyptian psychic magnets, and whisper-summoning moms named Kim."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "title": "Diet Mountain Dew Allegiance: JD Vance vs Tim Walz",
+      "start": "1:22:18",
+      "end": "1:38:31",
+      "notes": "Munch and Crum debate which VP candidate is the bigger Diet Mountain Dew fan; Munch claims Vance by default, Crum argues Walz reclaims the brand; chat poll flips to Walz, enraging Munch who declares heel turn."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "title": "Trent at the Movies: Heavenly Bodies, Squid Game S2, The 4:30 Movie",
+      "start": "1:39:01",
+      "end": "1:53:49",
+      "notes": "Trent returns from hiatus with three trailers: 1984 aerobics thriller Heavenly Bodies, Squid Game Season 2 (Dec 2024), Kevin Smith's The 4:30 Movie; banter on Kevin Smith filmography and bisexuality in Chasing Amy."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Trump Interview Clip & Pepito Cheese Frenzy",
+      "start": "1:54:00",
+      "end": "2:00:55",
+      "notes": "Case plays Trump clip discussing Zuckerberg call, Google censorship, and Fox News reach; Pepito storms desk for cheese, triggering Hype Train closing rap about GOP and 'smooth link'."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors full broadcast; manages broken alert system, moderates Walz/Vance discourse, triggers Joe Rogan bit, oversees Munch & Crum and Trent segments.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open sign-on; reappears at stream end for cheese-fueled energy sprint across desk.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype correspondent",
+      "notes": "hype correspondent. Runs subscriber alerts with glitched month counts; freestyles Streets of Rage 2 rap; closes show with GOP rhyme.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Joins news desk to read Walz profile; banters on Biden glitch, JD Vance couch jokes, and bull-sperm beard regimen.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues Tim Walz is the true Diet Mountain Dew champion; wins chat poll but refuses to accept loss gracefully.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Claims JD Vance owns Diet Mountain Dew brand; melts down when chat poll favors Walz, threatens heel turn.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "film correspondent",
+      "notes": "film correspondent. Returns for Trent at the Movies after absence; presents three trailers with horny commentary on Heavenly Bodies.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Present in studio watching Love Island; reacts vocally but does not speak on mic.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Hype Train",
+      "fact": "Subscriber alert month counters broken after Streamer.bot migration, showing multiple conflicting values (0/18/19/20/21/24 months).",
+      "timestamp": "[10:53]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Uncertain of exact streaming tenure; chat votes tie between 69 years and 0 months as duration.",
+      "timestamp": "[19:24]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Exhibits cheese-dependent energy spikes; rushes desk at stream end after cheese consumption.",
+      "timestamp": "[1:58:11]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Joe Rogan (AI)",
+      "fact": "Claims to have lung valve for 'brain purge' oxygen deprivation sessions; asserts cavemen produced 5x more milk than women via long nipples looped as camel packs.",
+      "timestamp": "[59:18]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Declares heel turn after losing Diet Mountain Dew poll to Tim Walz; claims 'wise wolves' minority will prevail.",
+      "timestamp": "[1:37:51]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covers the Harris-Walz ticket announcement with a Wall Street Journal profile read by Jeff Ripple, then reviews Trump's appearance on the Adin Ross stream. An AI Joe Rogan delivers a surreal 'brain purge' monologue on male lactation and Egyptian magnet magic. Munch and Crum clash over Diet Mountain Dew loyalty in a debate settled by chat poll for Tim Walz, prompting Munch's heel turn threat. Trent returns for a movie trailer segment featuring 1984's Heavenly Bodies, Squid Game Season 2, and Kevin Smith's The 4:30 Movie. The broadcast closes with a Trump interview clip and a cheese-fueled Pepito sprint.",
+  "_meta": {
+    "vod_id": "w0-O6PkI7ZA",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 108869,
+    "approx_prompt_tokens": 27217,
+    "transcript_lines": 291
+  }
+}
