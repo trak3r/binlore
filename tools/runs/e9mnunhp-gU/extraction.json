@@ -1,0 +1,107 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "05:38",
+      "canonical_segment": "News",
+      "title": "Post-Illness Return & Stream Bot Activation",
+      "notes": "Case Blackwell returns from weekend illness to resume Elden Ring DLC playthrough; forgets to activate stream bot death counter."
+    },
+    {
+      "start": "05:38",
+      "end": "21:55",
+      "canonical_segment": "News",
+      "title": "First Major Boss Struggle & Cheese Victory",
+      "notes": "Repeated attempts against a multi-combo boss (likely Divine Beast Dancing Lion); wins by dying simultaneously with boss, earning 180,000 runes."
+    },
+    {
+      "start": "22:27",
+      "end": "27:13",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Possesses Anchor's Head",
+      "notes": "Hype Train interrupts broadcast, claims to have taken over Case's brain, delivers surreal Elden Ring lore monologue in character voices before sneezing himself out."
+    },
+    {
+      "start": "27:13",
+      "end": "03:39:00",
+      "canonical_segment": "News",
+      "title": "Scadutree Fragment Hunt & Exploration",
+      "notes": "Extended exploration collecting Scadutree fragments across Shadow Keep, Specimen Storehouse, and surrounding areas; multiple boss attempts including Golden Hippopotamus and knight duels; reaches Scadutree level 10."
+    },
+    {
+      "start": "03:39:00",
+      "end": "03:42:51",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid to Bricky Peacock",
+      "notes": "Case declares session a success (defeated hippo and magic knight), raids fellow Elden Ring streamer Bricky Peacock with moon-themed sign-off."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "anchor. Solo gaming broadcast; struggles with DLC difficulty and Scadutree fragment system; reveals moving delays and PC hardware issues.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical/cultural correspondent",
+      "notes": "musical/cultural correspondent. Possesses Case's head for surreal lore monologue; claims 100 dex/vitality/endurance build; sneezes out of possession.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "timestamp": "02:31:40",
+      "entity": "",
+      "fact": "Case reveals planned move delayed due to builder communication issues; Kendall's parents coordinating construction.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:37:15",
+      "entity": "",
+      "fact": "Case's four-year-old backup PC has cooling issues with 5900X CPU; considers power limits or new cooler.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:41:48",
+      "entity": "",
+      "fact": "Case plans guest segments using snap camera filters to portray multiple characters simultaneously.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "22:27",
+      "entity": "Hype Train",
+      "fact": "Hype Train possesses Case's head during broadcast, claims 'I've taken over case his brain'.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "21:20",
+      "entity": "",
+      "fact": "Case defeats first major DLC boss via death-respawn cheese strategy (both die simultaneously).",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "03:31:33",
+      "entity": "",
+      "fact": "Case reaches Scadutree level 10 ('half skadooched').",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns from illness to tackle the Elden Ring Shadow of the Erdtree DLC, wrestling with the new Scadutree fragment leveling system while hunting fragments across Shadow Keep and the Specimen Storehouse. Hype Train briefly possesses the anchor's head for a surreal lore monologue before sneezing himself out. The broadcast ends with a raid on fellow streamer Bricky Peacock after Case defeats the Golden Hippopotamus and a magic knight.",
+  "_meta": {
+    "vod_id": "e9mnunhp-gU",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 117618,
+    "approx_prompt_tokens": 29404,
+    "transcript_lines": 362
+  }
+}
