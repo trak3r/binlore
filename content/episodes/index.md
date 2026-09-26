@@ -22,11 +22,11 @@ Complete stream archive tracked for *Barely Informed News*. Episodes are ingeste
     <div class="stat-label">Total Broadcast Lore</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">160</div>
+    <div class="stat-value">161</div>
     <div class="stat-label">Ingested & Extracted</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">216</div>
+    <div class="stat-value">215</div>
     <div class="stat-label">Pending Ingestion Backlog</div>
   </div>
 </div>
@@ -44,8 +44,8 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   <div class="filter-group">
     <select id="status-filter">
       <option value="all">All Statuses (376)</option>
-      <option value="ingested">Ingested Only (160)</option>
-      <option value="backlog">Backlog Only (216)</option>
+      <option value="ingested">Ingested Only (161)</option>
+      <option value="backlog">Backlog Only (215)</option>
     </select>
     <select id="page-size">
       <option value="25">25 per page</option>
@@ -337,7 +337,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
 <tr data-status="backlog" data-title="call kass - testing the lines" data-date="2024-07-15" data-vod-id="kl40nj8av5o" style="display: none;"><td class="cell-date"><code>2024-07-15</code></td><td class="cell-title">Call Kass - Testing the Lines</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">kL40NJ8Av5o</code></td><td class="cell-dur">1:26:43</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=kL40NJ8Av5o" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="biden time, ai bullet vending machines, gay furry hackers, all words equaling news" data-date="2024-07-09" data-vod-id="pchdixxcnxc" style="display: none;"><td class="cell-date"><code>2024-07-09</code></td><td class="cell-title">Biden Time, AI Bullet Vending Machines, Gay Furry Hackers, all words equaling NEWS</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">pchDIXxcNXc</code></td><td class="cell-dur">2:32:41</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=pchDIXxcNXc" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="elden struggles" data-date="2024-07-01" data-vod-id="erbut-4d78k" style="display: none;"><td class="cell-date"><code>2024-07-01</code></td><td class="cell-title">Elden Struggles</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">ERbUT-4d78k</code></td><td class="cell-dur">3:52:17</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=ERbUT-4d78k" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
-<tr data-status="backlog" data-title="presidential recreation activity hour" data-date="2024-06-28" data-vod-id="1-vtu_qnklc" style="display: none;"><td class="cell-date"><code>2024-06-28</code></td><td class="cell-title">Presidential Recreation Activity Hour</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">1-vTU_qnKlc</code></td><td class="cell-dur">2:46:05</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=1-vTU_qnKlc" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
+<tr data-status="ingested" data-title="presidential recreation activity hour" data-date="2024-06-28" data-vod-id="1-vtu_qnklc" style="display: none;"><td class="cell-date"><code>2024-06-28</code></td><td class="cell-title"><a href="./2024-06-28" class="internal"><strong>Presidential Recreation Activity Hour</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">1-vTU_qnKlc</code></td><td class="cell-dur">2:46:05</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=1-vTU_qnKlc" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="reploid improvements, tesla recall, kingpin depenised, maybe its news?" data-date="2024-06-26" data-vod-id="zdelhj21dfg" style="display: none;"><td class="cell-date"><code>2024-06-26</code></td><td class="cell-title"><a href="./2024-06-26" class="internal"><strong>Reploid Improvements, Tesla Recall, Kingpin Depenised, maybe its NEWS?</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">ZdELhJ21dfg</code></td><td class="cell-dur">3:05:02</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=ZdELhJ21dfg" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="elden skadoooo" data-date="2024-06-25" data-vod-id="ejqh1b8ltec" style="display: none;"><td class="cell-date"><code>2024-06-25</code></td><td class="cell-title"><a href="./2024-06-25" class="internal"><strong>Elden Skadoooo</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">EJqH1B8lTec</code></td><td class="cell-dur">2:39:44</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=EJqH1B8lTec" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="saduchidi toilet ring" data-date="2024-06-24" data-vod-id="e9mnunhp-gu" style="display: none;"><td class="cell-date"><code>2024-06-24</code></td><td class="cell-title"><a href="./2024-06-24" class="internal"><strong>Saduchidi Toilet Ring</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">e9mnunhp-gU</code></td><td class="cell-dur">3:43:08</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=e9mnunhp-gU" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>

@@ -1,0 +1,163 @@
+{
+  "segments": [
+    {
+      "start": "00:04",
+      "end": "16:26",
+      "canonical_segment": "News",
+      "title": "Cold Open & Debate Pre-Show",
+      "notes": "Pepito delivers station sign-on; Case and Kendelle host pre-debate desk with Hype Train subscriber acknowledgments."
+    },
+    {
+      "start": "11:31",
+      "end": "16:26",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Subscriber Freestyle",
+      "notes": "Hype Train derails subscriber reads into freestyle rap over eclectic beats while Case and Kendelle react."
+    },
+    {
+      "start": "16:26",
+      "end": "02:13:04",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum Debate Coverage",
+      "notes": "Munch and Crum join as debate analysts for the full CNN presidential debate, providing running commentary favoring Trump and Biden respectively."
+    },
+    {
+      "start": "02:13:04",
+      "end": "02:18:15",
+      "canonical_segment": "News",
+      "title": "Post-Debate Desk Analysis",
+      "notes": "Case and Kendelle debrief the debate; Case declares Biden winner, Munch disputes via channel-point polls."
+    },
+    {
+      "start": "02:18:15",
+      "end": "02:20:53",
+      "canonical_segment": "Therapy",
+      "title": "Therapy with Dr. Hatab",
+      "notes": "Dr. Chath's evil cousin Dr. Hatab conducts a brief anti-therapy session, endorsing Trump and mocking Biden's coherence."
+    },
+    {
+      "start": "02:20:53",
+      "end": "02:41:54",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "AI President Victory Lap Calls",
+      "notes": "Case fields surreal call-in segments from AI Biden (alligator-surfing Moses anecdotes) and AI Trump (RoboCop Detroit patrol claims)."
+    },
+    {
+      "start": "02:41:54",
+      "end": "02:46:05",
+      "canonical_segment": "News",
+      "title": "Wrap-Up & Raid to Jena",
+      "notes": "Case closes broadcast, notes erroneous X viewership numbers, and raids Jena Darling with a presidential trap beat."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "Delivered the station sign-on as executive producer.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Joined Case on the news desk to watch and comment on the debate.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "Served as debate analyst alongside Crum, favoring Trump throughout the broadcast.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "Served as debate analyst alongside Munch, favoring Biden throughout the broadcast.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype announcer",
+      "notes": "hype announcer. Delivered freestyle rap acknowledgments for subscribers and bits during pre-show.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Hatab",
+      "role": "therapist",
+      "notes": "therapist. Appeared as Dr. Chath's evil cousin for a post-debate anti-therapy session.",
+      "canonical_name": "Dr. Hatab",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[01:57:04] Case acknowledges chat demand for the Beyblade track, confirming the community-pledge storyline remains pending execution.",
+      "timestamp": "01:57:04"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "09:34",
+      "entity": "",
+      "fact": "Case claims 'Robert Blackwell was our Christian dad' as offhand lore.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "12:57",
+      "entity": "",
+      "fact": "Case states he finally updated the 'flash balls' graphics package.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:18:45",
+      "entity": "",
+      "fact": "Dr. Hatab introduced as Dr. Chath's evil cousin.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:22:22",
+      "entity": "",
+      "fact": "AI Biden claims to have surfed on alligators with Moses as a child in the desert.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:34:31",
+      "entity": "",
+      "fact": "AI Trump claims Charlottesville was a lost city of gold populated by Nazis and liberal elites.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:40:52",
+      "entity": "",
+      "fact": "AI Trump claims to be 10,000% cybernetic RoboCop patrolling Detroit with 1,000% squibs.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News aired a live watch party for the first 2024 presidential debate between Biden and Trump, with Munch and Crum providing combative analysis before Case welcomed Dr. Hatab and AI simulations of both candidates for surreal post-debate victory laps.",
+  "_meta": {
+    "vod_id": "1-vTU_qnKlc",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 163239,
+    "approx_prompt_tokens": 40809,
+    "transcript_lines": 347
+  }
+}
