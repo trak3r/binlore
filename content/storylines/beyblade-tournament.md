@@ -60,6 +60,7 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 | [[../episodes/2024-06-28|2024-06-28]] [01:57:04] | [01:57:04] Case acknowledges chat demand for the Beyblade track, confirming the community-pledge storyline remains pending execution. |
 | [[../episodes/2024-07-19|2024-07-19]] [01:40:17] | [01:40:17] Belulia demands 'Play the fucking Beyblade song' and asks 'Did I win?' during Munch & Crum, referencing the pending 2v2 Beyblade Burst Event. |
 | [[../episodes/2024-07-22|2024-07-22]] [02:30:45] | Case references craving validation via Beyblades during therapy [02:30:45], confirming ongoing community pledge arc. |
+| [[../episodes/2024-08-30|2024-08-30]] [01:05:20] | [01:05:20] Case references Beyblade Tournament pledge: 'September featuring rock a fire incredible what a team up' — linking September sub-goal to Rock-afire gorilla backing. |
 | [[../episodes/2025-05-30|2025-05-30]] [39:25] | Munch references past Beyblade episodes during debate count banter. [39:25] |
 | [[../episodes/2025-06-02|2025-06-02]] [31:49] | [31:49] Case references pending Beyblade event possibly still 'inside the Papal Binclave'; no further advancement this episode. |
 | [[../episodes/2025-06-17|2025-06-17]] | [2025-06-17] Referenced as pending community-pledge event; no progress shown this episode. |

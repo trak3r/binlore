@@ -1,0 +1,172 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "00:19:29",
+      "end": "00:41:28",
+      "title": "Harris CNN Interview & NASA TV Shutdown",
+      "notes": "Case and Jeff Ripple dissect Kamala Harris's first CNN interview as nominee — border bill, Gaza ceasefire rhetoric, Roger Rabbit voice comparisons — then pivot to NASA TV moving to streaming-only."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "start": "00:41:28",
+      "end": "01:11:30",
+      "title": "Sword Wolf, Circus Teen, Trumpy Trout, David's Pizza",
+      "notes": "Case, Jeff, and Liliana rate viral clips: a longsword-wielding wolf, a 16-year-old circus performer, the animatronic Trumpy Trout fish ($60, arbitration clause), and a David's Pizza jingle that triggers a 5-sub hype train."
+    },
+    {
+      "canonical_segment": "Jambalaya",
+      "start": "01:11:30",
+      "end": "01:34:05",
+      "title": "Past-Life President Panel",
+      "notes": "Chet, Liliana, Grandma Crumble Bottom, Tyler, and Groglin play a secret-liar round: one was a U.S. president in a past life. Chat votes Liliana; reveal shows Grandma Crumble Bottom was James Garfield (and/or Jon Arbuckle)."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "start": "01:36:41",
+      "end": "02:07:20",
+      "title": "Mole Defends JD Vance, Fake Miles Taylor, Frankenstein, Ghost Pat Robertson, Tom Cruise, Godzilla",
+      "notes": "Trip Bradstein interviews park denizens: an Ohio mole sympathizing with JD Vance, a doppelganger who booked the real Miles Taylor five 12-hour flights, a 'shitty face' Frankenstein courting Trip's sister bush, the pissing ghost of Pat Robertson, a low-effort Tom Cruise recruiting Trip into Scientology, the real Miles Taylor returning, a mobile-game mayor, and a tiny Godzilla failing to dab."
+    },
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "start": "02:07:20",
+      "end": "02:28:02",
+      "title": "World Robot Conference 2024: Five Humanoids",
+      "notes": "Case solo-reviews Beijing's humanoid showcase: AstroBot (cat care, waffles), Navigator (simulated suicide/sex), AdjiBot (melancholy), Wanda (cheese soup, murder cleanup), Optimus (squats, eggs). Chat poll crowns September 'best robot'."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "02:29:12",
+      "end": "02:32:21",
+      "title": "Tamagotchi Eggshell Casing",
+      "notes": "Brief closer: new Tamagotchi model uses recycled eggshell plastic; Case debates eating it."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "02:32:21",
+      "end": "02:34:12",
+      "title": "Sign-Off & Raid",
+      "notes": "Pepito rates the stream, Case announces September 8 Candyland RPG special (11 AM PT) and Monday call-cast, then raids Ashley's channel."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored full broadcast: Harris interview breakdown, Amongst the Web, Jambalaya host, robot conference review, and sign-off; self-disclosed ADD on air.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Extended freestyle workout rap over trap beats — piss hate, trap gains, salad pamphlets — survived 10+ minutes on Tam Tran's 10-sub fuel.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosted News desk and Amongst the Web; read Harris clips, debated border/Gaza, rated sword wolf and Trumpy Trout.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Jambalaya contestant; claimed Superman bullet dreams, battle-toad/Stitch hybrid body, ordered drone strikes via Papa John's.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Grandma Crumble Bottom",
+      "role": "guest",
+      "notes": "guest. Jambalaya contestant; claimed 1960s bullet wounds, inspired 50 Cent's name, rode horse-and-buggy rock-throwing 'drone strikes', revealed as James Garfield/Jon Arbuckle.",
+      "canonical_name": "Grandma Crumble Bottom",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Tyler",
+      "role": "guest",
+      "notes": "guest. Jambalaya contestant; framed hierarchy as inverted pyramid, equated EDM drone shows to 'drone strikes of love', denied presidency.",
+      "canonical_name": "Tyler",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Groglin",
+      "role": "puppet",
+      "notes": "puppet. Jambalaya mascot; claimed Groglin presidency, pacifist species, sticky mouth; Chet declared them best friends.",
+      "canonical_name": "Groglin",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Hosted Trip on the Street from bush; interviewed mole, fake/real Miles Taylor, Frankenstein, ghost Pat Robertson, Tom Cruise, mayor, tiny Godzilla.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Briefly emerged from wall to drink sink water like a deer; ordered back by Case.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[01:05:20] Case references Beyblade Tournament pledge: 'September featuring rock a fire incredible what a team up' — linking September sub-goal to Rock-afire gorilla backing.",
+      "timestamp": "01:05:20"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "[02:21:41] Self-discloses ADD: 'honestly dude I got fuckin ADD like it's about time that I fucking admitted dude'.",
+      "timestamp": "02:21:41",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "[00:35:08] Birthday was months ago; wished for camera lens, not world peace.",
+      "timestamp": "00:35:08",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Barely Informed News",
+      "fact": "[02:33:22] Next stream: September 8 Candyland RPG special with sketch group at 11 AM PT / 2 PM ET; call-cast Monday.",
+      "timestamp": "02:33:22",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns from a work-heavy week to anchor a marathon broadcast: dissecting Kamala Harris's CNN interview with Jeff Ripple, rating viral clips from sword wolves to Trumpy Trout, hosting a Jambalaya past-life presidency panel won by Grandma Crumble Bottom (Garfield/Arbuckle), sending Trip Bradstein into a bush gauntlet of moles, doppelgangers, Frankensteins, and a tiny Godzilla, then solo-reviewing Beijing's melancholy humanoid robots before a brief Tamagotchi eggshell closer and a raid on Ashley's channel.",
+  "_meta": {
+    "vod_id": "cqOaGBONLxo",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 117080,
+    "approx_prompt_tokens": 29270,
+    "transcript_lines": 290
+  }
+}

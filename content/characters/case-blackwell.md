@@ -157,3 +157,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[]** ([[episodes/2024-08-27|2024-08-27]]): Needs to buy Kendelle a cat before the 'cat mill' closes. [47:41]
 - **[]** ([[episodes/2024-08-27|2024-08-27]]): Gives 'Case Blackwell recommendation' to AEW All In pay-per-view. [01:07:33]
 - **[]** ([[episodes/2024-08-27|2024-08-27]]): Plans to start next week with voicemails. [01:25:50]
+- **[02:21:41]** ([[episodes/2024-08-30|2024-08-30]]): [02:21:41] Self-discloses ADD: 'honestly dude I got fuckin ADD like it's about time that I fucking admitted dude'.
+- **[00:35:08]** ([[episodes/2024-08-30|2024-08-30]]): [00:35:08] Birthday was months ago; wished for camera lens, not world peace.
