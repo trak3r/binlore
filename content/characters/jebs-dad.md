@@ -42,6 +42,7 @@ He displays a profound, open disdain for Jeb's woodworking skills and emotional 
 | [[episodes/2025-09-15|2025-09-15]] | deceased spirit in timber. |
 | [[episodes/2025-07-01|2025-07-01]] | co-host (spirit in timber). |
 | [[episodes/2024-07-20|2024-07-20]] | Trapped in wooden board, favors Jet over Jeb, teaches debate alignment, scats with wood resonance advantage. |
+| [[episodes/2024-06-26|2024-06-26]] | co-host (trapped in wood). |
 | [[episodes/2024-06-13|2024-06-13]] | co-host (spirit in board). |
 | [[episodes/2024-05-31|2024-05-31]] | ghost co-host. |
 
@@ -66,3 +67,7 @@ He displays a profound, open disdain for Jeb's woodworking skills and emotional 
 - [[jeb|Jeb Nogget]]
 - [[../segments/how-to-with-jeb|How To with Jeb]]
 - [[index|All Characters]]
+
+## Notable moments
+
+- **[]** ([[episodes/2024-06-26|2024-06-26]]): Spirit permanently trapped inside a wooden board in Jeb's workshop. [02:39:24]

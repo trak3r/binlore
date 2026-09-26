@@ -61,7 +61,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (49)</summary>
+<summary>Earlier appearances (50)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -72,6 +72,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
 | [[episodes/2025-06-02|2025-06-02]] | executive producer. |
+| [[episodes/2024-06-26|2024-06-26]] | executive producer. |
 | [[episodes/2024-06-13|2024-06-13]] | executive producer. |
 | [[episodes/2024-06-10|2024-06-10]] | executive producer. |
 | [[episodes/2024-06-05|2024-06-05]] | executive producer. |
@@ -192,3 +193,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[]** ([[episodes/2024-05-28|2024-05-28]]): Pepito cheese feeding costs 100 bits per cheese [01:09:59]
 - **[07:22]** ([[episodes/2024-06-05|2024-06-05]]): Cheese cannon repaired to shoot cheese directly into Pepito's face [07:22].
 - **[[01:27:22]]** ([[episodes/2024-06-10|2024-06-10]]): Ate spilled chemicals from bathroom floor; tasted good but would not stay down.
+- **[]** ([[episodes/2024-06-26|2024-06-26]]): Rolled around in an industrial soap factory using animal fats, leaving grease on stairs. [02:37:21]

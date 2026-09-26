@@ -1,0 +1,277 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "00:04",
+      "end": "08:05",
+      "title": "Cold Open & Pepito Sign-On",
+      "notes": "Pepito delivers the official top-of-hour countdown and sign-on."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "08:05",
+      "end": "14:06",
+      "title": "Reploid Robot Skin & AI Avatar News",
+      "notes": "Case opens with lab-grown human skin on robot faces (University of Tokyo), Synthesia full-body AI avatars, and the Toys R Us AI commercial."
+    },
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "start": "14:06",
+      "end": "49:49",
+      "title": "Science Desk: Living Skin, Deepfake Avatars, AI Ads",
+      "notes": "Chet commandeers the broadcast after the trigger word 'science'; Hype Train briefly possesses the desk; Chet wraps the robot skin study, Synthesia avatars, and the Toys R Us AI spot."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "49:49",
+      "end": "51:54",
+      "title": "Post-Science Banter & Jeffrey Setup",
+      "notes": "Case and Chet debrief; Case teases a Munch & Crum coat segment and queues the Jeffrey the Giraffe interview."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "51:54",
+      "end": "59:41",
+      "title": "Jeffrey the Giraffe Interview",
+      "notes": "Case interviews Jeffrey (real name Tom), the Toys R Us mascot, who reveals he invests in AI crypto, sold cigarettes in the 80s, got his neck sawed down after a sewer sex mishap, and admits to recent cocaine-infused banana dust use."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "01:00:24",
+      "end": "01:18:24",
+      "title": "Manchester Gang Leader Shot in Penis",
+      "notes": "Case reads the Daily Express story of Matthew Norford, former Gunchester gangster, who took a machine-gun round through the penis, testicle, and thighs, then turned his life around."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "01:18:24",
+      "end": "01:35:32",
+      "title": "Sammy Seven Elbows Sings 'The Thing Song'",
+      "notes": "Flash-poll winner triggers a Cisco 'Thong Song' parody about Sammy's pickle-cart past and Italian swag; Kendelle wakes up and gets a feature credit."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "start": "01:38:55",
+      "end": "02:04:35",
+      "title": "Viral Video Review with Rick & Gorilla",
+      "notes": "Rick hosts with a government-approved dinosaur/gorilla backdrop; videos include Spider-Man baking soda ketchup, drunk dog in sink, grandma tarot, foreskin pheromone guru, freedom water, Grimace lore, and a rejected UFC proposal in Russia."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "start": "02:08:22",
+      "end": "02:38:15",
+      "title": "Park Interviews: Pepito, Dick Gibbon, Picasso, Elden Ring Fan, Rob Elvie, Chet Monk Alvin, Drunk Proctologist",
+      "notes": "Trip Bradstein fields opinions: Pepito humps everything; Dick Gibbon searches for brother Peter (sealed in studio walls); living Picasso drawing wants AI to replace creative jobs; Elden Ring grace dweller offers snuggle sandwich; Rob Elvie steals Trip's son's wedding invite and gets microphone-punched; Chet Monk Alvin fails a 2002 comedy set; Rob's proctologist cousin closes the segment."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "start": "02:38:15",
+      "end": "03:03:30",
+      "title": "Facial Massage, Pimp Advice, Chapped Lips",
+      "notes": "Jeb and his board-trapped dad watch Expert Village facial massage, a 'tone bone 145' pimp tutorial (confidence, target 'hoes with active minds,' present as a package, wear imaginary $3k suits), and a lip-scrub demo with a toothbrush; Jeb practices on himself."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "03:03:30",
+      "end": "03:05:02",
+      "title": "Sign-Off & Raid to Cass",
+      "notes": "Case checks on sick Kendelle, announces Patreon at 6 PM, teases possible presidential debate watch-along tomorrow, raids Cass."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the full broadcast: science desk handoff, Jeffrey interview, gangster penis story, Sammy song, Amongst the Web toss, Trip toss, Jeb toss, sign-off.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold-open countdown; appeared on Trip's streets humping signs, microphone, and Rob Elvie; claimed soap-factory grease bath.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeered the broadcast for the robot-skin/AI-avatar block; wrapped the University of Tokyo study, Synthesia avatars, and Toys R Us AI ad.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "AI co-host",
+      "notes": "AI co-host. Referenced as 'Shatai'/'Chatrain' during Chet's segment; Chet consulted it on whether Hype Train is a demon.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype correspondent",
+      "notes": "hype correspondent. Possessed the desk during science segment, freestyled through the robot-skin story, thanked subs/bits, then relinquished control.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeffrey the Giraffe (Tom)",
+      "role": "call-in guest",
+      "notes": "call-in guest. Toys R Us mascot revealed real name Tom, AI crypto investments, 80s cigarette reselling, sewer-sex neck reduction, recent cocaine-banana-dust use.",
+      "canonical_name": "Jeffrey the Giraffe (Tom)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Sammy Seven Elbows",
+      "role": "recurring personality",
+      "notes": "recurring personality. Won flash poll, performed AI-generated 'Thing Song' parody about his illegal pickle business and Italian swag; featured Kendelle.",
+      "canonical_name": "Sammy Seven Elbows",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted park interviews; revealed missed son Chase's wedding due to Rob Elvie stealing invite; microphone-punched Rob.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Discussed as sealed inside studio walls, subsisting on rats; brother Dick searched for him on Trip's segment.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dick Gibbon",
+      "role": "call-in guest",
+      "notes": "call-in guest. Peter's brother; appeared on Trip's streets seeking Peter, learned he's trapped in walls, vowed to involve authorities.",
+      "canonical_name": "Dick Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "How To host",
+      "notes": "How To host. Broadcast from woodshop with dad trapped in board; practiced facial massage, absorbed pimp tutorial, scrubbed lips with toothbrush.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "co-host (trapped in wood)",
+      "notes": "co-host (trapped in wood). Spirit trapped in wooden board; bickered with Jeb, advised equal-footing relationships over pimp tactics.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Woken by Sammy's singing, received feature credit on track; later reported sick.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Referenced for future coat-buying segment with Crum.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Referenced for future coat-buying segment with Munch.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Peter Gibbon in the Walls",
+      "beat": "[2024-06-26] Dick Gibbon confirms Peter is sealed in the studio walls subsisting on rats; Dick vows to contact authorities. [02:18:47]",
+      "timestamp": "02:18:47"
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[2024-06-26] Case teases a Munch & Crum segment to pick new coats, referencing Munch's promise to buy staff coats. [49:49]",
+      "timestamp": "49:49"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Rolled around in an industrial soap factory using animal fats, leaving grease on stairs. [02:37:21]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeffrey the Giraffe (Tom)",
+      "fact": "Real name Tom; neck sawed down to human length after sewer-sex grate incident; invests in AI crypto; admits recent cocaine-infused banana dust use. [00:56:27]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Sammy Seven Elbows",
+      "fact": "Claims past illegal pickle business run from Derek the Brickie's mom's basement. [01:12:24]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trip Bradstein",
+      "fact": "Missed son Chase's outdoor wedding because Rob Elvie stole the mailed invite and blocked the number; microphone-punched Rob in retaliation. [02:31:21]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb's Dad",
+      "fact": "Spirit permanently trapped inside a wooden board in Jeb's workshop. [02:39:24]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Tone Bone 145",
+      "fact": "Identified as a teenage boy on TikTok with girlfriend content, gym clips, orange juice, car, dog. [03:00:33]",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns for a second consecutive news night, handing the science desk to Chet for a deep dive on lab-grown robot skin, Synthesia full-body deepfake avatars, and the Toys R Us AI commercial. The broadcast then veers into a chaotic Jeffrey the Giraffe interview revealing the mascot's sewer-sex neck reduction and drug use, a Manchester gangster's machine-gun groin injury, and a flash-poll victory that forces Sammy Seven Elbows to perform an AI-generated Cisco parody. Rick hosts Amongst the Web with a government-approved gorilla, Trip Bradstein's park interviews expose Peter Gibbon's wall imprisonment and Trip's own stolen wedding invite, and Jeb Nogget closes the night with a facial massage, a pimp tutorial, and a lip-scrub demo alongside his board-trapped father.",
+  "_meta": {
+    "vod_id": "ZdELhJ21dfg",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 151500,
+    "approx_prompt_tokens": 37875,
+    "transcript_lines": 368
+  }
+}

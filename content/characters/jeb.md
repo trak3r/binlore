@@ -54,6 +54,7 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2025-07-01|2025-07-01]] | instructional host. |
 | [[episodes/2025-06-19|2025-06-19]] | instructional host. |
 | [[episodes/2024-07-20|2024-07-20]] | Debates Dad on better son (Dad picks Jet), learns RISA debate framework, scat-offs with Dad in wood resonance. |
+| [[episodes/2024-06-26|2024-06-26]] | How To host. |
 | [[episodes/2024-06-13|2024-06-13]] | instructional host. |
 | [[episodes/2024-05-31|2024-05-31]] | How To host. |
 | [[episodes/2024-05-30|2024-05-30]] | instructional host. |
