@@ -49,6 +49,7 @@ Grandma frequently drifts into reminiscences of her deceased husband. Rather tha
 | [[episodes/2026-07-17|2026-07-17]] | Munch declared Grandma 'the most fully formed idea' on the stream and 'a colleague and a scholar,' claiming she holds a doctorate in chemistry from Yale. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
 | [[episodes/2025-06-02|2025-06-02]] | Jambalaya panelist. |
+| [[episodes/2024-09-20|2024-09-20]] | Jambalaya panelist. |
 | [[episodes/2024-09-18|2024-09-18]] | recurring guest. |
 | [[episodes/2024-07-30|2024-07-30]] | Jambalaya panelist; cited lawns as America's best; worst time travel reason: not having sex with LBJ; Werther's ectoplasm; Chrysler hood… |
 | [[episodes/2024-07-20|2024-07-20]] | Debuts in [[../segments/jambalaya|Jambalaya]], reveals she voted Romney/Green Party based on smell, defends civility, survives elder abuse accusations. |

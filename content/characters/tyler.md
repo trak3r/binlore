@@ -23,6 +23,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-09-20|2024-09-20]] | Jambalaya panelist. |
 | [[episodes/2024-09-19|2024-09-19]] | call-in guest. |
 | [[episodes/2024-09-18|2024-09-18]] | Jumbalaya guest. |
 | [[episodes/2024-09-06|2024-09-06]] | co-host/correspondent. |

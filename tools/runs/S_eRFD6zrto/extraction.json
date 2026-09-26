@@ -1,0 +1,337 @@
+{
+  "segments": [
+    {
+      "start": "08:27",
+      "end": "18:00",
+      "canonical_segment": "News",
+      "title": "Opening & RFK Jr. Scandal with September",
+      "notes": "Case opens broadcast, troubleshoots streamer bot overload, introduces new emotes and sub goal; covers RFK Jr./Olivia Nuzzi sexting story with 'September' character in Fraggle costume."
+    },
+    {
+      "start": "16:00",
+      "end": "18:00",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Sub Acknowledgments",
+      "notes": "Hype Train appears during news segment, acknowledges subscribers and bits, claims molting ability, freestyles about bodily fluids."
+    },
+    {
+      "start": "18:00",
+      "end": "58:00",
+      "canonical_segment": "Movies",
+      "title": "Movie Trailer Block: Poopoo Pee Pee Man, Crazy House, Pirate Yakuza, Devil May Cry",
+      "notes": "Case and Trent watch trailers: Toronto 'Poopoo Pee Pee Man' feces assault documentary, 2004 'Crazy House' with Nick Frost, six-minute 'Pirate Yakuza in Hawaii' gameplay trailer, Yakuza Amazon Prime series, Devil May Cry anime."
+    },
+    {
+      "start": "01:05:15",
+      "end": "01:19:00",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: Daniel Radcliffe vs. Tom Attenborough as Harry Potter",
+      "notes": "Munch argues Tom Attenborough (young Voldemort actor) brought 'tweaker energy' and dual-role range; Crum defends Radcliffe's seven-film embodiment; chat votes for Crum."
+    },
+    {
+      "start": "01:19:00",
+      "end": "01:21:56",
+      "canonical_segment": "News",
+      "title": "Peter Gibbon Studio Intrusion",
+      "notes": "Peter Gibbon hijacks desk claiming Case fired, announces sneaker-focused rebrand, reveals crawlspace/sewer residence."
+    },
+    {
+      "start": "01:21:56",
+      "end": "01:48:00",
+      "canonical_segment": "Amongst the Web",
+      "title": "Viral Video Review: Parking Lot Driving, AI Crypto, Jeremy Fragrance, Robot Police, MAGA Fashion",
+      "notes": "Salazar hosts; reviews backwards-driving parking lot video, salad-eating clip, AI crypto promoter, Jeremy Fragrance bed moves, Rizzler kid, Lubbock SWAT robot vs. suspect, MAGA fashion show, monkey girl pride song, dog dance."
+    },
+    {
+      "start": "01:48:50",
+      "end": "02:12:00",
+      "canonical_segment": "News",
+      "title": "Mark Robinson Porn Forum Scandal Deep Dive",
+      "notes": "Case covers NC Lt. Gov. Mark Robinson's 'nudeafrica.com' posts under 'mini soldier' — 'Black Nazi' self-reference, piss/incest fetish content; reads censored excerpts substituting news anchor names for explicit terms."
+    },
+    {
+      "start": "02:13:41",
+      "end": "02:32:00",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Joe Rogan Parody: Void Lifetimes, MrBeast, Erotic Memoirs, Wedding Advice",
+      "notes": "Case performs dual Joe Rogan impressions; discusses void reincarnation (tadpole vs. castle king), MrBeast cafeteria controversy, reads erotic memoir passages (ice bath sex, time-cop threesome), gives wedding advice about void avoidance."
+    },
+    {
+      "start": "02:33:48",
+      "end": "02:48:00",
+      "canonical_segment": "Jambalaya",
+      "title": "Panel Debate: Pro vs. Anti Mark Robinson's Piss",
+      "notes": "Liliana (pro), Grandma Crumble Bottom (anti), Tyler (anti) debate political acceptability of Robinson's piss fetish; chat votes against Robinson's piss; motel cleaning deposit consensus reached."
+    },
+    {
+      "start": "02:51:42",
+      "end": "03:03:00",
+      "canonical_segment": "DJ Newsic",
+      "title": "Musical News: Chinese Zoo Panda Dog Fraud",
+      "notes": "DJ Newsic reports on Shanwei Zoo painting chow chows as pandas (panting, barking, long tails); performs panda rap asserting asexuality and anti-dog stance."
+    },
+    {
+      "start": "03:04:11",
+      "end": "03:59:00",
+      "canonical_segment": "How To with Jeb",
+      "title": "Jeb's Kitchen: Frozen Salad, Air Fryer S'mores, Tanghulu",
+      "notes": "Jeb demonstrates 'how to hide unwanted erection', then cooks with Kendall: grated frozen vegetable 'granita' salad (6/10), air fryer marshmallow s'mores (6/10), tanghulu candied grapes (6/10); taste tests vodka-orange soda mixes."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "aliases": [
+        "Case"
+      ],
+      "notes": "Anchored full broadcast, managed streamer bot overload, hosted News, Movies, Jo Rogen parody, and Jambalaya moderation.",
+      "lore_notes": [
+        "Streamer bot overloaded with 15 Colin show actions, 35 Candyland actions, 13 cheese actions [12:17]",
+        "Uses sink water for ice, described as 'filthy disgusting sink water for mutants' [03:48:49]"
+      ],
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "aliases": [
+        "Pepito the Dog",
+        "Peptron 3000"
+      ],
+      "notes": "executive producer. Delivered live sign-on, managed production queues, beatboxed during outro in alternate body.",
+      "lore_notes": [
+        "Beatboxes in different body [04:03:21]",
+        "Eats cheese on stream [02:58:59]"
+      ],
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "aliases": [
+        "Leonard Crum",
+        "Crumfuscious"
+      ],
+      "notes": "debate analyst. Debated Munch on Harry Potter actors, referenced past gambling conditioning.",
+      "lore_notes": [
+        "Referenced crushing electric toothbrush to powder as Crum Dick Punch conditioning [01:09:54]"
+      ],
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "aliases": [
+        "Ralph Munchcut"
+      ],
+      "notes": "debate analyst. Argued Tom Attenborough's Harry Potter superior due to 'tweaker energy' and dual role as Voldemort.",
+      "lore_notes": [],
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "aliases": [
+        "Hyper Train"
+      ],
+      "notes": "musical interruption. Acknowledged subscribers, claimed molting ability, freestyled about bodily fluids during news segment.",
+      "lore_notes": [
+        "Claimed ability to molt [16:39]"
+      ],
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "aliases": [
+        "Peter G.",
+        "Peter"
+      ],
+      "notes": "news stowaway. Hijacked desk claiming Case fired, promoted sneaker talk, confirmed crawlspace/sewer residence.",
+      "lore_notes": [
+        "Confirmed living in studio crawlspace/sewer system [01:20:37]"
+      ],
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "Jambalaya panelist",
+      "aliases": [],
+      "notes": "Jambalaya panelist. Defended Mark Robinson's piss fetish as kink-shaming issue, pivoted to MrBeast allegations.",
+      "lore_notes": [],
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Grandma Crumble Bottom",
+      "role": "Jambalaya panelist",
+      "aliases": [
+        "Grandma",
+        "Grammar Bom"
+      ],
+      "notes": "Jambalaya panelist. Opposed Robinson's piss content, cited own industrial-grade urine as medical concern.",
+      "lore_notes": [
+        "Urine described as industrial glue consistency [02:41:49]"
+      ],
+      "canonical_name": "Grandma Crumble Bottom",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Tyler",
+      "role": "Jambalaya panelist",
+      "aliases": [],
+      "notes": "Jambalaya panelist. Expressed disgust at Robinson's piss play, admitted to pissing in 'people pile' but drew line at Robinson.",
+      "lore_notes": [
+        "Referenced 'people pile' as acceptable pissing location [02:38:21]"
+      ],
+      "canonical_name": "Tyler",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "musical news correspondent",
+      "aliases": [
+        "Newsic",
+        "The Newsic Guy"
+      ],
+      "notes": "musical news correspondent. Reported on Chinese zoo panda dog fraud, performed panda rap asserting asexuality.",
+      "lore_notes": [
+        "Reiterated 'zero fucks given' policy [03:02:58]"
+      ],
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb",
+      "role": "How To host / kitchen correspondent",
+      "aliases": [
+        "Jeb Nogget",
+        "Jeb Noggin"
+      ],
+      "notes": "How To host / kitchen correspondent. Demonstrated how to hide unwanted erection, cooked frozen salad, air fryer s'mores, and tanghulu with Kendall.",
+      "lore_notes": [
+        "Father's spirit trapped in wooden board in workshop [03:05:04]"
+      ],
+      "canonical_name": "Jeb",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "deceased father (wood spirit)",
+      "aliases": [],
+      "notes": "deceased father (wood spirit). Interjected from wood during Jeb's segment, claimed to live in the wood.",
+      "lore_notes": [
+        "Spirit permanently trapped in wooden board [03:05:04]"
+      ],
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "aliases": [
+        "Kendall",
+        "Kendelle McDonald",
+        "Candy Lane"
+      ],
+      "notes": "in-studio contributor. Assisted Jeb in kitchen making tanghulu and air fryer s'mores, beatboxed during broadcast sign-off.",
+      "lore_notes": [
+        "Beatboxed for broadcast sign-off [04:01:19]"
+      ],
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum references crushing electric toothbrush to powder as part of Crum Dick Punch conditioning during Munch & Crum debate [01:09:54]",
+      "timestamp": "01:09:54"
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "Peter Gibbon confirms crawlspace/sewer residence during studio intrusion, reinforcing wall lore [01:20:37]",
+      "timestamp": "01:20:37"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "September character revealed as Fraggle costume purchased in 2014 for $110 [29:43]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Mark Robinson posted explicit piss/incest content on 'nudeafrica.com' under username 'mini soldier' [01:51:46]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case read Mark Robinson's posts with news anchor names substituted for explicit terms (Lester Holt, Craig Melvin, Mika Brzezinski, etc.) [02:02:40]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Frozen salad (grated frozen vegetables with balsamic) rated 6/10 by Jeb [03:28:41]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Air fryer s'mores rated 6/10 by Jeb [03:43:11]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Tanghulu (candied grapes) rated 6/10 by Jeb [03:51:51]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News delivered a marathon broadcast covering the Mark Robinson porn forum scandal with censored readings, a Joe Rogan parody featuring void reincarnation lore, and a Jambalaya panel that voted against the lieutenant governor's piss fetish. The studio endured a Peter Gibbon intrusion confirming his sewer residence, while Jeb's kitchen segment produced three edible dishes — frozen salad, air fryer s'mores, and tanghulu — each scoring a consistent 6/10. DJ Newsic closed the news cycle with a musical exposé on Chinese zoos painting chow chows as pandas.",
+  "_meta": {
+    "vod_id": "S_eRFD6zrto",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 177087,
+    "approx_prompt_tokens": 44271,
+    "transcript_lines": 429
+  }
+}

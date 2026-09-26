@@ -74,6 +74,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2024-06-26|2024-06-26]] [49:49] | [2024-06-26] Case teases a Munch & Crum segment to pick new coats, referencing Munch's promise to buy staff coats. [49:49] |
 | [[../episodes/2024-07-17|2024-07-17]] | [2024-07-17] Munch references buying coats for the crew as a winning gesture; Crum's gambling liability not directly mentioned but his 9/11 apple-picking alibi becomes a running gag. |
 | [[../episodes/2024-09-11|2024-09-11]] [56:01] | [56:01] Crum reveals daily salmon-asparagus-olestra smoothie regimen and claims 'alien piss' acidity burns through standard porcelain, continuing his bodily-function mythology ahead of unresolved gambling liability. |
+| [[../episodes/2024-09-20|2024-09-20]] [01:09:54] | Crum references crushing electric toothbrush to powder as part of Crum Dick Punch conditioning during Munch & Crum debate [01:09:54] |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |

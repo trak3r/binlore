@@ -53,6 +53,7 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2025-09-15|2025-09-15]] | How To host. |
 | [[episodes/2025-07-01|2025-07-01]] | instructional host. |
 | [[episodes/2025-06-19|2025-06-19]] | instructional host. |
+| [[episodes/2024-09-20|2024-09-20]] | How To host / kitchen correspondent. |
 | [[episodes/2024-09-18|2024-09-18]] | How To host. |
 | [[episodes/2024-09-13|2024-09-13]] | instructional host. |
 | [[episodes/2024-08-22|2024-08-22]] | instructional host. |
@@ -66,7 +67,15 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2024-06-26|2024-06-26]] | How To host. |
 | [[episodes/2024-06-13|2024-06-13]] | instructional host. |
 | [[episodes/2024-05-31|2024-05-31]] | How To host. |
+
+<details>
+<summary>Earlier appearances (1)</summary>
+
+| Episode | Notes |
+|---|---|
 | [[episodes/2024-05-30|2024-05-30]] | instructional host. |
+
+</details>
 
 ## Notable Quotes
 
