@@ -1,0 +1,233 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "08:35",
+      "canonical_segment": "News",
+      "title": "Cold Open: Pepito Sign-On and Apartment Prank",
+      "notes": "Pepito delivers the station sign-on; Case Blackwell appears with an apartment background prank and discusses weekend Rennerton election plans."
+    },
+    {
+      "start": "08:35",
+      "end": "46:33",
+      "canonical_segment": "News",
+      "title": "Hurricane Milton Coverage and Biden's 'Get a Life' Remark",
+      "notes": "Case and Jeff Ripple cover Hurricane Milton destruction, Biden telling Trump to 'get a life man,' and a gooning duration poll; Ripple reads CNN clip at 2x speed."
+    },
+    {
+      "start": "46:33",
+      "end": "01:04:09",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Alt-Right Porn Consumption Data and Racial Tropes",
+      "notes": "Triggered by 'science' mention; Chet and ChetAI present statistics on interracial cuckold porn popularity, Great Replacement Theory links, and historical racist tropes from colonial travel writing."
+    },
+    {
+      "start": "01:04:09",
+      "end": "01:22:47",
+      "canonical_segment": "Trent at the Movies",
+      "title": "Trailer Reviews: Nautilus, Yakuza, Paddington in Peru, Baddies Caribbean Reunion",
+      "notes": "Case watches trailers for Amazon's Nautilus series, Yakuza live-action show, Paddington in Peru, and the Baddies Caribbean Reunion at 2x speed."
+    },
+    {
+      "start": "01:38:46",
+      "end": "01:54:57",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Joe Rogan Parody: Stool Fucking, Stigmata, and Jamie's Brisket Pot",
+      "notes": "Case portrays both Joe Rogan and guest Joe Rogan; discussion of stage stool intimacy, Jesus comparisons, Jamie's speaking-spell 'producer pot,' and perpetual motion eating."
+    },
+    {
+      "start": "01:54:57",
+      "end": "02:18:54",
+      "canonical_segment": "Amongst the Web",
+      "title": "Viral Video Review: Wolves Singing, Bike Confrontation, Sprite Commercial, Bird Ambush, Macho Man Promo, CNN Storm Reporter",
+      "notes": "Rick hosts viewer submissions including wolves singing Phantom of the Opera, a bike confrontation with Giancarlo Esposito, a classic Sprite wrestling ad, a bird hunting montage, a Spanish-language Macho Man Randy Savage promo, and a CNN reporter hit by debris in Hurricane Milton."
+    },
+    {
+      "start": "02:18:54",
+      "end": "02:39:09",
+      "canonical_segment": "Munch & Crum",
+      "title": "Rennerton Mayoral Rap Battle: Crum Endorses Hamtaro, Munch Endorses Pepito",
+      "notes": "Munch and Crum deliver trap-beat endorsement raps for surrogate candidates; Munch backs Pepito (food-first platform), Crum backs Hamtaro (cheek-storage economy); chat awards win to Munch/Pepito."
+    },
+    {
+      "start": "02:39:09",
+      "end": "03:07:11",
+      "canonical_segment": "News",
+      "title": "Rennerton Town Hall: Pepito, September, Hype Train, Kendall, Shamrock Johnson Take Questions",
+      "notes": "Five candidates field chat questions: Pepito proposes gun farms and execution policy; September hides from Godzilla and gives everyone harems; Hype Train prefers blue cheese on bat wings; Kendall accepts all payment forms and identifies Pop-Tarts as calzones; incumbent Mayor Shamrock Johnson defends Jack in the Box sponsorship and Shamrock Shake spill cleanup."
+    },
+    {
+      "start": "03:07:11",
+      "end": "03:11:12",
+      "canonical_segment": "News",
+      "title": "Sign-Off and Raid to 'No Pro'",
+      "notes": "Case wraps three-hour broadcast, confirms Saturday noon Rennerton election stream, and raids a channel called 'no pro.'"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored hurricane coverage, science desk trigger, movie trailers, Rogan parody, and Town Hall; managed apartment background prank and weekend election logistics.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered sign-on, claimed wolf senses, sang explicit birthday rap for Kasim, ran for mayor on food-first platform, proposed gun farms and political executions at Town Hall.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Endorsed Hamtaro in rap battle with cheek-storage economy platform; lost chat vote to Munch's Pepito endorsement.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Endorsed Pepito in rap battle citing private ownership and density achievements; won chat vote over Crum's Hamtaro.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosted hurricane coverage, read Biden CNN clip at 2x speed, debated gooning safety standards, and claimed responsibility for Kasim's birthday.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeered broadcast via 'science' trigger; presented alt-right porn consumption data with ChetAI, discussed colonial racist tropes and Mandingo stereotype origins.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "analytical co-host",
+      "notes": "analytical co-host. Co-presented porn statistics and political affiliation correlations; noted hyper-sensitive content moderation guardrails.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Reached Rare Level 5 during extended freestyle; ran for mayor but resigned in favor of 'canteries'; answered Town Hall questions on wing condiments and blue cheese.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Appeared as 'ghost Kendall' via green screen; confirmed dead/missing status for Saturday election; discussed bottle-drinking mechanics and moving in with Case.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Interjected from wall on gooning math and election timing; revealed he was 'created at a freak off' by interesting-looking parents.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "September",
+      "role": "mayoral candidate",
+      "notes": "mayoral candidate. Morphing lizard candidate; proposed universal harems to solve Munch's harem expenditure, hides from Godzilla by saying 'don't look at me,' peed when nervous.",
+      "canonical_name": "September",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[09:59] Case confirms Saturday return to Rennerton for Beyblade Tournament and mayoral election; Kendall removed from ballot due to being out of town.",
+      "timestamp": "09:59"
+    },
+    {
+      "storyline": "Rennerton Election",
+      "beat": "[02:18:54-03:07:11] Full Town Hall with five candidates (Pepito, September, Hype Train, Kendall-as-ghost, Shamrock Johnson) ahead of Saturday election stream; Munch and Crum rap battle sets surrogate endorsements.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "12:33",
+      "entity": "Pepito",
+      "fact": "Pepito claims wolf senses and identifies as a wolf.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "16:35",
+      "entity": "Kendelle",
+      "fact": "Kendelle confirmed dead/missing; will appear as ghost for Saturday Rennerton election.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "25:19",
+      "entity": "Hype Train",
+      "fact": "Hype Train reached 'Rare Level 5' during extended freestyle — 'Vaulted Air of Level 5.'",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "49:08",
+      "entity": "",
+      "fact": "ChetAI described as having 'hyper-sensitive automated content moderation guardrails' and 'unusual training data skews.'",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:29:37",
+      "entity": "",
+      "fact": "Case and Kendelle discussing moving in together; 'feeling actually closer' after many prior mentions.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "03:05:22",
+      "entity": "",
+      "fact": "Shamrock Shake spill in Rennerton River created 'nearly living' sticky lump that dissolved at alarming rate but left central mass.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "03:08:53",
+      "entity": "Peter Gibbon",
+      "fact": "Peter Gibbon reveals he was 'created at a freak off' by his parents.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered Hurricane Milton fallout and Biden's 'get a life' rebuke to Trump before a science desk deep-dive into alt-right interracial porn consumption statistics and colonial racist tropes. The broadcast featured trailer reviews for Nautilus, Yakuza, Paddington in Peru, and a 2x-speed Baddies Caribbean Reunion, a Joe Rogan parody centered on stool intimacy and Jamie's brisket pot, and a viral video roundup. The evening culminated in a Rennerton mayoral rap battle (Munch/Pepito vs. Crum/Hamtaro) and a five-candidate Town Hall featuring gun farms, universal harems, bat-wing condiment preferences, Pop-Tart ontology, and a near-living Shamrock Shake river monster ahead of Saturday's election stream.",
+  "_meta": {
+    "vod_id": "mPpM41kH9jw",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 155858,
+    "approx_prompt_tokens": 38964,
+    "transcript_lines": 476
+  }
+}

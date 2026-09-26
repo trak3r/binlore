@@ -61,7 +61,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (64)</summary>
+<summary>Earlier appearances (65)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -72,6 +72,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
 | [[episodes/2025-06-02|2025-06-02]] | executive producer. |
+| [[episodes/2024-10-10|2024-10-10]] | executive producer. |
 | [[episodes/2024-10-03|2024-10-03]] | executive producer. |
 | [[episodes/2024-09-24|2024-09-24]] | executive producer. |
 | [[episodes/2024-09-20|2024-09-20]] | executive producer. |
@@ -215,3 +216,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[[2:08:28]]** ([[episodes/2024-09-06|2024-09-06]]): Accidentally installed a 'Project Dr. Chath face on Pepito's face button' causing momentary human transformation during therapy transition.
 - **[[00:06]]** ([[episodes/2024-09-13|2024-09-13]]): Referred to as 'Papita' during cold open sign-on.
 - **[02:50:51]** ([[episodes/2024-10-03|2024-10-03]]): Appointed Pepe Dois to replace Fort Knox as the nation's gold repository [02:50:51].
+- **[12:33]** ([[episodes/2024-10-10|2024-10-10]]): Pepito claims wolf senses and identifies as a wolf.

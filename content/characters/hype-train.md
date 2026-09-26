@@ -56,7 +56,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-06-22|2026-06-22]] | High-velocity musical correspondent who confesses to cheating on his Panther girlfriend, discusses beats, and provides cultural commentary throughout the pre-show. |
 
 <details>
-<summary>Earlier appearances (45)</summary>
+<summary>Earlier appearances (46)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -76,6 +76,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2025-06-11|2025-06-11]] | Commandeered the birthday broadcast with freestyle raps, hell lore, and a level-13 surge while insisting every hype train is his birthday. |
 | [[episodes/2025-06-02|2025-06-02]] | hype correspondent. |
 | [[episodes/2025-05-27|2025-05-27]] | musical/cultural interruption. |
+| [[episodes/2024-10-10|2024-10-10]] | musical interruption. |
 | [[episodes/2024-09-20|2024-09-20]] | musical interruption. |
 | [[episodes/2024-09-19|2024-09-19]] | Performed extended freestyle rap over trap beats during Level 3 hype train, acknowledged 16-month and 20-month subscribers, approached… |
 | [[episodes/2024-09-18|2024-09-18]] | musical interruption. |
@@ -169,3 +170,4 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[22:27]** ([[episodes/2024-06-24|2024-06-24]]): Hype Train possesses Case's head during broadcast, claims 'I've taken over case his brain'.
 - **[[10:53]]** ([[episodes/2024-08-07|2024-08-07]]): Subscriber alert month counters broken after Streamer.bot migration, showing multiple conflicting values (0/18/19/20/21/24 months).
 - **[02:50:30]** ([[episodes/2024-10-03|2024-10-03]]): Won the fourth Rennerton mayoral nomination slot in a flash poll, joining September Tyler, Lady Kendall, and Pepito on the ballot [02:50:30].
+- **[25:19]** ([[episodes/2024-10-10|2024-10-10]]): Hype Train reached 'Rare Level 5' during extended freestyle — 'Vaulted Air of Level 5.'
