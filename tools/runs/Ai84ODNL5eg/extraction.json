@@ -1,0 +1,183 @@
+{
+  "segments": [
+    {
+      "start": "00:10",
+      "end": "08:02",
+      "canonical_segment": "News",
+      "title": "Station Sign-On",
+      "notes": "Pepito delivers the official top-of-hour broadcast sign-on and countdown as executive producer."
+    },
+    {
+      "start": "08:02",
+      "end": "22:18",
+      "canonical_segment": "News",
+      "title": "Opening News Desk",
+      "notes": "Case Blackwell opens the broadcast, fields chat, and manages an unscripted Hype Train interruption before transitioning to news."
+    },
+    {
+      "start": "23:26",
+      "end": "46:57",
+      "canonical_segment": "News",
+      "title": "Garf Gutter Anchor Debut",
+      "notes": "New hire Garf Gutter appears as a roving anchor; discusses JK Rowling and Elon Musk cyberbullying lawsuit filed by Algerian boxer Imane Khelif."
+    },
+    {
+      "start": "48:38",
+      "end": "01:01:16",
+      "canonical_segment": "Munch & Crum",
+      "title": "Porn Name Debate: Munchwrap Supreme vs Crumbun",
+      "notes": "Munch and Crum debate which is the better porn name; Crum describes an elaborate Roman butter-bun fantasy."
+    },
+    {
+      "start": "01:01:16",
+      "end": "01:07:37",
+      "canonical_segment": "News",
+      "title": "Pepito Expert Consultation: Canine Period Product Consumption",
+      "notes": "Pepito is summoned as an expert on why dogs eat used period products and chooses Fiona's over Kendall's."
+    },
+    {
+      "start": "01:08:13",
+      "end": "01:44:44",
+      "canonical_segment": "News",
+      "title": "AI Demo Failures: Google Gemini & Friend Necklace",
+      "notes": "Jeff Ripple joins to cover Google Gemini's live demo failing twice, then reviews the 'Friend' AI necklace by Harvard dropout Avi Schiffmann."
+    },
+    {
+      "start": "01:45:36",
+      "end": "02:07:54",
+      "canonical_segment": "How To with Jeb",
+      "title": "Ear Coning, Tampon Swallowing, Lava Lamp, Nose Waxing",
+      "notes": "Jeb demonstrates ear coning, watches a disturbing tampon-swallowing video, makes a lava lamp, and showcases professional nose waxing."
+    },
+    {
+      "start": "02:11:59",
+      "end": "02:21:23",
+      "canonical_segment": "News",
+      "title": "Crap Hacks: Doctor's Pooping Positions",
+      "notes": "Case reads a LadBible article on a surgeon's toilet posture advice (criss-cross applesauce, backwards, squatty potty alternatives)."
+    },
+    {
+      "start": "02:21:23",
+      "end": "02:23:26",
+      "canonical_segment": "News",
+      "title": "Raid Outro",
+      "notes": "Case raids Psych while complaining about being tackled by Chet on the previous broadcast."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers sign-on, consults as canine expert on period product consumption, and eats basement ooze.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring guest",
+      "notes": "recurring guest. Derails the open with a five-minute freestyle rap intervention about being worried about Case.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Garf Gutter",
+      "role": "guest anchor",
+      "notes": "guest anchor. Hired on the spot after giving Case Cheetos; delivers rambling coverage of the Khelif lawsuit.",
+      "canonical_name": "Garf Gutter",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues for Munchwrap Supreme, accuses Crum of war-crime-level sexual fantasies.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Covers AI demo failures and the Friend necklace; declares himself everyone's best news friend.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "How To host",
+      "notes": "How To host. Demonstrates ear coning, reacts to a tampon-swallowing video, makes a lava lamp, and showcases nose waxing.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "spirit co-host",
+      "notes": "spirit co-host. Bickers from the wooden board, reminds Jeb he is dead and in the wood.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Mentioned as having lightning-speed tackled Case in the previous broadcast.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Garf Gutter",
+      "fact": "Hired as a new anchor after giving Case a bag of Cheetos; claims not to believe in the internet, courts, branches of government, or biology.",
+      "timestamp": "[22:18]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Confirms dogs eat used period products for the blood and paper/cotton; would eat Fiona's over Kendall's.",
+      "timestamp": "[01:02:53]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "Performed ear coning on himself using a cone inserted in his ear; produced unsightly gunk he claimed was ear wax.",
+      "timestamp": "[01:48:56]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "Showcased professional nose waxing by Steve Crovo in San Francisco; Jeb froze frames for 'male excellence' screenshots.",
+      "timestamp": "[02:00:25]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet",
+      "fact": "Lightning-speed tackled Case into a different room during the previous broadcast, liquidating some of Case's bones.",
+      "timestamp": "[02:21:57]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell opens with a Hype Train intervention before debuting new street hire Garf Gutter as anchor for the JK Rowling/Elon Musk cyberbullying lawsuit. Munch and Crum debate porn names in a segment that spirals into Crum's Roman butter-bun fantasy. Pepito consults on canine tampon consumption, Jeff Ripple covers Google Gemini's failed live demo and the 'Friend' AI necklace, and Jeb Nogget demonstrates ear coning, watches a tampon-swallowing video, and showcases professional nose waxing. The broadcast closes with a doctor's pooping posture hacks and a raid on Psych.",
+  "_meta": {
+    "vod_id": "Ai84ODNL5eg",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 118859,
+    "approx_prompt_tokens": 29714,
+    "transcript_lines": 249
+  }
+}

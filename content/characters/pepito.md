@@ -61,7 +61,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (55)</summary>
+<summary>Earlier appearances (56)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -72,6 +72,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
 | [[episodes/2025-06-02|2025-06-02]] | executive producer. |
+| [[episodes/2024-08-14|2024-08-14]] | executive producer. |
 | [[episodes/2024-08-08|2024-08-08]] | executive producer. |
 | [[episodes/2024-08-07|2024-08-07]] | executive producer. |
 | [[episodes/2024-07-31|2024-07-31]] | executive producer. |
@@ -202,3 +203,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[]** ([[episodes/2024-07-22|2024-07-22]]): Pepito demonstrates ventriloquist Biden impression capability [01:55:29]
 - **[[1:58:11]]** ([[episodes/2024-08-07|2024-08-07]]): Exhibits cheese-dependent energy spikes; rushes desk at stream end after cheese consumption.
 - **[01:09:24]** ([[episodes/2024-08-08|2024-08-08]]): Has a girlfriend; gender presentation ambiguous — Case says 'I don't know if Pepito is a girl' and 'Pepito doesn't care about gender.' [01:09:24]
+- **[[01:02:53]]** ([[episodes/2024-08-14|2024-08-14]]): Confirms dogs eat used period products for the blood and paper/cotton; would eat Fiona's over Kendall's.

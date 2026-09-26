@@ -53,6 +53,7 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2025-09-15|2025-09-15]] | How To host. |
 | [[episodes/2025-07-01|2025-07-01]] | instructional host. |
 | [[episodes/2025-06-19|2025-06-19]] | instructional host. |
+| [[episodes/2024-08-14|2024-08-14]] | How To host. |
 | [[episodes/2024-08-13|2024-08-13]] | instructional host. |
 | [[episodes/2024-08-08|2024-08-08]] | instructional host. |
 | [[episodes/2024-07-30|2024-07-30]] | instructional host. |
@@ -92,3 +93,5 @@ See also: [[../segments/how-to-with-jeb|How To with Jeb]], [[../characters/index
 - **[[54:48]]** ([[episodes/2024-05-30|2024-05-30]]): Has a 'little brother' mentor program picking up a 32-year-old from prison; claimed drunkenness prevented pickup.
 - **[01:56:44]** ([[episodes/2024-08-08|2024-08-08]]): Father worked at ShowBiz Pizza until age 32; met Jeb's mother at a bar next door that was shut down by police three days later. [01:56:44]
 - **[01:55:34]** ([[episodes/2024-08-08|2024-08-08]]): Parents conceived within a week of meeting and married hastily. [01:55:34]
+- **[[01:48:56]]** ([[episodes/2024-08-14|2024-08-14]]): Performed ear coning on himself using a cone inserted in his ear; produced unsightly gunk he claimed was ear wax.
+- **[[02:00:25]]** ([[episodes/2024-08-14|2024-08-14]]): Showcased professional nose waxing by Steve Crovo in San Francisco; Jeb froze frames for 'male excellence' screenshots.
