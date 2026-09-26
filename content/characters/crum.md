@@ -255,3 +255,5 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[[01:54:37]]** ([[episodes/2024-08-13|2024-08-13]]): Tackled through a wall by Chet after saying 'science'; left a Crum-shaped hole in the wall.
 - **[[45:00]]** ([[episodes/2024-09-06|2024-09-06]]): Full name stated as 'Leonard Grumfuusius Grum'; denies grooming Sith apprentices.
 - **[[30:33]]** ([[episodes/2024-09-11|2024-09-11]]): States he has not eaten eggs in seven years.
+- **[56:33]** ([[episodes/2024-09-11|2024-09-11]]): Crum's morning smoothie: yogurt, salmon, asparagus, figs, and olestra (fat substitute).
+- **[56:01]** ([[episodes/2024-09-11|2024-09-11]]): Crum claims urine is 'extremely acidic,' requires extra-thick porcelain toilet.

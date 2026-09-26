@@ -1,0 +1,159 @@
+{
+  "segments": [
+    {
+      "start": "05:20",
+      "end": "10:42",
+      "canonical_segment": "News",
+      "title": "Cold Open & Jacket Watch",
+      "notes": "Case Blackwell opens the broadcast from the newsroom desk, acknowledges Kendelle in background discussing TurboTax, and addresses chat about the golden jacket's durability."
+    },
+    {
+      "start": "10:42",
+      "end": "28:49",
+      "canonical_segment": "News",
+      "title": "Presidential Debate Recap & Taylor Swift Endorsement Fallout",
+      "notes": "Blackwell reviews debate highlights, analyzes Harris/Trump exchange on abortion and economy, covers Taylor Swift's Instagram endorsement of Harris, and dissects Elon Musk's 'fine tailor you win I will give you a child and guard your cats with my life' response. Swing state math discussed with chat."
+    },
+    {
+      "start": "28:49",
+      "end": "35:53",
+      "canonical_segment": "News",
+      "title": "Transition to Amongst the Web",
+      "notes": "Blackwell hands off to Munch & Crum then Amongst the Web, noting time constraints due to 6 PM Patreon stream."
+    },
+    {
+      "start": "35:53",
+      "end": "54:15",
+      "canonical_segment": "Amongst the Web",
+      "title": "Internet Video Review: Pet Remixes, Flute Mayo, Queen Bonnie, Dog Labor, RPG Stream Block",
+      "notes": "Jeff Ripple hosts with Rock-afire gorilla. Videos rated: Fear Gas Kelly dog-eating remix (9.69), Philip Flute 236 recorder performance, Queen Bonnie Snapchat clip, dog pulling cart (6.92 combined), Case's blocked RPG stream VOD, 'How to Talk to Your Friend with Benefits' TikTok collab with Churdlies."
+    },
+    {
+      "start": "54:15",
+      "end": "01:03:41",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: Piss vs. Shit Yourself",
+      "notes": "Munch and Crum argue whether urinating or defecating on oneself is preferable. Crum advocates for piss (cites 'alien piss,' asparagus-salmon-olestra smoothies, 'inch of whiz' manageability); Munch argues shit is a 'commitment' and 'main event.' Kendelle enters room to give Crum a look."
+    },
+    {
+      "start": "01:03:41",
+      "end": "01:08:35",
+      "canonical_segment": "News",
+      "title": "Bugs Bunny Call-In & Sign-Off",
+      "notes": "Peter Gibbon patches in a Bugs Bunny impersonator who describes a murder plot involving TMT explosives, a mannequin in a dress, and a house explosion. Blackwell apologizes for 'weird energy,' confirms raid to Ovalie, teases park/streets stream tomorrow."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored debate recap, Swift/Musk analysis, and segment transitions while managing golden jacket durability and Patreon time limit.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Referenced on-air; Case jokes Pepito would eat dog meat and is 'basically a cannibal' for himself.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued piss is preferable to shit, detailed his asparagus-salmon-olestra smoothie regimen and 'alien piss' claims.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued shitting yourself is a 'commitment' and 'main event' versus piss as 'realm of cowards.'",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Hosted Amongst the Web with Rock-afire gorilla, rated viewer-submitted videos, workshopped catchphrases.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Produced Bugs Bunny call-in segment, delivered 'wrong Bugs Bunny' again per Case's complaint.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Heard in background discussing TurboTax; entered room during Munch & Crum to give Crum a look at his 'whiz' rhetoric.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[56:01] Crum reveals daily salmon-asparagus-olestra smoothie regimen and claims 'alien piss' acidity burns through standard porcelain, continuing his bodily-function mythology ahead of unresolved gambling liability.",
+      "timestamp": "56:01"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "08:57",
+      "entity": "",
+      "fact": "Case's golden jacket remains intact despite daily aggressive donning attempts to make it explode.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "56:33",
+      "entity": "Crum",
+      "fact": "Crum's morning smoothie: yogurt, salmon, asparagus, figs, and olestra (fat substitute).",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "56:01",
+      "entity": "Crum",
+      "fact": "Crum claims urine is 'extremely acidic,' requires extra-thick porcelain toilet.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:04:45",
+      "entity": "Peter Gibbon",
+      "fact": "Peter Gibbon sourced a 'last-belief rabbit' Bugs Bunny who describes murder-by-TMT-explosives plot.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:07:25",
+      "entity": "",
+      "fact": "Raid destination: Ovalie (per sign-off).",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered the Harris-Trump debate fallout and Taylor Swift's endorsement, prompting Elon Musk's viral impregnation offer. Jeff Ripple's Amongst the Web reviewed pet-eating remixes and a TikTok collab with the Churdlies. Munch and Crum debated the merits of pissing versus shitting oneself, with Crum citing his olestra-smoothie regimen. Peter Gibbon closed the broadcast with a homicidal Bugs Bunny impersonator before raiding to Ovalie.",
+  "_meta": {
+    "vod_id": "AJ5UbfIdQgg",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 65849,
+    "approx_prompt_tokens": 16462,
+    "transcript_lines": 110
+  }
+}
