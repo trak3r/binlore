@@ -1,0 +1,197 @@
+{
+  "segments": [
+    {
+      "start": "00:04",
+      "end": "08:33",
+      "canonical_segment": "Hype Train",
+      "title": "Broadcast Sign-On and Hype Train Activation",
+      "notes": "Pepito delivers cold open; Hype Train suffers audio issues before launching into freestyle acknowledgments of subscribers and bit donors."
+    },
+    {
+      "start": "08:33",
+      "end": "16:56",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Freestyle and Subscriber Roll Call",
+      "notes": "Hype Train raps over a 'terrible trap beat' while thanking Uncle Phil 2K, Skymer, Waco's Art, Xander, Brundle Sprout, and S1000; discusses spawn-like nature of Hype Train's existence."
+    },
+    {
+      "start": "16:56",
+      "end": "19:06",
+      "canonical_segment": "News",
+      "title": "Post-Hype Train Desk Banter",
+      "notes": "Case and Pepito exchange profanity-laden banter; Pepito reveals he has been hanging out with Chet and picked up his vocabulary."
+    },
+    {
+      "start": "19:06",
+      "end": "40:54",
+      "canonical_segment": "News",
+      "title": "Biden NATO Speech and Press Briefing Coverage",
+      "notes": "Jeff Ripple joins to cover White House press briefing on Biden's neurologist visits, Biden's NATO speech awarding Medal of Freedom to Jens Stoltenberg, and debate over Biden's mental fitness; Ripple signs off with 'Biden time' pun."
+    },
+    {
+      "start": "42:20",
+      "end": "48:12",
+      "canonical_segment": "News",
+      "title": "Kendall Call-In and Wiki Feet Investigation",
+      "notes": "Kendall calls in on speakerphone; chat discovers a wikiFeet page for her; Case runs a flash poll to identify the creator; Kendall denies involvement."
+    },
+    {
+      "start": "48:12",
+      "end": "101:20",
+      "canonical_segment": "Amongst the Web",
+      "title": "Viral Video Review: Plane Deaths, Raw Dogging Flights, Airport Restaurants, Bubble Song, Trump Hannibal Lecter, Joe Rogan/Miley Cyrus, Prison Loaf, Giant Worm Animation, National Treasure Supercut",
+      "notes": "Scrum co-hosts; videos rated on 1-10 scale; highlights include raw dogging flight trend, eight-minute bubble song, Trump's Hannibal Lecter rant (Vic Berger supercut), and giant worm AI animation."
+    },
+    {
+      "start": "101:20",
+      "end": "101:41",
+      "canonical_segment": "Amongst the Web",
+      "title": "Kendall Arrives In-Studio",
+      "notes": "Kendall walks through frame; brief discussion of sketch controversy and wikiFeet page; flash poll results tie between chat and Crum."
+    },
+    {
+      "start": "102:22",
+      "end": "105:31",
+      "canonical_segment": "News",
+      "title": "Kendall In-Studio Banter and Wiki Feet Aftermath",
+      "notes": "Kendall discusses foot tattoo, wikiFeet ratings, Kevin's feet, and potential streaming setup; Case mentions CASM assets and call-in show assets in development."
+    },
+    {
+      "start": "142:22",
+      "end": "205:31",
+      "canonical_segment": "How To with Jeb",
+      "title": "Movie Trailers with Trent and Chris",
+      "notes": "Trent and Chris review trailers for Gladiator II, Louis C.K. documentary 'Sorry Not Sorry', Emmanuel erotic film, and Kite Man animated series; discuss DC universe and Louis C.K. controversy."
+    },
+    {
+      "start": "205:31",
+      "end": "223:06",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Joe Rogan Experience Parody: Moose Noises, Flat Earth, Hannibal Lecter, Toad-Licking Biden Fantasy",
+      "notes": "Case and AI Joe Rogan discuss moose interview strategy, earth shape agnosticism, Trump's Hannibal Lecter obsession, and a graphic fantasy of licking toads and spitting into Biden's mouth to cure his dryness."
+    },
+    {
+      "start": "223:28",
+      "end": "232:41",
+      "canonical_segment": "News",
+      "title": "Charlie Pellet Interview and Raid to Ricky Peacock",
+      "notes": "Case interviews Charlie Pellet, voice of NYC subway, via a Bloomberg profile video; Pellet delivers sign-off from his country farm; raid initiated to Ricky Peacock with Pellet attempting a subway-themed rap."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors full broadcast; manages Hype Train technical issues, conducts Biden news desk, runs wikiFeet flash poll, hosts Amongst the Web with Scrum, interviews Charlie Pellet.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open; engages in profane banter with Case; reveals exposure to Chet's vocabulary.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Executes subscriber/bit acknowledgments via freestyle rap over broken beats; discusses metaphysical spawn-like existence.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Delivers Biden coverage including press briefing neurologist exchange and NATO speech; debates Biden's mental fitness with Case.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Calls in on speakerphone, then appears in-studio; subject of wikiFeet page investigation; discusses foot tattoo and streaming plans.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "field correspondent",
+      "notes": "field correspondent. Hosts movie trailer segment from theater with Chris; reviews Gladiator II, Louis C.K., Emmanuel, Kite Man.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "role": "field correspondent",
+      "notes": "field correspondent. Accompanies Trent as 'sprawl officer'; comments on trailers and DC universe.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Joe Rogan",
+      "role": "call-in guest",
+      "notes": "call-in guest. AI parody joins for The Jo Rogen Experience; discusses moose noises, flat earth, Hannibal Lecter, and toad-licking Biden fantasy.",
+      "canonical_name": "Joe Rogan",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Kendelle",
+      "fact": "Has a wikiFeet page created by an unknown party (chat suspects Eldrick); page features a single photo from Instagram showing her foot tattoo.",
+      "timestamp": "[43:29]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Owns a Charlie Pellet (NYC subway voice) sound pellet.",
+      "timestamp": "[1:22:53]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Developing CASM assets and call-in show assets for Kendall's future streaming setup.",
+      "timestamp": "[1:14:04]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "References Reverend Wolf's prophecy that 'Fiona will never come back and I'll never move.'",
+      "timestamp": "[1:32:17]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Charlie Pellet",
+      "fact": "Is the long-time voice of the NYC subway system; currently resides at a country farm; loves farming; hates North Dakota (prefers one Dakota).",
+      "timestamp": "[2:28:23]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covers Biden's NATO appearance and neurologist press briefing before pivoting to a wikiFeet investigation targeting Kendall. The Amongst the Web segment reviews viral videos including raw-dogging flights, an eight-minute bubble song, and Trump's Hannibal Lecter obsession. The broadcast closes with movie trailers, a Joe Rogan parody featuring a toad-licking Biden fantasy, and a raid to Ricky Peacock led by NYC subway voice Charlie Pellet.",
+  "_meta": {
+    "vod_id": "pchDIXxcNXc",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 131526,
+    "approx_prompt_tokens": 32881,
+    "transcript_lines": 353
+  }
+}

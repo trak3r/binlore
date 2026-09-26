@@ -140,3 +140,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[]** ([[episodes/2024-06-24|2024-06-24]]): Case Blackwell and Kendelle have been awaiting an apartment move for 10 months as of this broadcast. [01:13:06]
 - **[]** ([[episodes/2024-06-24|2024-06-24]]): Case Blackwell's hometown is Roanoke, Virginia, where he recommends Texas Tavern for egg burgers. [01:30:52]
 - **[]** ([[episodes/2024-06-24|2024-06-24]]): Case Blackwell attended a very small high school with roughly 40 students in his class. [02:01:13]
+- **[[1:14:04]]** ([[episodes/2024-07-09|2024-07-09]]): Developing CASM assets and call-in show assets for Kendall's future streaming setup.
+- **[[1:32:17]]** ([[episodes/2024-07-09|2024-07-09]]): References Reverend Wolf's prophecy that 'Fiona will never come back and I'll never move.'

@@ -54,13 +54,14 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
 | [[episodes/2024-07-20|2024-07-20]] | Appears on couch cam, sleeps through friend visit, debates smut vs no smut (concedes), wins fursona poll, declines boba after stream runs… |
-| [[episodes/2024-07-01|2024-07-01]] | in-studio contributor. |
+| [[episodes/2024-07-09|2024-07-09]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (62)</summary>
+<summary>Earlier appearances (63)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-07-01|2024-07-01]] | in-studio contributor. |
 | [[episodes/2024-06-28|2024-06-28]] | in-studio contributor. |
 | [[episodes/2024-06-26|2024-06-26]] | in-studio contributor. |
 | [[episodes/2024-06-25|2024-06-25]] | in-studio contributor. |
@@ -167,3 +168,5 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[[23:22]]** ([[episodes/2024-06-12|2024-06-12]]): Attended an Itzy concert (Itzy minus one) and acquired tour merchandise.
 - **[[01:26:57]]** ([[episodes/2024-06-12|2024-06-12]]): Dislikes Bluetooth earbuds (Bose ear clip model) due to latency issues for editing and work use.
 - **[[01:32:05]]** ([[episodes/2024-06-12|2024-06-12]]): Birthday week coincides with Case's birthday week, described as a 'double birthday week'.
+- **[[43:29]]** ([[episodes/2024-07-09|2024-07-09]]): Has a wikiFeet page created by an unknown party (chat suspects Eldrick); page features a single photo from Instagram showing her foot tattoo.
+- **[[1:22:53]]** ([[episodes/2024-07-09|2024-07-09]]): Owns a Charlie Pellet (NYC subway voice) sound pellet.
