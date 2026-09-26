@@ -1,0 +1,191 @@
+{
+  "segments": [
+    {
+      "start": "00:02",
+      "end": "02:08",
+      "canonical_segment": "News",
+      "title": "Cold Open",
+      "notes": "Pepito delivers the station sign-on and identifies himself as the dog who produces the show."
+    },
+    {
+      "start": "02:08",
+      "end": "04:49",
+      "canonical_segment": "News",
+      "title": "Sick Day Setup",
+      "notes": "Case Blackwell explains he is ill after a Disney trip, voice strained, and will play Elden Ring: Shadow of the Erdtree DLC instead of a standard news broadcast."
+    },
+    {
+      "start": "04:49",
+      "end": "39:05",
+      "canonical_segment": "News",
+      "title": "Mohg, Lord of Blood Fight",
+      "notes": "Case summons 'Strong' (Sporophyte) and defeats Mohg after multiple attempts, using rot breath and dragon attacks to access the DLC."
+    },
+    {
+      "start": "39:05",
+      "end": "01:23:56",
+      "canonical_segment": "News",
+      "title": "Realm of Shadow Entry & Early Exploration",
+      "notes": "Case touches Miquella's withered arm, enters the Realm of Shadow, discovers Scadutree Fragment leveling system, and meets NPCs Hornsent, Moore, and the Kindly Pot Boy."
+    },
+    {
+      "start": "01:23:56",
+      "end": "01:24:27",
+      "canonical_segment": "News",
+      "title": "Kendelle Walk-By",
+      "notes": "Kendelle calls Case on camera, says goodbye to chat, and departs."
+    },
+    {
+      "start": "01:24:27",
+      "end": "02:59:36",
+      "canonical_segment": "News",
+      "title": "Deep Shadow Exploration & Fire Knight Fight",
+      "notes": "Case navigates sewers, piss rivers, and castle ruins; defeats Fire Knight Queelign with rot and frenzy; collects smithing stones and lore items."
+    },
+    {
+      "start": "02:59:36",
+      "end": "03:20:19",
+      "canonical_segment": "News",
+      "title": "Divine Beast Dancing Lion Boss Fight",
+      "notes": "Case summons NPC Freya and after many attempts defeats the Divine Beast Dancing Lion using rot, frenzy, and blood loss."
+    },
+    {
+      "start": "03:20:19",
+      "end": "03:23:54",
+      "canonical_segment": "News",
+      "title": "Post-Boss Lore & Armor Reveal",
+      "notes": "Case reads the Divine Beast Head item description: ritual headwear of the sculpted keepers that boosts storm intensity, strength, and dexterity but reduces flask healing and focus."
+    },
+    {
+      "start": "03:23:54",
+      "end": "03:26:28",
+      "canonical_segment": "News",
+      "title": "Raid & Sign-Off",
+      "notes": "Case ends stream, raids Danksauce, and attributes illness to 'the curse of Disney.'"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors a solo 'Elden Sick Day' stream, plays Shadow of the Erdtree DLC on release day while recovering from illness caught at Disney.",
+      "lore_notes": [
+        "[02:30] Contracted illness at Disney, voice strained",
+        "[04:49] Describes being 'poisoned by Mickey' with 'Dung Eater Curse'",
+        "[10:34] Unaware DLC released today (3 PM PDT) until chat informed him",
+        "[39:05] Defeats Mohg, Lord of Blood with summon 'Strong' (Sporophyte)",
+        "[03:20:19] Defeats Divine Beast Dancing Lion, acquires Divine Beast Head armor"
+      ],
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers the cold open station sign-on, identifies as the dog who produces the show.",
+      "lore_notes": [],
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Briefly appears on camera to say goodbye to chat while passing through the studio.",
+      "lore_notes": [
+        "[01:23:56] Calls Case on camera, says 'bye to chat' and departs"
+      ],
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "timestamp": "02:30",
+      "entity": "",
+      "fact": "Case contracted illness at Disney, describes it as 'the curse of Disney'",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "04:49",
+      "entity": "",
+      "fact": "Case's voice strained from illness, limits vocal range for characters",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "10:34",
+      "entity": "",
+      "fact": "Shadow of the Erdtree DLC released June 20, 2024 at 3 PM PDT (Case was unaware)",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "39:05",
+      "entity": "",
+      "fact": "Case defeats Mohg, Lord of Blood with summon 'Strong' (Sporophyte) to access DLC",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "59:19",
+      "entity": "",
+      "fact": "Enters Realm of Shadow via Miquella's withered arm at Mohg's corpse",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:25:41",
+      "entity": "",
+      "fact": "Discovers Scadutree Fragment system: DLC-exclusive leveling via fragments at Sites of Grace",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:28:01",
+      "entity": "",
+      "fact": "Meets NPC Hornsent, former servant of Mohg now investigating Miquella's purpose",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:29:25",
+      "entity": "",
+      "fact": "Meets NPC Moore (forager brood) and Kindly Pot Boy in ruins",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:00:26",
+      "entity": "",
+      "fact": "Fights and defeats Fire Knight Queelign in castle ruins",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "03:20:19",
+      "entity": "",
+      "fact": "Defeats Divine Beast Dancing Lion boss with NPC summon Freya",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "03:20:42",
+      "entity": "",
+      "fact": "Acquires Divine Beast Head: ritual lion dance headwear of sculpted keepers, boosts storm/strength/dexterity, reduces flask healing and focus",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "03:24:39",
+      "entity": "",
+      "fact": "Raids Danksauce at stream end",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Anchor Case Blackwell hosts a solo 'Elden Sick Day' broadcast from the newsroom, playing the Shadow of the Erdtree DLC on its surprise release day while recovering from a Disney-acquired illness. After defeating Mohg, Lord of Blood to access the Realm of Shadow, Case explores the new territory, discovers the Scadutree Fragment progression system, and overcomes the Divine Beast Dancing Lion boss to claim its ritual headwear. The broadcast concludes with a raid to Danksauce.",
+  "_meta": {
+    "vod_id": "_CrTZQ8bMVA",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 103585,
+    "approx_prompt_tokens": 25896,
+    "transcript_lines": 422
+  }
+}
