@@ -42,18 +42,12 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 | [[episodes/2026-06-05|2026-06-05]] | Cyborg commentator hosting the AI Rooney grievance machine segment, known for escalating rants and audience-focused criticism. |
 | [[episodes/2026-06-03|2026-06-03]] | Proprietary cyborg commentator (Andy Rooney homage). Delivers viewer complaints via !rr. Suffers repeated 'brain empty' failures, violates age guardrails (references 19-year-old), produces incoherent sexualized rants. Case orders full rebuild. |
 | [[episodes/2026-05-29|2026-05-29]] | Retired cyborg commentator delivering grievance rants. |
+| [[episodes/2024-08-22|2024-08-22]] | cyborg commentator. |
 | [[episodes/2024-05-10|2024-05-10]] | AI commentator. |
 | [[episodes/2024-01-17|2024-01-17]] | cyborg commentator. |
 | [[episodes/2023-12-12|2023-12-12]] | AI grievance commentator. |
 
 ## Notable moments
-
-
-
-
-
-
-
 
 - **[01:45:21]** ([[episodes/2026-06-29|2026-06-29]]): Activated via the `!rr` chat command for 10 viewer interactions per session with pronouns "he/hyped." Blackwell nervously remarks, "I wonder if maybe I've created a monster that will kill us all."
 - **[01:47:30]** ([[episodes/2026-06-29|2026-06-29]]): Fixates on the sitcom *Wings*, the Daumont Network, and bizarre claims about Michael J. Fox appearing in *Sleepaway Camp*.
@@ -71,3 +65,6 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 - **[01:47:30]** ([[episodes/2026-06-29|2026-06-29]]): AI Rooney has a recurring fixation on the sitcom Wings, the Daumont Network, and Michael J. Fox allegedly appearing in 'Sleep Away Camp.'
 - **[01:10:38]** ([[episodes/2026-07-16|2026-07-16]]): The decommissioned Rooney model has pivoted to alternative research funding after the Saudis declined to finance him; he claims to have secured a different back channel.
 - **[01:06:45]** ([[episodes/2026-07-17|2026-07-17]]): The decommissioned AI Rooney is now only available as 'Rooney 1.0 Knot Prime' in the digital space. Live in Sleazy located the model. The old model drained two lakes of water for his segment; the new model would have drained more but cut funding limited capacity.
+- **[2:01:01]** ([[episodes/2024-08-22|2024-08-22]]): AI Rooney claims all speech formulated in real-time by ChatGPT per signed deal.
+- **[2:46:24]** ([[episodes/2024-08-22|2024-08-22]]): AI Rooney complains of a 'hulking ape' in the garage (Rock-afire gorilla reference).
+- **[2:49:12]** ([[episodes/2024-08-22|2024-08-22]]): AI Rooney's eyes not red; Case speculates AI becoming JD Vance.

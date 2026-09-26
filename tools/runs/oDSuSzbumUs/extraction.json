@@ -1,0 +1,257 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "16:10",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Freestyle Opening",
+      "notes": "Hype Train commandeers the cold open with a high-tempo freestyle rap over a Democratic trap beat, thanking subscribers and derailing into surreal culinary and bodily-fluid musings before being banished back to hell."
+    },
+    {
+      "start": "16:10",
+      "end": "50:12",
+      "canonical_segment": "News",
+      "title": "DNC Protests, Trump-Netanyahu Call, Mike Lindell Disguise",
+      "notes": "Blackwell covers Chicago DNC protests with 55+ arrests, conflicting reports on Trump allegedly calling Netanyahu to delay a ceasefire (Logan Act implications), and Mike Lindell shaving his mustache as a failed DNC disguise to harass a 12-year-old."
+    },
+    {
+      "start": "50:12",
+      "end": "51:07",
+      "canonical_segment": "News",
+      "title": "Jeff Ripple Sign-Off",
+      "notes": "Ripple closes the news pool with his signature lukewarm pool metaphor and departs for the super jet."
+    },
+    {
+      "start": "51:07",
+      "end": "1:37:24",
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip Bradstein Street Interviews: Gorilla Bike, Mustache Sentience, Pre-Recorded Confession",
+      "notes": "Trip interviews a gorilla claiming to be a bike who loves Mike Lindell, a sentient mustache abandoned by Lindell, a fifth-dimensional foodie, and a pre-recorded 'night man' who admits to time-traveling submissions; Trip's alerts fail due to StreamRobot misconfiguration."
+    },
+    {
+      "start": "1:15:26",
+      "end": "1:24:05",
+      "canonical_segment": "News",
+      "title": "Bill Clinton DNC Speech Live Reaction",
+      "notes": "Blackwell and chat watch Bill Clinton's DNC address live; Clinton endorses Harris, references Epstein plane, jokes about his age (78), and signs off with 'God bless America.'"
+    },
+    {
+      "start": "1:38:59",
+      "end": "1:55:21",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: The Great Coat Election",
+      "notes": "Munch and Crum debate five viewer-submitted blazer options (shiny blue, Joker red, gold sequin, gold solid, classy pink); Crum rigs the poll to guarantee a top-two finish, but chat votes gold into a landslide victory."
+    },
+    {
+      "start": "2:00:02",
+      "end": "2:37:21",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web: Kiss Cam Tragedy, Mall Logic, Booker T Horniness, Finger Cleaner, AI Reed Hoffman, Drunk Hulk Hogan",
+      "notes": "Blackwell and AI Rooney rate viral clips: a kiss-cam mishap, gender double-standard mall interview, Booker T's NXT schtick, an automatic finger cleaner, AI-generated Reid Hoffman digital twin, and a drunk Hulk Hogan ranting about Kamala Harris."
+    },
+    {
+      "start": "2:37:21",
+      "end": "2:48:07",
+      "canonical_segment": "AI Rooney",
+      "title": "AI Rooney Rant: Hogan, AI Nuance, Trip Pre-Records, Democrat Wrestler, Piss Drinkers, Garage Gorilla",
+      "notes": "AI Rooney delivers a multi-topic rant generated from chat complaints, covering Hulk Hogan's racism, AI's failure to grasp 'gay,' Trip's pre-recorded interviews, Democrats lacking a wrestler, childhood heroes turning racist, Ben never using AI Rooney, urine therapy, and a hulking garage ape."
+    },
+    {
+      "start": "2:48:07",
+      "end": "2:51:02",
+      "canonical_segment": "News",
+      "title": "Closing & Raid to NoMePro",
+      "notes": "Blackwell confirms gold coat order, teases Patreon stream with CastHim tomorrow, and raids NoMePro."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors the broadcast, manages Hype Train derailment, covers DNC protests and Lindell stunt, reacts to Bill Clinton live, oversees coat poll rigging, hosts Amongst the Web and AI Rooney.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Opens the show with a freestyle rap over a Democratic trap beat, thanks subscribers, spirals into surreal piss/culinary riffs before being dismissed.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Delivers the news pool segment on DNC protests and Trump-Netanyahu call, signs off with the super jet bit.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducts street interviews from Central Park bushes; interviews a gorilla-bike, sentient mustache, fifth-dimensional foodie, and a time-traveling pre-recorded 'night man'; alert system fails due to StreamRobot.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates Crum over five blazer options, accuses Crum of coat theft, loses the poll to gold sequin coat, rants about Olympics and Goodwill Games.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Rigs the coat poll to secure a top-two finish, claims snail-goo resilience, describes ancestral badminton with horses and bone-reading, gets threatened with police by Munch.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Appears briefly at close; Blackwell asks if he can smell the difference between robot and human food.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "AI Rooney",
+      "role": "cyborg commentator",
+      "notes": "cyborg commentator. Co-hosts Amongst the Web, malfunctions on 'gay' detection, delivers a multi-topic rant from chat complaints covering Hogan, AI nuance, Trip's pre-records, Democrat wrestler deficit, piss drinkers, and garage gorilla.",
+      "canonical_name": "AI Rooney",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Mentioned off-screen: Case must help her at 6:37 PM per chat reminder; 'Night Kendall' appears in Trip's park realm.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Munch Coat Saga",
+      "beat": "[2024-08-22] Gold sequin blazer wins viewer poll after Crum rigs bracket; Munch declares himself 'Lord of all that is golden.'",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Trip Pre-Record Controversy",
+      "beat": "[2024-08-22] 'Night man' caller reveals Trip pre-records street interviews via time travel; Trip's StreamRobot alerts fail to catch anonymous sub.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "16:10",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell returned from DNC coverage in Chicago.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "39:03",
+      "entity": "",
+      "fact": "Mike Lindell shaved mustache as DNC disguise, posed as Rudy Giuliani narrated, harassed a 12-year-old.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "45:50",
+      "entity": "",
+      "fact": "DNC tickets require credentials; general public not admitted.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "48:15",
+      "entity": "",
+      "fact": "Mike Lindell admitted to massive crack addiction; company went under.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "56:22",
+      "entity": "Trip Bradstein",
+      "fact": "Trip Bradstein's alert system switched to StreamRobot, missing certain sub types.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:04:26",
+      "entity": "",
+      "fact": "Chat reminded Case to help Kendelle at 6:37 PM (15 minutes from timestamp).",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:21:17",
+      "entity": "",
+      "fact": "Bill Clinton age confirmed 78 (birthday two days prior).",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:41:37",
+      "entity": "",
+      "fact": "Case banned from purchasing from Shein; Munch's coat order from Shein never arrived.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:48:40",
+      "entity": "",
+      "fact": "Gold sequin coat won poll; all anchors to receive matching gold coats.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "2:01:01",
+      "entity": "AI Rooney",
+      "fact": "AI Rooney claims all speech formulated in real-time by ChatGPT per signed deal.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "2:32:10",
+      "entity": "",
+      "fact": "Case previously did a 30-minute call-in bit selling urine drinking as 'perfect circle of unwasted energy.'",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "2:33:15",
+      "entity": "",
+      "fact": "Joe Rogan allegedly promoted drinking own urine for psychedelic effects.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "2:46:24",
+      "entity": "AI Rooney",
+      "fact": "AI Rooney complains of a 'hulking ape' in the garage (Rock-afire gorilla reference).",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "2:49:12",
+      "entity": "AI Rooney",
+      "fact": "AI Rooney's eyes not red; Case speculates AI becoming JD Vance.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covers DNC protests and a Trump-Netanyahu Logan Act allegation, then pivots to Mike Lindell's failed mustache disguise at the convention. Trip Bradstein's street interviews descend into surreal encounters with a gorilla-bike, a sentient mustache, and a time-traveling pre-recorded caller exposing Trip's alert failures. The broadcast watches Bill Clinton's live DNC speech, then Munch and Crum rig a viewer poll to select a gold sequin blazer for the network. Amongst the Web rates viral clips including a drunk Hulk Hogan rant, before AI Rooney delivers a sprawling rant on Hogan, AI language failures, Trip's pre-records, and a garage-dwelling animatronic ape.",
+  "_meta": {
+    "vod_id": "oDSuSzbumUs",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 132752,
+    "approx_prompt_tokens": 33188,
+    "transcript_lines": 317
+  }
+}
