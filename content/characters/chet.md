@@ -48,19 +48,20 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2025-06-20|2025-06-20]] | science correspondent. |
 | [[episodes/2025-06-17|2025-06-17]] | Chief Science Correspondent. |
 | [[episodes/2025-06-07|2025-06-07]] | Chief Science Correspondent. |
+| [[episodes/2024-10-13|2024-10-13]] | science correspondent. |
 | [[episodes/2024-10-10|2024-10-10]] | science correspondent. |
 | [[episodes/2024-10-03|2024-10-03]] | science correspondent. |
 | [[episodes/2024-09-25|2024-09-25]] | Science correspondent triggered by 'science' presents ancient kefir cheese discovery on Tarim mummies with DNA analysis. |
 | [[episodes/2024-09-18|2024-09-18]] | science correspondent. |
 | [[episodes/2024-09-13|2024-09-13]] | science correspondent. |
 | [[episodes/2024-09-06|2024-09-06]] | science correspondent. |
-| [[episodes/2024-08-30|2024-08-30]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (37)</summary>
+<summary>Earlier appearances (38)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-08-30|2024-08-30]] | debate analyst. |
 | [[episodes/2024-08-27|2024-08-27]] | science correspondent. |
 | [[episodes/2024-08-20|2024-08-20]] | science correspondent. |
 | [[episodes/2024-08-14|2024-08-14]] | science correspondent. |

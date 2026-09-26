@@ -1,0 +1,151 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "end": "00:44:00",
+      "notes": "Pepito assumes mayoral office in Rennerton, bulldozes schools and hospitals, holds press conference, wins re-election as 'despotic dog' before transitioning to Kasem G administration.",
+      "start": "00:00:00",
+      "title": "The Pepito Administration: Year Zero"
+    },
+    {
+      "canonical_segment": "News",
+      "end": "01:56:00",
+      "notes": "Kasem G elected mayor; builds horse-slaughter sneaker economy, bulldozes stadiums, adds hospitals, faces press scrutiny over water filtration and drug policy, survives challenge from Crum.",
+      "start": "00:44:00",
+      "title": "The Kasem G Era: Industrial Pivot"
+    },
+    {
+      "canonical_segment": "News",
+      "end": "01:56:30",
+      "notes": "Case Blackwell briefly interrupts broadcast to confirm stream continuity ahead of Kasem G campaign rally.",
+      "start": "01:56:00",
+      "title": "Blackwell Live Check-In"
+    },
+    {
+      "canonical_segment": "News",
+      "end": "03:36:00",
+      "notes": "Crum elected mayor; institutes taxation, expands hospital row, reduces casinos, reaches 559k citizens, withstands hostile press conference with Munch infiltration and fart-podium incident.",
+      "start": "01:56:30",
+      "title": "The Crum Administration: Civic Reform"
+    },
+    {
+      "canonical_segment": "News",
+      "end": "04:14:00",
+      "notes": "Crum wins re-election over Munch in close race; Munch delivers unhinged concession rap vowing return, Crum pledges eight more years of 'solutions not prostitution'.",
+      "start": "03:36:00",
+      "title": "Crum Re-Election & Munch Meltdown"
+    },
+    {
+      "canonical_segment": "News",
+      "end": "04:24:00",
+      "notes": "Chet elected mayor on science platform; delivers teleportation-infused campaign rap, advocates opening sneakers without horse slaughter, promises AI-controlled city management.",
+      "start": "04:14:00",
+      "title": "The Chet Administration: Science Ticket"
+    },
+    {
+      "canonical_segment": "News",
+      "end": "04:36:49",
+      "notes": "Peter Gibbon wins final election after Munch endorses him; Crum concedes citing Munch's memoir paywall, Gibbon takes office promising to repair Rennerton, stream ends with raid to Bruce Green.",
+      "start": "04:24:00",
+      "title": "Gibbon Victory & Handoff"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "notes": "executive producer. Opens broadcast as 'Papita', serves as first mayor of Renerton, bulldozes schools/hospitals, wins re-election as dog incumbent.",
+      "role": "executive producer",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "notes": "debate analyst. Serves two mayoral terms, implements taxes and hospitals, survives hostile press conference, wins re-election over Munch.",
+      "role": "debate analyst",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "notes": "debate analyst. Runs in multiple elections, infiltrates Crum's press conference, delivers unhinged concession rap after losing re-election bid.",
+      "role": "debate analyst",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "notes": "science correspondent. Elected mayor on science platform, campaigns on teleportation tech and ending horse slaughter for sneakers.",
+      "role": "science correspondent",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "notes": "in-studio contributor. Appears as 'Lady Kendall' and 'Lady Ken Doll' ghost candidate across multiple election cycles.",
+      "role": "in-studio contributor",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "notes": "cultural correspondent. Runs as mayoral candidate, engages in press conference banter, trails in polls.",
+      "role": "cultural correspondent",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "episode_summary": "Barely Informed News returns to the municipal simulator Renerton for a marathon session spanning seven mayoral administrations across 134 simulated years. Executive producer Pepito opens as a canine strongman before yielding to a parade of network personalities — Kasem G, Crum, Chet, and finally Peter Gibbon — each reshaping the city through bulldozer governance, casino economies, and escalating hospital crises. The broadcast culminates in Gibbon's victory and a handoff to a noon continuation stream.",
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "Crum",
+      "fact": "Crum confirms marriage to Belulia and claims Krav Maga/Tai Chi training [02:12:58]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Kasem G reveals two-stomach condition requiring stone consumption for digestion [02:03:59]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Peter Gibbon",
+      "fact": "Peter Gibbon cites 'Munchcut loans and Squirrel Factory' as mayoral sponsors [04:36:07]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Renerton operates on 8-year election cycles with $69 channel-point voting [00:41:45]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell briefly breaks from Renerton simulation to confirm live status [01:56:07]",
+      "confidence": 0.7
+    }
+  ],
+  "storylines": [],
+  "_meta": {
+    "vod_id": "DRCre_ofu50",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 194226,
+    "approx_prompt_tokens": 48556,
+    "transcript_lines": 678
+  }
+}
