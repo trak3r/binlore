@@ -1,0 +1,240 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "21:23",
+      "canonical_segment": "News",
+      "title": "Pre-Show Technical Setup & Kendall Pogo Attempt",
+      "notes": "Case troubleshoots audio/camera while Kendall attempts pogo stick in studio; achieves ~8.78 bounces before transitioning to news."
+    },
+    {
+      "start": "21:23",
+      "end": "42:29",
+      "canonical_segment": "News",
+      "title": "Australian Bluey Coin Heist",
+      "notes": "Coverage of 47-year-old Stephen John Nielsen charged with stealing 64,000 unreleased $1 Bluey coins from Sydney warehouse; police recovered ~100,000 coins, rest believed in circulation; strike force codenamed 'Bandit' after Bluey's father."
+    },
+    {
+      "start": "42:29",
+      "end": "46:17",
+      "canonical_segment": "News",
+      "title": "Studio Saltine Discovery & Currency Poll",
+      "notes": "Case finds used saltine cup left by Crum; chat votes on Australian currency rename — 'Blimey World' wins over 'Dingos', 'Jackmans', 'Yahoo Sirius'."
+    },
+    {
+      "start": "46:17",
+      "end": "01:14:50",
+      "canonical_segment": "Amongst the Web",
+      "title": "Leon Kennedy Hosts Viral Video Review",
+      "notes": "Leon Kennedy (Resident Evil) guest-hosts: police/riot footage, Wu-Tang for children clip, Wendy's training video, JoJo Siwa dance, bike stunt, penis parkour fail, MOBA rage compilation, Creed fireworks video, UFO/alien rock montage, cat-glove TikTok narrative."
+    },
+    {
+      "start": "01:14:50",
+      "end": "01:17:56",
+      "canonical_segment": "News",
+      "title": "Post-Amongst Wind-Down & Subscriber Thanks",
+      "notes": "Case thanks J Credible (21 months), Sleazy (Hype 5); transitions to final news story."
+    },
+    {
+      "start": "01:17:56",
+      "end": "01:43:12",
+      "canonical_segment": "News",
+      "title": "Ant Smith 'Small Penis Bible' ASMR Reading",
+      "notes": "Case reads excerpts from Ant Smith's book (4-inch erect, 1-2 inch flaccid, 5.1 cubic inches) in whispered ASMR; covers statistics, retraction, 'blog' (Scandinavian for fat short penis), 'wibby' (original Quibi name), clitoral stimulation mechanics, anal advice; Chet triggers on 'science' keyword at 01:19:18."
+    },
+    {
+      "start": "01:43:12",
+      "end": "01:44:57",
+      "canonical_segment": "News",
+      "title": "Whisper Wednesday Transition",
+      "notes": "Case and Chet exchange performance review; Pepito appears as 'Whisper Pepito'; transition to Trip on the Street."
+    },
+    {
+      "start": "01:44:57",
+      "end": "02:09:13",
+      "canonical_segment": "Trip on the Street",
+      "title": "ASMR Whisper Streets: Crum, Park Super, Rocket Raccoon, Mr. Feastables, Kevin Pantera",
+      "notes": "Trip conducts ultra-quiet park interviews: Crum alleges Munch stole debate victory; Terry (Park Super) complains about Trip's droppings; ASMR Rocket Raccoon details multiverse hog-poll entanglements; Mr. Feastables accuses Trip of lunch theft via Pepito/Peter Gibbon; Kevin Pantera flashes Feastables-as-penis challenge."
+    },
+    {
+      "start": "02:09:13",
+      "end": "02:13:05",
+      "canonical_segment": "News",
+      "title": "Sign-Off & JD Vance Penis Expert Bit",
+      "notes": "Case summarizes 'butthole/penis stream'; JD Vance appears as 'penis expert' claiming vaginal depth half-inch; raid to Bruce Green initiated."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored full broadcast: Bluey coin heist, Amongst the Web with Leon Kennedy, ASMR Small Penis Bible reading, Whisper Wednesday sign-off with JD Vance bit.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Attempted pogo stick in studio during pre-show, achieved ~8.78 bounces before work meeting forced quiet ASMR second half.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Briefly appeared as 'Whisper Pepito'; implicated by Mr. Feastables as lunch thief accomplice via Peter Gibbon.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Confronted Trip on street alleging Munch stole his debate victory yesterday; recited Small Penis Bible verse as 'apostle'.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Heavily discussed by Crum as having attempted to steal a debate victory; not physically present.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Hosted ASMR 'Whisper Wednesday' streets segment from park bushes; interviewed Crum, Park Super, Rocket Raccoon, Mr. Feastables, Kevin Pantera.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Triggered by 'science' keyword at 01:19:18; delivered Chet Guy the Science Eyes desk on penile metrics and cubic-inch calculations.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "neural co-host",
+      "notes": "neural co-host. Appeared alongside Chet during Science Eyes desk; debated penis size comfort as binary entity.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Mentioned as having stolen Mr. Feastables' lunch from fridge and eaten it, leaving empty bag for Trip.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical correspondent",
+      "notes": "musical correspondent. Referenced by Case during subscriber thanks; not physically present.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "musical finale host",
+      "notes": "musical finale host. Referenced at sign-off for blast-out music; not physically present.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Munch vs Crum Rivalry",
+      "beat": "[01:47:43] Crum confronts Trip on street, alleges Munch attempted to steal debate victory yesterday: 'He literally tried to steal it. Which it just says everything you need to know about his particular political affiliations, moral values.'",
+      "timestamp": "01:47:43"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "07:06",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell signs on live with 'Let's do a capito!' cold open",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "11:07",
+      "entity": "Kendelle",
+      "fact": "Kendelle attempts pogo stick in studio, achieves ~8.78 bounces",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "22:31",
+      "entity": "",
+      "fact": "Bluey coin theft: Australian man charged with stealing 64,000 unreleased $1 Bluey coins worth ~$600k AUD",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "46:17",
+      "entity": "",
+      "fact": "Amongst the Web hosted by Leon Kennedy (Resident Evil character) reviewing viral videos",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:19:18",
+      "entity": "Chet",
+      "fact": "Chet Manscape triggers on 'science' keyword, delivers 'Chet Guy the Science Eyes' desk on penile metrics",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:29:57",
+      "entity": "",
+      "fact": "Case reads Ant Smith's 'Small Penis Bible' in ASMR whisper mode for 13 minutes",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:44:57",
+      "entity": "Trip Bradstein",
+      "fact": "Trip Bradstein conducts 'Whisper Wednesday' ASMR streets segment from park",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:11:20",
+      "entity": "",
+      "fact": "JD Vance appears as 'penis expert' claiming vaginal depth misinformation",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:10:35",
+      "entity": "",
+      "fact": "Broadcast ends with raid to Bruce Green",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered the Australian Bluey coin heist before pivoting to an Amongst the Web session with Leon Kennedy reviewing viral police and Olympic clips. The broadcast concluded with a whispered ASMR reading of the Small Penis Bible, a quiet Trip on the Street segment featuring Crum's grievance over a disputed debate vote, and a surprise JD Vance appearance dispensing anatomical misinformation before raiding Bruce Green.",
+  "_meta": {
+    "vod_id": "zCMUbRg0dnw",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 97507,
+    "approx_prompt_tokens": 24376,
+    "transcript_lines": 284
+  }
+}

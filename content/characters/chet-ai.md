@@ -49,6 +49,7 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 | [[episodes/2026-06-15|2026-06-15]] | Synthetic AI co-host, assists in science investigation. |
 | [[episodes/2026-06-05|2026-06-05]] | Synthetic neural network co-host operating from studio monitors, providing data-driven commentary on AI topics. |
 | [[episodes/2026-05-26|2026-05-26]] | Synthetic neural network co-host of Chet Guy the Science Eyes. Provides real-time data analysis, translates foreign medical literature, and assists Chet with technical queries. Operates simultaneously with Chet on screen. |
+| [[episodes/2024-08-07|2024-08-07]] | neural co-host. |
 | [[episodes/2024-06-05|2024-06-05]] | analytical co-host. |
 | [[episodes/2024-05-21|2024-05-21]] | analytical co-host. |
 | [[episodes/2024-05-03|2024-05-03]] | neural co-host. |
@@ -69,3 +70,4 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 - **[30:37]** ([[episodes/2024-03-28|2024-03-28]]): Chet chugs multiple large cups of water to simulate polar ice melt effect on rotational velocity; spins in office chair before and after.
 - **[1:58:19]** ([[episodes/2024-04-02|2024-04-02]]): Possesses a chaos emerald [1:58:19].
 - **[01:16:38]** ([[episodes/2024-04-10|2024-04-10]]): Identifies as 'chat high' on Chet's monitor; claims all accumulated bug knowledge available at will. [01:16:38]
+- **[01:19:18]** ([[episodes/2024-08-07|2024-08-07]]): Chet Manscape triggers on 'science' keyword, delivers 'Chet Guy the Science Eyes' desk on penile metrics

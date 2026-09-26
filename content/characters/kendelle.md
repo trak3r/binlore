@@ -177,3 +177,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[[01:32:05]]** ([[episodes/2024-06-12|2024-06-12]]): Birthday week coincides with Case's birthday week, described as a 'double birthday week'.
 - **[[43:29]]** ([[episodes/2024-07-09|2024-07-09]]): Has a wikiFeet page created by an unknown party (chat suspects Eldrick); page features a single photo from Instagram showing her foot tattoo.
 - **[[1:22:53]]** ([[episodes/2024-07-09|2024-07-09]]): Owns a Charlie Pellet (NYC subway voice) sound pellet.
+- **[11:07]** ([[episodes/2024-08-07|2024-08-07]]): Kendelle attempts pogo stick in studio, achieves ~8.78 bounces

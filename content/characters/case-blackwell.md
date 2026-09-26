@@ -151,3 +151,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[[14:02]]** ([[episodes/2024-08-01|2024-08-01]]): States body weight 'a bit over 200' pounds while testing Pogo stick weight limit.
 - **[[1:17:21]]** ([[episodes/2024-08-01|2024-08-01]]): Practices morning shoulder rolls and meditation for relaxation.
 - **[[19:24]]** ([[episodes/2024-08-07|2024-08-07]]): Uncertain of exact streaming tenure; chat votes tie between 69 years and 0 months as duration.
+- **[07:06]** ([[episodes/2024-08-07|2024-08-07]]): Case Blackwell signs on live with 'Let's do a capito!' cold open

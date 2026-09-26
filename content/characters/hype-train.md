@@ -76,7 +76,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2025-06-11|2025-06-11]] | Commandeered the birthday broadcast with freestyle raps, hell lore, and a level-13 surge while insisting every hype train is his birthday. |
 | [[episodes/2025-06-02|2025-06-02]] | hype correspondent. |
 | [[episodes/2025-05-27|2025-05-27]] | musical/cultural interruption. |
-| [[episodes/2024-08-07|2024-08-07]] | hype correspondent. |
+| [[episodes/2024-08-07|2024-08-07]] | musical correspondent. |
 | [[episodes/2024-07-31|2024-07-31]] | musical interruption. |
 | [[episodes/2024-07-30|2024-07-30]] | musical interruption. |
 | [[episodes/2024-07-22|2024-07-22]] | Derails cold open with freestyle rap over 90s beats, acknowledges subscriber milestones. |
