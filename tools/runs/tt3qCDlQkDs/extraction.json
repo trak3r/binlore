@@ -1,0 +1,235 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "07:54",
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the official broadcast sign-on and countdown from the executive producer station."
+    },
+    {
+      "start": "07:54",
+      "end": "12:07",
+      "canonical_segment": "News",
+      "title": "Pre-Show Banter & Gerni Championships Discovery",
+      "notes": "Case and Kendall discuss new intro graphics and the existence of the Gurning World Championships while the stream boots up."
+    },
+    {
+      "start": "12:07",
+      "end": "19:56",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train: Gooning Freestyle",
+      "notes": "Hype Train commandeers the feed with a high-tempo gooning-themed freestyle rap over eclectic beats, acknowledging subscriber milestones."
+    },
+    {
+      "start": "20:17",
+      "end": "33:16",
+      "canonical_segment": "News",
+      "title": "Gurning World Championships Coverage",
+      "notes": "Case and Rick review the 2024 World Gurning Championship in Egremont, Cumbria, analyzing competitor faces and attempting their own gurns."
+    },
+    {
+      "start": "33:36",
+      "end": "44:53",
+      "canonical_segment": "News",
+      "title": "Middle East Escalation: Israel-Hezbollah Conflict",
+      "notes": "Case and Rick cover Israeli airstrikes on Beirut, the death of a senior Hezbollah commander, and the UN Security Council meeting, using a color-coded threat meter."
+    },
+    {
+      "start": "44:53",
+      "end": "47:18",
+      "canonical_segment": "News",
+      "title": "Pepito Interlude: Golf Ball Diet",
+      "notes": "Pepito claims to have eaten a bucket of stolen driving-range golf balls, describing them as negative-calorie 'hard popcorn'."
+    },
+    {
+      "start": "47:18",
+      "end": "01:08:40",
+      "canonical_segment": "News",
+      "title": "Trailer Thursday: Panda Plan, Hell Is Us, Monster Hunter Wilds",
+      "notes": "Case and Pepito react to the Jackie Chan panda-action film trailer, a ghost-horror game (Hell Is Us), and the Monster Hunter Wilds reveal."
+    },
+    {
+      "start": "01:16:23",
+      "end": "01:29:46",
+      "canonical_segment": "News",
+      "title": "AI-Discovered Nazca Geoglyphs",
+      "notes": "Case and Jeff Ripple examine 303 new Nazca Lines identified by AI, including a knife-wielding orca, decapitation scenes, and chat-suggested genital slit and Wreck-It Ralph glyphs."
+    },
+    {
+      "start": "01:30:37",
+      "end": "01:36:46",
+      "canonical_segment": "News",
+      "title": "Jeremy Pizzagate: Cheesy 3D Film Director Interview",
+      "notes": "Case interviews Jeremy Pizzagate, director of 'Talking Weights' and the 'Nightmare Fuel' oil-barrel saga, who claims his father inspired the Dick Tracy villain Pizza Face."
+    },
+    {
+      "start": "01:37:44",
+      "end": "01:54:33",
+      "canonical_segment": "How To with Jeb",
+      "title": "How To with Jeb: Cinnamon-Sugar Pancakes, AR Proposals & Screaming Viking",
+      "notes": "Jeb and his wood-trapped father demonstrate marriage-inducing pancakes, an AR Catwoman proposal filter, and the Cheers-derived Screaming Viking cocktail, which wins a flash poll to become the official BIN network drink."
+    },
+    {
+      "start": "01:59:39",
+      "end": "02:14:33",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Suit Jackets, Jorts vs. Fanny Packs, Gurn-Off",
+      "notes": "Munch and Crum debut new red and blue jackets, debate George vs. fanny packs and jorts, then engage in a live gurning contest judged by chat."
+    },
+    {
+      "start": "02:14:33",
+      "end": "02:24:11",
+      "canonical_segment": "DJ Newsic",
+      "title": "DJ Newsic: Trump Nail-Salon Conspiracy & Thumb Rap",
+      "notes": "DJ Newsic auto-tunes a segment on Trump sharing a nail-tech cousin conspiracy about paid Kamala Harris protesters, then freestyles as a sentient thumb over a conspiracy trap beat."
+    },
+    {
+      "start": "02:24:11",
+      "end": "02:26:59",
+      "canonical_segment": "News",
+      "title": "Raid Outro",
+      "notes": "Case thanks supporters and raids Jeremy the prop guy's World of Warcraft stream."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the full broadcast, managed segment transitions, and participated in gurning and trailer reactions.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold-open sign-on, debuted a new gray jacket, and claimed to have eaten a bucket of golf balls.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through frame during pre-show and trailer segments, prompting Case to hide her with a Boglan puppet.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Hijacked the early broadcast with a gooning-themed freestyle rap acknowledging 19-month sub Metal Chaos and other supporters.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "correspondent",
+      "notes": "correspondent. Co-anchored Gurning and Middle East coverage, attempted gurning faces, and read a color-coded threat meter.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debuted a red jacket, won the gurning poll, and claimed to drink a gallon of salt water nightly for low stomach salinity.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Wore a new blue jacket, argued for jorts over fanny packs, and lost the gurning poll to Munch.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "recurring",
+      "notes": "recurring. Broadcast from his woodshop with his board-trapped father, shared a pancake recipe, an AR proposal idea, and the Screaming Viking cocktail.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "recurring",
+      "notes": "recurring. Closed the show with an auto-tuned nail-conspiracy segment and a sentient-thumb freestyle over a conspiracy trap beat.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeremy Pizzagate",
+      "role": "guest",
+      "notes": "guest. Cheesy 3D film director interviewed about his 'Talking Weights' and 'Nightmare Fuel' franchises and his Pizza Face namesake.",
+      "canonical_name": "Jeremy Pizzagate",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Pepito debuted a new gray/white jacket to differentiate from Case.",
+      "timestamp": "[14:38]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Pepito claims to eat stolen driving-range golf balls as a negative-calorie snack.",
+      "timestamp": "[45:57]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jeb Nogget recently got married.",
+      "timestamp": "[01:40:41]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "The Screaming Viking (vodka, vermouth, lime, celery, cucumber) won a flash poll to become the official BIN network cocktail.",
+      "timestamp": "[01:51:31]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Munch and Crum each received new suit jackets (red and blue respectively).",
+      "timestamp": "[02:00:33]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Munch claims a doctor (Captain Phillips) prescribed a gallon of salt water before bed for low stomach salinity.",
+      "timestamp": "[02:12:47]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened with a gooning-derailed Hype Train before pivoting to the Gurning World Championships and the escalating Israel-Hezbollah conflict, complete with a condiment-based threat meter. The broadcast then veered through trailer reactions, AI-discovered Nazca geoglyphs, a cheesy 3D-director interview, and Jeb's woodshop cooking segment that crowned the Screaming Viking as the network's official drink. Munch and Crum debuted matching jackets for a debate on jorts versus fanny packs that devolved into a live gurn-off, and DJ Newsic closed with a thumb-persona freestyle on Trump's nail-salon conspiracy before raiding a prop-maker's WoW stream.",
+  "_meta": {
+    "vod_id": "tt3qCDlQkDs",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 117823,
+    "approx_prompt_tokens": 29455,
+    "transcript_lines": 358
+  }
+}
