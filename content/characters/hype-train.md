@@ -168,3 +168,4 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[]** ([[episodes/2024-05-15|2024-05-15]]): [157:37] Reaches level 5-6 with new graphics; manifests Scorpion King persona; claims to have altered Edo Japan timeline putting gauges in government.
 - **[22:27]** ([[episodes/2024-06-24|2024-06-24]]): Hype Train possesses Case's head during broadcast, claims 'I've taken over case his brain'.
 - **[[10:53]]** ([[episodes/2024-08-07|2024-08-07]]): Subscriber alert month counters broken after Streamer.bot migration, showing multiple conflicting values (0/18/19/20/21/24 months).
+- **[02:50:30]** ([[episodes/2024-10-03|2024-10-03]]): Won the fourth Rennerton mayoral nomination slot in a flash poll, joining September Tyler, Lady Kendall, and Pepito on the ballot [02:50:30].

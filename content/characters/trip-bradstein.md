@@ -41,6 +41,7 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 | [[episodes/2025-06-17|2025-06-17]] | Field Correspondent. |
 | [[episodes/2025-06-11|2025-06-11]] | field correspondent. |
 | [[episodes/2025-06-02|2025-06-02]] | field correspondent. |
+| [[episodes/2024-10-03|2024-10-03]] | field correspondent. |
 | [[episodes/2024-10-01|2024-10-01]] | field correspondent. |
 | [[episodes/2024-09-12|2024-09-12]] | field correspondent. |
 | [[episodes/2024-08-30|2024-08-30]] | field correspondent. |
@@ -52,13 +53,13 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 | [[episodes/2024-06-26|2024-06-26]] | field correspondent. |
 | [[episodes/2024-06-25|2024-06-25]] | field correspondent. |
 | [[episodes/2024-06-05|2024-06-05]] | field correspondent. |
-| [[episodes/2024-05-30|2024-05-30]] | field correspondent. |
 
 <details>
-<summary>Earlier appearances (16)</summary>
+<summary>Earlier appearances (17)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-05-30|2024-05-30]] | field correspondent. |
 | [[episodes/2024-05-15|2024-05-15]] | field correspondent. |
 | [[episodes/2024-04-16|2024-04-16]] | field correspondent. |
 | [[episodes/2024-04-02|2024-04-02]] | field correspondent. |
@@ -96,3 +97,4 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 - **[]** ([[episodes/2024-06-26|2024-06-26]]): Missed son Chase's outdoor wedding because Rob Elvie stole the mailed invite and blocked the number; microphone-punched Rob in retaliation. [02:31:21]
 - **[01:44:57]** ([[episodes/2024-08-07|2024-08-07]]): Trip Bradstein conducts 'Whisper Wednesday' ASMR streets segment from park
 - **[56:22]** ([[episodes/2024-08-22|2024-08-22]]): Trip Bradstein's alert system switched to StreamRobot, missing certain sub types.
+- **[02:47:07]** ([[episodes/2024-10-03|2024-10-03]]): Offered $3M contract by Tony Khan to join AEW, then fired minutes later for 'aggressive energy' from a bystander [02:47:07].

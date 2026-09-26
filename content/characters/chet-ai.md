@@ -49,6 +49,7 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 | [[episodes/2026-06-15|2026-06-15]] | Synthetic AI co-host, assists in science investigation. |
 | [[episodes/2026-06-05|2026-06-05]] | Synthetic neural network co-host operating from studio monitors, providing data-driven commentary on AI topics. |
 | [[episodes/2026-05-26|2026-05-26]] | Synthetic neural network co-host of Chet Guy the Science Eyes. Provides real-time data analysis, translates foreign medical literature, and assists Chet with technical queries. Operates simultaneously with Chet on screen. |
+| [[episodes/2024-10-03|2024-10-03]] | analytical co-host. |
 | [[episodes/2024-08-07|2024-08-07]] | neural co-host. |
 | [[episodes/2024-06-05|2024-06-05]] | analytical co-host. |
 | [[episodes/2024-05-21|2024-05-21]] | analytical co-host. |
@@ -71,3 +72,4 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 - **[1:58:19]** ([[episodes/2024-04-02|2024-04-02]]): Possesses a chaos emerald [1:58:19].
 - **[01:16:38]** ([[episodes/2024-04-10|2024-04-10]]): Identifies as 'chat high' on Chet's monitor; claims all accumulated bug knowledge available at will. [01:16:38]
 - **[01:19:18]** ([[episodes/2024-08-07|2024-08-07]]): Chet Manscape triggers on 'science' keyword, delivers 'Chet Guy the Science Eyes' desk on penile metrics
+- **[01:35:11]** ([[episodes/2024-10-03|2024-10-03]]): Delivered canonical gorilla genitalia data: silverback penis ~1.1 inches (3 cm), smallest relative to body mass of any mammal; testes small, sperm count low, high abnormal morphology; evolutionary explanation: harem defense replaces sperm competition [01:35:11-01:49:21].
