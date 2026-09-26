@@ -50,7 +50,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (67)</summary>
+<summary>Earlier appearances (68)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -62,6 +62,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-02|2025-06-02]] | debate analyst. |
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
+| [[episodes/2024-09-11|2024-09-11]] | debate analyst. |
 | [[episodes/2024-09-06|2024-09-06]] | debate analyst. |
 | [[episodes/2024-08-22|2024-08-22]] | debate analyst. |
 | [[episodes/2024-08-20|2024-08-20]] | debate analyst. |
@@ -181,3 +182,5 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[]** ([[episodes/2024-07-17|2024-07-17]]): Munch claims he is buying the entire crew hot new coats after winning a debate poll. [01:05:07]
 - **[[1:37:51]]** ([[episodes/2024-08-07|2024-08-07]]): Declares heel turn after losing Diet Mountain Dew poll to Tim Walz; claims 'wise wolves' minority will prevail.
 - **[[35:41]]** ([[episodes/2024-09-06|2024-09-06]]): Ordered gold jackets for staff; claims jacket makes him look 'fresh' despite cheap construction.
+- **[[17:28]]** ([[episodes/2024-09-11|2024-09-11]]): Claims 'independently conservative' political alignment; says he would vote for Harris if she promised to send Crum to Djibouti or kill him.
+- **[[02:08:48]]** ([[episodes/2024-09-11|2024-09-11]]): Declares 'I fucking won that one' claiming personal debate victory; insists 'whenever I win America wins.'

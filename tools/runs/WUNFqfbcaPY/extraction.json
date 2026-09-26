@@ -1,0 +1,152 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "08:36",
+      "canonical_segment": "News",
+      "title": "Broadcast Sign-On and Pre-Debate Setup",
+      "notes": "Pepito delivers station identification; Case Blackwell prepares studio for debate night simulcast."
+    },
+    {
+      "start": "08:36",
+      "end": "12:57",
+      "canonical_segment": "News",
+      "title": "Anchor Desk Opening",
+      "notes": "Case Blackwell welcomes chat, acknowledges technical issues, and teases Munch & Crum debate desk."
+    },
+    {
+      "start": "12:57",
+      "end": "15:57",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum Debate Preview",
+      "notes": "Munch and Crum appear in golden tuxes, exchange pre-debate banter, and preview Harris vs. Trump matchup."
+    },
+    {
+      "start": "15:57",
+      "end": "02:03:04",
+      "canonical_segment": "News",
+      "title": "Presidential Debate Simulcast and Live Commentary",
+      "notes": "Network carries ABC News simulcast of Harris-Trump debate; Case, Munch, and Crum provide running commentary throughout."
+    },
+    {
+      "start": "02:03:04",
+      "end": "02:12:02",
+      "canonical_segment": "Munch & Crum",
+      "title": "Post-Debate Analysis and Argument",
+      "notes": "Munch and Crum clash over debate performance, election predictions, and personal grievances; Case moderates."
+    },
+    {
+      "start": "02:12:38",
+      "end": "02:16:18",
+      "canonical_segment": "News",
+      "title": "Kendall's Corner: Bachelorette Drama",
+      "notes": "Kendall delivers unrelated entertainment news about The Bachelorette finale and explicit text leak."
+    },
+    {
+      "start": "02:16:43",
+      "end": "02:18:11",
+      "canonical_segment": "News",
+      "title": "JD Vance Clip Search",
+      "notes": "Case attempts to locate JD Vance live footage; plays brief 16-second clip of Vance with German Shepherd."
+    },
+    {
+      "start": "02:18:32",
+      "end": "02:20:12",
+      "canonical_segment": "News",
+      "title": "Sign-Off and Raid",
+      "notes": "Case thanks Pepito, reflects on debate night, and raids Gina Darling."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored debate night broadcast, managed simulcast cutaways, and moderated post-debate Munch & Crum argument.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered station sign-on and managed live switching during debate simulcast.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Wore golden tux for debate preview, declared himself independently conservative, and claimed debate victory for Trump.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Wore golden tux, revealed seven-year egg avoidance, and argued Harris won debate while Munch denied reality.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype correspondent",
+      "notes": "hype correspondent. Briefly interrupted pre-show with freestyle before being sent to corner by Case.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendall",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Delivered Kendall's Corner segment covering Bachelorette drama and explicit text message leak.",
+      "canonical_name": "Kendall",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Claims 'independently conservative' political alignment; says he would vote for Harris if she promised to send Crum to Djibouti or kill him.",
+      "timestamp": "[17:28]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "States he has not eaten eggs in seven years.",
+      "timestamp": "[30:33]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Declares 'I fucking won that one' claiming personal debate victory; insists 'whenever I win America wins.'",
+      "timestamp": "[02:08:48]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendall",
+      "fact": "Reports Bachelorette contestant Devin broke engagement via phone; ex-fiancé leaked explicit texts including 'can't wait for your mouth to be on my titties.'",
+      "timestamp": "[02:14:31]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News carried the ABC News simulcast of the Harris-Trump presidential debate with live commentary from Case Blackwell, Munch, and Crum. The debate covered economy, immigration, abortion, foreign policy, and January 6; Munch and Crum erupted into a post-debate shouting match over who won, ending with Munch professing love for Crum. Kendall closed the night with unrelated Bachelorette drama before Case raided Gina Darling.",
+  "_meta": {
+    "vod_id": "WUNFqfbcaPY",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 151781,
+    "approx_prompt_tokens": 37945,
+    "transcript_lines": 349
+  }
+}
