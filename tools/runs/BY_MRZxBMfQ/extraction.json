@@ -1,0 +1,142 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train: Donkey Kong Drive-By & Diddy Kong Party",
+      "start": "00:04",
+      "end": "22:35",
+      "notes": "Pepito delivers cold open sign-on; Hype Train commandeers broadcast with surreal Donkey Kong/Diddy Kong freestyle rap, claims to have killed Donkey Kong in drive-by shooting with RFK Jr."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Iran Missile Barrage on Israel & VP Debate Preview",
+      "start": "22:35",
+      "end": "50:36",
+      "notes": "Case Blackwell and Jeff Ripple cover Iran's 180+ missile attack on Israel, Harris campaign response, and VP debate expectations; Rick debates framing of escalation."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Kendall Walkthrough: Jack in the Box Event & Mac and Cheese ASMR",
+      "start": "50:36",
+      "end": "1:02:57",
+      "notes": "Kendelle appears with signature theme music, discusses Jack in the Box Halloween event, performs mac and cheese stirring ASMR for viewer 'Side Effect'."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Jeff Ripple: VP Debate Analysis & JD Vance Interview",
+      "start": "1:02:57",
+      "end": "1:17:01",
+      "notes": "Jeff Ripple airs Fox News clip on Walz nerves, interviews JD Vance (Case portrayal) covering eyeliner condition, couch jokes, circle jerk orientation, and debate style."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip Bradstein: Bushmaster Ceremony & Park Interviews",
+      "start": "1:17:01",
+      "end": "1:50:13",
+      "notes": "Trip Bradstein awarded Bushmaster title by Bushmasters International president, declines porn prize and receives honorary Bush Slayer title; interviews park denizens including Ham-teto, Wharton Wrestler, Park Ranger, and roller-skate Rob."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web: Bike Butt, Piss Patties, Party Scientist & High Fives",
+      "start": "1:50:13",
+      "end": "2:20:57",
+      "notes": "Case and Peter Gibbon review viewer submissions: electrical-box e-bike with 'dummy thick' butt, SpongeBob piss patty parody, sober rave party scientist, grandma racism clip, chili dog eating, and world-record high five attempt."
+    },
+    {
+      "canonical_segment": "DJ Newsic",
+      "title": "DJ Newsic: Fat Bear Week Delay & Bear Interview",
+      "start": "2:20:57",
+      "end": "2:39:56",
+      "notes": "DJ Newsic covers Fat Bear Week bracket delay after bears 469 and 402 fight to death on live stream; interviews bear (Bear-in-Stain) who raps about honey, clubs, and not snitching; raids Some Orbital for VP debate coverage."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored broadcast, double-booked for Jack in the Box event and claimed VP debate moderation from under table paid in sticks.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on; later reported by Park Ranger to have urinated on Trip Bradstein's bush.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Derailed broadcast with Donkey Kong/Diddy Kong freestyle rap, claimed drive-by shooting of Donkey Kong with RFK Jr.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Delivered Iran missile attack coverage, aired Fox News VP debate preview clip, conducted satirical JD Vance interview.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through studio with theme music, discussed Jack in the Box event, performed mac and cheese ASMR for chat.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Appeared in Amongst the Web and DJ Newsic segments; claimed Park Ranger firing/rehiring and Park Mayor campaign.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted park interviews, awarded Bushmaster then Bush Slayer title after declining porn prize from Bushmasters International.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "timestamp": "01:40:12",
+      "entity": "Peter Gibbon",
+      "fact": "Peter Gibbon claims he was fired and rehired as Park Ranger, reopening Park Mayor campaign.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:26:39",
+      "entity": "",
+      "fact": "Fat Bear Week 2024 bracket release delayed one day after bears 469 and 402 fought to the death on live stream.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened with a Hype Train derailment into Donkey Kong lore before covering Iran's missile barrage on Israel and the upcoming VP debate. The broadcast featured Kendelle's Jack in the Box event plans and mac and cheese ASMR, a satirical JD Vance interview, Trip Bradstein's Bushmaster ceremony in the park, an Amongst the Web cavalcade of bike butts and piss patties, and a DJ Newsic finale announcing Fat Bear Week's delay due to a fatal bear fight.",
+  "_meta": {
+    "vod_id": "BY_MRZxBMfQ",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 127389,
+    "approx_prompt_tokens": 31847,
+    "transcript_lines": 377
+  }
+}

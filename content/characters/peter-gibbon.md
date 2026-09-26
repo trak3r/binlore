@@ -49,19 +49,20 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2025-06-28|2025-06-28]] | news stowaway. |
 | [[episodes/2025-06-17|2025-06-17]] | News Stowaway. |
 | [[episodes/2025-06-11|2025-06-11]] | news stowaway. |
+| [[episodes/2024-10-01|2024-10-01]] | news stowaway. |
 | [[episodes/2024-09-20|2024-09-20]] | news stowaway. |
 | [[episodes/2024-09-18|2024-09-18]] | news stowaway. |
 | [[episodes/2024-09-11|2024-09-11]] | news stowaway. |
 | [[episodes/2024-09-08|2024-09-08]] | news stowaway. |
 | [[episodes/2024-09-06|2024-09-06]] | news stowaway. |
 | [[episodes/2024-08-30|2024-08-30]] | news stowaway. |
-| [[episodes/2024-08-22|2024-08-22]] | news stowaway. |
 
 <details>
-<summary>Earlier appearances (28)</summary>
+<summary>Earlier appearances (29)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-08-22|2024-08-22]] | news stowaway. |
 | [[episodes/2024-08-20|2024-08-20]] | news stowaway. |
 | [[episodes/2024-08-07|2024-08-07]] | news stowaway. |
 | [[episodes/2024-08-01|2024-08-01]] | news stowaway. |
@@ -124,3 +125,4 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 - **[[58:58]]** ([[episodes/2024-09-08|2024-09-08]]): Manifested as cheese graphics on the stream overlay during Carl's turn, confirming continued newsroom wall residency.
 - **[01:04:45]** ([[episodes/2024-09-11|2024-09-11]]): Peter Gibbon sourced a 'last-belief rabbit' Bugs Bunny who describes murder-by-TMT-explosives plot.
 - **[01:34:54]** ([[episodes/2024-09-18|2024-09-18]]): Manages rat clans in studio walls; clans fight if not sorted correctly [01:34:54].
+- **[01:40:12]** ([[episodes/2024-10-01|2024-10-01]]): Peter Gibbon claims he was fired and rehired as Park Ranger, reopening Park Mayor campaign.
