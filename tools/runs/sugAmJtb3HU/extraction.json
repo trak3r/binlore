@@ -1,0 +1,198 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Pepito Sign-On & First Mayoral Term",
+      "start": "00:32",
+      "end": "01:08:00",
+      "notes": "Case Blackwell opens as Pepito the dog/EP, assumes mayoral control of Renerton in They Are Billions, bulldozes hospitals/schools, consolidates police, and fields press questions."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Election 2032: Jeb Nogget Elected",
+      "start": "01:08:00",
+      "end": "01:13:12",
+      "notes": "Low-turnout election pits Munch, Jeb, Loop Chef, Peter, and KP against Pepito; Jeb wins on bulldoze-industry platform."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Jeb's Term: 600k Milestone & Cascade Disasters",
+      "start": "01:13:12",
+      "end": "01:33:24",
+      "notes": "Jeb achieves 600,000 citizens, then tornado, Bowser/Godzilla, fires, and nuclear meltdown devastate city; Jeb raps campaign plea."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Election 2034: Hot Dog Sandwich Wins",
+      "start": "01:33:24",
+      "end": "01:42:03",
+      "notes": "Three-candidate race (Jeb, Munch, Hot Dog) ends in 100% Hot Dog victory amid ongoing explosions."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Hot Dog Mayoral Term & Peter Gibbon Press Conference",
+      "start": "01:42:03",
+      "end": "01:53:01",
+      "notes": "Hot Dog mayor raps, naps; Peter Gibbon calls press conference, shadow cabal demands souls, Hamtaro released, Munch forced to rebuild."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Munch Rebuilds from 10 Citizens",
+      "start": "01:53:01",
+      "end": "02:09:10",
+      "notes": "Munch declares extra-judicial powers, rebuilds Renerton from population 10 in They Are Billions, learns controls, establishes defenses."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Election 2036: Xena Warrior Princess Elected",
+      "start": "02:09:10",
+      "end": "02:15:27",
+      "notes": "Ballot includes Elgin Draco, Alyssa Lister, Munch, Hamtaro, Xena; Xena wins after technical chair difficulties."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Xena's Term & City Collapse",
+      "start": "02:15:27",
+      "end": "02:37:54",
+      "notes": "Xena manages resources, fights zombie hordes, builds walls and army; accidental soldier misclick triggers total wipe, emergency election called."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid",
+      "start": "02:37:54",
+      "end": "02:40:37",
+      "notes": "Case reflects on Renerton's tourism boom among adventurers, mentions meth crisis, raids Spinachi."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "anchor. Hosts entire broadcast as Pepito impression, plays They Are Billions as Renerton mayor across multiple terms.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers sign-on at top of hour via Case's voice; referenced as cheese sludge commercial producer and Renerton Gold beer promoter.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "recurring",
+      "notes": "recurring. Wins 2032 election, serves as mayor until disaster cascade, references wood shop and father trapped in board.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Xena Warrior Princess",
+      "role": "guest mayor",
+      "notes": "guest mayor. Wins 2036 election, manages rebuild from tents, commands princess warriors, loses city to misclick.",
+      "canonical_name": "Xena Warrior Princess",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "recurring",
+      "notes": "recurring. Heavily referenced as former mayor ('Crub'), gambling debt to Rock-afire gorilla mocked; Pepito claims 'twice the Crumb' growth.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "recurring",
+      "notes": "recurring. Referenced as tsunami-era mayor, 2032/2034 candidate, forced to rebuild from population 10, claims founding hero status.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Mentioned living in walls with rats, delivers life-hack for wall-dwelling food delivery, calls press conference as former mayor.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Renerton Gold beer EPA-cleared for cleaning vinyl housing and deemed safe to drink.",
+      "timestamp": "[14:10]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Peter Gibbon lives in studio walls with rats; uses 'help I'm being attacked' delivery hack for free food.",
+      "timestamp": "[49:58]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Renerton practices river burials; river dissolves bodies quickly and contains 'Nickelodeon silver'.",
+      "timestamp": "[30:29]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Renerton considers itself a feudal state with Godzilla as campaign donor and personal friend.",
+      "timestamp": "[51:58]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum's gambling debt to Rock-afire animatronic gorilla still referenced ('Sorry, Crub').",
+      "timestamp": "[15:15]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jeb Nogget elected mayor of Renerton in 2032 election.",
+      "timestamp": "[01:12:42]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Xena Warrior Princess elected mayor of Renerton in 2036 election.",
+      "timestamp": "[02:15:27]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Renerton population reached 600,000 then collapsed to 10 citizens after disaster cascade.",
+      "timestamp": "[01:20:08]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Mayoring software identified as They Are Billions; Munch claims founding hero status.",
+      "timestamp": "[02:04:20]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News broadcasts a special Renerton mayoral simulation from the They Are Billions city-builder. Pepito opens as acting mayor, achieves 600,000 citizens through aggressive hospital bulldozing, then loses office to Jeb Nogget. Jeb's term ends in a cascade of tornadoes, Godzilla attacks, and nuclear fire. A hot dog sandwich wins the next election unanimously. After the hot dog fails, Peter Gibbon and a shadow cabal force Munch to rebuild from ten survivors. Munch stabilizes the wasteland until Xena Warrior Princess wins a subsequent election, but her term ends when a misclicked soldier triggers total civilian slaughter. The broadcast concludes with a raid to Spinachi.",
+  "_meta": {
+    "vod_id": "sugAmJtb3HU",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 117771,
+    "approx_prompt_tokens": 29442,
+    "transcript_lines": 371
+  }
+}
