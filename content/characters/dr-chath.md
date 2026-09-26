@@ -68,3 +68,4 @@ Despite his clinical positioning, Dr. Chath is a distinctly minor and highly uno
 ## Notable moments
 
 - **[01:47:59]** ([[episodes/2025-06-17|2025-06-17]]): Dr. Chath is Case Blackwell's cousin; Case gives cousins work out of worry.
+- **[[2:08:01]]** ([[episodes/2024-09-06|2024-09-06]]): Wore sunglasses during therapy session; charged $15,000 for Hamilton-immersion therapy.

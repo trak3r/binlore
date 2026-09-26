@@ -49,19 +49,20 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2025-06-28|2025-06-28]] | news stowaway. |
 | [[episodes/2025-06-17|2025-06-17]] | News Stowaway. |
 | [[episodes/2025-06-11|2025-06-11]] | news stowaway. |
+| [[episodes/2024-09-06|2024-09-06]] | news stowaway. |
 | [[episodes/2024-08-30|2024-08-30]] | news stowaway. |
 | [[episodes/2024-08-22|2024-08-22]] | news stowaway. |
 | [[episodes/2024-08-20|2024-08-20]] | news stowaway. |
 | [[episodes/2024-08-07|2024-08-07]] | news stowaway. |
 | [[episodes/2024-08-01|2024-08-01]] | news stowaway. |
 | [[episodes/2024-07-20|2024-07-20]] | Emerges from walls for Amongst the Web, rates videos civilly, shares catchphrase 'take that to the bank and smoke it', returns to walls on… |
-| [[episodes/2024-06-26|2024-06-26]] | call-in guest. |
 
 <details>
-<summary>Earlier appearances (23)</summary>
+<summary>Earlier appearances (24)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-06-26|2024-06-26]] | call-in guest. |
 | [[episodes/2024-06-18|2024-06-18]] | news stowaway. |
 | [[episodes/2024-05-21|2024-05-21]] | news stowaway. |
 | [[episodes/2024-05-03|2024-05-03]] | news stowaway. |
@@ -115,3 +116,4 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 - **[]** ([[episodes/2024-06-18|2024-06-18]]): Claims 'first person in the walls claims them' as legal precedent for wall squatting [17:20].
 - **[[46:17]]** ([[episodes/2024-08-01|2024-08-01]]): Claims auto-pay active on rent for apartment he may still possess.
 - **[[01:14:36]]** ([[episodes/2024-08-22|2024-08-22]]): Claims 'skill' of grinding ass into colleagues without full contact as 'appropriate adult joke' between best pals.
+- **[[36:04]]** ([[episodes/2024-09-06|2024-09-06]]): Admitted responsibility for first gold jacket shipment not arriving; operates board with paws.

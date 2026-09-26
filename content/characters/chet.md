@@ -48,19 +48,20 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2025-06-20|2025-06-20]] | science correspondent. |
 | [[episodes/2025-06-17|2025-06-17]] | Chief Science Correspondent. |
 | [[episodes/2025-06-07|2025-06-07]] | Chief Science Correspondent. |
+| [[episodes/2024-09-06|2024-09-06]] | science correspondent. |
 | [[episodes/2024-08-30|2024-08-30]] | debate analyst. |
 | [[episodes/2024-08-27|2024-08-27]] | science correspondent. |
 | [[episodes/2024-08-20|2024-08-20]] | science correspondent. |
 | [[episodes/2024-08-14|2024-08-14]] | science correspondent. |
 | [[episodes/2024-08-13|2024-08-13]] | science correspondent. |
 | [[episodes/2024-08-08|2024-08-08]] | science correspondent. |
-| [[episodes/2024-08-07|2024-08-07]] | science correspondent. |
 
 <details>
-<summary>Earlier appearances (31)</summary>
+<summary>Earlier appearances (32)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-08-07|2024-08-07]] | science correspondent. |
 | [[episodes/2024-07-31|2024-07-31]] | science correspondent. |
 | [[episodes/2024-07-30|2024-07-30]] | science correspondent. |
 | [[episodes/2024-07-20|2024-07-20]] | Joins both [[../segments/jambalaya|Jambalaya]] sessions, argues artichoke-as-human and flaked Sheldon Adelson skin condiment, debates smut vs no smut on couch. |
@@ -133,3 +134,4 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 - **[01:19:18]** ([[episodes/2024-08-07|2024-08-07]]): Chet Manscape triggers on 'science' keyword, delivers 'Chet Guy the Science Eyes' desk on penile metrics
 - **[[01:55:00]]** ([[episodes/2024-08-13|2024-08-13]]): Enforces 'castle doctrine' sign on studio wall: 'if you enter here without my permission, I will tackle you loony tune style through a wall at lightning speed' — used to justify tackling Crum when he said 'science'.
 - **[[02:21:57]]** ([[episodes/2024-08-14|2024-08-14]]): Lightning-speed tackled Case into a different room during the previous broadcast, liquidating some of Case's bones.
+- **[[2:11:40]]** ([[episodes/2024-09-06|2024-09-06]]): Claims to bench 330 lbs (body weight) via single push-up out of bed; declares jawline a 'perfect union of masculinity.'

@@ -1,0 +1,247 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "04:38",
+      "canonical_segment": "News",
+      "title": "Station Sign-On",
+      "notes": "Pepito delivers the official broadcast sign-on and countdown, identifying as the dog who produces the show."
+    },
+    {
+      "start": "10:32",
+      "end": "19:57",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Freestyle",
+      "notes": "Hype Train commandeers the feed with a high-tempo Dragon Ball Z-themed freestyle rap, reaching level 5 and declaring himself a 'balling girl' before signing off."
+    },
+    {
+      "start": "20:19",
+      "end": "35:41",
+      "canonical_segment": "News",
+      "title": "Hulk Hogan on Logan Paul's Impulsive Podcast",
+      "notes": "Case and Tyler cover Hulk Hogan's appearance on Logan Paul's podcast, including Hogan comparing himself to Chris Benoit, describing RNC tech rehearsal, and claiming he never rehearses matches."
+    },
+    {
+      "start": "35:41",
+      "end": "42:08",
+      "canonical_segment": "News",
+      "title": "Candyland RPG Pitch with Jelly Bean",
+      "notes": "A caller identifying as a jelly bean explains Candyland is a dice-rolling RPG with deep lore, promotes Sunday stream with sketch group Cigarette Sandwich plus John Madison, and reveals human goo is a personal candy preference."
+    },
+    {
+      "start": "42:08",
+      "end": "54:49",
+      "canonical_segment": "Munch & Crum",
+      "title": "JD Vance Humanity Debate",
+      "notes": "Munch and Crum debate whether JD Vance is human while wearing matching gold jackets; Crum argues Vance is a 'collection of talking points wedged into an incredibly unappealing box,' Munch claims victory via retie, and both acknowledge lizard-person control."
+    },
+    {
+      "start": "55:49",
+      "end": "1:18:29",
+      "canonical_segment": "News",
+      "title": "AI Music Streaming Fraud: Michael Smith Indictment",
+      "notes": "Case and Tyler detail the FBI indictment of North Carolina musician Michael Smith for a $10M AI-generated music streaming bot scheme, attempt to locate tracks by 'Callus Post' and 'Calary Screams' on TikTok, and listen to generic AI output."
+    },
+    {
+      "start": "1:23:05",
+      "end": "1:40:55",
+      "canonical_segment": "News",
+      "title": "Movie Trailer Watch: Minecraft, Frankie Freako, Mom and Dad Save the World",
+      "notes": "Case, Tyler, and Chris (parole officer) react to the live-action Minecraft movie trailer, the Freddy Freaker horror-comedy trailer, and a 1992 home video trailer for Mom and Dad Save the World featuring Jon Lovitz and Kathy Ireland."
+    },
+    {
+      "start": "1:42:24",
+      "end": "2:05:48",
+      "canonical_segment": "News",
+      "title": "Tim Pool & Tenet Media Russian Influence Indictment",
+      "notes": "Case and Tyler cover the DOJ indictment alleging Russia Today paid Tenet Media $10M to distribute covert Russian messaging via conservative influencers Tim Pool, Dave Rubin, and Benny Johnson, who claim victimhood; Case and Tyler joke about seeking Russian funding."
+    },
+    {
+      "start": "1:58:40",
+      "end": "2:04:41",
+      "canonical_segment": "News",
+      "title": "Kendall & Zed Google Playground Promo",
+      "notes": "Case plays a video of Kendelle with EDM artist Zed promoting a Google Play playground activation; chat is instructed to comment 'nice things' using the name Kendall."
+    },
+    {
+      "start": "2:06:30",
+      "end": "2:17:45",
+      "canonical_segment": "Therapy",
+      "title": "Chet's Hamilton Therapy Session",
+      "notes": "Chet and Dr. Chath (wearing sunglasses) conduct a therapy session that devolves into a Hamilton-parody rap about Chet's 'golden dong,' bench pressing 330 lbs, and jawline perfection; session costs $15,000."
+    },
+    {
+      "start": "2:17:45",
+      "end": "2:21:12",
+      "canonical_segment": "News",
+      "title": "Wrap-Up & Candyland RPG Reminder",
+      "notes": "Case thanks chat, promotes Sunday's Candyland RPG stream at 11 AM PT / 2 PM ET with Cigarette Sandwich and John Madison, raids Cycor."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the broadcast from the newsroom desk, wore a cheap gold jacket, covered Hulk Hogan, AI music fraud, Russian influence indictment, and movie trailers.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on, fixed camera zoom issues, accidentally activated a 'human face' button during therapy transition.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Hijacked the sub-goal celebration with a Dragon Ball Z freestyle rap, reached level 5, declared 'balling girl' status.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Crum on JD Vance's humanity while wearing a gold jacket he ordered, claimed victory via retie, admitted lizard people control Vance.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued JD Vance is an inhuman 'collection of talking points,' accidentally ran an ad break instead of a poll, revealed full name 'Leonard Grumfuusius Grum.'",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Confirmed he ordered the gold jackets via Munch, admitted intercepting the first jacket delivery, briefly interacted on camera.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jelly Bean",
+      "role": "call-in guest",
+      "notes": "call-in guest. Pitched the Candyland RPG as a dice-rolling lore-heavy game, promoted Sunday stream with sketch group, stated human goo is a personal candy preference.",
+      "canonical_name": "Jelly Bean",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Tyler",
+      "role": "co-host/correspondent",
+      "notes": "co-host/correspondent. Co-hosted news segments with Case, discussed AI music fraud and Russian indictment, wore tight gold pants, left early citing personal obligations.",
+      "canonical_name": "Tyler",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Appeared in therapy segment wearing 'therapy glasses,' performed a Hamilton-parody rap about his penis and bench press, claimed to be 'the old Chet.'",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Chath",
+      "role": "therapist",
+      "notes": "therapist. Conducted therapy with Chet while wearing sunglasses, endured Chet's musical hijacking, charged $15,000 for the session.",
+      "canonical_name": "Dr. Chath",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "role": "guest (parole officer)",
+      "notes": "guest (parole officer). Joined for movie trailer segment, identified as a parole officer with own camera/mic, wore gold jacket, debated Minecraft movie merits.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Candyland RPG Preparation",
+      "beat": "[2024-09-06] Case reveals week-long asset production for Candyland RPG stream scheduled Sunday 11 AM PT with sketch group Cigarette Sandwich and John Madison; Jelly Bean confirms seven video feeds planned.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Gold Jacket Arc",
+      "beat": "[2024-09-06] Munch orders matching gold jackets for staff; Peter Gibbon admits intercepting first delivery; jackets noted as cheaply constructed and already collecting odor.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Full name stated as 'Leonard Grumfuusius Grum'; denies grooming Sith apprentices.",
+      "timestamp": "[45:00]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Accidentally installed a 'Project Dr. Chath face on Pepito's face button' causing momentary human transformation during therapy transition.",
+      "timestamp": "[2:08:28]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Ordered gold jackets for staff; claims jacket makes him look 'fresh' despite cheap construction.",
+      "timestamp": "[35:41]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Admitted responsibility for first gold jacket shipment not arriving; operates board with paws.",
+      "timestamp": "[36:04]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Claims to bench 330 lbs (body weight) via single push-up out of bed; declares jawline a 'perfect union of masculinity.'",
+      "timestamp": "[2:11:40]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Dr. Chath",
+      "fact": "Wore sunglasses during therapy session; charged $15,000 for Hamilton-immersion therapy.",
+      "timestamp": "[2:08:01]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Appeared in pre-recorded Google Play promotional video with EDM artist Zed at a playground activation; Case urged chat to comment 'nice things' using name Kendall.",
+      "timestamp": "[2:00:45]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News returned from a week-long hiatus with matching gold jackets for staff, a Hype Train freestyle reaching level 5, and a news docket covering Hulk Hogan's podcast appearance, a $10M AI music streaming fraud indictment, and a DOJ allegation that Russia funded conservative influencers via Tenet Media. Munch and Crum debated JD Vance's humanity while the jackets collected odor, and the broadcast closed with a Hamilton-parody therapy session costing $15,000 before promoting Sunday's Candyland RPG event.",
+  "_meta": {
+    "vod_id": "VmIPtNAei-U",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 119154,
+    "approx_prompt_tokens": 29788,
+    "transcript_lines": 349
+  }
+}

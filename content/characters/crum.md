@@ -58,7 +58,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (69)</summary>
+<summary>Earlier appearances (70)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -73,6 +73,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-06-02|2025-06-02]] | debate analyst. |
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
+| [[episodes/2024-09-06|2024-09-06]] | debate analyst. |
 | [[episodes/2024-08-22|2024-08-22]] | debate analyst. |
 | [[episodes/2024-08-20|2024-08-20]] | debate analyst. |
 | [[episodes/2024-08-13|2024-08-13]] | debate analyst. |
@@ -251,3 +252,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[]** ([[episodes/2024-07-17|2024-07-17]]): Crum claims he was apple picking with Munch all day on 9/11 as an alibi against Munch's accusation. [01:13:25]
 - **[01:32:11]** ([[episodes/2024-07-19|2024-07-19]]): Crum claims he bought 'Habitat for Hammies' (hamster housing) and ironically pulled his hamstring.
 - **[[01:54:37]]** ([[episodes/2024-08-13|2024-08-13]]): Tackled through a wall by Chet after saying 'science'; left a Crum-shaped hole in the wall.
+- **[[45:00]]** ([[episodes/2024-09-06|2024-09-06]]): Full name stated as 'Leonard Grumfuusius Grum'; denies grooming Sith apprentices.

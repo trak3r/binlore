@@ -22,7 +22,8 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 ## Appearances
 
 | Episode | Notes |
-|---------|-------|
+|---|---|
+| [[episodes/2024-09-06|2024-09-06]] | co-host/correspondent. |
 | [[episodes/2024-05-01|2024-05-01]] | Auto-created minor character after appearing in 3 extracted episodes (threshold 3). |
 
 ## Notable moments
