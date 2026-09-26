@@ -44,6 +44,7 @@ On [[../episodes/2025-09-25|Post Wall and Rapture Clarity]], resurrected Crum si
 
 | Date / Episode | Beat |
 |----------------|------|
+| [[../episodes/2024-09-18|2024-09-18]] [01:32:44] | [01:32:44] Crum jokes about hanging out in walls with Peter; Peter confirms he's busy sorting rat clans in the walls. |
 | [[../episodes/2025-06-20|2025-06-20]] | Crum appears physically diminished after the face punch; Munch claims he cleaned Crum's remains for two days; chat compares Crum to Deathlock and a children's drawing; Case promises a physical therapist. Volleyball-with-a-bloody-face gag surfaces. [48:04–01:00:32] |
 | [[../episodes/2025-06-24|2025-06-24]] | Aftermath linger: Coach McGopp claims Crum's "head rat" was removed; Munch still frames the gorilla campaign as unfinished business. [01:10:16] |
 | [[../episodes/2025-06-28|2025-06-28]] | Munch says Crum is "recovering from a slip up" (murder) while legal expenses mount; head exploded/decomposed language continues. [01:34:13] |

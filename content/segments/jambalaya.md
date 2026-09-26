@@ -40,6 +40,7 @@ Rounds mix political trivia, culinary absurdism, and interpersonal gotchas. The 
 | [[episodes/2024-07-22|2024-07-22]] | 01:08:51 | Jambalaya Debut: Who Is Burdened by What Has Been: Panel game (debuted 2024-07-20) where chat, Liliana, Grandma Crumble Bottom, and Tyler answer questions to reveal one liar burdened by the past; Liliana revealed as burdened contestant celebrating her burden. |
 | [[episodes/2024-07-30|2024-07-30]] | 1:51:35 | Jambalaya: Who Is the Secret Future Ghost of Rick?: Panel (Chet, Liliana, Grandma Crumble Bottom, Tyler) answers chat questions to deduce which panelist is secretly future ghost of Rick; Tyler revealed as the secret future ghost; CIA rebrand discussed. |
 | [[episodes/2024-08-30|2024-08-30]] | 01:11:30 | Past-Life President Panel: Chet, Liliana, Grandma Crumble Bottom, Tyler, and Groglin play a secret-liar round: one was a U.S. president in a past life. Chat votes Liliana; reveal shows Grandma Crumble Bottom was James Garfield (and/or Jon Arbuckle). |
+| [[episodes/2024-09-18|2024-09-18]] | 01:53:52 | Bed-Wetting Panel: Panel (Chet, Liliana, Grandma Crumble Bottom, Tyler) questioned on adult bed-wetting >7 times; all admit to it; Grandma pees on floor live; poll results: everyone correct. |
 | [[episodes/2025-06-02|2025-06-02]] | 1:18:42 | Evil Twin Identification Panel: Crum, Grandma Crumble Bottom, Pepito, and Christ field chat questions to expose an evil twin; reveals include Grandma's janitor-closet origin, Pepito's litter cannibalism, and Christ's humanitarian twin in Gaza. |
 
 ## Related Pages

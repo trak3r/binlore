@@ -41,6 +41,7 @@ He displays a profound, open disdain for Jeb's woodworking skills and emotional 
 | [[episodes/2026-06-15|2026-06-15]] | Deceased father trapped in wooden board, non-verbal. |
 | [[episodes/2025-09-15|2025-09-15]] | deceased spirit in timber. |
 | [[episodes/2025-07-01|2025-07-01]] | co-host (spirit in timber). |
+| [[episodes/2024-09-18|2024-09-18]] | deceased co-host. |
 | [[episodes/2024-09-13|2024-09-13]] | co-host (trapped in wood). |
 | [[episodes/2024-08-14|2024-08-14]] | spirit co-host. |
 | [[episodes/2024-08-13|2024-08-13]] | co-host (spirit in wood). |
@@ -77,3 +78,4 @@ He displays a profound, open disdain for Jeb's woodworking skills and emotional 
 
 - **[]** ([[episodes/2024-06-26|2024-06-26]]): Spirit permanently trapped inside a wooden board in Jeb's workshop. [02:39:24]
 - **[]** ([[episodes/2024-07-17|2024-07-17]]): The wood trapping Jeb's Dad is closing in around him daily; flies around his head grow stronger. [49:29]
+- **[01:40:34]** ([[episodes/2024-09-18|2024-09-18]]): Claims to be ripped/jacked as a spirit residing in wood [01:40:34].

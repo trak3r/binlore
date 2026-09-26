@@ -53,6 +53,7 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2025-09-15|2025-09-15]] | How To host. |
 | [[episodes/2025-07-01|2025-07-01]] | instructional host. |
 | [[episodes/2025-06-19|2025-06-19]] | instructional host. |
+| [[episodes/2024-09-18|2024-09-18]] | How To host. |
 | [[episodes/2024-09-13|2024-09-13]] | instructional host. |
 | [[episodes/2024-08-22|2024-08-22]] | instructional host. |
 | [[episodes/2024-08-14|2024-08-14]] | How To host. |
@@ -99,3 +100,4 @@ See also: [[../segments/how-to-with-jeb|How To with Jeb]], [[../characters/index
 - **[[02:00:25]]** ([[episodes/2024-08-14|2024-08-14]]): Showcased professional nose waxing by Steve Crovo in San Francisco; Jeb froze frames for 'male excellence' screenshots.
 - **[[01:41:44]]** ([[episodes/2024-08-22|2024-08-22]]): Father's spirit remains trapped in wooden board; they bicker domestically during How To segments.
 - **[[56:33-57:20]]** ([[episodes/2024-09-13|2024-09-13]]): Defecates in pants during How To segment; continues broadcast while managing containment.
+- **[01:40:34]** ([[episodes/2024-09-18|2024-09-18]]): Claims to be ripped/jacked as a spirit residing in wood [01:40:34].

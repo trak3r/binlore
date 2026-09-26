@@ -1,0 +1,244 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Cold Open & Jacket Reveal",
+      "start": "00:41",
+      "end": "13:35",
+      "notes": "Pepito delivers station sign-on; Case unveils new washable blazer with blue lining, discusses Fiona's streaming status and Urkel/Stefan dynamic."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Exploding Pagers in Lebanon",
+      "start": "14:28",
+      "end": "25:42",
+      "notes": "Rick reports on Israeli pager/walkie-talkie attacks killing 32 and injuring thousands; Case and Rick debate legality and collateral damage; Rick exits to Venezuela."
+    },
+    {
+      "canonical_segment": "Hype Train",
+      "title": "Austin Powers Trap Beat Freestyle",
+      "start": "26:02",
+      "end": "37:28",
+      "notes": "Hype Train commandeers feed with freestyle raps over Austin Powers trap beats, thanks bits/subs (Uncle Phil 2800, Giggle Trash 100), declares 'I do sex crimes not rhymes'."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Peter Gibbon Check-In",
+      "start": "37:49",
+      "end": "38:38",
+      "notes": "Case checks on Peter in the walls; Peter mentions fridge left open, cheese theft."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Abercrombie & Fitch Sex Crimes Allegations",
+      "start": "39:31",
+      "end": "53:51",
+      "notes": "Jeff Ripple covers BBC documentary allegations against former CEO Mike Jeffries and partner Matthew Smith: liquid Viagra injections, straight men exploitation, FBI investigation."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Henry Pottermore Interview",
+      "start": "53:51",
+      "end": "01:02:28",
+      "notes": "Case interviews 'Henry Pottermore,' a wizard wanted for avada kedavra-ing 40 classmates and his father while attempting 'Ava Catgirl' spell; sorting hat reveals sexual partners."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Internet Video Ratings",
+      "start": "01:03:58",
+      "end": "01:33:47",
+      "notes": "Case, Crum, Munch rate: Kodiak dip commercial (bear eats actor), UK woman's Trump 'back shots' video, explicit rap video, airport poop escalator, NZ PM slang video, wrestling knife spot, bear encounter TikTok, stone-breaking fail, Shrek kid, 1968 Ralph Williams car commercial."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "title": "Muscle Painting, Proposals & Erection Hiding",
+      "start": "01:34:20",
+      "end": "01:53:21",
+      "notes": "Jeb and his wood-trapped dad cover: speed-paint abs, Lorraine's 'don't put out' proposal strategy, memorable proposal ideas (stranger, post-breakup, 50 years later, whitewater rafting), hide unwanted erection."
+    },
+    {
+      "canonical_segment": "Jambalaya",
+      "title": "Bed-Wetting Panel",
+      "start": "01:53:52",
+      "end": "02:11:36",
+      "notes": "Panel (Chet, Liliana, Grandma Crumble Bottom, Tyler) questioned on adult bed-wetting >7 times; all admit to it; Grandma pees on floor live; poll results: everyone correct."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Raid Outro",
+      "start": "02:11:36",
+      "end": "02:14:40",
+      "notes": "Case announces Patreon tomorrow, raids Dillon playing Alan Wake Remastered."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors two-hour broadcast; debuts new washable blazer; interviews Henry Pottermore; hosts Amongst the Web and Jumbalaya.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open sign-on; comments on Case's jacket; cues Henry Pottermore feed.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "correspondent",
+      "notes": "correspondent. Reports on Israeli pager attacks in Lebanon; debates Case on legality; exits to Venezuela.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Freestyles over Austin Powers trap beats; thanks bits/subs; declares 'I do sex crimes not rhymes'; promotes Wet and Hard water park.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Brief wall check-in; admits leaving fridge open; organizes rat clans in walls.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Covers Abercrombie & Fitch sex crimes allegations against Mike Jeffries and Matthew Smith.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Co-hosts Amongst the Web; rates videos with Munch; jokes about hanging out in walls with Peter.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Co-hosts Amongst the Web; banters with Crum; mentions wife Belulia and coitus calendar.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Jumbalaya panelist; claims powerful bladder, works for David Copperfield, signed legal NDAs.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Jumbalaya panelist; claims complete bladder control, tactical fluid strikes, hundreds of mattresses.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Grandma Crumble Bottom",
+      "role": "recurring guest",
+      "notes": "recurring guest. Jumbalaya panelist; uses same crib mattress 72 years; pees on floor live during segment.",
+      "canonical_name": "Grandma Crumble Bottom",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb",
+      "role": "How To host",
+      "notes": "How To host. Broadcasts from woodshop with dad's spirit in wood; covers muscle painting, proposals, erection hiding.",
+      "canonical_name": "Jeb",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "deceased co-host",
+      "notes": "deceased co-host. Spirit trapped in wood; claims jacked ghost physique; bickers with Jeb about courtship.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Tyler",
+      "role": "Jumbalaya guest",
+      "notes": "Jumbalaya guest. Panelist; sleeps in piles/hammocks; considers love a mattress; offers blood to anyone.",
+      "canonical_name": "Tyler",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Join the Wall",
+      "beat": "[01:32:44] Crum jokes about hanging out in walls with Peter; Peter confirms he's busy sorting rat clans in the walls.",
+      "timestamp": "01:32:44"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Debuts new washable blazer with blue lining that picks up less green screen spill [08:47].",
+      "timestamp": "08:47",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Manages rat clans in studio walls; clans fight if not sorted correctly [01:34:54].",
+      "timestamp": "01:34:54",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb's Dad",
+      "fact": "Claims to be ripped/jacked as a spirit residing in wood [01:40:34].",
+      "timestamp": "01:40:34",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Grandma Crumble Bottom",
+      "fact": "Urinates on studio floor live during Jumbalaya segment [02:09:46].",
+      "timestamp": "02:09:46",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a two-hour broadcast covering the Israeli pager attacks in Lebanon and Abercrombie & Fitch sex crime allegations, interrupted by Hype Train's Austin Powers freestyle and a chaotic interview with wizard Henry Pottermore. The crew rates internet videos from a bear-mauling dip commercial to a 1968 car dealership tirade, learns dubious life skills from Jeb and his wood-trapped father, and concludes with a Jumbalaya panel where all guests — including Grandma Crumble Bottom — admit to wetting the bed more than seven times.",
+  "_meta": {
+    "vod_id": "W2AYD3T2Ya0",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 109098,
+    "approx_prompt_tokens": 27274,
+    "transcript_lines": 279
+  }
+}

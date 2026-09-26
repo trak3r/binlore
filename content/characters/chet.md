@@ -48,19 +48,20 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2025-06-20|2025-06-20]] | science correspondent. |
 | [[episodes/2025-06-17|2025-06-17]] | Chief Science Correspondent. |
 | [[episodes/2025-06-07|2025-06-07]] | Chief Science Correspondent. |
+| [[episodes/2024-09-18|2024-09-18]] | science correspondent. |
 | [[episodes/2024-09-13|2024-09-13]] | science correspondent. |
 | [[episodes/2024-09-06|2024-09-06]] | science correspondent. |
 | [[episodes/2024-08-30|2024-08-30]] | debate analyst. |
 | [[episodes/2024-08-27|2024-08-27]] | science correspondent. |
 | [[episodes/2024-08-20|2024-08-20]] | science correspondent. |
 | [[episodes/2024-08-14|2024-08-14]] | science correspondent. |
-| [[episodes/2024-08-13|2024-08-13]] | science correspondent. |
 
 <details>
-<summary>Earlier appearances (33)</summary>
+<summary>Earlier appearances (34)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-08-13|2024-08-13]] | science correspondent. |
 | [[episodes/2024-08-08|2024-08-08]] | science correspondent. |
 | [[episodes/2024-08-07|2024-08-07]] | science correspondent. |
 | [[episodes/2024-07-31|2024-07-31]] | science correspondent. |

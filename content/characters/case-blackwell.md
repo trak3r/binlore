@@ -166,3 +166,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[[28:28]]** ([[episodes/2024-09-17|2024-09-17]]): Insists on open bar at wedding; Kendelle open to one child (up from zero).
 - **[[1:45:19]]** ([[episodes/2024-09-17|2024-09-17]]): Club 33 Disneyland membership cited as exclusive dining with decades-long waitlist and resale spots for tens of thousands.
 - **[[1:47:32]]** ([[episodes/2024-09-17|2024-09-17]]): Patreon episode Thursday to watch Batman: Caped Crusader and Vince McMahon documentary.
+- **[08:47]** ([[episodes/2024-09-18|2024-09-18]]): Debuts new washable blazer with blue lining that picks up less green screen spill [08:47].
