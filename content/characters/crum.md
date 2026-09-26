@@ -58,7 +58,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (62)</summary>
+<summary>Earlier appearances (63)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -74,6 +74,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
 | [[episodes/2024-07-20|2024-07-20]] | Loses wiki feet, wins wife verification, sweet vs salty, Alien vs Predator, carnivore diet, gold vs porcelain teeth, orphan meat, spoon vs… |
+| [[episodes/2024-07-19|2024-07-19]] | debate analyst. |
 | [[episodes/2024-07-17|2024-07-17]] | debate analyst. |
 | [[episodes/2024-06-28|2024-06-28]] | Served as debate analyst alongside Munch, favoring Biden throughout the broadcast. |
 | [[episodes/2024-06-26|2024-06-26]] | debate analyst. |
@@ -242,3 +243,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[[01:18:46]]** ([[episodes/2024-06-10|2024-06-10]]): Household has eight bathrooms but all occupants cram into one rented portapotty outside; wishes they had bought it.
 - **[]** ([[episodes/2024-06-18|2024-06-18]]): Crum Dick Punch debate execution prep underway; Case claims to be setting up assets [02:23:46].
 - **[]** ([[episodes/2024-07-17|2024-07-17]]): Crum claims he was apple picking with Munch all day on 9/11 as an alibi against Munch's accusation. [01:13:25]
+- **[01:32:11]** ([[episodes/2024-07-19|2024-07-19]]): Crum claims he bought 'Habitat for Hammies' (hamster housing) and ironically pulled his hamstring.

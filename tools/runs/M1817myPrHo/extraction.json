@@ -1,0 +1,188 @@
+{
+  "segments": [
+    {
+      "start": "07:47",
+      "end": "13:28",
+      "canonical_segment": "News",
+      "title": "Cold Open & Schedule Briefing",
+      "notes": "Case Blackwell opens the broadcast, outlines tomorrow's eight-hour debate marathon (11am–7pm), discusses Biden's potential withdrawal, and previews RNC highlights and Munch & Crum coat shopping."
+    },
+    {
+      "start": "13:28",
+      "end": "42:16",
+      "canonical_segment": "News",
+      "title": "RNC Night Four Highlights",
+      "notes": "Case reacts to MSNBC's RNC highlight reel: Trump's acceptance speech, Trump Jr.'s ear-hair commentary, Hulk Hogan's nine-minute promo (including 'Donald Dick J. Trump' flub and shirt tear), and Kid Rock's performance with awkward crowd shots."
+    },
+    {
+      "start": "47:28",
+      "end": "55:59",
+      "canonical_segment": "News",
+      "title": "Kendall's Culture Corner: Kid Rock Influencer Drama",
+      "notes": "Kendelle appears with her theme music to explain the Brooke Schofield/Clinton Kane TikTok feud where Kane hysterically sobbed over Schofield saying she'd 'fuck the shit out of Kid Rock'; Case renames the segment 'KKKK' (Kendall's K-pop Kulture Korner)."
+    },
+    {
+      "start": "59:57",
+      "end": "01:09:48",
+      "canonical_segment": "Amongst the Web",
+      "title": "Trent at the Movies: Interview with Chance Blanthal",
+      "notes": "Trent interviews Chance Blanthal, a sunglasses-wearing cult leader of 'Psydub' who mirrors Trent's speech patterns; Chance preaches aggressive self-interest, cutting lines, and monetizing followers, ending in a sleep-off standoff."
+    },
+    {
+      "start": "01:10:55",
+      "end": "01:30:29",
+      "canonical_segment": "How To with Jeb",
+      "title": "Kissing Tutorials, Carrot Flute, Line Dance",
+      "notes": "Jeb studies kissing tutorials (Justice Cow's 'smush peck, lick, poke' method), practices on a plastic sheet while his father's soul haunts the workshop wood, watches Kevin Pariah make a carrot flute, and attempts a country line dance with limited success."
+    },
+    {
+      "start": "01:30:53",
+      "end": "01:56:58",
+      "canonical_segment": "Munch & Crum",
+      "title": "Belulia Debut, Hogan vs. Savage, Coat Shopping",
+      "notes": "Munch and Crum introduce Crum's wife Belulia (married 38 years, Piggly Wiggly heiress, sex-forward); they debate Hulk Hogan vs. Macho Man; Belulia forces Munch to apologize; rushed Shein coat poll ends with gold blazer victory as Munch raids Bruce."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors the broadcast, previews tomorrow's eight-hour debate marathon, reacts to RNC clips, hosts Kendall's Culture Corner and Trent at the Movies.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Mentioned as receiving cheese from a viewer; coordinates production queues off-screen.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Appears in Munch & Crum; claims he bought 'Habitat for Hammies' hamster housing and pulled his hamstring; wife Belulia debuts.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Co-hosts Munch & Crum; debates Hulk Hogan vs. Macho Man with Belulia; forced to apologize; buys a gold Shein blazer via flash poll.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Delivers 'Kendall's Culture Corner' on the Brooke Schofield/Clinton Kane/Kid Rock TikTok feud; introduces the 'KKKK' segment branding.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Studies kissing tutorials, practices on plastic sheet while his father's soul is trapped in the workshop wood; attempts carrot flute and line dance.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "correspondent",
+      "notes": "correspondent. Hosts 'Trent at the Movies'; interviews Chance Blanthal, his sunglasses-wearing doppelgänger who runs the 'Psydub' cult.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chance Blanthal",
+      "role": "guest",
+      "notes": "guest. Cult leader of 'Psydub'; preaches aggressive self-interest, line-cutting, and monetizing followers; mirrors Trent's speech patterns.",
+      "canonical_name": "Chance Blanthal",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Belulia",
+      "role": "guest",
+      "notes": "guest. Crum's wife of 38 years, Piggly Wiggly heiress; sex-forward, forces Munch to apologize, participates in Hogan vs. Savage debate, demands Beyblade song.",
+      "canonical_name": "Belulia",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[01:40:17] Belulia demands 'Play the fucking Beyblade song' and asks 'Did I win?' during Munch & Crum, referencing the pending 2v2 Beyblade Burst Event.",
+      "timestamp": "01:40:17"
+    },
+    {
+      "storyline": "Munch & Crum Coat Arc",
+      "beat": "[01:44:05–01:56:15] Munch speed-runs Shein blazer shopping with Belulia's commentary; flash poll selects gold coat; Munch raids Bruce to end broadcast.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "01:32:11",
+      "entity": "Crum",
+      "fact": "Crum claims he bought 'Habitat for Hammies' (hamster housing) and ironically pulled his hamstring.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:33:12",
+      "entity": "",
+      "fact": "Belulia introduced: married to Crum 38 years, former redhead now 'vivacious silverhead,' related to Piggly Wiggly founder.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:39:14",
+      "entity": "",
+      "fact": "Belulia describes graphic sexual encounter with Crum involving proctologist call about anal cysts.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:40:17",
+      "entity": "",
+      "fact": "Belulia demands Beyblade song, confirming tournament storyline is active.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:02:59",
+      "entity": "",
+      "fact": "Chance Blanthal introduced as leader of 'Psydub' cult; wears huge sunglasses, preaches 'give me your money, I'll tell you how to live your life.'",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:12:41",
+      "entity": "",
+      "fact": "Jeb's father's soul remains trapped in the workshop wood; Jeb doesn't know his own size or contours due to the wood.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns from a day off to preview tomorrow's eight-hour debate marathon and react to RNC night four highlights, including Hulk Hogan's 'Donald Dick J. Trump' flub and Kid Rock's performance. Kendelle debuts 'Kendall's Culture Corner' on an influencer feud involving Kid Rock. Trent interviews his sunglasses-wearing doppelgänger Chance Blanthal, leader of the 'Psydub' cult. Jeb Nogget struggles through kissing tutorials, a carrot flute build, and a line dance while his father's soul haunts the workshop wood. Munch & Crum introduce Crum's wife Belulia (Piggly Wiggly heiress, 38-year marriage), debate Hogan vs. Macho Man, and speed-run a Shein blazer purchase via flash poll — gold coat wins — before Munch raids Bruce.",
+  "_meta": {
+    "vod_id": "M1817myPrHo",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 100697,
+    "approx_prompt_tokens": 25174,
+    "transcript_lines": 280
+  }
+}
