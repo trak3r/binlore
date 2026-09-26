@@ -1,0 +1,137 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "03:54",
+      "canonical_segment": "News",
+      "title": "Technical Difficulties & Rennerton Aftermath",
+      "notes": "Case and Pepito troubleshoot OBS issues after a weekend Cities: Skylines session (Rennerton) that ended in zombie apocalypse; Pepito barks about barfing on electronics."
+    },
+    {
+      "start": "03:54",
+      "end": "42:46",
+      "canonical_segment": "News",
+      "title": "Trump Town Hall Musical Event",
+      "notes": "Case and Pepito watch and react to a Trump town hall in Pennsylvania that abandoned Q&A for a 39-minute Pavarotti-and-YMCA dance party while attendees fainted from heat; Case calls it 'nauseating' and 'k-hole behavior'."
+    },
+    {
+      "start": "47:08",
+      "end": "01:15:56",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web: Randy Savage, Nazi Boats, Existential Cats & Rodney Dangerfield",
+      "notes": "Case reviews viewer submissions: Randy Savage Spider-Man set interview, Florida boat rally splash fight, existential cat, trained face-moving man, 'Man Enough' political ad, 1980s CB radio profanity panic, Rodney Dangerfield 'Rappin' Rodney' cartoon, and Canadian Thanksgiving 'Thanks Givner' song."
+    },
+    {
+      "start": "01:15:56",
+      "end": "01:26:09",
+      "canonical_segment": "News",
+      "title": "Kick Currency & Twitch VTuber Crackdown",
+      "notes": "Jeff Ripple reports on Aiden Ross announcing a Kick currency that pays viewers to watch; Chet interrupts on the trigger word 'science'; discussion of Twitch banning VTuber butt content while Kick allows it."
+    },
+    {
+      "start": "01:26:09",
+      "end": "01:36:17",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Fries vs. Chips & The Raid",
+      "notes": "Munch and Crum debate potato superiority (fries vs. chips), escalate to ass-compliments and ancient magic choking, then raid out as Case heads to a meeting."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the broadcast through technical woes, Trump town hall reaction, Amongst the Web, and handed off to Munch & Crum before a meeting.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Managed the cold open, diagnosed the OBS crash as Rennerton fallout, and provided canine commentary throughout the Trump segment.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Delivered the Kick currency report, got trap-doored by Case, and was interrupted by Chet's science trigger.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeered the Kick segment after the word 'science' was spoken, declared himself 'three times as fast as Beetlejuice,' and proved the future is free.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "analytical co-host",
+      "notes": "analytical co-host. Referenced as Chet's neural co-host during the science desk interruption.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Mentioned calling Case during the Trump segment but did not appear on camera.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Claims to have put half of himself in a time capsule to ensure survival to 2028. [43:57]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "States human music sounds like 'a terrifying deep voice demon' and is imperceptible to dogs. [45:24]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Asserts he is 'three times as fast as Beetlejuice' and has never lost a foot race to him. [01:21:36]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kick Platform",
+      "fact": "Aiden Ross announces a 'Kick currency' allowing viewers to earn cashable tokens for watching streams, positioning as 'bits you can cash out.' [01:18:30]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Twitch Policy",
+      "fact": "Reported to have banned VTuber butt content (thong-rubbing on Mario Kart) while Kick permits it. [01:24:32]",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened with post-Rennerton technical recovery before settling into an extended reaction to a Trump Pennsylvania town hall that devolved into a 39-minute Pavarotti-and-Village-People concert while supporters fainted in the heat. The Amongst the Web desk toured Randy Savage's Spider-Man audition, a Florida boat-rally splash fight, an existential cat, a 'Man Enough' political ad, 1980s CB-radio profanity hearings, and Rodney Dangerfield's rapping cartoon. Jeff Ripple reported on Kick's planned viewer-payment currency, triggering Chet's science desk interruption, and Munch & Crum closed the broadcast with a fries-versus-chips debate that ended in ass compliments, ancient magic choking, and a raid.",
+  "_meta": {
+    "vod_id": "u_JKNMWWWnM",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 83268,
+    "approx_prompt_tokens": 20817,
+    "transcript_lines": 163
+  }
+}

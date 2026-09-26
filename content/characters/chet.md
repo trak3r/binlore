@@ -48,19 +48,20 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2025-06-20|2025-06-20]] | science correspondent. |
 | [[episodes/2025-06-17|2025-06-17]] | Chief Science Correspondent. |
 | [[episodes/2025-06-07|2025-06-07]] | Chief Science Correspondent. |
+| [[episodes/2024-10-15|2024-10-15]] | science correspondent. |
 | [[episodes/2024-10-13|2024-10-13]] | science correspondent. |
 | [[episodes/2024-10-10|2024-10-10]] | science correspondent. |
 | [[episodes/2024-10-03|2024-10-03]] | science correspondent. |
 | [[episodes/2024-09-25|2024-09-25]] | Science correspondent triggered by 'science' presents ancient kefir cheese discovery on Tarim mummies with DNA analysis. |
 | [[episodes/2024-09-18|2024-09-18]] | science correspondent. |
 | [[episodes/2024-09-13|2024-09-13]] | science correspondent. |
-| [[episodes/2024-09-06|2024-09-06]] | science correspondent. |
 
 <details>
-<summary>Earlier appearances (38)</summary>
+<summary>Earlier appearances (39)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-09-06|2024-09-06]] | science correspondent. |
 | [[episodes/2024-08-30|2024-08-30]] | debate analyst. |
 | [[episodes/2024-08-27|2024-08-27]] | science correspondent. |
 | [[episodes/2024-08-20|2024-08-20]] | science correspondent. |
@@ -143,3 +144,4 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 - **[[2:11:40]]** ([[episodes/2024-09-06|2024-09-06]]): Claims to bench 330 lbs (body weight) via single push-up out of bed; declares jawline a 'perfect union of masculinity.'
 - **[[32:22-38:46]]** ([[episodes/2024-09-13|2024-09-13]]): Claims ability to breathe through anus; demonstrates Kegel-like anal breathing training live on air.
 - **[01:35:11]** ([[episodes/2024-10-03|2024-10-03]]): Delivered canonical gorilla genitalia data: silverback penis ~1.1 inches (3 cm), smallest relative to body mass of any mammal; testes small, sperm count low, high abnormal morphology; evolutionary explanation: harem defense replaces sperm competition [01:35:11-01:49:21].
+- **[]** ([[episodes/2024-10-15|2024-10-15]]): Asserts he is 'three times as fast as Beetlejuice' and has never lost a foot race to him. [01:21:36]

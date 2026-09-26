@@ -53,14 +53,15 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-17|2025-06-17]] | In-Studio Contributor. |
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
+| [[episodes/2024-10-15|2024-10-15]] | in-studio contributor. |
 | [[episodes/2024-10-13|2024-10-13]] | in-studio contributor. |
-| [[episodes/2024-10-10|2024-10-10]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (86)</summary>
+<summary>Earlier appearances (87)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-10-10|2024-10-10]] | in-studio contributor. |
 | [[episodes/2024-10-02|2024-10-02]] | in-studio contributor. |
 | [[episodes/2024-10-01|2024-10-01]] | in-studio contributor. |
 | [[episodes/2024-09-25|2024-09-25]] | In-studio contributor walks through studio packing for trip, provides live 50 Shades commentary, and receives sweet tea from Jeb. |
