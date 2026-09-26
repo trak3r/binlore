@@ -1,0 +1,145 @@
+{
+  "segments": [
+    {
+      "start": "00:10",
+      "end": "09:48",
+      "canonical_segment": "News",
+      "title": "Cold Open & Emote Audit",
+      "notes": "Pepito delivers station sign-on; Case auditions as Hype Train, audits emote slots, and discusses partnership aspirations before news block."
+    },
+    {
+      "start": "09:48",
+      "end": "51:35",
+      "canonical_segment": "News",
+      "title": "VP Stump Speeches: Vance Magic, Walz Valor, Horse Semen Hoax",
+      "notes": "Case covers JD Vance's 'bogus questions' smile clip, stolen valor attacks on Tim Walz, the fabricated horse semen rumor traced to an anti-Biden subreddit, and Vance's Magic: The Gathering hobby per wife Usha; Case roleplays a JD Vance interview with Magic references."
+    },
+    {
+      "start": "51:35",
+      "end": "01:17:30",
+      "canonical_segment": "Amongst the Web",
+      "title": "Viewer Video Parade: Cliff Jump, Aiden Ross/Trump, Brick Crosswalk, Cats in Car, Smiling Fish, Fish Plays Pokémon",
+      "notes": "Case and chat rate viewer submissions: a cliff jump survival, Aiden Ross's Trump stream, Vancouver brick crosswalk concept, clown car of cats, a fish that appears to smile after eating sausage, and a fish playing Pokémon on Twitch."
+    },
+    {
+      "start": "01:17:30",
+      "end": "01:34:04",
+      "canonical_segment": "News",
+      "title": "Journalist Charged with Hate Crime for Filming Gaza Protest",
+      "notes": "Jeff Ripple reports on videographer Sam Seligson facing felony hate crime charges for documenting pro-Palestinian graffiti at Brooklyn Museum executives' homes; debate over anti-Zionism vs antisemitism framing and press freedom implications."
+    },
+    {
+      "start": "01:34:04",
+      "end": "01:57:47",
+      "canonical_segment": "How To with Jeb",
+      "title": "Chest Pops, Blowjob Tutorial, Toilet Cleaner DIY, Pheromone Alpha Course",
+      "notes": "Jeb and his board-trapped dad present: chest pop technique from a London trainer, a graphic blowjob tutorial, a homemade toilet cleaner puck with aluminum oil, and a pheromone-boosting alpha male course upsell; Jeb reveals parents met at a bar near ShowBiz Pizza, conceived within a week, married hastily."
+    },
+    {
+      "start": "01:57:47",
+      "end": "02:10:19",
+      "canonical_segment": "Amongst the Web",
+      "title": "Rick Anthem: Space Jam DVD Rap Over National Anthem",
+      "notes": "Rick delivers a one-take patriotic rap anthem merging 'The Star-Spangled Banner' with Space Jam DVD lyrics, chosen by flash poll; Case declares it canon."
+    },
+    {
+      "start": "02:10:19",
+      "end": "02:12:46",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid to Cass",
+      "notes": "Case thanks mods and chat, plugs VODs on YouTube, raids Cass with a 'Rick raid' not a Rick roll."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors news desk, impersonates Hype Train, roleplays JD Vance interview, hosts Amongst the Web and Rick Anthem segments.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open sign-on; mentioned to have a girlfriend, gender ambiguous.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Reports on journalist Sam Seligson charged with hate crime for filming Gaza protest graffiti; debates Case on press freedom and antisemitism framing.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosts How To segment from woodshop with dad trapped in a board; teaches chest pops, watches blowjob tutorial, reveals family origin story.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "Amongst the Web host",
+      "notes": "Amongst the Web host. Performs Space Jam DVD national anthem rap via flash poll; declares it an anthem not a track.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Briefly appears when Case mistakes Pepito for Chet; Chet pets Pepito and asks about girlfriend.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Has a girlfriend; gender presentation ambiguous — Case says 'I don't know if Pepito is a girl' and 'Pepito doesn't care about gender.' [01:09:24]",
+      "timestamp": "01:09:24",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "Father worked at ShowBiz Pizza until age 32; met Jeb's mother at a bar next door that was shut down by police three days later. [01:56:44]",
+      "timestamp": "01:56:44",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "Parents conceived within a week of meeting and married hastily. [01:55:34]",
+      "timestamp": "01:55:34",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Rick",
+      "fact": "Official anthem is now a Space Jam DVD rap over the national anthem, chosen by flash poll. [02:00:38]",
+      "timestamp": "02:00:38",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a relaxed news day dissecting JD Vance's Magic: The Gathering hobby and the fabricated Tim Walz horse semen rumor, then hosts Amongst the Web for a parade of viewer clips including a cliff jump, Aiden Ross's Trump stream, and a fish playing Pokémon. Jeff Ripple reports on a journalist charged with a hate crime for documenting pro-Palestinian graffiti, sparking a press freedom debate. Jeb Nogget's How To segment veers from chest pops to a graphic blowjob tutorial, homemade toilet cleaner, and a pheromone alpha male course, revealing his parents' whirlwind ShowBiz Pizza romance. The broadcast closes with Rick delivering a Space Jam DVD national anthem rap, now canonized as his official anthem.",
+  "_meta": {
+    "vod_id": "Iu514jPE85o",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 111069,
+    "approx_prompt_tokens": 27767,
+    "transcript_lines": 267
+  }
+}

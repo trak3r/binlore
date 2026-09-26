@@ -35,11 +35,12 @@ Rick joined the broadcast on the [[episodes/2026-09-04|2026-09-04 broadcast]] to
 | [[episodes/2025-06-24|2025-06-24]] | Deep State correspondent / Amongst the Web host. |
 | [[episodes/2025-06-13|2025-06-13]] | Amongst the Web host. |
 | [[episodes/2025-06-02|2025-06-02]] | Amongst the Web host. |
+| [[episodes/2024-08-08|2024-08-08]] | Amongst the Web host. |
 | [[episodes/2024-04-25|2024-04-25]] | host of Amongst the Web. |
 | [[episodes/2024-01-17|2024-01-17]] | Debuted as a political correspondent claiming ex-CIA service in three wars, age 28, and metal implants; covered Iowa caucus results. |
 
 ## Notable moments
 
-
 - **[01:09:01]** ([[episodes/2026-09-04|2026-09-04]]): Assumes control of the broadcast for the Amongst the Web briefing, dissecting viral videos with deadpan military methodology.
 - **[01:13:15]** ([[episodes/2026-06-03|2026-06-03]]): Rick (Amongst the Web host) hosts BBQs where he flies a thin blue line flag, which a viewer complained about to AI Rooney.
+- **[02:00:38]** ([[episodes/2024-08-08|2024-08-08]]): Official anthem is now a Space Jam DVD rap over the national anthem, chosen by flash poll. [02:00:38]

@@ -53,6 +53,7 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2025-09-15|2025-09-15]] | How To host. |
 | [[episodes/2025-07-01|2025-07-01]] | instructional host. |
 | [[episodes/2025-06-19|2025-06-19]] | instructional host. |
+| [[episodes/2024-08-08|2024-08-08]] | instructional host. |
 | [[episodes/2024-07-30|2024-07-30]] | instructional host. |
 | [[episodes/2024-07-22|2024-07-22]] | Hosts How To segment from woodshop with father trapped in wood, learns face dancing and minion lipstick. |
 | [[episodes/2024-07-20|2024-07-20]] | Debates Dad on better son (Dad picks Jet), learns RISA debate framework, scat-offs with Dad in wood resonance. |
@@ -88,3 +89,5 @@ See also: [[../segments/how-to-with-jeb|How To with Jeb]], [[../characters/index
 - **[48:10]** ([[episodes/2025-07-01|2025-07-01]]): Brother Jet Nogget is a world-class plastic surgeon but unavailable due to full schedule [48:10].
 - **[[52:18]]** ([[episodes/2024-05-30|2024-05-30]]): Owns extremely old unopened Maker's Mark whiskey gifted by Case Blackwell; attempted to drink it 'like a sir' without ice per instructional video, got instantly drunk on one sip.
 - **[[54:48]]** ([[episodes/2024-05-30|2024-05-30]]): Has a 'little brother' mentor program picking up a 32-year-old from prison; claimed drunkenness prevented pickup.
+- **[01:56:44]** ([[episodes/2024-08-08|2024-08-08]]): Father worked at ShowBiz Pizza until age 32; met Jeb's mother at a bar next door that was shut down by police three days later. [01:56:44]
+- **[01:55:34]** ([[episodes/2024-08-08|2024-08-08]]): Parents conceived within a week of meeting and married hastily. [01:55:34]
