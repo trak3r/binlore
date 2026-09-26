@@ -22,7 +22,8 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 ## Appearances
 
 | Episode | Notes |
-|---------|-------|
+|---|---|
+| [[episodes/2024-06-25|2024-06-25]] | call-in guest. |
 | [[episodes/2023-12-30|2023-12-30]] | Auto-created minor character after appearing in 3 extracted episodes (threshold 3). |
 
 ## Notable moments

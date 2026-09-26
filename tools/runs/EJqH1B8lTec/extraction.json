@@ -1,0 +1,218 @@
+{
+  "segments": [
+    {
+      "start": "00:04",
+      "end": "16:56",
+      "canonical_segment": "Hype Train",
+      "title": "Cold Open & Hype Train Derailment",
+      "notes": "Pepito delivers sign-on while ill; Hype Train commandeers feed for 20-month freestyle rap over trap beat, fixating on cheese and month math."
+    },
+    {
+      "start": "16:56",
+      "end": "45:39",
+      "canonical_segment": "News",
+      "title": "Dr. Disrespect Admits to Inappropriate Minor Messages",
+      "notes": "Blackwell covers Dr. Disrespect's confession to sexting a minor via Twitch Whispers in 2017; Nickmercs condemns him; Blackwell reads statements and contextualizes with prior cheating scandal."
+    },
+    {
+      "start": "45:39",
+      "end": "59:50",
+      "canonical_segment": "News",
+      "title": "Julian Assange Plea Deal via Justin Powers",
+      "notes": "Blackwell adopts 'Justin Powers' persona (Austin Powers stand-in) to report Assange's Saipan guilty plea, felony count, and return to Australia; Justin Powers declares 'fuck a bogic' catchphrase."
+    },
+    {
+      "start": "59:50",
+      "end": "1:23:55",
+      "canonical_segment": "News",
+      "title": "Movie Trailer Roundup with Trent",
+      "notes": "Trent reviews Farming Simulator 25 cinematic, Red One (Santa kidnapping action-comedy), Heretic (A24 horror), and The Penguin HBO series teaser; Blackwell loses red hat mid-segment."
+    },
+    {
+      "start": "1:23:55",
+      "end": "1:55:16",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Val Kilmer Conspiracy Call-In Test",
+      "notes": "Blackwell tests 'Colin' call-in system as Guy Redacted; callers include Big J Dub, Kendall (cheese tax), Skymer (red hat/Rock conspiracy), Clementine Verne (ex-correspondent warns of Justin Powers/John Oliver sleeper agent), Mr. Delicious (Val Kilmer CIA/Polybius lore), and a dog claiming Pepito impregnated her."
+    },
+    {
+      "start": "1:55:16",
+      "end": "1:59:23",
+      "canonical_segment": "News",
+      "title": "Pepito Neutering Crisis",
+      "notes": "Blackwell confronts Pepito over canine paternity allegations; Pepito claims dog rules exempt him, then agrees to neutering ('snip snip') under pressure from chat and Blackwell."
+    },
+    {
+      "start": "1:59:23",
+      "end": "2:37:32",
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip Bradstein: Hock-Tua, Dr. Disrespect, Val Kilmer & Christian Bale",
+      "notes": "Trip fields nine street opinions: Joe Hendry fan, Hock-Tua spit physics debate, Captain Rey Mysterio (Pepito defender), birthday dog (Jan 6 alibi), Rob (park permit dispute), Dr. Disrespect impersonator, neutered orange-sack dog, Dr. Disinfect (G4 revival cameo), Val Kilmer (art prints), Cal Vilmer/Christian Bale (Lego Batman method acting)."
+    },
+    {
+      "start": "2:37:32",
+      "end": "2:39:44",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Elden Ring Transition",
+      "notes": "Blackwell wraps, notes Kendall sleeping, attempts raid of Dr. Disinfect but anticipates stream crash switching to Elden Ring setup."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored full broadcast; tested call-in system as Guy Redacted; performed Justin Powers impression; lost red hat during movies.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open while sick; faced live paternity accusations from multiple dogs; agreed to on-air neutering under chat pressure.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Derailed sign-on with 20-month trap freestyle about cheese, month thickness, and 'fuck a bogic' energy.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Briefly appeared sick; called into own show to argue for higher cheese tax; hung up after Blackwell conceded.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "correspondent",
+      "notes": "correspondent. Presented movie trailer block: Farming Simulator 25, Red One, Heretic, The Penguin.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted nine street interviews on Hock-Tua, Pepito, Dr. Disrespect, Val Kilmer, and Christian Bale; system glitched mid-segment.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Justin Powers",
+      "role": "correspondent",
+      "notes": "correspondent. Blackwell's Austin Powers stand-in; covered Assange plea deal; introduced 'fuck a bogic' catchphrase; flagged as sleeper agent by Clementine Verne.",
+      "canonical_name": "Justin Powers",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Guy Redacted",
+      "role": "correspondent",
+      "notes": "Blackwell's call-in host persona for Colin system test; managed five callers including ex-correspondent Clementine Verne.",
+      "canonical_name": "Guy Redacted",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Clementine Verne",
+      "role": "call-in guest",
+      "notes": "call-in guest. Claimed former BIN correspondent in hiding; warned Justin Powers is John Oliver sleeper agent; requested job from Blackwell.",
+      "canonical_name": "Clementine Verne",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Mr. Delicious",
+      "role": "call-in guest",
+      "notes": "call-in guest. Alleged Val Kilmer recruited by CIA via Polybius arcade game; detailed Kilmer filmography as covert asset timeline.",
+      "canonical_name": "Mr. Delicious",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Disinfect",
+      "role": "street interviewee",
+      "notes": "street interviewee. Claimed G4 revival medical doctor; offered to launder reputation via headphone/GFuel sales; denied touching kids.",
+      "canonical_name": "Dr. Disinfect",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Val Kilmer",
+      "role": "street interviewee",
+      "notes": "street interviewee. Claimed to be alive selling $500 art prints; teased Conspiracy 2 franchise with Santa and The Rock.",
+      "canonical_name": "Val Kilmer",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Pepito was sick at broadcast start but recovered mid-stream.",
+      "timestamp": "[09:43]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Pepito accused of impregnating multiple dogs; caller claims full litter and lactose-intolerant cheese child support.",
+      "timestamp": "[1:50:50]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Pepito agreed to neutering ('snip snip') after Blackwell pressure; claims dog rules exempt him from human responsibility.",
+      "timestamp": "[1:56:44]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Blackwell tested 'Colin' call-in system (844-721-5277) for upcoming project with Kasim; first live caller was Big J Dub.",
+      "timestamp": "[1:27:14]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Justin Powers introduced as Austin Powers' stand-in 'when Austin's busy'; later accused by Clementine Verne of being John Oliver sleeper agent.",
+      "timestamp": "[50:09]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Blackwell lost red hat during movie segment; chat and Skymer distressed; hat not recovered by sign-off.",
+      "timestamp": "[1:02:10]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered Dr. Disrespect's admission to sexting a minor and Julian Assange's plea deal via Justin Powers' Austin Powers impression, then tested a new call-in system that exposed Pepito's alleged canine paternity scandal and triggered an on-air neutering agreement. The broadcast concluded with Trip Bradstein's chaotic park interviews spanning Hock-Tua spit physics, a Dr. Disrespect impersonator, Val Kilmer selling art prints, and Christian Bale discussing Lego Batman method acting.",
+  "_meta": {
+    "vod_id": "EJqH1B8lTec",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 123373,
+    "approx_prompt_tokens": 30843,
+    "transcript_lines": 358
+  }
+}

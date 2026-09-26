@@ -22,11 +22,11 @@ Complete stream archive tracked for *Barely Informed News*. Episodes are ingeste
     <div class="stat-label">Total Broadcast Lore</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">158</div>
+    <div class="stat-value">159</div>
     <div class="stat-label">Ingested & Extracted</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">218</div>
+    <div class="stat-value">217</div>
     <div class="stat-label">Pending Ingestion Backlog</div>
   </div>
 </div>
@@ -44,8 +44,8 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   <div class="filter-group">
     <select id="status-filter">
       <option value="all">All Statuses (376)</option>
-      <option value="ingested">Ingested Only (158)</option>
-      <option value="backlog">Backlog Only (218)</option>
+      <option value="ingested">Ingested Only (159)</option>
+      <option value="backlog">Backlog Only (217)</option>
     </select>
     <select id="page-size">
       <option value="25">25 per page</option>
@@ -339,7 +339,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
 <tr data-status="backlog" data-title="elden struggles" data-date="2024-07-01" data-vod-id="erbut-4d78k" style="display: none;"><td class="cell-date"><code>2024-07-01</code></td><td class="cell-title">Elden Struggles</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">ERbUT-4d78k</code></td><td class="cell-dur">3:52:17</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=ERbUT-4d78k" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="presidential recreation activity hour" data-date="2024-06-28" data-vod-id="1-vtu_qnklc" style="display: none;"><td class="cell-date"><code>2024-06-28</code></td><td class="cell-title">Presidential Recreation Activity Hour</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">1-vTU_qnKlc</code></td><td class="cell-dur">2:46:05</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=1-vTU_qnKlc" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="reploid improvements, tesla recall, kingpin depenised, maybe its news?" data-date="2024-06-26" data-vod-id="zdelhj21dfg" style="display: none;"><td class="cell-date"><code>2024-06-26</code></td><td class="cell-title">Reploid Improvements, Tesla Recall, Kingpin Depenised, maybe its NEWS?</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">ZdELhJ21dfg</code></td><td class="cell-dur">3:05:02</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=ZdELhJ21dfg" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
-<tr data-status="backlog" data-title="elden skadoooo" data-date="2024-06-25" data-vod-id="ejqh1b8ltec" style="display: none;"><td class="cell-date"><code>2024-06-25</code></td><td class="cell-title">Elden Skadoooo</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">EJqH1B8lTec</code></td><td class="cell-dur">2:39:44</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=EJqH1B8lTec" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
+<tr data-status="ingested" data-title="elden skadoooo" data-date="2024-06-25" data-vod-id="ejqh1b8ltec" style="display: none;"><td class="cell-date"><code>2024-06-25</code></td><td class="cell-title"><a href="./2024-06-25" class="internal"><strong>Elden Skadoooo</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">EJqH1B8lTec</code></td><td class="cell-dur">2:39:44</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=EJqH1B8lTec" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="saduchidi toilet ring" data-date="2024-06-24" data-vod-id="e9mnunhp-gu" style="display: none;"><td class="cell-date"><code>2024-06-24</code></td><td class="cell-title"><a href="./2024-06-24" class="internal"><strong>Saduchidi Toilet Ring</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">e9mnunhp-gU</code></td><td class="cell-dur">3:43:08</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=e9mnunhp-gU" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="elden recovery" data-date="2024-06-24" data-vod-id="7iqp0xi4cji" style="display: none;"><td class="cell-date"><code>2024-06-24</code></td><td class="cell-title"><a href="./2024-06-24" class="internal"><strong>Elden Recovery</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">7iqP0XI4cjI</code></td><td class="cell-dur">2:37:34</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=7iqP0XI4cjI" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="elden sick day" data-date="2024-06-20" data-vod-id="_crtzq8bmva" style="display: none;"><td class="cell-date"><code>2024-06-20</code></td><td class="cell-title"><a href="./2024-06-20" class="internal"><strong>Elden Sick Day</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">_CrTZQ8bMVA</code></td><td class="cell-dur">3:26:32</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=_CrTZQ8bMVA" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
