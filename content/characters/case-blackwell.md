@@ -136,3 +136,7 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[]** ([[episodes/2024-06-18|2024-06-18]]): Needs to level Elden Ring character to 125-150 for Shadow of the Erdtree expansion; hunting for wet stone and occult modification [02:23:46].
 - **[[18:46]]** ([[episodes/2024-06-19|2024-06-19]]): Has allergic/depressive reaction to weed: abnormal coughing, nausea, and anxiety instead of relaxation.
 - **[[36:56]]** ([[episodes/2024-06-19|2024-06-19]]): Previously wrote for a Disney-contracted kids YouTube channel using Star Wars characters under heavy corporate brand oversight.
+- **[]** ([[episodes/2024-06-24|2024-06-24]]): Case Blackwell worked at G4 for approximately two years, including pre-launch 'B4 G4' period, and also worked at Disney. [49:30]
+- **[]** ([[episodes/2024-06-24|2024-06-24]]): Case Blackwell and Kendelle have been awaiting an apartment move for 10 months as of this broadcast. [01:13:06]
+- **[]** ([[episodes/2024-06-24|2024-06-24]]): Case Blackwell's hometown is Roanoke, Virginia, where he recommends Texas Tavern for egg burgers. [01:30:52]
+- **[]** ([[episodes/2024-06-24|2024-06-24]]): Case Blackwell attended a very small high school with roughly 40 students in his class. [02:01:13]

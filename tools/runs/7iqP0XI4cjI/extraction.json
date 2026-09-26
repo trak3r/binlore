@@ -1,0 +1,67 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "02:37:34",
+      "canonical_segment": "News",
+      "title": "Elden Recovery",
+      "notes": "Case Blackwell broadcasts a late-night Elden Ring: Shadow of the Erdtree playthrough while recovering from illness, discussing personal history (G4 tenure, Roanoke hometown, small high school), apartment move delays, and welcoming in-studio contributor Kendelle on camera."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors a solo late-night Elden Ring DLC playthrough while recovering from illness, sharing personal anecdotes about G4 tenure and Roanoke roots.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Appears on camera wearing an ITZY shirt to discuss podcasting, House of the Dragon, and vampire shows before Case ends the broadcast.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell worked at G4 for approximately two years, including pre-launch 'B4 G4' period, and also worked at Disney. [49:30]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell and Kendelle have been awaiting an apartment move for 10 months as of this broadcast. [01:13:06]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell's hometown is Roanoke, Virginia, where he recommends Texas Tavern for egg burgers. [01:30:52]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell attended a very small high school with roughly 40 students in his class. [02:01:13]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Anchor Case Blackwell spends the broadcast recovering from illness by playing the Shadow of the Erdtree expansion, intermittently sharing biographical details about his G4 tenure, Roanoke upbringing, and prolonged apartment relocation. In-studio contributor Kendelle joins on-camera to discuss podcasting and prestige television before the network raids Gina Darling's Baldur's Gate 3 stream.",
+  "_meta": {
+    "vod_id": "7iqP0XI4cjI",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 102025,
+    "approx_prompt_tokens": 25506,
+    "transcript_lines": 272
+  }
+}
