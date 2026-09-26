@@ -1,0 +1,180 @@
+{
+  "segments": [
+    {
+      "start": "00:10",
+      "end": "08:02",
+      "canonical_segment": "News",
+      "title": "Pepito Station Sign-On",
+      "notes": "Pepito delivers the official broadcast sign-on and countdown from the control room, claiming 800 speeches remain in him."
+    },
+    {
+      "start": "08:28",
+      "end": "45:31",
+      "canonical_segment": "News",
+      "title": "DNC Day Two Coverage & Biden Speech Highlights",
+      "notes": "Case anchors live DNC coverage with Jeff Ripple reporting from the Chicago floor; Biden's emotional farewell speech and Hillary Clinton's address are replayed and dissected."
+    },
+    {
+      "start": "49:21",
+      "end": "01:35:02",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web with Garf Gutter",
+      "notes": "Garf Gutter guest-hosts the viral video desk, rating viewer submissions including a bridge collapse, motorcycle breakdancing, English-learning diarrhea song, and a wholesome dust-mite philosophy clip."
+    },
+    {
+      "start": "01:35:02",
+      "end": "02:29:21",
+      "canonical_segment": "News",
+      "title": "DNC Roll Call Live Reaction",
+      "notes": "Case, Chet, Rick, and Jeff watch the ceremonial state-by-state roll call, reacting to musical performances, celebrity delegates, and Minnesota's initial pass before Tim Walz's adopted son delivers an emotional endorsement."
+    },
+    {
+      "start": "02:29:58",
+      "end": "02:38:09",
+      "canonical_segment": "Munch & Crum",
+      "title": "Seasonal Food Debate: Spring/Summer vs Fall/Winter",
+      "notes": "Munch argues for fall/winter citing Christmas, Halloween, and Thanksgiving; Crum champions spring/summer with sports cars and Easter America; debate devolves into blood sausage pacts and personal insults."
+    },
+    {
+      "start": "02:38:52",
+      "end": "02:53:16",
+      "canonical_segment": "DJ Newsic",
+      "title": "DJ Newsic Gamescom Dick News & Sonic Rap",
+      "notes": "DJ Newsic covers video game sex-scene labor concerns, then debuts an explicit Sonic the Hedgehog rap before raiding Ricky Peacock."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored DNC coverage, hosted Amongst the Web handoff, moderated Munch & Crum debate, and endured new outro song.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold-open station sign-on and countdown from control room.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Reported live from DNC floor in Chicago, accidentally walked on stage twice, and claimed a dice-loss speech explanation.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosted DNC coverage, analyzed Biden speech applause breaks, and debated seasonal food preferences.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through studio requesting a seven-minute check-in reminder for tattoo removal aftercare.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Joined DNC roll call coverage mid-stream, celebrated state announcements, and claimed Puerto Rico won the beauty pageant.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Garf Gutter",
+      "role": "guest host",
+      "notes": "guest host. Guest-hosted Amongst the Web, revealed birth name O'Shanisee, and shared construction-site pelvis-replacement lore.",
+      "canonical_name": "Garf Gutter",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued fall/winter seasonal supremacy via Christmas/Halloween/Thanksgiving hierarchy and mocked Crum's blood sausage pact.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defended spring/summer with sports cars and Easter America, invoked 2016 blood sausage pact, and touted crumb jet ascent.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Appeared during credits claiming responsibility for the extended credit roll and asking to attend Chicago DNC.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Kendelle is undergoing tattoo removal on her back and needed help with aftercare application.",
+      "timestamp": "[27:41]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Garf Gutter's legal surname is O'Shanisee, not Gutter.",
+      "timestamp": "[01:22:59]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Garf Gutter claims to have slept on construction sites and had his pelvis replaced five or six times, not always by a doctor.",
+      "timestamp": "[01:18:28]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Peter Gibbon produced the extended credit sequence and expressed desire to attend the DNC in Chicago.",
+      "timestamp": "[02:38:52]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "DJ Newsic performed an original Sonic the Hedgehog rap about sex in video games as the broadcast finale.",
+      "timestamp": "[02:47:12]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered the second day of the Democratic National Convention with live floor reports from Jeff Ripple, highlights of Biden's farewell and Hillary Clinton's address, and a full ceremonial roll call reaction. Garf Gutter guest-hosted Amongst the Web with a slate of viewer videos, then Munch and Crum debated seasonal food supremacy before DJ Newsic closed with a Gamescom labor report and a graphic Sonic rap.",
+  "_meta": {
+    "vod_id": "xHkqXfqP8Ng",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 121640,
+    "approx_prompt_tokens": 30410,
+    "transcript_lines": 402
+  }
+}
