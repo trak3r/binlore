@@ -23,6 +23,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-08-27|2024-08-27]] | movie correspondent. |
 | [[episodes/2024-08-22|2024-08-22]] | movie trailer host. |
 | [[episodes/2024-08-13|2024-08-13]] | field correspondent. |
 | [[episodes/2024-08-07|2024-08-07]] | film correspondent. |

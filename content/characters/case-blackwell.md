@@ -154,3 +154,6 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[07:06]** ([[episodes/2024-08-07|2024-08-07]]): Case Blackwell signs on live with 'Let's do a capito!' cold open
 - **[16:10]** ([[episodes/2024-08-22|2024-08-22]]): Case Blackwell returned from DNC coverage in Chicago.
 - **[[01:59:58]]** ([[episodes/2024-08-22|2024-08-22]]): Wrote for Hot Wheels 'Baby Time Racer Kids' YouTube series (Spider-Man, Star Wars episodes) earning 2.5M views and fair compensation.
+- **[]** ([[episodes/2024-08-27|2024-08-27]]): Needs to buy Kendelle a cat before the 'cat mill' closes. [47:41]
+- **[]** ([[episodes/2024-08-27|2024-08-27]]): Gives 'Case Blackwell recommendation' to AEW All In pay-per-view. [01:07:33]
+- **[]** ([[episodes/2024-08-27|2024-08-27]]): Plans to start next week with voicemails. [01:25:50]

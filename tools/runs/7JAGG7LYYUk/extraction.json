@@ -1,0 +1,167 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "00:00",
+      "end": "03:57",
+      "title": "Post-Call Cast Transition",
+      "notes": "Case transitions from a collaborative call cast to the BIN nightly broadcast, managing dual-stream technical issues."
+    },
+    {
+      "canonical_segment": "Hype Train",
+      "start": "03:57",
+      "end": "09:05",
+      "title": "Hype Train Derailment",
+      "notes": "Hype Train commandeers the feed for subscriber acknowledgments and a freestyle rap over a 'sensual' beat, thanking resubs and followers."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "09:05",
+      "end": "15:15",
+      "title": "Sub Goal Vote: Rescue Puffy Bear",
+      "notes": "Chat votes on the new sub goal; 'Rescue Puffy Bear' wins, committing Case to retrieve the bear from the Airstream where it has sat for over a year."
+    },
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "start": "15:15",
+      "end": "31:24",
+      "title": "Tim Walz Dog Conspiracy Investigation",
+      "notes": "Chet interrupts after 'scientist' trigger to analyze viral claims that Tim Walz owns two different dogs named Scout; concludes the conspiracy is baseless."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "start": "34:50",
+      "end": "01:06:57",
+      "title": "Night Streets: Demons, Bread, and Bang Bus",
+      "notes": "Trip Bradstein fields opinions from a self-described hell-demon conservative, a lizard-person dog truther, JD Vance's dog, Johnny Greenbanes (alien encounter), Miles Taylor (transit YouTuber), a bread-man, and a Bang Bus operator."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "01:06:57",
+      "end": "01:07:33",
+      "title": "Wrestling Recommendation",
+      "notes": "Case gives the 'Case Blackwell recommendation' to AEW All In pay-per-view."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "01:07:33",
+      "end": "01:24:16",
+      "title": "Trent at the Movies: Trailer Mondays",
+      "notes": "Trent screens trailers for 'Super/Man: The Christopher Reeve Story', 'Cthulhu the Musical', 'Roadcraft', 'Boy and His Dog', and 'The Art of Eight Limbs'."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "01:24:16",
+      "end": "01:26:59",
+      "title": "Sign-Off and Raid",
+      "notes": "Case ends the broadcast after ~3 hours total (including call cast), raids Radmire playing Star Wars: The Old Republic."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the nightly broadcast, managed sub goal vote for Puffy Bear rescue, recommended AEW All In.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Co-hosted the sub goal discussion, admitted to a two-month-old mustache, claimed to eat worms for brain massages.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Triggered by 'scientist' to investigate the Tim Walz dog conspiracy, declared the story baseless.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train host",
+      "notes": "hype train host. Delivered a freestyle rap over a sensual beat during the hype train, thanked resubs and followers.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted man-on-the-street interviews with a parade of surreal park denizens including a demon, JD Vance's dog, and a bread-man.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "movie correspondent",
+      "notes": "movie correspondent. Hosted Trailer Mondays, reacted to five trailers with Case and Chris.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Briefly appeared during Trip segment for a flash poll on cat names (Glenn won).",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Puffy Bear Rescue",
+      "beat": "[13:17] Sub goal set at 30 subs to fund Case's road trip to retrieve Puffy Bear from the Airstream where he has been abandoned for over a year.",
+      "timestamp": "13:17"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Puffy Bear",
+      "fact": "Has been in the Airstream for over a year; Case abandoned him there. [13:17]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Needs to buy Kendelle a cat before the 'cat mill' closes. [47:41]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Gives 'Case Blackwell recommendation' to AEW All In pay-per-view. [01:07:33]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Plans to start next week with voicemails. [01:25:50]",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell transitions from a call cast into a three-hour nightly broadcast featuring a Hype Train derailment, a successful sub goal vote to rescue Puffy Bear from the Airstream, a Chet Guy the Science Eyes investigation debunking the Tim Walz dog conspiracy, a chaotic Trip on the Street segment with surreal park interviewees, and a Trailer Mondays movie segment. The broadcast ends with a raid to Radmire.",
+  "_meta": {
+    "vod_id": "7JAGG7LYYUk",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 82966,
+    "approx_prompt_tokens": 20741,
+    "transcript_lines": 195
+  }
+}
