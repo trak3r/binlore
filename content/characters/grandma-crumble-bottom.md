@@ -76,3 +76,5 @@ See also: [[../segments/amongst-the-web|Amongst the Web]], [[../characters/index
 - **[1:25:34]** ([[episodes/2025-06-02|2025-06-02]]): Grandma Crumble Bottom originated under the sink of a high school janitor's closet.
 - **[1:30:48]** ([[episodes/2025-06-02|2025-06-02]]): Grandma Crumble Bottom consumes only mulch and gravel; everything else disagrees with her stomach.
 - **[02:09:46]** ([[episodes/2024-09-18|2024-09-18]]): Urinates on studio floor live during Jumbalaya segment [02:09:46].
+- **[1:32:29]** ([[episodes/2024-09-19|2024-09-19]]): Grandma Crumble Bottom claims to be a virgin despite having children, referring to them as 'closet kids.'
+- **[1:31:52]** ([[episodes/2024-09-19|2024-09-19]]): Grandma Crumble Bottom believes Joe Diddly (radio host) is the greatest blues man, confuses him with Sammy Davis Jr.

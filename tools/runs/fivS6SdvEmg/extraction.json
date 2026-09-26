@@ -1,0 +1,226 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "19:52",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Freestyle & Subscriber Milestone",
+      "notes": "Pepito delivers cold open as 'Papita'; Hype Train performs extended freestyle rap over trap beats while acknowledging Level 3 hype train, 16-month and 20-month subscribers, and approaching two-year stream anniversary."
+    },
+    {
+      "start": "19:52",
+      "end": "41:35",
+      "canonical_segment": "News",
+      "title": "Sean 'Diddy' Combs Federal Indictment Coverage",
+      "notes": "Case Blackwell and Tyler discuss unsealed three-count indictment charging Combs with racketeering conspiracy, sex trafficking, and interstate transportation for prostitution; details include hidden cameras, 700+ dildos, 'freak off' parties, employee facilitation, and celebrity reactions including 50 Cent and Charlemagne the God."
+    },
+    {
+      "start": "41:35",
+      "end": "51:32",
+      "canonical_segment": "News",
+      "title": "Bubba Sparks Interview: Quiznos Employee & Virginity Claims",
+      "notes": "Case interviews early-2000s rapper Bubba Sparks, who reveals he now works at Quiznos, partied with the Quiznos 'rat creatures' in 2007, claims to be a virgin who has never seen genitalia, and denies attending any Diddy parties."
+    },
+    {
+      "start": "51:32",
+      "end": "1:10:54",
+      "canonical_segment": "How To with Jeb",
+      "title": "Jeb's Kitchen: Cream of Mushroom Soup, Microwave Pepper, Air Fryer S'mores, Frozen Salad",
+      "notes": "Jeb Nogget hosts cooking segment from woodshop with father's spirit in wooden board; features Greg's Kitchen cream of mushroom soup, microwaved stuffed red pepper, air fryer chocolate marshmallows, and a frozen vegetable salad; Kendelle walks through studio; Jeb's Dad cannot recall his own death (trash/shed incident)."
+    },
+    {
+      "start": "1:10:54",
+      "end": "1:21:00",
+      "canonical_segment": "Munch & Crum",
+      "title": "Grower vs Shower Debate",
+      "notes": "Munch argues for 'shower' (truth in advertising); Crum argues for 'grower' (spectacle/Blitzkrieg); chat prediction market awards 73k channel points to nine viewers who backed Munch; Crum's head compared to worn-down eraser."
+    },
+    {
+      "start": "1:21:00",
+      "end": "1:34:09",
+      "canonical_segment": "Jambalaya",
+      "title": "Who Is Stuck in P. Diddy's Closet?",
+      "notes": "Panel of Liliana, Grandma Crumble Bottom, Tyler, and Chet interrogated about Diddy party attendance, Cambodian breast milk cookies (Chappelle Show reference), Bruno (Encanto reference), and dildo limits; chat poll concludes Grandma Crumble Bottom is the one hiding in the closet; she claims virginity with 'closet kids.'"
+    },
+    {
+      "start": "1:34:09",
+      "end": "1:36:26",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid to Bricky",
+      "notes": "Case bumps Joe Rogan segment to Friday; Grandma Crumble Bottom accidentally routes exit through DNC feed; Case raids Bricky's channel after plugging Patreon."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored Diddy indictment coverage, interviewed Bubba Sparks, moderated Munch & Crum grower/shower debate and Jambalaya closet panel, debuted new gold jacket.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open as 'Papita' (ASR garble), managed Hype Train audio levels and Panther beat cues.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "Performed extended freestyle rap over trap beats during Level 3 hype train, acknowledged 16-month and 20-month subscribers, approached two-year stream anniversary.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Tyler",
+      "role": "call-in guest",
+      "notes": "call-in guest. Co-hosted News desk for Diddy coverage, appeared on Jambalaya panel, discussed SimCity city Rennerton and Quiznos rat parties.",
+      "canonical_name": "Tyler",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Bubba Sparks",
+      "role": "guest",
+      "notes": "guest. Early-2000s rapper interviewed live; revealed he works at Quiznos, partied with Quiznos mascots in 2007, claims virginity and no Diddy party attendance.",
+      "canonical_name": "Bubba Sparks",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "correspondent",
+      "notes": "correspondent. Hosted How To cooking segment from woodshop with father's spirit; demonstrated cream of mushroom soup, microwave pepper, air fryer s'mores, frozen salad; cannot recall own death.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "co-host (spirit)",
+      "notes": "co-host (spirit). Deceased father trapped in wooden board; bickered with Jeb, claimed 24/7 spiritual sex with wood nymph, cannot remember dying after taking trash to shed.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through studio during How To segment; greeted by Case and Jeb as 'wood nymph.'",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Jambalaya panelist; admitted attending Diddy parties but found them 'desperate,' refused to discuss Bruno, set no limit on responsible dildo ownership.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Grandma Crumble Bottom",
+      "role": "recurring",
+      "notes": "recurring. Jambalaya panelist; claimed never owned a closet, endorsed breast milk cookies when out of milk, declared one dildo too many, revealed virginity with 'closet kids,' chat voted her as the one in Diddy's closet.",
+      "canonical_name": "Grandma Crumble Bottom",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "correspondent",
+      "notes": "correspondent. Jambalaya panelist; denied ever attending Diddy parties citing moral character, answered 'negative' to party attendance.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued 'shower' position in grower vs shower debate (truth in advertising), won chat prediction market, mocked Crum's head as worn-down eraser.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued 'grower' position (Blitzkrieg spectacle), lost chat prediction market, head compared to worn-down eraser by Munch.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[1:21:00] Case references Beyblade points on channel point border (~10 points) during Jambalaya setup, confirming community pledge tracker still active.",
+      "timestamp": "1:21:00"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "19:32",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell debuted a new gold jacket/coat for the stream's approaching two-year anniversary.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "49:24",
+      "entity": "",
+      "fact": "Bubba Sparks now works at Quiznos making sandwiches (classic Italian, honey bacon club, spicy maran).",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "47:31",
+      "entity": "",
+      "fact": "Bubba Sparks claims to be a virgin who has never had sex and has never seen a vagina or his own penis.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:06:25",
+      "entity": "",
+      "fact": "Jeb's Dad (spirit in wooden board) cannot remember how he died; recalls taking trash out three times, then shed trash, then noticing neighbors' trash cans before waking up in the wood.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:32:29",
+      "entity": "Grandma Crumble Bottom",
+      "fact": "Grandma Crumble Bottom claims to be a virgin despite having children, referring to them as 'closet kids.'",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:31:52",
+      "entity": "Grandma Crumble Bottom",
+      "fact": "Grandma Crumble Bottom believes Joe Diddly (radio host) is the greatest blues man, confuses him with Sammy Davis Jr.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell covers the federal sex trafficking and racketeering indictment of Sean 'Diddy' Combs with co-host Tyler, then interviews rapper Bubba Sparks who reveals he works at Quiznos and claims lifelong virginity. Jeb Nogget hosts a How To cooking segment from his woodshop featuring cream of mushroom soup and air fryer s'mores while his deceased father's spirit bickers from a wooden board. Munch and Crum debate 'grower vs shower' with chat prediction markets, and a Jambalaya panel including Liliana, Grandma Crumble Bottom, Tyler, and Chet investigates who is hiding in Diddy's closet — chat votes Grandma Crumble Bottom.",
+  "_meta": {
+    "vod_id": "fivS6SdvEmg",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 86734,
+    "approx_prompt_tokens": 21683,
+    "transcript_lines": 195
+  }
+}
