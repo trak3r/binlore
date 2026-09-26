@@ -1,0 +1,208 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "00:10",
+      "end": "07:57",
+      "title": "Cold Open & Pepito Sign-On",
+      "notes": "Pepito delivers the official top-of-hour countdown and broadcast sign-on from the control room."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "07:57",
+      "end": "34:09",
+      "title": "DNC Night Four Coverage: Uncommitted Protest, Georgia Roll Call, Obama Crowd-Size Joke, Walz Acceptance",
+      "notes": "Case and Tyler cover the final night of the Democratic National Convention: uncommitted delegates stage sit-in over Palestinian speaker rejection, Georgia delegation's Lil Jon roll call goes viral, Keenan Thompson hosts, Obama makes crowd-size joke, Tim Walz accepts VP nomination."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "34:09",
+      "end": "40:59",
+      "title": "Miles Taylor Interview: Transit Correspondent",
+      "notes": "Case interviews Miles Taylor of 'Miles and Transit' YouTube channel; Miles demonstrates invisible-wire duplicates, Blue-Eyes bus pass, and 100+ hour Greyhound ride."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "start": "40:59",
+      "end": "01:02:22",
+      "title": "Jeb's Fitness & Hygiene Tutorials: Sissy Squat, Massage Receiving, Beatboxing, Semen Specimen",
+      "notes": "Jeb and his board-trapped father demonstrate sissy squats on books, massage receiver etiquette (communicate, motivate, be a flat noodle), Spencer's one-minute beatbox lesson, and Eric's clinical semen specimen guide."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "01:02:22",
+      "end": "01:19:42",
+      "title": "DNC Day Four Field Report: Jeff Ripple's Podium Urinal Incident",
+      "notes": "Jeff Ripple reports from Chicago; accidentally crosses stage five times, discovers podium is a urinal, panics and urinates on floor while crowd applauds to Beyoncé music."
+    },
+    {
+      "canonical_segment": "Therapy",
+      "start": "01:19:42",
+      "end": "01:37:18",
+      "title": "Trent at the Movies: Wolfs, Megalopolis, War of the Rohirrim, Blackwell Ghost 8",
+      "notes": "Trent reviews Apple's Wolfs trailer, Coppola's Megalopolis trailer (winery-funded), anime-style Lord of the Rings: War of the Rohirrim, and Blackwell Ghost 8 (Case's namesake franchise)."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "01:37:18",
+      "end": "01:50:41",
+      "title": "UFO Conspiracy Desk: Luis Elizondo Memoir & Basement Honey Trap",
+      "notes": "Redacted covers Pentagon UFO whistleblower Luis Elizondo's new memoir, government UAP honeypot program, and conducts live basement honey-trap interview capturing a honey-covered talking bear/pervert."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "01:50:41",
+      "end": "02:02:12",
+      "title": "Chick-fil-A Streaming Service & Case's Baby Time Racer Writing Credit",
+      "notes": "Chick-fil-A announces family-friendly streaming platform with Glassman Media game show; Case reveals he wrote for Hot Wheels 'Baby Time Racer Kids' YouTube series (2.5M views)."
+    },
+    {
+      "canonical_segment": "DJ Newsic",
+      "start": "02:02:12",
+      "end": "02:14:43",
+      "title": "Sammy Sings 'Diamonds on the Soles of His Elbows' (Paul Simon Parody)",
+      "notes": "Sammy performs AI-generated parody about a cool New York dad with diamond-studded elbows; Case and Sammy struggle with fade-out button."
+    },
+    {
+      "canonical_segment": "Therapy",
+      "start": "02:14:43",
+      "end": "02:26:43",
+      "title": "Dr. Chath DNC Speech & Pepito's Chicken Cheeseburger Platform",
+      "notes": "Dr. Chath delivers surreal convention speech (crowd sizes, piss, JD Vance, Autobots, donuts); Pepito demands chicken cheeseburger; broadcast raids Psychor."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors DNC coverage, interviews Miles Taylor, oversees Jeb segment, fields Jeff's field report, hosts movie trailers and UFO desk, reveals children's writing credit, duets on fade-out button.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold-open countdown, receives 200 cheese bits, demands chicken cheeseburger during sign-off.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "field correspondent",
+      "notes": "field correspondent. Reports from DNC floor; accidentally crosses stage repeatedly, discovers podium is urinal, panics and urinates on floor to applause.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Emerges from wall uninvited, grinds ass near Case as 'appropriate adult joke,' conducts Hype Train, returns to wall.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosts How To segment from woodshed with board-trapped father; attempts sissy squats, demonstrates massage receiving, beatboxes, covers semen specimen protocol.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Redacted",
+      "role": "conspiracy correspondent",
+      "notes": "conspiracy correspondent. Covers Luis Elizondo UFO memoir, government honeypot program, runs basement honey trap capturing talking bear/pervert.",
+      "canonical_name": "Redacted",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "movie trailer host",
+      "notes": "movie trailer host. Reviews Wolfs, Megalopolis, War of the Rohirrim, Blackwell Ghost 8 trailers; debates Apple TV+ generic aesthetic.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Sammy",
+      "role": "musical contributor",
+      "notes": "musical contributor. Performs AI-generated 'Diamonds on the Soles of His Elbows' parody about cool NYC dad; struggles with fade-out button alongside Case.",
+      "canonical_name": "Sammy",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Chath",
+      "role": "therapist",
+      "notes": "therapist. Delivers surreal DNC convention speech mixing crowd sizes, piss, JD Vance, Autobots, donuts, and breakthrough.",
+      "canonical_name": "Dr. Chath",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Miles Taylor",
+      "role": "guest correspondent",
+      "notes": "guest correspondent. Transit YouTuber demonstrates invisible-wire duplicates, Blue-Eyes bus pass, 100+ hour Greyhound ride; exits via Yu-Gi-Oh duel.",
+      "canonical_name": "Miles Taylor",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Wrote for Hot Wheels 'Baby Time Racer Kids' YouTube series (Spider-Man, Star Wars episodes) earning 2.5M views and fair compensation.",
+      "timestamp": "[01:59:58]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeff Ripple",
+      "fact": "Discovered DNC podium doubles as urinal; urinated on floor during live cross while crowd applauded to Beyoncé music.",
+      "timestamp": "[01:07:02]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Claims 'skill' of grinding ass into colleagues without full contact as 'appropriate adult joke' between best pals.",
+      "timestamp": "[01:14:36]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Redacted",
+      "fact": "Operates basement honey trap with one-frame-per-two-minutes camera; captured honey-covered talking bear/pervert seeking friendship.",
+      "timestamp": "[01:45:48]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "Father's spirit remains trapped in wooden board; they bicker domestically during How To segments.",
+      "timestamp": "[01:41:44]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News closes DNC coverage with uncommitted delegate protests, a viral Georgia roll call, and Tim Walz's acceptance speech before pivoting to a transit YouTuber interview, Jeb's woodshed fitness and hygiene tutorials, and Jeff Ripple's podium urinal mishap in Chicago. The broadcast continues with movie trailers including Coppola's winery-funded Megalopolis, a UFO conspiracy desk featuring a basement honey trap that catches a talking bear, and the revelation that Case wrote for a Hot Wheels children's series. The night ends with Sammy's AI-generated Paul Simon parody and Dr. Chath's surreal convention address before raiding Psychor.",
+  "_meta": {
+    "vod_id": "a4Fa4jqS13Q",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 116288,
+    "approx_prompt_tokens": 29072,
+    "transcript_lines": 319
+  }
+}

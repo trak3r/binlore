@@ -55,6 +55,7 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 | [[episodes/2026-06-08|2026-06-08]] | Studio news reader / breaking chat correspondent. Reads Catholic exorcist story, reacts to Alex Jones comparison, leaves to fix power issue. |
 | [[episodes/2026-06-05|2026-06-05]] | Studio news reader and breaking chat correspondent who monitors viewer submissions and provides updates. |
 | [[episodes/2026-05-29|2026-05-29]] | External journalist mentioned in news coverage, not a character. |
+| [[episodes/2024-08-22|2024-08-22]] | field correspondent. |
 | [[episodes/2024-07-22|2024-07-22]] | Delivers human-interest coverage of Biden withdrawal and Kamala Harris clips with characteristic gravitas. |
 | [[episodes/2024-05-31|2024-05-31]] | Co-anchors Trump verdict coverage, debates Biden 'lie-off' viability, and signs off with cosmic reassurance. |
 | [[episodes/2023-12-18|2023-12-18]] | human-interest reporter. |
@@ -81,3 +82,4 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 - **[]** ([[episodes/2024-01-13|2024-01-13]]): Took a second holiday break after already returning once [29:14].
 - **[00:58:23]** ([[episodes/2024-02-29|2024-02-29]]): [00:58:23] Receives AI-generated Madonna 'Express Yourself' parody theme song ('Jeff Express Yourself').
 - **[36:23]** ([[episodes/2024-03-18|2024-03-18]]): Jeff Ripple reveals he has two Filipino sons.
+- **[[01:07:02]]** ([[episodes/2024-08-22|2024-08-22]]): Discovered DNC podium doubles as urinal; urinated on floor during live cross while crowd applauded to Beyoncé music.
