@@ -41,6 +41,7 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 | [[episodes/2025-06-17|2025-06-17]] | Field Correspondent. |
 | [[episodes/2025-06-11|2025-06-11]] | field correspondent. |
 | [[episodes/2025-06-02|2025-06-02]] | field correspondent. |
+| [[episodes/2024-07-25|2024-07-25]] | field correspondent. |
 | [[episodes/2024-07-20|2024-07-20]] | Rapid-fire street debates from park bushes, settles all via coin flip, loses majority, refuses to leave streets, interacts with bread man,… |
 | [[episodes/2024-06-26|2024-06-26]] | field correspondent. |
 | [[episodes/2024-06-25|2024-06-25]] | field correspondent. |
@@ -52,13 +53,13 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 | [[episodes/2024-03-14|2024-03-14]] | field correspondent. |
 | [[episodes/2024-02-29|2024-02-29]] | field correspondent. |
 | [[episodes/2024-02-16|2024-02-16]] | field correspondent. |
-| [[episodes/2024-02-15|2024-02-15]] | field correspondent. |
 
 <details>
-<summary>Earlier appearances (9)</summary>
+<summary>Earlier appearances (10)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-02-15|2024-02-15]] | field correspondent. |
 | [[episodes/2024-02-09|2024-02-09]] | Fields correspondent broadcasting from park bushes; street interviews derailed by a shape-shifting baby drinking his mic juice and tech… |
 | [[episodes/2024-02-07|2024-02-07]] | field correspondent. |
 | [[episodes/2024-02-02|2024-02-02]] | field correspondent. |

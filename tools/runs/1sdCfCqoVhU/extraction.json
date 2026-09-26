@@ -1,0 +1,150 @@
+{
+  "segments": [
+    {
+      "start": "00:10",
+      "end": "00:56",
+      "canonical_segment": "News",
+      "title": "Station Sign-On",
+      "notes": "Pepito delivers the official top-of-hour broadcast sign-on and countdown."
+    },
+    {
+      "start": "08:14",
+      "end": "53:00",
+      "canonical_segment": "News",
+      "title": "Netanyahu Address & Biden Oval Office Speech",
+      "notes": "Case Blackwell (as Jeff Ripple) and Jeff Ripple cover Netanyahu's congressional address, Union Station protests, Harris statement, and Biden's withdrawal address."
+    },
+    {
+      "start": "55:38",
+      "end": "01:23:24",
+      "canonical_segment": "Amongst the Web",
+      "title": "Viral Video Review: Barbecue Foot Massage, Hiding Spots, Frog Costume, Florida Valhalla, Coconut Crabs, Luigi",
+      "notes": "Case and Liliana review viewer-submitted clips including a 90-minute barbecue infomercial, a man's elaborate hiding spots, a frog-costumed dancer, a Florida concert venue, coconut crab prank, and a Luigi dance video."
+    },
+    {
+      "start": "01:24:27",
+      "end": "01:37:39",
+      "canonical_segment": "Munch & Crum",
+      "title": "Frog vs. Luigi Dance Debate",
+      "notes": "Munch and Crum debate whether the frog dancer or Luigi is the better dancer; Kendall calls in claiming Case's dancing triggered a seizure; Munch declares victory and delivers outro."
+    },
+    {
+      "start": "01:37:39",
+      "end": "02:00:24",
+      "canonical_segment": "Trip on the Street",
+      "title": "Park Interviews: Couch Enthusiasts, Rob Elvie, Dr. Manhattan's Penis, Couch Pulley System, Bee Doppelganger",
+      "notes": "Trip Bradstein interviews park visitors including a Trump impersonator confessing to couch relations, Rob Elvie negotiating an unban, a blobfish claiming to be Dr. Manhattan's penis, a person humping Case's couch via pulley system, and a bee-faced Case doppelganger."
+    },
+    {
+      "start": "02:00:44",
+      "end": "02:12:57",
+      "canonical_segment": "DJ Newsic",
+      "title": "Bodybuilder Marries Sex Doll / Gina Darling Birthday Raid",
+      "notes": "DJ Newsic performs an original song about bodybuilder Yuri Tolochko's marriage to a sex doll, his caveman identity, and previous relationships with an ashtray and chicken doll; broadcast ends with a birthday raid for Gina Darling."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "lead anchor",
+      "notes": "lead anchor. Anchored the Netanyahu/Biden news block as Jeff Ripple, hosted Amongst the Web with Liliana, and participated in the Munch & Crum dance debate.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered the station sign-on and countdown at top of broadcast.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosted the news desk with Case, reading wire copy on Netanyahu protests and Biden's address.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Joined Case for Amongst the Web video reviews, defending the frog dancer in the subsequent debate.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued for Luigi in the dance debate, claimed victory, and delivered the segment outro.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued for the frog dancer, cited his mayoral run in Kremchen, and traded insults with Munch over debate scoring.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Called in to report that Case's dancing gave her a seizure, prompting epilepsy accusations.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted park interviews from the bushes, encountering a parade of surreal characters including a Trump couch enthusiast and a blobfish claiming to be Dr. Manhattan's penis.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Kendelle claims Case's dancing triggered a seizure during the Munch & Crum debate.",
+      "timestamp": "[01:31:06]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum asserts he held majority female support during his mayoral campaign in Kremchen.",
+      "timestamp": "[01:32:51]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Broadcast concluded with a birthday raid for Gina Darling.",
+      "timestamp": "[02:12:07]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered Netanyahu's congressional address and the surrounding protests, followed by Biden's Oval Office withdrawal speech. The Amongst the Web segment reviewed viral videos including a barbecue-foot-massage infomercial and a frog-costumed dancer, sparking a heated Munch & Crum debate adjudicated by a call-in from Kendelle. Trip Bradstein's park interviews descended into surreal encounters with a couch-obsessed Trump impersonator and a blobfish identifying as Dr. Manhattan's penis, before DJ Newsic closed the broadcast with a musical tribute to a bodybuilder's sex doll marriage and a birthday raid.",
+  "_meta": {
+    "vod_id": "1sdCfCqoVhU",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 113242,
+    "approx_prompt_tokens": 28310,
+    "transcript_lines": 328
+  }
+}

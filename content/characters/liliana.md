@@ -42,6 +42,7 @@ Liliana was absent from *Barely Informed News* for approximately a full year bef
 | [[episodes/2026-03-07|2026-03-07]] | Briefly appears during newsroom wrap-up; Case mentions her dedicated theme music. |
 | [[episodes/2025-06-19|2025-06-19]] | desk partner. |
 | [[episodes/2025-06-02|2025-06-02]] | in-studio contributor. |
+| [[episodes/2024-07-25|2024-07-25]] | desk partner. |
 | [[episodes/2024-07-22|2024-07-22]] | Participates in Jambalaya panel as 'burdened by what has been' contestant, reveals she celebrates her burden. |
 | [[episodes/2024-07-20|2024-07-20]] | Participates in both [[../segments/jambalaya|Jambalaya]] sessions, argues for buttersnitch pie and potato-as-human, dominates piss-play questions, votes for Kendall… |
 | [[episodes/2024-06-05|2024-06-05]] | desk partner. |
@@ -56,7 +57,15 @@ Liliana was absent from *Barely Informed News* for approximately a full year bef
 | [[episodes/2023-12-31|2023-12-31]] | desk partner. |
 | [[episodes/2023-12-18|2023-12-18]] | desk partner. |
 | [[episodes/2023-12-12|2023-12-12]] | desk partner. |
+
+<details>
+<summary>Earlier appearances (1)</summary>
+
+| Episode | Notes |
+|---|---|
 | [[episodes/2023-11-30|2023-11-30]] | desk partner. |
+
+</details>
 
 ## Notable Quotes
 
