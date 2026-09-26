@@ -160,3 +160,9 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[02:21:41]** ([[episodes/2024-08-30|2024-08-30]]): [02:21:41] Self-discloses ADD: 'honestly dude I got fuckin ADD like it's about time that I fucking admitted dude'.
 - **[00:35:08]** ([[episodes/2024-08-30|2024-08-30]]): [00:35:08] Birthday was months ago; wished for camera lens, not world peace.
 - **[[11:14]]** ([[episodes/2024-09-08|2024-09-08]]): Ran a complete Candyland RPG campaign in a single 4.5-hour broadcast, inventing mechanics (stats, cards, combat, leveling) live.
+- **[[08:58]]** ([[episodes/2024-09-17|2024-09-17]]): Engaged to Ashley; proposal occurred Saturday before broadcast during family lunch with both families present.
+- **[[36:25]]** ([[episodes/2024-09-17|2024-09-17]]): Ring designer complicit in surprise, delayed delivery for weeks to preserve proposal moment.
+- **[[1:12:38]]** ([[episodes/2024-09-17|2024-09-17]]): Mother interrupted proposal twice; Case had to ask 'are you finished?' mid-speech.
+- **[[28:28]]** ([[episodes/2024-09-17|2024-09-17]]): Insists on open bar at wedding; Kendelle open to one child (up from zero).
+- **[[1:45:19]]** ([[episodes/2024-09-17|2024-09-17]]): Club 33 Disneyland membership cited as exclusive dining with decades-long waitlist and resale spots for tens of thousands.
+- **[[1:47:32]]** ([[episodes/2024-09-17|2024-09-17]]): Patreon episode Thursday to watch Batman: Caped Crusader and Vince McMahon documentary.

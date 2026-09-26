@@ -1,0 +1,115 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "07:19",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Call Kass Cold Open & Fake Commercials",
+      "notes": "Pre-recorded intro reel featuring surreal fake ads for 'Call CAS' with 844-721-CAS number, digitized from 80s/90s source tapes."
+    },
+    {
+      "start": "07:19",
+      "end": "34:20",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Engagement Announcement & Proposal Story",
+      "notes": "Case Blackwell announces engagement to Ashley, recounts surprise proposal during staged family lunch, details ring designer conspiracy to delay rings, and discusses wedding planning philosophy (open bar, cost concerns)."
+    },
+    {
+      "start": "34:20",
+      "end": "1:48:44",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Call-In Segment: Wedding Advice, Trump, Diddy, Laura Loomer",
+      "notes": "Series of callers: Gina Darling (ex-stalker parody), Haas (10-year marriage advice), Entity (gifted slabbed Amazing Spider-Man wedding cover), Bonsai Bullfrog (breaks Diddy arrest news), Smoke Packs (sober wedding perspective), Card King (Aladdin fetish roast), Sub Orbital (Thailand-based engagement + Trump assassination analysis), Matt LaDell (cream team happiness officer, Guantanamo conflict resolution joke)."
+    },
+    {
+      "start": "1:48:44",
+      "end": "1:48:49",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Show Wrap-Up & Patreon Plug",
+      "notes": "Case thanks subscribers, plugs Thursday Patreon stream (Batman: Caped Crusader + Vince McMahon doc), shouts out Dank Sauce for call screens, raids Gina Darling."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors the call-in show 'Call Kass' and announces his engagement to Ashley live on air.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Appears in-studio to discuss wedding ring preferences and future family planning.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "recurring",
+      "notes": "recurring. Briefly checks audio quality from the control room during the Discord call setup.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Engaged to Ashley; proposal occurred Saturday before broadcast during family lunch with both families present.",
+      "timestamp": "[08:58]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Ring designer complicit in surprise, delayed delivery for weeks to preserve proposal moment.",
+      "timestamp": "[36:25]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Mother interrupted proposal twice; Case had to ask 'are you finished?' mid-speech.",
+      "timestamp": "[1:12:38]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Insists on open bar at wedding; Kendelle open to one child (up from zero).",
+      "timestamp": "[28:28]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Open to one child (up from zero).",
+      "timestamp": "[1:43:54]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Club 33 Disneyland membership cited as exclusive dining with decades-long waitlist and resale spots for tens of thousands.",
+      "timestamp": "[1:45:19]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Patreon episode Thursday to watch Batman: Caped Crusader and Vince McMahon documentary.",
+      "timestamp": "[1:47:32]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell uses the 'Call Kass' call-in show to announce his engagement to Ashley, recounting the surprise proposal executed during a staged family lunch. The broadcast fields calls from community regulars covering wedding advice, the second Trump assassination attempt, Diddy's arrest, and Laura Loomer's transformation, before wrapping with Patreon plugs and a raid on Gina Darling.",
+  "_meta": {
+    "vod_id": "fHnMjljKZgc",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 111007,
+    "approx_prompt_tokens": 27751,
+    "transcript_lines": 276
+  }
+}

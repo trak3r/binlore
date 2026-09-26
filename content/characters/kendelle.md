@@ -53,14 +53,15 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-17|2025-06-17]] | In-Studio Contributor. |
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
+| [[episodes/2024-09-17|2024-09-17]] | in-studio contributor. |
 | [[episodes/2024-09-13|2024-09-13]] | in-studio contributor. |
-| [[episodes/2024-09-12|2024-09-12]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (77)</summary>
+<summary>Earlier appearances (78)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-09-12|2024-09-12]] | in-studio contributor. |
 | [[episodes/2024-09-11|2024-09-11]] | in-studio contributor. |
 | [[episodes/2024-08-27|2024-08-27]] | in-studio contributor. |
 | [[episodes/2024-08-22|2024-08-22]] | in-studio contributor. |
@@ -188,3 +189,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[[22:28]]** ([[episodes/2024-08-13|2024-08-13]]): Has a girlfriend who accompanied her to the studio.
 - **[[23:10]]** ([[episodes/2024-08-13|2024-08-13]]): Uses her brother's Netflix account for streaming.
 - **[[02:14:31]]** ([[episodes/2024-09-11|2024-09-11]]): Reports Bachelorette contestant Devin broke engagement via phone; ex-fiancé leaked explicit texts including 'can't wait for your mouth to be on my titties.'
+- **[[1:43:54]]** ([[episodes/2024-09-17|2024-09-17]]): Open to one child (up from zero).
