@@ -1,0 +1,79 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Cold Open & Elden Ring: Shadow of the Erdtree Gameplay",
+      "start": "00:04",
+      "end": "03:52:17",
+      "notes": "Pepito delivers station sign-on at 00:04; Case Blackwell plays Elden Ring expansion solo for remainder of broadcast, progressing through Abyssal Woods, Fort of Reprimand, and Midra's Manse, defeating Inquisitor and Midra (Lord of Frenzied Flame). No traditional news desk segments aired."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored a solo Elden Ring: Shadow of the Erdtree gameplay stream, defeating multiple bosses and discussing upcoming network projects.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered the cold open station sign-on at top of broadcast before handing off to Case.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Briefly appeared on stream around 13:00, freestyling and commenting on Case's gameplay before departing.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Referenced at 39:32 as having taken a nap while Case played; not physically on-air.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Case Blackwell and Cass are developing a call-in show format (referred to as 'Colin show' and 'Colin Hanks show') with remote guest appearances planned.",
+      "timestamp": "[06:23]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case Blackwell references a 'murder mystery' production concept involving G4 alumni that requires rented space and significant budget.",
+      "timestamp": "[02:27:45]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case Blackwell mentions a 'Be Grendel' project that was partially completed but stalled due to solo workload and logistics.",
+      "timestamp": "[02:24:56]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell hosted a solo Elden Ring: Shadow of the Erdtree gameplay broadcast, progressing through the Abyssal Woods and Midra's Manse while defeating the Inquisitor and Midra, Lord of Frenzied Flame. Pepito delivered the cold open; Hype Train briefly interrupted. Case discussed upcoming network projects including a remote call-in show format and a stalled murder mystery production.",
+  "_meta": {
+    "vod_id": "ERbUT-4d78k",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 124453,
+    "approx_prompt_tokens": 31113,
+    "transcript_lines": 348
+  }
+}
