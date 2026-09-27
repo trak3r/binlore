@@ -58,7 +58,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (89)</summary>
+<summary>Earlier appearances (90)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -73,6 +73,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-06-02|2025-06-02]] | debate analyst. |
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
+| [[episodes/2025-02-03|2025-02-03]] | Owes $174,000 to mechanical gorilla with weekly interest, lost debate, paid Munch $5,000, accountant is howler monkey mayor of Rennerton. |
 | [[episodes/2025-01-29|2025-01-29]] | debate analyst. |
 | [[episodes/2025-01-24|2025-01-24]] | debate analyst. |
 | [[episodes/2025-01-14|2025-01-14]] | debate analyst. |

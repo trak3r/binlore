@@ -49,6 +49,7 @@ Grandma frequently drifts into reminiscences of her deceased husband. Rather tha
 | [[episodes/2026-07-17|2026-07-17]] | Munch declared Grandma 'the most fully formed idea' on the stream and 'a colleague and a scholar,' claiming she holds a doctorate in chemistry from Yale. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
 | [[episodes/2025-06-02|2025-06-02]] | Jambalaya panelist. |
+| [[episodes/2025-02-03|2025-02-03]] | Participated in Jambalaya, claimed responsibility for Kanye outfit, mentioned horny grandson Tyson. |
 | [[episodes/2025-01-31|2025-01-31]] | therapy patient. |
 | [[episodes/2025-01-29|2025-01-29]] | Jambalaya panelist. |
 | [[episodes/2024-09-20|2024-09-20]] | Jambalaya panelist. |

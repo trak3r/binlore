@@ -1,0 +1,256 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "Hype Train",
+      "title": "Cold Open & Sub Goal Freestyle",
+      "start": "00:06",
+      "end": "18:28",
+      "notes": "Pepito delivers sign-on as Papita; Hype Train runs sub goal freestyle, debates Hamtaro stream and workout stream goals, discusses new part-time job."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Grammy Coverage: Kanye, Bianca, Drake",
+      "start": "18:28",
+      "end": "36:55",
+      "notes": "Case and Garf cover Bianca Sensori's nude red carpet appearance, Kanye's behavior, crowd chanting 'A minor' at Drake, Jaden Smith's castle headpiece."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Legal Consult: Little Tommy Bigg Law",
+      "start": "37:28",
+      "end": "42:20",
+      "notes": "Little Tommy Bigg Law rules Bianca's sheer dress not nude since 'can't get to the ba-ba,' but vagina exposure warrants two days no applesauce; invoices $70,000."
+    },
+    {
+      "canonical_segment": "Trent at the Movies",
+      "title": "Trent at the Movies: Trailers & Willie Dynamite",
+      "start": "43:00",
+      "end": "57:18",
+      "notes": "Trent and parole officer Chris review Drake dance teaser, 1974 Willie Dynamite trailer, cult-like 'Reward of Cherishment' game trailer, Final Destination Bloodlines."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Tariff Delays & Elon Musk Treasury Access",
+      "start": "58:04",
+      "end": "1:11:56",
+      "notes": "Case covers Trump pausing Mexico/Canada tariffs for 30 days, Trudeau border deal, Ontario pulling US booze/Starlink, Schumer on Musk Treasury access, privatization fears."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "title": "Red Carpet Fashion Debate & Gorilla Debt",
+      "start": "1:12:17",
+      "end": "1:20:18",
+      "notes": "Munch and Crum debate Grammy fashion; Crum owes $174k to mechanical gorilla with weekly interest, Munch pays $5k per win, Crum's accountant is a howler monkey."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "title": "Throat Singing & Gentleman Lessons",
+      "start": "1:20:18",
+      "end": "1:34:57",
+      "notes": "Jeb and dead father in wood follow throat-singing DVD (Carlton/Batman), Jeb shreds vocal cords; gentleman VHS includes Gentleman Pirate Steve Bonnet 1717 lore."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Video Review: Wrestling, Dating, Pool Tricks, Wood Chopping",
+      "start": "1:34:57",
+      "end": "1:48:09",
+      "notes": "Case, Little Tommy, Kendall watch wrestling spot, 90s dating show, impossible pocket billiards, hyper-masculine wood-chopping manifesto."
+    },
+    {
+      "canonical_segment": "Jambalaya",
+      "title": "Who Made Kanye's Outfit?",
+      "start": "1:48:09",
+      "end": "2:05:15",
+      "notes": "Chat interrogates Liliana, Grandma Crumble Bottom, Tyler, and Chat; Grandma claims responsibility, Tyler praises 'sleek vagina,' Chat fully bricked."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid",
+      "start": "2:05:15",
+      "end": "2:08:56",
+      "notes": "Case wraps, argues with John Madison, raids Dylan, credits John for sandwich stream idea."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "notes": "Anchored broadcast covering Grammy nudity and tariff delays, hosted Jambalaya game, argued with John Madison during sign-off.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "notes": "Delivered cold open as Papita, managed Hype Train sub goals, revealed five part-time jobs and new workout stream sub goal.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "notes": "Ran freestyle sub goal segment, demanded Hamtaro stream, discussed workout stream and LA beats.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Garf",
+      "notes": "Called in as Grammy correspondent claiming to be 'artist artist' inspiration, described nude red carpet moment.",
+      "canonical_name": "Garf",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Little Tommy Bigg Law",
+      "notes": "Ruled Bianca's sheer dress legally clothed but vagina exposure illegal, sentenced two days no applesauce, billed $70,000.",
+      "canonical_name": "Little Tommy Bigg Law",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "notes": "Hosted Trent at the Movies with parole officer Chris, reviewed trailers including Final Destination Bloodlines.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "notes": "Appeared as Trent's parole officer during movie segment, enforced language standards.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "notes": "Won red carpet fashion debate, collected $5,000 toward Crum's gorilla debt, mocked Crum's decaying appearance.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "notes": "Owes $174,000 to mechanical gorilla with weekly interest, lost debate, paid Munch $5,000, accountant is howler monkey mayor of Rennerton.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "notes": "Hosted How To with dead father in wood, attempted throat singing from DVD, shredded vocal cords.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "notes": "Bickered from wooden board, criticized Jeb's gentleman credentials, cited Gentleman Pirate Steve Bonnet 1717.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "notes": "Briefly appeared during How To segment, discussed football and cold pillows with Jeb.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "notes": "Participated in Jambalaya, criticized Kanye outfit as desperate human-trafficking vibes with too-low neckline.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Grandma Crumble Bottom",
+      "notes": "Participated in Jambalaya, claimed responsibility for Kanye outfit, mentioned horny grandson Tyson.",
+      "canonical_name": "Grandma Crumble Bottom",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Tyler",
+      "notes": "Participated in Jambalaya, praised 'sleek vagina' fashion, discussed Russian doll nude body theory.",
+      "canonical_name": "Tyler",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[1:12:17] Munch & Crum debate reveals Crum's debt at $174,000 to mechanical gorilla with weekly interest; Munch paying $5,000 per debate win, Crum's accountant is a howler monkey.",
+      "timestamp": "1:12:17"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Pepito started a new part-time job, now holds five part-time jobs total.",
+      "timestamp": "[11:14]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Pepito set workout stream sub goal at 24 subscriptions.",
+      "timestamp": "[12:33]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum owes $174,000 to mechanical gorilla with weekly interest accrual.",
+      "timestamp": "[1:12:17]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Munch pays Crum $5,000 per debate win as 'victory celebration' toward gorilla debt.",
+      "timestamp": "[1:13:21]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum's accountant is a howler monkey, the smartest person left in Rennerton.",
+      "timestamp": "[1:17:44]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Little Tommy Bigg Law's rate is $5,000 per five minutes; billed $70,000 for approximately seven minutes.",
+      "timestamp": "[41:37]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jeb's Dad cites Steve Bonnet (Gentleman Pirate) who abandoned family in 1717 to become pirate.",
+      "timestamp": "[1:31:59]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchored a Grammy-heavy broadcast covering Bianca Sensori's nude red carpet appearance and the Drake-Kendrick fallout, before pivoting to Trump's 30-day tariff pauses on Mexico and Canada. The studio descended into chaos as Munch collected another $5,000 toward Crum's $174,000 gorilla debt, Jeb Nogget shredded his vocal cords learning throat singing, and Jambalaya concluded with Grandma Crumble Bottom claiming authorship of Kanye's controversial outfit.",
+  "_meta": {
+    "vod_id": "KQgNM3Uwe_U",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 109477,
+    "approx_prompt_tokens": 27369,
+    "transcript_lines": 296
+  }
+}
