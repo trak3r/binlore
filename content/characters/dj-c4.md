@@ -4,7 +4,7 @@ type: character
 aliases:
 - DJC4
 - C4
-first_seen: 2025-05-30
+first_seen: 2025-01-29
 status: recurring
 tags:
 - character
@@ -50,6 +50,7 @@ Unlike conventional broadcast audio engineers, DJ C4 constructs songs collaborat
 | [[episodes/2025-06-13|2025-06-13]] | musical producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Musical Producer. |
 | [[episodes/2025-05-30|2025-05-30]] | musical producer. |
+| [[episodes/2025-01-29|2025-01-29]] | musical producer. |
 
 ## Notable Quotes
 

@@ -53,14 +53,15 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-17|2025-06-17]] | In-Studio Contributor. |
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
+| [[episodes/2025-01-29|2025-01-29]] | in-studio contributor. |
 | [[episodes/2025-01-27|2025-01-27]] | In-Studio Contributor. |
-| [[episodes/2025-01-24|2025-01-24]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (101)</summary>
+<summary>Earlier appearances (102)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-01-24|2025-01-24]] | in-studio contributor. |
 | [[episodes/2025-01-22|2025-01-22]] | in-studio contributor. |
 | [[episodes/2025-01-20|2025-01-20]] | in-studio contributor. |
 | [[episodes/2025-01-17|2025-01-17]] | in-studio contributor. |
@@ -219,3 +220,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[01:15:55]** ([[episodes/2025-01-06|2025-01-06]]): Pushed for adopting both bonded cats; fed/trapped cats during dishwasher installation; has video of handling Ms. Zorro on Instagram.
 - **[02:06:52]** ([[episodes/2025-01-15|2025-01-15]]): Still has unpacked boxes; sex toys under lock and key in dustiest cabinet; Puffy Bear not yet rescued. [02:06:52]
 - **[29:26]** ([[episodes/2025-01-17|2025-01-17]]): [29:26] Kendall mad at Case all day over a dream where he left her at a 'sexy VIP section' rave with their cats for 20 friends.
+- **[]** ([[episodes/2025-01-29|2025-01-29]]): Freelance video editor and cooperative gaming partner (Marvel Rivals); co-host for joint podcast/self-improvement projects. [11:19]

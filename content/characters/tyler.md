@@ -23,6 +23,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-01-29|2025-01-29]] | Jambalaya panelist. |
 | [[episodes/2025-01-22|2025-01-22]] | Joins as guest co-host for Amongst the Web and the drinkable mayo segment, later reveals his brother Kyler on camera. |
 | [[episodes/2025-01-15|2025-01-15]] | in-studio contributor. |
 | [[episodes/2024-11-06|2024-11-06]] | call-in guest. |

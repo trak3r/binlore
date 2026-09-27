@@ -182,3 +182,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[[11:13]]** ([[episodes/2025-01-20|2025-01-20]]): Notes the cat cam was accidentally left on during the broadcast.
 - **[[21:47]]** ([[episodes/2025-01-20|2025-01-20]]): Identifies Lex Fridman in attendance at the inauguration, noting weight loss and hair gain.
 - **[[26:47]]** ([[episodes/2025-01-20|2025-01-20]]): Comments on JD Vance's mother attending after Vance 'called her like a crack addict for 30 years to make his career.'
+- **[]** ([[episodes/2025-01-29|2025-01-29]]): Picked up part-time job Mon/Wed/Fri mornings, moving stream start to 12:30-1:30pm. [09:37]
+- **[]** ([[episodes/2025-01-29|2025-01-29]]): Confirmed for Sunday dinner date with Kendall. [10:58]

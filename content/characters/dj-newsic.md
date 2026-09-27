@@ -48,6 +48,7 @@ His signature broadcast mission is "singing the news"—specifically fast-tracki
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of raid, not actively speaking. |
 | [[episodes/2026-06-05|2026-06-05]] | Auto-tuned music host who delivers the signature closing news recap with heavy techno production. |
 | [[episodes/2025-09-21|2025-09-21]] | musical finale host. |
+| [[episodes/2025-01-29|2025-01-29]] | musical correspondent. |
 | [[episodes/2025-01-06|2025-01-06]] | musical finale host. |
 | [[episodes/2024-11-06|2024-11-06]] | musical finale host. |
 | [[episodes/2024-09-20|2024-09-20]] | musical news correspondent. |
@@ -62,13 +63,13 @@ His signature broadcast mission is "singing the news"—specifically fast-tracki
 | [[episodes/2024-01-19|2024-01-19]] | musical correspondent. |
 | [[episodes/2024-01-05|2024-01-05]] | musical finale host. |
 | [[episodes/2023-12-31|2023-12-31]] | musical finale host. |
-| [[episodes/2023-12-21|2023-12-21]] | musical finale host. |
 
 <details>
-<summary>Earlier appearances (1)</summary>
+<summary>Earlier appearances (2)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2023-12-21|2023-12-21]] | musical finale host. |
 | [[episodes/2023-12-12|2023-12-12]] | musical correspondent. |
 
 </details>
@@ -89,3 +90,4 @@ See also: [[../segments/dj-newsic|DJ Newsic (Segment)]], [[characters/dj-c4|DJ C
 ## Notable moments
 
 - **[02:02:08]** ([[episodes/2024-01-05|2024-01-05]]): [02:02:08] Debuts Kirby the Ninja Turtle character who endorses Splinter for president and all Supreme Court seats.
+- **[]** ([[episodes/2025-01-29|2025-01-29]]): Auto-tune broken during finale, performing raw unfiltered vocals. [02:27:05]

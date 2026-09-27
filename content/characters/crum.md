@@ -58,7 +58,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (88)</summary>
+<summary>Earlier appearances (89)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -73,6 +73,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-06-02|2025-06-02]] | debate analyst. |
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
+| [[episodes/2025-01-29|2025-01-29]] | debate analyst. |
 | [[episodes/2025-01-24|2025-01-24]] | debate analyst. |
 | [[episodes/2025-01-14|2025-01-14]] | debate analyst. |
 | [[episodes/2025-01-06|2025-01-06]] | debate analyst. |
@@ -279,3 +280,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[]** ([[episodes/2024-10-13|2024-10-13]]): Crum confirms marriage to Belulia and claims Krav Maga/Tai Chi training [02:12:58]
 - **[[01:24:24]]** ([[episodes/2024-10-30|2024-10-30]]): Allegedly owes Munch $9,000 from the 24-hour stream, now compounded to $90,000 with shark-loan interest.
 - **[01:39:40]** ([[episodes/2025-01-06|2025-01-06]]): Gambling spiral reached $180k liability to Gorilla/ChetAI in single Amongst the Web session; side bet would pay Munch $4k then $180k.
+- **[]** ([[episodes/2025-01-29|2025-01-29]]): Owes $180,000 to piano-playing gorilla; claims farts are quiet but smell bad. [01:48:39, 01:49:47]

@@ -81,6 +81,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2025-01-14|2025-01-14]] [51:48] | Crum's $180,000 debt to the Rock-afire gorilla referenced during Munch & Crum; Munch offers to discuss investment terms. |
 | [[../episodes/2025-01-17|2025-01-17]] [01:17:09] | [01:17:09] Crum's gambling debt to the mechanical gorilla referenced: Crum owes dangerous people, Munch offered $180k if Crum gives him 'exactly what he wants' (terms unclear). |
 | [[../episodes/2025-01-24|2025-01-24]] [02:27:16] | Crum's debt to Rock-afire gorilla stands at $179K after $1K payment; Munch's $5K-per-win deal creates 36-loss payoff path; Crum admits ages 'could line up' for Logan Paul paternity. |
+| [[../episodes/2025-01-29|2025-01-29]] | Crum's $180k debt to piano-playing gorilla referenced repeatedly; Munch claims 2% paid off and that Trump issued executive order banning Crum from forming super PACs; Crum insists he's 'good for the money' in a couple months. [01:49:47, 01:58:52, 01:59:38] |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |
