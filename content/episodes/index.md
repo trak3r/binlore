@@ -22,11 +22,11 @@ Complete stream archive tracked for *Barely Informed News*. Episodes are ingeste
     <div class="stat-label">Total Broadcast Lore</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">249</div>
+    <div class="stat-value">250</div>
     <div class="stat-label">Ingested & Extracted</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">127</div>
+    <div class="stat-value">126</div>
     <div class="stat-label">Pending Ingestion Backlog</div>
   </div>
 </div>
@@ -44,8 +44,8 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   <div class="filter-group">
     <select id="status-filter">
       <option value="all">All Statuses (376)</option>
-      <option value="ingested">Ingested Only (249)</option>
-      <option value="backlog">Backlog Only (127)</option>
+      <option value="ingested">Ingested Only (250)</option>
+      <option value="backlog">Backlog Only (126)</option>
     </select>
     <select id="page-size">
       <option value="25">25 per page</option>
@@ -247,7 +247,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
 <tr data-status="backlog" data-title="toilet news, from deportations to eggs" data-date="2025-04-14" data-vod-id="yogchkthssy" style="display: none;"><td class="cell-date"><code>2025-04-14</code></td><td class="cell-title">Toilet News, from Deportations to Eggs</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">yogcHKthSsY</code></td><td class="cell-dur">2:29:11</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=yogcHKthSsY" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="deportation nation, herpes gum, and returning dogs, it's (n)ews" data-date="2025-04-11" data-vod-id="isnv40cd_1q" style="display: none;"><td class="cell-date"><code>2025-04-11</code></td><td class="cell-title">Deportation Nation, Herpes Gum, and Returning Dogs, it's (N)EWS</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">ISNv40CD_1Q</code></td><td class="cell-dur">2:35:01</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=ISNv40CD_1Q" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="normal news for the normal world" data-date="2025-04-10" data-vod-id="8io2lo8fxpe" style="display: none;"><td class="cell-date"><code>2025-04-10</code></td><td class="cell-title">Normal News for the Normal World</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">8io2lO8FXpE</code></td><td class="cell-dur">2:48:42</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=8io2lO8FXpE" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
-<tr data-status="backlog" data-title="repo madness" data-date="2025-04-05" data-vod-id="renj5savqly" style="display: none;"><td class="cell-date"><code>2025-04-05</code></td><td class="cell-title">Repo Madness</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">Renj5SaVQLY</code></td><td class="cell-dur">3:27:11</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=Renj5SaVQLY" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
+<tr data-status="ingested" data-title="repo madness" data-date="2025-04-05" data-vod-id="renj5savqly" style="display: none;"><td class="cell-date"><code>2025-04-05</code></td><td class="cell-title"><a href="./2025-04-05" class="internal"><strong>Repo Madness</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">Renj5SaVQLY</code></td><td class="cell-dur">3:27:11</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=Renj5SaVQLY" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="a fully liberated decline" data-date="2025-04-04" data-vod-id="2db6vkjxztk" style="display: none;"><td class="cell-date"><code>2025-04-04</code></td><td class="cell-title"><a href="./2025-04-04" class="internal"><strong>A Fully Liberated Decline</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">2Db6vKJxZTk</code></td><td class="cell-dur">2:43:06</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=2Db6vKJxZTk" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="repo mens 2" data-date="2025-04-03" data-vod-id="sn3u0466bdc" style="display: none;"><td class="cell-date"><code>2025-04-03</code></td><td class="cell-title"><a href="./2025-04-03" class="internal"><strong>REPO Mens 2</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">sN3u0466Bdc</code></td><td class="cell-dur">3:48:10</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=sN3u0466Bdc" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="the news icestravaganza!" data-date="2025-03-31" data-vod-id="rqfzigrpgf8" style="display: none;"><td class="cell-date"><code>2025-03-31</code></td><td class="cell-title"><a href="./2025-03-31" class="internal"><strong>The News Icestravaganza!</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">rqFZIgRPgf8</code></td><td class="cell-dur">3:26:21</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=rqFZIgRPgf8" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>

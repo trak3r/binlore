@@ -189,3 +189,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[]** ([[episodes/2025-03-31|2025-03-31]]): Case Blackwell completed 40 ice face dunks in a single broadcast (25 seconds each, lemon slices, later cold foam creamer). [03:14:36]
 - **[]** ([[episodes/2025-03-31|2025-03-31]]): Case Blackwell drank a shot glass of his own face water (cream, lemon, face oils) at broadcast end. [03:21:41]
 - **[]** ([[episodes/2025-04-03|2025-04-03]]): Case's streaming PC was built by T-Pain and T-Pain's friend for a TV show that never aired; it is two years old and unreliable. [01:23:38]
+- **[1:45:44]** ([[episodes/2025-04-05|2025-04-05]]): Reports his custom-built workstation is severely flawed, citing overheating and driver issues. [1:45:44]
