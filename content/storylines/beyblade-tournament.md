@@ -66,6 +66,7 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 | [[../episodes/2024-11-26|2024-11-26]] | Case mentions 'eight hour crumb stream soon' at 01:06:39, referencing pending community-pledge tournament execution. |
 | [[../episodes/2025-01-06|2025-01-06]] [02:08:19] | [02:08:19] Case mentions needing new sub badges, hype train track, Pepito track for 2025; community pledges Beyblade tournament remains pending. |
 | [[../episodes/2025-02-08|2025-02-08]] [02:50:49] | Case promises a Hamtaro stream next week and mentions slow progress on sub goals toward a workout stream. [02:50:49] |
+| [[../episodes/2025-02-12|2025-02-12]] [01:18:29] | [01:18:29] Jeb suggests the full Tiger Moves self-defense DVD watch-through as a new sub goal, referencing the community-pledged Beyblade event. |
 | [[../episodes/2025-05-30|2025-05-30]] [39:25] | Munch references past Beyblade episodes during debate count banter. [39:25] |
 | [[../episodes/2025-06-02|2025-06-02]] [31:49] | [31:49] Case references pending Beyblade event possibly still 'inside the Papal Binclave'; no further advancement this episode. |
 | [[../episodes/2025-06-17|2025-06-17]] | [2025-06-17] Referenced as pending community-pledge event; no progress shown this episode. |

@@ -58,7 +58,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (92)</summary>
+<summary>Earlier appearances (93)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -73,6 +73,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-06-02|2025-06-02]] | debate analyst. |
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
+| [[episodes/2025-02-12|2025-02-12]] | debate analyst. |
 | [[episodes/2025-02-08|2025-02-08]] | debate analyst. |
 | [[episodes/2025-02-06|2025-02-06]] | debate analyst. |
 | [[episodes/2025-02-03|2025-02-03]] | Owes $174,000 to mechanical gorilla with weekly interest, lost debate, paid Munch $5,000, accountant is howler monkey mayor of Rennerton. |
@@ -287,3 +288,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[01:05:29]** ([[episodes/2025-02-06|2025-02-06]]): Crum is contractually obligated to deliver a monthly news segment.
 - **[]** ([[episodes/2025-02-08|2025-02-08]]): Gorilla creditor bit a metal guardrail in half in a parking structure. [01:39:55]
 - **[]** ([[episodes/2025-02-08|2025-02-08]]): Entered puberty at age seven with 'penis of a 14-year-old.' [01:48:48]
+- **[[01:35:38]]** ([[episodes/2025-02-12|2025-02-12]]): Gorilla gambling debt at $175-180k with daily interest accrual; owes 'substantial other gambling debts' per park ranger.

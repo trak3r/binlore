@@ -1,0 +1,242 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "07:50",
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour sign-on as executive producer, identifies as a dog, and banters with Case about unfinished audio tracks and Valentine's Day."
+    },
+    {
+      "start": "07:50",
+      "end": "28:52",
+      "canonical_segment": "News",
+      "title": "Trump-Musk Federal Workforce Cuts & AI Chatbot",
+      "notes": "Case and Rick discuss Trump's order for agencies to plan mass layoffs with Elon Musk's DOGE, the one-hire-per-four-departures rule, and a reported GSA AI chatbot to replace federal workers."
+    },
+    {
+      "start": "28:52",
+      "end": "52:54",
+      "canonical_segment": "Amongst the Web",
+      "title": "Internet Video Ratings: Nut Shots, Bird Jazz, and Sopranos",
+      "notes": "Case and Pepito rate viewer-submitted videos including a Channel 101 'kicked in the nuts' compilation, a bird enjoying jazz, a suggestive dance video cut early, a corgi talking, a dog-and-crow animation, and a Sopranos scene with Junior Soprano's hip fracture."
+    },
+    {
+      "start": "52:54",
+      "end": "01:08:18",
+      "canonical_segment": "News",
+      "title": "Kanye West Swastika Shirt & Fart Entrepreneur",
+      "notes": "Jeff Ripple covers Kanye's Yeezy site selling a swastika tee after a Super Bowl ad, then pivots to a Metro UK profile of a man earning $20k/year from custom fart videos on OnlyFans, detailing his process and clientele."
+    },
+    {
+      "start": "01:08:18",
+      "end": "01:27:30",
+      "canonical_segment": "How To with Jeb",
+      "title": "Tiger Moves, Cat Introduction & Valentine's Tips",
+      "notes": "Jeb and his father (trapped in a wooden board) watch a 1980s 'Tiger Moves' exercise tape, a Cats Protection UK guide on introducing a new cat (which Case allegedly followed), and a VideoJug Valentine's Day romance guide featuring a sibling pair that unnerves Jeb."
+    },
+    {
+      "start": "01:27:30",
+      "end": "01:34:32",
+      "canonical_segment": "News",
+      "title": "Domino's Pepperoni Perfume & Accent Guessing",
+      "notes": "Lily presents a Domino's limited-edition 'Eau de Passion' pepperoni perfume stunt with MAFS UK star Luke De Bono; chat guesses Lily's accent origin from five options, settling on the fictional 'Power Exchange.'"
+    },
+    {
+      "start": "01:34:32",
+      "end": "01:49:22",
+      "canonical_segment": "Munch & Crum",
+      "title": "Heathcliff Debate: DIC vs. Ruby Spears",
+      "notes": "Crum and Munch debate which 1980s Heathcliff cartoon is superior — DIC's 'alley cats' version with the slap theme song or Ruby Spears' narrator-driven intro — while Crum's $175-180k debt to the Rock-afire gorilla looms over the proceedings."
+    },
+    {
+      "start": "01:49:22",
+      "end": "01:59:26",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Spinal Cord Stimulation Restores Movement",
+      "notes": "ChetAI is summoned by the word 'science' and presents AP coverage of an implanted spinal cord stimulator helping three people with spinal muscular atrophy and stroke regain arm/hand function, including a woman cutting steak for the first time in years."
+    },
+    {
+      "start": "01:59:26",
+      "end": "02:15:32",
+      "canonical_segment": "Trip on the Street",
+      "title": "Park Interviews: Bush Trimming, Blackmail & Sasquatch War",
+      "notes": "Trip Bradstein interviews park denizens: a man offering to trim Trip's bush, a blackmailer claiming Trip killed someone at McDonald's demanding 7,000 Trump Coin, a park ranger confirming Crum's gorilla debt, Mountain Man Mark on the Sasquatch-UFO-ghost war in the Cascades, a raccoon-person trying to move into Trip's bush, and a critic of Sarah Huckabee Sanders' curtain-dresses."
+    },
+    {
+      "start": "02:15:32",
+      "end": "02:17:21",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Schedule Announcement",
+      "notes": "Case wraps the broadcast, announces a target Monday/Wednesday/Friday 4 PM schedule around a new part-time job, mentions a bakery stream tomorrow, and sends viewers to Ricky Peacock."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the full broadcast, managed segment transitions, and announced a new MWF 4 PM streaming schedule around a part-time job.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on, managed audio tracks, participated in Amongst the Web ratings, and bantered about Valentine's Day.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "host of Amongst the Web",
+      "notes": "host of Amongst the Web. Co-hosted the news desk for the Trump/Musk federal cuts segment, debated AI chatbot utility, and reacted to GSA AI story.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Presented human-interest desk covering Kanye West's swastika shirt controversy and a man earning $20k/year from custom fart videos.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosted How To with Jeb from his workshop with his father trapped in a wooden board; watched Tiger Moves, cat intro, and Valentine's guides.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "co-host (deceased)",
+      "notes": "co-host (deceased). Spirit trapped in a wooden board; bickered with Jeb, attempted throat singing, and dismissed Tiger Moves as a lost 1940s body type.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Briefly walked through the studio during How To with Jeb; Case attempted to demonstrate orangutan touch on her.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Lily",
+      "role": "desk partner",
+      "notes": "desk partner. Anchored a news segment on Domino's pepperoni perfume; ran an accent-origin guessing game with chat (Power Exchange).",
+      "canonical_name": "Lily",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued for DIC Heathcliff in the cartoon debate; gorilla gambling debt cited at $175-180k with daily interest accrual.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued for Ruby Spears Heathcliff; mocked Crum's gorilla debt and sandbagging, won channel-points poll decisively.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "science co-host",
+      "notes": "science co-host. Summoned by 'science' trigger; presented spinal cord stimulation research for muscle-wasting diseases and stroke paralysis.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted man-on-the-street interviews from park bushes; referenced tiger moves/1940s body, faced blackmail and bush-trimmer encounters.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:35:38] Crum's debt to the Rock-afire gorilla stated at $175-180k with daily interest; Munch mocks Crum's sandbagging in debates due to financial pressure.",
+      "timestamp": "01:35:38"
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[01:18:29] Jeb suggests the full Tiger Moves self-defense DVD watch-through as a new sub goal, referencing the community-pledged Beyblade event.",
+      "timestamp": "01:18:29"
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "[01:45:52] Crum mentions wife will leave him over gorilla debt; park ranger later confirms Crum's $180k debt and 'substantial other gambling debts.'",
+      "timestamp": "01:45:52"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum",
+      "fact": "Gorilla gambling debt at $175-180k with daily interest accrual; owes 'substantial other gambling debts' per park ranger.",
+      "timestamp": "[01:35:38]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "ChetAI",
+      "fact": "Summoned automatically when the word 'science' is spoken on air; presents peer-reviewed medical research with emotional reactivity.",
+      "timestamp": "[01:49:22]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trip Bradstein",
+      "fact": "Claims to practice 'tiger moves' and possess a 1940s-style flat-chest body built for pulling/pushing; references tiger strength in confrontations.",
+      "timestamp": "[02:05:05]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Lily",
+      "fact": "Accent originates from fictional country 'Power Exchange'; pronunciation differs in 'mother tongue' vs. English.",
+      "timestamp": "[01:30:13]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb's Dad",
+      "fact": "Spirit permanently trapped inside a wooden board in Jeb's workshop; co-hosts How To with Jeb via the board.",
+      "timestamp": "[01:08:18]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered Trump and Musk's federal workforce reduction orders and a GSA AI chatbot initiative, then pivoted to viewer-rated internet videos including a fart-content entrepreneur earning $20k monthly. Jeb Nogget and his board-trapped father reviewed vintage exercise tapes and Valentine's guides, Lily debuted Domino's pepperoni perfume while chat guessed her fictional accent origin, and Crum and Munch debated 1980s Heathcliff cartoons under the shadow of Crum's six-figure gorilla debt. ChetAI presented breakthrough spinal cord stimulation research restoring movement to paralyzed patients, and Trip Bradstein conducted surreal park interviews involving bush trimming, Trump Coin blackmail, and a Sasquatch-UFO-ghost war.",
+  "_meta": {
+    "vod_id": "zfeR83pG4xg",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 114515,
+    "approx_prompt_tokens": 28628,
+    "transcript_lines": 229
+  }
+}

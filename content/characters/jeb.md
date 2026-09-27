@@ -53,6 +53,7 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2025-09-15|2025-09-15]] | How To host. |
 | [[episodes/2025-07-01|2025-07-01]] | instructional host. |
 | [[episodes/2025-06-19|2025-06-19]] | instructional host. |
+| [[episodes/2025-02-12|2025-02-12]] | instructional host. |
 | [[episodes/2025-02-08|2025-02-08]] | instructional host. |
 | [[episodes/2025-02-06|2025-02-06]] | instructional host. |
 | [[episodes/2025-02-03|2025-02-03]] | Hosted How To with dead father in wood, attempted throat singing from DVD, shredded vocal cords. |
@@ -66,13 +67,13 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2024-10-30|2024-10-30]] | instructional host. |
 | [[episodes/2024-09-25|2024-09-25]] | Woodshop host attempts Venture Brothers drinks, watches iron crotch kung fu, demonstrates carpsicle, and summons demon while bickering with… |
 | [[episodes/2024-09-20|2024-09-20]] | How To host / kitchen correspondent. |
-| [[episodes/2024-09-18|2024-09-18]] | How To host. |
 
 <details>
-<summary>Earlier appearances (13)</summary>
+<summary>Earlier appearances (14)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-09-18|2024-09-18]] | How To host. |
 | [[episodes/2024-09-13|2024-09-13]] | instructional host. |
 | [[episodes/2024-08-22|2024-08-22]] | instructional host. |
 | [[episodes/2024-08-14|2024-08-14]] | How To host. |
