@@ -1,0 +1,178 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "08:29",
+      "canonical_segment": "News",
+      "title": "Station Sign-On & Cold Open",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on as a dog; Case joins late citing business meetings; pregnancy hallucination banter ensues."
+    },
+    {
+      "start": "08:29",
+      "end": "45:08",
+      "canonical_segment": "News",
+      "title": "Trump Executive Orders: Trans Athlete Ban & Gaza Ownership",
+      "notes": "Jeff Ripple joins Case at the desk to cover Trump's EO barring transgender athletes from women's sports (targeting ~10 NCAA athletes) and Trump's proposal for U.S. ownership of Gaza with permanent displacement of Palestinians; NCAA compliance, Marco Rubio's IOC pressure, and civil rights office realignment discussed."
+    },
+    {
+      "start": "45:08",
+      "end": "01:04:27",
+      "canonical_segment": "News",
+      "title": "Movie Trailer Roundtable: Fantastic Four, Jurassic World, The Visitor 1979",
+      "notes": "Case, Chris, and Kendelle watch and dissect trailers for The Fantastic Four: First Steps, Jurassic World Rebirth, and the 1979 Italian film The Visitor; SCTV turkey-stuffing sketch airs."
+    },
+    {
+      "start": "01:04:27",
+      "end": "01:08:27",
+      "canonical_segment": "News",
+      "title": "Crum's Monthly News: Google Gemini Gouda Error",
+      "notes": "Crum fulfills contractual monthly news obligation covering Google editing its Super Bowl ad to remove Gemini's false claim that Gouda constitutes 50–60% of global cheese consumption."
+    },
+    {
+      "start": "01:08:27",
+      "end": "01:13:33",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Derailment: Anti-Music Freestyle",
+      "notes": "Triggered by Uncle Phil 2K's bits; Hype Train abandons donor acknowledgments for a freestyle rap declaring music causes testicular cancer and demanding AI replace all music with Bitcoin."
+    },
+    {
+      "start": "01:13:33",
+      "end": "01:25:48",
+      "canonical_segment": "How To with Jeb",
+      "title": "Dance Facials, Turkey Stuffing & Chinese New Year Apps",
+      "notes": "Jeb and his wood-trapped father present a STEEZY dance facial tutorial, an SCTV Cruisin' Gourmet turkey-stuffing sketch, and a CNET tech minute on Chinese New Year apps."
+    },
+    {
+      "start": "01:25:48",
+      "end": "01:28:15",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid",
+      "notes": "Case wraps, announces Friday return 12:30–1:30 PM, plugs Patreon for Cast content, and raids Gina."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors truncated broadcast; covers Trump EOs and Gaza proposal; pivots to trailers and Crum/Jeb segments; announces schedule changes and Friday return.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open as a dog; fields pregnancy jokes; confirms Case's Hollywood producer status at sign-off.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Delivers hard news on Trump's trans athlete ban and Gaza ownership remarks; exits early citing bleakness.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Studio guest for trailer roundtable; debates Fantastic Four casting and Jurassic lore; confirms Kendall's viewing history.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Joins trailer discussion; picks Jurassic World Rebirth; chooses invisibility as preferred superpower; plugs Danny Plotz.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Appears for contracted monthly news segment on Google's AI cheese error; riffs on goat cheddar vs. Gouda.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Derails hype train into anti-music freestyle; claims music causes testicular cancer; demands AI replace music with Bitcoin.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosts How To with dance facial tutorial, turkey stuffing sketch, and Chinese New Year app roundup; bickers with wood-trapped father.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "deceased co-host",
+      "notes": "deceased co-host. Trapped in a single piece of wood; recalls death day for facial exercise; debates wood metaphysics with Jeb.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:04:27] Crum fulfills contractual monthly news obligation with a Google AI cheese error segment, no mention of gorilla wager or groin punch.",
+      "timestamp": "01:04:27"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "08:29",
+      "entity": "",
+      "fact": "Case's new job pushes stream end later; Monday night streams and Call Cast revival (spring/summer) under consideration.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:05:29",
+      "entity": "Crum",
+      "fact": "Crum is contractually obligated to deliver a monthly news segment.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:06:15",
+      "entity": "",
+      "fact": "Google edited its Super Bowl Gemini ad to remove the false statistic that Gouda makes up 50–60% of world cheese consumption.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:26:24",
+      "entity": "",
+      "fact": "Case will raid Gina (Miss Gina) and return Friday 12:30–1:30 PM for a longer broadcast.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a compressed broadcast covering Trump's executive order banning transgender athletes from women's sports and his proposal for U.S. ownership of Gaza, then pivots to a movie trailer roundtable with Chris and Kendelle. Crum fulfills a contractual monthly news segment on Google's AI cheese hallucination, Hype Train derails into an anti-music freestyle, and Jeb Nogget delivers a How To on dance facials and turkey stuffing before Case signs off to raid Gina.",
+  "_meta": {
+    "vod_id": "qDTjG6E4kjs",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 81818,
+    "approx_prompt_tokens": 20454,
+    "transcript_lines": 211
+  }
+}
