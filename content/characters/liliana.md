@@ -42,6 +42,7 @@ Liliana was absent from *Barely Informed News* for approximately a full year bef
 | [[episodes/2026-03-07|2026-03-07]] | Briefly appears during newsroom wrap-up; Case mentions her dedicated theme music. |
 | [[episodes/2025-06-19|2025-06-19]] | desk partner. |
 | [[episodes/2025-06-02|2025-06-02]] | in-studio contributor. |
+| [[episodes/2024-11-06|2024-11-06]] | desk partner. |
 | [[episodes/2024-10-23|2024-10-23]] | desk partner. |
 | [[episodes/2024-10-08|2024-10-08]] | desk partner. |
 | [[episodes/2024-09-20|2024-09-20]] | Jambalaya panelist. |
@@ -56,13 +57,13 @@ Liliana was absent from *Barely Informed News* for approximately a full year bef
 | [[episodes/2024-04-17|2024-04-17]] | desk partner. |
 | [[episodes/2024-04-10|2024-04-10]] | desk partner. |
 | [[episodes/2024-04-04|2024-04-04]] | desk partner. |
-| [[episodes/2024-03-18|2024-03-18]] | desk partner. |
 
 <details>
-<summary>Earlier appearances (7)</summary>
+<summary>Earlier appearances (8)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-03-18|2024-03-18]] | desk partner. |
 | [[episodes/2024-02-29|2024-02-29]] | desk partner. |
 | [[episodes/2024-02-16|2024-02-16]] | desk partner. |
 | [[episodes/2024-01-05|2024-01-05]] | desk partner. |

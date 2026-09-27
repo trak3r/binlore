@@ -1,0 +1,19 @@
+{
+  "vod_id": "WxVZ5zuziq8",
+  "title": "Binlection Night",
+  "url": "https://www.youtube.com/watch?v=WxVZ5zuziq8",
+  "duration_seconds": 11446,
+  "duration": "3:10:46",
+  "timestamp": 1730851200,
+  "aired_at": "2024-11-06T00:00:00+00:00",
+  "date": "2024-11-06",
+  "ingested_at": "2026-09-27T10:06:06.884262+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "WxVZ5zuziq8",
+  "yt_url": "https://www.youtube.com/watch?v=WxVZ5zuziq8",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2024-11-06"
+}

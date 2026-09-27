@@ -1,0 +1,286 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "05:52",
+      "canonical_segment": "News",
+      "title": "Election Night Opening & Early Calls",
+      "notes": "Case Blackwell anchors solo from the BIN newsroom, calling California for Harris via DIY graphic, reacting to live Google map fluctuations, and delivering the 'Skiantz of the Moment' before a science trigger."
+    },
+    {
+      "start": "05:52",
+      "end": "13:43",
+      "canonical_segment": "News",
+      "title": "Liliana Desk Check-In & Early Returns",
+      "notes": "Liliana joins Case at the desk to analyze early county-level data, discuss the Selzer poll miss in Iowa, and assess the 'flippy floppies' in Pennsylvania and Georgia."
+    },
+    {
+      "start": "13:43",
+      "end": "34:13",
+      "canonical_segment": "Amongst the Web",
+      "title": "Trailer Break: Air Force One, White House Down & One Million Dollar",
+      "notes": "Trent (on community service) joins Case to watch presidential-action-movie trailers and a mysterious Jason Momoa/Kassim comedy trailer titled 'One Million Dollar' filmed in 2022."
+    },
+    {
+      "start": "34:13",
+      "end": "44:43",
+      "canonical_segment": "News",
+      "title": "Kendall Map Deep-Dive & Gay Furry Comfort",
+      "notes": "Kendall appears for a satirical brain-zoom analysis of a Pennsylvania voter, delivers a 'never forget your tail' comfort line for gay furries, and makes a cryptic remark about children in China."
+    },
+    {
+      "start": "44:43",
+      "end": "55:43",
+      "canonical_segment": "News",
+      "title": "MSNBC Kornaki Cam & Twitter Doom Scroll",
+      "notes": "Case monitors the MSNBC live camera of Steve Kornacki, reads doomer tweets from a previously bullish pollster, and notes AP calling the first transgender House member."
+    },
+    {
+      "start": "55:43",
+      "end": "01:09:07",
+      "canonical_segment": "Amongst the Web",
+      "title": "Internet Video Palate Cleansers",
+      "notes": "Case airs a Simpsons 'Kang & Kodos' clip, a violent Tickle Me Elmo video, a 'Town Talk' parody trailer, and a 1991 kid-dancing video rated 8.93 by AP."
+    },
+    {
+      "start": "01:09:07",
+      "end": "01:28:12",
+      "canonical_segment": "News",
+      "title": "Map Vigil & JD Vance Impression",
+      "notes": "Case tracks tightening swing-state margins, performs a JD Vance impression debating himself about couch discourse, and confirms Virginia for Harris."
+    },
+    {
+      "start": "01:28:12",
+      "end": "01:45:23",
+      "canonical_segment": "News",
+      "title": "Minesweeper Tutorial & Neighbor Stalker Story",
+      "notes": "Kendall teaches Minesweeper to calm election nerves while recounting a year-long neighbor harassment saga involving moaning, mocking, and synchronized door openings."
+    },
+    {
+      "start": "01:45:23",
+      "end": "02:04:04",
+      "canonical_segment": "News",
+      "title": "Post-Midnight Analysis & CBS Coverage",
+      "notes": "Case delivers a monologue on Harris campaign missteps, watches CBS panel discussion on tariffs and deficit, and reflects on 2016/2020 parallels."
+    },
+    {
+      "start": "02:04:04",
+      "end": "02:18:50",
+      "canonical_segment": "How To with Jeb",
+      "title": "How To Build a Bunker (Leaky Edition)",
+      "notes": "Jeb Nogget reviews his own three-year-old bunker build, listing regrets: fried keypad, low headroom, water intrusion, missing secondary exit, and a leaky culvert pipe."
+    },
+    {
+      "start": "02:18:50",
+      "end": "02:48:22",
+      "canonical_segment": "News",
+      "title": "Final Swing-State Tally & AP Georgia Call",
+      "notes": "Case and Gina track Pennsylvania, Wisconsin, Michigan, Arizona, Nevada; AP calls Georgia for Trump; Gina suffers a dramatic nosebleed attributed to JD Vance."
+    },
+    {
+      "start": "02:48:22",
+      "end": "03:10:46",
+      "canonical_segment": "DJ Newsic",
+      "title": "Election Night Cipher & Sign-Off",
+      "notes": "DJ Newsic hosts a multi-guest rap cipher (Crum, DJ Newsic, Peter Gibbon, Rick, Tyler, Sammy) over shifting beats, ending with a state-by-state rap rundown and Case's final 'don't hit the panic button' sign-off."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "aliases": [
+        "Case"
+      ],
+      "notes": "Anchored the full 3-hour election night broadcast, called states via DIY graphics, performed a JD Vance impression, and closed with a 'don't hit the panic button' sign-off.",
+      "lore_notes": [],
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "aliases": [],
+      "notes": "desk partner. Joined Case for early returns analysis, discussed Selzer poll miss and Pennsylvania county dynamics.",
+      "lore_notes": [],
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "aliases": [
+        "Kendall",
+        "Kendelle McDonald",
+        "Kendall McDonald",
+        "Candy Lane"
+      ],
+      "notes": "in-studio contributor. Delivered satirical brain-zoom map analysis, comforted gay furries with 'never forget your tail', revealed neighbor stalker saga during Minesweeper tutorial.",
+      "lore_notes": [
+        "[01:36:02] Neighbor has harassed Kendall and Case for ~1.5 years, including moaning Case's name and appearing synchronously when Case leaves apartment."
+      ],
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "aliases": [
+        "Leonard Crum",
+        "Crumb",
+        "Leonard Crumb",
+        "Leonard Crumfuscious",
+        "Crumfuscious"
+      ],
+      "notes": "debate analyst. Participated in late-night debate segment and DJ Newsic cipher, claimed not to care about election outcome while drinking a single beer.",
+      "lore_notes": [],
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "aliases": [
+        "Ralph Munchcut",
+        "Munchcut",
+        "Munch"
+      ],
+      "notes": "debate analyst. Debated Crum in DC studio, won flash poll on 'who wears a suit better' (penguins), declared 'I feel like a winner' as results trended Trump.",
+      "lore_notes": [],
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "aliases": [
+        "Jeb",
+        "Jeb Noggin",
+        "Fake Jeb",
+        "Skin Suit Jeb"
+      ],
+      "notes": "instructional host. Hosted 'How To Build a Bunker' segment from his workshop, critiqued his own leaky culvert-pipe bunker with condensation and headroom issues.",
+      "lore_notes": [],
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "musical finale host",
+      "aliases": [
+        "Newsic",
+        "The Newsic Guy"
+      ],
+      "notes": "musical finale host. Hosted the election night cipher with rotating beats, performed state-by-state rap rundown, and closed the broadcast.",
+      "lore_notes": [],
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "aliases": [
+        "Peter G.",
+        "Peter"
+      ],
+      "notes": "news stowaway. Appeared in DJ Newsic cipher claiming rats in the walls predicted the election and 'called up to Peter G at the end of the freaking night'.",
+      "lore_notes": [],
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "Amongst the Web host",
+      "aliases": [
+        "Rick (Host of Amongst the Web)"
+      ],
+      "notes": "Amongst the Web host. Delivered a verse in DJ Newsic cipher asserting 'we were gonna make sure you were fucked either way' from inside the walls.",
+      "lore_notes": [],
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Tyler",
+      "role": "call-in guest",
+      "aliases": [],
+      "notes": "call-in guest. Rapped about voting for love, blood color physics, and 'don't stress everybody' during DJ Newsic cipher.",
+      "lore_notes": [],
+      "canonical_name": "Tyler",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Sammy",
+      "role": "call-in guest",
+      "aliases": [],
+      "notes": "call-in guest. Delivered angry parking-and-pajamas verse during DJ Newsic cipher, claimed wife made him clean pajamas after 'slammies'.",
+      "lore_notes": [],
+      "canonical_name": "Sammy",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Gina",
+      "role": "correspondent",
+      "aliases": [],
+      "notes": "correspondent. Suffered dramatic nosebleed ('squibs in her nose') while reporting swing-state updates, attributed reaction to seeing JD Vance.",
+      "lore_notes": [
+        "[02:43:05] Nosebleed triggered by JD Vance appearance; 'all the blood collects in her forehead and it must be released by the nose'."
+      ],
+      "canonical_name": "Gina",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "[01:36:02] Kendall reveals neighbor has harassed her and Case for ~1.5 years, including moaning Case's name through walls and appearing synchronously when Case exits apartment.",
+      "timestamp": "01:36:02",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "[02:04:58] Jeb Nogget's bunker built three years ago has condensation leaks, fried digital keypad, insufficient headroom, and no secondary exit.",
+      "timestamp": "02:04:58",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "[02:43:05] Gina's nosebleeds are a recurring physiological response to JD Vance appearances ('all the blood collects in her forehead and it must be released by the nose').",
+      "timestamp": "02:43:05",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News provided continuous election night coverage from the BIN newsroom and a remote DC debate studio, blending swing-state map vigilance with trailer breaks, a Minesweeper tutorial, a bunker-building retrospective, and a multi-guest rap cipher. As returns trended toward Trump in key battlegrounds, the broadcast oscillated between doomer analysis and absurdist comfort segments, culminating in DJ Newsic's state-by-state musical rundown and Case Blackwell's final admonition not to hit the panic button.",
+  "_meta": {
+    "vod_id": "WxVZ5zuziq8",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 161116,
+    "approx_prompt_tokens": 40279,
+    "transcript_lines": 445
+  }
+}
