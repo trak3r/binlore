@@ -50,7 +50,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (96)</summary>
+<summary>Earlier appearances (97)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -62,6 +62,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-02|2025-06-02]] | debate analyst. |
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
+| [[episodes/2025-04-11|2025-04-11]] | debate analyst. |
 | [[episodes/2025-03-31|2025-03-31]] | debate analyst. |
 | [[episodes/2025-03-21|2025-03-21]] | debate analyst. |
 | [[episodes/2025-03-19|2025-03-19]] | debate analyst. |
@@ -214,3 +215,4 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[[02:08:48]]** ([[episodes/2024-09-11|2024-09-11]]): Declares 'I fucking won that one' claiming personal debate victory; insists 'whenever I win America wins.'
 - **[02:26:01]** ([[episodes/2025-01-24|2025-01-24]]): Munch-Crum business arrangement: Munch pays Crum $5K per Munch debate win.
 - **[]** ([[episodes/2025-01-29|2025-01-29]]): Gives Crum $5,000 every time Munch wins a debate as 'celebration of financial freedom.' [01:49:21]
+- **[]** ([[episodes/2025-04-11|2025-04-11]]): Munch participates in annual Easter tradition as 'the egg' hiding in church bushes for up to 10 hours [01:40:13]

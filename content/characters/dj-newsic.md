@@ -48,6 +48,7 @@ His signature broadcast mission is "singing the news"—specifically fast-tracki
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of raid, not actively speaking. |
 | [[episodes/2026-06-05|2026-06-05]] | Auto-tuned music host who delivers the signature closing news recap with heavy techno production. |
 | [[episodes/2025-09-21|2025-09-21]] | musical finale host. |
+| [[episodes/2025-04-11|2025-04-11]] | musical host. |
 | [[episodes/2025-03-19|2025-03-19]] | musical correspondent. |
 | [[episodes/2025-02-28|2025-02-28]] | musical correspondent. |
 | [[episodes/2025-01-29|2025-01-29]] | musical correspondent. |
@@ -62,13 +63,13 @@ His signature broadcast mission is "singing the news"—specifically fast-tracki
 | [[episodes/2024-03-26|2024-03-26]] | musical producer. |
 | [[episodes/2024-02-27|2024-02-27]] | musical finale host. |
 | [[episodes/2024-02-09|2024-02-09]] | musical host. |
-| [[episodes/2024-01-19|2024-01-19]] | musical correspondent. |
 
 <details>
-<summary>Earlier appearances (4)</summary>
+<summary>Earlier appearances (5)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-01-19|2024-01-19]] | musical correspondent. |
 | [[episodes/2024-01-05|2024-01-05]] | musical finale host. |
 | [[episodes/2023-12-31|2023-12-31]] | musical finale host. |
 | [[episodes/2023-12-21|2023-12-21]] | musical finale host. |

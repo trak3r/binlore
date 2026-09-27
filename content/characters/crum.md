@@ -58,7 +58,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (102)</summary>
+<summary>Earlier appearances (103)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -73,6 +73,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-06-02|2025-06-02]] | debate analyst. |
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
+| [[episodes/2025-04-11|2025-04-11]] | debate analyst. |
 | [[episodes/2025-03-31|2025-03-31]] | debate analyst. |
 | [[episodes/2025-03-21|2025-03-21]] | debate analyst. |
 | [[episodes/2025-03-19|2025-03-19]] | debate analyst. |
@@ -302,3 +303,5 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[]** ([[episodes/2025-03-17|2025-03-17]]): Gambling debt to Rock-afire gorilla: $165,000 outstanding; $5,000 auto-paid per debate win; gorilla causing property damage (Kool-Aid Man style fence breaches) attracting neighborhood dogs. [1:59:03, 2:05:47, 2:06:11]
 - **[]** ([[episodes/2025-03-19|2025-03-19]]): Gorilla debt currently stands at $160,000; won $5,000 today defending Chimera Ants against Jiju Ants. [1:25:38]
 - **[01:46:07]** ([[episodes/2025-03-21|2025-03-21]]): Pays the Rock-afire gorilla approximately $10,000 per month; total ~$25,000 over three months. [01:46:07]
+- **[]** ([[episodes/2025-04-11|2025-04-11]]): Crum's gambling debt to animatronic gorilla stands at $150K with $5K per debate win repayment [01:31:42]
+- **[]** ([[episodes/2025-04-11|2025-04-11]]): Crum claims gambling stress is causing his skin to become dangerously soft [01:32:46]

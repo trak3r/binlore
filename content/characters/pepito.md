@@ -61,7 +61,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (79)</summary>
+<summary>Earlier appearances (80)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -72,6 +72,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
 | [[episodes/2025-06-02|2025-06-02]] | executive producer. |
+| [[episodes/2025-04-11|2025-04-11]] | executive producer. |
 | [[episodes/2025-04-10|2025-04-10]] | executive producer. |
 | [[episodes/2025-04-04|2025-04-04]] | executive producer. |
 | [[episodes/2025-03-17|2025-03-17]] | executive producer. |
@@ -242,3 +243,6 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[]** ([[episodes/2025-03-17|2025-03-17]]): Delivered cold open sign-on identifying as 'Papita, the dog that produces the show.' [00:06]
 - **[01:10:45]** ([[episodes/2025-04-04|2025-04-04]]): Bought lifetime supply of Jolt Cola in 1998; refuses to stop drinking expired cola; Mancini Smooth claims responsibility for addiction.
 - **[[09:36]]** ([[episodes/2025-04-10|2025-04-10]]): Birthday is April 16; is Case's cousin; Salazar referenced as former producer.
+- **[]** ([[episodes/2025-04-11|2025-04-11]]): Pepito was absent for over two months before this broadcast [12:30]
+- **[]** ([[episodes/2025-04-11|2025-04-11]]): Pepito donated $20,000 to Trump campaign during absence [19:44]
+- **[]** ([[episodes/2025-04-11|2025-04-11]]): Pepito hired Case's cousin Jayce as assistant with health insurance [21:19]

@@ -53,6 +53,7 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2025-09-15|2025-09-15]] | How To host. |
 | [[episodes/2025-07-01|2025-07-01]] | instructional host. |
 | [[episodes/2025-06-19|2025-06-19]] | instructional host. |
+| [[episodes/2025-04-11|2025-04-11]] | instructional host. |
 | [[episodes/2025-04-10|2025-04-10]] | instructional host. |
 | [[episodes/2025-03-31|2025-03-31]] | instructional host. |
 | [[episodes/2025-03-19|2025-03-19]] | instructional host. |
@@ -66,13 +67,13 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2025-01-27|2025-01-27]] | How To Host. |
 | [[episodes/2025-01-22|2025-01-22]] | field correspondent. |
 | [[episodes/2025-01-08|2025-01-08]] | Instructional Correspondent. |
-| [[episodes/2025-01-06|2025-01-06]] | instructional host. |
 
 <details>
-<summary>Earlier appearances (19)</summary>
+<summary>Earlier appearances (20)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-01-06|2025-01-06]] | instructional host. |
 | [[episodes/2024-11-26|2024-11-26]] | field correspondent. |
 | [[episodes/2024-11-06|2024-11-06]] | instructional host. |
 | [[episodes/2024-10-30|2024-10-30]] | instructional host. |
@@ -134,3 +135,4 @@ See also: [[../segments/how-to-with-jeb|How To with Jeb]], [[../characters/index
 - **[]** ([[episodes/2025-03-17|2025-03-17]]): Broadcasting as deceased 'ghost in the wood' after losing glasses; co-hosts with father's spirit trapped in wooden board. [1:38:42]
 - **[[02:27:43]]** ([[episodes/2025-04-10|2025-04-10]]): Father's ghost permanently trapped in a wooden board; co-hosts How To from woodshop.
 - **[[02:28:15]]** ([[episodes/2025-04-10|2025-04-10]]): Claims he once pulled his father out of a burning car that his father entered willingly.
+- **[]** ([[episodes/2025-04-11|2025-04-11]]): Jeb Nogget's whereabouts unknown; Rick claims CIA suggests location tied to missing Snapchat filter [24:46]
