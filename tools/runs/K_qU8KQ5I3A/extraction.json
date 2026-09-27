@@ -1,0 +1,51 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "02:49:49",
+      "canonical_segment": "News",
+      "title": "Repo Co-Op Gaming Session",
+      "notes": "Anchor Case Blackwell abandons the news desk for a full-stream co-op session of the horror extraction game R.E.P.O. with producers and friends; Pepito delivers the cold open before ceding control to the gaming cohort."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors the broadcast from the newsroom desk but pivots immediately to a multi-hour R.E.P.O. co-op stream with guests.",
+      "lore_notes": [],
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers the standard top-of-hour cold open and station identification before the gaming session begins.",
+      "lore_notes": [],
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Announces a Monday 'News Ice Stravaganza' where he will repeatedly dunk his head in ice water based on bit thresholds (debating 300 vs 500 bits).",
+      "timestamp": "[02:49:04]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opens with Pepito's standard sign-on before anchor Case Blackwell diverts the entire broadcast into a cooperative R.E.P.O. gaming session with producers Ian and Golden Boy, correspondents Gina and Ovely, and a rotating cast of friends. The stream concludes with a raid redirect to Christine (Kendelle's sister) after the original target logs off, and Blackwell teases a Monday ice-dunking spectacle funded by viewer bits.",
+  "_meta": {
+    "vod_id": "K_qU8KQ5I3A",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 114538,
+    "approx_prompt_tokens": 28634,
+    "transcript_lines": 399
+  }
+}
