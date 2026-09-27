@@ -1,0 +1,171 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "07:57",
+      "canonical_segment": "Station Cold-Open",
+      "title": "Pepito Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour countdown and confirms live status from the control room."
+    },
+    {
+      "start": "07:57",
+      "end": "49:57",
+      "canonical_segment": "News",
+      "title": "LA Firestorm & Expansionist Rhetoric",
+      "notes": "Case Blackwell anchors breaking coverage of the Pacific Palisades/Eaton fires, Trump's Greenland/Canada/Panama Canal annexation talk, Jimmy Carter's death, and Justin Trudeau's resignation as Canadian PM."
+    },
+    {
+      "start": "53:51",
+      "end": "01:11:00",
+      "canonical_segment": "Trent at the Movies",
+      "title": "Horse Simulator Deep Dive & Flight Risk",
+      "notes": "Case and Trent review cinematic trailers including dual competing horse games (Horses 2025 / Ultimate Horse Simulator), Mark Wahlberg's Flight Risk, and The Last of Us Season 2."
+    },
+    {
+      "start": "01:14:44",
+      "end": "01:32:01",
+      "canonical_segment": "How To with Jeb",
+      "title": "Dale Carnegie & Avocado Shaving Cream",
+      "notes": "Jeb Nogget and his board-trapped father dissect How to Win Friends and Influence People, then watch a one-minute avocado-olive-oil shaving cream tutorial."
+    },
+    {
+      "start": "01:33:08",
+      "end": "01:50:14",
+      "canonical_segment": "Amongst the Web",
+      "title": "Salazar's Bug Vision & City Council Yacht Study",
+      "notes": "Salazar hosts viral video review featuring daily affirmations in the woods, a Miami Beach city council yacht proposal, nursing home TikToks, and pop-darts trick shots."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "Lead Anchor",
+      "notes": "Lead Anchor. Anchored live from smoke-adjacent LA studio, covered fires and geopolitical chaos, debuted expanded green-screen tent setup.",
+      "lore_notes": [
+        "[13:37] Confirms residence in the San Fernando Valley.",
+        "[48:36] Reveals he underwent an 'animation procedure' to drop his frame rate to ~12fps for aesthetic mouth movement.",
+        "[50:29] Discloses former neighbor (CIA-claiming dog walker) allegedly bugged his apartment with a hearing-device microphone.",
+        "[01:52:32] Unveils expanded green-screen sheet and mirror setup for future house-tour content."
+      ],
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "Executive Producer",
+      "notes": "Executive Producer. Delivered cold-open countdown, bantered on fire safety and vet visits, managed Patreon transition timing.",
+      "lore_notes": [
+        "[10:39] Jokingly implicated as possible fire starter after licking a 'hot thing.'",
+        "[16:12] Confirms Jeb's Dad resides in the basement crawlspace."
+      ],
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "Human-Interest Correspondent",
+      "notes": "Human-Interest Correspondent. Traded barbs on infrastructure decay, money flammability, and Trudeau's resignation during news desk.",
+      "lore_notes": [],
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "Hype/Sub Acknowledgment Entity",
+      "notes": "Hype/Sub Acknowledgment Entity. Derailed sub thank-yous into freestyle rap about cold snow, bodily fluids, and Piss Fruit Ninja.",
+      "lore_notes": [
+        "[14:22] Triggered by Case's use of the word 'ominous.'",
+        "[15:10] Claims broadcast originates from a microbial universe inside the cat cam (ant-man style)."
+      ],
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "In-Studio Contributor / Marketing Professional",
+      "notes": "In-Studio Contributor / Marketing Professional. Walked through frame with blueberry-lemon TurboTax cake, refused to share it, confirmed marketing role.",
+      "lore_notes": [
+        "[44:08] Works in marketing; cake was a TurboTax write-off."
+      ],
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "Instructional Correspondent",
+      "notes": "Instructional Correspondent. Hosted How To with Jeb from woodshop (temporarily relocated to LA), read Dale Carnegie lessons and avocado shaving cream tutorial with his board-trapped father.",
+      "lore_notes": [
+        "[01:32:35] Studio physically flown to LA for the day at Pepito's budget authority."
+      ],
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Salazar",
+      "role": "Amongst the Web Guest Host",
+      "notes": "Amongst the Web Guest Host. Bug-filled entity hosting viral review; declared candidacy for Canadian PM on 'Make Canada Spanish Transylvanian Again' platform, attempted to recruit Case as quade.",
+      "lore_notes": [
+        "[01:35:49] Claims ability to consume humans, leaving them as living faces on his stomach.",
+        "[01:48:57] Gifted Case a Christmas bug in a syringe (declined)."
+      ],
+      "canonical_name": "Salazar",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "timestamp": "13:37",
+      "entity": "",
+      "fact": "Case confirms he lives in the San Fernando Valley, separated from nearest fire by a highway.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "48:36",
+      "entity": "",
+      "fact": "Case reveals he paid for an 'animation procedure' to lower his frame rate to ~12fps for stylized mouth movement.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "50:29",
+      "entity": "",
+      "fact": "Case's former neighbor (dog walker claiming CIA affiliation) allegedly bugged his apartment with a hearing-aid microphone through the wall.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:32:35",
+      "entity": "",
+      "fact": "Jeb's woodshop studio was flown to Los Angeles for the day under Pepito's budget authority.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:52:32",
+      "entity": "",
+      "fact": "Case debuts expanded green-screen sheet and mirror setup in his home studio for future house-tour content.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News broadcasts live from a smoke-hazed Los Angeles as the Pacific Palisades and Eaton fires force 30,000 evacuations and kill five. Anchor Case Blackwell covers the inferno alongside Trump's renewed expansionist rhetoric targeting Greenland, Canada, and the Panama Canal, the death of Jimmy Carter, and Justin Trudeau's resignation as Canadian Prime Minister. The broadcast continues with a horse-simulator trailer deep dive, a Dale Carnegie self-help lesson from Jeb Nogget's relocated woodshop, and a bug-infested Amongst the Web hosted by Salazar before signing off for a Patreon stream.",
+  "_meta": {
+    "vod_id": "D8b8PO1BeYE",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 100104,
+    "approx_prompt_tokens": 25026,
+    "transcript_lines": 197
+  }
+}
