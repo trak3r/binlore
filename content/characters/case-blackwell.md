@@ -173,3 +173,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[[01:16:42]]** ([[episodes/2024-10-23|2024-10-23]]): Case and Kendall have started painting their new apartment but have not yet moved in.
 - **[05:10]** ([[episodes/2024-11-06|2024-11-06]]): Departing for a week-long trip to China in approximately two days (from 2024-11-06); will miss next week's broadcasts and return the Monday after next. [05:10]
 - **[05:34]** ([[episodes/2024-11-06|2024-11-06]]): Patreon stream scheduled for tomorrow (2024-11-07) at noon. [05:34]
+- **[00:12:49]** ([[episodes/2025-01-06|2025-01-06]]): Adopted two bonded cats: Ms. Zorro (one-eyed) and Tony Tony; cats hide under bed, monitored via Cat Cam.
+- **[00:24:36]** ([[episodes/2025-01-06|2025-01-06]]): Wife has Christmas and New Year custody of all six children; Case concedes for 'safety of the children in these trying political times.'

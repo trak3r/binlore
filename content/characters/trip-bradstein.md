@@ -41,6 +41,7 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 | [[episodes/2025-06-17|2025-06-17]] | Field Correspondent. |
 | [[episodes/2025-06-11|2025-06-11]] | field correspondent. |
 | [[episodes/2025-06-02|2025-06-02]] | field correspondent. |
+| [[episodes/2025-01-06|2025-01-06]] | field correspondent. |
 | [[episodes/2024-11-26|2024-11-26]] | field correspondent. |
 | [[episodes/2024-10-30|2024-10-30]] | field correspondent. |
 | [[episodes/2024-10-22|2024-10-22]] | field correspondent. |
@@ -52,13 +53,13 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 | [[episodes/2024-08-27|2024-08-27]] | field correspondent. |
 | [[episodes/2024-08-22|2024-08-22]] | field correspondent. |
 | [[episodes/2024-08-07|2024-08-07]] | field correspondent. |
-| [[episodes/2024-07-25|2024-07-25]] | field correspondent. |
 
 <details>
-<summary>Earlier appearances (21)</summary>
+<summary>Earlier appearances (22)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-07-25|2024-07-25]] | field correspondent. |
 | [[episodes/2024-07-20|2024-07-20]] | Rapid-fire street debates from park bushes, settles all via coin flip, loses majority, refuses to leave streets, interacts with bread man,… |
 | [[episodes/2024-06-26|2024-06-26]] | field correspondent. |
 | [[episodes/2024-06-25|2024-06-25]] | field correspondent. |
@@ -102,3 +103,4 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 - **[01:44:57]** ([[episodes/2024-08-07|2024-08-07]]): Trip Bradstein conducts 'Whisper Wednesday' ASMR streets segment from park
 - **[56:22]** ([[episodes/2024-08-22|2024-08-22]]): Trip Bradstein's alert system switched to StreamRobot, missing certain sub types.
 - **[02:47:07]** ([[episodes/2024-10-03|2024-10-03]]): Offered $3M contract by Tony Khan to join AEW, then fired minutes later for 'aggressive energy' from a bystander [02:47:07].
+- **[01:02:38]** ([[episodes/2025-01-06|2025-01-06]]): Encountered doppelganger Brad Trippstein claiming rivalry; interviewed pregnant time-traveling pizza delivery guy Rip Blazer giving birth to living pizza babies.

@@ -64,6 +64,7 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 | [[../episodes/2024-09-19|2024-09-19]] [1:21:00] | [1:21:00] Case references Beyblade points on channel point border (~10 points) during Jambalaya setup, confirming community pledge tracker still active. |
 | [[../episodes/2024-10-10|2024-10-10]] [09:59] | [09:59] Case confirms Saturday return to Rennerton for Beyblade Tournament and mayoral election; Kendall removed from ballot due to being out of town. |
 | [[../episodes/2024-11-26|2024-11-26]] | Case mentions 'eight hour crumb stream soon' at 01:06:39, referencing pending community-pledge tournament execution. |
+| [[../episodes/2025-01-06|2025-01-06]] [02:08:19] | [02:08:19] Case mentions needing new sub badges, hype train track, Pepito track for 2025; community pledges Beyblade tournament remains pending. |
 | [[../episodes/2025-05-30|2025-05-30]] [39:25] | Munch references past Beyblade episodes during debate count banter. [39:25] |
 | [[../episodes/2025-06-02|2025-06-02]] [31:49] | [31:49] Case references pending Beyblade event possibly still 'inside the Papal Binclave'; no further advancement this episode. |
 | [[../episodes/2025-06-17|2025-06-17]] | [2025-06-17] Referenced as pending community-pledge event; no progress shown this episode. |

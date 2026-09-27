@@ -53,14 +53,15 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-17|2025-06-17]] | In-Studio Contributor. |
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
+| [[episodes/2025-01-06|2025-01-06]] | in-studio contributor. |
 | [[episodes/2024-12-23|2024-12-23]] | in-studio contributor. |
-| [[episodes/2024-11-06|2024-11-06]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (92)</summary>
+<summary>Earlier appearances (93)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-11-06|2024-11-06]] | in-studio contributor. |
 | [[episodes/2024-10-30|2024-10-30]] | in-studio contributor. |
 | [[episodes/2024-10-23|2024-10-23]] | in-studio contributor. |
 | [[episodes/2024-10-22|2024-10-22]] | in-studio contributor. |
@@ -207,3 +208,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[10:03]** ([[episodes/2024-10-02|2024-10-02]]): Got a tattoo at a Jack in the Box event; wears handmade Case Blackwell merch. [10:03]
 - **[16:35]** ([[episodes/2024-10-10|2024-10-10]]): Kendelle confirmed dead/missing; will appear as ghost for Saturday Rennerton election.
 - **[[59:07]]** ([[episodes/2024-10-23|2024-10-23]]): Age confirmed as 30; birthday invite theme was '13 Going on 30'.
+- **[01:15:55]** ([[episodes/2025-01-06|2025-01-06]]): Pushed for adopting both bonded cats; fed/trapped cats during dishwasher installation; has video of handling Ms. Zorro on Instagram.

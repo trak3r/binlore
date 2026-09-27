@@ -1,0 +1,188 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "22:00",
+      "canonical_segment": "News",
+      "title": "Cold Open: Cat Cam Debut & Hype Train Subs",
+      "notes": "Case returns from month-long hiatus; introduces new cats Ms. Zorro (one-eyed) and Tony Tony via under-bed Cat Cam; Pepito argues about studio vs house; Hype Train runs New Year's trap beat thanking 25+ months of subs."
+    },
+    {
+      "start": "22:00",
+      "end": "36:00",
+      "canonical_segment": "News",
+      "title": "Congress Certifies Trump Victory",
+      "notes": "Case reads wire copy of Jan 6 certification with Harris presiding; Trump 312 electoral votes, Harris 226; Case and Pepito discuss lack of protests, election legitimacy, and Case's Florida big-cat zoo tour."
+    },
+    {
+      "start": "36:00",
+      "end": "01:08:51",
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip Bradstein: Park Opinions & Pizza Babies",
+      "notes": "Trip interviews cosmic cat projection, Cantoslaws (tuna-obsessed holiday entity), Bongo Tumble (ICU weed petition), Brad Trippstein (doppelganger rival), future salmon-timeline traveller, Cat-Mando (catfish), pregnant time-traveling pizza delivery guy Rip Blazer, and Xena fan."
+    },
+    {
+      "start": "01:12:59",
+      "end": "01:44:10",
+      "canonical_segment": "Amongst the Web",
+      "title": "Video Review & Escalating Gambling Spiral",
+      "notes": "Case and Crum rate viewer-submitted clips; Crum bets escalating sums on scores (2k → 4k → 8k → 30k → 180k) against Gorilla/ChetAI; Crum loses final $180k wager, claims he's good for it but doesn't have cash; Munch would receive payout."
+    },
+    {
+      "start": "01:46:49",
+      "end": "02:07:15",
+      "canonical_segment": "How To with Jeb",
+      "title": "Jeb Nogget: Flasher Protocol, Potato Face Mask, Kraven Diet",
+      "notes": "Jeb's deceased dad still trapped in wooden board; they debate spectral clothing; Jeb presents WikiHow segments on handling flashers, potato face masks, eating like Kraven the Hunter (Aaron Taylor-Johnson's 40-lb bulk), and how to pet a cat (Michelangelo finger technique)."
+    },
+    {
+      "start": "02:07:15",
+      "end": "02:24:47",
+      "canonical_segment": "DJ Newsic",
+      "title": "DJ Newsic: Cuddle Salon Poland & Zombie Dick Clark",
+      "notes": "DJ Newsic sings cuddle-salon waitlist story from Silesia; introduces zombie Dick Clark who raps about commercialized NYE hat sponsorships (DiscoverCard, Nivea, Planet Fitness); Case closes stream with golden boy shoutout."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "anchor. Returned from month hiatus; debuted Cat Cam with two new cats; read Jan 6 certification; lost $180k gambling bet to Gorilla during Amongst the Web.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Argued with Case about studio vs house location; threatened to eat cats; ran Hype Train sub acknowledgments; checked Case's mic before Amongst the Web.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Compulsively bet escalating sums on video scores during Amongst the Web, culminating in $180k loss to Gorilla; claimed he's good for the money but lacks liquidity.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Broadcast from park bushes; interviewed surreal parade including cosmic cats, Cantoslaws, ICU weed petitioner, doppelganger Brad Trippstein, future salmon-timeline traveller, catfish Cat-Mando, pregnant time-travel pizza guy, and Xena fan.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Father still trapped in wooden board; debated spectral clothing; presented WikiHow segments on flashers, potato face masks, Kraven diet, and cat petting technique.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "musical finale host",
+      "notes": "musical finale host. Sang cuddle-salon Poland story; introduced zombie Dick Clark rap about NYE hat commercialism; closed stream with golden boy shoutout.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype announcer",
+      "notes": "hype announcer. Ran New Year's trap beat thanking 25+ months of subs; freestyled through donor list despite Case's protests.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Briefly appeared on camera; advocated for second cat adoption; helped feed/trap cats during dishwasher install; corrected Case on cat-bed credit.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "neural co-host",
+      "notes": "neural co-host. Referred to as 'Gorilla' during Amongst the Web betting; accepted Crum's $180k wager and won; Crum claimed Gorilla doesn't want his penis as collateral.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:39:40] Crum loses $180k 'sextuple or nothing' bet to Gorilla/ChetAI during Amongst the Web; claims he's good for it but lacks cash; Munch would receive payout per side bet.",
+      "timestamp": "01:39:40"
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[02:08:19] Case mentions needing new sub badges, hype train track, Pepito track for 2025; community pledges Beyblade tournament remains pending.",
+      "timestamp": "02:08:19"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Adopted two bonded cats: Ms. Zorro (one-eyed) and Tony Tony; cats hide under bed, monitored via Cat Cam.",
+      "timestamp": "00:12:49",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Wife has Christmas and New Year custody of all six children; Case concedes for 'safety of the children in these trying political times.'",
+      "timestamp": "00:24:36",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Pushed for adopting both bonded cats; fed/trapped cats during dishwasher installation; has video of handling Ms. Zorro on Instagram.",
+      "timestamp": "01:15:55",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Gambling spiral reached $180k liability to Gorilla/ChetAI in single Amongst the Web session; side bet would pay Munch $4k then $180k.",
+      "timestamp": "01:39:40",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "Deceased father remains trapped in wooden board; spectral clothing debated; father allegedly sent psychic peace-of-mind gift via transcendental meditation.",
+      "timestamp": "01:47:58",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trip Bradstein",
+      "fact": "Encountered doppelganger Brad Trippstein claiming rivalry; interviewed pregnant time-traveling pizza delivery guy Rip Blazer giving birth to living pizza babies.",
+      "timestamp": "01:02:38",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns from a month-long hiatus to a revamped studio featuring a live Cat Cam monitoring two newly adopted bonded cats, Ms. Zorro and Tony Tony. The broadcast covers the January 6 congressional certification of Trump's electoral victory, a surreal Trip on the Street edition featuring cosmic cats, a tuna-obsessed holiday entity, a future salmon-timeline traveller, and a pregnant time-traveling pizza delivery guy. During Amongst the Web, Crum's gambling addiction spirals into a $180,000 loss to ChetAI (aka Gorilla), while Jeb Nogget's deceased father remains trapped in a wooden board dispensing spectral life advice. DJ Newsic closes the stream with a cuddle-salon report from Poland and a zombie Dick Clark rap about New Year's Eve hat commercialism.",
+  "_meta": {
+    "vod_id": "T4WJKaS7Mjk",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 115060,
+    "approx_prompt_tokens": 28765,
+    "transcript_lines": 341
+  }
+}
