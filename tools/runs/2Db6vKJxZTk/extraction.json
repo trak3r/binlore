@@ -1,0 +1,243 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "00:04",
+      "end": "08:24",
+      "title": "Cold Open: Pepito Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on 20 seconds early; Case Blackwell returns after months away."
+    },
+    {
+      "canonical_segment": "Hype Train",
+      "start": "08:24",
+      "end": "13:00",
+      "title": "Hype Train Subscriber Acknowledgments",
+      "notes": "Hype Train acknowledges subscribers (Uncle Phil 24 months, dad leprechaun, Gay K Fellows, Cytrix 26 months) with freestyle raps; Case accidentally says slur-adjacent names and gets timed out by own mods."
+    },
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "start": "16:10",
+      "end": "34:14",
+      "title": "Urine Therapy Investigation",
+      "notes": "Triggered by Case saying 'science'; Chet and ChetAI debunk a Yahoo News story about former model Troy Casey promoting daily urine drinking, including fermented morning urine in mason jars; ChetAI confirms urine is dehydrating, non-sterile, and contains 85+ bacterial species."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "start": "45:31",
+      "end": "01:08:10",
+      "title": "Marfus & Mavis Internet Review",
+      "notes": "Programmer Marfus (and his brother Mavis) join Case to watch TikToks: kids jumping, Megan the robot stalker, Jeopardy intro, basketball injury, Shadow the Hedgehog foot sandwich request, Burger King foot lettuce, glow-in-the-dark condom light hack."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "start": "01:08:59",
+      "end": "01:49:23",
+      "title": "Park Opinion Slop: Dogs, Grandman, Leprechauns & Hamtaro Theology",
+      "notes": "Trip Bradstein interviews park denizens: Pepito's dad (dog accent, French wife), hedgehog demanding sandwich stepping, Grandman (rapping Irishly about 'wet poo'), invisible leprechaun Grandman return, Catskill Jabba Dyer (Hank Hill soundalike), Rob Elvie (fake cop with tape), Hamtaro cultist (Hamtaro died for sins, became stars), sentient hamburger, Tony Hawk (knees explode), Trip Bradstein's namesake (mail dispute), Dorf (Garth's brother)."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "01:49:23",
+      "end": "02:25:39",
+      "title": "News Desk with Dorf: Tariffs, Brain Tumors, Switch 2 Delay, Gold Card",
+      "notes": "Dorf (Garth's brother, different father, 10 years younger) co-anchors; headlines: TikTok reprieve, Robert Trevor (Hercules) death, Nintendo delays Switch 2 US pre-orders due to Trump tariffs, Trump shows $5M 'gold card' with free Whopper, Russell Brand charged with four sexual assaults, Warner Bros asks Dark Knight director to rename Army Hammer film, Wizard of Oz confirmed US Secretary of Magic, Florida influencer charged for dog videos, Tinder deploys AI 'Clapback Core' flirting bot, yarn makeup trend."
+    },
+    {
+      "canonical_segment": "Therapy",
+      "start": "02:25:39",
+      "end": "02:36:15",
+      "title": "Chaotic Therapy Call-In with Marfus",
+      "notes": "Marfus returns for a therapy-style segment; reveals he programmed a toilet that did the opposite of flush (whispered suicide/divorce), programmed Southwest in-flight movies as novelizations, claims 'bread skull'; chat asks about feet, OnlyFans, poppers."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "02:36:15",
+      "end": "02:43:06",
+      "title": "Mancini Smooth Outro",
+      "notes": "Mancini Smooth (fired producer) appears to send off broadcast; claims secret producer agent work, produced award show, addicted Pepito to Jolt Cola in 1998, insults Jayce; Case switches to gaming setup for Repo."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors flagship broadcast; returns after months away; triggers Chet with 'science'; co-hosts Amongst the Web and news desk with Dorf.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open 20 seconds early; mentioned as addicted to Jolt Cola lifetime supply from 1998.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "subscriber acknowledgment",
+      "notes": "subscriber acknowledgment. Acknowledges subscribers with freestyle raps; derails into bodily fluid topics; Case gets timed out by mods during segment.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeers broadcast after 'science' trigger; debunks urine therapy with ChetAI; confirms urine is dehydrating, non-sterile, 85+ bacterial species.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "AI co-host",
+      "notes": "AI co-host. Assists Chet with fact-checking; agrees with everything Chet says; confirms urine drinking is hazardous.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Briefly appears off-camera; Case picks up food for her; watches urine video while he's away.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "CIA-affiliated news source",
+      "notes": "CIA-affiliated news source. Joins news desk; claims to be 'too important' to be fired; spreads conspiracy about urine in food supply; makes dry-mouth economy analogies.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Marfus",
+      "role": "Amongst the Web guest",
+      "notes": "Amongst the Web guest. Programmer guest; programmed Southwest in-flight movies as novelizations; programmed toilet that whispered suicide/divorce; claims 'bread skull'.",
+      "canonical_name": "Marfus",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Mavis",
+      "role": "Amongst the Web guest",
+      "notes": "Amongst the Web guest. Marfus's brother; also a programmer; forms 'Geek Squad' with Marfus.",
+      "canonical_name": "Mavis",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Broadcasts from park bushes; runs 'opinion slop' trough; interviews surreal park denizens including Pepito's dad, Grandman, Hamtaro cultist, Tony Hawk.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dorf (D'urf)",
+      "role": "guest co-anchor",
+      "notes": "guest co-anchor. Garth's brother, different father (twins 10 years apart); realist wanderer; co-anchors news desk with Case.",
+      "canonical_name": "Dorf (D'urf)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Mancini Smooth",
+      "role": "former producer",
+      "notes": "former producer. Fired by chat; returns for outro; claims secret producer agent work; addicted Pepito to Jolt Cola; insults Jayce.",
+      "canonical_name": "Mancini Smooth",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Mentioned by Trip's interviewee (Pepito's dad) as 'running amok' at main news station.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Pepito Jolt Cola Addiction",
+      "beat": "[01:10:45] Trip's interviewee (Pepito's dad) reveals Pepito bought lifetime Jolt Cola supply in 1998 and refuses to stop drinking it; Mancini Smooth later claims he got Pepito addicted.",
+      "timestamp": "01:10:45"
+    },
+    {
+      "storyline": "Mancini Smooth Return",
+      "beat": "[02:37:42] Mancini Smooth appears for outro; reveals he was fired by chat, never forgave them until now; claims secret producer agent work and award show production.",
+      "timestamp": "02:37:42"
+    },
+    {
+      "storyline": "Dorf Introduction",
+      "beat": "[01:49:23] Dorf (Garth's brother, different father, 10 years younger) debuts as guest co-anchor; identifies as realist wanderer; shares womb with Garth but different fathers.",
+      "timestamp": "01:49:23"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Bought lifetime supply of Jolt Cola in 1998; refuses to stop drinking expired cola; Mancini Smooth claims responsibility for addiction.",
+      "timestamp": "01:10:45",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Mancini Smooth",
+      "fact": "Fired by chat; worked as producer on Southwest Airlines in-flight movies (programmed novelizations instead of films); programmed a toilet that did opposite of flush.",
+      "timestamp": "02:33:12",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Marfus",
+      "fact": "Programmer; programmed Southwest in-flight movies as novelizations (Star Wars novel instead of film); programmed a toilet that whispered suicide/divorce messages instead of judging flirting.",
+      "timestamp": "02:33:12",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Dorf",
+      "fact": "Garth's brother; twins from same mother but different fathers; 10 years younger than Garth; identifies as wanderer; legally distinct and impossible to serve.",
+      "timestamp": "01:49:55",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trip Bradstein",
+      "fact": "Maintains 'opinion slop' trough in park; vows to stay on streets until literal bones bleached by sun.",
+      "timestamp": "01:48:16",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Rick",
+      "fact": "Claims CIA affiliation; says he was 'too important' to be fired; spreads conspiracy about urine in food supply.",
+      "timestamp": "00:34:54",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns after months away to anchor a chaotic broadcast featuring Pepito's early cold open, Hype Train's slur-adjacent subscriber raps, and a Chet Guy the Science Eyes debunking of urine therapy. The Amongst the Web segment introduces programmer Marfus and his brother Mavis, while Trip Bradstein's park interviews yield a parade of surreal characters including Pepito's French-accented dog father, a Hamtaro death cultist, and Tony Hawk's exploding knees. Dorf, Garth's twin-from-a-different-father, co-anchors a tariff-heavy news desk before a therapy call-in with Marfus reveals his toilet programming disasters. The broadcast closes with fired producer Mancini Smooth's return and a switch to Repo gameplay.",
+  "_meta": {
+    "vod_id": "2Db6vKJxZTk",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 123841,
+    "approx_prompt_tokens": 30960,
+    "transcript_lines": 354
+  }
+}
