@@ -53,14 +53,15 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-17|2025-06-17]] | In-Studio Contributor. |
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
+| [[episodes/2024-10-23|2024-10-23]] | in-studio contributor. |
 | [[episodes/2024-10-22|2024-10-22]] | in-studio contributor. |
-| [[episodes/2024-10-15|2024-10-15]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (88)</summary>
+<summary>Earlier appearances (89)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-10-15|2024-10-15]] | in-studio contributor. |
 | [[episodes/2024-10-13|2024-10-13]] | in-studio contributor. |
 | [[episodes/2024-10-10|2024-10-10]] | in-studio contributor. |
 | [[episodes/2024-10-02|2024-10-02]] | in-studio contributor. |
@@ -202,3 +203,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[[1:43:54]]** ([[episodes/2024-09-17|2024-09-17]]): Open to one child (up from zero).
 - **[10:03]** ([[episodes/2024-10-02|2024-10-02]]): Got a tattoo at a Jack in the Box event; wears handmade Case Blackwell merch. [10:03]
 - **[16:35]** ([[episodes/2024-10-10|2024-10-10]]): Kendelle confirmed dead/missing; will appear as ghost for Saturday Rennerton election.
+- **[[59:07]]** ([[episodes/2024-10-23|2024-10-23]]): Age confirmed as 30; birthday invite theme was '13 Going on 30'.

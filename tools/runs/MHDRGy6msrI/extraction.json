@@ -1,0 +1,152 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Lunchly Mold Controversy",
+      "start": "00:01:26",
+      "end": "00:15:20",
+      "notes": "Case and Pepito discuss MrBeast, Logan Paul, and KSI's Lunchly brand after YouTuber Rosanna Pansino reveals mold in the product; debate ensues over packaging failures, neon-red sauce, and whether profitability excuses safety lapses."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Trend at the Movies: Werewolves, Munchies, Love Hurts, The Brutalist, Interior Chinatown, Creature Commandos",
+      "start": "00:15:20",
+      "end": "00:48:43",
+      "notes": "Trend (Trent) joins Case to watch seven trailers: Werewolves (2024), Munchies (1987), The Mantis (1993), Love Hurts (2025), The Brutalist (2024), Interior Chinatown (Hulu series), and Creature Commandos (animated DC series); constant bickering over pacing and werewolf taxonomy."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Minesweeper Tutorial with Kendall",
+      "start": "00:48:43",
+      "end": "00:59:07",
+      "notes": "Kendall teaches Case and chat how to play Minesweeper, revealing her age as 30 and birthday theme '13 Going on 30'; Case struggles with logic while chat guesses her age."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Viral Video Review with Liliana",
+      "start": "01:00:51",
+      "end": "01:19:12",
+      "notes": "Liliana joins Case for Amongst the Web: scores include zero for 'The Rizzler' Costco guys video, zero for hurricane relief content (reminded her of Rizzler), confusion over a six-year-old David clip with stolen sound effects, low score for 'Sex Is Shit' political rant, and 5.38 for Eddie Pepitone's racist mattress commercial bit."
+    },
+    {
+      "canonical_segment": "DJ Newsic",
+      "title": "All Nut November Musical Finale",
+      "start": "01:19:12",
+      "end": "01:26:41",
+      "notes": "DJ Newsic performs a freestyle rap PSA promoting 'All Nut November' as a counter to No Nut November, featuring a Mr. Peanut cameo; stream ends with raid on Gina Darling."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the broadcast, hosted News and Amongst the Web segments, struggled with Minesweeper, debated trailers with Trend.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold-open sign-on, co-hosted Lunchly discussion, managed hype train interruptions.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trend",
+      "role": "correspondent",
+      "notes": "correspondent. Joined Case for 'Trend at the Movies' trailer block, bickered over pacing and werewolf definitions across seven trailers.",
+      "canonical_name": "Trend",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Taught Minesweeper tutorial, revealed age 30 and '13 Going on 30' birthday theme, declined trailer block.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Co-hosted Amongst the Web viral review, gave multiple zero scores, hated Rizzler-adjacent content, recognized Eddie Pepitone.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Interrupted broadcast to propose acne graphics feature, dismissed by Case.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype announcer",
+      "notes": "hype announcer. Summoned early, lingered through Lunchly segment, ignored Case's attempts to dismiss.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Referenced during Lunchly discussion when Case joked about 'Chetters' tuna crackers; did not appear live.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Mr. Peanut",
+      "role": "musical guest",
+      "notes": "musical guest. Appeared in DJ Newsic's All Nut November finale, claimed never to miss a nut.",
+      "canonical_name": "Mr. Peanut",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Kendelle",
+      "fact": "Age confirmed as 30; birthday invite theme was '13 Going on 30'.",
+      "timestamp": "[59:07]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Case and Kendall have started painting their new apartment but have not yet moved in.",
+      "timestamp": "[01:16:42]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Delivered official station cold-open sign-on from the control room.",
+      "timestamp": "[00:01]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered the Lunchly mold scandal before Trend hijacked the broadcast for a seven-trailer movie block. Kendall taught a Minesweeper masterclass revealing her thirtieth birthday, then Liliana eviscerated viral videos in Amongst the Web. DJ Newsic closed with an All Nut November anthem and a raid on Gina Darling.",
+  "_meta": {
+    "vod_id": "MHDRGy6msrI",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 77663,
+    "approx_prompt_tokens": 19415,
+    "transcript_lines": 154
+  }
+}

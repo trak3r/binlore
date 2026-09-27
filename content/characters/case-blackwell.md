@@ -170,3 +170,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[19:32]** ([[episodes/2024-09-19|2024-09-19]]): Case Blackwell debuted a new gold jacket/coat for the stream's approaching two-year anniversary.
 - **[01:59:51]** ([[episodes/2024-10-03|2024-10-03]]): House move blocked by LA county department with no phone/office and a four-week email response cycle; hold stems from permit approval gap [01:59:51].
 - **[]** ([[episodes/2024-10-15|2024-10-15]]): Claims to have put half of himself in a time capsule to ensure survival to 2028. [43:57]
+- **[[01:16:42]]** ([[episodes/2024-10-23|2024-10-23]]): Case and Kendall have started painting their new apartment but have not yet moved in.
