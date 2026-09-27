@@ -41,6 +41,7 @@ He displays a profound, open disdain for Jeb's woodworking skills and emotional 
 | [[episodes/2026-06-15|2026-06-15]] | Deceased father trapped in wooden board, non-verbal. |
 | [[episodes/2025-09-15|2025-09-15]] | deceased spirit in timber. |
 | [[episodes/2025-07-01|2025-07-01]] | co-host (spirit in timber). |
+| [[episodes/2025-02-25|2025-02-25]] | wood-trapped spirit. |
 | [[episodes/2025-02-12|2025-02-12]] | co-host (deceased). |
 | [[episodes/2025-02-06|2025-02-06]] | deceased co-host. |
 | [[episodes/2025-01-27|2025-01-27]] | Co-host (Spirit in Wood). |

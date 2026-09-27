@@ -1,0 +1,239 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "08:09",
+      "canonical_segment": "News",
+      "title": "Cold Open: Pepito Sign-On",
+      "notes": "Pepito delivers the station identification as 'Papita the dog' before the broadcast begins."
+    },
+    {
+      "start": "08:09",
+      "end": "26:41",
+      "canonical_segment": "News",
+      "title": "Opening Monologue: Mass Staff Layoffs & Hype Train",
+      "notes": "Case Blackwell returns from illness to announce half the staff (Jeff Ripple, Rick, Tyler, Sammy, Salazar, Garf) have been 'doged' and quit; Pepito is incapacitated on Jolt Cola; Hype Train dominates the broadcast with a 25-minute freestyle rap over subscriber alerts."
+    },
+    {
+      "start": "26:41",
+      "end": "46:56",
+      "canonical_segment": "News",
+      "title": "International Desk: Dmitry on Trump-Macron Ukraine Talks",
+      "notes": "New correspondent Dmitry (Russian expat with purple sunglasses and beard) provides a goon-centric analysis of Trump and Macron's meeting, framing geopolitics as a 'nuclear meat-slapping contest' and predicting Ukraine will be left 'gooning in the cold'."
+    },
+    {
+      "start": "46:56",
+      "end": "56:53",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: Who Should Be Laid Off?",
+      "notes": "Crum owes the Rock-afire gorilla $170,000; Munch forces a new wager where Crum must argue for his own firing to win $5,000, while Munch argues Crum should stay — both sides devolve into meta pleas for termination."
+    },
+    {
+      "start": "58:01",
+      "end": "01:22:41",
+      "canonical_segment": "Amongst the Web",
+      "title": "React Segment: Peter Gibbon Returns from the Walls",
+      "notes": "Peter Gibbon emerges from the crawlspace to co-host a react segment featuring viral clips (Jackie Chan stunts, pickup lines, Guitar Center beat-making, driving safety), punctuated by Peter's tantric claims and Case's mounting discomfort."
+    },
+    {
+      "start": "01:22:41",
+      "end": "01:42:59",
+      "canonical_segment": "News",
+      "title": "News Desk: Liliana on Elon Musk's Botched Penis Surgery",
+      "notes": "Liliana reads an Azalea Banks tweet alleging Elon Musk's failed penile implant, speculating on 'weeping willow' anatomy and a Mephisto-style deal for wealth; segment ends with a 'soggy bottom boy' penis taxonomy."
+    },
+    {
+      "start": "01:42:59",
+      "end": "02:00:08",
+      "canonical_segment": "How To with Jeb",
+      "title": "How To with Jeb's Dad (feat. Crum)",
+      "notes": "Jeb Nogget is absent after a DIY face-lift; his deceased father (trapped in a wooden board) hosts with Crum filling in, watching sausage-making and tantric yoga videos while bickering about the afterlife."
+    },
+    {
+      "start": "02:01:26",
+      "end": "02:16:51",
+      "canonical_segment": "News",
+      "title": "News Desk: Kyle's Rapid-Fire Headlines",
+      "notes": "New correspondent Kyle (clinically dead eyes, former face tattoos, oxy history) delivers a chaotic rundown including Technicolor bankruptcy, Trump vs. lesbian judge, Elon's 'Harry Balls' rename, JoAnn Fabrics closure, Stephen King on Dark Tower, Island Boys arrest, Lester Holt stepping down, and a Canadian thumbs-up emoji contract case."
+    },
+    {
+      "start": "02:16:51",
+      "end": "02:22:46",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid",
+      "notes": "Case closes the broadcast, mentions feeding Kendelle, teases a potential call-in show, and raids Ricky Peacock."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors the return broadcast while managing a gutted staff roster and a parade of replacement correspondents.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Incapacitated by vintage Jolt Cola consumption, leaving production duties to Case's cousin Jake Whitehole.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype correspondent",
+      "notes": "hype correspondent. Commandeers the opening block with a 25-minute freestyle rap over sub alerts, declaring dominance over the depleted crew.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Presides over the layoff debate, goading Crum into arguing for his own termination while claiming immortality.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Begs viewers to vote for his firing to win $5,000 toward his $170,000 gorilla debt, then fills in for Jeb's dad on How To.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Emerges from the walls to co-host Amongst the Web, claiming he was 'doged' but returned for spoiled mannies.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Co-anchors the Elon Musk penis surgery story, describing her womb as a 'hostile place' for a Musk child.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "wood-trapped spirit",
+      "notes": "wood-trapped spirit. Hosts How To with Jeb while his son recovers from facial surgery, bickering with Crum from inside a wooden board.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dmitry",
+      "role": "international correspondent",
+      "notes": "international correspondent. One-off Russian expat correspondent who frames Ukraine geopolitics through 'goon squad' survival theory.",
+      "canonical_name": "Dmitry",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kyle",
+      "role": "field correspondent",
+      "notes": "field correspondent. Debut correspondent with clinically dead eyes and a history of face tattoos and oxy use; delivers a surreal rapid-fire news rundown.",
+      "canonical_name": "Kyle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jake Whitehole",
+      "role": "production assistant",
+      "notes": "production assistant. Case's cousin, pressed into button-pushing duty while Pepito is incapacitated.",
+      "canonical_name": "Jake Whitehole",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[49:16] Crum's debt to the Rock-afire gorilla stands at $170,000; Munch imposes a new wager where Crum must argue for his own firing to earn $5,000 per win.",
+      "timestamp": "49:16"
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[02:18:02] Case references the Beyblade Tournament as 'quietly sunsetted like CTDS and Colcast,' suggesting the community pledge remains unfulfilled.",
+      "timestamp": "02:18:02"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Crum pays approximately $1,000 per week in interest to the Rock-afire gorilla to keep the $170,000 debt from growing.",
+      "timestamp": "[54:31]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum is entangled in legal disputes from his marriage in Rennerton, where deceased citizens retain the ability to hire lawyers from billboards.",
+      "timestamp": "[54:58]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jeb Nogget underwent a DIY face-lift/jaw surgery that left him unrecognizable; his father states Jeb is recovering from 'facial paralysis.'",
+      "timestamp": "[25:37], [01:43:21]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Salazar (tentacled correspondent) was deported when the transatlantic swimming route was closed.",
+      "timestamp": "[11:11]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Justin Powers (unspecified role) is mentioned as unlikely to return.",
+      "timestamp": "[24:35]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Kyle has 'dead eye syndrome' — a clinically dead section of his face — and spent 12 years removing full face tattoos after repeated oxy-related traffic stops.",
+      "timestamp": "[02:03:19], [02:11:02]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Liliana describes her womb as radiating 'slightly murderous' energy, comparing a hypothetical Musk pregnancy to 'sending a search party into Chernobyl.'",
+      "timestamp": "[01:31:26]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case's cousin Jake Whitehole is now on payroll as a production assistant.",
+      "timestamp": "[12:36]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns from a week-long illness to find half the BIN staff 'doged' into resignation, leaving Pepito incapacitated on Jolt Cola and production in the hands of Case's cousin Jake. The broadcast cycles through a gauntlet of replacement correspondents — Dmitry, Peter Gibbon, Liliana, Jeb's undead father, Crum, and debutant Kyle — covering Trump-Macron talks, Elon Musk's alleged botched penile implant, a sausage-making tutorial, and a Canadian lawsuit over thumbs-up emoji contracts, all while Crum's $170,000 gorilla debt looms over a forced layoff debate.",
+  "_meta": {
+    "vod_id": "PsP5ot46kys",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 122578,
+    "approx_prompt_tokens": 30644,
+    "transcript_lines": 346
+  }
+}
