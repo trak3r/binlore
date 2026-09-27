@@ -53,14 +53,15 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-17|2025-06-17]] | In-Studio Contributor. |
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
+| [[episodes/2025-04-18|2025-04-18]] | Walked through the studio discussing perfume scents, autism testing, and computer hardware woes before departing. |
 | [[episodes/2025-04-14|2025-04-14]] | in-studio contributor. |
-| [[episodes/2025-04-10|2025-04-10]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (121)</summary>
+<summary>Earlier appearances (122)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-04-10|2025-04-10]] | in-studio contributor. |
 | [[episodes/2025-04-05|2025-04-05]] | in-studio contributor. |
 | [[episodes/2025-04-04|2025-04-04]] | in-studio contributor. |
 | [[episodes/2025-04-03|2025-04-03]] | in-studio contributor. |

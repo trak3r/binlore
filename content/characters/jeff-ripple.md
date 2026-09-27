@@ -55,6 +55,7 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 | [[episodes/2026-06-08|2026-06-08]] | Studio news reader / breaking chat correspondent. Reads Catholic exorcist story, reacts to Alex Jones comparison, leaves to fix power issue. |
 | [[episodes/2026-06-05|2026-06-05]] | Studio news reader and breaking chat correspondent who monitors viewer submissions and provides updates. |
 | [[episodes/2026-05-29|2026-05-29]] | External journalist mentioned in news coverage, not a character. |
+| [[episodes/2025-04-18|2025-04-18]] | Co-anchored the immigration desk and later delivered a rapid-fire news roundup covering WrestleMania, death grip syndrome, and a cholera… |
 | [[episodes/2025-01-24|2025-01-24]] | human-interest reporter. |
 | [[episodes/2025-01-08|2025-01-08]] | Human-Interest Correspondent. |
 | [[episodes/2024-08-22|2024-08-22]] | field correspondent. |
