@@ -1,0 +1,204 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "Hype Train",
+      "title": "Cold Open & Hype Train Surge",
+      "start": "00:00:08",
+      "end": "00:15:00",
+      "notes": "Pepito delivers sign-on; Hype Train hijacks feed for freestyle over channel-point redemptions and UFO/dino attack confusion."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Trump Revokes Biden Clearance; DOGE Lawsuit & Musk's Teen Engineers",
+      "start": "00:15:00",
+      "end": "00:40:28",
+      "notes": "Case and Hype Train cover Trump stripping Biden's security access, 19-state suit against DOGE Treasury access, and the six-person 'Dream Team' of under-25 Musk staffers."
+    },
+    {
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Little Tommy Bigg Law: Dubstep Legal Advice & Baby Anonymous",
+      "start": "00:40:28",
+      "end": "00:46:39",
+      "notes": "Baby lawyer Tommy Bigg Law offers useless legal counsel on DOGE lawsuits, then dons Guy Fawkes mask to roleplay Anonymous."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Tactile Basketball, Trivia, Nolan's Odyssey & AI Music Factory",
+      "start": "00:46:39",
+      "end": "01:20:37",
+      "notes": "Case and Hype Train review a haptic basketball court for blind fans, a jungle/drum-and-bass trivia clip, a streamer's LED gorilla setup, a confusing Nolan-style conspiracy short, and generate multiple Suno AI tracks including 'Wet Pork Chops' and 'Cream Team Cipher Butt Rock Slop Chop'."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "title": "Valentine's Aphrodisiac Dinner, FLOMO Tablescapes & Big Show Wedgie Tutorial",
+      "start": "01:21:02",
+      "end": "01:38:30",
+      "notes": "Jeb Nogget hosts Taylor Baldwin's oyster-and-maca Valentine menu, a FLOMO corporate table-setting video, and a 2011 WWE instructional on the perfect wedgie."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "title": "Gorilla Debt at $179K & 'Are We Getting Dumber?' Debate",
+      "start": "01:38:30",
+      "end": "01:50:43",
+      "notes": "Crum reveals interest has ballooned his gorilla debt to $179,000; the pair debate human intelligence, entropy, and Crum's claim of puberty at age seven."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Tyler: Erica Lust Masturbation Breaks & Space Ejaculation Physics",
+      "start": "01:50:43",
+      "end": "02:06:52",
+      "notes": "Correspondent Tyler covers an ethical-porn studio's 30-minute daily masturbation policy and a New York Post TikTok breakdown of zero-gravity ejaculation thrust."
+    },
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet Peer-Reviews Space Masturbation & Fact-Checks Self-Love Myths",
+      "start": "02:06:52",
+      "end": "02:20:37",
+      "notes": "Triggered by 'science,' Chet debunks the TikTok's momentum math, then dismantles a medical video claiming masturbation benefits while wearing blackout sunglasses."
+    },
+    {
+      "canonical_segment": "DJ C4",
+      "title": "Pepito Composes 'Cheese Demon' via Deepseek AI",
+      "start": "02:20:37",
+      "end": "02:38:30",
+      "notes": "Pepito writes and records an emo/pop-punk theme about a cheese-obsessed dog using Deepseek, declaring the network a Chinese asset."
+    },
+    {
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Finale: Witch Month, Vodka Beer Bombs & Raid",
+      "start": "02:38:30",
+      "end": "02:51:19",
+      "notes": "Hype Train returns for a witchcraft freestyle about pasta potions, a vodka-beer-bomb party with Death, and a raid to Jeremy's Justice League stream."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored a chaotic Friday edition spanning Trump's clearance revocation, AI music generation, and a masturbation-heavy science segment.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open, managed channel-point redemptions, and composed the network's new 'Cheese Demon' theme via Deepseek AI.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype correspondent",
+      "notes": "hype correspondent. Hijacked the feed multiple times with freestyles about piss, pasta, witchcraft, and vodka beer bombs with Death.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Revealed his gorilla debt has ballooned to $179,000 despite $11,000 in payments and claimed he hit puberty at age seven.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Crum on whether humanity is getting dumber, accidentally argued both sides, and mocked Crum's hairless pate.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosted a Valentine's How To episode featuring aphrodisiac dinner tips, corporate tablescaping, and a WWE wedgie tutorial.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Little Tommy Bigg Law",
+      "role": "legal correspondent",
+      "notes": "legal correspondent. Provided dubstep legal analysis on Anonymous and DOGE lawsuits while wearing a Guy Fawkes mask.",
+      "canonical_name": "Little Tommy Bigg Law",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeered the broadcast to peer-review space masturbation physics and fact-check a masturbation-benefits video.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Tyler",
+      "role": "correspondent",
+      "notes": "correspondent. Reported on Erica Lust's workplace masturbation policy and zero-gravity ejaculation mechanics.",
+      "canonical_name": "Tyler",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum's debt to the Rock-afire gorilla stands at $179,000 with brutal interest; the gorilla bit a metal guardrail in half in a parking structure. [01:39:12]",
+      "timestamp": "01:39:12"
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "Case promises a Hamtaro stream next week and mentions slow progress on sub goals toward a workout stream. [02:50:49]",
+      "timestamp": "02:50:49"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum",
+      "fact": "Gorilla creditor bit a metal guardrail in half in a parking structure. [01:39:55]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "Entered puberty at age seven with 'penis of a 14-year-old.' [01:48:48]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Composed 'Cheese Demon' (emo/pop-punk) via Deepseek AI. [02:30:45]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Declares February 'witch month' with dedicated witch beats. [02:43:20]",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News delivered a marathon Friday broadcast covering Trump's revocation of Biden's security clearance, the DOGE lawsuit against Treasury access, and Elon Musk's teenage 'harem' of engineers. The episode devolved into AI music generation, a space masturbation physics debate, and Pepito's debut single 'Cheese Demon,' before Hype Train closed the show with a witchcraft freestyle about vodka beer bombs with Death.",
+  "_meta": {
+    "vod_id": "fZjhnGq43xA",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 145134,
+    "approx_prompt_tokens": 36283,
+    "transcript_lines": 417
+  }
+}

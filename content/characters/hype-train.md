@@ -56,7 +56,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-06-22|2026-06-22]] | High-velocity musical correspondent who confesses to cheating on his Panther girlfriend, discusses beats, and provides cultural commentary throughout the pre-show. |
 
 <details>
-<summary>Earlier appearances (55)</summary>
+<summary>Earlier appearances (56)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -76,6 +76,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2025-06-11|2025-06-11]] | Commandeered the birthday broadcast with freestyle raps, hell lore, and a level-13 surge while insisting every hype train is his birthday. |
 | [[episodes/2025-06-02|2025-06-02]] | hype correspondent. |
 | [[episodes/2025-05-27|2025-05-27]] | musical/cultural interruption. |
+| [[episodes/2025-02-08|2025-02-08]] | hype correspondent. |
 | [[episodes/2025-02-06|2025-02-06]] | musical interruption. |
 | [[episodes/2025-02-03|2025-02-03]] | Ran freestyle sub goal segment, demanded Hamtaro stream, discussed workout stream and LA beats. |
 | [[episodes/2025-01-29|2025-01-29]] | hype announcer. |
@@ -182,3 +183,4 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[25:19]** ([[episodes/2024-10-10|2024-10-10]]): Hype Train reached 'Rare Level 5' during extended freestyle — 'Vaulted Air of Level 5.'
 - **[13:01]** ([[episodes/2025-01-24|2025-01-24]]): Hype Train's official theme name decided by chat vote: 'Training Montage' (first five submissions).
 - **[25:34]** ([[episodes/2025-01-24|2025-01-24]]): Hype Train theme 'Training Montage' debuts; will play on every future Hype Train appearance.
+- **[]** ([[episodes/2025-02-08|2025-02-08]]): Declares February 'witch month' with dedicated witch beats. [02:43:20]
