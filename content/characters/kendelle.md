@@ -53,14 +53,15 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-17|2025-06-17]] | In-Studio Contributor. |
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
+| [[episodes/2025-02-14|2025-02-14]] | in-studio contributor. |
 | [[episodes/2025-02-12|2025-02-12]] | in-studio contributor. |
-| [[episodes/2025-02-06|2025-02-06]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (107)</summary>
+<summary>Earlier appearances (108)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-02-06|2025-02-06]] | in-studio contributor. |
 | [[episodes/2025-02-03|2025-02-03]] | Briefly appeared during How To segment, discussed football and cold pillows with Jeb. |
 | [[episodes/2025-02-01|2025-02-01]] | in-studio contributor. |
 | [[episodes/2025-01-31|2025-01-31]] | in-studio contributor. |

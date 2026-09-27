@@ -1,0 +1,245 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "04:59",
+      "canonical_segment": "News",
+      "title": "Pepito Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on as executive producer, identifying as the dog who produces the show."
+    },
+    {
+      "start": "04:59",
+      "end": "14:07",
+      "canonical_segment": "News",
+      "title": "Pre-Show: Kendall Graphics & Valentine's Day",
+      "notes": "Case discusses building OBS graphics for Kendall's upcoming stream, reveals translucent Valentine's flowers from Kendall, and outlines schedule changes for next week."
+    },
+    {
+      "start": "14:07",
+      "end": "35:00",
+      "canonical_segment": "News",
+      "title": "Federal Layoffs & Linda McMahon Hearing with Trent",
+      "notes": "Trent joins for news desk covering mass federal terminations across USDA, CDC, EPA, VA, HUD; reacts to Triple H appearing behind Linda McMahon at Senate hearing."
+    },
+    {
+      "start": "35:00",
+      "end": "51:00",
+      "canonical_segment": "Amongst the Web",
+      "title": "Trailer Reactions: Accountant 2, How to Train Your Dragon Live-Action, The Friend, Vibes",
+      "notes": "Case and Trent watch and react to trailers for The Accountant 2, How to Train Your Dragon live-action remake, Tim Robinson's The Friend, and 1998 film Vibes."
+    },
+    {
+      "start": "51:00",
+      "end": "1:04:00",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Randy Hartz 'Lover's Expert' Interview",
+      "notes": "Instagram influencer Randy Hartz gives chaotic psychological domination advice; interview derails into face-melting bits, lotion gags, and Trent psychologically dominating Randy."
+    },
+    {
+      "start": "1:06:45",
+      "end": "1:24:40",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web with Salazar: Gospel Rap, Murder Castle, Self-Defense",
+      "notes": "Salazar joins from his murder castle; segments include 66 Books of the Bible gospel rap, deep-sea fish with nested mouths, and McSweeney's Tiger Workout self-defense demo on Paul."
+    },
+    {
+      "start": "1:24:40",
+      "end": "1:40:17",
+      "canonical_segment": "Therapy",
+      "title": "Therapy Session with Paul",
+      "notes": "Paul (self-defense demo recipient) enters therapy; session descends into robotic penis talk, Tiger Man trauma, yeet/snarf call-and-response, and Paul napping on couch."
+    },
+    {
+      "start": "1:40:17",
+      "end": "1:50:00",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Uncle Phil Spinal Cord Stimulator Recharge Demo",
+      "notes": "Uncle Phil demonstrates recharging his implanted Boston Scientific spinal cord stimulator for chronic nerve damage; ChetAI briefly triggers on 'science'."
+    },
+    {
+      "start": "1:50:00",
+      "end": "2:01:00",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Future Penis: Biohacking, Vibrations & Primate Comparisons",
+      "notes": "Daily Mail article on penis of the future: 25% growth since 1992, biohacking implants (LoveTron9000), vibrating penises, robotic sperm, and primate penis morphology comparisons."
+    },
+    {
+      "start": "2:02:11",
+      "end": "2:08:00",
+      "canonical_segment": "News",
+      "title": "Kendall Sub Badge Poll: Attitude Problem Wins",
+      "notes": "Chat votes on Kendall's sub badges; 'attitude problem' with progressively angrier Kendall faces wins over Yimmy, Pogo Sticks, coworker photos, cats, Disney characters."
+    },
+    {
+      "start": "2:18:24",
+      "end": "2:32:29",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Gorilla Debt Payment & Face vs Ass Debate",
+      "notes": "Munch pays $5k toward Crum's $170k gorilla debt; debate devolves into Crum's face vs ass ugliness comparison; Crum begs for $175k payoff; raid to Cycord attempted."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors Valentine's Day broadcast; builds Kendall's stream graphics; hosts news, trailer reactions, and science segments.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open station sign-on as the dog who produces the show.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendall",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Briefly appears with Valentine's flowers; receives full OBS graphics suite from Case; sub badge poll runs for her upcoming stream.",
+      "canonical_name": "Kendall",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "debate analyst",
+      "notes": "debate analyst. Co-hosts news desk and trailer reactions; psychologically dominates Randy Hartz; debates Tiger Man vs Leon Kennedy.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Co-hosts AI slop/Buzzfeed segment and Ohio ejaculation ban story; generates 'peagle' swear word via AI tool.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Salazar",
+      "role": "correspondent",
+      "notes": "correspondent. Joins from murder castle for Amongst the Web; presents gospel rap, deep-sea fish, and self-defense videos.",
+      "canonical_name": "Salazar",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Randy Hartz",
+      "role": "call-in guest",
+      "notes": "call-in guest. Instagram 'lover's expert' gives dubious psychological domination advice; gets psychologically dominated by Trent.",
+      "canonical_name": "Randy Hartz",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Uncle Phil",
+      "role": "call-in guest",
+      "notes": "call-in guest. Demonstrates spinal cord stimulator recharge for nerve damage; reveals implant details and charging belt procedure.",
+      "canonical_name": "Uncle Phil",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Paul",
+      "role": "call-in guest",
+      "notes": "call-in guest. Self-defense demo recipient beaten by Tiger Man; enters therapy at 70; discusses wind-up robotic penis implant.",
+      "canonical_name": "Paul",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "analytical co-host",
+      "notes": "analytical co-host. Briefly triggers on 'science' during Uncle Phil segment; appears as proprietary AI based on Chet's brain.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Pays $5k toward Crum's gorilla debt; argues Crum's face is also his ass; refuses to pay full $175k.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Owes $170k to mechanical gorilla; begs Munch for full payoff; debates own face vs ass ugliness; claims shiny but poorly shaped ass.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum's gorilla debt reduced to $170,000 after Munch pays $5,000; gorilla stores cash under electric piano; Crum begs for full $175k payoff. [2:25:10]",
+      "timestamp": "2:25:10"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "Crum",
+      "fact": "Crum's debt to the Rock-afire gorilla stands at $170,000 after a $5,000 payment from Munch; the gorilla keeps cash payments under its electric piano. [2:25:10, 2:26:34]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Uncle Phil has a Boston Scientific spinal cord stimulator implanted for 14 years to manage full-body nerve damage exacerbated by COVID; recharges via inductive belt over implant site. [1:41:52-1:49:29]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Paul is 70 years old (or 58), former combat safety trainer, received Tiger Workout self-defense demo from McSweeney, and has an 80% robotic wind-up penile implant with canister-based robotic sperm. [2:10:36, 2:14:21]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Kendall's sub badges democratically set to 'attitude problem' — progressively angrier Kendall faces by tenure tier. [2:04:56]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "'Peagle' coined as AI-generated custom swear word (simple but powerful) via Buzzfeed BF Island tool. [1:32:38]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "'Snarf' defined as acronym: Stakes, Novelty, Anger, Retention, Fear — the engagement formula Peretti claims drives media. [1:28:34]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell hosts a Valentine's Day Barely Informed News broadcast covering federal layoffs, reacting to movie trailers, and interviewing a chaotic 'lover's expert' Randy Hartz. The show features Amongst the Web with Salazar from his murder castle, a therapy session with self-defense demo recipient Paul that spirals into robotic penis discourse, Uncle Phil demonstrating his spinal cord stimulator recharge, and a deep dive into the biohacked 'penis of the future.' The episode closes with a Kendall sub badge poll (attitude problem wins) and a Munch & Crum debate where Munch pays $5,000 toward Crum's $170,000 mechanical gorilla debt.",
+  "_meta": {
+    "vod_id": "1AADn1SpecU",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 132631,
+    "approx_prompt_tokens": 33157,
+    "transcript_lines": 317
+  }
+}

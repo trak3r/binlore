@@ -50,7 +50,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (88)</summary>
+<summary>Earlier appearances (89)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -62,6 +62,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-02|2025-06-02]] | debate analyst. |
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
+| [[episodes/2025-02-14|2025-02-14]] | debate analyst. |
 | [[episodes/2025-02-12|2025-02-12]] | debate analyst. |
 | [[episodes/2025-02-08|2025-02-08]] | debate analyst. |
 | [[episodes/2025-02-03|2025-02-03]] | Won red carpet fashion debate, collected $5,000 toward Crum's gorilla debt, mocked Crum's decaying appearance. |

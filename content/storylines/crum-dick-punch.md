@@ -86,6 +86,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2025-02-06|2025-02-06]] [01:04:27] | [01:04:27] Crum fulfills contractual monthly news obligation with a Google AI cheese error segment, no mention of gorilla wager or groin punch. |
 | [[../episodes/2025-02-08|2025-02-08]] [01:39:12] | Crum's debt to the Rock-afire gorilla stands at $179,000 with brutal interest; the gorilla bit a metal guardrail in half in a parking structure. [01:39:12] |
 | [[../episodes/2025-02-12|2025-02-12]] [01:35:38] | [01:35:38] Crum's debt to the Rock-afire gorilla stated at $175-180k with daily interest; Munch mocks Crum's sandbagging in debates due to financial pressure. |
+| [[../episodes/2025-02-14|2025-02-14]] [2:25:10] | Crum's gorilla debt reduced to $170,000 after Munch pays $5,000; gorilla stores cash under electric piano; Crum begs for full $175k payoff. [2:25:10] |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |

@@ -23,6 +23,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-02-14|2025-02-14]] | debate analyst. |
 | [[episodes/2025-02-03|2025-02-03]] | Hosted Trent at the Movies with parole officer Chris, reviewed trailers including Final Destination Bloodlines. |
 | [[episodes/2025-01-31|2025-01-31]] | movie correspondent. |
 | [[episodes/2025-01-15|2025-01-15]] | field correspondent. |
