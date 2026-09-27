@@ -78,6 +78,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2024-10-03|2024-10-03]] | No advancement; Crum nominated for mayor but no gambling liability mentioned. |
 | [[../episodes/2024-10-30|2024-10-30]] [01:24:24] | [01:24:24] Munch revives a $9,000 gambling debt from the 24-hour stream, compounds it to $90,000 with 'shark loan interest,' and frames it as Crum swimming with sharks. |
 | [[../episodes/2025-01-06|2025-01-06]] [01:39:40] | [01:39:40] Crum loses $180k 'sextuple or nothing' bet to Gorilla/ChetAI during Amongst the Web; claims he's good for it but lacks cash; Munch would receive payout per side bet. |
+| [[../episodes/2025-01-14|2025-01-14]] [51:48] | Crum's $180,000 debt to the Rock-afire gorilla referenced during Munch & Crum; Munch offers to discuss investment terms. |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |

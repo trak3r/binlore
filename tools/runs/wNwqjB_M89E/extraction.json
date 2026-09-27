@@ -1,0 +1,213 @@
+{
+  "segments": [
+    {
+      "start": "00:04",
+      "end": "08:30",
+      "canonical_segment": "News",
+      "title": "Cold Open & Pepito Sign-On",
+      "notes": "Pepito delivers the station cold-open countdown; Case discusses LA fire proximity, cat update, and streaming schedule."
+    },
+    {
+      "start": "08:30",
+      "end": "49:59",
+      "canonical_segment": "News",
+      "title": "Hegseth Confirmation Hearing Coverage",
+      "notes": "Case and Rick watch Pete Hegseth's opening remarks at 2x speed; Hegseth's mother's letter accusing him of abusing women is read on air; Kendelle walks through studio."
+    },
+    {
+      "start": "49:59",
+      "end": "01:00:59",
+      "canonical_segment": "Munch & Crum",
+      "title": "Rennerton Mayoral Platform Debate",
+      "notes": "Munch and Crum debate governance of the zombie city Rennerton; Munch proposes 'roam and groan' zones and 'advanced tactical human walls' using undead citizens; Crum's $180k gorilla debt referenced."
+    },
+    {
+      "start": "01:00:59",
+      "end": "01:20:09",
+      "canonical_segment": "How To with Jeb",
+      "title": "CPU Fabrication, Whistling & Triphallia Case Study",
+      "notes": "Jeb and his board-trapped father demonstrate CPU manufacturing and finger-whistling; Chet and ChetAI interrupt after 'science' trigger; medical report on deceased man with three penises."
+    },
+    {
+      "start": "01:26:16",
+      "end": "01:57:02",
+      "canonical_segment": "Amongst the Web",
+      "title": "Viral Video Review: Cheese Tax, Stretching, Wee Tennis, Batman & Video Dating",
+      "notes": "AI Rooney joins Case and Crum to rate viewer submissions: cheese tax song, bone-crack stretching, Australian Open wee tennis, Batman voice lineup, medical dummy exam, 1980s video dating profiles."
+    },
+    {
+      "start": "01:57:02",
+      "end": "02:01:15",
+      "canonical_segment": "News",
+      "title": "Wrap-Up & Raid",
+      "notes": "Case announces Monday/Wednesday/Friday schedule, Patreon stream tomorrow night, inauguration day stream on Jan 20; raids Avi."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored Hegseth hearing coverage, debuted accidental mustache shave, announced MWF streaming schedule.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold-open sign-on; claimed gasoline blood and penile fire emission; ate Rick's pockets.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through studio during Hegseth coverage; cats reportedly confused by Case's new look.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "recurring",
+      "notes": "recurring. Joined news desk for Hegseth hearing; claimed CIA background and possible Dwayne Johnson identity.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Proposed zombie municipal policy for Rennerton including roam-and-groan zones and tactical corpse walls.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Rennerton governance; $180k mechanical gorilla debt referenced; rated video dating profiles.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "recurring",
+      "notes": "recurring. Hosted How To segment on CPU fabrication and whistling with deceased father trapped in wood.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "recurring",
+      "notes": "recurring. Co-hosted from wooden board; bittered about mortality and Jeb's rounder appearance.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Triggered by 'science' during How To; claimed six sons and 1776 vision; presented triphallia medical case.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "recurring",
+      "notes": "recurring. Appeared alongside Chet; low-fi processors; fled after triphallia discussion.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "AI Rooney",
+      "role": "recurring",
+      "notes": "recurring. Joined Amongst the Web desk; protested cheese tax video; rated stretching and wee tennis clips.",
+      "canonical_name": "AI Rooney",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum's $180,000 debt to the Rock-afire gorilla referenced during Munch & Crum; Munch offers to discuss investment terms.",
+      "timestamp": "51:48"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Case accidentally shaved off his mustache while trimming beard, buzzed it down; expects normal look in a week.",
+      "timestamp": "16:15",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case worked out for the first time in about a year.",
+      "timestamp": "23:11",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Pepito claims his urine is gasoline and that fire comes from his penis; refers to his genital as a 'blubbous'.",
+      "timestamp": "11:09",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum owes $180,000 to the mechanical Rock-afire gorilla (gambling liability).",
+      "timestamp": "51:48",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Munch proposes 'roam and groan' policy and 'advanced tactical human walls' using Rennerton's undead citizens.",
+      "timestamp": "55:55",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Chet claims six sons (Brickston, Gene, and four others) and '1776 vision'.",
+      "timestamp": "01:16:37",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Medical case: deceased 78-year-old white male discovered post-mortem to have triphallia (three penises), two internal.",
+      "timestamp": "01:17:18",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Patreon stream scheduled for 2025-01-15 between 23:00-02:00; inauguration day stream planned for 2025-01-20 (Monday).",
+      "timestamp": "01:59:27",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns from hiatus to cover Pete Hegseth's contentious Secretary of Defense confirmation hearing, featuring opening remarks at 2x speed and a damning letter from Hegseth's mother. The broadcast continues with a Munch & Crum debate on governing the zombie city of Rennerton, a How To with Jeb segment on CPU fabrication and whistling that devolves into Chet's medical revelation about a triphallic cadaver, and an Amongst the Web review of viral videos including cheese tax songs, stretching accidents, and 1980s video dating profiles.",
+  "_meta": {
+    "vod_id": "wNwqjB_M89E",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 105076,
+    "approx_prompt_tokens": 26269,
+    "transcript_lines": 296
+  }
+}

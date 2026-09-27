@@ -50,7 +50,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (81)</summary>
+<summary>Earlier appearances (82)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -62,6 +62,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-02|2025-06-02]] | debate analyst. |
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
+| [[episodes/2025-01-14|2025-01-14]] | debate analyst. |
 | [[episodes/2024-11-26|2024-11-26]] | debate analyst. |
 | [[episodes/2024-11-06|2024-11-06]] | debate analyst. |
 | [[episodes/2024-10-31|2024-10-31]] | Seizes mayoral power under martial law, builds an army of 'banging redheaded archers,' and loses a landslide election to Crum 69-0. |
