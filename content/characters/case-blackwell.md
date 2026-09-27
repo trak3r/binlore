@@ -188,3 +188,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[[02:49:04]]** ([[episodes/2025-03-29|2025-03-29]]): Announces a Monday 'News Ice Stravaganza' where he will repeatedly dunk his head in ice water based on bit thresholds (debating 300 vs 500 bits).
 - **[]** ([[episodes/2025-03-31|2025-03-31]]): Case Blackwell completed 40 ice face dunks in a single broadcast (25 seconds each, lemon slices, later cold foam creamer). [03:14:36]
 - **[]** ([[episodes/2025-03-31|2025-03-31]]): Case Blackwell drank a shot glass of his own face water (cream, lemon, face oils) at broadcast end. [03:21:41]
+- **[]** ([[episodes/2025-04-03|2025-04-03]]): Case's streaming PC was built by T-Pain and T-Pain's friend for a TV show that never aired; it is two years old and unreliable. [01:23:38]

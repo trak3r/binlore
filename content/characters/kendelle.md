@@ -53,14 +53,15 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-17|2025-06-17]] | In-Studio Contributor. |
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
+| [[episodes/2025-04-03|2025-04-03]] | in-studio contributor. |
 | [[episodes/2025-03-31|2025-03-31]] | in-studio contributor. |
-| [[episodes/2025-03-27|2025-03-27]] | In-studio contributor co-hosts gameplay; reveals she has quit her day job; provides jump-scare commentary. |
 
 <details>
-<summary>Earlier appearances (116)</summary>
+<summary>Earlier appearances (117)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-03-27|2025-03-27]] | In-studio contributor co-hosts gameplay; reveals she has quit her day job; provides jump-scare commentary. |
 | [[episodes/2025-03-21|2025-03-21]] | in-studio contributor. |
 | [[episodes/2025-03-19|2025-03-19]] | in-studio contributor. |
 | [[episodes/2025-03-17|2025-03-17]] | in-studio contributor. |
@@ -238,3 +239,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[[01:00:19]]** ([[episodes/2025-01-31|2025-01-31]]): Coordinating Bubble Ghost stream with Trent Saturday morning; Marvel Rivals session after appointment.
 - **[]** ([[episodes/2025-03-17|2025-03-17]]): Entrance accompanied by dedicated signature theme music cued by Case. [34:30]
 - **[]** ([[episodes/2025-03-19|2025-03-19]]): Has officially quit her day job with two weeks' notice; exploring freelance/streaming full-time. [1:02:50]
+- **[]** ([[episodes/2025-04-03|2025-04-03]]): Kendelle's streaming assets and overlay setup are still incomplete, delaying her solo streams. [00:33:21]

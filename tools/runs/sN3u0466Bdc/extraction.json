@@ -1,0 +1,71 @@
+{
+  "segments": [
+    {
+      "start": "00:04",
+      "end": "08:17",
+      "canonical_segment": "News",
+      "title": "Cold Open & Technical Setup",
+      "notes": "Pepito delivers the station sign-on as 'Papita the dog.' Case Blackwell and Kendelle configure co-streaming, troubleshoot audio, and discuss skincare routines and street-cat socialization."
+    },
+    {
+      "start": "08:17",
+      "end": "3:48:10",
+      "canonical_segment": "News",
+      "title": "REPO Co-op Extraction Run",
+      "notes": "Case, Kendelle, Ryan, Fancy, Nathan, and Bri play the co-op horror extraction game REPO across multiple rounds, managing upgrades, carts, monsters, and frequent technical glitches including door bugs and Kendall's T-Pain-built PC crashing."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors the REPO gaming session, coordinates squad upgrades, and troubleshoots co-stream tech.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers the top-of-hour cold open as 'Papita the dog' before handing off to Case.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Co-streams REPO with Case, manages cat-feeding duties mid-session, and scores clutch extractions.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Case's streaming PC was built by T-Pain and T-Pain's friend for a TV show that never aired; it is two years old and unreliable. [01:23:38]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Kendelle's streaming assets and overlay setup are still incomplete, delaying her solo streams. [00:33:21]",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News airs a special off-format broadcast as Case Blackwell and Kendelle co-stream the co-op extraction horror game REPO with a rotating squad of friends. Executive Producer Pepito opens the hour in character as 'Papita the dog' before the team spends nearly four hours hauling valuables, upgrading strength and jump stats, battling clowns, aliens, and door glitches, and losing multiple money bags to physics bugs. The session ends with Case pledging a return to news programming the following day and raiding a fellow streamer.",
+  "_meta": {
+    "vod_id": "sN3u0466Bdc",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 118137,
+    "approx_prompt_tokens": 29534,
+    "transcript_lines": 408
+  }
+}
