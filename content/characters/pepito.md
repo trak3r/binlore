@@ -61,7 +61,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (76)</summary>
+<summary>Earlier appearances (77)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -72,6 +72,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
 | [[episodes/2025-06-02|2025-06-02]] | executive producer. |
+| [[episodes/2025-03-17|2025-03-17]] | executive producer. |
 | [[episodes/2025-02-25|2025-02-25]] | executive producer. |
 | [[episodes/2025-02-08|2025-02-08]] | executive producer. |
 | [[episodes/2025-01-29|2025-01-29]] | executive producer. |
@@ -236,3 +237,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[00:06]** ([[episodes/2025-01-24|2025-01-24]]): Pepito cold open: 'Greatest retired pretzel dreams and also high-training future thank you to the support.'
 - **[]** ([[episodes/2025-01-29|2025-01-29]]): Fridge is 'just a fridge for cold garbage' with piss in it. [25:40]
 - **[]** ([[episodes/2025-02-08|2025-02-08]]): Composed 'Cheese Demon' (emo/pop-punk) via Deepseek AI. [02:30:45]
+- **[]** ([[episodes/2025-03-17|2025-03-17]]): Delivered cold open sign-on identifying as 'Papita, the dog that produces the show.' [00:06]

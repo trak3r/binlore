@@ -1,0 +1,205 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "47:12",
+      "canonical_segment": "News",
+      "title": "Post-Disney Return & Venezuelan Deportation Crisis",
+      "notes": "Case Blackwell returns from Disney World, recounts Fantasmic show; Dwayne the Shamrock of Johnson delivers St. Patrick's Day commentary; Chet Manscape appears as 'Big Cheddar'; Kendall walks through studio; coverage of Trump administration defying court order on Venezuelan deportations and deportation of Dr. Rasha Allawi; beef tallow discussion."
+    },
+    {
+      "start": "47:12",
+      "end": "1:17:13",
+      "canonical_segment": "Amongst the Web",
+      "title": "Internet Video Review: Epstein Musical, Eye-Hole Man, Pelican, Cannon Man, Pipe Rock Conspiracy",
+      "notes": "Case and Crum watch viewer-submitted videos: Joel Haver's Epstein musical, news cat, man with large eye socket, pelican eating capybara, human cannonball, Tim Lampier's pipe rock conspiracy video featuring Tom Cruise and Scientology."
+    },
+    {
+      "start": "1:17:13",
+      "end": "1:38:42",
+      "canonical_segment": "News",
+      "title": "Leonor Braffinsman Speed Run: Chewing Wood, Jason Isaacs, Starship Troopers, Octopus Venom, Tiger Woods, Penis Crucifix, Funeral Home Justice",
+      "notes": "Case adopts 'Leonor Braffinsman' persona for rapid-fire news: study on chewing wood boosting brain antioxidants; Jason Isaacs on prosthetic penis double standard; Neil Blomkamp directing Starship Troopers; male octopus poisoning females; Tiger Woods dating Vanessa Trump; Behemoth acquitted for penis crucifix; funeral home worker stuffing penis in mouth; Grimes AI art."
+    },
+    {
+      "start": "1:38:42",
+      "end": "1:48:03",
+      "canonical_segment": "How To with Jeb",
+      "title": "Ghost Jeb's Watermelon, Milk, Irish Coffee, Jelqing, Hot Dog, and Fishing Tutorials",
+      "notes": "Jeb Nogget broadcasts from 'the wood' as a ghost; demonstrates watermelon net chop, slicing milk, Irish coffee, jelqing with dildo, Vietnamese dessert, grilled hot dogs with cheese/chili, and hammer-bait fishing catching a mysterious object; Jeb's Dad (board) interjects."
+    },
+    {
+      "start": "1:48:03",
+      "end": "1:57:56",
+      "canonical_segment": "News",
+      "title": "1958 Yogi Bear Interview & Guy Redacted Returns",
+      "notes": "Case interviews 1958 Yogi Bear who confesses to killing Boo Boo, luring Boy Scouts, and starting Smoky Bear's parents' fire; Guy Redacted returns from silencing, investigates Avril Lavigne body double conspiracy, claims government changed search to 'body pool'."
+    },
+    {
+      "start": "1:57:56",
+      "end": "2:09:07",
+      "canonical_segment": "Munch & Crum",
+      "title": "Solo Leveling vs. Hunter x Hunter Debate; Gorilla Debt Payment",
+      "notes": "Crum argues for unseen Solo Leveling (infinite theoretical quality); Munch defends Hunter x Hunter (ant soldier Frieza, Buddha technique). Munch wins vote; Rock-afire gorilla receives $5,000 auto-payment on Crum's $165,000 debt; gorilla's fence breaches causing dog infestation discussed."
+    },
+    {
+      "start": "2:09:07",
+      "end": "2:11:20",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid to Psychor",
+      "notes": "Munch delivers freestyle rap; Case raids Psychor's special event channel."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored full broadcast: Disney recap, news desk, Amongst the Web, Leonor Braffinsman speed run, Yogi Bear interview, Munch & Crum debate moderation.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on as 'Papita the dog' at top of broadcast.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Appeared as 'Big Cheddar' for St. Patrick's Day, claimed multi-ethnic heritage, bantered with Case before news segment.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through studio with signature theme music, teased Case about smell and door, moderated chat ban powers.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Co-hosted Amongst the Web commentary, debated Munch on Solo Leveling vs Hunter x Hunter, $165k gorilla debt auto-paid $5k.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Co-hosted Amongst the Web, won Hunter x Hunter debate, collected $5k gorilla payment, delivered sign-off freestyle rap.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Broadcast as ghost from 'the wood' for How To with Jeb, demonstrated watermelon, milk, jelqing, hot dogs, fishing.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "co-host (spirit in board)",
+      "notes": "co-host (spirit in board). Interjected during Jeb's tutorials, argued over cutting liquids and video ratings.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Guy Redacted",
+      "role": "conspiracy correspondent",
+      "notes": "conspiracy correspondent. Returned after being silenced, investigated Avril Lavigne body double conspiracy, claimed government search manipulation.",
+      "canonical_name": "Guy Redacted",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rock-afire Gorilla",
+      "role": "creditor/prop",
+      "notes": "creditor/prop. Mechanical gorilla creditor to Crum; received $5k auto-payment, breaching Crum's fence causing dog infestation.",
+      "canonical_name": "Rock-afire Gorilla",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum's gambling debt to Rock-afire gorilla stands at $165,000; $5,000 auto-paid after debate win; gorilla breaching fence at Crum's home causing property damage and dog infestation. [1:59:03, 2:05:47, 2:06:11]",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Gambling debt to Rock-afire gorilla: $165,000 outstanding; $5,000 auto-paid per debate win; gorilla causing property damage (Kool-Aid Man style fence breaches) attracting neighborhood dogs. [1:59:03, 2:05:47, 2:06:11]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Delivered cold open sign-on identifying as 'Papita, the dog that produces the show.' [00:06]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Entrance accompanied by dedicated signature theme music cued by Case. [34:30]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Appeared untriggered by 'science' keyword; adopted 'Big Cheddar' persona for St. Patrick's Day, claimed 60-70% Irish, 70% German, Nordic, Native American, and African heritage. [22:51]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "Broadcasting as deceased 'ghost in the wood' after losing glasses; co-hosts with father's spirit trapped in wooden board. [1:38:42]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Guy Redacted",
+      "fact": "Returned after period of being 'silenced' by disappearing hosts; operates from undisclosed location, wears Illuminati hat, investigates Avril Lavigne replacement conspiracy. [1:49:14]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Rock-afire Gorilla",
+      "fact": "Mechanical animatronic creditor; plays two songs on keyboard; receives automatic payments; physically breaches Crum's property fence. [2:05:47, 2:07:56]",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returned from Disney World to anchor a broadcast dominated by the Trump administration's defiance of a federal court order on Venezuelan deportations and the removal of a Lebanese doctor. The episode cycled through Amongst the Web video reviews, a Leonor Braffinsman news speed run, a ghostly How To with Jeb, a surreal 1958 Yogi Bear confession interview, Guy Redacted's conspiracy return, and a Munch & Crum debate on anime that resulted in another $5,000 payment toward Crum's $165,000 debt to the Rock-afire gorilla — whose escalating fence breaches are now ruining Crum's yard with neighborhood dogs.",
+  "_meta": {
+    "vod_id": "xcrzwZZVnhQ",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 107688,
+    "approx_prompt_tokens": 26922,
+    "transcript_lines": 314
+  }
+}

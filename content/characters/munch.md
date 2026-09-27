@@ -50,7 +50,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (92)</summary>
+<summary>Earlier appearances (93)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -62,6 +62,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-02|2025-06-02]] | debate analyst. |
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
+| [[episodes/2025-03-17|2025-03-17]] | debate analyst. |
 | [[episodes/2025-03-04|2025-03-04]] | debate analyst. |
 | [[episodes/2025-02-28|2025-02-28]] | debate analyst. |
 | [[episodes/2025-02-25|2025-02-25]] | debate analyst. |
