@@ -190,3 +190,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[]** ([[episodes/2025-03-31|2025-03-31]]): Case Blackwell drank a shot glass of his own face water (cream, lemon, face oils) at broadcast end. [03:21:41]
 - **[]** ([[episodes/2025-04-03|2025-04-03]]): Case's streaming PC was built by T-Pain and T-Pain's friend for a TV show that never aired; it is two years old and unreliable. [01:23:38]
 - **[1:45:44]** ([[episodes/2025-04-05|2025-04-05]]): Reports his custom-built workstation is severely flawed, citing overheating and driver issues. [1:45:44]
+- **[[01:13:33]]** ([[episodes/2025-04-25|2025-04-25]]): Current PC built with assistance from Kendall and 20-person Discord crew; treats it as a sacred item due to component costs.

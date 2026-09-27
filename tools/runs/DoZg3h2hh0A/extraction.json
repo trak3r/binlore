@@ -1,0 +1,174 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "08:24",
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on as a dog, riffs on the upcoming sperm race event, and banters with chat about AMD core counts."
+    },
+    {
+      "start": "08:24",
+      "end": "41:06",
+      "canonical_segment": "News",
+      "title": "News Desk: Judge Arrest & Marco Rubio Foam Party",
+      "notes": "Case Blackwell and Jeff Ripple cover the federal arrest of Milwaukee Judge Hannah Dugan for obstructing immigration enforcement, then pivot to alleged photos of Marco Rubio at a Miami foam party, debating the veracity and political implications."
+    },
+    {
+      "start": "42:34",
+      "end": "01:07:36",
+      "canonical_segment": "How To with Jeb",
+      "title": "How To with Rick: Finger Dancing, Jaw Relaxation & Squirting Tutorial",
+      "notes": "Rick (CIA operative) hosts a chaotic instructional block: digit-finger dance basics, jaw relaxation exercises, missing-person investigation tips, and a 13-minute 'how to squirt' video interrupted by Hype Train's milk delivery and Rick soiling himself."
+    },
+    {
+      "start": "01:08:24",
+      "end": "01:28:35",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Who Killed the Pope & JD Vance Hairless AI Generation",
+      "notes": "Munch and Crum debate whether Case Blackwell (as JD Vance) killed the Pope by overturning Roe v. Wade; Crum admits the gambling debt to the Rock-afire gorilla; they generate AI images of a hairless JD Vance using ChatGPT and Grok."
+    },
+    {
+      "start": "01:28:35",
+      "end": "02:29:05",
+      "canonical_segment": "News",
+      "title": "Speed News with Liliana",
+      "notes": "Rapid-fire headlines: boyfriend jumps from first-floor window during argument, Nexus Mods/Oblivion body-type controversy, golden mole penis size study, Kick streamer carves logo into Horseshoe Bend, Asmongold viewership stats, male contraceptive gel (Adam), Bayeux Tapestry penis count dispute, George Santos sentencing, Kanye West Twitch ban, Mike Lindell lawyers cited for AI-hallucinated cases, FDA milk proficiency testing pause, micro-penis relationship story, bone-collector caterpillar, tariffs on sex toys, conservative media targeting women."
+    },
+    {
+      "start": "02:29:05",
+      "end": "02:41:15",
+      "canonical_segment": "News",
+      "title": "Sperm Racing Check-In & Conspiracy Segment",
+      "notes": "Liliana checks spermracing.com (2,500 viewers waiting, starts in 30 min), reviews Instagram promos featuring 'Dick Gay' and 'Beast Child', declares the event losing its whimsy, then raids Christine (Kendelle's sister) playing Minecraft."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the broadcast, debated Munch & Crum as JD Vance stand-in, built current PC with Kendall's help, missed the live sperm race.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open as a dog, riffed on sperm race categories and AMD core counts, issued pasta/wine demands.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-anchored news desk, covered Judge Dugan arrest and Marco Rubio foam party, traded sperm jokes with Case.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Brief walk-through to confirm PC build success and mention new undisclosed job; left after short song.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "host of Amongst the Web",
+      "notes": "host of Amongst the Web. Hosted How To block as CIA operative, attempted finger dancing and jaw relaxation, soiled pants during squirting tutorial.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Crum on Pope/JD Vance, claimed cellular control over hair greying, agitated for Crum's gorilla debt collection.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defended JD Vance/Case as Pope killer, admitted ongoing gambling debt to Rock-afire gorilla, approved AI hairless JD Vance likeness.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Interrupted Rick's segment with freestyle rap and delivered thick milk (oat/lotion) to Rick.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:14:34] Crum acknowledges the gambling debt to the Rock-afire gorilla: 'I owe a gorilla money... I have to do this for the record.' Munch elaborates on the gorilla milking Crum dry before striking.",
+      "timestamp": "01:14:34"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Gambling debt to the Rock-afire animatronic gorilla remains active; Crum states he must continue debates to pay it off.",
+      "timestamp": "[01:14:34]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Claims to force his hair to stay grey at a cellular level through biological willpower, comparing himself to a Baki the Grappler character.",
+      "timestamp": "[01:13:31]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Liliana",
+      "fact": "States her official origin is 'Anglo-European' (not German).",
+      "timestamp": "[02:03:40]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Has a new job (undisclosed) and is completing W2 paperwork; Case built her streaming PC but she reports ongoing camera issues.",
+      "timestamp": "[01:37:12]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Current PC built with assistance from Kendall and 20-person Discord crew; treats it as a sacred item due to component costs.",
+      "timestamp": "[01:13:33]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Sperm Racing",
+      "fact": "Live event confirmed at LA Center Studios with hosts 'Dick Gay' and 'Beast Child', competitors Tristan (U of C) and Asher, 2,500 viewers waiting on YouTube.",
+      "timestamp": "[02:27:08]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered the federal arrest of a Milwaukee judge for obstructing immigration enforcement, then veered into Marco Rubio foam-party allegations and a chaotic How To block where CIA operative Rick soiled himself during a squirting tutorial. Munch & Crum debated whether Case Blackwell (as JD Vance) killed the Pope via Roe v. Wade overturn while generating AI images of a hairless vice president. Speed News rapid-fired through mole penises, Kick vandalism, Asmongold dominance, male contraceptive gel, Bayeux Tapestry phallus counts, George Santos sentencing, Kanye's 7-minute Twitch ban, and micro-penis relationship advice. The broadcast ended with a sperm-race check-in revealing a real event at LA Center Studios hosted by 'Dick Gay', then raided Christine playing Minecraft.",
+  "_meta": {
+    "vod_id": "DoZg3h2hh0A",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 135577,
+    "approx_prompt_tokens": 33894,
+    "transcript_lines": 296
+  }
+}
