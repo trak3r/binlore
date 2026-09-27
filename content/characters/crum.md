@@ -271,3 +271,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[[01:44:35-01:47:18]]** ([[episodes/2024-09-13|2024-09-13]]): Reports light sensitivity from gold blazer; claims side channel rating envelope flavors.
 - **[02:09:46]** ([[episodes/2024-09-18|2024-09-18]]): Urinates on studio floor live during Jumbalaya segment [02:09:46].
 - **[]** ([[episodes/2024-10-13|2024-10-13]]): Crum confirms marriage to Belulia and claims Krav Maga/Tai Chi training [02:12:58]
+- **[[01:24:24]]** ([[episodes/2024-10-30|2024-10-30]]): Allegedly owes Munch $9,000 from the 24-hour stream, now compounded to $90,000 with shark-loan interest.

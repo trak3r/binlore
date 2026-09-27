@@ -1,0 +1,149 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Cold Open & Headlines: Oregon Earthquake, Rogan-Hinchcliffe, Geography Lesson",
+      "start": "00:06",
+      "end": "27:58",
+      "notes": "Case and Pepito open with a debate tease, then cover a 6.1 magnitude Oregon coast earthquake, Joe Rogan's claim he warned Tony Hinchcliffe off the Puerto Rico joke, and an impromptu U.S. map geography correction."
+    },
+    {
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Trump V 2 Rogans: Double Rogan, Floral Coat, Turtle Art Theory, Ooze Housing Policy",
+      "start": "27:58",
+      "end": "51:25",
+      "notes": "Case performs a two-voice parody interview with Donald Trump and Joe Rogan; topics include tort/turtle law reform, solving homelessness with mutagenic ooze half-shells, a Jurassic Park musical without music, ninja aliens from the earth's core, and incinerating the opposing political team."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web: Garf Rates Viral Videos — Barkley, Fragrance Jesus, Juicy Pussy Bread, Karate Rap, Bear Wrestling",
+      "start": "51:56",
+      "end": "01:21:03",
+      "notes": "Garf hosts the viral desk: Charles Barkley singing, Jeremy Fragrance opening his heart with a key after his father's death, 'juicy pussy' bread linguistic debate, 1986 Samurai Studios karate rap (still operating as web designers), and a sportsmanlike bear wrestling match."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Candy Corn vs. Candy Canes — $90k Gambling Debt, Communist Insults, Play-Doh Breath",
+      "start": "01:23:22",
+      "end": "01:34:05",
+      "notes": "Munch and Crum debate Halloween vs. Christmas candy; Munch revives a $9,000 gambling debt from the 24-hour stream (now $90k with shark interest), Crum claims corn-based ballistic superiority, and breath insults escalate to Play-Doh scatology."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Post-Show Wrap: Satellite Rooms, Cord Management, Democratic Anchor Vote, Raid to Dink Sauce",
+      "start": "01:34:05",
+      "end": "01:41:39",
+      "notes": "Case closes while Peter Gibbon lobbies for lead anchor from a satellite room; Pepito proposes taping cords and money to walls; chat votes 'Case in a fancy hat' via exclamation-point democracy; raid sent to Dink Sauce."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Questions his own dog identity, senses void leakage from the Rogan segment, and suggests taping cords and money to walls.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walks through studio eating a two-hour-old egg with hot sauce, triggers theme music, and is referenced for potential Thanksgiving parade hosting.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Tyler",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosts the news desk, discusses unified thought-action philosophy, peeing on the people pile, and Oregon geography.",
+      "canonical_name": "Tyler",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defends candy corn as corn-based American ballistic superiority, denies $9k gambling debt to Munch, and claims centrist 'crumbiness' ideology.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Champions candy canes as Christmas visual lexicon, revives $9k gambling debt (now $90k with interest), and attacks Crum's breath as Play-Doh scatology.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Emerges from a satellite room to lobby for lead anchor, claims six satellite rooms exist, and watches the broadcast from inside the walls.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:24:24] Munch revives a $9,000 gambling debt from the 24-hour stream, compounds it to $90,000 with 'shark loan interest,' and frames it as Crum swimming with sharks.",
+      "timestamp": "01:24:24"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Experiences identity uncertainty about being a dog during the cold open.",
+      "timestamp": "[11:22]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Wears a fancy hat for the final segment and wins the chat's exclamation-point democratic vote for lead anchor.",
+      "timestamp": "[01:39:19]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Reveals the existence of six satellite rooms and broadcasts from one room over while lobbying for lead anchor.",
+      "timestamp": "[01:36:33]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Allegedly owes Munch $9,000 from the 24-hour stream, now compounded to $90,000 with shark-loan interest.",
+      "timestamp": "[01:24:24]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Network",
+      "fact": "Thanksgiving Day Parade stream is tentatively planned, contingent on Kendall's participation.",
+      "timestamp": "[01:26:27]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Network",
+      "fact": "Renterton stream with Mayor Godzilla and zombie apocalypse storyline targeted for Friday after 5 PM on Patreon.",
+      "timestamp": "[01:40:56]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opens with an Oregon earthquake and a Joe Rogan clip before launching into a dual-voice Trump/Rogan parody that pierces the void and leaks darkness into the studio. Garf hosts a transcendent Amongst the Web featuring fragrance Jesus, juicy pussy bread, and the immortal 1986 karate rap. Munch and Crum debate candy corn versus candy canes while litigating a $90,000 shark-interest gambling debt, and Peter Gibbon stages a coup from the satellite rooms as chat votes Case in a fancy hat to remain lead anchor.",
+  "_meta": {
+    "vod_id": "kRdImfIwy4Q",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 89687,
+    "approx_prompt_tokens": 22421,
+    "transcript_lines": 201
+  }
+}
