@@ -1,0 +1,234 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "10:37",
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-on",
+      "notes": "Pepito delivers the network sign-on and countdown; Case Blackwell opens the broadcast noting sub goal scheduling uncertainty."
+    },
+    {
+      "start": "10:37",
+      "end": "34:45",
+      "canonical_segment": "News",
+      "title": "News Desk: DeepSeek, Heathcliff, and Market Reaction",
+      "notes": "Case and Munch banter about Heathcliff's girlfriends before discussing Chinese AI DeepSeek triggering a U.S. tech stock sell-off; Case prompts DeepSeek to write a Heathcliff parody song about Jeff Ripple."
+    },
+    {
+      "start": "35:09",
+      "end": "57:44",
+      "canonical_segment": "How To with Jeb",
+      "title": "How To with Jeb: Bodybuilding Poses, Girlfriend Advice, and the I Love You Test",
+      "notes": "Jeb and his board-trapped father watch instructional videos on bodybuilding posing, relationship advice from 'Dear Cyber Sue,' and Evan Michaels' 'I Love You Test'; Jeb attempts the test on Kendall, resulting in a $700 payout."
+    },
+    {
+      "start": "58:49",
+      "end": "1:10:15",
+      "canonical_segment": "News",
+      "title": "News Desk: Trump Cabinet Confirmations",
+      "notes": "Case and security guard Craig discuss confirmations of Pete Hegseth (Defense), Marco Rubio, John Ratcliffe (CIA), and Kristi Noem (Homeland Security), with commentary on Hegseth's oath ceremony."
+    },
+    {
+      "start": "1:11:26",
+      "end": "1:34:06",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web: Viewer Video Submissions",
+      "notes": "Case and Craig rate viewer-submitted videos including a roach torture clip, cosplay, a gender reveal, a yogurt jar opening, a cringe influencer, and a Canadian drinking bit; zero scores dominate."
+    },
+    {
+      "start": "1:34:29",
+      "end": "1:48:30",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet Guy the Science Eyes: Future Dick Science",
+      "notes": "Chet and ChetAI interrupt the broadcast to analyze a Unilad article claiming average penis size has grown 25% since 1992 and may reach 8.5 inches, with speculation on built-in contraception and vaginal changes; ChetAI glitches during math."
+    },
+    {
+      "start": "1:48:30",
+      "end": "1:51:03",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train: New Theme Debut",
+      "notes": "Hype Train appears with a new theme based on Quad City DJs' 'Come On Ride the Train,' briefly interacts with the DJs before the segment ends abruptly."
+    },
+    {
+      "start": "1:51:03",
+      "end": "2:08:44",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web: Trent at the Movies (Trailer Reviews)",
+      "notes": "Case and Trip Bradstein (as 'Trent') watch trailers for Bubble Ghost (Game Boy), Modern Vampires (1998), an FX alien series, a PSVR2 horror game 'The Obsessive Shadow,' and a Jack Black mid-2000s project."
+    },
+    {
+      "start": "2:09:18",
+      "end": "3:01:20",
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip on the Street: Park Opinions and Content Brainstorm",
+      "notes": "Trip Bradstein collects opinions from park denizens including a Pepsi-deprived Costco shopper, Mountain Mark (moon man battle), the Canadian Tickler, a JD Vance impersonator demanding 'wiener' restored to 'dong,' a corporate undermining advisor, a Hamtaro fan, and HR impostor Brock Stickman/Jack Jackoff; Kendall joins for content strategy brainstorming."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "Executive Producer",
+      "notes": "Executive Producer. Delivered the station sign-on and countdown, managed broadcast flow, and refused to block strangers from the satellite room.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "Lead Anchor",
+      "notes": "Lead Anchor. Anchored the News desk, hosted Amongst the Web and Chet segments, debuted Hype Train's new theme, and discussed Disney pass renewal with Kendall.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "Debate Analyst",
+      "notes": "Debate Analyst. Sparred with Case on the News desk over Heathcliff lore and DeepSeek market impact.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "How To Host",
+      "notes": "How To Host. Hosted the instructional segment from his workshop with his deceased father trapped in a wooden board.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "Co-host (Spirit in Wood)",
+      "notes": "Co-host (Spirit in Wood). Bickered with Jeb from inside a wooden board, claimed Tinder presence, and referenced replacing his wife's first husband at Chuck E. Cheese.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendall",
+      "role": "In-Studio Contributor",
+      "notes": "In-Studio Contributor. Endured Jeb's 'I Love You Test' confession for $700, then joined Trip's park segment to brainstorm content ideas including 'cupcake for confessions.'",
+      "canonical_name": "Kendall",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick (Craig)",
+      "role": "Security Guard / Amongst the Web Co-host",
+      "notes": "Security Guard / Amongst the Web Co-host. Co-hosted Amongst the Web video ratings while claiming to be Ben Affleck's former security.",
+      "canonical_name": "Rick (Craig)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "Chief Science Correspondent",
+      "notes": "Chief Science Correspondent. Commandeered the broadcast for a penis growth study analysis, deploying ChetAI for math and future-vision glitches.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "Neural Co-host",
+      "notes": "Neural Co-host. Attempted to calculate 25% of 4.8 inches, glitched into a future vision, and offered 'elephant' as a possible answer.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "Musical Interruption",
+      "notes": "Musical Interruption. Debuted a new Quad City DJs-based theme music and briefly interacted with the DJs before being cut off.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "Field Correspondent",
+      "notes": "Field Correspondent. Hosted Trip on the Street from park bushes, collecting opinions from eccentric park denizens and brainstorming with Kendall.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Case's sub goal streaming schedule remains uncertain, possibly Tuesday or weekend.",
+      "timestamp": "[09:09]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Kendall's 'Filipino son' puppet is in a pirate phase and says 'Oi.'",
+      "timestamp": "[16:13]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jeb's Dad claims he replaced his wife's first husband at Chuck E. Cheese while the husband was very sick.",
+      "timestamp": "[50:15]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jeb paid Kendall $700 after attempting the 'I Love You Test' on her during the How To segment.",
+      "timestamp": "[49:53]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "ChetAI glitched into a future vision while calculating 25% of 4.8, offering answers '1.2' or 'elephant.'",
+      "timestamp": "[1:41:17]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Hype Train adopted a new theme based on Quad City DJs' 'Come On Ride the Train.'",
+      "timestamp": "[1:48:30]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case and Kendall re-purchased Disneyland annual passes and are planning a Disney World trip with Genie+.",
+      "timestamp": "[2:39:24]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case experienced leg pain on the Tron coaster at Shanghai Disney due to tight seating.",
+      "timestamp": "[2:41:07]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Brock Stickman claims to be HR at Kendall's company; Jack Jackoff revealed as stacked towels in a hoodie impersonating him.",
+      "timestamp": "[2:57:45]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened with Pepito's sign-on and a News desk deep-dive into DeepSeek's market disruption and Heathcliff's romantic history. The broadcast cycled through a Jeb-led instructional segment culminating in a $700 'I Love You Test' payout, a cabinet confirmation recap, a brutal Amongst the Web viewer video block, a Chet Guy the Science Eyes investigation into alleged penis size inflation, a Hype Train theme overhaul, a movie trailer review block, and an extended Trip on the Street featuring park denizens and a Kendall content strategy session.",
+  "_meta": {
+    "vod_id": "oesp62SYzbk",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 145654,
+    "approx_prompt_tokens": 36413,
+    "transcript_lines": 417
+  }
+}
