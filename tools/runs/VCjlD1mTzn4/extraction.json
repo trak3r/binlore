@@ -1,0 +1,252 @@
+{
+  "segments": [
+    {
+      "start": "00:02",
+      "end": "07:52",
+      "canonical_segment": "News",
+      "title": "Cold Open & Pepito Sign-On",
+      "notes": "Pepito delivers the station sign-on as executive producer dog; Kendall walks through with signature theme music."
+    },
+    {
+      "start": "07:52",
+      "end": "27:41",
+      "canonical_segment": "News",
+      "title": "Pre-Show Chat & Sub Goal Shopping",
+      "notes": "Case and Pepito discuss Boston weather, Planet Fitness deal, papal conclave stream idea, yellow tie rebellion sub goal (buys fish tie instead), Hamtaro kigurumi onesie search, workout stream sub goal."
+    },
+    {
+      "start": "27:41",
+      "end": "53:10",
+      "canonical_segment": "News",
+      "title": "Papal Conclave & Trump Budget with Jeff Ripple",
+      "notes": "Jeff Ripple joins; papal conclave history and 2025 contenders (including Jelly Roll); Trump's $163B budget proposal cutting education, NIH, CDC, IRS while boosting homeland security 65%."
+    },
+    {
+      "start": "53:10",
+      "end": "01:09:37",
+      "canonical_segment": "Munch & Crum",
+      "title": "Family Guy Porn Debate",
+      "notes": "Crum owes Rock-afire gorilla $125k; Munch forces Crum to defend 'good videos vs Family Guy porn' in Amongst the Web; Crum wins $5k by arguing for aged-up adult fan erotica."
+    },
+    {
+      "start": "01:09:37",
+      "end": "01:33:18",
+      "canonical_segment": "Amongst the Web",
+      "title": "Viewer Submissions & Ayahuasca Vision",
+      "notes": "Case and Jeff review clips: lawyer commercial, 90s dance workout, gym proposal, Wendy's AI drive-thru, Bee Movie meme; Case claims ayahuasca vision of cloud coyote."
+    },
+    {
+      "start": "01:33:18",
+      "end": "01:50:06",
+      "canonical_segment": "News",
+      "title": "Liliana News Desk: Screwworms & Overwatch",
+      "notes": "Liliana joins; Northumberland arsonist, New World screwworm invasion (USDA carpet-bombing Mexico with sterile flies), Overwatch 6v6 perk update, Keanu Reeves/Sandra Bullock reunion film, WWE releases."
+    },
+    {
+      "start": "01:50:06",
+      "end": "01:58:15",
+      "canonical_segment": "News",
+      "title": "Kendall Visit: Envato & Influencer Manager Bit",
+      "notes": "Kendall appears, logs into Envato on Case's PC, peels self-portraits onto his monitor, declares herself 'influencer manager' not 'content pimp', discusses dinner plans and New York Chinese food."
+    },
+    {
+      "start": "01:58:15",
+      "end": "02:39:17",
+      "canonical_segment": "News",
+      "title": "Rapid-Fire News: Renner, Kentucky Derby, AI Radio, Zipper Tech",
+      "notes": "Jeremy Renner turned down Hawkeye S2 over half-salary offer citing snowmobile accident; Kentucky Derby Uma Musume crossover; Australian radio ARN used AI host 'Thy' 6 months undisclosed; self-zipping zipper demo; Paresh Rawal drinks urine."
+    },
+    {
+      "start": "02:39:17",
+      "end": "02:55:10",
+      "canonical_segment": "How To with Jeb",
+      "title": "Chris Sawyer Interview: RollerCoaster Tycoon Creator",
+      "notes": "Chris Sawyer (RollerCoaster Tycoon/Transport Tycoon creator) appears; defends 90s PC optimization, hates Planet Coaster, consults for Frontier, retired from game dev, last original title Locomotion."
+    },
+    {
+      "start": "02:55:10",
+      "end": "03:21:31",
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip Bradstein: Park Opinions & Chris Sawyer Returns",
+      "notes": "Trip in park interviews: Family Guy porn enjoyer (Cleveland/Lois), Chris Sawyer returns twice more (RCT3 regrets, reads Case's article), Darfus the rat, Hamtaro cultist, bird trainer, rollercoaster guy, park ranger suggests Family Guy porn for Chris Sawyer."
+    },
+    {
+      "start": "03:21:31",
+      "end": "03:24:14",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid",
+      "notes": "Case wraps, thanks mods, teases Monday stream, papal conclave stream, Hamtaro stream, Antara stream; raids Static Slater."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored full broadcast; shopped for fish tie instead of yellow tie; claimed ayahuasca vision; interviewed Chris Sawyer; teased papal conclave and Hamtaro streams.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on; managed studio audio; inked fake Planet Fitness deal; attempted to find Chris Sawyer in Rolodex.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walk-through with theme music; returned for extended Envato login bit, plastered self-portraits on Case's monitor, debated 'influencer manager' vs 'content pimp' label.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Joined for papal conclave and Trump budget breakdown; traded pop culture references; co-hosted Amongst the Web clip review.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Owes Rock-afire gorilla $125k; won $5k defending aged-up Family Guy fan erotica against Munch's 'good videos' position.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Forced Crum into Family Guy porn debate; claimed hell wasn't bad; insulted Crum as 'cafeteria muck' and 'aging baboon'.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Co-anchored news block covering screwworm invasion, Overwatch revival, AI radio host; speculated Peter Gibbon runs demonic rat operation in walls.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris Sawyer",
+      "role": "guest",
+      "notes": "guest. RollerCoaster Tycoon creator; appeared via Pepito's Rolodex; defended 90s optimization, attacked Planet Coaster, revealed retirement and Frontier consulting role.",
+      "canonical_name": "Chris Sawyer",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Broadcast from park bushes; interviewed parade of eccentrics including Family Guy porn fan, returning Chris Sawyer, Darfus the rat, Hamtaro cultist, bird trainer, park ranger.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Referenced as wall-dwelling stowaway keeping shape-shifting rat 'Darfus' in studio walls; possibly conducting interdimensional demonic practices.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Papal Conclave Stream",
+      "beat": "[07:52-27:41] Case plans 'Papal Binclave' stream for May 7 conclave with chat-voted elimination rounds; considers Jelly Roll as candidate.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Yellow Tie Rebellion",
+      "beat": "[16:45-22:20] Sub goal for yellow tie completed; Case bought fish tie with yellow accents instead, framing it as fish rebellion against yellow ties.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[53:10-01:09:37] Crum's debt to Rock-afire gorilla reduced to $125k; weekly $5k payments continue; Crum claims 'super strength in spits' and crushed electric toothbrush to dust.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[23:42] Case mentions Beyblade tournament sub goal still pending execution.",
+      "timestamp": "23:42"
+    },
+    {
+      "storyline": "Peter Gibbon Wall Arc",
+      "beat": "[01:33:40-01:34:29] Liliana reports Peter keeping shape-shifting rats (Darfus) in walls, possibly escalating to interdimensional demonic practices.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "AI Radio Host Scandal",
+      "beat": "[02:21:02-02:28:28] Australian network ARN used AI host 'Thy' for 6 months undisclosed; Case condemns legacy media replacing humans with AI.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Debt to Rock-afire gorilla now $125,000 (down from $130k); weekly $5k payments with 'ridiculous interest'.",
+      "timestamp": "53:10",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Claims 'super strength in spits'; demonstrated crushing electric toothbrush into dust on air.",
+      "timestamp": "53:10",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Keeping shape-shifting rat named Darfus in studio walls; rat affects minds; possibly conducting interdimensional demonic practices.",
+      "timestamp": "01:33:40",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chris Sawyer",
+      "fact": "Retired from full-time game development; last original title was Locomotion; consulted on RCT3; has working relationship with Frontier (Planet Coaster devs).",
+      "timestamp": "02:46:59",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Family moved from New York due to 9/11; prefers NY Chinese food; acts as Case's 'influencer manager' for content monetization.",
+      "timestamp": "01:58:15",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Australian Radio Network (ARN)",
+      "fact": "Used AI host 'Thy' for 4 hours/day on Sydney station CADA for 6 months without disclosure.",
+      "timestamp": "02:21:02",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchored a marathon broadcast featuring a papal conclave preview, Trump budget analysis with Jeff Ripple, and a Munch & Crum debate where Crum defended aged-up Family Guy fan erotica to win $5k toward his $125k Rock-afire gorilla debt. Liliana co-anchored a news block covering the New World screwworm invasion and Overwatch's revival, while Kendall returned for an extended bit as 'influencer manager.' The show interviewed RollerCoaster Tycoon creator Chris Sawyer, who attacked Planet Coaster and revealed his retirement, then handed off to Trip Bradstein in the park for a chaotic string of interviews including a returning Chris Sawyer, a rat named Darfus, and a park ranger suggesting Family Guy porn as conflict resolution. Case closed by teasing a papal conclave stream, Hamtaro event, and Monday return.",
+  "_meta": {
+    "vod_id": "VCjlD1mTzn4",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 165165,
+    "approx_prompt_tokens": 41291,
+    "transcript_lines": 508
+  }
+}

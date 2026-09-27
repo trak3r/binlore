@@ -58,7 +58,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (107)</summary>
+<summary>Earlier appearances (108)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -73,6 +73,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-06-02|2025-06-02]] | debate analyst. |
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
+| [[episodes/2025-05-02|2025-05-02]] | debate analyst. |
 | [[episodes/2025-05-01|2025-05-01]] | debate analyst. |
 | [[episodes/2025-04-25|2025-04-25]] | debate analyst. |
 | [[episodes/2025-04-23|2025-04-23]] | debate analyst. |
@@ -313,3 +314,5 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[]** ([[episodes/2025-04-23|2025-04-23]]): Crum owes Rock-afire gorilla $140,000, pays $5,000 per debate win [1:01:29]
 - **[]** ([[episodes/2025-04-23|2025-04-23]]): Crum claims 'super strength in spits' and crushed electric toothbrush to dust [1:00:56]
 - **[[01:14:34]]** ([[episodes/2025-04-25|2025-04-25]]): Gambling debt to the Rock-afire animatronic gorilla remains active; Crum states he must continue debates to pay it off.
+- **[53:10]** ([[episodes/2025-05-02|2025-05-02]]): Debt to Rock-afire gorilla now $125,000 (down from $130k); weekly $5k payments with 'ridiculous interest'.
+- **[53:10]** ([[episodes/2025-05-02|2025-05-02]]): Claims 'super strength in spits'; demonstrated crushing electric toothbrush into dust on air.
