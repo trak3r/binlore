@@ -48,19 +48,20 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2025-06-20|2025-06-20]] | science correspondent. |
 | [[episodes/2025-06-17|2025-06-17]] | Chief Science Correspondent. |
 | [[episodes/2025-06-07|2025-06-07]] | Chief Science Correspondent. |
+| [[episodes/2025-03-19|2025-03-19]] | science correspondent. |
 | [[episodes/2025-03-17|2025-03-17]] | science correspondent. |
 | [[episodes/2025-03-07|2025-03-07]] | science correspondent. |
 | [[episodes/2025-03-04|2025-03-04]] | science correspondent. |
 | [[episodes/2025-02-08|2025-02-08]] | science correspondent. |
 | [[episodes/2025-01-29|2025-01-29]] | science correspondent. |
 | [[episodes/2025-01-27|2025-01-27]] | Chief Science Correspondent. |
-| [[episodes/2025-01-14|2025-01-14]] | science correspondent. |
 
 <details>
-<summary>Earlier appearances (47)</summary>
+<summary>Earlier appearances (48)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-01-14|2025-01-14]] | science correspondent. |
 | [[episodes/2024-10-23|2024-10-23]] | science correspondent. |
 | [[episodes/2024-10-15|2024-10-15]] | science correspondent. |
 | [[episodes/2024-10-13|2024-10-13]] | science correspondent. |
@@ -154,3 +155,4 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 - **[01:35:11]** ([[episodes/2024-10-03|2024-10-03]]): Delivered canonical gorilla genitalia data: silverback penis ~1.1 inches (3 cm), smallest relative to body mass of any mammal; testes small, sperm count low, high abnormal morphology; evolutionary explanation: harem defense replaces sperm competition [01:35:11-01:49:21].
 - **[]** ([[episodes/2024-10-15|2024-10-15]]): Asserts he is 'three times as fast as Beetlejuice' and has never lost a foot race to him. [01:21:36]
 - **[]** ([[episodes/2025-03-17|2025-03-17]]): Appeared untriggered by 'science' keyword; adopted 'Big Cheddar' persona for St. Patrick's Day, claimed 60-70% Irish, 70% German, Nordic, Native American, and African heritage. [22:51]
+- **[]** ([[episodes/2025-03-19|2025-03-19]]): Triggered by 'science' keyword during tantric sex segment, summoning ChetAI for German translation. [1:54:49]

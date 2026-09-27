@@ -1,0 +1,203 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "23:24",
+      "canonical_segment": "News",
+      "title": "Technical Difficulties & Pre-Show Banter",
+      "notes": "Case troubleshoots OBS performance, Photoshop resource usage, and missing producer Jake; discusses computer upgrades, Kendall's PC issues, and philosophical musings on simulation theory."
+    },
+    {
+      "start": "23:24",
+      "end": "43:42",
+      "canonical_segment": "News",
+      "title": "Gaza Ceasefire Collapse with the Devil",
+      "notes": "The Devil interrupts the broadcast to discuss Israel resuming military strikes on Gaza, killing 410+; reads Netanyahu's statement; debates dehumanization rhetoric; refuses to help; mentions Pepito drinking Jolt Cola."
+    },
+    {
+      "start": "43:42",
+      "end": "78:00",
+      "canonical_segment": "Amongst the Web",
+      "title": "Movie Trailer Watch Party",
+      "notes": "Case and chat watch trailers for Ballerina (John Wick spinoff), Assassin's Creed Shadows (two trailers), Windows XP Media Center (tribute to Kendall), and Happy Gilmore 2; discussion of historical accuracy, diversity complaints, and Sandler's Netflix deals."
+    },
+    {
+      "start": "78:00",
+      "end": "79:00",
+      "canonical_segment": "News",
+      "title": "Kendelle's Resignation Announcement",
+      "notes": "Kendelle reveals she has put in two weeks' notice at her job; Case and chat discuss freelance negotiation, unlimited PTO implications, and potential SpaceX employment jokes."
+    },
+    {
+      "start": "79:00",
+      "end": "91:41",
+      "canonical_segment": "Munch & Crum",
+      "title": "Ant Species Deathmatch: Chimera vs. Jiju",
+      "notes": "Munch and Crum debate which fictional ant species would win: Hunter x Hunter's Chimera Ants vs. Solo Leveling's Jiju Ants; Crum defends Chimera Ants, Munch argues for Jiju Ants; Crum wins $5,000 toward his $160,000 gorilla debt."
+    },
+    {
+      "start": "91:41",
+      "end": "105:30",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "JFK Files Release: 80,000 Pages of Nothing",
+      "notes": "Chet (as Big Cheddar) covers Trump's release of JFK assassination records; Tom Semilac confirms no smoking gun, lone gunman conclusion stands; Case speculates on LBJ/RFK pants recordings; Grandman poll confusion."
+    },
+    {
+      "start": "105:30",
+      "end": "121:16",
+      "canonical_segment": "How To with Jeb",
+      "title": "Male Grooming & Tantric Sex with Liliana",
+      "notes": "Liliana hosts as 'Lily Oral-Breathingschmidt' with Jeb's Dad trapped in wood; tutorials on male eyeliner (JD Vance application), chest hair clippers, and tantric sex featuring Sting; ChetAI triggered by 'science' keyword."
+    },
+    {
+      "start": "121:16",
+      "end": "140:44",
+      "canonical_segment": "DJ Newsic",
+      "title": "Musical News Wrap-Up & Yogi Bear Freestyle",
+      "notes": "DJ Newsic delivers auto-tuned news rap over Tantric EDM: Twitch viewbotting scandal, Mitch McConnell strategic brilliance chants, Jonathan Majors confession, Pope Francis health, segregated facilities rollback, wood-chewing brain boost; Yogi Bear appears as crack-addicted snorting bear."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored broadcast through technical struggles, hosted trailer watch party, moderated ant debate and JFK segment.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "The Devil",
+      "role": "recurring antagonist",
+      "notes": "recurring antagonist. Interrupted news to discuss Gaza ceasefire collapse, read Netanyahu statement, claimed Crum's soul is too gross for hell.",
+      "canonical_name": "The Devil",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defended Chimera Ants in deathmatch debate, won $5,000 toward $160,000 gorilla debt, claimed 'Daddy got a couple of jelly beans' is a real rock song.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued for Jiju Ants superiority, forced Crum to defend Chimera Ants, collected $5,000 payout toward gorilla debt.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Appeared as 'Big Cheddar' to cover JFK document release, triggered ChetAI with 'science' keyword during tantric segment.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Hosted How To with Jeb as 'Lily Oral-Breathingschmidt', delivered male grooming and tantric sex tutorials with Jeb's Dad.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "musical correspondent",
+      "notes": "musical correspondent. Closed broadcast with auto-tuned news rap over Tantric EDM, summoned Yogi Bear for freestyle.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype correspondent",
+      "notes": "hype correspondent. Briefly appeared at stream start, freestyle rapped about summoning and 'piss' narrative.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Referenced as missing; his deceased father (trapped in wood) appeared during How To segment.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Announced resignation from day job with two weeks' notice; Windows XP theme played for her upcoming stream.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Referenced as missing producer 'Jake' banished by Case's button press.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[1:25:38] Crum's gorilla debt reduced to $160,000; he wins $5,000 in ant debate after Munch forces him to defend Chimera Ants.",
+      "timestamp": "1:25:38"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Gorilla debt currently stands at $160,000; won $5,000 today defending Chimera Ants against Jiju Ants. [1:25:38]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Has officially quit her day job with two weeks' notice; exploring freelance/streaming full-time. [1:02:50]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "The Devil",
+      "fact": "Claims Crum's soul is too gross for hell — Crum is destined for heaven by default unless something changes. [40:33]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Triggered by 'science' keyword during tantric sex segment, summoning ChetAI for German translation. [1:54:49]",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell navigated a technically troubled broadcast featuring the Devil's commentary on Gaza, a marathon trailer watch party, Kendelle's job resignation announcement, a high-stakes ant-species debate that paid down Crum's gorilla debt, Chet's JFK files breakdown revealing no new conspiracies, and Liliana's chaotic How To session on male eyeliner and tantric sex before DJ Newsic closed with a musical news rap and a crack-addicted Yogi Bear freestyle.",
+  "_meta": {
+    "vod_id": "HEmYnIbwQRk",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 113005,
+    "approx_prompt_tokens": 28251,
+    "transcript_lines": 342
+  }
+}
