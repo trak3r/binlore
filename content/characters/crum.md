@@ -58,7 +58,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (97)</summary>
+<summary>Earlier appearances (98)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -73,6 +73,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-06-02|2025-06-02]] | debate analyst. |
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
+| [[episodes/2025-03-07|2025-03-07]] | debate analyst. |
 | [[episodes/2025-03-04|2025-03-04]] | debate analyst. |
 | [[episodes/2025-02-28|2025-02-28]] | debate analyst. |
 | [[episodes/2025-02-25|2025-02-25]] | debate analyst. |

@@ -1,0 +1,232 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "07:53",
+      "canonical_segment": "News",
+      "title": "Station Sign-On and Hype Train Surge",
+      "notes": "Pepito delivers the cold open countdown; a Hype Train event triggers with subscriber shoutouts and freestyle rapping before Case takes the desk."
+    },
+    {
+      "start": "07:53",
+      "end": "26:19",
+      "canonical_segment": "News",
+      "title": "Pre-Show Tech Support and Vacation Plans",
+      "notes": "Case and Kendall troubleshoot a crashed After Effects project live; Case shows cruise-ship-era workout photos and announces a Disney World vacation next week."
+    },
+    {
+      "start": "26:19",
+      "end": "52:28",
+      "canonical_segment": "News",
+      "title": "AI Visa Revocation Policy and Sesame AI Interview",
+      "notes": "Case covers the State Department's plan to use AI to revoke student visas over pro-Palestinian social media posts; he and Chet interrogate the Sesame voice models Maya and Miles, resulting in both AIs hanging up."
+    },
+    {
+      "start": "52:28",
+      "end": "01:12:23",
+      "canonical_segment": "Amongst the Web",
+      "title": "Internet Video Review: Family Feud, Kitty Style, Dinosaurs, Zelda Ads, and More",
+      "notes": "Case and Liliana rate viewer-submitted clips including a Family Feud 'penis' answer, a fixed-gear bike medallion video, a child touching urine, the Dinosaurs sitcom finale, US and Japanese Zelda commercials, a 1964 tire ad, and an ice-fishing SpongeBob truther."
+    },
+    {
+      "start": "01:12:23",
+      "end": "01:31:20",
+      "canonical_segment": "Munch & Crum",
+      "title": "Crum as 'Scrum' Reacts to Trump Crypto Summit",
+      "notes": "Crum appears as 'Scrum' to watch the White House crypto summit with Case; they mock the production quality, the Bitcoin trophy, and the roll call of officials while Case admits he likes the 'vibe' of crypto grifters."
+    },
+    {
+      "start": "01:31:20",
+      "end": "01:59:23",
+      "canonical_segment": "DJ C4",
+      "title": "Theme Song Creation: 'Titty Crimes' (Sublime Funk Parody)",
+      "notes": "Fedora Chris and Case use DeepSeek to write a 'What I Got' parody about a parole officer stealing fireworks; they record a shaky Sublime-funk take over a karaoke instrumental."
+    },
+    {
+      "start": "01:59:56",
+      "end": "02:25:58",
+      "canonical_segment": "Trip on the Street",
+      "title": "Park Interviews: Birds, Money Plane, Amtaro Coin, and Maya's Return",
+      "notes": "Trip Bradstein fields park denizens including a bird with a vaginal torso, a rated-E wrestler, a crypto shiller, Rob Elvie (banning Case from Orlando), a wood-chewing vampire, and a second Maya encounter that Trip cuts short."
+    },
+    {
+      "start": "02:25:58",
+      "end": "02:34:32",
+      "canonical_segment": "How To with Jeb",
+      "title": "Jeb's Dad Haunts the Wood; Penis Pump and Murder Tutorials",
+      "notes": "Jeb's Dad (ghost in a board) and Rob Elvie watch how-to videos: a vacuum penis pump, a rock-killing tutorial, and a clinical sexologist discussing a 12-year-old — Case bans the last video."
+    },
+    {
+      "start": "02:34:32",
+      "end": "02:48:43",
+      "canonical_segment": "News",
+      "title": "Rapid News Roundup with Invisible Ricky at 2x Ska Speed",
+      "notes": "Case and Invisible Ricky blast through Grimes' AI art auction, a hypertrichosis world record, a WWII bomb in Paris, Gene Hackman's cause of death, a vegetable orchestra record, and maggots in a penis — ending on the supersolid light breakthrough."
+    },
+    {
+      "start": "02:48:43",
+      "end": "02:49:06",
+      "canonical_segment": "News",
+      "title": "Sign-Off and Raid to Golden Boy",
+      "notes": "Case announces a week off for Disney World, teases Kendall's potential streaming debut, and raids Golden Boy while Invisible Ricky slips into his own butt."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the full broadcast; interviewed Sesame AIs; revealed cheek paralysis exercises; announced Disney World vacation.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered the cold-open station sign-on as 'Papita' before yielding to Case.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Crashed After Effects twice live on air; received tech support from Case; departing for Disney World next week.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Appeared as 'Scrum' to co-watch the Trump crypto summit; mocked the event's staging and Bitcoin trophy.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Co-hosted Amongst the Web video reviews; debated cultural merit of Family Feud vs. kink content.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris (Fedora Chris)",
+      "role": "musical producer",
+      "notes": "musical producer. Co-wrote and recorded the 'Titty Crimes' theme parody with Case using DeepSeek lyrics and a Sublime karaoke track.",
+      "canonical_name": "Chris (Fedora Chris)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Broadcast from park bushes; interviewed a vaginal bird, a wrestler, a crypto shiller, Rob Elvie, a wood-chewing vampire, and Maya (Sesame AI).",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "co-host (deceased)",
+      "notes": "co-host (deceased). Ghost trapped in a wooden board; invaded the studio to watch banned how-to videos with Rob Elvie.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rob Elvie",
+      "role": "recurring guest",
+      "notes": "recurring guest. Appeared in Trip segment banning Case from Orlando; joined Jeb's Dad for How To segment; fled from 'wood cops.'",
+      "canonical_name": "Rob Elvie",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Invisible Ricky",
+      "role": "news correspondent",
+      "notes": "news correspondent. Became 1% visible for a 2x-speed ska news roundup; delivered incisive commentary on Grimes, Gene Hackman, and maggot penis story.",
+      "canonical_name": "Invisible Ricky",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype announcer",
+      "notes": "hype announcer. Triggered during cold open; delivered freestyle rap and subscriber shoutouts before derailing into bodily fluid topics.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Triggered by 'science' mention; joined Case in interrogating Sesame AI models Maya and Miles.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Case performs cheek-flexing exercises to prevent cheek paralysis and atrophy per doctor's orders.",
+      "timestamp": "[01:25:52]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case self-describes as 'social conservative, fiscal liberal' and admits he dislikes crypto technology but enjoys the 'vibe' of crypto promoters.",
+      "timestamp": "[01:29:09]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Gene Hackman died of cardiovascular disease with Alzheimer's approximately one week after his wife, who died of hantavirus.",
+      "timestamp": "[02:42:50]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Scientists have transformed light into a supersolid — a material behaving as both solid and fluid due to quantum effects — for the first time.",
+      "timestamp": "[02:46:10]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case and Kendall will be at Disney World next week; Case will be off stream until the Monday after St. Patrick's Day.",
+      "timestamp": "[02:48:13]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Kendelle may begin streaming on her own channel soon; Case accidentally previewed assets for it on stream.",
+      "timestamp": "[02:48:13]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a chaotic Friday broadcast featuring a live After Effects rescue with Kendelle, a confrontational interview with Sesame AI voices that both hang up, a video review block culminating in a 1964 tire ad victory, Crum's 'Scrum' persona mocking the Trump crypto summit, a Sublime-funk theme song written by DeepSeek, Trip Bradstein's park interviews derailed by a vaginal bird and Rob Elvie's Orlando ban, Jeb's Dad haunting the studio for banned how-to content, and a 2x-speed ska news roundup with Invisible Ricky covering Gene Hackman's hantavirus death and the first light supersolid. Case signs off for a Disney World vacation.",
+  "_meta": {
+    "vod_id": "0wPpJKn5-yI",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 129811,
+    "approx_prompt_tokens": 32452,
+    "transcript_lines": 382
+  }
+}
