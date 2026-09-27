@@ -53,14 +53,15 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-17|2025-06-17]] | In-Studio Contributor. |
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
+| [[episodes/2025-04-10|2025-04-10]] | in-studio contributor. |
 | [[episodes/2025-04-05|2025-04-05]] | in-studio contributor. |
-| [[episodes/2025-04-04|2025-04-04]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (119)</summary>
+<summary>Earlier appearances (120)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-04-04|2025-04-04]] | in-studio contributor. |
 | [[episodes/2025-04-03|2025-04-03]] | in-studio contributor. |
 | [[episodes/2025-03-31|2025-03-31]] | in-studio contributor. |
 | [[episodes/2025-03-27|2025-03-27]] | In-studio contributor co-hosts gameplay; reveals she has quit her day job; provides jump-scare commentary. |

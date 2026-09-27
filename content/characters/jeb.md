@@ -53,6 +53,7 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2025-09-15|2025-09-15]] | How To host. |
 | [[episodes/2025-07-01|2025-07-01]] | instructional host. |
 | [[episodes/2025-06-19|2025-06-19]] | instructional host. |
+| [[episodes/2025-04-10|2025-04-10]] | instructional host. |
 | [[episodes/2025-03-31|2025-03-31]] | instructional host. |
 | [[episodes/2025-03-19|2025-03-19]] | instructional host. |
 | [[episodes/2025-03-17|2025-03-17]] | instructional host. |
@@ -66,13 +67,13 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2025-01-22|2025-01-22]] | field correspondent. |
 | [[episodes/2025-01-08|2025-01-08]] | Instructional Correspondent. |
 | [[episodes/2025-01-06|2025-01-06]] | instructional host. |
-| [[episodes/2024-11-26|2024-11-26]] | field correspondent. |
 
 <details>
-<summary>Earlier appearances (18)</summary>
+<summary>Earlier appearances (19)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-11-26|2024-11-26]] | field correspondent. |
 | [[episodes/2024-11-06|2024-11-06]] | instructional host. |
 | [[episodes/2024-10-30|2024-10-30]] | instructional host. |
 | [[episodes/2024-09-25|2024-09-25]] | Woodshop host attempts Venture Brothers drinks, watches iron crotch kung fu, demonstrates carpsicle, and summons demon while bickering with… |
@@ -131,3 +132,5 @@ See also: [[../segments/how-to-with-jeb|How To with Jeb]], [[../characters/index
 - **[01:47:58]** ([[episodes/2025-01-06|2025-01-06]]): Deceased father remains trapped in wooden board; spectral clothing debated; father allegedly sent psychic peace-of-mind gift via transcendental meditation.
 - **[[02:10:42]]** ([[episodes/2025-01-31|2025-01-31]]): Co-founded jet company with Alex Nugget; naming dispute resolved as 'Jet Nugget' in Alex's honor.
 - **[]** ([[episodes/2025-03-17|2025-03-17]]): Broadcasting as deceased 'ghost in the wood' after losing glasses; co-hosts with father's spirit trapped in wooden board. [1:38:42]
+- **[[02:27:43]]** ([[episodes/2025-04-10|2025-04-10]]): Father's ghost permanently trapped in a wooden board; co-hosts How To from woodshop.
+- **[[02:28:15]]** ([[episodes/2025-04-10|2025-04-10]]): Claims he once pulled his father out of a burning car that his father entered willingly.
