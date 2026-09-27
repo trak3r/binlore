@@ -4,7 +4,7 @@ type: character
 aliases:
   - Grandman
   - Grand Man
-first_seen: 2026-05-29
+first_seen: 2025-03-21
 status: minor contributor
 tags:
   - character
@@ -38,6 +38,7 @@ He is a specialty presence rather than a desk fixture: useful for sock lectures,
 | [[../episodes/2026-06-18|2026-06-18]] | Guest-hosts Amongst the Web; egg claim; Furby 10/10; exits after failed high-five. |
 | [[../episodes/2026-06-15|2026-06-15]] | Mentioned in passing during birthday broadcast game chatter. |
 | [[../episodes/2026-05-29|2026-05-29]] | Cold-open return; athletic sock advocacy; Case questions whether to keep checking in with him. |
+| [[episodes/2025-03-21|2025-03-21]] | call-in guest. |
 
 ## Notable Quotes
 
@@ -56,3 +57,7 @@ He is a specialty presence rather than a desk fixture: useful for sock lectures,
 - Will the network ever settle on a permanent sock-policy segment for him?
 
 See also: [[../segments/amongst-the-web|Amongst the Web]], [[crum|Crum]], [[index|All Characters]].
+
+## Notable moments
+
+- **[00:37:49]** ([[episodes/2025-03-21|2025-03-21]]): Works at BIN office as copier/printer refiller, IT, bathroom clog handyman, and unpaid social event organizer. [03:49]

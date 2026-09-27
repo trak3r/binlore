@@ -1,0 +1,325 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "07:55",
+      "canonical_segment": "News",
+      "title": "Station Sign-On",
+      "notes": "Pepito delivers the cold open as 'Papita the dog' and initiates the live broadcast."
+    },
+    {
+      "start": "07:55",
+      "end": "13:59",
+      "canonical_segment": "News",
+      "title": "Opening Banter & Buzz Buzz Roll Call",
+      "notes": "Case and Kendelle exchange morning greetings, run the 'buzz buzz' chat shoutout ritual, discuss Case's sleep-hair ridge, and accidentally cue Chet (Chrome) and a Burt impersonator bit."
+    },
+    {
+      "start": "13:59",
+      "end": "26:34",
+      "canonical_segment": "News",
+      "title": "Columbia University Concedes to Trump Demands",
+      "notes": "Case and Liliana cover Columbia's policy overhaul under federal funding threat: protest restrictions, Middle Eastern studies review, new antisemitism definition, and Tel Aviv Center expansion; DOD rebrands DEI as 'discriminatory equity ideology'."
+    },
+    {
+      "start": "26:34",
+      "end": "34:54",
+      "canonical_segment": "News",
+      "title": "Mask Doctor Interview",
+      "notes": "A flaming-skull 'mask doctor' (Scorpion-coded) discusses campus mask bans, fire-breathing physiology, crispy bacon/applesauce diet, and a fatal teleport-fist incident involving the Scorpions' drummer."
+    },
+    {
+      "start": "34:54",
+      "end": "59:51",
+      "canonical_segment": "Trip on the Street",
+      "title": "Park Interviews: Grandman, Bert, Amanda, Shark, Lemon Squeeze, Yogi, Cosmic Tree, Ranger",
+      "notes": "Trip Bradstein fields a parade of park denizens: Grandman (BIN office handyman), Bert (shower-capped IOU holder), Amanda Huckinskiss (John Cena heartbreak), Shark Grimmick (Egyptian teen pyramid pitch), Lemon Squeeze (juice proposition), Yogi Bear (SNES cartridge/toelette snorting addict), Cosmic Tree (bush rivalry), and a skeleton park ranger with neck-lock."
+    },
+    {
+      "start": "59:51",
+      "end": "01:13:11",
+      "canonical_segment": "News",
+      "title": "Big Chatter Speed Round: DMV Scalpers",
+      "notes": "Big Chatter arrives; Case runs a fiddle-trap backed speed round on Miami DMV appointment scalping ($250 resale), debates government funding vs. efficiency with Chet."
+    },
+    {
+      "start": "01:04:45",
+      "end": "01:13:11",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Universe Inside a Black Hole? JADES Survey Finds Galactic Rotation Bias",
+      "notes": "Chet and ChetAI break down NASA JADES data: 2/3 of 263 galaxies rotate opposite the expected random distribution, suggesting the universe may reside inside a rotating black hole; Chet resists Chaos Emerald temptation."
+    },
+    {
+      "start": "01:13:11",
+      "end": "01:39:43",
+      "canonical_segment": "Amongst the Web",
+      "title": "Viral Speedrun: Feral Pig Bacteria, Valnet Sweatshop, Tamagotchi Vapes, LG NFTs, Gel Breakup, Ref Testicle Biting, Vabbing, Hamtaro Lens Woes, $4.4M Dog, Snickers Coffin, Cambodia Beefcake Pageant",
+      "notes": "Rapid-fire audience submissions: Florida man gets pig heart infection; Valnet (ScreenRant/CBR owner) accused of SEO sweatshop; NYU Stupid Hackathon yields vape-powered Tamagotchi; LG kills NFT marketplace; Gel guitarist allegedly stole bandmates' OnlyFans revenue; German child bites referee's testicle; vaginal-fluid perfume trend 'vabbing' debated; Case's Hamtaro Snapchat lenses broken by server update; half-wolf half-cane corso sells for $4.4M; UK man buried in Snickers coffin; Cambodian male beauty pageant goes viral."
+    },
+    {
+      "start": "01:39:43",
+      "end": "01:50:04",
+      "canonical_segment": "Munch & Crum",
+      "title": "Bush vs. Tree Debate & Gorilla Menacing",
+      "notes": "Crum and Munch debate bush vs. tree (Crum: bush utility/sex appeal/God's burning bush; Munch: tree size/strength). Gorilla appears menacingly; Crum claims $25k paid over ~3 months (~$10k/mo), suggests Beyblade rematch as next sub goal."
+    },
+    {
+      "start": "01:50:04",
+      "end": "02:07:26",
+      "canonical_segment": "Amongst the Web",
+      "title": "Family Feud Gerbil, Banana Peel Slip, Fake Tree Karma, Nutter Butter Man, Stone Penis Statue (Unaired), Trump Drapes",
+      "notes": "Jake hosts viewer clips: Family Feud 'gerbil' answer; banana peel slip test (disappointing); staged tree-falls-on-car karma video (9.8/10); Nutter Butter Golden Girls tribute; explicit stone penis statue declined; Trump discusses White House drapes/light damage."
+    },
+    {
+      "start": "02:07:55",
+      "end": "02:14:34",
+      "canonical_segment": "News",
+      "title": "Bert's Porn Industry Exposé: Valnet Sweatshop",
+      "notes": "Bert delivers a country-trap backed breakdown of Valnet's acquisition playbook: contractor conversion, pay cuts, writer blacklists, SEO clickbait churn; closes with original rap 'Used to Be a Cowboy on the Internet'."
+    },
+    {
+      "start": "02:14:34",
+      "end": "02:16:27",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid to Dylan",
+      "notes": "Bert raids Dylan with improvised country rap; Case closes the broadcast."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the full broadcast: news desk, science desk handoff, debate moderation, Amongst the Web hosting, and sign-off.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered the cold-open station sign-on as 'Papita the dog'.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Co-hosted the opening banter, ran the buzz-buzz chat roll call, and discussed upcoming streaming plans.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Co-anchored the Columbia University and DOD DEI stories, sparring with Case on political framing.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeered the broadcast for the Chet Guy the Science Eyes desk on the black-hole universe theory; debated DMV funding with Case.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "AI co-host",
+      "notes": "AI co-host. Appeared on monitor alongside Chet, summarized the JADES survey findings, and hallucinated a brief laugh.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Hosted Trip on the Street from the park, interviewing a surreal lineup of pedestrians and entities.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Grandman",
+      "role": "call-in guest",
+      "notes": "call-in guest. BIN office handyman/IT/social organizer interviewed by Trip; dismissed as boring and 'finger-of-death'd'.",
+      "canonical_name": "Grandman",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Bert",
+      "role": "call-in guest",
+      "notes": "call-in guest. Appeared twice: first as a shower-capped IOU holder fleeing a gorilla debt, later delivering the Valnet porn-industry exposé with original rap.",
+      "canonical_name": "Bert",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Amanda Huckinskiss",
+      "role": "call-in guest",
+      "notes": "call-in guest. Park interviewee mourning a breakup with John Cena; offered Trip a five-knuckle shuffle.",
+      "canonical_name": "Amanda Huckinskiss",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Shark Grimmick",
+      "role": "call-in guest",
+      "notes": "call-in guest. Pitched a 2600 BC Egyptian teen pyramid ripoff of That '70s Show; rejected by Trip.",
+      "canonical_name": "Shark Grimmick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Lemon Squeeze",
+      "role": "call-in guest",
+      "notes": "call-in guest. Flirtatious park denizen propositioning Trip for 'juice' extraction; deflected.",
+      "canonical_name": "Lemon Squeeze",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Yogi Bear",
+      "role": "call-in guest",
+      "notes": "call-in guest. Addicted to snorting crushed 1994 SNES cartridges, towelettes, and bees; framed picnic baskets as gateway drug.",
+      "canonical_name": "Yogi Bear",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Cosmic Tree",
+      "role": "call-in guest",
+      "notes": "call-in guest. Sentient tree concept battling the concept of Bush for eons; demanded acknowledgment from Trip.",
+      "canonical_name": "Cosmic Tree",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Park Ranger",
+      "role": "call-in guest",
+      "notes": "call-in guest. Skeleton ranger with forward-only neck; reported Yogi Bear stealing picnic baskets and silverware.",
+      "canonical_name": "Park Ranger",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Big Chatter",
+      "role": "call-in guest",
+      "notes": "call-in guest. Supersized chat entity claiming the Socrates nickname; introduced the fiddle-trap speed round.",
+      "canonical_name": "Big Chatter",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued for Bush in the Bush vs. Tree debate; revealed $25k paid to the Rock-afire gorilla over ~3 months; pushed Beyblade rematch.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued for Tree; goaded Crum on gorilla debt and Beyblade standards (Beyblades!); celebrated debate win.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Gorilla (Rock-afire animatronic)",
+      "role": "studio prop/character",
+      "notes": "studio prop/character. Menacing keyboard-playing creditor; appeared during debate, played low notes, blinked ambiguously; Crum claims paying ~$10k/month.",
+      "canonical_name": "Gorilla (Rock-afire animatronic)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:46:07] Crum states he has paid the Rock-afire gorilla ~$25,000 over approximately three months (~$10k/month) and claims they are becoming friends; gorilla remains menacing.",
+      "timestamp": "01:46:07"
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[01:47:13] Crum proposes a Beyblade rematch as the next sub goal; Munch insists on correct pronunciation ('Beyblades!') and notes Case's old Beyblades are broken.",
+      "timestamp": "01:47:13"
+    },
+    {
+      "storyline": "Hamtaro Lens Access",
+      "beat": "[01:31:10] Case explains Snapchat server changes broke the Hamtaro lens scraper; developer promises update next week (version 3.4) to restore full Hamtaro suite.",
+      "timestamp": "01:31:10"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Pays the Rock-afire gorilla approximately $10,000 per month; total ~$25,000 over three months. [01:46:07]",
+      "timestamp": "01:46:07",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Beyblade Tournament",
+      "fact": "Case's original Beyblades are broken; new ones would need to be purchased for any tournament. [01:47:13]",
+      "timestamp": "01:47:13",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Grandman",
+      "fact": "Works at BIN office as copier/printer refiller, IT, bathroom clog handyman, and unpaid social event organizer. [03:49]",
+      "timestamp": "00:37:49",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Bert",
+      "fact": "Took a job from a man who owed $10,000 to the Rock-afire gorilla; received an IOU instead of payment. [00:41:13]",
+      "timestamp": "00:41:13",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chrome (Chet)",
+      "fact": "Has eyebrows, a very hairy body, and a clean-shaven face; once had a beard in younger years. [00:12:10]",
+      "timestamp": "00:12:10",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Hamtaro Lens Access",
+      "fact": "Snapchat server updates broke the third-party lens scraper; developer version 3.4 expected next week to restore access. [01:31:10]",
+      "timestamp": "01:31:10",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered Columbia University's capitulation to Trump administration funding threats, a flaming-skull mask doctor's fire-breathing physiology, and a park-side parade of surreal interviewees including a SNES-snorting Yogi Bear and a cosmic tree. The science desk confirmed the universe may reside inside a rotating black hole per JADES data, while the debate desk clashed over bush versus tree as the Rock-afire gorilla loomed over Crum's $25k debt. The broadcast closed with Bert's country-rap exposé on Valnet's porn-media sweatshop and a raid to Dylan.",
+  "_meta": {
+    "vod_id": "XLwB0_H9UjI",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 105418,
+    "approx_prompt_tokens": 26354,
+    "transcript_lines": 323
+  }
+}
