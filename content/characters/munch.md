@@ -50,7 +50,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (82)</summary>
+<summary>Earlier appearances (83)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -62,6 +62,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-02|2025-06-02]] | debate analyst. |
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
+| [[episodes/2025-01-24|2025-01-24]] | debate analyst. |
 | [[episodes/2025-01-14|2025-01-14]] | debate analyst. |
 | [[episodes/2024-11-26|2024-11-26]] | debate analyst. |
 | [[episodes/2024-11-06|2024-11-06]] | debate analyst. |
@@ -198,3 +199,4 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[[35:41]]** ([[episodes/2024-09-06|2024-09-06]]): Ordered gold jackets for staff; claims jacket makes him look 'fresh' despite cheap construction.
 - **[[17:28]]** ([[episodes/2024-09-11|2024-09-11]]): Claims 'independently conservative' political alignment; says he would vote for Harris if she promised to send Crum to Djibouti or kill him.
 - **[[02:08:48]]** ([[episodes/2024-09-11|2024-09-11]]): Declares 'I fucking won that one' claiming personal debate victory; insists 'whenever I win America wins.'
+- **[02:26:01]** ([[episodes/2025-01-24|2025-01-24]]): Munch-Crum business arrangement: Munch pays Crum $5K per Munch debate win.

@@ -56,7 +56,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-06-22|2026-06-22]] | High-velocity musical correspondent who confesses to cheating on his Panther girlfriend, discusses beats, and provides cultural commentary throughout the pre-show. |
 
 <details>
-<summary>Earlier appearances (50)</summary>
+<summary>Earlier appearances (51)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -76,6 +76,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2025-06-11|2025-06-11]] | Commandeered the birthday broadcast with freestyle raps, hell lore, and a level-13 surge while insisting every hype train is his birthday. |
 | [[episodes/2025-06-02|2025-06-02]] | hype correspondent. |
 | [[episodes/2025-05-27|2025-05-27]] | musical/cultural interruption. |
+| [[episodes/2025-01-24|2025-01-24]] | musical/cultural interruption. |
 | [[episodes/2025-01-08|2025-01-08]] | Hype/Sub Acknowledgment Entity. |
 | [[episodes/2025-01-06|2025-01-06]] | hype announcer. |
 | [[episodes/2024-10-23|2024-10-23]] | hype announcer. |
@@ -175,3 +176,5 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[[10:53]]** ([[episodes/2024-08-07|2024-08-07]]): Subscriber alert month counters broken after Streamer.bot migration, showing multiple conflicting values (0/18/19/20/21/24 months).
 - **[02:50:30]** ([[episodes/2024-10-03|2024-10-03]]): Won the fourth Rennerton mayoral nomination slot in a flash poll, joining September Tyler, Lady Kendall, and Pepito on the ballot [02:50:30].
 - **[25:19]** ([[episodes/2024-10-10|2024-10-10]]): Hype Train reached 'Rare Level 5' during extended freestyle — 'Vaulted Air of Level 5.'
+- **[13:01]** ([[episodes/2025-01-24|2025-01-24]]): Hype Train's official theme name decided by chat vote: 'Training Montage' (first five submissions).
+- **[25:34]** ([[episodes/2025-01-24|2025-01-24]]): Hype Train theme 'Training Montage' debuts; will play on every future Hype Train appearance.
