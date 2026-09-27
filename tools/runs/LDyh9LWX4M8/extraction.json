@@ -1,0 +1,131 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "05:18",
+      "canonical_segment": "News",
+      "title": "Station Cold-Open & Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on and identifies as the dog producer before handing off to Trent."
+    },
+    {
+      "start": "05:18",
+      "end": "01:18:13",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Bubble Ghost Game Boy Advance Playthrough",
+      "notes": "Trent (Case Blackwell) plays through the Game Boy Advance version of Bubble Ghost using save states, completing all 35 halls after extended difficulty spikes and spider/butthole mechanics."
+    },
+    {
+      "start": "01:18:13",
+      "end": "02:00:08",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Twinsons Odyssey (Little Big Adventure 2) First Look",
+      "notes": "Trent purchases and begins the GOG version of Twinsons Odyssey, struggling with tank controls, prison escape sequence, and disguise mechanics while recalling Case's 1997 playthrough."
+    },
+    {
+      "start": "02:00:08",
+      "end": "02:37:03",
+      "canonical_segment": "Amongst the Web",
+      "title": "Royal Rumble 2025 Co-Stream Attempt",
+      "notes": "Trent attempts to share the Peacock broadcast of the Royal Rumble via Discord screen-share, navigating audio issues and DMCA concerns before settling on audio-only commentary."
+    },
+    {
+      "start": "02:37:03",
+      "end": "02:37:45",
+      "canonical_segment": "News",
+      "title": "Raid & Sign-Off",
+      "notes": "Trent ends the Twitch stream and raids Serlar, directing viewers to the cream.team Discord for continued Royal Rumble coverage."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors the gaming broadcast as \"Trent,\" completing Bubble Ghost and starting Twinsons Odyssey while commenting on Royal Rumble.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers the station cold-open and sign-on before departing as Trent takes over the broadcast.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "role": "co-commentator",
+      "notes": "Serves as Trent's parole officer and co-commentator throughout the gaming session, offering advice and distraction.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Calls in during the Royal Rumble watch party, prompting a brief off-mic conversation.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Referenced as \"Papito\" loose in the studio crawlspaces during the cold open.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Mentioned as potentially circling the building searching for the broadcast location.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Case Blackwell's credit card used to purchase Twinsons Odyssey bundle on GOG",
+      "timestamp": "[1:21:41]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case Blackwell previously played Twinsons on a Packard Bell computer in 1997",
+      "timestamp": "[1:40:29]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Royal Rumble 2025 men's winner confirmed as Seth Rollins",
+      "timestamp": "[2:02:44]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Broadcast concludes with raid to Serlar's channel",
+      "timestamp": "[2:37:03]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Trent (Case Blackwell) hosts a gaming broadcast playing through Bubble Ghost on Game Boy Advance and beginning Twinsons Odyssey, then attempts to co-stream the Royal Rumble via Discord before raiding Serlar.",
+  "_meta": {
+    "vod_id": "LDyh9LWX4M8",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 111843,
+    "approx_prompt_tokens": 27960,
+    "transcript_lines": 393
+  }
+}
