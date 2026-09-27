@@ -1,0 +1,213 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "12:53",
+      "canonical_segment": "News",
+      "title": "Cold Open: Mass Staff Layoffs & Fill-In Producer",
+      "notes": "Pepito delivers sign-on; Case returns from illness to find half the staff 'sick' and missing; cousin Jace Lanfill pressed into service as fill-in producer."
+    },
+    {
+      "start": "12:53",
+      "end": "41:36",
+      "canonical_segment": "News",
+      "title": "Trump–Zelensky Oval Office Confrontation Analysis",
+      "notes": "Case and Jace watch and dissect the 10-minute heated exchange between Trump, Vance, and Zelensky; Kendelle briefly interrupts with Blackpink ticket news."
+    },
+    {
+      "start": "41:36",
+      "end": "48:34",
+      "canonical_segment": "News",
+      "title": "Fake Zelensky Call-In: 'Zalnova' Russian Impersonator",
+      "notes": "Jace dials a 'Zalnova' from a yellow pages; the Russian-accented guest refuses to opine on Ukraine, demands to play piano with his penis, and storms off."
+    },
+    {
+      "start": "48:34",
+      "end": "50:14",
+      "canonical_segment": "News",
+      "title": "Transition to Amongst the Web & Doctor Tease",
+      "notes": "Case pivots to audience-submitted videos; mentions a 'BIN doctor on staff' for a later segment."
+    },
+    {
+      "start": "50:14",
+      "end": "01:13:43",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web with Crum (Scrum)",
+      "notes": "Crum joins as 'Scrum' to rate viewer clips: ninja fear medallion, apple skepticism, semen retention club, pickle surprise, biblical recitation (1000 pts), cheating wife serial killer skit, and a dating-profile legal settlement."
+    },
+    {
+      "start": "01:13:43",
+      "end": "01:29:28",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum Debate: Should We Yell at Foreign Leaders?",
+      "notes": "Munch argues for diplomatic respect; Crum takes the 'yell at allies' side for $5k gorilla debt leverage; debate ends tied; Rock-afire gorilla judges Crum unconvincing."
+    },
+    {
+      "start": "01:29:28",
+      "end": "01:43:00",
+      "canonical_segment": "News",
+      "title": "Trailer Watch Party with Cousin Trent",
+      "notes": "Trent hosts horror-comedy 'The Parenting', Holocaust drama 'The World Will Tremble', and Tom Hardy's 'Cannibal Comedian'; Kendall appears, debates Hardy's nerd/jock placement."
+    },
+    {
+      "start": "01:43:00",
+      "end": "01:45:52",
+      "canonical_segment": "Therapy",
+      "title": "Dr. Brisket Debut: Hepatitis Outbreak & Needle Reuse",
+      "notes": "New network physician Dr. Brisket admits to reusing needles; Chef Stethoscope referenced; Case reminded to get foot inserts for upcoming trip."
+    },
+    {
+      "start": "01:45:52",
+      "end": "01:59:56",
+      "canonical_segment": "DJ Newsic",
+      "title": "DJ Newsic Rapid-Fire News & Crum Apology Rap",
+      "notes": "DJ Newsic sings headlines: Madame Web Razzie sweep, Flashes app, James Cameron NZ citizenship, Epstein files redacted, Tate brothers banned from Florida, Twitch CEO 2025 plans; Crum whispers apology to cats while trash-talking gorilla at low volume."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors return from illness, manages skeleton crew, moderates Trump–Zelensky analysis and debate.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold-open sign-on; still jittery from Jolt Cola; runs around studio licking things.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jace Lanfill",
+      "role": "fill-in producer",
+      "notes": "fill-in producer. Case's cousin pressed into producer duty; operates switchboard, dials fake Zelensky, struggles with buttons.",
+      "canonical_name": "Jace Lanfill",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Appears as 'Scrum' for Amongst the Web, then debates Munch on yelling at foreign leaders while managing gorilla debt.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues for diplomatic respect in Munch & Crum debate; collects $5k after Crum deemed unconvincing by gorilla.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Briefly interrupts news with Blackpink ticket win; later joins trailer watch party, questions Tom Hardy's nerd/jock alignment.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "guest host",
+      "notes": "guest host. Case's cousin(?) hosts trailer segment in fedora; introduces horror, Holocaust, and Tom Hardy films.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Brisket",
+      "role": "network physician",
+      "notes": "network physician. Debuts as BIN doctor; admits reusing needles; prescribes foot inserts for Case.",
+      "canonical_name": "Dr. Brisket",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "musical correspondent",
+      "notes": "musical correspondent. Delivers auto-tuned rapid-fire news from roof; manages lasers and apologetic trap beat for Crum.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rock-afire Gorilla",
+      "role": "studio prop / creditor",
+      "notes": "studio prop / creditor. Mechanical keyboard-playing gorilla; holds Crum's gambling debt; judges debate performance; paid today to avert violence.",
+      "canonical_name": "Rock-afire Gorilla",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:14:34] Crum acknowledges ongoing debt arrangement with Rock-afire gorilla; [01:21:09] gorilla unpaid nearly a week; [01:27:32] gorilla paid today, violence deferred.",
+      "timestamp": "01:14:34"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Half the BIN staff is missing/sick; Case emailed 'the model' claiming Doge can't fire them because the network doesn't make money.",
+      "timestamp": "[08:35]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jace Lanfill (Case's cousin) installed as fill-in producer on short notice.",
+      "timestamp": "[09:20]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case and Kendelle secured Blackpink concert tickets after four people helped queue.",
+      "timestamp": "[17:08]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum owes gambling debt to Rock-afire gorilla; interest accrues weekly; gorilla judges debate performances.",
+      "timestamp": "[01:14:34]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Dr. Brisket introduced as network physician; admits to reusing needles; Chef Stethoscope confirmed as existing staff.",
+      "timestamp": "[01:43:33]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum scared studio cats with volume during debate; later delivers whispered apology rap at negative decibels.",
+      "timestamp": "[01:53:45]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns from illness to a gutted newsroom, drafting cousin Jace Lanfill as producer while half the staff remains 'sick.' The broadcast dissects the Trump–Zelensky Oval Office shouting match, stages a prank call with a Russian 'Zalnova,' runs an Amongst the Web session with a combative Crum, and stages a Munch & Crum debate on diplomatic yelling that the Rock-afire gorilla judges in Munch's favor. The night closes with cousin Trent hosting a trailer watch party, the debut of needle-reusing network physician Dr. Brisket, and DJ Newsic's musical rapid-fire headlines before Crum whispers a cat apology while quietly insulting his gorilla creditor.",
+  "_meta": {
+    "vod_id": "KEDgSMAYkXE",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 97081,
+    "approx_prompt_tokens": 24270,
+    "transcript_lines": 215
+  }
+}

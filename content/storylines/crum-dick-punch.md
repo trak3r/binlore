@@ -88,6 +88,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2025-02-12|2025-02-12]] [01:35:38] | [01:35:38] Crum's debt to the Rock-afire gorilla stated at $175-180k with daily interest; Munch mocks Crum's sandbagging in debates due to financial pressure. |
 | [[../episodes/2025-02-14|2025-02-14]] [2:25:10] | Crum's gorilla debt reduced to $170,000 after Munch pays $5,000; gorilla stores cash under electric piano; Crum begs for full $175k payoff. [2:25:10] |
 | [[../episodes/2025-02-25|2025-02-25]] [49:16] | [49:16] Crum's debt to the Rock-afire gorilla stands at $170,000; Munch imposes a new wager where Crum must argue for his own firing to earn $5,000 per win. |
+| [[../episodes/2025-02-28|2025-02-28]] [01:14:34] | [01:14:34] Crum acknowledges ongoing debt arrangement with Rock-afire gorilla; [01:21:09] gorilla unpaid nearly a week; [01:27:32] gorilla paid today, violence deferred. |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |
