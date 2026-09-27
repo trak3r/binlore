@@ -175,3 +175,6 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[05:34]** ([[episodes/2024-11-06|2024-11-06]]): Patreon stream scheduled for tomorrow (2024-11-07) at noon. [05:34]
 - **[00:12:49]** ([[episodes/2025-01-06|2025-01-06]]): Adopted two bonded cats: Ms. Zorro (one-eyed) and Tony Tony; cats hide under bed, monitored via Cat Cam.
 - **[00:24:36]** ([[episodes/2025-01-06|2025-01-06]]): Wife has Christmas and New Year custody of all six children; Case concedes for 'safety of the children in these trying political times.'
+- **[02:05:45]** ([[episodes/2025-01-15|2025-01-15]]): Housing legal status 'barely legal'; hoping final approvals clear within two months. [02:05:45]
+- **[02:05:10]** ([[episodes/2025-01-15|2025-01-15]]): Built mini gym in backyard on unlaid concrete blocks; worked out morning of broadcast. [02:05:10]
+- **[02:21:37]** ([[episodes/2025-01-15|2025-01-15]]): Announced new broadcast schedule: Monday, Wednesday, Friday 11am-1pm PT. [02:21:37]

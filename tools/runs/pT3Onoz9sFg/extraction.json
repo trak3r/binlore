@@ -1,0 +1,194 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "07:55",
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on; Case Blackwell opens with chat greetings and wrestling talk."
+    },
+    {
+      "start": "07:55",
+      "end": "12:58",
+      "canonical_segment": "News",
+      "title": "Hulk Hogan Booed at WWE Netflix Debut",
+      "notes": "Case and Jeff Ripple react to viral footage of Hulk Hogan being booed at the WWE Netflix premiere; discussion of Real American Beer and Rick Derringer."
+    },
+    {
+      "start": "12:58",
+      "end": "40:30",
+      "canonical_segment": "News",
+      "title": "Israel-Gaza Ceasefire Announcement",
+      "notes": "Case and Jeff Ripple cover the Biden administration's ceasefire deal announcement, three-phase structure, Trump's credit-claiming, and Biden's press conference exit."
+    },
+    {
+      "start": "41:03",
+      "end": "01:05:26",
+      "canonical_segment": "Amongst the Web",
+      "title": "Trent at the Movies: Trailers",
+      "notes": "Field correspondent Trent (with parole officer Chris) reviews trailers for Witcher anime, Daredevil: Born Again, Apple Cider Vinegar, The Night Agent S2, and Woman in the Yard."
+    },
+    {
+      "start": "01:06:00",
+      "end": "01:33:51",
+      "canonical_segment": "News",
+      "title": "TikTok Ban Imminent; Red Note Migration",
+      "notes": "Case and Tyler discuss the Supreme Court's likely upholding of the TikTok ban, potential sale to Elon Musk, 90-day extension provisions, and the exodus to Chinese app Red Note (Xiaohongshu)."
+    },
+    {
+      "start": "01:40:34",
+      "end": "02:01:10",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web with Leon Kennedy",
+      "notes": "Leon Kennedy hosts viewer-submitted video rankings: moonwalker, hatchet-to-face training, snowman lookalike, Marjorie Taylor Greene fan video, sushi order dispute, prison guard sex scandal, whipping video, and butter-bath dog hack."
+    },
+    {
+      "start": "02:01:43",
+      "end": "02:10:16",
+      "canonical_segment": "DJ Newsic",
+      "title": "DJ Newsic Musical Finale",
+      "notes": "DJ Newsic performs raw, unfiltered autotune-free set; Case browses hot tub prices and discusses housing legal status, patio gym, and upcoming schedule."
+    },
+    {
+      "start": "02:10:16",
+      "end": "02:21:01",
+      "canonical_segment": "News",
+      "title": "Drake Defamation Lawsuit vs. UMG; Little Tommy Big Law",
+      "notes": "Case covers Drake's defamation suit over 'Not Like Us'; Little Tommy Big Law delivers surreal legal opinion involving nipple jurisprudence."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored full broadcast: ceasefire coverage, TikTok ban analysis, movie segment handoff, Amongst the Web oversight, DJ Newsic chat, and Drake lawsuit segment.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold-open station sign-on and countdown.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosted news desk for Hulk Hogan and ceasefire segments; traded barbs with Case on gun ownership and Biden press conference.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "field correspondent",
+      "notes": "field correspondent. Hosted 'Trent at the Movies' from theater with parole officer Chris; reviewed five trailers.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "role": "call-in guest",
+      "notes": "call-in guest. Appeared as Trent's parole officer during movie segment; bantered on maturity and prostate exams.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Leon Kennedy",
+      "role": "correspondent",
+      "notes": "correspondent. Hosted Amongst the Web viewer-video ranking segment; scored nine submissions.",
+      "canonical_name": "Leon Kennedy",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "correspondent",
+      "notes": "correspondent. Performed autotune-free musical finale; Case discussed hot tub purchase and housing status during set.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Little Tommy Big Law",
+      "role": "correspondent",
+      "notes": "correspondent. Delivered surreal legal opinion on Drake defamation suit; nipple-based defamation standard.",
+      "canonical_name": "Little Tommy Big Law",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Tyler",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Co-hosted TikTok ban discussion; disclosed heavy phone usage and Blue Sky preferences.",
+      "canonical_name": "Tyler",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Referenced off-camera: boxes unpacked, sex toys secured, Puffy Bear not yet rescued.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Housing legal status 'barely legal'; hoping final approvals clear within two months. [02:05:45]",
+      "timestamp": "02:05:45",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Built mini gym in backyard on unlaid concrete blocks; worked out morning of broadcast. [02:05:10]",
+      "timestamp": "02:05:10",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Announced new broadcast schedule: Monday, Wednesday, Friday 11am-1pm PT. [02:21:37]",
+      "timestamp": "02:21:37",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Still has unpacked boxes; sex toys under lock and key in dustiest cabinet; Puffy Bear not yet rescued. [02:06:52]",
+      "timestamp": "02:06:52",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Network",
+      "fact": "Patreon recording scheduled for tonight. [02:08:00]",
+      "timestamp": "02:08:00",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered the Israel-Gaza ceasefire deal announcement with skeptical analysis of Biden's victory lap and Trump's credit-claiming, then pivoted to the imminent TikTok ban and the ironic migration to Chinese app Red Note. The broadcast featured a movie trailer review segment with Trent, a chaotic Amongst the Web hosted by Leon Kennedy, a raw DJ Newsic set during which Case revealed housing legal limbo and a new MWF schedule, and closed with Drake's defamation lawsuit against UMG adjudicated by Little Tommy Big Law's nipple-centric jurisprudence.",
+  "_meta": {
+    "vod_id": "pT3Onoz9sFg",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 127372,
+    "approx_prompt_tokens": 31843,
+    "transcript_lines": 265
+  }
+}
