@@ -171,3 +171,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[01:59:51]** ([[episodes/2024-10-03|2024-10-03]]): House move blocked by LA county department with no phone/office and a four-week email response cycle; hold stems from permit approval gap [01:59:51].
 - **[]** ([[episodes/2024-10-15|2024-10-15]]): Claims to have put half of himself in a time capsule to ensure survival to 2028. [43:57]
 - **[[01:16:42]]** ([[episodes/2024-10-23|2024-10-23]]): Case and Kendall have started painting their new apartment but have not yet moved in.
+- **[05:10]** ([[episodes/2024-11-06|2024-11-06]]): Departing for a week-long trip to China in approximately two days (from 2024-11-06); will miss next week's broadcasts and return the Monday after next. [05:10]
+- **[05:34]** ([[episodes/2024-11-06|2024-11-06]]): Patreon stream scheduled for tomorrow (2024-11-07) at noon. [05:34]

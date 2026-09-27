@@ -1,0 +1,156 @@
+{
+  "segments": [
+    {
+      "start": "00:32",
+      "end": "04:27",
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour sign-on as executive producer; Case Blackwell takes the anchor desk for a post-election detox stream."
+    },
+    {
+      "start": "04:28",
+      "end": "12:09",
+      "canonical_segment": "News",
+      "title": "Post-Election Decompression & China Trip Announcement",
+      "notes": "Case acknowledges Trump's victory, announces a week-long trip to China starting in two days, and confirms a Patreon stream tomorrow at noon; Kendelle walks through showing new ombre nails."
+    },
+    {
+      "start": "12:10",
+      "end": "18:21",
+      "canonical_segment": "News",
+      "title": "Chet Check-In & Dana White Victory Clip",
+      "notes": "Chet appears confused about the day (thinks it's Tuesday); Case plays Dana White's shout-out to streamers (Nelk Boys, Adin Ross, Theo Von, Joe Rogan) from Trump's victory speech, prompting cultural despair commentary."
+    },
+    {
+      "start": "18:22",
+      "end": "34:43",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Democratic Retirement of the Jo Rogen Experience",
+      "notes": "Case puts the segment to a viewer poll; Munch & Crum are tapped for a point-driven poll; channel-point redemption forces a final Rogan farewell; voice.ai crashes the broadcast repeatedly; the segment is officially deleted from Twitch."
+    },
+    {
+      "start": "32:26",
+      "end": "36:26",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Interlude During Technical Failure",
+      "notes": "Hype Train commandeers the feed while Case attempts to patch the Rogan segment; the Rogans are lost to the void."
+    },
+    {
+      "start": "36:27",
+      "end": "38:13",
+      "canonical_segment": "News",
+      "title": "The Void Intrusion & Sign-Off",
+      "notes": "A 'Void' entity (or cover band) briefly manifests; Case closes the stream, confirms China departure, and bids farewell."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors a brief post-election detox stream, retires the Jo Rogen Experience via viewer vote, and announces a week-long China trip.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers the cold-open station sign-on as the dog producer.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walks through the studio showing off new ombre orange-pink-gold nails while Case cues her theme music.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "recurring",
+      "notes": "recurring. Appears confused about the date, thinking the election hasn't happened yet; triggers no science desk because 'science' isn't spoken.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Referenced as half of Munch & Crum for a point-driven poll on the Rogan segment retirement.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Referenced as half of Munch & Crum for a point-driven poll on the Rogan segment retirement.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Takes over the broadcast during the voice.ai technical collapse, freestyling until the Rogan segment is lost to the void.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "The Void",
+      "role": "recurring",
+      "notes": "recurring. Manifests (or a cover band thereof) after the Rogan segment collapses, briefly interacting before Case closes the portal.",
+      "canonical_name": "The Void",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Departing for a week-long trip to China in approximately two days (from 2024-11-06); will miss next week's broadcasts and return the Monday after next. [05:10]",
+      "timestamp": "05:10",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Patreon stream scheduled for tomorrow (2024-11-07) at noon. [05:34]",
+      "timestamp": "05:34",
+      "confidence": 0.7
+    },
+    {
+      "entity": "The Jo Rogen Experience",
+      "fact": "Segment officially retired and deleted from Twitch after a viewer poll and last-second channel-point redemption forced a final farewell; voice.ai software identified as the cause of repeated stream crashes. [27:34]",
+      "timestamp": "27:34",
+      "confidence": 0.7
+    },
+    {
+      "entity": "voice.ai",
+      "fact": "Software crashes the entire stream when activated; Case identifies it as the culprit and opts to run without it. [29:58]",
+      "timestamp": "29:58",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell hosts a brief post-election 'detox' stream, processing Trump's victory with cultural despair over the Dana White/streamer tableau. The Jo Rogen Experience is democratically retired via viewer poll after a last-second channel-point redemption forces a final farewell; the segment is deleted from Twitch. Technical failures from voice.ai crash the broadcast repeatedly, prompting a Hype Train interlude and a brief Void intrusion before Case signs off ahead of a week-long China trip.",
+  "_meta": {
+    "vod_id": "e-EdPY6nm1k",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 44103,
+    "approx_prompt_tokens": 11025,
+    "transcript_lines": 73
+  }
+}
