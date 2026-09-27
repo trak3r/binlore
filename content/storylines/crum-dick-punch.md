@@ -96,6 +96,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2025-03-31|2025-03-31]] [01:28:52] | Crum states current debt to Rock-afire gorilla is $155,000 with $5,000 paid per debate win; wins lemon vs Smirnoff Ice debate to delay punishment; Munch demands gorilla execute groin punch. [01:28:52] |
 | [[../episodes/2025-04-11|2025-04-11]] [01:31:42] | Crum confirms $150K debt to animatronic gorilla at $5K per debate win; claims stress is softening his skin dangerously [01:31:42] |
 | [[../episodes/2025-04-14|2025-04-14]] [01:27:59] | [01:27:59] Crum confirms $145,000 debt to mechanical gorilla; $5,000 per debate win; argues for blueberry bagels to secure payout; claims '100% wolf DNA' as debate leverage. |
+| [[../episodes/2025-04-23|2025-04-23]] [1:01:29] | Crum's debt to Rock-afire gorilla stands at $140,000; earns $5,000 per debate win; gorilla's rage meter building toward 'ultra beam' groin strike. [1:01:29] |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |

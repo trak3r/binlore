@@ -1,0 +1,172 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "12:53",
+      "canonical_segment": "News",
+      "title": "Cold Open & Hype Train Acknowledgments",
+      "notes": "Pepito delivers station sign-on, processes gifted subs and hype train; Case Blackwell takes anchor desk after hype train ends."
+    },
+    {
+      "start": "12:53",
+      "end": "47:38",
+      "canonical_segment": "News",
+      "title": "Elon Musk DOGE Exit & Trump Tariff Reversal",
+      "notes": "Jeff Ripple joins for news desk covering Musk reducing DOGE role to 1-2 days/week, cabinet secretaries reasserting control, 71% profit drop at Tesla, Trump walking back 145% China tariffs to 'substantially lower' levels."
+    },
+    {
+      "start": "47:38",
+      "end": "56:40",
+      "canonical_segment": "News",
+      "title": "Cyber Truck Interview Attempt",
+      "notes": "Case attempts to interview a Cyber Truck; Peter Gibbon emerges from crawlspace claiming to have vandalized all Cyber Trucks with acid sludge; bit devolves into truck hitting orphanage and racing Sonic."
+    },
+    {
+      "start": "58:22",
+      "end": "1:08:15",
+      "canonical_segment": "Munch & Crum",
+      "title": "Woodchuck Debate & Roe v. Wade Sidetrack",
+      "notes": "Munch assigns Crum 'overturn Roe v. Wade' position on woodchuck riddle; Crum argues woodchucks would form regressive society restricting reproductive rights, wins $5k toward $140k gorilla debt."
+    },
+    {
+      "start": "1:08:15",
+      "end": "1:23:12",
+      "canonical_segment": "News",
+      "title": "Case Investigates Munch Offshore Banking Conspiracy",
+      "notes": "Case watches '5 Shocking Twitch Moments' YouTube video, finds no evidence of Munch laundering channel points offshore; pivots to suspecting Crum of robbery and money laundering instead."
+    },
+    {
+      "start": "1:23:12",
+      "end": "1:53:41",
+      "canonical_segment": "News",
+      "title": "Speed News Roundup with Crum",
+      "notes": "Rapid-fire stories: gladiator lion bite marks proven, AI hair-washing machines in China, Ferrari 458 burns 1hr after delivery, Fyre Fest 2 cancelled, strap-on penis bank incident, pro-natalist medals proposal, Rock explains WrestleMania no-show, FDA phasing out synthetic dyes, sperm racing league announced."
+    },
+    {
+      "start": "1:53:41",
+      "end": "2:20:43",
+      "canonical_segment": "Amongst the Web",
+      "title": "Internet Video Review & Raid",
+      "notes": "Case and Crum watch viewer-submitted clips: Star Wars parody ad, McCain-Palin rap, Gal Gadot line readings, trap bassoon beats; ends with Hype Train freestyle and raid."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored full broadcast; ran news desk, Munch & Crum oversight, speed news co-host, Amongst the Web host.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on, managed hype train acknowledgments, attempted to vandalize Cyber Truck with sludge.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosted news desk covering Musk/DOGE and Trump tariffs; declared middle name 'Air Ripple' upon exit.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Emerged from crawlspace claiming responsibility for Cyber Truck vandalism via acid sludge; assisted in failed truck interview.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Assigned Crum anti-abortion position in woodchuck debate; celebrated Crum's win as own magnanimity; gorilla debt collector looming.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Won woodchuck debate arguing woodchucks would overturn Roe v. Wade; earned $5k toward $140k gorilla debt; co-hosted speed news.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Brief phone call during sperm racing segment asking Case to check lip liner color in her bag; theme music played.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum's debt to Rock-afire gorilla stands at $140,000; earns $5,000 per debate win; gorilla's rage meter building toward 'ultra beam' groin strike. [1:01:29]",
+      "timestamp": "1:01:29"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "Crum",
+      "fact": "Crum owes Rock-afire gorilla $140,000, pays $5,000 per debate win [1:01:29]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Crum",
+      "fact": "Crum claims 'super strength in spits' and crushed electric toothbrush to dust [1:00:56]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Kendelle",
+      "fact": "Kendelle has dedicated theme music cued by Case when she enters [1:50:06]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Peter Gibbon",
+      "fact": "Peter Gibbon lives in studio walls, barfs acid sludge on Cyber Trucks [48:09]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Running joke: Case killed Pope during JD Vance meeting [42:20]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Running joke: Case resembles JD Vance [41:47]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered Elon Musk's reduced DOGE role and Trump's tariff walkback before a chaotic Cyber Truck interview derailed by stowaway Peter Gibbon's acid sludge. Munch & Crum debated woodchuck reproductive rights, netting Crum $5,000 toward his $140,000 gorilla debt. The broadcast closed with a speed news roundup including FDA dye bans and the launch of competitive sperm racing, followed by Amongst the Web video reviews and a Hype Train freestyle.",
+  "_meta": {
+    "vod_id": "xnDll_axGTU",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 118487,
+    "approx_prompt_tokens": 29621,
+    "transcript_lines": 244
+  }
+}
