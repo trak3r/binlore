@@ -1,0 +1,199 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "07:16",
+      "canonical_segment": "News",
+      "title": "Station Cold-Open: Pepito Sign-On",
+      "notes": "Pepito delivers the official Grunchmas sign-on from the control room, identifying as the dog producer and president of the 'one who flocks every crust man.'"
+    },
+    {
+      "start": "07:16",
+      "end": "09:26",
+      "canonical_segment": "News",
+      "title": "Grunchmas Introduction",
+      "notes": "Case Blackwell debuts as The Grunch — a horny green Grinch variant — explaining his annual emergence from an amniotic sack for a week-long procreative orgy."
+    },
+    {
+      "start": "09:26",
+      "end": "23:45",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Summoning & Subscriber Roll",
+      "notes": "Grunch summons Hype Train to the scrying cave; Hype Train hits level 10 hype with a Christmas trap beat freestyle while processing a massive sub influx including 5 community subs from Cycorp and 300 bits from S.K.O.A.M.Y.R."
+    },
+    {
+      "start": "24:05",
+      "end": "24:55",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch Interrupts Grunchmas",
+      "notes": "Munch briefly hijacks the broadcast claiming a spiritual retreat in Jacksonville, Florida, declares 'Mary fucks miss,' and sings a truncated 'O Holy Night' before departing."
+    },
+    {
+      "start": "25:17",
+      "end": "02:14:57",
+      "canonical_segment": "News",
+      "title": "The Fucks List Adjudication",
+      "notes": "Grunch works through the community Discord submissions deciding who 'fucks' — covering internet personalities, fictional characters, and public figures with absurdist rationale — punctuated by beat changes and musical interludes."
+    },
+    {
+      "start": "01:06:14",
+      "end": "01:16:59",
+      "canonical_segment": "Munch & Crum",
+      "title": "Grunch vs Crum Debate: Does Crum Fuck?",
+      "notes": "Crum appears with glowing radioactive hair; Grunch argues affirmatively while Crum rhetorically withholds, culminating in Crum revealing a daily scheduled marital intimacy regimen managed via locked chore calendar."
+    },
+    {
+      "start": "01:35:01",
+      "end": "01:48:56",
+      "canonical_segment": "How To with Jeb",
+      "title": "How To with Jeb: Gift Wrapping Tutorial",
+      "notes": "Jeb Nogget summoned to scrying cave; learns to wrap a candle for a Starbucks barista while confirming his father is purely a wooden construct with no human remains."
+    },
+    {
+      "start": "02:13:23",
+      "end": "02:14:57",
+      "canonical_segment": "News",
+      "title": "Fucks List Speed Round",
+      "notes": "Grunch rapid-fires through remaining entries in rhyming cadence over struggling beats, covering dozens of names in a final sprint to close the list."
+    },
+    {
+      "start": "02:15:27",
+      "end": "02:22:25",
+      "canonical_segment": "News",
+      "title": "Kendall's Grunk-Miss Wish: Popular (Pink Grunch)",
+      "notes": "Grunch saturates himself pink to fulfill Kendelle's second wish, performing 'Popular' from Wicked with Kendelle briefly appearing on camera."
+    },
+    {
+      "start": "02:22:25",
+      "end": "02:27:34",
+      "canonical_segment": "News",
+      "title": "Raid & Sign-Off",
+      "notes": "Grunch thanks subscribers, announces return to regular BIN scheduling, and raids Miss Fire O3 while overlooking the uninviting Whoville orgy from his mountaintop cave."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers the Grunchmas cold-open sign-on from the control room as the dog producer.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "anchor. Hosts the Grunchmas special as The Grunch, a horny green Grinch variant who adjudicates the annual Fucks List.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Summoned to the scrying cave; hits level 10 hype with a Christmas trap freestyle while processing record subscriber numbers.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "recurring",
+      "notes": "recurring. Briefly interrupts claiming a Jacksonville spiritual retreat, sings 'O Holy Night,' and departs.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "recurring",
+      "notes": "recurring. Debates Grunch on whether Crum fucks, reveals glowing radioactive hair and a daily scheduled marital intimacy regimen.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "recurring",
+      "notes": "recurring. Summoned for a gift-wrapping tutorial; confirms his father is purely a wooden construct and gifts a candle to a Starbucks barista.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Provides Grunk-miss wishes (Define Gravity, Popular) and appears briefly during the pink Grunch finale.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "The Grunch emerges annually from an amniotic sack as an amoeba, rapidly growing to full size and immediately entering a procreative state; he self-clones and considers himself immortal despite dying yearly.",
+      "timestamp": "[07:58]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "The Grunch's heart is a genital that grows six sizes during the season.",
+      "timestamp": "[13:43]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "The Grunch's physical form shrank slightly this year, reducing operating room in the Grunchmas cave.",
+      "timestamp": "[14:28]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Munch claims a months-long spiritual retreat in Jacksonville, Florida, where he concluded he was 'right' all along.",
+      "timestamp": "[01:03:37]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum now possesses a full head of glowing radioactive hair, a departure from his canonical bald pate.",
+      "timestamp": "[01:07:16]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum and his wife Belulia maintain a locked chore calendar that schedules daily sexual activity, using water-based lubricant when needed.",
+      "timestamp": "[01:15:58]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jeb's father is confirmed as entirely wooden with no human tissue remaining, trapped in a board.",
+      "timestamp": "[01:39:36]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jeb regularly gifts candles to a specific Starbucks barista (Jessica) who works a Tuesdays/Thursdays off schedule he finds suspicious.",
+      "timestamp": "[01:45:33]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "The Grunchmas 2024 special sees anchor Case Blackwell embody the horny green 'Grunch' for a week-long annual broadcast event, processing a record subscriber haul with Hype Train before adjudicating the community-submitted 'Fucks List' of internet personalities and fictional characters. The broadcast features a surprise Munch & Crum debate on Crum's sexual activity, a How To with Jeb gift-wrapping tutorial, and concludes with Grunch fulfilling Kendelle's wish to turn pink and sing 'Popular' from Wicked before raiding out.",
+  "_meta": {
+    "vod_id": "eVZvbJFawhA",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 121909,
+    "approx_prompt_tokens": 30477,
+    "transcript_lines": 326
+  }
+}
