@@ -1,0 +1,142 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "end": "00:06",
+      "notes": "Pepito delivers the station sign-on as 'Radio Cut Man' to open the Halloween broadcast.",
+      "start": "00:00",
+      "title": "Station Sign-On"
+    },
+    {
+      "canonical_segment": "News",
+      "end": "12:06",
+      "notes": "Case interviews Mayor Godzilla about city plans, Papito's Halloween costume, and the whereabouts of Godzuki.",
+      "start": "10:23",
+      "title": "Mayor Godzilla Press Conference"
+    },
+    {
+      "canonical_segment": "News",
+      "end": "26:35",
+      "notes": "Emergency election coverage with candidates Godzilla, Jeb's Dad, Gina Darling, Munch, Hamtaro hamster, and Papito; Gina Darling's huge head wins.",
+      "start": "16:46",
+      "title": "Rennerton Mayoral Election Night"
+    },
+    {
+      "canonical_segment": "News",
+      "end": "36:56",
+      "notes": "Gina Darling's severed forehead becomes mayor, declares war on loiterers, and is overrun by zombies after atomic poop discussion.",
+      "start": "26:35",
+      "title": "Mayor Forehead Term"
+    },
+    {
+      "canonical_segment": "News",
+      "end": "40:54",
+      "notes": "Hamster who loves Hamtaro (not Hamtaro) becomes mayor, focuses on wood farming and sleeping in wood chips before town is destroyed.",
+      "start": "36:56",
+      "title": "Mayor Hamster Term"
+    },
+    {
+      "canonical_segment": "News",
+      "end": "1:10:34",
+      "notes": "Munch declares 'Munchcut law,' builds army of 'banging redheaded archers,' faces protests from Crum, and survives until special election.",
+      "start": "40:54",
+      "title": "Mayor Munch Martial Law Term"
+    },
+    {
+      "canonical_segment": "News",
+      "end": "1:42:22",
+      "notes": "Crum wins emergency election 69-0, constructs walls and ballistas, claims 50% life regeneration, and stabilizes city before sign-off.",
+      "start": "1:10:34",
+      "title": "Mayor Crum Landslide Term"
+    },
+    {
+      "canonical_segment": "News",
+      "end": "1:43:22",
+      "notes": "Case closes broadcast, wishes happy Halloween, and raids Spinache.",
+      "start": "1:42:22",
+      "title": "Sign-Off"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "notes": "Anchors Halloween special mayoral election coverage from the BIN newsroom while playing a city-builder simulation as Rennerton's successive mayors.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "notes": "Delivers the station sign-on as 'Radio Cut Man' and appears as an in-game character surviving the loiterer hordes.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "notes": "Seizes mayoral power under martial law, builds an army of 'banging redheaded archers,' and loses a landslide election to Crum 69-0.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "notes": "Wins emergency mayoral election in a 69-0 landslide, constructs defensive walls, and claims 50% life regeneration while defending Rennerton.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Pepito opens broadcast with station ID 'Radio Cut Man'.",
+      "timestamp": "[00:06]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Rennerton's citizens are 'extreme loiterers' — zombie-like hordes infesting the city.",
+      "timestamp": "[23:02]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Munch declares 'Munchcut law' (martial law) and claims grandfathered title of 'permanent catastrophe general'.",
+      "timestamp": "[1:05:33]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum wins emergency mayoral election in a 69-0 landslide over Munch.",
+      "timestamp": "[1:28:40]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum claims 'life regeneration plus 50%' as a mayoral upgrade.",
+      "timestamp": "[1:35:58]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum has athlete's foot on his head.",
+      "timestamp": "[1:34:53]",
+      "confidence": 0.7
+    }
+  ],
+  "storylines": [],
+  "episode_summary": "Barely Informed News presents a Halloween special election night in the ruined city of Rennerton, where successive mayors — Godzilla, Gina Darling's sentient forehead, a Hamtaro-loving hamster, Munch under martial law, and finally Crum in a 69-0 landslide — attempt to rebuild defenses against flesh-eating 'extreme loiterers.' Crum's term sees the construction of perimeter walls, an archer corps, and a claim of 50% life regeneration before the broadcast signs off.",
+  "_meta": {
+    "vod_id": "aPzAtK5ZVeM",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 72073,
+    "approx_prompt_tokens": 18018,
+    "transcript_lines": 186
+  }
+}
