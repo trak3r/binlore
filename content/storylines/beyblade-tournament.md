@@ -69,6 +69,7 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 | [[../episodes/2025-02-12|2025-02-12]] [01:18:29] | [01:18:29] Jeb suggests the full Tiger Moves self-defense DVD watch-through as a new sub goal, referencing the community-pledged Beyblade event. |
 | [[../episodes/2025-02-25|2025-02-25]] [02:18:02] | [02:18:02] Case references the Beyblade Tournament as 'quietly sunsetted like CTDS and Colcast,' suggesting the community pledge remains unfulfilled. |
 | [[../episodes/2025-03-21|2025-03-21]] [01:47:13] | [01:47:13] Crum proposes a Beyblade rematch as the next sub goal; Munch insists on correct pronunciation ('Beyblades!') and notes Case's old Beyblades are broken. |
+| [[../episodes/2025-04-14|2025-04-14]] [18:58] | [18:58] Hamtaro kigurumi sub goal set at 40 subs (approx $70-80 for two onesies); framed as Halloween costume and Beyblade-adjacent community pledge. |
 | [[../episodes/2025-05-30|2025-05-30]] [39:25] | Munch references past Beyblade episodes during debate count banter. [39:25] |
 | [[../episodes/2025-06-02|2025-06-02]] [31:49] | [31:49] Case references pending Beyblade event possibly still 'inside the Papal Binclave'; no further advancement this episode. |
 | [[../episodes/2025-06-17|2025-06-17]] | [2025-06-17] Referenced as pending community-pledge event; no progress shown this episode. |

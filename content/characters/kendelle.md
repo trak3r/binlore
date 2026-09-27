@@ -53,14 +53,15 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-17|2025-06-17]] | In-Studio Contributor. |
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
+| [[episodes/2025-04-14|2025-04-14]] | in-studio contributor. |
 | [[episodes/2025-04-10|2025-04-10]] | in-studio contributor. |
-| [[episodes/2025-04-05|2025-04-05]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (120)</summary>
+<summary>Earlier appearances (121)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-04-05|2025-04-05]] | in-studio contributor. |
 | [[episodes/2025-04-04|2025-04-04]] | in-studio contributor. |
 | [[episodes/2025-04-03|2025-04-03]] | in-studio contributor. |
 | [[episodes/2025-03-31|2025-03-31]] | in-studio contributor. |
@@ -244,3 +245,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[]** ([[episodes/2025-03-19|2025-03-19]]): Has officially quit her day job with two weeks' notice; exploring freelance/streaming full-time. [1:02:50]
 - **[]** ([[episodes/2025-04-03|2025-04-03]]): Kendelle's streaming assets and overlay setup are still incomplete, delaying her solo streams. [00:33:21]
 - **[3:25:41]** ([[episodes/2025-04-05|2025-04-05]]): Workstation suffers repeated crashes and a dead middle monitor; Case commits to fixing it over the weekend. [3:25:41]
+- **[01:37:28]** ([[episodes/2025-04-14|2025-04-14]]): TurboTax paid $60,000 for 10-second hologram ad; ad algorithmically framed her as 'Trump Voter Amid Tariffs' despite voting for Harris.
