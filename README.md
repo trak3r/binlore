@@ -426,66 +426,26 @@ Running on a server with limited disk space requires strict hygiene:
 - **Pre-run Sweep:** Automatically cleans any orphaned media files in `tools/runs/` left by previous manual runs before starting.
 - **Bounded Logs:** Structured, single-line logs are written to `tools/runs/batch.log` (gitignored), ensuring log files never grow out of control.
 
-### How to Run Unattended in the Background
-
-#### Option A: Using `tmux` (Recommended)
+### How to Run Unattended over SSH (`screen`)
 
 ```bash
-# 1. Start a new tmux session
-tmux new -s binlore
+# 1. SSH in, then start a named screen session
+screen -S binlore
 
-# 2. Start the batch processor (transcribe-only by default)
-./binlore transcribe-all
+# 2. Start the batch processor (transcribe-only by default; use --extract to mine)
+./binlore process-all --extract
 
-# 3. Detach from the session: Press Ctrl+b, then press d
-# The processor continues running in the background!
+# 3. Detach: Ctrl+a, then d
+# The processor keeps running after you disconnect SSH.
 
-# 4. To reattach and view progress later:
-tmux attach -t binlore
+# 4. Reattach later (same host):
+screen -r binlore
+
+# If it says "Attached elsewhere":
+screen -dr binlore
 ```
 
-#### Option B: Using `nohup`
-
-```bash
-# Run in background and redirect stdout
-nohup ./binlore transcribe-all > tools/runs/batch_stdout.log 2>&1 &
-echo $! > tools/runs/batch.pid
-
-# Check running process
-tail -f tools/runs/batch.log
-
-# Stop the process if needed
-kill $(cat tools/runs/batch.pid)
-```
-
-#### Option C: As a `systemd` Service (Linux Servers)
-
-Create `/etc/systemd/system/binlore.service`:
-
-```ini
-[Unit]
-Description=BIN Lore Autonomous Batch Processor
-After=network.target
-
-[Service]
-Type=simple
-User=youruser
-WorkingDirectory=/path/to/binlore
-ExecStart=/path/to/binlore/tools/.venv/bin/python3 /path/to/binlore/tools/process_all.py --delay 5.0
-Restart=on-failure
-RestartSec=30
-EnvironmentFile=/path/to/binlore/tools/.env
-
-[Install]
-WantedBy=multi-user.target
-```
-
-Enable and start:
-```bash
-sudo systemctl daemon-reload
-sudo systemctl enable --now binlore
-sudo journalctl -u binlore -f
-```
+Structured logs also land in `tools/runs/batch.log` (gitignored) if you want to tail progress from another shell.
 
 ### Checking Status & Monitoring Progress
 
