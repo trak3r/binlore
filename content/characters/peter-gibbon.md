@@ -49,19 +49,20 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2025-06-28|2025-06-28]] | news stowaway. |
 | [[episodes/2025-06-17|2025-06-17]] | News Stowaway. |
 | [[episodes/2025-06-11|2025-06-11]] | news stowaway. |
+| [[episodes/2025-03-25|2025-03-25]] | news stowaway. |
 | [[episodes/2025-03-19|2025-03-19]] | news stowaway. |
 | [[episodes/2025-03-04|2025-03-04]] | news stowaway. |
 | [[episodes/2025-02-25|2025-02-25]] | news stowaway. |
 | [[episodes/2025-02-01|2025-02-01]] | news stowaway. |
 | [[episodes/2025-01-31|2025-01-31]] | news stowaway. |
 | [[episodes/2025-01-17|2025-01-17]] | news stowaway. |
-| [[episodes/2024-11-26|2024-11-26]] | news stowaway. |
 
 <details>
-<summary>Earlier appearances (44)</summary>
+<summary>Earlier appearances (45)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-11-26|2024-11-26]] | news stowaway. |
 | [[episodes/2024-11-06|2024-11-06]] | news stowaway. |
 | [[episodes/2024-10-30|2024-10-30]] | news stowaway. |
 | [[episodes/2024-10-23|2024-10-23]] | news stowaway. |

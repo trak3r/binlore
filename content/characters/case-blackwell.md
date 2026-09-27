@@ -184,3 +184,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[[26:47]]** ([[episodes/2025-01-20|2025-01-20]]): Comments on JD Vance's mother attending after Vance 'called her like a crack addict for 30 years to make his career.'
 - **[]** ([[episodes/2025-01-29|2025-01-29]]): Picked up part-time job Mon/Wed/Fri mornings, moving stream start to 12:30-1:30pm. [09:37]
 - **[]** ([[episodes/2025-01-29|2025-01-29]]): Confirmed for Sunday dinner date with Kendall. [10:58]
+- **[01:47:06]** ([[episodes/2025-03-25|2025-03-25]]): Credit card compromised live on air — $1,000 tool purchase and table purchases attempted; card deactivated, replacement en route.

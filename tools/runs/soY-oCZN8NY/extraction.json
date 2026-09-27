@@ -1,0 +1,156 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "00:08",
+      "end": "38:12",
+      "title": "Signal Leak & Election Executive Order",
+      "notes": "Pepito cold-open countdown; Case and Liliana cover Trump administration accidentally texting war plans to Jeffrey Goldberg, debate journalistic ethics of withholding full chat, and Trump's new executive order requiring proof of citizenship for federal voter registration."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "39:04",
+      "end": "54:19",
+      "title": "Movie Trailer Ratings (News Eye Stravaganza)",
+      "notes": "Case and Chris (parole officer) watch and rate three trailers — Truck Turner, Spy High, Andor final season — using new five-star rating overlay; Chris switches headwear between wide and close-up shots."
+    },
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "start": "54:19",
+      "end": "01:09:00",
+      "title": "Ashton Hall Morning Routine & News Ice Stravaganza Pledge",
+      "notes": "Chet (as Big Cheddar) commandeers desk to cover viral fitness influencer Ashton Hall's 4 AM routine; announces News Ice Stravaganza at next sub goal (110) where anchors must ice heads every 20 minutes."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "01:10:12",
+      "end": "01:34:15",
+      "title": "Guy Redacted: Morning Routine Conspiracy & Pyramid Alien DNA",
+      "notes": "Guy Redacted deep-dives conspiracy that morning routines are mind-control rituals; watches debunking video, then pivots to TikTok claims of alien mummies and underground city beneath Giza pyramids aligned with Orion's belt."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "start": "01:39:19",
+      "end": "02:05:06",
+      "title": "Viewer Videos & Live Credit Card Fraud",
+      "notes": "Case and Peter Gibbon rate viewer clips (translucent squid, animatronic football player, Kung Fu Warrior Adventure Set); Case discovers real-time credit card fraud on air, reports $1k tool purchase and table purchases."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "start": "02:05:06",
+      "end": "02:41:53",
+      "title": "Park Interviews: Invisible Mountain Man, Ham Tarot, Banana, Pyramid Scammer, Tony Hawk",
+      "notes": "Trip Bradstein interviews park denizens including cloaked Mountain Man Mike, Ham Tarot, suicidal banana, underground pyramid claiming credit card theft, God of Police, and Tony Hawk kickflipping off-camera; ends with Hype Train bit donation and park open mic raid-out."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors News desk with Liliana, hosts trailer ratings, fields live credit card fraud, oversees Amongst the Web and Trip segments.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold-open countdown and sign-on; sprints around studio off-camera.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Co-anchors News desk, banters on Signal leak and election order, exits for go-karting.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Big Cheddar)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeers broadcast as Big Cheddar to cover Ashton Hall fitness routine and pledge News Ice Stravaganza.",
+      "canonical_name": "Chet (Big Cheddar)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Guy Redacted",
+      "role": "conspiracy analyst",
+      "notes": "conspiracy analyst. Delivers basement conspiracy segment linking morning routines to pyramid alien DNA and dog aliens.",
+      "canonical_name": "Guy Redacted",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Co-hosts Amongst the Web from wall dwelling, reacts to credit card fraud, claims he hides financial records in walls.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype announcer",
+      "notes": "hype announcer. Interrupts Trip segment with freestyle rap and bit donations, claims need money fed via Case's credit card.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Grand Man",
+      "role": "park regular",
+      "notes": "park regular. Claims to help Case with taxes, offers only 'hard work' as opinion on workout videos.",
+      "canonical_name": "Grand Man",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "News Ice Stravaganza",
+      "beat": "[57:50] Chet announces News Ice Stravaganza pledge: at next sub goal (110), anchors must dunk heads in ice every 20 minutes during broadcast.",
+      "timestamp": "57:50"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Credit card compromised live on air — $1,000 tool purchase and table purchases attempted; card deactivated, replacement en route.",
+      "timestamp": "01:47:06",
+      "confidence": 0.7
+    },
+    {
+      "entity": "News Ice Stravaganza",
+      "fact": "New sub-goal pledge announced: at 110 subs, anchors must ice heads every 20 minutes; Chet pledges to go bottomless for fitness.",
+      "timestamp": "00:57:50",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Guy Redacted",
+      "fact": "Posits underground city beneath Giza pyramids contains alien DNA, metallic pillars aligning with Orion's belt, and dog-like alien builders (DeGalians).",
+      "timestamp": "01:26:27",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covers the Trump administration's Signal group chat leak and new citizenship-proof executive order, then pivots to trailer ratings and a viral fitness influencer's 4 AM routine that spawns a News Ice Stravaganza pledge. Guy Redacted connects morning routines to alien pyramids, Peter Gibbon witnesses Case's live credit card fraud during Amongst the Web, and Trip Bradstein interviews a cloaked mountain man, a suicidal banana, and Tony Hawk from the park bushes before raiding out to an open mic.",
+  "_meta": {
+    "vod_id": "soY-oCZN8NY",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 131014,
+    "approx_prompt_tokens": 32753,
+    "transcript_lines": 378
+  }
+}

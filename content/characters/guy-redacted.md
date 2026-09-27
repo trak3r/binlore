@@ -23,6 +23,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-03-25|2025-03-25]] | conspiracy analyst. |
 | [[episodes/2025-03-17|2025-03-17]] | conspiracy correspondent. |
 | [[episodes/2024-07-30|2024-07-30]] | conspiracy correspondent. |
 | [[episodes/2024-06-18|2024-06-18]] | Debuts as new conspiracy correspondent; runs blueberry conspiracy deep-dive including Smurf interview. |
@@ -34,6 +35,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 - **[]** ([[episodes/2024-06-18|2024-06-18]]): Debuts as network's new conspiracy correspondent ('our new conspiracy guy redacted') [01:51:48].
 - **[01:30:30]** ([[episodes/2024-10-03|2024-10-03]]): Claims Bigfoot eats his free-range dogs and leaves thank-you notes on his door [01:30:30].
 - **[]** ([[episodes/2025-03-17|2025-03-17]]): Returned after period of being 'silenced' by disappearing hosts; operates from undisclosed location, wears Illuminati hat, investigates Avril Lavigne replacement conspiracy. [1:49:14]
+- **[01:26:27]** ([[episodes/2025-03-25|2025-03-25]]): Posits underground city beneath Giza pyramids contains alien DNA, metallic pillars aligning with Orion's belt, and dog-like alien builders (DeGalians).
 
 ## Open questions
 
