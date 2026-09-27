@@ -1,0 +1,246 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "06:50",
+      "canonical_segment": "News",
+      "title": "Cold Open: Pepito Station Sign-On",
+      "notes": "Pepito delivers the official top-of-hour broadcast sign-on as executive producer, identifying as the dog who produces the show."
+    },
+    {
+      "start": "06:50",
+      "end": "16:28",
+      "canonical_segment": "News",
+      "title": "David Lynch Tribute & Louis C.K. Clip",
+      "notes": "Case discusses David Lynch's death, transcendental meditation, and plays a clip from Louis C.K.'s show featuring Lynch as a comedic talk show host."
+    },
+    {
+      "start": "16:50",
+      "end": "44:30",
+      "canonical_segment": "News",
+      "title": "Supreme Court Upholds TikTok Ban",
+      "notes": "Case and Sammy cover the unanimous Supreme Court decision upholding the TikTok ban on national security grounds, Trump's potential lifeline, and the impact on small businesses and creators."
+    },
+    {
+      "start": "45:58",
+      "end": "01:07:22",
+      "canonical_segment": "News",
+      "title": "Elon Musk Path of Exile 2 Controversy",
+      "notes": "Case, Sammy, and Peter react to Asmongold and gaming creators exposing Elon Musk's allegedly boosted/faked high-level Hardcore character, watching Crip and Quin breakdowns."
+    },
+    {
+      "start": "01:07:22",
+      "end": "01:08:21",
+      "canonical_segment": "News",
+      "title": "Peter Gibbon Wall Update",
+      "notes": "Peter reports from the crawlspace: he has sprayed the walls, claims the 200 rats are now poison-resistant and he is their general."
+    },
+    {
+      "start": "01:08:21",
+      "end": "01:16:36",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Derailment & Community Subs",
+      "notes": "Hype Train triggers on community subs from Tam (10 months), delivers freestyle raps, declares himself a 'cosmic baby train', and interacts with Kendall."
+    },
+    {
+      "start": "01:18:31",
+      "end": "01:28:39",
+      "canonical_segment": "News",
+      "title": "Nintendo Switch 2 Trailer Reaction",
+      "notes": "Trint and Chris (At the Movies) react to the Switch 2 reveal: larger screen, same dock, backward compatibility; Case compares it to Wii U and PSP."
+    },
+    {
+      "start": "01:24:28",
+      "end": "01:28:39",
+      "canonical_segment": "News",
+      "title": "Bubble Ghost Remake Trailer",
+      "notes": "Case discovers a recent Bubble Ghost remake trailer, watches it, and debates original vs. remake aesthetics with Trint/Chris."
+    },
+    {
+      "start": "01:29:46",
+      "end": "01:32:41",
+      "canonical_segment": "News",
+      "title": "Queen of the Ring Trailer",
+      "notes": "Wrestling biopic trailer (March 7 release) featuring Mildred Burke, Billy Corgan, and Vince McMahon; Case notes brief wrestler cameos."
+    },
+    {
+      "start": "01:32:41",
+      "end": "01:37:21",
+      "canonical_segment": "News",
+      "title": "Paradise (Hulu Series) Trailer",
+      "notes": "Political thriller series trailer: president dies, investigation, non-linear timeline; Case critiques bisexual/non-linear filmmaking."
+    },
+    {
+      "start": "01:37:21",
+      "end": "01:45:13",
+      "canonical_segment": "News",
+      "title": "Presidential Hotness Ranking",
+      "notes": "Case ranks all U.S. presidents by hotness: Grant, Hayes, young Biden, Obama, JFK (dethroned), Taft (John Goodman comparison), Wilson (latex vibe)."
+    },
+    {
+      "start": "01:45:13",
+      "end": "01:53:31",
+      "canonical_segment": "News",
+      "title": "First Ladies Hotness Ranking",
+      "notes": "Case ranks first ladies: Dolly Madison, Julia Tyler, Sarah Polk, Margaret Taylor, Jackie Kennedy (nicest lady), young Hillary (conflicted), Michelle Obama (arms), Melania (ice lady)."
+    },
+    {
+      "start": "01:53:31",
+      "end": "02:11:25",
+      "canonical_segment": "How To with Jeb",
+      "title": "How To: Beard Trimmer, Scissors, Manly Voice & ED Expert",
+      "notes": "Jeb and Jeb's Dad (stuck in wood) present beard trimming tutorials (trimmer guards, scissors technique) and a 'manly voice' instructional; ends with prostate cancer survivor Michael Russer discussing impotence."
+    },
+    {
+      "start": "02:12:17",
+      "end": "02:15:33",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Dad with 14 Kids Advice Segment",
+      "notes": "A caller claiming to be a famous dad (Homer Simpson bit) gives terrible parenting advice: ignore kids, choke them, rap over Bart Simpson trap beat."
+    },
+    {
+      "start": "02:15:33",
+      "end": "02:17:52",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Spinachi",
+      "notes": "Case reads Spinachi chat, confirms M/W/F schedule, Pepito claims chemical workout gains and mysterious bulges, broadcast ends."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Sammy",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Co-hosted news desk, debated TikTok ban and Elon Musk gaming claims, bantered with Case about Netflix account sharing.",
+      "canonical_name": "Sammy",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Entered mid-broadcast with theme music, mad at Case over a dream where he left her at a rave VIP section, interacted with Hype Train.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Triggered on community subs, delivered freestyle raps about being a cosmic baby train, declared 'in piss' narrative gravity.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Reported from crawlspace: sprayed walls, claims 200 poison-resistant rats and general status, banished by Case.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trint",
+      "role": "field correspondent",
+      "notes": "field correspondent. Appeared as 'At the Movies' correspondent with Chris, reacted to Switch 2 and Bubble Ghost trailers, claimed to be from the future.",
+      "canonical_name": "Trint",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "role": "field correspondent",
+      "notes": "field correspondent. Co-hosted 'At the Movies' with Trint, debated Bubble Ghost remake vs original, defended original aesthetics.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "recurring",
+      "notes": "recurring. Hosted How To with Jeb from woodshop, Jeb's Dad stuck in wood board, presented beard trimming and manly voice tutorials.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "recurring",
+      "notes": "recurring. Co-host from inside a wooden board, voice swirly, bickers with Jeb about being stuck in the wood.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dad with 14 Kids",
+      "role": "call-in guest",
+      "notes": "call-in guest. Homer Simpson impressionist giving terrible parenting advice: ignore children, choke them, rapped over Bart Simpson beat.",
+      "canonical_name": "Dad with 14 Kids",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:17:09] Crum's gambling debt to the mechanical gorilla referenced: Crum owes dangerous people, Munch offered $180k if Crum gives him 'exactly what he wants' (terms unclear).",
+      "timestamp": "01:17:09"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "[17:13] Case and his brother Cedar shared a Netflix account; after moving, location services broke and Case 'absolutely stealing' brother's account until forced to get own.",
+      "timestamp": "17:13",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "[01:11:52] Pepito muses about running for president/supreme leader: 'I don't even know if I'm gonna run for president.'",
+      "timestamp": "01:11:52",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "[29:26] Kendall mad at Case all day over a dream where he left her at a 'sexy VIP section' rave with their cats for 20 friends.",
+      "timestamp": "29:26",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "[01:07:52] Peter claims he sprayed the walls, the 200 rats are now poison-resistant, and he is their general.",
+      "timestamp": "01:07:52",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "[18:43] Case announces official Monday/Wednesday/Friday broadcast schedule.",
+      "timestamp": "18:43",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "[02:17:04] Pepito claims 'chemical workout' like Baki the Grappler: 'I'm fucking huge under this Bulls all sorts of bulges coming out of places you would not expect.'",
+      "timestamp": "02:17:04",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covers the Supreme Court's unanimous TikTok ban upheld on national security grounds with Trump equivocating on a lifeline, then pivots to the Elon Musk Path of Exile 2 scandal where gaming creators expose his allegedly boosted Hardcore character. The broadcast features a David Lynch tribute, Nintendo Switch 2 and Bubble Ghost remake trailer reactions, a presidential hotness ranking (Grant and Hayes top, JFK dethroned), first ladies ranking (Jackie Kennedy 'nicest lady'), a How To with Jeb on beard grooming and manly voice cultivation, and a Homer Simpson bit as a 'dad with 14 kids.' Pepito manages sub goals for a Christen/Trint game stream while Peter Gibbon reports poison-resistant rats in the walls.",
+  "_meta": {
+    "vod_id": "RVFbjH-_kJI",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 117724,
+    "approx_prompt_tokens": 29431,
+    "transcript_lines": 249
+  }
+}

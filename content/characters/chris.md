@@ -23,6 +23,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-01-17|2025-01-17]] | field correspondent. |
 | [[episodes/2025-01-15|2025-01-15]] | call-in guest. |
 | [[episodes/2024-09-06|2024-09-06]] | guest (parole officer). |
 | [[episodes/2024-07-09|2024-07-09]] | field correspondent. |

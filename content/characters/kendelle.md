@@ -53,14 +53,15 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-17|2025-06-17]] | In-Studio Contributor. |
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
+| [[episodes/2025-01-17|2025-01-17]] | in-studio contributor. |
 | [[episodes/2025-01-15|2025-01-15]] | in-studio contributor. |
-| [[episodes/2025-01-14|2025-01-14]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (96)</summary>
+<summary>Earlier appearances (97)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-01-14|2025-01-14]] | in-studio contributor. |
 | [[episodes/2025-01-08|2025-01-08]] | In-Studio Contributor / Marketing Professional. |
 | [[episodes/2025-01-06|2025-01-06]] | in-studio contributor. |
 | [[episodes/2024-12-23|2024-12-23]] | in-studio contributor. |
@@ -213,3 +214,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[[59:07]]** ([[episodes/2024-10-23|2024-10-23]]): Age confirmed as 30; birthday invite theme was '13 Going on 30'.
 - **[01:15:55]** ([[episodes/2025-01-06|2025-01-06]]): Pushed for adopting both bonded cats; fed/trapped cats during dishwasher installation; has video of handling Ms. Zorro on Instagram.
 - **[02:06:52]** ([[episodes/2025-01-15|2025-01-15]]): Still has unpacked boxes; sex toys under lock and key in dustiest cabinet; Puffy Bear not yet rescued. [02:06:52]
+- **[29:26]** ([[episodes/2025-01-17|2025-01-17]]): [29:26] Kendall mad at Case all day over a dream where he left her at a 'sexy VIP section' rave with their cats for 20 friends.

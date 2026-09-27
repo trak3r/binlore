@@ -49,19 +49,20 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2025-06-28|2025-06-28]] | news stowaway. |
 | [[episodes/2025-06-17|2025-06-17]] | News Stowaway. |
 | [[episodes/2025-06-11|2025-06-11]] | news stowaway. |
+| [[episodes/2025-01-17|2025-01-17]] | news stowaway. |
 | [[episodes/2024-11-26|2024-11-26]] | news stowaway. |
 | [[episodes/2024-11-06|2024-11-06]] | news stowaway. |
 | [[episodes/2024-10-30|2024-10-30]] | news stowaway. |
 | [[episodes/2024-10-23|2024-10-23]] | news stowaway. |
 | [[episodes/2024-10-22|2024-10-22]] | news stowaway. |
 | [[episodes/2024-10-13|2024-10-13]] | news stowaway. |
-| [[episodes/2024-10-10|2024-10-10]] | news stowaway. |
 
 <details>
-<summary>Earlier appearances (38)</summary>
+<summary>Earlier appearances (39)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-10-10|2024-10-10]] | news stowaway. |
 | [[episodes/2024-10-08|2024-10-08]] | news stowaway. |
 | [[episodes/2024-10-03|2024-10-03]] | news stowaway. |
 | [[episodes/2024-10-01|2024-10-01]] | news stowaway. |
@@ -137,3 +138,4 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 - **[01:40:12]** ([[episodes/2024-10-01|2024-10-01]]): Peter Gibbon claims he was fired and rehired as Park Ranger, reopening Park Mayor campaign.
 - **[03:08:53]** ([[episodes/2024-10-10|2024-10-10]]): Peter Gibbon reveals he was 'created at a freak off' by his parents.
 - **[[01:36:33]]** ([[episodes/2024-10-30|2024-10-30]]): Reveals the existence of six satellite rooms and broadcasts from one room over while lobbying for lead anchor.
+- **[01:07:52]** ([[episodes/2025-01-17|2025-01-17]]): [01:07:52] Peter claims he sprayed the walls, the 200 rats are now poison-resistant, and he is their general.
