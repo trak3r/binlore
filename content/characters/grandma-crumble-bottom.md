@@ -49,6 +49,7 @@ Grandma frequently drifts into reminiscences of her deceased husband. Rather tha
 | [[episodes/2026-07-17|2026-07-17]] | Munch declared Grandma 'the most fully formed idea' on the stream and 'a colleague and a scholar,' claiming she holds a doctorate in chemistry from Yale. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
 | [[episodes/2025-06-02|2025-06-02]] | Jambalaya panelist. |
+| [[episodes/2025-01-31|2025-01-31]] | therapy patient. |
 | [[episodes/2025-01-29|2025-01-29]] | Jambalaya panelist. |
 | [[episodes/2024-09-20|2024-09-20]] | Jambalaya panelist. |
 | [[episodes/2024-09-18|2024-09-18]] | recurring guest. |
@@ -81,3 +82,4 @@ See also: [[../segments/amongst-the-web|Amongst the Web]], [[../characters/index
 - **[1:32:29]** ([[episodes/2024-09-19|2024-09-19]]): Grandma Crumble Bottom claims to be a virgin despite having children, referring to them as 'closet kids.'
 - **[1:31:52]** ([[episodes/2024-09-19|2024-09-19]]): Grandma Crumble Bottom believes Joe Diddly (radio host) is the greatest blues man, confuses him with Sammy Davis Jr.
 - **[]** ([[episodes/2025-01-29|2025-01-29]]): Owes $180,000 to piano-playing gorilla; claims farts are quiet but smell bad. [01:48:39, 01:49:47]
+- **[[03:05:49]]** ([[episodes/2025-01-31|2025-01-31]]): Grandson Ralph Munchcut is 16; cousin Tanantha is 6 years older; Grandma hit game level cap 20 years ago.

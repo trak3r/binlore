@@ -53,6 +53,7 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2025-09-15|2025-09-15]] | How To host. |
 | [[episodes/2025-07-01|2025-07-01]] | instructional host. |
 | [[episodes/2025-06-19|2025-06-19]] | instructional host. |
+| [[episodes/2025-01-31|2025-01-31]] | instructional host. |
 | [[episodes/2025-01-27|2025-01-27]] | How To Host. |
 | [[episodes/2025-01-22|2025-01-22]] | field correspondent. |
 | [[episodes/2025-01-08|2025-01-08]] | Instructional Correspondent. |
@@ -66,13 +67,13 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2024-09-13|2024-09-13]] | instructional host. |
 | [[episodes/2024-08-22|2024-08-22]] | instructional host. |
 | [[episodes/2024-08-14|2024-08-14]] | How To host. |
-| [[episodes/2024-08-13|2024-08-13]] | instructional host. |
 
 <details>
-<summary>Earlier appearances (9)</summary>
+<summary>Earlier appearances (10)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-08-13|2024-08-13]] | instructional host. |
 | [[episodes/2024-08-08|2024-08-08]] | instructional host. |
 | [[episodes/2024-07-30|2024-07-30]] | instructional host. |
 | [[episodes/2024-07-22|2024-07-22]] | Hosts How To segment from woodshop with father trapped in wood, learns face dancing and minion lipstick. |
@@ -120,3 +121,4 @@ See also: [[../segments/how-to-with-jeb|How To with Jeb]], [[../characters/index
 - **[01:40:34]** ([[episodes/2024-09-18|2024-09-18]]): Claims to be ripped/jacked as a spirit residing in wood [01:40:34].
 - **[52:33]** ([[episodes/2024-10-02|2024-10-02]]): Claims to have figured out how to free his father from the wood, though father insists it's impossible. [52:33]
 - **[01:47:58]** ([[episodes/2025-01-06|2025-01-06]]): Deceased father remains trapped in wooden board; spectral clothing debated; father allegedly sent psychic peace-of-mind gift via transcendental meditation.
+- **[[02:10:42]]** ([[episodes/2025-01-31|2025-01-31]]): Co-founded jet company with Alex Nugget; naming dispute resolved as 'Jet Nugget' in Alex's honor.
