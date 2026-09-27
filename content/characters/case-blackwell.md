@@ -178,3 +178,7 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[02:05:45]** ([[episodes/2025-01-15|2025-01-15]]): Housing legal status 'barely legal'; hoping final approvals clear within two months. [02:05:45]
 - **[02:05:10]** ([[episodes/2025-01-15|2025-01-15]]): Built mini gym in backyard on unlaid concrete blocks; worked out morning of broadcast. [02:05:10]
 - **[02:21:37]** ([[episodes/2025-01-15|2025-01-15]]): Announced new broadcast schedule: Monday, Wednesday, Friday 11am-1pm PT. [02:21:37]
+- **[[09:23]]** ([[episodes/2025-01-20|2025-01-20]]): References 'accidental gray face' as a prior on-air look he failed to make acceptable.
+- **[[11:13]]** ([[episodes/2025-01-20|2025-01-20]]): Notes the cat cam was accidentally left on during the broadcast.
+- **[[21:47]]** ([[episodes/2025-01-20|2025-01-20]]): Identifies Lex Fridman in attendance at the inauguration, noting weight loss and hair gain.
+- **[[26:47]]** ([[episodes/2025-01-20|2025-01-20]]): Comments on JD Vance's mother attending after Vance 'called her like a crack addict for 30 years to make his career.'

@@ -1,0 +1,82 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Trump Inauguration Live Coverage",
+      "start": "00:00",
+      "end": "27:35",
+      "notes": "Pepito opens with station sign-on as 'Papita'; Case Blackwell anchors live commentary on Trump's second inauguration ceremony, including the $250M tech billionaire funding, VIP arrivals, invocations, and oaths of office for JD Vance and Donald Trump."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold-open station sign-on as 'Papita the dog' before handing off to Blackwell.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors live inauguration coverage from the newsroom desk with running commentary on ceremony optics and political theater.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Referenced by Blackwell as present in studio during the inauguration broadcast.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Uses 'Papita' persona for the top-of-hour broadcast sign-on.",
+      "timestamp": "[00:00]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "References 'accidental gray face' as a prior on-air look he failed to make acceptable.",
+      "timestamp": "[09:23]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Notes the cat cam was accidentally left on during the broadcast.",
+      "timestamp": "[11:13]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Identifies Lex Fridman in attendance at the inauguration, noting weight loss and hair gain.",
+      "timestamp": "[21:47]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Comments on JD Vance's mother attending after Vance 'called her like a crack addict for 30 years to make his career.'",
+      "timestamp": "[26:47]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News carries live commentary of Donald Trump's second inauguration, with executive producer Pepito opening the broadcast before anchor Case Blackwell takes the desk alongside Liliana. The crew dissects the $250 million tech-billionaire-funded ceremony, the assembled political dignitaries, and the extended invocation sequence, culminating in the vice-presidential and presidential oaths of office.",
+  "_meta": {
+    "vod_id": "tXrY4p8UfOI",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 38835,
+    "approx_prompt_tokens": 9708,
+    "transcript_lines": 67
+  }
+}

@@ -61,7 +61,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (70)</summary>
+<summary>Earlier appearances (71)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -72,6 +72,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
 | [[episodes/2025-06-02|2025-06-02]] | executive producer. |
+| [[episodes/2025-01-20|2025-01-20]] | executive producer. |
 | [[episodes/2025-01-06|2025-01-06]] | executive producer. |
 | [[episodes/2024-10-30|2024-10-30]] | executive producer. |
 | [[episodes/2024-10-23|2024-10-23]] | executive producer. |
@@ -225,3 +226,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[]** ([[episodes/2024-10-15|2024-10-15]]): States human music sounds like 'a terrifying deep voice demon' and is imperceptible to dogs. [45:24]
 - **[[00:01]]** ([[episodes/2024-10-23|2024-10-23]]): Delivered official station cold-open sign-on from the control room.
 - **[[11:22]]** ([[episodes/2024-10-30|2024-10-30]]): Experiences identity uncertainty about being a dog during the cold open.
+- **[[00:00]]** ([[episodes/2025-01-20|2025-01-20]]): Uses 'Papita' persona for the top-of-hour broadcast sign-on.
