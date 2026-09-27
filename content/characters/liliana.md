@@ -42,6 +42,7 @@ Liliana was absent from *Barely Informed News* for approximately a full year bef
 | [[episodes/2026-03-07|2026-03-07]] | Briefly appears during newsroom wrap-up; Case mentions her dedicated theme music. |
 | [[episodes/2025-06-19|2025-06-19]] | desk partner. |
 | [[episodes/2025-06-02|2025-06-02]] | in-studio contributor. |
+| [[episodes/2025-03-04|2025-03-04]] | desk partner. |
 | [[episodes/2025-02-25|2025-02-25]] | desk partner. |
 | [[episodes/2025-02-14|2025-02-14]] | desk partner. |
 | [[episodes/2025-02-03|2025-02-03]] | Participated in Jambalaya, criticized Kanye outfit as desperate human-trafficking vibes with too-low neckline. |
@@ -56,13 +57,13 @@ Liliana was absent from *Barely Informed News* for approximately a full year bef
 | [[episodes/2024-09-18|2024-09-18]] | desk partner. |
 | [[episodes/2024-08-13|2024-08-13]] | desk partner. |
 | [[episodes/2024-07-25|2024-07-25]] | desk partner. |
-| [[episodes/2024-07-22|2024-07-22]] | Participates in Jambalaya panel as 'burdened by what has been' contestant, reveals she celebrates her burden. |
 
 <details>
-<summary>Earlier appearances (14)</summary>
+<summary>Earlier appearances (15)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-07-22|2024-07-22]] | Participates in Jambalaya panel as 'burdened by what has been' contestant, reveals she celebrates her burden. |
 | [[episodes/2024-07-20|2024-07-20]] | Participates in both [[../segments/jambalaya|Jambalaya]] sessions, argues for buttersnitch pie and potato-as-human, dominates piss-play questions, votes for Kendall… |
 | [[episodes/2024-06-05|2024-06-05]] | desk partner. |
 | [[episodes/2024-05-10|2024-05-10]] | desk partner. |

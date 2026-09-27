@@ -1,0 +1,283 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "08:33",
+      "canonical_segment": "Station Cold-Open",
+      "title": "Pepito Broadcast Sign-On",
+      "notes": "Pepito delivers the official top-of-hour sign-on and countdown while running around the office."
+    },
+    {
+      "start": "08:33",
+      "end": "17:06",
+      "canonical_segment": "News",
+      "title": "Opening Banter: Kendall's Ears and Hype Train Sub Thanking",
+      "notes": "Case and Kendall discuss Orlando trip and Disney ears; Case performs Hype Train-style rap to thank subscribers after the train ends early."
+    },
+    {
+      "start": "17:06",
+      "end": "19:38",
+      "canonical_segment": "News",
+      "title": "Don Rickles Studio Interruption",
+      "notes": "Don Rickles appears on set trading insults with Case about hygiene and employment status."
+    },
+    {
+      "start": "19:38",
+      "end": "40:21",
+      "canonical_segment": "News",
+      "title": "Oscars Recap with Liliana",
+      "notes": "Liliana joins desk to review 2025 Oscar winners including Anora sweep, Conan O'Brien's $15k hosting fee, and No Other Land acceptance speech on Palestinian displacement."
+    },
+    {
+      "start": "41:35",
+      "end": "50:49",
+      "canonical_segment": "Conspiracy Time",
+      "title": "Conspiracy Time: Casino Industry Secrets with Clementine",
+      "notes": "Clementine Vernon returns from hiding to deliver a casino conspiracy monologue criticizing algorithmic risk-rating and intense background music."
+    },
+    {
+      "start": "51:53",
+      "end": "01:15:46",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web: Viral Video Review with Clementine",
+      "notes": "Clementine watches and rates viewer-submitted clips including a coaster POV, casino security cam, hit-clips robot, hide-and-seek, raccoon ad, brick-layer revenge, and big man blast."
+    },
+    {
+      "start": "01:15:10",
+      "end": "01:34:11",
+      "canonical_segment": "News",
+      "title": "Streamer News: Hassan Piker Ban and Rick Scott Controversy",
+      "notes": "Case covers Hassan Piker's fifth Twitch ban for saying 'kill Rick Scott' during Medicare fraud discussion; debates incitement vs. political rhetoric."
+    },
+    {
+      "start": "01:34:11",
+      "end": "01:47:15",
+      "canonical_segment": "News",
+      "title": "IRL Streamer Harassment Incident",
+      "notes": "Case and Liliana discuss creep stalking and death threats against Emiru, Cinna, and Valkyrae during Santa Monica Pier IRL stream."
+    },
+    {
+      "start": "01:47:15",
+      "end": "02:01:38",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Best Date Ideas Debate",
+      "notes": "Munch and Crum debate 'best date ideas' (vibes vs. snakes) while Crum's gorilla creditor looms; Crum's debt cited at $165k–$180k."
+    },
+    {
+      "start": "02:01:38",
+      "end": "02:16:32",
+      "canonical_segment": "How To with Jeb",
+      "title": "How To with Jeb: Turkey Meatloaf and Hoagie Trailer",
+      "notes": "Jeb and his deceased father (trapped in a wooden board) demonstrate turkey meatloaf, watch a Hoagie movie trailer, and view a 1990s anti-drug PSA."
+    },
+    {
+      "start": "02:16:32",
+      "end": "02:30:48",
+      "canonical_segment": "News",
+      "title": "News Roundup with Peter Gibbon",
+      "notes": "Peter Gibbon rapid-fires headlines: Trump pauses Ukraine aid, fart walks, bat guano cannabis deaths, Oscar memorial snubs, Danish piglet starvation art exhibit, and gorilla flatulence study."
+    },
+    {
+      "start": "02:30:48",
+      "end": "02:45:22",
+      "canonical_segment": "Jambalaya",
+      "title": "Jambalaya: Who Secretly Loves Rick Scott?",
+      "notes": "Panel game with Chet, Liliana, Jake Whitehole, and Stankmonius guessing which panelist loves Rick Scott; ends with jet ski butt-rock fantasy."
+    },
+    {
+      "start": "02:45:22",
+      "end": "02:47:19",
+      "canonical_segment": "News",
+      "title": "Sign-Off and Raid to Psycorp",
+      "notes": "Case wraps broadcast, announces Patreon and schedule, raids Psycorp."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored full broadcast: Oscar recap, Hassan ban analysis, IRL harassment coverage, Munch & Crum moderation, Jambalaya host, sign-off.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold-open sign-on; mentioned as broken due to Snap Camera update, with engineers working on fix.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Brief walk-through showing handmade Winnie the Pooh Disney ears; declined to speak on mic.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Co-hosted Oscar recap and IRL harassment discussion; revealed she doesn't have traditional sex.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Don Rickles",
+      "role": "recurring character",
+      "notes": "recurring character. Appeared for insult-comedy exchange with Case about hygiene and employment.",
+      "canonical_name": "Don Rickles",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Clementine Vernon",
+      "role": "conspiracy/Amongst the Web host",
+      "notes": "conspiracy/Amongst the Web host. Returned from 'seven layers below the Mariana Trench' for Conspiracy Time casino rant and Amongst the Web video reviews.",
+      "canonical_name": "Clementine Vernon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Crum on best date ideas (vibes/anticipation) while gorilla creditor watched; needled Crum about debt and jorts.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Munch on best date ideas (snakes); gorilla creditor present in his room over $165k–$180k gambling debt.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosted How To with Jeb from woodshop with deceased father in board; made turkey meatloaf, watched Hoagie trailer and anti-drug PSA.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "ghost co-host",
+      "notes": "ghost co-host. Deceased father trapped in wooden board; bickered with Jeb, expressed horniness, claimed synesthetic future-vision via brain centrifuge.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Delivered rapid-fire news roundup including Ukraine aid pause, fart walks, bat guano deaths, Oscar snubs, Danish piglet exhibit, gorilla farts.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Jambalaya panelist; admitted liking the name 'Rick Scott' for its two-first-names macho energy; proposed Danish art exhibit deprivation challenge.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jake Whitehole",
+      "role": "Case's cousin",
+      "notes": "Case's cousin. Jambalaya panelist; denied loving Rick Scott, claimed not to know what a congress is, suggested 'punk' as Rick Scott wrestling finisher.",
+      "canonical_name": "Jake Whitehole",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Stankmonius",
+      "role": "panelist",
+      "notes": "Jambalaya panelist with brain centrifuge and head-mounted guitars; declared 'I will fuck Rick Scott' and pitched jet ski butt-rock band 'Butt Skis'.",
+      "canonical_name": "Stankmonius",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:50:55] Crum's gorilla gambling debt cited at $165k–$180k; gorilla physically present in Crum's room playing piano, threatening collection.",
+      "timestamp": "01:50:55"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Pepito's Snap Camera filter broken by Patrick Trumpis server update; engineers working on fix, Amtaro Stream on hold until resolved.",
+      "timestamp": "[10:45]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jeb Nogget missing for ~2 weeks after mumbling 'the well was calling to him' and hanging up on Case.",
+      "timestamp": "[24:36]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Hassan Piker received fifth Twitch ban for stating 'if you cared about Medicare fraud you would kill Rick Scott' during political commentary.",
+      "timestamp": "[01:20:53]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "IRL stalker threatened to kill Emiru, Cinna, and Valkyrae on Santa Monica Pier stream; victims had no security.",
+      "timestamp": "[01:40:32]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum's gorilla creditor appeared in his living room playing piano; debt accrues interest weekly if not paid down.",
+      "timestamp": "[01:57:35]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Danish artist starving three piglets in shopping-cart cage exhibit (opened Friday) to protest factory farming; goldfish-blender precedent noted.",
+      "timestamp": "[02:23:06]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "BBC Spy in the Wild captured mountain gorillas in 'semi-permanent state of flatulence' from 20kg daily consumption.",
+      "timestamp": "[02:28:45]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered the Oscars with Liliana, then pivoted to streamer controversies: Hassan Piker's ban for a 'kill Rick Scott' remark and a stalker threatening female IRL streamers. Crum debated Munch on date ideas while his pneumatic gorilla creditor loomed, Jeb and his board-trapped father made meatloaf, Peter Gibbon rapid-fired a news roundup including a Danish piglet-starvation art exhibit, and a Jambalaya panel failed to identify the secret Rick Scott admirer before Case raided Psycorp.",
+  "_meta": {
+    "vod_id": "ZUFPFKnF1zU",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 132384,
+    "approx_prompt_tokens": 33096,
+    "transcript_lines": 297
+  }
+}

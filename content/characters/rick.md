@@ -35,6 +35,7 @@ Rick joined the broadcast on the [[episodes/2026-09-04|2026-09-04 broadcast]] to
 | [[episodes/2025-06-24|2025-06-24]] | Deep State correspondent / Amongst the Web host. |
 | [[episodes/2025-06-13|2025-06-13]] | Amongst the Web host. |
 | [[episodes/2025-06-02|2025-06-02]] | Amongst the Web host. |
+| [[episodes/2025-03-04|2025-03-04]] | recurring character. |
 | [[episodes/2025-02-12|2025-02-12]] | host of Amongst the Web. |
 | [[episodes/2025-01-27|2025-01-27]] | Security Guard / Amongst the Web Co-host. |
 | [[episodes/2025-01-22|2025-01-22]] | host of Amongst the Web. |

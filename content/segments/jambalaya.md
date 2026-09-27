@@ -45,6 +45,7 @@ Rounds mix political trivia, culinary absurdism, and interpersonal gotchas. The 
 | [[episodes/2024-09-20|2024-09-20]] | 02:33:48 | Panel Debate: Pro vs. Anti Mark Robinson's Piss: Liliana (pro), Grandma Crumble Bottom (anti), Tyler (anti) debate political acceptability of Robinson's piss fetish; chat votes against Robinson's piss; motel cleaning deposit consensus reached. |
 | [[episodes/2025-01-29|2025-01-29]] | 02:06:57 | Who Is the Secret Alien Lover?: Panel (Liliana, Grandma Crumble Bottom, Tyler, Chet) answers chat questions to hide/reveal alien affection; questions cover alien encounter reactions, genital slit length, relationship with Clementine Verne, ideal partner traits; vote reveals Liliana as the alien lover, citing 'they live' overlords. |
 | [[episodes/2025-02-03|2025-02-03]] | 1:48:09 | Who Made Kanye's Outfit?: Chat interrogates Liliana, Grandma Crumble Bottom, Tyler, and Chat; Grandma claims responsibility, Tyler praises 'sleek vagina,' Chat fully bricked. |
+| [[episodes/2025-03-04|2025-03-04]] | 02:30:48 | Jambalaya: Who Secretly Loves Rick Scott?: Panel game with Chet, Liliana, Jake Whitehole, and Stankmonius guessing which panelist loves Rick Scott; ends with jet ski butt-rock fantasy. |
 | [[episodes/2025-06-02|2025-06-02]] | 1:18:42 | Evil Twin Identification Panel: Crum, Grandma Crumble Bottom, Pepito, and Christ field chat questions to expose an evil twin; reveals include Grandma's janitor-closet origin, Pepito's litter cannibalism, and Christ's humanitarian twin in Gaza. |
 
 ## Related Pages
