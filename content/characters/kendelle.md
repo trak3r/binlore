@@ -53,14 +53,15 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-17|2025-06-17]] | In-Studio Contributor. |
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
+| [[episodes/2025-05-01|2025-05-01]] | in-studio contributor. |
 | [[episodes/2025-04-25|2025-04-25]] | in-studio contributor. |
-| [[episodes/2025-04-23|2025-04-23]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (124)</summary>
+<summary>Earlier appearances (125)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-04-23|2025-04-23]] | in-studio contributor. |
 | [[episodes/2025-04-18|2025-04-18]] | Walked through the studio discussing perfume scents, autism testing, and computer hardware woes before departing. |
 | [[episodes/2025-04-14|2025-04-14]] | in-studio contributor. |
 | [[episodes/2025-04-10|2025-04-10]] | in-studio contributor. |
@@ -251,3 +252,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[01:37:28]** ([[episodes/2025-04-14|2025-04-14]]): TurboTax paid $60,000 for 10-second hologram ad; ad algorithmically framed her as 'Trump Voter Amid Tariffs' despite voting for Harris.
 - **[]** ([[episodes/2025-04-23|2025-04-23]]): Kendelle has dedicated theme music cued by Case when she enters [1:50:06]
 - **[[01:37:12]]** ([[episodes/2025-04-25|2025-04-25]]): Has a new job (undisclosed) and is completing W2 paperwork; Case built her streaming PC but she reports ongoing camera issues.
+- **[]** ([[episodes/2025-05-01|2025-05-01]]): In Boston leaving tomorrow; movie at 7 PM (Case thought 8 PM) [1:51:10, 1:57:28]

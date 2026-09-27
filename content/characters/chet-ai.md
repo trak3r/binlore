@@ -82,3 +82,4 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 - **[01:35:11]** ([[episodes/2024-10-03|2024-10-03]]): Delivered canonical gorilla genitalia data: silverback penis ~1.1 inches (3 cm), smallest relative to body mass of any mammal; testes small, sperm count low, high abnormal morphology; evolutionary explanation: harem defense replaces sperm competition [01:35:11-01:49:21].
 - **[[01:49:22]]** ([[episodes/2025-02-12|2025-02-12]]): Summoned automatically when the word 'science' is spoken on air; presents peer-reviewed medical research with emotional reactivity.
 - **[]** ([[episodes/2025-03-31|2025-03-31]]): Chet Manscape can rap news over hard country trap beats while ice dunking. [03:05:25]
+- **[]** ([[episodes/2025-05-01|2025-05-01]]): Back is 'uncrackable' / 'too defended' — multiple methods fail; claims 'biggest crack of all time' pending [1:12:17]

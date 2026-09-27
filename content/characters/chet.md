@@ -48,19 +48,20 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2025-06-20|2025-06-20]] | science correspondent. |
 | [[episodes/2025-06-17|2025-06-17]] | Chief Science Correspondent. |
 | [[episodes/2025-06-07|2025-06-07]] | Chief Science Correspondent. |
+| [[episodes/2025-05-01|2025-05-01]] | science correspondent. |
 | [[episodes/2025-04-04|2025-04-04]] | science correspondent. |
 | [[episodes/2025-03-31|2025-03-31]] | science correspondent. |
 | [[episodes/2025-03-25|2025-03-25]] | science correspondent. |
 | [[episodes/2025-03-21|2025-03-21]] | science correspondent. |
 | [[episodes/2025-03-19|2025-03-19]] | science correspondent. |
 | [[episodes/2025-03-17|2025-03-17]] | science correspondent. |
-| [[episodes/2025-03-07|2025-03-07]] | science correspondent. |
 
 <details>
-<summary>Earlier appearances (52)</summary>
+<summary>Earlier appearances (53)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-03-07|2025-03-07]] | science correspondent. |
 | [[episodes/2025-03-04|2025-03-04]] | science correspondent. |
 | [[episodes/2025-02-08|2025-02-08]] | science correspondent. |
 | [[episodes/2025-01-29|2025-01-29]] | science correspondent. |
@@ -161,3 +162,4 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 - **[]** ([[episodes/2025-03-17|2025-03-17]]): Appeared untriggered by 'science' keyword; adopted 'Big Cheddar' persona for St. Patrick's Day, claimed 60-70% Irish, 70% German, Nordic, Native American, and African heritage. [22:51]
 - **[]** ([[episodes/2025-03-19|2025-03-19]]): Triggered by 'science' keyword during tantric sex segment, summoning ChetAI for German translation. [1:54:49]
 - **[]** ([[episodes/2025-03-31|2025-03-31]]): Chet Manscape can rap news over hard country trap beats while ice dunking. [03:05:25]
+- **[]** ([[episodes/2025-05-01|2025-05-01]]): Back is 'uncrackable' / 'too defended' — multiple methods fail; claims 'biggest crack of all time' pending [1:12:17]
