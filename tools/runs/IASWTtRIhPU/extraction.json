@@ -1,0 +1,116 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "08:31",
+      "canonical_segment": "News",
+      "title": "Station Sign-On and Cold Open",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on as executive producer; studio technical gremlins immediately surface."
+    },
+    {
+      "start": "08:31",
+      "end": "11:45",
+      "canonical_segment": "News",
+      "title": "Pre-Show Setup and Technical Difficulties",
+      "notes": "Case Blackwell attempts to stabilize a jittery camera feed while acknowledging chat; Crum and Jeff Ripple bicker in background."
+    },
+    {
+      "start": "11:45",
+      "end": "26:18",
+      "canonical_segment": "News",
+      "title": "Abercrombie & Fitch CEO Mike Jeffries Charged with Sex Trafficking",
+      "notes": "Lead anchor Case Blackwell covers the 16-count federal indictment against former CEO Mike Jeffries, partner Matthew Smith, and recruiter James Jacobson; Jeff Ripple and Crum provide desk commentary on the allegations and Jeffries' appearance."
+    },
+    {
+      "start": "26:18",
+      "end": "36:27",
+      "canonical_segment": "News",
+      "title": "Kendelle Assumes Broadcast Control During Anchor Work Call",
+      "notes": "Kendelle enters studio, operates Case's triple stream deck via chat vote, triggers assorted sound buttons and a Minecraft Minesweeper tutorial; Case absent on work call."
+    },
+    {
+      "start": "36:27",
+      "end": "37:20",
+      "canonical_segment": "News",
+      "title": "Raid Reception and Sign-Off",
+      "notes": "Avaly raids the channel; Case returns to thank raiders and close broadcast amid ongoing studio chaos."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open sign-on; camera feed glitches persist throughout opening minutes.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Briefly appears on desk, spars with Jeff Ripple, dismissed by Case to make room for news.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Joins desk to discuss apparent conflict with Crum; provides commentary on Jeffries indictment and standing reporter to Jeffries' left.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Takes over broadcast during Case's work call, runs stream deck mini-game with chat, teaches Minecraft Minesweeper.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Threatened by Kendelle at 33:28; remains in studio walls per lore.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Case Blackwell operates three stream decks simultaneously.",
+      "timestamp": "[26:59]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Kendelle has working knowledge of Case's stream deck layout and OBS scenes.",
+      "timestamp": "[27:00]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case Blackwell takes work calls during live broadcast, leaving Kendelle to fill airtime.",
+      "timestamp": "[36:27]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covers the federal sex trafficking indictment of former Abercrombie & Fitch CEO Mike Jeffries amid persistent camera glitches and desk infighting. Anchor Case Blackwell departs mid-broadcast for a work call, ceding control to Kendelle who orchestrates a chaotic stream-deck mini-game and Minecraft Minesweeper tutorial. The broadcast concludes with a raid from Avaly and Case's return to a still-unruly studio.",
+  "_meta": {
+    "vod_id": "IASWTtRIhPU",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 38210,
+    "approx_prompt_tokens": 9552,
+    "transcript_lines": 77
+  }
+}
