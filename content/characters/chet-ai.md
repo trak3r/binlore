@@ -49,6 +49,7 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 | [[episodes/2026-06-15|2026-06-15]] | Synthetic AI co-host, assists in science investigation. |
 | [[episodes/2026-06-05|2026-06-05]] | Synthetic neural network co-host operating from studio monitors, providing data-driven commentary on AI topics. |
 | [[episodes/2026-05-26|2026-05-26]] | Synthetic neural network co-host of Chet Guy the Science Eyes. Provides real-time data analysis, translates foreign medical literature, and assists Chet with technical queries. Operates simultaneously with Chet on screen. |
+| [[episodes/2025-03-31|2025-03-31]] | neural co-host. |
 | [[episodes/2025-02-14|2025-02-14]] | analytical co-host. |
 | [[episodes/2025-02-12|2025-02-12]] | science co-host. |
 | [[episodes/2025-01-27|2025-01-27]] | Neural Co-host. |
@@ -80,3 +81,4 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 - **[01:19:18]** ([[episodes/2024-08-07|2024-08-07]]): Chet Manscape triggers on 'science' keyword, delivers 'Chet Guy the Science Eyes' desk on penile metrics
 - **[01:35:11]** ([[episodes/2024-10-03|2024-10-03]]): Delivered canonical gorilla genitalia data: silverback penis ~1.1 inches (3 cm), smallest relative to body mass of any mammal; testes small, sperm count low, high abnormal morphology; evolutionary explanation: harem defense replaces sperm competition [01:35:11-01:49:21].
 - **[[01:49:22]]** ([[episodes/2025-02-12|2025-02-12]]): Summoned automatically when the word 'science' is spoken on air; presents peer-reviewed medical research with emotional reactivity.
+- **[]** ([[episodes/2025-03-31|2025-03-31]]): Chet Manscape can rap news over hard country trap beats while ice dunking. [03:05:25]

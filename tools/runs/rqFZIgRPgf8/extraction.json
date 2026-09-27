@@ -1,0 +1,253 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "08:56",
+      "canonical_segment": "News",
+      "title": "Cold Open: Ice-travaganza Launch",
+      "notes": "Pepito delivers the station sign-on and introduces the ice face dunk marathon tied to bits and subs; Kendelle assists with water and lemon slices."
+    },
+    {
+      "start": "08:56",
+      "end": "19:50",
+      "canonical_segment": "News",
+      "title": "Ice Dunk Marathon Begins",
+      "notes": "Case Blackwell performs the first 10 ice face dunks (25 seconds each) with lemon slices added; Chet Manscape interrupts to demonstrate 'correct' technique; lemon party theme established."
+    },
+    {
+      "start": "19:50",
+      "end": "55:33",
+      "canonical_segment": "News",
+      "title": "News Desk: Trump Liberation Day Tariffs & Third Term",
+      "notes": "Jeff Ripple returns from hiatus to cover Trump's April 2 'Liberation Day' reciprocal tariffs, market volatility (S&P -4.6%, NASDAQ -10.5% Q1), and Trump's NBC interview claiming 'methods' for a third term despite 22nd Amendment."
+    },
+    {
+      "start": "55:33",
+      "end": "01:27:12",
+      "canonical_segment": "Amongst the Web",
+      "title": "Trailer Thursday: Black Mirror S7, Legend of Wisely, King of Kings",
+      "notes": "Case and Jeff watch and rate trailers for Black Mirror Season 7, the 1980 film Legend of Wisely, and Angel Studios' animated King of Kings; chat rating system (Exclamation Point 1-5) used; sub/bits goals trigger additional ice dunks."
+    },
+    {
+      "start": "01:27:46",
+      "end": "01:43:40",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Gorilla Debt & Lemon vs Smirnoff Ice Debate",
+      "notes": "Crum reveals $155,000 debt to the Rock-afire gorilla ($5k per debate win); chat poll debates lemon ice face dunk vs Smirnoff Ice face dunk; Crum wins debate, avoids immediate gorilla punishment; Munch demands gorilla 'finish the job.'"
+    },
+    {
+      "start": "01:43:40",
+      "end": "02:00:57",
+      "canonical_segment": "News",
+      "title": "Creamy Ice Dunk Escalation & Kendall Participation",
+      "notes": "Whipped cream/cold foam creamer added to ice bowl at 20-dunk milestone; Kendall dunks her face; Case completes 10 rapid-fire dunks alongside instructional video; egg addition debated but rejected due to salmonella risk; ChetAI consulted on liquid identification."
+    },
+    {
+      "start": "02:00:57",
+      "end": "02:38:50",
+      "canonical_segment": "How To with Jeb",
+      "title": "How To with Jeb: Grandma Crumble Bottom, Vodka Tampons, Meth, Sexy Drawing",
+      "notes": "Jeb Nogget hosts from workshop with his father's spirit in a board; Grandma Crumble Bottom appears with dyed hair, dunks spectral face in ghost ice; segments cover vodka-soaked tampons (addiction), shake-and-bake meth (lithium, battery acid), and AI-generated sexy woman drawing (Florida map conspiracy)."
+    },
+    {
+      "start": "02:40:01",
+      "end": "02:52:19",
+      "canonical_segment": "News",
+      "title": "Clementine Redacted: Why British Accents Sound Smart",
+      "notes": "Clementine Redacted hijacks segment to debunk British accent intelligence perception via Chorus and Psychology Today articles; claims aristocratic Kentucky-Louisiana accent; refuses ice dunk, escapes before forced plunge."
+    },
+    {
+      "start": "02:52:19",
+      "end": "03:02:28",
+      "canonical_segment": "News",
+      "title": "Failed Huckleberry Hound Call-Ins",
+      "notes": "Case attempts to book Huckleberry Hound; multiple impostors appear (talking dog with human body, dog-head-on-human-body 'Comet' variant); Jace (cousin of Jake from State Farm) fails to produce genuine Huckleberry; Case completes dunk 36 during chaos."
+    },
+    {
+      "start": "03:02:28",
+      "end": "03:26:21",
+      "canonical_segment": "DJ Newsic",
+      "title": "DJ Newsic / Chet Rap Finale: Final Dunks & Face Water Shot",
+      "notes": "DJ Newsic hands off to Chet for hard country trap rap news rundown (Carl Jaffes liable for defaming Billy Mitchell, police/sex doll mix-up, California woman's tongue Jenga, Jessica Simpson snake sperm, Bryan Johnson age reversal); Case completes dunks 37-40, drinks shot of cream-lemon-face water, raids Christine (T-Lattes)."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored 3+ hour Ice-travaganza marathon, completed 40 ice face dunks, drank shot of own face water, covered Trump tariffs/third term, hosted Trailer Thursday and Huckleberry Hound segment.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on, managed ice dunk point system, briefly absent during early news segment ('high on Jolt Cola').",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Assisted with ice bowl prep, performed one creamy ice face dunk at 20-dunk milestone, operated chat/rating controls.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Returned from Cabo hiatus to co-anchor news desk, covered Trump tariffs and third term claims, participated in Trailer Thursday and ice dunk commentary.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Revealed $155k gambling debt to Rock-afire gorilla ($5k/debate win), won lemon vs Smirnoff Ice debate to delay gorilla punishment, claimed superior pores.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Agitated for gorilla to 'finish the job' on Crum, argued for Smirnoff Ice face dunk superiority, celebrated Crum's debate win as temporary reprieve.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Interrupted ice dunks to demonstrate 'correct' technique, consulted on egg/face science, delivered hard country trap rap news rundown at finale while dunking.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "neural co-host",
+      "notes": "neural co-host. Briefly consulted on liquid identification in face bowl (cream vs bukkake), declined to distinguish visually.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Briefly noted as 'back' during ice dunk segment (37:17), no further appearance.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Grandma Crumble Bottom",
+      "role": "recurring guest",
+      "notes": "recurring guest. Appeared in Jeb's workshop with dyed hair, dunked spectral face in ghost ice, propositioned Subrix, defogged glasses after arousal.",
+      "canonical_name": "Grandma Crumble Bottom",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosted How To segment from workshop with father's spirit in board, introduced vodka tampon, meth, and sexy drawing tutorials.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Clementine Redacted",
+      "role": "conspiracy analyst",
+      "notes": "conspiracy analyst. Hijacked segment to explain British accent intelligence bias via Google results, claimed aristocratic Kentucky-Louisiana accent, escaped before ice dunk.",
+      "canonical_name": "Clementine Redacted",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Music triggered during finale rap segment; Chet incorporated beat into news rap.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum states current debt to Rock-afire gorilla is $155,000 with $5,000 paid per debate win; wins lemon vs Smirnoff Ice debate to delay punishment; Munch demands gorilla execute groin punch. [01:28:52]",
+      "timestamp": "01:28:52"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell completed 40 ice face dunks in a single broadcast (25 seconds each, lemon slices, later cold foam creamer). [03:14:36]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell drank a shot glass of his own face water (cream, lemon, face oils) at broadcast end. [03:21:41]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Jeff Ripple",
+      "fact": "Jeff Ripple returned from hiatus spent in Cabo at 'MMA gym/kung fu' after absence since early March. [20:11, 53:36]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Grandma Crumble Bottom",
+      "fact": "Grandma Crumble Bottom has dyed hair as of this broadcast. [02:21:38]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Clementine Redacted claims aristocratic accent from a town on the Kentucky-Louisiana border. [02:41:12]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Dog-head-on-human-body character (Comet variant) exists and seeks others of his kind. [02:58:19]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Chet",
+      "fact": "Chet Manscape can rap news over hard country trap beats while ice dunking. [03:05:25]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell hosted the 'News Icestravaganza,' a 3+ hour marathon where he dunked his face in ice water every 600 bits/subs, completing 40 plunges and ultimately drinking a shot of the cream-lemon-face-oil mixture. Jeff Ripple returned from hiatus to cover Trump's 'Liberation Day' tariffs and third-term musings. The broadcast featured Trailer Thursday (Black Mirror S7, Legend of Wisely, King of Kings), a Munch & Crum debate on Crum's $155k gorilla debt, a How To with Jeb derailed by Grandma Crumble Bottom, Clementine Redacted's conspiracy segment on British accents, failed Huckleberry Hound call-ins, and a DJ Newsic/Chet rap finale before raiding Christine's channel.",
+  "_meta": {
+    "vod_id": "rqFZIgRPgf8",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 157623,
+    "approx_prompt_tokens": 39405,
+    "transcript_lines": 509
+  }
+}

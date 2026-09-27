@@ -22,11 +22,11 @@ Complete stream archive tracked for *Barely Informed News*. Episodes are ingeste
     <div class="stat-label">Total Broadcast Lore</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">246</div>
+    <div class="stat-value">247</div>
     <div class="stat-label">Ingested & Extracted</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">130</div>
+    <div class="stat-value">129</div>
     <div class="stat-label">Pending Ingestion Backlog</div>
   </div>
 </div>
@@ -44,8 +44,8 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   <div class="filter-group">
     <select id="status-filter">
       <option value="all">All Statuses (376)</option>
-      <option value="ingested">Ingested Only (246)</option>
-      <option value="backlog">Backlog Only (130)</option>
+      <option value="ingested">Ingested Only (247)</option>
+      <option value="backlog">Backlog Only (129)</option>
     </select>
     <select id="page-size">
       <option value="25">25 per page</option>
@@ -250,7 +250,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
 <tr data-status="backlog" data-title="repo madness" data-date="2025-04-05" data-vod-id="renj5savqly" style="display: none;"><td class="cell-date"><code>2025-04-05</code></td><td class="cell-title">Repo Madness</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">Renj5SaVQLY</code></td><td class="cell-dur">3:27:11</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=Renj5SaVQLY" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="a fully liberated decline" data-date="2025-04-04" data-vod-id="2db6vkjxztk" style="display: none;"><td class="cell-date"><code>2025-04-04</code></td><td class="cell-title">A Fully Liberated Decline</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">2Db6vKJxZTk</code></td><td class="cell-dur">2:43:06</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=2Db6vKJxZTk" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="repo mens 2" data-date="2025-04-03" data-vod-id="sn3u0466bdc" style="display: none;"><td class="cell-date"><code>2025-04-03</code></td><td class="cell-title">REPO Mens 2</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">sN3u0466Bdc</code></td><td class="cell-dur">3:48:10</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=sN3u0466Bdc" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
-<tr data-status="backlog" data-title="the news icestravaganza!" data-date="2025-03-31" data-vod-id="rqfzigrpgf8" style="display: none;"><td class="cell-date"><code>2025-03-31</code></td><td class="cell-title">The News Icestravaganza!</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">rqFZIgRPgf8</code></td><td class="cell-dur">3:26:21</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=rqFZIgRPgf8" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
+<tr data-status="ingested" data-title="the news icestravaganza!" data-date="2025-03-31" data-vod-id="rqfzigrpgf8" style="display: none;"><td class="cell-date"><code>2025-03-31</code></td><td class="cell-title"><a href="./2025-03-31" class="internal"><strong>The News Icestravaganza!</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">rqFZIgRPgf8</code></td><td class="cell-dur">3:26:21</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=rqFZIgRPgf8" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="leaks, election "tweaks," and various freaks, it's news maybe" data-date="2025-03-29" data-vod-id="k_qu8kq5i3a" style="display: none;"><td class="cell-date"><code>2025-03-29</code></td><td class="cell-title"><a href="./2025-03-29" class="internal"><strong>Leaks, Election "Tweaks," and Various Freaks, it's NEWS maybe</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">K_qU8KQ5I3A</code></td><td class="cell-dur">2:49:52</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=K_qU8KQ5I3A" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="leaks, election "tweaks," and various freaks, it's news maybe" data-date="2025-03-27" data-vod-id="lqdgg6gx8y8" style="display: none;"><td class="cell-date"><code>2025-03-27</code></td><td class="cell-title"><a href="./2025-03-27" class="internal"><strong>Leaks, Election "Tweaks," and Various Freaks, it's NEWS maybe</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">LqDgG6GX8y8</code></td><td class="cell-dur">3:48:14</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=LqDgG6GX8y8" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="leaks, election "tweaks," and various freaks, it's news maybe" data-date="2025-03-25" data-vod-id="soy-oczn8ny" style="display: none;"><td class="cell-date"><code>2025-03-25</code></td><td class="cell-title"><a href="./2025-03-25" class="internal"><strong>Leaks, Election "Tweaks," and Various Freaks, it's NEWS maybe</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">soY-oCZN8NY</code></td><td class="cell-dur">2:42:18</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=soY-oCZN8NY" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>

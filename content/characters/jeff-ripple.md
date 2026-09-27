@@ -85,3 +85,4 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 - **[00:58:23]** ([[episodes/2024-02-29|2024-02-29]]): [00:58:23] Receives AI-generated Madonna 'Express Yourself' parody theme song ('Jeff Express Yourself').
 - **[36:23]** ([[episodes/2024-03-18|2024-03-18]]): Jeff Ripple reveals he has two Filipino sons.
 - **[[01:07:02]]** ([[episodes/2024-08-22|2024-08-22]]): Discovered DNC podium doubles as urinal; urinated on floor during live cross while crowd applauded to Beyoncé music.
+- **[]** ([[episodes/2025-03-31|2025-03-31]]): Jeff Ripple returned from hiatus spent in Cabo at 'MMA gym/kung fu' after absence since early March. [20:11, 53:36]

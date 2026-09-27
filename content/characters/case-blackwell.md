@@ -186,3 +186,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[]** ([[episodes/2025-01-29|2025-01-29]]): Confirmed for Sunday dinner date with Kendall. [10:58]
 - **[01:47:06]** ([[episodes/2025-03-25|2025-03-25]]): Credit card compromised live on air — $1,000 tool purchase and table purchases attempted; card deactivated, replacement en route.
 - **[[02:49:04]]** ([[episodes/2025-03-29|2025-03-29]]): Announces a Monday 'News Ice Stravaganza' where he will repeatedly dunk his head in ice water based on bit thresholds (debating 300 vs 500 bits).
+- **[]** ([[episodes/2025-03-31|2025-03-31]]): Case Blackwell completed 40 ice face dunks in a single broadcast (25 seconds each, lemon slices, later cold foam creamer). [03:14:36]
+- **[]** ([[episodes/2025-03-31|2025-03-31]]): Case Blackwell drank a shot glass of his own face water (cream, lemon, face oils) at broadcast end. [03:21:41]

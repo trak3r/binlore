@@ -53,6 +53,7 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2025-09-15|2025-09-15]] | How To host. |
 | [[episodes/2025-07-01|2025-07-01]] | instructional host. |
 | [[episodes/2025-06-19|2025-06-19]] | instructional host. |
+| [[episodes/2025-03-31|2025-03-31]] | instructional host. |
 | [[episodes/2025-03-19|2025-03-19]] | instructional host. |
 | [[episodes/2025-03-17|2025-03-17]] | instructional host. |
 | [[episodes/2025-03-04|2025-03-04]] | instructional host. |
@@ -66,13 +67,13 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2025-01-08|2025-01-08]] | Instructional Correspondent. |
 | [[episodes/2025-01-06|2025-01-06]] | instructional host. |
 | [[episodes/2024-11-26|2024-11-26]] | field correspondent. |
-| [[episodes/2024-11-06|2024-11-06]] | instructional host. |
 
 <details>
-<summary>Earlier appearances (17)</summary>
+<summary>Earlier appearances (18)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-11-06|2024-11-06]] | instructional host. |
 | [[episodes/2024-10-30|2024-10-30]] | instructional host. |
 | [[episodes/2024-09-25|2024-09-25]] | Woodshop host attempts Venture Brothers drinks, watches iron crotch kung fu, demonstrates carpsicle, and summons demon while bickering with… |
 | [[episodes/2024-09-20|2024-09-20]] | How To host / kitchen correspondent. |

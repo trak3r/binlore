@@ -93,6 +93,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2025-03-17|2025-03-17]] | Crum's gambling debt to Rock-afire gorilla stands at $165,000; $5,000 auto-paid after debate win; gorilla breaching fence at Crum's home causing property damage and dog infestation. [1:59:03, 2:05:47, 2:06:11] |
 | [[../episodes/2025-03-19|2025-03-19]] [1:25:38] | [1:25:38] Crum's gorilla debt reduced to $160,000; he wins $5,000 in ant debate after Munch forces him to defend Chimera Ants. |
 | [[../episodes/2025-03-21|2025-03-21]] [01:46:07] | [01:46:07] Crum states he has paid the Rock-afire gorilla ~$25,000 over approximately three months (~$10k/month) and claims they are becoming friends; gorilla remains menacing. |
+| [[../episodes/2025-03-31|2025-03-31]] [01:28:52] | Crum states current debt to Rock-afire gorilla is $155,000 with $5,000 paid per debate win; wins lemon vs Smirnoff Ice debate to delay punishment; Munch demands gorilla execute groin punch. [01:28:52] |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |
