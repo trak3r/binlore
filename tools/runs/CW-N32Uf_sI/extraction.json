@@ -1,0 +1,62 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "43:35",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Inauguration Day Marvel Rivals Session",
+      "notes": "Case Blackwell plays Marvel Rivals on Inauguration Day with Kendelle, cycling through healer and DPS compositions while commenting on the Trump inauguration coverage."
+    },
+    {
+      "start": "43:35",
+      "end": "46:32",
+      "canonical_segment": "News",
+      "title": "Inauguration Check-In and Raid",
+      "notes": "Case briefly checks the inauguration convention center feed, announces return schedule, and raids Totally Tim."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors Inauguration Day gaming stream playing Marvel Rivals with Kendelle while commenting on Trump inauguration coverage.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Co-hosts Marvel Rivals session with Case; Case mentions planning stream assets for her.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Case plans to create stream assets for Kendelle.",
+      "timestamp": "[15:42]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case announces return schedule targeting Wednesday, Monday, Wednesday, Friday starting between 11 AM and noon.",
+      "timestamp": "[45:18]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell hosts an Inauguration Day gaming stream playing Marvel Rivals with Kendelle, providing live commentary on the Trump inauguration while attempting to 'restore sanity' through gameplay. The broadcast concludes with a brief check of the inauguration convention center feed and a raid on fellow streamer Totally Tim.",
+  "_meta": {
+    "vod_id": "CW-N32Uf_sI",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 32346,
+    "approx_prompt_tokens": 8086,
+    "transcript_lines": 64
+  }
+}
