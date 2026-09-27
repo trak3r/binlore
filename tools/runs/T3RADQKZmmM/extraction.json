@@ -1,0 +1,194 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "08:35",
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the official top-of-hour sign-on, identifies as the dog producer, and cues Amongst the Web."
+    },
+    {
+      "start": "08:35",
+      "end": "46:10",
+      "canonical_segment": "News",
+      "title": "Executive Order Roundup",
+      "notes": "Case and Rick methodically read through Trump's day-one executive orders covering immigration, energy, DEI, federal workforce, January 6 pardons, TikTok, WHO withdrawal, and geographic renamings."
+    },
+    {
+      "start": "46:10",
+      "end": "54:16",
+      "canonical_segment": "News",
+      "title": "Pat Robertson Dust Séance",
+      "notes": "Case attempts to interview the sentient dust of Pat Robertson via Pepito's retrieval; the dust manifests as a pixelated Japanese penis prop before dissolving into hellish flesh-soup rhetoric."
+    },
+    {
+      "start": "54:16",
+      "end": "1:40:43",
+      "canonical_segment": "Amongst the Web",
+      "title": "Viral Video Review Marathon",
+      "notes": "Case, Rick, Tyler, Kendall, and Kyler react to acapella crash-outs, a forehead-gem piercing, a brutal head-bonk challenge, skin-stretching routines, AI North Korean propaganda, and a deep-dive investigation into a 2015 high-school 9/11 cheerleading tribute."
+    },
+    {
+      "start": "1:40:43",
+      "end": "1:58:16",
+      "canonical_segment": "News",
+      "title": "Drinkable Mayo & Schedule Talk",
+      "notes": "Case and Tyler cover Japan's nomu mayo drinkable mayonnaise, debate Kolpi luwak pricing, and discuss upcoming schedule changes including a potential murder-mystery sub-goal payoff."
+    },
+    {
+      "start": "1:58:16",
+      "end": "2:23:38",
+      "canonical_segment": "How To with Jeb",
+      "title": "Scent, Breathing, Oil & Kissing",
+      "notes": "Jeb and his wood-trapped father present how-tos on pheromone cologne (Molecule 01), vaginal scent vials, purse-lip breathing sponsored by National Jewish Health, cornstarch oil recycling, and soft-kissing communication tactics."
+    },
+    {
+      "start": "2:23:38",
+      "end": "2:35:36",
+      "canonical_segment": "DJ Newsic",
+      "title": "Unfiltered Finale with JD Vance Parody",
+      "notes": "DJ Newsic performs auto-tune-free set; Pepito throws voice; Newsic delivers vulgar JD Vance rap about couch relations, Peter Thiel, and deportations before raid sign-off."
+    },
+    {
+      "start": "2:35:36",
+      "end": "2:36:17",
+      "canonical_segment": "News",
+      "title": "Raid & Sign-Off",
+      "notes": "Case announces raid destination; DJ Newsic signs off from roof; broadcast ends with lingering JD Vance scent joke."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers the cold-open sign-on and later demonstrates ventriloquism by throwing his voice during the DJ Newsic setup.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "host of Amongst the Web",
+      "notes": "host of Amongst the Web. Co-anchors the executive order read-through, hosts Amongst the Web, and orders Kendall an iced matcha latte with oatmeal and lavender syrup.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walks through the studio during a work meeting, reveals she was in Queens on 9/11, and later dismantles the studio backdrop while filming content.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Tyler",
+      "role": "guest co-host",
+      "notes": "Joins as guest co-host for Amongst the Web and the drinkable mayo segment, later reveals his brother Kyler on camera.",
+      "canonical_name": "Tyler",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kyler",
+      "role": "guest",
+      "notes": "guest. Makes a brief on-camera appearance as Tyler's brother, works in marketing, receives a butterfly kiss from Tyler.",
+      "canonical_name": "Kyler",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "field correspondent",
+      "notes": "field correspondent. Hosts How To with Jeb from his woodshop alongside his deceased father trapped in a board, covering scent products, breathing, oil recycling, and kissing advice.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "recurring",
+      "notes": "recurring. Argues with Jeb from inside the wood, requests vaginal scent be dumped on his wooden prison.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "recurring",
+      "notes": "recurring. Performs an auto-tune-free musical finale featuring a vulgar JD Vance parody rap before signing off.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "timestamp": "09:18",
+      "entity": "",
+      "fact": "New broadcast schedule established: Monday, Wednesday, Friday 11am-12pm ish",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "31:28",
+      "entity": "",
+      "fact": "Kendall reveals she was in Queens during the 9/11 attacks",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:31:28",
+      "entity": "",
+      "fact": "Kendall confirms 9/11 Queens location during cheerleading video investigation",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:54:44",
+      "entity": "",
+      "fact": "Kendall tears apart studio backdrop revealing 'secret couch' and multiverse layer",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:58:47",
+      "entity": "",
+      "fact": "Case references unfulfilled sub goal from three years ago for murder mystery stream",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:59:51",
+      "entity": "",
+      "fact": "Case announces Florida trip second week of March for skiing",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "2:24:11",
+      "entity": "",
+      "fact": "DJ Newsic's auto-tune broken, performing unfiltered vocals",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "2:24:11",
+      "entity": "Pepito",
+      "fact": "Pepito demonstrates ventriloquism/voice-throwing ability",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell relaunches Barely Informed News on a Monday/Wednesday/Friday 11am schedule, joined by Rick to dissect Trump's blizzard of executive orders on immigration, energy, DEI, and January 6 pardons. The broadcast spirals into a Pat Robertson dust séance, an extended Amongst the Web that forensically investigates a 2015 high-school 9/11 cheerleading tribute, a taste-test of Japan's drinkable mayonnaise, and a How To with Jeb covering pheromone cologne, vaginal scent vials, and kissing diplomacy. DJ Newsic closes with a broken auto-tune set and a vulgar JD Vance parody rap before raiding out.",
+  "_meta": {
+    "vod_id": "T3RADQKZmmM",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 126691,
+    "approx_prompt_tokens": 31672,
+    "transcript_lines": 303
+  }
+}
