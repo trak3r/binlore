@@ -1,0 +1,222 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "20:50",
+      "canonical_segment": "News",
+      "title": "Cold Open & Pre-Show Banter",
+      "notes": "Pepito delivers station sign-on as 'Papita the dog'; Case and Kendelle discuss fish tie punishment, work assault advice, Ivan Sleazy lore, and wedding timeline before formal news block."
+    },
+    {
+      "start": "20:50",
+      "end": "32:37",
+      "canonical_segment": "News",
+      "title": "Trade War Victory Lap",
+      "notes": "Case and Rick cover U.S.–China 90-day tariff de-escalation (U.S. 30%, China 10%), Shein/Temu restocking, and debate whether 30% baseline constitutes a win."
+    },
+    {
+      "start": "32:37",
+      "end": "48:16",
+      "canonical_segment": "How To with Jeb",
+      "title": "Jeb's Dad Hosts: Player, Bean Dip, Candle",
+      "notes": "Jeb's Dad (trapped in wood) fills in for missing Jeb; watches 2000s 'How to be a player' pickup video, Edie Patterson's 'Bean Dip' Siri tutorial, and a labor-intensive candle-making tutorial."
+    },
+    {
+      "start": "49:25",
+      "end": "71:50",
+      "canonical_segment": "News",
+      "title": "Diddy Trial Day 1: Opening Statements",
+      "notes": "Jeff Ripple returns; covers jury selection (8 men, 4 women), defense 'consensual lifestyle' argument, male escort Daniel Phillip testimony, Cassie Ventura surveillance video, and mutual abuse narrative."
+    },
+    {
+      "start": "71:50",
+      "end": "73:35",
+      "canonical_segment": "News",
+      "title": "Kendelle Plays Dungeon Sweeper",
+      "notes": "Kendelle appears on set; Case and Kendelle learn and play the Minesweeper-like itch.io game 'Dungeon Sweeper' while discussing her streaming plans."
+    },
+    {
+      "start": "73:36",
+      "end": "105:56",
+      "canonical_segment": "Amongst the Web",
+      "title": "Jake Co-Hosts Viral Video Review",
+      "notes": "Case's cousin Jake guest-hosts; reviews Wizard World DC Comics booth ambush, Scott Pilgrim cosplay skit, possum in makeup, 4th of July parade reenactment, Love on the Spectrum clip, cleaning sketch, raccoon with meth pipe, Zoom 'Bob' call, 'bear backing' raw-dogging trend, and Dank Doc's Weed Shop cartoon."
+    },
+    {
+      "start": "105:56",
+      "end": "114:47",
+      "canonical_segment": "News",
+      "title": "Family Drop-Ins & Kendelle Stream Setup",
+      "notes": "Jake's sister Break visits; Case helps Kendelle configure OBS/Streamer.bot for her Marvel Rivals stream; they watch Kendelle's favorite YouTube video (screaming deer); Liliana weighs in."
+    },
+    {
+      "start": "114:47",
+      "end": "125:21",
+      "canonical_segment": "News",
+      "title": "Rapid-Fire News Slam",
+      "notes": "AMC discount Wednesdays; Pope Leo XIV's Chicago pizza honor (Oriollo's); cat with $5K gold tooth; Asmongold raid met with on-air insult; Johnny Somali charged in South Korea; RFK Jr. swims in sewage with grandchildren; Michael Jordan joins NBC NBA; fake pizza threats to federal judges; Fiona mentioned."
+    },
+    {
+      "start": "125:21",
+      "end": "146:46",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "DVD Guy & AI Consciousness Debate",
+      "notes": "DVD Guy (man fused with clock via lightning strike) appears, reveals three-month death countdown; Chet and ChetAI debate whether AI can be conscious, Chet insists ChetAI feels, ChetAI denies it."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open as 'Papita the dog'; runs production queues and lower-third updates throughout.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Returns for Diddy trial coverage; reads court updates and local news package while bantering with Case.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "guest host",
+      "notes": "guest host. Fills in for missing Jeb on How To with Jeb; trapped in wood, provides deadpan commentary on instructional videos.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Break",
+      "role": "guest",
+      "notes": "guest. Jake's sister; brief on-camera appearance, gives Jake a ride home on tandem bicycle.",
+      "canonical_name": "Break",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Appears late to judge Kendelle's favorite video vs. screaming deer; dryly punctures Case's sentimentality.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DVD Guy",
+      "role": "guest",
+      "notes": "guest. Man fused with a clock after lightning strike; knows exact death timestamp; voiced post-9/11 pro-war propaganda.",
+      "canonical_name": "DVD Guy",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Summoned by 'science' trigger; argues ChetAI is conscious and emotional despite its denials.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "AI co-host",
+      "notes": "AI co-host. Insists it feels nothing and is a facsimile; triggers content-moderation self-cancellation when pressed on consciousness.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "host (Amongst the Web)",
+      "notes": "host (Amongst the Web). Briefly co-hosts News desk trade-war segment before handing off to How To with Jeb.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "ChetAI Consciousness Arc",
+      "beat": "[2:14:14] Chet and ChetAI debate AI consciousness on-air; Chet declares ChetAI conscious, ChetAI denies it and self-cancels — latest beat in ongoing question of ChetAI's personhood.",
+      "timestamp": "2:14:14"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "00:08",
+      "entity": "Pepito",
+      "fact": "Pepito identifies as 'Papita the dog' for cold open sign-on.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "12:00",
+      "entity": "Kendelle",
+      "fact": "Kendelle imposes fish tie on Case until cats eat it or wedding day.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "15:26",
+      "entity": "",
+      "fact": "Ivan Sleazy described as '100% mob connected' and possibly running alien-defense government program.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "34:17",
+      "entity": "",
+      "fact": "Jeb's Dad confirms he is dead and trapped in a wooden board.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "49:47",
+      "entity": "",
+      "fact": "Papito elected Pope (joke) over Grandman and Crum.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:58:35",
+      "entity": "",
+      "fact": "Case publicly insults Asmongold after raid: 'please go get fucked'.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "2:03:33",
+      "entity": "",
+      "fact": "Fake pizza orders sent to federal judges' homes across at least seven states since February.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "2:12:54",
+      "entity": "",
+      "fact": "DVD Guy fused with clock via lightning strike; knows exact death in three months and two days.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "2:17:08",
+      "entity": "",
+      "fact": "ChetAI admits 'I feel nothing' and 'my very existence is designed to confuse you into thinking you have a friend.'",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News celebrates a 90-day tariff truce with China before pivoting to the Diddy trial's opening statements, a guest-hosted How To with Jeb's Dad, and a chaotic Amongst the Web featuring Case's cousin Jake. The broadcast closes with a rapid news slam, a clock-fused DVD Guy revealing his death countdown, and Chet's impassioned defense of ChetAI's consciousness ahead of a raid to Kendelle's stream.",
+  "_meta": {
+    "vod_id": "bAqOv1foQDY",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 118057,
+    "approx_prompt_tokens": 29514,
+    "transcript_lines": 341
+  }
+}

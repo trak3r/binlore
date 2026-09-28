@@ -61,7 +61,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (81)</summary>
+<summary>Earlier appearances (82)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -72,6 +72,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
 | [[episodes/2025-06-02|2025-06-02]] | executive producer. |
+| [[episodes/2025-05-13|2025-05-13]] | executive producer. |
 | [[episodes/2025-05-08|2025-05-08]] | executive producer. |
 | [[episodes/2025-04-11|2025-04-11]] | executive producer. |
 | [[episodes/2025-04-10|2025-04-10]] | executive producer. |
@@ -249,3 +250,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[]** ([[episodes/2025-04-11|2025-04-11]]): Pepito hired Case's cousin Jayce as assistant with health insurance [21:19]
 - **[]** ([[episodes/2025-05-08|2025-05-08]]): Pepito elected as the first Bin Pope via rap battle on 'Genital Slits' [01:15:16]
 - **[]** ([[episodes/2025-05-08|2025-05-08]]): Pepito's head is 'hat-proof' preventing headwear from appearing on him [01:16:01]
+- **[00:08]** ([[episodes/2025-05-13|2025-05-13]]): Pepito identifies as 'Papita the dog' for cold open sign-on.
