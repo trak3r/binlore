@@ -44,6 +44,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-06-19|2026-06-19]] | Lead anchor and in-studio contributor who periodically enters the broadcast for signature segments. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in birthday context, not actively speaking. |
 | [[episodes/2026-06-05|2026-06-05]] | Lead anchor and on-air contributor who walks through the studio for signature segments. |
+| [[episodes/2025-10-04|2025-10-04]] | in-studio contributor. |
 | [[episodes/2025-10-02|2025-10-02]] | in-studio contributor. |
 | [[episodes/2025-09-29|2025-09-29]] | in-studio contributor. |
 | [[episodes/2025-09-26|2025-09-26]] | in-studio contributor. |
@@ -54,13 +55,13 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-09-10|2025-09-10]] | in-studio contributor. |
 | [[episodes/2025-09-05|2025-09-05]] | in-studio contributor. |
 | [[episodes/2025-09-03|2025-09-03]] | in-studio contributor. |
-| [[episodes/2025-08-26|2025-08-26]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (154)</summary>
+<summary>Earlier appearances (155)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-08-26|2025-08-26]] | in-studio contributor. |
 | [[episodes/2025-08-21|2025-08-21]] | in-studio contributor. |
 | [[episodes/2025-08-16|2025-08-16]] | in-studio contributor. |
 | [[episodes/2025-08-11|2025-08-11]] | In-studio contributor calls in with a bruised heel from Lake Tahoe, prompting a foot puppet rap diagnosis. |
@@ -292,3 +293,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[[20:31]]** ([[episodes/2025-07-15|2025-07-15]]): Attended Blackpink concert with Case; Bruno Mars made surprise guest appearance.
 - **[01:19:24]** ([[episodes/2025-08-21|2025-08-21]]): First day of kindergarten tomorrow.
 - **[[02:18:02]]** ([[episodes/2025-09-13|2025-09-13]]): Produces OOTD/fit-check videos; friends are Universal Studios performers (street sweep dancers, NY cop bit, Snowball puppeteer).
+- **[]** ([[episodes/2025-10-04|2025-10-04]]): Competed as Crum's Beyblade second (Team Blue), winning majority of early matches before Munch took over ripping duties. [2:04:47]

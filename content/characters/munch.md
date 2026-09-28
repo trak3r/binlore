@@ -40,6 +40,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2026-06-05|2026-06-05]] | Senior debate analyst with distinctive disheveled appearance and confrontational debate style. |
 | [[episodes/2026-05-26|2026-05-26]] | Senior debate analyst known for his disheveled silver hair and combative political style. Engages in heated exchanges with Crum and frequently references his 'Dick Punch' wager storyline. |
 | [[episodes/2026-03-07|2026-03-07]] | Appears in wizard attire as immortal skeleton; confirms he is a warlock; missed the trial but compares it to ancient druidic proceedings. |
+| [[episodes/2025-10-04|2025-10-04]] | debate analyst. |
 | [[episodes/2025-10-02|2025-10-02]] | debate analyst. |
 | [[episodes/2025-09-29|2025-09-29]] | debate analyst. |
 | [[episodes/2025-09-26|2025-09-26]] | debate analyst. |
@@ -47,13 +48,13 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-09-21|2025-09-21]] | debate analyst. |
 | [[episodes/2025-09-18|2025-09-18]] | debate analyst. |
 | [[episodes/2025-09-15|2025-09-15]] | debate analyst. |
-| [[episodes/2025-09-11|2025-09-11]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (128)</summary>
+<summary>Earlier appearances (129)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-09-11|2025-09-11]] | debate analyst. |
 | [[episodes/2025-09-10|2025-09-10]] | debate analyst. |
 | [[episodes/2025-09-05|2025-09-05]] | debate analyst. |
 | [[episodes/2025-09-03|2025-09-03]] | debate analyst. |
@@ -266,3 +267,4 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[1:23:17]** ([[episodes/2025-09-11|2025-09-11]]): Munch claims hell has Miller Light sponsorship ($20K) and Slurpees with 30% glass dust.
 - **[[53:14]]** ([[episodes/2025-09-26|2025-09-26]]): Confirms Crum died and went to hell; Munch spent days cleaning Crum's remains and retrieved him from a hellish transit authority where Crum was assistant manager.
 - **[01:51:47]** ([[episodes/2025-09-29|2025-09-29]]): Alter ego 'El Manchester' resides in hell per concubine testimony.
+- **[]** ([[episodes/2025-10-04|2025-10-04]]): Beyblade tournament victory brings total to 301 points ('301 Dalmatians'); claims 'unassailable castle of victory.' [2:24:57]

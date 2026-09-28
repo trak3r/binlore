@@ -1,0 +1,205 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "10:00",
+      "canonical_segment": "News",
+      "title": "Pepito Cold Open & Studio Setup",
+      "notes": "Pepito delivers musical sign-on; Case adjusts stream effects, removes fish tie, acknowledges Friday sacred duties (DJC4 song request and Beyblade tournament)."
+    },
+    {
+      "start": "10:00",
+      "end": "45:39",
+      "canonical_segment": "News",
+      "title": "ICE Raids in Chicago & Federal Protest Response",
+      "notes": "Case and Rick discuss Operation Midway Blitz: 300 agents, Blackhawk repelling, 37 arrests including U.S. citizen children, Kristi Noem facility visit, Broadview mayor standoff, state police deployment, and protest footage."
+    },
+    {
+      "start": "46:34",
+      "end": "1:11:00",
+      "canonical_segment": "Amongst the Web",
+      "title": "Peter Gibbon Returns from the Wall",
+      "notes": "Peter Gibbon reappears claiming cosmic wall-being resilience; segment watches viral videos (CD destruction, ice cream truck, card tricks, soccer cleats, ghost kick, yacht story, 'duty ass' pitch, James Gunn PG Porn)."
+    },
+    {
+      "start": "1:11:00",
+      "end": "1:28:48",
+      "canonical_segment": "News",
+      "title": "Movie Trailer Block",
+      "notes": "Case and Chris review trailers: Muzzle: City of Wolves, The Carpenter's Son (Nic Cage), Good Night and Good Luck (Broadway), Bugs Bunny Cartoon Carnival; debate over 1950s nostalgia and Pepe Le Pew."
+    },
+    {
+      "start": "1:28:48",
+      "end": "1:52:07",
+      "canonical_segment": "News",
+      "title": "Rapid-Fire Discord News Roundup",
+      "notes": "Case reads chat-submitted stories: Shondi Combs sentencing, Adidas pet tracksuits, Chinese flying wind turbine, Joe Wicks protein bar stunt, RFK Jr. sneeze, AI film 'The Sweet Idleness', Waymo safety stats, Andrew Cuomo AI mayoral ad, Trump Truth Social AI posts."
+    },
+    {
+      "start": "1:53:11",
+      "end": "2:31:43",
+      "canonical_segment": "Munch & Crum",
+      "title": "Beyblade Tournament: 143 Points on the Line",
+      "notes": "Best-of-19 Beyblade Burst match; Kendall serves as Crum's second (Team Blue) then Munch plays himself (Team Red); Munch wins 15-3, claims 301 total points, reduces Crum to 1 point; winner-take-all wager executed."
+    },
+    {
+      "start": "2:31:43",
+      "end": "2:35:12",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Subscriber Acknowledgments",
+      "notes": "Hype Train appears for sub readings; Case deflects Hype Train's advances; brief exchange about Hype Train's nationality."
+    },
+    {
+      "start": "2:35:12",
+      "end": "2:51:05",
+      "canonical_segment": "How To with Jeb",
+      "title": "How To: Remove Tags & Get Revenge",
+      "notes": "Jeb and Jeb's Dad (board spirit) present instructional videos on tag removal and escalating revenge tactics (flaming poop bags, mailing lists, police swatting, cement in convertible); Jeb's Dad displays apparent wood-manipulation anomalies."
+    },
+    {
+      "start": "2:51:05",
+      "end": "2:55:22",
+      "canonical_segment": "News",
+      "title": "Wrap-Up & Raid Attempt",
+      "notes": "Case announces DJC4/Justin Juice Powers theme deferred to Monday; attempts raid on 'statics' playing Hollow Knight; technical difficulties with raid command."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored full broadcast: news desk, Amongst the Web, movie trailers, rapid-fire news, Beyblade tournament host, wrap-up.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered musical cold open sign-on; bantered with Case about fish tie consumption.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Returned from wall/hell claiming cosmic wall-being powers; hosted Amongst the Web video reactions.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Served as Crum's Beyblade second (Team Blue); won majority of matches before Munch took over.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Crum on Christie Noem's demon classification; won Beyblade tournament 15-3, claimed 301 total points.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical/cultural correspondent",
+      "notes": "musical/cultural correspondent. Delivered subscriber acknowledgments; exchanged barbs with Case about train nationality.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosted How To segment with Jeb's Dad; questioned his own memory continuity and wood-related anomalies.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "board spirit co-host",
+      "notes": "board spirit co-host. Co-hosted How To from wooden board; displayed apparent wood-manipulation powers (Grubhub wood deliveries, wood car wheels).",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[2025-10-04] Munch defeats Crum 15-3 in best-of-19 Beyblade Burst match with Kendall as Crum's second; Munch claims 301 total points, Crum reduced to 1 point; winner-take-all wager executed.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "[2025-10-04] Peter Gibbon returns from wall claiming cosmic resilience ('if you break a wall you can rebuild it'); references Munch sending him to hell.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[2025-10-04] Crum references recent death and hell trip during Beyblade match; Munch mocks 'mental oopsie daisy' memory lapse.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Claims cosmic wall-being status: 'I'm a wall of fortitude as a person and if you break a wall you can rebuild it.' [46:34]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "States he 'died recently' and 'went straight to hell' per Munch's account. [2:07:56]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Beyblade tournament victory brings total to 301 points ('301 Dalmatians'); claims 'unassailable castle of victory.' [2:24:57]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Reduced from 11 points to 1 point after Beyblade loss; winner-take-all wager included Crum's 11 points. [2:24:26]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb's Dad",
+      "fact": "Displays anomalous wood manipulation: Grubhub delivers wood orders, parking ticket for wood wheels, wood in water receptacle. [2:49:23]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Competed as Crum's Beyblade second (Team Blue), winning majority of early matches before Munch took over ripping duties. [2:04:47]",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covers ICE raids in Chicago with federal correspondent Rick defending warrantless arrests of U.S. citizen children. Peter Gibbon returns from the wall claiming cosmic resilience to host Amongst the Web. The Beyblade Tournament concludes with Munch defeating Crum 15-3, claiming 301 total points and reducing Crum to 1 point in a winner-take-all wager. Jeb and his board-bound father present a revenge-themed How To segment featuring anomalous wood manifestations. The DJC4/Justin Juice Powers theme song is deferred to Monday.",
+  "_meta": {
+    "vod_id": "R0wJXZzbVaA",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 132971,
+    "approx_prompt_tokens": 33242,
+    "transcript_lines": 316
+  }
+}
