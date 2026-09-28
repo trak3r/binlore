@@ -1,0 +1,164 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "16:18",
+      "canonical_segment": "News",
+      "title": "Cold Open & TikTok Idea Collection",
+      "notes": "Pepito delivers sign-on; Case collects 168+ viewer-submitted TikTok concepts for a planned YouTube series where ideas are drawn from a hat and executed as 'perfect TikToks'."
+    },
+    {
+      "start": "16:18",
+      "end": "43:45",
+      "canonical_segment": "News",
+      "title": "Moody's Downgrades U.S. Credit Rating",
+      "notes": "Case reads Moody's downgrade of U.S. sovereign rating from AAA to Aa1 citing $36T debt; riffs on FAAFO fiscal policy, pantyhose austerity, and the Heritage Foundation's Koch-adjacent outrage."
+    },
+    {
+      "start": "43:45",
+      "end": "01:09:05",
+      "canonical_segment": "News",
+      "title": "Trailer Block: Alien Earth, Moog Guy, Americana, Straw, Ironheart",
+      "notes": "Case and Liliana react to five trailers: FX's Alien Earth (4.13★), horror film Moog Guy (3.71★), Tony Toast's Americana (2★), Tyler Perry's Straw (2.67★), Marvel's Ironheart series (3.13★)."
+    },
+    {
+      "start": "01:09:47",
+      "end": "01:55:59",
+      "canonical_segment": "News",
+      "title": "News Roundup: Metaverse Layoffs, Grok AI, Undersea Volcano, Diddy, Tiny Penis History, Haitian Empanada Vigilante, Kid Rock, Fortnite Vader AI, Trump Watch, Military Parade",
+      "notes": "Rapid-fire wire stories: Zuckerberg fires metaverse staff; Grok AI obsessed with South African 'kill the boer' chant; Axial Seamount eruption expected 2025; Sean Combs 'Tootsie Roll' allegation; historical penis-size trends; Haitian woman poisons 40 gang members with insecticide-laced empanadas; Kid Rock restaurant sends staff home ahead of ICE raid; Fortnite's AI Darth Vader tricked into swearing; Trump-branded watch missing 'T'; $25-45M military parade planned."
+    },
+    {
+      "start": "01:55:59",
+      "end": "02:53:20",
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip on the Street: Park Interviews",
+      "notes": "Trip Bradstein interviews park denizens: mustache man seeking kiss, empanada victim melting into quarter, tiny barbecue chef 'D', Bobby Yaga with pen-gun, Harry Swings windowless van pitch, Mountain Man Mike on Sasquatch-Viking war, Bonus Salad Viking fan, Tainted Empanada Steve, Jane Jetson vs Rosie debate, Don Riggles comedy bit, Chris Sawyer roller-coaster apology, park ranger sunscreen warning, dog 'Borf', Twisty coaster fantasy, Blarney Stone kiss demand, empanada woman simulation trap, Crown/Crum borrowing $500, Guard Reducted/Clementine, Kendall tea spill, Harold Wrong circus stonks rap, Hamtaro church donation, Munch hunting Crum in hoodie, Pappito blessing with crumpets, Mosey Moe flying."
+    },
+    {
+      "start": "02:53:20",
+      "end": "03:19:48",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web with Darfus (Marfus Jarvifs Darfus)",
+      "notes": "Gorilla-named guest Darfus joins Case to rate internet videos: donut-eating horse (7.17★), Vogue Master music (unrated), Jason Rodelo anti-vaping CEO (unrated), hot dog water fountain (2.86★), Rockstar jiggle physics engineer Dan Carney (9.4★), glizzy overdrive NPC (unrated), one-legged breaker (10★), wrist-strength game (10★), flesh Coke cans (low)."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors full broadcast; collects 168+ TikTok ideas; reads Moody's downgrade; reacts to trailers; runs news roundup; hosts Trip and Amongst the Web segments.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold-open sign-on as dog; later appears on Trip segment as 'Pappito' blessing Trip with crumpets and hamster accountant.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Co-hosts news and trailer blocks; debates penis-size history; mocks Case's 71st-percentile claim; reacts to trailers and news stories.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Hosts Trip on the Street from park bushes; interviews 20+ park denizens including Crum, Munch, Pepito, and surreal characters.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Appears as 'Crown' on Trip segment begging Trip for $500 to cover usurious weekly interest on gorilla debt; admits he'll gamble it.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Appears on Trip segment hiding in hoodie hunting Crum; reveals he gave Crum $500 earlier; warns Crum will gamble it.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Darfus (Marfus Jarvifs Darfus)",
+      "role": "guest",
+      "notes": "Gorilla-named guest co-hosts Amongst the Web; rates videos with Case; reveals full name Marfus Jarvifs Darfus; dances to Vogue Master.",
+      "canonical_name": "Darfus (Marfus Jarvifs Darfus)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[02:37:15] Crum appears on Trip segment as 'Crown', admits recurring debt payments growing $500/week to mechanical gorilla; begs Trip for $500. [02:49:39] Munch reveals he gave Crum $500; predicts Crum will gamble it instead of paying debt.",
+      "timestamp": "02:37:15"
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "No advancement this episode.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Claims 71st percentile penis size (neutral) during tiny-penis history story.",
+      "timestamp": "[31:47]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Recurring debt payments to gorilla grow ~$500/week in usurious interest; principal manageable but interest 'killing me'.",
+      "timestamp": "[02:37:15]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Gave Crum $500 on Trip segment; warns Crum will gamble it rather than pay gorilla debt.",
+      "timestamp": "[02:49:39]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Employs a hamster as accountant living in his bush; hamster 'deals with finances'.",
+      "timestamp": "[02:39:20]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Darfus (Marfus Jarvifs Darfus)",
+      "fact": "Full name Marfus Jarvifs Darfus; family all called Darfus growing up; claims active metabolism, track records, doesn't work out.",
+      "timestamp": "[02:54:07]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell opens with a massive TikTok idea drive (168+ submissions) before covering Moody's historic downgrade of U.S. credit to Aa1. A five-trailer block follows, then a sprawling news roundup spanning Grok AI's South African fixation, an undersea volcano, a Haitian empanada vigilante killing 40 gang members, and a $45M Trump military parade. Trip Bradstein conducts a chaotic park interview gauntlet featuring Crum begging for gorilla-debt cash, Munch hunting him in a hoodie, and Pepito blessing the streets. The broadcast closes with gorilla-named guest Darfus co-hosting Amongst the Web, rating internet videos including a Rockstar jiggle-physics engineer (9.4★) and back-to-back 10★ breakdance clips.",
+  "_meta": {
+    "vod_id": "jrkCVNxKeaE",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 152250,
+    "approx_prompt_tokens": 38062,
+    "transcript_lines": 465
+  }
+}

@@ -50,7 +50,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (104)</summary>
+<summary>Earlier appearances (105)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -62,6 +62,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-06-02|2025-06-02]] | debate analyst. |
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
+| [[episodes/2025-05-17|2025-05-17]] | debate analyst. |
 | [[episodes/2025-05-14|2025-05-14]] | debate analyst. |
 | [[episodes/2025-05-05|2025-05-05]] | debate analyst. |
 | [[episodes/2025-05-02|2025-05-02]] | debate analyst. |
@@ -224,3 +225,4 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[]** ([[episodes/2025-01-29|2025-01-29]]): Gives Crum $5,000 every time Munch wins a debate as 'celebration of financial freedom.' [01:49:21]
 - **[]** ([[episodes/2025-04-11|2025-04-11]]): Munch participates in annual Easter tradition as 'the egg' hiding in church bushes for up to 10 hours [01:40:13]
 - **[[01:13:31]]** ([[episodes/2025-04-25|2025-04-25]]): Claims to force his hair to stay grey at a cellular level through biological willpower, comparing himself to a Baki the Grappler character.
+- **[[02:49:39]]** ([[episodes/2025-05-17|2025-05-17]]): Gave Crum $500 on Trip segment; warns Crum will gamble it rather than pay gorilla debt.

@@ -41,6 +41,7 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 | [[episodes/2025-06-17|2025-06-17]] | Field Correspondent. |
 | [[episodes/2025-06-11|2025-06-11]] | field correspondent. |
 | [[episodes/2025-06-02|2025-06-02]] | field correspondent. |
+| [[episodes/2025-05-17|2025-05-17]] | field correspondent. |
 | [[episodes/2025-05-02|2025-05-02]] | field correspondent. |
 | [[episodes/2025-04-04|2025-04-04]] | field correspondent. |
 | [[episodes/2025-03-21|2025-03-21]] | field correspondent. |
@@ -52,13 +53,13 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 | [[episodes/2025-01-06|2025-01-06]] | field correspondent. |
 | [[episodes/2024-11-26|2024-11-26]] | field correspondent. |
 | [[episodes/2024-10-30|2024-10-30]] | field correspondent. |
-| [[episodes/2024-10-22|2024-10-22]] | field correspondent. |
 
 <details>
-<summary>Earlier appearances (30)</summary>
+<summary>Earlier appearances (31)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-10-22|2024-10-22]] | field correspondent. |
 | [[episodes/2024-10-08|2024-10-08]] | field correspondent. |
 | [[episodes/2024-10-03|2024-10-03]] | field correspondent. |
 | [[episodes/2024-10-01|2024-10-01]] | field correspondent. |

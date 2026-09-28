@@ -196,3 +196,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[17:55]** ([[episodes/2025-05-03|2025-05-03]]): Case Blackwell states he must depart by 5:30 PM, limiting broadcast duration.
 - **[00:10:35]** ([[episodes/2025-05-05|2025-05-05]]): Began working out 5 times per week, resulting in 'shiny, sweaty energy' on camera.
 - **[]** ([[episodes/2025-05-08|2025-05-08]]): Case Blackwell adopts a fishtie as an on-air accessory [08:39]
+- **[[31:47]]** ([[episodes/2025-05-17|2025-05-17]]): Claims 71st percentile penis size (neutral) during tiny-penis history story.
