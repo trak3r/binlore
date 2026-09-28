@@ -28,6 +28,7 @@ On the stand he greets the room warmly, notes that some of his old voice has ret
 | Episode | Notes |
 |---|---|
 | [[../episodes/2026-03-07|2026-03-07]] | Character Witness | Called at `[01:22:32]` for Crum; objects to counsel pantslessness; later referenced when Case loses track of who was on the stand. |
+| [[episodes/2025-08-23|2025-08-23]] | guest correspondent. |
 | [[episodes/2025-07-01|2025-07-01]] | guest vocalist. |
 | [[episodes/2025-06-28|2025-06-28]] | physical therapist. |
 

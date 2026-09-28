@@ -55,13 +55,14 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-09-21|2025-09-21]] | debate analyst. |
 | [[episodes/2025-09-18|2025-09-18]] | debate analyst. |
 | [[episodes/2025-09-15|2025-09-15]] | debate analyst. |
-| [[episodes/2025-08-21|2025-08-21]] | debate analyst. |
+| [[episodes/2025-08-23|2025-08-23]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (125)</summary>
+<summary>Earlier appearances (126)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-08-21|2025-08-21]] | debate analyst. |
 | [[episodes/2025-08-02|2025-08-02]] | debate analyst. |
 | [[episodes/2025-07-30|2025-07-30]] | debate analyst. |
 | [[episodes/2025-07-29|2025-07-29]] | debate analyst. |
@@ -350,3 +351,5 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[]** ([[episodes/2025-07-30|2025-07-30]]): Wife's name confirmed as Blilia (previously Belulia/Belilia). [2:09:43]
 - **[]** ([[episodes/2025-07-30|2025-07-30]]): Birth certificate lists 'euphemism for penis' as her name. [2:51:28]
 - **[01:31:25]** ([[episodes/2025-08-21|2025-08-21]]): Digestive tract was falling out and had to be surgically reinserted by a hired crew.
+- **[16:00]** ([[episodes/2025-08-23|2025-08-23]]): Crum's voice bleeds through Munch's audio feed ('wires crossed').
+- **[27:41]** ([[episodes/2025-08-23|2025-08-23]]): Crum's voice again comes through Munch's mouth; Munch claims Crum 'can speak through bald people.'

@@ -22,11 +22,11 @@ Complete stream archive tracked for *Barely Informed News*. Episodes are ingeste
     <div class="stat-label">Total Broadcast Lore</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">285</div>
+    <div class="stat-value">286</div>
     <div class="stat-label">Ingested & Extracted</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">91</div>
+    <div class="stat-value">90</div>
     <div class="stat-label">Pending Ingestion Backlog</div>
   </div>
 </div>
@@ -44,8 +44,8 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   <div class="filter-group">
     <select id="status-filter">
       <option value="all">All Statuses (376)</option>
-      <option value="ingested">Ingested Only (285)</option>
-      <option value="backlog">Backlog Only (91)</option>
+      <option value="ingested">Ingested Only (286)</option>
+      <option value="backlog">Backlog Only (90)</option>
     </select>
     <select id="page-size">
       <option value="25">25 per page</option>
@@ -193,7 +193,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
 <tr data-status="backlog" data-title="extra evil ads, immortal world leaders, and other very cool news" data-date="2025-09-03" data-vod-id="rx_k8duryts" style="display: none;"><td class="cell-date"><code>2025-09-03</code></td><td class="cell-title">Extra Evil Ads, Immortal World Leaders, and other VERY COOL NEWS</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">RX_K8dURYts</code></td><td class="cell-dur">2:53:03</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=RX_K8dURYts" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="return the newsosphere" data-date="2025-09-02" data-vod-id="jetafunbqum" style="display: none;"><td class="cell-date"><code>2025-09-02</code></td><td class="cell-title">Return the Newsosphere</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">JEtaFUnBQUM</code></td><td class="cell-dur">2:58:37</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=JEtaFUnBQUM" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="extra guarded monday news" data-date="2025-08-26" data-vod-id="t-jfe6q_rjm" style="display: none;"><td class="cell-date"><code>2025-08-26</code></td><td class="cell-title">Extra Guarded Monday News</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">T-JFE6q_RJM</code></td><td class="cell-dur">2:07:34</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=T-JFE6q_RJM" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
-<tr data-status="backlog" data-title="newsical fridays" data-date="2025-08-23" data-vod-id="luv3stoi6ts" style="display: none;"><td class="cell-date"><code>2025-08-23</code></td><td class="cell-title">Newsical Fridays</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">lUV3sToI6Ts</code></td><td class="cell-dur">2:24:33</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=lUV3sToI6Ts" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
+<tr data-status="ingested" data-title="newsical fridays" data-date="2025-08-23" data-vod-id="luv3stoi6ts" style="display: none;"><td class="cell-date"><code>2025-08-23</code></td><td class="cell-title"><a href="./2025-08-23" class="internal"><strong>Newsical Fridays</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">lUV3sToI6Ts</code></td><td class="cell-dur">2:24:33</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=lUV3sToI6Ts" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="what happened wednesday? aka news" data-date="2025-08-21" data-vod-id="o_cicowdnl8" style="display: none;"><td class="cell-date"><code>2025-08-21</code></td><td class="cell-title"><a href="./2025-08-21" class="internal"><strong>What Happened Wednesday? aka NEWS</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">O_CiCowdnL8</code></td><td class="cell-dur">2:31:50</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=O_CiCowdnL8" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="friday news to diplomacy to" data-date="2025-08-16" data-vod-id="sefq3pzaesu" style="display: none;"><td class="cell-date"><code>2025-08-16</code></td><td class="cell-title"><a href="./2025-08-16" class="internal"><strong>Friday News To Diplomacy To</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">seFq3PZAeSU</code></td><td class="cell-dur">2:43:18</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=seFq3PZAeSU" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="streamer returns to declare unilateral control over news station" data-date="2025-08-11" data-vod-id="03mavjry6ee" style="display: none;"><td class="cell-date"><code>2025-08-11</code></td><td class="cell-title"><a href="./2025-08-11" class="internal"><strong>Streamer Returns to Declare Unilateral Control Over News Station</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">03maVjRy6EE</code></td><td class="cell-dur">2:29:36</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=03maVjRy6EE" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>

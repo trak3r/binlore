@@ -1,0 +1,225 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "11:48",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Cold Open & Subscriber Acknowledgments",
+      "notes": "Hype Train opens the broadcast with freestyle rapping over instrumental, reluctantly reads subscriber names while resisting musical thank-yous, claims grave worms are the ultimate arbiters of organic material."
+    },
+    {
+      "start": "11:48",
+      "end": "38:40",
+      "canonical_segment": "News",
+      "title": "News Desk: Ghislaine Maxwell DOJ Interview & Epstein Files",
+      "notes": "Case Blackwell anchors with Munch and Crum debating; Maxwell tells DOJ she never saw Trump behave inappropriately, never witnessed Epstein abuse, seeks clemency for Trump; Munch and Crum clash over Maxwell's credibility and Trump's involvement."
+    },
+    {
+      "start": "38:40",
+      "end": "54:36",
+      "canonical_segment": "How To with Jeb",
+      "title": "How To with Jeb: Heinz Mayo Monster & Mustache Trimming",
+      "notes": "Jeb Nogget demonstrates making 'Heinz Mayo Monster' energy drink mayo hybrid for April Fools, then watches mustache trimming tutorial and chi bending instructional; Jeb's Dad (board) provides commentary throughout."
+    },
+    {
+      "start": "54:36",
+      "end": "1:28:23",
+      "canonical_segment": "News",
+      "title": "News Desk with Coach McGurk: Cambridge Dictionary Words, Klobuchar Deepfake, Evolutionary Butthole Study",
+      "notes": "Coach McGurk joins Case for news; covers 'skibidi tradwife' and 'brolicarchy' added to Cambridge dictionary, Senator Klobuchar deepfake controversy, unpublished Norwegian study suggesting anuses evolved from sperm ducts, Trump asking FIFA president to keep World Cup trophy, AI researchers not saving for retirement, penile fracture study, California plague case, French Kick streamer death."
+    },
+    {
+      "start": "1:28:23",
+      "end": "1:41:08",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum Debate: Should Case Play A Plague Tale Requiem",
+      "notes": "Munch and Crum debate whether Case should play A Plague Tale Requiem; Munch argues for rat-control gameplay as plague preparedness, Crum dismisses it; references to Crum's hell tenure, wall kingship, and 284 devil victories."
+    },
+    {
+      "start": "1:41:08",
+      "end": "1:48:27",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Justin Juice Powers Call-In: Butthole Evolution & Bisexuality",
+      "notes": "Justin Juice Powers calls in to discuss the sperm-butthole evolution story; reveals he ate an interdimensional portal guarded by a wizard/meth dealer, identifies as bisexual, describes sex as psychic energy boom; exits to resume 'fucking busy' activities."
+    },
+    {
+      "start": "1:48:27",
+      "end": "2:24:33",
+      "canonical_segment": "DJ C4",
+      "title": "DJ C4 Song Production: 'Another Rat in the Wall' with Peter Gibbon",
+      "notes": "DJ C4 produces Pink Floyd parody 'Another Rat in the Wall' with Peter Gibbon on vocals; lyrics include rat infestation, rat king penis masturbation, no ventilation in drywall; Peter records in one take, DJ C4 ejects immediately after."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors News desk and Munch & Crum debate; got haircut and is going gray like JD Vance; Kendelle's parents visiting with Filipino food.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates Crum on Epstein/Maxwell and A Plague Tale Requiem; claims 284 devil victories in hell; asserts wall kingship; audio occasionally crossed with Crum's voice.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Counters Munch on Maxwell's credibility and plague game; references hell tenure and missing penis; voice bleeds through Munch's audio feed.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype man",
+      "notes": "hype man. Opens broadcast with freestyle rap over instrumental; reluctantly reads subscriber names while declaring grave worms as God's arbiters.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosts How To segment making Heinz Mayo Monster and watching mustache/chi tutorials; argues with deceased father (board) throughout.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Coach McGurk",
+      "role": "guest correspondent",
+      "notes": "guest correspondent. Joins news desk after being rehired by Pepito; delivers inspirational coaching rhetoric; covers dictionary words, deepfakes, butthole evolution, and plague.",
+      "canonical_name": "Coach McGurk",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Justin Juice Powers",
+      "role": "call-in guest",
+      "notes": "call-in guest. Calls in about butthole evolution; claims to have eaten an interdimensional portal; identifies as bisexual; exits for 'fucking busy' activities.",
+      "canonical_name": "Justin Juice Powers",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ C4",
+      "role": "music producer",
+      "notes": "music producer. Produces 'Another Rat in the Wall' parody with Peter Gibbon; writes rat-themed lyrics including rat king penis masturbation; ejects Peter immediately after recording.",
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Records vocals for 'Another Rat in the Wall' in one take; stole Case's phone earlier; claims wall civilization is more civilized than outside.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Join the Wall",
+      "beat": "[08:42] Wall expedition nearly ready; electrician arriving for safety prep; Case notes walls 'always been ready' but questions if explorers are ready [2:15:44].",
+      "timestamp": "08:42"
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[1:32:59] Munch references Crum's missing penis ('you stole my penis'); Crum asks for laxatives for hell's al dente pasta salad; Munch claims he fixed Crum's hip bone.",
+      "timestamp": "1:32:59"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "08:42",
+      "entity": "",
+      "fact": "Wall expedition nearly ready; electrician scheduled for safety preparation before exploration.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "09:13",
+      "entity": "",
+      "fact": "Case notes cats are 'hanging out again' causing jittery appearance.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "16:30",
+      "entity": "",
+      "fact": "Case got a haircut and is going gray in a pattern similar to JD Vance.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "16:00",
+      "entity": "Crum",
+      "fact": "Crum's voice bleeds through Munch's audio feed ('wires crossed').",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "27:41",
+      "entity": "Crum",
+      "fact": "Crum's voice again comes through Munch's mouth; Munch claims Crum 'can speak through bald people.'",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "53:42",
+      "entity": "Peter Gibbon",
+      "fact": "Peter Gibbon stole Case's phone; Case had to retrieve it.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "54:58",
+      "entity": "Kendelle",
+      "fact": "Kendelle's parents visiting; Filipino food being brought; Case may join for dinner.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "56:20",
+      "entity": "",
+      "fact": "Coach McGurk reveals he was fired from Munch & Crum but rehired by Pepito 56 minutes prior.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:42:37",
+      "entity": "",
+      "fact": "Justin Juice Powers ate an interdimensional portal guarded by a wizard/meth dealer; saw infinite versions of himself.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:45:50",
+      "entity": "",
+      "fact": "Justin Juice Powers identifies as bisexual; claims he and Austin Powers are both bisexual.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "2:15:44",
+      "entity": "Peter Gibbon",
+      "fact": "Peter Gibbon claims 'time is an illusion outside the wall; in the wall, it's real.'",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opens with Hype Train's surreal subscriber freestyle before Case Blackwell anchors a News desk with Munch and Crum dissecting Ghislaine Maxwell's DOJ interview exonerating Trump. Jeb Nogget's How To segment veers from Heinz Mayo Monster energy drink mayo to chi bending. Coach McGurk joins for a second news block covering dictionary slang, a Klobuchar deepfake, a Norwegian study on anal evolution, and a fatal Kick streamer abuse case. Munch and Crum debate whether Case should play A Plague Tale Requiem, invoking hell tenure and wall politics. Justin Juice Powers calls in about the butthole study, reveals interdimensional portal consumption, and departs for sexual activities. DJ C4 closes by producing 'Another Rat in the Wall' with Peter Gibbon in a single take before ejecting him and raiding out.",
+  "_meta": {
+    "vod_id": "lUV3sToI6Ts",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 111000,
+    "approx_prompt_tokens": 27750,
+    "transcript_lines": 244
+  }
+}
