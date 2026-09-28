@@ -61,13 +61,14 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (85)</summary>
+<summary>Earlier appearances (86)</summary>
 
 | Episode | Notes |
 |---|---|
 | [[episodes/2026-06-03|2026-06-03]] | Executive Producer. Canine broadcast executive appearing via Producer Cam. Opens show, manages sub goals, discusses Bart Simpson tattoo logistics. |
 | [[episodes/2026-05-29|2026-05-29]] | Executive producer opening the show with his signature intro. |
 | [[episodes/2025-09-15|2025-09-15]] | executive producer. |
+| [[episodes/2025-07-29|2025-07-29]] | executive producer. |
 | [[episodes/2025-07-18|2025-07-18]] | executive producer. |
 | [[episodes/2025-06-24|2025-06-24]] | executive producer. |
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
@@ -258,3 +259,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[[12:40]]** ([[episodes/2025-05-30|2025-05-30]]): Claims to have been impersonating Hype Train on the secondary screen while absent from producer seat.
 - **[[14:07]]** ([[episodes/2025-05-30|2025-05-30]]): Campaigns for on-air title 'Stream Pope' and demands Case build him a talk show.
 - **[[00:01]]** ([[episodes/2025-07-18|2025-07-18]]): ASR consistently transcribes his name as 'Papita' during this broadcast.
+- **[]** ([[episodes/2025-07-29|2025-07-29]]): Refused to fix end credits graphics when Case demanded [1:26:37]

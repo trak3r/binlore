@@ -56,6 +56,7 @@ On [[../episodes/2025-09-25|Post Wall and Rapture Clarity]], resurrected Crum si
 | [[../episodes/2025-07-10|2025-07-10]] [1:58:15] | Munch's refusal to retrieve Crum from hell referenced; Crum's vocal cord damage and modulator imply ongoing physical consequences from wall/hell arc [1:58:15]. |
 | [[../episodes/2025-07-15|2025-07-15]] [34:50] | [34:50] Case confirms wall visit to retrieve Peter Gibbon is still planned; Peter resides in crawlspace. |
 | [[../episodes/2025-07-26|2025-07-26]] [57:33] | [57:33] Crum remains in hell post-dick-punch; Devil references ongoing best-of-five, Munch winning first debate. |
+| [[../episodes/2025-07-29|2025-07-29]] [1:16:44] | [1:16:44] Devil states Crum is in hell 'making it worse than any of us can tolerate' and wants to extract him; Munch previously sought to rescue Crum from hell. |
 | [[../episodes/2025-08-11|2025-08-11]] | Hell/wall foreshadowing: Crum holds a devil's key in his soul and reports flaming-pigeon visions; Peter seeks mayoral clearance to send people (starting with Munch) into the wall. [01:21:54, 01:35:43] |
 | [[../episodes/2025-09-15|2025-09-15]] | Munch prematurely declares the gorilla mission "accomplished" while wall-stream logistics continue off-desk. [01:21:24] |
 | [[../episodes/2025-09-18|2025-09-18]] | Munch claims chat killed Crum via robot gorilla; reveals he beat the devil in debate for soul shards; Crum admits losing soul shards in hell's casino. Wall stream locked for Sunday. [01:33:00] |

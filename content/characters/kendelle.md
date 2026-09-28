@@ -47,6 +47,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-09-25|2025-09-25]] | in-studio contributor. |
 | [[episodes/2025-09-15|2025-09-15]] | in-studio contributor. |
 | [[episodes/2025-08-11|2025-08-11]] | In-studio contributor calls in with a bruised heel from Lake Tahoe, prompting a foot puppet rap diagnosis. |
+| [[episodes/2025-07-29|2025-07-29]] | in-studio contributor. |
 | [[episodes/2025-07-26|2025-07-26]] | in-studio contributor. |
 | [[episodes/2025-07-25|2025-07-25]] | in-studio contributor. |
 | [[episodes/2025-07-24|2025-07-24]] | call-in guest. |
@@ -54,13 +55,13 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-07-15|2025-07-15]] | in-studio contributor. |
 | [[episodes/2025-07-12|2025-07-12]] | in-studio contributor. |
 | [[episodes/2025-07-10|2025-07-10]] | in-studio contributor. |
-| [[episodes/2025-07-01|2025-07-01]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (141)</summary>
+<summary>Earlier appearances (142)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-07-01|2025-07-01]] | in-studio contributor. |
 | [[episodes/2025-06-28|2025-06-28]] | in-studio contributor. |
 | [[episodes/2025-06-26|2025-06-26]] | in-studio contributor. |
 | [[episodes/2025-06-24|2025-06-24]] | in-studio contributor. |
