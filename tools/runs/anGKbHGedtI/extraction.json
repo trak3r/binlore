@@ -1,0 +1,70 @@
+{
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "01:08:01",
+      "canonical_segment": "News",
+      "title": "Pico Park Stream Together Session",
+      "notes": "Non-standard broadcast: Case Blackwell hosts a cooperative Pico Park session via Steam Stream Together with Kendelle and guest streamers, replacing regular news desk."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors an impromptu cooperative gaming broadcast via Steam Stream Together, replacing the standard news desk.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "Delivers the cold open sign-on as executive producer before the gaming session begins.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Joins as on-air participant in the Pico Park session, her signature entrance music cued by Blackwell.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "timestamp": "05:45",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell attempts to configure Steam's Stream Together feature for a multi-streamer Pico Park session.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "17:55",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell states he must depart by 5:30 PM, limiting broadcast duration.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:07:25",
+      "entity": "",
+      "fact": "Broadcast concludes with a raid into Kendelle's channel; Case Blackwell announces return on Monday.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News airs a non-standard broadcast as lead anchor Case Blackwell hosts a cooperative Pico Park session via Steam's Stream Together feature alongside Kendelle and guest streamers. Technical difficulties with the streaming platform consume the opening minutes before the group progresses through puzzle levels. The broadcast ends with a raid into Kendelle's channel and an announcement of Blackwell's return on Monday.",
+  "_meta": {
+    "vod_id": "anGKbHGedtI",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 53242,
+    "approx_prompt_tokens": 13310,
+    "transcript_lines": 147
+  }
+}

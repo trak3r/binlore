@@ -192,3 +192,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[1:45:44]** ([[episodes/2025-04-05|2025-04-05]]): Reports his custom-built workstation is severely flawed, citing overheating and driver issues. [1:45:44]
 - **[[01:13:33]]** ([[episodes/2025-04-25|2025-04-25]]): Current PC built with assistance from Kendall and 20-person Discord crew; treats it as a sacred item due to component costs.
 - **[]** ([[episodes/2025-05-01|2025-05-01]]): Stock portfolio erased — 'years erased' [1:47:41]
+- **[05:45]** ([[episodes/2025-05-03|2025-05-03]]): Case Blackwell attempts to configure Steam's Stream Together feature for a multi-streamer Pico Park session.
+- **[17:55]** ([[episodes/2025-05-03|2025-05-03]]): Case Blackwell states he must depart by 5:30 PM, limiting broadcast duration.
