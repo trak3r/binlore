@@ -1,0 +1,264 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "08:05",
+      "canonical_segment": "News",
+      "title": "Pepito Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour countdown and sign-on from the control room, identifying as the dog who produces the show."
+    },
+    {
+      "start": "08:05",
+      "end": "11:47",
+      "canonical_segment": "News",
+      "title": "Jeffrey Newsman / Jeff Ripple News Desk",
+      "notes": "Case Blackwell adopts the 'Jeffrey Newsman' persona (parodying HBO's The Newsroom) and transitions into Jeff Ripple, riffing on generational discourse and thanking subscribers before Hype Train interrupts."
+    },
+    {
+      "start": "11:47",
+      "end": "19:43",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Derailment & Subscriber Freestyle",
+      "notes": "Hype Train commandeers the broadcast for an extended freestyle over a Pop-Tart beat, thanking subscribers (Storn Lack, Uncle Phil, Jackpug1, Sporify, Cardkeena, Skymer) and attacking Jeff Ripple with targeted bars."
+    },
+    {
+      "start": "19:43",
+      "end": "25:56",
+      "canonical_segment": "News",
+      "title": "Kendall Walk-Through: Blackpink Concert Recap",
+      "notes": "Kendall crosses the frame to her signature theme; she and Case discuss the Blackpink concert where Bruno Mars made a surprise appearance, then departs after chat commentary drives her off."
+    },
+    {
+      "start": "25:56",
+      "end": "32:55",
+      "canonical_segment": "News",
+      "title": "Merch Show-and-Tell: Blackpink Sweatpants & Light Stick",
+      "notes": "Kendall returns to model Blackpink tour merch (sweatpants, light-up hammer, shirt); chat guesses the price via poll (winner: Sporefight at $230 including hammer)."
+    },
+    {
+      "start": "32:55",
+      "end": "58:17",
+      "canonical_segment": "News",
+      "title": "ICE Raid Fatality & Alligator Alcatraz Conditions",
+      "notes": "Case covers the first confirmed death during a Trump-era ICE raid (California farm worker James Alana) and the Democratic lawmaker tour of Florida's 'Alligator Alcatraz' detention facility, highlighting toilet-fountain combos, overcrowding, and flooding."
+    },
+    {
+      "start": "59:02",
+      "end": "1:15:02",
+      "canonical_segment": "Amongst the Web",
+      "title": "Trailer Watch: Corn Dog Man, Who Killed Captain Alex, Durandar, Zigfield Follies",
+      "notes": "Case and chat watch viewer-submitted trailers: Sundance's 'Corn Dog Man' (blackface twist), Ugandan action 'Who Killed Captain Alex?', Indian 'Durandar', and a micro-budget 'Zigfield Follies'."
+    },
+    {
+      "start": "1:15:02",
+      "end": "1:24:35",
+      "canonical_segment": "News",
+      "title": "Peter Gibbon News Blast & Intern Julie Grace Introduction",
+      "notes": "Peter Gibbon emerges from the wall for a 'bi-daily news blast'; Monday intern Julie Grace is introduced, reveals she's earning college credits, and fields chat questions about hair care and roommates."
+    },
+    {
+      "start": "1:24:35",
+      "end": "1:49:07",
+      "canonical_segment": "News",
+      "title": "Rapid-Fire News Roundup with Peter Gibbon",
+      "notes": "Peter and Case blast through stories: Epstein surveillance video metadata anomalies, AI gallbladder surgery on mannequin, Conor McGregor nudes leaked by Azealia Banks, Tesla robotaxi penis-shaped service area, Chris Cuomo third-party campaign video, freeze branding trend, Florida man fired from Alligator Alcatraz, Courtney Kardashian enema advice, Comcast/CAA funding 'ethical' AI video startup, Ghislaine Maxwell client list, pig-costumed ICE protester, McDonald's McHire password vulnerability, and Earth's expiration in 2 billion years."
+    },
+    {
+      "start": "1:49:07",
+      "end": "1:52:34",
+      "canonical_segment": "News",
+      "title": "Wrap-Up & Raid",
+      "notes": "Case apologizes for limited intern interaction, plugs Monday return, attempts a song for Julie Grace, and raids Christine while Peter shouts over the sign-off."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored as 'Jeffrey Newsman' and Jeff Ripple; lost firing privileges to Kendall; shared Apple ID with Kendall; battled stomach illness.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open countdown and sign-on; later rapped at length during food break.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype correspondent",
+      "notes": "hype correspondent. Derailed broadcast with Pop-Tart beat freestyle, thanked subscribers, and dissed Jeff Ripple in verse.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Case performed the Ripple persona for the news desk, riffing on Newsroom and generational takes before being attacked by Hype Train.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through for Blackpink concert recap and merch modeling; chat drove her off; holds firing power over Case.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Emerged from wall for news blast; lives among rats; breath smells like rat ass; teased wall visit arc.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Julie Grace",
+      "role": "intern",
+      "notes": "Monday intern earning college credits; missed food order texts; fielded chat questions on hair and roommates.",
+      "canonical_name": "Julie Grace",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Discussed as dead (gorilla punch); Munch accused of killing him; death treated as ongoing kayfabe.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Accused of killing Crum via gorilla; referenced in wall/hell lore.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[34:50] Crum's death by gorilla punch treated as canon; Munch accused of murder; Case and Jeff Ripple debate kayfabe status.",
+      "timestamp": "34:50"
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "[34:50] Case confirms wall visit to retrieve Peter Gibbon is still planned; Peter resides in crawlspace.",
+      "timestamp": "34:50"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Lost firing privileges; Kendall now holds firing power.",
+      "timestamp": "[48:52]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Shares Apple ID and phone plan with Kendall; accidental FaceTime to Kendall's mom while nude is a running fear.",
+      "timestamp": "[21:35]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Attended Blackpink concert with Case; Bruno Mars made surprise guest appearance.",
+      "timestamp": "[20:31]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Lives in studio walls among rats; rats crawl on his mouth while he sleeps.",
+      "timestamp": "[1:16:10]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Julie Grace",
+      "fact": "Monday intern receiving college credits; did not respond to six food-order texts.",
+      "timestamp": "[1:21:06]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Alligator Alcatraz",
+      "fact": "Facility uses combined toilet-water fountain units; flooded day after Trump visit; 32 men per cell with three toilets.",
+      "timestamp": "[42:26]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Tesla Robotaxi",
+      "fact": "Service area expanded in penis shape in Austin; Elon Musk tweeted 'harder better faster stronger' over map.",
+      "timestamp": "[1:35:15]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Conor McGregor",
+      "fact": "Nudes leaked by Azealia Banks on his 37th birthday; McGregor threatened her not to post; McGregor running for Irish president.",
+      "timestamp": "[1:31:12]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Epstein Video",
+      "fact": "11-hour 'raw' surveillance video missing key minute; metadata shows multiple saves/exports via Premiere before DOJ upload.",
+      "timestamp": "[1:25:11]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "AI Surgery",
+      "fact": "Johns Hopkins AI robot completed gallbladder removal on hyper-detailed mannequin with 100% accuracy.",
+      "timestamp": "[1:29:03]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chris Cuomo",
+      "fact": "Running third-party general election campaign; video shows vascular forearms and slurred speech.",
+      "timestamp": "[1:38:43]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Freeze Branding",
+      "fact": "New body-mod trend using liquid nitrogen instead of heat for tattoo-like marks.",
+      "timestamp": "[1:40:28]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "McDonald's McHire",
+      "fact": "Chatbot vulnerability exposed 64M applicants' data; password '123456' used in 2025.",
+      "timestamp": "[1:46:53]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Earth Expiration",
+      "fact": "Scientists predict complex life ends in ~2 billion years due to sun brightening.",
+      "timestamp": "[1:48:34]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell opens as a Newsroom parody before Hype Train hijacks the broadcast with a Pop-Tart freestyle. Kendall walks through twice — first for a Blackpink concert recap with surprise Bruno Mars, then for a merch reveal settled by chat poll. The news block covers the first confirmed ICE raid death and horrific conditions at Florida's Alligator Alcatraz. A trailer watch segment reviews Corn Dog Man, Who Killed Captain Alex, and micro-budget oddities. Peter Gibbon emerges from the wall for a news blast alongside new Monday intern Julie Grace, followed by a rapid-fire round spanning Epstein metadata, AI surgery, McGregor nudes, Tesla's phallic map, and Earth's 2-billion-year deadline.",
+  "_meta": {
+    "vod_id": "ZUYyMjg_NiM",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 91888,
+    "approx_prompt_tokens": 22972,
+    "transcript_lines": 199
+  }
+}

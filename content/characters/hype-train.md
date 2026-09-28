@@ -56,7 +56,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-06-22|2026-06-22]] | High-velocity musical correspondent who confesses to cheating on his Panther girlfriend, discusses beats, and provides cultural commentary throughout the pre-show. |
 
 <details>
-<summary>Earlier appearances (70)</summary>
+<summary>Earlier appearances (71)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -71,6 +71,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2025-09-18|2025-09-18]] | hype announcer. |
 | [[episodes/2025-09-15|2025-09-15]] | musical/cultural interruption. |
 | [[episodes/2025-08-11|2025-08-11]] | Derails the top of the show with a ten-minute piss-themed freestyle rap incorporating subscriber thanks and ball-based urine storage theory. |
+| [[episodes/2025-07-15|2025-07-15]] | hype correspondent. |
 | [[episodes/2025-06-28|2025-06-28]] | musical/cultural correspondent. |
 | [[episodes/2025-06-26|2025-06-26]] | hype correspondent. |
 | [[episodes/2025-06-17|2025-06-17]] | Musical/Cultural Interruption. |
