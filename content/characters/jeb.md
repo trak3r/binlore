@@ -51,6 +51,7 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2026-06-22|2026-06-22]] | Mentioned in reference to 'the two Jebs' during merch brainstorming. |
 | [[episodes/2026-06-15|2026-06-15]] | Host of 'How To with Jeb', demonstrates Kool-Aid recipe. |
 | [[episodes/2025-09-15|2025-09-15]] | How To host. |
+| [[episodes/2025-07-24|2025-07-24]] | instructional host. |
 | [[episodes/2025-07-01|2025-07-01]] | instructional host. |
 | [[episodes/2025-06-19|2025-06-19]] | instructional host. |
 | [[episodes/2025-05-01|2025-05-01]] | instructional host. |
@@ -66,13 +67,13 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2025-02-06|2025-02-06]] | instructional host. |
 | [[episodes/2025-02-03|2025-02-03]] | Hosted How To with dead father in wood, attempted throat singing from DVD, shredded vocal cords. |
 | [[episodes/2025-01-31|2025-01-31]] | instructional host. |
-| [[episodes/2025-01-27|2025-01-27]] | How To Host. |
 
 <details>
-<summary>Earlier appearances (22)</summary>
+<summary>Earlier appearances (23)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-01-27|2025-01-27]] | How To Host. |
 | [[episodes/2025-01-22|2025-01-22]] | field correspondent. |
 | [[episodes/2025-01-08|2025-01-08]] | Instructional Correspondent. |
 | [[episodes/2025-01-06|2025-01-06]] | instructional host. |

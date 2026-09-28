@@ -1,0 +1,218 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "17:40",
+      "canonical_segment": "Hype Train",
+      "title": "Cold Open & Hype Train Derailment",
+      "notes": "Pepito opens broadcast; Hype Train commandeers feed with freestyle raps over washing machine beat, discusses hell politics, then dies off-camera when Case cuts to AI slop videos."
+    },
+    {
+      "start": "17:40",
+      "end": "37:12",
+      "canonical_segment": "News",
+      "title": "AI Slop Review & Live Misinformation Generation",
+      "notes": "Case reviews Liven Sleazy's AI-generated videos of himself and Kendall, then live-generates Epstein jail footage using VO3/Veo while troubleshooting broken lol/boo meter commands."
+    },
+    {
+      "start": "37:12",
+      "end": "1:03:22",
+      "canonical_segment": "News",
+      "title": "Gaza Starvation & US Complicity",
+      "notes": "Case covers UN report of 1,000+ aid seekers killed since May, WHO warning of man-made mass starvation, US contractor involvement, bipartisan political inertia, and evangelical response to Christian casualties."
+    },
+    {
+      "start": "1:03:22",
+      "end": "1:23:37",
+      "canonical_segment": "News",
+      "title": "Epstein-Trump Wedding Photos & Russia Gate Redux",
+      "notes": "CNN publishes 1993 Mar-a-Lago wedding photos linking Trump and Epstein; Case dismisses Russia gate revival and Obama investigation claims as dead liberal narratives."
+    },
+    {
+      "start": "1:23:37",
+      "end": "1:37:39",
+      "canonical_segment": "News",
+      "title": "Trent's Trailer Park: Nezha 2, Predator Badlands, Hellraiser Game",
+      "notes": "Trent persona watches Chinese animated sequel Nezha 2, Predator Badlands trailer (noting predator resembles his dream self), and a Hellraiser-adjacent adult game announcement."
+    },
+    {
+      "start": "1:37:39",
+      "end": "2:30:58",
+      "canonical_segment": "Amongst the Web",
+      "title": "Big Cheddar's Audience News: Claw Machine Guns, Salmon Sperm, AI Psychosis",
+      "notes": "Big Cheddar persona covers Japanese claw machine firearms, salmon sperm skincare (Kendall's interest), AI psychosis report, 50-year KFC employee tribute, Ghislaine Maxwell subpoena, Macron transvestigation, paranormal poll, Buff Bagwell amputation, semen injection case, Trump/Stern clip, Jon Stewart/Colbert late-night talk, murder mystery poll."
+    },
+    {
+      "start": "2:30:58",
+      "end": "2:53:03",
+      "canonical_segment": "How To with Jeb",
+      "title": "Jeb's Auctioneering, Kegels & Chi Bending; Kendall's Hamptons Club",
+      "notes": "Jeb teaches auctioneering stance, pelvic floor resistance ring, and chi bending; Kendall calls in describing overstimulating Hamptons DJ restaurant, sends videos via Case's phone."
+    },
+    {
+      "start": "2:53:03",
+      "end": "3:00:08",
+      "canonical_segment": "News",
+      "title": "Hate Sock Epstein List & Raid",
+      "notes": "Hate Sock responds only 'You wish' or 'Dumbass' to Epstein questions; confirms Munch, Crum, Kevin on list; Fiona not on list; Intern appears; raid to Gina."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored full broadcast across News, Trent, Big Cheddar personas; live-generated AI Epstein footage; discussed murder mystery delay; received Kendall call-in.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on as 'Papito the dog'; dismissed Case's late-night show ambitions; claimed religious leadership of network.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Derailed subscriber acknowledgments into freestyle raps over washing machine beat; discussed hell middle management; ceased when Case cut to AI videos.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "correspondent",
+      "notes": "correspondent. Joined news desk claiming tongue surgery; deflected Gaza coverage; engaged in Putin piss-sucking bit; exited after Case declared impasse.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosted How To segment from workshop; taught auctioneering, kegel resistance ring, chi bending; received Kendall's Hamptons videos via Case's phone.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "call-in guest",
+      "notes": "call-in guest. Called in from Hamptons trip; described secret DJ restaurant/club but withheld details due to companion; sent dinner videos to Case's Google account.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hate Sock",
+      "role": "sock puppet",
+      "notes": "sock puppet. Answered Epstein list questions exclusively with 'You wish'/'Dumbass'; confirmed Munch, Crum, Kevin on list; Fiona absent; harassed Intern.",
+      "canonical_name": "Hate Sock",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Intern",
+      "role": "production assistant",
+      "notes": "production assistant. Addressed by Hate Sock at sign-off; invited to hang out; college credits already signed off.",
+      "canonical_name": "Intern",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Case has consumer access to VO3/Veo video generation through a YouTuber client contract and attempted live Epstein jail footage generation.",
+      "timestamp": "[20:15]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case worked on Gemini for a YouTuber client (consumer version).",
+      "timestamp": "[21:52]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Rick claims a college nickname 'the cuddling master' and underwent tongue surgery day of broadcast.",
+      "timestamp": "[45:01]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Kendelle was out of town in the Hamptons for a work trip (Max Hampton) and visited a covert DJ restaurant/club.",
+      "timestamp": "[2:23:00]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "House Oversight Committee subpoenaed Ghislaine Maxwell for deposition next month regarding Epstein files.",
+      "timestamp": "[1:50:55]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Candace Owens sued Brigitte Macron over transvestigation claims.",
+      "timestamp": "[1:53:23]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Wrestler Buff Bagwell underwent leg amputation.",
+      "timestamp": "[1:57:38]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Irish man injected own semen for back pain for 1.5 years, developed subcutaneous emphysema.",
+      "timestamp": "[1:58:05]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case's murder mystery event delayed 3 years; lost collaborator interest; may execute low-budget Zoom version in fall.",
+      "timestamp": "[2:12:16]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Ozzy Osbourne died prior to broadcast.",
+      "timestamp": "[2:49:10]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Trisha Paytas named newborn son Aquaman (revealed via pink bedazzled shirt at C-section).",
+      "timestamp": "[2:49:58]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Hate Sock confirmed Munch, Crum, and Kevin are on the Epstein list; Fiona is not.",
+      "timestamp": "[2:55:45]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened with a Hype Train derailment into hell politics before Case Blackwell live-generated AI Epstein jail footage while troubleshooting broken chat commands. The news desk covered the UN-documented Gaza starvation campaign and US contractor complicity, then pivoted to CNN's newly published Trump-Epstein wedding photos and the exhausted Russia gate revival. Big Cheddar hosted Amongst the Web with audience stories including Japanese claw machine firearms, salmon sperm skincare, AI psychosis, and a 50-year KFC veteran's death. Jeb Nogget taught auctioneering, pelvic resistance rings, and chi bending while Kendelle called in from a Hamptons DJ speakeasy. The broadcast closed with Hate Sock's uncooperative Epstein list confirmation — Munch, Crum, and Kevin listed; Fiona cleared — before raiding Gina.",
+  "_meta": {
+    "vod_id": "yhUQMRD9TBk",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 147388,
+    "approx_prompt_tokens": 36847,
+    "transcript_lines": 398
+  }
+}
