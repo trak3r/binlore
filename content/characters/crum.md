@@ -55,13 +55,14 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-09-21|2025-09-21]] | debate analyst. |
 | [[episodes/2025-09-18|2025-09-18]] | debate analyst. |
 | [[episodes/2025-09-15|2025-09-15]] | debate analyst. |
-| [[episodes/2025-07-18|2025-07-18]] | debate analyst. |
+| [[episodes/2025-07-19|2025-07-19]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (118)</summary>
+<summary>Earlier appearances (119)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-07-18|2025-07-18]] | debate analyst. |
 | [[episodes/2025-07-15|2025-07-15]] | debate analyst. |
 | [[episodes/2025-07-10|2025-07-10]] | debate analyst. |
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
@@ -338,3 +339,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[2:02:51]** ([[episodes/2025-06-26|2025-06-26]]): Body parts came off during prison guard cleaning; reattached with hot glue; undergoing physical therapy with Coach McGurk (Munch in disguise).
 - **[]** ([[episodes/2025-07-10|2025-07-10]]): Crum's vocal cords severely damaged, now speaks through voice modulator rendering him sounding like Bart Simpson [2:05:13]
 - **[[36:38]]** ([[episodes/2025-07-18|2025-07-18]]): Now relies on a handheld speech-synthesis device (Speak & Spell style) to communicate on air due to damaged vocal cords.
+- **[01:37:44]** ([[episodes/2025-07-19|2025-07-19]]): [01:37:44] Confirmed in hell as 'husk' with voice box strapped to corpse; Devil calls it 'abomination' and 'empty rotting shell'.

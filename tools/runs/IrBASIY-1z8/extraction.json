@@ -1,0 +1,201 @@
+{
+  "segments": [
+    {
+      "start": "00:03",
+      "end": "08:32",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Freestyle Cold Open",
+      "notes": "Hype Train delivers surreal freestyle rap over eclectic beats, referencing zombies, debates, and cryptic imagery before yielding to late-night broadcast."
+    },
+    {
+      "start": "08:32",
+      "end": "40:31",
+      "canonical_segment": "News",
+      "title": "Trump Sues WSJ Over Epstein Letter; Trump Art Archive",
+      "notes": "Case Blackwell covers Trump's $10B lawsuit against Wall Street Journal over 2003 Epstein birthday letter with sexual drawing; reads letter aloud with voice modulation; fact-checks Trump's 'enigma' usage and 'never drew a picture' claim; displays Trump's adult marker drawings."
+    },
+    {
+      "start": "40:31",
+      "end": "01:00:22",
+      "canonical_segment": "Amongst the Web",
+      "title": "Internet Video Review: Useless Guy, Curse Removal, Wrestling Shoutouts",
+      "notes": "Case rates viral clips including a park fight ('useless guy'), late-night curse removal infomercial, and wrestling references (Adam Page/Adam Cole); ghost letters haunt studio; Kendall appears pantsless."
+    },
+    {
+      "start": "01:00:22",
+      "end": "01:13:09",
+      "canonical_segment": "Amongst the Web",
+      "title": "Rick's Two-Minute News: Captain Planet, Switch 2, Dog TV Study",
+      "notes": "Rick hosts accelerated news block: Captain Planet live-action at Netflix, personal Switch 2 purchase, Nintendo mouse-control penis art, Uno pop-up club, and Auburn study on canine TV preferences (Bluey > Blues Clues)."
+    },
+    {
+      "start": "01:05:52",
+      "end": "01:13:09",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet Interrupts: Dog Television Engagement Study",
+      "notes": "Triggered by 'science', Chet delivers peer-reviewed findings on dog TV habits: temperament and animal-centric content drive engagement; Bluey tops Blues Clues."
+    },
+    {
+      "start": "01:13:47",
+      "end": "01:31:46",
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip Bradstein: Park Opinions on Secret Command, Hurricane Snacks, Mosh Pit",
+      "notes": "Trip interviews park denizens about ghost hangman command (crumb hippo/crumb hand game), hurricane snacks (cow tails), wooden cursed figure, Lester Head Bangs' rat-poison prank, and Superman sewer-grate sacrifice bit."
+    },
+    {
+      "start": "01:31:46",
+      "end": "02:50:30",
+      "canonical_segment": "DJ C4",
+      "title": "DJ C4 Produces R&B Track: 'Never Written a Picture of a Woman' ft. JD Vance & Trump",
+      "notes": "DJ C4 writes, records, and auto-tunes R&B song about Trump's drawing denial; Ghost Writer heckles; Munch debates Devil for Crum's soul (best-of-five, Munch leads 1-0); JD Vance and Trump impressions perform verses; Case mixes final track."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors News and Amongst the Web; hosts music production; moderates Munch vs Devil debate; manages ghost letter haunting.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interrupter",
+      "notes": "musical interrupter. Opens broadcast with surreal freestyle rap referencing zombies, debates, and cryptic imagery.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "Amongst the Web host",
+      "notes": "Amongst the Web host. Hosts accelerated two-minute news block covering Captain Planet, Switch 2, dog TV study; draws four extra minutes via Uno metaphor.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Interrupts broadcast via 'science' trigger to present Auburn study on canine TV viewing habits.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducts park interviews on secret command, hurricane snacks, cursed wooden figure, and park mosh pit incident.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ C4",
+      "role": "music producer",
+      "notes": "music producer. Writes, records, and produces R&B track about Trump's drawing denial; coordinates JD Vance and Trump vocal performances; manages Ghost Writer heckler.",
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates Devil for Crum's soul in best-of-five; wins first round on 'can Devil beat Munch' topic; claims Munch Prime multiversal form.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Trapped in hell as husk with voice box; subject of Munch's rescue campaign; ghost letters haunt studio as 'Crumb hippo' hangman.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Briefly appears pantsless during Amongst the Web; proposes Coldplay couple meme recreation at park tomorrow.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Devil",
+      "role": "supernatural entity",
+      "notes": "supernatural entity. Summoned by chat command; debates Munch for Crum's soul; calls Munch 'one of the worst souls I've ever looked at'; refuses to burn devil wish.",
+      "canonical_name": "Devil",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Ghost Writer",
+      "role": "supernatural heckler",
+      "notes": "supernatural heckler. Interrupts music production; critiques amateur ghost haunting; claims all ghosts are horny but intangible.",
+      "canonical_name": "Ghost Writer",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:37:11] Munch debates Devil for Crum's soul in best-of-five; wins first debate on 'can Devil beat Munch' topic; Devil agrees to continue but demands two more wins.",
+      "timestamp": "01:37:11"
+    },
+    {
+      "storyline": "Ghost/Curse Haunting",
+      "beat": "[44:10] Ghost letters manifest throughout studio; hangman game targets 'Crumb hippo/hand game'; Kendall appears pantsless; Ghost Writer heckles during music production.",
+      "timestamp": "44:10"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Munch",
+      "fact": "[01:44:10] Claims 'Munch Prime' multiversal form cast by souls devoured; Devil calls him 'one of the worst souls I've ever looked at'.",
+      "timestamp": "01:44:10",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "[01:37:44] Confirmed in hell as 'husk' with voice box strapped to corpse; Devil calls it 'abomination' and 'empty rotting shell'.",
+      "timestamp": "01:37:44",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trump",
+      "fact": "[14:14] Sued Wall Street Journal for $10B over 2003 Epstein birthday letter with sexual drawing; claims he 'never wrote a picture in my life' despite adult marker drawings surfacing.",
+      "timestamp": "14:14",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trump",
+      "fact": "[28:04] Fact-check confirms Trump used word 'enigma' publicly at least five times (2015 rally, 2004 book), contradicting claims he never used the word.",
+      "timestamp": "28:04",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a late-night Friday broadcast covering Trump's $10B lawsuit against the Wall Street Journal over an Epstein birthday letter, complete with dramatic reading and fact-checks on Trump's 'enigma' vocabulary and drawing denial. The show cycles through viral video reviews, Rick's accelerated news block, Chet's canine TV study, and Trip Bradstein's park interviews haunted by a ghost hangman game. The broadcast culminates in DJ C4 producing an R&B track about Trump never drawing women, featuring JD Vance and Trump impressions, while Munch debates the Devil in a best-of-five for Crum's soul — winning round one.",
+  "_meta": {
+    "vod_id": "IrBASIY-1z8",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 124368,
+    "approx_prompt_tokens": 31092,
+    "transcript_lines": 315
+  }
+}
