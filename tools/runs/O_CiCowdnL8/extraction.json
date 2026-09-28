@@ -1,0 +1,263 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "00:08",
+      "end": "08:06",
+      "title": "Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour sign-on, mentions cats, stream streaks, and transitions to Case Blackwell."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "08:41",
+      "end": "41:35",
+      "title": "Main News Desk: Trump Portrait, Ukraine, Redistricting, Israel",
+      "notes": "Case Blackwell and Jeff Ripple cover Trump's new White House portrait, Ukraine peace talks, Texas congressional maps, California redistricting response, and Israeli settlement expansion."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "start": "42:47",
+      "end": "01:09:44",
+      "title": "Sidewalk Cruising, Whistling, and TV News Anchoring",
+      "notes": "Jeb Nogget and his father's board spirit watch instructional videos on sidewalk cruising, finger whistling, and TV news anchoring; Hype Train interrupts with a rap lesson."
+    },
+    {
+      "canonical_segment": "Hype Train",
+      "start": "01:00:09",
+      "end": "01:09:44",
+      "title": "Hype Train Rap Tutorial & Subscriber Shoutouts",
+      "notes": "Hype Train commandeers Jeb's segment to teach rapping fundamentals and read subscriber names over a beat."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "01:10:05",
+      "end": "01:22:39",
+      "title": "Interview: Portrait Artist Dick Bob Buick",
+      "notes": "Case Blackwell interviews Dick Bob Buick, artist of the Trump presidential portrait, who claims a gay Mormon genie surgically attached a brush to his hand."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "start": "01:23:13",
+      "end": "01:37:39",
+      "title": "Debate: Knock-Knock Jokes vs. Yo Mama Jokes",
+      "notes": "Munch and Crum debate joke formats while trading personal barbs about Crum's missing penis, Munch's key from the devil, and Belulia at Coachella."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "01:38:58",
+      "end": "02:04:13",
+      "title": "Late News with Liliana & Hate Sock",
+      "notes": "Liliana and Hate Sock cover Jake Paul vs. Gervonta Davis exhibition, New York State Fair Bigfoot exhibit, pony donated to zoo, Ozempic for dogs, and hamstering trend."
+    },
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "start": "01:55:23",
+      "end": "02:04:13",
+      "title": "Science of Hamstering",
+      "notes": "Chet and ChetAI analyze the biomechanics of the hamstering sex trend, comparing it to milking tables and discussing double-sunroof logistics."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "start": "02:04:59",
+      "end": "02:21:09",
+      "title": "Street Interviews: National Guard, Hamstering, Cybertrucks",
+      "notes": "Trip Bradstein interviews park-goers on National Guard deployment, hamstering trend origins, and a Cybertruck dealership owner."
+    },
+    {
+      "canonical_segment": "DJ Newsic",
+      "start": "02:21:09",
+      "end": "02:31:10",
+      "title": "Breast Milk Ice Cream Musical Finale & Raid",
+      "notes": "DJ Newsic performs an R&B song about breast milk ice cream, thanks subscribers, and raids Gina Darling."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored main news desk, interviewed Dick Bob Buick, moderated Munch & Crum debate.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on, managed stream alerts and cat cam.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-anchored news desk, covered Ukraine, redistricting, and Israel stories.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosted How To segment on sidewalk cruising, whistling, and news anchoring with his father's board.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "co-host (board)",
+      "notes": "co-host (board). Bickered with Jeb from inside a wooden board during How To segment.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Derailed Jeb's segment with rap tutorial and subscriber shoutouts.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dick Bob Buick",
+      "role": "guest artist",
+      "notes": "guest artist. Portrait artist claimed a gay Mormon genie permanently attached a brush to his hand.",
+      "canonical_name": "Dick Bob Buick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through studio, mentioned first day of kindergarten tomorrow.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Munch on joke formats while referencing missing penis, soul in hell, and digestive tract issues.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Crum, revealed 30-day devil key to retrieve Crum's soul, mentioned Belulia at Coachella.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Co-anchored late news with Hate Sock, read Jake Paul and Bigfoot stories.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hate Sock",
+      "role": "puppet correspondent",
+      "notes": "puppet correspondent. Antagonized Liliana with 'You wish'/'Dumbass' refrain during late news.",
+      "canonical_name": "Hate Sock",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Triggered by 'science' keyword, analyzed hamstering biomechanics with ChetAI.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "AI co-host",
+      "notes": "AI co-host. Assisted Chet with hamstering analysis, struggled with predictive-text identity.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted street interviews on National Guard, hamstering, and Cybertruck salesman.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[01:26:04] Munch challenges Crum to a Beyblade rematch once Crum's soul returns.",
+      "timestamp": "01:26:04"
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:23:55] Crum references stolen penis; Munch claims Crum's penis is too small to find.",
+      "timestamp": "01:23:55"
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "[01:25:21] Munch holds a key from the devil to retrieve Crum's soul from hell within 30 days; Crum's digestive tract was repaired by unsavory workers.",
+      "timestamp": "01:25:21"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Kendelle",
+      "fact": "First day of kindergarten tomorrow.",
+      "timestamp": "01:19:24",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Dick Bob Buick",
+      "fact": "Claims to be 60 years old; says a gay Mormon genie cosmically attached a brush to his hand.",
+      "timestamp": "01:22:13",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch",
+      "fact": "Possesses a key from the devil to retrieve Crum's soul, must use within 30 days; saw Belulia at Coachella with other men.",
+      "timestamp": "01:25:21",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "Digestive tract was falling out and had to be surgically reinserted by a hired crew.",
+      "timestamp": "01:31:25",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns from a week away to anchor a chaotic Wednesday broadcast covering Trump's new White House portrait, stalled Ukraine peace talks, Texas redistricting, and Israeli settlement expansion. Jeb Nogget's instructional segment on sidewalk cruising and news anchoring is hijacked by Hype Train's rap tutorial. Portrait artist Dick Bob Buick claims a gay Mormon genie fused a brush to his hand. Munch and Crum debate knock-knock versus yo mama jokes while advancing the hell-key storyline. Liliana and Hate Sock close the news with a Jake Paul fight, Bigfoot exhibit, pony donation, Ozempic for dogs, and the hamstering trend, prompting Chet and ChetAI to analyze the biomechanics. Trip Bradstein interviews park-goers on National Guard deployment and hamstering. DJ Newsic ends the stream with a breast milk ice cream anthem and a raid to Gina Darling.",
+  "_meta": {
+    "vod_id": "O_CiCowdnL8",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 122553,
+    "approx_prompt_tokens": 30638,
+    "transcript_lines": 351
+  }
+}

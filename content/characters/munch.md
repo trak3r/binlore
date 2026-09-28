@@ -44,16 +44,17 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-09-21|2025-09-21]] | debate analyst. |
 | [[episodes/2025-09-18|2025-09-18]] | debate analyst. |
 | [[episodes/2025-09-15|2025-09-15]] | debate analyst. |
+| [[episodes/2025-08-21|2025-08-21]] | debate analyst. |
 | [[episodes/2025-08-11|2025-08-11]] | Debate analyst torments Crum over his missing penis and hell visions while arguing for Gatorade supremacy. |
 | [[episodes/2025-08-02|2025-08-02]] | debate analyst. |
 | [[episodes/2025-07-30|2025-07-30]] | debate analyst. |
-| [[episodes/2025-07-29|2025-07-29]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (117)</summary>
+<summary>Earlier appearances (118)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-07-29|2025-07-29]] | debate analyst. |
 | [[episodes/2025-07-26|2025-07-26]] | debate analyst. |
 | [[episodes/2025-07-25|2025-07-25]] | debate analyst. |
 | [[episodes/2025-07-19|2025-07-19]] | debate analyst. |
@@ -243,3 +244,4 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[2:03:53]** ([[episodes/2025-06-26|2025-06-26]]): Operating as 'Coach McGurk' — claims paid cleaning service/prison guards to hose down Crum; says mental recovery tied to physical.
 - **[]** ([[episodes/2025-07-10|2025-07-10]]): Munch explicitly refused to contact the devil to resurrect Crum after Crum Dick Punch execution [1:58:15]
 - **[01:44:10]** ([[episodes/2025-07-19|2025-07-19]]): [01:44:10] Claims 'Munch Prime' multiversal form cast by souls devoured; Devil calls him 'one of the worst souls I've ever looked at'.
+- **[01:25:21]** ([[episodes/2025-08-21|2025-08-21]]): Possesses a key from the devil to retrieve Crum's soul, must use within 30 days; saw Belulia at Coachella with other men.
