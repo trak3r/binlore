@@ -1,0 +1,180 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "08:03",
+      "canonical_segment": "News",
+      "title": "Pepito Cold Open: 'You're Crumbly' Musical Intro",
+      "notes": "Pepito delivers a chaotic sung cold open with 'you're crumbly' refrain, arguing with unseen editor about recording and editing."
+    },
+    {
+      "start": "08:03",
+      "end": "14:22",
+      "canonical_segment": "News",
+      "title": "Studio Setup: Cat Cam, Pepito's Appetite, Child Labor Laws",
+      "notes": "Case shows cat cam, discusses Pepito trying to eat cats, jokes about 70 streams milestone and child labor laws applying to Pepito."
+    },
+    {
+      "start": "14:22",
+      "end": "20:56",
+      "canonical_segment": "News",
+      "title": "Skyence: 11 Body Systems Video from Re-up Reedy",
+      "notes": "Case plays a viewer-submitted video by Re-up Reedy covering 11 body systems; Case reacts to the length and unexpected penis mention."
+    },
+    {
+      "start": "20:56",
+      "end": "57:33",
+      "canonical_segment": "News",
+      "title": "Epstein Birthday Book: Clinton, Trump, Leon Black Letters",
+      "notes": "Case and Jeff Ripple cover Wall Street Journal report on Epstein's 2003 birthday book with letters from Bill Clinton, Donald Trump, and Leon Black; includes Leon Black's poem 'blonde red or brunette spread out geographically' and Trump pardon speculation for Ghislaine Maxwell."
+    },
+    {
+      "start": "57:33",
+      "end": "01:11:21",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum vs The Devil: La Boo Boos Debate",
+      "notes": "Devil returns for best-of-five hell debates; Munch argues La Boo Boos are satanic trash vs Funkos; Crum speaks one line from hell; Devil claims to be 'father of human achievement' and watches everyone masturbate."
+    },
+    {
+      "start": "01:12:25",
+      "end": "01:27:43",
+      "canonical_segment": "News",
+      "title": "Durf News: South Park Penis Eyes, Discord Age Verification Bypass, Fake Indian Embassy",
+      "notes": "Durf covers South Park creators putting eyes on Trump's penis to avoid blur (Small Penis Rule), UK Discord age verification bypass via Death Stranding photo mode, and Indian man running fake embassy for fake nations West Arktica and Suburga."
+    },
+    {
+      "start": "01:27:43",
+      "end": "02:24:54",
+      "canonical_segment": "DJ C4",
+      "title": "DJ C4 Produces 'Getting Body Slammed in Hell Brother' Hogan Tribute",
+      "notes": "DJ C4 struggles to find a sad rock instrumental, settles on sad piano 'Real American', writes Hulk Hogan in hell lyrics, records takes from Chair Me's cousin Sharon and Ghost Writer, finalizes track."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers chaotic sung cold open, argues with editor, jokes about eating cats and child labor laws.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors news desk, runs Skyence and Epstein segments, produces DJ C4 song, needs to pick up Kendelle from airport.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosts Epstein birthday book coverage, debates Clinton/Trump Epstein ties, reads Politico reporting.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates Devil on La Boo Boos vs Funkos, argues for themed assault rifles, claims victory to free Crum from hell.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Speaks one line from hell ('Free me, please'), Devil says Crum is behind in best-of-five.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Durf (Dwarf/Derf)",
+      "role": "correspondent",
+      "notes": "correspondent. Hosts second news block covering South Park, Discord age verification, fake Indian embassy.",
+      "canonical_name": "Durf (Dwarf/Derf)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ C4",
+      "role": "musical producer",
+      "notes": "musical producer. Produces 'Getting Body Slammed in Hell Brother' track, struggles with instrumentals, records chair and ghost vocals.",
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Mentioned as Case's pickup from airport; does not appear on camera.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[57:33] Devil confirms Crum is in hell, best-of-five debate series underway; Munch needs two more wins to free Crum.",
+      "timestamp": "57:33"
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "[57:33] Crum remains in hell post-dick-punch; Devil references ongoing best-of-five, Munch winning first debate.",
+      "timestamp": "57:33"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Leon Black",
+      "fact": "[42:26] Wrote poem in Epstein's 2003 birthday book: 'blonde red or brunette spread out geographically with this net of fish just now the old man and the sea but truly ruled by powerful intellectuals guys pal is a wonderful thing'.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Small Penis Rule",
+      "fact": "[1:18:53] Informal legal strategy: giving a fictional character a small penis prevents libel suits because no man will claim the character.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "UK Online Safety Act",
+      "fact": "[1:20:16] Age verification (KID feature) bypassed using Death Stranding photo mode selfies on Discord.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Harsh Vardan Jain",
+      "fact": "[1:23:42] Arrested for running fake embassy in Uttar Pradesh claiming to represent fake nations West Arktica, Suburga, Polvia, Ladonia.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "West Arktica",
+      "fact": "[1:26:01] Non-profit advocating for climate change; fake embassy operator claimed ambassadorship.",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a Friday broadcast opening with Pepito's musical cold open, then covers the Wall Street Journal's Epstein birthday book revelations including letters from Clinton, Trump, and Leon Black's salacious poem. Munch debates the Devil over La Boo Boos while Crum remains trapped in hell, needing two more debate wins for release. Durf delivers a second news block on South Park's penis-eyes workaround, UK age verification bypass via Death Stranding, and an Indian fake embassy operator. The show closes with DJ C4 producing a Hulk Hogan in hell tribute song featuring vocals from a gamer chair and a ghost writer.",
+  "_meta": {
+    "vod_id": "xrehBtgAXKQ",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 104681,
+    "approx_prompt_tokens": 26170,
+    "transcript_lines": 244
+  }
+}
