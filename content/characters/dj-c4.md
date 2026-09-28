@@ -75,3 +75,4 @@ See also: [[../segments/dj-c4|DJ C4 (Segment)]], [[characters/dj-newsic|DJ Newsi
 - **[02:25:47]** ([[episodes/2026-05-29|2026-05-29]]): DJ C4 collaborates with guest artists to create theme songs, using AI ghostwriting assistance and audience-submitted lyrics.
 - **[02:22:29]** ([[episodes/2025-06-28|2025-06-28]]): [02:22:29] Suno/Refusion rejected explicit 'gooning' lyrics; fell back to YouTube beat for final playout.
 - **[[01:32:58]]** ([[episodes/2025-05-23|2025-05-23]]): Confirmed as Case Blackwell's second cousin; recently graduated college with classic literature degree; owns production studio funded by father (Halliburton owner).
+- **[1:54:25]** ([[episodes/2025-10-09|2025-10-09]]): Justin Juice Powers theme production extended to two-session arc; UK grime style with 'fuckabogic' chorus and dense internal rhymes.

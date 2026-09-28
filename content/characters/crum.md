@@ -373,3 +373,5 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[01:55:26]** ([[episodes/2025-09-29|2025-09-29]]): Owns a childhood 'numby rag' (blanket) currently held by a hell concubine.
 - **[01:47:36]** ([[episodes/2025-09-29|2025-09-29]]): Wife posted about safe word on Instagram.
 - **[]** ([[episodes/2025-10-02|2025-10-02]]): Claims six billion children from hell lawsuits, five billion shared fungal consciousness; asserts hell law is only law applying on Earth. [01:14:24]
+- **[1:51:49]** ([[episodes/2025-10-09|2025-10-09]]): Growing small black horns that glow with celestial might, concentrated around genitals, from allergic reaction to wife's off-brand satin sheets.
+- **[1:50:45]** ([[episodes/2025-10-09|2025-10-09]]): Wife banished him to couch; using French tutor (living in garage) as bed warmer; chat claims wife now married to Gizmo.

@@ -1,0 +1,198 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Cold Open & Hype Train Derailment",
+      "start": "00:06",
+      "end": "19:00",
+      "notes": "Pepito delivers station sign-on; Hype Train commandeers broadcast with extended freestyle rap about piss, shit, crack, diapers, and toilets being adult diapers."
+    },
+    {
+      "canonical_segment": "AI Rooney",
+      "title": "AI Slop Check-In: Brother's Generative Videos",
+      "start": "19:00",
+      "end": "26:40",
+      "notes": "Case reviews AI-generated videos from his brother's account including cheese-themed clips, Dracula, Puffy Baron, and prison BTS; hits personal limit around 10 videos."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Gaza Ceasefire Deal & Chicago National Guard Deployment",
+      "start": "26:40",
+      "end": "55:00",
+      "notes": "Reuters report on Israel-Hamas ceasefire/hostage deal; Trump claims credit, Nobel Prize speculation; Pete Hegseth deploys Texas National Guard to Chicago; Rick and Case debate 'Meal Team 6' nicknames and antifa designation."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Town Hall: Pepito & Sentient Cheese Block",
+      "start": "55:00",
+      "end": "1:15:00",
+      "notes": "Pepito and a talking block of cheese take chat questions via !TH; cheese claims cosmic memory from Big Bang, Pepito admits cheese is narcotic, Pepito eats cheese at conclusion."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Chat News with Grandma Crumble Bottom",
+      "start": "1:15:00",
+      "end": "1:43:00",
+      "notes": "Grandma Crumble Bottom (witch form) joins; stories include Korean streamer murder, YouTube second chance program, Luna cloud gaming, Hassan dog shock collar controversy, Jennifer Lopez surgery, bear attacks, OpenAI chip deal, Ubisoft Assassin's Creed cancellation, penis ring medical emergency, Palisades fire arson arrest, Tesla Optimus robot at Tron premiere."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "title": "Crumb and Ash Hole: Immortality Debate",
+      "start": "1:43:00",
+      "end": "1:54:00",
+      "notes": "Crum argues for immortality via Chinese stem therapy/robot bodies; Munch defends death as natural; Crum reveals horns growing from allergic reaction to wife's sheets, marital strain, wife allegedly married to Gizmo."
+    },
+    {
+      "canonical_segment": "DJ C4",
+      "title": "DJ C4: Justin Juice Powers UK Grime Theme (Part 1)",
+      "start": "1:54:00",
+      "end": "2:38:06",
+      "notes": "DJ C4 and ghostwriter construct UK street rap beat and lyrics for Justin Juice Powers theme; includes 'fuckabogic' chorus, Spruce Goose rhymes, South Hampton area code; session runs long, continued Friday."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored broadcast; managed Hype Train derailment, AI slop review, news desk, town hall, and DJ C4 handoff.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on; appeared as town hall guest alongside sentient cheese; claimed cheese is narcotic, identified as Pope, ate cheese guest.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Derailed opening with 9-minute freestyle rap equating toilets to adult diapers, covering piss, shit, crack, and diapers.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "recurring",
+      "notes": "recurring. Co-hosted news desk; did impressions (De Niro, Cage, Keanu, Owen Wilson); debated Chicago deployment and 'Meal Team 6' nicknames.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "recurring",
+      "notes": "recurring. Debated immortality vs death; revealed horns growing from allergic reaction to wife's sheets, marital strain, wife allegedly with Gizmo.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "recurring",
+      "notes": "recurring. Defended death as natural part of life; referenced Crum's time in hell; won debate per on-screen score.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Grandma Crumble Bottom",
+      "role": "recurring",
+      "notes": "recurring. Joined Amongst the Web in witch form with beard; provided commentary on chat news stories.",
+      "canonical_name": "Grandma Crumble Bottom",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ C4",
+      "role": "recurring",
+      "notes": "recurring. Produced Justin Juice Powers theme with ghostwriter; constructed UK grime beat and dense internal rhyme lyrics over two-session arc.",
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Ghostwriter",
+      "role": "recurring",
+      "notes": "recurring. Spectral lyricist assisting DJ C4; demanded chat word contributions; crafted UK street rap verses with 'fuckabogic' chorus.",
+      "canonical_name": "Ghostwriter",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Called in via phone during DJ C4 segment; discussed back tattoo/laser removal advice.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[1:52:27] Crum references the mechanical gorilla creditor: 'That gorilla sure is the kind of Hairy I like' — post-resolution callback.",
+      "timestamp": "1:52:27"
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "[1:44:38] Munch references Crum's hell stint: 'You seemed actually happier down there... thriving in a way you just never have up here' — confirms Crum's hell employment canon.",
+      "timestamp": "1:44:38"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Growing small black horns that glow with celestial might, concentrated around genitals, from allergic reaction to wife's off-brand satin sheets.",
+      "timestamp": "1:51:49",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Wife banished him to couch; using French tutor (living in garage) as bed warmer; chat claims wife now married to Gizmo.",
+      "timestamp": "1:50:45",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Claims cheese acts as narcotic: 'like heroin and crack had a baby'; identifies as Pope with limitless power.",
+      "timestamp": "1:00:06",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Sentient Cheese Block",
+      "fact": "Claims cosmic memory from Big Bang singularity; fears best friend betrayal; eaten by Pepito at town hall conclusion.",
+      "timestamp": "1:06:24",
+      "confidence": 0.7
+    },
+    {
+      "entity": "DJ C4",
+      "fact": "Justin Juice Powers theme production extended to two-session arc; UK grime style with 'fuckabogic' chorus and dense internal rhymes.",
+      "timestamp": "1:54:25",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered the Gaza ceasefire agreement and Texas National Guard deployment to Chicago before descending into a town hall where Pepito consumed a sentient cheese block claiming Big Bang memories. Crum and Munch debated immortality, revealing Crum's celestial horn growth and marital collapse, while DJ C4 began a two-session UK grime theme production for Justin Juice Powers that will conclude Friday.",
+  "_meta": {
+    "vod_id": "Qkpp47pjBvw",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 113941,
+    "approx_prompt_tokens": 28485,
+    "transcript_lines": 290
+  }
+}
