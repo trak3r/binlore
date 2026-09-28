@@ -44,16 +44,17 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-09-21|2025-09-21]] | debate analyst. |
 | [[episodes/2025-09-18|2025-09-18]] | debate analyst. |
 | [[episodes/2025-09-15|2025-09-15]] | debate analyst. |
+| [[episodes/2025-09-05|2025-09-05]] | debate analyst. |
 | [[episodes/2025-09-03|2025-09-03]] | debate analyst. |
 | [[episodes/2025-09-02|2025-09-02]] | debate analyst. |
 | [[episodes/2025-08-26|2025-08-26]] | debate analyst. |
-| [[episodes/2025-08-23|2025-08-23]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (122)</summary>
+<summary>Earlier appearances (123)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-08-23|2025-08-23]] | debate analyst. |
 | [[episodes/2025-08-21|2025-08-21]] | debate analyst. |
 | [[episodes/2025-08-11|2025-08-11]] | Debate analyst torments Crum over his missing penis and hell visions while arguing for Gatorade supremacy. |
 | [[episodes/2025-08-02|2025-08-02]] | debate analyst. |
@@ -255,3 +256,5 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[01:39:35]** ([[episodes/2025-09-02|2025-09-02]]): Claims Crum is 'anti-cum' — a cosmic black hole that negates orgasms and erases them from existence [01:39:35].
 - **[01:46:29]** ([[episodes/2025-09-02|2025-09-02]]): Says he paid Crum's $150,000 debt to the Rock-afire gorilla out of kindness, then Crum lost again triggering the punch [01:46:29].
 - **[02:18:46]** ([[episodes/2025-09-03|2025-09-03]]): Claims 'immortal God, essentially' status referencing skeleton transformation [02:18:46].
+- **[[02:59:38]]** ([[episodes/2025-09-05|2025-09-05]]): Claims personal creation of the Furby toy line during closing monologue.
+- **[[01:29:26]]** ([[episodes/2025-09-05|2025-09-05]]): Confirms Thursday 9/11 2pm special stream to enter the wall and rescue Crum from hell.

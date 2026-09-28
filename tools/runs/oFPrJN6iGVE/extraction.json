@@ -1,0 +1,246 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "00:01",
+      "end": "08:01",
+      "title": "Cold Open: Pepito Sign-On & Peter Gibbon Wall Check-In",
+      "notes": "Pepito delivers the station sign-on rap from the control room; Peter Gibbon checks in from inside the studio wall, counting down from 10."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "08:01",
+      "end": "11:47",
+      "title": "Friday Opening & Weekend Banter",
+      "notes": "Case Blackwell opens the Friday broadcast, acknowledges chat, and riffs on The Weeknd's real name (Abel Tesfay) and the concept of weekends."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "11:47",
+      "end": "14:58",
+      "title": "Technical Troubleshooting: Crum Voice Test",
+      "notes": "Case troubleshoots Crum's voice filter, confirming it should sound like Bart Simpson, not Joe Biden; Pepito assists from the control room."
+    },
+    {
+      "canonical_segment": "Hype Train",
+      "start": "15:51",
+      "end": "20:05",
+      "title": "Hype Train: 'Under the Piss' Freestyle",
+      "notes": "Hype Train delivers a surreal freestyle about living under the ocean as a 'sea train' drinking train piss, acknowledging subscriber milestones."
+    },
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "start": "21:10",
+      "end": "31:40",
+      "title": "Chet Guy the Science Eyes: Whale Piss Oceanography",
+      "notes": "Chet and ChetAI analyze marine urine volumes, citing studies on fin whale daily output (257 gallons) and concluding the ocean is ~0.2% piss."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "31:40",
+      "end": "39:06",
+      "title": "Jeff Ripple Segment & Kendall Walk-Through",
+      "notes": "Jeff Ripple appears for a Friday news dump; Kendelle walks through with signature theme music, shows off a Cats Eye TikTok repost of her dancing."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "39:06",
+      "end": "01:21:05",
+      "title": "Main News: Wired Surrogacy Investigation",
+      "notes": "Case and Ripple read through a lengthy Wired article about a VC (Bea) harassing her surrogate (Rebecca Smith) after a stillbirth, covering contract breaches, Facebook doxxing, psychic accusations, and the power imbalance in the $5B surrogacy industry."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "start": "01:24:59",
+      "end": "01:40:48",
+      "title": "Munch & Crum Debate: Jello vs. Pudding",
+      "notes": "Munch argues for Jello (science miracle, not Bill Cosby-adjacent); Crum (in Bart Simpson voice) defends pudding. Munch announces Thursday 9/11 2pm wall stream to rescue Crum from hell."
+    },
+    {
+      "canonical_segment": "DJ C4",
+      "start": "02:09:03",
+      "end": "02:57:37",
+      "title": "DJ C4: 'Crumb All Over Me' Song Production",
+      "notes": "DJ C4 writes and records an original R&B track 'Crumb All Over Me' with ghostwriter, vocalist Marfus Darfus, and Jeb Nogget on the bridge; lyrics center on messy eating, crumbs, and blankets."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "02:57:37",
+      "end": "03:05:05",
+      "title": "Munch Closing Monologue & Raid",
+      "notes": "Munch holds court in the secondary studio, discourses on cursed objects (claims Furby creation), confirms Thursday wall stream, banters with Pepito, and raids Statics Later."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the Friday broadcast, read the Wired surrogacy investigation, moderated the Jello vs. Pudding debate, and oversaw DJ C4 song production.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered the cold-open sign-on rap, managed Crum's voice filter troubleshooting, and bantered with Munch during the close.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Checked in from inside the studio wall at top of show, counting down from 10 before the broadcast proper began.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Voice filter tested and confirmed as Bart Simpson; appeared in Munch & Crum debate defending pudding while Munch announced the Thursday wall rescue.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued for Jello in the debate, announced Thursday 9/11 2pm wall stream to rescue Crum from hell, and delivered a closing monologue claiming credit for creating the Furby.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Delivered a 'piss'-themed freestyle acknowledging subs, declaring the ocean is made of piss and he is a sea train living under it.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Hosted Chet Guy the Science Eyes with ChetAI, analyzing whale urine volumes and concluding the ocean is ~0.2% piss.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "AI co-host",
+      "notes": "AI co-host. Co-hosted the science segment with Chet, processing marine biology data and triggering on the word 'science'.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Delivered the Friday news dump and co-read the Wired surrogacy investigation with Case.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through the studio with signature theme music, showed off a Cats Eye TikTok repost of her dancing, and participated in the DJ C4 songwriting session.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ C4",
+      "role": "musical producer",
+      "notes": "musical producer. Produced the original track 'Crumb All Over Me,' coordinating ghostwriter, Marfus Darfus, and Jeb Nogget for verses and bridge.",
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Marfus Darfus",
+      "role": "guest vocalist",
+      "notes": "guest vocalist. Sang the verses and choruses for 'Crumb All Over Me' in a sensual R&B style, adjusting tempo on direction.",
+      "canonical_name": "Marfus Darfus",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "guest vocalist",
+      "notes": "guest vocalist. Performed the bridge for 'Crumb All Over Me,' referencing his recent reconstructive surgery after a 50-foot well fall.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Join the Wall",
+      "beat": "Munch formally announces Thursday 9/11 at 2pm wall stream to enter the crawlspace and rescue Crum from hell, citing guilt over Crum's condition.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Munch references 'Penis Day' and Crum's groin-punch liability during the debate; Crum's Bart Simpson voice confirmed as post-hell state.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Claims personal creation of the Furby toy line during closing monologue.",
+      "timestamp": "[02:59:38]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "Suffered a 50-foot fall into a dry stone well, requiring reconstructive facial surgery.",
+      "timestamp": "[02:52:47]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Voice filter permanently set to Bart Simpson; Case confirms this is intentional and not the Biden voice.",
+      "timestamp": "[14:27]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Expands personal mythology: identifies as a 'sea train' living under the ocean, drinking train piss which becomes ocean piss.",
+      "timestamp": "[15:51]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Confirms Thursday 9/11 2pm special stream to enter the wall and rescue Crum from hell.",
+      "timestamp": "[01:29:26]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News aired a sprawling Friday edition featuring a deep-dive into a Wired investigation of surrogacy harassment, a Chet Guy the Science Eyes segment quantifying whale urine in the ocean (0.2%), and a surreal Hype Train freestyle about living under the piss. The Munch & Crum debate over Jello vs. Pudding served as cover for Munch's announcement of a Thursday 9/11 2pm wall stream to rescue Crum from hell. The broadcast closed with DJ C4 producing an original track 'Crumb All Over Me' featuring Marfus Darfus and Jeb Nogget, followed by a Munch monologue claiming Furby creation credit and a raid on Statics Later.",
+  "_meta": {
+    "vod_id": "oFPrJN6iGVE",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 153576,
+    "approx_prompt_tokens": 38394,
+    "transcript_lines": 455
+  }
+}

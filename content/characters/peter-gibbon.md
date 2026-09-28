@@ -45,6 +45,7 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2026-05-29|2026-05-29]] | Mentioned as a stowaway causing a chaos portal incident. |
 | [[episodes/2026-03-07|2026-03-07]] | Referenced by Case during wrap-up as 'Jeff' in the newsroom. |
 | [[episodes/2025-09-21|2025-09-21]] | news stowaway. |
+| [[episodes/2025-09-05|2025-09-05]] | news stowaway. |
 | [[episodes/2025-09-03|2025-09-03]] | news stowaway. |
 | [[episodes/2025-08-26|2025-08-26]] | news stowaway. |
 | [[episodes/2025-08-23|2025-08-23]] | news stowaway. |
@@ -55,13 +56,13 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2025-06-28|2025-06-28]] | news stowaway. |
 | [[episodes/2025-06-17|2025-06-17]] | news stowaway. |
 | [[episodes/2025-06-11|2025-06-11]] | news stowaway. |
-| [[episodes/2025-06-05|2025-06-05]] | news stowaway. |
 
 <details>
-<summary>Earlier appearances (61)</summary>
+<summary>Earlier appearances (62)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-06-05|2025-06-05]] | news stowaway. |
 | [[episodes/2025-05-23|2025-05-23]] | news stowaway. |
 | [[episodes/2025-05-21|2025-05-21]] | news stowaway. |
 | [[episodes/2025-05-14|2025-05-14]] | news stowaway. |

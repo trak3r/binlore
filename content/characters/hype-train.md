@@ -56,7 +56,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-06-22|2026-06-22]] | High-velocity musical correspondent who confesses to cheating on his Panther girlfriend, discusses beats, and provides cultural commentary throughout the pre-show. |
 
 <details>
-<summary>Earlier appearances (76)</summary>
+<summary>Earlier appearances (77)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -70,6 +70,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2025-09-21|2025-09-21]] | musical/cultural correspondent. |
 | [[episodes/2025-09-18|2025-09-18]] | hype announcer. |
 | [[episodes/2025-09-15|2025-09-15]] | musical/cultural interruption. |
+| [[episodes/2025-09-05|2025-09-05]] | musical interruption. |
 | [[episodes/2025-08-21|2025-08-21]] | musical interruption. |
 | [[episodes/2025-08-11|2025-08-11]] | Derails the top of the show with a ten-minute piss-themed freestyle rap incorporating subscriber thanks and ball-based urine storage theory. |
 | [[episodes/2025-07-30|2025-07-30]] | musical interruption. |
@@ -208,3 +209,4 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[14:17]** ([[episodes/2025-05-14|2025-05-14]]): Hype Train establishes Papito/Pepito as God of hell; denizens worship via bits/subs.
 - **[19:19]** ([[episodes/2025-05-14|2025-05-14]]): Hype Train lore: hell denizens chug chunky piss and eat piss cakes (frozen piss with cake chunks) as sacrament.
 - **[12:09]** ([[episodes/2025-06-26|2025-06-26]]): Hell has new middle management making conditions 'extra shitty'; escape requires passing through permeable membrane described as 'Hell's Hymen' that has regrown stronger.
+- **[[15:51]]** ([[episodes/2025-09-05|2025-09-05]]): Expands personal mythology: identifies as a 'sea train' living under the ocean, drinking train piss which becomes ocean piss.
