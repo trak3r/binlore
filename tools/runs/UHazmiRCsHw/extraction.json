@@ -1,0 +1,109 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "02:48",
+      "canonical_segment": "News",
+      "title": "Cold Open & Hamtaro Launch",
+      "notes": "Pepito delivers station sign-on; technical difficulties plague hamster puzzle game launch."
+    },
+    {
+      "start": "02:48",
+      "end": "01:06:22",
+      "canonical_segment": "News",
+      "title": "Hamtaro Gameplay Marathon",
+      "notes": "Case plays $15 hamster puzzle knockoff through multiple levels; Kendelle invited but declines for D&D."
+    },
+    {
+      "start": "01:06:22",
+      "end": "01:24:34",
+      "canonical_segment": "News",
+      "title": "Stream Meta Discussion & Wrap",
+      "notes": "Case discusses growth strategies, TikTok ban extension, sketch projects, and negative viewer-per-hour metric."
+    },
+    {
+      "start": "01:24:34",
+      "end": "01:25:02",
+      "canonical_segment": "News",
+      "title": "Raid to underlock V",
+      "notes": "Broadcast ends with outgoing raid to fellow hamster streamer."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open and manages technical launch of hamster game.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "anchor. Hosts solo gameplay stream of hamster puzzle knockoff; discusses streaming economics and sketch projects.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Referenced as declining to play due to D&D engagement; does not appear on camera.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "timestamp": "31:18",
+      "entity": "",
+      "fact": "Case purchased a $15 \"not Hamtaro\" hamster puzzle game knockoff.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "32:48",
+      "entity": "Kendelle",
+      "fact": "Kendelle declined appearance due to D&D social engagement.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:09:12",
+      "entity": "",
+      "fact": "Case's channel metrics show negative 0.16 viewers per hour.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:20:20",
+      "entity": "",
+      "fact": "TikTok enforcement extended to June 19th on progressive 90-day lease.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:19:47",
+      "entity": "",
+      "fact": "Case developing YouTube series with sketch group.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:20:52",
+      "entity": "",
+      "fact": "Case's Jurassic Park sketch reached ~200k views on Instagram.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell hosts an extended gameplay session of a $15 hamster puzzle game knockoff, fielding technical difficulties and chat interaction while discussing streaming growth strategies, TikTok's regulatory status, and his sketch comedy projects. Executive Producer Pepito delivers the cold open before yielding the desk. The broadcast concludes with a raid on fellow hamster streamer underlock V.",
+  "_meta": {
+    "vod_id": "UHazmiRCsHw",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 36253,
+    "approx_prompt_tokens": 9063,
+    "transcript_lines": 75
+  }
+}
