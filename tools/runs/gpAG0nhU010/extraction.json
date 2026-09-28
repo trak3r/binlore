@@ -1,0 +1,162 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "13:00",
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on as executive producer; Case and Pepito banter about fruit snacks, DOGE checks, and stream technicalities before transitioning to news."
+    },
+    {
+      "start": "13:08",
+      "end": "37:00",
+      "canonical_segment": "News",
+      "title": "No Kings Protests & Trump AI Feces Video",
+      "notes": "Case and Rick discuss the nationwide No Kings protests (Case attended Glendale with Kasim; Dave Foley spotted); Trump posts AI video on Truth Social depicting himself dumping feces on protesters; Rick defends presidential 'artistic expression.'"
+    },
+    {
+      "start": "37:11",
+      "end": "57:00",
+      "canonical_segment": "News",
+      "title": "Gaza Ceasefire Violations & Dropsite News Summary",
+      "notes": "Case and Rick read Dropsite News rundown: Israeli forces killed 80+ Palestinians since ceasefire began, bulldozer detonated own unexploded ordnance then blamed Hamas, Katz threatens 'yellow line' executions; Trump administration reportedly wants ceasefire to hold but attention span questioned."
+    },
+    {
+      "start": "58:58",
+      "end": "1:17:30",
+      "canonical_segment": "News",
+      "title": "Trent at the Movies: Sipan & Fruithead/Gushers Short Film",
+      "notes": "Case watches UK-only football trailer 'Sipan' (Roy Keane biopic) and a nine-minute Gushers commercial 'Fruithead' starring a strawberry-headed man; debates whether nine-minute runtime qualifies as trailer or short film."
+    },
+    {
+      "start": "1:17:36",
+      "end": "1:36:15",
+      "canonical_segment": "Town Hall",
+      "title": "Town Hall Monday with Hate Sock & Little Tommy Big Law",
+      "notes": "Hate Sock and Case's lawyer Little Tommy Big Law field viewer questions via !th command; topics include Hype Train fuel, dino nugget sauces, Hamtaro resurrection theology, John Cronus death hoax, and Hate Sock's hypothetical horror segment; segment ends with musical sign-off."
+    },
+    {
+      "start": "1:36:15",
+      "end": "1:42:08",
+      "canonical_segment": "News",
+      "title": "Kendall Walk-Through, Beyblade Update & Raid",
+      "notes": "Kendall appears with massive Chuck E. Cheese head prop; Case announces Beyblade gold hit, plans four-way Beyblade bet-off for Friday pending betting mechanism; Chet briefly appears twerking; stream ends with raid to Golden Boy."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored broadcast covering No Kings protests, Gaza ceasefire violations, movie trailers, and Town Hall; attended Glendale protest with Kasim; announced Friday Beyblade bet-off.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on; demanded 10,000 miles of fruit tape; bantered about DOGE checks and stream pacing.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "correspondent",
+      "notes": "correspondent. Joined for Amongst the Web-style segment; read Dropsite News Gaza summary; claimed CIA recruitment at 16 and high school rap battle history.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Commandeered broadcast during ceasefire discussion; demanded Care Bear Cousins trap beat; freestyled about Care Bears and 'puffing on loud.'",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hate Sock",
+      "role": "town hall panelist",
+      "notes": "town hall panelist. Joined from sock drawer for Town Hall Monday; responded to all questions with 'dumbass' and 'you wish'; threatened cease-and-desist over mimicry.",
+      "canonical_name": "Hate Sock",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Little Tommy Big Law",
+      "role": "town hall panelist",
+      "notes": "town hall panelist. Case's lawyer billing thousands per appearance; answered food questions (ketchup on everything, non-spicy teriyaki wings); declared Hamtaro devotion.",
+      "canonical_name": "Little Tommy Big Law",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendall",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through with giant Chuck E. Cheese head prop; computer recently repaired (crashes less); declined to twerk or stream Minesweeper.",
+      "canonical_name": "Kendall",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Briefly appeared at stream end to demonstrate twerking technique per chat request.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[1:40:11] Case confirms Beyblade gold hit; plans four-way Beyblade bet-off for Friday pending betting mechanism setup.",
+      "timestamp": "1:40:11"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "16:23",
+      "entity": "",
+      "fact": "Case attended No Kings protest in Glendale with Kasim on Saturday; Dave Foley (Kids in the Hall) was present and posted Kasim on Instagram.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:38:21",
+      "entity": "",
+      "fact": "Kendall's computer repaired — crashed once but no longer daily crashes.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:40:11",
+      "entity": "",
+      "fact": "Beyblade Tournament betting mechanism still needs configuration for Friday four-way bet-off.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:41:33",
+      "entity": "",
+      "fact": "Case cites football injuries preventing effective twerking.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell covers the nationwide No Kings protests and Trump's AI-generated feces video before Rick delivers a Dropsite News briefing on accelerating Gaza ceasefire violations including an Israeli bulldozer self-detonation blamed on Hamas. The broadcast detours through a UK football trailer and a nine-minute Gushers commercial, then convenes Town Hall Monday with Hate Sock and Little Tommy Big Law fielding chaotic viewer questions. Kendall appears with a Chuck E. Cheese head prop, and Case announces a Friday four-way Beyblade bet-off before raiding Golden Boy.",
+  "_meta": {
+    "vod_id": "gpAG0nhU010",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 86267,
+    "approx_prompt_tokens": 21566,
+    "transcript_lines": 240
+  }
+}

@@ -75,5 +75,6 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/ghostwriter|Ghostwriter]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
 | [[characters/jake|Jake]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
 | [[characters/robbie-love|Robbie Love]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
+| [[characters/little-tommy-big-law|Little Tommy Big Law]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
 
 See also: [[../storylines/crum-dick-punch|Crum Dick Punch]], [[../segments/munch-and-crum|Munch & Crum]].

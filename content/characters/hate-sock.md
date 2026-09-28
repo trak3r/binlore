@@ -56,6 +56,7 @@ Due to his hostile reception and instant notoriety among viewers, Case and produ
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
 | [[episodes/2026-06-03|2026-06-03]] | Dark charcoal puppet with googly eyes. Mentioned in chat during AI Rooney segment: 'hate sock loves cute animal videos new segment'. |
 | [[episodes/2026-03-07|2026-03-07]] | Testifies from a paper bag; engages in rap battle with Mudbutter; declares Crum guilty and offends existence. |
+| [[episodes/2025-10-20|2025-10-20]] | town hall panelist. |
 | [[episodes/2025-08-21|2025-08-21]] | puppet correspondent. |
 | [[episodes/2025-07-29|2025-07-29]] | puppet bit character. |
 | [[episodes/2025-07-24|2025-07-24]] | sock puppet. |
