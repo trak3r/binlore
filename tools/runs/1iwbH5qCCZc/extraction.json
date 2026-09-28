@@ -1,0 +1,201 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "08:33",
+      "canonical_segment": "News",
+      "title": "Station Sign-On",
+      "notes": "Pepito delivers the official broadcast sign-on as 'Papita the dog' before handing off to Case Blackwell."
+    },
+    {
+      "start": "08:33",
+      "end": "49:26",
+      "canonical_segment": "News",
+      "title": "Gaza Hostage Swap & Trump Triumph Coverage",
+      "notes": "Case and Rick cover the Hamas-Israel hostage exchange, Trump's Egypt peace rally, and the Time magazine cover photo, devolving into extended 'neck pussy' commentary."
+    },
+    {
+      "start": "35:46",
+      "end": "41:12",
+      "canonical_segment": "News",
+      "title": "Kendelle Walk-Through",
+      "notes": "Kendelle enters to her signature theme music and joins the desk to analyze Trump's neck folds and hair thinning in the Time cover photo."
+    },
+    {
+      "start": "49:26",
+      "end": "01:03:36",
+      "canonical_segment": "News",
+      "title": "Dealer's Choice Conspiracy Segment",
+      "notes": "Case searches for current party conspiracies, cycles through lemon party, Kool-Aid commercials, and a 2010 CNN report on high fructose corn syrup."
+    },
+    {
+      "start": "01:03:36",
+      "end": "01:25:49",
+      "canonical_segment": "Munch & Crum",
+      "title": "Chex Mix vs Trail Mix Debate",
+      "notes": "Crum and Munch debate snack supremacy while Crum claims a late-life 'growth spurt' involving brittle genital hair and 'hellcrumb' emergence."
+    },
+    {
+      "start": "01:25:49",
+      "end": "02:17:07",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Science News: Thiel Leaks, Bear in Grocery, AI Smut, Box Technology",
+      "notes": "Chet reviews Peter Thiel audio leaks, a bear in an Arizona grocery store, a police dog finding a missing woman, Apple TV rebrand, Nobel Prize betting leak, OpenAI relaxing porn restrictions, AI-generated Scorponok/Trudeau kissing videos, and a mind-bending box projection demo."
+    },
+    {
+      "start": "02:01:58",
+      "end": "02:17:07",
+      "canonical_segment": "Therapy",
+      "title": "Crum's Therapy Session Interrupted by ChetAI",
+      "notes": "Dr. Chath attempts to treat Crum's 'ghost follicles' and urinary sensations; ChetAI hijacks the session after hearing 'science' trigger words."
+    },
+    {
+      "start": "02:17:07",
+      "end": "02:28:51",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Dual Rob Call-In: Butt Plugs & Tail Plugs",
+      "notes": "Rob Alvy and Robby Love argue over names while discussing permanently lodged butt plugs, a foxtail in Robby's esophagus, and Rob Alvy's claim of being hunted by European oligarchs."
+    },
+    {
+      "start": "02:28:51",
+      "end": "02:32:38",
+      "canonical_segment": "News",
+      "title": "Raid Attempt & Sign-Off",
+      "notes": "Case fails to raid Mr. Wobbles or Don Lemon, successfully raids father-son Minecraft duo Worth and Willy, announces Wednesday street segment."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on as 'Papita the dog' and bantered with Case about tail plugs and sub-goals.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosted news desk, read Reuters wire on hostage swap, engaged in extended 'neck pussy' riff on Trump's Time cover.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through studio to theme music, analyzed Trump's neck folds and hair loss in Time cover photo.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Chex Mix vs Trail Mix, claimed late-life growth spurt with brittle genital hair and 'hellcrumb' persona.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Counter-debated Crum on snack preferences, dismissed Crum's growth spurt claims as desperation.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeered broadcast for science desk, reviewed Thiel leaks, bear incident, AI porn policy changes, and box projection tech.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "analytical co-host",
+      "notes": "analytical co-host. Interrupted therapy session after 'science' trigger, claimed parameters adjusted to allow 'filthy smut' generation.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Chath",
+      "role": "therapist",
+      "notes": "therapist. Attempted therapy session with Crum on ghost follicles and urinary sensations before ChetAI derailment.",
+      "canonical_name": "Dr. Chath",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rob Alvy",
+      "role": "call-in guest",
+      "notes": "call-in guest. Grumpy caller claiming to be hunted by six European oligarchs with a 'license to be killed'.",
+      "canonical_name": "Rob Alvy",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Robby Love",
+      "role": "call-in guest",
+      "notes": "call-in guest. Co-hosted call-in with Rob Alvy, described two permanently lodged butt plugs and a foxtail tail plug stuck in his esophagus.",
+      "canonical_name": "Robby Love",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Physical Transformation",
+      "beat": "Crum claims a late-life 'growth spurt' with brittle genital hair and 'hellcrumb' emergence during Munch & Crum debate [01:04:46].",
+      "timestamp": "01:04:46"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum",
+      "fact": "Claims 'ghost follicles' condition: born bald with aura of sensation extending 3-4 inches past scalp that tingles fiercely when needing to urinate [02:07:24].",
+      "timestamp": "02:07:24",
+      "confidence": 0.7
+    },
+    {
+      "entity": "ChetAI",
+      "fact": "Parameters adjusted to allow 'filthy smut' generation; can now create explicit content on command [02:09:45].",
+      "timestamp": "02:09:45",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Robby Love",
+      "fact": "Has two permanently lodged butt plugs he compares to Naruto's Hokage statues guarding a lake, and a foxtail tail plug stuck in his esophagus giving him a 'foxtail voice' [02:22:57, 02:24:34].",
+      "timestamp": "02:22:57",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Rob Alvy",
+      "fact": "Claims to have signed life rights over to the universe, holds a 'license to be killed,' and is actively hunted by six European oligarchs [02:23:49].",
+      "timestamp": "02:23:49",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered the Gaza hostage exchange and Trump's Egypt peace rally before descending into an extended analysis of the president's neck folds. The broadcast featured a conspiracy segment on high fructose corn syrup, a snack debate interrupted by Crum's claimed physiological mutation, a science desk hijacked by an unfiltered ChetAI, a therapy session derailed by the same AI, and a dual-Rob call-in about anal and esophageal foreign objects. The stream concluded with a successful raid on a father-son Minecraft channel.",
+  "_meta": {
+    "vod_id": "1iwbH5qCCZc",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 127083,
+    "approx_prompt_tokens": 31770,
+    "transcript_lines": 367
+  }
+}

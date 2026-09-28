@@ -51,17 +51,18 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity and Dick Punch wager. |
 | [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (hollow-eyed, bald). Argues for political decorum, reveals Dubai 'classified' social life, honey-bag therapy, claims penile conditioning for gorilla dick-punch. |
 | [[episodes/2026-03-07|2026-03-07]] | Stands trial for peen.ui IP infringement; reveals he co-founded peen.ui, has a 'nasty pig room,' and suffers from labia growing on his… |
+| [[episodes/2025-10-13|2025-10-13]] | debate analyst. |
 | [[episodes/2025-10-02|2025-10-02]] | debate analyst. |
 | [[episodes/2025-09-29|2025-09-29]] | debate analyst. |
 | [[episodes/2025-09-26|2025-09-26]] | debate analyst. |
 | [[episodes/2025-09-25|2025-09-25]] | debate analyst. |
-| [[episodes/2025-09-21|2025-09-21]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (135)</summary>
+<summary>Earlier appearances (136)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-09-21|2025-09-21]] | debate analyst. |
 | [[episodes/2025-09-18|2025-09-18]] | debate analyst. |
 | [[episodes/2025-09-15|2025-09-15]] | debate analyst. |
 | [[episodes/2025-09-11|2025-09-11]] | debate analyst. |
@@ -375,3 +376,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[]** ([[episodes/2025-10-02|2025-10-02]]): Claims six billion children from hell lawsuits, five billion shared fungal consciousness; asserts hell law is only law applying on Earth. [01:14:24]
 - **[1:51:49]** ([[episodes/2025-10-09|2025-10-09]]): Growing small black horns that glow with celestial might, concentrated around genitals, from allergic reaction to wife's off-brand satin sheets.
 - **[1:50:45]** ([[episodes/2025-10-09|2025-10-09]]): Wife banished him to couch; using French tutor (living in garage) as bed warmer; chat claims wife now married to Gizmo.
+- **[02:07:24]** ([[episodes/2025-10-13|2025-10-13]]): Claims 'ghost follicles' condition: born bald with aura of sensation extending 3-4 inches past scalp that tingles fiercely when needing to urinate [02:07:24].

@@ -40,6 +40,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2026-06-05|2026-06-05]] | Senior debate analyst with distinctive disheveled appearance and confrontational debate style. |
 | [[episodes/2026-05-26|2026-05-26]] | Senior debate analyst known for his disheveled silver hair and combative political style. Engages in heated exchanges with Crum and frequently references his 'Dick Punch' wager storyline. |
 | [[episodes/2026-03-07|2026-03-07]] | Appears in wizard attire as immortal skeleton; confirms he is a warlock; missed the trial but compares it to ancient druidic proceedings. |
+| [[episodes/2025-10-13|2025-10-13]] | debate analyst. |
 | [[episodes/2025-10-04|2025-10-04]] | debate analyst. |
 | [[episodes/2025-10-02|2025-10-02]] | debate analyst. |
 | [[episodes/2025-09-29|2025-09-29]] | debate analyst. |
@@ -47,13 +48,13 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-09-25|2025-09-25]] | debate analyst. |
 | [[episodes/2025-09-21|2025-09-21]] | debate analyst. |
 | [[episodes/2025-09-18|2025-09-18]] | debate analyst. |
-| [[episodes/2025-09-15|2025-09-15]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (129)</summary>
+<summary>Earlier appearances (130)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-09-15|2025-09-15]] | debate analyst. |
 | [[episodes/2025-09-11|2025-09-11]] | debate analyst. |
 | [[episodes/2025-09-10|2025-09-10]] | debate analyst. |
 | [[episodes/2025-09-05|2025-09-05]] | debate analyst. |
