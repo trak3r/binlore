@@ -1,0 +1,165 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "08:00",
+      "canonical_segment": "News",
+      "title": "Cold Open & Network Sign-On",
+      "notes": "Pepito delivers the top-of-hour sign-on as executive producer; Case Blackwell prepares for the Friday broadcast."
+    },
+    {
+      "start": "08:00",
+      "end": "48:56",
+      "canonical_segment": "News",
+      "title": "Harvard Foreign Student Ban Blocked & Golden Dome Missile Defense",
+      "notes": "Case and Rick debate a federal judge blocking Trump's Harvard international student enrollment ban; Trump announces $175B Golden Dome space-based missile defense system targeting three-year deployment."
+    },
+    {
+      "start": "48:56",
+      "end": "01:00:19",
+      "canonical_segment": "News",
+      "title": "Peter Gibbon's 'Big Hat' Conspiracy",
+      "notes": "News stowaway Peter Gibbon hijacks the feed with purported hidden-camera footage alleging Case rigged his 'Big Hat' idea-pulling stream; demands Case use his mailed-in soup-eating idea."
+    },
+    {
+      "start": "01:00:19",
+      "end": "01:31:57",
+      "canonical_segment": "News",
+      "title": "AI Slop Showcase: OpenAI/Johnny Ive Deal & Veo 3 Generations",
+      "notes": "Case and Rick react to OpenAI's $6.5B acquisition of Johnny Ive's IO Products for AI hardware; watch Sam Altman/Ive promotional video; screen AI-generated video clips including BIN deepfakes and brain-rot animal trailers."
+    },
+    {
+      "start": "01:31:57",
+      "end": "03:08:00",
+      "canonical_segment": "DJ C4",
+      "title": "DJ C4 Celtic Dubstep Production: 'Rockin' in the Green Screen'",
+      "notes": "Case's second cousin DJ C4 debuts his music-production segment with ghost writer and artist Rory Blarneystone; chaotic Pro Tools session yields a completed Irish-themed dubstep/trap track after multiple vocal takes and ad-lib passes."
+    },
+    {
+      "start": "03:08:00",
+      "end": "03:10:17",
+      "canonical_segment": "News",
+      "title": "Wrap-Up & Pre-Expo Raid Announcement",
+      "notes": "Case closes the broadcast, announces Sunday OTK stream with Bruce Green, exports vocal stems to Discord, and ends on a pre-Expo raid for Bruce Green."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the Friday broadcast; debated Harvard ruling and Golden Dome; endured Peter Gibbon's conspiracy; oversaw DJ C4 music segment; voice blown out from screaming during production.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold-open sign-on; bantered about Memorial Day and veterinarian 'valor'; managed DJ C4 segment redemption.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "correspondent",
+      "notes": "correspondent. Co-anchored news desk; possessed by Hype Train mid-segment; debated Golden Dome feasibility; reacted to AI slop showcase.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Possessed Rick for a freestyle rap about Celtic beats and 'chelales'; derailed into family-to-scatological narrative before Rick regained control.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Hijacked broadcast with 'Big Hat' conspiracy video alleging Case rigged his idea-pulling stream; demanded credit for mailed-in soup idea.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ C4",
+      "role": "music producer",
+      "notes": "music producer. Debuted music-production segment as Case's second cousin; recent college grad with Halliburton-funded studio; struggled with Pro Tools but completed Celtic dubstep track.",
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Ghost Writer",
+      "role": "ghost writer",
+      "notes": "ghost writer. Free-range ghost co-writing lyrics with DJ C4; claims 200 years of ghostwriting; contributed 'chorus' ad-lib that locked the song.",
+      "canonical_name": "Ghost Writer",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rory Blarneystone",
+      "role": "artist",
+      "notes": "artist. Self-proclaimed pro vocalist; recorded multiple takes for 'Rockin' in the Green Screen'; delivered high-energy ad-libs despite blown-out vocals.",
+      "canonical_name": "Rory Blarneystone",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Brief call-in confirming half-day and dinner plans; appeared on-camera during DJ C4 session; left for dinner with Elena.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "DJ C4",
+      "fact": "Confirmed as Case Blackwell's second cousin; recently graduated college with classic literature degree; owns production studio funded by father (Halliburton owner).",
+      "timestamp": "[01:32:58]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Ghost Writer",
+      "fact": "Identifies as a 'free-range ghost' who chooses to inhabit the ghost writer room; claims 200 years of ghostwriting experience; not confined like other studio ghosts.",
+      "timestamp": "[01:35:06]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Has a 'spine thing' preventing handshakes; voice repeatedly blows out from screaming during music production but recovers within an hour.",
+      "timestamp": "[02:42:57]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Rory Blarneystone",
+      "fact": "Claims to be a professional artist who can 'nail it in one shot'; known for ad-libs; difficult to work with but delivers high-energy performances.",
+      "timestamp": "[02:16:57]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell's Friday broadcast covered a federal judge blocking Trump's Harvard foreign-student ban and the announced $175B Golden Dome missile defense shield. News stowaway Peter Gibbon interrupted with a conspiracy alleging Case rigged his 'Big Hat' idea stream. The show pivoted to an AI slop showcase of OpenAI's Johnny Ive deal and Veo 3 generations, then devoted the final ninety minutes to DJ C4's debut music-production segment where Case's second cousin, a ghost writer, and artist Rory Blarneystone chaotically produced a Celtic dubstep track titled 'Rockin' in the Green Screen'.",
+  "_meta": {
+    "vod_id": "VrnjwHYHoLM",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 138001,
+    "approx_prompt_tokens": 34500,
+    "transcript_lines": 440
+  }
+}

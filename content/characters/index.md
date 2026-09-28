@@ -69,5 +69,6 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/joe-rogan|Joe Rogan]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
 | [[characters/salazar|Salazar]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
 | [[characters/rob-elvie|Rob Elvie]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
+| [[characters/ghost-writer|Ghost Writer]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
 
 See also: [[../storylines/crum-dick-punch|Crum Dick Punch]], [[../segments/munch-and-crum|Munch & Crum]].
