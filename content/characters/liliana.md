@@ -41,6 +41,7 @@ Liliana was absent from *Barely Informed News* for approximately a full year bef
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
 | [[episodes/2026-03-07|2026-03-07]] | Briefly appears during newsroom wrap-up; Case mentions her dedicated theme music. |
 | [[episodes/2025-06-19|2025-06-19]] | desk partner. |
+| [[episodes/2025-06-05|2025-06-05]] | desk partner. |
 | [[episodes/2025-06-02|2025-06-02]] | in-studio contributor. |
 | [[episodes/2025-05-17|2025-05-17]] | desk partner. |
 | [[episodes/2025-05-13|2025-05-13]] | desk partner. |
@@ -56,13 +57,13 @@ Liliana was absent from *Barely Informed News* for approximately a full year bef
 | [[episodes/2025-02-03|2025-02-03]] | Participated in Jambalaya, criticized Kanye outfit as desperate human-trafficking vibes with too-low neckline. |
 | [[episodes/2025-01-29|2025-01-29]] | desk partner. |
 | [[episodes/2025-01-24|2025-01-24]] | desk partner. |
-| [[episodes/2025-01-20|2025-01-20]] | desk partner. |
 
 <details>
-<summary>Earlier appearances (23)</summary>
+<summary>Earlier appearances (24)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-01-20|2025-01-20]] | desk partner. |
 | [[episodes/2024-11-06|2024-11-06]] | desk partner. |
 | [[episodes/2024-10-23|2024-10-23]] | desk partner. |
 | [[episodes/2024-10-08|2024-10-08]] | desk partner. |

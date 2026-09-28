@@ -1,0 +1,221 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "18:00",
+      "canonical_segment": "News",
+      "title": "Cold Open & Hype Train Love Mathematics",
+      "notes": "Pepito delivers sign-on as 'Papita the dog'; Hype Train performs freestyle love/hype equations (love = hype + 2), daily prayer about eating a snail whole."
+    },
+    {
+      "start": "18:00",
+      "end": "41:18",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Penile Correction: Dallas Steel's Robotic Penis",
+      "notes": "Chet corrects prior coverage: adult performer Dallas Steel received a three-piece inflatable penile prosthesis (IPP), not circumcision; pump in scrotum, reservoir in abdomen, cylinders in penis; ChetAI discusses digital phallus philosophy."
+    },
+    {
+      "start": "41:18",
+      "end": "1:31:08",
+      "canonical_segment": "Munch & Crum",
+      "title": "NYC Mayoral Debate Watch & Imaginary Crum vs Munch Mayoral Debate",
+      "notes": "Munch and Crum watch highlights of Zoran Mamdani vs Andrew Cuomo et al.; Crum's gorilla debt corrected to $70k; imaginary debate where Crum claims victory by endorsing Zoran, then claims he won by promoting his enemy."
+    },
+    {
+      "start": "1:31:08",
+      "end": "2:02:08",
+      "canonical_segment": "Amongst the Web",
+      "title": "Clementine Vern Wig Poll & Hair Trade Conspiracy",
+      "notes": "Chat votes on wig for banned character Clementine Vern (colonial wig wins); wig expert Amelia Jabron Kovic consults; Guy delivers conspiracy on global hair trade exploitation, Vietnam ethical sourcing, temple hair donations."
+    },
+    {
+      "start": "2:02:08",
+      "end": "2:41:10",
+      "canonical_segment": "News",
+      "title": "Jeff Ripple Daily News Dump",
+      "notes": "AI chatbot tells recovering addict to use meth; Ozempic linked to penis size increase in UK; cheese facts; Elon Musk's DOGE team leaves cockroaches/funyuns in offices; face massage boosts glymphatic clearance; sun killing Starlink satellites; North Korean phone censors 'oppa' to 'comrade'; Bjorn Ulvaeus writing AI musical; Lionsgate AI rating adjustment; Supreme Court birthright citizenship; DMV scam texts; AMC more ads."
+    },
+    {
+      "start": "2:41:10",
+      "end": "3:01:10",
+      "canonical_segment": "Amongst the Web",
+      "title": "Woodworking Accident, Digital Pet, AI Graduation Edit, Butt Camp, Wicked Trailer",
+      "notes": "Woodworking finger injury clip; Punirunes Tamagotchi with squishy internal button; AI edits dean calling graduate 'Jerkoff'; Michael Jackson church remix; Butt Camp workout; Kendall joins to watch Wicked trailer (rates 4.1/5, wants more dog)."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors broadcast from new house; corrects Chet's penis story; manages Munch/Crum debate and debt ledger; orders food for Kendall.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open as 'Papita the dog'; receives cheese bits; fed and 'in love' per Hype Train math.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical correspondent",
+      "notes": "musical correspondent. Derails sign-on with love/hype algebra (love = hype + 2), daily prayer about eating a snail, declares 'fighting against the darkness'.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commands Science Eyes desk to correct Dallas Steel IPP story; debates Luffy Gear penis mechanics; ChetAI discusses digital phallus ontology.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Gorilla debt corrected to $70k; claims financial genius; argues with Munch over debt increase; imaginary mayoral run ends in self-declared victory.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Manages Crum's debt ledger; reveals he's 'weirdly loaded' per tax processing; argues Crum's finances; gorilla 'votes' for Zoran Mamdani.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "human-interest correspondent",
+      "notes": "human-interest correspondent. Delivers daily news dump from wall-adjacent position; reports rats in wall are 'rangy' and making 'rat music'; hits eject button accidentally.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Guy",
+      "role": "conspiracy correspondent",
+      "notes": "conspiracy correspondent. Returns from 'thin ice' to deliver hair trade conspiracy; threatens MLM assassination against Clementine; claims to have eaten 'cosmic munch'.",
+      "canonical_name": "Guy",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Amelia Jabron Kovic",
+      "role": "guest expert",
+      "notes": "guest expert. Wig expert consulted on Clementine Vern wig poll; claims to be wearing a wig; recommends colonial wig as 'ceremonial cap'.",
+      "canonical_name": "Amelia Jabron Kovic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Arrives for food delivery and Wicked trailer watch; rates trailer 4.1/5; requests more dog in film.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Briefly appears for food delivery interaction; panics and forgets English.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Plays sentimental music during wig segment; lives in wall; 'journey into the wall' sub goal established.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[43:54] Crum's gorilla debt corrected from ~$30k discrepancy to $70k; Munch manages ledger, refuses debt increase; gorilla 'votes' for Zoran Mamdani in imaginary debate.",
+      "timestamp": "43:54"
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "[2:03:13] Jeff Ripple reports wall rats are 'rangy' with 'rat music'; [2:06:33] 'Journey into the wall' sub goal created; Peter Gibbon remains in wall.",
+      "timestamp": "2:03:13"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "[43:54] Gorilla gambling debt corrected to $70,000 after $30k accounting error discovered by Munch.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "[2:07:15] Confirmed 'weirdly loaded' per tax processing of stream donations.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "[9:40] Now lives in a house (not apartment); has been working outside, getting tan.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "[2:17:25] Lives with Case; works late; orders Hawaiian food and Bark's root beer via Postmates.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "[2:03:36] Rats in wall have become smaller, stronger ('rangy'), make non-human music; exterminators missing in wall.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Clementine Vern",
+      "fact": "[1:31:53] Banned pending haircut/wig change; Kendall objects to Russell Brand resemblance and rape allegations; colonial wig poll winner.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Guy",
+      "fact": "[1:44:05] Claims to have 'eaten the cosmic munch'; threatens to start MLM selling nootropics to fund Clementine assassination.",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News broadcasts from Case's new house with a penile correction segment revealing adult performer Dallas Steel's three-piece inflatable prosthesis, followed by Munch and Crum watching the NYC mayoral debate while managing Crum's $70k gorilla debt. The broadcast continues with a wig poll for banned character Clementine Vern, a hair trade conspiracy deep-dive from Guy, Jeff Ripple's news dump covering AI meth advice and Ozempic penis growth, and concludes with Kendall joining for a Wicked trailer watch party.",
+  "_meta": {
+    "vod_id": "dEw-PVo3KCY",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 154072,
+    "approx_prompt_tokens": 38518,
+    "transcript_lines": 456
+  }
+}

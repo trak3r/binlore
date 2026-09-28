@@ -49,19 +49,20 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2025-06-28|2025-06-28]] | news stowaway. |
 | [[episodes/2025-06-17|2025-06-17]] | News Stowaway. |
 | [[episodes/2025-06-11|2025-06-11]] | news stowaway. |
+| [[episodes/2025-06-05|2025-06-05]] | news stowaway. |
 | [[episodes/2025-05-23|2025-05-23]] | news stowaway. |
 | [[episodes/2025-05-21|2025-05-21]] | news stowaway. |
 | [[episodes/2025-05-14|2025-05-14]] | news stowaway. |
 | [[episodes/2025-05-02|2025-05-02]] | news stowaway. |
 | [[episodes/2025-05-01|2025-05-01]] | news stowaway. |
 | [[episodes/2025-04-23|2025-04-23]] | news stowaway. |
-| [[episodes/2025-04-18|2025-04-18]] | Referenced as having had his toes eaten by Papito, confirming his continued wall-dwelling presence. |
 
 <details>
-<summary>Earlier appearances (54)</summary>
+<summary>Earlier appearances (55)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-04-18|2025-04-18]] | Referenced as having had his toes eaten by Papito, confirming his continued wall-dwelling presence. |
 | [[episodes/2025-04-04|2025-04-04]] | news stowaway. |
 | [[episodes/2025-03-31|2025-03-31]] | news stowaway. |
 | [[episodes/2025-03-25|2025-03-25]] | news stowaway. |
@@ -159,3 +160,4 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 - **[01:33:40]** ([[episodes/2025-05-02|2025-05-02]]): Keeping shape-shifting rat named Darfus in studio walls; rat affects minds; possibly conducting interdimensional demonic practices.
 - **[01:08:51]** ([[episodes/2025-05-14|2025-05-14]]): Peter Gibbon: time dilation in wall — one day inside equals ~100 days outside.
 - **[01:22:01]** ([[episodes/2025-05-14|2025-05-14]]): Peter Gibbon: rats in wall have competing faiths causing sectarian violence.
+- **[]** ([[episodes/2025-06-05|2025-06-05]]): [2:03:36] Rats in wall have become smaller, stronger ('rangy'), make non-human music; exterminators missing in wall.

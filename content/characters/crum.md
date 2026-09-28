@@ -58,7 +58,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (113)</summary>
+<summary>Earlier appearances (114)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -70,6 +70,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-06-13|2025-06-13]] | Debate analyst one loss from gorilla execution, reveals $300k debt repayment at $15k per win, pleads for chat mercy. |
 | [[episodes/2025-06-11|2025-06-11]] | debate analyst. |
 | [[episodes/2025-06-07|2025-06-07]] | Debate Analyst. |
+| [[episodes/2025-06-05|2025-06-05]] | debate analyst. |
 | [[episodes/2025-06-02|2025-06-02]] | debate analyst. |
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
@@ -327,3 +328,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[[02:37:15]]** ([[episodes/2025-05-17|2025-05-17]]): Recurring debt payments to gorilla grow ~$500/week in usurious interest; principal manageable but interest 'killing me'.
 - **[[78:11]]** ([[episodes/2025-05-21|2025-05-21]]): Paid $5,000 of gambling debt to Rock-afire gorilla; interest compounds weekly if installment missed.
 - **[[122:23]]** ([[episodes/2025-05-21|2025-05-21]]): Legally obligated to appear on broadcast at least once per month per contract Crum set up.
+- **[]** ([[episodes/2025-06-05|2025-06-05]]): [43:54] Gorilla gambling debt corrected to $70,000 after $30k accounting error discovered by Munch.

@@ -52,15 +52,16 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-24|2025-06-24]] | in-studio contributor. |
 | [[episodes/2025-06-17|2025-06-17]] | In-Studio Contributor. |
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
+| [[episodes/2025-06-05|2025-06-05]] | in-studio contributor. |
 | [[episodes/2025-05-30|2025-05-30]] | in-studio contributor. |
 | [[episodes/2025-05-28|2025-05-28]] | in-studio contributor. |
-| [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (132)</summary>
+<summary>Earlier appearances (133)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
 | [[episodes/2025-05-23|2025-05-23]] | in-studio contributor. |
 | [[episodes/2025-05-21|2025-05-21]] | in-studio contributor. |
 | [[episodes/2025-05-08|2025-05-08]] | in-studio contributor. |
@@ -264,3 +265,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[[113:36]]** ([[episodes/2025-05-21|2025-05-21]]): Confirmed as Case's girlfriend on air during phone call.
 - **[32:48]** ([[episodes/2025-05-28|2025-05-28]]): Kendelle declined appearance due to D&D social engagement.
 - **[[39:22]]** ([[episodes/2025-05-30|2025-05-30]]): Produces how-to dance content (minimus, Mickey Mouse pose) under the 'How To' branding while Jeb is absent.
+- **[]** ([[episodes/2025-06-05|2025-06-05]]): [2:17:25] Lives with Case; works late; orders Hawaiian food and Bark's root beer via Postmates.

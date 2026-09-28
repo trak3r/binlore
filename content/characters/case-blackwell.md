@@ -198,3 +198,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[]** ([[episodes/2025-05-08|2025-05-08]]): Case Blackwell adopts a fishtie as an on-air accessory [08:39]
 - **[[31:47]]** ([[episodes/2025-05-17|2025-05-17]]): Claims 71st percentile penis size (neutral) during tiny-penis history story.
 - **[[02:42:57]]** ([[episodes/2025-05-23|2025-05-23]]): Has a 'spine thing' preventing handshakes; voice repeatedly blows out from screaming during music production but recovers within an hour.
+- **[]** ([[episodes/2025-06-05|2025-06-05]]): [9:40] Now lives in a house (not apartment); has been working outside, getting tan.
