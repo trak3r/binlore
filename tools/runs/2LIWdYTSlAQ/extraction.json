@@ -1,0 +1,212 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "42:34",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Freestyle & Sonic Syndrome Test",
+      "notes": "Hype Train delivers extended freestyle raps over doom trap beats, thanks subscribers, and takes a 'Sonic Syndrome Test' personality quiz, scoring Shadow/Sonic/Metal Sonic/Knuckles. Case takes the same quiz and gets Dr. Eggman/Sonic/Amy Rose."
+    },
+    {
+      "start": "42:34",
+      "end": "78:11",
+      "canonical_segment": "News",
+      "title": "Habeas Corpus & Trump-Ramaphosa Meeting",
+      "notes": "Jeff Ripple joins Case to dissect Kristi Noem's habeas corpus definition error and the Trump-Ramaphosa Oval Office meeting where Trump played a video alleging white genocide in South Africa. Ramaphosa pushed back citing white golfers present."
+    },
+    {
+      "start": "78:11",
+      "end": "90:32",
+      "canonical_segment": "Munch & Crum",
+      "title": "Fish Tie Debate & Gorilla Debt",
+      "notes": "Munch and Crum debate the fish tie; Crum reveals he paid a $5,000 installment to the Rock-afire gorilla but interest accrues weekly. Munch argues chat loves the tie more than Crum's life."
+    },
+    {
+      "start": "90:32",
+      "end": "119:20",
+      "canonical_segment": "News",
+      "title": "Peter Gibbon Video Hour",
+      "notes": "Peter Gibbon emerges from the walls to watch viral videos with Case: singing fish, parachute wedding fail, Ruby Tuesday demolition stunt, metal bending challenge, Japanese prank shows, and a 2013 music clip."
+    },
+    {
+      "start": "119:20",
+      "end": "170:48",
+      "canonical_segment": "News",
+      "title": "Scrum's Clown Party News Cavalcade",
+      "notes": "Scrum reads news under 'clown party' music: Diddy trial testimony, Orson Wells AI tour guide, Lobobu toy frenzy, Fortnite AI Darth Vader, Gearbox CEO on $80 Borderlands, Skibidi Toilet movie, Chicago Sun Times fake books, UFO vs F-16, Scott Adams cancer, fart walks, Biden prostate cancer."
+    },
+    {
+      "start": "170:48",
+      "end": "179:15",
+      "canonical_segment": "News",
+      "title": "Trailer Watch: Tamagotchi, Chief of War, Samurai Cop, House of Kong, Zootopia 2",
+      "notes": "Case and Scrum watch and rate five trailers: Tamagotchi Paradise (game ad), Chief of War (Apple TV+), Samurai Cop (fan trailer), House of Kong exhibition, Zootopia 2 teaser."
+    },
+    {
+      "start": "179:15",
+      "end": "182:01",
+      "canonical_segment": "News",
+      "title": "Certified Gangsta Freestyle Wrap-Up",
+      "notes": "Case, Pepito, Hype Train, Peter, Jeff, Scrum, Rick, and Clementine rap over the 'Certified Gangsta' beat to close the broadcast."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the broadcast, took Sonic quiz (got Eggman), debated fish tie, rapped in finale.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on, appeared in freestyle finale.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype correspondent",
+      "notes": "hype correspondent. Delivered extended doom-trap freestyles, took Sonic quiz (got Shadow/Sonic/Metal Sonic/Knuckles), rapped in finale.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosted News desk on habeas corpus and Trump-Ramaphosa meeting, rapped in finale.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued against fish tie, pressed Crum on gorilla debt, rapped in finale.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defended fish tie, admitted $5k payment to gorilla with weekly interest, rapped in finale.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Emerged from walls for video-watching segment, claimed rat kingdom population control, rapped in finale.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Scrum",
+      "role": "news reader",
+      "notes": "news reader. Read news under clown party music, legally obligated monthly appearance, threatened public murder, rapped in finale.",
+      "canonical_name": "Scrum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Called in briefly; Case confirmed she is his girlfriend.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "Amongst the Web host",
+      "notes": "Amongst the Web host. Appeared only in freestyle finale, rapped about deep state surveillance.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Clementine",
+      "role": "call-in guest",
+      "notes": "call-in guest. Soft-banned viewer who whispered final rap to close stream.",
+      "canonical_name": "Clementine",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[78:11] Crum confirms $5,000 installment paid to Rock-afire gorilla; weekly interest accrues if payments missed. Munch rallies chat for execution.",
+      "timestamp": "78:11"
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[12:35] Case references secret stream where Beyblade tournament idea was pulled from hat; still pending execution.",
+      "timestamp": "12:35"
+    },
+    {
+      "storyline": "Peter Gibbon Wall Residency",
+      "beat": "[90:32] Peter claims he controls rat populations in walls via religious sect conflict; gorilla has own apartment and visits.",
+      "timestamp": "90:32"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum",
+      "fact": "Paid $5,000 of gambling debt to Rock-afire gorilla; interest compounds weekly if installment missed.",
+      "timestamp": "[78:11]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Scrum",
+      "fact": "Legally obligated to appear on broadcast at least once per month per contract Crum set up.",
+      "timestamp": "[122:23]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Confirmed as Case's girlfriend on air during phone call.",
+      "timestamp": "[113:36]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Rock-afire Gorilla",
+      "fact": "Has own apartment; carries keyboard setup to studio; agreed to $5k weekly installments.",
+      "timestamp": "[83:22]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "House of Kong",
+      "fact": "Gorilla exhibition 'House of Kong' exists with 100 gorillas, 2-star rating, behind an unspecified location.",
+      "timestamp": "[165:39]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell opened with an extended Hype Train segment featuring a Sonic personality quiz before moving to News with Jeff Ripple, covering Kristi Noem's habeas corpus gaffe and Trump's contentious meeting with South African President Ramaphosa. Munch and Crum debated the fish tie while Crum's gorilla debt loomed. Peter Gibbon emerged for a video-watching hour, then Scrum delivered a clown-party-scored news cavalcade spanning Diddy, AI Orson Welles, UFOs, and Biden's cancer diagnosis. The broadcast closed with trailer reactions and a multi-character freestyle rap over the 'Certified Gangsta' beat.",
+  "_meta": {
+    "vod_id": "2LIWdYTSlAQ",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 135774,
+    "approx_prompt_tokens": 33943,
+    "transcript_lines": 309
+  }
+}

@@ -49,19 +49,20 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2025-06-28|2025-06-28]] | news stowaway. |
 | [[episodes/2025-06-17|2025-06-17]] | News Stowaway. |
 | [[episodes/2025-06-11|2025-06-11]] | news stowaway. |
+| [[episodes/2025-05-21|2025-05-21]] | news stowaway. |
 | [[episodes/2025-05-14|2025-05-14]] | news stowaway. |
 | [[episodes/2025-05-02|2025-05-02]] | news stowaway. |
 | [[episodes/2025-05-01|2025-05-01]] | news stowaway. |
 | [[episodes/2025-04-23|2025-04-23]] | news stowaway. |
 | [[episodes/2025-04-18|2025-04-18]] | Referenced as having had his toes eaten by Papito, confirming his continued wall-dwelling presence. |
 | [[episodes/2025-04-04|2025-04-04]] | news stowaway. |
-| [[episodes/2025-03-31|2025-03-31]] | news stowaway. |
 
 <details>
-<summary>Earlier appearances (52)</summary>
+<summary>Earlier appearances (53)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-03-31|2025-03-31]] | news stowaway. |
 | [[episodes/2025-03-25|2025-03-25]] | news stowaway. |
 | [[episodes/2025-03-19|2025-03-19]] | news stowaway. |
 | [[episodes/2025-03-04|2025-03-04]] | news stowaway. |

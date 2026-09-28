@@ -53,14 +53,15 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-17|2025-06-17]] | In-Studio Contributor. |
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-05-27|2025-05-27]] | in-studio contributor. |
+| [[episodes/2025-05-21|2025-05-21]] | in-studio contributor. |
 | [[episodes/2025-05-08|2025-05-08]] | in-studio contributor. |
-| [[episodes/2025-05-03|2025-05-03]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (128)</summary>
+<summary>Earlier appearances (129)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-05-03|2025-05-03]] | in-studio contributor. |
 | [[episodes/2025-05-02|2025-05-02]] | in-studio contributor. |
 | [[episodes/2025-05-01|2025-05-01]] | in-studio contributor. |
 | [[episodes/2025-04-25|2025-04-25]] | in-studio contributor. |
@@ -257,3 +258,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[[01:37:12]]** ([[episodes/2025-04-25|2025-04-25]]): Has a new job (undisclosed) and is completing W2 paperwork; Case built her streaming PC but she reports ongoing camera issues.
 - **[]** ([[episodes/2025-05-01|2025-05-01]]): In Boston leaving tomorrow; movie at 7 PM (Case thought 8 PM) [1:51:10, 1:57:28]
 - **[01:58:15]** ([[episodes/2025-05-02|2025-05-02]]): Family moved from New York due to 9/11; prefers NY Chinese food; acts as Case's 'influencer manager' for content monetization.
+- **[[113:36]]** ([[episodes/2025-05-21|2025-05-21]]): Confirmed as Case's girlfriend on air during phone call.

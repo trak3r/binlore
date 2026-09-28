@@ -103,6 +103,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2025-05-05|2025-05-05]] [01:21:23] | [01:21:23] Crum confirms $125,000 debt to Rock-afire gorilla; Munch references $5k per debate win payout and Crum's side-picking privilege. |
 | [[../episodes/2025-05-14|2025-05-14]] [55:14] | [55:14] Crum confirms $120k debt to mechanical gorilla; advocates pineapple exterior to win chat vote and avoid groin punch. |
 | [[../episodes/2025-05-17|2025-05-17]] [02:37:15] | [02:37:15] Crum appears on Trip segment as 'Crown', admits recurring debt payments growing $500/week to mechanical gorilla; begs Trip for $500. [02:49:39] Munch reveals he gave Crum $500; predicts Crum will gamble it instead of paying debt. |
+| [[../episodes/2025-05-21|2025-05-21]] [78:11] | [78:11] Crum confirms $5,000 installment paid to Rock-afire gorilla; weekly interest accrues if payments missed. Munch rallies chat for execution. |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |
