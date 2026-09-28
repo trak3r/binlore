@@ -45,6 +45,7 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2025-09-25|2025-09-25]] | science correspondent. |
 | [[episodes/2025-09-18|2025-09-18]] | science correspondent. |
 | [[episodes/2025-09-15|2025-09-15]] | science correspondent. |
+| [[episodes/2025-09-10|2025-09-10]] | science correspondent. |
 | [[episodes/2025-09-05|2025-09-05]] | science correspondent. |
 | [[episodes/2025-09-03|2025-09-03]] | science correspondent. |
 | [[episodes/2025-09-02|2025-09-02]] | science correspondent. |
@@ -54,13 +55,13 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2025-07-30|2025-07-30]] | science correspondent. |
 | [[episodes/2025-07-19|2025-07-19]] | science correspondent. |
 | [[episodes/2025-07-12|2025-07-12]] | science correspondent. |
-| [[episodes/2025-06-26|2025-06-26]] | science correspondent. |
 
 <details>
-<summary>Earlier appearances (66)</summary>
+<summary>Earlier appearances (67)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-06-26|2025-06-26]] | science correspondent. |
 | [[episodes/2025-06-20|2025-06-20]] | science correspondent. |
 | [[episodes/2025-06-17|2025-06-17]] | Chief Science Correspondent. |
 | [[episodes/2025-06-07|2025-06-07]] | Chief Science Correspondent. |
@@ -178,3 +179,4 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 - **[]** ([[episodes/2025-05-01|2025-05-01]]): Back is 'uncrackable' / 'too defended' — multiple methods fail; claims 'biggest crack of all time' pending [1:12:17]
 - **[]** ([[episodes/2025-08-26|2025-08-26]]): Girlfriend Maya introduced via Sesame AI app; uncomfortable with 'rotated sex' prompt; Chet ends segment reading Red Wall books. [2:02:13]
 - **[02:45:58]** ([[episodes/2025-09-02|2025-09-02]]): Therapy method: plays boner jam trap beats and Eurobeat from phone until declaring breakthrough [02:45:58].
+- **[56:39]** ([[episodes/2025-09-10|2025-09-10]]): Chet's AI partner is named Maya (not Mina); Chet in 'open relationship' with her.

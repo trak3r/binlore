@@ -1,0 +1,227 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "03:00",
+      "canonical_segment": "News",
+      "title": "Cold Open & Technical Difficulties",
+      "notes": "Pepito delivers sign-on as 'Papita the dog'; OBS and Stream Deck malfunction forces intro replay; chat overlay broken until intro re-triggers."
+    },
+    {
+      "start": "03:00",
+      "end": "22:00",
+      "canonical_segment": "News",
+      "title": "Charlie Kirk Assassination & Political Violence Discourse",
+      "notes": "Case reacts to Charlie Kirk shooting on campus; argues violence creates martyrs and fuels authoritarian crackdowns; Jeff Ripple concurs; chat debates violence ethics."
+    },
+    {
+      "start": "22:00",
+      "end": "36:00",
+      "canonical_segment": "News",
+      "title": "Political Satire Is Dead Rant",
+      "notes": "Case monologues on collapse of Daily Show-era political comedy; compares to Tim Dillon, Jerry Seinfeld; concludes 'piss news' is only viable mode."
+    },
+    {
+      "start": "31:30",
+      "end": "36:00",
+      "canonical_segment": "News",
+      "title": "Wall Stream Delayed to Next Friday",
+      "notes": "Case announces crawlspace/Wall stream pushed from 9/11 to next Friday due to guest scheduling; will stream normal show tomorrow 2 PM; Patreon Thursday unchanged."
+    },
+    {
+      "start": "36:00",
+      "end": "56:00",
+      "canonical_segment": "Amongst the Web",
+      "title": "Viewer Videos & Peter Gibbon Intrusion",
+      "notes": "Stand-up clips, mobile ad parody, TikTok strategy ad, BTS fancam, shake-the-juice joke, disturbing 'sacred object' video, squirrel assault clip, Disney coral parade float, motocross mountain run; Peter Gibbon teleports in, claims wall residency, argues with Case."
+    },
+    {
+      "start": "56:00",
+      "end": "01:10:00",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Interstellar Object 3I Atlas, AI Seinfeld, Mars Life Hints",
+      "notes": "Chet joins; discusses carbon-rich interstellar comet 3I Atlas; 'Watch Me Forever' AI Seinfeld still streaming to 4 viewers; NASA Perseverance finds potential ancient microbe biosignatures; Jerry Seinfeld compares Free Palestine to KKK."
+    },
+    {
+      "start": "01:10:00",
+      "end": "01:29:00",
+      "canonical_segment": "News",
+      "title": "Epstein Birthday Book Deep Dive",
+      "notes": "Case, Chet, Peter read PDF of Epstein's contact book: Trump drawing with signature-as-bush, letters from children, Leon Black sexual assault 'joke', Robin Kill victim entry; Case calls executive stop — too dark."
+    },
+    {
+      "start": "01:29:00",
+      "end": "01:33:00",
+      "canonical_segment": "News",
+      "title": "OpenAI Animated Feature Film Announcement",
+      "notes": "OpenAI partners with London/LA studios for AI-generated feature; Case predicts unwatchable trash; chat suggests anthropomorphic penis movie."
+    },
+    {
+      "start": "01:33:00",
+      "end": "01:37:00",
+      "canonical_segment": "News",
+      "title": "Drunk Raccoon CPR Rescue",
+      "notes": "Kentucky nurse Misty Combs revives 'Otis' the raccoon after fermented peach drowning; CPR on camera; reunited with mother; Case declares best news of the day."
+    },
+    {
+      "start": "01:37:00",
+      "end": "01:42:00",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Rob Elvie Returns Claiming Reform",
+      "notes": "Previously banned caller Rob Elvie appears live; generic apology over sad music; Case unconvinced, cuts him off."
+    },
+    {
+      "start": "01:42:00",
+      "end": "01:57:00",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: Is Murder Wrong Always?",
+      "notes": "Munch (skeleton) argues murder always wrong; Crum (voice-modulated off Biden) defends pro-murder side via Plato quotes; voice modulator cycles through Sonic, smooth villain, Elden Ring NPC; Munch sings 'Sexy Boy'; Case ends stream."
+    },
+    {
+      "start": "01:57:00",
+      "end": "02:01:44",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Wall Stream Confirmation",
+      "notes": "Case wraps; confirms Wall stream next Friday; tomorrow 2 PM normal stream; Pepito struggles with credits; OBS glitches on exit."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored breaking news on Charlie Kirk assassination, ranted on political satire collapse, delayed Wall stream, moderated Amongst the Web and Epstein book reading, ended on Munch & Crum debate.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open as 'Papita the dog'; managed broken OBS/Stream Deck; cued intro replays; struggled with credits at close.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Munch on 'murder wrong always' with voice modulator stripping Biden voice; quoted Plato, sang 'Sexy Boy', threatened wall breakthrough.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Skeleton form argued murder always wrong; sang 'Sexy Boy', mocked Crum's voice changes, claimed credit for rescuing Crum from hell.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Teleported into Amongst the Web, claimed wall omnipotence, argued with Case over Wall stream scheduling, demanded song playback.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Joined for Chet Guy the Science Eyes: covered 3I Atlas comet, AI Seinfeld status, Mars biosignatures; played 'Say Less' AI game with Sick McBurger.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Briefly concurred with Case on violence/martyrdom during Charlie Kirk segment; otherwise off-mic.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Referenced as Case's partner who enforces sleep schedule; won Employee of the Month poll in absentia; not on camera.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Join the Wall",
+      "beat": "[2025-09-10] Wall stream delayed from 9/11 to next Friday (9/19) due to guest scheduling; Case worked 'obsessively' two days; Peter Gibbon claims credit for wall access.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[2025-09-10] Crum's Biden voice removed via modulator; Case cycles replacement voices; Crum references 'penis' conditioning and diaper of scorpions; Munch claims he'll 'pluck Crum from hell like a saint.'",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "00:08",
+      "entity": "Pepito",
+      "fact": "Pepito identifies as 'Papita the dog' during cold open sign-on.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "31:51",
+      "entity": "",
+      "fact": "Wall stream guest is 'an old pale' — pre-G4 friend of Case, now building maintenance under different name; not Fiona or Gina.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "56:39",
+      "entity": "Chet",
+      "fact": "Chet's AI partner is named Maya (not Mina); Chet in 'open relationship' with her.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:08:23",
+      "entity": "",
+      "fact": "'Watch Me Forever' (AI Seinfeld) still streaming to ~4 concurrent viewers on Twitch.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:20:55",
+      "entity": "",
+      "fact": "Full Epstein birthday book PDF accessible online; contains Trump drawing, Leon Black assault entry, children's letters.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:45:50",
+      "entity": "Crum",
+      "fact": "Crum's voice modulator cycles: default → Sonic → smooth villain → Elden Ring NPC (Rocket Raccoon).",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:56:40",
+      "entity": "",
+      "fact": "Case declares breakthrough: 'I'm gonna break through this wall just so I can shut you the fuck up' — targeting Crum.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covers the on-campus assassination of Charlie Kirk, with Case Blackwell arguing the killing will be weaponized for authoritarian crackdowns. The broadcast veers from a eulogy for political satire into a chaotic Amongst the Web block interrupted by wall-dweller Peter Gibbon, a science desk featuring an interstellar carbon comet and the undead AI Seinfeld, and a harrowing read-through of Jeffrey Epstein's contact book. The episode closes with a Munch & Crum debate on whether murder is always wrong — Crum's voice stripped of its Biden timbre — and Case confirming the long-delayed Wall stream for next Friday.",
+  "_meta": {
+    "vod_id": "HSrm1TmuL7c",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 115506,
+    "approx_prompt_tokens": 28876,
+    "transcript_lines": 297
+  }
+}
