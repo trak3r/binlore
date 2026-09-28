@@ -1,0 +1,223 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "Hype Train",
+      "start": "00:00",
+      "end": "22:55",
+      "title": "Hype Train Derails Into Freestyle Subscriber Raps",
+      "notes": "Hype Train refuses standard subscriber acknowledgments, delivers surreal freestyle raps over shifting beats, claims to speak racist gibberish in alternate realities, reads fake credit card numbers, and boops for three minutes straight."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "22:56",
+      "end": "38:16",
+      "title": "Trump Alive, Space Command to Huntsville, Capital Punishment for D.C.",
+      "notes": "Case covers Trump's marathon cabinet meeting: Space Command HQ moving to Huntsville permanently, federal death penalty sought for D.C. murders, Venezuelan vessel strike footage posted to Truth Social."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "start": "38:17",
+      "end": "01:02:00",
+      "title": "Discord Submissions: Toilet Chili, Ham Bussy, Robbie Love, Rock Sitting",
+      "notes": "Case and Jeff Ripple watch viewer-submitted clips: chili eaten from toilet container, ham sandwich assembly meme, 2006 roller-rapper Robbie Love's Route 66 trek, The Rock sitting at an event looking thinner."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "start": "01:02:00",
+      "end": "01:55:00",
+      "title": "Uncircled: Munch Defends Himself Against Gorilla Murder Accusations",
+      "notes": "New segment 'Uncircled' puts Munch on trial for Crum's gorilla punch death; Munch makes three claims (Crum not worth energy, too sexy to be guilty, Crum fell toward fist), defeats a parade of blurry challengers including a hot dog doppelganger and Matt Liddell, wins by timer."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "start": "01:56:51",
+      "end": "02:10:35",
+      "title": "Disposable Tea Bags and Rookie Mistakes Selling Used Panties",
+      "notes": "Jeb demonstrates pyramid tea bags with white tea, then watches Sophia Gray video on used panty marketplace best practices (pricing $20-40, Ziploc sealing, not a get-rich-quick scheme). Jeb's dead father heckles from the wooden board."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "02:11:38",
+      "end": "02:36:34",
+      "title": "Epstein Files Drop, Nestle CEO Fired, Saudi Evo Buyout, Wizard of Oz Sphere",
+      "notes": "House Oversight releases 33k Epstein pages (mostly known info); Nestle CEO fired for affair with Steph Ewer; Saudi Qiddiya acquires Evo organizer RTS; JK Rowling feuds with Harry Potter cast; Graham Greene RIP; Marconi Union track makes chocolate taste better; Fortnite vaults Goonin emote; corn concert masturbator ejected; Wizard of Oz Sphere experience uses AI upscaling but VFX artists silenced."
+    },
+    {
+      "canonical_segment": "Therapy",
+      "start": "02:37:31",
+      "end": "02:49:26",
+      "title": "Chet Manscape Prescribes Boner Jams for Mental Security",
+      "notes": "Chet arrives unprompted, plays 'boner jam' trap beats and Eurobeat mixes from phone, declares therapy complete after 'breakthrough,' mutes stream to verify a track is a real song."
+    },
+    {
+      "canonical_segment": "The Jo Rogen Experience",
+      "start": "02:49:26",
+      "end": "02:56:20",
+      "title": "Robbie Love Confesses: Dead Two Days, Rattlesnake Venom, Sybian Surgery",
+      "notes": "Case calls roller-rapper Robbie Love; Robbie reveals he was technically dead for two days after drinking rattlesnake venom thinking it was ayahuasca, operated on by a van-dwelling 'Dr. Sibian' using a Sybian, had sex during the procedure."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "02:56:20",
+      "end": "02:58:37",
+      "title": "Raid Outro: Pepito Sermonizes Spiritual Mosquito Philosophy",
+      "notes": "Pepito delivers closing sermon: live like a holy mosquito sucking marrow from bones; Case raids Ricky B. Jack's channel."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors return broadcast after week off, debuts Uncircled segment, tests chocolate-enhancing music, interviews Robbie Love.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Cold-opens as dog producer, signs paychecks with mustard, delivers spiritual mosquito sermon at close.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Derails subscriber segment into three-minute boop loop and surreal freestyle about alternate-reality racism.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defends himself in Uncircled against gorilla-murder charges, claims Crum fell toward fist and is 'anti-cum' black hole.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Absent but central to Uncircled; Munch claims he paid Crum's $150k gorilla debt and Crum bribed gorilla with channel points.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosts Amongst the Web, debates credit scores, reacts to ham bussy video.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Teaches disposable tea bag brewing and used panty marketplace etiquette while arguing with dead father in wooden board.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeers therapy segment to play boner jams from phone, declares mental security achieved.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Robbie Love",
+      "role": "call-in guest",
+      "notes": "call-in guest. Roller-rapper reveals two-day clinical death from rattlesnake venom, Sybian surgery by van doctor, sex during procedure.",
+      "canonical_name": "Robbie Love",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Briefly appears collecting paycheck signed in mustard.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:02:00] Uncircled segment re-litigates Crum's gorilla punch death; Munch claims he paid Crum's $150k debt, Crum bribed gorilla with 150k channel points, and Crum is 'anti-cum' existential void.",
+      "timestamp": "01:02:00"
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "[17:34] Case says city clearances for entering the wall nearly complete, permits required despite Peter Gibbon having none.",
+      "timestamp": "17:34"
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[17:11] Case mentions Beyblade event possibly this weekend or next with a friend assisting.",
+      "timestamp": "17:11"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Claims Crum is 'anti-cum' — a cosmic black hole that negates orgasms and erases them from existence [01:39:35].",
+      "timestamp": "01:39:35",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Says he paid Crum's $150,000 debt to the Rock-afire gorilla out of kindness, then Crum lost again triggering the punch [01:46:29].",
+      "timestamp": "01:46:29",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Robbie Love",
+      "fact": "Was clinically dead for two days after drinking rattlesnake venom thinking it was ayahuasca; operated on by van-dwelling 'Dr. Sibian' using a Sybian; had sex during procedure [02:53:24].",
+      "timestamp": "02:53:24",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Plans 'steak knife' tattoo on middle fingers; mentions product 'Taint but for boys' open for Saudi investment [02:10:56].",
+      "timestamp": "02:10:56",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Signs staff paychecks with mustard; bank rarely accepts them [01:02:44].",
+      "timestamp": "01:02:44",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Therapy method: plays boner jam trap beats and Eurobeat from phone until declaring breakthrough [02:45:58].",
+      "timestamp": "02:45:58",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns from a week off to debut 'Uncircled,' a trial segment where Munch defends himself against chat accusations of murdering Crum via Rock-afire gorilla. Munch wins by timer after defeating a hot dog doppelganger and Matt Liddell, while advancing lore that he paid Crum's six-figure gorilla debt and that Crum is an 'anti-cum' singularity. The broadcast also covers Trump's Space Command move, 33k Epstein pages, Nestle CEO ouster, Saudi Evo acquisition, and a chocolate-enhancing ambient track. Jeb teaches tea bags and used-panty commerce; Chet prescribes boner jams for therapy; roller-rapper Robbie Love reveals a two-day death experience involving rattlesnake venom, a Sybian, and a van doctor. Pepito closes with a spiritual mosquito sermon and a self-raid.",
+  "_meta": {
+    "vod_id": "JEtaFUnBQUM",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 135886,
+    "approx_prompt_tokens": 33971,
+    "transcript_lines": 412
+  }
+}

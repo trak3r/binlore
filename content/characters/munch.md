@@ -44,16 +44,17 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-09-21|2025-09-21]] | debate analyst. |
 | [[episodes/2025-09-18|2025-09-18]] | debate analyst. |
 | [[episodes/2025-09-15|2025-09-15]] | debate analyst. |
+| [[episodes/2025-09-02|2025-09-02]] | debate analyst. |
 | [[episodes/2025-08-26|2025-08-26]] | debate analyst. |
 | [[episodes/2025-08-23|2025-08-23]] | debate analyst. |
 | [[episodes/2025-08-21|2025-08-21]] | debate analyst. |
-| [[episodes/2025-08-11|2025-08-11]] | Debate analyst torments Crum over his missing penis and hell visions while arguing for Gatorade supremacy. |
 
 <details>
-<summary>Earlier appearances (120)</summary>
+<summary>Earlier appearances (121)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-08-11|2025-08-11]] | Debate analyst torments Crum over his missing penis and hell visions while arguing for Gatorade supremacy. |
 | [[episodes/2025-08-02|2025-08-02]] | debate analyst. |
 | [[episodes/2025-07-30|2025-07-30]] | debate analyst. |
 | [[episodes/2025-07-29|2025-07-29]] | debate analyst. |
@@ -250,3 +251,5 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[]** ([[episodes/2025-08-26|2025-08-26]]): Claims to be immortal Highlander: 'There can be only one. Obviously. That's why it's me.' [1:27:58]
 - **[]** ([[episodes/2025-08-26|2025-08-26]]): Claims to have beaten Jesus in a foot race in ancient Rome; Jesus cheated with cross on back and holes in feet. [1:27:19]
 - **[]** ([[episodes/2025-08-26|2025-08-26]]): Claims to have kissed Satan's 'back snatch'; describes it as openly available 'like a fucking pie on a window sill.' [1:23:10]
+- **[01:39:35]** ([[episodes/2025-09-02|2025-09-02]]): Claims Crum is 'anti-cum' — a cosmic black hole that negates orgasms and erases them from existence [01:39:35].
+- **[01:46:29]** ([[episodes/2025-09-02|2025-09-02]]): Says he paid Crum's $150,000 debt to the Rock-afire gorilla out of kindness, then Crum lost again triggering the punch [01:46:29].
