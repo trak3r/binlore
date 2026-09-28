@@ -1,0 +1,119 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "09:07",
+      "canonical_segment": "News",
+      "title": "Station Sign-On and Cold Open",
+      "notes": "Pepito delivers the official top-of-hour broadcast sign-on as executive producer, identifying as the dog who produces the show."
+    },
+    {
+      "start": "09:07",
+      "end": "10:10",
+      "canonical_segment": "News",
+      "title": "Anchor Return and Breaking News Tease",
+      "notes": "Case Blackwell returns after a two-day absence, announces Charlie Kirk was shot in Utah earlier today, and cues the Hype Train segment."
+    },
+    {
+      "start": "10:10",
+      "end": "33:21",
+      "canonical_segment": "Hype Train",
+      "title": "Extended Hype Train Derailment: Cheetos, Piss, and Horses",
+      "notes": "Hype Train commandeers the broadcast for 25 minutes of freestyle raps over medium, average, Cheeto, and rat type beats, covering bodily fluids, Chester Cheetah lore, Bart Simpson face tattoos, and a metaphysical explanation for why trains are attracted to horses (both carry passengers). Subscriber and bit acknowledgments are intermittently delivered at a 'medium pace.'"
+    },
+    {
+      "start": "33:21",
+      "end": "34:24",
+      "canonical_segment": "News",
+      "title": "Post-Hype Train Wrap-Up",
+      "notes": "Case thanks major contributors including Skymer (1,000 bits), Zackypoo (8 months), and Bundlesprout (5 community subs), and remarks on Hype Train's dereliction of his one job."
+    },
+    {
+      "start": "34:24",
+      "end": "39:35",
+      "canonical_segment": "News",
+      "title": "News Desk: Charlie Kirk Assassination and Technical Failures",
+      "notes": "Case dons the fish tie to cover the public murder of Charlie Kirk; OBS repeatedly resets to earlier stream states, deleting the 'encircled segment' and forcing a live import attempt that risks crashing the broadcast."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered the official station sign-on and cold open as the dog who produces the show.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Returned from a two-day absence to anchor breaking coverage of Charlie Kirk's assassination while battling catastrophic OBS instability.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Derails the broadcast for 25 minutes with freestyle raps about Cheetos, piss vapor, horses, and Bart Simpson, intermittently acknowledging subs at a self-declared 'medium pace.'",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Briefly summoned by Case but only manages a resigned 'Damn it, I almost escaped' before the segment collapses into technical chaos.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Charlie Kirk was shot and killed in Utah on the afternoon of 2025-09-10, dominating the news cycle.",
+      "timestamp": "[09:07]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case Blackwell's OBS installation spontaneously reverts to earlier stream states, having deleted the 'encircled segment' that took three days to build; a backup exists.",
+      "timestamp": "[37:47]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Hype Train articulates a metaphysical rule: trains are attracted to horses because 'we both carry passengers — we're kind of in the same business.'",
+      "timestamp": "[30:47]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Hype Train references the unreleased game 'Piss Fruit Ninja' during the Cheeto beat freestyle.",
+      "timestamp": "[24:14]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case Blackwell wears the fish tie as a broadcast ritual, stating he feels 'almost nude without it.'",
+      "timestamp": "[34:48]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns to the BIN newsroom after a two-day absence to cover the breaking assassination of Charlie Kirk in Utah, but the broadcast is first hijacked by a 25-minute Hype Train derailment spanning Cheeto lore, equine attraction theory, and Bart Simpson face tattoos. The news desk segment that follows is plagued by catastrophic OBS instability that repeatedly rolls the stream back to earlier states, deleting prepared graphics and forcing a live import attempt that threatens to take the broadcast offline.",
+  "_meta": {
+    "vod_id": "Brt1etBYVyg",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 39294,
+    "approx_prompt_tokens": 9823,
+    "transcript_lines": 85
+  }
+}
