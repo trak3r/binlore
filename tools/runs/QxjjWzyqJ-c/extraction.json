@@ -1,0 +1,140 @@
+{
+  "segments": [
+    {
+      "start": "00:04",
+      "end": "07:34",
+      "canonical_segment": "News",
+      "title": "Station Cold-Open",
+      "notes": "Pepito delivers the top-of-hour sign-on and countdown while repeating his identity as the dog who produces the show."
+    },
+    {
+      "start": "08:00",
+      "end": "44:08",
+      "canonical_segment": "News",
+      "title": "LA Protests & National Guard Deployment",
+      "notes": "Case Blackwell and new hire Walden Cronmister discuss the Los Angeles immigration protests, National Guard deployment, and media framing of vandalism versus police force."
+    },
+    {
+      "start": "45:19",
+      "end": "59:02",
+      "canonical_segment": "How To with Jeb",
+      "title": "Breathing, Suppositories & Vocal Chest Voice",
+      "notes": "Jeff Ripple fills in for missing Jeb Nogget, reviewing instructional videos on workout breathing, DIY suppositories, and chest voice technique while contending with Jeb's Dad's ghost in the wood."
+    },
+    {
+      "start": "59:02",
+      "end": "1:47:21",
+      "canonical_segment": "News",
+      "title": "Warner Split, RFK Jr. Purge, Gaza Flotilla & Trump Parade",
+      "notes": "Case Blackwell and new hire Ed Demure cover Warner Brothers' corporate demerger, RFK Jr. removing the CDC vaccine advisory committee, Israeli interception of Greta Thunberg's aid ship, the DC tank parade, FAA floppy disk retirement, and a Brazilian comedian's prison sentence."
+    },
+    {
+      "start": "1:47:21",
+      "end": "2:14:29",
+      "canonical_segment": "Amongst the Web",
+      "title": "Viral Video Review & Kendall Raid",
+      "notes": "Case and Ed rate viewer-submitted clips including a tear gas taste test, lion encounter, superhero doodle animation, and a gun-kata robot demo before raiding Kendelle's stream."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered station cold-open and hired two new on-air personalities (Walden Cronmister and Ed Demure) during the broadcast.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Walden Cronmister",
+      "role": "on-air personality",
+      "notes": "on-air personality. Debuted as a Pepito hire, co-anchored the LA protest segment with Case, and read wire copy on the demonstrations.",
+      "canonical_name": "Walden Cronmister",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Filled in for missing Jeb Nogget on How To with Jeb, narrated instructional videos, and contended with Jeb's Dad's ghost.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "ghost in wood",
+      "notes": "ghost in wood. Appeared from the wooden board during How To, confirmed Jeb Nogget and Jet Nogget as his two sons, and heckled Ripple.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Ed Demure",
+      "role": "on-air personality",
+      "notes": "on-air personality. Debuted as a Pepito hire (Edward Samuel Demure), co-hosted the news roundup and Amongst the Web, and twinned with Case in blue suits.",
+      "canonical_name": "Ed Demure",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "timestamp": "11:36",
+      "entity": "Jeb Nogget",
+      "fact": "Jeb Nogget is missing; Case states 'No one can find Jeb. So just get a new one.'",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "46:28",
+      "entity": "",
+      "fact": "Jeb's Dad (ghost in wood) confirms Jeb Nogget and Jet Nogget are his two sons.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "09:25",
+      "entity": "",
+      "fact": "Walden Cronmister hired by Pepito as new on-air personality.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:01:03",
+      "entity": "",
+      "fact": "Edward Samuel Demure ('Ed') hired by Pepito as new on-air personality; middle name Sammy, son of Sam.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "26:19",
+      "entity": "Kendelle",
+      "fact": "Kendelle makes studio walk-through with signature theme music.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "45:19",
+      "entity": "Jeff Ripple",
+      "fact": "Jeff Ripple fills in for missing Jeb on How To with Jeb.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "2:13:20",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell and Ed Demure wearing matching blue suits ('twinning').",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered the Los Angeles immigration protests and National Guard deployment with new hire Walden Cronmister, then Jeff Ripple substituted for missing Jeb Nogget on How To with Jeb while contending with Jeb's Dad's ghost. In the second news block, another new hire Ed Demure joined Case for a roundup spanning Warner Brothers' corporate split, RFK Jr.'s CDC vaccine committee purge, the Gaza aid flotilla interception, Trump's DC tank parade, and a Brazilian comedian's prison sentence, before the pair hosted Amongst the Web and raided Kendelle.",
+  "_meta": {
+    "vod_id": "QxjjWzyqJ-c",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 105684,
+    "approx_prompt_tokens": 26421,
+    "transcript_lines": 255
+  }
+}
