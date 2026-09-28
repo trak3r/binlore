@@ -61,7 +61,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (83)</summary>
+<summary>Earlier appearances (84)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -72,6 +72,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
 | [[episodes/2025-06-02|2025-06-02]] | executive producer. |
+| [[episodes/2025-05-30|2025-05-30]] | executive producer. |
 | [[episodes/2025-05-17|2025-05-17]] | executive producer. |
 | [[episodes/2025-05-13|2025-05-13]] | executive producer. |
 | [[episodes/2025-05-08|2025-05-08]] | executive producer. |
@@ -253,3 +254,5 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[]** ([[episodes/2025-05-08|2025-05-08]]): Pepito's head is 'hat-proof' preventing headwear from appearing on him [01:16:01]
 - **[00:08]** ([[episodes/2025-05-13|2025-05-13]]): Pepito identifies as 'Papita the dog' for cold open sign-on.
 - **[[02:39:20]]** ([[episodes/2025-05-17|2025-05-17]]): Employs a hamster as accountant living in his bush; hamster 'deals with finances'.
+- **[[12:40]]** ([[episodes/2025-05-30|2025-05-30]]): Claims to have been impersonating Hype Train on the secondary screen while absent from producer seat.
+- **[[14:07]]** ([[episodes/2025-05-30|2025-05-30]]): Campaigns for on-air title 'Stream Pope' and demands Case build him a talk show.

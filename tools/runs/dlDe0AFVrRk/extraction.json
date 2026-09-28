@@ -1,0 +1,154 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Cold Open & Sign-On",
+      "start": "00:06",
+      "end": "07:49",
+      "notes": "Pepito delivers the official network sign-on and countdown; Case Blackwell joins for the live countdown."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Opening Banter & Hype Train Confusion",
+      "start": "07:49",
+      "end": "11:06",
+      "notes": "Case and Pepito discuss the 30-minute pre-Patreon window; Hype Train is active but Case refuses to acknowledge it; Pepito goes missing from his seat."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Technical Difficulties & Pepito Returns",
+      "start": "11:06",
+      "end": "15:53",
+      "notes": "Case troubleshoots Pepito's absence; Pepito reappears claiming he was 'being the Hype Train'; Pepito demands 'Stream Pope' title and a talk show."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Trailer Thursdays: Elden Ring Nightreign & One Piece",
+      "start": "15:53",
+      "end": "25:47",
+      "notes": "Case and Trent (parole officer bit) react to Elden Ring Nightreign trailer with Evanescence track; One Piece Season 2 announcement trailer at Netflix's 'Tudum' event."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Trailer Thursdays: House of Kong, Titan, K-pop Demon Hunters",
+      "start": "25:47",
+      "end": "33:51",
+      "notes": "Quick reactions to House of Kong teaser, Ocean Gate disaster documentary 'Titan', and Netflix animated film K-pop Demon Hunters; frame-rate debate ensues."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Red Light Confusion & Filler How-To Segment",
+      "start": "33:51",
+      "end": "42:18",
+      "notes": "Case mistakes the exit light for a wrap signal; Jeb Nogget is missing so random how-to videos play: muscle flexing, 'minimus' dance, Mickey Mouse pose — Kendall appears in the dance clips."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Stream Close & Raid",
+      "start": "42:18",
+      "end": "44:50",
+      "notes": "Case ends stream early; viewer Jake helps Kendall with grammar; raid intended for Ricky Peacock / Christine."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors a rushed 30-minute pre-Patreon broadcast; runs Trailer Thursdays and filler how-to segments; does 'Trent' parole officer bit.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers sign-on; disappears then claims he was impersonating Hype Train; demands 'Stream Pope' title and a talk show.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype announcer",
+      "notes": "hype announcer. Active on secondary screen; Pepito falsely claims to be Hype Train in a costume; Case refuses to acknowledge the hype train.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "parole officer bit",
+      "notes": "parole officer bit. Case's recurring character at the movies desk; claims to be a parole officer who doesn't believe in the state.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Appears in pre-recorded how-to dance clips (minimus, Mickey Mouse); Case watches to be polite.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jake",
+      "role": "call-in guest",
+      "notes": "call-in guest. Viewer who helps Kendall write a past-tense honorific message at stream end.",
+      "canonical_name": "Jake",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "recurring",
+      "notes": "recurring. Referenced as missing and possibly dead; his 'How To with Jeb' segment is skipped.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Claims to have been impersonating Hype Train on the secondary screen while absent from producer seat.",
+      "timestamp": "[12:40]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Campaigns for on-air title 'Stream Pope' and demands Case build him a talk show.",
+      "timestamp": "[14:07]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "Confirmed missing; Case says 'apparently he's dead or something' and doesn't know who he is.",
+      "timestamp": "[34:56]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Produces how-to dance content (minimus, Mickey Mouse pose) under the 'How To' branding while Jeb is absent.",
+      "timestamp": "[39:22]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "A truncated 30-minute pre-Patreon broadcast where Case Blackwell rushes through trailer reactions (Elden Ring Nightreign, One Piece Season 2, K-pop Demon Hunters) and filler how-to segments while Jeb Nogget remains missing; Pepito briefly impersonates Hype Train and campaigns for a 'Stream Pope' title; the stream ends with a grammar assist from a viewer named Jake and a raid toward Ricky Peacock.",
+  "_meta": {
+    "vod_id": "dlDe0AFVrRk",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 40490,
+    "approx_prompt_tokens": 10122,
+    "transcript_lines": 94
+  }
+}
