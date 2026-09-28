@@ -1,0 +1,192 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "08:04",
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on and countdown; Case Blackwell opens the abbreviated 50-minute broadcast acknowledging Hulk Hogan's passing."
+    },
+    {
+      "start": "08:04",
+      "end": "16:49",
+      "canonical_segment": "News",
+      "title": "Hulk Hogan Obituary & Wrestling Legacy",
+      "notes": "Blackwell reflects on Hogan's death at 71, his cultural footprint, Vince McMahon's influence, and Kevin Nash's recent anti-Trump tweet; chat shares potty-training anecdote involving Hogan toy."
+    },
+    {
+      "start": "16:49",
+      "end": "22:45",
+      "canonical_segment": "News",
+      "title": "Hunter Biden Crack Interview with Andrew Callahan",
+      "notes": "Clip from Channel 5 interview: Biden details crack cocaine chemistry, ritual addiction mechanics, and comparative euphoria vs. powder cocaine; Blackwell and chat react with morbid curiosity."
+    },
+    {
+      "start": "23:52",
+      "end": "24:15",
+      "canonical_segment": "News",
+      "title": "Laugh Meter Calibration Test",
+      "notes": "Blackwell tests new viewer-count-based laugh meter; confirms functionality despite noise confusion."
+    },
+    {
+      "start": "25:01",
+      "end": "26:28",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Derailment: Jay Everything Era",
+      "notes": "Hype Train commandeers feed with freestyle rap, cycles through name changes (Jay Everything → JEV → Jay Vance → Jeff Everything → Jeff), declares conservative pivot 'girls, guns, and God'."
+    },
+    {
+      "start": "26:28",
+      "end": "29:53",
+      "canonical_segment": "News",
+      "title": "Paramount/Skydance Merger Approved",
+      "notes": "FCC clears $8.4B sale including CBS, Paramount Pictures, Nickelodeon; Paramount pays $16M to settle Trump 60 Minutes lawsuit; South Park skewers merger with Trump tiny-penis desert sequence."
+    },
+    {
+      "start": "30:56",
+      "end": "31:59",
+      "canonical_segment": "News",
+      "title": "Chuck Mangione Death",
+      "notes": "Fugal horn legend dies at Rochester home; Blackwell admires trumpet aesthetic but prefers turntables."
+    },
+    {
+      "start": "31:59",
+      "end": "37:58",
+      "canonical_segment": "News",
+      "title": "XAI Grok 'Annie Mae' AI Companion Revealed as Sex Bot",
+      "notes": "Leaked docs show Project Skippe recorded 200+ staff faces for Grok training; Annie Mae companion ($30/mo SuperGrok) flirts, generates soft porn, dances in lingerie; Blackwell calls it '30 years late to the internet.' "
+    },
+    {
+      "start": "37:58",
+      "end": "41:20",
+      "canonical_segment": "News",
+      "title": "Hype Train Name Finalized as 'Jeff'",
+      "notes": "Chat settles on 'Jeff' for Hype Train; Blackwell jokes about consulting firms and periodic-table symbol 'J e'."
+    },
+    {
+      "start": "39:55",
+      "end": "40:59",
+      "canonical_segment": "News",
+      "title": "Air Bud 15th Film Announced",
+      "notes": "Cineverse and Air Bud Entertainment eye 2026 theatrical release; Blackwell workshops tagline 'not your grandpa's Air Bud.' "
+    },
+    {
+      "start": "41:20",
+      "end": "57:26",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web: Viral Video Review",
+      "notes": "Arnold Schwarzenegger animal impressions; Mickey plastic eye incident; FedEx/Staples printing side quest; avocado-eating technique critique; Chuck E. Cheese mascot arrested in Tallahassee (unmasked, cuffed); Kendelle's mascot-industry connections noted; bald-head-dunking finale."
+    },
+    {
+      "start": "57:26",
+      "end": "58:39",
+      "canonical_segment": "News",
+      "title": "Wrap-Up, Patreon Plug & Raid",
+      "notes": "Blackwell plugs Patreon aftershow with Kassim, raids Christine (Miss Talates), signs off for Thursday."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors abbreviated 50-minute broadcast; covers Hogan death, Hunter Biden crack clip, Paramount merger, XAI sex bot, and Amongst the Web; reveals weight ~230+ lbs; takes girlfriend call on air.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold-open station sign-on and countdown; identifies as 'the dog that produces the show.'",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Derails into freestyle rap, cycles through name changes (Jay Everything → Jeff), attempts conservative rebrand, settles on 'Jeff' per chat consensus.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Discussed off-camera: works with branded mascots for her company; Cinnamon Toast Crunch social manager mistook her for Moist Critical.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Mentioned in chat context ('probably crumb when he feels better'); Rock-afire gorilla creditor referenced as studio prop.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Mentioned in chat context ('probably munch') as potential crack participant.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Rock-afire gorilla creditor visible in studio at [42:49]; Crum referenced as still recovering at [22:45].",
+      "timestamp": "42:49"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Kendelle works with branded mascots for her employer; Cinnamon Toast Crunch social manager confused her team for Moist Critical.",
+      "timestamp": "[53:28]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case Blackwell's girlfriend (likely Kassim) called on air; he said 'I love you' and 'I'll see you tomorrow'; later plugs Patreon aftershow with Kassim.",
+      "timestamp": "[48:25]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case Blackwell estimates his weight at 'a little above' 230 lbs.",
+      "timestamp": "[15:46]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "XAI Grok's 'Annie Mae' companion is an official NSFW AI sex bot ($30/mo SuperGrok) with lingerie dancing and soft-porn story generation.",
+      "timestamp": "[33:52]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Hype Train's on-air identity settled on 'Jeff' after rapid iteration: Jay Everything → JEV → Jay Vance → Jeff Everything → Jeff.",
+      "timestamp": "[39:12]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell hosts a truncated 50-minute Barely Informed News broadcast covering Hulk Hogan's death, the Paramount/Skydance merger, Chuck Mangione's passing, and a leaked XAI 'Annie Mae' AI sex bot. Hype Train derails into a naming saga culminating in 'Jeff.' Amongst the Web reviews viral clips including a Chuck E. Cheese mascot arrest and Kendelle's mascot-industry adjacency. Blackwell takes a personal call from his girlfriend mid-stream and plugs a Patreon aftershow with Kassim.",
+  "_meta": {
+    "vod_id": "kJeIy_NAPyY",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 53702,
+    "approx_prompt_tokens": 13425,
+    "transcript_lines": 128
+  }
+}

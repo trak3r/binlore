@@ -110,6 +110,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2025-07-10|2025-07-10]] | Munch admits he refused to contact the devil to resurrect Crum after the groin-punch execution; Crum returns with damaged vocal cords requiring Bart Simpson voice modulator [1:58:15, 2:05:13]. |
 | [[../episodes/2025-07-15|2025-07-15]] [34:50] | [34:50] Crum's death by gorilla punch treated as canon; Munch accused of murder; Case and Jeff Ripple debate kayfabe status. |
 | [[../episodes/2025-07-19|2025-07-19]] [01:37:11] | [01:37:11] Munch debates Devil for Crum's soul in best-of-five; wins first debate on 'can Devil beat Munch' topic; Devil agrees to continue but demands two more wins. |
+| [[../episodes/2025-07-25|2025-07-25]] [42:49] | Rock-afire gorilla creditor visible in studio at [42:49]; Crum referenced as still recovering at [22:45]. |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |
