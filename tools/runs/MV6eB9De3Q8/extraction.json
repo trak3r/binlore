@@ -1,0 +1,190 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "17:05",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Returns from Hell",
+      "notes": "Hype Train reappears after extended absence, describes hell's new middle management and permeable membrane; mentions wall insurance and hot dog string procurement."
+    },
+    {
+      "start": "17:05",
+      "end": "44:00",
+      "canonical_segment": "News",
+      "title": "Zoran Mamdani Wins NYC Democratic Mayoral Primary",
+      "notes": "Case covers Mamdani's commanding primary victory over Cuomo, analyzes media reaction, plays concession and victory clips, discusses ranked-choice voting and cross-endorsement with Brad Lander."
+    },
+    {
+      "start": "44:00",
+      "end": "52:14",
+      "canonical_segment": "News",
+      "title": "Trump Truth Social Rage & Schumer Hospitalization",
+      "notes": "Trump attacks Mamdani as '100% communist lunatic'; Schumer hospitalized for dehydration after gym fall; Case discusses squat numbers and glute discourse."
+    },
+    {
+      "start": "51:12",
+      "end": "52:14",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet Brief Sign-Off",
+      "notes": "Chet appears momentarily to say goodbye, referencing his return to the permeable membrane."
+    },
+    {
+      "start": "52:14",
+      "end": "1:21:00",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web with J. Drilla",
+      "notes": "Case hosts viral video review with guest J. Drilla (aspiring pop star); rates videos including Mystery PUA bootcamp ad, chastity belt content, and Amtrak social media."
+    },
+    {
+      "start": "1:21:19",
+      "end": "1:34:00",
+      "canonical_segment": "News",
+      "title": "Trailer Time: Survival Island, Harvey Girls, Guns Up",
+      "notes": "Case and Trent watch movie trailers including a sexy island survival film, 1940s musical 'The Harvey Girls', and Kevin James action vehicle 'Guns Up'."
+    },
+    {
+      "start": "1:34:38",
+      "end": "2:02:00",
+      "canonical_segment": "News",
+      "title": "Discord News: Joy Reid, Diddy Trial, Jesus Cloud, Quantum RSA, Armenian PM, Social Network 2",
+      "notes": "Liliana joins desk for Discord-sourced stories: Joy Reid anti-imperialism on CNN, Diddy trial sex therapist commentary, Jesus cloud apparition, Chinese 22-bit RSA break, Armenian PM penis challenge, Aaron Sorkin sequel plans."
+    },
+    {
+      "start": "2:02:10",
+      "end": "2:15:00",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Sabrina Carpenter Album Cover Debate",
+      "notes": "Coach McGurk (Munch) oversees Crum's physical therapy; debate on whether new Sabrina Carpenter cover is 'too sexy or just right'; Crum barely verbal, communicates via grunts; Case declares Crum winner."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors full broadcast: covers Mamdani primary win, hosts Amongst the Web with J. Drilla, runs Trailer Time, co-anchors Discord news with Liliana, moderates Munch & Crum debate.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open sign-on as 'the dog that produces the show'; referenced re: wall insurance and hot dog string.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype correspondent",
+      "notes": "hype correspondent. Returns from hell after extended absence; describes new infernal middle management and permeable membrane trauma; acknowledges subs and bits.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Briefly appears at 51:12 to sign off, referencing return to hell's permeable membrane.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "J. Drilla",
+      "role": "guest",
+      "notes": "guest. Aspiring pop star joins Amongst the Web; struggles with identity/voice; rates videos alongside Case; adopts 'Vibe Killer' moniker.",
+      "canonical_name": "J. Drilla",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Joins Case for Discord news segment; spars on Diddy trial coverage, quantum encryption panic, and Armenian PM story.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Calls in during Diddy segment; Case says he'll be done streaming by time she's home; potential co-stream later.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Subject of Coach McGurk's physical therapy; barely verbal, communicates via grunts and hot glue repairs; declared winner of Sabrina Carpenter debate.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Appears as 'Coach McGurk' running Crum's court-ordered physical therapy; argues for maximum sexiness in media; claims Crum's body parts reattached with hot glue.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Join the Wall",
+      "beat": "[14:22] Case confirms wall insurance pending; hole in studio wall has grown larger over past year; entry delayed until insurance clears.",
+      "timestamp": "14:22"
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[2:03:22] Munch (as Coach McGurk) references mechanical gorilla still missing; Crum's body parts reattached with hot glue after prison guard hose-down.",
+      "timestamp": "2:03:22"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Hype Train",
+      "fact": "Hell has new middle management making conditions 'extra shitty'; escape requires passing through permeable membrane described as 'Hell's Hymen' that has regrown stronger.",
+      "timestamp": "12:09",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Studio Wall",
+      "fact": "Wall hole originated from pen scratch one year ago; has expanded significantly; requires insurance before 'Join the Wall' entry.",
+      "timestamp": "15:52",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "Body parts came off during prison guard cleaning; reattached with hot glue; undergoing physical therapy with Coach McGurk (Munch in disguise).",
+      "timestamp": "2:02:51",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch",
+      "fact": "Operating as 'Coach McGurk' — claims paid cleaning service/prison guards to hose down Crum; says mental recovery tied to physical.",
+      "timestamp": "2:03:53",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a broadcast celebrating Zoran Mamdani's upset NYC Democratic mayoral primary win, analyzing the media meltdown and Trump's Truth Social rage. Hype Train returns from a hellish hiatus describing new infernal bureaucracy. Amongst the Web features aspiring pop star J. Drilla rating viral videos including a Mystery PUA bootcamp ad. Liliana joins for Discord news covering Joy Reid's anti-imperialism on CNN, Chinese quantum RSA breakthrough, and the Armenian PM's penis challenge. The show closes with Munch & Crum — Munch disguised as Coach McGurk — debating Sabrina Carpenter's album cover while Crum undergoes hot-glue physical therapy.",
+  "_meta": {
+    "vod_id": "MV6eB9De3Q8",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 110578,
+    "approx_prompt_tokens": 27644,
+    "transcript_lines": 271
+  }
+}

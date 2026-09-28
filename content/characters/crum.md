@@ -58,11 +58,12 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (114)</summary>
+<summary>Earlier appearances (115)</summary>
 
 | Episode | Notes |
 |---|---|
 | [[episodes/2025-06-28|2025-06-28]] | debate analyst. |
+| [[episodes/2025-06-26|2025-06-26]] | debate analyst. |
 | [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
 | [[episodes/2025-06-20|2025-06-20]] | debate analyst. |
 | [[episodes/2025-06-19|2025-06-19]] | debate analyst. |
@@ -331,3 +332,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[]** ([[episodes/2025-06-05|2025-06-05]]): [43:54] Gorilla gambling debt corrected to $70,000 after $30k accounting error discovered by Munch.
 - **[57:50]** ([[episodes/2025-06-17|2025-06-17]]): Crum's gorilla groin-punch execution is scheduled for the June 18 broadcast (Case off Wednesday).
 - **[1:00:10]** ([[episodes/2025-06-17|2025-06-17]]): Crum requires two debate wins ('two more W's') to void the $200k wager forfeit.
+- **[2:02:51]** ([[episodes/2025-06-26|2025-06-26]]): Body parts came off during prison guard cleaning; reattached with hot glue; undergoing physical therapy with Coach McGurk (Munch in disguise).
