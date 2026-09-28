@@ -44,6 +44,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-06-19|2026-06-19]] | Lead anchor and in-studio contributor who periodically enters the broadcast for signature segments. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in birthday context, not actively speaking. |
 | [[episodes/2026-06-05|2026-06-05]] | Lead anchor and on-air contributor who walks through the studio for signature segments. |
+| [[episodes/2025-10-10|2025-10-10]] | in-studio contributor. |
 | [[episodes/2025-10-09|2025-10-09]] | in-studio contributor. |
 | [[episodes/2025-10-06|2025-10-06]] | in-studio contributor. |
 | [[episodes/2025-10-04|2025-10-04]] | in-studio contributor. |
@@ -54,13 +55,13 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-09-15|2025-09-15]] | in-studio contributor. |
 | [[episodes/2025-09-13|2025-09-13]] | in-studio contributor. |
 | [[episodes/2025-09-11|2025-09-11]] | in-studio contributor. |
-| [[episodes/2025-09-10|2025-09-10]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (157)</summary>
+<summary>Earlier appearances (158)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-09-10|2025-09-10]] | in-studio contributor. |
 | [[episodes/2025-09-05|2025-09-05]] | in-studio contributor. |
 | [[episodes/2025-09-03|2025-09-03]] | in-studio contributor. |
 | [[episodes/2025-08-26|2025-08-26]] | in-studio contributor. |
@@ -296,3 +297,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[01:19:24]** ([[episodes/2025-08-21|2025-08-21]]): First day of kindergarten tomorrow.
 - **[[02:18:02]]** ([[episodes/2025-09-13|2025-09-13]]): Produces OOTD/fit-check videos; friends are Universal Studios performers (street sweep dancers, NY cop bit, Snowball puppeteer).
 - **[]** ([[episodes/2025-10-04|2025-10-04]]): Competed as Crum's Beyblade second (Team Blue), winning majority of early matches before Munch took over ripping duties. [2:04:47]
+- **[34:37]** ([[episodes/2025-10-10|2025-10-10]]): Kendelle confirmed for Chicago Sketch Fest performance November 8 at 7:30 PM (The Unseen Sketches of Kids in the Hall with Kevin McDonald).

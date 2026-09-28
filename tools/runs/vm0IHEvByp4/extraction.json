@@ -1,0 +1,189 @@
+{
+  "segments": [
+    {
+      "start": "00:07",
+      "end": "08:40",
+      "canonical_segment": "News",
+      "title": "Pepito Cold Open Sign-On",
+      "notes": "Pepito delivers the live broadcast sign-on with an extended musical lullaby performance before Case joins on mic."
+    },
+    {
+      "start": "08:40",
+      "end": "27:59",
+      "canonical_segment": "News",
+      "title": "Desk Banter: Haircuts and Segment Stacking",
+      "notes": "Case and Pepito discuss Case's haircut, potential blonde dye job, botox sub-goal, and the crowded segment lineup including How To with Jeb and DJ C4."
+    },
+    {
+      "start": "27:59",
+      "end": "01:10:51",
+      "canonical_segment": "News",
+      "title": "Nobel Peace Prize: María Corina Machado and Trump's Reaction",
+      "notes": "Case covers the 2025 Nobel Peace Prize awarded to Venezuelan opposition leader María Corina Machado, Trump's denied desire for the prize, administration denunciation, and Obama's congratulatory post. Durf and Kendelle interrupt with personal updates."
+    },
+    {
+      "start": "01:02:14",
+      "end": "01:10:51",
+      "canonical_segment": "News",
+      "title": "AI Slop and Sora-Generated Historical Figures",
+      "notes": "Case reacts to chat links of Sora-generated videos (MLK dabbing, Kevin Pereira vaping) and discusses the ethics of AI-generated likenesses of historical figures."
+    },
+    {
+      "start": "01:12:10",
+      "end": "01:30:28",
+      "canonical_segment": "How To with Jeb",
+      "title": "Gun Mario Dessert Shells, Beer Shotgunning, and Human Kibble",
+      "notes": "Jeb presents viewer-submitted how-to videos: Gun Mario making dessert shells, a 17-year-old Drunk University beer shotgunning device, and a human kibble recipe that unsettles the studio."
+    },
+    {
+      "start": "01:30:28",
+      "end": "02:04:33",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Kevin's Copyright Infringement Debate",
+      "notes": "Kevin hosts a call-in debate on IP law with parody characters (Ben Dro, Poke Bear, Scumpley LaRue) arguing 'everything should be free' vs. copyright enforcement, devolving into a 'poop' vs 'proop' linguistic dispute."
+    },
+    {
+      "start": "02:10:47",
+      "end": "02:30:39",
+      "canonical_segment": "DJ C4",
+      "title": "Justin Juice Power Song Completion",
+      "notes": "Case and DJ C4 finish writing and recording the Justin Juice Power theme song with ghostwriter lyrics, Justin Juice performs the vocal take, and the track is locked for mixing."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors the broadcast, discusses Nobel Peace Prize and AI slop, gets a haircut, completes Justin Juice song with DJ C4.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers musical cold open sign-on, banters with Case about haircuts and cheese, manages segment queue.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Durf",
+      "role": "guest",
+      "notes": "guest. Case's brother interrupts news desk with surreal non-sequiturs and promotes his Chicago sketch show on Nov 8.",
+      "canonical_name": "Durf",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walks through studio, discusses Chicago Sketch Fest dates, attempts hula hooping, sends cat video break.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Delivers freestyle rap about Shrek fan fiction, hell, and subscriber shoutouts before departing.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "correspondent",
+      "notes": "correspondent. Hosts How To with Jeb from woodshop, presents gun Mario, beer shotgunning, and human kibble videos with his deceased father's board.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kevin",
+      "role": "guest",
+      "notes": "guest. Hosts Jo Rogen Experience copyright debate, argues 'everything should be free,' battles parody characters over IP law and the word 'poop'.",
+      "canonical_name": "Kevin",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ C4",
+      "role": "producer",
+      "notes": "producer. Collaborates with Case to finalize Justin Juice Power lyrics and record the vocal track in-studio.",
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Justin Juice",
+      "role": "musical guest",
+      "notes": "musical guest. Performs the completed Justin Juice Power theme song in the booth, delivers rapid-fire British-style rap verses.",
+      "canonical_name": "Justin Juice",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "No advancement this episode; still pending community pledge execution.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Justin Juice Theme Song",
+      "beat": "[02:27:33] Justin Juice records final vocal take; track locked for mixing, to debut Monday.",
+      "timestamp": "02:27:33"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "09:32",
+      "entity": "",
+      "fact": "Case received a haircut (single long hair removed).",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "34:37",
+      "entity": "Kendelle",
+      "fact": "Kendelle confirmed for Chicago Sketch Fest performance November 8 at 7:30 PM (The Unseen Sketches of Kids in the Hall with Kevin McDonald).",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:27:33",
+      "entity": "",
+      "fact": "Justin Juice Power theme song completed and recorded; vocals to be mixed for Monday debut.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:11:07",
+      "entity": "",
+      "fact": "Rob Alvy interview scheduled for Monday broadcast.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:11:53",
+      "entity": "",
+      "fact": "Conspiracy Corner segment planned for Monday.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a sprawling Friday broadcast covering the Nobel Peace Prize awarded to Venezuelan opposition leader María Corina Machado over Trump's objections, an AI slop tangent on Sora-generated historical figures, a How To with Jeb segment featuring human kibble, a chaotic Jo Rogen Experience copyright debate hosted by Kevin, and the completion of the Justin Juice Power theme song with DJ C4. Durf and Kendelle make disruptive studio appearances, and Hype Train delivers a Shrek-centric freestyle. The episode ends with a raid to Bruce Greene.",
+  "_meta": {
+    "vod_id": "vm0IHEvByp4",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 122836,
+    "approx_prompt_tokens": 30709,
+    "transcript_lines": 343
+  }
+}
