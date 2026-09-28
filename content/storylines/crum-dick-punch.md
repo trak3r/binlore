@@ -107,6 +107,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2025-06-05|2025-06-05]] [43:54] | [43:54] Crum's gorilla debt corrected from ~$30k discrepancy to $70k; Munch manages ledger, refuses debt increase; gorilla 'votes' for Zoran Mamdani in imaginary debate. |
 | [[../episodes/2025-06-17|2025-06-17]] | [2025-06-17] Execution confirmed for tomorrow (June 18) after Case confirms no Wednesday stream; Crum has two debate wins remaining to avoid the pneumatic gorilla groin strike; Munch rallies chat, Crum attempts 'positivity crucible' framing. |
 | [[../episodes/2025-06-26|2025-06-26]] [2:03:22] | [2:03:22] Munch (as Coach McGurk) references mechanical gorilla still missing; Crum's body parts reattached with hot glue after prison guard hose-down. |
+| [[../episodes/2025-07-10|2025-07-10]] | Munch admits he refused to contact the devil to resurrect Crum after the groin-punch execution; Crum returns with damaged vocal cords requiring Bart Simpson voice modulator [1:58:15, 2:05:13]. |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |

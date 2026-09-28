@@ -45,15 +45,16 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-09-18|2025-09-18]] | debate analyst. |
 | [[episodes/2025-09-15|2025-09-15]] | debate analyst. |
 | [[episodes/2025-08-11|2025-08-11]] | Debate analyst torments Crum over his missing penis and hell visions while arguing for Gatorade supremacy. |
+| [[episodes/2025-07-10|2025-07-10]] | debate analyst. |
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 | [[episodes/2025-06-28|2025-06-28]] | debate analyst. |
-| [[episodes/2025-06-26|2025-06-26]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (108)</summary>
+<summary>Earlier appearances (109)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-06-26|2025-06-26]] | debate analyst. |
 | [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
 | [[episodes/2025-06-20|2025-06-20]] | debate analyst. |
 | [[episodes/2025-06-19|2025-06-19]] | debate analyst. |
@@ -232,3 +233,4 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[]** ([[episodes/2025-06-05|2025-06-05]]): [2:07:15] Confirmed 'weirdly loaded' per tax processing of stream donations.
 - **[1:09:32]** ([[episodes/2025-06-17|2025-06-17]]): Munch reveals the gorilla punch cost him $25,000 to arrange.
 - **[2:03:53]** ([[episodes/2025-06-26|2025-06-26]]): Operating as 'Coach McGurk' — claims paid cleaning service/prison guards to hose down Crum; says mental recovery tied to physical.
+- **[]** ([[episodes/2025-07-10|2025-07-10]]): Munch explicitly refused to contact the devil to resurrect Crum after Crum Dick Punch execution [1:58:15]

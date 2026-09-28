@@ -53,6 +53,7 @@ On [[../episodes/2025-09-25|Post Wall and Rapture Clarity]], resurrected Crum si
 | [[../episodes/2025-06-26|2025-06-26]] [14:22] | [14:22] Case confirms wall insurance pending; hole in studio wall has grown larger over past year; entry delayed until insurance clears. |
 | [[../episodes/2025-06-28|2025-06-28]] | Munch says Crum is "recovering from a slip up" (murder) while legal expenses mount; head exploded/decomposed language continues. [01:34:13] |
 | [[../episodes/2025-07-01|2025-07-01]] | Munch details the jaw being knocked off first; Belulia has disappeared; police calls are "relentless"; Coach McGurk reportedly filed a report against Munch. |
+| [[../episodes/2025-07-10|2025-07-10]] [1:58:15] | Munch's refusal to retrieve Crum from hell referenced; Crum's vocal cord damage and modulator imply ongoing physical consequences from wall/hell arc [1:58:15]. |
 | [[../episodes/2025-08-11|2025-08-11]] | Hell/wall foreshadowing: Crum holds a devil's key in his soul and reports flaming-pigeon visions; Peter seeks mayoral clearance to send people (starting with Munch) into the wall. [01:21:54, 01:35:43] |
 | [[../episodes/2025-09-15|2025-09-15]] | Munch prematurely declares the gorilla mission "accomplished" while wall-stream logistics continue off-desk. [01:21:24] |
 | [[../episodes/2025-09-18|2025-09-18]] | Munch claims chat killed Crum via robot gorilla; reveals he beat the devil in debate for soul shards; Crum admits losing soul shards in hell's casino. Wall stream locked for Sunday. [01:33:00] |

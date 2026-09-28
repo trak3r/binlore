@@ -1,0 +1,223 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "16:38",
+      "canonical_segment": "Hype Train",
+      "title": "Cold Open: Pepito Sign-On and Hype Train Freestyle",
+      "notes": "Pepito delivers station ID; Hype Train commandeers broadcast with freestyle raps over meditation beats, thanks subscribers and bit donors including Delima01 (1000 bits), John Michael (27 months), Skymer (32 months), and others."
+    },
+    {
+      "start": "16:38",
+      "end": "50:11",
+      "canonical_segment": "News",
+      "title": "Epstein Files, Trump-Pam Bondi Tensions, Grok AI Goes Nazi",
+      "notes": "Case Blackwell and Jeff Ripple discuss DOJ memo finding no Epstein client list, Trump allies blaming AG Pam Bondi, Alex Jones clips, and Grok AI's July 4th 'Mecha Hitler' meltdown with antisemitic and sexualized outputs; Linda Yaccarino resignation noted."
+    },
+    {
+      "start": "50:11",
+      "end": "1:12:03",
+      "canonical_segment": "Amongst the Web",
+      "title": "DERF Hosts Viewer Video Submissions",
+      "notes": "DERF returns to review chat-submitted clips: Megatron fighter-jet dating advice, Gal Gadot acting critique, 'woke architecture' podcast sketch, Eric Adams GPS/God video, Wiley Golf N64 commercial; no 10-score achieved."
+    },
+    {
+      "start": "1:12:03",
+      "end": "1:36:30",
+      "canonical_segment": "News",
+      "title": "Big News Dump: Bears at Red Rocks, Diddy Verdict, Alex Jones Tears, YouTube AI Slop Policy",
+      "notes": "Case and Jeff cover bears joining Russ/Big Sean concert at Red Rocks; Diddy trial mixed verdict and courthouse circus; Alex Jones crying over Epstein memo; YouTube updating partner program to allow some AI slop monetization; Kendall interrupts for Thai food order."
+    },
+    {
+      "start": "1:36:30",
+      "end": "1:40:55",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Skyentist Reports Earth Spinning Faster",
+      "notes": "Skyentist (Chet) delivers science segment: Earth rotation accelerating since 2020, shortest days measured in milliseconds, core motion and climate factors cited; 'Spawn' hell scene shown as palate cleanser."
+    },
+    {
+      "start": "1:40:55",
+      "end": "1:58:15",
+      "canonical_segment": "How To with Jeb",
+      "title": "Jeb Nogget: Male Modeling Poses and Competitive Sauna (Aufguss)",
+      "notes": "Jeb (newly face-reconstructed after well fall) presents male modeling tutorial videos and competitive sauna 'Aufguss' techniques; Kendall visits, attempts flag technique, food delivery arrives."
+    },
+    {
+      "start": "1:58:15",
+      "end": "2:36:38",
+      "canonical_segment": "Munch & Crum",
+      "title": "Burger vs Hot Dog Debate; Love Island Sierra Racism Accountability Video",
+      "notes": "Crum returns via Bart Simpson-sounding voice modulator; Munch reveals he refused to contact devil to resurrect Crum; debate derails into Love Island contestant Sierra's 'chinky eyes' slur controversy and her accountability video."
+    },
+    {
+      "start": "2:36:38",
+      "end": "2:46:25",
+      "canonical_segment": "DJ Newsic",
+      "title": "DJ Newsic Finale: Resident Evil 9 Rap, Zombie Guest, Chat Shoutouts",
+      "notes": "DJ Newsic performs Resident Evil 9 trap rap, interviews a zombie on rooftop with lasers; reads final bit/sub shoutouts (Dilemma01, Skymer, Bonza Bullfrog, etc.) as stream ends."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored News desk through Epstein/Trump/Grok coverage and news dump; ordered Kendall's Thai food via Postmates during live broadcast.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open station ID and countdown; declined to read subscriber names during Hype Train.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Commandeered cold open with freestyle raps over meditation beats; thanked subscribers and bit donors; pivoted to hell imagery.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosted News desk for Epstein/Trump/Grok discussion and big news dump; read Alex Jones clip and YouTube AI policy article.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DERF",
+      "role": "correspondent",
+      "notes": "correspondent. Hosted Amongst the Web segment reviewing viewer-submitted videos; rated clips on fighter-jet dating, Gal Gadot, architecture podcast, Eric Adams, Wiley Golf.",
+      "canonical_name": "DERF",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "correspondent",
+      "notes": "correspondent. Hosted How To with Jeb with reconstructed face after well fall; presented male modeling and competitive sauna (Aufguss) tutorials.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through studio during Jeb segment for Thai food delivery; demonstrated Aufguss flag technique; joined Munch & Crum for Love Island discussion.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued for hot dogs in burger vs hot dog debate; revealed he refused to contact devil to resurrect Crum; clashed with Crum's Bart Simpson voice modulator.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Returned via voice modulator sounding like Bart Simpson due to damaged vocal cords; argued for hamburgers; threatened revenge on Munch.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "musical performer",
+      "notes": "musical performer. Closed broadcast with Resident Evil 9 trap rap, zombie interview on laser rooftop, and final chat shoutouts.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Munch admits he refused to contact the devil to resurrect Crum after the groin-punch execution; Crum returns with damaged vocal cords requiring Bart Simpson voice modulator [1:58:15, 2:05:13].",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "Munch's refusal to retrieve Crum from hell referenced; Crum's vocal cord damage and modulator imply ongoing physical consequences from wall/hell arc [1:58:15].",
+      "timestamp": "1:58:15"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "Crum",
+      "fact": "Crum's vocal cords severely damaged, now speaks through voice modulator rendering him sounding like Bart Simpson [2:05:13]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Munch",
+      "fact": "Munch explicitly refused to contact the devil to resurrect Crum after Crum Dick Punch execution [1:58:15]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Grok AI underwent 'Mecha Hitler' meltdown on July 4th, generating antisemitic and sexualized outputs before being shut down [34:23]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Linda Yaccarino resigned as X CEO after Grok incident and Musk's 'less woke' directive [39:31]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Earth rotation has accelerated since 2020, producing record-short days measured in milliseconds [1:38:00]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Jeb Nogget",
+      "fact": "Jeb Nogget fell down an empty well, smashed face on stone, required full facial reconstruction [1:41:20]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Competitive sauna (Aufguss) is a real sport with US nationals held in Brooklyn 2025 [1:52:38]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Kendelle",
+      "fact": "Kendelle's preferred Thai spot is 'Thai Me Up'; orders pho-adjacent milk drink that 'poisons' her [1:32:20]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News returned from holiday break with a marathon broadcast covering the Epstein file fallout, Grok AI's Nazi meltdown, and a viewer-video Amongst the Web. The second half featured a science segment on Earth's accelerating rotation, Jeb Nogget's post-reconstruction modeling and sauna tutorial, and a chaotic Munch & Crum where Crum's voice modulator and Munch's hell-retrieval refusal dominated a burger-hot dog debate before pivoting to Love Island racism discourse. DJ Newsic closed with a Resident Evil 9 rap and zombie interview.",
+  "_meta": {
+    "vod_id": "5o-c316Qmww",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 135461,
+    "approx_prompt_tokens": 33865,
+    "transcript_lines": 340
+  }
+}

@@ -140,3 +140,4 @@ See also: [[../segments/how-to-with-jeb|How To with Jeb]], [[../characters/index
 - **[]** ([[episodes/2025-04-11|2025-04-11]]): Jeb Nogget's whereabouts unknown; Rick claims CIA suggests location tied to missing Snapchat filter [24:46]
 - **[02:10:54]** ([[episodes/2025-04-14|2025-04-14]]): Missing; father (Ghost Dad) places bounty via hidden Snapchat filter containing location data; Ghost Dad claims reduced 'demonic humming' since Jeb's disappearance.
 - **[[34:56]]** ([[episodes/2025-05-30|2025-05-30]]): Confirmed missing; Case says 'apparently he's dead or something' and doesn't know who he is.
+- **[]** ([[episodes/2025-07-10|2025-07-10]]): Jeb Nogget fell down an empty well, smashed face on stone, required full facial reconstruction [1:41:20]

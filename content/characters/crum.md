@@ -55,13 +55,14 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-09-21|2025-09-21]] | debate analyst. |
 | [[episodes/2025-09-18|2025-09-18]] | debate analyst. |
 | [[episodes/2025-09-15|2025-09-15]] | debate analyst. |
-| [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
+| [[episodes/2025-07-10|2025-07-10]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (115)</summary>
+<summary>Earlier appearances (116)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 | [[episodes/2025-06-28|2025-06-28]] | debate analyst. |
 | [[episodes/2025-06-26|2025-06-26]] | debate analyst. |
 | [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
@@ -333,3 +334,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[57:50]** ([[episodes/2025-06-17|2025-06-17]]): Crum's gorilla groin-punch execution is scheduled for the June 18 broadcast (Case off Wednesday).
 - **[1:00:10]** ([[episodes/2025-06-17|2025-06-17]]): Crum requires two debate wins ('two more W's') to void the $200k wager forfeit.
 - **[2:02:51]** ([[episodes/2025-06-26|2025-06-26]]): Body parts came off during prison guard cleaning; reattached with hot glue; undergoing physical therapy with Coach McGurk (Munch in disguise).
+- **[]** ([[episodes/2025-07-10|2025-07-10]]): Crum's vocal cords severely damaged, now speaks through voice modulator rendering him sounding like Bart Simpson [2:05:13]

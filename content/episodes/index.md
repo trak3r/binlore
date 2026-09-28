@@ -22,11 +22,11 @@ Complete stream archive tracked for *Barely Informed News*. Episodes are ingeste
     <div class="stat-label">Total Broadcast Lore</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">271</div>
+    <div class="stat-value">272</div>
     <div class="stat-label">Ingested & Extracted</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">105</div>
+    <div class="stat-value">104</div>
     <div class="stat-label">Pending Ingestion Backlog</div>
   </div>
 </div>
@@ -44,8 +44,8 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   <div class="filter-group">
     <select id="status-filter">
       <option value="all">All Statuses (376)</option>
-      <option value="ingested">Ingested Only (271)</option>
-      <option value="backlog">Backlog Only (105)</option>
+      <option value="ingested">Ingested Only (272)</option>
+      <option value="backlog">Backlog Only (104)</option>
     </select>
     <select id="page-size">
       <option value="25">25 per page</option>
@@ -209,7 +209,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
 <tr data-status="backlog" data-title="quick stream before patreon" data-date="2025-07-17" data-vod-id="qr-l_kvake4" style="display: none;"><td class="cell-date"><code>2025-07-17</code></td><td class="cell-title">Quick Stream Before Patreon</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">qR-l_kVaKE4</code></td><td class="cell-dur">19:44</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=qR-l_kVaKE4" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="monday icey summer news" data-date="2025-07-15" data-vod-id="zuyymjg_nim" style="display: none;"><td class="cell-date"><code>2025-07-15</code></td><td class="cell-title">Monday Icey Summer News</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">ZUYyMjg_NiM</code></td><td class="cell-dur">1:52:34</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=ZUYyMjg_NiM" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="quick, late and dirty friday newsday" data-date="2025-07-12" data-vod-id="ebd0mok8b9w" style="display: none;"><td class="cell-date"><code>2025-07-12</code></td><td class="cell-title">Quick, Late and Dirty Friday Newsday</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">Ebd0mok8B9w</code></td><td class="cell-dur">2:22:18</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=Ebd0mok8B9w" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
-<tr data-status="backlog" data-title="back from the wet hot american party, time to news" data-date="2025-07-10" data-vod-id="5o-c316qmww" style="display: none;"><td class="cell-date"><code>2025-07-10</code></td><td class="cell-title">Back From the Wet Hot American Party, Time to NEWS</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">5o-c316Qmww</code></td><td class="cell-dur">2:46:25</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=5o-c316Qmww" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
+<tr data-status="ingested" data-title="back from the wet hot american party, time to news" data-date="2025-07-10" data-vod-id="5o-c316qmww" style="display: none;"><td class="cell-date"><code>2025-07-10</code></td><td class="cell-title"><a href="./2025-07-10" class="internal"><strong>Back From the Wet Hot American Party, Time to NEWS</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">5o-c316Qmww</code></td><td class="cell-dur">2:46:25</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=5o-c316Qmww" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="big beautiful monday news" data-date="2025-07-01" data-vod-id="erveburdez4" style="display: none;"><td class="cell-date"><code>2025-07-01</code></td><td class="cell-title"><a href="./2025-07-01" class="internal"><strong>Big Beautiful Monday News</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">ERveBURDEZ4</code></td><td class="cell-dur">3:07:34</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=ERveBURDEZ4" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="friday newsday plus potential musical punishment" data-date="2025-06-28" data-vod-id="_nvokahtaiu" style="display: none;"><td class="cell-date"><code>2025-06-28</code></td><td class="cell-title"><a href="./2025-06-28" class="internal"><strong>Friday Newsday Plus Potential Musical Punishment</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">_nvoKaHtAIU</code></td><td class="cell-dur">2:34:38</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=_nvoKaHtAIU" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="friday newsday plus potential musical punishment" data-date="2025-06-28" data-vod-id="thyugalezw8" style="display: none;"><td class="cell-date"><code>2025-06-28</code></td><td class="cell-title"><a href="./2025-06-28" class="internal"><strong>Friday Newsday Plus Potential Musical Punishment</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">THyUgAlEzW8</code></td><td class="cell-dur">5:11</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=THyUgAlEzW8" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
