@@ -204,3 +204,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[]** ([[episodes/2025-07-29|2025-07-29]]): Changed hair parting direction to left side per stylist instruction [09:54]
 - **[]** ([[episodes/2025-07-29|2025-07-29]]): Attending comedy show with Kendelle for friend's stand-up performance [12:54]
 - **[]** ([[episodes/2025-07-30|2025-07-30]]): Changed his hair part direction to the opposite side. [28:14]
+- **[]** ([[episodes/2025-08-02|2025-08-02]]): [01:10:19] Announces vacation next week (no stream); will return Monday after next; may attempt 'dumb stream' from laptop if friends allow.

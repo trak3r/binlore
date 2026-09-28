@@ -1,0 +1,200 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "04:49",
+      "canonical_segment": "News",
+      "title": "Cold Open & Technical Difficulties",
+      "notes": "Case and Pepito struggle through three stream restart attempts; Pepito admits to biting power cords and delivers a one-word prayer."
+    },
+    {
+      "start": "04:49",
+      "end": "35:47",
+      "canonical_segment": "News",
+      "title": "Trump Fires Labor Official, Fed Governor Resigns, Tariff Fallout",
+      "notes": "Case and new correspondent Girf cover Trump firing BLS commissioner Erica Mick and Taffer over weak jobs data, Fed governor Adriana Kugler's surprise resignation, S&P 500 dropping 1.6%, and Kamala Harris on Colbert declaring the system broken."
+    },
+    {
+      "start": "35:47",
+      "end": "53:33",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Armpit Odor Study & Pasta Bowl vs Plate Debate",
+      "notes": "Chet triggers on 'science' to present Japanese study on women's armpit odor affecting male attraction; Devil possesses Chet, then Munch and Crum debate pasta vessel superiority while Devil awards Munch a key for the wall."
+    },
+    {
+      "start": "53:33",
+      "end": "01:11:31",
+      "canonical_segment": "Amongst the Web",
+      "title": "Video Review: Fire Eater, Tom Green, Video Store, Fossils, Animal Clips",
+      "notes": "Peter Gibbon joins from the walls; Case and Peter watch fire-eating woman, Tom Green katana training, Minneapolis video store 'Nicolet Village Video', fossil hunting with rock hammer, and animal videos including Hulk Hogan tribute."
+    },
+    {
+      "start": "01:11:31",
+      "end": "01:20:49",
+      "canonical_segment": "AI Rooney",
+      "title": "AI Rooney: Hot Dog/Bun Mismatch, Salsa Semantics, Skirt Airflow",
+      "notes": "Rare segment activation; AI-generated Andy Rooney rants about hot dog packs of ten vs bun packs of eight, salsa meaning sauce, skirts being too airy, and LAN parties."
+    },
+    {
+      "start": "01:20:49",
+      "end": "02:34:19",
+      "canonical_segment": "DJ C4",
+      "title": "Song Production: 'Smooth Like Mayo' Parody with Mancini Smooth",
+      "notes": "Case, ghostwriter, and chat write Maroon 5 'Moves Like Jagger' parody about mayonnaise; Mancini Smooth records vocals in multiple takes; Jay Drilla (Jev) performs bridge; Case announces vacation next week."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored Friday News Blast through technical difficulties, news desk, science interruption, video review, AI Rooney, and a marathon mayonnaise parody song production.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Claimed responsibility for biting power cords and breaking the stream three times; delivered a one-word prayer ('Amen').",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Girf",
+      "role": "correspondent",
+      "notes": "Debuted as a wandering, youthful-appearing correspondent who debates Case on astral projection, height, and government trust while co-anchoring the news desk.",
+      "canonical_name": "Girf",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Triggered by the word 'science' to present a Japanese study on women's armpit odor compounds spiking at ovulation and increasing male attraction.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "The Devil",
+      "role": "supernatural entity",
+      "notes": "supernatural entity. Auto-possessed Chet, bantered with Munch and Crum about Crum's missing penis, awarded Munch a key for the wall expedition, then departed.",
+      "canonical_name": "The Devil",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defended plates over bowls in pasta debate, won 8-0, received a key from the Devil for the wall thing, and mocked Crum's missing penis.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued for bowls, complained about missing penis after gorilla punch, let Devil speak for him, and threatened revenge on Gorilla, DJ, and Munch.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Emerged from walls to join video review, made racist adjacent joke about video store name, refused to leave, and claimed infinite space between walls.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Mancini Smooth",
+      "role": "musical guest",
+      "notes": "musical guest. Returned after absence to record 'Smooth Like Mayo' vocals in multiple takes, claimed production as first love, and left before bridge.",
+      "canonical_name": "Mancini Smooth",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jay Drilla (Jev)",
+      "role": "musical guest",
+      "notes": "musical guest. Recorded bridge vocals for mayo parody after warming up with 'Unique New York'; departed immediately after.",
+      "canonical_name": "Jay Drilla (Jev)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Ghostwriter",
+      "role": "ghost writer",
+      "notes": "ghost writer. Assisted lyric writing for mayo parody as a literal ghost who imagines his voice onto the mortal plane.",
+      "canonical_name": "Ghostwriter",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[36:07] Devil and Munch reference Crum's missing penis from the gorilla punch; Munch claims he couldn't find it during resurrection.",
+      "timestamp": "36:07"
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "[47:02] Devil gives Munch a key to 'use at the end of the wall thing' and says Munch must go on a 'Perseus style expedition' to retrieve Crum.",
+      "timestamp": "47:02"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Girf",
+      "fact": "[05:18] Debuts as a wandering correspondent who claims to be younger than Case in years but older in spirit; has a brother who also wanders.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "[01:10:19] Announces vacation next week (no stream); will return Monday after next; may attempt 'dumb stream' from laptop if friends allow.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Mancini Smooth",
+      "fact": "[02:11:15] Returns after extended absence; claims he has 'grown past' and 'evolved beyond' the network but returns to roots; wears same tuxedo from first appearance.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jay Drilla",
+      "fact": "[02:25:08] Current nickname is 'Jev'; performs bridge vocals for mayo parody; warming routine is repeating 'Unique New York'.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "The Devil",
+      "fact": "[47:02] Gives Munch a physical key for the wall expedition; claims Munch must undertake the journey himself.",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News overcame a three-restart cold open to deliver a packed Friday News Blast: Trump's firing of the BLS commissioner and a Fed governor's resignation rattled markets, new correspondent Girf made a chaotic desk debut, Chet's science segment on armpit pheromones summoned the Devil, who awarded Munch a key for the wall expedition after Munch crushed Crum 8-0 in the pasta bowl-vs-plate debate. Peter Gibbon emerged from the walls for a video review block, AI Rooney returned for a rare cantankerous monologue, and the broadcast closed with a marathon live songwriting session producing the mayonnaise-themed 'Smooth Like Mayo' featuring Mancini Smooth and Jay Drilla. Case announced a one-week vacation hiatus.",
+  "_meta": {
+    "vod_id": "2-r8wLGmPcM",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 111739,
+    "approx_prompt_tokens": 27934,
+    "transcript_lines": 374
+  }
+}

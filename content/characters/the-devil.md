@@ -22,12 +22,14 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 ## Appearances
 
 | Episode | Notes |
-|---------|-------|
+|---|---|
+| [[episodes/2025-08-02|2025-08-02]] | supernatural entity. |
 | [[episodes/2025-03-19|2025-03-19]] | Auto-created minor character after appearing in 3 extracted episodes (threshold 3). |
 
 ## Notable moments
 
 - First identified in [[episodes/2025-03-19|Episode 2025-03-19]].
+- **[]** ([[episodes/2025-08-02|2025-08-02]]): [47:02] Gives Munch a physical key for the wall expedition; claims Munch must undertake the journey himself.
 
 ## Open questions
 

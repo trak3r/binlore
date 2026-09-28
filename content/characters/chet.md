@@ -45,6 +45,7 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2025-09-25|2025-09-25]] | science correspondent. |
 | [[episodes/2025-09-18|2025-09-18]] | science correspondent. |
 | [[episodes/2025-09-15|2025-09-15]] | science correspondent. |
+| [[episodes/2025-08-02|2025-08-02]] | science correspondent. |
 | [[episodes/2025-07-30|2025-07-30]] | science correspondent. |
 | [[episodes/2025-07-19|2025-07-19]] | science correspondent. |
 | [[episodes/2025-07-12|2025-07-12]] | science correspondent. |
@@ -54,13 +55,13 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2025-06-07|2025-06-07]] | Chief Science Correspondent. |
 | [[episodes/2025-06-05|2025-06-05]] | science correspondent. |
 | [[episodes/2025-05-13|2025-05-13]] | science correspondent. |
-| [[episodes/2025-05-05|2025-05-05]] | science correspondent. |
 
 <details>
-<summary>Earlier appearances (60)</summary>
+<summary>Earlier appearances (61)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-05-05|2025-05-05]] | science correspondent. |
 | [[episodes/2025-05-01|2025-05-01]] | science correspondent. |
 | [[episodes/2025-04-04|2025-04-04]] | science correspondent. |
 | [[episodes/2025-03-31|2025-03-31]] | science correspondent. |

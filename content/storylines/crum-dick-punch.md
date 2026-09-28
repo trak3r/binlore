@@ -114,6 +114,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2025-07-26|2025-07-26]] [57:33] | [57:33] Devil confirms Crum is in hell, best-of-five debate series underway; Munch needs two more wins to free Crum. |
 | [[../episodes/2025-07-29|2025-07-29]] [1:16:44] | [1:16:44] Devil reveals Crum has lost once in a three-loss series required to extract someone from hell; Crum's gambling liability to the Devil continues. |
 | [[../episodes/2025-07-30|2025-07-30]] [2:09:23] | Crum's gambling addiction resurfaces as he confesses to stealing employees from Trump's spa, linking his liabilities to the Epstein news cycle. [2:09:23] |
+| [[../episodes/2025-08-02|2025-08-02]] [36:07] | [36:07] Devil and Munch reference Crum's missing penis from the gorilla punch; Munch claims he couldn't find it during resurrection. |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T11:27:49.128378+00:00",
+  "generated_at": "2026-09-28T11:28:49.838275+00:00",
   "thresholds": {
     "minor": 3,
     "recurring": 6,
@@ -8,7 +8,7 @@
   "characters": {
     "case-blackwell": {
       "name": "Case Blackwell",
-      "count": 222,
+      "count": 223,
       "episodes": [
         "2023-11-22",
         "2023-11-23",
@@ -199,6 +199,7 @@
         "2025-07-26",
         "2025-07-29",
         "2025-07-30",
+        "2025-08-02",
         "2025-08-11",
         "2025-09-15",
         "2025-09-18",
@@ -239,7 +240,7 @@
     },
     "pepito": {
       "name": "Pepito",
-      "count": 200,
+      "count": 201,
       "episodes": [
         "2023-11-30",
         "2023-12-06",
@@ -405,6 +406,7 @@
         "2025-07-26",
         "2025-07-29",
         "2025-07-30",
+        "2025-08-02",
         "2025-08-11",
         "2025-09-15",
         "2025-09-18",
@@ -624,7 +626,7 @@
     },
     "crum": {
       "name": "Crum (Leonard Crum)",
-      "count": 154,
+      "count": 155,
       "episodes": [
         "2023-11-22",
         "2023-11-28",
@@ -753,6 +755,7 @@
         "2025-07-26",
         "2025-07-29",
         "2025-07-30",
+        "2025-08-02",
         "2025-08-11",
         "2025-09-15",
         "2025-09-18",
@@ -787,7 +790,7 @@
     },
     "munch": {
       "name": "Munch (Ralph Munchcut)",
-      "count": 144,
+      "count": 145,
       "episodes": [
         "2023-11-22",
         "2023-11-28",
@@ -911,6 +914,7 @@
         "2025-07-26",
         "2025-07-29",
         "2025-07-30",
+        "2025-08-02",
         "2025-08-11",
         "2025-09-15",
         "2025-09-18",
@@ -1201,7 +1205,7 @@
     },
     "chet": {
       "name": "Chet (Chet Manscape)",
-      "count": 92,
+      "count": 93,
       "episodes": [
         "2023-11-28",
         "2023-11-30",
@@ -1281,6 +1285,7 @@
         "2025-07-12",
         "2025-07-19",
         "2025-07-30",
+        "2025-08-02",
         "2025-09-15",
         "2025-09-18",
         "2025-09-25",
@@ -1302,7 +1307,7 @@
     },
     "peter-gibbon": {
       "name": "Peter Gibbon",
-      "count": 77,
+      "count": 78,
       "episodes": [
         "2023-11-22",
         "2023-12-12",
@@ -1371,6 +1376,7 @@
         "2025-06-28",
         "2025-07-15",
         "2025-07-18",
+        "2025-08-02",
         "2025-08-11",
         "2025-09-21",
         "2026-03-07",
@@ -2125,6 +2131,19 @@
         "Ghost Writer"
       ]
     },
+    "the-devil": {
+      "name": "The Devil",
+      "count": 4,
+      "episodes": [
+        "2025-03-19",
+        "2025-07-29",
+        "2025-07-30",
+        "2025-08-02"
+      ],
+      "display_names": [
+        "The Devil"
+      ]
+    },
     "coach-mcgurk": {
       "name": "Coach McGurk",
       "count": 3,
@@ -2221,18 +2240,6 @@
         "Sammy Seven Elbows"
       ]
     },
-    "the-devil": {
-      "name": "The Devil",
-      "count": 3,
-      "episodes": [
-        "2025-03-19",
-        "2025-07-29",
-        "2025-07-30"
-      ],
-      "display_names": [
-        "The Devil"
-      ]
-    },
     "abraham-lincoln": {
       "name": "Abraham Lincoln",
       "count": 2,
@@ -2286,6 +2293,17 @@
       ],
       "display_names": [
         "Garf Gutter"
+      ]
+    },
+    "ghostwriter": {
+      "name": "Ghostwriter",
+      "count": 2,
+      "episodes": [
+        "2025-07-12",
+        "2025-08-02"
+      ],
+      "display_names": [
+        "Ghostwriter"
       ]
     },
     "gianna-wetmichael": {
@@ -2374,6 +2392,17 @@
       ],
       "display_names": [
         "Live 'n Sleazy"
+      ]
+    },
+    "mancini-smooth": {
+      "name": "Mancini Smooth",
+      "count": 2,
+      "episodes": [
+        "2025-04-04",
+        "2025-08-02"
+      ],
+      "display_names": [
+        "Mancini Smooth"
       ]
     },
     "ramon-salazar": {
@@ -2998,16 +3027,6 @@
         "Gex 64"
       ]
     },
-    "ghostwriter": {
-      "name": "Ghostwriter",
-      "count": 1,
-      "episodes": [
-        "2025-07-12"
-      ],
-      "display_names": [
-        "Ghostwriter"
-      ]
-    },
     "gianna-wettmichel": {
       "name": "Gianna Wettmichel",
       "count": 1,
@@ -3026,6 +3045,16 @@
       ],
       "display_names": [
         "Gina"
+      ]
+    },
+    "girf": {
+      "name": "Girf",
+      "count": 1,
+      "episodes": [
+        "2025-08-02"
+      ],
+      "display_names": [
+        "Girf"
       ]
     },
     "gizbo": {
@@ -3196,6 +3225,16 @@
       ],
       "display_names": [
         "Jay Drilla"
+      ]
+    },
+    "jay-drilla-jev": {
+      "name": "Jay Drilla (Jev)",
+      "count": 1,
+      "episodes": [
+        "2025-08-02"
+      ],
+      "display_names": [
+        "Jay Drilla (Jev)"
       ]
     },
     "jazz-shrimp": {
@@ -3386,16 +3425,6 @@
       ],
       "display_names": [
         "Mancini"
-      ]
-    },
-    "mancini-smooth": {
-      "name": "Mancini Smooth",
-      "count": 1,
-      "episodes": [
-        "2025-04-04"
-      ],
-      "display_names": [
-        "Mancini Smooth"
       ]
     },
     "marfus": {
