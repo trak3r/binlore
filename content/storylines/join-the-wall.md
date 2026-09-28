@@ -73,6 +73,7 @@ On [[../episodes/2025-09-25|Post Wall and Rapture Clarity]], resurrected Crum si
 | [[../episodes/2025-09-18|2025-09-18]] | Munch claims chat killed Crum via robot gorilla; reveals he beat the devil in debate for soul shards; Crum admits losing soul shards in hell's casino. Wall stream locked for Sunday. [01:33:00] |
 | [[../episodes/2025-09-21|2025-09-21]] | **Climax:** Join the Wall RPG descent. Crum found dead in hell as assistant manager of the hell transit authority; rescued via Munch's hell key. [02:31:32] |
 | [[../episodes/2025-09-25|2025-09-25]] | **Resurrection coda:** Crum back from hell after the gorilla explosion arc; claims amnesia and super strength; Munch demands points return. [1:20:22–1:42:23] |
+| [[../episodes/2025-09-26|2025-09-26]] [53:14] | [53:14] Munch references retrieving Crum from hell where Crum was working as assistant manager at a hellish transit authority. |
 
 ## Related Pages
 

@@ -71,5 +71,6 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/rob-elvie|Rob Elvie]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
 | [[characters/ghost-writer|Ghost Writer]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
 | [[characters/the-devil|The Devil]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
+| [[characters/mancini-smooth|Mancini Smooth]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
 
 See also: [[../storylines/crum-dick-punch|Crum Dick Punch]], [[../segments/munch-and-crum|Munch & Crum]].

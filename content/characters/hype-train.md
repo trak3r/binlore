@@ -211,3 +211,4 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[19:19]** ([[episodes/2025-05-14|2025-05-14]]): Hype Train lore: hell denizens chug chunky piss and eat piss cakes (frozen piss with cake chunks) as sacrament.
 - **[12:09]** ([[episodes/2025-06-26|2025-06-26]]): Hell has new middle management making conditions 'extra shitty'; escape requires passing through permeable membrane described as 'Hell's Hymen' that has regrown stronger.
 - **[[15:51]]** ([[episodes/2025-09-05|2025-09-05]]): Expands personal mythology: identifies as a 'sea train' living under the ocean, drinking train piss which becomes ocean piss.
+- **[[11:46]]** ([[episodes/2025-09-26|2025-09-26]]): Explicitly denies having sex, stating 'I'm a train'; describes hell as eternal constipation where 'you're just a running faucet' of waste.

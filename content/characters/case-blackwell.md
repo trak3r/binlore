@@ -210,3 +210,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[02:50:20]** ([[episodes/2025-09-03|2025-09-03]]): Confirmed 9/19 digital-ticket D&D one-shot 'We're All Going to Die' with Gina Darling and John Madison [02:50:20].
 - **[[10:27]]** ([[episodes/2025-09-13|2025-09-13]]): Green couch acquired for green screen production; no content made on it yet.
 - **[[10:48]]** ([[episodes/2025-09-13|2025-09-13]]): Beyblade tournament and wall entry scheduled for 2025-09-19.
+- **[[01:02:12]]** ([[episodes/2025-09-26|2025-09-26]]): Currently staying in a hotel because wife is living with her French tutor; Case lost Munch's Beyblades during a move.

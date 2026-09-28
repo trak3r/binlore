@@ -1,0 +1,203 @@
+{
+  "segments": [
+    {
+      "start": "00:04",
+      "end": "08:54",
+      "canonical_segment": "News",
+      "title": "Cold Open: Pepito Sign-On & Studio Check-In",
+      "notes": "Pepito delivers the broadcast sign-on as 'Papita' with musical intro; Case and Hype Train banter about sub goals and Crum's absence; Jeb Nogget briefly appears searching for glasses."
+    },
+    {
+      "start": "08:54",
+      "end": "18:18",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Sub Acknowledgments & Derailment",
+      "notes": "Hype Train acknowledges subscribers with freestyle raps over 'limp tight beats'; discusses hell metaphysics, constipation as consummation, and denies having sex; Jeb interrupts looking for glasses."
+    },
+    {
+      "start": "18:18",
+      "end": "52:00",
+      "canonical_segment": "News",
+      "title": "News Desk: Gaza Flotilla, Hospital Bombing, JD Vance",
+      "notes": "Case and Rick cover the international aid flotilla attacked by drones near Greece, Reuters investigation contradicting Israel's account of the Al-Nasr hospital strike, and JD Vance's 'troll' persona; RPG overlay glitches interrupt periodically."
+    },
+    {
+      "start": "52:00",
+      "end": "01:03:22",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: Is Pepito Evil?",
+      "notes": "Crum returns claiming he never died and has growing 'hell powers' from creatine; Munch insists he retrieved Crum from hell; Pepito issues an 'anti-pardon'; debate concludes with both sides claiming victory."
+    },
+    {
+      "start": "01:03:22",
+      "end": "01:07:03",
+      "canonical_segment": "Beyblade Tournament",
+      "title": "Beyblade Stream Goal Setup",
+      "notes": "Case attempts to configure a new sub goal for the 2v2 Beyblade Burst Event ('Point Burst'); reveals he lost Munch's Beyblades during move; authentication errors plague the setup."
+    },
+    {
+      "start": "01:07:03",
+      "end": "01:36:14",
+      "canonical_segment": "News",
+      "title": "Town Hall: Mancini Smooth & Rob Elvie",
+      "notes": "Viewer questions fielded by Mancini Smooth and Rob Elvie covering theme parks, genital slits, Sonic racing, Epstein list, whole grain bread, crackhead yogi, urinal cakes, Trip Bradstein, roller coasters, presidential statues, vampire producer, dentures, bodily functions, stars, Dwarf Fortress, and Chet Hanks impressions."
+    },
+    {
+      "start": "01:36:14",
+      "end": "01:45:20",
+      "canonical_segment": "News",
+      "title": "Wrap-Up: Kendelle Call & Raid",
+      "notes": "Case takes call from Kendelle about evening plans; stream ends early for off-air commitment; raid to Static Blader attempted with Rob singing about Jizbo."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored news desk with Rick, moderated Munch & Crum debate, attempted Beyblade goal setup, hosted town hall, took call from Kendelle to end stream.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on as 'Papita', issued anti-pardon for Crum, debated his own morality during Munch & Crum segment.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Performed sub acknowledgments with surreal freestyle raps, discussed hell metaphysics, denied having sex, clashed with Jeb Nogget.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "recurring",
+      "notes": "recurring. Briefly appeared searching for glasses during Hype Train segment, departed after finding them.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "correspondent",
+      "notes": "correspondent. Co-anchored news desk covering Gaza flotilla, hospital bombing investigation, and JD Vance; traded barbs with Case throughout.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Returned claiming he never died, cited creatine for 'hell powers', debated Pepito's morality, referenced Beyblade points loss.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Insisted he retrieved Crum from hell, argued Pepito is good/evil, claimed victory in debate, referenced lost Beyblades.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Mancini Smooth",
+      "role": "guest",
+      "notes": "guest. Town hall co-host answering viewer questions with extreme confidence and coaster obsession; departed for fancy plane ticket.",
+      "canonical_name": "Mancini Smooth",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rob Elvie",
+      "role": "guest",
+      "notes": "guest. Town hall co-host fielding questions, mocked by Mancini, sang about Jizbo at end, demanded appearance fee.",
+      "canonical_name": "Rob Elvie",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Called in at stream end to coordinate evening plans with Case, prompting early wrap-up.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[01:03:22] Case attempts to configure new sub goal 'Point Burst' for 2v2 Beyblade Burst Event; reveals he lost Munch's Beyblades during move.",
+      "timestamp": "01:03:22"
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[52:50] Crum claims he never died and has growing 'hell powers' from creatine; Munch insists he pulled Crum from hell after weeks of volleyball-corpse denial.",
+      "timestamp": "52:50"
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "[53:14] Munch references retrieving Crum from hell where Crum was working as assistant manager at a hellish transit authority.",
+      "timestamp": "53:14"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum",
+      "fact": "Claims he never died and has growing 'hell powers' (chameleon abilities, superhuman strength, speaking unknown languages) which he attributes to creatine supplementation.",
+      "timestamp": "[52:50]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch",
+      "fact": "Confirms Crum died and went to hell; Munch spent days cleaning Crum's remains and retrieved him from a hellish transit authority where Crum was assistant manager.",
+      "timestamp": "[53:14]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Issued an 'anti-pardon' for Crum's rest after Crum accused Pepito of stealing his voice while he was dead.",
+      "timestamp": "[55:27]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Currently staying in a hotel because wife is living with her French tutor; Case lost Munch's Beyblades during a move.",
+      "timestamp": "[01:02:12]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Explicitly denies having sex, stating 'I'm a train'; describes hell as eternal constipation where 'you're just a running faucet' of waste.",
+      "timestamp": "[11:46]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News broadcast opens with Pepito's musical sign-on and a derailed Hype Train segment before Case and Rick cover the Gaza aid flotilla drone attacks and a Reuters investigation contradicting Israel's account of the Al-Nasr hospital bombing. Crum returns claiming he never died and exhibits 'hell powers,' sparking a Munch & Crum debate on Pepito's morality. Case struggles to configure a Beyblade Tournament sub goal, then hosts a chaotic town hall with Mancini Smooth and Rob Elvie. The stream ends early when Kendelle calls to coordinate evening plans, prompting a raid to Static Blader.",
+  "_meta": {
+    "vod_id": "LNQ0e2tBowY",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 89601,
+    "approx_prompt_tokens": 22400,
+    "transcript_lines": 231
+  }
+}
