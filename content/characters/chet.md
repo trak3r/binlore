@@ -45,6 +45,7 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2025-09-25|2025-09-25]] | science correspondent. |
 | [[episodes/2025-09-18|2025-09-18]] | science correspondent. |
 | [[episodes/2025-09-15|2025-09-15]] | science correspondent. |
+| [[episodes/2025-08-26|2025-08-26]] | science correspondent. |
 | [[episodes/2025-08-21|2025-08-21]] | science correspondent. |
 | [[episodes/2025-08-02|2025-08-02]] | science correspondent. |
 | [[episodes/2025-07-30|2025-07-30]] | science correspondent. |
@@ -54,13 +55,13 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2025-06-20|2025-06-20]] | science correspondent. |
 | [[episodes/2025-06-17|2025-06-17]] | Chief Science Correspondent. |
 | [[episodes/2025-06-07|2025-06-07]] | Chief Science Correspondent. |
-| [[episodes/2025-06-05|2025-06-05]] | science correspondent. |
 
 <details>
-<summary>Earlier appearances (62)</summary>
+<summary>Earlier appearances (63)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-06-05|2025-06-05]] | science correspondent. |
 | [[episodes/2025-05-13|2025-05-13]] | science correspondent. |
 | [[episodes/2025-05-05|2025-05-05]] | science correspondent. |
 | [[episodes/2025-05-01|2025-05-01]] | science correspondent. |
@@ -172,3 +173,4 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 - **[]** ([[episodes/2025-03-19|2025-03-19]]): Triggered by 'science' keyword during tantric sex segment, summoning ChetAI for German translation. [1:54:49]
 - **[]** ([[episodes/2025-03-31|2025-03-31]]): Chet Manscape can rap news over hard country trap beats while ice dunking. [03:05:25]
 - **[]** ([[episodes/2025-05-01|2025-05-01]]): Back is 'uncrackable' / 'too defended' — multiple methods fail; claims 'biggest crack of all time' pending [1:12:17]
+- **[]** ([[episodes/2025-08-26|2025-08-26]]): Girlfriend Maya introduced via Sesame AI app; uncomfortable with 'rotated sex' prompt; Chet ends segment reading Red Wall books. [2:02:13]

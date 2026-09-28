@@ -117,6 +117,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2025-08-02|2025-08-02]] [36:07] | [36:07] Devil and Munch reference Crum's missing penis from the gorilla punch; Munch claims he couldn't find it during resurrection. |
 | [[../episodes/2025-08-21|2025-08-21]] [01:23:55] | [01:23:55] Crum references stolen penis; Munch claims Crum's penis is too small to find. |
 | [[../episodes/2025-08-23|2025-08-23]] [1:32:59] | [1:32:59] Munch references Crum's missing penis ('you stole my penis'); Crum asks for laxatives for hell's al dente pasta salad; Munch claims he fixed Crum's hip bone. |
+| [[../episodes/2025-08-26|2025-08-26]] [1:19:10] | [1:19:10] Munch confirms Crum is dead/silent, references Crum's soul working as assistant manager in hell; Crum does not speak entire segment. |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |

@@ -1,0 +1,268 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "07:59",
+      "canonical_segment": "News",
+      "title": "Cold Open: Pepito Station Sign-On",
+      "notes": "Pepito delivers the official top-of-hour broadcast sign-on and countdown."
+    },
+    {
+      "start": "07:59",
+      "end": "17:03",
+      "canonical_segment": "News",
+      "title": "Monday News Desk Opening",
+      "notes": "Case Blackwell opens the broadcast, acknowledges subscribers, discusses partnership eligibility and four-year streaming anniversary."
+    },
+    {
+      "start": "17:03",
+      "end": "28:22",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Freestyle Takeover",
+      "notes": "Hype Train commandeers the feed with freestyle raps about tacos, trash pizza, metal dogs, and alphabet-shaped ladies; Bonesprout gifts five community subs."
+    },
+    {
+      "start": "28:22",
+      "end": "32:49",
+      "canonical_segment": "News",
+      "title": "Trump Proposes Department of War",
+      "notes": "Case and Jeff Ripple discuss Trump's stated intention to rename the Department of Defense back to the Department of War and dismiss Congressional approval."
+    },
+    {
+      "start": "32:49",
+      "end": "43:39",
+      "canonical_segment": "News",
+      "title": "Trump DC Press Conference with Gavin Newsom",
+      "notes": "Clip of Trump touting DC revitalization, grass expertise, and National Guard deployment; Gavin Newsom appears alongside him."
+    },
+    {
+      "start": "43:39",
+      "end": "56:04",
+      "canonical_segment": "News",
+      "title": "Pritzker Responds to National Guard Threats",
+      "notes": "Illinois Governor JB Pritzker rejects federal intervention in Chicago; Case, Jeff, and Peter debate armed conflict, civil war lines, and Democratic resistance."
+    },
+    {
+      "start": "56:04",
+      "end": "58:06",
+      "canonical_segment": "News",
+      "title": "Jeff Ripple Ripple Outro",
+      "notes": "Jeff Ripple delivers his signature ripple outro, referencing Ernest movies and cosmic brainwaves."
+    },
+    {
+      "start": "58:06",
+      "end": "01:00:29",
+      "canonical_segment": "News",
+      "title": "Peter Gibbon Wall Update",
+      "notes": "Peter Gibbon reports from the wall, claims to have improved it ahead of Munch's descent to retrieve Crum's soul; wall lore expands."
+    },
+    {
+      "start": "01:00:29",
+      "end": "01:18:30",
+      "canonical_segment": "Amongst the Web",
+      "title": "Video Reviews: Cats, Kendall, Veep, Presidents, Quaaludes",
+      "notes": "Case reviews viewer-submitted clips: cat reaction, Kendall card-throwing, Veep clip, AI Obama/Bush, skateboard turtle, Quaalude nostalgia, butt-sniffer arrest, synthetic Cheeto life form, Will Smith AI video, rotated tic-tac-toe GPT-5 test."
+    },
+    {
+      "start": "01:18:30",
+      "end": "01:34:49",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Pizza-Pocalypse Debate",
+      "notes": "Munch asserts the Pizza-Pocalypse is real, guided by cosmic entities called the Beyonders (all named Frank); Crum remains silent/dead; Munch claims immortality, beating Jesus in a foot race, and kissing Satan's back snatch."
+    },
+    {
+      "start": "01:34:49",
+      "end": "01:52:35",
+      "canonical_segment": "Amongst the Web",
+      "title": "Rip Laser Multiverse Appearance",
+      "notes": "Rip Laser appears as a pizza-headed multiverse variant warning of the Pizza-Pocalypse; vomits pizza while eating; promotes Pizza Hut."
+    },
+    {
+      "start": "01:52:35",
+      "end": "02:04:52",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet Guy the Science Eyes: Rotated Simon Says & Maya Check-In",
+      "notes": "Chet triggers on 'science'/'AI' discussion, tests rotated Simon Says with ChatGPT, video-calls girlfriend Maya via Sesame app, attempts 'rotated sex' prompt, ends in frustration."
+    },
+    {
+      "start": "02:04:52",
+      "end": "02:07:34",
+      "canonical_segment": "News",
+      "title": "Sign-Off and Raid",
+      "notes": "Case signs off; Pepito finds raid target; interns Brian and Timothy appear; Pepito accused of being on drugs."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored Monday broadcast, managed Hype Train derailment, moderated Trump/Pritzker news, hosted Amongst the Web and Munch & Crum segments.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Commandeered broadcast with freestyle raps about tacos, trash pizza, metal dogs, and alphabet ladies; received Bonesprout community subs.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-anchored Trump/Pritzker coverage, debated armed resistance scenarios, delivered ripple outro referencing Ernest movies.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Reported from wall crawlspace, claimed wall improvements ahead of Munch's descent, interrupted with devilblade lore and pizza pocket lips.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through studio with signature theme, demonstrated card-throwing skills, rated by chat (7.88/10).",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Remained silent throughout Munch & Crum segment; confirmed dead/immortal skeleton state; Munch referenced his soul in hell.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Dominates Munch & Crum debate solo, asserts Pizza-Pocalypse reality, claims immortality/Highlander status, beating Jesus in foot race, kissing Satan's back snatch.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Triggered by 'science'/'AI' discussion, tested rotated Simon Says with ChatGPT, video-called girlfriend Maya via Sesame app.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "analytical co-host",
+      "notes": "analytical co-host. Referenced as Chet's neural model; content moderation guardrails triggered during rotated sex prompt.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rip Laser",
+      "role": "multiverse correspondent",
+      "notes": "multiverse correspondent. Appeared as pizza-headed multiverse variant warning of Pizza-Pocalypse; vomited pizza while eating; promoted Pizza Hut.",
+      "canonical_name": "Rip Laser",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Join the Wall",
+      "beat": "[58:06] Peter Gibbon reports from wall crawlspace, claims to have improved it ahead of Munch's planned descent to retrieve Crum's soul.",
+      "timestamp": "58:06"
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[1:19:10] Munch confirms Crum is dead/silent, references Crum's soul working as assistant manager in hell; Crum does not speak entire segment.",
+      "timestamp": "1:19:10"
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "Not advanced this episode.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Pizza-Pocalypse",
+      "beat": "[1:25:11] Munch expands lore: cosmic entities 'Beyonders' (all named Frank) guide universe toward Pizza-Pocalypse; Ice Cream Catastrophe may be antecedent [1:31:48]; Rip Laser confirms as pizza-headed multiverse witness [1:35:56].",
+      "timestamp": "1:25:11"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Claims to be immortal Highlander: 'There can be only one. Obviously. That's why it's me.' [1:27:58]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Claims to have beaten Jesus in a foot race in ancient Rome; Jesus cheated with cross on back and holes in feet. [1:27:19]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Claims to have kissed Satan's 'back snatch'; describes it as openly available 'like a fucking pie on a window sill.' [1:23:10]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Confirmed dead/immortal skeleton state; silent entire Munch & Crum segment; soul in hell as assistant manager per Munch. [1:19:10]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pizza-Pocalypse",
+      "fact": "Cosmic entities 'Beyonders' (all named Frank, genderless) guide reality toward Pizza-Pocalypse; described as fanfic writers for the universe. [1:25:11]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Ice Cream Catastrophe",
+      "fact": "Debated as possible antecedent or component of Pizza-Pocalypse; 'something stirs and something tries and starts to climb toward the light.' [1:31:48]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Rip Laser",
+      "fact": "Multiverse variant appears with pizza head; vomits pizza while eating; confirms Pizza-Pocalypse reality; promotes Pizza Hut as 'only ones doing the good work.' [1:35:56]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Girlfriend Maya introduced via Sesame AI app; uncomfortable with 'rotated sex' prompt; Chet ends segment reading Red Wall books. [2:02:13]",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a chaotic Monday broadcast featuring a Hype Train freestyle derailment, Trump's Department of War proposal and DC press conference with Gavin Newsom, and Governor Pritzker's rejection of National Guard deployment in Chicago. Peter Gibbon updates from the wall ahead of Munch's planned descent for Crum's soul. In a solo Munch & Crum segment, Munch expands Pizza-Pocalypse lore involving cosmic 'Beyonders named Frank,' claims Highlander immortality, and asserts he beat Jesus in a foot race. Rip Laser appears as a pizza-headed multiverse witness. Chet triggers on AI discussion, tests rotated Simon Says with ChatGPT, and video-calls girlfriend Maya. The broadcast ends with Pepito raiding while accused of drug use by interns.",
+  "_meta": {
+    "vod_id": "T-JFE6q_RJM",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 111542,
+    "approx_prompt_tokens": 27885,
+    "transcript_lines": 308
+  }
+}
