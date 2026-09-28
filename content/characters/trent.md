@@ -23,6 +23,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-10-06|2025-10-06]] | town hall participant. |
 | [[episodes/2025-09-03|2025-09-03]] | movie correspondent. |
 | [[episodes/2025-05-30|2025-05-30]] | parole officer bit. |
 | [[episodes/2025-02-14|2025-02-14]] | debate analyst. |
@@ -42,13 +43,13 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 | [[episodes/2024-01-13|2024-01-13]] | movie correspondent. |
 | [[episodes/2024-01-05|2024-01-05]] | movie correspondent. |
 | [[episodes/2023-12-21|2023-12-21]] | field correspondent. |
-| [[episodes/2023-12-12|2023-12-12]] | movie correspondent. |
 
 <details>
-<summary>Earlier appearances (1)</summary>
+<summary>Earlier appearances (2)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2023-12-12|2023-12-12]] | movie correspondent. |
 | [[episodes/2023-11-22|2023-11-22]] | Auto-created minor character after appearing in 3 extracted episodes (threshold 3). |
 
 </details>

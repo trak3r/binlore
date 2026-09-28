@@ -77,6 +77,7 @@ On [[../episodes/2025-09-25|Post Wall and Rapture Clarity]], resurrected Crum si
 | [[../episodes/2025-09-29|2025-09-29]] [01:41:29] | [01:41:29] Wall lore expanded: Gizbo confirms maintenance work in wall, lost friend Grandman; Crum's concubines claim wall/hell connection. |
 | [[../episodes/2025-10-02|2025-10-02]] | Munch reiterates Crum's hell tenure as assistant manager; threatens to send Crum back through crawlspace to retrieve poster. [01:03:39, 01:09:02] |
 | [[../episodes/2025-10-04|2025-10-04]] | [2025-10-04] Peter Gibbon returns from wall claiming cosmic resilience ('if you break a wall you can rebuild it'); references Munch sending him to hell. |
+| [[../episodes/2025-10-06|2025-10-06]] [01:24:36] | [01:24:36] Case references 'level up again in context' and threatens to 'send someone else into the wall,' invoking the crawlspace hell transit. |
 
 ## Related Pages
 

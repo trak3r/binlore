@@ -61,12 +61,13 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (92)</summary>
+<summary>Earlier appearances (93)</summary>
 
 | Episode | Notes |
 |---|---|
 | [[episodes/2026-06-03|2026-06-03]] | Executive Producer. Canine broadcast executive appearing via Producer Cam. Opens show, manages sub goals, discusses Bart Simpson tattoo logistics. |
 | [[episodes/2026-05-29|2026-05-29]] | Executive producer opening the show with his signature intro. |
+| [[episodes/2025-10-06|2025-10-06]] | executive producer. |
 | [[episodes/2025-09-26|2025-09-26]] | executive producer. |
 | [[episodes/2025-09-15|2025-09-15]] | executive producer. |
 | [[episodes/2025-09-13|2025-09-13]] | executive producer. |
@@ -270,3 +271,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[01:02:44]** ([[episodes/2025-09-02|2025-09-02]]): Signs staff paychecks with mustard; bank rarely accepts them [01:02:44].
 - **[[01:05:13]]** ([[episodes/2025-09-13|2025-09-13]]): Claims sun poisoning but operates switcher for Encircled segment.
 - **[[55:27]]** ([[episodes/2025-09-26|2025-09-26]]): Issued an 'anti-pardon' for Crum's rest after Crum accused Pepito of stealing his voice while he was dead.
+- **[16:34]** ([[episodes/2025-10-06|2025-10-06]]): Pepito produced Beyblade Tournament promotional videos using Sora 2 before the stream went live.

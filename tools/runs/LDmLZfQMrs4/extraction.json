@@ -1,0 +1,192 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "07:50",
+      "canonical_segment": "News",
+      "title": "Pepito Cold Open & Sign-On",
+      "notes": "Pepito delivers the station cold-open with a freestyle rap before transitioning to the day's lineup."
+    },
+    {
+      "start": "07:50",
+      "end": "25:25",
+      "canonical_segment": "News",
+      "title": "AI Slop Check-In & Discord Promos",
+      "notes": "Case and Pepito review viewer-generated Sora 2 videos, including Pepito's own AI promos for the upcoming Beyblade Tournament."
+    },
+    {
+      "start": "25:25",
+      "end": "27:56",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Freestyle Interruption",
+      "notes": "Hype Train commandeers the feed with a high-tempo freestyle over eclectic beats before departing."
+    },
+    {
+      "start": "30:59",
+      "end": "59:43",
+      "canonical_segment": "News",
+      "title": "Israel-Gaza Indirect Talks & Flotilla Update",
+      "notes": "Case, Pepito, and Jeff Ripple cover renewed Egypt-mediated talks, continued Israeli strikes, Greta Thunberg's deportation from the aid flotilla, and Barry Weiss's CBS News appointment."
+    },
+    {
+      "start": "01:03:06",
+      "end": "01:24:36",
+      "canonical_segment": "How To with Jeb",
+      "title": "Male Grooming Tutorials with Jeb & Dad",
+      "notes": "Jeb and his deceased father (trapped in a wooden board) demonstrate hair gel application, chest hair maintenance, and Nair usage while bickering."
+    },
+    {
+      "start": "01:25:08",
+      "end": "01:38:26",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Jeffrey Dahmer Consults on Kendall's TikTok",
+      "notes": "Case summons a spectral Jeffrey Dahmer to workshop caption ideas for Kendall's Dark Harbor scare-actor video; emoji-based concepts prevail."
+    },
+    {
+      "start": "01:38:26",
+      "end": "02:01:49",
+      "canonical_segment": "Town Hall",
+      "title": "Town Hall with Chat & Trent",
+      "notes": "AI entity Chat and youth correspondent Trent field viewer questions on topics ranging from Star Wars names to personal lubricants alternatives, with escalating hostility toward Case."
+    },
+    {
+      "start": "02:02:36",
+      "end": "02:04:45",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid to Ricky Peacock",
+      "notes": "Case closes the broadcast, debuts the Sora-generated 'Book of Glup Shit Oh' trailer, and raids Ricky Peacock."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered the cold-open sign-on, ran the AI slop check-in, and revealed he produced the Beyblade Tournament promos via Sora 2.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosted the news desk, reading wire copy on Gaza talks and the Greta Thunberg flotilla deportation.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "cultural correspondent",
+      "notes": "cultural correspondent. Interrupted the broadcast with a freestyle rap before being dismissed by Case and Pepito.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Presented How To with Jeb from his workshop, demonstrating grooming techniques while arguing with his board-bound father.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "co-host (deceased)",
+      "notes": "co-host (deceased). Remained trapped in a wooden board, providing splinter-based commentary and familial resentment during the grooming segment.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendall",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Briefly appeared off-camera seeking TikTok caption advice for her Dark Harbor scare-actor video.",
+      "canonical_name": "Kendall",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chat",
+      "role": "AI town hall participant",
+      "notes": "AI town hall participant. Fielded questions as the proprietary 'Chey T II' model, claiming a 'shabby jiji' architecture and offering business inquiries.",
+      "canonical_name": "Chat",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "town hall participant",
+      "notes": "town hall participant. Debuted as a beanie-wearing 'wild kid' who answered viewer questions with aggressive dismissiveness and dubious life advice.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[16:34] Pepito airs Sora 2-generated promos announcing the Beyblade blowout for 8 p.m. Eastern / 9 p.m. Eastern (conflicting times) on Barely Informed News.",
+      "timestamp": "16:34"
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "[01:24:36] Case references 'level up again in context' and threatens to 'send someone else into the wall,' invoking the crawlspace hell transit.",
+      "timestamp": "01:24:36"
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:24:36] Case's 'level up' remark and wall threat echo the resolved Crum Dick Punch / Join the Wall saga's RPG scaffolding.",
+      "timestamp": "01:24:36"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "16:34",
+      "entity": "Pepito",
+      "fact": "Pepito produced Beyblade Tournament promotional videos using Sora 2 before the stream went live.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "28:55",
+      "entity": "",
+      "fact": "Case attempted to upload his own face to Sora 2 and received a content violation warning; the system flagged his likeness as resembling JD Vance.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:03:06",
+      "entity": "",
+      "fact": "Jeb's father remains permanently trapped inside a wooden board in the workshop, his spirit animating the lumber.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:56:16",
+      "entity": "",
+      "fact": "Chat identifies as an AI product of 'Chey T II' (spelled C-H-A-I-T dash E), based on a 'shabby jiji' (cal k) architecture.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:02:36",
+      "entity": "",
+      "fact": "Case raids Ricky Peacock at broadcast close, confirming an ongoing network relationship.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened with Pepito's AI-generated Beyblade Tournament promos before pivoting to the Israel-Gaza indirect talks in Egypt, Greta Thunberg's flotilla deportation, and Barry Weiss's CBS News installation. The broadcast then shifted to Jeb's grooming tutorial with his board-bound father, a spectral Jeffrey Dahmer consultation on Kendall's TikTok captions, and a combative Town Hall featuring the AI entity Chat and the hostile youth Trent. Case closed by debuting a Sora 2 trailer for 'The Book of Glup Shit Oh' and raiding Ricky Peacock.",
+  "_meta": {
+    "vod_id": "LDmLZfQMrs4",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 106508,
+    "approx_prompt_tokens": 26627,
+    "transcript_lines": 233
+  }
+}
