@@ -46,6 +46,7 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2026-03-07|2026-03-07]] | Referenced by Case during wrap-up as 'Jeff' in the newsroom. |
 | [[episodes/2025-09-21|2025-09-21]] | news stowaway. |
 | [[episodes/2025-08-11|2025-08-11]] | News stowaway reads gooner AI porn addiction and medical oddity stories while promoting his wall crawlspace mythology. |
+| [[episodes/2025-07-18|2025-07-18]] | news stowaway. |
 | [[episodes/2025-07-15|2025-07-15]] | news stowaway. |
 | [[episodes/2025-06-28|2025-06-28]] | news stowaway. |
 | [[episodes/2025-06-17|2025-06-17]] | news stowaway. |
@@ -55,13 +56,13 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2025-05-21|2025-05-21]] | news stowaway. |
 | [[episodes/2025-05-14|2025-05-14]] | news stowaway. |
 | [[episodes/2025-05-02|2025-05-02]] | news stowaway. |
-| [[episodes/2025-05-01|2025-05-01]] | news stowaway. |
 
 <details>
-<summary>Earlier appearances (56)</summary>
+<summary>Earlier appearances (57)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-05-01|2025-05-01]] | news stowaway. |
 | [[episodes/2025-04-23|2025-04-23]] | news stowaway. |
 | [[episodes/2025-04-18|2025-04-18]] | Referenced as having had his toes eaten by Papito, confirming his continued wall-dwelling presence. |
 | [[episodes/2025-04-04|2025-04-04]] | news stowaway. |

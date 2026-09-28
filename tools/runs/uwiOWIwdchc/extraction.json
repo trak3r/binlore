@@ -1,0 +1,121 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "08:13",
+      "canonical_segment": "News",
+      "title": "Cold Open & Technical Difficulties",
+      "notes": "Case Blackwell and Executive Producer Pepito troubleshoot persistent streaming glitches, frame-rate drops, and audio desync while bantering about late-night television and hard-shell tacos."
+    },
+    {
+      "start": "08:13",
+      "end": "34:16",
+      "canonical_segment": "News",
+      "title": "Trump–Epstein Birthday Card Report",
+      "notes": "Blackwell covers the Wall Street Journal report on a purported Trump-signed birthday card for Jeffrey Epstein featuring a hand-drawn nude woman and cryptic message; Rick (Amongst the Web host) interjects with a ranked list of alleged sex offenders and commentary on Apple TV+ streaming quality."
+    },
+    {
+      "start": "34:16",
+      "end": "42:20",
+      "canonical_segment": "Munch & Crum",
+      "title": "Hard-Shell vs. Soft-Shell Taco Debate",
+      "notes": "Senior debate analysts Ralph Munchcut and Crum clash over taco shell preference via Crum's assistive speech device; Munch claims Mexican heritage, Crum advocates white-food-only diet, and the segment ends with a rushed Patreon plug."
+    },
+    {
+      "start": "42:20",
+      "end": "44:18",
+      "canonical_segment": "News",
+      "title": "Raid & Sign-Off",
+      "notes": "Blackwell aborts the broadcast early to raid Ricky Pica, while Pepito and Crum trade final barbs about mothers and malfunctioning voice boxes."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors a truncated, glitch-plagued broadcast while juggling tech failures and a looming Patreon obligation.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Identified as 'Papita' by ASR; manages the control room during severe streaming instability and deflects blame for frame-rate issues.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates taco topology through a synthetic voice device after reported vocal-cord damage, insists he only eats white foods.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defends soft-shell tacos as traditional Mexican fare, claims Mexican heritage, and scores a disputed victory before the hard cut.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "Amongst the Web host",
+      "notes": "Amongst the Web host. Briefly joins the news desk to deliver a ranked list of alleged sex offenders and praise Apple TV+ original programming.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Mentioned as physically present in the studio ('Jeff, why are you over there?') but does not speak on air.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Referenced by Case as running at '10 frames per second' from within the studio walls.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Now relies on a handheld speech-synthesis device (Speak & Spell style) to communicate on air due to damaged vocal cords.",
+      "timestamp": "[36:38]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "ASR consistently transcribes his name as 'Papita' during this broadcast.",
+      "timestamp": "[00:01]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News airs a severely abbreviated, technically compromised edition in which Case Blackwell and a glitch-ridden control room cover the Wall Street Journal's Trump–Epstein birthday-card exposé before pivoting to a chaotic Munch & Crum debate on taco-shell supremacy. The broadcast terminates early so Blackwell can fulfill a Patreon commitment, ending with an unscheduled raid on Ricky Pica.",
+  "_meta": {
+    "vod_id": "uwiOWIwdchc",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 52544,
+    "approx_prompt_tokens": 13136,
+    "transcript_lines": 79
+  }
+}

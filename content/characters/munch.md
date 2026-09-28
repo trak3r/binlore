@@ -45,15 +45,16 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2025-09-18|2025-09-18]] | debate analyst. |
 | [[episodes/2025-09-15|2025-09-15]] | debate analyst. |
 | [[episodes/2025-08-11|2025-08-11]] | Debate analyst torments Crum over his missing penis and hell visions while arguing for Gatorade supremacy. |
+| [[episodes/2025-07-18|2025-07-18]] | debate analyst. |
 | [[episodes/2025-07-15|2025-07-15]] | debate analyst. |
 | [[episodes/2025-07-10|2025-07-10]] | debate analyst. |
-| [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (110)</summary>
+<summary>Earlier appearances (111)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 | [[episodes/2025-06-28|2025-06-28]] | debate analyst. |
 | [[episodes/2025-06-26|2025-06-26]] | debate analyst. |
 | [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
