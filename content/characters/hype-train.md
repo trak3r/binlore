@@ -56,7 +56,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-06-22|2026-06-22]] | High-velocity musical correspondent who confesses to cheating on his Panther girlfriend, discusses beats, and provides cultural commentary throughout the pre-show. |
 
 <details>
-<summary>Earlier appearances (64)</summary>
+<summary>Earlier appearances (65)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -76,6 +76,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2025-06-11|2025-06-11]] | Commandeered the birthday broadcast with freestyle raps, hell lore, and a level-13 surge while insisting every hype train is his birthday. |
 | [[episodes/2025-06-02|2025-06-02]] | hype correspondent. |
 | [[episodes/2025-05-27|2025-05-27]] | musical/cultural interruption. |
+| [[episodes/2025-05-08|2025-05-08]] | hype correspondent. |
 | [[episodes/2025-04-14|2025-04-14]] | musical interruption. |
 | [[episodes/2025-04-10|2025-04-10]] | musical interruption. |
 | [[episodes/2025-04-04|2025-04-04]] | subscriber acknowledgment. |
@@ -192,3 +193,4 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[13:01]** ([[episodes/2025-01-24|2025-01-24]]): Hype Train's official theme name decided by chat vote: 'Training Montage' (first five submissions).
 - **[25:34]** ([[episodes/2025-01-24|2025-01-24]]): Hype Train theme 'Training Montage' debuts; will play on every future Hype Train appearance.
 - **[]** ([[episodes/2025-02-08|2025-02-08]]): Declares February 'witch month' with dedicated witch beats. [02:43:20]
+- **[]** ([[episodes/2025-05-08|2025-05-08]]): Hype Train possesses an exhaust plate in lieu of a butthole and can manifest hundreds of genitals depending on local population [12:24]

@@ -58,7 +58,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-07-01|2025-07-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (109)</summary>
+<summary>Earlier appearances (110)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -73,6 +73,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-06-02|2025-06-02]] | debate analyst. |
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
+| [[episodes/2025-05-08|2025-05-08]] | debate analyst. |
 | [[episodes/2025-05-05|2025-05-05]] | debate analyst. |
 | [[episodes/2025-05-02|2025-05-02]] | debate analyst. |
 | [[episodes/2025-05-01|2025-05-01]] | debate analyst. |
@@ -318,3 +319,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[53:10]** ([[episodes/2025-05-02|2025-05-02]]): Debt to Rock-afire gorilla now $125,000 (down from $130k); weekly $5k payments with 'ridiculous interest'.
 - **[53:10]** ([[episodes/2025-05-02|2025-05-02]]): Claims 'super strength in spits'; demonstrated crushing electric toothbrush into dust on air.
 - **[01:18:11]** ([[episodes/2025-05-05|2025-05-05]]): Claims ~55 years old, born March 28, 1980; father believed March 28 was leap day, celebrated birthday only every four years.
+- **[]** ([[episodes/2025-05-08|2025-05-08]]): Crum's gambling debt to the Rock-afire gorilla cited as $120,000 [57:49]

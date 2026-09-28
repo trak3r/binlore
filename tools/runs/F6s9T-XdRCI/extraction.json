@@ -1,0 +1,145 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "09:23",
+      "canonical_segment": "News",
+      "title": "Broadcast Sign-On & Studio Chaos",
+      "notes": "Pepito delivers the cold open; Case adjusts a new fishtie accessory; Hype Train arrives and immediately derails the opening."
+    },
+    {
+      "start": "09:24",
+      "end": "14:28",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Derailment",
+      "notes": "Hype Train performs a trap remix freestyle, acknowledges subscriber milestones, and discourses on train biology including exhaust plates and genital multiplicity."
+    },
+    {
+      "start": "14:29",
+      "end": "26:16",
+      "canonical_segment": "News",
+      "title": "News Desk: Pope Leo XIV Elected",
+      "notes": "Case and Jeff Ripple report on Robert Prevost's election as Pope Leo XIV; Kendall makes a brief walk-through; Bazookaral is introduced as the network's new executive producer."
+    },
+    {
+      "start": "26:17",
+      "end": "01:17:24",
+      "canonical_segment": "News",
+      "title": "The Papal Binclave: Tournament of Debates",
+      "notes": "Eight chat-selected candidates compete in a single-elimination debate tournament for the title of Bin Pope; final rap battle on 'Genital Slits' results in Pepito's victory."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors the Binclave special, manages the debate bracket, and contends with a fishtie wardrobe addition.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers the sign-on, competes in and wins the Binclave tournament, becoming the first Bin Pope.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype correspondent",
+      "notes": "hype correspondent. Derails the opening with a freestyle trap set and reveals his exhaust-plate anatomy.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "human-interest correspondent",
+      "notes": "human-interest correspondent. Co-anchors the Pope Leo XIV news segment and attempts to steer toward Amongst the Web.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Brief walk-through appearance; declines interest in the Binclave outcome.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Competes as 'Crumb' in the Binclave, loses a cheese debate to Pepito, and references his $120k gorilla debt.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Bazookaral",
+      "role": "executive producer",
+      "notes": "Debuts as the network's new executive producer with a mandate to make the operation profitable.",
+      "canonical_name": "Bazookaral",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell adopts a fishtie as an on-air accessory [08:39]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Hype Train",
+      "fact": "Hype Train possesses an exhaust plate in lieu of a butthole and can manifest hundreds of genitals depending on local population [12:24]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Bazookaral installed as new executive producer with a profit mandate [19:35]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Crum",
+      "fact": "Crum's gambling debt to the Rock-afire gorilla cited as $120,000 [57:49]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Pepito",
+      "fact": "Pepito elected as the first Bin Pope via rap battle on 'Genital Slits' [01:15:16]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Pepito",
+      "fact": "Pepito's head is 'hat-proof' preventing headwear from appearing on him [01:16:01]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News convened an emergency Binclave to elect a stream-specific Pope following the real-world elevation of Robert Prevost to Pope Leo XIV. Eight candidates competed in a single-elimination debate tournament adjudicated by chat flash polls, culminating in a rap battle on the topic of 'Genital Slits' that saw executive producer Pepito crowned the inaugural Bin Pope. The broadcast also introduced Bazookaral as the network's new executive producer, while Crum's outstanding $120,000 debt to the Rock-afire gorilla was noted as unresolved.",
+  "_meta": {
+    "vod_id": "F6s9T-XdRCI",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 67429,
+    "approx_prompt_tokens": 16857,
+    "transcript_lines": 183
+  }
+}
