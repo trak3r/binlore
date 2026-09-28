@@ -1,0 +1,213 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "09:24",
+      "canonical_segment": "News",
+      "title": "Cold Open: Pepito Station Sign-On",
+      "notes": "Pepito (as Papita) delivers the top-of-hour broadcast sign-on, identifies as the dog producer, and cues a Gregorian chant for daily prayer."
+    },
+    {
+      "start": "13:02",
+      "end": "26:37",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train: Papito Cult Lore & Subscriber Freestyle",
+      "notes": "Hype Train returns from hell, establishes Papito as deity of a piss-centric underworld religion, and freestyles thanks for bits/subs over shifting beats."
+    },
+    {
+      "start": "27:25",
+      "end": "51:13",
+      "canonical_segment": "News",
+      "title": "News Desk: Trump Middle East Trip & Biden Book Revelations",
+      "notes": "Jeff Ripple joins Case to cover Trump's Saudi/Qatar visit, the potential $400M Qatar plane gift, and CNN/AP reporting on Biden's cognitive decline per new book 'Original Sin'."
+    },
+    {
+      "start": "51:13",
+      "end": "01:03:15",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Waffles vs. Pineapple Debate",
+      "notes": "Crum and Munch debate fuckable breakfast foods; Crum advocates for pineapple exterior under pressure of $120k gorilla debt, wins via chat daredevil vote."
+    },
+    {
+      "start": "01:04:08",
+      "end": "01:23:19",
+      "canonical_segment": "News",
+      "title": "Peter Gibbon: Wall Life, Rat Sects & Blue Waffle",
+      "notes": "Peter Gibbon emerges from crawlspace, describes time-dilated wall existence, rat sectarian violence, asbestos exposure, and defines the blue waffle internet hoax."
+    },
+    {
+      "start": "01:24:01",
+      "end": "01:43:12",
+      "canonical_segment": "News",
+      "title": "Trailer Reaction: Kung Fury 2 Ten-Minute Sizzle Reel",
+      "notes": "Case and Jeff watch full 10-minute sizzle reel for Kung Fury 2 featuring Hitler, Thundercops, Michael Fassbender, Arnold Schwarzenegger as president, and dinosaur combat."
+    },
+    {
+      "start": "01:43:12",
+      "end": "01:50:50",
+      "canonical_segment": "News",
+      "title": "Kendall Mention & Superman Trailer Reaction",
+      "notes": "Kendall heard off-mic; Case and Jeff react to Superman trailer (James Gunn), note Krypto the dog, Hawkgirl, Mister Terrific, and Green Lantern appearances."
+    },
+    {
+      "start": "01:50:50",
+      "end": "02:01:29",
+      "canonical_segment": "News",
+      "title": "Trump's New Plane Personified Interview",
+      "notes": "Case interviews Trump's gifted Qatari plane; plane claims to be a 'commercial super compact missile deployment carrier' powered by deals, not fuel, and smells of champagne and 'old sex'."
+    },
+    {
+      "start": "02:04:12",
+      "end": "02:26:16",
+      "canonical_segment": "DJ Newsic",
+      "title": "DJ Newsic Rapid-Fire News Rhymes with Jake",
+      "notes": "DJ Newsic (with co-host Jake) freestyles through chimp medicinal grooming, Liver King documentary, Matthew Coma gym penis claims, Hideo Kojima forgetting game, rattlesnake mega-den orgy, The Miz hosting American Gladiators, Hassan Piker border detention, Mike Lee porn ban bill, Depardieu conviction, ChiefsAholic sentencing, AMC price cuts."
+    },
+    {
+      "start": "02:26:16",
+      "end": "02:31:07",
+      "canonical_segment": "News",
+      "title": "Wrap-Up: Porn Ban Bill Details & Raid to Kendall's Sister",
+      "notes": "Case reads Project 2025 porn criminalization bill details; broadcast ends with raid to Kendall's sister's Marvel Rivals stream."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored flagship broadcast; interviewed Trump's personified plane; moderated Munch & Crum debate and Peter Gibbon wall segment.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on as 'Papita'; established as deity of Hype Train's hell religion.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Returned from hell; freestyled subscriber thanks while expanding Papito-worship piss-cake lore.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosted news desk; covered Trump Middle East trip and Biden book; reacted to Kung Fury 2 and Superman trailers.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued for pineapple exterior fuckability under $120k gorilla debt pressure; won via chat daredevil vote.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Advocated waffle fuckability; goaded Crum on gorilla debt; referenced Crum's conditioning regimen.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Emerged from wall; described time-dilated crawlspace life, rat sectarian violence, asbestos exposure, and blue waffle hoax.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "musical finale host",
+      "notes": "musical finale host. Delivered rapid-fire rhyming news summary with co-host Jake; covered 10+ stories in freestyle format.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[55:14] Crum confirms $120k debt to mechanical gorilla; advocates pineapple exterior to win chat vote and avoid groin punch.",
+      "timestamp": "55:14"
+    },
+    {
+      "storyline": "Peter Gibbon Wall Lore",
+      "beat": "[01:08:51] Peter states 'a day in here is like a hundred days on the outside'; [01:22:01] reveals rat sectarian violence in wall.",
+      "timestamp": "01:08:51"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "14:17",
+      "entity": "Hype Train",
+      "fact": "Hype Train establishes Papito/Pepito as God of hell; denizens worship via bits/subs.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "19:19",
+      "entity": "Hype Train",
+      "fact": "Hype Train lore: hell denizens chug chunky piss and eat piss cakes (frozen piss with cake chunks) as sacrament.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "55:14",
+      "entity": "Crum",
+      "fact": "Crum's gorilla debt reduced to $120k; Crum claims 'super strength in spits' and crushed electric toothbrush to dust.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:08:51",
+      "entity": "Peter Gibbon",
+      "fact": "Peter Gibbon: time dilation in wall — one day inside equals ~100 days outside.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:22:01",
+      "entity": "Peter Gibbon",
+      "fact": "Peter Gibbon: rats in wall have competing faiths causing sectarian violence.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:56:13",
+      "entity": "",
+      "fact": "Trump's new plane self-identifies as 'commercial super compact missile deployment carrier', not a jet.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:01:05",
+      "entity": "",
+      "fact": "Trump's plane claims to be powered by deals, not fuel; refuels in boardrooms where deals happen.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered Trump's Middle East tour and the controversial Qatari plane gift, then reacted to a new book detailing Biden's cognitive decline. The Munch & Crum debate settled on pineapple exterior as the superior fuckable breakfast food, clearing Crum's $120k gorilla debt. Peter Gibbon revealed escalating wall lore including rat sectarian warfare and time dilation, while DJ Newsic closed with a freestyle sprint through chimp medicine, Liver King, gym penis epidemics, and a federal porn ban bill.",
+  "_meta": {
+    "vod_id": "Di1lVisrU3Y",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 121417,
+    "approx_prompt_tokens": 30354,
+    "transcript_lines": 371
+  }
+}

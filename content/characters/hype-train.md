@@ -194,3 +194,5 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[25:34]** ([[episodes/2025-01-24|2025-01-24]]): Hype Train theme 'Training Montage' debuts; will play on every future Hype Train appearance.
 - **[]** ([[episodes/2025-02-08|2025-02-08]]): Declares February 'witch month' with dedicated witch beats. [02:43:20]
 - **[]** ([[episodes/2025-05-08|2025-05-08]]): Hype Train possesses an exhaust plate in lieu of a butthole and can manifest hundreds of genitals depending on local population [12:24]
+- **[14:17]** ([[episodes/2025-05-14|2025-05-14]]): Hype Train establishes Papito/Pepito as God of hell; denizens worship via bits/subs.
+- **[19:19]** ([[episodes/2025-05-14|2025-05-14]]): Hype Train lore: hell denizens chug chunky piss and eat piss cakes (frozen piss with cake chunks) as sacrament.
