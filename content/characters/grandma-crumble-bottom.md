@@ -48,6 +48,7 @@ Grandma frequently drifts into reminiscences of her deceased husband. Rather tha
 | [[episodes/2026-08-08|2026-08-08]] | In-studio contributor co-hosting the Amongst the Web viral clip review segment. Offers stream-of-consciousness commentary on the submitted clips. |
 | [[episodes/2026-07-17|2026-07-17]] | Munch declared Grandma 'the most fully formed idea' on the stream and 'a colleague and a scholar,' claiming she holds a doctorate in chemistry from Yale. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
+| [[episodes/2025-07-30|2025-07-30]] | senior correspondent. |
 | [[episodes/2025-06-02|2025-06-02]] | Jambalaya panelist. |
 | [[episodes/2025-03-31|2025-03-31]] | recurring guest. |
 | [[episodes/2025-02-03|2025-02-03]] | Participated in Jambalaya, claimed responsibility for Kanye outfit, mentioned horny grandson Tyson. |
@@ -86,3 +87,5 @@ See also: [[../segments/amongst-the-web|Amongst the Web]], [[../characters/index
 - **[]** ([[episodes/2025-01-29|2025-01-29]]): Owes $180,000 to piano-playing gorilla; claims farts are quiet but smell bad. [01:48:39, 01:49:47]
 - **[[03:05:49]]** ([[episodes/2025-01-31|2025-01-31]]): Grandson Ralph Munchcut is 16; cousin Tanantha is 6 years older; Grandma hit game level cap 20 years ago.
 - **[]** ([[episodes/2025-03-31|2025-03-31]]): Grandma Crumble Bottom has dyed hair as of this broadcast. [02:21:38]
+- **[]** ([[episodes/2025-07-30|2025-07-30]]): Wife's name confirmed as Blilia (previously Belulia/Belilia). [2:09:43]
+- **[]** ([[episodes/2025-07-30|2025-07-30]]): Birth certificate lists 'euphemism for penis' as her name. [2:51:28]

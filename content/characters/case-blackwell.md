@@ -203,3 +203,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[[21:35]]** ([[episodes/2025-07-15|2025-07-15]]): Shares Apple ID and phone plan with Kendall; accidental FaceTime to Kendall's mom while nude is a running fear.
 - **[]** ([[episodes/2025-07-29|2025-07-29]]): Changed hair parting direction to left side per stylist instruction [09:54]
 - **[]** ([[episodes/2025-07-29|2025-07-29]]): Attending comedy show with Kendelle for friend's stand-up performance [12:54]
+- **[]** ([[episodes/2025-07-30|2025-07-30]]): Changed his hair part direction to the opposite side. [28:14]

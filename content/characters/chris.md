@@ -40,6 +40,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 
 - First identified in [[episodes/2023-11-22|Episode 2023-11-22]].
 - **[[25:05]]** ([[episodes/2024-04-04|2024-04-04]]): Urinates every 20 minutes; acknowledges prostate issues and leaks.
+- **[]** ([[episodes/2025-07-30|2025-07-30]]): Claims to have an uncomfortably long flaccid penis that causes social issues. [2:52:56]
 
 ## Open questions
 

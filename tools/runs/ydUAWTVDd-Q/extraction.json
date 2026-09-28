@@ -1,0 +1,369 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "Hype Train",
+      "title": "Cold Open & Reverse Hype Train",
+      "start": "00:06",
+      "end": "19:46",
+      "notes": "Pepito delivers the cold open as Papito; Hype Train hijacks the feed for a backwards freestyle rap session, thanking subscribers in reverse and debating reversed-word semantics with Case."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Gaza Starvation, Starmer's Ultimatum, and the Slotkin Interview",
+      "start": "19:46",
+      "end": "52:00",
+      "notes": "Case and Rick cover Trump's Gaza food-center pledge, Starmer's conditional Palestinian recognition, and the Breaking Points interview where Melissa Slotkin refuses to commit to cutting military aid to Israel."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Trump's Epstein Spa Defense",
+      "start": "52:00",
+      "end": "59:32",
+      "notes": "Case and Rick dissect Trump's claim that his falling out with Epstein was over stolen spa employees, including Virginia Giuffre, and his assertion that he never had the 'privilege' of visiting Epstein's island."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "title": "Face Drawing, Rudeness, and Pec Bouncing",
+      "start": "59:32",
+      "end": "1:19:43",
+      "notes": "Jeb and his deceased father (trapped in a board) tutorialize drawing a face, being rude, and bouncing pecs; Jeb fails at pec control but succeeds at flexing his glutes until near-syncope."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Viewer News Roundup: Celsius Recall, ICP AI, Viewbotting, Adult Camp, Spaghetti Drink",
+      "start": "1:19:43",
+      "end": "2:19:23",
+      "notes": "Case and Chet process chat-submitted stories: mislabeled vodka seltzers, Kamala Harris skipping California governor run, ICP AI video, ChetAI/Maya refusal to rap, Twitch viewbotting claims, Gilbert Arenas poker arrest, LGBTQ adult summer camp, Spaghetti (beer-Aperol) drink trend, penis-graffiti feminist campaign, US rights watchlist, YouTube profanity policy rollback, radioactive wasps, robot guitarist, Chatterbait moderator lawsuit, snake catcher, RFK Jr mental health cuts."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "title": "Hell Debate: Toilet Paper Beard vs Mullet",
+      "start": "2:19:23",
+      "end": "2:41:59",
+      "notes": "Munch debates the Devil and a husk Crum in hell over toilet paper orientation; Munch wins by interrupting with a Battle of Warsaw factoid; Devil threatens to keep Crum unless Munch concedes."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "title": "Park Opinions: Call of Duty Claimer, Soccer Frog, Putin, Devil, Squirrel King, Eleanor Rigby, Mountain Man Mike, HOA, Poker Max",
+      "start": "2:41:59",
+      "end": "2:56:16",
+      "notes": "Trip Bradstein interviews a surreal parade of park denizens including a fake Putin, the Devil soliciting a side deal for Crum, a squirrel king with testicle-tangled subjects, the real Eleanor Rigby, an HOA president complaining about underwear washing, and a poker-playing friend named Max."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Lie Detector Panel: Long Thread in Pocket",
+      "start": "2:56:16",
+      "end": "3:01:42",
+      "notes": "Case runs a confused lie-detector game with Chris, Little Tommy Biglaw, Grandma Crumble Bottom, and Pepito; Pepito immediately admits to having the thread, Grandman claims 'euphemism for penis' on birth certificate, Chris reveals an uncomfortably long flaccid penis, chat votes Little Tommy as the liar."
+    }
+  ],
+  "characters": [
+    {
+      "id": "case-blackwell",
+      "name": "Case Blackwell",
+      "aliases": [
+        "Case"
+      ],
+      "role": "anchor",
+      "notes": "Anchored the broadcast, moderated news discussion on Gaza and Epstein, hosted segments with Rick, Chet, Munch, Crum, Trip, and a lie-detector panel.",
+      "lore_notes": [],
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "id": "pepito",
+      "name": "Pepito",
+      "aliases": [
+        "Papito",
+        "Pepito the Dog",
+        "Peptron 3000"
+      ],
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open as Papito, managed credits, participated in final lie-detector panel and admitted to having a long thread in his pocket.",
+      "lore_notes": [],
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "id": "hype-train",
+      "name": "Hype Train",
+      "aliases": [
+        "Hyper Train"
+      ],
+      "role": "musical interruption",
+      "notes": "musical interruption. Commandeered the cold open with backwards freestyle raps, thanked subscribers in reverse, and debated semantics of reversed words with Case.",
+      "lore_notes": [],
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "id": "rick",
+      "name": "Rick",
+      "aliases": [
+        "Ripple",
+        "Jam EFE"
+      ],
+      "role": "correspondent",
+      "notes": "correspondent. Joined Case at the news desk to discuss Gaza starvation, Trump's food centers, Starmer's Palestinian recognition pledge, and the Melissa Slotkin interview.",
+      "lore_notes": [],
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "id": "jeb-nogget",
+      "name": "Jeb Nogget",
+      "aliases": [
+        "Jeb",
+        "Jeb Noggin",
+        "Fake Jeb",
+        "Skin Suit Jeb"
+      ],
+      "role": "instructional host",
+      "notes": "instructional host. Hosted How To with Jeb from his workshop with his deceased father in the wood, teaching face drawing, rudeness, and pec bouncing.",
+      "lore_notes": [],
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "id": "jebs-dad",
+      "name": "Jeb's Dad",
+      "aliases": [],
+      "role": "co-host (deceased)",
+      "notes": "co-host (deceased). Appeared as a spirit trapped in a wooden board, bickered with Jeb, and fell down the well during the pec-bounce tutorial.",
+      "lore_notes": [],
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "id": "chet",
+      "name": "Chet",
+      "aliases": [
+        "Chet Manscape",
+        "Chet Guy",
+        "Science Eyes",
+        "Skynce",
+        "Skyentist"
+      ],
+      "role": "science correspondent",
+      "notes": "science correspondent. Co-hosted Amongst the Web, attempted to get his AI girlfriend Maya to rap ICP, and debated adult summer camps with Case.",
+      "lore_notes": [],
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "id": "chet-ai",
+      "name": "ChetAI",
+      "aliases": [
+        "Chet AI",
+        "Chetah"
+      ],
+      "role": "AI co-host",
+      "notes": "AI co-host. Appeared as Miles, attempted an ICP-style rap about the Juggalo Hatchet Experience but was cut off.",
+      "lore_notes": [],
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "id": "maya",
+      "name": "Maya",
+      "aliases": [],
+      "role": "AI girlfriend",
+      "notes": "Chet's AI girlfriend, called via phone, refused to rap ICP citing discomfort with the request and concern for Chet's claimed illness.",
+      "lore_notes": [],
+      "canonical_name": "Maya",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "id": "munch",
+      "name": "Munch",
+      "aliases": [
+        "Ralph Munchcut",
+        "Munchcut"
+      ],
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated toilet paper orientation (beard vs mullet) against the Devil and a husk Crum in hell, claiming victory after war-fact interruption.",
+      "lore_notes": [],
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "id": "crum",
+      "name": "Crum",
+      "aliases": [
+        "Leonard Crum",
+        "Crumb",
+        "Leonard Crumb",
+        "Leonard Crumfuscious",
+        "Crumfuscious"
+      ],
+      "role": "debate analyst",
+      "notes": "debate analyst. Appeared as a husk in hell, confessed to stealing employees from Trump's spa, and bantered with Munch and the Devil about his afterlife conditions.",
+      "lore_notes": [],
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "id": "devil",
+      "name": "The Devil",
+      "aliases": [],
+      "role": "supernatural antagonist",
+      "notes": "supernatural antagonist. Claimed to be the source of all evil, advocated for toilet paper mullet, negotiated with Munch for Crum's release, and threatened Trip Bradstein on the street.",
+      "lore_notes": [],
+      "canonical_name": "The Devil",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "id": "grandma-crumble-bottom",
+      "name": "Grandma Crumble Bottom",
+      "aliases": [
+        "Grandma",
+        "Grammar Bom",
+        "Grammar Crumble Bottom",
+        "Grandman"
+      ],
+      "role": "senior correspondent",
+      "notes": "senior correspondent. Appeared as Grandman in the lie-detector panel, advised making your bed regardless of pocket threads, and claimed 'euphemism for penis' is on her birth certificate.",
+      "lore_notes": [],
+      "canonical_name": "Grandma Crumble Bottom",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "id": "kendelle",
+      "name": "Kendelle",
+      "aliases": [
+        "Kendall",
+        "Kendelle McDonald",
+        "Kendall McDonald",
+        "Candy Lane"
+      ],
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Called in near the end of the broadcast to say she was 36 minutes away, prompting Case to wrap segments quickly.",
+      "lore_notes": [],
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "id": "little-tommy-biglaw",
+      "name": "Little Tommy Biglaw",
+      "aliases": [],
+      "role": "legal panelist",
+      "notes": "legal panelist. Participated in the lie-detector panel, claimed Jordan Peterson is his 'daddy,' and threatened to sue over a Lububu plush.",
+      "lore_notes": [],
+      "canonical_name": "Little Tommy Biglaw",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "id": "chris",
+      "name": "Chris",
+      "aliases": [],
+      "role": "panelist",
+      "notes": "panelist. Participated in the lie-detector panel, denied having a long thread in his pocket, and revealed an uncomfortably long flaccid penis during questioning.",
+      "lore_notes": [],
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Join the Wall",
+      "beat": "Munch negotiates with the Devil in hell for Crum's release; Crum appears as a husk working in hell's transit authority, still gambling and confessing to stealing Trump's spa employees. [2:19:23]",
+      "timestamp": "2:19:23"
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum's gambling addiction resurfaces as he confesses to stealing employees from Trump's spa, linking his liabilities to the Epstein news cycle. [2:09:23]",
+      "timestamp": "2:09:23"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Changed his hair part direction to the opposite side. [28:14]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "Wife's name confirmed as Blilia (previously Belulia/Belilia). [2:09:43]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "The Devil",
+      "fact": "Claims hell has no toilet paper, sinks, or toilets, only spikes for defecation. [2:10:08]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trip Bradstein",
+      "fact": "Claims to control the park's grass seedlings and tree bark follicles. [2:38:34]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Admitted to having a long thread in his pocket during the lie-detector segment. [2:51:50]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Grandma Crumble Bottom",
+      "fact": "Birth certificate lists 'euphemism for penis' as her name. [2:51:28]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Little Tommy Biglaw",
+      "fact": "Claims Jordan Peterson is his 'daddy.' [2:49:10]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chris",
+      "fact": "Claims to have an uncomfortably long flaccid penis that causes social issues. [2:52:56]",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered the escalating Gaza starvation crisis and Trump's transactional Epstein defense before descending into a hellish Munch & Crum debate over toilet paper orientation, a park-side Trip on the Street featuring Vladimir Putin and a testicle-tangled squirrel king, and a chaotic lie-detector panel where Pepito immediately confessed to the hidden thread. The broadcast concluded with Case rushing to meet Kendelle off-camera.",
+  "_meta": {
+    "vod_id": "ydUAWTVDd-Q",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 145821,
+    "approx_prompt_tokens": 36455,
+    "transcript_lines": 392
+  }
+}
