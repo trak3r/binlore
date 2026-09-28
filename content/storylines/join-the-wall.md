@@ -67,6 +67,7 @@ On [[../episodes/2025-09-25|Post Wall and Rapture Clarity]], resurrected Crum si
 | [[../episodes/2025-09-03|2025-09-03]] [02:20:55] | Munch tells Crum 'get in the wall' during debate [02:20:55]; Peter Gibbon claims on Trip's segment he's 'never going back in there again' [02:35:03]. |
 | [[../episodes/2025-09-05|2025-09-05]] | Munch formally announces Thursday 9/11 at 2pm wall stream to enter the crawlspace and rescue Crum from hell, citing guilt over Crum's condition. |
 | [[../episodes/2025-09-10|2025-09-10]] | [2025-09-10] Wall stream delayed from 9/11 to next Friday (9/19) due to guest scheduling; Case worked 'obsessively' two days; Peter Gibbon claims credit for wall access. |
+| [[../episodes/2025-09-11|2025-09-11]] [1:13:39] | [1:13:39] Case states Wall stream delayed by red tape until next Friday; [1:25:00] Crum accuses Munch of delaying Wall stream; [1:26:52] Case confirms Wall rescue scheduled for next Friday. |
 | [[../episodes/2025-09-15|2025-09-15]] | Munch prematurely declares the gorilla mission "accomplished" while wall-stream logistics continue off-desk. [01:21:24] |
 | [[../episodes/2025-09-18|2025-09-18]] | Munch claims chat killed Crum via robot gorilla; reveals he beat the devil in debate for soul shards; Crum admits losing soul shards in hell's casino. Wall stream locked for Sunday. [01:33:00] |
 | [[../episodes/2025-09-21|2025-09-21]] | **Climax:** Join the Wall RPG descent. Crum found dead in hell as assistant manager of the hell transit authority; rescued via Munch's hell key. [02:31:32] |

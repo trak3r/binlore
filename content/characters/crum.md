@@ -55,13 +55,14 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-09-21|2025-09-21]] | debate analyst. |
 | [[episodes/2025-09-18|2025-09-18]] | debate analyst. |
 | [[episodes/2025-09-15|2025-09-15]] | debate analyst. |
-| [[episodes/2025-09-10|2025-09-10]] | debate analyst. |
+| [[episodes/2025-09-11|2025-09-11]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (131)</summary>
+<summary>Earlier appearances (132)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-09-10|2025-09-10]] | debate analyst. |
 | [[episodes/2025-09-05|2025-09-05]] | debate analyst. |
 | [[episodes/2025-09-03|2025-09-03]] | debate analyst. |
 | [[episodes/2025-09-02|2025-09-02]] | debate analyst. |
@@ -362,3 +363,5 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[02:08:35]** ([[episodes/2025-09-03|2025-09-03]]): TTS voice system malfunctioned throughout Munch & Crum segment, cycling through Biden, God, and other voices [02:08:35-02:27:52].
 - **[[14:27]]** ([[episodes/2025-09-05|2025-09-05]]): Voice filter permanently set to Bart Simpson; Case confirms this is intentional and not the Biden voice.
 - **[01:45:50]** ([[episodes/2025-09-10|2025-09-10]]): Crum's voice modulator cycles: default → Sonic → smooth villain → Elden Ring NPC (Rocket Raccoon).
+- **[1:21:52]** ([[episodes/2025-09-11|2025-09-11]]): Crum's penis is ring-shaped after gorilla punch, described as 'blown straight through like a fucking penny sock.'
+- **[1:22:12]** ([[episodes/2025-09-11|2025-09-11]]): Crum demands Munch 'get my penis back' from hell.

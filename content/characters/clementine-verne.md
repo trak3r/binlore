@@ -23,6 +23,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-09-11|2025-09-11]] | conspiracy correspondent. |
 | [[episodes/2024-06-25|2024-06-25]] | call-in guest. |
 | [[episodes/2023-12-30|2023-12-30]] | Auto-created minor character after appearing in 3 extracted episodes (threshold 3). |
 

@@ -121,6 +121,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2025-09-02|2025-09-02]] [01:02:00] | [01:02:00] Uncircled segment re-litigates Crum's gorilla punch death; Munch claims he paid Crum's $150k debt, Crum bribed gorilla with 150k channel points, and Crum is 'anti-cum' existential void. |
 | [[../episodes/2025-09-05|2025-09-05]] | Munch references 'Penis Day' and Crum's groin-punch liability during the debate; Crum's Bart Simpson voice confirmed as post-hell state. |
 | [[../episodes/2025-09-10|2025-09-10]] | [2025-09-10] Crum's Biden voice removed via modulator; Case cycles replacement voices; Crum references 'penis' conditioning and diaper of scorpions; Munch claims he'll 'pluck Crum from hell like a saint.' |
+| [[../episodes/2025-09-11|2025-09-11]] [1:21:52] | [1:21:52] Crum confirms penis is 'in a ring-like shape now because it got blown straight through like a fucking penny sock' from the mechanical gorilla punch; Munch references 'penile enhancement pills in hell' and 'fad-dongs.' |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |
