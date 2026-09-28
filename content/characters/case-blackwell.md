@@ -208,3 +208,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[02:10:56]** ([[episodes/2025-09-02|2025-09-02]]): Plans 'steak knife' tattoo on middle fingers; mentions product 'Taint but for boys' open for Saudi investment [02:10:56].
 - **[02:51:03]** ([[episodes/2025-09-03|2025-09-03]]): Announced return to Monday/Wednesday/Friday streaming schedule [02:51:03].
 - **[02:50:20]** ([[episodes/2025-09-03|2025-09-03]]): Confirmed 9/19 digital-ticket D&D one-shot 'We're All Going to Die' with Gina Darling and John Madison [02:50:20].
+- **[[10:27]]** ([[episodes/2025-09-13|2025-09-13]]): Green couch acquired for green screen production; no content made on it yet.
+- **[[10:48]]** ([[episodes/2025-09-13|2025-09-13]]): Beyblade tournament and wall entry scheduled for 2025-09-19.

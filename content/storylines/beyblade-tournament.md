@@ -79,6 +79,7 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 | [[../episodes/2025-06-28|2025-06-28]] [01:55:22] | [01:55:22] Trip mentions 'round one at eight o'clock' (in 10 minutes), confirming tournament is imminent. |
 | [[../episodes/2025-08-21|2025-08-21]] [01:26:04] | [01:26:04] Munch challenges Crum to a Beyblade rematch once Crum's soul returns. |
 | [[../episodes/2025-09-02|2025-09-02]] [17:11] | [17:11] Case mentions Beyblade event possibly this weekend or next with a friend assisting. |
+| [[../episodes/2025-09-13|2025-09-13]] | Case confirms Beyblade tournament / wall entry scheduled for next Friday 9-19 (one week from broadcast). |
 | [[../episodes/2025-09-15|2025-09-15]] [01:12:22] | [01:12:22] Case references paying off a sub goal on Friday and 'Case's fucking series coming up that he spent all that time planning,' likely pointing to Beyblade event prep. |
 | [[../episodes/2025-09-18|2025-09-18]] [01:34:38] | [01:34:38] Munch notes 'very brief appearance from Beyblade' as wall stream seeps into broadcast. |
 | [[../episodes/2025-09-25|2025-09-25]] [1:28:35] | Beyblades lost in move; new sub goal for Beyblade battle to be created Friday [1:28:35]. |

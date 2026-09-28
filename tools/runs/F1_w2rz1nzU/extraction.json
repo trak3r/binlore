@@ -1,0 +1,207 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "11:51",
+      "canonical_segment": "News",
+      "title": "Cold Open & Music with Jevrything",
+      "notes": "Jevrything and Darfus perform musical cold open; Case discusses green screen couch and upcoming wall entry on 9-19."
+    },
+    {
+      "start": "11:51",
+      "end": "50:01",
+      "canonical_segment": "News",
+      "title": "Charlie Kirk Killing Arrest",
+      "notes": "Case and Jevrything cover arrest of Tyler James Robinson for Charlie Kirk shooting; discuss governor's reaction, soaking memes, and political fallout."
+    },
+    {
+      "start": "51:20",
+      "end": "01:04:40",
+      "canonical_segment": "News",
+      "title": "Guy Redacted: Charlie Brown Conspiracies",
+      "notes": "Guy Redacted attempts conspiracy deep-dive on Charlie Brown; abandons two-hour video, watches AI-generated 'real kids' clip, concludes Peanuts is alien indoctrination."
+    },
+    {
+      "start": "01:04:40",
+      "end": "01:39:01",
+      "canonical_segment": "Encircled",
+      "title": "Encircled: Daniel LaRusso vs. Cobras",
+      "notes": "Daniel LaRusso (carrot-bodied) debates snake karate practitioners; claims snakes can't kick/chop/knee; eliminates multiple opponents via fire trap."
+    },
+    {
+      "start": "01:39:01",
+      "end": "02:00:03",
+      "canonical_segment": "News",
+      "title": "News Rundown: WWE Saudi Arabia, Nepal ChatGPT, Hassan, Ludwig",
+      "notes": "Scrum reads news under protest: WrestleMania 2027 in Riyadh, Nepal youth use ChatGPT to pick interim PM, Hassan Abiyah clip resurfaced, Ludwig MrBeast milk tasting, Sega dev kits, grandma Pokemon game, neo-nazi implosion, Joey Chestnut poutine record."
+    },
+    {
+      "start": "02:00:03",
+      "end": "02:22:35",
+      "canonical_segment": "News",
+      "title": "Hate Sock & Kendall Focus Group",
+      "notes": "Hate Sock insults Scrum; Kendall appears for video focus group; Hate Sock reluctantly watches Kendall's Universal Studios fit-check montage."
+    },
+    {
+      "start": "02:22:35",
+      "end": "03:19:43",
+      "canonical_segment": "DJ C4",
+      "title": "DJ C4: 'I Have Sex' Song Production",
+      "notes": "DJ C4 writes and records 'I Have Sex' with Trent (teenager persona) and Chris (responsible sex advice); ghost writer assists; raid Static Slater."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors Friday broadcast; coordinates segments; mentions green couch and 9-19 wall entry.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jevrything",
+      "role": "correspondent",
+      "notes": "correspondent. Musical cold open; co-hosts Charlie Kirk coverage; reveals 30% snake throat implant.",
+      "canonical_name": "Jevrything",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Fixes technical switching for Encircled segment; claims sun poisoning.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Guy Redacted",
+      "role": "correspondent",
+      "notes": "correspondent. Hosts conspiracy segment; fails to find viable Charlie Brown theory; declares all children's media unsafe.",
+      "canonical_name": "Guy Redacted",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Daniel LaRusso",
+      "role": "debate analyst",
+      "notes": "debate analyst. Carrot-bodied karate master defeats snake opponents in Encircled via fire trap.",
+      "canonical_name": "Daniel LaRusso",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Scrum",
+      "role": "correspondent",
+      "notes": "correspondent. Reads news rundown under protest; declares words pointless; quits mid-segment.",
+      "canonical_name": "Scrum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hate Sock",
+      "role": "correspondent",
+      "notes": "correspondent. Insults Scrum and Kendall; participates in focus group; admits Kendall's video was enjoyable.",
+      "canonical_name": "Hate Sock",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walks through studio for video focus group; seeks feedback on Universal Studios montage.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ C4",
+      "role": "correspondent",
+      "notes": "correspondent. Produces 'I Have Sex' track; coordinates ghost writer, Trent, and Chris; mixes vocals heavily.",
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "guest",
+      "notes": "guest. Performs teenage sex-brag verses; claims to have been having sex moments before recording.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "role": "guest",
+      "notes": "guest. Delivers responsible sex education verse; corrects 'her ego' to 'that ego' on second take.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "Case confirms Beyblade tournament / wall entry scheduled for next Friday 9-19 (one week from broadcast).",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "Case references entering the wall on 9-19; Jolt Cola untouched in wall for months.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Jevrything",
+      "fact": "Has 30% snake throat implant installed to improve vocals.",
+      "timestamp": "[16:16]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Green couch acquired for green screen production; no content made on it yet.",
+      "timestamp": "[10:27]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Beyblade tournament and wall entry scheduled for 2025-09-19.",
+      "timestamp": "[10:48]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Claims sun poisoning but operates switcher for Encircled segment.",
+      "timestamp": "[01:05:13]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Produces OOTD/fit-check videos; friends are Universal Studios performers (street sweep dancers, NY cop bit, Snowball puppeteer).",
+      "timestamp": "[02:18:02]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell hosts a Friday edition of Barely Informed News covering the arrest of Tyler James Robinson for the Charlie Kirk shooting, with Jevrything co-anchoring and revealing a snake-throat vocal implant. Guy Redacted fails to produce a viable Charlie Brown conspiracy, declaring all children's media alien indoctrination. The Encircled segment pits a carrot-bodied Daniel LaRusso against snake karate practitioners in a lethal fire-trap debate. A protest-driven news rundown covers WWE's Saudi WrestleMania, Nepal's ChatGPT-selected leader, and competitive eating. Hate Sock abuses Scrum and Kendall before DJ C4 produces an explicit 'I Have Sex' track with Trent and Chris, ending with a raid on Static Slater.",
+  "_meta": {
+    "vod_id": "F1_w2rz1nzU",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 149697,
+    "approx_prompt_tokens": 37424,
+    "transcript_lines": 439
+  }
+}
