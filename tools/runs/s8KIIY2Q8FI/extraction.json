@@ -1,0 +1,171 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "19:00",
+      "canonical_segment": "News",
+      "title": "Cold Open & Technical Difficulties",
+      "notes": "Pepito delivers sign-on; persistent OBS artifacting on Case's camera; Hype Train derails subscriber thank-yous into mom-fight-club freestyle; JD Vance drops in as uninvited guest and is chased off after Hitler-werewolf bit."
+    },
+    {
+      "start": "19:01",
+      "end": "51:00",
+      "canonical_segment": "News",
+      "title": "Young Republicans Leaked Chat Scandal",
+      "notes": "Case reads Politico/NBC reporting on Telegram messages praising Hitler, gas-chamber threats, racial slurs; JD Vance defends as 'stupid jokes'; Case and chat react to named participants; Vance returns as glitching avatar, grows Hitler mustache, transforms into 'Hitler wolf' before being cast off."
+    },
+    {
+      "start": "51:28",
+      "end": "1:03:49",
+      "canonical_segment": "Munch & Crum",
+      "title": "Pop-Tarts vs Toaster Strudel Debate",
+      "notes": "Munch argues for Pop-Tarts (American, infinite flavors); Crum defends strudel (homemade pastry superiority, wider variety); jacket-color glitches plague Crum; Crum admits wool pants inflame taint; Munch claims 'new wavelength' mind-control over chat; segment abandoned in chaos."
+    },
+    {
+      "start": "1:03:49",
+      "end": "1:11:35",
+      "canonical_segment": "News",
+      "title": "Frankie from JumpStart Interview",
+      "notes": "JumpStart mascot Frankie reveals he burned down owner's bedroom covering her in third-degree burns, tried to become 'arson mutt' and 'anti-woke dog' with Oscar the Grouch; podcast canceled over racist content; Case ends interview after ketamine/Sizzler tangent."
+    },
+    {
+      "start": "1:11:35",
+      "end": "1:44:00",
+      "canonical_segment": "News",
+      "title": "Second News Block",
+      "notes": "Trump commutes George Santos after six months of seven-year sentence; Chicago volunteers patrol against ICE; OpenAI blocks MLK deepfakes on Sora; Prince Andrew stripped of Duke of York title; actors' body-scan AI concerns; WWE hires AI storytelling director Cyrus Kausari; sixth US boat strike off Venezuela with B-52s drawing penis flight path; Alec Baldwin car-crash video leak turns out to be Euphoria ad."
+    },
+    {
+      "start": "1:44:00",
+      "end": "2:44:47",
+      "canonical_segment": "DJ C4",
+      "title": "Rob Alvey vs Robbie Love Diss Track",
+      "notes": "DJ C4 and Case co-write dual diss tracks over McDonald's/70s-funk beats; chat supplies insults (shape-shifting, RC Cola, coaster obsession, rollerblades, STD jokes, ban-hammer); Robbie Love records smooth one-take verse; Rob Alvey refuses second take, delivers aggressive spoken-word verse, ends with R&B freestyle and ban-raids SirLar."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors leaky Friday broadcast; wrangles technical gremlins, JD Vance bit, two news blocks, debate, Frankie interview, and diss-track session.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers dog-themed cold open sign-on; struggles to eject JD Vance avatar; reacts to Frankie's resemblance.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype man",
+      "notes": "hype man. Derails sub thank-yous into mom-fight-club freestyle; reveals he has no mother; restarts song forcing Case to kill music.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defends strudel as superior homemade pastry; admits wool pants inflame inner thighs and taint; claims mind-control wavelength over chat.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Champions Pop-Tarts as American icon; mocks Crum's jacket glitches and 'piss brain'; declares new unbeatable vibe after 'health' stint.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Brief walk-through to troll JD Vance with 'Hitler' joke; later ghost-appears during songwriting.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Frankie",
+      "role": "guest",
+      "notes": "guest. JumpStart mascot admits arson, third-degree burns on owner, failed anti-woke podcast with Oscar the Grouch, ketamine/Sizzler coping plan.",
+      "canonical_name": "Frankie",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ C4",
+      "role": "musical producer",
+      "notes": "musical producer. Leads collaborative diss-track writing; cycles through McDonald's, 70s-funk, roller-coaster beats; coordinates dual recordings.",
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Robbie Love",
+      "role": "guest",
+      "notes": "guest. Delivers smooth one-take diss verse; brings 'neck pussy' energy; exits by head-banging wall.",
+      "canonical_name": "Robbie Love",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Studio",
+      "fact": "Persistent OBS artifacting isolated to Case's camera feed; scene restructuring attempted mid-broadcast [10:29].",
+      "timestamp": "10:29",
+      "confidence": 0.7
+    },
+    {
+      "entity": "JD Vance",
+      "fact": "Appears as glitching avatar; grows Hitler mustache mid-beard; transforms into 'Hitler wolf' (werewolf bitten by Hitler youth) before being cast off [46:59].",
+      "timestamp": "46:59",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Frankie",
+      "fact": "Confessed to burning owner's bedroom covering her in third-degree burns; ran 'anti-woke dog' podcast with Oscar the Grouch canceled for racist content [1:07:20].",
+      "timestamp": "1:07:20",
+      "confidence": 0.7
+    },
+    {
+      "entity": "WWE",
+      "fact": "Hired Cyrus Kausari (ex-One MMA, BuzzFeed) as senior director of creative strategy to pivot to AI storytelling; Kausari also liaising with White House via Triple H [1:23:52].",
+      "timestamp": "1:23:52",
+      "confidence": 0.7
+    },
+    {
+      "entity": "US Military",
+      "fact": "B-52 bombers drew penis flight path off Venezuelan coast during sixth boat-strike operation [1:36:26].",
+      "timestamp": "1:36:26",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "A leak-plagued Friday broadcast opens with studio gremlins and a JD Vance avatar that mutates into a Hitler-werewolf before being ejected. Case covers the Young Republicans' leaked Hitler-praising chat, then oversees a Pop-Tart vs strudel debate derailed by Crum's wool-pants confession and Munch's claimed mind-control wavelength. JumpStart mascot Frankie admits arson and a racist podcast with Oscar the Grouch. The second news block spans Santos's commutation, ICE patrols, WWE's AI storytelling hire, and B-52s drawing a sky-penis over Venezuela. The show closes with DJ C4 orchestrating a dual diss track between theme-park rivals Rob Alvey and Robbie Love, ending in a ban-happy R&B freestyle.",
+  "_meta": {
+    "vod_id": "s8KIIY2Q8FI",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 121138,
+    "approx_prompt_tokens": 30284,
+    "transcript_lines": 288
+  }
+}
