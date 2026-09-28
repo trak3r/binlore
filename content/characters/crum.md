@@ -66,7 +66,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
 | [[episodes/2025-06-20|2025-06-20]] | debate analyst. |
 | [[episodes/2025-06-19|2025-06-19]] | debate analyst. |
-| [[episodes/2025-06-17|2025-06-17]] | Senior Debate Analyst. |
+| [[episodes/2025-06-17|2025-06-17]] | debate analyst. |
 | [[episodes/2025-06-13|2025-06-13]] | Debate analyst one loss from gorilla execution, reveals $300k debt repayment at $15k per win, pleads for chat mercy. |
 | [[episodes/2025-06-11|2025-06-11]] | debate analyst. |
 | [[episodes/2025-06-07|2025-06-07]] | Debate Analyst. |
@@ -329,3 +329,5 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[[78:11]]** ([[episodes/2025-05-21|2025-05-21]]): Paid $5,000 of gambling debt to Rock-afire gorilla; interest compounds weekly if installment missed.
 - **[[122:23]]** ([[episodes/2025-05-21|2025-05-21]]): Legally obligated to appear on broadcast at least once per month per contract Crum set up.
 - **[]** ([[episodes/2025-06-05|2025-06-05]]): [43:54] Gorilla gambling debt corrected to $70,000 after $30k accounting error discovered by Munch.
+- **[57:50]** ([[episodes/2025-06-17|2025-06-17]]): Crum's gorilla groin-punch execution is scheduled for the June 18 broadcast (Case off Wednesday).
+- **[1:00:10]** ([[episodes/2025-06-17|2025-06-17]]): Crum requires two debate wins ('two more W's') to void the $200k wager forfeit.

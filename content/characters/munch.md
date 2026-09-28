@@ -56,7 +56,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 |---|---|
 | [[episodes/2025-06-20|2025-06-20]] | debate analyst. |
 | [[episodes/2025-06-19|2025-06-19]] | debate analyst. |
-| [[episodes/2025-06-17|2025-06-17]] | Senior Debate Analyst. |
+| [[episodes/2025-06-17|2025-06-17]] | debate analyst. |
 | [[episodes/2025-06-13|2025-06-13]] | Skeleton debate analyst torments Crum over gorilla wager, refuses Saturday shifts, admits HIPAA violation. |
 | [[episodes/2025-06-07|2025-06-07]] | Debate Analyst. |
 | [[episodes/2025-06-05|2025-06-05]] | debate analyst. |
@@ -229,3 +229,4 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[[01:13:31]]** ([[episodes/2025-04-25|2025-04-25]]): Claims to force his hair to stay grey at a cellular level through biological willpower, comparing himself to a Baki the Grappler character.
 - **[[02:49:39]]** ([[episodes/2025-05-17|2025-05-17]]): Gave Crum $500 on Trip segment; warns Crum will gamble it rather than pay gorilla debt.
 - **[]** ([[episodes/2025-06-05|2025-06-05]]): [2:07:15] Confirmed 'weirdly loaded' per tax processing of stream donations.
+- **[1:09:32]** ([[episodes/2025-06-17|2025-06-17]]): Munch reveals the gorilla punch cost him $25,000 to arrange.

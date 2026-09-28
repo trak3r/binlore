@@ -1,0 +1,167 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "09:00",
+      "canonical_segment": "News",
+      "title": "Pepito Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on from the control room; stream technical difficulties begin immediately as Case attempts a home-office setup without the green screen."
+    },
+    {
+      "start": "09:00",
+      "end": "52:48",
+      "canonical_segment": "News",
+      "title": "Iran–Israel Escalation & Trump G7 Departure",
+      "notes": "Case Blackwell and Jeff Ripple cover Trump's Tehran evacuation order, early G7 exit, the collapsed nuclear deal, and the $45M military parade with its sparse crowds and squeaky tank; Ripple claims 'war prom' gravitas while Case questions proxy aggression."
+    },
+    {
+      "start": "52:48",
+      "end": "54:34",
+      "canonical_segment": "News",
+      "title": "Kendelle Birthday Call-In",
+      "notes": "Kendelle calls in live on her birthday; Case confirms early stream end for a How to Train Your Dragon outing and an In-N-Out trip, marking the only non-news personal segment of the broadcast."
+    },
+    {
+      "start": "57:50",
+      "end": "1:13:49",
+      "canonical_segment": "Munch & Crum",
+      "title": "Birthday Debate & Crum Dick Punch Countdown",
+      "notes": "Munch and Crum debate whether birthdays improve or worsen with age; Crum faces imminent gorilla groin-punch execution tomorrow after losing a $200k wager, needing two debate wins to survive — Munch refuses mercy, chat chants 'No Crum No Watch.'"
+    },
+    {
+      "start": "1:13:49",
+      "end": "1:19:50",
+      "canonical_segment": "News",
+      "title": "Post-Debate Wrap & Raid",
+      "notes": "Case jokes about Twitch ToS loopholes for gorilla violence, spins up an 'alternate reality engine,' praises the cats' noise tolerance, and raids a random Five Nights at Freddy's streamer (Peachy Sayon)."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors from a makeshift home-office setup without green screen; manages Iran war coverage, Kendelle's birthday call, and the Crum execution countdown.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold-open sign-on; mocked as 'Pope Pito' by Munch; stream glitches blamed on his cat interference.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Claims 'war prom' gravitas for Iran coverage; spars with Case on proxy aggression and parade crowd sizes; reads Fox News regime-change talking points.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Calls in on her birthday; confirms dragon-movie plans and In-N-Out dinner; Case ends stream early for her.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Faces gorilla groin-punch execution tomorrow after losing $200k wager; needs two debate wins; argues birthdays improve with age as a positivity crucible.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues birthdays worsen due to encroaching death; refuses to intervene on Crum's behalf; hypes tomorrow's 'punch heard round the munch.'",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Enters 'living death' superposition when stream graphics fail; neither fully alive nor dead on the feed.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Referenced as wall-dwelling instigator of the 'Join the Wall' hell transit; not physically present.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[2025-06-17] Execution confirmed for tomorrow (June 18) after Case confirms no Wednesday stream; Crum has two debate wins remaining to avoid the pneumatic gorilla groin strike; Munch rallies chat, Crum attempts 'positivity crucible' framing.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "57:50",
+      "entity": "Crum",
+      "fact": "Crum's gorilla groin-punch execution is scheduled for the June 18 broadcast (Case off Wednesday).",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:00:10",
+      "entity": "Crum",
+      "fact": "Crum requires two debate wins ('two more W's') to void the $200k wager forfeit.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:09:32",
+      "entity": "Munch",
+      "fact": "Munch reveals the gorilla punch cost him $25,000 to arrange.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:10:13",
+      "entity": "",
+      "fact": "Case will not stream Wednesday, forcing tomorrow's resolution.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:14:10",
+      "entity": "",
+      "fact": "Case jokes that gorilla violence is ToS-safe because 'it's an animal doing it' and 'in a different reality.'",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:15:12",
+      "entity": "",
+      "fact": "Studio cats have acclimated to Munch & Crum's screaming, remaining on-camera throughout.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell broadcasts from a green-screen-less home office as Pepito's cold open spirals into technical chaos. The News desk covers Trump's Tehran evacuation order and early G7 exit, with Jeff Ripple claiming 'war prom' gravitas while dissecting the $45M military parade's sparse crowds and squeaky tank. Kendelle calls in on her birthday, prompting an early sign-off for a How to Train Your Dragon outing. Munch & Crum close the show with a birthday debate that doubles as Crum's penultimate reprieve hearing: the gorilla groin-punch execution is locked for tomorrow, and Crum must win two debates to survive. Case raids a random Five Nights at Freddy's streamer to close.",
+  "_meta": {
+    "vod_id": "uTS9xVOj5gQ",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 70642,
+    "approx_prompt_tokens": 17660,
+    "transcript_lines": 160
+  }
+}

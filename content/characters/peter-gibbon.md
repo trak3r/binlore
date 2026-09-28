@@ -47,7 +47,7 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2025-09-21|2025-09-21]] | news stowaway. |
 | [[episodes/2025-08-11|2025-08-11]] | News stowaway reads gooner AI porn addiction and medical oddity stories while promoting his wall crawlspace mythology. |
 | [[episodes/2025-06-28|2025-06-28]] | news stowaway. |
-| [[episodes/2025-06-17|2025-06-17]] | News Stowaway. |
+| [[episodes/2025-06-17|2025-06-17]] | news stowaway. |
 | [[episodes/2025-06-11|2025-06-11]] | news stowaway. |
 | [[episodes/2025-06-05|2025-06-05]] | news stowaway. |
 | [[episodes/2025-05-23|2025-05-23]] | news stowaway. |
