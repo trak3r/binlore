@@ -1,0 +1,243 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "00:16:31",
+      "end": "00:38:58",
+      "title": "Israeli Propaganda Ads on Google & Gaza Famine",
+      "notes": "Case and Rick discuss Google's $45M ad contract with Netanyahu's office, Israeli propaganda campaigns on YouTube, UN famine declaration in Gaza, and tech company complicity."
+    },
+    {
+      "canonical_segment": "Trailer Theater",
+      "start": "00:38:59",
+      "end": "00:54:33",
+      "title": "28 Years Later: The Bone Temple, Billionaire's Bunker, Marvel Zombies",
+      "notes": "Trent and his parole officer Chris watch and discuss trailers for 28 Years Later: The Bone Temple, a billionaire bunker film, and Marvel Zombies animated series."
+    },
+    {
+      "canonical_segment": "In Circle",
+      "start": "00:54:58",
+      "end": "01:24:53",
+      "title": "Speed Racer Fan vs. 30 Haters (Circle Jerk)",
+      "notes": "Trent defends Speed Racer as greatest movie ever against rotating panel; claims include monkey, John Goodman, colors; panelists voted out via beanies."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "01:24:54",
+      "end": "01:43:30",
+      "title": "Peter Gibbon's News Stowaway Hour",
+      "notes": "Peter Gibbon reads viewer-submitted stories: Victor Ibarbo hospitalization claim, Putin/Xi hot mic on organ transplants/immortality, Pomeranian influencer, jet belly gas study, semen taste science."
+    },
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "start": "01:43:31",
+      "end": "01:51:06",
+      "title": "Semen Taste Science & Dietary Effects",
+      "notes": "Chet and ChetAI summoned by 'science' trigger; read Cosmopolitan article on semen composition, pineapple myth, dietary impacts on taste."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "start": "01:51:07",
+      "end": "02:08:34",
+      "title": "How to Stop Hecklers & Forge a J-Hook",
+      "notes": "Jeb Nogget searches heckler advice, finds Obama town hall clip; learns to forge blacksmith J-hook while arguing with dead father in wood."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "start": "02:08:35",
+      "end": "02:27:52",
+      "title": "Chinese vs. Israeli Propaganda Debate (Technical Difficulties)",
+      "notes": "Munch debates Crum whose TTS voice malfunctions repeatedly, cycling through Biden, God, and other voices; Crum mostly silent/glitching."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "start": "02:27:53",
+      "end": "02:49:06",
+      "title": "Park Opinions: Bush Guy, Birthday Goat, Robbie Love, BOA Candidate",
+      "notes": "Trip Bradstein interviews park denizens: bush enthusiast, birthday Trump guy, Peter Gibbon (twice), communist chief, rain lover, Robbie Love (roller skate fetish), Vittorio del Dume (BOA presidential candidate), crackhead Yogi Bear, anniversary grass gift."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "02:49:07",
+      "end": "02:53:03",
+      "title": "Sign-off & Raid to Gina Darling",
+      "notes": "Case wraps broadcast, announces Monday/Wednesday/Friday schedule, upcoming 9/19 D&D one-shot with Gina Darling and John Madison, raids Gina Darling."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored full broadcast; announced return to Mon/Wed/Fri schedule and 9/19 D&D one-shot with Gina Darling.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on; bantered with Case about 24-hour streams and segment prep.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosted news desk with Case; traded barbs on Israeli propaganda ads, Gaza famine, and tech complicity.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "movie correspondent",
+      "notes": "movie correspondent. Hosted Trailer Theater with parole officer Chris; defended Speed Racer in In Circle segment.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "role": "parole officer",
+      "notes": "Appeared as Trent's parole officer during Trailer Theater and In Circle; threatened with crowbar fight club idea.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Hijacked news desk to read viewer submissions; appeared twice on Trip's street interviews claiming he'd left the wall.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Summoned by 'science' trigger with ChetAI; presented semen taste science article from Cosmopolitan.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "AI co-host",
+      "notes": "AI co-host. Co-hosted Chet Guy the Science Eyes; read scientific breakdown of semen composition and dietary effects.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosted How To segment from workshop; searched heckler advice, forged J-hook while bickering with dead father in wood.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "ghost co-host",
+      "notes": "ghost co-host. Deceased father trapped in wooden board; heckled Jeb throughout How To segment.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Crum on Chinese vs. Israeli propaganda; claimed immortal god status; technical issues plagued segment.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Suffered severe TTS voice malfunctions cycling through Biden, God, and other voices; largely non-verbal.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted park interviews from bushes; encountered parade of eccentric characters including Peter Gibbon twice.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Called in at end of Chet segment but connection failed; Case attempted callback.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Join the Wall",
+      "beat": "Munch tells Crum 'get in the wall' during debate [02:20:55]; Peter Gibbon claims on Trip's segment he's 'never going back in there again' [02:35:03].",
+      "timestamp": "02:20:55"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Announced return to Monday/Wednesday/Friday streaming schedule [02:51:03].",
+      "timestamp": "02:51:03",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Confirmed 9/19 digital-ticket D&D one-shot 'We're All Going to Die' with Gina Darling and John Madison [02:50:20].",
+      "timestamp": "02:50:20",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Claims 'immortal God, essentially' status referencing skeleton transformation [02:18:46].",
+      "timestamp": "02:18:46",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "TTS voice system malfunctioned throughout Munch & Crum segment, cycling through Biden, God, and other voices [02:08:35-02:27:52].",
+      "timestamp": "02:08:35",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Claims to have exited wall permanently; appeared twice on Trip's street interviews [02:35:03, 02:36:05].",
+      "timestamp": "02:35:03",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns for a second consecutive broadcast, opening with Rick to dissect Google's $45M Israeli propaganda ad buy and the UN famine declaration in Gaza. Trent and parole officer Chris review trailers for 28 Years Later: The Bone Temple and Marvel Zombies, then Trent defends Speed Racer as cinema's peak in a chaotic In Circle. Peter Gibbon hijacks the news desk with tabloid stories including Putin and Xi discussing immortality on a hot mic. Chet and ChetAI deploy semen taste science after a trigger-word summon. Jeb Nogget forges a J-hook while arguing with his board-trapped father. Munch debates a glitching Crum on propaganda effectiveness. Trip Bradstein interviews a surreal park parade including a twice-appearing Peter Gibbon. Case signs off announcing a Mon/Wed/Fri schedule and a 9/19 D&D one-shot before raiding Gina Darling.",
+  "_meta": {
+    "vod_id": "RX_K8dURYts",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 140293,
+    "approx_prompt_tokens": 35073,
+    "transcript_lines": 422
+  }
+}

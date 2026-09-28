@@ -45,6 +45,7 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2026-05-29|2026-05-29]] | Mentioned as a stowaway causing a chaos portal incident. |
 | [[episodes/2026-03-07|2026-03-07]] | Referenced by Case during wrap-up as 'Jeff' in the newsroom. |
 | [[episodes/2025-09-21|2025-09-21]] | news stowaway. |
+| [[episodes/2025-09-03|2025-09-03]] | news stowaway. |
 | [[episodes/2025-08-26|2025-08-26]] | news stowaway. |
 | [[episodes/2025-08-23|2025-08-23]] | news stowaway. |
 | [[episodes/2025-08-11|2025-08-11]] | News stowaway reads gooner AI porn addiction and medical oddity stories while promoting his wall crawlspace mythology. |
@@ -55,13 +56,13 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2025-06-17|2025-06-17]] | news stowaway. |
 | [[episodes/2025-06-11|2025-06-11]] | news stowaway. |
 | [[episodes/2025-06-05|2025-06-05]] | news stowaway. |
-| [[episodes/2025-05-23|2025-05-23]] | news stowaway. |
 
 <details>
-<summary>Earlier appearances (60)</summary>
+<summary>Earlier appearances (61)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-05-23|2025-05-23]] | news stowaway. |
 | [[episodes/2025-05-21|2025-05-21]] | news stowaway. |
 | [[episodes/2025-05-14|2025-05-14]] | news stowaway. |
 | [[episodes/2025-05-02|2025-05-02]] | news stowaway. |
@@ -169,3 +170,4 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 - **[[1:16:10]]** ([[episodes/2025-07-15|2025-07-15]]): Lives in studio walls among rats; rats crawl on his mouth while he sleeps.
 - **[53:42]** ([[episodes/2025-08-23|2025-08-23]]): Peter Gibbon stole Case's phone; Case had to retrieve it.
 - **[2:15:44]** ([[episodes/2025-08-23|2025-08-23]]): Peter Gibbon claims 'time is an illusion outside the wall; in the wall, it's real.'
+- **[02:35:03]** ([[episodes/2025-09-03|2025-09-03]]): Claims to have exited wall permanently; appeared twice on Trip's street interviews [02:35:03, 02:36:05].

@@ -55,13 +55,14 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-09-21|2025-09-21]] | debate analyst. |
 | [[episodes/2025-09-18|2025-09-18]] | debate analyst. |
 | [[episodes/2025-09-15|2025-09-15]] | debate analyst. |
-| [[episodes/2025-09-02|2025-09-02]] | debate analyst. |
+| [[episodes/2025-09-03|2025-09-03]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (128)</summary>
+<summary>Earlier appearances (129)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-09-02|2025-09-02]] | debate analyst. |
 | [[episodes/2025-08-26|2025-08-26]] | debate analyst. |
 | [[episodes/2025-08-23|2025-08-23]] | debate analyst. |
 | [[episodes/2025-08-21|2025-08-21]] | debate analyst. |
@@ -356,3 +357,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[16:00]** ([[episodes/2025-08-23|2025-08-23]]): Crum's voice bleeds through Munch's audio feed ('wires crossed').
 - **[27:41]** ([[episodes/2025-08-23|2025-08-23]]): Crum's voice again comes through Munch's mouth; Munch claims Crum 'can speak through bald people.'
 - **[]** ([[episodes/2025-08-26|2025-08-26]]): Confirmed dead/immortal skeleton state; silent entire Munch & Crum segment; soul in hell as assistant manager per Munch. [1:19:10]
+- **[02:08:35]** ([[episodes/2025-09-03|2025-09-03]]): TTS voice system malfunctioned throughout Munch & Crum segment, cycling through Biden, God, and other voices [02:08:35-02:27:52].
