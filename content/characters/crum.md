@@ -51,17 +51,18 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity and Dick Punch wager. |
 | [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (hollow-eyed, bald). Argues for political decorum, reveals Dubai 'classified' social life, honey-bag therapy, claims penile conditioning for gorilla dick-punch. |
 | [[episodes/2026-03-07|2026-03-07]] | Stands trial for peen.ui IP infringement; reveals he co-founded peen.ui, has a 'nasty pig room,' and suffers from labia growing on his… |
+| [[episodes/2025-09-29|2025-09-29]] | debate analyst. |
 | [[episodes/2025-09-26|2025-09-26]] | debate analyst. |
 | [[episodes/2025-09-25|2025-09-25]] | debate analyst. |
 | [[episodes/2025-09-21|2025-09-21]] | debate analyst. |
 | [[episodes/2025-09-18|2025-09-18]] | debate analyst. |
-| [[episodes/2025-09-15|2025-09-15]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (133)</summary>
+<summary>Earlier appearances (134)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-09-15|2025-09-15]] | debate analyst. |
 | [[episodes/2025-09-11|2025-09-11]] | debate analyst. |
 | [[episodes/2025-09-10|2025-09-10]] | debate analyst. |
 | [[episodes/2025-09-05|2025-09-05]] | debate analyst. |
@@ -367,3 +368,6 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[1:21:52]** ([[episodes/2025-09-11|2025-09-11]]): Crum's penis is ring-shaped after gorilla punch, described as 'blown straight through like a fucking penny sock.'
 - **[1:22:12]** ([[episodes/2025-09-11|2025-09-11]]): Crum demands Munch 'get my penis back' from hell.
 - **[[52:50]]** ([[episodes/2025-09-26|2025-09-26]]): Claims he never died and has growing 'hell powers' (chameleon abilities, superhuman strength, speaking unknown languages) which he attributes to creatine supplementation.
+- **[01:47:14]** ([[episodes/2025-09-29|2025-09-29]]): Safe word is 'Jiff uncrustables' (brand-specific).
+- **[01:55:26]** ([[episodes/2025-09-29|2025-09-29]]): Owns a childhood 'numby rag' (blanket) currently held by a hell concubine.
+- **[01:47:36]** ([[episodes/2025-09-29|2025-09-29]]): Wife posted about safe word on Instagram.

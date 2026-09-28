@@ -74,6 +74,7 @@ On [[../episodes/2025-09-25|Post Wall and Rapture Clarity]], resurrected Crum si
 | [[../episodes/2025-09-21|2025-09-21]] | **Climax:** Join the Wall RPG descent. Crum found dead in hell as assistant manager of the hell transit authority; rescued via Munch's hell key. [02:31:32] |
 | [[../episodes/2025-09-25|2025-09-25]] | **Resurrection coda:** Crum back from hell after the gorilla explosion arc; claims amnesia and super strength; Munch demands points return. [1:20:22–1:42:23] |
 | [[../episodes/2025-09-26|2025-09-26]] [53:14] | [53:14] Munch references retrieving Crum from hell where Crum was working as assistant manager at a hellish transit authority. |
+| [[../episodes/2025-09-29|2025-09-29]] [01:41:29] | [01:41:29] Wall lore expanded: Gizbo confirms maintenance work in wall, lost friend Grandman; Crum's concubines claim wall/hell connection. |
 
 ## Related Pages
 
