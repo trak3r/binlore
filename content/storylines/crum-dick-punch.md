@@ -100,6 +100,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2025-04-25|2025-04-25]] [01:14:34] | [01:14:34] Crum acknowledges the gambling debt to the Rock-afire gorilla: 'I owe a gorilla money... I have to do this for the record.' Munch elaborates on the gorilla milking Crum dry before striking. |
 | [[../episodes/2025-05-01|2025-05-01]] [1:19:52] | [1:19:52] Peter and gorilla discuss Rock-afire gorilla beating up debtor: 'He beat the shit out of him... one punch can kill' — references Crum's pneumatic gorilla creditor. |
 | [[../episodes/2025-05-02|2025-05-02]] | [53:10-01:09:37] Crum's debt to Rock-afire gorilla reduced to $125k; weekly $5k payments continue; Crum claims 'super strength in spits' and crushed electric toothbrush to dust. |
+| [[../episodes/2025-05-05|2025-05-05]] [01:21:23] | [01:21:23] Crum confirms $125,000 debt to Rock-afire gorilla; Munch references $5k per debate win payout and Crum's side-picking privilege. |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |

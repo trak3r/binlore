@@ -1,0 +1,198 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "start": "00:08",
+      "end": "08:42",
+      "notes": "Pepito delivers the official broadcast sign-on, identifies as a dog, and banters with Case about headphones and ownership."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Stream Setup & Fan Fest Chat",
+      "start": "08:42",
+      "end": "18:16",
+      "notes": "Case discusses Fan Fest, snap camera software updates, Pepito's sponsorship ambitions, and the Cream.Team Patreon."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Trump 100% Tariff on Foreign Films",
+      "start": "18:16",
+      "end": "46:49",
+      "notes": "Jeff Ripple joins; Case and Ripple debate Trump's Truth Social announcement of 100% tariffs on movies produced in foreign lands, with CNN analysis and Wolf Blitzer's Mission Impossible cameo."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Internet Videos with Crum",
+      "start": "46:49",
+      "end": "01:06:39",
+      "notes": "Crum joins for video reviews: Night Rider/Wife Rider, pizza dough, parenting cannonball, basketball triple-dipper, baby toss, beam dodge, 25-year-old from 1980, chicken strip friction demo."
+    },
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Sperm Heat Switch & Biological Computer",
+      "start": "01:06:39",
+      "end": "01:16:04",
+      "notes": "Chet triggers on 'science'; covers Washington University study on temperature-activated sperm hyperactivity and Cortical Labs' CL1 synthetic biological intelligence using human neurons on silicon."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate Desk: Orphans, Leadership, Gorilla Debt",
+      "start": "01:16:04",
+      "end": "01:31:45",
+      "notes": "Munch and Crum debate whether orphans deserve homes (Crum argues for communal tribal raising), Case's leadership, and Crum's $125k debt to the Rock-afire gorilla."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Bin Conclave: Pope Nominations Begin",
+      "start": "01:31:45",
+      "end": "01:33:56",
+      "notes": "First pope vote: September and Justin Juice Powers lead; Case writes down candidates for the Bin Conclave."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Movie Trailers: Community Service",
+      "start": "01:33:56",
+      "end": "01:48:07",
+      "notes": "Case watches three trailers with parole officer Chris: Tetsuo the Bullet Man (4.25→8.5 with tariff math), Baddies Gone Wild (1.3), Wick Is Pain documentary (4.5)."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Rick's Speed News Roundup",
+      "start": "01:48:07",
+      "end": "02:26:43",
+      "notes": "Rick hosts: White House walks back film tariffs, pre-Inca psychedelic snuff room, Chinese humanoid robot attack, T-Rex lab-grown leather, gooning article, deepfake porn site shutdown, Met Gala coverage, Diddy jury selection, Weezer wife shooting, fake sperm race, explosive diarrhea arrest, Beyonce Sphere cease-and-desist, snake-bite immunity, Pedro Pascal planetarium narration."
+    },
+    {
+      "canonical_segment": "AI Rooney",
+      "title": "AI Rooney Grievance Monologue",
+      "start": "02:26:43",
+      "end": "02:35:51",
+      "notes": "AI Rooney processes chat complaints: rock music, tariffs on tariffs, Keanu Reeves hardness, Clementine Verne, CGI sperm, racist Karen fundraiser, slow typers."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Final Pope Nominations & Raid",
+      "start": "02:35:51",
+      "end": "02:43:05",
+      "notes": "Final two pope slots: Fiona Nova and Grandman join September, Justin Juice Powers, Little Tommy Big Law, Crum, Pepito, Chris; Pepito raids Bree."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the broadcast, debated Trump film tariffs with Ripple, hosted Amongst the Web and movie trailers, moderated Munch & Crum debate, ran Bin Conclave pope votes.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Joined for Hollywood tariff story, read CNN clip, traded barbs with Case about Wolf Blitzer's acting credits.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Reviewed internet videos with Case, debated Munch on orphan communal raising vs homes, revealed $125k gorilla gambling debt and birthday confusion.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Crum on orphan policy and Case's leadership, referenced gorilla debt and Crum's gambling liability.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Triggered on 'science' to cover sperm thermotaxis study and Cortical Labs CL1 biological computer launch.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "Amongst the Web host",
+      "notes": "Amongst the Web host. Hosted speed news roundup covering robot attacks, lab-grown leather, gooning, deepfake shutdown, Met Gala, Diddy trial, Weezer wife, fake sperm race, and more.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "AI Rooney",
+      "role": "cyborg commentator",
+      "notes": "cyborg commentator. Generated Andy Rooney-style monologue from chat complaints covering tariffs, Keanu Reeves, CGI sperm, and a racist fundraiser.",
+      "canonical_name": "AI Rooney",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[01:31:45] Bin Conclave pope election underway; first two candidates (September, Justin Juice Powers) nominated via flash polls, framing as community-pledge event.",
+      "timestamp": "01:31:45"
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:21:23] Crum confirms $125,000 debt to Rock-afire gorilla; Munch references $5k per debate win payout and Crum's side-picking privilege.",
+      "timestamp": "01:21:23"
+    },
+    {
+      "storyline": "Bin Conclave",
+      "beat": "[02:39:29] Final pope slate locked: September, Justin Juice Powers, Little Tommy Big Law, Crum, Pepito, Chris, Fiona Nova, Grandman; conclave scheduled for Wednesday.",
+      "timestamp": "02:39:29"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum",
+      "fact": "Claims ~55 years old, born March 28, 1980; father believed March 28 was leap day, celebrated birthday only every four years.",
+      "timestamp": "01:18:11",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "Gambling debt to Rock-afire gorilla confirmed at $125,000; Munch receives $5,000 per Crum debate win and picks Crum's debate side.",
+      "timestamp": "01:21:23",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Asserts Fiona is his mother and owner; claims to receive texts via vibration despite not knowing what texts are.",
+      "timestamp": "00:12:27",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Began working out 5 times per week, resulting in 'shiny, sweaty energy' on camera.",
+      "timestamp": "00:10:35",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened with Pepito's canine sign-on before Case Blackwell tackled Trump's 100% tariff on foreign-produced films alongside Jeff Ripple. Crum joined for an Amongst the Web video block, then Chet commandeered the broadcast for a sperm thermotaxis study and the Cortical Labs CL1 biological computer launch. Munch and Crum debated orphan communal raising versus traditional homes while Crum's $125k gorilla debt resurfaced. Rick delivered a sprawling speed-news roundup covering a Chinese robot attack, lab-grown T-Rex leather, the Met Gala, the Weezer wife shooting, and a faked live sperm race. AI Rooney closed with a grievance monologue, and the Bin Conclave finalized its eight papal candidates before Pepito raided Bree.",
+  "_meta": {
+    "vod_id": "Pq0dGk5M91U",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 136834,
+    "approx_prompt_tokens": 34208,
+    "transcript_lines": 326
+  }
+}

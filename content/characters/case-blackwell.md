@@ -194,3 +194,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[]** ([[episodes/2025-05-01|2025-05-01]]): Stock portfolio erased — 'years erased' [1:47:41]
 - **[05:45]** ([[episodes/2025-05-03|2025-05-03]]): Case Blackwell attempts to configure Steam's Stream Together feature for a multi-streamer Pico Park session.
 - **[17:55]** ([[episodes/2025-05-03|2025-05-03]]): Case Blackwell states he must depart by 5:30 PM, limiting broadcast duration.
+- **[00:10:35]** ([[episodes/2025-05-05|2025-05-05]]): Began working out 5 times per week, resulting in 'shiny, sweaty energy' on camera.
