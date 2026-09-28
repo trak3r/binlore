@@ -1,0 +1,187 @@
+{
+  "segments": [
+    {
+      "start": "00:01",
+      "end": "11:05",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Cold Open Freestyle",
+      "notes": "Hype Train delivers a surreal, auto-tuned freestyle rap over eclectic beats, referencing Queen Elizabeth II, 'pee', and Jeff Ripple before the news desk begins."
+    },
+    {
+      "start": "11:05",
+      "end": "52:35",
+      "canonical_segment": "News",
+      "title": "Friday News Dump with Intern Chud",
+      "notes": "Case anchors with a shape-shifting co-host (Jay/Drilla/Gibbnen/Job Startup) and intern Chud (Bron Ivis) who drops water on the computer and fuse box. Stories: State Department fires 1,350+ workers, Asmongold becomes top streamer, Love Island USA casting racism, MrBeast announces massive creator collab, influencer detained in Antarctica, 16,000-year-old Mayan king tomb, moa de-extinction, and a dubious Swedish hormone-gel micro-penis report."
+    },
+    {
+      "start": "49:09",
+      "end": "52:35",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Skin Case Sunscreen Phone Case",
+      "notes": "Triggered by 'skin case to science.' Chet presents a Virgin Media O2 phone case made of weird silicone that looks, feels, and burns like human skin to warn users of UV exposure; it turns purple when sunburned."
+    },
+    {
+      "start": "52:35",
+      "end": "1:14:04",
+      "canonical_segment": "Amongst the Web",
+      "title": "Trailer Reactions: Chief of War, Superman, Zeus TV Movie",
+      "notes": "Case, co-host, and Chris (parole officer) react to Jason Momoa's 'Chief of War' trailer (battle thong noted), debate Superman (2025) wokeness and White House Trump-as-Superman tweet, and watch a baffling Zeus TV prestige drama trailer 'My Dead Friend Zoe' starring Bad Girls Club alumni."
+    },
+    {
+      "start": "1:14:41",
+      "end": "1:33:12",
+      "canonical_segment": "Trip on the Street",
+      "title": "Park Interviews: Hamtaro Cult, Flower Ranger, Bird-Man Warning",
+      "notes": "Trip Bradstein interviews: a Hamtaro missionary expanding to Antarctica; Fescu Kusiu, bird-president of the International Association of Park Interviewers; a flower park ranger phished by Kendall's email; a bird-man mutation tracker warning Trip to flee; a man using testosterone gel as lube; and a Zod cosplayer claiming Superman snapped his neck in the afterlife."
+    },
+    {
+      "start": "1:33:12",
+      "end": "2:19:38",
+      "canonical_segment": "Amongst the Web",
+      "title": "Monkey D. Luffy Diss Track Session vs. Naruto",
+      "notes": "Ghostwriter (spectral, English-only, formerly Spanish) writes a diss track for Luffy to destroy Naruto; Luffy records multiple screaming takes over a One Piece trap beat, struggling with lyric-beat alignment; Naruto appears at the end with a deeper 'rap voice' for a future rebuttal."
+    },
+    {
+      "start": "2:19:38",
+      "end": "2:22:18",
+      "canonical_segment": "News",
+      "title": "Friday Wrap & Raid to Christine",
+      "notes": "Case signs off, promises to finish the Luffy track next week, discusses Superman (2025) Palestine-parallel critique, and raids Christine."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors chaotic Friday broadcast with revolving-door co-host and uncooperative intern; moderates trailer reactions and Luffy diss-track session.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Opens show with surreal auto-tuned freestyle rap referencing Queen Elizabeth II, bodily fluids, and Jeff Ripple.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jay (Co-Host)",
+      "role": "co-host",
+      "notes": "Shape-shifting co-host whose manager texts constant name changes (Jay Driller → Drilla → Drillist → Jay → Drip → Gibbnen → Jimdenin → Job Startup → JSU) while dropping water on studio equipment.",
+      "canonical_name": "Jay (Co-Host)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chud (Bron Ivis)",
+      "role": "intern",
+      "notes": "Uncooperative intern hired via cousin recommendation; refuses to fetch water, drops water on computer and fuse box, claims duct-taped-to-tree party history.",
+      "canonical_name": "Chud (Bron Ivis)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Interrupts for Science Eyes segment on sunburn-simulating skin phone case after trigger phrase 'skin case to science.'",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Ghostwriter",
+      "role": "spectral lyricist",
+      "notes": "spectral lyricist. Dead spectral spirit who only speaks English (forgot Spanish after death); writes Luffy's Naruto diss track lyrics in real-time during broadcast.",
+      "canonical_name": "Ghostwriter",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Monkey D. Luffy",
+      "role": "voice acted guest",
+      "notes": "voice acted guest. Records multiple screaming takes of diss track over One Piece trap beat; struggles with lyric-beat alignment; stretches vocal cords; claims 'never stop until I'm king of the DISTRACTS.'",
+      "canonical_name": "Monkey D. Luffy",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Naruto",
+      "role": "voice acted guest",
+      "notes": "voice acted guest. Appears at broadcast end with deeper 'rap voice' for planned rebuttal diss track next week.",
+      "canonical_name": "Naruto",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Briefly appears at Trip segment end to demonstrate Ms. Zoro's paw pickup; referenced as only person with firing authority.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "role": "parole officer / guest",
+      "notes": "parole officer / guest. Case's parole officer; appears in studio wearing layered hats; participates in trailer reactions and Superman debate.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Jay (Co-Host)",
+      "fact": "Manager texts constant name changes throughout broadcast: Jay Driller → Drilla → Drillist → Jay → Drip → Gibbnen → Jimdenin → Job Startup → JSU → back to Jimdenin → Job Startup.",
+      "timestamp": "12:17",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chud (Bron Ivis)",
+      "fact": "Dropped water on studio computer at 17:31 and on fuse box at 43:38 (opened fuse box first), causing stream degradation.",
+      "timestamp": "17:31",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Confirmed as only person with firing authority at BIN ('The winner is Kendall. Only Kendall can fire people.').",
+      "timestamp": "29:26",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Ghostwriter",
+      "fact": "Spectral spirit who only speaks English; forgot all other languages (including Spanish) upon death.",
+      "timestamp": "1:36:55",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Skin Case Phone Case",
+      "fact": "Virgin Media O2 prototype silicone case that looks, feels, and burns like human skin; turns purple under UV exposure to warn user; created to bridge phone-checking frequency vs. sunscreen application gap.",
+      "timestamp": "49:09",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell hosts a shambolic Friday news broadcast with a co-host whose identity shifts via manager texts (Jay→Drilla→Gibbnen→Job Startup) and an intern who floods the studio electronics. The news desk covers State Department mass firings, Asmongold's streaming crown, MrBeast's creator collab, and a suspect Swedish hormone-gel micro-penis story. Chet interrupts for a Science Eyes segment on a sunburn-simulating skin phone case. Trip Bradstein broadcasts from the park bushes interviewing a Hamtaro Antarctic missionary, a phished flower ranger, and a self-proclaimed Zod. The show culminates in an extended Monkey D. Luffy diss-track recording session against Naruto, produced by a ghostwriter who only speaks English, ending with a raid to Christine.",
+  "_meta": {
+    "vod_id": "Ebd0mok8B9w",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 104225,
+    "approx_prompt_tokens": 26056,
+    "transcript_lines": 326
+  }
+}

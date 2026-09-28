@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T11:11:42.431580+00:00",
+  "generated_at": "2026-09-28T11:13:19.535669+00:00",
   "thresholds": {
     "minor": 3,
     "recurring": 6,
@@ -8,7 +8,7 @@
   "characters": {
     "case-blackwell": {
       "name": "Case Blackwell",
-      "count": 213,
+      "count": 214,
       "episodes": [
         "2023-11-22",
         "2023-11-23",
@@ -190,6 +190,7 @@
         "2025-06-26",
         "2025-06-28",
         "2025-07-10",
+        "2025-07-12",
         "2025-08-11",
         "2025-09-15",
         "2025-09-18",
@@ -432,7 +433,7 @@
     },
     "kendelle": {
       "name": "Kendelle",
-      "count": 159,
+      "count": 160,
       "episodes": [
         "2023-11-23",
         "2023-11-28",
@@ -578,6 +579,7 @@
         "2025-06-28",
         "2025-07-01",
         "2025-07-10",
+        "2025-07-12",
         "2025-08-11",
         "2025-09-15",
         "2025-09-25",
@@ -756,7 +758,7 @@
     },
     "hype-train": {
       "name": "Hype Train",
-      "count": 137,
+      "count": 138,
       "episodes": [
         "2023-11-22",
         "2023-12-02",
@@ -863,6 +865,7 @@
         "2025-06-26",
         "2025-06-28",
         "2025-07-10",
+        "2025-07-12",
         "2025-08-11",
         "2025-09-15",
         "2025-09-18",
@@ -1154,7 +1157,7 @@
     },
     "chet": {
       "name": "Chet (Chet Manscape)",
-      "count": 89,
+      "count": 90,
       "episodes": [
         "2023-11-28",
         "2023-11-30",
@@ -1231,6 +1234,7 @@
         "2025-06-17",
         "2025-06-20",
         "2025-06-26",
+        "2025-07-12",
         "2025-09-15",
         "2025-09-18",
         "2025-09-25",
@@ -1768,6 +1772,34 @@
         "Brandon (CryptoZeu$)"
       ]
     },
+    "chris": {
+      "name": "Chris",
+      "count": 19,
+      "episodes": [
+        "2023-11-22",
+        "2023-12-02",
+        "2023-12-12",
+        "2024-01-05",
+        "2024-01-17",
+        "2024-02-09",
+        "2024-03-01",
+        "2024-03-21",
+        "2024-04-04",
+        "2024-04-16",
+        "2024-05-01",
+        "2024-07-09",
+        "2024-09-06",
+        "2025-01-15",
+        "2025-01-17",
+        "2025-02-01",
+        "2025-02-03",
+        "2025-02-06",
+        "2025-07-12"
+      ],
+      "display_names": [
+        "Chris"
+      ]
+    },
     "ai-rooney": {
       "name": "AI Rooney",
       "count": 18,
@@ -1793,33 +1825,6 @@
       ],
       "display_names": [
         "AI Rooney"
-      ]
-    },
-    "chris": {
-      "name": "Chris",
-      "count": 18,
-      "episodes": [
-        "2023-11-22",
-        "2023-12-02",
-        "2023-12-12",
-        "2024-01-05",
-        "2024-01-17",
-        "2024-02-09",
-        "2024-03-01",
-        "2024-03-21",
-        "2024-04-04",
-        "2024-04-16",
-        "2024-05-01",
-        "2024-07-09",
-        "2024-09-06",
-        "2025-01-15",
-        "2025-01-17",
-        "2025-02-01",
-        "2025-02-03",
-        "2025-02-06"
-      ],
-      "display_names": [
-        "Chris"
       ]
     },
     "dr-chath": {
@@ -2574,6 +2579,16 @@
         "Christian"
       ]
     },
+    "chud-bron-ivis": {
+      "name": "Chud (Bron Ivis)",
+      "count": 1,
+      "episodes": [
+        "2025-07-12"
+      ],
+      "display_names": [
+        "Chud (Bron Ivis)"
+      ]
+    },
     "cleetance-mudbutter": {
       "name": "Cleetance Mudbutter",
       "count": 1,
@@ -2874,6 +2889,16 @@
         "Gex 64"
       ]
     },
+    "ghostwriter": {
+      "name": "Ghostwriter",
+      "count": 1,
+      "episodes": [
+        "2025-07-12"
+      ],
+      "display_names": [
+        "Ghostwriter"
+      ]
+    },
     "gianna-wettmichel": {
       "name": "Gianna Wettmichel",
       "count": 1,
@@ -3042,6 +3067,16 @@
       ],
       "display_names": [
         "Jamie"
+      ]
+    },
+    "jay-co-host": {
+      "name": "Jay (Co-Host)",
+      "count": 1,
+      "episodes": [
+        "2025-07-12"
+      ],
+      "display_names": [
+        "Jay (Co-Host)"
       ]
     },
     "jay-drilla": {
@@ -3264,6 +3299,16 @@
         "Miles Taylor"
       ]
     },
+    "monkey-d-luffy": {
+      "name": "Monkey D. Luffy",
+      "count": 1,
+      "episodes": [
+        "2025-07-12"
+      ],
+      "display_names": [
+        "Monkey D. Luffy"
+      ]
+    },
     "morgan-whalen": {
       "name": "Morgan Whalen",
       "count": 1,
@@ -3292,6 +3337,16 @@
       ],
       "display_names": [
         "Mr. Peanut"
+      ]
+    },
+    "naruto": {
+      "name": "Naruto",
+      "count": 1,
+      "episodes": [
+        "2025-07-12"
+      ],
+      "display_names": [
+        "Naruto"
       ]
     },
     "neocore-g": {
