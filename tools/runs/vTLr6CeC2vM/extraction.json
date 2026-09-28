@@ -1,0 +1,185 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "Hype Train",
+      "start": "00:08",
+      "end": "15:07",
+      "title": "Hype Train Derails Into Cigarette Rat Lore",
+      "notes": "Hype Train opens the broadcast with a mournful trap beat, freestyle-rhyming about the passage of time, cigarettes, and the invented history of 'crats' (cigarette rats) while acknowledging subscribers."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "15:30",
+      "end": "49:30",
+      "title": "Pentagon Press Corps Walkout and Venezuela Escalation",
+      "notes": "Case Blackwell and Jeff Ripple cover the Pentagon press corps' mass exit over new Hegseth-imposed reporting restrictions, then analyze Trump's claims about Venezuelan 'fast boats' and potential land invasion."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "start": "51:04",
+      "end": "1:14:24",
+      "title": "Bush Opinions: Beyblade, Neck Pussies, and Mickey Rourke",
+      "notes": "Trip Bradstein fields street opinions including a Beyblade tournament update, a man with a surgically installed neck vagina, and Mickey Mouse's nephew Mickey Rourke who poisoned his uncle with mouse pellets."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "start": "1:15:12",
+      "end": "1:25:24",
+      "title": "Does Crumb's Wife Still Love Him?",
+      "notes": "Munch and Crum debate the state of Crum's marriage; Crum reveals he's been sleeping on the couch, describes a 'comfortable valley,' and graphically details face-sitting habits to prove the magic remains."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "1:25:24",
+      "end": "1:32:12",
+      "title": "Jellyfish Confronts Case Over Fish Tie",
+      "notes": "A jellyfish (Papito-sourced) interrogates Case about wearing a cardboard fish tie, debating taxonomy and representation before expressing disappointment in Case's rudeness."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "1:32:12",
+      "end": "1:49:32",
+      "title": "Town Hall with John Cena and Jake",
+      "notes": "Town hall features a John Cena impressionist admitting to past mob crimes and threatening Jake, plus a silent suited woman and Jake's brief firing panic."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "start": "1:49:32",
+      "end": "2:03:39",
+      "title": "Slop Block: Kevin Vaping, Old Men, and Beefcake Cooking",
+      "notes": "Rapid-fire viewing of AI-generated slop videos (Kevin vaping, brother's old-man content) and a cooking clip of a woman surrounded by beefcake husbands, rated a clean four by chat."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "2:03:39",
+      "end": "2:05:18",
+      "title": "Sign-Off and Friday Preview",
+      "notes": "Case wraps the abbreviated Wednesday stream, promises Friday return with a song, and raids out to help Kendall with cat nail clipping."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the broadcast, managed technical difficulties, moderated Munch & Crum debate, interviewed jellyfish, and hosted town hall and slop segments.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on, managed Hype Train summoning, and sourced the jellyfish guest.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Opened with freestyle rap about cigarettes, 'crats,' and subs before derailing into surreal etymology.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosted News segment on Pentagon press walkout and Trump's Venezuela rhetoric, providing legal context on classified reporting.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted bush interviews covering Beyblade tournament status, a neck-vagina enthusiast, Mickey Rourke, and a spoon of Halloween.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defended his marriage against Munch's scrutiny, revealing couch-sleeping arrangement and graphic face-sitting details.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Prosecuted the case that Crum's wife has moved on, citing the couch arrangement and roommate dynamic.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Briefly appeared to assist with cat nail clipping and received Disney contact requests from Trip.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jake",
+      "role": "studio staff",
+      "notes": "studio staff. Appeared as town hall participant, briefly believed he was fired, then engaged in promo battle with John Cena impressionist.",
+      "canonical_name": "Jake",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "Trip Bradstein confirms Beyblade Four-way betathon triggers at 10 more subs; street interviewee asks who to talk to at BIN for the match. [52:32, 53:27]",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum",
+      "fact": "Claims 35-45 years of marriage; currently sleeping on couch in a 'comfortable valley' with scheduled morning/bedtime contact. [1:17:39, 1:19:37]",
+      "timestamp": "1:17:39",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "Admits he and wife practice face sitting; last occurred 'a couple months ago' before memory lapse. [1:19:16]",
+      "timestamp": "1:19:16",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trip Bradstein",
+      "fact": "Bush background has apparently never been updated despite long absences. [1:14:02]",
+      "timestamp": "1:14:02",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Actively clipping cat nails (Miss Zorro) with Case's assistance; seeking Disney social media contacts. [1:50:34, 1:50:56]",
+      "timestamp": "1:50:34",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered the Pentagon press corps' mass resignation over Hegseth's new reporting rules and Trump's escalating Venezuela rhetoric, then pivoted to a chaotic Trip on the Street featuring a neck-vagina enthusiast and Mickey Rourke. The Munch & Crum debate descended into graphic marital revelations, a jellyfish confronted Case over his fish tie, and a John Cena impressionist threatened Jake in town hall before the broadcast closed with a slop block rated a clean four by chat.",
+  "_meta": {
+    "vod_id": "vTLr6CeC2vM",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 105210,
+    "approx_prompt_tokens": 26302,
+    "transcript_lines": 293
+  }
+}
