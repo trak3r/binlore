@@ -1,0 +1,191 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "00:00:08",
+      "end": "00:09:10",
+      "title": "Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on from the control room; Hype Train briefly interrupts with freestyle rhetoric before being dismissed."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "00:09:11",
+      "end": "00:23:57",
+      "title": "AI Slop: Kevin Panera Sora 2 Showcase",
+      "notes": "Case reviews Discord-submitted AI videos generated via Sora 2 featuring recurring avatar Kevin Panera vaping, hijacking planes, and spawning multiverse variants (Devin Panera, Levin Panera)."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "00:27:38",
+      "end": "00:46:48",
+      "title": "Government Shutdown & Political Clips",
+      "notes": "Case covers the federal shutdown, plays Ted Cruz clip appearing to say 'stop attacking pedophiles,' and airs Pete Hegseth's military address on gender-neutral fitness standards and beard bans."
+    },
+    {
+      "canonical_segment": "AI Rooney",
+      "start": "00:47:09",
+      "end": "01:01:57",
+      "title": "AI Rooney Returns: Upgraded Grievance Engine",
+      "notes": "Relaunched AI Rooney segment processes 15 viewer complaints via !RR command; Rooney's synthesized grievances fixate on 'flesh' decay, organic betrayal, and mechanical superiority before overheating."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "start": "01:02:38",
+      "end": "01:16:10",
+      "title": "Crum's Return: The Hell Poster Debate",
+      "notes": "Crum reappears denying death/hell stint; Munch insists Crum was assistant manager in hell's transit authority and demands he retrieve his 'hang in there' poster for merch."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "start": "01:16:10",
+      "end": "02:12:20",
+      "title": "Jeff Ripple's News Backlog",
+      "notes": "Jeff Ripple reads accumulated stories: morning wood as health metric, Tilly Norwood AI actress controversy, Alex Jones Hitler mustache stunt, Japanese lab-grown meat project, EU WW3 survival kits, Jane Goodall obituary, Amazon Luna party-game pivot, Maya the Bee reboot, FCC ownership cap elimination, YouTube-Trump $24M settlement, Riyadh Comedy Festival clips."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "02:00:25",
+      "end": "02:07:12",
+      "title": "Stand-Up Comedy Theory Sidebar",
+      "notes": "Case discusses stand-up craft: persona over material, authenticity framing, Kevin Hart's stage presence, and advice to frame jokes as personal lived experience."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "02:07:12",
+      "end": "02:11:58",
+      "title": "Cognitive Decline Study in Young Adults",
+      "notes": "Neurology study shows near-doubling of cognitive difficulties (concentration, memory, decision-making) among Americans 18-39 from 2013-2023; Case and Jeff speculate on screen exposure."
+    },
+    {
+      "canonical_segment": "The Jo Rogen Experience",
+      "start": "02:12:20",
+      "end": "02:21:31",
+      "title": "Say Less: Kevin Panera's AI Game Show",
+      "notes": "Jeff Ripple plays Kevin Panera's 'Say Less' word-guessing game against AI co-host La La Stardust; Jeff struggles with clue-giving constraints and loses to verbose AI guesses."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "02:21:31",
+      "end": "02:24:15",
+      "title": "Raid & Sign-Off",
+      "notes": "Pepito raids Danny Plats playing indie horror game Eclipseium; Case teases Friday Beyblade Burst event with improved bays."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors the broadcast, reviews AI slop, moderates political desk, relaunches AI Rooney, debates Crum/Munch, discusses stand-up theory, takes call from Kendelle at close.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Briefly derails cold open with freestyle about living on death's edge and 'piss' narrative before Case cuts him.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Returns denying death/hell narrative; claims amnesia prank, refuses to release hell poster, asserts six billion fungal children from hell lawsuits.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Insists Crum died and worked in hell's transit authority; demands Crum retrieve poster for Munch-branded merch; threatens return trip to hell.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Hosts Amongst the Web news backlog, plays Say Less game against AI, argues with Case over text receipts and morning wood science.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "AI Rooney",
+      "role": "cyborg commentator",
+      "notes": "cyborg commentator. Upgraded grievance engine processes 15 !RR complaints before overheating; fixates on flesh decay, organic betrayal, and mechanical purity.",
+      "canonical_name": "AI Rooney",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Heard via phone call at stream end; brings breadsticks, confirms Case texted her, referred to as girlfriend by Jeff.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Munch references $200k gorilla extortion and Crum's hell transit authority job; Crum denies death, claims amnesia prank, cites six billion fungal children from hell lawsuits. [01:03:19, 01:14:24]",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "Case confirms bays have arrived with improved Bey experience; teases Friday burst event pending Kendelle's assistance. [02:23:17]",
+      "timestamp": "02:23:17"
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "Munch reiterates Crum's hell tenure as assistant manager; threatens to send Crum back through crawlspace to retrieve poster. [01:03:39, 01:09:02]",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "AI Rooney",
+      "fact": "Upgraded server allows 15 synthesized complaints before system gases out; new 'grievance.inless.rooney' pipeline. [00:49:48]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Confirms Kendelle as girlfriend on air; mentions hiding engagement rings while preparing for 'husband money' (roster-consistent). [02:09:30]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Has booked flight for upcoming travel. [02:23:58]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Claims six billion children from hell lawsuits, five billion shared fungal consciousness; asserts hell law is only law applying on Earth. [01:14:24]",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covers the federal government shutdown with clips of Ted Cruz's apparent pedophile gaffe and Pete Hegseth's gender-neutral military fitness mandate. The upgraded AI Rooney segment processes viewer grievances before overheating on flesh-obsessed rhetoric. Crum returns from alleged hell stint denying death while Munch demands poster retrieval for merch. Jeff Ripple clears a news backlog spanning AI actresses, lab-grown meat, FCC deregulation, and the Riyadh Comedy Festival. The broadcast closes with a Kevin Panera AI game show and a raid on indie horror streamer Danny Plats.",
+  "_meta": {
+    "vod_id": "vdPpPGW3_DA",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 126862,
+    "approx_prompt_tokens": 31715,
+    "transcript_lines": 350
+  }
+}
