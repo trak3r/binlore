@@ -1,0 +1,179 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "08:46",
+      "canonical_segment": "News",
+      "title": "Cold Open: Pepito Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on as 'Pafita the dog' before handing off to Case Blackwell at the desk."
+    },
+    {
+      "start": "08:46",
+      "end": "19:30",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Freestyle Derailment",
+      "notes": "Hype Train commandeers the feed for a 25-month freestyle rap cycle, acknowledges subs, and expands his 'piss' mythology while Case attempts to enable discounted subscriptions."
+    },
+    {
+      "start": "19:30",
+      "end": "41:58",
+      "canonical_segment": "News",
+      "title": "Trump-Putin Alaska Summit Coverage",
+      "notes": "Case and Hype Train watch and mock the Trump-Putin press conference from Alaska; minimal substantive news emerges, both leaders described as 'boring as shit' and '1 million years old.'"
+    },
+    {
+      "start": "41:58",
+      "end": "1:12:00",
+      "canonical_segment": "Amongst the Web",
+      "title": "Viewer Video Roulette: Kendall, Dating Game, Cops & Chuck E. Cheese",
+      "notes": "Case rates videos submitted via thecream.team: a Kendall-sent clip (poorly received), a 2010s dating-game sketch Case wrote for VEN, a police propaganda raid video, the 'running face man' compilation, a cat video, and a follow-up on the Chuck E. Cheese arrest in Tallahassee."
+    },
+    {
+      "start": "1:12:00",
+      "end": "1:31:00",
+      "canonical_segment": "Amongst the Web",
+      "title": "Discounted Subs, Kendall's Outfit & New Sub Goal",
+      "notes": "Case enables discounted tier-one subs for three hours; Kendall models a matching hat-top-pants ensemble on camera; chat sets a new sub goal 'Learn how to DJ'; Kendall departs after a wave of gifted subs."
+    },
+    {
+      "start": "1:31:00",
+      "end": "1:49:43",
+      "canonical_segment": "News",
+      "title": "Wire Roundup: Ice Cube Minecraft, Giant Humans, Disney Pop-Up, Kennedy Center, McKinsey AI, DC Guard, Robot Olympics, Penis Injury",
+      "notes": "Rapid-fire headlines: Ice Cube's 'ice cubicle' Minecraft ad; Missouri Rep. Eric Burlison claims Smithsonian hides giant-human/alien evidence; Disney 'Mickey & Friends' pop-up near Kendall's work; Wikipedia editor's decade-long campaign for neo-Nazi composer; Trump's Kennedy Center honoree picks; McKinsey AI existential-risk memo; Trump deploys National Guard to DC (Rolling Stone 'shock and awe' framing); Chinese robot Olympics; UK man with 14.5-inch penis breaks arm in shower."
+    },
+    {
+      "start": "1:49:43",
+      "end": "2:02:02",
+      "canonical_segment": "Amongst the Web",
+      "title": "Butt Conspiracy Deep Dive (Guy Redacted)",
+      "notes": "Case adopts 'Guy Redacted' persona to investigate 'butts are fake' conspiracy via ultra-low-view YouTube videos (astral-projection Democrats contacting Ra, swamp-butt theory, head-butt semantics, 'never wipe' anthem)."
+    },
+    {
+      "start": "2:02:02",
+      "end": "2:43:18",
+      "canonical_segment": "DJ C4",
+      "title": "DJ C4 Studio Session: 'I've Got a Friend in Me' Rock Parody",
+      "notes": "Case and DJ C4 produce a vulgar rock parody of the Toy Story theme with vocalist Woody (Woodard), cycling through beats, keys, and lyric rewrites; final track played out as the broadcast raids Christine."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the broadcast, covered the Trump-Putin Alaska summit, produced a Disney-parody music track with Woody.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered the cold-open sign-on as 'Pafita' and managed discounted-sub toggles.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Derailed the top-of-show hype train with a 25-month freestyle rap cycle and 'piss' mythology.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Submitted a video that chat rated poorly, modeled a matching outfit on camera, and exited after a wave of gifted subs.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "recurring",
+      "notes": "recurring. Joined the news desk for the DC National Guard and robot-olympics stories, debated homeless-policy framing.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ C4",
+      "role": "recurring",
+      "notes": "recurring. Oversaw the late-night production of an 'I've Got a Friend in Me' rock parody featuring vocalist Woody.",
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Woody (Woodard)",
+      "role": "guest vocalist",
+      "notes": "guest vocalist. Performed the vulgar rock rendition of the Toy Story parody after vocal warm-ups involving cat/dog impressions.",
+      "canonical_name": "Woody (Woodard)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Case's Oura ring reports a brain age of 1 million years due to nocturnal barrel-rolling sleep patterns.",
+      "timestamp": "[39:25]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case rolls several miles per night in his sleep, describing it as a 'full barrel roll' and 'spin cycle.'",
+      "timestamp": "[39:50]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case confirms he is divorced and avoids wearing the Oura ring during the day to avoid signaling availability.",
+      "timestamp": "[40:02]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Discounted tier-one subscriptions enabled for a three-hour window via Creator Dashboard.",
+      "timestamp": "[1:09:40]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "New community sub goal set: 'Learn how to DJ' (performance focus, not production).",
+      "timestamp": "[1:11:49]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Kendelle physically present in studio wearing coordinated hat, top, and pants; matches Case's on-camera scale.",
+      "timestamp": "[1:04:17]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Broadcast concludes with a raid to Christine (channel not named per policy).",
+      "timestamp": "[2:41:11]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened with Pepito's canine sign-on and a marathon Hype Train freestyle before Case Blackwell dissected the substance-free Trump-Putin Alaska summit. The broadcast then cycled through viewer-submitted internet videos — including a poorly rated Kendall clip, a VEN dating-game sketch Case wrote, and a Chuck E. Cheese arrest follow-up — before enabling discounted subs and setting a 'Learn to DJ' goal. A wire roundup covered Ice Cube's Minecraft ad, a congressman's giant-human claims, Disney pop-ups, McKinsey AI anxiety, DC National Guard deployment, Chinese robot Olympics, and a 14.5-inch penis injury. The show closed with a 'butts are fake' conspiracy deep dive and a DJ C4 studio session producing a vulgar 'I've Got a Friend in Me' rock parody with vocalist Woody, ending on a raid to Christine.",
+  "_meta": {
+    "vod_id": "seFq3PZAeSU",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 113668,
+    "approx_prompt_tokens": 28417,
+    "transcript_lines": 305
+  }
+}
