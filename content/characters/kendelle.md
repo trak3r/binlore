@@ -44,6 +44,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-06-19|2026-06-19]] | Lead anchor and in-studio contributor who periodically enters the broadcast for signature segments. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in birthday context, not actively speaking. |
 | [[episodes/2026-06-05|2026-06-05]] | Lead anchor and on-air contributor who walks through the studio for signature segments. |
+| [[episodes/2026-02-19|2026-02-19]] | in-studio contributor. |
 | [[episodes/2026-02-17|2026-02-17]] | in-studio contributor. |
 | [[episodes/2026-02-14|2026-02-14]] | in-studio contributor. |
 | [[episodes/2026-02-12|2026-02-12]] | in-studio contributor. |
@@ -54,13 +55,13 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-12-16|2025-12-16]] | in-studio contributor. |
 | [[episodes/2025-12-13|2025-12-13]] | in-studio contributor. |
 | [[episodes/2025-12-06|2025-12-06]] | in-studio contributor. |
-| [[episodes/2025-12-04|2025-12-04]] | In-Studio Contributor. |
 
 <details>
-<summary>Earlier appearances (176)</summary>
+<summary>Earlier appearances (177)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-12-04|2025-12-04]] | In-Studio Contributor. |
 | [[episodes/2025-11-27|2025-11-27]] | in-studio contributor. |
 | [[episodes/2025-11-13|2025-11-13]] | in-studio contributor. |
 | [[episodes/2025-10-31|2025-10-31]] | in-studio contributor. |
@@ -325,3 +326,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[30:58]** ([[episodes/2025-12-13|2025-12-13]]): [30:58] Kendelle returned from Philadelphia; claims it wasn't that cold despite family disagreement.
 - **[[01:22:22]]** ([[episodes/2025-12-18|2025-12-18]]): Has a 'hole as my big toe' (mole-like) preventing open-toe shoes; appears as 'ghost Kendall' during song production.
 - **[1:28:38]** ([[episodes/2026-02-12|2026-02-12]]): Visited studio with brother Jiggy (Justin) to model Adidas Taekwondo shoes ('ballet sneakers'); threatened chat over criticism.
+- **[]** ([[episodes/2026-02-19|2026-02-19]]): [11:09] On record disliking Case without beard; Case hid shave from her until stream.

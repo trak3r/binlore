@@ -167,3 +167,4 @@ See also: [[../segments/how-to-with-jeb|How To with Jeb]], [[../characters/index
 - **[01:33:12]** ([[episodes/2025-12-13|2025-12-13]]): [01:33:12] Jeb confirms he is dead ('you're dead and you're in the wood') and has been in good mood lately.
 - **[[02:25:12]]** ([[episodes/2026-01-24|2026-01-24]]): Father's spirit permanently trapped in wooden board; they bicker on air.
 - **[01:46:21]** ([[episodes/2026-01-27|2026-01-27]]): Referenced his family well backstory again, claiming it whispers to him and that he fell down it causing his facial changes [01:46:21].
+- **[]** ([[episodes/2026-02-19|2026-02-19]]): [56:32] Visits private Newt Museum (Newts evolving into hairless humans) near his home; confuses it with Smithsonian.

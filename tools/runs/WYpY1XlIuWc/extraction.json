@@ -1,0 +1,190 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Beardless Case Cold Open & Headlines",
+      "start": "00:06",
+      "end": "49:27",
+      "notes": "Pepito delivers sign-on; Case reveals accidental clean-shave, fields chat reactions and correspondent interruptions (Wet Mitchell, Jeb, Crum variants); covers State Department freedom.gov portal, bone-smashing influencer Clevicular, R. Kelly isolation, Bad Bunny film, German theater incident, Olympic dog, Sonic 4 casting, Kurt Cobain homicide declaration."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "title": "Beard vs. No Beard Debate",
+      "start": "49:27",
+      "end": "01:03:04",
+      "notes": "Munch (pro-beard) and Crum (anti-beard) debate facial hair; Crum announces legal trial next week with defense firm Twyche & At, funded by hype train goal; references to hell/DMV assistant manager past; Newt Museum confusion; chat votes no-beard winner."
+    },
+    {
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Crum's Call-In Circle: Pals on Trial",
+      "start": "01:03:04",
+      "end": "01:19:38",
+      "notes": "Crum hosts call-in segment claiming everyone is pals; chatters appear as avatars (elephant, wolf, bots); Crum denies memory of death/hell, requests hang-in-there poster; multiple vote-outs; ends with technical difficulties."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Chinese Robot Spectacle & Kendall Home Check",
+      "start": "01:19:38",
+      "end": "01:35:09",
+      "notes": "Case watches viral video of Chinese humanoid robots dancing at Crypto Arena; Kendall arrives home, reacts to beardless Case; Asian Case filter bit with Filipino jokes (Staten Island discovery); mutual roasting; Case plugs Friday stream."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Raid to Static Slate",
+      "start": "01:35:09",
+      "end": "01:36:53",
+      "notes": "Case wraps, promotes Static Slate (Danny playing Poppy Playtime), confirms Friday return, secret stream sign-off."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors beardless after accidental shave; fields correspondent chaos, debates, call-ins, and robot video; plugs Friday stream and Valentine's week.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold-open sign-on; set hype train goal that funded Crum's legal defense fund.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Anti-beard debater; announces legal trial next week with firm Twyche & At; hosts call-in circle denying hell/Join the Wall memories.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Pro-beard debater; references Crum's hell DMV past; mocks Crum's memory loss; claims chat vote manipulation.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Calls in then arrives home; dislikes beardless Case; participates in Asian Case bit with Filipino jokes.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Wet Mitchell",
+      "role": "correspondent",
+      "notes": "correspondent. Appears as female Crum variant; mukbang history; spars with Crum over chin/jawline.",
+      "canonical_name": "Wet Mitchell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "recurring",
+      "notes": "recurring. Brief workshop appearance; rushes in without glasses; claims natural hairlessness.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Derails during sub goal; freestyle raps about legal defense fund; claims to be from hell.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Referenced as still in walls; not seen on camera.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Referenced as MIA; Case wishes she were accessible.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[49:27] Crum announces legal trial next week; defense firm Twyche & At retained; legal defense fund fully funded via Pepito's hype train goal.",
+      "timestamp": "49:27"
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "[01:08:36] Crum denies memory of death/hell/DMV assistant manager role; calls it 'smoke and mirrors' despite Munch's prior canon.",
+      "timestamp": "01:08:36"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "[08:43] Accidentally shaved beard clean after chunking buzz cut; expects 5 o'clock shadow by Monday, full beard in 2-3 weeks.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "[52:56] Legal trial scheduled next week; defense firm Twyche & At; defense fund fully funded by hype train goal set by Pepito.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "[40:16] Set hype train goal that accidentally funded Crum's legal defense fund instead of intended purpose.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "[11:09] On record disliking Case without beard; Case hid shave from her until stream.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "[56:32] Visits private Newt Museum (Newts evolving into hairless humans) near his home; confuses it with Smithsonian.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "[01:08:36] Claims total memory loss of death, hell tenure, and DMV assistant manager role; calls prior events 'circus show' and 'smoke and mirrors'.",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell broadcasts beardless after a grooming accident, triggering a network-wide facial hair crisis that derails the News desk into a Munch & Crum beard debate and a Crum-hosted call-in circle where he denies his own canonical death and hell tenure. Pepito's hype train goal inadvertently funds Crum's upcoming legal defense. The broadcast closes with a Chinese robotics showcase, Kendall's homecoming roast, and an Asian Case filter bit before raiding Static Slate.",
+  "_meta": {
+    "vod_id": "WYpY1XlIuWc",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 83398,
+    "approx_prompt_tokens": 20849,
+    "transcript_lines": 237
+  }
+}

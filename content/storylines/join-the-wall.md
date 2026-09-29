@@ -85,6 +85,7 @@ On [[../episodes/2025-09-25|Post Wall and Rapture Clarity]], resurrected Crum si
 | [[../episodes/2025-12-04|2025-12-04]] [01:08:11] | Crum cited Peter Gibbon's wall-teasing during the Thanksgiving confession. |
 | [[../episodes/2026-01-06|2026-01-06]] [01:37:53] | [01:37:53] Zombie Dick Clark confirms Crum was in hell for 'a couple trillion years in hell time' and 'four million more years' was denied; glad he's gone. |
 | [[../episodes/2026-02-10|2026-02-10]] | [2026-02-10] Hand Him Squidward confirms Crum was mayor of Rennerton when the city died and became an undead sanctum, linking Crum's past to the hellscape transit authority lore. |
+| [[../episodes/2026-02-19|2026-02-19]] [01:08:36] | [01:08:36] Crum denies memory of death/hell/DMV assistant manager role; calls it 'smoke and mirrors' despite Munch's prior canon. |
 
 ## Related Pages
 
