@@ -51,17 +51,18 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity and Dick Punch wager. |
 | [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (hollow-eyed, bald). Argues for political decorum, reveals Dubai 'classified' social life, honey-bag therapy, claims penile conditioning for gorilla dick-punch. |
 | [[episodes/2026-03-07|2026-03-07]] | Stands trial for peen.ui IP infringement; reveals he co-founded peen.ui, has a 'nasty pig room,' and suffers from labia growing on his… |
+| [[episodes/2025-11-15|2025-11-15]] | debate analyst. |
 | [[episodes/2025-11-13|2025-11-13]] | debate analyst. |
 | [[episodes/2025-11-03|2025-11-03]] | debate analyst. |
 | [[episodes/2025-10-31|2025-10-31]] | debate analyst. |
 | [[episodes/2025-10-18|2025-10-18]] | debate analyst. |
-| [[episodes/2025-10-16|2025-10-16]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (141)</summary>
+<summary>Earlier appearances (142)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-10-16|2025-10-16]] | debate analyst. |
 | [[episodes/2025-10-13|2025-10-13]] | debate analyst. |
 | [[episodes/2025-10-02|2025-10-02]] | debate analyst. |
 | [[episodes/2025-09-29|2025-09-29]] | debate analyst. |
@@ -386,3 +387,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[1:19:16]** ([[episodes/2025-10-16|2025-10-16]]): Admits he and wife practice face sitting; last occurred 'a couple months ago' before memory lapse. [1:19:16]
 - **[]** ([[episodes/2025-10-31|2025-10-31]]): [02:34:43] Crum explicitly identifies as 'hell crumb' from the Join the Wall arc, confirming the hell transit and assistant manager role remain canon.
 - **[]** ([[episodes/2025-11-03|2025-11-03]]): Wife allegedly with Frederick (Freddie Jizbo), a French construction worker/tutor; Crum claims different house configuration but loyal marriage. [01:05:24]
+- **[1:27:08]** ([[episodes/2025-11-15|2025-11-15]]): Crum served as a mayor in the early 2000s and courted billionaire investors including Epstein-adjacent figures.

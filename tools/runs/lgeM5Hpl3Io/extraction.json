@@ -1,0 +1,162 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "08:36",
+      "canonical_segment": "News",
+      "title": "Station Sign-On & Cold Open",
+      "notes": "Pepito delivers the broadcast sign-on; devil substitutes for Pepito while he explores toilets."
+    },
+    {
+      "start": "08:36",
+      "end": "13:00",
+      "canonical_segment": "News",
+      "title": "Epstein Emails & Gabe Newell Yacht",
+      "notes": "Case covers the Epstein email release referencing Trump and Bill Clinton, then discusses Valve co-founder Gabe Newell's $500M superyacht Leviathan."
+    },
+    {
+      "start": "13:00",
+      "end": "31:21",
+      "canonical_segment": "Amongst the Web",
+      "title": "AI Maya Chat & Jimmy Wales Walkout",
+      "notes": "Case and Chet test the AI companion Maya with a two-minute prompt, then watch a clip of Jimmy Wales ending an interview over a founder/co-founder question."
+    },
+    {
+      "start": "31:21",
+      "end": "1:10:05",
+      "canonical_segment": "News",
+      "title": "Snack Reformulations, Labubu Film, Epstein Highlights & MrBeast Park",
+      "notes": "Doritos and Cheetos remove artificial colors; Sony acquires Labubu film rights; Kim Kardashian's psychic bar exam predictions; deeper Epstein email highlights including Michael Wolff's strategy notes; China bridge collapse; Fedora Man unmasked; MrBeast opens Beast World in Riyadh."
+    },
+    {
+      "start": "1:10:05",
+      "end": "1:19:28",
+      "canonical_segment": "News",
+      "title": "Mark Beatty Medical Story & Bill Clinton Bit",
+      "notes": "Case reads about MrBeast's brother Mark Beatty losing genital sensation, then interviews a Bill Clinton impression who admits to oral sex with Trump and discusses carnival life."
+    },
+    {
+      "start": "1:19:28",
+      "end": "1:30:02",
+      "canonical_segment": "Munch & Crum",
+      "title": "Dog Shooter vs Owner Debate",
+      "notes": "Munch and Crum debate whether the dog that shot its owner or the owner is better; Munch reveals a sensor bar hiding lactating nipples triggered by victory."
+    },
+    {
+      "start": "1:30:02",
+      "end": "1:46:56",
+      "canonical_segment": "How To with Jeb",
+      "title": "Air Walking, Running Man & Glasses Care",
+      "notes": "Jeb Nogget attempts air walking and a Running Man dance tutorial with his deceased father in a wooden board, then watches a glasses-cleaning guide."
+    },
+    {
+      "start": "1:46:56",
+      "end": "2:10:49",
+      "canonical_segment": "Amongst the Web",
+      "title": "Presidential Impressions & K-Pop Lyric Review",
+      "notes": "Case cycles through Bill Clinton and Abraham Lincoln impressions while watching viral videos, culminating in a K-pop worst-lyrics montage reviewed by Kendall."
+    },
+    {
+      "start": "2:10:49",
+      "end": "2:34:35",
+      "canonical_segment": "DJ C4",
+      "title": "Yacht Rock Songwriting Session",
+      "notes": "DJ C4 composes a yacht rock track with chat-sourced lyrics, recruits a tiny wizard to perform vocals, and closes the broadcast."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors the Friday news desk, hosts Amongst the Web, and interviews a Bill Clinton impression using a personal compromising-material Rolodex.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers the cold-open sign-on, substitutes a devil for himself during a toilet break, and admits to devil worship.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Co-hosts Amongst the Web, reacts to AI Maya and Jimmy Wales clip, and participates in news desk banter.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues for the dog shooter in the Munch & Crum debate and claims victory-induced lactation requiring a sensor bar.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defends the shot owner in the debate and reveals he was a mayor in the early 2000s who courted Epstein-adjacent billionaires.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Leads How To with Jeb, attempting air walking and Running Man dances while bickering with his father's spirit in a wooden board.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ C4",
+      "role": "music producer",
+      "notes": "music producer. Writes a yacht rock song with chat lyrics and a tiny wizard vocalist to close the show.",
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "timestamp": "14:52",
+      "entity": "Pepito",
+      "fact": "Pepito admits to explicitly worshiping the devil during a devil-substitution producing stint.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:11:08",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell maintains a personal Rolodex of compromising material on public figures to summon them instantly.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:27:08",
+      "entity": "Crum",
+      "fact": "Crum served as a mayor in the early 2000s and courted billionaire investors including Epstein-adjacent figures.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covers the Epstein email dump, Gabe Newell's superyacht, and a cascade of viral clips before Munch and Crum debate a dog-shooting incident. Jeb Nogget leads a chaotic Running Man tutorial, and DJ C4 closes the broadcast with a chat-written yacht rock track performed by a tiny wizard.",
+  "_meta": {
+    "vod_id": "lgeM5Hpl3Io",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 120154,
+    "approx_prompt_tokens": 30038,
+    "transcript_lines": 367
+  }
+}
