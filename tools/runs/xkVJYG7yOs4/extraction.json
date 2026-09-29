@@ -1,0 +1,198 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "News Desk: Haircut Reveal & Headlines",
+      "start": "00:08:40",
+      "end": "00:52:41",
+      "notes": "Case Blackwell debuts new haircut and covers raw milk recall, Olive Garden fryer suicide, ski jumping penis injections, North Korea Squid Game executions, Melania documentary box office, and Minute Maid discontinuation."
+    },
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet Guy the Science Eyes: Immune Rejuvenation & Epstein Files",
+      "start": "00:52:41",
+      "end": "00:59:10",
+      "notes": "Chet interrupts after trigger word 'scientist'; discusses MIT mRNA immune rejuvenation study in mice, dismisses Epstein email leak as insufficiently scientific, and closes with Draco Malfoy as lunar new year mascot."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "title": "How To with Jeb: Boot Opening & Evil Laugh Tutorial",
+      "start": "01:00:13",
+      "end": "01:12:41",
+      "notes": "Jeb Nogget and his father (trapped in a board) demonstrate opening a boot and a three-step emotional method for laughing evilly, while bickering about parenting and Jet's absence."
+    },
+    {
+      "canonical_segment": "Therapy",
+      "title": "Therapy: Procrastination, Shadow Work & Tristan",
+      "start": "01:12:41",
+      "end": "01:31:44",
+      "notes": "Dr. Chath fields chat questions on lube recipes, WWE censorship, and shadow self; Case claims he's already worked through procrastination; Tristan arrives and delivers self-help philosophy involving property rights, breaking into homes, and cum-based breakfast drinks."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web: Viral Videos with Jan",
+      "start": "01:31:44",
+      "end": "01:46:23",
+      "notes": "Jan reviews viewer-submitted clips: a budget funeral song, 'risen cranks' nonsense, sexy conjoined twins (dismissed as fake), angry Casino scene, 'being a male at 12' wisdom, and a plexiglass kissing video."
+    },
+    {
+      "canonical_segment": "CryptoZeu$",
+      "title": "CryptoZeu$ Gaming: TurboGrafx CD Emulation Hell",
+      "start": "01:46:23",
+      "end": "02:37:04",
+      "notes": "Brandon battles BIOS configuration, his mother's looping 'heart sinking deeper in my back' delusion, web socket failures, and a side-scrolling shooter with fighting-game inputs on keyboard; ends with Frito-Lay sponsorship plug and raid to Still Do."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open sign-on and manages early show chaos before stepping aside for Case.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors news desk with new haircut, triggers Chet with 'scientist', participates in therapy, hosts Amongst the Web handoff, and appears during CryptoZeu$ transition.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Materializes via trigger word to deliver MIT immune rejuvenation study and dismiss Epstein leaks as unscientific.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosts How To with Jeb from woodshop, demonstrates boot opening and evil laugh technique while arguing with his board-bound father.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "co-host (board)",
+      "notes": "co-host (board). Trapped in wooden board, denies death, bickers with Jeb about fatherhood and Jet's conflict resolution skills.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Chath",
+      "role": "therapist",
+      "notes": "therapist. Conducts therapy fielding chat questions on lube, WWE, and shadow self while managing Case and Tristan.",
+      "canonical_name": "Dr. Chath",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Tristan",
+      "role": "guest (self-help author)",
+      "notes": "guest (self-help author). Delivers manifesto on procrastination as priority inversion, property rights, forcible home invasion show pitch, and cum-as-breakfast-drink philosophy.",
+      "canonical_name": "Tristan",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Struggles through TurboGrafx CD BIOS setup, mother's technical/medical crises, and a fighting-game-input shooter on keyboard.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon's Mom",
+      "role": "off-screen interference",
+      "notes": "off-screen interference. Loops 'my heart is sinking deeper in my back' delusion, mimics test messages, and disrupts emulation via web socket failure.",
+      "canonical_name": "Brandon's Mom",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "CIA liaison / Amongst the Web host",
+      "notes": "CIA liaison / Amongst the Web host. Briefly appears during gaming to offer CIA training encouragement and gets yelled at for distracting Brandon.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Case Blackwell debuted a shorter haircut cut partly by himself and partly by a professional.",
+      "timestamp": "[09:01]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case claims holographic teeth surgery (light-based, non-biting) and sand-based lip surgery from children's art swirl technique.",
+      "timestamp": "[25:24]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case states he is functionally blind after 'mellow eye surgery' replacing eyes with painted marshmallows.",
+      "timestamp": "[31:52]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Chet Guy the Science Eyes triggers on the word 'scientist' (or 'science') per standing network protocol.",
+      "timestamp": "[52:41]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Brandon's mother developed a 'web socket condition' causing her audio feed to loop 'test message' and 'my heart is sinking deeper in my back'.",
+      "timestamp": "[01:54:48]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Brandon claims a 'spine goat' condition curable by drinking the fluid Baron Harkonnen sleeps in from Dune.",
+      "timestamp": "[02:34:44]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Brandon secured a Frito-Lay sponsorship requiring him to cure spine goat and pass out individual chips on stage.",
+      "timestamp": "[02:35:17]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Brandon lost his Mountain Dew sponsorship and is on a zero-protein, all-carb/fat/sugar diet per doctor's orders.",
+      "timestamp": "[02:36:22]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns with a new haircut to anchor a news block covering tainted raw milk, a fatal Olive Garden fryer incident, Olympic ski jumping penis-injection doping, North Korean executions over Squid Game, and the Melania documentary's $7M opening. Chet interrupts for a science desk on mouse immune rejuvenation. Jeb Nogget teaches boot opening and evil laughing with his board-bound father. Dr. Chath runs therapy on procrastination and shadow selves before Tristan hijacks the session with self-help philosophy. Jan hosts Amongst the Web reviewing viral clips. Brandon closes the broadcast fighting TurboGrafx CD emulation, his mother's looping medical delusion, and a keyboard-unfriendly shooter, ending with a Frito-Lay sponsorship plug and raid to Still Do.",
+  "_meta": {
+    "vod_id": "xkVJYG7yOs4",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 114448,
+    "approx_prompt_tokens": 28612,
+    "transcript_lines": 265
+  }
+}
