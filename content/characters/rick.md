@@ -74,3 +74,4 @@ Rick joined the broadcast on the [[episodes/2026-09-04|2026-09-04 broadcast]] to
 - **[01:13:15]** ([[episodes/2026-06-03|2026-06-03]]): Rick (Amongst the Web host) hosts BBQs where he flies a thin blue line flag, which a viewer complained about to AI Rooney.
 - **[02:00:38]** ([[episodes/2024-08-08|2024-08-08]]): Official anthem is now a Space Jam DVD rap over the national anthem, chosen by flash poll. [02:00:38]
 - **[00:34:54]** ([[episodes/2025-04-04|2025-04-04]]): Claims CIA affiliation; says he was 'too important' to be fired; spreads conspiracy about urine in food supply.
+- **[[01:25:39]]** ([[episodes/2026-03-12|2026-03-12]]): Confirmed as two distinct people who can occupy the same space simultaneously; town hall prompt tested this.

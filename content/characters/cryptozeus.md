@@ -56,15 +56,16 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-06-08|2026-06-08]] | Resident gaming correspondent. Remote from bedroom; battles N64 emulation, mother's screaming, and Glover's inverted controls. |
 | [[episodes/2026-06-05|2026-06-05]] | Gaming and digital culture correspondent broadcasting remotely from his bedroom studio. |
 | [[episodes/2026-05-29|2026-05-29]] | Gaming correspondent playing Boogerman with mother interruptions. |
+| [[episodes/2026-03-12|2026-03-12]] | call-in guest. |
 | [[episodes/2026-03-10|2026-03-10]] | gaming correspondent. |
 | [[episodes/2026-02-28|2026-02-28]] | gaming correspondent. |
-| [[episodes/2026-02-26|2026-02-26]] | gaming correspondent. |
 
 <details>
-<summary>Earlier appearances (7)</summary>
+<summary>Earlier appearances (8)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-02-26|2026-02-26]] | gaming correspondent. |
 | [[episodes/2026-02-17|2026-02-17]] | gaming correspondent. |
 | [[episodes/2026-02-14|2026-02-14]] | gaming correspondent. |
 | [[episodes/2026-02-12|2026-02-12]] | gaming correspondent. |
@@ -122,3 +123,6 @@ See also: [[../segments/cryptozeus|CryptoZeu$ (Segment)]], [[characters/brandons
 - **[1:43:52]** ([[episodes/2026-02-28|2026-02-28]]): Brandon's mother speaks fluent Spanish, attributed to dating many Spanish men since his father disappeared.
 - **[[02:11:38]]** ([[episodes/2026-03-10|2026-03-10]]): Has 'parcel foot' condition preventing military draft; stalker sponsor Rip Blazer sponsored streams and won't leave.
 - **[[01:58:44]]** ([[episodes/2026-03-10|2026-03-10]]): Mother references 'Pastor Joe' and roleplays door-kicking scenarios; blasts music 24/7 from podcast about moms inheriting businesses through lawsuits.
+- **[[02:50:11]]** ([[episodes/2026-03-12|2026-03-12]]): Operates 'really rotten sinks dot com' OnlyFans posting sink photos; claims it earns more than streaming.
+- **[[11:37]]** ([[episodes/2026-03-12|2026-03-12]]): Imposed 250-character speech limit to protect throat for unspecified reason; limit refunds channel points when exceeded.
+- **[[01:51:31]]** ([[episodes/2026-03-12|2026-03-12]]): Nickname 'snake guzzler' revealed — references tongue-speaking at her church; Brandon finds it embarrassing.

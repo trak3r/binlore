@@ -88,6 +88,7 @@ On [[../episodes/2025-09-25|Post Wall and Rapture Clarity]], resurrected Crum si
 | [[../episodes/2026-02-19|2026-02-19]] [01:08:36] | [01:08:36] Crum denies memory of death/hell/DMV assistant manager role; calls it 'smoke and mirrors' despite Munch's prior canon. |
 | [[../episodes/2026-03-03|2026-03-03]] [01:28:37] | [01:28:37] Munch asks 'More wall content?' and suggests 'We could go back to the wall,' referencing the resolved hell-transit arc. |
 | [[../episodes/2026-03-10|2026-03-10]] | [18:47-19:43] Peter Gibbon claims 'the court is in the wall'; [01:19:36-01:28:11] Crum identifies as wall denialist, Munch references hell rescue and Crum's infrastructure work in hell. |
+| [[../episodes/2026-03-12|2026-03-12]] [01:21:56] | [01:21:56] Crum references being 'brought back better than ever' from hell transit; occasional super-strength side effect. |
 
 ## Related Pages
 

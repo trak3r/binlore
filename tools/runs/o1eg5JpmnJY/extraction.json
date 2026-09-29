@@ -1,0 +1,180 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "08:03",
+      "canonical_segment": "News",
+      "title": "Cold Open & Pepito Sign-On",
+      "notes": "Pepito delivers the live sign-on and countdown; Case Blackwell opens with schedule chat, sub-goal discussion, and Matt Liddell temporary tattoo bit."
+    },
+    {
+      "start": "08:03",
+      "end": "01:13:43",
+      "canonical_segment": "News",
+      "title": "Iran War Coverage & Geopolitical Rundown",
+      "notes": "Blackwell and Ripple cover day 13 of US-Israeli strikes on Iran: triple-tap apartment strike killing 40, 3.2M displaced, Parchin/Talligin II damage, Strait of Hormuz tanker attack, Bahrain unrest, Iran's peace terms, and White House war-effort video."
+    },
+    {
+      "start": "01:13:43",
+      "end": "01:25:06",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Royal Rumble vs. Pop Power Couple",
+      "notes": "Crum and Munch debate who wins in a fight: Meghan Markle & Prince Harry vs. Justin Trudeau & Katy Perry. Crum argues for Perry/Trudeau citing Perry's industry grit; Munch argues royal psychotic desperation. Crum wins on chat timing."
+    },
+    {
+      "start": "01:25:06",
+      "end": "01:48:14",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Town Hall: Rick & Jeff Field Audience Questions",
+      "notes": "Rick and Jeff (confirmed as distinct co-present entities) take viewer questions: shake weights, noid eradication, skate park request, gorilla grip strength, CIA vs. media, Operation Snake Eater, Brandon's mom's secret name, Manchester pervert brothers, and woodchuck philosophy."
+    },
+    {
+      "start": "01:48:14",
+      "end": "02:56:47",
+      "canonical_segment": "CryptoZeu$",
+      "title": "CryptoZeu$: Ace Attorney First Turnabout",
+      "notes": "Brandon plays Phoenix Wright: Ace Attorney (first case) with mother co-commentary under new 250-character throat-protection limit. Brandon secures not-guilty verdict for Larry Butz by exposing witness clock discrepancy tied to Paris time-zone offset."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold-open sign-on and countdown; announced Brandon's mom 250-character throat-protection limit.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype man",
+      "notes": "hype man. Derailed sub acknowledgments into freestyle rap threatening Case with Matt Liddell face tattoo; declared official Hype Train Day.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-anchored Iran war coverage with Blackwell; read Dropsite/UNHCR wire copy; sparred with Hype Train.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued Katy Perry/Justin Trudeau would win fight citing Perry's entertainment-industry grit; claimed super-strength from post-hell fugue state.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued royal psychotic desperation makes Markle/Harry lethal; lost debate on chat timing; mocked Crum's fugue-state gains.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosted town hall with Jeff; fielded audience questions on noids, gorilla grip, CIA vs. media, Snake Eater; confirmed distinct from Jeff.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff",
+      "role": "call-in guest",
+      "notes": "call-in guest. Appeared alongside Rick in town hall; confirmed as separate person; traded barbs on fanfic, beard wax, and Japanese fluency.",
+      "canonical_name": "Jeff",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Played Ace Attorney first turnabout live; secured not-guilty verdict via Paris time-zone clock evidence; revealed rotten-sinks OnlyFans side hustle.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon's mom",
+      "role": "call-in guest",
+      "notes": "call-in guest. Co-commentated Ace Attorney under new 250-character limit; nickname 'snake guzzler' revealed; prayed loudly, went 'witch mode' cackle.",
+      "canonical_name": "Brandon's mom",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Iran War Coverage",
+      "beat": "[08:03] Day 13 coverage: triple-tap apartment strike, 3.2M displaced, Strait of Hormuz tanker attack, Bahrain unrest, Iran peace terms requiring reparations and international guarantees.",
+      "timestamp": "08:03"
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:21:56] Crum claims super-strength (tearing doors, splitting tables) from 'fugue state' after hell resurrection; Munch unimpressed.",
+      "timestamp": "01:21:56"
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "[01:21:56] Crum references being 'brought back better than ever' from hell transit; occasional super-strength side effect.",
+      "timestamp": "01:21:56"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Brandon's mom",
+      "fact": "Imposed 250-character speech limit to protect throat for unspecified reason; limit refunds channel points when exceeded.",
+      "timestamp": "[11:37]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Claims super-strength side effects (tearing doors off hinges, splitting tables) from post-hell fugue state workout regimen.",
+      "timestamp": "[01:21:56]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Rick / Jeff",
+      "fact": "Confirmed as two distinct people who can occupy the same space simultaneously; town hall prompt tested this.",
+      "timestamp": "[01:25:39]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon's mom",
+      "fact": "Nickname 'snake guzzler' revealed — references tongue-speaking at her church; Brandon finds it embarrassing.",
+      "timestamp": "[01:51:31]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "Operates 'really rotten sinks dot com' OnlyFans posting sink photos; claims it earns more than streaming.",
+      "timestamp": "[02:50:11]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened with Pepito's sign-on and a Matt Liddell temporary-tattoo sub-goal tease before Blackwell and Ripple delivered a grim day-13 Iran war rundown — triple-tap apartment strikes, 3.2 million displaced, Strait of Hormuz tanker attacks, and Iran's peace terms demanding reparations. Hype Train derailed subscriptions into a rap threatening a Matt Liddell face tattoo. Munch & Crum debated royal vs. pop-couple fight supremacy, with Crum winning on chat timing and citing newfound super-strength from his post-hell fugue state. Rick and Jeff hosted a chaotic town hall confirming they are separate entities, fielding questions on noids, gorilla grip strength, and Brandon's mom's secret name. The broadcast closed with Brandon playing Ace Attorney's first turnabout under his mother's new 250-character throat-protection limit, securing a not-guilty verdict via Paris time-zone clock evidence and revealing his rotten-sinks OnlyFans side hustle.",
+  "_meta": {
+    "vod_id": "o1eg5JpmnJY",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 132488,
+    "approx_prompt_tokens": 33122,
+    "transcript_lines": 323
+  }
+}
