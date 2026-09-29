@@ -7,6 +7,22 @@ from .paths import CONTENT_EPISODES, REPO_ROOT, TOOLS_ROOT
 CATALOG_JSON = TOOLS_ROOT / "youtube_catalog.json"
 
 
+def _format_duration_short(seconds: float | None, fallback: str = "—") -> str:
+    """Human-friendly duration for the episodes table, e.g. 2h 10m / 58m / 45s."""
+    if seconds is None:
+        return fallback
+    total = int(round(float(seconds)))
+    if total < 0:
+        return fallback
+    h, rem = divmod(total, 3600)
+    m, sec = divmod(rem, 60)
+    if h:
+        return f"{h}h {m}m" if m else f"{h}h"
+    if m:
+        return f"{m}m"
+    return f"{sec}s"
+
+
 def generate_episodes_index() -> None:
     if not CATALOG_JSON.exists():
         raise FileNotFoundError(f"Missing {CATALOG_JSON}.")
@@ -45,7 +61,7 @@ def generate_episodes_index() -> None:
         yt_url = s.get("yt_url") or f"https://www.youtube.com/watch?v={yt_id}"
         title = s["title"].replace("|", "/")
         date_str = s.get("date") or "—"
-        dur = s.get("duration_str") or "—"
+        dur = _format_duration_short(s.get("duration_seconds"), fallback=s.get("duration_str") or "—")
 
         vod_id_display = str(twitch_id) if twitch_id else yt_id
         vod_id_source = "Twitch" if twitch_id else "YouTube"
@@ -228,11 +244,19 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   width: 100%;
   border-collapse: collapse;
 }}
+.cell-date,
+.cell-dur {{
+  white-space: nowrap;
+}}
 .cell-date code {{
   font-size: 0.82rem;
   background: transparent;
   padding: 0;
   color: var(--dark);
+  white-space: nowrap;
+}}
+.cell-dur {{
+  font-variant-numeric: tabular-nums;
 }}
 .cell-vod {{
   white-space: nowrap;
