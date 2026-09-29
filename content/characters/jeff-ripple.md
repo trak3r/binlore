@@ -98,3 +98,4 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 - **[[01:07:02]]** ([[episodes/2024-08-22|2024-08-22]]): Discovered DNC podium doubles as urinal; urinated on floor during live cross while crowd applauded to Beyoncé music.
 - **[]** ([[episodes/2025-03-31|2025-03-31]]): Jeff Ripple returned from hiatus spent in Cabo at 'MMA gym/kung fu' after absence since early March. [20:11, 53:36]
 - **[45:19]** ([[episodes/2025-06-09|2025-06-09]]): Jeff Ripple fills in for missing Jeb on How To with Jeb.
+- **[]** ([[episodes/2025-10-31|2025-10-31]]): [36:44] Chat poll settled Jeff Ripple's last name as 'Wet Mitchell' after HR toilet bit.

@@ -51,17 +51,18 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity and Dick Punch wager. |
 | [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (hollow-eyed, bald). Argues for political decorum, reveals Dubai 'classified' social life, honey-bag therapy, claims penile conditioning for gorilla dick-punch. |
 | [[episodes/2026-03-07|2026-03-07]] | Stands trial for peen.ui IP infringement; reveals he co-founded peen.ui, has a 'nasty pig room,' and suffers from labia growing on his… |
+| [[episodes/2025-10-31|2025-10-31]] | debate analyst. |
 | [[episodes/2025-10-18|2025-10-18]] | debate analyst. |
 | [[episodes/2025-10-16|2025-10-16]] | debate analyst. |
 | [[episodes/2025-10-13|2025-10-13]] | debate analyst. |
 | [[episodes/2025-10-02|2025-10-02]] | debate analyst. |
-| [[episodes/2025-09-29|2025-09-29]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (138)</summary>
+<summary>Earlier appearances (139)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-09-29|2025-09-29]] | debate analyst. |
 | [[episodes/2025-09-26|2025-09-26]] | debate analyst. |
 | [[episodes/2025-09-25|2025-09-25]] | debate analyst. |
 | [[episodes/2025-09-21|2025-09-21]] | debate analyst. |
@@ -381,3 +382,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[02:07:24]** ([[episodes/2025-10-13|2025-10-13]]): Claims 'ghost follicles' condition: born bald with aura of sensation extending 3-4 inches past scalp that tingles fiercely when needing to urinate [02:07:24].
 - **[1:17:39]** ([[episodes/2025-10-16|2025-10-16]]): Claims 35-45 years of marriage; currently sleeping on couch in a 'comfortable valley' with scheduled morning/bedtime contact. [1:17:39, 1:19:37]
 - **[1:19:16]** ([[episodes/2025-10-16|2025-10-16]]): Admits he and wife practice face sitting; last occurred 'a couple months ago' before memory lapse. [1:19:16]
+- **[]** ([[episodes/2025-10-31|2025-10-31]]): [02:34:43] Crum explicitly identifies as 'hell crumb' from the Join the Wall arc, confirming the hell transit and assistant manager role remain canon.

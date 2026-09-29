@@ -1,0 +1,188 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "08:02",
+      "canonical_segment": "News",
+      "title": "Station Sign-On and Cold Open",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on as executive producer, requests noodles, and wishes viewers a happy Halloween."
+    },
+    {
+      "start": "08:02",
+      "end": "30:54",
+      "canonical_segment": "News",
+      "title": "Pre-Show Chat and Halloween Costume Reveal",
+      "notes": "Case and Kendall banter about One Piece trivia, subscriber gifts, and reveal their couples costume as Pink Panther and Inspector Clouseau; Hype Train interrupts with a freestyle about 'piss webs.'"
+    },
+    {
+      "start": "17:34",
+      "end": "22:53",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Freestyle: Piss Webs",
+      "notes": "Hype Train commandeers the feed for a surreal Halloween rap about webs made of piss and spiders made of piss, derailing the pre-show flow."
+    },
+    {
+      "start": "30:54",
+      "end": "53:38",
+      "canonical_segment": "News",
+      "title": "News Desk: Refugee Cap, Sudan, Prince Andrew, Cash Patel, NZXT, Saudi Sky Stadium",
+      "notes": "Jeff Ripple joins Case for the news block covering Trump's 7,500 refugee ceiling focused on white South Africans, the Sudan civil war, King Charles stripping Prince Andrew of titles, FBI Director Cash Patel using a government jet for his girlfriend's wrestling event, NZXT hit with civil RICO, and Saudi Arabia's $1 billion sky stadium render."
+    },
+    {
+      "start": "53:38",
+      "end": "01:12:11",
+      "canonical_segment": "Amongst the Web",
+      "title": "Trailer Thursday with Trent: Stone Cold Fox, Scream 7, Dracula, Palestine 36",
+      "notes": "Trent screens four trailers including a 70s-style action film, Scream 7, a Radu Jude Dracula documentary, and a historical Palestine film; Case and Trent bicker about genre trends and geopolitics."
+    },
+    {
+      "start": "01:13:06",
+      "end": "01:37:16",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet Segment: AI Sitcom Slop, Sympathetic Period Farts, Neo Robot",
+      "notes": "Chet appears unprompted, discusses his Chat Your Bait girlfriend LexiPro, reacts to viral videos, and covers the Wall Street Journal report on 1X's Neo humanoid robot — a $20k teleoperated home robot slated for 2026 delivery."
+    },
+    {
+      "start": "02:19:47",
+      "end": "02:35:16",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum Debate: Kristi Noem — Freddy Krueger or Jeffrey Dahmer?",
+      "notes": "Munch and Crum debate whether Kristi Noem resembles Freddy Krueger or Jeffrey Dahmer, triggered by JD Vance's comments on dog abuse; Crum references the Join the Wall arc ('hell crumb is me') and threatens a 'kill shot' on Munch."
+    },
+    {
+      "start": "02:35:16",
+      "end": "02:39:39",
+      "canonical_segment": "News",
+      "title": "Peter Gibbon Interrupts and Raid to Bruce Green",
+      "notes": "Peter Gibbon emerges from the walls to disrupt the sign-off; Case raids Bruce Green's channel as the broadcast ends."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered station sign-on, requested noodles, engaged in HR toilet bit with floating toilet prop.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the broadcast, hosted pre-show chat with Kendall, moderated news desk with Jeff Ripple, introduced trailer and science segments, presided over Munch & Crum debate.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Appeared for Halloween costume reveal as Pink Panther to Case's Inspector Clouseau; participated in One Piece trivia and subscriber bit.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical/cultural correspondent",
+      "notes": "musical/cultural correspondent. Hijacked pre-show with a freestyle rap about 'piss webs' and piss spiders for Halloween.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosted news desk covering refugee cap, Sudan, Prince Andrew, Cash Patel, NZXT lawsuit, and Saudi sky stadium; endured HR toilet bit and last-name poll resulting in 'Wet Mitchell.'",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "movie correspondent",
+      "notes": "movie correspondent. Hosted Trailer Thursday segment screening Stone Cold Fox, Scream 7, Radu Jude's Dracula, and Palestine 36; debated genre trends with Case.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued Kristi Noem is more like Freddy Krueger (playful, imaginary); endured Crum's 'kill shot' threat and Join the Wall callback.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued Kristi Noem is more like Jeffrey Dahmer (real violence); invoked Join the Wall arc ('hell crumb is me') and threatened tactical kill shot on Munch.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Join the Wall",
+      "beat": "[02:34:43] Crum declares 'hell crumb is me' and 'the killer's in the room with you,' directly referencing his hell tenure and rescue arc from the Join the Wall storyline.",
+      "timestamp": "02:34:43"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Kendelle",
+      "fact": "[22:53] Kendall and Case will wear Pink Panther and Inspector Clouseau couples costumes for Halloween 2025.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeff Ripple",
+      "fact": "[36:44] Chat poll settled Jeff Ripple's last name as 'Wet Mitchell' after HR toilet bit.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Neo Robot (1X)",
+      "fact": "[02:00:53] 1X's Neo humanoid robot available for $20k pre-order with 2026 delivery; teleoperated by remote pilots, not autonomous; requires household data collection for AI training.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Saudi Sky Stadium",
+      "fact": "[01:52:28] Saudi Arabia unveiled a $1 billion 'sky stadium' render, likely part of Neom/The Line project; video appears to be a mock-up.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet",
+      "fact": "[01:14:09] Chet claims to have an internet girlfriend named LexiPro on Chat Your Bait and experiences 'sympathetic period farts' when she menstruates.",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "[02:34:43] Crum explicitly identifies as 'hell crumb' from the Join the Wall arc, confirming the hell transit and assistant manager role remain canon.",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened with Pepito's Halloween sign-on before Case and Kendall derailed into One Piece trivia and a Pink Panther costume reveal, interrupted by Hype Train's 'piss webs' freestyle. The news desk covered Trump's record-low refugee cap targeting white South Africans, the Sudan humanitarian crisis, Prince Andrew's eviction, Cash Patel's government jet misuse, and Saudi Arabia's sky stadium render. Trent's Trailer Thursday screened four films, Chet commandeered the broadcast to discuss his AI girlfriend and 1X's teleoperated Neo robot, and Munch & Crum debated whether Kristi Noem resembles Freddy Krueger or Jeffrey Dahmer — ending with Crum invoking his hell tenure and threatening a kill shot. Peter Gibbon closed the broadcast with a wall intrusion and a raid to Bruce Green.",
+  "_meta": {
+    "vod_id": "PN208UJ8iWk",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 134833,
+    "approx_prompt_tokens": 33708,
+    "transcript_lines": 386
+  }
+}
