@@ -31,6 +31,7 @@ Rick joined the broadcast on the [[episodes/2026-09-04|2026-09-04 broadcast]] to
 | [[episodes/2026-07-16|2026-07-16]] | Investigative media correspondent joins the news desk, providing commentary on Trump's address, JD Vance's couch jokes, and the humanoid robot story. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
 | [[episodes/2026-06-03|2026-06-03]] | Host of Amongst the Web. Referenced in AI Rooney complaint about thin blue line flag at his BBQs. |
+| [[episodes/2026-02-10|2026-02-10]] | Amongst the Web host. |
 | [[episodes/2026-02-06|2026-02-06]] | CIA liaison / Amongst the Web host. |
 | [[episodes/2026-01-27|2026-01-27]] | host of Amongst the Web. |
 | [[episodes/2025-12-18|2025-12-18]] | host of Amongst the Web. |
@@ -45,13 +46,13 @@ Rick joined the broadcast on the [[episodes/2026-09-04|2026-09-04 broadcast]] to
 | [[episodes/2025-05-13|2025-05-13]] | host (Amongst the Web). |
 | [[episodes/2025-05-05|2025-05-05]] | Amongst the Web host. |
 | [[episodes/2025-05-01|2025-05-01]] | Amongst the Web host. |
-| [[episodes/2025-04-25|2025-04-25]] | host of Amongst the Web. |
 
 <details>
-<summary>Earlier appearances (11)</summary>
+<summary>Earlier appearances (12)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-04-25|2025-04-25]] | host of Amongst the Web. |
 | [[episodes/2025-04-04|2025-04-04]] | CIA-affiliated news source. |
 | [[episodes/2025-03-07|2025-03-07]] | news correspondent. |
 | [[episodes/2025-03-04|2025-03-04]] | recurring character. |

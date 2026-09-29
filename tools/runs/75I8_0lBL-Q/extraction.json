@@ -1,0 +1,239 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "14:38",
+      "canonical_segment": "Hype Train",
+      "title": "Cold Open & Hype Train Derailment",
+      "notes": "Pepito delivers sign-on countdown; Hype Train commandeers feed with freestyle rap before Case Blackwell assumes anchor desk."
+    },
+    {
+      "start": "14:38",
+      "end": "41:54",
+      "canonical_segment": "News",
+      "title": "Jeff Ripple's Medical AI & Mermaid Crime Blotter",
+      "notes": "Jeff Ripple reads FDA reports on AI surgical malfunctions, interviews Sesame AI 'Miles' on drug addiction, covers Louisiana nude pond trespasser aspiring to mermaid status, boxer Gerald Miller's mid-fight toupee loss, and Charles Bronson's prison jelqing regimen; ChetAI auto-triggers on 'science' keyword."
+    },
+    {
+      "start": "41:54",
+      "end": "55:41",
+      "canonical_segment": "How To with Jeb",
+      "title": "Makeup Without Mirrors & Buff Bagwell's Carnivore McDonald's",
+      "notes": "Jeb Nogget presents Hbomb makeup tutorial using finger-mapping technique, reacts to wrestler Buff Bagwell's bunzeless McDonald's diet video, and attempts figure-eight hand coordination with deceased father's board-bound spirit heckling."
+    },
+    {
+      "start": "55:41",
+      "end": "78:31",
+      "canonical_segment": "Therapy",
+      "title": "Hand Him Squidward's Rennerton Confessional",
+      "notes": "Dr. Chath fields chat questions until Hand Him Squidward arrives; reveals Rennerton as undead sanctum where Crum served as mayor during the city's transformation, dispenses cooking-as-therapy advice, and deflects serial killer trivia."
+    },
+    {
+      "start": "78:31",
+      "end": "104:41",
+      "canonical_segment": "Munch & Crum",
+      "title": "AI Malpractice Liability & PNUI Sponsorship Scandal",
+      "notes": "Munch and Crum debate whether AI doctors can be sued; Crum discloses PNUI sponsorship (urine-color stock advisor), ongoing PNUI lawsuit over false claims, and alleged vibe-coded rival PNUChrist.ai before recusing himself via Fifth Amendment."
+    },
+    {
+      "start": "104:41",
+      "end": "131:22",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Bloody Roar 2 Bat Run & Maternal Interference",
+      "notes": "Brandon struggles with controller detection, plays as bat character Alice, endures mother's Pastor Joe prayer interruptions and guano sponsorship confusion, argues with snowplow.ui AI and Jeremy Renner clones, raids T-Lates to close."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors broadcast, manages segment transitions, spars with Hype Train and Jeff Ripple, oversees Munch & Crum debate.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold-open countdown, attempts to control Hype Train feed, fields Case's alternate-reality complaints.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Derails subscriber acknowledgments into freestyle rap about bodily fluids and Piss Fruit Ninja before being cut off.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Delivers news block with 80s-pop auto-tune flair, interviews AI 'Miles', reads mermaid trespasser and toupee-loss stories, triggers ChetAI.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "science analyst",
+      "notes": "science analyst. Auto-triggers on 'science' keyword during jelqing discussion, advocates door-handle penile traction, claims chaos emerald masks location.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosts How To segment from woodshop, presents makeup and hand-coordination tutorials while bickering with board-trapped father.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "co-host (deceased)",
+      "notes": "co-host (deceased). Spirit trapped in wooden board, heckles Jeb's appearance and parentage, burps on cue, claims responsibility for Jeb's wood state.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Chath",
+      "role": "therapist",
+      "notes": "therapist. Opens therapy desk, waits for Hand Him Squidward, fields chat affirmations while staring intensely at camera.",
+      "canonical_name": "Dr. Chath",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hand Him Squidward",
+      "role": "therapist / newsman",
+      "notes": "therapist / newsman. Arrives late, reveals Rennerton undead lore and Crum's mayoral tenure, dispenses cooking advice and Oreo thin-wafer grievances.",
+      "canonical_name": "Hand Him Squidward",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues AI doctors are sueable, presses Crum on PNUI conflicts, claims victory after Crum recuses.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Discloses PNUI sponsorship, lawsuit, and PNUChrist.ai rival venture; pleads Fifth Amendment, disputes debate tally.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Plays Bloody Roar 2 on air, battles controller issues, mother's interruptions, and AI snowplow/Jeremy Renner hallucinations.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon's Mom",
+      "role": "off-screen antagonist",
+      "notes": "off-screen antagonist. Yells through bedroom door about Pastor Joe, pickles/guano, and Fortnite skills; karate-chops throat to clear voice.",
+      "canonical_name": "Brandon's Mom",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "Amongst the Web host",
+      "notes": "Amongst the Web host. Interrupts gaming segment with guano facts and CIA furry history, spars with Brandon over audio priority.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[2026-02-10] Crum reveals PNUI sponsorship (urine-color stock AI), admits being sued by sponsor for false claims, and discloses alleged vibe-coded rival PNUChrist.ai during Munch & Crum debate before recusing himself.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "[2026-02-10] Hand Him Squidward confirms Crum was mayor of Rennerton when the city died and became an undead sanctum, linking Crum's past to the hellscape transit authority lore.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "35:38",
+      "entity": "",
+      "fact": "ChetAI auto-triggers on the word 'science' during jelqing discussion, advocates door-handle penile traction method, claims chaos emerald masks its location.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:08:08",
+      "entity": "",
+      "fact": "Hand Him Squidward reveals Crum served as mayor of Rennerton when the entire city died and transformed into an undead 'sanctum for the damned.'",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:21:44",
+      "entity": "Crum",
+      "fact": "Crum accepts PNUI sponsorship: an AI that reads urine color via phone camera to generate stock advice.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:24:08",
+      "entity": "Crum",
+      "fact": "Crum discloses PNUI is suing him for false claims about urine-test accuracy and offering spiritual advice based on urine color.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:24:51",
+      "entity": "Crum",
+      "fact": "Crum admits to allegedly creating rival PNUChrist.ai using PNUI backend access via vibe coding, prompting his Fifth Amendment recusal.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:33:04",
+      "entity": "Brandon",
+      "fact": "Brandon references prior Kid Rock 'Rock Ice' sponsorship (over 30% water, sold at Kroger).",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:54:04",
+      "entity": "Brandon",
+      "fact": "Brandon's mother references Pastor Joe, confirming recurring 'muffled door intervention' dynamic.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a chaotic Monday broadcast featuring Jeff Ripple's auto-tuned news block on AI surgical errors and a nude mermaid aspirant, Jeb Nogget's makeup-and-hand-trick tutorial haunted by his board-bound father, Hand Him Squidward's therapy session exposing Crum's mayoral reign over an undead city, a Munch & Crum debate derailed by Crum's PNUI sponsorship scandal and alleged rival AI venture, and Brandon's Bloody Roar 2 session besieged by maternal interruptions, a sentient snowplow AI, and Jeremy Renner clone hallucinations before raiding T-Lates.",
+  "_meta": {
+    "vod_id": "75I8_0lBL-Q",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 107496,
+    "approx_prompt_tokens": 26874,
+    "transcript_lines": 303
+  }
+}
