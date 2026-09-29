@@ -1,0 +1,209 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "00:06",
+      "end": "16:27",
+      "title": "Cold Open & Sign-On",
+      "notes": "Pepito delivers the official broadcast sign-on; Case banters about broken fish tie, Chicago sketch fest trip, and missing Jizbo."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "16:27",
+      "end": "40:54",
+      "title": "NYC Mayoral Race & Venezuela War Pretext",
+      "notes": "Case and Jeff Ripple discuss Trump endorsing Cuomo over Mamdani, Sliwa's polling, and Rubio/Trump pushing regime change in Venezuela using fentanyl pretext that spills into Colombia/Mexico targets."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "start": "41:55",
+      "end": "55:36",
+      "title": "How To Pitch News, Drink, and Fart Noise",
+      "notes": "Jeb Nogget hosts from his workshop with his deceased father trapped in a wooden board; covers news pitching, alcohol tolerance, and fart-noise technique while bickering about Jeb's afterlife housing."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "start": "56:42",
+      "end": "01:08:58",
+      "title": "Crum's Wife, Frederick, and 80s Theme Songs",
+      "notes": "Munch and Crum debate whether Crum knows his wife is with Frederick (aka Freddie Jizbo); devolves into Baywatch and Thunder and Paradise theme-song playback and Crum tongue-piano performance."
+    },
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "start": "01:10:19",
+      "end": "01:41:03",
+      "title": "AI Music Charts, Shifty Brent, and Butt Breathing",
+      "notes": "Chet commandeers the broadcast to discuss Billboard AI artists (Zanya Monet, Juno Sky), Joe Rogan praising Shifty Brent covers, Japanese butt-breathing oxygen trial, and Meta porn-torrent lawsuit."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "01:41:03",
+      "end": "01:55:19",
+      "title": "Cybertrucks, Scott Adams, Heidi Klum",
+      "notes": "Rapid-fire news: Las Vegas police Cybertruck fleet, Scott Adams begging Trump to intervene with Kaiser for prostate-cancer drug, Heidi Klum's Medusa Halloween costume, and Macy's Parade planning."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "start": "01:55:19",
+      "end": "02:32:06",
+      "title": "Park Opinions Mixed with Town Hall Queue",
+      "notes": "Trip Bradstein intercepts park pedestrians for opinions; opinion sheet glitch merges with town-hall questions, yielding wrestling takes, Napoleon wrestling, JD Vance speculation, and a drive-by song slam."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers sign-on, demands pasta and wine, claims cousin payments are in his contract, and identifies Hype Train's return.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosts news desk, discusses NYC mayoral race and Venezuela war pretext, argues with Case about racism and Jojo Siwa, and huffs helium with intern.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosts How To segment from workshop with father's spirit in a board; teaches news pitching, drinking, and fart noises while negotiating wood upgrades.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates Munch about wife's alleged affair with Frederick/Jizbo, performs tongue-piano, claims erector-set resilience, and denies hell/wife lore.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Agitates Crum over wife and Frederick, plays 80s theme songs, claims Crum knows he's being cheated on, and tallies debate points.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Broadcasts from park bushes, processes opinion submissions mixed with town-hall queue, interviews pedestrians on wrestling, JD Vance, and sandwiches.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype announcer",
+      "notes": "hype announcer. Briefly appears at top of show, freestyles about piss and Piss Fruit Ninja, then departs.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Intern",
+      "role": "studio intern",
+      "notes": "studio intern. Huffs helium with Pepito and Jeff Ripple, denies being a narc when confronted.",
+      "canonical_name": "Intern",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "Case mentions Beyblade segment is pending Kendall's availability; still not executed this episode.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Munch references Crum's wife leaving him for Jizbo after Crum died and went to hell; Crum denies both events.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "Jeb's Dad asks if Crum knows his wife left him and married Jizbo after he died and went to hell; Crum denies knowledge.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Fish tie broke and was rebuilt into 'million-dollar-man fish tie' using all financial resources. [11:35]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Traveling to Chicago Wednesday for sketch fest show; only Monday stream this week. [12:46]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jizbo",
+      "fact": "Missing; went back into the wall to retrieve poster, called a hero by Case. [15:16]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Wife allegedly with Frederick (Freddie Jizbo), a French construction worker/tutor; Crum claims different house configuration but loyal marriage. [01:05:24]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Debuts 'sex hair' look; refuses to fix it or wear hat. [01:10:19]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Medical Science",
+      "fact": "Japanese/US researchers complete first human clinical trial of 'butt breathing' (oxygen-rich liquid perflubron via rectal tube) for respiratory failure; 27 healthy volunteers held liquid for 60 minutes. [01:26:13]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Scott Adams",
+      "fact": "Publicly pleaded to Trump on X to intervene with Kaiser NorCal to schedule FDA-approved Pluvicto IV for metastatic prostate cancer. [01:47:43]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Heidi Klum",
+      "fact": "Wore Medusa costume for Halloween 2025; Case speculates child labor used to haul her. [01:50:22]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trip Bradstein",
+      "fact": "Opinion submission sheet glitched, merging with town-hall question queue; Trip performs live list surgery to fix. [02:09:35]",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opens with Pepito's sign-on and Case's broken fish tie before diving into the NYC mayoral race where Trump endorses Cuomo over socialist frontrunner Mamdani. Jeff Ripple and Case then dissect a Rubio-led push to use fentanyl as pretext for regime change in Venezuela that inadvertently targets Colombia and Mexico. Jeb Nogget hosts a chaotic How To from his workshop with his board-bound father, covering news pitching, alcohol tolerance, and fart noises. Munch and Crum's debate spirals into Baywatch theme songs and Crum's tongue-piano after Munch alleges Crum's wife is with Frederick/Jizbo. Chet commandeers the desk to dissect AI music charts, Shifty Brent, and a Japanese butt-breathing clinical trial. The news block closes with Vegas police Cybertrucks, Scott Adams begging Trump for cancer-drug scheduling, and Heidi Klum's Medusa costume. Trip Bradstein closes the broadcast from the park where his opinion sheet merges with the town-hall queue, yielding wrestling takes, Napoleon fantasies, and JD Vance speculation before a drive-by song slam and a raid attempt on 'Lip'.",
+  "_meta": {
+    "vod_id": "3vBzXHG5hAg",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 127675,
+    "approx_prompt_tokens": 31918,
+    "transcript_lines": 364
+  }
+}

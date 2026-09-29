@@ -36,6 +36,7 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 | [[episodes/2026-06-29|2026-06-29]] | Debuts after emerging from a two-month bush hibernation. Conducts [[../segments/trip-on-the-street|Trip on the Street]] interviews with park visitors on audience-submitted topics, interviewing his mother (confusing her for a stranger), Hype Train, an aggressive DVD salesman, and a George W. Bush impersonator. |
 | [[episodes/2026-06-19|2026-06-19]] | Field correspondent stationed in public parks conducting on-the-spot interviews with passersby. |
 | [[episodes/2026-06-05|2026-06-05]] | Field correspondent residing permanently in public parks, conducting 'on the street' opinion interviews. |
+| [[episodes/2025-11-03|2025-11-03]] | field correspondent. |
 | [[episodes/2025-10-16|2025-10-16]] | field correspondent. |
 | [[episodes/2025-09-11|2025-09-11]] | field correspondent. |
 | [[episodes/2025-09-03|2025-09-03]] | field correspondent. |
@@ -52,13 +53,13 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 | [[episodes/2025-03-21|2025-03-21]] | field correspondent. |
 | [[episodes/2025-03-07|2025-03-07]] | field correspondent. |
 | [[episodes/2025-02-12|2025-02-12]] | field correspondent. |
-| [[episodes/2025-01-31|2025-01-31]] | field correspondent. |
 
 <details>
-<summary>Earlier appearances (36)</summary>
+<summary>Earlier appearances (37)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-01-31|2025-01-31]] | field correspondent. |
 | [[episodes/2025-01-27|2025-01-27]] | Field Correspondent. |
 | [[episodes/2025-01-24|2025-01-24]] | field correspondent. |
 | [[episodes/2025-01-06|2025-01-06]] | field correspondent. |
@@ -122,3 +123,4 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 - **[01:48:16]** ([[episodes/2025-04-04|2025-04-04]]): Maintains 'opinion slop' trough in park; vows to stay on streets until literal bones bleached by sun.
 - **[2:13:17]** ([[episodes/2025-09-11|2025-09-11]]): Trip Bradstein has installed a bidet in his bush ('cleanest bush in the park').
 - **[1:14:02]** ([[episodes/2025-10-16|2025-10-16]]): Bush background has apparently never been updated despite long absences. [1:14:02]
+- **[]** ([[episodes/2025-11-03|2025-11-03]]): Opinion submission sheet glitched, merging with town-hall question queue; Trip performs live list surgery to fix. [02:09:35]

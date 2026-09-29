@@ -91,6 +91,7 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 | [[../episodes/2025-10-10|2025-10-10]] | No advancement this episode; still pending community pledge execution. |
 | [[../episodes/2025-10-16|2025-10-16]] | Trip Bradstein confirms Beyblade Four-way betathon triggers at 10 more subs; street interviewee asks who to talk to at BIN for the match. [52:32, 53:27] |
 | [[../episodes/2025-10-20|2025-10-20]] [1:40:11] | [1:40:11] Case confirms Beyblade gold hit; plans four-way Beyblade bet-off for Friday pending betting mechanism setup. |
+| [[../episodes/2025-11-03|2025-11-03]] | Case mentions Beyblade segment is pending Kendall's availability; still not executed this episode. |
 | [[../episodes/2026-07-17|2026-07-17]] [01:47:23] | No direct development; tournament remains pending. (Blackwell joked 'I'll do the conspiracy segment one of these days I swear to god but it won't be today'.) |
 | [[../episodes/2026-07-20|2026-07-20]] [01:05:51] | [[../characters/abraham-lincoln|Abraham Lincoln]] confronts Case Blackwell on air over the unpaid community Beyblade debt. Case formally commits to a 2v2 Beyblade Burst event for Crum and announces he has ordered custom Bart Simpson tattoos ('Barts'). |
 | [[../episodes/2026-07-24|2026-07-24]] [08:47] | Production update by [[../characters/pepito|Pepito]] and Case confirms the Beyblades stream is stalled among backlogged subscriber goals, delayed Bart orders, and Case's swollen ankle mobility issues. |

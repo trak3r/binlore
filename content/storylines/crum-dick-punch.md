@@ -128,6 +128,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2025-10-04|2025-10-04]] | [2025-10-04] Crum references recent death and hell trip during Beyblade match; Munch mocks 'mental oopsie daisy' memory lapse. |
 | [[../episodes/2025-10-06|2025-10-06]] [01:24:36] | [01:24:36] Case's 'level up' remark and wall threat echo the resolved Crum Dick Punch / Join the Wall saga's RPG scaffolding. |
 | [[../episodes/2025-10-09|2025-10-09]] [1:52:27] | [1:52:27] Crum references the mechanical gorilla creditor: 'That gorilla sure is the kind of Hairy I like' — post-resolution callback. |
+| [[../episodes/2025-11-03|2025-11-03]] | Munch references Crum's wife leaving him for Jizbo after Crum died and went to hell; Crum denies both events. |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |

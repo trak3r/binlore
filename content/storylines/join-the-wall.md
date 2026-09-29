@@ -80,6 +80,7 @@ On [[../episodes/2025-09-25|Post Wall and Rapture Clarity]], resurrected Crum si
 | [[../episodes/2025-10-06|2025-10-06]] [01:24:36] | [01:24:36] Case references 'level up again in context' and threatens to 'send someone else into the wall,' invoking the crawlspace hell transit. |
 | [[../episodes/2025-10-09|2025-10-09]] [1:44:38] | [1:44:38] Munch references Crum's hell stint: 'You seemed actually happier down there... thriving in a way you just never have up here' — confirms Crum's hell employment canon. |
 | [[../episodes/2025-10-31|2025-10-31]] [02:34:43] | [02:34:43] Crum declares 'hell crumb is me' and 'the killer's in the room with you,' directly referencing his hell tenure and rescue arc from the Join the Wall storyline. |
+| [[../episodes/2025-11-03|2025-11-03]] | Jeb's Dad asks if Crum knows his wife left him and married Jizbo after he died and went to hell; Crum denies knowledge. |
 
 ## Related Pages
 
