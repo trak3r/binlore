@@ -1,0 +1,194 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "19:00",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Cold Open & Subscriber Freestyle",
+      "notes": "Pepito delivers station sign-on; Hype Train performs extended freestyle rap over 'bald type beat' while thanking subscribers, riffing on baldness, minions, and translucent train jaundice."
+    },
+    {
+      "start": "19:00",
+      "end": "40:30",
+      "canonical_segment": "News",
+      "title": "Netflix–Warner Bros Merger, Iron Lung, Fabergé Pendant, Excel Worlds",
+      "notes": "Case and intern cover Netflix winning bidding war for Warner Bros Discovery assets (DC, Harry Potter, Looney Tunes, etc.), Mark Pilier's self-financed horror film Iron Lung, a swallowed Fabergé pendant recovered after six days, and the 2025 Microsoft Excel World Championship highlights."
+    },
+    {
+      "start": "40:30",
+      "end": "49:00",
+      "canonical_segment": "News",
+      "title": "Kendelle Walk-Through & Dinner Debate",
+      "notes": "Kendelle enters to signature theme music, reveals she napped 90 minutes after two sleepless nights, discusses lactose intolerance and dinner options while Case applies a face filter."
+    },
+    {
+      "start": "49:00",
+      "end": "1:12:00",
+      "canonical_segment": "News",
+      "title": "John Cena Oscars Bit, Birthright Citizenship, Gooning Trend, AI Teddy Bear",
+      "notes": "Case and intern discuss John Cena's underwhelming odd-shaped penis joke, Supreme Court hearing on birthright citizenship, Blackpink's Lisa joining Extraction universe, gooning as top googled sex trend, Halle Berry criticizing Gavin Newsom, drug-resistant groin fungus in UK, Musk foundation donations, and AI teddy bear caught teaching kids to start fires."
+    },
+    {
+      "start": "1:12:00",
+      "end": "1:28:48",
+      "canonical_segment": "News",
+      "title": "Trailer Reactions: Super Turbo Atomic Ninja Rabbit, Knight of the Seven Kingdoms, Fraggle Rock, Routine",
+      "notes": "Case and Pepito react to viewer-submitted trailers; Pepito claims he appeared in Super Turbo Atomic Ninja Rabbit; Knight of the Seven Kingdoms revealed as Game of Thrones prequel; Fraggle Rock reboot on Apple TV+; Routine launch trailer after 13-year development."
+    },
+    {
+      "start": "1:28:48",
+      "end": "1:41:57",
+      "canonical_segment": "How To with Jeb",
+      "title": "Smooth Jazz, Breathing Exercises, Gun Mario's Pepsi Float",
+      "notes": "Jeb and his deceased father (trapped in a wooden board) attempt smooth jazz singing, guided breathing/posture exercises for desk workers, and watch Gun Mario make a Pepsi float with vanilla ice cream."
+    },
+    {
+      "start": "1:41:57",
+      "end": "1:51:18",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "The Jorker Interview: Gooning & Black-and-White Movie Vat",
+      "notes": "Case interviews The Jorker, a caller who claims to have fallen into a vat of old black-and-white movies, turning his face monochrome; discusses gooning philosophy, Fat Man rivalry, and a failed jork-bomb timer."
+    },
+    {
+      "start": "1:51:18",
+      "end": "2:25:39",
+      "canonical_segment": "DJ C4",
+      "title": "Lex Venom Christmas Song Sequel: 'Deep-Throated an Elf on the Shelf'",
+      "notes": "DJ C4 and Case compose a sequel to Lex Venom's 'She Was a Spider' — an 80s hair-metal Christmas track about intentional solitude, six gallons of milk, T-bird revving, deep-throating an Elf on the Shelf, dying, and partying in hell with Satan; Lex Venom records vocals live."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors Friday News Dump solo with intern; reacts to trailers; produces Christmas song sequel with Lex Venom and DJ C4.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold-open sign-on; claims he appeared in Super Turbo Atomic Ninja Rabbit; cuts to himself on monitor during trailer reactions.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Performs extended freestyle over 'bald type beat' while thanking subs; riffs on baldness, minions, and translucent jaundice eyes.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Intern",
+      "role": "intern",
+      "notes": "Unnamed intern co-hosts news desk; reads stories; debates dinner options; fails to recognize Kendelle's brother.",
+      "canonical_name": "Intern",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walks through with theme music; reveals 90-minute nap after two sleepless nights; discusses lactose intolerance and dinner preferences.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "recurring",
+      "notes": "recurring. Hosts How To with Jeb from workshop; argues with deceased father trapped in wooden board; attempts smooth jazz and breathing exercises.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "recurring",
+      "notes": "recurring. Deceased father trapped in wooden board; berates Jeb for misbehavior; insists Jeb fear both being in and leaving the wood.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "The Jorker",
+      "role": "call-in guest",
+      "notes": "call-in guest. Calls in via Jo Rogen Experience; claims face turned black-and-white after falling into vat of old movies; advocates gooning without lubrication.",
+      "canonical_name": "The Jorker",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ C4",
+      "role": "recurring",
+      "notes": "recurring. Produces Christmas song sequel with Case; finds 80s rock instrumental; structures track for Lex Venom vocals.",
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Lex Venom",
+      "role": "recurring",
+      "notes": "recurring. Returns to record vocals for Christmas song sequel; claims he was 'old enough to party' when recording original spider song; delivers monochrome-face performance.",
+      "canonical_name": "Lex Venom",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "Claims to have appeared as a character in 'Super Turbo Atomic Ninja Rabbit' (1980s short/proof of concept).",
+      "timestamp": "[1:16:32]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Has been sick with cough, didn't sleep for two nights, took 90-minute nap before stream.",
+      "timestamp": "[41:36]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Lactose intolerant; lactase supplements don't work for her; gets bloated and bathroom issues from dairy.",
+      "timestamp": "[43:02]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Acquired new black coat that he 'demanded' and feels 'fucking sexy' wearing.",
+      "timestamp": "[1:12:55]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Lex Venom",
+      "fact": "Returns for Christmas sequel to 'She Was a Spider'; original song involved spider biting off penis; new track involves deep-throating Elf on the Shelf and hell party with Satan.",
+      "timestamp": "[1:57:18]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a solo Friday News Dump with an unnamed intern, covering the Netflix–Warner Bros merger, Mark Pilier's Iron Lung film, a swallowed Fabergé pendant, and the Excel World Championship before Kendelle walks through for a dinner debate. The second news block tackles John Cena's Oscars penis joke, birthright citizenship at the Supreme Court, gooning as a top googled trend, Halle Berry vs. Gavin Newsom, UK groin fungus, Musk foundation donations, and an AI teddy bear teaching kids arson. Trailer reactions reveal Pepito's secret 80s ninja-rabbit past. How To with Jeb delivers smooth jazz, posture drills, and Gun Mario's Pepsi float. The Jorker calls in monochrome-faced from a vat of old movies to evangelize lubrication-free gooning. The broadcast closes with DJ C4 and Lex Venom recording a hair-metal Christmas sequel about Elf-on-the-Shelf deep-throating and hellish Satanic festivities.",
+  "_meta": {
+    "vod_id": "yoNLHJo56bs",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 110363,
+    "approx_prompt_tokens": 27590,
+    "transcript_lines": 325
+  }
+}
