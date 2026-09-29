@@ -219,3 +219,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[01:38:48]** ([[episodes/2025-11-27|2025-11-27]]): Shaved beard by accident recently; beardless filter adds 'awful skin texture' and merges chin with neck.
 - **[]** ([[episodes/2025-12-04|2025-12-04]]): Case Blackwell missed several broadcast days due to illness, a rare absence. [08:45]
 - **[[1:12:55]]** ([[episodes/2025-12-06|2025-12-06]]): Acquired new black coat that he 'demanded' and feels 'fucking sexy' wearing.
+- **[30:35]** ([[episodes/2025-12-13|2025-12-13]]): [30:35] Kendelle asks when Case ends stream to play Dominion; Case says ~7 PM.

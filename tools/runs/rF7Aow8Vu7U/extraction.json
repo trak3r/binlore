@@ -1,0 +1,180 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "Hype Train",
+      "start": "00:01",
+      "end": "15:29",
+      "title": "Frane Day Hype Train Derailment",
+      "notes": "Pepito delivers cold open as 'Papita'; Hype Train declares 'Frane Day' (Friday + Train), freestyle raps over AI-generated beats, acknowledges subs and bits while spiraling into surreal culinary and bodily-fluid rhymes."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "15:29",
+      "end": "01:20:35",
+      "title": "Friday News Roundup: Epstein Photos, World Cup Tickets, Six-Armed Robot, World's Smallest Penis, Baron Trump & Tate, World ID, Disney–OpenAI",
+      "notes": "Case and Ed cover House Democrats releasing Epstein estate photos (Trump, Clinton, Prince Andrew); FIFA World Cup 2026 ticket pricing backlash; Midea Group's six-armed 'Miro Yu' humanoid robot; British man claiming world's smallest penis; Baron Trump receiving dating advice from Andrew Tate; Sam Altman's World eyeball-scanning super app; Disney investing $1B in OpenAI for Sora; Hollywood director Carl Rinsch convicted of defrauding Netflix of $11M (plus $44M earlier) and blowing funds on Rolls-Royces, $638K mattresses, luxury bedding."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "30:14",
+      "end": "41:00",
+      "title": "Kendelle Walk-Through with Family & Boy Throb Promotion",
+      "notes": "Kendelle enters to signature theme music with girlfriend, brother, and parents; promotes TikTok boy band Boy Throb (member Darshan stuck in India) and their push for Jimmy Kimmel appearance; Case shows AI-generated haircut images; Kendelle demands boba, Case leaves to order."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "start": "01:20:35",
+      "end": "01:31:04",
+      "title": "Juice Boxes vs. Juice Pouches",
+      "notes": "Munch argues for pouches (squeezability, portability, ancient hunter precedent); Crum defends boxes (rigid structure, masculine coding); debate devolves into rectal innuendo, 'rectangular butt' insults, and Crum's claim of winning via light-switch maneuver; Munch storms off citing 'runny tummy'."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "start": "01:31:04",
+      "end": "01:44:07",
+      "title": "How to Ejaculate for Prostate Health & How to Keep Your Face Looking Great",
+      "notes": "Jeb (as skeletal elf) presents urologist Dr. Rina Malik's research: 21+ ejaculations/month correlates with 22% lower prostate cancer risk; Spanish study shows zero-to-three times/month carries 271% higher risk. Jeb resists the workload. Second tutorial: 9-step daily face regimen (cleanser, toner, SPF moisturizer, antiseptic phone wipes, hydration, antioxidants, retinol night cream). Case signals segment may be saved for Monday."
+    },
+    {
+      "canonical_segment": "The Jo Rogen Experience",
+      "start": "01:44:07",
+      "end": "02:06:13",
+      "title": "Encircled: Santa's Anti-Elf Union Town Hall",
+      "notes": "Case hosts call-in segment (!c claims) as Santa Claus (anti-union, chain-gang elves, 647K elves killed) vs. cancer-stricken elf seeking time off, mole-faced 58K-year veteran elf, Cockney Elf pitching crypto universal investment fund for children (actually a scam). Santa reveals union was always controlled opposition; Cockney Elf dies rich; segment ends with timer glitches and Case raiding Dr. Diggity Dank."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored Friday Newsend; managed Hype Train derailment, news desk, Kendelle family visit, Munch & Crum debate, How To with Jeb, and Encircled town hall; ordered boba mid-stream; teased Grungemas 2025.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open as 'Papita the dog' and station sign-on countdown.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype correspondent",
+      "notes": "hype correspondent. Declared 'Frane Day,' freestyle rapped over AI beats, acknowledged subs/bits, spiraled into surreal bodily-fluid rhymes and 'Piss Fruit Ninja' references.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Ed",
+      "role": "news correspondent",
+      "notes": "news correspondent. Co-anchored news desk with Case; read Epstein, World Cup, robot, penis, Baron Trump, World ID, Disney–OpenAI, Rinsch/Netflix stories; bantered on bubble bath photo and AI logos.",
+      "canonical_name": "Ed",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through with girlfriend, brother, and parents to signature theme; promoted Boy Throb boy band and Darshan's visa push; demanded boba, prompting Case to leave stream briefly.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued for juice pouches over boxes; invoked hunter-gatherer pouch precedent; stormed off citing 'runny tummy' after Crum's light-switch power move.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defended juice boxes as rigid/masculine; claimed victory via mid-debate light-switch maneuver; mocked Munch's 'rectangular butt'; cut Munch's exit music early.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosted How To with Jeb as skeletal elf; presented prostate health ejaculation research and 9-step face care regimen; resisted ejaculation workload; noted segment may move to Monday.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[02:04:47] Case announces Grungemas 2025 planning and requests Discord mod create thread for naughty/nice list submissions; Beyblade Tournament remains pending.",
+      "timestamp": "02:04:47"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "[30:35] Kendelle asks when Case ends stream to play Dominion; Case says ~7 PM.",
+      "timestamp": "30:35",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "[30:58] Kendelle returned from Philadelphia; claims it wasn't that cold despite family disagreement.",
+      "timestamp": "30:58",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Boy Throb",
+      "fact": "[35:39] Boy Throb reached 1M TikTok followers; fourth member Darshan in India needs visa; campaign targeting Jimmy Kimmel appearance.",
+      "timestamp": "35:39",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "[01:22:01] Crum claims 305 debate points lead over Munch; asserts 'super strength in spits' and electric toothbrush crushing feat referenced.",
+      "timestamp": "01:22:01",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "[01:33:12] Jeb confirms he is dead ('you're dead and you're in the wood') and has been in good mood lately.",
+      "timestamp": "01:33:12",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Santa (Encircled)",
+      "fact": "[01:46:44] Santa runs chain-gang elf operation (38 per line, straw mattress shared); admits killing 647,000 elves; union is controlled opposition.",
+      "timestamp": "01:46:44",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Cockney Elf",
+      "fact": "[01:58:18] Pitches 'Cockney Elf Crypto' universal investment fund for children (actually a scam to keep funds); claims $6B crypto war chest and Red One script advisor role.",
+      "timestamp": "01:58:18",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News delivered a sprawling Friday Newsend: Hype Train inaugurated 'Frane Day' with AI-beat freestyles; the news desk covered Epstein photo drops, World Cup ticket gouging, a six-armed Chinese factory robot, a British man claiming the world's smallest penis, Baron Trump's Zoom session with Andrew Tate, Sam Altman's World ID eyeball-scanning app, Disney's $1B OpenAI deal, and Netflix fraudster Carl Rinsch's $1M mattress spree. Kendelle crashed the studio with full family to promote viral boy band Boy Throb. Munch and Crum debated juice containers until Crum flipped the studio lights. Jeb Nogget presented prostate-health ejaculation science and a nine-step face regimen. The broadcast closed with an Encircled town hall where Santa Claus ran an anti-union elf operation, a cancer-stricken elf was denied leave, and a Cockney Elf crypto scam was exposed before Case raided Dr. Diggity Dank.",
+  "_meta": {
+    "vod_id": "rF7Aow8Vu7U",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 109810,
+    "approx_prompt_tokens": 27452,
+    "transcript_lines": 269
+  }
+}
