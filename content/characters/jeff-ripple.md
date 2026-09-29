@@ -100,3 +100,5 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 - **[45:19]** ([[episodes/2025-06-09|2025-06-09]]): Jeff Ripple fills in for missing Jeb on How To with Jeb.
 - **[]** ([[episodes/2025-10-31|2025-10-31]]): [36:44] Chat poll settled Jeff Ripple's last name as 'Wet Mitchell' after HR toilet bit.
 - **[]** ([[episodes/2026-01-21|2026-01-21]]): Performed a 'Chet Guy the Science Eyes' bit claiming a 100% protein plus lawn grass diet makes his farts 'clinical grade chemical weapons' that boost brain function [1:10:06].
+- **[1:24:22]** ([[episodes/2026-02-04|2026-02-04]]): [1:24:22] Jeff Ripple's middle name is 'Retain' (anglicized at Ellis Island from historic 'Return').
+- **[1:25:19]** ([[episodes/2026-02-04|2026-02-04]]): [1:25:19] Jeff Ripple has a Filipino son whom he refers to as 'my beautiful Filipino boy.'

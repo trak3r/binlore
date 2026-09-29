@@ -137,6 +137,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2026-01-06|2026-01-06]] [01:11:28] | [01:11:28] Crum references the gorilla dick punch: 'we tried to do it with the gorilla and it worked but it just didn't stick because you okay, whatever' — confirming the 2026 pneumatic groin strike occurred but failed to resolve the debt. |
 | [[../episodes/2026-01-22|2026-01-22]] [50:38] | Case references Munch and Crum's rivalry at [50:38]: 'Haven't seen Krum through a debate this hard... What are Munch and Crom going to recreate heated rivalry.' |
 | [[../episodes/2026-01-27|2026-01-27]] [57:25] | Chat references the Hellcrumb poster and asks if Crum will be killed again to release it [57:25], indicating the resolved storyline remains a community touchstone. |
+| [[../episodes/2026-02-04|2026-02-04]] [1:07:57] | [1:07:57] Crum claims 1600-year immortality and references past sins during forgiveness debate, reinforcing his mythic durability ahead of the unresolved mechanical gorilla wager. |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |

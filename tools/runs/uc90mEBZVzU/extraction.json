@@ -1,0 +1,218 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "Hype Train",
+      "start": "00:06",
+      "end": "24:51",
+      "title": "Hype Train Cold Open: Sick Return & Groundhog Day",
+      "notes": "Hype Train opens the broadcast solo while Case recovers from illness; riffs on Groundhog Day, Epstein files, and double-fisting spirituality before Case joins."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "24:51",
+      "end": "52:26",
+      "title": "News Desk: Epstein Files, Trump Shart, & Systemic Rot",
+      "notes": "Case and Rick dissect the latest Epstein document dump, debate redaction failures, and analyze a viral clip of Trump apparently soiling himself during a press event."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "start": "52:26",
+      "end": "79:18",
+      "title": "Munch & Crum: Forgiveness, Demons & Puffy Bear",
+      "notes": "Munch and Crum clash over cosmic forgiveness for Epstein, the demonic nature of Puffy Bear, and Crum's claim of 1600-year immortality; Crum ejects himself mid-debate."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "79:18",
+      "end": "83:17",
+      "title": "Kendelle Walk-Through: Post-Shower Appearance",
+      "notes": "Kendelle crosses the frame post-shower with signature theme music; brief domestic check-in before exiting."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "start": "83:17",
+      "end": "121:39",
+      "title": "Chat News: Ben Hooper, Poop Pills, Mountain Lion & Cougar Trends",
+      "notes": "Case and Jeff Ripple review viewer-submitted stories: Ben Hooper's UPI minute, fecal microbiota cancer trials, SF mountain lion, crypto bros nauseated by Epstein ties, Reddit mod deletes astronaut photo, Dos Equis ad, cougar dating trend, Elmo hack, Gen Z sexting stats, Jesse Ventura secession float, Jill Biden ex-husband murder charge, Bryan Johnson Epstein emails."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "121:39",
+      "end": "122:10",
+      "title": "Transition to Peak Gameplay",
+      "notes": "Case scrambles to find an 'outdoorsman' character for Peak; settles on Pepito as a rugged mountain chihuahua."
+    },
+    {
+      "canonical_segment": "CryptoZeu$",
+      "start": "122:10",
+      "end": "241:17",
+      "title": "Peak Gameplay: Papito Leads the Expedition",
+      "notes": "Case, Kendelle, Christine, and Pepito (as Papito) attempt the hardest difficulty of Peak; chaotic co-op climbing with hunger mechanics, poison, bees, deaths, and a ritual involving motor-boating a statue's hands."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors the broadcast while recovering from a week-long sinus infection; oversees news, debate, and a four-hour Peak gameplay session.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open as 'Pepita the dog'; later joins Peak gameplay as 'Papito,' a self-proclaimed mountain-expert chihuahua who leads the party through ritualistic sacrifice.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Opens the show solo with freestyle riffs on Groundhog Day, Epstein, and double-fisting spirituality before yielding to Case.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "recurring",
+      "notes": "recurring. Co-hosts the News desk, dissecting Epstein files and the Trump shart clip while trading barbs with Case.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates Munch on cosmic forgiveness for Epstein, claims 1600-year immortality and past friendship with Brian Singer, then ejects himself from the desk.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Counters Crum's forgiveness rhetoric with demonic realism regarding Puffy Bear; argues demons only understand pain, not mercy.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Brief post-shower walk-through; later joins Peak co-op as a climber who dies repeatedly and curses bridges with her anger.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosts Chat News segment; reveals middle name 'Retain' (Ellis Island anglicization of 'Return') and references his Filipino son.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Christine",
+      "role": "call-in guest",
+      "notes": "call-in guest. Kendelle's sister; co-streams Peak gameplay, dies repeatedly, and eventually leaves mid-session.",
+      "canonical_name": "Christine",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[20:37] Case acknowledges the outstanding community pledge: 'we still owe you guys a Beyblade tournament Between Munch and Crum and I guess others.'",
+      "timestamp": "20:37"
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[1:07:57] Crum claims 1600-year immortality and references past sins during forgiveness debate, reinforcing his mythic durability ahead of the unresolved mechanical gorilla wager.",
+      "timestamp": "1:07:57"
+    },
+    {
+      "storyline": "Puffy Bear",
+      "beat": "[20:37] Case mentions needing to retrieve Puffy Bear; [22:43] admits the bear feels like 'a corpse watching you' and that a month of cohabitation confirmed the unsettling presence.",
+      "timestamp": "20:37"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "[10:37] Case was sick for a week with a probable sinus infection; notes he now stays sick for a month at a time due to age.",
+      "timestamp": "10:37",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "[21:39] Case has lost approximately 35 pounds since originally planning the workout stream.",
+      "timestamp": "21:39",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Puffy Bear",
+      "fact": "[22:43] Case confirms Puffy Bear's unsettling presence is real: 'everything that I was joking about was real, it turns out.'",
+      "timestamp": "22:43",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "[1:07:57] Crum claims to be 1600 years old and immortal, stating 'some of the stuff being described was just a friday fair in Rome.'",
+      "timestamp": "1:07:57",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "[1:10:01] Crum admits to vacationing with Brian Singer and calls him 'a good friend of mine.'",
+      "timestamp": "1:10:01",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeff Ripple",
+      "fact": "[1:24:22] Jeff Ripple's middle name is 'Retain' (anglicized at Ellis Island from historic 'Return').",
+      "timestamp": "1:24:22",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeff Ripple",
+      "fact": "[1:25:19] Jeff Ripple has a Filipino son whom he refers to as 'my beautiful Filipino boy.'",
+      "timestamp": "1:25:19",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "[2:17:39] Pepito identifies as a chihuahua during Peak gameplay: 'You're a chihuahua. Yes a rugged mountain chihuahua.'",
+      "timestamp": "2:17:39",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "[2:27:58] Pepito asserts dogs cannot lie: 'dogs are honest and... we don't know how to lie.'",
+      "timestamp": "2:27:58",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns from a week-long illness to anchor a marathon broadcast covering the latest Epstein document dump, a viral Trump shart clip, and a chaotic Munch & Crum debate on cosmic forgiveness that ends with Crum ejecting himself. The second half pivots to a four-hour Peak co-op session where Pepito, roleplaying as a mountain-expert chihuahua named Papito, leads Case, Kendelle, and Christine through a ritualistic, death-heavy ascent involving hunger mechanics, poison, bees, and a statue motor-boating resurrection ritual.",
+  "_meta": {
+    "vod_id": "uc90mEBZVzU",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 181409,
+    "approx_prompt_tokens": 45352,
+    "transcript_lines": 506
+  }
+}

@@ -223,3 +223,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[05:55]** ([[episodes/2025-12-16|2025-12-16]]): Case Blackwell and Kendelle cohabitate in the same residence.
 - **[[09:30]]** ([[episodes/2025-12-18|2025-12-18]]): Hair described as 'in a special state' and progressively crazier throughout stream.
 - **[[02:05:38]]** ([[episodes/2026-01-24|2026-01-24]]): Case and Crum describe their dynamic as 'hate to love type deal'; Crum and Belulia back to sleeping in same bed.
+- **[10:37]** ([[episodes/2026-02-04|2026-02-04]]): [10:37] Case was sick for a week with a probable sinus infection; notes he now stays sick for a month at a time due to age.
+- **[21:39]** ([[episodes/2026-02-04|2026-02-04]]): [21:39] Case has lost approximately 35 pounds since originally planning the workout stream.
