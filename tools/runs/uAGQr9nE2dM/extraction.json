@@ -1,0 +1,184 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "00:06",
+      "end": "01:03:20",
+      "title": "Pre-Thanksgiving Chat News Desk",
+      "notes": "Case and Pepito open with chat-submitted stories: FBI Director Cash Patel gifting inoperable 3D-printed Nerf-style revolvers to NZ officials; political consultant defying court order over Biden AI robocalls; Craft's 65-inch mac-and-cheese box; Cutie Cinderella on Streamer Awards blacklisting; spectrophiles; Kate Beckinsale's daughter's boyfriend laying eggs; Namibia's Adolf Hitler Uunona re-election; schoolchildren launching teddy bear to stratosphere; MrBeast wanting YouTube more like Twitch; otter yoga."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "start": "01:03:20",
+      "end": "01:23:53",
+      "title": "Victorian Couple, AI Hologram Prank, Sister Mary Blaze, 1950s Lifestyle",
+      "notes": "Case and Pepito watch viewer-submitted videos: Victorian-era reenactors Sarah and Gabriel Christman; AI hologram prank on 'bro'; Sister Mary Blaze's satirical nun TikToks; Lacy Fey living as 1958 housewife. Kendall walks through during Victorian segment."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "start": "01:23:53",
+      "end": "01:38:17",
+      "title": "Pop-Tart Temperature Debate & Zootopia Sexual Tension",
+      "notes": "Crum debates Case (Munch absent): Crum advocates frozen Pop-Tarts ('Frozone' method), Case defends toasted. Crum argues Frozone/Mr. Incredible subtext is ethical non-monogamy; Zootopia universe enforces medieval Christian chastity. Crum reveals pustulant boils on back that burn when praising God."
+    },
+    {
+      "canonical_segment": "AI Rooney",
+      "start": "01:38:17",
+      "end": "01:49:03",
+      "title": "Piss-Saturated Grievance Processor",
+      "notes": "AI Rooney processes eight viewer complaints via !rr command; every generated rant devolves into 'three gallons of golden piss' refrain regardless of topic (Pop-Tarts, sheets, blonde Case, Thanksgiving, condoms, ML, ice cream, TV dinners, human flesh). Rooney's GPUs overload; Case reconstructs him post-segment."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "01:49:03",
+      "end": "01:56:31",
+      "title": "Intern Sign-Off & Raid to Dr. Diggity Dank",
+      "notes": "Unnamed intern attempts The Jo Rogen Experience but assets broken; Case ends stream early, raids Dr. Diggity Dank for Thanksgiving trivia game. Pepito claims he broke equipment with piss."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored pre-Thanksgiving chat news desk, hosted Amongst the Web, debated Crum on Pop-Tarts and Zootopia, managed AI Rooney meltdown.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Produced cold open, queued chat news stories and Amongst the Web videos, claimed to have installed new buttons, ended stream citing broken assets from piss damage.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through studio during Victorian couple video, discussed Zootopia 2 sexual tension and beardless Case filter with Case.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Case on frozen vs toasted Pop-Tarts, advanced Frozone/Mr. Incredible ethical non-monogamy theory and Zootopia chastity lore, revealed pustulant back boils.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype announcer",
+      "notes": "hype announcer. Brief translucent appearance during chat news, delivered freestyle rap over subs/bits, demanded tempo shifts.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "AI Rooney",
+      "role": "grievance commentator",
+      "notes": "grievance commentator. Processed eight !rr complaints; every output collapsed into 'three gallons of piss' motif, overloaded GPUs, required reconstruction.",
+      "canonical_name": "AI Rooney",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Referenced multiple times re: wall/hell pathway and Crum poster retrieval; did not appear on camera.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Intern",
+      "role": "production intern",
+      "notes": "production intern. Attempted to run The Jo Rogen Experience at close but assets failed; threatened to quit if not run Friday.",
+      "canonical_name": "Intern",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:12:39] Case and Pepito reference pathway to hell through office wall and Crum poster retrieval, callbacks to Join the Wall/Crum Dick Punch saga.",
+      "timestamp": "01:12:39"
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "[01:12:02] Peter Gibbon urges Case to send another group into the wall; Case refuses, citing esotericism for newer viewers.",
+      "timestamp": "01:12:02"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum",
+      "fact": "Has pustulant boils on back that burn when he praises God.",
+      "timestamp": "01:30:34",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "Advocates eating frozen Pop-Tarts ('Frozone' method) claiming cold enhances flavor because 'atoms move faster.'",
+      "timestamp": "01:26:14",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "Argues Frozone/Mr. Incredible subtext represents ethical non-monogamy; Zootopia universe enforces medieval Christian chastity.",
+      "timestamp": "01:26:14",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Appeared translucent during hype train segment.",
+      "timestamp": "01:16:58",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Owns Thor sticker on mug from friend Jaiman (jaimonstickers.com).",
+      "timestamp": "01:36:57",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Shaved beard by accident recently; beardless filter adds 'awful skin texture' and merges chin with neck.",
+      "timestamp": "01:38:48",
+      "confidence": 0.7
+    },
+    {
+      "entity": "AI Rooney",
+      "fact": "GPU overloads when processing complaints; every grievance transforms into 'three gallons of golden piss' refrain regardless of input.",
+      "timestamp": "01:41:00",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Claims to have broken studio equipment with piss at stream end.",
+      "timestamp": "01:56:00",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News aired a pre-Thanksgiving broadcast heavy on chat-sourced oddities — Cash Patel's Nerf-gun revolvers, Namibia's Adolf Hitler, a stratospheric teddy bear — before pivoting to Amongst the Web lifestyle videos. Crum returned for a solo debate defending frozen Pop-Tarts and a elaborate Zootopia chastity theory while revealing divine-burning back boils. AI Rooney's grievance processor suffered total piss-contamination across eight complaints, forcing a rebuild. The stream closed with a failed intern segment and a raid to Dr. Diggity Dank.",
+  "_meta": {
+    "vod_id": "uAGQr9nE2dM",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 96171,
+    "approx_prompt_tokens": 24042,
+    "transcript_lines": 241
+  }
+}

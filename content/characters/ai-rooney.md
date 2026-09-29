@@ -42,6 +42,7 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 | [[episodes/2026-06-05|2026-06-05]] | Cyborg commentator hosting the AI Rooney grievance machine segment, known for escalating rants and audience-focused criticism. |
 | [[episodes/2026-06-03|2026-06-03]] | Proprietary cyborg commentator (Andy Rooney homage). Delivers viewer complaints via !rr. Suffers repeated 'brain empty' failures, violates age guardrails (references 19-year-old), produces incoherent sexualized rants. Case orders full rebuild. |
 | [[episodes/2026-05-29|2026-05-29]] | Retired cyborg commentator delivering grievance rants. |
+| [[episodes/2025-11-27|2025-11-27]] | grievance commentator. |
 | [[episodes/2025-10-02|2025-10-02]] | cyborg commentator. |
 | [[episodes/2025-05-05|2025-05-05]] | cyborg commentator. |
 | [[episodes/2025-04-18|2025-04-18]] | Rebooted with exposed internal core to deliver Andy Rooney-style grievances on hard soup, airline food, and pizza crust semantics. |
@@ -73,3 +74,4 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 - **[2:46:24]** ([[episodes/2024-08-22|2024-08-22]]): AI Rooney complains of a 'hulking ape' in the garage (Rock-afire gorilla reference).
 - **[2:49:12]** ([[episodes/2024-08-22|2024-08-22]]): AI Rooney's eyes not red; Case speculates AI becoming JD Vance.
 - **[]** ([[episodes/2025-10-02|2025-10-02]]): Upgraded server allows 15 synthesized complaints before system gases out; new 'grievance.inless.rooney' pipeline. [00:49:48]
+- **[01:41:00]** ([[episodes/2025-11-27|2025-11-27]]): GPU overloads when processing complaints; every grievance transforms into 'three gallons of golden piss' refrain regardless of input.

@@ -215,3 +215,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[1:11:08]** ([[episodes/2025-11-15|2025-11-15]]): Case Blackwell maintains a personal Rolodex of compromising material on public figures to summon them instantly.
 - **[]** ([[episodes/2025-11-25|2025-11-25]]): [25:33] Case now has a router enabling 4K streaming; other correspondents remain at 1080p.
 - **[]** ([[episodes/2025-11-25|2025-11-25]]): [01:48:15] Making steaks for Thanksgiving per 'cashmg' (Kendelle) Patreon mention.
+- **[01:36:57]** ([[episodes/2025-11-27|2025-11-27]]): Owns Thor sticker on mug from friend Jaiman (jaimonstickers.com).
+- **[01:38:48]** ([[episodes/2025-11-27|2025-11-27]]): Shaved beard by accident recently; beardless filter adds 'awful skin texture' and merges chin with neck.

@@ -131,6 +131,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2025-11-03|2025-11-03]] | Munch references Crum's wife leaving him for Jizbo after Crum died and went to hell; Crum denies both events. |
 | [[../episodes/2025-11-18|2025-11-18]] [1:30:13] | [1:30:13] Munch threatens to contact gorilla over Crum's unresolved gambling debt during moisturizer debate. |
 | [[../episodes/2025-11-25|2025-11-25]] [02:12:15] | [02:12:15] Crum references gorilla execution: 'I will try to get the gorilla back. Be in the gorilla or chill now. There's no way that's possible. He wants to murder you.' |
+| [[../episodes/2025-11-27|2025-11-27]] [01:12:39] | [01:12:39] Case and Pepito reference pathway to hell through office wall and Crum poster retrieval, callbacks to Join the Wall/Crum Dick Punch saga. |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |

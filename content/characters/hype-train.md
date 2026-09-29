@@ -56,7 +56,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-06-22|2026-06-22]] | High-velocity musical correspondent who confesses to cheating on his Panther girlfriend, discusses beats, and provides cultural commentary throughout the pre-show. |
 
 <details>
-<summary>Earlier appearances (86)</summary>
+<summary>Earlier appearances (87)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -66,6 +66,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-06-03|2026-06-03]] | High-velocity musical/cultural correspondent. Triggered by hype train surge. Raps about eating 'human dog shit', thanks subscribers, claims second job as bassoonist. |
 | [[episodes/2026-05-29|2026-05-29]] | Musical correspondent delivering an extended rap about body parts and time travel. |
 | [[episodes/2026-03-07|2026-03-07]] | Commandeers the courtroom for an extended freestyle rap session; acknowledges 1,000-bit donation; references Obama holiday parties. |
+| [[episodes/2025-11-27|2025-11-27]] | hype announcer. |
 | [[episodes/2025-11-13|2025-11-13]] | hype announcer. |
 | [[episodes/2025-11-03|2025-11-03]] | hype announcer. |
 | [[episodes/2025-10-31|2025-10-31]] | musical/cultural correspondent. |
@@ -220,3 +221,4 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[12:09]** ([[episodes/2025-06-26|2025-06-26]]): Hell has new middle management making conditions 'extra shitty'; escape requires passing through permeable membrane described as 'Hell's Hymen' that has regrown stronger.
 - **[[15:51]]** ([[episodes/2025-09-05|2025-09-05]]): Expands personal mythology: identifies as a 'sea train' living under the ocean, drinking train piss which becomes ocean piss.
 - **[[11:46]]** ([[episodes/2025-09-26|2025-09-26]]): Explicitly denies having sex, stating 'I'm a train'; describes hell as eternal constipation where 'you're just a running faucet' of waste.
+- **[01:16:58]** ([[episodes/2025-11-27|2025-11-27]]): Appeared translucent during hype train segment.

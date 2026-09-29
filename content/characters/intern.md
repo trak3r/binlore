@@ -22,7 +22,8 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 ## Appearances
 
 | Episode | Notes |
-|---------|-------|
+|---|---|
+| [[episodes/2025-11-27|2025-11-27]] | production intern. |
 | [[episodes/2025-07-24|2025-07-24]] | Auto-created minor character after appearing in 3 extracted episodes (threshold 3). |
 
 ## Notable moments
