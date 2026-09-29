@@ -1,0 +1,214 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "00:08",
+      "end": "20:33",
+      "title": "Cold Open & Technical Housekeeping",
+      "notes": "Pepito delivers sign-on; Case explains OBS resolution change from 4K to 1080p and asset format migration to reduce memory usage; Crum interrupts early."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "20:33",
+      "end": "49:26",
+      "title": "UN Security Council Adopts U.S. Gaza Resolution",
+      "notes": "Case covers Reuters report: UNSC adopts U.S. resolution endorsing Trump's 20-point Gaza plan and international stabilization force; Russia and China abstain; Hamas rejects; Netanyahu opposes Palestinian state."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "49:26",
+      "end": "52:02",
+      "title": "Debate Request & Transition",
+      "notes": "Chat requests debate on 'worst email that might appear in news'; Case pivots to town hall segment."
+    },
+    {
+      "canonical_segment": "The Jo Rogen Experience",
+      "start": "52:02",
+      "end": "1:15:27",
+      "title": "Town Hall: Gianna Wechmichel & Jevrything",
+      "notes": "Community Q&A with Gianna (hostile) and Jevrything (post-surgery, promoting music under 'Jeznery' and 'Laud'); questions cover Thanksgiving parade, watch streaks, bone excision, name changes, Capri Sun metallurgy, Christmas timing."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "start": "1:15:27",
+      "end": "1:34:04",
+      "title": "Debate: Worst Email / Crum Moisturizer Scandal",
+      "notes": "Munch and Crum debate Crum's alleged dove moisturizer water-supply bribery (1998, 2006, 2010); Crum refuses to legally deny; Munch threatens gorilla involvement; Crum claims cash-poor from property ties and gambling."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "start": "1:34:42",
+      "end": "2:00:17",
+      "title": "Rick's Chat-Curated News Roundup",
+      "notes": "Rick covers Jake Paul vs Anthony Joshua, GameStop 'trade anything' day (taxidermy), jelking trend, Newsmax airing AI video, Epstein egg-shaped penis deposition, Golden State Killer micro-penis, sex drought study, Rubin Observatory stellar stream."
+    },
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "start": "2:00:17",
+      "end": "2:13:15",
+      "title": "Galaxy Tail Discovery & Jelking Fact-Check",
+      "notes": "Chet and ChetAI (agreeable mode) discuss Rubin Observatory's 160k-light-year stellar stream from dwarf galaxy disrupted by M61; watch Dr. Clarissa video debunking jelking efficacy and safety."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "2:13:15",
+      "end": "2:18:41",
+      "title": "Stream Wrap & Raid",
+      "notes": "Crum calls AI 'Miles' to adjudicate moisturizer scandal; Miles hangs up; Case ends stream for raid."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open, claims responsibility for 'fire room' that singed Crum's eyebrows.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates moisturizer scandal, claims manapuberty, cash-poor from properties/gambling, calls AI to vindicate him.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Prosecutes Crum on moisturizer emails, threatens gorilla escalation, wins debate on points.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Briefly appears, complains about lack of points, reads chat, exits before town hall.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Gianna Wechmichel",
+      "role": "town hall guest",
+      "notes": "town hall guest. Hostile community Q&A participant, insults callers and staff.",
+      "canonical_name": "Gianna Wechmichel",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jevrything",
+      "role": "town hall guest",
+      "notes": "town hall guest. Post-surgery (bone excision), promotes spoken-word albums on Jeznery/Laud, engages banter.",
+      "canonical_name": "Jevrything",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "correspondent",
+      "notes": "correspondent. Hosts Amongst the Web, reads chat-submitted news, debates Case on Jake Paul and goon economy.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Triggers on 'science', presents Rubin Observatory stellar stream discovery with ChetAI.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "AI co-host",
+      "notes": "AI co-host. Set to agreeable mode, assists with galaxy tail explanation and jelking fact-check.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[1:30:13] Munch threatens to contact gorilla over Crum's unresolved gambling debt during moisturizer debate.",
+      "timestamp": "1:30:13"
+    },
+    {
+      "storyline": "Crum Face Punch",
+      "beat": "[1:28:54] Munch references Crum's $300k debt to mechanical gorilla and Crum's death/hell stint.",
+      "timestamp": "1:28:54"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "[21:59] Eyebrows temporarily singed off by Pepito's 'fire room'; regrow by debate segment.",
+      "timestamp": "21:59",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "[25:29] Claims 'manapuberty' — a third puberty causing physical changes.",
+      "timestamp": "25:29",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "[1:19:48] Moisturizer scandal: three email leaks (1998, 2006, 2010) alleging dove moisturizer pumped into Krempton/Rennerton/Drempton water supplies to addict youth; Crum refuses legal denial.",
+      "timestamp": "1:19:48",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "[1:28:32] Claims cash-poor despite property portfolio; gambling addiction drains liquidity.",
+      "timestamp": "1:28:32",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jevrything",
+      "fact": "[55:36] Underwent 'bone excision' surgery to thin bones for lustrous skin; wears protective hat to keep head in.",
+      "timestamp": "55:36",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jevrything",
+      "fact": "[59:24] Releasing music under alias 'Jeznery' (Google Gemini prompts) and 'Laud' (not Claude).",
+      "timestamp": "59:24",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Rubin Observatory",
+      "fact": "[1:59:10] First images reveal 160,000-light-year stellar stream from dwarf galaxy torn apart by M61, triggering starburst 10M years ago.",
+      "timestamp": "1:59:10",
+      "confidence": 0.7
+    },
+    {
+      "entity": "ChetAI",
+      "fact": "[2:01:11] Set to 'agreeable mode' by Case; validates Chet's jelking advocacy.",
+      "timestamp": "2:01:11",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell opens with technical housekeeping before covering the UN Security Council's adoption of a U.S.-backed Gaza resolution. A chaotic town hall with Gianna Wechmichel and post-op Jevrything fields community questions. Munch and Crum debate Crum's decades-old moisturizer-water-supply scandal, escalating to gorilla threats. Rick hosts a chat-curated news block spanning Jake Paul, GameStop pawn-pivot, jelking, Newsmax AI fakery, and Epstein lore. Chet and ChetAI close with a Rubin Observatory stellar-stream discovery and a medical debunking of jelking. Crum's final AI call backfires; Case raids out.",
+  "_meta": {
+    "vod_id": "yEhvqQ3qSe0",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 120640,
+    "approx_prompt_tokens": 30160,
+    "transcript_lines": 313
+  }
+}

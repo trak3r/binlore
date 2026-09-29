@@ -50,6 +50,7 @@ On [[../episodes/2025-06-17|Quick News and Crum Punch]], the network executes "G
 | [[../episodes/2025-06-13|2025-06-13]] | Match point: needs consecutive debate wins to clear the gorilla debt at $15k/win; one loss triggers the pneumatic strike; chat voting puts him on the brink. [01:05:31] |
 | [[../episodes/2025-06-17|2025-06-17]] | **Climax:** Mechanical gorilla executes Crum on live broadcast; his head explodes. Munch freezes in post-purpose catatonia; network processes the aftermath. |
 | [[../episodes/2025-06-19|2025-06-19]] | Post-Crumsplosion: Crum returns as a ghost/headless entity; Munch claims victory and declares the gorilla "in jail"; points counter broken; mandated poop debate proceeds regardless. |
+| [[../episodes/2025-11-18|2025-11-18]] [1:28:54] | [1:28:54] Munch references Crum's $300k debt to mechanical gorilla and Crum's death/hell stint. |
 
 ## Related Pages
 
