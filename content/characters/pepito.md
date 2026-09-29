@@ -61,12 +61,13 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (100)</summary>
+<summary>Earlier appearances (101)</summary>
 
 | Episode | Notes |
 |---|---|
 | [[episodes/2026-06-03|2026-06-03]] | Executive Producer. Canine broadcast executive appearing via Producer Cam. Opens show, manages sub goals, discusses Bart Simpson tattoo logistics. |
 | [[episodes/2026-05-29|2026-05-29]] | Executive producer opening the show with his signature intro. |
+| [[episodes/2026-02-12|2026-02-12]] | executive producer. |
 | [[episodes/2026-02-04|2026-02-04]] | executive producer. |
 | [[episodes/2025-12-24|2025-12-24]] | executive producer. |
 | [[episodes/2025-12-06|2025-12-06]] | executive producer. |
@@ -285,3 +286,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[[1:16:32]]** ([[episodes/2025-12-06|2025-12-06]]): Claims to have appeared as a character in 'Super Turbo Atomic Ninja Rabbit' (1980s short/proof of concept).
 - **[2:17:39]** ([[episodes/2026-02-04|2026-02-04]]): [2:17:39] Pepito identifies as a chihuahua during Peak gameplay: 'You're a chihuahua. Yes a rugged mountain chihuahua.'
 - **[2:27:58]** ([[episodes/2026-02-04|2026-02-04]]): [2:27:58] Pepito asserts dogs cannot lie: 'dogs are honest and... we don't know how to lie.'
+- **[12:19]** ([[episodes/2026-02-12|2026-02-12]]): Developed proprietary donation bar where 300 bits equals one sub equivalent; plans independent donation button to bypass Twitch/Amazon.

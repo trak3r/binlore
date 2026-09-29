@@ -1,0 +1,167 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "00:00",
+      "end": "35:57",
+      "title": "Cuba Talks, Pam Bondi, and Crum's Legal Woes",
+      "notes": "Case Blackwell anchors coverage of Marco Rubio blocking Trump-Cuba negotiations, Pam Bondi's Epstein hearing testimony, and Crum's emerging legal trouble with urine-stock app Pino Y."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "start": "35:57",
+      "end": "49:47",
+      "title": "Rave Dancing, Cookie Dough, and Jaw-Based Self-Defense",
+      "notes": "Jeb Nogget teaches rave dance moves (stomp, block the apple, milk kiss), bakes a tub of cookie dough, and demonstrates self-defense using only his jaw and 'steam roller' technique."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "start": "49:47",
+      "end": "1:22:16",
+      "title": "AI Video, Bad Bunny, and Kendall's Ballet Sneakers",
+      "notes": "Rick hosts viral video review covering Sea Dance 2.0 AI clips, Bad Bunny Super Bowl translation, and a surprise visit from Kendall and her brother Jiggy showing off Taekwondo shoes."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "start": "1:22:16",
+      "end": "2:07:24",
+      "title": "Mustache Rides, Atari Age Terrorism, and Wolf Romance",
+      "notes": "Trip Bradstein interviews park visitors including a mustache-ride enthusiast, a gack-waterboarded Atari Age infiltrator, a three-mouthed hair-cutting entity, and a lovestruck wolf named Jack Turtle."
+    },
+    {
+      "canonical_segment": "CryptoZeu$",
+      "start": "2:07:24",
+      "end": "2:53:19",
+      "title": "Burncycle Speedrun Interrupted by Mom and Brick Lizard",
+      "notes": "Brandon struggles through the spy game Burncycle while his mother harasses him about sandwiches, KY jelly, and Pastor Joe, and Brick Lizard loops 'Snake Eater' lyrics over the gameplay."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored main news desk covering Cuba/Rubio, Pam Bondi/Epstein, and chat news; hosted Amongst the Web with Rick.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open station sign-on as 'Papita the dog'; managed proprietary donation bar logic (300 bits = 1 sub).",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Briefly appeared seeking crowdfunding for legal defense against Pino Y urine-stock app, claiming 'penis in his eye' trouble.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Derailed bits acknowledgment into Sibian rap freestyle about 'pussy getting wet' and brown shaking.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Taught rave dancing, baked cookie dough, and demonstrated jaw-based gun disarms with deceased father's board heckling.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Appeared during Amongst the Web with brother Jiggy to model Taekwondo 'ballet sneakers' and defend them against chat.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted park interviews including mustache-ride proposal, Atari Age terrorist, hair-cutting entity, and wolf romance.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Played Burncycle while mother interrupted with sandwich demands, KY jokes, and Pastor Joe references; Brick Lizard haunted audio.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum references new legal trouble with Pino Y app ('penis in his eye') and solicits Crum Legal Defense Fund, distinct from resolved gorilla wager.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Entangled in legal trouble with Pino Y, a urine-color stock advice app; claims 'penis in his eye' / 'P-N-U-I' incident; soliciting Crum Legal Defense Fund via bits/subs.",
+      "timestamp": "10:00",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Developed proprietary donation bar where 300 bits equals one sub equivalent; plans independent donation button to bypass Twitch/Amazon.",
+      "timestamp": "12:19",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "Father's spirit remains trapped in wooden board; Jeb demonstrates self-defense using only jaw strength and 'steam roller' move.",
+      "timestamp": "47:30",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Visited studio with brother Jiggy (Justin) to model Adidas Taekwondo shoes ('ballet sneakers'); threatened chat over criticism.",
+      "timestamp": "1:28:38",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "Has not used bathroom in six days; maintains Wednesday 8pm-4am 'bathroom block' strapped into corner box; mother calls him 'Bran Bran'.",
+      "timestamp": "2:50:10",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "References stalker 'Goose' (male) and former mod 'X Crane' locked up for years over sponsorship deal; Pastor Joe brings Happy Meals.",
+      "timestamp": "2:36:31",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell opened with Cuba diplomacy chaos and Pam Bondi's combative Epstein hearing, while Crum diverted the Crum Legal Defense Fund toward a urine-stock app lawsuit. Jeb Nogget taught rave stomps and jaw-based gun disarms, Rick and Case reviewed AI video breakthroughs and Bad Bunny lyrics alongside Kendall's Taekwondo shoe debut, Trip Bradstein collected park opinions from a mustache-ride enthusiast and a gack-waterboarded Atari Age terrorist, and Brandon nearly broke mentally grinding Burncycle under maternal siege and Brick Lizard's Snake Eater loop.",
+  "_meta": {
+    "vod_id": "OqJdz29iD1E",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 128336,
+    "approx_prompt_tokens": 32084,
+    "transcript_lines": 417
+  }
+}

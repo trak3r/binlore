@@ -56,15 +56,16 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-06-08|2026-06-08]] | Resident gaming correspondent. Remote from bedroom; battles N64 emulation, mother's screaming, and Glover's inverted controls. |
 | [[episodes/2026-06-05|2026-06-05]] | Gaming and digital culture correspondent broadcasting remotely from his bedroom studio. |
 | [[episodes/2026-05-29|2026-05-29]] | Gaming correspondent playing Boogerman with mother interruptions. |
+| [[episodes/2026-02-12|2026-02-12]] | gaming correspondent. |
 | [[episodes/2026-02-10|2026-02-10]] | off-screen antagonist. |
 | [[episodes/2026-02-06|2026-02-06]] | off-screen interference. |
-| [[episodes/2026-01-27|2026-01-27]] | recurring door intervention. |
 
 <details>
-<summary>Earlier appearances (1)</summary>
+<summary>Earlier appearances (2)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-01-27|2026-01-27]] | recurring door intervention. |
 | [[episodes/2026-01-24|2026-01-24]] | gaming correspondent. |
 
 </details>
@@ -108,3 +109,5 @@ See also: [[../segments/cryptozeus|CryptoZeu$ (Segment)]], [[characters/brandons
 - **[02:32:46]** ([[episodes/2026-01-27|2026-01-27]]): Reads from an 'erotic bible' during prayer sessions and aspires to join the New York Knicks men's team despite knee issues [02:32:46].
 - **[1:33:04]** ([[episodes/2026-02-10|2026-02-10]]): Brandon references prior Kid Rock 'Rock Ice' sponsorship (over 30% water, sold at Kroger).
 - **[1:54:04]** ([[episodes/2026-02-10|2026-02-10]]): Brandon's mother references Pastor Joe, confirming recurring 'muffled door intervention' dynamic.
+- **[2:50:10]** ([[episodes/2026-02-12|2026-02-12]]): Has not used bathroom in six days; maintains Wednesday 8pm-4am 'bathroom block' strapped into corner box; mother calls him 'Bran Bran'.
+- **[2:36:31]** ([[episodes/2026-02-12|2026-02-12]]): References stalker 'Goose' (male) and former mod 'X Crane' locked up for years over sponsorship deal; Pastor Joe brings Happy Meals.

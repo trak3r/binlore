@@ -51,17 +51,18 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity and Dick Punch wager. |
 | [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (hollow-eyed, bald). Argues for political decorum, reveals Dubai 'classified' social life, honey-bag therapy, claims penile conditioning for gorilla dick-punch. |
 | [[episodes/2026-03-07|2026-03-07]] | Stands trial for peen.ui IP infringement; reveals he co-founded peen.ui, has a 'nasty pig room,' and suffers from labia growing on his… |
+| [[episodes/2026-02-12|2026-02-12]] | debate analyst. |
 | [[episodes/2026-02-10|2026-02-10]] | debate analyst. |
 | [[episodes/2026-02-04|2026-02-04]] | debate analyst. |
 | [[episodes/2026-01-24|2026-01-24]] | debate analyst. |
 | [[episodes/2026-01-21|2026-01-21]] | debate analyst. |
-| [[episodes/2026-01-07|2026-01-07]] | Called into Trip on the Street claiming to be the real Leonard Crumb Fuchus Crumb, revealed wife Belulia and a cuckold dynamic. |
 
 <details>
-<summary>Earlier appearances (154)</summary>
+<summary>Earlier appearances (155)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-01-07|2026-01-07]] | Called into Trip on the Street claiming to be the real Leonard Crumb Fuchus Crumb, revealed wife Belulia and a cuckold dynamic. |
 | [[episodes/2026-01-06|2026-01-06]] | debate analyst. |
 | [[episodes/2025-12-13|2025-12-13]] | debate analyst. |
 | [[episodes/2025-12-11|2025-12-11]] | debate analyst. |
@@ -418,3 +419,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[1:21:44]** ([[episodes/2026-02-10|2026-02-10]]): Crum accepts PNUI sponsorship: an AI that reads urine color via phone camera to generate stock advice.
 - **[1:24:08]** ([[episodes/2026-02-10|2026-02-10]]): Crum discloses PNUI is suing him for false claims about urine-test accuracy and offering spiritual advice based on urine color.
 - **[1:24:51]** ([[episodes/2026-02-10|2026-02-10]]): Crum admits to allegedly creating rival PNUChrist.ai using PNUI backend access via vibe coding, prompting his Fifth Amendment recusal.
+- **[10:00]** ([[episodes/2026-02-12|2026-02-12]]): Entangled in legal trouble with Pino Y, a urine-color stock advice app; claims 'penis in his eye' / 'P-N-U-I' incident; soliciting Crum Legal Defense Fund via bits/subs.
