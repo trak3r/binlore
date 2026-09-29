@@ -56,7 +56,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-06-22|2026-06-22]] | High-velocity musical correspondent who confesses to cheating on his Panther girlfriend, discusses beats, and provides cultural commentary throughout the pre-show. |
 
 <details>
-<summary>Earlier appearances (91)</summary>
+<summary>Earlier appearances (92)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -66,6 +66,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-06-03|2026-06-03]] | High-velocity musical/cultural correspondent. Triggered by hype train surge. Raps about eating 'human dog shit', thanks subscribers, claims second job as bassoonist. |
 | [[episodes/2026-05-29|2026-05-29]] | Musical correspondent delivering an extended rap about body parts and time travel. |
 | [[episodes/2026-03-07|2026-03-07]] | Commandeers the courtroom for an extended freestyle rap session; acknowledges 1,000-bit donation; references Obama holiday parties. |
+| [[episodes/2026-02-17|2026-02-17]] | segment host. |
 | [[episodes/2026-02-14|2026-02-14]] | hype announcer. |
 | [[episodes/2026-01-27|2026-01-27]] | musical interruption. |
 | [[episodes/2026-01-07|2026-01-07]] | Attempted a whale-fact rap instead of subscriber thanks, derailed into piss poetry, then quit the segment entirely. |
@@ -228,3 +229,4 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[01:16:58]** ([[episodes/2025-11-27|2025-11-27]]): Appeared translucent during hype train segment.
 - **[]** ([[episodes/2025-12-04|2025-12-04]]): Hype Train manifested in a translucent 'ghost mode' with no explanation. [09:48]
 - **[[12:02]]** ([[episodes/2025-12-18|2025-12-18]]): Face remains 'lightly blue' and claims to slip in and out of reality when Case fails to sustain hype; consumes hype and excretes cocaine from smokestack.
+- **[[37:56]]** ([[episodes/2026-02-17|2026-02-17]]): Claims immortality via CIA deal with hell; has worked for every administration since Reagan; confesses to JFK assassination.

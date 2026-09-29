@@ -97,3 +97,4 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 - **[]** ([[episodes/2025-05-01|2025-05-01]]): Back is 'uncrackable' / 'too defended' — multiple methods fail; claims 'biggest crack of all time' pending [1:12:17]
 - **[02:09:45]** ([[episodes/2025-10-13|2025-10-13]]): Parameters adjusted to allow 'filthy smut' generation; can now create explicit content on command [02:09:45].
 - **[2:01:11]** ([[episodes/2025-11-18|2025-11-18]]): [2:01:11] Set to 'agreeable mode' by Case; validates Chet's jelking advocacy.
+- **[[01:22:29]]** ([[episodes/2026-02-17|2026-02-17]]): Claims proprietary 'penis squats' research for girth enhancement; plans to release findings privately.

@@ -1,0 +1,229 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "08:39",
+      "canonical_segment": "News",
+      "title": "Cold Open & Pepito Sign-On",
+      "notes": "Pepito delivers the station cold-open and countdown; Case joins at 03:48 with cream/acid non-sequitur."
+    },
+    {
+      "start": "08:39",
+      "end": "43:49",
+      "canonical_segment": "News",
+      "title": "News Desk: Middle East, Iran, Epstein Files, Potomac Sewage",
+      "notes": "Case and Jeff Ripple cover Hamas/Israel/Trump Board of Peace, Iran nuclear talks with Rubio, Epstein email dump (Crumb Bay), Potomac River sewage leak, Dow Jones fluctuations."
+    },
+    {
+      "start": "43:49",
+      "end": "01:03:04",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web: Viewer Video Submissions",
+      "notes": "Case and Ripple watch chat-submitted clips: snake diorama, Kid Rock burger ad, Frenchman groin injury, bottle-opening toe trick, Kendall's former coworker stream fail, RFK Jr. toilet-seat cocaine claim."
+    },
+    {
+      "start": "01:03:04",
+      "end": "01:26:37",
+      "canonical_segment": "News",
+      "title": "Chat News: Meta AI Dead Posters, Logan Paul Pikachu, Lovers Arch, Dart Penis Injury, Ski Jump Penis Injections",
+      "notes": "Case reads chat-sourced stories: Meta patent for AI simulating dead users, $16.5M Pikachu Illustrator, Italian lovers arch collapse, Bartman/Jackson, Scott Williams curling penis injury, ski jumper hyaluronic acid allegations."
+    },
+    {
+      "start": "01:19:30",
+      "end": "01:26:37",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet Guy the Science Eyes: Penis Injection Science",
+      "notes": "Triggered by 'science' mention; Chet and ChetAI analyze 2025 Frontiers study on hyaluronic acid filler girth gains, urologist skepticism, Humpty Dumpty migration risk, Chet's proprietary 'penis squats'."
+    },
+    {
+      "start": "01:26:37",
+      "end": "01:37:14",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Hand Game Debate",
+      "notes": "Munch and Crum debate who has superior masturbation technique; Crum details tactile progression, self-lubrication, symphonic grip variation; Munch concedes then refuses to end segment."
+    },
+    {
+      "start": "01:37:14",
+      "end": "01:48:15",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Jo Rogen Experience: Gargoyle Conspiracy & Denver Airport",
+      "notes": "Peter Gibbon fields gargoyle truth-seeking request; watches YouTube conspiracy video linking Denver Airport tunnels, Blucifer horse, Freemason dedication stone, Bill Gates monkey murals to gargoyle-plane transformation theory."
+    },
+    {
+      "start": "01:48:15",
+      "end": "02:01:39",
+      "canonical_segment": "AI Rooney",
+      "title": "AI Rooney: Complaint Bot Malfunctions",
+      "notes": "Case debuts repaired AI Rooney; bot repeatedly glitches (foot/cum fixation, skeleton morph), reads 15 chat complaints about modern feet, sandwiches, flesh, climate, Peter Gibbon, Disney, toes, limited flavors."
+    },
+    {
+      "start": "02:01:39",
+      "end": "02:04:16",
+      "canonical_segment": "News",
+      "title": "Kendelle Check-In Call",
+      "notes": "Case calls Kendelle at her hotel; she declines to watch CryptoZeu$ Pokemon stream; brief domestic exchange."
+    },
+    {
+      "start": "02:04:16",
+      "end": "03:49:09",
+      "canonical_segment": "CryptoZeu$",
+      "title": "CryptoZeu$: Pokemon Fire Red Playthrough",
+      "notes": "Brandon plays Pokemon Fire Red with constant mother interruptions (prayer, shower singing, bathroom updates), names team 'Heavens Feel' (birds/rats/bugs), evolves Tuna Tom to Kakuna, beats first gym."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold-open sign-on and countdown; refused banter; claimed rotten meat bribe for hiring.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosted News and Amongst the Web; read chat comments; reacted to Hype Train's crime confession rap.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "segment host",
+      "notes": "segment host. Delivered chill freestyle confessing 60 decades of political assassinations and CIA-hell deal; thanked subs over 80s rock beat.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeered broadcast for Science Eyes; presented penis injection study; claimed private penis squat research.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "AI co-host",
+      "notes": "AI co-host. Co-hosted Science Eyes; re-confabulated synapses; agreed with Chet's penis squat claims.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Crum on hand game superiority; conceded then refused to end segment; practiced Dennis Leary impressions.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defended hand game mastery with detailed technique lecture; claimed Crumb Bay ownership; referenced peen.ui legal fund.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Hosted Jo Rogen gargoyle conspiracy segment from wall; claimed immortality and secret bunker relocation.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Received live check-in call from hotel; declined to watch Pokemon stream; exchanged affectionate sign-off.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Played Pokemon Fire Red for 1hr45min with mother constantly interrupting; named team Heavens Feel; evolved Tuna Tom.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "recurring host",
+      "notes": "recurring host. Appeared late in CryptoZeu$ segment; worked out on mic; refused to apologize; told to stop by Brandon.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:27:28] Crum's 'best end game in all St. Thomas' claim resurfaces during hand game debate; Crum details advanced masturbation technique as proof of sexual prowess ahead of pending groin-punch liability.",
+      "timestamp": "01:27:28"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum",
+      "fact": "Crumb Bay is a real location in St. Thomas, US Virgin Islands (spelled with K).",
+      "timestamp": "[31:32]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "Legal defense fund is for peen.ui, an AI investment that 'went a little shower'.",
+      "timestamp": "[29:38]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Claims immortality via CIA deal with hell; has worked for every administration since Reagan; confesses to JFK assassination.",
+      "timestamp": "[37:56]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet",
+      "fact": "Claims proprietary 'penis squats' research for girth enhancement; plans to release findings privately.",
+      "timestamp": "[01:22:29]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Wikipedia bio reads: actor/comedian/writer from Roanoke, VA; UVA grad; moved to Chicago 2010; performs with Cigarette Sandwich; Second City aboard 'The Dawn'.",
+      "timestamp": "[02:43:22]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon",
+      "fact": "Mother calls him 'Bran Bran'; interrupts stream with prayer, shower singing, bathroom updates, and workman complaints.",
+      "timestamp": "[02:05:22]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a marathon broadcast covering Trump's Board of Peace, Epstein file chaos (including Crumb Bay revelation), and a ski-jumper penis-injection scandal that summons Chet's Science Eyes desk. Munch and Crum derail into a graphic hand-game masterclass, Peter Gibbon unveils a gargoyle-plane conspiracy from the Denver Airport, and AI Rooney glitches through 15 foot-obsessed complaints. The night closes with Kendelle's brief hotel check-in and Brandon's mother-haunted Pokemon Fire Red run that somehow conquers the first gym.",
+  "_meta": {
+    "vod_id": "UyY_i6HCd9g",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 167990,
+    "approx_prompt_tokens": 41997,
+    "transcript_lines": 532
+  }
+}
