@@ -1,0 +1,187 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "00:53",
+      "canonical_segment": "News",
+      "title": "Cold Open: Pepito Station Sign-On",
+      "notes": "Pepito delivers the official top-of-hour broadcast sign-on and countdown as executive producer."
+    },
+    {
+      "start": "08:42",
+      "end": "58:29",
+      "canonical_segment": "News",
+      "title": "News Desk: Minneapolis ICE Shooting & Political Fallout",
+      "notes": "Case Blackwell anchors coverage of the fatal ICE shooting of VA nurse Alex Paredy in Minneapolis, the DHS fabrication of events, Tim Walz's response, and Trump's conciliatory call with Walz leading to Border Patrol pullback."
+    },
+    {
+      "start": "24:45",
+      "end": "35:23",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Derailment: Freestyle Over Subscriber Acknowledgments",
+      "notes": "Hype Train commandeers the feed during political coverage, delivering a high-tempo freestyle rap over bouncy cartoon beats, pivoting to bodily fluid topics and ignoring the somber news context."
+    },
+    {
+      "start": "01:12:09",
+      "end": "01:31:21",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web: Viewer Video Gauntlet",
+      "notes": "Rick hosts the viral media review desk, scoring viewer submissions including Game Grumps pickle bubbles, a Ringling Brothers vintage ad, G4 show speedrun, Code Monkeys musical number, mouth-sound performance, and Pop Pop Bruce Johnson's grandbaby address."
+    },
+    {
+      "start": "01:31:21",
+      "end": "01:44:54",
+      "canonical_segment": "Therapy",
+      "title": "Therapy: Lubechef's Purported Healing & Jeb Nogget Intrusion",
+      "notes": "Dr. Chath conducts a session with Lubechef, who claims to have abandoned his lubed persona for normal French cuisine; Jeb Nogget interrupts from the woodshop, leading to a chaotic three-way exchange."
+    },
+    {
+      "start": "01:44:54",
+      "end": "01:56:20",
+      "canonical_segment": "How To with Jeb",
+      "title": "How To with Jeb: Larynx Position, Taco Tongue & Kissing Practice",
+      "notes": "Jeb teaches at-home larynx positioning exercises, demonstrates taco tongue technique from a speech pathology video, and attempts a kissing practice tutorial interrupted by a 'grovelin' spirit in his mouth."
+    },
+    {
+      "start": "01:56:20",
+      "end": "02:35:11",
+      "canonical_segment": "CryptoZeu$",
+      "title": "CryptoZeu$: Diva Stars Malmania Speedrun Amid Maternal Chaos",
+      "notes": "Brandon attempts a sponsored speedrun of Diva Stars Malmania on Game Boy Color while his mother interrupts via door yelling, Pastor Joe prayers, and CIA sponsorship roleplay; mods allegedly ruined routing with recent patches."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the news desk covering the Minneapolis ICE shooting and political fallout; experimented with Biden and Solid Snake voice impressions during the broadcast.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered the official station sign-on and countdown; provided sermon music via Eric Sermon track during the news block.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "host of Amongst the Web",
+      "notes": "host of Amongst the Web. Hosted the Amongst the Web segment reviewing viewer-submitted videos; engaged in political debate with Case during the news block.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Appeared briefly during Amongst the Web as the audience conduit reading chat scores for video submissions.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Derailed the broadcast with a freestyle rap over cartoon beats during serious ICE shooting coverage, pivoting to bodily fluid humor.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Chath",
+      "role": "therapist",
+      "notes": "therapist. Conducted a therapy session with Lubechef and an intruding Jeb Nogget, offering culinary and existential counsel.",
+      "canonical_name": "Dr. Chath",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Lubechef",
+      "role": "therapy patient",
+      "notes": "therapy patient. Claimed to have abandoned his lubed persona for a normal French chef career, declared himself healed, and vowed to stop appearing regularly.",
+      "canonical_name": "Lubechef",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Intruded on therapy from his woodshop, then hosted How To with Jeb teaching larynx exercises, taco tongue, and kissing practice.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Attempted a sponsored Diva Stars Malmania speedrun while managing mother interruptions, CIA sponsorship roleplay, and alleged mod patch sabotage.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon's Mom",
+      "role": "recurring door intervention",
+      "notes": "recurring door intervention. Interrupted the gaming segment with muffled door yelling about household chores, Pastor Joe, erotic bible reading, and Knicks aspirations.",
+      "canonical_name": "Brandon's Mom",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Chat references the Hellcrumb poster and asks if Crum will be killed again to release it [57:25], indicating the resolved storyline remains a community touchstone.",
+      "timestamp": "57:25"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Lubechef",
+      "fact": "Declared himself healed by therapy, abandoned lubed persona for normal French cuisine, and stated he will not appear regularly due to being busy [01:43:50].",
+      "timestamp": "01:43:50",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "Claimed a six-million-dollar sponsorship from Timothy Chalamet for a 'Willy Diddy' Willy Wonka/P. Diddy crossover movie [01:59:23].",
+      "timestamp": "01:59:23",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon's Mom",
+      "fact": "Reads from an 'erotic bible' during prayer sessions and aspires to join the New York Knicks men's team despite knee issues [02:32:46].",
+      "timestamp": "02:32:46",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "Referenced his family well backstory again, claiming it whispers to him and that he fell down it causing his facial changes [01:46:21].",
+      "timestamp": "01:46:21",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News led with the fatal ICE shooting of VA nurse Alex Paredy in Minneapolis, dissecting the DHS fabrication and the ensuing political standoff between Tim Walz and the Trump administration. The broadcast derailed into a Hype Train freestyle, a viewer-video gauntlet on Amongst the Web, a therapy session where Lubechef claimed rehabilitation, Jeb Nogget's instructional segment on vocal anatomy and tongue techniques, and a chaotic CryptoZeu$ gaming dispatch where Brandon attempted a sponsored Diva Stars speedrun amid maternal door interventions and CIA roleplay.",
+  "_meta": {
+    "vod_id": "7bPx-GV5ug4",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 130525,
+    "approx_prompt_tokens": 32631,
+    "transcript_lines": 373
+  }
+}

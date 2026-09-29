@@ -56,6 +56,7 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-06-08|2026-06-08]] | Resident gaming correspondent. Remote from bedroom; battles N64 emulation, mother's screaming, and Glover's inverted controls. |
 | [[episodes/2026-06-05|2026-06-05]] | Gaming and digital culture correspondent broadcasting remotely from his bedroom studio. |
 | [[episodes/2026-05-29|2026-05-29]] | Gaming correspondent playing Boogerman with mother interruptions. |
+| [[episodes/2026-01-27|2026-01-27]] | recurring door intervention. |
 | [[episodes/2026-01-24|2026-01-24]] | gaming correspondent. |
 
 ## Notable moments
@@ -93,3 +94,5 @@ See also: [[../segments/cryptozeus|CryptoZeu$ (Segment)]], [[characters/brandons
 - **[[01:24:20]]** ([[episodes/2026-01-24|2026-01-24]]): Room legally designated state dumping ground for animal roadkill overflow.
 - **[[01:55:47]]** ([[episodes/2026-01-24|2026-01-24]]): Mother poisoned 78 eight-year-olds with spoiled milkshakes in schoolyard.
 - **[[01:48:30]]** ([[episodes/2026-01-24|2026-01-24]]): Mother microwaves his iPod nano which opens purple portal with 'gregory enchanting' from garbage disposal.
+- **[01:59:23]** ([[episodes/2026-01-27|2026-01-27]]): Claimed a six-million-dollar sponsorship from Timothy Chalamet for a 'Willy Diddy' Willy Wonka/P. Diddy crossover movie [01:59:23].
+- **[02:32:46]** ([[episodes/2026-01-27|2026-01-27]]): Reads from an 'erotic bible' during prayer sessions and aspires to join the New York Knicks men's team despite knee issues [02:32:46].
