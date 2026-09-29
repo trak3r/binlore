@@ -217,3 +217,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[]** ([[episodes/2025-11-25|2025-11-25]]): [01:48:15] Making steaks for Thanksgiving per 'cashmg' (Kendelle) Patreon mention.
 - **[01:36:57]** ([[episodes/2025-11-27|2025-11-27]]): Owns Thor sticker on mug from friend Jaiman (jaimonstickers.com).
 - **[01:38:48]** ([[episodes/2025-11-27|2025-11-27]]): Shaved beard by accident recently; beardless filter adds 'awful skin texture' and merges chin with neck.
+- **[]** ([[episodes/2025-12-04|2025-12-04]]): Case Blackwell missed several broadcast days due to illness, a rare absence. [08:45]

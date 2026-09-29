@@ -82,6 +82,7 @@ On [[../episodes/2025-09-25|Post Wall and Rapture Clarity]], resurrected Crum si
 | [[../episodes/2025-10-31|2025-10-31]] [02:34:43] | [02:34:43] Crum declares 'hell crumb is me' and 'the killer's in the room with you,' directly referencing his hell tenure and rescue arc from the Join the Wall storyline. |
 | [[../episodes/2025-11-03|2025-11-03]] | Jeb's Dad asks if Crum knows his wife left him and married Jizbo after he died and went to hell; Crum denies knowledge. |
 | [[../episodes/2025-11-27|2025-11-27]] [01:12:02] | [01:12:02] Peter Gibbon urges Case to send another group into the wall; Case refuses, citing esotericism for newer viewers. |
+| [[../episodes/2025-12-04|2025-12-04]] [01:08:11] | Crum cited Peter Gibbon's wall-teasing during the Thanksgiving confession. |
 
 ## Related Pages
 

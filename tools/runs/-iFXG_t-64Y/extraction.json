@@ -1,0 +1,258 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "08:45",
+      "canonical_segment": "News",
+      "title": "Cold Open: Pepito Sign-On & Case Returns",
+      "notes": "Pepito delivers the station sign-on; Case joins recovering from illness, Hype Train appears in translucent ghost mode."
+    },
+    {
+      "start": "08:45",
+      "end": "01:05:41",
+      "canonical_segment": "News",
+      "title": "Chat News Desk: Hegseth, Mad Men 4K, Waymo, AI Jesus, Poison Pills, Anime Dubs, GOG Horses, OpenAI, Pavarotti Statue, Pikmin Bloom",
+      "notes": "Case and Jeff Ripple cover viewer-sourced stories: Pete Hegseth Signal investigation and Yemen strike double-tap, Mad Men 4K vomit tube visible, Waymo police stop, Joe Rogan AI Jesus claims, Facebook AI poison pills, Amazon AI anime dubs, GOG hosting Horses after Steam ban, OpenAI profitability timeline, Pavarotti statue in ice rink, Pikmin Bloom revenue."
+    },
+    {
+      "start": "01:06:25",
+      "end": "01:18:36",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: Sleeping in Cabinet Meetings as Strength",
+      "notes": "Munch and Crum clash over whether the president dozing in cabinet meetings projects dominance; Crum confesses to sabotaging his lawyer's Thanksgiving at Denny's."
+    },
+    {
+      "start": "01:18:36",
+      "end": "01:35:17",
+      "canonical_segment": "How To with Jeb",
+      "title": "How To: Promise Rings, Viral Cocktails, Baking Soda Erection Hack, Elmo Eggnog",
+      "notes": "Jeb and his wooden-board father host relationship coach Sally Landau on promise rings, then review viral cocktails, a baking soda ED debunking, and Elmo making eggnog."
+    },
+    {
+      "start": "01:35:17",
+      "end": "01:46:57",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Science Eyes: Leaf-Mimic Spider, AI Hospital, Baseball Drugs, Borax Enema",
+      "notes": "Chet and ChetAI analyze a Vietnamese spider mimicking dead leaves, a Chinese AI-run hospital, a baseball player's drug use, and a borax/aged-urine enema video that triggers content filters."
+    },
+    {
+      "start": "01:46:57",
+      "end": "02:14:31",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web: Big Bill Hell's, Racist Bathroom, AR AI Buddy, Bottle Draining, Knife Carrot, Ceiling Fan Tragedy, Macy's Parade",
+      "notes": "Rick hosts the viral video review: Big Bill Hell's car dealership ad, racist bathroom decor, AR AI companion, suggestive bottle pouring, knife precision carrot eating, ceiling fan couple separation, Macy's Thanksgiving Parade rap."
+    },
+    {
+      "start": "02:14:31",
+      "end": "02:17:57",
+      "canonical_segment": "News",
+      "title": "Sign-Off: Failed Raid Attempt on Steph Woodburn",
+      "notes": "Case and Pepito attempt a raid; Pepito feigns ignorance, chat suggests Steph Woodburn, raid executes as Case accuses Pepito of sabotage."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "Anchor",
+      "notes": "Anchored the return broadcast while recovering from illness, managed technical difficulties and oversaw the full segment lineup.",
+      "lore_notes": [
+        "Missed several broadcast days due to illness, a rare absence. [08:45]",
+        "Revealed the broadcast passed its three-year anniversary unnoticed. [24:04]",
+        "Developing a debate-point betting system for the Beyblade Tournament sub-goal. [53:54]"
+      ],
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "Hype Train",
+      "notes": "Hype Train. Appeared in a translucent ghost mode and delivered surreal freestyle raps about geography and time travel.",
+      "lore_notes": [
+        "Manifested in translucent 'ghost mode' with no explanation. [09:48]"
+      ],
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "In-Studio Contributor",
+      "notes": "In-Studio Contributor. Referenced as present in-studio while recovering from illness and promoting her Waffle Press Podcast appearance.",
+      "lore_notes": [
+        "Waffle Press Podcast appearance screened on air. [11:54]"
+      ],
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "Correspondent",
+      "notes": "Correspondent. Co-anchored the news desk, covered chat-sourced stories, and debated Pete Hegseth's Signal usage and war crimes allegations.",
+      "lore_notes": [],
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "Debate Analyst",
+      "notes": "Debate Analyst. Argued that sleeping in meetings asserts dominance, confessed to sabotaging his lawyer's Thanksgiving at Denny's.",
+      "lore_notes": [
+        "Admitted to derailing his lawyer's Thanksgiving at Denny's and damaging their professional relationship. [01:07:48]",
+        "Cited Peter Gibbon's wall-teasing during the Thanksgiving confession. [01:08:11]"
+      ],
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "How To Host",
+      "notes": "How To Host. Hosted How To with Jeb from his workshop with his deceased father, covered promise rings and viral health hacks.",
+      "lore_notes": [
+        "Father's spirit continues to inhabit a wooden board and disrupt broadcasts. [01:18:56]"
+      ],
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "Deceased Co-Host",
+      "notes": "Deceased Co-Host. Bitter wooden-board spirit who disrupted the segment with existential crises and electrical interference.",
+      "lore_notes": [],
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Sally Landau",
+      "role": "Guest Relationship Coach",
+      "notes": "Guest Relationship Coach. Demonstrated creative promise ring delivery methods including ice cubes, magicians, and dog collars.",
+      "lore_notes": [],
+      "canonical_name": "Sally Landau",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet Manscape",
+      "role": "Science Correspondent",
+      "notes": "Science Correspondent. Activated the Science Eyes desk to analyze a leaf-mimicking spider, an AI-run Chinese hospital, and a borax enema video.",
+      "lore_notes": [],
+      "canonical_name": "Chet Manscape",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "AI Co-Host",
+      "notes": "AI Co-Host. Co-hosted Science Eyes, suffered content moderation glitches during the borax discussion.",
+      "lore_notes": [
+        "Content filters triggered during discussion of borax enemas. [01:45:53]"
+      ],
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "Case confirmed the owed sub-goal Beyblade event and revealed a betting mechanic using Munch & Crum debate points.",
+      "timestamp": "53:54"
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Munch referenced the Rock-afire gorilla's continued presence during Amongst the Web.",
+      "timestamp": "01:16:58"
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "Crum cited Peter Gibbon's wall-teasing during the Thanksgiving confession.",
+      "timestamp": "01:08:11"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell missed several broadcast days due to illness, a rare absence. [08:45]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Hype Train",
+      "fact": "Hype Train manifested in a translucent 'ghost mode' with no explanation. [09:48]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Kendelle",
+      "fact": "Kendelle's Waffle Press Podcast appearance was screened on air. [11:54]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case revealed the broadcast passed its three-year anniversary unnoticed. [24:04]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case is developing a debate-point betting system for the Beyblade Tournament sub-goal. [53:54]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Crum",
+      "fact": "Crum admitted to derailing his lawyer's Thanksgiving at Denny's and damaging their professional relationship. [01:07:48]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Munch",
+      "fact": "Munch confirmed the Rock-afire gorilla remains active in the studio. [01:16:58]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Jeb's father's spirit continues to inhabit a wooden board and disrupt broadcasts. [01:18:56]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "ChetAI's content filters triggered during discussion of borax enemas. [01:45:53]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Rick",
+      "fact": "Rick formally assumed hosting duties for Amongst the Web. [01:47:34]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News returned from a week-long hiatus with Case Blackwell and much of the studio staff recovering from illness. The broadcast cycled through a chat-driven news desk, a Munch & Crum debate on presidential somnolence, a chaotic How To with Jeb featuring promise rings and baking soda erection hacks, a Science Eyes segment on biomimetic spiders and AI hospitals, and Rick's Amongst the Web debut reviewing viral atrocities. The episode closed with a failed raid attempt as Pepito claimed the network had no one left to raid.",
+  "_meta": {
+    "vod_id": "-iFXG_t-64Y",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 113612,
+    "approx_prompt_tokens": 28403,
+    "transcript_lines": 326
+  }
+}
