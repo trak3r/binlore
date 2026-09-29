@@ -44,6 +44,7 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of 'idiocracy' comment, not actively speaking. |
 | [[episodes/2026-05-29|2026-05-29]] | Mentioned as a stowaway causing a chaos portal incident. |
 | [[episodes/2026-03-07|2026-03-07]] | Referenced by Case during wrap-up as 'Jeff' in the newsroom. |
+| [[episodes/2026-01-07|2026-01-07]] | Infiltrated the studio as a wall-dwelling stowaway, brought wall energy that broke equipment, and threatened to summon Hate Sock. |
 | [[episodes/2026-01-06|2026-01-06]] | news stowaway. |
 | [[episodes/2025-12-24|2025-12-24]] | news stowaway. |
 | [[episodes/2025-11-27|2025-11-27]] | news stowaway. |
@@ -55,13 +56,13 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2025-09-03|2025-09-03]] | news stowaway. |
 | [[episodes/2025-08-26|2025-08-26]] | news stowaway. |
 | [[episodes/2025-08-23|2025-08-23]] | news stowaway. |
-| [[episodes/2025-08-11|2025-08-11]] | News stowaway reads gooner AI porn addiction and medical oddity stories while promoting his wall crawlspace mythology. |
 
 <details>
-<summary>Earlier appearances (68)</summary>
+<summary>Earlier appearances (69)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-08-11|2025-08-11]] | News stowaway reads gooner AI porn addiction and medical oddity stories while promoting his wall crawlspace mythology. |
 | [[episodes/2025-08-02|2025-08-02]] | news stowaway. |
 | [[episodes/2025-07-18|2025-07-18]] | news stowaway. |
 | [[episodes/2025-07-15|2025-07-15]] | news stowaway. |

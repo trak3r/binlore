@@ -1,0 +1,143 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Cold Open & Sign-On",
+      "start": "00:08",
+      "end": "08:45",
+      "notes": "Pepito delivers the official network countdown and sign-on; Case struggles with headphone hardware and wireless pack setup."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Main News Desk",
+      "start": "08:45",
+      "end": "01:30:48",
+      "notes": "Case anchors with Pepito and Hype Train; covers US seizure of Russian/Venezuelan tankers, Venezuela political upheaval, AI-generated fake weather towns, Polymarket insider betting, raw meat addiction, world's smallest penis story, Olympic readiness, Tim Walz, and an ICE shooting in Minneapolis."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Viewer Video Review",
+      "start": "01:30:48",
+      "end": "01:59:43",
+      "notes": "Case rates viewer submissions: ABC After School Special 'Stone', Magic: The Gathering Bogart musical by Jim Henson Co., pig sky-view fact, Joshua song, reborn doll pregnancy test, thick news anchor compilation, Alex Jones with Labubu, and Cucaracha remix."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "title": "Park Interviews",
+      "start": "01:59:43",
+      "end": "02:27:01",
+      "notes": "Trip Bradstein fields callers from the bushes: Crum, AI Kevin Pereira, Lady Slightly in the Past, Skeletor, John Taffer, Dead Cream Team Spirit, Blank Man petitioner, Willy Wu Tang, Crack-a-Yogi Bear, Hamtaro acolyte, Marty from three bushes down, Cheese Puff presidential candidate, and AI Slop."
+    },
+    {
+      "canonical_segment": "DJ Newsic",
+      "title": "Musical Outro",
+      "start": "02:27:01",
+      "end": "02:39:06",
+      "notes": "DJ Newsic performs hillbilly EDM about JD Vance's survived break-in attempt, brings out a Vance impersonator for a 'solemn hillbilly instrumental' rap about his troubled mother, then closes with chat shoutouts."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "notes": "Anchored the Wednesday broadcast through technical difficulties, a chaotic Hype Train segment, and a grim ICE shooting report before closing with public domain cartoon news.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "notes": "Delivered the cold open sign-on, revealed a baby intern, claimed to have undergone multiple puberties, and sparred with Case throughout the news desk.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "notes": "Attempted a whale-fact rap instead of subscriber thanks, derailed into piss poetry, then quit the segment entirely.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "notes": "Infiltrated the studio as a wall-dwelling stowaway, brought wall energy that broke equipment, and threatened to summon Hate Sock.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "notes": "Called into Trip on the Street claiming to be the real Leonard Crumb Fuchus Crumb, revealed wife Belulia and a cuckold dynamic.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "notes": "Closed the broadcast with a hillbilly EDM tribute to JD Vance's survived break-in attempt, featuring a Vance impersonator rapping about his fucked up mom.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Pepito employs a baby as an intern.",
+      "timestamp": "[23:46]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Pepito claims to have gone through puberty multiple times yesterday.",
+      "timestamp": "[14:58]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Pepito references HAL as a voice-stealing power.",
+      "timestamp": "[14:42]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum's wife is named Belulia and their relationship involves cuckoldry.",
+      "timestamp": "[02:02:28]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum's full self-styled name is Leonard Crumb Fuchus Crumb.",
+      "timestamp": "[02:02:28]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Trip Bradstein shares a communal laundry puddle with neighbor Marty.",
+      "timestamp": "[02:20:53]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Trip has a hamster roommate.",
+      "timestamp": "[02:19:51]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell's second 2026 broadcast careened from audio troubles through a whale-obsessed Hype Train meltdown, a Peter Gibbon intrusion, and a harrowing ICE shooting report before pivoting to AI-generated weather maps, raw meat addiction, and micro-penis discourse. The Amongst the Web segment descended into Jim Henson Bogart musicals and mental-break karaoke, while Trip Bradstein's park interviews attracted a parade of impostors including Crum, Skeletor, and a crack-addicted Yogi Bear. DJ Newsic closed with a hillbilly elegy for JD Vance's unharmed Cincinnati home.",
+  "_meta": {
+    "vod_id": "X9GkWWdHAuE",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 130249,
+    "approx_prompt_tokens": 32562,
+    "transcript_lines": 389
+  }
+}
