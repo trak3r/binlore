@@ -148,6 +148,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2026-03-12|2026-03-12]] [01:21:56] | [01:21:56] Crum claims super-strength (tearing doors, splitting tables) from 'fugue state' after hell resurrection; Munch unimpressed. |
 | [[../episodes/2026-03-17|2026-03-17]] [1:55:16] | [1:55:16] Crum references pending gorilla dick punch: 'if people want me dead, I have to get punched in the dick by gorilla'; claims he pulled studio door off hinges with super strength [1:56:30]; Munch says chat wants Crum to die again [1:59:10]. |
 | [[../episodes/2026-03-19|2026-03-19]] [58:52] | [58:52] Chat and Case press Crum on the overdue gorilla groin punch; Crum claims 'health strength' but admits he wakes up in full-body scab cocoons. |
+| [[../episodes/2026-03-24|2026-03-24]] [29:25] | [29:25] Blackwell confirms gorilla people-mover setup underway for the pneumatic groin punch; [30:56] Crum claims lethal punching strength from weighted-log conditioning. |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |

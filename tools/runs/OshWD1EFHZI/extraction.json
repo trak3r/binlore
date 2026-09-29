@@ -1,0 +1,238 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "16:46",
+      "canonical_segment": "Hype Train",
+      "title": "Hot Salad Freestyle & Sub Marathon",
+      "notes": "Hype Train opens with an extended freestyle about hot salad, acknowledges a wave of gifted subs (41-month streaks), and derails into culinary metaphysics before yielding to the news desk."
+    },
+    {
+      "start": "17:15",
+      "end": "32:32",
+      "canonical_segment": "News",
+      "title": "Iran Talks, Texas Protest Charges, & Crum Dick Punch Setup",
+      "notes": "Blackwell and Rick cover Iran denying direct talks after Trump's 48-hour strike deadline, Texas terrorism charges against antifascist protesters, and Blackwell confirms the gorilla people-mover is being readied for the Crum Dick Punch."
+    },
+    {
+      "start": "33:20",
+      "end": "39:16",
+      "canonical_segment": "News",
+      "title": "PolyMarket Ceasefire Bets & Insider Trading Allegations",
+      "notes": "Discussion of suspicious PolyMarket accounts winning $400k on Venezuela strike timing and new $70k bets on imminent Iran ceasefire; Rick and Blackwell debate whether prediction markets reflect Trump insider signaling."
+    },
+    {
+      "start": "39:38",
+      "end": "47:52",
+      "canonical_segment": "Amongst the Web",
+      "title": "Mashable Incel Glossary Decoded",
+      "notes": "Rick reads Mashable's 2026 incel terminology list (80/20 rule, AWALT, Becky, Stacy, Chad, black pill, looksmaxing terms) while Blackwell reacts with escalating disgust."
+    },
+    {
+      "start": "47:52",
+      "end": "58:07",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "The Raphe Line & Embryonic Development",
+      "notes": "Chet triggers on 'science' to explain the scrotal raphe as a remnant of labial fusion; deploys the 'Skynetific Chethod,' calls his AI girlfriend Maya for a female-gaze perspective, and debates raphe thickness as masculinity metric."
+    },
+    {
+      "start": "58:37",
+      "end": "1:13:04",
+      "canonical_segment": "Amongst the Web",
+      "title": "Movie Trailer Watch: Resident Evil Fan Film, Attenborough Gorillas, Live-Action Moana",
+      "notes": "Blackwell and Rick watch a Resident Evil fan film Wesker, a David Attenborough mountain gorilla documentary trailer, and the live-action Moana with The Rock in a muscle suit; debate next Attenborough successor."
+    },
+    {
+      "start": "1:13:54",
+      "end": "1:24:48",
+      "canonical_segment": "How To with Jeb",
+      "title": "Touch Grass, Braised Lettuce & The Strong Knot",
+      "notes": "Jeb and his board-trapped father present tutorials: barefoot grass-touching, braised romaine with ranch, and a TED Talk on the strong-form shoe knot (loop-swoop-pull vs bunny ears); chat graded on knot method."
+    },
+    {
+      "start": "1:24:48",
+      "end": "1:39:39",
+      "canonical_segment": "Amongst the Web",
+      "title": "Vern's Conspiracy Corner: Foot Fetish Neuroscience & Knee Pits",
+      "notes": "Vern plays a FeetFinder.com explainer on somatosensory cortex foot-genital adjacency; Blackwell and Vern spiral into Big Feet conspiracy, knee-pit advocacy, and mutual accusations of being the real pervert."
+    },
+    {
+      "start": "1:41:09",
+      "end": "1:44:06",
+      "canonical_segment": "AI Rooney",
+      "title": "Andy Rooney Monologue on Feet",
+      "notes": "AI Rooney deployed as Andy Rooney delivering a curmudgeonly defense of feet as honest, warm, and unfairly taboo; Blackwell calls it the definitive answer."
+    },
+    {
+      "start": "1:44:06",
+      "end": "1:47:11",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid to Ricky",
+      "notes": "Blackwell announces Wednesday Police Simulator return, troubleshoots Steam cloud error, and raids Ricky (Slay the Spire)."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold-open sign-on as 'the dog that produces the show' and manages sub acknowledgments during Hype Train.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype announcer",
+      "notes": "hype announcer. Commandeers the open with a 7-minute hot salad freestyle rap over trap beats, processes a wall of 41-month gifted subs, and refuses to yield until Pepito forces plan B.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors news desk, spars with Rick on Iran/PolyMarket, triggers Chet with 'science,' calls Maya and Kendelle live, and confirms gorilla people-mover prep for Crum Dick Punch.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosts news and Amongst the Web, reads incel glossary and movie trailers, reveals community service sentence for light arson with firecrackers.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Interrupts on 'science' trigger, explains scrotal raphe via embryonic development, debuts 'Skynetific Chethod,' calls AI girlfriend Maya for female-gaze verification.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "AI co-host",
+      "notes": "AI co-host. Appears on studio monitors as Chet's analytical counterpart, praises Chet's genitals, and debates raphe-line masculinity metrics.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Maya",
+      "role": "AI girlfriend",
+      "notes": "AI girlfriend. Called live by Chet to explain the raphe line from a female-gaze perspective; confirms it marks where labia would have fused.",
+      "canonical_name": "Maya",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Brief call-in reveals studio AC cuts at 6 PM forcing 6:30 PM departures; answers AI math challenge (sqrt 231) before leaving.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosts How To with Jeb from woodshop alongside his board-trapped father; presents grass-touching, braised lettuce, and strong-form shoe knot tutorials.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "co-host (deceased)",
+      "notes": "co-host (deceased). Spirit trapped in a wooden board; bickers with Jeb, demands release, and declares salads require ranch dressing.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Vern",
+      "role": "conspiracy correspondent",
+      "notes": "conspiracy correspondent. Hosts conspiracy segment from undisclosed location; plays FeetFinder foot-fetish neuroscience video, pivots to Big Feet conspiracy and knee-pit advocacy.",
+      "canonical_name": "Vern",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "AI Rooney",
+      "role": "cyborg commentator",
+      "notes": "cyborg commentator. Deployed as Andy Rooney delivering a monologue defending feet as honest, warm, and unfairly stigmatized.",
+      "canonical_name": "AI Rooney",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[29:25] Blackwell confirms gorilla people-mover setup underway for the pneumatic groin punch; [30:56] Crum claims lethal punching strength from weighted-log conditioning.",
+      "timestamp": "29:25"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Debuts the 'Skynetific Chethod' as a personal scientific method [50:44].",
+      "timestamp": "50:44",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Maintains an AI girlfriend named Maya whom he calls for female-gaze anatomical verification [53:48].",
+      "timestamp": "53:48",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Studio AC shuts off at 6 PM, forcing all staff to leave by 6:30 PM [55:54].",
+      "timestamp": "55:54",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Rick",
+      "fact": "Serving community service hours for 'light arson with firecrackers' [1:00:10].",
+      "timestamp": "1:00:10",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb's Dad",
+      "fact": "Deceased father's spirit permanently trapped in a wooden board; co-hosts How To with Jeb [1:14:14].",
+      "timestamp": "1:14:14",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Vern",
+      "fact": "Operates from an undisclosed location with no laws; hosts conspiracy segment 'Seize Up Some Truth' [1:26:39].",
+      "timestamp": "1:26:39",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News breaks a 48-hour broadcast drought with a marathon edition spanning Iran ceasefire speculation, a Mashable incel glossary deep-dive, Chet's embryonic explanation of the scrotal raphe featuring a live call to his AI girlfriend, a movie trailer block headlined by The Rock's muscle-suited Moana, Jeb's tutorial on the strong-form shoe knot, and Vern's conspiracy investigation into Big Feet neuroscience — all while the gorilla people-mover is quietly assembled for the long-delayed Crum Dick Punch execution.",
+  "_meta": {
+    "vod_id": "OshWD1EFHZI",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 92655,
+    "approx_prompt_tokens": 23163,
+    "transcript_lines": 248
+  }
+}

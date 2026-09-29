@@ -75,3 +75,4 @@ Rick joined the broadcast on the [[episodes/2026-09-04|2026-09-04 broadcast]] to
 - **[02:00:38]** ([[episodes/2024-08-08|2024-08-08]]): Official anthem is now a Space Jam DVD rap over the national anthem, chosen by flash poll. [02:00:38]
 - **[00:34:54]** ([[episodes/2025-04-04|2025-04-04]]): Claims CIA affiliation; says he was 'too important' to be fired; spreads conspiracy about urine in food supply.
 - **[[01:25:39]]** ([[episodes/2026-03-12|2026-03-12]]): Confirmed as two distinct people who can occupy the same space simultaneously; town hall prompt tested this.
+- **[1:00:10]** ([[episodes/2026-03-24|2026-03-24]]): Serving community service hours for 'light arson with firecrackers' [1:00:10].
