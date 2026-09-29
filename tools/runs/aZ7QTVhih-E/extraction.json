@@ -1,0 +1,162 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "08:35",
+      "canonical_segment": "News",
+      "title": "Cold Open & Pre-Stream Technical Check",
+      "notes": "Pepito delivers sign-on while Case Blackwell troubleshoots microphone fizz and discusses Bachelorette cancellation rumors with off-mic Kendelle."
+    },
+    {
+      "start": "08:35",
+      "end": "01:14:28",
+      "canonical_segment": "News",
+      "title": "Main News Desk: Middle East Escalation & FEMA Teleportation",
+      "notes": "Blackwell and Scrum cover US Marine deployment to Middle East, Trump's 200-year lifespan claim, Meta Ray-Ban privacy scandal, and FEMA official Greg Phillips' teleportation claims."
+    },
+    {
+      "start": "01:14:28",
+      "end": "01:25:26",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Best Hand Game Debate",
+      "notes": "Munch advocates for lobster-claw ambidextrous technique while Crum defends both-hands approach; debate devolves into explicit tenderness discourse."
+    },
+    {
+      "start": "01:25:26",
+      "end": "01:26:40",
+      "canonical_segment": "News",
+      "title": "Peter Gibbon Wall Check-In",
+      "notes": "Stowaway Peter Gibbon emerges from crawlspace confirming kushball alien and furry raccoon variants now inhabit the wall."
+    },
+    {
+      "start": "01:26:40",
+      "end": "01:44:05",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web: Viewer Submissions",
+      "notes": "Case reviews viewer clips including Cyclopedia reel-to-reel documentary, Palm Beach Pete lookalike, clavicular's halo-effect video, and butthole wellness influencers."
+    },
+    {
+      "start": "01:44:05",
+      "end": "02:21:15",
+      "canonical_segment": "CryptoZeu$",
+      "title": "CryptoZeu$: Bonk's Revenge Playthrough",
+      "notes": "Brandon battles through Bonk's Revenge on TurboGrafx-16 while mother Brick interjects through bedroom doggie door; Case Blackwell raids Dr. Diggity-Dank."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored main news desk and Amongst the Web; troubleshot persistent mic fizz; reacted to Trump commemorative coin design.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on and countdown; refused BIN coin placement; confirmed hellcrum poster will never be released.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Scrum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Co-hosted news desk; claimed no last name ('Scrum, period'); delivered extended Dragon Ball Z mourning rap during Hype Train trigger.",
+      "canonical_name": "Scrum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued for lobster-claw masturbation technique in Munch & Crum hand game debate; claimed immortal status.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defended both-hands hand game approach; received haircut compliment; threatened drone strike on own debate.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Briefly emerged from wall to confirm multi-variant alien population in crawlspace.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Played Bonk's Revenge on TurboGrafx-16; revealed man-size doggie door in bedroom; sponsored by GamerSlud pineapple cafe.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Triggered by Giggle Trash's 300-bit community sub gift; delivered DBZ freestyle before ejecting.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Scrum asserts mononym identity: 'Scrum, period' with no middle or last name.",
+      "timestamp": "[21:05]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "FEMA official Greg Phillips claims two teleportation incidents (car lifted 40 miles to ditched church; 50 miles to Waffle House in Rome, Georgia).",
+      "timestamp": "[40:48]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "US Mint approved 24-karat Trump commemorative gold coin featuring 1776 birth date and idealized jawline.",
+      "timestamp": "[01:12:31]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Brandon installed a man-size doggie door in his bedroom door for cake delivery and crawl-through access.",
+      "timestamp": "[02:05:49]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Brandon secured GamerSlud sponsorship (pineapple cafe flavor with turmeric and methane notes).",
+      "timestamp": "[01:46:03]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered escalating Middle East troop deployments and a FEMA official's teleportation claims before debuting a Trump commemorative coin with a 1776 birth date. The Munch & Crum debate descended into explicit hand-game theory, Peter Gibbon confirmed cryptid expansion in the studio walls, and Brandon fought through Bonk's Revenge while his mother delivered soda through a bedroom doggie door.",
+  "_meta": {
+    "vod_id": "aZ7QTVhih-E",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 116701,
+    "approx_prompt_tokens": 29175,
+    "transcript_lines": 337
+  }
+}
