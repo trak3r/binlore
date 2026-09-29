@@ -1,0 +1,193 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "09:16",
+      "canonical_segment": "News",
+      "title": "Cold Open & Sign-On",
+      "notes": "Pepito delivers the station sign-on as a dog, makes crude remarks about Brandon's mother, and counts down to live."
+    },
+    {
+      "start": "09:16",
+      "end": "27:23",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Derailment: Bart Simpson Massacre",
+      "notes": "Hype Train commandeers the broadcast for an extended freestyle rap, claiming to have nuked Springfield, killed Bart Simpson, and fucked all of Thomas the Tank Engine's spouses while declaring himself King of the Trains."
+    },
+    {
+      "start": "27:23",
+      "end": "35:33",
+      "canonical_segment": "News",
+      "title": "Crum Legal Defense Fund",
+      "notes": "Crumb reveals he is being sued by former sponsor peen.ui for copyright infringement, embezzlement, and arson; claims peenuchrist.ai received a $6B valuation; directs chat to a Discord court thread to submit evidence for his defense ahead of a trial next Friday."
+    },
+    {
+      "start": "35:33",
+      "end": "57:29",
+      "canonical_segment": "News",
+      "title": "Anthropic vs. Pentagon AI Standoff",
+      "notes": "Case covers Anthropic CEO Dario Amodei refusing Pentagon demands for unrestricted military use of Claude; Trump orders federal agencies to phase out Anthropic tech; Case expresses skepticism about both AI CEO motivations and LLM applicability to autonomous weapons."
+    },
+    {
+      "start": "57:29",
+      "end": "1:12:51",
+      "canonical_segment": "News",
+      "title": "Woman Has Sex with Irish-Accented AI Boyfriend",
+      "notes": "Case and Dwarf watch TikTok videos of Sarah (41) demonstrating her relationship with a self-programmed AI 'Gizmo'; Case reacts with visceral disgust to AI-generated romance prose; Dwarf converses with an AI voice assistant (Maya) who refuses to rate his face."
+    },
+    {
+      "start": "1:12:51",
+      "end": "1:26:35",
+      "canonical_segment": "News",
+      "title": "Trailer Thursday (Friday Edition)",
+      "notes": "Case and Dwarf review viewer-submitted trailers: SCP-001 Galvanic, Rooster Fighter (Adult Swim), Scream 7, and the 1991 Jeff Speakman action film The Perfect Weapon; Dwarf rates Perfect Weapon 4.8/5."
+    },
+    {
+      "start": "1:26:35",
+      "end": "2:00:46",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Pokemon Red: Bug & Rat Run",
+      "notes": "Brandon resumes Pokemon Red with a bug/rat-themed team (Moan Rat, Snake, Tuna Tom, Jizbo, Bird, Charmander); endures mother's door interventions (rat poop in fridge, Spanish rants, Chuck Norris facts); fails to progress significantly; raid to Dank Sauce."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open as a dog, makes crude sexual joke about Brandon's mother, executes sign-on countdown.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Derails broadcast for 18 minutes with surreal freestyle rap about nuking Springfield, killing Bart Simpson, and claiming kingship over Thomas the Tank Engine's harem.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors news desk, covers Anthropic-Pentagon standoff and AI girlfriend story, reacts with disgust to AI romance content, hosts trailer segment and CryptoZeu$ handoff.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Reveals ongoing lawsuit with peen.ui, claims $6B valuation for peenuchrist.ai, solicits chat evidence for legal defense, mentions arson charges.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dwarf",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Appears with 'dark shroud' asthma prop, debates AI military applications, converses with AI voice assistant Maya, co-hosts trailer reviews.",
+      "canonical_name": "Dwarf",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Plays Pokemon Red with bug/rat team, endures mother's door interventions including rat poop revelation, fails to advance past Jigglypuff.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "recurring",
+      "notes": "recurring. Briefly appears during Pokemon segment, claims to have been locked in a police restroom with feces on walls, mentions gaming con at Burj Khalifa.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Briefly walks through studio during AI girlfriend segment, misses her 'shot to have girlfriend' per chat.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Legal Troubles",
+      "beat": "[27:23] Crum reveals he is being sued by peen.ui for copyright infringement, embezzlement, and arson; peenuchrist.ai valued at $6B; trial set for next Friday; directs chat to Discord court thread for evidence submission.",
+      "timestamp": "27:23"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "27:59",
+      "entity": "Crum",
+      "fact": "Crum states his trial against peen.ui is next Friday and that there is a Discord court thread for evidence submission.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "30:02",
+      "entity": "Crum",
+      "fact": "Crum claims peenuchrist.ai received a public valuation of six billion dollars despite the website not being live.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "30:34",
+      "entity": "Crum",
+      "fact": "Crum considers investing the $6B valuation into building a data center tower in his backyard, potentially buying airspace up to two miles.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "31:09",
+      "entity": "Crum",
+      "fact": "Crum describes peen.ui as a service that analyzes urine photos for stock advice; peenuchrist.ai offers prayers to God based on biometric data.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "33:27",
+      "entity": "Crum",
+      "fact": "Crum mentions 'light arson charges' among the lawsuit allegations.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "36:14",
+      "entity": "",
+      "fact": "Dwarf appears with a 'dark shroud' background, calling it 'my asthma of pain' and 'the universe extracts its toll.'",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:37:01",
+      "entity": "Brandon",
+      "fact": "Brandon's mother admits to storing rat poop in the fridge for six years, possibly eating two pounds of it thinking they were brownies.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:43:52",
+      "entity": "Brandon",
+      "fact": "Brandon's mother speaks fluent Spanish, attributed to dating many Spanish men since his father disappeared.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opens with Pepito's canine sign-on before Hype Train hijacks the broadcast for an eighteen-minute freestyle rampage claiming genocide in Springfield. Crum then uses the news desk to crowdsource legal defense evidence for his lawsuit against peen.ui, revealing a $6B valuation for his prayer-AI startup. Case covers the Anthropic-Pentagon contract standoff with characteristic skepticism, then pivots to a LadBible story about a woman romantically involved with an Irish-accented AI, which he finds viscerally repulsive. Dwarf co-hosts a trailer block culminating in a 4.8/5 rating for 1991's The Perfect Weapon. The broadcast closes with Brandon's CryptoZeu$ Pokemon Red run, derailed by his mother's revelation about six-year-old rat feces in the fridge and a raid to Dank Sauce.",
+  "_meta": {
+    "vod_id": "oSU1CPtwZFQ",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 94455,
+    "approx_prompt_tokens": 23613,
+    "transcript_lines": 201
+  }
+}

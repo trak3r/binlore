@@ -56,15 +56,16 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-06-08|2026-06-08]] | Resident gaming correspondent. Remote from bedroom; battles N64 emulation, mother's screaming, and Glover's inverted controls. |
 | [[episodes/2026-06-05|2026-06-05]] | Gaming and digital culture correspondent broadcasting remotely from his bedroom studio. |
 | [[episodes/2026-05-29|2026-05-29]] | Gaming correspondent playing Boogerman with mother interruptions. |
+| [[episodes/2026-02-28|2026-02-28]] | gaming correspondent. |
 | [[episodes/2026-02-26|2026-02-26]] | gaming correspondent. |
 | [[episodes/2026-02-17|2026-02-17]] | gaming correspondent. |
-| [[episodes/2026-02-14|2026-02-14]] | gaming correspondent. |
 
 <details>
-<summary>Earlier appearances (5)</summary>
+<summary>Earlier appearances (6)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-02-14|2026-02-14]] | gaming correspondent. |
 | [[episodes/2026-02-12|2026-02-12]] | gaming correspondent. |
 | [[episodes/2026-02-10|2026-02-10]] | off-screen antagonist. |
 | [[episodes/2026-02-06|2026-02-06]] | off-screen interference. |
@@ -116,3 +117,5 @@ See also: [[../segments/cryptozeus|CryptoZeu$ (Segment)]], [[characters/brandons
 - **[2:36:31]** ([[episodes/2026-02-12|2026-02-12]]): References stalker 'Goose' (male) and former mod 'X Crane' locked up for years over sponsorship deal; Pastor Joe brings Happy Meals.
 - **[[02:05:22]]** ([[episodes/2026-02-17|2026-02-17]]): Mother calls him 'Bran Bran'; interrupts stream with prayer, shower singing, bathroom updates, and workman complaints.
 - **[[1:33:29]]** ([[episodes/2026-02-26|2026-02-26]]): Mom broke jaw on stairs again; subsists on raw hot dog diet per Pastor Joe; Brandon signed exclusive contract with Slunk streaming service on Russian prison servers.
+- **[1:37:01]** ([[episodes/2026-02-28|2026-02-28]]): Brandon's mother admits to storing rat poop in the fridge for six years, possibly eating two pounds of it thinking they were brownies.
+- **[1:43:52]** ([[episodes/2026-02-28|2026-02-28]]): Brandon's mother speaks fluent Spanish, attributed to dating many Spanish men since his father disappeared.

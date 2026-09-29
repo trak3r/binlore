@@ -51,17 +51,18 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity and Dick Punch wager. |
 | [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (hollow-eyed, bald). Argues for political decorum, reveals Dubai 'classified' social life, honey-bag therapy, claims penile conditioning for gorilla dick-punch. |
 | [[episodes/2026-03-07|2026-03-07]] | Stands trial for peen.ui IP infringement; reveals he co-founded peen.ui, has a 'nasty pig room,' and suffers from labia growing on his… |
+| [[episodes/2026-02-28|2026-02-28]] | debate analyst. |
 | [[episodes/2026-02-26|2026-02-26]] | debate analyst. |
 | [[episodes/2026-02-19|2026-02-19]] | debate analyst. |
 | [[episodes/2026-02-17|2026-02-17]] | debate analyst. |
 | [[episodes/2026-02-14|2026-02-14]] | debate analyst. |
-| [[episodes/2026-02-12|2026-02-12]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (159)</summary>
+<summary>Earlier appearances (160)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-02-12|2026-02-12]] | debate analyst. |
 | [[episodes/2026-02-10|2026-02-10]] | debate analyst. |
 | [[episodes/2026-02-04|2026-02-04]] | debate analyst. |
 | [[episodes/2026-01-24|2026-01-24]] | debate analyst. |
@@ -430,3 +431,8 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[[29:38]]** ([[episodes/2026-02-17|2026-02-17]]): Legal defense fund is for peen.ui, an AI investment that 'went a little shower'.
 - **[]** ([[episodes/2026-02-19|2026-02-19]]): [52:56] Legal trial scheduled next week; defense firm Twyche & At; defense fund fully funded by hype train goal set by Pepito.
 - **[]** ([[episodes/2026-02-19|2026-02-19]]): [01:08:36] Claims total memory loss of death, hell tenure, and DMV assistant manager role; calls prior events 'circus show' and 'smoke and mirrors'.
+- **[27:59]** ([[episodes/2026-02-28|2026-02-28]]): Crum states his trial against peen.ui is next Friday and that there is a Discord court thread for evidence submission.
+- **[30:02]** ([[episodes/2026-02-28|2026-02-28]]): Crum claims peenuchrist.ai received a public valuation of six billion dollars despite the website not being live.
+- **[30:34]** ([[episodes/2026-02-28|2026-02-28]]): Crum considers investing the $6B valuation into building a data center tower in his backyard, potentially buying airspace up to two miles.
+- **[31:09]** ([[episodes/2026-02-28|2026-02-28]]): Crum describes peen.ui as a service that analyzes urine photos for stock advice; peenuchrist.ai offers prayers to God based on biometric data.
+- **[33:27]** ([[episodes/2026-02-28|2026-02-28]]): Crum mentions 'light arson charges' among the lawsuit allegations.
