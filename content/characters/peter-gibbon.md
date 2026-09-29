@@ -43,6 +43,7 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2026-06-19|2026-06-19]] | Former producer now residing in the studio walls, occasionally interrupting segments with commentary. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of 'idiocracy' comment, not actively speaking. |
 | [[episodes/2026-05-29|2026-05-29]] | Mentioned as a stowaway causing a chaos portal incident. |
+| [[episodes/2026-03-17|2026-03-17]] | news stowaway. |
 | [[episodes/2026-03-10|2026-03-10]] | news stowaway. |
 | [[episodes/2026-03-07|2026-03-07]] | Referenced by Case during wrap-up as 'Jeff' in the newsroom. |
 | [[episodes/2026-03-06|2026-03-06]] | news stowaway. |
@@ -55,13 +56,13 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2025-11-27|2025-11-27]] | news stowaway. |
 | [[episodes/2025-10-04|2025-10-04]] | news stowaway. |
 | [[episodes/2025-09-21|2025-09-21]] | news stowaway. |
-| [[episodes/2025-09-11|2025-09-11]] | news stowaway. |
 
 <details>
-<summary>Earlier appearances (74)</summary>
+<summary>Earlier appearances (75)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-09-11|2025-09-11]] | news stowaway. |
 | [[episodes/2025-09-10|2025-09-10]] | news stowaway. |
 | [[episodes/2025-09-05|2025-09-05]] | news stowaway. |
 | [[episodes/2025-09-03|2025-09-03]] | news stowaway. |
@@ -186,3 +187,4 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 - **[02:35:03]** ([[episodes/2025-09-03|2025-09-03]]): Claims to have exited wall permanently; appeared twice on Trip's street interviews [02:35:03, 02:36:05].
 - **[]** ([[episodes/2025-10-04|2025-10-04]]): Claims cosmic wall-being status: 'I'm a wall of fortitude as a person and if you break a wall you can rebuild it.' [46:34]
 - **[]** ([[episodes/2026-01-21|2026-01-21]]): Ate cement, defecated cement, and became stuck to his chair [36:37].
+- **[2:09:16]** ([[episodes/2026-03-17|2026-03-17]]): Claims to eat munitions for sustenance: 'cheap drone and a bunch of multi-million dollar missiles' [2:09:16].

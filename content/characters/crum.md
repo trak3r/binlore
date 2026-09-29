@@ -50,18 +50,19 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-06-18|2026-06-18]] | Senior debate analyst. Hollow-eyed, bald. Demands total abolition of improvisation. Suffers 36-year UTI causing acidic urine. Openly hates Irish people. Wife seeing therapist (referenced). Gambling debts canonical but not mentioned this episode. |
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity and Dick Punch wager. |
 | [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (hollow-eyed, bald). Argues for political decorum, reveals Dubai 'classified' social life, honey-bag therapy, claims penile conditioning for gorilla dick-punch. |
+| [[episodes/2026-03-17|2026-03-17]] | debate analyst. |
 | [[episodes/2026-03-12|2026-03-12]] | debate analyst. |
 | [[episodes/2026-03-10|2026-03-10]] | debate analyst. |
 | [[episodes/2026-03-07|2026-03-07]] | Stands trial for peen.ui IP infringement; reveals he co-founded peen.ui, has a 'nasty pig room,' and suffers from labia growing on his… |
 | [[episodes/2026-03-06|2026-03-06]] | debate analyst. |
 | [[episodes/2026-03-03|2026-03-03]] | debate analyst. |
-| [[episodes/2026-02-28|2026-02-28]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (164)</summary>
+<summary>Earlier appearances (165)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-02-28|2026-02-28]] | debate analyst. |
 | [[episodes/2026-02-26|2026-02-26]] | debate analyst. |
 | [[episodes/2026-02-19|2026-02-19]] | debate analyst. |
 | [[episodes/2026-02-17|2026-02-17]] | debate analyst. |
@@ -444,3 +445,5 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[[1:26:42]]** ([[episodes/2026-03-06|2026-03-06]]): Trial scheduled 2026-03-07 vs peen.ui (AI startup) for copyright infringement or misleading investors; Don Chunder rumored as counsel.
 - **[[27:11]]** ([[episodes/2026-03-10|2026-03-10]]): Claims 90% stakeholder in 'soy meal' company (new derivation of oatmeal, legally neither soy nor oatmeal).
 - **[[01:21:56]]** ([[episodes/2026-03-12|2026-03-12]]): Claims super-strength side effects (tearing doors off hinges, splitting tables) from post-hell fugue state workout regimen.
+- **[1:56:30]** ([[episodes/2026-03-17|2026-03-17]]): Claims he pulled the main studio door off its hinges today with 'untold super strength' [1:56:30].
+- **[46:52]** ([[episodes/2026-03-17|2026-03-17]]): Wearing yellow 'piss jacket' to protest the removal of snakes from Ireland [46:52].

@@ -1,0 +1,195 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "23:46",
+      "canonical_segment": "News",
+      "title": "St. Patrick's Day Cold Open & Sign-On",
+      "notes": "Pepito delivers the station sign-on as 'Papito' in full Irish persona; Hype Train in refractory period; Case and Pepito debate Irish stereotypes, green attire, and historical myths while thanking subscribers."
+    },
+    {
+      "start": "23:46",
+      "end": "48:20",
+      "canonical_segment": "News",
+      "title": "Joe Kent Resigns Over Iran War",
+      "notes": "Case and Chet cover National Counterterrorism Center director Joe Kent's resignation letter stating Iran posed no imminent threat; White House pushes back citing Trump's 'gut feeling'; discussion of Tulsi Gabbard's silence and intelligence assessments."
+    },
+    {
+      "start": "48:20",
+      "end": "1:07:08",
+      "canonical_segment": "News",
+      "title": "Time-Traveling Trump Sketches & Texas Fracker Escort Story",
+      "notes": "Case reads 100-year-old Charles Delch sketches allegedly depicting Trump and Barron; transitions to a western Texas fracker's podcast-to-sex-work pipeline story; Chet reads the headline repeatedly at Case's request."
+    },
+    {
+      "start": "1:07:08",
+      "end": "1:33:30",
+      "canonical_segment": "Trip on the Street",
+      "title": "Park Interviews: Cum Man, Security Guy, Irish Cat, Mountain Man Mike",
+      "notes": "Trip Bradstein fields a parade of park denizens including a self-proclaimed 'cum man,' a resigned national security official (Rob Elvie), a pool cleaner named John Smith, a park ranger fearing for his 'dong song,' an Irish cat, Mountain Man Mike, and a face-shifting regular."
+    },
+    {
+      "start": "1:33:30",
+      "end": "1:54:41",
+      "canonical_segment": "AI Rooney",
+      "title": "AI Rooney Malfunctions: Foot Fetish Ghost in the Machine",
+      "notes": "AI Rooney runs on extreme delay; chat votes 'No luck of the Irish' as cause; Rooney outputs repeated foot-fetish rants despite Case claiming he removed the 'foot thing' from the personality matrix; segment cut short after 15 opinions."
+    },
+    {
+      "start": "1:54:41",
+      "end": "2:06:26",
+      "canonical_segment": "Munch & Crum",
+      "title": "Battle Rap: Does Crum Deserve to Live?",
+      "notes": "Debate prompt: 'Do the people want to see Crum die again?' Crum spirals over pending gorilla dick punch, claims super strength from pulling a door off hinges; Munch and Crum trade verses; Crum's abortion/pro-life confusion derails flow; rapping banned permanently by Case."
+    },
+    {
+      "start": "2:06:26",
+      "end": "2:11:37",
+      "canonical_segment": "News",
+      "title": "Peter Gibbon Wall Emergence & Sign-Off",
+      "notes": "Peter Gibbon crawls out bringing 'wall energy'; claims he eats munitions (drones and missiles); Case ends extra Monday stream, wishes Ricky P. Cochia happy St. Patrick's Day; raid imminent."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered St. Patrick's Day sign-on as 'Papito,' managed Irish-themed cold open and subscriber thank-yous.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored news desk with Chet, hosted Trip on the Street and AI Rooney handoffs, banned rapping after Crum's meltdown.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Co-anchored news desk, read Joe Kent resignation story, repeatedly read Texas fracker headline, interacted with AI Rooney foot-fetish glitch.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Spiraled over pending gorilla dick punch, claimed super strength from door-hinge feat, failed battle rap, triggered permanent rap ban.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Pushed Crum on dick-punch stakes, traded battle verses, called Crum a 'mashed potato essence.'",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted chaotic park interviews with cum man, fake security guy, pool cleaner, park ranger, Irish cat, Mountain Man Mike.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "AI Rooney",
+      "role": "cyborg commentator",
+      "notes": "cyborg commentator. Ran on severe delay, ignored prompts to output repeated foot-fetish rants despite claimed personality matrix removal.",
+      "canonical_name": "AI Rooney",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Emerged from wall at close, claimed to eat munitions (drones and missiles), brought 'wall energy' to sign-off.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype announcer",
+      "notes": "hype announcer. Referenced as in 'refractory period' and ghost-type; did not fully appear.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[1:55:16] Crum references pending gorilla dick punch: 'if people want me dead, I have to get punched in the dick by gorilla'; claims he pulled studio door off hinges with super strength [1:56:30]; Munch says chat wants Crum to die again [1:59:10].",
+      "timestamp": "1:55:16"
+    },
+    {
+      "storyline": "Crum Face Punch",
+      "beat": "[1:57:55] Crum says 'I don't want to die again' referencing prior face-punch death; Munch references hell rescue: 'I went to hell to save your remordous soul' [2:00:45].",
+      "timestamp": "1:57:55"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Claims he pulled the main studio door off its hinges today with 'untold super strength' [1:56:30].",
+      "timestamp": "1:56:30",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Wearing yellow 'piss jacket' to protest the removal of snakes from Ireland [46:52].",
+      "timestamp": "46:52",
+      "confidence": 0.7
+    },
+    {
+      "entity": "AI Rooney",
+      "fact": "Foot-fetish personality matrix supposedly removed by Case but keeps reappearing as a 'ghost in the machine' [1:46:02].",
+      "timestamp": "1:46:02",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Claims to eat munitions for sustenance: 'cheap drone and a bunch of multi-million dollar missiles' [2:09:16].",
+      "timestamp": "2:09:16",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Bans rapping permanently on the network after Crum's battle rap failure [2:05:18].",
+      "timestamp": "2:05:18",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Barely Informed News",
+      "fact": "This is an extra Monday stream; regular Monday streams paused due to workload [2:09:37].",
+      "timestamp": "2:09:37",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "St. Patrick's Day broadcast opens with Pepito's Irish-themed sign-on before Case and Chet cover National Counterterrorism Center director Joe Kent's resignation over the Iran war. Trip Bradstein's park segment descends into sexual chaos, AI Rooney suffers a prolonged foot-fetish glitch despite claimed fixes, and Munch & Crum's battle rap collapses under Crum's existential dread over the pending gorilla dick punch — prompting Case to ban rapping forever. Peter Gibbon emerges from the walls eating munitions to close the extra Monday stream.",
+  "_meta": {
+    "vod_id": "NAGMRCh1EOc",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 110222,
+    "approx_prompt_tokens": 27555,
+    "transcript_lines": 311
+  }
+}

@@ -42,6 +42,7 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 | [[episodes/2026-06-05|2026-06-05]] | Cyborg commentator hosting the AI Rooney grievance machine segment, known for escalating rants and audience-focused criticism. |
 | [[episodes/2026-06-03|2026-06-03]] | Proprietary cyborg commentator (Andy Rooney homage). Delivers viewer complaints via !rr. Suffers repeated 'brain empty' failures, violates age guardrails (references 19-year-old), produces incoherent sexualized rants. Case orders full rebuild. |
 | [[episodes/2026-05-29|2026-05-29]] | Retired cyborg commentator delivering grievance rants. |
+| [[episodes/2026-03-17|2026-03-17]] | cyborg commentator. |
 | [[episodes/2026-01-24|2026-01-24]] | cyborg commentator. |
 | [[episodes/2025-11-27|2025-11-27]] | grievance commentator. |
 | [[episodes/2025-10-02|2025-10-02]] | cyborg commentator. |
@@ -51,7 +52,15 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 | [[episodes/2024-08-22|2024-08-22]] | cyborg commentator. |
 | [[episodes/2024-05-10|2024-05-10]] | AI commentator. |
 | [[episodes/2024-01-17|2024-01-17]] | cyborg commentator. |
+
+<details>
+<summary>Earlier appearances (1)</summary>
+
+| Episode | Notes |
+|---|---|
 | [[episodes/2023-12-12|2023-12-12]] | AI grievance commentator. |
+
+</details>
 
 ## Notable moments
 
@@ -77,3 +86,4 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 - **[]** ([[episodes/2025-10-02|2025-10-02]]): Upgraded server allows 15 synthesized complaints before system gases out; new 'grievance.inless.rooney' pipeline. [00:49:48]
 - **[01:41:00]** ([[episodes/2025-11-27|2025-11-27]]): GPU overloads when processing complaints; every grievance transforms into 'three gallons of golden piss' refrain regardless of input.
 - **[[02:16:52]]** ([[episodes/2026-01-24|2026-01-24]]): Runs on proprietary 'chatai' model; writes notes in efficient 'twin language' with self; can spell 'cat' in 16 letters.
+- **[1:46:02]** ([[episodes/2026-03-17|2026-03-17]]): Foot-fetish personality matrix supposedly removed by Case but keeps reappearing as a 'ghost in the machine' [1:46:02].
