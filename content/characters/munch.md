@@ -39,6 +39,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity. |
 | [[episodes/2026-06-05|2026-06-05]] | Senior debate analyst with distinctive disheveled appearance and confrontational debate style. |
 | [[episodes/2026-05-26|2026-05-26]] | Senior debate analyst known for his disheveled silver hair and combative political style. Engages in heated exchanges with Crum and frequently references his 'Dick Punch' wager storyline. |
+| [[episodes/2026-03-10|2026-03-10]] | debate analyst. |
 | [[episodes/2026-03-07|2026-03-07]] | Appears in wizard attire as immortal skeleton; confirms he is a warlock; missed the trial but compares it to ancient druidic proceedings. |
 | [[episodes/2026-03-06|2026-03-06]] | debate analyst. |
 | [[episodes/2026-03-03|2026-03-03]] | debate analyst. |
@@ -47,13 +48,13 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2026-02-17|2026-02-17]] | debate analyst. |
 | [[episodes/2026-02-14|2026-02-14]] | debate analyst. |
 | [[episodes/2026-02-10|2026-02-10]] | debate analyst. |
-| [[episodes/2026-02-04|2026-02-04]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (150)</summary>
+<summary>Earlier appearances (151)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-02-04|2026-02-04]] | debate analyst. |
 | [[episodes/2026-01-21|2026-01-21]] | debate analyst. |
 | [[episodes/2026-01-06|2026-01-06]] | debate analyst. |
 | [[episodes/2025-12-13|2025-12-13]] | debate analyst. |
@@ -292,3 +293,4 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[]** ([[episodes/2026-01-21|2026-01-21]]): New Munch & Crum poll system deployed: mods can trigger polls via !mc, !munch, !crumb, or !mnc with slash-separated options [2:02:55].
 - **[[01:26:58]]** ([[episodes/2026-03-03|2026-03-03]]): Claims vampire DNA on back of neck from 'fucking a couple of really hot vampire girls,' causing annual blood thirst and garlic intolerance.
 - **[[01:28:37]]** ([[episodes/2026-03-03|2026-03-03]]): Asserts vampires are lactose intolerant for light and garlic; lactate supplements allow sun exposure (cites Stephen Miller).
+- **[[01:26:35]]** ([[episodes/2026-03-10|2026-03-10]]): Claims 311 victory streak ('rocketed me to 311'); references 'Amber is the color of my fucking victory'.

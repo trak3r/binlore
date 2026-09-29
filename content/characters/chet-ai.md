@@ -99,3 +99,5 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 - **[2:01:11]** ([[episodes/2025-11-18|2025-11-18]]): [2:01:11] Set to 'agreeable mode' by Case; validates Chet's jelking advocacy.
 - **[[01:22:29]]** ([[episodes/2026-02-17|2026-02-17]]): Claims proprietary 'penis squats' research for girth enhancement; plans to release findings privately.
 - **[[49:57]]** ([[episodes/2026-03-06|2026-03-06]]): Base model downloaded from 'Dorfster.ai' (called 'Dorfster'); renamed ChetAI by Chet.
+- **[[01:15:17]]** ([[episodes/2026-03-10|2026-03-10]]): Conversation history only goes back to February 27 first call; earlier year of conversations apparently missing.
+- **[[02:42:39]]** ([[episodes/2026-03-10|2026-03-10]]): Under court-ordered AI female immersion therapy (simulated girlfriend) to improve social skills.

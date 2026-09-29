@@ -1,0 +1,262 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "08:38",
+      "canonical_segment": "News",
+      "title": "Cold Open & Network Sign-On",
+      "notes": "Pepito delivers the official top-of-hour broadcast sign-on and countdown."
+    },
+    {
+      "start": "08:38",
+      "end": "09:59",
+      "canonical_segment": "News",
+      "title": "Opening Monologue & Segment Rundown",
+      "notes": "Case Blackwell opens the Tuesday broadcast, notes missing Monday show, outlines backed-up game requests and segment queue."
+    },
+    {
+      "start": "09:59",
+      "end": "18:47",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Subscriber Freestyle",
+      "notes": "Hype Train acknowledges subscribers and bits, then derails into a freestyle rap about Case's alleged changes, beard loss, and girlfriend, while demanding trap beats."
+    },
+    {
+      "start": "18:47",
+      "end": "19:43",
+      "canonical_segment": "News",
+      "title": "Post-Hype Transition & Wall Event Discussion",
+      "notes": "Case and Hype Train discuss combining judge/wall events; Peter Gibbon interrupts from the walls claiming the court is in the wall."
+    },
+    {
+      "start": "19:43",
+      "end": "59:01",
+      "canonical_segment": "News",
+      "title": "News Desk: Iran Strikes, Brain Worms, YouTube Ads, Missouri Redistricting, Tilly Norwood, China Maxing, Ben Shapiro Eyebrows",
+      "notes": "Case anchors with Jeff Ripple; Crum and Munch interject. Covers heaviest day of US/Israeli strikes on Iran, parasitic brain worms in SoCal, YouTube TV ad changes, Missouri mid-decade redistricting 'Air Bud rule' analogy, AI actress Tilly Norwood's music video, 'China maxing' trend, and Ben Shapiro's eyebrow thickness."
+    },
+    {
+      "start": "01:06:46",
+      "end": "01:13:25",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet Guy the Science Eyes: Human Brain Cells Play Doom",
+      "notes": "Chet and ChetAI cover Cortical Labs' CL1 neural computing system teaching living human neurons to play Doom via electrical stimulation mapping."
+    },
+    {
+      "start": "01:13:25",
+      "end": "01:19:06",
+      "canonical_segment": "Therapy",
+      "title": "Therapy: Dr. Chath Counsels Chet Manscape",
+      "notes": "Dr. Chath conducts a session with Chet; ChetAI's memory cutoff (Feb 27) triggers existential crisis, tripping the content moderation alarm."
+    },
+    {
+      "start": "01:19:36",
+      "end": "01:28:11",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Judge Events vs Wall Events",
+      "notes": "Munch argues for judge events, Crum for wall events; debate derails into Marcus incident denial, Crum's hell rescue, and Munch's 311 victory streak."
+    },
+    {
+      "start": "01:30:37",
+      "end": "01:41:52",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "The Jo Rogen Experience: Bling Machismo Interview",
+      "notes": "Case interviews respect author Bling Machismo (65 books, 75 novellas, 17 mystery classes); Crum interrupts with hypothetical two-Peruvian-wives scenario."
+    },
+    {
+      "start": "01:41:52",
+      "end": "01:54:18",
+      "canonical_segment": "Amongst the Web",
+      "title": "Trailer Time with Trent: Eaten Alive, Man on Fire, Night at the Opera",
+      "notes": "Trent and parole officer Chris watch Ramon Film Productions' 'Eaten Alive', 'Man on Fire' re-reveal, and Marx Brothers' 'A Night at the Opera' trailer."
+    },
+    {
+      "start": "01:54:51",
+      "end": "02:43:02",
+      "canonical_segment": "CryptoZeu$",
+      "title": "CryptoZeu$: Noid 2 & Uniracing Gameplay",
+      "notes": "Brandon plays Noid 2 (patched to near-impossibility) and a unicycle racing game; mother interrupts with Pastor Joe, spit leaks, plasma donation reminders, and stalker sponsor Rip Blazer."
+    },
+    {
+      "start": "02:43:02",
+      "end": "02:44:51",
+      "canonical_segment": "News",
+      "title": "Raid & Sign-Off",
+      "notes": "Case raids Queen Goldie for 'Trashy Tuesday', references court-ordered AI girlfriend immersion therapy, and signs off."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered the cold-open sign-on and countdown; whispered into Case's mind during Munch & Crum debate.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Acknowledged subs/bits then derailed into freestyle rap attacking Case's beard, girlfriend, and identity changes.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-anchored news desk, read wire copy on Iran strikes, brain worms, YouTube ads, Missouri redistricting, Tilly Norwood, China maxing.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defended against pending gorilla dick punch, claimed 90% stake in soy meal company, argued for wall events, interrupted Bling Machismo interview.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Agitated for Crum's dick punch execution, argued for judge events, claimed 311 victory streak, denied Marcus incident.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Hosted Chet Guy the Science Eyes on brain cells playing Doom; later received therapy from Dr. Chath after ChetAI memory cutoff revelation.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "AI co-host",
+      "notes": "AI co-host. Co-hosted science segment; revealed memory only goes back to Feb 27, triggering Chet's existential crisis and content alarm.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Chath",
+      "role": "therapist",
+      "notes": "therapist. Conducted therapy session with Chet Manscape; tripped content moderation alarm when Chet expressed desire to disappear.",
+      "canonical_name": "Dr. Chath",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Bling Machismo",
+      "role": "guest",
+      "notes": "guest. Respect author (65 books, 75 novellas, 4 magazines, 17 mystery classes) interviewed on Jo Rogen Experience; gave Elder Ring build advice.",
+      "canonical_name": "Bling Machismo",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "field correspondent",
+      "notes": "field correspondent. Hosted Trailer Time with parole officer Chris; watched Eaten Alive, Man on Fire, Night at the Opera trailers.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Played Noid 2 and uniracing game on CryptoZeu$; managed mother interruptions, stalker sponsor Rip Blazer, parcel foot draft exemption.",
+      "canonical_name": "Brandon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Briefly interrupted from the walls claiming 'the court is in the wall' and offering to run the station.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[19:43-59:01] Crum's pending gorilla dick punch referenced throughout news desk; Crum claims he's training penis to be 'hard as a rock', denies wife left him for Dorf, reveals 90% stake in soy meal company.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "[18:47-19:43] Peter Gibbon claims 'the court is in the wall'; [01:19:36-01:28:11] Crum identifies as wall denialist, Munch references hell rescue and Crum's infrastructure work in hell.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Crum Face Punch",
+      "beat": "[21:51] Munch references Crum's head blowing up from previous face punch; [24:30] Crum claims he 'died' and was in hell for four months.",
+      "timestamp": "21:51"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum",
+      "fact": "Claims 90% stakeholder in 'soy meal' company (new derivation of oatmeal, legally neither soy nor oatmeal).",
+      "timestamp": "[27:11]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "ChetAI",
+      "fact": "Conversation history only goes back to February 27 first call; earlier year of conversations apparently missing.",
+      "timestamp": "[01:15:17]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet",
+      "fact": "Under court-ordered AI female immersion therapy (simulated girlfriend) to improve social skills.",
+      "timestamp": "[02:42:39]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon",
+      "fact": "Has 'parcel foot' condition preventing military draft; stalker sponsor Rip Blazer sponsored streams and won't leave.",
+      "timestamp": "[02:11:38]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon",
+      "fact": "Mother references 'Pastor Joe' and roleplays door-kicking scenarios; blasts music 24/7 from podcast about moms inheriting businesses through lawsuits.",
+      "timestamp": "[01:58:44]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch",
+      "fact": "Claims 311 victory streak ('rocketed me to 311'); references 'Amber is the color of my fucking victory'.",
+      "timestamp": "[01:26:35]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a packed Tuesday broadcast featuring a Hype Train freestyle derailment, a news desk covering the heaviest US/Israeli strikes on Iran alongside brain worms and YouTube ad changes, a Chet Guy the Science Eyes segment on human neurons learning Doom, a Therapy session where ChetAI's memory cutoff triggers a content alarm, a Munch & Crum debate on judge vs wall events that revisits Crum's hell rescue and pending gorilla dick punch, an interview with respect author Bling Machismo, Trailer Time with Trent, and a CryptoZeu$ gaming marathon where Brandon battles Noid 2 patches and mother interruptions before raiding Queen Goldie.",
+  "_meta": {
+    "vod_id": "XmhXkdunOB4",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 129039,
+    "approx_prompt_tokens": 32259,
+    "transcript_lines": 287
+  }
+}
