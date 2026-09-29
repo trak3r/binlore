@@ -1,0 +1,191 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "00:16:00",
+      "end": "00:34:00",
+      "title": "Friday Chat News & Kendall Walk-By",
+      "notes": "Case covers Minnesota clergy arrests, Spanish fire-horse tradition, AI girlfriend adoption story, Trump wind power claims, Minneapolis general strike, YouTube AI slop acknowledgment, and mushroom hallucinations; Kendelle makes brief walk-through cameo."
+    },
+    {
+      "canonical_segment": "CryptoZeu$",
+      "start": "01:05:32",
+      "end": "01:59:16",
+      "title": "Baseball Stars USA with Brandon's Mom Chaos",
+      "notes": "Brandon (CryptoZeu$) attempts NES Baseball Stars USA while his mother constantly interrupts from behind the bedroom door with muffled commentary on foreskin stretching, meme coins, life alert, microwaved iPod portals, and poisoned schoolchildren."
+    },
+    {
+      "canonical_segment": "AI Rooney",
+      "start": "01:59:16",
+      "end": "02:24:17",
+      "title": "AI Rooney Complaint Synthesis Malfunction",
+      "notes": "Case and ChetAI activate AI Rooney to process viewer complaints; the robot repeatedly derails into generic foot-smell rants and sparks/glitches, forcing Case to cut it off early."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "start": "02:24:17",
+      "end": "02:41:47",
+      "title": "Left-Handed Fridge Opening, Surprise Proposals, Boiling Water & Dirty Talk",
+      "notes": "Jeb Nogget hosts instructional segment from his workshop with his deceased father's spirit in a wooden board; covers left-handed fridge access, surprise marriage proposals, boiling water, and a dirty-talk tutorial that devolves into Case/Kendelle flirtation."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored news block, hosted CryptoZeu$ handoff, moderated AI Rooney malfunction, co-hosted How To with Jeb and flirted with Kendelle.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold-open sign-on as dog, attempted to manage Hype Train derailment.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Opened broadcast with freestyle rap over Snorks/Dilbert beats, acknowledged subs, then died out.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Appeared as 'Scrum' during news block, debated screenshot vs screenshoted with Case, revealed poison master and ex-mayor status.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through studio during news block, discussed Silent Hill movie and Peak game, stayed for How To segment and dirty-talk practice with Case.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Played Baseball Stars USA on NES via RetroArch while mother constantly interrupted from behind door; revealed legal guardianship of mom and roadkill-room designation.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "AI Rooney",
+      "role": "cyborg commentator",
+      "notes": "cyborg commentator. Activated for complaint synthesis but glitched repeatedly into foot-smell rants and sparking malfunctions.",
+      "canonical_name": "AI Rooney",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "neural co-host",
+      "notes": "neural co-host. Briefly assisted Case with AI Rooney activation and complaint queue management.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosted How To segment from workshop with father's spirit in wooden board; covered fridge opening, proposals, boiling water, dirty talk.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "CryptoZeu$",
+      "beat": "[2026-01-24] Brandon debuts as CryptoZeu$ correspondent on BIN main channel; his mother's dual-mouth interruptions and kayak-foreskin lore established.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "AI Rooney",
+      "beat": "[2026-01-24] AI Rooney reactivated after retirement; complaint synthesis fails due to foot-fetish training bias and hardware sparking.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "How To with Jeb",
+      "beat": "[2026-01-24] Jeb returns with father's spirit in wooden board; segment derails into Case/Kendelle dirty-talk rehearsal.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "Mother calls him 'Bran Bran' and 'B-boy brand'; has second mouth on stomach; legally declared guardian of mother after role swap.",
+      "timestamp": "[01:06:09]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "Room legally designated state dumping ground for animal roadkill overflow.",
+      "timestamp": "[01:24:20]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "Mother poisoned 78 eight-year-olds with spoiled milkshakes in schoolyard.",
+      "timestamp": "[01:55:47]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "Mother microwaves his iPod nano which opens purple portal with 'gregory enchanting' from garbage disposal.",
+      "timestamp": "[01:48:30]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Has a poison master; was mayor of a town, now ex-mayor with 16 bodyguards on staff.",
+      "timestamp": "[02:09:08]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Case and Crum describe their dynamic as 'hate to love type deal'; Crum and Belulia back to sleeping in same bed.",
+      "timestamp": "[02:05:38]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "Father's spirit permanently trapped in wooden board; they bicker on air.",
+      "timestamp": "[02:25:12]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "AI Rooney",
+      "fact": "Runs on proprietary 'chatai' model; writes notes in efficient 'twin language' with self; can spell 'cat' in 16 letters.",
+      "timestamp": "[02:16:52]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "BIN's Friday broadcast opened with Pepito and a glitching Hype Train, moved into a news block covering Minnesota clergy arrests and Spanish fire-horse rituals interrupted by a Kendelle walk-by, then handed off to new gaming correspondent Brandon (CryptoZeu$) whose NES Baseball Stars session was derailed by his mother's constant dual-mouth interruptions from behind the bedroom door. The show continued with a malfunctioning AI Rooney complaint segment that fixated on foot smells, and closed with Jeb Nogget's How To workshop featuring his deceased father's spirit in a wooden board, which devolved into Case and Kendelle rehearsing dirty talk and surprise proposals.",
+  "_meta": {
+    "vod_id": "_yLP5yrqUDk",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 130167,
+    "approx_prompt_tokens": 32541,
+    "transcript_lines": 308
+  }
+}

@@ -50,6 +50,7 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2026-07-17|2026-07-17]] | How-To host. Co-hosted instructional triple-feature on vocal aerobics, advanced finger snapping, and self-massage. |
 | [[episodes/2026-06-22|2026-06-22]] | Mentioned in reference to 'the two Jebs' during merch brainstorming. |
 | [[episodes/2026-06-15|2026-06-15]] | Host of 'How To with Jeb', demonstrates Kool-Aid recipe. |
+| [[episodes/2026-01-24|2026-01-24]] | instructional host. |
 | [[episodes/2026-01-06|2026-01-06]] | instructional host. |
 | [[episodes/2025-12-13|2025-12-13]] | instructional host. |
 | [[episodes/2025-12-04|2025-12-04]] | How To Host. |
@@ -66,13 +67,13 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2025-08-23|2025-08-23]] | instructional host. |
 | [[episodes/2025-08-21|2025-08-21]] | instructional host. |
 | [[episodes/2025-07-30|2025-07-30]] | instructional host. |
-| [[episodes/2025-07-24|2025-07-24]] | instructional host. |
 
 <details>
-<summary>Earlier appearances (38)</summary>
+<summary>Earlier appearances (39)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-07-24|2025-07-24]] | instructional host. |
 | [[episodes/2025-07-01|2025-07-01]] | instructional host. |
 | [[episodes/2025-06-19|2025-06-19]] | instructional host. |
 | [[episodes/2025-05-01|2025-05-01]] | instructional host. |
@@ -160,3 +161,4 @@ See also: [[../segments/how-to-with-jeb|How To with Jeb]], [[../characters/index
 - **[[02:52:47]]** ([[episodes/2025-09-05|2025-09-05]]): Suffered a 50-foot fall into a dry stone well, requiring reconstructive facial surgery.
 - **[]** ([[episodes/2025-11-25|2025-11-25]]): [01:50:18] Dad's spirit temporarily untethers from the wooden board, confined to a single room/frame.
 - **[01:33:12]** ([[episodes/2025-12-13|2025-12-13]]): [01:33:12] Jeb confirms he is dead ('you're dead and you're in the wood') and has been in good mood lately.
+- **[[02:25:12]]** ([[episodes/2026-01-24|2026-01-24]]): Father's spirit permanently trapped in wooden board; they bicker on air.

@@ -7,7 +7,7 @@ aliases:
   - Brandon
   - Bran Bran
   - Crypto Zeus
-first_seen: 2026-05-29
+first_seen: 2026-01-24
 status: recurring
 tags:
   - character
@@ -56,13 +56,9 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-06-08|2026-06-08]] | Resident gaming correspondent. Remote from bedroom; battles N64 emulation, mother's screaming, and Glover's inverted controls. |
 | [[episodes/2026-06-05|2026-06-05]] | Gaming and digital culture correspondent broadcasting remotely from his bedroom studio. |
 | [[episodes/2026-05-29|2026-05-29]] | Gaming correspondent playing Boogerman with mother interruptions. |
+| [[episodes/2026-01-24|2026-01-24]] | gaming correspondent. |
 
 ## Notable moments
-
-
-
-
-
 
 - **[1:26:47]** ([[episodes/2026-09-02|2026-09-02]]): Delivers extended *Jill of the Jungle* gameplay commentary interspersed with Gooters sponsorship spots and maternal arguments.
 - **[24:51]** ([[episodes/2026-09-04|2026-09-04]]): Newsroom inquiries regarding his origins clarify that Brandon was extracted from the "crypto universe" prior to joining the network.
@@ -93,3 +89,7 @@ See also: [[../segments/cryptozeus|CryptoZeu$ (Segment)]], [[characters/brandons
 - **[65:43]** ([[episodes/2026-09-01|2026-09-01]]): Mom mentions Pastor Joe is coming over that night and gets upset that Brandon's grunting 'puts mama in a moon.'
 - **[80:30]** ([[episodes/2026-09-01|2026-09-01]]): Mom claims her Italian bicycle 'intimidates people into thinking that I do sports' and protects her house because people assume she's like Lance Armstrong.
 - **[01:17:00]** ([[episodes/2026-09-07|2026-09-07]]): Streamed Intelligent Qube (PS1) via keyboard after controller connection failures, proclaiming his superior spatial IQ.
+- **[[01:06:09]]** ([[episodes/2026-01-24|2026-01-24]]): Mother calls him 'Bran Bran' and 'B-boy brand'; has second mouth on stomach; legally declared guardian of mother after role swap.
+- **[[01:24:20]]** ([[episodes/2026-01-24|2026-01-24]]): Room legally designated state dumping ground for animal roadkill overflow.
+- **[[01:55:47]]** ([[episodes/2026-01-24|2026-01-24]]): Mother poisoned 78 eight-year-olds with spoiled milkshakes in schoolyard.
+- **[[01:48:30]]** ([[episodes/2026-01-24|2026-01-24]]): Mother microwaves his iPod nano which opens purple portal with 'gregory enchanting' from garbage disposal.

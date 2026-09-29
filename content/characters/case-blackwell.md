@@ -222,3 +222,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[30:35]** ([[episodes/2025-12-13|2025-12-13]]): [30:35] Kendelle asks when Case ends stream to play Dominion; Case says ~7 PM.
 - **[05:55]** ([[episodes/2025-12-16|2025-12-16]]): Case Blackwell and Kendelle cohabitate in the same residence.
 - **[[09:30]]** ([[episodes/2025-12-18|2025-12-18]]): Hair described as 'in a special state' and progressively crazier throughout stream.
+- **[[02:05:38]]** ([[episodes/2026-01-24|2026-01-24]]): Case and Crum describe their dynamic as 'hate to love type deal'; Crum and Belulia back to sleeping in same bed.
