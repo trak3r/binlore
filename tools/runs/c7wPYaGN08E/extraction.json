@@ -1,0 +1,198 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "05:02",
+      "canonical_segment": "News",
+      "title": "Pepito Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the official broadcast sign-on, announces Grunchmas Friday brunch, and jokes about executive orders rescheduling days of the week."
+    },
+    {
+      "start": "08:09",
+      "end": "20:51",
+      "canonical_segment": "News",
+      "title": "News Desk Opening & Hype Train Emergence",
+      "notes": "Case Blackwell opens the broadcast solo, discusses holiday plans and hair, then Hype Train materializes to freestyle about cloacas and cocaine excrement."
+    },
+    {
+      "start": "10:21",
+      "end": "20:30",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Cloaca Freestyle & Sub Acknowledgements",
+      "notes": "Hype Train derails into a surreal rap about cloacas as 'breasts of the neck,' train excrement as cocaine, and processes subscriber bits while Case tries to move to news."
+    },
+    {
+      "start": "21:15",
+      "end": "27:27",
+      "canonical_segment": "News",
+      "title": "Jeff Ripple Reports: Trump Cloacas & Rob Reiner Death",
+      "notes": "Jeff Ripple joins; they debate terminology for Trump's Truth Social posts (settling on 'cloacas'), cover Rob Reiner's alleged murder by his son, and read Trump's vindictive statement."
+    },
+    {
+      "start": "27:48",
+      "end": "43:08",
+      "canonical_segment": "News",
+      "title": "Live Reaction: Trump Addresses the Nation",
+      "notes": "Case and Jeff watch Trump's live speech covering $18T investment claims, tariffs, gas prices, housing reform, border invasion rhetoric, and job creation numbers."
+    },
+    {
+      "start": "44:46",
+      "end": "01:09:50",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web: Blood Patio, Holes Debate & Pastor Meltdown",
+      "notes": "Rick (as 'Clementine'/'Big Cheddar') hosts viewer submissions: a bloody patio cleanup, a 'liking holes' debate, a bird video, a pig-dog encounter, and a 16-year-old tech reviewer blowup."
+    },
+    {
+      "start": "01:09:50",
+      "end": "01:27:15",
+      "canonical_segment": "Therapy",
+      "title": "Therapy: Dr. Chath's 'Exclamation Point H' Technique",
+      "notes": "Dr. Chath debuts a new therapeutic method triggered by '!h'; Case endures insults, AI diplomas, and questions about girth, JD Vance comparisons, and Crum. Kendall calls in with a toe-hole concern."
+    },
+    {
+      "start": "01:27:15",
+      "end": "01:42:03",
+      "canonical_segment": "News",
+      "title": "Trent at the Movies: Alien Popcorn Throats & Melania Trailer",
+      "notes": "Trailer reviews include a popcorn-throated alien horror, a Melania Trump documentary teased as 'prostitute to prostitute,' and an orca thriller compared to 'black Jaws.'"
+    },
+    {
+      "start": "01:42:03",
+      "end": "02:21:50",
+      "canonical_segment": "DJ C4",
+      "title": "DJ C4 Song Production: 'What Do I Even Do Here' for Jan the Intern",
+      "notes": "Case and DJ C4 compose a hyper-pop track for intern Jan using viewer lyrics; Kendall and ghost-Kendall provide vocals; chorus centers on 'I'm an intern bitch.'"
+    },
+    {
+      "start": "02:21:50",
+      "end": "02:24:22",
+      "canonical_segment": "News",
+      "title": "Wrap-Up: Grunchmas Friday & Raid",
+      "notes": "Case confirms Grunchmas Friday at 3 PM, notes unpaid 'Circle the Crunch' debt for Jan, and raids Danny."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the full broadcast: news desk, Trump speech reaction, Amongst the Web co-host, therapy patient, and song producer.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered the cold-open station sign-on and announced Grunchmas Friday brunch plans.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Derailed the early broadcast with a surreal cloaca-themed freestyle rap and processed subscriber bits while claiming to excrete cocaine.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "host of Amongst the Web",
+      "notes": "host of Amongst the Web. Hosted Amongst the Web as 'Clementine'/'Big Cheddar,' rating viewer submissions including a bloody patio, holes discourse, and a 16-year-old tech drama.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Chath",
+      "role": "therapist",
+      "notes": "therapist. Conducted a therapy session using new '!h' technique, insulted Case, revealed AI-generated diplomas, and probed Case's coworkers as fractured personality aspects.",
+      "canonical_name": "Dr. Chath",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Called into therapy with a 'hole as big toe' concern, then returned as ghost-Kendall to record vocals for the hyper-pop intern song.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ C4",
+      "role": "musical producer",
+      "notes": "musical producer. Produced the hyper-pop track 'What Do I Even Do Here' for intern Jan, sourcing a Charli XCX instrumental and directing vocal takes.",
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[47:22] Case acknowledges the Beyblade competition is still pending: 'We still have to do the Beyblade competition thing. Currently the sub stuff is disabled. I'm rebuilding it.'",
+      "timestamp": "47:22"
+    },
+    {
+      "storyline": "Grunchmas Friday",
+      "beat": "[02:22:27] Case confirms Grunchmas Friday stream targeting 3 PM start, with assets ready and a populated thread at cream.team.",
+      "timestamp": "02:22:27"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Hype Train",
+      "fact": "Face remains 'lightly blue' and claims to slip in and out of reality when Case fails to sustain hype; consumes hype and excretes cocaine from smokestack.",
+      "timestamp": "[12:02]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Hair described as 'in a special state' and progressively crazier throughout stream.",
+      "timestamp": "[09:30]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Dr. Chath",
+      "fact": "Therapy diplomas are AI-generated gibberish; new technique triggered by chat command '!h'.",
+      "timestamp": "[01:17:11]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Has a 'hole as my big toe' (mole-like) preventing open-toe shoes; appears as 'ghost Kendall' during song production.",
+      "timestamp": "[01:22:22]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jan the Intern",
+      "fact": "Subject of commissioned hyper-pop song 'What Do I Even Do Here'; described as 'lovely young lady with curly hair.'",
+      "timestamp": "[01:42:58]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Circle the Crunch",
+      "fact": "Unpaid debt: Jan was requested for 'Circle the Crunch' but never delivered.",
+      "timestamp": "[02:23:39]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a chaotic Monday broadcast featuring Hype Train's cloaca-obsessed freestyle, Jeff Ripple's coverage of Trump's vindictive Rob Reiner statement and a live presidential address reaction, Rick's Amongst the Web video reviews, a surreal Dr. Chath therapy session with Kendall's toe-hole revelation, and an extended DJ C4 song-production block crafting a hyper-pop anthem for intern Jan. The episode closes with Grunchmas Friday confirmed for 3 PM and a raid on Danny.",
+  "_meta": {
+    "vod_id": "c7wPYaGN08E",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 104506,
+    "approx_prompt_tokens": 26126,
+    "transcript_lines": 263
+  }
+}

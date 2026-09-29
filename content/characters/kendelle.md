@@ -44,6 +44,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-06-19|2026-06-19]] | Lead anchor and in-studio contributor who periodically enters the broadcast for signature segments. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in birthday context, not actively speaking. |
 | [[episodes/2026-06-05|2026-06-05]] | Lead anchor and on-air contributor who walks through the studio for signature segments. |
+| [[episodes/2025-12-18|2025-12-18]] | in-studio contributor. |
 | [[episodes/2025-12-16|2025-12-16]] | in-studio contributor. |
 | [[episodes/2025-12-13|2025-12-13]] | in-studio contributor. |
 | [[episodes/2025-12-06|2025-12-06]] | in-studio contributor. |
@@ -54,13 +55,13 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-10-20|2025-10-20]] | in-studio contributor. |
 | [[episodes/2025-10-18|2025-10-18]] | in-studio contributor. |
 | [[episodes/2025-10-16|2025-10-16]] | in-studio contributor. |
-| [[episodes/2025-10-13|2025-10-13]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (169)</summary>
+<summary>Earlier appearances (170)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-10-13|2025-10-13]] | in-studio contributor. |
 | [[episodes/2025-10-10|2025-10-10]] | in-studio contributor. |
 | [[episodes/2025-10-09|2025-10-09]] | in-studio contributor. |
 | [[episodes/2025-10-06|2025-10-06]] | in-studio contributor. |
@@ -316,3 +317,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[[41:36]]** ([[episodes/2025-12-06|2025-12-06]]): Has been sick with cough, didn't sleep for two nights, took 90-minute nap before stream.
 - **[[43:02]]** ([[episodes/2025-12-06|2025-12-06]]): Lactose intolerant; lactase supplements don't work for her; gets bloated and bathroom issues from dairy.
 - **[30:58]** ([[episodes/2025-12-13|2025-12-13]]): [30:58] Kendelle returned from Philadelphia; claims it wasn't that cold despite family disagreement.
+- **[[01:22:22]]** ([[episodes/2025-12-18|2025-12-18]]): Has a 'hole as my big toe' (mole-like) preventing open-toe shoes; appears as 'ghost Kendall' during song production.

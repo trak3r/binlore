@@ -224,3 +224,4 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[[11:46]]** ([[episodes/2025-09-26|2025-09-26]]): Explicitly denies having sex, stating 'I'm a train'; describes hell as eternal constipation where 'you're just a running faucet' of waste.
 - **[01:16:58]** ([[episodes/2025-11-27|2025-11-27]]): Appeared translucent during hype train segment.
 - **[]** ([[episodes/2025-12-04|2025-12-04]]): Hype Train manifested in a translucent 'ghost mode' with no explanation. [09:48]
+- **[[12:02]]** ([[episodes/2025-12-18|2025-12-18]]): Face remains 'lightly blue' and claims to slip in and out of reality when Case fails to sustain hype; consumes hype and excretes cocaine from smokestack.
