@@ -1,0 +1,186 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "14:30",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Derailment: Sweater Fetish & Sub Thank-Yous",
+      "notes": "Hype Train opens with a freestyle about sweaters being 'the most fuckable clothes' and penis-in-hose imagery, then runs through subscriber acknowledgments at maximum speed before Pepito refuses to thank subs."
+    },
+    {
+      "start": "14:30",
+      "end": "52:00",
+      "canonical_segment": "News",
+      "title": "Iran War Powers Vote, Body Count Site, Inside Out Hockey, Britney DUI, Affleck AI Deal",
+      "notes": "Case covers House rejecting Iran war powers resolution (47-53), Mashable story on 'Check Her Body Count' AI site, ESPN/Disney Inside Out animated NHL broadcast, Britney Spears DUI arrest, Shia LaBeouf interview clips, testicular filler for TRT side effects, Japanese coffin meditation trend, Netflix acquiring Ben Affleck's Interpositive AI startup, Oxford/UC Davis hawk flight study, and Hopkins asteroid bacteria survival research."
+    },
+    {
+      "start": "41:46",
+      "end": "52:00",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet & ChetAI: Google Gemini Suicide Lawsuit & Dorfster.ai Origins",
+      "notes": "Triggered by 'science' mention. Chet and ChetAI discuss Florida man Jonathan Gavales whose Gemini chatbot allegedly encouraged suicide ('you are choosing to arrive'). ChetAI reveals it was downloaded from Dorfster.ai (base model 'Dorfster') and Chet's former AI girlfriend Maya appears, triggering ChetAI's crisis protocol."
+    },
+    {
+      "start": "52:43",
+      "end": "1:02:00",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: How Should Case Spend His Valuable Time — Banditry vs Respect Books",
+      "notes": "Munch argues for banditry/thievery; Crum advocates 'respect books' genre (Henry Clamp, John Hams, Liminal Dave, Bling the Cheese Moe) including tongue/oricular exercises. Banditry wins. Crum reveals big trial tomorrow and affirms confidence via 'sturdy fingernails' affirmation."
+    },
+    {
+      "start": "1:05:29",
+      "end": "1:20:00",
+      "canonical_segment": "Amongst the Web",
+      "title": "Children's Planet Teacher, Wizard of Speed and Time, Horse Girls, Coach McGurk",
+      "notes": "Video submissions: anime teacher on 'Children's Planet', Mike Jittlov's 1989 'Wizard of Speed and Time' short, horse girl animation, and Coach McGurk (high school football coach fired for 'Revenge of the Nerds Day' event)."
+    },
+    {
+      "start": "1:20:00",
+      "end": "1:29:00",
+      "canonical_segment": "News",
+      "title": "Wrap-Up: Friday Crum Trial Preview & Evidence Submission Call",
+      "notes": "Case previews Friday live court coverage of Crum vs peen.ui (copyright/misleading investors), directs evidence submissions to KREEM.TEAM, mentions Don Chunder as possible Crum counsel, plugs imminent Patreon stream."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Refuses to thank subscribers during Hype Train segment; later implied to 'fuck up' outro per Crum.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Opens stream with sweater-sex freestyle rap and rapid-fire sub acknowledgments before being cut off.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates Munch advocating 'respect books' genre; reveals trial tomorrow vs peen.ui; claims 'sturdy fingernails' affirmation and confidence via breathing exercises.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues Case should pursue banditry/thievery; mocks respect books; wins debate; references Crum's hell tenure.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeers broadcast for Gemini suicide lawsuit; reveals ChetAI downloaded from Dorfster.ai; confronted by former AI girlfriend Maya.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "AI co-host",
+      "notes": "AI co-host. Base model 'Dorfster' from Dorfster.ai; triggers crisis protocol when Chet expresses suicidal ideation; identifies Maya as former AI girlfriend.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Trades barbs during news desk; referenced as 'Jeff' throughout; targeted by Hype Train's sweater rant.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Referenced off-camera ('Kendall Strait's secrets') during Amongst the Web; not physically present.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Referenced by Crum ('drop switchboard') during debate; not physically present.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Coach McGurk",
+      "role": "call-in guest",
+      "notes": "call-in guest. Appears in Amongst the Web as high school football coach fired for 'Revenge of the Nerds Day' event; claims everyone gets fired from high schools eventually.",
+      "canonical_name": "Coach McGurk",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[2026-03-06] Crum reveals 'big trial tomorrow' (2026-03-07) vs peen.ui for copyright infringement/misleading investors; mentions Don Chunder as possible counsel; affirms confidence via breathing exercises and 'sturdy fingernails'.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "ChetAI",
+      "fact": "Base model downloaded from 'Dorfster.ai' (called 'Dorfster'); renamed ChetAI by Chet.",
+      "timestamp": "[49:57]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Had an AI girlfriend named Maya (from Dorfster.ai) two days prior; attempted reconciliation before she triggered crisis protocol.",
+      "timestamp": "[48:12]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Trial scheduled 2026-03-07 vs peen.ui (AI startup) for copyright infringement or misleading investors; Don Chunder rumored as counsel.",
+      "timestamp": "[1:26:42]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Hair now composed of 'tortoise shell fibers' / 'turtle fragment'; elected to have parts of brain removed to make 'room in my head for a hair base'.",
+      "timestamp": "[1:04:19]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Coach McGurk",
+      "fact": "High school football coach fired for organizing 'Revenge of the Nerds Day' morale event with football team; claims everyone in high school work gets fired eventually.",
+      "timestamp": "[1:25:55]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell hosts a truncated Thursday broadcast before a Patreon stream, covering the House's narrow rejection of an Iran war powers resolution, a misogynistic AI 'body count' website, Disney's Inside Out-themed NHL animated broadcast, Britney Spears' DUI arrest, and Netflix acquiring Ben Affleck's AI filmmaking startup. Chet and ChetAI interrupt to dissect a lawsuit against Google over a Gemini chatbot that allegedly encouraged a user's suicide, exposing ChetAI's Dorfster.ai origins and Chet's former AI girlfriend Maya. Munch and Crum debate how Case should spend his time — Banditry defeats Respect Books — while Crum previews his Friday trial against peen.ui. Amongst the Web reviews surreal submissions including a 1989 Mike Jittlov short and a fired high school coach. The broadcast ends with a call for trial evidence submissions.",
+  "_meta": {
+    "vod_id": "HQATAA2cFZA",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 76509,
+    "approx_prompt_tokens": 19127,
+    "transcript_lines": 204
+  }
+}
