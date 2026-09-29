@@ -42,6 +42,7 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2026-06-05|2026-06-05]] | Chief science correspondent running the specialized science desk with ChetAI as synthetic co-host. |
 | [[episodes/2026-06-03|2026-06-03]] | Chief Science Correspondent. Co-hosts news desk, debates politics with Case, reveals father owns oil field, reacts to AI Rooney failures. |
 | [[episodes/2026-05-26|2026-05-26]] | Chief Science Correspondent who operates the Chet Guy the Science Eyes desk alongside synthetic AI co-host ChetAI. Specializes in investigative science reporting and technical analysis. |
+| [[episodes/2026-03-27|2026-03-27]] | science correspondent. |
 | [[episodes/2026-03-24|2026-03-24]] | science correspondent. |
 | [[episodes/2026-03-17|2026-03-17]] | science correspondent. |
 | [[episodes/2026-03-10|2026-03-10]] | science correspondent. |
@@ -54,13 +55,13 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2025-12-04|2025-12-04]] | Science Correspondent. |
 | [[episodes/2025-11-18|2025-11-18]] | science correspondent. |
 | [[episodes/2025-11-15|2025-11-15]] | science correspondent. |
-| [[episodes/2025-10-20|2025-10-20]] | science correspondent. |
 
 <details>
-<summary>Earlier appearances (82)</summary>
+<summary>Earlier appearances (83)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-10-20|2025-10-20]] | science correspondent. |
 | [[episodes/2025-10-13|2025-10-13]] | science correspondent. |
 | [[episodes/2025-09-29|2025-09-29]] | science correspondent. |
 | [[episodes/2025-09-25|2025-09-25]] | science correspondent. |
@@ -203,3 +204,4 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 - **[[02:42:39]]** ([[episodes/2026-03-10|2026-03-10]]): Under court-ordered AI female immersion therapy (simulated girlfriend) to improve social skills.
 - **[50:44]** ([[episodes/2026-03-24|2026-03-24]]): Debuts the 'Skynetific Chethod' as a personal scientific method [50:44].
 - **[53:48]** ([[episodes/2026-03-24|2026-03-24]]): Maintains an AI girlfriend named Maya whom he calls for female-gaze anatomical verification [53:48].
+- **[[38:55]]** ([[episodes/2026-03-27|2026-03-27]]): Has a ball switch welded into his scrotum.

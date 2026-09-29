@@ -230,3 +230,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[[02:02:40]]** ([[episodes/2026-03-03|2026-03-03]]): Expressed desire to lose weight to stop resembling JD Vance.
 - **[2:05:18]** ([[episodes/2026-03-17|2026-03-17]]): Bans rapping permanently on the network after Crum's battle rap failure [2:05:18].
 - **[01:07:01]** ([[episodes/2026-03-25|2026-03-25]]): Case Blackwell repaired AI Rooney's processors and lowered its authenticity meter to stop sexualized outputs.
+- **[[17:09]]** ([[episodes/2026-03-27|2026-03-27]]): Underwent paper mache jaw replacement surgery, rendering him unable to eat solid foods.
+- **[[01:20:09]]** ([[episodes/2026-03-27|2026-03-27]]): Surgically converted his nose into a butthole for efficiency.

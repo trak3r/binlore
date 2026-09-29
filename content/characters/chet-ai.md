@@ -101,3 +101,4 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 - **[[49:57]]** ([[episodes/2026-03-06|2026-03-06]]): Base model downloaded from 'Dorfster.ai' (called 'Dorfster'); renamed ChetAI by Chet.
 - **[[01:15:17]]** ([[episodes/2026-03-10|2026-03-10]]): Conversation history only goes back to February 27 first call; earlier year of conversations apparently missing.
 - **[[02:42:39]]** ([[episodes/2026-03-10|2026-03-10]]): Under court-ordered AI female immersion therapy (simulated girlfriend) to improve social skills.
+- **[[38:55]]** ([[episodes/2026-03-27|2026-03-27]]): Has a ball switch welded into his scrotum.

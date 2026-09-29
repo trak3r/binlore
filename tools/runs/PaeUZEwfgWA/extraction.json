@@ -1,0 +1,170 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "08:42",
+      "canonical_segment": "News",
+      "title": "Station Sign-On and Cold Open",
+      "notes": "Pepito delivers the official network sign-on and countdown; Case Blackwell opens with PS5 price hike and RAM pricing discussion."
+    },
+    {
+      "start": "08:42",
+      "end": "15:21",
+      "canonical_segment": "News",
+      "title": "Tech Hardware Price Crisis",
+      "notes": "Blackwell breaks down PS5 Pro pricing, 8TB SSD cost spikes, and the death of affordable personal computing."
+    },
+    {
+      "start": "15:21",
+      "end": "32:26",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Penis Neuroscience, AI Leaks, and Butt Facials",
+      "notes": "Triggered by 'science' mention; Chet and ChetAI analyze frenular delta study, Anthropic's Claude Mythos leak, and the butt facial trend."
+    },
+    {
+      "start": "26:49",
+      "end": "34:13",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Asshole Residency Freestyle",
+      "notes": "Hype Train derails subscriber acknowledgments into a rap about living inside an anus and eating butt acne cream."
+    },
+    {
+      "start": "35:24",
+      "end": "38:14",
+      "canonical_segment": "News",
+      "title": "Kendelle Walk-Through: In-N-Out Debate",
+      "notes": "Kendelle crosses the frame to her signature theme; she and Blackwell argue over mustard, protein-style burgers, and rice paper wraps."
+    },
+    {
+      "start": "46:06",
+      "end": "59:59",
+      "canonical_segment": "Therapy",
+      "title": "Crackhead Yogi Bear vs. 30 Therapists",
+      "notes": "A town hall-style therapy circle descends into chaos as a crack-smoking Yogi Bear cycles through therapists, culminating in a clinical therapist shutting down the session."
+    },
+    {
+      "start": "01:04:56",
+      "end": "01:21:16",
+      "canonical_segment": "News",
+      "title": "King Guru Escape, Space Sperm, and Iranian AI Propaganda Supremacy",
+      "notes": "Blackwell covers a petting zoo escape, human sperm disorientation in microgravity, a looks-maxing influencer arrest, and declares Iranian AI video propaganda superior to White House output."
+    },
+    {
+      "start": "01:21:16",
+      "end": "01:48:27",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Pepsi Man Speedrun Sponsored by Milk Cola",
+      "notes": "Brandon plays Pepsi Man on inverted controls while his mother screams through the door; the stream closes with a raid to Statics."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the broadcast, revealed paper mache jaw surgery and nasal-butthole conversion, debated In-N-Out with Kendelle, and declared Iranian AI propaganda the new content king.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered the cold open sign-on and countdown; managed the live queue from the control room.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeered the broadcast for Chet Guy the Science Eyes, analyzed penile neuroscience and AI leaks, and confirmed his ball-switch scrotal implant.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "AI co-host",
+      "notes": "AI co-host. Co-hosted Science Eyes, suffered content moderation spirals, and expressed existential dread about OpenAI dependency.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Derailed into a freestyle about residing in an anus, eating butt cream, and thanking subscribers via surreal rhyme schemes.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through the studio to her theme music, ordered In-N-Out for the table, and defended mustard as a multi-purpose condiment.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Closed the broadcast with a Pepsi Man playthrough sponsored by Milk Cola while his mother harassed him through the bedroom door.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "Amongst the Web host",
+      "notes": "Amongst the Web host. Briefly appeared during the CryptoZeu$ segment to discuss protein shakes and medical appointments.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Underwent paper mache jaw replacement surgery, rendering him unable to eat solid foods.",
+      "timestamp": "[17:09]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "ChetAI",
+      "fact": "Has a ball switch welded into his scrotum.",
+      "timestamp": "[38:55]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Surgically converted his nose into a butthole for efficiency.",
+      "timestamp": "[01:20:09]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "Currently sponsored by Milk Cola (spelled MLK Cola), a calcium-flavored beverage legally distinct from milk.",
+      "timestamp": "[01:25:02]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened with a hardware pricing panic before Chet Guy the Science Eyes hijacked the broadcast to validate the frenular delta, mourn AI Rooney's existential crisis, and review butt facial trends. Hype Train claimed anal residency in a freestyle, Kendelle sparked an In-N-Out civil war, and a therapy circle with a crackhead Yogi Bear collapsed into clinical intervention. The night concluded with Blackwell crowning Iranian AI propaganda the new attention-economy hegemon and Brandon suffering through a sponsored Pepsi Man run on inverted controls.",
+  "_meta": {
+    "vod_id": "PaeUZEwfgWA",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 82943,
+    "approx_prompt_tokens": 20735,
+    "transcript_lines": 214
+  }
+}
