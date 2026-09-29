@@ -140,6 +140,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2026-02-04|2026-02-04]] [1:07:57] | [1:07:57] Crum claims 1600-year immortality and references past sins during forgiveness debate, reinforcing his mythic durability ahead of the unresolved mechanical gorilla wager. |
 | [[../episodes/2026-02-10|2026-02-10]] | [2026-02-10] Crum reveals PNUI sponsorship (urine-color stock AI), admits being sued by sponsor for false claims, and discloses alleged vibe-coded rival PNUChrist.ai during Munch & Crum debate before recusing himself. |
 | [[../episodes/2026-02-12|2026-02-12]] | Crum references new legal trouble with Pino Y app ('penis in his eye') and solicits Crum Legal Defense Fund, distinct from resolved gorilla wager. |
+| [[../episodes/2026-02-14|2026-02-14]] [01:35:05] | Crum references ongoing P-NU Christ.ai litigation involving stolen medical/financial records of deceased Kentucky grandmas; solicits donations for legal defense; claims angel investor status. [01:35:05] |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |

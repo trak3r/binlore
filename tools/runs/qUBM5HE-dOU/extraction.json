@@ -1,0 +1,211 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "08:40",
+      "canonical_segment": "News",
+      "title": "Cold Open & Pepito Sign-On",
+      "notes": "Pepito delivers the station ID and countdown; Case appears at 07:58 and opens with personal schedule constraints and a new off-Twitch donation button splitting proceeds with Donut Mutual Aid for Gaza families."
+    },
+    {
+      "start": "08:40",
+      "end": "01:07:33",
+      "canonical_segment": "News",
+      "title": "News Desk: Iran, White Supremacist Nominee, AI Video, Pickleball Brawl",
+      "notes": "Case reads Reuters reporting on US military prep for sustained Iran operations; covers Guardian-blocked story on Jeremy Carl's Senate hearing where he openly defends white nationalist views; discusses SeaDance AI video generator and copyright backlash; reports Florida pickleball brawl with 20 participants; brief Chet interruption on galvanic vestibular stimulation story."
+    },
+    {
+      "start": "01:08:17",
+      "end": "01:27:54",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Town Hall: Crypto Zeus & Crum with DJ C4 Hosting",
+      "notes": "DJ C4 hosts call-in segment with Crypto Zeus (wearing a DJ C4 hat to contain his hair) and Crum (wearing a malfunctioning Back to the Future hat); audience questions cover Looney Tunes, women, Snake Eater, Pokemon starters, white representation, CIA operative potential, and Crypto Zeus's mother's OnlyFans."
+    },
+    {
+      "start": "01:27:54",
+      "end": "01:38:48",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Does Dow 50K Solve All Problems?",
+      "notes": "Munch argues markets solve everything; Crum concedes markets are good but says Epstein revelations prevent total vindication; Crum solicits donations for legal defense against P-NU Christ.ai litigation involving stolen medical/financial records of deceased Kentucky grandmas; Munch mocks Crum's AI venture."
+    },
+    {
+      "start": "01:38:48",
+      "end": "01:49:25",
+      "canonical_segment": "News",
+      "title": "Looney Tunes Fan Girl: 1930s Shorts Deep Dive",
+      "notes": "Guest recites Warner Bros animated shorts from 1930-1939 including Sinkin' in the Bathtub (Honey), Congo Jazz (LT), Ups and Downs (Bosko), Porky in the Woods (Frank Tashlin credited as animator), Porky's Romance (Petunia Pig), and Daffy Duck and the Dinosaur; Case interrupts to help Kendelle with OBS audio routing off-mic."
+    },
+    {
+      "start": "01:49:25",
+      "end": "02:01:33",
+      "canonical_segment": "DJ Newsic",
+      "title": "DJ Newsic: Fart Science & Pepito Cheese Gas",
+      "notes": "DJ Newsic sings auto-tuned news about UMD study claiming humans fart 32 times daily via smart underwear sensor; Pepito joins for a hard cheese trap beat about his flatulence; segment ends with stream wind-down and raid preparation."
+    },
+    {
+      "start": "02:01:33",
+      "end": "02:03:27",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid",
+      "notes": "DJ Newsic aborts planned Dr. Diggity raid due to neighbor conflict, redirects to T.Latase; final shout-outs to chatters including Apple, Greg T.U., Wild Down, MSG Reflection."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors truncated Friday broadcast; manages donation button launch; covers Iran, white supremacist nominee, AI video, pickleball brawl; helps Kendelle with OBS off-mic.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open sign-on; consumes 40+ cheeses from donation triggers; joins DJ Newsic for cheese-fart trap verse.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Appears in Town Hall with malfunctioning hat and in Munch & Crum; solicits legal defense funds for P-NU Christ.ai litigation over stolen grandma records; claims angel investor status.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates Crum on Dow 50K solving all problems; mocks Crum's AI venture and legal troubles; celebrates market victory with dollar-sign graphics.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ C4",
+      "role": "musical producer",
+      "notes": "musical producer. Hosts Town Hall segment; provides hats for Crypto Zeus and Crum; manages call-in queue.",
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "CryptoZeu$ (Brandon)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Town Hall panelist; wears DJ C4 hat to contain hair; discusses mom's OnlyFans, bald superiority, helpful hair parasites, and Snake Eater obsession.",
+      "canonical_name": "CryptoZeu$ (Brandon)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype announcer",
+      "notes": "hype announcer. Brief freestyle during cold open; riffs on David Fincher/David Bowie/Sting/Dune confusion; declares 'I'm drinking piss and I'm a train.'",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Interrupts news desk on 'science' trigger to discuss galvanic vestibular stimulation body-control streaming.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Looney Tunes Fan Girl",
+      "role": "guest",
+      "notes": "guest. Recites 1930-1939 Looney Tunes shorts with animator credits; corrects Case on Petunia Pig obscurity; insists animators and characters are one and the same.",
+      "canonical_name": "Looney Tunes Fan Girl",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Mentioned re: Valentine's Day at Bass Pro Shop; assists Case with OBS audio routing for Bree's stream during Looney Tunes segment.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum references ongoing P-NU Christ.ai litigation involving stolen medical/financial records of deceased Kentucky grandmas; solicits donations for legal defense; claims angel investor status. [01:35:05]",
+      "timestamp": "01:35:05"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case and Kendelle went to Bass Pro Shop for Valentine's Day. [10:26]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "New off-Twitch donation button implemented; half of proceeds go to Donut Mutual Aid for Gaza families. [11:09]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Crum",
+      "fact": "Crum faces litigation with P-NU Christ.ai after AI 'crossed wires' and stole ~1 million medical/financial records from deceased Kentucky grandmas; court proceedings to be broadcast on BIN. [01:35:05]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Crum",
+      "fact": "Crum claims angel investor status and 'God of money' alignment. [01:38:04]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Crypto Zeus's mother runs an OnlyFans; Zeus says 'she can have fans that are only her fans.' [01:25:18]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Crypto Zeus claims bald superiority; his hair contains 'helpful parasites' (bugs) he needs. [01:19:17]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "DJ Newsic stuck in LA traffic during broadcast. [01:49:25]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "UMD scientists claim humans fart 32 times/day on average via smart underwear sensor study. [01:53:57]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a compressed Friday broadcast covering US military preparations for potential weeks-long Iran operations, a Senate hearing where State Department nominee Jeremy Carl openly defends white nationalist views, the SeaDance AI video generator's copyright controversy, and a 20-person Florida pickleball brawl. DJ C4 hosts a chaotic Town Hall with Crypto Zeus and Crum. Munch and Crum debate whether the Dow hitting 50K solves all problems, with Crum soliciting legal defense funds for P-NU Christ.ai litigation. A Looney Tunes fan girl exhaustively recites 1930s shorts. DJ Newsic closes with a fart-themed musical number featuring Pepito before raiding T.Latase.",
+  "_meta": {
+    "vod_id": "qUBM5HE-dOU",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 105855,
+    "approx_prompt_tokens": 26463,
+    "transcript_lines": 297
+  }
+}

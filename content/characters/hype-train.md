@@ -56,7 +56,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-06-22|2026-06-22]] | High-velocity musical correspondent who confesses to cheating on his Panther girlfriend, discusses beats, and provides cultural commentary throughout the pre-show. |
 
 <details>
-<summary>Earlier appearances (90)</summary>
+<summary>Earlier appearances (91)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -66,6 +66,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-06-03|2026-06-03]] | High-velocity musical/cultural correspondent. Triggered by hype train surge. Raps about eating 'human dog shit', thanks subscribers, claims second job as bassoonist. |
 | [[episodes/2026-05-29|2026-05-29]] | Musical correspondent delivering an extended rap about body parts and time travel. |
 | [[episodes/2026-03-07|2026-03-07]] | Commandeers the courtroom for an extended freestyle rap session; acknowledges 1,000-bit donation; references Obama holiday parties. |
+| [[episodes/2026-02-14|2026-02-14]] | hype announcer. |
 | [[episodes/2026-01-27|2026-01-27]] | musical interruption. |
 | [[episodes/2026-01-07|2026-01-07]] | Attempted a whale-fact rap instead of subscriber thanks, derailed into piss poetry, then quit the segment entirely. |
 | [[episodes/2025-12-13|2025-12-13]] | hype correspondent. |
