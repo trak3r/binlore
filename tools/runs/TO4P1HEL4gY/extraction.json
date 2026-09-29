@@ -1,0 +1,113 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "07:52",
+      "canonical_segment": "News",
+      "title": "Cold Open & Workout Thread Setup",
+      "notes": "Pepito signs on from the patio, creates a Discord thread for viewer workout suggestions, and prepares the stream layout."
+    },
+    {
+      "start": "07:52",
+      "end": "19:49",
+      "canonical_segment": "News",
+      "title": "Core-gasm Workout Attempt",
+      "notes": "Pepito follows a Women's Health 'cougar-gasm' routine; immediate abdominal cramping forces him to abort and crawl to recovery."
+    },
+    {
+      "start": "19:49",
+      "end": "38:34",
+      "canonical_segment": "News",
+      "title": "Richard Simmons & Dance Cardio",
+      "notes": "Pepito tries a 20-minute Richard Simmons blast-off and a 10-minute brat dance workout, unable to keep pace with either."
+    },
+    {
+      "start": "38:34",
+      "end": "58:01",
+      "canonical_segment": "News",
+      "title": "Pelvic Floor & Breakdancing Tutorials",
+      "notes": "Pepito works through pelvic-floor mobility drills that escalate into breakdance footwork breakdowns with Kendall coaching from off-camera."
+    },
+    {
+      "start": "58:01",
+      "end": "01:10:12",
+      "canonical_segment": "News",
+      "title": "Extended Breakdance Practice",
+      "notes": "Pepito drills threading kicks, frog transitions, and helicopter moves on cardboard, repeatedly pausing to analyze the instructor's kinetics."
+    },
+    {
+      "start": "01:10:12",
+      "end": "01:26:58",
+      "canonical_segment": "News",
+      "title": "Anime Exercises & Strength Challenges",
+      "notes": "Pepito attempts 'How to Dance Like Reagan' and anime-ranked calisthenics (clapping push-ups, weighted push-ups, planche progressions), failing the advanced tiers."
+    },
+    {
+      "start": "01:26:58",
+      "end": "01:38:57",
+      "canonical_segment": "News",
+      "title": "Hot Dog String Challenge",
+      "notes": "Sub-goal warm-down: Pepito tethers a hot dog to string and whips it into his mouth; succeeds on second attempt after splitting the first."
+    },
+    {
+      "start": "01:38:57",
+      "end": "01:41:27",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid",
+      "notes": "Pepito confirms the hot dog catch, thanks subscribers, and raids 'statics later' while Kendall performs a backflip ritual."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Hosted a solo late-night workout special from the patio, cycling through viewer-suggested routines and completing the sub-goal hot dog string challenge.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Pepito hosted a 101-minute solo workout broadcast from the patio, marking the first full-length fitness special led by the executive producer.",
+      "timestamp": "[00:06]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Kendelle declined to participate in the 'core-gasm' abdominal routine, citing visible distress at the proposition.",
+      "timestamp": "[11:37]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Pepito suffered an immediate abdominal cramp/spasm during the first plank sequence, requiring a floor recovery crawl.",
+      "timestamp": "[17:56]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "The sub-goal hot dog string challenge was completed on the second attempt after the first hot dog split mid-swing.",
+      "timestamp": "[01:37:04]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Broadcast concluded with a raid to 'statics later' while Kendall performed a backflip and 'secret rituals' on camera.",
+      "timestamp": "[01:40:08]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Executive producer Pepito anchored a solo late-night fitness special from the patio, subjecting himself to a viewer-curated gauntlet of core-gasm ab work, Richard Simmons cardio, pelvic-floor breakdance drills, and anime-ranked calisthenics. The broadcast ended with the sub-goal hot dog string challenge — a tethered hot dog whipped into Pepito's mouth on the second try — before a raid to 'statics later' accompanied by Kendall's backflip finale.",
+  "_meta": {
+    "vod_id": "TO4P1HEL4gY",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 63625,
+    "approx_prompt_tokens": 15906,
+    "transcript_lines": 251
+  }
+}
