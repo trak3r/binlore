@@ -1,0 +1,118 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "07:52",
+      "canonical_segment": "News",
+      "title": "Station Sign-On and Pepito Sermon",
+      "notes": "Pepito delivers the cold-open sign-on as 'Papita', then performs a surreal religious sermon involving a macaroni-and-cheese puddle miracle and a fish-turned-wine blessing."
+    },
+    {
+      "start": "13:57",
+      "end": "49:36",
+      "canonical_segment": "News",
+      "title": "Trump Davos Speech and Greenland Framework",
+      "notes": "Case covers Trump's Davos address claiming a 'framework for a future deal' on Greenland, threatening 'excessive strength and force' for acquisition; Rick interrupts with 'high T-fax' CIA decoding theory."
+    },
+    {
+      "start": "26:16",
+      "end": "38:11",
+      "canonical_segment": "Hype Train",
+      "title": "Sleepy Hype Train Subscriber Freestyle",
+      "notes": "Hype Train appears exhausted, delivers a rambling freestyle over Radiohead-type beats covering foot fetishes, sheep, cliffs, and Pokemon Battle Revolution while acknowledging 36–39 month subscribers."
+    },
+    {
+      "start": "51:10",
+      "end": "1:25:54",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Little Nicky Game Boy Color Speedrun Attempt",
+      "notes": "CryptoZeu$ (Brandon) attempts a speedrun of Little Nicky on Game Boy Color via RetroArch while his mother constantly interrupts from off-camera; stream ends with a raid on Dr. Diggity Dank."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the broadcast, covered Trump's Davos speech, and hosted a CryptoZeu$ gaming collaboration.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered the station sign-on and a surreal religious sermon involving macaroni-and-cheese puddles and a fish-turned-wine blessing.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Appeared exhausted for a sleepy subscriber acknowledgment, freestyled about foot fetishes and Radiohead beats while acknowledging 36–39 month subs.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "recurring",
+      "notes": "recurring. Interrupted Hype Train to complain about airtime, claimed CIA training to decode Trump's 'high-frequency' messaging.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Case references Munch and Crum's rivalry at [50:38]: 'Haven't seen Krum through a debate this hard... What are Munch and Crom going to recreate heated rivalry.'",
+      "timestamp": "50:38"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case considering computer upgrade due to streaming asset load [18:40]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case seeking merch artists for BIN t-shirts, explicitly rejecting AI-generated designs [15:29]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Brandon",
+      "fact": "Brandon's mother is home and intervenes constantly during streams, including reading Emperor's New Groove fan fiction aloud [54:29]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Brandon",
+      "fact": "Brandon claims to have held speedrun records in Little Nicky before patch 2.8 'ruined' the game [53:26]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Brandon",
+      "fact": "Brandon met Lint Biscuit at his house but they passed out from 'chemicals in the air' [1:25:23]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened with Pepito's macaroni-themed religious sermon before Case Blackwell covered Trump's Davos speech threatening 'excessive strength and force' to acquire Greenland. A sleep-deprived Hype Train derailed subscriber acknowledgments into a Radiohead-backed freestyle about foot fetishes, while Rick claimed CIA training to decode Trump's 'high-frequency' messaging. The broadcast concluded with CryptoZeu$ attempting a Little Nicky speedrun on Game Boy Color amid relentless off-camera interruptions from his mother, ending in a raid on Dr. Diggity Dank.",
+  "_meta": {
+    "vod_id": "aybYcLFxN4Y",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 64654,
+    "approx_prompt_tokens": 16163,
+    "transcript_lines": 168
+  }
+}
