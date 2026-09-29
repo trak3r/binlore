@@ -44,6 +44,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-06-19|2026-06-19]] | Lead anchor and in-studio contributor who periodically enters the broadcast for signature segments. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in birthday context, not actively speaking. |
 | [[episodes/2026-06-05|2026-06-05]] | Lead anchor and on-air contributor who walks through the studio for signature segments. |
+| [[episodes/2026-03-19|2026-03-19]] | in-studio contributor. |
 | [[episodes/2026-03-06|2026-03-06]] | in-studio contributor. |
 | [[episodes/2026-03-03|2026-03-03]] | in-studio contributor. |
 | [[episodes/2026-02-28|2026-02-28]] | in-studio contributor. |
@@ -54,13 +55,13 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-02-04|2026-02-04]] | in-studio contributor. |
 | [[episodes/2026-01-24|2026-01-24]] | in-studio contributor. |
 | [[episodes/2026-01-06|2026-01-06]] | in-studio contributor. |
-| [[episodes/2025-12-18|2025-12-18]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (180)</summary>
+<summary>Earlier appearances (181)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-12-18|2025-12-18]] | in-studio contributor. |
 | [[episodes/2025-12-16|2025-12-16]] | in-studio contributor. |
 | [[episodes/2025-12-13|2025-12-13]] | in-studio contributor. |
 | [[episodes/2025-12-06|2025-12-06]] | in-studio contributor. |
@@ -330,3 +331,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[[01:22:22]]** ([[episodes/2025-12-18|2025-12-18]]): Has a 'hole as my big toe' (mole-like) preventing open-toe shoes; appears as 'ghost Kendall' during song production.
 - **[1:28:38]** ([[episodes/2026-02-12|2026-02-12]]): Visited studio with brother Jiggy (Justin) to model Adidas Taekwondo shoes ('ballet sneakers'); threatened chat over criticism.
 - **[]** ([[episodes/2026-02-19|2026-02-19]]): [11:09] On record disliking Case without beard; Case hid shave from her until stream.
+- **[[27:32]]** ([[episodes/2026-03-19|2026-03-19]]): Owns a dog she brings to the studio; the dog eats chips neatly off the floor.
