@@ -1,0 +1,153 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "08:41",
+      "canonical_segment": "News",
+      "title": "Cold Open & Pepito Sign-On",
+      "notes": "Pepito delivers the live sign-on from the control room, establishes the broadcast is live after a week-long Hawaii hiatus."
+    },
+    {
+      "start": "08:41",
+      "end": "14:25",
+      "canonical_segment": "News",
+      "title": "Anchor Desk: Hawaii Recap & Religious Banter",
+      "notes": "Case Blackwell returns from Hawaii wedding trip; extended improvised theology bit with Pepito inventing 'Papetology' (God=Guard, Cardinalers, Holy Tronody)."
+    },
+    {
+      "start": "14:25",
+      "end": "29:07",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train: Kevin Pereira Freestyle & Subscriber Shoutouts",
+      "notes": "Hype Train derails into a Kevin Pereira rap over an Alex Pereira type beat, claims Kevin Pereira and Ryan Reynolds are the same person, processes 38-month and 35-month subs."
+    },
+    {
+      "start": "29:07",
+      "end": "57:14",
+      "canonical_segment": "News",
+      "title": "News Desk: Trump Greenland Tariffs, Fed Investigation, Speedy Gonzales Film, Pokemon Heist, Star Wars Shakeup",
+      "notes": "Case and Jeff Ripple cover Trump tariff threats over Greenland, DOJ criminal probe of Jerome Powell, Warner Bros. Speedy Gonzales animated feature, armed Pokemon card robbery in Manhattan ($100k), Kathleen Kennedy stepping down at Lucasfilm (David Filoni & Lynwen Brennan promoted)."
+    },
+    {
+      "start": "57:14",
+      "end": "01:13:26",
+      "canonical_segment": "News",
+      "title": "Penile & Medical Oddities: Paul Rudd Praise, Buried Penis Tumor, Spanish-Speaking Surgery Patient",
+      "notes": "Paul Rudd penis size podcast clip; 54-year-old man with 5-stone apron belly tumor (buried penis) undergoes surgery; American man wakes from surgeries speaking fluent Spanish (Foreign Accent Syndrome)."
+    },
+    {
+      "start": "01:13:26",
+      "end": "01:25:22",
+      "canonical_segment": "News",
+      "title": "Trump Furry Party & Trailer Block Intro",
+      "notes": "Trump's Mar-a-Lago 'Dog Bridgerton' furry party footage; transition to trailer segment hosted by recurring teen-coded character 'Young Blood'."
+    },
+    {
+      "start": "01:13:26",
+      "end": "01:25:22",
+      "canonical_segment": "News",
+      "title": "Trailer Block: Reflection in a Dead Diamond, Tyler Perry's Joe's College Road Trip, One Piece Season 2",
+      "notes": "Young Blood hosts trailer reactions: artsy Italian 'Reflection in a Dead Diamond' (4/5), Tyler Perry road-trip comedy (2.2/5), One Piece live-action Season 2 trailer (positive, Case redeems prior skepticism)."
+    },
+    {
+      "start": "01:25:22",
+      "end": "02:15:04",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web: Viewer Video Ratings & DJ C4 Song Production",
+      "notes": "Case rates viewer submissions (nudibranch, head-bounce injury, trauma one-upmanship, Mormon construction worker ceiling collapse, trick-top spinner); DJ C4 produces trap track 'Gotta Go Fast' with chat lyrics for Chris Pratt-voiced Speedy Gonzales and Sonic."
+    },
+    {
+      "start": "02:15:04",
+      "end": "02:30:21",
+      "canonical_segment": "DJ C4",
+      "title": "DJ C4 Live Recording: Speedy Gonzales & Sonic Verses",
+      "notes": "DJ C4 records Chris Pratt Speedy Gonzales (one take) and Sonic (two takes, delay issues) verses over 'Sonic drowning type beat'; Case announces schedule shift (off Monday MLK Day, streaming Tue/Wed/Fri)."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Returns from Hawaii wedding trip; anchors news desk, trailer block, and Amongst the Web; oversees DJ C4 song production.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold-open sign-on; improvises 'Papetology' religion bit with Case; zooms camera on Case repeatedly.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Derails subscriber shoutouts into Kevin Pereira/Ryan Reynolds conspiracy freestyle; processes multi-year subs.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-anchors news desk; debates Fed accountability vs. Trump interference; reads Pokemon robbery report.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ C4",
+      "role": "musical producer",
+      "notes": "musical producer. Produces 'Gotta Go Fast' trap beat live; records Speedy Gonzales and Sonic vocal takes; manages chat lyric submissions.",
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Young Blood",
+      "role": "trailer host",
+      "notes": "trailer host. Hosts Trailer Thursday-on-Friday block; claims teen perspective on time; rates three trailers with Case.",
+      "canonical_name": "Young Blood",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "The Rock-afire animatronic gorilla is canonically Mormon (converted after killing a man).",
+      "timestamp": "[01:32:41]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case's brother played 32X Sonic with cousin Bob; Case recalls 32X experience.",
+      "timestamp": "[02:08:46]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case will be off Monday 2026-01-19 (MLK Day), streaming Tuesday/Wednesday/Friday next week.",
+      "timestamp": "[02:28:43]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns from a Hawaii wedding hiatus for a Friday broadcast covering Trump's Greenland tariff threats, a DOJ criminal probe of Fed Chair Powell, a $100k armed Pokemon card heist in Manhattan, and Kathleen Kennedy's Lucasfilm exit. The show features a Hype Train Kevin Pereira freestyle, a medical oddities block (Paul Rudd penis praise, buried-penis tumor surgery, foreign accent syndrome), Trump's 'Dog Bridgerton' furry party footage, a trailer reaction segment hosted by recurring character Young Blood, and an extended Amongst the Web culminating in DJ C4 producing a trap track 'Gotta Go Fast' with chat-written verses for Chris Pratt-voiced Speedy Gonzales and Sonic the Hedgehog.",
+  "_meta": {
+    "vod_id": "eQke2XEk47g",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 110734,
+    "approx_prompt_tokens": 27683,
+    "transcript_lines": 286
+  }
+}
