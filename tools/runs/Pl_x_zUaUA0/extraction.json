@@ -1,0 +1,196 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "14:52",
+      "canonical_segment": "News",
+      "title": "Cold Open & Technical Difficulties",
+      "notes": "Case and Pepito banter through automation failures; Pepito demands seven buckets of blood and debates human anatomy as 'bags of blood.'"
+    },
+    {
+      "start": "14:52",
+      "end": "30:18",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train's Original Thong Song Recreation",
+      "notes": "Hype Train delivers a freestyle 'perfect recreation' of the Cisco thong song, weaving in MTV Warriors remake lore, alien abduction canon, and subscriber acknowledgments."
+    },
+    {
+      "start": "30:18",
+      "end": "46:24",
+      "canonical_segment": "News",
+      "title": "State of the Union Reaction",
+      "notes": "Case and Pepito review New York Post highlights of Trump's address: Rep. Green ejection, Hegseth cousin security, 'cases drug lords' line, insider trading applause, grieving mother theater, Olympic hockey team, and 17-hour runtime."
+    },
+    {
+      "start": "46:24",
+      "end": "1:01:08",
+      "canonical_segment": "Amongst the Web",
+      "title": "Viewer Video Submissions Review",
+      "notes": "Case rates community clips: Burger Face animation, slender-man horror, rocking parrot, Batman/Robin DM fantasy, and 1990s Party Planner Video Guide 'Man-tastics' male entertainer showcase."
+    },
+    {
+      "start": "1:01:08",
+      "end": "1:09:30",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: Should Case Stream More?",
+      "notes": "Munch argues Case should be fired and replaced with Munch 24/7; Crum agrees Case should stream less. Crum reveals he dropped a five-bread sandwich in a puddle leaving his bathroom."
+    },
+    {
+      "start": "1:09:30",
+      "end": "1:31:22",
+      "canonical_segment": "Trip on the Street",
+      "title": "Park Interviews: Cisco, Noid, Eeyore, Pastor Joe, Solid Snake",
+      "notes": "Trip Bradstein interviews park denizens including a Cisco Warriors remake pitcher, Domino's Noid, a gooner-reboot Eeyore, Pastor Joe seeking lube, and a CQC-quoting Solid Snake."
+    },
+    {
+      "start": "1:31:22",
+      "end": "2:28:08",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Secrets of Evermore Gameplay & Maternal Chaos",
+      "notes": "Brandon plays Secrets of Evermore with broken controller, mom's broken jaw (raw hot dog diet), Pastor Joe innuendo, and an exclusive Slunk prison-streaming contract announcement."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors through technical meltdown, SOTU coverage, Amongst the Web, and Munch & Crum debate; claims 500 pull-ups workout.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Demands seven buckets of blood, declares humans 99.99% blood bags, claims pope-sized stature, produces Hype Train segment.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Delivers surreal 'original thong song' recreation with Cisco/Warriors/alien lore and subscriber shoutouts.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues Case should be fired and replaced with Munch 24/7 for infinite stamina streaming; claims huge hands rule the world.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Agrees Case should stream less; reveals dropping a five-layer bread sandwich in a puddle upon leaving bathroom.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducts park interviews while wearing wrong glasses; encounters Cisco, Noid, gooner Eeyore, Pastor Joe, and Solid Snake.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Plays Secrets of Evermore with keyboard controls, mom's jaw injury, Pastor Joe interruptions, announces Slunk prison streaming deal.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon's mom",
+      "role": "recurring",
+      "notes": "recurring. Breaks jaw on stairs again, raw hot dog diet, meows, orders Taco Bell via Life Alert, countersreams flight sim.",
+      "canonical_name": "Brandon's mom",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "recurring",
+      "notes": "recurring. Briefly appears in CryptoZeu$ segment taking a call about spiritual bouquet keys and vaccine conspiracy paste.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Briefly questioned by Case about rock giant anatomy during Amongst the Web.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Contributes during SOTU coverage; Case thanks him for 'beautiful' commentary on exploiting grief.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Beard growing back after clean-shaven period; claims 500 unassisted pull-ups with trainer assistance.",
+      "timestamp": "[08:22]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Demands seven buckets of blood for production; asserts humans are 99.99% 'bag of blood'; claims to be pope-sized.",
+      "timestamp": "[11:17]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "Claims to have met Dr. Jill Biden and Cisco at 'shakedown finals'; asserts Cisco was abducted by aliens to fight sentient thongs on planet Gates.",
+      "timestamp": "[18:57]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trip Bradstein",
+      "fact": "Left side of house sunk into pit of 'penis acid' from burst pipes clogged with his own acid.",
+      "timestamp": "[1:31:42]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "Mom broke jaw on stairs again; subsists on raw hot dog diet per Pastor Joe; Brandon signed exclusive contract with Slunk streaming service on Russian prison servers.",
+      "timestamp": "[1:33:29]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell hosts a technically troubled broadcast featuring Hype Train's surreal recreation of the 'original thong song,' coverage of Trump's State of the Union address, an Amongst the Web video review segment, a Munch & Crum debate on whether Case should stream less, Trip Bradstein's park interviews including a Cisco impersonator and a gooner-reboot Eeyore, and Brandon's CryptoZeu$ segment playing Secrets of Evermore while contending with controller issues, his mother's jaw injury, and an exclusive Slunk prison-streaming contract announcement.",
+  "_meta": {
+    "vod_id": "Pl_x_zUaUA0",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 109350,
+    "approx_prompt_tokens": 27337,
+    "transcript_lines": 321
+  }
+}

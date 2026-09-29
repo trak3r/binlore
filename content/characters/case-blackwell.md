@@ -226,3 +226,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[10:37]** ([[episodes/2026-02-04|2026-02-04]]): [10:37] Case was sick for a week with a probable sinus infection; notes he now stays sick for a month at a time due to age.
 - **[21:39]** ([[episodes/2026-02-04|2026-02-04]]): [21:39] Case has lost approximately 35 pounds since originally planning the workout stream.
 - **[]** ([[episodes/2026-02-19|2026-02-19]]): [08:43] Accidentally shaved beard clean after chunking buzz cut; expects 5 o'clock shadow by Monday, full beard in 2-3 weeks.
+- **[[08:22]]** ([[episodes/2026-02-26|2026-02-26]]): Beard growing back after clean-shaven period; claims 500 unassisted pull-ups with trainer assistance.
