@@ -187,3 +187,4 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 - **[02:45:58]** ([[episodes/2025-09-02|2025-09-02]]): Therapy method: plays boner jam trap beats and Eurobeat from phone until declaring breakthrough [02:45:58].
 - **[56:39]** ([[episodes/2025-09-10|2025-09-10]]): Chet's AI partner is named Maya (not Mina); Chet in 'open relationship' with her.
 - **[02:09:45]** ([[episodes/2025-10-13|2025-10-13]]): Parameters adjusted to allow 'filthy smut' generation; can now create explicit content on command [02:09:45].
+- **[02:14:57]** ([[episodes/2025-12-16|2025-12-16]]): Chet Manscape monitors Blackwell's broadcast attendance and confronts him live for skipping a scheduled news shift.

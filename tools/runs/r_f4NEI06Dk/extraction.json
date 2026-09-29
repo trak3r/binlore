@@ -1,0 +1,155 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "04:50",
+      "canonical_segment": "News",
+      "title": "Station Cold-Open & Technical Difficulties",
+      "notes": "Pepito delivers sign-on from control room; broadcast feed exhibits spatial glitch placing anchor in void."
+    },
+    {
+      "start": "04:50",
+      "end": "15:34",
+      "canonical_segment": "News",
+      "title": "Broadcast Abandonment & Game Selection",
+      "notes": "Anchor Case Blackwell foregoes news rundown, reveals failed internet prevented uploads, recruits Kendelle for co-op gaming session; selects Peak after Split Fiction uninstall discovered."
+    },
+    {
+      "start": "15:34",
+      "end": "54:47",
+      "canonical_segment": "News",
+      "title": "Peak Gameplay — Island Concert & Mountain Ascent",
+      "notes": "Blackwell and Kendelle experience in-game BBNO$ concert, hallucination mechanics, and initial climbing phase; both sustain injuries from concert aftermath."
+    },
+    {
+      "start": "54:47",
+      "end": "01:04:20",
+      "canonical_segment": "News",
+      "title": "Peak Gameplay — Kendall's Death & Solo Rescue",
+      "notes": "Kendelle falls to fog; Blackwell climbs alone through rising fog, navigates beetle swarm, reaches summit checkpoint and resurrects partner."
+    },
+    {
+      "start": "01:04:20",
+      "end": "01:23:50",
+      "canonical_segment": "News",
+      "title": "Peak Gameplay — Desert Level & Wrestling Discourse",
+      "notes": "Sun exposure and tornado mechanics dominate; extended discussion of John Cena retirement match, Triple H creative direction, and AEW chants."
+    },
+    {
+      "start": "01:23:50",
+      "end": "01:42:29",
+      "canonical_segment": "News",
+      "title": "Peak Gameplay — Cactus Maze & Walking Dead Talk",
+      "notes": "Poison cacti and hidden hazards force coordination; conversation covers Daryl Dixon spin-off, Fear the Walking Dead seasons, and zombie media preferences."
+    },
+    {
+      "start": "01:42:29",
+      "end": "01:54:07",
+      "canonical_segment": "News",
+      "title": "Peak Gameplay — Ancient Luggage & Chain Launcher",
+      "notes": "Egg collectibles, chain launcher deployment, and fortified milk consumption; friend Kyle raids channel during traversal."
+    },
+    {
+      "start": "01:54:07",
+      "end": "02:13:10",
+      "canonical_segment": "News",
+      "title": "Peak Gameplay — Final Climb & Double Death",
+      "notes": "Lava rise and piton mechanics test coordination; both anchors perish pursuing optional suitcase, ending run."
+    },
+    {
+      "start": "02:13:10",
+      "end": "02:14:57",
+      "canonical_segment": "News",
+      "title": "Post-Game Wrap & Cosmetic Unlock",
+      "notes": "Blackwell acknowledges greed-induced failure; new smile cosmetic unlocked on death screen."
+    },
+    {
+      "start": "02:14:57",
+      "end": "02:16:22",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Executive Confrontation",
+      "notes": "Chet Manscape interrupts sign-off to reprimand Blackwell for skipping scheduled news shift; Blackwell defends personal time."
+    },
+    {
+      "start": "02:16:22",
+      "end": "02:20:18",
+      "canonical_segment": "News",
+      "title": "Raid & Broadcast Sign-Off",
+      "notes": "Blackwell raids small streamer after Kendelle vetoes larger targets; announces uncertain schedule pending song production and Frankenstein viewing."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold-open sign-on from control room while feed displayed anchor floating in void.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "anchor. Abandoned news broadcast for unsanctioned Peak co-op session with Kendelle; confronted by Chet for skipping shift.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Co-hosted entire Peak session from shared residence; died once, resurrected, died again in final lava sequence.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "recurring",
+      "notes": "recurring. Appeared untriggered at broadcast close to reprimand Blackwell for missing news shift.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "timestamp": "05:55",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell and Kendelle cohabitate in the same residence.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:14:57",
+      "entity": "Chet",
+      "fact": "Chet Manscape monitors Blackwell's broadcast attendance and confronts him live for skipping a scheduled news shift.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:17:02",
+      "entity": "",
+      "fact": "Blackwell's streaming setup includes a mirror reflecting full room layout visible to audience.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:19:55",
+      "entity": "",
+      "fact": "Blackwell indicates a song production session scheduled for potential next broadcast day.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Anchor Case Blackwell abandoned the scheduled news broadcast for an unsanctioned Peak co-op session with Kendelle, progressing through island concert, mountain, desert, and ancient luggage biomes before both perished in lava pursuing a suitcase. Chief Science Correspondent Chet Manscape interrupted the sign-off to reprimand Blackwell for missing his shift. The broadcast concluded with a raid on a small channel and uncertain forward schedule.",
+  "_meta": {
+    "vod_id": "r_f4NEI06Dk",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 95324,
+    "approx_prompt_tokens": 23831,
+    "transcript_lines": 357
+  }
+}
