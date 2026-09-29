@@ -83,6 +83,7 @@ On [[../episodes/2025-09-25|Post Wall and Rapture Clarity]], resurrected Crum si
 | [[../episodes/2025-11-03|2025-11-03]] | Jeb's Dad asks if Crum knows his wife left him and married Jizbo after he died and went to hell; Crum denies knowledge. |
 | [[../episodes/2025-11-27|2025-11-27]] [01:12:02] | [01:12:02] Peter Gibbon urges Case to send another group into the wall; Case refuses, citing esotericism for newer viewers. |
 | [[../episodes/2025-12-04|2025-12-04]] [01:08:11] | Crum cited Peter Gibbon's wall-teasing during the Thanksgiving confession. |
+| [[../episodes/2026-01-06|2026-01-06]] [01:37:53] | [01:37:53] Zombie Dick Clark confirms Crum was in hell for 'a couple trillion years in hell time' and 'four million more years' was denied; glad he's gone. |
 
 ## Related Pages
 

@@ -134,6 +134,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2025-11-27|2025-11-27]] [01:12:39] | [01:12:39] Case and Pepito reference pathway to hell through office wall and Crum poster retrieval, callbacks to Join the Wall/Crum Dick Punch saga. |
 | [[../episodes/2025-12-04|2025-12-04]] [01:16:58] | Munch referenced the Rock-afire gorilla's continued presence during Amongst the Web. |
 | [[../episodes/2025-12-24|2025-12-24]] | No advancement this episode; Crum's gambling liability not mentioned. |
+| [[../episodes/2026-01-06|2026-01-06]] [01:11:28] | [01:11:28] Crum references the gorilla dick punch: 'we tried to do it with the gorilla and it worked but it just didn't stick because you okay, whatever' — confirming the 2026 pneumatic groin strike occurred but failed to resolve the debt. |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |

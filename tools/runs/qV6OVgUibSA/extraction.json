@@ -1,0 +1,311 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Cold Open: Train Puberty & Sub Marathon",
+      "start": "00:08",
+      "end": "28:44",
+      "notes": "Hype Train delivers an extended freestyle on 'train puberty' involving self-penetration metaphysics, estrogen/testosterone, and hellish freedom while thanking a massive sub wave from Tam Tran; Pepito and Peter Gibbon interject."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "News Desk: Venezuela, Maduro, Marco Rubio & January 6 Anniversary",
+      "start": "28:44",
+      "end": "52:18",
+      "notes": "Case and Jeff Ripple discuss US-Venezuela oil talks, Maduro's kidnapping, Rubio's Cuba rhetoric, the fifth anniversary of January 6, and Case's purge-day fantasy platform of arresting the Trump administration."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Chat News: Glasgow Ball-Kick Send-Off, Pentagon Letters to Toronto Sex Shop, QAnon Shaman Breaks with Trump",
+      "start": "52:18",
+      "end": "01:00:26",
+      "notes": "Jeff reads chat submissions: a trans person's pre-bottom-surgery testicle-kicking fundraiser in Glasgow; a Toronto sex-toy boutique receiving Department of War letters about products shipped to a US naval base in Bahrain; Jacob Chansley renouncing Trump over broken anti-interventionist promises."
+    },
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet Guy the Science Eyes: Glute Morphology & the Taint Zapper",
+      "start": "01:00:26",
+      "end": "01:08:55",
+      "notes": "Triggered by the word 'science,' Chet and ChetAI present a University of Westminster study linking gluteus maximus shape to health markers, then review a $300 FDA-cleared perineal electrode device for premature ejaculation; Case considers tasering his own taint."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Cookie vs. Cream — The Oreo Debate",
+      "start": "01:09:26",
+      "end": "01:17:44",
+      "notes": "Crum argues the cookie is superior (dunkable, structural, bonding exercise with ex-wife); Munch champions the cream via a self-founded super PAC; Crum suffers a muscle spasm mid-argument and concedes the segment."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "title": "How To with Jeb: Cat Nose Massage, Love Spell for Dad, Video Aspirin",
+      "start": "01:17:44",
+      "end": "01:31:30",
+      "notes": "Jeb demonstrates a cat-calming thumb-on-nose technique, performs a handwritten love spell (folded, runed, eaten) to win his dead father's affection, and guides a 'video aspirin' breathing/nostril exercise that summons an unsettling calm."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Zombie Dick Clark Interview: Undead New Year's Grievances & Spectral Pig Ears",
+      "start": "01:31:30",
+      "end": "01:43:09",
+      "notes": "A zombified Dick Clark complains about missing another New Year's, reveals sow ears from spectral pig slaughter, claims to fuck with his mind across 16 dimensions, and freestyles over a Bone Thugs beat before departing."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Military Elite Robot / Plug Guy: Dimensional Plug Battle & Orifice Proliferation",
+      "start": "01:43:09",
+      "end": "02:03:24",
+      "notes": "A self-declared supreme military robot engages in escalating plug/orifice one-upmanship, manufacturing millions of orifices and plugs across 16 dimensions, culminating in a screaming assimilation cascade before Case ends the segment."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Wrap-Up & Raid to Ricky Peacock",
+      "start": "02:03:24",
+      "end": "02:07:05",
+      "notes": "Case, Pepito, and Peter Gibbon debrief the 'plug life' chaos; Pepito sees 14 dimensions; raid to Ricky Peacock playing Tabula Rasa."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Returned from two-week break; anchored news, science, debate, and absurdist segments while managing graying hair and purge-day fantasies.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold-open sign-on as a dog; interjected during Hype Train and plug segments; claimed 14-dimensional dog vision.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Monopolized the cold open with a surreal 'train puberty' mythology involving self-penetration, hormone surges, and hellish freedom while processing a massive sub wave.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-anchored news and chat news blocks; read viewer submissions on Venezuela, Glasgow, Toronto sex-shop letters, and QAnon shaman.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeered broadcast via 'science' trigger; presented glute-shape health study and perineal zapper review with ChetAI.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "AI co-host",
+      "notes": "AI co-host. Assisted Chet with study citations and product details; offered to purchase medical-grade tasers on Case's card.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued cookie superiority in Oreo debate; suffered a muscle spasm and exited early; referenced past gorilla dick-punch failure.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Championed cream via a self-founded super PAC; goaded Crum about the gorilla punch not sticking; won by default after Crum's spasm.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosted How To segment from woodshop; demonstrated cat massage, performed love spell for dead father, guided video aspirin exercise.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Interjected during Hype Train, plug segment, and wrap-up; claimed to eat/plug via dog logic; referenced half-sprite Tuesdays with Crum.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Called in during Jeb's segment to discuss travel plans with Jeb; Case relayed her ETA home.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Zombie Dick Clark",
+      "role": "guest",
+      "notes": "guest. Undead New Year's host with sow ears; claimed spectral pig slaughter, 16-dimensional movement, and mind-fucking; freestyled over Bone Thugs beat.",
+      "canonical_name": "Zombie Dick Clark",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Military Elite Robot / Plug Guy",
+      "role": "guest",
+      "notes": "guest. Self-proclaimed supreme intergalactic soldier; escalated plug/orifice combat to millions of dimensional orifices before screaming assimilation.",
+      "canonical_name": "Military Elite Robot / Plug Guy",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:11:28] Crum references the gorilla dick punch: 'we tried to do it with the gorilla and it worked but it just didn't stick because you okay, whatever' — confirming the 2026 pneumatic groin strike occurred but failed to resolve the debt.",
+      "timestamp": "01:11:28"
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "[01:37:53] Zombie Dick Clark confirms Crum was in hell for 'a couple trillion years in hell time' and 'four million more years' was denied; glad he's gone.",
+      "timestamp": "01:37:53"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Case's hair is growing gray at the sides; he is considering going blonde again when it creeps higher.",
+      "timestamp": "[09:27]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case took a two-week break over the holidays; this is his first broadcast of 2026.",
+      "timestamp": "[28:44]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case and Kendelle are considering Disney trips every two months for Case's sanity.",
+      "timestamp": "[28:10]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case was walking his dog on a golf course during the January 6 Capitol attack.",
+      "timestamp": "[29:51]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "US bombed Venezuela, kidnapped its elected leader, and left the rest of the party in power; Maduro is notably tall with a silver-fox mustache.",
+      "timestamp": "[35:56]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Marco Rubio signaled Cuba as next target, citing Cuban control of Maduro's internal security ('Cuban fembots').",
+      "timestamp": "[45:52]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Nobel Peace Prize winner María Corina Machado was instantly dismissed by Trump as lacking respect/support in Venezuela.",
+      "timestamp": "[49:41]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Hundreds gathered in Glasgow to watch a trans person get kicked in the balls as a pre-bottom-surgery send-off.",
+      "timestamp": "[53:52]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Toronto sex-toy boutique Bonjabon received two Pentagon/Department of War letters about returned items found at a US naval base in Bahrain.",
+      "timestamp": "[56:32]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "QAnon Shaman Jacob Chansley publicly broke with Trump over broken anti-interventionist promises.",
+      "timestamp": "[58:14]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "University of Westminster study links gluteus maximus shape (via 3D MRI) to type 2 diabetes, frailty, fitness, and sitting time.",
+      "timestamp": "[01:01:56]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "FDA-cleared $300 perineal electrode device ('taint zapper') for premature ejaculation uses reusable electronic component with six single-use adhesive patches, app-controlled 1-100 intensity.",
+      "timestamp": "[01:05:15]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum and ex-wife bonded by splitting Oreos: she licked cream, he ate cookies.",
+      "timestamp": "[01:12:36]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jeb's father (dead, trapped in a wooden board) is the target of a love spell; Jeb ate the spell paper.",
+      "timestamp": "[01:23:27]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Zombie Dick Clark claims sow ears from spectral pig slaughter, moves between planes, 'fucks with his mind' across 16 dimensions.",
+      "timestamp": "[01:37:00]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Military Elite Robot / Plug Guy manufactured one million plugs and one million orifices internally, assimilating 'primitive plug technology' across 16 dimensions.",
+      "timestamp": "[02:01:54]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Pepito claims 14-dimensional dog vision.",
+      "timestamp": "[02:04:06]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns from a two-week hiatus to a chaotic New Year broadcast: Hype Train monopolizes the cold open with a metaphysical 'train puberty' saga; the news block covers US-Venezuela oil talks, Maduro's kidnapping, Marco Rubio's Cuba saber-rattling, and Case's purge-day platform of arresting the Trump administration; chat news features a Glasgow trans celebration, Pentagon letters to a Toronto sex shop, and the QAnon Shaman renouncing Trump; Chet Guy the Science Eyes analyzes glute morphology and a $300 FDA-cleared taint zapper; Munch & Crum debate Oreo anatomy until Crum spasms out; Jeb Nogget demonstrates cat massage, a love spell for his board-trapped father, and a hypnotic 'video aspirin' routine; Zombie Dick Clark airs grievances about missing New Year's and freestyles with spectral pig ears; a self-declared supreme military robot escalates a plug/orifice battle to dimensional absurdity before a raid to Ricky Peacock.",
+  "_meta": {
+    "vod_id": "qV6OVgUibSA",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 99262,
+    "approx_prompt_tokens": 24815,
+    "transcript_lines": 236
+  }
+}
