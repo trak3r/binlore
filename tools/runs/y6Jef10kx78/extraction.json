@@ -1,0 +1,207 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "08:05",
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on from the control room; Case Blackwell joins at 07:11 for the live countdown."
+    },
+    {
+      "start": "08:05",
+      "end": "54:45",
+      "canonical_segment": "News",
+      "title": "War with Iran: Unilateral Declaration & Escalation",
+      "notes": "Case Blackwell anchors a solo monologue on the overnight U.S.–Iran war declaration, covering Trump's Mar-a-Lago address, F-15 losses, the Hormuz closure, AI target selection via Claude, and 555 reported Iranian deaths including 165 from a school strike; Kendelle walks through at 36:25 with theme music; Hype Train interrupts at 58:38."
+    },
+    {
+      "start": "54:45",
+      "end": "56:18",
+      "canonical_segment": "News",
+      "title": "Technical Interruption & Viewer Thanks",
+      "notes": "Stream stalls for three minutes during Kendelle's upload; Case thanks subscribers and bits, announces Crum's court date Friday."
+    },
+    {
+      "start": "56:18",
+      "end": "01:16:21",
+      "canonical_segment": "News",
+      "title": "Hype Train Derailment: Bugs Bunny & Bart Simpson Lore",
+      "notes": "Hype Train commandeers the feed with a freestyle rap asserting Bugs Bunny and Bart Simpson are in a mafia-powered sexual union that threatens reality; Case and Rick react with bafflement."
+    },
+    {
+      "start": "01:16:21",
+      "end": "01:31:25",
+      "canonical_segment": "Munch & Crum",
+      "title": "Trump Bruise Watch: Neck Lesion & Cream Guild",
+      "notes": "Munch and Crum debate whether new neck bruising indicates Trump rotting from the inside; Munch invokes his Schmaglin & Crint cream guild membership and vampire DNA origin story; Crum practices legal testimony for Friday's peen.dot.UI lawsuit."
+    },
+    {
+      "start": "01:31:25",
+      "end": "01:47:10",
+      "canonical_segment": "How To with Jeb",
+      "title": "Pubic Shaving Tutorial & Accent Barrier",
+      "notes": "Jeb Nogget presents a Gillette India four-step shaving guide featuring John's thorough demonstration; follows with an accent-reduction app drill that devolves into Spanish-language legal-ad spam."
+    },
+    {
+      "start": "01:47:10",
+      "end": "02:04:26",
+      "canonical_segment": "Therapy",
+      "title": "Couples Therapy with Dr. Chath",
+      "notes": "Dr. Chath conducts a telepathic session interrupted by aggressive dancing, Spanish loan ads, and a Cody Rhodes musical hallucination; Case graduates after admitting fear of therapy and JD Vance resemblance anxiety."
+    },
+    {
+      "start": "02:04:26",
+      "end": "02:28:30",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "IP Lawyer vs. 30 Bart Simpsons",
+      "notes": "Attorney Bartholomew Mould (Mould, Grout & Scrant) attempts copyright enforcement against a parade of rapping Bart Simpson avatars; each claimant is voted out and apparently killed by the tribunal; Mould exits in legal peril."
+    },
+    {
+      "start": "02:28:30",
+      "end": "02:31:02",
+      "canonical_segment": "News",
+      "title": "Raid Outro & G4 Curse",
+      "notes": "Case raids Will Neff while spreading the 'curse of G4 memories'; Pepito reveals he was Bart Simpson for six years after eating one."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored solo war monologue, moderated Munch & Crum, endured therapy, and failed to depose 30 Bart Simpsons as IP counsel.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open, managed stream recovery, announced Crum's Friday court date, and confessed to a six-year Bart Simpson possession.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through with theme music at 36:25, declined Q&A, revealed sushi-cat shirt from Hawaii, and advocated 'put an end to it all' on global conflict.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Trump's neck lesions, claimed surprise lawyer for Friday's peen.dot.UI lawsuit, and practiced perjury-adjacent testimony.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued Trump is fine via cream-guild logic, revealed vampire DNA from vampire girlfriends, and proposed returning to the wall.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Derailed war coverage with a freestyle asserting Bugs Bunny and Bart Simpson's mafia-backed sexual union threatens humanity.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "correspondent",
+      "notes": "correspondent. Read chat donations during war segment, praised falling F-15 pirouettes, and questioned Hype Train's furry yaoi output.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosted How To with Jeb featuring a graphic pubic-shaving tutorial and a malfunctioning accent-barrier app.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Chath",
+      "role": "therapist",
+      "notes": "therapist. Conducted telepathic couples therapy, danced aggressively, played Spanish loan ads, and graduated Case after a Cody Rhodes vision.",
+      "canonical_name": "Dr. Chath",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Bartholomew Mould",
+      "role": "legal counsel",
+      "notes": "legal counsel. Appeared as IP attorney in Jo Rogen Experience, attempted to enforce Simpsons copyright against 30 rapping Barts, and fled under threat of murder liability.",
+      "canonical_name": "Bartholomew Mould",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Join the Wall",
+      "beat": "[01:28:37] Munch asks 'More wall content?' and suggests 'We could go back to the wall,' referencing the resolved hell-transit arc.",
+      "timestamp": "01:28:37"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum",
+      "fact": "Being sued by peen.dot.UI with court date Friday 2026-03-06; claims surprise lawyer but does not yet have one.",
+      "timestamp": "[57:08]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch",
+      "fact": "Claims vampire DNA on back of neck from 'fucking a couple of really hot vampire girls,' causing annual blood thirst and garlic intolerance.",
+      "timestamp": "[01:26:58]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch",
+      "fact": "Asserts vampires are lactose intolerant for light and garlic; lactate supplements allow sun exposure (cites Stephen Miller).",
+      "timestamp": "[01:28:37]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Expressed desire to lose weight to stop resembling JD Vance.",
+      "timestamp": "[02:02:40]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Claims to have been Bart Simpson for six years after eating a whole Bart; retained maximum aura and face tattoos while remaining a dog.",
+      "timestamp": "[02:29:52]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened with a solo anchor monologue on the unilateral U.S. declaration of war against Iran, covering F-15 losses, the Hormuz closure, and Anthropic's Claude selecting targets. The broadcast devolved through a Hype Train freestyle on Bugs Bunny–Bart Simpson mafia lore, a Munch & Crum debate on Trump's neck lesions and Munch's vampire origin, a graphic Jeb Nogget shaving tutorial, a telepathic therapy session with Dr. Chath, and a Jo Rogen Experience where an IP attorney was overwhelmed by 30 rapping Bart Simpson claimants. The show closed with a raid on Will Neff and Pepito's confession of a six-year Bart Simpson possession.",
+  "_meta": {
+    "vod_id": "y6Jef10kx78",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 128215,
+    "approx_prompt_tokens": 32053,
+    "transcript_lines": 365
+  }
+}

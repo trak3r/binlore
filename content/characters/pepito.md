@@ -61,12 +61,13 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (103)</summary>
+<summary>Earlier appearances (104)</summary>
 
 | Episode | Notes |
 |---|---|
 | [[episodes/2026-06-03|2026-06-03]] | Executive Producer. Canine broadcast executive appearing via Producer Cam. Opens show, manages sub goals, discusses Bart Simpson tattoo logistics. |
 | [[episodes/2026-05-29|2026-05-29]] | Executive producer opening the show with his signature intro. |
+| [[episodes/2026-03-03|2026-03-03]] | executive producer. |
 | [[episodes/2026-02-26|2026-02-26]] | executive producer. |
 | [[episodes/2026-02-19|2026-02-19]] | executive producer. |
 | [[episodes/2026-02-12|2026-02-12]] | executive producer. |
@@ -291,3 +292,4 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[12:19]** ([[episodes/2026-02-12|2026-02-12]]): Developed proprietary donation bar where 300 bits equals one sub equivalent; plans independent donation button to bypass Twitch/Amazon.
 - **[]** ([[episodes/2026-02-19|2026-02-19]]): [40:16] Set hype train goal that accidentally funded Crum's legal defense fund instead of intended purpose.
 - **[[11:17]]** ([[episodes/2026-02-26|2026-02-26]]): Demands seven buckets of blood for production; asserts humans are 99.99% 'bag of blood'; claims to be pope-sized.
+- **[[02:29:52]]** ([[episodes/2026-03-03|2026-03-03]]): Claims to have been Bart Simpson for six years after eating a whole Bart; retained maximum aura and face tattoos while remaining a dog.

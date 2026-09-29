@@ -227,3 +227,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[21:39]** ([[episodes/2026-02-04|2026-02-04]]): [21:39] Case has lost approximately 35 pounds since originally planning the workout stream.
 - **[]** ([[episodes/2026-02-19|2026-02-19]]): [08:43] Accidentally shaved beard clean after chunking buzz cut; expects 5 o'clock shadow by Monday, full beard in 2-3 weeks.
 - **[[08:22]]** ([[episodes/2026-02-26|2026-02-26]]): Beard growing back after clean-shaven period; claims 500 unassisted pull-ups with trainer assistance.
+- **[[02:02:40]]** ([[episodes/2026-03-03|2026-03-03]]): Expressed desire to lose weight to stop resembling JD Vance.

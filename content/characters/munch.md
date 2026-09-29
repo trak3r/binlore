@@ -40,6 +40,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2026-06-05|2026-06-05]] | Senior debate analyst with distinctive disheveled appearance and confrontational debate style. |
 | [[episodes/2026-05-26|2026-05-26]] | Senior debate analyst known for his disheveled silver hair and combative political style. Engages in heated exchanges with Crum and frequently references his 'Dick Punch' wager storyline. |
 | [[episodes/2026-03-07|2026-03-07]] | Appears in wizard attire as immortal skeleton; confirms he is a warlock; missed the trial but compares it to ancient druidic proceedings. |
+| [[episodes/2026-03-03|2026-03-03]] | debate analyst. |
 | [[episodes/2026-02-26|2026-02-26]] | debate analyst. |
 | [[episodes/2026-02-19|2026-02-19]] | debate analyst. |
 | [[episodes/2026-02-17|2026-02-17]] | debate analyst. |
@@ -47,13 +48,13 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2026-02-10|2026-02-10]] | debate analyst. |
 | [[episodes/2026-02-04|2026-02-04]] | debate analyst. |
 | [[episodes/2026-01-21|2026-01-21]] | debate analyst. |
-| [[episodes/2026-01-06|2026-01-06]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (148)</summary>
+<summary>Earlier appearances (149)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-01-06|2026-01-06]] | debate analyst. |
 | [[episodes/2025-12-13|2025-12-13]] | debate analyst. |
 | [[episodes/2025-12-11|2025-12-11]] | debate analyst. |
 | [[episodes/2025-11-25|2025-11-25]] | debate analyst. |
@@ -288,3 +289,5 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[01:51:47]** ([[episodes/2025-09-29|2025-09-29]]): Alter ego 'El Manchester' resides in hell per concubine testimony.
 - **[]** ([[episodes/2025-10-04|2025-10-04]]): Beyblade tournament victory brings total to 301 points ('301 Dalmatians'); claims 'unassailable castle of victory.' [2:24:57]
 - **[]** ([[episodes/2026-01-21|2026-01-21]]): New Munch & Crum poll system deployed: mods can trigger polls via !mc, !munch, !crumb, or !mnc with slash-separated options [2:02:55].
+- **[[01:26:58]]** ([[episodes/2026-03-03|2026-03-03]]): Claims vampire DNA on back of neck from 'fucking a couple of really hot vampire girls,' causing annual blood thirst and garlic intolerance.
+- **[[01:28:37]]** ([[episodes/2026-03-03|2026-03-03]]): Asserts vampires are lactose intolerant for light and garlic; lactate supplements allow sun exposure (cites Stephen Miller).

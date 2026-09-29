@@ -51,17 +51,18 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity and Dick Punch wager. |
 | [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (hollow-eyed, bald). Argues for political decorum, reveals Dubai 'classified' social life, honey-bag therapy, claims penile conditioning for gorilla dick-punch. |
 | [[episodes/2026-03-07|2026-03-07]] | Stands trial for peen.ui IP infringement; reveals he co-founded peen.ui, has a 'nasty pig room,' and suffers from labia growing on his… |
+| [[episodes/2026-03-03|2026-03-03]] | debate analyst. |
 | [[episodes/2026-02-28|2026-02-28]] | debate analyst. |
 | [[episodes/2026-02-26|2026-02-26]] | debate analyst. |
 | [[episodes/2026-02-19|2026-02-19]] | debate analyst. |
 | [[episodes/2026-02-17|2026-02-17]] | debate analyst. |
-| [[episodes/2026-02-14|2026-02-14]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (160)</summary>
+<summary>Earlier appearances (161)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-02-14|2026-02-14]] | debate analyst. |
 | [[episodes/2026-02-12|2026-02-12]] | debate analyst. |
 | [[episodes/2026-02-10|2026-02-10]] | debate analyst. |
 | [[episodes/2026-02-04|2026-02-04]] | debate analyst. |
@@ -436,3 +437,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[30:34]** ([[episodes/2026-02-28|2026-02-28]]): Crum considers investing the $6B valuation into building a data center tower in his backyard, potentially buying airspace up to two miles.
 - **[31:09]** ([[episodes/2026-02-28|2026-02-28]]): Crum describes peen.ui as a service that analyzes urine photos for stock advice; peenuchrist.ai offers prayers to God based on biometric data.
 - **[33:27]** ([[episodes/2026-02-28|2026-02-28]]): Crum mentions 'light arson charges' among the lawsuit allegations.
+- **[[57:08]]** ([[episodes/2026-03-03|2026-03-03]]): Being sued by peen.dot.UI with court date Friday 2026-03-06; claims surprise lawyer but does not yet have one.
