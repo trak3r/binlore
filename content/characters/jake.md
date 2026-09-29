@@ -22,7 +22,8 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 ## Appearances
 
 | Episode | Notes |
-|---------|-------|
+|---|---|
+| [[episodes/2026-01-21|2026-01-21]] | studio guest. |
 | [[episodes/2025-05-30|2025-05-30]] | Auto-created minor character after appearing in 3 extracted episodes (threshold 3). |
 
 ## Notable moments

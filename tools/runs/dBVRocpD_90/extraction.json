@@ -1,0 +1,180 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "37:07",
+      "canonical_segment": "News",
+      "title": "Greenland Pressure & Trump Press Conference",
+      "notes": "Case opens with Pepito's cold-open sign-on; covers Trump's Greenland acquisition rhetoric, NATO comments, leaked Macron texts, and a secondhand Nobel Peace Prize; Jake appears at desk stuck in mud/cement."
+    },
+    {
+      "start": "37:07",
+      "end": "58:07",
+      "canonical_segment": "Trent at the Movies",
+      "title": "Trailer Roundup: Bait, The Humanoid, Vampires of the Velvet Lounge",
+      "notes": "Trent (Case's movie persona) reviews trailers with Pepito in the interview room; includes BBC's 'Bait,' 1979's 'The Humanoid,' and 'Vampires of the Velvet Lounge' starring Stephen Dorff; Flash Polls malfunction."
+    },
+    {
+      "start": "58:07",
+      "end": "1:16:36",
+      "canonical_segment": "News",
+      "title": "Chat News: Emu Handcuffs, Ben Hooper Feud, Fart Science, Don Lemon, AI Twin, Arby's",
+      "notes": "Case and Jeff Ripple process cream.team Discord submissions: overdue library book, emu handcuffing (Jeff does Ben Hooper impression), 'are you dead' Chinese app, fart-sniffing Alzheimer's study (Jeff triggers Chet bit), Don Lemon/DOJ clash, water/AI stats, male libido peak study, AI digital twin, Arby's steak bites and meat carrots."
+    },
+    {
+      "start": "1:41:09",
+      "end": "1:56:41",
+      "canonical_segment": "Therapy",
+      "title": "Wood Dad Astral Projects Into Session",
+      "notes": "Dr. Chath's therapy session hijacked by Jeb's father (Wood Dad) projecting from his wooden imprisonment; discusses death, Jeb's incompetence, meat carrots, and spectral glasses; Case realizes he cannot distinguish Wood Dad from the wood."
+    },
+    {
+      "start": "1:56:41",
+      "end": "2:09:16",
+      "canonical_segment": "Munch & Crum",
+      "title": "Arby's & 3D-Printed Meat Debate; New Poll System Debut",
+      "notes": "Munch and Crum debate Arby's quality and 3D-printed meat via new mod-triggered poll commands (!mc, !munch, !crumb, !mnc); Crum endorses wet meats, Munch defends farm animals; both debut finger-gun 'crumb shot' and 'kill shot' choreography."
+    },
+    {
+      "start": "2:09:16",
+      "end": "2:20:08",
+      "canonical_segment": "DJ Newsic",
+      "title": "Chips (Fries) Wash Ashore in Eastbourne",
+      "notes": "DJ Newsic auto-tunes a song about thousands of British chip/fry bags washing up on Eastbourne beaches from shipping containers, volunteer cleanup, veterinary concerns, and wildfire risk; Case raids Ovali to close."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored Tuesday Newsday covering Trump's Greenland push, oversaw chaotic studio with cement-trapped Jake, Trent movie segment, therapy invasion, and Munch & Crum poll debut.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jake",
+      "role": "studio guest",
+      "notes": "studio guest. Appeared at news desk covered in mud/cement, became stuck to chair, and required crowbar and blowtorch extraction by Peter Gibbon.",
+      "canonical_name": "Jake",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Extracted Jake from cement trap, claimed to have eaten and excreted cement himself, and remained stuck to his own chair.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "movie correspondent",
+      "notes": "movie correspondent. Hosted Trent at the Movies segment reviewing trailers for Bait, The Humanoid, and Vampires of the Velvet Lounge alongside Pepito.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Delivered chat news including emu handcuffing, Ben Hooper impression, fart-science bit, Don Lemon/DOJ story, and Arby's steak bites coverage.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Chath",
+      "role": "therapist",
+      "notes": "therapist. Conducted therapy session largely derailed by Wood Dad's astral projection, offering minimal input before Wood Dad declared a breakthrough.",
+      "canonical_name": "Dr. Chath",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Wood Dad (Jeb's Dad)",
+      "role": "therapy guest",
+      "notes": "therapy guest. Astral-projected from wooden imprisonment into therapy, bickered with Jeb about his death, and claimed breakthrough when Case couldn't distinguish him from the wood.",
+      "canonical_name": "Wood Dad (Jeb's Dad)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Crum on Arby's and 3D-printed meat, debuted new mod-triggered poll system, and performed 'kill shot' finger-gun choreography.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued Arby's is bad but he'd eat it anyway including 3D-printed meat, advised on new poll system, and demonstrated 'crumb shot' finger guns.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "musical correspondent",
+      "notes": "musical correspondent. Closed broadcast with auto-tuned song about British chips (fries) washing ashore in Eastbourne, volunteer cleanup, and wildfire risk.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Ate cement, defecated cement, and became stuck to his chair [36:37].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Wears a 'piss jacket' made exclusively of his own urine [36:37].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeff Ripple",
+      "fact": "Performed a 'Chet Guy the Science Eyes' bit claiming a 100% protein plus lawn grass diet makes his farts 'clinical grade chemical weapons' that boost brain function [1:10:06].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Wood Dad (Jeb's Dad)",
+      "fact": "Demonstrated astral projection from his wooden imprisonment into the therapy studio using 'spectral glasses' [1:42:47].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "New Munch & Crum poll system deployed: mods can trigger polls via !mc, !munch, !crumb, or !mnc with slash-separated options [2:02:55].",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchored a Tuesday Newsday broadcast covering Trump's renewed Greenland acquisition threats, a Don Lemon DOJ confrontation, and assorted chat-sourced oddities before Trent reviewed trailers, Jeff Ripple delivered a fart-science bit, Dr. Chath hosted a therapy session invaded by Jeb's astral-projecting father, Munch and Crum debated Arby's using a new mod-triggered poll system, and DJ Newsic closed with a song about British fries washing ashore in Eastbourne.",
+  "_meta": {
+    "vod_id": "dBVRocpD_90",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 109101,
+    "approx_prompt_tokens": 27275,
+    "transcript_lines": 309
+  }
+}

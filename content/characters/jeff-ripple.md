@@ -99,3 +99,4 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 - **[]** ([[episodes/2025-03-31|2025-03-31]]): Jeff Ripple returned from hiatus spent in Cabo at 'MMA gym/kung fu' after absence since early March. [20:11, 53:36]
 - **[45:19]** ([[episodes/2025-06-09|2025-06-09]]): Jeff Ripple fills in for missing Jeb on How To with Jeb.
 - **[]** ([[episodes/2025-10-31|2025-10-31]]): [36:44] Chat poll settled Jeff Ripple's last name as 'Wet Mitchell' after HR toilet bit.
+- **[]** ([[episodes/2026-01-21|2026-01-21]]): Performed a 'Chet Guy the Science Eyes' bit claiming a 100% protein plus lawn grass diet makes his farts 'clinical grade chemical weapons' that boost brain function [1:10:06].

@@ -44,6 +44,7 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of 'idiocracy' comment, not actively speaking. |
 | [[episodes/2026-05-29|2026-05-29]] | Mentioned as a stowaway causing a chaos portal incident. |
 | [[episodes/2026-03-07|2026-03-07]] | Referenced by Case during wrap-up as 'Jeff' in the newsroom. |
+| [[episodes/2026-01-21|2026-01-21]] | news stowaway. |
 | [[episodes/2026-01-07|2026-01-07]] | Infiltrated the studio as a wall-dwelling stowaway, brought wall energy that broke equipment, and threatened to summon Hate Sock. |
 | [[episodes/2026-01-06|2026-01-06]] | news stowaway. |
 | [[episodes/2025-12-24|2025-12-24]] | news stowaway. |
@@ -55,13 +56,13 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2025-09-05|2025-09-05]] | news stowaway. |
 | [[episodes/2025-09-03|2025-09-03]] | news stowaway. |
 | [[episodes/2025-08-26|2025-08-26]] | news stowaway. |
-| [[episodes/2025-08-23|2025-08-23]] | news stowaway. |
 
 <details>
-<summary>Earlier appearances (69)</summary>
+<summary>Earlier appearances (70)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-08-23|2025-08-23]] | news stowaway. |
 | [[episodes/2025-08-11|2025-08-11]] | News stowaway reads gooner AI porn addiction and medical oddity stories while promoting his wall crawlspace mythology. |
 | [[episodes/2025-08-02|2025-08-02]] | news stowaway. |
 | [[episodes/2025-07-18|2025-07-18]] | news stowaway. |
@@ -180,3 +181,4 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 - **[2:15:44]** ([[episodes/2025-08-23|2025-08-23]]): Peter Gibbon claims 'time is an illusion outside the wall; in the wall, it's real.'
 - **[02:35:03]** ([[episodes/2025-09-03|2025-09-03]]): Claims to have exited wall permanently; appeared twice on Trip's street interviews [02:35:03, 02:36:05].
 - **[]** ([[episodes/2025-10-04|2025-10-04]]): Claims cosmic wall-being status: 'I'm a wall of fortitude as a person and if you break a wall you can rebuild it.' [46:34]
+- **[]** ([[episodes/2026-01-21|2026-01-21]]): Ate cement, defecated cement, and became stuck to his chair [36:37].
