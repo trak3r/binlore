@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T12:06:38.035399+00:00",
+  "generated_at": "2026-09-29T12:12:06.531238+00:00",
   "thresholds": {
     "minor": 3,
     "recurring": 6,
@@ -8,7 +8,7 @@
   "characters": {
     "case-blackwell": {
       "name": "Case Blackwell",
-      "count": 243,
+      "count": 244,
       "episodes": [
         "2023-11-22",
         "2023-11-23",
@@ -224,6 +224,7 @@
         "2025-10-18",
         "2025-10-20",
         "2025-10-31",
+        "2025-11-13",
         "2026-03-07",
         "2026-05-29",
         "2026-06-01",
@@ -260,7 +261,7 @@
     },
     "pepito": {
       "name": "Pepito",
-      "count": 221,
+      "count": 222,
       "episodes": [
         "2023-11-30",
         "2023-12-06",
@@ -452,6 +453,7 @@
         "2025-10-20",
         "2025-10-31",
         "2025-11-03",
+        "2025-11-13",
         "2026-03-07",
         "2026-05-26",
         "2026-05-29",
@@ -490,7 +492,7 @@
     },
     "kendelle": {
       "name": "Kendelle",
-      "count": 187,
+      "count": 188,
       "episodes": [
         "2023-11-23",
         "2023-11-28",
@@ -667,6 +669,7 @@
         "2025-10-18",
         "2025-10-20",
         "2025-10-31",
+        "2025-11-13",
         "2026-03-07",
         "2026-06-03",
         "2026-06-05",
@@ -686,7 +689,7 @@
     },
     "crum": {
       "name": "Crum (Leonard Crum)",
-      "count": 173,
+      "count": 174,
       "episodes": [
         "2023-11-22",
         "2023-11-28",
@@ -839,6 +842,7 @@
         "2025-10-18",
         "2025-10-31",
         "2025-11-03",
+        "2025-11-13",
         "2026-03-07",
         "2026-05-26",
         "2026-06-05",
@@ -868,7 +872,7 @@
     },
     "hype-train": {
       "name": "Hype Train",
-      "count": 163,
+      "count": 164,
       "episodes": [
         "2023-11-22",
         "2023-12-02",
@@ -1006,6 +1010,7 @@
         "2025-10-20",
         "2025-10-31",
         "2025-11-03",
+        "2025-11-13",
         "2026-03-07",
         "2026-05-29",
         "2026-06-01",
@@ -1040,7 +1045,7 @@
     },
     "munch": {
       "name": "Munch (Ralph Munchcut)",
-      "count": 163,
+      "count": 164,
       "episodes": [
         "2023-11-22",
         "2023-11-28",
@@ -1188,6 +1193,7 @@
         "2025-10-18",
         "2025-10-31",
         "2025-11-03",
+        "2025-11-13",
         "2026-03-07",
         "2026-05-26",
         "2026-06-05",
@@ -1212,7 +1218,7 @@
     },
     "jeff-ripple": {
       "name": "Jeff Ripple",
-      "count": 111,
+      "count": 112,
       "episodes": [
         "2023-11-22",
         "2023-11-28",
@@ -1311,6 +1317,7 @@
         "2025-10-16",
         "2025-10-31",
         "2025-11-03",
+        "2025-11-13",
         "2026-05-29",
         "2026-06-05",
         "2026-06-08",
@@ -1953,7 +1960,7 @@
     },
     "dj-newsic": {
       "name": "DJ Newsic",
-      "count": 33,
+      "count": 34,
       "episodes": [
         "2023-12-12",
         "2023-12-21",
@@ -1984,6 +1991,7 @@
         "2025-07-10",
         "2025-09-11",
         "2025-09-21",
+        "2025-11-13",
         "2026-06-05",
         "2026-06-15",
         "2026-06-19",
@@ -2628,6 +2636,17 @@
         "Jake Whitehole"
       ]
     },
+    "kevin": {
+      "name": "Kevin",
+      "count": 2,
+      "episodes": [
+        "2025-10-10",
+        "2025-11-13"
+      ],
+      "display_names": [
+        "Kevin"
+      ]
+    },
     "leon-kennedy": {
       "name": "Leon Kennedy",
       "count": 2,
@@ -2811,6 +2830,16 @@
       ],
       "display_names": [
         "Biscord (Dronovan)"
+      ]
+    },
+    "blark": {
+      "name": "Blark",
+      "count": 1,
+      "episodes": [
+        "2025-11-13"
+      ],
+      "display_names": [
+        "Blark"
       ]
     },
     "bob-pepper": {
@@ -3413,6 +3442,16 @@
         "Hamburger"
       ]
     },
+    "hawk-guy": {
+      "name": "Hawk Guy",
+      "count": 1,
+      "episodes": [
+        "2025-11-13"
+      ],
+      "display_names": [
+        "Hawk Guy"
+      ]
+    },
     "head-of-the-family-actor": {
       "name": "Head of the Family Actor",
       "count": 1,
@@ -3533,6 +3572,16 @@
         "Jelly Bean"
       ]
     },
+    "jen-jennajennygenevieve": {
+      "name": "Jen (Jenna/Jenny/Genevieve)",
+      "count": 1,
+      "episodes": [
+        "2025-11-13"
+      ],
+      "display_names": [
+        "Jen (Jenna/Jenny/Genevieve)"
+      ]
+    },
     "jeremy-pizzagate": {
       "name": "Jeremy Pizzagate",
       "count": 1,
@@ -3631,16 +3680,6 @@
       ],
       "display_names": [
         "Kasim"
-      ]
-    },
-    "kevin": {
-      "name": "Kevin",
-      "count": 1,
-      "episodes": [
-        "2025-10-10"
-      ],
-      "display_names": [
-        "Kevin"
       ]
     },
     "kyle": {
@@ -4211,6 +4250,16 @@
       ],
       "display_names": [
         "Walden Cronmister"
+      ]
+    },
+    "weegee": {
+      "name": "Weegee",
+      "count": 1,
+      "episodes": [
+        "2025-11-13"
+      ],
+      "display_names": [
+        "Weegee"
       ]
     },
     "woody-woodard": {

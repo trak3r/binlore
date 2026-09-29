@@ -44,6 +44,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-06-19|2026-06-19]] | Lead anchor and in-studio contributor who periodically enters the broadcast for signature segments. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in birthday context, not actively speaking. |
 | [[episodes/2026-06-05|2026-06-05]] | Lead anchor and on-air contributor who walks through the studio for signature segments. |
+| [[episodes/2025-11-13|2025-11-13]] | in-studio contributor. |
 | [[episodes/2025-10-31|2025-10-31]] | in-studio contributor. |
 | [[episodes/2025-10-20|2025-10-20]] | in-studio contributor. |
 | [[episodes/2025-10-18|2025-10-18]] | in-studio contributor. |
@@ -54,13 +55,13 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-10-06|2025-10-06]] | in-studio contributor. |
 | [[episodes/2025-10-04|2025-10-04]] | in-studio contributor. |
 | [[episodes/2025-10-02|2025-10-02]] | in-studio contributor. |
-| [[episodes/2025-09-29|2025-09-29]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (163)</summary>
+<summary>Earlier appearances (164)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-09-29|2025-09-29]] | in-studio contributor. |
 | [[episodes/2025-09-26|2025-09-26]] | in-studio contributor. |
 | [[episodes/2025-09-25|2025-09-25]] | in-studio contributor. |
 | [[episodes/2025-09-15|2025-09-15]] | in-studio contributor. |
@@ -305,3 +306,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[34:37]** ([[episodes/2025-10-10|2025-10-10]]): Kendelle confirmed for Chicago Sketch Fest performance November 8 at 7:30 PM (The Unseen Sketches of Kids in the Hall with Kevin McDonald).
 - **[1:50:34]** ([[episodes/2025-10-16|2025-10-16]]): Actively clipping cat nails (Miss Zorro) with Case's assistance; seeking Disney social media contacts. [1:50:34, 1:50:56]
 - **[]** ([[episodes/2025-10-31|2025-10-31]]): [22:53] Kendall and Case will wear Pink Panther and Inspector Clouseau couples costumes for Halloween 2025.
+- **[[01:56:57]]** ([[episodes/2025-11-13|2025-11-13]]): Returns home in tiger vest; advises 'don't use the n-word at work' as sign-off.

@@ -1,0 +1,226 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "Hype Train",
+      "start": "00:06",
+      "end": "26:27",
+      "title": "Hype Train Burp-Pole Lore & Intern Auditions",
+      "notes": "Pepito opens broadcast; Hype Train delivers extended freestyle about burping from a 'burp pole' (train penis/throat); three interns audition for town hall duty, introducing Blark as third intern."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "26:27",
+      "end": "55:04",
+      "title": "Epstein Files: Maxwell Prison Perks & Israeli Intelligence Links",
+      "notes": "Jeff Ripple joins; coverage of Jamie Raskin letter on Ghislaine Maxwell commutation bid, House vote to release unclassified Epstein records, Drop Site News reporting on Israeli intelligence officers staying at Epstein's Manhattan apartment post-conviction."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "55:04",
+      "end": "01:03:16",
+      "title": "Weegee Intervention: Mario Is Missing Luigi Call-In",
+      "notes": "Viewer-requested Weegee (MS-DOS Luigi) appears; claims to volunteer at dog shelter/kitchen hybrid, asserts Bob-omb Battlefield is owned by Epstein, refuses to reveal which Mario 3 level is Epstein Island."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "start": "01:03:16",
+      "end": "01:17:06",
+      "title": "Intern Superiority Debate & Wig Incident",
+      "notes": "Munch and Crum debate best intern (Blark vs. curly-haired lady); Munch claims victory via prima intern rights; Crum dons then discards wig; Kendall mentioned as off-screen partner."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "01:17:06",
+      "end": "01:22:26",
+      "title": "Kendelle Call-In: Thai Order & Carrot Diet",
+      "notes": "Kendelle calls in from break; Case orders Thai food live (pad see ew, coconut shrimp, dumplings); Kendall reveals she's been eating carrots all day."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "01:22:26",
+      "end": "01:41:54",
+      "title": "Town Hall: Blark & Jen Face Viewer Questions",
+      "notes": "Interns Blark and Jen (Jenna/Jenny/Genevieve) field chat questions; Blark's crush on Jen exposed by caller Kevin; Blark reveals 'crazy bone' medical condition preventing fights; Jen's rice crispy treats criticized."
+    },
+    {
+      "canonical_segment": "DJ Newsic",
+      "start": "01:41:54",
+      "end": "01:58:22",
+      "title": "DJ Newsic Sign-Off: Jeremy Renner Allegations & Hawk Guy Verdict",
+      "notes": "DJ Newsic scores Jeremy Renner harassment/ICE threat story; Hawk Guy delivers expert commentary rap denying Renner's innocence; Kendall returns home, signs off with dietary advice."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors return broadcast; manages Hype Train derailment, Epstein coverage, intern town hall, and Kendall call-in.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open sign-on as 'Papita'; dismissive of hype train and intern management.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype announcer",
+      "notes": "hype announcer. Derails into 20-minute burp-pole mythology freestyle; acknowledges Skymer sub milestones.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosts Epstein news block; reads Raskin letter and Drop Site reporting; debates Trump accountability with Case.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates Munch over best intern; wears then discards wig; references 'Crumfuscious' middle name.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Claims intern debate victory via prima intern rights; adds censor bars to siren graphics; mocks Crum's wig.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Calls in from break; orders Thai food; returns home to close broadcast with 'don't say the n-word at work' advice.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Blark",
+      "role": "intern",
+      "notes": "Debuts as third intern; claims 'burden' of supporting himself; crush on Jen exposed; has 'crazy bone' condition.",
+      "canonical_name": "Blark",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jen (Jenna/Jenny/Genevieve)",
+      "role": "intern",
+      "notes": "Curly-haired lady intern; defends herself against Blark; rice crispy treats criticized as 'soaking wet'.",
+      "canonical_name": "Jen (Jenna/Jenny/Genevieve)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Weegee",
+      "role": "call-in guest",
+      "notes": "call-in guest. MS-DOS Luigi from Mario Is Missing; claims dog shelter/kitchen volunteer; asserts Epstein owns Bob-omb Battlefield.",
+      "canonical_name": "Weegee",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kevin",
+      "role": "call-in guest",
+      "notes": "call-in guest. Reveals Blark's crush on Jen; prompts 'egg nog' cryptic follow-up.",
+      "canonical_name": "Kevin",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hawk Guy",
+      "role": "expert commentator",
+      "notes": "expert commentator. Delivers rap verdict on Jeremy Renner allegations; distinguishes himself from Hawkeye; claims 6% miss rate.",
+      "canonical_name": "Hawk Guy",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "musical finale host",
+      "notes": "musical finale host. Scores Renner story with 'intensity' track; lasers active; signs off with Kendall rap.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Epstein coverage",
+      "beat": "House votes to release unclassified Epstein records; Drop Site News publishes Israeli intelligence links (senior officers stayed at Epstein Manhattan apartment 2013-2016 post-conviction).",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Blark",
+      "fact": "Introduced as third intern; first name Blark; claims 'burden' of supporting himself in intern debate.",
+      "timestamp": "[10:45]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jen (intern)",
+      "fact": "Named Jenna/Jenny/Genevieve; goes by J; rice crispy treats with caramel drizzle described as 'soaking wet' by Blark.",
+      "timestamp": "[01:22:58]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Blark",
+      "fact": "Has a 'crazy bone' (one bone 'off in a bad way') that doctors say makes him incapable of fighting.",
+      "timestamp": "[01:39:31]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Blark",
+      "fact": "Crush on Jen revealed by caller Kevin during town hall.",
+      "timestamp": "[01:37:06]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Hawk Guy",
+      "fact": "Distinguishes himself from Hawkeye; claims 'miss about six percent of the time' hit rate.",
+      "timestamp": "[01:53:50]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Returns home in tiger vest; advises 'don't use the n-word at work' as sign-off.",
+      "timestamp": "[01:56:57]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News returns from Chicago with a Hype Train burp-pole mythology spiral, then pivots to Epstein coverage: House votes on document release while Drop Site News ties Israeli intelligence to Epstein's post-conviction Manhattan stays. A viewer-summoned Weegee (MS-DOS Luigi) derails into Bob-omb Battlefield conspiracy claims. Munch and Crum debate intern supremacy (Blark vs. Jen), Crum briefly wigs, and Kendelle calls in for live Thai ordering. Town hall exposes Blark's crush and 'crazy bone' condition. DJ Newsic closes with a Jeremy Renner harassment score featuring Hawk Guy's verdict rap.",
+  "_meta": {
+    "vod_id": "UcAZTjmALyg",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 90188,
+    "approx_prompt_tokens": 22547,
+    "transcript_lines": 206
+  }
+}
