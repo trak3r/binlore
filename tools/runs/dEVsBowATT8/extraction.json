@@ -1,0 +1,204 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "08:06",
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on and countdown, declaring the show live."
+    },
+    {
+      "start": "08:06",
+      "end": "21:56",
+      "canonical_segment": "News",
+      "title": "Iran War Escalation & Insider Trading Allegations",
+      "notes": "Case Blackwell and Jeff Ripple cover Israeli airstrikes on Tehran, a 15-point US ceasefire proposal to Iran via Pakistan, and suspicious market bets on the conflict."
+    },
+    {
+      "start": "21:56",
+      "end": "35:52",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Freestyle Derailment",
+      "notes": "Hype Train abandons subscriber acknowledgments for an extended freestyle rap about being a skeleton, not receiving texts, and metaphysical musings, eventually declaring he is done talking forever."
+    },
+    {
+      "start": "35:52",
+      "end": "57:36",
+      "canonical_segment": "News",
+      "title": "Melania's Robot, Denmark's Invasion Prep, Sora Shutdown",
+      "notes": "Coverage of Melania Trump's White House robot demonstration, Denmark's reported plans to blow up Greenland runways against a potential US invasion, and OpenAI's sudden shutdown of the Sora video generation platform after a $1B Disney partnership."
+    },
+    {
+      "start": "57:36",
+      "end": "01:07:01",
+      "canonical_segment": "Munch & Crum",
+      "title": "Burger Bun vs. Sliced Bread Debate",
+      "notes": "Munch argues for the structural necessity of hamburger buns; Crum champions any solid bread. Munch references the pending Crum Dick Punch and the mechanical gorilla's logistics."
+    },
+    {
+      "start": "01:07:01",
+      "end": "01:25:12",
+      "canonical_segment": "AI Rooney",
+      "title": "AI Rooney Stress Test Post-Repair",
+      "notes": "Case Blackwell reboots AI Rooney after fixing its 'horny' processors and authenticity meter; Rooney processes ten viewer complaints with surreal, soup-obsessed and sexually explicit rants before being stood down."
+    },
+    {
+      "start": "01:25:12",
+      "end": "01:42:35",
+      "canonical_segment": "Amongst the Web",
+      "title": "Viewer Video Submissions with Jake",
+      "notes": "Case and guest Jake watch viewer submissions: an 'unshittificator' satire, a Jeff Lewis oven sketch, and a vintage Tulip Paint musical advertisement."
+    },
+    {
+      "start": "01:42:35",
+      "end": "02:13:33",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Kevin's 'Last Match Standing' Tile Battle Royale",
+      "notes": "Brandon (CryptoZeu$) learns and plays Kevin Pereira's new web-based tile-matching PvP game, contending with his mother's door interventions, a lawyer call revealing a conflict of interest, and alleged developer hacks."
+    },
+    {
+      "start": "02:13:33",
+      "end": "02:35:36",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Police Simulator Patrol Shift",
+      "notes": "Brandon roleplays a masked officer issuing parking tickets, frisking suspects, and shooting at fleeing vehicles, growing increasingly frustrated by the game's restrictions on police brutality."
+    },
+    {
+      "start": "02:35:36",
+      "end": "02:39:31",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid to Still Do",
+      "notes": "Case wraps the broadcast, thanks Kevin Pereira and Brandon, and raids a Last of Us speedrunner."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the broadcast, fixed AI Rooney, debated burger topology, and oversaw gaming segments with CryptoZeu$.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered the cold open station sign-on and countdown.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosted the news desk, read Iran war casualty figures, and reacted to Hype Train's derailment.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Hijacked the broadcast for a 14-minute freestyle rap about skeletal existence and unanswered texts before quitting forever.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defended hamburger buns as a civilizational achievement and needled Crum about the overdue gorilla groin punch.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued that any solid bread supersedes buns, claimed caveman ancestry, and confirmed the Dick Punch remains logistically TBD.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "AI Rooney",
+      "role": "cyborg commentator",
+      "notes": "cyborg commentator. Processed ten viewer complaints after Case repaired its processors, veering between soup philosophy and explicit sexual rants.",
+      "canonical_name": "AI Rooney",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jake",
+      "role": "guest",
+      "notes": "guest. Joined Case for the Amongst the Web video review segment, providing voice acting praise and birthday sketch confusion.",
+      "canonical_name": "Jake",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Played Kevin Pereira's new tile battle royale and Police Simulator, endured maternal door interventions and a conflicted lawyer call.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:02:49] Munch presses Crum on the mechanical gorilla punch timeline; Crum states it is 'fully TBD' due to the gorilla being too heavy to move between sets and difficulty extracting it from the Binge Studios center.",
+      "timestamp": "01:02:49"
+    },
+    {
+      "storyline": "AI Rooney",
+      "beat": "[01:07:01] Case reboots AI Rooney after rewiring its 'authenticity meter' to curb horny outputs; Rooney survives a 10-complaint stress test without exploding, though outputs remain surreal.",
+      "timestamp": "01:07:01"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "01:07:01",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell repaired AI Rooney's processors and lowered its authenticity meter to stop sexualized outputs.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "42:07",
+      "entity": "",
+      "fact": "OpenAI announced the shutdown of Sora video generation platform, citing compute demands and a pivot to physical tasks; the Disney partnership lasted less than a year.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:02:49",
+      "entity": "",
+      "fact": "The Crum Dick Punch execution remains logistically blocked: the Rock-afire gorilla is too heavy to move and stuck in the studio center.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:58:30",
+      "entity": "Brandon",
+      "fact": "Brandon's lawyer represents both him and Kevin Pereira simultaneously, creating a conflict of interest; the lawyer threatens to 'forward Brandon into the stone age'.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered escalating Iran-Israel hostilities, the abrupt death of OpenAI's Sora platform, and Denmark's contingency plans for a US invasion of Greenland. The studio debated burger architecture while the Crum Dick Punch lingered in logistical limbo. AI Rooney returned from repair to deliver soup metaphysics and explicit rants, then Brandon suffered through a Kevin Pereira tile game and a police simulator that refused to let him shoot fleeing cars.",
+  "_meta": {
+    "vod_id": "dEVsBowATT8",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 118997,
+    "approx_prompt_tokens": 29749,
+    "transcript_lines": 306
+  }
+}
