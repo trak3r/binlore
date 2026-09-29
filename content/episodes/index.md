@@ -22,11 +22,11 @@ Complete stream archive tracked for *Barely Informed News*. Episodes are ingeste
     <div class="stat-label">Total Broadcast Lore</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">310</div>
+    <div class="stat-value">311</div>
     <div class="stat-label">Ingested & Extracted</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">66</div>
+    <div class="stat-value">65</div>
     <div class="stat-label">Pending Ingestion Backlog</div>
   </div>
 </div>
@@ -44,8 +44,8 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   <div class="filter-group">
     <select id="status-filter">
       <option value="all">All Statuses (376)</option>
-      <option value="ingested">Ingested Only (310)</option>
-      <option value="backlog">Backlog Only (66)</option>
+      <option value="ingested">Ingested Only (311)</option>
+      <option value="backlog">Backlog Only (65)</option>
     </select>
     <select id="page-size">
       <option value="25">25 per page</option>
@@ -163,7 +163,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
 <tr data-status="backlog" data-title="friday news dump" data-date="2025-12-06" data-vod-id="yonlhjo56bs" style="display: none;"><td class="cell-date"><code>2025-12-06</code></td><td class="cell-title">Friday News Dump</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">yoNLHJo56bs</code></td><td class="cell-dur">2:25:39</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=yoNLHJo56bs" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="back in the news" data-date="2025-12-04" data-vod-id="-ifxg_t-64y" style="display: none;"><td class="cell-date"><code>2025-12-04</code></td><td class="cell-title">Back in the News</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">-iFXG_t-64Y</code></td><td class="cell-dur">2:17:57</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=-iFXG_t-64Y" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="the most thankfull news" data-date="2025-11-27" data-vod-id="uagqr9ne2dm" style="display: none;"><td class="cell-date"><code>2025-11-27</code></td><td class="cell-title">The Most Thankfull News</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">uAGQr9nE2dM</code></td><td class="cell-dur">1:56:31</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=uAGQr9nE2dM" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
-<tr data-status="backlog" data-title="monday news blast" data-date="2025-11-25" data-vod-id="zgma3afewmm" style="display: none;"><td class="cell-date"><code>2025-11-25</code></td><td class="cell-title">Monday News Blast</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">ZGma3afeWMM</code></td><td class="cell-dur">2:22:14</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=ZGma3afeWMM" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
+<tr data-status="ingested" data-title="monday news blast" data-date="2025-11-25" data-vod-id="zgma3afewmm" style="display: none;"><td class="cell-date"><code>2025-11-25</code></td><td class="cell-title"><a href="./2025-11-25" class="internal"><strong>Monday News Blast</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">ZGma3afeWMM</code></td><td class="cell-dur">2:22:14</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=ZGma3afeWMM" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="new week, new resolutions, it's news" data-date="2025-11-18" data-vod-id="yehvqq3qse0" style="display: none;"><td class="cell-date"><code>2025-11-18</code></td><td class="cell-title"><a href="./2025-11-18" class="internal"><strong>New Week, New Resolutions, it's NEWS</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">yEhvqQ3qSe0</code></td><td class="cell-dur">2:18:41</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=yEhvqQ3qSe0" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="friday news slop" data-date="2025-11-15" data-vod-id="lgem5hpl3io" style="display: none;"><td class="cell-date"><code>2025-11-15</code></td><td class="cell-title"><a href="./2025-11-15" class="internal"><strong>Friday News Slop</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">lgeM5Hpl3Io</code></td><td class="cell-dur">2:34:41</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=lgeM5Hpl3Io" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="return to news mountain" data-date="2025-11-13" data-vod-id="ucaztjmalyg" style="display: none;"><td class="cell-date"><code>2025-11-13</code></td><td class="cell-title"><a href="./2025-11-13" class="internal"><strong>Return to News Mountain</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">UcAZTjmALyg</code></td><td class="cell-dur">1:58:22</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=UcAZTjmALyg" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>

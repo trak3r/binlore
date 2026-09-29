@@ -51,17 +51,18 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity and Dick Punch wager. |
 | [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (hollow-eyed, bald). Argues for political decorum, reveals Dubai 'classified' social life, honey-bag therapy, claims penile conditioning for gorilla dick-punch. |
 | [[episodes/2026-03-07|2026-03-07]] | Stands trial for peen.ui IP infringement; reveals he co-founded peen.ui, has a 'nasty pig room,' and suffers from labia growing on his… |
+| [[episodes/2025-11-25|2025-11-25]] | debate analyst. |
 | [[episodes/2025-11-18|2025-11-18]] | debate analyst. |
 | [[episodes/2025-11-15|2025-11-15]] | debate analyst. |
 | [[episodes/2025-11-13|2025-11-13]] | debate analyst. |
 | [[episodes/2025-11-03|2025-11-03]] | debate analyst. |
-| [[episodes/2025-10-31|2025-10-31]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (143)</summary>
+<summary>Earlier appearances (144)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-10-31|2025-10-31]] | debate analyst. |
 | [[episodes/2025-10-18|2025-10-18]] | debate analyst. |
 | [[episodes/2025-10-16|2025-10-16]] | debate analyst. |
 | [[episodes/2025-10-13|2025-10-13]] | debate analyst. |
@@ -393,3 +394,6 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[25:29]** ([[episodes/2025-11-18|2025-11-18]]): [25:29] Claims 'manapuberty' — a third puberty causing physical changes.
 - **[1:19:48]** ([[episodes/2025-11-18|2025-11-18]]): [1:19:48] Moisturizer scandal: three email leaks (1998, 2006, 2010) alleging dove moisturizer pumped into Krempton/Rennerton/Drempton water supplies to addict youth; Crum refuses legal denial.
 - **[1:28:32]** ([[episodes/2025-11-18|2025-11-18]]): [1:28:32] Claims cash-poor despite property portfolio; gambling addiction drains liquidity.
+- **[]** ([[episodes/2025-11-25|2025-11-25]]): [01:38:57] Claims to have cured severe foot fungus through mental fortitude.
+- **[]** ([[episodes/2025-11-25|2025-11-25]]): [01:39:57] Shoe size fluctuates between 8 and 13 depending on swelling.
+- **[]** ([[episodes/2025-11-25|2025-11-25]]): [01:47:30] High school nickname was 'brine tub' from legendary Thanksgiving brine turkeys.

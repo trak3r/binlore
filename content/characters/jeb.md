@@ -50,6 +50,7 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2026-07-17|2026-07-17]] | How-To host. Co-hosted instructional triple-feature on vocal aerobics, advanced finger snapping, and self-massage. |
 | [[episodes/2026-06-22|2026-06-22]] | Mentioned in reference to 'the two Jebs' during merch brainstorming. |
 | [[episodes/2026-06-15|2026-06-15]] | Host of 'How To with Jeb', demonstrates Kool-Aid recipe. |
+| [[episodes/2025-11-25|2025-11-25]] | instructional host. |
 | [[episodes/2025-11-15|2025-11-15]] | instructional host. |
 | [[episodes/2025-11-03|2025-11-03]] | instructional host. |
 | [[episodes/2025-10-06|2025-10-06]] | instructional host. |
@@ -66,13 +67,13 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2025-07-01|2025-07-01]] | instructional host. |
 | [[episodes/2025-06-19|2025-06-19]] | instructional host. |
 | [[episodes/2025-05-01|2025-05-01]] | instructional host. |
-| [[episodes/2025-04-14|2025-04-14]] | field correspondent. |
 
 <details>
-<summary>Earlier appearances (34)</summary>
+<summary>Earlier appearances (35)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-04-14|2025-04-14]] | field correspondent. |
 | [[episodes/2025-04-11|2025-04-11]] | instructional host. |
 | [[episodes/2025-04-10|2025-04-10]] | instructional host. |
 | [[episodes/2025-03-31|2025-03-31]] | instructional host. |
@@ -154,3 +155,4 @@ See also: [[../segments/how-to-with-jeb|How To with Jeb]], [[../characters/index
 - **[[34:56]]** ([[episodes/2025-05-30|2025-05-30]]): Confirmed missing; Case says 'apparently he's dead or something' and doesn't know who he is.
 - **[]** ([[episodes/2025-07-10|2025-07-10]]): Jeb Nogget fell down an empty well, smashed face on stone, required full facial reconstruction [1:41:20]
 - **[[02:52:47]]** ([[episodes/2025-09-05|2025-09-05]]): Suffered a 50-foot fall into a dry stone well, requiring reconstructive facial surgery.
+- **[]** ([[episodes/2025-11-25|2025-11-25]]): [01:50:18] Dad's spirit temporarily untethers from the wooden board, confined to a single room/frame.

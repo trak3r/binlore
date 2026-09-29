@@ -213,3 +213,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[[01:02:12]]** ([[episodes/2025-09-26|2025-09-26]]): Currently staying in a hotel because wife is living with her French tutor; Case lost Munch's Beyblades during a move.
 - **[]** ([[episodes/2025-10-02|2025-10-02]]): Confirms Kendelle as girlfriend on air; mentions hiding engagement rings while preparing for 'husband money' (roster-consistent). [02:09:30]
 - **[1:11:08]** ([[episodes/2025-11-15|2025-11-15]]): Case Blackwell maintains a personal Rolodex of compromising material on public figures to summon them instantly.
+- **[]** ([[episodes/2025-11-25|2025-11-25]]): [25:33] Case now has a router enabling 4K streaming; other correspondents remain at 1080p.
+- **[]** ([[episodes/2025-11-25|2025-11-25]]): [01:48:15] Making steaks for Thanksgiving per 'cashmg' (Kendelle) Patreon mention.
