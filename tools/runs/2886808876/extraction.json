@@ -1,0 +1,176 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "00:52",
+      "canonical_segment": "News",
+      "title": "Pepito Station Cold-Open",
+      "notes": "Pepito delivers the top-of-hour sign-on as executive producer, identifying as the dog that produces the show."
+    },
+    {
+      "start": "08:42",
+      "end": "13:11",
+      "canonical_segment": "News",
+      "title": "News Desk Opening & Schedule Announcement",
+      "notes": "Case Blackwell opens the broadcast, announces a short streaming week (Monday and Wednesday only) due to Chicago Sketchfest appearance Saturday, and banters with Pepito about work, retirement, and Peter Gibbon's organ harvesting."
+    },
+    {
+      "start": "13:11",
+      "end": "30:47",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Social Studies Derailment",
+      "notes": "Hype Train commandeers the broadcast as a 'social studies teacher' named Chong, delivering freestyle raps about Chinese fates, Macy's Dark Age, and sub acknowledgments while Case remains uncharacteristically agreeable."
+    },
+    {
+      "start": "31:22",
+      "end": "40:27",
+      "canonical_segment": "News",
+      "title": "Anthropic IPO Coverage & Engagement Reveal",
+      "notes": "Case covers Anthropic's $2T IPO prospectus with $42B losses, then reveals he and Kendall are engaged after accidentally leaking the news in the Cream Team Discord two weeks prior."
+    },
+    {
+      "start": "40:27",
+      "end": "54:15",
+      "canonical_segment": "News",
+      "title": "Chat News & Harry Hardy Raid",
+      "notes": "Case and Peter Gibbon cover Laughing Cow mascot rebrand, Flock Safety CEO's home marked as public toilet, wrestler Pack's death, and a Burbank theater pepper spraying; Harry Hardy raids the stream at 41:02."
+    },
+    {
+      "start": "55:16",
+      "end": "57:57",
+      "canonical_segment": "News",
+      "title": "UPI News Minute with Ben Hooper",
+      "notes": "Ben Hooper delivers the UPI All News Minute covering Fat Bear Week voting, a 78-year-old Fortnite streamer Guinness record, and promotes UPI's YouTube channel."
+    },
+    {
+      "start": "58:33",
+      "end": "1:26:19",
+      "canonical_segment": "DJ C4",
+      "title": "DJ C4: Harry Hardy Trap Beat Songwriting Session",
+      "notes": "DJ C4 produces a 'Dirty Harry Trap Beat' track for raider Harry Hardy, incorporating chat lyrics, Peter Gibbon vocals with pitch-shifting and auto-tune, and extensive mixing."
+    },
+    {
+      "start": "1:27:02",
+      "end": "1:38:19",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Skeleton Munch vs. Rotting Corpse Crumb Halloween Debate",
+      "notes": "Skeleton Munch and Crum debate who makes the better Halloween decoration; Munch argues his permanent skeleton form beats Crum's temporary zombie phase from last year, complete with skeleton puns and lore callbacks."
+    },
+    {
+      "start": "1:38:19",
+      "end": "1:40:39",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid to Tasty",
+      "notes": "Case signs off promoting Wednesday's stream and Chicago Sketchfest Saturday, raids Tasty, and exchanges final words with Peter Gibbon."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors truncated Monday broadcast, announces engagement to Kendall, remains uncharacteristically agreeable during Hype Train derailment.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers station cold-open sign-on, banters about cigarette sandwiches and work during news opening.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Commandeers broadcast as 'Chong' the social studies teacher, delivers hour-long freestyle rap derailment with sub acknowledgments.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Interjects throughout broadcast, discusses organ harvesting, participates in DJ C4 session with pitch-shifted vocals, debates engagement etiquette.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "recurring",
+      "notes": "recurring. Appears in Munch & Crum debate as former zombie, argues his rotting corpse form was superior Halloween decoration to Munch's skeleton.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "recurring",
+      "notes": "recurring. Debates as permanent skeleton (since Sept 7), claims superiority over Crum's temporary zombie phase, delivers skeleton puns.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Munch references failed murder attempt and Crum's skeleton transformation during Halloween decoration debate [1:27:57].",
+      "timestamp": "1:27:57"
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "Munch references hell transit and Crum working as assistant manager in hell during debate [1:28:29].",
+      "timestamp": "1:28:29"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell and Kendall engaged; news leaked in Cream Team Discord two weeks prior, confirmed via Instagram post [32:45].",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case streaming only Monday and Wednesday this week due to Chicago Sketchfest appearance Saturday 9 PM [08:42].",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Munch",
+      "fact": "Munch confirms permanent skeleton form since September 7, 2026 incident [1:27:57].",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Crum",
+      "fact": "Crum was a zombie last summer (2025) per debate reference to 'zombie Crumb' imagery [1:30:33].",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Harry Hardy raided the stream at 41:02, prompting DJ C4 songwriting session.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a truncated Monday broadcast ahead of Chicago Sketchfest, featuring a prolonged Hype Train derailment as a social studies teacher, an engagement announcement with Kendall after a Discord leak, a DJ C4 songwriting session for raider Harry Hardy, and a Munch & Crum Halloween decoration debate between Skeleton Munch and Zombie Crum.",
+  "_meta": {
+    "vod_id": "2886808876",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 84326,
+    "approx_prompt_tokens": 21081,
+    "transcript_lines": 173
+  }
+}

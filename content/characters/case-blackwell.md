@@ -251,3 +251,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[[10:39]]** ([[episodes/2026-05-12|2026-05-12]]): Spent the previous week in the Tetons with his sketch group plotting future group activities.
 - **[[14:49]]** ([[episodes/2026-05-14|2026-05-14]]): Interviewed for MrBeast's company after G4 shutdown; declined offer requiring relocation to South Carolina and development of 'Jimmy Brain'.
 - **[[02:14:16]]** ([[episodes/2026-09-23|2026-09-23]]): Sketch group performing at Chicago Sketch Fest on October 4.
+- **[]** ([[episodes/2026-09-29|2026-09-29]]): Case Blackwell and Kendall engaged; news leaked in Cream Team Discord two weeks prior, confirmed via Instagram post [32:45].

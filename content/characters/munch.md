@@ -314,3 +314,4 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[[01:26:58]]** ([[episodes/2026-03-03|2026-03-03]]): Claims vampire DNA on back of neck from 'fucking a couple of really hot vampire girls,' causing annual blood thirst and garlic intolerance.
 - **[[01:28:37]]** ([[episodes/2026-03-03|2026-03-03]]): Asserts vampires are lactose intolerant for light and garlic; lactate supplements allow sun exposure (cites Stephen Miller).
 - **[[01:26:35]]** ([[episodes/2026-03-10|2026-03-10]]): Claims 311 victory streak ('rocketed me to 311'); references 'Amber is the color of my fucking victory'.
+- **[]** ([[episodes/2026-09-29|2026-09-29]]): Munch confirms permanent skeleton form since September 7, 2026 incident [1:27:57].

@@ -176,6 +176,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2026-09-07|2026-09-07]] [01:50:38] | **Climax & Conclusion:** The Rock-afire Gorilla fires the punch, triggers a massive explosion, vaporizes to dust; Munch burns into a talking skeleton; Crum survives unscathed. |
 | [[../episodes/2026-09-23|2026-09-23]] [01:14:10] | [01:14:10] Hype Train references the mechanical gorilla as 'terminator now' and suggests letting it punch Crum again; [01:14:53] claims AI took the gorilla's job. |
 | [[../episodes/2026-09-25|2026-09-25]] | Munch's skeleton state confirmed as permanent; Munch declares himself Lord of the Dead and demonstrates summonable penis [53:55, 57:48, 58:51]. |
+| [[../episodes/2026-09-29|2026-09-29]] [1:27:57] | Munch references failed murder attempt and Crum's skeleton transformation during Halloween decoration debate [1:27:57]. |
 
 ## Related Pages
 

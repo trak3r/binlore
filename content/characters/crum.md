@@ -474,3 +474,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[]** ([[episodes/2026-04-11|2026-04-11]]): A 'hell poster' of Crum exists and Case was searching for it during the broadcast [1:51:25].
 - **[]** ([[episodes/2026-04-29|2026-04-29]]): Appearance described as 'different than usual' with Munch accusing him of shape-shifting [1:12:57].
 - **[[1:16:10]]** ([[episodes/2026-05-18|2026-05-18]]): Employing personal trainer Damian for daily penile impact conditioning (gym sessions, 'getting walloped in the cock') to survive gorilla pneumatic punch.
+- **[]** ([[episodes/2026-09-29|2026-09-29]]): Crum was a zombie last summer (2025) per debate reference to 'zombie Crumb' imagery [1:30:33].
