@@ -239,3 +239,6 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[]** ([[episodes/2026-04-14|2026-04-14]]): Spends all subscription revenue (except Dunn/Mutual Aid donations) on $400 designer jeans from Poshmark for Hollywood party networking. [02:07:05]
 - **[]** ([[episodes/2026-04-14|2026-04-14]]): References unedited footage from a New Day video where his 'whole dick was out' — claims it's happened too many times to care. [02:08:16]
 - **[]** ([[episodes/2026-04-14|2026-04-14]]): States he is not in the Epstein files. [02:08:51]
+- **[10:51]** ([[episodes/2026-04-17|2026-04-17]]): Purchased a $90 toilet from Lowe's for egg-dying content after Kendelle prohibited use of household toilets. [10:51]
+- **[34:37]** ([[episodes/2026-04-17|2026-04-17]]): Cracked the toilet while unpacking; held together with white porcelain tape. [34:37]
+- **[21:43]** ([[episodes/2026-04-17|2026-04-17]]): Running a clandestine TikTok/YouTube experiment: posting egg-dying videos from a zero-follower account to force a viral hit without revealing the channel. [21:43]

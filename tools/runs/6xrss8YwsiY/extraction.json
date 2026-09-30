@@ -1,0 +1,161 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "07:30",
+      "canonical_segment": "News",
+      "title": "Cold Open: Papito Station Sign-On",
+      "notes": "Pepito (as Papito) delivers the top-of-hour broadcast sign-on from a gamer setup, declaring the show live in casual mode."
+    },
+    {
+      "start": "07:35",
+      "end": "10:00",
+      "canonical_segment": "News",
+      "title": "Case & Kendelle: Dance Battle Sub Goal & Patreon Reminder",
+      "notes": "Case and Kendelle discuss a non-consensual dance battle sub goal (Kendelle's champion: their cat Tony Tony), and Case notes the 6 PM Patreon deadline."
+    },
+    {
+      "start": "10:05",
+      "end": "16:10",
+      "canonical_segment": "News",
+      "title": "Behind the Scenes: Green Screen Tour & Toilet Egg-Dying Project",
+      "notes": "Case reveals the minimalist studio (green screen only) and details the clandestine content experiment: a $90 Lowe's toilet bought for egg-dying videos after Kendelle banned use of household toilets."
+    },
+    {
+      "start": "16:11",
+      "end": "24:20",
+      "canonical_segment": "News",
+      "title": "Content Strategy Leak: Plastic Eggs, Cheating Accusations, Viral Math",
+      "notes": "Case admits plastic eggs don't dye, accuses a viral competitor of swapping eggs, and outlines a 30-video pipeline to force a TikTok viral hit from a zero-follower account."
+    },
+    {
+      "start": "24:22",
+      "end": "27:00",
+      "canonical_segment": "News",
+      "title": "Community Thank-Yous & Hype Train Absence",
+      "notes": "Case reads sub/bit acknowledgments (Brian Westwood, Google Trash, Skymer, Wolfdog) and notes Hype Train is unavailable today."
+    },
+    {
+      "start": "27:08",
+      "end": "35:45",
+      "canonical_segment": "News",
+      "title": "Hat-Pull Archive Review: Five Community Ideas",
+      "notes": "Case replays the idea-pull stream: 'do drugs' (Skymer), 'cats' (Exterminator 13), 'die eggs in toilet' (Apple to Apple), 'recipes for your dog' (Live in Sleazy), and a fifth unrevealed idea."
+    },
+    {
+      "start": "35:48",
+      "end": "38:05",
+      "canonical_segment": "News",
+      "title": "Pivot to Gamer Stream: Slay the Spire Multiplayer",
+      "notes": "Case declares the broadcast a gaming stream, loads Slay the Spire, and awaits Tim for co-op Ascension 10 run."
+    },
+    {
+      "start": "38:08",
+      "end": "01:03:20",
+      "canonical_segment": "News",
+      "title": "Slay the Spire Co-op: Ironclad & Tag Team Synergy",
+      "notes": "Case (Ironclad) and Tim play multiplayer; key relics: Hidden Gem, Miniature Tent, Royal Stamp; Case jackpots aggressively, takes curse for gold, and they crush elites."
+    },
+    {
+      "start": "01:03:24",
+      "end": "01:22:50",
+      "canonical_segment": "News",
+      "title": "Kendelle Departs for 'Ronald Does Dallas'; Website Crisis",
+      "notes": "Kendelle leaves for a movie (Ronald Does Dallas / Ronald with the Huge Hog); chat helps Kendall source a Wix website designer (Starship Operator, Exterminator 13 offer)."
+    },
+    {
+      "start": "01:22:56",
+      "end": "01:36:58",
+      "canonical_segment": "News",
+      "title": "Final Act Push & Near-Death Climax",
+      "notes": "Case plays recklessly (jackpot every turn), nearly dies, Tim saves with Blood Potion; they clear Act 1 elite but fall short of boss with six minutes left."
+    },
+    {
+      "start": "01:36:59",
+      "end": "01:39:24",
+      "canonical_segment": "News",
+      "title": "Sign-Off: No News Today, Raid to Tim's Channel",
+      "notes": "Case confirms no news happened, declares chill day, raids Tim's blank channel, and signs off mid-conversation with Tim."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored a non-news gaming broadcast, revealed clandestine toilet egg-dying content farm, co-opped Slay the Spire with Tim.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open as 'Papito' from a gamer setup, declared casual mode live.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through studio, negotiated dance battle champion (cat Tony Tony), left for movies, crowdsourced Wix website help.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Tim",
+      "role": "call-in guest",
+      "notes": "call-in guest. Joined for Slay the Spire multiplayer; Ascension 10 veteran, better chat reader, saved Case with Blood Potion.",
+      "canonical_name": "Tim",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Purchased a $90 toilet from Lowe's for egg-dying content after Kendelle prohibited use of household toilets. [10:51]",
+      "timestamp": "10:51",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Cracked the toilet while unpacking; held together with white porcelain tape. [34:37]",
+      "timestamp": "34:37",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Running a clandestine TikTok/YouTube experiment: posting egg-dying videos from a zero-follower account to force a viral hit without revealing the channel. [21:43]",
+      "timestamp": "21:43",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Seeking paid website designer for boutique Wix site; chat candidates include Starship Operator and Exterminator 13. [01:20:25]",
+      "timestamp": "01:20:25",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Tim",
+      "fact": "Has beaten Slay the Spire Ascension 10 on every character in solo mode. [01:09:57]",
+      "timestamp": "01:09:57",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News abandoned its nightly rundown for a casual gaming broadcast after anchor Case Blackwell admitted the news cycle was too light. Executive producer Pepito opened as 'Papito' from a gamer rig, then Case and Kendelle dissected a covert content operation involving a garage toilet, plastic eggs, and a 30-video TikTok viral pipeline. The remainder of the hour featured a Slay the Spire co-op run with guest Tim, culminating in a near-wipe on Act 1 and a raid to Tim's dormant channel.",
+  "_meta": {
+    "vod_id": "6xrss8YwsiY",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 86918,
+    "approx_prompt_tokens": 21729,
+    "transcript_lines": 188
+  }
+}

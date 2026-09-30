@@ -44,6 +44,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-06-19|2026-06-19]] | Lead anchor and in-studio contributor who periodically enters the broadcast for signature segments. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in birthday context, not actively speaking. |
 | [[episodes/2026-06-05|2026-06-05]] | Lead anchor and on-air contributor who walks through the studio for signature segments. |
+| [[episodes/2026-04-17|2026-04-17]] | in-studio contributor. |
 | [[episodes/2026-04-15|2026-04-15]] | in-studio contributor. |
 | [[episodes/2026-04-14|2026-04-14]] | in-studio contributor. |
 | [[episodes/2026-04-11|2026-04-11]] | in-studio contributor. |
@@ -54,13 +55,13 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-03-24|2026-03-24]] | in-studio contributor. |
 | [[episodes/2026-03-19|2026-03-19]] | in-studio contributor. |
 | [[episodes/2026-03-06|2026-03-06]] | in-studio contributor. |
-| [[episodes/2026-03-03|2026-03-03]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (192)</summary>
+<summary>Earlier appearances (193)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-03-03|2026-03-03]] | in-studio contributor. |
 | [[episodes/2026-02-28|2026-02-28]] | in-studio contributor. |
 | [[episodes/2026-02-19|2026-02-19]] | in-studio contributor. |
 | [[episodes/2026-02-17|2026-02-17]] | in-studio contributor. |
@@ -346,3 +347,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[55:54]** ([[episodes/2026-03-24|2026-03-24]]): Studio AC shuts off at 6 PM, forcing all staff to leave by 6:30 PM [55:54].
 - **[]** ([[episodes/2025-10-27|2025-10-27]]): Kendelle is a bridesmaid in an upcoming wedding (dress revealed on stream) [1:49:46]
 - **[[01:06:49]]** ([[episodes/2025-12-09|2025-12-09]]): Currently out of town; requested live AI haircut simulation for bob style.
+- **[01:20:25]** ([[episodes/2026-04-17|2026-04-17]]): Seeking paid website designer for boutique Wix site; chat candidates include Starship Operator and Exterminator 13. [01:20:25]
