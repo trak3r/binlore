@@ -249,3 +249,4 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[[18:57]]** ([[episodes/2026-02-26|2026-02-26]]): Claims to have met Dr. Jill Biden and Cisco at 'shakedown finals'; asserts Cisco was abducted by aliens to fight sentient thongs on planet Gates.
 - **[[22:56]]** ([[episodes/2026-05-12|2026-05-12]]): Claims to have fought a toilet war on Mars with a plumber army, all of whom died sacrificing themselves to break the spell animating the toilets.
 - **[[28:06]]** ([[episodes/2026-05-12|2026-05-12]]): States he dies and becomes a fundamentally different train each time his hype expires, retaining the same memories and personality.
+- **[[15:42]]** ([[episodes/2026-09-23|2026-09-23]]): Acquired a Prince Albert piercing as a 'commitment to yourself'; claims no genitals so any internal ring qualifies.

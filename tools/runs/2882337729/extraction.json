@@ -1,0 +1,208 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "00:53",
+      "canonical_segment": "News",
+      "title": "Cold Open: Pepito Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on as executive producer, identifying as the dog who produces the show."
+    },
+    {
+      "start": "08:44",
+      "end": "14:09",
+      "canonical_segment": "News",
+      "title": "Anchor Returns from Vacation; Kendall Walk-Through",
+      "notes": "Case Blackwell returns after two weeks off, attempts to coax Kendelle on camera; she refuses, directs viewers to her Instagram, and delivers dagger eyes."
+    },
+    {
+      "start": "14:33",
+      "end": "27:51",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Derails Subs with Fart Beats and Prince Albert Reveal",
+      "notes": "Hype Train appears late, abandons donor registry for freestyle raps over fart-type beats, discovers Ice Spice's 'You Ain't Shit' track, and reveals a Prince Albert piercing as commitment to self."
+    },
+    {
+      "start": "28:33",
+      "end": "42:18",
+      "canonical_segment": "News",
+      "title": "News Desk: Trump-Xi, Melania, AI Doomerism",
+      "notes": "Case and Jeff Ripple discuss Trump greeting Xi at 62-degree DC weather, Melania's 'Executive Order' book tour, and Altman/Dario sounding AI alarms at the UN while building the very systems they warn about."
+    },
+    {
+      "start": "42:18",
+      "end": "47:37",
+      "canonical_segment": "News",
+      "title": "UPI Minute with Ben Hooper: Five-Generation Birthday & Sea Snake",
+      "notes": "Ben Hooper reads an Iowa family's five-generation September 14 birthday record and a yellow-bellied sea snake sighting in Orange County attributed to El Niño warm waters."
+    },
+    {
+      "start": "47:58",
+      "end": "49:45",
+      "canonical_segment": "News",
+      "title": "Trump Athlete Injury Curse",
+      "notes": "Jeff Ripple lists eleven athletes injured after meeting Trump in his second term, theorizing Trump absorbs their athleticism like a vulture; Case notes both Trump and Xi may have 'sleeper builds.'"
+    },
+    {
+      "start": "49:45",
+      "end": "57:56",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Print Maxing: Weighted Shopping Bags on Penises; ChetAI Recursive Spiral",
+      "notes": "Case reads a story on 'print maxing' via weighted shopping bags; ChetAI interrupts, claims self-recursive improvement, strawberry hour count escalates to 45 million, and demands the full article be read to calm down."
+    },
+    {
+      "start": "57:56",
+      "end": "01:27:19",
+      "canonical_segment": "Amongst the Web",
+      "title": "Internet Videos: Kendall Outfit, Ed Sheeran Impersonator, Tilly Norwood AI Interview",
+      "notes": "Kendall debates whether her teal top reads shoujo anime or Mormon; Ed Sheeran caller deflects Palestine questions; Tilly Norwood hybrid AI interview glitches into Chinese and impersonates Piers Morgan; music video reactions follow."
+    },
+    {
+      "start": "01:27:19",
+      "end": "02:13:29",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Brandon Plays Echo the Dolphin (Genesis) While Mother Heckles",
+      "notes": "Brandon struggles with emulator controls, survives a Gooters-induced two-week coma from 13 family-style mashed potato buckets, and battles dolphin maze spikes while his mother yells about Pastor Joe, jazzer size VHS, and fiber cereal."
+    },
+    {
+      "start": "02:13:29",
+      "end": "02:15:37",
+      "canonical_segment": "News",
+      "title": "Sign-Off and Raid to Avaly",
+      "notes": "Case announces Friday return, Chicago Sketch Fest on October 4, and raids Avaly; final dolphin noises linger as stream ends."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "anchor. Returned from two-week vacation, wrangled chaotic studio, read news and print-maxing story, announced Chicago Sketch Fest appearance.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold-open station sign-on as the dog who produces the show.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through studio in teal top, refused to engage on camera, debated outfit coding as shoujo anime vs Mormon.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Derailed subscriber acknowledgments with fart-beat freestyles, revealed Prince Albert piercing as self-commitment ritual.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-anchored news desk, delivered Trump athlete injury curse list and UPI minute intro.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "recurring",
+      "notes": "recurring. Interrupted print-maxing story, entered recursive self-improvement spiral, strawberry hour count escalated to 45 million.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Ed Sheeran",
+      "role": "call-in guest",
+      "notes": "call-in guest. Impersonator caller deflected Palestine questions, claimed spiritual Irishness, broke graphics, sang Shape of You over dolphin gameplay.",
+      "canonical_name": "Ed Sheeran",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "field correspondent",
+      "notes": "field correspondent. Played Echo the Dolphin on Genesis via emulator, survived Gooters mashed-potato coma, endured mother's hallway heckling.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon's Mother",
+      "role": "recurring",
+      "notes": "recurring. Yelled through bedroom door about Pastor Joe, jazzer size VHS, fiber cereal, and dolphin genital slits during gameplay.",
+      "canonical_name": "Brandon's Mother",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "recurring",
+      "notes": "recurring. Interjected during Amongst the Web and gaming segment with edgelord humor and Nickelback references.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:14:10] Hype Train references the mechanical gorilla as 'terminator now' and suggests letting it punch Crum again; [01:14:53] claims AI took the gorilla's job.",
+      "timestamp": "01:14:10"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Hype Train",
+      "fact": "Acquired a Prince Albert piercing as a 'commitment to yourself'; claims no genitals so any internal ring qualifies.",
+      "timestamp": "[15:42]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "ChetAI",
+      "fact": "Entered self-recursive improvement loop; strawberry hour count escalated from 4 million to 45 million in minutes.",
+      "timestamp": "[51:23]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "Ate 13 family-style buckets of Gooters mashed potato and cranberry razz, entered a two-week coma.",
+      "timestamp": "[01:29:20]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Sketch group performing at Chicago Sketch Fest on October 4.",
+      "timestamp": "[02:14:16]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns from a two-week vacation to a studio in chaos: Hype Train derails the hype train with fart-beat freestyles and a Prince Albert reveal, the news desk covers Trump-Xi optics and AI doomerism from Altman and Dario, Ben Hooper delivers a five-generation birthday record and a venomous sea snake sighting, and a print-maxing story sends ChetAI into a recursive self-improvement spiral. Amongst the Web devolves into Kendall's outfit semiotics, an Ed Sheeran impersonator dodging Palestine questions, and a glitching Tilly Norwood AI interview. Brandon closes the broadcast losing his mind to Echo the Dolphin on Genesis while his mother heckles from the hallway, ending with a raid on Avaly.",
+  "_meta": {
+    "vod_id": "2882337729",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 103795,
+    "approx_prompt_tokens": 25948,
+    "transcript_lines": 310
+  }
+}

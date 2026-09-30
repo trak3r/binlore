@@ -39,6 +39,7 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-09-23|2026-09-23]] | field correspondent. |
 | [[episodes/2026-09-02|2026-09-02]] | Live DOS playthrough of Epic MegaGames' *Jill of the Jungle* trilogy. Plugs Gooters wings and navigates his mother's Old English vocal affectations following a bumper-car accident. |
 | [[episodes/2026-09-01|2026-09-01]] | Streams *Wario Land 4* on GBA; hardware malfunctions force him to keyboard controls. His mother yells about turnip consumption, unwashed clothing, Pastor Joe, and Italian bicycles. Plugs Gooters mayo skins before aborting the broadcast in exasperation. |
 | [[episodes/2026-08-26|2026-08-26]] | Broadcasts an indie demo of *The Journey Home*; mother interrupts regarding Gooters wet wings, sloppy chicken fries, and the potato turducken. Receives sub confirmation regarding the Crum Dick Punch schedule before concluding with a viewer raid. |
@@ -58,13 +59,13 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-05-29|2026-05-29]] | Gaming correspondent playing Boogerman with mother interruptions. |
 | [[episodes/2026-05-22|2026-05-22]] | gaming correspondent. |
 | [[episodes/2026-05-21|2026-05-21]] | muffled-door antagonist. |
-| [[episodes/2026-05-18|2026-05-18]] | gaming correspondent. |
 
 <details>
-<summary>Earlier appearances (23)</summary>
+<summary>Earlier appearances (24)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-05-18|2026-05-18]] | gaming correspondent. |
 | [[episodes/2026-05-12|2026-05-12]] | gaming correspondent. |
 | [[episodes/2026-05-04|2026-05-04]] | off-screen interrupter. |
 | [[episodes/2026-05-02|2026-05-02]] | gaming correspondent. |
@@ -154,3 +155,4 @@ See also: [[../segments/cryptozeus|CryptoZeu$ (Segment)]], [[characters/brandons
 - **[[01:59:00]]** ([[episodes/2026-05-12|2026-05-12]]): Maintains 'daddy jars' of peanut butter in the basement for his father's potential return; mother inserts hotdogs into them.
 - **[[01:28:24]]** ([[episodes/2026-05-12|2026-05-12]]): Mother yells through bedroom door during streams; refers to him as 'Bran Bran' and critiques his language.
 - **[[1:57:26]]** ([[episodes/2026-05-18|2026-05-18]]): Claims doctors say he has heart health of oldest Egyptian pharaohs and brain age of seven-year-old; legally dead per mom.
+- **[[01:29:20]]** ([[episodes/2026-09-23|2026-09-23]]): Ate 13 family-style buckets of Gooters mashed potato and cranberry razz, entered a two-week coma.
