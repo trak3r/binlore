@@ -50,6 +50,7 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2026-07-17|2026-07-17]] | How-To host. Co-hosted instructional triple-feature on vocal aerobics, advanced finger snapping, and self-massage. |
 | [[episodes/2026-06-22|2026-06-22]] | Mentioned in reference to 'the two Jebs' during merch brainstorming. |
 | [[episodes/2026-06-15|2026-06-15]] | Host of 'How To with Jeb', demonstrates Kool-Aid recipe. |
+| [[episodes/2026-05-18|2026-05-18]] | instructional host. |
 | [[episodes/2026-05-14|2026-05-14]] | instructional host. |
 | [[episodes/2026-05-04|2026-05-04]] | instructional host. |
 | [[episodes/2026-04-27|2026-04-27]] | Instructional Host. |
@@ -66,13 +67,13 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2025-12-19|2025-12-19]] | field correspondent. |
 | [[episodes/2025-12-13|2025-12-13]] | instructional host. |
 | [[episodes/2025-12-04|2025-12-04]] | How To Host. |
-| [[episodes/2025-11-25|2025-11-25]] | instructional host. |
 
 <details>
-<summary>Earlier appearances (51)</summary>
+<summary>Earlier appearances (52)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-11-25|2025-11-25]] | instructional host. |
 | [[episodes/2025-11-15|2025-11-15]] | instructional host. |
 | [[episodes/2025-11-03|2025-11-03]] | instructional host. |
 | [[episodes/2025-10-06|2025-10-06]] | instructional host. |

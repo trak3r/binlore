@@ -56,15 +56,16 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-06-08|2026-06-08]] | Resident gaming correspondent. Remote from bedroom; battles N64 emulation, mother's screaming, and Glover's inverted controls. |
 | [[episodes/2026-06-05|2026-06-05]] | Gaming and digital culture correspondent broadcasting remotely from his bedroom studio. |
 | [[episodes/2026-05-29|2026-05-29]] | Gaming correspondent playing Boogerman with mother interruptions. |
+| [[episodes/2026-05-18|2026-05-18]] | gaming correspondent. |
 | [[episodes/2026-05-12|2026-05-12]] | gaming correspondent. |
 | [[episodes/2026-05-04|2026-05-04]] | off-screen interrupter. |
-| [[episodes/2026-05-02|2026-05-02]] | gaming correspondent. |
 
 <details>
-<summary>Earlier appearances (20)</summary>
+<summary>Earlier appearances (21)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-05-02|2026-05-02]] | gaming correspondent. |
 | [[episodes/2026-04-29|2026-04-29]] | gaming correspondent. |
 | [[episodes/2026-04-24|2026-04-24]] | gaming correspondent. |
 | [[episodes/2026-04-21|2026-04-21]] | gaming correspondent. |
@@ -150,3 +151,4 @@ See also: [[../segments/cryptozeus|CryptoZeu$ (Segment)]], [[characters/brandons
 - **[[01:39:02]]** ([[episodes/2026-05-12|2026-05-12]]): House windows shattered outward due to internal atmospheric pressure; raccoons now infest the kitchen.
 - **[[01:59:00]]** ([[episodes/2026-05-12|2026-05-12]]): Maintains 'daddy jars' of peanut butter in the basement for his father's potential return; mother inserts hotdogs into them.
 - **[[01:28:24]]** ([[episodes/2026-05-12|2026-05-12]]): Mother yells through bedroom door during streams; refers to him as 'Bran Bran' and critiques his language.
+- **[[1:57:26]]** ([[episodes/2026-05-18|2026-05-18]]): Claims doctors say he has heart health of oldest Egyptian pharaohs and brain age of seven-year-old; legally dead per mom.

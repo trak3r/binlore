@@ -42,6 +42,7 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2026-06-05|2026-06-05]] | Chief science correspondent running the specialized science desk with ChetAI as synthetic co-host. |
 | [[episodes/2026-06-03|2026-06-03]] | Chief Science Correspondent. Co-hosts news desk, debates politics with Case, reveals father owns oil field, reacts to AI Rooney failures. |
 | [[episodes/2026-05-26|2026-05-26]] | Chief Science Correspondent who operates the Chet Guy the Science Eyes desk alongside synthetic AI co-host ChetAI. Specializes in investigative science reporting and technical analysis. |
+| [[episodes/2026-05-18|2026-05-18]] | science correspondent. |
 | [[episodes/2026-05-12|2026-05-12]] | science correspondent. |
 | [[episodes/2026-05-02|2026-05-02]] | science correspondent. |
 | [[episodes/2026-05-01|2026-05-01]] | science correspondent. |
@@ -54,13 +55,13 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2026-03-17|2026-03-17]] | science correspondent. |
 | [[episodes/2026-03-10|2026-03-10]] | science correspondent. |
 | [[episodes/2026-03-06|2026-03-06]] | science correspondent. |
-| [[episodes/2026-02-26|2026-02-26]] | science correspondent. |
 
 <details>
-<summary>Earlier appearances (91)</summary>
+<summary>Earlier appearances (92)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-02-26|2026-02-26]] | science correspondent. |
 | [[episodes/2026-02-17|2026-02-17]] | science correspondent. |
 | [[episodes/2026-02-14|2026-02-14]] | science correspondent. |
 | [[episodes/2026-02-06|2026-02-06]] | science correspondent. |

@@ -39,6 +39,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity. |
 | [[episodes/2026-06-05|2026-06-05]] | Senior debate analyst with distinctive disheveled appearance and confrontational debate style. |
 | [[episodes/2026-05-26|2026-05-26]] | Senior debate analyst known for his disheveled silver hair and combative political style. Engages in heated exchanges with Crum and frequently references his 'Dick Punch' wager storyline. |
+| [[episodes/2026-05-18|2026-05-18]] | debate analyst. |
 | [[episodes/2026-05-14|2026-05-14]] | debate analyst. |
 | [[episodes/2026-05-12|2026-05-12]] | debate analyst. |
 | [[episodes/2026-05-04|2026-05-04]] | debate analyst. |
@@ -47,13 +48,13 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2026-04-15|2026-04-15]] | debate analyst. |
 | [[episodes/2026-04-14|2026-04-14]] | debate analyst. |
 | [[episodes/2026-04-06|2026-04-06]] | debate analyst. |
-| [[episodes/2026-04-01|2026-04-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (167)</summary>
+<summary>Earlier appearances (168)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-04-01|2026-04-01]] | debate analyst. |
 | [[episodes/2026-03-25|2026-03-25]] | debate analyst. |
 | [[episodes/2026-03-20|2026-03-20]] | debate analyst. |
 | [[episodes/2026-03-19|2026-03-19]] | debate analyst. |

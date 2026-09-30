@@ -1,0 +1,226 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "20:43",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Cold Open: Bugs Bunny Voice & Freestyle Derailment",
+      "notes": "Pepito signs on; Hype Train commandeers feed with Bugs Bunny impression, Lucha Libre beat, and freestyle about housing bugs in Tupperware and running for governor."
+    },
+    {
+      "start": "20:43",
+      "end": "57:17",
+      "canonical_segment": "News",
+      "title": "News Desk: DOJ Trump Fund, White Monkey Jobs, Cars for Kids Ruling, Penis Fish, Crypto Vape",
+      "notes": "Case and Jeff Ripple cover DOJ $1.7B fund for Trump allies, Chinese 'white monkey' prestige-hire industry, California judge banning Cars for Kids ads, penis fish (fat innkeeper worms) on beaches, and God Trip crypto vape pen."
+    },
+    {
+      "start": "57:17",
+      "end": "68:09",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Science Eyes: Acupressure Hack for Gag Reflex During Oral Sex",
+      "notes": "Triggered by 'science'; Chet reads article on pressure points (LI4, PC6, CV24) to suppress gag reflex, consults AI Miles who refuses explicit discussion."
+    },
+    {
+      "start": "68:09",
+      "end": "78:44",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum Debate: Who Mogged Harder — Clavicular or Judge Seximus Marcus?",
+      "notes": "Crum and Munch debate facial aesthetics of streamer Clavicular vs. his judge; Crum reveals penis training regimen with trainer Damian for pending gorilla dick punch."
+    },
+    {
+      "start": "78:44",
+      "end": "108:12",
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip on the Street: Park Interviews — White Monkey Matt, Church of Scooby-Doo, Wet Faucets Band",
+      "notes": "Trip Bradstein interviews park denizens including a white monkey recruiter, Walter Krahnkite (Church of Scooby-Doo), a bling-rejecting mountain man, and a water-leak trap beat band."
+    },
+    {
+      "start": "108:12",
+      "end": "117:00",
+      "canonical_segment": "AI Rooney",
+      "title": "AI Rooney: Complaint Integration — Snickers Veins, Kevin James, Ferrets, Public Pools, Blade Sequels, Wool Suits & Whiskey",
+      "notes": "Chet runs AI Rooney (Andy Rooney simulacrum) on viewer complaints; Rooney rants about Snickers 'veins', Kevin James, ferrets, public pools, Contra, Blade, Codelioco, anime, airplane bathrooms, and choreging."
+    },
+    {
+      "start": "117:00",
+      "end": "127:00",
+      "canonical_segment": "How To with Jeb",
+      "title": "How To with Jeb: Lower Back Stretches & Homemade Gentleman's Relish (Anchovy Butter)",
+      "notes": "Jeb Nogget demonstrates back stretches (knee-to-chest, spinal twist) then recreates discontinued Gentleman's Relish with anchovies, butter, nutmeg, mace, white pepper, and cocaine."
+    },
+    {
+      "start": "127:00",
+      "end": "180:00",
+      "canonical_segment": "CryptoZeu$",
+      "title": "CryptoZeu$: Brandon Creates Matt Ladel (Elvis Cat Marauder) in Final Fantasy XIV",
+      "notes": "Brandon struggles with server congestion, character creation restrictions, data center selection; creates teal-skinned bald catboy marauder 'Matt Ladel' on Primal; plays through opening cutscenes, Limsa Lominsa, marauder guild, and FATEs."
+    },
+    {
+      "start": "180:00",
+      "end": "186:59",
+      "canonical_segment": "News",
+      "title": "Studio Wrap-Up: Pepito's Assistant, Beardless Case Variant, Raid Razzle",
+      "notes": "Case returns; Pepito's assistant appears; beardless alternate-universe Case (Apple Blanco) visits; stream ends with raid on Razzle."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold-open sign-on, claims pope status, assistant appears late in broadcast.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Derails cold open with Bugs Bunny voice, Lucha Libre beat, freestyle about bug Tupperware and gubernatorial run.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-anchors news desk, reads DOJ fund and Cars for Kids stories, jokes about Obama style and white monkey gig.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates Clavicular vs judge mogging, reveals penis impact training with trainer Damian for gorilla dick punch.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues judge mogged Clavicular harder, mocks Crum's swamp-face, revokes Crum's song rights.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Broadcasts from park bushes, interviews white monkey recruiter, Church of Scooby-Doo founder, and water-leak trap band.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Triggers on 'science', runs AI Rooney complaint engine, targets $1T IPO for AI Rooney-as-a-service.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "analytical co-host",
+      "notes": "analytical co-host. Appears on monitors during AI Rooney segment, processes complaints at 'slightly superhuman' speed.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Teaches lower back stretches and homemade Gentleman's Relish with anchovies, butter, spices, and cocaine.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Plays Final Fantasy XIV as CryptoZeu$, creates catboy marauder Matt Ladel, contends with mom interruptions and server locks.",
+      "canonical_name": "Brandon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Briefly appears as Pepito's assistant at stream end, confusing Case with size-shifting and jacket changes.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[1:15:38] Crum details penis training regimen with trainer Damian, claims 50% impact absorption, needs months more before gorilla punch.",
+      "timestamp": "1:15:38"
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[2:42:06] Brandon mentions 'I have to find beyblade first' while navigating FFXIV, referencing pending 2v2 Beyblade Burst Event.",
+      "timestamp": "2:42:06"
+    },
+    {
+      "storyline": "White Monkey Career Arc",
+      "beat": "[0:32:04] Case seriously considers becoming a 'white monkey' in China — paid foreigner prestige hire — debates CEO vest and South Face brand.",
+      "timestamp": "0:32:04"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum",
+      "fact": "Employing personal trainer Damian for daily penile impact conditioning (gym sessions, 'getting walloped in the cock') to survive gorilla pneumatic punch.",
+      "timestamp": "[1:16:10]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Hair growing into reverse mullet; brother's hair is straight, expects his to eventually grow straight out to sides.",
+      "timestamp": "[0:09:33]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon",
+      "fact": "Claims doctors say he has heart health of oldest Egyptian pharaohs and brain age of seven-year-old; legally dead per mom.",
+      "timestamp": "[1:57:26]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Has an unnamed assistant (small figure) who appears on camera at stream end; Pepito claims pope authority and bonus religion.",
+      "timestamp": "[3:00:03]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Final Fantasy XIV",
+      "fact": "Download completed at 150+ GB ('six million gigabytes' per Case); Brandon's character Matt Ladel (teal catboy marauder) created on Primal data center after multiple world restrictions.",
+      "timestamp": "[1:35:04]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opens with Hype Train's Bugs Bunny freestyle before Case Blackwell and Jeff Ripple cover a DOJ slush fund for Trump allies, the Chinese 'white monkey' prestige-hire industry, a California judge banning Cars for Kids ads, penis fish on beaches, and a crypto vape pen. Chet interrupts with a science segment on acupressure gag-reflex hacks, then Crum and Munch debate whether streamer Clavicular or his judge 'mogged harder' — revealing Crum's penile impact training for the pending gorilla dick punch. Trip Bradstein broadcasts from park bushes interviewing a white monkey recruiter and a Church of Scooby-Doo founder. AI Rooney processes viewer complaints about Snickers veins, ferrets, and wool-suited whiskey drinkers. Jeb Nogget teaches back stretches and homemade anchovy relish with cocaine. Brandon struggles through Final Fantasy XIV character creation and early gameplay as catboy marauder Matt Ladel. The stream closes with Pepito's assistant and a beardless alternate Case appearing before a raid on Razzle.",
+  "_meta": {
+    "vod_id": "KKFawUUIfPA",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 139313,
+    "approx_prompt_tokens": 34828,
+    "transcript_lines": 320
+  }
+}

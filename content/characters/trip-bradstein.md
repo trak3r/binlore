@@ -36,6 +36,7 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 | [[episodes/2026-06-29|2026-06-29]] | Debuts after emerging from a two-month bush hibernation. Conducts [[../segments/trip-on-the-street|Trip on the Street]] interviews with park visitors on audience-submitted topics, interviewing his mother (confusing her for a stranger), Hype Train, an aggressive DVD salesman, and a George W. Bush impersonator. |
 | [[episodes/2026-06-19|2026-06-19]] | Field correspondent stationed in public parks conducting on-the-spot interviews with passersby. |
 | [[episodes/2026-06-05|2026-06-05]] | Field correspondent residing permanently in public parks, conducting 'on the street' opinion interviews. |
+| [[episodes/2026-05-18|2026-05-18]] | field correspondent. |
 | [[episodes/2026-04-15|2026-04-15]] | field correspondent. |
 | [[episodes/2026-04-06|2026-04-06]] | field correspondent. |
 | [[episodes/2026-03-17|2026-03-17]] | field correspondent. |
@@ -52,13 +53,13 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 | [[episodes/2025-06-24|2025-06-24]] | field correspondent. |
 | [[episodes/2025-06-17|2025-06-17]] | Field Correspondent. |
 | [[episodes/2025-06-11|2025-06-11]] | field correspondent. |
-| [[episodes/2025-06-02|2025-06-02]] | field correspondent. |
 
 <details>
-<summary>Earlier appearances (43)</summary>
+<summary>Earlier appearances (44)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-06-02|2025-06-02]] | field correspondent. |
 | [[episodes/2025-05-17|2025-05-17]] | field correspondent. |
 | [[episodes/2025-05-02|2025-05-02]] | field correspondent. |
 | [[episodes/2025-04-04|2025-04-04]] | field correspondent. |
