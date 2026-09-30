@@ -242,7 +242,8 @@ Download the stream audio and generate a full timestamped transcript using local
 ./binlore ingest --latest --clean-audio
 
 # Or ingest a specific VOD by URL or ID
-./binlore ingest "https://www.twitch.tv/videos/2863722826"
+./binlore ingest "https://www.twitch.tv/videos/<vod-id>"
+./binlore ingest <vod-id>
 
 # Optional: choose Whisper model size (default is 'small')
 # Options: tiny, base, small, medium, large-v3
@@ -264,7 +265,9 @@ Run the LLM extraction pipeline over the transcript:
 
 # Or specify a capable model explicitly
 ./binlore extract --latest --model nvidia/nemotron-3-ultra-550b-a55b:free
-./binlore extract 2863722826 --timeout 180
+
+# Or target a specific VOD ID (see “Where Does <vod-id> Come From?” above)
+./binlore extract <vod-id> --timeout 180
 ```
 
 **What this does automatically:**
@@ -289,8 +292,8 @@ Once extraction is complete, populate the rest of the wiki (Character appearance
 # Update wiki pages from the latest extraction
 ./binlore update-wiki --latest
 
-# Or update for a specific VOD
-./binlore update-wiki 2863722826
+# Or update for a specific VOD ID
+./binlore update-wiki <vod-id>
 ```
 
 **What this does automatically:**
@@ -309,8 +312,8 @@ Extract sharp, lightweight video frames for characters and segments via ffmpeg w
 # Capture key frames for all detected characters & segments in latest VOD
 ./binlore screencap --latest
 
-# Capture a specific frame by timestamp
-./binlore screencap 2863722826 --timestamp 01:14:00 --name crum
+# Capture a specific frame by timestamp from a known VOD ID
+./binlore screencap <vod-id> --timestamp 01:14:00 --name crum
 
 # Capture and immediately upload to GitHub release media-assets
 ./binlore screencap --latest --upload
@@ -331,7 +334,7 @@ Open [http://localhost:8080](http://localhost:8080).
 
 ### Step 7: Review & Publish to GitHub Pages
 
-Work lands on `main` (transcripts, wiki edits). The live site only updates when you merge `main` into `production`. Do not commit directly to `production`.
+Work lands on `main` (transcripts, wiki edits). The live site only updates when you merge `main` into `production`. Do not commit directly to `production`. Preview locally first with Step 6 if you want a visual check.
 
 **1. Land work on `main`**
 
@@ -344,13 +347,7 @@ git push origin main
 
 Pushing to `main` does **not** deploy the public wiki.
 
-**2. Preview locally**
-
-```bash
-npx quartz build --serve   # http://localhost:8080
-```
-
-**3. Publish — merge `main` → `production`**
+**2. Publish — merge `main` → `production`**
 
 CLI (fast-forward when `production` has not diverged):
 
@@ -363,7 +360,7 @@ git checkout main
 
 Or open a PR with base `production` and compare `main`, review the diff, then merge.
 
-**4. Confirm deploy**
+**3. Confirm deploy**
 
 Pushing to `production` runs [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml). When that Actions run succeeds, [https://trak3r.github.io/binlore/](https://trak3r.github.io/binlore/) reflects the new tip of `production`.
 
@@ -382,20 +379,17 @@ Stream audio files take ~150 MB per 2-hour VOD. Once transcription is finished, 
 ./binlore clean --keep 1
 
 # Clean a specific VOD
-./binlore clean 2863722826
+./binlore clean <vod-id>
 ```
 
 ---
 
-## Unattended Batch Processing on a Server (`binlore process-all`)
+## Unattended Batch Processing on a Server
 
-To process the entire 370+ episode backlog unattended on a home server, VPS, or cloud instance, use the autonomous batch processor:
+To process the entire 370+ episode backlog unattended on a home server, VPS, or cloud instance:
 
 ```bash
 ./binlore
-# Or explicitly:
-./binlore process-all
-python3 tools/process_all.py
 ```
 
 Transcribe only (no LLM):
