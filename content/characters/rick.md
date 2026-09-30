@@ -31,6 +31,7 @@ Rick joined the broadcast on the [[episodes/2026-09-04|2026-09-04 broadcast]] to
 | [[episodes/2026-07-16|2026-07-16]] | Investigative media correspondent joins the news desk, providing commentary on Trump's address, JD Vance's couch jokes, and the humanoid robot story. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
 | [[episodes/2026-06-03|2026-06-03]] | Host of Amongst the Web. Referenced in AI Rooney complaint about thin blue line flag at his BBQs. |
+| [[episodes/2026-04-21|2026-04-21]] | Amongst the Web host. |
 | [[episodes/2026-04-15|2026-04-15]] | contributor. |
 | [[episodes/2026-03-27|2026-03-27]] | Amongst the Web host. |
 | [[episodes/2026-02-17|2026-02-17]] | recurring host. |
@@ -45,13 +46,13 @@ Rick joined the broadcast on the [[episodes/2026-09-04|2026-09-04 broadcast]] to
 | [[episodes/2025-06-24|2025-06-24]] | Deep State correspondent / Amongst the Web host. |
 | [[episodes/2025-06-13|2025-06-13]] | Amongst the Web host. |
 | [[episodes/2025-06-02|2025-06-02]] | Amongst the Web host. |
-| [[episodes/2025-05-21|2025-05-21]] | Amongst the Web host. |
 
 <details>
-<summary>Earlier appearances (15)</summary>
+<summary>Earlier appearances (16)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-05-21|2025-05-21]] | Amongst the Web host. |
 | [[episodes/2025-05-13|2025-05-13]] | host (Amongst the Web). |
 | [[episodes/2025-05-05|2025-05-05]] | Amongst the Web host. |
 | [[episodes/2025-05-01|2025-05-01]] | Amongst the Web host. |

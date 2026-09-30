@@ -1,0 +1,235 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "08:48",
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on from the control room; Case and Jeff Ripple settle into the anchor desk."
+    },
+    {
+      "start": "08:48",
+      "end": "38:49",
+      "canonical_segment": "News",
+      "title": "WrestleMania Recap & Iran Ceasefire Deadline",
+      "notes": "Case and Jeff discuss WrestleMania 42 results (Cody Rhodes and Roman Reigns win, Brock Lesnar retires) and the looming expiration of the Iran–US ceasefire with Vice President Vance yet to depart for talks."
+    },
+    {
+      "start": "38:49",
+      "end": "57:06",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Derailment: Piss Freestyle & Lore Drops",
+      "notes": "Hype Train commandeers the feed for a 20-minute freestyle rap about piss commerce, methamphetamine use, open-mic stand-up, and fabricated lore about Case, ignoring subscriber acknowledgments entirely."
+    },
+    {
+      "start": "57:06",
+      "end": "01:05:48",
+      "canonical_segment": "News",
+      "title": "Bear Costume Insurance Fraud & Tim Cook Departure",
+      "notes": "Case and Jeff cover a California insurance scam where four people wore a bear suit to damage luxury cars, then report Tim Cook stepping down as Apple CEO in September with John Ternus succeeding him."
+    },
+    {
+      "start": "01:05:48",
+      "end": "01:11:26",
+      "canonical_segment": "News",
+      "title": "Benadryl Boo Boo Bear Studio Visit",
+      "notes": "A woodworking, Benadryl-addled bear in a hat claims to be a high-school student named Benadryl Boo Boo Bear; Case ends the segment after the bear quits over a hostile work environment."
+    },
+    {
+      "start": "01:11:26",
+      "end": "01:24:12",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: Is Pimping Easy?",
+      "notes": "Munch argues pimping is hard due to the psychological toll of exploitation; Crum counters that exploiting people is the low road and therefore easy, while Case orders a lavender-vanilla creamer treat drink."
+    },
+    {
+      "start": "01:24:12",
+      "end": "01:36:37",
+      "canonical_segment": "How To with Jeb",
+      "title": "420 DIY: Gravity Bong, Egyptian Dance & Face Dancing",
+      "notes": "Jeb Nogget demonstrates a gravity bong, teaches the basic Egyptian dance (hip limitations noted), and attempts a face-dancing tutorial with Hey Idiot Amy; Jeb's dad remains trapped in the wood."
+    },
+    {
+      "start": "01:36:37",
+      "end": "01:53:53",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Resident Evil 4 Otome Edition Playthrough",
+      "notes": "Brandon (CryptoZeu$) plays a browser-based parody visual novel of Resident Evil 4 as Ashley Graham, enduring mother interruptions, Wikipedia-reading Rick, and Klaus the German bodyguard."
+    },
+    {
+      "start": "01:53:53",
+      "end": "02:30:48",
+      "canonical_segment": "News",
+      "title": "Scrum's 30-Minute Contractual Rap Obligation",
+      "notes": "Scrum fulfills a sub-goal contract by rapping for 30 minutes over viewer-submitted beats, covering wrestling, Fast & Furious, applied economics, water cycles, and nipple hardness before declaring the mic a portal to poor decisions."
+    },
+    {
+      "start": "02:30:48",
+      "end": "02:35:22",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid",
+      "notes": "Case thanks viewers for bits and subs, confirms Wednesday return, and raids Tea Lattes (Christine) while inhaling a voice-altering gas."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the broadcast, managed partner-application sub goal, ordered Kendall bagels, debated pimping with Munch and Crum, and oversaw Scrum's contractual rap.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered the cold-open station sign-on and identified as the dog who produces the show.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-anchored the news desk, discussed WrestleMania and Iran ceasefire, and attempted to steer coverage back to hard news during Hype Train's derailment.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Hijacked the broadcast for a 20-minute freestyle about piss sales to Saudi royalty, meth use, open-mic comedy, and fabricated lore drops about Case.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued that pimping is easy because exploitation is the low road, claimed he sleeps with feet strapped to the ceiling, and later performed the 30-minute rap as Scrum.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued pimping is hard due to the rigorous inhumanity required, mocked Crum's baldness and diaper jokes, and claimed ownership of the debate segment.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosted How To with Jeb from his workshop, demonstrated a gravity bong, taught Egyptian dance and face dancing, and referenced his father trapped in the wood.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Played Resident Evil 4 Otome Edition on browser, endured mother's door interventions, and interacted with Rick's Wikipedia facts.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Scrum",
+      "role": "contractual rapper",
+      "notes": "contractual rapper. Fulfilled a 30-minute rap obligation over viewer beats, expressing hatred for music, covering wrestling, Fast & Furious, economics, and water cycles.",
+      "canonical_name": "Scrum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "Amongst the Web host",
+      "notes": "Amongst the Web host. Briefly interrupted the gaming segment with a tropical storm fact and a nursery rhyme, earning Case's praise for saying something cool.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Benadryl Boo Boo Bear",
+      "role": "guest",
+      "notes": "guest. Appeared as a woodworking bear on Benadryl claiming to be a high-school student, quit over hostile work environment after Case questioned his influence on kids.",
+      "canonical_name": "Benadryl Boo Boo Bear",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Case ordered Kendall bagels but the shop sold out; he punished them by ordering again.",
+      "timestamp": "[28:23]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Partner application sub goal reached (25 subs); Case must re-apply for Twitch partnership after stream.",
+      "timestamp": "[01:00:43]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Tim Cook stepping down as Apple CEO in September 2026; John Ternus named successor.",
+      "timestamp": "[01:02:54]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Chinese automaker Seres patented a voice-activated in-vehicle toilet with waste evaporation and odor exhaust.",
+      "timestamp": "[36:56]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Benadryl Boo Boo Bear is a woodworking bear who claims to be an old guy in high school for a bear.",
+      "timestamp": "[01:06:56]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Jeb's dad remains trapped in the wood and is remembering too much lately.",
+      "timestamp": "[01:24:34]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Scrum's 30-minute rap was a contractual obligation from a sub goal; he hates music and considers the mic a portal to poor decisions.",
+      "timestamp": "[01:53:53]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case's treat drink is half-and-half with three pumps each of vanilla and lavender syrup, no espresso.",
+      "timestamp": "[01:19:36]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened with WrestleMania fallout and the Iran ceasefire deadline before Hype Train derailed into a 20-minute piss-and-meth freestyle. The broadcast continued with a bear-costume insurance fraud story, Tim Cook's Apple departure, a Benadryl-fueled bear guest, a Munch & Crum debate on pimping difficulty, Jeb's 420-themed instructional segment, Brandon's Resident Evil 4 Otome playthrough, and Scrum's grueling 30-minute contractual rap marathon over viewer beats.",
+  "_meta": {
+    "vod_id": "6-Ej6m49W-w",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 130109,
+    "approx_prompt_tokens": 32527,
+    "transcript_lines": 386
+  }
+}
