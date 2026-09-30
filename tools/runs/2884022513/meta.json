@@ -1,0 +1,19 @@
+{
+  "vod_id": "2884022513",
+  "title": "Quick Friday NEWS",
+  "url": "https://www.twitch.tv/videos/2884022513",
+  "duration_seconds": 5130,
+  "duration": "1:25:30",
+  "timestamp": 1790294400,
+  "aired_at": "2026-09-25T00:00:00+00:00",
+  "date": "2026-09-25",
+  "ingested_at": "2026-09-30T16:36:55.339406+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "2884022513",
+  "yt_url": "https://www.youtube.com/watch?v=2884022513",
+  "twitch_id": "2884022513",
+  "twitch_url": "https://www.twitch.tv/videos/2884022513",
+  "catalog_date": "2026-09-25"
+}
