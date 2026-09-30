@@ -39,6 +39,7 @@ He displays a profound, open disdain for Jeb's woodworking skills and emotional 
 |---|---|
 | [[../episodes/2026-08-14|2026-08-14]] | [[../segments/how-to-with-jeb|How To with Jeb]] | Broadcast debut alongside Jeb. Heckles Jeb throughout the introductory demonstration, complains about the grain quality, and repeatedly praises Jet Nogget. |
 | [[episodes/2026-06-15|2026-06-15]] | Deceased father trapped in wooden board, non-verbal. |
+| [[episodes/2026-05-04|2026-05-04]] | co-host (deceased). |
 | [[episodes/2026-04-27|2026-04-27]] | Co-Host (Deceased). |
 | [[episodes/2026-04-22|2026-04-22]] | co-host (spirit in wood board). |
 | [[episodes/2026-03-24|2026-03-24]] | co-host (deceased). |
@@ -56,13 +57,13 @@ He displays a profound, open disdain for Jeb's woodworking skills and emotional 
 | [[episodes/2025-06-09|2025-06-09]] | ghost in wood. |
 | [[episodes/2025-04-10|2025-04-10]] | ghost co-host. |
 | [[episodes/2025-03-17|2025-03-17]] | co-host (spirit in board). |
-| [[episodes/2025-03-07|2025-03-07]] | co-host (deceased). |
 
 <details>
-<summary>Earlier appearances (17)</summary>
+<summary>Earlier appearances (18)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-03-07|2025-03-07]] | co-host (deceased). |
 | [[episodes/2025-03-04|2025-03-04]] | ghost co-host. |
 | [[episodes/2025-02-25|2025-02-25]] | wood-trapped spirit. |
 | [[episodes/2025-02-12|2025-02-12]] | co-host (deceased). |

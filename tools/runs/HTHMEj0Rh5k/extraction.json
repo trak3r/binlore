@@ -1,0 +1,228 @@
+{
+  "segments": [
+    {
+      "start": "00:00:06",
+      "end": "01:03:30",
+      "canonical_segment": "News",
+      "title": "Monday News Desk: Strait of Hormuz, Spirit Airlines, Omoggle",
+      "notes": "Pepito cold-open; Case covers Trump's Operation Freedom in Strait of Hormuz, Spirit Airlines bankruptcy, Omoggle AI face-rating trend, Rudy Giuliani hospitalization, Mike Johnson porn-monitoring clip, New Day WWE departure, Steam controller sellout."
+    },
+    {
+      "start": "01:03:30",
+      "end": "01:15:00",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: Should AI Rooney Be Put Down?",
+      "notes": "Munch argues for corporate AI safety guardrails via OpenAI/Anthropic; Crum defends Rooney's offensive humor as comedy tradition; chat vote keeps Rooney active."
+    },
+    {
+      "start": "01:15:00",
+      "end": "01:29:12",
+      "canonical_segment": "AI Rooney",
+      "title": "AI Rooney Reads Complaints: Pioneers, Condoms, Watermelon Buttholes, Oven Mishaps",
+      "notes": "Rooney generates responses to viewer prompts including milk-drinking pioneers, condom alternatives, F1 burnt dog, elf oven incidents, tight buttholes, barber sink encounters, Cool Ranch seasoning sinkage, pasteurized nipple milk, and AI speech limits."
+    },
+    {
+      "start": "01:29:12",
+      "end": "01:41:25",
+      "canonical_segment": "How To with Jeb",
+      "title": "Jeb Teaches Glasses Application; Cat's Instant Pot Bowl Pizzle Chilaquiles; Fosse Dance Tutorial",
+      "notes": "Jeb demonstrates proper glasses-on technique while Dad heckles from the wood; Case gouges own eye attempting the method; Cat cooks bowl pizzle (penis) chilaquiles with kumquats; Barbara teaches Fosse moves."
+    },
+    {
+      "start": "01:41:25",
+      "end": "01:59:38",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Jo Rogen Experience: Gorilla Punches, Bowl Pizzle, Jamie Dog Training, Trump Diaper, Money Daddies",
+      "notes": "Dual Joe Rogans field chat questions: gorilla punch timing, bowl pizzle recipes, soup as poison, Jamie eating dogs, airline milk, Peter Thiel as money daddy, Gen V butthole void parallels, Omoggle scores, jazz hands vs stabbing dance, Trump war percentages, Tim Allen book, fake Mars landing, Trump's solid poop cubes, Spirit Airlines luggage prediction markets, Steven Seagal movie rumor, UFC picks, AI Rooney horniness, stolen Dimitri Martin joke, slot dragons vs cum goblins, parking on drunk guys, AI Rooney in MMA."
+    },
+    {
+      "start": "01:59:38",
+      "end": "02:22:54",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Brandon Plays Nights into Dreams on Saturn; Mother Interruptions",
+      "notes": "Brandon struggles to launch Nights into Dreams on second Saturn; wears heart monitor after doctor declared him legally dead at 1 BPM; mother delivers cough medicine and farts through door; Brandon battles controls, gas ducks, and blue chips; completes game with vibe-out ending."
+    },
+    {
+      "start": "02:22:54",
+      "end": "02:24:18",
+      "canonical_segment": "News",
+      "title": "Sign-Off and Raid to razz lol",
+      "notes": "Case announces Wednesday return, no Friday stream due to travel; initiates early raid to razz lol; Brick experimental music in background."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors Monday broadcast from newsroom desk, covers geopolitical news and presides over AI Rooney debate before suffering corneal abrasion during Jeb's glasses tutorial.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers station cold-open sign-on and countdown, identifies himself as the dog who produces the show.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "correspondent",
+      "notes": "correspondent. Joins news desk as Amongst the Web host, banters about hedge trimmers and spy technology, monitors chat reactions.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Leads debate desk arguing AI Rooney should be turned over to corporate AI experts with safety guardrails.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defends AI Rooney's right to free speech and offensive humor, citing comedy tradition.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "AI Rooney",
+      "role": "cyborg commentator",
+      "notes": "cyborg commentator. Activated after debate, reads viewer complaints about pioneers, condoms, watermelon buttholes, and recurring oven-mishap motifs.",
+      "canonical_name": "AI Rooney",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosts How To with Jeb from workshop, demonstrates glasses application while deceased father heckles from the wood.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "co-host (deceased)",
+      "notes": "co-host (deceased). Spirit trapped in wooden board, interrupts Jeb's tutorial to mock his eye injury and teenage attitude.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Struggles to launch Nights into Dreams on second Saturn while mother yells through bedroom door and heart monitor tracks his 1 BPM survival.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon's Mom",
+      "role": "off-screen interrupter",
+      "notes": "off-screen interrupter. Muffled voice through bedroom door delivers cough medicine and farts into room during Brandon's segment.",
+      "canonical_name": "Brandon's Mom",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Munch references Crum as a 'dangerous criminal' who 'has not been punished' at [01:04:06], alluding to the unresolved groin-punch liability from the mechanical gorilla wager.",
+      "timestamp": "01:04:06"
+    },
+    {
+      "storyline": "AI Rooney",
+      "beat": "Debate at [01:03:30] and subsequent activation at [01:15:00] continues the recurring AI Rooney segment arc with new safety guardrails attempted.",
+      "timestamp": "01:03:30"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case announces only two streams this week due to travel Thursday [00:09:04]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Spirit Airlines bankruptcy filing confirmed via Reuters article dated May 4, 2026 [00:29:46]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "New Super Smash Brothers game rumored for 2027 per KiwiTalks [00:26:36]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Omoggle AI face-rating platform discussed as new Twitch trend [00:39:43]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Rudy Giuliani hospitalized with pneumonia, critical but stable [00:56:06]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Mike Johnson's 2022 clip resurfaced about monitoring son's porn intake via Covenant Eyes [00:58:33]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "New Day (WWE) leaving after being asked to take 50% pay cut [00:45:50]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Steam controller sold out in 30 minutes [00:50:54]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case suffers corneal abrasion from forcing glasses on during Jeb's tutorial [01:34:11]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Broadcast ends with raid on razz lol [02:22:54]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors an early Monday broadcast covering Trump's Operation Freedom in the Strait of Hormuz, Spirit Airlines' bankruptcy filing, the Omoggle AI face-rating trend, and Rudy Giuliani's hospitalization. The Munch & Crum debate tackles whether AI Rooney should be 'put down,' resulting in Rooney's continuation with new safety guardrails. Jeb Nogget's 'How To' segment on glasses application leaves Case with a corneal abrasion. The Jo Rogen Experience fields viewer questions on gorilla punches, bowl pizzle chilaquiles, and Trump's diaper consistency. Brandon (CryptoZeu$) struggles through Nights into Dreams on Saturn while his mother interrupts. The broadcast ends with a raid on razz lol.",
+  "_meta": {
+    "vod_id": "HTHMEj0Rh5k",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 125896,
+    "approx_prompt_tokens": 31474,
+    "transcript_lines": 274
+  }
+}
