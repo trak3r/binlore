@@ -527,3 +527,5 @@ Content lives in [`content/`](content/):
 ## License
 
 MIT — see [LICENSE.txt](LICENSE.txt). Quartz is © jackyzha0; binlore tooling and customizations are © Thomas Davis. Wiki content is unofficial fan documentation for personal and non-commercial use.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/%E2%98%95%20Buy%20me%20a%20coffee-111111?style=flat-square)](https://buymeacoffee.com/teflonted)
