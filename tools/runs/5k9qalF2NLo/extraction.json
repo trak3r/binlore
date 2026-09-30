@@ -1,0 +1,162 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "17:13",
+      "canonical_segment": "Hype Train",
+      "title": "Cold Open & Hype Train Freestyle",
+      "notes": "Pepito delivers sign-on; Hype Train derails subscriber shoutouts into surreal skeleton-themed freestyle rap over dark trap beats."
+    },
+    {
+      "start": "17:13",
+      "end": "55:02",
+      "canonical_segment": "News",
+      "title": "News Desk with Peter Gibbon",
+      "notes": "Blackwell and stowaway Peter Gibbon cover UPI odd news (Cumbria Nature Festival clarification, 100-year-overdue library books), Chinese AI streaming pivot (IQIYI), in-car voice-controlled toilet patent, koala joey at Florida zoo, and men's looksmaxing trends including bone-mashing and meth-maxing."
+    },
+    {
+      "start": "55:02",
+      "end": "1:11:26",
+      "canonical_segment": "Trent at the Movies",
+      "title": "Trailer Reviews: Evercold, Paul Rudd Musical, Python Challenge, Widow's Bay",
+      "notes": "Blackwell watches Final Fantasy XIV Evercold teaser, Paul Rudd/Nick Jonas mall musical trailer, Florida Python Challenge documentary trailer, and Apple TV+ Widow's Bay hag horror trailer."
+    },
+    {
+      "start": "1:11:26",
+      "end": "1:30:10",
+      "canonical_segment": "AI Rooney",
+      "title": "AI Rooney Complaint Processing",
+      "notes": "Cyborg commentator Rooney ingests viewer complaints, generates unhinged responses (foot fetish, gasoline lead, presidential dementia, oven-door genital mishaps), and suffers repeated skin explosions."
+    },
+    {
+      "start": "1:30:10",
+      "end": "1:48:35",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Gundam Battle Assault Gameplay",
+      "notes": "Brandon plays browser-based Gundam Battle Assault while mother yells through door about cheese, Pastor Joe, and Cinderella; Blackwell provides commentary."
+    },
+    {
+      "start": "1:48:35",
+      "end": "2:47:23",
+      "canonical_segment": "DJ C4",
+      "title": "Brandon's Mom Trap Song Production",
+      "notes": "DJ C4 returns from Ibiza vacation, writes explicit trap lyrics for Brandon's mom referencing Pastor Joe, Charmed, tough daddy addiction, and Brandon's forehead/penis size; records Peter Gibbon as guide vocal, layers Brandon's mom vocals, applies low-pass filter for wall effect, exports final track."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open sign-on and manages Hype Train subscriber acknowledgments before news desk.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Derails subscriber shoutouts into surreal freestyle rap about skeletons, bones, and bodily fluids.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "anchor. Presides over news desk, wrangles Peter Gibbon, reacts to AI slop and looksmaxing trends, and oversees gaming and music segments.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Interrupts from wall habitat, discusses rat traditions, participates in AI chatbot test, and records guide vocals for Brandon's mom trap song.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Heard laughing off-mic in adjacent room during news desk segment.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "AI Rooney",
+      "role": "cyborg commentator",
+      "notes": "cyborg commentator. Processes viewer complaints with increasingly unhinged responses before synthetic skin explodes repeatedly.",
+      "canonical_name": "AI Rooney",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Plays Gundam Battle Assault while mother yells through bedroom door about cheese, Pastor Joe, and Cinderella.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ C4",
+      "role": "music producer",
+      "notes": "music producer. Constructs explicit trap song for Brandon's mom using Peter Gibbon as guide vocal and layering mom's vocals through wall-effect filter.",
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Laundry machine installed in studio (Blackwell's home streaming room).",
+      "timestamp": "[25:53]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "AI Rooney's synthetic skin repeatedly explodes during boot sequence, requiring reapplication.",
+      "timestamp": "[1:13:03]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "DJ C4 returned from vacation in Ibiza (non-music related).",
+      "timestamp": "[1:51:32]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Speakerbot voice cloning program referenced for real-time Brendan's mom voice replication.",
+      "timestamp": "[1:59:58]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Peter Gibbon claims rat leadership in wall is 'vibes-based system' not electoral.",
+      "timestamp": "[20:29]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Weekend broadcast opens with Hype Train's skeleton-themed freestyle before Blackwell and wall-dwelling stowaway Peter Gibbon cover odd news including China's AI-generated streaming pivot, in-car voice toilets, and extreme male looksmaxing trends. After trailer reviews spanning Final Fantasy XIV, a Paul Rudd musical, and competitive python hunting, AI Rooney processes viewer complaints with characteristic genital fixation and skin failures. Brandon games Gundam Battle Assault amid maternal door interventions, then DJ C4 produces a graphic trap track for Brandon's mom using Peter as guide vocal and a low-pass filter to simulate wall transmission.",
+  "_meta": {
+    "vod_id": "5k9qalF2NLo",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 123159,
+    "approx_prompt_tokens": 30789,
+    "transcript_lines": 399
+  }
+}

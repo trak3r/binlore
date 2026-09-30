@@ -22,11 +22,11 @@ Complete stream archive tracked for *Barely Informed News*. Episodes are ingeste
     <div class="stat-label">Total Broadcast Lore</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">363</div>
+    <div class="stat-value">364</div>
     <div class="stat-label">Ingested & Extracted</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">13</div>
+    <div class="stat-value">12</div>
     <div class="stat-label">Pending Ingestion Backlog</div>
   </div>
 </div>
@@ -44,8 +44,8 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   <div class="filter-group">
     <select id="status-filter">
       <option value="all">All Statuses (376)</option>
-      <option value="ingested">Ingested Only (363)</option>
-      <option value="backlog">Backlog Only (13)</option>
+      <option value="ingested">Ingested Only (364)</option>
+      <option value="backlog">Backlog Only (12)</option>
     </select>
     <select id="page-size">
       <option value="25">25 per page</option>
@@ -110,7 +110,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
 <tr data-status="backlog" data-title="friday news slime" data-date="2026-05-01" data-vod-id="r-iqkxactg4"><td class="cell-date"><code>2026-05-01</code></td><td class="cell-title">Friday News Slime</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">R-IQkXacTG4</code></td><td class="cell-dur">1h 33m</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=R-IQkXacTG4" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="senate kegger committee news" data-date="2026-04-29" data-vod-id="rzz1eeuzoli"><td class="cell-date"><code>2026-04-29</code></td><td class="cell-title">Senate Kegger Committee News</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">RzZ1eEUzOlI</code></td><td class="cell-dur">2h 29m</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=RzZ1eEUzOlI" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="backlog" data-title="monday newsway" data-date="2026-04-27" data-vod-id="j1ps8zznojs"><td class="cell-date"><code>2026-04-27</code></td><td class="cell-title">Monday Newsway</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">J1ps8ZZNOjs</code></td><td class="cell-dur">2h 1m</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=J1ps8ZZNOjs" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
-<tr data-status="backlog" data-title="weekend war-ish news" data-date="2026-04-24" data-vod-id="5k9qalf2nlo"><td class="cell-date"><code>2026-04-24</code></td><td class="cell-title">Weekend War-ish News</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">5k9qalF2NLo</code></td><td class="cell-dur">2h 47m</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=5k9qalF2NLo" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
+<tr data-status="ingested" data-title="weekend war-ish news" data-date="2026-04-24" data-vod-id="5k9qalf2nlo"><td class="cell-date"><code>2026-04-24</code></td><td class="cell-title"><a href="./2026-04-24" class="internal"><strong>Weekend War-ish News</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">5k9qalF2NLo</code></td><td class="cell-dur">2h 47m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=5k9qalF2NLo" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="indefinitely firing wednesday news" data-date="2026-04-22" data-vod-id="jdy8xzyeq0g"><td class="cell-date"><code>2026-04-22</code></td><td class="cell-title"><a href="./2026-04-22" class="internal"><strong>Indefinitely Firing Wednesday News</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">JdY8XzYEq0g</code></td><td class="cell-dur">2h 26m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=JdY8XzYEq0g" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="news minus 30 scrum minutes" data-date="2026-04-21" data-vod-id="6-ej6m49w-w"><td class="cell-date"><code>2026-04-21</code></td><td class="cell-title"><a href="./2026-04-21" class="internal"><strong>News Minus 30 Scrum Minutes</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">6-Ej6m49W-w</code></td><td class="cell-dur">2h 35m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=6-Ej6m49W-w" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="slaying some spires instead of news" data-date="2026-04-17" data-vod-id="6xrss8ywsiy"><td class="cell-date"><code>2026-04-17</code></td><td class="cell-title"><a href="./2026-04-17" class="internal"><strong>Slaying Some Spires Instead of NEWS</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">6xrss8YwsiY</code></td><td class="cell-dur">1h 39m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=6xrss8YwsiY" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
