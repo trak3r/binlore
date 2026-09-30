@@ -1,0 +1,140 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "00:00",
+      "end": "00:19:27",
+      "title": "Trump China Trip & Spencer Pratt Mayoral Run",
+      "notes": "Case Blackwell covers Trump's diplomatic visit to China and the Los Angeles mayoral race featuring reality TV personality Spencer Pratt."
+    },
+    {
+      "canonical_segment": "Hype Train",
+      "start": "00:19:27",
+      "end": "00:32:00",
+      "title": "Hospital Type Beat Derailment",
+      "notes": "Card King's 300-bit donation triggers Hype Train, who abandons sub acknowledgments for a surreal freestyle session over hospital-themed beats."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "start": "01:00:06",
+      "end": "01:10:22",
+      "title": "MrBeast vs Burnt Peanut Sacrifice Debate",
+      "notes": "Crum and Munch debate which content creator should be 'sacrificed'; poll phrasing confusion leads to contested victory and mutual accusations of theft."
+    },
+    {
+      "canonical_segment": "AI Rooney",
+      "start": "01:10:22",
+      "end": "01:25:47",
+      "title": "Complaint Integration: Nipples, Knees & Vinegar Pie",
+      "notes": "AI Rooney processes viewer grievances ranging from debate bucket angles to knee-skin puppets, Reese's Pieces superiority, and politicians' leaking nipple culture."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "start": "01:25:47",
+      "end": "01:40:03",
+      "title": "Vinegar Pie at the Michigan Magazine Museum Kitchen",
+      "notes": "Jeb Nogget presents a 1970s cooking show segment on vinegar pie while troubleshooting mono audio; ends with Latoya Jackson step workout raid to Dr. Diggity Dank."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored China trip coverage, recounted MrBeast interview history, and analyzed Spencer Pratt's LA mayoral campaign.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold-open station sign-on as 'Papito the dog that produces the show'.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "host of Amongst the Web",
+      "notes": "host of Amongst the Web. Appeared early with vocal issues; provided geopolitical analysis on US-China trade dynamics.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued for MrBeast in sacrifice debate; claimed victory after poll phrasing confusion; briefly displayed yellow visual glitch.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued for Burnt Peanut; accused Crum of stealing victory; defended mods amid polling chaos.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Derailed sub acknowledgments into extended hospital-beat freestyle about colostomy bags, IV methadone, and mental hospitals.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Presented vinegar pie recipe from archival Michigan cooking show while battling left-channel audio failure.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Interviewed for MrBeast's company after G4 shutdown; declined offer requiring relocation to South Carolina and development of 'Jimmy Brain'.",
+      "timestamp": "[14:49]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Also interviewed with MrBeast's organization alongside Case.",
+      "timestamp": "[15:34]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Spencer Pratt",
+      "fact": "Running for LA mayor with AI-generated attack ads; polling at ~22% behind Karen Bass (30%) and Nithya Raman.",
+      "timestamp": "[48:35]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "Suffering mono audio reception (left channel only) during How To segment.",
+      "timestamp": "[01:30:05]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered President Trump's diplomatic visit to China alongside a deep dive into Spencer Pratt's surprise mayoral campaign in Los Angeles. The broadcast devolved into a chaotic Hype Train derailment, a contested Munch & Crum debate over sacrificing MrBeast versus Burnt Peanut, and an AI Rooney session fixated on knee-skin puppets and politician nipple culture. Jeb Nogget closed the show with a vinegar pie tutorial from a 1970s Michigan cooking show while troubleshooting a mono audio failure.",
+  "_meta": {
+    "vod_id": "K4yX3u2nfNg",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 90927,
+    "approx_prompt_tokens": 22731,
+    "transcript_lines": 192
+  }
+}

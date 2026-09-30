@@ -249,3 +249,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[00:18:04]** ([[episodes/2026-05-01|2026-05-01]]): Owns 10-pack of large temporary Matt tattoos; applied first to own upper arm at 00:18:04; proposes 100 Bart Simpson tattoo event stream at 200-sub milestone.
 - **[44:22]** ([[episodes/2026-05-02|2026-05-02]]): Acquired a 'mat tat' (temporary tattoo) with Kendelle; has eight remaining from the batch. [44:22]
 - **[[10:39]]** ([[episodes/2026-05-12|2026-05-12]]): Spent the previous week in the Tetons with his sketch group plotting future group activities.
+- **[[14:49]]** ([[episodes/2026-05-14|2026-05-14]]): Interviewed for MrBeast's company after G4 shutdown; declined offer requiring relocation to South Carolina and development of 'Jimmy Brain'.
