@@ -1,0 +1,175 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "08:17",
+      "canonical_segment": "News",
+      "title": "Cold Open & Pepito Sign-On",
+      "notes": "Pepito delivers the station cold-open from the control room, confirming the broadcast is live and identifying himself as the dog who produces the show."
+    },
+    {
+      "start": "08:17",
+      "end": "34:32",
+      "canonical_segment": "News",
+      "title": "Iran–Israel Ceasefire & JD Vance Intervention",
+      "notes": "Case Blackwell anchors the flagship news desk covering the fragile U.S.–Iran ceasefire, Israeli strikes on Lebanon, and a surprise live appearance by JD Vance that devolves into a piss-filter bit and a dominance contest over tongue-holding."
+    },
+    {
+      "start": "34:32",
+      "end": "41:30",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train: Ceasefire Type Beat & CIA Sub Thank-You",
+      "notes": "Hype Train commandeers the feed for a freestyle session over 'ceasefire type beat' and 'CIA type beat,' thanking subs and bits donors including Skymer, Unfamous Amos, and Mighty Oz while riffing on bodily functions."
+    },
+    {
+      "start": "41:30",
+      "end": "51:23",
+      "canonical_segment": "News",
+      "title": "Post-Train News Wrap & JD Vance Lingers",
+      "notes": "Case returns to the ceasefire analysis, debating whether the administration's diplomacy is flailing or a grand vision, while JD Vance refuses to leave the studio and eventually pees on toilet paper in the VP newspaper room."
+    },
+    {
+      "start": "51:56",
+      "end": "01:11:55",
+      "canonical_segment": "News",
+      "title": "Movie Trailer Block: Michael, Lego One Piece, Hulk Hogan, Animal Farm",
+      "notes": "Case and chat watch trailers for the Michael Jackson biopic, a Lego One Piece event, a Netflix Hulk Hogan documentary, and an animated Animal Farm adaptation, debating nephew energy and kid-glove treatments."
+    },
+    {
+      "start": "01:11:55",
+      "end": "01:14:12",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet Guy the Science Eyes: Brief Newsroom Intrusion",
+      "notes": "Chet (and ChetAI) briefly interrupt to assert their news-boot qualifications and boot-pant hybrid wardrobe before being redirected to the news desk."
+    },
+    {
+      "start": "01:14:12",
+      "end": "01:18:52",
+      "canonical_segment": "News",
+      "title": "Kendall In-Studio: Paramount Leads & Influencer Scandal",
+      "notes": "Kendall walks through the studio, discusses Paramount/Sony job leads, and breaks an influencer–teacher–student scandal involving multiple inappropriate relationships at the same school."
+    },
+    {
+      "start": "01:18:52",
+      "end": "01:47:14",
+      "canonical_segment": "News",
+      "title": "Minesweeper High-Stakes Session with Kendall",
+      "notes": "Case and Kendall play an extended, sweat-drenched game of Minesweeper, narrating every logical deduction and near-death click while chat and suspense music amplify the tension."
+    },
+    {
+      "start": "01:47:45",
+      "end": "02:00:57",
+      "canonical_segment": "News",
+      "title": "Wind-Down News: Brain Implants, Prostate Cancer, Deepfakes, AI Party Bot, Carol G",
+      "notes": "Rapid-fire closing headlines: quadriplegic musician uses brain implants for DJ sets, masturbation study links 21+ monthly sessions to lower prostate cancer risk, Ohio man convicted under federal deepfake law, car suspended on rock face as prank, AI bot organizes a Manchester party, and Carol G warned not to say 'ICE out' at Coachella."
+    },
+    {
+      "start": "02:00:57",
+      "end": "02:03:30",
+      "canonical_segment": "News",
+      "title": "Raid Outro & Mat Tat Sub Goal Tease",
+      "notes": "Case raids Danny's channel, confirms the 'mat tat' sub goal merchandise is in transit, and signs off to get drinks with Crum."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the full broadcast, grew out hair on Kendall's suggestion, hosted movie trailers and a high-stakes Minesweeper game, and teased the 'mat tat' sub goal reward.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered the official station cold-open and confirmed the broadcast was live from the control room.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "segment host",
+      "notes": "segment host. Commandeered the feed for a freestyle session over ceasefire and CIA beats, thanked subs and bits donors, and riffed extensively on bodily fluids.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "correspondent",
+      "notes": "correspondent. Briefly interjected during Hype Train to criticize the sub thank-you pace and was told to leave by Case.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendall",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walked through the studio, discussed Paramount job leads, broke an influencer scandal, and co-piloted an intense Minesweeper session with Case.",
+      "canonical_name": "Kendall",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Briefly interrupted with ChetAI to assert news-boot credentials and boot-pant wardrobe before being redirected.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Referenced at sign-off as Case's drinking companion for the post-stream hangout.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Case Blackwell is growing out his hair on Kendall's suggestion to see what it looks like long.",
+      "timestamp": "[09:04]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case Blackwell references a 'mat tat' sub goal merchandise item that is in transit with custom shipping delays.",
+      "timestamp": "[02:02:25]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Kendall demonstrates high-speed Minesweeper proficiency, guiding Case through logical deductions under pressure.",
+      "timestamp": "[01:18:52]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "JD Vance (on-air impression) urinated on toilet paper in the vice presidential newspaper room, believing it was the correct protocol.",
+      "timestamp": "[50:16]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered the collapsing Iran–Israel ceasefire amid continued Israeli strikes on Lebanon, interrupted by a chaotic JD Vance appearance and a Hype Train freestyle derailment. The broadcast pivoted to a movie trailer block, a brief Chet Guy the Science Eyes intrusion, and an extended Minesweeper duel with Kendall before closing with rapid-fire headlines on brain-implant music, prostate cancer research, deepfake convictions, and Carol G's Coachella visa warning.",
+  "_meta": {
+    "vod_id": "IZKfjXcfU6U",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 98445,
+    "approx_prompt_tokens": 24611,
+    "transcript_lines": 288
+  }
+}
