@@ -1,0 +1,194 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "09:53",
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "notes": "Pepito delivers top-of-hour sign-on, announces truncated Thursday runtime before Patreon, teases Kendelle job news."
+    },
+    {
+      "start": "09:53",
+      "end": "40:42",
+      "canonical_segment": "News",
+      "title": "SpaceX IPO Filing Analysis",
+      "notes": "Anchor and science correspondent dissect S-1 filing: $1.75T target valuation, 85.1% Musk voting control, $18.67B revenue vs $4.94B loss, orbital supercomputing and asteroid mining growth claims."
+    },
+    {
+      "start": "40:42",
+      "end": "49:07",
+      "canonical_segment": "News",
+      "title": "Wrestling Speculation: Triple H & Vince McMahon",
+      "notes": "Case predicts Triple H congressional run in early 2030s, Vince McMahon return to wrestling TV before death for crowd adulation."
+    },
+    {
+      "start": "49:07",
+      "end": "53:32",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Interruption Attempt",
+      "notes": "Hype Train triggers over Westside Gunn beats but fails to drop a beat; talked over by anchor and EP."
+    },
+    {
+      "start": "53:32",
+      "end": "01:02:08",
+      "canonical_segment": "News",
+      "title": "Chat News Rapid Fire",
+      "notes": "Headlines: Trump son quote, Texas kangaroo, Jeff Probst Survivor spoiler, depression-detection video game, FWC biologist $400K settlement over Charlie Kirk post."
+    },
+    {
+      "start": "01:02:08",
+      "end": "01:15:30",
+      "canonical_segment": "Munch & Crum",
+      "title": "Final Fantasy Villain Debate: Kefka vs Sephiroth",
+      "notes": "Crum defends Kefka's maniacal harlequin design; Munch champions Sephiroth as definitive J-pop antagonist; devolves into 'all villains are tall with long swords' taxonomy including Chucky, Freddy Krueger, Negan."
+    },
+    {
+      "start": "01:15:30",
+      "end": "01:42:30",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Aladdin Activity Center Gameplay",
+      "notes": "Brandon plays 1990s edutainment title amid muffled-door maternal interventions: cousin 'trout' prison nail-file cake, Pastor Joe house blessing, cockroach-infested chicken tenders."
+    },
+    {
+      "start": "01:42:30",
+      "end": "01:44:25",
+      "canonical_segment": "News",
+      "title": "Raid & Sign-Off",
+      "notes": "Case raids 'doctor buggerly dank' (mispronounced), promises longer stream tomorrow, ends for Patreon."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers station sign-on, manages truncated Thursday runtime, teases Kendelle job exit.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "anchor. Navigates SpaceX financials, wrestling predictions, chat headlines, and segment transitions before Patreon handoff.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeers news desk to riff on orbital data centers, space cooling physics, and Disney's Wish as market philosophy.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defends Kefka as superior Final Fantasy villain against Munch's Sephiroth advocacy.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Champions Sephiroth as definitive antagonist while derailing into universal tall-villain taxonomy.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Plays Aladdin Activity Center under maternal siege and pastoral interference.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interrupter",
+      "notes": "musical interrupter. Attempts freestyle over Westside Gunn beats but fails to drop beat before being talked over.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon's Mom",
+      "role": "muffled-door antagonist",
+      "notes": "muffled-door antagonist. Delivers cousin prison updates, nail-file cake lore, and Pastor Joe spiritual advisories through bedroom door.",
+      "canonical_name": "Brandon's Mom",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "SpaceX files Form S-1 for Nasdaq listing under ticker SPCX targeting $1.75T valuation with Elon Musk retaining 85.1% voting control.",
+      "timestamp": "[14:13]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "SpaceX 2025 financials show $18.67B revenue (33.2% YoY growth) against $4.94B net loss, continuing multi-year operating losses.",
+      "timestamp": "[18:35]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "IPO filing reveals SpaceX targeting orbital supercomputing, asteroid mining, and extraterrestrial logistics as growth vectors.",
+      "timestamp": "[22:34]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case sets reminder to apply for unspecified 'part' (sub goal) at 11am next day.",
+      "timestamp": "[40:42]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case predicts Triple H runs for Congress in early 2030s; Vince McMahon returns to wrestling TV before death for crowd adulation.",
+      "timestamp": "[47:35]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Brandon's mother reveals cousin 'trout' incarcerated until 2069, receives birthday card with nail file baked into cake.",
+      "timestamp": "[1:16:35]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Brandon's mother identifies 'Pastor Joe' as spiritual advisor who 'blesses the house' over Brandon's art.",
+      "timestamp": "[1:17:10]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case references three-minute depression-detection video game from earlier chat headline.",
+      "timestamp": "[1:41:12]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News dissected SpaceX's $1.75 trillion IPO filing revealing orbital data center ambitions amid $5 billion annual losses, then pivoted to wrestling speculation before a Munch & Crum debate on Final Fantasy villainy devolved into a taxonomy of tall antagonists. The broadcast concluded with CryptoZeu$ speedrunning Aladdin Activity Center under maternal siege while Hype Train's freestyle attempt collapsed into beatless noise ahead of a Patreon handoff.",
+  "_meta": {
+    "vod_id": "zciy_BD7_jY",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 90055,
+    "approx_prompt_tokens": 22513,
+    "transcript_lines": 190
+  }
+}
