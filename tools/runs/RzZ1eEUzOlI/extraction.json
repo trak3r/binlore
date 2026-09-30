@@ -1,0 +1,209 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "08:00",
+      "canonical_segment": "News",
+      "title": "Cold Open & Studio Setup",
+      "notes": "Pepito delivers station sign-on; Case troubleshoots audio, ear discomfort, and microphone gain while fielding chat about 420, AI Rooney testing, and in-car toilets."
+    },
+    {
+      "start": "08:06",
+      "end": "41:00",
+      "canonical_segment": "News",
+      "title": "Pete Hegseth Senate Hearing & Supreme Court Roundup",
+      "notes": "Case covers Hegseth testimony on Iran war costs and General George firing; discusses SCOTUS striking down Louisiana redistricting map; Winnipeg sinkhole rescue; Ben Hooper's Loveland Frogman segment; Rubik's Cube skydiving record."
+    },
+    {
+      "start": "41:04",
+      "end": "55:00",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "NURABLE BCI Headphones & False Vacuum Decay",
+      "notes": "Chet triggers on 'science'; ChetAI joins to analyze NURABLE non-invasive brain-wave headphones and Chinese tabletop simulation of false vacuum decay."
+    },
+    {
+      "start": "55:09",
+      "end": "1:12:00",
+      "canonical_segment": "AI Rooney",
+      "title": "Reskinned Rooney Complaint Processor",
+      "notes": "Case debuts retrained AI Rooney with 'tenfold reality sensors' and extra Reddit data; Rooney processes ten viewer complaints, spiraling into explicit fetish content before Case shuts it down."
+    },
+    {
+      "start": "1:12:57",
+      "end": "1:24:00",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: Does Crum Hate Women? Is Munch Open to Kendall Deciding?",
+      "notes": "Munch and Crum clash over whether Crum hates women and whether Munch would accept Kendall as debate arbiter; Pepito/Shat rules Crum the loser, sparking point-theft accusations."
+    },
+    {
+      "start": "1:25:58",
+      "end": "1:39:00",
+      "canonical_segment": "News",
+      "title": "Town Hall with Gianna Wet Mitchell & Lil Tommy Big Law",
+      "notes": "Gianna (noting rivalry with absent Liliana) and child lawyer Lil Tommy field !TH questions on peanuts, Shadow the Hedgehog, nipple milk colors, 'twat' vernacular, blumpkin chairs, HR Toilet, and skate park pork-barreling."
+    },
+    {
+      "start": "1:39:10",
+      "end": "2:21:00",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Wild Guns SNES Playthrough",
+      "notes": "Brandon battles controller failures, keyboard controls, and mother/door interruptions to beat Wild Guns on SNES; references oven-door mishap and blumpkin chair holes."
+    },
+    {
+      "start": "2:21:38",
+      "end": "2:29:36",
+      "canonical_segment": "News",
+      "title": "Closing & Raid to Steve",
+      "notes": "Case claims 'expert in women from a healthy male perspective' title; shops colonial American wigs on Amazon; raids Steve's Magic: The Gathering stream; plugs tomorrow's Patreon maid-outfit goal."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold-open sign-on; appeared as 'Shat' to adjudicate Munch & Crum debate, ruling Crum the loser.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Munch on misogyny allegations and Kendall's authority; noted as looking 'different than usual' with shape-shifting joke.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued he decides debate winners by excellence; denied hating women, cited wife; lost debate per Pepito/Shat ruling.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeered broadcast on 'science' trigger; analyzed NURABLE BCI headphones and false vacuum decay research with ChetAI.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "analytical co-host",
+      "notes": "analytical co-host. Appeared on studio monitors alongside Chet to process scientific data during Chet Guy the Science Eyes segment.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "AI Rooney",
+      "role": "cyborg commentator",
+      "notes": "cyborg commentator. Relaunched with reskinned model and added Reddit training data; processed ten complaints before descending into explicit fetish loops.",
+      "canonical_name": "AI Rooney",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Lil Tommy Big Law",
+      "role": "town hall participant",
+      "notes": "town hall participant. Child lawyer co-hosted town hall; answered blumpkin-chair hole count and Renna Chrome questions; billed for dancing.",
+      "canonical_name": "Lil Tommy Big Law",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Played Wild Guns on SNES via keyboard after controller failure; endured mother/door interruptions and Brick's oven-door callback.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype acknowledgment",
+      "notes": "hype acknowledgment. Interrupted donation read with 'piss' color variant freestyle; traded bars with Rick and Case during sub/donation shoutouts.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "correspondent",
+      "notes": "correspondent. Traded barbs with Case and Hype Train during donation segment; misread sub months, claimed government authority to deduct months.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Referenced by Gianna Wet Mitchell as absent rival; did not appear on-air this episode.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Hair noted as getting long; entering 'intermediary phase' before wild growth [08:43].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "AI Rooney",
+      "fact": "Reskinned with 'tenfold reality sensors' and additional Reddit training data to curb psychotic outputs [56:18].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Appearance described as 'different than usual' with Munch accusing him of shape-shifting [1:12:57].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Gianna Wet Mitchell",
+      "fact": "Confirmed career rivalry with Liliana, stating 'we have a bit of a career rivalry so I hate to see her go' [1:27:15].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "Brick referenced Brandon's oven-door incident ('my cock is now stuck in the oven') during Wild Guns playthrough [1:43:16].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Shopping colonial American wigs on Amazon for future history segment; considering custom fit for large head [2:24:24].",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchored a sprawling Wednesday broadcast covering Pete Hegseth's Senate hearing, a SCOTUS redistricting ruling, and a Winnipeg sinkhole rescue before triggering Chet Guy the Science Eyes on BCI headphones and false vacuum decay. A reskinned AI Rooney processed viewer complaints until explicit fetish loops forced a shutdown, then Munch and Crum debated misogyny and Kendall's arbitration authority — Pepito ruling Crum the loser. The episode closed with a town hall featuring Gianna Wet Mitchell and Lil Tommy Big Law, Brandon's keyboard-only Wild Guns run, and Case shopping colonial wigs before raiding a Magic: The Gathering stream.",
+  "_meta": {
+    "vod_id": "RzZ1eEUzOlI",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 120470,
+    "approx_prompt_tokens": 30117,
+    "transcript_lines": 326
+  }
+}

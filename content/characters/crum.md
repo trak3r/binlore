@@ -50,18 +50,19 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-06-18|2026-06-18]] | Senior debate analyst. Hollow-eyed, bald. Demands total abolition of improvisation. Suffers 36-year UTI causing acidic urine. Openly hates Irish people. Wife seeing therapist (referenced). Gambling debts canonical but not mentioned this episode. |
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity and Dick Punch wager. |
 | [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (hollow-eyed, bald). Argues for political decorum, reveals Dubai 'classified' social life, honey-bag therapy, claims penile conditioning for gorilla dick-punch. |
+| [[episodes/2026-04-29|2026-04-29]] | debate analyst. |
 | [[episodes/2026-04-21|2026-04-21]] | contractual rapper. |
 | [[episodes/2026-04-15|2026-04-15]] | debate analyst. |
 | [[episodes/2026-04-14|2026-04-14]] | chat news reader. |
 | [[episodes/2026-04-11|2026-04-11]] | debate analyst. |
 | [[episodes/2026-04-06|2026-04-06]] | debate analyst. |
-| [[episodes/2026-04-01|2026-04-01]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (176)</summary>
+<summary>Earlier appearances (177)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-04-01|2026-04-01]] | debate analyst. |
 | [[episodes/2026-03-25|2026-03-25]] | debate analyst. |
 | [[episodes/2026-03-20|2026-03-20]] | debate analyst. |
 | [[episodes/2026-03-19|2026-03-19]] | debate analyst. |
@@ -464,3 +465,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[43:23]** ([[episodes/2026-04-06|2026-04-06]]): Gorilla dick punch execution window set for next two months (from 2026-04-06).
 - **[]** ([[episodes/2026-04-11|2026-04-11]]): Possesses a blood-covered hard drive from a 'fugue state' that whispers when he sleeps; plugged it into studio computers, causing new files to appear [1:51:49, 1:53:52].
 - **[]** ([[episodes/2026-04-11|2026-04-11]]): A 'hell poster' of Crum exists and Case was searching for it during the broadcast [1:51:25].
+- **[]** ([[episodes/2026-04-29|2026-04-29]]): Appearance described as 'different than usual' with Munch accusing him of shape-shifting [1:12:57].

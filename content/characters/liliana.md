@@ -39,6 +39,7 @@ Liliana was absent from *Barely Informed News* for approximately a full year bef
 |---|---|
 | [[episodes/2026-07-16|2026-07-16]] | Mentioned by chat as knowing where Stephanie is, with Case confirming she is a 'big time international power broker' currently busy. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
+| [[episodes/2026-04-29|2026-04-29]] | desk partner. |
 | [[episodes/2026-03-07|2026-03-07]] | Briefly appears during newsroom wrap-up; Case mentions her dedicated theme music. |
 | [[episodes/2026-02-19|2026-02-19]] | desk partner. |
 | [[episodes/2025-09-11|2025-09-11]] | desk partner. |
@@ -56,13 +57,13 @@ Liliana was absent from *Barely Informed News* for approximately a full year bef
 | [[episodes/2025-03-25|2025-03-25]] | desk partner. |
 | [[episodes/2025-03-21|2025-03-21]] | desk partner. |
 | [[episodes/2025-03-19|2025-03-19]] | desk partner. |
-| [[episodes/2025-03-07|2025-03-07]] | desk partner. |
 
 <details>
-<summary>Earlier appearances (30)</summary>
+<summary>Earlier appearances (31)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-03-07|2025-03-07]] | desk partner. |
 | [[episodes/2025-03-04|2025-03-04]] | desk partner. |
 | [[episodes/2025-02-25|2025-02-25]] | desk partner. |
 | [[episodes/2025-02-14|2025-02-14]] | desk partner. |

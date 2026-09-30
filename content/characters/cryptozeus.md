@@ -56,15 +56,16 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-06-08|2026-06-08]] | Resident gaming correspondent. Remote from bedroom; battles N64 emulation, mother's screaming, and Glover's inverted controls. |
 | [[episodes/2026-06-05|2026-06-05]] | Gaming and digital culture correspondent broadcasting remotely from his bedroom studio. |
 | [[episodes/2026-05-29|2026-05-29]] | Gaming correspondent playing Boogerman with mother interruptions. |
+| [[episodes/2026-04-29|2026-04-29]] | gaming correspondent. |
 | [[episodes/2026-04-24|2026-04-24]] | gaming correspondent. |
 | [[episodes/2026-04-21|2026-04-21]] | gaming correspondent. |
-| [[episodes/2026-04-15|2026-04-15]] | contributor. |
 
 <details>
-<summary>Earlier appearances (16)</summary>
+<summary>Earlier appearances (17)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-04-15|2026-04-15]] | contributor. |
 | [[episodes/2026-04-14|2026-04-14]] | gaming correspondent. |
 | [[episodes/2026-04-11|2026-04-11]] | gaming correspondent. |
 | [[episodes/2026-03-27|2026-03-27]] | gaming correspondent. |
@@ -141,3 +142,4 @@ See also: [[../segments/cryptozeus|CryptoZeu$ (Segment)]], [[characters/brandons
 - **[]** ([[episodes/2026-04-11|2026-04-11]]): Was homeschooled for two years due to a skin condition before leaving school entirely [2:28:14].
 - **[]** ([[episodes/2026-04-14|2026-04-14]]): Computer sourced from 'Markinson's Wet Ham Emporium' deli sponsorship, not Dell. [02:15:39]
 - **[]** ([[episodes/2026-04-14|2026-04-14]]): Mother yells through bedroom door about 'Pastor Joe' and repeatedly farts on door despite established boundary. [02:25:27]
+- **[]** ([[episodes/2026-04-29|2026-04-29]]): Brick referenced Brandon's oven-door incident ('my cock is now stuck in the oven') during Wild Guns playthrough [1:43:16].
