@@ -1,0 +1,138 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "AI Rooney",
+      "title": "AI Rooney Complaints & Technical Meltdown",
+      "start": "02:44",
+      "end": "13:40",
+      "notes": "AI Rooney segment suffers cascading technical failures; Rooney delivers viewer complaints while repeatedly breaking content filters with slurs and sexual content, eventually exploding. Case struggles with stream deck and audio routing throughout."
+    },
+    {
+      "canonical_segment": "CryptoZeu$",
+      "title": "Battle Arena Toshinden: Shoshinjo Hunt",
+      "start": "14:04",
+      "end": "42:50",
+      "notes": "Brandon plays Battle Arena Toshinden on retro arcade core, attempting to unlock hidden character Shoshinjo. Extended gameplay with move-list research, mother interruptions, and AI Rooney ghost cameo. Case fails to unlock Shoshinjo before ending stream."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid",
+      "start": "42:50",
+      "end": "47:33",
+      "notes": "Case wraps the 'Friday News Slime' broadcast, discusses AI Rooney's future viability, reveals mat tattoo (Kendelle has matching), and raids Raz without DJ C4 segment."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors Friday News Slime; battles tech gremlins during AI Rooney, plays Battle Arena Toshinden as Brandon's stand-in, shows off new mat tattoo.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Absent all broadcast; Case notes at sign-off that Pepito never got a cut-in.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Mentioned off-camera: allergic to the temporary mat tattoo adhesive; received one of the limited mat tats.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Kicked out of stream early for testing; Case consults him off-air about AI Rooney's architecture.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "AI Rooney",
+      "role": "cyborg commentator",
+      "notes": "cyborg commentator. Delivers viewer complaints while repeatedly violating content filters (slurs, sexual content, minors references) and eventually self-destructs.",
+      "canonical_name": "AI Rooney",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Summoned during tech chaos; acknowledged but not featured in full derailment.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Plays Battle Arena Toshinden remotely; mother interrupts repeatedly; Case takes over controls for most of segment.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "Amongst the Web host",
+      "notes": "Amongst the Web host. Referenced in chat during gameplay; Case addresses him briefly.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ C4",
+      "role": "musical producer",
+      "notes": "musical producer. Mentioned at sign-off: no DJ C4 request submitted this episode.",
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Acquired a 'mat tat' (temporary tattoo) with Kendelle; has eight remaining from the batch. [44:22]",
+      "timestamp": "44:22",
+      "confidence": 0.7
+    },
+    {
+      "entity": "AI Rooney",
+      "fact": "Content filter rules established: must be horny but not racist, homophobic, slur-using, or mention minors; currently failing compliance. [45:49]",
+      "timestamp": "45:49",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "Mother's door interventions continue; she threatens child services despite Brandon being adult. [16:34]",
+      "timestamp": "16:34",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Friday News Slime opens with a catastrophic AI Rooney segment where the cyborg commentator nukes the stream deck, audio, and content filters in rapid succession. Case pivots to a CryptoZeu$ gaming dispatch, taking the stick himself to hunt Shoshinjo in Battle Arena Toshinden while Brandon's mother wages psychological warfare through the bedroom door. The broadcast closes with Case revealing matching mat tattoos for himself and Kendelle, declaring AI Rooney's future uncertain, and raiding Raz without a DJ C4 send-off.",
+  "_meta": {
+    "vod_id": "EYROTn2tB_E",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 43367,
+    "approx_prompt_tokens": 10841,
+    "transcript_lines": 115
+  }
+}

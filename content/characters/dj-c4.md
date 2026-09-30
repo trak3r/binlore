@@ -45,6 +45,7 @@ Unlike conventional broadcast audio engineers, DJ C4 constructs songs collaborat
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of raid, not actively speaking. |
 | [[episodes/2026-06-05|2026-06-05]] | In-studio music producer and composer responsible for thematic song creation and promotional content. |
 | [[episodes/2026-05-29|2026-05-29]] | In-studio music producer creating the Thump Steaks theme. |
+| [[episodes/2026-05-02|2026-05-02]] | musical producer. |
 | [[episodes/2026-04-24|2026-04-24]] | music producer. |
 | [[episodes/2026-02-14|2026-02-14]] | musical producer. |
 | [[episodes/2026-01-17|2026-01-17]] | musical producer. |
@@ -61,13 +62,13 @@ Unlike conventional broadcast audio engineers, DJ C4 constructs songs collaborat
 | [[episodes/2025-06-13|2025-06-13]] | musical producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Musical Producer. |
 | [[episodes/2025-05-30|2025-05-30]] | musical producer. |
-| [[episodes/2025-05-23|2025-05-23]] | music producer. |
 
 <details>
-<summary>Earlier appearances (1)</summary>
+<summary>Earlier appearances (2)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-05-23|2025-05-23]] | music producer. |
 | [[episodes/2025-01-29|2025-01-29]] | musical producer. |
 
 </details>

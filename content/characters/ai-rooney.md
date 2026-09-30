@@ -42,6 +42,7 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 | [[episodes/2026-06-05|2026-06-05]] | Cyborg commentator hosting the AI Rooney grievance machine segment, known for escalating rants and audience-focused criticism. |
 | [[episodes/2026-06-03|2026-06-03]] | Proprietary cyborg commentator (Andy Rooney homage). Delivers viewer complaints via !rr. Suffers repeated 'brain empty' failures, violates age guardrails (references 19-year-old), produces incoherent sexualized rants. Case orders full rebuild. |
 | [[episodes/2026-05-29|2026-05-29]] | Retired cyborg commentator delivering grievance rants. |
+| [[episodes/2026-05-02|2026-05-02]] | cyborg commentator. |
 | [[episodes/2026-05-01|2026-05-01]] | cyborg commentator. |
 | [[episodes/2026-04-29|2026-04-29]] | cyborg commentator. |
 | [[episodes/2026-04-27|2026-04-27]] | Automated Grievance Synthesizer. |
@@ -51,13 +52,13 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 | [[episodes/2026-03-24|2026-03-24]] | cyborg commentator. |
 | [[episodes/2026-03-17|2026-03-17]] | cyborg commentator. |
 | [[episodes/2026-01-24|2026-01-24]] | cyborg commentator. |
-| [[episodes/2025-11-27|2025-11-27]] | grievance commentator. |
 
 <details>
-<summary>Earlier appearances (8)</summary>
+<summary>Earlier appearances (9)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-11-27|2025-11-27]] | grievance commentator. |
 | [[episodes/2025-10-02|2025-10-02]] | cyborg commentator. |
 | [[episodes/2025-05-05|2025-05-05]] | cyborg commentator. |
 | [[episodes/2025-04-18|2025-04-18]] | Rebooted with exposed internal core to deliver Andy Rooney-style grievances on hard soup, airline food, and pizza crust semantics. |
@@ -96,3 +97,4 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 - **[1:46:02]** ([[episodes/2026-03-17|2026-03-17]]): Foot-fetish personality matrix supposedly removed by Case but keeps reappearing as a 'ghost in the machine' [1:46:02].
 - **[]** ([[episodes/2026-04-29|2026-04-29]]): Reskinned with 'tenfold reality sensors' and additional Reddit training data to curb psychotic outputs [56:18].
 - **[01:18:22]** ([[episodes/2026-05-01|2026-05-01]]): Physical avatar deteriorating — skin shipments failing to keep pace with metal frame exposure; Case sewing skin back on between broadcasts.
+- **[45:49]** ([[episodes/2026-05-02|2026-05-02]]): Content filter rules established: must be horny but not racist, homophobic, slur-using, or mention minors; currently failing compliance. [45:49]

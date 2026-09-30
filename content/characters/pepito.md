@@ -61,12 +61,13 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (107)</summary>
+<summary>Earlier appearances (108)</summary>
 
 | Episode | Notes |
 |---|---|
 | [[episodes/2026-06-03|2026-06-03]] | Executive Producer. Canine broadcast executive appearing via Producer Cam. Opens show, manages sub goals, discusses Bart Simpson tattoo logistics. |
 | [[episodes/2026-05-29|2026-05-29]] | Executive producer opening the show with his signature intro. |
+| [[episodes/2026-05-02|2026-05-02]] | executive producer. |
 | [[episodes/2026-04-14|2026-04-14]] | executive producer. |
 | [[episodes/2026-03-14|2026-03-14]] | executive producer. |
 | [[episodes/2026-03-06|2026-03-06]] | executive producer. |
