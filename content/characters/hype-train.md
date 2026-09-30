@@ -245,3 +245,5 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[[12:02]]** ([[episodes/2025-12-18|2025-12-18]]): Face remains 'lightly blue' and claims to slip in and out of reality when Case fails to sustain hype; consumes hype and excretes cocaine from smokestack.
 - **[[37:56]]** ([[episodes/2026-02-17|2026-02-17]]): Claims immortality via CIA deal with hell; has worked for every administration since Reagan; confesses to JFK assassination.
 - **[[18:57]]** ([[episodes/2026-02-26|2026-02-26]]): Claims to have met Dr. Jill Biden and Cisco at 'shakedown finals'; asserts Cisco was abducted by aliens to fight sentient thongs on planet Gates.
+- **[[22:56]]** ([[episodes/2026-05-12|2026-05-12]]): Claims to have fought a toilet war on Mars with a plumber army, all of whom died sacrificing themselves to break the spell animating the toilets.
+- **[[28:06]]** ([[episodes/2026-05-12|2026-05-12]]): States he dies and becomes a fundamentally different train each time his hype expires, retaining the same memories and personality.

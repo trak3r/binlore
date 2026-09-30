@@ -156,6 +156,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2026-04-06|2026-04-06]] [43:23] | [43:23] Crum confirms mechanical gorilla dick punch has 'some time in the next two months' — training camp takes months. |
 | [[../episodes/2026-04-15|2026-04-15]] | Crum appears in Munch & Crum debate; no direct advancement of pneumatic gorilla groin-punch liability. |
 | [[../episodes/2026-05-04|2026-05-04]] [01:04:06] | Munch references Crum as a 'dangerous criminal' who 'has not been punished' at [01:04:06], alluding to the unresolved groin-punch liability from the mechanical gorilla wager. |
+| [[../episodes/2026-05-12|2026-05-12]] [17:47] | [17:47] Case confirms the Crum Dick Punch liability has been 'paid off,' marking the concluded arc's resolution. |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |

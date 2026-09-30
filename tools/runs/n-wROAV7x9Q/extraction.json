@@ -1,0 +1,208 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "08:04",
+      "canonical_segment": "News",
+      "title": "Cold Open & Pepito Sign-On",
+      "notes": "Pepito delivers the station cold-open sign-on from the control room, initiating the live broadcast."
+    },
+    {
+      "start": "08:04",
+      "end": "30:18",
+      "canonical_segment": "News",
+      "title": "News Desk: Trump Dental Visits & Case's Absence",
+      "notes": "Case Blackwell returns from a week in the Tetons with his sketch group; Jeff Ripple co-anchors. Coverage focuses on Trump's third dentist visit in 2025, chronic venous insufficiency diagnosis, and bruised hands."
+    },
+    {
+      "start": "30:18",
+      "end": "51:13",
+      "canonical_segment": "News",
+      "title": "News Stack: Chat Submissions",
+      "notes": "Case and Jeff process chat-submitted stories: ELF Cosmetics founder becoming a Catholic priest, Benedict Cumberbatch bicycle fight, 'ball maxing' saline injection trend, and a rectal exam accidentally fixing heart arrhythmia."
+    },
+    {
+      "start": "51:13",
+      "end": "01:12:36",
+      "canonical_segment": "AI Rooney",
+      "title": "AI Rooney Viewer Complaints",
+      "notes": "Case activates AI Rooney for ten viewer complaints; the cyborg commentator generates Andy Rooney-style grievances on topics including leotards, garbage disposals, nipple aging, fist insertions, Big the Cat, Fresno Mormons, Chunky Kong, baseball mustaches, and newsprint comics."
+    },
+    {
+      "start": "01:13:20",
+      "end": "01:27:00",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web: Viewer Video Reviews",
+      "notes": "Jeff Ripple hosts the viral media review desk, rating submissions including a Ted Bundy clip, Epstein files reference, a hairy badger, a kid eating a sandwich, ice-breaking trypophobia trigger, baseball celebration dance, and a mechanical table rocker."
+    },
+    {
+      "start": "01:27:00",
+      "end": "02:20:30",
+      "canonical_segment": "CryptoZeu$",
+      "title": "CryptoZeu$: Castlevania Symphony of the Night",
+      "notes": "Brandon plays Castlevania: Symphony of the Night via web client, battling controller mapping issues, his mother's interruptions, raccoon infestation lore, and a lack of save points; defeats multiple bosses but dies to axe enemies in a hallway."
+    },
+    {
+      "start": "02:20:30",
+      "end": "02:23:05",
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid to Ricky Peacock",
+      "notes": "Case wraps the condensed broadcast, announces intent to stream earlier tomorrow, and raids Ricky Peacock's Just Chatting channel."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Returned from Tetons sketch trip; anchored news desk, activated AI Rooney, and hosted Amongst the Web handoff.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold-open sign-on; referenced at close with 'little guy' physical bit.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-anchored news desk, hosted Amongst the Web video reviews, and traded barbs with Hype Train.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Commandeered broadcast for extended freestyle about Mars toilet wars, plumber armies, and cyclical death/rebirth as a new train each hype cycle.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Played Castlevania: Symphony of the Night on web client; struggled with controls, mother interruptions, and no save points.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Referenced as having 'paid off' the Crum Dick Punch wager; absent from studio.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Referenced in Crum Dick Punch payoff context; absent from studio.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Invoked during ball maxing discussion but did not trigger; absent from studio.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "AI co-host",
+      "notes": "AI co-host. Referenced as Chet's neural model; not activated.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Referenced in Join the Wall hell-transit context; not seen on-air.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Mentioned as expected home later; not on-air.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[17:47] Case confirms the Crum Dick Punch liability has been 'paid off,' marking the concluded arc's resolution.",
+      "timestamp": "17:47"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Hype Train",
+      "fact": "Claims to have fought a toilet war on Mars with a plumber army, all of whom died sacrificing themselves to break the spell animating the toilets.",
+      "timestamp": "[22:56]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Hype Train",
+      "fact": "States he dies and becomes a fundamentally different train each time his hype expires, retaining the same memories and personality.",
+      "timestamp": "[28:06]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Spent the previous week in the Tetons with his sketch group plotting future group activities.",
+      "timestamp": "[10:39]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "House windows shattered outward due to internal atmospheric pressure; raccoons now infest the kitchen.",
+      "timestamp": "[01:39:02]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "Maintains 'daddy jars' of peanut butter in the basement for his father's potential return; mother inserts hotdogs into them.",
+      "timestamp": "[01:59:00]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "Mother yells through bedroom door during streams; refers to him as 'Bran Bran' and critiques his language.",
+      "timestamp": "[01:28:24]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns from a Tetons sketch retreat to anchor a condensed broadcast covering Trump's third dentist visit, an ELF Cosmetics founder entering the priesthood, Benedict Cumberbatch's bicycle altercation, and the 'ball maxing' saline injection trend. AI Rooney processes ten viewer complaints with characteristic fixation on garbage disposals, nipple aging, and Big the Cat. Jeff Ripple hosts Amongst the Web reviewing viewer clips, then Brandon (CryptoZeu$) battles Castlevania: Symphony of the Night on a laggy web client while his mother and raccoon infestation provide background chaos. The show raids Ricky Peacock.",
+  "_meta": {
+    "vod_id": "n-wROAV7x9Q",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 115909,
+    "approx_prompt_tokens": 28977,
+    "transcript_lines": 229
+  }
+}

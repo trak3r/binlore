@@ -44,6 +44,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-06-19|2026-06-19]] | Lead anchor and in-studio contributor who periodically enters the broadcast for signature segments. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in birthday context, not actively speaking. |
 | [[episodes/2026-06-05|2026-06-05]] | Lead anchor and on-air contributor who walks through the studio for signature segments. |
+| [[episodes/2026-05-12|2026-05-12]] | in-studio contributor. |
 | [[episodes/2026-05-02|2026-05-02]] | in-studio contributor. |
 | [[episodes/2026-05-01|2026-05-01]] | in-studio contributor. |
 | [[episodes/2026-04-27|2026-04-27]] | In-Studio Contributor. |
@@ -54,13 +55,13 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-04-11|2026-04-11]] | in-studio contributor. |
 | [[episodes/2026-04-09|2026-04-09]] | in-studio contributor. |
 | [[episodes/2026-04-06|2026-04-06]] | in-studio contributor. |
-| [[episodes/2026-04-01|2026-04-01]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (197)</summary>
+<summary>Earlier appearances (198)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-04-01|2026-04-01]] | in-studio contributor. |
 | [[episodes/2026-03-27|2026-03-27]] | in-studio contributor. |
 | [[episodes/2026-03-24|2026-03-24]] | in-studio contributor. |
 | [[episodes/2026-03-19|2026-03-19]] | in-studio contributor. |

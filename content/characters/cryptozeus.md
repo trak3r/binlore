@@ -56,15 +56,16 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-06-08|2026-06-08]] | Resident gaming correspondent. Remote from bedroom; battles N64 emulation, mother's screaming, and Glover's inverted controls. |
 | [[episodes/2026-06-05|2026-06-05]] | Gaming and digital culture correspondent broadcasting remotely from his bedroom studio. |
 | [[episodes/2026-05-29|2026-05-29]] | Gaming correspondent playing Boogerman with mother interruptions. |
+| [[episodes/2026-05-12|2026-05-12]] | gaming correspondent. |
 | [[episodes/2026-05-04|2026-05-04]] | off-screen interrupter. |
 | [[episodes/2026-05-02|2026-05-02]] | gaming correspondent. |
-| [[episodes/2026-04-29|2026-04-29]] | gaming correspondent. |
 
 <details>
-<summary>Earlier appearances (19)</summary>
+<summary>Earlier appearances (20)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-04-29|2026-04-29]] | gaming correspondent. |
 | [[episodes/2026-04-24|2026-04-24]] | gaming correspondent. |
 | [[episodes/2026-04-21|2026-04-21]] | gaming correspondent. |
 | [[episodes/2026-04-15|2026-04-15]] | contributor. |
@@ -146,3 +147,6 @@ See also: [[../segments/cryptozeus|CryptoZeu$ (Segment)]], [[characters/brandons
 - **[]** ([[episodes/2026-04-14|2026-04-14]]): Mother yells through bedroom door about 'Pastor Joe' and repeatedly farts on door despite established boundary. [02:25:27]
 - **[]** ([[episodes/2026-04-29|2026-04-29]]): Brick referenced Brandon's oven-door incident ('my cock is now stuck in the oven') during Wild Guns playthrough [1:43:16].
 - **[16:34]** ([[episodes/2026-05-02|2026-05-02]]): Mother's door interventions continue; she threatens child services despite Brandon being adult. [16:34]
+- **[[01:39:02]]** ([[episodes/2026-05-12|2026-05-12]]): House windows shattered outward due to internal atmospheric pressure; raccoons now infest the kitchen.
+- **[[01:59:00]]** ([[episodes/2026-05-12|2026-05-12]]): Maintains 'daddy jars' of peanut butter in the basement for his father's potential return; mother inserts hotdogs into them.
+- **[[01:28:24]]** ([[episodes/2026-05-12|2026-05-12]]): Mother yells through bedroom door during streams; refers to him as 'Bran Bran' and critiques his language.

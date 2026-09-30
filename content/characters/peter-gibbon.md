@@ -43,6 +43,7 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2026-06-19|2026-06-19]] | Former producer now residing in the studio walls, occasionally interrupting segments with commentary. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of 'idiocracy' comment, not actively speaking. |
 | [[episodes/2026-05-29|2026-05-29]] | Mentioned as a stowaway causing a chaos portal incident. |
+| [[episodes/2026-05-12|2026-05-12]] | news stowaway. |
 | [[episodes/2026-04-24|2026-04-24]] | news stowaway. |
 | [[episodes/2026-04-09|2026-04-09]] | news stowaway. |
 | [[episodes/2026-03-20|2026-03-20]] | news stowaway. |
@@ -55,13 +56,13 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2026-01-21|2026-01-21]] | news stowaway. |
 | [[episodes/2026-01-07|2026-01-07]] | Infiltrated the studio as a wall-dwelling stowaway, brought wall energy that broke equipment, and threatened to summon Hate Sock. |
 | [[episodes/2026-01-06|2026-01-06]] | news stowaway. |
-| [[episodes/2025-12-24|2025-12-24]] | news stowaway. |
 
 <details>
-<summary>Earlier appearances (80)</summary>
+<summary>Earlier appearances (81)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-12-24|2025-12-24]] | news stowaway. |
 | [[episodes/2025-12-19|2025-12-19]] | news stowaway. |
 | [[episodes/2025-11-27|2025-11-27]] | news stowaway. |
 | [[episodes/2025-10-27|2025-10-27]] | news stowaway. |
