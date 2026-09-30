@@ -1,0 +1,234 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Iran Ceasefire & Middle East Troop Buildup",
+      "start": "00:21:55",
+      "end": "00:58:05",
+      "notes": "Case and Rick discuss conflicting reports on US-Iran ceasefire extension talks led by JD Vance, while the US deploys 6,000 troops aboard USS George H.W. Bush and 42,000 Marines via Boxer Amphibious Ready Group. Trump claims war is 'very close to over'; Iranian President Pezeshkian seeks dialogue but rejects surrender."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "title": "Watermelon Steak, Healthy Bread & Kundalini Yoga",
+      "start": "00:58:05",
+      "end": "01:15:21",
+      "notes": "Jeb demonstrates watermelon steak (trace steak shape on watermelon, marinate, grill alongside Wagyu), attempts healthy bread video in unknown language, then guides Kundalini Adi Mantra meditation (Ong Namo Guru Dev Namo) from a 'fairy earth hut in Pai, Thailand'."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "title": "Whose OnlyFans Would Win: Trump vs Biden",
+      "start": "01:15:21",
+      "end": "01:25:31",
+      "notes": "Crum argues Trump's cult-like base would subscribe to any depravity (onion up ass); Munch counters Biden's classic handsomeness and Hunter's 'rockin' hog' would drive curiosity. Crum admits young Trump had 'East Coast blue blood charm.'"
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Live Nation Monopoly Loss, Ultra-Processed Thighs & RFK Jr. Raccoon Penis",
+      "start": "01:25:31",
+      "end": "01:38:54",
+      "notes": "Live Nation/Ticketmaster found liable in monopoly case; CNN study shows 87% ultra-processed diet turns thigh muscle into marbled steak (MRI of 62-year-old woman); RFK Jr. 2001 diary entry describes cutting penis off roadkill raccoon while family waited in minivan; Joe Rogan mocks Trump's AI Jesus post."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Viewer Videos: Horse Sex, Metal Scream, Nicole Kidman AMC, Cat Concern, Japan Travel, AI M&M Rap, Skadoo Paddle",
+      "start": "01:38:54",
+      "end": "02:13:06",
+      "notes": "Grandma Crumble Bottom joins (crypto gains, 'scam coin' purchase). Videos: horses mating at speaker ad; 'most brutal metal scream ever' rated 5.4; Nicole Kidman AMC ad parody; cartoonist's cat checks on him during DBZ Mario voice acting; stylized Japan travel music video; AI-generated M&M rap; nostalgic 'sawdust ball' sepsis story rated 17/10."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "title": "Park Opinions: Goose Attacks, DoorDash Ban, Henry Sock, Washing Machine Void, Boston Legal, Hugh G. Titties, Mojo Crisis",
+      "start": "02:13:48",
+      "end": "02:32:27",
+      "notes": "Trip interviews park-goers: 'Huge Titties' complains about goose and DoorDash ban; Case calls in as doppelganger; Henry Sock (son of sock) searches for lost wife; man stuck in washing machine/void; Boston Legal viewer debates sexism; Hugh G. Titties protests Bart Simpson prank names; mojo-less man begs for face-stepping; Kendall walks by and gets hung up on."
+    },
+    {
+      "canonical_segment": "CryptoZeu$",
+      "title": "Brandon's First Fortnite Stream (Post-Saudi Ban)",
+      "start": "02:32:27",
+      "end": "02:50:23",
+      "notes": "Brandon downloads Fortnite via Epic Games (never played, banned from Saudi tour comments). Struggles with settings, camera dies, mother yells through door (farts, asks about dinner, mentions Pastor Joe), CIA handler 'Brick' heckles. Brandon places 19th in bot lobby, proves 'really good at Fortnite' but crashes computer."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors midweek broadcast; spars with Rick, Crum, Munch; attempts to schedule segments by day; hangs up on Kendall during Trip segment.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open sign-on; bites wires; thanks subs after Hype Train derails.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Derails sub thank-yous into freestyle about train reproduction, money-fueled orgasms, and train-flattening fetishes.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "correspondent",
+      "notes": "correspondent. Claims covert control of broadcast; debates Iran news with Case; makes gross comments about Caroline Leavitt; argues wrestlers could win presidency.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "correspondent",
+      "notes": "correspondent. Hosts How To from woodworking shop via chaos portal; co-hosts with deceased father trapped in wooden board; demonstrates watermelon steak and Kundalini yoga.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "correspondent",
+      "notes": "correspondent. Wooden-board spirit; bickers with Jeb about fratricide/patricide; claims he killed Jeb.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues Trump's OnlyFans would dominate via cult audience; admits young Trump had 'blue blood charm'; wavy hand syndrome prevents baby-shaking.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Counters Crum: Biden's classic looks and Hunter's hog would drive OnlyFans curiosity; calls Crum's Trump attraction 'weird.'",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Grandma Crumble Bottom",
+      "role": "contributor",
+      "notes": "contributor. Joins Amongst the Web; reveals crypto gains and 'scam coin' purchase via young man with credit card access.",
+      "canonical_name": "Grandma Crumble Bottom",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Broadcasts from park bushes; interviews eccentric pedestrians; reveals last name 'Bradstein' to Hugh G. Titties; hangs up on Kendall.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Plays Fortnite for first time after Saudi Arabia ban; camera fails; mother interrupts with door farts and Pastor Joe; CIA handler Brick heckles.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon's Mom",
+      "role": "contributor",
+      "notes": "contributor. Yells through bedroom door about dinner, farts into door, mentions Pastor Joe and half-baked viewing.",
+      "canonical_name": "Brandon's Mom",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brick",
+      "role": "contributor",
+      "notes": "contributor. Brandon's CIA handler; heckles during Fortnite in multiple languages; claims to see future.",
+      "canonical_name": "Brick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walks past Trip's camera; Trip hangs up on her; editing for new work.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum appears in Munch & Crum debate; no direct advancement of pneumatic gorilla groin-punch liability.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "No mention this episode.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Brandon banned from Fortnite due to comments made during Saudi Arabia tour; ban lifted via pulled strings.",
+      "timestamp": "[02:33:07]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Trip Bradstein's last name confirmed as Bradstein (previously undisclosed).",
+      "timestamp": "[02:27:14]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Grandma Crumble Bottom heavily invested in crypto; purchased one million 'scam coin' via helper with credit card access.",
+      "timestamp": "[01:52:06]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case considering assigning segments to specific weekdays (e.g., Brandon Fridays, trailers Wednesdays) to encourage variety.",
+      "timestamp": "[00:27:34]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crumb claims 'wavy hand syndrome' — medically incapable of shaking, making him a 'safer father.'",
+      "timestamp": "[01:28:03]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News delivers a chaotic midweek broadcast: Hype Train opens with graphic train-reproduction freestyle, Case and Rick clash over Iran ceasefire talks and massive US troop deployments, Jeb teaches watermelon steak grilling and Kundalini chanting from a Thai fairy hut, Crum and Munch debate Trump vs Biden OnlyFans viability, news covers Live Nation's monopoly loss and RFK Jr.'s raccoon-penis diary, Grandma Crumble Bottom joins Amongst the Web to reveal crypto gains, Trip Bradstein interviews park denizens including a washing-machine void victim, and Brandon crashes the studio PC attempting his first Fortnite stream after a Saudi Arabia ban.",
+  "_meta": {
+    "vod_id": "bM-ExBaJ3CM",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 135073,
+    "approx_prompt_tokens": 33768,
+    "transcript_lines": 418
+  }
+}

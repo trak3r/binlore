@@ -48,6 +48,7 @@ Grandma frequently drifts into reminiscences of her deceased husband. Rather tha
 | [[episodes/2026-08-08|2026-08-08]] | In-studio contributor co-hosting the Amongst the Web viral clip review segment. Offers stream-of-consciousness commentary on the submitted clips. |
 | [[episodes/2026-07-17|2026-07-17]] | Munch declared Grandma 'the most fully formed idea' on the stream and 'a colleague and a scholar,' claiming she holds a doctorate in chemistry from Yale. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
+| [[episodes/2026-04-15|2026-04-15]] | contributor. |
 | [[episodes/2025-07-30|2025-07-30]] | senior correspondent. |
 | [[episodes/2025-06-02|2025-06-02]] | Jambalaya panelist. |
 | [[episodes/2025-03-31|2025-03-31]] | recurring guest. |

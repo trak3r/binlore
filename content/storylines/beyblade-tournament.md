@@ -98,6 +98,7 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 | [[../episodes/2025-12-18|2025-12-18]] [47:22] | [47:22] Case acknowledges the Beyblade competition is still pending: 'We still have to do the Beyblade competition thing. Currently the sub stuff is disabled. I'm rebuilding it.' |
 | [[../episodes/2025-12-19|2025-12-19]] [02:04:13] | Chat references 'beyblade burst' during Grunch letters segment [02:04:13]. |
 | [[../episodes/2026-02-04|2026-02-04]] [20:37] | [20:37] Case acknowledges the outstanding community pledge: 'we still owe you guys a Beyblade tournament Between Munch and Crum and I guess others.' |
+| [[../episodes/2026-04-15|2026-04-15]] | No mention this episode. |
 | [[../episodes/2026-07-17|2026-07-17]] [01:47:23] | No direct development; tournament remains pending. (Blackwell joked 'I'll do the conspiracy segment one of these days I swear to god but it won't be today'.) |
 | [[../episodes/2026-07-20|2026-07-20]] [01:05:51] | [[../characters/abraham-lincoln|Abraham Lincoln]] confronts Case Blackwell on air over the unpaid community Beyblade debt. Case formally commits to a 2v2 Beyblade Burst event for Crum and announces he has ordered custom Bart Simpson tattoos ('Barts'). |
 | [[../episodes/2026-07-24|2026-07-24]] [08:47] | Production update by [[../characters/pepito|Pepito]] and Case confirms the Beyblades stream is stalled among backlogged subscriber goals, delayed Bart orders, and Case's swollen ankle mobility issues. |
