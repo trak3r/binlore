@@ -55,6 +55,7 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 | [[episodes/2026-06-08|2026-06-08]] | Studio news reader / breaking chat correspondent. Reads Catholic exorcist story, reacts to Alex Jones comparison, leaves to fix power issue. |
 | [[episodes/2026-06-05|2026-06-05]] | Studio news reader and breaking chat correspondent who monitors viewer submissions and provides updates. |
 | [[episodes/2026-05-29|2026-05-29]] | External journalist mentioned in news coverage, not a character. |
+| [[episodes/2026-05-22|2026-05-22]] | human-interest reporter. |
 | [[episodes/2025-06-05|2025-06-05]] | human-interest correspondent. |
 | [[episodes/2025-05-08|2025-05-08]] | human-interest correspondent. |
 | [[episodes/2025-04-18|2025-04-18]] | Co-anchored the immigration desk and later delivered a rapid-fire news roundup covering WrestleMania, death grip syndrome, and a cholera… |
@@ -63,13 +64,13 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 | [[episodes/2024-08-22|2024-08-22]] | field correspondent. |
 | [[episodes/2024-07-22|2024-07-22]] | Delivers human-interest coverage of Biden withdrawal and Kamala Harris clips with characteristic gravitas. |
 | [[episodes/2024-05-31|2024-05-31]] | Co-anchors Trump verdict coverage, debates Biden 'lie-off' viability, and signs off with cosmic reassurance. |
-| [[episodes/2023-12-18|2023-12-18]] | human-interest reporter. |
 
 <details>
-<summary>Earlier appearances (1)</summary>
+<summary>Earlier appearances (2)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2023-12-18|2023-12-18]] | human-interest reporter. |
 | [[episodes/2023-11-22|2023-11-22]] | senior news mouth. |
 
 </details>

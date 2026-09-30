@@ -1,0 +1,183 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "00:06",
+      "end": "16:38",
+      "title": "Cold Open & Early Headlines",
+      "notes": "Pepito delivers station sign-on; Case opens with Jeff Bezos clips, aging commentary, and chat interaction before Hype Train interrupts."
+    },
+    {
+      "canonical_segment": "Hype Train",
+      "start": "16:38",
+      "end": "35:33",
+      "title": "Creature Horror Freestyle",
+      "notes": "Hype Train commandeers the feed for an extended improvised rap about knife-wielding clowns, hatchet bunnies, knife bears, and a multicolored-toothed specter while processing subs and bits."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "35:33",
+      "end": "01:16:13",
+      "title": "Political & Cultural News Block",
+      "notes": "Case covers Tulsi Gabbard resignation, Trump on son's wedding, Colbert sign-off, Virginia Foxx vs. 10-year-old EV supporter, Thomas Massey primary loss and AI attack ads, and Hooters rebrand."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "start": "01:16:13",
+      "end": "01:25:18",
+      "title": "Nose Itch vs. Butt Itch Debate",
+      "notes": "Crum argues nasal itching is more embarrassing due to visible picking; Munch counters anal itching signals hygiene failure and designs a curved 'shithorn' scratching implement."
+    },
+    {
+      "canonical_segment": "The Jo Rogen Experience",
+      "start": "01:25:18",
+      "end": "01:43:01",
+      "title": "Town Hall with Jefferything & Jay Nothing",
+      "notes": "Call-in segment fields audience questions on senator ménage à trois, Hooters verdict, Twitch partnership, 'slongs' restaurant concept, Time Cop handshake physics, ghost pizzerias, and JD Vance face accusations."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "start": "01:43:01",
+      "end": "01:57:03",
+      "title": "Internet Video Review",
+      "notes": "Case and Kendelle rate chat-submitted clips including Frog King, crab party, Yakuza roof confrontation, and a surreal CGI survival short while bickering about trash bag discipline."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "01:57:03",
+      "end": "02:01:19",
+      "title": "Jeff Probst the Fox Interlude",
+      "notes": "Case portrays an alternate-universe Survivor host who massacred all fox contestants with axes and spears at tribal council, claiming sole survival of season 50."
+    },
+    {
+      "canonical_segment": "CryptoZeu$",
+      "start": "02:01:19",
+      "end": "02:25:04",
+      "title": "Buck Bumble N64 Playthrough",
+      "notes": "Brandon battles controller issues, motion sickness, and muffled maternal harassment to complete the 2000 N64 bee shooter, declaring it the most anyone has ever played the game."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "02:25:04",
+      "end": "02:29:34",
+      "title": "Sign-Off & Weekend Plans",
+      "notes": "Kendelle retrieves discarded clothing, confirms Wednesday work schedule, and Case goes casual for a secret weekend party stream tease."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the Friday broadcast, fielded Hype Train's creature-themed freestyle, and oversaw a town hall with surprise guest Jay Nothing.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "Delivered the station cold-open sign-on and countdown as executive producer.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical correspondent",
+      "notes": "musical correspondent. Commandeered the feed for an extended freestyle rap about clowns, bunnies, bears, and a multicolored-toothed specter while acknowledging subscriptions.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Munch on the comparative embarrassment of nasal versus anal itching, advocating for the nose with graphic hygiene arguments.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Counters Crum in the itch debate, defending butt-scratching as more discreet and coining the term 'shithorn' for a specialized implement.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "human-interest reporter",
+      "notes": "human-interest reporter. Served as town hall co-host alongside Jay Nothing, fielding audience questions on threesomes, Hooters, and ghost pizzerias.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Appeared late in the broadcast to discuss discarded clothing mishaps and upcoming weekend plans with Case.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Struggled through a nauseating Buck Bumble playthrough on N64 while enduring muffled maternal interruptions.",
+      "canonical_name": "Brandon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Case considers plastic surgery and 'reblaunding' to regain youthful blonde look.",
+      "timestamp": "[09:18]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case reveals he and Jeff Bezos are the exact same age.",
+      "timestamp": "[11:13]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Kendelle reveals Case accidentally threw away her new Unique Glow outfits in a trash bag.",
+      "timestamp": "[01:51:56]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Brandon discloses he has been told he has multiple ulcers.",
+      "timestamp": "[02:12:01]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Brandon's mother jokingly threatens emancipation over his bachelor status.",
+      "timestamp": "[02:09:48]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News aired a Friday broadcast anchored by Case Blackwell featuring a Hype Train derailment into creature horror freestyle, a Munch & Crum debate on public itching etiquette, and a town hall fielding questions on congressional threesomes and ghost pizzerias. The network's gaming correspondent Brandon endured a physically distressing Buck Bumble session while his mother threatened legal emancipation. Executive producer Pepito opened the hour and Kendelle closed it with a domestic update on discarded wardrobe incidents.",
+  "_meta": {
+    "vod_id": "CRhSlHwpnFk",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 117339,
+    "approx_prompt_tokens": 29334,
+    "transcript_lines": 328
+  }
+}
