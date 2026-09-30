@@ -1,10 +1,10 @@
 from __future__ import annotations
 
 import json
-from pathlib import Path
-from .paths import CONTENT_EPISODES, REPO_ROOT, TOOLS_ROOT
+from typing import Any
 
-CATALOG_JSON = TOOLS_ROOT / "youtube_catalog.json"
+from .paths import CATALOG_JSON, CONTENT_EPISODES
+from .vods import format_duration, list_vods, resolve_vod
 
 
 def _format_duration_short(seconds: float | None, fallback: str = "—") -> str:
@@ -21,6 +21,122 @@ def _format_duration_short(seconds: float | None, fallback: str = "—") -> str:
     if m:
         return f"{m}m"
     return f"{sec}s"
+
+
+def _normalize_twitch_id(raw: str | None) -> str:
+    tid = str(raw or "").strip()
+    if tid.startswith("v") and tid[1:].isdigit():
+        return tid[1:]
+    return tid
+
+
+def refresh_catalog_from_twitch(*, limit: int = 40, dry_run: bool = False) -> dict[str, Any]:
+    """
+    Merge recent Twitch VODs into youtube_catalog.json (newest-first).
+
+    Twitch-only rows are allowed until the YouTube archive catches up
+    (yt_id / yt_url may be empty).
+    """
+    if not CATALOG_JSON.exists():
+        raise FileNotFoundError(f"Missing {CATALOG_JSON}.")
+
+    streams: list[dict[str, Any]] = json.loads(CATALOG_JSON.read_text(encoding="utf-8"))
+    by_twitch: dict[str, dict[str, Any]] = {}
+    for s in streams:
+        tid = _normalize_twitch_id(s.get("twitch_id"))
+        if tid:
+            by_twitch[tid] = s
+
+    recent = list_vods(limit=limit)
+    added: list[dict[str, Any]] = []
+    updated = 0
+
+    for flat in recent:
+        tid = _normalize_twitch_id(flat.id)
+        if not tid or not tid.isdigit():
+            continue  # skip non-VOD / highlight noise without numeric ids
+
+        title_guess = (flat.title or "").strip()
+        if title_guess.lower().startswith("highlight:"):
+            continue
+        # Skip sub-20-minute Twitch-only clips unless already cataloged
+        existing = by_twitch.get(tid)
+        dur_guess = flat.duration
+        if existing is None and dur_guess is not None and float(dur_guess) < 1200:
+            continue
+
+        # Flat playlist often lacks timestamps — resolve full metadata for unknowns
+        # or when catalog is missing a date.
+        need_meta = existing is None or not existing.get("date")
+        meta = resolve_vod(flat.url, latest=False) if need_meta else flat
+
+        date_str = meta.date_str or (existing or {}).get("date") or ""
+        raw_date = date_str.replace("-", "") if date_str else ""
+        dur_sec = meta.duration if meta.duration is not None else (existing or {}).get("duration_seconds")
+        entry = {
+            "id": tid if existing is None else (existing.get("id") or tid),
+            "title": meta.title or (existing or {}).get("title") or "(untitled)",
+            "date": date_str or None,
+            "raw_date": raw_date or None,
+            "duration_str": format_duration(dur_sec) if dur_sec is not None else (existing or {}).get("duration_str"),
+            "duration_seconds": int(dur_sec) if dur_sec is not None else (existing or {}).get("duration_seconds"),
+            "yt_id": (existing or {}).get("yt_id"),
+            "yt_url": (existing or {}).get("yt_url"),
+            "twitch_id": tid,
+            "twitch_url": f"https://www.twitch.tv/videos/{tid}",
+        }
+        # Preserve YouTube ids when refreshing an existing row
+        if existing:
+            for key in ("id", "yt_id", "yt_url", "title"):
+                if existing.get(key) and key in ("id", "yt_id", "yt_url"):
+                    entry[key] = existing[key]
+            if existing.get("title") and meta.title in (None, "", "(untitled)"):
+                entry["title"] = existing["title"]
+            # Only count as updated when something useful changed
+            if any(existing.get(k) != entry.get(k) for k in ("date", "duration_seconds", "title", "twitch_url")):
+                updated += 1
+            by_twitch[tid] = {**existing, **{k: v for k, v in entry.items() if v is not None}}
+        else:
+            # Drop null yt fields for cleaner twitch-only rows
+            clean = {k: v for k, v in entry.items() if v is not None}
+            if "yt_id" not in clean:
+                clean["id"] = tid
+            by_twitch[tid] = clean
+            added.append(clean)
+
+    # Rebuild list: keep non-twitch-only historical rows, then merge by twitch id
+    merged: list[dict[str, Any]] = []
+    seen_twitch: set[str] = set()
+    # Start with refreshed twitch-known entries + untouched catalog rows without twitch overlap
+    for s in streams:
+        tid = _normalize_twitch_id(s.get("twitch_id"))
+        if tid and tid in by_twitch:
+            if tid not in seen_twitch:
+                merged.append(by_twitch[tid])
+                seen_twitch.add(tid)
+        else:
+            merged.append(s)
+    for tid, entry in by_twitch.items():
+        if tid not in seen_twitch:
+            merged.append(entry)
+            seen_twitch.add(tid)
+
+    def sort_key(s: dict[str, Any]) -> str:
+        return str(s.get("date") or "0000-00-00")
+
+    merged.sort(key=sort_key, reverse=True)
+
+    if not dry_run:
+        CATALOG_JSON.write_text(json.dumps(merged, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+        generate_episodes_index()
+
+    return {
+        "added": len(added),
+        "updated": updated,
+        "total": len(merged),
+        "new_titles": [a.get("title") for a in added],
+        "catalog_path": str(CATALOG_JSON),
+    }
 
 
 def generate_episodes_index() -> None:
@@ -40,34 +156,45 @@ def generate_episodes_index() -> None:
             continue
         stem = ep_file.stem
         for s in streams:
-            yt_id = s.get("yt_id") or s.get("id")
-            twitch_id = s.get("twitch_id")
+            yt_id = s.get("yt_id")
+            twitch_id = _normalize_twitch_id(s.get("twitch_id"))
+            entry_id = str(s.get("id") or "")
             s_date = s.get("date")
-            if (yt_id and yt_id in text) or (twitch_id and str(twitch_id) in text) or (s_date and stem == s_date):
-                ingested_map[yt_id] = stem
+            matched = (
+                (yt_id and yt_id in text)
+                or (twitch_id and twitch_id in text)
+                or (entry_id and entry_id in text)
+                or (s_date and stem == s_date)
+            )
+            if matched:
+                for key in (yt_id, twitch_id, entry_id):
+                    if key:
+                        ingested_map[str(key)] = stem
 
     total_streams = len(streams)
     total_seconds = sum(s.get("duration_seconds") or 0 for s in streams)
     total_hours = total_seconds // 3600
-    ingested_count = len(ingested_map)
+    # Unique episode pages (not duplicate keys in ingested_map)
+    ingested_count = len(set(ingested_map.values()))
     backlog_count = total_streams - ingested_count
     initial_pages = max(1, (total_streams + 49) // 50)
 
     rows: list[str] = []
     for idx, s in enumerate(streams):
-        yt_id = s.get("yt_id") or s["id"]
-        twitch_id = s.get("twitch_id")
-        twitch_url = s.get("twitch_url")
-        yt_url = s.get("yt_url") or f"https://www.youtube.com/watch?v={yt_id}"
+        yt_id = s.get("yt_id")
+        twitch_id = _normalize_twitch_id(s.get("twitch_id"))
+        entry_id = str(s.get("id") or yt_id or twitch_id or "")
+        twitch_url = s.get("twitch_url") or (f"https://www.twitch.tv/videos/{twitch_id}" if twitch_id else None)
+        yt_url = s.get("yt_url") or (f"https://www.youtube.com/watch?v={yt_id}" if yt_id else None)
         title = s["title"].replace("|", "/")
         date_str = s.get("date") or "—"
         dur = _format_duration_short(s.get("duration_seconds"), fallback=s.get("duration_str") or "—")
 
-        vod_id_display = str(twitch_id) if twitch_id else yt_id
-        vod_id_source = "Twitch" if twitch_id else "YouTube"
+        vod_id_display = twitch_id or yt_id or entry_id
 
-        if yt_id in ingested_map:
-            ep_slug = ingested_map[yt_id]
+        lookup_keys = [k for k in (yt_id, twitch_id, entry_id) if k]
+        ep_slug = next((ingested_map[k] for k in lookup_keys if k in ingested_map), None)
+        if ep_slug:
             title_cell = f'<a href="./{ep_slug}" class="internal"><strong>{title}</strong></a>'
             status_cell = '<span class="badge badge-ingested">✓ Ingested</span>'
             status_raw = "ingested"
@@ -80,8 +207,9 @@ def generate_episodes_index() -> None:
         watch_links = []
         if twitch_url:
             watch_links.append(f'<a href="{twitch_url}" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a>')
-        watch_links.append(f'<a href="{yt_url}" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a>')
-        watch_cell = " ".join(watch_links)
+        if yt_url:
+            watch_links.append(f'<a href="{yt_url}" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a>')
+        watch_cell = " ".join(watch_links) if watch_links else "—"
 
         # VOD ID badge
         if twitch_id:

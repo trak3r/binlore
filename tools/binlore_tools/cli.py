@@ -48,6 +48,21 @@ def cmd_vods(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_refresh_catalog(args: argparse.Namespace) -> int:
+    from .catalog import refresh_catalog_from_twitch
+
+    print(f"Refreshing catalog from Twitch (limit={args.limit})...", flush=True)
+    report = refresh_catalog_from_twitch(limit=args.limit, dry_run=args.dry_run)
+    prefix = "[DRY RUN] " if args.dry_run else ""
+    print(f"{prefix}Added {report['added']} new VODs, updated {report['updated']} existing.")
+    print(f"{prefix}Catalog total: {report['total']} → {report['catalog_path']}")
+    if report["new_titles"]:
+        print(f"{prefix}New:")
+        for title in report["new_titles"]:
+            print(f"  + {title}")
+    return 0
+
+
 def cmd_ingest(args: argparse.Namespace) -> int:
     if not args.latest and not args.url:
         print("Provide a VOD URL or --latest", file=sys.stderr)
@@ -256,6 +271,20 @@ def cmd_process_all(args: argparse.Namespace) -> int:
     from .rank import MIN_DURATION_SECONDS
 
     if args.status:
+        try:
+            from .catalog import refresh_catalog_from_twitch
+
+            report = refresh_catalog_from_twitch(limit=40, dry_run=False)
+            added = report.get("added") or []
+            if added:
+                print(
+                    f"Catalog refresh: +{len(added)} Twitch VOD(s) "
+                    f"(total {report.get('total')}).",
+                    flush=True,
+                )
+        except Exception as e:
+            print(f"Catalog refresh skipped ({e}); using on-disk catalog.", flush=True)
+
         st = check_backlog_status()
         print("\n--- [BIN Lore Backlog Status] ---")
         print(f"Total catalog streams: {st['total_streams']}")
@@ -419,6 +448,14 @@ def build_parser() -> argparse.ArgumentParser:
     vods = sub.add_parser("vods", help="List recent caseblackwell VODs")
     vods.add_argument("--limit", type=int, default=15, help="Max VODs to list (default 15)")
     vods.set_defaults(func=cmd_vods)
+
+    refresh = sub.add_parser(
+        "refresh-catalog",
+        help="Merge recent Twitch VODs into tools/youtube_catalog.json and regenerate episodes index",
+    )
+    refresh.add_argument("--limit", type=int, default=40, help="How many recent Twitch VODs to scan (default 40)")
+    refresh.add_argument("--dry-run", action="store_true", help="Preview without writing catalog/index")
+    refresh.set_defaults(func=cmd_refresh_catalog)
 
     ing = sub.add_parser("ingest", help="Download audio, transcribe, write episode stub")
     ing.add_argument("url", nargs="?", help="Twitch VOD URL")

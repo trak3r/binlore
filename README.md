@@ -405,7 +405,7 @@ Mining (after transcripts exist):
 
 ### What It Does per Episode
 
-1. **Backlog Discovery:** Cross-references `tools/youtube_catalog.json` with `tools/runs/` transcripts. Default queue is untranscribed streams (oldest first). `--extract` queues transcribed streams that lack `extraction.json`.
+1. **Backlog Discovery:** Cross-references `tools/youtube_catalog.json` with `tools/runs/` transcripts. Default queue is untranscribed streams (oldest first). `--extract` queues transcribed streams that lack `extraction.json`. `process-all` / `transcribe-all` / `--status` auto-refresh the catalog from Twitch first (or run `./binlore refresh-catalog` manually).
 2. **Audio Ingest & Resilient Fallback:** Downloads audio using `yt-dlp`. If a Twitch VOD has expired (Twitch retention is ~60 days), it automatically falls back to the permanent YouTube archive stream. Skipped when a transcript already exists.
 3. **Local Whisper Transcription:** Transcribes audio via `faster-whisper` (default model: `small`). Does not write episode stubs in transcribe-only mode.
 4. **Immediate Disk Cleanup:** **Deletes the audio file immediately** once transcription finishes and is saved. Peak disk usage is capped to at most *one* temporary audio file at any moment (~150 MB).

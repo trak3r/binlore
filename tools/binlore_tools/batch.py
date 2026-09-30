@@ -604,6 +604,27 @@ def run_batch_processing(
             reclaimed = execute_clean(targets, dry_run=False)
             logger.info(f"Initial cleanup freed {_format_size(reclaimed)} of disk space.")
 
+    # Catalog is a static JSON snapshot — refresh from Twitch so new airs aren't invisible.
+    try:
+        from .catalog import refresh_catalog_from_twitch
+
+        report = refresh_catalog_from_twitch(limit=40, dry_run=False)
+        added = report.get("added") or []
+        if added:
+            logger.info(
+                f"Catalog refresh: +{len(added)} Twitch VOD(s) "
+                f"(total {report.get('total')})."
+            )
+            for row in added[:8]:
+                logger.info(f"  + {row.get('date')} — {row.get('title')}")
+        else:
+            logger.info(
+                f"Catalog refresh: up to date "
+                f"({report.get('updated', 0)} metadata touch(es); total {report.get('total')})."
+            )
+    except Exception as e:
+        logger.warning(f"Catalog refresh skipped ({e}); continuing with on-disk catalog.")
+
     unprocessed = find_unprocessed_episodes(
         oldest_first=oldest_first,
         skip_drafts=skip_drafts,
