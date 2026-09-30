@@ -783,3 +783,63 @@ def run_batch_processing(
     if halt_reason == "interrupted":
         return 130
     return 0 if not failed_episodes else 1
+
+
+def run_default_pipeline(
+    *,
+    limit: int | None = None,
+    oldest_first: bool = True,
+    whisper_model: str = "small",
+    extract_model: str = DEFAULT_MODEL,
+    delay: float = 5.0,
+    timeout: float = 180.0,
+    clean_audio: bool = True,
+    clean_existing: bool = True,
+    skip_drafts: bool = True,
+    build_quartz: bool = True,
+    git_commit: bool = True,
+    min_disk_gb: float = 1.0,
+    min_duration_seconds: float = 0.0,
+    log_file: Path = RUNS_DIR / "batch.log",
+    dry_run: bool = False,
+) -> int:
+    """
+    Do the right thing: refresh catalog → transcribe missing → extract/wiki missing.
+    """
+    from .rank import MIN_DURATION_SECONDS
+
+    extract_min = float(min_duration_seconds) if min_duration_seconds > 0 else float(MIN_DURATION_SECONDS)
+    shared = dict(
+        limit=limit,
+        oldest_first=oldest_first,
+        whisper_model=whisper_model,
+        extract_model=extract_model,
+        delay=delay,
+        timeout=timeout,
+        clean_audio=clean_audio,
+        skip_drafts=skip_drafts,
+        build_quartz=build_quartz,
+        git_commit=git_commit,
+        min_disk_gb=min_disk_gb,
+        log_file=log_file,
+        dry_run=dry_run,
+    )
+
+    logger = BatchLogger(log_file)
+    logger.info("DEFAULT PIPELINE: phase 1/2 — transcribe untranscribed VODs")
+    rc = run_batch_processing(
+        **shared,
+        clean_existing=clean_existing,
+        skip_extract=True,
+        min_duration_seconds=0.0,
+    )
+    if rc != 0 or _INTERRUPTED:
+        return rc
+
+    logger.info("DEFAULT PIPELINE: phase 2/2 — extract lore + update wiki")
+    return run_batch_processing(
+        **shared,
+        clean_existing=False,
+        skip_extract=False,
+        min_duration_seconds=extract_min,
+    )

@@ -17,7 +17,7 @@ Most “AI demos” stop at a chat transcript. BIN Lore is an end-to-end product
 - **Canon-aware extraction** — LLM prompts seeded with existing characters / segments / storylines so ASR name errors reconcile to wiki canon
 - **Idempotent wiki updates** — episode rundowns, character appearance tables, storyline beats, segment occurrence logs
 - **Screencap CDN** — ffmpeg frame capture hosted on a permanent GitHub Release asset CDN (repo stays binary-light)
-- **Unattended batch** — `binlore process-all` with disk hygiene, retries, Quartz build gates, and per-episode git commits
+- **Unattended batch** — bare `./binlore` runs refresh → transcribe → extract → wiki; disk hygiene, retries, Quartz gates, per-episode commits
 - **Published site** — Quartz wiki on GitHub Pages with graph view, backlinks, and full-text search; public deploys only when `production` advances
 
 ## Pipeline
@@ -68,12 +68,13 @@ cp tools/.env.example tools/.env   # add OPENROUTER_API_KEY (extract only)
 npx quartz build --serve          # http://localhost:8080
 ```
 
-Unattended backlog (370+ historical streams). Default is transcribe-only:
+Unattended backlog (370+ historical streams). Bare invocation does the whole loop:
 
 ```bash
-./binlore process-all --status
-./binlore transcribe-all           # ingest + Whisper; no LLM
-./binlore process-all --extract    # mine existing transcripts oldest-first via LLM
+./binlore                         # refresh → transcribe → extract → wiki
+./binlore process-all --status    # backlog counts
+./binlore transcribe-all          # Whisper only (no LLM)
+./binlore process-all --extract   # mine existing transcripts only
 ```
 
 > **Legal Disclaimer:** Unofficial, non-commercial fan wiki and documentation project. Not affiliated with, endorsed by, or sponsored by Case Blackwell, Barely Informed News, or Twitch. All character names, likenesses, trademarks, and media assets belong to their respective copyright holders and are referenced under fair use (17 U.S.C. § 107) for commentary, criticism, and archival purposes. Not operated for profit. See [`content/disclaimer.md`](content/disclaimer.md) for full legal disclosures.
@@ -391,13 +392,19 @@ Stream audio files take ~150 MB per 2-hour VOD. Once transcription is finished, 
 To process the entire 370+ episode backlog unattended on a home server, VPS, or cloud instance, use the autonomous batch processor:
 
 ```bash
-./binlore transcribe-all
-# Or:
+./binlore
+# Or explicitly:
 ./binlore process-all
 python3 tools/process_all.py
 ```
 
-Mining (after transcripts exist):
+Transcribe only (no LLM):
+
+```bash
+./binlore transcribe-all
+```
+
+Extract only (already-transcribed backlog):
 
 ```bash
 ./binlore process-all --extract
@@ -405,7 +412,7 @@ Mining (after transcripts exist):
 
 ### What It Does per Episode
 
-1. **Backlog Discovery:** Cross-references `tools/youtube_catalog.json` with `tools/runs/` transcripts. Default queue is untranscribed streams (oldest first). `--extract` queues transcribed streams that lack `extraction.json`. `process-all` / `transcribe-all` / `--status` auto-refresh the catalog from Twitch first (or run `./binlore refresh-catalog` manually).
+1. **Backlog Discovery:** Cross-references `tools/youtube_catalog.json` with `tools/runs/` transcripts. Default `./binlore` refreshes the catalog from Twitch, then transcribes missing VODs, then extracts lore for transcripts that lack `extraction.json`. `./binlore transcribe-all` / `--skip-extract` stop after Whisper; `--extract` mines only.
 2. **Audio Ingest & Resilient Fallback:** Downloads audio using `yt-dlp`. If a Twitch VOD has expired (Twitch retention is ~60 days), it automatically falls back to the permanent YouTube archive stream. Skipped when a transcript already exists.
 3. **Local Whisper Transcription:** Transcribes audio via `faster-whisper` (default model: `small`). Does not write episode stubs in transcribe-only mode.
 4. **Immediate Disk Cleanup:** **Deletes the audio file immediately** once transcription finishes and is saved. Peak disk usage is capped to at most *one* temporary audio file at any moment (~150 MB).
@@ -484,8 +491,9 @@ tail -f tools/runs/batch.log
 | `--status` | — | Display backlog progress and disk space, then exit |
 | `--dry-run` | — | Preview the queue without downloading or modifying files |
 | `--keep-audio` | `False` | Retain audio files on disk (warning: consumes ~150 MB per episode) |
-| `--skip-extract` | `True` | Transcribe only (default). `transcribe-all` forces this |
-| `--extract` | — | Mine existing transcripts with OpenRouter, oldest-first |
+| `--skip-extract` / `--transcribe-only` | — | Whisper only (no LLM). Also: `./binlore transcribe-all` |
+| `--extract` / `--extract-only` | — | Mine already-transcribed episodes only |
+| *(no mode flag)* | full pipeline | Refresh catalog → transcribe → extract → wiki |
 | `--no-clean-existing` | `False` | Do not sweep `tools/runs/` for old media files on startup |
 | `--no-skip-drafts` | `False` | Do not skip episodes marked with `draft: true` |
 | `--build-quartz` / `--no-build` | extract only | Quartz is skipped during transcribe-all |

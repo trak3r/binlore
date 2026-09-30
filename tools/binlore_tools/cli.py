@@ -267,8 +267,7 @@ def cmd_clean(args: argparse.Namespace) -> int:
 
 
 def cmd_process_all(args: argparse.Namespace) -> int:
-    from .batch import check_backlog_status, run_batch_processing
-    from .rank import MIN_DURATION_SECONDS
+    from .batch import check_backlog_status, run_batch_processing, run_default_pipeline
 
     if args.status:
         try:
@@ -302,15 +301,11 @@ def cmd_process_all(args: argparse.Namespace) -> int:
         print("---------------------------------\n")
         return 0
 
+    mode = getattr(args, "pipeline_mode", "full")
     if getattr(args, "command", "") == "transcribe-all":
-        args.skip_extract = True
+        mode = "transcribe"
 
-    min_dur = float(getattr(args, "min_duration_seconds", 0) or 0)
-    if not args.skip_extract and min_dur <= 0:
-        # Extract mode skips sub-20m technical burps by default
-        min_dur = float(MIN_DURATION_SECONDS)
-
-    return run_batch_processing(
+    kwargs = dict(
         limit=args.limit,
         oldest_first=not args.newest_first,
         whisper_model=args.model,
@@ -319,15 +314,25 @@ def cmd_process_all(args: argparse.Namespace) -> int:
         timeout=args.timeout,
         clean_audio=not args.keep_audio,
         clean_existing=not args.no_clean_existing,
-        skip_extract=args.skip_extract,
         skip_drafts=not args.no_skip_drafts,
         build_quartz=args.build_quartz,
         git_commit=args.git_commit,
         min_disk_gb=args.min_disk_gb,
-        min_duration_seconds=min_dur,
+        min_duration_seconds=float(getattr(args, "min_duration_seconds", 0) or 0),
         log_file=args.log_file,
         dry_run=args.dry_run,
     )
+
+    if mode == "full":
+        return run_default_pipeline(**kwargs)
+    if mode == "transcribe":
+        return run_batch_processing(**kwargs, skip_extract=True)
+
+    from .rank import MIN_DURATION_SECONDS
+
+    if kwargs["min_duration_seconds"] <= 0:
+        kwargs["min_duration_seconds"] = float(MIN_DURATION_SECONDS)
+    return run_batch_processing(**kwargs, skip_extract=False)
 
 
 def cmd_rank_munch_crum(args: argparse.Namespace) -> int:
@@ -440,10 +445,16 @@ def cmd_extract_ranked(args: argparse.Namespace) -> int:
 def build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(
         prog="binlore",
-        description="Binlore VOD ingest, transcript, and lore extraction tools",
+        description=(
+            "Binlore VOD ingest, transcript, and lore extraction tools. "
+            "With no command, runs the full backlog pipeline "
+            "(refresh catalog → transcribe → extract → wiki)."
+        ),
+        epilog="Example:  ./binlore",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
     )
     p.add_argument("--version", action="version", version=f"binlore {__version__}")
-    sub = p.add_subparsers(dest="command", required=True)
+    sub = p.add_subparsers(dest="command", required=False)
 
     vods = sub.add_parser("vods", help="List recent caseblackwell VODs")
     vods.add_argument("--limit", type=int, default=15, help="Max VODs to list (default 15)")
@@ -594,10 +605,13 @@ def build_parser() -> argparse.ArgumentParser:
 
     # Autonomous unattended batch processor
     for name in ["process-all", "batch", "transcribe-all"]:
-        proc = sub.add_parser(
-            name,
-            help="Unattended backlog processor (default: transcribe only; --extract to mine)",
-        )
+        if name == "transcribe-all":
+            help_txt = "Transcribe backlog only (no LLM extract)"
+            default_mode = "transcribe"
+        else:
+            help_txt = "Full backlog: refresh → transcribe → extract → wiki (same as bare ./binlore)"
+            default_mode = "full"
+        proc = sub.add_parser(name, help=help_txt)
         proc.add_argument(
             "--limit",
             type=int,
@@ -665,18 +679,22 @@ def build_parser() -> argparse.ArgumentParser:
             action="store_true",
             help="Keep audio files after transcription (consumes high disk space)",
         )
-        proc.add_argument(
+        mode = proc.add_mutually_exclusive_group()
+        mode.add_argument(
             "--skip-extract",
-            dest="skip_extract",
-            action="store_true",
-            default=True,
-            help="Only ingest and transcribe (default)",
+            "--transcribe-only",
+            dest="pipeline_mode",
+            action="store_const",
+            const="transcribe",
+            help="Only ingest and transcribe (no LLM)",
         )
-        proc.add_argument(
+        mode.add_argument(
             "--extract",
-            dest="skip_extract",
-            action="store_false",
-            help="Mine transcripts with OpenRouter (oldest-first); requires OPENROUTER_API_KEY",
+            "--extract-only",
+            dest="pipeline_mode",
+            action="store_const",
+            const="extract",
+            help="Only mine already-transcribed episodes with OpenRouter",
         )
         proc.add_argument(
             "--no-skip-drafts",
@@ -714,7 +732,7 @@ def build_parser() -> argparse.ArgumentParser:
             "--min-duration-seconds",
             type=float,
             default=0.0,
-            help="Skip catalog entries shorter than this (extract mode defaults to 1200 = 20min)",
+            help="Skip catalog entries shorter than this (extract phase defaults to 1200 = 20min)",
         )
         proc.add_argument(
             "--log-file",
@@ -722,7 +740,7 @@ def build_parser() -> argparse.ArgumentParser:
             default=RUNS_DIR / "batch.log",
             help="Log file path (default: tools/runs/batch.log)",
         )
-        proc.set_defaults(func=cmd_process_all)
+        proc.set_defaults(func=cmd_process_all, pipeline_mode=default_mode)
 
     rank = sub.add_parser(
         "rank-munch-crum",
@@ -797,6 +815,11 @@ def build_parser() -> argparse.ArgumentParser:
 def main(argv: list[str] | None = None) -> None:
     parser = build_parser()
     args = parser.parse_args(argv)
+    if getattr(args, "command", None) is None:
+        # Bare ./binlore — full pipeline, no flags required.
+        from .batch import run_default_pipeline
+
+        raise SystemExit(run_default_pipeline())
     raise SystemExit(args.func(args))
 
 
