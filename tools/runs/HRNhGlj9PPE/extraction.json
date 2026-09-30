@@ -1,0 +1,200 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "02:45",
+      "canonical_segment": "News",
+      "title": "Pepito Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the official top-of-hour broadcast sign-on and countdown, identifies as the dog who produces the show."
+    },
+    {
+      "start": "02:45",
+      "end": "14:31",
+      "canonical_segment": "News",
+      "title": "April Fools Opening & News Desk",
+      "notes": "Case Blackwell opens the broadcast acknowledging April Fools Day, decides against planned bits, discusses Super Mario movie plans with chat, mentions Kendall at work."
+    },
+    {
+      "start": "14:31",
+      "end": "23:25",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Artemis 2 Moon Launch Coverage",
+      "notes": "Chet commandeers the broadcast after 'science' trigger; covers NASA's Artemis 2 crewed launch from Cape Canaveral, shows live NASA feed, discusses mission details and reusable engines."
+    },
+    {
+      "start": "23:25",
+      "end": "33:19",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train April Fools Prank",
+      "notes": "Hype Train appears claiming to be a normal human guy as an April Fools prank, delivers freestyle rap about flesh lights and jelqing rods, reveals he's still a train at the end."
+    },
+    {
+      "start": "33:19",
+      "end": "56:56",
+      "canonical_segment": "News",
+      "title": "News Headlines Rundown",
+      "notes": "Case runs through headlines: Iran/Trump tensions, Marco Rubio 'paper tiger' clip, RFK Jr pushing peptide treatments, Lindsay Buckingham stalking attack, AI in Hollywood, tobacco plants engineered for psychedelics, San Gabriel Valley eye-biting flies, squirrels vaping, transvestigation of Erika Kirk and Sydney Sweeney, DTF St. Louis/Peyronie's disease, Trump White House ballroom construction halted."
+    },
+    {
+      "start": "56:56",
+      "end": "01:25:44",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Town Hall with Jevrything & Everything Bagel",
+      "notes": "Town Hall segment with musician Jevrything and a sentient Everything Bagel; audience questions cover cream cheese vs butter, identity philosophy, gluten-free contradictions, Superman killing methods, pizza on bagels, love, GTA 6, and Inspector Gadget references."
+    },
+    {
+      "start": "01:25:44",
+      "end": "01:40:08",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Jo Rogen Experience & Munch & Crum Debate",
+      "notes": "Joe Rogan segment glitches (floating Snapchat ghost); transitions to Munch & Crum debate on 'Should Joe Exist?' with Crum arguing for erasure from source code, Munch defending existence; chat poll fails."
+    },
+    {
+      "start": "01:40:08",
+      "end": "01:50:47",
+      "canonical_segment": "News",
+      "title": "Post-Show Wrap & Kristi Noem Husband Scandal",
+      "notes": "Case wraps up, takes call from Kendall (forgot purse for movie), investigates Byron Noem 'bimbo vacation' cross-dressing photos leaked by webcam model Lydia Love, critiques bimbo authenticity, raids to Bruce Green, signs off for Friday stream."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors April Fools broadcast, covers Artemis 2 launch, runs Town Hall and Munch & Crum debate, investigates Byron Noem scandal live on air.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers station cold-open sign-on and countdown, identifies as the dog who produces the show.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeers broadcast for Artemis 2 coverage after 'science' trigger, showcases $30 wireless in-ear monitors.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype correspondent",
+      "notes": "hype correspondent. Executes April Fools prank pretending to be a normal human guy, delivers explicit freestyle rap, reveals train identity at end.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argues for erasing Joe Rogan from source code of reality during Munch & Crum debate, references gorilla dick punch liability.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defends Joe Rogan's right to exist during debate, claims friendship with Rogan, adds him to 'immortality train.'",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jevrything",
+      "role": "guest",
+      "notes": "Musician guest at Town Hall; reveals 30% salt bone marrow replacement and 23andMe result of 100% bleach, used to have deep voice before procedure.",
+      "canonical_name": "Jevrything",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Everything Bagel",
+      "role": "guest",
+      "notes": "guest. Sentient everything bagel at Town Hall; claims to contain all things including infinite Russians and Katamari plot, refuses to perform Inspector Gadget phrase on command.",
+      "canonical_name": "Everything Bagel",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Calls in from work to request Case bring a small purse for Super Mario Bros. Movie outing.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Sway",
+      "role": "guest",
+      "notes": "guest. Appears in studio at end, joins Case for Mario movie viewing, reacts to Byron Noem photos.",
+      "canonical_name": "Sway",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:37:22] Crum's gorilla dick punch liability referenced during Munch & Crum debate; chat asks for Joe Rogan to punch Crum, Crum clarifies it's a mechanical gorilla from a lost court case/bet.",
+      "timestamp": "01:37:22"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Uses $30 Amazon wireless in-ear monitors (Elgato transmitters) for broadcast audio.",
+      "timestamp": "[47:13]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jevrything",
+      "fact": "Had salt replacement therapy in bone marrow — bones are now ~30% road salt for clear skin.",
+      "timestamp": "[01:06:36]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jevrything",
+      "fact": "23andMe ancestry test returned 100% bleach (absence of race).",
+      "timestamp": "[01:10:15]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jevrything",
+      "fact": "Used to have a very deep voice; had vocal cord procedure to raise pitch.",
+      "timestamp": "[01:22:19]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Byron Noem",
+      "fact": "Husband of DHS Secretary Kristi Noem; leaked photos show cross-dressing 'bimbo vacation' with fake breasts and hot pants, recognized by webcam model Lydia Love.",
+      "timestamp": "[01:43:37]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell hosts an April Fools edition of Barely Informed News, covering the Artemis 2 crewed moon launch before a chaotic Hype Train segment where the train poses as a normal human. A Town Hall with musician Jevrything and a sentient Everything Bagel descends into philosophical absurdity, followed by a glitched Jo Rogen Experience that segues into a Munch & Crum debate on whether Joe Rogan should exist. The broadcast closes with Case breaking the Byron Noem 'bimbo vacation' cross-dressing scandal live on air before departing for the Super Mario Bros. Movie.",
+  "_meta": {
+    "vod_id": "HRNhGlj9PPE",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 93811,
+    "approx_prompt_tokens": 23452,
+    "transcript_lines": 188
+  }
+}
