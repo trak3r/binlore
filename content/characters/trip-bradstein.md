@@ -36,6 +36,7 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 | [[episodes/2026-06-29|2026-06-29]] | Debuts after emerging from a two-month bush hibernation. Conducts [[../segments/trip-on-the-street|Trip on the Street]] interviews with park visitors on audience-submitted topics, interviewing his mother (confusing her for a stranger), Hype Train, an aggressive DVD salesman, and a George W. Bush impersonator. |
 | [[episodes/2026-06-19|2026-06-19]] | Field correspondent stationed in public parks conducting on-the-spot interviews with passersby. |
 | [[episodes/2026-06-05|2026-06-05]] | Field correspondent residing permanently in public parks, conducting 'on the street' opinion interviews. |
+| [[episodes/2026-04-06|2026-04-06]] | field correspondent. |
 | [[episodes/2026-03-17|2026-03-17]] | field correspondent. |
 | [[episodes/2026-02-26|2026-02-26]] | field correspondent. |
 | [[episodes/2026-02-12|2026-02-12]] | field correspondent. |
@@ -52,13 +53,13 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 | [[episodes/2025-06-11|2025-06-11]] | field correspondent. |
 | [[episodes/2025-06-02|2025-06-02]] | field correspondent. |
 | [[episodes/2025-05-17|2025-05-17]] | field correspondent. |
-| [[episodes/2025-05-02|2025-05-02]] | field correspondent. |
 
 <details>
-<summary>Earlier appearances (41)</summary>
+<summary>Earlier appearances (42)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-05-02|2025-05-02]] | field correspondent. |
 | [[episodes/2025-04-04|2025-04-04]] | field correspondent. |
 | [[episodes/2025-03-21|2025-03-21]] | field correspondent. |
 | [[episodes/2025-03-07|2025-03-07]] | field correspondent. |
@@ -129,3 +130,4 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 - **[1:14:02]** ([[episodes/2025-10-16|2025-10-16]]): Bush background has apparently never been updated despite long absences. [1:14:02]
 - **[]** ([[episodes/2025-11-03|2025-11-03]]): Opinion submission sheet glitched, merging with town-hall question queue; Trip performs live list surgery to fix. [02:09:35]
 - **[[1:31:42]]** ([[episodes/2026-02-26|2026-02-26]]): Left side of house sunk into pit of 'penis acid' from burst pipes clogged with his own acid.
+- **[01:59:36]** ([[episodes/2026-04-06|2026-04-06]]): Coma narrative persists; Bad Trip (lightning split) claims Trip is in coma and must merge to escape.

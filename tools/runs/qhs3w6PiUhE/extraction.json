@@ -1,0 +1,253 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "start": "00:06",
+      "end": "08:40",
+      "notes": "Pepito delivers the official broadcast sign-on and countdown; Case arrives at desk and confirms stream is live."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Opening Banter: Mario Movie & Easter Confusion",
+      "start": "08:40",
+      "end": "12:17",
+      "notes": "Case and Hype Train discuss the new Mario movie (disappointment), debate whether Easter Monday is a holiday, and Hype Train begins a piss-themed freestyle."
+    },
+    {
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Sub Thank-You & Piss Rap",
+      "start": "12:17",
+      "end": "18:40",
+      "notes": "Hype Train derails sub acknowledgments into a high-tempo piss freestyle; Case eventually forces a beat change and Hype Train reads sub names."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Trump/Iran Pilot Rescue & Swearing Spree",
+      "start": "18:40",
+      "end": "30:09",
+      "notes": "Case covers Trump seizing on rescued pilot to recast Iran war; Trump Truth Social posts include 'open the fucking straight' and 'praise be to Allah'; Polymarket odds on Trump praising Allah discussed."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Trump Call-In Interview",
+      "start": "30:09",
+      "end": "42:03",
+      "notes": "Trump calls in via satellite; audio sync issues plague the segment; Trump rants about polyester, sex, fingering, honey-covered toilet paper, and Epstein; Case eventually bails due to technical failure."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web: Viewer Submissions",
+      "start": "42:03",
+      "end": "58:55",
+      "notes": "Case and Crum review viewer clips: stop-motion manipulation short, competitive CTE sport, extreme love doll documentary, Sikor's life-event chart, Macho Man bachelor party wrestling, refrigeration guru ad, exploding lizard kids animation."
+    },
+    {
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "The Jo Rogen Experience: Joe Rogan & Jamie",
+      "start": "58:55",
+      "end": "01:21:48",
+      "notes": "Joe Rogan and Jamie join; mouth-sync issues, void metaphysics, Alpha Brain now AI-powered powder, yak secretion conditioner, negative-gestation ropes, Polly Market polyester betting, Jamie deep-frying vermin."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Chat News & Sub Goal Standoff",
+      "start": "01:21:48",
+      "end": "01:36:07",
+      "notes": "Crum reads chat news: Nvidia DLSS-5 DMCA strike in Italy, 90-year-old dead hang, Ben Hooper UPI report (April Fool's mannequin), black bear cub rescue, 14-year-old Vermont gubernatorial candidate, Jake Paul blackface/Druski debate, Wireless Festival defends Kanye, Sigma Star Saga DX re-release."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Jake Paul Blackface Debate",
+      "start": "01:36:07",
+      "end": "01:46:20",
+      "notes": "Munch and Crum debate whether Jake Paul doing blackface in response to Druski's whiteface is acceptable; Crum argues complexity and historical context, Munch insists it's simple; Reagan/Reagan slur usage discussed; ghost Reagan summoned."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip on the Street: Park Interviews",
+      "start": "01:46:20",
+      "end": "02:11:57",
+      "notes": "Trip Bradstreet interviews park denizens: Mountain Man Mike (alien/Bigfoot war), Hype Train (flashlight addiction), Walter Mudbutter (no underwear), The Void (Polly Market/polyester), The Sun (self-esteem/supernova), Mario guy (Luigi divorce), AI Rudy (broccoli haircut), derelict theater robot, Bad Trip (lightning split), Trump caller (fake news), Kendall call-in."
+    },
+    {
+      "canonical_segment": "Therapy",
+      "title": "Therapy: Everything Bagel Session",
+      "start": "02:11:57",
+      "end": "02:25:06",
+      "notes": "Dr. Chath (void-affected) counsels Everything Bagel; bagel dances, admits pooping pants, discusses cream cheese void-filling, Polo Campero chicken, Michael Jordan/Bugs Bunny duet breakthrough."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Moon Segment",
+      "start": "02:25:06",
+      "end": "02:34:45",
+      "notes": "Case contacts the Moon; Moon spells 'moon' as 'bill pulman', rants about dark side, Epstein files, teenage girls stepping on it, and that 'the moon literally gives you sex'; ghost moon lingers after sign-off."
+    },
+    {
+      "canonical_segment": "News",
+      "title": "Sign-Off & Raid",
+      "start": "02:34:45",
+      "end": "02:37:20",
+      "notes": "Case ends stream; Pepito/Pepino argue; raid to Still Do announced."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored full broadcast; managed Trump call-in technical failure; hosted Amongst the Web, Jo Rogen, Moon segments; beard glitch noted.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold-open sign-on and countdown; argued with Case during sign-off as 'Pepino'.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype correspondent",
+      "notes": "hype correspondent. Derailed sub thank-yous into piss freestyle; later appeared on Trip segment with flashlight addiction.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Co-hosted Amongst the Web and Munch & Crum; read chat news; gorilla dick punch timeline set at two months.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Crum on Jake Paul blackface; insisted on simplicity; summoned ghost Reagan.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Joe Rogan",
+      "role": "call-in guest",
+      "notes": "call-in guest. Joined for Jo Rogen Experience; discussed void, AI Alpha Brain, yak secretions, negative-gestation ropes, Jamie's vermin deep-frying.",
+      "canonical_name": "Joe Rogan",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jamie",
+      "role": "producer",
+      "notes": "Joe Rogan's producer; mouth-sync issues; described as dangling wires/viscera from mouth like Lady and the Tramp.",
+      "canonical_name": "Jamie",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstreet",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted park interviews from bushes; coma narrative continued; confronted by Bad Trip split personality.",
+      "canonical_name": "Trip Bradstreet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Chath",
+      "role": "therapist",
+      "notes": "therapist. Conducted therapy session while void-affected; counseled Everything Bagel.",
+      "canonical_name": "Dr. Chath",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Everything Bagel",
+      "role": "therapy patient",
+      "notes": "therapy patient. Claimed to be everything; danced for money; admitted pooping pants; breakthrough via Michael Jordan/Bugs Bunny duet.",
+      "canonical_name": "Everything Bagel",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Moon",
+      "role": "celestial body",
+      "notes": "celestial body. Spelled moon 'bill pulman'; claimed moon gives sex; ranted about dark side and Epstein files; ghost moon persisted.",
+      "canonical_name": "Moon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Called in during Trip segment; confirmed she'd be home in an hour.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[43:23] Crum confirms mechanical gorilla dick punch has 'some time in the next two months' — training camp takes months.",
+      "timestamp": "43:23"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Gorilla dick punch execution window set for next two months (from 2026-04-06).",
+      "timestamp": "43:23",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Joe Rogan",
+      "fact": "Alpha Brain supplement now powered by AI — powder is a large language model you can ingest and query.",
+      "timestamp": "01:10:42",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trip Bradstreet",
+      "fact": "Coma narrative persists; Bad Trip (lightning split) claims Trip is in coma and must merge to escape.",
+      "timestamp": "01:59:36",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Moon",
+      "fact": "Canonical spelling of 'moon' declared as 'b i l l p u l m a n' (Bill Pulman).",
+      "timestamp": "02:31:39",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Beard spontaneously disappears and regrows within seconds during broadcast.",
+      "timestamp": "43:02",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns from a week off to a chaotic broadcast featuring a technically doomed Trump call-in that devolves into polyester and honey-wiping rants, a Jo Rogen Experience where Joe Rogan reveals Alpha Brain is now an edible LLM, a Munch & Crum debate on Jake Paul blackface that summons Reagan's ghost, and a Moon segment where the celestial body spells its name 'Bill Pulman' and claims to literally provide sex. The Crum Dick Punch timeline is formally set at two months.",
+  "_meta": {
+    "vod_id": "qhs3w6PiUhE",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 120719,
+    "approx_prompt_tokens": 30179,
+    "transcript_lines": 357
+  }
+}

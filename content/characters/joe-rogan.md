@@ -22,12 +22,14 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 ## Appearances
 
 | Episode | Notes |
-|---------|-------|
+|---|---|
+| [[episodes/2026-04-06|2026-04-06]] | call-in guest. |
 | [[episodes/2024-05-02|2024-05-02]] | Auto-created minor character after appearing in 3 extracted episodes (threshold 3). |
 
 ## Notable moments
 
 - First identified in [[episodes/2024-05-02|Episode 2024-05-02]].
+- **[01:10:42]** ([[episodes/2026-04-06|2026-04-06]]): Alpha Brain supplement now powered by AI — powder is a large language model you can ingest and query.
 
 ## Open questions
 

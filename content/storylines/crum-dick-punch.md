@@ -153,6 +153,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2026-03-24|2026-03-24]] [29:25] | [29:25] Blackwell confirms gorilla people-mover setup underway for the pneumatic groin punch; [30:56] Crum claims lethal punching strength from weighted-log conditioning. |
 | [[../episodes/2026-03-25|2026-03-25]] [01:02:49] | [01:02:49] Munch presses Crum on the mechanical gorilla punch timeline; Crum states it is 'fully TBD' due to the gorilla being too heavy to move between sets and difficulty extracting it from the Binge Studios center. |
 | [[../episodes/2026-04-01|2026-04-01]] [01:37:22] | [01:37:22] Crum's gorilla dick punch liability referenced during Munch & Crum debate; chat asks for Joe Rogan to punch Crum, Crum clarifies it's a mechanical gorilla from a lost court case/bet. |
+| [[../episodes/2026-04-06|2026-04-06]] [43:23] | [43:23] Crum confirms mechanical gorilla dick punch has 'some time in the next two months' — training camp takes months. |
 | [[../episodes/2026-06-27|2026-06-27]] [01:20:04] | Crum provides an initial logistical update on the impending gorilla execution, noting he must acquire a special license from the Nevada Gaming Commission. |
 | [[../episodes/2026-06-29|2026-06-29]] [00:09:41] | Blackwell ponders whether Crum will be placed in a "honey sack" during the scheduled execution. |
 | [[../episodes/2026-07-11|2026-07-11]] [01:36:05] | Dr. Cheth reports complications with the Las Vegas gaming and boxing commissions regarding the stunt. |
