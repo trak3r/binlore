@@ -54,14 +54,15 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2026-01-07|2026-01-07]] | Infiltrated the studio as a wall-dwelling stowaway, brought wall energy that broke equipment, and threatened to summon Hate Sock. |
 | [[episodes/2026-01-06|2026-01-06]] | news stowaway. |
 | [[episodes/2025-12-24|2025-12-24]] | news stowaway. |
+| [[episodes/2025-12-19|2025-12-19]] | news stowaway. |
 | [[episodes/2025-11-27|2025-11-27]] | news stowaway. |
-| [[episodes/2025-10-27|2025-10-27]] | news stowaway. |
 
 <details>
-<summary>Earlier appearances (77)</summary>
+<summary>Earlier appearances (78)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-10-27|2025-10-27]] | news stowaway. |
 | [[episodes/2025-10-04|2025-10-04]] | news stowaway. |
 | [[episodes/2025-09-21|2025-09-21]] | news stowaway. |
 | [[episodes/2025-09-11|2025-09-11]] | news stowaway. |

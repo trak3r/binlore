@@ -22,11 +22,11 @@ Complete stream archive tracked for *Barely Informed News*. Episodes are ingeste
     <div class="stat-label">Total Broadcast Lore</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">353</div>
+    <div class="stat-value">354</div>
     <div class="stat-label">Ingested & Extracted</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">23</div>
+    <div class="stat-value">22</div>
     <div class="stat-label">Pending Ingestion Backlog</div>
   </div>
 </div>
@@ -44,8 +44,8 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   <div class="filter-group">
     <select id="status-filter">
       <option value="all">All Statuses (376)</option>
-      <option value="ingested">Ingested Only (353)</option>
-      <option value="backlog">Backlog Only (23)</option>
+      <option value="ingested">Ingested Only (354)</option>
+      <option value="backlog">Backlog Only (22)</option>
     </select>
     <select id="page-size">
       <option value="25">25 per page</option>
@@ -151,7 +151,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
 <tr data-status="ingested" data-title="happy news year" data-date="2026-01-06" data-vod-id="wpvh-hcsrui" style="display: none;"><td class="cell-date"><code>2026-01-06</code></td><td class="cell-title"><a href="./2026-01-06" class="internal"><strong>Happy News Year</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">wpVH-HcsrUI</code></td><td class="cell-dur">10m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=wpVH-HcsrUI" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="happy news year" data-date="2026-01-06" data-vod-id="jsa3zc6fyo0" style="display: none;"><td class="cell-date"><code>2026-01-06</code></td><td class="cell-title"><a href="./2026-01-06" class="internal"><strong>Happy News Year</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">jSa3zc6fyo0</code></td><td class="cell-dur">7m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=jSa3zc6fyo0" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="deck the news with awful stories" data-date="2025-12-24" data-vod-id="snz46d_gvyq" style="display: none;"><td class="cell-date"><code>2025-12-24</code></td><td class="cell-title"><a href="./2025-12-24" class="internal"><strong>Deck the News with Awful Stories</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">SnZ46D_gvYQ</code></td><td class="cell-dur">2h 49m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=SnZ46D_gvYQ" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
-<tr data-status="backlog" data-title="grunchmas 2025" data-date="2025-12-19" data-vod-id="lzfohejkjz4" style="display: none;"><td class="cell-date"><code>2025-12-19</code></td><td class="cell-title">Grunchmas 2025</td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">lzFoheJkjZ4</code></td><td class="cell-dur">2h 26m</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=lzFoheJkjZ4" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
+<tr data-status="ingested" data-title="grunchmas 2025" data-date="2025-12-19" data-vod-id="lzfohejkjz4" style="display: none;"><td class="cell-date"><code>2025-12-19</code></td><td class="cell-title"><a href="./2025-12-19" class="internal"><strong>Grunchmas 2025</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">lzFoheJkjZ4</code></td><td class="cell-dur">2h 26m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=lzFoheJkjZ4" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="monday news slam" data-date="2025-12-18" data-vod-id="c7wpyagn08e" style="display: none;"><td class="cell-date"><code>2025-12-18</code></td><td class="cell-title"><a href="./2025-12-18" class="internal"><strong>Monday News Slam</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">c7wPYaGN08E</code></td><td class="cell-dur">2h 24m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=c7wPYaGN08E" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="monday news slam" data-date="2025-12-18" data-vod-id="zkp7k3pwdve" style="display: none;"><td class="cell-date"><code>2025-12-18</code></td><td class="cell-title"><a href="./2025-12-18" class="internal"><strong>Monday News Slam</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">zKP7k3pwDVE</code></td><td class="cell-dur">14s</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=zKP7k3pwDVE" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="peaking hard" data-date="2025-12-16" data-vod-id="r_f4nei06dk" style="display: none;"><td class="cell-date"><code>2025-12-16</code></td><td class="cell-title"><a href="./2025-12-16" class="internal"><strong>Peaking Hard</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">r_f4NEI06Dk</code></td><td class="cell-dur">2h 20m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=r_f4NEI06Dk" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>

@@ -134,6 +134,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2025-11-25|2025-11-25]] [02:12:15] | [02:12:15] Crum references gorilla execution: 'I will try to get the gorilla back. Be in the gorilla or chill now. There's no way that's possible. He wants to murder you.' |
 | [[../episodes/2025-11-27|2025-11-27]] [01:12:39] | [01:12:39] Case and Pepito reference pathway to hell through office wall and Crum poster retrieval, callbacks to Join the Wall/Crum Dick Punch saga. |
 | [[../episodes/2025-12-04|2025-12-04]] [01:16:58] | Munch referenced the Rock-afire gorilla's continued presence during Amongst the Web. |
+| [[../episodes/2025-12-19|2025-12-19]] | Munch and Crum re-litigate hell rescue and Crum's assistant manager role at Hell DMV during naughty-list debate [01:34:19-01:35:28]. |
 | [[../episodes/2025-12-24|2025-12-24]] | No advancement this episode; Crum's gambling liability not mentioned. |
 | [[../episodes/2026-01-06|2026-01-06]] [01:11:28] | [01:11:28] Crum references the gorilla dick punch: 'we tried to do it with the gorilla and it worked but it just didn't stick because you okay, whatever' — confirming the 2026 pneumatic groin strike occurred but failed to resolve the debt. |
 | [[../episodes/2026-01-22|2026-01-22]] [50:38] | Case references Munch and Crum's rivalry at [50:38]: 'Haven't seen Krum through a debate this hard... What are Munch and Crom going to recreate heated rivalry.' |

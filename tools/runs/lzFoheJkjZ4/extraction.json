@@ -1,0 +1,194 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "09:12",
+      "canonical_segment": "News",
+      "title": "Grunchmas Cold Open & Sign-On",
+      "notes": "Pepito delivers Christmas-themed sign-on as 'Christmas Pepito'; Case Blackwell appears at 09:12 noting technical degradation under Pepito's production."
+    },
+    {
+      "start": "09:12",
+      "end": "38:01",
+      "canonical_segment": "News",
+      "title": "Grunchmas Fucks List — Part 1",
+      "notes": "The Grunch (Case) adjudicates the annual fucks list: judges devil, gorilla, Shen Yun, peanut, Jared Leto, Doja Cat, Mothra, Yudo hawk, hole, Ed Gein, Chairman Mao, Pepsi robot; reads grunch letters via psychic portal."
+    },
+    {
+      "start": "38:01",
+      "end": "48:47",
+      "canonical_segment": "How To with Jeb",
+      "title": "How To: Patch a Skate Park Hole & Pull an Alt Baddie",
+      "notes": "Jeb Nogget demonstrates table-saw patch repair on a skate park ramp, then delivers a four-step hygiene/ambition/friendship/confidence tutorial for attracting an alt baddie; Kendelle appears for live test."
+    },
+    {
+      "start": "48:47",
+      "end": "01:25:42",
+      "canonical_segment": "News",
+      "title": "Grunchmas Fucks List — Part 2",
+      "notes": "Grunch continues fucks list: David Lynch, Dandadan, space ghost, half-bowl-half-man, Office actor, Case as turkey, Garfield, Twin Peaks tree, cat with Castem face, Kevin Pereira, AI Kevin Pereira, Hulk Hogan, Mars Attacks cast, Capri Sun, Jared Kushner, tattoo, chair company guy, Fiona Nova, Foreman grill, Tony Con, South Park guys, spiral lady, time, Mummy cast, Carl Sagan, It-face wrestler, Odis, China, Poppy Johns, Liam Neeson, Quagmire, Stargate, gummy bear, troll, One Punch Man, Primal caveman."
+    },
+    {
+      "start": "01:25:42",
+      "end": "01:37:30",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Naughty List Debate",
+      "notes": "Munch and Crum debate naughty-list status; Crum claims naughty supremacy, Munch claims good-list standing via charity (grunt grain GoFundMe); escalates to hell rescue relitigation, Crum's DMV assistant manager role, neck-skin coat injury."
+    },
+    {
+      "start": "01:37:30",
+      "end": "02:01:07",
+      "canonical_segment": "News",
+      "title": "Grunchmas Fucks List — Part 3",
+      "notes": "Grunch final fucks list round: Professor Oak, Tingle, anime guy, Chinese Case Blackwell, Cigarette Sandwich sketch, Jeff Keely, alien from American Dad, Emma Frost, Skull/Molly, X-Files, French Stewart, Dave, Jake, Tactical Santa, Rock and Stone, Wario/Waluigi, goblins, anime eater, tortured fucker, declining fuckers, kids policy, Laboos, Robert Blackwell, flute guy, Luigi Mangione, Stephen Miller, volleyball, Munch/Cast Away, Randy Darling, Reach pieces, Rogue One, Gina Darling, Ninja Turtles/Slash/Cring."
+    },
+    {
+      "start": "02:01:07",
+      "end": "02:13:12",
+      "canonical_segment": "News",
+      "title": "Grunch Letters & Portal Q&A",
+      "notes": "Grunch answers viewer letters: best/worst mascots, flag-penis patriotism, Hulk Hogan/Macho Man promises, Yu-Gi-Oh vs Magic, Teletubbies, Easter Bunny, Zootopia fox/rabbit, Pokemon (Ekons), Crispy Cream glaze, absent father, asshole count, Superman, Switch controller, human holes, Jeremy Renner snowplow, pee-cum technique."
+    },
+    {
+      "start": "02:13:12",
+      "end": "02:21:49",
+      "canonical_segment": "News",
+      "title": "Speed-Run Fucks List (Rap)",
+      "notes": "Grunch speed-runs remaining submissions via freestyle rap over Christmas trap beat: Arata, Marshall (Common Side Effects), CIA, white cosmic creatures, Castem (fail), Smile lady, Crash Bandicoot, Liviamon, penguin, electrician, Jizbo, Top Golf, Blue's Clues, Modern Bubs, Razor Blade Snickers, Alvin/Chipmunks, Chuck E. Cheese, Tony the Tiger, Puffy Bear, Kessam (fail), panty-smell guy, creepy twins, Kevin Pereira, BIN Bear, Jeremy Renner, Country Bear, Jesus, vacuums, Duck (Peek), Eggman, Jake, Lady Kendall, cheese guy, instant lunch, A.W., Gina Darling, Crackhead Yogi, Munch with gun, golden-ass guy, ammo, Vladislav cat, Hideo Kojima, lady, Kid Rock, army."
+    },
+    {
+      "start": "02:21:49",
+      "end": "02:26:13",
+      "canonical_segment": "News",
+      "title": "Grunchmas Sign-Off & Raid",
+      "notes": "Grunch departs for sweat cocoon; Pepito raps sign-off claiming 'Pepito Christmas'; raid to Dr. Diggity; Case Blackwell returns Monday."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "anchor. Embodies The Grunch for fourth annual Grunchmas special; runs fucks list, reads psychic letters, adjudicates sexual worthiness of cultural figures.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "field correspondent",
+      "notes": "field correspondent. Broadcasts from woodshop; demonstrates skate-park hole patch and alt-baddie tutorial while bickering with wooden-board father.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Brief cameo during Jeb's alt-baddie test; receives blown kiss, outruns it, confirms partial alt status and confidence preference.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Claims good-list standing via grunt-grain charity; relitigates hell rescue, asserts Crum was Hell DMV assistant manager.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Claims naughty-list supremacy; admits hell DMV assistant manager role, reveals neck-skin flaps caught on coat button.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Blamed for premature go-live; impersonates Grunch voice, wears Grunch coat, hides in studio crawlspace.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch / Join the Wall / Crum Face Punch",
+      "beat": "Munch and Crum re-litigate hell rescue and Crum's assistant manager role at Hell DMV during naughty-list debate [01:34:19-01:35:28].",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "Chat references 'beyblade burst' during Grunch letters segment [02:04:13].",
+      "timestamp": "02:04:13"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Grunch emerges annually from a 'sweat cocoon' for 2-4 days of orgiastic sex before reforming cocoon for another year.",
+      "timestamp": "[12:56]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Grunch is functionally illiterate; reads letters by 'vibing' psychic wavelengths.",
+      "timestamp": "[21:56]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Grunch can shrink genitals to 'really small' or 'average' but cannot enlarge them.",
+      "timestamp": "[50:47]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Grunch enforces a 'zero Crum shot policy' on the fucks list; Crum attempts to add himself anyway.",
+      "timestamp": "[59:46]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum served as assistant manager of Hell's Department of Motor Vehicles per Munch's account.",
+      "timestamp": "[01:34:53]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Crum has 'big flaps of neck skin' from back neck fat that caught on coat button.",
+      "timestamp": "[01:35:45]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "This is the fourth annual Grunchmas; Grunch considers the fucks list ritual to be sex.",
+      "timestamp": "[02:01:37]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Pepito desires to eat pistachios, thousand-pound Egyptian thread sheets, carpet, counter, and wood chips.",
+      "timestamp": "[02:23:39]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "The Grunchmas 2025 special broadcast sees anchor Case Blackwell assume his annual Grunch persona to adjudicate the fourth annual 'fucks list' — a marathon judgment of cultural figures, memes, and entities deemed worthy or unworthy of fucking. Executive producer Pepito opens in a Christmas hat before ceding control to the Grunch, who processes viewer letters via psychic portal, fields questions on hive-mind consent and golden N64 cartridges, and maintains a strict zero-Crum-shot policy. The broadcast detours to Jeb Nogget's woodworking tutorial on skate-park hole patching and alt-baddie acquisition, interrupted by a Kendelle cameo. Munch and Crum then debate naughty-list status, relitigating Crum's hell DMV tenure and Munch's rescue mission. The Grunch returns for a speed-run rap verdict on remaining entries before signing off to re-enter his sweat cocoon, while Pepito raids Dr. Diggity.",
+  "_meta": {
+    "vod_id": "lzFoheJkjZ4",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 115203,
+    "approx_prompt_tokens": 28800,
+    "transcript_lines": 253
+  }
+}

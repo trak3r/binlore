@@ -58,6 +58,7 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2026-01-27|2026-01-27]] | instructional host. |
 | [[episodes/2026-01-24|2026-01-24]] | instructional host. |
 | [[episodes/2026-01-06|2026-01-06]] | instructional host. |
+| [[episodes/2025-12-19|2025-12-19]] | field correspondent. |
 | [[episodes/2025-12-13|2025-12-13]] | instructional host. |
 | [[episodes/2025-12-04|2025-12-04]] | How To Host. |
 | [[episodes/2025-11-25|2025-11-25]] | instructional host. |
@@ -66,13 +67,13 @@ Within the broader network, questions exist regarding Jeb's physical identity. D
 | [[episodes/2025-10-06|2025-10-06]] | instructional host. |
 | [[episodes/2025-10-04|2025-10-04]] | instructional host. |
 | [[episodes/2025-09-15|2025-09-15]] | How To host. |
-| [[episodes/2025-09-11|2025-09-11]] | instructional host. |
 
 <details>
-<summary>Earlier appearances (45)</summary>
+<summary>Earlier appearances (46)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-09-11|2025-09-11]] | instructional host. |
 | [[episodes/2025-09-05|2025-09-05]] | guest vocalist. |
 | [[episodes/2025-09-03|2025-09-03]] | instructional host. |
 | [[episodes/2025-09-02|2025-09-02]] | instructional host. |
