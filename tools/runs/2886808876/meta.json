@@ -1,0 +1,19 @@
+{
+  "vod_id": "2886808876",
+  "title": "Newsual Mondays",
+  "url": "https://www.twitch.tv/videos/2886808876",
+  "duration_seconds": 6039,
+  "duration": "1:40:39",
+  "timestamp": 1790640000,
+  "aired_at": "2026-09-29T00:00:00+00:00",
+  "date": "2026-09-29",
+  "ingested_at": "2026-09-30T16:51:22.495457+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "2886808876",
+  "yt_url": "https://www.youtube.com/watch?v=2886808876",
+  "twitch_id": "2886808876",
+  "twitch_url": "https://www.twitch.tv/videos/2886808876",
+  "catalog_date": "2026-09-29"
+}
