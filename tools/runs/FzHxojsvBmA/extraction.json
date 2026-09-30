@@ -1,0 +1,167 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "Hype Train",
+      "start": "00:00",
+      "end": "22:52",
+      "title": "Hype Train Friday Freestyle",
+      "notes": "Hype Train delivers an extended freestyle rap over trap beats, acknowledging subs and bits while riffing on long-ass anatomy, snack orgies, and bodily fluids; Chet interrupts for a duet about nachos, fries, brownies, and fruit roll-ups."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "22:52",
+      "end": "44:05",
+      "title": "World News & Snapple Lady",
+      "notes": "Case covers Lebanon ceasefire talks with JD Vance in Pakistan, Iran victory declarations, Eric Swalwell sexual misconduct allegations, Snapple lady Wendy Kaufman sobriety, a UK executor who blew inheritance on horse semen, Eric Adams obtaining Albanian citizenship, and a chimpanzee civil war tease."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "start": "44:05",
+      "end": "1:49:22",
+      "title": "Mega Man Fan Game: Case Blackwell Edition",
+      "notes": "Case plays a viewer-made Mega Man fangame starring himself (Mega-Case) rescuing Chet from evil robots; Kendelle and Crum attempt the game, Crum quits after one death; Case eventually beats the Woodman-style boss after extensive farming."
+    },
+    {
+      "canonical_segment": "CryptoZeu$",
+      "start": "1:49:22",
+      "end": "2:40:08",
+      "title": "Super Monkey Ball 2 with Brandon",
+      "notes": "Brandon (CryptoZeu$) calibrates his GameCube controller live, plays Super Monkey Ball 2 story mode as Dr. Bad Boon's monkey minions, then Monkey Target and Monkey Bowling minigames, while his mother yells through the wall about Pastor Joe, nipple cream, and vibrating rabbits."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "2:40:08",
+      "end": "2:43:53",
+      "title": "Sign-off & Newegg Event Announcement",
+      "notes": "Case and Kendelle wrap the broadcast, announce they will appear at a Newegg event Saturday with a Valorant influencer match, and raid an unspecified channel."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored the broadcast, played a fan-made Mega Man game for over an hour, and announced a Newegg event appearance with Kendelle.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered the cold-open sign-on and confirmed the stream was live.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Commandeered the opening with a lengthy freestyle rap about long-ass anatomy and snack orgies, then duetted with Chet.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Interrupted Hype Train for a snack-themed duet rap and bantered during the news block.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Appeared as 'Slang' (J-L-L-O-N-G) during the news block, debated snack definitions and Snapchat bans for congresspeople.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Joined Case for the Mega Man fan game attempt and appeared in the sign-off announcing the Newegg event.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Briefly attempted the Mega Man fan game, quit after one death, and referenced a blood-covered hard drive from his fugue state.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Played Super Monkey Ball 2 story mode and minigames live while managing his mother's wall-shouting interruptions.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Join the Wall",
+      "beat": "Crum reveals a blood-covered hard drive from his 'fugue state' that whispers at night and has been plugged into studio computers, generating new files including a 'hell poster' of Crum [1:51:49, 1:53:52].",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Possesses a blood-covered hard drive from a 'fugue state' that whispers when he sleeps; plugged it into studio computers, causing new files to appear [1:51:49, 1:53:52].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "A 'hell poster' of Crum exists and Case was searching for it during the broadcast [1:51:25].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "Claims he made a bet with his placenta at birth to never shower [2:14:35].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "Has a 'blinking condition' where light and loud noises trigger involuntary blinking [2:24:48].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "Was homeschooled for two years due to a skin condition before leaving school entirely [2:28:14].",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Scheduled to appear at a Newegg event Saturday with Kendelle; Case will be in background while Kendelle plays Valorant in an influencer match [2:42:50].",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell's Friday broadcast opened with a marathon Hype Train freestyle, moved through a news block covering Middle East ceasefire talks and domestic scandals, then devoted the majority of airtime to a viewer-made Mega Man fangame starring Case himself — which he, Kendelle, and Crum attempted with mixed success. The show closed with gaming correspondent Brandon (CryptoZeu$) playing Super Monkey Ball 2 amid his mother's wall-shouting interruptions, before Case and Kendelle announced a Saturday Newegg event appearance.",
+  "_meta": {
+    "vod_id": "FzHxojsvBmA",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 115244,
+    "approx_prompt_tokens": 28811,
+    "transcript_lines": 355
+  }
+}

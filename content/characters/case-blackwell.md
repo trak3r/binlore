@@ -235,3 +235,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[[58:11]]** ([[episodes/2025-12-09|2025-12-09]]): Has a visible eye mole noted on air during Netflix CEO Ted Sarandos discussion.
 - **[[02:07:58]]** ([[episodes/2025-12-09|2025-12-09]]): Planning Grinch/Grunch stream for next week (week of Dec 15); will use safe-for-work green face paint after prior face-paint incident.
 - **[43:02]** ([[episodes/2026-04-06|2026-04-06]]): Beard spontaneously disappears and regrows within seconds during broadcast.
+- **[]** ([[episodes/2026-04-11|2026-04-11]]): Scheduled to appear at a Newegg event Saturday with Kendelle; Case will be in background while Kendelle plays Valorant in an influencer match [2:42:50].
