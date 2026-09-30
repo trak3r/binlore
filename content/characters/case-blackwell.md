@@ -244,3 +244,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[21:43]** ([[episodes/2026-04-17|2026-04-17]]): Running a clandestine TikTok/YouTube experiment: posting egg-dying videos from a zero-follower account to force a viral hit without revealing the channel. [21:43]
 - **[23:39]** ([[episodes/2026-04-22|2026-04-22]]): Case Blackwell is allergic to bread (not gluten) — causes full-body skin color change resembling an insensitive face.
 - **[22:54]** ([[episodes/2026-04-22|2026-04-22]]): Case Blackwell's 'smooth face' becomes a running descriptor during Darfus bit.
+- **[[17:44]]** ([[episodes/2026-04-27|2026-04-27]]): Case Blackwell confirms he is 39 years old during age discussion.
+- **[[1:04:48]]** ([[episodes/2026-04-27|2026-04-27]]): Case Blackwell references a wife (likely Kendelle) when stating AI Rooney nearly caused her to 're-divorce' him.

@@ -39,6 +39,7 @@ He displays a profound, open disdain for Jeb's woodworking skills and emotional 
 |---|---|
 | [[../episodes/2026-08-14|2026-08-14]] | [[../segments/how-to-with-jeb|How To with Jeb]] | Broadcast debut alongside Jeb. Heckles Jeb throughout the introductory demonstration, complains about the grain quality, and repeatedly praises Jet Nogget. |
 | [[episodes/2026-06-15|2026-06-15]] | Deceased father trapped in wooden board, non-verbal. |
+| [[episodes/2026-04-27|2026-04-27]] | Co-Host (Deceased). |
 | [[episodes/2026-04-22|2026-04-22]] | co-host (spirit in wood board). |
 | [[episodes/2026-03-24|2026-03-24]] | co-host (deceased). |
 | [[episodes/2026-02-10|2026-02-10]] | co-host (deceased). |
@@ -56,13 +57,13 @@ He displays a profound, open disdain for Jeb's woodworking skills and emotional 
 | [[episodes/2025-04-10|2025-04-10]] | ghost co-host. |
 | [[episodes/2025-03-17|2025-03-17]] | co-host (spirit in board). |
 | [[episodes/2025-03-07|2025-03-07]] | co-host (deceased). |
-| [[episodes/2025-03-04|2025-03-04]] | ghost co-host. |
 
 <details>
-<summary>Earlier appearances (16)</summary>
+<summary>Earlier appearances (17)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-03-04|2025-03-04]] | ghost co-host. |
 | [[episodes/2025-02-25|2025-02-25]] | wood-trapped spirit. |
 | [[episodes/2025-02-12|2025-02-12]] | co-host (deceased). |
 | [[episodes/2025-02-06|2025-02-06]] | deceased co-host. |
@@ -111,3 +112,4 @@ He displays a profound, open disdain for Jeb's woodworking skills and emotional 
 - **[01:40:34]** ([[episodes/2024-09-18|2024-09-18]]): Claims to be ripped/jacked as a spirit residing in wood [01:40:34].
 - **[]** ([[episodes/2025-10-04|2025-10-04]]): Displays anomalous wood manipulation: Grubhub delivers wood orders, parking ticket for wood wheels, wood in water receptacle. [2:49:23]
 - **[1:14:14]** ([[episodes/2026-03-24|2026-03-24]]): Deceased father's spirit permanently trapped in a wooden board; co-hosts How To with Jeb [1:14:14].
+- **[[1:22:06]]** ([[episodes/2026-04-27|2026-04-27]]): Jeb's Dad's spirit remains trapped in the wooden board and desires to return to the 'Blade rave in the sky' afterlife.

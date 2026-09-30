@@ -5,7 +5,7 @@ aliases:
   - Honest Abe
   - Abe
   - President of the Dead
-first_seen: 2026-06-22
+first_seen: 2026-04-27
 status: deceased (spectral reverberation)
 tags:
   - character
@@ -38,6 +38,7 @@ He proclaims himself the **"President of the Dead"** within the "swirling vortex
 | Episode | Notes |
 |---|---|
 | [[episodes/2026-07-16|2026-07-16]] | Lincoln referenced twice: Case interrupts chat to impersonate him with a high-pitched voice, and Rick jokes he is the closest thing to Abraham Lincoln on the stream. |
+| [[episodes/2026-04-27|2026-04-27]] | Guest Correspondent. |
 
 ## Notable Quotes
 

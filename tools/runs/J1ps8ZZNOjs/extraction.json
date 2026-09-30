@@ -1,0 +1,229 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "26:47",
+      "canonical_segment": "News",
+      "title": "Monday News Desk & Presidential Assassination Attempt Breakdown",
+      "notes": "Pepito delivers cold open; Case Blackwell anchors solo news desk covering weekend attempted White House shooting, shooter manifesto, and Trump's 60 Minutes interview denial of pedophile/rapist allegations; Abraham Lincoln summoned as guest correspondent to discuss assassination history and afterlife in Blade club."
+    },
+    {
+      "start": "52:47",
+      "end": "1:03:54",
+      "canonical_segment": "Conspiracies",
+      "title": "Guy Redacted Investigates the Hufflepuff Vape Conspiracy",
+      "notes": "Guy Redacted analyzes viral UK vape shop footage featuring 'magical vape' with calculator screen; presents list of luxury vape mods including $2,500 Geppetto Elite V2 and near-million-dollar C3PO Star Wars vape; declares war on comedy skits hiding truth."
+    },
+    {
+      "start": "1:03:54",
+      "end": "1:21:04",
+      "canonical_segment": "AI Rooney",
+      "title": "AI Rooney Complaint Synthesis Stress Test",
+      "notes": "Case activates AI Rooney to process viewer complaints; Rooney generates surreal rants about health insurance, Spin City, nipple milk, Crash Bandicoot, secret families, and office whiskey dog-bowl rituals; Hype Train briefly interrupts; segment ends with Case threatening to cancel plans."
+    },
+    {
+      "start": "1:21:43",
+      "end": "1:39:04",
+      "canonical_segment": "How To with Jeb",
+      "title": "Loon Calls, Fake Sneezes, and Dressing for Your Square Shape",
+      "notes": "Jeb Nogget and his deceased father (trapped in wood) present barefoot bushcraft loon call tutorial, Kate's fake sneeze tutorial, and 1980s fashion video on dressing for body shapes; Jeb's Dad demands return to Blade rave; Jeb reveals cooking stream goal met."
+    },
+    {
+      "start": "1:39:39",
+      "end": "1:46:37",
+      "canonical_segment": "News",
+      "title": "Interview with LA Ozempic Case Blackwell",
+      "notes": "Case interviews alternate-dimension counterpart who claims success as spokesperson for 'Lucy Bottom Poop Drug' (weekly injectable for digestion) and dating a Sexy Bush Model from Bad Bunny's Super Bowl halftime show; Case cuts off the bit."
+    },
+    {
+      "start": "1:46:37",
+      "end": "2:01:16",
+      "canonical_segment": "DJ Newsic",
+      "title": "Frogman Musical Finale & Loveland Cryptid Bill",
+      "notes": "DJ Newsic airs WCPO clip on Ohio bill to make Loveland Frogman state cryptid; Ben Hooper Weekend Odds and Ends segment on oil-rig stowaway bunnies; Frogman appears live on roof for frog-type beat freestyle; stream ends with frog raid on tea latte."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "Anchor",
+      "aliases": [
+        "Case"
+      ],
+      "notes": "Anchored solo news desk, summoned Abraham Lincoln, hosted AI Rooney stress test, interviewed alternate-dimension Ozempic self.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "Executive Producer",
+      "aliases": [
+        "Pepito the Dog",
+        "Peptron 3000"
+      ],
+      "notes": "Executive Producer. Delivered live cold open and countdown from dog producer role.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "In-Studio Contributor",
+      "aliases": [
+        "Kendall",
+        "Kendelle McDonald",
+        "Candy Lane"
+      ],
+      "notes": "In-Studio Contributor. Walked through studio wearing Don Quixote shirt, prompting theme song and discussion of Japanese discount store chain.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Abraham Lincoln",
+      "role": "Guest Correspondent",
+      "aliases": [
+        "Abram Lincoln"
+      ],
+      "notes": "Guest Correspondent. Summoned as spectral correspondent; debated assassination quality, revealed afterlife is Blade club, wrestled with Mary Todd references.",
+      "canonical_name": "Abraham Lincoln",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Guy Redacted",
+      "role": "Conspiracy Correspondent",
+      "aliases": [
+        "Redacted"
+      ],
+      "notes": "Conspiracy Correspondent. Presented Hufflepuff vape conspiracy, luxury vape market exposé, and anti-comedy manifesto.",
+      "canonical_name": "Guy Redacted",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "AI Rooney",
+      "role": "Automated Grievance Synthesizer",
+      "aliases": [],
+      "notes": "Automated Grievance Synthesizer. Processed ten viewer complaints into surreal monologues referencing Medicare Part D, Spin City, and office dog-bowl whiskey rituals.",
+      "canonical_name": "AI Rooney",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "Musical Interruption",
+      "aliases": [
+        "Hyper Train"
+      ],
+      "notes": "Musical Interruption. Briefly derailed AI Rooney segment with freestyle rap before being muted.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "Instructional Host",
+      "aliases": [
+        "Jeb",
+        "Jeb Noggin",
+        "Fake Jeb",
+        "Skin Suit Jeb"
+      ],
+      "notes": "Instructional Host. Hosted How To with Jeb alongside deceased father; demonstrated loon call failure, fake sneeze, and fashion advice for square shapes.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb's Dad",
+      "role": "Co-Host (Deceased)",
+      "aliases": [],
+      "notes": "Co-Host (Deceased). Spirit trapped in wooden board; bickered with Jeb, demanded return to Blade rave afterlife, provided horror beat for fake sneeze.",
+      "canonical_name": "Jeb's Dad",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "LA Ozempic Case Blackwell",
+      "role": "Alternate-Dimension Correspondent",
+      "aliases": [],
+      "notes": "Alternate-Dimension Correspondent. Claimed to be successful Ozempic spokesperson for 'Lucy Bottom Poop Drug' and dating a Sexy Bush Model from Bad Bunny halftime show.",
+      "canonical_name": "LA Ozempic Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "role": "Musical Finale Host",
+      "aliases": [
+        "Newsic",
+        "The Newsic Guy"
+      ],
+      "notes": "Musical Finale Host. Closed broadcast with Loveland Frogman cryptid bill coverage, Ben Hooper bunny rescue clip, and live Frogman freestyle on roof.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Frogman",
+      "role": "Musical Guest / Cryptid",
+      "aliases": [
+        "Loveland Frogman"
+      ],
+      "notes": "Musical Guest / Cryptid. Appeared on roof for frog-type beat freestyle; claimed green translucent skin and hydrant communication.",
+      "canonical_name": "Frogman",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell confirms he is 39 years old during age discussion.",
+      "timestamp": "[17:44]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell references a wife (likely Kendelle) when stating AI Rooney nearly caused her to 're-divorce' him.",
+      "timestamp": "[1:04:48]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "Jeb Nogget achieved his cooking stream goal.",
+      "timestamp": "[1:32:35]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb's Dad",
+      "fact": "Jeb's Dad's spirit remains trapped in the wooden board and desires to return to the 'Blade rave in the sky' afterlife.",
+      "timestamp": "[1:22:06]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News covered the chaotic weekend attempted assassination at the White House Correspondents' Dinner, featuring a nude shooter's ChatGPT-style manifesto and Trump's combative 60 Minutes denial. The broadcast spiraled through a Guy Redacted vape conspiracy deep-dive, an AI Rooney complaint synthesis meltdown, Jeb Nogget's instructional failures with his deceased father, and an interview with a suspiciously smooth alternate-dimension Case Blackwell. The episode concluded with DJ Newsic's musical tribute to the Loveland Frogman's pending Ohio state cryptid designation and a live roof freestyle from the cryptid himself.",
+  "_meta": {
+    "vod_id": "J1ps8ZZNOjs",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 107081,
+    "approx_prompt_tokens": 26770,
+    "transcript_lines": 293
+  }
+}

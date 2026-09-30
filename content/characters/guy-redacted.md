@@ -23,6 +23,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-04-27|2026-04-27]] | Conspiracy Correspondent. |
 | [[episodes/2025-04-18|2025-04-18]] | Returned from censorship to present the Filipino Jesus crucifixion reenactment as a conspiracy of competitive faith. |
 | [[episodes/2025-03-25|2025-03-25]] | conspiracy analyst. |
 | [[episodes/2025-03-17|2025-03-17]] | conspiracy correspondent. |
