@@ -452,3 +452,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[46:52]** ([[episodes/2026-03-17|2026-03-17]]): Wearing yellow 'piss jacket' to protest the removal of snakes from Ireland [46:52].
 - **[[59:55]]** ([[episodes/2026-03-19|2026-03-19]]): Claims to wake up some nights encased in a single massive scab cocoon, which is why he no longer shares a bed with his wife.
 - **[[59:32]]** ([[episodes/2026-03-19|2026-03-19]]): Says he does not control the 'health strength' from his weighted-log conditioning and still suffers unexplained bruises.
+- **[]** ([[episodes/2025-10-27|2025-10-27]]): Crum's new catchphrases: 'crumb shit' and 'hellcrum' [2:14:33]

@@ -55,13 +55,14 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2026-01-06|2026-01-06]] | news stowaway. |
 | [[episodes/2025-12-24|2025-12-24]] | news stowaway. |
 | [[episodes/2025-11-27|2025-11-27]] | news stowaway. |
-| [[episodes/2025-10-04|2025-10-04]] | news stowaway. |
+| [[episodes/2025-10-27|2025-10-27]] | news stowaway. |
 
 <details>
-<summary>Earlier appearances (76)</summary>
+<summary>Earlier appearances (77)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-10-04|2025-10-04]] | news stowaway. |
 | [[episodes/2025-09-21|2025-09-21]] | news stowaway. |
 | [[episodes/2025-09-11|2025-09-11]] | news stowaway. |
 | [[episodes/2025-09-10|2025-09-10]] | news stowaway. |
@@ -189,3 +190,4 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 - **[]** ([[episodes/2025-10-04|2025-10-04]]): Claims cosmic wall-being status: 'I'm a wall of fortitude as a person and if you break a wall you can rebuild it.' [46:34]
 - **[]** ([[episodes/2026-01-21|2026-01-21]]): Ate cement, defecated cement, and became stuck to his chair [36:37].
 - **[2:09:16]** ([[episodes/2026-03-17|2026-03-17]]): Claims to eat munitions for sustenance: 'cheap drone and a bunch of multi-million dollar missiles' [2:09:16].
+- **[]** ([[episodes/2025-10-27|2025-10-27]]): Peter Gibbon claims he exists in a 'multi-dimensional kaleidoscope' beyond the studio walls [2:22:28]

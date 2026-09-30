@@ -1,0 +1,197 @@
+{
+  "segments": [
+    {
+      "start": "00:10",
+      "end": "30:00",
+      "canonical_segment": "News",
+      "title": "Cold Open & Egg Stream",
+      "notes": "Pepito delivers sign-on as 'Papita'; Case and Kendall eat steamed eggs, read subscriptions, discuss bowel schedules, and watch Choro King poop-juice videos."
+    },
+    {
+      "start": "30:00",
+      "end": "01:01:00",
+      "canonical_segment": "News",
+      "title": "Trump Asia Trip & Dementia Test",
+      "notes": "Case and Rick cover Trump's Japan visit, F-150 trade pitch, third-term teasing, and the Montreal Cognitive Assessment; Case attempts the test on air."
+    },
+    {
+      "start": "01:02:00",
+      "end": "01:38:00",
+      "canonical_segment": "Amongst the Web",
+      "title": "Internet Video Review: Homesar, Pussy Town, Iron Snail, Disney, Trump Impression, Floating",
+      "notes": "Case and Rick (as Chad) rate viewer submissions including Homestar Runner's Homesar, a town named Pussy, scaly-foot gastropod, Disney cruise Gaston funeral, ski-mask drug dealer, Jeb's wood-flavored bread, Trump impression tutorial, and levitation trick."
+    },
+    {
+      "start": "01:23:23",
+      "end": "01:28:10",
+      "canonical_segment": "How To with Jeb",
+      "title": "Cherry Wood Milk Bread & Jelly",
+      "notes": "Jeb and Jeb's Dad cold-smoke flour, infuse milk and butter with cherry wood, bake milk bread, make cherry wood jelly, and turn a cherry wood plate."
+    },
+    {
+      "start": "01:39:08",
+      "end": "02:05:00",
+      "canonical_segment": "News",
+      "title": "Chat News with Jeff Ripple",
+      "notes": "Jeff Ripple reads viewer-submitted stories: dog finds missing woman, woman missing 60 years refuses return, deaf woman hit by plane, Telegram CEO offers to buy stolen Louvre jewels, Crash Bandicoot Netflix series, Halloween candy roundup, 3D-printed prosthetic face, Overwatch 2 Ramattra penis skin, Chapman University fear survey."
+    },
+    {
+      "start": "02:05:00",
+      "end": "02:17:00",
+      "canonical_segment": "Munch & Crum",
+      "title": "Chocolate Chip vs Blueberry Pancakes",
+      "notes": "Munch and Crum debate pancake toppings; Crum coins 'crumb shit' and 'hellcrum', references comfortable wooden chair for 'round stinky naps'."
+    },
+    {
+      "start": "02:17:00",
+      "end": "02:25:00",
+      "canonical_segment": "News",
+      "title": "Peter Gibbon's 3D-Printed Face Expert",
+      "notes": "Peter Gibbon introduces Mark, a paper-face enthusiast claiming 3D-printed face expertise; Case dismisses it as paper cutouts; Peter defends Mark."
+    },
+    {
+      "start": "02:25:00",
+      "end": "02:38:28",
+      "canonical_segment": "DJ Newsic",
+      "title": "Facial Circumcision Song & Raid",
+      "notes": "Case as DJ Newsic performs auto-tuned song about biohacker Dave Asprey's 'facial circumcision', shouts out chatters, raids Ricky Peacock."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored broadcast, rebuilt OBS scene tree on Friday, attempted dementia test live, hosted Amongst the Web and DJ Newsic segments.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open as 'Papita', managed subscription readings with Kendall.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Made steamed eggs for Case, read subscription names, revealed bridesmaid dress for upcoming wedding.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "recurring",
+      "notes": "recurring. Co-hosted Amongst the Web as 'Chad', debated dementia test difficulty, rated internet videos.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "recurring",
+      "notes": "recurring. Presented cherry wood-smoked milk bread and jelly in How To with Jeb segment alongside Jeb's Dad.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "recurring",
+      "notes": "recurring. Delivered Chat News segment reading viewer-submitted stories including 3D-printed face and Overwatch penis skin.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "recurring",
+      "notes": "recurring. Debated Crum on chocolate chip vs blueberry pancakes, played Big Bang Theory theme as debate music.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "recurring",
+      "notes": "recurring. Debated Munch on pancakes, coined 'crumb shit' and 'hellcrum', mentioned comfortable wooden chair for naps.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Interrupted broadcast to introduce paper-face 'expert' Mark, claimed multi-dimensional kaleidoscope existence.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Crum references 'hellcrum' and 'crumb shit' during Munch & Crum pancake debate, suggesting lingering post-punch persona shifts.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case rebuilt OBS from 100+ scenes to ~10 using Streamer Bot on Friday 2025-10-24, breaking the stream for hours [27:47]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Case's both parents had dementia; father took formal cognitive tests, mother diagnosed clinically [42:21]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Kendelle",
+      "fact": "Kendelle is a bridesmaid in an upcoming wedding (dress revealed on stream) [1:49:46]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Crum",
+      "fact": "Crum's new catchphrases: 'crumb shit' and 'hellcrum' [2:14:33]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "Peter Gibbon",
+      "fact": "Peter Gibbon claims he exists in a 'multi-dimensional kaleidoscope' beyond the studio walls [2:22:28]",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "",
+      "entity": "",
+      "fact": "Dave Asprey (biohacker) underwent 'facial circumcision' removing bath-towel-worth of loose facial skin [2:30:29]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returned from a Friday OBS overhaul to anchor a chaotic broadcast featuring steamed eggs, a live dementia test, internet video reviews including Jeb's cherry-wood bread, Jeff Ripple's chat-news roundup with a 3D-printed prosthetic face and Overwatch 2's Ramattra penis skin, a Munch & Crum pancake debate that birthed 'crumb shit', Peter Gibbon's paper-face expert Mark, and a DJ Newsic finale singing about biohacker Dave Asprey's facial circumcision before raiding Ricky Peacock.",
+  "_meta": {
+    "vod_id": "FsxuzX7kiUY",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 128878,
+    "approx_prompt_tokens": 32219,
+    "transcript_lines": 354
+  }
+}

@@ -128,6 +128,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2025-10-04|2025-10-04]] | [2025-10-04] Crum references recent death and hell trip during Beyblade match; Munch mocks 'mental oopsie daisy' memory lapse. |
 | [[../episodes/2025-10-06|2025-10-06]] [01:24:36] | [01:24:36] Case's 'level up' remark and wall threat echo the resolved Crum Dick Punch / Join the Wall saga's RPG scaffolding. |
 | [[../episodes/2025-10-09|2025-10-09]] [1:52:27] | [1:52:27] Crum references the mechanical gorilla creditor: 'That gorilla sure is the kind of Hairy I like' — post-resolution callback. |
+| [[../episodes/2025-10-27|2025-10-27]] | Crum references 'hellcrum' and 'crumb shit' during Munch & Crum pancake debate, suggesting lingering post-punch persona shifts. |
 | [[../episodes/2025-11-03|2025-11-03]] | Munch references Crum's wife leaving him for Jizbo after Crum died and went to hell; Crum denies both events. |
 | [[../episodes/2025-11-18|2025-11-18]] [1:30:13] | [1:30:13] Munch threatens to contact gorilla over Crum's unresolved gambling debt during moisturizer debate. |
 | [[../episodes/2025-11-25|2025-11-25]] [02:12:15] | [02:12:15] Crum references gorilla execution: 'I will try to get the gorilla back. Be in the gorilla or chill now. There's no way that's possible. He wants to murder you.' |
