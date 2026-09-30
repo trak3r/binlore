@@ -242,3 +242,5 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[10:51]** ([[episodes/2026-04-17|2026-04-17]]): Purchased a $90 toilet from Lowe's for egg-dying content after Kendelle prohibited use of household toilets. [10:51]
 - **[34:37]** ([[episodes/2026-04-17|2026-04-17]]): Cracked the toilet while unpacking; held together with white porcelain tape. [34:37]
 - **[21:43]** ([[episodes/2026-04-17|2026-04-17]]): Running a clandestine TikTok/YouTube experiment: posting egg-dying videos from a zero-follower account to force a viral hit without revealing the channel. [21:43]
+- **[23:39]** ([[episodes/2026-04-22|2026-04-22]]): Case Blackwell is allergic to bread (not gluten) — causes full-body skin color change resembling an insensitive face.
+- **[22:54]** ([[episodes/2026-04-22|2026-04-22]]): Case Blackwell's 'smooth face' becomes a running descriptor during Darfus bit.

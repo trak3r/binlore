@@ -42,6 +42,7 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 | [[episodes/2026-06-05|2026-06-05]] | Cyborg commentator hosting the AI Rooney grievance machine segment, known for escalating rants and audience-focused criticism. |
 | [[episodes/2026-06-03|2026-06-03]] | Proprietary cyborg commentator (Andy Rooney homage). Delivers viewer complaints via !rr. Suffers repeated 'brain empty' failures, violates age guardrails (references 19-year-old), produces incoherent sexualized rants. Case orders full rebuild. |
 | [[episodes/2026-05-29|2026-05-29]] | Retired cyborg commentator delivering grievance rants. |
+| [[episodes/2026-04-22|2026-04-22]] | cyborg grievance commentator. |
 | [[episodes/2026-03-25|2026-03-25]] | cyborg commentator. |
 | [[episodes/2026-03-24|2026-03-24]] | cyborg commentator. |
 | [[episodes/2026-03-17|2026-03-17]] | cyborg commentator. |
@@ -51,13 +52,13 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 | [[episodes/2025-05-05|2025-05-05]] | cyborg commentator. |
 | [[episodes/2025-04-18|2025-04-18]] | Rebooted with exposed internal core to deliver Andy Rooney-style grievances on hard soup, airline food, and pizza crust semantics. |
 | [[episodes/2025-01-31|2025-01-31]] | cyborg commentator. |
-| [[episodes/2024-08-22|2024-08-22]] | cyborg commentator. |
 
 <details>
-<summary>Earlier appearances (3)</summary>
+<summary>Earlier appearances (4)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-08-22|2024-08-22]] | cyborg commentator. |
 | [[episodes/2024-05-10|2024-05-10]] | AI commentator. |
 | [[episodes/2024-01-17|2024-01-17]] | cyborg commentator. |
 | [[episodes/2023-12-12|2023-12-12]] | AI grievance commentator. |

@@ -49,6 +49,7 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 | [[episodes/2026-06-15|2026-06-15]] | Synthetic AI co-host, assists in science investigation. |
 | [[episodes/2026-06-05|2026-06-05]] | Synthetic neural network co-host operating from studio monitors, providing data-driven commentary on AI topics. |
 | [[episodes/2026-05-26|2026-05-26]] | Synthetic neural network co-host of Chet Guy the Science Eyes. Provides real-time data analysis, translates foreign medical literature, and assists Chet with technical queries. Operates simultaneously with Chet on screen. |
+| [[episodes/2026-04-22|2026-04-22]] | neural co-host. |
 | [[episodes/2026-02-10|2026-02-10]] | science analyst. |
 | [[episodes/2026-01-24|2026-01-24]] | neural co-host. |
 | [[episodes/2025-10-13|2025-10-13]] | analytical co-host. |
@@ -61,13 +62,13 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 | [[episodes/2024-10-15|2024-10-15]] | analytical co-host. |
 | [[episodes/2024-10-10|2024-10-10]] | analytical co-host. |
 | [[episodes/2024-10-03|2024-10-03]] | analytical co-host. |
-| [[episodes/2024-08-07|2024-08-07]] | neural co-host. |
 
 <details>
-<summary>Earlier appearances (3)</summary>
+<summary>Earlier appearances (4)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-08-07|2024-08-07]] | neural co-host. |
 | [[episodes/2024-06-05|2024-06-05]] | analytical co-host. |
 | [[episodes/2024-05-21|2024-05-21]] | analytical co-host. |
 | [[episodes/2024-05-03|2024-05-03]] | neural co-host. |
