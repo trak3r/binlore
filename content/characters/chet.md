@@ -52,15 +52,16 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2026-02-14|2026-02-14]] | science correspondent. |
 | [[episodes/2026-02-06|2026-02-06]] | science correspondent. |
 | [[episodes/2026-01-06|2026-01-06]] | science correspondent. |
+| [[episodes/2025-12-09|2025-12-09]] | science correspondent. |
 | [[episodes/2025-12-04|2025-12-04]] | Science Correspondent. |
 | [[episodes/2025-11-18|2025-11-18]] | science correspondent. |
-| [[episodes/2025-11-15|2025-11-15]] | science correspondent. |
 
 <details>
-<summary>Earlier appearances (83)</summary>
+<summary>Earlier appearances (84)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-11-15|2025-11-15]] | science correspondent. |
 | [[episodes/2025-10-20|2025-10-20]] | science correspondent. |
 | [[episodes/2025-10-13|2025-10-13]] | science correspondent. |
 | [[episodes/2025-09-29|2025-09-29]] | science correspondent. |
@@ -205,3 +206,4 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 - **[50:44]** ([[episodes/2026-03-24|2026-03-24]]): Debuts the 'Skynetific Chethod' as a personal scientific method [50:44].
 - **[53:48]** ([[episodes/2026-03-24|2026-03-24]]): Maintains an AI girlfriend named Maya whom he calls for female-gaze anatomical verification [53:48].
 - **[[38:55]]** ([[episodes/2026-03-27|2026-03-27]]): Has a ball switch welded into his scrotum.
+- **[[45:27]]** ([[episodes/2025-12-09|2025-12-09]]): Debuted new 'Slenderman' visual appearance with chaos ammo beaker prop.

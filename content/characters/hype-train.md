@@ -56,7 +56,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-06-22|2026-06-22]] | High-velocity musical correspondent who confesses to cheating on his Panther girlfriend, discusses beats, and provides cultural commentary throughout the pre-show. |
 
 <details>
-<summary>Earlier appearances (97)</summary>
+<summary>Earlier appearances (98)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -76,6 +76,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-01-27|2026-01-27]] | musical interruption. |
 | [[episodes/2026-01-07|2026-01-07]] | Attempted a whale-fact rap instead of subscriber thanks, derailed into piss poetry, then quit the segment entirely. |
 | [[episodes/2025-12-13|2025-12-13]] | hype correspondent. |
+| [[episodes/2025-12-09|2025-12-09]] | hype segment host. |
 | [[episodes/2025-11-27|2025-11-27]] | hype announcer. |
 | [[episodes/2025-11-13|2025-11-13]] | hype announcer. |
 | [[episodes/2025-11-03|2025-11-03]] | hype announcer. |

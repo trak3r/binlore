@@ -1,0 +1,191 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "01:58",
+      "canonical_segment": "News",
+      "title": "Pepito Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on as a beardless Case with a wig, identifying as the dog producer."
+    },
+    {
+      "start": "08:06",
+      "end": "17:57",
+      "canonical_segment": "News",
+      "title": "Chat News with Jeff Ripple",
+      "notes": "Case and Jeff Ripple open with chat-submitted headlines including Pete Hegseth travel budget withholding, Trump Venezuela campaign, and GameStop trade-anything day oddities."
+    },
+    {
+      "start": "17:57",
+      "end": "27:42",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Subscriber Freestyle",
+      "notes": "Hype Train acknowledges 37-month sub Exterminator and other supporters while delivering a slime-themed freestyle rap about sheets, volcanoes, and stuntman slime."
+    },
+    {
+      "start": "28:02",
+      "end": "45:04",
+      "canonical_segment": "News",
+      "title": "News Continuation: Trump Shoe Story & Robot Videos",
+      "notes": "JD Vance recounts Trump derailing Oval Office meeting with shoe-size penis joke; Chinese humanoid robot stunt videos debated for CGI vs. reality."
+    },
+    {
+      "start": "45:04",
+      "end": "56:35",
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "title": "Chet & ChetAI: Robot Proof & Smart Toilet Privacy",
+      "notes": "Chet interrupts with new Slenderman look; ChetAI analyzes Kohler Dakota smart toilet camera TLS encryption flaw exposing user data."
+    },
+    {
+      "start": "56:35",
+      "end": "01:06:25",
+      "canonical_segment": "News",
+      "title": "News Wrap: Netflix-Paramount & Flying Swords",
+      "notes": "Netflix-Warner deal greased with Trump; Paramount Skydance counter-bid backed by Jared Kushner; Chinese man demonstrates flying sword swarm."
+    },
+    {
+      "start": "01:06:25",
+      "end": "01:24:15",
+      "canonical_segment": "News",
+      "title": "Live AI Haircut Session for Kendall",
+      "notes": "Case uses nano-banana (Gemini) to generate bob haircut variations for Kendall via text request, iterating through blonde/kangaroo prompts."
+    },
+    {
+      "start": "01:24:15",
+      "end": "01:30:02",
+      "canonical_segment": "News",
+      "title": "Final Headlines: Trump Wax Statue, Meta Metaverse, Bonnie Blue",
+      "notes": "Trump wax statue pulled from Texas museum after punching; Meta slashing Reality Labs budget 30%; OnlyFans model Bonnie Blue detained in Bali."
+    },
+    {
+      "start": "01:30:02",
+      "end": "01:43:04",
+      "canonical_segment": "Munch & Crum",
+      "title": "Baby Photo Debate: Crum vs. Munch",
+      "notes": "Crum presents alleged baby photo (suspected AI); Munch produces Library of Congress baby photo; chat votes Munch cuter; Crum called toilet baby."
+    },
+    {
+      "start": "01:43:26",
+      "end": "02:06:07",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web with Rick",
+      "notes": "Rick hosts viral video review: concrete watering murder, Halloween slapstick, Joe Hendry wrestling, Tesla Optimus faceplant, colonoscopy rap, art animation, C-section joke, sheep hat-flicking lore, local news filler."
+    },
+    {
+      "start": "02:06:07",
+      "end": "02:09:40",
+      "canonical_segment": "News",
+      "title": "Raid & Sign-Off",
+      "notes": "Case raids Miss Gina Darling; Grinch/Grunch stream announced for next week with safe-for-work green face; Pepito attempts MSNBC raid."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored Monday News Slop; ran live AI haircut segment for Kendall; has eye mole; planning Grinch stream next week.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosted chat news segment; read viewer submissions; traded barbs with Hype Train and Case.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype segment host",
+      "notes": "hype segment host. Delivered slime-themed freestyle rap during subscriber acknowledgments; demanded beat changes; claimed to be asleep with eyes open.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Interrupted broadcast with new Slenderman appearance; presented robot videos and Kohler smart toilet privacy flaw via ChetAI.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "AI co-host",
+      "notes": "AI co-host. Analyzed Kohler Dakota toilet camera encryption mischaracterization; noted training cutoff 2023; resisted subjective queries.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defended baby cuteness with suspected AI-generated photo; lost chat vote; called toilet baby and sewer shark by Munch.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Produced Library of Congress baby photo; won chat vote for cuter baby; mocked Crum's lineage and Belulia.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Remote participant via text; requested live AI bob haircut preview; out of town during broadcast.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Has a visible eye mole noted on air during Netflix CEO Ted Sarandos discussion.",
+      "timestamp": "[58:11]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Currently out of town; requested live AI haircut simulation for bob style.",
+      "timestamp": "[01:06:49]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Planning Grinch/Grunch stream for next week (week of Dec 15); will use safe-for-work green face paint after prior face-paint incident.",
+      "timestamp": "[02:07:58]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chet (Chet Manscape)",
+      "fact": "Debuted new 'Slenderman' visual appearance with chaos ammo beaker prop.",
+      "timestamp": "[45:27]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened with Pepito's canine sign-on before Case Blackwell and Jeff Ripple tackled chat news including Pete Hegseth's travel budget leverage and JD Vance's Trump shoe-size penis anecdote. Hype Train derailed acknowledgments into a slime-sheet freestyle, then Chet and ChetAI commandeered the broadcast for Chinese robot verification and a Kohler smart-toilet encryption exposé. Case spent 20 minutes live-prompting Gemini to generate bob haircut variants for remote girlfriend Kendelle. The Munch & Crum debate descended into AI baby-photo forensics, with chat crowning Munch cuter and dubbing Crum a toilet baby. Rick closed with a low-scoring Amongst the Web before raiding Miss Gina Darling and confirming next week's Grinch stream.",
+  "_meta": {
+    "vod_id": "AjGj71o20Cs",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 106288,
+    "approx_prompt_tokens": 26572,
+    "transcript_lines": 316
+  }
+}

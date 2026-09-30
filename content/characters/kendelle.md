@@ -57,7 +57,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-02-04|2026-02-04]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (184)</summary>
+<summary>Earlier appearances (185)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -66,6 +66,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-12-18|2025-12-18]] | in-studio contributor. |
 | [[episodes/2025-12-16|2025-12-16]] | in-studio contributor. |
 | [[episodes/2025-12-13|2025-12-13]] | in-studio contributor. |
+| [[episodes/2025-12-09|2025-12-09]] | in-studio contributor. |
 | [[episodes/2025-12-06|2025-12-06]] | in-studio contributor. |
 | [[episodes/2025-12-04|2025-12-04]] | In-Studio Contributor. |
 | [[episodes/2025-11-27|2025-11-27]] | in-studio contributor. |
@@ -337,3 +338,4 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 - **[[27:32]]** ([[episodes/2026-03-19|2026-03-19]]): Owns a dog she brings to the studio; the dog eats chips neatly off the floor.
 - **[55:54]** ([[episodes/2026-03-24|2026-03-24]]): Studio AC shuts off at 6 PM, forcing all staff to leave by 6:30 PM [55:54].
 - **[]** ([[episodes/2025-10-27|2025-10-27]]): Kendelle is a bridesmaid in an upcoming wedding (dress revealed on stream) [1:49:46]
+- **[[01:06:49]]** ([[episodes/2025-12-09|2025-12-09]]): Currently out of town; requested live AI haircut simulation for bob style.
