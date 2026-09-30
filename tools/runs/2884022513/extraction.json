@@ -1,0 +1,191 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "00:55",
+      "canonical_segment": "News",
+      "title": "Cold Open: Pepito Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on from Case's house, noting Munch remains a skeleton."
+    },
+    {
+      "start": "00:55",
+      "end": "13:26",
+      "canonical_segment": "News",
+      "title": "Casual Friday Housekeeping",
+      "notes": "Case discusses casual Friday attire, Chicago Sketch Fest appearance on October 4, upcoming travel, and channel point reward discounts."
+    },
+    {
+      "start": "13:26",
+      "end": "22:37",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Derailment: Grandma Piss Freestyle",
+      "notes": "Hype Train commandeers the broadcast for a freestyle rap about generational piss knowledge, thanks subscribers, and claims fusion with Kendall."
+    },
+    {
+      "start": "22:37",
+      "end": "40:49",
+      "canonical_segment": "News",
+      "title": "World News: Iran Deal & Trump-Xi Meeting",
+      "notes": "Case and Pepito cover Iran's proposal to reopen the Strait of Hormuz, Trump-Xi state visit optics, and Netanyahu's UN appearance."
+    },
+    {
+      "start": "40:49",
+      "end": "52:45",
+      "canonical_segment": "News",
+      "title": "Chat News: Viewer Submissions",
+      "notes": "Case reads viewer-submitted stories: Texas nursery fight club lawsuit, bestiality felony charge, shortest firefighter record, Wyoming profanity trial, and prehistoric penis evolution article."
+    },
+    {
+      "start": "52:45",
+      "end": "01:04:58",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Lindsey Clancy Debate",
+      "notes": "Skeleton Munch and Crum debate the Lindsey Clancy case with Kendelle intervening; Munch claims Lord of the Dead title and summonable penis."
+    },
+    {
+      "start": "01:04:58",
+      "end": "01:21:56",
+      "canonical_segment": "Amongst the Web",
+      "title": "Trailer Review: Madden, Fresh Meat, StarCraft",
+      "notes": "New correspondent John ('President mob John') and Chris join Case for trailer reactions; John challenges Brandon to a fight."
+    },
+    {
+      "start": "01:21:56",
+      "end": "01:25:27",
+      "canonical_segment": "News",
+      "title": "Wrap-Up & Raid",
+      "notes": "Case departs for Filipino cartoon movie, raids Doctor Diggity, and teases Monday ring-sizing secret stream with Kendall."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors abbreviated Friday broadcast, announces Chicago Sketch Fest appearance, manages Hype Train derailment and skeleton Munch debate.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold-open sign-on from Case's house, interrupts Hype Train segment, identifies Kendall in the room.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Derails broadcast with grandma-themed freestyle about piss, thanks subscribers, claims to be part-train fused with Kendall.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Returns as immortal talking skeleton after Crum Dick Punch incident, claims Lord of the Dead title and summonable penis.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debates Lindsey Clancy case against skeleton Munch, maintains gambling addict persona and anatomical resilience claims.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Appears in-studio during Hype Train segment, confirms engagement, dances on camera, sides with Lindsey Clancy.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "role": "guest correspondent",
+      "notes": "guest correspondent. Co-hosts trailer segment with John and Case, present during StarCraft and Madden trailer reactions.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Munch's skeleton state confirmed as permanent; Munch declares himself Lord of the Dead and demonstrates summonable penis [53:55, 57:48, 58:51].",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Munch is now permanently a skeleton and claims immortality",
+      "timestamp": "[53:55]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Munch declares himself 'Lord of the Dead'",
+      "timestamp": "[58:51]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Munch can summon a penis at will",
+      "timestamp": "[57:48]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case and Kendall engaged (reconfirmed)",
+      "timestamp": "[10:39]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case appearing at Chicago Sketch Fest October 4, 9pm",
+      "timestamp": "[11:09]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Channel point segment requests discounted to 1000 points",
+      "timestamp": "[14:33]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "New character John introduced as 'President mob John,' on parole",
+      "timestamp": "[01:07:54]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Pepito operates from Case's house during broadcast",
+      "timestamp": "[20:44]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell hosts a truncated Casual Friday broadcast from the BIN newsroom, interrupted by Hype Train's piss-obsessed freestyle and a Munch & Crum debate where skeleton Munch asserts his new immortal Lord of the Dead status. The hour closes with a trailer review segment featuring new correspondent John before Case departs for a Filipino animated film and raids Doctor Diggity.",
+  "_meta": {
+    "vod_id": "2884022513",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 79185,
+    "approx_prompt_tokens": 19796,
+    "transcript_lines": 204
+  }
+}

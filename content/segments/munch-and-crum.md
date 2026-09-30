@@ -227,6 +227,7 @@ Broadcast under the title **Munch & Crum**, the segment features rotating 3D net
 | [[episodes/2026-09-02|2026-09-02]] | 1:12:27 | The Penalty Dossier Debate: Munch and Crum present their platforms. Munch recites an audience-submitted dossier enumerating reasons Crum must face his scheduled Monday robotic gorilla groin punch. Crum responds by claiming rigorous physical training and "super strength in spits." |
 | [[episodes/2026-09-07|2026-09-07]] | 01:36:23 | The Climax: Any Last Words? & The Gorilla Punch Execution: Munch and Crum face off over 'Any Last Words?' ahead of the long-awaited gambling forfeit. Crum boasts of conditioning his groin with 45-pound logs. When the Rock-afire mechanical gorilla fires the punch, a catastrophic explosion vaporizes the gorilla and burns Munch into a talking skeleton, leaving Crum unharmed. |
 | [[episodes/2026-09-07|2026-09-07]] | 01:50:38 | Talking Skeleton Munch & Crayon Debate: Following the studio inferno, Munch embraces his skeletal form, boasts of superior bone structure, and debates Crum on Crayola vs. RoseArt. |
+| [[episodes/2026-09-25|2026-09-25]] | 52:45 | Munch & Crum: Lindsey Clancy Debate: Skeleton Munch and Crum debate the Lindsey Clancy case with Kendelle intervening; Munch claims Lord of the Dead title and summonable penis. |
 
 ## Related Coverage
 

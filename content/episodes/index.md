@@ -22,11 +22,11 @@ Complete stream archive tracked for *Barely Informed News*. Episodes are ingeste
     <div class="stat-label">Total Broadcast Lore</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">337</div>
+    <div class="stat-value">338</div>
     <div class="stat-label">Ingested & Extracted</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">45</div>
+    <div class="stat-value">44</div>
     <div class="stat-label">Pending Ingestion Backlog</div>
   </div>
 </div>
@@ -44,8 +44,8 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   <div class="filter-group">
     <select id="status-filter">
       <option value="all">All Statuses (382)</option>
-      <option value="ingested">Ingested Only (337)</option>
-      <option value="backlog">Backlog Only (45)</option>
+      <option value="ingested">Ingested Only (338)</option>
+      <option value="backlog">Backlog Only (44)</option>
     </select>
     <select id="page-size">
       <option value="25">25 per page</option>
@@ -70,7 +70,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   </thead>
   <tbody>
 <tr data-status="backlog" data-title="newsual mondays" data-date="2026-09-29" data-vod-id="2886808876"><td class="cell-date"><code>2026-09-29</code></td><td class="cell-title">Newsual Mondays</td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2886808876</code></td><td class="cell-dur">1h 40m</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2886808876" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a></td></tr>
-<tr data-status="backlog" data-title="quick friday news" data-date="2026-09-25" data-vod-id="2884022513"><td class="cell-date"><code>2026-09-25</code></td><td class="cell-title">Quick Friday NEWS</td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2884022513</code></td><td class="cell-dur">1h 25m</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2884022513" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a></td></tr>
+<tr data-status="ingested" data-title="quick friday news" data-date="2026-09-25" data-vod-id="2884022513"><td class="cell-date"><code>2026-09-25</code></td><td class="cell-title"><a href="./2026-09-25" class="internal"><strong>Quick Friday NEWS</strong></a></td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2884022513</code></td><td class="cell-dur">1h 25m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2884022513" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a></td></tr>
 <tr data-status="ingested" data-title="return of the news" data-date="2026-09-23" data-vod-id="2882337729"><td class="cell-date"><code>2026-09-23</code></td><td class="cell-title"><a href="./2026-09-23" class="internal"><strong>Return of the NEWS</strong></a></td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2882337729</code></td><td class="cell-dur">2h 15m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2882337729" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a></td></tr>
 <tr data-status="ingested" data-title="crum punch news" data-date="2026-09-07" data-vod-id="2868220752"><td class="cell-date"><code>2026-09-07</code></td><td class="cell-title"><a href="./2026-09-07" class="internal"><strong>Crum Punch News</strong></a></td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2868220752</code></td><td class="cell-dur">2h 17m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2868220752" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a></td></tr>
 <tr data-status="ingested" data-title="artificially general news" data-date="2026-09-04" data-vod-id="2865460780"><td class="cell-date"><code>2026-09-04</code></td><td class="cell-title"><a href="./2026-09-04" class="internal"><strong>Artificially General News</strong></a></td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2865460780</code></td><td class="cell-dur">1h 51m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2865460780" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a> <a href="https://www.youtube.com/watch?v=LqjPBi9lw_c" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>

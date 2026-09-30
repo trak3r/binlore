@@ -23,6 +23,7 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-09-25|2026-09-25]] | guest correspondent. |
 | [[episodes/2025-07-12|2025-07-12]] | parole officer / guest. |
 | [[episodes/2025-02-06|2025-02-06]] | in-studio contributor. |
 | [[episodes/2025-01-17|2025-01-17]] | field correspondent. |

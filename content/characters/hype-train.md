@@ -34,6 +34,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-09-25|2026-09-25]] | musical interruption. |
 | [[episodes/2026-09-07|2026-09-07]] | Intercepts the desk on a futuristic synthwave beat, delivering an impassioned freestyle about wearing denim jeans with his girls, Roman urine laundering, and proposed tombstone epitaphs. |
 | [[episodes/2026-09-04|2026-09-04]] | Hijacks the broadcast to argue that eggs lack pre-injected sauce, performs Dr. Seuss-style egg raps, acknowledges donors, and requests love ballads when viewers depart. |
 | [[episodes/2026-09-02|2026-09-02]] | Derails subscriber acknowledgments to promote *Piss Fruit Ninja*, commands a vaudeville rhythm, raps about his Panther partner, and details his crypto universe upbringing. |
@@ -53,13 +54,13 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-07-11|2026-07-11]] | High-velocity musical correspondent; performs a podcasting freestyle and executes an acapella sub goal shout-out. |
 | [[episodes/2026-06-29|2026-06-29]] | High-velocity cultural correspondent. Delivers an extended ice/piss freestyle rap, then reappears during Trip on the Streets as a park visitor hijacking the interview with spoken-word about 1972 Dulp and a DVD player. Mourns the late wrestler Ice Train. |
 | [[episodes/2026-06-27|2026-06-27]] | High-velocity musical and cultural correspondent. |
-| [[episodes/2026-06-22|2026-06-22]] | High-velocity musical correspondent who confesses to cheating on his Panther girlfriend, discusses beats, and provides cultural commentary throughout the pre-show. |
 
 <details>
-<summary>Earlier appearances (108)</summary>
+<summary>Earlier appearances (109)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-06-22|2026-06-22]] | High-velocity musical correspondent who confesses to cheating on his Panther girlfriend, discusses beats, and provides cultural commentary throughout the pre-show. |
 | [[episodes/2026-06-18|2026-06-18]] | Sentient locomotive correspondent. Advocates lawn oiling/urination/copulation regimen. Departs after two subs. Travels with panther companion. |
 | [[episodes/2026-06-15|2026-06-15]] | High-velocity musical correspondent, discusses aging and dinosaurs. |
 | [[episodes/2026-06-08|2026-06-08]] | Sentient locomotive correspondent. Delivers surreal piss-machete freestyle rap during pre-show. |

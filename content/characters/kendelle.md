@@ -35,6 +35,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-09-25|2026-09-25]] | in-studio contributor. |
 | [[episodes/2026-09-23|2026-09-23]] | in-studio contributor. |
 | [[episodes/2026-08-06|2026-08-06]] | In-studio contributor appearing intermittently. Debuts briefly before ghosting off-camera, later returns to announce she has already started playing *BigWog* without Blackwell. |
 | [[episodes/2026-08-04|2026-08-04]] | Referenced during the CM Punk stain investigation as the in-studio authority who would know the answer, but reported to be napping off-camera. Viewer demand for Kendelle-branded BIN merch is also noted. |
@@ -54,13 +55,13 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-04-17|2026-04-17]] | in-studio contributor. |
 | [[episodes/2026-04-15|2026-04-15]] | in-studio contributor. |
 | [[episodes/2026-04-14|2026-04-14]] | in-studio contributor. |
-| [[episodes/2026-04-11|2026-04-11]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (200)</summary>
+<summary>Earlier appearances (201)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-04-11|2026-04-11]] | in-studio contributor. |
 | [[episodes/2026-04-09|2026-04-09]] | in-studio contributor. |
 | [[episodes/2026-04-06|2026-04-06]] | in-studio contributor. |
 | [[episodes/2026-04-01|2026-04-01]] | in-studio contributor. |
