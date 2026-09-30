@@ -1,0 +1,124 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "07:53",
+      "end": "33:28",
+      "title": "Casual Friday Cold Open & Matt Tattoo Application",
+      "notes": "Case opens in sleeveless undershirt, applies large temporary Matt tattoo to upper arm over 10-minute process; Chet appears remotely at 19:07 showing matching tattoo."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "34:10",
+      "end": "01:09:33",
+      "title": "News Desk with Jeff Ripple",
+      "notes": "Jeff Ripple joins wearing his own Matt tattoo; coverage includes Trump Iran remarks, Japanese idol armpit-sniffing, Pokemon card thief at Best Buy, Montreal pothole vigilantes, South Africa AI policy written by AI, Armenian zebra/donkey controversy, and full reading of Palantir's 22-point manifesto."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "01:07:44",
+      "end": "01:09:33",
+      "title": "Maya AI Conversation & Blair Witch Reboot",
+      "notes": "Case questions Maya AI about being a nuclear weapon per Palantir manifesto; brief Blair Witch reboot mention; Crum lawsuit over stolen channel points referenced."
+    },
+    {
+      "canonical_segment": "AI Rooney",
+      "start": "01:14:03",
+      "end": "01:31:21",
+      "title": "AI Rooney Segment — Skin Failure & Complaints",
+      "notes": "Rooney's metal frame skin deteriorating; processes four chat complaints (zonkeys/Shoshinjo, mosquito bites/Spin City, Knights into Dreams draft deferment, Charlie Sheen Spin City replacement, hairy backs/stiletto boot) with escalating fetish tangents; Kendall arrives mid-segment and receives matching Matt tattoo at 01:30:15."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors Casual Friday broadcast; applies and wears large temporary Matt tattoo; proposes 100 Bart Simpson tattoo stream at 200-sub goal; reads Palantir manifesto; hosts glitchy AI Rooney segment.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold-open sign-on as 'Papita/Papito'; runs studio off-camera during tattoo application and news desk.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Joins news desk wearing Jeff Ripple-inspired Matt tattoo; trades barbs with Case; reads viewer reactions and co-anchors Palantir manifesto reading.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Brief remote appearance showing matching Matt tattoo; claims larger physique than Case.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Calls in at 01:12:38 requesting food; arrives in studio at 01:26:41 and receives matching Matt tattoo applied in seconds at 01:30:15.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "AI Rooney",
+      "role": "cyborg commentator",
+      "notes": "cyborg commentator. Proprietary model suffering skin-sloughing hardware failure; processes five chat complaints with increasing horny/ferret/hip-joint tangents before Kendall's arrival.",
+      "canonical_name": "AI Rooney",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Owns 10-pack of large temporary Matt tattoos; applied first to own upper arm at 00:18:04; proposes 100 Bart Simpson tattoo event stream at 200-sub milestone.",
+      "timestamp": "00:18:04",
+      "confidence": 0.7
+    },
+    {
+      "entity": "AI Rooney",
+      "fact": "Physical avatar deteriorating — skin shipments failing to keep pace with metal frame exposure; Case sewing skin back on between broadcasts.",
+      "timestamp": "01:18:22",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Received matching temporary Matt tattoo on forearm at 01:30:15; application completed in seconds using sponge method.",
+      "timestamp": "01:30:15",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Palantir",
+      "fact": "Published 22-point manifesto on X advocating Silicon Valley moral debt, AI weapons as new deterrence, universal national service, and culture-war positions; read in full on air.",
+      "timestamp": "00:53:55",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell hosts a Casual Friday broadcast from the BIN newsroom, applying a comically oversized temporary Matt tattoo to his arm before welcoming Jeff Ripple — also tattooed — for a news block covering Trump's Iran rhetoric, a Japanese idol's armpit-sniffing fan service, a Pokemon card heist at Best Buy, Montreal pothole vigilantes, South Africa's AI-written AI policy, and an Armenian zebra-or-donkey mystery. The centerpiece is a full reading of Palantir's 22-point manifesto framing AI as the new nuclear deterrent and demanding universal conscription. The show closes with a malfunctioning AI Rooney segment — its metal frame shedding skin — processing chat complaints that veer into ferret/hip-joint fetish territory, interrupted by Kendelle's arrival and her own rapid Matt tattoo application.",
+  "_meta": {
+    "vod_id": "R-IQkXacTG4",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 84947,
+    "approx_prompt_tokens": 21236,
+    "transcript_lines": 222
+  }
+}

@@ -246,3 +246,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[22:54]** ([[episodes/2026-04-22|2026-04-22]]): Case Blackwell's 'smooth face' becomes a running descriptor during Darfus bit.
 - **[[17:44]]** ([[episodes/2026-04-27|2026-04-27]]): Case Blackwell confirms he is 39 years old during age discussion.
 - **[[1:04:48]]** ([[episodes/2026-04-27|2026-04-27]]): Case Blackwell references a wife (likely Kendelle) when stating AI Rooney nearly caused her to 're-divorce' him.
+- **[00:18:04]** ([[episodes/2026-05-01|2026-05-01]]): Owns 10-pack of large temporary Matt tattoos; applied first to own upper arm at 00:18:04; proposes 100 Bart Simpson tattoo event stream at 200-sub milestone.
