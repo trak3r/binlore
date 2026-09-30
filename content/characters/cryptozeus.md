@@ -56,15 +56,16 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-06-08|2026-06-08]] | Resident gaming correspondent. Remote from bedroom; battles N64 emulation, mother's screaming, and Glover's inverted controls. |
 | [[episodes/2026-06-05|2026-06-05]] | Gaming and digital culture correspondent broadcasting remotely from his bedroom studio. |
 | [[episodes/2026-05-29|2026-05-29]] | Gaming correspondent playing Boogerman with mother interruptions. |
+| [[episodes/2026-04-14|2026-04-14]] | gaming correspondent. |
 | [[episodes/2026-04-11|2026-04-11]] | gaming correspondent. |
 | [[episodes/2026-03-27|2026-03-27]] | gaming correspondent. |
-| [[episodes/2026-03-25|2026-03-25]] | gaming correspondent. |
 
 <details>
-<summary>Earlier appearances (12)</summary>
+<summary>Earlier appearances (13)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-03-25|2026-03-25]] | gaming correspondent. |
 | [[episodes/2026-03-20|2026-03-20]] | gaming correspondent. |
 | [[episodes/2026-03-12|2026-03-12]] | call-in guest. |
 | [[episodes/2026-03-10|2026-03-10]] | gaming correspondent. |
@@ -135,3 +136,5 @@ See also: [[../segments/cryptozeus|CryptoZeu$ (Segment)]], [[characters/brandons
 - **[]** ([[episodes/2026-04-11|2026-04-11]]): Claims he made a bet with his placenta at birth to never shower [2:14:35].
 - **[]** ([[episodes/2026-04-11|2026-04-11]]): Has a 'blinking condition' where light and loud noises trigger involuntary blinking [2:24:48].
 - **[]** ([[episodes/2026-04-11|2026-04-11]]): Was homeschooled for two years due to a skin condition before leaving school entirely [2:28:14].
+- **[]** ([[episodes/2026-04-14|2026-04-14]]): Computer sourced from 'Markinson's Wet Ham Emporium' deli sponsorship, not Dell. [02:15:39]
+- **[]** ([[episodes/2026-04-14|2026-04-14]]): Mother yells through bedroom door about 'Pastor Joe' and repeatedly farts on door despite established boundary. [02:25:27]

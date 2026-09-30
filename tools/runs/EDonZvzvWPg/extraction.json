@@ -1,0 +1,212 @@
+{
+  "segments": [
+    {
+      "start": "00:06",
+      "end": "22:06",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Subscriber Freestyle & Butt Chip Beat",
+      "notes": "Pepito cold-opens; Hype Train arrives early, raps over trap beats about butt chips, thanks subscribers including Skymer (300 bits), Giggle Trash, Superbeast (39 months), and others; discusses Cerberus's YouTube Shorts algorithm as hellgate."
+    },
+    {
+      "start": "22:06",
+      "end": "49:43",
+      "canonical_segment": "News",
+      "title": "JD Vance Week-in-Review & Trump AI Doctor",
+      "notes": "Jeff Ripple joins; Case and Jeff recap JD Vance's failed Iran talks, Hungary trip for Orbán, Turning Point USA heckling; JD Vance appears as a caller for a 'daddy' roleplay bit; Trump posts AI image as Red Cross doctor with ghost physicians and plane-bird hybrid; chat discusses AI propaganda aesthetics."
+    },
+    {
+      "start": "49:43",
+      "end": "50:24",
+      "canonical_segment": "News",
+      "title": "Chat News & Viewer Comments",
+      "notes": "Rapid-fire chat comments: bagel betting, Noid pizza strategy, zebra stripe debate, Trump-Jesus image diversity, Pope beef, JD Vance Catholicism."
+    },
+    {
+      "start": "50:24",
+      "end": "01:03:06",
+      "canonical_segment": "Munch & Crum",
+      "title": "Pancakes vs Cheesecakes / Who Kills Babies Better",
+      "notes": "Two debates: Crum argues cheesecakes more disgraceful (cheese not cake), Munch defends pancakes; second debate 'Which grandpa hates kids more: Donnie or Joey?' — Munch argues Biden had healthier attitude toward child deaths, wins poll; Crum concedes."
+    },
+    {
+      "start": "01:03:06",
+      "end": "01:27:00",
+      "canonical_segment": "News",
+      "title": "Scrum Reads UPI Wire & Ben Hooper Tribute",
+      "notes": "Scrum reads Ben Hooper UPI Minute: wallaby escape at Sinclair College, mystery barge on Kalamazoo River, Michael Myers world record at PAX East, zebra re-escape, world's oldest grandfather; Case and Scrum gush over Ben Hooper."
+    },
+    {
+      "start": "01:12:48",
+      "end": "01:27:00",
+      "canonical_segment": "News",
+      "title": "AI Bubble & Sam Altman Firebombing",
+      "notes": "Case summarizes unread Fortune article: Daniel Moreno Gamma firebombs Sam Altman's gate, arrested at OpenAI HQ; Case rants on AI bubble, Anthropic/OpenAI IPO risks, Nvidia/AMD GPU pricing, RAM speculation, enterprise pivot."
+    },
+    {
+      "start": "01:27:00",
+      "end": "01:41:31",
+      "canonical_segment": "News",
+      "title": "Rapid-Fire Chat Stories",
+      "notes": "Bioluminescent fireworms mating ritual; cat stows away 70 miles in Walmart truck; Kohler Dakota smart toilet camera ($600); Guy Fieri meets Tate brothers; Euphoria S3 Sydney Sweeney baby/dog fetish scene discourse; Eric Swalwell resigns over sexual misconduct allegations; Fresno potential jumper resolved safely."
+    },
+    {
+      "start": "01:41:31",
+      "end": "01:50:09",
+      "canonical_segment": "News",
+      "title": "Scrum Rap Poll & Syringe Reuse HIV Story",
+      "notes": "Poll for 30-min Scrum rap session — chat votes no; Case reads headline: syringe reuse at Pakistan hospital infects 331 children with HIV; decides to defer rap to Friday."
+    },
+    {
+      "start": "01:50:09",
+      "end": "02:13:32",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Encircled: Case vs 30 Unpaid Interns (Jans)",
+      "notes": "Case faces 30 'Jan' interns demanding pay; each voted into incinerator chute; notable Jans: llama Jane (claims unpaid newspaper reading), sunflower gender-swap Jane (AI editor), Max (threatens Epstein files), John's assistant Max (London accent); Case defends unpaid model, reveals he spends sub revenue on $400 Poshmark jeans for Hollywood networking."
+    },
+    {
+      "start": "02:13:32",
+      "end": "02:48:36",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Brandon Plays Wordle & Connections",
+      "notes": "Brandon (CryptoZeu$) plays Wordle (starts with 'quilt', letter of day 'A', solves 'fable' then 'judge'); plays Connections (tennis terms, W-words, peppers, Tom Petty/last names); mom interrupts with door farts, Christian mysticism, VPN reminders; Hype Train donor alerts fire."
+    },
+    {
+      "start": "02:48:36",
+      "end": "02:53:58",
+      "canonical_segment": "News",
+      "title": "Zebra Encounter & Raid to Golden Boy",
+      "notes": "Zebra appears: declares all zebras are 'fucked up horses cursed by god'; Pepito's 'little guy' (chihuahua-sized) wanders on screen; Case raids Golden Boy playing 'Last Flag'."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored full broadcast; ran Encircled vs 30 unpaid interns; revealed sub revenue funds $400 designer jeans for Hollywood networking.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on; managed Hype Train arrival; revealed a trapped 'little guy' (chihuahua-sized) who does his bidding.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "recurring",
+      "notes": "recurring. Early arrival; freestyle rapped subscriber thanks over butt chip trap beats; declared himself ferryman of souls across River Styx.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Joined news desk for JD Vance recap; bantered with Case and JD Vance caller; read chat comments.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued cheesecakes more disgraceful than pancakes; conceded 'who kills babies better' debate to Munch after poll showed Donnie winner.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defended pancakes; won 'who kills babies better' debate arguing Biden had healthier attitude toward child deaths; claimed undefeated streak on child-murder debates.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Scrum",
+      "role": "chat news reader",
+      "notes": "chat news reader. Read Ben Hooper UPI wire stories; gushed over Hooper; read rapid-fire chat stories; polled for 30-min rap session (chat voted no).",
+      "canonical_name": "Scrum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Played Wordle (solved 'fable', 'judge') and Connections (tennis, W-words, peppers, Tom Petty); mom interrupted with door farts and Christian mysticism.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Brief walk-through; had to leave for Tuesday party in LA; Case tied her dress zipper.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Spends all subscription revenue (except Dunn/Mutual Aid donations) on $400 designer jeans from Poshmark for Hollywood party networking. [02:07:05]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "References unedited footage from a New Day video where his 'whole dick was out' — claims it's happened too many times to care. [02:08:16]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "States he is not in the Epstein files. [02:08:51]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Keeps a trapped 'little guy' (chihuahua-sized) who does his bidding; refers to him as 'my little guy' and 'I trapped him and now he's mine.' [02:50:58]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "Computer sourced from 'Markinson's Wet Ham Emporium' deli sponsorship, not Dell. [02:15:39]",
+      "timestamp": "",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "Mother yells through bedroom door about 'Pastor Joe' and repeatedly farts on door despite established boundary. [02:25:27]",
+      "timestamp": "",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchored a sprawling Tuesday broadcast featuring a Hype Train butt-chip freestyle, a JD Vance week-in-review with a caller roleplay bit, Trump's AI Red Cross doctor image, a Munch & Crum double-header (cheesecake disgrace and presidential child-death attitudes), Scrum's Ben Hooper UPI tribute, an AI bubble rant triggered by the Sam Altman firebombing, rapid-fire chat stories including a smart toilet camera and Euphoria discourse, a failed Scrum rap poll, an Encircled segment where Case incinerated 30 unpaid 'Jan' interns while defending his designer-jeans business model, and Brandon's Wordle/Connections session interrupted by his mother's door farts. The show closed with a philosophical zebra and a raid to Golden Boy.",
+  "_meta": {
+    "vod_id": "EDonZvzvWPg",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 135346,
+    "approx_prompt_tokens": 33836,
+    "transcript_lines": 342
+  }
+}

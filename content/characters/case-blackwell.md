@@ -236,3 +236,6 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[[02:07:58]]** ([[episodes/2025-12-09|2025-12-09]]): Planning Grinch/Grunch stream for next week (week of Dec 15); will use safe-for-work green face paint after prior face-paint incident.
 - **[43:02]** ([[episodes/2026-04-06|2026-04-06]]): Beard spontaneously disappears and regrows within seconds during broadcast.
 - **[]** ([[episodes/2026-04-11|2026-04-11]]): Scheduled to appear at a Newegg event Saturday with Kendelle; Case will be in background while Kendelle plays Valorant in an influencer match [2:42:50].
+- **[]** ([[episodes/2026-04-14|2026-04-14]]): Spends all subscription revenue (except Dunn/Mutual Aid donations) on $400 designer jeans from Poshmark for Hollywood party networking. [02:07:05]
+- **[]** ([[episodes/2026-04-14|2026-04-14]]): References unedited footage from a New Day video where his 'whole dick was out' — claims it's happened too many times to care. [02:08:16]
+- **[]** ([[episodes/2026-04-14|2026-04-14]]): States he is not in the Epstein files. [02:08:51]
