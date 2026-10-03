@@ -25,7 +25,7 @@ tags:
 
 Verne hosts deep-dive rabbit holes under banners like **Conspiracy Time**, **Conspiracy Corner**, and **Unvernished Truth** (a Verne pun). He treats Wayback Machine pages, ten-view YouTube uploads, and chat prompts as primary sources — secret fifth Ninja Turtles, Illuminati recruitment sites, Sydney Sweeney alien psy-ops, basement Dobby invasions, pet-euthanasia/fast-food DNA chains, and British-accent intelligence bias.
 
-After stretches of being "silenced" or in hiding (Mariana Trench kayfabe, call-ins as an ex-correspondent), he still resurfaces for grass-eating supreme conspiracies and related bits. [[guy-redacted|Guy Redacted]] later formalizes the same desk under Conspiracy Desk / Truth Zone branding.
+After stretches of being "silenced" or in hiding (including a Mariana Trench disappearance and call-ins as an ex-correspondent), he still resurfaces for grass-eating supreme conspiracies and related bits. [[guy-redacted|Guy Redacted]] later formalizes the same desk under Conspiracy Desk / Truth Zone branding.
 
 ## Signature bits
 

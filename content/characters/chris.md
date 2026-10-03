@@ -20,9 +20,7 @@ tags:
 
 ## Overview & Persona
 
-Chris is on-set because Trent's community-service broadcast requires adult supervision. He co-hosts trailer blocks, undercuts Trent's hot takes, debates alliteration and animation quality with Case, and occasionally becomes the bit — introducing himself on mic as Trent's parole officer who "has to be here."
-
-Kayfabe treats him as an authority figure stuck in a movie theater; production treats him as Trent's permanent sidekick for film segments.
+Chris is on-set because Trent's community-service broadcast requires adult supervision. He co-hosts trailer blocks, undercuts Trent's hot takes, debates alliteration and animation quality with Case, and introduces himself on mic as Trent's parole officer who "has to be here." He remains an authority figure stuck in a movie theater and Trent's permanent sidekick for film segments.
 
 ## Signature bits
 
@@ -62,7 +60,7 @@ Kayfabe treats him as an authority figure stuck in a movie theater; production t
 
 ## Open Questions
 
-- Whether Chris is employed by the court, the network, or both in kayfabe
+- Whether Chris is employed by the court, the network, or both
 - Full list of conditions on Trent's probation that require Chris on set
 
 See also: [[trent|Trent]], [[../segments/at-the-movies|At the Movies]], [[index|On-Air Talent & Newsroom Staff]].

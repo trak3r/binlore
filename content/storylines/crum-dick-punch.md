@@ -108,7 +108,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2025-06-17|2025-06-17]] | [2025-06-17] Execution confirmed for tomorrow (June 18) after Case confirms no Wednesday stream; Crum has two debate wins remaining to avoid the pneumatic gorilla groin strike; Munch rallies chat, Crum attempts 'positivity crucible' framing. |
 | [[../episodes/2025-06-26|2025-06-26]] [2:03:22] | [2:03:22] Munch (as Coach McGurk) references mechanical gorilla still missing; Crum's body parts reattached with hot glue after prison guard hose-down. |
 | [[../episodes/2025-07-10|2025-07-10]] | Munch admits he refused to contact the devil to resurrect Crum after the groin-punch execution; Crum returns with damaged vocal cords requiring Bart Simpson voice modulator [1:58:15, 2:05:13]. |
-| [[../episodes/2025-07-15|2025-07-15]] [34:50] | [34:50] Crum's death by gorilla punch treated as canon; Munch accused of murder; Case and Jeff Ripple debate kayfabe status. |
+| [[../episodes/2025-07-15|2025-07-15]] [34:50] | [34:50] Crum's death by gorilla punch treated as canon; Munch accused of murder; Case and Jeff Ripple debate whether the death "counts." |
 | [[../episodes/2025-07-19|2025-07-19]] [01:37:11] | [01:37:11] Munch debates Devil for Crum's soul in best-of-five; wins first debate on 'can Devil beat Munch' topic; Devil agrees to continue but demands two more wins. |
 | [[../episodes/2025-07-25|2025-07-25]] [42:49] | Rock-afire gorilla creditor visible in studio at [42:49]; Crum referenced as still recovering at [22:45]. |
 | [[../episodes/2025-07-26|2025-07-26]] [57:33] | [57:33] Devil confirms Crum is in hell, best-of-five debate series underway; Munch needs two more wins to free Crum. |

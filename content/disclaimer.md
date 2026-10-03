@@ -45,9 +45,9 @@ BIN Lore is operated on a 100% non-commercial, non-profit basis:
 
 ---
 
-## 4. Kayfabe & Satirical Context
+## 4. Immersive Satirical Context
 
-Content across BIN Lore is presented largely in *kayfabe* — maintaining the fictional reality of *Barely Informed News* as an authentic, high-stakes global news network. References to corporate mergers, international incidents, criminal allegations, scientific breakthroughs, or personal disputes documented on this wiki are entirely satirical and originate from live comedic broadcasts. They are not intended as statements of fact regarding real individuals or organizations.
+Content across BIN Lore is written as if *Barely Informed News* were an authentic, high-stakes global news network. References to corporate mergers, international incidents, criminal allegations, scientific breakthroughs, or personal disputes documented on this wiki are entirely satirical and originate from live comedic broadcasts. They are not intended as statements of fact regarding real individuals or organizations.
 
 ---
 

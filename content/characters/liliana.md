@@ -24,8 +24,8 @@ Liliana serves as an irreverent, sharp-witted desk partner opposite lead anchor 
 
 Liliana was absent from *Barely Informed News* for approximately a full year before making a surprise return to the desk on the [[../episodes/2026-08-14|August 14, 2026 broadcast]].
 
-- **On-Air Kayfabe:** Within the broadcast narrative, Liliana framed her prolonged absence as an extended, self-granted "vacation" or sabbatical. Upon returning, she playfully insisted that Case had called her pleading for her return because he was *"helpless without you."* She presented a slideshow of travel photos directly on the broadcast feed and repeatedly demanded retroactive paid time off (PTO) for her entire year away.
-- **Studio & Production Reality:** Behind the scenes, Liliana's lengthy absence occurred because Case had temporarily misplaced the digital facial tracking filter setup required to render her on-stream appearance. Once the filter was recovered and calibrated, her on-air persona was promptly restored to the newsroom desk.
+- **The Vacation Claim:** Liliana framed her prolonged absence as an extended, self-granted "vacation" or sabbatical. Upon returning, she playfully insisted that Case had called her pleading for her return because he was *"helpless without you."* She presented a slideshow of travel photos directly on the broadcast feed and repeatedly demanded retroactive paid time off (PTO) for her entire year away.
+- **Control-Room Mix-Up:** Network lore later held that her lengthy desk absence coincided with a period when Case had misplaced critical studio tracking equipment required for her on-air appearance; once the kit was recovered and calibrated, she was promptly restored to the newsroom desk.
 
 ## Broadcast Role & Dynamic
 
