@@ -15,6 +15,14 @@ Ongoing broadcast narratives, investigative threads, and high-stakes network arc
 | 2 | [[join-the-wall\|Join the Wall]] | resolved / concluded | Volleyball corpse denial → studio-wall hell quest → Crum resurrected (2025-09-21/25) |
 | 3 | [[crum-dick-punch\|Crum Dick Punch]] | resolved / concluded | Groin-punch sequel; Labor Day inferno vaporizes the gorilla and skeletons Munch (2026-09-07) |
 
+## Marathon & special arcs
+
+| Storyline | Status | Notes |
+|---|---|---|
+| [[rennerton\|Rennerton]] | dormant / lore callbacks | Chat-elected mayors; Case plays the city-builder as the winner (Oct 2024 *Return To Renerton* + Halloween sequel) |
+| [[deb-8\|Deb-8]] | resolved / concluded | Eight-hour debate marathon stretch goal → July 20, 2024 flagship telecast |
+| [[grunchmas\|Grunchmas]] | active / recurring annual | Annual Grunch Fucks List specials (2023–2025+) |
+
 ## Other arcs
 
 | Storyline | Status | Notes |
