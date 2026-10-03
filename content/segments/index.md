@@ -23,5 +23,7 @@ Signature programming and recurring newsroom desks across the *Barely Informed N
 | [[segments/the-jo-rogen-experience\|The Jo Rogen Experience]] | Studio Parody & Q&A | Dual-clone podcast parody featuring "the Joes" exploring biohacking, runic girth, and esoteric masculine rituals |
 | [[segments/dj-newsic\|DJ Newsic]] | Techno News Finale | High-energy musical broadcast ending streams with bright blue hair, heavy auto-tune, and fast-tracked news |
 | [[segments/dj-c4\|DJ C4]] | In-Studio Songwriting | Live musical production in DJC4 Studios composing correspondent themes and anthems with AI assistance |
+| [[segments/at-the-movies\|At the Movies]] | Film Trailer Desk | Trent (truant teen) and probation officer Chris screen trailers from a green-screen movie theater |
+| [[segments/conspiracy-desk\|Conspiracy Desk]] | Conspiracy Deep-Dive | Conspiracy Time / Truth Zone rabbit holes, later anchored by Guy Redacted |
 
 See also: [[../characters/index|On-Air Talent & Staff]], [[../storylines/index|Storylines]].

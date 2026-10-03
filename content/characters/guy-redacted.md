@@ -1,23 +1,25 @@
 ---
 title: Guy Redacted
 type: character
-aliases: []
+aliases:
+  - Conspiracy Guy Redacted
 first_seen: 2024-06-07
 status: recurring
 tags:
-- character
-- minor
+  - character
+  - correspondent
+  - conspiracy
 ---
 
 # Guy Redacted
 
 ![Guy Redacted on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/guy-redacted.jpg)
 
-**Guy Redacted** is a persona and contributor featured on *Barely Informed News*.
+**Guy Redacted** is the sunglasses-forward conspiracy correspondent of *Barely Informed News*, primary talent on the [[../segments/conspiracy-desk|Conspiracy Desk]].
 
-## Overview
+## Overview & Persona
 
-Auto-created minor character after appearing in 3 extracted episodes (threshold 3).
+Debuted when the network needed a dedicated "conspiracy guy" for Conspiracy Time / Truth Zone blocks after prior host [[clementine-verne|Clementine Verne]] was sidelined. Operates from an undisclosed location after periods of being "silenced," returns in Illuminati-hat fashion, and treats ten-view YouTube uploads as smoking-gun evidence (blueberry color scandals, Giza underground cities, Avril Lavigne replacement theory).
 
 ## Appearances
 
@@ -39,6 +41,9 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 - **[]** ([[episodes/2025-03-17|2025-03-17]]): Returned after period of being 'silenced' by disappearing hosts; operates from undisclosed location, wears Illuminati hat, investigates Avril Lavigne replacement conspiracy. [1:49:14]
 - **[01:26:27]** ([[episodes/2025-03-25|2025-03-25]]): Posits underground city beneath Giza pyramids contains alien DNA, metallic pillars aligning with Orion's belt, and dog-like alien builders (DeGalians).
 
-## Open questions
+## Open Questions
 
-- Full backstory and recurring lore
+- Full backstory before the "redacted" branding
+- Relationship between early Clementine conspiracy blocks and Guy's desk
+
+See also: [[../segments/conspiracy-desk|Conspiracy Desk]], [[index|On-Air Talent & Newsroom Staff]].

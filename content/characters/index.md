@@ -57,12 +57,11 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/coach-mcgurk|Coach McGurk]] | Minor Character Witness | Character witness for Crum from the Bart Simpson voice / zombie-head era |
 | [[characters/jizbo|Jizbo]] | Minor Trial Witness | Returns from the mountain; answers examination with a conga |
 | [[characters/steak|Steak]] | Guest Artist | Collaborator on the Thump Steaks theme song with DJ C4 |
-| [[characters/trent|Trent]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
-| [[characters/chris|Chris]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
-| [[characters/clementine|Clementine]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
-| [[characters/clementine-verne|Clementine Verne]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
+| [[characters/trent|Trent]] | Movie Correspondent (*At the Movies*) | Truant teen of ambiguous age hosting trailer reviews under probation supervision |
+| [[characters/chris|Chris]] | Probation Officer (*At the Movies*) | Trent's required on-set probation / parole officer and trailer-block co-host |
+| [[characters/guy-redacted|Guy Redacted]] | Conspiracy Correspondent | Sunglasses-forward host of the Conspiracy Desk / Conspiracy Time blocks |
+| [[characters/clementine-verne|Clementine Verne]] | Conspiracy Correspondent (prior) | Original Conspiracy Time / Unvernished Truth host before Guy Redacted; curly-wigged man often billed as Clementine |
 | [[characters/fiona|Fiona]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
-| [[characters/guy-redacted|Guy Redacted]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
 | [[characters/sammy-seven-elbows|Sammy Seven Elbows]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
 | [[characters/tyler|Tyler]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
 | [[characters/sammy|Sammy]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |

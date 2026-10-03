@@ -1,23 +1,36 @@
 ---
 title: Trent
 type: character
-aliases: []
+aliases:
+  - Young Blood
+  - Trend
+  - Cousin Trent
 first_seen: 2023-11-22
 status: recurring
 tags:
-- character
-- minor
+  - character
+  - correspondent
+  - film
 ---
 
 # Trent
 
 ![Trent on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/trent.jpg)
 
-**Trent** is a persona and contributor featured on *Barely Informed News*.
+**Trent** (also **Young Blood**, occasionally mis-billed as **Trend**) is the truant-teen movie correspondent who hosts [[../segments/at-the-movies|At the Movies]] on *Barely Informed News*.
 
-## Overview
+## Overview & Persona
 
-Auto-created minor character after appearing in 3 extracted episodes (threshold 3).
+Trent is a self-styled cultural taste-maker of **deliberately ambiguous age** — framed as a truant teen doing court-ordered community service on air. He broadcasts from a green-screen movie theater in a beanie-and-blazer look, screens trailers, and lectures Case about green-screen actor safety, franchise fatigue, and whatever Chat just yelled.
+
+His probation officer [[chris|Chris]] is contractually required to supervise the segment, which produces constant co-host friction and occasional mic takeovers.
+
+## Signature bits
+
+- Host of [[../segments/at-the-movies|At the Movies]] / Trailer Thursday / Trent at the Movies
+- Parole / community-service framing with on-set [[chris|Chris]]
+- Theater set, fiery "TRENT AT THE MOVIES" lower-third, chat rating schemes
+- Family lore drops (mother drop-offs; Chris claims Trent's father owns a steak shop)
 
 ## Appearances
 
@@ -54,20 +67,24 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 | [[episodes/2024-01-05|2024-01-05]] | movie correspondent. |
 | [[episodes/2023-12-21|2023-12-21]] | field correspondent. |
 | [[episodes/2023-12-12|2023-12-12]] | movie correspondent. |
-| [[episodes/2023-11-22|2023-11-22]] | Auto-created minor character after appearing in 3 extracted episodes (threshold 3). |
+| [[episodes/2023-11-22|2023-11-22]] | First identified hosting Trent at the Movies with Chris. |
 
 </details>
 
-## Notable moments
+## Notable Quotes
 
-- First identified in [[episodes/2023-11-22|Episode 2023-11-22]].
-- **[[1:30:23]]** ([[episodes/2023-12-12|2023-12-12]]): Hosts Trailer Thursday segment under parole supervision; presents himself as cultural taste-maker.
-- **[]** ([[episodes/2024-01-13|2024-01-13]]): Claims to have made out with women on stream; has long hair from 'hooking up with ladies' [1:34:54].
-- **[2:07:56]** ([[episodes/2024-02-07|2024-02-07]]): Uses '10 minutes self-reflection' phone app for therapy [2:07:56]
-- **[]** ([[episodes/2024-02-27|2024-02-27]]): Hosts recurring 'Trent at the Movies' segment reviewing trailers; advocates for actor safety on green-screen volumes. [1:40:07]
-- **[1:04:50]** ([[episodes/2024-05-01|2024-05-01]]): Mother dropped him off at the studio 20 minutes before broadcast; Chris claims Trent's father owns a steak shop and the parents do not get along.
-- **[[02:00:01]]** ([[episodes/2024-08-13|2024-08-13]]): New on-air correspondent introduced as 'your boy Trent' hosting movie trailer segment (Amongst the Web).
+- Presents himself as a cultural taste-maker while under parole supervision ([[episodes/2023-12-12|2023-12-12]]).
 
-## Open questions
+## Notable Moments
 
-- Full backstory and recurring lore
+- **[[1:30:23]]** ([[episodes/2023-12-12|2023-12-12]]): Hosts Trailer Thursday under parole supervision.
+- **[[1:40:07]]** ([[episodes/2024-02-27|2024-02-27]]): Hosts Trent at the Movies; advocates for actor safety on green-screen volumes.
+- **[1:04:50]** ([[episodes/2024-05-01|2024-05-01]]): Mother dropped him off 20 minutes before broadcast; Chris claims Trent's father owns a steak shop and the parents do not get along.
+- **[[02:00:01]]** ([[episodes/2024-08-13|2024-08-13]]): Reintroduced as "your boy Trent" for a trailer block.
+
+## Open Questions
+
+- Exact offense / court order that landed him in community-service broadcasting
+- Whether "Young Blood," "Cousin Trent," and "Trend" are billing errors or alternate aliases
+
+See also: [[chris|Chris]], [[../segments/at-the-movies|At the Movies]], [[index|On-Air Talent & Newsroom Staff]].

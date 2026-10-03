@@ -356,6 +356,8 @@ def _match_character_file(name: str, canon: dict[str, list[CanonEntity]]) -> tup
         return CONTENT_CHARACTERS / "crum.md", "crum"
     if "munch" in slug or "munchcut" in slug or "ralph" in slug:
         return CONTENT_CHARACTERS / "munch.md", "munch"
+    if slug in ("clementine", "clementine-vernon", "clementine-burn", "clementine-redacted", "cv") or slug.startswith("clementine-"):
+        return CONTENT_CHARACTERS / "clementine-verne.md", "clementine-verne"
     if "chet-ai" in slug or "chetai" in slug or "chetah" in slug:
         return CONTENT_CHARACTERS / "chet-ai.md", "chet-ai"
     if "chet" in slug or "manscape" in slug:
@@ -423,6 +425,24 @@ def _match_segment_file(title: str, canon: dict[str, list[CanonEntity]], canonic
         if any(k in title_lower for k in ("ai rooney", "rooney", "andy rooney")) and "rooney" in seg_lower:
             return seg.file_path
         if any(k in title_lower for k in ("therapy", "chath", "cheth", "counseling", "healing")) and "therapy" in seg_lower:
+            return seg.file_path
+        if any(
+            k in title_lower
+            for k in (
+                "at the movies",
+                "trent at the movies",
+                "trend at the movies",
+                "trailer thursday",
+                "trailer time",
+                "go to the movies",
+                "let's go to the movies",
+            )
+        ) and ("at the movies" in seg_lower or "movies" in seg_lower):
+            return seg.file_path
+        if any(
+            k in title_lower
+            for k in ("conspiracy time", "conspiracy desk", "truth zone", "guy redacted")
+        ) and ("conspiracy" in seg_lower or "redacted" in seg_lower):
             return seg.file_path
     return None
 
