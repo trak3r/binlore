@@ -40,8 +40,8 @@ A persistent dark cloud hangs over Jeb: on-air banter strongly implies that Jeb 
 ### Familial Resentment: Jet Nogget
 The father openly favors Jeb's brother, **Jet Nogget**. Jet was the celebrated golden child of the Nogget household, having developed wildly lucrative "smart apps" and amassed millions of dollars by age 12. While Jet flaunted his wealth and earned their father's eternal admiration, Jeb was left feeling neglected and second-rate—a resentment that surfaces whenever their father compares the two.
 
-### The "Real Jeb" & Skin Suit Mystery
-Within the broader network, questions exist regarding Jeb's physical identity. During the August 14, 2026 broadcast, lead anchor [[case-blackwell|Case Blackwell]] remarked on air that the *"real Jeb skin suit is still very much missing,"* prompting viewers to question whether the person hosting *How To with Jeb* is an impostor, a skin-suit wearer, or a supernatural facsimile.
+### Jeb's New Face & Skin Suit Mystery
+After a vanished stretch of airtime, Jeb came back with a reconstructed face that was close—but unmistakably not the original. He credits a forty-foot well fall and throat-tissue surgery ([[../episodes/2025-07-01|2025-07-01]]); Jet, the family's plastic-surgeon prodigy, was too booked to intervene. Chat immediately floated impostor and body-swap theories, later echoed when [[case-blackwell|Case Blackwell]] noted on air that the *"real Jeb skin suit is still very much missing"* ([[../episodes/2026-08-14|2026-08-14]]). Whether the workshop host is the same Nogget, a near-miss replacement, or a facsimile in borrowed skin remains an open network scandal. See [[../segments/how-to-with-jeb|How To with Jeb]] (*Jeb's New Face*).
 
 ## Appearances
 
