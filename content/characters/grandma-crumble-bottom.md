@@ -73,7 +73,7 @@ Grandma frequently drifts into reminiscences of her deceased husband. Rather tha
 - What is the identity or occupation of her 48-year-old son?
 - What other home remedies or solar treatments does Grandma Crumble Bottom practice?
 
-See also: [[../segments/amongst-the-web|Amongst the Web]], [[../characters/index|On-Air Talent & Staff]].
+See also: [[../segments/amongst-the-web|Amongst the Web]], [[../characters/index|On-Air Talent]].
 
 ## Notable moments
 

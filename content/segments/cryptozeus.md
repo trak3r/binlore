@@ -25,10 +25,11 @@ Brandon's gameplay is consistently disrupted by his mother shouting through the 
 
 ## Key Elements
 
-- **Muffled Hallway Inquiries:** Brandon's mother interrogates him regarding household affairs, neighborhood gossip, and questionable dietary practices.
+- **Host — [[../characters/cryptozeus|Brandon (CryptoZeu$)]]:** Gaming correspondent conducting remote playthroughs from his bedroom studio.
+- **Muffled Hallway Inquiries:** [[../characters/brandons-mother|Brandon's mother]] interrogates him regarding household affairs, neighborhood gossip, and questionable dietary practices.
 - **"Bran Bran":** The universal maternal address used on the broadcast.
 - **Narrative Improvisation:** Brandon reconstructs elaborate historical mythologies based on shareware menus and environmental textures.
-- **Corporate Sponsor Updates:** Live commercial advisories on behalf of regional culinary partner Gooters, advertising chicken wings and "dino fries."
+- **Corporate Sponsor Updates:** Live commercial advisories on behalf of regional culinary partner [[../sponsors/gooters|Gooters]], advertising chicken wings and "dino fries."
 
 ## Known occurrences
 

@@ -25,7 +25,7 @@ Broadcasting live directly from park shrubbery, [[../characters/trip-bradstein|T
 
 ## Key Elements
 
-- **Bush Broadcast Bureau:** Bradstein operates exclusively outdoors from a public park bush, frequently emerging from multi-month "bush hibernations" when the network calls upon him for a remote dispatch.
+- **Bush Broadcast Bureau:** [[../characters/trip-bradstein|Trip Bradstein]] operates exclusively outdoors from a public park bush, frequently emerging from multi-month "bush hibernations" when the network calls upon him for a remote dispatch.
 - **Audience-Submitted Inquiries:** Interview prompts, philosophical dilemmas, and civic questions posed to the public are submitted by the *Barely Informed News* audience.
 - **Fierce Street Dedication:** Bradstein adamantly insists that he will "never leave these streets," treating his park shrubbery as an immovable journalistic bureau.
 - **Surreal Passersby & Guest Collisions:** The segment regularly captures chaotic encounters with park eccentrics, intrusive DVD vendors, impromptu takeovers by fellow network talent (such as [[../characters/hype-train|Hype Train]]), and confused pedestrians—including Bradstein's own mother, whom he routinely fails to recognize and interviews as a complete stranger.

@@ -63,4 +63,4 @@ Chris is on-set because Trent's community-service broadcast requires adult super
 - Whether Chris is employed by the court, the network, or both
 - Full list of conditions on Trent's probation that require Chris on set
 
-See also: [[trent|Trent]], [[../segments/at-the-movies|At the Movies]], [[index|On-Air Talent & Newsroom Staff]].
+See also: [[trent|Trent]], [[../segments/at-the-movies|At the Movies]], [[index|On-Air Talent]].

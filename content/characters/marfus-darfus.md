@@ -54,7 +54,7 @@ Lead anchor [[case-blackwell|Case Blackwell]] and in-studio contributor [[lilian
 - What is the canonical spelling of his first name—Marfus or Marfis? (On-air consensus is "Healer's choice").
 - How did Marfus first gain clearance to access the *Barely Informed News* broadcast room and Discord submission queue?
 
-See also: [[../segments/amongst-the-web|Amongst the Web]], [[../characters/index|On-Air Talent & Staff]].
+See also: [[../segments/amongst-the-web|Amongst the Web]], [[../characters/index|On-Air Talent]].
 
 ## Notable moments
 

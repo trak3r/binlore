@@ -27,5 +27,6 @@ Entery Soda gained network notoriety due to its peculiar spelling. According to 
 ## See also
 
 - [[gooters|Gooters]]
+- [[milk-cola|Milk Cola]]
 - [[../segments/cryptozeus|CryptoZeu$]]
 - [[index|All Sponsors]]

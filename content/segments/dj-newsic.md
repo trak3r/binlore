@@ -28,10 +28,10 @@ The segment bridges political satire and club-ready electronic performance, turn
 
 ## Key Elements
 
-- **Blue-Haired News Anchor:** DJ Newsic presides over the desk with a distinctive bright electric blue wig and reflective sunglasses.
+- **[[../characters/dj-newsic|DJ Newsic]] (Blue-Haired News Anchor):** Presides over the desk with a distinctive bright electric blue wig and reflective sunglasses.
 - **Heavy Auto-Tuned News Delivery:** Every headline, lyric, and audience response is filtered through thick, pitch-corrected auto-tune.
 - **Driving Techno Instrumentals:** Fast-paced synth loops and techno basslines keep the tempo exhilarating as the broadcast sprints to a close.
-- **Unclicked Story Coverage:** Focuses specifically on eccentric, uncomfortable, or legally precarious stories that Case bypassed during the main news block.
+- **Unclicked Story Coverage:** Focuses specifically on eccentric, uncomfortable, or legally precarious stories that [[../characters/case-blackwell|Case Blackwell]] bypassed during the main news block.
 - **Surreal Musical Guests:** Impromptu appearances by unexpected remote guests—including talking animals and anthropomorphic interviewees—who contribute their own musical perspectives.
 
 ## Known Occurrences

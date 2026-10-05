@@ -83,7 +83,7 @@ Unlike conventional broadcast audio engineers, DJ C4 constructs songs collaborat
 - What other correspondent theme songs have been produced in the DJC4 studio archives?
 - How closely does DJ C4 coordinate with [[characters/dj-newsic|DJ Newsic]] on network sound design?
 
-See also: [[../segments/dj-c4|DJ C4 (Segment)]], [[characters/dj-newsic|DJ Newsic]], [[characters/crum|Crum]], [[characters/live-in-sleazy|Live 'n Sleazy]], [[characters/case-blackwell|Case Blackwell]], [[index|On-Air Talent & Staff]].
+See also: [[../segments/dj-c4|DJ C4 (Segment)]], [[characters/dj-newsic|DJ Newsic]], [[characters/crum|Crum]], [[characters/live-in-sleazy|Live 'n Sleazy]], [[characters/case-blackwell|Case Blackwell]], [[index|On-Air Talent]].
 
 ## Notable moments
 

@@ -22,7 +22,7 @@ The audience-interactive viral media review desk on *Barely Informed News*.
 
 ## Key Elements
 
-- **Anchor & Rotating Co-Hosts:** Case Blackwell anchors every broadcast, while his co-host rotates each session—featuring recurring personalities and special guests such as tactical media correspondent [[../characters/rick|Rick]], the eccentric [[../characters/marfus-darfus|Marfus Darfus]], solar-laser enthusiast [[../characters/grandma-crumble-bottom|Grandma Crumble Bottom]], or chaotic desk hijackings by studio stowaway [[../characters/peter-gibbon|Peter Gibbon]].
+- **Anchor & Rotating Co-Hosts:** [[../characters/case-blackwell|Case Blackwell]] anchors every broadcast, while his co-host rotates each session—featuring recurring personalities and special guests such as tactical media correspondent [[../characters/rick|Rick]], the eccentric [[../characters/marfus-darfus|Marfus Darfus]], solar-laser enthusiast [[../characters/grandma-crumble-bottom|Grandma Crumble Bottom]], or chaotic desk hijackings by studio stowaway [[../characters/peter-gibbon|Peter Gibbon]].
 - **Viewer Submissions:** Videos are sourced directly from the audience via the community Discord's "amongst this web" queue in the BIN news section.
 - **Idiosyncratic Ratings:** The hosts frequently assign peculiar or hyper-specific decimal scores to each clip (such as Marfus Darfus's landmark `6.44` rating).
 - **Focus:** Surreal internet culture, odd viral recordings, awkward cringe clips, and community-submitted oddities.

@@ -24,8 +24,8 @@ Case (or a designated conspiracy correspondent) opens a YouTube rabbit hole — 
 
 ## Key Elements
 
-- **Conspiracy Time / Truth Zone:** Named cold-open for the desk before and alongside Guy Redacted's tenure.
-- **Guy Redacted:** Sunglasses-forward conspiracy correspondent; Illuminati-hat era returns; investigates Avril Lavigne replacements, Giza underground cities, and blueberry color scandals.
+- **Conspiracy Time / Truth Zone:** Named cold-open for the desk before and alongside [[../characters/guy-redacted|Guy Redacted]]'s tenure.
+- **[[../characters/guy-redacted|Guy Redacted]]:** Sunglasses-forward conspiracy correspondent; Illuminati-hat era returns; investigates Avril Lavigne replacements, Giza underground cities, and blueberry color scandals.
 - **Prior host — [[../characters/clementine-verne|Clementine Verne]]:** Original Conspiracy Time / Unvernished Truth correspondent (curly-wigged man) before Guy Redacted's desk branding.
 - **Chat as research assistants:** Viewers dump links; the desk treats ten-view uploads as primary sources.
 

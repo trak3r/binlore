@@ -103,7 +103,7 @@ Liliana was absent from *Barely Informed News* for approximately a full year bef
 - *"So you're going to pay me for taking an entire year off?"*
 - *"I left and didn't plan on coming back... but here I am anyway."*
 
-See also: [[case-blackwell|Case Blackwell]], [[../segments/news|News]], [[index|On-Air Talent & Staff]].
+See also: [[case-blackwell|Case Blackwell]], [[../segments/news|News]], [[index|On-Air Talent]].
 
 ## Notable moments
 

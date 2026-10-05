@@ -87,4 +87,4 @@ His probation officer [[chris|Chris]] is contractually required to supervise the
 - Exact offense / court order that landed him in community-service broadcasting
 - Whether "Young Blood," "Cousin Trent," and "Trend" are billing errors or alternate aliases
 
-See also: [[chris|Chris]], [[../segments/at-the-movies|At the Movies]], [[index|On-Air Talent & Newsroom Staff]].
+See also: [[chris|Chris]], [[../segments/at-the-movies|At the Movies]], [[index|On-Air Talent]].

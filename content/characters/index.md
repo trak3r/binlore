@@ -1,9 +1,9 @@
 ---
-title: On-Air Talent & Newsroom Staff
+title: On-Air Talent
 description: Anchors, correspondents, analysts, and studio personnel on Barely Informed News.
 ---
 
-# On-Air Talent & Newsroom Staff
+# On-Air Talent
 
 Anchors, senior correspondents, debate analysts, and production staff across *Barely Informed News*.
 

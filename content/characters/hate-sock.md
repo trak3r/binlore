@@ -75,7 +75,7 @@ Due to his hostile reception and instant notoriety among viewers, Case and produ
 - Who operates or animates Hate Sock behind the miniature town hall backdrop?
 - Will the network ever produce official "Hatesawk" apparel?
 
-See also: [[case-blackwell|Case Blackwell]], [[../episodes/2026-07-20|Episode 2026-07-20]], [[index|On-Air Talent & Staff]].
+See also: [[case-blackwell|Case Blackwell]], [[../episodes/2026-07-20|Episode 2026-07-20]], [[index|On-Air Talent]].
 
 ## Notable moments
 

@@ -27,8 +27,8 @@ Field correspondent [[../characters/trent|Trent]] — a truant teen of deliberat
 
 ## Key Elements
 
-- **Trent (Young Blood):** Self-styled cultural taste-maker and movie correspondent; long hair lore, beanie-and-blazer theater look, contractual "fire transition" bits when the bit allows.
-- **Chris (Probation Officer):** Required on-set supervision for Trent's community-service broadcast work; co-hosts reviews, undercuts Trent's takes, and occasionally hijacks the mic.
+- **[[../characters/trent|Trent]] (Young Blood):** Self-styled cultural taste-maker and movie correspondent; long hair lore, beanie-and-blazer theater look, contractual "fire transition" when the desk allows.
+- **[[../characters/chris|Chris]] (Probation Officer):** Required on-set supervision for Trent's community-service broadcast work; co-hosts reviews, undercuts Trent's takes, and occasionally hijacks the mic.
 - **Trailer Block:** Several trailers per appearance (studio, indie, game-adjacent, and deeply cursed), often with chat rating schemes.
 - **Alias Soup:** Same desk appears as Trailer Thursday, Trailer Time, Trend at the Movies, Go to the Movies, and plain At the Movies.
 

@@ -1,23 +1,23 @@
 ---
-title: Storylines
-description: Developing narratives and major broadcast arcs on Barely Informed News.
+title: Events & Story Arcs
+description: Marathon specials, annual events, and multi-episode narrative arcs on Barely Informed News.
 ---
 
-# Storylines
+# Events & Story Arcs
 
-Ongoing broadcast narratives, investigative threads, and high-stakes network arcs spanning multiple telecasts.
+Major broadcast events and ongoing narrative arcs spanning multiple telecasts — from annual specials and debate marathons to high-stakes newsroom sagas.
 
 ## Crum Punch trilogy
 
-| Part | Storyline | Status | Notes |
+| Part | Arc | Status | Notes |
 |---|---|---|---|
 | 1 | [[crum-face-punch\|Crum Face Punch]] | resolved / concluded | Gambling debt → Rock-afire face punch → Crum's head explodes (2025-06-17) |
 | 2 | [[join-the-wall\|Join the Wall]] | resolved / concluded | Volleyball corpse denial → studio-wall hell quest → Crum resurrected (2025-09-21/25) |
 | 3 | [[crum-dick-punch\|Crum Dick Punch]] | resolved / concluded | Groin-punch sequel; Labor Day inferno vaporizes the gorilla and skeletons Munch (2026-09-07) |
 
-## Marathon & special arcs
+## Marathon & special events
 
-| Storyline | Status | Notes |
+| Event / Arc | Status | Notes |
 |---|---|---|
 | [[rennerton\|Rennerton]] | dormant / lore callbacks | Chat-elected mayors; Case plays the city-builder as the winner (Oct 2024 *Return To Renerton* + Halloween sequel) |
 | [[deb-8\|Deb-8]] | resolved / concluded | Eight-hour debate marathon stretch goal → July 20, 2024 flagship telecast |
@@ -25,8 +25,8 @@ Ongoing broadcast narratives, investigative threads, and high-stakes network arc
 
 ## Other arcs
 
-| Storyline | Status | Notes |
+| Arc | Status | Notes |
 |---|---|---|
 | [[beyblade-tournament\|Beyblade Tournament]] | active / in development | Community debt called out by Abraham Lincoln; planned 2v2 Beyblade Burst arena match for Crum, entangled with Case applying 106 Bart Simpson tattoos |
 
-See also: [[../characters/index|On-Air Talent & Staff]], [[../segments/index|Broadcast Segments]].
+See also: [[../characters/index|On-Air Talent]], [[../segments/index|Broadcast Segments]].

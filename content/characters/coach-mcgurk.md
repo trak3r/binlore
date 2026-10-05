@@ -49,7 +49,7 @@ On the stand he greets the room warmly, notes that some of his old voice has ret
 - Did Coach McGurk appear on-air during Crum's Bart Simpson / zombie-head era, or is that relationship only asserted at trial?
 - Will McGurk return as a recurring character witness for other network defendants?
 
-See also: [[don-riggles|Don Riggles]], [[jizbo|Jizbo]], [[crum|Crum]], [[../episodes/2026-03-07|Episode 2026-03-07]], [[index|On-Air Talent & Staff]].
+See also: [[don-riggles|Don Riggles]], [[jizbo|Jizbo]], [[crum|Crum]], [[../episodes/2026-03-07|Episode 2026-03-07]], [[index|On-Air Talent]].
 
 ## Notable moments
 

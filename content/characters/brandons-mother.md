@@ -45,7 +45,7 @@ Her shouting matches with Brandon—whom she frequently addresses as "Brandy"—
 
 - What does the interior of the rest of the house look like beyond Brandon's bedroom door?
 
-See also: [[characters/cryptozeus|Brandon (CryptoZeu$)]], [[../segments/cryptozeus|CryptoZeu$]], [[index|On-Air Talent & Staff]].
+See also: [[characters/cryptozeus|Brandon (CryptoZeu$)]], [[../segments/cryptozeus|CryptoZeu$]], [[index|On-Air Talent]].
 
 ## Notable moments
 

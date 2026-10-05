@@ -46,4 +46,4 @@ The defining dynamic of *How To with Jeb* is the fraught, supernatural tension b
 |---------|-----------|-------|
 | [[../episodes/2026-08-14|2026-08-14]] | 01:22:57 | Debut broadcast. Jeb introduces his dead father trapped in a board. They bicker over childhood neglect, coasting on generational wealth, and Jet's smart app millions before reviewing wood splitting, college self-defense, and dirty dancing tutorials. |
 
-See also: [[../characters/jeb|Jeb Nogget]], [[../segments/index|Broadcast Segments]], [[../characters/index|On-Air Talent & Staff]].
+See also: [[../characters/jeb|Jeb Nogget]], [[../segments/index|Broadcast Segments]], [[../characters/index|On-Air Talent]].

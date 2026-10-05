@@ -63,6 +63,9 @@ Gooters' menu eschews conventional poultry standards in favor of proprietary, fl
 ## See also
 
 - [[entery-soda|Entery Soda]]
+- [[milk-cola|Milk Cola]]
+- [[markinsons-wet-ham-emporium|Markinson's Wet Ham Emporium]]
+- [[rock-ice|Rock Ice]]
 - [[../segments/cryptozeus|CryptoZeu$]]
 - [[../characters/hate-sock|Hate Sock]]
 - [[../characters/case-blackwell|Case Blackwell]]

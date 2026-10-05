@@ -25,9 +25,9 @@ While lead anchor [[../characters/case-blackwell|Case Blackwell]] is the most fr
 
 ## Key Elements
 
-- **Viewer Submissions (`!h to heal`):** The consultation is powered by audience participation. Viewers submit emotional dilemmas, confessions, and stream prompts using the network's `!h to heal` command, prompting Dr. Chath to evaluate their spiritual alignment and declare that "healing can soon begin."
+- **Viewer Submissions (`!h to heal`):** The consultation is powered by audience participation. Viewers submit emotional dilemmas, confessions, and stream prompts using the network's `!h to heal` command, prompting [[../characters/dr-chath|Dr. Chath]] to evaluate their spiritual alignment and declare that "healing can soon begin."
 - **Confusing & Physical Guidance:** Rather than conventional psychotherapy, Dr. Chath's clinical methods rely heavily on professional wrestling analogies, unsolicited dance demonstrations (such as attempting the Dougie while standing atop his desk chair), and philosophical non-sequiturs.
-- **The Reluctant Patient Dynamic:** Case Blackwell frequently spends sessions questioning Dr. Chath's credentials, dodging bizarre inquiries, reminding him to adjust his oversized military helmet so his face remains visible on camera, and balking at Dr. Chath's $500/hour billing rate.
+- **The Reluctant Patient Dynamic:** [[../characters/case-blackwell|Case Blackwell]] frequently spends sessions questioning Dr. Chath's credentials, dodging bizarre inquiries, reminding him to adjust his oversized military helmet so his face remains visible on camera, and balking at Dr. Chath's $500/hour billing rate.
 - **Spectral Apparitions:** Dr. Chath's office seems strangely permeable to the supernatural, with in-studio contributor [[../characters/kendelle|Kendelle]] known to drift through the background like an apparition to her signature theme music.
 
 ## Known occurrences

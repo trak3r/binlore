@@ -48,7 +48,7 @@ His entire on-air vocabulary tends toward smells, gases, and digestive catastrop
 - How long was Riggles off-air before the peen.ui trial, and why?
 - Is the elder face filter canonical form, or an occasional broadcast presentation?
 
-See also: [[coach-mcgurk|Coach McGurk]], [[jizbo|Jizbo]], [[crum|Crum]], [[../episodes/2026-03-07|Episode 2026-03-07]], [[index|On-Air Talent & Staff]].
+See also: [[coach-mcgurk|Coach McGurk]], [[jizbo|Jizbo]], [[crum|Crum]], [[../episodes/2026-03-07|Episode 2026-03-07]], [[index|On-Air Talent]].
 
 ## Notable moments
 

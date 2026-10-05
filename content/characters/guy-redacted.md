@@ -46,4 +46,4 @@ Debuted when the network needed a dedicated "conspiracy guy" for Conspiracy Time
 - Full backstory before the "redacted" branding
 - Relationship between early Clementine conspiracy blocks and Guy's desk
 
-See also: [[../segments/conspiracy-desk|Conspiracy Desk]], [[index|On-Air Talent & Newsroom Staff]].
+See also: [[../segments/conspiracy-desk|Conspiracy Desk]], [[index|On-Air Talent]].

@@ -94,7 +94,7 @@ His signature broadcast mission is "singing the news"—specifically fast-tracki
 - Where does DJ Newsic reside when he is "hiding under the desk" between broadcast calls?
 - What other unclicked headlines remain in his auto-tuned news archives?
 
-See also: [[../segments/dj-newsic|DJ Newsic (Segment)]], [[characters/dj-c4|DJ C4]], [[characters/case-blackwell|Case Blackwell]], [[index|On-Air Talent & Staff]].
+See also: [[../segments/dj-newsic|DJ Newsic (Segment)]], [[characters/dj-c4|DJ C4]], [[characters/case-blackwell|Case Blackwell]], [[index|On-Air Talent]].
 
 ## Notable moments
 

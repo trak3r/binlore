@@ -28,7 +28,7 @@ Throughout the session, viewers participate directly by submitting lyrical coupl
 
 ## Key Elements
 
-- **DJC4 Studio Setting:** Anchored from a dedicated soundstage adorned with studio monitors, audio racks, and glowing amber-yellow neon signage.
+- **Host — [[../characters/dj-c4|DJ C4]] / DJC4 Studio Setting:** Anchored from a dedicated soundstage adorned with studio monitors, audio racks, and glowing amber-yellow neon signage.
 - **AI-Assisted Songwriting:** Direct collaboration between DJ C4 and AI ghostwriting models to arrange chords, harmonies, and rhymes in response to chat prompts.
 - **Interactive Lyric Crowdsourcing (`!L`):** Live intake of viewer-generated lyrics, allowing the broadcast audience to steer the subject matter of network anthems.
 - **Theme Composition for Correspondents:** Producing customized walkout themes, segment intros, and sonic branding for newsroom talent.

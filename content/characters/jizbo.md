@@ -46,4 +46,4 @@ The court sustains the musical interruption despite Jizbo clarifying he does not
 - Which mountain was Jizbo on, and how long was he gone?
 - Is the viking-helmet presentation standard kit or a one-off trial look?
 
-See also: [[don-riggles|Don Riggles]], [[coach-mcgurk|Coach McGurk]], [[crum|Crum]], [[../episodes/2026-03-07|Episode 2026-03-07]], [[index|On-Air Talent & Staff]].
+See also: [[don-riggles|Don Riggles]], [[coach-mcgurk|Coach McGurk]], [[crum|Crum]], [[../episodes/2026-03-07|Episode 2026-03-07]], [[index|On-Air Talent]].

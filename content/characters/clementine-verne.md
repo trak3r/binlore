@@ -72,4 +72,4 @@ After stretches of being "silenced" or in hiding (including a Mariana Trench dis
 - Exact handoff moment from Verne's Conspiracy Time branding to Guy Redacted's Conspiracy Desk
 - Whether "Clementine Redacted" billing is a transitional alias or a one-off ASR merge with Guy
 
-See also: [[../segments/conspiracy-desk|Conspiracy Desk]], [[guy-redacted|Guy Redacted]], [[index|On-Air Talent & Newsroom Staff]].
+See also: [[../segments/conspiracy-desk|Conspiracy Desk]], [[guy-redacted|Guy Redacted]], [[index|On-Air Talent]].

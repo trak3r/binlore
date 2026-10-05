@@ -141,7 +141,7 @@ After a vanished stretch of airtime, Jeb came back with a reconstructed face tha
 - Where is the "real Jeb skin suit" referenced by Case Blackwell?
 - Will Jet Nogget ever appear on *Barely Informed News* to confront his brother and board-bound father?
 
-See also: [[../segments/how-to-with-jeb|How To with Jeb]], [[../characters/index|On-Air Talent & Staff]].
+See also: [[../segments/how-to-with-jeb|How To with Jeb]], [[../characters/index|On-Air Talent]].
 
 ## Notable moments
 

@@ -25,6 +25,7 @@ Chet conducts deep-dive inquiries into peer-reviewed medical publications, anato
 
 ## Key Attributes & Lore
 
+- **Host — [[../characters/chet|Chet (Chet Manscape)]]:** Chief science correspondent who commandeers the desk whenever "science" is uttered on air.
 - **The Trigger Protocol:** Never scheduled in advance on the broadcast rundown; activated the moment any speaker on the telecast accidentally mentions "science."
 - **Synthetic Co-Host:** [[../characters/chet-ai|ChetAI]], an advanced neural model displayed on side studio monitors who assists Chet with data queries while navigating sensitive content safety restrictions.
 - **Laboratory Optics:** A clinical microscope deployed prominently on the anchor desk for immediate empirical observation.

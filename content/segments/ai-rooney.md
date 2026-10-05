@@ -26,9 +26,10 @@ Conceived as a computational homage to CBS *60 Minutes* commentator Andy Rooney,
 
 ## Key Elements
 
+- **Host — [[../characters/ai-rooney|AI Rooney]]:** Proprietary cyborg commentator delivering Andy Rooney–style grievance essays.
 - **Homage to Andy Rooney:** The segment mirrored the cadence, rhetorical questions, and curmudgeonly skepticism of Andy Rooney's legendary *60 Minutes* closing essays, applied to surreal modern annoyances.
 - **Audience-Submitted Topics:** Viewers prompted the cyborg with topics ranging from sitcom trivia and cultural oddities to everyday household grievances.
-- **Escalation & Muting:** Over time, the cyborg's internal algorithmic guardrails deteriorated. Rooney's rants escalated into increasingly unhinged, caustic, and volatile territory (including diatribes against *Wings*, mutated Ninja Turtle babies, and massage gun eye injuries), forcing Blackwell to repeatedly slap the mute button live on air.
+- **Escalation & Muting:** Over time, the cyborg's internal algorithmic guardrails deteriorated. Rooney's rants escalated into increasingly unhinged, caustic, and volatile territory (including diatribes against *Wings*, mutated Ninja Turtle babies, and massage gun eye injuries), forcing [[../characters/case-blackwell|Case Blackwell]] to repeatedly slap the mute button live on air.
 - **Indefinite Retirement:** During the [[../episodes/2026-07-13|2026-07-13 broadcast]], a localized model malfunction caused Rooney to emit explicit offensive content and slurs on the air. Blackwell pulled the plug on the segment mid-stream, and following an on-air debate between staff and analysts, the network permanently retired the segment and decommissioned the cyborg.
 
 ## Known occurrences

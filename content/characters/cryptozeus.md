@@ -114,7 +114,7 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 - **[02:14:55]** ([[episodes/2026-06-29|2026-06-29]]): Brandon's mother harasses him through the bedroom door about haircuts, party sub theft, and toilet floods ('8 feet deep'). The feral hogs in the backyard are repelled by a hose Brandon purchased. She calls him 'Brandy'.
 - **[01:30:46]** ([[episodes/2026-06-27|2026-06-27]]): Brandon's mother loudly threatened to buy a pool to be 'eaten out' of by 'Pastor Joe', then threatened to leave her door open so chat could hear him. Brandon considered emancipating himself and being adopted by his neighbor, 'Brecky', a 72-year-old woman.
 
-See also: [[../segments/cryptozeus|CryptoZeu$ (Segment)]], [[characters/brandons-mother|Brandon's Mother]], [[characters/case-blackwell|Case Blackwell]], [[index|On-Air Talent & Staff]].
+See also: [[../segments/cryptozeus|CryptoZeu$ (Segment)]], [[characters/brandons-mother|Brandon's Mother]], [[characters/case-blackwell|Case Blackwell]], [[index|On-Air Talent]].
 - **[01:44:27]** ([[episodes/2026-06-15|2026-06-15]]): Brandon's CryptoZeu$ segment includes a random number game and interactions with his mother.
 - **[02:02:03]** ([[episodes/2026-06-08|2026-06-08]]): Refuses to pay for games ('hard I don't want to pay for games policy'); plays on Case's copies. Mother yells through bedroom door throughout broadcasts.
 - **[01:21:43]** ([[episodes/2026-08-26|2026-08-26]]): Gooters sponsor bit: 'wet storage bins', 'potato turducken' with $20 inside, 'herniated cheese disc', 'moist kitten poppers' (Halloween). Mom calls him 'Bran Bran'.
@@ -129,7 +129,7 @@ See also: [[../segments/cryptozeus|CryptoZeu$ (Segment)]], [[characters/brandons
 - **[[01:48:30]]** ([[episodes/2026-01-24|2026-01-24]]): Mother microwaves his iPod nano which opens purple portal with 'gregory enchanting' from garbage disposal.
 - **[01:59:23]** ([[episodes/2026-01-27|2026-01-27]]): Claimed a six-million-dollar sponsorship from Timothy Chalamet for a 'Willy Diddy' Willy Wonka/P. Diddy crossover movie [01:59:23].
 - **[02:32:46]** ([[episodes/2026-01-27|2026-01-27]]): Reads from an 'erotic bible' during prayer sessions and aspires to join the New York Knicks men's team despite knee issues [02:32:46].
-- **[1:33:04]** ([[episodes/2026-02-10|2026-02-10]]): Brandon references prior Kid Rock 'Rock Ice' sponsorship (over 30% water, sold at Kroger).
+- **[1:33:04]** ([[episodes/2026-02-10|2026-02-10]]): Brandon references prior Kid Rock [[../sponsors/rock-ice|Rock Ice]] sponsorship (over 30% water, sold at Kroger).
 - **[1:54:04]** ([[episodes/2026-02-10|2026-02-10]]): Brandon's mother references Pastor Joe, confirming recurring 'muffled door intervention' dynamic.
 - **[2:50:10]** ([[episodes/2026-02-12|2026-02-12]]): Has not used bathroom in six days; maintains Wednesday 8pm-4am 'bathroom block' strapped into corner box; mother calls him 'Bran Bran'.
 - **[2:36:31]** ([[episodes/2026-02-12|2026-02-12]]): References stalker 'Goose' (male) and former mod 'X Crane' locked up for years over sponsorship deal; Pastor Joe brings Happy Meals.
@@ -143,11 +143,11 @@ See also: [[../segments/cryptozeus|CryptoZeu$ (Segment)]], [[characters/brandons
 - **[[11:37]]** ([[episodes/2026-03-12|2026-03-12]]): Imposed 250-character speech limit to protect throat for unspecified reason; limit refunds channel points when exceeded.
 - **[[01:51:31]]** ([[episodes/2026-03-12|2026-03-12]]): Nickname 'snake guzzler' revealed — references tongue-speaking at her church; Brandon finds it embarrassing.
 - **[01:58:30]** ([[episodes/2026-03-25|2026-03-25]]): Brandon's lawyer represents both him and Kevin Pereira simultaneously, creating a conflict of interest; the lawyer threatens to 'forward Brandon into the stone age'.
-- **[[01:25:02]]** ([[episodes/2026-03-27|2026-03-27]]): Currently sponsored by Milk Cola (spelled MLK Cola), a calcium-flavored beverage legally distinct from milk.
+- **[[01:25:02]]** ([[episodes/2026-03-27|2026-03-27]]): Currently sponsored by [[../sponsors/milk-cola|Milk Cola]] (spelled MLK Cola), a calcium-flavored beverage legally distinct from milk.
 - **[]** ([[episodes/2026-04-11|2026-04-11]]): Claims he made a bet with his placenta at birth to never shower [2:14:35].
 - **[]** ([[episodes/2026-04-11|2026-04-11]]): Has a 'blinking condition' where light and loud noises trigger involuntary blinking [2:24:48].
 - **[]** ([[episodes/2026-04-11|2026-04-11]]): Was homeschooled for two years due to a skin condition before leaving school entirely [2:28:14].
-- **[]** ([[episodes/2026-04-14|2026-04-14]]): Computer sourced from 'Markinson's Wet Ham Emporium' deli sponsorship, not Dell. [02:15:39]
+- **[]** ([[episodes/2026-04-14|2026-04-14]]): Computer sourced from [[../sponsors/markinsons-wet-ham-emporium|Markinson's Wet Ham Emporium]] deli sponsorship, not Dell. [02:15:39]
 - **[]** ([[episodes/2026-04-14|2026-04-14]]): Mother yells through bedroom door about 'Pastor Joe' and repeatedly farts on door despite established boundary. [02:25:27]
 - **[]** ([[episodes/2026-04-29|2026-04-29]]): Brick referenced Brandon's oven-door incident ('my cock is now stuck in the oven') during Wild Guns playthrough [1:43:16].
 - **[16:34]** ([[episodes/2026-05-02|2026-05-02]]): Mother's door interventions continue; she threatens child services despite Brandon being adult. [16:34]
