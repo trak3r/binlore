@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "trak3r.github.io/binlore",
+    baseUrl: "binlore.wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -87,6 +87,8 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
+      // Emit public/CNAME so GitHub Pages serves binlore.wiki
+      Plugin.CNAME(),
       // Disabled for faster local builds; re-enable once sharp installs cleanly in CI
       // Plugin.CustomOgImages(),
     ],

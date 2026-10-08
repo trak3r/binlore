@@ -2,9 +2,9 @@
 
 **Autonomous media → knowledge pipeline:** watch a Twitch broadcast, transcribe it locally, extract structured lore with an LLM, and publish a searchable wiki — unattended.
 
-Live site: **[trak3r.github.io/binlore](https://trak3r.github.io/binlore/)** · Source domain: [Barely Informed News](https://www.twitch.tv/caseblackwell) (Case Blackwell)
+Live site: **[binlore.wiki](https://binlore.wiki/)** · Source domain: [Barely Informed News](https://www.twitch.tv/caseblackwell) (Case Blackwell)
 
-[![Wiki homepage](https://github.com/trak3r/binlore/releases/download/media-assets/binlore-wiki-home.png)](https://trak3r.github.io/binlore/)
+[![Wiki homepage](https://github.com/trak3r/binlore/releases/download/media-assets/binlore-wiki-home.png)](https://binlore.wiki/)
 
 ## Why this exists
 
@@ -51,7 +51,7 @@ Twitch / YouTube VOD
 └─────────────────────┘
 ```
 
-[![Character page](https://github.com/trak3r/binlore/releases/download/media-assets/binlore-character-page.png)](https://trak3r.github.io/binlore/characters/case-blackwell)
+[![Character page](https://github.com/trak3r/binlore/releases/download/media-assets/binlore-character-page.png)](https://binlore.wiki/characters/case-blackwell)
 
 ## Quick start
 
@@ -97,7 +97,7 @@ tools/runs/<vod-id>/
 
 - **Twitch VOD IDs:** Live streams air on [Twitch (`caseblackwell`)](https://www.twitch.tv/caseblackwell), where Twitch assigns a numeric video ID to each broadcast (e.g. `2863722826` from `https://www.twitch.tv/videos/2863722826`).
 - **Finding VOD IDs:**
-  1. **Wiki Episodes List:** The complete [Episodes & Broadcast Archive](https://trak3r.github.io/binlore/episodes/) has a dedicated **VOD ID** column for every stream.
+  1. **Wiki Episodes List:** The complete [Episodes & Broadcast Archive](https://binlore.wiki/episodes/) has a dedicated **VOD ID** column for every stream.
   2. **CLI:** Run `./binlore vods` to print recent Twitch streams with their IDs, broadcast dates, and lengths.
 - **YouTube Archive IDs:** Twitch purges VODs after ~60 days. The complete historical backlog of 370+ streams is preserved on the [YouTube Archive (`@CaseBlackwellStreams`)](https://www.youtube.com/@CaseBlackwellStreams). For archived streams beyond Twitch's retention window, the YouTube video ID (e.g. `ZSjvjEED3KA`) shown on the episodes list can be passed directly to `./binlore ingest <id>`.
 
@@ -362,7 +362,7 @@ Or open a PR with base `production` and compare `main`, review the diff, then me
 
 **3. Confirm deploy**
 
-Pushing to `production` runs [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml). When that Actions run succeeds, [https://trak3r.github.io/binlore/](https://trak3r.github.io/binlore/) reflects the new tip of `production`.
+Pushing to `production` runs [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml). When that Actions run succeeds, [https://binlore.wiki/](https://binlore.wiki/) reflects the new tip of `production`.
 
 ### Step 8: Reclaim Disk Space (`binlore clean`)
 
