@@ -39,6 +39,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-08|2026-10-08]] | executive producer. |
 | [[episodes/2026-09-07|2026-09-07]] | Opens the Season 3 finale from the Producer Cam; leads the broadcast sign-off song and offers to consume any loose skin from Munch following the studio inferno. |
 | [[episodes/2026-09-04|2026-09-04]] | Opens the broadcast; later in the evening commandeers the Producer Cam to demand an entire bag of sangria for Labor Day weekend while Blackwell is away. Clarifies that he does not perform tricks for viewers. |
 | [[episodes/2026-09-01|2026-09-01]] | Executes the top-of-hour station sign-on and production countdown. |
@@ -58,13 +59,13 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-22|2026-06-22]] | Executive producer opening the broadcast from the producer cam, thanking subscribers and rambling about various topics. |
 | [[episodes/2026-06-15|2026-06-15]] | Executive producer, opens the show with birthday greetings. |
 | [[episodes/2026-06-08|2026-06-08]] | Executive producer (canine). Opens broadcast, manages raid, announces Pepito Moss July 6. |
-| [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 
 <details>
-<summary>Earlier appearances (109)</summary>
+<summary>Earlier appearances (110)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
 | [[episodes/2026-06-03|2026-06-03]] | Executive Producer. Canine broadcast executive appearing via Producer Cam. Opens show, manages sub goals, discusses Bart Simpson tattoo logistics. |
 | [[episodes/2026-05-29|2026-05-29]] | Executive producer opening the show with his signature intro. |
 | [[episodes/2026-05-18|2026-05-18]] | executive producer. |

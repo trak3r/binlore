@@ -26,6 +26,7 @@ Rick joined the broadcast on the [[episodes/2026-09-04|2026-09-04 broadcast]] to
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-08|2026-10-08]] | Amongst the Web host. |
 | [[episodes/2026-09-04|2026-09-04]] | Takes the desk to helm the [[../segments/amongst-the-web|Amongst the Web]] interactive video review desk, conducting tactical evaluations of viral media. |
 | [[episodes/2026-09-01|2026-09-01]] | Mentioned/heard by Brandon; unclear if a named character or background noise; Brandon repeatedly tells Brick to stop making noise and… |
 | [[episodes/2026-07-16|2026-07-16]] | Investigative media correspondent joins the news desk, providing commentary on Trump's address, JD Vance's couch jokes, and the humanoid robot story. |
@@ -45,13 +46,13 @@ Rick joined the broadcast on the [[episodes/2026-09-04|2026-09-04 broadcast]] to
 | [[episodes/2025-09-11|2025-09-11]] | Amongst the Web host. |
 | [[episodes/2025-07-19|2025-07-19]] | Amongst the Web host. |
 | [[episodes/2025-07-18|2025-07-18]] | Amongst the Web host. |
-| [[episodes/2025-06-24|2025-06-24]] | Deep State correspondent / Amongst the Web host. |
 
 <details>
-<summary>Earlier appearances (18)</summary>
+<summary>Earlier appearances (19)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-06-24|2025-06-24]] | Deep State correspondent / Amongst the Web host. |
 | [[episodes/2025-06-13|2025-06-13]] | Amongst the Web host. |
 | [[episodes/2025-06-02|2025-06-02]] | Amongst the Web host. |
 | [[episodes/2025-05-21|2025-05-21]] | Amongst the Web host. |

@@ -39,6 +39,7 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-08|2026-10-08]] | gaming correspondent. |
 | [[episodes/2026-09-23|2026-09-23]] | field correspondent. |
 | [[episodes/2026-09-02|2026-09-02]] | Live DOS playthrough of Epic MegaGames' *Jill of the Jungle* trilogy. Plugs Gooters wings and navigates his mother's Old English vocal affectations following a bumper-car accident. |
 | [[episodes/2026-09-01|2026-09-01]] | Streams *Wario Land 4* on GBA; hardware malfunctions force him to keyboard controls. His mother yells about turnip consumption, unwashed clothing, Pastor Joe, and Italian bicycles. Plugs Gooters mayo skins before aborting the broadcast in exasperation. |
@@ -58,13 +59,13 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-06-05|2026-06-05]] | Gaming and digital culture correspondent broadcasting remotely from his bedroom studio. |
 | [[episodes/2026-05-29|2026-05-29]] | Gaming correspondent playing Boogerman with mother interruptions. |
 | [[episodes/2026-05-22|2026-05-22]] | gaming correspondent. |
-| [[episodes/2026-05-21|2026-05-21]] | muffled-door antagonist. |
 
 <details>
-<summary>Earlier appearances (24)</summary>
+<summary>Earlier appearances (25)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-05-21|2026-05-21]] | muffled-door antagonist. |
 | [[episodes/2026-05-18|2026-05-18]] | gaming correspondent. |
 | [[episodes/2026-05-12|2026-05-12]] | gaming correspondent. |
 | [[episodes/2026-05-04|2026-05-04]] | off-screen interrupter. |
