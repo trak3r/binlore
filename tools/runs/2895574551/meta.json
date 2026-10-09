@@ -1,0 +1,19 @@
+{
+  "vod_id": "2895574551",
+  "title": "Thursday News Way",
+  "url": "https://www.twitch.tv/videos/2895574551",
+  "duration_seconds": 4866,
+  "duration": "1:21:06",
+  "timestamp": 1791417600,
+  "aired_at": "2026-10-08T00:00:00+00:00",
+  "date": "2026-10-08",
+  "ingested_at": "2026-10-09T12:38:07.590074+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "2895574551",
+  "yt_url": "https://www.youtube.com/watch?v=2895574551",
+  "twitch_id": "2895574551",
+  "twitch_url": "https://www.twitch.tv/videos/2895574551",
+  "catalog_date": "2026-10-08"
+}
