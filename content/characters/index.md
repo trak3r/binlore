@@ -37,7 +37,6 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/jebs-dad|Jeb's Dad]] | Co-Host (*How To with Jeb*) | Deceased patriarch whose cantankerous spirit is trapped in a pine board; openly favors Jet Nogget over Jeb |
 | [[characters/hate-sock|Hate Sock]] | Town Hall Contributor | Hostile grey sock puppet with googly eyes whose vocabulary consists entirely of "You wish" and "Dumbass" |
 | [[characters/gianna-wettmichel|Gianna Wettmichel]] | Guest Contributor | Outspoken returning correspondent who seized the anchor desk to warn viewers of Danny Phantom's supernatural dangers |
-| [[characters/christian|Christian]] | In-Studio Contributor | In-studio guest announcer and production runner |
 | [[characters/slightly-thick-waluigi|Slightly Thick Waluigi]] | Call-In Guest | Brooklyn-accented telephone interviewee claiming involvement in historical assassinations |
 | [[characters/grandma-crumble-bottom|Grandma Crumble Bottom]] | Guest Host (*Amongst the Web*) | Outspoken senior guest anchor who restored vision via solar sky lasers and laments cooking foot bunions for her late husband |
 | [[characters/liliana|Liliana]] | News Desk Co-Anchor | Irreverent desk partner returning from a year-long sabbatical with vacation photos and PTO demands |

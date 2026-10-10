@@ -48,5 +48,8 @@ A "raid" is when a stream concludes and Case sends the viewer audience to anothe
 ## 5. Exclusion of Twitch Chatters & Viewers
 Twitch chatters, Discord members, and audience members interacting via text chat (e.g. Card King) are viewers, NOT characters, and must NEVER be given character pages.
 
+## 5b. Exclusion of Private Real-World Friends & Relatives
+Real-world friends or relatives of Case who are not established recurring on-air personas (e.g. a one-off studio guest who is personally known to Case off-stream) must **NOT** receive character pages, index rows, or wiki cross-links. Prefer omitting the name entirely from episode notes rather than documenting them. Recurring on-air talent who also have a real-life relationship to Case (e.g. [[kendelle|Kendelle]]) remain in scope.
+
 ## 6. Multi-Episode Events & Story Arcs Constraint
 Pages under `content/storylines/` (display label: **Events & Story Arcs**) require multi-episode coverage. An event, bit, or incident that only occurred in a single episode is **NOT** an event/story-arc page. Qualifying arcs span multiple telecasts (e.g. [[../storylines/crum-dick-punch|Crum Dick Punch]], [[../storylines/beyblade-tournament|Beyblade Tournament]], [[../storylines/grunchmas|Grunchmas]]). Single-episode incidents must never be given pages in `content/storylines/`.
