@@ -79,4 +79,4 @@ See also: [[case-blackwell|Case Blackwell]], [[../episodes/2026-07-20|Episode 20
 
 ## Notable moments
 
-- **[04:51]** ([[episodes/2025-06-28|2025-06-28]]): [04:51] Revealed canonical identity as Sammy Seven Elbows (former president, now sock).
+- **[04:51]** ([[episodes/2025-06-28|2025-06-28]]): [04:51] Revealed canonical identity as [[sammy-seven-elbows|Sammy Seven Elbows]] (former president, now sock).

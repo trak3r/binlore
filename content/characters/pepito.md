@@ -242,7 +242,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 - **[14:39]** ([[episodes/2024-05-01|2024-05-01]]): Ate Case's entire original Batman animated series figurine collection, claiming he did Case a favor because Case was 'too old to still have those.'
 - **[51:12]** ([[episodes/2024-05-01|2024-05-01]]): Transfers a stock contract to Tyler, declaring him CEO of the network.
 - **[[02:20]]** ([[episodes/2024-05-02|2024-05-02]]): Ate a cell phone offered by a street vendor who sold phones at half price.
-- **[[31:02]]** ([[episodes/2024-05-02|2024-05-02]]): Consumed a full bag of Sweet Tarts gifted by Sammy Seven Elbows.
+- **[[31:02]]** ([[episodes/2024-05-02|2024-05-02]]): Consumed a full bag of Sweet Tarts gifted by [[sammy-seven-elbows|Sammy Seven Elbows]].
 - **[[1:43:40]]** ([[episodes/2024-05-02|2024-05-02]]): Lived in the White House for six years.
 - **[[1:45:24]]** ([[episodes/2024-05-02|2024-05-02]]): Identifies the 'doid' as the canine equivalent of the Noid.
 - **[[1:49:32]]** ([[episodes/2024-05-02|2024-05-02]]): Spent time inside Richard Gere with 50 others listening to a Beatles cover band.
