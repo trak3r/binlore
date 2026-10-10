@@ -472,10 +472,11 @@ def process_single_episode(
                 run_rel = str(run_dir.relative_to(REPO_ROOT))
                 if (REPO_ROOT / run_rel).exists():
                     add_paths.append(run_rel)
-                # Shared extract artifacts updated every iteration
+                # Shared artifacts updated every iteration / catalog refresh
                 for shared in (
                     "tools/runs/character-appearance-index.json",
                     "tools/runs/unknown-characters.jsonl",
+                    "tools/youtube_catalog.json",
                 ):
                     if (REPO_ROOT / shared).exists():
                         add_paths.append(shared)
