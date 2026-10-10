@@ -26,7 +26,7 @@ Guest artist collaborating on the Thump Steaks song.
 
 ## Notable moments
 
-- First identified in [[episodes/2026-05-29|Episode 2026-05-29]].
+- First seen in [[episodes/2026-05-29|Episode 2026-05-29]].
 
 ## Open questions
 

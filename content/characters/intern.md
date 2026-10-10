@@ -17,18 +17,18 @@ tags:
 
 ## Overview
 
-Auto-created minor character after appearing in 3 extracted episodes (threshold 3).
+Nothing notable on file yet.
 
 ## Appearances
 
 | Episode | Notes |
 |---|---|
 | [[episodes/2025-11-27|2025-11-27]] | production intern. |
-| [[episodes/2025-07-24|2025-07-24]] | Auto-created minor character after appearing in 3 extracted episodes (threshold 3). |
+| [[episodes/2025-07-24|2025-07-24]] | Broadcast appearance. |
 
 ## Notable moments
 
-- First identified in [[episodes/2025-07-24|Episode 2025-07-24]].
+- First seen in [[episodes/2025-07-24|Episode 2025-07-24]].
 
 ## Open questions
 

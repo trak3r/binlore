@@ -17,7 +17,7 @@ tags:
 
 ## Overview
 
-Auto-created minor character after appearing in 3 extracted episodes (threshold 3).
+Nothing notable on file yet.
 
 ## Appearances
 
@@ -33,11 +33,11 @@ Auto-created minor character after appearing in 3 extracted episodes (threshold 
 | [[episodes/2024-09-19|2024-09-19]] | call-in guest. |
 | [[episodes/2024-09-18|2024-09-18]] | Jumbalaya guest. |
 | [[episodes/2024-09-06|2024-09-06]] | co-host/correspondent. |
-| [[episodes/2024-05-01|2024-05-01]] | Auto-created minor character after appearing in 3 extracted episodes (threshold 3). |
+| [[episodes/2024-05-01|2024-05-01]] | Broadcast appearance. |
 
 ## Notable moments
 
-- First identified in [[episodes/2024-05-01|Episode 2024-05-01]].
+- First seen in [[episodes/2024-05-01|Episode 2024-05-01]].
 
 ## Open questions
 

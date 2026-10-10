@@ -339,10 +339,8 @@ def promote_characters(*, dry_run: bool = False, rebuild_index: bool = True) -> 
             if rec.count >= MINOR_THRESHOLD:
                 # Seed page from earliest episode in the index
                 ep_slug = sorted(rec.episodes)[0]
-                notes = (
-                    f"Auto-created minor character after appearing in {rec.count} "
-                    f"extracted episodes (threshold {MINOR_THRESHOLD})."
-                )
+                # Immersive placeholder — never expose extract/threshold pipeline details on the wiki.
+                notes = "Nothing notable on file yet."
                 created = create_character_page(
                     rec.name,
                     slug,

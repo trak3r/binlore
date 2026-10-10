@@ -17,17 +17,17 @@ tags:
 
 ## Overview
 
-Auto-created minor character after appearing in 3 extracted episodes (threshold 3).
+Nothing notable on file yet.
 
 ## Appearances
 
 | Episode | Notes |
 |---------|-------|
-| [[episodes/2023-12-02|2023-12-02]] | Auto-created minor character after appearing in 3 extracted episodes (threshold 3). |
+| [[episodes/2023-12-02|2023-12-02]] | Broadcast appearance. |
 
 ## Notable moments
 
-- First identified in [[episodes/2023-12-02|Episode 2023-12-02]].
+- First seen in [[episodes/2023-12-02|Episode 2023-12-02]].
 
 ## Open questions
 

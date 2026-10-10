@@ -61,19 +61,19 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/chris|Chris]] | Probation Officer (*At the Movies*) | Trent's required on-set probation / parole officer and trailer-block co-host |
 | [[characters/guy-redacted|Guy Redacted]] | Conspiracy Correspondent | Sunglasses-forward host of the Conspiracy Desk / Conspiracy Time blocks |
 | [[characters/clementine-verne|Clementine Verne]] | Conspiracy Correspondent (prior) | Original Conspiracy Time / Unvernished Truth host before Guy Redacted; curly-wigged man often billed as Clementine |
-| [[characters/fiona|Fiona]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
+| [[characters/fiona|Fiona]] | minor contributor | No summary on file yet |
 | [[characters/sammy-seven-elbows|Sammy Seven Elbows]] | recurring correspondent | Debut Night Man guest; elbow-count correspondent also billed as Sammy; Hate Sock's claimed flesh-world identity |
-| [[characters/tyler|Tyler]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
-| [[characters/joe-rogan|Joe Rogan]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
-| [[characters/salazar|Salazar]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
-| [[characters/rob-elvie|Rob Elvie]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
+| [[characters/tyler|Tyler]] | minor contributor | No summary on file yet |
+| [[characters/joe-rogan|Joe Rogan]] | minor contributor | No summary on file yet |
+| [[characters/salazar|Salazar]] | minor contributor | No summary on file yet |
+| [[characters/rob-elvie|Rob Elvie]] | minor contributor | No summary on file yet |
 | [[characters/ghost-writer|Ghost Writer]] | spectral lyricist (DJ C4) | Free-range studio ghost co-writing DJC4 tracks; also styled Ghostwriter |
-| [[characters/the-devil|The Devil]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
-| [[characters/mancini-smooth|Mancini Smooth]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
-| [[characters/jake|Jake]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
-| [[characters/robbie-love|Robbie Love]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
-| [[characters/little-tommy-big-law|Little Tommy Big Law]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
-| [[characters/intern|Intern]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
-| [[characters/jevrything|Jevrything]] | minor contributor | Auto-created minor character after appearing in 3 extracted episodes (threshold 3) |
+| [[characters/the-devil|The Devil]] | minor contributor | No summary on file yet |
+| [[characters/mancini-smooth|Mancini Smooth]] | minor contributor | No summary on file yet |
+| [[characters/jake|Jake]] | minor contributor | No summary on file yet |
+| [[characters/robbie-love|Robbie Love]] | minor contributor | No summary on file yet |
+| [[characters/little-tommy-big-law|Little Tommy Big Law]] | minor contributor | No summary on file yet |
+| [[characters/intern|Intern]] | minor contributor | No summary on file yet |
+| [[characters/jevrything|Jevrything]] | minor contributor | No summary on file yet |
 
 See also: [[../storylines/crum-dick-punch|Crum Dick Punch]], [[../segments/munch-and-crum|Munch & Crum]].

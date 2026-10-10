@@ -17,18 +17,18 @@ tags:
 
 ## Overview
 
-Auto-created minor character after appearing in 3 extracted episodes (threshold 3).
+Nothing notable on file yet.
 
 ## Appearances
 
 | Episode | Notes |
 |---|---|
 | [[episodes/2026-01-21|2026-01-21]] | studio guest. |
-| [[episodes/2025-05-30|2025-05-30]] | Auto-created minor character after appearing in 3 extracted episodes (threshold 3). |
+| [[episodes/2025-05-30|2025-05-30]] | Broadcast appearance. |
 
 ## Notable moments
 
-- First identified in [[episodes/2025-05-30|Episode 2025-05-30]].
+- First seen in [[episodes/2025-05-30|Episode 2025-05-30]].
 
 ## Open questions
 

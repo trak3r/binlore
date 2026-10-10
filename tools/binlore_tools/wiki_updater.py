@@ -628,13 +628,22 @@ def create_character_page(
 
     target_path = CONTENT_CHARACTERS / f"{slug}.md"
 
-    appearances_row = f"| [[episodes/{ep_slug}|{ep_slug}]] | {char_notes.replace('|', '/').strip()} |"
+    overview_notes = char_notes.replace("|", "/").strip()
+    # Keep Overview immersive; never surface extract/threshold pipeline copy on the wiki.
+    if not overview_notes or overview_notes.startswith("Auto-created minor character"):
+        overview_notes = "Nothing notable on file yet."
+    appearance_notes = (
+        "Broadcast appearance."
+        if overview_notes == "Nothing notable on file yet."
+        else overview_notes
+    )
+    appearances_row = f"| [[episodes/{ep_slug}|{ep_slug}]] | {appearance_notes} |"
     notable_bullets: list[str] = []
     for ts, fact in lore_facts:
         notable_bullets.append(f"- **[{ts}]** ([[episodes/{ep_slug}|{ep_slug}]]): {fact}")
 
     if not notable_bullets:
-        notable_bullets.append(f"- First identified in [[episodes/{ep_slug}|Episode {ep_slug}]].")
+        notable_bullets.append(f"- First seen in [[episodes/{ep_slug}|Episode {ep_slug}]].")
 
     # Mandatory character picture embed per wiki conventions
     img_tag = f"![{name} on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/{slug}.jpg)\n\n"
@@ -682,7 +691,7 @@ tags:
 
 ## Overview
 
-{char_notes}
+{overview_notes}
 
 ## Appearances
 

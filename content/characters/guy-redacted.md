@@ -31,11 +31,10 @@ Debuted when the network needed a dedicated "conspiracy guy" for Conspiracy Time
 | [[episodes/2025-03-17|2025-03-17]] | conspiracy correspondent. |
 | [[episodes/2024-07-30|2024-07-30]] | conspiracy correspondent. |
 | [[episodes/2024-06-18|2024-06-18]] | Debuts as new conspiracy correspondent; runs blueberry conspiracy deep-dive including Smurf interview. |
-| [[episodes/2024-06-07|2024-06-07]] | Auto-created minor character after appearing in 3 extracted episodes (threshold 3). |
+| [[episodes/2024-06-07|2024-06-07]] | Broadcast appearance. |
 
 ## Notable moments
 
-- First identified in [[episodes/2024-06-07|Episode 2024-06-07]].
 - **[]** ([[episodes/2024-06-18|2024-06-18]]): Debuts as network's new conspiracy correspondent ('our new conspiracy guy redacted') [01:51:48].
 - **[01:30:30]** ([[episodes/2024-10-03|2024-10-03]]): Claims Bigfoot eats his free-range dogs and leaves thank-you notes on his door [01:30:30].
 - **[]** ([[episodes/2025-03-17|2025-03-17]]): Returned after period of being 'silenced' by disappearing hosts; operates from undisclosed location, wears Illuminati hat, investigates Avril Lavigne replacement conspiracy. [1:49:14]
