@@ -31,4 +31,5 @@ Nothing notable on file yet.
 
 ## Open questions
 
+- Spelling: archive transcripts consistently render the surname **Elvie** (no on-air "Alvie" hits found); confirm if branding uses another spelling.
 - Full backstory and recurring lore

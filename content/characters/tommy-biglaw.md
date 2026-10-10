@@ -3,7 +3,13 @@ title: Tommy Biglaw
 type: character
 aliases:
   - Big Tommy Prosecutor
-first_seen: 2026-06-05
+  - Little Tommy Big Law
+  - Little Tommy Biglaw
+  - Lil Tommy Big Law
+  - Tommy Big Law
+  - characters/little-tommy-big-law
+  - /characters/little-tommy-big-law
+first_seen: 2024-05-30
 status: legal counsel
 tags:
   - character
@@ -14,32 +20,40 @@ tags:
 
 ![Tommy Biglaw on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/tommy-biglaw.jpg)
 
-**Tommy Biglaw** is the high-priced legal counsel representing lead anchor [[case-blackwell|Case Blackwell]] and *Barely Informed News*.
+**Tommy Biglaw** (also billed as **Little Tommy Big Law**, **Lil Tommy Big Law**, or **Little Tommy Biglaw**) is the high-priced legal counsel representing lead anchor [[case-blackwell|Case Blackwell]] and *Barely Informed News*.
 
 Distinguished by the facial features and lisping cadence of an infant paired with a dark, impeccably groomed full beard, Biglaw is treated across the network as a licensed, high-billing attorney despite his youth.
 
 ## Overview
 
-Debuting on the [[episodes/2026-08-26|2026-08-26 broadcast]], Tommy Biglaw was summoned on air after viewers threatened legal action over unhinged video material Blackwell broadcast during the news block. Despite his baby-talk lisp ("16 was" instead of laws, "court will" instead of courtroom), Biglaw enforces ruthless commercial terms, billing Blackwell strictly by the minute ($2,500 per infraction).
+Tommy first appears in the archive as toddler attorney **Little Tommy Big Law**, delivering surreal legal takes (Trump conviction snacks-and-jail analysis, nipple jurisprudence on Drake's UMG suit). Later billing shortens to **Tommy Biglaw**, but the infant face, baby-talk lisp, and predatory fee schedule stay continuous.
 
-Rather than defending his employer, Biglaw immediately turned on Blackwell by unveiling his aggressive alter-ego, **"Big Tommy Prosecutor."** Claiming to wear a second hat, Biglaw prosecuted his own client live on the network, demanding an immediate $40,000 settlement for 16 separate legal infractions before attempting to seize the studio's milk supplies.
+On the [[episodes/2026-08-26|2026-08-26 broadcast]], he was summoned after viewers threatened legal action over unhinged video material Blackwell aired. Despite the lisp ("16 was" instead of laws), he bills strictly by the minute ($2,500 per infraction), then turns on his own client as alter-ego **"Big Tommy Prosecutor,"** demanding a $40,000 settlement before attempting to seize studio milk.
 
 ## Appearances
 
 | Episode | Notes |
 |---|---|
-| [[episodes/2026-08-26|2026-08-26]] | Summoned to advise on studio legal liability; speaks in a baby-talk lisp, assumes his prosecutor alter-ego, and bills Blackwell $40,000 for breaking 16 laws. |
-| [[episodes/2026-08-14|2026-08-14]] | Referenced in passing via 'Tommy Biglaw' / hobbyist lawyer Lyvin Sleazy comments during the Luigi Mangione and CIA stories. |
-| [[episodes/2026-08-08|2026-08-08]] | High-priced legal counsel with a baby-talk lisp. Appears in the chocolate milk debate wearing a 'yellow and blue coat' carrying a whiteboard, abruptly voting people out of the discussion. |
-| [[episodes/2026-06-15|2026-06-15]] | Legal counsel, references euthanizing Crum. |
-| [[episodes/2026-06-05|2026-06-05]] | Legal counsel with infant-like features and lisp, known for his distinctive baby talk and courtroom-adjacent commentary. |
+| [[episodes/2026-08-26|2026-08-26]] | Studio legal consultation as Tommy Biglaw; unveils Big Tommy Prosecutor; bills $40,000 for 16 laws. |
+| [[episodes/2026-08-14|2026-08-14]] | Referenced via 'Tommy Biglaw' / hobbyist lawyer Lyvin Sleazy comments. |
+| [[episodes/2026-08-08|2026-08-08]] | Chocolate milk debate; yellow-and-blue coat, whiteboard votes. |
+| [[episodes/2026-06-15|2026-06-15]] | Legal counsel; references euthanizing Crum. |
+| [[episodes/2026-06-05|2026-06-05]] | Legal counsel with infant features and lisp. |
+| [[episodes/2026-04-29|2026-04-29]] | Town hall as Lil Tommy Big Law with Gianna Wet Mitchell. |
+| [[episodes/2025-07-30|2025-07-30]] | Lie-detector panel as Little Tommy Biglaw. |
+| [[episodes/2025-01-15|2025-01-15]] | Drake defamation suit; nipple-centric jurisprudence. |
+| [[episodes/2024-10-08|2024-10-08]] | DJ Newsic scam rundown with Little Tommy Big Law. |
+| [[episodes/2024-05-30|2024-05-30]] | Trump conviction fallout; toddler legal analysis debut. |
 
 ## Notable moments
 
+- **[00:00]** ([[episodes/2024-05-30|2024-05-30]]): Early Little Tommy Big Law analysis of Trump's conviction — punished for not saying sorry; bills $1000/minute.
+- **[01:35:20]** ([[episodes/2026-08-26|2026-08-26]]): Arrives complaining he lacked time to shave; billable minutes accruing.
+- **[01:35:54]** ([[episodes/2026-08-26|2026-08-26]]): Unveils "Big Tommy Prosecutor," prosecuting Blackwell live.
+- **[01:37:04]** ([[episodes/2026-08-26|2026-08-26]]): Tallies 16 broken "was" at $2,500 apiece; demands $40,000 wire before going for "big milk."
 
+## Open questions
 
-- **[01:35:20]** ([[episodes/2026-08-26|2026-08-26]]): Arrives on set complaining he lacked time to shave, immediately notifying Blackwell that billable minutes are accruing.
-- **[01:35:54]** ([[episodes/2026-08-26|2026-08-26]]): Unveils his courtroom alter-ego as "Big Tommy Prosecutor," turning on his client and prosecuting Blackwell live on the air.
-- **[01:37:04]** ([[episodes/2026-08-26|2026-08-26]]): Formally tallies 16 broken "was" (laws) at $2,500 apiece, demanding a $40,000 wire transfer to his firm before attempting to consume Blackwell's "big milk."
-- **[24:42]** ([[episodes/2026-08-14|2026-08-14]]): Biglaw is referenced as a 'hobbyist lawyer' via the alias 'Lyvin Sleazy', weighing in on the Luigi Mangione case as a sidebar legal opinion.
-- **[01:30:01]** ([[episodes/2026-06-15|2026-06-15]]): Tommy Biglaw is mentioned in the context of euthanizing Crum, referencing Dr. Kevorkian.
+- Whether every "Little Tommy" / "Lil Tommy" billing is continuous canon with the later Tommy Biglaw studio appearances (treated as one character here).
+
+See also: [[case-blackwell|Case Blackwell]], [[index|On-Air Talent]].

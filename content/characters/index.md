@@ -31,7 +31,7 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 
 | Contributor | Broadcast Role | Notes |
 |---|---|---|
-| [[characters/tommy-biglaw|Tommy Biglaw]] | Legal Counsel | High-priced infant attorney with a baby-talk lisp; also serves as "Big Tommy Prosecutor" |
+| [[characters/tommy-biglaw|Tommy Biglaw]] | Legal Counsel | High-priced infant attorney (also Little Tommy Big Law) with a baby-talk lisp; also serves as "Big Tommy Prosecutor" |
 | [[characters/cremus-tremando|Cremus Tremando]] | Occult & Mystical Consultant | Freelance mystic sorcerer retained for supernatural broadcast emergencies |
 | [[characters/abraham-lincoln|Abraham Lincoln]] | Spectral Contributor | High-pitched metaphysical projection of the 16th US President; calls out network Beyblade debts and rap-battles Hype Train |
 | [[characters/jebs-dad|Jeb's Dad]] | Co-Host (*How To with Jeb*) | Deceased patriarch whose cantankerous spirit is trapped in a pine board; openly favors Jet Nogget over Jeb |
@@ -72,7 +72,6 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/mancini-smooth|Mancini Smooth]] | minor contributor | No summary on file yet |
 | [[characters/jake|Jake]] | minor contributor | No summary on file yet |
 | [[characters/robbie-love|Robbie Love]] | minor contributor | No summary on file yet |
-| [[characters/little-tommy-big-law|Little Tommy Big Law]] | minor contributor | No summary on file yet |
 | [[characters/intern|Intern]] | minor contributor | No summary on file yet |
 | [[characters/jevrything|Jevrything]] | minor contributor | No summary on file yet |
 
