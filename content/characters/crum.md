@@ -429,7 +429,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[1:17:39]** ([[episodes/2025-10-16|2025-10-16]]): Claims 35-45 years of marriage; currently sleeping on couch in a 'comfortable valley' with scheduled morning/bedtime contact. [1:17:39, 1:19:37]
 - **[1:19:16]** ([[episodes/2025-10-16|2025-10-16]]): Admits he and wife practice face sitting; last occurred 'a couple months ago' before memory lapse. [1:19:16]
 - **[]** ([[episodes/2025-10-31|2025-10-31]]): [02:34:43] Crum explicitly identifies as 'hell crumb' from the Join the Wall arc, confirming the hell transit and assistant manager role remain canon.
-- **[]** ([[episodes/2025-11-03|2025-11-03]]): Wife allegedly with Frederick (Freddie Jizbo), a French construction worker/tutor; Crum claims different house configuration but loyal marriage. [01:05:24]
+- **[]** ([[episodes/2025-11-03|2025-11-03]]): Wife allegedly with Frederick (Freddie Jizzbo), a French construction worker/tutor; Crum claims different house configuration but loyal marriage. [01:05:24]
 - **[1:27:08]** ([[episodes/2025-11-15|2025-11-15]]): Crum served as a mayor in the early 2000s and courted billionaire investors including Epstein-adjacent figures.
 - **[21:59]** ([[episodes/2025-11-18|2025-11-18]]): [21:59] Eyebrows temporarily singed off by Pepito's 'fire room'; regrow by debate segment.
 - **[25:29]** ([[episodes/2025-11-18|2025-11-18]]): [25:29] Claims 'manapuberty' — a third puberty causing physical changes.

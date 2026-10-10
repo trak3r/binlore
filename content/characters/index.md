@@ -54,7 +54,7 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/jazz-shrimp|Jazz Shrimp]] | Minor Culinary-Music Correspondent | Tempura-fried jazz shrimp who debates food critics over his claim to be the greatest jazz shrimp of all time |
 | [[characters/don-riggles|Don Riggles]] | Minor Trial Witness | Returning elder witness whose testimony is almost entirely about smells and bowels |
 | [[characters/coach-mcgurk|Coach McGurk]] | Minor Character Witness | Character witness for Crum from the Bart Simpson voice / zombie-head era |
-| [[characters/jizbo|Jizbo]] | Minor Trial Witness | Returns from the mountain; answers examination with a conga |
+| [[characters/jizzbo|Jizzbo]] | Wall Electrician / Trial Witness | Join the Wall electrician and guest vocalist; returns from the mountain to answer examination with a conga |
 | [[characters/steak|Steak]] | Guest Artist | Collaborator on the Thump Steaks theme song with DJ C4 |
 | [[characters/trent|Trent]] | Movie Correspondent (*At the Movies*) | Truant teen of ambiguous age hosting trailer reviews under probation supervision |
 | [[characters/chris|Chris]] | Probation Officer (*At the Movies*) | Trent's required on-set probation / parole officer and trailer-block co-host |

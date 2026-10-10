@@ -34,7 +34,7 @@ The arc climaxes on the extended [[../episodes/2025-09-21|Join the Wall]] teleca
 
 ## The Climax: Join the Wall (2025-09-21)
 
-On [[../episodes/2025-09-21|Join the Wall]], Munch leads building maintenance Dave and electrician Gizbo into the studio drywall. They uncover Peter Gibbon's domain, spectral hazards, and hell itself. After RPG-style combat, Munch uses a hell key fused to his soul to free Crum and return to the studio.
+On [[../episodes/2025-09-21|Join the Wall]], Munch leads building maintenance Dave and electrician Jizzbo into the studio drywall. They uncover Peter Gibbon's domain, spectral hazards, and hell itself. After RPG-style combat, Munch uses a hell key fused to his soul to free Crum and return to the studio.
 
 ## Aftermath (2025-09-25)
 
@@ -74,13 +74,13 @@ On [[../episodes/2025-09-25|Post Wall and Rapture Clarity]], resurrected Crum si
 | [[../episodes/2025-09-21|2025-09-21]] | **Climax:** Join the Wall RPG descent. Crum found dead in hell as assistant manager of the hell transit authority; rescued via Munch's hell key. [02:31:32] |
 | [[../episodes/2025-09-25|2025-09-25]] | **Resurrection coda:** Crum back from hell after the gorilla explosion arc; claims amnesia and super strength; Munch demands points return. [1:20:22–1:42:23] |
 | [[../episodes/2025-09-26|2025-09-26]] [53:14] | [53:14] Munch references retrieving Crum from hell where Crum was working as assistant manager at a hellish transit authority. |
-| [[../episodes/2025-09-29|2025-09-29]] [01:41:29] | [01:41:29] Wall lore expanded: Gizbo confirms maintenance work in wall, lost friend Grandman; Crum's concubines claim wall/hell connection. |
+| [[../episodes/2025-09-29|2025-09-29]] [01:41:29] | [01:41:29] Wall lore expanded: Jizzbo confirms maintenance work in wall, lost friend Grandman; Crum's concubines claim wall/hell connection. |
 | [[../episodes/2025-10-02|2025-10-02]] | Munch reiterates Crum's hell tenure as assistant manager; threatens to send Crum back through crawlspace to retrieve poster. [01:03:39, 01:09:02] |
 | [[../episodes/2025-10-04|2025-10-04]] | [2025-10-04] Peter Gibbon returns from wall claiming cosmic resilience ('if you break a wall you can rebuild it'); references Munch sending him to hell. |
 | [[../episodes/2025-10-06|2025-10-06]] [01:24:36] | [01:24:36] Case references 'level up again in context' and threatens to 'send someone else into the wall,' invoking the crawlspace hell transit. |
 | [[../episodes/2025-10-09|2025-10-09]] [1:44:38] | [1:44:38] Munch references Crum's hell stint: 'You seemed actually happier down there... thriving in a way you just never have up here' — confirms Crum's hell employment canon. |
 | [[../episodes/2025-10-31|2025-10-31]] [02:34:43] | [02:34:43] Crum declares 'hell crumb is me' and 'the killer's in the room with you,' directly referencing his hell tenure and rescue arc from the Join the Wall storyline. |
-| [[../episodes/2025-11-03|2025-11-03]] | Jeb's Dad asks if Crum knows his wife left him and married Jizbo after he died and went to hell; Crum denies knowledge. |
+| [[../episodes/2025-11-03|2025-11-03]] | Jeb's Dad asks if Crum knows his wife left him and married Jizzbo after he died and went to hell; Crum denies knowledge. |
 | [[../episodes/2025-11-27|2025-11-27]] [01:12:02] | [01:12:02] Peter Gibbon urges Case to send another group into the wall; Case refuses, citing esotericism for newer viewers. |
 | [[../episodes/2025-12-04|2025-12-04]] [01:08:11] | Crum cited Peter Gibbon's wall-teasing during the Thanksgiving confession. |
 | [[../episodes/2026-01-06|2026-01-06]] [01:37:53] | [01:37:53] Zombie Dick Clark confirms Crum was in hell for 'a couple trillion years in hell time' and 'four million more years' was denied; glad he's gone. |
