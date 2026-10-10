@@ -1,0 +1,19 @@
+{
+  "vod_id": "2896509659",
+  "title": "Too Many Segments",
+  "url": "https://www.twitch.tv/videos/2896509659",
+  "duration_seconds": 6758,
+  "duration": "1:52:38",
+  "timestamp": 1791590400,
+  "aired_at": "2026-10-10T00:00:00+00:00",
+  "date": "2026-10-10",
+  "ingested_at": "2026-10-10T10:17:26.014829+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "2896509659",
+  "yt_url": "https://www.youtube.com/watch?v=2896509659",
+  "twitch_id": "2896509659",
+  "twitch_url": "https://www.twitch.tv/videos/2896509659",
+  "catalog_date": "2026-10-10"
+}
