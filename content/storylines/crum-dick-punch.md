@@ -177,6 +177,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2026-09-23|2026-09-23]] [01:14:10] | [01:14:10] Hype Train references the mechanical gorilla as 'terminator now' and suggests letting it punch Crum again; [01:14:53] claims AI took the gorilla's job. |
 | [[../episodes/2026-09-25|2026-09-25]] | Munch's skeleton state confirmed as permanent; Munch declares himself Lord of the Dead and demonstrates summonable penis [53:55, 57:48, 58:51]. |
 | [[../episodes/2026-09-29|2026-09-29]] [1:27:57] | Munch references failed murder attempt and Crum's skeleton transformation during Halloween decoration debate [1:27:57]. |
+| [[../episodes/2026-10-10|2026-10-10]] [56:49] | [56:49] Therapy referenced for Crum's post-dick-punch state; Munch remains skeleton; Crum denies needing therapy. |
 
 ## Related Pages
 

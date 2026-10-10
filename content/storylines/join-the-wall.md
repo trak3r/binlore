@@ -91,6 +91,7 @@ On [[../episodes/2025-09-25|Post Wall and Rapture Clarity]], resurrected Crum si
 | [[../episodes/2026-03-12|2026-03-12]] [01:21:56] | [01:21:56] Crum references being 'brought back better than ever' from hell transit; occasional super-strength side effect. |
 | [[../episodes/2026-04-11|2026-04-11]] | Crum reveals a blood-covered hard drive from his 'fugue state' that whispers at night and has been plugged into studio computers, generating new files including a 'hell poster' of Crum [1:51:49, 1:53:52]. |
 | [[../episodes/2026-09-29|2026-09-29]] [1:28:29] | Munch references hell transit and Crum working as assistant manager in hell during debate [1:28:29]. |
+| [[../episodes/2026-10-10|2026-10-10]] [58:58] | [58:58] Munch admits he died and returned from hell; confirms dead community meetings; skeleton form is permanent. |
 
 ## Related Pages
 

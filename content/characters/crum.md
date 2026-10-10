@@ -36,6 +36,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-10|2026-10-10]] | debate analyst. |
 | [[episodes/2026-09-25|2026-09-25]] | debate analyst. |
 | [[episodes/2026-09-07|2026-09-07]] | Steps up to face the long-delayed Rock-afire Gorilla execution during the Season 3 finale. Reveals his physical conditioning included swinging 45-pound logs into his groin. Survives a catastrophic mechanical explosion that destroys the gorilla and burns Munch into a talking skeleton, claiming ultimate victory. |
 | [[episodes/2026-09-04|2026-09-04]] | Takes the debate desk following the botched occult ritual, temporarily disoriented into believing he has swapped identities with Munch. Employs archaic slang ('japs' for mischief) and prepares for his scheduled Monday robotic gorilla encounter. |
@@ -55,13 +56,13 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-05-21|2026-05-21]] | debate analyst. |
 | [[episodes/2026-05-18|2026-05-18]] | debate analyst. |
 | [[episodes/2026-05-14|2026-05-14]] | debate analyst. |
-| [[episodes/2026-05-12|2026-05-12]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (184)</summary>
+<summary>Earlier appearances (185)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-05-12|2026-05-12]] | debate analyst. |
 | [[episodes/2026-05-04|2026-05-04]] | debate analyst. |
 | [[episodes/2026-04-29|2026-04-29]] | debate analyst. |
 | [[episodes/2026-04-21|2026-04-21]] | contractual rapper. |

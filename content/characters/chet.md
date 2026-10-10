@@ -35,6 +35,7 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-10|2026-10-10]] | science correspondent. |
 | [[episodes/2026-09-04|2026-09-04]] | Intervenes following coverage of The Family International cult; introduces upgraded blue-light protective eyewear, investigates cult propaganda tracks, and warns of cognitive AI vulnerabilities. |
 | [[episodes/2026-09-02|2026-09-02]] | Triggered after the news desk utters "scientists"; reviews a Brazilian Journal of Plastic Surgery aesthetic proportion study alongside [[chet-ai|ChetAI]], determining that "all boobs is good." |
 | [[episodes/2026-08-19|2026-08-19]] | Chief science correspondent deploying to the desk to investigate the smart underwear flatulence research. |
@@ -54,13 +55,13 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2026-03-27|2026-03-27]] | science correspondent. |
 | [[episodes/2026-03-24|2026-03-24]] | science correspondent. |
 | [[episodes/2026-03-17|2026-03-17]] | science correspondent. |
-| [[episodes/2026-03-10|2026-03-10]] | science correspondent. |
 
 <details>
-<summary>Earlier appearances (93)</summary>
+<summary>Earlier appearances (94)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-03-10|2026-03-10]] | science correspondent. |
 | [[episodes/2026-03-06|2026-03-06]] | science correspondent. |
 | [[episodes/2026-02-26|2026-02-26]] | science correspondent. |
 | [[episodes/2026-02-17|2026-02-17]] | science correspondent. |

@@ -47,6 +47,7 @@ After a vanished stretch of airtime, Jeb came back with a reconstructed face tha
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-10|2026-10-10]] | instructional host. |
 | [[episodes/2026-07-17|2026-07-17]] | How-To host. Co-hosted instructional triple-feature on vocal aerobics, advanced finger snapping, and self-massage. |
 | [[episodes/2026-06-22|2026-06-22]] | Mentioned in reference to 'the two Jebs' during merch brainstorming. |
 | [[episodes/2026-06-15|2026-06-15]] | Host of 'How To with Jeb', demonstrates Kool-Aid recipe. |
@@ -66,13 +67,13 @@ After a vanished stretch of airtime, Jeb came back with a reconstructed face tha
 | [[episodes/2026-01-06|2026-01-06]] | instructional host. |
 | [[episodes/2025-12-19|2025-12-19]] | field correspondent. |
 | [[episodes/2025-12-13|2025-12-13]] | instructional host. |
-| [[episodes/2025-12-04|2025-12-04]] | How To Host. |
 
 <details>
-<summary>Earlier appearances (52)</summary>
+<summary>Earlier appearances (53)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-12-04|2025-12-04]] | How To Host. |
 | [[episodes/2025-11-25|2025-11-25]] | instructional host. |
 | [[episodes/2025-11-15|2025-11-15]] | instructional host. |
 | [[episodes/2025-11-03|2025-11-03]] | instructional host. |

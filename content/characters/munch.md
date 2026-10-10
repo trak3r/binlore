@@ -28,6 +28,7 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-10|2026-10-10]] | debate analyst. |
 | [[episodes/2026-09-25|2026-09-25]] | debate analyst. |
 | [[episodes/2026-09-07|2026-09-07]] | Oversees the long-delayed Rock-afire Gorilla execution against Crum. Caught in the catastrophic backblast when the machine explodes, incinerating him into a living, talking skeleton. Insists his skeletal form highlights superior bone structure, debates Crum on Crayola vs. RoseArt, and promises to haunt the desk indefinitely. |
 | [[episodes/2026-08-26|2026-08-26]] | Defends his candidacy as a superior mayor to Mamdani, proclaims himself the debate winner, and argues that Crum must endure a "reverse pardon" resulting in two punches. |
@@ -47,13 +48,13 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 | [[episodes/2026-05-12|2026-05-12]] | debate analyst. |
 | [[episodes/2026-05-04|2026-05-04]] | debate analyst. |
 | [[episodes/2026-04-29|2026-04-29]] | debate analyst. |
-| [[episodes/2026-04-21|2026-04-21]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (171)</summary>
+<summary>Earlier appearances (172)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-04-21|2026-04-21]] | debate analyst. |
 | [[episodes/2026-04-15|2026-04-15]] | debate analyst. |
 | [[episodes/2026-04-14|2026-04-14]] | debate analyst. |
 | [[episodes/2026-04-06|2026-04-06]] | debate analyst. |

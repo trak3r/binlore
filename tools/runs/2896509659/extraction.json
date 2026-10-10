@@ -1,0 +1,198 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "00:00",
+      "end": "17:00",
+      "title": "Cold Open & Station Sign-On",
+      "notes": "Pepito delivers top-of-hour sign-on; Hype Train interrupts with prostate-themed freestyle; Daniel introduced as new intern; Kendelle brief walk-through."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "17:00",
+      "end": "42:16",
+      "title": "News Desk: JD Vance, Ice Cream Shop, Pikachu ISS Tour",
+      "notes": "Case and Liliana review bin lore wiki; JD Vance clip on livestreamed execution; Massachusetts ice cream shop viral post; Pikachu ISS tour triggers Chet Guy the Science Eyes."
+    },
+    {
+      "canonical_segment": "Chet Guy the Science Eyes",
+      "start": "38:16",
+      "end": "42:16",
+      "title": "Chet Interrupts: Pikachu Biology & Space Reproduction",
+      "notes": "Chet commandeers broadcast after 'science' spoken; analyzes Pikachu reproduction, adult Pichu existence, and space colony logistics."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "start": "42:44",
+      "end": "01:01:51",
+      "title": "Double Debate: Something vs Nothing & Tell HateSock",
+      "notes": "Skeleton Munch and Crum debate two topics: something vs nothing (nothing wins), and whether to inform HateSock of Kendall's engagement (lies win)."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "start": "01:03:02",
+      "end": "01:17:11",
+      "title": "Abs Tutorial, Being Normal, Breathing Exercises",
+      "notes": "Jeb demonstrates lower-ab flexing technique, attempts 'how to be normal' steps, and tries guided breathing faces with ghost dad commentary."
+    },
+    {
+      "canonical_segment": "The Jo Rogen Experience",
+      "start": "01:17:11",
+      "end": "01:33:39",
+      "title": "Joe Rogan Parody: Birthing Fluid, Trap-Max Workforce, Blug Streaming",
+      "notes": "Dual Joe Rogans field chat questions on mind-worm elixirs, birthing fluid sourcing, trap-max labor, and Paramount/Disney merger into 'Blug'."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "start": "01:35:35",
+      "end": "01:48:30",
+      "title": "Park Interviews: Shape-Shifters, Alien Grey, Skeleton Sheriff",
+      "notes": "Trip Bradstein interviews park visitors including shape-shifting Aion/Rob, undercover Mountain Man Mike, gelatinous park sheriff skeleton, and yanking singularity theorist."
+    },
+    {
+      "canonical_segment": "News",
+      "start": "01:48:30",
+      "end": "01:52:38",
+      "title": "Sign-Off & Raid Prep",
+      "notes": "Case wraps broadcast, confirms Daniel's son Orval Reddenbacher, mentions Fiona project launch next week, Pepito raids Raz."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "lead anchor",
+      "notes": "lead anchor. Anchored news desk, moderated Munch & Crum debates, hosted Jo Rogen Experience, closed show with project update.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train host",
+      "notes": "hype train host. Derailed sign-on with prostate-themed freestyle rap, sparred with Daniel intern, demanded genre shifts.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Daniel",
+      "role": "intern",
+      "notes": "Introduced as new Pepito intern; debated prostate health, revealed son named Orval Reddenbacher, offered to cover streams.",
+      "canonical_name": "Daniel",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Brief studio walk-through for equipment; engagement confirmed via wiki and debated on air.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana",
+      "role": "desk partner",
+      "notes": "desk partner. Co-anchored news desk, read ice cream shop story, reacted to wiki entries, challenged JD Vance bit.",
+      "canonical_name": "Liliana",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated something vs nothing and HateSock disclosure; claimed full head of hair in flesh form, denied therapy obligation.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Appeared as immortal skeleton; argued for nothingness and lying to HateSock; admitted dying and returning from hell.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosted How To with Jeb: abs flexing, normalcy tutorial, breathing exercises; bickered with ghost dad in wood.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Conducted park interviews from bushes; encountered shape-shifters, alien grey, skeleton sheriff, yanking theorist.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Triggered by 'science' during Pikachu video; delivered breakdown on Pikachu reproduction and space colony biology.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[56:49] Therapy referenced for Crum's post-dick-punch state; Munch remains skeleton; Crum denies needing therapy.",
+      "timestamp": "56:49"
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "[58:58] Munch admits he died and returned from hell; confirms dead community meetings; skeleton form is permanent.",
+      "timestamp": "58:58"
+    },
+    {
+      "storyline": "Kendall Engagement",
+      "beat": "[22:32] Wiki confirms Kendall engaged; [45:58] Munch & Crum debate whether to tell HateSock; lies faction wins.",
+      "timestamp": "22:32"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "",
+      "fact": "Daniel intern has a son named Orval Reddenbacher.",
+      "timestamp": "[01:49:58]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Case Blackwell working on launch project with Fiona targeting week of 2026-10-20.",
+      "timestamp": "[01:50:41]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "",
+      "fact": "Trip Bradstein's park sheriff is a gelatinous human-form skeleton active at 3-4pm with 60% humidity.",
+      "timestamp": "[01:44:19]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News navigated a segment-dense broadcast featuring a dual Munch & Crum debate while Munch remains in permanent skeleton form, a Chet Guy the Science Eyes interruption on Pikachu reproductive biology, and a Trip on the Street edition plagued by shape-shifting park visitors. The network's bin lore wiki was reviewed live, confirming Kendall's engagement and sparking a debate on whether to inform the HateSock. Executive producer Pepito closed the night with a raid on Raz after Case noted an upcoming project launch with Fiona.",
+  "_meta": {
+    "vod_id": "2896509659",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 100116,
+    "approx_prompt_tokens": 25029,
+    "transcript_lines": 276
+  }
+}
