@@ -18,7 +18,7 @@ Most “AI demos” stop at a chat transcript. BIN Lore is an end-to-end product
 - **Idempotent wiki updates** — episode rundowns, character appearance tables, storyline beats, segment occurrence logs
 - **Screencap CDN** — ffmpeg frame capture hosted on a permanent GitHub Release asset CDN (repo stays binary-light)
 - **Unattended batch** — bare `./binlore` runs refresh → transcribe → extract → wiki; disk hygiene, retries, Quartz gates, per-episode commits
-- **Published site** — Quartz wiki on GitHub Pages with graph view, backlinks, and full-text search; public deploys only when `production` advances
+- **Published site** — Quartz wiki on GitHub Pages with graph view, backlinks, and full-text search; public deploys on every push to `main`
 
 ## Pipeline
 
@@ -42,12 +42,12 @@ Twitch / YouTube VOD
            │
            ▼
 ┌─────────────────────┐
-│   Quartz preview    │  validate build locally on main
+│   Quartz preview    │  validate build locally (optional)
 └──────────┬──────────┘
            │
            ▼
 ┌─────────────────────┐
-│ merge -> production │  express publish -> GitHub Pages
+│  push to main       │  GitHub Actions -> GitHub Pages
 └─────────────────────┘
 ```
 
@@ -334,9 +334,7 @@ Open [http://localhost:8080](http://localhost:8080).
 
 ### Step 7: Review & Publish to GitHub Pages
 
-Work lands on `main` (transcripts, wiki edits). The live site only updates when you merge `main` into `production`. Do not commit directly to `production`. Preview locally first with Step 6 if you want a visual check.
-
-**1. Land work on `main`**
+Work lands on `main` (transcripts, wiki edits). Pushing to `main` deploys the public wiki. Preview locally first with Step 6 if you want a visual check.
 
 ```bash
 git status
@@ -345,24 +343,7 @@ git commit -m "Add notes for episode YYYY-MM-DD"
 git push origin main
 ```
 
-Pushing to `main` does **not** deploy the public wiki.
-
-**2. Publish — merge `main` → `production`**
-
-CLI (fast-forward when `production` has not diverged):
-
-```bash
-git checkout production && git pull
-git merge --ff-only main
-git push origin production
-git checkout main
-```
-
-Or open a PR with base `production` and compare `main`, review the diff, then merge.
-
-**3. Confirm deploy**
-
-Pushing to `production` runs [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml). When that Actions run succeeds, [https://binlore.wiki/](https://binlore.wiki/) reflects the new tip of `production`.
+Pushing to `main` runs [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml). When that Actions run succeeds, [https://binlore.wiki/](https://binlore.wiki/) reflects the new tip of `main`.
 
 ### Step 8: Reclaim Disk Space (`binlore clean`)
 
