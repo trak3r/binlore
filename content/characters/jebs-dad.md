@@ -92,7 +92,7 @@ He displays a profound, open disdain for Jeb's woodworking skills and emotional 
 
 ## Notable Moments
 
-- **[01:23:25]** ([[../episodes/2026-08-14|2026-08-14]]): Debuts at the workshop desk during the first broadcast of *How To with Jeb*, materializing in the timber to lambaste Jeb's measuring posture.
+- **[1:23:25]** ([[../episodes/2026-08-14|2026-08-14]]): Debuts at the workshop desk during the first broadcast of *How To with Jeb*, materializing in the timber to lambaste Jeb's measuring posture.
 
 ## Open Questions
 
@@ -108,9 +108,9 @@ He displays a profound, open disdain for Jeb's woodworking skills and emotional 
 
 ## Notable moments
 
-- **[]** ([[episodes/2024-06-26|2024-06-26]]): Spirit permanently trapped inside a wooden board in Jeb's workshop. [02:39:24]
-- **[]** ([[episodes/2024-07-17|2024-07-17]]): The wood trapping Jeb's Dad is closing in around him daily; flies around his head grow stronger. [49:29]
-- **[01:40:34]** ([[episodes/2024-09-18|2024-09-18]]): Claims to be ripped/jacked as a spirit residing in wood [01:40:34].
-- **[]** ([[episodes/2025-10-04|2025-10-04]]): Displays anomalous wood manipulation: Grubhub delivers wood orders, parking ticket for wood wheels, wood in water receptacle. [2:49:23]
-- **[1:14:14]** ([[episodes/2026-03-24|2026-03-24]]): Deceased father's spirit permanently trapped in a wooden board; co-hosts How To with Jeb [1:14:14].
-- **[[1:22:06]]** ([[episodes/2026-04-27|2026-04-27]]): Jeb's Dad's spirit remains trapped in the wooden board and desires to return to the 'Blade rave in the sky' afterlife.
+- **[2:39:24]** ([[episodes/2024-06-26|2024-06-26]]): Spirit permanently trapped inside a wooden board in Jeb's workshop.
+- **[49:29]** ([[episodes/2024-07-17|2024-07-17]]): The wood trapping Jeb's Dad is closing in around him daily; flies around his head grow stronger.
+- **[1:40:34]** ([[episodes/2024-09-18|2024-09-18]]): Claims to be ripped/jacked as a spirit residing in wood.
+- **[2:49:23]** ([[episodes/2025-10-04|2025-10-04]]): Displays anomalous wood manipulation: Grubhub delivers wood orders, parking ticket for wood wheels, wood in water receptacle.
+- **[1:14:14]** ([[episodes/2026-03-24|2026-03-24]]): Deceased father's spirit permanently trapped in a wooden board; co-hosts How To with Jeb.
+- **[1:22:06]** ([[episodes/2026-04-27|2026-04-27]]): Jeb's Dad's spirit remains trapped in the wooden board and desires to return to the 'Blade rave in the sky' afterlife.

@@ -49,8 +49,8 @@ He proclaims himself the **"President of the Dead"** within the "swirling vortex
 ## Notable Moments
 
 - **[16:45]** ([[../episodes/2026-07-20|2026-07-20]]): Details the mechanics of the swirling vortex singularity and explains the Grim Reaper's poker matches with Joe Biden.
-- **[01:05:51]** ([[../episodes/2026-07-20|2026-07-20]]): Calls out the network's unpaid community debt for a Beyblade tournament, inaugurating the [[../storylines/beyblade-tournament|Beyblade Tournament]] saga.
-- **[01:10:32]** ([[../episodes/2026-07-20|2026-07-20]]): Explains the dimensional phasing capabilities of his stovepipe top hat.
+- **[1:05:51]** ([[../episodes/2026-07-20|2026-07-20]]): Calls out the network's unpaid community debt for a Beyblade tournament, inaugurating the [[../storylines/beyblade-tournament|Beyblade Tournament]] saga.
+- **[1:10:32]** ([[../episodes/2026-07-20|2026-07-20]]): Explains the dimensional phasing capabilities of his stovepipe top hat.
 
 ## Open Questions
 

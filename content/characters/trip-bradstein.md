@@ -109,28 +109,28 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 
 ## Notable moments
 
-- **[01:50:21]** ([[episodes/2026-06-29|2026-06-29]]): Emerges live from his park bush following an alleged two-month hibernation, declaring "I'll never leave these streets," and conducts street interviews based on audience-submitted questions. When his own mother approaches his bush, he treats her as an unfamiliar pedestrian.
-- **[01:50:21]** ([[episodes/2026-06-29|2026-06-29]]): Field correspondent Trip Bradstein broadcasts live from a park bush after a 'two-month bush hibernation' and insists 'I'll never leave these streets.' Has a mother who visits the park and confuses him with a stranger.
+- **[1:50:21]** ([[episodes/2026-06-29|2026-06-29]]): Emerges live from his park bush following an alleged two-month hibernation, declaring "I'll never leave these streets," and conducts street interviews based on audience-submitted questions. When his own mother approaches his bush, he treats her as an unfamiliar pedestrian.
+- **[1:50:21]** ([[episodes/2026-06-29|2026-06-29]]): Field correspondent Trip Bradstein broadcasts live from a park bush after a 'two-month bush hibernation' and insists 'I'll never leave these streets.' Has a mother who visits the park and confuses him with a stranger.
 - **[2:11:54]** ([[episodes/2025-06-02|2025-06-02]]): Trip Bradstein institutes a three-strike 'fan ejection' rule for repeat park interviewees.
-- **[]** ([[episodes/2025-06-11|2025-06-11]]): Trip Bradstein's accountant/enemy is a hamster who lives in his bush. [3:05:42]
-- **[]** ([[episodes/2025-06-11|2025-06-11]]): Trip Bradstein's ska band covered mariachi songs ska-style; former bandmate Mitchell died in a bus accident but is kept alive by 'the power of ska.' [3:28:31]
-- **[]** ([[episodes/2025-06-24|2025-06-24]]): [02:52:28] Keeps a computer in his bush; claims to be landlord of the bush he claimed.
-- **[01:53:15]** ([[episodes/2025-06-28|2025-06-28]]): [01:53:15] Implemented 10-minute cooldown on !trip command per person.
-- **[]** ([[episodes/2024-01-05|2024-01-05]]): Coined the genre 'trip hop' for his street rap segments. [1:45:47]
-- **[]** ([[episodes/2024-01-13|2024-01-13]]): Has a memorial wig that Case wears to feel invested during Trip segments [2:20:19].
-- **[01:44:31]** ([[episodes/2024-02-29|2024-02-29]]): [01:44:31] Confirms permanent park residence: 'I'll be lapping pond water and scraping food out of the trash.'
-- **[1:37:51]** ([[episodes/2024-04-02|2024-04-02]]): Confirmed operating on East Coast time from New York park location [1:37:51].
-- **[1:37:51]** ([[episodes/2024-04-02|2024-04-02]]): Purchased sleep mask ('sleep often') for scheduling attempts [1:37:51].
-- **[01:57:43]** ([[episodes/2024-06-05|2024-06-05]]): New '!trip' command system deployed for viewer opinion submissions; system exhibits opinion duplication bug [01:57:43].
-- **[]** ([[episodes/2024-06-26|2024-06-26]]): Missed son Chase's outdoor wedding because Rob Elvie stole the mailed invite and blocked the number; microphone-punched Rob in retaliation. [02:31:21]
-- **[01:44:57]** ([[episodes/2024-08-07|2024-08-07]]): Trip Bradstein conducts 'Whisper Wednesday' ASMR streets segment from park
+- **[3:05:42]** ([[episodes/2025-06-11|2025-06-11]]): Trip Bradstein's accountant/enemy is a hamster who lives in his bush.
+- **[3:28:31]** ([[episodes/2025-06-11|2025-06-11]]): Trip Bradstein's ska band covered mariachi songs ska-style; former bandmate Mitchell died in a bus accident but is kept alive by 'the power of ska.'
+- **[2:52:28]** ([[episodes/2025-06-24|2025-06-24]]): Keeps a computer in his bush; claims to be landlord of the bush he claimed.
+- **[1:53:15]** ([[episodes/2025-06-28|2025-06-28]]): Implemented 10-minute cooldown on!trip command per person.
+- **[1:45:47]** ([[episodes/2024-01-05|2024-01-05]]): Coined the genre 'trip hop' for his street rap segments.
+- **[2:20:19]** ([[episodes/2024-01-13|2024-01-13]]): Has a memorial wig that Case wears to feel invested during Trip segments.
+- **[1:44:31]** ([[episodes/2024-02-29|2024-02-29]]): Confirms permanent park residence: 'I'll be lapping pond water and scraping food out of the trash.'
+- **[1:37:51]** ([[episodes/2024-04-02|2024-04-02]]): Confirmed operating on East Coast time from New York park location.
+- **[1:37:51]** ([[episodes/2024-04-02|2024-04-02]]): Purchased sleep mask ('sleep often') for scheduling attempts.
+- **[1:57:43]** ([[episodes/2024-06-05|2024-06-05]]): New '!trip' command system deployed for viewer opinion submissions; system exhibits opinion duplication bug.
+- **[2:31:21]** ([[episodes/2024-06-26|2024-06-26]]): Missed son Chase's outdoor wedding because Rob Elvie stole the mailed invite and blocked the number; microphone-punched Rob in retaliation.
+- **[1:44:57]** ([[episodes/2024-08-07|2024-08-07]]): Trip Bradstein conducts 'Whisper Wednesday' ASMR streets segment from park
 - **[56:22]** ([[episodes/2024-08-22|2024-08-22]]): Trip Bradstein's alert system switched to StreamRobot, missing certain sub types.
-- **[02:47:07]** ([[episodes/2024-10-03|2024-10-03]]): Offered $3M contract by Tony Khan to join AEW, then fired minutes later for 'aggressive energy' from a bystander [02:47:07].
-- **[01:02:38]** ([[episodes/2025-01-06|2025-01-06]]): Encountered doppelganger Brad Trippstein claiming rivalry; interviewed pregnant time-traveling pizza delivery guy Rip Blazer giving birth to living pizza babies.
-- **[[02:05:05]]** ([[episodes/2025-02-12|2025-02-12]]): Claims to practice 'tiger moves' and possess a 1940s-style flat-chest body built for pulling/pushing; references tiger strength in confrontations.
-- **[01:48:16]** ([[episodes/2025-04-04|2025-04-04]]): Maintains 'opinion slop' trough in park; vows to stay on streets until literal bones bleached by sun.
+- **[2:47:07]** ([[episodes/2024-10-03|2024-10-03]]): Offered $3M contract by Tony Khan to join AEW, then fired minutes later for 'aggressive energy' from a bystander.
+- **[1:02:38]** ([[episodes/2025-01-06|2025-01-06]]): Encountered doppelganger Brad Trippstein claiming rivalry; interviewed pregnant time-traveling pizza delivery guy Rip Blazer giving birth to living pizza babies.
+- **[2:05:05]** ([[episodes/2025-02-12|2025-02-12]]): Claims to practice 'tiger moves' and possess a 1940s-style flat-chest body built for pulling/pushing; references tiger strength in confrontations.
+- **[1:48:16]** ([[episodes/2025-04-04|2025-04-04]]): Maintains 'opinion slop' trough in park; vows to stay on streets until literal bones bleached by sun.
 - **[2:13:17]** ([[episodes/2025-09-11|2025-09-11]]): Trip Bradstein has installed a bidet in his bush ('cleanest bush in the park').
-- **[1:14:02]** ([[episodes/2025-10-16|2025-10-16]]): Bush background has apparently never been updated despite long absences. [1:14:02]
-- **[]** ([[episodes/2025-11-03|2025-11-03]]): Opinion submission sheet glitched, merging with town-hall question queue; Trip performs live list surgery to fix. [02:09:35]
-- **[[1:31:42]]** ([[episodes/2026-02-26|2026-02-26]]): Left side of house sunk into pit of 'penis acid' from burst pipes clogged with his own acid.
-- **[01:59:36]** ([[episodes/2026-04-06|2026-04-06]]): Coma narrative persists; Bad Trip (lightning split) claims Trip is in coma and must merge to escape.
+- **[1:14:02]** ([[episodes/2025-10-16|2025-10-16]]): Bush background has apparently never been updated despite long absences.
+- **[2:09:35]** ([[episodes/2025-11-03|2025-11-03]]): Opinion submission sheet glitched, merging with town-hall question queue; Trip performs live list surgery to fix.
+- **[1:31:42]** ([[episodes/2026-02-26|2026-02-26]]): Left side of house sunk into pit of 'penis acid' from burst pipes clogged with his own acid.
+- **[1:59:36]** ([[episodes/2026-04-06|2026-04-06]]): Coma narrative persists; Bad Trip (lightning split) claims Trip is in coma and must merge to escape.

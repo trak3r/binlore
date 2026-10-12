@@ -28,7 +28,7 @@ Nothing notable on file yet.
 
 ## Notable moments
 
-- **[01:10:42]** ([[episodes/2026-04-06|2026-04-06]]): Alpha Brain supplement now powered by AI — powder is a large language model you can ingest and query.
+- **[1:10:42]** ([[episodes/2026-04-06|2026-04-06]]): Alpha Brain supplement now powered by AI — powder is a large language model you can ingest and query.
 
 ## Open questions
 

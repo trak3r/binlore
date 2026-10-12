@@ -77,7 +77,7 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 
 ## Notable Moments
 
-- **[01:42:35]** ([[episodes/2026-06-29|2026-06-29]]): Debuts his "Jam EFE" persona, demanding Case respect his official catchphrase and announcing *Steam Shirt No Pants*.
+- **[1:42:35]** ([[episodes/2026-06-29|2026-06-29]]): Debuts his "Jam EFE" persona, demanding Case respect his official catchphrase and announcing *Steam Shirt No Pants*.
 - **[16:13]** ([[episodes/2026-07-13|2026-07-13]]): Bitterly proclaims himself the "number one Ben Hooper fan" as chat relentlessly hypes Hooper's corny reporting.
 - **[21:59]** ([[episodes/2026-08-04|2026-08-04]]): Anchors the primary desk and performs a slam-poetry cadence delivery of breaking weird news.
 - **[44:26]** ([[episodes/2026-08-06|2026-08-06]]): Blackwell taunts Ripple by addressing him as "Ben Hooper" when calling on him for a viral human-interest report.
@@ -88,18 +88,18 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 
 ## Notable moments
 
-- **[00:40:07]** ([[episodes/2026-06-08|2026-06-08]]): Harbors intense one-sided rivalry with real-world UPI reporter Ben Hooper; audience favors Hooper's corny antics.
-- **[01:12:49]** ([[episodes/2026-05-29|2026-05-29]]): Ben Hooper is an external real-world journalist, not a character on the show, and is mentioned in news coverage.
-- **[01:42:35]** ([[episodes/2026-06-29|2026-06-29]]): Jeff Ripple is now going by 'Jam EFE' (and 'Jeff Everything') in his current 'era.' Claims to have had his 'whole genitals replaced with custom whale bone' and is dropping a new album called 'Steam Shirt No Pants.'
+- **[0:40:07]** ([[episodes/2026-06-08|2026-06-08]]): Harbors intense one-sided rivalry with real-world UPI reporter Ben Hooper; audience favors Hooper's corny antics.
+- **[1:12:49]** ([[episodes/2026-05-29|2026-05-29]]): Ben Hooper is an external real-world journalist, not a character on the show, and is mentioned in news coverage.
+- **[1:42:35]** ([[episodes/2026-06-29|2026-06-29]]): Jeff Ripple is now going by 'Jam EFE' (and 'Jeff Everything') in his current 'era.' Claims to have had his 'whole genitals replaced with custom whale bone' and is dropping a new album called 'Steam Shirt No Pants.'
 - **[34:53]** ([[episodes/2026-09-01|2026-09-01]]): Jeff Ripple (transcribed by ASR as 'Ben Hooper') delivers an 'odds and ends' news segment covering the floating BC island, bat-mouth Virginia doctor, Tarzana coyote-vs-bear, and David Rush's water-balloon record. Case cheers his 'first internal segment.'
-- **[[13:57]]** ([[episodes/2023-12-02|2023-12-02]]): Has a 'hot Filipino son' ornament made by Kendelle; referenced during Young Thug coverage.
-- **[]** ([[episodes/2024-01-13|2024-01-13]]): Took a second holiday break after already returning once [29:14].
-- **[00:58:23]** ([[episodes/2024-02-29|2024-02-29]]): [00:58:23] Receives AI-generated Madonna 'Express Yourself' parody theme song ('Jeff Express Yourself').
+- **[13:57]** ([[episodes/2023-12-02|2023-12-02]]): Has a 'hot Filipino son' ornament made by Kendelle; referenced during Young Thug coverage.
+- **[29:14]** ([[episodes/2024-01-13|2024-01-13]]): Took a second holiday break after already returning once.
+- **[0:58:23]** ([[episodes/2024-02-29|2024-02-29]]): Receives AI-generated Madonna 'Express Yourself' parody theme song ('Jeff Express Yourself').
 - **[36:23]** ([[episodes/2024-03-18|2024-03-18]]): Jeff Ripple reveals he has two Filipino sons.
-- **[[01:07:02]]** ([[episodes/2024-08-22|2024-08-22]]): Discovered DNC podium doubles as urinal; urinated on floor during live cross while crowd applauded to Beyoncé music.
-- **[]** ([[episodes/2025-03-31|2025-03-31]]): Jeff Ripple returned from hiatus spent in Cabo at 'MMA gym/kung fu' after absence since early March. [20:11, 53:36]
+- **[1:07:02]** ([[episodes/2024-08-22|2024-08-22]]): Discovered DNC podium doubles as urinal; urinated on floor during live cross while crowd applauded to Beyoncé music.
+- ([[episodes/2025-03-31|2025-03-31]]): Jeff Ripple returned from hiatus spent in Cabo at 'MMA gym/kung fu' after absence since early March. [20:11, 53:36]
 - **[45:19]** ([[episodes/2025-06-09|2025-06-09]]): Jeff Ripple fills in for missing Jeb on How To with Jeb.
-- **[]** ([[episodes/2025-10-31|2025-10-31]]): [36:44] Chat poll settled Jeff Ripple's last name as 'Wet Mitchell' after HR toilet bit.
-- **[]** ([[episodes/2026-01-21|2026-01-21]]): Performed a 'Chet Guy the Science Eyes' bit claiming a 100% protein plus lawn grass diet makes his farts 'clinical grade chemical weapons' that boost brain function [1:10:06].
-- **[1:24:22]** ([[episodes/2026-02-04|2026-02-04]]): [1:24:22] Jeff Ripple's middle name is 'Retain' (anglicized at Ellis Island from historic 'Return').
-- **[1:25:19]** ([[episodes/2026-02-04|2026-02-04]]): [1:25:19] Jeff Ripple has a Filipino son whom he refers to as 'my beautiful Filipino boy.'
+- **[36:44]** ([[episodes/2025-10-31|2025-10-31]]): Chat poll settled Jeff Ripple's last name as 'Wet Mitchell' after HR toilet bit.
+- **[1:10:06]** ([[episodes/2026-01-21|2026-01-21]]): Performed a 'Chet Guy the Science Eyes' bit claiming a 100% protein plus lawn grass diet makes his farts 'clinical grade chemical weapons' that boost brain function.
+- **[1:24:22]** ([[episodes/2026-02-04|2026-02-04]]): Jeff Ripple's middle name is 'Retain' (anglicized at Ellis Island from historic 'Return').
+- **[1:25:19]** ([[episodes/2026-02-04|2026-02-04]]): Jeff Ripple has a Filipino son whom he refers to as 'my beautiful Filipino boy.'

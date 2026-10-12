@@ -45,8 +45,8 @@ The court sustains the musical interruption despite Jizzbo clarifying he does no
 
 ## Notable Moments
 
-- **[01:51:50]** ([[../episodes/2026-03-07|2026-03-07]]): Returns from the mountain and takes the stand.
-- **[01:52:26]** ([[../episodes/2026-03-07|2026-03-07]]): Answers examination with a full conga performance; ruling sustained.
+- **[1:51:50]** ([[../episodes/2026-03-07|2026-03-07]]): Returns from the mountain and takes the stand.
+- **[1:52:26]** ([[../episodes/2026-03-07|2026-03-07]]): Answers examination with a full conga performance; ruling sustained.
 
 ## Open Questions
 

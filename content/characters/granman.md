@@ -49,8 +49,8 @@ He is a specialty presence rather than a desk fixture: useful for sock lectures,
 ## Notable Moments
 
 - **[11:20]** ([[../episodes/2026-05-29|2026-05-29]]): Reintroduces himself after Case forgets he exists, then pivots hard into athletic socks.
-- **[01:33:20]** ([[../episodes/2026-06-18|2026-06-18]]): Claims asexual reproduction via mouth-laid eggs while hosting Amongst the Web.
-- **[01:42:46]** ([[../episodes/2026-06-18|2026-06-18]]): Departs after a failed high-five with Case.
+- **[1:33:20]** ([[../episodes/2026-06-18|2026-06-18]]): Claims asexual reproduction via mouth-laid eggs while hosting Amongst the Web.
+- **[1:42:46]** ([[../episodes/2026-06-18|2026-06-18]]): Departs after a failed high-five with Case.
 
 ## Open Questions
 
@@ -61,4 +61,4 @@ See also: [[../segments/amongst-the-web|Amongst the Web]], [[crum|Crum]], [[inde
 
 ## Notable moments
 
-- **[00:37:49]** ([[episodes/2025-03-21|2025-03-21]]): Works at BIN office as copier/printer refiller, IT, bathroom clog handyman, and unpaid social event organizer. [03:49]
+- **[0:37:49]** ([[episodes/2025-03-21|2025-03-21]]): Works at BIN office as copier/printer refiller, IT, bathroom clog handyman, and unpaid social event organizer. [03:49]

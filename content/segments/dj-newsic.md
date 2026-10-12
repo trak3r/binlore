@@ -38,6 +38,6 @@ The segment bridges political satire and club-ready electronic performance, turn
 
 | Episode | Timestamp | Notes |
 |---|---|---|
-| [[../episodes/2026-07-23|2026-07-23]] | 02:05:53 | Korean Ant-Eating Michelin Disaster: DJ Newsic arrives at the desk in his bright blue hair and sunglasses to sing the news with heavy auto-tune over techno beats. He covers a South Korean Michelin-starred restaurant facing prosecution for using ants as a dessert garnish, passionately sings that 'love is the only ingredient that should be legal', and interviews an elephant guest who performs an outrageous closing musical number. |
+| [[../episodes/2026-07-23|2026-07-23]] | 2:05:53 | Korean Ant-Eating Michelin Disaster: DJ Newsic arrives at the desk in his bright blue hair and sunglasses to sing the news with heavy auto-tune over techno beats. He covers a South Korean Michelin-starred restaurant facing prosecution for using ants as a dessert garnish, passionately sings that 'love is the only ingredient that should be legal', and interviews an elephant guest who performs an outrageous closing musical number. |
 
 See also: [[../characters/dj-newsic|DJ Newsic (Character)]], [[../characters/dj-c4|DJ C4]], [[../characters/case-blackwell|Case Blackwell]], [[index|Broadcast Segments]].

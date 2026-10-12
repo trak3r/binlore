@@ -146,37 +146,37 @@ See also: [[../segments/how-to-with-jeb|How To with Jeb]], [[../characters/index
 
 ## Notable moments
 
-- **[01:25:37]** ([[episodes/2026-07-17|2026-07-17]]): Jeb's Dad reveals he is actively trying to escape his timber prison by willing his hands into a file to sand down 'the spiritual bars that must be holding me in here' one second at a time.
+- **[1:25:37]** ([[episodes/2026-07-17|2026-07-17]]): Jeb's Dad reveals he is actively trying to escape his timber prison by willing his hands into a file to sand down 'the spiritual bars that must be holding me in here' one second at a time.
 - **[54:37]** ([[episodes/2026-06-22|2026-06-22]]): Jeb Nogget is the host of 'How To with Jeb' who is joined by his deceased father trapped inside a wooden board. He is referenced in merch brainstorming as 'the two Jebs' inside all of us.
-- **[01:36:43]** ([[episodes/2026-06-15|2026-06-15]]): Jeb Nogget's 'How To with Jeb' segment features a Kool-Aid pineapple recipe and oral aerobics.
-- **[01:25:00]** ([[episodes/2026-08-14|2026-08-14]]): Jeb appears to host the unscheduled 'How To' block, claiming pre-cut wood and an unspecified 'mechanism' for handling wood, while learning about college-level self-defense and club dancing.
-- **[[01:13:51]]** ([[episodes/2025-06-19|2025-06-19]]): Currently missing; Jeb's Dad (spirit in board) confirms no one can find him and he hasn't seen signs of death.
-- **[42:10]** ([[episodes/2025-07-01|2025-07-01]]): Fell down a 40-foot empty well, landed face-first on stone bottom, required facial reconstructive surgery using throat tissue [42:10].
-- **[48:10]** ([[episodes/2025-07-01|2025-07-01]]): Brother Jet Nogget is a world-class plastic surgeon but unavailable due to full schedule [48:10].
-- **[[52:18]]** ([[episodes/2024-05-30|2024-05-30]]): Owns extremely old unopened Maker's Mark whiskey gifted by Case Blackwell; attempted to drink it 'like a sir' without ice per instructional video, got instantly drunk on one sip.
-- **[[54:48]]** ([[episodes/2024-05-30|2024-05-30]]): Has a 'little brother' mentor program picking up a 32-year-old from prison; claimed drunkenness prevented pickup.
-- **[01:56:44]** ([[episodes/2024-08-08|2024-08-08]]): Father worked at ShowBiz Pizza until age 32; met Jeb's mother at a bar next door that was shut down by police three days later. [01:56:44]
-- **[01:55:34]** ([[episodes/2024-08-08|2024-08-08]]): Parents conceived within a week of meeting and married hastily. [01:55:34]
-- **[[01:48:56]]** ([[episodes/2024-08-14|2024-08-14]]): Performed ear coning on himself using a cone inserted in his ear; produced unsightly gunk he claimed was ear wax.
-- **[[02:00:25]]** ([[episodes/2024-08-14|2024-08-14]]): Showcased professional nose waxing by Steve Crovo in San Francisco; Jeb froze frames for 'male excellence' screenshots.
-- **[[01:41:44]]** ([[episodes/2024-08-22|2024-08-22]]): Father's spirit remains trapped in wooden board; they bicker domestically during How To segments.
-- **[[56:33-57:20]]** ([[episodes/2024-09-13|2024-09-13]]): Defecates in pants during How To segment; continues broadcast while managing containment.
-- **[01:40:34]** ([[episodes/2024-09-18|2024-09-18]]): Claims to be ripped/jacked as a spirit residing in wood [01:40:34].
-- **[52:33]** ([[episodes/2024-10-02|2024-10-02]]): Claims to have figured out how to free his father from the wood, though father insists it's impossible. [52:33]
-- **[01:47:58]** ([[episodes/2025-01-06|2025-01-06]]): Deceased father remains trapped in wooden board; spectral clothing debated; father allegedly sent psychic peace-of-mind gift via transcendental meditation.
-- **[[02:10:42]]** ([[episodes/2025-01-31|2025-01-31]]): Co-founded jet company with Alex Nugget; naming dispute resolved as 'Jet Nugget' in Alex's honor.
-- **[]** ([[episodes/2025-03-17|2025-03-17]]): Broadcasting as deceased 'ghost in the wood' after losing glasses; co-hosts with father's spirit trapped in wooden board. [1:38:42]
-- **[[02:27:43]]** ([[episodes/2025-04-10|2025-04-10]]): Father's ghost permanently trapped in a wooden board; co-hosts How To from woodshop.
-- **[[02:28:15]]** ([[episodes/2025-04-10|2025-04-10]]): Claims he once pulled his father out of a burning car that his father entered willingly.
-- **[]** ([[episodes/2025-04-11|2025-04-11]]): Jeb Nogget's whereabouts unknown; Rick claims CIA suggests location tied to missing Snapchat filter [24:46]
-- **[02:10:54]** ([[episodes/2025-04-14|2025-04-14]]): Missing; father (Ghost Dad) places bounty via hidden Snapchat filter containing location data; Ghost Dad claims reduced 'demonic humming' since Jeb's disappearance.
-- **[[34:56]]** ([[episodes/2025-05-30|2025-05-30]]): Confirmed missing; Case says 'apparently he's dead or something' and doesn't know who he is.
-- **[]** ([[episodes/2025-07-10|2025-07-10]]): Jeb Nogget fell down an empty well, smashed face on stone, required full facial reconstruction [1:41:20]
-- **[[02:52:47]]** ([[episodes/2025-09-05|2025-09-05]]): Suffered a 50-foot fall into a dry stone well, requiring reconstructive facial surgery.
-- **[]** ([[episodes/2025-11-25|2025-11-25]]): [01:50:18] Dad's spirit temporarily untethers from the wooden board, confined to a single room/frame.
-- **[01:33:12]** ([[episodes/2025-12-13|2025-12-13]]): [01:33:12] Jeb confirms he is dead ('you're dead and you're in the wood') and has been in good mood lately.
-- **[[02:25:12]]** ([[episodes/2026-01-24|2026-01-24]]): Father's spirit permanently trapped in wooden board; they bicker on air.
-- **[01:46:21]** ([[episodes/2026-01-27|2026-01-27]]): Referenced his family well backstory again, claiming it whispers to him and that he fell down it causing his facial changes [01:46:21].
-- **[]** ([[episodes/2026-02-19|2026-02-19]]): [56:32] Visits private Newt Museum (Newts evolving into hairless humans) near his home; confuses it with Smithsonian.
-- **[[1:32:35]]** ([[episodes/2026-04-27|2026-04-27]]): Jeb Nogget achieved his cooking stream goal.
-- **[[01:30:05]]** ([[episodes/2026-05-14|2026-05-14]]): Suffering mono audio reception (left channel only) during How To segment.
+- **[1:36:43]** ([[episodes/2026-06-15|2026-06-15]]): Jeb Nogget's 'How To with Jeb' segment features a Kool-Aid pineapple recipe and oral aerobics.
+- **[1:25:00]** ([[episodes/2026-08-14|2026-08-14]]): Jeb appears to host the unscheduled 'How To' block, claiming pre-cut wood and an unspecified 'mechanism' for handling wood, while learning about college-level self-defense and club dancing.
+- **[1:13:51]** ([[episodes/2025-06-19|2025-06-19]]): Currently missing; Jeb's Dad (spirit in board) confirms no one can find him and he hasn't seen signs of death.
+- **[42:10]** ([[episodes/2025-07-01|2025-07-01]]): Fell down a 40-foot empty well, landed face-first on stone bottom, required facial reconstructive surgery using throat tissue.
+- **[48:10]** ([[episodes/2025-07-01|2025-07-01]]): Brother Jet Nogget is a world-class plastic surgeon but unavailable due to full schedule.
+- **[52:18]** ([[episodes/2024-05-30|2024-05-30]]): Owns extremely old unopened Maker's Mark whiskey gifted by Case Blackwell; attempted to drink it 'like a sir' without ice per instructional video, got instantly drunk on one sip.
+- **[54:48]** ([[episodes/2024-05-30|2024-05-30]]): Has a 'little brother' mentor program picking up a 32-year-old from prison; claimed drunkenness prevented pickup.
+- **[1:56:44]** ([[episodes/2024-08-08|2024-08-08]]): Father worked at ShowBiz Pizza until age 32; met Jeb's mother at a bar next door that was shut down by police three days later.
+- **[1:55:34]** ([[episodes/2024-08-08|2024-08-08]]): Parents conceived within a week of meeting and married hastily.
+- **[1:48:56]** ([[episodes/2024-08-14|2024-08-14]]): Performed ear coning on himself using a cone inserted in his ear; produced unsightly gunk he claimed was ear wax.
+- **[2:00:25]** ([[episodes/2024-08-14|2024-08-14]]): Showcased professional nose waxing by Steve Crovo in San Francisco; Jeb froze frames for 'male excellence' screenshots.
+- **[1:41:44]** ([[episodes/2024-08-22|2024-08-22]]): Father's spirit remains trapped in wooden board; they bicker domestically during How To segments.
+- **[56:33]** ([[episodes/2024-09-13|2024-09-13]]): Defecates in pants during How To segment; continues broadcast while managing containment.
+- **[1:40:34]** ([[episodes/2024-09-18|2024-09-18]]): Claims to be ripped/jacked as a spirit residing in wood.
+- **[52:33]** ([[episodes/2024-10-02|2024-10-02]]): Claims to have figured out how to free his father from the wood, though father insists it's impossible.
+- **[1:47:58]** ([[episodes/2025-01-06|2025-01-06]]): Deceased father remains trapped in wooden board; spectral clothing debated; father allegedly sent psychic peace-of-mind gift via transcendental meditation.
+- **[2:10:42]** ([[episodes/2025-01-31|2025-01-31]]): Co-founded jet company with Alex Nugget; naming dispute resolved as 'Jet Nugget' in Alex's honor.
+- **[1:38:42]** ([[episodes/2025-03-17|2025-03-17]]): Broadcasting as deceased 'ghost in the wood' after losing glasses; co-hosts with father's spirit trapped in wooden board.
+- **[2:27:43]** ([[episodes/2025-04-10|2025-04-10]]): Father's ghost permanently trapped in a wooden board; co-hosts How To from woodshop.
+- **[2:28:15]** ([[episodes/2025-04-10|2025-04-10]]): Claims he once pulled his father out of a burning car that his father entered willingly.
+- **[24:46]** ([[episodes/2025-04-11|2025-04-11]]): Jeb Nogget's whereabouts unknown; Rick claims CIA suggests location tied to missing Snapchat filter
+- **[2:10:54]** ([[episodes/2025-04-14|2025-04-14]]): Missing; father (Ghost Dad) places bounty via hidden Snapchat filter containing location data; Ghost Dad claims reduced 'demonic humming' since Jeb's disappearance.
+- **[34:56]** ([[episodes/2025-05-30|2025-05-30]]): Confirmed missing; Case says 'apparently he's dead or something' and doesn't know who he is.
+- **[1:41:20]** ([[episodes/2025-07-10|2025-07-10]]): Jeb Nogget fell down an empty well, smashed face on stone, required full facial reconstruction
+- **[2:52:47]** ([[episodes/2025-09-05|2025-09-05]]): Suffered a 50-foot fall into a dry stone well, requiring reconstructive facial surgery.
+- **[1:50:18]** ([[episodes/2025-11-25|2025-11-25]]): Dad's spirit temporarily untethers from the wooden board, confined to a single room/frame.
+- **[1:33:12]** ([[episodes/2025-12-13|2025-12-13]]): Jeb confirms he is dead ('you're dead and you're in the wood') and has been in good mood lately.
+- **[2:25:12]** ([[episodes/2026-01-24|2026-01-24]]): Father's spirit permanently trapped in wooden board; they bicker on air.
+- **[1:46:21]** ([[episodes/2026-01-27|2026-01-27]]): Referenced his family well backstory again, claiming it whispers to him and that he fell down it causing his facial changes.
+- **[56:32]** ([[episodes/2026-02-19|2026-02-19]]): Visits private Newt Museum (Newts evolving into hairless humans) near his home; confuses it with Smithsonian.
+- **[1:32:35]** ([[episodes/2026-04-27|2026-04-27]]): Jeb Nogget achieved his cooking stream goal.
+- **[1:30:05]** ([[episodes/2026-05-14|2026-05-14]]): Suffering mono audio reception (left channel only) during How To segment.

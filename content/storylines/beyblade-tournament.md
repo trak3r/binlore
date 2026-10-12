@@ -38,7 +38,7 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 | [[../episodes/2023-11-22|2023-11-22]] [1:53:50] | Beyblade song played during Munch & Crum poll setup [1:53:50], indicating ongoing community pledge. |
 | [[../episodes/2023-11-28|2023-11-28]] | [126:58] Munch suggests Crum needs 'a hot round of Beyblade' as the show exits, referencing the pending 2v2 Beyblade Burst Event pledge. |
 | [[../episodes/2023-12-02|2023-12-02]] [31:24] | [31:24] Hype Train references Crum's Beyblade win ('he got smashed with the crumb wins') and Beyblade song on Munch & Crum tab. |
-| [[../episodes/2023-12-12|2023-12-12]] [02:57:46] | Munch plays the Beyblade Tournament theme song during Munch & Crum, signaling the community-pledge event remains active. |
+| [[../episodes/2023-12-12|2023-12-12]] [2:57:46] | Munch plays the Beyblade Tournament theme song during Munch & Crum, signaling the community-pledge event remains active. |
 | [[../episodes/2023-12-14|2023-12-14]] [13:36] | [13:36] Crumbs Miss / Grunge Miss scheduled for Sunday 5pm PST / 8pm EST as holiday event; Case suggests messy wings and green face paint dress code. |
 | [[../episodes/2023-12-16|2023-12-16]] | [137:00] Sunday 7pm 'Grunch Miss' stream announced for Beyblade 2v2 event; Case and Kendall may appear; green body paint required. |
 | [[../episodes/2023-12-31|2023-12-31]] [3:11:16] | [3:11:16] Case mentions 'Beyblade Tournament' as a pending community pledge while setting up final host polls. |
@@ -46,46 +46,46 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 | [[../episodes/2024-02-02|2024-02-02]] [42:03] | [42:03] Kendall references Beyblade love in auto-tune song: 'your love for Beyblades... compare that love with your love with me.' |
 | [[../episodes/2024-02-09|2024-02-09]] | [2024-02-09] Case mentions Beyblade Tournament sub goal still pending; says they'll meet Crum's cousin when it's met. |
 | [[../episodes/2024-02-27|2024-02-27]] | No advancement this episode. |
-| [[../episodes/2024-02-29|2024-02-29]] [02:37:20] | [02:37:20] Crum plays Beyblade Burst song to break Munch's silence; Munch admits Crum beat him at Beyblades previously; Crum claims Beyblade supremacy as 'wins that matter.' |
+| [[../episodes/2024-02-29|2024-02-29]] [2:37:20] | [02:37:20] Crum plays Beyblade Burst song to break Munch's silence; Munch admits Crum beat him at Beyblades previously; Crum claims Beyblade supremacy as 'wins that matter.' |
 | [[../episodes/2024-03-01|2024-03-01]] [1:25:03] | [1:25:03] Hype Train lyric 'Careful with the Beyblades, man' references pending 2v2 Beyblade Burst Event pledge. |
 | [[../episodes/2024-03-18|2024-03-18]] [1:01:21] | [1:01:21] Munch references Beyblade Tournament momentum: 'Like a Beyblade, that top can only spend for so long. And now I'm topping you.' |
 | [[../episodes/2024-03-26|2024-03-26]] [49:14] | [49:14] Chat Beyblade activity signals Science Eyes debut tomorrow; tournament pledge remains pending. |
-| [[../episodes/2024-04-03|2024-04-03]] [02:16:02] | [02:16:02] Case invokes Beyblade Burst as a mental focus technique during the pirate shooting gallery grind; [02:20:20] Sub goal reached — 'Beyblade Blurp' celebrated on air. |
-| [[../episodes/2024-05-03|2024-05-03]] [02:20:52] | [02:20:52] Def Jam: Fight for NY community goal crushed; underground tournament planned for next week with PCSX2 setup. |
-| [[../episodes/2024-05-10|2024-05-10]] [02:11:43] | Case mentions Beyblade as potential way to restore Munch's sanity; Crum notes Munch's Beyblade points already beat him in total debates. [02:11:43] |
+| [[../episodes/2024-04-03|2024-04-03]] [2:16:02] | [02:16:02] Case invokes Beyblade Burst as a mental focus technique during the pirate shooting gallery grind; [02:20:20] Sub goal reached — 'Beyblade Blurp' celebrated on air. |
+| [[../episodes/2024-05-03|2024-05-03]] [2:20:52] | [02:20:52] Def Jam: Fight for NY community goal crushed; underground tournament planned for next week with PCSX2 setup. |
+| [[../episodes/2024-05-10|2024-05-10]] [2:11:43] | Case mentions Beyblade as potential way to restore Munch's sanity; Crum notes Munch's Beyblade points already beat him in total debates. [02:11:43] |
 | [[../episodes/2024-06-07|2024-06-07]] | Case references the Beyblade Tournament as a pending community pledge event during stream planning. |
 | [[../episodes/2024-06-10|2024-06-10]] [40:45] | [40:45] Case mentions hoping to launch a call-in show format by next Monday, a step toward the community-pledged Beyblade Tournament execution. |
 | [[../episodes/2024-06-10|2024-06-10]] [39:26] | [39:26] Eight-hour debate marathon confirmed for weekend after next; Kendall's birthday week conflicts with this week. |
 | [[../episodes/2024-06-18|2024-06-18]] | Not advanced this episode. |
-| [[../episodes/2024-06-28|2024-06-28]] [01:57:04] | [01:57:04] Case acknowledges chat demand for the Beyblade track, confirming the community-pledge storyline remains pending execution. |
-| [[../episodes/2024-07-19|2024-07-19]] [01:40:17] | [01:40:17] Belulia demands 'Play the fucking Beyblade song' and asks 'Did I win?' during Munch & Crum, referencing the pending 2v2 Beyblade Burst Event. |
-| [[../episodes/2024-07-22|2024-07-22]] [02:30:45] | Case references craving validation via Beyblades during therapy [02:30:45], confirming ongoing community pledge arc. |
-| [[../episodes/2024-08-30|2024-08-30]] [01:05:20] | [01:05:20] Case references Beyblade Tournament pledge: 'September featuring rock a fire incredible what a team up' — linking September sub-goal to Rock-afire gorilla backing. |
+| [[../episodes/2024-06-28|2024-06-28]] [1:57:04] | [01:57:04] Case acknowledges chat demand for the Beyblade track, confirming the community-pledge storyline remains pending execution. |
+| [[../episodes/2024-07-19|2024-07-19]] [1:40:17] | [01:40:17] Belulia demands 'Play the fucking Beyblade song' and asks 'Did I win?' during Munch & Crum, referencing the pending 2v2 Beyblade Burst Event. |
+| [[../episodes/2024-07-22|2024-07-22]] [2:30:45] | Case references craving validation via Beyblades during therapy [02:30:45], confirming ongoing community pledge arc. |
+| [[../episodes/2024-08-30|2024-08-30]] [1:05:20] | [01:05:20] Case references Beyblade Tournament pledge: 'September featuring rock a fire incredible what a team up' — linking September sub-goal to Rock-afire gorilla backing. |
 | [[../episodes/2024-09-19|2024-09-19]] [1:21:00] | [1:21:00] Case references Beyblade points on channel point border (~10 points) during Jambalaya setup, confirming community pledge tracker still active. |
-| [[../episodes/2024-10-10|2024-10-10]] [09:59] | [09:59] Case confirms Saturday return to Rennerton for Beyblade Tournament and mayoral election; Kendall removed from ballot due to being out of town. |
+| [[../episodes/2024-10-10|2024-10-10]] [9:59] | [09:59] Case confirms Saturday return to Rennerton for Beyblade Tournament and mayoral election; Kendall removed from ballot due to being out of town. |
 | [[../episodes/2024-11-26|2024-11-26]] | Case mentions 'eight hour crumb stream soon' at 01:06:39, referencing pending community-pledge tournament execution. |
-| [[../episodes/2025-01-06|2025-01-06]] [02:08:19] | [02:08:19] Case mentions needing new sub badges, hype train track, Pepito track for 2025; community pledges Beyblade tournament remains pending. |
-| [[../episodes/2025-02-08|2025-02-08]] [02:50:49] | Case promises a Hamtaro stream next week and mentions slow progress on sub goals toward a workout stream. [02:50:49] |
-| [[../episodes/2025-02-12|2025-02-12]] [01:18:29] | [01:18:29] Jeb suggests the full Tiger Moves self-defense DVD watch-through as a new sub goal, referencing the community-pledged Beyblade event. |
-| [[../episodes/2025-02-25|2025-02-25]] [02:18:02] | [02:18:02] Case references the Beyblade Tournament as 'quietly sunsetted like CTDS and Colcast,' suggesting the community pledge remains unfulfilled. |
-| [[../episodes/2025-03-21|2025-03-21]] [01:47:13] | [01:47:13] Crum proposes a Beyblade rematch as the next sub goal; Munch insists on correct pronunciation ('Beyblades!') and notes Case's old Beyblades are broken. |
+| [[../episodes/2025-01-06|2025-01-06]] [2:08:19] | [02:08:19] Case mentions needing new sub badges, hype train track, Pepito track for 2025; community pledges Beyblade tournament remains pending. |
+| [[../episodes/2025-02-08|2025-02-08]] [2:50:49] | Case promises a Hamtaro stream next week and mentions slow progress on sub goals toward a workout stream. [02:50:49] |
+| [[../episodes/2025-02-12|2025-02-12]] [1:18:29] | [01:18:29] Jeb suggests the full Tiger Moves self-defense DVD watch-through as a new sub goal, referencing the community-pledged Beyblade event. |
+| [[../episodes/2025-02-25|2025-02-25]] [2:18:02] | [02:18:02] Case references the Beyblade Tournament as 'quietly sunsetted like CTDS and Colcast,' suggesting the community pledge remains unfulfilled. |
+| [[../episodes/2025-03-21|2025-03-21]] [1:47:13] | [01:47:13] Crum proposes a Beyblade rematch as the next sub goal; Munch insists on correct pronunciation ('Beyblades!') and notes Case's old Beyblades are broken. |
 | [[../episodes/2025-04-14|2025-04-14]] [18:58] | [18:58] Hamtaro kigurumi sub goal set at 40 subs (approx $70-80 for two onesies); framed as Halloween costume and Beyblade-adjacent community pledge. |
 | [[../episodes/2025-05-02|2025-05-02]] [23:42] | [23:42] Case mentions Beyblade tournament sub goal still pending execution. |
-| [[../episodes/2025-05-05|2025-05-05]] [01:31:45] | [01:31:45] Bin Conclave pope election underway; first two candidates (September, Justin Juice Powers) nominated via flash polls, framing as community-pledge event. |
+| [[../episodes/2025-05-05|2025-05-05]] [1:31:45] | [01:31:45] Bin Conclave pope election underway; first two candidates (September, Justin Juice Powers) nominated via flash polls, framing as community-pledge event. |
 | [[../episodes/2025-05-21|2025-05-21]] [12:35] | [12:35] Case references secret stream where Beyblade tournament idea was pulled from hat; still pending execution. |
 | [[../episodes/2025-05-30|2025-05-30]] [39:25] | Munch references past Beyblade episodes during debate count banter. [39:25] |
 | [[../episodes/2025-06-02|2025-06-02]] [31:49] | [31:49] Case references pending Beyblade event possibly still 'inside the Papal Binclave'; no further advancement this episode. |
 | [[../episodes/2025-06-17|2025-06-17]] | [2025-06-17] Referenced as pending community-pledge event; no progress shown this episode. |
-| [[../episodes/2025-06-28|2025-06-28]] [01:55:22] | [01:55:22] Trip mentions 'round one at eight o'clock' (in 10 minutes), confirming tournament is imminent. |
-| [[../episodes/2025-08-21|2025-08-21]] [01:26:04] | [01:26:04] Munch challenges Crum to a Beyblade rematch once Crum's soul returns. |
+| [[../episodes/2025-06-28|2025-06-28]] [1:55:22] | [01:55:22] Trip mentions 'round one at eight o'clock' (in 10 minutes), confirming tournament is imminent. |
+| [[../episodes/2025-08-21|2025-08-21]] [1:26:04] | [01:26:04] Munch challenges Crum to a Beyblade rematch once Crum's soul returns. |
 | [[../episodes/2025-09-02|2025-09-02]] [17:11] | [17:11] Case mentions Beyblade event possibly this weekend or next with a friend assisting. |
 | [[../episodes/2025-09-13|2025-09-13]] | Case confirms Beyblade tournament / wall entry scheduled for next Friday 9-19 (one week from broadcast). |
-| [[../episodes/2025-09-15|2025-09-15]] [01:12:22] | [01:12:22] Case references paying off a sub goal on Friday and 'Case's fucking series coming up that he spent all that time planning,' likely pointing to Beyblade event prep. |
-| [[../episodes/2025-09-18|2025-09-18]] [01:34:38] | [01:34:38] Munch notes 'very brief appearance from Beyblade' as wall stream seeps into broadcast. |
+| [[../episodes/2025-09-15|2025-09-15]] [1:12:22] | [01:12:22] Case references paying off a sub goal on Friday and 'Case's fucking series coming up that he spent all that time planning,' likely pointing to Beyblade event prep. |
+| [[../episodes/2025-09-18|2025-09-18]] [1:34:38] | [01:34:38] Munch notes 'very brief appearance from Beyblade' as wall stream seeps into broadcast. |
 | [[../episodes/2025-09-25|2025-09-25]] [1:28:35] | Beyblades lost in move; new sub goal for Beyblade battle to be created Friday [1:28:35]. |
-| [[../episodes/2025-09-26|2025-09-26]] [01:03:22] | [01:03:22] Case attempts to configure new sub goal 'Point Burst' for 2v2 Beyblade Burst Event; reveals he lost Munch's Beyblades during move. |
-| [[../episodes/2025-09-29|2025-09-29]] [07:55] | [07:55] Beyblades ordered; Munch purchased full arena; event tentatively Wednesday if delivery arrives. |
-| [[../episodes/2025-10-02|2025-10-02]] [02:23:17] | Case confirms bays have arrived with improved Bey experience; teases Friday burst event pending Kendelle's assistance. [02:23:17] |
+| [[../episodes/2025-09-26|2025-09-26]] [1:03:22] | [01:03:22] Case attempts to configure new sub goal 'Point Burst' for 2v2 Beyblade Burst Event; reveals he lost Munch's Beyblades during move. |
+| [[../episodes/2025-09-29|2025-09-29]] [7:55] | [07:55] Beyblades ordered; Munch purchased full arena; event tentatively Wednesday if delivery arrives. |
+| [[../episodes/2025-10-02|2025-10-02]] [2:23:17] | Case confirms bays have arrived with improved Bey experience; teases Friday burst event pending Kendelle's assistance. [02:23:17] |
 | [[../episodes/2025-10-04|2025-10-04]] | [2025-10-04] Munch defeats Crum 15-3 in best-of-19 Beyblade Burst match with Kendall as Crum's second; Munch claims 301 total points, Crum reduced to 1 point; winner-take-all wager executed. |
 | [[../episodes/2025-10-06|2025-10-06]] [16:34] | [16:34] Pepito airs Sora 2-generated promos announcing the Beyblade blowout for 8 p.m. Eastern / 9 p.m. Eastern (conflicting times) on Barely Informed News. |
 | [[../episodes/2025-10-10|2025-10-10]] | No advancement this episode; still pending community pledge execution. |
@@ -93,18 +93,18 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 | [[../episodes/2025-10-20|2025-10-20]] [1:40:11] | [1:40:11] Case confirms Beyblade gold hit; plans four-way Beyblade bet-off for Friday pending betting mechanism setup. |
 | [[../episodes/2025-11-03|2025-11-03]] | Case mentions Beyblade segment is pending Kendall's availability; still not executed this episode. |
 | [[../episodes/2025-12-04|2025-12-04]] [53:54] | Case confirmed the owed sub-goal Beyblade event and revealed a betting mechanic using Munch & Crum debate points. |
-| [[../episodes/2025-12-11|2025-12-11]] [01:23:48] | [01:23:48] Chat suggests taping engagement ring to a Beyblade for proposal; Case acknowledges the idea as 'something' — active community pledge storyline referenced. |
-| [[../episodes/2025-12-13|2025-12-13]] [02:04:47] | [02:04:47] Case announces Grungemas 2025 planning and requests Discord mod create thread for naughty/nice list submissions; Beyblade Tournament remains pending. |
+| [[../episodes/2025-12-11|2025-12-11]] [1:23:48] | [01:23:48] Chat suggests taping engagement ring to a Beyblade for proposal; Case acknowledges the idea as 'something' — active community pledge storyline referenced. |
+| [[../episodes/2025-12-13|2025-12-13]] [2:04:47] | [02:04:47] Case announces Grungemas 2025 planning and requests Discord mod create thread for naughty/nice list submissions; Beyblade Tournament remains pending. |
 | [[../episodes/2025-12-18|2025-12-18]] [47:22] | [47:22] Case acknowledges the Beyblade competition is still pending: 'We still have to do the Beyblade competition thing. Currently the sub stuff is disabled. I'm rebuilding it.' |
-| [[../episodes/2025-12-19|2025-12-19]] [02:04:13] | Chat references 'beyblade burst' during Grunch letters segment [02:04:13]. |
+| [[../episodes/2025-12-19|2025-12-19]] [2:04:13] | Chat references 'beyblade burst' during Grunch letters segment [02:04:13]. |
 | [[../episodes/2026-02-04|2026-02-04]] [20:37] | [20:37] Case acknowledges the outstanding community pledge: 'we still owe you guys a Beyblade tournament Between Munch and Crum and I guess others.' |
 | [[../episodes/2026-04-15|2026-04-15]] | No mention this episode. |
 | [[../episodes/2026-05-18|2026-05-18]] [2:42:06] | [2:42:06] Brandon mentions 'I have to find beyblade first' while navigating FFXIV, referencing pending 2v2 Beyblade Burst Event. |
-| [[../episodes/2026-07-17|2026-07-17]] [01:47:23] | No direct development; tournament remains pending. (Blackwell joked 'I'll do the conspiracy segment one of these days I swear to god but it won't be today'.) |
-| [[../episodes/2026-07-20|2026-07-20]] [01:05:51] | [[../characters/abraham-lincoln|Abraham Lincoln]] confronts Case Blackwell on air over the unpaid community Beyblade debt. Case formally commits to a 2v2 Beyblade Burst event for Crum and announces he has ordered custom Bart Simpson tattoos ('Barts'). |
-| [[../episodes/2026-07-24|2026-07-24]] [08:47] | Production update by [[../characters/pepito|Pepito]] and Case confirms the Beyblades stream is stalled among backlogged subscriber goals, delayed Bart orders, and Case's swollen ankle mobility issues. |
-| [[../episodes/2026-08-19|2026-08-19]] [02:35:50] | Case announces a potential broadcast contingent entirely upon printing 16 sheets of Bart Simpson tattoos required for the upcoming tournament festivities. |
-| [[../episodes/2026-08-26|2026-08-26]] [00:54] | Case returns to the anchor desk with raw, peeling arms, debriefing the audience on having endured 106 Bart Simpson temporary tattoos applied over the weekend, reigniting viewer anticipation for the Beyblade showdown. |
+| [[../episodes/2026-07-17|2026-07-17]] [1:47:23] | No direct development; tournament remains pending. (Blackwell joked 'I'll do the conspiracy segment one of these days I swear to god but it won't be today'.) |
+| [[../episodes/2026-07-20|2026-07-20]] [1:05:51] | [[../characters/abraham-lincoln|Abraham Lincoln]] confronts Case Blackwell on air over the unpaid community Beyblade debt. Case formally commits to a 2v2 Beyblade Burst event for Crum and announces he has ordered custom Bart Simpson tattoos ('Barts'). |
+| [[../episodes/2026-07-24|2026-07-24]] [8:47] | Production update by [[../characters/pepito|Pepito]] and Case confirms the Beyblades stream is stalled among backlogged subscriber goals, delayed Bart orders, and Case's swollen ankle mobility issues. |
+| [[../episodes/2026-08-19|2026-08-19]] [2:35:50] | Case announces a potential broadcast contingent entirely upon printing 16 sheets of Bart Simpson tattoos required for the upcoming tournament festivities. |
+| [[../episodes/2026-08-26|2026-08-26]] [0:54] | Case returns to the anchor desk with raw, peeling arms, debriefing the audience on having endured 106 Bart Simpson temporary tattoos applied over the weekend, reigniting viewer anticipation for the Beyblade showdown. |
 
 ## Related Pages
 

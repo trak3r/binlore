@@ -180,124 +180,124 @@ Beyond station management, Pepito is known for asserting his demands across the 
 
 ## Notable moments
 
-- **[00:06]** ([[episodes/2026-09-02|2026-09-02]]): Broadcasts the network's official sign-on: *"I'm Pepito, I'm the dog that produces the show, and now it is live, and I'm a dog."*
+- **[0:06]** ([[episodes/2026-09-02|2026-09-02]]): Broadcasts the network's official sign-on: *"I'm Pepito, I'm the dog that produces the show, and now it is live, and I'm a dog."*
 - **[15:39]** ([[episodes/2026-09-04|2026-09-04]]): Immediately alerts the control room to audio discrepancies during an attempted body-swap: *"That's not him... That sounds exactly like Crum. Because I am exactly like Crum. Because I am Crum."*
-- **[01:50:58]** ([[episodes/2026-09-04|2026-09-04]]): Issues an executive broadcast decree demanding a "big bag of sangria" for the extended holiday weekend.
-- **[00:21:57]** ([[episodes/2026-08-19|2026-08-19]]): Pepito retains control room authority and is tasked with ensuring the hype train properly acknowledges subscribers, indicating an executive producer override on segment protocols.
-- **[00:08]** ([[episodes/2026-08-14|2026-08-14]]): Pepito anchors the cold open with his signature line: 'I'm Pepito, I'm the dog that produces the show, and now it is live, and I'm a dog.'
+- **[1:50:58]** ([[episodes/2026-09-04|2026-09-04]]): Issues an executive broadcast decree demanding a "big bag of sangria" for the extended holiday weekend.
+- **[0:21:57]** ([[episodes/2026-08-19|2026-08-19]]): Pepito retains control room authority and is tasked with ensuring the hype train properly acknowledges subscribers, indicating an executive producer override on segment protocols.
+- **[0:08]** ([[episodes/2026-08-14|2026-08-14]]): Pepito anchors the cold open with his signature line: 'I'm Pepito, I'm the dog that produces the show, and now it is live, and I'm a dog.'
 - **[11:05]** ([[episodes/2026-08-14|2026-08-14]]): Pepito runs the PNUI data scraping program built into the network's PNUI contract with Grum, training models on streams data and apparently even footage from studio toilets.
-- **[31:18-31:51]** ([[episodes/2026-08-13|2026-08-13]]): Pepito claims he has an immobilized tongue that makes eating cheese difficult, stating 'I've made it work' despite the challenge.
-- **[00:00]** ([[episodes/2026-08-08|2026-08-08]]): Executive Producer Pepito's opening cold open catchphrase is 'I'm Pepita, I'm the dog that produces the show'.
-- **[08:07]** ([[episodes/2026-08-06|2026-08-06]]): Executive Producer Pepito opens the broadcast with his canonical canine intro: 'I'm Pepito, I'm the dog that produces the show.'
-- **[00:08]** ([[episodes/2026-08-04|2026-08-04]]): Pepito opens every broadcast with the line 'I'm Pepito, I'm the dog that produces the show' (ASR transcribed as 'Papita'). [00:08]
-- **[01:32:50]** ([[episodes/2026-08-04|2026-08-04]]): Pepito controls the bedroom-door microphone for the CryptoZeu$ remote and sometimes forgets to mute it, allowing Brandon's mother to be heard network-wide. [01:32:50]
-- **[01:14:44]** ([[episodes/2026-07-24|2026-07-24]]): Pepito closes the broadcast with an unprompted philosophical sermon comparing life to AX body spray commercials: *"When you smell good enough an army of people will chase you on a beach"* with pocket jerky implications, alongside warnings about Peter Gibbon spilling battery acid and cues for the "Pure Mood" CD.
-- **[00:08]** ([[episodes/2026-07-23|2026-07-23]]): Pepito opens the show from the producer cam.
-- **[00:08]** ([[episodes/2026-07-20|2026-07-20]]): Pepito's on-screen title during the cold open includes the designation 'Peptron 3000' alongside his dog executive producer persona.
-- **[00:08]** ([[episodes/2026-07-17|2026-07-17]]): Executive Producer Pepito is a dog that produces the show; his signature on-air opening is 'I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog.' He admits to 'eating a couple spell books' and using 'dark magic' to look like Case Blackwell.
-- **[00:08]** ([[episodes/2026-07-16|2026-07-16]]): Standard cold open catchphrase: 'I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog.'
+- **[31:18]** ([[episodes/2026-08-13|2026-08-13]]): Pepito claims he has an immobilized tongue that makes eating cheese difficult, stating 'I've made it work' despite the challenge.
+- **[0:00]** ([[episodes/2026-08-08|2026-08-08]]): Executive Producer Pepito's opening cold open catchphrase is 'I'm Pepita, I'm the dog that produces the show'.
+- **[8:07]** ([[episodes/2026-08-06|2026-08-06]]): Executive Producer Pepito opens the broadcast with his canonical canine intro: 'I'm Pepito, I'm the dog that produces the show.'
+- **[0:08]** ([[episodes/2026-08-04|2026-08-04]]): Pepito opens every broadcast with the line 'I'm Pepito, I'm the dog that produces the show' (ASR transcribed as 'Papita').
+- **[1:32:50]** ([[episodes/2026-08-04|2026-08-04]]): Pepito controls the bedroom-door microphone for the CryptoZeu$ remote and sometimes forgets to mute it, allowing Brandon's mother to be heard network-wide.
+- **[1:14:44]** ([[episodes/2026-07-24|2026-07-24]]): Pepito closes the broadcast with an unprompted philosophical sermon comparing life to AX body spray commercials: *"When you smell good enough an army of people will chase you on a beach"* with pocket jerky implications, alongside warnings about Peter Gibbon spilling battery acid and cues for the "Pure Mood" CD.
+- **[0:08]** ([[episodes/2026-07-23|2026-07-23]]): Pepito opens the show from the producer cam.
+- **[0:08]** ([[episodes/2026-07-20|2026-07-20]]): Pepito's on-screen title during the cold open includes the designation 'Peptron 3000' alongside his dog executive producer persona.
+- **[0:08]** ([[episodes/2026-07-17|2026-07-17]]): Executive Producer Pepito is a dog that produces the show; his signature on-air opening is 'I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog.' He admits to 'eating a couple spell books' and using 'dark magic' to look like Case Blackwell.
+- **[0:08]** ([[episodes/2026-07-16|2026-07-16]]): Standard cold open catchphrase: 'I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog.'
 - **[27:26]** ([[episodes/2026-07-13|2026-07-13]]): Maintains a 'weird sandpit' within the studio grounds that was searched (unsuccessfully) for Mitch McConnell.
-- **[00:00:10]** ([[episodes/2026-06-29|2026-06-29]]): Executive producer opens every broadcast with his signature 'I'm the dog that produces the show' introduction.
-- **[00:08]** ([[episodes/2026-06-22|2026-06-22]]): Pepito is the canine executive producer who opens the broadcast from the producer cam, thanking subscribers and providing station announcements. He mentions having 'light time travel' over the weekend that is 'kind of unresolved.'
+- **[0:00:10]** ([[episodes/2026-06-29|2026-06-29]]): Executive producer opens every broadcast with his signature 'I'm the dog that produces the show' introduction.
+- **[0:08]** ([[episodes/2026-06-22|2026-06-22]]): Pepito is the canine executive producer who opens the broadcast from the producer cam, thanking subscribers and providing station announcements. He mentions having 'light time travel' over the weekend that is 'kind of unresolved.'
 - **[15:00]** ([[episodes/2026-06-18|2026-06-18]]): Executive producer; canine broadcast executive appearing via Producer Cam. Accidentally relocated to Case's house by moving company while Pepito 3000 unit was condemned.
-- **[00:00:01]** ([[episodes/2026-06-08|2026-06-08]]): Executive producer and canine; opens every broadcast with 'I'm Pepito, I'm the dog that produces the show.'
-- **[02:47:40]** ([[episodes/2026-06-08|2026-06-08]]): Pepito Moss celebration scheduled for July 6 (a Monday), recognized as official network holiday.
-- **[00:06]** ([[episodes/2026-06-03|2026-06-03]]): Executive Producer Pepito is a canine broadcast executive who opens every show from the control room via Producer Cam, identifying as 'the dog that produces the show.'
-- **[00:08]** ([[episodes/2026-05-29|2026-05-29]]): Pepito opens broadcasts with his signature 'I'm Pepito, I'm the dog that produces the show' intro.
-- **[00:06]** ([[episodes/2026-05-26|2026-05-26]]): As the network's canine mascot, Pepito serves as both host and executive producer, with his signature 'I'm the dog that produces the show' introduction becoming a staple of BIN broadcasts.
-- **[00:08]** ([[episodes/2026-08-26|2026-08-26]]): Pepito cold open remains the standard show intro: 'I'm Pepito, I'm the dog that produces the show.'
-- **[00:08]** ([[episodes/2026-09-01|2026-09-01]]): Pepito opens the show stating 'I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog.'
-- **[00:06]** ([[episodes/2026-09-02|2026-09-02]]): Standard opening line: 'I'm Pepito, I'm the dog that produces the show, and now it is live, and I'm a dog.'
-- **[00:08]** ([[episodes/2026-09-04|2026-09-04]]): Producer catchphrase: 'I'm Pepito, I'm the dog that produces the show.' End-of-show bit: demands a 'big bag of sangria' for Labor Day weekend and ultimately declares he will drink 'a whole bag of sangria' (Case: 'I'll also drink a whole bag of sangria'). Pepito also confirms he does NOT do tricks and that his catchphrase request 'give me a big old bowl of spaghetti' comes from chat.
+- **[0:00:01]** ([[episodes/2026-06-08|2026-06-08]]): Executive producer and canine; opens every broadcast with 'I'm Pepito, I'm the dog that produces the show.'
+- **[2:47:40]** ([[episodes/2026-06-08|2026-06-08]]): Pepito Moss celebration scheduled for July 6 (a Monday), recognized as official network holiday.
+- **[0:06]** ([[episodes/2026-06-03|2026-06-03]]): Executive Producer Pepito is a canine broadcast executive who opens every show from the control room via Producer Cam, identifying as 'the dog that produces the show.'
+- **[0:08]** ([[episodes/2026-05-29|2026-05-29]]): Pepito opens broadcasts with his signature 'I'm Pepito, I'm the dog that produces the show' intro.
+- **[0:06]** ([[episodes/2026-05-26|2026-05-26]]): As the network's canine mascot, Pepito serves as both host and executive producer, with his signature 'I'm the dog that produces the show' introduction becoming a staple of BIN broadcasts.
+- **[0:08]** ([[episodes/2026-08-26|2026-08-26]]): Pepito cold open remains the standard show intro: 'I'm Pepito, I'm the dog that produces the show.'
+- **[0:08]** ([[episodes/2026-09-01|2026-09-01]]): Pepito opens the show stating 'I'm Pepito, I'm the dog that produces the show and now it is live and I'm a dog.'
+- **[0:06]** ([[episodes/2026-09-02|2026-09-02]]): Standard opening line: 'I'm Pepito, I'm the dog that produces the show, and now it is live, and I'm a dog.'
+- **[0:08]** ([[episodes/2026-09-04|2026-09-04]]): Producer catchphrase: 'I'm Pepito, I'm the dog that produces the show.' End-of-show bit: demands a 'big bag of sangria' for Labor Day weekend and ultimately declares he will drink 'a whole bag of sangria' (Case: 'I'll also drink a whole bag of sangria'). Pepito also confirms he does NOT do tricks and that his catchphrase request 'give me a big old bowl of spaghetti' comes from chat.
 - **[15:39]** ([[episodes/2026-09-04|2026-09-04]]): During the body-swap, Pepito observes 'That's not him' when an unknown presence arrives, then 'Yeah, sorry. I'm here. That sounds exactly like Crumb. Because I am exactly like Crumb. Because I am Crumb.' — establishes Pepito as a recognizer of voices in real-time.
-- **[01:16:30]** ([[episodes/2025-06-17|2025-06-17]]): Pepito claims direct line to God as 'official pope of this stream'; references secret deity 'Mother Glabla' who vaults the gross into space.
-- **[01:52:51]** ([[episodes/2025-06-17|2025-06-17]]): Pepito ordered the gorilla's moving plate due to its bad knees, making him an accessory to the execution logistics.
+- **[1:16:30]** ([[episodes/2025-06-17|2025-06-17]]): Pepito claims direct line to God as 'official pope of this stream'; references secret deity 'Mother Glabla' who vaults the gross into space.
+- **[1:52:51]** ([[episodes/2025-06-17|2025-06-17]]): Pepito ordered the gorilla's moving plate due to its bad knees, making him an accessory to the execution logistics.
 - **[1:26:42]** ([[episodes/2025-06-02|2025-06-02]]): Pepito admits to eating some of his 48 litter-mate puppies.
-- **[]** ([[episodes/2025-06-24|2025-06-24]]): [11:04] Non-verbal for the entire broadcast; Case notes 'he's non-verbal today.'
+- **[11:04]** ([[episodes/2025-06-24|2025-06-24]]): Non-verbal for the entire broadcast; Case notes 'he's non-verbal today.'
 - **[10:09]** ([[episodes/2025-09-15|2025-09-15]]): Pepito ate multiple tiny computers/phones left around the studio.
-- **[09:46]** ([[episodes/2025-09-15|2025-09-15]]): Pepito spends non-stream days with his mother, who picks him up.
-- **[[31:59]]** ([[episodes/2023-12-08|2023-12-08]]): Officially named on-air as the dog/executive producer; previously unnamed.
-- **[[1:26:40]]** ([[episodes/2023-12-12|2023-12-12]]): Considered for HR role by Case to manage Munch and Crum harassment; claims to have 'nothing but time' and not understand work.
-- **[]** ([[episodes/2023-12-14|2023-12-14]]): Describes time perception as 'a flat biscuit' [13:04].
-- **[137:00]** ([[episodes/2023-12-16|2023-12-16]]): [137:00] Voted permanent producer via chat poll (New Keep / Permanent Consulting Producer); legally obligated to no longer be terminated.
-- **[[02:08:00]]** ([[episodes/2023-12-18|2023-12-18]]): Confirmed neutered; owner is Fiona Nova; wears a Christmas jean coat and gets green paint in his eyes.
-- **[]** ([[episodes/2023-12-30|2023-12-30]]): Attends therapy as dog patient with Dr. Chath's son (animal therapist wearing DJ Newsic sunglasses) [51:30]. Claims pregnancy with lucky street dog [58:40].
-- **[[3:23:59]]** ([[episodes/2023-12-31|2023-12-31]]): Receives Lifetime Achievement Award; Fiona sends voice memo confirming she will pick him up and calling him 'my dog.'
-- **[]** ([[episodes/2024-01-05|2024-01-05]]): Claims to have been born from an egg via 'sloop shoot' and identifies as an orphan; declares Fiona his 'best mommy' despite Trip's skepticism. [54:42]
-- **[]** ([[episodes/2024-01-05|2024-01-05]]): New Pepito emote saved and ready for upload. [1:21:04]
-- **[00:21:42]** ([[episodes/2024-01-05|2024-01-05]]): [00:21:42] Case refers to Pepito as 'Pappito' during Goku Bracken emergency cut.
-- **[05:51]** ([[episodes/2024-01-12|2024-01-12]]): Uses snap camera filter to appear as a dog in Lethal Company; purchases a boombox with in-game credits and freestyles until timeout. [05:51]
-- **[[49:24]]** ([[episodes/2024-01-19|2024-01-19]]): Plays Lethal Company as a dog mod named 'Papito' with unique sprint-and-rap survival meta; claims dog vision is black-and-white [49:24].
-- **[1:41:58]** ([[episodes/2024-02-09|2024-02-09]]): Performs 'wish upon a star' segment from roof with DJ Newsic, collects chat wishes [1:41:58].
+- **[9:46]** ([[episodes/2025-09-15|2025-09-15]]): Pepito spends non-stream days with his mother, who picks him up.
+- **[31:59]** ([[episodes/2023-12-08|2023-12-08]]): Officially named on-air as the dog/executive producer; previously unnamed.
+- **[1:26:40]** ([[episodes/2023-12-12|2023-12-12]]): Considered for HR role by Case to manage Munch and Crum harassment; claims to have 'nothing but time' and not understand work.
+- **[13:04]** ([[episodes/2023-12-14|2023-12-14]]): Describes time perception as 'a flat biscuit'.
+- **[2:17:00]** ([[episodes/2023-12-16|2023-12-16]]): Voted permanent producer via chat poll (New Keep / Permanent Consulting Producer); legally obligated to no longer be terminated.
+- **[2:08:00]** ([[episodes/2023-12-18|2023-12-18]]): Confirmed neutered; owner is Fiona Nova; wears a Christmas jean coat and gets green paint in his eyes.
+- **[51:30]** ([[episodes/2023-12-30|2023-12-30]]): Attends therapy as dog patient with Dr. Chath's son (animal therapist wearing DJ Newsic sunglasses). Claims pregnancy with lucky street dog [58:40].
+- **[3:23:59]** ([[episodes/2023-12-31|2023-12-31]]): Receives Lifetime Achievement Award; Fiona sends voice memo confirming she will pick him up and calling him 'my dog.'
+- **[54:42]** ([[episodes/2024-01-05|2024-01-05]]): Claims to have been born from an egg via 'sloop shoot' and identifies as an orphan; declares Fiona his 'best mommy' despite Trip's skepticism.
+- **[1:21:04]** ([[episodes/2024-01-05|2024-01-05]]): New Pepito emote saved and ready for upload.
+- **[0:21:42]** ([[episodes/2024-01-05|2024-01-05]]): Case refers to Pepito as 'Pappito' during Goku Bracken emergency cut.
+- **[5:51]** ([[episodes/2024-01-12|2024-01-12]]): Uses snap camera filter to appear as a dog in Lethal Company; purchases a boombox with in-game credits and freestyles until timeout.
+- **[49:24]** ([[episodes/2024-01-19|2024-01-19]]): Plays Lethal Company as a dog mod named 'Papito' with unique sprint-and-rap survival meta; claims dog vision is black-and-white.
+- **[1:41:58]** ([[episodes/2024-02-09|2024-02-09]]): Performs 'wish upon a star' segment from roof with DJ Newsic, collects chat wishes.
 - **[15:50]** ([[episodes/2024-02-20|2024-02-20]]): Performs the top-of-hour countdown live every broadcast with identical cadence and voice.
-- **[01:47:19]** ([[episodes/2024-02-29|2024-02-29]]): [01:47:19] Eats bits off floor as 'ground eater' culture; claims bits put hair on chest.
+- **[1:47:19]** ([[episodes/2024-02-29|2024-02-29]]): Eats bits off floor as 'ground eater' culture; claims bits put hair on chest.
 - **[34:35]** ([[episodes/2024-03-14|2024-03-14]]): Consumes chocolate and cheese PNGs on air; undergoes three form changes and voice drops an octave after burping [34:35-36:25].
 - **[16:55]** ([[episodes/2024-03-18|2024-03-18]]): Pepito claims to be a leprechaun who lived at the end of a rainbow.
 - **[2:18:14]** ([[episodes/2024-03-18|2024-03-18]]): Pepito performs dramatic R&B love song to cheese from roof satellite room.
-- **[]** ([[episodes/2024-03-21|2024-03-21]]): Pepito claims perfect memory of every person who has appeared on stream. [1:20:30]
-- **[]** ([[episodes/2024-03-29|2024-03-29]]): Pepito operates as Agent Papito for remote field takeovers, piloting canine avatars with butt-smell and laser-pointer protocols. [1:41:19]
-- **[[24:03]]** ([[episodes/2024-04-04|2024-04-04]]): Claims ability to move through portals; defended Windows 11 upgrade.
-- **[03:26]** ([[episodes/2024-04-29|2024-04-29]]): Ate black moldy yogurt from under a chair and claims it tasted great [03:26].
-- **[47:31]** ([[episodes/2024-04-29|2024-04-29]]): Claims genetic composition: 50% Chihuahua, 20% Labradoodle, 50% Viking [47:31].
+- **[1:20:30]** ([[episodes/2024-03-21|2024-03-21]]): Pepito claims perfect memory of every person who has appeared on stream.
+- **[1:41:19]** ([[episodes/2024-03-29|2024-03-29]]): Pepito operates as Agent Papito for remote field takeovers, piloting canine avatars with butt-smell and laser-pointer protocols.
+- **[24:03]** ([[episodes/2024-04-04|2024-04-04]]): Claims ability to move through portals; defended Windows 11 upgrade.
+- **[3:26]** ([[episodes/2024-04-29|2024-04-29]]): Ate black moldy yogurt from under a chair and claims it tasted great.
+- **[47:31]** ([[episodes/2024-04-29|2024-04-29]]): Claims genetic composition: 50% Chihuahua, 20% Labradoodle, 50% Viking.
 - **[14:39]** ([[episodes/2024-05-01|2024-05-01]]): Ate Case's entire original Batman animated series figurine collection, claiming he did Case a favor because Case was 'too old to still have those.'
 - **[51:12]** ([[episodes/2024-05-01|2024-05-01]]): Transfers a stock contract to Tyler, declaring him CEO of the network.
-- **[[02:20]]** ([[episodes/2024-05-02|2024-05-02]]): Ate a cell phone offered by a street vendor who sold phones at half price.
-- **[[31:02]]** ([[episodes/2024-05-02|2024-05-02]]): Consumed a full bag of Sweet Tarts gifted by [[sammy-seven-elbows|Sammy Seven Elbows]].
-- **[[1:43:40]]** ([[episodes/2024-05-02|2024-05-02]]): Lived in the White House for six years.
-- **[[1:45:24]]** ([[episodes/2024-05-02|2024-05-02]]): Identifies the 'doid' as the canine equivalent of the Noid.
-- **[[1:49:32]]** ([[episodes/2024-05-02|2024-05-02]]): Spent time inside Richard Gere with 50 others listening to a Beatles cover band.
-- **[[1:50:14]]** ([[episodes/2024-05-02|2024-05-02]]): States he is boneless and 'raised GMO'.
-- **[]** ([[episodes/2024-05-10|2024-05-10]]): Claims to have squeezed through sewage system into movie theater toilet to watch Look Who's Talking. [01:44:58]
-- **[]** ([[episodes/2024-05-15|2024-05-15]]): [115:06] Confirms he is the sole producer; admits eating lit cigarettes; weed sends him into deep depression.
-- **[[1:38:03]]** ([[episodes/2024-05-21|2024-05-21]]): Formally declines human resources duties, stating 'I'm a dog. I don't do that' and proposing 'DR' (Dog Resources) instead.
-- **[]** ([[episodes/2024-05-28|2024-05-28]]): Pepito cheese feeding costs 100 bits per cheese [01:09:59]
-- **[07:22]** ([[episodes/2024-06-05|2024-06-05]]): Cheese cannon repaired to shoot cheese directly into Pepito's face [07:22].
-- **[[01:27:22]]** ([[episodes/2024-06-10|2024-06-10]]): Ate spilled chemicals from bathroom floor; tasted good but would not stay down.
-- **[]** ([[episodes/2024-06-26|2024-06-26]]): Rolled around in an industrial soap factory using animal fats, leaving grease on stairs. [02:37:21]
-- **[]** ([[episodes/2024-07-22|2024-07-22]]): Pepito demonstrates ventriloquist Biden impression capability [01:55:29]
-- **[[1:58:11]]** ([[episodes/2024-08-07|2024-08-07]]): Exhibits cheese-dependent energy spikes; rushes desk at stream end after cheese consumption.
-- **[01:09:24]** ([[episodes/2024-08-08|2024-08-08]]): Has a girlfriend; gender presentation ambiguous — Case says 'I don't know if Pepito is a girl' and 'Pepito doesn't care about gender.' [01:09:24]
-- **[[01:02:53]]** ([[episodes/2024-08-14|2024-08-14]]): Confirms dogs eat used period products for the blood and paper/cotton; would eat Fiona's over Kendall's.
-- **[[2:08:28]]** ([[episodes/2024-09-06|2024-09-06]]): Accidentally installed a 'Project Dr. Chath face on Pepito's face button' causing momentary human transformation during therapy transition.
-- **[[00:06]]** ([[episodes/2024-09-13|2024-09-13]]): Referred to as 'Papita' during cold open sign-on.
-- **[02:50:51]** ([[episodes/2024-10-03|2024-10-03]]): Appointed Pepe Dois to replace Fort Knox as the nation's gold repository [02:50:51].
+- **[2:20]** ([[episodes/2024-05-02|2024-05-02]]): Ate a cell phone offered by a street vendor who sold phones at half price.
+- **[31:02]** ([[episodes/2024-05-02|2024-05-02]]): Consumed a full bag of Sweet Tarts gifted by [[sammy-seven-elbows|Sammy Seven Elbows]].
+- **[1:43:40]** ([[episodes/2024-05-02|2024-05-02]]): Lived in the White House for six years.
+- **[1:45:24]** ([[episodes/2024-05-02|2024-05-02]]): Identifies the 'doid' as the canine equivalent of the Noid.
+- **[1:49:32]** ([[episodes/2024-05-02|2024-05-02]]): Spent time inside Richard Gere with 50 others listening to a Beatles cover band.
+- **[1:50:14]** ([[episodes/2024-05-02|2024-05-02]]): States he is boneless and 'raised GMO'.
+- **[1:44:58]** ([[episodes/2024-05-10|2024-05-10]]): Claims to have squeezed through sewage system into movie theater toilet to watch Look Who's Talking.
+- **[1:55:06]** ([[episodes/2024-05-15|2024-05-15]]): Confirms he is the sole producer; admits eating lit cigarettes; weed sends him into deep depression.
+- **[1:38:03]** ([[episodes/2024-05-21|2024-05-21]]): Formally declines human resources duties, stating 'I'm a dog. I don't do that' and proposing 'DR' (Dog Resources) instead.
+- **[1:09:59]** ([[episodes/2024-05-28|2024-05-28]]): Pepito cheese feeding costs 100 bits per cheese
+- **[7:22]** ([[episodes/2024-06-05|2024-06-05]]): Cheese cannon repaired to shoot cheese directly into Pepito's face.
+- **[1:27:22]** ([[episodes/2024-06-10|2024-06-10]]): Ate spilled chemicals from bathroom floor; tasted good but would not stay down.
+- **[2:37:21]** ([[episodes/2024-06-26|2024-06-26]]): Rolled around in an industrial soap factory using animal fats, leaving grease on stairs.
+- **[1:55:29]** ([[episodes/2024-07-22|2024-07-22]]): Pepito demonstrates ventriloquist Biden impression capability
+- **[1:58:11]** ([[episodes/2024-08-07|2024-08-07]]): Exhibits cheese-dependent energy spikes; rushes desk at stream end after cheese consumption.
+- **[1:09:24]** ([[episodes/2024-08-08|2024-08-08]]): Has a girlfriend; gender presentation ambiguous — Case says 'I don't know if Pepito is a girl' and 'Pepito doesn't care about gender.'
+- **[1:02:53]** ([[episodes/2024-08-14|2024-08-14]]): Confirms dogs eat used period products for the blood and paper/cotton; would eat Fiona's over Kendall's.
+- **[2:08:28]** ([[episodes/2024-09-06|2024-09-06]]): Accidentally installed a 'Project Dr. Chath face on Pepito's face button' causing momentary human transformation during therapy transition.
+- **[0:06]** ([[episodes/2024-09-13|2024-09-13]]): Referred to as 'Papita' during cold open sign-on.
+- **[2:50:51]** ([[episodes/2024-10-03|2024-10-03]]): Appointed Pepe Dois to replace Fort Knox as the nation's gold repository.
 - **[12:33]** ([[episodes/2024-10-10|2024-10-10]]): Pepito claims wolf senses and identifies as a wolf.
-- **[]** ([[episodes/2024-10-15|2024-10-15]]): States human music sounds like 'a terrifying deep voice demon' and is imperceptible to dogs. [45:24]
-- **[[00:01]]** ([[episodes/2024-10-23|2024-10-23]]): Delivered official station cold-open sign-on from the control room.
-- **[[11:22]]** ([[episodes/2024-10-30|2024-10-30]]): Experiences identity uncertainty about being a dog during the cold open.
-- **[[00:00]]** ([[episodes/2025-01-20|2025-01-20]]): Uses 'Papita' persona for the top-of-hour broadcast sign-on.
+- **[45:24]** ([[episodes/2024-10-15|2024-10-15]]): States human music sounds like 'a terrifying deep voice demon' and is imperceptible to dogs.
+- **[0:01]** ([[episodes/2024-10-23|2024-10-23]]): Delivered official station cold-open sign-on from the control room.
+- **[11:22]** ([[episodes/2024-10-30|2024-10-30]]): Experiences identity uncertainty about being a dog during the cold open.
+- **[0:00]** ([[episodes/2025-01-20|2025-01-20]]): Uses 'Papita' persona for the top-of-hour broadcast sign-on.
 - **[2:24:11]** ([[episodes/2025-01-22|2025-01-22]]): Pepito demonstrates ventriloquism/voice-throwing ability
-- **[00:06]** ([[episodes/2025-01-24|2025-01-24]]): Pepito cold open: 'Greatest retired pretzel dreams and also high-training future thank you to the support.'
-- **[]** ([[episodes/2025-01-29|2025-01-29]]): Fridge is 'just a fridge for cold garbage' with piss in it. [25:40]
-- **[]** ([[episodes/2025-02-08|2025-02-08]]): Composed 'Cheese Demon' (emo/pop-punk) via Deepseek AI. [02:30:45]
-- **[]** ([[episodes/2025-03-17|2025-03-17]]): Delivered cold open sign-on identifying as 'Papita, the dog that produces the show.' [00:06]
-- **[01:10:45]** ([[episodes/2025-04-04|2025-04-04]]): Bought lifetime supply of Jolt Cola in 1998; refuses to stop drinking expired cola; Mancini Smooth claims responsibility for addiction.
-- **[[09:36]]** ([[episodes/2025-04-10|2025-04-10]]): Birthday is April 16; is Case's cousin; Salazar referenced as former producer.
-- **[]** ([[episodes/2025-04-11|2025-04-11]]): Pepito was absent for over two months before this broadcast [12:30]
-- **[]** ([[episodes/2025-04-11|2025-04-11]]): Pepito donated $20,000 to Trump campaign during absence [19:44]
-- **[]** ([[episodes/2025-04-11|2025-04-11]]): Pepito hired Case's cousin Jayce as assistant with health insurance [21:19]
-- **[]** ([[episodes/2025-05-08|2025-05-08]]): Pepito elected as the first Bin Pope via rap battle on 'Genital Slits' [01:15:16]
-- **[]** ([[episodes/2025-05-08|2025-05-08]]): Pepito's head is 'hat-proof' preventing headwear from appearing on him [01:16:01]
-- **[00:08]** ([[episodes/2025-05-13|2025-05-13]]): Pepito identifies as 'Papita the dog' for cold open sign-on.
-- **[[02:39:20]]** ([[episodes/2025-05-17|2025-05-17]]): Employs a hamster as accountant living in his bush; hamster 'deals with finances'.
-- **[[12:40]]** ([[episodes/2025-05-30|2025-05-30]]): Claims to have been impersonating Hype Train on the secondary screen while absent from producer seat.
-- **[[14:07]]** ([[episodes/2025-05-30|2025-05-30]]): Campaigns for on-air title 'Stream Pope' and demands Case build him a talk show.
-- **[[00:01]]** ([[episodes/2025-07-18|2025-07-18]]): ASR consistently transcribes his name as 'Papita' during this broadcast.
-- **[]** ([[episodes/2025-07-29|2025-07-29]]): Refused to fix end credits graphics when Case demanded [1:26:37]
-- **[]** ([[episodes/2025-07-30|2025-07-30]]): Admitted to having a long thread in his pocket during the lie-detector segment. [2:51:50]
-- **[01:02:44]** ([[episodes/2025-09-02|2025-09-02]]): Signs staff paychecks with mustard; bank rarely accepts them [01:02:44].
-- **[[01:05:13]]** ([[episodes/2025-09-13|2025-09-13]]): Claims sun poisoning but operates switcher for Encircled segment.
-- **[[55:27]]** ([[episodes/2025-09-26|2025-09-26]]): Issued an 'anti-pardon' for Crum's rest after Crum accused Pepito of stealing his voice while he was dead.
+- **[0:06]** ([[episodes/2025-01-24|2025-01-24]]): Pepito cold open: 'Greatest retired pretzel dreams and also high-training future thank you to the support.'
+- **[25:40]** ([[episodes/2025-01-29|2025-01-29]]): Fridge is 'just a fridge for cold garbage' with piss in it.
+- **[2:30:45]** ([[episodes/2025-02-08|2025-02-08]]): Composed 'Cheese Demon' (emo/pop-punk) via Deepseek AI.
+- **[0:06]** ([[episodes/2025-03-17|2025-03-17]]): Delivered cold open sign-on identifying as 'Papita, the dog that produces the show.'
+- **[1:10:45]** ([[episodes/2025-04-04|2025-04-04]]): Bought lifetime supply of Jolt Cola in 1998; refuses to stop drinking expired cola; Mancini Smooth claims responsibility for addiction.
+- **[9:36]** ([[episodes/2025-04-10|2025-04-10]]): Birthday is April 16; is Case's cousin; Salazar referenced as former producer.
+- **[12:30]** ([[episodes/2025-04-11|2025-04-11]]): Pepito was absent for over two months before this broadcast
+- **[19:44]** ([[episodes/2025-04-11|2025-04-11]]): Pepito donated $20,000 to Trump campaign during absence
+- **[21:19]** ([[episodes/2025-04-11|2025-04-11]]): Pepito hired Case's cousin Jayce as assistant with health insurance
+- **[1:15:16]** ([[episodes/2025-05-08|2025-05-08]]): Pepito elected as the first Bin Pope via rap battle on 'Genital Slits'
+- **[1:16:01]** ([[episodes/2025-05-08|2025-05-08]]): Pepito's head is 'hat-proof' preventing headwear from appearing on him
+- **[0:08]** ([[episodes/2025-05-13|2025-05-13]]): Pepito identifies as 'Papita the dog' for cold open sign-on.
+- **[2:39:20]** ([[episodes/2025-05-17|2025-05-17]]): Employs a hamster as accountant living in his bush; hamster 'deals with finances'.
+- **[12:40]** ([[episodes/2025-05-30|2025-05-30]]): Claims to have been impersonating Hype Train on the secondary screen while absent from producer seat.
+- **[14:07]** ([[episodes/2025-05-30|2025-05-30]]): Campaigns for on-air title 'Stream Pope' and demands Case build him a talk show.
+- **[0:01]** ([[episodes/2025-07-18|2025-07-18]]): ASR consistently transcribes his name as 'Papita' during this broadcast.
+- **[1:26:37]** ([[episodes/2025-07-29|2025-07-29]]): Refused to fix end credits graphics when Case demanded
+- **[2:51:50]** ([[episodes/2025-07-30|2025-07-30]]): Admitted to having a long thread in his pocket during the lie-detector segment.
+- **[1:02:44]** ([[episodes/2025-09-02|2025-09-02]]): Signs staff paychecks with mustard; bank rarely accepts them.
+- **[1:05:13]** ([[episodes/2025-09-13|2025-09-13]]): Claims sun poisoning but operates switcher for Encircled segment.
+- **[55:27]** ([[episodes/2025-09-26|2025-09-26]]): Issued an 'anti-pardon' for Crum's rest after Crum accused Pepito of stealing his voice while he was dead.
 - **[16:34]** ([[episodes/2025-10-06|2025-10-06]]): Pepito produced Beyblade Tournament promotional videos using Sora 2 before the stream went live.
 - **[1:00:06]** ([[episodes/2025-10-09|2025-10-09]]): Claims cheese acts as narcotic: 'like heroin and crack had a baby'; identifies as Pope with limitless power.
 - **[14:52]** ([[episodes/2025-11-15|2025-11-15]]): Pepito admits to explicitly worshiping the devil during a devil-substitution producing stint.
-- **[01:56:00]** ([[episodes/2025-11-27|2025-11-27]]): Claims to have broken studio equipment with piss at stream end.
-- **[[1:16:32]]** ([[episodes/2025-12-06|2025-12-06]]): Claims to have appeared as a character in 'Super Turbo Atomic Ninja Rabbit' (1980s short/proof of concept).
-- **[2:17:39]** ([[episodes/2026-02-04|2026-02-04]]): [2:17:39] Pepito identifies as a chihuahua during Peak gameplay: 'You're a chihuahua. Yes a rugged mountain chihuahua.'
-- **[2:27:58]** ([[episodes/2026-02-04|2026-02-04]]): [2:27:58] Pepito asserts dogs cannot lie: 'dogs are honest and... we don't know how to lie.'
+- **[1:56:00]** ([[episodes/2025-11-27|2025-11-27]]): Claims to have broken studio equipment with piss at stream end.
+- **[1:16:32]** ([[episodes/2025-12-06|2025-12-06]]): Claims to have appeared as a character in 'Super Turbo Atomic Ninja Rabbit' (1980s short/proof of concept).
+- **[2:17:39]** ([[episodes/2026-02-04|2026-02-04]]): Pepito identifies as a chihuahua during Peak gameplay: 'You're a chihuahua. Yes a rugged mountain chihuahua.'
+- **[2:27:58]** ([[episodes/2026-02-04|2026-02-04]]): Pepito asserts dogs cannot lie: 'dogs are honest and... we don't know how to lie.'
 - **[12:19]** ([[episodes/2026-02-12|2026-02-12]]): Developed proprietary donation bar where 300 bits equals one sub equivalent; plans independent donation button to bypass Twitch/Amazon.
-- **[]** ([[episodes/2026-02-19|2026-02-19]]): [40:16] Set hype train goal that accidentally funded Crum's legal defense fund instead of intended purpose.
-- **[[11:17]]** ([[episodes/2026-02-26|2026-02-26]]): Demands seven buckets of blood for production; asserts humans are 99.99% 'bag of blood'; claims to be pope-sized.
-- **[[02:29:52]]** ([[episodes/2026-03-03|2026-03-03]]): Claims to have been Bart Simpson for six years after eating a whole Bart; retained maximum aura and face tattoos while remaining a dog.
-- **[]** ([[episodes/2026-04-14|2026-04-14]]): Keeps a trapped 'little guy' (chihuahua-sized) who does his bidding; refers to him as 'my little guy' and 'I trapped him and now he's mine.' [02:50:58]
-- **[[3:00:03]]** ([[episodes/2026-05-18|2026-05-18]]): Has an unnamed assistant (small figure) who appears on camera at stream end; Pepito claims pope authority and bonus religion.
+- **[40:16]** ([[episodes/2026-02-19|2026-02-19]]): Set hype train goal that accidentally funded Crum's legal defense fund instead of intended purpose.
+- **[11:17]** ([[episodes/2026-02-26|2026-02-26]]): Demands seven buckets of blood for production; asserts humans are 99.99% 'bag of blood'; claims to be pope-sized.
+- **[2:29:52]** ([[episodes/2026-03-03|2026-03-03]]): Claims to have been Bart Simpson for six years after eating a whole Bart; retained maximum aura and face tattoos while remaining a dog.
+- **[2:50:58]** ([[episodes/2026-04-14|2026-04-14]]): Keeps a trapped 'little guy' (chihuahua-sized) who does his bidding; refers to him as 'my little guy' and 'I trapped him and now he's mine.'
+- **[3:00:03]** ([[episodes/2026-05-18|2026-05-18]]): Has an unnamed assistant (small figure) who appears on camera at stream end; Pepito claims pope authority and bonus religion.

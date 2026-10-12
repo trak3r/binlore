@@ -45,10 +45,10 @@ On [[../episodes/2024-07-20|Deb-8]], highlights include:
 |----------------|------|
 | [[../episodes/2024-06-07|2024-06-07]] | Case announces an eight-hour debate marathon stretch goal for July while outlining the broadcast slate. |
 | [[../episodes/2024-06-10|2024-06-10]] [39:26] | Eight-hour debate marathon confirmed for the weekend after next (Kendall birthday-week conflict noted). |
-| [[../episodes/2024-06-11|2024-06-11]] [01:04:01] | Birthday Elden Ring stream: tamtran gifts 20 subs and clears the eight-hour debate marathon goal. |
+| [[../episodes/2024-06-11|2024-06-11]] [1:04:01] | Birthday Elden Ring stream: tamtran gifts 20 subs and clears the eight-hour debate marathon goal. |
 | [[../episodes/2024-07-19|2024-07-19]] | Eve-of show: Case previews tomorrow's 11am–7pm eight-hour debate marathon. |
 | [[../episodes/2024-07-20|2024-07-20]] | **Climax:** *Deb-8 - Eight Hours of DEBATE* (~8h12m); stacked debate formats; raid out with the "debate virus." |
-| [[../episodes/2024-11-26|2024-11-26]] [01:06:39] | Case mentions an "eight hour crumb stream soon" — later long-form tease, not a confirmed Deb-8 sequel. |
+| [[../episodes/2024-11-26|2024-11-26]] [1:06:39] | Case mentions an "eight hour crumb stream soon" — later long-form tease, not a confirmed Deb-8 sequel. |
 
 ## Related Pages
 

@@ -38,6 +38,6 @@ Throughout the session, viewers participate directly by submitting lyrical coupl
 
 | Episode | Timestamp | Notes |
 |---|---|---|
-| [[../episodes/2026-07-17|2026-07-17]] | 01:47:57 | DJC4 'Free Stephanie' Merch Drop Anthem: DJ C4 assembles a live merch-drop single using AI ghostwriting, pivoting from a request by [[../characters/live-in-sleazy|Live 'n Sleazy]] ('the economy ceasefire violation blues') into the 'Free Stephanie' track. [[../characters/crum|Crum]] performs a Crum-style rap ('get on my mug or a hot butt plug') with an anxious pre-emptive fidelity disclaimer to his wife Belolia. |
+| [[../episodes/2026-07-17|2026-07-17]] | 1:47:57 | DJC4 'Free Stephanie' Merch Drop Anthem: DJ C4 assembles a live merch-drop single using AI ghostwriting, pivoting from a request by [[../characters/live-in-sleazy|Live 'n Sleazy]] ('the economy ceasefire violation blues') into the 'Free Stephanie' track. [[../characters/crum|Crum]] performs a Crum-style rap ('get on my mug or a hot butt plug') with an anxious pre-emptive fidelity disclaimer to his wife Belolia. |
 
 See also: [[../characters/dj-c4|DJ C4 (Character)]], [[../characters/dj-newsic|DJ Newsic]], [[../characters/crum|Crum]], [[../characters/live-in-sleazy|Live 'n Sleazy]], [[../characters/case-blackwell|Case Blackwell]], [[index|Broadcast Segments]].

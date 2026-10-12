@@ -44,10 +44,10 @@ Lead anchor [[case-blackwell|Case Blackwell]] and in-studio contributor [[lilian
 
 ## Notable Moments
 
-- **[01:06:32]** ([[../episodes/2026-08-14|2026-08-14]]): Debuts at the *Amongst the Web* desk with the iconic line: *"Hey, it's me, it's Marfis Darfus!"* Case enthusiastically welcomes him back over Munch.
-- **[01:08:38]** ([[../episodes/2026-08-14|2026-08-14]]): Clarifies his personal stance on intimacy during a clip evaluation: *"I don't actually do sex... I don't believe in it."*
-- **[01:11:21]** ([[../episodes/2026-08-14|2026-08-14]]): Formulates his "fugu state" theory regarding escalator passengers on life journeys.
-- **[01:17:14]** ([[../episodes/2026-08-14|2026-08-14]]): Hands down a landmark rating of `6.44` for serious acting on 90s sitcoms.
+- **[1:06:32]** ([[../episodes/2026-08-14|2026-08-14]]): Debuts at the *Amongst the Web* desk with the iconic line: *"Hey, it's me, it's Marfis Darfus!"* Case enthusiastically welcomes him back over Munch.
+- **[1:08:38]** ([[../episodes/2026-08-14|2026-08-14]]): Clarifies his personal stance on intimacy during a clip evaluation: *"I don't actually do sex... I don't believe in it."*
+- **[1:11:21]** ([[../episodes/2026-08-14|2026-08-14]]): Formulates his "fugu state" theory regarding escalator passengers on life journeys.
+- **[1:17:14]** ([[../episodes/2026-08-14|2026-08-14]]): Hands down a landmark rating of `6.44` for serious acting on 90s sitcoms.
 
 ## Open Questions
 
@@ -58,5 +58,5 @@ See also: [[../segments/amongst-the-web|Amongst the Web]], [[../characters/index
 
 ## Notable moments
 
-- **[1:51:08]** ([[episodes/2025-09-25|2025-09-25]]): Claims 'reparded strength' from high school; upper body strength sufficient to defend against killers [1:51:08].
-- **[1:59:59]** ([[episodes/2025-09-25|2025-09-25]]): Self-appointed Marshal of the BIN Halloween Parade; proposes October 2 date [1:59:59].
+- **[1:51:08]** ([[episodes/2025-09-25|2025-09-25]]): Claims 'reparded strength' from high school; upper body strength sufficient to defend against killers.
+- **[1:59:59]** ([[episodes/2025-09-25|2025-09-25]]): Self-appointed Marshal of the BIN Halloween Parade; proposes October 2 date.

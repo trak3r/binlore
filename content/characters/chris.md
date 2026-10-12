@@ -54,8 +54,8 @@ Chris is on-set because Trent's community-service broadcast requires adult super
 
 ## Notable Moments
 
-- **[[1:31:00]]** ([[episodes/2023-12-12|2023-12-12]]): On-mic introduction as Trent's supervising parole officer during Trailer Thursday.
-- **[[25:05]]** ([[episodes/2024-04-04|2024-04-04]]): Admits urinating every 20 minutes; acknowledges prostate issues mid-trailer block.
+- **[1:31:00]** ([[episodes/2023-12-12|2023-12-12]]): On-mic introduction as Trent's supervising parole officer during Trailer Thursday.
+- **[25:05]** ([[episodes/2024-04-04|2024-04-04]]): Admits urinating every 20 minutes; acknowledges prostate issues mid-trailer block.
 - **[1:04:50]** ([[episodes/2024-05-01|2024-05-01]]): Claims Trent's father owns a steak shop and that Trent's parents do not get along.
 
 ## Open Questions

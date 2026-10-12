@@ -97,63 +97,63 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 
 - **[1:26:47]** ([[episodes/2026-09-02|2026-09-02]]): Delivers extended *Jill of the Jungle* gameplay commentary interspersed with Gooters sponsorship spots and maternal arguments.
 - **[24:51]** ([[episodes/2026-09-04|2026-09-04]]): Newsroom inquiries regarding his origins clarify that Brandon was extracted from the "crypto universe" prior to joining the network.
-- **[67:37]** ([[episodes/2026-09-01|2026-09-01]]): Mother repeatedly drops consonants while shouting through the door; Brandon urges her to refine her sneezing technique and dietary habits.
-- **[65:43]** ([[episodes/2026-09-01|2026-09-01]]): Mother alerts Brandon that Pastor Joe is visiting that evening and scolds him for vocal grunting.
-- **[80:30]** ([[episodes/2026-09-01|2026-09-01]]): Mother claims her high-end Italian road bicycle deters home intruders by convincing neighbors she trains like an Olympic athlete.
-- **[01:21:43]** ([[episodes/2026-08-26|2026-08-26]]): Delivers a Gooters sponsor read introducing "wet storage bins," a "potato turducken" stuffed with a $20 bill, "herniated cheese discs," and Halloween "moist kitten poppers."
-- **[02:00:22]** ([[episodes/2026-08-26|2026-08-26]]): Completes *The Journey Home* demo to the final credits, navigating old-man birth sequences, Flappy Bird platforming, and sparkling afterlife states.
-- **[02:01:18]** ([[episodes/2026-08-19|2026-08-19]]): Brandon's mother claims he is in his 30s, implying his biological age, while he continues to be berated as 'Bran Bran' through the bedroom door.
-- **[172:07]** ([[episodes/2026-08-08|2026-08-08]]): Brandon claims to make '$60 million dollars a year' and boasts a $6 million net worth.
-- **[158:39]** ([[episodes/2026-08-08|2026-08-08]]): Brandon references his mother's Gooters wet chicken wings, noting she stored sodas inside 'big rubber socks' delivered by Pastor Joe.
-- **[01:05:56]** ([[episodes/2026-08-04|2026-08-04]]): Brandon's mother calls him 'Bran Bran' through the bedroom door and is sourced from incoming viewer submissions and community correspondence. [01:05:56]
-- **[01:07:11]** ([[episodes/2026-08-04|2026-08-04]]): Brandon's mother demands he inject Pepsi into his penis on behalf of Pastor Joe, who wants to 'pray the shit out of' him, and reveals the household front door is currently missing, explaining a bear infestation. [01:07:11] [01:22:52]
-- **[01:18:11]** ([[episodes/2026-07-23|2026-07-23]]): Brandon was hosting the segment while dealing with a busted controller cord, forcing him to rely on a tiny baby cord and keyboard inputs. His mother actively shouted at him about the YouTube stream suspension.
-- **[01:08:21]** ([[episodes/2026-07-13|2026-07-13]]): Does not believe in haircuts, using a primitive caveman method of compressing his hair down instead.
-- **[01:24:50]** ([[episodes/2026-07-13|2026-07-13]]): His mother is French and holds prejudices against the French for making 'too sexy' movies, replacing racism with xenophobic wordplay (baguettes).
-- **[01:31:43]** ([[episodes/2026-07-13|2026-07-13]]): Has a history of taking 'be a less awful guy classes'.
-- **[01:45:34]** ([[episodes/2026-07-11|2026-07-11]]): Brandon's mother constantly yells at him for leaving mayonnaise hair cream packages open, causing the contents to 'rot off' and be devoured by rats.
-- **[02:14:55]** ([[episodes/2026-06-29|2026-06-29]]): Brandon's mother harasses him through the bedroom door about haircuts, party sub theft, and toilet floods ('8 feet deep'). The feral hogs in the backyard are repelled by a hose Brandon purchased. She calls him 'Brandy'.
-- **[01:30:46]** ([[episodes/2026-06-27|2026-06-27]]): Brandon's mother loudly threatened to buy a pool to be 'eaten out' of by 'Pastor Joe', then threatened to leave her door open so chat could hear him. Brandon considered emancipating himself and being adopted by his neighbor, 'Brecky', a 72-year-old woman.
+- **[1:07:37]** ([[episodes/2026-09-01|2026-09-01]]): Mother repeatedly drops consonants while shouting through the door; Brandon urges her to refine her sneezing technique and dietary habits.
+- **[1:05:43]** ([[episodes/2026-09-01|2026-09-01]]): Mother alerts Brandon that Pastor Joe is visiting that evening and scolds him for vocal grunting.
+- **[1:20:30]** ([[episodes/2026-09-01|2026-09-01]]): Mother claims her high-end Italian road bicycle deters home intruders by convincing neighbors she trains like an Olympic athlete.
+- **[1:21:43]** ([[episodes/2026-08-26|2026-08-26]]): Delivers a Gooters sponsor read introducing "wet storage bins," a "potato turducken" stuffed with a $20 bill, "herniated cheese discs," and Halloween "moist kitten poppers."
+- **[2:00:22]** ([[episodes/2026-08-26|2026-08-26]]): Completes *The Journey Home* demo to the final credits, navigating old-man birth sequences, Flappy Bird platforming, and sparkling afterlife states.
+- **[2:01:18]** ([[episodes/2026-08-19|2026-08-19]]): Brandon's mother claims he is in his 30s, implying his biological age, while he continues to be berated as 'Bran Bran' through the bedroom door.
+- **[2:52:07]** ([[episodes/2026-08-08|2026-08-08]]): Brandon claims to make '$60 million dollars a year' and boasts a $6 million net worth.
+- **[2:38:39]** ([[episodes/2026-08-08|2026-08-08]]): Brandon references his mother's Gooters wet chicken wings, noting she stored sodas inside 'big rubber socks' delivered by Pastor Joe.
+- **[1:05:56]** ([[episodes/2026-08-04|2026-08-04]]): Brandon's mother calls him 'Bran Bran' through the bedroom door and is sourced from incoming viewer submissions and community correspondence.
+- **[1:07:11]** ([[episodes/2026-08-04|2026-08-04]]): Brandon's mother demands he inject Pepsi into his penis on behalf of Pastor Joe, who wants to 'pray the shit out of' him, and reveals the household front door is currently missing, explaining a bear infestation. [01:22:52]
+- **[1:18:11]** ([[episodes/2026-07-23|2026-07-23]]): Brandon was hosting the segment while dealing with a busted controller cord, forcing him to rely on a tiny baby cord and keyboard inputs. His mother actively shouted at him about the YouTube stream suspension.
+- **[1:08:21]** ([[episodes/2026-07-13|2026-07-13]]): Does not believe in haircuts, using a primitive caveman method of compressing his hair down instead.
+- **[1:24:50]** ([[episodes/2026-07-13|2026-07-13]]): His mother is French and holds prejudices against the French for making 'too sexy' movies, replacing racism with xenophobic wordplay (baguettes).
+- **[1:31:43]** ([[episodes/2026-07-13|2026-07-13]]): Has a history of taking 'be a less awful guy classes'.
+- **[1:45:34]** ([[episodes/2026-07-11|2026-07-11]]): Brandon's mother constantly yells at him for leaving mayonnaise hair cream packages open, causing the contents to 'rot off' and be devoured by rats.
+- **[2:14:55]** ([[episodes/2026-06-29|2026-06-29]]): Brandon's mother harasses him through the bedroom door about haircuts, party sub theft, and toilet floods ('8 feet deep'). The feral hogs in the backyard are repelled by a hose Brandon purchased. She calls him 'Brandy'.
+- **[1:30:46]** ([[episodes/2026-06-27|2026-06-27]]): Brandon's mother loudly threatened to buy a pool to be 'eaten out' of by 'Pastor Joe', then threatened to leave her door open so chat could hear him. Brandon considered emancipating himself and being adopted by his neighbor, 'Brecky', a 72-year-old woman.
 
 See also: [[../segments/cryptozeus|CryptoZeu$ (Segment)]], [[characters/brandons-mother|Brandon's Mother]], [[characters/case-blackwell|Case Blackwell]], [[index|On-Air Talent]].
-- **[01:44:27]** ([[episodes/2026-06-15|2026-06-15]]): Brandon's CryptoZeu$ segment includes a random number game and interactions with his mother.
-- **[02:02:03]** ([[episodes/2026-06-08|2026-06-08]]): Refuses to pay for games ('hard I don't want to pay for games policy'); plays on Case's copies. Mother yells through bedroom door throughout broadcasts.
-- **[01:21:43]** ([[episodes/2026-08-26|2026-08-26]]): Gooters sponsor bit: 'wet storage bins', 'potato turducken' with $20 inside, 'herniated cheese disc', 'moist kitten poppers' (Halloween). Mom calls him 'Bran Bran'.
-- **[02:00:22]** ([[episodes/2026-08-26|2026-08-26]]): Played The Journey Home indie demo to credits; reached a 'sparkle' state after dying, pranced, played a Flappy Bird section, and finished to a credit roll thanking him for playing Walter.
-- **[67:37]** ([[episodes/2026-09-01|2026-09-01]]): Mom yells 'washed' instead of 'washed' (dropping the R) repeatedly; Brandon insists she needs to 'learn to sneeze better' and 'learn to eat better.'
-- **[65:43]** ([[episodes/2026-09-01|2026-09-01]]): Mom mentions Pastor Joe is coming over that night and gets upset that Brandon's grunting 'puts mama in a moon.'
-- **[80:30]** ([[episodes/2026-09-01|2026-09-01]]): Mom claims her Italian bicycle 'intimidates people into thinking that I do sports' and protects her house because people assume she's like Lance Armstrong.
-- **[01:17:00]** ([[episodes/2026-09-07|2026-09-07]]): Streamed Intelligent Qube (PS1) via keyboard after controller connection failures, proclaiming his superior spatial IQ.
-- **[[01:06:09]]** ([[episodes/2026-01-24|2026-01-24]]): Mother calls him 'Bran Bran' and 'B-boy brand'; has second mouth on stomach; legally declared guardian of mother after role swap.
-- **[[01:24:20]]** ([[episodes/2026-01-24|2026-01-24]]): Room legally designated state dumping ground for animal roadkill overflow.
-- **[[01:55:47]]** ([[episodes/2026-01-24|2026-01-24]]): Mother poisoned 78 eight-year-olds with spoiled milkshakes in schoolyard.
-- **[[01:48:30]]** ([[episodes/2026-01-24|2026-01-24]]): Mother microwaves his iPod nano which opens purple portal with 'gregory enchanting' from garbage disposal.
-- **[01:59:23]** ([[episodes/2026-01-27|2026-01-27]]): Claimed a six-million-dollar sponsorship from Timothy Chalamet for a 'Willy Diddy' Willy Wonka/P. Diddy crossover movie [01:59:23].
-- **[02:32:46]** ([[episodes/2026-01-27|2026-01-27]]): Reads from an 'erotic bible' during prayer sessions and aspires to join the New York Knicks men's team despite knee issues [02:32:46].
+- **[1:44:27]** ([[episodes/2026-06-15|2026-06-15]]): Brandon's CryptoZeu$ segment includes a random number game and interactions with his mother.
+- **[2:02:03]** ([[episodes/2026-06-08|2026-06-08]]): Refuses to pay for games ('hard I don't want to pay for games policy'); plays on Case's copies. Mother yells through bedroom door throughout broadcasts.
+- **[1:21:43]** ([[episodes/2026-08-26|2026-08-26]]): Gooters sponsor bit: 'wet storage bins', 'potato turducken' with $20 inside, 'herniated cheese disc', 'moist kitten poppers' (Halloween). Mom calls him 'Bran Bran'.
+- **[2:00:22]** ([[episodes/2026-08-26|2026-08-26]]): Played The Journey Home indie demo to credits; reached a 'sparkle' state after dying, pranced, played a Flappy Bird section, and finished to a credit roll thanking him for playing Walter.
+- **[1:07:37]** ([[episodes/2026-09-01|2026-09-01]]): Mom yells 'washed' instead of 'washed' (dropping the R) repeatedly; Brandon insists she needs to 'learn to sneeze better' and 'learn to eat better.'
+- **[1:05:43]** ([[episodes/2026-09-01|2026-09-01]]): Mom mentions Pastor Joe is coming over that night and gets upset that Brandon's grunting 'puts mama in a moon.'
+- **[1:20:30]** ([[episodes/2026-09-01|2026-09-01]]): Mom claims her Italian bicycle 'intimidates people into thinking that I do sports' and protects her house because people assume she's like Lance Armstrong.
+- **[1:17:00]** ([[episodes/2026-09-07|2026-09-07]]): Streamed Intelligent Qube (PS1) via keyboard after controller connection failures, proclaiming his superior spatial IQ.
+- **[1:06:09]** ([[episodes/2026-01-24|2026-01-24]]): Mother calls him 'Bran Bran' and 'B-boy brand'; has second mouth on stomach; legally declared guardian of mother after role swap.
+- **[1:24:20]** ([[episodes/2026-01-24|2026-01-24]]): Room legally designated state dumping ground for animal roadkill overflow.
+- **[1:55:47]** ([[episodes/2026-01-24|2026-01-24]]): Mother poisoned 78 eight-year-olds with spoiled milkshakes in schoolyard.
+- **[1:48:30]** ([[episodes/2026-01-24|2026-01-24]]): Mother microwaves his iPod nano which opens purple portal with 'gregory enchanting' from garbage disposal.
+- **[1:59:23]** ([[episodes/2026-01-27|2026-01-27]]): Claimed a six-million-dollar sponsorship from Timothy Chalamet for a 'Willy Diddy' Willy Wonka/P. Diddy crossover movie.
+- **[2:32:46]** ([[episodes/2026-01-27|2026-01-27]]): Reads from an 'erotic bible' during prayer sessions and aspires to join the New York Knicks men's team despite knee issues.
 - **[1:33:04]** ([[episodes/2026-02-10|2026-02-10]]): Brandon references prior Kid Rock [[../sponsors/rock-ice|Rock Ice]] sponsorship (over 30% water, sold at Kroger).
 - **[1:54:04]** ([[episodes/2026-02-10|2026-02-10]]): Brandon's mother references Pastor Joe, confirming recurring 'muffled door intervention' dynamic.
 - **[2:50:10]** ([[episodes/2026-02-12|2026-02-12]]): Has not used bathroom in six days; maintains Wednesday 8pm-4am 'bathroom block' strapped into corner box; mother calls him 'Bran Bran'.
 - **[2:36:31]** ([[episodes/2026-02-12|2026-02-12]]): References stalker 'Goose' (male) and former mod 'X Crane' locked up for years over sponsorship deal; Pastor Joe brings Happy Meals.
-- **[[02:05:22]]** ([[episodes/2026-02-17|2026-02-17]]): Mother calls him 'Bran Bran'; interrupts stream with prayer, shower singing, bathroom updates, and workman complaints.
-- **[[1:33:29]]** ([[episodes/2026-02-26|2026-02-26]]): Mom broke jaw on stairs again; subsists on raw hot dog diet per Pastor Joe; Brandon signed exclusive contract with Slunk streaming service on Russian prison servers.
+- **[2:05:22]** ([[episodes/2026-02-17|2026-02-17]]): Mother calls him 'Bran Bran'; interrupts stream with prayer, shower singing, bathroom updates, and workman complaints.
+- **[1:33:29]** ([[episodes/2026-02-26|2026-02-26]]): Mom broke jaw on stairs again; subsists on raw hot dog diet per Pastor Joe; Brandon signed exclusive contract with Slunk streaming service on Russian prison servers.
 - **[1:37:01]** ([[episodes/2026-02-28|2026-02-28]]): Brandon's mother admits to storing rat poop in the fridge for six years, possibly eating two pounds of it thinking they were brownies.
 - **[1:43:52]** ([[episodes/2026-02-28|2026-02-28]]): Brandon's mother speaks fluent Spanish, attributed to dating many Spanish men since his father disappeared.
-- **[[02:11:38]]** ([[episodes/2026-03-10|2026-03-10]]): Has 'parcel foot' condition preventing military draft; stalker sponsor Rip Blazer sponsored streams and won't leave.
-- **[[01:58:44]]** ([[episodes/2026-03-10|2026-03-10]]): Mother references 'Pastor Joe' and roleplays door-kicking scenarios; blasts music 24/7 from podcast about moms inheriting businesses through lawsuits.
-- **[[02:50:11]]** ([[episodes/2026-03-12|2026-03-12]]): Operates 'really rotten sinks dot com' OnlyFans posting sink photos; claims it earns more than streaming.
-- **[[11:37]]** ([[episodes/2026-03-12|2026-03-12]]): Imposed 250-character speech limit to protect throat for unspecified reason; limit refunds channel points when exceeded.
-- **[[01:51:31]]** ([[episodes/2026-03-12|2026-03-12]]): Nickname 'snake guzzler' revealed — references tongue-speaking at her church; Brandon finds it embarrassing.
-- **[01:58:30]** ([[episodes/2026-03-25|2026-03-25]]): Brandon's lawyer represents both him and Kevin Pereira simultaneously, creating a conflict of interest; the lawyer threatens to 'forward Brandon into the stone age'.
-- **[[01:25:02]]** ([[episodes/2026-03-27|2026-03-27]]): Currently sponsored by [[../sponsors/milk-cola|Milk Cola]] (spelled MLK Cola), a calcium-flavored beverage legally distinct from milk.
-- **[]** ([[episodes/2026-04-11|2026-04-11]]): Claims he made a bet with his placenta at birth to never shower [2:14:35].
-- **[]** ([[episodes/2026-04-11|2026-04-11]]): Has a 'blinking condition' where light and loud noises trigger involuntary blinking [2:24:48].
-- **[]** ([[episodes/2026-04-11|2026-04-11]]): Was homeschooled for two years due to a skin condition before leaving school entirely [2:28:14].
-- **[]** ([[episodes/2026-04-14|2026-04-14]]): Computer sourced from [[../sponsors/markinsons-wet-ham-emporium|Markinson's Wet Ham Emporium]] deli sponsorship, not Dell. [02:15:39]
-- **[]** ([[episodes/2026-04-14|2026-04-14]]): Mother yells through bedroom door about 'Pastor Joe' and repeatedly farts on door despite established boundary. [02:25:27]
-- **[]** ([[episodes/2026-04-29|2026-04-29]]): Brick referenced Brandon's oven-door incident ('my cock is now stuck in the oven') during Wild Guns playthrough [1:43:16].
-- **[16:34]** ([[episodes/2026-05-02|2026-05-02]]): Mother's door interventions continue; she threatens child services despite Brandon being adult. [16:34]
-- **[[01:39:02]]** ([[episodes/2026-05-12|2026-05-12]]): House windows shattered outward due to internal atmospheric pressure; raccoons now infest the kitchen.
-- **[[01:59:00]]** ([[episodes/2026-05-12|2026-05-12]]): Maintains 'daddy jars' of peanut butter in the basement for his father's potential return; mother inserts hotdogs into them.
-- **[[01:28:24]]** ([[episodes/2026-05-12|2026-05-12]]): Mother yells through bedroom door during streams; refers to him as 'Bran Bran' and critiques his language.
-- **[[1:57:26]]** ([[episodes/2026-05-18|2026-05-18]]): Claims doctors say he has heart health of oldest Egyptian pharaohs and brain age of seven-year-old; legally dead per mom.
-- **[[01:29:20]]** ([[episodes/2026-09-23|2026-09-23]]): Ate 13 family-style buckets of Gooters mashed potato and cranberry razz, entered a two-week coma.
+- **[2:11:38]** ([[episodes/2026-03-10|2026-03-10]]): Has 'parcel foot' condition preventing military draft; stalker sponsor Rip Blazer sponsored streams and won't leave.
+- **[1:58:44]** ([[episodes/2026-03-10|2026-03-10]]): Mother references 'Pastor Joe' and roleplays door-kicking scenarios; blasts music 24/7 from podcast about moms inheriting businesses through lawsuits.
+- **[2:50:11]** ([[episodes/2026-03-12|2026-03-12]]): Operates 'really rotten sinks dot com' OnlyFans posting sink photos; claims it earns more than streaming.
+- **[11:37]** ([[episodes/2026-03-12|2026-03-12]]): Imposed 250-character speech limit to protect throat for unspecified reason; limit refunds channel points when exceeded.
+- **[1:51:31]** ([[episodes/2026-03-12|2026-03-12]]): Nickname 'snake guzzler' revealed — references tongue-speaking at her church; Brandon finds it embarrassing.
+- **[1:58:30]** ([[episodes/2026-03-25|2026-03-25]]): Brandon's lawyer represents both him and Kevin Pereira simultaneously, creating a conflict of interest; the lawyer threatens to 'forward Brandon into the stone age'.
+- **[1:25:02]** ([[episodes/2026-03-27|2026-03-27]]): Currently sponsored by [[../sponsors/milk-cola|Milk Cola]] (spelled MLK Cola), a calcium-flavored beverage legally distinct from milk.
+- **[2:14:35]** ([[episodes/2026-04-11|2026-04-11]]): Claims he made a bet with his placenta at birth to never shower.
+- **[2:24:48]** ([[episodes/2026-04-11|2026-04-11]]): Has a 'blinking condition' where light and loud noises trigger involuntary blinking.
+- **[2:28:14]** ([[episodes/2026-04-11|2026-04-11]]): Was homeschooled for two years due to a skin condition before leaving school entirely.
+- **[2:15:39]** ([[episodes/2026-04-14|2026-04-14]]): Computer sourced from [[../sponsors/markinsons-wet-ham-emporium|Markinson's Wet Ham Emporium]] deli sponsorship, not Dell.
+- **[2:25:27]** ([[episodes/2026-04-14|2026-04-14]]): Mother yells through bedroom door about 'Pastor Joe' and repeatedly farts on door despite established boundary.
+- **[1:43:16]** ([[episodes/2026-04-29|2026-04-29]]): Brick referenced Brandon's oven-door incident ('my cock is now stuck in the oven') during Wild Guns playthrough.
+- **[16:34]** ([[episodes/2026-05-02|2026-05-02]]): Mother's door interventions continue; she threatens child services despite Brandon being adult.
+- **[1:39:02]** ([[episodes/2026-05-12|2026-05-12]]): House windows shattered outward due to internal atmospheric pressure; raccoons now infest the kitchen.
+- **[1:59:00]** ([[episodes/2026-05-12|2026-05-12]]): Maintains 'daddy jars' of peanut butter in the basement for his father's potential return; mother inserts hotdogs into them.
+- **[1:28:24]** ([[episodes/2026-05-12|2026-05-12]]): Mother yells through bedroom door during streams; refers to him as 'Bran Bran' and critiques his language.
+- **[1:57:26]** ([[episodes/2026-05-18|2026-05-18]]): Claims doctors say he has heart health of oldest Egyptian pharaohs and brain age of seven-year-old; legally dead per mom.
+- **[1:29:20]** ([[episodes/2026-09-23|2026-09-23]]): Ate 13 family-style buckets of Gooters mashed potato and cranberry razz, entered a two-week coma.

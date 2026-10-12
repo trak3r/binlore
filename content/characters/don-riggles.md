@@ -40,8 +40,8 @@ His entire on-air vocabulary tends toward smells, gases, and digestive catastrop
 
 ## Notable Moments
 
-- **[01:07:39]** ([[../episodes/2026-03-07|2026-03-07]]): Takes the stand after a long absence and opens with the fresh-stack assessment of the trial.
-- **[01:24:39]** ([[../episodes/2026-03-07|2026-03-07]]): Recalled by the court; pivots Domino's conspiracy questions into smelly-gases testimony.
+- **[1:07:39]** ([[../episodes/2026-03-07|2026-03-07]]): Takes the stand after a long absence and opens with the fresh-stack assessment of the trial.
+- **[1:24:39]** ([[../episodes/2026-03-07|2026-03-07]]): Recalled by the court; pivots Domino's conspiracy questions into smelly-gases testimony.
 
 ## Open Questions
 
@@ -52,5 +52,5 @@ See also: [[coach-mcgurk|Coach McGurk]], [[jizzbo|Jizzbo]], [[crum|Crum]], [[../
 
 ## Notable moments
 
-- **[]** ([[episodes/2024-02-27|2024-02-27]]): Established as recurring roast comic character (not the real Don Rickles); claims 120 years old, brings own lighting, tours fictional venues. [1:09:55]
-- **[]** ([[episodes/2024-05-10|2024-05-10]]): Debuted new dyed hair and facial work; admits to dyeing hair. [01:04:56]
+- **[1:09:55]** ([[episodes/2024-02-27|2024-02-27]]): Established as recurring roast comic character (not the real Don Rickles); claims 120 years old, brings own lighting, tours fictional venues.
+- **[1:04:56]** ([[episodes/2024-05-10|2024-05-10]]): Debuted new dyed hair and facial work; admits to dyeing hair.

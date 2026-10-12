@@ -27,228 +27,228 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 
 ## Notable moments
 
-- **[02:12:45]** ([[episodes/2026-09-07|2026-09-07]]): Anchors the Season 3 finale ahead of departing for an extended two-week international leave to Thailand. Oversees the long-awaited Rock-afire mechanical gorilla execution and observes Munch's transformation into a skeleton.
+- **[2:12:45]** ([[episodes/2026-09-07|2026-09-07]]): Anchors the Season 3 finale ahead of departing for an extended two-week international leave to Thailand. Oversees the long-awaited Rock-afire mechanical gorilla execution and observes Munch's transformation into a skeleton.
 - **[15:18]** ([[episodes/2026-09-02|2026-09-02]]): Mentions an upcoming Chicago Sketchfest date 'October 2nd' and teases a larger project announcement with his sketch ensemble.
 - **[42:29]** ([[episodes/2026-09-02|2026-09-02]]): Credited field reporter on the Pentagon story: 'Reporting for this was done by Christy Santhosh.'
 - **[50:02]** ([[episodes/2026-09-02|2026-09-02]]): When called out on broadcast liability, Case cites the 'new trend in the news to relentlessly slander streamers all day' and references QTCinderella coverage on mainstream networks.
 - **[1:29:56]** ([[episodes/2026-09-02|2026-09-02]]): Reports on Brandon's mother suffering a bumper-car mishap with 'Pastor Joe' at a local fair, causing her to speak with archaic Old English inflections.
-- **[09:20]** ([[episodes/2026-09-04|2026-09-04]]): Discloses personal news of hiding a ring from [[kendelle|Kendelle]] while she is out of town, referencing making 'husband money,' and preparing for an extended international leave.
+- **[9:20]** ([[episodes/2026-09-04|2026-09-04]]): Discloses personal news of hiding a ring from [[kendelle|Kendelle]] while she is out of town, referencing making 'husband money,' and preparing for an extended international leave.
 - **[42:46]** ([[episodes/2026-09-04|2026-09-04]]): On AI prompting standards: declares 'the sweet spot is like three sentences' for precision generative output, referencing past commercial consulting work.
 - **[40:02]** ([[episodes/2026-09-04|2026-09-04]]): Names his prospective personal automated assistant 'Tane' rather than commercial defaults.
-- **[00:54]** ([[episodes/2026-08-26|2026-08-26]]): Debriefs the broadcast regarding applying 106 Bart Simpson temporary tattoos over the weekend, noting severe adhesive residue and skin irritation.
+- **[0:54]** ([[episodes/2026-08-26|2026-08-26]]): Debriefs the broadcast regarding applying 106 Bart Simpson temporary tattoos over the weekend, noting severe adhesive residue and skin irritation.
 - **[16:01]** ([[episodes/2026-08-26|2026-08-26]]): Recounts the early history of the network, tracing its origins from an outdoor Bass Pro Shops broadcast and SimCity city planning coverage to a full news desk format — the seed of the later [[../storylines/rennerton|Rennerton]] mayoral simulations and annual [[../storylines/grunchmas|Grunchmas]] persona work.
-- **[01:40:04]** ([[episodes/2026-08-26|2026-08-26]]): Announces upcoming international travel to Thailand from September 8–17 for personal life events, requiring the network's programming schedule to adjust accordingly.
-- **[00:03:30]** ([[episodes/2026-08-19|2026-08-19]]): Case references a brother who is reportedly practicing the Nintendo 64 game 'Mace: The Dark Age' and idolizing a character named Lord Demos.
-- **[02:35:50]** ([[episodes/2026-08-19|2026-08-19]]): Case references an upcoming Patreon stream scheduled for the following day, and a potential Friday broadcast dependent on the printing of 16 sheets of Bart Simpson tattoos.
-- **[09:49]** ([[episodes/2026-08-14|2026-08-14]]): Case returned from approximately a year off air, broadcasting 'from an undisclosed location, aka this haunted studio', and teased 'big plans for the network' while noting the 'real Jeb skin suit' is still missing.
+- **[1:40:04]** ([[episodes/2026-08-26|2026-08-26]]): Announces upcoming international travel to Thailand from September 8–17 for personal life events, requiring the network's programming schedule to adjust accordingly.
+- **[0:03:30]** ([[episodes/2026-08-19|2026-08-19]]): Case references a brother who is reportedly practicing the Nintendo 64 game 'Mace: The Dark Age' and idolizing a character named Lord Demos.
+- **[2:35:50]** ([[episodes/2026-08-19|2026-08-19]]): Case references an upcoming Patreon stream scheduled for the following day, and a potential Friday broadcast dependent on the printing of 16 sheets of Bart Simpson tattoos.
+- **[9:49]** ([[episodes/2026-08-14|2026-08-14]]): Case returned from approximately a year off air, broadcasting 'from an undisclosed location, aka this haunted studio', and teased 'big plans for the network' while noting the 'real Jeb skin suit' is still missing.
 - **[13:21]** ([[episodes/2026-08-14|2026-08-14]]): Case explains he previously got a bad haircut the studio was buzzing about, prompting a return to what he calls 'the haircut I've been destined for'.
-- **[08:53-11:13]** ([[episodes/2026-08-13|2026-08-13]]): Blackwell returned from New Orleans, staying in the French Quarter with a friend who showed them around the city. The trip was extremely hot, described as 'stepping out into water.'
-- **[08:46]** ([[episodes/2026-08-06|2026-08-06]]): Lead anchor Blackwell has been largely absent from the broadcast schedule during the summer period due to unspecified out-of-town travel and workload backlogs.
+- **[8:53]** ([[episodes/2026-08-13|2026-08-13]]): Blackwell returned from New Orleans, staying in the French Quarter with a friend who showed them around the city. The trip was extremely hot, described as 'stepping out into water.'
+- **[8:46]** ([[episodes/2026-08-06|2026-08-06]]): Lead anchor Blackwell has been largely absent from the broadcast schedule during the summer period due to unspecified out-of-town travel and workload backlogs.
 - **[49:01]** ([[episodes/2026-08-06|2026-08-06]]): Blackwell maintains a personal gaming partnership with in-studio contributor [[kendelle|Kendelle]], frequently competing in cooperative titles ('BigWog,' 'Friend Slap') and growing upset when she plays without him.
-- **[09:31]** ([[episodes/2026-08-04|2026-08-04]]): Blackwell missed the previous week due to a Monday blackout, Wednesday internet outage, and accumulated power/work demands that prevented him from catching up on Thursday. [09:31]
-- **[10:21]** ([[episodes/2026-08-04|2026-08-04]]): Blackwell sustained a swollen ankle two weeks prior and refuses to ice, elevate, or seek medical treatment, citing stubbornness despite the swelling remaining visible. [10:21]
+- **[9:31]** ([[episodes/2026-08-04|2026-08-04]]): Blackwell missed the previous week due to a Monday blackout, Wednesday internet outage, and accumulated power/work demands that prevented him from catching up on Thursday.
+- **[10:21]** ([[episodes/2026-08-04|2026-08-04]]): Blackwell sustained a swollen ankle two weeks prior and refuses to ice, elevate, or seek medical treatment, citing stubbornness despite the swelling remaining visible.
 - **[13:54]** ([[episodes/2026-07-24|2026-07-24]]): Case marks his 40th birthday on air, fielding the broadcast with a $20 Amazon collapsible cane with a flashlight handle (joking it conceals nunchucks) to support his stubborn ankle injury.
 - **[11:32]** ([[episodes/2026-07-23|2026-07-23]]): Currently uninsured after losing coverage through [[kendelle|Kendelle's]] plan due to missing the grace period sign-up window; has had insurance continuously since starting at G4.
 - **[10:05]** ([[episodes/2026-07-23|2026-07-23]]): Sustained a severely swollen ankle by stepping in a pothole while jogging after being distracted by a guy with a long mullet on a rented scooter.
 - **[11:24]** ([[episodes/2026-07-23|2026-07-23]]): Acquired a $20 cane from Amazon to assist mobility while refusing to seek professional medical attention, applying the RICE method (Rest, Ice, Compression, Elevate).
-- **[09:00]** ([[episodes/2026-07-20|2026-07-20]]): Case reveals his magician name is 'Shaz Black' and [[kendelle|Kendelle's]] is 'Candy Lane', referencing their collaborative magic act.
-- **[01:40:48]** ([[episodes/2026-07-17|2026-07-17]]): Blackwell publishes a Patreon link he sent to Kasim at 2 AM; the stream currently averages ~72 viewers, three short of the Twitch Partner 75-viewer threshold. He is targeting the Partner badge by streaming three times a week.
-- **[01:18:52]** ([[episodes/2026-07-16|2026-07-16]]): Case confirms he suffers from altitude-based intelligence changes, stating 'I'm not high enough to remember' previous on-air events.
+- **[9:00]** ([[episodes/2026-07-20|2026-07-20]]): Case reveals his magician name is 'Shaz Black' and [[kendelle|Kendelle's]] is 'Candy Lane', referencing their collaborative magic act.
+- **[1:40:48]** ([[episodes/2026-07-17|2026-07-17]]): Blackwell publishes a Patreon link he sent to Kasim at 2 AM; the stream currently averages ~72 viewers, three short of the Twitch Partner 75-viewer threshold. He is targeting the Partner badge by streaming three times a week.
+- **[1:18:52]** ([[episodes/2026-07-16|2026-07-16]]): Case confirms he suffers from altitude-based intelligence changes, stating 'I'm not high enough to remember' previous on-air events.
 - **[59:02]** ([[episodes/2026-07-13|2026-07-13]]): Was romantically linked (via AI Rooney hallucination and Brandon's mother) to a woman named 'Stephanie' who apparently gives him bad haircuts and hears him moaning in his sleep.
-- **[00:10:01]** ([[episodes/2026-07-11|2026-07-11]]): Case and [[kendelle|Kendelle]] host a podcast together, where they must 'try stuff' from their weekly self-improvement topic. This week's focus is 'looks maxing'.
-- **[00:31:26]** ([[episodes/2026-07-11|2026-07-11]]): Case ordered a batch of temporary Bart Simpson tattoos, intending to cover his arms for 'one beautiful day' to create a fake tattoo sleeve.
-- **[00:55:14]** ([[episodes/2026-06-29|2026-06-29]]): Case admits to using a massage gun on his temples and near his eyes, calling it a 'responsible' practice before pivoting to the news.
-- **[01:46:35]** ([[episodes/2026-06-29|2026-06-29]]): Case's Twitch bio still has typos despite four years of streaming, and a leftover '1000 subs for a 24-hour news stream' goal persists.
-- **[00:58:51]** ([[episodes/2026-06-29|2026-06-29]]): Case's audience interaction commands include '!c to talk to the Joes' and '!4' for merch suggestions.
+- **[0:10:01]** ([[episodes/2026-07-11|2026-07-11]]): Case and [[kendelle|Kendelle]] host a podcast together, where they must 'try stuff' from their weekly self-improvement topic. This week's focus is 'looks maxing'.
+- **[0:31:26]** ([[episodes/2026-07-11|2026-07-11]]): Case ordered a batch of temporary Bart Simpson tattoos, intending to cover his arms for 'one beautiful day' to create a fake tattoo sleeve.
+- **[0:55:14]** ([[episodes/2026-06-29|2026-06-29]]): Case admits to using a massage gun on his temples and near his eyes, calling it a 'responsible' practice before pivoting to the news.
+- **[1:46:35]** ([[episodes/2026-06-29|2026-06-29]]): Case's Twitch bio still has typos despite four years of streaming, and a leftover '1000 subs for a 24-hour news stream' goal persists.
+- **[0:58:51]** ([[episodes/2026-06-29|2026-06-29]]): Case's audience interaction commands include '!c to talk to the Joes' and '!4' for merch suggestions.
 - **[10:29]** ([[episodes/2026-06-27|2026-06-27]]): Blackwell is on a new clothing regimen 'courtesy of Jeff Bezos' and his own life, transitioning away from basketball shorts to feel more human, though he admits he 'sometimes has legs' and has 'wilt energy.'
-- **[08:09]** ([[episodes/2026-06-22|2026-06-22]]): Case Blackwell is the lead anchor and managing editor who presides over the entire broadcast. He discusses his VPN causing access restrictions to news sites, his 4K film collection habits, and his difficulty with Twitch raid/ban functions.
-- **[00:06]** ([[episodes/2026-06-15|2026-06-15]]): Case Blackwell is celebrating his 40th birthday, which is the central theme of the broadcast.
-- **[00:11:20]** ([[episodes/2026-06-08|2026-06-08]]): Owns a toy machete on a string; keeps a stun gun for home defense (Kendelle also has one).
-- **[01:46:44]** ([[episodes/2026-06-08|2026-06-08]]): Auditioned for Love Island, Too Hot to Handle, and MILF Manor as a 'positive male influence' but was outside age range for the latter.
-- **[01:15:04]** ([[episodes/2026-06-03|2026-06-03]]): Case Blackwell and Kendelle maintain an emergency cash reserve in a ziplock bag, created during the LA fires evacuation panic.
-- **[00:10:01]** ([[episodes/2026-07-11|2026-07-11]]): Case and Kendall host a podcast together, where they must 'try stuff' from their weekly self-improvement topic. This week's focus is 'looks maxing'.
-- **[00:54]** ([[episodes/2026-08-26|2026-08-26]]): Bart tattoo stream was Saturday: 106 Bart Simpson temporary tattoos applied with Kendall McDonald; used cheap non-Matlidel tattoo paper; sticky residue persisted for days.
+- **[8:09]** ([[episodes/2026-06-22|2026-06-22]]): Case Blackwell is the lead anchor and managing editor who presides over the entire broadcast. He discusses his VPN causing access restrictions to news sites, his 4K film collection habits, and his difficulty with Twitch raid/ban functions.
+- **[0:06]** ([[episodes/2026-06-15|2026-06-15]]): Case Blackwell is celebrating his 40th birthday, which is the central theme of the broadcast.
+- **[0:11:20]** ([[episodes/2026-06-08|2026-06-08]]): Owns a toy machete on a string; keeps a stun gun for home defense (Kendelle also has one).
+- **[1:46:44]** ([[episodes/2026-06-08|2026-06-08]]): Auditioned for Love Island, Too Hot to Handle, and MILF Manor as a 'positive male influence' but was outside age range for the latter.
+- **[1:15:04]** ([[episodes/2026-06-03|2026-06-03]]): Case Blackwell and Kendelle maintain an emergency cash reserve in a ziplock bag, created during the LA fires evacuation panic.
+- **[0:10:01]** ([[episodes/2026-07-11|2026-07-11]]): Case and Kendall host a podcast together, where they must 'try stuff' from their weekly self-improvement topic. This week's focus is 'looks maxing'.
+- **[0:54]** ([[episodes/2026-08-26|2026-08-26]]): Bart tattoo stream was Saturday: 106 Bart Simpson temporary tattoos applied with Kendall McDonald; used cheap non-Matlidel tattoo paper; sticky residue persisted for days.
 - **[16:01]** ([[episodes/2026-08-26|2026-08-26]]): Original BIN was a SimCity stream; before that it was an IRL Bass ProShops stream; in between, Case sat and read news transitioning from co-streams with Fiona.
-- **[01:40:04]** ([[episodes/2026-08-26|2026-08-26]]): Case is going to Thailand Aug 8-17, unstreamed.
+- **[1:40:04]** ([[episodes/2026-08-26|2026-08-26]]): Case is going to Thailand Aug 8-17, unstreamed.
 - **[42:29]** ([[episodes/2026-09-02|2026-09-02]]): Credited reporter on the Pentagon story: 'Reporting for this was done by Christy Santhosh.'
 - **[50:02]** ([[episodes/2026-09-02|2026-09-02]]): When called out for slander, Case invokes the 'new thing in the news is slander streamers relentlessly all day' line and references 'Cutie Cinderella' being over-mentioned on CNN.
 - **[1:29:56]** ([[episodes/2026-09-02|2026-09-02]]): Case's mom bit: hit her head bumper-carring with 'Pastor Joe' at a local fair and now occasionally speaks in Old English by adding extra vowels; plugs Gooters 'dino fries' throughout the gameplay segment.
-- **[09:20]** ([[episodes/2026-09-04|2026-09-04]]): Personal lore: hiding a ring (or similar item) from Kendall who is out of town for 24 hours. References making 'husband money,' planning to leave the country on a long vacation after Monday, and revealing the chat trigger word 'science' triggers Chet (Case's wife Kendall apparently hears him rail against AI frequently).
+- **[9:20]** ([[episodes/2026-09-04|2026-09-04]]): Personal lore: hiding a ring (or similar item) from Kendall who is out of town for 24 hours. References making 'husband money,' planning to leave the country on a long vacation after Monday, and revealing the chat trigger word 'science' triggers Chet (Case's wife Kendall apparently hears him rail against AI frequently).
 - **[42:46]** ([[episodes/2026-09-04|2026-09-04]]): On AI prompting: 'the sweet spot is like three sentences' for getting AI image generation to deliver — established professional opinion on AI tools. Also references working 'a job where I was generating AI role for a guy' (one of his 'coolest jobs ever').
 - **[40:02]** ([[episodes/2026-09-04|2026-09-04]]): Personal lore: Case names his hypothetical personal AI 'Tane' (rather than Alexa/Cortana), jokes 'if I ever have to get an AI I'm definitely naming it Tane.' Also mentions using 'angled buckets' for aging-related efficient urination, and owning smart windows that open/close on voice command.
-- **[]** ([[episodes/2025-06-24|2025-06-24]]): [41:05] Voice deepening described as 'next level puberty' despite being past his 20s.
-- **[[15:29]]** ([[episodes/2023-11-22|2023-11-22]]): Now streaming simultaneously on Twitch, YouTube, TikTok (pending 1k followers), and Twitter/X [15:29].
-- **[01:33:26]** ([[episodes/2023-11-23|2023-11-23]]): Paid $20/month for an AI dating/sexting chatbot subscription on stream; found it lame and planned to cancel. [01:33:26]
-- **[01:31:55]** ([[episodes/2023-11-23|2023-11-23]]): Participated in a sketch show where cast carried cumbersome objects: Case a giant speaker, Tim a pillow mech suit, Andy four vacuums. [01:31:55]
-- **[[10:12]]** ([[episodes/2023-11-30|2023-11-30]]): Broadcast transition system (scene transitions, fire transition) suffered a total failure at top of show, forcing 'smoke teleportation' manual cuts.
-- **[[17:57]]** ([[episodes/2023-12-02|2023-12-02]]): Live comedy show scheduled Wednesday 7:30 PM Pacific with Tim (saved in phone as 'case bitch'); 10-minute set plus other comedians; streaming on Case's channel.
-- **[[10:14]]** ([[episodes/2023-12-12|2023-12-12]]): Addicted to Lethal Company; playing with Ovali, Fiona, and Tim; expects two-week obsession cycle.
-- **[51:25]** ([[episodes/2023-12-13|2023-12-13]]): Confirms the broadcast is a one-day break from the regular news grind; will resume news format tomorrow. [51:25]
-- **[1:03:50]** ([[episodes/2023-12-13|2023-12-13]]): Departs early for a 'work thing' outside the network, raiding Fiona's channel on exit. [1:03:50]
-- **[]** ([[episodes/2023-12-14|2023-12-14]]): Acquired Elgato teleprompter for news desk [09:38].
-- **[]** ([[episodes/2023-12-14|2023-12-14]]): Broadcasts without pants from waist down as standard practice [35:32].
-- **[04:53:09]** ([[episodes/2023-12-15|2023-12-15]]): Hosted a 5+ hour Lethal Company marathon with a 16-player modded lobby, culminating in teleporter purchase and successful quota clearance on final moon. [04:53:09]
-- **[39:39]** ([[episodes/2023-12-16|2023-12-16]]): [39:39] Read Twitch's official statement rolling back artistic nudity policy effective 2023-12-16; digital depictions of nudity banned regardless of medium.
-- **[[00:45]]** ([[episodes/2023-12-18|2023-12-18]]): Performs annual Grunchmas stream as 'The Grunch,' a horny Grinch variant who maintains a Fucks List of pop culture figures.
-- **[01:54:40]** ([[episodes/2023-12-19|2023-12-19]]): Mentions being rejected for a job at Autodesk but invited to their talent community [01:54:40].
-- **[48:27]** ([[episodes/2023-12-19|2023-12-19]]): Maintains three separate Lethal Company save files [48:27].
-- **[1:06:03]** ([[episodes/2023-12-21|2023-12-21]]): Rented movie theater on three-year contract for 'Let's Go to the Movies' segment [1:06:03].
-- **[03:37:55]** ([[episodes/2023-12-29|2023-12-29]]): Case Blackwell confirms New Year's Eve broadcast scheduled for Sunday mid-afternoon, prioritizing schedules of major subscribers CV loves you and tamtrant.
-- **[[3:20:52]]** ([[episodes/2023-12-31|2023-12-31]]): Wins Best Host of the Network via multi-poll tournament; admits 'you start a news network to win an award... you make an award show and give it to yourself.'
-- **[04:28:59]** ([[episodes/2024-01-02|2024-01-02]]): Case Blackwell proposes to Kendelle on live broadcast; she accepts.
-- **[[02:45:52]]** ([[episodes/2024-01-04|2024-01-04]]): Confirmed impending relocation; new streaming office will accommodate a couch; brother may acquire PC for co-op play.
-- **[[03:21:31]]** ([[episodes/2024-01-04|2024-01-04]]): States intent to resume standard news broadcast format tomorrow after extended Lethal Company hiatus.
-- **[01:47:32]** ([[episodes/2024-01-05|2024-01-05]]): [01:47:32] Apartment move-in delayed to March; builder originally promised October then November then February.
-- **[[15:46]]** ([[episodes/2024-01-19|2024-01-19]]): Nephew plays under handle 'Tracy Chapman' and joins lobby via right-click invite [15:46].
-- **[03:21:31]** ([[episodes/2024-01-20|2024-01-20]]): Completed a 14-hour continuous modded Lethal Company stream starting at noon, ending at ~4 AM [03:21:31].
-- **[01:35:43]** ([[episodes/2024-01-27|2024-01-27]]): Interviewing for a new job that could dramatically shift the broadcast schedule if hired.
-- **[[11:06]]** ([[episodes/2024-02-01|2024-02-01]]): Has pending job interview outcome; would reduce editing workload if hired.
-- **[]** ([[episodes/2024-02-16|2024-02-16]]): Created Truth Social account 'historic skids' to monitor Donald Trump posts [59:46].
-- **[]** ([[episodes/2024-02-27|2024-02-27]]): Moving residence this month; studio may look the same but personal area relocating; power turn-on pending. [16:00]
-- **[]** ([[episodes/2024-03-29|2024-03-29]]): Case Blackwell maintains Leon Kennedy clone reserves for field deployment after months of abandonment. [07:38]
-- **[]** ([[episodes/2024-03-29|2024-03-29]]): Case Blackwell has not relocated apartment; Kendelle moving in creates dual-maternal dynamic with Fiona as prime. [1:49:56]
-- **[]** ([[episodes/2024-03-29|2024-03-29]]): Case Blackwell seeks pre-built PC recommendations for brother Ryan. [1:21:24]
-- **[00:45]** ([[episodes/2024-04-02|2024-04-02]]): Began simulcasting to Instagram in vertical format with 30-second delay [00:45].
-- **[1:04:52]** ([[episodes/2024-04-02|2024-04-02]]): Announced intention to stream daily at 1:00 PM to avoid crossing streams with Kasim [1:04:52].
-- **[[1:08:05]]** ([[episodes/2024-04-04|2024-04-04]]): Updated to Windows 11, causing persistent OBS audio routing failures across multiple segments.
-- **[00:57]** ([[episodes/2024-04-13|2024-04-13]]): Reports Kendelle is attending a bachelorette party off-site [00:57].
-- **[02:04]** ([[episodes/2024-04-13|2024-04-13]]): Mentions impending move from current apartment but states it has not yet occurred [02:04].
-- **[01:07:56]** ([[episodes/2024-04-13|2024-04-13]]): Mouse hardware failure noted during gameplay, affecting aim precision [01:07:56].
-- **[[10:32]]** ([[episodes/2024-04-17|2024-04-17]]): Claims third divorce in progress during Rick Triple segment.
-- **[1:15:48]** ([[episodes/2024-04-25|2024-04-25]]): Performed neutral face experiment for chat and ChatGPT to test AI political prediction study (r=0.22) [1:15:48].
-- **[1:12:20]** ([[episodes/2024-04-29|2024-04-29]]): Accidentally loaded two Joe Biden avatars simultaneously during town hall [1:12:20].
+- **[41:05]** ([[episodes/2025-06-24|2025-06-24]]): Voice deepening described as 'next level puberty' despite being past his 20s.
+- **[15:29]** ([[episodes/2023-11-22|2023-11-22]]): Now streaming simultaneously on Twitch, YouTube, TikTok (pending 1k followers), and Twitter/X.
+- **[1:33:26]** ([[episodes/2023-11-23|2023-11-23]]): Paid $20/month for an AI dating/sexting chatbot subscription on stream; found it lame and planned to cancel.
+- **[1:31:55]** ([[episodes/2023-11-23|2023-11-23]]): Participated in a sketch show where cast carried cumbersome objects: Case a giant speaker, Tim a pillow mech suit, Andy four vacuums.
+- **[10:12]** ([[episodes/2023-11-30|2023-11-30]]): Broadcast transition system (scene transitions, fire transition) suffered a total failure at top of show, forcing 'smoke teleportation' manual cuts.
+- **[17:57]** ([[episodes/2023-12-02|2023-12-02]]): Live comedy show scheduled Wednesday 7:30 PM Pacific with Tim (saved in phone as 'case bitch'); 10-minute set plus other comedians; streaming on Case's channel.
+- **[10:14]** ([[episodes/2023-12-12|2023-12-12]]): Addicted to Lethal Company; playing with Ovali, Fiona, and Tim; expects two-week obsession cycle.
+- **[51:25]** ([[episodes/2023-12-13|2023-12-13]]): Confirms the broadcast is a one-day break from the regular news grind; will resume news format tomorrow.
+- **[1:03:50]** ([[episodes/2023-12-13|2023-12-13]]): Departs early for a 'work thing' outside the network, raiding Fiona's channel on exit.
+- **[9:38]** ([[episodes/2023-12-14|2023-12-14]]): Acquired Elgato teleprompter for news desk.
+- **[35:32]** ([[episodes/2023-12-14|2023-12-14]]): Broadcasts without pants from waist down as standard practice.
+- **[4:53:09]** ([[episodes/2023-12-15|2023-12-15]]): Hosted a 5+ hour Lethal Company marathon with a 16-player modded lobby, culminating in teleporter purchase and successful quota clearance on final moon.
+- **[39:39]** ([[episodes/2023-12-16|2023-12-16]]): Read Twitch's official statement rolling back artistic nudity policy effective 2023-12-16; digital depictions of nudity banned regardless of medium.
+- **[0:45]** ([[episodes/2023-12-18|2023-12-18]]): Performs annual Grunchmas stream as 'The Grunch,' a horny Grinch variant who maintains a Fucks List of pop culture figures.
+- **[1:54:40]** ([[episodes/2023-12-19|2023-12-19]]): Mentions being rejected for a job at Autodesk but invited to their talent community.
+- **[48:27]** ([[episodes/2023-12-19|2023-12-19]]): Maintains three separate Lethal Company save files.
+- **[1:06:03]** ([[episodes/2023-12-21|2023-12-21]]): Rented movie theater on three-year contract for 'Let's Go to the Movies' segment.
+- **[3:37:55]** ([[episodes/2023-12-29|2023-12-29]]): Case Blackwell confirms New Year's Eve broadcast scheduled for Sunday mid-afternoon, prioritizing schedules of major subscribers CV loves you and tamtrant.
+- **[3:20:52]** ([[episodes/2023-12-31|2023-12-31]]): Wins Best Host of the Network via multi-poll tournament; admits 'you start a news network to win an award... you make an award show and give it to yourself.'
+- **[4:28:59]** ([[episodes/2024-01-02|2024-01-02]]): Case Blackwell proposes to Kendelle on live broadcast; she accepts.
+- **[2:45:52]** ([[episodes/2024-01-04|2024-01-04]]): Confirmed impending relocation; new streaming office will accommodate a couch; brother may acquire PC for co-op play.
+- **[3:21:31]** ([[episodes/2024-01-04|2024-01-04]]): States intent to resume standard news broadcast format tomorrow after extended Lethal Company hiatus.
+- **[1:47:32]** ([[episodes/2024-01-05|2024-01-05]]): Apartment move-in delayed to March; builder originally promised October then November then February.
+- **[15:46]** ([[episodes/2024-01-19|2024-01-19]]): Nephew plays under handle 'Tracy Chapman' and joins lobby via right-click invite.
+- **[3:21:31]** ([[episodes/2024-01-20|2024-01-20]]): Completed a 14-hour continuous modded Lethal Company stream starting at noon, ending at ~4 AM.
+- **[1:35:43]** ([[episodes/2024-01-27|2024-01-27]]): Interviewing for a new job that could dramatically shift the broadcast schedule if hired.
+- **[11:06]** ([[episodes/2024-02-01|2024-02-01]]): Has pending job interview outcome; would reduce editing workload if hired.
+- **[59:46]** ([[episodes/2024-02-16|2024-02-16]]): Created Truth Social account 'historic skids' to monitor Donald Trump posts.
+- **[16:00]** ([[episodes/2024-02-27|2024-02-27]]): Moving residence this month; studio may look the same but personal area relocating; power turn-on pending.
+- **[7:38]** ([[episodes/2024-03-29|2024-03-29]]): Case Blackwell maintains Leon Kennedy clone reserves for field deployment after months of abandonment.
+- **[1:49:56]** ([[episodes/2024-03-29|2024-03-29]]): Case Blackwell has not relocated apartment; Kendelle moving in creates dual-maternal dynamic with Fiona as prime.
+- **[1:21:24]** ([[episodes/2024-03-29|2024-03-29]]): Case Blackwell seeks pre-built PC recommendations for brother Ryan.
+- **[0:45]** ([[episodes/2024-04-02|2024-04-02]]): Began simulcasting to Instagram in vertical format with 30-second delay.
+- **[1:04:52]** ([[episodes/2024-04-02|2024-04-02]]): Announced intention to stream daily at 1:00 PM to avoid crossing streams with Kasim.
+- **[1:08:05]** ([[episodes/2024-04-04|2024-04-04]]): Updated to Windows 11, causing persistent OBS audio routing failures across multiple segments.
+- **[0:57]** ([[episodes/2024-04-13|2024-04-13]]): Reports Kendelle is attending a bachelorette party off-site.
+- **[2:04]** ([[episodes/2024-04-13|2024-04-13]]): Mentions impending move from current apartment but states it has not yet occurred.
+- **[1:07:56]** ([[episodes/2024-04-13|2024-04-13]]): Mouse hardware failure noted during gameplay, affecting aim precision.
+- **[10:32]** ([[episodes/2024-04-17|2024-04-17]]): Claims third divorce in progress during Rick Triple segment.
+- **[1:15:48]** ([[episodes/2024-04-25|2024-04-25]]): Performed neutral face experiment for chat and ChatGPT to test AI political prediction study (r=0.22).
+- **[1:12:20]** ([[episodes/2024-04-29|2024-04-29]]): Accidentally loaded two Joe Biden avatars simultaneously during town hall.
 - **[1:42:37]** ([[episodes/2024-05-01|2024-05-01]]): Declares Drake's son Adonis the winner of the rap beef, crediting Pusha T's earlier diss for forcing Drake to acknowledge the child.
-- **[]** ([[episodes/2024-05-10|2024-05-10]]): Skincare routine currently 4 steps; sprints to therapy on short notice. [01:40:42] [01:29:51]
-- **[[04:19]]** ([[episodes/2024-05-21|2024-05-21]]): Debuted a new channel-point graphics redemption system with panther, cheese rain, and confetti triggers; claims to have 'blew our whole UFO budget for the season' on graphics.
-- **[00:00]** ([[episodes/2024-05-23|2024-05-23]]): Case Blackwell discloses he is going through a breakup and plans to bleach his hair blonde tomorrow.
-- **[01:32:47]** ([[episodes/2024-05-23|2024-05-23]]): Case Blackwell references his 'bender era during G4' where he would work hungover after all-night benders.
-- **[01:33:52]** ([[episodes/2024-05-23|2024-05-23]]): Case Blackwell conducts live chat poll 'cheeks or reflection' to decide post-breakup action; 'cheeks' wins 51% at [01:36:34].
-- **[01:44:51]** ([[episodes/2024-06-05|2024-06-05]]): Regularly eats bird seed (three tons purchased for unused feeder) and grass ('nature's popcorn') with butter and protein powder [01:44:51, 01:50:26].
-- **[02:29:11]** ([[episodes/2024-06-05|2024-06-05]]): OBS scene collection contains dozens of layered scenes for different broadcast segments; only active scenes load to prevent computer melt [02:29:11].
-- **[[21:28]]** ([[episodes/2024-06-10|2024-06-10]]): Character name 'Notorious Sex Guy' chosen by chat for this playthrough; build centers on madness-eyes 'science eyes' concept.
-- **[[40:24]]** ([[episodes/2024-06-10|2024-06-10]]): Birthday is June 11 (stream crosses midnight on June 10); plans to take the next day off, run Patreon Wednesday, and debut a call-in show next Monday.
-- **[[03:49:29]]** ([[episodes/2024-06-10|2024-06-10]]): Struggles for over an hour on a frame-perfect jump in Volcano Manor to obtain Somber Smithing Stone 7; fails final attempt at [04:01:22].
-- **[[39:26]]** ([[episodes/2024-06-10|2024-06-10]]): Plans eight-hour debate marathon for weekend after June 10; deferred How To segment to kitchen stream tomorrow.
-- **[[01:32:29]]** ([[episodes/2024-06-12|2024-06-12]]): Plans a kitchen stream for the following broadcast, referencing a previous attempt involving 'Lube Chef'.
-- **[1:52:11]** ([[episodes/2024-06-14|2024-06-14]]): References domestic partner 'candle' returning home, requiring kitchen cleanup. [1:52:11]
-- **[1:54:48]** ([[episodes/2024-06-14|2024-06-14]]): Mentions 'kettles week off' affecting broadcast schedule for tomorrow. [1:54:48]
-- **[1:48:43]** ([[episodes/2024-06-14|2024-06-14]]): Confirms Shadow of the Erdtree DLC preparation as current broadcast objective. [1:48:43]
-- **[]** ([[episodes/2024-06-18|2024-06-18]]): Needs to level Elden Ring character to 125-150 for Shadow of the Erdtree expansion; hunting for wet stone and occult modification [02:23:46].
-- **[[18:46]]** ([[episodes/2024-06-19|2024-06-19]]): Has allergic/depressive reaction to weed: abnormal coughing, nausea, and anxiety instead of relaxation.
-- **[[36:56]]** ([[episodes/2024-06-19|2024-06-19]]): Previously wrote for a Disney-contracted kids YouTube channel using Star Wars characters under heavy corporate brand oversight.
-- **[]** ([[episodes/2024-06-24|2024-06-24]]): Case Blackwell worked at G4 for approximately two years, including pre-launch 'B4 G4' period, and also worked at Disney. [49:30]
-- **[]** ([[episodes/2024-06-24|2024-06-24]]): Case Blackwell and Kendelle have been awaiting an apartment move for 10 months as of this broadcast. [01:13:06]
-- **[]** ([[episodes/2024-06-24|2024-06-24]]): Case Blackwell's hometown is Roanoke, Virginia, where he recommends Texas Tavern for egg burgers. [01:30:52]
-- **[]** ([[episodes/2024-06-24|2024-06-24]]): Case Blackwell attended a very small high school with roughly 40 students in his class. [02:01:13]
-- **[[1:14:04]]** ([[episodes/2024-07-09|2024-07-09]]): Developing CASM assets and call-in show assets for Kendall's future streaming setup.
-- **[[1:32:17]]** ([[episodes/2024-07-09|2024-07-09]]): References Reverend Wolf's prophecy that 'Fiona will never come back and I'll never move.'
-- **[[05:28]]** ([[episodes/2024-07-23|2024-07-23]]): Has been playing Hollow Knight on Switch, causing muscle-memory confusion with Elden Ring controls (A/B button swap).
-- **[[38:43]]** ([[episodes/2024-07-23|2024-07-23]]): Defeats Dry Leaf Dane in a friendly duel and acquires Dane's hat (Sun-faded and Lightly Soiled Hat).
-- **[[01:46:59]]** ([[episodes/2024-07-23|2024-07-23]]): Defeats Rugalia, Great Red Bear, and acquires Roar of Rugalia incantation and Gravebird Black Quill Armor.
-- **[[02:16:23]]** ([[episodes/2024-07-23|2024-07-23]]): Defeats Messmer the Impaler in two phases after multiple attempts, using Mimic Tear and a summoned cooperator.
-- **[[02:18:05]]** ([[episodes/2024-07-23|2024-07-23]]): Mentions a meeting in 20 minutes and suggests a possible return stream on Friday.
-- **[[10:16]]** ([[episodes/2024-08-01|2024-08-01]]): Attending anime convention on Saturday 2024-08-03, considers bringing Pogo stick for 'anime Pogo'.
-- **[[14:02]]** ([[episodes/2024-08-01|2024-08-01]]): States body weight 'a bit over 200' pounds while testing Pogo stick weight limit.
-- **[[1:17:21]]** ([[episodes/2024-08-01|2024-08-01]]): Practices morning shoulder rolls and meditation for relaxation.
-- **[[19:24]]** ([[episodes/2024-08-07|2024-08-07]]): Uncertain of exact streaming tenure; chat votes tie between 69 years and 0 months as duration.
-- **[07:06]** ([[episodes/2024-08-07|2024-08-07]]): Case Blackwell signs on live with 'Let's do a capito!' cold open
+- **[1:40:42]** ([[episodes/2024-05-10|2024-05-10]]): Skincare routine currently 4 steps; sprints to therapy on short notice. [01:29:51]
+- **[4:19]** ([[episodes/2024-05-21|2024-05-21]]): Debuted a new channel-point graphics redemption system with panther, cheese rain, and confetti triggers; claims to have 'blew our whole UFO budget for the season' on graphics.
+- **[0:00]** ([[episodes/2024-05-23|2024-05-23]]): Case Blackwell discloses he is going through a breakup and plans to bleach his hair blonde tomorrow.
+- **[1:32:47]** ([[episodes/2024-05-23|2024-05-23]]): Case Blackwell references his 'bender era during G4' where he would work hungover after all-night benders.
+- **[1:33:52]** ([[episodes/2024-05-23|2024-05-23]]): Case Blackwell conducts live chat poll 'cheeks or reflection' to decide post-breakup action; 'cheeks' wins 51% at [01:36:34].
+- **[1:44:51]** ([[episodes/2024-06-05|2024-06-05]]): Regularly eats bird seed (three tons purchased for unused feeder) and grass ('nature's popcorn') with butter and protein powder.
+- **[2:29:11]** ([[episodes/2024-06-05|2024-06-05]]): OBS scene collection contains dozens of layered scenes for different broadcast segments; only active scenes load to prevent computer melt.
+- **[21:28]** ([[episodes/2024-06-10|2024-06-10]]): Character name 'Notorious Sex Guy' chosen by chat for this playthrough; build centers on madness-eyes 'science eyes' concept.
+- **[40:24]** ([[episodes/2024-06-10|2024-06-10]]): Birthday is June 11 (stream crosses midnight on June 10); plans to take the next day off, run Patreon Wednesday, and debut a call-in show next Monday.
+- **[3:49:29]** ([[episodes/2024-06-10|2024-06-10]]): Struggles for over an hour on a frame-perfect jump in Volcano Manor to obtain Somber Smithing Stone 7; fails final attempt at [04:01:22].
+- **[39:26]** ([[episodes/2024-06-10|2024-06-10]]): Plans eight-hour debate marathon for weekend after June 10; deferred How To segment to kitchen stream tomorrow.
+- **[1:32:29]** ([[episodes/2024-06-12|2024-06-12]]): Plans a kitchen stream for the following broadcast, referencing a previous attempt involving 'Lube Chef'.
+- **[1:52:11]** ([[episodes/2024-06-14|2024-06-14]]): References domestic partner 'candle' returning home, requiring kitchen cleanup.
+- **[1:54:48]** ([[episodes/2024-06-14|2024-06-14]]): Mentions 'kettles week off' affecting broadcast schedule for tomorrow.
+- **[1:48:43]** ([[episodes/2024-06-14|2024-06-14]]): Confirms Shadow of the Erdtree DLC preparation as current broadcast objective.
+- **[2:23:46]** ([[episodes/2024-06-18|2024-06-18]]): Needs to level Elden Ring character to 125-150 for Shadow of the Erdtree expansion; hunting for wet stone and occult modification.
+- **[18:46]** ([[episodes/2024-06-19|2024-06-19]]): Has allergic/depressive reaction to weed: abnormal coughing, nausea, and anxiety instead of relaxation.
+- **[36:56]** ([[episodes/2024-06-19|2024-06-19]]): Previously wrote for a Disney-contracted kids YouTube channel using Star Wars characters under heavy corporate brand oversight.
+- **[49:30]** ([[episodes/2024-06-24|2024-06-24]]): Case Blackwell worked at G4 for approximately two years, including pre-launch 'B4 G4' period, and also worked at Disney.
+- **[1:13:06]** ([[episodes/2024-06-24|2024-06-24]]): Case Blackwell and Kendelle have been awaiting an apartment move for 10 months as of this broadcast.
+- **[1:30:52]** ([[episodes/2024-06-24|2024-06-24]]): Case Blackwell's hometown is Roanoke, Virginia, where he recommends Texas Tavern for egg burgers.
+- **[2:01:13]** ([[episodes/2024-06-24|2024-06-24]]): Case Blackwell attended a very small high school with roughly 40 students in his class.
+- **[1:14:04]** ([[episodes/2024-07-09|2024-07-09]]): Developing CASM assets and call-in show assets for Kendall's future streaming setup.
+- **[1:32:17]** ([[episodes/2024-07-09|2024-07-09]]): References Reverend Wolf's prophecy that 'Fiona will never come back and I'll never move.'
+- **[5:28]** ([[episodes/2024-07-23|2024-07-23]]): Has been playing Hollow Knight on Switch, causing muscle-memory confusion with Elden Ring controls (A/B button swap).
+- **[38:43]** ([[episodes/2024-07-23|2024-07-23]]): Defeats Dry Leaf Dane in a friendly duel and acquires Dane's hat (Sun-faded and Lightly Soiled Hat).
+- **[1:46:59]** ([[episodes/2024-07-23|2024-07-23]]): Defeats Rugalia, Great Red Bear, and acquires Roar of Rugalia incantation and Gravebird Black Quill Armor.
+- **[2:16:23]** ([[episodes/2024-07-23|2024-07-23]]): Defeats Messmer the Impaler in two phases after multiple attempts, using Mimic Tear and a summoned cooperator.
+- **[2:18:05]** ([[episodes/2024-07-23|2024-07-23]]): Mentions a meeting in 20 minutes and suggests a possible return stream on Friday.
+- **[10:16]** ([[episodes/2024-08-01|2024-08-01]]): Attending anime convention on Saturday 2024-08-03, considers bringing Pogo stick for 'anime Pogo'.
+- **[14:02]** ([[episodes/2024-08-01|2024-08-01]]): States body weight 'a bit over 200' pounds while testing Pogo stick weight limit.
+- **[1:17:21]** ([[episodes/2024-08-01|2024-08-01]]): Practices morning shoulder rolls and meditation for relaxation.
+- **[19:24]** ([[episodes/2024-08-07|2024-08-07]]): Uncertain of exact streaming tenure; chat votes tie between 69 years and 0 months as duration.
+- **[7:06]** ([[episodes/2024-08-07|2024-08-07]]): Case Blackwell signs on live with 'Let's do a capito!' cold open
 - **[16:10]** ([[episodes/2024-08-22|2024-08-22]]): Case Blackwell returned from DNC coverage in Chicago.
-- **[[01:59:58]]** ([[episodes/2024-08-22|2024-08-22]]): Wrote for Hot Wheels 'Baby Time Racer Kids' YouTube series (Spider-Man, Star Wars episodes) earning 2.5M views and fair compensation.
-- **[]** ([[episodes/2024-08-27|2024-08-27]]): Needs to buy Kendelle a cat before the 'cat mill' closes. [47:41]
-- **[]** ([[episodes/2024-08-27|2024-08-27]]): Gives 'Case Blackwell recommendation' to AEW All In pay-per-view. [01:07:33]
-- **[]** ([[episodes/2024-08-27|2024-08-27]]): Plans to start next week with voicemails. [01:25:50]
-- **[02:21:41]** ([[episodes/2024-08-30|2024-08-30]]): [02:21:41] Self-discloses ADD: 'honestly dude I got fuckin ADD like it's about time that I fucking admitted dude'.
-- **[00:35:08]** ([[episodes/2024-08-30|2024-08-30]]): [00:35:08] Birthday was months ago; wished for camera lens, not world peace.
-- **[[11:14]]** ([[episodes/2024-09-08|2024-09-08]]): Ran a complete Candyland RPG campaign in a single 4.5-hour broadcast, inventing mechanics (stats, cards, combat, leveling) live.
-- **[[08:58]]** ([[episodes/2024-09-17|2024-09-17]]): Engaged to Ashley; proposal occurred Saturday before broadcast during family lunch with both families present.
-- **[[36:25]]** ([[episodes/2024-09-17|2024-09-17]]): Ring designer complicit in surprise, delayed delivery for weeks to preserve proposal moment.
-- **[[1:12:38]]** ([[episodes/2024-09-17|2024-09-17]]): Mother interrupted proposal twice; Case had to ask 'are you finished?' mid-speech.
-- **[[28:28]]** ([[episodes/2024-09-17|2024-09-17]]): Insists on open bar at wedding; Kendelle open to one child (up from zero).
-- **[[1:45:19]]** ([[episodes/2024-09-17|2024-09-17]]): Club 33 Disneyland membership cited as exclusive dining with decades-long waitlist and resale spots for tens of thousands.
-- **[[1:47:32]]** ([[episodes/2024-09-17|2024-09-17]]): Patreon episode Thursday to watch Batman: Caped Crusader and Vince McMahon documentary.
-- **[08:47]** ([[episodes/2024-09-18|2024-09-18]]): Debuts new washable blazer with blue lining that picks up less green screen spill [08:47].
+- **[1:59:58]** ([[episodes/2024-08-22|2024-08-22]]): Wrote for Hot Wheels 'Baby Time Racer Kids' YouTube series (Spider-Man, Star Wars episodes) earning 2.5M views and fair compensation.
+- **[47:41]** ([[episodes/2024-08-27|2024-08-27]]): Needs to buy Kendelle a cat before the 'cat mill' closes.
+- **[1:07:33]** ([[episodes/2024-08-27|2024-08-27]]): Gives 'Case Blackwell recommendation' to AEW All In pay-per-view.
+- **[1:25:50]** ([[episodes/2024-08-27|2024-08-27]]): Plans to start next week with voicemails.
+- **[2:21:41]** ([[episodes/2024-08-30|2024-08-30]]): Self-discloses ADD: 'honestly dude I got fuckin ADD like it's about time that I fucking admitted dude'.
+- **[0:35:08]** ([[episodes/2024-08-30|2024-08-30]]): Birthday was months ago; wished for camera lens, not world peace.
+- **[11:14]** ([[episodes/2024-09-08|2024-09-08]]): Ran a complete Candyland RPG campaign in a single 4.5-hour broadcast, inventing mechanics (stats, cards, combat, leveling) live.
+- **[8:58]** ([[episodes/2024-09-17|2024-09-17]]): Engaged to Ashley; proposal occurred Saturday before broadcast during family lunch with both families present.
+- **[36:25]** ([[episodes/2024-09-17|2024-09-17]]): Ring designer complicit in surprise, delayed delivery for weeks to preserve proposal moment.
+- **[1:12:38]** ([[episodes/2024-09-17|2024-09-17]]): Mother interrupted proposal twice; Case had to ask 'are you finished?' mid-speech.
+- **[28:28]** ([[episodes/2024-09-17|2024-09-17]]): Insists on open bar at wedding; Kendelle open to one child (up from zero).
+- **[1:45:19]** ([[episodes/2024-09-17|2024-09-17]]): Club 33 Disneyland membership cited as exclusive dining with decades-long waitlist and resale spots for tens of thousands.
+- **[1:47:32]** ([[episodes/2024-09-17|2024-09-17]]): Patreon episode Thursday to watch Batman: Caped Crusader and Vince McMahon documentary.
+- **[8:47]** ([[episodes/2024-09-18|2024-09-18]]): Debuts new washable blazer with blue lining that picks up less green screen spill.
 - **[19:32]** ([[episodes/2024-09-19|2024-09-19]]): Case Blackwell debuted a new gold jacket/coat for the stream's approaching two-year anniversary.
-- **[01:59:51]** ([[episodes/2024-10-03|2024-10-03]]): House move blocked by LA county department with no phone/office and a four-week email response cycle; hold stems from permit approval gap [01:59:51].
-- **[]** ([[episodes/2024-10-15|2024-10-15]]): Claims to have put half of himself in a time capsule to ensure survival to 2028. [43:57]
-- **[[01:16:42]]** ([[episodes/2024-10-23|2024-10-23]]): Case and Kendall have started painting their new apartment but have not yet moved in.
-- **[05:10]** ([[episodes/2024-11-06|2024-11-06]]): Departing for a week-long trip to China in approximately two days (from 2024-11-06); will miss next week's broadcasts and return the Monday after next. [05:10]
-- **[05:34]** ([[episodes/2024-11-06|2024-11-06]]): Patreon stream scheduled for tomorrow (2024-11-07) at noon. [05:34]
-- **[00:12:49]** ([[episodes/2025-01-06|2025-01-06]]): Adopted two bonded cats: Ms. Zorro (one-eyed) and Tony Tony; cats hide under bed, monitored via Cat Cam.
-- **[00:24:36]** ([[episodes/2025-01-06|2025-01-06]]): Wife has Christmas and New Year custody of all six children; Case concedes for 'safety of the children in these trying political times.'
-- **[02:05:45]** ([[episodes/2025-01-15|2025-01-15]]): Housing legal status 'barely legal'; hoping final approvals clear within two months. [02:05:45]
-- **[02:05:10]** ([[episodes/2025-01-15|2025-01-15]]): Built mini gym in backyard on unlaid concrete blocks; worked out morning of broadcast. [02:05:10]
-- **[02:21:37]** ([[episodes/2025-01-15|2025-01-15]]): Announced new broadcast schedule: Monday, Wednesday, Friday 11am-1pm PT. [02:21:37]
-- **[[09:23]]** ([[episodes/2025-01-20|2025-01-20]]): References 'accidental gray face' as a prior on-air look he failed to make acceptable.
-- **[[11:13]]** ([[episodes/2025-01-20|2025-01-20]]): Notes the cat cam was accidentally left on during the broadcast.
-- **[[21:47]]** ([[episodes/2025-01-20|2025-01-20]]): Identifies Lex Fridman in attendance at the inauguration, noting weight loss and hair gain.
-- **[[26:47]]** ([[episodes/2025-01-20|2025-01-20]]): Comments on JD Vance's mother attending after Vance 'called her like a crack addict for 30 years to make his career.'
-- **[]** ([[episodes/2025-01-29|2025-01-29]]): Picked up part-time job Mon/Wed/Fri mornings, moving stream start to 12:30-1:30pm. [09:37]
-- **[]** ([[episodes/2025-01-29|2025-01-29]]): Confirmed for Sunday dinner date with Kendall. [10:58]
-- **[01:47:06]** ([[episodes/2025-03-25|2025-03-25]]): Credit card compromised live on air — $1,000 tool purchase and table purchases attempted; card deactivated, replacement en route.
-- **[[02:49:04]]** ([[episodes/2025-03-29|2025-03-29]]): Announces a Monday 'News Ice Stravaganza' where he will repeatedly dunk his head in ice water based on bit thresholds (debating 300 vs 500 bits).
-- **[]** ([[episodes/2025-03-31|2025-03-31]]): Case Blackwell completed 40 ice face dunks in a single broadcast (25 seconds each, lemon slices, later cold foam creamer). [03:14:36]
-- **[]** ([[episodes/2025-03-31|2025-03-31]]): Case Blackwell drank a shot glass of his own face water (cream, lemon, face oils) at broadcast end. [03:21:41]
-- **[]** ([[episodes/2025-04-03|2025-04-03]]): Case's streaming PC was built by T-Pain and T-Pain's friend for a TV show that never aired; it is two years old and unreliable. [01:23:38]
-- **[1:45:44]** ([[episodes/2025-04-05|2025-04-05]]): Reports his custom-built workstation is severely flawed, citing overheating and driver issues. [1:45:44]
-- **[[01:13:33]]** ([[episodes/2025-04-25|2025-04-25]]): Current PC built with assistance from Kendall and 20-person Discord crew; treats it as a sacred item due to component costs.
-- **[]** ([[episodes/2025-05-01|2025-05-01]]): Stock portfolio erased — 'years erased' [1:47:41]
-- **[05:45]** ([[episodes/2025-05-03|2025-05-03]]): Case Blackwell attempts to configure Steam's Stream Together feature for a multi-streamer Pico Park session.
+- **[1:59:51]** ([[episodes/2024-10-03|2024-10-03]]): House move blocked by LA county department with no phone/office and a four-week email response cycle; hold stems from permit approval gap.
+- **[43:57]** ([[episodes/2024-10-15|2024-10-15]]): Claims to have put half of himself in a time capsule to ensure survival to 2028.
+- **[1:16:42]** ([[episodes/2024-10-23|2024-10-23]]): Case and Kendall have started painting their new apartment but have not yet moved in.
+- **[5:10]** ([[episodes/2024-11-06|2024-11-06]]): Departing for a week-long trip to China in approximately two days (from 2024-11-06); will miss next week's broadcasts and return the Monday after next.
+- **[5:34]** ([[episodes/2024-11-06|2024-11-06]]): Patreon stream scheduled for tomorrow (2024-11-07) at noon.
+- **[0:12:49]** ([[episodes/2025-01-06|2025-01-06]]): Adopted two bonded cats: Ms. Zorro (one-eyed) and Tony Tony; cats hide under bed, monitored via Cat Cam.
+- **[0:24:36]** ([[episodes/2025-01-06|2025-01-06]]): Wife has Christmas and New Year custody of all six children; Case concedes for 'safety of the children in these trying political times.'
+- **[2:05:45]** ([[episodes/2025-01-15|2025-01-15]]): Housing legal status 'barely legal'; hoping final approvals clear within two months.
+- **[2:05:10]** ([[episodes/2025-01-15|2025-01-15]]): Built mini gym in backyard on unlaid concrete blocks; worked out morning of broadcast.
+- **[2:21:37]** ([[episodes/2025-01-15|2025-01-15]]): Announced new broadcast schedule: Monday, Wednesday, Friday 11am-1pm PT.
+- **[9:23]** ([[episodes/2025-01-20|2025-01-20]]): References 'accidental gray face' as a prior on-air look he failed to make acceptable.
+- **[11:13]** ([[episodes/2025-01-20|2025-01-20]]): Notes the cat cam was accidentally left on during the broadcast.
+- **[21:47]** ([[episodes/2025-01-20|2025-01-20]]): Identifies Lex Fridman in attendance at the inauguration, noting weight loss and hair gain.
+- **[26:47]** ([[episodes/2025-01-20|2025-01-20]]): Comments on JD Vance's mother attending after Vance 'called her like a crack addict for 30 years to make his career.'
+- **[9:37]** ([[episodes/2025-01-29|2025-01-29]]): Picked up part-time job Mon/Wed/Fri mornings, moving stream start to 12:30-1:30pm.
+- **[10:58]** ([[episodes/2025-01-29|2025-01-29]]): Confirmed for Sunday dinner date with Kendall.
+- **[1:47:06]** ([[episodes/2025-03-25|2025-03-25]]): Credit card compromised live on air — $1,000 tool purchase and table purchases attempted; card deactivated, replacement en route.
+- **[2:49:04]** ([[episodes/2025-03-29|2025-03-29]]): Announces a Monday 'News Ice Stravaganza' where he will repeatedly dunk his head in ice water based on bit thresholds (debating 300 vs 500 bits).
+- **[3:14:36]** ([[episodes/2025-03-31|2025-03-31]]): Case Blackwell completed 40 ice face dunks in a single broadcast (25 seconds each, lemon slices, later cold foam creamer).
+- **[3:21:41]** ([[episodes/2025-03-31|2025-03-31]]): Case Blackwell drank a shot glass of his own face water (cream, lemon, face oils) at broadcast end.
+- **[1:23:38]** ([[episodes/2025-04-03|2025-04-03]]): Case's streaming PC was built by T-Pain and T-Pain's friend for a TV show that never aired; it is two years old and unreliable.
+- **[1:45:44]** ([[episodes/2025-04-05|2025-04-05]]): Reports his custom-built workstation is severely flawed, citing overheating and driver issues.
+- **[1:13:33]** ([[episodes/2025-04-25|2025-04-25]]): Current PC built with assistance from Kendall and 20-person Discord crew; treats it as a sacred item due to component costs.
+- **[1:47:41]** ([[episodes/2025-05-01|2025-05-01]]): Stock portfolio erased — 'years erased'
+- **[5:45]** ([[episodes/2025-05-03|2025-05-03]]): Case Blackwell attempts to configure Steam's Stream Together feature for a multi-streamer Pico Park session.
 - **[17:55]** ([[episodes/2025-05-03|2025-05-03]]): Case Blackwell states he must depart by 5:30 PM, limiting broadcast duration.
-- **[00:10:35]** ([[episodes/2025-05-05|2025-05-05]]): Began working out 5 times per week, resulting in 'shiny, sweaty energy' on camera.
-- **[]** ([[episodes/2025-05-08|2025-05-08]]): Case Blackwell adopts a fishtie as an on-air accessory [08:39]
-- **[[31:47]]** ([[episodes/2025-05-17|2025-05-17]]): Claims 71st percentile penis size (neutral) during tiny-penis history story.
-- **[[02:42:57]]** ([[episodes/2025-05-23|2025-05-23]]): Has a 'spine thing' preventing handshakes; voice repeatedly blows out from screaming during music production but recovers within an hour.
-- **[]** ([[episodes/2025-06-05|2025-06-05]]): [9:40] Now lives in a house (not apartment); has been working outside, getting tan.
-- **[[48:52]]** ([[episodes/2025-07-15|2025-07-15]]): Lost firing privileges; Kendall now holds firing power.
-- **[[21:35]]** ([[episodes/2025-07-15|2025-07-15]]): Shares Apple ID and phone plan with Kendall; accidental FaceTime to Kendall's mom while nude is a running fear.
-- **[]** ([[episodes/2025-07-29|2025-07-29]]): Changed hair parting direction to left side per stylist instruction [09:54]
-- **[]** ([[episodes/2025-07-29|2025-07-29]]): Attending comedy show with Kendelle for friend's stand-up performance [12:54]
-- **[]** ([[episodes/2025-07-30|2025-07-30]]): Changed his hair part direction to the opposite side. [28:14]
-- **[]** ([[episodes/2025-08-02|2025-08-02]]): [01:10:19] Announces vacation next week (no stream); will return Monday after next; may attempt 'dumb stream' from laptop if friends allow.
-- **[02:10:56]** ([[episodes/2025-09-02|2025-09-02]]): Plans 'steak knife' tattoo on middle fingers; mentions product 'Taint but for boys' open for Saudi investment [02:10:56].
-- **[02:51:03]** ([[episodes/2025-09-03|2025-09-03]]): Announced return to Monday/Wednesday/Friday streaming schedule [02:51:03].
-- **[02:50:20]** ([[episodes/2025-09-03|2025-09-03]]): Confirmed 9/19 digital-ticket D&D one-shot 'We're All Going to Die' with Gina Darling and John Madison [02:50:20].
-- **[[10:27]]** ([[episodes/2025-09-13|2025-09-13]]): Green couch acquired for green screen production; no content made on it yet.
-- **[[10:48]]** ([[episodes/2025-09-13|2025-09-13]]): Beyblade tournament and wall entry scheduled for 2025-09-19.
-- **[[01:02:12]]** ([[episodes/2025-09-26|2025-09-26]]): Currently staying in a hotel because wife is living with her French tutor; Case lost Munch's Beyblades during a move.
-- **[]** ([[episodes/2025-10-02|2025-10-02]]): Confirms Kendelle as girlfriend on air; mentions hiding engagement rings while preparing for 'husband money' (roster-consistent). [02:09:30]
+- **[0:10:35]** ([[episodes/2025-05-05|2025-05-05]]): Began working out 5 times per week, resulting in 'shiny, sweaty energy' on camera.
+- **[8:39]** ([[episodes/2025-05-08|2025-05-08]]): Case Blackwell adopts a fishtie as an on-air accessory
+- **[31:47]** ([[episodes/2025-05-17|2025-05-17]]): Claims 71st percentile penis size (neutral) during tiny-penis history story.
+- **[2:42:57]** ([[episodes/2025-05-23|2025-05-23]]): Has a 'spine thing' preventing handshakes; voice repeatedly blows out from screaming during music production but recovers within an hour.
+- **[9:40]** ([[episodes/2025-06-05|2025-06-05]]): Now lives in a house (not apartment); has been working outside, getting tan.
+- **[48:52]** ([[episodes/2025-07-15|2025-07-15]]): Lost firing privileges; Kendall now holds firing power.
+- **[21:35]** ([[episodes/2025-07-15|2025-07-15]]): Shares Apple ID and phone plan with Kendall; accidental FaceTime to Kendall's mom while nude is a running fear.
+- **[9:54]** ([[episodes/2025-07-29|2025-07-29]]): Changed hair parting direction to left side per stylist instruction
+- **[12:54]** ([[episodes/2025-07-29|2025-07-29]]): Attending comedy show with Kendelle for friend's stand-up performance
+- **[28:14]** ([[episodes/2025-07-30|2025-07-30]]): Changed his hair part direction to the opposite side.
+- **[1:10:19]** ([[episodes/2025-08-02|2025-08-02]]): Announces vacation next week (no stream); will return Monday after next; may attempt 'dumb stream' from laptop if friends allow.
+- **[2:10:56]** ([[episodes/2025-09-02|2025-09-02]]): Plans 'steak knife' tattoo on middle fingers; mentions product 'Taint but for boys' open for Saudi investment.
+- **[2:51:03]** ([[episodes/2025-09-03|2025-09-03]]): Announced return to Monday/Wednesday/Friday streaming schedule.
+- **[2:50:20]** ([[episodes/2025-09-03|2025-09-03]]): Confirmed 9/19 digital-ticket D&D one-shot 'We're All Going to Die' with Gina Darling and John Madison.
+- **[10:27]** ([[episodes/2025-09-13|2025-09-13]]): Green couch acquired for green screen production; no content made on it yet.
+- **[10:48]** ([[episodes/2025-09-13|2025-09-13]]): Beyblade tournament and wall entry scheduled for 2025-09-19.
+- **[1:02:12]** ([[episodes/2025-09-26|2025-09-26]]): Currently staying in a hotel because wife is living with her French tutor; Case lost Munch's Beyblades during a move.
+- **[2:09:30]** ([[episodes/2025-10-02|2025-10-02]]): Confirms Kendelle as girlfriend on air; mentions hiding engagement rings while preparing for 'husband money' (roster-consistent).
 - **[1:11:08]** ([[episodes/2025-11-15|2025-11-15]]): Case Blackwell maintains a personal Rolodex of compromising material on public figures to summon them instantly.
-- **[]** ([[episodes/2025-11-25|2025-11-25]]): [25:33] Case now has a router enabling 4K streaming; other correspondents remain at 1080p.
-- **[]** ([[episodes/2025-11-25|2025-11-25]]): [01:48:15] Making steaks for Thanksgiving per 'cashmg' (Kendelle) Patreon mention.
-- **[01:36:57]** ([[episodes/2025-11-27|2025-11-27]]): Owns Thor sticker on mug from friend Jaiman (jaimonstickers.com).
-- **[01:38:48]** ([[episodes/2025-11-27|2025-11-27]]): Shaved beard by accident recently; beardless filter adds 'awful skin texture' and merges chin with neck.
-- **[]** ([[episodes/2025-12-04|2025-12-04]]): Case Blackwell missed several broadcast days due to illness, a rare absence. [08:45]
-- **[[1:12:55]]** ([[episodes/2025-12-06|2025-12-06]]): Acquired new black coat that he 'demanded' and feels 'fucking sexy' wearing.
-- **[30:35]** ([[episodes/2025-12-13|2025-12-13]]): [30:35] Kendelle asks when Case ends stream to play Dominion; Case says ~7 PM.
-- **[05:55]** ([[episodes/2025-12-16|2025-12-16]]): Case Blackwell and Kendelle cohabitate in the same residence.
-- **[[09:30]]** ([[episodes/2025-12-18|2025-12-18]]): Hair described as 'in a special state' and progressively crazier throughout stream.
-- **[[02:05:38]]** ([[episodes/2026-01-24|2026-01-24]]): Case and Crum describe their dynamic as 'hate to love type deal'; Crum and Belulia back to sleeping in same bed.
-- **[10:37]** ([[episodes/2026-02-04|2026-02-04]]): [10:37] Case was sick for a week with a probable sinus infection; notes he now stays sick for a month at a time due to age.
-- **[21:39]** ([[episodes/2026-02-04|2026-02-04]]): [21:39] Case has lost approximately 35 pounds since originally planning the workout stream.
-- **[]** ([[episodes/2026-02-19|2026-02-19]]): [08:43] Accidentally shaved beard clean after chunking buzz cut; expects 5 o'clock shadow by Monday, full beard in 2-3 weeks.
-- **[[08:22]]** ([[episodes/2026-02-26|2026-02-26]]): Beard growing back after clean-shaven period; claims 500 unassisted pull-ups with trainer assistance.
-- **[[02:02:40]]** ([[episodes/2026-03-03|2026-03-03]]): Expressed desire to lose weight to stop resembling JD Vance.
-- **[2:05:18]** ([[episodes/2026-03-17|2026-03-17]]): Bans rapping permanently on the network after Crum's battle rap failure [2:05:18].
-- **[01:07:01]** ([[episodes/2026-03-25|2026-03-25]]): Case Blackwell repaired AI Rooney's processors and lowered its authenticity meter to stop sexualized outputs.
-- **[[17:09]]** ([[episodes/2026-03-27|2026-03-27]]): Underwent paper mache jaw replacement surgery, rendering him unable to eat solid foods.
-- **[[01:20:09]]** ([[episodes/2026-03-27|2026-03-27]]): Surgically converted his nose into a butthole for efficiency.
-- **[[58:11]]** ([[episodes/2025-12-09|2025-12-09]]): Has a visible eye mole noted on air during Netflix CEO Ted Sarandos discussion.
-- **[[02:07:58]]** ([[episodes/2025-12-09|2025-12-09]]): Planning Grinch/Grunch stream for next week (week of Dec 15); will use safe-for-work green face paint after prior face-paint incident.
+- **[25:33]** ([[episodes/2025-11-25|2025-11-25]]): Case now has a router enabling 4K streaming; other correspondents remain at 1080p.
+- **[1:48:15]** ([[episodes/2025-11-25|2025-11-25]]): Making steaks for Thanksgiving per 'cashmg' (Kendelle) Patreon mention.
+- **[1:36:57]** ([[episodes/2025-11-27|2025-11-27]]): Owns Thor sticker on mug from friend Jaiman (jaimonstickers.com).
+- **[1:38:48]** ([[episodes/2025-11-27|2025-11-27]]): Shaved beard by accident recently; beardless filter adds 'awful skin texture' and merges chin with neck.
+- **[8:45]** ([[episodes/2025-12-04|2025-12-04]]): Case Blackwell missed several broadcast days due to illness, a rare absence.
+- **[1:12:55]** ([[episodes/2025-12-06|2025-12-06]]): Acquired new black coat that he 'demanded' and feels 'fucking sexy' wearing.
+- **[30:35]** ([[episodes/2025-12-13|2025-12-13]]): Kendelle asks when Case ends stream to play Dominion; Case says ~7 PM.
+- **[5:55]** ([[episodes/2025-12-16|2025-12-16]]): Case Blackwell and Kendelle cohabitate in the same residence.
+- **[9:30]** ([[episodes/2025-12-18|2025-12-18]]): Hair described as 'in a special state' and progressively crazier throughout stream.
+- **[2:05:38]** ([[episodes/2026-01-24|2026-01-24]]): Case and Crum describe their dynamic as 'hate to love type deal'; Crum and Belulia back to sleeping in same bed.
+- **[10:37]** ([[episodes/2026-02-04|2026-02-04]]): Case was sick for a week with a probable sinus infection; notes he now stays sick for a month at a time due to age.
+- **[21:39]** ([[episodes/2026-02-04|2026-02-04]]): Case has lost approximately 35 pounds since originally planning the workout stream.
+- **[8:43]** ([[episodes/2026-02-19|2026-02-19]]): Accidentally shaved beard clean after chunking buzz cut; expects 5 o'clock shadow by Monday, full beard in 2-3 weeks.
+- **[8:22]** ([[episodes/2026-02-26|2026-02-26]]): Beard growing back after clean-shaven period; claims 500 unassisted pull-ups with trainer assistance.
+- **[2:02:40]** ([[episodes/2026-03-03|2026-03-03]]): Expressed desire to lose weight to stop resembling JD Vance.
+- **[2:05:18]** ([[episodes/2026-03-17|2026-03-17]]): Bans rapping permanently on the network after Crum's battle rap failure.
+- **[1:07:01]** ([[episodes/2026-03-25|2026-03-25]]): Case Blackwell repaired AI Rooney's processors and lowered its authenticity meter to stop sexualized outputs.
+- **[17:09]** ([[episodes/2026-03-27|2026-03-27]]): Underwent paper mache jaw replacement surgery, rendering him unable to eat solid foods.
+- **[1:20:09]** ([[episodes/2026-03-27|2026-03-27]]): Surgically converted his nose into a butthole for efficiency.
+- **[58:11]** ([[episodes/2025-12-09|2025-12-09]]): Has a visible eye mole noted on air during Netflix CEO Ted Sarandos discussion.
+- **[2:07:58]** ([[episodes/2025-12-09|2025-12-09]]): Planning Grinch/Grunch stream for next week (week of Dec 15); will use safe-for-work green face paint after prior face-paint incident.
 - **[43:02]** ([[episodes/2026-04-06|2026-04-06]]): Beard spontaneously disappears and regrows within seconds during broadcast.
-- **[]** ([[episodes/2026-04-11|2026-04-11]]): Scheduled to appear at a Newegg event Saturday with Kendelle; Case will be in background while Kendelle plays Valorant in an influencer match [2:42:50].
-- **[]** ([[episodes/2026-04-14|2026-04-14]]): Spends all subscription revenue (except Dunn/Mutual Aid donations) on $400 designer jeans from Poshmark for Hollywood party networking. [02:07:05]
-- **[]** ([[episodes/2026-04-14|2026-04-14]]): References unedited footage from a New Day video where his 'whole dick was out' — claims it's happened too many times to care. [02:08:16]
-- **[]** ([[episodes/2026-04-14|2026-04-14]]): States he is not in the Epstein files. [02:08:51]
-- **[10:51]** ([[episodes/2026-04-17|2026-04-17]]): Purchased a $90 toilet from Lowe's for egg-dying content after Kendelle prohibited use of household toilets. [10:51]
-- **[34:37]** ([[episodes/2026-04-17|2026-04-17]]): Cracked the toilet while unpacking; held together with white porcelain tape. [34:37]
-- **[21:43]** ([[episodes/2026-04-17|2026-04-17]]): Running a clandestine TikTok/YouTube experiment: posting egg-dying videos from a zero-follower account to force a viral hit without revealing the channel. [21:43]
+- **[2:42:50]** ([[episodes/2026-04-11|2026-04-11]]): Scheduled to appear at a Newegg event Saturday with Kendelle; Case will be in background while Kendelle plays Valorant in an influencer match.
+- **[2:07:05]** ([[episodes/2026-04-14|2026-04-14]]): Spends all subscription revenue (except Dunn/Mutual Aid donations) on $400 designer jeans from Poshmark for Hollywood party networking.
+- **[2:08:16]** ([[episodes/2026-04-14|2026-04-14]]): References unedited footage from a New Day video where his 'whole dick was out' — claims it's happened too many times to care.
+- **[2:08:51]** ([[episodes/2026-04-14|2026-04-14]]): States he is not in the Epstein files.
+- **[10:51]** ([[episodes/2026-04-17|2026-04-17]]): Purchased a $90 toilet from Lowe's for egg-dying content after Kendelle prohibited use of household toilets.
+- **[34:37]** ([[episodes/2026-04-17|2026-04-17]]): Cracked the toilet while unpacking; held together with white porcelain tape.
+- **[21:43]** ([[episodes/2026-04-17|2026-04-17]]): Running a clandestine TikTok/YouTube experiment: posting egg-dying videos from a zero-follower account to force a viral hit without revealing the channel.
 - **[23:39]** ([[episodes/2026-04-22|2026-04-22]]): Case Blackwell is allergic to bread (not gluten) — causes full-body skin color change resembling an insensitive face.
 - **[22:54]** ([[episodes/2026-04-22|2026-04-22]]): Case Blackwell's 'smooth face' becomes a running descriptor during Darfus bit.
-- **[[17:44]]** ([[episodes/2026-04-27|2026-04-27]]): Case Blackwell confirms he is 39 years old during age discussion.
-- **[[1:04:48]]** ([[episodes/2026-04-27|2026-04-27]]): Case Blackwell references a wife (likely Kendelle) when stating AI Rooney nearly caused her to 're-divorce' him.
-- **[00:18:04]** ([[episodes/2026-05-01|2026-05-01]]): Owns 10-pack of large temporary Matt tattoos; applied first to own upper arm at 00:18:04; proposes 100 Bart Simpson tattoo event stream at 200-sub milestone.
-- **[44:22]** ([[episodes/2026-05-02|2026-05-02]]): Acquired a 'mat tat' (temporary tattoo) with Kendelle; has eight remaining from the batch. [44:22]
-- **[[10:39]]** ([[episodes/2026-05-12|2026-05-12]]): Spent the previous week in the Tetons with his sketch group plotting future group activities.
-- **[[14:49]]** ([[episodes/2026-05-14|2026-05-14]]): Interviewed for MrBeast's company after G4 shutdown; declined offer requiring relocation to South Carolina and development of 'Jimmy Brain'.
-- **[[02:14:16]]** ([[episodes/2026-09-23|2026-09-23]]): Sketch group performing at Chicago Sketch Fest on October 4.
-- **[]** ([[episodes/2026-09-29|2026-09-29]]): Case Blackwell and Kendall engaged; news leaked in Cream Team Discord two weeks prior, confirmed via Instagram post [32:45].
+- **[17:44]** ([[episodes/2026-04-27|2026-04-27]]): Case Blackwell confirms he is 39 years old during age discussion.
+- **[1:04:48]** ([[episodes/2026-04-27|2026-04-27]]): Case Blackwell references a wife (likely Kendelle) when stating AI Rooney nearly caused her to 're-divorce' him.
+- **[0:18:04]** ([[episodes/2026-05-01|2026-05-01]]): Owns 10-pack of large temporary Matt tattoos; applied first to own upper arm at 00:18:04; proposes 100 Bart Simpson tattoo event stream at 200-sub milestone.
+- **[44:22]** ([[episodes/2026-05-02|2026-05-02]]): Acquired a 'mat tat' (temporary tattoo) with Kendelle; has eight remaining from the batch.
+- **[10:39]** ([[episodes/2026-05-12|2026-05-12]]): Spent the previous week in the Tetons with his sketch group plotting future group activities.
+- **[14:49]** ([[episodes/2026-05-14|2026-05-14]]): Interviewed for MrBeast's company after G4 shutdown; declined offer requiring relocation to South Carolina and development of 'Jimmy Brain'.
+- **[2:14:16]** ([[episodes/2026-09-23|2026-09-23]]): Sketch group performing at Chicago Sketch Fest on October 4.
+- **[32:45]** ([[episodes/2026-09-29|2026-09-29]]): Case Blackwell and Kendall engaged; news leaked in Cream Team Discord two weeks prior, confirmed via Instagram post.

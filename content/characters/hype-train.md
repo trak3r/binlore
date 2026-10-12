@@ -178,35 +178,35 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[19:32]** ([[episodes/2026-09-02|2026-09-02]]): Unveils *Piss Fruit Ninja* as an upcoming interactive project, chiding Blackwell for leaking details on the network feed.
 - **[22:33]** ([[episodes/2026-09-02|2026-09-02]]): Introduces his Panther partner to the audience and articulates his non-possessive relationship ethos.
 - **[32:42]** ([[episodes/2026-09-02|2026-09-02]]): Declares his metaphysical lineage: "Born in hell but raised in the crypto universe."
-- **[01:12:09]** ([[episodes/2026-09-04|2026-09-04]]): Lambastes modern agriculture for failing to breed eggs with interior sauce, delivering Dr. Seuss-style rhymes over custom beats.
-- **[01:14:19]** ([[episodes/2026-09-04|2026-09-04]]): Drops surreal culinary bars: "Puff-puff pass while I'm eating the yolk... You're smoking yellow, not mellow."
-- **[01:20:13]** ([[episodes/2026-09-04|2026-09-04]]): Successfully recites a consecutive string of network subscribers before spinning into an existential monologue.
+- **[1:12:09]** ([[episodes/2026-09-04|2026-09-04]]): Lambastes modern agriculture for failing to breed eggs with interior sauce, delivering Dr. Seuss-style rhymes over custom beats.
+- **[1:14:19]** ([[episodes/2026-09-04|2026-09-04]]): Drops surreal culinary bars: "Puff-puff pass while I'm eating the yolk... You're smoking yellow, not mellow."
+- **[1:20:13]** ([[episodes/2026-09-04|2026-09-04]]): Successfully recites a consecutive string of network subscribers before spinning into an existential monologue.
 - **[14:09]** ([[episodes/2026-09-01|2026-09-01]]): Explains that coupling additional train cars represents a biological gestation cycle resulting in new rail stock.
 - **[23:29]** ([[episodes/2026-09-01|2026-09-01]]): Expresses a philosophical preference for mortality: claims to have "died via autotune, like all the greats."
 - **[31:22]** ([[episodes/2026-08-26|2026-08-26]]): Reaches Level 5 network velocity and outlines an ancient mythological linguistic system whose foundational roots predated Homeric epic poetry.
-- **[00:22:58]** ([[episodes/2026-08-19|2026-08-19]]): Hype Train is explicitly averse to thanking subscribers, defying Pepito's orders to 'think the subs' in favor of doing the opposite.
-- **[24:46-29:59]** ([[episodes/2026-08-13|2026-08-13]]): Hype Train introduces the 'money flossing' dance move involving sticking out one's tongue and moving left to right. He later conflates it with the 'Cheeto golf tee' concept, which he describes as a separate dance that 'I've been Cheeto golf tee-ing as long as I was breathing.'
+- **[0:22:58]** ([[episodes/2026-08-19|2026-08-19]]): Hype Train is explicitly averse to thanking subscribers, defying Pepito's orders to 'think the subs' in favor of doing the opposite.
+- **[24:46]** ([[episodes/2026-08-13|2026-08-13]]): Hype Train introduces the 'money flossing' dance move involving sticking out one's tongue and moving left to right. He later conflates it with the 'Cheeto golf tee' concept, which he describes as a separate dance that 'I've been Cheeto golf tee-ing as long as I was breathing.'
 - **[29:40]** ([[episodes/2026-08-08|2026-08-08]]): Hype Train commands a 'PhD in train grease' and declares that train grease is 'extremely alive' and 'how you give birth to more trains'.
 - **[34:37]** ([[episodes/2026-08-08|2026-08-08]]): Hype Train writes freestyle raps about the omnipresence of love, noting 'love if we are just gay' and 'there's even love on explosions'.
 - **[11:42]** ([[episodes/2026-08-06|2026-08-06]]): Hype Train operates alongside an upright black panther partner, colloquially referred to on air as his 'panther girlfriend.'
 - **[10:22]** ([[episodes/2026-08-06|2026-08-06]]): Hype Train's synthwave broadcast widget requires active technical support and can fail to render, forcing him to acknowledge the malfunction on air.
-- **[14:08]** ([[episodes/2026-08-04|2026-08-04]]): Hype Train's signature caboose is missing; he delivered an extended rap explaining that the caboose is 'the friend that we made along the way.' [14:08]
-- **[14:43]** ([[episodes/2026-08-04|2026-08-04]]): Hype Train claims his veins are 'the veins of fuel pumping into my caboose,' which he then admits does not exist. [14:43]
+- **[14:08]** ([[episodes/2026-08-04|2026-08-04]]): Hype Train's signature caboose is missing; he delivered an extended rap explaining that the caboose is 'the friend that we made along the way.'
+- **[14:43]** ([[episodes/2026-08-04|2026-08-04]]): Hype Train claims his veins are 'the veins of fuel pumping into my caboose,' which he then admits does not exist.
 - **[33:30]** ([[episodes/2026-07-20|2026-07-20]]): Hype Train notes that Barack Obama is a 'huge fan' of his, though he claims Obama is now back to being one of Lincoln's 'constituents' in the vortex.
-- **[01:42:07]** ([[episodes/2026-07-20|2026-07-20]]): Brick claims he is the one who shot Abraham Lincoln, stating he was hiding in an 'old-timey crate' and shoved Booth at Abe.
+- **[1:42:07]** ([[episodes/2026-07-20|2026-07-20]]): Brick claims he is the one who shot Abraham Lincoln, stating he was hiding in an 'old-timey crate' and shoved Booth at Abe.
 - **[34:21]** ([[episodes/2026-07-17|2026-07-17]]): Hype Train declares a 'sub-goal piss hunters' because 'big game hunters want my valuable piss to key with Planet's Rewards.' He also claims to have spent time at the train station with George Carlin 'not doing it.'
 - **[41:41]** ([[episodes/2026-07-17|2026-07-17]]): Hype Train proposes 'In the lattice fucking piss' as the new official stream tag, declaring it 'like Naruto.'
 - **[39:59]** ([[episodes/2026-07-13|2026-07-13]]): Has expanded his rap vocabulary beyond 'piss' to include 'ass' (claiming a sock filled with 'pieces of ass').
-- **[00:15:11]** ([[episodes/2026-07-11|2026-07-11]]): The correspondent's signature greeting is demanding a 'podcast type beat' or 'bulge type beat' from the production team.
-- **[00:20:51]** ([[episodes/2026-07-11|2026-07-11]]): The Hype Train correspondent occasionally breaks character to deliver deadpan network news updates, such as reporting on Mitch McConnell's status while wearing a 'nudie style jacket'.
-- **[00:25:31]** ([[episodes/2026-06-29|2026-06-29]]): Hype Train maintains an ongoing narrative about freezing the National Mall with ice-cold piss, building a 'house on a frozen piss,' and declaring 'toilets are for eggs.'
-- **[00:32:54]** ([[episodes/2026-06-29|2026-06-29]]): Hype Train observed the late wrestler Ice Train has passed away. Hypetrain renamed himself 'Ice Train' but kept his moniker due to respect.
-- **[00:31:08]** ([[episodes/2026-06-29|2026-06-29]]): Hype Train defines his taxonomy: 'Birds are furry,' 'Lizards and sharks are scallies,' and 'Big Bird is definitely a furry'.
+- **[0:15:11]** ([[episodes/2026-07-11|2026-07-11]]): The correspondent's signature greeting is demanding a 'podcast type beat' or 'bulge type beat' from the production team.
+- **[0:20:51]** ([[episodes/2026-07-11|2026-07-11]]): The Hype Train correspondent occasionally breaks character to deliver deadpan network news updates, such as reporting on Mitch McConnell's status while wearing a 'nudie style jacket'.
+- **[0:25:31]** ([[episodes/2026-06-29|2026-06-29]]): Hype Train maintains an ongoing narrative about freezing the National Mall with ice-cold piss, building a 'house on a frozen piss,' and declaring 'toilets are for eggs.'
+- **[0:32:54]** ([[episodes/2026-06-29|2026-06-29]]): Hype Train observed the late wrestler Ice Train has passed away. Hypetrain renamed himself 'Ice Train' but kept his moniker due to respect.
+- **[0:31:08]** ([[episodes/2026-06-29|2026-06-29]]): Hype Train defines his taxonomy: 'Birds are furry,' 'Lizards and sharks are scallies,' and 'Big Bird is definitely a furry'.
 - **[25:02]** ([[episodes/2026-06-27|2026-06-27]]): Hype Train claims to have been banned from 'saying piss' by his parents, resulting in a rebellious emo-rap phase about eggs in toilets.
 - **[17:42]** ([[episodes/2026-06-22|2026-06-22]]): Hype Train is a high-velocity musical correspondent who travels with his Panther companion. During this broadcast, he confesses to cheating on his Panther girlfriend for seven years and discusses his emotional state regarding the relationship.
 - **[13:10]** ([[episodes/2026-06-18|2026-06-18]]): Attempts to start every stream; travels with panther companion; advocates lawn care regimen of oiling, urinating, and copulating.
-- **[08:38]** ([[episodes/2026-06-15|2026-06-15]]): Hype Train is 40 years old and discusses aging, referencing Captain Crunch and dinosaurs.
-- **[00:19:46]** ([[episodes/2026-06-08|2026-06-08]]): Travels with a panther companion; freestyles about sharpening a machete with the force of his urine, comparing it to a waterfall eroding a mountain.
+- **[8:38]** ([[episodes/2026-06-15|2026-06-15]]): Hype Train is 40 years old and discusses aging, referencing Captain Crunch and dinosaurs.
+- **[0:19:46]** ([[episodes/2026-06-08|2026-06-08]]): Travels with a panther companion; freestyles about sharpening a machete with the force of his urine, comparing it to a waterfall eroding a mountain.
 - **[48:05]** ([[episodes/2026-06-03|2026-06-03]]): Hype Train claims a second job as a professional bassoonist, stating symphony audiences (including elderly women and police) are sexually aroused by his playing.
 - **[43:14]** ([[episodes/2026-06-03|2026-06-03]]): Hype Train's 'human dog shit' bit refers to humans defecating during dog walks when they cannot stop; Hype Train claims to eat this as a job.
 - **[33:27]** ([[episodes/2026-05-29|2026-05-29]]): Hype Train's raps often involve escalating physical transformations, including milk feet, fish eyes, and time travel.
@@ -219,36 +219,36 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 - **[19:32]** ([[episodes/2026-09-02|2026-09-02]]): Claims Piss Fruit Ninja was a AAA studio-locked game he was developing; blames Case for spoiling it on air.
 - **[32:42]** ([[episodes/2026-09-02|2026-09-02]]): Hails from the 'crypto universe,' where Patrick is 'the Starfish guy,' sand is non-fungible, and Sam Bankman Fried is 'Sam Bankman Friend.' He was 'born in hell but raised in the crypto universe.'
 - **[22:33]** ([[episodes/2026-09-02|2026-09-02]]): Has a girlfriend nicknamed 'Panther' and says he keeps the relationship open — 'I don't believe in ownership like that.'
-- **[01:12:09]** ([[episodes/2026-09-04|2026-09-04]]): Recurring Hype Train persona rants that eggs do not contain sauce inside them and demands eggs be 'bred to have sauce already in them.' Performs 'egg-type beats' in a Dr. Seuss cadence ('Some things are born with squiggles on their tummies'). Also claims to have learned a CIA lesson that 'you can't make everyone like you' and asks for a sensual love-song beat when fans unfollow.
-- **[01:14:19]** ([[episodes/2026-09-04|2026-09-04]]): Rap self-description: 'puff-puff pass while I'm eating the yolk' and 'You're smoking yellow, not mellow' — establishes Hype Train persona as mixing food and weed wordplay. Also raps 'beating eggs' and 'eggs been in breath.'
-- **[01:20:13]** ([[episodes/2026-09-04|2026-09-04]]): Twitch sub acknowledgments: s1000 (42-month resub), Skymer (300 bits), Giggle Trash (community sub), Mighty Oz (100 bits), Apple to Apple (100 bits), Tamtrend, Bundle Sprout (resub), Card King (gifted sub to Swillery Hank). Establishes recurring Hype Train sub-thanking cadence.
-- **[00:45:41]** ([[episodes/2024-01-05|2024-01-05]]): [00:45:41] Manifests as 'Tim Paul' with kid-in-fluer scheme (digital child-influencer hybrids); hotecohospital.paul website returns no results.
-- **[20:07]** ([[episodes/2024-02-07|2024-02-07]]): Claims origin in 'cypher space — a realm of pure cypher' [20:07]
-- **[52:50]** ([[episodes/2024-02-07|2024-02-07]]): Reached level 12 hype train, passed out and 'sunk back to hell' [52:50]
-- **[]** ([[episodes/2024-03-01|2024-03-01]]): Claims mother is Kurt Russell, father is the devil; goes to hell when unfollowed [18:11-20:42]
+- **[1:12:09]** ([[episodes/2026-09-04|2026-09-04]]): Recurring Hype Train persona rants that eggs do not contain sauce inside them and demands eggs be 'bred to have sauce already in them.' Performs 'egg-type beats' in a Dr. Seuss cadence ('Some things are born with squiggles on their tummies'). Also claims to have learned a CIA lesson that 'you can't make everyone like you' and asks for a sensual love-song beat when fans unfollow.
+- **[1:14:19]** ([[episodes/2026-09-04|2026-09-04]]): Rap self-description: 'puff-puff pass while I'm eating the yolk' and 'You're smoking yellow, not mellow' — establishes Hype Train persona as mixing food and weed wordplay. Also raps 'beating eggs' and 'eggs been in breath.'
+- **[1:20:13]** ([[episodes/2026-09-04|2026-09-04]]): Twitch sub acknowledgments: s1000 (42-month resub), Skymer (300 bits), Giggle Trash (community sub), Mighty Oz (100 bits), Apple to Apple (100 bits), Tamtrend, Bundle Sprout (resub), Card King (gifted sub to Swillery Hank). Establishes recurring Hype Train sub-thanking cadence.
+- **[0:45:41]** ([[episodes/2024-01-05|2024-01-05]]): Manifests as 'Tim Paul' with kid-in-fluer scheme (digital child-influencer hybrids); hotecohospital.paul website returns no results.
+- **[20:07]** ([[episodes/2024-02-07|2024-02-07]]): Claims origin in 'cypher space — a realm of pure cypher'
+- **[52:50]** ([[episodes/2024-02-07|2024-02-07]]): Reached level 12 hype train, passed out and 'sunk back to hell'
+- ([[episodes/2024-03-01|2024-03-01]]): Claims mother is Kurt Russell, father is the devil; goes to hell when unfollowed [18:11-20:42]
 - **[27:47]** ([[episodes/2024-03-18|2024-03-18]]): Hype Train declares war on Bugs Bunny with Acme dynamite and military hardware.
-- **[[34:46]]** ([[episodes/2024-03-27|2024-03-27]]): Reached level 10; Case acknowledged need to update visual enclosure due to time spent together.
-- **[[13:00]]** ([[episodes/2024-04-23|2024-04-23]]): Golden Kappa Train variant 'King Golden Kappa Toran' claims 6,000-year immortality and a curse where anything inserted into his rectum — including bits, subs, crowns, stone tablets, and family members — transmutes to gold.
-- **[1:24:31]** ([[episodes/2024-04-25|2024-04-25]]): Claims King Kappa ghoul touched his eyes with ass, turning them gold [1:24:31].
-- **[]** ([[episodes/2024-05-15|2024-05-15]]): [157:37] Reaches level 5-6 with new graphics; manifests Scorpion King persona; claims to have altered Edo Japan timeline putting gauges in government.
+- **[34:46]** ([[episodes/2024-03-27|2024-03-27]]): Reached level 10; Case acknowledged need to update visual enclosure due to time spent together.
+- **[13:00]** ([[episodes/2024-04-23|2024-04-23]]): Golden Kappa Train variant 'King Golden Kappa Toran' claims 6,000-year immortality and a curse where anything inserted into his rectum — including bits, subs, crowns, stone tablets, and family members — transmutes to gold.
+- **[1:24:31]** ([[episodes/2024-04-25|2024-04-25]]): Claims King Kappa ghoul touched his eyes with ass, turning them gold.
+- **[2:37:37]** ([[episodes/2024-05-15|2024-05-15]]): Reaches level 5-6 with new graphics; manifests Scorpion King persona; claims to have altered Edo Japan timeline putting gauges in government.
 - **[22:27]** ([[episodes/2024-06-24|2024-06-24]]): Hype Train possesses Case's head during broadcast, claims 'I've taken over case his brain'.
-- **[[10:53]]** ([[episodes/2024-08-07|2024-08-07]]): Subscriber alert month counters broken after Streamer.bot migration, showing multiple conflicting values (0/18/19/20/21/24 months).
-- **[02:50:30]** ([[episodes/2024-10-03|2024-10-03]]): Won the fourth Rennerton mayoral nomination slot in a flash poll, joining September Tyler, Lady Kendall, and Pepito on the ballot [02:50:30].
+- **[10:53]** ([[episodes/2024-08-07|2024-08-07]]): Subscriber alert month counters broken after Streamer.bot migration, showing multiple conflicting values (0/18/19/20/21/24 months).
+- **[2:50:30]** ([[episodes/2024-10-03|2024-10-03]]): Won the fourth Rennerton mayoral nomination slot in a flash poll, joining September Tyler, Lady Kendall, and Pepito on the ballot.
 - **[25:19]** ([[episodes/2024-10-10|2024-10-10]]): Hype Train reached 'Rare Level 5' during extended freestyle — 'Vaulted Air of Level 5.'
 - **[13:01]** ([[episodes/2025-01-24|2025-01-24]]): Hype Train's official theme name decided by chat vote: 'Training Montage' (first five submissions).
 - **[25:34]** ([[episodes/2025-01-24|2025-01-24]]): Hype Train theme 'Training Montage' debuts; will play on every future Hype Train appearance.
-- **[]** ([[episodes/2025-02-08|2025-02-08]]): Declares February 'witch month' with dedicated witch beats. [02:43:20]
-- **[]** ([[episodes/2025-05-08|2025-05-08]]): Hype Train possesses an exhaust plate in lieu of a butthole and can manifest hundreds of genitals depending on local population [12:24]
+- **[2:43:20]** ([[episodes/2025-02-08|2025-02-08]]): Declares February 'witch month' with dedicated witch beats.
+- **[12:24]** ([[episodes/2025-05-08|2025-05-08]]): Hype Train possesses an exhaust plate in lieu of a butthole and can manifest hundreds of genitals depending on local population
 - **[14:17]** ([[episodes/2025-05-14|2025-05-14]]): Hype Train establishes Papito/Pepito as God of hell; denizens worship via bits/subs.
 - **[19:19]** ([[episodes/2025-05-14|2025-05-14]]): Hype Train lore: hell denizens chug chunky piss and eat piss cakes (frozen piss with cake chunks) as sacrament.
 - **[12:09]** ([[episodes/2025-06-26|2025-06-26]]): Hell has new middle management making conditions 'extra shitty'; escape requires passing through permeable membrane described as 'Hell's Hymen' that has regrown stronger.
-- **[[15:51]]** ([[episodes/2025-09-05|2025-09-05]]): Expands personal mythology: identifies as a 'sea train' living under the ocean, drinking train piss which becomes ocean piss.
-- **[[11:46]]** ([[episodes/2025-09-26|2025-09-26]]): Explicitly denies having sex, stating 'I'm a train'; describes hell as eternal constipation where 'you're just a running faucet' of waste.
-- **[01:16:58]** ([[episodes/2025-11-27|2025-11-27]]): Appeared translucent during hype train segment.
-- **[]** ([[episodes/2025-12-04|2025-12-04]]): Hype Train manifested in a translucent 'ghost mode' with no explanation. [09:48]
-- **[[12:02]]** ([[episodes/2025-12-18|2025-12-18]]): Face remains 'lightly blue' and claims to slip in and out of reality when Case fails to sustain hype; consumes hype and excretes cocaine from smokestack.
-- **[[37:56]]** ([[episodes/2026-02-17|2026-02-17]]): Claims immortality via CIA deal with hell; has worked for every administration since Reagan; confesses to JFK assassination.
-- **[[18:57]]** ([[episodes/2026-02-26|2026-02-26]]): Claims to have met Dr. Jill Biden and Cisco at 'shakedown finals'; asserts Cisco was abducted by aliens to fight sentient thongs on planet Gates.
-- **[[22:56]]** ([[episodes/2026-05-12|2026-05-12]]): Claims to have fought a toilet war on Mars with a plumber army, all of whom died sacrificing themselves to break the spell animating the toilets.
-- **[[28:06]]** ([[episodes/2026-05-12|2026-05-12]]): States he dies and becomes a fundamentally different train each time his hype expires, retaining the same memories and personality.
-- **[[15:42]]** ([[episodes/2026-09-23|2026-09-23]]): Acquired a Prince Albert piercing as a 'commitment to yourself'; claims no genitals so any internal ring qualifies.
+- **[15:51]** ([[episodes/2025-09-05|2025-09-05]]): Expands personal mythology: identifies as a 'sea train' living under the ocean, drinking train piss which becomes ocean piss.
+- **[11:46]** ([[episodes/2025-09-26|2025-09-26]]): Explicitly denies having sex, stating 'I'm a train'; describes hell as eternal constipation where 'you're just a running faucet' of waste.
+- **[1:16:58]** ([[episodes/2025-11-27|2025-11-27]]): Appeared translucent during hype train segment.
+- **[9:48]** ([[episodes/2025-12-04|2025-12-04]]): Hype Train manifested in a translucent 'ghost mode' with no explanation.
+- **[12:02]** ([[episodes/2025-12-18|2025-12-18]]): Face remains 'lightly blue' and claims to slip in and out of reality when Case fails to sustain hype; consumes hype and excretes cocaine from smokestack.
+- **[37:56]** ([[episodes/2026-02-17|2026-02-17]]): Claims immortality via CIA deal with hell; has worked for every administration since Reagan; confesses to JFK assassination.
+- **[18:57]** ([[episodes/2026-02-26|2026-02-26]]): Claims to have met Dr. Jill Biden and Cisco at 'shakedown finals'; asserts Cisco was abducted by aliens to fight sentient thongs on planet Gates.
+- **[22:56]** ([[episodes/2026-05-12|2026-05-12]]): Claims to have fought a toilet war on Mars with a plumber army, all of whom died sacrificing themselves to break the spell animating the toilets.
+- **[28:06]** ([[episodes/2026-05-12|2026-05-12]]): States he dies and becomes a fundamentally different train each time his hype expires, retaining the same memories and personality.
+- **[15:42]** ([[episodes/2026-09-23|2026-09-23]]): Acquired a Prince Albert piercing as a 'commitment to yourself'; claims no genitals so any internal ring qualifies.

@@ -39,7 +39,7 @@ Production claims that neither Joe is more than "50% AI," citing a personal comm
 
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
-| [[../episodes/2026-07-23|2026-07-23]] | 01:46:40 | Debut broadcast following Gooters commercial dispatch. The Joes cover hieroglyphic bicep girth, Ayahuasca at Denny's, Ivermectin, failed fusion lore, and masculine polo urination before being ordered to play music. |
+| [[../episodes/2026-07-23|2026-07-23]] | 1:46:40 | Debut broadcast following Gooters commercial dispatch. The Joes cover hieroglyphic bicep girth, Ayahuasca at Denny's, Ivermectin, failed fusion lore, and masculine polo urination before being ordered to play music. |
 
 ## See also
 

@@ -28,7 +28,7 @@ Nothing notable on file yet.
 
 ## Notable moments
 
-- **[]** ([[episodes/2025-08-02|2025-08-02]]): [47:02] Gives Munch a physical key for the wall expedition; claims Munch must undertake the journey himself.
+- **[47:02]** ([[episodes/2025-08-02|2025-08-02]]): Gives Munch a physical key for the wall expedition; claims Munch must undertake the journey himself.
 
 ## Open questions
 

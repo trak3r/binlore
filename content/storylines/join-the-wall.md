@@ -44,9 +44,9 @@ On [[../episodes/2025-09-25|Post Wall and Rapture Clarity]], resurrected Crum si
 
 | Date / Episode | Beat |
 |----------------|------|
-| [[../episodes/2024-09-18|2024-09-18]] [01:32:44] | [01:32:44] Crum jokes about hanging out in walls with Peter; Peter confirms he's busy sorting rat clans in the walls. |
-| [[../episodes/2024-09-20|2024-09-20]] [01:20:37] | Peter Gibbon confirms crawlspace/sewer residence during studio intrusion, reinforcing wall lore [01:20:37] |
-| [[../episodes/2025-02-12|2025-02-12]] [01:45:52] | [01:45:52] Crum mentions wife will leave him over gorilla debt; park ranger later confirms Crum's $180k debt and 'substantial other gambling debts.' |
+| [[../episodes/2024-09-18|2024-09-18]] [1:32:44] | [01:32:44] Crum jokes about hanging out in walls with Peter; Peter confirms he's busy sorting rat clans in the walls. |
+| [[../episodes/2024-09-20|2024-09-20]] [1:20:37] | Peter Gibbon confirms crawlspace/sewer residence during studio intrusion, reinforcing wall lore [01:20:37] |
+| [[../episodes/2025-02-12|2025-02-12]] [1:45:52] | [01:45:52] Crum mentions wife will leave him over gorilla debt; park ranger later confirms Crum's $180k debt and 'substantial other gambling debts.' |
 | [[../episodes/2025-06-05|2025-06-05]] [2:03:13] | [2:03:13] Jeff Ripple reports wall rats are 'rangy' with 'rat music'; [2:06:33] 'Journey into the wall' sub goal created; Peter Gibbon remains in wall. |
 | [[../episodes/2025-06-20|2025-06-20]] | Crum appears physically diminished after the face punch; Munch claims he cleaned Crum's remains for two days; chat compares Crum to Deathlock and a children's drawing; Case promises a physical therapist. Volleyball-with-a-bloody-face gag surfaces. [48:04–01:00:32] |
 | [[../episodes/2025-06-24|2025-06-24]] | Aftermath linger: Coach McGopp claims Crum's "head rat" was removed; Munch still frames the gorilla campaign as unfinished business. [01:10:16] |
@@ -60,11 +60,11 @@ On [[../episodes/2025-09-25|Post Wall and Rapture Clarity]], resurrected Crum si
 | [[../episodes/2025-07-30|2025-07-30]] [2:19:23] | Munch negotiates with the Devil in hell for Crum's release; Crum appears as a husk working in hell's transit authority, still gambling and confessing to stealing Trump's spa employees. [2:19:23] |
 | [[../episodes/2025-08-02|2025-08-02]] [47:02] | [47:02] Devil gives Munch a key to 'use at the end of the wall thing' and says Munch must go on a 'Perseus style expedition' to retrieve Crum. |
 | [[../episodes/2025-08-11|2025-08-11]] | Hell/wall foreshadowing: Crum holds a devil's key in his soul and reports flaming-pigeon visions; Peter seeks mayoral clearance to send people (starting with Munch) into the wall. [01:21:54, 01:35:43] |
-| [[../episodes/2025-08-21|2025-08-21]] [01:25:21] | [01:25:21] Munch holds a key from the devil to retrieve Crum's soul from hell within 30 days; Crum's digestive tract was repaired by unsavory workers. |
-| [[../episodes/2025-08-23|2025-08-23]] [08:42] | [08:42] Wall expedition nearly ready; electrician arriving for safety prep; Case notes walls 'always been ready' but questions if explorers are ready [2:15:44]. |
+| [[../episodes/2025-08-21|2025-08-21]] [1:25:21] | [01:25:21] Munch holds a key from the devil to retrieve Crum's soul from hell within 30 days; Crum's digestive tract was repaired by unsavory workers. |
+| [[../episodes/2025-08-23|2025-08-23]] [8:42] | [08:42] Wall expedition nearly ready; electrician arriving for safety prep; Case notes walls 'always been ready' but questions if explorers are ready [2:15:44]. |
 | [[../episodes/2025-08-26|2025-08-26]] [58:06] | [58:06] Peter Gibbon reports from wall crawlspace, claims to have improved it ahead of Munch's planned descent to retrieve Crum's soul. |
 | [[../episodes/2025-09-02|2025-09-02]] [17:34] | [17:34] Case says city clearances for entering the wall nearly complete, permits required despite Peter Gibbon having none. |
-| [[../episodes/2025-09-03|2025-09-03]] [02:20:55] | Munch tells Crum 'get in the wall' during debate [02:20:55]; Peter Gibbon claims on Trip's segment he's 'never going back in there again' [02:35:03]. |
+| [[../episodes/2025-09-03|2025-09-03]] [2:20:55] | Munch tells Crum 'get in the wall' during debate [02:20:55]; Peter Gibbon claims on Trip's segment he's 'never going back in there again' [02:35:03]. |
 | [[../episodes/2025-09-05|2025-09-05]] | Munch formally announces Thursday 9/11 at 2pm wall stream to enter the crawlspace and rescue Crum from hell, citing guilt over Crum's condition. |
 | [[../episodes/2025-09-10|2025-09-10]] | [2025-09-10] Wall stream delayed from 9/11 to next Friday (9/19) due to guest scheduling; Case worked 'obsessively' two days; Peter Gibbon claims credit for wall access. |
 | [[../episodes/2025-09-11|2025-09-11]] [1:13:39] | [1:13:39] Case states Wall stream delayed by red tape until next Friday; [1:25:00] Crum accuses Munch of delaying Wall stream; [1:26:52] Case confirms Wall rescue scheduled for next Friday. |
@@ -74,21 +74,21 @@ On [[../episodes/2025-09-25|Post Wall and Rapture Clarity]], resurrected Crum si
 | [[../episodes/2025-09-21|2025-09-21]] | **Climax:** Join the Wall RPG descent. Crum found dead in hell as assistant manager of the hell transit authority; rescued via Munch's hell key. [02:31:32] |
 | [[../episodes/2025-09-25|2025-09-25]] | **Resurrection coda:** Crum back from hell after the gorilla explosion arc; claims amnesia and super strength; Munch demands points return. [1:20:22–1:42:23] |
 | [[../episodes/2025-09-26|2025-09-26]] [53:14] | [53:14] Munch references retrieving Crum from hell where Crum was working as assistant manager at a hellish transit authority. |
-| [[../episodes/2025-09-29|2025-09-29]] [01:41:29] | [01:41:29] Wall lore expanded: Jizzbo confirms maintenance work in wall, lost friend Grandman; Crum's concubines claim wall/hell connection. |
+| [[../episodes/2025-09-29|2025-09-29]] [1:41:29] | [01:41:29] Wall lore expanded: Jizzbo confirms maintenance work in wall, lost friend Grandman; Crum's concubines claim wall/hell connection. |
 | [[../episodes/2025-10-02|2025-10-02]] | Munch reiterates Crum's hell tenure as assistant manager; threatens to send Crum back through crawlspace to retrieve poster. [01:03:39, 01:09:02] |
 | [[../episodes/2025-10-04|2025-10-04]] | [2025-10-04] Peter Gibbon returns from wall claiming cosmic resilience ('if you break a wall you can rebuild it'); references Munch sending him to hell. |
-| [[../episodes/2025-10-06|2025-10-06]] [01:24:36] | [01:24:36] Case references 'level up again in context' and threatens to 'send someone else into the wall,' invoking the crawlspace hell transit. |
+| [[../episodes/2025-10-06|2025-10-06]] [1:24:36] | [01:24:36] Case references 'level up again in context' and threatens to 'send someone else into the wall,' invoking the crawlspace hell transit. |
 | [[../episodes/2025-10-09|2025-10-09]] [1:44:38] | [1:44:38] Munch references Crum's hell stint: 'You seemed actually happier down there... thriving in a way you just never have up here' — confirms Crum's hell employment canon. |
-| [[../episodes/2025-10-31|2025-10-31]] [02:34:43] | [02:34:43] Crum declares 'hell crumb is me' and 'the killer's in the room with you,' directly referencing his hell tenure and rescue arc from the Join the Wall storyline. |
+| [[../episodes/2025-10-31|2025-10-31]] [2:34:43] | [02:34:43] Crum declares 'hell crumb is me' and 'the killer's in the room with you,' directly referencing his hell tenure and rescue arc from the Join the Wall storyline. |
 | [[../episodes/2025-11-03|2025-11-03]] | Jeb's Dad asks if Crum knows his wife left him and married Jizzbo after he died and went to hell; Crum denies knowledge. |
-| [[../episodes/2025-11-27|2025-11-27]] [01:12:02] | [01:12:02] Peter Gibbon urges Case to send another group into the wall; Case refuses, citing esotericism for newer viewers. |
-| [[../episodes/2025-12-04|2025-12-04]] [01:08:11] | Crum cited Peter Gibbon's wall-teasing during the Thanksgiving confession. |
-| [[../episodes/2026-01-06|2026-01-06]] [01:37:53] | [01:37:53] Zombie Dick Clark confirms Crum was in hell for 'a couple trillion years in hell time' and 'four million more years' was denied; glad he's gone. |
+| [[../episodes/2025-11-27|2025-11-27]] [1:12:02] | [01:12:02] Peter Gibbon urges Case to send another group into the wall; Case refuses, citing esotericism for newer viewers. |
+| [[../episodes/2025-12-04|2025-12-04]] [1:08:11] | Crum cited Peter Gibbon's wall-teasing during the Thanksgiving confession. |
+| [[../episodes/2026-01-06|2026-01-06]] [1:37:53] | [01:37:53] Zombie Dick Clark confirms Crum was in hell for 'a couple trillion years in hell time' and 'four million more years' was denied; glad he's gone. |
 | [[../episodes/2026-02-10|2026-02-10]] | [2026-02-10] Hand Him Squidward confirms Crum was mayor of Rennerton when the city died and became an undead sanctum, linking Crum's past to the hellscape transit authority lore. |
-| [[../episodes/2026-02-19|2026-02-19]] [01:08:36] | [01:08:36] Crum denies memory of death/hell/DMV assistant manager role; calls it 'smoke and mirrors' despite Munch's prior canon. |
-| [[../episodes/2026-03-03|2026-03-03]] [01:28:37] | [01:28:37] Munch asks 'More wall content?' and suggests 'We could go back to the wall,' referencing the resolved hell-transit arc. |
+| [[../episodes/2026-02-19|2026-02-19]] [1:08:36] | [01:08:36] Crum denies memory of death/hell/DMV assistant manager role; calls it 'smoke and mirrors' despite Munch's prior canon. |
+| [[../episodes/2026-03-03|2026-03-03]] [1:28:37] | [01:28:37] Munch asks 'More wall content?' and suggests 'We could go back to the wall,' referencing the resolved hell-transit arc. |
 | [[../episodes/2026-03-10|2026-03-10]] | [18:47-19:43] Peter Gibbon claims 'the court is in the wall'; [01:19:36-01:28:11] Crum identifies as wall denialist, Munch references hell rescue and Crum's infrastructure work in hell. |
-| [[../episodes/2026-03-12|2026-03-12]] [01:21:56] | [01:21:56] Crum references being 'brought back better than ever' from hell transit; occasional super-strength side effect. |
+| [[../episodes/2026-03-12|2026-03-12]] [1:21:56] | [01:21:56] Crum references being 'brought back better than ever' from hell transit; occasional super-strength side effect. |
 | [[../episodes/2026-04-11|2026-04-11]] | Crum reveals a blood-covered hard drive from his 'fugue state' that whispers at night and has been plugged into studio computers, generating new files including a 'hell poster' of Crum [1:51:49, 1:53:52]. |
 | [[../episodes/2026-09-29|2026-09-29]] [1:28:29] | Munch references hell transit and Crum working as assistant manager in hell during debate [1:28:29]. |
 | [[../episodes/2026-10-10|2026-10-10]] [58:58] | [58:58] Munch admits he died and returned from hell; confirms dead community meetings; skeleton form is permanent. |

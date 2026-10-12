@@ -8,6 +8,11 @@ import yaml
 
 from .paths import CONTENT_CHARACTERS, CONTENT_EPISODES, CONTENT_SEGMENTS, CONTENT_STORYLINES, RUNS_DIR
 from .vods import Vod, format_duration
+from .wiki_updater import (
+    first_embedded_timestamp,
+    normalize_timestamp,
+    strip_redundant_trailing_timestamps,
+)
 
 
 def episode_stub_markdown(vod: Vod, *, run_id: str) -> str:
@@ -248,8 +253,8 @@ def update_episode_from_extraction(vod_id: str, extraction: dict[str, Any]) -> P
     seg_rows: list[str] = []
     if segments:
         for s in segments:
-            start = s.get("start", "")
-            end = s.get("end", "")
+            start = normalize_timestamp(str(s.get("start", ""))) or str(s.get("start", ""))
+            end = normalize_timestamp(str(s.get("end", ""))) or str(s.get("end", ""))
             canon_seg = s.get("canonical_segment") or ""
             title_seg = s.get("title", "")
             if canon_seg:
@@ -302,7 +307,8 @@ def update_episode_from_extraction(vod_id: str, extraction: dict[str, Any]) -> P
             st_name = st.get("storyline") or st.get("name") or "Storyline"
             st_link = _format_storyline_link(str(st_name))
             beat = st.get("beat", "")
-            ts = f" [{st['timestamp']}]" if st.get("timestamp") else ""
+            canon_ts = normalize_timestamp(str(st.get("timestamp") or ""))
+            ts = f" [{canon_ts}]" if canon_ts else ""
             story_bullets.append(f"- **{st_link}**{ts}: {beat}")
     else:
         story_bullets.append("- _No specific storyline updates recorded_")
@@ -321,10 +327,12 @@ def update_episode_from_extraction(vod_id: str, extraction: dict[str, Any]) -> P
             entity = l.get("entity", "") or l.get("character", "")
             entity_link = _format_character_link(entity) if entity else ""
             prefix = f"**{entity_link}**: " if entity_link else ""
-            ts = f"**[{l['timestamp']}]** " if l.get("timestamp") else ""
             fact = str(l.get("fact") or l.get("note") or l.get("text") or "").strip()
             if not fact:
                 continue
+            canon_ts = normalize_timestamp(str(l.get("timestamp") or "")) or first_embedded_timestamp(fact)
+            fact = strip_redundant_trailing_timestamps(fact, canon_ts)
+            ts = f"**[{canon_ts}]** " if canon_ts else ""
             lore_bullets.append(f"- {ts}{prefix}{fact}")
     else:
         lore_bullets.append("- _No lore notes recorded_")

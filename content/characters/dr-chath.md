@@ -50,9 +50,9 @@ Despite his clinical positioning, Dr. Chath is a distinctly minor and highly uno
 
 ## Notable Moments
 
-- **[01:30:22]** ([[../episodes/2026-06-22|2026-06-22]]): Stands directly on his office chair to demonstrate dance therapy to Case, insisting it is a proper clinical intervention.
-- **[01:34:09]** ([[../episodes/2026-06-22|2026-06-22]]): His oversized military helmet leans into the camera lens, prompting Case to plead with him to stop blocking the screen.
-- **[01:46:58]** ([[../episodes/2026-07-17|2026-07-17]]): Concludes a chaotic session by issuing a $500-an-hour bill to Case.
+- **[1:30:22]** ([[../episodes/2026-06-22|2026-06-22]]): Stands directly on his office chair to demonstrate dance therapy to Case, insisting it is a proper clinical intervention.
+- **[1:34:09]** ([[../episodes/2026-06-22|2026-06-22]]): His oversized military helmet leans into the camera lens, prompting Case to plead with him to stop blocking the screen.
+- **[1:46:58]** ([[../episodes/2026-07-17|2026-07-17]]): Concludes a chaotic session by issuing a $500-an-hour bill to Case.
 
 ## Open Questions
 
@@ -68,6 +68,6 @@ Despite his clinical positioning, Dr. Chath is a distinctly minor and highly uno
 
 ## Notable moments
 
-- **[01:47:59]** ([[episodes/2025-06-17|2025-06-17]]): Dr. Chath is Case Blackwell's cousin; Case gives cousins work out of worry.
-- **[[2:08:01]]** ([[episodes/2024-09-06|2024-09-06]]): Wore sunglasses during therapy session; charged $15,000 for Hamilton-immersion therapy.
-- **[[01:17:11]]** ([[episodes/2025-12-18|2025-12-18]]): Therapy diplomas are AI-generated gibberish; new technique triggered by chat command '!h'.
+- **[1:47:59]** ([[episodes/2025-06-17|2025-06-17]]): Dr. Chath is Case Blackwell's cousin; Case gives cousins work out of worry.
+- **[2:08:01]** ([[episodes/2024-09-06|2024-09-06]]): Wore sunglasses during therapy session; charged $15,000 for Hamilton-immersion therapy.
+- **[1:17:11]** ([[episodes/2025-12-18|2025-12-18]]): Therapy diplomas are AI-generated gibberish; new technique triggered by chat command '!h'.

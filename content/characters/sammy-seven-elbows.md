@@ -49,8 +49,8 @@ In later lore, the sock puppet [[hate-sock|Hate Sock]] outs himself as Sammy Sev
 
 - **[10:12]** ([[episodes/2024-05-02|2024-05-02]]): Debuts as Sammy Six Elbows, renamed Seven Elbows live; identifies Biden as his childhood Night Man.
 - **[49:31]** ([[episodes/2024-05-15|2024-05-15]]): Epstein cloning correspondent debut; later amnesia aliases.
-- **[01:18:24]** ([[episodes/2024-06-26|2024-06-26]]): Flash-poll winner performs "The Thing Song."
-- **[04:51]** ([[episodes/2025-06-28|2025-06-28]]): Hate Sock reveals canonical identity as Sammy Seven Elbows.
+- **[1:18:24]** ([[episodes/2024-06-26|2024-06-26]]): Flash-poll winner performs "The Thing Song."
+- **[4:51]** ([[episodes/2025-06-28|2025-06-28]]): Hate Sock reveals canonical identity as Sammy Seven Elbows.
 
 ## Open questions
 

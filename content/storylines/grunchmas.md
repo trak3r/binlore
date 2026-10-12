@@ -49,8 +49,8 @@ By [[../episodes/2025-12-19|Grunchmas 2025]] the network billed the fucks-list r
 | [[../episodes/2023-12-16|2023-12-16]] | Sunday "Grunch Miss" stream announced (green body paint; Beyblade crossover tease). |
 | [[../episodes/2023-12-18|2023-12-18]] | **Grunchmas 2023:** Fucks List + Christmas Miracle debate (Munch apologizes; fragile truce). |
 | [[../episodes/2024-12-23|2024-12-23]] | **Grunchmas 2024:** Fucks List adjudication; pink Grunch *Popular* finale with Kendelle. |
-| [[../episodes/2025-12-13|2025-12-13]] [02:04:47] | Case announces Grungemas 2025 planning; Discord thread for naughty/nice (fucks) list submissions. |
-| [[../episodes/2025-12-18|2025-12-18]] [02:22:27] | Eve confirmation: Grunchmas Friday targeting 3 PM. |
+| [[../episodes/2025-12-13|2025-12-13]] [2:04:47] | Case announces Grungemas 2025 planning; Discord thread for naughty/nice (fucks) list submissions. |
+| [[../episodes/2025-12-18|2025-12-18]] [2:22:27] | Eve confirmation: Grunchmas Friday targeting 3 PM. |
 | [[../episodes/2025-12-19|2025-12-19]] | **Grunchmas 2025:** Fourth annual fucks list; letters portal; speed-run rap; raid out. |
 
 ## Related Pages

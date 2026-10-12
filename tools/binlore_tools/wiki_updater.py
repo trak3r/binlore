@@ -32,6 +32,107 @@ _USUAL_APPEARANCE_RE = re.compile(
     re.I,
 )
 
+# Timestamps in wiki bullets must be bold brackets — never wikilinks like [[1:23:45]].
+_TS_TOKEN_RE = re.compile(r"(\d{1,3}:\d{2}(?::\d{2})?)")
+_EMBEDDED_TS_RE = re.compile(r"\[(\d{1,3}:\d{2}(?::\d{2})?)\]")
+
+
+def normalize_timestamp(raw: str) -> str:
+    """Canonicalize a VOD timestamp for wiki bullets.
+
+    Returns ``H:MM:SS`` (hours unpadded) or ``M:SS`` / ``MM:SS`` under one hour.
+    Empty / unparseable inputs become ``\"\"``. Ranges and comma-lists take the first
+    value. Values like ``125:28`` (total minutes) become ``2:05:28``.
+    """
+    s = (raw or "").strip().strip("[]* \t")
+    if not s or s.lower() in {"unknown", "n/a", "none", "null", "?", "-"}:
+        return ""
+    # Ranges / multi-stamps → first
+    if "-" in s and _TS_TOKEN_RE.match(s):
+        s = re.split(r"\s*-\s*", s, maxsplit=1)[0].strip()
+    if "," in s:
+        s = s.split(",", 1)[0].strip()
+    s = s.strip("[] ")
+
+    m = re.fullmatch(r"(\d{1,3}):(\d{2}):(\d{2})", s)
+    if m:
+        h, mi, sec = (int(m.group(1)), int(m.group(2)), int(m.group(3)))
+        if mi > 59 or sec > 59:
+            return ""
+        return f"{h}:{mi:02d}:{sec:02d}"
+
+    m = re.fullmatch(r"(\d{1,3}):(\d{2})", s)
+    if m:
+        a, b = int(m.group(1)), int(m.group(2))
+        if b > 59:
+            return ""
+        # >= 60 minutes written as MM:SS → promote to H:MM:SS
+        if a >= 60:
+            h, mi = divmod(a, 60)
+            return f"{h}:{mi:02d}:{b:02d}"
+        return f"{a}:{b:02d}"
+
+    return ""
+
+
+def first_embedded_timestamp(text: str) -> str:
+    """Return the first ``[H:MM:SS]`` / ``[M:SS]`` stamp found in free text."""
+    m = _EMBEDDED_TS_RE.search(text or "")
+    return normalize_timestamp(m.group(1)) if m else ""
+
+
+def _timestamp_aliases(canonical_ts: str) -> set[str]:
+    """Equivalent string forms of the same instant (padding / total-minutes)."""
+    aliases = {canonical_ts}
+    if not canonical_ts:
+        return aliases
+    parts = canonical_ts.split(":")
+    if len(parts) == 3:
+        h, mi, sec = (int(parts[0]), parts[1], parts[2])
+        aliases.add(f"{h:02d}:{mi}:{sec}")
+        aliases.add(f"{h * 60 + int(mi)}:{sec}")  # total-minutes form e.g. 101:00
+    elif len(parts) == 2:
+        mi, sec = int(parts[0]), parts[1]
+        aliases.add(f"{mi:02d}:{sec}")
+        if mi >= 60:
+            h, rem = divmod(mi, 60)
+            aliases.add(f"{h}:{rem:02d}:{sec}")
+    return {a for a in aliases if a}
+
+
+def strip_redundant_trailing_timestamps(fact: str, canonical_ts: str) -> str:
+    """Drop ``[ts]`` markers that repeat the leading bullet timestamp.
+
+    Secondary distinct times (e.g. a second stamp in ``[13:36][48:50]``) are kept.
+    """
+    if not fact:
+        return fact
+    out = fact.rstrip()
+    if not canonical_ts:
+        return out
+    aliases = _timestamp_aliases(canonical_ts)
+
+    # Remove every bracketed alias of the header timestamp
+    for alt in sorted(aliases, key=len, reverse=True):
+        out = re.sub(rf"\s*\[{re.escape(alt)}\]", "", out)
+
+    # Ensure a space before any remaining [ts] glued to a word
+    out = re.sub(r"(\S)(\[\d{1,3}:\d{2}(?::\d{2})?\])", r"\1 \2", out)
+    # Tidy leftover double spaces / space-before-punct
+    out = re.sub(r" +\.", ".", out)
+    out = re.sub(r" +!", "!", out)
+    out = re.sub(r" {2,}", " ", out)
+    return out.strip()
+
+
+def format_character_moment_bullet(ts: str, ep_slug: str, fact: str) -> str:
+    """Canonical character Notable moments bullet (never a timestamp wikilink)."""
+    canon_ts = normalize_timestamp(ts) or first_embedded_timestamp(fact)
+    clean = strip_redundant_trailing_timestamps(fact.strip(), canon_ts)
+    if canon_ts:
+        return f"- **[{canon_ts}]** ([[episodes/{ep_slug}|{ep_slug}]]): {clean}"
+    return f"- ([[episodes/{ep_slug}|{ep_slug}]]): {clean}"
+
 
 def _slugify(text: str) -> str:
     s = text.lower().replace("&", "and").replace("–", "-").replace("—", "-")
@@ -552,7 +653,7 @@ def update_character_file(
         updated_mom = mom_text
         for ts, fact in lore_facts:
             fact_snip = fact[:35]
-            bullet = f"- **[{ts}]** ([[episodes/{ep_slug}|{ep_slug}]]): {fact}"
+            bullet = format_character_moment_bullet(ts, ep_slug, fact)
             updated_mom = _append_bullet(updated_mom, bullet, dedupe_key=fact_snip)
 
         if updated_mom != mom_text:
@@ -640,7 +741,7 @@ def create_character_page(
     appearances_row = f"| [[episodes/{ep_slug}|{ep_slug}]] | {appearance_notes} |"
     notable_bullets: list[str] = []
     for ts, fact in lore_facts:
-        notable_bullets.append(f"- **[{ts}]** ([[episodes/{ep_slug}|{ep_slug}]]): {fact}")
+        notable_bullets.append(format_character_moment_bullet(ts, ep_slug, fact))
 
     if not notable_bullets:
         notable_bullets.append(f"- First seen in [[episodes/{ep_slug}|Episode {ep_slug}]].")
@@ -856,7 +957,8 @@ def update_storyline_file(
     modified = False
     for ts, beat in beats:
         beat_snip = beat[:40]
-        ts_part = f" [{ts}]" if ts else ""
+        canon_ts = normalize_timestamp(ts) or first_embedded_timestamp(beat)
+        ts_part = f" [{canon_ts}]" if canon_ts else ""
         date_col = f"[[../episodes/{ep_slug}|{ep_slug}]]{ts_part}"
         safe_beat = beat.replace("|", "/")
         new_row = f"| {date_col} | {safe_beat} |"
@@ -902,7 +1004,8 @@ def update_segment_file(
     for start, title, notes in occurrences:
         dedupe_key = f"{ep_slug}"
         safe_desc = f"{title}: {notes}".replace("|", "/") if notes else title.replace("|", "/")
-        new_row = f"| [[episodes/{ep_slug}|{ep_slug}]] | {start} | {safe_desc} |"
+        start_canon = normalize_timestamp(start) or start
+        new_row = f"| [[episodes/{ep_slug}|{ep_slug}]] | {start_canon} | {safe_desc} |"
         res = _append_table_row(
             updated_occ,
             new_row,

@@ -41,8 +41,8 @@ On the stand he greets the room warmly, notes that some of his old voice has ret
 
 ## Notable Moments
 
-- **[01:22:57]** ([[../episodes/2026-03-07|2026-03-07]]): Introduces himself as Coach McGurk and remarks on recovering pieces of his old voice.
-- **[01:23:25]** ([[../episodes/2026-03-07|2026-03-07]]): Objects to pantsless opposing counsel; objection leads to a Home Movies confusion and an overruled ruling.
+- **[1:22:57]** ([[../episodes/2026-03-07|2026-03-07]]): Introduces himself as Coach McGurk and remarks on recovering pieces of his old voice.
+- **[1:23:25]** ([[../episodes/2026-03-07|2026-03-07]]): Objects to pantsless opposing counsel; objection leads to a Home Movies confusion and an overruled ruling.
 
 ## Open Questions
 
@@ -53,5 +53,5 @@ See also: [[don-riggles|Don Riggles]], [[jizzbo|Jizzbo]], [[crum|Crum]], [[../ep
 
 ## Notable moments
 
-- **[01:41:50]** ([[episodes/2025-06-28|2025-06-28]]): [01:41:50] Fired by Munch after defending Crum; revealed he taught a sex-ed class claiming men can squirt.
-- **[[1:25:55]]** ([[episodes/2026-03-06|2026-03-06]]): High school football coach fired for organizing 'Revenge of the Nerds Day' morale event with football team; claims everyone in high school work gets fired eventually.
+- **[1:41:50]** ([[episodes/2025-06-28|2025-06-28]]): Fired by Munch after defending Crum; revealed he taught a sex-ed class claiming men can squirt.
+- **[1:25:55]** ([[episodes/2026-03-06|2026-03-06]]): High school football coach fired for organizing 'Revenge of the Nerds Day' morale event with football team; claims everyone in high school work gets fired eventually.

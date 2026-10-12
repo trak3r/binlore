@@ -31,4 +31,4 @@ During his live video dispatches, Danny provides running commentary on horror ci
 
 ## Notable Moments
 
-- **[01:36:11]** ([[episodes/2026-08-04|2026-08-04]]): Explains his unique anatomical traits and recounts his performance of "Bohemian Grove Rhapsody" to an astonished newsroom desk.
+- **[1:36:11]** ([[episodes/2026-08-04|2026-08-04]]): Explains his unique anatomical traits and recounts his performance of "Bohemian Grove Rhapsody" to an astonished newsroom desk.

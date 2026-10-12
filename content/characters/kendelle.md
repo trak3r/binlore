@@ -269,92 +269,92 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 ## Notable moments
 
 - **Signature Theme Music**: Her on-camera studio walk-throughs are consistently accompanied by her own dedicated theme music cued by Blackwell.
-- **[09:20]** ([[episodes/2026-09-04|2026-09-04]]): Blackwell discloses hiding an engagement ring from Kendelle while she is out of town, referencing making "husband money" before departing on international leave.
+- **[9:20]** ([[episodes/2026-09-04|2026-09-04]]): Blackwell discloses hiding an engagement ring from Kendelle while she is out of town, referencing making "husband money" before departing on international leave.
 - **[49:01]** ([[episodes/2026-08-06|2026-08-06]]): Blackwell maintains a gaming partnership with Kendelle, competing in cooperative titles like *BigWog* and *Friend Slap*.
 - **[52:09]** ([[episodes/2026-07-20|2026-07-20]]): Kendelle asks Case live on stream for legal advice regarding a video editing client contract that prevents portfolio usage.
-- **[09:00]** ([[episodes/2026-07-20|2026-07-20]]): Blackwell reveals their collaborative magic act stage names: Case as "Shaz Black" and Kendelle as "Candy Lane".
-- **[00:49:58]** ([[episodes/2026-07-11|2026-07-11]]): Case and Kendelle recount their harrowing 15-hour emergency layover in the Denver airport due to an aircraft fuel line leak and broken replacement window frame.
-- **[01:27:52]** ([[episodes/2026-06-22|2026-06-22]]): Kendelle is Case's girlfriend and on-air contributor who appears as a ghost during the therapy segment, walking through the studio to her own signature theme music. She lives in the therapist's office sometimes and follows 'Harry Potter rules' for apparition.
-- **[01:30:28]** ([[episodes/2026-06-08|2026-06-08]]): Walks through studio to her own signature theme music; mother celebrated on-air for birthday.
-- **[01:14:34]** ([[episodes/2026-06-03|2026-06-03]]): Kendelle is Lead Anchor Case Blackwell's girlfriend and on-air contributor who walks through the studio to her own signature theme music.
-- **[]** ([[episodes/2025-06-07|2025-06-07]]): Kendelle's birthday June 13th (celebrated mid-June) [13:25]
-- **[]** ([[episodes/2025-06-07|2025-06-07]]): Kendelle's sister no longer hates Case; neighbor CIA incident resolved via Case's cordial text strategy [40:02, 43:18]
-- **[]** ([[episodes/2025-06-24|2025-06-24]]): [03:11:42] Computer repair dilemma: $150/hr in-house service needed; Case plans to take it in while she's at the office.
-- **[01:07:17]** ([[episodes/2023-11-23|2023-11-23]]): Worked at Disneyland as R2-D2 character; knows parade dances from the park. [01:07:17]
-- **[[11:44]]** ([[episodes/2023-12-02|2023-12-02]]): Making Grinch ornaments from Universal Studios Whoville performers; ornaments for 'friendship justified by content.'
-- **[[07:26]]** ([[episodes/2023-12-12|2023-12-12]]): Works marketing/social media marketing job requiring 4 PM office attendance; refers to chat as her 'sports reporters.'
-- **[03:00:52]** ([[episodes/2023-12-15|2023-12-15]]): Joined the Lethal Company session as 'Kendall', died repeatedly to brackens, bees, and fall damage, and was teased for 'candle' moves (accidental self-sabotage). [03:00:52]
-- **[137:00]** ([[episodes/2023-12-16|2023-12-16]]): [137:00] May appear Sunday for Grunch Miss Beyblade stream; agreed to 'fucks list' participation.
-- **[15:48]** ([[episodes/2023-12-19|2023-12-19]]): Reports waking up at 9 p.m. and adjusting to night-time lighting setup [15:48].
+- **[9:00]** ([[episodes/2026-07-20|2026-07-20]]): Blackwell reveals their collaborative magic act stage names: Case as "Shaz Black" and Kendelle as "Candy Lane".
+- **[0:49:58]** ([[episodes/2026-07-11|2026-07-11]]): Case and Kendelle recount their harrowing 15-hour emergency layover in the Denver airport due to an aircraft fuel line leak and broken replacement window frame.
+- **[1:27:52]** ([[episodes/2026-06-22|2026-06-22]]): Kendelle is Case's girlfriend and on-air contributor who appears as a ghost during the therapy segment, walking through the studio to her own signature theme music. She lives in the therapist's office sometimes and follows 'Harry Potter rules' for apparition.
+- **[1:30:28]** ([[episodes/2026-06-08|2026-06-08]]): Walks through studio to her own signature theme music; mother celebrated on-air for birthday.
+- **[1:14:34]** ([[episodes/2026-06-03|2026-06-03]]): Kendelle is Lead Anchor Case Blackwell's girlfriend and on-air contributor who walks through the studio to her own signature theme music.
+- **[13:25]** ([[episodes/2025-06-07|2025-06-07]]): Kendelle's birthday June 13th (celebrated mid-June)
+- ([[episodes/2025-06-07|2025-06-07]]): Kendelle's sister no longer hates Case; neighbor CIA incident resolved via Case's cordial text strategy [40:02, 43:18]
+- **[3:11:42]** ([[episodes/2025-06-24|2025-06-24]]): Computer repair dilemma: $150/hr in-house service needed; Case plans to take it in while she's at the office.
+- **[1:07:17]** ([[episodes/2023-11-23|2023-11-23]]): Worked at Disneyland as R2-D2 character; knows parade dances from the park.
+- **[11:44]** ([[episodes/2023-12-02|2023-12-02]]): Making Grinch ornaments from Universal Studios Whoville performers; ornaments for 'friendship justified by content.'
+- **[7:26]** ([[episodes/2023-12-12|2023-12-12]]): Works marketing/social media marketing job requiring 4 PM office attendance; refers to chat as her 'sports reporters.'
+- **[3:00:52]** ([[episodes/2023-12-15|2023-12-15]]): Joined the Lethal Company session as 'Kendall', died repeatedly to brackens, bees, and fall damage, and was teased for 'candle' moves (accidental self-sabotage).
+- **[2:17:00]** ([[episodes/2023-12-16|2023-12-16]]): May appear Sunday for Grunch Miss Beyblade stream; agreed to 'fucks list' participation.
+- **[15:48]** ([[episodes/2023-12-19|2023-12-19]]): Reports waking up at 9 p.m. and adjusting to night-time lighting setup.
 - **[16:08]** ([[episodes/2023-12-29|2023-12-29]]): Kendelle reveals her mother's pug gave birth at 10 months old, impregnated by its biological father, and accidentally smothered a puppy.
-- **[[07:39]]** ([[episodes/2024-01-04|2024-01-04]]): Gifted Blackwell a foot massager for Christmas; operates as in-studio co-pilot during extended gaming broadcasts.
-- **[]** ([[episodes/2024-01-05|2024-01-05]]): Has a dedicated 'noups room' (news + naps) in the studio where she sleeps during broadcasts. [14:48]
-- **[01:48:03]** ([[episodes/2024-01-05|2024-01-05]]): [01:48:03] Cannot get cat until March due to housing delay; currently in crowded temporary apartment.
-- **[30:06]** ([[episodes/2024-01-12|2024-01-12]]): Confirms she and Case use spray-paint dots above doors for exits and to the side for dead ends as a navigation system. [30:06]
-- **[03:21:31]** ([[episodes/2024-01-20|2024-01-20]]): Participated for the full duration as Case's primary co-op partner across all custom maps [03:21:31].
-- **[01:04:11]** ([[episodes/2024-01-27|2024-01-27]]): Streaming on Pixel Circus channel during this broadcast; Case planned to raid and rate her stream.
-- **[[23:46]]** ([[episodes/2024-02-01|2024-02-01]]): Getting tattoo removed from back; requires ointment application.
-- **[24:53]** ([[episodes/2024-02-02|2024-02-02]]): [24:53] Kendall works in marketing and believes 'cream team' name damages SEO; suggests spelling 'creme' or rebranding to 'show bobas'.
+- **[7:39]** ([[episodes/2024-01-04|2024-01-04]]): Gifted Blackwell a foot massager for Christmas; operates as in-studio co-pilot during extended gaming broadcasts.
+- **[14:48]** ([[episodes/2024-01-05|2024-01-05]]): Has a dedicated 'noups room' (news + naps) in the studio where she sleeps during broadcasts.
+- **[1:48:03]** ([[episodes/2024-01-05|2024-01-05]]): Cannot get cat until March due to housing delay; currently in crowded temporary apartment.
+- **[30:06]** ([[episodes/2024-01-12|2024-01-12]]): Confirms she and Case use spray-paint dots above doors for exits and to the side for dead ends as a navigation system.
+- **[3:21:31]** ([[episodes/2024-01-20|2024-01-20]]): Participated for the full duration as Case's primary co-op partner across all custom maps.
+- **[1:04:11]** ([[episodes/2024-01-27|2024-01-27]]): Streaming on Pixel Circus channel during this broadcast; Case planned to raid and rate her stream.
+- **[23:46]** ([[episodes/2024-02-01|2024-02-01]]): Getting tattoo removed from back; requires ointment application.
+- **[24:53]** ([[episodes/2024-02-02|2024-02-02]]): Kendall works in marketing and believes 'cream team' name damages SEO; suggests spelling 'creme' or rebranding to 'show bobas'.
 - **[2:23:42]** ([[episodes/2024-02-15|2024-02-15]]): Joined DJ Newsic segment from roof to recount Valentine's dinner service failures and near-proposal moment.
-- **[]** ([[episodes/2024-02-16|2024-02-16]]): Purchased strawberry slime from Disneyland Chinese New Year festival for $14 base + $13 trinkets = $27 total [01:17:48].
+- **[1:17:48]** ([[episodes/2024-02-16|2024-02-16]]): Purchased strawberry slime from Disneyland Chinese New Year festival for $14 base + $13 trinkets = $27 total.
 - **[40:35]** ([[episodes/2024-03-18|2024-03-18]]): Kendelle confirms she has a copper coil IUD.
-- **[]** ([[episodes/2024-03-29|2024-03-29]]): Kendelle holds CIA clearance for studio access and generates revenue via kinetic movement. [1:25:16]
-- **[[33:11]]** ([[episodes/2024-04-23|2024-04-23]]): Survived two near-fatal LA traffic incidents in one commute: first a lane-swerve into adjacent traffic, second a van turning left then crossing straight into her lane.
-- **[1:46:34]** ([[episodes/2024-04-29|2024-04-29]]): Launching Milf Manor season 2 community watch podcast on Pixel Circus discord with Sage Ryan [1:46:34].
-- **[]** ([[episodes/2024-05-09|2024-05-09]]): Kendelle maintains strict separation between her workplace and the broadcast, refuses Twitter cross-posting [03:03:22]
-- **[]** ([[episodes/2024-05-09|2024-05-09]]): Kendelle implemented a multi-step Korean skincare routine for Case including La Roche-Posay cleanser, Dr. Jart serum, caffeine eye cream, and Korean sunscreen [03:35:19]
-- **[]** ([[episodes/2024-05-10|2024-05-10]]): Making salmon in rice cooker (skin on); named cat Catito via chat. [01:42:39] [01:28:45]
-- **[[23:22]]** ([[episodes/2024-06-12|2024-06-12]]): Attended an Itzy concert (Itzy minus one) and acquired tour merchandise.
-- **[[01:26:57]]** ([[episodes/2024-06-12|2024-06-12]]): Dislikes Bluetooth earbuds (Bose ear clip model) due to latency issues for editing and work use.
-- **[[01:32:05]]** ([[episodes/2024-06-12|2024-06-12]]): Birthday week coincides with Case's birthday week, described as a 'double birthday week'.
-- **[[43:29]]** ([[episodes/2024-07-09|2024-07-09]]): Has a wikiFeet page created by an unknown party (chat suspects Eldrick); page features a single photo from Instagram showing her foot tattoo.
-- **[[1:22:53]]** ([[episodes/2024-07-09|2024-07-09]]): Owns a Charlie Pellet (NYC subway voice) sound pellet.
+- **[1:25:16]** ([[episodes/2024-03-29|2024-03-29]]): Kendelle holds CIA clearance for studio access and generates revenue via kinetic movement.
+- **[33:11]** ([[episodes/2024-04-23|2024-04-23]]): Survived two near-fatal LA traffic incidents in one commute: first a lane-swerve into adjacent traffic, second a van turning left then crossing straight into her lane.
+- **[1:46:34]** ([[episodes/2024-04-29|2024-04-29]]): Launching Milf Manor season 2 community watch podcast on Pixel Circus discord with Sage Ryan.
+- **[3:03:22]** ([[episodes/2024-05-09|2024-05-09]]): Kendelle maintains strict separation between her workplace and the broadcast, refuses Twitter cross-posting
+- **[3:35:19]** ([[episodes/2024-05-09|2024-05-09]]): Kendelle implemented a multi-step Korean skincare routine for Case including La Roche-Posay cleanser, Dr. Jart serum, caffeine eye cream, and Korean sunscreen
+- **[1:42:39]** ([[episodes/2024-05-10|2024-05-10]]): Making salmon in rice cooker (skin on); named cat Catito via chat. [01:28:45]
+- **[23:22]** ([[episodes/2024-06-12|2024-06-12]]): Attended an Itzy concert (Itzy minus one) and acquired tour merchandise.
+- **[1:26:57]** ([[episodes/2024-06-12|2024-06-12]]): Dislikes Bluetooth earbuds (Bose ear clip model) due to latency issues for editing and work use.
+- **[1:32:05]** ([[episodes/2024-06-12|2024-06-12]]): Birthday week coincides with Case's birthday week, described as a 'double birthday week'.
+- **[43:29]** ([[episodes/2024-07-09|2024-07-09]]): Has a wikiFeet page created by an unknown party (chat suspects Eldrick); page features a single photo from Instagram showing her foot tattoo.
+- **[1:22:53]** ([[episodes/2024-07-09|2024-07-09]]): Owns a Charlie Pellet (NYC subway voice) sound pellet.
 - **[11:07]** ([[episodes/2024-08-07|2024-08-07]]): Kendelle attempts pogo stick in studio, achieves ~8.78 bounces
-- **[[22:28]]** ([[episodes/2024-08-13|2024-08-13]]): Has a girlfriend who accompanied her to the studio.
-- **[[23:10]]** ([[episodes/2024-08-13|2024-08-13]]): Uses her brother's Netflix account for streaming.
-- **[[02:14:31]]** ([[episodes/2024-09-11|2024-09-11]]): Reports Bachelorette contestant Devin broke engagement via phone; ex-fiancé leaked explicit texts including 'can't wait for your mouth to be on my titties.'
-- **[[1:43:54]]** ([[episodes/2024-09-17|2024-09-17]]): Open to one child (up from zero).
-- **[10:03]** ([[episodes/2024-10-02|2024-10-02]]): Got a tattoo at a Jack in the Box event; wears handmade Case Blackwell merch. [10:03]
+- **[22:28]** ([[episodes/2024-08-13|2024-08-13]]): Has a girlfriend who accompanied her to the studio.
+- **[23:10]** ([[episodes/2024-08-13|2024-08-13]]): Uses her brother's Netflix account for streaming.
+- **[2:14:31]** ([[episodes/2024-09-11|2024-09-11]]): Reports Bachelorette contestant Devin broke engagement via phone; ex-fiancé leaked explicit texts including 'can't wait for your mouth to be on my titties.'
+- **[1:43:54]** ([[episodes/2024-09-17|2024-09-17]]): Open to one child (up from zero).
+- **[10:03]** ([[episodes/2024-10-02|2024-10-02]]): Got a tattoo at a Jack in the Box event; wears handmade Case Blackwell merch.
 - **[16:35]** ([[episodes/2024-10-10|2024-10-10]]): Kendelle confirmed dead/missing; will appear as ghost for Saturday Rennerton election.
-- **[[59:07]]** ([[episodes/2024-10-23|2024-10-23]]): Age confirmed as 30; birthday invite theme was '13 Going on 30'.
-- **[01:15:55]** ([[episodes/2025-01-06|2025-01-06]]): Pushed for adopting both bonded cats; fed/trapped cats during dishwasher installation; has video of handling Ms. Zorro on Instagram.
-- **[02:06:52]** ([[episodes/2025-01-15|2025-01-15]]): Still has unpacked boxes; sex toys under lock and key in dustiest cabinet; Puffy Bear not yet rescued. [02:06:52]
-- **[29:26]** ([[episodes/2025-01-17|2025-01-17]]): [29:26] Kendall mad at Case all day over a dream where he left her at a 'sexy VIP section' rave with their cats for 20 friends.
-- **[]** ([[episodes/2025-01-29|2025-01-29]]): Freelance video editor and cooperative gaming partner (Marvel Rivals); co-host for joint podcast/self-improvement projects. [11:19]
-- **[[01:00:19]]** ([[episodes/2025-01-31|2025-01-31]]): Coordinating Bubble Ghost stream with Trent Saturday morning; Marvel Rivals session after appointment.
-- **[]** ([[episodes/2025-03-17|2025-03-17]]): Entrance accompanied by dedicated signature theme music cued by Case. [34:30]
-- **[]** ([[episodes/2025-03-19|2025-03-19]]): Has officially quit her day job with two weeks' notice; exploring freelance/streaming full-time. [1:02:50]
-- **[]** ([[episodes/2025-04-03|2025-04-03]]): Kendelle's streaming assets and overlay setup are still incomplete, delaying her solo streams. [00:33:21]
-- **[3:25:41]** ([[episodes/2025-04-05|2025-04-05]]): Workstation suffers repeated crashes and a dead middle monitor; Case commits to fixing it over the weekend. [3:25:41]
-- **[01:37:28]** ([[episodes/2025-04-14|2025-04-14]]): TurboTax paid $60,000 for 10-second hologram ad; ad algorithmically framed her as 'Trump Voter Amid Tariffs' despite voting for Harris.
-- **[]** ([[episodes/2025-04-23|2025-04-23]]): Kendelle has dedicated theme music cued by Case when she enters [1:50:06]
-- **[[01:37:12]]** ([[episodes/2025-04-25|2025-04-25]]): Has a new job (undisclosed) and is completing W2 paperwork; Case built her streaming PC but she reports ongoing camera issues.
-- **[]** ([[episodes/2025-05-01|2025-05-01]]): In Boston leaving tomorrow; movie at 7 PM (Case thought 8 PM) [1:51:10, 1:57:28]
-- **[01:58:15]** ([[episodes/2025-05-02|2025-05-02]]): Family moved from New York due to 9/11; prefers NY Chinese food; acts as Case's 'influencer manager' for content monetization.
-- **[[113:36]]** ([[episodes/2025-05-21|2025-05-21]]): Confirmed as Case's girlfriend on air during phone call.
+- **[59:07]** ([[episodes/2024-10-23|2024-10-23]]): Age confirmed as 30; birthday invite theme was '13 Going on 30'.
+- **[1:15:55]** ([[episodes/2025-01-06|2025-01-06]]): Pushed for adopting both bonded cats; fed/trapped cats during dishwasher installation; has video of handling Ms. Zorro on Instagram.
+- **[2:06:52]** ([[episodes/2025-01-15|2025-01-15]]): Still has unpacked boxes; sex toys under lock and key in dustiest cabinet; Puffy Bear not yet rescued.
+- **[29:26]** ([[episodes/2025-01-17|2025-01-17]]): Kendall mad at Case all day over a dream where he left her at a 'sexy VIP section' rave with their cats for 20 friends.
+- **[11:19]** ([[episodes/2025-01-29|2025-01-29]]): Freelance video editor and cooperative gaming partner (Marvel Rivals); co-host for joint podcast/self-improvement projects.
+- **[1:00:19]** ([[episodes/2025-01-31|2025-01-31]]): Coordinating Bubble Ghost stream with Trent Saturday morning; Marvel Rivals session after appointment.
+- **[34:30]** ([[episodes/2025-03-17|2025-03-17]]): Entrance accompanied by dedicated signature theme music cued by Case.
+- **[1:02:50]** ([[episodes/2025-03-19|2025-03-19]]): Has officially quit her day job with two weeks' notice; exploring freelance/streaming full-time.
+- **[0:33:21]** ([[episodes/2025-04-03|2025-04-03]]): Kendelle's streaming assets and overlay setup are still incomplete, delaying her solo streams.
+- **[3:25:41]** ([[episodes/2025-04-05|2025-04-05]]): Workstation suffers repeated crashes and a dead middle monitor; Case commits to fixing it over the weekend.
+- **[1:37:28]** ([[episodes/2025-04-14|2025-04-14]]): TurboTax paid $60,000 for 10-second hologram ad; ad algorithmically framed her as 'Trump Voter Amid Tariffs' despite voting for Harris.
+- **[1:50:06]** ([[episodes/2025-04-23|2025-04-23]]): Kendelle has dedicated theme music cued by Case when she enters
+- **[1:37:12]** ([[episodes/2025-04-25|2025-04-25]]): Has a new job (undisclosed) and is completing W2 paperwork; Case built her streaming PC but she reports ongoing camera issues.
+- ([[episodes/2025-05-01|2025-05-01]]): In Boston leaving tomorrow; movie at 7 PM (Case thought 8 PM) [1:51:10, 1:57:28]
+- **[1:58:15]** ([[episodes/2025-05-02|2025-05-02]]): Family moved from New York due to 9/11; prefers NY Chinese food; acts as Case's 'influencer manager' for content monetization.
+- **[1:53:36]** ([[episodes/2025-05-21|2025-05-21]]): Confirmed as Case's girlfriend on air during phone call.
 - **[32:48]** ([[episodes/2025-05-28|2025-05-28]]): Kendelle declined appearance due to D&D social engagement.
-- **[[39:22]]** ([[episodes/2025-05-30|2025-05-30]]): Produces how-to dance content (minimus, Mickey Mouse pose) under the 'How To' branding while Jeb is absent.
-- **[]** ([[episodes/2025-06-05|2025-06-05]]): [2:17:25] Lives with Case; works late; orders Hawaiian food and Bark's root beer via Postmates.
-- **[]** ([[episodes/2025-07-10|2025-07-10]]): Kendelle's preferred Thai spot is 'Thai Me Up'; orders pho-adjacent milk drink that 'poisons' her [1:32:20]
+- **[39:22]** ([[episodes/2025-05-30|2025-05-30]]): Produces how-to dance content (minimus, Mickey Mouse pose) under the 'How To' branding while Jeb is absent.
+- **[2:17:25]** ([[episodes/2025-06-05|2025-06-05]]): Lives with Case; works late; orders Hawaiian food and Bark's root beer via Postmates.
+- **[1:32:20]** ([[episodes/2025-07-10|2025-07-10]]): Kendelle's preferred Thai spot is 'Thai Me Up'; orders pho-adjacent milk drink that 'poisons' her
 - **[29:26]** ([[episodes/2025-07-12|2025-07-12]]): Confirmed as only person with firing authority at BIN ('The winner is Kendall. Only Kendall can fire people.').
-- **[[20:31]]** ([[episodes/2025-07-15|2025-07-15]]): Attended Blackpink concert with Case; Bruno Mars made surprise guest appearance.
-- **[01:19:24]** ([[episodes/2025-08-21|2025-08-21]]): First day of kindergarten tomorrow.
-- **[[02:18:02]]** ([[episodes/2025-09-13|2025-09-13]]): Produces OOTD/fit-check videos; friends are Universal Studios performers (street sweep dancers, NY cop bit, Snowball puppeteer).
-- **[]** ([[episodes/2025-10-04|2025-10-04]]): Competed as Crum's Beyblade second (Team Blue), winning majority of early matches before Munch took over ripping duties. [2:04:47]
+- **[20:31]** ([[episodes/2025-07-15|2025-07-15]]): Attended Blackpink concert with Case; Bruno Mars made surprise guest appearance.
+- **[1:19:24]** ([[episodes/2025-08-21|2025-08-21]]): First day of kindergarten tomorrow.
+- **[2:18:02]** ([[episodes/2025-09-13|2025-09-13]]): Produces OOTD/fit-check videos; friends are Universal Studios performers (street sweep dancers, NY cop bit, Snowball puppeteer).
+- **[2:04:47]** ([[episodes/2025-10-04|2025-10-04]]): Competed as Crum's Beyblade second (Team Blue), winning majority of early matches before Munch took over ripping duties.
 - **[34:37]** ([[episodes/2025-10-10|2025-10-10]]): Kendelle confirmed for Chicago Sketch Fest performance November 8 at 7:30 PM (The Unseen Sketches of Kids in the Hall with Kevin McDonald).
-- **[1:50:34]** ([[episodes/2025-10-16|2025-10-16]]): Actively clipping cat nails (Miss Zorro) with Case's assistance; seeking Disney social media contacts. [1:50:34, 1:50:56]
-- **[]** ([[episodes/2025-10-31|2025-10-31]]): [22:53] Kendall and Case will wear Pink Panther and Inspector Clouseau couples costumes for Halloween 2025.
-- **[[01:56:57]]** ([[episodes/2025-11-13|2025-11-13]]): Returns home in tiger vest; advises 'don't use the n-word at work' as sign-off.
-- **[]** ([[episodes/2025-12-04|2025-12-04]]): Kendelle's Waffle Press Podcast appearance was screened on air. [11:54]
-- **[[41:36]]** ([[episodes/2025-12-06|2025-12-06]]): Has been sick with cough, didn't sleep for two nights, took 90-minute nap before stream.
-- **[[43:02]]** ([[episodes/2025-12-06|2025-12-06]]): Lactose intolerant; lactase supplements don't work for her; gets bloated and bathroom issues from dairy.
-- **[30:58]** ([[episodes/2025-12-13|2025-12-13]]): [30:58] Kendelle returned from Philadelphia; claims it wasn't that cold despite family disagreement.
-- **[[01:22:22]]** ([[episodes/2025-12-18|2025-12-18]]): Has a 'hole as my big toe' (mole-like) preventing open-toe shoes; appears as 'ghost Kendall' during song production.
+- **[1:50:34]** ([[episodes/2025-10-16|2025-10-16]]): Actively clipping cat nails (Miss Zorro) with Case's assistance; seeking Disney social media contacts.
+- **[22:53]** ([[episodes/2025-10-31|2025-10-31]]): Kendall and Case will wear Pink Panther and Inspector Clouseau couples costumes for Halloween 2025.
+- **[1:56:57]** ([[episodes/2025-11-13|2025-11-13]]): Returns home in tiger vest; advises 'don't use the n-word at work' as sign-off.
+- **[11:54]** ([[episodes/2025-12-04|2025-12-04]]): Kendelle's Waffle Press Podcast appearance was screened on air.
+- **[41:36]** ([[episodes/2025-12-06|2025-12-06]]): Has been sick with cough, didn't sleep for two nights, took 90-minute nap before stream.
+- **[43:02]** ([[episodes/2025-12-06|2025-12-06]]): Lactose intolerant; lactase supplements don't work for her; gets bloated and bathroom issues from dairy.
+- **[30:58]** ([[episodes/2025-12-13|2025-12-13]]): Kendelle returned from Philadelphia; claims it wasn't that cold despite family disagreement.
+- **[1:22:22]** ([[episodes/2025-12-18|2025-12-18]]): Has a 'hole as my big toe' (mole-like) preventing open-toe shoes; appears as 'ghost Kendall' during song production.
 - **[1:28:38]** ([[episodes/2026-02-12|2026-02-12]]): Visited studio with brother Jiggy (Justin) to model Adidas Taekwondo shoes ('ballet sneakers'); threatened chat over criticism.
-- **[]** ([[episodes/2026-02-19|2026-02-19]]): [11:09] On record disliking Case without beard; Case hid shave from her until stream.
-- **[[27:32]]** ([[episodes/2026-03-19|2026-03-19]]): Owns a dog she brings to the studio; the dog eats chips neatly off the floor.
-- **[55:54]** ([[episodes/2026-03-24|2026-03-24]]): Studio AC shuts off at 6 PM, forcing all staff to leave by 6:30 PM [55:54].
-- **[]** ([[episodes/2025-10-27|2025-10-27]]): Kendelle is a bridesmaid in an upcoming wedding (dress revealed on stream) [1:49:46]
-- **[[01:06:49]]** ([[episodes/2025-12-09|2025-12-09]]): Currently out of town; requested live AI haircut simulation for bob style.
-- **[01:20:25]** ([[episodes/2026-04-17|2026-04-17]]): Seeking paid website designer for boutique Wix site; chat candidates include Starship Operator and Exterminator 13. [01:20:25]
-- **[01:30:15]** ([[episodes/2026-05-01|2026-05-01]]): Received matching temporary Matt tattoo on forearm at 01:30:15; application completed in seconds using sponge method.
+- **[11:09]** ([[episodes/2026-02-19|2026-02-19]]): On record disliking Case without beard; Case hid shave from her until stream.
+- **[27:32]** ([[episodes/2026-03-19|2026-03-19]]): Owns a dog she brings to the studio; the dog eats chips neatly off the floor.
+- **[55:54]** ([[episodes/2026-03-24|2026-03-24]]): Studio AC shuts off at 6 PM, forcing all staff to leave by 6:30 PM.
+- **[1:49:46]** ([[episodes/2025-10-27|2025-10-27]]): Kendelle is a bridesmaid in an upcoming wedding (dress revealed on stream)
+- **[1:06:49]** ([[episodes/2025-12-09|2025-12-09]]): Currently out of town; requested live AI haircut simulation for bob style.
+- **[1:20:25]** ([[episodes/2026-04-17|2026-04-17]]): Seeking paid website designer for boutique Wix site; chat candidates include Starship Operator and Exterminator 13.
+- **[1:30:15]** ([[episodes/2026-05-01|2026-05-01]]): Received matching temporary Matt tattoo on forearm at 01:30:15; application completed in seconds using sponge method.

@@ -29,4 +29,4 @@ As Blackwell struggled to maintain journalistic order over the studio lines, the
 
 ## Notable moments
 
-- **[01:27:44]** ([[episodes/2026-09-01|2026-09-01]]): Phones into the newsroom live feed claiming he assassinated Tupac with "a bigger banana peel," boasts of a genealogical link to Luigi, and takes credit for JFK before being cut off.
+- **[1:27:44]** ([[episodes/2026-09-01|2026-09-01]]): Phones into the newsroom live feed claiming he assassinated Tupac with "a bigger banana peel," boasts of a genealogical link to Luigi, and takes credit for JFK before being cut off.

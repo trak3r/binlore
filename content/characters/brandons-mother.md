@@ -49,4 +49,4 @@ See also: [[characters/cryptozeus|Brandon (CryptoZeu$)]], [[../segments/cryptoze
 
 ## Notable moments
 
-- **[01:48:41]** ([[episodes/2026-06-22|2026-06-22]]): Brandon's Mother makes her presence known entirely via muffled screaming through the drywall during his gaming segments, frequently interrupting with demands for food, commentary on his gameplay, and references to Gooters chicken.
+- **[1:48:41]** ([[episodes/2026-06-22|2026-06-22]]): Brandon's Mother makes her presence known entirely via muffled screaming through the drywall during his gaming segments, frequently interrupting with demands for food, commentary on his gameplay, and references to Gooters chicken.

@@ -47,10 +47,10 @@ On the [[episodes/2026-08-26|2026-08-26 broadcast]], he was summoned after viewe
 
 ## Notable moments
 
-- **[00:00]** ([[episodes/2024-05-30|2024-05-30]]): Early Little Tommy Big Law analysis of Trump's conviction — punished for not saying sorry; bills $1000/minute.
-- **[01:35:20]** ([[episodes/2026-08-26|2026-08-26]]): Arrives complaining he lacked time to shave; billable minutes accruing.
-- **[01:35:54]** ([[episodes/2026-08-26|2026-08-26]]): Unveils "Big Tommy Prosecutor," prosecuting Blackwell live.
-- **[01:37:04]** ([[episodes/2026-08-26|2026-08-26]]): Tallies 16 broken "was" at $2,500 apiece; demands $40,000 wire before going for "big milk."
+- **[0:00]** ([[episodes/2024-05-30|2024-05-30]]): Early Little Tommy Big Law analysis of Trump's conviction — punished for not saying sorry; bills $1000/minute.
+- **[1:35:20]** ([[episodes/2026-08-26|2026-08-26]]): Arrives complaining he lacked time to shave; billable minutes accruing.
+- **[1:35:54]** ([[episodes/2026-08-26|2026-08-26]]): Unveils "Big Tommy Prosecutor," prosecuting Blackwell live.
+- **[1:37:04]** ([[episodes/2026-08-26|2026-08-26]]): Tallies 16 broken "was" at $2,500 apiece; demands $40,000 wire before going for "big milk."
 
 ## Open questions
 

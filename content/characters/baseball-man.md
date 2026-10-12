@@ -31,4 +31,4 @@ Communicating exclusively in what he termed "the language of baseball," the bewi
 
 ## Notable Moments
 
-- **[01:12:00]** ([[episodes/2026-07-16|2026-07-16]]): Perplexes Case Blackwell by refusing all standard interview prompts, declaring Blackwell to be a baseball before soaring off the broadcast feed.
+- **[1:12:00]** ([[episodes/2026-07-16|2026-07-16]]): Perplexes Case Blackwell by refusing all standard interview prompts, declaring Blackwell to be a baseball before soaring off the broadcast feed.

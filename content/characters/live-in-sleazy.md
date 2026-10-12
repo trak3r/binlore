@@ -41,8 +41,8 @@ Beyond technical assistance with search engine setups, stream widgets, and digit
 
 ## Notable moments
 
-- **[01:06:45]** ([[episodes/2026-07-17|2026-07-17]]): Located the decommissioned Rooney 1.0 Knot Prime model, allowing Case and Chet to inspect the residual code before the model drained two lakes of water.
-- **[01:11:54]** ([[episodes/2026-06-29|2026-06-29]]): Recognized during the viral clip review for submitting high-ranking community content alongside fellow chat veterans.
+- **[1:06:45]** ([[episodes/2026-07-17|2026-07-17]]): Located the decommissioned Rooney 1.0 Knot Prime model, allowing Case and Chet to inspect the residual code before the model drained two lakes of water.
+- **[1:11:54]** ([[episodes/2026-06-29|2026-06-29]]): Recognized during the viral clip review for submitting high-ranking community content alongside fellow chat veterans.
 
 See also: [[case-blackwell|Case Blackwell]], [[characters/ai-rooney|AI Rooney]], [[index|On-Air Talent]].
 
