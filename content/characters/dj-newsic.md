@@ -98,5 +98,6 @@ See also: [[../segments/dj-newsic|DJ Newsic (Segment)]], [[characters/dj-c4|DJ C
 
 ## Notable moments
 
-- **[2:02:08]** ([[episodes/2024-01-05|2024-01-05]]): Debuts Kirby the Ninja Turtle character who endorses Splinter for president and all Supreme Court seats.
+
 - **[2:27:05]** ([[episodes/2025-01-29|2025-01-29]]): Auto-tune broken during finale, performing raw unfiltered vocals.
+- **[2:02:08]** ([[episodes/2024-01-05|2024-01-05]]): Debuts Kirby the Ninja Turtle character who endorses Splinter for president and all Supreme Court seats.

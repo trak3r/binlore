@@ -134,6 +134,196 @@ def format_character_moment_bullet(ts: str, ep_slug: str, fact: str) -> str:
     return f"- ([[episodes/{ep_slug}|{ep_slug}]]): {clean}"
 
 
+# Notable moments must be durable canon — not a per-episode trivia ledger.
+# Caps prefer recent high-signal beats; Appearances already records show presence.
+NOTABLE_MOMENT_CAPS: dict[str, int] = {
+    "case-blackwell": 25,
+    "crum": 25,
+    "pepito": 20,
+    "kendelle": 20,
+    "munch": 20,
+    "hype-train": 18,
+    "cryptozeus": 15,
+    "chet": 15,
+    "peter-gibbon": 15,
+    "jeb": 12,
+    "chet-ai": 12,
+    "ai-rooney": 12,
+    "trip-bradstein": 12,
+}
+DEFAULT_NOTABLE_CAP = 10
+
+_NOTABLE_KEEP_RE = re.compile(
+    r"\b("
+    r"reveal(?:s|ed)?|debut(?:s|ed)?|first (?:seen|appear|appearance|broadcast|on[- ]air|named)|"
+    r"marri(?:es|ed|age)|divor(?:ce|ced)|wed(?:ding)?|spouse|wife|husband|"
+    r"dies?\b|death|resurrect|killed|fir(?:ed|ing)|hir(?:ed|ing)|quit|resign|"
+    r"identity|canon(?:ical)?|confess(?:es|ed)?|admits?|admission|birth(?:day)?|"
+    r"contract|debt|wager|bets?\b|execution|punch(?:ed|ing)?|gorilla|"
+    r"\bhell\b|\bwall\b|alias|renamed?|real name|full name|"
+    r"finale|season\s*\d|returns? from|leaves? (?:the )?(?:network|show|desk)|"
+    r"transform(?:s|ed|ation)|surgery|injur(?:y|ed)|"
+    r"promot(?:ed|ion)|demot(?:ed|ion)|"
+    r"pregnant|(?:his|her|their) (?:son|daughter|father|mother|wife|husband)\b|"
+    r"lawsuit|arrest|trial|testif(?:y|ies|ied)|"
+    r"permanent|standing|ongoing"
+    r")\b",
+    re.I,
+)
+
+_NOTABLE_DROP_RE = re.compile(
+    r"("
+    r"anchors? the (?:broadcast|show|episode|news|finale)|"
+    r"opens? the (?:broadcast|show|episode)|cold[- ]open|sign[- ]on|"
+    r"raids? (?:to|out|onto)\b|"
+    r"\bmentions?\b|\breferences?\b|\bplugs?\b|\bthanks?\b|"
+    r"reads? (?:the )?news|subscriber|hype train|"
+    r"seeks? (?:pre-built|recommendations)|"
+    r"considers? (?:bringing|going|attending)|expressed desire|"
+    r"working on|in transit|banters?\b|jokes?\b about|"
+    r"fielding (?:the )?broadcast|presides over"
+    r")",
+    re.I,
+)
+
+_MOMENT_EP_DATE_RE = re.compile(r"\[\[(?:\.\./)?episodes/(\d{4}-\d{2}-\d{2})")
+_MOMENT_TS_RE = re.compile(r"\*\*\[([^\]]*)\]\*\*")
+_MOMENT_BULLET_RE = re.compile(r"^\s*-\s+")
+
+
+def notable_moment_cap(slug: str) -> int:
+    return NOTABLE_MOMENT_CAPS.get(slug, DEFAULT_NOTABLE_CAP)
+
+
+def score_notable_moment(fact: str) -> int:
+    """Higher = more wiki-worthy. Negative = reject."""
+    text = (fact or "").strip()
+    if len(text) < 20:
+        return -1
+    keep = bool(_NOTABLE_KEEP_RE.search(text))
+    drop = bool(_NOTABLE_DROP_RE.search(text))
+    if drop and not keep:
+        return -1
+    if keep:
+        return 3
+    # Ambiguous short one-offs: weak keep (cap will drop them on busy pages)
+    return 1
+
+
+def is_notable_moment(fact: str) -> bool:
+    return score_notable_moment(fact) > 0
+
+
+def _moment_bullet_date(bullet: str) -> str:
+    m = _MOMENT_EP_DATE_RE.search(bullet)
+    return m.group(1) if m else "0000-00-00"
+
+
+def _moment_bullet_fact(bullet: str) -> str:
+    """Extract fact text after the episode link / colon."""
+    m = re.search(r"\]\):\s*(.*)$", bullet.strip())
+    if m:
+        return m.group(1).strip()
+    # Fallback: strip leading timestamp markup
+    return re.sub(r"^\s*-\s*(?:\*\*\[[^\]]*\]\*\*\s*)?(?:\([^)]*\)\s*:?\s*)?", "", bullet).strip()
+
+
+def select_notable_moment_bullets(bullets: list[str], slug: str) -> list[str]:
+    """Filter + cap notable-moment bullets (newest high-signal first, returned date-desc)."""
+    scored: list[tuple[int, str, str, str]] = []  # score, date, dedupe_key, bullet
+    for bullet in bullets:
+        fact = _moment_bullet_fact(bullet)
+        score = score_notable_moment(fact)
+        if score < 0:
+            continue
+        date = _moment_bullet_date(bullet)
+        ts_m = _MOMENT_TS_RE.search(bullet)
+        ts = ts_m.group(1) if ts_m else ""
+        # Collapse near-duplicates from the same episode beat
+        key = f"{date}|{ts}|{fact[:48].lower()}"
+        scored.append((score, date, key, bullet.rstrip()))
+
+    # Prefer higher score, then longer bullet, then more recent date
+    scored.sort(key=lambda t: (t[0], len(t[3]), t[1]), reverse=True)
+    seen: set[str] = set()
+    deduped: list[tuple[int, str, str]] = []
+    for score, date, key, bullet in scored:
+        # Also collapse same date+ts even if fact wording drifts
+        ts_m = _MOMENT_TS_RE.search(bullet)
+        ts = ts_m.group(1) if ts_m else ""
+        beat_key = f"{date}|{ts}" if ts else key
+        if beat_key in seen or key in seen:
+            continue
+        seen.add(beat_key)
+        seen.add(key)
+        deduped.append((score, date, bullet))
+
+    cap = notable_moment_cap(slug)
+    strong = [t for t in deduped if t[0] >= 3]
+    weak = [t for t in deduped if t[0] < 3]
+    kept = strong[:cap]
+    # Only backfill weak one-offs when the page would otherwise look empty
+    min_fill = min(cap, 6)
+    if len(kept) < min_fill:
+        kept.extend(weak[: min_fill - len(kept)])
+    kept.sort(key=lambda t: t[1], reverse=True)
+    return [b for _, _, b in kept]
+
+
+def select_notable_lore_facts(
+    lore_facts: list[tuple[str, str]],
+    slug: str,
+) -> list[tuple[str, str]]:
+    """Filter incoming extract lore before writing Notable moments."""
+    scored: list[tuple[int, str, str]] = []
+    for ts, fact in lore_facts:
+        score = score_notable_moment(fact)
+        if score < 0:
+            continue
+        scored.append((score, ts or "", fact))
+    scored.sort(key=lambda t: (t[0], t[1]), reverse=True)
+    # Quality gate only; section prune enforces the per-character cap across history
+    return [(ts, fact) for _, ts, fact in scored]
+
+
+def prune_notable_moments_text(section_text: str, slug: str) -> str:
+    """Rewrite a Notable moments section body to the filtered/capped bullet list."""
+    lines = section_text.splitlines()
+    bullets = [ln for ln in lines if _MOMENT_BULLET_RE.match(ln)]
+    other = [ln for ln in lines if not _MOMENT_BULLET_RE.match(ln) and ln.strip()]
+    # Preserve a blank lead-in; drop non-bullet prose that isn't a placeholder
+    kept = select_notable_moment_bullets(bullets, slug)
+    if not kept:
+        # Keep a single soft placeholder if everything was pruned
+        return "\nNothing durable on file yet.\n"
+    body = "\n".join(kept)
+    return f"\n{body}\n"
+
+
+def prune_character_notable_moments(file_path: Path, *, dry_run: bool = False) -> bool:
+    """Prune ## Notable moments on one character page. Returns True if changed."""
+    content = file_path.read_text(encoding="utf-8")
+    fm, body = _split_frontmatter_and_body(content)
+    heading = "## Notable moments"
+    if heading not in body:
+        if "## Notable Moments" in body:
+            heading = "## Notable Moments"
+        else:
+            return False
+    before, section, after = _extract_section(body, heading)
+    if not section.strip():
+        return False
+    pruned = prune_notable_moments_text(section, file_path.stem)
+    if pruned.strip() == section.strip():
+        return False
+    new_body = f"{before}\n{pruned}\n{after}"
+    # Normalize heading casing
+    new_body = new_body.replace("## Notable Moments\n", "## Notable moments\n", 1)
+    if not dry_run:
+        file_path.write_text(f"{fm}{new_body.strip()}\n", encoding="utf-8")
+    return True
+
+
 def _slugify(text: str) -> str:
     s = text.lower().replace("&", "and").replace("–", "-").replace("—", "-")
     s = "".join(c if c.isalnum() or c in " -" else "" for c in s)
@@ -639,8 +829,9 @@ def update_character_file(
             body = _splice_section(before_app, updated_app, after_app)
             modified = True
 
-    # 2. Update Notable moments
-    if lore_facts:
+    # 2. Update Notable moments (durable canon only; then prune to per-character cap)
+    notable_facts = select_notable_lore_facts(lore_facts, slug) if lore_facts else []
+    if notable_facts:
         before_mom, mom_text, after_mom = _extract_section(body, "## Notable moments")
         if not mom_text and "## Notable moments" not in body:
             if "## Open questions" in body:
@@ -651,13 +842,14 @@ def update_character_file(
             before_mom, mom_text, after_mom = _extract_section(body, "## Notable moments")
 
         updated_mom = mom_text
-        for ts, fact in lore_facts:
+        for ts, fact in notable_facts:
             fact_snip = fact[:35]
             bullet = format_character_moment_bullet(ts, ep_slug, fact)
             updated_mom = _append_bullet(updated_mom, bullet, dedupe_key=fact_snip)
 
-        if updated_mom != mom_text:
-            body = f"{before_mom}\n{updated_mom}\n{after_mom}"
+        pruned_mom = prune_notable_moments_text(updated_mom, slug)
+        if pruned_mom.strip() != mom_text.strip():
+            body = f"{before_mom}\n{pruned_mom}\n{after_mom}"
             modified = True
 
     if modified and not dry_run:
@@ -740,8 +932,9 @@ def create_character_page(
     )
     appearances_row = f"| [[episodes/{ep_slug}|{ep_slug}]] | {appearance_notes} |"
     notable_bullets: list[str] = []
-    for ts, fact in lore_facts:
+    for ts, fact in select_notable_lore_facts(lore_facts, slug):
         notable_bullets.append(format_character_moment_bullet(ts, ep_slug, fact))
+    notable_bullets = select_notable_moment_bullets(notable_bullets, slug)
 
     if not notable_bullets:
         notable_bullets.append(f"- First seen in [[episodes/{ep_slug}|Episode {ep_slug}]].")

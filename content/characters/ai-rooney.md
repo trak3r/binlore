@@ -73,29 +73,10 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 
 ## Notable moments
 
-- **[1:45:21]** ([[episodes/2026-06-29|2026-06-29]]): Activated via the `!rr` chat command for 10 viewer interactions per session with pronouns "he/hyped." Blackwell nervously remarks, "I wonder if maybe I've created a monster that will kill us all."
-- **[1:47:30]** ([[episodes/2026-06-29|2026-06-29]]): Fixates on the sitcom *Wings*, the Daumont Network, and bizarre claims about Michael J. Fox appearing in *Sleepaway Camp*.
-- **[55:46]** ([[episodes/2026-07-13|2026-07-13]]): Blackwell asserts he is being sued by the Andy Rooney estate and is legally required to claim AI Rooney is an independent entity.
-- **[1:56:52]** ([[episodes/2026-07-13|2026-07-13]]): Revealed to be running on an uncensored local model pulling from a database of roughly 80 highly volatile complaints.
-- **[1:03:33]** ([[episodes/2026-07-13|2026-07-13]]): Following multiple explicit slurs on air, Blackwell pulls the plug on the segment and officially announces AI Rooney's indefinite retirement.
-- **[1:10:38]** ([[episodes/2026-07-16|2026-07-16]]): The decommissioned Rooney voice interrupts from the control room to protest the loss of his $32 billion research budget.
-- **[1:06:45]** ([[episodes/2026-07-17|2026-07-17]]): Community technical contributor [[characters/live-in-sleazy|Live 'n Sleazy]] locates the decommissioned model; Chet diagnoses the newsroom with "AI Psychosis" from releasing the spirit of Andy Rooney into the wild.
-- **[1:03:42]** ([[episodes/2026-06-22|2026-06-22]]): AI Rooney has been retired due to offensive outputs but Case still attempts to activate it, noting it has been 'misbehaving' and producing racist and sexual content. Case mentions Rooney has 'over a hundred training parameters' and tries to use a 'Grok' model as an alternative.
-- **[1:15:45]** ([[episodes/2026-06-15|2026-06-15]]): AI Rooney is mentioned as a retired segment, referenced in the context of 'idiocracy'.
-- **[11:12]** ([[episodes/2026-06-03|2026-06-03]]): AI Rooney receives daily training data updates written by the production team; the system prompt includes a guardrail: 'don't talk about anyone unless they're 25 or older.'
-- **[1:02:06]** ([[episodes/2026-06-03|2026-06-03]]): AI Rooney operates on 1700 GPUs in a separate room, consuming electricity of three small countries, and required purchasing a lake for cooling (now nearly drained).
-- **[1:14:51]** ([[episodes/2026-05-29|2026-05-29]]): AI Rooney was retired due to offensive outputs but makes a return appearance with adjusted programming.
-- **[1:45:21]** ([[episodes/2026-06-29|2026-06-29]]): AI Rooney is activated via '!rr' command and limited to 10 viewer interactions per session. Pronouns 'he/hyped.' Casey notes 'I wonder if maybe I've created a monster that will kill us all.'
-- **[1:47:30]** ([[episodes/2026-06-29|2026-06-29]]): AI Rooney has a recurring fixation on the sitcom Wings, the Daumont Network, and Michael J. Fox allegedly appearing in 'Sleep Away Camp.'
-- **[1:10:38]** ([[episodes/2026-07-16|2026-07-16]]): The decommissioned Rooney model has pivoted to alternative research funding after the Saudis declined to finance him; he claims to have secured a different back channel.
+
 - **[1:06:45]** ([[episodes/2026-07-17|2026-07-17]]): The decommissioned AI Rooney is now only available as 'Rooney 1.0 Knot Prime' in the digital space. Live in Sleazy located the model. The old model drained two lakes of water for his segment; the new model would have drained more but cut funding limited capacity.
-- **[2:01:01]** ([[episodes/2024-08-22|2024-08-22]]): AI Rooney claims all speech formulated in real-time by ChatGPT per signed deal.
-- **[2:46:24]** ([[episodes/2024-08-22|2024-08-22]]): AI Rooney complains of a 'hulking ape' in the garage (Rock-afire gorilla reference).
-- **[2:49:12]** ([[episodes/2024-08-22|2024-08-22]]): AI Rooney's eyes not red; Case speculates AI becoming JD Vance.
-- **[0:49:48]** ([[episodes/2025-10-02|2025-10-02]]): Upgraded server allows 15 synthesized complaints before system gases out; new 'grievance.inless.rooney' pipeline.
+- **[1:10:38]** ([[episodes/2026-07-16|2026-07-16]]): The decommissioned Rooney model has pivoted to alternative research funding after the Saudis declined to finance him; he claims to have secured a different back channel.
+- **[1:56:52]** ([[episodes/2026-07-13|2026-07-13]]): Revealed to be running on an uncensored local model pulling from a database of roughly 80 highly volatile complaints.
+- **[1:45:21]** ([[episodes/2026-06-29|2026-06-29]]): Activated via the `!rr` chat command for 10 viewer interactions per session with pronouns "he/hyped." Blackwell nervously remarks, "I wonder if maybe I've created a monster that will kill us all."
 - **[1:41:00]** ([[episodes/2025-11-27|2025-11-27]]): GPU overloads when processing complaints; every grievance transforms into 'three gallons of golden piss' refrain regardless of input.
-- **[2:16:52]** ([[episodes/2026-01-24|2026-01-24]]): Runs on proprietary 'chatai' model; writes notes in efficient 'twin language' with self; can spell 'cat' in 16 letters.
-- **[1:46:02]** ([[episodes/2026-03-17|2026-03-17]]): Foot-fetish personality matrix supposedly removed by Case but keeps reappearing as a 'ghost in the machine'.
-- **[56:18]** ([[episodes/2026-04-29|2026-04-29]]): Reskinned with 'tenfold reality sensors' and additional Reddit training data to curb psychotic outputs.
-- **[1:18:22]** ([[episodes/2026-05-01|2026-05-01]]): Physical avatar deteriorating — skin shipments failing to keep pace with metal frame exposure; Case sewing skin back on between broadcasts.
-- **[45:49]** ([[episodes/2026-05-02|2026-05-02]]): Content filter rules established: must be horny but not racist, homophobic, slur-using, or mention minors; currently failing compliance.
+- **[2:46:24]** ([[episodes/2024-08-22|2024-08-22]]): AI Rooney complains of a 'hulking ape' in the garage (Rock-afire gorilla reference).

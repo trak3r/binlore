@@ -108,6 +108,7 @@ See also: [[case-blackwell|Case Blackwell]], [[../segments/news|News]], [[index|
 
 ## Notable moments
 
-- **[21:38]** ([[episodes/2026-07-16|2026-07-16]]): Case reveals Liliana is a 'big time international power broker' and her continued absence is attributed to others failing to 'update certain things.'
+
 - **[13:02]** ([[episodes/2026-08-14|2026-08-14]]): Liliana is a recurring in-studio contributor who returned after an extended absence. She announces she 'left and didn't plan on coming back' before coming back anyway.
+- **[21:38]** ([[episodes/2026-07-16|2026-07-16]]): Case reveals Liliana is a 'big time international power broker' and her continued absence is attributed to others failing to 'update certain things.'
 - **[2:48:07]** ([[episodes/2024-02-29|2024-02-29]]): Claims immortality, having dated Henry Kissinger, Munch, and Crum; identifies as German ('Brefing Schmidt').

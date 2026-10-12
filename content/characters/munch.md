@@ -231,88 +231,22 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 
 ## Notable moments
 
-- **[1:50:38]** ([[episodes/2026-09-07|2026-09-07]]): Incinerated by the explosive backfire of the Rock-afire mechanical gorilla during the climax of the Crum Dick Punch execution, transforming into an animated, talking skeleton.
-- **[1:52:38]** ([[episodes/2026-09-07|2026-09-07]]): Boasts of having superior bone structure as a skeleton and claims he is now immune to mortal racial boundaries because he has no skin.
-- **[1:15:02]** ([[episodes/2026-09-02|2026-09-02]]): Broadcasts the viewer-compiled dossier titled 'Reasons You Deserve to Get Your Dick Punched,' enumerating Crum's baldness, cowardice, unearned reputation, and arrogance.
-- **[1:21:58]** ([[episodes/2026-09-02|2026-09-02]]): Moderates the audience poll after the planned studio-guest-vs-[[kendelle|Kendelle]] prompt is hijacked by the Crum-penis-punch thread.
-- **[50:30]** ([[episodes/2026-09-01|2026-09-01]]): In a moment of vulnerability following a debate loss, solicits viewers to hold his welfare "in your spiritual hands."
-- **[1:27:28]** ([[episodes/2026-08-26|2026-08-26]]): Positions himself politically as a "triple X Vin Diesel" navigating skis through the jungle, demanding to be officially appointed "Mayor of the broadcast."
-- **[1:30:07]** ([[episodes/2026-08-26|2026-08-26]]): Invokes the legal doctrine of the "reverse pardon," claiming that Crum's procedural delays legally mandate a second blow from the robotic gorilla.
-- **[59:51]** ([[episodes/2026-08-14|2026-08-14]]): Munch maintains his signature swagger, opposing the addition of character work to Hasan Piker's political stream in favor of 'hard hitting, straight in your face, out of context clip stream[s]'.
-- **[57:24]** ([[episodes/2026-08-14|2026-08-14]]): Munch coins the portmanteau 'trime' (slime + crime) to describe Crum's debating style. Crum counters with 'troupology' (troops + apology) and 'trimologize' (trime + apologize).
-- **[1:02:25]** ([[episodes/2026-08-04|2026-08-04]]): Munch claims he keeps a private 'medical team' specifically to deprive other people of healthcare so that they do not 'succumb to the weakness of going to a doctor,' which he calls 'one of the nicest things I do for the community.'
-- **[1:03:38]** ([[episodes/2026-08-04|2026-08-04]]): Munch advocates silver supplementation and 'peptide spells' as alternatives to conventional medical care.
-- **[57:26]** ([[episodes/2026-08-04|2026-08-04]]): Munch refers to himself as a 'python' coiled up between broadcasts and removes his hearing aids after leaving the desk. [01:05:40]
-- **[1:13:56]** ([[episodes/2026-07-17|2026-07-17]]): Munch asserts he was a mayor, 'too busy being a mayor' to listen to music in the 2010s.
-- **[1:18:25]** ([[episodes/2026-07-17|2026-07-17]]): Munch officially considers Grandma Crumble Bottom 'a colleague and a scholar,' claiming she holds a doctorate in chemistry from Yale and is the 'most fully formed idea' on the stream.
-- **[1:21:51]** ([[episodes/2026-07-11|2026-07-11]]): Crum's official entrance protocol on the set involves demanding his coat back from Case, which Case routinely confiscates.
-- **[1:29:56]** ([[episodes/2026-07-11|2026-07-11]]): Crumb advocates for the assassination of political enemies, citing electoral failures as justification for replacing 'electoralism' with 'assassination'.
-- **[6:00]** ([[episodes/2026-06-19|2026-06-19]]): Munch is a senior debate analyst known for his disheveled appearance and combative political stance, frequently clashing with Crum in televised debates.
-- **[1:14:00]** ([[episodes/2026-06-18|2026-06-18]]): Completed approximately eight years of improv training between 1991-1998; took class with actor later cast as extra in Anchorman.
-- **[1:56:33]** ([[episodes/2026-06-08|2026-06-08]]): Spent summers in Macedonia where 'the ancient world had different views' on same-sex relations, implying bipartisan sexual history.
-- **[8:40]** ([[episodes/2026-05-26|2026-05-26]]): Ralph Munchcut's disheveled silver hair and combative demeanor make him the network's primary political counterweight to Crum, representing traditional conservative perspectives.
-- **[1:27:28]** ([[episodes/2026-08-26|2026-08-26]]): Munch positions himself as a 'triple x Vin Diesel' on skis/jungle; demands to be 'Mayor of the stream'.
-- **[50:30]** ([[episodes/2026-09-01|2026-09-01]]): Munch actively solicits chat protection for his penis before the gorilla punch, pleading for prayers and asking chat to 'hold it in your heart and in your spiritual hands.'
-- **[1:15:02]** ([[episodes/2026-09-02|2026-09-02]]): Reads community-supplied 'reasons you deserve to get your dick punched' list: you're bald, you're a bitch, it will make Munch envious he's not getting the same treatment (joke from 'Yojimbo'), hand game overhyped.
-- **[1:21:58]** ([[episodes/2026-09-02|2026-09-02]]): Intended studio-guest-vs-[[kendelle|Kendelle]] prompt is overtaken by the Crum-penis-punch thread.
+
+- **[1:27:57]** ([[episodes/2026-09-29|2026-09-29]]): Munch confirms permanent skeleton form since September 7, 2026 incident.
 - **[1:52:38]** ([[episodes/2026-09-07|2026-09-07]]): Transformed into a talking skeleton after catching the fiery backblast of the Rock-afire Gorilla stunt. Claims to have superior bone structure and to be liberated from mortal race boundaries.
-- **[1:11:15]** ([[episodes/2025-06-17|2025-06-17]]): Munch freezes completely motionless after Crum's death, described as 'glitched reality' and 'hibernating because his central purpose has been fulfilled'.
-- ([[episodes/2025-05-30|2025-05-30]]): Munch was resurrected after Crum relinquished several wins to reach $100k threshold [42:02-42:26]
-- ([[episodes/2025-05-30|2025-05-30]]): Munch's friend is Thomas Bahamas Pickles; they pretend not to know each other on air [55:22-56:05]
-- **[1:05:01]** ([[episodes/2025-06-02|2025-06-02]]): Munch operates a secret 'Only Mush' OnlyFans for 'wolves' subscribers.
-- **[1:04:39]** ([[episodes/2025-06-13|2025-06-13]]): Munch admits to identity fraud and HIPAA violation by calling Crum's doctor posing as him to check for cancer.
-- **[1:16:45]** ([[episodes/2025-06-13|2025-06-13]]): Munch refuses to work Saturdays as 'man who values freedom; all my time is free time.'
-- **[1:01:13]** ([[episodes/2025-06-19|2025-06-19]]): Claims the gorilla 'acted alone' and is now 'in jail'; declares himself winner of the Crum Dick Punch wager.
-- **[49:58]** ([[episodes/2025-06-20|2025-06-20]]): Munch claims he gathered all the pieces to sew Crum back together after the gorilla explosion; cleanup took two days.
-- **[1:36:21]** ([[episodes/2025-06-28|2025-06-28]]): Munch claims he has security now.
-- **[2:08:30]** ([[episodes/2025-07-01|2025-07-01]]): Claims he got Crum's name out of press over 'male G-spot' incident; Coach McGurk reported him to police.
+- **[1:50:38]** ([[episodes/2026-09-07|2026-09-07]]): Incinerated by the explosive backfire of the Rock-afire mechanical gorilla during the climax of the Crum Dick Punch execution, transforming into an animated, talking skeleton.
+- **[1:15:02]** ([[episodes/2026-09-02|2026-09-02]]): Reads community-supplied 'reasons you deserve to get your dick punched' list: you're bald, you're a bitch, it will make Munch envious he's not getting the same treatment (joke from 'Yojimbo'), hand game overhyped.
+- **[1:21:58]** ([[episodes/2026-09-02|2026-09-02]]): Moderates the audience poll after the planned studio-guest-vs-[[kendelle|Kendelle]] prompt is hijacked by the Crum-penis-punch thread.
+- **[50:30]** ([[episodes/2026-09-01|2026-09-01]]): Munch actively solicits chat protection for his penis before the gorilla punch, pleading for prayers and asking chat to 'hold it in your heart and in your spiritual hands.'
+- **[1:30:07]** ([[episodes/2026-08-26|2026-08-26]]): Invokes the legal doctrine of the "reverse pardon," claiming that Crum's procedural delays legally mandate a second blow from the robotic gorilla.
+- **[1:51:47]** ([[episodes/2025-09-29|2025-09-29]]): Alter ego 'El Manchester' resides in hell per concubine testimony.
+- **[53:14]** ([[episodes/2025-09-26|2025-09-26]]): Confirms Crum died and went to hell; Munch spent days cleaning Crum's remains and retrieved him from a hellish transit authority where Crum was assistant manager.
+- **[1:24:32]** ([[episodes/2025-09-18|2025-09-18]]): Munch claims he defeated the devil in debate multiple times, winning soul shards and a hell key housed in his soul.
 - **[1:21:24]** ([[episodes/2025-09-15|2025-09-15]]): Munch confirms mechanical gorilla gone, Crum Dick Punch mission accomplished.
 - **[1:22:43]** ([[episodes/2025-09-15|2025-09-15]]): Munch mentions Coach McGurk coaching him in hell.
-- **[1:24:32]** ([[episodes/2025-09-18|2025-09-18]]): Munch claims he defeated the devil in debate multiple times, winning soul shards and a hell key housed in his soul.
-- **[1:57:35]** ([[episodes/2023-11-22|2023-11-22]]): Claims 20-point lead in debate score over Crum; threatens east/west coast defection to Munchtopia if turkey becomes national bird.
-- **[1:25:08]** ([[episodes/2023-12-02|2023-12-02]]): Claims to be ancient immortal from Sumeria; crossed thousand-year threshold and dropped 'Young' from name.
-- **[3:00:37]** ([[episodes/2023-12-18|2023-12-18]]): Agrees to return to the network after forced on-air apology to Crum; claims the show was 'easier than ever' without him.
-- **[1:34:35]** ([[episodes/2023-12-21|2023-12-21]]): Claims to be nuclearly powered by a curse, immortal, and the real Santa who rides Rudolph.
-- **[1:08:19]** ([[episodes/2024-01-05|2024-01-05]]): Contractual sub goal (30 subs) forces Munch to be 'nice' for debate segment; Pepito drafted contract.
-- **[55:31]** ([[episodes/2024-01-12|2024-01-12]]): Claims to have trained for debate; dances with 'sensuality and emotion' when provoked.
-- **[1:26:51]** ([[episodes/2024-02-09|2024-02-09]]): Wins 'Has science gone too far?' poll 70/30; scoreboard updated, Munch nearing exit from teens.
-- **[1:15:16]** ([[episodes/2024-02-15|2024-02-15]]): Ate Raising Cane's for breakfast, lunch, and dinner six days in a row.
-- **[1:30:00]** ([[episodes/2024-02-20|2024-02-20]]): Ate Kendall's Girl Scout cookies (Thin Mints/sleeve) over two weeks; confronted by Cookie Monster for ~50 cookies consumed.
-- **[1:01:21]** ([[episodes/2024-03-18|2024-03-18]]): Munch explicitly references the Beyblade Tournament storyline.
-- **[2:36:16]** ([[episodes/2024-04-04|2024-04-04]]): Debate score confirmed at 292; argues samurai wrestling superiority and Cortana intimacy.
-- **[1:59:30]** ([[episodes/2024-05-10|2024-05-10]]): Invokes 'prima nocte/first knock' rule established by college kids in 1920 to claim victory in ties.
-- **[1:43:00]** ([[episodes/2024-05-15|2024-05-15]]): Suffers mental breakdown after first debate loss; wanders studio for three minutes; returns with shaved head/bald.
-- **[1:27:16]** ([[episodes/2024-05-30|2024-05-30]]): Expressed desire to 'bury the axe' with Crum after spiritual concussion; thanked Crum for reasonable debate partnership.
-- **[1:05:07]** ([[episodes/2024-07-17|2024-07-17]]): Munch claims he is buying the entire crew hot new coats after winning a debate poll.
-- **[1:37:51]** ([[episodes/2024-08-07|2024-08-07]]): Declares heel turn after losing Diet Mountain Dew poll to Tim Walz; claims 'wise wolves' minority will prevail.
-- **[35:41]** ([[episodes/2024-09-06|2024-09-06]]): Ordered gold jackets for staff; claims jacket makes him look 'fresh' despite cheap construction.
-- **[17:28]** ([[episodes/2024-09-11|2024-09-11]]): Claims 'independently conservative' political alignment; says he would vote for Harris if she promised to send Crum to Djibouti or kill him.
-- **[2:08:48]** ([[episodes/2024-09-11|2024-09-11]]): Declares 'I fucking won that one' claiming personal debate victory; insists 'whenever I win America wins.'
-- **[2:26:01]** ([[episodes/2025-01-24|2025-01-24]]): Munch-Crum business arrangement: Munch pays Crum $5K per Munch debate win.
-- **[1:49:21]** ([[episodes/2025-01-29|2025-01-29]]): Gives Crum $5,000 every time Munch wins a debate as 'celebration of financial freedom.'
-- **[1:40:13]** ([[episodes/2025-04-11|2025-04-11]]): Munch participates in annual Easter tradition as 'the egg' hiding in church bushes for up to 10 hours
-- **[1:13:31]** ([[episodes/2025-04-25|2025-04-25]]): Claims to force his hair to stay grey at a cellular level through biological willpower, comparing himself to a Baki the Grappler character.
-- **[2:49:39]** ([[episodes/2025-05-17|2025-05-17]]): Gave Crum $500 on Trip segment; warns Crum will gamble it rather than pay gorilla debt.
-- **[2:07:15]** ([[episodes/2025-06-05|2025-06-05]]): Confirmed 'weirdly loaded' per tax processing of stream donations.
-- **[1:09:32]** ([[episodes/2025-06-17|2025-06-17]]): Munch reveals the gorilla punch cost him $25,000 to arrange.
-- **[2:03:53]** ([[episodes/2025-06-26|2025-06-26]]): Operating as 'Coach McGurk' — claims paid cleaning service/prison guards to hose down Crum; says mental recovery tied to physical.
-- **[1:58:15]** ([[episodes/2025-07-10|2025-07-10]]): Munch explicitly refused to contact the devil to resurrect Crum after Crum Dick Punch execution
-- **[1:44:10]** ([[episodes/2025-07-19|2025-07-19]]): Claims 'Munch Prime' multiversal form cast by souls devoured; Devil calls him 'one of the worst souls I've ever looked at'.
-- **[1:25:21]** ([[episodes/2025-08-21|2025-08-21]]): Possesses a key from the devil to retrieve Crum's soul, must use within 30 days; saw Belulia at Coachella with other men.
-- **[1:27:58]** ([[episodes/2025-08-26|2025-08-26]]): Claims to be immortal Highlander: 'There can be only one. Obviously. That's why it's me.'
-- **[1:27:19]** ([[episodes/2025-08-26|2025-08-26]]): Claims to have beaten Jesus in a foot race in ancient Rome; Jesus cheated with cross on back and holes in feet.
-- **[1:23:10]** ([[episodes/2025-08-26|2025-08-26]]): Claims to have kissed Satan's 'back snatch'; describes it as openly available 'like a fucking pie on a window sill.'
-- **[1:39:35]** ([[episodes/2025-09-02|2025-09-02]]): Claims Crum is 'anti-cum' — a cosmic black hole that negates orgasms and erases them from existence.
-- **[1:46:29]** ([[episodes/2025-09-02|2025-09-02]]): Says he paid Crum's $150,000 debt to the Rock-afire gorilla out of kindness, then Crum lost again triggering the punch.
-- **[2:18:46]** ([[episodes/2025-09-03|2025-09-03]]): Claims 'immortal God, essentially' status referencing skeleton transformation.
-- **[2:59:38]** ([[episodes/2025-09-05|2025-09-05]]): Claims personal creation of the Furby toy line during closing monologue.
-- **[1:29:26]** ([[episodes/2025-09-05|2025-09-05]]): Confirms Thursday 9/11 2pm special stream to enter the wall and rescue Crum from hell.
 - **[1:23:17]** ([[episodes/2025-09-11|2025-09-11]]): Munch claims hell has Miller Light sponsorship ($20K) and Slurpees with 30% glass dust.
-- **[53:14]** ([[episodes/2025-09-26|2025-09-26]]): Confirms Crum died and went to hell; Munch spent days cleaning Crum's remains and retrieved him from a hellish transit authority where Crum was assistant manager.
-- **[1:51:47]** ([[episodes/2025-09-29|2025-09-29]]): Alter ego 'El Manchester' resides in hell per concubine testimony.
-- **[2:24:57]** ([[episodes/2025-10-04|2025-10-04]]): Beyblade tournament victory brings total to 301 points ('301 Dalmatians'); claims 'unassailable castle of victory.'
-- **[2:02:55]** ([[episodes/2026-01-21|2026-01-21]]): New Munch & Crum poll system deployed: mods can trigger polls via!mc,!munch,!crumb, or!mnc with slash-separated options.
-- **[1:26:58]** ([[episodes/2026-03-03|2026-03-03]]): Claims vampire DNA on back of neck from 'fucking a couple of really hot vampire girls,' causing annual blood thirst and garlic intolerance.
-- **[1:28:37]** ([[episodes/2026-03-03|2026-03-03]]): Asserts vampires are lactose intolerant for light and garlic; lactate supplements allow sun exposure (cites Stephen Miller).
-- **[1:26:35]** ([[episodes/2026-03-10|2026-03-10]]): Claims 311 victory streak ('rocketed me to 311'); references 'Amber is the color of my fucking victory'.
-- **[1:27:57]** ([[episodes/2026-09-29|2026-09-29]]): Munch confirms permanent skeleton form since September 7, 2026 incident.
+- **[1:29:26]** ([[episodes/2025-09-05|2025-09-05]]): Confirms Thursday 9/11 2pm special stream to enter the wall and rescue Crum from hell.
+- **[2:18:46]** ([[episodes/2025-09-03|2025-09-03]]): Claims 'immortal God, essentially' status referencing skeleton transformation.
+- **[1:46:29]** ([[episodes/2025-09-02|2025-09-02]]): Says he paid Crum's $150,000 debt to the Rock-afire gorilla out of kindness, then Crum lost again triggering the punch.
+- **[1:58:15]** ([[episodes/2025-07-10|2025-07-10]]): Munch explicitly refused to contact the devil to resurrect Crum after Crum Dick Punch execution
+- **[49:58]** ([[episodes/2025-06-20|2025-06-20]]): Munch claims he gathered all the pieces to sew Crum back together after the gorilla explosion; cleanup took two days.

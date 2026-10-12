@@ -133,7 +133,8 @@ Bio tracking is ONLY for on-air network figures who speak in studio scenes.
 CHARACTER NOTES (keep bios short):
 - characters[].notes must be ONE short sentence for the Appearances index (role + what mattered this episode). No arc essays.
 - Put multi-episode narrative in storylines[].beat, not in character notes.
-- lore_notes are sparse durable traits/facts only (new gambling liability, physical transformation, standing rivalry beat). Skip generic jokes and one-offs.
+- lore_notes are sparse durable traits/facts only — things that belong on a character's Notable moments page: new identity/relationship/status, signature-bit debut or lasting rule change, physical transformation, standing liability/rivalry beat, or a beat that advances a Known Storyline.
+- Skip: routine anchoring/sign-on/raids, generic jokes, one-off gags with no callback, restatements of already-known lore, ephemeral plugs ("mentions X", merch, scheduling).
 - Prefer linking facts to Known Storylines when an arc already exists (e.g. Crum Dick Punch, Beyblade Tournament).
 
 STORYLINES (overlapping threads):
@@ -152,7 +153,7 @@ TASK: Extract from the transcript:
 1. segments — major blocks with start/end timestamps, canonical_segment from the roster, episode-specific title, notes
 2. characters — on-air network figures (speaking or heavily discussed). Not news subjects. notes = one short sentence.
 3. storylines — beats of known multi-episode arcs only
-4. lore_notes — new canonical facts with an exact timestamp like "[49:58]". No generic one-off jokes.
+4. lore_notes — new canonical facts with an exact timestamp like "[49:58]". Durable only (identity, status, signature bit, storyline beat). No jokes, plugs, or routine broadcast narration.
 5. episode_summary — 2-3 sentences, deadpan in-universe journalism
 
 Respond with a single JSON object matching the schema. No markdown, no preamble.

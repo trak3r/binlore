@@ -75,12 +75,14 @@ His probation officer [[chris|Chris]] is contractually required to supervise the
 
 - Presents himself as a cultural taste-maker while under parole supervision ([[episodes/2023-12-12|2023-12-12]]).
 
-## Notable Moments
+## Notable moments
 
-- **[1:30:23]** ([[episodes/2023-12-12|2023-12-12]]): Hosts Trailer Thursday under parole supervision.
-- **[1:40:07]** ([[episodes/2024-02-27|2024-02-27]]): Hosts Trent at the Movies; advocates for actor safety on green-screen volumes.
-- **[1:04:50]** ([[episodes/2024-05-01|2024-05-01]]): Mother dropped him off 20 minutes before broadcast; Chris claims Trent's father owns a steak shop and the parents do not get along.
+
 - **[2:00:01]** ([[episodes/2024-08-13|2024-08-13]]): Reintroduced as "your boy Trent" for a trailer block.
+- **[1:04:50]** ([[episodes/2024-05-01|2024-05-01]]): Mother dropped him off 20 minutes before broadcast; Chris claims Trent's father owns a steak shop and the parents do not get along.
+- **[1:40:07]** ([[episodes/2024-02-27|2024-02-27]]): Hosts Trent at the Movies; advocates for actor safety on green-screen volumes.
+- **[1:30:23]** ([[episodes/2023-12-12|2023-12-12]]): Hosts Trailer Thursday under parole supervision.
+
 
 ## Open Questions
 

@@ -38,7 +38,7 @@ His entire on-air vocabulary tends toward smells, gases, and digestive catastrop
 - *"I feel like I'm yenoed for sure at the smell of not just your breath, but your bowels, which seem to be coming out of your mouth hole."*
 - *"Why would you invite me? That's my whole thing."*
 
-## Notable Moments
+## Notable moments
 
 - **[1:07:39]** ([[../episodes/2026-03-07|2026-03-07]]): Takes the stand after a long absence and opens with the fresh-stack assessment of the trial.
 - **[1:24:39]** ([[../episodes/2026-03-07|2026-03-07]]): Recalled by the court; pivots Domino's conspiracy questions into smelly-gases testimony.
@@ -52,5 +52,6 @@ See also: [[coach-mcgurk|Coach McGurk]], [[jizzbo|Jizzbo]], [[crum|Crum]], [[../
 
 ## Notable moments
 
-- **[1:09:55]** ([[episodes/2024-02-27|2024-02-27]]): Established as recurring roast comic character (not the real Don Rickles); claims 120 years old, brings own lighting, tours fictional venues.
+
 - **[1:04:56]** ([[episodes/2024-05-10|2024-05-10]]): Debuted new dyed hair and facial work; admits to dyeing hair.
+- **[1:09:55]** ([[episodes/2024-02-27|2024-02-27]]): Established as recurring roast comic character (not the real Don Rickles); claims 120 years old, brings own lighting, tours fictional venues.

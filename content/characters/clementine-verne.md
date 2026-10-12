@@ -60,12 +60,14 @@ After stretches of being "silenced" or in hiding (including a Mariana Trench dis
 
 - Chat shorthand treats him as **CV** ("CV loves you — throw it in the chat") during Conspiracy Time tosses ([[episodes/2024-01-05|2024-01-05]]).
 
-## Notable Moments
+## Notable moments
 
+
+- **[14:08]** ([[episodes/2024-06-07|2024-06-07]]): Described as silenced / disappeared former conspiracy expert before Guy Redacted's desk era.
+- **[1:51:56]** ([[episodes/2024-04-10|2024-04-10]]): Oven door burns off part of his hair while cooking ham; calls it an "oven haircut."
 - **[0:52:58]** ([[episodes/2024-01-05|2024-01-05]]): Conspiracy Time — secret fifth Ninja Turtle Kirby and Renaissance / Illuminati digression.
 - **[1:15:21]** ([[episodes/2023-12-30|2023-12-30]]): Sydney Sweeney *Anyone But You* framed as alien horniness psy-op.
-- **[1:51:56]** ([[episodes/2024-04-10|2024-04-10]]): Oven door burns off part of his hair while cooking ham; calls it an "oven haircut."
-- **[14:08]** ([[episodes/2024-06-07|2024-06-07]]): Described as silenced / disappeared former conspiracy expert before Guy Redacted's desk era.
+
 
 ## Open Questions
 

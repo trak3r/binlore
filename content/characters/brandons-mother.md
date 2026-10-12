@@ -36,10 +36,12 @@ Her shouting matches with Brandon—whom she frequently addresses as "Brandy"—
 | [[episodes/2026-06-15|2026-06-15]] | Unseen family voice, yells through the wall. |
 | [[episodes/2026-06-08|2026-06-08]] | Unseen family voice. Constantly yells through door: nursing job pride, threatens to sell Brandon for benzos, Mr. Pib bath prank, demands chicken fries from 'Gooners'. |
 
-## Notable Moments
+## Notable moments
 
-- **The Party Sub Theft**: Bellowed through the door accusing Brandon of hoarding an entire six-foot Subway party sub in his closet.
+
 - **The Feral Pig Hose**: Threatened to deploy the "feral pig hose" after the residential plumbing backed up during a live broadcast.
+- **The Party Sub Theft**: Bellowed through the door accusing Brandon of hoarding an entire six-foot Subway party sub in his closet.
+
 
 ## Open Questions
 
@@ -49,4 +51,5 @@ See also: [[characters/cryptozeus|Brandon (CryptoZeu$)]], [[../segments/cryptoze
 
 ## Notable moments
 
-- **[1:48:41]** ([[episodes/2026-06-22|2026-06-22]]): Brandon's Mother makes her presence known entirely via muffled screaming through the drywall during his gaming segments, frequently interrupting with demands for food, commentary on his gameplay, and references to Gooters chicken.
+
+Nothing durable on file yet.

@@ -77,16 +77,10 @@ See also: [[../segments/amongst-the-web|Amongst the Web]], [[../characters/index
 
 ## Notable moments
 
+
 - **[2:07:52]** ([[episodes/2026-07-17|2026-07-17]]): Crum is married to a woman named Belolia. During the Stephanie merch-drop rap he recorded a pre-emptive on-air disclaimer insisting he does not know any woman named Stephanie and is not cheating on his wife.
 - **[13:22]** ([[episodes/2026-07-17|2026-07-17]]): Crum claims to have spent three years in cryotherapy in his 20s, says it keeps his skin 'nice and plump but hard,' and skipped COVID entirely.
-- **[53:21]** ([[episodes/2025-06-02|2025-06-02]]): Crum states he is in therapy with his wife and identifies as a recovering addict.
-- **[1:25:34]** ([[episodes/2025-06-02|2025-06-02]]): Grandma Crumble Bottom originated under the sink of a high school janitor's closet.
-- **[1:30:48]** ([[episodes/2025-06-02|2025-06-02]]): Grandma Crumble Bottom consumes only mulch and gravel; everything else disagrees with her stomach.
-- **[2:09:46]** ([[episodes/2024-09-18|2024-09-18]]): Urinates on studio floor live during Jumbalaya segment.
-- **[1:32:29]** ([[episodes/2024-09-19|2024-09-19]]): Grandma Crumble Bottom claims to be a virgin despite having children, referring to them as 'closet kids.'
-- **[1:31:52]** ([[episodes/2024-09-19|2024-09-19]]): Grandma Crumble Bottom believes Joe Diddly (radio host) is the greatest blues man, confuses him with Sammy Davis Jr.
-- ([[episodes/2025-01-29|2025-01-29]]): Owes $180,000 to piano-playing gorilla; claims farts are quiet but smell bad. [01:48:39, 01:49:47]
-- **[3:05:49]** ([[episodes/2025-01-31|2025-01-31]]): Grandson Ralph Munchcut is 16; cousin Tanantha is 6 years older; Grandma hit game level cap 20 years ago.
-- **[2:21:38]** ([[episodes/2025-03-31|2025-03-31]]): Grandma Crumble Bottom has dyed hair as of this broadcast.
 - **[2:09:43]** ([[episodes/2025-07-30|2025-07-30]]): Wife's name confirmed as Blilia (previously Belulia/Belilia).
 - **[2:51:28]** ([[episodes/2025-07-30|2025-07-30]]): Birth certificate lists 'euphemism for penis' as her name.
+- **[53:21]** ([[episodes/2025-06-02|2025-06-02]]): Crum states he is in therapy with his wife and identifies as a recovering addict.
+- ([[episodes/2025-01-29|2025-01-29]]): Owes $180,000 to piano-playing gorilla; claims farts are quiet but smell bad. [01:48:39, 01:49:47]

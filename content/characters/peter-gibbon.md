@@ -150,50 +150,19 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 
 ## Notable moments
 
-- **[18:01]** ([[episodes/2026-09-04|2026-09-04]]): Emerges uninvited onto the live broadcast (*"Looks like you couldn't keep me away forever. Back again it's Peter Gibbon... And you're probably going to be mean to me Case, but no big deal"*), prompting the control room to hastily generate the lower-third graphic *Peter G. NEWS STOWAWAY & FOOD EATER*.
+
 - **[18:04]** ([[episodes/2026-09-04|2026-09-04]]): Boasts of his physical conditioning, claiming superior dead-lifting power in his lower extremities, while checking whether wall rodents have chewed his hair.
-- **[24:24]** ([[episodes/2026-09-04|2026-09-04]]): Experiences an on-air transmission cross-talk incident with debate analyst Crum during a botched paranormal spell, briefly conflating their identities in the control room archives.
 - **[1:37:45]** ([[episodes/2026-08-14|2026-08-14]]): The fused Crum/Peter Gibbon identity resurfaced during the outro, now self-styling as 'Kendelle' and announcing a breakup with 'Kate'.
-- **[48:05]** ([[episodes/2026-08-06|2026-08-06]]): The network chat community actively tracks and ranks the 'cream team' of frequent guests, with the nude steakhouse story prompting a live poll on which contributor would attend.
 - **[50:34]** ([[episodes/2026-06-22|2026-06-22]]): Peter Gibbon is a disgraced former producer who now inhabits the studio wall crawlspaces as a news stowaway. He is referenced in a merch submission titled 'Leave it to Peter, starring Peter Gibbon.'
-- **[18:04]** ([[episodes/2026-09-04|2026-09-04]]): Peter's defining traits re-confirmed: stout build with most strength in his legs (good for dead-lifting kegs), rat-collecting habits ('did the rats eat my hair again'), rocket obsession, and being described as 'a rocket Peter doing all the stuff I like to do.' Claims he 'more or less' was in the military and has CIA training (echoed by Hype Train later).
-- **[1:49:35]** ([[episodes/2025-06-17|2025-06-17]]): Peter Gibbon claims to be '427 rats in a man suit'.
-- **[2:30:56]** ([[episodes/2025-06-11|2025-06-11]]): Peter Gibbon's lawyer struggles with object permanence, sometimes forgetting Peter exists.
+- **[46:34]** ([[episodes/2025-10-04|2025-10-04]]): Claims cosmic wall-being status: 'I'm a wall of fortitude as a person and if you break a wall you can rebuild it.'
+- **[2:35:03]** ([[episodes/2025-09-03|2025-09-03]]): Claims to have exited wall permanently; appeared twice on Trip's street interviews.
+- **[2:15:44]** ([[episodes/2025-08-23|2025-08-23]]): Peter Gibbon claims 'time is an illusion outside the wall; in the wall, it's real.'
 - **[1:20:48]** ([[episodes/2025-06-28|2025-06-28]]): Has internet in the wall; runs OnlyFans subscriptions on company credit card.
-- **[1:37:10]** ([[episodes/2023-11-22|2023-11-22]]): Retreats from heavy political discussion by claiming he left a coffee mug in the other room.
-- **[54:43]** ([[episodes/2023-12-12|2023-12-12]]): Still residing in studio walls; emerges to discuss streaming service rebranding history; claims to work tirelessly daily.
-- **[1:50:29]** ([[episodes/2024-02-02|2024-02-02]]): Peter Gibbon confirms permanent residence in studio walls; Case can smell him through drywall.
-- **[2:26:25]** ([[episodes/2024-02-07|2024-02-07]]): Took elocution classes in kindergarten for severe lisp
-- **[1:17:46]** ([[episodes/2024-02-07|2024-02-07]]): Mandated show tune after every segment going forward
-- **[1:07:41]** ([[episodes/2024-02-20|2024-02-20]]): Claims to have escaped the newsroom walls ('The walls can't keep me') and hosts Use the Internet from crawlspace.
-- **[25:54]** ([[episodes/2024-03-01|2024-03-01]]): Wife's name is Louise (previously called Lois); produces natural slime for wall navigation [25:23]
-- **[47:19]** ([[episodes/2024-03-27|2024-03-27]]): Received custom theme music after chat sub goal completed.
-- **[1:53:27]** ([[episodes/2024-03-28|2024-03-28]]): Peter Gibbon's first theme song 'Rocket Peter' created via ChatGPT parody of Elton John's Rocket Man; performed over instrumental.
-- **[51:34]** ([[episodes/2024-04-17|2024-04-17]]): Formally banned from broadcast for Minnie Mouse upskirt joke but vows to continue watching from wall crawlspace.
-- **[58:23]** ([[episodes/2024-05-21|2024-05-21]]): Now shares the walls with a robot dog that executed 'affection' commands; organizes wall rats into 'soup rats' (right side) and 'friend rats' (left side).
-- **[1:06:40]** ([[episodes/2024-05-21|2024-05-21]]): Claims his tongue was bisected from biting a bone too hard, resulting in 'two swirling snakes' that eventually healed.
-- **[17:20]** ([[episodes/2024-06-18|2024-06-18]]): Claims 'first person in the walls claims them' as legal precedent for wall squatting.
-- **[46:17]** ([[episodes/2024-08-01|2024-08-01]]): Claims auto-pay active on rent for apartment he may still possess.
-- **[1:14:36]** ([[episodes/2024-08-22|2024-08-22]]): Claims 'skill' of grinding ass into colleagues without full contact as 'appropriate adult joke' between best pals.
-- **[36:04]** ([[episodes/2024-09-06|2024-09-06]]): Admitted responsibility for first gold jacket shipment not arriving; operates board with paws.
-- **[58:58]** ([[episodes/2024-09-08|2024-09-08]]): Manifested as cheese graphics on the stream overlay during Carl's turn, confirming continued newsroom wall residency.
-- **[1:04:45]** ([[episodes/2024-09-11|2024-09-11]]): Peter Gibbon sourced a 'last-belief rabbit' Bugs Bunny who describes murder-by-TMT-explosives plot.
-- **[1:34:54]** ([[episodes/2024-09-18|2024-09-18]]): Manages rat clans in studio walls; clans fight if not sorted correctly.
-- **[1:40:12]** ([[episodes/2024-10-01|2024-10-01]]): Peter Gibbon claims he was fired and rehired as Park Ranger, reopening Park Mayor campaign.
-- **[3:08:53]** ([[episodes/2024-10-10|2024-10-10]]): Peter Gibbon reveals he was 'created at a freak off' by his parents.
-- **[1:36:33]** ([[episodes/2024-10-30|2024-10-30]]): Reveals the existence of six satellite rooms and broadcasts from one room over while lobbying for lead anchor.
-- **[1:07:52]** ([[episodes/2025-01-17|2025-01-17]]): Peter claims he sprayed the walls, the 200 rats are now poison-resistant, and he is their general.
-- **[48:09]** ([[episodes/2025-04-23|2025-04-23]]): Peter Gibbon lives in studio walls, barfs acid sludge on Cyber Trucks
-- ([[episodes/2025-05-01|2025-05-01]]): Feeds rats Case's skin flakes and toilet water daily to grow homunculus; rats named Fival A-D; claims 'every day I become more like you' [58:25-59:08]
-- **[1:33:40]** ([[episodes/2025-05-02|2025-05-02]]): Keeping shape-shifting rat named Darfus in studio walls; rat affects minds; possibly conducting interdimensional demonic practices.
+- **[2:03:36]** ([[episodes/2025-06-05|2025-06-05]]): Rats in wall have become smaller, stronger ('rangy'), make non-human music; exterminators missing in wall.
 - **[1:08:51]** ([[episodes/2025-05-14|2025-05-14]]): Peter Gibbon: time dilation in wall — one day inside equals ~100 days outside.
 - **[1:22:01]** ([[episodes/2025-05-14|2025-05-14]]): Peter Gibbon: rats in wall have competing faiths causing sectarian violence.
-- **[2:03:36]** ([[episodes/2025-06-05|2025-06-05]]): Rats in wall have become smaller, stronger ('rangy'), make non-human music; exterminators missing in wall.
-- **[1:16:10]** ([[episodes/2025-07-15|2025-07-15]]): Lives in studio walls among rats; rats crawl on his mouth while he sleeps.
-- **[53:42]** ([[episodes/2025-08-23|2025-08-23]]): Peter Gibbon stole Case's phone; Case had to retrieve it.
-- **[2:15:44]** ([[episodes/2025-08-23|2025-08-23]]): Peter Gibbon claims 'time is an illusion outside the wall; in the wall, it's real.'
-- **[2:35:03]** ([[episodes/2025-09-03|2025-09-03]]): Claims to have exited wall permanently; appeared twice on Trip's street interviews.
-- **[46:34]** ([[episodes/2025-10-04|2025-10-04]]): Claims cosmic wall-being status: 'I'm a wall of fortitude as a person and if you break a wall you can rebuild it.'
-- **[36:37]** ([[episodes/2026-01-21|2026-01-21]]): Ate cement, defecated cement, and became stuck to his chair.
-- **[2:09:16]** ([[episodes/2026-03-17|2026-03-17]]): Claims to eat munitions for sustenance: 'cheap drone and a bunch of multi-million dollar missiles'.
-- **[2:22:28]** ([[episodes/2025-10-27|2025-10-27]]): Peter Gibbon claims he exists in a 'multi-dimensional kaleidoscope' beyond the studio walls
+- **[1:36:33]** ([[episodes/2024-10-30|2024-10-30]]): Reveals the existence of six satellite rooms and broadcasts from one room over while lobbying for lead anchor.
+- **[3:08:53]** ([[episodes/2024-10-10|2024-10-10]]): Peter Gibbon reveals he was 'created at a freak off' by his parents.
+- **[1:40:12]** ([[episodes/2024-10-01|2024-10-01]]): Peter Gibbon claims he was fired and rehired as Park Ranger, reopening Park Mayor campaign.
+- **[58:58]** ([[episodes/2024-09-08|2024-09-08]]): Manifested as cheese graphics on the stream overlay during Carl's turn, confirming continued newsroom wall residency.
+- **[17:20]** ([[episodes/2024-06-18|2024-06-18]]): Claims 'first person in the walls claims them' as legal precedent for wall squatting.

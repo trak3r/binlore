@@ -45,12 +45,14 @@ Despite Case teasing early in the telecast that "Jazz Shrimp will be a regular c
 - *"I don't know man I'm just a jazz shrimp."*
 - *"Jazz shrimp, sweetest shrimp in the sea… like a saxophone put me in your mouth and breathe me."*
 
-## Notable Moments
+## Notable moments
 
+
+- **[1:54:29]** ([[../episodes/2026-05-29|2026-05-29]]): Counters the "shrimp aren't food, they're bugs" critique with a shrimp love song before the critic is voted out.
 - **[1:47:59]** ([[../episodes/2026-05-29|2026-05-29]]): Introduces himself as Jay/Jazz Shrimp, surrounded by thirty food critics, and opens with the greatness claim.
 - **[1:50:05]** ([[../episodes/2026-05-29|2026-05-29]]): Passionate defense of visible shrimp veins and whole-body consumption against a Long John Silver's critic.
 - **[1:52:11]** ([[../episodes/2026-05-29|2026-05-29]]): Survives a vaguely British aristocracy culture-theft accusation with an improvised wah-wah jazz bit.
-- **[1:54:29]** ([[../episodes/2026-05-29|2026-05-29]]): Counters the "shrimp aren't food, they're bugs" critique with a shrimp love song before the critic is voted out.
+
 
 ## Open Questions
 

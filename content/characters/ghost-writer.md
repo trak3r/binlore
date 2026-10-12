@@ -46,9 +46,11 @@ On air he is sometimes a cooperative AI-adjacent songwriting partner and sometim
 
 ## Notable moments
 
-- **[1:35:06]** ([[episodes/2025-05-23|2025-05-23]]): Identifies as a free-range ghost with 200 years of ghostwriting experience.
-- **[1:36:55]** ([[episodes/2025-07-12|2025-07-12]]): Explains English-only speech after forgetting Spanish in death.
+
 - **[1:31:46]** ([[episodes/2025-07-19|2025-07-19]]): Heckles music production; claims all ghosts are horny but intangible.
+- **[1:36:55]** ([[episodes/2025-07-12|2025-07-12]]): Explains English-only speech after forgetting Spanish in death.
+- **[1:35:06]** ([[episodes/2025-05-23|2025-05-23]]): Identifies as a free-range ghost with 200 years of ghostwriting experience.
+
 
 ## Open questions
 
