@@ -16,7 +16,7 @@ tags:
 
 # Al Manchester
 
-**Al Manchester** (debuted on air as **Ale Chrome Chester** / **Ale Munchester**; later **El Manchester**) is the soft-spoken alter ego of debate analyst [[../characters/munch|Ralph Munchcut]], born the night [[../characters/crum|Leonard Crum]] finally overtook Munch on the debate scoreboard after a six-month Crumback climb.
+**Al Manchester** is the soft-spoken alter ego of debate analyst [[../characters/munch|Ralph Munchcut]], born the night [[../characters/crum|Leonard Crum]] finally overtook Munch on the debate scoreboard after a six-month Crumback climb.
 
 ## Status
 
