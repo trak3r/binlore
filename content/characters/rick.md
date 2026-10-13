@@ -64,7 +64,7 @@ Rick joined the broadcast on the [[episodes/2026-09-04|2026-09-04 broadcast]] to
 | [[episodes/2025-03-07|2025-03-07]] | news correspondent. |
 | [[episodes/2025-03-04|2025-03-04]] | recurring character. |
 | [[episodes/2025-02-12|2025-02-12]] | host of Amongst the Web. |
-| [[episodes/2025-01-27|2025-01-27]] | Security Guard / Amongst the Web Co-host. |
+| [[episodes/2025-01-27|2025-01-27]] | *(misattributed in early notes — desk co-host that night was [[crag|Crag]], not Rick)* |
 | [[episodes/2025-01-22|2025-01-22]] | host of Amongst the Web. |
 | [[episodes/2024-11-06|2024-11-06]] | Amongst the Web host. |
 | [[episodes/2024-09-13|2024-09-13]] | Amongst the Web host. |
