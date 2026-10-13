@@ -257,4 +257,4 @@ Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch 
 - **[1:58:15]** ([[episodes/2025-07-10|2025-07-10]]): Munch explicitly refused to contact the devil to resurrect Crum after Crum Dick Punch execution
 - **[49:58]** ([[episodes/2025-06-20|2025-06-20]]): Munch claims he gathered all the pieces to sew Crum back together after the gorilla explosion; cleanup took two days.
 
-See also: [[../storylines/al-manchester|Al Manchester]], [[crum|Leonard Crum]], [[../segments/munch-and-crum|Munch & Crum]], [[../storylines/crum-dick-punch|Crum Dick Punch]], [[index|On-Air Talent]].
+See also: [[../storylines/al-manchester|Al Manchester]], [[crum|Leonard Crum]], [[scrum|Scrum]], [[../segments/munch-and-crum|Munch & Crum]], [[../storylines/crum-dick-punch|Crum Dick Punch]], [[index|On-Air Talent]].

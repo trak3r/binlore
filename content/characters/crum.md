@@ -22,7 +22,7 @@ status: recurring
 
 ## Overview
 
-Crum serves as the long-suffering political counterweight to [[munch|Ralph Munchcut]] on *Barely Informed News*. Distinguished by his hollow-eyed stare and severe bald pate, Crum is infamous across the network for a crippling gambling addiction that routinely plunges him into reckless wagers, physical forfeits, and existential panic.
+Crum serves as the long-suffering political counterweight to [[munch|Ralph Munchcut]] on *Barely Informed News*. Distinguished by his hollow-eyed stare and severe bald pate, Crum is infamous across the network for a crippling gambling addiction that routinely plunges him into reckless wagers, physical forfeits, and existential panic. His recurring alter ego [[scrum|Scrum]] (sometimes Eugene Scrum) fills debate and news desks when Crum is "out," punished, or moonlighting under the mononym.
 
 Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylines/crum-face-punch|Crum Face Punch]], [[../storylines/join-the-wall|Join the Wall]], and [[../storylines/crum-dick-punch|Crum Dick Punch]]—all stemming from catastrophic wagers against a mechanical Rock-afire ape. Crum's first scoreboard win over Munch also spawned the [[../storylines/al-manchester|Al Manchester]] split; after Munch snapped back mid-June 2024, Crum mourns Al as a "best friend" still trapped inside.
 
@@ -273,4 +273,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[1:18:34]** ([[episodes/2026-06-18|2026-06-18]]): Suffers 36-year urinary tract infection causing highly acidic urine; openly states hatred of Irish people as 'legal' and 'allowed' character trait; wife currently seeing therapist.
 - **[1:18:36]** ([[episodes/2026-06-15|2026-06-15]]): Crum is referenced in the context of the unresolved Dick Punch wager and body positivity debate.
 
-See also: [[../storylines/al-manchester|Al Manchester]], [[munch|Ralph Munchcut]], [[../segments/munch-and-crum|Munch & Crum]], [[../storylines/crum-face-punch|Crum Face Punch]], [[index|On-Air Talent]].
+See also: [[scrum|Scrum]], [[../storylines/al-manchester|Al Manchester]], [[munch|Ralph Munchcut]], [[../segments/munch-and-crum|Munch & Crum]], [[../storylines/crum-face-punch|Crum Face Punch]], [[index|On-Air Talent]].

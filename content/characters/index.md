@@ -14,6 +14,7 @@ Anchors, senior correspondents, debate analysts, and production staff across *Ba
 | [[characters/case-blackwell|Case Blackwell]] | Lead Anchor & Managing Editor | Primary broadcast anchor and managing editor of *Barely Informed News* |
 | [[characters/munch|Munch (Ralph Munchcut)]] | Senior Debate Analyst | Fiery political commentator opposite Crum with messy silver hair |
 | [[characters/crum|Crum (Leonard Crum)]] | Senior Debate Analyst | Fragile debate commentator with severe gambling liabilities and existential dread |
+| [[characters/scrum|Scrum]] | Debate / News Alter (Crum) | Crum's temp-hire alter ego — mononym "Scrum, period"; fills debate and news desks |
 | [[characters/pepito|Pepito]] | Executive Producer | Canine broadcast executive running the control room and opening every broadcast |
 | [[characters/chet|Chet (Chet Manscape)]] | Chief Science Correspondent | Investigative science correspondent dispatched whenever "science" is uttered |
 | [[characters/chet-ai|ChetAI]] | Synthetic AI Analyst | Chet's neural network co-host operating directly through the studio monitors |

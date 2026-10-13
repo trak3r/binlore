@@ -24,6 +24,8 @@ The flagship political debate desk on *Barely Informed News*, featuring fiery he
 
 Broadcast under the title **Munch & Crum**, the segment features rotating 3D network title cards, an automated on-screen scoreboard, and live audience referendum polling. Munch and Crum debate national policies, municipal leadership, and culinary ethics, with arguments frequently escalating into personal grievances and high-stakes wagers.
 
+Substitutes and alters occasionally take a mic — notably [[../characters/scrum|Scrum]] (Crum's temp/alter), Plumb (Crum's cousin), and [[../storylines/al-manchester|Al Manchester]] (Munch's soft half). Some telecasts host multiple debates.
+
 ## Known occurrences
 
 | Episode | Timestamp | Notes |
