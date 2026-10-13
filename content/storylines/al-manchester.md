@@ -16,7 +16,9 @@ tags:
 
 # Al Manchester
 
-**Al Manchester** is the soft-spoken alter ego of debate analyst [[../characters/munch|Ralph Munchcut]], born the night [[../characters/crum|Leonard Crum]] finally overtook Munch on the debate scoreboard after a six-month Crumback climb.
+![Al Manchester on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/al-manchester.jpg)
+
+**Al Manchester** is the soft-spoken alter ego of debate analyst [[../characters/munch|Ralph Munchcut]], born the night [[../characters/crum|Leonard Crum]] finally overtook Munch on the debate scoreboard after a six-month Crumback climb. Visually he replaced Munch's silver mane with a bald-cap (sometimes with white side-hair) — the forced-nice shell made literal.
 
 ## Status
 
