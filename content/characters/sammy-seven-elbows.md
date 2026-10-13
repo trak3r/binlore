@@ -28,7 +28,7 @@ In later lore, the sock puppet [[hate-sock|Hate Sock]] outs himself as Sammy Sev
 ## Signature bits
 
 - **Night Man / Biden haunt** — Claims President Biden resembles the "Night Man" who haunted his bedside since childhood.
-- **Epstein cloning desk** — Early correspondent run covering Daily Mail cloning allegations, followed by on-air amnesia and aliases ("Ale Chrome Chester" / "Ale Munchester").
+- **Epstein cloning desk** — Early correspondent run covering Daily Mail cloning allegations on the same telecast that later birthed Munch's [[../storylines/al-manchester|Al Manchester]] alter ego.
 - **The Thing Song** — Flash-poll win triggers an AI Cisco "Thong Song" parody about an illegal pickle-cart past and Italian swag.
 - **Hate Sock reveal** — Canonical identity claimed by Hate Sock during birthright-citizenship coverage.
 
@@ -42,7 +42,7 @@ In later lore, the sock puppet [[hate-sock|Hate Sock]] outs himself as Sammy Sev
 | [[episodes/2024-10-03|2024-10-03]] | In-studio contributor; voice during Amongst the Web and Rennerton election chat. |
 | [[episodes/2024-06-26|2024-06-26]] | Wins flash poll; performs AI-generated "Thing Song" pickle-cart parody. |
 | [[episodes/2024-05-30|2024-05-30]] | Early recurring appearance. |
-| [[episodes/2024-05-15|2024-05-15]] | Debuts Epstein cloning correspondent desk; later claims amnesia aliases. |
+| [[episodes/2024-05-15|2024-05-15]] | Debuts Epstein cloning correspondent desk (same night as Munch's Al Manchester breakdown). |
 | [[episodes/2024-05-02|2024-05-02]] | Debut as Sammy Six Elbows (renamed Seven); Night Man bit; feeds Pepito Sweet Tarts. |
 
 ## Notable moments
@@ -50,7 +50,7 @@ In later lore, the sock puppet [[hate-sock|Hate Sock]] outs himself as Sammy Sev
 
 - **[4:51]** ([[episodes/2025-06-28|2025-06-28]]): Hate Sock reveals canonical identity as Sammy Seven Elbows.
 - **[1:18:24]** ([[episodes/2024-06-26|2024-06-26]]): Flash-poll winner performs "The Thing Song."
-- **[49:31]** ([[episodes/2024-05-15|2024-05-15]]): Epstein cloning correspondent debut; later amnesia aliases.
+- **[49:31]** ([[episodes/2024-05-15|2024-05-15]]): Epstein cloning correspondent debut.
 - **[10:12]** ([[episodes/2024-05-02|2024-05-02]]): Debuts as Sammy Six Elbows, renamed Seven Elbows live; identifies Biden as his childhood Night Man.
 
 

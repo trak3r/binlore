@@ -27,6 +27,7 @@ Major broadcast events and ongoing narrative arcs spanning multiple telecasts â€
 
 | Arc | Status | Notes |
 |---|---|---|
+| [[al-manchester\|Al Manchester]] | resolved / concluded | Crum's first scoreboard win (2024-05-15) breaks Munch into soft Al / Ale Munchester; ego restored mid-June 2024 (hair back); later Al mentions are callbacks |
 | [[beyblade-tournament\|Beyblade Tournament]] | active / in development | Community debt called out by Abraham Lincoln; planned 2v2 Beyblade Burst arena match for Crum, entangled with Case applying 106 Bart Simpson tattoos |
 
 See also: [[../characters/index|On-Air Talent]], [[../segments/index|Broadcast Segments]].

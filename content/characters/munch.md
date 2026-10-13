@@ -5,6 +5,10 @@ aliases:
   - Ralph Munchcut
   - Munchcut
   - Munch
+  - Al Manchester
+  - Ale Munchester
+  - Ale Chrome Chester
+  - El Manchester
 first_seen: 2023-11-22
 tags:
 - character
@@ -22,7 +26,9 @@ status: recurring
 
 Munch serves as the combative, unapologetic political counterweight to [[crum|Crum]] on *Barely Informed News*. Distinguished by his disheveled silver mane, Munch brings relentless swagger and hostility to the debate desk.
 
-Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goaded the [[../storylines/crum-face-punch|2025 face-punch Crumsplosion]], then [[../storylines/join-the-wall|rescued Crum from hell]] after weeks of volleyball-corpse denial, and finally agitated for the [[../storylines/crum-dick-punch|2026 groin-punch]] sequel. On September 7, 2026, that sequel's mechanical failure incinerated Munch into an immortal talking skeleton.
+On [[../episodes/2024-05-15|2024-05-15]], Crum's first debate-score victory after 200+ losses broke Munch into the soft alter ego [[../storylines/al-manchester|Al Manchester]] (debuted as Ale Chrome Chester / Ale Munchester). The nice-guy shell lasted through early June; by mid-June Munch was restored (hair back, ego intact), with Crum insisting Al remains trapped inside.
+
+Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch goaded the [[../storylines/crum-face-punch|2025 face-punch Crumsplosion]], then [[../storylines/join-the-wall|rescued Crum from hell]] after weeks of volleyball-corpse denial, and finally agitated for the [[../storylines/crum-dick-punch|2026 groin-punch]] sequel. On September 7, 2026, that sequel's mechanical failure incinerated Munch into an immortal talking skeleton.
 
 ## Appearances
 
@@ -250,3 +256,5 @@ Their volatile dynamic forms the backbone of the Crum Punch trilogy: Munch goade
 - **[1:46:29]** ([[episodes/2025-09-02|2025-09-02]]): Says he paid Crum's $150,000 debt to the Rock-afire gorilla out of kindness, then Crum lost again triggering the punch.
 - **[1:58:15]** ([[episodes/2025-07-10|2025-07-10]]): Munch explicitly refused to contact the devil to resurrect Crum after Crum Dick Punch execution
 - **[49:58]** ([[episodes/2025-06-20|2025-06-20]]): Munch claims he gathered all the pieces to sew Crum back together after the gorilla explosion; cleanup took two days.
+
+See also: [[../storylines/al-manchester|Al Manchester]], [[crum|Leonard Crum]], [[../segments/munch-and-crum|Munch & Crum]], [[../storylines/crum-dick-punch|Crum Dick Punch]], [[index|On-Air Talent]].
