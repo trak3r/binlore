@@ -4,7 +4,6 @@ type: character
 aliases:
   - Security Officer Crag
   - Craig
-  - characters/crag
 first_seen: 2023-12-31
 status: recurring
 tags:

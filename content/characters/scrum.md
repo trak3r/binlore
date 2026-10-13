@@ -4,7 +4,6 @@ type: character
 aliases:
   - Eugene Scrum
   - Scrumfuscious
-  - characters/scrum
 first_seen: 2023-12-16
 status: recurring
 tags:
