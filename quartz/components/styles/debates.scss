@@ -1,0 +1,195 @@
+@use "../../styles/variables.scss" as *;
+
+.debates-catalog {
+  margin: 1.5rem 0 2.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+
+  h2 {
+    margin: 0;
+    font-size: 1.25rem;
+  }
+
+  .debates-scoreboard {
+    border: 1px solid var(--lightgray);
+    border-radius: 6px;
+    padding: 0.75rem 1rem 0.5rem;
+    background: var(--light);
+
+    .scoreboard-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 1rem;
+      margin-bottom: 0.5rem;
+      flex-wrap: wrap;
+
+      h2 {
+        font-size: 1.1rem;
+      }
+
+      .scoreboard-legend {
+        display: flex;
+        gap: 1rem;
+        font-size: 0.85rem;
+
+        span {
+          display: inline-flex;
+          align-items: center;
+          gap: 0.35rem;
+        }
+
+        i {
+          display: inline-block;
+          width: 10px;
+          height: 10px;
+          border-radius: 2px;
+        }
+
+        .munch i {
+          background: #c45c26;
+        }
+
+        .crum i {
+          background: #2f6fed;
+        }
+      }
+    }
+
+    svg {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    .scoreboard-totals {
+      font-size: 0.9rem;
+      margin-top: 0.35rem;
+      color: var(--darkgray);
+    }
+  }
+
+  .debates-controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem 0.85rem;
+    align-items: end;
+
+    label {
+      display: flex;
+      flex-direction: column;
+      gap: 0.2rem;
+      font-size: 0.8rem;
+      color: var(--darkgray);
+
+      input,
+      select {
+        font: inherit;
+        font-size: 0.9rem;
+        padding: 0.35rem 0.5rem;
+        border: 1px solid var(--lightgray);
+        border-radius: 4px;
+        background: var(--light);
+        color: var(--dark);
+        min-width: 8rem;
+      }
+
+      input[type="search"] {
+        min-width: 14rem;
+      }
+    }
+
+    .debates-count {
+      margin-left: auto;
+      font-size: 0.85rem;
+      color: var(--darkgray);
+      align-self: center;
+    }
+  }
+
+  .debates-table-wrap {
+    overflow-x: auto;
+    border: 1px solid var(--lightgray);
+    border-radius: 6px;
+  }
+
+  table.debates-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+
+    th,
+    td {
+      padding: 0.45rem 0.65rem;
+      text-align: left;
+      border-bottom: 1px solid var(--lightgray);
+      vertical-align: top;
+    }
+
+    th {
+      background: var(--lightgray);
+      cursor: pointer;
+      user-select: none;
+      white-space: nowrap;
+
+      &:hover {
+        filter: brightness(0.97);
+      }
+
+      &.sorted-asc::after {
+        content: " ↑";
+      }
+
+      &.sorted-desc::after {
+        content: " ↓";
+      }
+    }
+
+    tbody tr:hover {
+      background: color-mix(in srgb, var(--tertiary) 8%, transparent);
+    }
+
+    td.topic {
+      min-width: 12rem;
+      font-weight: 500;
+    }
+
+    td.summary {
+      max-width: 28rem;
+      color: var(--darkgray);
+      font-size: 0.82rem;
+    }
+
+    .winner-pill {
+      display: inline-block;
+      padding: 0.1rem 0.45rem;
+      border-radius: 999px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      text-transform: capitalize;
+      background: var(--lightgray);
+
+      &.munch,
+      &.al-manchester {
+        background: color-mix(in srgb, #c45c26 22%, var(--light));
+        color: #8a3a12;
+      }
+
+      &.crum {
+        background: color-mix(in srgb, #2f6fed 22%, var(--light));
+        color: #1a3f9c;
+      }
+
+      &.draw {
+        background: color-mix(in srgb, #888 20%, var(--light));
+      }
+    }
+  }
+
+  .debates-empty,
+  .debates-error {
+    padding: 1rem;
+    color: var(--darkgray);
+  }
+}

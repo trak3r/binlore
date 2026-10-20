@@ -15,6 +15,7 @@ This archive documents the network's on-air correspondents, investigative progra
 
 - [[characters/index|On-Air Talent]] — anchors, senior correspondents, debate analysts, and production crew
 - [[segments/index|Broadcast Segments]] — signature programming, remote dispatches, and regular desks
+- [[debates/index|Debate Catalog]] — searchable Munch & Crum desk debates and running scoreboard
 - [[storylines/index|Events & Story Arcs]] — marathon specials, annual events, and multi-episode newsroom sagas
 - [[sponsors/index|Commercial Sponsors]] — corporate partners, fast-casual underwriters, and commercial dispatches
 - [[episodes/index|Episodes & Broadcast Archive]] — complete broadcast catalog and episode logs

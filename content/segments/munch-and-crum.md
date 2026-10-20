@@ -26,6 +26,8 @@ Broadcast under the title **Munch & Crum**, the segment features rotating 3D net
 
 Substitutes and alters occasionally take a mic — notably [[../characters/scrum|Scrum]] (Crum's temp/alter), Plumb (Crum's cousin), and [[../storylines/al-manchester|Al Manchester]] (Munch's soft half). Some telecasts host multiple debates.
 
+Browse every debate with search, filters, and the running scoreboard on the [[../debates/index|Debate Catalog]].
+
 ## Known occurrences
 
 | Episode | Timestamp | Notes |
@@ -236,6 +238,7 @@ Substitutes and alters occasionally take a mic — notably [[../characters/scrum
 
 ## Related Coverage
 
+- [[../debates/index|Debate Catalog]]
 - [[../characters/munch|Ralph Munchcut]]
 - [[../characters/crum|Crum]]
 - [[../storylines/crum-dick-punch|Crum Dick Punch]]

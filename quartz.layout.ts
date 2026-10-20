@@ -21,7 +21,16 @@ const recentChanges = Component.DesktopOnly(
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [Component.BuyMeACoffee()],
+  afterBody: [
+    Component.ConditionalRender({
+      component: Component.DebatesCatalog(),
+      condition: (page) => {
+        const slug = page.fileData.slug ?? ""
+        return slug === "debates" || slug === "debates/index"
+      },
+    }),
+    Component.BuyMeACoffee(),
+  ],
   footer: Component.Footer({
     links: {
       "Barely Informed News (Twitch)": "https://www.twitch.tv/caseblackwell",

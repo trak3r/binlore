@@ -335,6 +335,40 @@ def cmd_process_all(args: argparse.Namespace) -> int:
     return run_batch_processing(**kwargs, skip_extract=False)
 
 
+def cmd_debates_seed(args: argparse.Namespace) -> int:
+    from collections import Counter
+
+    from .debates import build_debates, write_debates
+
+    year_dir = Path(args.year_dir) if args.year_dir else None
+    debates = build_debates(year_dir)
+    path = write_debates(debates, sync_static=not args.no_static)
+    print(f"Wrote {len(debates)} debates -> {path}")
+    print("Winners:", Counter(e.get("winner") for e in debates).most_common(8))
+    return 0
+
+
+def cmd_debates_validate(args: argparse.Namespace) -> int:
+    from .debates import DATA_PATH, STATIC_PATH, load_debates, validate_debates
+
+    debates = load_debates()
+    errors = validate_debates(debates)
+    if STATIC_PATH.exists():
+        static = load_debates(STATIC_PATH)
+        if static != debates:
+            errors.append(f"{STATIC_PATH} is out of sync with {DATA_PATH} (run debates-seed)")
+    elif DATA_PATH.exists():
+        errors.append(f"missing {STATIC_PATH} (run debates-seed)")
+
+    if errors:
+        print(f"{len(errors)} validation error(s):")
+        for e in errors:
+            print(f"  - {e}")
+        return 1
+    print(f"OK — {len(debates)} debates in {DATA_PATH}")
+    return 0
+
+
 def cmd_rank_munch_crum(args: argparse.Namespace) -> int:
     from .rank import DEFAULT_PILOT_PATH, DEFAULT_RANKED_PATH, write_rankings
 
@@ -741,6 +775,27 @@ def build_parser() -> argparse.ArgumentParser:
             help="Log file path (default: tools/runs/batch.log)",
         )
         proc.set_defaults(func=cmd_process_all, pipeline_mode=default_mode)
+
+    debates_seed = sub.add_parser(
+        "debates-seed",
+        help="Build data/debates.json (+ quartz/static copy) from munch-and-crum + optional year MD",
+    )
+    debates_seed.add_argument(
+        "--year-dir",
+        help="Directory of year markdown pages (2023.md…) to merge positions/winners",
+    )
+    debates_seed.add_argument(
+        "--no-static",
+        action="store_true",
+        help="Do not sync quartz/static/debates.json",
+    )
+    debates_seed.set_defaults(func=cmd_debates_seed)
+
+    debates_val = sub.add_parser(
+        "debates-validate",
+        help="Validate data/debates.json schema and sync with quartz/static copy",
+    )
+    debates_val.set_defaults(func=cmd_debates_validate)
 
     rank = sub.add_parser(
         "rank-munch-crum",
