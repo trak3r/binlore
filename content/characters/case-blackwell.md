@@ -28,6 +28,7 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 ## Notable moments
 
 
+- **[1:30:03]** ([[episodes/2026-10-19|2026-10-19]]): Reveals engagement to interns during town hall.
 - **[2:12:45]** ([[episodes/2026-09-07|2026-09-07]]): Anchors the Season 3 finale ahead of departing for an extended two-week international leave to Thailand. Oversees the long-awaited Rock-afire mechanical gorilla execution and observes Munch's transformation into a skeleton.
 - **[9:20]** ([[episodes/2026-09-04|2026-09-04]]): Personal lore: hiding a ring (or similar item) from Kendall who is out of town for 24 hours. References making 'husband money,' planning to leave the country on a long vacation after Monday, and revealing the chat trigger word 'science' triggers Chet (Case's wife Kendall apparently hears him rail against AI frequently).
 - **[13:54]** ([[episodes/2026-07-24|2026-07-24]]): Case marks his 40th birthday on air, fielding the broadcast with a $20 Amazon collapsible cane with a flashlight handle (joking it conceals nunchucks) to support his stubborn ankle injury.

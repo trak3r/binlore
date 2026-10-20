@@ -36,6 +36,7 @@ Visually he reads as Crum's twin (bald, bearded, blazer) rather than a costume c
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-19|2026-10-19]] | debate analyst. |
 | [[episodes/2026-04-21\|2026-04-21]] | 30-minute contractual rap marathon over viewer beats. |
 | [[episodes/2026-04-14\|2026-04-14]] | Reads Ben Hooper UPI wire; chat votes down another 30-min rap. |
 | [[episodes/2026-03-20\|2026-03-20]] | Co-hosts news desk; asserts mononym "Scrum, period." |

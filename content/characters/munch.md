@@ -34,6 +34,7 @@ Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-19|2026-10-19]] | debate analyst. |
 | [[episodes/2026-10-10|2026-10-10]] | debate analyst. |
 | [[episodes/2026-09-25|2026-09-25]] | debate analyst. |
 | [[episodes/2026-09-07|2026-09-07]] | Oversees the long-delayed Rock-afire Gorilla execution against Crum. Caught in the catastrophic backblast when the machine explodes, incinerating him into a living, talking skeleton. Insists his skeletal form highlights superior bone structure, debates Crum on Crayola vs. RoseArt, and promises to haunt the desk indefinitely. |
@@ -53,13 +54,13 @@ Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch 
 | [[episodes/2026-05-14|2026-05-14]] | debate analyst. |
 | [[episodes/2026-05-12|2026-05-12]] | debate analyst. |
 | [[episodes/2026-05-04|2026-05-04]] | debate analyst. |
-| [[episodes/2026-04-29|2026-04-29]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (172)</summary>
+<summary>Earlier appearances (173)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-04-29|2026-04-29]] | debate analyst. |
 | [[episodes/2026-04-21|2026-04-21]] | debate analyst. |
 | [[episodes/2026-04-15|2026-04-15]] | debate analyst. |
 | [[episodes/2026-04-14|2026-04-14]] | debate analyst. |
@@ -238,6 +239,7 @@ Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch 
 ## Notable moments
 
 
+- **[1:10:34]** ([[episodes/2026-10-19|2026-10-19]]): Confirmed permanent skeletal form since Sept 7 gorilla incident; claims Halloween as skeletal onboarding period.
 - **[1:27:57]** ([[episodes/2026-09-29|2026-09-29]]): Munch confirms permanent skeleton form since September 7, 2026 incident.
 - **[1:52:38]** ([[episodes/2026-09-07|2026-09-07]]): Transformed into a talking skeleton after catching the fiery backblast of the Rock-afire Gorilla stunt. Claims to have superior bone structure and to be liberated from mortal race boundaries.
 - **[1:50:38]** ([[episodes/2026-09-07|2026-09-07]]): Incinerated by the explosive backfire of the Rock-afire mechanical gorilla during the climax of the Crum Dick Punch execution, transforming into an animated, talking skeleton.
@@ -256,5 +258,3 @@ Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch 
 - **[1:46:29]** ([[episodes/2025-09-02|2025-09-02]]): Says he paid Crum's $150,000 debt to the Rock-afire gorilla out of kindness, then Crum lost again triggering the punch.
 - **[1:58:15]** ([[episodes/2025-07-10|2025-07-10]]): Munch explicitly refused to contact the devil to resurrect Crum after Crum Dick Punch execution
 - **[49:58]** ([[episodes/2025-06-20|2025-06-20]]): Munch claims he gathered all the pieces to sew Crum back together after the gorilla explosion; cleanup took two days.
-
-See also: [[../storylines/al-manchester|Al Manchester]], [[crum|Leonard Crum]], [[scrum|Scrum]], [[../segments/munch-and-crum|Munch & Crum]], [[../storylines/crum-dick-punch|Crum Dick Punch]], [[index|On-Air Talent]].

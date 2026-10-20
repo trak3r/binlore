@@ -1,0 +1,222 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "33:39",
+      "canonical_segment": "News",
+      "title": "Cold Open & Merch Launch",
+      "notes": "Pepito delivers station sign-on; Case announces BIN merch store with single heavyweight tee designed by Tony Cabana (Jamin); Hype Train interrupts with cannibal-type beat freestyle promoting shirts; Halloween stream with Fiona teased for Oct 31."
+    },
+    {
+      "start": "33:39",
+      "end": "70:34",
+      "canonical_segment": "News",
+      "title": "News Desk with Jeff Ripple",
+      "notes": "Case returns from week off with sty; Jeff Ripple joins for France civil unrest (2,400 arrested), Texas estate sale WWII grenades, giant pumpkin rating, honest city council candidate in BC, Shane Gillis SNL monologue, Mississippi AG justifies shooting of 1-year-old, NASA astronaut claims UFOs are demons, Elon Musk promises SpaceX shares to every US child."
+    },
+    {
+      "start": "70:34",
+      "end": "81:21",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: Leaving Comments on Porn",
+      "notes": "Skeletal Munch vs Crum debate whether Crum leaves comments on porn videos; Crum admits he does and defends communal erotic positivity; Munch attacks Crum's masturbatory capability; Crum declared winner."
+    },
+    {
+      "start": "81:21",
+      "end": "107:12",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "Town Hall with Jan and Scrum",
+      "notes": "Case reveals engagement; Jan (intern) and Scrum (Crum alter ego) field chat questions via !th command; topics include tattoos, wishing willow, Shane Gillis time traveler bit, network diversity, porn comments, skate park, mayor frog vs dog, Jollibee orders; Jan departs mid-segment."
+    },
+    {
+      "start": "107:12",
+      "end": "131:35",
+      "canonical_segment": "At the Movies",
+      "title": "Trailer Thursday: Middle East, Slam Tank, Zelda, Baywatch",
+      "notes": "Trent hosts with VHS-quality camera; Chris (parole officer) appears; trailers: Once Upon a Time in the Middle East (anti-imperialism), Slam Tank (game), Zelda: Echoes of Wisdom (Link grown up, adult Ganon), Baywatch reboot (Hasselhoff son, 'horny ocean cops'); Trent cites credit card debt and scanner's powers."
+    },
+    {
+      "start": "131:35",
+      "end": "137:23",
+      "canonical_segment": "Conspiracy Desk",
+      "title": "Porn Expert Johnny Dick Big",
+      "notes": "Johnny Dick Big appears via green screen; defends leaving comments on porn as community building; references porn magazine letter columns; departs after $250 payment mention."
+    },
+    {
+      "start": "137:23",
+      "end": "139:28",
+      "canonical_segment": "News",
+      "title": "Wrap-Up & Raid",
+      "notes": "Case plugs merch link (!shirt / !merch) and Tony Cabana's Etsy; Papito lip-syncs; raid to Gina attempted."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors return broadcast with sty; launches merch store; reveals engagement; hosts news, debate, town hall, and wrap-up.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open sign-on; appears as shirt model recording; interacts with Hype Train.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype correspondent",
+      "notes": "hype correspondent. Interrupts merch segment with cannibal-beat freestyle promoting shirts; acknowledges subs and gifted subs.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-anchors news desk; covers France unrest, grenade estate sale, pumpkin, city council candidate, Shane Gillis, Mississippi shooting, UFO astronaut, Musk SpaceX giveaway.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Skeletal form debates Crum on porn comments; attacks Crum's masturbatory ability; claims Halloween ownership.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defends leaving positive comments on porn; claims literotica preference; wins debate per scoreboard.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Scrum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Crum's alter ego fills town hall seat; avoids hiking trails in browser history; departs with Jan.",
+      "canonical_name": "Scrum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jan",
+      "role": "intern",
+      "notes": "Intern summoned for town hall; reveals calf tattoos, sandal wish, live-action Winks wish; declines full-time hire; leaves mid-segment.",
+      "canonical_name": "Jan",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "field correspondent",
+      "notes": "field correspondent. Hosts At the Movies with degraded camera; claims credit card debt grants scanner's powers/teleportation; discusses Zelda, Baywatch.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "role": "probation officer",
+      "notes": "probation officer. Appears in At the Movies as Trent's supervisor; denies being parole officer; threatens 7-Eleven hangout.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Johnny Dick Big",
+      "role": "porn expert",
+      "notes": "porn expert. Green-screen guest; advocates porn comment community; references magazine letter columns; paid $250.",
+      "canonical_name": "Johnny Dick Big",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Papito",
+      "role": "studio dog",
+      "notes": "studio dog. Appears in shirt recording; lip-syncs during wrap-up.",
+      "canonical_name": "Papito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "Munch remains in permanent skeletal form (since Sept 7 pneumatic gorilla malfunction); references Halloween as 'his time of year' [70:34].",
+      "timestamp": "70:34"
+    },
+    {
+      "storyline": "Al Manchester",
+      "beat": "Munch confirms skeletal identity is not Al Manchester; rejects comparison to racism bit [70:54-71:16].",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Reveals engagement to interns during town hall [90:03].",
+      "timestamp": "90:03",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Launches BIN merch store with single heavyweight tee ($32) designed by Tony Cabana (Jamin) [10:49].",
+      "timestamp": "10:49",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Confirmed permanent skeletal form since Sept 7 gorilla incident; claims Halloween as skeletal onboarding period [70:34].",
+      "timestamp": "70:34",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Trent",
+      "fact": "Claims 'scanner's powers' (teleportation) when in sufficient credit card debt; demonstrated on Chris [110:52].",
+      "timestamp": "110:52",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Chris",
+      "fact": "Identified as Trent's parole officer; threatens 7-Eleven loitering as alternative to drugs [131:13].",
+      "timestamp": "131:13",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Shirt model recording used for merch page; distinct from live Papito [14:50].",
+      "timestamp": "14:50",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell returns from a week off with a sty and launches the BIN merch store, unveiling a single heavyweight tee designed by Tony Cabana. The news desk covers French civil unrest, a WWII grenade estate sale, an honest Canadian city council candidate, and Elon Musk's promise of SpaceX shares for every American child. Skeletal Munch and Crum debate porn comment etiquette, followed by a town hall with intern Jan and Crum's alter ego Scrum where Case announces his engagement. Trent hosts At the Movies with a degraded camera, reviewing trailers for a Middle East satire, a tank game, Zelda: Echoes of Wisdom, and the Baywatch reboot, while his parole officer Chris supervises. Porn expert Johnny Dick Big makes a brief green-screen appearance before a raid attempt closes the broadcast.",
+  "_meta": {
+    "vod_id": "2905479778",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 111554,
+    "approx_prompt_tokens": 27888,
+    "transcript_lines": 329
+  }
+}

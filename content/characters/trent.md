@@ -36,6 +36,7 @@ His probation officer [[chris|Chris]] is contractually required to supervise the
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-19|2026-10-19]] | field correspondent. |
 | [[episodes/2026-04-22|2026-04-22]] | movie correspondent. |
 | [[episodes/2026-03-10|2026-03-10]] | field correspondent. |
 | [[episodes/2026-01-21|2026-01-21]] | movie correspondent. |
@@ -55,13 +56,13 @@ His probation officer [[chris|Chris]] is contractually required to supervise the
 | [[episodes/2024-07-09|2024-07-09]] | field correspondent. |
 | [[episodes/2024-03-21|2024-03-21]] | movies correspondent. |
 | [[episodes/2024-03-01|2024-03-01]] | field correspondent. |
-| [[episodes/2024-02-27|2024-02-27]] | field correspondent. |
 
 <details>
-<summary>Earlier appearances (6)</summary>
+<summary>Earlier appearances (7)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-02-27|2024-02-27]] | field correspondent. |
 | [[episodes/2024-01-17|2024-01-17]] | field correspondent. |
 | [[episodes/2024-01-13|2024-01-13]] | movie correspondent. |
 | [[episodes/2024-01-05|2024-01-05]] | movie correspondent. |
@@ -78,6 +79,7 @@ His probation officer [[chris|Chris]] is contractually required to supervise the
 ## Notable moments
 
 
+- **[1:50:52]** ([[episodes/2026-10-19|2026-10-19]]): Claims 'scanner's powers' (teleportation) when in sufficient credit card debt; demonstrated on Chris.
 - **[2:00:01]** ([[episodes/2024-08-13|2024-08-13]]): Reintroduced as "your boy Trent" for a trailer block.
 - **[1:04:50]** ([[episodes/2024-05-01|2024-05-01]]): Mother dropped him off 20 minutes before broadcast; Chris claims Trent's father owns a steak shop and the parents do not get along.
 - **[1:40:07]** ([[episodes/2024-02-27|2024-02-27]]): Hosts Trent at the Movies; advocates for actor safety on green-screen volumes.

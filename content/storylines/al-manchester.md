@@ -36,6 +36,8 @@ tags:
 
 | Date / Episode | Beat |
 |----------------|------|
+| Date / Episode | Beat |
+|----------------|------|
 | [[../episodes/2024-05-10|2024-05-10]] | Scoreboard tied 92–92 during the Crumback climb; one-debate-per-stream rule in force. |
 | [[../episodes/2024-05-15|2024-05-15]] [1:14:11] | **Inciting incident:** Crum beats Munch's debate score for the first time after 200+ debates. Munch breaks, wanders studio ~3 minutes, returns bald as amnesiac Ale Chrome Chester / Ale Munchester. |
 | [[../episodes/2024-05-21|2024-05-21]] [40:39] | Debates as conciliatory **Al Manchester**; suspicious hairline; spirals anyway and loses. |
@@ -46,14 +48,13 @@ tags:
 | [[../episodes/2024-06-10|2024-06-10]] [40:40] / [1:23:27] | **Restore confirmed (off-desk):** Crum says Al is a soul trapped in Munch; therapy — upset Munch "was brought back to life" because it killed friend Al; plans to free him at Deb-8. |
 | [[../episodes/2024-06-13|2024-06-13]] [2:53:18] | **On-air restore:** Munch back with hair at 100 wins; dismisses Al as a coma mental fart; Crum vows to re-summon / release him. |
 | [[../episodes/2024-06-18|2024-06-18]] [2:32:16] | Crum: Munch cannibalized Al's body on transforming back; split-personality diagnosis; "Al's in there and I'm coming for [him]." |
-
-### Later callbacks (not the live arc)
-
-| Date / Episode | Beat |
-|----------------|------|
 | [[../episodes/2025-06-02|2025-06-02]] [1:44:23] | Park-guest Al Munchester; return may hinge on Crum clearing gorilla debt. |
 | [[../episodes/2025-07-10|2025-07-10]] [2:08:08] | Mid-debate, Crum: "I miss my best friend, Al Manchester." |
 | [[../episodes/2025-09-29|2025-09-29]] [1:51:47] | Hell-concubine testimony: El Manchester is Munch's nice alter ego in hell — "a mistake… something that shouldn't exist." |
+| [[../episodes/2026-10-19|2026-10-19]] | Munch confirms skeletal identity is not Al Manchester; rejects comparison to racism bit [70:54-71:16]. |
+
+### Later callbacks (not the live arc)
+
 
 ## Related Pages
 

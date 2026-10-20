@@ -33,6 +33,7 @@ Chris is on-set because Trent's community-service broadcast requires adult super
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-19|2026-10-19]] | probation officer. |
 | [[episodes/2026-09-25|2026-09-25]] | guest correspondent. |
 | [[episodes/2025-07-12|2025-07-12]] | parole officer / guest. |
 | [[episodes/2025-02-06|2025-02-06]] | in-studio contributor. |
@@ -45,7 +46,6 @@ Chris is on-set because Trent's community-service broadcast requires adult super
 | [[episodes/2024-03-01|2024-03-01]] | contributor. |
 | [[episodes/2024-02-09|2024-02-09]] | Trend at the Movies co-host; debates alliteration, defends Knuckles trailer, clashes with Case over animation quality. |
 | [[episodes/2024-01-05|2024-01-05]] | parole officer. |
-| [[episodes/2023-12-12|2023-12-12]] | Introduces himself on mic as Trent's parole officer who must supervise the trailer block. |
 | [[episodes/2023-11-22|2023-11-22]] | First identified co-hosting Trent at the Movies. |
 
 ## Notable Quotes
@@ -55,6 +55,7 @@ Chris is on-set because Trent's community-service broadcast requires adult super
 ## Notable moments
 
 
+- **[2:11:13]** ([[episodes/2026-10-19|2026-10-19]]): Identified as Trent's parole officer; threatens 7-Eleven loitering as alternative to drugs.
 - **[1:04:50]** ([[episodes/2024-05-01|2024-05-01]]): Claims Trent's father owns a steak shop and that Trent's parents do not get along.
 - **[25:05]** ([[episodes/2024-04-04|2024-04-04]]): Admits urinating every 20 minutes; acknowledges prostate issues mid-trailer block.
 - **[1:31:00]** ([[episodes/2023-12-12|2023-12-12]]): On-mic introduction as Trent's supervising parole officer during Trailer Thursday.

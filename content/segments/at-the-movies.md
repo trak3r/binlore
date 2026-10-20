@@ -96,5 +96,6 @@ Field correspondent [[../characters/trent|Trent]] — a truant teen of deliberat
 | [[episodes/2026-03-10|2026-03-10]] | 1:41:52 | Trent and parole officer Chris watch Ramon Film Productions' 'Eaten Alive', 'Man on Fire' re-reveal, and Marx Brothers' 'A Night at the Opera' trailer. |
 | [[episodes/2026-04-22|2026-04-22]] | 59:32 | Trent reviews trailers for Clayface (Batman universe), Evil Dead Burn (horror), Coyote vs. Acme (saved from tax write-off), and a classic 1950s Looney Tunes … |
 | [[episodes/2026-04-24|2026-04-24]] | 55:02 | Blackwell watches Final Fantasy XIV Evercold teaser, Paul Rudd/Nick Jonas mall musical trailer, Florida Python Challenge documentary trailer, and Apple TV+ W… |
+| [[episodes/2026-10-19|2026-10-19]] | 1:47:12 | Trailer Thursday: Middle East, Slam Tank, Zelda, Baywatch: Trent hosts with VHS-quality camera; Chris (parole officer) appears; trailers: Once Upon a Time in the Middle East (anti-imperialism), Slam Tank (game), Zelda: Echoes of Wisdom (Link grown up, adult Ganon), Baywatch reboot (Hasselhoff son, 'horny ocean cops'); Trent cites credit card debt and scanner's powers. |
 
 See also: [[../characters/trent|Trent]], [[../characters/chris|Chris]], [[index|Broadcast Segments]].
