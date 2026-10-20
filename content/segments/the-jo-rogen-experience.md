@@ -43,6 +43,7 @@ Production claims that neither Joe is more than "50% AI," citing a personal comm
 
 ## See also
 
+- [[town-hall|Town Hall]] — separate audience Q&A desk (`!th`); not this parody segment
 - [[../episodes/2026-07-23|Episode 2026-07-23]]
 - [[../segments/index|Broadcast Segments]]
 - [[../characters/case-blackwell|Case Blackwell]]

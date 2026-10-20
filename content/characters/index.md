@@ -52,6 +52,7 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/hate-sock|Hate Sock]] | Town Hall Contributor | Hostile grey sock puppet with googly eyes whose vocabulary consists entirely of "You wish" and "Dumbass" |
 | [[characters/intern|Intern]] | minor contributor | No summary on file yet |
 | [[characters/jake|Jake]] | minor contributor | No summary on file yet |
+| [[characters/jan|Jan]] | Intern (*Town Hall* / desk fill-in) | Recurring unpaid intern with curly hair; Town Hall guest who declines full-time hire mid-segment |
 | [[characters/jazz-shrimp|Jazz Shrimp]] | Minor Culinary-Music Correspondent | Tempura-fried jazz shrimp who debates food critics over his claim to be the greatest jazz shrimp of all time |
 | [[characters/jeb|Jeb Nogget]] | Host (*How To with Jeb*) | Wood shop host of rogue instructional block, co-hosting with his deceased father trapped in a wooden board |
 | [[characters/jebs-dad|Jeb's Dad]] | Co-Host (*How To with Jeb*) | Deceased patriarch whose cantankerous spirit is trapped in a pine board; openly favors Jet Nogget over Jeb |
