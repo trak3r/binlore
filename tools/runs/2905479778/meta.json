@@ -1,0 +1,19 @@
+{
+  "vod_id": "2905479778",
+  "title": "Monday Merchening",
+  "url": "https://www.twitch.tv/videos/2905479778",
+  "duration_seconds": 8368,
+  "duration": "2:19:28",
+  "timestamp": 1792368000,
+  "aired_at": "2026-10-19T00:00:00+00:00",
+  "date": "2026-10-19",
+  "ingested_at": "2026-10-20T11:26:05.065985+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "2905479778",
+  "yt_url": "https://www.youtube.com/watch?v=2905479778",
+  "twitch_id": "2905479778",
+  "twitch_url": "https://www.twitch.tv/videos/2905479778",
+  "catalog_date": "2026-10-19"
+}
