@@ -21,7 +21,7 @@ tags:
 
 ## Overview & Persona
 
-Booked into a late [[../segments/conspiracy-desk|Conspiracy Desk]] slot on [[episodes/2026-10-19|2026-10-19]] after Pepito supposedly "got the porn guy," Johnny materializes against a poorly keyed cityscape backdrop in a loud blue patterned blazer. He insists the name is an homage to favorite stars — "I am a porn expert I'm not a porn performer" — and carries a green screen everywhere in case he needs to be whisked to a set.
+Booked into a late [[../segments/conspiracy-desk|Conspiracy Desk]] slot on [[episodes/2026-10-19|2026-10-19]] after Pepito supposedly "got the porn guy," Johnny materializes against a poorly keyed cityscape backdrop — towering pompadour, cartoon-thick eyebrows, loud blue patterned blazer. He insists the name is an homage to favorite stars — "I am a porn expert I'm not a porn performer" — and carries a green screen everywhere in case he needs to be whisked to a set.
 
 His thesis: leaving comments on porn is cool because theaters used to be community events, magazine letter columns used to be a subscribed correspondence culture, and modern viewers who only tip OnlyFans without writing are abandoning the art form. Case pushes back on encouraging parasocial obsession with people one masturbates to; Johnny asks who the expert is, declares himself in demand, and negotiates a $250 payment before vanishing.
 
