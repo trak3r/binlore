@@ -58,6 +58,7 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/jebs-dad|Jeb's Dad]] | Co-Host (*How To with Jeb*) | Deceased patriarch whose cantankerous spirit is trapped in a pine board; openly favors Jet Nogget over Jeb |
 | [[characters/jevrything|Jevrything]] | minor contributor | No summary on file yet |
 | [[characters/jizzbo|Jizzbo]] | Wall Electrician / Trial Witness | Join the Wall electrician and guest vocalist; returns from the mountain to answer examination with a conga |
+| [[characters/johnny-dick-big|Johnny Dick Big]] | Porn Expert (*Conspiracy Desk*) | Green-screen guest who defends porn comment culture via magazine letter-column nostalgia; negotiated $250 |
 | [[characters/joe-rogan|Joe Rogan]] | minor contributor | No summary on file yet |
 | [[characters/kendelle|Kendelle]] | In-Studio Presence | Case Blackwell's real-life and in-show girlfriend who appears walking through the streaming studio to her own signature theme music |
 | [[characters/liliana|Liliana]] | News Desk Co-Anchor | Irreverent desk partner returning from a year-long sabbatical with vacation photos and PTO demands |

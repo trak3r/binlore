@@ -53,6 +53,6 @@ Case (or a designated conspiracy correspondent) opens a YouTube rabbit hole — 
 | [[episodes/2025-08-16|2025-08-16]] | 1:49:43 | Case adopts 'Guy Redacted' persona to investigate 'butts are fake' conspiracy via ultra-low-view YouTube videos (astral-projection Democrats contacting Ra, s… |
 | [[episodes/2025-09-13|2025-09-13]] | 51:20 | Guy Redacted attempts conspiracy deep-dive on Charlie Brown; abandons two-hour video, watches AI-generated 'real kids' clip, concludes Peanuts is alien indoc… |
 | [[episodes/2026-04-27|2026-04-27]] | 52:47 | Guy Redacted analyzes viral UK vape shop footage featuring 'magical vape' with calculator screen; presents list of luxury vape mods including $2,500 Geppetto… |
-| [[episodes/2026-10-19|2026-10-19]] | 2:11:35 | Porn Expert Johnny Dick Big: Johnny Dick Big appears via green screen; defends leaving comments on porn as community building; references porn magazine letter columns; departs after $250 payment mention. |
+| [[episodes/2026-10-19|2026-10-19]] | 2:11:35 | Porn Expert [[../characters/johnny-dick-big|Johnny Dick Big]]: [[../characters/johnny-dick-big|Johnny Dick Big]] appears via green screen; defends leaving comments on porn as community building; references porn magazine letter columns; departs after $250 payment mention. |
 
 See also: [[../characters/clementine-verne|Clementine Verne]], [[../characters/guy-redacted|Guy Redacted]], [[index|Broadcast Segments]].
