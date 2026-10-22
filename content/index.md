@@ -18,6 +18,7 @@ This archive documents the network's on-air correspondents, investigative progra
 - [[storylines/index|Events & Story Arcs]] — marathon specials, annual events, and multi-episode newsroom sagas
 - [[sponsors/index|Commercial Sponsors]] — corporate partners, fast-casual underwriters, and commercial dispatches
 - [[episodes/index|Episodes & Broadcast Archive]] — complete broadcast catalog and episode logs
+- [[schedule/index|Schedule Report Card]] — Mon/Wed/Fri attendance grades (affectionate, curved)
 
 ### Featured Coverage
 

@@ -24,6 +24,7 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 
 - **Network Broadcast:** [Twitch (`caseblackwell`)](https://www.twitch.tv/caseblackwell)
 - **Archive Broadcasts:** [YouTube (`CaseBlackwellStreams`)](https://www.youtube.com/@CaseBlackwellStreams)
+- **Schedule Report Card:** [[../schedule/index|MWF attendance grades]] — Fridays pass on a curve; Mondays remain theoretical
 
 ## Notable moments
 

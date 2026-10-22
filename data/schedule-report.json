@@ -1,0 +1,308 @@
+{
+  "advertised_schedule": [
+    "monday",
+    "wednesday",
+    "friday"
+  ],
+  "source": "content/episodes/*.md date frontmatter",
+  "range": {
+    "start": "2023-11-22",
+    "end": "2026-10-19"
+  },
+  "episode_count": 342,
+  "gpa": 1.0,
+  "overall": {
+    "monday": {
+      "hits": 43,
+      "slots": 152,
+      "pct": 28.3,
+      "grade": "F",
+      "epithet": "Theoretical broadcast day"
+    },
+    "wednesday": {
+      "hits": 57,
+      "slots": 152,
+      "pct": 37.5,
+      "grade": "D",
+      "epithet": "Sighted in the wild"
+    },
+    "friday": {
+      "hits": 63,
+      "slots": 152,
+      "pct": 41.4,
+      "grade": "C",
+      "epithet": "Fridays-adjacent competence"
+    },
+    "overall": {
+      "hits": 163,
+      "slots": 456,
+      "pct": 35.7,
+      "grade": "D",
+      "epithet": "Sighted in the wild"
+    },
+    "bonus_non_mwf": 179,
+    "total_episodes": 342
+  },
+  "by_year": {
+    "2023": {
+      "monday": {
+        "hits": 2,
+        "slots": 5,
+        "pct": 40.0,
+        "grade": "C",
+        "epithet": "Fridays-adjacent competence"
+      },
+      "wednesday": {
+        "hits": 4,
+        "slots": 6,
+        "pct": 66.7,
+        "grade": "B",
+        "epithet": "Spirit of the schedule"
+      },
+      "friday": {
+        "hits": 3,
+        "slots": 6,
+        "pct": 50.0,
+        "grade": "C",
+        "epithet": "Fridays-adjacent competence"
+      },
+      "overall": {
+        "hits": 9,
+        "slots": 17,
+        "pct": 52.9,
+        "grade": "C",
+        "epithet": "Fridays-adjacent competence"
+      },
+      "bonus_non_mwf": 12,
+      "total_episodes": 21
+    },
+    "2024": {
+      "monday": {
+        "hits": 10,
+        "slots": 53,
+        "pct": 18.9,
+        "grade": "F",
+        "epithet": "Theoretical broadcast day"
+      },
+      "wednesday": {
+        "hits": 25,
+        "slots": 52,
+        "pct": 48.1,
+        "grade": "C",
+        "epithet": "Fridays-adjacent competence"
+      },
+      "friday": {
+        "hits": 21,
+        "slots": 52,
+        "pct": 40.4,
+        "grade": "C",
+        "epithet": "Fridays-adjacent competence"
+      },
+      "overall": {
+        "hits": 56,
+        "slots": 157,
+        "pct": 35.7,
+        "grade": "D",
+        "epithet": "Sighted in the wild"
+      },
+      "bonus_non_mwf": 62,
+      "total_episodes": 118
+    },
+    "2025": {
+      "monday": {
+        "hits": 18,
+        "slots": 52,
+        "pct": 34.6,
+        "grade": "D",
+        "epithet": "Sighted in the wild"
+      },
+      "wednesday": {
+        "hits": 15,
+        "slots": 53,
+        "pct": 28.3,
+        "grade": "F",
+        "epithet": "Theoretical broadcast day"
+      },
+      "friday": {
+        "hits": 23,
+        "slots": 52,
+        "pct": 44.2,
+        "grade": "C",
+        "epithet": "Fridays-adjacent competence"
+      },
+      "overall": {
+        "hits": 56,
+        "slots": 157,
+        "pct": 35.7,
+        "grade": "D",
+        "epithet": "Sighted in the wild"
+      },
+      "bonus_non_mwf": 61,
+      "total_episodes": 117
+    },
+    "2026": {
+      "monday": {
+        "hits": 13,
+        "slots": 42,
+        "pct": 31.0,
+        "grade": "D",
+        "epithet": "Sighted in the wild"
+      },
+      "wednesday": {
+        "hits": 13,
+        "slots": 41,
+        "pct": 31.7,
+        "grade": "D",
+        "epithet": "Sighted in the wild"
+      },
+      "friday": {
+        "hits": 16,
+        "slots": 42,
+        "pct": 38.1,
+        "grade": "D",
+        "epithet": "Sighted in the wild"
+      },
+      "overall": {
+        "hits": 42,
+        "slots": 125,
+        "pct": 33.6,
+        "grade": "D",
+        "epithet": "Sighted in the wild"
+      },
+      "bonus_non_mwf": 44,
+      "total_episodes": 86
+    }
+  },
+  "last_12_months": {
+    "monday": {
+      "hits": 16,
+      "slots": 53,
+      "pct": 30.2,
+      "grade": "D",
+      "epithet": "Sighted in the wild"
+    },
+    "wednesday": {
+      "hits": 14,
+      "slots": 52,
+      "pct": 26.9,
+      "grade": "F",
+      "epithet": "Theoretical broadcast day"
+    },
+    "friday": {
+      "hits": 18,
+      "slots": 52,
+      "pct": 34.6,
+      "grade": "D",
+      "epithet": "Sighted in the wild"
+    },
+    "overall": {
+      "hits": 48,
+      "slots": 157,
+      "pct": 30.6,
+      "grade": "D",
+      "epithet": "Sighted in the wild"
+    },
+    "bonus_non_mwf": 56,
+    "total_episodes": 104
+  },
+  "all_episodes_by_weekday": {
+    "Monday": 43,
+    "Thursday": 68,
+    "Saturday": 42,
+    "Friday": 63,
+    "Wednesday": 57,
+    "Sunday": 5,
+    "Tuesday": 64
+  },
+  "longest_hit_streaks": [
+    {
+      "start": "2025-01-15",
+      "end": "2025-02-03",
+      "slots": 9,
+      "calendar_days": 19
+    },
+    {
+      "start": "2023-12-06",
+      "end": "2023-12-18",
+      "slots": 6,
+      "calendar_days": 12
+    },
+    {
+      "start": "2026-04-22",
+      "end": "2026-05-04",
+      "slots": 6,
+      "calendar_days": 12
+    },
+    {
+      "start": "2024-06-05",
+      "end": "2024-06-14",
+      "slots": 5,
+      "calendar_days": 9
+    },
+    {
+      "start": "2026-05-29",
+      "end": "2026-06-08",
+      "slots": 5,
+      "calendar_days": 10
+    }
+  ],
+  "longest_miss_streaks": [
+    {
+      "start": "2024-11-08",
+      "end": "2024-12-20",
+      "slots": 19,
+      "calendar_days": 42
+    },
+    {
+      "start": "2025-11-05",
+      "end": "2025-12-17",
+      "slots": 19,
+      "calendar_days": 42
+    },
+    {
+      "start": "2025-06-23",
+      "end": "2025-07-16",
+      "slots": 11,
+      "calendar_days": 23
+    },
+    {
+      "start": "2026-02-09",
+      "end": "2026-03-04",
+      "slots": 11,
+      "calendar_days": 23
+    },
+    {
+      "start": "2025-08-13",
+      "end": "2025-09-01",
+      "slots": 9,
+      "calendar_days": 19
+    }
+  ],
+  "grading_scale": [
+    {
+      "min_pct": 75,
+      "grade": "A",
+      "epithet": "Showed up on purpose"
+    },
+    {
+      "min_pct": 55,
+      "grade": "B",
+      "epithet": "Spirit of the schedule"
+    },
+    {
+      "min_pct": 40,
+      "grade": "C",
+      "epithet": "Fridays-adjacent competence"
+    },
+    {
+      "min_pct": 30,
+      "grade": "D",
+      "epithet": "Sighted in the wild"
+    },
+    {
+      "min_pct": 0,
+      "grade": "F",
+      "epithet": "Theoretical broadcast day"
+    }
+  ]
+}

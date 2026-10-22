@@ -358,6 +358,27 @@ def cmd_rank_munch_crum(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_schedule_report(args: argparse.Namespace) -> int:
+    from .paths import REPO_ROOT
+    from .schedule_report import DATA_PATH, PAGE_PATH, write_report
+
+    report = write_report(sync_page=not args.json_only)
+    o = report["overall"]
+    print(f"Wrote {DATA_PATH.relative_to(REPO_ROOT)}")
+    if not args.json_only:
+        print(f"Wrote {PAGE_PATH.relative_to(REPO_ROOT)}")
+    print(
+        f"MWF {o['overall']['hits']}/{o['overall']['slots']} ({o['overall']['pct']}%) "
+        f"grade {o['overall']['grade']} · GPA {report['gpa']}"
+    )
+    print(
+        f"  Mon {o['monday']['pct']}% {o['monday']['grade']} · "
+        f"Wed {o['wednesday']['pct']}% {o['wednesday']['grade']} · "
+        f"Fri {o['friday']['pct']}% {o['friday']['grade']}"
+    )
+    return 0
+
+
 def cmd_extract_ranked(args: argparse.Namespace) -> int:
     """Extract + update-wiki for entries in a ranked JSON list (Munch/Crum mine)."""
     import json
@@ -808,6 +829,17 @@ def build_parser() -> argparse.ArgumentParser:
     er.add_argument("--dry-run", action="store_true", help="Print queue only")
     er.add_argument("--log-file", help="Log path (default: tools/runs/munch-crum-extract.log)")
     er.set_defaults(func=cmd_extract_ranked)
+
+    sched = sub.add_parser(
+        "schedule-report",
+        help="Regenerate MWF schedule report card from the episode catalog",
+    )
+    sched.add_argument(
+        "--json-only",
+        action="store_true",
+        help="Write data/schedule-report.json without refreshing content/schedule/index.md",
+    )
+    sched.set_defaults(func=cmd_schedule_report)
 
     return p
 

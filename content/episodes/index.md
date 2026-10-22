@@ -7,6 +7,8 @@ description: Complete broadcast archive and episode backlog for Barely Informed 
 
 Complete stream archive tracked for *Barely Informed News*. Episodes are ingested from Twitch and YouTube streams to document network correspondents, broadcast segments, developing storylines, and lore.
 
+For how often the advertised Mon/Wed/Fri brochure survives contact with reality, see the [[../schedule/index|Schedule Report Card]].
+
 > **💡 Understanding Stream Dates, VOD IDs & Archives:**
 > - **Broadcast Dates:** Listed by air date (`YYYY-MM-DD`). Ingested episode wiki pages are slugified by broadcast date (e.g. `[[2026-09-04|Artificially General News]]`).
 > - **VOD IDs:** Live streams air on [Twitch (`caseblackwell`)](https://www.twitch.tv/caseblackwell), where Twitch assigns a numeric video ID (e.g. `2863722826`). These numeric IDs are the identifiers used with `./binlore` CLI commands (e.g. `./binlore ingest 2863722826` or `./binlore extract 2863722826`).
