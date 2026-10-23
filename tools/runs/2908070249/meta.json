@@ -1,0 +1,19 @@
+{
+  "vod_id": "2908070249",
+  "title": "Thursday News Okay?",
+  "url": "https://www.twitch.tv/videos/2908070249",
+  "duration_seconds": 4737,
+  "duration": "1:18:57",
+  "timestamp": 1792627200,
+  "aired_at": "2026-10-22T00:00:00+00:00",
+  "date": "2026-10-22",
+  "ingested_at": "2026-10-23T10:13:25.196838+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "2908070249",
+  "yt_url": "https://www.youtube.com/watch?v=2908070249",
+  "twitch_id": "2908070249",
+  "twitch_url": "https://www.twitch.tv/videos/2908070249",
+  "catalog_date": "2026-10-22"
+}
