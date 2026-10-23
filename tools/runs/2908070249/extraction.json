@@ -1,0 +1,125 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "02:10",
+      "canonical_segment": "News",
+      "title": "Station Sign-On and Technical Check",
+      "notes": "Pepito delivers the cold-open sign-on, troubleshoots streaming software, and laments segment trigger overload before handing off to the news desk."
+    },
+    {
+      "start": "02:10",
+      "end": "23:36",
+      "canonical_segment": "News",
+      "title": "News Desk with Rick: PHP Vulnerabilities, Escaped Kangaroo, Trump Salute, Jared Kushner Hack, Robot Demo",
+      "notes": "Rick joins as correspondent; covers global PHP flaw patching surge, Tennessee kangaroo escape, Trump saluting empty air, Kushner phone hack revealing $700M transfers, and Unitree H2X Kung Fu robot demonstration."
+    },
+    {
+      "start": "23:36",
+      "end": "41:59",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web: Harassment Parody, AOL 6.0 Roast, Drone Gun, Bodybuilder Rage Bait, Columbus Day Parade, Space Ghost",
+      "notes": "Case and Rick review viewer-submitted clips: workplace harassment parody, profane AOL 6.0 satire, personal drone missile gun, steroid physique rage-bait, evolving Columbus Day parade vlog, and Space Ghost interview."
+    },
+    {
+      "start": "42:22",
+      "end": "01:17:56",
+      "canonical_segment": "News",
+      "title": "Rennerton Rebuild: Valheim Server Launch and Skeleton Mayor Press Conference",
+      "notes": "Munch (as immortal skeleton Skellomunch) launches Valheim server to rebuild Rennerton, harvests resources, constructs mayor's mansion and press corps, fields hostile citizen questions, bans Crum from candidacy."
+    },
+    {
+      "start": "01:17:56",
+      "end": "01:18:57",
+      "canonical_segment": "News",
+      "title": "Raid Outro",
+      "notes": "Case raids Wolf Den (Vinodd) and directs Patreon members to post-show stream."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers station sign-on, manages segment triggers, and hands off to news desk.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors news desk with Rick, co-hosts Amongst the Web, launches Rennerton Valheim rebuild segment.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosts news desk and Amongst the Web, debuts MC Throat Fuck rap persona during sub readings.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Appears as immortal skeleton Skellomunch, reelected mayor of Rennerton, rebuilds town in Valheim and holds press conference.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Rennerton Rebuild",
+      "beat": "[2026-10-22] Munch launches Valheim server (join code 317139, password 'Munch') to rebuild Rennerton from wilderness; constructs mayor's mansion, press corps, and beds; bans Crum from future candidacy; fields hostile citizen questions.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Confirmed immortal skeleton form after September 7, 2026 incineration; now calls himself Skellomunch.",
+      "timestamp": "[45:51]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Reelected mayor of Rennerton; elections currently closed until town hall rebuilt.",
+      "timestamp": "[47:40]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Served briefly as mayor of Rennerton and reduced wood stores to essentially zero.",
+      "timestamp": "[51:43]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Valheim server established as new Rennerton management software; server name 'Rennerton' (two Ns), join code 317139, password 'Munch' (lowercase).",
+      "timestamp": "[01:09:09]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Bans Crum from running for mayor of Rennerton; declares Crum banned from town.",
+      "timestamp": "[01:16:34]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opens with Pepito's technical sign-on before Case Blackwell and Rick deliver a news block covering global PHP vulnerability exploits, an escaped Tennessee kangaroo, Trump saluting empty air, Jared Kushner's hacked phone, and a Unitree Kung Fu robot demo. The pair then host Amongst the Web reviewing viral clips including a profane AOL 6.0 parody and a personal drone missile gun. In the final segment, Munch — now an immortal skeleton following his September incineration — launches a Valheim server to rebuild Rennerton from wilderness, constructs a mayor's mansion and press corps, and holds a hostile press conference where he bans Crum from future candidacy.",
+  "_meta": {
+    "vod_id": "2908070249",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 75013,
+    "approx_prompt_tokens": 18753,
+    "transcript_lines": 204
+  }
+}

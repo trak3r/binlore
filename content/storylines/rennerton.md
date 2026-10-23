@@ -44,15 +44,16 @@ Two *Return To Renerton* telecasts aired on **2024-10-13**, followed by a Hallow
 
 | Date / Episode | Beat |
 |----------------|------|
+| 2024-10-13 (`DRCre_ofu50`) | First *Return To Renerton* marathon: Pepito → Kasem G → Crum → Chet → Peter Gibbon administrations; handoff to noon continuation. *(Episode page not yet generated.)* |
 | [[../episodes/2024-09-19|2024-09-19]] | Tyler discusses the SimCity city Rennerton (and Quiznos rat parties) on-air ahead of the formal return. |
 | [[../episodes/2024-10-03|2024-10-03]] | Three Rennerton mayoral nomination polls fill ballot slots (September Tyler, Lady Kendall, Pepito, Hype Train among nominees); park denizens also declare bids. |
 | [[../episodes/2024-10-10|2024-10-10]] | Mayoral rap battle (Munch/Pepito vs. Crum/Hamtaro) and five-candidate Town Hall; Case confirms Saturday return to Rennerton (Kendall removed from ballot while out of town). |
-| 2024-10-13 (`DRCre_ofu50`) | First *Return To Renerton* marathon: Pepito → Kasem G → Crum → Chet → Peter Gibbon administrations; handoff to noon continuation. *(Episode page not yet generated.)* |
 | [[../episodes/2024-10-13|2024-10-13]] (`sugAmJtb3HU`) | Continuation marathon in They Are Billions: Pepito, Jeb, Hot Dog Sandwich, Munch rebuild, Xena Warrior Princess; city collapses; raid out. |
 | [[../episodes/2024-10-15|2024-10-15]] | Post-Rennerton technical recovery; Case cites weekend Cities: Skylines session that ended in zombie apocalypse. |
 | [[../episodes/2024-10-31|2024-10-31]] | *Godzilla Mayors Zombie Apocalypse* Halloween election night; Crum wins 69–0 and builds walls/archers. |
 | [[../episodes/2025-01-14|2025-01-14]] | Munch & Crum debate governing the zombie city of Rennerton ("roam and groan" zones, tactical human walls). |
 | [[../episodes/2026-08-26|2026-08-26]] [16:01] | Case recounts that the original BIN was a SimCity stream (then Bass Pro Shops IRL / Fiona co-streams → news desk). |
+| [[../episodes/2026-10-22|2026-10-22]] | [2026-10-22] Munch launches Valheim server (join code 317139, password 'Munch') to rebuild Rennerton from wilderness; constructs mayor's mansion, press corps, and beds; bans Crum from future candidacy; fields hostile citizen questions. |
 
 ## Related Pages
 
