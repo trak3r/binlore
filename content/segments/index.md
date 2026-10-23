@@ -26,5 +26,6 @@ Signature programming and recurring newsroom desks across the *Barely Informed N
 | [[segments/dj-c4\|DJ C4]] | In-Studio Songwriting | Live musical production in DJC4 Studios composing correspondent themes and anthems with AI assistance |
 | [[segments/at-the-movies\|At the Movies]] | Film Trailer Desk | Trent (truant teen) and probation officer Chris screen trailers from a green-screen movie theater |
 | [[segments/conspiracy-desk\|Conspiracy Desk]] | Conspiracy Deep-Dive | Conspiracy Time / Truth Zone rabbit holes, later anchored by Guy Redacted |
+| [[segments/rebuild-rennerton\|Rebuild Rennerton]] | Municipal Rebuild (Valheim) | Chat-elected mayors (debut: Skellomunch) rebuild Rennerton in modded Valheim; join code + `!pc` press desk |
 
 See also: [[../characters/index|On-Air Talent]], [[../storylines/index|Events & Story Arcs]].

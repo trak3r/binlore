@@ -1,0 +1,70 @@
+---
+title: Rebuild Rennerton
+type: segment
+aliases:
+  - Rennerton Rebuild
+  - Valheim Rennerton
+  - Skeleton Mayor
+  - Skellomunch Rennerton
+first_seen: 2026-10-22
+status: active
+tags:
+  - segment
+  - rennerton
+  - valheim
+  - city-builder
+---
+
+# Rebuild Rennerton
+
+![Rebuild Rennerton on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/rebuild-rennerton.jpg)
+
+**Rebuild Rennerton** is the live municipal reconstruction desk on *Barely Informed News*: chat-elected mayors (starting with skeletal [[../characters/munch|Ralph Munchcut]] / **Skellomunch**) rebuild the ruined city of [[../storylines/rennerton|Rennerton]] inside a **modded Valheim** world while citizens grill them via `!pc`.
+
+## Format
+
+Case loads Valheim as "Rennerton management software," seats the current mayor in-character, and lets chat join the server as press / settlers. The mayor harvests, builds (mansion first, democracy later), fields `!pc` press questions, and occasionally executes misbehaving deer. Elections are promised once a town hall exists; until then the incumbent runs a one-skeleton municipal monopoly.
+
+## How to join (as announced on air)
+
+Details read on [[../episodes/2026-10-22|2026-10-22]] during Skellomunch's inaugural rebuild:
+
+| Item | Value |
+|---|---|
+| Game | [Valheim](https://store.steampowered.com/app/892970/Valheim/) (required) |
+| Mod loader | [Thunderstore](https://thunderstore.io/) — Case posted a **Thunderstore profile / pack code in Twitch chat** so clients match the modded lobby ("clear customs") |
+| Server name | `Rennerton` (two Ns; capital R) |
+| Join code | `317139` |
+| Password | `munch` (all-lowercase confirmed on air; Case briefly hedged it might be `Munch`) |
+| Press desk | `!pc` — submit a question to the mayor |
+
+> **Thunderstore code:** Spoken on stream as "the code Case just put in chat," but **not captured in the ASR transcript**. If you have a clip / chat export of the pack code, [open a PR](https://github.com/trak3r/binlore) and we will add it here.
+
+## Key Elements
+
+- **Chat elects, Case plays:** Continuity with classic [[../storylines/rennerton|Rennerton]] mayoral sims — the ballot picks the mayor; Case pilots the build *as* that character.
+- **Skellomunch era:** Debut mayor is immortal-skeleton Munch after the Sept 2026 incineration; platform includes wood emergency, hallucinogenic Rennerton raspberries, and a hard ban on [[../characters/crum|Crum]] candidacy.
+- **Press corps:** `!pc` questions land as on-screen mayoral interrogation while the city is still mostly trees.
+- **Modded wilderness:** Advanced "Valhom Communications" via Thunderstore — vanilla Valheim is dismissed as insufficient for municipal work.
+
+## Known occurrences
+
+| Episode | Timestamp | Notes |
+|---|---|---|
+| [[../episodes/2026-10-22\|2026-10-22]] | 42:22 | **Debut.** Skellomunch launches the Valheim Rennerton server, harvests wood/stone, builds workbench / mayor's mansion / press podium, announces join code `317139` + password `munch`, fields hostile `!pc` questions, bans Crum from future races. |
+
+## Notable moments
+
+- **[42:22]** ([[../episodes/2026-10-22|2026-10-22]]): "It's time to rebuild Rennerton."
+- **[45:35]** ([[../episodes/2026-10-22|2026-10-22]]): Skellomunch cold-open in the wilderness; claims reelection and closed polls until a town hall exists.
+- **[47:06]** ([[../episodes/2026-10-22|2026-10-22]]): Thunderstore + chat code required to "clear customs" into Rennerton.
+- **[1:09:09]** ([[../episodes/2026-10-22|2026-10-22]]): Join code `317139`, server `Rennerton`, password `munch`.
+- **[1:16:34]** ([[../episodes/2026-10-22|2026-10-22]]): Crum banned from mayoral runs and declared banned from town.
+
+## Open Questions
+
+- Exact **Thunderstore profile / modpack code** Case pasted in chat on debut night
+- Whether the `317139` lobby stays up between streams
+- Next chat-elected mayor after Skellomunch's emergency term
+
+See also: [[../storylines/rennerton|Rennerton]], [[../characters/munch|Ralph Munchcut]], [[../characters/crum|Leonard Crum]], [[../characters/case-blackwell|Case Blackwell]], [[index|Broadcast Segments]].

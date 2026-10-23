@@ -7,12 +7,13 @@ aliases:
   - Rennerton Mayoral Simulation
   - Godzilla Mayors
   - Zombie City Rennerton
-status: dormant / lore callbacks
+status: active (Valheim rebuild)
 tags:
   - storyline
   - marathon
   - city-builder
   - election
+  - valheim
 ---
 
 # Rennerton
@@ -23,13 +24,13 @@ Case later traced the network's own origins to a SimCity stream that preceded th
 
 ## Status
 
-**Dormant / Lore Callbacks.** The flagship mayoral marathon cluster lands in October 2024; later broadcasts still treat Rennerton as an established zombie municipality (e.g. Munch & Crum platform debates) without a full return stream.
+**Active — [[../segments/rebuild-rennerton|Rebuild Rennerton]] (Valheim).** The flagship mayoral marathon cluster landed in October 2024; after a stretch of lore callbacks, the city returned on [[../episodes/2026-10-22|2026-10-22]] as a modded Valheim rebuild under skeletal mayor **Skellomunch**, with chat able to join the live server.
 
 ## Background & Mechanics
 
 - **Chat Elects, Case Plays:** Flash polls and town halls fill the ballot with network personalities (and occasional objects). Case then pilots the city-builder *in character* as that mayor—impressions, policy raps, and press conferences included.
 - **Spellings:** On-air and archive titles oscillate between Renerton and Rennerton; both refer to the same city.
-- **Games:** Pre-marathon chatter frames the city as a SimCity project; the documented October 13 marathon identifies **They Are Billions** as the mayoring software on the afternoon continuation, while the next weekday show cites a weekend **Cities: Skylines** session that ended in zombie apocalypse.
+- **Games:** Pre-marathon chatter frames the city as a SimCity project; the documented October 13 marathon identifies **They Are Billions** as the mayoring software on the afternoon continuation, while the next weekday show cites a weekend **Cities: Skylines** session that ended in zombie apocalypse. The 2026 [[../segments/rebuild-rennerton|Rebuild Rennerton]] desk relocates municipal software to **modded Valheim**.
 - **Recurring Mayors & Lore:** Pepito, Jeb Nogget, Crum, Munch, Peter Gibbon, Hot Dog Sandwich, Xena Warrior Princess, Godzilla, Gina Darling's forehead, and a Hamtaro-loving hamster have all held (or contested) office. Civic brands include Renerton Gold beer and river burials.
 
 ## Flagship Weekend (October 2024)
@@ -53,10 +54,11 @@ Two *Return To Renerton* telecasts aired on **2024-10-13**, followed by a Hallow
 | [[../episodes/2024-10-31|2024-10-31]] | *Godzilla Mayors Zombie Apocalypse* Halloween election night; Crum wins 69–0 and builds walls/archers. |
 | [[../episodes/2025-01-14|2025-01-14]] | Munch & Crum debate governing the zombie city of Rennerton ("roam and groan" zones, tactical human walls). |
 | [[../episodes/2026-08-26|2026-08-26]] [16:01] | Case recounts that the original BIN was a SimCity stream (then Bass Pro Shops IRL / Fiona co-streams → news desk). |
-| [[../episodes/2026-10-22|2026-10-22]] | [2026-10-22] Munch launches Valheim server (join code 317139, password 'Munch') to rebuild Rennerton from wilderness; constructs mayor's mansion, press corps, and beds; bans Crum from future candidacy; fields hostile citizen questions. |
+| [[../episodes/2026-10-22|2026-10-22]] | [[../segments/rebuild-rennerton|Rebuild Rennerton]] debut: Skellomunch launches Valheim server (join code `317139`, password `munch`); builds mayor's mansion / press corps; bans Crum from candidacy. |
 
 ## Related Pages
 
+- [[../segments/rebuild-rennerton|Rebuild Rennerton]]
 - [[../characters/case-blackwell|Case Blackwell]]
 - [[../characters/pepito|Pepito]]
 - [[../characters/munch|Ralph Munchcut]]
