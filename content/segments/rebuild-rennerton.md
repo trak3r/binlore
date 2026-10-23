@@ -32,13 +32,12 @@ Details read on [[../episodes/2026-10-22|2026-10-22]] during Skellomunch's inaug
 | Item | Value |
 |---|---|
 | Game | [Valheim](https://store.steampowered.com/app/892970/Valheim/) (required) |
-| Mod loader | [Thunderstore](https://thunderstore.io/) — Case posted a **Thunderstore profile / pack code in Twitch chat** so clients match the modded lobby ("clear customs") |
+| Mod loader | [Thunderstore](https://thunderstore.io/) — import the profile code below so clients match the modded lobby ("clear customs") |
+| Thunderstore code | `01a1662a-2147-7e98-69a2-9713592ec82f` (pasted in Twitch chat on debut) |
 | Server name | `Rennerton` (two Ns; capital R) |
 | Join code | `317139` |
 | Password | `munch` (all-lowercase confirmed on air; Case briefly hedged it might be `Munch`) |
 | Press desk | `!pc` — submit a question to the mayor |
-
-> **Thunderstore code:** Spoken on stream as "the code Case just put in chat," but **not captured in the ASR transcript**. If you have a clip / chat export of the pack code, [open a PR](https://github.com/trak3r/binlore) and we will add it here.
 
 ## Key Elements
 
@@ -57,13 +56,12 @@ Details read on [[../episodes/2026-10-22|2026-10-22]] during Skellomunch's inaug
 
 - **[42:22]** ([[../episodes/2026-10-22|2026-10-22]]): "It's time to rebuild Rennerton."
 - **[45:35]** ([[../episodes/2026-10-22|2026-10-22]]): Skellomunch cold-open in the wilderness; claims reelection and closed polls until a town hall exists.
-- **[47:06]** ([[../episodes/2026-10-22|2026-10-22]]): Thunderstore + chat code required to "clear customs" into Rennerton.
+- **[47:06]** ([[../episodes/2026-10-22|2026-10-22]]): Thunderstore + chat code (`01a1662a-2147-7e98-69a2-9713592ec82f`) required to "clear customs" into Rennerton.
 - **[1:09:09]** ([[../episodes/2026-10-22|2026-10-22]]): Join code `317139`, server `Rennerton`, password `munch`.
 - **[1:16:34]** ([[../episodes/2026-10-22|2026-10-22]]): Crum banned from mayoral runs and declared banned from town.
 
 ## Open Questions
 
-- Exact **Thunderstore profile / modpack code** Case pasted in chat on debut night
 - Whether the `317139` lobby stays up between streams
 - Next chat-elected mayor after Skellomunch's emergency term
 
