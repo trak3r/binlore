@@ -19,7 +19,7 @@ Major broadcast events and ongoing narrative arcs spanning multiple telecasts �
 
 | Event / Arc | Status | Notes |
 |---|---|---|
-| [[rennerton\|Rennerton]] | dormant / lore callbacks | Chat-elected mayors; Case plays the city-builder as the winner (Oct 2024 *Return To Renerton* + Halloween sequel) |
+| [[rennerton\|Rennerton]] | active (Valheim rebuild) | Chat-elected mayors; Case plays the city-builder as the winner — Oct 2024 marathon, now [[../segments/rebuild-rennerton\|Rebuild Rennerton]] in modded Valheim |
 | [[deb-8\|Deb-8]] | resolved / concluded | Eight-hour debate marathon stretch goal → July 20, 2024 flagship telecast |
 | [[grunchmas\|Grunchmas]] | active / recurring annual | Annual Grunch Fucks List specials (2023–2025+) |
 
