@@ -1,0 +1,225 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "08:40",
+      "canonical_segment": "News",
+      "title": "Cold Open & Sign-On",
+      "notes": "Pepito delivers the official station sign-on and countdown, declares the show live."
+    },
+    {
+      "start": "08:40",
+      "end": "37:00",
+      "canonical_segment": "News",
+      "title": "News Desk: Alaska Election, AI Food Photos, Longhorns Bevo Labs, CBS/DraftKings, Rollerball",
+      "notes": "Case Blackwell anchors solo news block covering DOJ lawsuit over Alaska Senate race, Just Eat AI menu apology, Texas Longhorns Bevo Labs AI analytics platform, CBS stations carrying DraftKings branding, and a Rollerball trailer tangent."
+    },
+    {
+      "start": "38:10",
+      "end": "54:00",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: Should Case Pay More Attention to Chat + Ice Cream vs Frozen Yogurt",
+      "notes": "Munch (as skeleton mayor) and Crum debate audience engagement and dessert preferences; Kendelle walk-through breaks the bit; Munch claims victory on ice cream after Kendelle votes."
+    },
+    {
+      "start": "55:20",
+      "end": "1:03:00",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train: Reptilian Gorillas & Joe Rogan CIA Guests",
+      "notes": "Hype Train commandeers broadcast with freestyle about seven-foot scaly gorillas, Joe Rogan interviewing ex-CIA officers, and claims of being silenced by intelligence agencies."
+    },
+    {
+      "start": "1:03:24",
+      "end": "1:18:50",
+      "canonical_segment": "Therapy",
+      "title": "Therapy: Guy Redacted Session",
+      "notes": "Guy Redacted (therapist) conducts chaotic session with Hype Train; covers abandonment issues, conspiracy beliefs, wolf urine hair care, Bogart Weevils ska band, and redacted name sensitivity."
+    },
+    {
+      "start": "1:18:50",
+      "end": "1:36:23",
+      "canonical_segment": "DJ C4",
+      "title": "DJ C4: Ska Theme Song for Rebuild Rennerton",
+      "notes": "DJ C4 takes chat genre vote (Ska wins), ghostwriter assembles lyrics from chat, Munch performs vocals live from 'the Nethers' en route to Rennerton."
+    },
+    {
+      "start": "1:36:43",
+      "end": "1:51:39",
+      "canonical_segment": "CryptoZeu$",
+      "title": "CryptoZeu$: Pumpkin Carver & Mother Interventions",
+      "notes": "Brandon plays free Windows game Pumpkin Carver; mother interrupts with chicken slurry typo, fart greeting, orthopedic bunions, and credit-claiming; Brandon completes maze and exits."
+    },
+    {
+      "start": "1:51:39",
+      "end": "4:22:13",
+      "canonical_segment": "Rebuild Rennerton",
+      "title": "Rebuild Rennerton: Valheim Reconstruction Marathon",
+      "notes": "Munch (as skeleton mayor) leads multi-hour Valheim rebuild: press conference, first citizens (MVT, Exterminator, Stanton), skate park half-pipe, mayor's mansion on stilts, boar pen, green skeleton transformation, resource cheats enabled."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on and countdown; refused to fix segment request tool.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored solo news desk; juggled segment backlog and Rennerton rebuild plans.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst / mayor of Rennerton",
+      "notes": "debate analyst / mayor of Rennerton. Appeared as immortal skeleton; won ice cream debate via Kendelle vote; sang Ska theme; led 2.5-hour Valheim reconstruction as mayor.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Munch on chat engagement and frozen yogurt; referenced hell stint and gambling debts.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical/cultural correspondent",
+      "notes": "musical/cultural correspondent. Derailed into reptilian gorilla conspiracy freestyle; received therapy from Guy Redacted.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Guy Redacted",
+      "role": "therapist",
+      "notes": "Conducted chaotic therapy session with Hype Train; claimed best therapist American healthcare affords.",
+      "canonical_name": "Guy Redacted",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ C4",
+      "role": "composer/producer",
+      "notes": "composer/producer. Produced Ska theme for Rennerton with chat lyrics; ghostwrote and mixed live.",
+      "canonical_name": "DJ C4",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Played Pumpkin Carver; endured mother's door interventions; completed maze and exited segment.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Brief walk-through with engagement ring visible; voted ice cream, swinging debate.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "ChetAI",
+      "role": "neural co-host",
+      "notes": "neural co-host. Referenced in debate as having 'great clothesline' potential; not physically present.",
+      "canonical_name": "ChetAI",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Mentioned in debate re: wire-eating habits; not physically present.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Rennerton",
+      "beat": "[2026-10-23] Major reconstruction advance: press corps built, first three citizens joined (MVT, Exterminator, Stanton), skate park half-pipe completed, mayor's mansion on stilts framed, boar pen established, Munch transformed to green skeleton via combat, resource rates tripled via server settings.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[2026-10-23] Referenced in debate: Munch mocks Crum's hell stint and 'Hell's Wasteland' skate park naming rights; Crum's gambling liabilities remain lore backdrop.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Al Manchester",
+      "beat": "[2026-10-23] Munch references Al as 'trapped inside' while asserting skeleton dominance; Al Manchester persona remains dormant.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Confirmed immortal talking skeleton since Sept 7, 2026 incineration; claims never lost a fight; now green skeleton after black forest combat [1:19:28, 3:19:28, 3:21:42].",
+      "timestamp": "38:10",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Declared himself mayor-sheriff-brothel owner of Rennerton; building city in Valheim with chat citizens [1:51:39+].",
+      "timestamp": "38:10",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Wearing engagement ring visible on camera; Case would say 'I love you' per Munch [49:50].",
+      "timestamp": "49:50",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Performed Ska vocals for Rennerton theme song live from 'the Nethers' [1:31:10-1:34:21].",
+      "timestamp": "1:31:10",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Rennerton",
+      "fact": "First citizens joined server: Melody Von Torture (MVT), Exterminator, Stanton [2:01:00, 2:02:32, 3:49:14].",
+      "timestamp": "2:01:00",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Rennerton",
+      "fact": "Server settings modified: resource drops tripled, boar leather rates increased [3:05:22, 3:06:08].",
+      "timestamp": "3:05:22",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News aired a marathon Friday Newstravaganza anchored by Case Blackwell, featuring a solo news desk covering Alaska election interference, AI food photography failures, and Texas Longhorns' Bevo Labs analytics. The Munch & Crum debate desk returned with Munch appearing as an immortal green skeleton; he won an ice cream vs. frozen yogurt debate after Kendelle's walk-through vote. Hype Train derailed into a reptilian gorilla conspiracy freestyle, then received a chaotic therapy session from Guy Redacted. DJ C4 produced a chat-written Ska theme for Rennerton with Munch on vocals. Brandon (CryptoZeu$) played Pumpkin Carver amid mother interventions. The broadcast concluded with a 2.5-hour Valheim reconstruction stream where Munch, as skeleton mayor, built a press corps, mayor's mansion, skate park, and boar pen while welcoming the first three citizen-players to the reborn Rennerton.",
+  "_meta": {
+    "vod_id": "2908869286",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 191372,
+    "approx_prompt_tokens": 47843,
+    "transcript_lines": 670
+  }
+}

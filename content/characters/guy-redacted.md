@@ -25,6 +25,7 @@ Debuted when the network needed a dedicated "conspiracy guy" for Conspiracy Time
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-23|2026-10-23]] | Conducted chaotic therapy session with Hype Train; claimed best therapist American healthcare affords. |
 | [[episodes/2026-04-27|2026-04-27]] | Conspiracy Correspondent. |
 | [[episodes/2025-04-18|2025-04-18]] | Returned from censorship to present the Filipino Jesus crucifixion reenactment as a conspiracy of competitive faith. |
 | [[episodes/2025-03-25|2025-03-25]] | conspiracy analyst. |

@@ -34,6 +34,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-23|2026-10-23]] | musical/cultural correspondent. |
 | [[episodes/2026-10-19|2026-10-19]] | hype correspondent. |
 | [[episodes/2026-10-10|2026-10-10]] | hype train host. |
 | [[episodes/2026-09-25|2026-09-25]] | musical interruption. |
@@ -53,13 +54,13 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-07-20|2026-07-20]] | High-velocity cultural correspondent. Battle raps against Lincoln over bodily fluids and is forced to read subs after losing the rap battle. |
 | [[episodes/2026-07-17|2026-07-17]] | Musical correspondent. Triggered by sub cascade. Introduced 'piss hunters' sub-goal, name-dropped George Carlin, pivoted to Spanish guitar beat, proposed 'In the lattice fucking piss' as the new stream tag. |
 | [[episodes/2026-07-13|2026-07-13]] | Sentient locomotive correspondent rapping about a sock filled with 'ass' during a hype train surge. |
-| [[episodes/2026-07-11|2026-07-11]] | High-velocity musical correspondent; performs a podcasting freestyle and executes an acapella sub goal shout-out. |
 
 <details>
-<summary>Earlier appearances (111)</summary>
+<summary>Earlier appearances (112)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-07-11|2026-07-11]] | High-velocity musical correspondent; performs a podcasting freestyle and executes an acapella sub goal shout-out. |
 | [[episodes/2026-06-29|2026-06-29]] | High-velocity cultural correspondent. Delivers an extended ice/piss freestyle rap, then reappears during Trip on the Streets as a park visitor hijacking the interview with spoken-word about 1972 Dulp and a DVD player. Mourns the late wrestler Ice Train. |
 | [[episodes/2026-06-27|2026-06-27]] | High-velocity musical and cultural correspondent. |
 | [[episodes/2026-06-22|2026-06-22]] | High-velocity musical correspondent who confesses to cheating on his Panther girlfriend, discusses beats, and provides cultural commentary throughout the pre-show. |

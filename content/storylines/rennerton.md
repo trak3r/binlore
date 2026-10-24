@@ -55,6 +55,7 @@ Two *Return To Renerton* telecasts aired on **2024-10-13**, followed by a Hallow
 | [[../episodes/2025-01-14|2025-01-14]] | Munch & Crum debate governing the zombie city of Rennerton ("roam and groan" zones, tactical human walls). |
 | [[../episodes/2026-08-26|2026-08-26]] [16:01] | Case recounts that the original BIN was a SimCity stream (then Bass Pro Shops IRL / Fiona co-streams → news desk). |
 | [[../episodes/2026-10-22|2026-10-22]] | [[../segments/rebuild-rennerton|Rebuild Rennerton]] debut: Skellomunch launches Valheim server (join code `317139`, password `munch`); builds mayor's mansion / press corps; bans Crum from candidacy. |
+| [[../episodes/2026-10-23|2026-10-23]] | [2026-10-23] Major reconstruction advance: press corps built, first three citizens joined (MVT, Exterminator, Stanton), skate park half-pipe completed, mayor's mansion on stilts framed, boar pen established, Munch transformed to green skeleton via combat, resource rates tripled via server settings. |
 
 ## Related Pages
 

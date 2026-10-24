@@ -52,9 +52,9 @@ tags:
 | [[../episodes/2025-07-10|2025-07-10]] [2:08:08] | Mid-debate, Crum: "I miss my best friend, Al Manchester." |
 | [[../episodes/2025-09-29|2025-09-29]] [1:51:47] | Hell-concubine testimony: El Manchester is Munch's nice alter ego in hell — "a mistake… something that shouldn't exist." |
 | [[../episodes/2026-10-19|2026-10-19]] | Munch confirms skeletal identity is not Al Manchester; rejects comparison to racism bit [70:54-71:16]. |
+| [[../episodes/2026-10-23|2026-10-23]] | [2026-10-23] Munch references Al as 'trapped inside' while asserting skeleton dominance; Al Manchester persona remains dormant. |
 
 ### Later callbacks (not the live arc)
-
 
 ## Related Pages
 

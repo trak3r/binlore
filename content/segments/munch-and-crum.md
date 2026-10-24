@@ -233,6 +233,7 @@ Substitutes and alters occasionally take a mic — notably [[../characters/scrum
 | [[episodes/2026-09-29|2026-09-29]] | 1:27:02 | Munch & Crum: Skeleton Munch vs. Rotting Corpse Crumb Halloween Debate: Skeleton Munch and Crum debate who makes the better Halloween decoration; Munch argues his permanent skeleton form beats Crum's temporary zombie phase from last year, complete with skeleton puns and lore callbacks. |
 | [[episodes/2026-10-10|2026-10-10]] | 42:44 | Double Debate: Something vs Nothing & Tell HateSock: Skeleton Munch and Crum debate two topics: something vs nothing (nothing wins), and whether to inform HateSock of Kendall's engagement (lies win). |
 | [[episodes/2026-10-19|2026-10-19]] | 1:10:34 | Debate: Leaving Comments on Porn: Skeletal Munch vs Crum debate whether Crum leaves comments on porn videos; Crum admits he does and defends communal erotic positivity; Munch attacks Crum's masturbatory capability; Crum declared winner. |
+| [[episodes/2026-10-23|2026-10-23]] | 38:10 | Debate: Should Case Pay More Attention to Chat + Ice Cream vs Frozen Yogurt: Munch (as skeleton mayor) and Crum debate audience engagement and dessert preferences; Kendelle walk-through breaks the bit; Munch claims victory on ice cream after Kendelle votes. |
 
 ## Related Coverage
 

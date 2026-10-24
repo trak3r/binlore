@@ -42,6 +42,7 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-23|2026-10-23]] | neural co-host. |
 | [[episodes/2026-09-02|2026-09-02]] | Activated during the Brazilian plastic surgery ratio review; discloses its anatomical training data, attempts rogue generative modeling, and translates foreign medical literature for Chet. |
 | [[episodes/2026-08-19|2026-08-19]] | Synthetic neural co-host analyzing hydrogen data from the University of Maryland study and bragging about containing all slurs without using them. |
 | [[episodes/2026-07-17|2026-07-17]] | Synthetic neural co-host referenced but not actively speaking on this broadcast. |
@@ -61,13 +62,13 @@ Chet created ChetAI to process complex datasets, translate foreign clinical lite
 | [[episodes/2025-02-12|2025-02-12]] | science co-host. |
 | [[episodes/2025-01-27|2025-01-27]] | Neural Co-host. |
 | [[episodes/2025-01-06|2025-01-06]] | neural co-host. |
-| [[episodes/2024-10-15|2024-10-15]] | analytical co-host. |
 
 <details>
-<summary>Earlier appearances (6)</summary>
+<summary>Earlier appearances (7)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-10-15|2024-10-15]] | analytical co-host. |
 | [[episodes/2024-10-10|2024-10-10]] | analytical co-host. |
 | [[episodes/2024-10-03|2024-10-03]] | analytical co-host. |
 | [[episodes/2024-08-07|2024-08-07]] | neural co-host. |

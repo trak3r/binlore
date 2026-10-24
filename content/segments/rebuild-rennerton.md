@@ -51,6 +51,7 @@ Details read on [[../episodes/2026-10-22|2026-10-22]] during Skellomunch's inaug
 | Episode | Timestamp | Notes |
 |---|---|---|
 | [[../episodes/2026-10-22\|2026-10-22]] | 42:22 | **Debut.** Skellomunch launches the Valheim Rennerton server, harvests wood/stone, builds workbench / mayor's mansion / press podium, announces join code `317139` + password `munch`, fields hostile `!pc` questions, bans Crum from future races. |
+| [[episodes/2026-10-23|2026-10-23]] | 1:51:39 | Rebuild Rennerton: Valheim Reconstruction Marathon: Munch (as skeleton mayor) leads multi-hour Valheim rebuild: press conference, first citizens (MVT, Exterminator, Stanton), skate park half-pipe, mayor's mansion on stilts, boar pen, green skeleton transformation, resource cheats enabled. |
 
 ## Notable moments
 
