@@ -1,0 +1,19 @@
+{
+  "vod_id": "2908869286",
+  "title": "Friday Newstravaganza",
+  "url": "https://www.twitch.tv/videos/2908869286",
+  "duration_seconds": 15842,
+  "duration": "4:24:02",
+  "timestamp": 1792713600,
+  "aired_at": "2026-10-23T00:00:00+00:00",
+  "date": "2026-10-23",
+  "ingested_at": "2026-10-24T12:21:39.200445+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "2908869286",
+  "yt_url": "https://www.youtube.com/watch?v=2908869286",
+  "twitch_id": "2908869286",
+  "twitch_url": "https://www.twitch.tv/videos/2908869286",
+  "catalog_date": "2026-10-23"
+}
