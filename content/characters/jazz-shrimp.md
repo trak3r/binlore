@@ -36,7 +36,7 @@ Despite Case teasing early in the telecast that "Jazz Shrimp will be a regular c
 
 | Episode | Notes |
 |---|---|
-| [[../episodes/2026-05-29|2026-05-29]] | Debut. Debates thirty food critics on the Amongst the Web desk; exits after defending greatness, veins, and anti-bug ontology. |
+| [[../episodes/2026-05-29|2026-05-29]] | Debut. Defends against thirty food critics in [[../segments/encircled\|Encircled]]; exits after defending greatness, veins, and anti-bug ontology. |
 
 ## Notable Quotes
 
@@ -60,4 +60,4 @@ Despite Case teasing early in the telecast that "Jazz Shrimp will be a regular c
 - Is there a living un-battered Jazz Shrimp, or is the tempura plating the canonical form?
 - Who books the thirty food critics, and why do so many of them slide off the plate mid-argument?
 
-See also: [[../segments/amongst-the-web|Amongst the Web]], [[../episodes/2026-05-29|Friday News Burp (2026-05-29)]], [[index|All Characters]].
+See also: [[../segments/encircled|Encircled]], [[../episodes/2026-05-29|Friday News Burp (2026-05-29)]], [[index|All Characters]].
