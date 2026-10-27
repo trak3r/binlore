@@ -22,6 +22,7 @@ Signature programming and recurring newsroom desks across the *Barely Informed N
 | [[segments/how-to-with-jeb\|How To with Jeb]] | Rogue Instructional | Unscheduled life skills and martial tutorials hosted by Jeb Nogget and his board-bound father |
 | [[segments/the-jo-rogen-experience\|The Jo Rogen Experience]] | Studio Parody & Q&A | Dual-clone podcast parody featuring "the Joes" exploring biohacking, runic girth, and esoteric masculine rituals |
 | [[segments/town-hall\|Town Hall]] | Audience Q&A Desk | Recurring `!th` call-in block seating guests to field chat questions |
+| [[segments/encircled\|Encircled]] | Gauntlet Debate | One defender holds a claim against a parade of random challengers; chat `!cc` submits counter claims and `!rf` red-flags challengers down the pit |
 | [[segments/dj-newsic\|DJ Newsic]] | Techno News Finale | High-energy musical broadcast ending streams with bright blue hair, heavy auto-tune, and fast-tracked news |
 | [[segments/dj-c4\|DJ C4]] | In-Studio Songwriting | Live musical production in DJC4 Studios composing correspondent themes and anthems with AI assistance |
 | [[segments/at-the-movies\|At the Movies]] | Film Trailer Desk | Trent (truant teen) and probation officer Chris screen trailers from a green-screen movie theater |

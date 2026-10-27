@@ -76,6 +76,7 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/tommy-biglaw|Tommy Biglaw]] | Legal Counsel | High-priced infant attorney (also Little Tommy Big Law) with a baby-talk lisp; also serves as "Big Tommy Prosecutor" |
 | [[characters/trent|Trent]] | Movie Correspondent (*At the Movies*) | Truant teen of ambiguous age hosting trailer reviews under probation supervision |
 | [[characters/trip-bradstein|Trip Bradstein]] | Field Correspondent | Park-dwelling field correspondent broadcasting from the bushes and interviewing park visitors for their audience-submitted opinions |
+| [[characters/tub|Tub]] | Encircled Defender | "1 dumbass vs 30 dumbasses" champion in the brown red; claim: "No Uh"; seven kids; chat wants him as a correspondent |
 | [[characters/tyler|Tyler]] | minor contributor | No summary on file yet |
 
 See also: [[../storylines/crum-dick-punch|Crum Dick Punch]], [[../segments/munch-and-crum|Munch & Crum]].

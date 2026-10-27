@@ -30,7 +30,7 @@ She is distinct from the revolving cast of unnamed or one-off interns (Blark, Je
 |---|---|
 | [[episodes/2026-10-19\|2026-10-19]] | Town Hall with Scrum; calf tattoos, sandal/Winks wishes; declines full-time hire; leaves mid-segment. |
 | [[episodes/2026-02-06\|2026-02-06]] | Hosts Amongst the Web viral review. |
-| [[episodes/2025-12-24\|2025-12-24]] | Hosts Encircled intern debate; declares herself winner. |
+| [[episodes/2025-12-24\|2025-12-24]] | Defends against intern candidates in [[../segments/encircled\|Encircled]]; declares herself winner. |
 | [[episodes/2025-12-18\|2025-12-18]] | Subject of DJ C4 track "What Do I Even Do Here"; described as lovely young lady with curly hair. |
 
 ## Notable Quotes
