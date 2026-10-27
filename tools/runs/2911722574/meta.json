@@ -1,0 +1,19 @@
+{
+  "vod_id": "2911722574",
+  "title": "Another Week, Another NEWS",
+  "url": "https://www.twitch.tv/videos/2911722574",
+  "duration_seconds": 9087,
+  "duration": "2:31:27",
+  "timestamp": 1792972800,
+  "aired_at": "2026-10-26T00:00:00+00:00",
+  "date": "2026-10-26",
+  "ingested_at": "2026-10-27T11:28:55.693327+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "2911722574",
+  "yt_url": "https://www.youtube.com/watch?v=2911722574",
+  "twitch_id": "2911722574",
+  "twitch_url": "https://www.twitch.tv/videos/2911722574",
+  "catalog_date": "2026-10-26"
+}
