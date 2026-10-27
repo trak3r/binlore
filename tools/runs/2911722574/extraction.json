@@ -1,0 +1,200 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "title": "Microsoft Buyouts, Election Polls, AI Film, Libertarian Standoff, Ali G Lawsuit, Walter Koenig Obituary, Banana Hero",
+      "start": "00:08",
+      "end": "38:49",
+      "notes": "Pepito cold open; Case and Jeff Ripple cover Microsoft voluntary buyouts, Trump approval uptick, China's AI film flop, North Carolina libertarian candidate standoff, El Paso GOP chair suing Sacha Baron Cohen, Walter Koenig death, and banana-costumed nurse hero."
+    },
+    {
+      "canonical_segment": "Hype Train",
+      "title": "Freestyle Raps, Subscriber Shoutouts, Blame Case Algebra",
+      "start": "38:49",
+      "end": "51:45",
+      "notes": "Hype Train defines 'ferret in face' TikTok trend, delivers freestyle blaming Case for all technical failures (X + C = O), acknowledges Commander Gev, ABCP333, Mighty Odds, Bungal Sprout, Skimer, Giggle Trash, Shaggy, CK."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "title": "Halloween Debate: Scaring Kids — Solemn Duty vs Fun",
+      "start": "51:45",
+      "end": "01:08:17",
+      "notes": "Green leveled-up skeleton Munch argues Halloween is a solemn duty reminding children of death's inevitability; Crum counters it's meant to be fun. Poll chaos ensues; Munch references Rennerton tech tree and Al Manchester trapped inside."
+    },
+    {
+      "canonical_segment": "CryptoZeu$",
+      "title": "Blazing Lasers & Wilford Brimley Battle, Mom Door Interventions",
+      "start": "01:08:17",
+      "end": "01:37:32",
+      "notes": "Brandon plays Blazing Lasers (claims mastery), then River City Ransom: Wilford Brimley Battle; mother yells through door about farts, candy, yearly physical, and cornflake anti-masturbation lore. Brandon reveals garage side toilet for egg dying."
+    },
+    {
+      "canonical_segment": "How To with Jeb",
+      "title": "Patent Pat Pup, Basic Witchcraft, Chinese Profanity Trap",
+      "start": "01:37:32",
+      "end": "02:09:29",
+      "notes": "Jeb learns 'patent more pup' patting ritual, watches basic witchcraft video (skyclad option), attempts Chinese pronunciation but hits muted dad and a bilingual profanity trap; dad in wood board insists wooden women impossible."
+    },
+    {
+      "canonical_segment": "At the Movies",
+      "title": "Magic (1978), Hands Trailer, Rings of Power Season 3, Golem Trilogy",
+      "start": "02:09:29",
+      "end": "02:25:10",
+      "notes": "Trent (with parole officer Chris) reviews Anthony Hopkins ventriloquist thriller Magic, a farm-hands film, Rings of Power S3 announcement, and a Golem trilogy trailer; Trent claims literary reference to 'chicken crossing the road' and invents 'folks' (bubblegum cigarettes with tobacco)."
+    },
+    {
+      "canonical_segment": "Town Hall",
+      "title": "Hate Sock Engagement Reveal, Raid to Harry Hardy",
+      "start": "02:25:10",
+      "end": "02:31:02",
+      "notes": "Case announces engagement to Kendelle via hate sock; hate sock responds 'you wish / dumbass' loop. Case raids British streamer Harry Hardy; Pepito closes with creepy Halloween laugh."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivered cold open sign-on, managed feed switches, negotiated flank-cut of shirt royalties, closed with Halloween laugh.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-anchored news desk, covered Microsoft buyouts, election polling, banana-costumed hero story, and Bugs Bunny voice actor RIP.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype correspondent",
+      "notes": "hype correspondent. Delivered freestyle rap blaming Case for all technical failures (X + C = O), acknowledged subscribers and bit donors.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Appeared as green leveled-up skeleton, argued Halloween is solemn duty reminding kids of death, referenced Rennerton tech tree and trapped Al Manchester.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Debated Munch on Halloween philosophy, complained about studio hostility, referenced stolen poll points.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Played Blazing Lasers and Wilford Brimley Battle, endured mother's door interventions, revealed garage side toilet for egg dying.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosted How To with Jeb, attempted patting ritual and witchcraft basics, fell into Chinese profanity trap, argued with wooden dad about wooden women.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "cultural correspondent",
+      "notes": "cultural correspondent. Hosted At the Movies with parole officer Chris, reviewed Magic (1978), Rings of Power S3, Golem trilogy, claimed literary references and invented 'folks'.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris (Probation Officer Chris)",
+      "role": "parole officer",
+      "notes": "parole officer. Supervised Trent's community service broadcast, corrected his Chinese pronunciation, guided segment transitions.",
+      "canonical_name": "Chris (Probation Officer Chris)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Al Manchester",
+      "beat": "[53:51] Munch confirms Al Manchester remains trapped inside after escaping Spirit Halloween; green skeleton form is a level-up from killing a spirit for Rennerton tech tree.",
+      "timestamp": "53:51"
+    },
+    {
+      "storyline": "Rennerton",
+      "beat": "[54:11] Munch references Rennerton mayoral campaign and wilds of Rennerton as a real place with tech tree progression.",
+      "timestamp": "54:11"
+    },
+    {
+      "storyline": "Case/Kendelle Engagement",
+      "beat": "[02:27:43] Case announces engagement to Kendelle during hate sock segment; hate sock responds with 'you wish / dumbass' loop.",
+      "timestamp": "02:27:43"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Announced engagement to Kendelle.",
+      "timestamp": "[02:27:43]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Leveled up to green skeleton form after killing a spirit for Rennerton tech tree progression.",
+      "timestamp": "[53:30]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Confirms Al Manchester remains trapped inside; escaped Spirit Halloween containment.",
+      "timestamp": "[53:51]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "Has a side toilet in garage used exclusively for egg dying.",
+      "timestamp": "[01:08:17]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "Dad (in wood board) insists wooden women cannot be built, referencing Pinocchio logic.",
+      "timestamp": "[01:39:12]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Absent from new BIN shirt; only flesh Munch appears on merchandise.",
+      "timestamp": "[02:10:24]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell and Jeff Ripple opened with Microsoft layoffs, election polling, and a banana-costumed nurse hero before Hype Train derailed into algebraic blame. A green skeleton Munch debated Crum on Halloween's purpose while referencing Rennerton progression, Brandon gamed through maternal door interventions and a garage egg-dying toilet, Jeb Nogget patted a 'patent more pup' and triggered a bilingual profanity trap, and Trent reviewed ventriloquist horror and Rings of Power under parole supervision. The broadcast closed with Case announcing his engagement to Kendelle via hate sock and raiding British streamer Harry Hardy.",
+  "_meta": {
+    "vod_id": "2911722574",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 110041,
+    "approx_prompt_tokens": 27510,
+    "transcript_lines": 299
+  }
+}

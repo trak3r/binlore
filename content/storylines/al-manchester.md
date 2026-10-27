@@ -53,6 +53,7 @@ tags:
 | [[../episodes/2025-09-29|2025-09-29]] [1:51:47] | Hell-concubine testimony: El Manchester is Munch's nice alter ego in hell — "a mistake… something that shouldn't exist." |
 | [[../episodes/2026-10-19|2026-10-19]] | Munch confirms skeletal identity is not Al Manchester; rejects comparison to racism bit [70:54-71:16]. |
 | [[../episodes/2026-10-23|2026-10-23]] | [2026-10-23] Munch references Al as 'trapped inside' while asserting skeleton dominance; Al Manchester persona remains dormant. |
+| [[../episodes/2026-10-26|2026-10-26]] [53:51] | [53:51] Munch confirms Al Manchester remains trapped inside after escaping Spirit Halloween; green skeleton form is a level-up from killing a spirit for Rennerton tech tree. |
 
 ### Later callbacks (not the live arc)
 

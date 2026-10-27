@@ -34,6 +34,7 @@ Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-26|2026-10-26]] | debate analyst. |
 | [[episodes/2026-10-23|2026-10-23]] | debate analyst / mayor of Rennerton. |
 | [[episodes/2026-10-22|2026-10-22]] | debate analyst. |
 | [[episodes/2026-10-19|2026-10-19]] | debate analyst. |
@@ -53,13 +54,13 @@ Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch 
 | [[episodes/2026-05-22|2026-05-22]] | debate analyst. |
 | [[episodes/2026-05-21|2026-05-21]] | debate analyst. |
 | [[episodes/2026-05-18|2026-05-18]] | debate analyst. |
-| [[episodes/2026-05-14|2026-05-14]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (175)</summary>
+<summary>Earlier appearances (176)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-05-14|2026-05-14]] | debate analyst. |
 | [[episodes/2026-05-12|2026-05-12]] | debate analyst. |
 | [[episodes/2026-05-04|2026-05-04]] | debate analyst. |
 | [[episodes/2026-04-29|2026-04-29]] | debate analyst. |

@@ -39,6 +39,7 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-26|2026-10-26]] | gaming correspondent. |
 | [[episodes/2026-10-23|2026-10-23]] | gaming correspondent. |
 | [[episodes/2026-10-08|2026-10-08]] | gaming correspondent. |
 | [[episodes/2026-09-23|2026-09-23]] | field correspondent. |
@@ -58,13 +59,13 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-06-15|2026-06-15]] | Gaming correspondent, plays random number game. |
 | [[episodes/2026-06-08|2026-06-08]] | Resident gaming correspondent. Remote from bedroom; battles N64 emulation, mother's screaming, and Glover's inverted controls. |
 | [[episodes/2026-06-05|2026-06-05]] | Gaming and digital culture correspondent broadcasting remotely from his bedroom studio. |
-| [[episodes/2026-05-29|2026-05-29]] | Gaming correspondent playing Boogerman with mother interruptions. |
 
 <details>
-<summary>Earlier appearances (26)</summary>
+<summary>Earlier appearances (27)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-05-29|2026-05-29]] | Gaming correspondent playing Boogerman with mother interruptions. |
 | [[episodes/2026-05-22|2026-05-22]] | gaming correspondent. |
 | [[episodes/2026-05-21|2026-05-21]] | muffled-door antagonist. |
 | [[episodes/2026-05-18|2026-05-18]] | gaming correspondent. |

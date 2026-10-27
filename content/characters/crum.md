@@ -36,6 +36,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-26|2026-10-26]] | debate analyst. |
 | [[episodes/2026-10-23|2026-10-23]] | debate analyst. |
 | [[episodes/2026-10-19|2026-10-19]] | debate analyst. |
 | [[episodes/2026-10-10|2026-10-10]] | debate analyst. |
@@ -55,13 +56,13 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity and Dick Punch wager. |
 | [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (hollow-eyed, bald). Argues for political decorum, reveals Dubai 'classified' social life, honey-bag therapy, claims penile conditioning for gorilla dick-punch. |
 | [[episodes/2026-05-22|2026-05-22]] | debate analyst. |
-| [[episodes/2026-05-21|2026-05-21]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (187)</summary>
+<summary>Earlier appearances (188)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-05-21|2026-05-21]] | debate analyst. |
 | [[episodes/2026-05-18|2026-05-18]] | debate analyst. |
 | [[episodes/2026-05-14|2026-05-14]] | debate analyst. |
 | [[episodes/2026-05-12|2026-05-12]] | debate analyst. |
