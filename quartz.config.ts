@@ -70,6 +70,7 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
+      Plugin.LeadImage(),
       // Plugin.Latex({ renderEngine: "katex" }), // Disabled: BIN Lore is an entertainment wiki; LaTeX remark-math breaks dollar signs in CryptoZeu$, prices, etc.
     ],
     filters: [Plugin.RemoveDrafts()],
@@ -89,6 +90,7 @@ const config: QuartzConfig = {
       Plugin.NotFoundPage(),
       // Emit public/CNAME so GitHub Pages serves binlore.wiki
       Plugin.CNAME(),
+      Plugin.LeadImages(),
       // Disabled for faster local builds; re-enable once sharp installs cleanly in CI
       // Plugin.CustomOgImages(),
     ],
