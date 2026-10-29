@@ -19,7 +19,7 @@ function initEpisodesTable() {
   const allRows = Array.from(table.querySelectorAll("tbody tr")) as HTMLTableRowElement[]
   let currentPage = 1
 
-  function filterAndPaginate(shouldScroll: boolean = false) {
+  const filterAndPaginate = (shouldScroll: boolean = false) => {
     const query = searchInput ? searchInput.value.toLowerCase().trim() : ""
     const status = statusFilter ? statusFilter.value : "all"
     const pageSizeVal = pageSizeSelect ? pageSizeSelect.value : "50"

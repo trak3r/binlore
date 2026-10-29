@@ -45,8 +45,17 @@ export const Description: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
               return
             }
 
-            // otherwise, use the text content
-            const desc = text
+            // otherwise, use the text content, minus the page's H1 so the title isn't repeated
+            const bodyOnly: HTMLRoot = {
+              ...tree,
+              children: tree.children.filter(
+                (node) => !(node.type === "element" && node.tagName === "h1"),
+              ),
+            }
+            let desc = escapeHTML(toString(bodyOnly))
+            if (opts.replaceExternalLinks) {
+              desc = desc.replace(urlRegex, "$<domain>" + "$<path>")
+            }
             const sentences = desc.replace(/\s+/g, " ").split(/\.\s/)
             let finalDesc = ""
             let sentenceIdx = 0
