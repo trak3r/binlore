@@ -39,3 +39,8 @@ tools/.venv/
 .env.*
 !.env.example
 deno.lock
+
+# Highlight clips: rendered output stays local; branding overrides in assets/ are tracked
+tools/clips/*
+!tools/clips/assets/
+!tools/clips/assets/**
