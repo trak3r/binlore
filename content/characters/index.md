@@ -24,6 +24,7 @@ Anchors, senior correspondents, debate analysts, and production staff across *Ba
 | [[characters/rick|Rick]] | Tactical Web Analyst | Veteran tactical correspondent and anchor of *Amongst the Web* |
 | [[characters/dj-newsic|DJ Newsic]] | News-Singing DJ & Finale Anchor | Bright blue-haired electronic artist singing news with heavy auto-tune over techno beats |
 | [[characters/dj-c4|DJ C4]] | In-House Song Composer & Producer | Resident studio composer creating correspondent themes and anthems in DJC4 Studios with AI assistance |
+| [[characters/durf|Durf]] | Drifter Guest Host (*Amongst the Web*) | Garf's mellow, hat-swapping brother; "it's Durf or nothing"; returns after long absences with cosmic baggage |
 
 ## Special Correspondents, Legal Counsel & Guests
 
@@ -50,7 +51,7 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/granman|Granman]] | Minor Guest Host (*Amongst the Web*) | Blunt guest critic of viewer clips; athletic-sock crusader and occasional web-desk host |
 | [[characters/guy-redacted|Guy Redacted]] | Conspiracy Correspondent | Sunglasses-forward host of the Conspiracy Desk / Conspiracy Time blocks |
 | [[characters/hate-sock|Hate Sock]] | Town Hall Contributor | Hostile grey sock puppet with googly eyes whose vocabulary consists entirely of "You wish" and "Dumbass" |
-| [[characters/intern|Intern]] | minor contributor | No summary on file yet |
+| [[characters/intern|Intern]] | Unpaid Intern / Fill-In | Nameless curly-haired male intern; "the main intern," though not the people's favorite (that's Jan); fills in wherever nobody showed up |
 | [[characters/jake|Jake]] | minor contributor | No summary on file yet |
 | [[characters/jan|Jan]] | Intern (*Town Hall* / desk fill-in) | Recurring unpaid intern with curly hair; Town Hall guest who declines full-time hire mid-segment |
 | [[characters/jazz-shrimp|Jazz Shrimp]] | Minor Culinary-Music Correspondent | Tempura-fried jazz shrimp who debates food critics over his claim to be the greatest jazz shrimp of all time |

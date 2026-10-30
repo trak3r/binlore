@@ -32,6 +32,7 @@ She is distinct from the revolving cast of unnamed or one-off interns (Blark, Je
 | [[episodes/2026-02-06\|2026-02-06]] | Hosts Amongst the Web viral review. |
 | [[episodes/2025-12-24\|2025-12-24]] | Defends against intern candidates in [[../segments/encircled\|Encircled]]; declares herself winner. |
 | [[episodes/2025-12-18\|2025-12-18]] | Subject of DJ C4 track "What Do I Even Do Here"; described as lovely young lady with curly hair. |
+| [[episodes/2025-11-27\|2025-11-27]] | Attempts an [[../segments/encircled\|Encircled]] ("1 lady intern who's name I forget vs 30 college students") that collapses on broken assets; vows to do it Friday "or I will quit being an intern." |
 
 ## Notable Quotes
 
