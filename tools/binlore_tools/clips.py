@@ -28,6 +28,7 @@ PREVIEWS_DIR = CLIPS_DIR / "previews"
 STATIC_DIR = REPO_ROOT / "quartz" / "static"
 WIKI_BASE = "https://binlore.wiki"
 TWITCH_CHANNEL_URL = "twitch.tv/caseblackwell"
+FAN_DISCLAIMER = "Fan-made clip. Not affiliated with the show."
 
 OUT_W, OUT_H, FPS = 1080, 1920, 30
 SLICE_PAD = 1.0
@@ -259,7 +260,7 @@ def _default_watermark(path: Path) -> Path:
     icon = Image.open(STATIC_DIR / "icon.png").convert("RGBA").resize((96, 96), Image.LANCZOS)
     title_font = _font(30)
     sub_font = _font(26, REGULAR_FONTS)
-    lines = [("BARELY INFORMED NEWS", title_font), (TWITCH_CHANNEL_URL, sub_font)]
+    lines = [("FAN CLIP", title_font), ("binlore.wiki", sub_font)]
     text_w = int(max(f.getlength(t) for t, f in lines))
     img = Image.new("RGBA", (12 + 96 + 18 + text_w + 28, 120), (0, 0, 0, 0))
     draw = ImageDraw.Draw(img)
@@ -275,7 +276,7 @@ def _default_end_card(path: Path) -> Path:
     img = Image.new("RGBA", (OUT_W, OUT_H), (13, 17, 28, 255))
     draw = ImageDraw.Draw(img)
     _draw_centered(draw, 320, "BARELY INFORMED NEWS", _fit_font("BARELY INFORMED NEWS", 980, 76), (255, 255, 255, 255))
-    _draw_centered(draw, 440, "LIVE ON TWITCH", _font(44), (56, 189, 248, 255))
+    _draw_centered(draw, 440, "WATCH IT LIVE ON TWITCH", _font(44), (56, 189, 248, 255))
 
     og = Image.open(STATIC_DIR / "og-image.png").convert("RGBA")
     # Drop the "CANON WIKI" character bar along the bottom of the site preview image.
@@ -288,7 +289,8 @@ def _default_end_card(path: Path) -> Path:
     top = 560 + og.height + 90
     draw.rounded_rectangle(((OUT_W - pill_w) / 2, top, (OUT_W + pill_w) / 2, top + 110), radius=28, fill=(239, 68, 68, 255))
     _draw_centered(draw, top + 22, TWITCH_CHANNEL_URL, pill_font, (255, 255, 255, 255))
-    _draw_centered(draw, top + 170, "Episode guide & lore: binlore.wiki", _font(40, REGULAR_FONTS), (156, 163, 175, 255))
+    _draw_centered(draw, top + 170, "Fan lore wiki: binlore.wiki", _font(40, REGULAR_FONTS), (156, 163, 175, 255))
+    _draw_centered(draw, top + 230, FAN_DISCLAIMER, _font(32, REGULAR_FONTS), (107, 114, 128, 255))
     img.convert("RGB").save(path)
     return path
 
@@ -787,18 +789,21 @@ def write_post(
             "",
             f"Full episode: {vod_link}",
             f"Live on Twitch: https://{TWITCH_CHANNEL_URL}",
-            *(f"Lore: {u}" for u in wiki_links),
+            *(f"Fan lore wiki: {u}" for u in wiki_links),
+            "",
+            FAN_DISCLAIMER,
             "",
             " ".join(hashtags[:5]),
         ]
     )
-    tiktok = f"{hook}\n\n" + " ".join([t.lower() for t in hashtags] + ["#fyp"])
+    tiktok = f"{hook}\n\n(fan clip) " + " ".join([t.lower() for t in hashtags] + ["#fyp"])
     reels = "\n".join(
         [
             hook,
             "",
             f"Barely Informed News, live on {TWITCH_CHANNEL_URL}",
-            "Lore & episode guide: binlore.wiki",
+            "Fan lore wiki: binlore.wiki",
+            FAN_DISCLAIMER,
             "",
             " ".join(hashtags + ["#reels"]),
         ]
