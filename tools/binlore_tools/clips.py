@@ -278,6 +278,8 @@ def _default_end_card(path: Path) -> Path:
     _draw_centered(draw, 440, "LIVE ON TWITCH", _font(44), (56, 189, 248, 255))
 
     og = Image.open(STATIC_DIR / "og-image.png").convert("RGBA")
+    # Drop the "CANON WIKI" character bar along the bottom of the site preview image.
+    og = og.crop((0, 0, og.width, round(og.height * 0.73)))
     og = og.resize((OUT_W, round(og.height * OUT_W / og.width)), Image.LANCZOS)
     img.alpha_composite(og, (0, 560))
 
