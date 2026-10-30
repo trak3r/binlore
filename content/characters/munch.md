@@ -34,6 +34,7 @@ Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-29|2026-10-29]] | debate analyst. |
 | [[episodes/2026-10-26|2026-10-26]] | debate analyst. |
 | [[episodes/2026-10-23|2026-10-23]] | debate analyst / mayor of Rennerton. |
 | [[episodes/2026-10-22|2026-10-22]] | debate analyst. |
@@ -53,13 +54,13 @@ Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch 
 | [[episodes/2026-05-26|2026-05-26]] | Senior debate analyst known for his disheveled silver hair and combative political style. Engages in heated exchanges with Crum and frequently references his 'Dick Punch' wager storyline. |
 | [[episodes/2026-05-22|2026-05-22]] | debate analyst. |
 | [[episodes/2026-05-21|2026-05-21]] | debate analyst. |
-| [[episodes/2026-05-18|2026-05-18]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (176)</summary>
+<summary>Earlier appearances (177)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-05-18|2026-05-18]] | debate analyst. |
 | [[episodes/2026-05-14|2026-05-14]] | debate analyst. |
 | [[episodes/2026-05-12|2026-05-12]] | debate analyst. |
 | [[episodes/2026-05-04|2026-05-04]] | debate analyst. |
@@ -242,6 +243,7 @@ Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch 
 ## Notable moments
 
 
+- **[1:07:55]** ([[episodes/2026-10-29|2026-10-29]]): Munch confirms he is now an immortal talking skeleton after the Sept 7, 2026 mechanical gorilla malfunction; audience claps extra hard for skeleton form.
 - **[1:10:34]** ([[episodes/2026-10-19|2026-10-19]]): Confirmed permanent skeletal form since Sept 7 gorilla incident; claims Halloween as skeletal onboarding period.
 - **[1:27:57]** ([[episodes/2026-09-29|2026-09-29]]): Munch confirms permanent skeleton form since September 7, 2026 incident.
 - **[1:52:38]** ([[episodes/2026-09-07|2026-09-07]]): Transformed into a talking skeleton after catching the fiery backblast of the Rock-afire Gorilla stunt. Claims to have superior bone structure and to be liberated from mortal race boundaries.

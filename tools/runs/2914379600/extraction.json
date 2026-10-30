@@ -1,0 +1,270 @@
+{
+  "segments": [
+    {
+      "canonical_segment": "News",
+      "start": "00:08",
+      "end": "54:53",
+      "title": "Pepito Sign-On, Ramaswamy Ad Controversy, JD Vance Interview, Patrick Stewart Death",
+      "notes": "Pepito opens broadcast with sign-on; Case discusses Vivek Ramaswamy's pulled attack ad featuring opponent's estranged mother; JD Vance appears as guest discussing midterm polls and firework injury; chat votes on news stories; Patrick Stewart death reported at 86."
+    },
+    {
+      "canonical_segment": "At the Movies",
+      "start": "54:53",
+      "end": "1:07:34",
+      "title": "Trent Hosts Trailers: Masterminds, Playable Archive, Kunk on Cinema",
+      "notes": "Trent hosts trailer block with Chris; reviews Masterminds (Patrick Stewart), Playable Archive (mortuary assistant game), and Kunk on Cinema; Trent admits relating to rebellious teen hero fantasy."
+    },
+    {
+      "canonical_segment": "Munch & Crum",
+      "start": "1:07:34",
+      "end": "1:22:24",
+      "title": "Debate in the Void: Crum Trial and Gorilla Punch Redux",
+      "notes": "Munch appears as talking skeleton in void; debate on whether Crum should face trial again for stealing points; options devolve into 'no' vs 'nah execution'; secondary poll for another gorilla punch to Crum's 'supple rear'; Crum claims execution immunity and detachable penis."
+    },
+    {
+      "canonical_segment": "Amongst the Web",
+      "start": "1:22:24",
+      "end": "1:34:19",
+      "title": "Durf Hosts: Attack of the Show Halloween, Drag Dance, Archer/Fryboy, Point Four Dorito",
+      "notes": "Durf hosts from translucent box; videos include Attack of the Show Halloween cliffhanger, drag club dance performance, Archer/Fryboy relationship analysis, and 'point four of a Dorito' philosophical debate."
+    },
+    {
+      "canonical_segment": "CryptoZeu$",
+      "start": "1:34:19",
+      "end": "1:54:24",
+      "title": "Brandon Plays Cosmos Cosmic Adventure; Fruit Roll-Ups from Reality Hole",
+      "notes": "Intern fills in briefly; Brandon arrives overslept, plays vibe-coded DOS platformer Cosmos Cosmic Adventure; achieves seven intentional deaths for credits warp; reveals fruit roll-ups found in reality-warping hole; mom claims she killed intern."
+    },
+    {
+      "canonical_segment": "Trip on the Street",
+      "start": "1:54:24",
+      "end": "2:13:16",
+      "title": "Trip Returns: Michael Myers, Shaman Mike, Cheese Question, Spider-Man, Candy Corn, AI Ban, Female Slashers",
+      "notes": "Trip Bradstein emerges from bushes for Halloween edition; interviews park-goers including Michael Myers actor, Shaman Mike (Valheim/Gralion lore), cheese hypothetical, Earth-6161 Spider-Man fan, candy corn minimum debate, AI ban advocate, female slasher proponent, Sovly May (Austin Creed death match), Ovali, and Mike Myers doing Austin Powers."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers sign-on, replaces self with fish picture, defends mother's honor, ends broadcast with couch-biting sermon.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors news desk, interviews JD Vance, announces Saturday stream with Fiona Nova, confirms engagement and wellness podcast progress.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "role": "science correspondent",
+      "notes": "science correspondent. Briefly interrupts poll discussion with penis poll joke and API key confusion.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype announcer",
+      "notes": "hype announcer. Acknowledges subs and bits, attempts political type beat, raps about piss before being cut off.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "cultural correspondent",
+      "notes": "cultural correspondent. Hosts At the Movies trailer block with Chris, reviews Patrick Stewart and Kunk on Cinema trailers.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "role": "probation officer",
+      "notes": "probation officer. Co-hosts trailer block, supervises Trent's community service, advises grippy soles.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Appears as immortal talking skeleton post-Sept 7 incineration, agitates for Crum's execution, claims 'all party' ideology.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Claims gorilla punch execution already happened and failed, asserts detachable but functional penis, demands trial for gorilla.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Durf",
+      "role": "Amongst the Web host",
+      "notes": "Amongst the Web host. Hosts from translucent box, describes writing funeral dirge album without songs or sounds from apple farm.",
+      "canonical_name": "Durf",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Plays Cosmos Cosmic Adventure, reveals fruit roll-ups from reality-warping hole, achieves credits warp via seven intentional deaths.",
+      "canonical_name": "Brandon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon's Mom",
+      "role": "off-screen antagonist",
+      "notes": "off-screen antagonist. Yells through bedroom door, claims she killed intern for Brandon, critiques his face as pumpkin-like.",
+      "canonical_name": "Brandon's Mom",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Intern",
+      "role": "fill-in correspondent",
+      "notes": "fill-in correspondent. Briefly hosts CryptoZeu$ segment while searching for Brandon, uncomfortable with smell, deemed better son than Brandon.",
+      "canonical_name": "Intern",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "role": "field correspondent",
+      "notes": "field correspondent. Returns from bush hibernation for Halloween Trip on the Street, interviews park-goers on slashers, candy corn, AI, and Spider-Man.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[1:11:33] Crum claims he has already been executed by gorilla punch and died but returned; execution 'doesn't work' on him; secondary poll for another punch to 'supple rear' gains traction.",
+      "timestamp": "1:11:33"
+    },
+    {
+      "storyline": "Al Manchester",
+      "beat": "[1:07:55] Munch confirms skeleton form is permanent after Sept 7 incineration; audience claps extra hard for skeleton Munch; 'Al remains trapped inside' per Crum's prior lore.",
+      "timestamp": "1:07:55"
+    },
+    {
+      "storyline": "Case & Kendelle Engagement/Podcast",
+      "beat": "[36:22] Case confirms engagement to Kendelle known to chat before family; [1:31:51] wellness podcast with John Madison and Kendall has 6 episodes recorded, 5 edited, targeting release next month.",
+      "timestamp": "36:22"
+    },
+    {
+      "storyline": "Brandon's Reality Hole",
+      "beat": "[1:37:47] Brandon discovers fruit roll-ups in radiated purple/blue swirling hole in room (wider inside than outside); consumes 8000% daily sugar; mom claims she killed intern.",
+      "timestamp": "1:37:47"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "09:01",
+      "entity": "Pepito",
+      "fact": "Pepito replaces his on-camera feed with a picture of a fish.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "14:10",
+      "entity": "Pepito",
+      "fact": "Pepito's mother referenced; Pepito defends her honor when Case jokes 'Pepito takes after his mom.'",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "30:36",
+      "entity": "",
+      "fact": "JD Vance reveals a firework exploded in his hand three to four days prior while playing with kids.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "43:33",
+      "entity": "",
+      "fact": "Patrick Stewart reported dead at 86; Case recalls seeing him improvise Shakespeare in Chicago.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:07:55",
+      "entity": "Munch",
+      "fact": "Munch confirms he is now an immortal talking skeleton after the Sept 7, 2026 mechanical gorilla malfunction; audience claps extra hard for skeleton form.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:11:33",
+      "entity": "Crum",
+      "fact": "Crum claims the gorilla punch execution already occurred and he died but returned; execution 'doesn't work' on him anymore.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:16:38",
+      "entity": "Crum",
+      "fact": "Crum states his penis is detachable but somehow still functional.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:22:45",
+      "entity": "",
+      "fact": "Durf describes his current project as a funeral dirge album without songs or sounds, written on an apple farm.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:31:51",
+      "entity": "",
+      "fact": "Case confirms chat knew about his engagement to Kendelle before her family; wellness podcast with John Madison and Kendall in progress.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:37:47",
+      "entity": "Brandon",
+      "fact": "Brandon found a box of fruit roll-ups in a hole in his room surrounded by a reality-warping radiated purple/blue field; interior wider than exterior.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:38:32",
+      "entity": "Brandon",
+      "fact": "Brandon's mother claims she 'killed that intern for you, Brandy baby.'",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "1:54:24",
+      "entity": "Trip Bradstein",
+      "fact": "Trip Bradstein returns from bush hibernation for Halloween Trip on the Street edition.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News delivers a Halloween-eve broadcast featuring Vice President JD Vance as a live guest discussing midterm polls and a firework injury, followed by the on-air confirmation of Patrick Stewart's death at 86. The debate desk returns with Munch now a permanent talking skeleton and Crum claiming execution immunity after a prior gorilla punch. Brandon achieves a credits warp in a vibe-coded DOS platformer after discovering reality-warping fruit roll-ups, while Trip Bradstein conducts Halloween street interviews from the park bushes.",
+  "_meta": {
+    "vod_id": "2914379600",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 110347,
+    "approx_prompt_tokens": 27586,
+    "transcript_lines": 327
+  }
+}

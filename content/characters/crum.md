@@ -36,6 +36,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-29|2026-10-29]] | debate analyst. |
 | [[episodes/2026-10-26|2026-10-26]] | debate analyst. |
 | [[episodes/2026-10-23|2026-10-23]] | debate analyst. |
 | [[episodes/2026-10-19|2026-10-19]] | debate analyst. |
@@ -55,13 +56,13 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-06-18|2026-06-18]] | Senior debate analyst. Hollow-eyed, bald. Demands total abolition of improvisation. Suffers 36-year UTI causing acidic urine. Openly hates Irish people. Wife seeing therapist (referenced). Gambling debts canonical but not mentioned this episode. |
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity and Dick Punch wager. |
 | [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (hollow-eyed, bald). Argues for political decorum, reveals Dubai 'classified' social life, honey-bag therapy, claims penile conditioning for gorilla dick-punch. |
-| [[episodes/2026-05-22|2026-05-22]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (188)</summary>
+<summary>Earlier appearances (189)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-05-22|2026-05-22]] | debate analyst. |
 | [[episodes/2026-05-21|2026-05-21]] | debate analyst. |
 | [[episodes/2026-05-18|2026-05-18]] | debate analyst. |
 | [[episodes/2026-05-14|2026-05-14]] | debate analyst. |
@@ -256,6 +257,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 ## Notable moments
 
 
+- **[1:11:33]** ([[episodes/2026-10-29|2026-10-29]]): Crum claims the gorilla punch execution already occurred and he died but returned; execution 'doesn't work' on him anymore.
 - **[1:50:38]** ([[episodes/2026-09-07|2026-09-07]]): Faces the Rock-afire mechanical gorilla execution and emerges completely unscathed after an explosive misfire destroys the ape and converts Munch into a talking skeleton.
 - **[1:39:45]** ([[episodes/2026-09-07|2026-09-07]]): Trained his groin against blunt force trauma by swinging 45-pound weighted logs into his crotch; accused by Munch of wearing metal underwear during the gorilla stunt.
 - **[16:17]** ([[episodes/2026-09-04|2026-09-04]]): Crum's verbal tics include archaic 'japs' (claiming it's an old-timey word for 'fun mischief' akin to 'getting a cream soda at the doodle shop') and immediate interest in any situation involving his body. He is the scheduled victim of the robotic gorilla crotch-punch on Monday.
@@ -275,5 +277,3 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[9:08]** ([[episodes/2026-06-19|2026-06-19]]): Crum's D*ck Punch wager against Munch was the defining political storyline of the recent period, reaching its explosive conclusion on September 7, 2026.
 - **[1:18:34]** ([[episodes/2026-06-18|2026-06-18]]): Suffers 36-year urinary tract infection causing highly acidic urine; openly states hatred of Irish people as 'legal' and 'allowed' character trait; wife currently seeing therapist.
 - **[1:18:36]** ([[episodes/2026-06-15|2026-06-15]]): Crum is referenced in the context of the unresolved Dick Punch wager and body positivity debate.
-
-See also: [[scrum|Scrum]], [[../storylines/al-manchester|Al Manchester]], [[munch|Ralph Munchcut]], [[../segments/munch-and-crum|Munch & Crum]], [[../storylines/crum-face-punch|Crum Face Punch]], [[index|On-Air Talent]].

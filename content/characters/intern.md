@@ -3,10 +3,10 @@ title: Intern
 type: character
 aliases: []
 first_seen: 2025-07-24
-status: minor contributor
+status: recurring
 tags:
-  - character
-  - minor
+- character
+- minor
 ---
 
 # Intern
@@ -23,6 +23,7 @@ Nothing notable on file yet.
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-29|2026-10-29]] | fill-in correspondent. |
 | [[episodes/2025-11-27|2025-11-27]] | production intern. |
 | [[episodes/2025-07-24|2025-07-24]] | Broadcast appearance. |
 

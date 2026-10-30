@@ -39,6 +39,7 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-29|2026-10-29]] | off-screen antagonist. |
 | [[episodes/2026-10-26|2026-10-26]] | gaming correspondent. |
 | [[episodes/2026-10-23|2026-10-23]] | gaming correspondent. |
 | [[episodes/2026-10-08|2026-10-08]] | gaming correspondent. |
@@ -58,13 +59,13 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-06-19|2026-06-19]] | Remote gaming correspondent providing retro gaming commentary and digital culture analysis. |
 | [[episodes/2026-06-15|2026-06-15]] | Gaming correspondent, plays random number game. |
 | [[episodes/2026-06-08|2026-06-08]] | Resident gaming correspondent. Remote from bedroom; battles N64 emulation, mother's screaming, and Glover's inverted controls. |
-| [[episodes/2026-06-05|2026-06-05]] | Gaming and digital culture correspondent broadcasting remotely from his bedroom studio. |
 
 <details>
-<summary>Earlier appearances (27)</summary>
+<summary>Earlier appearances (28)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-06-05|2026-06-05]] | Gaming and digital culture correspondent broadcasting remotely from his bedroom studio. |
 | [[episodes/2026-05-29|2026-05-29]] | Gaming correspondent playing Boogerman with mother interruptions. |
 | [[episodes/2026-05-22|2026-05-22]] | gaming correspondent. |
 | [[episodes/2026-05-21|2026-05-21]] | muffled-door antagonist. |
@@ -98,6 +99,7 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 ## Notable moments
 
 
+- **[1:38:32]** ([[episodes/2026-10-29|2026-10-29]]): Brandon's mother claims she 'killed that intern for you, Brandy baby.'
 - **[2:00:22]** ([[episodes/2026-08-26|2026-08-26]]): Completes *The Journey Home* demo to the final credits, navigating old-man birth sequences, Flappy Bird platforming, and sparkling afterlife states.
 - **[2:38:39]** ([[episodes/2026-08-08|2026-08-08]]): Brandon references his mother's Gooters wet chicken wings, noting she stored sodas inside 'big rubber socks' delivered by Pastor Joe.
 - **[1:07:11]** ([[episodes/2026-08-04|2026-08-04]]): Brandon's mother demands he inject Pepsi into his penis on behalf of Pastor Joe, who wants to 'pray the shit out of' him, and reveals the household front door is currently missing, explaining a bear infestation. [01:22:52]

@@ -34,6 +34,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-29|2026-10-29]] | hype announcer. |
 | [[episodes/2026-10-26|2026-10-26]] | hype correspondent. |
 | [[episodes/2026-10-23|2026-10-23]] | musical/cultural correspondent. |
 | [[episodes/2026-10-19|2026-10-19]] | hype correspondent. |
@@ -53,13 +54,13 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-07-24|2026-07-24]] | Notably absent and described as 'still taking a nap' throughout the broadcast. A caller impersonates 'normal hype train' during the Streets segment; broadcast raid is sent to Hype Train at sign-off. |
 | [[episodes/2026-07-23|2026-07-23]] | High-Velocity Cultural Correspondent. Briefly attempts to hijack the intro but is forcefully rejected by Case in favor of addressing his injury, leading to Hype Train lamenting he was let to die. |
 | [[episodes/2026-07-20|2026-07-20]] | High-velocity cultural correspondent. Battle raps against Lincoln over bodily fluids and is forced to read subs after losing the rap battle. |
-| [[episodes/2026-07-17|2026-07-17]] | Musical correspondent. Triggered by sub cascade. Introduced 'piss hunters' sub-goal, name-dropped George Carlin, pivoted to Spanish guitar beat, proposed 'In the lattice fucking piss' as the new stream tag. |
 
 <details>
-<summary>Earlier appearances (113)</summary>
+<summary>Earlier appearances (114)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-07-17|2026-07-17]] | Musical correspondent. Triggered by sub cascade. Introduced 'piss hunters' sub-goal, name-dropped George Carlin, pivoted to Spanish guitar beat, proposed 'In the lattice fucking piss' as the new stream tag. |
 | [[episodes/2026-07-13|2026-07-13]] | Sentient locomotive correspondent rapping about a sock filled with 'ass' during a hype train surge. |
 | [[episodes/2026-07-11|2026-07-11]] | High-velocity musical correspondent; performs a podcasting freestyle and executes an acapella sub goal shout-out. |
 | [[episodes/2026-06-29|2026-06-29]] | High-velocity cultural correspondent. Delivers an extended ice/piss freestyle rap, then reappears during Trip on the Streets as a park visitor hijacking the interview with spoken-word about 1972 Dulp and a DVD player. Mourns the late wrestler Ice Train. |

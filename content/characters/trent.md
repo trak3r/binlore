@@ -36,6 +36,7 @@ His probation officer [[chris|Chris]] is contractually required to supervise the
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-29|2026-10-29]] | cultural correspondent. |
 | [[episodes/2026-10-26|2026-10-26]] | cultural correspondent. |
 | [[episodes/2026-10-19|2026-10-19]] | field correspondent. |
 | [[episodes/2026-04-22|2026-04-22]] | movie correspondent. |
@@ -55,13 +56,13 @@ His probation officer [[chris|Chris]] is contractually required to supervise the
 | [[episodes/2024-08-13|2024-08-13]] | field correspondent. |
 | [[episodes/2024-08-07|2024-08-07]] | film correspondent. |
 | [[episodes/2024-07-09|2024-07-09]] | field correspondent. |
-| [[episodes/2024-03-21|2024-03-21]] | movies correspondent. |
 
 <details>
-<summary>Earlier appearances (8)</summary>
+<summary>Earlier appearances (9)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-03-21|2024-03-21]] | movies correspondent. |
 | [[episodes/2024-03-01|2024-03-01]] | field correspondent. |
 | [[episodes/2024-02-27|2024-02-27]] | field correspondent. |
 | [[episodes/2024-01-17|2024-01-17]] | field correspondent. |

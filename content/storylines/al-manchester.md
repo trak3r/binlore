@@ -54,6 +54,7 @@ tags:
 | [[../episodes/2026-10-19|2026-10-19]] | Munch confirms skeletal identity is not Al Manchester; rejects comparison to racism bit [70:54-71:16]. |
 | [[../episodes/2026-10-23|2026-10-23]] | [2026-10-23] Munch references Al as 'trapped inside' while asserting skeleton dominance; Al Manchester persona remains dormant. |
 | [[../episodes/2026-10-26|2026-10-26]] [53:51] | [53:51] Munch confirms Al Manchester remains trapped inside after escaping Spirit Halloween; green skeleton form is a level-up from killing a spirit for Rennerton tech tree. |
+| [[../episodes/2026-10-29|2026-10-29]] [1:07:55] | [1:07:55] Munch confirms skeleton form is permanent after Sept 7 incineration; audience claps extra hard for skeleton Munch; 'Al remains trapped inside' per Crum's prior lore. |
 
 ### Later callbacks (not the live arc)
 

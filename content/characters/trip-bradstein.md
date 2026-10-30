@@ -33,6 +33,7 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-10-29|2026-10-29]] | field correspondent. |
 | [[episodes/2026-10-10|2026-10-10]] | field correspondent. |
 | [[episodes/2026-06-29|2026-06-29]] | Debuts after emerging from a two-month bush hibernation. Conducts [[../segments/trip-on-the-street|Trip on the Street]] interviews with park visitors on audience-submitted topics, interviewing his mother (confusing her for a stranger), Hype Train, an aggressive DVD salesman, and a George W. Bush impersonator. |
 | [[episodes/2026-06-19|2026-06-19]] | Field correspondent stationed in public parks conducting on-the-spot interviews with passersby. |
@@ -52,13 +53,13 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 | [[episodes/2025-07-19|2025-07-19]] | field correspondent. |
 | [[episodes/2025-06-28|2025-06-28]] | field correspondent. |
 | [[episodes/2025-06-24|2025-06-24]] | field correspondent. |
-| [[episodes/2025-06-17|2025-06-17]] | Field Correspondent. |
 
 <details>
-<summary>Earlier appearances (45)</summary>
+<summary>Earlier appearances (46)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2025-06-17|2025-06-17]] | Field Correspondent. |
 | [[episodes/2025-06-11|2025-06-11]] | field correspondent. |
 | [[episodes/2025-06-02|2025-06-02]] | field correspondent. |
 | [[episodes/2025-05-17|2025-05-17]] | field correspondent. |
@@ -110,7 +111,7 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 ## Notable moments
 
 
-- **[1:50:21]** ([[episodes/2026-06-29|2026-06-29]]): Emerges live from his park bush following an alleged two-month hibernation, declaring "I'll never leave these streets," and conducts street interviews based on audience-submitted questions. When his own mother approaches his bush, he treats her as an unfamiliar pedestrian.
+- **[1:54:24]** ([[episodes/2026-10-29|2026-10-29]]): Trip Bradstein returns from bush hibernation for Halloween Trip on the Street edition.
 - **[2:09:35]** ([[episodes/2025-11-03|2025-11-03]]): Opinion submission sheet glitched, merging with town-hall question queue; Trip performs live list surgery to fix.
 - **[1:02:38]** ([[episodes/2025-01-06|2025-01-06]]): Encountered doppelganger Brad Trippstein claiming rivalry; interviewed pregnant time-traveling pizza delivery guy Rip Blazer giving birth to living pizza babies.
 - **[2:47:07]** ([[episodes/2024-10-03|2024-10-03]]): Offered $3M contract by Tony Khan to join AEW, then fired minutes later for 'aggressive energy' from a bystander.
