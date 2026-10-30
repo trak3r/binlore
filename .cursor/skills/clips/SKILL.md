@@ -10,7 +10,9 @@ Two phases with a user decision in between:
 1. **Propose**: read the latest episode, pitch exactly 3 candidate highlights with clickable VOD timestamp links, then STOP and wait for the user to pick one.
 2. **Produce**: preview the 9:16 crop, render the chosen clip with `./binlore clips make`, polish `post.md`, and report the output folder.
 
-Distribution is manual: the user uploads the files. Never try to post anywhere.
+Distribution is manual by default: the user uploads the files. Only post when the user explicitly asks you to (for example by driving Chrome, signed in as the fan channel binlorewiki@gmail.com), and then **always upload as Unlisted, never Public**. The user makes clips public themselves.
+
+These are fan clips of someone else's show. Keep the fan-clip branding and the "Not affiliated with the show" line in post copy.
 
 ## Phase 1: Propose
 
