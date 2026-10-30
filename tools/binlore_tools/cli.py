@@ -252,6 +252,41 @@ def cmd_screencap(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_clips_preview(args: argparse.Namespace) -> int:
+    from .clips import preview
+
+    out = preview(args.episode, args.at, crop_x=args.crop_x)
+    print(f"✓ Crop preview: {out}")
+    return 0
+
+
+def cmd_clips_make(args: argparse.Namespace) -> int:
+    from .clips import make_clip
+
+    tags = [t.strip() for t in ",".join(args.tags or []).split(",") if t.strip()]
+    out_dir = make_clip(
+        args.episode,
+        start=args.start,
+        end=args.end,
+        slug=args.slug,
+        crop_x=args.crop_x,
+        title=args.title,
+        hook=args.hook,
+        wiki=args.wiki,
+        tags=tags,
+        stinger=not args.no_stinger,
+        redownload=args.redownload,
+        retranscribe=args.retranscribe,
+        whisper_model=args.whisper_model,
+        thumb_at=args.thumb_at,
+        fixes=args.fix,
+    )
+    print(f"\n✓ Clip ready in {out_dir}/")
+    for name in ("clip.mp4", "thumbnail.jpg", "captions.srt", "post.md"):
+        print(f"  {name}")
+    return 0
+
+
 def cmd_clean(args: argparse.Namespace) -> int:
     targets = find_cleanable_runs(
         target_vod_id=args.target,
@@ -603,6 +638,38 @@ def build_parser() -> argparse.ArgumentParser:
     scap.add_argument("--upload", action="store_true", help="Upload captured screencaps to GitHub release")
     scap.add_argument("--release-tag", default="media-assets", help="GitHub release tag (default: media-assets)")
     scap.set_defaults(func=cmd_screencap)
+
+    clips = sub.add_parser("clips", help="Cut vertical highlight clips (TikTok / Reels / Shorts) from an episode")
+    clips_sub = clips.add_subparsers(dest="clips_command", required=True)
+    episode_help = "Episode date (YYYY-MM-DD), 'latest', Twitch VOD id/URL, or YouTube URL"
+
+    cprev = clips_sub.add_parser("preview", help="Save a frame with the 9:16 crop window drawn on it")
+    cprev.add_argument("episode", help=episode_help)
+    cprev.add_argument("--at", required=True, help="Timestamp to grab (H:MM:SS)")
+    cprev.add_argument("--crop-x", type=float, default=0.5, help="Crop center as a fraction of frame width (default 0.5)")
+    cprev.set_defaults(func=cmd_clips_preview)
+
+    cmake = clips_sub.add_parser("make", help="Slice, caption, brand and package a vertical clip")
+    cmake.add_argument("episode", help=episode_help)
+    cmake.add_argument("--start", required=True, help="Clip start (H:MM:SS[.ms])")
+    cmake.add_argument("--end", required=True, help="Clip end (H:MM:SS[.ms])")
+    cmake.add_argument("--slug", required=True, help="Short name for the output folder, e.g. durf-dating-advice")
+    cmake.add_argument(
+        "--crop-x",
+        help="Crop center as a fraction of frame width (default 0.5), or a per-shot schedule "
+        "like '0.40,12.3=0.62' (seconds into the clip = crop)",
+    )
+    cmake.add_argument("--title", help="Post title (YouTube Shorts title, post.md heading)")
+    cmake.add_argument("--hook", help="One-line caption used in the post copy")
+    cmake.add_argument("--wiki", action="append", help="Wiki page to link, e.g. characters/durf (repeatable)")
+    cmake.add_argument("--tags", action="append", help="Extra hashtags, comma separated (repeatable)")
+    cmake.add_argument("--fix", action="append", help="Caption correction 'wrong=>right' (repeatable, remembered)")
+    cmake.add_argument("--thumb-at", type=float, help="Thumbnail time in seconds into the clip (default 2)")
+    cmake.add_argument("--whisper-model", default="small", help="faster-whisper model for captions (default small)")
+    cmake.add_argument("--no-stinger", action="store_true", help="Don't append the end card / stinger")
+    cmake.add_argument("--redownload", action="store_true", help="Re-slice the source even if cached")
+    cmake.add_argument("--retranscribe", action="store_true", help="Re-run word-level transcription even if cached")
+    cmake.set_defaults(func=cmd_clips_make)
 
     clean = sub.add_parser("clean", help="Delete downloaded media files (audio/video) to reclaim disk space")
     clean.add_argument("target", nargs="?", help="VOD ID or Twitch URL (defaults to all completed runs)")
