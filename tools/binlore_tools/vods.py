@@ -312,9 +312,11 @@ def list_vods(limit: int = 20) -> list[Vod]:
 
 def resolve_vod(url_or_latest: str | None, *, latest: bool) -> Vod:
     if latest or url_or_latest in (None, "", "--latest"):
-        vods = list_vods(limit=1)
+        from .exclusions import is_excluded
+
+        vods = [v for v in list_vods(limit=10) if not is_excluded(v.id)]
         if not vods:
-            raise RuntimeError(f"No VODs found for {CHANNEL_VIDEOS_URL}")
+            raise RuntimeError(f"No non-excluded VODs found for {CHANNEL_VIDEOS_URL}")
         # Flat playlist often lacks dates — refresh full metadata
         return resolve_vod(vods[0].url, latest=False)
 

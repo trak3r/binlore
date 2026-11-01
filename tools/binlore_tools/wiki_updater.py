@@ -7,6 +7,7 @@ from pathlib import Path
 from typing import Any
 
 from .canon import CanonEntity, is_excluded_external_subject, load_wiki_canon
+from .exclusions import ensure_not_excluded
 from .paths import (
     CONTENT_CHARACTERS,
     CONTENT_EPISODES,
@@ -1226,6 +1227,7 @@ def update_wiki_from_extraction(
     update_storylines: bool = True,
 ) -> UpdateReport:
     """Propagates structured extraction data into Character, Segment, and Storyline wiki pages."""
+    ensure_not_excluded(vod_id)
     run_dir = RUNS_DIR / vod_id
     ext_path = run_dir / "extraction.json"
     if not ext_path.exists():

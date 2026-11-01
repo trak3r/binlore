@@ -14,6 +14,7 @@ from pathlib import Path
 from typing import Any, Sequence
 
 from .clean import clean_run_dir, find_cleanable_runs, execute_clean
+from .exclusions import drop_excluded
 from .extract import DEFAULT_MODEL, DailyQuotaExceeded, extract_lore_from_vod, get_api_key, load_env
 from .paths import CATALOG_JSON, CONTENT_EPISODES, REPO_ROOT, RUNS_DIR, TOOLS_ROOT
 from .vods import (
@@ -154,7 +155,7 @@ def find_unprocessed_episodes(
         raise FileNotFoundError(f"Catalog file not found: {catalog_path}")
 
     with open(catalog_path, encoding="utf-8") as f:
-        streams: list[dict[str, Any]] = json.load(f)
+        streams: list[dict[str, Any]] = drop_excluded(json.load(f))
 
     skipped_dates: set[str] = set()
     skipped_vod_ids: set[str] = set()
@@ -222,7 +223,7 @@ def check_backlog_status(
         return {"error": f"Catalog missing: {catalog_path}"}
 
     with open(catalog_path, encoding="utf-8") as f:
-        streams = json.load(f)
+        streams = drop_excluded(json.load(f))
 
     untranscribed = find_unprocessed_episodes(
         catalog_path, episodes_dir, skip_extract=True, oldest_first=True

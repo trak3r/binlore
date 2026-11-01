@@ -7,6 +7,7 @@ from pathlib import Path
 from typing import Any
 
 from .episode import write_episode_stub
+from .exclusions import ensure_not_excluded
 from .paths import RUNS_DIR
 from .transcribe import transcribe_audio, write_transcript
 from .vods import Vod, format_duration, get_yt_dlp_cmd, resolve_vod, run_yt_dlp, youtube_bot_cooldown_hint
@@ -102,6 +103,7 @@ def ingest(
 ) -> Path:
     if vod is None:
         vod = resolve_vod(url, latest=latest)
+    ensure_not_excluded(vod.id)
     run_dir = RUNS_DIR / vod.id
     run_dir.mkdir(parents=True, exist_ok=True)
 

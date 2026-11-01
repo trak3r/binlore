@@ -1,0 +1,10 @@
+# Streams on Case's channel that are NOT Barely Informed News episodes.
+# Listed ids are dropped from youtube_catalog.json and refused by ingest,
+# transcribe-all, and extract, so they never become episode pages or lore.
+# Twitch often splits one broadcast into several VODs: list every id.
+
+streams:
+  - date: 2026-10-31
+    title: Halloween Freaktacular
+    reason: Case and a friend promoting another project (Kickstarter); not a BIN show.
+    ids: ["2915953760", "2915958965", "2915959662", "2916085879"]

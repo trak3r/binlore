@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 from typing import Any
 
+from .exclusions import drop_excluded, is_excluded
 from .paths import CATALOG_JSON, CONTENT_EPISODES
 from .vods import format_duration, list_vods, resolve_vod
 
@@ -55,6 +56,8 @@ def refresh_catalog_from_twitch(*, limit: int = 40, dry_run: bool = False) -> di
         tid = _normalize_twitch_id(flat.id)
         if not tid or not tid.isdigit():
             continue  # skip non-VOD / highlight noise without numeric ids
+        if is_excluded(tid):
+            continue
 
         title_guess = (flat.title or "").strip()
         if title_guess.lower().startswith("highlight:"):
@@ -124,6 +127,7 @@ def refresh_catalog_from_twitch(*, limit: int = 40, dry_run: bool = False) -> di
     def sort_key(s: dict[str, Any]) -> str:
         return str(s.get("date") or "0000-00-00")
 
+    merged = drop_excluded(merged)
     merged.sort(key=sort_key, reverse=True)
 
     if not dry_run:
@@ -144,7 +148,7 @@ def generate_episodes_index() -> None:
         raise FileNotFoundError(f"Missing {CATALOG_JSON}.")
 
     with open(CATALOG_JSON, encoding="utf-8") as f:
-        streams = json.load(f)
+        streams = drop_excluded(json.load(f))
 
     # Check for ingested episodes in content/episodes/*.md
     ingested_map: dict[str, str] = {}

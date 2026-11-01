@@ -14,6 +14,7 @@ CONTENT_STORYLINES = CONTENT_DIR / "storylines"
 
 CATALOG_JSON = TOOLS_ROOT / "youtube_catalog.json"
 CANON_DENYLIST_YAML = TOOLS_ROOT / "canon_denylist.yaml"
+EXCLUDED_STREAMS_YAML = TOOLS_ROOT / "excluded_streams.yaml"
 
 CHANNEL = "caseblackwell"
 CHANNEL_VIDEOS_URL = f"https://www.twitch.tv/{CHANNEL}/videos"

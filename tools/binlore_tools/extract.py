@@ -13,6 +13,7 @@ from .canon import (
     is_excluded_external_subject,
     load_wiki_canon,
 )
+from .exclusions import ensure_not_excluded
 from .paths import REPO_ROOT, RUNS_DIR, TOOLS_ROOT
 from .promote import select_core_talent
 
@@ -712,6 +713,7 @@ def extract_lore_from_vod(
     dry_run: bool = False,
     timeout: float = 180.0,
 ) -> dict[str, Any]:
+    ensure_not_excluded(vod_id)
     run_dir = RUNS_DIR / vod_id
     if not run_dir.exists():
         raise SystemExit(f"Run directory not found: {run_dir}. Did you run `binlore ingest` first?")

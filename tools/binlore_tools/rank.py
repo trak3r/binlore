@@ -8,6 +8,7 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Any
 
+from .exclusions import drop_excluded
 from .paths import CATALOG_JSON, RUNS_DIR, TOOLS_ROOT
 
 MIN_DURATION_SECONDS = 20 * 60
@@ -52,7 +53,7 @@ PILOT_BOOKMARK_DATES = (
 def _catalog_by_id() -> dict[str, dict[str, Any]]:
     if not CATALOG_JSON.exists():
         return {}
-    streams = json.loads(CATALOG_JSON.read_text(encoding="utf-8"))
+    streams = drop_excluded(json.loads(CATALOG_JSON.read_text(encoding="utf-8")))
     out: dict[str, dict[str, Any]] = {}
     for s in streams:
         for key in ("id", "yt_id", "twitch_id"):
