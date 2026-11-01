@@ -48,5 +48,4 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[0:24:36]** ([[episodes/2025-01-06|2025-01-06]]): Wife has Christmas and New Year custody of all six children; Case concedes for 'safety of the children in these trying political times.'
 - **[19:32]** ([[episodes/2024-09-19|2024-09-19]]): Case Blackwell debuted a new gold jacket/coat for the stream's approaching two-year anniversary.
 - **[8:47]** ([[episodes/2024-09-18|2024-09-18]]): Debuts new washable blazer with blue lining that picks up less green screen spill.
-- **[28:28]** ([[episodes/2024-09-17|2024-09-17]]): Insists on open bar at wedding; Kendelle open to one child (up from zero).
 - **[0:35:08]** ([[episodes/2024-08-30|2024-08-30]]): Birthday was months ago; wished for camera lens, not world peace.

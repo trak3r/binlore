@@ -164,6 +164,17 @@ binlore promote-characters --dry-run
 binlore promote-characters
 ```
 
+### 4b. Non-BIN streams (`binlore expunge`)
+
+Streams on Case's channel that aren't *Barely Informed News* (gaming nights, call-in shows, promo streams) are listed in [`excluded_streams.yaml`](excluded_streams.yaml). Listed VOD ids are skipped by `refresh-catalog` and `ingest --latest`, and refused by `ingest`, `extract`, and `update-wiki`. After adding ids, remove anything already in the wiki:
+
+```bash
+binlore expunge --dry-run -v   # pages, runs, wiki rows, and catalog rows it will remove
+binlore expunge
+```
+
+When a BIN show shares the date, only the excluded stream's rows are removed and the BIN show keeps (or regains) the `YYYY-MM-DD` page. Hand-written prose that links an expunged date is listed for manual review rather than edited.
+
 `process-all --extract` / `update-wiki` invoke promotion automatically after wiki writes.
 
 ### 4b. Munch & Crum wiki mine (ranked extract)

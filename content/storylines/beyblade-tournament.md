@@ -50,11 +50,9 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 | [[../episodes/2024-03-01|2024-03-01]] [1:25:03] | [1:25:03] Hype Train lyric 'Careful with the Beyblades, man' references pending 2v2 Beyblade Burst Event pledge. |
 | [[../episodes/2024-03-18|2024-03-18]] [1:01:21] | [1:01:21] Munch references Beyblade Tournament momentum: 'Like a Beyblade, that top can only spend for so long. And now I'm topping you.' |
 | [[../episodes/2024-03-26|2024-03-26]] [49:14] | [49:14] Chat Beyblade activity signals Science Eyes debut tomorrow; tournament pledge remains pending. |
-| [[../episodes/2024-04-03|2024-04-03]] [2:16:02] | [02:16:02] Case invokes Beyblade Burst as a mental focus technique during the pirate shooting gallery grind; [02:20:20] Sub goal reached — 'Beyblade Blurp' celebrated on air. |
 | [[../episodes/2024-05-03|2024-05-03]] [2:20:52] | [02:20:52] Def Jam: Fight for NY community goal crushed; underground tournament planned for next week with PCSX2 setup. |
 | [[../episodes/2024-05-10|2024-05-10]] [2:11:43] | Case mentions Beyblade as potential way to restore Munch's sanity; Crum notes Munch's Beyblade points already beat him in total debates. [02:11:43] |
 | [[../episodes/2024-06-07|2024-06-07]] | Case references the Beyblade Tournament as a pending community pledge event during stream planning. |
-| [[../episodes/2024-06-10|2024-06-10]] [40:45] | [40:45] Case mentions hoping to launch a call-in show format by next Monday, a step toward the community-pledged Beyblade Tournament execution. |
 | [[../episodes/2024-06-10|2024-06-10]] [39:26] | [39:26] Eight-hour debate marathon confirmed for weekend after next; Kendall's birthday week conflicts with this week. |
 | [[../episodes/2024-06-18|2024-06-18]] | Not advanced this episode. |
 | [[../episodes/2024-06-28|2024-06-28]] [1:57:04] | [01:57:04] Case acknowledges chat demand for the Beyblade track, confirming the community-pledge storyline remains pending execution. |

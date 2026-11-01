@@ -114,7 +114,6 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2024-09-20|2024-09-20]] | news stowaway. |
 | [[episodes/2024-09-18|2024-09-18]] | news stowaway. |
 | [[episodes/2024-09-11|2024-09-11]] | news stowaway. |
-| [[episodes/2024-09-08|2024-09-08]] | news stowaway. |
 | [[episodes/2024-09-06|2024-09-06]] | news stowaway. |
 | [[episodes/2024-08-30|2024-08-30]] | news stowaway. |
 | [[episodes/2024-08-22|2024-08-22]] | news stowaway. |
@@ -165,5 +164,4 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 - **[1:36:33]** ([[episodes/2024-10-30|2024-10-30]]): Reveals the existence of six satellite rooms and broadcasts from one room over while lobbying for lead anchor.
 - **[3:08:53]** ([[episodes/2024-10-10|2024-10-10]]): Peter Gibbon reveals he was 'created at a freak off' by his parents.
 - **[1:40:12]** ([[episodes/2024-10-01|2024-10-01]]): Peter Gibbon claims he was fired and rehired as Park Ranger, reopening Park Mayor campaign.
-- **[58:58]** ([[episodes/2024-09-08|2024-09-08]]): Manifested as cheese graphics on the stream overlay during Carl's turn, confirming continued newsroom wall residency.
 - **[17:20]** ([[episodes/2024-06-18|2024-06-18]]): Claims 'first person in the walls claims them' as legal precedent for wall squatting.

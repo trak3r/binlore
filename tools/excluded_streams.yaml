@@ -1,10 +1,69 @@
 # Streams on Case's channel that are NOT Barely Informed News episodes.
 # Listed ids are dropped from youtube_catalog.json and refused by ingest,
-# transcribe-all, and extract, so they never become episode pages or lore.
+# transcribe-all, extract, and update-wiki, so they never become episode pages or lore.
 # Twitch often splits one broadcast into several VODs: list every id.
+# After adding ids, run `./binlore expunge` to remove anything already in the wiki.
 
 streams:
   - date: 2026-10-31
     title: Halloween Freaktacular
     reason: Case and a friend promoting another project (Kickstarter); not a BIN show.
     ids: ["2915953760", "2915958965", "2915959662", "2916085879"]
+
+  - date: 2026-08-23
+    title: 100 Bart Simpson Tattoos
+    reason: Tattoo stunt stream; not a BIN show.
+    ids: ["LX_wDcTtHpM", "2853942560", "2853919308", "2853880055"]
+
+  # Call Kass call-in shows. 2024-07-15 "Call Kass - Testing the Lines" is a full
+  # BIN broadcast despite the title and is intentionally NOT excluded.
+  - {date: 2024-09-17, title: Call Kass!, reason: Call-in show; not a BIN show., ids: [fHnMjljKZgc]}
+  - {date: 2024-09-24, title: Call Kass, reason: Call-in show; not a BIN show., ids: [knz0Gmf_CVU]}
+  - {date: 2024-10-01, title: Call Kass, reason: Call-in show; not a BIN show., ids: [ssoak0wNd9k]}
+  - {date: 2024-10-22, title: Call Kass, reason: Call-in show; not a BIN show., ids: [TcrjeRJrOwI]}
+
+  # Pure gaming nights with no BIN segments. Gaming played in BIN character
+  # (Chet Manscape Fallout, Science Eyes Elden Ring, Bubble Trent) and gaming nights
+  # carrying lore beats (Kendelle proposal, Great Lethal Off, Papito debut,
+  # Pepito sub-goal, Agent Papito) are intentionally kept.
+  - {date: 2023-11-30, title: Lethal Cream Company, reason: Gaming stream (Lethal Company)., ids: [Vhjv_2bvwlc]}
+  - {date: 2023-12-05, title: Lethal Cream Company, reason: Gaming stream (Lethal Company)., ids: [4X5ZdimKD-w]}
+  - {date: 2023-12-06, title: Lethal Extra Cream Company, reason: Gaming stream (Lethal Company)., ids: [hfqDTBunWiY]}
+  - {date: 2023-12-11, title: Sunday Lethaling With Some Comapny, reason: Gaming stream (Lethal Company)., ids: [a5A5FfhhehU]}
+  - {date: 2023-12-12, title: Lethal Cream Company, reason: Gaming stream (Lethal Company)., ids: [HzCwzevOQ7Y]}
+  - {date: 2023-12-13, title: Lethal Cream Company, reason: Gaming stream (Lethal Company)., ids: [6GsHIGin3SQ]}
+  - {date: 2023-12-15, title: Lethal Cream Company, reason: Gaming stream (Lethal Company)., ids: [i1Acx1I0wY8]}
+  - {date: 2023-12-19, title: Solo Company, reason: Gaming stream (Lethal Company)., ids: [bUgo6CtCkHU]}
+  - {date: 2023-12-27, title: Post Christmas Company, reason: Gaming stream (Lethal Company)., ids: [GJ46ADmIPkU]}
+  - {date: 2023-12-29, title: Post Christmas Company, reason: Gaming stream (Lethal Company)., ids: [Q994QG9CwLk]}
+  - {date: 2023-12-31, title: Case and Kendelle Company, reason: Gaming stream (Lethal Company)., ids: [GIpN8hsz3vI]}
+  - {date: 2024-01-03, title: Cream Company, reason: Gaming stream (Lethal Company)., ids: [Ym67pD8e6dc]}
+  - {date: 2024-01-04, title: Endless Company, reason: Gaming stream (Lethal Company)., ids: [2BQcxy1GwQ0]}
+  - {date: 2024-01-05, title: Cream Company, reason: Gaming stream (Lethal Company)., ids: [3JMLOZeaRIM]}
+  - {date: 2024-01-12, title: Cream Company, reason: Gaming stream (Lethal Company)., ids: [H9d5sUAABJY]}
+  - {date: 2024-01-18, title: Phasmofionanova, reason: Gaming stream (Phasmophobia)., ids: [e1eUXUDvw_8]}
+  - {date: 2024-01-20, title: Late Night Lethal Modity, reason: Gaming stream (Lethal Company)., ids: [NZA7xxMYLvI]}
+  - {date: 2024-04-03, title: Resident Eviling, reason: Gaming stream (Resident Evil 4)., ids: [uqwmNhOs5cA]}
+  - {date: 2024-04-09, title: Pirate Slaying RE4, reason: Gaming stream (Resident Evil 4)., ids: [GJ5t-e-9U9U]}
+  - {date: 2024-04-13, title: Back in the Resident, reason: Gaming stream (Resident Evil 4)., ids: [-7SyMp1VkMM]}
+  - {date: 2024-05-09, title: Fallout Boy Rides Again, reason: Gaming stream (Def Jam)., ids: [lKKl55DZCBw]}
+  - {date: 2024-05-18, title: "Helldiving, 2 (I've played twice)", reason: Gaming stream (Helldivers 2)., ids: [6YxhPyjwr6w]}
+  - {date: 2024-05-23, title: Queer Rock Peering with @fionanova, reason: Gaming stream (Queer Man Peering into a Rock)., ids: [kJZLdk_8IjA]}
+  - {date: 2024-06-05, title: Elden Things, reason: Gaming stream (Elden Ring)., ids: [-9GKYnJT4H4]}
+  - {date: 2024-06-10, title: Elden Things - Becoming More Notorious, reason: Gaming stream (Elden Ring)., ids: [sdLobXg05Gg]}
+  - {date: 2024-06-11, title: Elden Things, reason: Gaming stream (Elden Ring)., ids: [aNR6303s4XA]}
+  - {date: 2024-06-19, title: Elden Kings, reason: Gaming stream (Elden Ring)., ids: [neIV8euk8Rs]}
+  - {date: 2024-06-20, title: Elden Sick Day, reason: Gaming stream (Elden Ring)., ids: [_CrTZQ8bMVA]}
+  - {date: 2024-06-24, title: Saduchidi Toilet Ring / Elden Recovery, reason: Gaming stream (Elden Ring)., ids: [e9mnunhp-gU, 7iqP0XI4cjI]}
+  - {date: 2024-07-01, title: Elden Struggles, reason: Gaming stream (Elden Ring)., ids: [ERbUT-4d78k]}
+  - {date: 2024-07-23, title: Return to the Eldeners, reason: Gaming stream (Elden Ring)., ids: [6F4W0l3Dr_M]}
+  - {date: 2024-09-08, title: CandyLand RPG with Cig Sand, reason: Gaming stream (CandyLand RPG)., ids: [P1GimssHUcE]}
+  - {date: 2025-01-20, title: Inagoonation Gamer, reason: Gaming stream (Marvel Rivals)., ids: [CW-N32Uf_sI]}
+  - {date: 2025-03-27, title: "Leaks, Election \"Tweaks,\" and Various Freaks (actually Content Warning)", reason: Gaming stream (Content Warning)., ids: [LqDgG6GX8y8]}
+  - {date: 2025-03-29, title: "Leaks, Election \"Tweaks,\" and Various Freaks (actually R.E.P.O.)", reason: Gaming stream (R.E.P.O.)., ids: [K_qU8KQ5I3A]}
+  - {date: 2025-04-03, title: REPO Mens 2, reason: Gaming stream (R.E.P.O.)., ids: [sN3u0466Bdc]}
+  - {date: 2025-04-05, title: Repo Madness, reason: Gaming stream (R.E.P.O.)., ids: [Renj5SaVQLY]}
+  - {date: 2025-05-03, title: "Budgets, Screwworms... (actually Pico Park)", reason: Gaming stream (Pico Park)., ids: [anGKbHGedtI]}
+  - {date: 2025-05-28, title: "Hamtaro Time (news?)", reason: Gaming stream (Hamtaro knockoff)., ids: [UHazmiRCsHw, PgQGBcnufzo]}
+  - {date: 2025-12-16, title: Peaking Hard, reason: Gaming stream (Peak)., ids: [r_f4NEI06Dk]}
+  - {date: 2026-04-17, title: Slaying Some Spires Instead of NEWS, reason: Gaming stream (Slay the Spire)., ids: [6xrss8YwsiY]}

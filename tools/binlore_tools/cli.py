@@ -174,6 +174,46 @@ def cmd_update_wiki(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_expunge(args: argparse.Namespace) -> int:
+    from .expunge import apply_expunge, plan_expunge
+    from .paths import REPO_ROOT
+
+    plan = plan_expunge()
+
+    def rel(p) -> str:
+        return str(p.relative_to(REPO_ROOT))
+
+    print(f"Runs to delete ({len(plan.runs)}): {' '.join(sorted(plan.runs))}")
+    print(f"Catalog rows to drop: {plan.catalog_rows_dropped}")
+    print(f"Episode pages to delete ({len(plan.pages_deleted)}): {' '.join(p.stem for p in plan.pages_deleted)}")
+    for d, rid in plan.pages_regenerated:
+        print(f"Regenerate {d} page from surviving BIN run {rid}")
+    for old, new in plan.renames.items():
+        print(f"Rename episodes/{old} -> episodes/{new}")
+    print(f"Fully expunged dates ({len(plan.full_dates)}): {' '.join(sorted(plan.full_dates))}")
+    print(f"Shared dates ({len(plan.shared_dates)}): {' '.join(sorted(plan.shared_dates))}")
+    print(f"\nLines removed: {len(plan.lines_removed)}")
+    for path, line in plan.lines_removed if args.verbose else []:
+        print(f"  - {rel(path)}: {line[:160]}")
+    print(f"Lines replaced: {len(plan.lines_replaced)}")
+    for path, old, new in plan.lines_replaced if args.verbose else []:
+        print(f"  ~ {rel(path)}: {old[:110]}\n      => {new[:110]}")
+    if plan.needs_review:
+        print(f"\nNeeds manual review ({len(plan.needs_review)}):")
+        for path, line in plan.needs_review:
+            print(f"  ? {rel(path)}: {line[:200]}")
+    if args.dry_run:
+        print("\n[DRY RUN] Nothing written.")
+        return 0
+    apply_expunge(plan)
+    for path, old, new in plan.first_seen_changes:
+        print(f"first_seen {rel(path)}: {old} -> {new}")
+    for path in plan.orphaned:
+        print(f"ORPHANED (no remaining appearances): {rel(path)}")
+    print("Expunge complete; episodes index and appearance index rebuilt.")
+    return 0
+
+
 def cmd_promote_characters(args: argparse.Namespace) -> int:
     from .promote import CORE_TALENT_LIMIT, MINOR_THRESHOLD, RECURRING_THRESHOLD, promote_characters, select_core_talent
     from .canon import load_wiki_canon
@@ -594,6 +634,14 @@ def build_parser() -> argparse.ArgumentParser:
         help="Preview creates/promotions without writing character pages",
     )
     promo.set_defaults(func=cmd_promote_characters)
+
+    exp = sub.add_parser(
+        "expunge",
+        help="Remove every trace of the streams listed in tools/excluded_streams.yaml (pages, runs, wiki rows, catalog)",
+    )
+    exp.add_argument("--dry-run", action="store_true", help="Show the plan without writing anything")
+    exp.add_argument("-v", "--verbose", action="store_true", help="List every removed/replaced line")
+    exp.set_defaults(func=cmd_expunge)
 
     scap = sub.add_parser("screencap", help="Capture high-quality video frames for characters and segments via ffmpeg")
     scap.add_argument("target", nargs="?", help="VOD ID or Twitch URL (defaults to latest)")

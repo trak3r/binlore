@@ -4,7 +4,7 @@ type: character
 aliases:
   - Pepito the Dog
   - Peptron 3000
-first_seen: 2023-12-06
+first_seen: 2023-12-08
 status: executive producer
 tags:
   - character
@@ -121,7 +121,6 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2024-10-13|2024-10-13]] | executive producer. |
 | [[episodes/2024-10-10|2024-10-10]] | executive producer. |
 | [[episodes/2024-10-03|2024-10-03]] | executive producer. |
-| [[episodes/2024-09-24|2024-09-24]] | executive producer. |
 | [[episodes/2024-09-20|2024-09-20]] | executive producer. |
 | [[episodes/2024-09-13|2024-09-13]] | executive producer. |
 | [[episodes/2024-09-11|2024-09-11]] | executive producer. |
@@ -176,7 +175,6 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2023-12-14|2023-12-14]] | executive producer. |
 | [[episodes/2023-12-12|2023-12-12]] | executive producer. |
 | [[episodes/2023-12-08|2023-12-08]] | executive producer. |
-| [[episodes/2023-12-06|2023-12-06]] | Referenced as a dog (Pipita) in the studio, audible in background during equipment phase. |
 
 </details>
 

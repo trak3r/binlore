@@ -240,7 +240,6 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2024-01-05|2024-01-05]] | debate analyst. |
 | [[episodes/2023-12-31|2023-12-31]] | debate analyst. |
 | [[episodes/2023-12-30|2023-12-30]] | debate analyst. |
-| [[episodes/2023-12-29|2023-12-29]] | debate analyst. |
 | [[episodes/2023-12-21|2023-12-21]] | debate analyst. |
 | [[episodes/2023-12-18|2023-12-18]] | debate analyst. |
 | [[episodes/2023-12-16|2023-12-16]] | debate analyst. |

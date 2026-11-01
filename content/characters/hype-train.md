@@ -158,11 +158,9 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2024-07-22|2024-07-22]] | Derails cold open with freestyle rap over 90s beats, acknowledges subscriber milestones. |
 | [[episodes/2024-06-28|2024-06-28]] | hype announcer. |
 | [[episodes/2024-06-26|2024-06-26]] | hype correspondent. |
-| [[episodes/2024-06-24|2024-06-24]] | musical/cultural correspondent. |
 | [[episodes/2024-06-13|2024-06-13]] | hype correspondent. |
 | [[episodes/2024-06-05|2024-06-05]] | musical interruption. |
 | [[episodes/2024-05-31|2024-05-31]] | hype train host. |
-| [[episodes/2024-05-23|2024-05-23]] | recurring interruption. |
 | [[episodes/2024-05-03|2024-05-03]] | musical interruption. |
 | [[episodes/2024-05-02|2024-05-02]] | musical interruption. |
 | [[episodes/2024-04-29|2024-04-29]] | musical interruption. |

@@ -41,7 +41,7 @@ Bald, bearded, and billed as security while looking the part is "honestly half t
 | [[episodes/2024-07-20\|2024-07-20]] | Trip on the Street — attached as JD Vance security; "he can do two jobs." |
 | [[episodes/2024-03-01\|2024-03-01]] | On-screen as **Security Officer Crag**; Case floats replacing him; Pepito won't fire. |
 | [[episodes/2024-02-02\|2024-02-02]] | Ann O'Nem defends Crag over Peter-in-the-walls. |
-| [[episodes/2023-12-31-1u_LMzdmpe0\|2023-12-31]] | Name-checked as the failed prior security hire. |
+| [[episodes/2023-12-31\|2023-12-31]] | Name-checked as the failed prior security hire. |
 
 ## Notable Quotes
 
