@@ -47,6 +47,8 @@ Chris is on-set because Trent's community-service broadcast requires adult super
 | [[episodes/2024-03-01|2024-03-01]] | contributor. |
 | [[episodes/2024-02-09|2024-02-09]] | Trend at the Movies co-host; debates alliteration, defends Knuckles trailer, clashes with Case over animation quality. |
 | [[episodes/2024-01-05|2024-01-05]] | parole officer. |
+| [[episodes/2024-01-05-yHz1R0hOixg|2024-01-05]] | parole officer. |
+| [[episodes/2023-12-12-SUbhyRiToyQ|2023-12-12]] | parole officer. |
 | [[episodes/2023-11-22|2023-11-22]] | First identified co-hosting Trent at the Movies. |
 
 ## Notable Quotes

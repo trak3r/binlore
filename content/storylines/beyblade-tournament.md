@@ -71,9 +71,9 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 | [[../episodes/2025-05-02|2025-05-02]] [23:42] | [23:42] Case mentions Beyblade tournament sub goal still pending execution. |
 | [[../episodes/2025-05-05|2025-05-05]] [1:31:45] | [01:31:45] Bin Conclave pope election underway; first two candidates (September, Justin Juice Powers) nominated via flash polls, framing as community-pledge event. |
 | [[../episodes/2025-05-21|2025-05-21]] [12:35] | [12:35] Case references secret stream where Beyblade tournament idea was pulled from hat; still pending execution. |
-| [[../episodes/2025-05-30|2025-05-30]] [39:25] | Munch references past Beyblade episodes during debate count banter. [39:25] |
+| [[../episodes/2025-05-30-QRN1ZIHDHG8|2025-05-30]] [39:25] | Munch references past Beyblade episodes during debate count banter. [39:25] |
 | [[../episodes/2025-06-02|2025-06-02]] [31:49] | [31:49] Case references pending Beyblade event possibly still 'inside the Papal Binclave'; no further advancement this episode. |
-| [[../episodes/2025-06-17|2025-06-17]] | [2025-06-17] Referenced as pending community-pledge event; no progress shown this episode. |
+| [[../episodes/2025-06-17-SmtzHJfYna0|2025-06-17]] | [2025-06-17] Referenced as pending community-pledge event; no progress shown this episode. |
 | [[../episodes/2025-06-28|2025-06-28]] [1:55:22] | [01:55:22] Trip mentions 'round one at eight o'clock' (in 10 minutes), confirming tournament is imminent. |
 | [[../episodes/2025-08-21|2025-08-21]] [1:26:04] | [01:26:04] Munch challenges Crum to a Beyblade rematch once Crum's soul returns. |
 | [[../episodes/2025-09-02|2025-09-02]] [17:11] | [17:11] Case mentions Beyblade event possibly this weekend or next with a friend assisting. |

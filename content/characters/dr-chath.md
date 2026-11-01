@@ -39,6 +39,7 @@ Despite his clinical positioning, Dr. Chath is a distinctly minor and highly uno
 | [[../episodes/2026-06-22|2026-06-22]] | Debut appearance. Conducts a therapy session with Case Blackwell, reading viewer `!h` prompts, attempting the Dougie while standing on his chair, and watching Kendelle drift through the office like a ghost. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of euthanizing Crum, not actively speaking. |
 | [[episodes/2025-06-17|2025-06-17]] | Resident Therapist. |
+| [[episodes/2025-06-17-SmtzHJfYna0|2025-06-17]] | Resident Therapist. |
 | [[episodes/2025-04-18|2025-04-18]] | Cited by Papito as having recommended smoking American Spirit 120s. |
 | [[episodes/2024-07-22|2024-07-22]] | Conducts therapy session fielding chat questions on sperm counts, JD Vance, and Beyblade validation. |
 | [[episodes/2024-04-29|2024-04-29]] | Conducts couples therapy with silent co-therapist; uses 2v2 basketball metaphor; charges $400. |
@@ -54,6 +55,7 @@ Despite his clinical positioning, Dr. Chath is a distinctly minor and highly uno
 - **[1:46:58]** ([[../episodes/2026-07-17|2026-07-17]]): Concludes a chaotic session by issuing a $500-an-hour bill to Case.
 - **[1:30:22]** ([[../episodes/2026-06-22|2026-06-22]]): Stands directly on his office chair to demonstrate dance therapy to Case, insisting it is a proper clinical intervention.
 - **[1:34:09]** ([[../episodes/2026-06-22|2026-06-22]]): His oversized military helmet leans into the camera lens, prompting Case to plead with him to stop blocking the screen.
+- **[1:47:59]** ([[episodes/2025-06-17-SmtzHJfYna0|2025-06-17]]): Dr. Chath is Case Blackwell's cousin; Case gives cousins work out of worry.
 
 
 ## Open Questions

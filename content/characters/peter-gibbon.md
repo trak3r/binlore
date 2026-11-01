@@ -58,7 +58,7 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2026-02-17|2026-02-17]] | news stowaway. |
 
 <details>
-<summary>Earlier appearances (84)</summary>
+<summary>Earlier appearances (90)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -82,6 +82,7 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2025-07-18|2025-07-18]] | news stowaway. |
 | [[episodes/2025-07-15|2025-07-15]] | news stowaway. |
 | [[episodes/2025-06-28|2025-06-28]] | news stowaway. |
+| [[episodes/2025-06-17-SmtzHJfYna0|2025-06-17]] | News Stowaway. |
 | [[episodes/2025-06-17|2025-06-17]] | news stowaway. |
 | [[episodes/2025-06-11|2025-06-11]] | news stowaway. |
 | [[episodes/2025-06-05|2025-06-05]] | news stowaway. |
@@ -103,8 +104,10 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2025-01-17|2025-01-17]] | news stowaway. |
 | [[episodes/2024-11-26|2024-11-26]] | news stowaway. |
 | [[episodes/2024-11-06|2024-11-06]] | news stowaway. |
+| [[episodes/2024-11-06-WxVZ5zuziq8|2024-11-06]] | news stowaway. |
 | [[episodes/2024-10-30|2024-10-30]] | news stowaway. |
 | [[episodes/2024-10-23|2024-10-23]] | news stowaway. |
+| [[episodes/2024-10-22-4xAoUbdxBjE|2024-10-22]] | news stowaway. |
 | [[episodes/2024-10-22|2024-10-22]] | news stowaway. |
 | [[episodes/2024-10-13|2024-10-13]] | news stowaway. |
 | [[episodes/2024-10-10|2024-10-10]] | news stowaway. |
@@ -135,15 +138,19 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2024-03-18|2024-03-18]] | news stowaway. |
 | [[episodes/2024-03-01|2024-03-01]] | news stowaway. |
 | [[episodes/2024-02-20|2024-02-20]] | news stowaway. |
+| [[episodes/2024-02-15-OAq9wosVy00|2024-02-15]] | news stowaway. |
 | [[episodes/2024-02-15|2024-02-15]] | news stowaway. |
 | [[episodes/2024-02-09|2024-02-09]] | news stowaway. |
+| [[episodes/2024-02-09--1KwRplR-y4|2024-02-09]] | news stowaway. |
 | [[episodes/2024-02-07|2024-02-07]] | news stowaway. |
 | [[episodes/2024-02-02|2024-02-02]] | news stowaway. |
 | [[episodes/2024-01-12|2024-01-12]] | news stowaway. |
+| [[episodes/2024-01-05-yHz1R0hOixg|2024-01-05]] | news stowaway. |
 | [[episodes/2024-01-05|2024-01-05]] | news stowaway. |
 | [[episodes/2023-12-31|2023-12-31]] | news stowaway. |
 | [[episodes/2023-12-14|2023-12-14]] | news stowaway. |
 | [[episodes/2023-12-12|2023-12-12]] | news stowaway. |
+| [[episodes/2023-12-12-SUbhyRiToyQ|2023-12-12]] | news stowaway. |
 | [[episodes/2023-11-22|2023-11-22]] | news stowaway. |
 
 </details>

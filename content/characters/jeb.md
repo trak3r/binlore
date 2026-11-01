@@ -69,7 +69,7 @@ After a vanished stretch of airtime, Jeb came back with a reconstructed face tha
 | [[episodes/2025-12-19|2025-12-19]] | field correspondent. |
 
 <details>
-<summary>Earlier appearances (54)</summary>
+<summary>Earlier appearances (56)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -110,7 +110,9 @@ After a vanished stretch of airtime, Jeb came back with a reconstructed face tha
 | [[episodes/2025-01-06|2025-01-06]] | instructional host. |
 | [[episodes/2024-11-26|2024-11-26]] | field correspondent. |
 | [[episodes/2024-11-06|2024-11-06]] | instructional host. |
+| [[episodes/2024-11-06-WxVZ5zuziq8|2024-11-06]] | instructional host. |
 | [[episodes/2024-10-30|2024-10-30]] | instructional host. |
+| [[episodes/2024-10-30-iCCqpvNIlFY|2024-10-30]] | instructional host. |
 | [[episodes/2024-09-25|2024-09-25]] | Woodshop host attempts Venture Brothers drinks, watches iron crotch kung fu, demonstrates carpsicle, and summons demon while bickering with… |
 | [[episodes/2024-09-20|2024-09-20]] | How To host / kitchen correspondent. |
 | [[episodes/2024-09-18|2024-09-18]] | How To host. |

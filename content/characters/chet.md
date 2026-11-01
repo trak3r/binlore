@@ -57,7 +57,7 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2026-03-24|2026-03-24]] | science correspondent. |
 
 <details>
-<summary>Earlier appearances (95)</summary>
+<summary>Earlier appearances (96)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -92,6 +92,7 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2025-06-26|2025-06-26]] | science correspondent. |
 | [[episodes/2025-06-20|2025-06-20]] | science correspondent. |
 | [[episodes/2025-06-17|2025-06-17]] | Chief Science Correspondent. |
+| [[episodes/2025-06-17-SmtzHJfYna0|2025-06-17]] | Chief Science Correspondent. |
 | [[episodes/2025-06-07|2025-06-07]] | Chief Science Correspondent. |
 | [[episodes/2025-06-05|2025-06-05]] | science correspondent. |
 | [[episodes/2025-05-13|2025-05-13]] | science correspondent. |
@@ -111,7 +112,7 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2025-01-14|2025-01-14]] | science correspondent. |
 | [[episodes/2024-10-23|2024-10-23]] | science correspondent. |
 | [[episodes/2024-10-15|2024-10-15]] | science correspondent. |
-| [[episodes/2024-10-13|2024-10-13]] | science correspondent. |
+| [[episodes/2024-10-13-DRCre_ofu50|2024-10-13]] | science correspondent. |
 | [[episodes/2024-10-10|2024-10-10]] | science correspondent. |
 | [[episodes/2024-10-03|2024-10-03]] | science correspondent. |
 | [[episodes/2024-09-25|2024-09-25]] | Science correspondent triggered by 'science' presents ancient kefir cheese discovery on Tarim mummies with DNA analysis. |
@@ -144,11 +145,11 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2024-02-27|2024-02-27]] | science correspondent. |
 | [[episodes/2024-02-20|2024-02-20]] | science correspondent. |
 | [[episodes/2024-02-16|2024-02-16]] | science correspondent. |
-| [[episodes/2024-02-15|2024-02-15]] | science correspondent. |
-| [[episodes/2024-02-09|2024-02-09]] | science correspondent. |
+| [[episodes/2024-02-15-OAq9wosVy00|2024-02-15]] | science correspondent. |
+| [[episodes/2024-02-09--1KwRplR-y4|2024-02-09]] | science correspondent. |
 | [[episodes/2024-02-01|2024-02-01]] | science correspondent. |
 | [[episodes/2024-01-27|2024-01-27]] | science correspondent. |
-| [[episodes/2024-01-19|2024-01-19]] | science correspondent. |
+| [[episodes/2024-01-19-1pZwg_g2jT4|2024-01-19]] | science correspondent. |
 | [[episodes/2024-01-13|2024-01-13]] | science correspondent. |
 | [[episodes/2023-12-31|2023-12-31]] | science correspondent. |
 | [[episodes/2023-12-18|2023-12-18]] | science correspondent. |

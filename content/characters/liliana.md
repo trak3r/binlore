@@ -59,7 +59,7 @@ Liliana was absent from *Barely Informed News* for approximately a full year bef
 | [[episodes/2025-03-21|2025-03-21]] | desk partner. |
 
 <details>
-<summary>Earlier appearances (32)</summary>
+<summary>Earlier appearances (33)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -73,6 +73,7 @@ Liliana was absent from *Barely Informed News* for approximately a full year bef
 | [[episodes/2025-01-24|2025-01-24]] | desk partner. |
 | [[episodes/2025-01-20|2025-01-20]] | desk partner. |
 | [[episodes/2024-11-06|2024-11-06]] | desk partner. |
+| [[episodes/2024-11-06-WxVZ5zuziq8|2024-11-06]] | desk partner. |
 | [[episodes/2024-10-23|2024-10-23]] | desk partner. |
 | [[episodes/2024-10-08|2024-10-08]] | desk partner. |
 | [[episodes/2024-09-20|2024-09-20]] | Jambalaya panelist. |

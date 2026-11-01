@@ -56,7 +56,7 @@ Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch 
 | [[episodes/2026-05-21|2026-05-21]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (177)</summary>
+<summary>Earlier appearances (190)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -132,12 +132,14 @@ Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch 
 | [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
 | [[episodes/2025-06-20|2025-06-20]] | debate analyst. |
 | [[episodes/2025-06-19|2025-06-19]] | debate analyst. |
+| [[episodes/2025-06-17-SmtzHJfYna0|2025-06-17]] | Senior Debate Analyst. |
 | [[episodes/2025-06-17|2025-06-17]] | debate analyst. |
 | [[episodes/2025-06-13|2025-06-13]] | Skeleton debate analyst torments Crum over gorilla wager, refuses Saturday shifts, admits HIPAA violation. |
 | [[episodes/2025-06-07|2025-06-07]] | Debate Analyst. |
 | [[episodes/2025-06-05|2025-06-05]] | debate analyst. |
 | [[episodes/2025-06-02|2025-06-02]] | debate analyst. |
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
+| [[episodes/2025-05-30-QRN1ZIHDHG8|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
 | [[episodes/2025-05-21|2025-05-21]] | debate analyst. |
 | [[episodes/2025-05-17|2025-05-17]] | debate analyst. |
@@ -165,24 +167,31 @@ Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch 
 | [[episodes/2025-01-24|2025-01-24]] | debate analyst. |
 | [[episodes/2025-01-14|2025-01-14]] | debate analyst. |
 | [[episodes/2024-11-26|2024-11-26]] | debate analyst. |
+| [[episodes/2024-11-06-WxVZ5zuziq8|2024-11-06]] | debate analyst. |
 | [[episodes/2024-11-06|2024-11-06]] | debate analyst. |
 | [[episodes/2024-10-31|2024-10-31]] | Seizes mayoral power under martial law, builds an army of 'banging redheaded archers,' and loses a landslide election to Crum 69-0. |
 | [[episodes/2024-10-30|2024-10-30]] | debate analyst. |
 | [[episodes/2024-10-22|2024-10-22]] | debate analyst. |
+| [[episodes/2024-10-22-4xAoUbdxBjE|2024-10-22]] | debate analyst. |
 | [[episodes/2024-10-13|2024-10-13]] | debate analyst. |
+| [[episodes/2024-10-13-DRCre_ofu50|2024-10-13]] | debate analyst. |
 | [[episodes/2024-10-10|2024-10-10]] | debate analyst. |
 | [[episodes/2024-10-03|2024-10-03]] | debate analyst. |
 | [[episodes/2024-09-25|2024-09-25]] | debate analyst. |
+| [[episodes/2024-09-25-tt3qCDlQkDs|2024-09-25]] | debate analyst. |
 | [[episodes/2024-09-20|2024-09-20]] | debate analyst. |
 | [[episodes/2024-09-19|2024-09-19]] | debate analyst. |
 | [[episodes/2024-09-18|2024-09-18]] | debate analyst. |
 | [[episodes/2024-09-12|2024-09-12]] | debate analyst. |
+| [[episodes/2024-09-11-WUNFqfbcaPY|2024-09-11]] | debate analyst. |
 | [[episodes/2024-09-11|2024-09-11]] | debate analyst. |
 | [[episodes/2024-09-06|2024-09-06]] | debate analyst. |
 | [[episodes/2024-08-22|2024-08-22]] | debate analyst. |
+| [[episodes/2024-08-22-oDSuSzbumUs|2024-08-22]] | debate analyst. |
 | [[episodes/2024-08-20|2024-08-20]] | debate analyst. |
 | [[episodes/2024-08-14|2024-08-14]] | debate analyst. |
 | [[episodes/2024-08-13|2024-08-13]] | debate analyst. |
+| [[episodes/2024-08-07-w0-O6PkI7ZA|2024-08-07]] | debate analyst. |
 | [[episodes/2024-08-07|2024-08-07]] | debate analyst. |
 | [[episodes/2024-08-01|2024-08-01]] | debate analyst. |
 | [[episodes/2024-07-31|2024-07-31]] | debate analyst. |
@@ -216,7 +225,9 @@ Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch 
 | [[episodes/2024-02-29|2024-02-29]] | debate analyst. |
 | [[episodes/2024-02-27|2024-02-27]] | debate analyst. |
 | [[episodes/2024-02-20|2024-02-20]] | debate analyst. |
+| [[episodes/2024-02-15-OAq9wosVy00|2024-02-15]] | debate analyst. |
 | [[episodes/2024-02-15|2024-02-15]] | debate analyst. |
+| [[episodes/2024-02-09--1KwRplR-y4|2024-02-09]] | debate analyst. |
 | [[episodes/2024-02-09|2024-02-09]] | Debate analyst; claims immortal wizard origin from ancient Assyria, loses 'up vs. down' debate to Come, delivers profane post-loss meltdown. |
 | [[episodes/2024-02-07|2024-02-07]] | debate analyst. |
 | [[episodes/2024-02-02|2024-02-02]] | debate analyst. |
@@ -224,6 +235,7 @@ Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch 
 | [[episodes/2024-01-17|2024-01-17]] | debate analyst. |
 | [[episodes/2024-01-13|2024-01-13]] | debate analyst. |
 | [[episodes/2024-01-12|2024-01-12]] | debate analyst. |
+| [[episodes/2024-01-05-yHz1R0hOixg|2024-01-05]] | debate analyst. |
 | [[episodes/2024-01-05|2024-01-05]] | debate analyst. |
 | [[episodes/2023-12-31|2023-12-31]] | debate analyst. |
 | [[episodes/2023-12-30|2023-12-30]] | debate analyst. |
@@ -231,6 +243,7 @@ Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch 
 | [[episodes/2023-12-18|2023-12-18]] | debate analyst. |
 | [[episodes/2023-12-16|2023-12-16]] | debate analyst. |
 | [[episodes/2023-12-14|2023-12-14]] | debate analyst. |
+| [[episodes/2023-12-12-SUbhyRiToyQ|2023-12-12]] | debate analyst. |
 | [[episodes/2023-12-12|2023-12-12]] | debate analyst. |
 | [[episodes/2023-12-08|2023-12-08]] | debate analyst. |
 | [[episodes/2023-12-02|2023-12-02]] | debate analyst. |
@@ -252,14 +265,14 @@ Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch 
 - **[1:21:58]** ([[episodes/2026-09-02|2026-09-02]]): Moderates the audience poll after the planned studio-guest-vs-[[kendelle|Kendelle]] prompt is hijacked by the Crum-penis-punch thread.
 - **[50:30]** ([[episodes/2026-09-01|2026-09-01]]): Munch actively solicits chat protection for his penis before the gorilla punch, pleading for prayers and asking chat to 'hold it in your heart and in your spiritual hands.'
 - **[1:30:07]** ([[episodes/2026-08-26|2026-08-26]]): Invokes the legal doctrine of the "reverse pardon," claiming that Crum's procedural delays legally mandate a second blow from the robotic gorilla.
-- **[1:51:47]** ([[episodes/2025-09-29|2025-09-29]]): Alter ego 'El Manchester' resides in hell per concubine testimony.
 - **[53:14]** ([[episodes/2025-09-26|2025-09-26]]): Confirms Crum died and went to hell; Munch spent days cleaning Crum's remains and retrieved him from a hellish transit authority where Crum was assistant manager.
 - **[1:24:32]** ([[episodes/2025-09-18|2025-09-18]]): Munch claims he defeated the devil in debate multiple times, winning soul shards and a hell key housed in his soul.
 - **[1:21:24]** ([[episodes/2025-09-15|2025-09-15]]): Munch confirms mechanical gorilla gone, Crum Dick Punch mission accomplished.
-- **[1:22:43]** ([[episodes/2025-09-15|2025-09-15]]): Munch mentions Coach McGurk coaching him in hell.
 - **[1:23:17]** ([[episodes/2025-09-11|2025-09-11]]): Munch claims hell has Miller Light sponsorship ($20K) and Slurpees with 30% glass dust.
 - **[1:29:26]** ([[episodes/2025-09-05|2025-09-05]]): Confirms Thursday 9/11 2pm special stream to enter the wall and rescue Crum from hell.
 - **[2:18:46]** ([[episodes/2025-09-03|2025-09-03]]): Claims 'immortal God, essentially' status referencing skeleton transformation.
 - **[1:46:29]** ([[episodes/2025-09-02|2025-09-02]]): Says he paid Crum's $150,000 debt to the Rock-afire gorilla out of kindness, then Crum lost again triggering the punch.
 - **[1:58:15]** ([[episodes/2025-07-10|2025-07-10]]): Munch explicitly refused to contact the devil to resurrect Crum after Crum Dick Punch execution
 - **[49:58]** ([[episodes/2025-06-20|2025-06-20]]): Munch claims he gathered all the pieces to sew Crum back together after the gorilla explosion; cleanup took two days.
+- **[1:11:15]** ([[episodes/2025-06-17-SmtzHJfYna0|2025-06-17]]): Munch freezes completely motionless after Crum's death, described as 'glitched reality' and 'hibernating because his central purpose has been fulfilled'.
+- **[1:08:19]** ([[episodes/2024-01-05|2024-01-05]]): Contractual sub goal (30 subs) forces Munch to be 'nice' for debate segment; Pepito drafted contract.

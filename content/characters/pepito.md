@@ -61,7 +61,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-06-22|2026-06-22]] | Executive producer opening the broadcast from the producer cam, thanking subscribers and rambling about various topics. |
 
 <details>
-<summary>Earlier appearances (112)</summary>
+<summary>Earlier appearances (117)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -98,6 +98,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2025-07-18|2025-07-18]] | executive producer. |
 | [[episodes/2025-06-24|2025-06-24]] | executive producer. |
 | [[episodes/2025-06-17|2025-06-17]] | Executive Producer. |
+| [[episodes/2025-06-17-SmtzHJfYna0|2025-06-17]] | Executive Producer. |
 | [[episodes/2025-06-07|2025-06-07]] | Executive Producer. |
 | [[episodes/2025-06-02|2025-06-02]] | executive producer. |
 | [[episodes/2025-05-30|2025-05-30]] | executive producer. |
@@ -127,8 +128,10 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2024-09-06|2024-09-06]] | executive producer. |
 | [[episodes/2024-08-27|2024-08-27]] | executive producer. |
 | [[episodes/2024-08-22|2024-08-22]] | executive producer. |
+| [[episodes/2024-08-22-oDSuSzbumUs|2024-08-22]] | executive producer. |
 | [[episodes/2024-08-14|2024-08-14]] | executive producer. |
 | [[episodes/2024-08-08|2024-08-08]] | executive producer. |
+| [[episodes/2024-08-07-w0-O6PkI7ZA|2024-08-07]] | executive producer. |
 | [[episodes/2024-08-07|2024-08-07]] | executive producer. |
 | [[episodes/2024-07-31|2024-07-31]] | executive producer. |
 | [[episodes/2024-07-22|2024-07-22]] | Executes station sign-on, performs ventriloquist Biden impression for town hall segment. |
@@ -159,7 +162,9 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2024-02-20|2024-02-20]] | executive producer. |
 | [[episodes/2024-02-16|2024-02-16]] | executive producer. |
 | [[episodes/2024-02-15|2024-02-15]] | executive producer. |
+| [[episodes/2024-02-15-OAq9wosVy00|2024-02-15]] | executive producer. |
 | [[episodes/2024-02-09|2024-02-09]] | executive producer. |
+| [[episodes/2024-02-09--1KwRplR-y4|2024-02-09]] | executive producer. |
 | [[episodes/2024-02-02|2024-02-02]] | executive producer. |
 | [[episodes/2024-02-01|2024-02-01]] | executive producer. |
 | [[episodes/2024-01-27|2024-01-27]] | executive producer. |
@@ -167,12 +172,14 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2024-01-17|2024-01-17]] | executive producer. |
 | [[episodes/2024-01-13|2024-01-13]] | executive producer. |
 | [[episodes/2024-01-12|2024-01-12]] | executive producer. |
+| [[episodes/2024-01-05-yHz1R0hOixg|2024-01-05]] | executive producer. |
 | [[episodes/2024-01-05|2024-01-05]] | executive producer. |
 | [[episodes/2023-12-31|2023-12-31]] | executive producer. |
 | [[episodes/2023-12-30|2023-12-30]] | executive producer. |
 | [[episodes/2023-12-18|2023-12-18]] | executive producer. |
 | [[episodes/2023-12-16|2023-12-16]] | executive producer. |
 | [[episodes/2023-12-14|2023-12-14]] | executive producer. |
+| [[episodes/2023-12-12-SUbhyRiToyQ|2023-12-12]] | executive producer. |
 | [[episodes/2023-12-12|2023-12-12]] | executive producer. |
 | [[episodes/2023-12-08|2023-12-08]] | executive producer. |
 

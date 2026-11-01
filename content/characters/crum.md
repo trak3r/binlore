@@ -58,7 +58,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (hollow-eyed, bald). Argues for political decorum, reveals Dubai 'classified' social life, honey-bag therapy, claims penile conditioning for gorilla dick-punch. |
 
 <details>
-<summary>Earlier appearances (189)</summary>
+<summary>Earlier appearances (201)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -141,6 +141,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-06-24|2025-06-24]] | debate analyst. |
 | [[episodes/2025-06-20|2025-06-20]] | debate analyst. |
 | [[episodes/2025-06-19|2025-06-19]] | debate analyst. |
+| [[episodes/2025-06-17-SmtzHJfYna0|2025-06-17]] | Senior Debate Analyst. |
 | [[episodes/2025-06-17|2025-06-17]] | debate analyst. |
 | [[episodes/2025-06-13|2025-06-13]] | Debate analyst one loss from gorilla execution, reveals $300k debt repayment at $15k per win, pleads for chat mercy. |
 | [[episodes/2025-06-11|2025-06-11]] | debate analyst. |
@@ -148,6 +149,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-06-05|2025-06-05]] | debate analyst. |
 | [[episodes/2025-06-02|2025-06-02]] | debate analyst. |
 | [[episodes/2025-05-30|2025-05-30]] | debate analyst. |
+| [[episodes/2025-05-30-QRN1ZIHDHG8|2025-05-30]] | debate analyst. |
 | [[episodes/2025-05-27|2025-05-27]] | debate analyst. |
 | [[episodes/2025-05-21|2025-05-21]] | news reader. |
 | [[episodes/2025-05-17|2025-05-17]] | debate analyst. |
@@ -178,24 +180,32 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2025-01-14|2025-01-14]] | debate analyst. |
 | [[episodes/2025-01-06|2025-01-06]] | debate analyst. |
 | [[episodes/2024-11-26|2024-11-26]] | debate analyst. |
+| [[episodes/2024-11-06-WxVZ5zuziq8|2024-11-06]] | debate analyst. |
 | [[episodes/2024-11-06|2024-11-06]] | debate analyst. |
 | [[episodes/2024-10-31|2024-10-31]] | Wins emergency mayoral election in a 69-0 landslide, constructs defensive walls, and claims 50% life regeneration while defending Rennerton. |
+| [[episodes/2024-10-30-iCCqpvNIlFY|2024-10-30]] | debate analyst. |
 | [[episodes/2024-10-30|2024-10-30]] | debate analyst. |
+| [[episodes/2024-10-22-4xAoUbdxBjE|2024-10-22]] | debate analyst. |
 | [[episodes/2024-10-22|2024-10-22]] | debate analyst. |
 | [[episodes/2024-10-13|2024-10-13]] | debate analyst. |
+| [[episodes/2024-10-13-DRCre_ofu50|2024-10-13]] | debate analyst. |
 | [[episodes/2024-10-10|2024-10-10]] | debate analyst. |
 | [[episodes/2024-10-03|2024-10-03]] | debate analyst. |
 | [[episodes/2024-09-25|2024-09-25]] | debate analyst. |
+| [[episodes/2024-09-25-tt3qCDlQkDs|2024-09-25]] | debate analyst. |
 | [[episodes/2024-09-20|2024-09-20]] | debate analyst. |
 | [[episodes/2024-09-19|2024-09-19]] | debate analyst. |
 | [[episodes/2024-09-18|2024-09-18]] | debate analyst. |
 | [[episodes/2024-09-13|2024-09-13]] | debate analyst. |
 | [[episodes/2024-09-12|2024-09-12]] | debate analyst. |
+| [[episodes/2024-09-11-WUNFqfbcaPY|2024-09-11]] | debate analyst. |
 | [[episodes/2024-09-11|2024-09-11]] | debate analyst. |
 | [[episodes/2024-09-06|2024-09-06]] | debate analyst. |
 | [[episodes/2024-08-22|2024-08-22]] | debate analyst. |
+| [[episodes/2024-08-22-oDSuSzbumUs|2024-08-22]] | debate analyst. |
 | [[episodes/2024-08-20|2024-08-20]] | debate analyst. |
 | [[episodes/2024-08-13|2024-08-13]] | debate analyst. |
+| [[episodes/2024-08-07-w0-O6PkI7ZA|2024-08-07]] | debate analyst. |
 | [[episodes/2024-08-07|2024-08-07]] | debate analyst. |
 | [[episodes/2024-07-30|2024-07-30]] | debate analyst. |
 | [[episodes/2024-07-25|2024-07-25]] | debate analyst. |
@@ -231,12 +241,14 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2024-02-16|2024-02-16]] | debate analyst. |
 | [[episodes/2024-02-15|2024-02-15]] | debate analyst. |
 | [[episodes/2024-02-09|2024-02-09]] | debate analyst. |
+| [[episodes/2024-02-09--1KwRplR-y4|2024-02-09]] | debate analyst. |
 | [[episodes/2024-02-07|2024-02-07]] | debate analyst. |
 | [[episodes/2024-02-02|2024-02-02]] | debate analyst. |
 | [[episodes/2024-02-01|2024-02-01]] | debate analyst. |
 | [[episodes/2024-01-17|2024-01-17]] | debate analyst. |
 | [[episodes/2024-01-13|2024-01-13]] | debate analyst. |
 | [[episodes/2024-01-12|2024-01-12]] | debate analyst. |
+| [[episodes/2024-01-05-yHz1R0hOixg|2024-01-05]] | debate analyst. |
 | [[episodes/2024-01-05|2024-01-05]] | debate analyst. |
 | [[episodes/2023-12-31|2023-12-31]] | debate analyst. |
 | [[episodes/2023-12-30|2023-12-30]] | debate analyst. |
@@ -244,6 +256,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2023-12-18|2023-12-18]] | debate analyst. |
 | [[episodes/2023-12-16|2023-12-16]] | debate analyst. |
 | [[episodes/2023-12-14|2023-12-14]] | debate analyst. |
+| [[episodes/2023-12-12-SUbhyRiToyQ|2023-12-12]] | debate analyst. |
 | [[episodes/2023-12-12|2023-12-12]] | debate analyst. |
 | [[episodes/2023-12-08|2023-12-08]] | debate analyst. |
 | [[episodes/2023-12-02|2023-12-02]] | debate analyst. |
@@ -276,3 +289,8 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[9:08]** ([[episodes/2026-06-19|2026-06-19]]): Crum's D*ck Punch wager against Munch was the defining political storyline of the recent period, reaching its explosive conclusion on September 7, 2026.
 - **[1:18:34]** ([[episodes/2026-06-18|2026-06-18]]): Suffers 36-year urinary tract infection causing highly acidic urine; openly states hatred of Irish people as 'legal' and 'allowed' character trait; wife currently seeing therapist.
 - **[1:18:36]** ([[episodes/2026-06-15|2026-06-15]]): Crum is referenced in the context of the unresolved Dick Punch wager and body positivity debate.
+- **[57:50]** ([[episodes/2025-06-17|2025-06-17]]): Crum's gorilla groin-punch execution is scheduled for the June 18 broadcast (Case off Wednesday).
+- **[1:02:20]** ([[episodes/2025-06-17-SmtzHJfYna0|2025-06-17]]): Crum's wife is named Belilia; she is active on Instagram and responds to DMs.
+- **[1:00:10]** ([[episodes/2025-06-17|2025-06-17]]): Crum requires two debate wins ('two more W's') to void the $200k wager forfeit.
+- ([[episodes/2025-05-30-QRN1ZIHDHG8|2025-05-30]]): Crum's gorilla debt: $100k remaining, $15k per win, 7 wins needed, face punch forfeit if not cleared in 8 debates [40:30-41:37]
+- **[2:12:58]** ([[episodes/2024-10-13-DRCre_ofu50|2024-10-13]]): Crum confirms marriage to Belulia and claims Krav Maga/Tai Chi training

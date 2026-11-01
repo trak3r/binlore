@@ -104,7 +104,8 @@ def _find_episode_file(vod_id: str, date: str | None = None) -> Path:
             continue
 
     if date:
-        return CONTENT_EPISODES / f"{date}.md"
+        bare = CONTENT_EPISODES / f"{date}.md"
+        return CONTENT_EPISODES / f"{date}-{vod_id}.md" if bare.exists() else bare
     return CONTENT_EPISODES / f"vod-{vod_id}.md"
 
 

@@ -126,13 +126,27 @@ def strip_redundant_trailing_timestamps(fact: str, canonical_ts: str) -> str:
     return out.strip()
 
 
+def episode_link(ep_slug: str, *, prefix: str = "episodes/") -> str:
+    """Wikilink to an episode page; ep_slug is `YYYY-MM-DD` or `YYYY-MM-DD-<vod id>` when a date has several VODs."""
+    return f"[[{prefix}{ep_slug}|{ep_slug[:10]}]]"
+
+
+def episode_slug_for_vod(vod_id: str, date: str) -> str:
+    """Page stem of the episode page carrying this vod_id, falling back to the bare date."""
+    for p in CONTENT_EPISODES.glob(f"{date}*.md"):
+        head = p.read_text(encoding="utf-8")[:2000]
+        if f'vod_id: "{vod_id}"' in head or f"vod_id: {vod_id}\n" in head:
+            return p.stem
+    return date
+
+
 def format_character_moment_bullet(ts: str, ep_slug: str, fact: str) -> str:
     """Canonical character Notable moments bullet (never a timestamp wikilink)."""
     canon_ts = normalize_timestamp(ts) or first_embedded_timestamp(fact)
     clean = strip_redundant_trailing_timestamps(fact.strip(), canon_ts)
     if canon_ts:
-        return f"- **[{canon_ts}]** ([[episodes/{ep_slug}|{ep_slug}]]): {clean}"
-    return f"- ([[episodes/{ep_slug}|{ep_slug}]]): {clean}"
+        return f"- **[{canon_ts}]** ({episode_link(ep_slug)}): {clean}"
+    return f"- ({episode_link(ep_slug)}): {clean}"
 
 
 # Notable moments must be durable canon — not a per-episode trivia ledger.
@@ -482,21 +496,30 @@ def _sort_table_rows(section_text: str, *, newest_first: bool = False) -> str:
     return "\n".join(preamble + header + data_rows + trailing)
 
 
+_EP_SLUG_RE = re.compile(r"episodes/(\d{4}-\d{2}-\d{2}(?:-[A-Za-z0-9_-]+)?)")
+
+
+def _episode_slug_from_row(row: str) -> str:
+    """Full episode page slug (date, or date-vodid when a date has several VODs)."""
+    match = _EP_SLUG_RE.search(row)
+    return match.group(1) if match else ""
+
+
 def _collect_appearance_rows(section_text: str) -> list[str]:
     """All Appearances data rows (recent table + Earlier appearances archive)."""
     rows: list[str] = []
-    seen_dates: set[str] = set()
+    seen: set[str] = set()
     for line in section_text.splitlines():
         stripped = line.strip()
         if not (stripped.startswith("|") and stripped.endswith("|")):
             continue
         if _is_markdown_table_sep(stripped) or _is_appearances_header_row(stripped):
             continue
-        date = _episode_date_from_row(stripped)
-        if date in seen_dates:
+        slug = _episode_slug_from_row(stripped)
+        if slug in seen:
             continue
-        if date != "0000-00-00":
-            seen_dates.add(date)
+        if slug:
+            seen.add(slug)
         rows.append(stripped)
     return rows
 
@@ -514,8 +537,7 @@ def _format_capped_appearances(
     for row in ordered:
         if not _appearance_row_usable(row):
             continue
-        date = _episode_date_from_row(row)
-        key = date if date != "0000-00-00" else row
+        key = _episode_slug_from_row(row) or row
         if key in seen:
             continue
         seen.add(key)
@@ -545,7 +567,8 @@ def _format_capped_appearances(
 
 def _upsert_appearance_row(section_text: str, ep_slug: str, new_row: str) -> str:
     """Insert/replace one episode row, then cap to recent + details archive."""
-    rows = [r for r in _collect_appearance_rows(section_text) if ep_slug not in r]
+    link_re = re.compile(rf"episodes/{re.escape(ep_slug)}\\?\|")
+    rows = [r for r in _collect_appearance_rows(section_text) if not link_re.search(r)]
     rows.append(new_row)
     return _format_capped_appearances(rows)
 
@@ -555,6 +578,7 @@ def _is_iso_date(value: str) -> bool:
 
 
 def _backdate_first_seen(frontmatter: str, ep_slug: str) -> tuple[str, bool]:
+    ep_slug = ep_slug[:10]
     if not _is_iso_date(ep_slug):
         return frontmatter, False
     match = re.search(r"^first_seen:\s*(.*)$", frontmatter, re.MULTILINE)
@@ -823,8 +847,7 @@ def update_character_file(
                 body = f"{body.rstrip()}\n\n## Appearances\n"
             before_app, app_text, after_app = _extract_section(body, "## Appearances")
 
-        ep_link = f"[[episodes/{ep_slug}|{ep_slug}]]"
-        new_row = f"| {ep_link} | {safe_notes} |"
+        new_row = f"| {episode_link(ep_slug)} | {safe_notes} |"
         updated_app = _upsert_appearance_row(app_text, ep_slug, new_row)
         if updated_app != app_text.strip():
             body = _splice_section(before_app, updated_app, after_app)
@@ -931,14 +954,14 @@ def create_character_page(
         if overview_notes == "Nothing notable on file yet."
         else overview_notes
     )
-    appearances_row = f"| [[episodes/{ep_slug}|{ep_slug}]] | {appearance_notes} |"
+    appearances_row = f"| {episode_link(ep_slug)} | {appearance_notes} |"
     notable_bullets: list[str] = []
     for ts, fact in select_notable_lore_facts(lore_facts, slug):
         notable_bullets.append(format_character_moment_bullet(ts, ep_slug, fact))
     notable_bullets = select_notable_moment_bullets(notable_bullets, slug)
 
     if not notable_bullets:
-        notable_bullets.append(f"- First seen in [[episodes/{ep_slug}|Episode {ep_slug}]].")
+        notable_bullets.append(f"- First seen in [[episodes/{ep_slug}|Episode {ep_slug[:10]}]].")
 
     # Mandatory character picture embed per wiki conventions
     img_tag = f"![{name} on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/{slug}.jpg)\n\n"
@@ -974,7 +997,7 @@ def create_character_page(
 title: {name}
 type: character
 aliases: []
-first_seen: {ep_slug}
+first_seen: {ep_slug[:10]}
 status: {status_tag}
 tags:
 {tags_yaml}
@@ -1086,7 +1109,8 @@ def _appearance_notes_usable(notes: str) -> bool:
     # Truncated on an abbreviation / open quote (classic "Dr. " split bug)
     if re.search(r"\b(Dr|Mr|Mrs|Ms)\.\s*$", text):
         return False
-    if text.count("'") % 2 == 1 or text.count('"') % 2 == 1:
+    unquoted = re.sub(r"(?<=\w)'(?=\w)", "", text)
+    if unquoted.count("'") % 2 == 1 or text.count('"') % 2 == 1:
         return False
     if text.endswith((" as", " as a", " as an", " with", " and", " for", " of", " to")):
         return False
@@ -1153,10 +1177,12 @@ def update_storyline_file(
         beat_snip = beat[:40]
         canon_ts = normalize_timestamp(ts) or first_embedded_timestamp(beat)
         ts_part = f" [{canon_ts}]" if canon_ts else ""
-        date_col = f"[[../episodes/{ep_slug}|{ep_slug}]]{ts_part}"
+        date_col = f"{episode_link(ep_slug, prefix='../episodes/')}{ts_part}"
         safe_beat = beat.replace("|", "/")
         new_row = f"| {date_col} | {safe_beat} |"
-        dedupe = f"{ep_slug}]]{ts_part}" if ts else beat_snip
+        dedupe = f"episodes/{ep_slug}|{ep_slug[:10]}]]{ts_part}" if ts else beat_snip
+        if ts and f"episodes/{ep_slug}\\|{ep_slug[:10]}]]{ts_part}" in updated_beats:
+            continue
         res = _append_table_row(
             updated_beats,
             new_row,
@@ -1196,10 +1222,12 @@ def update_segment_file(
     updated_occ = occ_text
     modified = False
     for start, title, notes in occurrences:
-        dedupe_key = f"{ep_slug}"
+        if f"episodes/{ep_slug}\\|" in updated_occ:
+            continue
+        dedupe_key = f"episodes/{ep_slug}|"
         safe_desc = f"{title}: {notes}".replace("|", "/") if notes else title.replace("|", "/")
         start_canon = normalize_timestamp(start) or start
-        new_row = f"| [[episodes/{ep_slug}|{ep_slug}]] | {start_canon} | {safe_desc} |"
+        new_row = f"| {episode_link(ep_slug)} | {start_canon} | {safe_desc} |"
         res = _append_table_row(
             updated_occ,
             new_row,
@@ -1248,7 +1276,7 @@ def update_wiki_from_extraction(
     from .extract import validate_extraction
 
     extraction = validate_extraction(extraction)
-    ep_slug = meta.get("date") or f"vod-{vod_id}"
+    ep_slug = episode_slug_for_vod(vod_id, meta["date"]) if meta.get("date") else f"vod-{vod_id}"
 
     canon = load_wiki_canon()
     report = UpdateReport(vod_id=vod_id, episode_slug=ep_slug)

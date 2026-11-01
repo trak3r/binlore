@@ -81,9 +81,9 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 - **[34:53]** ([[episodes/2026-09-01|2026-09-01]]): Celebrates the premiere of his first dedicated internal feature desk, "Weekend Odds and Ends."
 - **[32:52]** ([[episodes/2026-08-13|2026-08-13]]): Explains his unannounced Monday broadcast absence was caused by an emergency cat vet visit that ran until 5:30 PM.
 - **[44:26]** ([[episodes/2026-08-06|2026-08-06]]): Blackwell taunts Ripple by addressing him as "Ben Hooper" when calling on him for a viral human-interest report.
-- **[21:59]** ([[episodes/2026-08-04|2026-08-04]]): Anchors the primary desk and performs a slam-poetry cadence delivery of breaking weird news.
 - **[16:13]** ([[episodes/2026-07-13|2026-07-13]]): Bitterly proclaims himself the "number one Ben Hooper fan" as chat relentlessly hypes Hooper's corny reporting.
 - **[1:42:35]** ([[episodes/2026-06-29|2026-06-29]]): Debuts his "Jam EFE" persona, demanding Case respect his official catchphrase and announcing *Steam Shirt No Pants*.
+- **[1:07:02]** ([[episodes/2024-08-22|2024-08-22]]): Discovered DNC podium doubles as urinal; urinated on floor during live cross while crowd applauded to Beyoncé music.
 
 
 ## Notable moments

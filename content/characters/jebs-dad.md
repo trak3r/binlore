@@ -59,7 +59,7 @@ He displays a profound, open disdain for Jeb's woodworking skills and emotional 
 | [[episodes/2025-03-17|2025-03-17]] | co-host (spirit in board). |
 
 <details>
-<summary>Earlier appearances (18)</summary>
+<summary>Earlier appearances (19)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -69,6 +69,7 @@ He displays a profound, open disdain for Jeb's woodworking skills and emotional 
 | [[episodes/2025-02-12|2025-02-12]] | co-host (deceased). |
 | [[episodes/2025-02-06|2025-02-06]] | deceased co-host. |
 | [[episodes/2025-01-27|2025-01-27]] | Co-host (Spirit in Wood). |
+| [[episodes/2024-09-25|2024-09-25]] | Deceased father's spirit in a wooden board bickers with Jeb, reveals stomping fetish, and claims to be flattened in the wood. |
 | [[episodes/2024-09-20|2024-09-20]] | deceased father (wood spirit). |
 | [[episodes/2024-09-19|2024-09-19]] | co-host (spirit). |
 | [[episodes/2024-09-18|2024-09-18]] | deceased co-host. |

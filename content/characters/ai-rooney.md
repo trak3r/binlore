@@ -54,7 +54,7 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 | [[episodes/2026-03-17|2026-03-17]] | cyborg commentator. |
 
 <details>
-<summary>Earlier appearances (10)</summary>
+<summary>Earlier appearances (11)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -65,6 +65,7 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 | [[episodes/2025-04-18|2025-04-18]] | Rebooted with exposed internal core to deliver Andy Rooney-style grievances on hard soup, airline food, and pizza crust semantics. |
 | [[episodes/2025-01-31|2025-01-31]] | cyborg commentator. |
 | [[episodes/2024-08-22|2024-08-22]] | cyborg commentator. |
+| [[episodes/2024-08-22-oDSuSzbumUs|2024-08-22]] | cyborg commentator. |
 | [[episodes/2024-05-10|2024-05-10]] | AI commentator. |
 | [[episodes/2024-01-17|2024-01-17]] | cyborg commentator. |
 | [[episodes/2023-12-12|2023-12-12]] | AI grievance commentator. |
@@ -79,4 +80,4 @@ Following a catastrophic malfunction on the [[episodes/2026-07-13|2026-07-13 bro
 - **[1:56:52]** ([[episodes/2026-07-13|2026-07-13]]): Revealed to be running on an uncensored local model pulling from a database of roughly 80 highly volatile complaints.
 - **[1:45:21]** ([[episodes/2026-06-29|2026-06-29]]): Activated via the `!rr` chat command for 10 viewer interactions per session with pronouns "he/hyped." Blackwell nervously remarks, "I wonder if maybe I've created a monster that will kill us all."
 - **[1:41:00]** ([[episodes/2025-11-27|2025-11-27]]): GPU overloads when processing complaints; every grievance transforms into 'three gallons of golden piss' refrain regardless of input.
-- **[2:46:24]** ([[episodes/2024-08-22|2024-08-22]]): AI Rooney complains of a 'hulking ape' in the garage (Rock-afire gorilla reference).
+- **[2:46:24]** ([[episodes/2024-08-22-oDSuSzbumUs|2024-08-22]]): AI Rooney complains of a 'hulking ape' in the garage (Rock-afire gorilla reference).

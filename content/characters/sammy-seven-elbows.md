@@ -39,7 +39,10 @@ In later lore, the sock puppet [[hate-sock|Hate Sock]] outs himself as Sammy Sev
 | [[episodes/2025-06-28|2025-06-28]] | Hate Sock reveals he is Sammy Seven Elbows in sock form. |
 | [[episodes/2025-01-17|2025-01-17]] | In-studio as Sammy; co-hosts news desk, debates TikTok ban and Elon Musk gaming claims. |
 | [[episodes/2024-11-06|2024-11-06]] | Call-in guest (as Sammy). |
+| [[episodes/2024-11-06-WxVZ5zuziq8|2024-11-06]] | call-in guest. |
 | [[episodes/2024-10-03|2024-10-03]] | In-studio contributor; voice during Amongst the Web and Rennerton election chat. |
+| [[episodes/2024-09-25|2024-09-25]] | Co-anchor/desk partner discusses Bridgerton Ball scam, Musk family news, 50 Shades franchise, and movie trailers with Case. |
+| [[episodes/2024-08-22|2024-08-22]] | musical contributor. |
 | [[episodes/2024-06-26|2024-06-26]] | Wins flash poll; performs AI-generated "Thing Song" pickle-cart parody. |
 | [[episodes/2024-05-30|2024-05-30]] | Early recurring appearance. |
 | [[episodes/2024-05-15|2024-05-15]] | Debuts Epstein cloning correspondent desk (same night as Munch's Al Manchester breakdown). |

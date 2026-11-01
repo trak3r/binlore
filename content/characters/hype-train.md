@@ -56,7 +56,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-07-20|2026-07-20]] | High-velocity cultural correspondent. Battle raps against Lincoln over bodily fluids and is forced to read subs after losing the rap battle. |
 
 <details>
-<summary>Earlier appearances (114)</summary>
+<summary>Earlier appearances (117)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -118,6 +118,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2025-06-28|2025-06-28]] | musical/cultural correspondent. |
 | [[episodes/2025-06-26|2025-06-26]] | hype correspondent. |
 | [[episodes/2025-06-17|2025-06-17]] | Musical/Cultural Interruption. |
+| [[episodes/2025-06-17-SmtzHJfYna0|2025-06-17]] | Musical/Cultural Interruption. |
 | [[episodes/2025-06-11|2025-06-11]] | Commandeered the birthday broadcast with freestyle raps, hell lore, and a level-13 surge while insisting every hype train is his birthday. |
 | [[episodes/2025-06-05|2025-06-05]] | musical correspondent. |
 | [[episodes/2025-06-02|2025-06-02]] | hype correspondent. |
@@ -143,15 +144,18 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2025-01-08|2025-01-08]] | Hype/Sub Acknowledgment Entity. |
 | [[episodes/2025-01-06|2025-01-06]] | hype announcer. |
 | [[episodes/2024-10-23|2024-10-23]] | hype announcer. |
-| [[episodes/2024-10-13|2024-10-13]] | cultural correspondent. |
+| [[episodes/2024-10-13-DRCre_ofu50|2024-10-13]] | cultural correspondent. |
 | [[episodes/2024-10-10|2024-10-10]] | musical interruption. |
+| [[episodes/2024-09-25|2024-09-25]] | Musical interruption acknowledges subs/bits but claims to feel shy and intimidated by Kendelle's presence. |
 | [[episodes/2024-09-20|2024-09-20]] | musical interruption. |
 | [[episodes/2024-09-19|2024-09-19]] | Performed extended freestyle rap over trap beats during Level 3 hype train, acknowledged 16-month and 20-month subscribers, approached… |
 | [[episodes/2024-09-18|2024-09-18]] | musical interruption. |
 | [[episodes/2024-09-11|2024-09-11]] | hype correspondent. |
+| [[episodes/2024-09-11-WUNFqfbcaPY|2024-09-11]] | hype correspondent. |
 | [[episodes/2024-08-27|2024-08-27]] | hype train host. |
 | [[episodes/2024-08-14|2024-08-14]] | recurring guest. |
 | [[episodes/2024-08-13|2024-08-13]] | hype train host. |
+| [[episodes/2024-08-07-w0-O6PkI7ZA|2024-08-07]] | hype correspondent. |
 | [[episodes/2024-08-07|2024-08-07]] | musical correspondent. |
 | [[episodes/2024-07-31|2024-07-31]] | musical interruption. |
 | [[episodes/2024-07-30|2024-07-30]] | musical interruption. |
@@ -168,6 +172,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2024-03-27|2024-03-27]] | musical interruption. |
 | [[episodes/2024-02-20|2024-02-20]] | hype correspondent. |
 | [[episodes/2024-02-15|2024-02-15]] | hype announcer. |
+| [[episodes/2024-02-15-OAq9wosVy00|2024-02-15]] | hype announcer. |
 | [[episodes/2024-01-05|2024-01-05]] | musical correspondent. |
 | [[episodes/2023-12-31|2023-12-31]] | hype announcer. |
 | [[episodes/2023-12-18|2023-12-18]] | musical correspondent. |

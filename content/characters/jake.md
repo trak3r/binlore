@@ -24,7 +24,7 @@ Nothing notable on file yet.
 | Episode | Notes |
 |---|---|
 | [[episodes/2026-01-21|2026-01-21]] | studio guest. |
-| [[episodes/2025-05-30|2025-05-30]] | Broadcast appearance. |
+| [[episodes/2025-05-30|2025-05-30]] | call-in guest. |
 
 ## Notable moments
 

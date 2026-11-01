@@ -59,13 +59,13 @@ His signature broadcast mission is "singing the news"—specifically fast-tracki
 | [[episodes/2025-02-28|2025-02-28]] | musical correspondent. |
 | [[episodes/2025-01-29|2025-01-29]] | musical correspondent. |
 | [[episodes/2025-01-06|2025-01-06]] | musical finale host. |
-| [[episodes/2024-11-06|2024-11-06]] | musical finale host. |
+| [[episodes/2024-11-06-WxVZ5zuziq8|2024-11-06]] | musical finale host. |
 | [[episodes/2024-09-20|2024-09-20]] | musical news correspondent. |
 | [[episodes/2024-08-13|2024-08-13]] | musical finale host. |
 | [[episodes/2024-08-07|2024-08-07]] | musical finale host. |
 
 <details>
-<summary>Earlier appearances (11)</summary>
+<summary>Earlier appearances (12)</summary>
 
 | Episode | Notes |
 |---|---|
@@ -75,11 +75,12 @@ His signature broadcast mission is "singing the news"—specifically fast-tracki
 | [[episodes/2024-03-26|2024-03-26]] | musical producer. |
 | [[episodes/2024-02-27|2024-02-27]] | musical finale host. |
 | [[episodes/2024-02-09|2024-02-09]] | musical host. |
-| [[episodes/2024-01-19|2024-01-19]] | musical correspondent. |
+| [[episodes/2024-02-09--1KwRplR-y4|2024-02-09]] | musical host. |
+| [[episodes/2024-01-19-1pZwg_g2jT4|2024-01-19]] | musical correspondent. |
 | [[episodes/2024-01-05|2024-01-05]] | musical finale host. |
 | [[episodes/2023-12-31|2023-12-31]] | musical finale host. |
 | [[episodes/2023-12-21|2023-12-21]] | musical finale host. |
-| [[episodes/2023-12-12|2023-12-12]] | musical correspondent. |
+| [[episodes/2023-12-12-SUbhyRiToyQ|2023-12-12]] | musical correspondent. |
 
 </details>
 

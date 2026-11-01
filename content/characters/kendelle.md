@@ -54,13 +54,13 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-05-01|2026-05-01]] | in-studio contributor. |
 | [[episodes/2026-04-27|2026-04-27]] | In-Studio Contributor. |
 | [[episodes/2026-04-24|2026-04-24]] | in-studio contributor. |
+| [[episodes/2026-04-15|2026-04-15]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (203)</summary>
+<summary>Earlier appearances (184)</summary>
 
 | Episode | Notes |
 |---|---|
-| [[episodes/2026-04-15|2026-04-15]] | in-studio contributor. |
 | [[episodes/2026-04-14|2026-04-14]] | in-studio contributor. |
 | [[episodes/2026-04-11|2026-04-11]] | in-studio contributor. |
 | [[episodes/2026-04-09|2026-04-09]] | in-studio contributor. |
@@ -124,6 +124,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-06-28|2025-06-28]] | in-studio contributor. |
 | [[episodes/2025-06-26|2025-06-26]] | in-studio contributor. |
 | [[episodes/2025-06-24|2025-06-24]] | in-studio contributor. |
+| [[episodes/2025-06-17-SmtzHJfYna0|2025-06-17]] | In-Studio Contributor. |
 | [[episodes/2025-06-17|2025-06-17]] | in-studio contributor. |
 | [[episodes/2025-06-07|2025-06-07]] | In-Studio Contributor. |
 | [[episodes/2025-06-05|2025-06-05]] | in-studio contributor. |
@@ -163,25 +164,30 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2025-01-08|2025-01-08]] | In-Studio Contributor / Marketing Professional. |
 | [[episodes/2025-01-06|2025-01-06]] | in-studio contributor. |
 | [[episodes/2024-12-23|2024-12-23]] | in-studio contributor. |
+| [[episodes/2024-11-06-WxVZ5zuziq8|2024-11-06]] | in-studio contributor. |
 | [[episodes/2024-11-06|2024-11-06]] | in-studio contributor. |
+| [[episodes/2024-10-30-iCCqpvNIlFY|2024-10-30]] | in-studio contributor. |
 | [[episodes/2024-10-30|2024-10-30]] | in-studio contributor. |
 | [[episodes/2024-10-23|2024-10-23]] | in-studio contributor. |
 | [[episodes/2024-10-22|2024-10-22]] | in-studio contributor. |
 | [[episodes/2024-10-15|2024-10-15]] | in-studio contributor. |
-| [[episodes/2024-10-13|2024-10-13]] | in-studio contributor. |
+| [[episodes/2024-10-13-DRCre_ofu50|2024-10-13]] | in-studio contributor. |
 | [[episodes/2024-10-10|2024-10-10]] | in-studio contributor. |
 | [[episodes/2024-10-02|2024-10-02]] | in-studio contributor. |
 | [[episodes/2024-10-01|2024-10-01]] | in-studio contributor. |
+| [[episodes/2024-09-25-tt3qCDlQkDs|2024-09-25]] | in-studio contributor. |
 | [[episodes/2024-09-25|2024-09-25]] | In-studio contributor walks through studio packing for trip, provides live 50 Shades commentary, and receives sweet tea from Jeb. |
 | [[episodes/2024-09-20|2024-09-20]] | in-studio contributor. |
 | [[episodes/2024-09-19|2024-09-19]] | in-studio contributor. |
 | [[episodes/2024-09-13|2024-09-13]] | in-studio contributor. |
 | [[episodes/2024-09-12|2024-09-12]] | in-studio contributor. |
+| [[episodes/2024-09-11-WUNFqfbcaPY|2024-09-11]] | in-studio contributor. |
 | [[episodes/2024-09-11|2024-09-11]] | in-studio contributor. |
 | [[episodes/2024-08-27|2024-08-27]] | in-studio contributor. |
-| [[episodes/2024-08-22|2024-08-22]] | in-studio contributor. |
+| [[episodes/2024-08-22-oDSuSzbumUs|2024-08-22]] | in-studio contributor. |
 | [[episodes/2024-08-20|2024-08-20]] | in-studio contributor. |
 | [[episodes/2024-08-13|2024-08-13]] | in-studio contributor. |
+| [[episodes/2024-08-07-w0-O6PkI7ZA|2024-08-07]] | in-studio contributor. |
 | [[episodes/2024-08-07|2024-08-07]] | in-studio contributor. |
 | [[episodes/2024-08-01|2024-08-01]] | in-studio contributor. |
 | [[episodes/2024-07-30|2024-07-30]] | in-studio contributor. |
@@ -217,6 +223,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2024-02-23|2024-02-23]] | in-studio contributor. |
 | [[episodes/2024-02-20|2024-02-20]] | in-studio contributor. |
 | [[episodes/2024-02-16|2024-02-16]] | in-studio contributor. |
+| [[episodes/2024-02-15-OAq9wosVy00|2024-02-15]] | in-studio contributor. |
 | [[episodes/2024-02-15|2024-02-15]] | in-studio contributor. |
 | [[episodes/2024-02-07|2024-02-07]] | in-studio contributor. |
 | [[episodes/2024-02-02|2024-02-02]] | in-studio contributor. |
@@ -226,11 +233,13 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2024-01-17|2024-01-17]] | in-studio contributor. |
 | [[episodes/2024-01-12|2024-01-12]] | in-studio contributor. |
 | [[episodes/2024-01-09|2024-01-09]] | in-studio contributor. |
+| [[episodes/2024-01-05-yHz1R0hOixg|2024-01-05]] | in-studio contributor. |
 | [[episodes/2024-01-05|2024-01-05]] | in-studio contributor. |
 | [[episodes/2023-12-31|2023-12-31]] | in-studio contributor. |
 | [[episodes/2023-12-21|2023-12-21]] | in-studio contributor. |
 | [[episodes/2023-12-16|2023-12-16]] | in-studio contributor. |
 | [[episodes/2023-12-14|2023-12-14]] | in-studio contributor. |
+| [[episodes/2023-12-12-SUbhyRiToyQ|2023-12-12]] | in-studio contributor. |
 | [[episodes/2023-12-12|2023-12-12]] | in-studio contributor. |
 | [[episodes/2023-12-02|2023-12-02]] | in-studio contributor. |
 | [[episodes/2023-11-30|2023-11-30]] | in-studio contributor. |

@@ -51,25 +51,27 @@ His probation officer [[chris|Chris]] is contractually required to supervise the
 | [[episodes/2025-01-31|2025-01-31]] | movie correspondent. |
 | [[episodes/2025-01-15|2025-01-15]] | field correspondent. |
 | [[episodes/2024-10-02|2024-10-02]] | field correspondent. |
+| [[episodes/2024-09-25|2024-09-25]] | Case's character voice for movie trailer reviews, claims to be separate entity with different vibes and demands $800 fee for Ben movie… |
 | [[episodes/2024-08-27|2024-08-27]] | movie correspondent. |
 | [[episodes/2024-08-22|2024-08-22]] | movie trailer host. |
 | [[episodes/2024-08-13|2024-08-13]] | field correspondent. |
 | [[episodes/2024-08-07|2024-08-07]] | film correspondent. |
-| [[episodes/2024-07-09|2024-07-09]] | field correspondent. |
 
 <details>
-<summary>Earlier appearances (9)</summary>
+<summary>Earlier appearances (11)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-08-07-w0-O6PkI7ZA|2024-08-07]] | film correspondent. |
+| [[episodes/2024-07-09|2024-07-09]] | field correspondent. |
 | [[episodes/2024-03-21|2024-03-21]] | movies correspondent. |
 | [[episodes/2024-03-01|2024-03-01]] | field correspondent. |
 | [[episodes/2024-02-27|2024-02-27]] | field correspondent. |
 | [[episodes/2024-01-17|2024-01-17]] | field correspondent. |
 | [[episodes/2024-01-13|2024-01-13]] | movie correspondent. |
-| [[episodes/2024-01-05|2024-01-05]] | movie correspondent. |
+| [[episodes/2024-01-05-yHz1R0hOixg|2024-01-05]] | movie correspondent. |
 | [[episodes/2023-12-21|2023-12-21]] | field correspondent. |
-| [[episodes/2023-12-12|2023-12-12]] | movie correspondent. |
+| [[episodes/2023-12-12-SUbhyRiToyQ|2023-12-12]] | movie correspondent. |
 | [[episodes/2023-11-22|2023-11-22]] | First identified hosting Trent at the Movies with Chris. |
 
 </details>
@@ -85,7 +87,7 @@ His probation officer [[chris|Chris]] is contractually required to supervise the
 - **[2:00:01]** ([[episodes/2024-08-13|2024-08-13]]): Reintroduced as "your boy Trent" for a trailer block.
 - **[1:04:50]** ([[episodes/2024-05-01|2024-05-01]]): Mother dropped him off 20 minutes before broadcast; Chris claims Trent's father owns a steak shop and the parents do not get along.
 - **[1:40:07]** ([[episodes/2024-02-27|2024-02-27]]): Hosts Trent at the Movies; advocates for actor safety on green-screen volumes.
-- **[1:30:23]** ([[episodes/2023-12-12|2023-12-12]]): Hosts Trailer Thursday under parole supervision.
+- **[1:30:23]** ([[episodes/2023-12-12-SUbhyRiToyQ|2023-12-12]]): Hosts Trailer Thursday segment under parole supervision; presents himself as cultural taste-maker.
 
 
 ## Open Questions

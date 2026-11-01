@@ -64,11 +64,12 @@ Unlike conventional broadcast audio engineers, DJ C4 constructs songs collaborat
 | [[episodes/2025-06-07|2025-06-07]] | Musical Producer. |
 
 <details>
-<summary>Earlier appearances (3)</summary>
+<summary>Earlier appearances (4)</summary>
 
 | Episode | Notes |
 |---|---|
 | [[episodes/2025-05-30|2025-05-30]] | musical producer. |
+| [[episodes/2025-05-30-QRN1ZIHDHG8|2025-05-30]] | musical producer. |
 | [[episodes/2025-05-23|2025-05-23]] | music producer. |
 | [[episodes/2025-01-29|2025-01-29]] | musical producer. |
 
