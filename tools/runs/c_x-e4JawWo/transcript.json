@@ -1,0 +1,25 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "model_requested": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 249.893167,
+  "chunk_seconds": null,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 15.37,
+      "text": "I'm Papito, I'm the dog that produces the show and now it is live."
+    },
+    {
+      "id": 1,
+      "start": 15.37,
+      "end": 249.83,
+      "text": "No idea if that would make any difference or why I'm..."
+    }
+  ],
+  "text": "I'm Papito, I'm the dog that produces the show and now it is live.\nNo idea if that would make any difference or why I'm...",
+  "text_timestamped": "[00:00 --> 00:15] I'm Papito, I'm the dog that produces the show and now it is live.\n[00:15 --> 04:09] No idea if that would make any difference or why I'm..."
+}
