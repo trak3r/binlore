@@ -175,6 +175,7 @@ The user has declined "Allow JavaScript from Apple Events", so Studio is driven 
 
   Assign `frontApp` first; testing `name of first process whose frontmost is true` inline raises error -1700. Run these with full permissions. If auto-review blocks one, retry the same call with smart-mode approval.
 - Paste text by putting it on the clipboard first (`printf '%s' "..." | pbcopy`), then Cmd+V.
+- Before pasting, confirm with a screenshot that the target field has focus. Activating Chrome can leave focus in the address bar, and computer-use clicks on text fields don't take it back. To pull focus into the page, click a blank part of the page, then Tab or Shift+Tab to the field. Don't use `computer_type` in Studio fields: it sets the text without firing input events, so the page ignores it.
 
 ### Field tricks
 
