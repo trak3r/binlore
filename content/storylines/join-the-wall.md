@@ -92,6 +92,7 @@ On [[../episodes/2025-09-25|Post Wall and Rapture Clarity]], resurrected Crum si
 | [[../episodes/2026-04-11|2026-04-11]] | Crum reveals a blood-covered hard drive from his 'fugue state' that whispers at night and has been plugged into studio computers, generating new files including a 'hell poster' of Crum [1:51:49, 1:53:52]. |
 | [[../episodes/2026-09-29|2026-09-29]] [1:28:29] | Munch references hell transit and Crum working as assistant manager in hell during debate [1:28:29]. |
 | [[../episodes/2026-10-10|2026-10-10]] [58:58] | [58:58] Munch admits he died and returned from hell; confirms dead community meetings; skeleton form is permanent. |
+| [[../episodes/2026-11-03|2026-11-03]] [1:49:13] | [01:49:13] Jeb's Dad reveals 'Crumb got freaky in hell when he fucked the hype train' — hell transit liaison referenced. |
 
 ## Related Pages
 

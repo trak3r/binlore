@@ -183,6 +183,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2026-10-19|2026-10-19]] [1:10:34] | Munch remains in permanent skeletal form (since Sept 7 pneumatic gorilla malfunction); references Halloween as 'his time of year' [70:34]. |
 | [[../episodes/2026-10-23|2026-10-23]] | [2026-10-23] Referenced in debate: Munch mocks Crum's hell stint and 'Hell's Wasteland' skate park naming rights; Crum's gambling liabilities remain lore backdrop. |
 | [[../episodes/2026-10-29|2026-10-29]] [1:11:33] | [1:11:33] Crum claims he has already been executed by gorilla punch and died but returned; execution 'doesn't work' on him; secondary poll for another punch to 'supple rear' gains traction. |
+| [[../episodes/2026-11-03|2026-11-03]] [2:01:45] | [02:01:45] Jeb's Dad asks 'Is today Election Day or is it Crumb Punch Day?' confirming groin-punch forfeit still pending in lore. |
 
 ## Related Pages
 

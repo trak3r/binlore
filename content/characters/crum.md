@@ -36,6 +36,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-03|2026-11-03]] | debate analyst. |
 | [[episodes/2026-10-29|2026-10-29]] | debate analyst. |
 | [[episodes/2026-10-26|2026-10-26]] | debate analyst. |
 | [[episodes/2026-10-23|2026-10-23]] | debate analyst. |
@@ -55,13 +56,13 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-06-27|2026-06-27]] | Senior debate analyst. Interjects from the satellite room to rap with the Hype Train and debate Reggae vs Emo. |
 | [[episodes/2026-06-18|2026-06-18]] | Senior debate analyst. Hollow-eyed, bald. Demands total abolition of improvisation. Suffers 36-year UTI causing acidic urine. Openly hates Irish people. Wife seeing therapist (referenced). Gambling debts canonical but not mentioned this episode. |
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity and Dick Punch wager. |
-| [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (hollow-eyed, bald). Argues for political decorum, reveals Dubai 'classified' social life, honey-bag therapy, claims penile conditioning for gorilla dick-punch. |
 
 <details>
-<summary>Earlier appearances (201)</summary>
+<summary>Earlier appearances (202)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (hollow-eyed, bald). Argues for political decorum, reveals Dubai 'classified' social life, honey-bag therapy, claims penile conditioning for gorilla dick-punch. |
 | [[episodes/2026-05-22|2026-05-22]] | debate analyst. |
 | [[episodes/2026-05-21|2026-05-21]] | debate analyst. |
 | [[episodes/2026-05-18|2026-05-18]] | debate analyst. |
@@ -269,6 +270,8 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 ## Notable moments
 
 
+- **[1:49:13]** ([[episodes/2026-11-03|2026-11-03]]): Referenced by Jeb's Dad as having hell liaison with Hype Train: 'Crumb got freaky in hell when he fucked the hype train.'
+- **[2:01:45]** ([[episodes/2026-11-03|2026-11-03]]): Crum Dick Punch forfeit still unresolved per Jeb's Dad: 'Is today Election Day or is it Crumb Punch Day?'
 - **[1:11:33]** ([[episodes/2026-10-29|2026-10-29]]): Crum claims the gorilla punch execution already occurred and he died but returned; execution 'doesn't work' on him anymore.
 - **[1:50:38]** ([[episodes/2026-09-07|2026-09-07]]): Faces the Rock-afire mechanical gorilla execution and emerges completely unscathed after an explosive misfire destroys the ape and converts Munch into a talking skeleton.
 - **[1:39:45]** ([[episodes/2026-09-07|2026-09-07]]): Trained his groin against blunt force trauma by swinging 45-pound weighted logs into his crotch; accused by Munch of wearing metal underwear during the gorilla stunt.
@@ -283,7 +286,6 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[1:30:07]** ([[episodes/2026-08-26|2026-08-26]]): Pleads to delay the robotic execution by petitioning for iron protective undergarments; rescheduled for Friday the 13th.
 - **[1:05:31]** ([[episodes/2026-08-14|2026-08-14]]): Crum is documented as still facing the robot gorilla groin execution, with Munch invoking it as ongoing punishment ('when your penis gets punched off').
 - **[2:07:52]** ([[episodes/2026-07-17|2026-07-17]]): Crum is married to a woman named Belolia. During the Stephanie merch-drop rap he recorded a pre-emptive on-air disclaimer insisting he does not know any woman named Stephanie and is not cheating on his wife.
-- **[13:29]** ([[episodes/2026-07-16|2026-07-16]]): The robotic gorilla execution is formally scheduled for mid-August 2026.
 - **[1:49:50]** ([[episodes/2026-07-13|2026-07-13]]): Claimed his full name 'Crum' is an old family joke stemming from his mother going into labor at a Crumbl cookie shop and being delivered onto the bread of a 12-inch party sub.
 - **[1:20:28]** ([[episodes/2026-06-27|2026-06-27]]): Dick punching is not a recognized sport anywhere but Nevada. It was historically an 18th-century circus attraction that was struck from history to prevent teenagers from doing it 'rainbow party style'. Crum is currently seeking a 'Nevada dick punching license' from the Gaming Commission.
 - **[9:08]** ([[episodes/2026-06-19|2026-06-19]]): Crum's D*ck Punch wager against Munch was the defining political storyline of the recent period, reaching its explosive conclusion on September 7, 2026.
@@ -291,6 +293,5 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[1:18:36]** ([[episodes/2026-06-15|2026-06-15]]): Crum is referenced in the context of the unresolved Dick Punch wager and body positivity debate.
 - **[57:50]** ([[episodes/2025-06-17|2025-06-17]]): Crum's gorilla groin-punch execution is scheduled for the June 18 broadcast (Case off Wednesday).
 - **[1:02:20]** ([[episodes/2025-06-17-SmtzHJfYna0|2025-06-17]]): Crum's wife is named Belilia; she is active on Instagram and responds to DMs.
-- **[1:00:10]** ([[episodes/2025-06-17|2025-06-17]]): Crum requires two debate wins ('two more W's') to void the $200k wager forfeit.
 - ([[episodes/2025-05-30-QRN1ZIHDHG8|2025-05-30]]): Crum's gorilla debt: $100k remaining, $15k per win, 7 wins needed, face punch forfeit if not cleared in 8 debates [40:30-41:37]
 - **[2:12:58]** ([[episodes/2024-10-13-DRCre_ofu50|2024-10-13]]): Crum confirms marriage to Belulia and claims Krav Maga/Tai Chi training

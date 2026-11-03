@@ -240,6 +240,7 @@ Substitutes and alters occasionally take a mic — notably [[../characters/scrum
 | [[episodes/2026-10-23|2026-10-23]] | 38:10 | Debate: Should Case Pay More Attention to Chat + Ice Cream vs Frozen Yogurt: Munch (as skeleton mayor) and Crum debate audience engagement and dessert preferences; Kendelle walk-through breaks the bit; Munch claims victory on ice cream after Kendelle votes. |
 | [[episodes/2026-10-26|2026-10-26]] | 51:45 | Halloween Debate: Scaring Kids — Solemn Duty vs Fun: Green leveled-up skeleton Munch argues Halloween is a solemn duty reminding children of death's inevitability; Crum counters it's meant to be fun. Poll chaos ensues; Munch references Rennerton tech tree and Al Manchester trapped inside. |
 | [[episodes/2026-10-29|2026-10-29]] | 1:07:34 | Debate in the Void: Crum Trial and Gorilla Punch Redux: Munch appears as talking skeleton in void; debate on whether Crum should face trial again for stealing points; options devolve into 'no' vs 'nah execution'; secondary poll for another gorilla punch to Crum's 'supple rear'; Crum claims execution immunity and detachable penis. |
+| [[episodes/2026-11-03|2026-11-03]] | 1:35:51 | Debate: Who's the Freakiest?: Munch (now immortal talking skeleton) and Crum debate meaning of 'freak'; Munch claims positive freak supremacy with rave-pants aesthetic; Crum insists Munch is bad-freak skeleton; Pepito awards point to Munch. |
 
 ## Related Coverage
 
