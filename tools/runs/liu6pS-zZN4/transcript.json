@@ -1,0 +1,55 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "model_requested": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 54.822333,
+  "chunk_seconds": null,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.47,
+      "end": 5.47,
+      "text": "Okay"
+    },
+    {
+      "id": 1,
+      "start": 6.07,
+      "end": 8.07,
+      "text": "Nope really bad"
+    },
+    {
+      "id": 2,
+      "start": 24.05,
+      "end": 32.5,
+      "text": "YouTube works I don't know on on my end on my end"
+    },
+    {
+      "id": 3,
+      "start": 32.5,
+      "end": 37.38,
+      "text": "I don't know if anybody can even really hear me, but on my end it does say that I'm I'm barely"
+    },
+    {
+      "id": 4,
+      "start": 38.66,
+      "end": 40.66,
+      "text": "I'm putting out like 1,000"
+    },
+    {
+      "id": 5,
+      "start": 41.06,
+      "end": 48.38,
+      "text": "So that's odd. I don't think I changed any settings. So I don't really know"
+    },
+    {
+      "id": 6,
+      "start": 49.38,
+      "end": 54.54,
+      "text": "I don't know why I would be doing this and I was just messing with DJ"
+    }
+  ],
+  "text": "Okay\nNope really bad\nYouTube works I don't know on on my end on my end\nI don't know if anybody can even really hear me, but on my end it does say that I'm I'm barely\nI'm putting out like 1,000\nSo that's odd. I don't think I changed any settings. So I don't really know\nI don't know why I would be doing this and I was just messing with DJ",
+  "text_timestamped": "[00:03 --> 00:05] Okay\n[00:06 --> 00:08] Nope really bad\n[00:24 --> 00:32] YouTube works I don't know on on my end on my end\n[00:32 --> 00:37] I don't know if anybody can even really hear me, but on my end it does say that I'm I'm barely\n[00:38 --> 00:40] I'm putting out like 1,000\n[00:41 --> 00:48] So that's odd. I don't think I changed any settings. So I don't really know\n[00:49 --> 00:54] I don't know why I would be doing this and I was just messing with DJ"
+}

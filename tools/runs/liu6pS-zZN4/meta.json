@@ -1,0 +1,19 @@
+{
+  "vod_id": "liu6pS-zZN4",
+  "title": "Monday News Truthing",
+  "url": "https://www.youtube.com/watch?v=liu6pS-zZN4",
+  "duration_seconds": 55,
+  "duration": "0:55",
+  "timestamp": 1765843200,
+  "aired_at": "2025-12-16T00:00:00+00:00",
+  "date": "2025-12-16",
+  "ingested_at": "2026-11-03T11:17:54.487237+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "liu6pS-zZN4",
+  "yt_url": "https://www.youtube.com/watch?v=liu6pS-zZN4",
+  "twitch_id": null,
+  "twitch_url": null,
+  "catalog_date": "2025-12-16"
+}
