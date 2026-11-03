@@ -1,7 +1,9 @@
 ---
-title: Liliana
+title: Liliana Breathinschmit
 type: character
-aliases: []
+aliases:
+  - Liliana
+  - Breathinschmit
 first_seen: 2023-11-30
 status: recurring
 tags:
@@ -10,11 +12,11 @@ tags:
   - newsroom
 ---
 
-# Liliana
+# Liliana Breathinschmit
 
-![Liliana on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/liliana.jpg)
+![Liliana Breathinschmit on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/liliana.jpg)
 
-**Liliana** is a recurring in-studio contributor and news desk co-anchor on *Barely Informed News*.
+**Liliana Breathinschmit** (known on air simply as **Liliana**) is a recurring in-studio contributor and news desk co-anchor on *Barely Informed News*. Her on-screen tagline: *"World Affairs & Kinks."*
 
 ## Overview
 
