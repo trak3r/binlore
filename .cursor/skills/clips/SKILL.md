@@ -1,6 +1,6 @@
 ---
 name: clips
-description: Find highlight-worthy moments in the latest processed Barely Informed News episode and turn the chosen one into a ready-to-post vertical short (TikTok, Instagram Reels, YouTube Shorts). Use when the user types /clips, or asks for clips, highlights, reels, or shorts from an episode.
+description: Find highlight-worthy moments in the latest processed Barely Informed News episode and turn the chosen one into a ready-to-post vertical short (TikTok, Instagram Reels, YouTube Shorts), and publish it unlisted to the BIN Lore YouTube channel when asked. Use when the user types /clips, or asks for clips, highlights, reels, or shorts from an episode.
 ---
 
 # Clips (Highlights / Reels / Shorts)
@@ -10,7 +10,7 @@ Two phases with a user decision in between:
 1. **Propose**: read the latest episode, pitch exactly 3 candidate highlights with clickable VOD timestamp links, then STOP and wait for the user to pick one.
 2. **Produce**: preview the 9:16 crop, render the chosen clip with `./binlore clips make`, polish `post.md`, and report the output folder.
 
-Distribution is manual by default: the user uploads the files. Only post when the user explicitly asks you to (for example by driving Chrome, signed in as the fan channel binlorewiki@gmail.com), and then **always upload as Unlisted, never Public**. The user makes clips public themselves.
+Distribution is manual by default: the user uploads the files. Only post when the user explicitly asks you to (see Phase 3), and then **always upload as Unlisted, never Public**. The user makes clips public themselves.
 
 These are fan clips of someone else's show. Keep the fan-clip branding and the "Not affiliated with the show" line in post copy.
 
@@ -123,3 +123,63 @@ Then:
 5. Report the output folder path, the clip length, and the thumbnail (embed it as an image) to the user.
 
 `tools/clips/` is gitignored except `tools/clips/assets/`. Never commit rendered clips.
+
+## Phase 3: Publish to YouTube (only when asked)
+
+The channel is the fan channel **BIN Lore** (binlorewiki@gmail.com), signed in to the user's Chrome. Every Short on it must match this standard, so a new upload looks like the existing ones (Munch `pLlQfMtdxJs`, Durf `YN2Iy3XGsSM`, cheese `4UPba5Z_K_g`):
+
+| Field | Value |
+| --- | --- |
+| Visibility | **Unlisted** (the user flips it to Public) |
+| Title | YouTube Shorts title from `post.md` (ends in `#Shorts`, 100 characters max) |
+| Description | YouTube description block from `post.md` |
+| Thumbnail | `tools/clips/<date>-<slug>/thumbnail.jpg` |
+| Audience | No, it's not made for kids |
+| Paid promotion | Unchecked |
+| Altered or synthetic content | No |
+| Tags | Tags block from `post.md`: the base set (Barely Informed News, Case Blackwell, BIN Lore, comedy, funny, parody, improv) plus character, segment and topic tags |
+| Video language | English (United States) |
+| Title and description language | English (United States) |
+| Caption certification | This content has never aired on television in the U.S. |
+| Recording date | The episode date (shown in `post.md`) |
+| License, category, comments, remixing | Leave the defaults (Standard YouTube License, Comedy, comments on, remixing allowed) |
+
+Leave the external-links "one-time verification" notice alone; it can stay even after the channel is phone-verified.
+
+### Steps
+
+1. Open `https://studio.youtube.com` and click Create > Upload videos, then select `clip.mp4` (the file dialog trick below works here too).
+2. On the Details page, set title, description and thumbnail ("Upload file"), answer the audience question, then click **Show more** and set paid promotion, AI disclosure, tags, both languages, caption certification and recording date.
+3. Click through Video elements and Checks, choose **Unlisted**, and Save.
+4. Edit an existing video at `https://studio.youtube.com/video/<id>/edit`. Click **Save** (top right) after each group of changes and confirm the "Changes saved" toast before moving on. An accidental page reload discards anything unsaved.
+5. Report the video id and Studio link, and remind the user it is Unlisted.
+
+### Driving Chrome
+
+The user has declined "Allow JavaScript from Apple Events", so Studio is driven with clicks and keystrokes, not page JavaScript.
+
+- Navigate with AppleScript (wait about 8 to 10 seconds for Studio to load):
+  `osascript -e 'tell application "Google Chrome" to set URL of active tab of front window to "https://studio.youtube.com/video/<id>/edit"'`
+- Click with the computer-use tools against the Chrome app target. Take a fresh screenshot before every click: coordinate tokens go stale quickly, and screenshots can lag a second or two behind the page.
+- Keystrokes must go through System Events, and **every keystroke script must activate Chrome and verify it is frontmost in the same script**. Otherwise keys can land in Cursor (this once pasted a file path into the chat and sent it):
+
+  ```applescript
+  tell application "Google Chrome" to activate
+  delay 0.5
+  tell application "System Events"
+    set frontApp to name of first process whose frontmost is true
+    if frontApp is not "Google Chrome" then error "Chrome not frontmost: " & frontApp
+    keystroke "v" using {command down}
+  end tell
+  ```
+
+  Assign `frontApp` first; testing `name of first process whose frontmost is true` inline raises error -1700. Run these with full permissions. If auto-review blocks one, retry the same call with smart-mode approval.
+- Paste text by putting it on the clipboard first (`printf '%s' "..." | pbcopy`), then Cmd+V.
+
+### Field tricks
+
+- **File dialogs (video and thumbnail):** click the upload button, press Cmd+Shift+G, Cmd+A, paste the absolute path, Return, wait about 1.5 seconds, Return.
+- **Tags:** clicking the tags input does not focus it. Instead, click the "Allow automatic concepts" checkbox twice (off, then back on) so focus sits on it, then press Tab twice (past the "Learn more" link) into the tags input. Confirm with a screenshot, then paste the comma-separated tags with a trailing comma; each becomes a chip.
+- **Language dropdowns:** typing a name does not jump the list. Open the dropdown and click "English (United States)". If the list opens at the top instead of near "English", scroll it with `computer_scroll` (at most 20 per call; about 46 steps reach English).
+- **Caption certification:** open the dropdown and click the second option, "This content has never aired on television in the U.S."
+- **Recording date:** open the picker and click the day in the calendar. Never type into the date field: typing a date and pressing Return reloaded the page and lost unsaved changes.

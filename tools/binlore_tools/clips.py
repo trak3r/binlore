@@ -49,6 +49,7 @@ WATERMARK_OPACITY = 0.7
 END_CARD_SECONDS = 2.5
 
 BASE_HASHTAGS = ["BarelyInformedNews", "CaseBlackwell", "comedy", "improv", "twitchclips"]
+YT_BASE_TAGS = ["Barely Informed News", "Case Blackwell", "BIN Lore", "comedy", "funny", "parody", "improv"]
 
 BOLD_FONTS = [
     ASSETS_DIR / "font.ttf",
@@ -749,6 +750,16 @@ def _hashtags(tags: list[str]) -> list[str]:
     return [f"#{t}" for t in seen.values()]
 
 
+def _yt_tags(tags: list[str]) -> list[str]:
+    seen: dict[str, str] = {}
+    for t in [*YT_BASE_TAGS, *tags]:
+        t = re.sub(r"(?<=[a-z])(?=[A-Z])", " ", t.lstrip("#"))
+        t = re.sub(r"[-_\s]+", " ", t).strip()
+        if t and t.lower() not in seen:
+            seen[t.lower()] = t
+    return list(seen.values())
+
+
 def write_post(
     out_dir: Path,
     *,
@@ -829,6 +840,14 @@ Description:
 ```
 {yt_description}
 ```
+
+Tags (Studio > Show more > Tags):
+
+```
+{", ".join(_yt_tags(tags))},
+```
+
+Recording date: {ep.date or "episode date"}
 
 ## TikTok
 
