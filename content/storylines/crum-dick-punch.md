@@ -181,9 +181,13 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2026-09-29|2026-09-29]] [1:27:57] | Munch references failed murder attempt and Crum's skeleton transformation during Halloween decoration debate [1:27:57]. |
 | [[../episodes/2026-10-10|2026-10-10]] [56:49] | [56:49] Therapy referenced for Crum's post-dick-punch state; Munch remains skeleton; Crum denies needing therapy. |
 | [[../episodes/2026-10-19|2026-10-19]] [1:10:34] | Munch remains in permanent skeletal form (since Sept 7 pneumatic gorilla malfunction); references Halloween as 'his time of year' [70:34]. |
+| [[../episodes/2026-10-19|2026-10-19]] [1:11:01] | Munch objects to Crum's "big assumptions about me based on my skeletal identity": "I'm still corporal, I'm just a skelly." |
 | [[../episodes/2026-10-23|2026-10-23]] | [2026-10-23] Referenced in debate: Munch mocks Crum's hell stint and 'Hell's Wasteland' skate park naming rights; Crum's gambling liabilities remain lore backdrop. |
+| [[../episodes/2026-10-29|2026-10-29]] [1:08:31] | Munch on his permanent skeleton form: "They clap extra hard now because I'm a skeleton." |
 | [[../episodes/2026-10-29|2026-10-29]] [1:11:33] | [1:11:33] Crum claims he has already been executed by gorilla punch and died but returned; execution 'doesn't work' on him; secondary poll for another punch to 'supple rear' gains traction. |
+| [[../episodes/2026-11-03|2026-11-03]] [1:36:12] | Munch confirms permanent skeleton state: "That's the type of thing I can do, because I'm a skelly." |
 | [[../episodes/2026-11-03|2026-11-03]] [2:01:45] | [02:01:45] Jeb's Dad asks 'Is today Election Day or is it Crumb Punch Day?' confirming groin-punch forfeit still pending in lore. |
+| [[../episodes/2026-11-04|2026-11-04]] [54:25] | Crum calls Munch's skeleton form "self-imposed": "even in my hell form" he never meant for Munch to become a talking skeleton from "absorbing a fireball." Munch: "you still tried to make me one." |
 
 ## Related Pages
 

@@ -24,6 +24,8 @@ tags:
 
 **Resolved / concluded.** The live split runs mid-May through early June 2024. Munch is restored to his abrasive self by mid-June; later mentions of Al are callbacks (Crum mourning the soft half, park cameos, hell lore), not a continuing on-air identity.
 
+Munch's skeleton form (since 2026-09-07) is unrelated to Al: it's Munch himself, burned down by Crum's hell-form fireball when the [[crum-dick-punch|Crum Dick Punch]] backfired. See [[../characters/munch#skeleton-munch|Skeleton Munch]].
+
 ## What happened
 
 1. **Scoreboard trigger.** For 200+ debates Munch held the lead. Across early 2024 Crum closed the gap (the "Crumback"). On [[../episodes/2024-05-15|2024-05-15]], Crum's score finally passes Munch's. Munch had been taunting that matching him would still prove nothing — then the upset lands.
@@ -51,13 +53,6 @@ tags:
 | [[../episodes/2025-06-02|2025-06-02]] [1:44:23] | Park-guest Al Munchester; return may hinge on Crum clearing gorilla debt. |
 | [[../episodes/2025-07-10|2025-07-10]] [2:08:08] | Mid-debate, Crum: "I miss my best friend, Al Manchester." |
 | [[../episodes/2025-09-29|2025-09-29]] [1:51:47] | Hell-concubine testimony: El Manchester is Munch's nice alter ego in hell — "a mistake… something that shouldn't exist." |
-| [[../episodes/2026-10-19|2026-10-19]] | Munch confirms skeletal identity is not Al Manchester; rejects comparison to racism bit [70:54-71:16]. |
-| [[../episodes/2026-10-23|2026-10-23]] | [2026-10-23] Munch references Al as 'trapped inside' while asserting skeleton dominance; Al Manchester persona remains dormant. |
-| [[../episodes/2026-10-26|2026-10-26]] [53:51] | [53:51] Munch confirms Al Manchester remains trapped inside after escaping Spirit Halloween; green skeleton form is a level-up from killing a spirit for Rennerton tech tree. |
-| [[../episodes/2026-10-29|2026-10-29]] [1:07:55] | [1:07:55] Munch confirms skeleton form is permanent after Sept 7 incineration; audience claps extra hard for skeleton Munch; 'Al remains trapped inside' per Crum's prior lore. |
-| [[../episodes/2026-11-03|2026-11-03]] [1:36:12] | [01:36:12] Munch confirms permanent skeleton state: 'That's the type of thing I can do, because I'm a skelly' — result of Sept 7 mechanical failure. |
-| [[../episodes/2026-11-04|2026-11-04]] [1:10:25] | [01:10:25] Munch references his skeleton state and potential further death if Texas flips blue, confirming the Al Manchester resolution persists. |
-
 ### Later callbacks (not the live arc)
 
 ## Related Pages

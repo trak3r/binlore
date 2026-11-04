@@ -19,7 +19,7 @@
       "title": "Halloween Debate: Scaring Kids — Solemn Duty vs Fun",
       "start": "51:45",
       "end": "01:08:17",
-      "notes": "Green leveled-up skeleton Munch argues Halloween is a solemn duty reminding children of death's inevitability; Crum counters it's meant to be fun. Poll chaos ensues; Munch references Rennerton tech tree and Al Manchester trapped inside."
+      "notes": "Green leveled-up skeleton Munch argues Halloween is a solemn duty reminding children of death's inevitability; Crum counters it's meant to be fun. Poll chaos ensues; Munch references his Rennerton tech tree."
     },
     {
       "canonical_segment": "CryptoZeu$",
@@ -81,7 +81,7 @@
     {
       "name": "Munch (Ralph Munchcut)",
       "role": "debate analyst",
-      "notes": "debate analyst. Appeared as green leveled-up skeleton, argued Halloween is solemn duty reminding kids of death, referenced Rennerton tech tree and trapped Al Manchester.",
+      "notes": "debate analyst. Appeared as green leveled-up skeleton, argued Halloween is solemn duty reminding kids of death, referenced Rennerton tech tree.",
       "canonical_name": "Munch (Ralph Munchcut)",
       "speaking": true,
       "timestamps": [],
@@ -135,11 +135,6 @@
   ],
   "storylines": [
     {
-      "storyline": "Al Manchester",
-      "beat": "[53:51] Munch confirms Al Manchester remains trapped inside after escaping Spirit Halloween; green skeleton form is a level-up from killing a spirit for Rennerton tech tree.",
-      "timestamp": "53:51"
-    },
-    {
       "storyline": "Rennerton",
       "beat": "[54:11] Munch references Rennerton mayoral campaign and wilds of Rennerton as a real place with tech tree progression.",
       "timestamp": "54:11"
@@ -161,12 +156,6 @@
       "entity": "Munch (Ralph Munchcut)",
       "fact": "Leveled up to green skeleton form after killing a spirit for Rennerton tech tree progression.",
       "timestamp": "[53:30]",
-      "confidence": 0.7
-    },
-    {
-      "entity": "Munch (Ralph Munchcut)",
-      "fact": "Confirms Al Manchester remains trapped inside; escaped Spirit Halloween containment.",
-      "timestamp": "[53:51]",
       "confidence": 0.7
     },
     {

@@ -9,6 +9,8 @@ aliases:
   - Ale Munchester
   - Ale Chrome Chester
   - El Manchester
+  - Skeleton Munch
+  - Skellomunch
 first_seen: 2023-11-22
 tags:
 - character
@@ -28,7 +30,22 @@ Munch serves as the combative, unapologetic political counterweight to [[crum|Cr
 
 On [[../episodes/2024-05-15|2024-05-15]], Crum's first debate-score victory after 200+ losses broke Munch into the soft alter ego [[../storylines/al-manchester|Al Manchester]] (debuted as Ale Chrome Chester / Ale Munchester). The nice-guy shell lasted through early June; by mid-June Munch was restored (hair back, ego intact), with Crum insisting Al remains trapped inside.
 
-Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch goaded the [[../storylines/crum-face-punch|2025 face-punch Crumsplosion]], then [[../storylines/join-the-wall|rescued Crum from hell]] after weeks of volleyball-corpse denial, and finally agitated for the [[../storylines/crum-dick-punch|2026 groin-punch]] sequel. On September 7, 2026, that sequel's mechanical failure incinerated Munch into an immortal talking skeleton.
+Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch goaded the [[../storylines/crum-face-punch|2025 face-punch Crumsplosion]], then [[../storylines/join-the-wall|rescued Crum from hell]] after weeks of volleyball-corpse denial, and finally agitated for the [[../storylines/crum-dick-punch|2026 groin-punch]] sequel. On September 7, 2026, the punch backfired: Crum went "demon mode" in his hell form, and the fireball burned Munch down to an immortal talking skeleton (see [Skeleton Munch](#skeleton-munch)).
+
+## Skeleton Munch
+
+Since [[../episodes/2026-09-07|2026-09-07]], Munch has been a living, talking skeleton. It's a new manifestation of Munch himself, not an alter ego and not [[../storylines/al-manchester|Al Manchester]].
+
+- **Origin.** When the Rock-afire Gorilla finally threw the long-awaited [[../storylines/crum-dick-punch|Crum Dick Punch]], the stage erupted in "a shit load of fire" [1:50:40]. Munch, standing by to gloat, took the blast; Crum walked away unscathed. Munch's verdict: "You went all fucking demon mode" [1:51:55]. "You turn me into a skeleton?" he demands; Crum calls that "a little bit of an exaggeration… there was an accident" [1:56:24].
+- **Crum's defense.** Crum calls it Munch's "incredibly self-imposed condition" and says "even in my hell form my intention was [not] for you to become a talking skeleton," blaming Munch for "absorbing a fireball" ([[../episodes/2026-11-04|2026-11-04]] [54:25–54:51]). Munch: "you still tried to make me one."
+- **Embracing it.** Munch insists he "meant to be a skeleton," that it shows off his superior bone structure, and that "skeletons are so in right now." He calls himself a "skelly," bills himself **Skellomunch** ([[../episodes/2026-10-22|2026-10-22]]), and claims the title **Lord of the Dead** with a summonable penis ([[../episodes/2026-09-25|2026-09-25]]). He bristles at assumptions about his "skeletal identity" ([[../episodes/2026-10-19|2026-10-19]]).
+- **Green level-up.** During the [[../segments/rebuild-rennerton|Rebuild Rennerton]] Valheim stream he turns green after combat ([[../episodes/2026-10-23|2026-10-23]]), later explaining he "leveled up" by killing a spirit to progress his tech tree ([[../episodes/2026-10-26|2026-10-26]]).
+- **Status.** Permanent so far: he debates, mayors Rennerton, and haunts the desk as a skeleton.
+
+## Canon notes
+
+- Since 2026-09-07 Munch is a permanent talking skeleton ("Skeleton Munch", "Skellomunch", "skelly"), burned down by Crum's demon/hell-form fireball when the Crum Dick Punch backfired. Tag skeleton beats to Crum Dick Punch or Munch, never to Al Manchester.
+- Al Manchester is only the bald, soft-spoken alter ego from the 2024-05-15 scoreboard breakdown (concluded June 2024). Skeleton Munch is not Al Manchester.
 
 ## Appearances
 
@@ -43,7 +60,7 @@ Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch 
 | [[episodes/2026-10-19|2026-10-19]] | debate analyst. |
 | [[episodes/2026-10-10|2026-10-10]] | debate analyst. |
 | [[episodes/2026-09-25|2026-09-25]] | debate analyst. |
-| [[episodes/2026-09-07|2026-09-07]] | Oversees the long-delayed Rock-afire Gorilla execution against Crum. Caught in the catastrophic backblast when the machine explodes, incinerating him into a living, talking skeleton. Insists his skeletal form highlights superior bone structure, debates Crum on Crayola vs. RoseArt, and promises to haunt the desk indefinitely. |
+| [[episodes/2026-09-07|2026-09-07]] | Oversees the long-delayed Rock-afire Gorilla execution against Crum. Caught in the fireball when the punch backfires and Crum goes "demon mode," incinerating him into a living, talking skeleton. Insists his skeletal form highlights superior bone structure, debates Crum on Crayola vs. RoseArt, and promises to haunt the desk indefinitely. |
 | [[episodes/2026-08-26|2026-08-26]] | Defends his candidacy as a superior mayor to Mamdani, proclaims himself the debate winner, and argues that Crum must endure a "reverse pardon" resulting in two punches. |
 | [[episodes/2026-08-14|2026-08-14]] | Senior Debate Analyst. Champions keeping Hasan Piker's stream hard-hitting rather than adding character work. Coins the word 'trime' (slime + crime) to describe Crum's debating style. Reacts explosively when Crum steals the points button and outro music cue. |
 | [[episodes/2026-08-08|2026-08-08]] | Senior debate analyst. Picks Andrew Garfield as the best Spider-Man citing his 'gentle eyes' and 'long slender bod'. Torments Crum over his emancipated daughter and the impending gorilla punch. |
@@ -262,7 +279,7 @@ Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch 
 - **[1:07:55]** ([[episodes/2026-10-29|2026-10-29]]): Munch confirms he is now an immortal talking skeleton after the Sept 7, 2026 mechanical gorilla malfunction; audience claps extra hard for skeleton form.
 - **[1:10:34]** ([[episodes/2026-10-19|2026-10-19]]): Confirmed permanent skeletal form since Sept 7 gorilla incident; claims Halloween as skeletal onboarding period.
 - **[1:52:38]** ([[episodes/2026-09-07|2026-09-07]]): Transformed into a talking skeleton after catching the fiery backblast of the Rock-afire Gorilla stunt. Claims to have superior bone structure and to be liberated from mortal race boundaries.
-- **[1:50:38]** ([[episodes/2026-09-07|2026-09-07]]): Incinerated by the explosive backfire of the Rock-afire mechanical gorilla during the climax of the Crum Dick Punch execution, transforming into an animated, talking skeleton.
+- **[1:50:38]** ([[episodes/2026-09-07|2026-09-07]]): Incinerated when the Crum Dick Punch backfires and Crum goes "demon mode" in his hell form, transforming Munch into an animated, talking skeleton.
 - **[1:15:02]** ([[episodes/2026-09-02|2026-09-02]]): Reads community-supplied 'reasons you deserve to get your dick punched' list: you're bald, you're a bitch, it will make Munch envious he's not getting the same treatment (joke from 'Yojimbo'), hand game overhyped.
 - **[1:21:58]** ([[episodes/2026-09-02|2026-09-02]]): Moderates the audience poll after the planned studio-guest-vs-[[kendelle|Kendelle]] prompt is hijacked by the Crum-penis-punch thread.
 - **[50:30]** ([[episodes/2026-09-01|2026-09-01]]): Munch actively solicits chat protection for his penis before the gorilla punch, pleading for prayers and asking chat to 'hold it in your heart and in your spiritual hands.'

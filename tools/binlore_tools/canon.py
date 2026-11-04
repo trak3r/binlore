@@ -66,7 +66,7 @@ def _clean_summary(body: str, max_chars: int = 140) -> str:
     lines: list[str] = []
     for line in body.splitlines():
         line_str = line.strip()
-        if not line_str or line_str.startswith(("#", "|", "-", "*", "!", "<", ">")):
+        if not line_str or line_str.startswith(("#", "|", "!", "<", ">")) or re.match(r"[-*]\s", line_str):
             continue
         lines.append(line_str)
         if len(lines) >= 2:
