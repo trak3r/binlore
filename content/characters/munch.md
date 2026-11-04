@@ -275,8 +275,8 @@ Since [[../episodes/2026-09-07|2026-09-07]], Munch has been a living, talking sk
 ## Notable moments
 
 
-- **[1:36:12]** ([[episodes/2026-11-03|2026-11-03]]): Confirms permanent talking skeleton form post-Crum Dick Punch mechanical failure: 'I'm a skelly.'
-- **[1:07:55]** ([[episodes/2026-10-29|2026-10-29]]): Munch confirms he is now an immortal talking skeleton after the Sept 7, 2026 mechanical gorilla malfunction; audience claps extra hard for skeleton form.
+- **[1:36:12]** ([[episodes/2026-11-03|2026-11-03]]): Confirms permanent talking skeleton form since Crum's hell-form fireball in the Crum Dick Punch: 'I'm a skelly.'
+- **[1:07:55]** ([[episodes/2026-10-29|2026-10-29]]): Munch confirms he is now an immortal talking skeleton since Crum's hell-form fireball on Sept 7, 2026; audience claps extra hard for skeleton form.
 - **[1:10:34]** ([[episodes/2026-10-19|2026-10-19]]): Confirmed permanent skeletal form since Sept 7 gorilla incident; claims Halloween as skeletal onboarding period.
 - **[1:52:38]** ([[episodes/2026-09-07|2026-09-07]]): Transformed into a talking skeleton after catching the fiery backblast of the Rock-afire Gorilla stunt. Claims to have superior bone structure and to be liberated from mortal race boundaries.
 - **[1:50:38]** ([[episodes/2026-09-07|2026-09-07]]): Incinerated when the Crum Dick Punch backfires and Crum goes "demon mode" in his hell form, transforming Munch into an animated, talking skeleton.

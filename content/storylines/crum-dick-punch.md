@@ -22,7 +22,7 @@ tags:
 
 **Crum Dick Punch** is Part 3 of the Crum Punch trilogy—the groin-punch sequel that followed Crum's earlier death and resurrection. Stemming from a fresh astronomical lost wager against the same mechanical ape, senior debate analyst [[../characters/crum|Leonard Crum]] faced a binding forfeit requiring a full-force blow to the groin delivered by the pneumatic Rock-afire gorilla on live television.
 
-The storyline reached its cataclysmic climax on **September 7, 2026**, when a catastrophic mechanical failure during the execution vaporized the Rock-afire Gorilla into ash and incinerated [[../characters/munch|Ralph Munchcut]] into a living, talking skeleton—leaving Crum completely unscathed.
+The storyline reached its cataclysmic climax on **September 7, 2026**, when the punch backfired: Crum went "demon mode" in his hell form, and the resulting fireball reduced the Rock-afire Gorilla to ash and burned [[../characters/munch|Ralph Munchcut]] down to a living, talking skeleton—leaving Crum completely unscathed.
 
 > **Trilogy context:** Part 1 is the 2025 [[crum-face-punch|Crum Face Punch]] (head explodes). Part 2 is [[join-the-wall|Join the Wall]] (volleyball denial → hell rescue). This page covers only the 2026 groin-punch arc.
 
@@ -43,7 +43,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 
 1. **The Debate ("Any Last Words?"):** Crum refused last words, insisting his front bottom had peaked athleticism. Munch demanded silence.
 2. **The Execution:** Crum stepped up to receive the Rock-afire strike.
-3. **The Explosion & Skeleton Transmutation:** A catastrophic malfunction ignited an inferno. The gorilla reduced to ash. Munch caught the fiery backblast and became a living, talking skeleton. Crum walked away unharmed.
+3. **The Explosion & Skeleton Transmutation:** The punch landed and the stage erupted in "a shit load of fire" [1:50:40]. Crum went "demon mode" in his hell form; the fireball reduced the gorilla to ash, and Munch, standing by to gloat, took the blast and became a living, talking skeleton. Crum walked away unharmed. Munch: "You went all fucking demon mode" [1:51:55]. "You turn me into a skeleton?" Crum: "a little bit of an exaggeration… there was an accident" [1:56:24].
 4. **The Aftermath:** Skeletal Munch insisted the transformation showcased superior bone structure, declared himself liberated from mortal racial boundaries, and debated Crum on Crayola versus RoseArt crayons.
 
 ## Timeline & Broadcast Log
@@ -175,12 +175,12 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2026-09-02|2026-09-02]] [1:13:35] | Munch recites the viewer dossier enumerating reasons Crum deserves the blow. |
 | [[../episodes/2026-09-04|2026-09-04]] [23:32] | Blackwell confirms Monday's special broadcast will settle the debt before his international vacation. |
 | [[../episodes/2026-09-04|2026-09-04]] [1:46:54] | Case announces a "big bad boy stream" on Monday before leaving the country. |
-| [[../episodes/2026-09-07|2026-09-07]] [1:50:38] | **Climax & Conclusion:** The Rock-afire Gorilla fires the punch, triggers a massive explosion, vaporizes to dust; Munch burns into a talking skeleton; Crum survives unscathed. |
+| [[../episodes/2026-09-07|2026-09-07]] [1:50:38] | **Climax & Conclusion:** The Rock-afire Gorilla fires the punch and Crum goes "demon mode" in his hell form; the fireball reduces the gorilla to dust and burns Munch into a talking skeleton; Crum survives unscathed. |
 | [[../episodes/2026-09-23|2026-09-23]] [1:14:10] | [01:14:10] Hype Train references the mechanical gorilla as 'terminator now' and suggests letting it punch Crum again; [01:14:53] claims AI took the gorilla's job. |
 | [[../episodes/2026-09-25|2026-09-25]] | Munch's skeleton state confirmed as permanent; Munch declares himself Lord of the Dead and demonstrates summonable penis [53:55, 57:48, 58:51]. |
 | [[../episodes/2026-09-29|2026-09-29]] [1:27:57] | Munch references failed murder attempt and Crum's skeleton transformation during Halloween decoration debate [1:27:57]. |
 | [[../episodes/2026-10-10|2026-10-10]] [56:49] | [56:49] Therapy referenced for Crum's post-dick-punch state; Munch remains skeleton; Crum denies needing therapy. |
-| [[../episodes/2026-10-19|2026-10-19]] [1:10:34] | Munch remains in permanent skeletal form (since Sept 7 pneumatic gorilla malfunction); references Halloween as 'his time of year' [70:34]. |
+| [[../episodes/2026-10-19|2026-10-19]] [1:10:34] | Munch remains in permanent skeletal form (since Crum's hell-form fireball on Sept 7); references Halloween as 'his time of year' [70:34]. |
 | [[../episodes/2026-10-19|2026-10-19]] [1:11:01] | Munch objects to Crum's "big assumptions about me based on my skeletal identity": "I'm still corporal, I'm just a skelly." |
 | [[../episodes/2026-10-23|2026-10-23]] | [2026-10-23] Referenced in debate: Munch mocks Crum's hell stint and 'Hell's Wasteland' skate park naming rights; Crum's gambling liabilities remain lore backdrop. |
 | [[../episodes/2026-10-29|2026-10-29]] [1:08:31] | Munch on his permanent skeleton form: "They clap extra hard now because I'm a skeleton." |
