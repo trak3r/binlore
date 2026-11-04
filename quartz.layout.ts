@@ -26,8 +26,9 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "Barely Informed News (Twitch)": "https://www.twitch.tv/caseblackwell",
       "YouTube Archive": "https://www.youtube.com/@CaseBlackwellStreams",
-      GitHub: "https://github.com/trak3r/binlore",
-      "☕ Buy Me a Coffee": "https://buymeacoffee.com/teflonted",
+      "BIN Lore Shorts (YouTube)":
+        "https://www.youtube.com/channel/UCuiEeDV0bv5WS4FlpIdD_5Q/shorts",
+      "BIN Lore Clips (TikTok)": "https://www.tiktok.com/@binlore.wiki",
     },
   }),
 }
