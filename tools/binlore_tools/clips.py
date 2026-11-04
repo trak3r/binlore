@@ -1018,19 +1018,17 @@ _CLIPS_BLOCK_RE = re.compile(r"^## Clips\n\n<!-- clips:start.*?<!-- clips:end --
 
 
 def _clip_item(clip: dict[str, Any], *, episode_link: bool) -> str:
-    title = clip["title"]
-    heading = f"**{title}**"
+    item = f"- **{clip['title']}**"
     if episode_link:
-        heading += f" ([[../episodes/{clip['episode']}|{clip['episode']}]])"
-    short = f"https://youtube.com/shorts/{clip['youtube']}"
-    links = [f"[Watch on YouTube]({short})"]
+        item += f" ([[../episodes/{clip['episode']}|{clip['episode']}]])"
+    links = [f"[YouTube](https://youtube.com/shorts/{clip['youtube']})"]
     if clip.get("tiktok") and clip.get("tiktok_public"):
-        links.append(f"[Watch on TikTok](https://www.tiktok.com/@{TIKTOK_ACCOUNT}/video/{clip['tiktok']})")
-    return f"{heading}\n\n![{title}]({short})\n\n{' · '.join(links)}"
+        links.append(f"[TikTok](https://www.tiktok.com/@{TIKTOK_ACCOUNT}/video/{clip['tiktok']})")
+    return f"{item} — {' · '.join(links)}"
 
 
 def _clips_section(clips: list[dict[str, Any]], *, episode_link: bool) -> str:
-    items = "\n\n".join(_clip_item(c, episode_link=episode_link) for c in clips)
+    items = "\n".join(_clip_item(c, episode_link=episode_link) for c in clips)
     return f"## Clips\n\n{CLIPS_START}\n\n{items}\n\n{CLIPS_END}\n\n"
 
 
@@ -1052,7 +1050,7 @@ def _place_clips_section(text: str, section: str | None, *, before: str, after: 
 
 
 def sync_clips(dry_run: bool = False) -> list[Path]:
-    """Write a generated Clips section, with Short embeds and public TikTok links, into
+    """Write a generated Clips section, listing each clip by title with YouTube and public TikTok links, into
     the episode and character pages of every clip in data/clips.json."""
     clips = json.loads(CLIPS_REGISTRY.read_text(encoding="utf-8"))
     by_page: dict[Path, list[dict[str, Any]]] = {}

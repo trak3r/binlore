@@ -35,7 +35,7 @@ Their use on this wiki is conducted strictly under the **Fair Use doctrine of Un
 
 ### Fan Clip Channels
 
-Short highlight clips embedded on episode and character pages are cut by BIN Lore and posted to its fan channels on [YouTube](https://www.youtube.com/channel/UCuiEeDV0bv5WS4FlpIdD_5Q) and [TikTok (`@binlore.wiki`)](https://www.tiktok.com/@binlore.wiki). These channels are unofficial and not monetized, and every clip is labeled as a fan clip.
+Short highlight clips linked from episode and character pages are cut by BIN Lore and posted to its fan channels on [YouTube](https://www.youtube.com/channel/UCuiEeDV0bv5WS4FlpIdD_5Q) and [TikTok (`@binlore.wiki`)](https://www.tiktok.com/@binlore.wiki). These channels are unofficial and not monetized, and every clip is labeled as a fan clip.
 
 ---
 

@@ -996,7 +996,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     sync = sub.add_parser(
         "sync-clips",
-        help="Write the Clips section (Short embeds, public TikTok links) into episode and character pages from data/clips.json",
+        help="Write the Clips section (titles with YouTube and public TikTok links) into episode and character pages from data/clips.json",
     )
     sync.add_argument("--dry-run", action="store_true", help="List pages that would change without writing")
     sync.set_defaults(func=cmd_sync_clips)

@@ -256,9 +256,9 @@ The account is the fan account **@binlore.wiki** (signed in to the user's Chrome
 
 ## Wiki sync (after every publish)
 
-Published clips are listed in `data/clips.json`, which is tracked in git (the clip folders are not). `./binlore sync-clips` turns it into a generated `## Clips` section, with an embedded vertical Short plus YouTube and TikTok links, on the episode page and on every `characters/*` page in the clip's `wiki` list.
+Published clips are listed in `data/clips.json`, which is tracked in git (the clip folders are not). `./binlore sync-clips` turns it into a generated `## Clips` section, a list of clip titles with YouTube and TikTok links, on the episode page and on every `characters/*` page in the clip's `wiki` list.
 
-1. Add the clip to `data/clips.json`, or update its entry if it is already there. Copy `slug`, `episode`, `title` and `wiki` from the clip's `meta.json`, then set `youtube` (the video id), `tiktok` (the post id) and `tiktok_public`. A clip goes in once it has a YouTube id, because the Short embed is the centerpiece of its wiki entry.
+1. Add the clip to `data/clips.json`, or update its entry if it is already there. Copy `slug`, `episode`, `title` and `wiki` from the clip's `meta.json`, then set `youtube` (the video id), `tiktok` (the post id) and `tiktok_public`. A clip goes in once it has a YouTube id, because the YouTube link is always shown.
 2. `tiktok_public` controls the TikTok link, which only appears when it is `true`, so the wiki never links to a private post. Set it to `true` for posts made as Everyone. When the user flips an old Only-you post, set it to `true` and sync again.
 3. Run `./binlore sync-clips`. Then run it again: the second run must report 0 pages updated.
 4. Commit `data/clips.json` and the changed pages on main. Push only when asked.
