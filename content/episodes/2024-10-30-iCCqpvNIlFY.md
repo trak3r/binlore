@@ -51,13 +51,13 @@ Barely Informed News opened with a chaotic Hype Train derailment before Case Bla
 
 ## Characters
 
-- [[characters/case-blackwell|Case Blackwell]] (speaking) — Anchored news desk, endured Crum/Jeff bickering, discussed rat infestation and Ikea wardrobe reversal with Kendall, went nude to hammer trapped rat.
+- [[characters/case-blackwell|Case]] (speaking) — Anchored news desk, endured Crum/Jeff bickering, discussed rat infestation and Ikea wardrobe reversal with Kendall, went nude to hammer trapped rat.
 - [[characters/pepito|Pepito]] (speaking) — executive producer. Delivered cold open sign-on, confirmed tiny size by fitting inside water bottle, dismissed Hype Train's panther relationship claim.
 - [[characters/hype-train|Hype Train]] (speaking) — hype train. Derailed cold open with freestyle raps about panther girlfriend, bodily fluids, and Piss Fruit Ninja; declared 'in piss' narrative.
-- [[characters/jeff-ripple|Jeff Ripple]] (speaking) — correspondent. Co-hosted news desk, fact-checked Tad Lincoln, mocked Trump's laptop vote theory, announced July 4 2026 'let it rip' cookout political platform.
+- [[characters/jeff-ripple|Jeff]] (speaking) — correspondent. Co-hosted news desk, fact-checked Tad Lincoln, mocked Trump's laptop vote theory, announced July 4 2026 'let it rip' cookout political platform.
 - [[characters/crum|Crum]] (speaking) — debate analyst. Interrupted news desk and Trip segment with whipped cream head, apology hot potato routine, fake beard disguise, and hamster costume; fired then un-fired by Case.
-- [[characters/trip-bradstein|Trip Bradstein]] (speaking) — field correspondent. Hosted park opinions from bushes; managed Crumb intrusion, Hamtaro rat family lore, movie director insurance fraud, candy cannibal, assassin query, painting Rob Elvie, body-hiding advice.
-- [[characters/jeb|Jeb Nogget]] (speaking) — instructional host. Broadcast from woodshop with dead dad trapped in wood; taught cravat tying (improvised with rat-rag), skipped enema demo, covered conception steps; dad heckled throughout.
+- [[characters/trip-bradstein|Trip]] (speaking) — field correspondent. Hosted park opinions from bushes; managed Crumb intrusion, Hamtaro rat family lore, movie director insurance fraud, candy cannibal, assassin query, painting Rob Elvie, body-hiding advice.
+- [[characters/jeb|Jeb]] (speaking) — instructional host. Broadcast from woodshop with dead dad trapped in wood; taught cravat tying (improvised with rat-rag), skipped enema demo, covered conception steps; dad heckled throughout.
 - [[characters/kendelle|Kendelle]] (speaking) — in-studio contributor. Walked through studio; discussed rat corpse (7-inch body), Ikea wardrobe build reversal, hot dog string challenge preview.
 - Feral Joker (speaking) — guest. Appeared on DJ Newsic; claimed Batman and Robin attempted manual stimulation but he cannot orgasm; delivered non-rhyming bars.
 

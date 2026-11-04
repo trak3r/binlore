@@ -48,10 +48,10 @@ Barely Informed News carried the ABC News simulcast of the Harris-Trump presiden
 
 ## Characters
 
-- [[characters/case-blackwell|Case Blackwell]] (speaking) — Anchored debate night broadcast, managed simulcast cutaways, and moderated post-debate Munch & Crum argument.
+- [[characters/case-blackwell|Case]] (speaking) — Anchored debate night broadcast, managed simulcast cutaways, and moderated post-debate Munch & Crum argument.
 - [[characters/pepito|Pepito]] (speaking) — executive producer. Delivered station sign-on and managed live switching during debate simulcast.
-- [[characters/munch|Munch (Ralph Munchcut)]] (speaking) — debate analyst. Wore golden tux for debate preview, declared himself independently conservative, and claimed debate victory for Trump.
-- [[characters/crum|Crum (Leonard Crum)]] (speaking) — debate analyst. Wore golden tux, revealed seven-year egg avoidance, and argued Harris won debate while Munch denied reality.
+- [[characters/munch|Munch]] (speaking) — debate analyst. Wore golden tux for debate preview, declared himself independently conservative, and claimed debate victory for Trump.
+- [[characters/crum|Crum]] (speaking) — debate analyst. Wore golden tux, revealed seven-year egg avoidance, and argued Harris won debate while Munch denied reality.
 - [[characters/hype-train|Hype Train]] (speaking) — hype correspondent. Briefly interrupted pre-show with freestyle before being sent to corner by Case.
 - [[characters/kendelle|Kendelle]] (speaking) — in-studio contributor. Delivered Kendall's Corner segment covering Bachelorette drama and explicit text message leak.
 
@@ -61,9 +61,9 @@ Barely Informed News carried the ABC News simulcast of the Harris-Trump presiden
 
 ## Lore notes
 
-- **[17:28]** **[[characters/munch|Munch (Ralph Munchcut)]]**: Claims 'independently conservative' political alignment; says he would vote for Harris if she promised to send Crum to Djibouti or kill him.
-- **[30:33]** **[[characters/crum|Crum (Leonard Crum)]]**: States he has not eaten eggs in seven years.
-- **[2:08:48]** **[[characters/munch|Munch (Ralph Munchcut)]]**: Declares 'I fucking won that one' claiming personal debate victory; insists 'whenever I win America wins.'
+- **[17:28]** **[[characters/munch|Munch]]**: Claims 'independently conservative' political alignment; says he would vote for Harris if she promised to send Crum to Djibouti or kill him.
+- **[30:33]** **[[characters/crum|Crum]]**: States he has not eaten eggs in seven years.
+- **[2:08:48]** **[[characters/munch|Munch]]**: Declares 'I fucking won that one' claiming personal debate victory; insists 'whenever I win America wins.'
 - **[2:14:31]** **[[characters/kendelle|Kendelle]]**: Reports Bachelorette contestant Devin broke engagement via phone; ex-fiancé leaked explicit texts including 'can't wait for your mouth to be on my titties.'
 
 ## Transcript

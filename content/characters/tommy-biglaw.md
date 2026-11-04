@@ -1,5 +1,6 @@
 ---
 title: Tommy Biglaw
+common_name: Tommy
 type: character
 aliases:
   - Big Tommy Prosecutor

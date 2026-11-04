@@ -49,14 +49,14 @@ Case Blackwell presides over a penis-heavy news cycle covering Trump's Arnold Pa
 
 ## Characters
 
-- [[characters/case-blackwell|Case Blackwell]] (speaking) — Anchors broadcast; runs news desk, Amongst the Web handoff, Trip throw, conductor interview, and Munch & Crum debate.
+- [[characters/case-blackwell|Case]] (speaking) — Anchors broadcast; runs news desk, Amongst the Web handoff, Trip throw, conductor interview, and Munch & Crum debate.
 - [[characters/pepito|Pepito]] (speaking) — executive producer. Delivers cold-open sign-on; appears in park to demonstrate newly learned bark/howl; fails to book actual Polar Express conductor.
-- [[characters/jeff-ripple|Jeff Ripple]] (speaking) — correspondent. Co-anchors news desk; reads Trump/McDonald's coverage; visibly aggravated by Crum's presence and editorialized Deerfield News copy.
+- [[characters/jeff-ripple|Jeff]] (speaking) — correspondent. Co-anchors news desk; reads Trump/McDonald's coverage; visibly aggravated by Crum's presence and editorialized Deerfield News copy.
 - [[characters/crum|Crum]] (speaking) — debate analyst. Disrupts news desk from satellite room; mimics Case's posture; later debates Munch as pro-worker McDonald's employee.
 - [[characters/salazar|Salazar]] (speaking) — desk host. Hosts Amongst the Web; reveals tentacle cooling powers, bug-based reproduction, and 'freak flag' flat form.
-- [[characters/trip-bradstein|Trip Bradstein]] (speaking) — field correspondent. Broadcasts from park bushes; spars with Pepito and park denizens over street definition; fields hamster-obsessed stranger and McDonald's assassin.
+- [[characters/trip-bradstein|Trip]] (speaking) — field correspondent. Broadcasts from park bushes; spars with Pepito and park denizens over street definition; fields hamster-obsessed stranger and McDonald's assassin.
 - [[characters/munch|Munch]] (speaking) — debate analyst. Debates Crum; argues he'd be McDonald's CEO, proposes Laffy Taffy lettuce and triple-bun burgers; wins viewer poll.
-- [[characters/peter-gibbon|Peter Gibbon]] (speaking) — news stowaway. Mentioned as providing only a plate of muddy footprints instead of interview research for conductor segment.
+- [[characters/peter-gibbon|Peter]] (speaking) — news stowaway. Mentioned as providing only a plate of muddy footprints instead of interview research for conductor segment.
 
 ## Storyline updates
 

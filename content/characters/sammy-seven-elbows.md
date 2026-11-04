@@ -1,5 +1,6 @@
 ---
 title: Sammy Seven Elbows
+common_name: Sammy
 type: character
 aliases:
   - Sammy

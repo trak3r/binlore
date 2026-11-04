@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
 from typing import Any
 
@@ -115,54 +116,115 @@ def _slugify(text: str) -> str:
     return "-".join(s.split())
 
 
-def _format_character_link(name: str) -> str:
+# (substrings of the slugified name, character page slug); first match wins.
+_CHARACTER_ALIASES: list[tuple[tuple[str, ...], str]] = [
+    (("scrum",), "scrum"),
+    (("crum", "crumb"), "crum"),
+    (("munch", "munchcut", "ralph"), "munch"),
+    (("blackwell",), "case-blackwell"),
+    (("chet-ai", "chetai"), "chet-ai"),
+    (("chet", "manscape", "science", "skynce"), "chet"),
+    (("cryptozeu", "brandon"), "cryptozeus"),
+    (("chath", "cheth"), "dr-chath"),
+    (("ripple", "hooper"), "jeff-ripple"),
+    (("pepito",), "pepito"),
+    (("hype", "hyper"), "hype-train"),
+    (("cremus", "tremando"), "cremus-tremando"),
+    (("peter", "gibbon"), "peter-gibbon"),
+    (("rick",), "rick"),
+    (("trip", "bradstein"), "trip-bradstein"),
+    (("rooney",), "ai-rooney"),
+    (("kendall", "kendelle"), "kendelle"),
+    (("jebs-dad", "jeb-s-dad"), "jebs-dad"),
+    (("jeb", "nogget", "noggin"), "jeb"),
+    (("granman", "grandman", "grand-man"), "granman"),
+    (("durf", "derf", "dwarf"), "durf"),
+    (("sleazy",), "live-in-sleazy"),
+]
+
+
+def resolve_character_slug(name: str) -> str | None:
     slug = _slugify(name)
-    # Check if a character page exists
-    target = CONTENT_CHARACTERS / f"{slug}.md"
-    if target.exists():
-        return f"[[characters/{slug}|{name}]]"
-    # Check common aliases
-    if "crum" in slug or "crumb" in slug:
-        return f"[[characters/crum|{name}]]"
-    if "munch" in slug or "munchcut" in slug or "ralph" in slug:
-        return "[[characters/munch|Munch (Ralph Munchcut)]]"
-    if "blackwell" in slug or slug == "case":
-        return "[[characters/case-blackwell|Case Blackwell]]"
-    if "chet-ai" in slug or "chetai" in slug or slug == "chetah":
-        return "[[characters/chet-ai|ChetAI]]"
-    if "chet" in slug or "manscape" in slug or "science" in slug or "skynce" in slug:
-        return "[[characters/chet|Chet (Chet Manscape)]]"
-    if "cryptozeus" in slug or "cryptozeu" in slug or "brandon" in slug or "cryptozeu$" in slug:
-        return "[[characters/cryptozeus|Brandon (CryptoZeu$)]]"
-    if "chath" in slug or "cheth" in slug:
-        return "[[characters/dr-chath|Dr. Chath]]"
-    if "ripple" in slug or "hooper" in slug:
-        return "[[characters/jeff-ripple|Jeff Ripple]]"
-    if "pepito" in slug:
-        return "[[characters/pepito|Pepito]]"
-    if "hype" in slug or "hyper" in slug:
-        return "[[characters/hype-train|Hype Train]]"
-    if "cremus" in slug or "tremando" in slug:
-        return "[[characters/cremus-tremando|Cremus Tremando]]"
-    if "peter" in slug or "gibbon" in slug:
-        return "[[characters/peter-gibbon|Peter Gibbon]]"
-    if "rick" in slug:
-        return "[[characters/rick|Rick]]"
-    if "trip" in slug or "bradstein" in slug:
-        return "[[characters/trip-bradstein|Trip Bradstein]]"
-    if "rooney" in slug:
-        return "[[characters/ai-rooney|AI Rooney]]"
-    if "kendall" in slug or "kendelle" in slug:
-        return "[[characters/kendelle|Kendelle]]"
-    if "jeb" in slug or "nogget" in slug or "noggin" in slug:
-        return "[[characters/jeb|Jeb Nogget]]"
-    if "granman" in slug or "grandman" in slug or "grand-man" in slug:
-        return "[[characters/granman|Granman]]"
+    if (CONTENT_CHARACTERS / f"{slug}.md").exists():
+        return slug
+    if slug in ("case", "chetah"):
+        return {"case": "case-blackwell", "chetah": "chet-ai"}[slug]
     if "jazz" in slug and "shrimp" in slug:
-        return "[[characters/jazz-shrimp|Jazz Shrimp]]"
-    if "sleazy" in slug:
-        return "[[characters/live-in-sleazy|Live 'n Sleazy]]"
-    return name
+        return "jazz-shrimp"
+    for needles, target in _CHARACTER_ALIASES:
+        if any(n in slug for n in needles):
+            return target
+    return None
+
+
+_common_name_cache: dict[str, str | None] = {}
+
+
+def character_common_name(slug: str) -> str | None:
+    """The name the character is called on the show: frontmatter ``common_name``,
+    else the page title minus any parenthetical (``Munch (Ralph Munchcut)`` -> ``Munch``)."""
+    if slug in _common_name_cache:
+        return _common_name_cache[slug]
+    path = CONTENT_CHARACTERS / f"{slug}.md"
+    name: str | None = None
+    if path.exists():
+        raw = path.read_text(encoding="utf-8")
+        if raw.startswith("---"):
+            fm = yaml.safe_load(raw.split("---", 2)[1]) or {}
+            name = str(fm.get("common_name") or fm.get("title") or "") or None
+        if name:
+            name = re.sub(r"\s*\([^)]*\)\s*$", "", name).strip()
+    _common_name_cache[slug] = name or None
+    return _common_name_cache[slug]
+
+
+def _format_character_link(name: str) -> str:
+    slug = resolve_character_slug(name)
+    if not slug:
+        return name
+    return f"[[characters/{slug}|{character_common_name(slug) or name}]]"
+
+
+_CHARACTER_LINK_RE = re.compile(r"\[\[((?:\.\./)?characters/)([^|\]#\\]+)(\\?)\|([^\]]+)\]\]")
+
+
+def normalize_character_links(text: str) -> str:
+    """Relabel every character wikilink with the character's common name.
+
+    Labels that name a different page are relinked (Scrum on Crum's page goes to
+    Scrum's; "Munch & Crum" goes to the segment). Possessive labels keep the 's outside the link.
+    """
+
+    def fix(m: re.Match[str]) -> str:
+        prefix, slug, esc, label = m.group(1), m.group(2).strip(), m.group(3), m.group(4).strip()
+        if label == "Munch & Crum":
+            return f"[[{prefix.replace('characters/', 'segments/')}munch-and-crum{esc}|Munch & Crum]]"
+        suffix = ""
+        if re.search(r"['’]s$", label):
+            label, suffix = label[:-2], label[-2:]
+        relinked = resolve_character_slug(label)
+        if relinked == "scrum" and slug != "scrum":
+            slug = "scrum"
+        name = character_common_name(slug)
+        if not name:
+            return m.group(0)
+        return f"[[{prefix}{slug}{esc}|{name}]]{suffix}"
+
+    return _CHARACTER_LINK_RE.sub(fix, text)
+
+
+def normalize_episode_character_links(dry_run: bool = False) -> list[Path]:
+    changed: list[Path] = []
+    for path in sorted(CONTENT_EPISODES.glob("*.md")):
+        if path.name == "index.md":
+            continue
+        raw = path.read_text(encoding="utf-8")
+        new = normalize_character_links(raw)
+        if new != raw:
+            changed.append(path)
+            if not dry_run:
+                path.write_text(new, encoding="utf-8")
+    return changed
 
 
 def _format_segment_link(name: str) -> str:

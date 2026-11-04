@@ -55,13 +55,13 @@ Case Blackwell returns from a three-week hiatus to a chaotic broadcast: Kendelle
 
 ## Characters
 
-- [[characters/case-blackwell|Case Blackwell]] (speaking) — Anchors news desk, moderates Florida Joker and Paramount stories, hosts Munch & Crum debate, transitions to Lethal Company gaming session.
+- [[characters/case-blackwell|Case]] (speaking) — Anchors news desk, moderates Florida Joker and Paramount stories, hosts Munch & Crum debate, transitions to Lethal Company gaming session.
 - [[characters/kendelle|Kendelle]] (speaking) — in-studio contributor. Opens broadcast as a comedic sports reporter with face paint and jersey, announces overtime work shift, struggles with door locking.
-- [[characters/jeff-ripple|Jeff Ripple]] (speaking) — correspondent. Co-hosts news desk, reads Florida Joker story, debates likeness rights and facial tattoo costs, trades cuckold porn insults with Case.
+- [[characters/jeff-ripple|Jeff]] (speaking) — correspondent. Co-hosts news desk, reads Florida Joker story, debates likeness rights and facial tattoo costs, trades cuckold porn insults with Case.
 - [[characters/dj-newsic|DJ Newsic]] (speaking) — musical correspondent. Delivers auto-tuned musical segment on leucistic alligator birth, escalates into surreal 'Gator love' anthem.
-- [[characters/peter-gibbon|Peter Gibbon]] (speaking) — news stowaway. Infiltrates broadcast from wall crawlspace to discuss Paramount+ rebranding, streaming service history, and Seeso/Quibi fates.
-- [[characters/munch|Munch (Ralph Munchcut)]] (speaking) — debate analyst. Argues rat superiority over shrews, engages in escalating personal harassment of Crum including 'sweet mouth' and 'daddy' roleplay.
-- [[characters/crum|Crum (Leonard Crum)]] (speaking) — debate analyst. Defends shrews against Munch's rat advocacy, endures sexual harassment and 'daddy' roleplay, claims victory despite chaos.
+- [[characters/peter-gibbon|Peter]] (speaking) — news stowaway. Infiltrates broadcast from wall crawlspace to discuss Paramount+ rebranding, streaming service history, and Seeso/Quibi fates.
+- [[characters/munch|Munch]] (speaking) — debate analyst. Argues rat superiority over shrews, engages in escalating personal harassment of Crum including 'sweet mouth' and 'daddy' roleplay.
+- [[characters/crum|Crum]] (speaking) — debate analyst. Defends shrews against Munch's rat advocacy, endures sexual harassment and 'daddy' roleplay, claims victory despite chaos.
 - [[characters/pepito|Pepito]] (speaking) — executive producer. Suggested as HR hire by Case to manage Munch and Crum's workplace harassment, claims infinite free time.
 - [[characters/trent|Trent]] (speaking) — movie correspondent. Hosts Trailer Thursday segment with parole officer Chris, presents game and movie trailers, argues classifications.
 - [[characters/chris|Chris]] (speaking) — parole officer. Supervises Trent during Trailer Thursday, corrects trailer classifications, fact-checks dinosaur spit science.
@@ -73,9 +73,9 @@ Case Blackwell returns from a three-week hiatus to a chaotic broadcast: Kendelle
 ## Lore notes
 
 - **[7:26]** **[[characters/kendelle|Kendelle]]**: Works marketing/social media marketing job requiring 4 PM office attendance; refers to chat as her 'sports reporters.'
-- **[9:42]** **[[characters/crum|Crum (Leonard Crum)]]**: Has an original children's story titled 'The Night Before Crum's Miss' prepared for 50-sub milestone.
-- **[10:14]** **[[characters/case-blackwell|Case Blackwell]]**: Addicted to Lethal Company; playing with Ovali, Fiona, and Tim; expects two-week obsession cycle.
-- **[54:43]** **[[characters/peter-gibbon|Peter Gibbon]]**: Still residing in studio walls; emerges to discuss streaming service rebranding history; claims to work tirelessly daily.
+- **[9:42]** **[[characters/crum|Crum]]**: Has an original children's story titled 'The Night Before Crum's Miss' prepared for 50-sub milestone.
+- **[10:14]** **[[characters/case-blackwell|Case]]**: Addicted to Lethal Company; playing with Ovali, Fiona, and Tim; expects two-week obsession cycle.
+- **[54:43]** **[[characters/peter-gibbon|Peter]]**: Still residing in studio walls; emerges to discuss streaming service rebranding history; claims to work tirelessly daily.
 - **[1:26:40]** **[[characters/pepito|Pepito]]**: Considered for HR role by Case to manage Munch and Crum harassment; claims to have 'nothing but time' and not understand work.
 - **[1:30:23]** **[[characters/trent|Trent]]**: Hosts Trailer Thursday segment under parole supervision; presents himself as cultural taste-maker.
 

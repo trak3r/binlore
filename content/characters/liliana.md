@@ -1,5 +1,6 @@
 ---
 title: Liliana Breathinschmit
+common_name: Liliana
 type: character
 aliases:
   - Liliana

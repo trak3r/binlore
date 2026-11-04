@@ -61,14 +61,14 @@ Barely Informed News opened with a gooning-derailed Hype Train before pivoting t
 
 ## Characters
 
-- [[characters/case-blackwell|Case Blackwell]] (speaking) — Anchored the full broadcast, managed segment transitions, and participated in gurning and trailer reactions.
+- [[characters/case-blackwell|Case]] (speaking) — Anchored the full broadcast, managed segment transitions, and participated in gurning and trailer reactions.
 - [[characters/pepito|Pepito]] (speaking) — executive producer. Delivered cold-open sign-on, debuted a new gray jacket, and claimed to have eaten a bucket of golf balls.
 - [[characters/kendelle|Kendelle]] (speaking) — in-studio contributor. Walked through frame during pre-show and trailer segments, prompting Case to hide her with a Boglan puppet.
 - [[characters/hype-train|Hype Train]] (speaking) — recurring. Hijacked the early broadcast with a gooning-themed freestyle rap acknowledging 19-month sub Metal Chaos and other supporters.
 - [[characters/rick|Rick]] (speaking) — correspondent. Co-anchored Gurning and Middle East coverage, attempted gurning faces, and read a color-coded threat meter.
 - [[characters/munch|Munch]] (speaking) — debate analyst. Debuted a red jacket, won the gurning poll, and claimed to drink a gallon of salt water nightly for low stomach salinity.
 - [[characters/crum|Crum]] (speaking) — debate analyst. Wore a new blue jacket, argued for jorts over fanny packs, and lost the gurning poll to Munch.
-- [[characters/jeb|Jeb Nogget]] (speaking) — recurring. Broadcast from his woodshop with his board-trapped father, shared a pancake recipe, an AR proposal idea, and the Screaming Viking cocktail.
+- [[characters/jeb|Jeb]] (speaking) — recurring. Broadcast from his woodshop with his board-trapped father, shared a pancake recipe, an AR proposal idea, and the Screaming Viking cocktail.
 - [[characters/dj-newsic|DJ Newsic]] (speaking) — recurring. Closed the show with an auto-tuned nail-conspiracy segment and a sentient-thumb freestyle over a conspiracy trap beat.
 - Jeremy Pizzagate (speaking) — guest. Cheesy 3D film director interviewed about his 'Talking Weights' and 'Nightmare Fuel' franchises and his Pizza Face namesake.
 

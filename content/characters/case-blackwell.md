@@ -1,5 +1,6 @@
 ---
 title: Case Blackwell
+common_name: Case
 type: character
 aliases:
   - Case

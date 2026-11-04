@@ -37,6 +37,12 @@ Every character page MUST include an authentic screencap picture directly beneat
 - `See also:` linking to relevant segments, storylines, or index.
 - Always add/update the character's row in `content/characters/index.md`.
 
+## 2b. Link Labels Use the Common Name
+Everywhere outside the character's own bio page, label character links with the name the character is called in conversation on the show: `[[characters/munch|Munch]]`, `[[characters/case-blackwell|Case]]`, `[[characters/cryptozeus|Brandon]]`. Full names, real names, nicknames, aliases, and alter egos belong on the bio page only.
+- The common name is the page's `common_name` frontmatter, or its `title` minus any parenthetical. Add `common_name` when the title isn't what the character is called (e.g. `title: Jeff Ripple` / `common_name: Jeff`).
+- Alter egos with their own page get their own link (`[[characters/scrum|Scrum]]`, not Crum's page).
+- `./binlore normalize-character-links` relabels every character link in episode pages; run it after hand edits.
+
 ## 3. Exclusion of Mentioned Public Figures & Video Clip Subjects
 - **Bio pages are strictly reserved for actual on-air characters or in-studio contributors who speak lines in scenes.**
 - Public figures, politicians, or celebrities who are merely mentioned, debated, or satirized in news coverage (e.g. Mitch McConnell, Donald Trump, JD Vance, Lindsey Graham, Pete Hegseth) do **NOT** get bio pages.

@@ -55,12 +55,12 @@ Barely Informed News covers DNC protests and a Trump-Netanyahu Logan Act allegat
 
 ## Characters
 
-- [[characters/case-blackwell|Case Blackwell]] (speaking) — Anchors the broadcast, manages Hype Train derailment, covers DNC protests and Lindell stunt, reacts to Bill Clinton live, oversees coat poll rigging, hosts Amongst the Web and AI Rooney.
+- [[characters/case-blackwell|Case]] (speaking) — Anchors the broadcast, manages Hype Train derailment, covers DNC protests and Lindell stunt, reacts to Bill Clinton live, oversees coat poll rigging, hosts Amongst the Web and AI Rooney.
 - [[characters/hype-train|Hype Train]] (speaking) — hype train. Opens the show with a freestyle rap over a Democratic trap beat, thanks subscribers, spirals into surreal piss/culinary riffs before being dismissed.
-- [[characters/jeff-ripple|Jeff Ripple]] (speaking) — correspondent. Delivers the news pool segment on DNC protests and Trump-Netanyahu call, signs off with the super jet bit.
-- [[characters/trip-bradstein|Trip Bradstein]] (speaking) — field correspondent. Conducts street interviews from Central Park bushes; interviews a gorilla-bike, sentient mustache, fifth-dimensional foodie, and a time-traveling pre-recorded 'night man'; alert system fails due to StreamRobot.
-- [[characters/munch|Munch (Ralph Munchcut)]] (speaking) — debate analyst. Debates Crum over five blazer options, accuses Crum of coat theft, loses the poll to gold sequin coat, rants about Olympics and Goodwill Games.
-- [[characters/crum|Crum (Leonard Crum)]] (speaking) — debate analyst. Rigs the coat poll to secure a top-two finish, claims snail-goo resilience, describes ancestral badminton with horses and bone-reading, gets threatened with police by Munch.
+- [[characters/jeff-ripple|Jeff]] (speaking) — correspondent. Delivers the news pool segment on DNC protests and Trump-Netanyahu call, signs off with the super jet bit.
+- [[characters/trip-bradstein|Trip]] (speaking) — field correspondent. Conducts street interviews from Central Park bushes; interviews a gorilla-bike, sentient mustache, fifth-dimensional foodie, and a time-traveling pre-recorded 'night man'; alert system fails due to StreamRobot.
+- [[characters/munch|Munch]] (speaking) — debate analyst. Debates Crum over five blazer options, accuses Crum of coat theft, loses the poll to gold sequin coat, rants about Olympics and Goodwill Games.
+- [[characters/crum|Crum]] (speaking) — debate analyst. Rigs the coat poll to secure a top-two finish, claims snail-goo resilience, describes ancestral badminton with horses and bone-reading, gets threatened with police by Munch.
 - [[characters/pepito|Pepito]] (speaking) — executive producer. Appears briefly at close; Blackwell asks if he can smell the difference between robot and human food.
 - [[characters/ai-rooney|AI Rooney]] (speaking) — cyborg commentator. Co-hosts Amongst the Web, malfunctions on 'gay' detection, delivers a multi-topic rant from chat complaints covering Hogan, AI nuance, Trip's pre-records, Democrat wrestler deficit, piss drinkers, and garage gorilla.
 - [[characters/kendelle|Kendelle]] (speaking) — in-studio contributor. Mentioned off-screen: Case must help her at 6:37 PM per chat reminder; 'Night Kendall' appears in Trip's park realm.
@@ -72,11 +72,11 @@ Barely Informed News covers DNC protests and a Trump-Netanyahu Logan Act allegat
 
 ## Lore notes
 
-- **[16:10]** **[[characters/case-blackwell|Case Blackwell]]**: Case Blackwell returned from DNC coverage in Chicago.
+- **[16:10]** **[[characters/case-blackwell|Case]]**: Case Blackwell returned from DNC coverage in Chicago.
 - **[39:03]** Mike Lindell shaved mustache as DNC disguise, posed as Rudy Giuliani narrated, harassed a 12-year-old.
 - **[45:50]** DNC tickets require credentials; general public not admitted.
 - **[48:15]** Mike Lindell admitted to massive crack addiction; company went under.
-- **[56:22]** **[[characters/trip-bradstein|Trip Bradstein]]**: Trip Bradstein's alert system switched to StreamRobot, missing certain sub types.
+- **[56:22]** **[[characters/trip-bradstein|Trip]]**: Trip Bradstein's alert system switched to StreamRobot, missing certain sub types.
 - **[1:04:26]** Chat reminded Case to help Kendelle at 6:37 PM (15 minutes from timestamp).
 - **[1:21:17]** Bill Clinton age confirmed 78 (birthday two days prior).
 - **[1:41:37]** Case banned from purchasing from Shein; Munch's coat order from Shein never arrived.

@@ -1,5 +1,6 @@
 ---
 title: Jeb Nogget
+common_name: Jeb
 type: character
 aliases:
   - Jeb

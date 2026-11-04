@@ -1,5 +1,6 @@
 ---
 title: Trip Bradstein
+common_name: Trip
 type: character
 aliases:
   - characters/trip

@@ -42,9 +42,9 @@ Case Blackwell returns to the BIN newsroom after a two-day absence to cover the 
 ## Characters
 
 - [[characters/pepito|Pepito]] (speaking) — executive producer. Delivered the official station sign-on and cold open as the dog who produces the show.
-- [[characters/case-blackwell|Case Blackwell]] (speaking) — Returned from a two-day absence to anchor breaking coverage of Charlie Kirk's assassination while battling catastrophic OBS instability.
+- [[characters/case-blackwell|Case]] (speaking) — Returned from a two-day absence to anchor breaking coverage of Charlie Kirk's assassination while battling catastrophic OBS instability.
 - [[characters/hype-train|Hype Train]] (speaking) — recurring. Derails the broadcast for 25 minutes with freestyle raps about Cheetos, piss vapor, horses, and Bart Simpson, intermittently acknowledging subs at a self-declared 'medium pace.'
-- [[characters/jeff-ripple|Jeff Ripple]] (speaking) — correspondent. Briefly summoned by Case but only manages a resigned 'Damn it, I almost escaped' before the segment collapses into technical chaos.
+- [[characters/jeff-ripple|Jeff]] (speaking) — correspondent. Briefly summoned by Case but only manages a resigned 'Damn it, I almost escaped' before the segment collapses into technical chaos.
 
 ## Storyline updates
 

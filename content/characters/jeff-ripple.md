@@ -1,5 +1,6 @@
 ---
 title: Jeff Ripple
+common_name: Jeff
 type: character
 aliases:
   - Ripple

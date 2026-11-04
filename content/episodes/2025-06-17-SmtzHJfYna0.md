@@ -51,13 +51,13 @@ Barely Informed News broadcasts 'Gorilla Punch Day,' executing the long-deferred
 
 ## Characters
 
-- [[characters/crum|Crum (Leonard Crum)]] (speaking) — Senior Debate Analyst. Faces and loses the Crum Dick Punch execution via mechanical gorilla; head explodes on air; leaves behind wife Belilia and beloved blanket 'nummie'.
-- [[characters/munch|Munch (Ralph Munchcut)]] (speaking) — Senior Debate Analyst. Orchestrates and witnesses Crum's gorilla punch execution; freezes motionless afterward in apparent purpose-loss catatonia.
+- [[characters/crum|Crum]] (speaking) — Senior Debate Analyst. Faces and loses the Crum Dick Punch execution via mechanical gorilla; head explodes on air; leaves behind wife Belilia and beloved blanket 'nummie'.
+- [[characters/munch|Munch]] (speaking) — Senior Debate Analyst. Orchestrates and witnesses Crum's gorilla punch execution; freezes motionless afterward in apparent purpose-loss catatonia.
 - [[characters/pepito|Pepito]] (speaking) — Executive Producer. Orders gorilla moving plate for bad knees; delivers trippy Gregorian chant blessing sending Crum to space demons; manages segment transitions.
-- [[characters/chet|Chet (Chet Manscape)]] (speaking) — Chief Science Correspondent. Briefly appears to check on stressed Kendelle; riffs on methylene blue 'limitless pill' and blue urine during news roundup.
+- [[characters/chet|Chet]] (speaking) — Chief Science Correspondent. Briefly appears to check on stressed Kendelle; riffs on methylene blue 'limitless pill' and blue urine during news roundup.
 - [[characters/kendelle|Kendelle]] (speaking) — In-Studio Contributor. Brings food for Case; stressed with work; birthday month mentioned; receives candle from Chet.
-- [[characters/trip-bradstein|Trip Bradstein]] (speaking) — Field Correspondent. Conducts man-on-the-street interviews about Crum's death; fends off multiverse Crum claimants, ghosts, and a portal artist.
-- [[characters/peter-gibbon|Peter Gibbon]] (speaking) — News Stowaway. Hijacks therapy segment; claims to be 427 rats in a man suit; suggests shaved-head Case as Crum replacement; advocates for wall lore.
+- [[characters/trip-bradstein|Trip]] (speaking) — Field Correspondent. Conducts man-on-the-street interviews about Crum's death; fends off multiverse Crum claimants, ghosts, and a portal artist.
+- [[characters/peter-gibbon|Peter]] (speaking) — News Stowaway. Hijacks therapy segment; claims to be 427 rats in a man suit; suggests shaved-head Case as Crum replacement; advocates for wall lore.
 - [[characters/dr-chath|Dr. Chath]] (speaking) — Resident Therapist. Revealed as Case's cousin; intervenes in Peter's therapy hijack; gives cousins work out of worry.
 - [[characters/hype-train|Hype Train]] (speaking) — Musical/Cultural Interruption. Referenced as containing chat in its back; Crum's spirit said to be roasting inside it.
 
@@ -74,7 +74,7 @@ Barely Informed News broadcasts 'Gorilla Punch Day,' executing the long-deferred
 - **[1:11:15]** **[[characters/munch|Munch]]**: Munch freezes completely motionless after Crum's death, described as 'glitched reality' and 'hibernating because his central purpose has been fulfilled'.
 - **[1:16:30]** **[[characters/pepito|Pepito]]**: Pepito claims direct line to God as 'official pope of this stream'; references secret deity 'Mother Glabla' who vaults the gross into space.
 - **[1:47:59]** **[[characters/dr-chath|Dr. Chath]]**: Dr. Chath is Case Blackwell's cousin; Case gives cousins work out of worry.
-- **[1:49:35]** **[[characters/peter-gibbon|Peter Gibbon]]**: Peter Gibbon claims to be '427 rats in a man suit'.
+- **[1:49:35]** **[[characters/peter-gibbon|Peter]]**: Peter Gibbon claims to be '427 rats in a man suit'.
 - **[1:52:51]** **[[characters/pepito|Pepito]]**: Pepito ordered the gorilla's moving plate due to its bad knees, making him an accessory to the execution logistics.
 
 ## Transcript

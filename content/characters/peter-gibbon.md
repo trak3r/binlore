@@ -1,5 +1,6 @@
 ---
 title: Peter Gibbon
+common_name: Peter
 type: character
 aliases:
   - Peter G.

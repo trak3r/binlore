@@ -1,5 +1,6 @@
 ---
 title: Marfus Darfus
+common_name: Marfus
 type: character
 aliases:
   - Marfis Darfus

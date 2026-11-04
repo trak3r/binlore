@@ -433,6 +433,17 @@ def cmd_rank_munch_crum(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_normalize_character_links(args: argparse.Namespace) -> int:
+    from .episode import normalize_episode_character_links
+    from .paths import REPO_ROOT
+
+    changed = normalize_episode_character_links(dry_run=args.dry_run)
+    for path in changed:
+        print(f"  {'~' if args.dry_run else '✓'} {path.relative_to(REPO_ROOT)}")
+    print(f"{len(changed)} episode page(s) {'would change' if args.dry_run else 'updated'}")
+    return 0
+
+
 def cmd_schedule_report(args: argparse.Namespace) -> int:
     from .paths import REPO_ROOT
     from .schedule_report import DATA_PATH, PAGE_PATH, write_report
@@ -955,6 +966,13 @@ def build_parser() -> argparse.ArgumentParser:
         help="Write data/schedule-report.json without refreshing content/schedule/index.md",
     )
     sched.set_defaults(func=cmd_schedule_report)
+
+    ncl = sub.add_parser(
+        "normalize-character-links",
+        help="Relabel character links in episode pages with each character's common name",
+    )
+    ncl.add_argument("--dry-run", action="store_true", help="List pages that would change without writing")
+    ncl.set_defaults(func=cmd_normalize_character_links)
 
     return p
 

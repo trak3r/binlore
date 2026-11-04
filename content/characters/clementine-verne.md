@@ -1,5 +1,6 @@
 ---
 title: Clementine Verne
+common_name: Clementine
 type: character
 aliases:
   - Clementine

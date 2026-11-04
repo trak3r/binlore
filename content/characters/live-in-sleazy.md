@@ -1,5 +1,6 @@
 ---
 title: Live 'n Sleazy
+common_name: Sleazy
 type: character
 aliases:
   - Live in Sleazy
