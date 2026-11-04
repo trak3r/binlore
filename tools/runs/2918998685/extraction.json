@@ -1,0 +1,207 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "09:32",
+      "canonical_segment": "News",
+      "title": "Cold Open & Station Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on as executive producer, identifying as the dog who produces the show and declaring no breaks for election night."
+    },
+    {
+      "start": "09:32",
+      "end": "48:27",
+      "canonical_segment": "News",
+      "title": "Election Coverage — Early Returns & Network Surfing",
+      "notes": "Case Blackwell anchors live election night coverage, cycling through AP, CNN, NBC, CBS, RSBN, and Fox feeds while discussing early Democratic leads in Texas, South Carolina, and Kansas; Rick and Hype Train provide commentary and musical interruptions."
+    },
+    {
+      "start": "48:27",
+      "end": "59:33",
+      "canonical_segment": "Munch & Crum",
+      "title": "Shirts vs. Skins Debate",
+      "notes": "Munch and Crum debate the merits of shirts versus skins in pickup basketball, with Munch arguing for shirts as civilizational progress and Crum selecting skins; Munch's skeletal physiology complicates the binary."
+    },
+    {
+      "start": "59:33",
+      "end": "01:32:20",
+      "canonical_segment": "News",
+      "title": "Election Coverage — Projections & Concession Speeches",
+      "notes": "Case returns to the anchor desk as NBC projects Democratic House and Senate majorities; Chet interrupts on 'science' trigger, JD Vance impression occurs, and Case monitors tightening Michigan race while watching rival streamers."
+    },
+    {
+      "start": "01:32:20",
+      "end": "01:54:27",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Brandon's Election Night Speedrun",
+      "notes": "Brandon (CryptoZeu$) plays a platformer game with muffled maternal interventions, completes a blind speedrun on first attempt, and departs to eat glowing green fruit roll-ups found beneath floorboards."
+    },
+    {
+      "start": "01:54:27",
+      "end": "02:59:19",
+      "canonical_segment": "News",
+      "title": "Election Coverage — Final Calls & Sign-Off",
+      "notes": "Case reviews final Senate projections (51 Democratic seats), watches concession speeches and Trump Truth Social posts, announces streaming schedule for the week, and ends broadcast with a raid."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold open sign-on as the dog who produces the show, declares no-breaks election night.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors flagship election night coverage, cycles network feeds, performs JD Vance impression, enforces no-breaks November.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "role": "correspondent",
+      "notes": "correspondent. Reads viewer reactions, trades barbs with Hype Train, claims PSYOP slot powers from CIA background.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "musical interruption",
+      "notes": "musical interruption. Derails subscriber acknowledgments into freestyle raps, declares allegiance to blue wave, promotes Piss Fruit Ninja.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "Skeleton debate analyst argues shirts represent civilizational progress, reveals failed Buzz Lightyear Halloween costume.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "Gambling-addicted debate analyst picks skins for pickup basketball tradition, claims medical exemption from shirts.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Commandeers broadcast on 'science' trigger, discusses Star Trek uniform logic and Picard's lack of shorts.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "role": "gaming correspondent",
+      "notes": "gaming correspondent. Plays platformer with mother yelling through door, completes blind speedrun on first attempt, eats irradiated fruit roll-ups.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Al Manchester",
+      "beat": "[01:10:25] Munch references his skeleton state and potential further death if Texas flips blue, confirming the Al Manchester resolution persists.",
+      "timestamp": "01:10:25"
+    },
+    {
+      "storyline": "Grunchmas",
+      "beat": "[02:18:31] Case declares 'Grunch miss came early this year' as Democrats appear to win House and Senate, marking the annual fucks-list rite.",
+      "timestamp": "02:18:31"
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "[54:44-55:06] Munch and Crum's bone temple/card-shuffling banter recalls the crawlspace hell transit where deceased Crum worked as assistant manager.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Rennerton",
+      "beat": "[49:14] Case mentions tilling the woods of Rennerton; [02:50:22] chat asks for Rennerton vote count and Case confirms rebuild segments deferred to tomorrow.",
+      "timestamp": "49:14"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Pepito",
+      "fact": "[00:08] Identifies as 'the dog that produces the show' during cold open sign-on.",
+      "timestamp": "00:08",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "[09:53] Voted earlier; placed 'voted' sticker on load-bearing laptop.",
+      "timestamp": "09:53",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "[49:35] Confirms skeletal form: 'I'm actually past that... I'm bones, baby. Whoa, no nerve endings needed.'",
+      "timestamp": "49:35",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "[51:26] Selects 'skins' in shirts vs skins debate, citing pickup basketball tradition and medical preference against shirts.",
+      "timestamp": "51:26",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "[01:09:40] Halloween costume was a poorly executed Buzz Lightyear — skeleton with green panties.",
+      "timestamp": "01:09:40",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Brandon (CryptoZeu$)",
+      "fact": "[01:53:19] Completes blind speedrun of unspecified platformer on first attempt.",
+      "timestamp": "01:53:19",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "[02:18:31] Declares Grunchmas observed early this year as Democrats win projected majorities.",
+      "timestamp": "02:18:31",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "[02:50:22] Announces streaming schedule: live all week except Sunday.",
+      "timestamp": "02:50:22",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "[02:54:30] Cites 'hard three hour stream limit' requiring doctor consultation beyond three hours.",
+      "timestamp": "02:54:30",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News broadcasts live election night coverage as Democrats flip Senate seats in Texas, South Carolina, and Kansas while projecting House and Senate majorities. Anchor Case Blackwell cycles network feeds, contends with Munch and Crum's shirts-versus-skins debate, and monitors a tightening Michigan race. Gaming correspondent Brandon completes a speedrun between maternal interruptions, and the broadcast concludes with Case confirming a no-breaks November schedule through Saturday.",
+  "_meta": {
+    "vod_id": "2918998685",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 155774,
+    "approx_prompt_tokens": 38943,
+    "transcript_lines": 446
+  }
+}

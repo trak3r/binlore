@@ -34,6 +34,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-04|2026-11-04]] | musical interruption. |
 | [[episodes/2026-11-03|2026-11-03]] | musical correspondent. |
 | [[episodes/2026-10-29|2026-10-29]] | hype announcer. |
 | [[episodes/2026-10-26|2026-10-26]] | hype correspondent. |
@@ -53,13 +54,13 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-08-06|2026-08-06]] | High-velocity cultural correspondent. Commandeers the broadcast early but battles a malfunctioning synthwave widget ('visualization is not supported on my system') and a missing partner (his panther girlfriend). |
 | [[episodes/2026-08-04|2026-08-04]] | Sentient locomotive correspondent. Interrupts the pre-show to acknowledge subscribers, delivers a freestyle rap about losing his caboose, and returns later in the broadcast for additional beats. |
 | [[episodes/2026-07-24|2026-07-24]] | Notably absent and described as 'still taking a nap' throughout the broadcast. A caller impersonates 'normal hype train' during the Streets segment; broadcast raid is sent to Hype Train at sign-off. |
-| [[episodes/2026-07-23|2026-07-23]] | High-Velocity Cultural Correspondent. Briefly attempts to hijack the intro but is forcefully rejected by Case in favor of addressing his injury, leading to Hype Train lamenting he was let to die. |
 
 <details>
-<summary>Earlier appearances (118)</summary>
+<summary>Earlier appearances (119)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-07-23|2026-07-23]] | High-Velocity Cultural Correspondent. Briefly attempts to hijack the intro but is forcefully rejected by Case in favor of addressing his injury, leading to Hype Train lamenting he was let to die. |
 | [[episodes/2026-07-20|2026-07-20]] | High-velocity cultural correspondent. Battle raps against Lincoln over bodily fluids and is forced to read subs after losing the rap battle. |
 | [[episodes/2026-07-17|2026-07-17]] | Musical correspondent. Triggered by sub cascade. Introduced 'piss hunters' sub-goal, name-dropped George Carlin, pivoted to Spanish guitar beat, proposed 'In the lattice fucking piss' as the new stream tag. |
 | [[episodes/2026-07-13|2026-07-13]] | Sentient locomotive correspondent rapping about a sock filled with 'ass' during a hype train surge. |

@@ -34,6 +34,7 @@ Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-04|2026-11-04]] | Skeleton debate analyst argues shirts represent civilizational progress, reveals failed Buzz Lightyear Halloween costume. |
 | [[episodes/2026-11-03|2026-11-03]] | debate analyst. |
 | [[episodes/2026-10-29|2026-10-29]] | debate analyst. |
 | [[episodes/2026-10-26|2026-10-26]] | debate analyst. |
@@ -53,13 +54,13 @@ Their volatile dynamic also forms the backbone of the Crum Punch trilogy: Munch 
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity. |
 | [[episodes/2026-06-05|2026-06-05]] | Senior debate analyst with distinctive disheveled appearance and confrontational debate style. |
 | [[episodes/2026-05-26|2026-05-26]] | Senior debate analyst known for his disheveled silver hair and combative political style. Engages in heated exchanges with Crum and frequently references his 'Dick Punch' wager storyline. |
-| [[episodes/2026-05-22|2026-05-22]] | debate analyst. |
 
 <details>
-<summary>Earlier appearances (191)</summary>
+<summary>Earlier appearances (192)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-05-22|2026-05-22]] | debate analyst. |
 | [[episodes/2026-05-21|2026-05-21]] | debate analyst. |
 | [[episodes/2026-05-18|2026-05-18]] | debate analyst. |
 | [[episodes/2026-05-14|2026-05-14]] | debate analyst. |

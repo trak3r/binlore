@@ -35,6 +35,7 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-04|2026-11-04]] | science correspondent. |
 | [[episodes/2026-10-29|2026-10-29]] | science correspondent. |
 | [[episodes/2026-10-10|2026-10-10]] | science correspondent. |
 | [[episodes/2026-09-04|2026-09-04]] | Intervenes following coverage of The Family International cult; introduces upgraded blue-light protective eyewear, investigates cult propaganda tracks, and warns of cognitive AI vulnerabilities. |
@@ -54,13 +55,13 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2026-04-09|2026-04-09]] | science correspondent. |
 | [[episodes/2026-04-01|2026-04-01]] | science correspondent. |
 | [[episodes/2026-03-27|2026-03-27]] | science correspondent. |
-| [[episodes/2026-03-24|2026-03-24]] | science correspondent. |
 
 <details>
-<summary>Earlier appearances (96)</summary>
+<summary>Earlier appearances (97)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-03-24|2026-03-24]] | science correspondent. |
 | [[episodes/2026-03-17|2026-03-17]] | science correspondent. |
 | [[episodes/2026-03-10|2026-03-10]] | science correspondent. |
 | [[episodes/2026-03-06|2026-03-06]] | science correspondent. |

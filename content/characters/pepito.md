@@ -39,6 +39,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-04|2026-11-04]] | executive producer. |
 | [[episodes/2026-10-29|2026-10-29]] | executive producer. |
 | [[episodes/2026-10-19|2026-10-19]] | executive producer. |
 | [[episodes/2026-10-08|2026-10-08]] | executive producer. |
@@ -58,13 +59,13 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-07-13|2026-07-13]] | Executive Producer providing cold open countdown and failing to locate Mitch McConnell in the 'weird sandpit'. |
 | [[episodes/2026-07-11|2026-07-11]] | Executive Producer; opens the broadcast and attempts to intervene during the sub goal shout-out. |
 | [[episodes/2026-06-27|2026-06-27]] | Executive producer of Barely Informed News. |
-| [[episodes/2026-06-22|2026-06-22]] | Executive producer opening the broadcast from the producer cam, thanking subscribers and rambling about various topics. |
 
 <details>
-<summary>Earlier appearances (117)</summary>
+<summary>Earlier appearances (118)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-06-22|2026-06-22]] | Executive producer opening the broadcast from the producer cam, thanking subscribers and rambling about various topics. |
 | [[episodes/2026-06-15|2026-06-15]] | Executive producer, opens the show with birthday greetings. |
 | [[episodes/2026-06-08|2026-06-08]] | Executive producer (canine). Opens broadcast, manages raid, announces Pepito Moss July 6. |
 | [[episodes/2026-06-05|2026-06-05]] | Executive producer and director of the show, known for his enthusiastic introductions and dog-themed persona. |
