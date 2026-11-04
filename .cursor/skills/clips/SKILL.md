@@ -10,7 +10,7 @@ Two phases, with two user decisions:
 1. **Propose**: read the latest episode, pitch exactly 3 candidate highlights with clickable VOD timestamp links, then STOP and wait for the user to pick.
 2. **Produce**: cut the raw window (`clips make --raw`), then STOP and get the user's approval of the in and out points. Only then preview the 9:16 crop, render with `./binlore clips make`, polish `post.md`, and report the output folder.
 
-Distribution is manual by default: the user uploads the files. Only post when the user explicitly asks you to (see Phases 3 and 4), and then **upload YouTube Shorts as Public and TikToks as Everyone**. After every publish, record the clip on the wiki (see "Wiki sync" at the end). Clips posted before Nov 4, 2026 went up as Unlisted or Only you; the user flips those themselves.
+Distribution is manual by default: the user uploads the files. Only post when the user explicitly asks you to (see Phases 3 and 4), and then **upload YouTube Shorts as Public and TikToks as Everyone**. After every publish, record the clip on the wiki (see "Wiki sync" at the end). Before stating a post's visibility, check it in Studio; the user changes visibility themselves.
 
 These are fan clips of someone else's show. Keep the fan-clip branding and the "Not affiliated with the show" line in post copy.
 
