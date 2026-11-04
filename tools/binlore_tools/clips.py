@@ -890,6 +890,7 @@ def make_clip(
     whisper_model: str = "small",
     thumb_at: float | None = None,
     fixes: list[str] | None = None,
+    raw_only: bool = False,
 ) -> Path:
     start_s, end_s = parse_ts(start), parse_ts(end)
     duration = end_s - start_s
@@ -943,6 +944,20 @@ def make_clip(
         words.append({"start": max(s, 0.0), "end": min(e, duration), "word": w["word"]})
     chunks = chunk_words(words)
     write_srt(chunks, duration, out_dir / "captions.srt")
+
+    if raw_only:
+        subprocess.run(
+            ["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-ss", f"{lead:.3f}", "-t", f"{duration:.3f}",
+             "-i", str(source), "-c:v", "libx264", "-preset", "veryfast", "-crf", "23", "-c:a", "aac",
+             "-movflags", "+faststart", str(out_dir / "raw.mp4")],
+            check=True,
+        )
+        print("\nRaw cut transcript (seconds into clip):", flush=True)
+        for c in chunks:
+            print(f"  {c[0]['start']:6.2f}-{c[-1]['end']:6.2f}  {' '.join(w['word'] for w in c)}", flush=True)
+        meta.update(episode=ep.label, start=fmt_hms(start_s), end=fmt_hms(end_s), fixes=all_fixes)
+        meta_path.write_text(json.dumps(meta, indent=2), encoding="utf-8")
+        return out_dir
 
     crop_x = str(crop_x if crop_x is not None else meta.get("crop_x", "0.5"))
     crop = parse_crop(crop_x)

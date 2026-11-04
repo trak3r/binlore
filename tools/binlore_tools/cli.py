@@ -320,7 +320,12 @@ def cmd_clips_make(args: argparse.Namespace) -> int:
         whisper_model=args.whisper_model,
         thumb_at=args.thumb_at,
         fixes=args.fix,
+        raw_only=args.raw,
     )
+    if args.raw:
+        print(f"\n✓ Raw cut for review: {out_dir}/raw.mp4 (also shots.jpg, captions.srt)")
+        print("  Re-run without --raw to crop, caption, watermark and package it.")
+        return 0
     print(f"\n✓ Clip ready in {out_dir}/")
     for name in ("clip.mp4", "thumbnail.jpg", "captions.srt", "post.md"):
         print(f"  {name}")
@@ -726,6 +731,10 @@ def build_parser() -> argparse.ArgumentParser:
     cmake.add_argument("--thumb-at", type=float, help="Thumbnail time in seconds into the clip (default 2)")
     cmake.add_argument("--whisper-model", default="small", help="faster-whisper model for captions (default small)")
     cmake.add_argument("--no-stinger", action="store_true", help="Don't append the end card / stinger")
+    cmake.add_argument(
+        "--raw", action="store_true",
+        help="Stop after slicing: write raw.mp4 (uncropped 16:9 window) and the transcript for review",
+    )
     cmake.add_argument("--redownload", action="store_true", help="Re-slice the source even if cached")
     cmake.add_argument("--retranscribe", action="store_true", help="Re-run word-level transcription even if cached")
     cmake.set_defaults(func=cmd_clips_make)

@@ -5,10 +5,10 @@ description: Find highlight-worthy moments in the latest processed Barely Inform
 
 # Clips (Highlights / Reels / Shorts)
 
-Two phases with a user decision in between:
+Two phases, with two user decisions:
 
-1. **Propose**: read the latest episode, pitch exactly 3 candidate highlights with clickable VOD timestamp links, then STOP and wait for the user to pick one.
-2. **Produce**: preview the 9:16 crop, render the chosen clip with `./binlore clips make`, polish `post.md`, and report the output folder.
+1. **Propose**: read the latest episode, pitch exactly 3 candidate highlights with clickable VOD timestamp links, then STOP and wait for the user to pick.
+2. **Produce**: cut the raw window (`clips make --raw`), then STOP and get the user's approval of the in and out points. Only then preview the 9:16 crop, render with `./binlore clips make`, polish `post.md`, and report the output folder.
 
 Distribution is manual by default: the user uploads the files. Only post when the user explicitly asks you to (see Phase 3), and then **always upload as Unlisted, never Public**. The user makes clips public themselves.
 
@@ -28,7 +28,7 @@ A good candidate is:
 
 - **Self-contained**: makes sense to a stranger with no context about the show. No setup from earlier in the stream is required.
 - **Hooked in the first 3 seconds**: the opening line is funny, weird, or provocative on its own. Start ON the hook, not on the lead-in.
-- **Paid off**: ends on a punchline, reveal, or reaction. Trim the trailing chatter after the laugh.
+- **Paid off**: ends on a punchline, reveal, or reaction. Cut right after the best punchline, not at the end of the exchange. Follow-up banter, a second weaker joke, or "what do you mean?" replies all go. When in doubt, end earlier. The user has trimmed every early clip down to the first big laugh: 30 seconds, not 45.
 - **20 to 75 seconds long** (sweet spot 30 to 50).
 - **Character-driven**: prefer Case's recurring characters (they have pages in `content/characters/`) and signature segments over Case speaking as himself.
 
@@ -62,7 +62,29 @@ Then ask the user which one to make (use AskQuestion with the 3 titles), plus an
 
 ## Phase 2: Produce
 
-### 1. Check the crop
+### 1. Raw cut for review (STOP for approval)
+
+```bash
+./binlore clips make <episode-date> --start 1:22:24 --end 1:23:05 --slug durf-dating-advice --raw
+```
+
+This downloads the window, detects shots, transcribes it with word timestamps, writes `raw.mp4` (the uncropped 16:9 window, exactly the in and out points the final clip will use), and prints the transcript with times. It does no cropping, captions, watermark or end card.
+
+Before showing it to the user:
+
+- Make the hook start within about 0.6 seconds (shift `--start`).
+- End about 0.3 to 0.6 seconds after the punchline's last word, before the next word starts.
+- Check that the tail is not mid-word. Whisper's timings drift by up to a second near cut edges, and it can pin a word that isn't audible to the last second of the clip. Confirm against the audio level:
+
+  ```bash
+  ffmpeg -loglevel error -sseof -2.5 -i raw.mp4 -vn -ac 1 -ar 1000 -f s16le - | python3 -c "import sys,array,math;a=array.array('h',sys.stdin.buffer.read());print(''.join(str(min(9,int(math.sqrt(sum(x*x for x in a[i:i+100])/100)/400))) for i in range(0,len(a)-99,100)))"
+  ```
+
+  This prints one digit per 0.1 seconds, from 0 (silence) to 9 (loud).
+
+Then report the path to `raw.mp4`, its length, the first and last caption lines, and `shots.jpg`. Ask the user to watch it and approve or give new in and out points. **Do not crop or render until they approve.** Re-running `--raw` with new times re-slices; it's cheap.
+
+### 2. Check the crop
 
 The vertical clip is a 9:16 window cut from the 16:9 stream. `--crop-x` is the window's horizontal center as a fraction of the frame width: `0.5` is centered, lower moves left. On the main desk shot, the chat overlay sits on the right, and values around `0.45` to `0.5` frame the on-camera character without it. Other sets differ: on Trip on the Street the park-goer stands at about `0.36` and Trip at about `0.62`.
 
@@ -78,7 +100,9 @@ Two-character bits (Trip on the Street, debates, interviews) cut between speaker
 --crop-x "0.36,4.93=0.62,14.17=0.36,26.70=0.62"
 ```
 
-### 2. Render
+### 3. Render
+
+Run the same command as the raw cut, with the same `--start` and `--end` and without `--raw`, so the cached slice and transcript are reused:
 
 ```bash
 ./binlore clips make <episode-date> \
@@ -100,13 +124,16 @@ Two-character bits (Trip on the Street, debates, interviews) cut between speaker
 
 Network access is needed for the download (run the command with full permissions).
 
-### 3. Review
+Every render regenerates `post.md` from the title and hook, which overwrites hand-polished copy. Copy `post.md` aside before re-rendering a polished clip and restore it afterwards. Keep the new `Window` line, and re-read the copy against the new cut, since trimmed lines must not be quoted.
+
+### 4. Review
 
 Output goes to `tools/clips/<date>-<slug>/`:
 
 | File | Purpose |
 | --- | --- |
 | `clip.mp4` | Final 1080x1920 H.264/AAC upload file |
+| `raw.mp4` | Uncropped 16:9 cut from the `--raw` review step |
 | `thumbnail.jpg` | Cover frame (change with `--thumb-at <seconds>`) |
 | `captions.srt` | Plain captions, for platforms that accept a caption file |
 | `shots.jpg` | One frame per detected shot, for building a crop schedule |
