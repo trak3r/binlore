@@ -238,16 +238,18 @@ The account is the fan account **@binlore.wiki** (signed in to the user's Chrome
 
 ### Steps
 
-1. Open `https://www.tiktok.com/tiktokstudio/upload`, click Select video, and enter the absolute path of `clip.mp4` in the file picker (same trick as YouTube). Dismiss any "Got it" tips.
-2. Set **Who can see this post** to Only you first (see the dropdown trick below), and confirm it with a screenshot before touching anything else.
-3. Replace the description (it defaults to the file name, `clip`) with the TikTok caption.
-4. Set the cover, click Show more, and check the toggles in the table.
+1. Open the upload page with the red upload button at the top of the Studio sidebar (`https://www.tiktok.com/tiktokstudio/upload`), click Select video, and enter the absolute path of `clip.mp4` in the file picker (same trick as YouTube). Dismiss any "Got it" tips.
+2. Replace the description (it defaults to the file name, `clip`) with the TikTok caption.
+3. Set **Who can see this post** to Only you (see the dropdown trick below), and confirm it with a screenshot.
+4. Set the cover, click Show more, and check the toggles in the table. Confirm Only you is still selected.
 5. Scroll to the bottom and click **Post**. Studio opens `https://www.tiktok.com/tiktokstudio/content`, where the new row shows "Only me" and "Content under review" for a few minutes.
 6. Read the post URL from that row with `computer_app_state`: the description is a link to `https://www.tiktok.com/@binlore.wiki/video/<id>`. Report it and remind the user the post is Only you.
 
 ### TikTok field tricks
 
-- **Who can see this post:** computer-use clicks on this dropdown go to its text label and never open it, whether you click the text, the arrow, or the padding. Click a blank part of the page just above it (next to "Who can see this post"), send one Tab through System Events (the focus border appears on the dropdown), then Space to open it, and click "Only you" in the list.
-- **Description:** a computer-use click in the box does focus it. Then Cmd+A and Cmd+V through System Events. A hashtag suggestion list opens under the last tag; click a blank part of the page to close it without picking one.
+- **Who can see this post:** computer-use clicks on this dropdown go to its text label and never open it, whether you click the text, the arrow, or the padding. Open it from the keyboard instead: get focus into the page just above it, then send Tab through System Events one key at a time, screenshotting after each, until the dropdown shows a dark focus border. Then press Space to open it and click "Only you". The order is description, two invisible stops, the Location box (it gets a border), one or two invisible stops for the When-to-post radios, then the dropdown. Never press Space until the border is on the dropdown: with focus in the description it types a space. Blank-page clicks don't reliably set the starting point (Tab sometimes jumps to the sidebar), so start right after pasting the caption, while focus is still in the description.
+- **Description:** while it still reads `clip`, a computer-use click in the box focuses it. Once it has text, clicks go to the text label and don't focus it. Then Cmd+A and Cmd+V through System Events, in one script that checks Chrome is frontmost (the first paste after a click sometimes doesn't land; check the character counter). A hashtag suggestion list opens under the last tag; click a blank part of the page to close it without picking one.
 - **Cover:** Edit cover opens a dialog with a frame strip and an Upload cover button that opens the macOS picker. After the image loads, click Save (top right). The profile preview crops it to 4:3.
-- Screenshots are reliable here, but the page scrolls itself after dialogs close; take a fresh screenshot before every click.
+- **File picker timing:** the picker can take 2 to 3 seconds to open. Screenshot to confirm it is open before sending Cmd+Shift+G. If the path sheet is still showing after the script, press Return once more. The "Go to" suggestion can lag a screenshot behind the typed path.
+- **Auto-review:** clicks on Select video and Post may be blocked; retry the same click with approval.
+- Screenshots lag about a second, and the page scrolls itself after dialogs close; take a fresh screenshot before every click.
