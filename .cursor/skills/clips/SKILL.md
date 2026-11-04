@@ -1,6 +1,6 @@
 ---
 name: clips
-description: Find highlight-worthy moments in the latest processed Barely Informed News episode and turn the chosen one into a ready-to-post vertical short (TikTok, Instagram Reels, YouTube Shorts), and publish it to the BIN Lore YouTube channel (Unlisted) or TikTok account (Only you) when asked. Use when the user types /clips, or asks for clips, highlights, reels, or shorts from an episode.
+description: Find highlight-worthy moments in the latest processed Barely Informed News episode and turn the chosen one into a ready-to-post vertical short (TikTok, Instagram Reels, YouTube Shorts), and publish it to the BIN Lore YouTube channel (Public) or TikTok account (Everyone) when asked, then add it to the wiki's Clips sections. Use when the user types /clips, or asks for clips, highlights, reels, or shorts from an episode.
 ---
 
 # Clips (Highlights / Reels / Shorts)
@@ -10,7 +10,7 @@ Two phases, with two user decisions:
 1. **Propose**: read the latest episode, pitch exactly 3 candidate highlights with clickable VOD timestamp links, then STOP and wait for the user to pick.
 2. **Produce**: cut the raw window (`clips make --raw`), then STOP and get the user's approval of the in and out points. Only then preview the 9:16 crop, render with `./binlore clips make`, polish `post.md`, and report the output folder.
 
-Distribution is manual by default: the user uploads the files. Only post when the user explicitly asks you to (see Phases 3 and 4), and then **always upload YouTube Shorts as Unlisted, never Public, and TikToks as Only you, never Everyone or Friends**. The user makes clips public themselves.
+Distribution is manual by default: the user uploads the files. Only post when the user explicitly asks you to (see Phases 3 and 4), and then **upload YouTube Shorts as Public and TikToks as Everyone**. After every publish, record the clip on the wiki (see "Wiki sync" at the end). Clips posted before Nov 4, 2026 went up as Unlisted or Only you; the user flips those themselves.
 
 These are fan clips of someone else's show. Keep the fan-clip branding and the "Not affiliated with the show" line in post copy.
 
@@ -157,7 +157,7 @@ The channel is the fan channel **BIN Lore** (binlorewiki@gmail.com), signed in t
 
 | Field | Value |
 | --- | --- |
-| Visibility | **Unlisted** (the user flips it to Public) |
+| Visibility | **Public** |
 | Title | YouTube Shorts title from `post.md` (ends in `#Shorts`, 100 characters max) |
 | Description | YouTube description block from `post.md` |
 | Thumbnail | `tools/clips/<date>-<slug>/thumbnail.jpg` |
@@ -177,9 +177,9 @@ Leave the external-links "one-time verification" notice alone; it can stay even 
 
 1. Open `https://studio.youtube.com` and click Create > Upload videos, then select `clip.mp4` (the file dialog trick below works here too).
 2. On the Details page, set title, description and thumbnail ("Upload file"), answer the audience question, then click **Show more** and set paid promotion, AI disclosure, tags, both languages, caption certification and recording date.
-3. Click through Video elements and Checks, choose **Unlisted**, and Save.
+3. Click through Video elements and Checks, choose **Public**, and Save.
 4. Edit an existing video at `https://studio.youtube.com/video/<id>/edit`. Click **Save** (top right) after each group of changes and confirm the "Changes saved" toast before moving on. An accidental page reload discards anything unsaved.
-5. Report the video id and Studio link, and remind the user it is Unlisted.
+5. Report the video id and Studio link, then run the wiki sync.
 
 ### Driving Chrome
 
@@ -224,10 +224,10 @@ The account is the fan account **@binlore.wiki** (signed in to the user's Chrome
 
 | Field | Value |
 | --- | --- |
-| Who can see this post | **Only you** (the content list calls it "Only me"; the user flips it to Everyone) |
+| Who can see this post | **Everyone** (the default) |
 | Description | TikTok block from `post.md` (no URLs) |
 | Cover | Edit cover > Upload cover > `tools/clips/<date>-<slug>/thumbnail.jpg` |
-| When to post | Now (scheduling is disabled for private posts) |
+| When to post | Now |
 | Location | Empty |
 | Allow users to | Comment and Reuse of content, both left checked |
 | Disclose post content | Off |
@@ -240,16 +240,27 @@ The account is the fan account **@binlore.wiki** (signed in to the user's Chrome
 
 1. Open the upload page with the red upload button at the top of the Studio sidebar (`https://www.tiktok.com/tiktokstudio/upload`), click Select video, and enter the absolute path of `clip.mp4` in the file picker (same trick as YouTube). Dismiss any "Got it" tips.
 2. Replace the description (it defaults to the file name, `clip`) with the TikTok caption.
-3. Set **Who can see this post** to Only you (see the dropdown trick below), and confirm it with a screenshot.
-4. Set the cover, click Show more, and check the toggles in the table. Confirm Only you is still selected.
-5. Scroll to the bottom and click **Post**. Studio opens `https://www.tiktok.com/tiktokstudio/content`, where the new row shows "Only me" and "Content under review" for a few minutes.
-6. Read the post URL from that row with `computer_app_state`: the description is a link to `https://www.tiktok.com/@binlore.wiki/video/<id>`. Report it and remind the user the post is Only you.
+3. Confirm with a screenshot that **Who can see this post** reads Everyone. If it doesn't, change it with the dropdown trick below.
+4. Set the cover, click Show more, and check the toggles in the table.
+5. Scroll to the bottom and click **Post**. Studio opens `https://www.tiktok.com/tiktokstudio/content`, where the new row shows "Everyone" and "Content under review" for a few minutes.
+6. Read the post URL from that row with `computer_app_state`: the description is a link to `https://www.tiktok.com/@binlore.wiki/video/<id>`. Report it, then run the wiki sync.
 
 ### TikTok field tricks
 
-- **Who can see this post:** computer-use clicks on this dropdown go to its text label and never open it, whether you click the text, the arrow, or the padding. Open it from the keyboard instead: get focus into the page just above it, then send Tab through System Events one key at a time, screenshotting after each, until the dropdown shows a dark focus border. Then press Space to open it and click "Only you". The order is description, two invisible stops, the Location box (it gets a border), one or two invisible stops for the When-to-post radios, then the dropdown. Never press Space until the border is on the dropdown: with focus in the description it types a space. Blank-page clicks don't reliably set the starting point (Tab sometimes jumps to the sidebar), so start right after pasting the caption, while focus is still in the description.
+- **Who can see this post:** it defaults to Everyone, so normally leave it alone. To change it, note that computer-use clicks on this dropdown go to its text label and never open it, whether you click the text, the arrow, or the padding. Open it from the keyboard instead: get focus into the page just above it, then send Tab through System Events one key at a time, screenshotting after each, until the dropdown shows a dark focus border. Then press Space to open it and click the option you need. The order is description, two invisible stops, the Location box (it gets a border), one or two invisible stops for the When-to-post radios, then the dropdown. Never press Space until the border is on the dropdown: with focus in the description it types a space. Blank-page clicks don't reliably set the starting point (Tab sometimes jumps to the sidebar), so start right after pasting the caption, while focus is still in the description.
 - **Description:** while it still reads `clip`, a computer-use click in the box focuses it. Once it has text, clicks go to the text label and don't focus it. Then Cmd+A and Cmd+V through System Events, in one script that checks Chrome is frontmost (the first paste after a click sometimes doesn't land; check the character counter). A hashtag suggestion list opens under the last tag; press Escape to close it without picking one, which keeps focus in the description for the Tab route to the visibility dropdown (about six Tabs).
 - **Cover:** Edit cover opens a dialog with a frame strip and an Upload cover button that opens the macOS picker. After the image loads, click Save (top right). The profile preview crops it to 4:3.
 - **File picker timing:** the picker can take 2 to 3 seconds to open. Screenshot to confirm it is open before sending Cmd+Shift+G. If the path sheet is still showing after the script, press Return once more. The "Go to" suggestion can lag a screenshot behind the typed path.
 - **Auto-review:** clicks on Select video and Post may be blocked; retry the same click with approval.
 - Screenshots lag about a second, and the page scrolls itself after dialogs close; take a fresh screenshot before every click.
+
+## Wiki sync (after every publish)
+
+Published clips are listed in `data/clips.json`, which is tracked in git (the clip folders are not). `./binlore sync-clips` turns it into a generated `## Clips` section, with an embedded vertical Short plus YouTube and TikTok links, on the episode page and on every `characters/*` page in the clip's `wiki` list.
+
+1. Add the clip to `data/clips.json`, or update its entry if it is already there. Copy `slug`, `episode`, `title` and `wiki` from the clip's `meta.json`, then set `youtube` (the video id), `tiktok` (the post id) and `tiktok_public`. A clip goes in once it has a YouTube id, because the Short embed is the centerpiece of its wiki entry.
+2. `tiktok_public` controls the TikTok link, which only appears when it is `true`, so the wiki never links to a private post. Set it to `true` for posts made as Everyone. When the user flips an old Only-you post, set it to `true` and sync again.
+3. Run `./binlore sync-clips`. Then run it again: the second run must report 0 pages updated.
+4. Commit `data/clips.json` and the changed pages on main. Push only when asked.
+
+Never hand-edit the generated section between the `clips:start` and `clips:end` markers. Re-extracting an episode rewrites its page, so run `./binlore sync-clips` again afterwards.

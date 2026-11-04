@@ -449,6 +449,17 @@ def cmd_normalize_character_links(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_sync_clips(args: argparse.Namespace) -> int:
+    from .clips import sync_clips
+    from .paths import REPO_ROOT
+
+    changed = sync_clips(dry_run=args.dry_run)
+    for path in changed:
+        print(f"  {'~' if args.dry_run else '✓'} {path.relative_to(REPO_ROOT)}")
+    print(f"{len(changed)} page(s) {'would change' if args.dry_run else 'updated'}")
+    return 0
+
+
 def cmd_schedule_report(args: argparse.Namespace) -> int:
     from .paths import REPO_ROOT
     from .schedule_report import DATA_PATH, PAGE_PATH, write_report
@@ -982,6 +993,13 @@ def build_parser() -> argparse.ArgumentParser:
     )
     ncl.add_argument("--dry-run", action="store_true", help="List pages that would change without writing")
     ncl.set_defaults(func=cmd_normalize_character_links)
+
+    sync = sub.add_parser(
+        "sync-clips",
+        help="Write the Clips section (Short embeds, public TikTok links) into episode and character pages from data/clips.json",
+    )
+    sync.add_argument("--dry-run", action="store_true", help="List pages that would change without writing")
+    sync.set_defaults(func=cmd_sync_clips)
 
     return p
 

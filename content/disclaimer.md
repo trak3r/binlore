@@ -17,6 +17,7 @@ BIN Lore is an unofficial community project created and maintained entirely by f
 - *Barely Informed News*
 - Twitch Interactive, Inc. or Amazon.com, Inc.
 - YouTube or Alphabet Inc.
+- TikTok or ByteDance Ltd.
 
 Any views, opinions, or satirical representations expressed across this wiki do not reflect those of Case Blackwell or the aforementioned entities.
 
@@ -32,6 +33,10 @@ Their use on this wiki is conducted strictly under the **Fair Use doctrine of Un
 - **Archival and Educational Research:** Indexing broadcast dates, segment structures, and timeline developments.
 - **Transformative Fan Documentation:** Organizing public broadcast lore into an accessible, searchable encyclopedia.
 
+### Fan Clip Channels
+
+Short highlight clips embedded on episode and character pages are cut by BIN Lore and posted to its fan channels on [YouTube](https://www.youtube.com/channel/UCuiEeDV0bv5WS4FlpIdD_5Q) and [TikTok (`@binlore.wiki`)](https://www.tiktok.com/@binlore.wiki). These channels are unofficial and not monetized, and every clip is labeled as a fan clip.
+
 ---
 
 ## 3. Non-Commercial Operation
@@ -40,7 +45,7 @@ BIN Lore is operated on a 100% non-commercial, non-profit basis:
 
 - No advertisements are served.
 - No paywalls, subscriptions, or premium access tiers exist.
-- No revenue is generated from the display of copyrighted or trademarked material.
+- No revenue is generated from the display of copyrighted or trademarked material, including on the fan clip channels.
 - The optional tip link (Buy Me a Coffee) serves solely as voluntary community support for server hosting and open-source development costs.
 
 ---
