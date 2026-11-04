@@ -1,6 +1,6 @@
 ---
 name: clips
-description: Find highlight-worthy moments in the latest processed Barely Informed News episode and turn the chosen one into a ready-to-post vertical short (TikTok, Instagram Reels, YouTube Shorts), and publish it unlisted to the BIN Lore YouTube channel when asked. Use when the user types /clips, or asks for clips, highlights, reels, or shorts from an episode.
+description: Find highlight-worthy moments in the latest processed Barely Informed News episode and turn the chosen one into a ready-to-post vertical short (TikTok, Instagram Reels, YouTube Shorts), and publish it to the BIN Lore YouTube channel (Unlisted) or TikTok account (Only you) when asked. Use when the user types /clips, or asks for clips, highlights, reels, or shorts from an episode.
 ---
 
 # Clips (Highlights / Reels / Shorts)
@@ -10,7 +10,7 @@ Two phases, with two user decisions:
 1. **Propose**: read the latest episode, pitch exactly 3 candidate highlights with clickable VOD timestamp links, then STOP and wait for the user to pick.
 2. **Produce**: cut the raw window (`clips make --raw`), then STOP and get the user's approval of the in and out points. Only then preview the 9:16 crop, render with `./binlore clips make`, polish `post.md`, and report the output folder.
 
-Distribution is manual by default: the user uploads the files. Only post when the user explicitly asks you to (see Phase 3), and then **always upload as Unlisted, never Public**. The user makes clips public themselves.
+Distribution is manual by default: the user uploads the files. Only post when the user explicitly asks you to (see Phases 3 and 4), and then **always upload YouTube Shorts as Unlisted, never Public, and TikToks as Only you, never Everyone or Friends**. The user makes clips public themselves.
 
 These are fan clips of someone else's show. Keep the fan-clip branding and the "Not affiliated with the show" line in post copy.
 
@@ -146,7 +146,7 @@ Then:
 1. Check the timing in `captions.srt`. The first caption (the hook) should start within about 0.6 seconds, and the last should be the payoff. If not, shift `--start`/`--end` by the difference and re-run.
 2. Extract frames from `clip.mp4` with ffmpeg (one per shot when there's a crop schedule) and look at them to confirm framing and caption legibility.
 3. Read `captions.srt` against the transcript. Whisper mishears character names, so fix obvious errors and re-run with `--fix "wrong=>right"` (repeatable; the transcript is reused).
-4. Polish `post.md`: the YouTube Shorts title must stay at 100 characters or fewer and keep `#Shorts`. Write the TikTok and Reels captions in the show's voice.
+4. Polish `post.md`: the YouTube Shorts title must stay at 100 characters or fewer and keep `#Shorts`. Write the TikTok and Reels captions in the show's voice. Keep URLs out of the TikTok caption: links in TikTok captions aren't clickable, so it is just the hook, `(fan clip)` and hashtags.
 5. Report the output folder path, the clip length, and the thumbnail (embed it as an image) to the user.
 
 `tools/clips/` is gitignored except `tools/clips/assets/`. Never commit rendered clips.
@@ -217,3 +217,37 @@ The user has declined "Allow JavaScript from Apple Events", so Studio is driven 
 - **Language dropdowns:** typing a name does not jump the list. Open the dropdown and click "English (United States)". If the list opens at the top instead of near "English", scroll it with `computer_scroll` (at most 20 per call; about 46 steps reach English).
 - **Caption certification:** open the dropdown and click the second option, "This content has never aired on television in the U.S."
 - **Recording date:** open the picker and click the day in the calendar. Never type into the date field: typing a date and pressing Return reloaded the page and lost unsaved changes.
+
+## Phase 4: Publish to TikTok (only when asked)
+
+The account is the fan account **@binlore.wiki** (signed in to the user's Chrome), uploaded through TikTok Studio on the web. The first post is Chet `7704398113158548749`.
+
+| Field | Value |
+| --- | --- |
+| Who can see this post | **Only you** (the content list calls it "Only me"; the user flips it to Everyone) |
+| Description | TikTok block from `post.md` (no URLs) |
+| Cover | Edit cover > Upload cover > `tools/clips/<date>-<slug>/thumbnail.jpg` |
+| When to post | Now (scheduling is disabled for private posts) |
+| Location | Empty |
+| Allow users to | Comment and Reuse of content, both left checked |
+| Disclose post content | Off |
+| AI-generated content | Off |
+| Audience control | Off |
+| Content check lite | On (it reports "No issues found") |
+| High-quality uploads, music copyright check | Leave the defaults |
+
+### Steps
+
+1. Open `https://www.tiktok.com/tiktokstudio/upload`, click Select video, and enter the absolute path of `clip.mp4` in the file picker (same trick as YouTube). Dismiss any "Got it" tips.
+2. Set **Who can see this post** to Only you first (see the dropdown trick below), and confirm it with a screenshot before touching anything else.
+3. Replace the description (it defaults to the file name, `clip`) with the TikTok caption.
+4. Set the cover, click Show more, and check the toggles in the table.
+5. Scroll to the bottom and click **Post**. Studio opens `https://www.tiktok.com/tiktokstudio/content`, where the new row shows "Only me" and "Content under review" for a few minutes.
+6. Read the post URL from that row with `computer_app_state`: the description is a link to `https://www.tiktok.com/@binlore.wiki/video/<id>`. Report it and remind the user the post is Only you.
+
+### TikTok field tricks
+
+- **Who can see this post:** computer-use clicks on this dropdown go to its text label and never open it, whether you click the text, the arrow, or the padding. Click a blank part of the page just above it (next to "Who can see this post"), send one Tab through System Events (the focus border appears on the dropdown), then Space to open it, and click "Only you" in the list.
+- **Description:** a computer-use click in the box does focus it. Then Cmd+A and Cmd+V through System Events. A hashtag suggestion list opens under the last tag; click a blank part of the page to close it without picking one.
+- **Cover:** Edit cover opens a dialog with a frame strip and an Upload cover button that opens the macOS picker. After the image loads, click Save (top right). The profile preview crops it to 4:3.
+- Screenshots are reliable here, but the page scrolls itself after dialogs close; take a fresh screenshot before every click.
