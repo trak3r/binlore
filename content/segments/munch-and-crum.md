@@ -16,7 +16,7 @@ tags:
 
 # Munch & Crum
 
-![Munch & Crum](https://github.com/trak3r/binlore/releases/download/media-assets/debate.jpg)
+![Munch & Crum](https://github.com/trak3r/binlore/releases/download/media-assets/munch-and-crum.jpg)
 
 The flagship political debate desk on *Barely Informed News*, featuring fiery head-to-head clashes between senior debate analysts [[../characters/munch|Ralph Munchcut]] and [[../characters/crum|Crum]].
 
