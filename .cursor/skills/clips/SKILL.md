@@ -5,10 +5,10 @@ description: Find highlight-worthy moments in the latest processed Barely Inform
 
 # Clips (Highlights / Reels / Shorts)
 
-Two phases, with two user decisions:
+Two phases, with one user decision:
 
-1. **Propose**: read the latest episode, pitch exactly 3 candidate highlights, each with a YouTube link that lands on its hook (from `./binlore clips links`), then STOP and wait for the user to watch them and pick.
-2. **Produce**: cut the raw window (`clips make --raw`), then STOP and get the user's approval of the in and out points. Only then preview the 9:16 crop, render with `./binlore clips make`, polish `post.md`, and report the output folder.
+1. **Propose**: read the latest episode, pitch exactly 3 candidate highlights, each with a YouTube link that lands on its hook (from `./binlore clips links`), then STOP and wait for the user to watch them and pick. Watching the candidate on YouTube is the user's review of the raw footage.
+2. **Produce**: cut and tighten the window (`clips make --raw`), preview the 9:16 crop, render with `./binlore clips make`, polish `post.md`, and report the output folder. Only stop for the user to approve the raw cut when Phase 1 could not give exact YouTube links (see "Raw cut and timing").
 
 Distribution is manual by default: the user uploads the files. Only post when the user explicitly asks you to (see Phases 3 and 4), and then **upload YouTube Shorts as Public and TikToks as Everyone**. After every publish, record the clip on the wiki (see "Wiki sync" at the end). Before stating a post's visibility, check it in Studio; the user changes visibility themselves.
 
@@ -70,7 +70,7 @@ Then ask the user which one to make (use AskQuestion with the 3 titles), plus an
 
 ## Phase 2: Produce
 
-### 1. Raw cut for review (STOP for approval)
+### 1. Raw cut and timing
 
 ```bash
 ./binlore clips make <episode-date> --start 1:22:24 --end 1:23:05 --slug durf-dating-advice --raw
@@ -78,7 +78,7 @@ Then ask the user which one to make (use AskQuestion with the 3 titles), plus an
 
 This downloads the window, detects shots, transcribes it with word timestamps, writes `raw.mp4` (the uncropped 16:9 window, exactly the in and out points the final clip will use), and prints the transcript with times. It does no cropping, captions, watermark or end card.
 
-Before showing it to the user:
+Use it to tighten the in and out points:
 
 - Make the hook start within about 0.6 seconds (shift `--start`).
 - End about 0.3 to 0.6 seconds after the punchline's last word, before the next word starts.
@@ -90,7 +90,10 @@ Before showing it to the user:
 
   This prints one digit per 0.1 seconds, from 0 (silence) to 9 (loud).
 
-Then report the path to `raw.mp4`, its length, the first and last caption lines, and `shots.jpg`. Ask the user to watch it and approve or give new in and out points. **Do not crop or render until they approve.** Re-running `--raw` with new times re-slices; it's cheap.
+Re-running `--raw` with new times re-slices; it's cheap. Then:
+
+- **The candidates had exact YouTube links** (labelled "YouTube", not "YouTube (approx.)"): the user has already watched the moment, so don't stop. Go straight to the crop check and render, and include the final in and out points in the report.
+- **The links were approximate or Twitch-only**, or the user asked to see the raw cut: STOP. Report the path to `raw.mp4`, its length, the first and last caption lines, and `shots.jpg`, and ask the user to approve or give new in and out points. Do not crop or render until they approve.
 
 ### 2. Check the crop
 
@@ -141,7 +144,7 @@ Output goes to `tools/clips/<date>-<slug>/`:
 | File | Purpose |
 | --- | --- |
 | `clip.mp4` | Final 1080x1920 H.264/AAC upload file |
-| `raw.mp4` | Uncropped 16:9 cut from the `--raw` review step |
+| `raw.mp4` | Uncropped 16:9 cut from the `--raw` step |
 | `thumbnail.jpg` | Cover frame (change with `--thumb-at <seconds>`) |
 | `captions.srt` | Plain captions, for platforms that accept a caption file |
 | `shots.jpg` | One frame per detected shot, for building a crop schedule |
