@@ -495,7 +495,6 @@ OFFSET_AT = 1800.0  # Twitch position sampled to align the two copies
 OFFSET_SAMPLE = 20.0  # seconds of Twitch audio matched against YouTube
 OFFSET_SEARCH = 60.0  # how far either way the YouTube copy may drift
 OFFSET_RATE = 8000
-UNMEASURED_PREROLL = 20.0  # extra lead on YouTube links while the offset is unknown (seen up to ~15s)
 
 
 def _norm_title(title: str) -> str:
@@ -592,12 +591,11 @@ def watch_links(target: str | None, windows: list[str], *, preroll: float = 2.0,
     """Markdown watch links for ``start-end`` windows on the Twitch timeline."""
     ep = resolve_episode(target)
     has_yt = ensure_youtube(ep, remeasure=remeasure)
-    yt_label, yt_preroll = "YouTube", preroll
+    show_yt = has_yt and not (ep.yt_offset is None and ep.twitch_id)
     if not has_yt:
         print("No YouTube copy on the archive channel yet; Twitch links only.", flush=True)
-    elif ep.yt_offset is None and ep.twitch_id:
-        yt_label, yt_preroll = "YouTube (approx.)", preroll + UNMEASURED_PREROLL
-        print(f"YouTube {ep.yt_id}, offset unknown: YouTube links start {yt_preroll:.0f}s early.", flush=True)
+    elif not show_yt:
+        print(f"YouTube {ep.yt_id} is still processing, so its offset is unknown; Twitch links only (they are exact).", flush=True)
     else:
         print(f"YouTube {ep.yt_id}, offset {ep.yt_offset or 0:+.2f}s (YouTube = Twitch - offset)", flush=True)
     lines = []
@@ -605,8 +603,8 @@ def watch_links(target: str | None, windows: list[str], *, preroll: float = 2.0,
         start_s, end_s = (parse_ts(p) for p in window.split("-", 1))
         at = max(0.0, start_s - preroll)
         links = []
-        if ep.yt_url:
-            links.append(f"[{yt_label} @ {fmt_hms(start_s)}]({ep.yt_link(max(0.0, start_s - yt_preroll))})")
+        if show_yt:
+            links.append(f"[YouTube @ {fmt_hms(start_s)}]({ep.yt_link(at)})")
         if ep.twitch_url:
             links.append(f"[Twitch @ {fmt_hms(start_s)}]({ep.twitch_link(at)})")
         lines.append(f"{fmt_hms(start_s)} → {fmt_hms(end_s)} ({end_s - start_s:.0f}s): " + " · ".join(links))

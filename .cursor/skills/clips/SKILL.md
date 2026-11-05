@@ -7,8 +7,8 @@ description: Find highlight-worthy moments in the latest processed Barely Inform
 
 Two phases, with one user decision:
 
-1. **Propose**: read the latest episode, pitch exactly 3 candidate highlights, each with a YouTube link that lands on its hook (from `./binlore clips links`), then STOP and wait for the user to watch them and pick. Watching the candidate on YouTube is the user's review of the raw footage.
-2. **Produce**: cut and tighten the window (`clips make --raw`), preview the 9:16 crop, render with `./binlore clips make`, polish `post.md`, and report the output folder. Only stop for the user to approve the raw cut when Phase 1 could not give exact YouTube links (see "Raw cut and timing").
+1. **Propose**: read the latest episode, pitch exactly 3 candidate highlights, each with a link that lands on its hook (from `./binlore clips links`: YouTube, or Twitch while the YouTube copy is still processing), then STOP and wait for the user to watch them and pick. Watching the candidate on YouTube is the user's review of the raw footage.
+2. **Produce**: cut and tighten the window (`clips make --raw`), preview the 9:16 crop, render with `./binlore clips make`, polish `post.md`, and report the output folder. Only stop for the user to approve the raw cut if they ask to see it (see "Raw cut and timing").
 
 Distribution is manual by default: the user uploads the files. Only post when the user explicitly asks you to (see Phases 3 and 4), and then **upload YouTube Shorts as Public and TikToks as Everyone**. After every publish, record the clip on the wiki (see "Wiki sync" at the end). Before stating a post's visibility, check it in Studio; the user changes visibility themselves.
 
@@ -63,7 +63,7 @@ The user watches each candidate straight from the YouTube link before picking, s
 
 - Windows are on the Twitch timeline (the transcript's times). The YouTube archive copy (`@CaseBlackwellStreams`, Streams tab) usually runs several seconds behind Twitch: 14.5 seconds on 2026-11-04, so a Twitch time reused on YouTube skips the hook. The command finds the YouTube copy by title, measures the offset by matching audio (about a minute, once per episode), caches `yt_id` and `yt_offset` in `tools/youtube_catalog.json`, and prints both links starting 2 seconds early. Commit the catalog change with the clip work.
 - The offset differs per episode (0 seconds on 2026-11-03, 14.5 on 2026-11-04), so never reuse another episode's.
-- Right after a stream, the YouTube copy can exist but still be processing, so its audio can't be read. The command then labels the links "YouTube (approx.)" and starts them 22 seconds early so the hook isn't skipped; say so when presenting, and re-run later to get exact links. If there is no YouTube copy at all yet, give Twitch links only and say so.
+- Right after a stream (for most of the next day), the YouTube copy can exist but still be processing, so its audio can't be read and the offset is unknown. The command then prints Twitch links only: they are on the transcript's own timeline, so they are exact. Say so when presenting; re-running later adds exact YouTube links. Never fall back to guessed YouTube times: a link that starts 20 seconds early is as useless to the user as one that skips the hook.
 - Twitch VODs expire after a few weeks; for old episodes the YouTube link is the only one that works.
 
 Then ask the user which one to make (use AskQuestion with the 3 titles), plus an option to adjust the timing. Do not render anything before they choose.
@@ -92,8 +92,8 @@ Use it to tighten the in and out points:
 
 Re-running `--raw` with new times re-slices; it's cheap. Then:
 
-- **The candidates had exact YouTube links** (labelled "YouTube", not "YouTube (approx.)"): the user has already watched the moment, so don't stop. Go straight to the crop check and render, and include the final in and out points in the report.
-- **The links were approximate or Twitch-only**, or the user asked to see the raw cut: STOP. Report the path to `raw.mp4`, its length, the first and last caption lines, and `shots.jpg`, and ask the user to approve or give new in and out points. Do not crop or render until they approve.
+- **Normally** the user has already watched the moment from the candidate links (YouTube, or Twitch while YouTube is processing), so don't stop. Go straight to the crop check and render, and include the final in and out points in the report.
+- **Only if the user asks to see the raw cut**: STOP. Report the path to `raw.mp4`, its length, the first and last caption lines, and `shots.jpg`, and ask the user to approve or give new in and out points. Do not crop or render until they approve.
 
 ### 2. Check the crop
 
