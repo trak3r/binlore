@@ -349,12 +349,33 @@ def resolve_vod(url_or_latest: str | None, *, latest: bool) -> Vod:
     )
 
 
+def catalog_yt_id(entry: dict[str, Any]) -> str:
+    """YouTube video ID for a catalog entry, or "" if its YouTube copy isn't matched yet.
+
+    Twitch-era entries use the Twitch ID as `id`, so `id` only counts as a YouTube ID
+    when it differs from `twitch_id`.
+    """
+    if entry.get("yt_id"):
+        return str(entry["yt_id"])
+    entry_id = str(entry.get("id") or "")
+    if entry_id and entry_id != str(entry.get("twitch_id") or ""):
+        return entry_id
+    return ""
+
+
+def catalog_yt_url(entry: dict[str, Any]) -> str:
+    yt_id = catalog_yt_id(entry)
+    if entry.get("yt_url") and yt_id:
+        return str(entry["yt_url"])
+    return f"https://www.youtube.com/watch?v={yt_id}" if yt_id else ""
+
+
 def vod_from_catalog_entry(entry: dict[str, Any], *, prefer_source: str = "twitch") -> Vod:
     """Build a Vod dataclass directly from a youtube_catalog.json entry."""
     twitch_id = entry.get("twitch_id")
     twitch_url = entry.get("twitch_url")
-    yt_id = entry.get("yt_id") or entry.get("id")
-    yt_url = entry.get("yt_url") or (f"https://www.youtube.com/watch?v={yt_id}" if yt_id else "")
+    yt_id = catalog_yt_id(entry)
+    yt_url = catalog_yt_url(entry)
 
     if prefer_source == "twitch" and twitch_url:
         vid = str(twitch_id)

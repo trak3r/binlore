@@ -20,6 +20,8 @@ from .paths import CATALOG_JSON, CONTENT_EPISODES, REPO_ROOT, RUNS_DIR, TOOLS_RO
 from .vods import (
     Vod,
     YoutubeBotCheckError,
+    catalog_yt_id,
+    catalog_yt_url,
     format_duration,
     vod_from_catalog_entry,
     wait_for_youtube_clear,
@@ -280,8 +282,8 @@ def process_single_episode(
 
     s_date = stream.get("date") or "unknown-date"
     s_title = stream.get("title") or "(untitled)"
-    yt_id = stream.get("yt_id") or stream.get("id") or ""
-    yt_url = stream.get("yt_url") or (f"https://www.youtube.com/watch?v={yt_id}" if yt_id else "")
+    yt_id = catalog_yt_id(stream)
+    yt_url = catalog_yt_url(stream)
     twitch_id = str(stream.get("twitch_id") or "") if stream.get("twitch_id") else None
     twitch_url = stream.get("twitch_url")
 
@@ -294,7 +296,7 @@ def process_single_episode(
 
     # 2. Check if a completed transcript already exists in tools/runs/
     target_vod_id = twitch_id or yt_id
-    candidate_dirs = [d for d in [RUNS_DIR / target_vod_id, RUNS_DIR / yt_id] if d.exists()]
+    candidate_dirs = [RUNS_DIR / i for i in (target_vod_id, yt_id) if i and (RUNS_DIR / i).exists()]
     existing_run_dir: Path | None = None
     for c_dir in candidate_dirs:
         if (c_dir / "transcript.txt").exists() or (c_dir / "transcript.json").exists():
@@ -692,11 +694,7 @@ def run_batch_processing(
                     logger.warning(str(e))
                     if _CURRENT_ACTIVE_RUN_DIR and _CURRENT_ACTIVE_RUN_DIR.exists():
                         clean_run_dir(_CURRENT_ACTIVE_RUN_DIR, force=True)
-                    yt_id = stream.get("yt_id") or stream.get("id") or ""
-                    probe_url = (
-                        stream.get("yt_url")
-                        or (f"https://www.youtube.com/watch?v={yt_id}" if yt_id else "")
-                    )
+                    probe_url = catalog_yt_url(stream)
                     if not probe_url:
                         raise
                     logger.warning(
