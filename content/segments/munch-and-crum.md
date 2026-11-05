@@ -242,6 +242,7 @@ Substitutes and alters occasionally take a mic — notably [[../characters/scrum
 | [[episodes/2026-10-29|2026-10-29]] | 1:07:34 | Debate in the Void: Crum Trial and Gorilla Punch Redux: Munch appears as talking skeleton in void; debate on whether Crum should face trial again for stealing points; options devolve into 'no' vs 'nah execution'; secondary poll for another gorilla punch to Crum's 'supple rear'; Crum claims execution immunity and detachable penis. |
 | [[episodes/2026-11-03|2026-11-03]] | 1:35:51 | Debate: Who's the Freakiest?: Munch (now immortal talking skeleton) and Crum debate meaning of 'freak'; Munch claims positive freak supremacy with rave-pants aesthetic; Crum insists Munch is bad-freak skeleton; Pepito awards point to Munch. |
 | [[episodes/2026-11-04|2026-11-04]] | 48:27 | Shirts vs. Skins Debate: Munch and Crum debate the merits of shirts versus skins in pickup basketball, with Munch arguing for shirts as civilizational progress and Crum selecting skins; Munch's skeletal physiology complicates the binary. |
+| [[episodes/2026-11-05|2026-11-05]] | 1:12:00 | Debate: Did Crum Lose Money Betting the Election?: Munch and Crum clash over Crum's Kalshi election wagers; Crum downplays losses as hobby variance, Munch and chat vote that Crum went deeper into debt. Harry Harding raid interrupts with custom song. |
 
 ## Related Coverage
 

@@ -35,6 +35,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-05|2026-11-05]] | in-studio contributor. |
 | [[episodes/2026-10-23|2026-10-23]] | in-studio contributor. |
 | [[episodes/2026-10-10|2026-10-10]] | in-studio contributor. |
 | [[episodes/2026-09-25|2026-09-25]] | in-studio contributor. |
@@ -54,13 +55,13 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-05-01|2026-05-01]] | in-studio contributor. |
 | [[episodes/2026-04-27|2026-04-27]] | In-Studio Contributor. |
 | [[episodes/2026-04-24|2026-04-24]] | in-studio contributor. |
-| [[episodes/2026-04-15|2026-04-15]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (184)</summary>
+<summary>Earlier appearances (185)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-04-15|2026-04-15]] | in-studio contributor. |
 | [[episodes/2026-04-14|2026-04-14]] | in-studio contributor. |
 | [[episodes/2026-04-11|2026-04-11]] | in-studio contributor. |
 | [[episodes/2026-04-09|2026-04-09]] | in-studio contributor. |
@@ -251,6 +252,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 ## Notable moments
 
 
+- **[19:17]** ([[episodes/2026-11-05|2026-11-05]]): Allergy test reveals allergies to sesame seeds, blueberries, watermelon, mustard, scallops, shrimp, lima beans, summer squash, and allmans.
 - **[9:20]** ([[episodes/2026-09-04|2026-09-04]]): Blackwell discloses hiding an engagement ring from Kendelle while she is out of town, referencing making "husband money" before departing on international leave.
 - **[52:09]** ([[episodes/2026-07-20|2026-07-20]]): Kendelle asks Case live on stream for legal advice regarding a video editing client contract that prevents portfolio usage.
 - **[9:00]** ([[episodes/2026-07-20|2026-07-20]]): Blackwell reveals their collaborative magic act stage names: Case as "Shaz Black" and Kendelle as "Candy Lane".

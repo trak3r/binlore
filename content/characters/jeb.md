@@ -48,6 +48,7 @@ After a vanished stretch of airtime, Jeb came back with a reconstructed face tha
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-05|2026-11-05]] | instructional host. |
 | [[episodes/2026-11-03|2026-11-03]] | instructional host. |
 | [[episodes/2026-10-26|2026-10-26]] | instructional host. |
 | [[episodes/2026-10-10|2026-10-10]] | instructional host. |
@@ -67,13 +68,13 @@ After a vanished stretch of airtime, Jeb came back with a reconstructed face tha
 | [[episodes/2026-02-06|2026-02-06]] | instructional host. |
 | [[episodes/2026-01-27|2026-01-27]] | instructional host. |
 | [[episodes/2026-01-24|2026-01-24]] | instructional host. |
-| [[episodes/2026-01-06|2026-01-06]] | instructional host. |
 
 <details>
-<summary>Earlier appearances (57)</summary>
+<summary>Earlier appearances (58)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-01-06|2026-01-06]] | instructional host. |
 | [[episodes/2025-12-19|2025-12-19]] | field correspondent. |
 | [[episodes/2025-12-13|2025-12-13]] | instructional host. |
 | [[episodes/2025-12-04|2025-12-04]] | How To Host. |
@@ -152,6 +153,7 @@ See also: [[../segments/how-to-with-jeb|How To with Jeb]], [[../characters/index
 ## Notable moments
 
 
+- **[1:44:59]** ([[episodes/2026-11-05|2026-11-05]]): True name revealed as Jeb; 'Nogget' is a surname; father's spirit resides in a wooden board (referenced but not on-screen).
 - **[1:25:37]** ([[episodes/2026-07-17|2026-07-17]]): Jeb's Dad reveals he is actively trying to escape his timber prison by willing his hands into a file to sand down 'the spiritual bars that must be holding me in here' one second at a time.
 - **[2:52:47]** ([[episodes/2025-09-05|2025-09-05]]): Suffered a 50-foot fall into a dry stone well, requiring reconstructive facial surgery.
 - **[42:10]** ([[episodes/2025-07-01|2025-07-01]]): Fell down a 40-foot empty well, landed face-first on stone bottom, required facial reconstructive surgery using throat tissue.

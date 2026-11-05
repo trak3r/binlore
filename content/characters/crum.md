@@ -36,6 +36,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-05|2026-11-05]] | debate analyst. |
 | [[episodes/2026-11-04|2026-11-04]] | Gambling-addicted debate analyst picks skins for pickup basketball tradition, claims medical exemption from shirts. |
 | [[episodes/2026-11-03|2026-11-03]] | debate analyst. |
 | [[episodes/2026-10-29|2026-10-29]] | debate analyst. |
@@ -55,13 +56,13 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-07-13|2026-07-13]] | Senior debate analyst arguing for the reinstatement of AI Rooney. Shares a bizarre, fabricated(?) origin story of his name involving a Crumbl cookie shop birth on a 12-inch party sub. |
 | [[episodes/2026-07-11|2026-07-11]] | Senior debate analyst; criticizes Case's haircut, references his father's dealership, and flees after a debate over political violence. |
 | [[episodes/2026-06-27|2026-06-27]] | Senior debate analyst. Interjects from the satellite room to rap with the Hype Train and debate Reggae vs Emo. |
-| [[episodes/2026-06-18|2026-06-18]] | Senior debate analyst. Hollow-eyed, bald. Demands total abolition of improvisation. Suffers 36-year UTI causing acidic urine. Openly hates Irish people. Wife seeing therapist (referenced). Gambling debts canonical but not mentioned this episode. |
 
 <details>
-<summary>Earlier appearances (203)</summary>
+<summary>Earlier appearances (204)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-06-18|2026-06-18]] | Senior debate analyst. Hollow-eyed, bald. Demands total abolition of improvisation. Suffers 36-year UTI causing acidic urine. Openly hates Irish people. Wife seeing therapist (referenced). Gambling debts canonical but not mentioned this episode. |
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity and Dick Punch wager. |
 | [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (hollow-eyed, bald). Argues for political decorum, reveals Dubai 'classified' social life, honey-bag therapy, claims penile conditioning for gorilla dick-punch. |
 | [[episodes/2026-05-22|2026-05-22]] | debate analyst. |

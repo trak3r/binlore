@@ -60,6 +60,7 @@ Since [[../episodes/2026-09-07|2026-09-07]], Munch has been a living, talking sk
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-05|2026-11-05]] | debate analyst. |
 | [[episodes/2026-11-04|2026-11-04]] | Skeleton debate analyst argues shirts represent civilizational progress, reveals failed Buzz Lightyear Halloween costume. |
 | [[episodes/2026-11-03|2026-11-03]] | debate analyst. |
 | [[episodes/2026-10-29|2026-10-29]] | debate analyst. |
@@ -79,13 +80,13 @@ Since [[../episodes/2026-09-07|2026-09-07]], Munch has been a living, talking sk
 | [[episodes/2026-06-18|2026-06-18]] | Senior debate analyst. Disheveled silver hair. Defends improv as valid art form. Reveals eight years improv training (1991-1998) including class with Anchorman extra. Proud Democrat. |
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity. |
 | [[episodes/2026-06-05|2026-06-05]] | Senior debate analyst with distinctive disheveled appearance and confrontational debate style. |
-| [[episodes/2026-05-26|2026-05-26]] | Senior debate analyst known for his disheveled silver hair and combative political style. Engages in heated exchanges with Crum and frequently references his 'Dick Punch' wager storyline. |
 
 <details>
-<summary>Earlier appearances (192)</summary>
+<summary>Earlier appearances (193)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-05-26|2026-05-26]] | Senior debate analyst known for his disheveled silver hair and combative political style. Engages in heated exchanges with Crum and frequently references his 'Dick Punch' wager storyline. |
 | [[episodes/2026-05-22|2026-05-22]] | debate analyst. |
 | [[episodes/2026-05-21|2026-05-21]] | debate analyst. |
 | [[episodes/2026-05-18|2026-05-18]] | debate analyst. |
@@ -284,6 +285,7 @@ Since [[../episodes/2026-09-07|2026-09-07]], Munch has been a living, talking sk
 ## Notable moments
 
 
+- **[1:22:34]** ([[episodes/2026-11-05|2026-11-05]]): Confirms permanent skeleton form: 'this bone structure is never scared away.'
 - **[1:36:12]** ([[episodes/2026-11-03|2026-11-03]]): Confirms permanent talking skeleton form since Crum's hell-form fireball in the Crum Dick Punch: 'I'm a skelly.'
 - **[1:07:55]** ([[episodes/2026-10-29|2026-10-29]]): Munch confirms he is now an immortal talking skeleton since Crum's hell-form fireball on Sept 7, 2026; audience claps extra hard for skeleton form.
 - **[1:10:34]** ([[episodes/2026-10-19|2026-10-19]]): Confirmed permanent skeletal form since Sept 7 gorilla incident; claims Halloween as skeletal onboarding period.
@@ -295,7 +297,6 @@ Since [[../episodes/2026-09-07|2026-09-07]], Munch has been a living, talking sk
 - **[1:30:07]** ([[episodes/2026-08-26|2026-08-26]]): Invokes the legal doctrine of the "reverse pardon," claiming that Crum's procedural delays legally mandate a second blow from the robotic gorilla.
 - **[53:14]** ([[episodes/2025-09-26|2025-09-26]]): Confirms Crum died and went to hell; Munch spent days cleaning Crum's remains and retrieved him from a hellish transit authority where Crum was assistant manager.
 - **[1:24:32]** ([[episodes/2025-09-18|2025-09-18]]): Munch claims he defeated the devil in debate multiple times, winning soul shards and a hell key housed in his soul.
-- **[1:21:24]** ([[episodes/2025-09-15|2025-09-15]]): Munch confirms mechanical gorilla gone, Crum Dick Punch mission accomplished.
 - **[1:23:17]** ([[episodes/2025-09-11|2025-09-11]]): Munch claims hell has Miller Light sponsorship ($20K) and Slurpees with 30% glass dust.
 - **[1:29:26]** ([[episodes/2025-09-05|2025-09-05]]): Confirms Thursday 9/11 2pm special stream to enter the wall and rescue Crum from hell.
 - **[2:18:46]** ([[episodes/2025-09-03|2025-09-03]]): Claims 'immortal God, essentially' status referencing skeleton transformation.

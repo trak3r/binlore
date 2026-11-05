@@ -1,0 +1,193 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "12:21",
+      "canonical_segment": "News",
+      "title": "Cold Open & Post-Election Sign-On",
+      "notes": "Pepito delivers the top-of-hour sign-on; Case Blackwell opens the post-election broadcast declaring 'No Breaks November' and reflecting on the refractory period after election night."
+    },
+    {
+      "start": "12:21",
+      "end": "54:42",
+      "canonical_segment": "News",
+      "title": "Election Post-Game Coverage",
+      "notes": "Case and Jeff Ripple review post-election statements: Trump press conference, Chuck Schumer clips, Sam Cedar reaction, Texas Senator-elect Teleriko, and Hailey Stevens' long concession tweet. Interwoven with Kendall's allergy test reveal."
+    },
+    {
+      "start": "28:41",
+      "end": "38:08",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train Freestyles on Hailey Stevens",
+      "notes": "Hype Train interrupts with a high-tempo freestyle about Michigan Rep. Haley Stevens and her fiancé Jason 'Turkish', pivoting to explicit sexual imagery before Jeff Ripple thanks subscribers in 80s synthwave spoken word."
+    },
+    {
+      "start": "40:15",
+      "end": "54:42",
+      "canonical_segment": "News",
+      "title": "Late Election Results & Prop 40",
+      "notes": "Coverage of Abdulrahman Mohammad Sayyid's victory speech, Nithya Rahman's LA mayoral win, and California Proposition 40 (billionaire tax) trending toward defeat with 61% reporting."
+    },
+    {
+      "start": "1:12:00",
+      "end": "1:23:18",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: Did Crum Lose Money Betting the Election?",
+      "notes": "Munch and Crum clash over Crum's Kalshi election wagers; Crum downplays losses as hobby variance, Munch and chat vote that Crum went deeper into debt. Harry Harding raid interrupts with custom song."
+    },
+    {
+      "start": "1:24:18",
+      "end": "1:45:54",
+      "canonical_segment": "How To with Jeb",
+      "title": "How To Freestyle & Crip Walk",
+      "notes": "Jeb Nogget hosts a sickly freestyle tutorial using the 'ripple technique,' attempts a sausage-themed freestyle, then watches a Crip Walk instructional video and plays the name-backwards game with chat."
+    },
+    {
+      "start": "1:45:54",
+      "end": "2:06:35",
+      "canonical_segment": "Encircled",
+      "title": "Encircled: Injured Senator vs. 30 Coyotes",
+      "notes": "Clive Clifton (injured right-wing senator, pinky toe) defends 'America needs more injuries' against a rotating gallery of chat challengers; rambles through healthcare anecdotes, coyote/women equivalence, and anti-marriage platform before time expires."
+    },
+    {
+      "start": "2:06:35",
+      "end": "2:20:09",
+      "canonical_segment": "DJ Newsic",
+      "title": "DJ Newsic Musical Close & Raid",
+      "notes": "DJ Newsic sings the news including West Hollywood's polyamory domestic partnership registry; Clive Clifton returns for a rap verse against marriage; stream ends with raid to Ovali May and Kickstarter plug for 13 Freak Street."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers the cold-open sign-on and declares 'No Breaks November' live.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors post-election coverage, moderates Munch & Crum debate, and oversees No Breaks November schedule.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "correspondent",
+      "notes": "correspondent. Co-hosts election post-game, reads viewer reactions, and delivers 80s synthwave sub thank-yous.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Walks through with allergy test results revealing sesame, blueberry, watermelon, mustard, shellfish, and squash allergies.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype train",
+      "notes": "hype train. Derails into explicit freestyle about Rep. Haley Stevens and her fiancé before Jeff Ripple acknowledges subs.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Skeleton Munch debates Crum's election betting losses and confirms permanent skeletal form.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Defends Kalshi election wagers as hobby variance; chat and Munch vote he went deeper into debt.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "role": "instructional host",
+      "notes": "instructional host. Hosts How To segment while nauseous from hype overload; attempts freestyle tutorial and Crip Walk lesson.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "No Breaks November",
+      "beat": "[09:04] Case declares 'No Breaks November' — streaming all month with only Sundays off; confirms at [53:12] it started Monday.",
+      "timestamp": "09:04"
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[1:14:05] Crum references Kalshi election betting (not traditional sportsbooks) while downplaying losses; Munch and chat vote he went deeper into debt.",
+      "timestamp": "1:14:05"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Case Blackwell",
+      "fact": "Declares No Breaks November (streaming daily except Sundays) starting Monday, November 2.",
+      "timestamp": "[09:04]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Allergy test reveals allergies to sesame seeds, blueberries, watermelon, mustard, scallops, shrimp, lima beans, summer squash, and allmans.",
+      "timestamp": "[19:17]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Confirms permanent skeleton form: 'this bone structure is never scared away.'",
+      "timestamp": "[1:22:34]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Uses Kalshi prediction markets for election betting, not traditional sportsbooks; claims losses are minimal variance.",
+      "timestamp": "[1:14:05]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Harry Harding",
+      "fact": "Has a custom raid song produced by the network.",
+      "timestamp": "[1:18:49]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Jeb Nogget",
+      "fact": "True name revealed as Jeb; 'Nogget' is a surname; father's spirit resides in a wooden board (referenced but not on-screen).",
+      "timestamp": "[1:44:59]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News returns for a post-election broadcast under 'No Breaks November,' covering Democratic wins, JD Vance's long-form tweets, and Hailey Stevens' concession thread. Kendall's allergy panel derails the news desk, Hype Train delivers an explicit freestyle about Rep. Haley Stevens, and Munch & Crum debate Crum's Kalshi election losses. Jeb Nogget hosts a nauseous How To segment on freestyling and Crip Walking, then Clive Clifton defends 'America needs more injuries' in Encircled. DJ Newsic closes with a musical summary of West Hollywood's polyamory registry and raids Ovali May.",
+  "_meta": {
+    "vod_id": "2919818029",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 119199,
+    "approx_prompt_tokens": 29799,
+    "transcript_lines": 353
+  }
+}

@@ -188,6 +188,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2026-11-03|2026-11-03]] [1:36:12] | Munch confirms permanent skeleton state: "That's the type of thing I can do, because I'm a skelly." |
 | [[../episodes/2026-11-03|2026-11-03]] [2:01:45] | [02:01:45] Jeb's Dad asks 'Is today Election Day or is it Crumb Punch Day?' confirming groin-punch forfeit still pending in lore. |
 | [[../episodes/2026-11-04|2026-11-04]] [54:25] | Crum calls Munch's skeleton form "self-imposed": "even in my hell form" he never meant for Munch to become a talking skeleton from "absorbing a fireball." Munch: "you still tried to make me one." |
+| [[../episodes/2026-11-05|2026-11-05]] [1:14:05] | [1:14:05] Crum references Kalshi election betting (not traditional sportsbooks) while downplaying losses; Munch and chat vote he went deeper into debt. |
 
 ## Related Pages
 
