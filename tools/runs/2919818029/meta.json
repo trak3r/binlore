@@ -1,0 +1,19 @@
+{
+  "vod_id": "2919818029",
+  "title": "Post Wave Clarity",
+  "url": "https://www.twitch.tv/videos/2919818029",
+  "duration_seconds": 8409,
+  "duration": "2:20:09",
+  "timestamp": 1793836800,
+  "aired_at": "2026-11-05T00:00:00+00:00",
+  "date": "2026-11-05",
+  "ingested_at": "2026-11-05T11:33:44.394725+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "2919818029",
+  "yt_url": "https://www.youtube.com/watch?v=2919818029",
+  "twitch_id": "2919818029",
+  "twitch_url": "https://www.twitch.tv/videos/2919818029",
+  "catalog_date": "2026-11-05"
+}
