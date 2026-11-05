@@ -7,7 +7,7 @@ description: Find highlight-worthy moments in the latest processed Barely Inform
 
 Two phases, with two user decisions:
 
-1. **Propose**: read the latest episode, pitch exactly 3 candidate highlights with clickable VOD timestamp links, then STOP and wait for the user to pick.
+1. **Propose**: read the latest episode, pitch exactly 3 candidate highlights, each with a YouTube link that lands on its hook (from `./binlore clips links`), then STOP and wait for the user to watch them and pick.
 2. **Produce**: cut the raw window (`clips make --raw`), then STOP and get the user's approval of the in and out points. Only then preview the 9:16 crop, render with `./binlore clips make`, polish `post.md`, and report the output folder.
 
 Distribution is manual by default: the user uploads the files. Only post when the user explicitly asks you to (see Phases 3 and 4), and then **upload YouTube Shorts as Public and TikToks as Everyone**. After every publish, record the clip on the wiki (see "Wiki sync" at the end). Before stating a post's visibility, check it in Studio; the user changes visibility themselves.
@@ -52,11 +52,19 @@ Present exactly 3 candidates, best first:
 **Hook (first line):** "<verbatim opening line>"
 **Payoff:** <the punchline or reaction it lands on>
 **Why it works:** <one sentence>
-**Watch:** [Twitch @ 1:22:24](https://www.twitch.tv/videos/<vod_id>?t=1h22m24s) · [YouTube @ 1:22:24](https://www.youtube.com/watch?v=<yt_id>&t=4944s)
+**Watch:** [YouTube @ 1:22:24](https://www.youtube.com/watch?v=<yt_id>&t=4927s) · [Twitch @ 1:22:24](https://www.twitch.tv/videos/<vod_id>?t=1h22m22s)
 ```
 
-- Twitch links use `?t=XhYmZs`. YouTube links use `&t=<total seconds>s`. Only include YouTube when the episode or `tools/youtube_catalog.json` has a real YouTube id (11 characters, not all digits).
-- Twitch VODs expire after a few weeks. If the episode is old, say so and lead with the YouTube link.
+The user watches each candidate straight from the YouTube link before picking, so the links must land on the hook. Never build them by hand. Generate all three in one call:
+
+```bash
+./binlore clips links <episode-date> 1:22:24-1:23:05 0:48:41-0:49:20 2:01:58-2:02:40
+```
+
+- Windows are on the Twitch timeline (the transcript's times). The YouTube archive copy (`@CaseBlackwellStreams`, Streams tab) usually runs several seconds behind Twitch: 14.5 seconds on 2026-11-04, so a Twitch time reused on YouTube skips the hook. The command finds the YouTube copy by title, measures the offset by matching audio (about a minute, once per episode), caches `yt_id` and `yt_offset` in `tools/youtube_catalog.json`, and prints both links starting 2 seconds early. Commit the catalog change with the clip work.
+- The offset differs per episode (0 seconds on 2026-11-03, 14.5 on 2026-11-04), so never reuse another episode's.
+- Right after a stream, the YouTube copy can exist but still be processing, so its audio can't be read. The command then labels the links "YouTube (approx.)" and starts them 22 seconds early so the hook isn't skipped; say so when presenting, and re-run later to get exact links. If there is no YouTube copy at all yet, give Twitch links only and say so.
+- Twitch VODs expire after a few weeks; for old episodes the YouTube link is the only one that works.
 
 Then ask the user which one to make (use AskQuestion with the 3 titles), plus an option to adjust the timing. Do not render anything before they choose.
 

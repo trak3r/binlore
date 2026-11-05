@@ -7,7 +7,9 @@
     "duration_str": "2:20:09",
     "duration_seconds": 8409,
     "twitch_id": "2919818029",
-    "twitch_url": "https://www.twitch.tv/videos/2919818029"
+    "twitch_url": "https://www.twitch.tv/videos/2919818029",
+    "yt_id": "9xz_oWJ8suc",
+    "yt_url": "https://www.youtube.com/watch?v=9xz_oWJ8suc"
   },
   {
     "id": "2918998685",
@@ -17,7 +19,10 @@
     "duration_str": "2:59:25",
     "duration_seconds": 10765,
     "twitch_id": "2918998685",
-    "twitch_url": "https://www.twitch.tv/videos/2918998685"
+    "twitch_url": "https://www.twitch.tv/videos/2918998685",
+    "yt_id": "xn__pzmMoXY",
+    "yt_url": "https://www.youtube.com/watch?v=xn__pzmMoXY",
+    "yt_offset": 14.54
   },
   {
     "id": "2918087731",
@@ -27,7 +32,10 @@
     "duration_str": "2:33:20",
     "duration_seconds": 9200,
     "twitch_id": "2918087731",
-    "twitch_url": "https://www.twitch.tv/videos/2918087731"
+    "twitch_url": "https://www.twitch.tv/videos/2918087731",
+    "yt_id": "DEDr2UXgzGI",
+    "yt_url": "https://www.youtube.com/watch?v=DEDr2UXgzGI",
+    "yt_offset": 0.01
   },
   {
     "id": "2914379600",

@@ -111,6 +111,8 @@ class Episode:
     title: str | None = None
     twitch_id: str | None = None
     yt_id: str | None = None
+    # Seconds the Twitch VOD runs ahead of the YouTube archive copy (YouTube time = Twitch time - offset).
+    yt_offset: float | None = None
     characters: list[str] = field(default_factory=list)
 
     @property
@@ -139,7 +141,10 @@ class Episode:
         return f"{self.twitch_url}?t={twitch_t(seconds)}" if self.twitch_url else None
 
     def yt_link(self, seconds: float) -> str | None:
-        return f"{self.yt_url}&t={int(seconds)}s" if self.yt_url else None
+        """YouTube link for a Twitch-timeline position (shifted by ``yt_offset`` when known)."""
+        if not self.yt_url:
+            return None
+        return f"{self.yt_url}&t={max(0, int(seconds - (self.yt_offset or 0)))}s"
 
 
 def _frontmatter(path: Path) -> dict[str, Any]:
@@ -224,6 +229,8 @@ def resolve_episode(target: str | None) -> Episode:
             ep.twitch_id = ep.twitch_id or match.get("twitch_id")
             if _is_yt_id(match.get("yt_id")):
                 ep.yt_id = ep.yt_id or match["yt_id"]
+                if ep.yt_id == match["yt_id"] and match.get("yt_offset") is not None:
+                    ep.yt_offset = float(match["yt_offset"])
             ep.title = ep.title or match.get("title")
             ep.date = ep.date or match.get("date")
 
@@ -453,9 +460,6 @@ def slice_source(ep: Episode, start: float, end: float, out: Path) -> tuple[str,
     ss = max(0.0, start - SLICE_PAD)
     lead = start - ss
     duration = (end - start) + lead + SLICE_PAD
-    # Input-side seeks into HLS land on the next keyframe *after* the target, so
-    # seek coarsely well before it and trim precisely on the output side.
-    coarse = max(0.0, ss - SEEK_PREROLL)
     out.parent.mkdir(parents=True, exist_ok=True)
     errors = []
     for url in ep.sources:
@@ -464,11 +468,15 @@ def slice_source(ep: Episode, start: float, end: float, out: Path) -> tuple[str,
         except RuntimeError as e:
             errors.append(f"{url}: {e}")
             continue
-        print(f"Slicing {fmt_hms(ss)} +{duration:.1f}s from {url}", flush=True)
+        src_ss = ss if "twitch.tv" in url else max(0.0, ss - (ep.yt_offset or 0))
+        # Input-side seeks into HLS land on the next keyframe *after* the target, so
+        # seek coarsely well before it and trim precisely on the output side.
+        coarse = max(0.0, src_ss - SEEK_PREROLL)
+        print(f"Slicing {fmt_hms(src_ss)} +{duration:.1f}s from {url}", flush=True)
         cmd = ["ffmpeg", "-hide_banner", "-loglevel", "error", "-stats"]
         for m in media:
             cmd += ["-ss", f"{coarse:.3f}", "-i", m]
-        cmd += ["-ss", f"{ss - coarse:.3f}", "-t", f"{duration:.3f}"]
+        cmd += ["-ss", f"{src_ss - coarse:.3f}", "-t", f"{duration:.3f}"]
         if len(media) > 1:
             cmd += ["-map", "0:v:0", "-map", "1:a:0"]
         cmd += ["-c:v", "libx264", "-preset", "veryfast", "-crf", "16", "-c:a", "aac", "-b:a", "192k", "-y", str(out)]
@@ -477,6 +485,132 @@ def slice_source(ep: Episode, start: float, end: float, out: Path) -> tuple[str,
             return url, lead
         errors.append(f"{url}: ffmpeg exited {proc.returncode}")
     raise RuntimeError("Could not slice the clip from any source:\n" + "\n".join(errors))
+
+
+# ---------------------------------------------------------------------------
+# YouTube archive copy (for watch links)
+
+YT_STREAMS_URL = "https://www.youtube.com/@CaseBlackwellStreams/streams"
+OFFSET_AT = 1800.0  # Twitch position sampled to align the two copies
+OFFSET_SAMPLE = 20.0  # seconds of Twitch audio matched against YouTube
+OFFSET_SEARCH = 60.0  # how far either way the YouTube copy may drift
+OFFSET_RATE = 8000
+UNMEASURED_PREROLL = 20.0  # extra lead on YouTube links while the offset is unknown (seen up to ~15s)
+
+
+def _norm_title(title: str) -> str:
+    return re.sub(r"[^a-z0-9]+", " ", title.lower()).strip()
+
+
+def find_yt_id(ep: Episode, *, scan: int = 30) -> str | None:
+    """Find the episode on the archive channel's Streams tab by its (Twitch) title."""
+    if not ep.title:
+        return None
+    proc = subprocess.run(
+        [*get_yt_dlp_cmd(), "--flat-playlist", "--playlist-end", str(scan), "--print", "%(id)s\t%(title)s", YT_STREAMS_URL],
+        capture_output=True, text=True,
+    )
+    want = _norm_title(ep.title)
+    for line in proc.stdout.splitlines():
+        vid, _, title = line.partition("\t")
+        if _is_yt_id(vid) and _norm_title(title) == want:
+            return vid
+    return None
+
+
+def _pcm(media_url: str, start: float, duration: float):
+    import numpy as np
+
+    proc = subprocess.run(
+        ["ffmpeg", "-hide_banner", "-loglevel", "error", "-ss", f"{start:.3f}", "-i", media_url, "-t", f"{duration:.3f}",
+         "-vn", "-ac", "1", "-ar", str(OFFSET_RATE), "-f", "s16le", "-"],
+        capture_output=True,
+    )
+    if proc.returncode != 0 or not proc.stdout:
+        raise RuntimeError("couldn't read audio (YouTube may still be processing the stream)")
+    a = np.frombuffer(proc.stdout, np.int16).astype(float)
+    return a - a.mean()
+
+
+def measure_yt_offset(ep: Episode) -> float:
+    """Align the YouTube copy to the Twitch VOD by cross-correlating their audio."""
+    import numpy as np
+
+    if not (ep.twitch_url and ep.yt_url):
+        raise RuntimeError("Need both a Twitch VOD and a YouTube copy to measure the offset.")
+    tw_media = _stream_urls(ep.twitch_url)[0]
+    proc = subprocess.run([*get_yt_dlp_cmd(), "-f", "ba", "-g", ep.yt_url], capture_output=True, text=True)
+    yt_media = next((u for u in proc.stdout.splitlines() if u.startswith("http")), None)
+    if not yt_media:
+        raise RuntimeError(f"yt-dlp returned no audio URL for {ep.yt_url}")
+    yt_start = OFFSET_AT - OFFSET_SEARCH
+    tw = _pcm(tw_media, OFFSET_AT, OFFSET_SAMPLE)
+    yt = _pcm(yt_media, yt_start, 2 * OFFSET_SEARCH + OFFSET_SAMPLE)
+    n = len(tw) + len(yt)
+    corr = np.fft.irfft(np.fft.rfft(yt, n) * np.conj(np.fft.rfft(tw, n)), n)[: len(yt)]
+    peak = int(np.argmax(corr))
+    if corr[peak] < 20 * np.abs(corr).mean():
+        raise RuntimeError(f"No clear audio match between {ep.twitch_url} and {ep.yt_url}; is it the same stream?")
+    return round(OFFSET_AT - (yt_start + peak / OFFSET_RATE), 2)
+
+
+def _save_youtube(ep: Episode) -> None:
+    if not (CATALOG_JSON.exists() and ep.twitch_id):
+        return
+    catalog = json.loads(CATALOG_JSON.read_text(encoding="utf-8"))
+    for e in catalog:
+        if str(e.get("twitch_id")) == ep.twitch_id:
+            e.update(yt_id=ep.yt_id, yt_url=ep.yt_url)
+            if ep.yt_offset is not None:
+                e["yt_offset"] = ep.yt_offset
+            CATALOG_JSON.write_text(json.dumps(catalog, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+            return
+
+
+def ensure_youtube(ep: Episode, *, remeasure: bool = False) -> bool:
+    """Fill in ``ep.yt_id`` and ``ep.yt_offset``, caching both in the catalog. False if no YouTube copy yet."""
+    changed = False
+    if not ep.yt_id:
+        ep.yt_id = find_yt_id(ep)
+        if not ep.yt_id:
+            return False
+        print(f"Found YouTube copy: {ep.yt_url}", flush=True)
+        changed = True
+    if ep.twitch_id and (ep.yt_offset is None or remeasure):
+        print("Measuring the Twitch/YouTube offset (about a minute)...", flush=True)
+        try:
+            ep.yt_offset = measure_yt_offset(ep)
+            changed = True
+        except RuntimeError as e:
+            print(f"warning: offset not measured: {e}. Re-run later for exact YouTube links.", flush=True)
+    if changed:
+        _save_youtube(ep)
+    return True
+
+
+def watch_links(target: str | None, windows: list[str], *, preroll: float = 2.0, remeasure: bool = False) -> list[str]:
+    """Markdown watch links for ``start-end`` windows on the Twitch timeline."""
+    ep = resolve_episode(target)
+    has_yt = ensure_youtube(ep, remeasure=remeasure)
+    yt_label, yt_preroll = "YouTube", preroll
+    if not has_yt:
+        print("No YouTube copy on the archive channel yet; Twitch links only.", flush=True)
+    elif ep.yt_offset is None and ep.twitch_id:
+        yt_label, yt_preroll = "YouTube (approx.)", preroll + UNMEASURED_PREROLL
+        print(f"YouTube {ep.yt_id}, offset unknown: YouTube links start {yt_preroll:.0f}s early.", flush=True)
+    else:
+        print(f"YouTube {ep.yt_id}, offset {ep.yt_offset or 0:+.2f}s (YouTube = Twitch - offset)", flush=True)
+    lines = []
+    for window in windows:
+        start_s, end_s = (parse_ts(p) for p in window.split("-", 1))
+        at = max(0.0, start_s - preroll)
+        links = []
+        if ep.yt_url:
+            links.append(f"[{yt_label} @ {fmt_hms(start_s)}]({ep.yt_link(max(0.0, start_s - yt_preroll))})")
+        if ep.twitch_url:
+            links.append(f"[Twitch @ {fmt_hms(start_s)}]({ep.twitch_link(at)})")
+        lines.append(f"{fmt_hms(start_s)} → {fmt_hms(end_s)} ({end_s - start_s:.0f}s): " + " · ".join(links))
+    return lines
 
 
 # ---------------------------------------------------------------------------

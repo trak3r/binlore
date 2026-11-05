@@ -300,6 +300,14 @@ def cmd_clips_preview(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_clips_links(args: argparse.Namespace) -> int:
+    from .clips import watch_links
+
+    for line in watch_links(args.episode, args.windows, preroll=args.preroll, remeasure=args.remeasure):
+        print(line)
+    return 0
+
+
 def cmd_clips_make(args: argparse.Namespace) -> int:
     from .clips import make_clip
 
@@ -723,6 +731,13 @@ def build_parser() -> argparse.ArgumentParser:
     cprev.add_argument("--at", required=True, help="Timestamp to grab (H:MM:SS)")
     cprev.add_argument("--crop-x", type=float, default=0.5, help="Crop center as a fraction of frame width (default 0.5)")
     cprev.set_defaults(func=cmd_clips_preview)
+
+    clinks = clips_sub.add_parser("links", help="YouTube and Twitch watch links for candidate windows")
+    clinks.add_argument("episode", help=episode_help)
+    clinks.add_argument("windows", nargs="+", help="Windows on the Twitch timeline, e.g. 1:22:24-1:23:05")
+    clinks.add_argument("--preroll", type=float, default=2.0, help="Seconds to start before the window (default 2)")
+    clinks.add_argument("--remeasure", action="store_true", help="Re-measure the cached Twitch/YouTube offset")
+    clinks.set_defaults(func=cmd_clips_links)
 
     cmake = clips_sub.add_parser("make", help="Slice, caption, brand and package a vertical clip")
     cmake.add_argument("episode", help=episode_help)
