@@ -173,11 +173,11 @@ The channel is the fan channel **BIN Lore** (binlorewiki@gmail.com), signed in t
 | Description | YouTube description block from `post.md` |
 | Thumbnail | `tools/clips/<date>-<slug>/thumbnail.jpg` |
 | Audience | No, it's not made for kids |
-| Paid promotion | Unchecked |
-| Altered or synthetic content | No |
+| Paid promotion | No (a checkbox on older forms, a radio on newer ones) |
+| Altered or synthetic content / AI use | No |
 | Tags | Tags block from `post.md`: the base set (Barely Informed News, Case Blackwell, BIN Lore, comedy, funny, parody, improv) plus character, segment and topic tags |
 | Video language | English (United States) |
-| Title and description language | English (United States) |
+| Title and description language | English (United States), when the form has the field (the newer upload form doesn't) |
 | Caption certification | This content has never aired on television in the U.S. |
 | Recording date | The episode date (shown in `post.md`) |
 | License, category, comments, remixing | Leave the defaults (Standard YouTube License, Comedy, comments on, remixing allowed) |
@@ -187,7 +187,7 @@ Leave the external-links "one-time verification" notice alone; it can stay even 
 ### Steps
 
 1. Open `https://studio.youtube.com` and click Create > Upload videos, then select `clip.mp4` (the file dialog trick below works here too).
-2. On the Details page, set title, description and thumbnail ("Upload file"), answer the audience question, then click **Show more** and set paid promotion, AI disclosure, tags, both languages, caption certification and recording date.
+2. On the Details page, set title, description and thumbnail ("Upload file"), answer the audience question, then click **Show more** and set paid promotion, AI disclosure, tags, the language field(s), caption certification and recording date. Category already defaults to Comedy.
 3. Click through Video elements and Checks, choose **Public**, and Save.
 4. Edit an existing video at `https://studio.youtube.com/video/<id>/edit`. Click **Save** (top right) after each group of changes and confirm the "Changes saved" toast before moving on. An accidental page reload discards anything unsaved.
 5. Report the video id and Studio link, then run the wiki sync.
@@ -214,19 +214,22 @@ The user has declined "Allow JavaScript from Apple Events", so Studio is driven 
   Assign `frontApp` first; testing `name of first process whose frontmost is true` inline raises error -1700. Run these with full permissions. If auto-review blocks one, retry the same call with smart-mode approval.
 - Paste text by putting it on the clipboard first (`printf '%s' "..." | pbcopy`), then Cmd+V.
 - Before pasting, confirm with a screenshot that the target field has focus. Activating Chrome can leave focus in the address bar, and computer-use clicks on text fields don't take it back. To pull focus into the page, click a blank part of the page, then Tab or Shift+Tab to the field. Don't use `computer_type` in Studio fields: it sets the text without firing input events, so the page ignores it.
+- When a click result says it hit an "accessibility-text-target", it went to a text label or placeholder and did nothing on the page: it won't focus a field or select a dropdown option. Click a chevron or a radio circle instead, or use the keyboard.
 
 ### Field tricks
 
 - **File dialogs (video and thumbnail):** enter the file's absolute path straight into the macOS picker; never navigate folders or run a long keystroke script (auto-review blocks those). The picker runs in its own process, so computer-use keys and `computer_type` never reach it; send each key with a one-line System Events call while Chrome is frontmost. Click the upload button, `pbcopy` the absolute path, bring Chrome to the front, then send Cmd+Shift+G, Cmd+A, Cmd+V, wait about 1.5 seconds, Return, confirm with a screenshot that the file is selected, Return:
   `osascript -e 'tell application "System Events" to keystroke "g" using {command down, shift down}'`
+  Sending Cmd+Shift+G with `computer_key` opens Chrome's find bar instead of the picker's path sheet. The find bar is harmless; leave it open (auto-review may block closing it), but it can hold keyboard focus, so confirm focus with a screenshot before the next paste.
 - **Keys inside Studio pages** (Tab, Shift+Tab, Cmd+V, Return) work with `computer_key` against the Chrome app target, with no script needed. Wait about a second before screenshotting; screenshots lag and can show focus where it was several keys ago.
 - **Focus resets:** toggling a checkbox can send focus back to the top of the upload dialog (the feedback button). From there the tags input is about 43 Tabs away, so it's often faster to set tags on the video's edit page.
 - **"We had trouble saving your video":** if the upload wizard's Save keeps failing, press Return to dismiss the alert, then navigate to `https://studio.youtube.com/channel/<channel>/videos/short` (Return accepts any "Leave site?" prompt). One of the retries may already have saved; check the row's visibility, then finish anything missing on the edit page.
-- **Description:** clicking the description box does not move focus out of the title (a paste lands in the title). Tab from the title past the suggested-hashtag buttons, about 7 Tabs, until the description box shows the focus border, then paste. After pasting, Cmd+Up then Tab closes the hashtag dropdown.
-- **Tags:** clicking the tags input does not focus it, and `computer_type` on its accessibility element doesn't register. After clicking the AI-use "No" radio, Tab about 12 times until the tags "Learn more" link has the focus ring, then one more Tab into the input. Confirm with a screenshot, then paste the comma-separated tags with a trailing comma; each becomes a chip.
+- **Description:** clicking the description box does not move focus out of the title (a paste lands in the title). Tab from the title past the suggested-hashtag buttons (about 7 Tabs with three suggested chips, fewer with fewer chips). The stop just before the box is its "?" help icon (a tooltip shows); one more Tab puts the cursor in the box, which shows its `0/5000` counter. Paste only once the counter is visible. After pasting, Cmd+Up then Tab closes the hashtag dropdown.
+- **Paid promotion and AI use:** the newer upload form asks both as Yes/No radio groups instead of checkboxes. Click the "No" circle in each.
+- **Tags:** clicking the tags input does not focus it, and `computer_type` on its accessibility element doesn't register. After clicking the AI-use "No" radio, Tab about 12 times until the tags "Learn more" link has the focus ring, then one more Tab into the input. Confirm with a screenshot, then paste the comma-separated tags with a trailing comma; each becomes a chip. If a paste goes nowhere, focus was elsewhere (often the find bar or a language dropdown): click the AI-use "No" radio again and redo the Tabs.
 - **Custom thumbnail limit:** after a few custom thumbnails in a day, "Upload file" opens a "One-time verification needed" prompt (phone verification). That's the user's call: press Cancel, keep the auto-generated frame, and tell the user the custom thumbnail can be set from the edit page once they verify.
 - **Language dropdowns:** typing a name does not jump the list. Open the dropdown and click "English (United States)". If the list opens at the top instead of near "English", scroll it with `computer_scroll` (at most 20 per call; about 46 steps reach English).
-- **Caption certification:** open the dropdown and click the second option, "This content has never aired on television in the U.S."
+- **Caption certification:** open the dropdown by clicking its chevron (clicking its text does nothing). Clicks on the options don't select either, so press Down, then Return, to pick the second option, "This content has never aired on television in the U.S." Confirm it in a screenshot.
 - **Recording date:** open the picker and click the day in the calendar. Never type into the date field: typing a date and pressing Return reloaded the page and lost unsaved changes.
 
 ## Phase 4: Publish to TikTok (only when asked)
@@ -253,7 +256,7 @@ The account is the fan account **@binlore.wiki** (signed in to the user's Chrome
 2. Replace the description (it defaults to the file name, `clip`) with the TikTok caption.
 3. Confirm with a screenshot that **Who can see this post** reads Everyone. If it doesn't, change it with the dropdown trick below.
 4. Set the cover, click Show more, and check the toggles in the table.
-5. Scroll to the bottom and click **Post**. Studio opens `https://www.tiktok.com/tiktokstudio/content`, where the new row shows "Everyone" and "Content under review" for a few minutes.
+5. Scroll to the bottom and click **Post**. Studio opens `https://www.tiktok.com/tiktokstudio/content`, where the new row shows "Content under review" for a few minutes. During review the privacy column can read "Only me" even for a post made as Everyone; it switches to Everyone when review finishes. Wait and check the row again before reporting the visibility or setting `tiktok_public`.
 6. Read the post URL from that row with `computer_app_state`: the description is a link to `https://www.tiktok.com/@binlore.wiki/video/<id>`. Report it, then run the wiki sync.
 
 ### TikTok field tricks
@@ -263,6 +266,7 @@ The account is the fan account **@binlore.wiki** (signed in to the user's Chrome
 - **Cover:** Edit cover opens a dialog with a frame strip and an Upload cover button that opens the macOS picker. After the image loads, click Save (top right). The profile preview crops it to 4:3.
 - **File picker timing:** the picker can take 2 to 3 seconds to open. Screenshot to confirm it is open before sending Cmd+Shift+G. If the path sheet is still showing after the script, press Return once more. The "Go to" suggestion can lag a screenshot behind the typed path.
 - **Auto-review:** clicks on Select video and Post may be blocked; retry the same click with approval.
+- **Profile bio:** the web Edit profile dialog (Profile > Edit profile) doesn't work for this account. `computer_type` with the bio textarea's `element_id` from `computer_app_state` does fill it and updates the counter (80 characters max), though it inserts before any existing text. But Save only flashed a notice behind the dialog and never saved, with or without a link in the bio. Have the user set the bio in the TikTok phone app.
 - Screenshots lag about a second, and the page scrolls itself after dialogs close; take a fresh screenshot before every click.
 
 ## Wiki sync (after every publish)
