@@ -73,16 +73,9 @@
     {
       "start": "01:10:17",
       "end": "01:25:25",
-      "canonical_segment": "Therapy",
-      "title": "Therapy Session: Crum Dick Punch Relitigation",
-      "notes": "Crum and Skeleton Munch debate head vs. dick punch rematch; Crum describes hell-form fireball, detachable penis, Matt Ladel sabotage theory, Rennerton child-processing crimes, threatens to sue chat."
-    },
-    {
-      "start": "01:11:52",
-      "end": "01:25:25",
       "canonical_segment": "Munch & Crum",
       "title": "Munch & Crum: Punch Rematch Debate",
-      "notes": "Overlapping with Therapy: Skeleton Munch and Crum argue over head vs. groin punch; Crum chooses dick punch, reveals hell transit assistant-manager role, claims peen.ui data centers legally approved due to prior punch."
+      "notes": "Skeleton Munch and Crum debate whether Crum gets a head or dick punch rematch; Crum chooses dick punch, describes hell-form fireball and detachable penis, reveals hell transit assistant-manager role, blames Matt Ladel sabotage, claims peen.ui data centers legally approved due to prior punch, admits Rennerton child-processing crimes, threatens to sue chat."
     },
     {
       "start": "01:25:25",
@@ -121,7 +114,7 @@
     {
       "name": "Crum (Leonard Crum)",
       "role": "debate analyst",
-      "notes": "debate analyst. Relitigates Crum Dick Punch in therapy, confesses Rennerton atrocities, threatens to sue chat, breaks into Case's house for apology tour.",
+      "notes": "debate analyst. Relitigates Crum Dick Punch in debate with Munch, confesses Rennerton atrocities, threatens to sue chat, breaks into Case's house for apology tour.",
       "canonical_name": "Crum (Leonard Crum)",
       "speaking": true,
       "timestamps": [],
@@ -261,7 +254,7 @@
       "confidence": 0.7
     }
   ],
-  "episode_summary": "Case Blackwell anchors a post-midterm broadcast covering a $2.5T NASDAQ sell-off, Fox News election-night meltdowns, and odd news including a clothespin world-record dog and an 11,578-pound rubber band ball. The therapy segment devolves into Crum relitigating the Crum Dick Punch, confessing to using zombie children as processing chips in Rennerton, and threatening to sue chat. Crum then physically breaks into Case's home to deliver a rambling apology to women before being ejected. The show ends with a raid on Steve's Ocarina of Time stream.",
+  "episode_summary": "Case Blackwell anchors a post-midterm broadcast covering a $2.5T NASDAQ sell-off, Fox News election-night meltdowns, and odd news including a clothespin world-record dog and an 11,578-pound rubber band ball. The Munch & Crum debate devolves into Crum relitigating the Crum Dick Punch, confessing to using zombie children as processing chips in Rennerton, and threatening to sue chat. Crum then physically breaks into Case's home to deliver a rambling apology to women before being ejected. The show ends with a raid on Steve's Ocarina of Time stream.",
   "_meta": {
     "vod_id": "2920702503",
     "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
