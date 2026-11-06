@@ -36,6 +36,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-06|2026-11-06]] | debate analyst. |
 | [[episodes/2026-11-05|2026-11-05]] | debate analyst. |
 | [[episodes/2026-11-04|2026-11-04]] | Gambling-addicted debate analyst picks skins for pickup basketball tradition, claims medical exemption from shirts. |
 | [[episodes/2026-11-03|2026-11-03]] | debate analyst. |
@@ -55,13 +56,13 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-07-17|2026-07-17]] | Senior debate analyst. Bantered in cold open, defended his MIDI keyboard, debated merch priority with Munch, recorded the Stephanie merch-drop rap with explicit pre-emptive marital fidelity disclaimer to his wife Belolia, appeared during the Chet therapy segment. |
 | [[episodes/2026-07-13|2026-07-13]] | Senior debate analyst arguing for the reinstatement of AI Rooney. Shares a bizarre, fabricated(?) origin story of his name involving a Crumbl cookie shop birth on a 12-inch party sub. |
 | [[episodes/2026-07-11|2026-07-11]] | Senior debate analyst; criticizes Case's haircut, references his father's dealership, and flees after a debate over political violence. |
-| [[episodes/2026-06-27|2026-06-27]] | Senior debate analyst. Interjects from the satellite room to rap with the Hype Train and debate Reggae vs Emo. |
 
 <details>
-<summary>Earlier appearances (204)</summary>
+<summary>Earlier appearances (205)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-06-27|2026-06-27]] | Senior debate analyst. Interjects from the satellite room to rap with the Hype Train and debate Reggae vs Emo. |
 | [[episodes/2026-06-18|2026-06-18]] | Senior debate analyst. Hollow-eyed, bald. Demands total abolition of improvisation. Suffers 36-year UTI causing acidic urine. Openly hates Irish people. Wife seeing therapist (referenced). Gambling debts canonical but not mentioned this episode. |
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity and Dick Punch wager. |
 | [[episodes/2026-06-08|2026-06-08]] | Senior debate analyst (hollow-eyed, bald). Argues for political decorum, reveals Dubai 'classified' social life, honey-bag therapy, claims penile conditioning for gorilla dick-punch. |
@@ -272,6 +273,10 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 ## Notable moments
 
 
+- **[1:19:48]** ([[episodes/2026-11-06|2026-11-06]]): Admits Rennerton crimes: 'turned my fucking elementary schools into data centers and I used my children as processing chips... filled the heads of kids with a bunch of computers' (claims they were zombies).
+- **[1:18:43]** ([[episodes/2026-11-06|2026-11-06]]): Claims peen.ui data centers approved for elementary school parking lots because he 'paid debt to society by already getting punched in the penis by a gorilla.'
+- **[1:14:08]** ([[episodes/2026-11-06|2026-11-06]]): Describes hell-form experience: 'anger of the thousand suns... high-pitched tone that somehow felt like honey in my ears whispering to me slay them burn it.'
+- **[1:11:20]** ([[episodes/2026-11-06|2026-11-06]]): States penis is detachable and he was 'infected by a hell spirit'; faith 'not challenged for a second.'
 - **[1:49:13]** ([[episodes/2026-11-03|2026-11-03]]): Referenced by Jeb's Dad as having hell liaison with Hype Train: 'Crumb got freaky in hell when he fucked the hype train.'
 - **[2:01:45]** ([[episodes/2026-11-03|2026-11-03]]): Crum Dick Punch forfeit still unresolved per Jeb's Dad: 'Is today Election Day or is it Crumb Punch Day?'
 - **[1:11:33]** ([[episodes/2026-10-29|2026-10-29]]): Crum claims the gorilla punch execution already occurred and he died but returned; execution 'doesn't work' on him anymore.
@@ -280,7 +285,6 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[16:17]** ([[episodes/2026-09-04|2026-09-04]]): Crum's verbal tics include archaic 'japs' (claiming it's an old-timey word for 'fun mischief' akin to 'getting a cream soda at the doodle shop') and immediate interest in any situation involving his body. He is the scheduled victim of the robotic gorilla crotch-punch on Monday.
 - **[52:07]** ([[episodes/2026-09-02|2026-09-02]]): Vows publicly on stream that 'I will be getting my penis punched on Monday,' and later in the debate claims he has trained for it and possesses 'super strength for some reason in spits,' demonstrated by crushing an electric toothbrush to dust.
 - **[1:16:44]** ([[episodes/2026-09-02|2026-09-02]]): Hosts the Best Boob Club at his house 'because their wives get mad if they do it,' but is told 'you're just the host, you're not a member' — his own wife's breasts are repeatedly rejected.
-- **[1:21:58]** ([[episodes/2026-09-02|2026-09-02]]): Intended studio-guest-vs-Kendelle prompt is overtaken by the Crum-penis-punch thread.
 - **[48:23]** ([[episodes/2026-09-01|2026-09-01]]): Crum has agreed to let the gorilla now punch him in the penis on the following Monday (the last show before Case goes to Thailand). He claims he has 'meditated' and feels 'spiritually and physically secure' to allow it to happen 'consensually.'
 - **[47:37]** ([[episodes/2026-09-01|2026-09-01]]): Crum recounts the full origin of the gorilla punch: he bet a gorilla '$200,000-ish' and when the amount went up, he let the gorilla punch him, which 'sent me to a fugue state for several years' and 'killed him and sent him to hell.'
 - **[56:36]** ([[episodes/2026-09-01|2026-09-01]]): Crum reveals he has been eating raw turnips straight from his turnip garden ('I took them straight out of the dirt and I ate them right away'), making his wife yell from the third story that he needs to clean them.
@@ -293,7 +297,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[9:08]** ([[episodes/2026-06-19|2026-06-19]]): Crum's D*ck Punch wager against Munch was the defining political storyline of the recent period, reaching its explosive conclusion on September 7, 2026.
 - **[1:18:34]** ([[episodes/2026-06-18|2026-06-18]]): Suffers 36-year urinary tract infection causing highly acidic urine; openly states hatred of Irish people as 'legal' and 'allowed' character trait; wife currently seeing therapist.
 - **[1:18:36]** ([[episodes/2026-06-15|2026-06-15]]): Crum is referenced in the context of the unresolved Dick Punch wager and body positivity debate.
-- **[57:50]** ([[episodes/2025-06-17|2025-06-17]]): Crum's gorilla groin-punch execution is scheduled for the June 18 broadcast (Case off Wednesday).
-- **[1:02:20]** ([[episodes/2025-06-17-SmtzHJfYna0|2025-06-17]]): Crum's wife is named Belilia; she is active on Instagram and responds to DMs.
 - ([[episodes/2025-05-30-QRN1ZIHDHG8|2025-05-30]]): Crum's gorilla debt: $100k remaining, $15k per win, 7 wins needed, face punch forfeit if not cleared in 8 debates [40:30-41:37]
-- **[2:12:58]** ([[episodes/2024-10-13-DRCre_ofu50|2024-10-13]]): Crum confirms marriage to Belulia and claims Krav Maga/Tai Chi training

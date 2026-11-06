@@ -1,0 +1,273 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "08:04",
+      "canonical_segment": "News",
+      "title": "Cold Open & Network Sign-On",
+      "notes": "Pepito delivers the top-of-hour broadcast sign-on with glitched audio; Case promotes Kickstarter follower goal (119 reached) and teases Saturday co-stream with John Madison."
+    },
+    {
+      "start": "08:04",
+      "end": "20:44",
+      "canonical_segment": "News",
+      "title": "Pre-Show Chat, Cat Cam & Expert Calls",
+      "notes": "Case discusses cat cam, food apps, and Kickstarter; calls expert Bill Stern for stream-anniversary reenactment; calls expert Clive Clifton for campaign-promise bit; BIN Wiki entries for Case and Peter read aloud."
+    },
+    {
+      "start": "20:44",
+      "end": "38:46",
+      "canonical_segment": "News",
+      "title": "News Desk: Market Sell-Off & Midterm Aftermath",
+      "notes": "Case and Peter Gibbon cover $2.5T NASDAQ wipeout, AI bubble fears, Mississippi Senate race; Peter claims rats in every Senate building and offers wall-based stock visions."
+    },
+    {
+      "start": "38:46",
+      "end": "47:15",
+      "canonical_segment": "News",
+      "title": "Election Night Reaction Compilation",
+      "notes": "Case and Peter watch Fox News election-night meltdown montage; mock Trey Gowdy's shine and horror novels; react to John Stewart demanding Schumer op-ed."
+    },
+    {
+      "start": "47:15",
+      "end": "49:19",
+      "canonical_segment": "News",
+      "title": "Trey Gowdy & John Stewart Commentary",
+      "notes": "Extended discussion of Gowdy's appearance, 'Sound of Regret' book, Equinox locker-room sightings; Stewart clip on Schumer, seniority system, Democratic leadership."
+    },
+    {
+      "start": "49:19",
+      "end": "55:22",
+      "canonical_segment": "News",
+      "title": "UPI Odd News: World Records",
+      "notes": "Dog clothespin record, 3-foot alligator in NC bagel shop, 11,578-lb rubber band ball in Michigan, British town crier Brenda Willison (loudest female shout, 39th anniversary)."
+    },
+    {
+      "start": "55:22",
+      "end": "57:09",
+      "canonical_segment": "News",
+      "title": "Full House Wardrobe Malfunction & Peter's Anatomy",
+      "notes": "Full House actress recalls guest star Brian Evans needing extra wardrobe; Peter volunteers his own 'stubby, outward, dimple-creating' penis details."
+    },
+    {
+      "start": "57:09",
+      "end": "01:00:04",
+      "canonical_segment": "News",
+      "title": "Pete Hegseth Replacements & Russell Brand Conviction",
+      "notes": "Trump discussing Hegseth replacements; Russell Brand found guilty of one rape count and three sexual assault counts at Southwark Crown Court; Case retires Brand character."
+    },
+    {
+      "start": "01:00:04",
+      "end": "01:10:17",
+      "canonical_segment": "News",
+      "title": "Joe Rogan Clip & Commentary",
+      "notes": "Case and Peter watch Rogan clip on social media echo chambers, phone addiction, fear manipulation; Case calls Rogan 'one of the dumbest people alive'; compare to Munch & Crum debate style."
+    },
+    {
+      "start": "01:07:24",
+      "end": "01:10:17",
+      "canonical_segment": "Rebuild Rennerton",
+      "title": "Rennerton Rebuild Planning",
+      "notes": "Case announces Valheim rebuild session tomorrow; explains mod barrier, seeks free alternatives like Palworld; mentions AI-generated Spyro hentai game attempt blocked by Claude."
+    },
+    {
+      "start": "01:10:17",
+      "end": "01:25:25",
+      "canonical_segment": "Therapy",
+      "title": "Therapy Session: Crum Dick Punch Relitigation",
+      "notes": "Crum and Skeleton Munch debate head vs. dick punch rematch; Crum describes hell-form fireball, detachable penis, Matt Ladel sabotage theory, Rennerton child-processing crimes, threatens to sue chat."
+    },
+    {
+      "start": "01:11:52",
+      "end": "01:25:25",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munch & Crum: Punch Rematch Debate",
+      "notes": "Overlapping with Therapy: Skeleton Munch and Crum argue over head vs. groin punch; Crum chooses dick punch, reveals hell transit assistant-manager role, claims peen.ui data centers legally approved due to prior punch."
+    },
+    {
+      "start": "01:25:25",
+      "end": "01:30:32",
+      "canonical_segment": "News",
+      "title": "Crum Home Invasion & Apology Tour",
+      "notes": "Crum physically enters Case's house uninvited; delivers rambling apology to women; Case ejects him; Crum threatens lawsuits over syllables and chat slander."
+    },
+    {
+      "start": "01:30:32",
+      "end": "01:31:41",
+      "canonical_segment": "News",
+      "title": "Raid & Sign-Off",
+      "notes": "Case raids Steve's Ocarina of Time stream; reminds viewers of Patreon and tomorrow's Rennerton rebuild; ends No-Breaks-November broadcast."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers glitched sign-on, operates cat cam, issues food demands, confirms permanent EP status over Peter.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors post-midterm broadcast, manages Kickstarter promo, reads BIN Wiki entries, ejects Crum from home at broadcast end.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Relitigates Crum Dick Punch in therapy, confesses Rennerton atrocities, threatens to sue chat, breaks into Case's house for apology tour.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch (Ralph Munchcut)",
+      "role": "debate analyst",
+      "notes": "debate analyst. Skeleton Munch debates Crum on punch rematch, mocks Crum's hell transit job, claims thousand-year political majority.",
+      "canonical_name": "Munch (Ralph Munchcut)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Bill Stern",
+      "role": "call-in guest",
+      "notes": "call-in guest. Expert reenacts 'I hate Case Blackwell' sketch, improvises 'no-no-yes' rule, ranks Waterloo flavors.",
+      "canonical_name": "Bill Stern",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Clive Clifton",
+      "role": "call-in guest",
+      "notes": "call-in guest. Expert delivers campaign promise: eliminate lawns for infinite football field, wishes happy stream-anniversary.",
+      "canonical_name": "Clive Clifton",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Brief off-camera appearance; Peter feeds her sesame despite allergy to 'make her stronger'.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:12:27] Crum confirms he already received the mandated gorilla dick punch, 'paid debt to society,' and claims peen.ui data centers legally approved as result.",
+      "timestamp": "01:12:27"
+    },
+    {
+      "storyline": "Join the Wall",
+      "beat": "[01:13:35] Crum references hell transit authority where he worked as assistant manager after Join the Wall events; accuses Matt Ladel of unplugging Rock-afire before punch.",
+      "timestamp": "01:13:35"
+    },
+    {
+      "storyline": "Rennerton",
+      "beat": "[01:07:24] Case announces Valheim rebuild session for tomorrow; [01:18:43] Crum claims peen.ui data centers going into elementary school parking lots; [01:19:48] Crum admits using zombie children as processing chips in Rennerton.",
+      "timestamp": "01:07:24"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Confirms permanent residence inside studio crawlspaces and drywall; wiki entry reads 'disgraced former executive producer... currently designated on screen as the network's News Stowaway and Food Eater.'",
+      "timestamp": "[20:44]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Feeds sesame seeds to Kendelle despite her allergy to 'make her stronger.'",
+      "timestamp": "[22:29]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Peter Gibbon",
+      "fact": "Reveals 'slightly below average penis but it protrudes... not stiff but stays a little stiff all the time.'",
+      "timestamp": "[56:30]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Experiences reality fracture: 'creeping sense of dread and panic... reality fractures and my beliefs in who I and what I am continue to dissolve.'",
+      "timestamp": "[01:10:50]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "States penis is detachable and he was 'infected by a hell spirit'; faith 'not challenged for a second.'",
+      "timestamp": "[01:11:20]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Accuses Matt Ladel of bribing intern to unplug Rock-afire animatronic before dick punch.",
+      "timestamp": "[01:13:35]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Describes hell-form experience: 'anger of the thousand suns... high-pitched tone that somehow felt like honey in my ears whispering to me slay them burn it.'",
+      "timestamp": "[01:14:08]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Claims peen.ui data centers approved for elementary school parking lots because he 'paid debt to society by already getting punched in the penis by a gorilla.'",
+      "timestamp": "[01:18:43]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Admits Rennerton crimes: 'turned my fucking elementary schools into data centers and I used my children as processing chips... filled the heads of kids with a bunch of computers' (claims they were zombies).",
+      "timestamp": "[01:19:48]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Threatens to sue chat for slander: 'I'm taking you to court fucking TV.'",
+      "timestamp": "[01:20:21]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Physically breaks into Case Blackwell's house: 'knocked and then she didn't answer and then I just jiggled the handle.'",
+      "timestamp": "[01:25:25]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Delivers apology tour to women: 'I do apologize but not to the people who have wronged me... to women is who I apologize to.'",
+      "timestamp": "[01:26:31]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch (Ralph Munchcut)",
+      "fact": "Claims 'thousand-year' political majority after midterm sweep; threatens Crum with legal action over 'too many syllables.'",
+      "timestamp": "[01:29:21]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a post-midterm broadcast covering a $2.5T NASDAQ sell-off, Fox News election-night meltdowns, and odd news including a clothespin world-record dog and an 11,578-pound rubber band ball. The therapy segment devolves into Crum relitigating the Crum Dick Punch, confessing to using zombie children as processing chips in Rennerton, and threatening to sue chat. Crum then physically breaks into Case's home to deliver a rambling apology to women before being ejected. The show ends with a raid on Steve's Ocarina of Time stream.",
+  "_meta": {
+    "vod_id": "2920702503",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 87600,
+    "approx_prompt_tokens": 21900,
+    "transcript_lines": 175
+  }
+}

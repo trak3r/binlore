@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T11:50:10.762276+00:00",
+  "generated_at": "2026-11-06T11:45:49.651770+00:00",
   "thresholds": {
     "minor": 3,
     "recurring": 6,
@@ -8,7 +8,7 @@
   "characters": {
     "pepito": {
       "name": "Pepito",
-      "count": 276,
+      "count": 277,
       "episodes": [
         "2023-11-30",
         "2023-12-08",
@@ -285,7 +285,8 @@
         "2026-10-29",
         "2026-11-03",
         "2026-11-04",
-        "2026-11-05"
+        "2026-11-05",
+        "2026-11-06"
       ],
       "display_names": [
         "Pepito"
@@ -293,7 +294,7 @@
     },
     "case-blackwell": {
       "name": "Case Blackwell",
-      "count": 275,
+      "count": 276,
       "episodes": [
         "2023-11-22",
         "2023-11-23",
@@ -569,7 +570,8 @@
         "2026-10-29",
         "2026-11-03",
         "2026-11-04",
-        "2026-11-05"
+        "2026-11-05",
+        "2026-11-06"
       ],
       "display_names": [
         "Case Blackwell"
@@ -577,7 +579,7 @@
     },
     "crum": {
       "name": "Crum (Leonard Crum)",
-      "count": 226,
+      "count": 227,
       "episodes": [
         "2023-11-22",
         "2023-11-28",
@@ -804,7 +806,8 @@
         "2026-10-29",
         "2026-11-03",
         "2026-11-04",
-        "2026-11-05"
+        "2026-11-05",
+        "2026-11-06"
       ],
       "display_names": [
         "Crum (Leonard Crum)"
@@ -1043,7 +1046,7 @@
     },
     "munch": {
       "name": "Munch (Ralph Munchcut)",
-      "count": 212,
+      "count": 213,
       "episodes": [
         "2023-11-22",
         "2023-11-28",
@@ -1256,7 +1259,8 @@
         "2026-10-29",
         "2026-11-03",
         "2026-11-04",
-        "2026-11-05"
+        "2026-11-05",
+        "2026-11-06"
       ],
       "display_names": [
         "Munch (Ralph Munchcut)"
@@ -1264,7 +1268,7 @@
     },
     "kendelle": {
       "name": "Kendelle",
-      "count": 200,
+      "count": 201,
       "episodes": [
         "2023-11-23",
         "2023-11-28",
@@ -1465,7 +1469,8 @@
         "2026-09-25",
         "2026-10-10",
         "2026-10-23",
-        "2026-11-05"
+        "2026-11-05",
+        "2026-11-06"
       ],
       "display_names": [
         "Kendelle"
@@ -3435,6 +3440,16 @@
         "Big Chatter"
       ]
     },
+    "bill-stern": {
+      "name": "Bill Stern",
+      "count": 1,
+      "episodes": [
+        "2026-11-06"
+      ],
+      "display_names": [
+        "Bill Stern"
+      ]
+    },
     "biscord-dronovan": {
       "name": "Biscord (Dronovan)",
       "count": 1,
@@ -3613,6 +3628,16 @@
       ],
       "display_names": [
         "Cleetance Mudbutter"
+      ]
+    },
+    "clive-clifton": {
+      "name": "Clive Clifton",
+      "count": 1,
+      "episodes": [
+        "2026-11-06"
+      ],
+      "display_names": [
+        "Clive Clifton"
       ]
     },
     "coach-mcgopp": {

@@ -60,6 +60,7 @@ Since [[../episodes/2026-09-07|2026-09-07]], Munch has been a living, talking sk
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-06|2026-11-06]] | debate analyst. |
 | [[episodes/2026-11-05|2026-11-05]] | debate analyst. |
 | [[episodes/2026-11-04|2026-11-04]] | Skeleton debate analyst argues shirts represent civilizational progress, reveals failed Buzz Lightyear Halloween costume. |
 | [[episodes/2026-11-03|2026-11-03]] | debate analyst. |
@@ -79,13 +80,13 @@ Since [[../episodes/2026-09-07|2026-09-07]], Munch has been a living, talking sk
 | [[episodes/2026-06-29|2026-06-29]] | Mentioned as a possible matching shirt for the upcoming BIN merch drop ('a Munch shirt and a Crum shirt'). |
 | [[episodes/2026-06-18|2026-06-18]] | Senior debate analyst. Disheveled silver hair. Defends improv as valid art form. Reveals eight years improv training (1991-1998) including class with Anchorman extra. Proud Democrat. |
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity. |
-| [[episodes/2026-06-05|2026-06-05]] | Senior debate analyst with distinctive disheveled appearance and confrontational debate style. |
 
 <details>
-<summary>Earlier appearances (193)</summary>
+<summary>Earlier appearances (194)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-06-05|2026-06-05]] | Senior debate analyst with distinctive disheveled appearance and confrontational debate style. |
 | [[episodes/2026-05-26|2026-05-26]] | Senior debate analyst known for his disheveled silver hair and combative political style. Engages in heated exchanges with Crum and frequently references his 'Dick Punch' wager storyline. |
 | [[episodes/2026-05-22|2026-05-22]] | debate analyst. |
 | [[episodes/2026-05-21|2026-05-21]] | debate analyst. |

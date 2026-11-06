@@ -94,6 +94,7 @@ On [[../episodes/2025-09-25|Post Wall and Rapture Clarity]], resurrected Crum si
 | [[../episodes/2026-10-10|2026-10-10]] [58:58] | [58:58] Munch admits he died and returned from hell; confirms dead community meetings; skeleton form is permanent. |
 | [[../episodes/2026-11-03|2026-11-03]] [1:49:13] | [01:49:13] Jeb's Dad reveals 'Crumb got freaky in hell when he fucked the hype train' — hell transit liaison referenced. |
 | [[../episodes/2026-11-04|2026-11-04]] | [54:44-55:06] Munch and Crum's bone temple/card-shuffling banter recalls the crawlspace hell transit where deceased Crum worked as assistant manager. |
+| [[../episodes/2026-11-06|2026-11-06]] [1:13:35] | [01:13:35] Crum references hell transit authority where he worked as assistant manager after Join the Wall events; accuses Matt Ladel of unplugging Rock-afire before punch. |
 
 ## Related Pages
 
