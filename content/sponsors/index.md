@@ -14,5 +14,6 @@ Corporate partners, local business underwriters, and dubious culinary franchises
 | [[milk-cola\|Milk Cola]] | Calcium Beverage | Styled **MLK Cola** on air • Calcium-flavored soda legally distinct from milk | [[../segments/cryptozeus\|CryptoZeu$]] |
 | [[markinsons-wet-ham-emporium\|Markinson's Wet Ham Emporium]] | Deli / Hardware | Wet-ham deli that underwrites Brandon's PC (not Dell) | [[../segments/cryptozeus\|CryptoZeu$]] |
 | [[rock-ice\|Rock Ice]] | Beverage (former) | Kid Rock drink • Over 30% water, sold at Kroger | Prior [[../characters/cryptozeus\|CryptoZeu$]] sponsorship |
+| [[peen-ui\|Peen.UI]] | AI / Urine-Based Fintech | *"Stock advice, straight from the source."* • Reads your urine color for stock tips; sued [[../characters/crum\|Crum]] into the gorilla punch | [[../characters/crum\|Crum]]'s sponsorship & lawsuit; network data-scraping contract |
 
 See also: [[../segments/index|Broadcast Segments]], [[../characters/index|On-Air Talent]], [[../storylines/index|Events & Story Arcs]].

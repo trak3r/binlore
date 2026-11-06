@@ -19,7 +19,7 @@ tags:
 
 ## Overview & Persona
 
-McGurk debuted (in currently documented canon) during the [[../episodes/2026-03-07|2026-03-07]] peen.ui mock trial, called by defense counsel as someone who knew Crum *"when he was just a Bart Simpson voice and zombie head — some might say his best self."*
+McGurk debuted (in currently documented canon) during the [[../episodes/2026-03-07|2026-03-07]] [[../sponsors/peen-ui|peen.ui]] mock trial, called by defense counsel as someone who knew Crum *"when he was just a Bart Simpson voice and zombie head — some might say his best self."*
 
 On the stand he greets the room warmly, notes that some of his old voice has returned, and objects not to the substance of the case but to opposing counsel's pantslessness — citing concern about how the executive branch treats the free-balling lifestyle.
 

@@ -33,6 +33,7 @@ The storyline reached its cataclysmic climax on **September 7, 2026**, when the 
 ## Background & Network Record
 
 - **The Gambling Liability:** Crum's chronic gambling addiction produced a new ~"$200,000-ish" wager with the mechanical gorilla in 2026. Having lost, the terms dictated a full-force groin punch from the ape's pneumatic fist on live television.
+- **The Court Order:** The punch was also handed down as a sentence. At the [[../episodes/2026-03-07|2026-03-07]] mock trial in [[../sponsors/peen-ui|Peen.UI]] v. Crum, Case sentenced Crum to debate a gorilla and then take a gorilla punch, plus $6 million owed to Peen.UI. Crum later called it being "mandated by a court to get punched in the penis."
 - **Regulatory Hurdles & Delays:** Through summer 2026 the execution was repeatedly deferred. Crum cited Nevada Gaming / Boxing Commission complications, claimed dick punching was an uncodified 18th-century circus attraction, petitioned for iron undergarments, and sought a "reverse pardon."
 - **Munch's Campaign:** Munch agitated for execution, rallied chat, and recited viewer dossiers titled *"Reasons You Deserve to Get Your Dick Punched."*
 - **Crum's Conditioning:** Crum swung 45-pound weighted logs into his crotch, boasted of "super strength in spits," crushed an electric toothbrush to powder on air, and warned: *"My penis can handle a lot... good luck to that gorilla's fist."*
@@ -142,12 +143,12 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2026-01-22|2026-01-22]] [50:38] | Case references Munch and Crum's rivalry at [50:38]: 'Haven't seen Krum through a debate this hard... What are Munch and Crom going to recreate heated rivalry.' |
 | [[../episodes/2026-01-27|2026-01-27]] [57:25] | Chat references the Hellcrumb poster and asks if Crum will be killed again to release it [57:25], indicating the resolved storyline remains a community touchstone. |
 | [[../episodes/2026-02-04|2026-02-04]] [1:07:57] | [1:07:57] Crum claims 1600-year immortality and references past sins during forgiveness debate, reinforcing his mythic durability ahead of the unresolved mechanical gorilla wager. |
-| [[../episodes/2026-02-10|2026-02-10]] | [2026-02-10] Crum reveals PNUI sponsorship (urine-color stock AI), admits being sued by sponsor for false claims, and discloses alleged vibe-coded rival PNUChrist.ai during Munch & Crum debate before recusing himself. |
-| [[../episodes/2026-02-12|2026-02-12]] | Crum references new legal trouble with Pino Y app ('penis in his eye') and solicits Crum Legal Defense Fund, distinct from resolved gorilla wager. |
-| [[../episodes/2026-02-14|2026-02-14]] [1:35:05] | Crum references ongoing P-NU Christ.ai litigation involving stolen medical/financial records of deceased Kentucky grandmas; solicits donations for legal defense; claims angel investor status. [01:35:05] |
+| [[../episodes/2026-02-10|2026-02-10]] | [2026-02-10] Crum reveals [[../sponsors/peen-ui|PNUI]] sponsorship (urine-color stock AI), admits being sued by sponsor for false claims, and discloses alleged vibe-coded rival PNUChrist.ai during Munch & Crum debate before recusing himself. |
+| [[../episodes/2026-02-12|2026-02-12]] | Crum references new legal trouble with [[../sponsors/peen-ui|Peen.UI]] app ('penis in his eye') and solicits Crum Legal Defense Fund, distinct from resolved gorilla wager. |
+| [[../episodes/2026-02-14|2026-02-14]] [1:35:05] | Crum references ongoing [[../sponsors/peen-ui|P-NU Christ.ai]] litigation involving stolen medical/financial records of deceased Kentucky grandmas; solicits donations for legal defense; claims angel investor status. [01:35:05] |
 | [[../episodes/2026-02-17|2026-02-17]] [1:27:28] | [01:27:28] Crum's 'best end game in all St. Thomas' claim resurfaces during hand game debate; Crum details advanced masturbation technique as proof of sexual prowess ahead of pending groin-punch liability. |
 | [[../episodes/2026-02-19|2026-02-19]] [49:27] | [49:27] Crum announces legal trial next week; defense firm Twyche & At retained; legal defense fund fully funded via Pepito's hype train goal. |
-| [[../episodes/2026-03-06|2026-03-06]] | [2026-03-06] Crum reveals 'big trial tomorrow' (2026-03-07) vs peen.ui for copyright infringement/misleading investors; mentions Don Chunder as possible counsel; affirms confidence via breathing exercises and 'sturdy fingernails'. |
+| [[../episodes/2026-03-06|2026-03-06]] | [2026-03-06] Crum reveals 'big trial tomorrow' (2026-03-07) vs [[../sponsors/peen-ui|peen.ui]] for copyright infringement/misleading investors; mentions Don Chunder as possible counsel; affirms confidence via breathing exercises and 'sturdy fingernails'. |
 | [[../episodes/2026-03-10|2026-03-10]] | [19:43-59:01] Crum's pending gorilla dick punch referenced throughout news desk; Crum claims he's training penis to be 'hard as a rock', denies wife left him for Dorf, reveals 90% stake in soy meal company. |
 | [[../episodes/2026-03-12|2026-03-12]] [1:21:56] | [01:21:56] Crum claims super-strength (tearing doors, splitting tables) from 'fugue state' after hell resurrection; Munch unimpressed. |
 | [[../episodes/2026-03-17|2026-03-17]] [1:55:16] | [1:55:16] Crum references pending gorilla dick punch: 'if people want me dead, I have to get punched in the dick by gorilla'; claims he pulled studio door off hinges with super strength [1:56:30]; Munch says chat wants Crum to die again [1:59:10]. |
@@ -189,7 +190,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2026-11-03|2026-11-03]] [2:01:45] | [02:01:45] Jeb's Dad asks 'Is today Election Day or is it Crumb Punch Day?' confirming groin-punch forfeit still pending in lore. |
 | [[../episodes/2026-11-04|2026-11-04]] [54:25] | Crum calls Munch's skeleton form "self-imposed": "even in my hell form" he never meant for Munch to become a talking skeleton from "absorbing a fireball." Munch: "you still tried to make me one." |
 | [[../episodes/2026-11-05|2026-11-05]] [1:14:05] | [1:14:05] Crum references Kalshi election betting (not traditional sportsbooks) while downplaying losses; Munch and chat vote he went deeper into debt. |
-| [[../episodes/2026-11-06|2026-11-06]] [1:12:27] | [01:12:27] Crum confirms he already received the mandated gorilla dick punch, 'paid debt to society,' and claims peen.ui data centers legally approved as result. |
+| [[../episodes/2026-11-06|2026-11-06]] [1:12:27] | [01:12:27] Crum confirms he already received the mandated gorilla dick punch, 'paid debt to society,' and claims [[../sponsors/peen-ui|peen.ui]] data centers legally approved as result. |
 
 ## Related Pages
 
@@ -198,4 +199,5 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 - [[../characters/crum|Leonard Crum]]
 - [[../characters/munch|Ralph Munchcut]]
 - [[../segments/munch-and-crum|Munch & Crum]]
+- [[../sponsors/peen-ui|Peen.UI]] (plaintiff in the trial that ordered the punch)
 - [[../episodes/2026-09-07|Episode 2026-09-07 (Crum Punch News)]]

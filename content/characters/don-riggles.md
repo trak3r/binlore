@@ -20,7 +20,7 @@ tags:
 
 ## Overview & Persona
 
-Riggles reappeared during the [[../episodes/2026-03-07|2026-03-07]] peen.ui IP mock trial after a long absence from the broadcast. Called to the stand mid-proceedings, he immediately framed the case as a *"big fresh stack of ass pooping out smells"* and later returned for a second pass to insult [[crum|Crum]]'s breath and bowels.
+Riggles reappeared during the [[../episodes/2026-03-07|2026-03-07]] [[../sponsors/peen-ui|peen.ui]] IP mock trial after a long absence from the broadcast. Called to the stand mid-proceedings, he immediately framed the case as a *"big fresh stack of ass pooping out smells"* and later returned for a second pass to insult [[crum|Crum]]'s breath and bowels.
 
 His entire on-air vocabulary tends toward smells, gases, and digestive catastrophe — a fact he cheerfully acknowledges when challenged (*"Why would you invite me? That's my whole thing."*).
 

@@ -30,6 +30,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 
 - **Crippling Gambling Addiction:** Compulsively enters into ill-advised, high-stakes wagers that he invariably loses, resulting in severe physical liabilities and mounting financial crises.
 - **Physical Defiance:** Claims impossible anatomical resilience under pressure, including "super strength in spits" and demonstrating his vigor by crushing an electric toothbrush into dust.
+- **Tech Mogul (Defendant):** Sponsored by, invested in, and "technically one of the founders" of [[../sponsors/peen-ui|Peen.UI]], the urine-color stock-advice AI, which sued him over his knockoff PNUChrist.ai. The resulting trial ([[../episodes/2026-03-07|2026-03-07]]) sentenced him to the gorilla dick punch plus $6 million.
 - **Bizarre Personal Habits:** Frequently drops unhinged personal anecdotes into political arguments, such as keeping fresh carrots in his vehicle's glove compartment for wild donkeys, or hosting the local "Best Boob Club" while being denied club membership.
 
 ## Clips
@@ -93,7 +94,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-03-17|2026-03-17]] | debate analyst. |
 | [[episodes/2026-03-12|2026-03-12]] | debate analyst. |
 | [[episodes/2026-03-10|2026-03-10]] | debate analyst. |
-| [[episodes/2026-03-07|2026-03-07]] | Stands trial for peen.ui IP infringement; reveals he co-founded peen.ui, has a 'nasty pig room,' and suffers from labia growing on his… |
+| [[episodes/2026-03-07|2026-03-07]] | Stands trial for [[../sponsors/peen-ui|peen.ui]] IP infringement; reveals he co-founded peen.ui, has a 'nasty pig room,' and suffers from labia growing on his… |
 | [[episodes/2026-03-06|2026-03-06]] | debate analyst. |
 | [[episodes/2026-03-03|2026-03-03]] | debate analyst. |
 | [[episodes/2026-02-28|2026-02-28]] | debate analyst. |

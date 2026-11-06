@@ -23,7 +23,7 @@ tags:
 
 ## Overview & Persona
 
-Jizzbo first appears during [[../storylines/join-the-wall|Join the Wall]] as the studio electrician who descends into the drywall with Munch, later returns as a DJ C4 guest artist, and is woven into Crum marital lore as "Freddie Jizzbo." During the [[../episodes/2026-03-07|2026-03-07]] peen.ui IP mock trial he is called back from the mountain, announces *"I'm here. It's me. It's jizzbo,"* claims to still be in great shape, and meets a defense prompt by launching into Gloria Estefan's *"Conga"* instead of testimony.
+Jizzbo first appears during [[../storylines/join-the-wall|Join the Wall]] as the studio electrician who descends into the drywall with Munch, later returns as a DJ C4 guest artist, and is woven into Crum marital lore as "Freddie Jizzbo." During the [[../episodes/2026-03-07|2026-03-07]] [[../sponsors/peen-ui|peen.ui]] IP mock trial he is called back from the mountain, announces *"I'm here. It's me. It's jizzbo,"* claims to still be in great shape, and meets a defense prompt by launching into Gloria Estefan's *"Conga"* instead of testimony.
 
 The court sustains the musical interruption despite Jizzbo clarifying he does not believe a question was asked.
 

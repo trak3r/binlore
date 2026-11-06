@@ -57,7 +57,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-09-01|2026-09-01]] | Executes the top-of-hour station sign-on and production countdown. |
 | [[episodes/2026-08-26|2026-08-26]] | Delivers the official network cold-open and production queue. |
 | [[episodes/2026-08-19|2026-08-19]] | Executive Producer opening the broadcast from the Producer Cam. |
-| [[episodes/2026-08-14|2026-08-14]] | Executive Producer. Opens the broadcast with his signature 'I'm Pepito, I'm the dog that produces the show' introduction, handles the live countdown, and pushes the PNUI data scraping promo. |
+| [[episodes/2026-08-14|2026-08-14]] | Executive Producer. Opens the broadcast with his signature 'I'm Pepito, I'm the dog that produces the show' introduction, handles the live countdown, and pushes the [[../sponsors/peen-ui|PNUI]] data scraping promo. |
 | [[episodes/2026-08-08|2026-08-08]] | Executive Producer who opens the broadcast via the Producer Cam. |
 | [[episodes/2026-08-06|2026-08-06]] | Executive producer appearing via the dedicated Producer Cam. Delivers his signature canine cold open ('I'm Pepito, I'm the dog that produces the show'). |
 | [[episodes/2026-07-24|2026-07-24]] | Executive Producer. Opens the broadcast with his signature canine greeting and closes the show with an improvised spiritual sermon on AX body spray commercials, pocket jerky, Peter Gibbon spilling battery acid, and playing the 'Pure Mood' CD. |
