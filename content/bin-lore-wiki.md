@@ -3,7 +3,6 @@ title: BIN Lore Wiki
 description: Every time Barely Informed News has talked about this wiki on air.
 aliases:
   - BIN Wiki
-  - Bin Lore Wiki
 ---
 
 # BIN Lore Wiki
