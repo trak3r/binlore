@@ -82,7 +82,8 @@ const defaultOptions: Options = {
       return -1
     }
   },
-  filterFn: (node) => node.slugSegment !== "tags",
+  // Self-referential pages are reachable only from links in episode recaps.
+  filterFn: (node) => !["tags", "teflon-ted", "bin-lore-wiki"].includes(node.slugSegment),
   order: ["filter", "map", "sort"],
 }
 

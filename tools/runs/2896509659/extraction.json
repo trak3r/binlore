@@ -12,7 +12,7 @@
       "start": "17:00",
       "end": "42:16",
       "title": "News Desk: JD Vance, Ice Cream Shop, Pikachu ISS Tour",
-      "notes": "Case and Liliana review bin lore wiki; JD Vance clip on livestreamed execution; Massachusetts ice cream shop viral post; Pikachu ISS tour triggers Chet Guy the Science Eyes."
+      "notes": "Case credits [[teflon-ted|Teflon Ted]] for the new [[bin-lore-wiki|BIN Lore wiki]] and reviews it with Liliana; JD Vance clip on livestreamed execution; Massachusetts ice cream shop viral post; Pikachu ISS tour triggers Chet Guy the Science Eyes."
     },
     {
       "canonical_segment": "Chet Guy the Science Eyes",
@@ -88,7 +88,7 @@
     {
       "name": "Kendelle",
       "role": "in-studio contributor",
-      "notes": "in-studio contributor. Brief studio walk-through for equipment; engagement confirmed via wiki and debated on air.",
+      "notes": "in-studio contributor. Brief studio walk-through for equipment; engagement confirmed via [[bin-lore-wiki|wiki]] and debated on air.",
       "canonical_name": "Kendelle",
       "speaking": true,
       "timestamps": [],
@@ -97,7 +97,7 @@
     {
       "name": "Liliana",
       "role": "desk partner",
-      "notes": "desk partner. Co-anchored news desk, read ice cream shop story, reacted to wiki entries, challenged JD Vance bit.",
+      "notes": "desk partner. Co-anchored news desk, read ice cream shop story, reacted to [[bin-lore-wiki|wiki]] entries, challenged JD Vance bit.",
       "canonical_name": "Liliana",
       "speaking": true,
       "timestamps": [],
@@ -162,7 +162,7 @@
     },
     {
       "storyline": "Kendall Engagement",
-      "beat": "[22:32] Wiki confirms Kendall engaged; [45:58] Munch & Crum debate whether to tell HateSock; lies faction wins.",
+      "beat": "[22:32] [[bin-lore-wiki|Wiki]] confirms Kendall engaged; [45:58] Munch & Crum debate whether to tell HateSock; lies faction wins.",
       "timestamp": "22:32"
     }
   ],
@@ -186,7 +186,7 @@
       "confidence": 0.7
     }
   ],
-  "episode_summary": "Barely Informed News navigated a segment-dense broadcast featuring a dual Munch & Crum debate while Munch remains in permanent skeleton form, a Chet Guy the Science Eyes interruption on Pikachu reproductive biology, and a Trip on the Street edition plagued by shape-shifting park visitors. The network's bin lore wiki was reviewed live, confirming Kendall's engagement and sparking a debate on whether to inform the HateSock. Executive producer Pepito closed the night with a raid on Raz after Case noted an upcoming project launch with Fiona.",
+  "episode_summary": "Barely Informed News navigated a segment-dense broadcast featuring a dual Munch & Crum debate while Munch remains in permanent skeleton form, a Chet Guy the Science Eyes interruption on Pikachu reproductive biology, and a Trip on the Street edition plagued by shape-shifting park visitors. The network's [[bin-lore-wiki|BIN Lore wiki]] was reviewed live, confirming Kendall's engagement and sparking a debate on whether to inform the HateSock. Executive producer Pepito closed the night with a raid on Raz after Case noted an upcoming project launch with Fiona.",
   "_meta": {
     "vod_id": "2896509659",
     "model": "nvidia/nemotron-3-ultra-550b-a55b:free",

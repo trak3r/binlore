@@ -12,14 +12,14 @@
       "end": "20:44",
       "canonical_segment": "News",
       "title": "Pre-Show Chat, Cat Cam & Expert Calls",
-      "notes": "Case discusses cat cam, food apps, and Kickstarter; calls expert Bill Stern for stream-anniversary reenactment; calls expert Clive Clifton for campaign-promise bit; BIN Wiki entries for Case and Peter read aloud."
+      "notes": "Case discusses cat cam, food apps, and Kickstarter; calls expert Bill Stern for stream-anniversary reenactment; calls expert Clive Clifton for campaign-promise bit."
     },
     {
       "start": "20:44",
       "end": "38:46",
       "canonical_segment": "News",
       "title": "News Desk: Market Sell-Off & Midterm Aftermath",
-      "notes": "Case and Peter Gibbon cover $2.5T NASDAQ wipeout, AI bubble fears, Mississippi Senate race; Peter claims rats in every Senate building and offers wall-based stock visions."
+      "notes": "Case and Peter Gibbon cover $2.5T NASDAQ wipeout, AI bubble fears, Mississippi Senate race; Peter claims rats in every Senate building and offers wall-based stock visions; Case thanks [[teflon-ted|Teflon Ted]], and Peter reads his [[bin-lore-wiki|BIN Lore wiki]] entry aloud."
     },
     {
       "start": "38:46",
@@ -105,7 +105,7 @@
     {
       "name": "Case Blackwell",
       "role": "anchor",
-      "notes": "Anchors post-midterm broadcast, manages Kickstarter promo, reads BIN Wiki entries, ejects Crum from home at broadcast end.",
+      "notes": "Anchors post-midterm broadcast, manages Kickstarter promo, reads [[bin-lore-wiki|BIN Wiki]] entries, ejects Crum from home at broadcast end.",
       "canonical_name": "Case Blackwell",
       "speaking": true,
       "timestamps": [],
@@ -177,7 +177,7 @@
   "lore_notes": [
     {
       "entity": "Peter Gibbon",
-      "fact": "Confirms permanent residence inside studio crawlspaces and drywall; wiki entry reads 'disgraced former executive producer... currently designated on screen as the network's News Stowaway and Food Eater.'",
+      "fact": "Confirms permanent residence inside studio crawlspaces and drywall; [[bin-lore-wiki|wiki]] entry reads 'disgraced former executive producer... currently designated on screen as the network's News Stowaway and Food Eater.'",
       "timestamp": "[20:44]",
       "confidence": 0.7
     },
