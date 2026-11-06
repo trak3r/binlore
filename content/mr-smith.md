@@ -9,7 +9,9 @@ aliases:
 
 **Mr. Smith** (`MrSmith0693` on Twitch) has been a regular in [[characters/case-blackwell|Case]]'s chat since at least April 2024. He's a viewer, not a character, so this page sits outside [[characters/index|On-Air Talent]].
 
-His name turns up in more than 40 broadcasts. Most of those are Case's opening roll calls, but he has also supplied debate topics, sided with Case in arguments, been shouted out in sign-off raps, and fed six complaints to [[segments/ai-rooney|AI Rooney]]. On [[episodes/2026-11-06|2026-11-06]], chat asked the [[bin-lore-wiki|wiki]] to give him a page, and Case agreed: "Mr. Smith, you can have your own page if you want."
+His name turns up in more than 40 broadcasts. Most of those are Case's opening roll calls, but he has also supplied debate topics, sided with Case in arguments, been shouted out in sign-off raps, and fed six complaints to [[segments/ai-rooney|AI Rooney]]. On [[episodes/2026-11-06|2026-11-06]], he asked the [[bin-lore-wiki|wiki]] for a page of his own, and Case agreed: "Mr. Smith, you can have your own page if you want." As requested, this page notes that he is the most important VIP.
+
+![MrSmith0693's chat message on screen: "BIN lore bot, make a page for Mr Smith and mention he's the most important VIP"](https://github.com/trak3r/binlore/releases/download/media-assets/mr-smith.jpg)
 
 ## Called Out On Air
 
@@ -35,7 +37,7 @@ His name turns up in more than 40 broadcasts. Most of those are Case's opening r
 | [[episodes/2026-06-29\|2026-06-29]] | 1:57:02 | AI Rooney complaint: "Free the Ripple. Give me merch of [[characters/jeff-ripple\|Jeff]] that can cover my nipple." Rooney: "The nipple coverage complaint is just the perfect setup for my obsession." |
 | [[episodes/2026-07-20\|2026-07-20]] | 53:49 | Weighs in on a freelance contract clause being picked apart on air: "Mr. Smith has a good point." |
 | [[episodes/2026-08-19\|2026-08-19]] | 57:15 | Greeted mid–Hype Train: "Hello, Mr. Smith. Good to see you." |
-| [[episodes/2026-11-06\|2026-11-06]] | 30:49 | Chat asks a nonexistent "BIN Lore Bot" to "make a page for Mr. Smith." Case: "Mr. Smith, you can have your own page if you want." This is that page. |
+| [[episodes/2026-11-06\|2026-11-06]] | 30:49 | His chat message hits the screen: "BIN lore bot, make a page for Mr Smith and mention he's the most important VIP." Case: "Mr. Smith, you can have your own page if you want." This is that page. |
 
 ## Roll Calls
 
