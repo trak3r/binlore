@@ -1,0 +1,19 @@
+{
+  "vod_id": "2921698711",
+  "title": "Friday Newsing",
+  "url": "https://www.twitch.tv/videos/2921698711",
+  "duration_seconds": 11626,
+  "duration": "3:13:46",
+  "timestamp": 1794009600,
+  "aired_at": "2026-11-07T00:00:00+00:00",
+  "date": "2026-11-07",
+  "ingested_at": "2026-11-07T11:25:48.599301+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "",
+  "yt_url": "",
+  "twitch_id": "2921698711",
+  "twitch_url": "https://www.twitch.tv/videos/2921698711",
+  "catalog_date": "2026-11-07"
+}
