@@ -1,0 +1,172 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "08:51",
+      "canonical_segment": "News",
+      "title": "Cold Open & Sign-On",
+      "notes": "Pepito delivers the top-of-hour countdown; Case Blackwell opens in casual attire, no coat or headphones."
+    },
+    {
+      "start": "08:51",
+      "end": "30:26",
+      "canonical_segment": "News",
+      "title": "Friday News Desk",
+      "notes": "Stephen Miller named chief of staff after midterm defeat; Testimonium Flavianum analysis suggests later Christian interpolation; Eric Armstrong wins Iowa seat despite suspended campaign; Hakeem Jeffries replacement petition hits 500k with Mark Ruffalo support; Mississippi Senate race too close to call with unknown outstanding ballots; Alaska results still counting."
+    },
+    {
+      "start": "30:26",
+      "end": "38:56",
+      "canonical_segment": "News",
+      "title": "Housekeeping & Segment Planning",
+      "notes": "Case announces tomorrow noon co-op stream with John Madison; discusses Clem emote redesign; Russell Brand developments; Mississippi/Alaska election updates."
+    },
+    {
+      "start": "38:56",
+      "end": "44:31",
+      "canonical_segment": "Trent at the Movies",
+      "title": "Aborted Trent at the Movies / Game Browse",
+      "notes": "Case solicits co-op horror suggestions for tomorrow; chat recommends dating sims, tactical gay sex dungeon roguelike (Zugs Wang), chair fucking simulator, drug dealer simulator; no trailer reviews conducted."
+    },
+    {
+      "start": "44:31",
+      "end": "46:08",
+      "canonical_segment": "News",
+      "title": "Breaking News: Twinsen's Odyssey",
+      "notes": "In-game news flash from Little Big Adventure: Twinsen escapes citadel in nurse's uniform, commits misdeeds with magic ball; law enforcement in pursuit."
+    },
+    {
+      "start": "46:08",
+      "end": "51:38",
+      "canonical_segment": "News",
+      "title": "Game Browse Continued",
+      "notes": "Case reviews Nubbies Number Factory, Sleepy Man music video, Baldi's Fun New School, Police Simulator, Odium Floreo; decides to pivot to Rebuild Rennerton."
+    },
+    {
+      "start": "51:38",
+      "end": "03:07:14",
+      "canonical_segment": "Rebuild Rennerton",
+      "title": "Rebuild Rennerton: Gooters Castle & Mayoral Election",
+      "notes": "Skeleton Munch broadcasts from Rennerton wilds; completes Gooters castle (sign misspelled GOONERS); holds press conference fielding questions on Crumb town, hogs, deputy mayor, Gooters G-points, Handem Squid debate moderation, Crum's lawyer; unlimited-points election held; Crumb defeats Munch; Munch concedes and departs; Crumb assumes mayoralty with vegan platform."
+    },
+    {
+      "start": "03:07:14",
+      "end": "03:13:46",
+      "canonical_segment": "News",
+      "title": "Studio Wrap-Up & Raid",
+      "notes": "Case returns to newsroom; Crumb appears in studio (sleeveless); Jo Rogen Experience deferred due to requester Sabreche illness; Gooters logo submissions solicited in Discord; raid executed on Call Me A Rilius."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold-open countdown and sign-on at top of broadcast.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Referenced re: lawyer and Crum Dick Punch; wins Rennerton mayoral election, appears in studio post-stream.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Broadcasts as Skeleton Munch from Rennerton wilds; completes Gooters castle, holds press conference, loses mayoral election to Crumb, concedes and exits.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Butt-dials Case during broadcast; later requests light assistance while Case is in Rennerton.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Mentioned during press conference: crawl spaces banned in Rennerton specifically to keep him out.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[15:07] Crum's lawyer referenced in context of court-ordered groin punch: \"the same one that he had to get punched in the dick cuz of... That was a light sentence.\"",
+      "timestamp": "15:07"
+    },
+    {
+      "storyline": "Rebuild Rennerton",
+      "beat": "[53:49] Skeleton Munch active as mayor rebuilding from wilds; [2:48:44] Gooters castle completed (sign reads GOONERS); [3:00:25] Pay-to-play mayoral election held; [3:02:10] Crumb wins, Munch concedes (\"Skella Munch out\"); [3:03:46] Crumb assumes office with vegan/berry diet platform.",
+      "timestamp": "53:49"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum",
+      "fact": "[15:07] Crum's lawyer identified as same counsel from Crum Dick Punch court proceedings; Case characterizes the sentence as \"a light sentence.\"",
+      "timestamp": "15:07",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch",
+      "fact": "[53:49] Skeleton Munch is sitting mayor of Rennerton, broadcasting live from the wilds via satellite feed during reconstruction.",
+      "timestamp": "53:49",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch",
+      "fact": "[1:29:21] Holds mayoral press conference; Crum's lawyer appears uninvited claiming Crum was framed and Munch is illegitimate.",
+      "timestamp": "1:29:21",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Munch",
+      "fact": "[2:48:44] Completes Gooters castle construction in Rennerton; sign misspelled \"GOONERS\" but declared perfect.",
+      "timestamp": "2:48:44",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "[3:02:10] Wins Rennerton mayoral election via unlimited-points (pay-to-play) poll; Munch concedes and departs.",
+      "timestamp": "3:02:10",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum",
+      "fact": "[3:03:46] Assumes mayoralty as \"untamed Crumb,\" declares vegan/berry-based governance, dodges Munch's skeletal absorption attempt.",
+      "timestamp": "3:03:46",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "[3:09:36] The Jo Rogen Experience segment deferred indefinitely because requester Sabreche is sick.",
+      "timestamp": "3:09:36",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell anchors a casual Friday broadcast covering Stephen Miller's White House promotion, a scholarly challenge to the Testimonium Flavianum, and midterm election chaos in Mississippi and Iowa. The show pivots to an extended Rebuild Rennerton session where Skeleton Munch completes a Gooters castle, survives a press conference interrupted by Crum's lawyer, and loses a pay-to-play mayoral election to Crum. The stream concludes with Crumb in the studio and a raid on Call Me A Rilius.",
+  "_meta": {
+    "vod_id": "2921698711",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 137270,
+    "approx_prompt_tokens": 34317,
+    "transcript_lines": 338
+  }
+}

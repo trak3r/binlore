@@ -45,6 +45,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-07|2026-11-07]] | debate analyst. |
 | [[episodes/2026-11-06|2026-11-06]] | debate analyst. |
 | [[episodes/2026-11-05|2026-11-05]] | debate analyst. |
 | [[episodes/2026-11-04|2026-11-04]] | Gambling-addicted debate analyst picks skins for pickup basketball tradition, claims medical exemption from shirts. |
@@ -64,13 +65,13 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-07-23|2026-07-23]] | Senior Debate Analyst. Brief vocal intrusion to push through the portal to hell and demand Case get well soon, before disappearing back into the ether. |
 | [[episodes/2026-07-17|2026-07-17]] | Senior debate analyst. Bantered in cold open, defended his MIDI keyboard, debated merch priority with Munch, recorded the Stephanie merch-drop rap with explicit pre-emptive marital fidelity disclaimer to his wife Belolia, appeared during the Chet therapy segment. |
 | [[episodes/2026-07-13|2026-07-13]] | Senior debate analyst arguing for the reinstatement of AI Rooney. Shares a bizarre, fabricated(?) origin story of his name involving a Crumbl cookie shop birth on a 12-inch party sub. |
-| [[episodes/2026-07-11|2026-07-11]] | Senior debate analyst; criticizes Case's haircut, references his father's dealership, and flees after a debate over political violence. |
 
 <details>
-<summary>Earlier appearances (205)</summary>
+<summary>Earlier appearances (206)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-07-11|2026-07-11]] | Senior debate analyst; criticizes Case's haircut, references his father's dealership, and flees after a debate over political violence. |
 | [[episodes/2026-06-27|2026-06-27]] | Senior debate analyst. Interjects from the satellite room to rap with the Hype Train and debate Reggae vs Emo. |
 | [[episodes/2026-06-18|2026-06-18]] | Senior debate analyst. Hollow-eyed, bald. Demands total abolition of improvisation. Suffers 36-year UTI causing acidic urine. Openly hates Irish people. Wife seeing therapist (referenced). Gambling debts canonical but not mentioned this episode. |
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity and Dick Punch wager. |
@@ -282,6 +283,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 ## Notable moments
 
 
+- **[15:07]** ([[episodes/2026-11-07|2026-11-07]]): Crum's lawyer identified as same counsel from Crum Dick Punch court proceedings; Case characterizes the sentence as "a light sentence."
 - **[1:19:48]** ([[episodes/2026-11-06|2026-11-06]]): Admits Rennerton crimes: 'turned my fucking elementary schools into data centers and I used my children as processing chips... filled the heads of kids with a bunch of computers' (claims they were zombies).
 - **[1:18:43]** ([[episodes/2026-11-06|2026-11-06]]): Claims peen.ui data centers approved for elementary school parking lots because he 'paid debt to society by already getting punched in the penis by a gorilla.'
 - **[1:14:08]** ([[episodes/2026-11-06|2026-11-06]]): Describes hell-form experience: 'anger of the thousand suns... high-pitched tone that somehow felt like honey in my ears whispering to me slay them burn it.'
@@ -305,5 +307,4 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **[1:20:28]** ([[episodes/2026-06-27|2026-06-27]]): Dick punching is not a recognized sport anywhere but Nevada. It was historically an 18th-century circus attraction that was struck from history to prevent teenagers from doing it 'rainbow party style'. Crum is currently seeking a 'Nevada dick punching license' from the Gaming Commission.
 - **[9:08]** ([[episodes/2026-06-19|2026-06-19]]): Crum's D*ck Punch wager against Munch was the defining political storyline of the recent period, reaching its explosive conclusion on September 7, 2026.
 - **[1:18:34]** ([[episodes/2026-06-18|2026-06-18]]): Suffers 36-year urinary tract infection causing highly acidic urine; openly states hatred of Irish people as 'legal' and 'allowed' character trait; wife currently seeing therapist.
-- **[1:18:36]** ([[episodes/2026-06-15|2026-06-15]]): Crum is referenced in the context of the unresolved Dick Punch wager and body positivity debate.
 - ([[episodes/2025-05-30-QRN1ZIHDHG8|2025-05-30]]): Crum's gorilla debt: $100k remaining, $15k per win, 7 wins needed, face punch forfeit if not cleared in 8 debates [40:30-41:37]
