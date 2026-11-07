@@ -25,11 +25,10 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [Component.BuyMeACoffee()],
   footer: Component.Footer({
     links: {
-      "Barely Informed News (Twitch)": "https://www.twitch.tv/caseblackwell",
+      "Barely Informed News": "https://www.twitch.tv/caseblackwell",
       "YouTube Archive": "https://www.youtube.com/@CaseBlackwellStreams",
-      "BIN Lore Shorts (YouTube)":
-        "https://www.youtube.com/channel/UCuiEeDV0bv5WS4FlpIdD_5Q/shorts",
-      "BIN Lore Clips (TikTok)": "https://www.tiktok.com/@binlore.wiki",
+      "BIN Lore Shorts": "https://www.youtube.com/channel/UCuiEeDV0bv5WS4FlpIdD_5Q/shorts",
+      "BIN Lore Clips": "https://www.tiktok.com/@binlore.wiki",
     },
   }),
 }
