@@ -63,7 +63,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-08-08|2026-08-08]] | Senior debate analyst. Reveals his 26-year-old daughter Bethesda legally emancipated herself due to a disastrous pony delivery. Picks both Tobey Maguire and Tom Holland. Schedules the Crum Dick Punch for August 31st. Later pitches his out-of-print memoir 'Crum Fused' and offers to be an expert in holding it for people while they urinate. |
 | [[episodes/2026-08-04|2026-08-04]] | Senior debate analyst. Opposes Munch's anti-medicine stance, insists Blackwell see a doctor, and ultimately slams the segment-end button early to cut off Munch's ranting. |
 | [[episodes/2026-07-23|2026-07-23]] | Senior Debate Analyst. Brief vocal intrusion to push through the portal to hell and demand Case get well soon, before disappearing back into the ether. |
-| [[episodes/2026-07-17|2026-07-17]] | Senior debate analyst. Bantered in cold open, defended his MIDI keyboard, debated merch priority with Munch, recorded the Stephanie merch-drop rap with explicit pre-emptive marital fidelity disclaimer to his wife Belolia, appeared during the Chet therapy segment. |
+| [[episodes/2026-07-17|2026-07-17]] | Senior debate analyst. Debated merch priority with Munch, recorded the Stephanie merch-drop rap with explicit pre-emptive marital fidelity disclaimer to his wife Belolia, appeared during the Chet therapy segment. |
 | [[episodes/2026-07-13|2026-07-13]] | Senior debate analyst arguing for the reinstatement of AI Rooney. Shares a bizarre, fabricated(?) origin story of his name involving a Crumbl cookie shop birth on a 12-inch party sub. |
 
 <details>

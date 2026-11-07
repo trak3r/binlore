@@ -4,7 +4,6 @@ common_name: Jeff
 type: character
 aliases:
   - Ripple
-  - Jam EFE
 first_seen: 2023-11-22
 status: recurring
 tags:
@@ -37,7 +36,7 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 
 ## Key Eras & Bits
 
-- **The "Jam EFE" Era**: In [[episodes/2026-06-29|Episode 2026-06-29]], Ripple declared he was entering his "Jam EFE" (or "Jeff Everything") era, demanding Case acknowledge "I'm Jeff Ripple" as his network catchphrase, claiming custom whale-bone physical augmentations, and promoting his upcoming album *Steam Shirt No Pants*.
+- **The Catchphrase**: In [[episodes/2026-06-29|Episode 2026-06-29]], Ripple demanded Case acknowledge "I'm Jeff Ripple" as his official network catchphrase. (The "Jam EFE" era and *Steam Shirt No Pants* album from later in that broadcast belong to [[characters/jevrything|Jevrything]], whose name is routinely mistranscribed as "Jeff Everything.")
 - **The Monday Correspondent**: Positioned himself as the network's dedicated Monday desk anchor, occasionally missing shifts due to extended vet appointments for his cat.
 - **Weekend Odds and Ends**: Anchors feature segments curating bizarre North American regional stories (e.g., British Columbia floating islands, Virginia bat encounters, and Tarzana wildlife brawls).
 
@@ -55,8 +54,6 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
 | [[episodes/2026-06-08|2026-06-08]] | Studio news reader / breaking chat correspondent. Reads Catholic exorcist story, reacts to Alex Jones comparison, leaves to fix power issue. |
 | [[episodes/2026-06-05|2026-06-05]] | Studio news reader and breaking chat correspondent who monitors viewer submissions and provides updates. |
-| [[episodes/2026-05-29|2026-05-29]] | External journalist mentioned in news coverage, not a character. |
-| [[episodes/2026-05-22|2026-05-22]] | human-interest reporter. |
 | [[episodes/2025-06-05|2025-06-05]] | human-interest correspondent. |
 | [[episodes/2025-05-08|2025-05-08]] | human-interest correspondent. |
 | [[episodes/2025-04-18|2025-04-18]] | Co-anchored the immigration desk and later delivered a rapid-fire news roundup covering WrestleMania, death grip syndrome, and a cholera… |
@@ -83,7 +80,6 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 - **[32:52]** ([[episodes/2026-08-13|2026-08-13]]): Explains his unannounced Monday broadcast absence was caused by an emergency cat vet visit that ran until 5:30 PM.
 - **[44:26]** ([[episodes/2026-08-06|2026-08-06]]): Blackwell taunts Ripple by addressing him as "Ben Hooper" when calling on him for a viral human-interest report.
 - **[16:13]** ([[episodes/2026-07-13|2026-07-13]]): Bitterly proclaims himself the "number one Ben Hooper fan" as chat relentlessly hypes Hooper's corny reporting.
-- **[1:42:35]** ([[episodes/2026-06-29|2026-06-29]]): Debuts his "Jam EFE" persona, demanding Case respect his official catchphrase and announcing *Steam Shirt No Pants*.
 - **[1:07:02]** ([[episodes/2024-08-22|2024-08-22]]): Discovered DNC podium doubles as urinal; urinated on floor during live cross while crowd applauded to Beyoncé music.
 
 
@@ -91,9 +87,7 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 
 
 - **[34:53]** ([[episodes/2026-09-01|2026-09-01]]): Jeff Ripple (transcribed by ASR as 'Ben Hooper') delivers an 'odds and ends' news segment covering the floating BC island, bat-mouth Virginia doctor, Tarzana coyote-vs-bear, and David Rush's water-balloon record. Case cheers his 'first internal segment.'
-- **[1:42:35]** ([[episodes/2026-06-29|2026-06-29]]): Jeff Ripple is now going by 'Jam EFE' (and 'Jeff Everything') in his current 'era.' Claims to have had his 'whole genitals replaced with custom whale bone' and is dropping a new album called 'Steam Shirt No Pants.'
 - **[0:40:07]** ([[episodes/2026-06-08|2026-06-08]]): Harbors intense one-sided rivalry with real-world UPI reporter Ben Hooper; audience favors Hooper's corny antics.
-- **[1:12:49]** ([[episodes/2026-05-29|2026-05-29]]): Ben Hooper is an external real-world journalist, not a character on the show, and is mentioned in news coverage.
 - **[1:25:19]** ([[episodes/2026-02-04|2026-02-04]]): Jeff Ripple has a Filipino son whom he refers to as 'my beautiful Filipino boy.'
 - **[1:24:22]** ([[episodes/2026-02-04|2026-02-04]]): Jeff Ripple's middle name is 'Retain' (anglicized at Ellis Island from historic 'Return').
 - **[1:10:06]** ([[episodes/2026-01-21|2026-01-21]]): Performed a 'Chet Guy the Science Eyes' bit claiming a 100% protein plus lawn grass diet makes his farts 'clinical grade chemical weapons' that boost brain function.

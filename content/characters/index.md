@@ -57,7 +57,7 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/jazz-shrimp|Jazz Shrimp]] | Minor Culinary-Music Correspondent | Tempura-fried jazz shrimp who debates food critics over his claim to be the greatest jazz shrimp of all time |
 | [[characters/jeb|Jeb Nogget]] | Host (*How To with Jeb*) | Wood shop host of rogue instructional block, co-hosting with his deceased father trapped in a wooden board |
 | [[characters/jebs-dad|Jeb's Dad]] | Co-Host (*How To with Jeb*) | Deceased patriarch whose cantankerous spirit is trapped in a pine board; openly favors Jet Nogget over Jeb |
-| [[characters/jevrything|Jevrything]] | minor contributor | No summary on file yet |
+| [[characters/jevrything|Jevrything]] | Musician / Guest Co-Anchor | Surgically overhauled pop star (debuted as Jay Drilla) whose name changes every appearance; Case is always saying it wrong |
 | [[characters/jizzbo|Jizzbo]] | Wall Electrician / Trial Witness | Join the Wall electrician and guest vocalist; returns from the mountain to answer examination with a conga |
 | [[characters/johnny-dick-big|Johnny Dick Big]] | Porn Expert (*Conspiracy Desk*) | Green-screen guest who defends porn comment culture via magazine letter-column nostalgia; negotiated $250 |
 | [[characters/joe-rogan|Joe Rogan]] | minor contributor | No summary on file yet |

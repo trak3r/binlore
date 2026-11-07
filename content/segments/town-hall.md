@@ -28,7 +28,7 @@ Typical seating pairs a straight guest with a chaotic one (intern + alter ego, c
 | Episode | Timestamp | Notes |
 |---------|-----------|-------|
 | [[episodes/2026-10-19\|2026-10-19]] | 1:21:21 | Town Hall with [[../characters/jan\|Jan]] and [[../characters/scrum\|Scrum]]; Case reveals engagement; Jan leaves mid-segment. |
-| [[episodes/2026-05-22\|2026-05-22]] | 1:25:18 | Town Hall with Jefferything & Jay Nothing. |
+| [[episodes/2026-05-22\|2026-05-22]] | 1:25:18 | Town Hall with Jevrything & Jay Nothing. |
 | [[episodes/2026-04-29\|2026-04-29]] | 1:25:58 | Town Hall with Gianna Wet Mitchell & Lil Tommy Big Law. |
 | [[episodes/2026-04-01\|2026-04-01]] | 56:56 | Town Hall with Jevrything & Everything Bagel. |
 | [[episodes/2026-03-12\|2026-03-12]] | 1:25:06 | Town Hall with Rick & Jeff. |

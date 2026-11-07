@@ -39,7 +39,6 @@ Blackwell anchors the network's flagship nightly broadcast from the BIN newsroom
 - **[10:29]** ([[episodes/2026-06-27|2026-06-27]]): Blackwell is on a new clothing regimen 'courtesy of Jeff Bezos' and his own life, transitioning away from basketball shorts to feel more human, though he admits he 'sometimes has legs' and has 'wilt energy.'
 - **[0:06]** ([[episodes/2026-06-15|2026-06-15]]): Case Blackwell is celebrating his 40th birthday, which is the central theme of the broadcast.
 - **[1:04:48]** ([[episodes/2026-04-27|2026-04-27]]): Case Blackwell references a wife (likely Kendelle) when stating AI Rooney nearly caused her to 're-divorce' him.
-- **[17:09]** ([[episodes/2026-03-27|2026-03-27]]): Underwent paper mache jaw replacement surgery, rendering him unable to eat solid foods.
 - **[2:09:30]** ([[episodes/2025-10-02|2025-10-02]]): Confirms Kendelle as girlfriend on air; mentions hiding engagement rings while preparing for 'husband money' (roster-consistent).
 - **[1:02:12]** ([[episodes/2025-09-26|2025-09-26]]): Currently staying in a hotel because wife is living with her French tutor; Case lost Munch's Beyblades during a move.
 - **[10:48]** ([[episodes/2025-09-13|2025-09-13]]): Beyblade tournament and wall entry scheduled for 2025-09-19.

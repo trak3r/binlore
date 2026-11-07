@@ -79,7 +79,6 @@ See also: [[../segments/amongst-the-web|Amongst the Web]], [[../characters/index
 
 
 - **[2:07:52]** ([[episodes/2026-07-17|2026-07-17]]): Crum is married to a woman named Belolia. During the Stephanie merch-drop rap he recorded a pre-emptive on-air disclaimer insisting he does not know any woman named Stephanie and is not cheating on his wife.
-- **[13:22]** ([[episodes/2026-07-17|2026-07-17]]): Crum claims to have spent three years in cryotherapy in his 20s, says it keeps his skin 'nice and plump but hard,' and skipped COVID entirely.
 - **[2:09:43]** ([[episodes/2025-07-30|2025-07-30]]): Wife's name confirmed as Blilia (previously Belulia/Belilia).
 - **[2:51:28]** ([[episodes/2025-07-30|2025-07-30]]): Birth certificate lists 'euphemism for penis' as her name.
 - **[53:21]** ([[episodes/2025-06-02|2025-06-02]]): Crum states he is in therapy with his wife and identifies as a recovering addict.

@@ -113,7 +113,6 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2025-08-21|2025-08-21]] | musical interruption. |
 | [[episodes/2025-08-11|2025-08-11]] | Derails the top of the show with a ten-minute piss-themed freestyle rap incorporating subscriber thanks and ball-based urine storage theory. |
 | [[episodes/2025-07-30|2025-07-30]] | musical interruption. |
-| [[episodes/2025-07-25|2025-07-25]] | musical interruption. |
 | [[episodes/2025-07-24|2025-07-24]] | musical interruption. |
 | [[episodes/2025-07-19|2025-07-19]] | musical interrupter. |
 | [[episodes/2025-07-15|2025-07-15]] | hype correspondent. |
