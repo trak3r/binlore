@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import re
 from typing import Any
 
 from .exclusions import drop_excluded, is_excluded
@@ -152,6 +153,7 @@ def generate_episodes_index() -> None:
 
     # Check for ingested episodes in content/episodes/*.md
     ingested_map: dict[str, str] = {}
+    date_map: dict[str, str] = {}
     for ep_file in CONTENT_EPISODES.glob("*.md"):
         if ep_file.name == "index.md":
             continue
@@ -159,21 +161,25 @@ def generate_episodes_index() -> None:
         if "draft: true" in text.lower():
             continue
         stem = ep_file.stem
+        page_vod = re.search(r'^vod_id:\s*"?([^"\s]+)', text, re.MULTILINE)
+        page_vod_id = page_vod.group(1) if page_vod else ""
         for s in streams:
             yt_id = s.get("yt_id")
             twitch_id = _normalize_twitch_id(s.get("twitch_id"))
             entry_id = str(s.get("id") or "")
-            s_date = s.get("date")
-            matched = (
-                (yt_id and yt_id in text)
-                or (twitch_id and twitch_id in text)
-                or (entry_id and entry_id in text)
-                or (s_date and stem == s_date)
-            )
-            if matched:
-                for key in (yt_id, twitch_id, entry_id):
-                    if key:
-                        ingested_map[str(key)] = stem
+            keys = [str(k) for k in (yt_id, twitch_id, entry_id) if k]
+            if (yt_id and yt_id in text) or (twitch_id and twitch_id in text) or (entry_id and entry_id in text):
+                for key in keys:
+                    ingested_map[key] = stem
+            elif s.get("date") and stem == s.get("date"):
+                # A separate Twitch VOD on the same date (e.g. Friday night and Saturday, both UTC)
+                # has its own page; archive fragments of one broadcast share the date page.
+                if twitch_id and page_vod_id and page_vod_id not in keys:
+                    continue
+                for key in keys:
+                    date_map[key] = stem
+    for key, stem in date_map.items():
+        ingested_map.setdefault(key, stem)
 
     total_streams = len(streams)
     total_seconds = sum(s.get("duration_seconds") or 0 for s in streams)
