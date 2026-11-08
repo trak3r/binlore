@@ -1172,7 +1172,7 @@ _CLIPS_BLOCK_RE = re.compile(r"^## Clips\n\n<!-- clips:start.*?<!-- clips:end --
 def _clip_item(clip: dict[str, Any], *, episode_link: bool) -> str:
     item = f"- **{clip['title']}**"
     if episode_link:
-        item += f" ([[../episodes/{clip['episode']}|{clip['episode']}]])"
+        item += f" ([[../episodes/{clip['episode']}|{clip['episode'][:10]}]])"
     links = [f"[YouTube](https://youtube.com/shorts/{clip['youtube']})"]
     if clip.get("tiktok") and clip.get("tiktok_public"):
         links.append(f"[TikTok](https://www.tiktok.com/@{TIKTOK_ACCOUNT}/video/{clip['tiktok']})")
