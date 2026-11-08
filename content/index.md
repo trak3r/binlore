@@ -14,6 +14,7 @@ This archive documents the network's on-air correspondents, investigative progra
 ## Network Directory
 
 - [[characters/index|On-Air Talent]] — anchors, senior correspondents, debate analysts, and production crew
+- [[fans/index|Fanatical Fans]] — chatters, moderators, and superfans whose names keep making it onto the broadcast
 - [[segments/index|Broadcast Segments]] — signature programming, remote dispatches, and regular desks
 - [[storylines/index|Events & Story Arcs]] — marathon specials, annual events, and multi-episode newsroom sagas
 - [[sponsors/index|Commercial Sponsors]] — corporate partners, fast-casual underwriters, and commercial dispatches

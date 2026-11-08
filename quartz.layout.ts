@@ -12,7 +12,7 @@ const recentChanges = Component.DesktopOnly(
       if (!slug || slug === "index") return false
       if (slug.startsWith("tags/")) return false
       if (slug.endsWith("/index")) return false
-      if (["teflon-ted", "bin-lore-wiki", "mr-smith"].includes(slug)) return false
+      if (slug === "bin-lore-wiki" || slug.startsWith("fans/")) return false
       return true
     },
   }),

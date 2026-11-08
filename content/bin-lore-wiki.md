@@ -7,7 +7,7 @@ aliases:
 
 # BIN Lore Wiki
 
-**BIN Lore** is this site: a fan-made archive of *Barely Informed News*, created and maintained by [[teflon-ted|Teflon Ted]] and launched in September 2026. It didn't take long for the broadcast to notice it. This page records each time the show has talked about the wiki on air.
+**BIN Lore** is this site: a fan-made archive of *Barely Informed News*, created and maintained by [[fans/teflon-ted|Teflon Ted]] and launched in September 2026. It didn't take long for the broadcast to notice it. This page records each time the show has talked about the wiki on air.
 
 ## On-Air Mentions
 
@@ -41,4 +41,4 @@ The first on-air read-through was the most thorough:
 - "I also do approve of this having fully made up things in it, for the record, so have at it." — [[characters/case-blackwell|Case]], [[episodes/2026-10-10|2026-10-10]]
 - "This wiki's actually surprisingly accurate." — [[characters/case-blackwell|Case]], [[episodes/2026-11-06|2026-11-06]]
 
-See also: [[teflon-ted|Teflon Ted]] · [[index|BIN Lore home]]
+See also: [[fans/teflon-ted|Teflon Ted]] · [[index|BIN Lore home]]

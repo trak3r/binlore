@@ -1,30 +1,20 @@
 ---
 title: Live 'n Sleazy
-common_name: Sleazy
-type: character
+description: Live 'n Sleazy, the Barely Informed News master mod, named on air in roughly 250 broadcasts since 2023.
 aliases:
   - Live in Sleazy
   - Lyvin Sleazy
   - Sleazy
-first_seen: 2026-06-29
-status: community contributor
-tags:
-  - community
-  - contributor
-  - technical
+  - characters/live-in-sleazy
 ---
 
 # Live 'n Sleazy
 
-![Live 'n Sleazy on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/live-in-sleazy.jpg)
-
-**Live 'n Sleazy** (often transcribed as **Live in Sleazy**) is a dedicated long-time viewer, master moderator, and community technical contributor for *Barely Informed News*.
+**Live 'n Sleazy** (usually transcribed as **Live in Sleazy** or **Live and Sleazy**) has been [[characters/case-blackwell|Case]]'s "master mod" since at least [[episodes/2023-11-28|2023-11-28]] ("Live and Sleazy, the other master mod"), and is named on air in roughly 250 broadcasts. They're a viewer, not a character, so this page is filed under [[fans/index|Fanatical Fans]] rather than [[characters/index|On-Air Talent]].
 
 ## Overview
 
-Live 'n Sleazy is an essential behind-the-scenes community figure who assists lead anchor [[case-blackwell|Case Blackwell]] with technical setups, software configurations, and interactive stream features. Recognized as a master moderator with over 45 months of continuous subscription tenure, Live 'n Sleazy bridges the control room and the chat community.
-
-Beyond technical assistance with search engine setups, stream widgets, and digital archives, Live 'n Sleazy frequently submits curated segment prompts, viewer news clips, and music requests for the broadcast desk.
+Sleazy is a fixture of Case's opening roll calls, usually alongside fellow master mod Sabreche. Case leans on them for technical help ("Live in Sleazy saving me honestly several hours of me"; "Live in Sleazy is everything we want in a mod") and credits them with finding things for the show. They also feed [[characters/ai-rooney|AI Rooney]] a steady stream of complaints ("Live and Sleazy got me thinking") and send in segment requests, viral clips and song concepts.
 
 ## Broadcast Role & Technical Support
 

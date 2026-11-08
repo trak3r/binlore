@@ -3,11 +3,12 @@ title: Melody Von Torture
 description: Melody Von Torture (MVT), a longtime Barely Informed News chatter who built Case his own Mega Man game and was elected mayor of Rennerton.
 aliases:
   - MVT
+  - melody-von-torture
 ---
 
 # Melody Von Torture
 
-**Melody Von Torture** (**MVT**) has been in [[characters/case-blackwell|Case]]'s chat since at least July 2024. They're a viewer, not a character, so this page sits outside [[characters/index|On-Air Talent]].
+**Melody Von Torture** (**MVT**) has been in [[characters/case-blackwell|Case]]'s chat since at least July 2024. They're a viewer, not a character, so this page is filed under [[fans/index|Fanatical Fans]] rather than [[characters/index|On-Air Talent]].
 
 MVT is one of the broadcast's most hands-on chatters. They built a playable *Mega Man* fan game starring Case, drew a stack of the Bart Simpson tattoo designs, submitted merch, supplied [[characters/ai-rooney|AI Rooney]] with complaints, sent requests to [[characters/cryptozeus|Brandon]], and became one of the first citizens of the [[segments/rebuild-rennerton|Rebuild Rennerton]] Valheim server. On [[episodes/2026-11-07-2922559914|2026-11-07]], chat elected them mayor of [[storylines/rennerton|Rennerton]] over [[characters/crum|Crum]].
 
@@ -65,4 +66,4 @@ Case also greets them in his opening roll calls, including [[episodes/2026-03-12
 - "I'm not mad at you for digging holes. I've just been falling into them." — [[characters/crum|Crum]], [[episodes/2026-11-07-2922559914|2026-11-07]]
 - "Big News is calling this election for Melody Von Torture." — [[episodes/2026-11-07-2922559914|2026-11-07]]
 
-See also: [[segments/rebuild-rennerton|Rebuild Rennerton]] · [[storylines/rennerton|Rennerton]] · [[mr-smith|Mr. Smith]] · [[teflon-ted|Teflon Ted]]
+See also: [[segments/rebuild-rennerton|Rebuild Rennerton]] · [[storylines/rennerton|Rennerton]] · [[fans/mr-smith|Mr. Smith]] · [[fans/teflon-ted|Teflon Ted]]

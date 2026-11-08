@@ -63,7 +63,6 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/joe-rogan|Joe Rogan]] | minor contributor | No summary on file yet |
 | [[characters/kendelle|Kendelle]] | In-Studio Presence | Case Blackwell's real-life and in-show girlfriend who appears walking through the streaming studio to her own signature theme music |
 | [[characters/liliana|Liliana Breathinschmit]] | News Desk Co-Anchor | "World Affairs & Kinks." Irreverent desk partner returning from a year-long sabbatical with vacation photos and PTO demands |
-| [[characters/live-in-sleazy|Live 'n Sleazy]] | Technical Contributor / Master Mod | Long-time master moderator and technical contributor assisting with stream features and segment clip curation |
 | [[characters/mancini-smooth|Mancini Smooth]] | minor contributor | No summary on file yet |
 | [[characters/marfus-darfus|Marfus Darfus]] | Guest Host (*Amongst the Web*) | Asexual viral media critic introduced as "Marfis Darfus" who hands down decimal ratings (e.g. `6.44`) |
 | [[characters/rob-elvie|Rob Elvie]] | minor contributor | No summary on file yet |

@@ -139,7 +139,6 @@ _CHARACTER_ALIASES: list[tuple[tuple[str, ...], str]] = [
     (("jeb", "nogget", "noggin"), "jeb"),
     (("granman", "grandman", "grand-man"), "granman"),
     (("durf", "derf", "dwarf"), "durf"),
-    (("sleazy",), "live-in-sleazy"),
 ]
 
 

@@ -54,6 +54,8 @@ A "raid" is when a stream concludes and Case sends the viewer audience to anothe
 
 ## 5. Exclusion of Twitch Chatters & Viewers
 Twitch chatters, Discord members, and audience members interacting via text chat (e.g. Card King) are viewers, NOT characters, and must NEVER be given character pages.
+- Viewer bios go in `content/fans/` (**Fanatical Fans**), and only when the user asks for one. List them in `content/fans/index.md`, never in `content/characters/index.md` or an episode's Characters list / `characters_meta`.
+- Link a fan page only where the fan is mentioned in episode summaries, segment rows, and lore notes: no "See also" links from character or segment pages.
 
 ## 5b. Exclusion of Private Real-World Friends & Relatives
 Real-world friends or relatives of Case who are not established recurring on-air personas (e.g. a one-off studio guest who is personally known to Case off-stream) must **NOT** receive character pages, index rows, or wiki cross-links. Prefer omitting the name entirely from episode notes rather than documenting them. Recurring on-air talent who also have a real-life relationship to Case (e.g. [[kendelle|Kendelle]]) remain in scope.

@@ -3,13 +3,14 @@ title: Teflon Ted
 description: The viewer behind BIN Lore, and every time the broadcast has mentioned him.
 aliases:
   - Teflon Tad
+  - teflon-ted
 ---
 
 # Teflon Ted
 
 **Teflon Ted** has been watching [[characters/case-blackwell|Case]] since the G4 revival, and is the creator and maintainer of [[bin-lore-wiki|BIN Lore]], the wiki you're reading now.
 
-He's a viewer, not a character, so this page sits outside [[characters/index|On-Air Talent]]. It exists to keep a record of each time the broadcast has mentioned him or called him out.
+He's a viewer, not a character, so this page is filed under [[fans/index|Fanatical Fans]] rather than [[characters/index|On-Air Talent]]. It exists to keep a record of each time the broadcast has mentioned him or called him out.
 
 ## On-Air Mentions
 

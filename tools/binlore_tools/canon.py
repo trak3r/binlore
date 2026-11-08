@@ -281,7 +281,7 @@ def is_core_network_character(char: CanonEntity) -> bool:
     Extract prompts further limit to top-N by appearance among recurring-eligible.
     """
     slug = (char.file_path.stem if char.file_path else "").lower()
-    if slug in ("abraham-lincoln", "live-in-sleazy", "live-n-sleazy"):
+    if slug == "abraham-lincoln":
         return False
 
     status_lower = (char.status or "").lower()

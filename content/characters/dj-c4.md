@@ -36,7 +36,7 @@ Unlike conventional broadcast audio engineers, DJ C4 constructs songs collaborat
 
 ## Notable Lore & Moments
 
-- **The 'Free Stephanie' Merch Drop Anthem** ([[episodes/2026-07-17|2026-07-17]]): Tasked with producing an official network merch-drop track, DJ C4 opened the `!L` lyric queues. When master moderator [[characters/live-in-sleazy|Live 'n Sleazy]] requested "the economy ceasefire violation blues," DJ C4 and the ghostwriter pivoted mid-session into the runaway track "Free Stephanie." He drafted [[characters/crum|Crum]] to lay down rap bars ("get on my mug or a hot butt plug"), prompting Crum's panicked on-air disclaimer to his wife Belolia that he has never met any woman named Stephanie.
+- **The 'Free Stephanie' Merch Drop Anthem** ([[episodes/2026-07-17|2026-07-17]]): Tasked with producing an official network merch-drop track, DJ C4 opened the `!L` lyric queues. When master moderator [[fans/live-in-sleazy|Live 'n Sleazy]] requested "the economy ceasefire violation blues," DJ C4 and the ghostwriter pivoted mid-session into the runaway track "Free Stephanie." He drafted [[characters/crum|Crum]] to lay down rap bars ("get on my mug or a hot butt plug"), prompting Crum's panicked on-air disclaimer to his wife Belolia that he has never met any woman named Stephanie.
 
 ## Appearances
 
@@ -85,7 +85,7 @@ Unlike conventional broadcast audio engineers, DJ C4 constructs songs collaborat
 - What other correspondent theme songs have been produced in the DJC4 studio archives?
 - How closely does DJ C4 coordinate with [[characters/dj-newsic|DJ Newsic]] on network sound design?
 
-See also: [[../segments/dj-c4|DJ C4 (Segment)]], [[characters/dj-newsic|DJ Newsic]], [[characters/crum|Crum]], [[characters/live-in-sleazy|Live 'n Sleazy]], [[characters/case-blackwell|Case Blackwell]], [[index|On-Air Talent]].
+See also: [[../segments/dj-c4|DJ C4 (Segment)]], [[characters/dj-newsic|DJ Newsic]], [[characters/crum|Crum]], [[characters/case-blackwell|Case Blackwell]], [[index|On-Air Talent]].
 
 ## Notable moments
 

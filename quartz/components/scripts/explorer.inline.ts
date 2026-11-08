@@ -315,7 +315,6 @@ async function setupExplorer(currentSlug: FullSlug) {
       "ai-rooney": 45,
       "grandma-crumble-bottom": 40,
       "tommy-biglaw": 35,
-      "live-in-sleazy": 30,
       "jeb": 25,
       "trip-bradstein": 20,
     }

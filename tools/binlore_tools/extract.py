@@ -128,7 +128,7 @@ CHARACTERS vs EXTERNAL SUBJECTS:
 Bio tracking is ONLY for on-air network figures who speak in studio scenes.
 - Public figures and politicians (Trump, JD Vance, Mitch McConnell, Lindsey Graham, Pete Hegseth, etc.) who appear in news coverage are NOT characters.
 - People in news clips, viral videos, or movie clips being watched are NOT characters.
-- Twitch chatters and viewers are NOT characters (including Skymer; ASR often garbling the name as S.K.O.A.M.Y.R.).
+- Twitch chatters and viewers are NOT characters, even when they join a game on stream or have a chat message read aloud (including Skymer, ASR often garbling the name as S.K.O.A.M.Y.R.; Live 'n Sleazy; Melody Von Torture / MVT; Mr. Smith; Teflon Ted; Card King; Sabreche; Giggle Trash; Matt Liddell; Exterminator; Stanton).
 - Stream raid recipients are NOT characters. Never name the other streamer's channel in overview, segment notes, or wrap-ups — if the broadcast ends with a raid, omit the destination.
 
 CHARACTER NOTES (keep bios short):

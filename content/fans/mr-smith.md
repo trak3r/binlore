@@ -3,11 +3,12 @@ title: Mr. Smith
 description: MrSmith0693, a longtime Barely Informed News chatter, and every time the broadcast has called him out.
 aliases:
   - MrSmith0693
+  - mr-smith
 ---
 
 # Mr. Smith
 
-**Mr. Smith** (`MrSmith0693` on Twitch) has been a regular in [[characters/case-blackwell|Case]]'s chat since at least April 2024. He's a viewer, not a character, so this page sits outside [[characters/index|On-Air Talent]].
+**Mr. Smith** (`MrSmith0693` on Twitch) has been a regular in [[characters/case-blackwell|Case]]'s chat since at least April 2024. He's a viewer, not a character, so this page is filed under [[fans/index|Fanatical Fans]] rather than [[characters/index|On-Air Talent]].
 
 His name turns up in more than 40 broadcasts. Most of those are Case's opening roll calls, but he has also supplied debate topics, sided with Case in arguments, been shouted out in sign-off raps, and fed six complaints to [[segments/ai-rooney|AI Rooney]]. On [[episodes/2026-11-06|2026-11-06]], he asked the [[bin-lore-wiki|wiki]] for a page of his own, and Case agreed: "Mr. Smith, you can have your own page if you want." As requested, this page notes that he is the most important VIP.
 
@@ -49,4 +50,4 @@ Case greets him by name at the top of the show, usually somewhere among Skymer, 
 - "That's an anonymous name, but I love you too, baby." — [[segments/dj-newsic|DJ Newsic]], [[episodes/2024-07-31|2024-07-31]]
 - "MrSmith0693 got me thinking." — [[characters/ai-rooney|AI Rooney]], six times between [[episodes/2026-01-24|2026-01-24]] and [[episodes/2026-06-29|2026-06-29]]
 
-See also: [[bin-lore-wiki|BIN Lore on the broadcast]] · [[teflon-ted|Teflon Ted]]
+See also: [[bin-lore-wiki|BIN Lore on the broadcast]] · [[fans/teflon-ted|Teflon Ted]]
