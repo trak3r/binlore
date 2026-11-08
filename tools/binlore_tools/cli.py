@@ -362,10 +362,10 @@ def cmd_process_all(args: argparse.Namespace) -> int:
             from .catalog import refresh_catalog_from_twitch
 
             report = refresh_catalog_from_twitch(limit=40, dry_run=False)
-            added = report.get("added") or []
+            added = report.get("added") or 0
             if added:
                 print(
-                    f"Catalog refresh: +{len(added)} Twitch VOD(s) "
+                    f"Catalog refresh: +{added} Twitch VOD(s) "
                     f"(total {report.get('total')}).",
                     flush=True,
                 )

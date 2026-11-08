@@ -14,11 +14,11 @@ Complete stream archive tracked for *Barely Informed News*. Episodes are ingeste
 
 <div class="backlog-stats-grid">
   <div class="stat-card">
-    <div class="stat-value">344</div>
+    <div class="stat-value">345</div>
     <div class="stat-label">Total Streams in Archive</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">~787 hrs</div>
+    <div class="stat-value">~790 hrs</div>
     <div class="stat-label">Total Broadcast Lore</div>
   </div>
   <div class="stat-card">
@@ -26,7 +26,7 @@ Complete stream archive tracked for *Barely Informed News*. Episodes are ingeste
     <div class="stat-label">Ingested & Extracted</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">20</div>
+    <div class="stat-value">21</div>
     <div class="stat-label">Pending Ingestion Backlog</div>
   </div>
 </div>
@@ -43,9 +43,9 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   </div>
   <div class="filter-group">
     <select id="status-filter">
-      <option value="all">All Statuses (344)</option>
+      <option value="all">All Statuses (345)</option>
       <option value="ingested">Ingested Only (324)</option>
-      <option value="backlog">Backlog Only (20)</option>
+      <option value="backlog">Backlog Only (21)</option>
     </select>
     <select id="page-size">
       <option value="25">25 per page</option>
@@ -69,7 +69,8 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
     </tr>
   </thead>
   <tbody>
-<tr data-status="ingested" data-title="friday newsing" data-date="2026-11-07" data-vod-id="2921698711"><td class="cell-date"><code>2026-11-07</code></td><td class="cell-title"><a href="./2026-11-07" class="internal"><strong>Friday Newsing</strong></a></td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2921698711</code></td><td class="cell-dur">3h 13m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2921698711" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a></td></tr>
+<tr data-status="ingested" data-title="friday newsing" data-date="2026-11-07" data-vod-id="2921698711"><td class="cell-date"><code>2026-11-07</code></td><td class="cell-title"><a href="./2026-11-07" class="internal"><strong>Friday Newsing</strong></a></td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2921698711</code></td><td class="cell-dur">3h 13m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2921698711" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a> <a href="https://www.youtube.com/watch?v=asEAUb1iakI" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
+<tr data-status="ingested" data-title="saturday rebuilding" data-date="2026-11-07" data-vod-id="2922559914"><td class="cell-date"><code>2026-11-07</code></td><td class="cell-title"><a href="./2026-11-07" class="internal"><strong>Saturday Rebuilding</strong></a></td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2922559914</code></td><td class="cell-dur">2h 39m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2922559914" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a></td></tr>
 <tr data-status="ingested" data-title="crashing into the news" data-date="2026-11-06" data-vod-id="2920702503"><td class="cell-date"><code>2026-11-06</code></td><td class="cell-title"><a href="./2026-11-06" class="internal"><strong>Crashing Into the NEWS</strong></a></td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2920702503</code></td><td class="cell-dur">1h 31m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2920702503" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a> <a href="https://www.youtube.com/watch?v=WgY3VzAITck" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="post wave clarity" data-date="2026-11-05" data-vod-id="2919818029"><td class="cell-date"><code>2026-11-05</code></td><td class="cell-title"><a href="./2026-11-05" class="internal"><strong>Post Wave Clarity</strong></a></td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2919818029</code></td><td class="cell-dur">2h 20m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2919818029" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a> <a href="https://www.youtube.com/watch?v=9xz_oWJ8suc" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="surfing the election waves" data-date="2026-11-04" data-vod-id="2918998685"><td class="cell-date"><code>2026-11-04</code></td><td class="cell-title"><a href="./2026-11-04" class="internal"><strong>Surfing the Election Waves</strong></a></td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2918998685</code></td><td class="cell-dur">2h 59m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2918998685" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a> <a href="https://www.youtube.com/watch?v=xn__pzmMoXY" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
@@ -118,7 +119,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
 <tr data-status="ingested" data-title="resigned to the news" data-date="2026-05-22" data-vod-id="crhslhwpnfk"><td class="cell-date"><code>2026-05-22</code></td><td class="cell-title"><a href="./2026-05-22" class="internal"><strong>Resigned to the NEWS</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">CRhSlHwpnFk</code></td><td class="cell-dur">2h 29m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=CRhSlHwpnFk" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="more massive news filings" data-date="2026-05-21" data-vod-id="zciy_bd7_jy"><td class="cell-date"><code>2026-05-21</code></td><td class="cell-title"><a href="./2026-05-21" class="internal"><strong>More Massive News Filings</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">zciy_BD7_jY</code></td><td class="cell-dur">1h 44m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=zciy_BD7_jY" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="another monday, another news" data-date="2026-05-18" data-vod-id="kkfawuuifpa"><td class="cell-date"><code>2026-05-18</code></td><td class="cell-title"><a href="./2026-05-18" class="internal"><strong>Another Monday, Another NEWS</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">KKFawUUIfPA</code></td><td class="cell-dur">3h 6m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=KKFawUUIfPA" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
-<tr data-status="ingested" data-title="china news maxing" data-date="2026-05-14" data-vod-id="k4yx3u2nfng"><td class="cell-date"><code>2026-05-14</code></td><td class="cell-title"><a href="./2026-05-14" class="internal"><strong>China News Maxing</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">K4yX3u2nfNg</code></td><td class="cell-dur">1h 40m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=K4yX3u2nfNg" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
+<tr data-status="ingested" data-title="china news maxing" data-date="2026-05-14" data-vod-id="k4yx3u2nfng" style="display: none;"><td class="cell-date"><code>2026-05-14</code></td><td class="cell-title"><a href="./2026-05-14" class="internal"><strong>China News Maxing</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">K4yX3u2nfNg</code></td><td class="cell-dur">1h 40m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=K4yX3u2nfNg" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="back in the more news mood" data-date="2026-05-12" data-vod-id="n-wroav7x9q" style="display: none;"><td class="cell-date"><code>2026-05-12</code></td><td class="cell-title"><a href="./2026-05-12" class="internal"><strong>Back in the MORE NEWS mood</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">n-wROAV7x9Q</code></td><td class="cell-dur">2h 23m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=n-wROAV7x9Q" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="another week, another news" data-date="2026-05-04" data-vod-id="hthmej0rh5k" style="display: none;"><td class="cell-date"><code>2026-05-04</code></td><td class="cell-title"><a href="./2026-05-04" class="internal"><strong>Another Week, Another NEWS</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">HTHMEj0Rh5k</code></td><td class="cell-dur">2h 24m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=HTHMEj0Rh5k" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="friday news slime" data-date="2026-05-02" data-vod-id="eyrotn2tb_e" style="display: none;"><td class="cell-date"><code>2026-05-02</code></td><td class="cell-title"><a href="./2026-05-02" class="internal"><strong>Friday News Slime</strong></a></td><td class="cell-vod"><code class="vod-pill yt-id" title="YouTube Archive ID (use with ./binlore)">EYROTn2tB_E</code></td><td class="cell-dur">47m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.youtube.com/watch?v=EYROTn2tB_E" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
@@ -419,7 +420,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
 
 <div class="pagination-controls" id="pagination-controls">
   <button id="btn-prev" class="page-btn" disabled>← Previous</button>
-  <span id="page-info" class="page-info">Page 1 of 7 (344 streams)</span>
+  <span id="page-info" class="page-info">Page 1 of 7 (345 streams)</span>
   <button id="btn-next" class="page-btn">Next →</button>
 </div>
 

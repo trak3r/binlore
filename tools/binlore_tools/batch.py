@@ -136,8 +136,25 @@ def _stream_run_dir(
             return by_id[str(key)]
     date = str(stream.get("date") or "")
     if date and date in by_date:
-        return by_date[date]
+        run_dir = by_date[date]
+        twitch_id = str(stream.get("twitch_id") or "")
+        if twitch_id and _run_twitch_id(run_dir) not in ("", twitch_id):
+            # Two streams can share a catalog date (e.g. Friday night and Saturday, both UTC).
+            return None
+        return run_dir
     return None
+
+
+def _run_twitch_id(run_dir: Path) -> str:
+    try:
+        meta = json.loads((run_dir / "meta.json").read_text(encoding="utf-8"))
+    except Exception:
+        return ""
+    tid = str(meta.get("twitch_id") or "")
+    if tid:
+        return tid
+    vod_id = str(meta.get("vod_id") or "")
+    return vod_id if vod_id.isdigit() else ""
 
 
 def find_unprocessed_episodes(
@@ -613,14 +630,14 @@ def run_batch_processing(
         from .catalog import refresh_catalog_from_twitch
 
         report = refresh_catalog_from_twitch(limit=40, dry_run=False)
-        added = report.get("added") or []
+        added = report.get("added") or 0
         if added:
             logger.info(
-                f"Catalog refresh: +{len(added)} Twitch VOD(s) "
+                f"Catalog refresh: +{added} Twitch VOD(s) "
                 f"(total {report.get('total')})."
             )
-            for row in added[:8]:
-                logger.info(f"  + {row.get('date')} — {row.get('title')}")
+            for title in (report.get("new_titles") or [])[:8]:
+                logger.info(f"  + {title}")
         else:
             logger.info(
                 f"Catalog refresh: up to date "
