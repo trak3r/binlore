@@ -156,6 +156,7 @@ Then:
 
 1. Check the timing in `captions.srt`. The first caption (the hook) should start within about 0.6 seconds, and the last should be the payoff. If not, shift `--start`/`--end` by the difference and re-run.
 2. Extract frames from `clip.mp4` with ffmpeg (one per shot when there's a crop schedule) and look at them to confirm framing and caption legibility.
+   - The thumbnail must be a clear frame of the character's face. Never use a chat overlay, game footage, a text card or a dark frame, even when its caption is punchy. Pick `--thumb-at` from these frames, and look at `thumbnail.jpg` before publishing.
 3. Read `captions.srt` against the transcript. Whisper mishears character names, so fix obvious errors and re-run with `--fix "wrong=>right"` (repeatable; the transcript is reused).
 4. Polish `post.md`: the YouTube Shorts title must stay at 100 characters or fewer and keep `#Shorts`. Write the TikTok and Reels captions in the show's voice. Keep URLs out of the TikTok caption: links in TikTok captions aren't clickable, so it is just the hook, `(fan clip)` and hashtags.
 5. Report the output folder path, the clip length, and the thumbnail (embed it as an image) to the user.
@@ -230,7 +231,7 @@ The user has declined "Allow JavaScript from Apple Events", so Studio is driven 
 - **Tags:** clicking the tags input does not focus it, and `computer_type` on its accessibility element doesn't register. After clicking the AI-use "No" radio, Tab about 12 times until the tags "Learn more" link has the focus ring, then one more Tab into the input. Confirm with a screenshot, then paste the comma-separated tags with a trailing comma; each becomes a chip. If a paste goes nowhere, focus was elsewhere (often the find bar or a language dropdown): click the AI-use "No" radio again and redo the Tabs.
 - **Thumbnail "Upload file":** clicks on it hit a text target, and its AX element has no press action. Tab to it instead (from the description box: verification link, thumbnail "Learn more", then Upload file; it shows a dark border and a "?" icon) and press Space with `computer_key`.
 - **Visibility radios and recording date:** clicks on the Public radio hit a text target and `computer_set_value` doesn't take. Press Tab once from the Visibility step (focus lands on Private), then Down twice; the button changes from Save to Publish. For the recording date, Tab from the caption certification dropdown (two stops) and press Return to open the calendar; Space scrolls the page instead.
-- **Custom thumbnail limit:** after a few custom thumbnails in a day, "Upload file" opens a "One-time verification needed" prompt (phone verification). That's the user's call: press Cancel, keep the auto-generated frame, and tell the user the custom thumbnail can be set from the edit page once they verify.
+- **Custom thumbnail limit:** after a few custom thumbnails in a day, "Upload file" opens a "One-time verification needed" prompt (phone verification). That's the user's call: press Cancel, then open the thumbnail's "⋮" Options menu (click the thumbnail first to reveal it) > **Select from video**, pick a frame showing the character's face, click Done, then Save. Tell the user the custom thumbnail can be uploaded from the edit page once they verify.
 - **Language dropdowns:** typing a name does not jump the list. Open the dropdown and click "English (United States)". If the list opens at the top instead of near "English", scroll it with `computer_scroll` (at most 20 per call; about 46 steps reach English).
 - **Caption certification:** open the dropdown by clicking its chevron (clicking its text does nothing). Clicks on the options don't select either, so press Down, then Return, to pick the second option, "This content has never aired on television in the U.S." Confirm it in a screenshot.
 - **Recording date:** open the picker and click the day in the calendar. Never type into the date field: typing a date and pressing Return reloaded the page and lost unsaved changes.
@@ -243,7 +244,7 @@ The account is the fan account **@binlore.wiki** (signed in to the user's Chrome
 | --- | --- |
 | Who can see this post | **Everyone** (the default) |
 | Description | TikTok block from `post.md` (no URLs) |
-| Cover | Edit cover > Upload cover > `tools/clips/<date>-<slug>/thumbnail.jpg` |
+| Cover | Edit cover > Upload cover > `tools/clips/<date>-<slug>/thumbnail.jpg`. After posting, the pencil (edit) action on the content list reopens Edit cover, but only with a frame strip (no upload). Click a face frame, Save the dialog, then Save at the bottom of the page. Covers can be edited once a day, within 7 days of posting. |
 | When to post | Now |
 | Location | Empty |
 | Allow users to | Comment and Reuse of content, both left checked |
