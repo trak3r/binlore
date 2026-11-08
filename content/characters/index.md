@@ -44,7 +44,6 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/danny-phantasmic|Danny Phantasmic]] | Cultural Guest Correspondent | Tiny British folk-horror analyst with oversized hands and a tongue that cannot be concealed |
 | [[characters/don-riggles|Don Riggles]] | Minor Trial Witness | Returning elder witness whose testimony is almost entirely about smells and bowels |
 | [[characters/dr-chath|Dr. Chath]] | Minor-Character Therapist / Consultant | Eccentric counseling consultant presiding over the [[../segments/therapy\|Therapy]] desk, fielding viewer prompts and offering confusing wrestling and dance-based guidance |
-| [[characters/fiona|Fiona]] | minor contributor | No summary on file yet |
 | [[characters/ghost-writer|Ghost Writer]] | spectral lyricist (DJ C4) | Free-range studio ghost co-writing DJC4 tracks; also styled Ghostwriter |
 | [[characters/gianna-wettmichel|Gianna Wettmichel]] | Guest Contributor | Outspoken returning correspondent who seized the anchor desk to warn viewers of Danny Phantom's supernatural dangers |
 | [[characters/grandma-crumble-bottom|Grandma Crumble Bottom]] | Guest Host (*Amongst the Web*) | Outspoken senior guest anchor who restored vision via solar sky lasers and laments cooking foot bunions for her late husband |
@@ -52,7 +51,7 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/guy-redacted|Guy Redacted]] | Conspiracy Correspondent | Sunglasses-forward host of the Conspiracy Desk / Conspiracy Time blocks |
 | [[characters/hate-sock|Hate Sock]] | Town Hall Contributor | Hostile grey sock puppet with googly eyes whose vocabulary consists entirely of "You wish" and "Dumbass" |
 | [[characters/intern|Intern]] | Unpaid Intern / Fill-In | Nameless curly-haired male intern; "the main intern," though not the people's favorite (that's Jan); fills in wherever nobody showed up |
-| [[characters/jake|Jake]] | minor contributor | No summary on file yet |
+| [[characters/jake|Jake]] | Studio Guest | Near-silent man-child who blasts copyrighted music and cemented himself to his chair |
 | [[characters/jan|Jan]] | Intern (*Town Hall* / desk fill-in) | Recurring unpaid intern with curly hair; Town Hall guest who declines full-time hire mid-segment |
 | [[characters/jazz-shrimp|Jazz Shrimp]] | Minor Culinary-Music Correspondent | Tempura-fried jazz shrimp who debates food critics over his claim to be the greatest jazz shrimp of all time |
 | [[characters/jeb|Jeb Nogget]] | Host (*How To with Jeb*) | Wood shop host of rogue instructional block, co-hosting with his deceased father trapped in a wooden board |
