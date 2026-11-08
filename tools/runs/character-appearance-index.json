@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T11:44:08.587841+00:00",
+  "generated_at": "2026-11-08T12:47:17.621735+00:00",
   "thresholds": {
     "minor": 3,
     "recurring": 6,
@@ -1482,7 +1482,7 @@
     },
     "jeff-ripple": {
       "name": "Jeff Ripple",
-      "count": 141,
+      "count": 140,
       "episodes": [
         "2023-11-22",
         "2023-11-28",
@@ -1606,7 +1606,6 @@
         "2026-05-12",
         "2026-05-18",
         "2026-05-22",
-        "2026-05-29",
         "2026-06-05",
         "2026-06-08",
         "2026-06-15",
@@ -1632,7 +1631,7 @@
     },
     "chet": {
       "name": "Chet (Chet Manscape)",
-      "count": 127,
+      "count": 128,
       "episodes": [
         "2023-11-28",
         "2023-11-30",
@@ -1760,7 +1759,8 @@
         "2026-09-04",
         "2026-10-10",
         "2026-10-29",
-        "2026-11-04"
+        "2026-11-04",
+        "2026-11-07"
       ],
       "display_names": [
         "Chet (Chet Manscape)"
@@ -2648,6 +2648,34 @@
         "Chris"
       ]
     },
+    "jevrything": {
+      "name": "Jevrything",
+      "count": 19,
+      "episodes": [
+        "2025-06-07",
+        "2025-06-26",
+        "2025-07-12",
+        "2025-07-25",
+        "2025-08-02",
+        "2025-09-05",
+        "2025-09-13",
+        "2025-11-18",
+        "2026-02-06",
+        "2026-02-17",
+        "2026-03-27",
+        "2026-04-01",
+        "2026-04-11",
+        "2026-05-12",
+        "2026-05-22",
+        "2026-05-29",
+        "2026-06-29",
+        "2026-07-17",
+        "2026-07-24"
+      ],
+      "display_names": [
+        "Jevrything"
+      ]
+    },
     "grandma-crumble-bottom": {
       "name": "Grandma Crumble Bottom",
       "count": 18,
@@ -3058,18 +3086,6 @@
       ],
       "display_names": [
         "Don Riggles"
-      ]
-    },
-    "jevrything": {
-      "name": "Jevrything",
-      "count": 3,
-      "episodes": [
-        "2025-09-13",
-        "2025-11-18",
-        "2026-04-01"
-      ],
-      "display_names": [
-        "Jevrything"
       ]
     },
     "mancini-smooth": {
@@ -4155,16 +4171,6 @@
         "Head of the Family Actor"
       ]
     },
-    "j-drilla": {
-      "name": "J. Drilla",
-      "count": 1,
-      "episodes": [
-        "2025-06-26"
-      ],
-      "display_names": [
-        "J. Drilla"
-      ]
-    },
     "jace-lanfill": {
       "name": "Jace Lanfill",
       "count": 1,
@@ -4203,16 +4209,6 @@
       ],
       "display_names": [
         "Jay (Co-Host)"
-      ]
-    },
-    "jay-drilla": {
-      "name": "Jay Drilla",
-      "count": 1,
-      "episodes": [
-        "2025-06-07"
-      ],
-      "display_names": [
-        "Jay Drilla"
       ]
     },
     "jay-drilla-jev": {
@@ -4493,6 +4489,16 @@
       ],
       "display_names": [
         "Mavis"
+      ]
+    },
+    "melody-von-torture-mvt": {
+      "name": "Melody Von Torture (MVT)",
+      "count": 1,
+      "episodes": [
+        "2026-11-07"
+      ],
+      "display_names": [
+        "Melody Von Torture (MVT)"
       ]
     },
     "miles-taylor": {

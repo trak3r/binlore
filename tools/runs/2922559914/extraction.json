@@ -1,0 +1,154 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "07:55",
+      "canonical_segment": "News",
+      "title": "Cold Open with Pepito",
+      "notes": "Pepito delivers the station sign-on as executive producer, identifying as the dog who produces the show."
+    },
+    {
+      "start": "07:55",
+      "end": "02:21:25",
+      "canonical_segment": "Rebuild Rennerton",
+      "title": "Crum's Mayoral Reconstruction",
+      "notes": "Crum, as newly elected mayor of Rennerton, plays Valheim live: gathers resources, builds structures (fermenters, jet ski, treehouse), hunts, fights trolls/bears/skeletons, and manages town infrastructure while fending off constant wildlife attacks and lag."
+    },
+    {
+      "start": "01:05:47",
+      "end": "01:17:06",
+      "canonical_segment": "Rebuild Rennerton",
+      "title": "First Mayoral Press Conference",
+      "notes": "Crum fields questions from citizens on Goblin Pizza Hut's bid, molasses GPUs, Gooters chicken wetness, data centers, strip club vs family town, and allegations of gooning with trolls; Munch briefly interrupts."
+    },
+    {
+      "start": "02:21:25",
+      "end": "02:33:46",
+      "canonical_segment": "Rebuild Rennerton",
+      "title": "Second Press Conference & Election Lead-up",
+      "notes": "After dying and losing his jet ski, Crum holds another press conference addressing school quality, meth, skeletal civic rights, swamp drainage, and hell-door allegations; transitions to mayoral election."
+    },
+    {
+      "start": "02:33:46",
+      "end": "02:39:02",
+      "canonical_segment": "Rebuild Rennerton",
+      "title": "Mayoral Election & Raid",
+      "notes": "Melody Von Torture (MVT) wins mayoral race over Crum; Crum concedes and pledges advisory support; stream ends with raid to Harry Hardy."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold-open sign-on as the dog who produces the show.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum (Leonard Crum)",
+      "role": "mayor of Rennerton / debate analyst",
+      "notes": "mayor of Rennerton / debate analyst. Serves as acting mayor of Rennerton for the full broadcast, running a live Valheim reconstruction session while fielding press conferences and an election.",
+      "canonical_name": "Crum (Leonard Crum)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Briefly heard off-camera at 02:18:35 coordinating dinner (chicken in air fryer) with Crum during the stream.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Melody Von Torture (MVT)",
+      "role": "citizen / mayor-elect",
+      "notes": "citizen / mayor-elect. Assists Crum in-game, runs for mayor, wins the election at stream's end, and becomes mayor-elect of Rennerton.",
+      "canonical_name": "Melody Von Torture (MVT)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "role": "news stowaway",
+      "notes": "news stowaway. Nominated as a mayoral candidate (option 'Peter') but does not appear on-screen.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet (Chet Manscape)",
+      "role": "science correspondent",
+      "notes": "science correspondent. Referenced at 02:34:39 as present ('Chet is here actually') but does not speak on air.",
+      "canonical_name": "Chet (Chet Manscape)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Rebuild Rennerton",
+      "beat": "[2026-11-07] Crum serves as mayor for a full Valheim reconstruction session: builds fermenters (ball juice mead), jet ski (lost and rebuilt), treehouse on swamp island, discovers ancient bark for longship; MVT elected mayor at end.",
+      "timestamp": ""
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[2026-11-07] Crum references being 'mandated by a court to get punched in the penis' during press conference at 01:10:02, confirming the storyline's place in Rennerton lore.",
+      "timestamp": ""
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Elected mayor of Rennerton prior to this broadcast (references 'duly elected mayor yesterday' at 09:07).",
+      "timestamp": "09:07",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Establishes fermenters producing 'ball juice' mead (poison resistance, healing, stamina) as first drinkable beverage at Gooters.",
+      "timestamp": "01:27:26",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Builds and loses first jet ski; constructs second jet ski after death.",
+      "timestamp": "02:00:35",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Crum (Leonard Crum)",
+      "fact": "Discovers ancient bark on swamp island, unlocking longship and bonfire recipes.",
+      "timestamp": "02:11:36",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Melody Von Torture (MVT)",
+      "fact": "Wins mayoral election over Crum (97 votes to MVT's winning tally) at 02:35:47, becoming mayor-elect of Rennerton.",
+      "timestamp": "02:35:47",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Appears off-camera via voice at 02:18:35 coordinating dinner with Crum, confirming her presence in the studio/house during the broadcast.",
+      "timestamp": "02:18:35",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Executive producer Pepito opens the broadcast before Crum, newly elected mayor of Rennerton, commandeers the stream for a multi-hour live Valheim reconstruction session. Crum gathers resources, builds fermenters producing the town's first drinkable mead ('ball juice'), constructs and loses a jet ski, establishes a treehouse outpost on a swamp island, and survives relentless wildlife attacks. Two press conferences field citizen questions on infrastructure, skeletal rights, and swamp drainage. The broadcast concludes with a mayoral election in which Melody Von Torture unseats Crum, who pledges bipartisan advisory support before raiding Harry Hardy.",
+  "_meta": {
+    "vod_id": "2922559914",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 128401,
+    "approx_prompt_tokens": 32100,
+    "transcript_lines": 405
+  }
+}

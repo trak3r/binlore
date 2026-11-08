@@ -60,6 +60,7 @@ Two *Return To Renerton* telecasts aired on **2024-10-13**, followed by a Hallow
 | [[../episodes/2026-11-04|2026-11-04]] [49:14] | [49:14] Case mentions tilling the woods of Rennerton; [02:50:22] chat asks for Rennerton vote count and Case confirms rebuild segments deferred to tomorrow. |
 | [[../episodes/2026-11-06|2026-11-06]] [1:07:24] | [01:07:24] Case announces Valheim rebuild session for tomorrow; [01:18:43] Crum claims [[../sponsors/peen-ui|peen.ui]] data centers going into elementary school parking lots; [01:19:48] Crum admits using zombie children as processing chips in Rennerton. |
 | [[../episodes/2026-11-07|2026-11-07]] [53:49] | [53:49] Skeleton Munch active as mayor rebuilding from wilds; [2:48:44] Gooters castle completed (sign reads GOONERS); [3:00:25] Pay-to-play mayoral election held; [3:02:10] Crumb wins, Munch concedes ("Skella Munch out"); [3:03:46] Crumb assumes office with vegan/berry diet platform. |
+| [[../episodes/2026-11-07-2922559914|2026-11-07]] | [2026-11-07] Crum serves as mayor for a full Valheim reconstruction session: builds fermenters (ball juice mead), jet ski (lost and rebuilt), treehouse on swamp island, discovers ancient bark for longship; MVT elected mayor at end. |
 
 ## Related Pages
 

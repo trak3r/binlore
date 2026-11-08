@@ -46,6 +46,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | Episode | Notes |
 |---|---|
 | [[episodes/2026-11-07|2026-11-07]] | debate analyst. |
+| [[episodes/2026-11-07-2922559914|2026-11-07]] | mayor of Rennerton / debate analyst. |
 | [[episodes/2026-11-06|2026-11-06]] | debate analyst. |
 | [[episodes/2026-11-05|2026-11-05]] | debate analyst. |
 | [[episodes/2026-11-04|2026-11-04]] | Gambling-addicted debate analyst picks skins for pickup basketball tradition, claims medical exemption from shirts. |
@@ -64,13 +65,13 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-08-04|2026-08-04]] | Senior debate analyst. Opposes Munch's anti-medicine stance, insists Blackwell see a doctor, and ultimately slams the segment-end button early to cut off Munch's ranting. |
 | [[episodes/2026-07-23|2026-07-23]] | Senior Debate Analyst. Brief vocal intrusion to push through the portal to hell and demand Case get well soon, before disappearing back into the ether. |
 | [[episodes/2026-07-17|2026-07-17]] | Senior debate analyst. Debated merch priority with Munch, recorded the Stephanie merch-drop rap with explicit pre-emptive marital fidelity disclaimer to his wife Belolia, appeared during the Chet therapy segment. |
-| [[episodes/2026-07-13|2026-07-13]] | Senior debate analyst arguing for the reinstatement of AI Rooney. Shares a bizarre, fabricated(?) origin story of his name involving a Crumbl cookie shop birth on a 12-inch party sub. |
 
 <details>
-<summary>Earlier appearances (206)</summary>
+<summary>Earlier appearances (207)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-07-13|2026-07-13]] | Senior debate analyst arguing for the reinstatement of AI Rooney. Shares a bizarre, fabricated(?) origin story of his name involving a Crumbl cookie shop birth on a 12-inch party sub. |
 | [[episodes/2026-07-11|2026-07-11]] | Senior debate analyst; criticizes Case's haircut, references his father's dealership, and flees after a debate over political violence. |
 | [[episodes/2026-06-27|2026-06-27]] | Senior debate analyst. Interjects from the satellite room to rap with the Hype Train and debate Reggae vs Emo. |
 | [[episodes/2026-06-18|2026-06-18]] | Senior debate analyst. Hollow-eyed, bald. Demands total abolition of improvisation. Suffers 36-year UTI causing acidic urine. Openly hates Irish people. Wife seeing therapist (referenced). Gambling debts canonical but not mentioned this episode. |

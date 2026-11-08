@@ -56,6 +56,7 @@ Type **`!rebuild`** in Twitch chat for the live join instructions. Stable setup 
 | [[episodes/2026-10-23|2026-10-23]] | 1:51:39 | Rebuild Rennerton: Valheim Reconstruction Marathon: Munch (as skeleton mayor) leads multi-hour Valheim rebuild: press conference, first citizens (MVT, Exterminator, Stanton), skate park half-pipe, mayor's mansion on stilts, boar pen, green skeleton transformation, resource cheats enabled. |
 | [[episodes/2026-11-06|2026-11-06]] | 1:07:24 | Rennerton Rebuild Planning: Case announces Valheim rebuild session tomorrow; explains mod barrier, seeks free alternatives like Palworld; mentions AI-generated Spyro hentai game attempt blocked by Claude. |
 | [[episodes/2026-11-07|2026-11-07]] | 51:38 | Rebuild Rennerton: Gooters Castle & Mayoral Election: Skeleton Munch broadcasts from Rennerton wilds; completes Gooters castle (sign misspelled GOONERS); holds press conference fielding questions on Crumb town, hogs, deputy mayor, Gooters G-points, Handem Squid debate moderation, Crum's lawyer; unlimited-points election held; Crumb defeats Munch; Munch concedes and departs; Crumb assumes mayoralty with vegan platform. |
+| [[episodes/2026-11-07-2922559914|2026-11-07]] | 7:55 | Crum's Mayoral Reconstruction: Crum, as newly elected mayor of Rennerton, plays Valheim live: gathers resources, builds structures (fermenters, jet ski, treehouse), hunts, fights trolls/bears/skeletons, and manages town infrastructure while fending off constant wildlife attacks and lag. |
 
 ## Notable moments
 

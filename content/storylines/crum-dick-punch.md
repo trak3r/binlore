@@ -192,6 +192,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2026-11-05|2026-11-05]] [1:14:05] | [1:14:05] Crum references Kalshi election betting (not traditional sportsbooks) while downplaying losses; Munch and chat vote he went deeper into debt. |
 | [[../episodes/2026-11-06|2026-11-06]] [1:12:27] | [01:12:27] Crum confirms he already received the mandated gorilla dick punch, 'paid debt to society,' and claims [[../sponsors/peen-ui|peen.ui]] data centers legally approved as result. |
 | [[../episodes/2026-11-07|2026-11-07]] [15:07] | [15:07] Crum's lawyer referenced in context of court-ordered groin punch: "the same one that he had to get punched in the dick cuz of... That was a light sentence." |
+| [[../episodes/2026-11-07-2922559914|2026-11-07]] | [2026-11-07] Crum references being 'mandated by a court to get punched in the penis' during press conference at 01:10:02, confirming the storyline's place in Rennerton lore. |
 
 ## Related Pages
 
