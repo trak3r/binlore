@@ -108,6 +108,8 @@ def _is_yt_id(value: str | None) -> bool:
 @dataclass
 class Episode:
     date: str | None = None
+    # Episode page stem; differs from ``date`` when a second stream shares the date (e.g. 2026-11-07-2922559914).
+    page: str | None = None
     title: str | None = None
     twitch_id: str | None = None
     yt_id: str | None = None
@@ -129,9 +131,13 @@ class Episode:
 
     @property
     def wiki_url(self) -> str | None:
-        if self.date and (CONTENT_EPISODES / f"{self.date}.md").exists():
-            return f"{WIKI_BASE}/episodes/{self.date}"
+        if self.page_slug and (CONTENT_EPISODES / f"{self.page_slug}.md").exists():
+            return f"{WIKI_BASE}/episodes/{self.page_slug}"
         return None
+
+    @property
+    def page_slug(self) -> str | None:
+        return self.page or self.date
 
     @property
     def label(self) -> str:
@@ -204,6 +210,7 @@ def resolve_episode(target: str | None) -> Episode:
     if page:
         fm = _frontmatter(page)
         ep.date = str(fm.get("date") or page.stem)[:10]
+        ep.page = page.stem
         ep.title = re.sub(r"\s*\(\d{4}-\d{2}-\d{2}\)\s*$", "", str(fm.get("title") or "")) or None
         for value in (str(fm.get("vod_url") or ""), str(fm.get("vod_id") or "")):
             t, y = _ids_from_url(value) if value else (None, None)
@@ -620,19 +627,32 @@ def transcribe_words(media: Path, model_name: str, prompt: str | None = None) ->
 
     print(f"Transcribing {media.name} with faster-whisper {model_name} (word timestamps)...", flush=True)
     model = WhisperModel(model_name, device="cpu", compute_type="int8")
-    segments, _ = model.transcribe(
-        str(media),
-        language="en",
-        word_timestamps=True,
-        condition_on_previous_text=False,
-        initial_prompt=prompt,
-    )
-    return [
-        {"start": round(w.start, 3), "end": round(w.end, 3), "word": w.word.strip()}
-        for seg in segments
-        for w in seg.words or []
-        if w.word.strip()
-    ]
+
+    def run(initial_prompt: str | None) -> list[dict[str, Any]]:
+        segments, _ = model.transcribe(
+            str(media),
+            language="en",
+            word_timestamps=True,
+            condition_on_previous_text=False,
+            initial_prompt=initial_prompt,
+            vad_filter=True,
+        )
+        return [
+            {"start": round(w.start, 3), "end": round(w.end, 3), "word": w.word.strip()}
+            for seg in segments
+            for w in seg.words or []
+            if w.word.strip()
+        ]
+
+    words = run(prompt)
+    gaps = [b["start"] - a["end"] for a, b in zip(words, words[1:])]
+    # The name prompt can make Whisper drop nearly a whole 30s window of speech.
+    if prompt and (not words or max(gaps, default=0) > 8):
+        print("Long gap in the transcript; retrying without the name prompt...", flush=True)
+        plain = run(None)
+        if len(plain) > len(words):
+            words = plain
+    return words
 
 
 def _core(word: str) -> str:
@@ -1087,7 +1107,7 @@ def make_clip(
         print("\nRaw cut transcript (seconds into clip):", flush=True)
         for c in chunks:
             print(f"  {c[0]['start']:6.2f}-{c[-1]['end']:6.2f}  {' '.join(w['word'] for w in c)}", flush=True)
-        meta.update(episode=ep.label, start=fmt_hms(start_s), end=fmt_hms(end_s), fixes=all_fixes)
+        meta.update(episode=ep.page_slug or ep.label, start=fmt_hms(start_s), end=fmt_hms(end_s), fixes=all_fixes)
         meta_path.write_text(json.dumps(meta, indent=2), encoding="utf-8")
         return out_dir
 
@@ -1134,7 +1154,7 @@ def make_clip(
     )
 
     meta.update(
-        episode=ep.label, start=fmt_hms(start_s), end=fmt_hms(end_s), crop_x=crop_x, title=title,
+        episode=ep.page_slug or ep.label, start=fmt_hms(start_s), end=fmt_hms(end_s), crop_x=crop_x, title=title,
         hook=hook, wiki=wiki, tags=tags, fixes=all_fixes, stinger=stinger, clip_seconds=round(clip_len, 2),
     )
     meta_path.write_text(json.dumps(meta, indent=2), encoding="utf-8")
