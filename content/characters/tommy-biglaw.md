@@ -36,7 +36,6 @@ On the [[episodes/2026-08-26|2026-08-26 broadcast]], he was summoned after viewe
 | Episode | Notes |
 |---|---|
 | [[episodes/2026-08-26|2026-08-26]] | Studio legal consultation as Tommy Biglaw; unveils Big Tommy Prosecutor; bills $40,000 for 16 laws. |
-| [[episodes/2026-08-14|2026-08-14]] | Referenced via 'Tommy Biglaw' / hobbyist lawyer [[fans/live-in-sleazy|Sleazy]] comments. |
 | [[episodes/2026-08-08|2026-08-08]] | Chocolate milk debate; yellow-and-blue coat, whiteboard votes. |
 | [[episodes/2026-06-15|2026-06-15]] | Legal counsel; references euthanizing Crum. |
 | [[episodes/2026-06-05|2026-06-05]] | Legal counsel with infant features and lisp. |
