@@ -329,6 +329,7 @@ def cmd_clips_make(args: argparse.Namespace) -> int:
         thumb_at=args.thumb_at,
         fixes=args.fix,
         raw_only=args.raw,
+        pixelate=args.pixelate,
     )
     if args.raw:
         print(f"\n✓ Raw cut for review: {out_dir}/raw.mp4 (also shots.jpg, captions.srt)")
@@ -755,6 +756,10 @@ def build_parser() -> argparse.ArgumentParser:
     cmake.add_argument("--tags", action="append", help="Extra hashtags, comma separated (repeatable)")
     cmake.add_argument("--fix", action="append", help="Caption correction 'wrong=>right' (repeatable, remembered)")
     cmake.add_argument("--thumb-at", type=float, help="Thumbnail time in seconds into the clip (default 2)")
+    cmake.add_argument(
+        "--pixelate", action="append",
+        help="Pixelate the picture from START-END seconds into the clip, e.g. 71.2-74.1 (repeatable, remembered)",
+    )
     cmake.add_argument("--whisper-model", default="small", help="faster-whisper model for captions (default small)")
     cmake.add_argument("--no-stinger", action="store_true", help="Don't append the end card / stinger")
     cmake.add_argument(

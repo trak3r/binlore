@@ -47,6 +47,7 @@ WATERMARK_X, WATERMARK_Y = 40, 200
 WATERMARK_OPACITY = 0.7
 
 END_CARD_SECONDS = 2.5
+PIXELATE_BLOCK = 48
 
 BASE_HASHTAGS = ["BarelyInformedNews", "CaseBlackwell", "comedy", "improv", "twitchclips"]
 YT_BASE_TAGS = ["Barely Informed News", "Case Blackwell", "BIN Lore", "comedy", "funny", "parody", "improv"]
@@ -332,6 +333,20 @@ def parse_crop(value: str | float) -> list[tuple[float, float]]:
     if schedule[0][0] > 0:
         schedule.insert(0, (0.0, 0.5))
     return schedule
+
+
+def parse_spans(values: list[str]) -> list[tuple[float, float]]:
+    """Parse ``--pixelate`` spans like ``31.2-34.1`` (seconds into the clip)."""
+    spans = []
+    for v in values:
+        a, sep, b = v.partition("-")
+        if not sep:
+            raise SystemExit(f"--pixelate {v!r} must look like START-END")
+        start, end = float(a), float(b)
+        if end <= start:
+            raise SystemExit(f"--pixelate {v!r}: end must be after start")
+        spans.append((start, end))
+    return sorted(spans)
 
 
 def _crop_x_expr(schedule: list[tuple[float, float]]) -> str:
@@ -837,6 +852,7 @@ def render(
     watermark: Path,
     stinger: Path | None,
     out: Path,
+    pixelate: list[tuple[float, float]] | None = None,
 ) -> Path:
     cmd = ["ffmpeg", "-hide_banner", "-loglevel", "error", "-stats", "-y"]
     cmd += ["-ss", f"{lead:.3f}", "-t", f"{duration:.3f}", "-i", str(source)]
@@ -844,10 +860,14 @@ def render(
     cmd += ["-f", "concat", "-safe", "0", "-i", str(captions)]
 
     fade_at = max(duration - 0.25, 0)
+    pixelize = ""
+    if pixelate:
+        enable = "+".join(f"between(t,{a:.3f},{b:.3f})" for a, b in pixelate)
+        pixelize = f",pixelize=w={PIXELATE_BLOCK}:h={PIXELATE_BLOCK}:enable='{enable}'"
     graph = [
         f"[0:v]scale=-2:{OUT_H}:flags=lanczos,"
         f"crop={OUT_W}:{OUT_H}:x='{_crop_x_expr(crop)}':y=0,"
-        f"setsar=1,fps={FPS}[base]",
+        f"setsar=1,fps={FPS}{pixelize}[base]",
         f"[2:v]format=rgba[cap]",
         f"[base][cap]overlay=x=0:y={CAPTION_Y}[v1]",
         f"[1:v]format=rgba,colorchannelmixer=aa={WATERMARK_OPACITY}[wm]",
@@ -1043,6 +1063,7 @@ def make_clip(
     thumb_at: float | None = None,
     fixes: list[str] | None = None,
     raw_only: bool = False,
+    pixelate: list[str] | None = None,
 ) -> Path:
     start_s, end_s = parse_ts(start), parse_ts(end)
     duration = end_s - start_s
@@ -1061,6 +1082,12 @@ def make_clip(
 
     source = out_dir / "source.mp4"
     window = [round(start_s, 3), round(end_s, 3)]
+    cached = meta.get("window")
+    if not redownload and source.exists() and cached and cached != window and cached[0] <= window[0] and window[1] <= cached[1]:
+        meta["lead"] = round(meta["lead"] + window[0] - cached[0], 3)
+        meta["window"] = window
+        meta["shots"] = detect_shots(source, meta["lead"], duration)
+        shot_sheet(source, meta["lead"], duration, meta["shots"], out_dir / "shots.jpg")
     if redownload or not source.exists() or meta.get("window") != window:
         source_url, lead = slice_source(ep, start_s, end_s, source)
         meta.update(window=window, source_url=source_url, lead=lead)
@@ -1117,6 +1144,8 @@ def make_clip(
     hook = hook or meta.get("hook") or title
     wiki = wiki or meta.get("wiki", [])
     tags = tags or meta.get("tags", [])
+    pixelate = pixelate if pixelate is not None else meta.get("pixelate", [])
+    spans = parse_spans(pixelate)
 
     workdir = out_dir / ".work"
     workdir.mkdir(exist_ok=True)
@@ -1139,6 +1168,7 @@ def make_clip(
         watermark=watermark,
         stinger=sting,
         out=out_dir / "clip.mp4",
+        pixelate=spans,
     )
     clip_len = _probe(clip)["duration"]
 
@@ -1156,6 +1186,7 @@ def make_clip(
     meta.update(
         episode=ep.page_slug or ep.label, start=fmt_hms(start_s), end=fmt_hms(end_s), crop_x=crop_x, title=title,
         hook=hook, wiki=wiki, tags=tags, fixes=all_fixes, stinger=stinger, clip_seconds=round(clip_len, 2),
+        pixelate=pixelate,
     )
     meta_path.write_text(json.dumps(meta, indent=2), encoding="utf-8")
     shutil.rmtree(workdir, ignore_errors=True)

@@ -131,7 +131,8 @@ Run the same command as the raw cut, with the same `--start` and `--end` and wit
 - Detects shot changes and writes `shots.jpg` (see above).
 - Re-transcribes just the clip with word timestamps and burns in bold 2 to 4 word captions, highlighting the word being spoken.
 - Adds the watermark (`tools/clips/assets/watermark.png`, falling back to the site icon), normalizes loudness, and appends the stinger (`tools/clips/assets/stinger.mp4`, or a generated end card). Use `--no-stinger` to skip it.
-- Re-running with the same slug and window reuses the downloaded slice and transcript, so changing `--crop-x`, `--title` or `--fix` re-renders in about 35 seconds without network access. Changing `--start` or `--end` re-slices automatically. Omitted options (title, hook, wiki, tags, crop) carry over from the previous run.
+- Re-running with the same slug and window reuses the downloaded slice and transcript, so changing `--crop-x`, `--title` or `--fix` re-renders in about 35 seconds without network access. Narrowing the window (a later `--start` or an earlier `--end`) also reuses the cached slice offline; widening it re-slices, which needs the network. Omitted options (title, hook, wiki, tags, crop, pixelate) carry over from the previous run.
+- `--pixelate START-END` (seconds into the clip, repeatable) pixelates the whole picture for that span; captions and the watermark stay sharp on top. Use it for gore in fictional bits (e.g. the gorilla punch's neck stump) so the clip stays within YouTube's and TikTok's graphic-content rules, and keep gore words out of the title and caption. Run a Whisper check on words at the impact: an explosion can make it invent words that were never said.
 
 Network access is needed for the download (run the command with full permissions).
 
