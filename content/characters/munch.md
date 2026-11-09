@@ -53,6 +53,7 @@ Since [[../episodes/2026-09-07|2026-09-07]], Munch has been a living, talking sk
 
 - **A skeleton predicts the election with pigeon bones** ([[../episodes/2026-11-03|2026-11-03]]) — [YouTube](https://youtube.com/shorts/pLlQfMtdxJs) · [TikTok](https://www.tiktok.com/@binlore.wiki/video/7704399248120466701)
 - **A skeleton explains why flesh is uncivilized** ([[../episodes/2026-11-04|2026-11-04]]) — [YouTube](https://youtube.com/shorts/eaity8pH4j0) · [TikTok](https://www.tiktok.com/@binlore.wiki/video/7704400343295216910)
+- **Crum was SO sure Munch would never go through with it** ([[../episodes/2025-06-17-SmtzHJfYna0|2025-06-17]]) — [YouTube](https://youtube.com/shorts/bCHCHvkRZpI) · [TikTok](https://www.tiktok.com/@binlore.wiki/video/7706181896924957965)
 
 <!-- clips:end -->
 
