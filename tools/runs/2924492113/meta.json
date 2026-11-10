@@ -1,0 +1,19 @@
+{
+  "vod_id": "2924492113",
+  "title": "Saturday Rebuilding",
+  "url": "https://www.twitch.tv/videos/2924492113",
+  "duration_seconds": 10032,
+  "duration": "2:47:12",
+  "timestamp": 1794268800,
+  "aired_at": "2026-11-10T00:00:00+00:00",
+  "date": "2026-11-10",
+  "ingested_at": "2026-11-10T11:52:06.329741+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "",
+  "yt_url": "",
+  "twitch_id": "2924492113",
+  "twitch_url": "https://www.twitch.tv/videos/2924492113",
+  "catalog_date": "2026-11-10"
+}
