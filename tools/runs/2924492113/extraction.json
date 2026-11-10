@@ -1,0 +1,152 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "09:30",
+      "canonical_segment": "News",
+      "title": "Cold Open & Studio Handoff",
+      "notes": "Pepito signs on as executive producer, hands off to Case Blackwell for a casual Monday stream; Hype Train appears briefly before being consumed by visual glitch."
+    },
+    {
+      "start": "09:30",
+      "end": "20:15",
+      "canonical_segment": "News",
+      "title": "Pre-Game Banter & Technical Setup",
+      "notes": "Case and Crum discuss the evening's plan to play Shift at Midnight with John Madison; Crum threatens to sue chat members, references Peen.UI settlement money; stream title corrected from 'Saturday Rebuilding' to reflect Shift at Midnight."
+    },
+    {
+      "start": "20:15",
+      "end": "52:00",
+      "canonical_segment": "News",
+      "title": "Co-Stream Setup & Guest Arrivals",
+      "notes": "Tim Lampier joins via Discord; John Madison struggles with Twitch/Streamlabs setup; Case, Tim, and John troubleshoot audio and lobby settings; Kendall gifted the game but not yet present."
+    },
+    {
+      "start": "52:00",
+      "end": "01:20:00",
+      "canonical_segment": "News",
+      "title": "Shift at Midnight — First Shifts (Learning the Ropes)",
+      "notes": "Four-player co-op (Case, Crum, Tim, John) begins; tutorial tasks: restock shelves, mop blood, bag limbs, scan IDs, interrogate customers for doppelganger tells; early casualties include Bonnie McCree (killed for missing glasses) and a sheriff cleared after occupation check."
+    },
+    {
+      "start": "01:20:00",
+      "end": "01:55:00",
+      "canonical_segment": "News",
+      "title": "Shift at Midnight — Escalation & Entity Events",
+      "notes": "Doppelganger attacks intensify; generator tampering, vent monsters, dentist entity, blood moon warning; Kendall joins mid-stream; team purchases weapons (shotgun, bear traps, sledgehammer, Molotovs); notable kills: Norbert (fake ID), Dylan Pike (shorts discrepancy), Karen (tattoo side mismatch), Diana Volkov (accidental human kill by Case)."
+    },
+    {
+      "start": "01:55:00",
+      "end": "02:30:00",
+      "canonical_segment": "News",
+      "title": "Shift at Midnight — Blood Moon & New Entity Type",
+      "notes": "Blood moon guarantees entity attack; emotion-scanning mechanic introduced (emotoscope); new creature: tall, fast, strong, freezes when observed; team boards doors, sets traps, uses grenades and Molotovs; Crum survives grenade blast; shift ends with near-perfect night but one human casualty."
+    },
+    {
+      "start": "02:30:00",
+      "end": "02:47:12",
+      "canonical_segment": "News",
+      "title": "Wrap-Up, Kickstarter Push & Raid",
+      "notes": "Case promotes Freak Street Kickstarter (157 followers, 2 days left), announces No Breaks November schedule (daily ~4 PM), plans stream from John Madison's place; raids Ricky Peacock with 'Freak Street raid' call to action."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchors the casual Monday gaming stream, manages co-op lobby, promotes Kickstarter, announces No Breaks November schedule.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Delivers cold-open sign-on as 'Papita', briefly holds desk before handing to Case.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Co-hosts gaming session, threatens lawsuits against chat, references Peen.UI settlement money, survives grenade blast in-game.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "role": "hype man",
+      "notes": "hype man. Briefly appears during hype train event, consumed by visual glitch, delivers surreal freestyle before fading.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "role": "in-studio contributor",
+      "notes": "in-studio contributor. Joins mid-stream as fourth player, modeled employee, earns headache break, praised by Case at wrap.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[13:38] Crum references 'peen.ui money' settlement and hourly lawyer rates, confirming the Crum Dick Punch financial aftermath is canonically liquid.",
+      "timestamp": "13:38"
+    },
+    {
+      "storyline": "Beyblade Tournament",
+      "beat": "[24:39] Case mentions Beyblade Tournament as upcoming community-pledge event during Kickstarter plug.",
+      "timestamp": "24:39"
+    },
+    {
+      "storyline": "No Breaks November",
+      "beat": "[02:44:46] Case announces daily streams ~4 PM through November, next broadcast tomorrow with standard fare.",
+      "timestamp": "02:44:46"
+    }
+  ],
+  "lore_notes": [
+    {
+      "entity": "Crum",
+      "fact": "Holds 'peen.ui money' from Crum Dick Punch settlement; claims lawyer Little Tommy Big Law is too expensive.",
+      "timestamp": "[13:38]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Case Blackwell",
+      "fact": "Plans to stream from John Madison's house after helping him fix streaming setup.",
+      "timestamp": "[02:43:44]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Kendelle",
+      "fact": "Joins Shift at Midnight co-op as fourth player; Case calls her a 'modeled employee'.",
+      "timestamp": "[01:21:29]",
+      "confidence": 0.7
+    },
+    {
+      "entity": "Pepito",
+      "fact": "Signs on as 'Papita' (dog persona) for cold open, identifies as executive producer.",
+      "timestamp": "[00:08]",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Case Blackwell hosts a casual Monday co-op gaming stream of Shift at Midnight with Crum, Tim Lampier, John Madison, and Kendelle, managing a convenience store while detecting doppelgangers across escalating entity events including a blood moon. The broadcast doubles as a Freak Street Kickstarter drive (157 followers, two days remaining) and launches the No Breaks November daily streaming marathon. Case announces plans to stream from John Madison's residence after resolving his technical difficulties.",
+  "_meta": {
+    "vod_id": "2924492113",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "provider": "openrouter",
+    "prompt_chars": 128366,
+    "approx_prompt_tokens": 32091,
+    "transcript_lines": 332
+  }
+}

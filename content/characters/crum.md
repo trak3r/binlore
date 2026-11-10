@@ -47,6 +47,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-10|2026-11-10]] | debate analyst. |
 | [[episodes/2026-11-07|2026-11-07]] | debate analyst. |
 | [[episodes/2026-11-07-2922559914|2026-11-07]] | mayor of Rennerton / debate analyst. |
 | [[episodes/2026-11-06|2026-11-06]] | debate analyst. |
@@ -66,13 +67,13 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-08-08|2026-08-08]] | Senior debate analyst. Reveals his 26-year-old daughter Bethesda legally emancipated herself due to a disastrous pony delivery. Picks both Tobey Maguire and Tom Holland. Schedules the Crum Dick Punch for August 31st. Later pitches his out-of-print memoir 'Crum Fused' and offers to be an expert in holding it for people while they urinate. |
 | [[episodes/2026-08-04|2026-08-04]] | Senior debate analyst. Opposes Munch's anti-medicine stance, insists Blackwell see a doctor, and ultimately slams the segment-end button early to cut off Munch's ranting. |
 | [[episodes/2026-07-23|2026-07-23]] | Senior Debate Analyst. Brief vocal intrusion to push through the portal to hell and demand Case get well soon, before disappearing back into the ether. |
-| [[episodes/2026-07-17|2026-07-17]] | Senior debate analyst. Debated merch priority with Munch, recorded the Stephanie merch-drop rap with explicit pre-emptive marital fidelity disclaimer to his wife Belolia, appeared during the Chet therapy segment. |
 
 <details>
-<summary>Earlier appearances (207)</summary>
+<summary>Earlier appearances (208)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-07-17|2026-07-17]] | Senior debate analyst. Debated merch priority with Munch, recorded the Stephanie merch-drop rap with explicit pre-emptive marital fidelity disclaimer to his wife Belolia, appeared during the Chet therapy segment. |
 | [[episodes/2026-07-13|2026-07-13]] | Senior debate analyst arguing for the reinstatement of AI Rooney. Shares a bizarre, fabricated(?) origin story of his name involving a Crumbl cookie shop birth on a 12-inch party sub. |
 | [[episodes/2026-07-11|2026-07-11]] | Senior debate analyst; criticizes Case's haircut, references his father's dealership, and flees after a debate over political violence. |
 | [[episodes/2026-06-27|2026-06-27]] | Senior debate analyst. Interjects from the satellite room to rap with the Hype Train and debate Reggae vs Emo. |
@@ -286,11 +287,11 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 ## Notable moments
 
 
+- **[13:38]** ([[episodes/2026-11-10|2026-11-10]]): Holds 'peen.ui money' from Crum Dick Punch settlement; claims lawyer Little Tommy Big Law is too expensive.
 - **[15:07]** ([[episodes/2026-11-07|2026-11-07]]): Crum's lawyer identified as same counsel from Crum Dick Punch court proceedings; Case characterizes the sentence as "a light sentence."
 - **[1:19:48]** ([[episodes/2026-11-06|2026-11-06]]): Admits Rennerton crimes: 'turned my fucking elementary schools into data centers and I used my children as processing chips... filled the heads of kids with a bunch of computers' (claims they were zombies).
 - **[1:18:43]** ([[episodes/2026-11-06|2026-11-06]]): Claims peen.ui data centers approved for elementary school parking lots because he 'paid debt to society by already getting punched in the penis by a gorilla.'
 - **[1:14:08]** ([[episodes/2026-11-06|2026-11-06]]): Describes hell-form experience: 'anger of the thousand suns... high-pitched tone that somehow felt like honey in my ears whispering to me slay them burn it.'
-- **[1:11:20]** ([[episodes/2026-11-06|2026-11-06]]): States penis is detachable and he was 'infected by a hell spirit'; faith 'not challenged for a second.'
 - **[1:49:13]** ([[episodes/2026-11-03|2026-11-03]]): Referenced by Jeb's Dad as having hell liaison with Hype Train: 'Crumb got freaky in hell when he fucked the hype train.'
 - **[2:01:45]** ([[episodes/2026-11-03|2026-11-03]]): Crum Dick Punch forfeit still unresolved per Jeb's Dad: 'Is today Election Day or is it Crumb Punch Day?'
 - **[1:11:33]** ([[episodes/2026-10-29|2026-10-29]]): Crum claims the gorilla punch execution already occurred and he died but returned; execution 'doesn't work' on him anymore.

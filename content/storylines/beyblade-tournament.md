@@ -103,6 +103,7 @@ The **Beyblade Tournament** (frequently billed as the **2v2 Beyblade Burst Event
 | [[../episodes/2026-07-24|2026-07-24]] [8:47] | Production update by [[../characters/pepito|Pepito]] and Case confirms the Beyblades stream is stalled among backlogged subscriber goals, delayed Bart orders, and Case's swollen ankle mobility issues. |
 | [[../episodes/2026-08-19|2026-08-19]] [2:35:50] | Case announces a potential broadcast contingent entirely upon printing 16 sheets of Bart Simpson tattoos required for the upcoming tournament festivities. |
 | [[../episodes/2026-08-26|2026-08-26]] [0:54] | Case returns to the anchor desk with raw, peeling arms, debriefing the audience on having endured 106 Bart Simpson temporary tattoos applied over the weekend, reigniting viewer anticipation for the Beyblade showdown. |
+| [[../episodes/2026-11-10|2026-11-10]] [24:39] | [24:39] Case mentions Beyblade Tournament as upcoming community-pledge event during Kickstarter plug. |
 
 ## Related Pages
 
