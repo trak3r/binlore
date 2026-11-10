@@ -94,7 +94,7 @@ def refresh_catalog_from_twitch(*, limit: int = 40, dry_run: bool = False) -> di
             for key in ("id", "yt_id", "yt_url", "title"):
                 if existing.get(key) and key in ("id", "yt_id", "yt_url"):
                     entry[key] = existing[key]
-            if existing.get("title") and meta.title in (None, "", "(untitled)"):
+            if existing.get("title") and (existing.get("title_locked") or meta.title in (None, "", "(untitled)")):
                 entry["title"] = existing["title"]
             # Only count as updated when something useful changed
             if any(existing.get(k) != entry.get(k) for k in ("date", "duration_seconds", "title", "twitch_url")):
