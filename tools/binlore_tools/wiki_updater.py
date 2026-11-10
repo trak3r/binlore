@@ -17,7 +17,7 @@ from .paths import (
 )
 
 FIXTURE_CHARACTER_SLUGS = frozenset({"pepito", "case-blackwell"})
-FIXTURE_SEGMENT_SLUGS = frozenset({"news", "pre-show", "preshow", "cold-open"})
+FIXTURE_SEGMENT_SLUGS = frozenset({"news", "banter", "pre-show", "preshow", "cold-open"})
 UNKNOWN_CHARACTERS_LOG = RUNS_DIR / "unknown-characters.jsonl"
 APPEARANCES_RECENT_LIMIT = 20
 _EP_DATE_RE = re.compile(r"episodes/(\d{4}-\d{2}-\d{2})")
@@ -711,6 +711,12 @@ def _match_character_file(name: str, canon: dict[str, list[CanonEntity]]) -> tup
 
 
 def _match_segment_file(title: str, canon: dict[str, list[CanonEntity]], canonical_segment: str = "") -> Path | None:
+    canonical_lower = canonical_segment.strip().lower()
+    if canonical_lower:
+        for seg in canon.get("segments", []):
+            if canonical_lower == seg.name.lower() or canonical_lower in (a.lower() for a in seg.aliases):
+                return seg.file_path
+
     title_lower = f"{canonical_segment} {title}".lower()
     # 1. Exact or substring match on segment name or aliases
     for seg in canon.get("segments", []):
@@ -728,7 +734,7 @@ def _match_segment_file(title: str, canon: dict[str, list[CanonEntity]], canonic
             return seg.file_path
         if "hype" in title_lower and "hype" in seg_lower:
             return seg.file_path
-        if any(k in title_lower for k in ("cryptozeus", "cryptozeu$", "cryptozeu", "gameplay", "jill", "gaming")) and ("cryptozeus" in seg_lower or "cryptozeu$" in seg_lower or "cryptozeu" in seg_lower):
+        if any(k in title_lower for k in ("cryptozeu", "brandon", "jill")) and "cryptozeu" in seg_lower:
             return seg.file_path
         if any(k in title_lower for k in ("science", "chet", "skynce", "microscope", "cult")) and "chet" in seg_lower:
             return seg.file_path

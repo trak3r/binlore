@@ -150,6 +150,12 @@ Crumb/Crumble → Crum; Monch → Munch; Skynce/Chad → Chet; Chetah → ChetAI
 
 Match canonical_segment and character names to the Existing Wiki Canon Roster in the user message. Do not invent desks or staff that are not in the roster or clearly on-air in this transcript.
 
+Segment choice:
+- News: headline coverage, chat news, the cold open and the sign-off/raid wrap-up. Not a catch-all.
+- Banter: pre-show chat, technical setup, housekeeping, schedule plugs and desk chatter that isn't news coverage.
+- Gaming: gameplay on the main broadcast (Case, studio talent, guest streamers), including lobby/mod setup.
+- CryptoZeu$: only Brandon's remote gaming dispatch. Never use it for gameplay Brandon isn't hosting.
+
 TASK: Extract from the transcript:
 1. segments — major blocks with start/end timestamps, canonical_segment from the roster, episode-specific title, notes
 2. characters — on-air network figures (speaking or heavily discussed). Not news subjects. notes = one short sentence.

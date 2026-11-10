@@ -237,8 +237,12 @@ def _format_segment_link(name: str) -> str:
         return f"[[segments/hype-train|{name}]]"
     if "news" in slug:
         return f"[[segments/news|{name}]]"
-    if "cryptozeus" in slug or "cryptozeu" in slug or "gaming" in slug or "cryptozeu$" in slug:
+    if "cryptozeu" in slug:
         return f"[[segments/cryptozeus|{name}]]"
+    if "gaming" in slug or "gameplay" in slug:
+        return f"[[segments/gaming|{name}]]"
+    if "banter" in slug or "pre-show" in slug or "preshow" in slug or "housekeeping" in slug:
+        return f"[[segments/banter|{name}]]"
     if "therapy" in slug or "chath" in slug or "cheth" in slug:
         return f"[[segments/therapy|{name}]]"
     if "chet" in slug or "science" in slug or "skynce" in slug:

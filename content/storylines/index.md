@@ -21,6 +21,7 @@ Major broadcast events and ongoing narrative arcs spanning multiple telecasts �
 |---|---|---|
 | [[rennerton\|Rennerton]] | active (Valheim rebuild) | Chat-elected mayors; Case plays the city-builder as the winner — Oct 2024 marathon, now [[../segments/rebuild-rennerton\|Rebuild Rennerton]] in modded Valheim |
 | [[deb-8\|Deb-8]] | resolved / concluded | Eight-hour debate marathon stretch goal → July 20, 2024 flagship telecast |
+| [[no-breaks-november\|No Breaks November]] | active (November 2026) | Daily Mon–Sat broadcasts all month to drive the *13 Freak Street* Kickstarter; Case's ever-present slam graphic |
 | [[grunchmas\|Grunchmas]] | active / recurring annual | Annual Grunch Fucks List specials (2023–2025+) |
 
 ## Other arcs

@@ -51,7 +51,7 @@ Case Blackwell returns from a three-week hiatus to a chaotic broadcast: Kendelle
 | 54:43 | 1:10:26 | [[segments/news|News]]: Peter Gibbon Interrupts: Paramount+ Deep Dive | News stowaway Peter Gibbon emerges from the walls to discuss Paramount+ with Showtime rebranding complexities, streaming service catalogs, Quibi on Roku, and Seeso shutdown while Case attempts to usher him out. |
 | 1:13:05 | 1:26:40 | [[segments/munch-and-crum|Munch & Crum]]: Munch & Crum: Rat Stuff vs Shrew Stuff | Ralph Munchcut defends rat supremacy (cheese, freedom, reproduction rates) while Leonard Crum champions the misunderstood shrew (caffeinated lifestyle, open imagination), devolving into personal harassment, 'sweet mouth' and 'daddy' roleplay, and HR complaints. |
 | 1:30:23 | 1:49:32 | [[segments/amongst-the-web|Amongst the Web]]: Trailer Thursday with Trent & Chris | Movie correspondent Trent (with parole officer Chris) reviews Alan Wake 2 live-action trailer, the failed Jonah Hill sitcom Alan Gregory, Jurassic Park survival game trailer, and Marvel's Blade game trailer, arguing over movie vs game classification. |
-| 1:49:32 | 1:52:21 | [[segments/cryptozeus|CryptoZeu$]]: Lethal Company Setup & Mod Coordination | Case transitions to Lethal Company multiplayer with Fiona, Avali, Jean, and Tim, troubleshooting mod versions, Discord calls, and version mismatches while Fiona chats on her own stream. |
+| 1:49:32 | 1:52:21 | [[segments/gaming|Gaming]]: Lethal Company Setup & Mod Coordination | Case transitions to Lethal Company multiplayer with Fiona, Avali, Jean, and Tim, troubleshooting mod versions, Discord calls, and version mismatches while Fiona chats on her own stream. |
 
 ## Characters
 

@@ -10,10 +10,12 @@ Signature programming and recurring newsroom desks across the *Barely Informed N
 | Segment | Broadcast Role | Description |
 |---|---|---|
 | [[segments/news\|News]] | Core Broadcast | Prime-time news desk anchored by Case Blackwell with breaking ticker |
+| [[segments/banter\|Banter]] | Desk Chatter | Unscripted pre-show, technical setup, housekeeping and between-segment desk chat |
+| [[segments/gaming\|Gaming]] | Live Gameplay | Co-op and solo gameplay on the main broadcast with studio talent and guest streamers |
 | [[segments/hype-train\|Hype Train]] | Network Disruption | High-energy musical and cultural broadcast intervention during subscriber surges |
 | [[segments/munch-and-crum\|Munch & Crum]] | Flagship Debate | Heated political clash between senior analysts Munch and Crum |
 | [[segments/chet-guy-the-science-eyes\|Chet Guy the Science Eyes]] | Investigative Science | Specialized science inquiry desk with laboratory optics and AI data synthesis |
-| [[segments/cryptozeus\|CryptoZeu$]] | Remote Dispatch | Live retro video game playthrough and digital culture desk |
+| [[segments/cryptozeus\|CryptoZeu$]] | Remote Dispatch | Brandon's live retro video game playthroughs from his bedroom studio |
 | [[segments/amongst-the-web\|Amongst the Web]] | Audience Interactive | Viewer-submitted viral media review hosted by Case Blackwell alongside rotating guest co-hosts |
 | [[segments/jambalaya\|Jambalaya]] | Secret-Blank Panel | Multi-guest "secret blank" debate panel where one contestant hides a trait until chat and co-panelists expose them |
 | [[segments/therapy\|Therapy]] | Mental Wellness & Counseling | Interactive counseling desk where resident minor-character therapist Dr. Chath fields viewer prompts to counsel Case and network talent |

@@ -46,7 +46,7 @@ Barely Informed News opened with a gooning-derailed Hype Train before pivoting t
 | Start | End | Segment | Notes |
 |-------|-----|---------|-------|
 | 0:06 | 7:54 | [[segments/news|News]]: Cold Open & Station Sign-On | Pepito delivers the official broadcast sign-on and countdown from the executive producer station. |
-| 7:54 | 12:07 | [[segments/news|News]]: Pre-Show Banter & Gerni Championships Discovery | Case and Kendall discuss new intro graphics and the existence of the Gurning World Championships while the stream boots up. |
+| 7:54 | 12:07 | [[segments/banter|Banter]]: Pre-Show Banter & Gerni Championships Discovery | Case and Kendall discuss new intro graphics and the existence of the Gurning World Championships while the stream boots up. |
 | 12:07 | 19:56 | [[segments/hype-train|Hype Train]]: Hype Train: Gooning Freestyle | Hype Train commandeers the feed with a high-tempo gooning-themed freestyle rap over eclectic beats, acknowledging subscriber milestones. |
 | 20:17 | 33:16 | [[segments/news|News]]: Gurning World Championships Coverage | Case and Rick review the 2024 World Gurning Championship in Egremont, Cumbria, analyzing competitor faces and attempting their own gurns. |
 | 33:36 | 44:53 | [[segments/news|News]]: Middle East Escalation: Israel-Hezbollah Conflict | Case and Rick cover Israeli airstrikes on Beirut, the death of a senior Hezbollah commander, and the UN Security Council meeting, using a color-coded threat meter. |
