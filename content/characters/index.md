@@ -38,7 +38,7 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/brandons-mother|Brandon's Mother]] | Unseen Family Voice | Brandon's loud-mouthed mother who screams through his bedroom door during gaming broadcasts |
 | [[characters/chris|Chris]] | Probation Officer (*At the Movies*) | Trent's required on-set probation / parole officer and trailer-block co-host |
 | [[characters/clementine-verne|Clementine Verne]] | Conspiracy Correspondent (prior) | Original Conspiracy Time / Unvernished Truth host before Guy Redacted; curly-wigged man often billed as Clementine |
-| [[characters/clive-clifton|Senator Clive Clifton]] | Political Guest | Injured (pinky toe) former senator running on a new single-issue promise every visit; "women are coyotes"; always missing his glasses |
+| [[characters/clive-clifton|Senator Clive Clifton]] | Political Guest | Injured (pinky toe) former senator running on a new single-issue promise every visit; "women are coyotes"; wide-mouthed and always missing his glasses |
 | [[characters/coach-mcgurk|Coach McGurk]] | Minor Character Witness | Character witness for Crum from the Bart Simpson voice / zombie-head era |
 | [[characters/crag|Crag]] | Studio Security Officer | Ineffectual newsroom guard (ASR often "Craig"); never keeps Peter out; Pepito won't fire him |
 | [[characters/cremus-tremando|Cremus Tremando]] | Occult & Mystical Consultant | Freelance mystic sorcerer retained for supernatural broadcast emergencies |

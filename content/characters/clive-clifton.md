@@ -17,13 +17,13 @@ tags:
 
 ![Clive Clifton on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/clive-clifton.jpg)
 
-**Senator Clive Clifton** is a bearded, silver-templed, self-described "man of the people": a former American senator who wants to be a senator again, from any state you pick. He debuted defending an injury-positive platform in [[../segments/encircled|Encircled]] and has kept turning up during No Breaks November with a new campaign promise each time. Case calls him "probably my favorite politician" and, after Clive took over the news desk uninvited, declared him "a guy we're sticking with. He comes back."
+**Senator Clive Clifton** is a bespectacled, wide-mouthed, self-described "man of the people": a former American senator who wants to be a senator again, from any state you pick. He debuted defending an injury-positive platform in [[../segments/encircled|Encircled]] and has kept turning up during No Breaks November with a new campaign promise each time. Case calls him "probably my favorite politician" and, after Clive took over the news desk uninvited, declared him "a guy we're sticking with. He comes back."
 
 ## Overview & Persona
 
 Clive is a folksy right-wing stump speaker whose platform is assembled live from whatever is in front of him. He is "seriously injured on my pinky toe," which he says has given him "new perspectives on what it means to not be able to play tennis." He also holds that "women are coyotes," a claim he brings back at every appearance.
 
-He is perpetually looking for his glasses. When he can't find them, everyone tells him he looks different, and he finds this obvious: "Everybody looks different without their glasses."
+His look is a pair of thick dark-rimmed glasses over an enormous, stretched-out mouth, and he is perpetually looking for those glasses. When he can't find them, everyone tells him he looks different, and he finds this obvious: "Everybody looks different without their glasses."
 
 ## Platform
 
