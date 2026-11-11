@@ -593,7 +593,7 @@ def query_openrouter(
     api_key: str,
     model: str,
     timeout: float = 180.0,
-    max_retries: int = 3,
+    max_retries: int = 6,
 ) -> tuple[dict[str, Any], str]:
     """
     Call OpenRouter with one capable model only.
@@ -658,8 +658,17 @@ def query_openrouter(
                 ) from exc
 
             if attempt < max_retries:
-                # 503 / transient 429: backoff on the SAME model only
-                wait = 15.0 * attempt if ("503" in msg or "429" in msg or "unavailable" in msg.lower()) else 5.0 * attempt
+                # 503 / transient 429 / empty or garbled replies from a flaky free endpoint:
+                # back off on the SAME model only
+                lowered = msg.lower()
+                provider_flaky = (
+                    "503" in msg
+                    or "429" in msg
+                    or "unavailable" in lowered
+                    or "empty message content" in lowered
+                    or "empty choices" in lowered
+                )
+                wait = min(30.0 * attempt, 60.0) if provider_flaky else 5.0 * attempt
                 print(f"  Retrying same model in {wait:.0f}s (no model fallback)...", flush=True)
                 time.sleep(wait)
                 continue
