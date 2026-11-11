@@ -181,11 +181,11 @@ Lore extraction uses [OpenRouter](https://openrouter.ai/) (not Google AI Studio)
    ```bash
    OPENROUTER_API_KEY="your-openrouter-api-key-here"
    ```
-3. *(Optional)* Pin a capable model. Default is the OpenRouter free **Nemotron 3 Ultra** (no purchased credits required):
+3. *(Optional)* Pin a capable model. Default is the OpenRouter free **ERNIE 5.5 Flash Preview** (no purchased credits required):
    ```bash
-   OPENROUTER_MODEL="nvidia/nemotron-3-ultra-550b-a55b:free"
-   # OPENROUTER_MODEL="nvidia/nemotron-3-super-120b-a12b:free"
-   # OPENROUTER_MODEL="deepseek/deepseek-v4-flash-0731:free"
+   OPENROUTER_MODEL="baidu/ernie-5.5-flash-preview:free"
+   # OPENROUTER_MODEL="nvidia/nemotron-3.5-super-vl:free"
+   # OPENROUTER_MODEL="nvidia/nemotron-3-ultra-550b-a55b:free"
    # Paid: OPENROUTER_MODEL="anthropic/claude-sonnet-4.6"
    ```
 
@@ -264,7 +264,7 @@ Run the LLM extraction pipeline over the transcript:
 ./binlore extract --latest
 
 # Or specify a capable model explicitly
-./binlore extract --latest --model nvidia/nemotron-3-ultra-550b-a55b:free
+./binlore extract --latest --model baidu/ernie-5.5-flash-preview:free
 
 # Or target a specific VOD ID (see “Where Does <vod-id> Come From?” above)
 ./binlore extract <vod-id> --timeout 180
@@ -459,7 +459,7 @@ tail -f tools/runs/batch.log
 | `--oldest-first` | `True` | Process backlog from oldest to newest (default) |
 | `--newest-first` | `False` | Process newest unprocessed items first |
 | `--model MODEL` | `small` | `faster-whisper` model: `tiny`, `base`, `small`, `medium`, `large-v3` |
-| `--extract-model` | `nvidia/nemotron-3-ultra-550b-a55b:free` | OpenRouter model id (`--openrouter-model` is an alias) |
+| `--extract-model` | `baidu/ernie-5.5-flash-preview:free` | OpenRouter model id (`--openrouter-model` is an alias) |
 | `--delay SECONDS` | `5.0` | Cool-down sleep in seconds between episodes |
 | `--timeout SECONDS` | `180.0` | Extraction timeout per model |
 | `--min-disk-gb GB` | `1.0` | Minimum free disk space in GB required before ingesting |

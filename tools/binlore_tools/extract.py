@@ -40,7 +40,7 @@ load_env()
 DEFAULT_MODEL = (
     os.environ.get("OPENROUTER_MODEL")
     or os.environ.get("GEMINI_MODEL")  # legacy alias
-    or "nvidia/nemotron-3-ultra-550b-a55b:free"
+    or "baidu/ernie-5.5-flash-preview:free"
 )
 FALLBACK_MODELS: list[str] = []
 
@@ -177,8 +177,8 @@ def get_api_key() -> str:
             "  1. Get a key at https://openrouter.ai/keys\n"
             "  2. Add it to tools/.env:\n"
             "       OPENROUTER_API_KEY=...\n"
-            "  3. Optional model pin (default free: nvidia/nemotron-3-ultra-550b-a55b:free):\n"
-            "       OPENROUTER_MODEL=nvidia/nemotron-3-ultra-550b-a55b:free\n"
+            "  3. Optional model pin (default free: baidu/ernie-5.5-flash-preview:free):\n"
+            "       OPENROUTER_MODEL=baidu/ernie-5.5-flash-preview:free\n"
             "There is no automatic fallback to weaker models.\n"
         )
     return key
