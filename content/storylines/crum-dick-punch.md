@@ -194,6 +194,7 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2026-11-07|2026-11-07]] [15:07] | [15:07] Crum's lawyer referenced in context of court-ordered groin punch: "the same one that he had to get punched in the dick cuz of... That was a light sentence." |
 | [[../episodes/2026-11-07-2922559914|2026-11-07]] | [2026-11-07] Crum references being 'mandated by a court to get punched in the penis' during press conference at 01:10:02, confirming the storyline's place in Rennerton lore. |
 | [[../episodes/2026-11-10|2026-11-10]] [13:38] | [13:38] Crum references 'peen.ui money' settlement and hourly lawyer rates, confirming the Crum Dick Punch financial aftermath is canonically liquid. |
+| [[../episodes/2026-11-10-2925329547|2026-11-10]] [1:20:47] | [01:20:47] Munch demanded his debate points back on the grounds that Crum's points only bought the cancellation of one punch, not the follow-up; Crum responded by suing Munch and chat for back points. |
 
 ## Related Pages
 

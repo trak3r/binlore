@@ -44,6 +44,7 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-10-2925329547|2026-11-10]] | human-interest reporter. |
 | [[episodes/2026-09-01|2026-09-01]] | Anchors the "Weekend Odds and Ends" feature bulletin, reporting on floating islands, Virginia bat incidents, and water-balloon records. |
 | [[episodes/2026-08-19|2026-08-19]] | Studio newsreader delivering offbeat headlines and human-interest stories with Blackwell. |
 | [[episodes/2026-08-13|2026-08-13]] | Reclaims his 'Monday correspondent' role; explains his prior absence was due to a cat vet appointment, then covers the reflecting pool scandal and Taiga AI album. |
@@ -62,13 +63,13 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 | [[episodes/2024-08-22|2024-08-22]] | field correspondent. |
 | [[episodes/2024-07-22|2024-07-22]] | Delivers human-interest coverage of Biden withdrawal and Kamala Harris clips with characteristic gravitas. |
 | [[episodes/2024-05-31|2024-05-31]] | Co-anchors Trump verdict coverage, debates Biden 'lie-off' viability, and signs off with cosmic reassurance. |
+| [[episodes/2023-12-18|2023-12-18]] | human-interest reporter. |
 
 <details>
-<summary>Earlier appearances (2)</summary>
+<summary>Earlier appearances (1)</summary>
 
 | Episode | Notes |
 |---|---|
-| [[episodes/2023-12-18|2023-12-18]] | human-interest reporter. |
 | [[episodes/2023-11-22|2023-11-22]] | senior news mouth. |
 
 </details>
@@ -76,6 +77,7 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 ## Notable moments
 
 
+- **[15:27]** ([[episodes/2026-11-10-2925329547|2026-11-10]]): Jeff Ripple's full name is Jeff Ebenezer Ripple.
 - **[34:53]** ([[episodes/2026-09-01|2026-09-01]]): Celebrates the premiere of his first dedicated internal feature desk, "Weekend Odds and Ends."
 - **[32:52]** ([[episodes/2026-08-13|2026-08-13]]): Explains his unannounced Monday broadcast absence was caused by an emergency cat vet visit that ran until 5:30 PM.
 - **[44:26]** ([[episodes/2026-08-06|2026-08-06]]): Blackwell taunts Ripple by addressing him as "Ben Hooper" when calling on him for a viral human-interest report.

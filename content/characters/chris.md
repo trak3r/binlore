@@ -33,6 +33,7 @@ Chris is on-set because Trent's community-service broadcast requires adult super
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-10-2925329547|2026-11-10]] | probation officer. |
 | [[episodes/2026-10-29|2026-10-29]] | probation officer. |
 | [[episodes/2026-10-19|2026-10-19]] | probation officer. |
 | [[episodes/2026-09-25|2026-09-25]] | guest correspondent. |

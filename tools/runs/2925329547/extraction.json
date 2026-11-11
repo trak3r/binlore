@@ -1,0 +1,223 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "08:45",
+      "canonical_segment": "News",
+      "title": "Cold Open: Pepito's Sign-On",
+      "notes": "Executive Producer Pepito delivered the top-of-hour sign-on and countdown from the control room, with an extended false start before Blackwell re-entered the news studio."
+    },
+    {
+      "start": "08:45",
+      "end": "09:57",
+      "canonical_segment": "Banter",
+      "title": "One-Hour Tuesday: No Breaks November Housekeeping",
+      "notes": "Blackwell flagged a hard one-hour cap on the telecast ahead of an afternoon producer meeting about the Kickstarter feature, ruled the shortened edition still counts toward No Breaks November, and rolled straight into headlines."
+    },
+    {
+      "start": "09:57",
+      "end": "20:24",
+      "canonical_segment": "News",
+      "title": "Hegseth Impeachment Referred to Committee",
+      "notes": "Jeff Ripple returned to the desk through a pitched-up doppelganger bit, lost his glasses, and handed off to Senator Clive Clifton; the desk read Thomas Massie's articles of impeachment against Defense Secretary Pete Hegseth and the 211-210 vote to refer the resolution to committee, effectively killing the effort for the session, then drifted into a Daily Wire casting tangent."
+    },
+    {
+      "start": "20:24",
+      "end": "35:24",
+      "canonical_segment": "News",
+      "title": "The Megaspeed File: Jensen Huang and Alice Huang",
+      "notes": "Coverage of the NVIDIA CEO's reported relationship with Singaporean Megaspeed executive Alice Huang (Huang Le), whom US officials believe was gathering intelligence on American AI chips, plus Blackwell's argument that the cheating scandal is a lesser charge than Huang's open circular financing; closed on AI-generated advertising fonts."
+    },
+    {
+      "start": "35:24",
+      "end": "55:37",
+      "canonical_segment": "News",
+      "title": "Chat News: UK Camming Ban and the Crime of E-Pimping",
+      "notes": "The all-party parliamentary group report 'Only Exploitation' and its call to criminalize online camming and 'e-pimping' as human trafficking, with chat testimony on camming safety; the block was overtaken by an extended studio interview with JD Vance on e-pimping, step coaches, and the slogan 'It's family time America,' and closed on the Kickstarter follower count."
+    },
+    {
+      "start": "55:37",
+      "end": "01:10:02",
+      "canonical_segment": "At the Movies",
+      "title": "Trailer Desk: Long Haired Businessmen and The Boy Who Stole Billions",
+      "notes": "Trent raced through trailers under a no-slowdown order from the control room with Parole Officer Chris supervising and cousin Ten rating films; Ten broke both feet kicking a tree between trailers and the desk never reached a clean handoff."
+    },
+    {
+      "start": "01:10:02",
+      "end": "01:14:41",
+      "canonical_segment": "Banter",
+      "title": "Void Malfunction",
+      "notes": "A botched segment throw dropped the feed into the void; Skeleton Munch was pulled on camera to help, fell out of his chair, and briefly bent the studio before the desk recovered."
+    },
+    {
+      "start": "01:14:41",
+      "end": "01:18:56",
+      "canonical_segment": "Encircled",
+      "title": "Cybertruck: Reward or Punishment",
+      "notes": "Blackwell defended the position that a free Cybertruck is a reward with real resale value against Skeleton Munch's scarlet-letter framing; Munch claimed the point after Blackwell took a business call mid-argument."
+    },
+    {
+      "start": "01:18:56",
+      "end": "01:22:20",
+      "canonical_segment": "Banter",
+      "title": "Crum's Back-Points Suit",
+      "notes": "Crum demanded the return of every debate point he had transferred to call off the gorilla punch, then threatened to sue Munch and chat as a single entity; Munch used the closing minutes to declare his Rennerton mayoral re-election."
+    },
+    {
+      "start": "01:22:20",
+      "end": "01:37:30",
+      "canonical_segment": "The Jo Rogen Experience",
+      "title": "The Jo Rogen Experience: Broadcast From the Void",
+      "notes": "The requested podcast block finally aired with Jo Rogen taking chat questions on Jamie, T-Razor X ketamine swaps, and the octagon, and declining a Rennerton mayoral run on the grounds of his arrangement with the whispers."
+    },
+    {
+      "start": "01:37:30",
+      "end": "01:41:29",
+      "canonical_segment": "News",
+      "title": "Sign-Off and Raid",
+      "notes": "Blackwell closed the shortened No Breaks November edition, conceded he is currently the network's only promoter of the Kickstarter feature, and sent the audience out on a raid."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "role": "anchor",
+      "notes": "Anchored a compressed one-hour edition covering the Hegseth impeachment vote, the NVIDIA spy report, and the UK camming ban while losing control of the segment clock.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "role": "executive producer",
+      "notes": "executive producer. Opened the telecast with the sign-on and countdown and repeatedly failed to advance Blackwell's graphics on request.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "role": "human-interest reporter",
+      "notes": "human-interest reporter. Returned to the news desk insisting he was not a pitched-up doppelganger, searched the studio for his lost glasses, and revealed his middle name.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "role": "debate analyst",
+      "notes": "debate analyst. Argued that a free Cybertruck is a punitive scarlet letter, took the debate point, and used the close to declare his Rennerton mayoral re-election.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "role": "debate analyst",
+      "notes": "debate analyst. Claimed the Cybertruck point on a control-room misclick and opened legal proceedings against Munch and chat over withheld debate points.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "role": "movie correspondent",
+      "notes": "movie correspondent. Hosted a rushed trailer block under a no-slowdown order and lost the desk to his cousin's tree-kicking.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chris",
+      "role": "probation officer",
+      "notes": "probation officer. Supervised Trent's trailer segment and warned he would have to intervene if anything parole-violating was said on air.",
+      "canonical_name": "Chris",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Ten",
+      "role": "studio guest, Trent's cousin",
+      "notes": "studio guest, Trent's cousin. Rated every trailer a six, broke both feet kicking a tree, and left threatening to return with the wheelchair he tows behind his bike.",
+      "canonical_name": "Ten",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jo Rogen",
+      "role": "podcast host, The Jo Rogen Experience",
+      "notes": "podcast host, The Jo Rogen Experience. Answered chat questions from the void on Jamie's lethality, ketamine nasal swaps, and why he cannot run for office.",
+      "canonical_name": "Jo Rogen",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "No Breaks November",
+      "beat": "[08:45] The 2026-11-10 edition ran roughly one hour ahead of a Kickstarter producer meeting, with Blackwell ruling the shortened telecast still counts toward the streak.",
+      "timestamp": "08:45"
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[01:20:47] Munch demanded his debate points back on the grounds that Crum's points only bought the cancellation of one punch, not the follow-up; Crum responded by suing Munch and chat for back points.",
+      "timestamp": "01:20:47"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "11:20",
+      "entity": "",
+      "fact": "Senator Clive Clifton debuted at the news desk as a bespectacled counterpart to Jeff Ripple; Blackwell declared him a recurring figure who 'comes back.'",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "15:27",
+      "entity": "Jeff Ripple",
+      "fact": "Jeff Ripple's full name is Jeff Ebenezer Ripple.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "56:54",
+      "entity": "",
+      "fact": "Trent introduced his cousin Ten, whose real name is Six, as a new At the Movies desk presence; Ten is sixteen and rates films on a one-to-five scale with a standing six.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:09:16",
+      "entity": "",
+      "fact": "Ten broke his second foot kicking a tree and now hauls a wheelchair behind his electric bike, a rig he calls Ten's chariot.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:21:07",
+      "entity": "Crum",
+      "fact": "Crum filed suit against Munch and chat as a single entity, seeking the return of all debate points he transferred to call off the gorilla punch.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:35:19",
+      "entity": "",
+      "fact": "Jo Rogen stated that his arrangement with the whispers bars him from seeking office, including the Rennerton mayoralty.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News logged another unbroken day of No Breaks November on 2026-11-10 with a compressed one-hour edition anchored by Case Blackwell from the Los Angeles newsroom. The desk reported the House's 211-210 vote to refer Thomas Massie's impeachment resolution against Defense Secretary Pete Hegseth to committee, US officials' belief that Megaspeed executive Alice Huang was collecting intelligence on NVIDIA's AI chips, and a UK parliamentary report calling for the criminalization of online camming and 'e-pimping.' A mid-throw control-room malfunction dropped the broadcast into the void, and the hour closed with Skeleton Munch and Crum in dispute over the ownership of debate points.",
+  "_meta": {
+    "vod_id": "2925329547",
+    "model": "baidu/ernie-5.5-flash-preview:free",
+    "provider": "openrouter",
+    "prompt_chars": 94146,
+    "approx_prompt_tokens": 23536,
+    "transcript_lines": 239
+  }
+}

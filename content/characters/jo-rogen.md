@@ -2,15 +2,15 @@
 title: Jo Rogen
 type: character
 aliases:
-  - Joe Rogan
-  - Joe Rogan (AI)
-  - Joe Rogan (dual)
-  - Joe Rogan (parody)
+- Joe Rogan
+- Joe Rogan (AI)
+- Joe Rogan (dual)
+- Joe Rogan (parody)
 first_seen: 2024-05-02
-status: minor contributor
+status: recurring
 tags:
-  - character
-  - minor
+- character
+- minor
 ---
 
 # Jo Rogen
@@ -27,6 +27,7 @@ Nothing notable on file yet.
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-10-2925329547|2026-11-10]] | podcast host, The Jo Rogen Experience. |
 | [[episodes/2026-04-06|2026-04-06]] | call-in guest. |
 | [[episodes/2024-05-02|2024-05-02]] | Broadcast appearance. |
 

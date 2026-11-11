@@ -40,6 +40,7 @@ The commitment quickly became a running bit. Case slams a "No Breaks November" g
 | [[../episodes/2026-11-06|2026-11-06]] [1:30:57] | The broadcast ends with a "No Breaks November raid." |
 | [[../episodes/2026-11-07|2026-11-07]] [10:37] | "It is in fact No Breaks November." Case slams the graphic on every story and declares "No Breaks November means love" [30:28]. |
 | [[../episodes/2026-11-10|2026-11-10]] [2:44:48] | Wrapping a co-op gaming broadcast, Case notes tomorrow's show only exists because of No Breaks November and confirms daily ~4 PM broadcasts through the month. |
+| [[../episodes/2026-11-10-2925329547|2026-11-10]] [8:45] | [08:45] The 2026-11-10 edition ran roughly one hour ahead of a Kickstarter producer meeting, with Blackwell ruling the shortened telecast still counts toward the streak. |
 
 ## Related Pages
 
