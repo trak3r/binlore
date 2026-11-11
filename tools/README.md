@@ -215,6 +215,20 @@ binlore screencap 2863722826 --timestamp 01:14:00 --name crum
 binlore screencap --latest --upload
 ```
 
+### 5a. Audience chat (`binlore chat`)
+
+Twitch deletes a VOD's chat replay along with the VOD (roughly 60 days), and YouTube archives have no chat, so chat has to be archived while the Twitch VOD exists. The batch pipeline does this automatically after ingest; `chat fetch` backfills.
+
+```bash
+# Archive chat for every Twitch-backed episode still on Twitch (tools/runs/<run>/chat.json)
+binlore chat fetch
+
+# Write tools/runs/<run>/chat-report.md per episode plus the cross-episode tools/runs/chat-digest.md
+binlore chat report            # or: binlore chat report 2026-11-10
+```
+
+Each report lists wiki and lore talk (including `!lore` submissions and messages addressed to the wiki editor), audience questions, suggestions, command submissions (`!c` thoughts, `!h` therapy, `!pc` press conference, `!trip`, `!cc`), and which wiki pages chat referenced, each linked to its moment in the VOD.
+
 ### 6. Reclaim disk space (`binlore clean`)
 
 Audio files take ~150 MB per 2-hour stream. Once transcribed, you can delete the raw audio/media files while keeping all transcripts, metadata, and wiki entries:

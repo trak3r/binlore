@@ -389,6 +389,19 @@ def process_single_episode(
             except Exception:
                 pass
 
+    # Twitch drops a VOD's chat replay with the VOD (~60 days), so archive it while it exists.
+    if twitch_id:
+        from .chat import ChatUnavailable, archive_chat, chat_path
+
+        if not chat_path(run_dir.name).exists():
+            try:
+                archive_chat(twitch_id, run_dir.name)
+                logger.info(f"Archived Twitch chat to tools/runs/{run_dir.name}/chat.json")
+            except ChatUnavailable:
+                logger.info(f"Twitch VOD {twitch_id} has expired; no chat replay to archive")
+            except Exception as e:  # noqa: BLE001
+                logger.warning(f"Chat archive failed for {twitch_id}: {e}")
+
     # 3. Aggressively clean media files
     if clean_audio:
         freed = clean_run_dir(run_dir, force=True)

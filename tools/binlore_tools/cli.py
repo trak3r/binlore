@@ -292,6 +292,61 @@ def cmd_screencap(args: argparse.Namespace) -> int:
     return 0
 
 
+def _chat_targets(target: str | None):
+    from .chat import twitch_episodes
+
+    episodes = twitch_episodes()
+    if not target or target == "all":
+        return episodes
+    if target == "latest":
+        return episodes and [max(episodes, key=lambda e: e[0])]
+    vod_id = _resolve_target_vod_id(target)
+    picked = [e for e in episodes if target in (e[0], e[1], e[2]) or vod_id in (e[1], e[2])]
+    if not picked:
+        raise SystemExit(f"No Twitch-backed episode matches {target!r}")
+    return picked
+
+
+def cmd_chat_fetch(args: argparse.Namespace) -> int:
+    from .chat import ChatUnavailable, archive_chat, chat_path
+
+    failures = 0
+    archived: list[str] = []
+    expired: list[str] = []
+    for slug, vod_id, run_id in _chat_targets(args.target):
+        if chat_path(run_id).exists() and not args.force:
+            archived.append(slug)
+            continue
+        try:
+            path = archive_chat(vod_id, run_id, force=args.force, progress=True)
+        except ChatUnavailable:
+            expired.append(slug)
+            continue
+        except Exception as e:  # noqa: BLE001
+            failures += 1
+            print(f"  ! {slug}: {e}", file=sys.stderr)
+            continue
+        print(f"  ✓ {slug}: {path.relative_to(RUNS_DIR.parent.parent)}")
+    if archived:
+        print(f"  = {len(archived)} already archived")
+    if expired:
+        print(f"  - {len(expired)} expired on Twitch, chat gone ({expired[0]} … {expired[-1]})")
+    return 1 if failures else 0
+
+
+def cmd_chat_report(args: argparse.Namespace) -> int:
+    from .chat import write_chat_digest, write_chat_report
+
+    targets = _chat_targets(args.target)
+    for slug, vod_id, run_id in targets:
+        path = write_chat_report(slug, vod_id, run_id)
+        if path:
+            print(f"  ✓ {slug}: {path.relative_to(RUNS_DIR.parent.parent)}")
+    digest = write_chat_digest(_chat_targets("all"))
+    print(f"  ✓ digest: {digest.relative_to(RUNS_DIR.parent.parent)}")
+    return 0
+
+
 def cmd_clips_preview(args: argparse.Namespace) -> int:
     from .clips import preview
 
@@ -722,6 +777,22 @@ def build_parser() -> argparse.ArgumentParser:
     scap.add_argument("--upload", action="store_true", help="Upload captured screencaps to GitHub release")
     scap.add_argument("--release-tag", default="media-assets", help="GitHub release tag (default: media-assets)")
     scap.set_defaults(func=cmd_screencap)
+
+    chat = sub.add_parser("chat", help="Archive Twitch chat replays and triage audience references, questions, and suggestions")
+    chat_sub = chat.add_subparsers(dest="chat_command", required=True)
+    chat_target_help = "Episode slug (YYYY-MM-DD), Twitch VOD id/URL, 'latest', or 'all' (default)"
+
+    cfetch = chat_sub.add_parser("fetch", help="Download chat replays to tools/runs/<run>/chat.json before the VOD expires")
+    cfetch.add_argument("target", nargs="?", default="all", help=chat_target_help)
+    cfetch.add_argument("--force", action="store_true", help="Re-download chat that is already archived")
+    cfetch.set_defaults(func=cmd_chat_fetch)
+
+    creport = chat_sub.add_parser(
+        "report",
+        help="Write tools/runs/<run>/chat-report.md per episode and the cross-episode tools/runs/chat-digest.md",
+    )
+    creport.add_argument("target", nargs="?", default="all", help=chat_target_help)
+    creport.set_defaults(func=cmd_chat_report)
 
     clips = sub.add_parser("clips", help="Cut vertical highlight clips (TikTok / Reels / Shorts) from an episode")
     clips_sub = clips.add_subparsers(dest="clips_command", required=True)
