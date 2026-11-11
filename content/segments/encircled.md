@@ -58,7 +58,6 @@ tags:
 | [[../episodes/2026-08-08\|2026-08-08]] | 1:31:23 | Dr. Marcus Filman vs. 30 Babies | A pediatrician who thinks chocolate milk is bad for babies faces 30 babies who think it's fine. He objects that babies shouldn't make their own decisions. Challengers include a 17-baby father, a chocolate-bones advocate, and a baby raising 19 babies. |
 | [[../episodes/2026-10-26\|2026-10-26]] | 1:48:38 | [[../characters/tub\|Tub]] vs. 30 Dumbasses | *1 dumbass vs 30 dumbasses.* Tub's claim is literally "No Uh." Challengers include the Wicker Man "why not a wooden woman?" counter, a "DumBuhs" sneaker dispute, a tacorita denier, and "McAllister Irish." Tub survives to time and wins. |
 | [[episodes/2026-11-05|2026-11-05]] | 1:45:54 | Encircled: Injured Senator vs. 30 Coyotes: Clive Clifton (injured right-wing senator, pinky toe) defends 'America needs more injuries' against a rotating gallery of chat challengers; rambles through healthcare anecdotes, coyote/women equivalence, and anti-marriage platform before time expires. |
-| [[episodes/2026-11-10-2925329547|2026-11-10]] | 1:14:41 | Cybertruck: Reward or Punishment: Blackwell defended the position that a free Cybertruck is a reward with real resale value against Skeleton Munch's scarlet-letter framing; Munch claimed the point after Blackwell took a business call mid-argument. |
 
 ## Notable moments
 
