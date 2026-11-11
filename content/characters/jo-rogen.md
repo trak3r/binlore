@@ -1,7 +1,11 @@
 ---
-title: Joe Rogan
+title: Jo Rogen
 type: character
-aliases: []
+aliases:
+  - Joe Rogan
+  - Joe Rogan (AI)
+  - Joe Rogan (dual)
+  - Joe Rogan (parody)
 first_seen: 2024-05-02
 status: minor contributor
 tags:
@@ -9,11 +13,11 @@ tags:
   - minor
 ---
 
-# Joe Rogan
+# Jo Rogen
 
-![Joe Rogan on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/joe-rogan.jpg)
+![Jo Rogen on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/joe-rogan.jpg)
 
-**Joe Rogan** is a persona and contributor featured on *Barely Informed News*.
+**Jo Rogen** is the podcast-host persona at the center of [[segments/the-jo-rogen-experience|The Jo Rogen Experience]], usually appearing as a pair of identical hosts known as "the Joes."
 
 ## Overview
 
@@ -33,3 +37,5 @@ Nothing notable on file yet.
 ## Open questions
 
 - Full backstory and recurring lore
+
+See also: [[segments/the-jo-rogen-experience|The Jo Rogen Experience]] · [[characters/index|Characters]]
