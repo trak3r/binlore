@@ -16,7 +16,7 @@ tags:
 
 ![Jeff Ripple on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/jeff-ripple.jpg)
 
-**Jeff Ripple** is a studio newsreader, human-interest correspondent, and community liaison on *Barely Informed News*.
+**Jeff Ripple** (full name **Jeff Ebenezer Ripple**) is a studio newsreader, human-interest correspondent, and community liaison on *Barely Informed News*.
 
 Stationed alongside the primary newsroom desk, Ripple monitors incoming viewer dispatches, delivers offbeat news bulletins, and provides sharp on-air commentary alongside lead anchor [[case-blackwell|Case Blackwell]].
 
@@ -38,13 +38,14 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 
 - **The Catchphrase**: In [[episodes/2026-06-29|Episode 2026-06-29]], Ripple demanded Case acknowledge "I'm Jeff Ripple" as his official network catchphrase. (The "Jam EFE" era and *Steam Shirt No Pants* album from later in that broadcast belong to [[characters/jevrything|Jevrything]], whose name is routinely mistranscribed as "Jeff Everything.")
 - **The Monday Correspondent**: Positioned himself as the network's dedicated Monday desk anchor, occasionally missing shifts due to extended vet appointments for his cat.
+- **The Middle Name**: In [[episodes/2026-02-04|Episode 2026-02-04]], Ripple's middle name was given as "Retain" (supposedly anglicized at Ellis Island from "Return"). In [[episodes/2026-11-10-2925329547|Episode 2026-11-10]], while the desk enjoyed reading out Pete Hegseth's full name, Case asked for Ripple's and got "Jeff Ebenezer Ripple." When Case balked, Ripple shut the matter down: "It's too late, Case. That's my middle name now... It's too late because it's always been." Ebenezer is the current canon.
 - **Weekend Odds and Ends**: Anchors feature segments curating bizarre North American regional stories (e.g., British Columbia floating islands, Virginia bat encounters, and Tarzana wildlife brawls).
 
 ## Appearances
 
 | Episode | Notes |
 |---|---|
-| [[episodes/2026-11-10-2925329547|2026-11-10]] | human-interest reporter. |
+| [[episodes/2026-11-10-2925329547|2026-11-10]] | Returns to the desk via a pitched-up doppelganger bit, loses his glasses, hands off to Senator [[characters/clive-clifton|Clive]], and reveals his full name is Jeff Ebenezer Ripple during Hegseth impeachment coverage. |
 | [[episodes/2026-09-01|2026-09-01]] | Anchors the "Weekend Odds and Ends" feature bulletin, reporting on floating islands, Virginia bat incidents, and water-balloon records. |
 | [[episodes/2026-08-19|2026-08-19]] | Studio newsreader delivering offbeat headlines and human-interest stories with Blackwell. |
 | [[episodes/2026-08-13|2026-08-13]] | Reclaims his 'Monday correspondent' role; explains his prior absence was due to a cat vet appointment, then covers the reflecting pool scandal and Taiga AI album. |
@@ -77,7 +78,7 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 ## Notable moments
 
 
-- **[15:27]** ([[episodes/2026-11-10-2925329547|2026-11-10]]): Jeff Ripple's full name is Jeff Ebenezer Ripple.
+- **[15:30]** ([[episodes/2026-11-10-2925329547|2026-11-10]]): Reveals his full name is Jeff Ebenezer Ripple, overriding the earlier "Retain," and insists it's "too late because it's always been."
 - **[34:53]** ([[episodes/2026-09-01|2026-09-01]]): Celebrates the premiere of his first dedicated internal feature desk, "Weekend Odds and Ends."
 - **[32:52]** ([[episodes/2026-08-13|2026-08-13]]): Explains his unannounced Monday broadcast absence was caused by an emergency cat vet visit that ran until 5:30 PM.
 - **[44:26]** ([[episodes/2026-08-06|2026-08-06]]): Blackwell taunts Ripple by addressing him as "Ben Hooper" when calling on him for a viral human-interest report.

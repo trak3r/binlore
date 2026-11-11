@@ -3048,19 +3048,6 @@
         "Marfus Darfus"
       ]
     },
-    "rob-elvie": {
-      "name": "Rob Elvie",
-      "count": 4,
-      "episodes": [
-        "2023-12-02",
-        "2025-03-07",
-        "2025-06-13",
-        "2025-09-26"
-      ],
-      "display_names": [
-        "Rob Elvie"
-      ]
-    },
     "the-devil": {
       "name": "The Devil",
       "count": 4,
@@ -5089,6 +5076,19 @@
       ],
       "display_names": [
         "Zombie Dick Clark"
+      ]
+    },
+    "rob-alvey": {
+      "name": "Rob Elvie",
+      "count": 4,
+      "episodes": [
+        "2023-12-02",
+        "2025-03-07",
+        "2025-06-13",
+        "2025-09-26"
+      ],
+      "display_names": [
+        "Rob Elvie"
       ]
     }
   }

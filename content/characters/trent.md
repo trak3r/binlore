@@ -30,13 +30,13 @@ His probation officer [[chris|Chris]] is contractually required to supervise the
 - Host of [[../segments/at-the-movies|At the Movies]] / Trailer Thursday / Trent at the Movies
 - Parole / community-service framing with on-set [[chris|Chris]]
 - Theater set, fiery "TRENT AT THE MOVIES" lower-third, chat rating schemes
-- Family lore drops (mother drop-offs; Chris claims Trent's father owns a steak shop)
+- Family lore drops (mother drop-offs; Chris claims Trent's father owns a steak shop; lookalike cousin [[ten|Ten]], real name Six, joined the set in [[episodes/2026-11-10-2925329547|2026-11-10]])
 
 ## Appearances
 
 | Episode | Notes |
 |---|---|
-| [[episodes/2026-11-10-2925329547|2026-11-10]] | movie correspondent. |
+| [[episodes/2026-11-10-2925329547|2026-11-10]] | Brings his cousin [[ten|Ten]] to At the Movies to show him the job; Ten breaks both feet kicking a tree mid-segment. |
 | [[episodes/2026-10-29|2026-10-29]] | cultural correspondent. |
 | [[episodes/2026-10-26|2026-10-26]] | cultural correspondent. |
 | [[episodes/2026-10-19|2026-10-19]] | field correspondent. |
@@ -96,4 +96,4 @@ His probation officer [[chris|Chris]] is contractually required to supervise the
 - Exact offense / court order that landed him in community-service broadcasting
 - Whether "Young Blood," "Cousin Trent," and "Trend" are billing errors or alternate aliases
 
-See also: [[chris|Chris]], [[../segments/at-the-movies|At the Movies]], [[index|On-Air Talent]].
+See also: [[chris|Chris]], [[ten|Ten]], [[../segments/at-the-movies|At the Movies]], [[index|On-Air Talent]].

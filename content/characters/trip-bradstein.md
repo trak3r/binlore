@@ -126,5 +126,5 @@ Bradstein is fiercely protective of his outdoor beat, regularly proclaiming "I'l
 - **[2:09:35]** ([[episodes/2025-11-03|2025-11-03]]): Opinion submission sheet glitched, merging with town-hall question queue; Trip performs live list surgery to fix.
 - **[1:02:38]** ([[episodes/2025-01-06|2025-01-06]]): Encountered doppelganger Brad Trippstein claiming rivalry; interviewed pregnant time-traveling pizza delivery guy Rip Blazer giving birth to living pizza babies.
 - **[2:47:07]** ([[episodes/2024-10-03|2024-10-03]]): Offered $3M contract by Tony Khan to join AEW, then fired minutes later for 'aggressive energy' from a bystander.
-- **[2:31:21]** ([[episodes/2024-06-26|2024-06-26]]): Missed son Chase's outdoor wedding because Rob Elvie stole the mailed invite and blocked the number; microphone-punched Rob in retaliation.
+- **[2:31:21]** ([[episodes/2024-06-26|2024-06-26]]): Missed son Chase's outdoor wedding because Rob Alvey stole the mailed invite and blocked the number; microphone-punched Rob in retaliation.
 - **[1:44:31]** ([[episodes/2024-02-29|2024-02-29]]): Confirms permanent park residence: 'I'll be lapping pond water and scraping food out of the trash.'

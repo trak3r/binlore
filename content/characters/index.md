@@ -38,6 +38,7 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/brandons-mother|Brandon's Mother]] | Unseen Family Voice | Brandon's loud-mouthed mother who screams through his bedroom door during gaming broadcasts |
 | [[characters/chris|Chris]] | Probation Officer (*At the Movies*) | Trent's required on-set probation / parole officer and trailer-block co-host |
 | [[characters/clementine-verne|Clementine Verne]] | Conspiracy Correspondent (prior) | Original Conspiracy Time / Unvernished Truth host before Guy Redacted; curly-wigged man often billed as Clementine |
+| [[characters/clive-clifton|Senator Clive Clifton]] | Political Guest | Injured (pinky toe) former senator running on a new single-issue promise every visit; "women are coyotes"; always missing his glasses |
 | [[characters/coach-mcgurk|Coach McGurk]] | Minor Character Witness | Character witness for Crum from the Bart Simpson voice / zombie-head era |
 | [[characters/crag|Crag]] | Studio Security Officer | Ineffectual newsroom guard (ASR often "Craig"); never keeps Peter out; Pepito won't fire him |
 | [[characters/cremus-tremando|Cremus Tremando]] | Occult & Mystical Consultant | Freelance mystic sorcerer retained for supernatural broadcast emergencies |
@@ -64,13 +65,14 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 | [[characters/liliana|Liliana Breathinschmit]] | News Desk Co-Anchor | "World Affairs & Kinks." Irreverent desk partner returning from a year-long sabbatical with vacation photos and PTO demands |
 | [[characters/mancini-smooth|Mancini Smooth]] | minor contributor | No summary on file yet |
 | [[characters/marfus-darfus|Marfus Darfus]] | Guest Host (*Amongst the Web*) | Asexual viral media critic introduced as "Marfis Darfus" who hands down decimal ratings (e.g. `6.44`) |
-| [[characters/rob-elvie|Rob Elvie]] | minor contributor | No summary on file yet |
+| [[characters/rob-alvey|Rob Alvey]] | Recurring Guest / Park Menace | Ban-happy roller-coaster obsessive who "cancels" everyone, especially Trip on the Street; founding citizen of Alvalstonia |
 | [[characters/robbie-love|Robbie Love]] | minor contributor | No summary on file yet |
 | [[characters/salazar|Salazar]] | minor contributor | No summary on file yet |
 | [[characters/sammy-seven-elbows|Sammy Seven Elbows]] | recurring correspondent | Debut Night Man guest; elbow-count correspondent also billed as Sammy; Hate Sock's claimed flesh-world identity |
 | [[characters/scrum|Scrum]] | Debate / News Alter (Crum) | Crum's temp-hire alter ego — mononym "Scrum, period"; fills debate and news desks |
 | [[characters/slightly-thick-waluigi|Slightly Thick Waluigi]] | Call-In Guest | Brooklyn-accented telephone interviewee claiming involvement in historical assassinations |
 | [[characters/steak|Steak]] | Guest Artist | Collaborator on the Thump Steaks theme song with DJ C4 |
+| [[characters/ten|Ten]] | Guest (*At the Movies*) | Trent's sixteen-year-old lookalike cousin (real name Six) who rates everything a six and kicks trees until something breaks |
 | [[characters/the-devil|The Devil]] | minor contributor | No summary on file yet |
 | [[characters/tommy-biglaw|Tommy Biglaw]] | Legal Counsel | High-priced infant attorney (also Little Tommy Big Law) with a baby-talk lisp; also serves as "Big Tommy Prosecutor" |
 | [[characters/trent|Trent]] | Movie Correspondent (*At the Movies*) | Truant teen of ambiguous age hosting trailer reviews under probation supervision |

@@ -39,7 +39,7 @@ Typical seating pairs a straight guest with a chaotic one (intern + alter ego, c
 | [[episodes/2025-10-16\|2025-10-16]] | 1:32:12 | Town Hall with John Cena impressionist and Jake. |
 | [[episodes/2025-10-09\|2025-10-09]] | 55:00 | Town Hall with Pepito & sentient cheese block. |
 | [[episodes/2025-10-06\|2025-10-06]] | 1:38:26 | Town Hall with Chat & Trent. |
-| [[episodes/2025-09-26\|2025-09-26]] | 1:07:03 | Town Hall with Mancini Smooth & Rob Elvie. |
+| [[episodes/2025-09-26\|2025-09-26]] | 1:07:03 | Town Hall with Mancini Smooth & Rob Alvey. |
 | [[episodes/2025-09-25\|2025-09-25]] | 1:42:23 | BIN Town Hall with Marfus Darfus & Chet. |
 | [[episodes/2025-06-11\|2025-06-11]] | 1:52:11 | Hate Sock Town Hall on protests. |
 | [[episodes/2024-10-10\|2024-10-10]] | 2:39:09 | Rennerton mayoral Town Hall. |
