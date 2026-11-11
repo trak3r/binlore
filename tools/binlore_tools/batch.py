@@ -7,6 +7,7 @@ import shutil
 import signal
 import subprocess
 import sys
+import tempfile
 import time
 import traceback
 from datetime import datetime, timezone
@@ -442,13 +443,16 @@ def process_single_episode(
             else ["npx", "quartz", "build"]
         )
         try:
-            subprocess.run(
-                build_cmd,
-                cwd=REPO_ROOT,
-                check=True,
-                capture_output=True,
-                text=True,
-            )
+            # Build into a scratch dir: a running `quartz build --serve` owns public/,
+            # and two builds clearing it at once fail with ENOTEMPTY.
+            with tempfile.TemporaryDirectory(prefix="binlore-quartz-") as out_dir:
+                subprocess.run(
+                    [*build_cmd, "--output", out_dir],
+                    cwd=REPO_ROOT,
+                    check=True,
+                    capture_output=True,
+                    text=True,
+                )
             logger.info("✓ Quartz wiki compiled and validated successfully.")
         except FileNotFoundError:
             logger.warning("node/npx not found in PATH; skipping Quartz compilation.")
