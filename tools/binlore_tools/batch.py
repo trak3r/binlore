@@ -506,6 +506,18 @@ def process_single_episode(
                 add_paths: list[str] = []
                 if not skip_extract:
                     add_paths.append("content/")
+                if (run_dir / "chat.json").exists():
+                    from .chat import twitch_episodes, write_chat_digest, write_chat_report
+
+                    try:
+                        episodes = twitch_episodes()
+                        for slug, vod_id, run_id in episodes:
+                            if run_id == run_dir.name:
+                                write_chat_report(slug, vod_id, run_id)
+                        write_chat_digest(episodes)
+                        add_paths.append("tools/runs/chat-digest.md")
+                    except Exception as e:  # noqa: BLE001
+                        logger.warning(f"Chat report failed for {run_dir.name}: {e}")
                 run_rel = str(run_dir.relative_to(REPO_ROOT))
                 if (REPO_ROOT / run_rel).exists():
                     add_paths.append(run_rel)
