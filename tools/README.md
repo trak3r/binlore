@@ -227,7 +227,7 @@ binlore chat fetch
 binlore chat report            # or: binlore chat report 2026-11-10
 ```
 
-Each report lists wiki and lore talk (including `!lore` submissions and messages addressed to the wiki editor), audience questions, suggestions, command submissions (`!c` thoughts, `!h` therapy, `!pc` press conference, `!trip`, `!cc`), and which wiki pages chat referenced, each linked to its moment in the VOD.
+Each episode report lists every moment chat or the broadcast mentioned the wiki or lore (including `!lore` submissions, "BIN Lore bot" requests, and messages addressed to the wiki editor), tagged request / question / mention. Each entry shows the matching messages in bold among the surrounding chat, what was being said on air at the time, and a link to that moment in the VOD. The digest collects the requests and questions from every episode, newest first.
 
 ### 6. Reclaim disk space (`binlore clean`)
 

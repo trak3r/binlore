@@ -25,16 +25,11 @@ def chat_path(run_id: str) -> Path:
     return RUNS_DIR / run_id / CHAT_FILENAME
 
 
-def _comments_page(vod_id: str, *, cursor: str | None = None, offset: int = 0) -> dict:
-    variables: dict = {"videoID": vod_id}
-    if cursor:
-        variables["cursor"] = cursor
-    else:
-        variables["contentOffsetSeconds"] = offset
+def _comments_page(vod_id: str, *, offset: int = 0) -> dict:
     body = [
         {
             "operationName": "VideoCommentsByOffsetOrCursor",
-            "variables": variables,
+            "variables": {"videoID": vod_id, "contentOffsetSeconds": offset},
             "extensions": {"persistedQuery": {"version": 1, "sha256Hash": COMMENTS_QUERY_HASH}},
         }
     ]
@@ -130,193 +125,167 @@ def load_chat(run_id: str) -> list[dict]:
 
 
 REPORT_FILENAME = "chat-report.md"
+DIGEST_PATH = RUNS_DIR / "chat-digest.md"
 
 # Accounts whose messages are bot replies, not audience chat.
 BOT_USERS = {"caseblackwell", "nightbot", "streamelements", "streamlabs", "moobot", "fossabot", "sery_bot"}
 WIKI_EDITOR_USERS = {"teflonted"}
 
-# Chat commands that route a viewer's message somewhere on the show.
-COMMANDS = {
-    "!lore": "lore submission",
-    "!c": "thought queue",
-    "!tts": "thought queue",
-    "!mc": "thought queue (poll)",
-    "!ct": "community thought",
-    "!th": "thought",
-    "!h": "therapy question",
-    "!pc": "press conference question",
-    "!trip": "Trip on the Street opinion",
-    "!cc": "Encircled counter claim",
-}
-
-WIKI_RE = re.compile(
-    r"\bwiki\b|\blore\b|binlore|\bbin ?lore\b|lore ?bot|\b(?:a|new|own|wiki) page\b|\bpage for\b|\bcanon(?:ical)?\b|\bbio\b",
+CHAT_WIKI_RE = re.compile(
+    r"\bwiki|binlore|\bbin ?lore\b|lore ?bot|\b(?:a|new|own|dedicated|wiki|bio) page\b|\bpage (?:for|about)\b|"
+    r"\bbio\b|\blore\b|^!lore\b",
     re.I,
 )
-QUESTION_CUE_RE = re.compile(
-    r"^(?:who|what|why|when|where|how|is|are|was|were|did|does|do|can|could|will|would|has|have|should)\b"
-    r"|\b(?:who is|who's|what is|what's|what happened|whatever happened|is that|was that|remember when|does anyone know)\b",
+# Whisper renders "BIN Lore bot" as "Ben Lorbott" and similar.
+ON_AIR_WIKI_RE = re.compile(r"\bwiki|binlore|\bbin ?lore\b|\bben ?lor(?:e|bot)|lore ?bot", re.I)
+REQUEST_RE = re.compile(
+    r"\b(?:make|create|add|update|write|start|need|needs|deserve|deserves|give|gets?|getting)\b.{0,50}"
+    r"\b(?:page|wiki|bio|lore)\b|\b(?:add|put) (?:this|that|it|him|her|them)\b|^!lore\b",
     re.I,
 )
-SUGGESTION_RE = re.compile(
-    r"\b(?:you should|we should|case should|should (?:do|have|get|bring|make)|can we (?:get|have|do|see)|"
-    r"could we|we need|need(?:s)? (?:a|an|more|to)|bring back|how about|what if|next time|"
-    r"suggest(?:ion)?|idea:|segment idea|please (?:do|make|bring|add)|make (?:a|an) (?:segment|song|page|character)|"
-    r"i (?:want|wanna) (?:a|an|to see|more)|do a\b)",
-    re.I,
-)
-# Generic page names that would match ordinary chatter.
-GENERIC_ENTITY_NAMES = {"news", "banter", "gaming", "intern", "the news", "music", "chat"}
+
+CHAT_BEFORE_SECONDS = 60
+CHAT_BEFORE_MAX = 6
+CHAT_AFTER_SECONDS = 30
+CHAT_AFTER_MAX = 4
+ON_AIR_BEFORE_SECONDS = 30
+ON_AIR_AFTER_SECONDS = 8
+THREAD_GAP_SECONDS = 90
 
 
-def _fmt_ts(seconds: int) -> str:
+def _fmt_ts(seconds: float) -> str:
+    seconds = int(seconds)
     return f"{seconds // 3600}:{seconds % 3600 // 60:02d}:{seconds % 60:02d}"
 
 
-def _wiki_entities() -> list[tuple[str, str, re.Pattern]]:
-    """(wiki link target, display name, matcher) for every character, segment, and storyline page."""
-    import yaml
-
-    from .paths import CONTENT_CHARACTERS, CONTENT_SEGMENTS, CONTENT_STORYLINES
-
-    entities = []
-    for folder in (CONTENT_CHARACTERS, CONTENT_SEGMENTS, CONTENT_STORYLINES):
-        for page in sorted(folder.glob("*.md")):
-            if page.stem == "index":
-                continue
-            m = re.match(r"^---\n(.*?)\n---", page.read_text(encoding="utf-8"), re.DOTALL)
-            fm = (yaml.safe_load(m.group(1)) or {}) if m else {}
-            title = str(fm.get("title") or page.stem)
-            display = str(fm.get("common_name") or re.sub(r"\s*\(.*?\)\s*", " ", title).strip())
-            names = {title, display, re.sub(r"\s*\(.*?\)\s*", " ", title).strip(), *map(str, fm.get("aliases") or [])}
-            alternatives = []
-            for name in names:
-                name = name.strip()
-                if len(name) < 3 or name.lower() in GENERIC_ENTITY_NAMES:
-                    continue
-                escaped = re.escape(name)
-                # Short names ("Ten", "Tub", "Jan") only count when capitalised.
-                alternatives.append(escaped if len(name) <= 4 else f"(?i:{escaped})")
-            if not alternatives:
-                continue
-            pattern = re.compile(r"(?<![\w@])(?:" + "|".join(sorted(alternatives, key=len, reverse=True)) + r")(?!\w)")
-            entities.append((f"{folder.name}/{page.stem}", display, pattern))
-    return entities
+def _vod_link(vod_id: str, seconds: float) -> str:
+    s = max(0, int(seconds))
+    return f"https://www.twitch.tv/videos/{vod_id}?t={s // 3600}h{s % 3600 // 60}m{s % 60}s"
 
 
-def classify_chat(messages: list[dict], entities: list[tuple[str, str, re.Pattern]] | None = None) -> dict:
-    """Sort audience chat into wiki/lore talk, questions, suggestions, routed commands, and page references."""
-    entities = entities if entities is not None else _wiki_entities()
-    out: dict = {"wiki": [], "editor": [], "questions": [], "suggestions": [], "commands": {}, "references": {}}
-    for msg in messages:
-        login = (msg.get("login") or msg.get("user") or "").lower()
-        text = msg.get("text") or ""
-        if not text or login in BOT_USERS:
-            continue
-        first = text.split()[0].lower()
-        command = first if first in COMMANDS else None
-        body = text[len(first):].strip() if command else text
-        if login in WIKI_EDITOR_USERS:
-            if WIKI_RE.search(text):
-                out["editor"].append(msg)
-        elif command == "!lore" or WIKI_RE.search(text) or any(f"@{u}" in text.lower() for u in WIKI_EDITOR_USERS):
-            out["wiki"].append(msg)
-        if command and command != "!lore" and body:
-            out["commands"].setdefault(command, []).append(msg)
-        elif not command and not text.startswith("!") and login not in WIKI_EDITOR_USERS:
-            words = len(body.split())
-            if "?" in body and words >= 3 and QUESTION_CUE_RE.search(body):
-                out["questions"].append(msg)
-            elif words >= 4 and SUGGESTION_RE.search(body):
-                out["suggestions"].append(msg)
-        for target, display, pattern in entities:
-            if pattern.search(body):
-                out["references"].setdefault(target, {"display": display, "messages": []})["messages"].append(msg)
-    return out
+def _load_transcript(run_id: str) -> list[dict]:
+    path = RUNS_DIR / run_id / "transcript.json"
+    if not path.exists():
+        return []
+    data = json.loads(path.read_text())
+    return data.get("segments", []) if isinstance(data, dict) else data
 
 
-def write_chat_report(slug: str, vod_id: str, run_id: str, *, max_refs: int = 4) -> Path | None:
-    """Render tools/runs/<run_id>/chat-report.md from the archived chat; None when no chat is archived."""
+def _kind(text: str) -> str:
+    if REQUEST_RE.search(text):
+        return "request"
+    if "?" in text:
+        return "question"
+    return "mention"
+
+
+def wiki_threads(messages: list[dict], transcript: list[dict]) -> list[dict]:
+    """Group wiki mentions (chat and on-air) into threads with the surrounding chat and on-air context."""
+    chat = [m for m in messages if (m.get("login") or "").lower() not in BOT_USERS and m.get("text")]
+    hits: list[dict] = []
+    for i, msg in enumerate(chat):
+        text = msg["text"]
+        to_editor = any(f"@{u}" in text.lower() for u in WIKI_EDITOR_USERS) and len(text.split()) >= 5
+        if CHAT_WIKI_RE.search(text) or to_editor:
+            hits.append({"t": msg["t"], "source": "chat", "index": i, "kind": _kind(text)})
+    for seg in transcript:
+        if ON_AIR_WIKI_RE.search(seg.get("text") or ""):
+            hits.append({"t": seg["start"], "source": "on air", "kind": _kind(seg["text"])})
+    hits.sort(key=lambda h: h["t"])
+
+    threads: list[dict] = []
+    for hit in hits:
+        if threads and hit["t"] - threads[-1]["end"] <= THREAD_GAP_SECONDS:
+            threads[-1]["hits"].append(hit)
+            threads[-1]["end"] = hit["t"]
+        else:
+            threads.append({"start": hit["t"], "end": hit["t"], "hits": [hit]})
+
+    for thread in threads:
+        start, end = thread["start"], thread["end"]
+        before = [m for m in chat if start - CHAT_BEFORE_SECONDS <= m["t"] < start][-CHAT_BEFORE_MAX:]
+        during = [m for m in chat if start <= m["t"] <= end]
+        after = [m for m in chat if end < m["t"] <= end + CHAT_AFTER_SECONDS][:CHAT_AFTER_MAX]
+        hit_ids = {id(chat[h["index"]]) for h in thread["hits"] if h["source"] == "chat"}
+        thread["chat"] = [{**m, "hit": id(m) in hit_ids} for m in before + during + after]
+        thread["on_air"] = [
+            s for s in transcript if start - ON_AIR_BEFORE_SECONDS <= s["start"] <= end + ON_AIR_AFTER_SECONDS
+        ]
+        kinds = {h["kind"] for h in thread["hits"]}
+        thread["kind"] = next(k for k in ("request", "question", "mention") if k in kinds)
+        thread["on_air_hit"] = any(h["source"] == "on air" for h in thread["hits"])
+    return threads
+
+
+def _render_threads(threads: list[dict], vod_id: str, heading: str = "##") -> list[str]:
+    parts: list[str] = []
+    for thread in threads:
+        first = next((m for m in thread["chat"] if m["hit"]), None)
+        if first:
+            headline = f"{first['user']}: {first['text']}"
+        else:
+            seg = next(s for s in thread["on_air"] if ON_AIR_WIKI_RE.search(s.get("text") or ""))
+            headline = f"on air: {seg['text'].strip()}"
+        headline = headline.replace("\n", " ")
+        if len(headline) > 110:
+            headline = headline[:107] + "…"
+        source = " · on air" if thread["on_air_hit"] else ""
+        parts += [
+            f"{heading} [{_fmt_ts(thread['start'])}]({_vod_link(vod_id, thread['start'] - 20)}) · {thread['kind']}{source} · {headline}",
+            "",
+        ]
+        if thread["on_air"]:
+            said = " ".join((s.get("text") or "").strip() for s in thread["on_air"])
+            parts += [f"> **On air ({_fmt_ts(thread['on_air'][0]['start'])}):** {said}", ""]
+        for msg in thread["chat"]:
+            text = msg["text"].replace("\n", " ")
+            line = f"`{_fmt_ts(msg['t'])}` {msg['user']}: {text}"
+            parts.append(f"- **{line}**" if msg["hit"] else f"- {line}")
+        parts.append("")
+    return parts
+
+
+def write_chat_report(slug: str, vod_id: str, run_id: str) -> Path | None:
+    """Render tools/runs/<run_id>/chat-report.md: wiki mentions with context; None when no chat is archived."""
     messages = load_chat(run_id)
     if not messages:
         return None
-    result = classify_chat(messages)
-    vod_url = f"https://www.twitch.tv/videos/{vod_id}"
-
-    def line(msg: dict) -> str:
-        text = (msg.get("text") or "").replace("|", "\\|").replace("\n", " ")
-        return f"- [{_fmt_ts(msg['t'])}]({vod_url}?t={msg['t'] // 3600}h{msg['t'] % 3600 // 60}m{msg['t'] % 60}s) **{msg['user']}**: {text}"
-
-    audience = sum(1 for m in messages if (m.get("login") or "").lower() not in BOT_USERS)
+    threads = wiki_threads(messages, _load_transcript(run_id))
+    counts = {k: sum(1 for t in threads if t["kind"] == k) for k in ("request", "question", "mention")}
     parts = [
-        f"# Chat report: {slug}",
+        f"# Wiki mentions in chat: {slug}",
         "",
-        f"[Episode page](../../../content/episodes/{slug}.md) · [Twitch VOD]({vod_url}) · {audience} audience messages",
+        f"[Episode page](../../../content/episodes/{slug}.md) · [Twitch VOD](https://www.twitch.tv/videos/{vod_id}) · "
+        f"{counts['request']} requests, {counts['question']} questions, {counts['mention']} mentions",
+        "",
+        "Each entry is a moment where chat or the broadcast mentioned the wiki or lore. Matching messages are bold; "
+        "the surrounding chat and what was being said on air give the context.",
         "",
     ]
-    sections = [
-        ("Wiki & lore talk", result["wiki"], "Mentions of the wiki, lore, or pages, `!lore` submissions, and messages addressed to the wiki editor."),
-        ("Wiki editor notes", result["editor"], "Wiki-related notes from the wiki editor's own account."),
-        ("Questions", result["questions"], "Audience questions (plain chat, not command submissions)."),
-        ("Suggestions", result["suggestions"], "Ideas and requests for the show."),
-    ]
-    for title, msgs, blurb in sections:
-        parts += [f"## {title} ({len(msgs)})", "", blurb, ""]
-        parts += [line(m) for m in msgs] or ["_None._"]
-        parts.append("")
-
-    parts += ["## Command submissions", ""]
-    if result["commands"]:
-        for command, msgs in sorted(result["commands"].items(), key=lambda kv: -len(kv[1])):
-            parts += [f"### `{command}`: {COMMANDS[command]} ({len(msgs)})", ""]
-            parts += [line(m) for m in msgs]
-            parts.append("")
-    else:
-        parts += ["_None._", ""]
-
-    refs = sorted(result["references"].items(), key=lambda kv: -len(kv[1]["messages"]))
-    parts += [f"## Wiki page references ({len(refs)} pages)", ""]
-    for target, info in refs:
-        msgs = info["messages"]
-        parts += [f"### [{info['display']}](../../../content/{target}.md) ({len(msgs)})", ""]
-        parts += [line(m) for m in msgs[:max_refs]]
-        if len(msgs) > max_refs:
-            parts.append(f"- _…and {len(msgs) - max_refs} more_")
-        parts.append("")
-
+    parts += _render_threads(threads, vod_id) or ["_No wiki mentions._", ""]
     out = RUNS_DIR / run_id / REPORT_FILENAME
     out.write_text("\n".join(parts).rstrip() + "\n", encoding="utf-8")
     return out
 
 
-DIGEST_PATH = RUNS_DIR / "chat-digest.md"
-
-
 def write_chat_digest(episodes: list[tuple[str, str, str]]) -> Path:
-    """Cross-episode inbox of wiki & lore talk and editor notes, newest episode first."""
-    entities = _wiki_entities()
+    """Cross-episode inbox of wiki requests and questions with context, newest episode first."""
     parts = [
-        "# Chat digest: wiki & lore",
+        "# Chat digest: wiki requests & questions",
         "",
-        "Wiki and lore mentions, `!lore` submissions, and wiki editor notes from every archived Twitch chat, newest episode first. "
-        "Per-episode questions, suggestions, and page references live in each run's `chat-report.md`.",
+        "Wiki requests and questions from every archived Twitch chat (and the broadcast itself), newest episode first. "
+        "Plain mentions are in each episode's report.",
         "",
     ]
     for slug, vod_id, run_id in sorted(episodes, key=lambda e: e[0], reverse=True):
         messages = load_chat(run_id)
         if not messages:
             continue
-        result = classify_chat(messages, entities)
-        picked = sorted(result["wiki"] + result["editor"], key=lambda m: m["t"])
-        if not picked:
+        threads = [t for t in wiki_threads(messages, _load_transcript(run_id)) if t["kind"] != "mention"]
+        if not threads:
             continue
-        vod_url = f"https://www.twitch.tv/videos/{vod_id}"
-        parts += [f"## [{slug}](../../content/episodes/{slug}.md) ([report]({run_id}/{REPORT_FILENAME}))", ""]
-        for msg in picked:
-            t = msg["t"]
-            text = (msg.get("text") or "").replace("\n", " ")
-            parts.append(f"- [{_fmt_ts(t)}]({vod_url}?t={t // 3600}h{t % 3600 // 60}m{t % 60}s) **{msg['user']}**: {text}")
-        parts.append("")
+        parts += [f"## [{slug}](../../content/episodes/{slug}.md) ([full report]({run_id}/{REPORT_FILENAME}))", ""]
+        parts += _render_threads(threads, vod_id, heading="###")
     DIGEST_PATH.write_text("\n".join(parts).rstrip() + "\n", encoding="utf-8")
     return DIGEST_PATH
 
