@@ -1,0 +1,19 @@
+{
+  "vod_id": "2927191605",
+  "title": "ReBreakless November",
+  "url": "https://www.twitch.tv/videos/2927191605",
+  "duration_seconds": 1922,
+  "duration": "32:02",
+  "timestamp": 1794528000,
+  "aired_at": "2026-11-13T00:00:00+00:00",
+  "date": "2026-11-13",
+  "ingested_at": "2026-11-13T12:31:43.512919+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "",
+  "yt_url": "",
+  "twitch_id": "2927191605",
+  "twitch_url": "https://www.twitch.tv/videos/2927191605",
+  "catalog_date": "2026-11-13"
+}

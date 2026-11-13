@@ -1,0 +1,393 @@
+Oh snap, we're losing before Patreon.
+We're live in 10, 9, 6, 5, 4, 3, 2...
+Can you hear me now?
+Am I heard?
+Am I licensed to mine?
+I don't know, I haven't looked at my hair today though, it's definitely getting crazy.
+Alright, let's see what's going on with all this audio.
+Then I'll get to all the complaints about...
+breaks that may or may not have happened.
+System, okay, systems on now.
+Are you guys hearing anything now?
+Do you hear them shooting?
+Okay, that's a good sign if you're hearing them.
+Yeah, there wasn't any music playing before Stream, so I just...
+launched all the random wave files I have queued up.
+Okay, fix that.
+Fix the music one.
+Let's see if you guys can hear Biden.
+You don't hear them shooting.
+No!
+Let's see if Biden will talk to us.
+Case Blackwell said, check, check, I am wearing soundproof diapers.
+I heard that, but did you guys hear that?
+Although now why isn't his mouth moving?
+Now I gotta check that.
+For some reason, my Windows hadn't been updating...
+for over a year, which was a problem...
+So to make a long story long,
+yesterday I had to...
+the reason I didn't stream, I had to take a job...
+because the day rate was particularly high.
+To be honest, I just got it randomly.
+Someone needed something done quickly,
+and they were paying quite well, so I had to do it.
+However, also wait, can you guys hear this?
+I can't hear this.
+Son of a...
+beep...
+Why?
+Why?
+How did I even set this stream up?
+What is the way that I did it?
+We also have to go to the Patreon soon.
+None of it's working out for me.
+So Bricksy said, I'm learning ventriloquism,
+but you won't let me by the dummy saw I'm practicing with an imaginary one.
+You sound...
+great, Mr. President.
+Oh, you know what? I know what happened.
+With him at least, with Biden.
+There's no troubleshooting stream, it's all we have time for.
+Listen up, Jack.
+Giga trash just, Mama Jam 300, Shranny, Tasty Coins,
+and I've been dying to say this.
+Say what?
+You're doing your best, Jack.
+You're a paper special boy, let's go get a mayonnaise sandwich, bud.
+Thank you, thank you sir.
+You're saying that, I need that kind of encouragement right now.
+I suspect the issue is my whole stream runs off of sound monitoring
+and it's probably outputting the sound now to a different channel.
+Monitoring device.
+Um, okay, how about now?
+Nope.
+No it says.
+Oh, am I gonna have to redo a million things?
+That'll be such a bummer.
+There's too many things.
+It's all so baked in.
+Please, just work.
+Monitoring device, okay.
+Desktop audio, disabled.
+Maybe I want it not disabled.
+Maybe this does it.
+Nope.
+Um, Brandon's mom, if we can hear Biden we'll be able to hear Brandon's mom.
+Disabled system sample.
+Hmm, apply, do it.
+Do it, play songs and sounds.
+Play the sounds of songs.
+I, maybe it's Crumb's fault.
+Maybe what's happening right now, Crumb's fault.
+Eeeeeee.
+Did case break through the stream by taking a break?
+Uh, seemingly.
+Also there's Windows update.
+Seeps who have broken it.
+Crumb was mayor, that's true.
+Fuck Kade and broke my heart.
+Guys, look at Kendall, she looks cool.
+Kendall, come show them how cool you look.
+Yes, I don't even know what jacket you're turning on.
+Jaxiante, but maybe I could use it.
+Kendall, you wanna wear a huge jacket?
+Oh yeah, how do I show them my outfit?
+Yeah, there you go.
+So far back in the city.
+Whoa, whoa.
+Beautiful.
+Kendall has things to do tonight, she's gotta go to a premiere.
+In fact, Kendall's seeing a thing early I guess, right?
+Or is it already out?
+She's seeing the new Blade Runner series, but it's like a premiere for it.
+She got invited to it or something.
+Or something.
+Uh, she looks like Susan.
+Okay.
+Wicker is out and good.
+Well, last night, so another reason I couldn't stream last night,
+we had to go see,
+I actually didn't have to, but I had agreed to go see
+How to Rob a Bank,
+which is like out early if you have AMC something or other, which we do.
+Anyway, that definitely wasn't worth it, it would have been better to stream.
+All of that is to say, it's usually No Breaks November, right now it's Silent No Breaks November,
+I guess in honor of me fucking it up, but
+it's supposed to be No Breaks November except Sundays,
+except not that I took a break on Wednesdays,
+it's No Breaks November except Wednesdays this week, meaning I will be on on Sunday.
+So you can take that break and you can deal with it,
+because I'll stream even more to make up for it.
+Ugh.
+Ugh.
+Um, how do I fix this though? Why can't I hear?
+Half of the things that we usually hear on this stream,
+I would like to know that.
+I have seen God's Illumina Zero, thought it was good.
+Mostly, I thought it was good.
+Um, reset sound devices for all apps to the recommended defaults.
+Am I gonna have to ask fucking chat GPT or something how to fix this?
+What is the secret?
+The thing I'm trying to avoid is,
+I have like every single graphic on this stream set to,
+essentially you guys hear it at the same time I hear it.
+A lot of the audio on the stream works through just monitoring.
+Like you're hearing my monitor feed essentially.
+So I'm not using the monitoring function of OBS.
+Ugh.
+But I don't want to have to change that around,
+because I suspect if I take it off monitor only the monitor end output,
+do you guys hear it now?
+Or do you not?
+Like do you hear it? You hear it, yeah.
+So you're not hearing my monitor feed.
+I'm not hearing it.
+It's something to do with the freaking monitor feed.
+So if I don't fix that,
+I'll have to change every single individual graphic to have a different setting.
+And it's probably louder than usual.
+I set it up this way a long time ago, not really understanding how streaming works.
+So then I would just be like, well I'll just hear the same thing as chat.
+That seems easier than something else.
+Um, I'm gonna mute it again.
+But now I'm like, why can't I hear?
+Let me just look up.
+Uh, OBS. Can't hear sound monitor.
+Check the main OBS window. Look at the audio mixer panel at the bottom.
+Okay.
+Change it to monitoring off and monitor end output.
+No, I don't hear it.
+I don't hear it.
+There's no choice but to try to fix this, because I think
+there's too many sounds on this stream.
+Oh my god.
+I have so much shit on here.
+Why?
+Default?
+Apply? Just default do anything?
+Nope.
+Meter's fast.
+Meter sample peak.
+Output. Maybe it's an outputs.
+It's not.
+General. Maybe it's a general.
+I'm also chewing gum like a fucking heel.
+It's just one of those days when you don't want to wake up.
+Everything is fucked.
+Everybody?
+Sucks.
+This sucks.
+That won't work.
+Check the windows volume mixer.
+Make sure OBS is not muted.
+I love that.
+I love that that could even happen.
+I do feel like a chainsaw.
+What?
+Maybe I need to change the input?
+Would that do anything? Why would that do anything though?
+Maybe it needs to be...
+Mmmmm.
+Does this do anything?
+Nope.
+Absolutely not.
+You out of here?
+Yeah.
+Okay.
+Wow!
+You know what this is also going to be annoying for?
+I haven't heard from Kassim actually but...
+Okay Kassim is good for the pod.
+I also had run that through my system audio and that's going to also be all fucked up.
+So anyway the problem I ran into is...
+I uh...
+I had an updated windows in like a year and a half.
+And I needed to update my Premiere.
+And it wouldn't let me update it because my windows was so out of date.
+In order to do this job...
+Which was...
+Slightly more lucrative than the average job I had to update my windows.
+And then that fucked with all my audio settings.
+Basically I thought this job wouldn't take me as long as it did.
+But it did. I was actually still planning to stream.
+But then my whole computer stopped working.
+In a conventional sense.
+And now I can't even hear anything and I don't know why.
+So I'm extra confused.
+Supposedly there's still music even playing right now.
+But I'm assuming you guys can't hear...
+Any of the music right?
+Like there's not like a the usual random no music though.
+Okay well hey that's good to know at least.
+At least we know that.
+Active audio sources only now that's okay.
+Advanced audio properties.
+That's the same thing.
+Check source, mutes and volume sliders.
+Why?
+Why is it like this?
+Why does it do this to me?
+Audio, mic audio, desktop audio too?
+What if I just put everything to the...
+System.
+Hit apply.
+No it doesn't do anything.
+Boo!
+You know what? Can you guys hear YouTube videos?
+That's a good question.
+Because that should be playing not through OBS.
+Can you hear...
+Saka Nation?
+Playing right?
+This?
+Okay I can hear that too.
+And also look at it.
+I mean this will get me copyright strike but it's probably worth it.
+I need to get this look done.
+Okay I gotta stop.
+Play El San Sanito... wait.
+El Sanadito.
+Okay.
+I'll play that while I still try to figure out what's wrong with this whole stream setup of mine.
+These guys?
+Look at these guys.
+Oh hell yeah.
+Turn it up!
+Guess at least we still live in a world of music and sounds.
+Whoa!
+Whoa!
+Oh my god.
+The audio is doubled?
+Stop.
+That means they are a boy band.
+Double the fun.
+We've been missing double audio.
+We've been missing it all.
+Why?
+Okay. Audio.
+Okay you know what? It's because I turned desktop audio back on.
+But now I'm turning it off again.
+Technically I shouldn't need desktop audio.
+But you could hear like...
+You can hear this Harry Hart song probably right?
+I gotta locate the source of the issue.
+No Harry didn't write it. We haven't earned that.
+I haven't earned that shit at all.
+I mean I guess we don't have to have sounds.
+I could just try to figure it out.
+Because we only have like an hour.
+Before the Patreon.
+Oh there's an audio...
+Well that I programmed as a failsafe.
+So that there'd always be some audio on the screen on the stream.
+So just in case it will repeat ad nauseam my social security number and credit card.
+As well as my bank pin numbers and my full net worth.
+The full net worth is to discourage you from stealing from me though.
+Disable Windows Audio Ducking.
+How could it be like this?
+Why is it like this?
+You don't like these?
+Maybe I gotta reset OBS?
+I do love to just turn my stream off and on again.
+Though I don't really want to.
+I guess let's just today not have any of our usual fun noises.
+Do what you gotta do.
+Well technically I don't have to do anything other than leave the stream on.
+It is pure mental vanity.
+That I can't handle my stream being broken.
+Given that you know it's all just sort of weird noises and stuff.
+But it does.
+It is gonna bother me the whole damn time.
+Metering type?
+Fast? Medium?
+It might not need to be fixed for the Patreon if you guys are hearing everything other than OBS.
+Cause I don't run the audio through OBS for the Patreon.
+I technically run it through Discord.
+So it probably doesn't need me fixed.
+I guess you're hearing by-
+It's an issue with OBS and it's monitoring.
+Um, and I don't know
+why that would be
+previews, multi-view projectors.
+It's gotta be an audio setting.
+What if I run audio through game? Does that do anything?
+Nope.
+No it doesn't.
+So strange.
+It's gotta be a Windows thing.
+Cause Windows is the only thing that changed here.
+It's fucking Windows. I know it.
+Input device, okay.
+I've changed everything to be bizarre.
+What if I just reset everything?
+Nope, that didn't do it.
+I mean, the fact my Windows wouldn't update
+was really killing my soul yesterday.
+Cause I downloaded like five different Windows update programs and I ended up just having to
+mount like a
+Windows update file like it was an old DVD or CD or something.
+And that did finally work, but then it broke everything.
+So that's not ideal.
+Oh, help from the web, thanks Windows.
+Oh, thanks for lying to me.
+Yeah, that's not doing anything. That's not doing anything.
+Was it from China?
+It's from this girl that Kendall and I just befriended who's like from China.
+She's really into IT stuff.
+She said that she knows all about the latest technologies and the people who run it.
+And she seemed trustworthy so I did whatever she said.
+And we had sex.
+Everybody. And Jensen Wong was there.
+So I don't know why it's broken to answer your question.
+Did you see a third affair? Is it the Jensen? I know.
+Well, okay, look, it's not gonna work.
+Um, today is what I'm picked.
+The thing I'm picking up on is that this is not gonna work today
+without resetting the computer and just and then I'll be breaking November again.
+I haven't tried turning it off and on again actually in the context of this stream
+which I will do after the stream I guess and after the after everything.
+Um, I guess for now, let's just let's just listen to the sweet sounds of silence.
+I'll just trigger Harry Hardy music for every transition that we would normally have.
+Let's just do the news.
+Where the fuck am I?
+What the shit?
+Case what has happened?
+I'm invisible!
+Oh my God!
+What has happened to me?
+I know I'm in the room but I can't be seen.
+Why did every part of your life break, Case?
+Why are you a brahokin man?
+Uh-oh.
+Well, that's not ideal.
+What the fuck?
+This is some absolute bullshit.
+Okay well that's also how it is then um...
+I wonder if other things are totally broken.
+Windows why did you do this to me?
+Can I see the...
+Can I see...
+Hmm...
+Is Clive Clifton in the building?
+Clive are you available?
+I'm fucking available.
+I'm here.
+What's everybody else's excuse?
+I don't even have my glasses I can't see shit.
+I'm chewing gum like a fucking heel.
+Protect Clive?
+Well Chet's somehow dead.
+I'm not dead I'm invisible.
+Literally okay let me show you guys what's up.
+Chet I have banished you to the green room.
+What the hell I'm in a tiny screen in the green room?
+This is absolute horseshit.
+Get me out of here.
+I'm in the negative zone like superman.
+Ah I'm flying away.
+Take me back to that woman's body.
+That's very bizarre because it's literally on and outputting a signal amp.
+As you can see okay I'm gonna reset the fucking stream and just see if that does anything.
+So we'll be gone for a moment and then hopefully back.
+Trip is fine.

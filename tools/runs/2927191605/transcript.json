@@ -1,0 +1,2371 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "model_requested": "small",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 1922.474667,
+  "chunk_seconds": null,
+  "segments": [
+    {
+      "id": 0,
+      "start": 88.43,
+      "end": 91.23,
+      "text": "Oh snap, we're losing before Patreon."
+    },
+    {
+      "id": 1,
+      "start": 91.23,
+      "end": 484.45,
+      "text": "We're live in 10, 9, 6, 5, 4, 3, 2..."
+    },
+    {
+      "id": 2,
+      "start": 484.45,
+      "end": 577.85,
+      "text": "Can you hear me now?"
+    },
+    {
+      "id": 3,
+      "start": 578.35,
+      "end": 579.45,
+      "text": "Am I heard?"
+    },
+    {
+      "id": 4,
+      "start": 582.96,
+      "end": 584.86,
+      "text": "Am I licensed to mine?"
+    },
+    {
+      "id": 5,
+      "start": 585.36,
+      "end": 588.06,
+      "text": "I don't know, I haven't looked at my hair today though, it's definitely getting crazy."
+    },
+    {
+      "id": 6,
+      "start": 588.66,
+      "end": 590.86,
+      "text": "Alright, let's see what's going on with all this audio."
+    },
+    {
+      "id": 7,
+      "start": 590.86,
+      "end": 593.26,
+      "text": "Then I'll get to all the complaints about..."
+    },
+    {
+      "id": 8,
+      "start": 593.66,
+      "end": 595.66,
+      "text": "breaks that may or may not have happened."
+    },
+    {
+      "id": 9,
+      "start": 596.66,
+      "end": 599.66,
+      "text": "System, okay, systems on now."
+    },
+    {
+      "id": 10,
+      "start": 599.66,
+      "end": 603.13,
+      "text": "Are you guys hearing anything now?"
+    },
+    {
+      "id": 11,
+      "start": 603.63,
+      "end": 606.13,
+      "text": "Do you hear them shooting?"
+    },
+    {
+      "id": 12,
+      "start": 606.63,
+      "end": 612.72,
+      "text": "Okay, that's a good sign if you're hearing them."
+    },
+    {
+      "id": 13,
+      "start": 613.22,
+      "end": 618.06,
+      "text": "Yeah, there wasn't any music playing before Stream, so I just..."
+    },
+    {
+      "id": 14,
+      "start": 618.56,
+      "end": 622.06,
+      "text": "launched all the random wave files I have queued up."
+    },
+    {
+      "id": 15,
+      "start": 623.06,
+      "end": 626.06,
+      "text": "Okay, fix that."
+    },
+    {
+      "id": 16,
+      "start": 626.56,
+      "end": 629.06,
+      "text": "Fix the music one."
+    },
+    {
+      "id": 17,
+      "start": 629.56,
+      "end": 631.06,
+      "text": "Let's see if you guys can hear Biden."
+    },
+    {
+      "id": 18,
+      "start": 632.06,
+      "end": 634.06,
+      "text": "You don't hear them shooting."
+    },
+    {
+      "id": 19,
+      "start": 634.56,
+      "end": 635.06,
+      "text": "No!"
+    },
+    {
+      "id": 20,
+      "start": 635.56,
+      "end": 645.51,
+      "text": "Let's see if Biden will talk to us."
+    },
+    {
+      "id": 21,
+      "start": 645.51,
+      "end": 648.51,
+      "text": "Case Blackwell said, check, check, I am wearing soundproof diapers."
+    },
+    {
+      "id": 22,
+      "start": 649.51,
+      "end": 652.51,
+      "text": "I heard that, but did you guys hear that?"
+    },
+    {
+      "id": 23,
+      "start": 653.51,
+      "end": 657.11,
+      "text": "Although now why isn't his mouth moving?"
+    },
+    {
+      "id": 24,
+      "start": 659.11,
+      "end": 661.11,
+      "text": "Now I gotta check that."
+    },
+    {
+      "id": 25,
+      "start": 662.11,
+      "end": 666.11,
+      "text": "For some reason, my Windows hadn't been updating..."
+    },
+    {
+      "id": 26,
+      "start": 666.61,
+      "end": 669.11,
+      "text": "for over a year, which was a problem..."
+    },
+    {
+      "id": 27,
+      "start": 669.11,
+      "end": 672.11,
+      "text": "So to make a long story long,"
+    },
+    {
+      "id": 28,
+      "start": 672.61,
+      "end": 675.11,
+      "text": "yesterday I had to..."
+    },
+    {
+      "id": 29,
+      "start": 675.61,
+      "end": 678.11,
+      "text": "the reason I didn't stream, I had to take a job..."
+    },
+    {
+      "id": 30,
+      "start": 678.61,
+      "end": 681.11,
+      "text": "because the day rate was particularly high."
+    },
+    {
+      "id": 31,
+      "start": 681.61,
+      "end": 684.11,
+      "text": "To be honest, I just got it randomly."
+    },
+    {
+      "id": 32,
+      "start": 684.61,
+      "end": 687.11,
+      "text": "Someone needed something done quickly,"
+    },
+    {
+      "id": 33,
+      "start": 687.61,
+      "end": 690.11,
+      "text": "and they were paying quite well, so I had to do it."
+    },
+    {
+      "id": 34,
+      "start": 690.61,
+      "end": 693.61,
+      "text": "However, also wait, can you guys hear this?"
+    },
+    {
+      "id": 35,
+      "start": 695.42,
+      "end": 696.42,
+      "text": "I can't hear this."
+    },
+    {
+      "id": 36,
+      "start": 696.92,
+      "end": 698.42,
+      "text": "Son of a..."
+    },
+    {
+      "id": 37,
+      "start": 698.92,
+      "end": 699.92,
+      "text": "beep..."
+    },
+    {
+      "id": 38,
+      "start": 702.92,
+      "end": 703.92,
+      "text": "Why?"
+    },
+    {
+      "id": 39,
+      "start": 705.42,
+      "end": 706.42,
+      "text": "Why?"
+    },
+    {
+      "id": 40,
+      "start": 710.18,
+      "end": 712.18,
+      "text": "How did I even set this stream up?"
+    },
+    {
+      "id": 41,
+      "start": 712.68,
+      "end": 714.18,
+      "text": "What is the way that I did it?"
+    },
+    {
+      "id": 42,
+      "start": 714.68,
+      "end": 717.18,
+      "text": "We also have to go to the Patreon soon."
+    },
+    {
+      "id": 43,
+      "start": 718.18,
+      "end": 720.18,
+      "text": "None of it's working out for me."
+    },
+    {
+      "id": 44,
+      "start": 721.68,
+      "end": 724.18,
+      "text": "So Bricksy said, I'm learning ventriloquism,"
+    },
+    {
+      "id": 45,
+      "start": 724.68,
+      "end": 728.18,
+      "text": "but you won't let me by the dummy saw I'm practicing with an imaginary one."
+    },
+    {
+      "id": 46,
+      "start": 729.18,
+      "end": 730.18,
+      "text": "You sound..."
+    },
+    {
+      "id": 47,
+      "start": 730.68,
+      "end": 731.68,
+      "text": "great, Mr. President."
+    },
+    {
+      "id": 48,
+      "start": 732.18,
+      "end": 733.68,
+      "text": "Oh, you know what? I know what happened."
+    },
+    {
+      "id": 49,
+      "start": 734.18,
+      "end": 735.68,
+      "text": "With him at least, with Biden."
+    },
+    {
+      "id": 50,
+      "start": 736.18,
+      "end": 738.18,
+      "text": "There's no troubleshooting stream, it's all we have time for."
+    },
+    {
+      "id": 51,
+      "start": 738.68,
+      "end": 739.68,
+      "text": "Listen up, Jack."
+    },
+    {
+      "id": 52,
+      "start": 740.18,
+      "end": 742.68,
+      "text": "Giga trash just, Mama Jam 300, Shranny, Tasty Coins,"
+    },
+    {
+      "id": 53,
+      "start": 743.18,
+      "end": 744.68,
+      "text": "and I've been dying to say this."
+    },
+    {
+      "id": 54,
+      "start": 745.18,
+      "end": 746.18,
+      "text": "Say what?"
+    },
+    {
+      "id": 55,
+      "start": 746.68,
+      "end": 747.68,
+      "text": "You're doing your best, Jack."
+    },
+    {
+      "id": 56,
+      "start": 748.18,
+      "end": 750.68,
+      "text": "You're a paper special boy, let's go get a mayonnaise sandwich, bud."
+    },
+    {
+      "id": 57,
+      "start": 755.18,
+      "end": 756.68,
+      "text": "Thank you, thank you sir."
+    },
+    {
+      "id": 58,
+      "start": 756.68,
+      "end": 759.18,
+      "text": "You're saying that, I need that kind of encouragement right now."
+    },
+    {
+      "id": 59,
+      "start": 761.18,
+      "end": 766.18,
+      "text": "I suspect the issue is my whole stream runs off of sound monitoring"
+    },
+    {
+      "id": 60,
+      "start": 766.68,
+      "end": 771.18,
+      "text": "and it's probably outputting the sound now to a different channel."
+    },
+    {
+      "id": 61,
+      "start": 772.18,
+      "end": 773.18,
+      "text": "Monitoring device."
+    },
+    {
+      "id": 62,
+      "start": 774.18,
+      "end": 779.8,
+      "text": "Um, okay, how about now?"
+    },
+    {
+      "id": 63,
+      "start": 781.3,
+      "end": 782.3,
+      "text": "Nope."
+    },
+    {
+      "id": 64,
+      "start": 783.3,
+      "end": 784.8,
+      "text": "No it says."
+    },
+    {
+      "id": 65,
+      "start": 786.3,
+      "end": 788.8,
+      "text": "Oh, am I gonna have to redo a million things?"
+    },
+    {
+      "id": 66,
+      "start": 790.3,
+      "end": 791.8,
+      "text": "That'll be such a bummer."
+    },
+    {
+      "id": 67,
+      "start": 792.3,
+      "end": 793.8,
+      "text": "There's too many things."
+    },
+    {
+      "id": 68,
+      "start": 794.3,
+      "end": 795.8,
+      "text": "It's all so baked in."
+    },
+    {
+      "id": 69,
+      "start": 796.3,
+      "end": 797.8,
+      "text": "Please, just work."
+    },
+    {
+      "id": 70,
+      "start": 798.3,
+      "end": 802.59,
+      "text": "Monitoring device, okay."
+    },
+    {
+      "id": 71,
+      "start": 803.09,
+      "end": 805.59,
+      "text": "Desktop audio, disabled."
+    },
+    {
+      "id": 72,
+      "start": 807.09,
+      "end": 809.09,
+      "text": "Maybe I want it not disabled."
+    },
+    {
+      "id": 73,
+      "start": 810.59,
+      "end": 811.59,
+      "text": "Maybe this does it."
+    },
+    {
+      "id": 74,
+      "start": 813.59,
+      "end": 814.59,
+      "text": "Nope."
+    },
+    {
+      "id": 75,
+      "start": 817.68,
+      "end": 820.68,
+      "text": "Um, Brandon's mom, if we can hear Biden we'll be able to hear Brandon's mom."
+    },
+    {
+      "id": 76,
+      "start": 820.68,
+      "end": 829.41,
+      "text": "Disabled system sample."
+    },
+    {
+      "id": 77,
+      "start": 831.41,
+      "end": 837.01,
+      "text": "Hmm, apply, do it."
+    },
+    {
+      "id": 78,
+      "start": 838.01,
+      "end": 841.01,
+      "text": "Do it, play songs and sounds."
+    },
+    {
+      "id": 79,
+      "start": 842.01,
+      "end": 843.51,
+      "text": "Play the sounds of songs."
+    },
+    {
+      "id": 80,
+      "start": 844.01,
+      "end": 847.37,
+      "text": "I, maybe it's Crumb's fault."
+    },
+    {
+      "id": 81,
+      "start": 848.87,
+      "end": 850.87,
+      "text": "Maybe what's happening right now, Crumb's fault."
+    },
+    {
+      "id": 82,
+      "start": 853.15,
+      "end": 854.15,
+      "text": "Eeeeeee."
+    },
+    {
+      "id": 83,
+      "start": 857.34,
+      "end": 859.84,
+      "text": "Did case break through the stream by taking a break?"
+    },
+    {
+      "id": 84,
+      "start": 860.34,
+      "end": 861.34,
+      "text": "Uh, seemingly."
+    },
+    {
+      "id": 85,
+      "start": 861.84,
+      "end": 862.84,
+      "text": "Also there's Windows update."
+    },
+    {
+      "id": 86,
+      "start": 862.84,
+      "end": 864.84,
+      "text": "Seeps who have broken it."
+    },
+    {
+      "id": 87,
+      "start": 865.84,
+      "end": 867.84,
+      "text": "Crumb was mayor, that's true."
+    },
+    {
+      "id": 88,
+      "start": 868.34,
+      "end": 871.34,
+      "text": "Fuck Kade and broke my heart."
+    },
+    {
+      "id": 89,
+      "start": 872.84,
+      "end": 874.84,
+      "text": "Guys, look at Kendall, she looks cool."
+    },
+    {
+      "id": 90,
+      "start": 875.34,
+      "end": 877.34,
+      "text": "Kendall, come show them how cool you look."
+    },
+    {
+      "id": 91,
+      "start": 877.84,
+      "end": 882.27,
+      "text": "Yes, I don't even know what jacket you're turning on."
+    },
+    {
+      "id": 92,
+      "start": 882.77,
+      "end": 884.27,
+      "text": "Jaxiante, but maybe I could use it."
+    },
+    {
+      "id": 93,
+      "start": 884.77,
+      "end": 886.27,
+      "text": "Kendall, you wanna wear a huge jacket?"
+    },
+    {
+      "id": 94,
+      "start": 886.77,
+      "end": 888.77,
+      "text": "Oh yeah, how do I show them my outfit?"
+    },
+    {
+      "id": 95,
+      "start": 890.77,
+      "end": 894.28,
+      "text": "Yeah, there you go."
+    },
+    {
+      "id": 96,
+      "start": 898.78,
+      "end": 900.28,
+      "text": "So far back in the city."
+    },
+    {
+      "id": 97,
+      "start": 901.78,
+      "end": 903.78,
+      "text": "Whoa, whoa."
+    },
+    {
+      "id": 98,
+      "start": 904.28,
+      "end": 908.71,
+      "text": "Beautiful."
+    },
+    {
+      "id": 99,
+      "start": 909.21,
+      "end": 911.71,
+      "text": "Kendall has things to do tonight, she's gotta go to a premiere."
+    },
+    {
+      "id": 100,
+      "start": 912.21,
+      "end": 915.71,
+      "text": "In fact, Kendall's seeing a thing early I guess, right?"
+    },
+    {
+      "id": 101,
+      "start": 916.21,
+      "end": 919.29,
+      "text": "Or is it already out?"
+    },
+    {
+      "id": 102,
+      "start": 919.79,
+      "end": 922.29,
+      "text": "She's seeing the new Blade Runner series, but it's like a premiere for it."
+    },
+    {
+      "id": 103,
+      "start": 922.79,
+      "end": 924.29,
+      "text": "She got invited to it or something."
+    },
+    {
+      "id": 104,
+      "start": 925.29,
+      "end": 926.29,
+      "text": "Or something."
+    },
+    {
+      "id": 105,
+      "start": 926.79,
+      "end": 930.23,
+      "text": "Uh, she looks like Susan."
+    },
+    {
+      "id": 106,
+      "start": 930.73,
+      "end": 931.73,
+      "text": "Okay."
+    },
+    {
+      "id": 107,
+      "start": 932.73,
+      "end": 934.73,
+      "text": "Wicker is out and good."
+    },
+    {
+      "id": 108,
+      "start": 935.23,
+      "end": 937.73,
+      "text": "Well, last night, so another reason I couldn't stream last night,"
+    },
+    {
+      "id": 109,
+      "start": 938.23,
+      "end": 939.73,
+      "text": "we had to go see,"
+    },
+    {
+      "id": 110,
+      "start": 940.73,
+      "end": 943.23,
+      "text": "I actually didn't have to, but I had agreed to go see"
+    },
+    {
+      "id": 111,
+      "start": 943.73,
+      "end": 944.73,
+      "text": "How to Rob a Bank,"
+    },
+    {
+      "id": 112,
+      "start": 945.73,
+      "end": 950.23,
+      "text": "which is like out early if you have AMC something or other, which we do."
+    },
+    {
+      "id": 113,
+      "start": 950.73,
+      "end": 953.23,
+      "text": "Anyway, that definitely wasn't worth it, it would have been better to stream."
+    },
+    {
+      "id": 114,
+      "start": 953.73,
+      "end": 957.73,
+      "text": "All of that is to say, it's usually No Breaks November, right now it's Silent No Breaks November,"
+    },
+    {
+      "id": 115,
+      "start": 958.23,
+      "end": 960.73,
+      "text": "I guess in honor of me fucking it up, but"
+    },
+    {
+      "id": 116,
+      "start": 961.73,
+      "end": 963.73,
+      "text": "it's supposed to be No Breaks November except Sundays,"
+    },
+    {
+      "id": 117,
+      "start": 964.23,
+      "end": 965.73,
+      "text": "except not that I took a break on Wednesdays,"
+    },
+    {
+      "id": 118,
+      "start": 965.73,
+      "end": 969.73,
+      "text": "it's No Breaks November except Wednesdays this week, meaning I will be on on Sunday."
+    },
+    {
+      "id": 119,
+      "start": 970.23,
+      "end": 973.23,
+      "text": "So you can take that break and you can deal with it,"
+    },
+    {
+      "id": 120,
+      "start": 973.73,
+      "end": 975.73,
+      "text": "because I'll stream even more to make up for it."
+    },
+    {
+      "id": 121,
+      "start": 976.23,
+      "end": 977.23,
+      "text": "Ugh."
+    },
+    {
+      "id": 122,
+      "start": 978.23,
+      "end": 979.73,
+      "text": "Ugh."
+    },
+    {
+      "id": 123,
+      "start": 980.73,
+      "end": 983.73,
+      "text": "Um, how do I fix this though? Why can't I hear?"
+    },
+    {
+      "id": 124,
+      "start": 985.23,
+      "end": 988.23,
+      "text": "Half of the things that we usually hear on this stream,"
+    },
+    {
+      "id": 125,
+      "start": 988.73,
+      "end": 990.73,
+      "text": "I would like to know that."
+    },
+    {
+      "id": 126,
+      "start": 992.23,
+      "end": 994.73,
+      "text": "I have seen God's Illumina Zero, thought it was good."
+    },
+    {
+      "id": 127,
+      "start": 996.23,
+      "end": 998.23,
+      "text": "Mostly, I thought it was good."
+    },
+    {
+      "id": 128,
+      "start": 998.73,
+      "end": 1006.02,
+      "text": "Um, reset sound devices for all apps to the recommended defaults."
+    },
+    {
+      "id": 129,
+      "start": 1008.88,
+      "end": 1012.38,
+      "text": "Am I gonna have to ask fucking chat GPT or something how to fix this?"
+    },
+    {
+      "id": 130,
+      "start": 1012.88,
+      "end": 1016.23,
+      "text": "What is the secret?"
+    },
+    {
+      "id": 131,
+      "start": 1017.23,
+      "end": 1018.73,
+      "text": "The thing I'm trying to avoid is,"
+    },
+    {
+      "id": 132,
+      "start": 1019.23,
+      "end": 1022.73,
+      "text": "I have like every single graphic on this stream set to,"
+    },
+    {
+      "id": 133,
+      "start": 1023.23,
+      "end": 1026.23,
+      "text": "essentially you guys hear it at the same time I hear it."
+    },
+    {
+      "id": 134,
+      "start": 1026.73,
+      "end": 1029.73,
+      "text": "A lot of the audio on the stream works through just monitoring."
+    },
+    {
+      "id": 135,
+      "start": 1030.23,
+      "end": 1032.23,
+      "text": "Like you're hearing my monitor feed essentially."
+    },
+    {
+      "id": 136,
+      "start": 1032.73,
+      "end": 1034.73,
+      "text": "So I'm not using the monitoring function of OBS."
+    },
+    {
+      "id": 137,
+      "start": 1037.17,
+      "end": 1038.17,
+      "text": "Ugh."
+    },
+    {
+      "id": 138,
+      "start": 1038.67,
+      "end": 1040.67,
+      "text": "But I don't want to have to change that around,"
+    },
+    {
+      "id": 139,
+      "start": 1041.17,
+      "end": 1044.67,
+      "text": "because I suspect if I take it off monitor only the monitor end output,"
+    },
+    {
+      "id": 140,
+      "start": 1045.17,
+      "end": 1046.17,
+      "text": "do you guys hear it now?"
+    },
+    {
+      "id": 141,
+      "start": 1046.67,
+      "end": 1047.67,
+      "text": "Or do you not?"
+    },
+    {
+      "id": 142,
+      "start": 1048.17,
+      "end": 1052.97,
+      "text": "Like do you hear it? You hear it, yeah."
+    },
+    {
+      "id": 143,
+      "start": 1053.47,
+      "end": 1054.97,
+      "text": "So you're not hearing my monitor feed."
+    },
+    {
+      "id": 144,
+      "start": 1055.47,
+      "end": 1056.97,
+      "text": "I'm not hearing it."
+    },
+    {
+      "id": 145,
+      "start": 1057.97,
+      "end": 1060.47,
+      "text": "It's something to do with the freaking monitor feed."
+    },
+    {
+      "id": 146,
+      "start": 1060.97,
+      "end": 1063.47,
+      "text": "So if I don't fix that,"
+    },
+    {
+      "id": 147,
+      "start": 1063.97,
+      "end": 1068.47,
+      "text": "I'll have to change every single individual graphic to have a different setting."
+    },
+    {
+      "id": 148,
+      "start": 1069.47,
+      "end": 1071.47,
+      "text": "And it's probably louder than usual."
+    },
+    {
+      "id": 149,
+      "start": 1072.47,
+      "end": 1076.47,
+      "text": "I set it up this way a long time ago, not really understanding how streaming works."
+    },
+    {
+      "id": 150,
+      "start": 1076.97,
+      "end": 1079.47,
+      "text": "So then I would just be like, well I'll just hear the same thing as chat."
+    },
+    {
+      "id": 151,
+      "start": 1079.97,
+      "end": 1082.47,
+      "text": "That seems easier than something else."
+    },
+    {
+      "id": 152,
+      "start": 1082.97,
+      "end": 1084.47,
+      "text": "Um, I'm gonna mute it again."
+    },
+    {
+      "id": 153,
+      "start": 1084.97,
+      "end": 1086.97,
+      "text": "But now I'm like, why can't I hear?"
+    },
+    {
+      "id": 154,
+      "start": 1087.47,
+      "end": 1088.47,
+      "text": "Let me just look up."
+    },
+    {
+      "id": 155,
+      "start": 1088.97,
+      "end": 1091.97,
+      "text": "Uh, OBS. Can't hear sound monitor."
+    },
+    {
+      "id": 156,
+      "start": 1094.82,
+      "end": 1098.82,
+      "text": "Check the main OBS window. Look at the audio mixer panel at the bottom."
+    },
+    {
+      "id": 157,
+      "start": 1099.82,
+      "end": 1100.82,
+      "text": "Okay."
+    },
+    {
+      "id": 158,
+      "start": 1103.47,
+      "end": 1105.97,
+      "text": "Change it to monitoring off and monitor end output."
+    },
+    {
+      "id": 159,
+      "start": 1106.47,
+      "end": 1106.97,
+      "text": "No, I don't hear it."
+    },
+    {
+      "id": 160,
+      "start": 1111.6,
+      "end": 1112.6,
+      "text": "I don't hear it."
+    },
+    {
+      "id": 161,
+      "start": 1116.36,
+      "end": 1118.86,
+      "text": "There's no choice but to try to fix this, because I think"
+    },
+    {
+      "id": 162,
+      "start": 1119.36,
+      "end": 1121.36,
+      "text": "there's too many sounds on this stream."
+    },
+    {
+      "id": 163,
+      "start": 1124.02,
+      "end": 1125.02,
+      "text": "Oh my god."
+    },
+    {
+      "id": 164,
+      "start": 1127.02,
+      "end": 1128.52,
+      "text": "I have so much shit on here."
+    },
+    {
+      "id": 165,
+      "start": 1129.02,
+      "end": 1129.52,
+      "text": "Why?"
+    },
+    {
+      "id": 166,
+      "start": 1130.02,
+      "end": 1133.49,
+      "text": "Default?"
+    },
+    {
+      "id": 167,
+      "start": 1134.49,
+      "end": 1136.99,
+      "text": "Apply? Just default do anything?"
+    },
+    {
+      "id": 168,
+      "start": 1137.49,
+      "end": 1137.99,
+      "text": "Nope."
+    },
+    {
+      "id": 169,
+      "start": 1140.7,
+      "end": 1141.7,
+      "text": "Meter's fast."
+    },
+    {
+      "id": 170,
+      "start": 1141.7,
+      "end": 1143.2,
+      "text": "Meter sample peak."
+    },
+    {
+      "id": 171,
+      "start": 1144.7,
+      "end": 1146.2,
+      "text": "Output. Maybe it's an outputs."
+    },
+    {
+      "id": 172,
+      "start": 1147.2,
+      "end": 1147.7,
+      "text": "It's not."
+    },
+    {
+      "id": 173,
+      "start": 1148.2,
+      "end": 1149.7,
+      "text": "General. Maybe it's a general."
+    },
+    {
+      "id": 174,
+      "start": 1151.7,
+      "end": 1154.2,
+      "text": "I'm also chewing gum like a fucking heel."
+    },
+    {
+      "id": 175,
+      "start": 1156.97,
+      "end": 1159.47,
+      "text": "It's just one of those days when you don't want to wake up."
+    },
+    {
+      "id": 176,
+      "start": 1159.97,
+      "end": 1160.97,
+      "text": "Everything is fucked."
+    },
+    {
+      "id": 177,
+      "start": 1161.47,
+      "end": 1161.97,
+      "text": "Everybody?"
+    },
+    {
+      "id": 178,
+      "start": 1162.47,
+      "end": 1163.47,
+      "text": "Sucks."
+    },
+    {
+      "id": 179,
+      "start": 1163.97,
+      "end": 1167.69,
+      "text": "This sucks."
+    },
+    {
+      "id": 180,
+      "start": 1168.19,
+      "end": 1169.69,
+      "text": "That won't work."
+    },
+    {
+      "id": 181,
+      "start": 1170.19,
+      "end": 1172.19,
+      "text": "Check the windows volume mixer."
+    },
+    {
+      "id": 182,
+      "start": 1174.19,
+      "end": 1176.19,
+      "text": "Make sure OBS is not muted."
+    },
+    {
+      "id": 183,
+      "start": 1178.16,
+      "end": 1179.16,
+      "text": "I love that."
+    },
+    {
+      "id": 184,
+      "start": 1180.16,
+      "end": 1181.66,
+      "text": "I love that that could even happen."
+    },
+    {
+      "id": 185,
+      "start": 1183.76,
+      "end": 1185.26,
+      "text": "I do feel like a chainsaw."
+    },
+    {
+      "id": 186,
+      "start": 1185.76,
+      "end": 1186.26,
+      "text": "What?"
+    },
+    {
+      "id": 187,
+      "start": 1188.64,
+      "end": 1190.14,
+      "text": "Maybe I need to change the input?"
+    },
+    {
+      "id": 188,
+      "start": 1190.64,
+      "end": 1194.8,
+      "text": "Would that do anything? Why would that do anything though?"
+    },
+    {
+      "id": 189,
+      "start": 1195.3,
+      "end": 1199.02,
+      "text": "Maybe it needs to be..."
+    },
+    {
+      "id": 190,
+      "start": 1200.52,
+      "end": 1201.52,
+      "text": "Mmmmm."
+    },
+    {
+      "id": 191,
+      "start": 1205.0,
+      "end": 1206.0,
+      "text": "Does this do anything?"
+    },
+    {
+      "id": 192,
+      "start": 1206.5,
+      "end": 1207.0,
+      "text": "Nope."
+    },
+    {
+      "id": 193,
+      "start": 1208.5,
+      "end": 1210.0,
+      "text": "Absolutely not."
+    },
+    {
+      "id": 194,
+      "start": 1210.0,
+      "end": 1213.58,
+      "text": "You out of here?"
+    },
+    {
+      "id": 195,
+      "start": 1213.58,
+      "end": 1214.08,
+      "text": "Yeah."
+    },
+    {
+      "id": 196,
+      "start": 1214.08,
+      "end": 1214.58,
+      "text": "Okay."
+    },
+    {
+      "id": 197,
+      "start": 1215.58,
+      "end": 1216.58,
+      "text": "Wow!"
+    },
+    {
+      "id": 198,
+      "start": 1217.08,
+      "end": 1219.08,
+      "text": "You know what this is also going to be annoying for?"
+    },
+    {
+      "id": 199,
+      "start": 1219.58,
+      "end": 1221.58,
+      "text": "I haven't heard from Kassim actually but..."
+    },
+    {
+      "id": 200,
+      "start": 1222.58,
+      "end": 1224.58,
+      "text": "Okay Kassim is good for the pod."
+    },
+    {
+      "id": 201,
+      "start": 1226.08,
+      "end": 1230.08,
+      "text": "I also had run that through my system audio and that's going to also be all fucked up."
+    },
+    {
+      "id": 202,
+      "start": 1230.58,
+      "end": 1233.08,
+      "text": "So anyway the problem I ran into is..."
+    },
+    {
+      "id": 203,
+      "start": 1234.08,
+      "end": 1235.08,
+      "text": "I uh..."
+    },
+    {
+      "id": 204,
+      "start": 1236.58,
+      "end": 1239.08,
+      "text": "I had an updated windows in like a year and a half."
+    },
+    {
+      "id": 205,
+      "start": 1239.58,
+      "end": 1241.08,
+      "text": "And I needed to update my Premiere."
+    },
+    {
+      "id": 206,
+      "start": 1242.08,
+      "end": 1245.08,
+      "text": "And it wouldn't let me update it because my windows was so out of date."
+    },
+    {
+      "id": 207,
+      "start": 1245.58,
+      "end": 1247.08,
+      "text": "In order to do this job..."
+    },
+    {
+      "id": 208,
+      "start": 1247.08,
+      "end": 1248.08,
+      "text": "Which was..."
+    },
+    {
+      "id": 209,
+      "start": 1248.08,
+      "end": 1252.08,
+      "text": "Slightly more lucrative than the average job I had to update my windows."
+    },
+    {
+      "id": 210,
+      "start": 1252.08,
+      "end": 1255.08,
+      "text": "And then that fucked with all my audio settings."
+    },
+    {
+      "id": 211,
+      "start": 1255.58,
+      "end": 1258.58,
+      "text": "Basically I thought this job wouldn't take me as long as it did."
+    },
+    {
+      "id": 212,
+      "start": 1258.58,
+      "end": 1261.08,
+      "text": "But it did. I was actually still planning to stream."
+    },
+    {
+      "id": 213,
+      "start": 1261.08,
+      "end": 1263.08,
+      "text": "But then my whole computer stopped working."
+    },
+    {
+      "id": 214,
+      "start": 1263.08,
+      "end": 1265.08,
+      "text": "In a conventional sense."
+    },
+    {
+      "id": 215,
+      "start": 1265.58,
+      "end": 1268.08,
+      "text": "And now I can't even hear anything and I don't know why."
+    },
+    {
+      "id": 216,
+      "start": 1269.08,
+      "end": 1271.08,
+      "text": "So I'm extra confused."
+    },
+    {
+      "id": 217,
+      "start": 1272.58,
+      "end": 1275.08,
+      "text": "Supposedly there's still music even playing right now."
+    },
+    {
+      "id": 218,
+      "start": 1275.08,
+      "end": 1277.08,
+      "text": "But I'm assuming you guys can't hear..."
+    },
+    {
+      "id": 219,
+      "start": 1278.08,
+      "end": 1279.08,
+      "text": "Any of the music right?"
+    },
+    {
+      "id": 220,
+      "start": 1281.71,
+      "end": 1284.21,
+      "text": "Like there's not like a the usual random no music though."
+    },
+    {
+      "id": 221,
+      "start": 1284.21,
+      "end": 1286.21,
+      "text": "Okay well hey that's good to know at least."
+    },
+    {
+      "id": 222,
+      "start": 1287.71,
+      "end": 1288.71,
+      "text": "At least we know that."
+    },
+    {
+      "id": 223,
+      "start": 1291.21,
+      "end": 1293.71,
+      "text": "Active audio sources only now that's okay."
+    },
+    {
+      "id": 224,
+      "start": 1297.56,
+      "end": 1299.06,
+      "text": "Advanced audio properties."
+    },
+    {
+      "id": 225,
+      "start": 1299.56,
+      "end": 1300.56,
+      "text": "That's the same thing."
+    },
+    {
+      "id": 226,
+      "start": 1304.24,
+      "end": 1307.24,
+      "text": "Check source, mutes and volume sliders."
+    },
+    {
+      "id": 227,
+      "start": 1310.85,
+      "end": 1311.85,
+      "text": "Why?"
+    },
+    {
+      "id": 228,
+      "start": 1312.35,
+      "end": 1313.85,
+      "text": "Why is it like this?"
+    },
+    {
+      "id": 229,
+      "start": 1314.85,
+      "end": 1316.35,
+      "text": "Why does it do this to me?"
+    },
+    {
+      "id": 230,
+      "start": 1318.35,
+      "end": 1321.35,
+      "text": "Audio, mic audio, desktop audio too?"
+    },
+    {
+      "id": 231,
+      "start": 1321.85,
+      "end": 1323.35,
+      "text": "What if I just put everything to the..."
+    },
+    {
+      "id": 232,
+      "start": 1324.85,
+      "end": 1325.85,
+      "text": "System."
+    },
+    {
+      "id": 233,
+      "start": 1327.35,
+      "end": 1328.35,
+      "text": "Hit apply."
+    },
+    {
+      "id": 234,
+      "start": 1328.85,
+      "end": 1330.35,
+      "text": "No it doesn't do anything."
+    },
+    {
+      "id": 235,
+      "start": 1331.35,
+      "end": 1333.35,
+      "text": "Boo!"
+    },
+    {
+      "id": 236,
+      "start": 1333.85,
+      "end": 1335.85,
+      "text": "You know what? Can you guys hear YouTube videos?"
+    },
+    {
+      "id": 237,
+      "start": 1336.35,
+      "end": 1337.85,
+      "text": "That's a good question."
+    },
+    {
+      "id": 238,
+      "start": 1339.72,
+      "end": 1341.72,
+      "text": "Because that should be playing not through OBS."
+    },
+    {
+      "id": 239,
+      "start": 1341.72,
+      "end": 1343.72,
+      "text": "Can you hear..."
+    },
+    {
+      "id": 240,
+      "start": 1344.72,
+      "end": 1345.72,
+      "text": "Saka Nation?"
+    },
+    {
+      "id": 241,
+      "start": 1346.22,
+      "end": 1347.22,
+      "text": "Playing right?"
+    },
+    {
+      "id": 242,
+      "start": 1347.22,
+      "end": 1348.22,
+      "text": "This?"
+    },
+    {
+      "id": 243,
+      "start": 1348.22,
+      "end": 1354.01,
+      "text": "Okay I can hear that too."
+    },
+    {
+      "id": 244,
+      "start": 1355.51,
+      "end": 1357.01,
+      "text": "And also look at it."
+    },
+    {
+      "id": 245,
+      "start": 1360.49,
+      "end": 1362.99,
+      "text": "I mean this will get me copyright strike but it's probably worth it."
+    },
+    {
+      "id": 246,
+      "start": 1365.99,
+      "end": 1366.99,
+      "text": "I need to get this look done."
+    },
+    {
+      "id": 247,
+      "start": 1369.99,
+      "end": 1370.99,
+      "text": "Okay I gotta stop."
+    },
+    {
+      "id": 248,
+      "start": 1373.73,
+      "end": 1375.73,
+      "text": "Play El San Sanito... wait."
+    },
+    {
+      "id": 249,
+      "start": 1375.73,
+      "end": 1377.73,
+      "text": "El Sanadito."
+    },
+    {
+      "id": 250,
+      "start": 1378.73,
+      "end": 1379.73,
+      "text": "Okay."
+    },
+    {
+      "id": 251,
+      "start": 1380.23,
+      "end": 1385.23,
+      "text": "I'll play that while I still try to figure out what's wrong with this whole stream setup of mine."
+    },
+    {
+      "id": 252,
+      "start": 1391.48,
+      "end": 1392.48,
+      "text": "These guys?"
+    },
+    {
+      "id": 253,
+      "start": 1393.48,
+      "end": 1394.98,
+      "text": "Look at these guys."
+    },
+    {
+      "id": 254,
+      "start": 1395.48,
+      "end": 1396.98,
+      "text": "Oh hell yeah."
+    },
+    {
+      "id": 255,
+      "start": 1398.48,
+      "end": 1399.48,
+      "text": "Turn it up!"
+    },
+    {
+      "id": 256,
+      "start": 1407.98,
+      "end": 1410.48,
+      "text": "Guess at least we still live in a world of music and sounds."
+    },
+    {
+      "id": 257,
+      "start": 1411.48,
+      "end": 1412.48,
+      "text": "Whoa!"
+    },
+    {
+      "id": 258,
+      "start": 1413.48,
+      "end": 1414.48,
+      "text": "Whoa!"
+    },
+    {
+      "id": 259,
+      "start": 1416.48,
+      "end": 1417.98,
+      "text": "Oh my god."
+    },
+    {
+      "id": 260,
+      "start": 1418.98,
+      "end": 1420.48,
+      "text": "The audio is doubled?"
+    },
+    {
+      "id": 261,
+      "start": 1420.98,
+      "end": 1429.18,
+      "text": "Stop."
+    },
+    {
+      "id": 262,
+      "start": 1432.75,
+      "end": 1434.75,
+      "text": "That means they are a boy band."
+    },
+    {
+      "id": 263,
+      "start": 1434.75,
+      "end": 1435.75,
+      "text": "Double the fun."
+    },
+    {
+      "id": 264,
+      "start": 1436.25,
+      "end": 1439.06,
+      "text": "We've been missing double audio."
+    },
+    {
+      "id": 265,
+      "start": 1439.06,
+      "end": 1440.56,
+      "text": "We've been missing it all."
+    },
+    {
+      "id": 266,
+      "start": 1441.06,
+      "end": 1442.06,
+      "text": "Why?"
+    },
+    {
+      "id": 267,
+      "start": 1444.06,
+      "end": 1445.06,
+      "text": "Okay. Audio."
+    },
+    {
+      "id": 268,
+      "start": 1453.07,
+      "end": 1456.07,
+      "text": "Okay you know what? It's because I turned desktop audio back on."
+    },
+    {
+      "id": 269,
+      "start": 1456.57,
+      "end": 1458.07,
+      "text": "But now I'm turning it off again."
+    },
+    {
+      "id": 270,
+      "start": 1459.07,
+      "end": 1461.07,
+      "text": "Technically I shouldn't need desktop audio."
+    },
+    {
+      "id": 271,
+      "start": 1462.07,
+      "end": 1463.07,
+      "text": "But you could hear like..."
+    },
+    {
+      "id": 272,
+      "start": 1463.07,
+      "end": 1465.07,
+      "text": "You can hear this Harry Hart song probably right?"
+    },
+    {
+      "id": 273,
+      "start": 1469.89,
+      "end": 1471.89,
+      "text": "I gotta locate the source of the issue."
+    },
+    {
+      "id": 274,
+      "start": 1487.65,
+      "end": 1489.65,
+      "text": "No Harry didn't write it. We haven't earned that."
+    },
+    {
+      "id": 275,
+      "start": 1491.46,
+      "end": 1492.96,
+      "text": "I haven't earned that shit at all."
+    },
+    {
+      "id": 276,
+      "start": 1494.46,
+      "end": 1496.96,
+      "text": "I mean I guess we don't have to have sounds."
+    },
+    {
+      "id": 277,
+      "start": 1496.96,
+      "end": 1498.46,
+      "text": "I could just try to figure it out."
+    },
+    {
+      "id": 278,
+      "start": 1498.46,
+      "end": 1499.96,
+      "text": "Because we only have like an hour."
+    },
+    {
+      "id": 279,
+      "start": 1499.96,
+      "end": 1501.46,
+      "text": "Before the Patreon."
+    },
+    {
+      "id": 280,
+      "start": 1504.81,
+      "end": 1505.81,
+      "text": "Oh there's an audio..."
+    },
+    {
+      "id": 281,
+      "start": 1505.81,
+      "end": 1508.31,
+      "text": "Well that I programmed as a failsafe."
+    },
+    {
+      "id": 282,
+      "start": 1508.31,
+      "end": 1511.31,
+      "text": "So that there'd always be some audio on the screen on the stream."
+    },
+    {
+      "id": 283,
+      "start": 1511.81,
+      "end": 1516.31,
+      "text": "So just in case it will repeat ad nauseam my social security number and credit card."
+    },
+    {
+      "id": 284,
+      "start": 1516.81,
+      "end": 1519.81,
+      "text": "As well as my bank pin numbers and my full net worth."
+    },
+    {
+      "id": 285,
+      "start": 1521.91,
+      "end": 1524.91,
+      "text": "The full net worth is to discourage you from stealing from me though."
+    },
+    {
+      "id": 286,
+      "start": 1530.86,
+      "end": 1532.86,
+      "text": "Disable Windows Audio Ducking."
+    },
+    {
+      "id": 287,
+      "start": 1534.73,
+      "end": 1536.23,
+      "text": "How could it be like this?"
+    },
+    {
+      "id": 288,
+      "start": 1537.23,
+      "end": 1538.73,
+      "text": "Why is it like this?"
+    },
+    {
+      "id": 289,
+      "start": 1539.23,
+      "end": 1540.23,
+      "text": "You don't like these?"
+    },
+    {
+      "id": 290,
+      "start": 1545.1,
+      "end": 1547.1,
+      "text": "Maybe I gotta reset OBS?"
+    },
+    {
+      "id": 291,
+      "start": 1548.6,
+      "end": 1551.1,
+      "text": "I do love to just turn my stream off and on again."
+    },
+    {
+      "id": 292,
+      "start": 1552.6,
+      "end": 1554.1,
+      "text": "Though I don't really want to."
+    },
+    {
+      "id": 293,
+      "start": 1555.1,
+      "end": 1559.1,
+      "text": "I guess let's just today not have any of our usual fun noises."
+    },
+    {
+      "id": 294,
+      "start": 1560.1,
+      "end": 1561.1,
+      "text": "Do what you gotta do."
+    },
+    {
+      "id": 295,
+      "start": 1561.1,
+      "end": 1565.6,
+      "text": "Well technically I don't have to do anything other than leave the stream on."
+    },
+    {
+      "id": 296,
+      "start": 1566.6,
+      "end": 1568.6,
+      "text": "It is pure mental vanity."
+    },
+    {
+      "id": 297,
+      "start": 1569.6,
+      "end": 1571.6,
+      "text": "That I can't handle my stream being broken."
+    },
+    {
+      "id": 298,
+      "start": 1573.61,
+      "end": 1577.11,
+      "text": "Given that you know it's all just sort of weird noises and stuff."
+    },
+    {
+      "id": 299,
+      "start": 1577.11,
+      "end": 1578.11,
+      "text": "But it does."
+    },
+    {
+      "id": 300,
+      "start": 1578.61,
+      "end": 1581.61,
+      "text": "It is gonna bother me the whole damn time."
+    },
+    {
+      "id": 301,
+      "start": 1583.11,
+      "end": 1584.11,
+      "text": "Metering type?"
+    },
+    {
+      "id": 302,
+      "start": 1585.11,
+      "end": 1586.11,
+      "text": "Fast? Medium?"
+    },
+    {
+      "id": 303,
+      "start": 1588.74,
+      "end": 1592.74,
+      "text": "It might not need to be fixed for the Patreon if you guys are hearing everything other than OBS."
+    },
+    {
+      "id": 304,
+      "start": 1593.24,
+      "end": 1595.74,
+      "text": "Cause I don't run the audio through OBS for the Patreon."
+    },
+    {
+      "id": 305,
+      "start": 1595.74,
+      "end": 1597.24,
+      "text": "I technically run it through Discord."
+    },
+    {
+      "id": 306,
+      "start": 1598.24,
+      "end": 1600.24,
+      "text": "So it probably doesn't need me fixed."
+    },
+    {
+      "id": 307,
+      "start": 1601.24,
+      "end": 1602.74,
+      "text": "I guess you're hearing by-"
+    },
+    {
+      "id": 308,
+      "start": 1602.74,
+      "end": 1605.24,
+      "text": "It's an issue with OBS and it's monitoring."
+    },
+    {
+      "id": 309,
+      "start": 1606.74,
+      "end": 1608.74,
+      "text": "Um, and I don't know"
+    },
+    {
+      "id": 310,
+      "start": 1610.24,
+      "end": 1611.74,
+      "text": "why that would be"
+    },
+    {
+      "id": 311,
+      "start": 1614.31,
+      "end": 1616.81,
+      "text": "previews, multi-view projectors."
+    },
+    {
+      "id": 312,
+      "start": 1618.31,
+      "end": 1620.31,
+      "text": "It's gotta be an audio setting."
+    },
+    {
+      "id": 313,
+      "start": 1620.81,
+      "end": 1626.59,
+      "text": "What if I run audio through game? Does that do anything?"
+    },
+    {
+      "id": 314,
+      "start": 1628.91,
+      "end": 1629.41,
+      "text": "Nope."
+    },
+    {
+      "id": 315,
+      "start": 1632.41,
+      "end": 1633.91,
+      "text": "No it doesn't."
+    },
+    {
+      "id": 316,
+      "start": 1635.41,
+      "end": 1636.91,
+      "text": "So strange."
+    },
+    {
+      "id": 317,
+      "start": 1637.41,
+      "end": 1638.91,
+      "text": "It's gotta be a Windows thing."
+    },
+    {
+      "id": 318,
+      "start": 1638.91,
+      "end": 1640.91,
+      "text": "Cause Windows is the only thing that changed here."
+    },
+    {
+      "id": 319,
+      "start": 1641.41,
+      "end": 1647.14,
+      "text": "It's fucking Windows. I know it."
+    },
+    {
+      "id": 320,
+      "start": 1647.64,
+      "end": 1652.34,
+      "text": "Input device, okay."
+    },
+    {
+      "id": 321,
+      "start": 1652.34,
+      "end": 1654.34,
+      "text": "I've changed everything to be bizarre."
+    },
+    {
+      "id": 322,
+      "start": 1654.84,
+      "end": 1656.34,
+      "text": "What if I just reset everything?"
+    },
+    {
+      "id": 323,
+      "start": 1656.84,
+      "end": 1660.84,
+      "text": "Nope, that didn't do it."
+    },
+    {
+      "id": 324,
+      "start": 1662.9,
+      "end": 1665.4,
+      "text": "I mean, the fact my Windows wouldn't update"
+    },
+    {
+      "id": 325,
+      "start": 1666.9,
+      "end": 1668.9,
+      "text": "was really killing my soul yesterday."
+    },
+    {
+      "id": 326,
+      "start": 1669.4,
+      "end": 1673.4,
+      "text": "Cause I downloaded like five different Windows update programs and I ended up just having to"
+    },
+    {
+      "id": 327,
+      "start": 1674.4,
+      "end": 1675.9,
+      "text": "mount like a"
+    },
+    {
+      "id": 328,
+      "start": 1676.4,
+      "end": 1680.4,
+      "text": "Windows update file like it was an old DVD or CD or something."
+    },
+    {
+      "id": 329,
+      "start": 1680.9,
+      "end": 1683.4,
+      "text": "And that did finally work, but then it broke everything."
+    },
+    {
+      "id": 330,
+      "start": 1684.9,
+      "end": 1685.9,
+      "text": "So that's not ideal."
+    },
+    {
+      "id": 331,
+      "start": 1686.4,
+      "end": 1690.22,
+      "text": "Oh, help from the web, thanks Windows."
+    },
+    {
+      "id": 332,
+      "start": 1691.22,
+      "end": 1693.72,
+      "text": "Oh, thanks for lying to me."
+    },
+    {
+      "id": 333,
+      "start": 1694.22,
+      "end": 1698.28,
+      "text": "Yeah, that's not doing anything. That's not doing anything."
+    },
+    {
+      "id": 334,
+      "start": 1699.28,
+      "end": 1700.28,
+      "text": "Was it from China?"
+    },
+    {
+      "id": 335,
+      "start": 1702.28,
+      "end": 1706.28,
+      "text": "It's from this girl that Kendall and I just befriended who's like from China."
+    },
+    {
+      "id": 336,
+      "start": 1707.28,
+      "end": 1709.28,
+      "text": "She's really into IT stuff."
+    },
+    {
+      "id": 337,
+      "start": 1710.28,
+      "end": 1713.28,
+      "text": "She said that she knows all about the latest technologies and the people who run it."
+    },
+    {
+      "id": 338,
+      "start": 1713.78,
+      "end": 1716.28,
+      "text": "And she seemed trustworthy so I did whatever she said."
+    },
+    {
+      "id": 339,
+      "start": 1717.28,
+      "end": 1718.78,
+      "text": "And we had sex."
+    },
+    {
+      "id": 340,
+      "start": 1719.28,
+      "end": 1721.28,
+      "text": "Everybody. And Jensen Wong was there."
+    },
+    {
+      "id": 341,
+      "start": 1721.78,
+      "end": 1723.78,
+      "text": "So I don't know why it's broken to answer your question."
+    },
+    {
+      "id": 342,
+      "start": 1725.98,
+      "end": 1728.48,
+      "text": "Did you see a third affair? Is it the Jensen? I know."
+    },
+    {
+      "id": 343,
+      "start": 1728.98,
+      "end": 1730.48,
+      "text": "Well, okay, look, it's not gonna work."
+    },
+    {
+      "id": 344,
+      "start": 1731.48,
+      "end": 1734.98,
+      "text": "Um, today is what I'm picked."
+    },
+    {
+      "id": 345,
+      "start": 1735.48,
+      "end": 1737.98,
+      "text": "The thing I'm picking up on is that this is not gonna work today"
+    },
+    {
+      "id": 346,
+      "start": 1738.98,
+      "end": 1742.98,
+      "text": "without resetting the computer and just and then I'll be breaking November again."
+    },
+    {
+      "id": 347,
+      "start": 1743.98,
+      "end": 1747.98,
+      "text": "I haven't tried turning it off and on again actually in the context of this stream"
+    },
+    {
+      "id": 348,
+      "start": 1748.98,
+      "end": 1752.98,
+      "text": "which I will do after the stream I guess and after the after everything."
+    },
+    {
+      "id": 349,
+      "start": 1753.48,
+      "end": 1759.98,
+      "text": "Um, I guess for now, let's just let's just listen to the sweet sounds of silence."
+    },
+    {
+      "id": 350,
+      "start": 1760.48,
+      "end": 1763.98,
+      "text": "I'll just trigger Harry Hardy music for every transition that we would normally have."
+    },
+    {
+      "id": 351,
+      "start": 1764.48,
+      "end": 1765.48,
+      "text": "Let's just do the news."
+    },
+    {
+      "id": 352,
+      "start": 1788.9,
+      "end": 1792.65,
+      "text": "Where the fuck am I?"
+    },
+    {
+      "id": 353,
+      "start": 1794.15,
+      "end": 1795.15,
+      "text": "What the shit?"
+    },
+    {
+      "id": 354,
+      "start": 1795.15,
+      "end": 1797.15,
+      "text": "Case what has happened?"
+    },
+    {
+      "id": 355,
+      "start": 1797.65,
+      "end": 1800.79,
+      "text": "I'm invisible!"
+    },
+    {
+      "id": 356,
+      "start": 1801.79,
+      "end": 1805.07,
+      "text": "Oh my God!"
+    },
+    {
+      "id": 357,
+      "start": 1805.57,
+      "end": 1808.93,
+      "text": "What has happened to me?"
+    },
+    {
+      "id": 358,
+      "start": 1809.93,
+      "end": 1812.93,
+      "text": "I know I'm in the room but I can't be seen."
+    },
+    {
+      "id": 359,
+      "start": 1813.93,
+      "end": 1817.3,
+      "text": "Why did every part of your life break, Case?"
+    },
+    {
+      "id": 360,
+      "start": 1818.3,
+      "end": 1820.3,
+      "text": "Why are you a brahokin man?"
+    },
+    {
+      "id": 361,
+      "start": 1821.3,
+      "end": 1823.84,
+      "text": "Uh-oh."
+    },
+    {
+      "id": 362,
+      "start": 1824.34,
+      "end": 1828.56,
+      "text": "Well, that's not ideal."
+    },
+    {
+      "id": 363,
+      "start": 1829.06,
+      "end": 1839.31,
+      "text": "What the fuck?"
+    },
+    {
+      "id": 364,
+      "start": 1840.31,
+      "end": 1841.81,
+      "text": "This is some absolute bullshit."
+    },
+    {
+      "id": 365,
+      "start": 1841.81,
+      "end": 1847.93,
+      "text": "Okay well that's also how it is then um..."
+    },
+    {
+      "id": 366,
+      "start": 1848.43,
+      "end": 1852.76,
+      "text": "I wonder if other things are totally broken."
+    },
+    {
+      "id": 367,
+      "start": 1853.76,
+      "end": 1855.76,
+      "text": "Windows why did you do this to me?"
+    },
+    {
+      "id": 368,
+      "start": 1856.76,
+      "end": 1857.76,
+      "text": "Can I see the..."
+    },
+    {
+      "id": 369,
+      "start": 1858.76,
+      "end": 1860.26,
+      "text": "Can I see..."
+    },
+    {
+      "id": 370,
+      "start": 1860.76,
+      "end": 1861.76,
+      "text": "Hmm..."
+    },
+    {
+      "id": 371,
+      "start": 1862.26,
+      "end": 1865.2,
+      "text": "Is Clive Clifton in the building?"
+    },
+    {
+      "id": 372,
+      "start": 1865.7,
+      "end": 1867.2,
+      "text": "Clive are you available?"
+    },
+    {
+      "id": 373,
+      "start": 1867.7,
+      "end": 1868.2,
+      "text": "I'm fucking available."
+    },
+    {
+      "id": 374,
+      "start": 1869.2,
+      "end": 1870.2,
+      "text": "I'm here."
+    },
+    {
+      "id": 375,
+      "start": 1870.7,
+      "end": 1871.7,
+      "text": "What's everybody else's excuse?"
+    },
+    {
+      "id": 376,
+      "start": 1872.2,
+      "end": 1874.2,
+      "text": "I don't even have my glasses I can't see shit."
+    },
+    {
+      "id": 377,
+      "start": 1874.7,
+      "end": 1877.51,
+      "text": "I'm chewing gum like a fucking heel."
+    },
+    {
+      "id": 378,
+      "start": 1877.51,
+      "end": 1879.01,
+      "text": "Protect Clive?"
+    },
+    {
+      "id": 379,
+      "start": 1881.3,
+      "end": 1882.8,
+      "text": "Well Chet's somehow dead."
+    },
+    {
+      "id": 380,
+      "start": 1883.3,
+      "end": 1884.8,
+      "text": "I'm not dead I'm invisible."
+    },
+    {
+      "id": 381,
+      "start": 1885.8,
+      "end": 1889.11,
+      "text": "Literally okay let me show you guys what's up."
+    },
+    {
+      "id": 382,
+      "start": 1889.61,
+      "end": 1891.11,
+      "text": "Chet I have banished you to the green room."
+    },
+    {
+      "id": 383,
+      "start": 1892.11,
+      "end": 1894.11,
+      "text": "What the hell I'm in a tiny screen in the green room?"
+    },
+    {
+      "id": 384,
+      "start": 1895.11,
+      "end": 1896.11,
+      "text": "This is absolute horseshit."
+    },
+    {
+      "id": 385,
+      "start": 1896.61,
+      "end": 1897.11,
+      "text": "Get me out of here."
+    },
+    {
+      "id": 386,
+      "start": 1897.61,
+      "end": 1899.11,
+      "text": "I'm in the negative zone like superman."
+    },
+    {
+      "id": 387,
+      "start": 1900.11,
+      "end": 1902.11,
+      "text": "Ah I'm flying away."
+    },
+    {
+      "id": 388,
+      "start": 1902.61,
+      "end": 1904.11,
+      "text": "Take me back to that woman's body."
+    },
+    {
+      "id": 389,
+      "start": 1905.11,
+      "end": 1909.11,
+      "text": "That's very bizarre because it's literally on and outputting a signal amp."
+    },
+    {
+      "id": 390,
+      "start": 1909.11,
+      "end": 1915.61,
+      "text": "As you can see okay I'm gonna reset the fucking stream and just see if that does anything."
+    },
+    {
+      "id": 391,
+      "start": 1916.61,
+      "end": 1919.61,
+      "text": "So we'll be gone for a moment and then hopefully back."
+    },
+    {
+      "id": 392,
+      "start": 1920.61,
+      "end": 1921.61,
+      "text": "Trip is fine."
+    }
+  ],
+  "text": "Oh snap, we're losing before Patreon.\nWe're live in 10, 9, 6, 5, 4, 3, 2...\nCan you hear me now?\nAm I heard?\nAm I licensed to mine?\nI don't know, I haven't looked at my hair today though, it's definitely getting crazy.\nAlright, let's see what's going on with all this audio.\nThen I'll get to all the complaints about...\nbreaks that may or may not have happened.\nSystem, okay, systems on now.\nAre you guys hearing anything now?\nDo you hear them shooting?\nOkay, that's a good sign if you're hearing them.\nYeah, there wasn't any music playing before Stream, so I just...\nlaunched all the random wave files I have queued up.\nOkay, fix that.\nFix the music one.\nLet's see if you guys can hear Biden.\nYou don't hear them shooting.\nNo!\nLet's see if Biden will talk to us.\nCase Blackwell said, check, check, I am wearing soundproof diapers.\nI heard that, but did you guys hear that?\nAlthough now why isn't his mouth moving?\nNow I gotta check that.\nFor some reason, my Windows hadn't been updating...\nfor over a year, which was a problem...\nSo to make a long story long,\nyesterday I had to...\nthe reason I didn't stream, I had to take a job...\nbecause the day rate was particularly high.\nTo be honest, I just got it randomly.\nSomeone needed something done quickly,\nand they were paying quite well, so I had to do it.\nHowever, also wait, can you guys hear this?\nI can't hear this.\nSon of a...\nbeep...\nWhy?\nWhy?\nHow did I even set this stream up?\nWhat is the way that I did it?\nWe also have to go to the Patreon soon.\nNone of it's working out for me.\nSo Bricksy said, I'm learning ventriloquism,\nbut you won't let me by the dummy saw I'm practicing with an imaginary one.\nYou sound...\ngreat, Mr. President.\nOh, you know what? I know what happened.\nWith him at least, with Biden.\nThere's no troubleshooting stream, it's all we have time for.\nListen up, Jack.\nGiga trash just, Mama Jam 300, Shranny, Tasty Coins,\nand I've been dying to say this.\nSay what?\nYou're doing your best, Jack.\nYou're a paper special boy, let's go get a mayonnaise sandwich, bud.\nThank you, thank you sir.\nYou're saying that, I need that kind of encouragement right now.\nI suspect the issue is my whole stream runs off of sound monitoring\nand it's probably outputting the sound now to a different channel.\nMonitoring device.\nUm, okay, how about now?\nNope.\nNo it says.\nOh, am I gonna have to redo a million things?\nThat'll be such a bummer.\nThere's too many things.\nIt's all so baked in.\nPlease, just work.\nMonitoring device, okay.\nDesktop audio, disabled.\nMaybe I want it not disabled.\nMaybe this does it.\nNope.\nUm, Brandon's mom, if we can hear Biden we'll be able to hear Brandon's mom.\nDisabled system sample.\nHmm, apply, do it.\nDo it, play songs and sounds.\nPlay the sounds of songs.\nI, maybe it's Crumb's fault.\nMaybe what's happening right now, Crumb's fault.\nEeeeeee.\nDid case break through the stream by taking a break?\nUh, seemingly.\nAlso there's Windows update.\nSeeps who have broken it.\nCrumb was mayor, that's true.\nFuck Kade and broke my heart.\nGuys, look at Kendall, she looks cool.\nKendall, come show them how cool you look.\nYes, I don't even know what jacket you're turning on.\nJaxiante, but maybe I could use it.\nKendall, you wanna wear a huge jacket?\nOh yeah, how do I show them my outfit?\nYeah, there you go.\nSo far back in the city.\nWhoa, whoa.\nBeautiful.\nKendall has things to do tonight, she's gotta go to a premiere.\nIn fact, Kendall's seeing a thing early I guess, right?\nOr is it already out?\nShe's seeing the new Blade Runner series, but it's like a premiere for it.\nShe got invited to it or something.\nOr something.\nUh, she looks like Susan.\nOkay.\nWicker is out and good.\nWell, last night, so another reason I couldn't stream last night,\nwe had to go see,\nI actually didn't have to, but I had agreed to go see\nHow to Rob a Bank,\nwhich is like out early if you have AMC something or other, which we do.\nAnyway, that definitely wasn't worth it, it would have been better to stream.\nAll of that is to say, it's usually No Breaks November, right now it's Silent No Breaks November,\nI guess in honor of me fucking it up, but\nit's supposed to be No Breaks November except Sundays,\nexcept not that I took a break on Wednesdays,\nit's No Breaks November except Wednesdays this week, meaning I will be on on Sunday.\nSo you can take that break and you can deal with it,\nbecause I'll stream even more to make up for it.\nUgh.\nUgh.\nUm, how do I fix this though? Why can't I hear?\nHalf of the things that we usually hear on this stream,\nI would like to know that.\nI have seen God's Illumina Zero, thought it was good.\nMostly, I thought it was good.\nUm, reset sound devices for all apps to the recommended defaults.\nAm I gonna have to ask fucking chat GPT or something how to fix this?\nWhat is the secret?\nThe thing I'm trying to avoid is,\nI have like every single graphic on this stream set to,\nessentially you guys hear it at the same time I hear it.\nA lot of the audio on the stream works through just monitoring.\nLike you're hearing my monitor feed essentially.\nSo I'm not using the monitoring function of OBS.\nUgh.\nBut I don't want to have to change that around,\nbecause I suspect if I take it off monitor only the monitor end output,\ndo you guys hear it now?\nOr do you not?\nLike do you hear it? You hear it, yeah.\nSo you're not hearing my monitor feed.\nI'm not hearing it.\nIt's something to do with the freaking monitor feed.\nSo if I don't fix that,\nI'll have to change every single individual graphic to have a different setting.\nAnd it's probably louder than usual.\nI set it up this way a long time ago, not really understanding how streaming works.\nSo then I would just be like, well I'll just hear the same thing as chat.\nThat seems easier than something else.\nUm, I'm gonna mute it again.\nBut now I'm like, why can't I hear?\nLet me just look up.\nUh, OBS. Can't hear sound monitor.\nCheck the main OBS window. Look at the audio mixer panel at the bottom.\nOkay.\nChange it to monitoring off and monitor end output.\nNo, I don't hear it.\nI don't hear it.\nThere's no choice but to try to fix this, because I think\nthere's too many sounds on this stream.\nOh my god.\nI have so much shit on here.\nWhy?\nDefault?\nApply? Just default do anything?\nNope.\nMeter's fast.\nMeter sample peak.\nOutput. Maybe it's an outputs.\nIt's not.\nGeneral. Maybe it's a general.\nI'm also chewing gum like a fucking heel.\nIt's just one of those days when you don't want to wake up.\nEverything is fucked.\nEverybody?\nSucks.\nThis sucks.\nThat won't work.\nCheck the windows volume mixer.\nMake sure OBS is not muted.\nI love that.\nI love that that could even happen.\nI do feel like a chainsaw.\nWhat?\nMaybe I need to change the input?\nWould that do anything? Why would that do anything though?\nMaybe it needs to be...\nMmmmm.\nDoes this do anything?\nNope.\nAbsolutely not.\nYou out of here?\nYeah.\nOkay.\nWow!\nYou know what this is also going to be annoying for?\nI haven't heard from Kassim actually but...\nOkay Kassim is good for the pod.\nI also had run that through my system audio and that's going to also be all fucked up.\nSo anyway the problem I ran into is...\nI uh...\nI had an updated windows in like a year and a half.\nAnd I needed to update my Premiere.\nAnd it wouldn't let me update it because my windows was so out of date.\nIn order to do this job...\nWhich was...\nSlightly more lucrative than the average job I had to update my windows.\nAnd then that fucked with all my audio settings.\nBasically I thought this job wouldn't take me as long as it did.\nBut it did. I was actually still planning to stream.\nBut then my whole computer stopped working.\nIn a conventional sense.\nAnd now I can't even hear anything and I don't know why.\nSo I'm extra confused.\nSupposedly there's still music even playing right now.\nBut I'm assuming you guys can't hear...\nAny of the music right?\nLike there's not like a the usual random no music though.\nOkay well hey that's good to know at least.\nAt least we know that.\nActive audio sources only now that's okay.\nAdvanced audio properties.\nThat's the same thing.\nCheck source, mutes and volume sliders.\nWhy?\nWhy is it like this?\nWhy does it do this to me?\nAudio, mic audio, desktop audio too?\nWhat if I just put everything to the...\nSystem.\nHit apply.\nNo it doesn't do anything.\nBoo!\nYou know what? Can you guys hear YouTube videos?\nThat's a good question.\nBecause that should be playing not through OBS.\nCan you hear...\nSaka Nation?\nPlaying right?\nThis?\nOkay I can hear that too.\nAnd also look at it.\nI mean this will get me copyright strike but it's probably worth it.\nI need to get this look done.\nOkay I gotta stop.\nPlay El San Sanito... wait.\nEl Sanadito.\nOkay.\nI'll play that while I still try to figure out what's wrong with this whole stream setup of mine.\nThese guys?\nLook at these guys.\nOh hell yeah.\nTurn it up!\nGuess at least we still live in a world of music and sounds.\nWhoa!\nWhoa!\nOh my god.\nThe audio is doubled?\nStop.\nThat means they are a boy band.\nDouble the fun.\nWe've been missing double audio.\nWe've been missing it all.\nWhy?\nOkay. Audio.\nOkay you know what? It's because I turned desktop audio back on.\nBut now I'm turning it off again.\nTechnically I shouldn't need desktop audio.\nBut you could hear like...\nYou can hear this Harry Hart song probably right?\nI gotta locate the source of the issue.\nNo Harry didn't write it. We haven't earned that.\nI haven't earned that shit at all.\nI mean I guess we don't have to have sounds.\nI could just try to figure it out.\nBecause we only have like an hour.\nBefore the Patreon.\nOh there's an audio...\nWell that I programmed as a failsafe.\nSo that there'd always be some audio on the screen on the stream.\nSo just in case it will repeat ad nauseam my social security number and credit card.\nAs well as my bank pin numbers and my full net worth.\nThe full net worth is to discourage you from stealing from me though.\nDisable Windows Audio Ducking.\nHow could it be like this?\nWhy is it like this?\nYou don't like these?\nMaybe I gotta reset OBS?\nI do love to just turn my stream off and on again.\nThough I don't really want to.\nI guess let's just today not have any of our usual fun noises.\nDo what you gotta do.\nWell technically I don't have to do anything other than leave the stream on.\nIt is pure mental vanity.\nThat I can't handle my stream being broken.\nGiven that you know it's all just sort of weird noises and stuff.\nBut it does.\nIt is gonna bother me the whole damn time.\nMetering type?\nFast? Medium?\nIt might not need to be fixed for the Patreon if you guys are hearing everything other than OBS.\nCause I don't run the audio through OBS for the Patreon.\nI technically run it through Discord.\nSo it probably doesn't need me fixed.\nI guess you're hearing by-\nIt's an issue with OBS and it's monitoring.\nUm, and I don't know\nwhy that would be\npreviews, multi-view projectors.\nIt's gotta be an audio setting.\nWhat if I run audio through game? Does that do anything?\nNope.\nNo it doesn't.\nSo strange.\nIt's gotta be a Windows thing.\nCause Windows is the only thing that changed here.\nIt's fucking Windows. I know it.\nInput device, okay.\nI've changed everything to be bizarre.\nWhat if I just reset everything?\nNope, that didn't do it.\nI mean, the fact my Windows wouldn't update\nwas really killing my soul yesterday.\nCause I downloaded like five different Windows update programs and I ended up just having to\nmount like a\nWindows update file like it was an old DVD or CD or something.\nAnd that did finally work, but then it broke everything.\nSo that's not ideal.\nOh, help from the web, thanks Windows.\nOh, thanks for lying to me.\nYeah, that's not doing anything. That's not doing anything.\nWas it from China?\nIt's from this girl that Kendall and I just befriended who's like from China.\nShe's really into IT stuff.\nShe said that she knows all about the latest technologies and the people who run it.\nAnd she seemed trustworthy so I did whatever she said.\nAnd we had sex.\nEverybody. And Jensen Wong was there.\nSo I don't know why it's broken to answer your question.\nDid you see a third affair? Is it the Jensen? I know.\nWell, okay, look, it's not gonna work.\nUm, today is what I'm picked.\nThe thing I'm picking up on is that this is not gonna work today\nwithout resetting the computer and just and then I'll be breaking November again.\nI haven't tried turning it off and on again actually in the context of this stream\nwhich I will do after the stream I guess and after the after everything.\nUm, I guess for now, let's just let's just listen to the sweet sounds of silence.\nI'll just trigger Harry Hardy music for every transition that we would normally have.\nLet's just do the news.\nWhere the fuck am I?\nWhat the shit?\nCase what has happened?\nI'm invisible!\nOh my God!\nWhat has happened to me?\nI know I'm in the room but I can't be seen.\nWhy did every part of your life break, Case?\nWhy are you a brahokin man?\nUh-oh.\nWell, that's not ideal.\nWhat the fuck?\nThis is some absolute bullshit.\nOkay well that's also how it is then um...\nI wonder if other things are totally broken.\nWindows why did you do this to me?\nCan I see the...\nCan I see...\nHmm...\nIs Clive Clifton in the building?\nClive are you available?\nI'm fucking available.\nI'm here.\nWhat's everybody else's excuse?\nI don't even have my glasses I can't see shit.\nI'm chewing gum like a fucking heel.\nProtect Clive?\nWell Chet's somehow dead.\nI'm not dead I'm invisible.\nLiterally okay let me show you guys what's up.\nChet I have banished you to the green room.\nWhat the hell I'm in a tiny screen in the green room?\nThis is absolute horseshit.\nGet me out of here.\nI'm in the negative zone like superman.\nAh I'm flying away.\nTake me back to that woman's body.\nThat's very bizarre because it's literally on and outputting a signal amp.\nAs you can see okay I'm gonna reset the fucking stream and just see if that does anything.\nSo we'll be gone for a moment and then hopefully back.\nTrip is fine.",
+  "text_timestamped": "[01:28 --> 01:31] Oh snap, we're losing before Patreon.\n[01:31 --> 08:04] We're live in 10, 9, 6, 5, 4, 3, 2...\n[08:04 --> 09:37] Can you hear me now?\n[09:38 --> 09:39] Am I heard?\n[09:42 --> 09:44] Am I licensed to mine?\n[09:45 --> 09:48] I don't know, I haven't looked at my hair today though, it's definitely getting crazy.\n[09:48 --> 09:50] Alright, let's see what's going on with all this audio.\n[09:50 --> 09:53] Then I'll get to all the complaints about...\n[09:53 --> 09:55] breaks that may or may not have happened.\n[09:56 --> 09:59] System, okay, systems on now.\n[09:59 --> 10:03] Are you guys hearing anything now?\n[10:03 --> 10:06] Do you hear them shooting?\n[10:06 --> 10:12] Okay, that's a good sign if you're hearing them.\n[10:13 --> 10:18] Yeah, there wasn't any music playing before Stream, so I just...\n[10:18 --> 10:22] launched all the random wave files I have queued up.\n[10:23 --> 10:26] Okay, fix that.\n[10:26 --> 10:29] Fix the music one.\n[10:29 --> 10:31] Let's see if you guys can hear Biden.\n[10:32 --> 10:34] You don't hear them shooting.\n[10:34 --> 10:35] No!\n[10:35 --> 10:45] Let's see if Biden will talk to us.\n[10:45 --> 10:48] Case Blackwell said, check, check, I am wearing soundproof diapers.\n[10:49 --> 10:52] I heard that, but did you guys hear that?\n[10:53 --> 10:57] Although now why isn't his mouth moving?\n[10:59 --> 11:01] Now I gotta check that.\n[11:02 --> 11:06] For some reason, my Windows hadn't been updating...\n[11:06 --> 11:09] for over a year, which was a problem...\n[11:09 --> 11:12] So to make a long story long,\n[11:12 --> 11:15] yesterday I had to...\n[11:15 --> 11:18] the reason I didn't stream, I had to take a job...\n[11:18 --> 11:21] because the day rate was particularly high.\n[11:21 --> 11:24] To be honest, I just got it randomly.\n[11:24 --> 11:27] Someone needed something done quickly,\n[11:27 --> 11:30] and they were paying quite well, so I had to do it.\n[11:30 --> 11:33] However, also wait, can you guys hear this?\n[11:35 --> 11:36] I can't hear this.\n[11:36 --> 11:38] Son of a...\n[11:38 --> 11:39] beep...\n[11:42 --> 11:43] Why?\n[11:45 --> 11:46] Why?\n[11:50 --> 11:52] How did I even set this stream up?\n[11:52 --> 11:54] What is the way that I did it?\n[11:54 --> 11:57] We also have to go to the Patreon soon.\n[11:58 --> 12:00] None of it's working out for me.\n[12:01 --> 12:04] So Bricksy said, I'm learning ventriloquism,\n[12:04 --> 12:08] but you won't let me by the dummy saw I'm practicing with an imaginary one.\n[12:09 --> 12:10] You sound...\n[12:10 --> 12:11] great, Mr. President.\n[12:12 --> 12:13] Oh, you know what? I know what happened.\n[12:14 --> 12:15] With him at least, with Biden.\n[12:16 --> 12:18] There's no troubleshooting stream, it's all we have time for.\n[12:18 --> 12:19] Listen up, Jack.\n[12:20 --> 12:22] Giga trash just, Mama Jam 300, Shranny, Tasty Coins,\n[12:23 --> 12:24] and I've been dying to say this.\n[12:25 --> 12:26] Say what?\n[12:26 --> 12:27] You're doing your best, Jack.\n[12:28 --> 12:30] You're a paper special boy, let's go get a mayonnaise sandwich, bud.\n[12:35 --> 12:36] Thank you, thank you sir.\n[12:36 --> 12:39] You're saying that, I need that kind of encouragement right now.\n[12:41 --> 12:46] I suspect the issue is my whole stream runs off of sound monitoring\n[12:46 --> 12:51] and it's probably outputting the sound now to a different channel.\n[12:52 --> 12:53] Monitoring device.\n[12:54 --> 12:59] Um, okay, how about now?\n[13:01 --> 13:02] Nope.\n[13:03 --> 13:04] No it says.\n[13:06 --> 13:08] Oh, am I gonna have to redo a million things?\n[13:10 --> 13:11] That'll be such a bummer.\n[13:12 --> 13:13] There's too many things.\n[13:14 --> 13:15] It's all so baked in.\n[13:16 --> 13:17] Please, just work.\n[13:18 --> 13:22] Monitoring device, okay.\n[13:23 --> 13:25] Desktop audio, disabled.\n[13:27 --> 13:29] Maybe I want it not disabled.\n[13:30 --> 13:31] Maybe this does it.\n[13:33 --> 13:34] Nope.\n[13:37 --> 13:40] Um, Brandon's mom, if we can hear Biden we'll be able to hear Brandon's mom.\n[13:40 --> 13:49] Disabled system sample.\n[13:51 --> 13:57] Hmm, apply, do it.\n[13:58 --> 14:01] Do it, play songs and sounds.\n[14:02 --> 14:03] Play the sounds of songs.\n[14:04 --> 14:07] I, maybe it's Crumb's fault.\n[14:08 --> 14:10] Maybe what's happening right now, Crumb's fault.\n[14:13 --> 14:14] Eeeeeee.\n[14:17 --> 14:19] Did case break through the stream by taking a break?\n[14:20 --> 14:21] Uh, seemingly.\n[14:21 --> 14:22] Also there's Windows update.\n[14:22 --> 14:24] Seeps who have broken it.\n[14:25 --> 14:27] Crumb was mayor, that's true.\n[14:28 --> 14:31] Fuck Kade and broke my heart.\n[14:32 --> 14:34] Guys, look at Kendall, she looks cool.\n[14:35 --> 14:37] Kendall, come show them how cool you look.\n[14:37 --> 14:42] Yes, I don't even know what jacket you're turning on.\n[14:42 --> 14:44] Jaxiante, but maybe I could use it.\n[14:44 --> 14:46] Kendall, you wanna wear a huge jacket?\n[14:46 --> 14:48] Oh yeah, how do I show them my outfit?\n[14:50 --> 14:54] Yeah, there you go.\n[14:58 --> 15:00] So far back in the city.\n[15:01 --> 15:03] Whoa, whoa.\n[15:04 --> 15:08] Beautiful.\n[15:09 --> 15:11] Kendall has things to do tonight, she's gotta go to a premiere.\n[15:12 --> 15:15] In fact, Kendall's seeing a thing early I guess, right?\n[15:16 --> 15:19] Or is it already out?\n[15:19 --> 15:22] She's seeing the new Blade Runner series, but it's like a premiere for it.\n[15:22 --> 15:24] She got invited to it or something.\n[15:25 --> 15:26] Or something.\n[15:26 --> 15:30] Uh, she looks like Susan.\n[15:30 --> 15:31] Okay.\n[15:32 --> 15:34] Wicker is out and good.\n[15:35 --> 15:37] Well, last night, so another reason I couldn't stream last night,\n[15:38 --> 15:39] we had to go see,\n[15:40 --> 15:43] I actually didn't have to, but I had agreed to go see\n[15:43 --> 15:44] How to Rob a Bank,\n[15:45 --> 15:50] which is like out early if you have AMC something or other, which we do.\n[15:50 --> 15:53] Anyway, that definitely wasn't worth it, it would have been better to stream.\n[15:53 --> 15:57] All of that is to say, it's usually No Breaks November, right now it's Silent No Breaks November,\n[15:58 --> 16:00] I guess in honor of me fucking it up, but\n[16:01 --> 16:03] it's supposed to be No Breaks November except Sundays,\n[16:04 --> 16:05] except not that I took a break on Wednesdays,\n[16:05 --> 16:09] it's No Breaks November except Wednesdays this week, meaning I will be on on Sunday.\n[16:10 --> 16:13] So you can take that break and you can deal with it,\n[16:13 --> 16:15] because I'll stream even more to make up for it.\n[16:16 --> 16:17] Ugh.\n[16:18 --> 16:19] Ugh.\n[16:20 --> 16:23] Um, how do I fix this though? Why can't I hear?\n[16:25 --> 16:28] Half of the things that we usually hear on this stream,\n[16:28 --> 16:30] I would like to know that.\n[16:32 --> 16:34] I have seen God's Illumina Zero, thought it was good.\n[16:36 --> 16:38] Mostly, I thought it was good.\n[16:38 --> 16:46] Um, reset sound devices for all apps to the recommended defaults.\n[16:48 --> 16:52] Am I gonna have to ask fucking chat GPT or something how to fix this?\n[16:52 --> 16:56] What is the secret?\n[16:57 --> 16:58] The thing I'm trying to avoid is,\n[16:59 --> 17:02] I have like every single graphic on this stream set to,\n[17:03 --> 17:06] essentially you guys hear it at the same time I hear it.\n[17:06 --> 17:09] A lot of the audio on the stream works through just monitoring.\n[17:10 --> 17:12] Like you're hearing my monitor feed essentially.\n[17:12 --> 17:14] So I'm not using the monitoring function of OBS.\n[17:17 --> 17:18] Ugh.\n[17:18 --> 17:20] But I don't want to have to change that around,\n[17:21 --> 17:24] because I suspect if I take it off monitor only the monitor end output,\n[17:25 --> 17:26] do you guys hear it now?\n[17:26 --> 17:27] Or do you not?\n[17:28 --> 17:32] Like do you hear it? You hear it, yeah.\n[17:33 --> 17:34] So you're not hearing my monitor feed.\n[17:35 --> 17:36] I'm not hearing it.\n[17:37 --> 17:40] It's something to do with the freaking monitor feed.\n[17:40 --> 17:43] So if I don't fix that,\n[17:43 --> 17:48] I'll have to change every single individual graphic to have a different setting.\n[17:49 --> 17:51] And it's probably louder than usual.\n[17:52 --> 17:56] I set it up this way a long time ago, not really understanding how streaming works.\n[17:56 --> 17:59] So then I would just be like, well I'll just hear the same thing as chat.\n[17:59 --> 18:02] That seems easier than something else.\n[18:02 --> 18:04] Um, I'm gonna mute it again.\n[18:04 --> 18:06] But now I'm like, why can't I hear?\n[18:07 --> 18:08] Let me just look up.\n[18:08 --> 18:11] Uh, OBS. Can't hear sound monitor.\n[18:14 --> 18:18] Check the main OBS window. Look at the audio mixer panel at the bottom.\n[18:19 --> 18:20] Okay.\n[18:23 --> 18:25] Change it to monitoring off and monitor end output.\n[18:26 --> 18:26] No, I don't hear it.\n[18:31 --> 18:32] I don't hear it.\n[18:36 --> 18:38] There's no choice but to try to fix this, because I think\n[18:39 --> 18:41] there's too many sounds on this stream.\n[18:44 --> 18:45] Oh my god.\n[18:47 --> 18:48] I have so much shit on here.\n[18:49 --> 18:49] Why?\n[18:50 --> 18:53] Default?\n[18:54 --> 18:56] Apply? Just default do anything?\n[18:57 --> 18:57] Nope.\n[19:00 --> 19:01] Meter's fast.\n[19:01 --> 19:03] Meter sample peak.\n[19:04 --> 19:06] Output. Maybe it's an outputs.\n[19:07 --> 19:07] It's not.\n[19:08 --> 19:09] General. Maybe it's a general.\n[19:11 --> 19:14] I'm also chewing gum like a fucking heel.\n[19:16 --> 19:19] It's just one of those days when you don't want to wake up.\n[19:19 --> 19:20] Everything is fucked.\n[19:21 --> 19:21] Everybody?\n[19:22 --> 19:23] Sucks.\n[19:23 --> 19:27] This sucks.\n[19:28 --> 19:29] That won't work.\n[19:30 --> 19:32] Check the windows volume mixer.\n[19:34 --> 19:36] Make sure OBS is not muted.\n[19:38 --> 19:39] I love that.\n[19:40 --> 19:41] I love that that could even happen.\n[19:43 --> 19:45] I do feel like a chainsaw.\n[19:45 --> 19:46] What?\n[19:48 --> 19:50] Maybe I need to change the input?\n[19:50 --> 19:54] Would that do anything? Why would that do anything though?\n[19:55 --> 19:59] Maybe it needs to be...\n[20:00 --> 20:01] Mmmmm.\n[20:05 --> 20:06] Does this do anything?\n[20:06 --> 20:07] Nope.\n[20:08 --> 20:10] Absolutely not.\n[20:10 --> 20:13] You out of here?\n[20:13 --> 20:14] Yeah.\n[20:14 --> 20:14] Okay.\n[20:15 --> 20:16] Wow!\n[20:17 --> 20:19] You know what this is also going to be annoying for?\n[20:19 --> 20:21] I haven't heard from Kassim actually but...\n[20:22 --> 20:24] Okay Kassim is good for the pod.\n[20:26 --> 20:30] I also had run that through my system audio and that's going to also be all fucked up.\n[20:30 --> 20:33] So anyway the problem I ran into is...\n[20:34 --> 20:35] I uh...\n[20:36 --> 20:39] I had an updated windows in like a year and a half.\n[20:39 --> 20:41] And I needed to update my Premiere.\n[20:42 --> 20:45] And it wouldn't let me update it because my windows was so out of date.\n[20:45 --> 20:47] In order to do this job...\n[20:47 --> 20:48] Which was...\n[20:48 --> 20:52] Slightly more lucrative than the average job I had to update my windows.\n[20:52 --> 20:55] And then that fucked with all my audio settings.\n[20:55 --> 20:58] Basically I thought this job wouldn't take me as long as it did.\n[20:58 --> 21:01] But it did. I was actually still planning to stream.\n[21:01 --> 21:03] But then my whole computer stopped working.\n[21:03 --> 21:05] In a conventional sense.\n[21:05 --> 21:08] And now I can't even hear anything and I don't know why.\n[21:09 --> 21:11] So I'm extra confused.\n[21:12 --> 21:15] Supposedly there's still music even playing right now.\n[21:15 --> 21:17] But I'm assuming you guys can't hear...\n[21:18 --> 21:19] Any of the music right?\n[21:21 --> 21:24] Like there's not like a the usual random no music though.\n[21:24 --> 21:26] Okay well hey that's good to know at least.\n[21:27 --> 21:28] At least we know that.\n[21:31 --> 21:33] Active audio sources only now that's okay.\n[21:37 --> 21:39] Advanced audio properties.\n[21:39 --> 21:40] That's the same thing.\n[21:44 --> 21:47] Check source, mutes and volume sliders.\n[21:50 --> 21:51] Why?\n[21:52 --> 21:53] Why is it like this?\n[21:54 --> 21:56] Why does it do this to me?\n[21:58 --> 22:01] Audio, mic audio, desktop audio too?\n[22:01 --> 22:03] What if I just put everything to the...\n[22:04 --> 22:05] System.\n[22:07 --> 22:08] Hit apply.\n[22:08 --> 22:10] No it doesn't do anything.\n[22:11 --> 22:13] Boo!\n[22:13 --> 22:15] You know what? Can you guys hear YouTube videos?\n[22:16 --> 22:17] That's a good question.\n[22:19 --> 22:21] Because that should be playing not through OBS.\n[22:21 --> 22:23] Can you hear...\n[22:24 --> 22:25] Saka Nation?\n[22:26 --> 22:27] Playing right?\n[22:27 --> 22:28] This?\n[22:28 --> 22:34] Okay I can hear that too.\n[22:35 --> 22:37] And also look at it.\n[22:40 --> 22:42] I mean this will get me copyright strike but it's probably worth it.\n[22:45 --> 22:46] I need to get this look done.\n[22:49 --> 22:50] Okay I gotta stop.\n[22:53 --> 22:55] Play El San Sanito... wait.\n[22:55 --> 22:57] El Sanadito.\n[22:58 --> 22:59] Okay.\n[23:00 --> 23:05] I'll play that while I still try to figure out what's wrong with this whole stream setup of mine.\n[23:11 --> 23:12] These guys?\n[23:13 --> 23:14] Look at these guys.\n[23:15 --> 23:16] Oh hell yeah.\n[23:18 --> 23:19] Turn it up!\n[23:27 --> 23:30] Guess at least we still live in a world of music and sounds.\n[23:31 --> 23:32] Whoa!\n[23:33 --> 23:34] Whoa!\n[23:36 --> 23:37] Oh my god.\n[23:38 --> 23:40] The audio is doubled?\n[23:40 --> 23:49] Stop.\n[23:52 --> 23:54] That means they are a boy band.\n[23:54 --> 23:55] Double the fun.\n[23:56 --> 23:59] We've been missing double audio.\n[23:59 --> 24:00] We've been missing it all.\n[24:01 --> 24:02] Why?\n[24:04 --> 24:05] Okay. Audio.\n[24:13 --> 24:16] Okay you know what? It's because I turned desktop audio back on.\n[24:16 --> 24:18] But now I'm turning it off again.\n[24:19 --> 24:21] Technically I shouldn't need desktop audio.\n[24:22 --> 24:23] But you could hear like...\n[24:23 --> 24:25] You can hear this Harry Hart song probably right?\n[24:29 --> 24:31] I gotta locate the source of the issue.\n[24:47 --> 24:49] No Harry didn't write it. We haven't earned that.\n[24:51 --> 24:52] I haven't earned that shit at all.\n[24:54 --> 24:56] I mean I guess we don't have to have sounds.\n[24:56 --> 24:58] I could just try to figure it out.\n[24:58 --> 24:59] Because we only have like an hour.\n[24:59 --> 25:01] Before the Patreon.\n[25:04 --> 25:05] Oh there's an audio...\n[25:05 --> 25:08] Well that I programmed as a failsafe.\n[25:08 --> 25:11] So that there'd always be some audio on the screen on the stream.\n[25:11 --> 25:16] So just in case it will repeat ad nauseam my social security number and credit card.\n[25:16 --> 25:19] As well as my bank pin numbers and my full net worth.\n[25:21 --> 25:24] The full net worth is to discourage you from stealing from me though.\n[25:30 --> 25:32] Disable Windows Audio Ducking.\n[25:34 --> 25:36] How could it be like this?\n[25:37 --> 25:38] Why is it like this?\n[25:39 --> 25:40] You don't like these?\n[25:45 --> 25:47] Maybe I gotta reset OBS?\n[25:48 --> 25:51] I do love to just turn my stream off and on again.\n[25:52 --> 25:54] Though I don't really want to.\n[25:55 --> 25:59] I guess let's just today not have any of our usual fun noises.\n[26:00 --> 26:01] Do what you gotta do.\n[26:01 --> 26:05] Well technically I don't have to do anything other than leave the stream on.\n[26:06 --> 26:08] It is pure mental vanity.\n[26:09 --> 26:11] That I can't handle my stream being broken.\n[26:13 --> 26:17] Given that you know it's all just sort of weird noises and stuff.\n[26:17 --> 26:18] But it does.\n[26:18 --> 26:21] It is gonna bother me the whole damn time.\n[26:23 --> 26:24] Metering type?\n[26:25 --> 26:26] Fast? Medium?\n[26:28 --> 26:32] It might not need to be fixed for the Patreon if you guys are hearing everything other than OBS.\n[26:33 --> 26:35] Cause I don't run the audio through OBS for the Patreon.\n[26:35 --> 26:37] I technically run it through Discord.\n[26:38 --> 26:40] So it probably doesn't need me fixed.\n[26:41 --> 26:42] I guess you're hearing by-\n[26:42 --> 26:45] It's an issue with OBS and it's monitoring.\n[26:46 --> 26:48] Um, and I don't know\n[26:50 --> 26:51] why that would be\n[26:54 --> 26:56] previews, multi-view projectors.\n[26:58 --> 27:00] It's gotta be an audio setting.\n[27:00 --> 27:06] What if I run audio through game? Does that do anything?\n[27:08 --> 27:09] Nope.\n[27:12 --> 27:13] No it doesn't.\n[27:15 --> 27:16] So strange.\n[27:17 --> 27:18] It's gotta be a Windows thing.\n[27:18 --> 27:20] Cause Windows is the only thing that changed here.\n[27:21 --> 27:27] It's fucking Windows. I know it.\n[27:27 --> 27:32] Input device, okay.\n[27:32 --> 27:34] I've changed everything to be bizarre.\n[27:34 --> 27:36] What if I just reset everything?\n[27:36 --> 27:40] Nope, that didn't do it.\n[27:42 --> 27:45] I mean, the fact my Windows wouldn't update\n[27:46 --> 27:48] was really killing my soul yesterday.\n[27:49 --> 27:53] Cause I downloaded like five different Windows update programs and I ended up just having to\n[27:54 --> 27:55] mount like a\n[27:56 --> 28:00] Windows update file like it was an old DVD or CD or something.\n[28:00 --> 28:03] And that did finally work, but then it broke everything.\n[28:04 --> 28:05] So that's not ideal.\n[28:06 --> 28:10] Oh, help from the web, thanks Windows.\n[28:11 --> 28:13] Oh, thanks for lying to me.\n[28:14 --> 28:18] Yeah, that's not doing anything. That's not doing anything.\n[28:19 --> 28:20] Was it from China?\n[28:22 --> 28:26] It's from this girl that Kendall and I just befriended who's like from China.\n[28:27 --> 28:29] She's really into IT stuff.\n[28:30 --> 28:33] She said that she knows all about the latest technologies and the people who run it.\n[28:33 --> 28:36] And she seemed trustworthy so I did whatever she said.\n[28:37 --> 28:38] And we had sex.\n[28:39 --> 28:41] Everybody. And Jensen Wong was there.\n[28:41 --> 28:43] So I don't know why it's broken to answer your question.\n[28:45 --> 28:48] Did you see a third affair? Is it the Jensen? I know.\n[28:48 --> 28:50] Well, okay, look, it's not gonna work.\n[28:51 --> 28:54] Um, today is what I'm picked.\n[28:55 --> 28:57] The thing I'm picking up on is that this is not gonna work today\n[28:58 --> 29:02] without resetting the computer and just and then I'll be breaking November again.\n[29:03 --> 29:07] I haven't tried turning it off and on again actually in the context of this stream\n[29:08 --> 29:12] which I will do after the stream I guess and after the after everything.\n[29:13 --> 29:19] Um, I guess for now, let's just let's just listen to the sweet sounds of silence.\n[29:20 --> 29:23] I'll just trigger Harry Hardy music for every transition that we would normally have.\n[29:24 --> 29:25] Let's just do the news.\n[29:48 --> 29:52] Where the fuck am I?\n[29:54 --> 29:55] What the shit?\n[29:55 --> 29:57] Case what has happened?\n[29:57 --> 30:00] I'm invisible!\n[30:01 --> 30:05] Oh my God!\n[30:05 --> 30:08] What has happened to me?\n[30:09 --> 30:12] I know I'm in the room but I can't be seen.\n[30:13 --> 30:17] Why did every part of your life break, Case?\n[30:18 --> 30:20] Why are you a brahokin man?\n[30:21 --> 30:23] Uh-oh.\n[30:24 --> 30:28] Well, that's not ideal.\n[30:29 --> 30:39] What the fuck?\n[30:40 --> 30:41] This is some absolute bullshit.\n[30:41 --> 30:47] Okay well that's also how it is then um...\n[30:48 --> 30:52] I wonder if other things are totally broken.\n[30:53 --> 30:55] Windows why did you do this to me?\n[30:56 --> 30:57] Can I see the...\n[30:58 --> 31:00] Can I see...\n[31:00 --> 31:01] Hmm...\n[31:02 --> 31:05] Is Clive Clifton in the building?\n[31:05 --> 31:07] Clive are you available?\n[31:07 --> 31:08] I'm fucking available.\n[31:09 --> 31:10] I'm here.\n[31:10 --> 31:11] What's everybody else's excuse?\n[31:12 --> 31:14] I don't even have my glasses I can't see shit.\n[31:14 --> 31:17] I'm chewing gum like a fucking heel.\n[31:17 --> 31:19] Protect Clive?\n[31:21 --> 31:22] Well Chet's somehow dead.\n[31:23 --> 31:24] I'm not dead I'm invisible.\n[31:25 --> 31:29] Literally okay let me show you guys what's up.\n[31:29 --> 31:31] Chet I have banished you to the green room.\n[31:32 --> 31:34] What the hell I'm in a tiny screen in the green room?\n[31:35 --> 31:36] This is absolute horseshit.\n[31:36 --> 31:37] Get me out of here.\n[31:37 --> 31:39] I'm in the negative zone like superman.\n[31:40 --> 31:42] Ah I'm flying away.\n[31:42 --> 31:44] Take me back to that woman's body.\n[31:45 --> 31:49] That's very bizarre because it's literally on and outputting a signal amp.\n[31:49 --> 31:55] As you can see okay I'm gonna reset the fucking stream and just see if that does anything.\n[31:56 --> 31:59] So we'll be gone for a moment and then hopefully back.\n[32:00 --> 32:01] Trip is fine."
+}
