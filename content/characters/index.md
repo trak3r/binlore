@@ -34,7 +34,7 @@ Guest contributors, legal counsel, and special broadcast interviewees appearing 
 |---|---|---|
 | [[characters/abraham-lincoln|Abraham Lincoln]] | Spectral Contributor | High-pitched metaphysical projection of the 16th US President; calls out network Beyblade debts and rap-battles Hype Train |
 | [[characters/ai-rooney|AI Rooney]] | Cyborg Commentator (Retired) | Proprietary computational news cyborg modeled on Andy Rooney; delivered escalating 60-Minutes-style rants on audience-submitted topics until forced into retirement |
-| [[characters/baby|Baby]] | Downloaded Fill-In Co-Host | Deep-voiced baby program Case forgot on the studio computer; co-anchored during the Snap Camera outage while pitching a Kickstarter about Halloween |
+| [[characters/baby|Baby]] | Emergency Fill-In Co-Host | Deep-voiced toddler anchor Case claims he "downloaded" and forgot about; co-anchored during a studio camera outage while pitching a Kickstarter about Halloween |
 | [[characters/baseball-man|Baseball Man]] | Studio Guest | Bewildered guest booked instead of Pablo Sanchez who communicates exclusively in "the language of baseball" |
 | [[characters/brandons-mother|Brandon's Mother]] | Unseen Family Voice | Brandon's loud-mouthed mother who screams through his bedroom door during gaming broadcasts |
 | [[characters/chris|Chris]] | Probation Officer (*At the Movies*) | Trent's required on-set probation / parole officer and trailer-block co-host |

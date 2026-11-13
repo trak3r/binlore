@@ -3,7 +3,6 @@ title: Baby
 type: character
 aliases:
   - The Downloaded Baby
-  - The Baby Program
 first_seen: 2026-11-13
 status: minor contributor
 tags:
@@ -16,29 +15,29 @@ tags:
 
 ![Baby on Barely Informed News](https://github.com/trak3r/binlore/releases/download/media-assets/baby.jpg)
 
-**Baby** is a downloaded baby program that Case found sitting unused on the studio computer and pressed into service as a temporary co-host in [[episodes/2026-11-13-2927220320|2026-11-13]]. A Windows update had broken Snap Camera, which left Chet invisible and most of the newsroom offline. With nobody else available, Case remembered, "You know, I downloaded this a while ago. I could talk to this instead."
+**Baby** is the youngest anchor ever to sit in for *Barely Informed News*. He was called up as an emergency co-host in [[episodes/2026-11-13-2927220320|2026-11-13]], when a botched studio systems update knocked the camera network offline, rendered [[characters/chet|Chet]] invisible, and left the newsroom without staff. With no one else available, Case remembered an earlier hire he had forgotten about: "You know, I downloaded this a while ago. I could talk to this instead."
 
 ## Overview & Persona
 
-Baby looks like a wide-eyed toddler in a lilac shirt in front of a stone wall, with the program's free-tier watermark showing backwards in the corner. He speaks in a deep, very adult voice ("Well, you're a very adult-sounding baby"), and when Case asked him to at least sound like a baby, he answered, "I don't know how else to sound. I'm a baby."
+Baby is a wide-eyed toddler who broadcasts from a stone-walled remote studio in a lilac shirt. He has an unusually deep, adult speaking voice ("Well, you're a very adult-sounding baby"), and when Case asked him to at least sound like a baby, he answered, "I don't know how else to sound. I'm a baby."
 
-Baby resents his situation. Case downloaded him, forgot about him, and only activated him because everyone else was broken: "He trapped me in a computer. He forgot about me. I've just been sitting there as a setting that he's not even using." He objects to being called a "thing" and to being made to work at his age ("I'm an actual child. I'm being forced to do labor").
+By Case's account, he downloaded Baby roughly a year and a half ago and never got around to putting him on air. Baby's account is less flattering: "He trapped me in a computer. He forgot about me. I've just been sitting there as a setting that he's not even using." He objects to being called a "thing," and to working at his age at all ("I'm an actual child. I'm being forced to do labor").
 
-He also has a fundraising streak. He kept cutting in with mock public-service announcements urging viewers to call **1-800-NO-BREAKS** and give all their money "to a Kickstarter about Halloween," so that "maybe someday I'll grow up," or at least afford "something other than an empty juice box."
+He is also a relentless fundraiser. Throughout his debut he cut in with public-service announcements urging viewers to call **1-800-NO-BREAKS** and give all their money "to a Kickstarter about Halloween," so that "maybe someday I'll grow up," or at least afford "something other than an empty juice box."
 
 ## Debut Broadcast
 
-1. **Activation** (9:50): Case boots the program up mid-outage. Baby asks whether Case needs help covering the news, and introduces himself as "just a guy, just a normal guy."
-2. **Child labor PSA** (10:43): Baby declares that "your favorite streamer recently started using exclusively child labor just because everyone else in their life abandoned them," then pitches the Kickstarter.
-3. **Gum** (12:42): Baby turns up chewing gum ("It's a choking hazard"), which becomes a second PSA about a streamer feeding his child labor force exclusively gum.
-4. **The arrest** (15:03): When chat demands Case's arrest for breaking No Breaks November, Baby claims he is actually an undercover FBI agent and orders Case to the ground. Case's reply: "You're a baby that I left on a folder in my computer."
-5. **News co-anchor** (38:30): With [[characters/crum|Crum]] also on the feed, Baby co-anchors the Jensen Huang resignation story. He mirrors Case's lines like "a really incredibly quick Simon Says" ("I just like to mouth things because I'm a baby"), does a Macho Man impression, and keeps reminding everyone the Kickstarter is still available to follow.
-6. **Sent home** (50:02): Case asks Crum to give the baby a ride home. Baby lives in a data center.
-7. **Retirement** (51:22): Case promises Baby is going "to a safe home... where I don't have to ever activate this baby again," and explains that he downloaded "this thing" about a year and a half ago as a website or browser extension.
+1. **Called up** (9:50): Case brings Baby on air mid-outage. Baby offers to help cover the news and introduces himself as "just a guy, just a normal guy."
+2. **Child labor PSA** (10:43): Baby informs viewers that "your favorite streamer recently started using exclusively child labor just because everyone else in their life abandoned them," then pitches the Kickstarter.
+3. **Gum** (12:42): Baby turns up chewing gum ("It's a choking hazard"), prompting a second PSA about a streamer who feeds his child labor force exclusively gum.
+4. **The arrest** (15:03): When chat demands Case's arrest for breaking No Breaks November, Baby reveals he is an undercover FBI agent and orders Case to the ground. Case's response: "You're a baby that I left on a folder in my computer."
+5. **News co-anchor** (38:30): Alongside [[characters/crum|Crum]], Baby co-anchors the Jensen Huang resignation story. He mirrors Case's delivery word for word like "a really incredibly quick Simon Says" ("I just like to mouth things because I'm a baby"), performs a Macho Man impression, and reminds viewers the Kickstarter is still available to follow.
+6. **Sent home** (50:02): Case asks Crum to give Baby a ride home. Baby lives in a data center.
+7. **Retirement** (51:22): Case announces Baby is going "to a safe home... where I don't have to ever activate this baby again."
 
 ## Relationships
 
-- **[[characters/case-blackwell|Case]]**: His downloader, employer, and (in Baby's telling) captor. Case says outright that if he fixes Snap Camera, "we're never seeing this baby again."
+- **[[characters/case-blackwell|Case]]**: His employer, and in Baby's telling, his captor. Case has said outright that once the studio cameras are fixed, "we're never seeing this baby again."
 - **[[characters/crum|Crum]]**: Fellow fill-in co-host on the same broadcast and Baby's designated ride home to the data center.
 
 Not to be confused with [[characters/tommy-biglaw|Tommy Biglaw]], the network's infant attorney. Case noted he "already [has] enough babies on the stream."
@@ -47,7 +46,7 @@ Not to be confused with [[characters/tommy-biglaw|Tommy Biglaw]], the network's 
 
 | Episode | Notes |
 |---|---|
-| [[episodes/2026-11-13-2927220320|2026-11-13]] | Debut. Downloaded co-host during the Snap Camera outage; pitches the Kickstarter, arrests Case, and co-anchors the Jensen Huang story. |
+| [[episodes/2026-11-13-2927220320|2026-11-13]] | Debut. Emergency co-host during the studio camera outage; pitches the Kickstarter, arrests Case, and co-anchors the Jensen Huang story. |
 
 ## Notable Quotes
 
@@ -58,16 +57,17 @@ Not to be confused with [[characters/tommy-biglaw|Tommy Biglaw]], the network's 
 
 ## Notable Moments
 
-- **[9:50]** ([[episodes/2026-11-13-2927220320|2026-11-13]]): Case remembers the program exists and activates it.
+- **[9:50]** ([[episodes/2026-11-13-2927220320|2026-11-13]]): Case remembers Baby exists and brings him on air.
 - **[15:08]** ([[episodes/2026-11-13-2927220320|2026-11-13]]): Reveals himself as an undercover FBI agent and arrests Case for taking a break.
 - **[43:13]** ([[episodes/2026-11-13-2927220320|2026-11-13]]): Macho Man impression ("pretty good for a baby").
 - **[50:09]** ([[episodes/2026-11-13-2927220320|2026-11-13]]): Reveals he lives in a data center.
-- **[51:32]** ([[episodes/2026-11-13-2927220320|2026-11-13]]): Objects to Case calling him "this thing" while being shut down.
+- **[51:32]** ([[episodes/2026-11-13-2927220320|2026-11-13]]): Objects to Case calling him "this thing" on his way out.
 
 ## Open Questions
 
-- Whether Baby is really 36. Near the sign-off someone claims to be "a big time prank YouTuber because I look like a baby, but I'm 36."
-- Whether Case will ever activate him again once Snap Camera is fixed.
+- Whether Baby is really 36. Near the sign-off, someone on the feed claims to be "a big time prank YouTuber because I look like a baby, but I'm 36."
+- What exactly Case means when he says he "downloaded" him.
+- Whether Case will ever bring him back once the cameras are fixed.
 - Who gave him the gum.
 
 See also: [[../segments/banter|Banter]], [[../segments/news|News]], [[../storylines/no-breaks-november|No Breaks November]], [[index|On-Air Talent]].
