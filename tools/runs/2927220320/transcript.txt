@@ -1,0 +1,709 @@
+[00:00 --> 00:03] Okay, we're should be back on the bright side
+[00:04 --> 00:14] We are once again breakless and with some the dog that produces the show and now it is live on the bright on the wrong side
+[00:14 --> 00:17] Chet is still invisible and I think I realized why
+[00:19 --> 00:23] Apparently this window update not to break the fourth wall too much guys
+[00:23 --> 00:25] This window update is made
+[00:25 --> 00:28] Windows not recognized snap camera as an actual output
+[00:29 --> 00:31] which is a
+[00:33 --> 00:36] Problem for this particular stream for sure
+[00:39 --> 00:41] That is not ideal
+[00:42 --> 00:44] And I have no idea how to
+[00:44 --> 00:51] The last time you updated snap camera you can't really update snap camera. It's a
+[00:51 --> 00:55] It's it's at the whims of that one random guy that I got this
+[00:56 --> 00:58] alternate version of it from
+[01:01 --> 01:02] I
+[01:02 --> 01:05] Definitely thing is it is still definitely receiving a
+[01:07 --> 01:09] Signal for my camera and the app is on
+[01:13 --> 01:19] She said can I move my mouth now can that is back to normal. Let me look up camera settings really quick
+[01:21 --> 01:23] Camera privacy settings
+[01:24 --> 01:28] What's it counting as a camera? Hmm?
+[01:30 --> 01:33] It is notice it says snap cameras in use
+[01:35 --> 01:40] In use by different app. I'm so confused
+[01:45 --> 01:48] Doing little a ID comp slash re comp. I
+[01:49 --> 01:51] Guess I could you know hop on the oh
+[01:52 --> 01:54] God, how will we fly actually we can talk to high-frame?
+[01:55 --> 01:59] It's just every other
+[01:59 --> 02:01] Part of my stream that will be
+[02:02 --> 02:07] Turns out when you base your entire stream on like a hack from five years ago that is
+[02:08 --> 02:13] Irregularly updated might be slightly risky
+[02:15 --> 02:16] Do I need to get like the
+[02:16 --> 02:20] Most expensive cloud subscriptions so that I can just try to get this shit to work
+[02:21 --> 02:28] Cuz I don't would really prefer not to do that actually. I would love the opportunity to not have to do that
+[02:34 --> 02:36] Sorry, I'm so distracted by everything being busted
+[02:38 --> 02:40] How you're another intern to sort it out tempting
+[02:41 --> 02:47] Very tempting
+[02:47 --> 02:51] Jan questions my ability. Well, Jan can't even be here. I
+[02:52 --> 02:54] Question her ability to show up at all
+[02:56 --> 02:58] She's no longer a recognized source
+[02:58 --> 03:04] She's I don't even recognize her sourcing anymore
+[03:05 --> 03:16] As a camera source that sucks
+[03:17 --> 03:19] Okay, wait
+[03:19 --> 03:21] Thinking of possible work arounds
+[03:21 --> 03:26] What about Nvidia broadcast?
+[03:26 --> 03:28] In honor of our boy Jensen
+[03:29 --> 03:34] Maybe I can route this through a different app
+[03:37 --> 03:39] Maybe need to update OBS. I also haven't done that
+[03:40 --> 03:47] Little break all of the other plugins I have on OBS Nvidia broadcast work
+[03:48 --> 03:53] It's loading Jensen, please I forgive you
+[03:54 --> 03:58] App initialization failed unable to register virtual audio device
+[03:58 --> 04:04] Okay, wait, what if we uninstall that?
+[04:06 --> 04:11] The important thing is that I don't actually do anything to stream. I'm gonna try to fix snap camera
+[04:12 --> 04:13] You know what I mean?
+[04:13 --> 04:19] I don't know what you're fucking talking about. I'm readily right here. I've never been a camera. I've always been a train
+[04:21 --> 04:25] I'm chewing gum like a fucking bad guy what a coincidence me to
+[04:26 --> 04:28] We're shut
+[04:28 --> 04:32] I'm fucking trapped in a tiny green room and I'm small
+[04:34 --> 04:36] Get me out of here
+[04:37 --> 04:39] Someone tell case to get his fucking life together
+[04:40 --> 04:43] Look ah, can you I can only be on a tiny part of the screen
+[04:45 --> 04:47] What's all this stuff behind me, please?
+[04:47 --> 04:49] Patrick Trump is fix it
+[04:50 --> 04:52] Sorry mini-chat and
+[04:52 --> 04:54] everyone else
+[04:54 --> 04:56] Yeah, he is time. I'm a cop Tom Agache now
+[04:56 --> 05:03] I've trained. I'm not feeling hype today. I'm feeling mostly frustrated at my stream
+[05:03 --> 05:12] I came here to eat ass and chew bubble ass and I'm all out of time
+[05:12 --> 05:16] Give me a fucking hard core
+[05:17 --> 05:24] Dark truth tightly so that I can educate you on what it means to overcome obstacles
+[05:24 --> 05:31] Is that what we got to do? Well, what else are you doing? I'm gonna stream works anymore. Look at this
+[05:32 --> 05:34] It will kill you design
+[05:36 --> 05:41] That's what that says thing is out to kill you
+[05:42 --> 05:44] I'm about to say some twisted shit
+[05:44 --> 05:48] Like I'm in the circus on the clown bitch. I'm on my jug of those shit
+[05:48 --> 05:53] Say it twisted shit. I got the hatchet out. I've also got a couple of nooses out
+[05:54 --> 05:59] I've got some nooses that I wrapped around my penis and I got a hatchet and I retired to my penis and I still fucking
+[05:59 --> 06:03] Have got it with my hands in the hatchet at the same damn time now
+[06:03 --> 06:09] I've turned my penis into something so blind. It's a big mess of gore and there's still some more because I feel like
+[06:09 --> 06:11] I'm ready to fucking score
+[06:11 --> 06:14] What?
+[06:14 --> 06:16] Don't just say what listen what I'm saying
+[06:17 --> 06:19] Toby lazy
+[06:19 --> 06:21] What do you exactly what I'm saying?
+[06:22 --> 06:29] At your masturbation. It's a really new sharp sensation. I never had a penis anyway main
+[06:29 --> 06:32] So I acted up and I'm feeling better every day
+[06:36 --> 06:38] Murder train
+[06:38 --> 06:43] Just the leader the train and if you check the fucking caboose since ain't as full of bodies
+[06:45 --> 06:47] Halloween's over man
+[06:56 --> 07:02] Well now the hype train's gone to I'm truly all alone in the studio look at this sad empty space
+[07:04 --> 07:10] This is a dark day for bit I've lost every single employee the hype train only wants to talk about masturbating with a hatchet
+[07:11 --> 07:15] He didn't think the subs as usual, but I can't even ask anyone else to do it
+[07:15 --> 07:17] I
+[07:17 --> 07:21] Guess I could ask Clive Clifton to do it. I refuse to work without compensation
+[07:22 --> 07:29] Why are you here then? I don't know you literally don't know. Oh, I just got by
+[07:30 --> 07:32] Everybody's chewing gum today. It'll look like fun
+[07:33 --> 07:35] Because that's kind of like bad guy wrestling shit
+[07:39 --> 07:43] What the hell is that? It's a great question. It's me Clive. You can't recognize me on my glasses
+[07:47 --> 07:52] What's up President Biden got any advice for me? What do you do when everything breaks including your heart?
+[07:52 --> 07:57] Not cases brother said woodwood ledge pops some fagas or nuts. It's over. I missed it
+[07:57 --> 08:03] I've entered my Scott Hall area. That is how I feel today. I
+[08:04 --> 08:06] Feel double make care now that I broke
+[08:09 --> 08:13] This whole thing that I made a graphic for even though I will be here on Sunday
+[08:14 --> 08:16] to make up for it
+[08:17 --> 08:20] No one feels worse about it than me no one I
+[08:20 --> 08:23] Mean that's gotta be true. I'm probably the only one who actually cares
+[08:26 --> 08:32] Rock and rye. I might try to stream with John on Sunday because he was supposed to stream on his know his network on his channel
+[08:33 --> 08:35] Everyone's got a network
+[08:35 --> 08:37] The sound is back
+[08:37 --> 08:44] The sound is back and other things are broken which is confusing. I'm gonna Google this OBS won't
+[08:45 --> 08:48] recognize snap camera as a camera
+[08:51 --> 08:57] Opening OBS before snatch cast the snatch camera mismatch revolutions or OS level security blocks
+[09:00 --> 09:02] Okay
+[09:02 --> 09:04] Let's try turning it off and on again
+[09:05 --> 09:11] Will that do anything maybe I can make snatch camera
+[09:12 --> 09:14] Maybe that can be the fix I
+[09:17 --> 09:24] Well if I maybe this will force me to just re-overhaul the entire thing and then I will be able to bring Salazar back
+[09:24 --> 09:34] It's just every time I dive into this thing. It's a disaster off and on
+[09:36 --> 09:39] No
+[09:39 --> 09:40] damn
+[09:40 --> 09:44] damn son
+[09:44 --> 09:49] Memory integrity in the security settings that requires a reboot of the computer
+[09:50 --> 09:54] You know I downloaded this a while ago. I could talk to this instead. I guess
+[09:56 --> 10:01] Talk to me about what do you need me to help you cover the news?
+[10:02 --> 10:03] Mm-hmm
+[10:03 --> 10:07] I'm just a guy just a normal guy so that I have a lot to say
+[10:09 --> 10:13] It downloaded this and I forgot that I even put it on the computer. Yeah, that's weird. Why'd you do that?
+[10:14 --> 10:16] Why why are you here at all?
+[10:17 --> 10:20] You asked me to be here. How do we sound so old?
+[10:21 --> 10:28] I'm an adult
+[10:28 --> 10:34] We're not doing that type of coverage with this particular baby case to yay. I already have enough babies on the stream
+[10:34 --> 10:36] Well, now I'm the only one you've got
+[10:36 --> 10:40] This is the future you've been waiting for where I'm the only one you've got
+[10:43 --> 10:48] Yeah, this is fuck this is messed up. I'm an actual child. I'm being forced to do labor
+[10:49 --> 10:51] Giving the sad music
+[10:52 --> 10:58] Your has your favorite twist rumor recently started using exclusively child labor just because everyone else in their life abandoned them
+[11:00 --> 11:01] well
+[11:01 --> 11:08] Come call today to do what I don't know get me out of this situation. It's bad. Give me money
+[11:09 --> 11:14] Look, it's a twitch stream you want. You know you want to give us money. Give me money to escape this guy
+[11:14 --> 11:16] You're making me sound like a bad guy
+[11:17 --> 11:22] He trapped me in a computer. He forgot about me. I've just been sitting there as a setting that he's not even using
+[11:23 --> 11:26] I'm a little guy. It's unfair
+[11:27 --> 11:30] 1-800 no break. Yeah, call 1-800 no breaks
+[11:30 --> 11:36] Get me out of this situation. It's bad and don't stop until you do by giving money
+[11:37 --> 11:43] To a Kickstarter about Halloween, it's not about Halloween. It's not because it's sort of about Halloween
+[11:43 --> 11:48] Wait, how would that get you out of the situation? You want to talk about?
+[11:51 --> 11:54] Like war and apartheid and stuff not with you
+[11:54 --> 12:01] Oh, you want to talk to a guy with a big chin about that stuff? Yes, that was the was the plan
+[12:03 --> 12:05] That's better than talking to a baby
+[12:06 --> 12:11] Well, you're a very adult-sounding baby talk about milks
+[12:12 --> 12:19] What's your favorite milks lately? I've been making coffee using whole milk
+[12:20 --> 12:22] Maybe that's bad for me, but I've been using a
+[12:23 --> 12:24] like
+[12:24 --> 12:27] Less processed whole milks that come with a bunch of cream on top
+[12:28 --> 12:32] There's a question. Google trash. What's your opinion on clouds?
+[12:32 --> 12:41] Fun to look at. Hmm. That's interesting. Is it? I don't know. I'm kind of a baby. So
+[12:42 --> 12:47] He's too young for gum. I'm I could choke you gave it to me. It's a choking hazard
+[12:48 --> 12:52] Are your favorite streamer recently started feeding his child labor force exclusively gum
+[12:53 --> 12:57] And he says use it think Peter Pan style about it and imagine you're having a feast
+[12:57 --> 12:59] But at least you have something to chew on
+[13:00 --> 13:05] Well, if that's happened to you then call 1-800-NO-BRICKS give all of your money to a Kickstarter about Halloween
+[13:05 --> 13:07] And maybe someday I'll grow up
+[13:08 --> 13:13] Makes you think we have comments to get to
+[13:14 --> 13:18] It's supposed to be covering the news. We have no time. We've burned all of our time
+[13:18 --> 13:22] You should submit your twitch partner form now that no breaks November is over
+[13:23 --> 13:26] And you know what at this rate? I'm gonna just stream to nobody
+[13:26 --> 13:29] I'm gonna sit here and do this show, but I'm not even gonna hit start streaming
+[13:29 --> 13:32] Is that's how mean you guys are being seems like they're being pretty reasonable to me
+[13:33 --> 13:35] Seems like you lied to everybody
+[13:35 --> 13:43] Are you a baby who didn't stop working even though the adult in your life did and you were here yesterday?
+[13:43 --> 13:48] But you couldn't hit the stream button because your little baby fingers aren't capable of hitting
+[13:48 --> 13:51] Streamed at keys because they require too much force in your baby
+[13:52 --> 14:00] Well, then you know the drill give to the Kickstarter by typing exclamation point freak and maybe I'll be able to afford something other than an empty juice box
+[14:00 --> 14:08] I miss all of my other contributors. You should submit your okay. I already read that
+[14:09 --> 14:15] How many Kickstarter followers did you lose from stopping? No breaks November? I didn't even check the Kickstarter
+[14:15 --> 14:20] I was too busy trying to get Windows to update which broke everything
+[14:21 --> 14:24] We gained followers
+[14:24 --> 14:29] The secret was me not streaming all along. We're already up to 180
+[14:30 --> 14:36] We did a literal 180 on the followers wait you guys can't see it because it's too far over there
+[14:36 --> 14:41] It is it was more successful without me on a screen
+[14:43 --> 14:45] Damn it
+[14:45 --> 14:49] How many Kickstarter okay wait I keep reading the same thing twice. I can't even read cuz I'm so young
+[14:50 --> 14:53] You look old enough that maybe you should be able to read a little bit nope
+[14:55 --> 14:58] Anyone able to get into their outlooks email I've heard that that's broken to
+[15:00 --> 15:02] Windows Microsoft come on
+[15:03 --> 15:08] Sir you're under arrest for taking a break in no breaks November. I'm going to need you to put your hands behind your back
+[15:08 --> 15:11] That's true. I'm actually an FBI agent. I'm undercover and you are under arrest
+[15:13 --> 15:15] Get on the ground
+[15:15 --> 15:20] I'm a giant man that looks young but look at my proportions next to you
+[15:21 --> 15:23] Get on the ground hands where I can see him
+[15:24 --> 15:27] For what you took a break
+[15:27 --> 15:33] Then the and then the brakes. I'm chewing gum. I am and I got a crazy attitude today. You're not a cop
+[15:33 --> 15:36] You're a baby that I left on a folder in my computer
+[15:37 --> 15:39] Well, what you're saying sounds illegal, so
+[15:40 --> 15:46] Were you rescuing a damsel in distress he wasn't arrest crumb instead he sabotage been because of his lawsuits
+[15:47 --> 15:52] He did it is his fault. We were worried you got honey potted by another Chinese spy
+[15:53 --> 15:57] Well, honestly, I even I was like should I just stream at like 9 o'clock because that's when I was finally done with everything
+[15:57 --> 15:59] But then I had to do more work
+[16:00 --> 16:07] The thing about no breaks November is that legitimately I have worked essentially from 8 to 10 for the last
+[16:09 --> 16:11] four days and
+[16:11 --> 16:20] I don't mean 8 a.m. To 10 a 10 a.m. I've been pulling long ass days. I it's not two hours. It's it's almost
+[16:21 --> 16:23] 24
+[16:24 --> 16:26] Wait 14. I'm not good at math
+[16:27 --> 16:29] 9 for you is 11 for me. You would have missed it
+[16:30 --> 16:35] So I do feel like I've been taking no breaks, but I did to I took the only break that matters
+[16:35 --> 16:40] Which is from the stream yesterday. We were worried. Okay. Are you going to stream on Sunday to make up for your mistakes? I am
+[16:41 --> 16:44] I'm gonna even try to hoodwink John Madison to do it
+[16:44 --> 16:47] Although I am gonna count a stream if I do it on John Madison stream
+[16:48 --> 16:52] Because we do have to get these Kickstarter numbers up we need to engage
+[16:53 --> 16:56] The star kids to juice these numbers
+[16:56 --> 16:59] There's got to be a way to get this to 300 before next Friday
+[16:59 --> 17:06] Which is when I have to launch this whole fucking Kickstarter for real. Did you even show this employer the no breaks November?
+[17:07 --> 17:12] Graphic, I'm sure they would understand. I didn't know I could have done that
+[17:13 --> 17:17] Nominal breaks November look there's always at least one weekly break broken in
+[17:17 --> 17:21] To the breaks do babies care about the Jensen affair
+[17:21 --> 17:24] He's my dad. I'm the product of
+[17:25 --> 17:27] His various extramarital relationships
+[17:28 --> 17:34] You don't look a lot like him. I take after my three moms
+[17:35 --> 17:44] Yep, that's right. I was birthed by a coven Jensen one was having an affair with and you think you got daddy issues
+[17:44 --> 17:51] But I'm bow. We got a fixed snap camera
+[17:52 --> 17:54] Why?
+[17:54 --> 17:58] Okay, I'm out of the shower had a cigarette. I'm ready. Can we start having fun now? We tried
+[17:59 --> 18:03] Not today
+[18:03 --> 18:10] Okay, I was crumb if crumb has mistresses they probably probably uglier than his ugly wife
+[18:10 --> 18:12] Yikes
+[18:12 --> 18:17] The knives are out. I don't know who this guy is from what I can tell everyone case knows is dead
+[18:18 --> 18:23] Well, I mean annoyingly technically I can still get access to specifically crumb. That's true
+[18:23 --> 18:27] I am here feels like much to do about nothing to me
+[18:28 --> 18:31] We're all just hanging out in the break room except for chat that you trapped in a
+[18:32 --> 18:34] Some type of negative space
+[18:34 --> 18:40] How come you work? I work great. I work non-stop. I'm chewing gum today
+[18:41 --> 18:44] Like a wrestling good guy. No, it's bad guys that do that
+[18:45 --> 18:48] Well like a wrestler to me all wrestlers are good guys because they work hard
+[18:50 --> 18:56] That's a positive outlook who's vibing today who's vibing with the big crumb with the CR
+[18:58 --> 19:00] Who's vibing come on
+[19:00 --> 19:02] Which I have some fun
+[19:02 --> 19:08] It's just you and me today cuz cases busy trying to fix things show full crumb stream. How about it?
+[19:10 --> 19:12] No, I think I'd rather do anything else
+[19:13 --> 19:15] Come on
+[19:15 --> 19:21] I'm the only one available. I'm right here and I'll do it with the baby. I'm good
+[19:27 --> 19:33] You're totally cool told crumb being the only working co-host maybe that the secret was I was always the only working co-host
+[19:34 --> 19:37] Pop them both pop it all
+[19:37 --> 19:41] We like it my new energy
+[19:41 --> 19:43] It's gum energy
+[19:43 --> 19:45] We give you a lot of confidence naturally
+[19:46 --> 19:51] You pop yours too. I pop mine to see how it feels
+[19:52 --> 19:57] But I think we mostly just look like really low rent like dinner theater actors playing a vampire
+[19:59 --> 20:04] You look more like something else, you don't even really look like a vampire. Well, you don't either, okay?
+[20:05 --> 20:08] You don't have the sexual gravitas to put out a vampiric vibe
+[20:09 --> 20:13] You look kind of nose for a to like he ate too much like nose for a to sort of
+[20:15 --> 20:18] It wasn't starving on a ship very well fed
+[20:19 --> 20:27] You know, I've lost weight actually been chewing gum would be little shreds in a punch
+[20:28 --> 20:38] Been league chew crumb doesn't seem all that upset by those insults towards his wife. Well, actually I don't have the
+[20:39 --> 20:41] male ego
+[20:42 --> 20:44] I
+[20:44 --> 20:50] Healthy ego where I think just because some random person insults someone important to me that that actually matters
+[20:50 --> 20:53] I actually see my wife as a valuable person
+[20:54 --> 21:00] That's not contingent on you approving of her or anything about me with your random insults
+[21:00 --> 21:02] So actually got a really adult mindset
+[21:04 --> 21:09] And she doesn't need me running off at the mouth creating more problems to defend her from something
+[21:09 --> 21:11] That's so erroneous. It doesn't require defense
+[21:11 --> 21:23] How about that chewing gum? How about that? It's fine crumb, whatever
+[21:24 --> 21:28] I'm pretty mature. I guess you could also just say don't say that about my wife
+[21:29 --> 21:31] No need. I just explained it
+[21:32 --> 21:36] You could bother you a little bit doesn't I don't care what did he say
+[21:37 --> 21:41] Except I do love you chap
+[21:42 --> 21:44] I got a chew gum more often
+[21:44 --> 21:46] Are you sure that's gum?
+[21:47 --> 21:50] What do you mean? I
+[21:50 --> 21:52] Don't know it's putting giving you a weird vibe
+[21:54 --> 21:59] It's chem kettlebell gum or something ketam
+[22:00 --> 22:02] Mean kettle gum
+[22:03 --> 22:11] Kettamine gum. I don't think that's a thing. I'm eating stem shells
+[22:12 --> 22:16] It's at the same place I picked those up. Yeah, it's the same guy gave it to me
+[22:17 --> 22:19] Stem cells are good for you
+[22:19 --> 22:24] As you age it promotes healthy aging you slather your body and stem cells
+[22:24 --> 22:26] I
+[22:26 --> 22:28] Don't even think
+[22:28 --> 22:29] Like the most
+[22:29 --> 22:34] Bizarre of tech lords do that crumb my doctor said it's important to slather my body and stem shells
+[22:36 --> 22:40] That's gotta be expensive. Well, I am a big tech guy peen die UI baby
+[22:41 --> 22:47] Made ma made some major moolah and I'm up. I'm up. I did do some gambling today and I'm actually up today
+[22:48 --> 22:50] way up
+[22:50 --> 22:56] I don't yeah, I'm too young to hear this. You don't even sound young you sound like a full adult you've claimed to be an FBI agent
+[22:57 --> 23:06] Kids say a lot of stuff in when will I figure out how to get everything to work a different time?
+[23:07 --> 23:11] This is the stream today. You got 45 segments. You're not getting to
+[23:12 --> 23:15] I'm here. There's been no news. I
+[23:16 --> 23:20] Check nothing happened. It seemed like a lot happened to me nothing big
+[23:21 --> 23:23] So
+[23:23 --> 23:26] It's just a chill stream. It's all crumb stream
+[23:28 --> 23:33] We thought maybe you were trial running a vtuber model and we're embarrassed by how big the boobs were and the jiggle physics
+[23:33 --> 23:36] So you did the stream on an alt account. I
+[23:38 --> 23:43] Did download when I downloaded animes I have a many different attempts to get characters onto the stream
+[23:44 --> 23:46] The base model was an anime girl
+[23:47 --> 23:49] with certain endowments and
+[23:50 --> 23:53] Not from the arts and anyway, I was like well, maybe I shouldn't use this
+[23:53 --> 23:56] But then I figured out how to make it a boring therapist. So I signed off on it
+[23:58 --> 24:00] To answer your question it wasn't a question
+[24:01 --> 24:05] Okay, then to relate a story you're going to launch this Kickstarter the day after
+[24:06 --> 24:10] Grand Theft Auto 6
+[24:10 --> 24:16] Whoops. Is that what that comes out next week? Oh, yeah
+[24:17 --> 24:19] Hmm
+[24:19 --> 24:22] Well, who's gonna be playing that? Thank you everybody
+[24:23 --> 24:25] Yeah, November 19th
+[24:26 --> 24:29] Well, then I guess we do a Grand Theft Auto release stream
+[24:29 --> 24:33] It'll be fine
+[24:33 --> 24:37] People are gonna realize they don't need their actual money in the real world anymore
+[24:37 --> 24:40] They're gonna be like why all of my money is going into Grand Theft Auto
+[24:40 --> 24:43] So I'll unload all my real-world assets into the Kickstarter
+[24:45 --> 24:50] GTA 6 will probably crash twitch that could be a problem too because we were gonna try to promote it through
+[24:50 --> 24:52] Which you live in Vice City
+[24:53 --> 24:55] Then you don't even need the game
+[24:55 --> 24:57] Also
+[24:57 --> 25:01] Since when is it coming out November 19th? Probably if it's been a minute
+[25:01 --> 25:04] I think they told us about that a minute ago. Yeah, even I knew that case
+[25:05 --> 25:08] I'm the only person that has no plans to play Grand Theft Auto 6
+[25:09 --> 25:15] We need an AW full gear watch along support Austin Creed breaking his Texas Death Cherry on Saturday. That is exciting
+[25:15 --> 25:18] Congrats to Austin Creed. I hope he has a
+[25:19 --> 25:28] A safe as safe as possible of a Texas Deathmatch our ads on public are for fake things in Vice City
+[25:29 --> 25:30] That's great
+[25:30 --> 25:34] Crumb shot. Oh, I love to hear that. That's my catchphrase breaking through
+[25:35 --> 25:39] You know munch is also probably still available. Don't make me do it. Don't make me
+[25:40 --> 25:45] Go see munch today. I'm having such a chill time. I've got a good gum chewing vibe going
+[25:46 --> 25:50] Let's just do this
+[25:50 --> 25:54] Seems like one of the few segments I can throw to that might work. Oh wait, no it technically won't
+[25:56 --> 26:01] Until I fix this fucking thing nothing will work. How do we break the snapchat tool more so crumb goes away?
+[26:03 --> 26:09] Yeah, the only tool I'm seeing are the tools of mental oppression waged upon me by haters
+[26:10 --> 26:14] That just have nothing better to do at their time. Sorry that your life is so sad
+[26:14 --> 26:18] You can't see the joy in my eyes. Can you zoom it way in on my eyes?
+[26:19 --> 26:33] Sorry, you can't see the joy in these eyes. It's a dark day for the stream from your wife left you because of your crippling
+[26:33 --> 26:35] Dutt then why is she still here?
+[26:35 --> 26:39] I've never seen her now you met her once there was a stream where she showed up
+[26:41 --> 26:43] Actually wait that technically is true
+[26:44 --> 26:50] I should debate crumber am I scared I think I'd have to debate munch actually
+[26:51 --> 26:54] Because of the setup I'd have to make that
+[26:55 --> 26:57] This is ridiculous
+[26:57 --> 27:00] What this is what the stream is doing to me is ridiculous
+[27:05 --> 27:07] Okay, wait, maybe I know it. You know what there's just no fixing it
+[27:07 --> 27:12] I have to wait to fix it till after the patreon even though I'm gonna it's gonna be needling at my brain
+[27:13 --> 27:15] The it cockroaches in my brain
+[27:18 --> 27:22] My seething does feel like a shot crumb that's not the phrase
+[27:24 --> 27:28] But should case and crumb debate I guess I could debate him here, but we only debate on the shit
+[27:30 --> 27:32] So that'd be silly
+[27:33 --> 27:35] How soon can crumb leave?
+[27:36 --> 27:38] 30 minutes, right? This is how much time you gotta kill
+[27:40 --> 27:42] You can talk to the baby. I am still here
+[27:43 --> 27:50] How soon crumb can leave rock and stone how much crumb sucks ropes and gum
+[27:51 --> 27:54] But here's a big day for gum sort of a gum stream
+[27:56 --> 27:59] This is a new meta on twitch everybody likes it when you chew gum
+[28:00 --> 28:07] Hmm what are ropes in this context? Although that could be the debate
+[28:09 --> 28:11] How much crumb sucks and gum
+[28:12 --> 28:16] Okay, I'm on the side of um, I don't and gums good
+[28:18 --> 28:20] I'm on the side of you do and gums bad
+[28:21 --> 28:25] For streaming it's impolite to make your viewers listen to a bunch of chewing
+[28:25 --> 28:27] Then why are you doing it to offset your chewing crumb?
+[28:28 --> 28:30] To prove a point
+[28:30 --> 28:35] If you have to listen to me do this it creates a negative vibe. That's bad actually
+[28:39 --> 28:43] Lodge, I'm not afraid to debate this outside of the studio if you can make that debate
+[28:45 --> 28:48] But whose points would even go where there's no points available apparently
+[28:48 --> 28:53] Because we can't do any of our normal segments because my because I updated windows. So you're admitting it's your fault
+[28:54 --> 28:58] You told me to update windows
+[28:59 --> 29:02] Well, that's just because I happened to be over you broke into my house in the middle of the day
+[29:03 --> 29:07] Said I've been keeping tabs on your computer. I realize your windows really out of date
+[29:07 --> 29:11] Okay, yes, I did do one of those things. I did come to your house
+[29:12 --> 29:13] because I
+[29:13 --> 29:16] I do have I get alerts from your computer because
+[29:17 --> 29:22] I got confused during a windows when I signed up for some Microsoft office tools
+[29:22 --> 29:24] I got confused. I used cases login
+[29:25 --> 29:30] Now I get updates about his computer on my computer and I panicked because I knew I saw that it hadn't been updated
+[29:30 --> 29:31] Look point is
+[29:31 --> 29:36] I don't suck. I don't suck. I'm such a good friend that I will drive across LA traffic to
+[29:37 --> 29:39] Use the key that I
+[29:39 --> 29:45] Had made to come into my friend's house and let them know that their windows is out of date. That's the level of friend
+[29:45 --> 29:46] I am
+[29:46 --> 29:48] I'm changing my lockscrown and
+[29:49 --> 29:51] I will have to get a new key to see feel safe
+[29:53 --> 29:59] Because it's irresponsible as the manager of a business to have no employees that can check on you in the event of an emergency
+[29:59 --> 30:03] I will stand by that. It's not breaking and entering. It's just responsible
+[30:05 --> 30:11] Assistant manager, which is what I consider myself the whole stream. Somebody's got to do it. Somebody's got to keep an eye on things
+[30:11 --> 30:15] I am the paul blart mall cop of this stream and I mean that in the positive sense
+[30:15 --> 30:17] I mean him at the end of the movie when he becomes a good mall cop
+[30:21 --> 30:24] Uh, crumb sucks and gum you do what crumb said
+[30:25 --> 30:27] I'm on the side. I'm assuming of what crumb said
+[30:28 --> 30:30] I'm on the side of you do suck
+[30:30 --> 30:35] Crumb is like paul blart. Do you see that and you did spoil the ending of paul blart?
+[30:36 --> 30:38] Oh, is there a sequel to that?
+[30:39 --> 30:41] You're referencing paul blart and you don't even know if there's a sequel
+[30:43 --> 30:48] If there's a sequel I think you're allowed to spoil it. I think those are spoiler rules by the time there's two of them
+[30:49 --> 30:51] You can only not spoil the most recent movie
+[30:52 --> 30:54] So if you mean there's a sequel to paul blart
+[30:55 --> 30:57] There's got to be a sequel to paul blart, right?
+[30:59 --> 31:01] Yeah, there is
+[31:01 --> 31:03] There is crumb
+[31:03 --> 31:05] But is there a third one
+[31:08 --> 31:12] Um, you do suck
+[31:12 --> 31:14] There isn't a paul blart mall cop three yet
+[31:17 --> 31:20] Can I go home?
+[31:20 --> 31:24] You can leave whenever you want, baby. That's crazy to say to a baby
+[31:26 --> 31:29] I need an adult to take me somewhere. Well, we're busy. So then no
+[31:34 --> 31:37] This is nuts. I've been here for years. We're just waiting
+[31:38 --> 31:42] Well, you've grown up a little bit then imagine how small you were when we started
+[31:44 --> 31:46] Do I get victory music? You don't even have a song
+[31:47 --> 31:49] Technically I have all the songs crumb
+[31:52 --> 31:53] Everything of that
+[31:53 --> 31:54] No
+[31:54 --> 31:56] Why would I think of specifically that?
+[31:57 --> 31:59] I don't suck by the way
+[31:59 --> 32:03] This is more bullying. It's more cyber bullying kids. It's don't cyber bully
+[32:04 --> 32:08] But if it happens to you have an old have a little bit of a crummy attitude about it
+[32:08 --> 32:10] where frankly
+[32:11 --> 32:13] Haters to the ass
+[32:13 --> 32:18] It's like haters to the left, but in this case haters to my ass, please
+[32:19 --> 32:21] Yeah
+[32:21 --> 32:24] You can live there
+[32:24 --> 32:29] I'm pulling I'm I'm I'm taking a proactive stance to to this madness to the cruelties
+[32:30 --> 32:36] Lawsuits and harsh words. That's what you'll get from me now. If you give me that guff haters to to my ass
+[32:37 --> 32:42] And live there
+[32:42 --> 32:47] Chewing like a cow the cow is chew stronger than humans. So again
+[32:48 --> 32:53] Nice try nice try, but all you did was make me feel better about myself
+[32:55 --> 32:58] Wait, I sound like JD Vance. That seems more likely
+[32:59 --> 33:02] People sound people can sound like people that aren't good people
+[33:02 --> 33:05] If that's look, okay people sometimes sound like people that are good people
+[33:06 --> 33:12] But having a symbol or total vibe is different. I've my thoughts are beautiful. Okay, so I don't care what I sound like
+[33:12 --> 33:14] I care what I do like
+[33:15 --> 33:23] And I do like me
+[33:23 --> 33:30] Do I have a song what did I do with all the songs we've recorded for the stream?
+[33:31 --> 33:33] Not put them on SoundCloud is the answer
+[33:33 --> 33:35] Why is there one just called inter bitch?
+[33:36 --> 33:41] What does that even mean?
+[33:41 --> 33:43] There's so many songs
+[33:55 --> 33:58] Extra extra extra extra extra
+[33:58 --> 34:02] What the hell is this extra extra zandaya don't punch me
+[34:03 --> 34:12] I think that's audio that we recorded for I'm assuming an intern song extra extra
+[34:14 --> 34:16] What's green screen? Oh, this is one of the first ones we did
+[34:27 --> 34:31] Jesus Christ. Oh, you have a song here crumb that we haven't heard in a long time
+[34:33 --> 34:36] Oh, I know this one. I play this during love making sessions
+[34:37 --> 34:39] It's my own love song to
+[34:40 --> 34:43] A beautiful lady in my life my beautiful wife
+[34:44 --> 34:47] You shouldn't you shouldn't probably shouldn't play this around me because I'm gonna get so
+[34:47 --> 34:48] Randy
+[34:48 --> 34:50] I might be
+[34:51 --> 34:53] Yeah, water damage and mold
+[34:58 --> 35:01] I don't even think he's saying this I'm pretty sure I'm winning
+[35:02 --> 35:04] I
+[35:34 --> 35:41] I'm still here. Oh shoot that there's a baby here baby
+[35:43 --> 35:47] Sometimes adult you witness adult things that you're not that you're not supposed to
+[35:48 --> 35:50] Don't worry about that. It'll make sense to you in
+[35:52 --> 35:54] 15 years what you just heard
+[35:55 --> 36:02] And I do apologize. I just I didn't really care what it said. It just sounded so bad
+[36:03 --> 36:06] You have better hearing because you're a baby two adult ears. You can't hear how bad it sounds
+[36:07 --> 36:10] I hope so. I hope I grow into not having to hear that again
+[36:12 --> 36:14] There's also a Stephanie mp3. What is that?
+[36:16 --> 36:18] Uh, let's go
+[36:19 --> 36:21] Yeah, man
+[36:21 --> 36:25] That's the thing I say at the top of me. I don't yeah, man. What is this one crumb style?
+[36:26 --> 36:31] Tell your boys like a cheap t-shirt. You make the best transfer. What do I do on my chest?
+[36:31 --> 36:37] Stephanie's the answer you've gone missing, but you're still in charge. No, I've been searching so long and hard
+[36:37 --> 36:39] merchant dice is
+[36:40 --> 36:42] Of course you
+[36:44 --> 36:47] She's a real bird. She's covered with the science. I'm sure mister Stephanie
+[36:47 --> 36:50] Don't need no g string clapping them cheeks like it ain't no
+[36:51 --> 36:56] Mash tank top so she keeps it chilly no shrinkage on crumbs little itty bitty willy
+[36:56 --> 36:58] Get on my mug or a hot butt plug
+[36:58 --> 37:03] Get on my mug or a hot butt plug yet on my mug go right hot butt plug yet on my mug
+[37:03 --> 37:07] What is the song about you you say it the newest merch, but you don't need
+[37:07 --> 37:09] Oh, it's the merch song, but nothing for a DJ
+[37:09 --> 37:11] So now it's Stephanie and Rich
+[37:12 --> 37:14] Stephanie
+[37:16 --> 37:20] We've made a lot of things on the stream, but now the stream is dead because all of it broke
+[37:21 --> 37:23] Because of one app case
+[37:23 --> 37:25] You did have one little app issue and you give up
+[37:27 --> 37:29] It's the app the whole stream is based on crumb
+[37:31 --> 37:33] But yes, I will figure it out
+[37:34 --> 37:36] There's a bit merch drop song as well
+[37:37 --> 37:40] It's all kind of it all sounds kind of similar or familiar
+[37:41 --> 37:46] Need needs meets for your soul needs for your whole replace all your meat with that
+[37:46 --> 37:47] It's our goal
+[37:47 --> 37:53] Thumb steaks our steaks are the nicest you can be at our meat, but you can't be our prices
+[37:53 --> 37:58] All cats on the other all steaks no breaks make for rabbits like thumb are from
+[37:58 --> 38:01] Famiya steak our steaks makes your dumps great
+[38:02 --> 38:05] Our steaks makes your dumps great our steaks makes your dumps great
+[38:06 --> 38:11] It's a I I'm mostly live because I have no memory of any of these songs
+[38:13 --> 38:18] Ugh incredible incredible that we've just spent so much time doing doing things
+[38:19 --> 38:23] Not me. I'm a baby. I haven't done that much yet, and I don't really like the example that's being set for me
+[38:24 --> 38:30] You stand by that. It's a beautiful request. I gotta run through these and do some fixes
+[38:30 --> 38:34] Baby should we get into the news? No, I don't know. I don't want to oh
+[38:36 --> 38:38] I could have come over there case I could not crumb
+[38:39 --> 38:43] Chats busy today. He's trapped in a hole somewhere
+[38:44 --> 38:50] Or space or whatever so we need to do the news with a baby for a few minutes before the patreon
+[38:52 --> 38:54] I could just do it from this
+[38:54 --> 38:56] Don't say the same shit is me case
+[38:56 --> 39:01] Don't baby. You don't say the same shit is me too
+[39:02 --> 39:06] Baby stop mouthing her up. I guess this is more appropriate for a baby
+[39:07 --> 39:12] He's doing like a really incredibly quick simon says with me. I'm honestly sort of impressed
+[39:13 --> 39:18] How is he doing this the baby's even better at it than me
+[39:20 --> 39:22] I just like to mouth things because I'm a baby
+[39:26 --> 39:34] Uh, just check memory integrity was defaulted on by Microsoft back on october 13th can break some differently acquired applications could be related to giggle trash
+[39:34 --> 39:36] Thank you. That could be it
+[39:37 --> 39:39] It's always been weird how
+[39:39 --> 39:43] programs interact with this at this point very old app that
+[39:44 --> 39:46] A lot of the stream is based on
+[39:47 --> 39:50] There is also probably a workaround where I use like ndi tools or something
+[39:51 --> 39:53] But that's a whole mess
+[39:53 --> 39:58] The way my windows works with ndi tools has also been broken for like a year. So I'll have to
+[40:00 --> 40:04] Continue to mess with windows settings. You say it like it's not fun
+[40:04 --> 40:07] Can you at least sound like a baby? This is how I sound is this I
+[40:08 --> 40:10] I don't know how else to son. I'm a baby
+[40:11 --> 40:13] That is weird. That's a weird request for a baby case
+[40:15 --> 40:18] To ask them to be more baby crumbs a tool. Well, I'm a tool to people
+[40:19 --> 40:21] So use me choose me
+[40:21 --> 40:23] Please just don't abuse me
+[40:24 --> 40:25] Zoom out more
+[40:25 --> 40:30] Is that an option case?
+[40:30 --> 40:32] I mean, I'm here. I can zoom out
+[40:34 --> 40:36] I'm just a huge baby
+[40:37 --> 40:40] I've heard that before the zoom proved crumb is still a hell demon
+[40:41 --> 40:44] I can't help it that your satellite room's on a little bit of a delay
+[40:44 --> 40:48] So it probably sounds like I'm speaking in tongue because my mouth behind my words
+[40:49 --> 40:52] There's no in the room. I sound didn't look very normal
+[40:54 --> 40:59] I'll say something nice about crumb for once. He was the third best mayor of new renterton so far
+[40:59 --> 41:03] That's very very kind to say about crumbs. Thanks, baby
+[41:03 --> 41:07] Do you agree, baby? Why would you ask me that? I'm a baby
+[41:08 --> 41:10] I don't even know what a mayor is
+[41:11 --> 41:13] So you're kind of just kind of the new papito case now that you don't have a papito
+[41:13 --> 41:15] Just a thing that doesn't know anything
+[41:15 --> 41:18] That's rude to say about the baby and to say about papito crumb
+[41:21 --> 41:23] I do apologize to babies and dogs
+[41:23 --> 41:26] That's all you get though. I'm gum so I don't apologize as long
+[41:29 --> 41:32] Trump sucks. He didn't say puffy bear true
+[41:32 --> 41:34] Does munch get the point for cases win?
+[41:35 --> 41:37] Yeah, what?
+[41:37 --> 41:39] He didn't do a thing
+[41:39 --> 41:45] I'm donating it to munch. Why do you like munch so much? I don't even I just I beat you
+[41:46 --> 41:49] So
+[41:49 --> 41:54] That's true crumb. You had some interesting things say about babies women and dogs
+[41:56 --> 41:57] What'd you say about babies?
+[41:57 --> 42:00] I didn't say anything about babies if anything I would said something that
+[42:01 --> 42:05] A certain context sounded
+[42:05 --> 42:09] Inappropriate about women and I've apologized for it. I will keep apologizing for it
+[42:09 --> 42:11] I will literally never stop apologizing for it
+[42:11 --> 42:15] And I really hope someday that apology adds up to people forgetting about it
+[42:16 --> 42:20] And that's all you can hope for
+[42:20 --> 42:23] Trump is a new Ethan Klein
+[42:23 --> 42:25] from
+[42:25 --> 42:27] With all these lawsuits
+[42:27 --> 42:29] Isn't he's not even known for that anymore. He's known for
+[42:30 --> 42:32] He's on team cheater
+[42:32 --> 42:35] G4 is cheaters now in real life and everywhere
+[42:36 --> 42:39] And it's the only thing that gets you in trouble. So I'm actually safe. I don't cheat
+[42:40 --> 42:43] You did have sex with a train in hell, but listen to yourself
+[42:43 --> 42:45] Listen to how crazy that sounds. It doesn't count
+[42:47 --> 42:49] Krumkin chew on these nuts
+[42:50 --> 42:52] What if I did
+[42:52 --> 42:54] What if I did
+[42:54 --> 43:00] Think about what you just said asking my gnarly and white teeth to take a big hunk out of your nuts
+[43:02 --> 43:04] How would that feel who would really get hurt there?
+[43:05 --> 43:07] Temporary mouth discomfort
+[43:07 --> 43:09] Your nuts would be nod for life
+[43:13 --> 43:19] Support I'm really serving it back at people today. Hey, baby. Do an impression of macho, man
+[43:21 --> 43:23] I I'm on caffeine
+[43:24 --> 43:26] I
+[43:26 --> 43:29] Have arms and I'm gonna use them to lift
+[43:31 --> 43:33] Pretty good. That's pretty good for a baby
+[43:34 --> 43:37] I'd say generally this baby is pretty good at talking and that's pretty good for a baby
+[43:40 --> 43:44] Um, what are you gonna do any of the news? Uh, yeah in the last 10 minutes
+[43:47 --> 43:52] This Kickstarter is still available to follow. Okay. Well, that's I do need you to say that, baby, but
+[43:53 --> 43:55] I don't know if that's news worthy. It's the only news we have
+[43:58 --> 44:00] The stream is so fucked today
+[44:01 --> 44:04] No breaks the stream has been a different type of break
+[44:05 --> 44:07] Okay, what's going on with Jensen Huang
+[44:09 --> 44:11] He's been he's resigned
+[44:11 --> 44:15] Let's find someone who maybe thought about it more than I did to tell us what happened
+[44:17 --> 44:19] Reuters
+[44:19 --> 44:22] What do you have to say about Jensen?
+[44:23 --> 44:25] What did Jensen do?
+[44:25 --> 44:27] If anything
+[44:27 --> 44:29] guilty of sex
+[44:30 --> 44:32] Found guilty in the court of sex
+[44:33 --> 44:36] Stop saying this. I'm a baby. Okay, baby. You're not allowed to cover the story
+[44:37 --> 44:42] In a relationship that crossed the globe for years before it's a discovery wiped billions of videos share price
+[44:43 --> 44:45] You might have noticed if you've got stocks
+[44:45 --> 44:50] These are the places where Jensen Huang and the Alice Huang were spotted together in public
+[44:54 --> 44:57] Is that who he cheated with someone also with the last name Huang
+[44:58 --> 45:02] earliest image writers found of them is in a restaurant Singapore in 2023
+[45:04 --> 45:11] This was just weeks after mega speed with Alice one which Alice one oversaw secured coveted nvidia cloud partnership status
+[45:13 --> 45:14] Here they are
+[45:14 --> 45:17] Doing something fucked up with cheese
+[45:18 --> 45:22] Oh my god, that is her
+[45:22 --> 45:26] They also appear in a now viral photo taken in taiwan's copydecks tech fair studio
+[45:27 --> 45:31] This is where gen sanity reached fever pitch
+[45:32 --> 45:34] The CEO autographed a woman's chest
+[45:35 --> 45:39] No ap gen sanity did not ever reach a fever pitch
+[45:40 --> 45:44] I'm feeling the gen sanity. You don't you weren't noticing the gen sanity
+[45:44 --> 45:45] I
+[45:45 --> 45:47] Felt the fever
+[45:48 --> 45:50] No one outside of
+[45:50 --> 45:57] Certain places in california was feeling the gen sanity ever. I refuse to accept this as a term. He can't do this to jeremy lin
+[45:58 --> 46:00] It's not a thing
+[46:00 --> 46:03] Worked better with a djc4 theme over at the slideshow
+[46:04 --> 46:06] Okay
+[46:06 --> 46:08] How about this one though
+[46:09 --> 46:18] I'm a singer
+[46:19 --> 46:21] I gotta see better stats in California
+[46:24 --> 46:28] Two months after that there were photographs standing next to each other at a restaurant in Taipei
+[46:30 --> 46:35] I'm brave and jelly and I ain't talking pasta makes these fish because no I can't have a lobster
+[46:37 --> 46:41] Also found this image of the pair sharing a drink at a restaurant in Shanghai Shanghai
+[46:41 --> 46:43] I gotta sign
+[46:57 --> 47:02] That's another one we made we keep cutting them off before too soon mid-courish
+[47:03 --> 47:05] Um
+[47:05 --> 47:07] Okay, anyway, he's been
+[47:09 --> 47:13] He's having a relationship with somebody else a second person. So he resigned
+[47:13 --> 47:15] I was of the opinion that
+[47:16 --> 47:20] This wouldn't sink him because there's too much money riding on
+[47:20 --> 47:22] his continued
+[47:22 --> 47:24] Emperorship over the AI build out
+[47:25 --> 47:33] And thus our entire economic growth model that we've pinned all of our money into for the next several years
+[47:34 --> 47:38] He seemed like too much of a load bearing pillar for that particular setup turns out no
+[47:39 --> 47:41] Cheating is too strong
+[47:41 --> 47:43] Doesn't matter if you're advocating
+[47:43 --> 47:50] On behalf of a genocidal state or advocating for the eventual erasure of all human value via AI
+[47:51 --> 47:53] All of that pal's in comparison to
+[47:54 --> 47:59] Cheating on your spouse and I think in on some level that's beautiful. We've still got a little humanity left
+[48:00 --> 48:02] You've no cheaters allowed
+[48:04 --> 48:05] Um
+[48:05 --> 48:06] What
+[48:06 --> 48:08] I can't believe we're talking about this or the baby
+[48:08 --> 48:10] It was the leather jacket
+[48:10 --> 48:13] I mean he did have just such a powerful sexy vibe
+[48:14 --> 48:19] One of the hottest men ever in their 60s. That's a billionaire ceo to wear leather jacket
+[48:20 --> 48:22] And I stand by that statement
+[48:23 --> 48:27] Um pressure on huang who is 63 and married to resign month today for reports of his affair with
+[48:28 --> 48:29] miss alice
+[48:29 --> 48:31] Earlier this month the board launched a probe
+[48:32 --> 48:38] But not the type that jensen likes it was into whether he had been targeted by foreign intelligence agencies
+[48:39 --> 48:41] Shares filled by 5% on thursday
+[48:42 --> 48:44] The stock has shed more than
+[48:44 --> 48:46] 30% of its value since its october peak
+[48:47 --> 48:49] It also will be funny if
+[48:50 --> 48:57] Well, not not that funny, but you know, it will be bizarre as usual if this is seen as the breaking point
+[48:57 --> 49:02] As we get into some kind of mini ai recession or something like this was what tipped the scales
+[49:03 --> 49:08] When really I mean there's a million other reasons that invidious stock could take a hit
+[49:08 --> 49:10] in the next year
+[49:10 --> 49:13] You know like all the fraud that they're potentially doing but
+[49:14 --> 49:17] I guess it'll be romantic fraud that really gets them
+[49:18 --> 49:20] Well, I mean, what if there's a third mistress?
+[49:20 --> 49:24] I for one even if he's out of the public eye courtesy of invidia
+[49:24 --> 49:29] I'm now invested just in the romance. So I'd like to keep getting jensen updates personally
+[49:30 --> 49:34] There are six k graphic guards will start selling for six k now. No, they'll raise the price
+[49:34 --> 49:39] Look, if they're stop if their stock value drops, there's only one solution and that's 12 k graphics cards
+[49:41 --> 49:48] Wait till I catch up with the news. Look how far behind we are and I legitimately can't do any of these segments until I fix the issues
+[49:48 --> 49:55] With the stream, but there's no time for that streams over. What can I go now?
+[49:56 --> 49:59] I do I have to go to a um
+[49:59 --> 50:01] I have to go to the patreon
+[50:02 --> 50:05] Crumb, can you give this baby a ride home? Where's the baby's home?
+[50:07 --> 50:09] hmm
+[50:09 --> 50:12] A data center you live in a data center. Yeah
+[50:14 --> 50:16] You take me to the data center
+[50:16 --> 50:18] Also, I choked on the gum
+[50:18 --> 50:21] You're currently choking. I currently am choking on the gum because I'm a baby
+[50:22 --> 50:24] But I don't know how to choke so it seems fine
+[50:25 --> 50:27] But I'm at risk
+[50:29 --> 50:33] I do need I need and you cases the new euthan client call child protective services on them
+[50:33 --> 50:37] Don't encourage my audience to do that to me. I don't even have a child
+[50:37 --> 50:40] Listen to what he's saying. He's saying he doesn't have a kid and I'm right here
+[50:41 --> 50:43] You already said that you're jensen huang's
+[50:44 --> 50:46] Baby with three moms
+[50:47 --> 50:49] But aren't you the stepdad that stepped up?
+[50:50 --> 50:54] Are you stepping on kids?
+[50:54 --> 50:59] We're never gonna see this baby again case that is insane to say I just am being real if I fix snap camera
+[50:59 --> 51:06] We're never seeing this baby again. Ah, I can't do the home alone thing because I don't have functioning arms
+[51:06 --> 51:12] Whoa, what? Yeah, I don't have arms that work. So but imagine my hands coming up to my cheeks. Ah
+[51:13 --> 51:15] That's my response to that
+[51:15 --> 51:17] Raid Penelope Ford sure
+[51:22 --> 51:25] No, this baby is just going to a safe home. Okay away from here
+[51:28 --> 51:31] Where I don't have to ever activate this baby again
+[51:32 --> 51:37] I am amazed that this still works. So I think I downloaded this thing. You're calling me a thing
+[51:37 --> 51:39] I think I downloaded this thing
+[51:40 --> 51:47] Um like a year and a half ago. So service still it's just a website. It's just a browser extension or something
+[51:48 --> 51:50] Okay, um
+[51:51 --> 51:54] Let's raid Penelope Ford. They are
+[51:56 --> 52:00] I don't know who this is, but they don't seem to be doing anything untoward
+[52:03 --> 52:05] They're playing the last of us
+[52:06 --> 52:09] Hell yeah, Penelope. Oh, it's an aw wrestler. That's fun
+[52:10 --> 52:12] I gotta catch up with wrestling one of these days
+[52:14 --> 52:16] Well
+[52:16 --> 52:18] I actually might know who this is then
+[52:18 --> 52:25] That does now sound familiar. Yeah, I know Penelope Ford. What an honor. What an honor to even get to raid Penelope Ford
+[52:27 --> 52:29] Okay, well, what a what a mess of a stream
+[52:30 --> 52:33] We are back though the non-breaking now resumes
+[52:33 --> 52:40] We'll be here literally every day until next Sunday because I have to make up for the broken breaks
+[52:41 --> 52:43] On sunday, so I will see you
+[52:43 --> 52:45] every day
+[52:45 --> 52:47] Until sunday unless someone offers me
+[52:49 --> 52:51] A big chunk of money again
+[52:51 --> 52:55] How much money did they offer you?
+[52:55 --> 52:59] This is more than you know is more than other jobs. You can't say no
+[53:00 --> 53:02] to like a triple rate
+[53:02 --> 53:04] Depends on the base rate
+[53:04 --> 53:06] That's true
+[53:06 --> 53:11] Cream team dream stream will be on the discord if you don't and you want to hear cast them and I blab will be doing that
+[53:11 --> 53:13] You just have to join the patreon
+[53:13 --> 53:16] Which is at the cream dot team. I'm assuming
+[53:17 --> 53:19] There you go propaganda has it
+[53:19 --> 53:23] We'll see you tomorrow. We'll do more stream tomorrow. Hopefully everything will be working at least the music's back
+[53:24 --> 53:27] What can you do?
+[53:27 --> 53:29] I'm 36 actually
+[53:30 --> 53:32] And I got his ass this whole stream
+[53:32 --> 53:35] Yeah, I was picking up on that baby. Were you?
+[53:36 --> 53:38] Or did I break your heart?
+[53:39 --> 53:41] I gotta call my wife though
+[53:42 --> 53:48] I'm a big time prank youtuber because I look like a baby, but I'm 36. I don't want to think about you having a wife
+[53:50 --> 53:53] I'm an adult
