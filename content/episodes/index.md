@@ -22,11 +22,11 @@ Complete stream archive tracked for *Barely Informed News*. Episodes are ingeste
     <div class="stat-label">Total Broadcast Lore</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">336</div>
+    <div class="stat-value">337</div>
     <div class="stat-label">Ingested & Extracted</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">13</div>
+    <div class="stat-value">12</div>
     <div class="stat-label">Pending Ingestion Backlog</div>
   </div>
 </div>
@@ -44,8 +44,8 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
   <div class="filter-group">
     <select id="status-filter">
       <option value="all">All Statuses (349)</option>
-      <option value="ingested">Ingested Only (336)</option>
-      <option value="backlog">Backlog Only (13)</option>
+      <option value="ingested">Ingested Only (337)</option>
+      <option value="backlog">Backlog Only (12)</option>
     </select>
     <select id="page-size">
       <option value="25">25 per page</option>
@@ -69,7 +69,7 @@ Search and filter the complete archive below. Detailed wiki pages exist for inge
     </tr>
   </thead>
   <tbody>
-<tr data-status="backlog" data-title="rebreakless november" data-date="2026-11-13" data-vod-id="2927220320"><td class="cell-date"><code>2026-11-13</code></td><td class="cell-title">ReBreakless November</td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2927220320</code></td><td class="cell-dur">53m</td><td class="cell-status"><span class="badge badge-backlog">⏳ Backlog</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2927220320" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a></td></tr>
+<tr data-status="ingested" data-title="rebreakless november" data-date="2026-11-13" data-vod-id="2927220320"><td class="cell-date"><code>2026-11-13</code></td><td class="cell-title"><a href="./2026-11-13-2927220320" class="internal"><strong>ReBreakless November</strong></a></td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2927220320</code></td><td class="cell-dur">53m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2927220320" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a></td></tr>
 <tr data-status="ingested" data-title="rebreakless november" data-date="2026-11-13" data-vod-id="2927191605"><td class="cell-date"><code>2026-11-13</code></td><td class="cell-title"><a href="./2026-11-13" class="internal"><strong>ReBreakless November</strong></a></td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2927191605</code></td><td class="cell-dur">32m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2927191605" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a></td></tr>
 <tr data-status="ingested" data-title="late shifts with @jonmatteson and @totallytimlol" data-date="2026-11-10" data-vod-id="2924492113"><td class="cell-date"><code>2026-11-10</code></td><td class="cell-title"><a href="./2026-11-10" class="internal"><strong>Late Shifts with @jonmatteson and @totallytimlol</strong></a></td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2924492113</code></td><td class="cell-dur">2h 47m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2924492113" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a> <a href="https://www.youtube.com/watch?v=OQyhU9rWfVo" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>
 <tr data-status="ingested" data-title="unimpeachable tuesday news" data-date="2026-11-10" data-vod-id="2925329547"><td class="cell-date"><code>2026-11-10</code></td><td class="cell-title"><a href="./2026-11-10-2925329547" class="internal"><strong>Unimpeachable Tuesday News</strong></a></td><td class="cell-vod"><code class="vod-pill twitch-id" title="Twitch VOD ID (use with ./binlore)">2925329547</code></td><td class="cell-dur">1h 41m</td><td class="cell-status"><span class="badge badge-ingested">✓ Ingested</span></td><td class="cell-watch"><a href="https://www.twitch.tv/videos/2925329547" class="watch-link twitch-link" target="_blank" rel="noopener noreferrer">Twitch ↗</a> <a href="https://www.youtube.com/watch?v=HT2Xm-4rcpk" class="watch-link yt-link" target="_blank" rel="noopener noreferrer">YouTube ↗</a></td></tr>

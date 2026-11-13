@@ -42,6 +42,7 @@ The commitment quickly became a running bit. Case slams a "No Breaks November" g
 | [[../episodes/2026-11-10|2026-11-10]] [2:44:48] | Wrapping a co-op gaming broadcast, Case notes tomorrow's show only exists because of No Breaks November and confirms daily ~4 PM broadcasts through the month. |
 | [[../episodes/2026-11-10-2925329547|2026-11-10]] [8:45] | [08:45] The 2026-11-10 edition ran roughly one hour ahead of a Kickstarter producer meeting, with Blackwell ruling the shortened telecast still counts toward the streak. |
 | [[../episodes/2026-11-13|2026-11-13]] [15:50] | [15:50] After a forced Windows update and a paid editing job cost him the prior night's telecast, Case breaks the daily streak, dubs the run 'Silent No Breaks November,' and vows to stream Sunday to make up for a Wednesday off. |
+| [[../episodes/2026-11-13-2927220320|2026-11-13]] [16:11] | [16:11] Case Blackwell admits the No Breaks November streak was broken and schedules make-up streams through Sunday. |
 
 ## Related Pages
 

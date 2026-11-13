@@ -1,0 +1,109 @@
+{
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "09:36",
+      "canonical_segment": "Banter",
+      "title": "Snap Camera Outage",
+      "notes": "Case Blackwell returns from a break to find Windows has broken Snap Camera, leaving Chet invisible and the studio short-staffed; Hype Train briefly appears before the feed is left mostly empty."
+    },
+    {
+      "start": "09:36",
+      "end": "17:44",
+      "canonical_segment": "Banter",
+      "title": "The Downloaded Baby",
+      "notes": "Case Blackwell talks with a baby-like downloaded program about child labor, Kickstarter funding, No Breaks November, and Grand Theft Auto 6."
+    },
+    {
+      "start": "17:44",
+      "end": "38:30",
+      "canonical_segment": "Banter",
+      "title": "Crum's Gum Meta",
+      "notes": "Crum appears as the only available co-host, chews gum, discusses his wife, stem cells, gambling, old songs, and claims he entered Case's home to check on Windows."
+    },
+    {
+      "start": "38:30",
+      "end": "49:48",
+      "canonical_segment": "News",
+      "title": "Jensen Huang Resignation",
+      "notes": "Case Blackwell and the baby program cover reports that Jensen Huang resigned amid an affair with Alice Huang, with analysis of Nvidia stock and the AI build-out."
+    },
+    {
+      "start": "49:48",
+      "end": "53:54",
+      "canonical_segment": "News",
+      "title": "Sign-Off and Make-Up Schedule",
+      "notes": "Case Blackwell plugs the Patreon, promises daily make-up broadcasts through Sunday, and closes with a raid."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "notes": "Anchor Case Blackwell anchored through a Snap Camera outage, covered Jensen Huang, and promised make-up No Breaks November streams.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "notes": "Debate analyst Crum appeared as the only available co-host, chewed gum, discussed his wife and gambling, and claimed he entered Case's home to update Windows.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "notes": "Hype Train briefly commandeered the feed with a frustrated freestyle before abandoning the broadcast.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Baby",
+      "notes": "A downloaded baby program served as Case's temporary co-host, demanding Kickstarter money and helping cover the Jensen Huang resignation.",
+      "canonical_name": "Baby",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "No Breaks November",
+      "beat": "[16:11] Case Blackwell admits the No Breaks November streak was broken and schedules make-up streams through Sunday.",
+      "timestamp": "16:11"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "29:17",
+      "entity": "Crum",
+      "fact": "Crum claims he used a self-made key to enter Case's home and check on Case's outdated Windows installation.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "40:30",
+      "entity": "Crum",
+      "fact": "Crum is cited as the third-best mayor of New Rennerton.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "51:28",
+      "entity": "",
+      "fact": "The baby co-host is identified as a website or browser extension Case downloaded roughly a year and a half earlier.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News returned from a break with Snap Camera offline, leaving the newsroom understaffed and forcing Case Blackwell to anchor with Crum and a downloaded baby program. The broadcast covered Jensen Huang's resignation and affair allegations while treating the technical outage as a live control-room emergency. Blackwell closed by plugging the Patreon, promising make-up No Breaks November streams through Sunday, and signing off with a raid.",
+  "_meta": {
+    "vod_id": "2927220320",
+    "model": "baidu/ernie-5.5-flash-preview:free",
+    "provider": "openrouter",
+    "prompt_chars": 60183,
+    "approx_prompt_tokens": 15045,
+    "transcript_lines": 99
+  }
+}

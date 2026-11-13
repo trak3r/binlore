@@ -49,6 +49,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-13-2927220320|2026-11-13]] | Debate analyst Crum appeared as the only available co-host, chewed gum, discussed his wife and gambling, and claimed he entered Case's home… |
 | [[episodes/2026-11-10|2026-11-10]] | debate analyst. |
 | [[episodes/2026-11-10-2925329547|2026-11-10]] | debate analyst. |
 | [[episodes/2026-11-07|2026-11-07]] | debate analyst. |
@@ -68,13 +69,13 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-08-26|2026-08-26]] | Serves as a self-described Democratic Party representative but balks at endorsing Mamdani; ultimately pressured into endorsing Munchcut for mayor. Attempts to defer the robotic gorilla execution with iron armor. |
 | [[episodes/2026-08-19|2026-08-19]] | Senior debate analyst who wanders into the news desk to compare himself to a bald mystic and claim proprietary ownership over an AI urine company concept. |
 | [[episodes/2026-08-08|2026-08-08]] | Senior debate analyst. Reveals his 26-year-old daughter Bethesda legally emancipated herself due to a disastrous pony delivery. Picks both Tobey Maguire and Tom Holland. Schedules the Crum Dick Punch for August 31st. Later pitches his out-of-print memoir 'Crum Fused' and offers to be an expert in holding it for people while they urinate. |
-| [[episodes/2026-08-04|2026-08-04]] | Senior debate analyst. Opposes Munch's anti-medicine stance, insists Blackwell see a doctor, and ultimately slams the segment-end button early to cut off Munch's ranting. |
 
 <details>
-<summary>Earlier appearances (209)</summary>
+<summary>Earlier appearances (210)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-08-04|2026-08-04]] | Senior debate analyst. Opposes Munch's anti-medicine stance, insists Blackwell see a doctor, and ultimately slams the segment-end button early to cut off Munch's ranting. |
 | [[episodes/2026-07-23|2026-07-23]] | Senior Debate Analyst. Brief vocal intrusion to push through the portal to hell and demand Case get well soon, before disappearing back into the ether. |
 | [[episodes/2026-07-17|2026-07-17]] | Senior debate analyst. Debated merch priority with Munch, recorded the Stephanie merch-drop rap with explicit pre-emptive marital fidelity disclaimer to his wife Belolia, appeared during the Chet therapy segment. |
 | [[episodes/2026-07-13|2026-07-13]] | Senior debate analyst arguing for the reinstatement of AI Rooney. Shares a bizarre, fabricated(?) origin story of his name involving a Crumbl cookie shop birth on a 12-inch party sub. |
