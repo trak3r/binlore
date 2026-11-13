@@ -40,8 +40,8 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 - **Crum is putting data centers in elementary school parking lots** ([[../episodes/2026-11-06|2026-11-06]]) — [YouTube](https://youtube.com/shorts/HzE_ucYgx-I) · [TikTok](https://www.tiktok.com/@binlore.wiki/video/7705079429038378254)
 - **Crum won't denounce the Greydwarf Brotherhood** ([[../episodes/2026-11-07-2922559914|2026-11-07]]) — [YouTube](https://youtube.com/shorts/i2cmRHPTZTM) · [TikTok](https://www.tiktok.com/@binlore.wiki/video/7705916760469409037)
 - **Crum was SO sure Munch would never go through with it** ([[../episodes/2025-06-17-SmtzHJfYna0|2025-06-17]]) — [YouTube](https://youtube.com/shorts/bCHCHvkRZpI) · [TikTok](https://www.tiktok.com/@binlore.wiki/video/7706181896924957965)
-- **Crum explains the internet** ([[../episodes/2026-11-10|2026-11-10]]) — [YouTube](https://youtube.com/shorts/lHDjQgMY0SI)
-- **Crum's wife has a massage meeting** ([[../episodes/2026-11-10-2925329547|2026-11-10]]) — [YouTube](https://youtube.com/shorts/rLnDpz0zLD8)
+- **Crum explains the internet** ([[../episodes/2026-11-10|2026-11-10]]) — [YouTube](https://youtube.com/shorts/lHDjQgMY0SI) · [TikTok](https://www.tiktok.com/@binlore.wiki/video/7707650632143916302)
+- **Crum's wife has a massage meeting** ([[../episodes/2026-11-10-2925329547|2026-11-10]]) — [YouTube](https://youtube.com/shorts/rLnDpz0zLD8) · [TikTok](https://www.tiktok.com/@binlore.wiki/video/7707651174710791437)
 
 <!-- clips:end -->
 
