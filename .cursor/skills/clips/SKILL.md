@@ -160,6 +160,7 @@ Then:
    - The thumbnail must be a clear frame of the character's face. Never use a chat overlay, game footage, a text card or a dark frame, even when its caption is punchy. Pick `--thumb-at` from these frames, and look at `thumbnail.jpg` before publishing.
 3. Read `captions.srt` against the transcript. Whisper mishears character names, so fix obvious errors and re-run with `--fix "wrong=>right"` (repeatable; the transcript is reused).
 4. Polish `post.md`: the YouTube Shorts title must stay at 100 characters or fewer and keep `#Shorts`. Write the TikTok and Reels captions in the show's voice. Keep URLs out of the TikTok caption: links in TikTok captions aren't clickable, so it is just the hook, `(fan clip)` and hashtags.
+   - Hashtags and YouTube tags are read without the joke around them, so never use one that could be misread as real or sensitive out of context: abuse, child labor, crime, drugs, violence, self-harm, or tags about children or babies (`#baby`, `#kids`), even when the bit is about a character like Baby. Stick to the show and genre tags (`#comedy`, `#improv`, `#satire`) plus neutral topic tags.
 5. Report the output folder path, the clip length, and the thumbnail (embed it as an image) to the user.
 
 `tools/clips/` is gitignored except `tools/clips/assets/`. Never commit rendered clips.
