@@ -188,7 +188,7 @@ Leave the external-links "one-time verification" notice alone; it can stay even 
 
 ### Steps
 
-1. Open `https://studio.youtube.com` and click Create > Upload videos, then select `clip.mp4` (the file dialog trick below works here too).
+1. Open `https://studio.youtube.com` in a new tab (see "Driving Chrome") and click Create > Upload videos, then select `clip.mp4` (the file dialog trick below works here too).
 2. On the Details page, set title, description and thumbnail ("Upload file"), answer the audience question, then click **Show more** and set paid promotion, AI disclosure, tags, the language field(s), caption certification and recording date. Category already defaults to Comedy.
 3. Click through Video elements and Checks, choose **Public**, and Save.
 4. Edit an existing video at `https://studio.youtube.com/video/<id>/edit`. Click **Save** (top right) after each group of changes and confirm the "Changes saved" toast before moving on. An accidental page reload discards anything unsaved.
@@ -198,8 +198,9 @@ Leave the external-links "one-time verification" notice alone; it can stay even 
 
 The user has declined "Allow JavaScript from Apple Events", so Studio is driven with clicks and keystrokes, not page JavaScript.
 
-- Navigate with AppleScript (wait about 8 to 10 seconds for Studio to load):
-  `osascript -e 'tell application "Google Chrome" to set URL of active tab of front window to "https://studio.youtube.com/video/<id>/edit"'`
+- Always open pages in a **new tab**; never navigate the tab the user last had focused (it may hold their own work). Wait about 8 to 10 seconds for Studio to load:
+  `osascript -e 'tell application "Google Chrome" to tell front window to make new tab with properties {URL:"https://studio.youtube.com/video/<id>/edit"}'`
+  Once you have opened your own tab for a task, you can keep using it for that task's later steps.
 - Click with the computer-use tools against the Chrome app target. Take a fresh screenshot before every click: coordinate tokens go stale quickly, and screenshots can lag a second or two behind the page.
 - Keystrokes must go through System Events, and **every keystroke script must activate Chrome and verify it is frontmost in the same script**. Otherwise keys can land in Cursor (this once pasted a file path into the chat and sent it):
 
@@ -257,7 +258,7 @@ The account is the fan account **@binlore.wiki** (signed in to the user's Chrome
 
 ### Steps
 
-1. Open the upload page with the red upload button at the top of the Studio sidebar (`https://www.tiktok.com/tiktokstudio/upload`), click Select video, and enter the absolute path of `clip.mp4` in the file picker (same trick as YouTube). Dismiss any "Got it" tips.
+1. Open the upload page (`https://www.tiktok.com/tiktokstudio/upload`) in a new tab (see "Driving Chrome"), click Select video, and enter the absolute path of `clip.mp4` in the file picker (same trick as YouTube). Dismiss any "Got it" tips.
 2. Replace the description (it defaults to the file name, `clip`) with the TikTok caption.
 3. Confirm with a screenshot that **Who can see this post** reads Everyone. If it doesn't, change it with the dropdown trick below.
 4. Set the cover, click Show more, and check the toggles in the table.
