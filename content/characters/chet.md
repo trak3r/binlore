@@ -43,6 +43,7 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-13|2026-11-13]] | Called in for the failed news desk, only to appear 'invisible' and stranded in a tiny green-room monitor. |
 | [[episodes/2026-11-07-2922559914|2026-11-07]] | science correspondent. |
 | [[episodes/2026-11-04|2026-11-04]] | science correspondent. |
 | [[episodes/2026-10-29|2026-10-29]] | science correspondent. |
@@ -62,13 +63,13 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2026-04-29|2026-04-29]] | science correspondent. |
 | [[episodes/2026-04-11|2026-04-11]] | science correspondent. |
 | [[episodes/2026-04-09|2026-04-09]] | science correspondent. |
-| [[episodes/2026-04-01|2026-04-01]] | science correspondent. |
 
 <details>
-<summary>Earlier appearances (98)</summary>
+<summary>Earlier appearances (99)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-04-01|2026-04-01]] | science correspondent. |
 | [[episodes/2026-03-27|2026-03-27]] | science correspondent. |
 | [[episodes/2026-03-24|2026-03-24]] | science correspondent. |
 | [[episodes/2026-03-17|2026-03-17]] | science correspondent. |

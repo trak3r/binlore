@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T13:06:32.062522+00:00",
+  "generated_at": "2026-11-13T12:42:17.596474+00:00",
   "thresholds": {
     "minor": 3,
     "recurring": 6,
@@ -296,7 +296,7 @@
     },
     "case-blackwell": {
       "name": "Case Blackwell",
-      "count": 277,
+      "count": 278,
       "episodes": [
         "2023-11-22",
         "2023-11-23",
@@ -574,7 +574,8 @@
         "2026-11-04",
         "2026-11-05",
         "2026-11-06",
-        "2026-11-10"
+        "2026-11-10",
+        "2026-11-13"
       ],
       "display_names": [
         "Case Blackwell"
@@ -1276,7 +1277,7 @@
     },
     "kendelle": {
       "name": "Kendelle",
-      "count": 203,
+      "count": 204,
       "episodes": [
         "2023-11-23",
         "2023-11-28",
@@ -1480,7 +1481,8 @@
         "2026-11-05",
         "2026-11-06",
         "2026-11-07",
-        "2026-11-10"
+        "2026-11-10",
+        "2026-11-13"
       ],
       "display_names": [
         "Kendelle"
@@ -1638,7 +1640,7 @@
     },
     "chet": {
       "name": "Chet (Chet Manscape)",
-      "count": 128,
+      "count": 129,
       "episodes": [
         "2023-11-28",
         "2023-11-30",
@@ -1767,7 +1769,8 @@
         "2026-10-10",
         "2026-10-29",
         "2026-11-04",
-        "2026-11-07"
+        "2026-11-07",
+        "2026-11-13"
       ],
       "display_names": [
         "Chet (Chet Manscape)"
@@ -2657,6 +2660,35 @@
         "Dr. Chath"
       ]
     },
+    "rob-alvey": {
+      "name": "Rob Alvey",
+      "count": 20,
+      "episodes": [
+        "2023-12-02",
+        "2023-12-31",
+        "2024-01-19",
+        "2024-02-02",
+        "2024-05-15",
+        "2024-06-05",
+        "2024-06-26",
+        "2024-07-25",
+        "2024-10-30",
+        "2025-03-07",
+        "2025-04-04",
+        "2025-06-11",
+        "2025-06-13",
+        "2025-09-10",
+        "2025-09-26",
+        "2025-10-10",
+        "2025-10-13",
+        "2025-10-18",
+        "2026-03-17",
+        "2026-11-10"
+      ],
+      "display_names": [
+        "Rob Alvey"
+      ]
+    },
     "jevrything": {
       "name": "Jevrything",
       "count": 19,
@@ -3020,6 +3052,19 @@
       ],
       "display_names": [
         "Jan"
+      ]
+    },
+    "clive-clifton": {
+      "name": "Senator Clive Clifton",
+      "count": 4,
+      "episodes": [
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-10"
+      ],
+      "display_names": [
+        "Senator Clive Clifton"
       ]
     },
     "jizzbo": {
@@ -3646,16 +3691,6 @@
       ],
       "display_names": [
         "Cleetance Mudbutter"
-      ]
-    },
-    "clive-clifton": {
-      "name": "Clive Clifton",
-      "count": 1,
-      "episodes": [
-        "2026-11-06"
-      ],
-      "display_names": [
-        "Clive Clifton"
       ]
     },
     "coach-mcgopp": {
@@ -4668,16 +4703,6 @@
         "Rip Laser"
       ]
     },
-    "rob-alvy": {
-      "name": "Rob Alvy",
-      "count": 1,
-      "episodes": [
-        "2025-10-13"
-      ],
-      "display_names": [
-        "Rob Alvy"
-      ]
-    },
     "robby-love": {
       "name": "Robby Love",
       "count": 1,
@@ -5076,19 +5101,6 @@
       ],
       "display_names": [
         "Zombie Dick Clark"
-      ]
-    },
-    "rob-alvey": {
-      "name": "Rob Elvie",
-      "count": 4,
-      "episodes": [
-        "2023-12-02",
-        "2025-03-07",
-        "2025-06-13",
-        "2025-09-26"
-      ],
-      "display_names": [
-        "Rob Elvie"
       ]
     }
   }

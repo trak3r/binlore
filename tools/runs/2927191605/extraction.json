@@ -1,0 +1,68 @@
+{
+  "segments": [
+    {
+      "title": "Silent No Breaks November: Total Audio Failure",
+      "canonical_segment": "Banter",
+      "start": "00:00",
+      "end": "29:13",
+      "notes": "A garbled sign-on collapses into a full audio meltdown. Case spends the entire block diagnosing why nothing can be heard, tracing it to a monitor-feed problem introduced by a long-overdue Windows update. He explains he missed the previous night's telecast to take a high-paying editing job, fields chat complaints about the broken 'breaks,' and amends the No Breaks November schedule. Kendelle walks through to model an outfit before heading out to a Blade Runner series premiere."
+    },
+    {
+      "title": "The Invisible Anchor (Signal Failure)",
+      "canonical_segment": "News",
+      "start": "29:13",
+      "end": "32:02",
+      "notes": "Case calls for the news desk only to discover he has gone invisible on his own feed. Chet is summoned but appears trapped and 'invisible' inside a tiny green-room monitor. Case resets the stream."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "notes": "Anchored through a total post-update audio failure, troubleshooting his monitor feed while amending the No Breaks November schedule.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "notes": "Walked through the studio to model an outfit before leaving for a Blade Runner series premiere.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "notes": "Called in for the failed news desk, only to appear 'invisible' and stranded in a tiny green-room monitor.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "No Breaks November",
+      "beat": "[15:50] After a forced Windows update and a paid editing job cost him the prior night's telecast, Case breaks the daily streak, dubs the run 'Silent No Breaks November,' and vows to stream Sunday to make up for a Wednesday off.",
+      "timestamp": "15:50"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "15:50",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell breaks the No Breaks November daily streak, rebranding the run 'Silent No Breaks November' after a Windows update and a lucrative editing job killed his stream audio; he commits to streaming Sunday to make up for a Wednesday break.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "A telecast crippled from the outset by a total audio failure, as Case Blackwell spent the better part of half an hour diagnosing a monitor-feed collapse he blamed on a long-overdue Windows update and a lucrative editing job that had cost him the previous night's broadcast. Kendelle passed through the studio to model an outfit before departing for a Blade Runner series premiere, while Blackwell quietly amended the No Breaks November commitment into 'Silent No Breaks November.' The block ended with the anchor discovering he had gone invisible on his own feed and Chet stranded in a green-room monitor, prompting an emergency stream reset.",
+  "_meta": {
+    "vod_id": "2927191605",
+    "model": "baidu/ernie-5.5-flash-preview:free",
+    "provider": "openrouter",
+    "prompt_chars": 34031,
+    "approx_prompt_tokens": 8507,
+    "transcript_lines": 59
+  }
+}
