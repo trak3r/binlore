@@ -35,6 +35,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-14|2026-11-14]] | Walked through the studio to settle a bob-cut vote and subbed into Friend Slap as the patron make-good. |
 | [[episodes/2026-11-13|2026-11-13]] | Walked through the studio to model an outfit before leaving for a Blade Runner series premiere. |
 | [[episodes/2026-11-10|2026-11-10]] | in-studio contributor. |
 | [[episodes/2026-11-07|2026-11-07]] | in-studio contributor. |
@@ -54,13 +55,13 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-06-19|2026-06-19]] | Lead anchor and in-studio contributor who periodically enters the broadcast for signature segments. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in birthday context, not actively speaking. |
 | [[episodes/2026-06-05|2026-06-05]] | Lead anchor and on-air contributor who walks through the studio for signature segments. |
-| [[episodes/2026-05-22|2026-05-22]] | in-studio contributor. |
 
 <details>
-<summary>Earlier appearances (190)</summary>
+<summary>Earlier appearances (191)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-05-22|2026-05-22]] | in-studio contributor. |
 | [[episodes/2026-05-12|2026-05-12]] | in-studio contributor. |
 | [[episodes/2026-05-02|2026-05-02]] | in-studio contributor. |
 | [[episodes/2026-05-01|2026-05-01]] | in-studio contributor. |

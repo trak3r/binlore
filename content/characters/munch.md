@@ -61,6 +61,7 @@ Since [[../episodes/2026-09-07|2026-09-07]], Munch has been a living, talking sk
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-14|2026-11-14]] | Won the air traffic control debate on an abolish-all-planes platform and collected the channel-point pot. |
 | [[episodes/2026-11-10-2925329547|2026-11-10]] | debate analyst. |
 | [[episodes/2026-11-07|2026-11-07]] | debate analyst. |
 | [[episodes/2026-11-06|2026-11-06]] | debate analyst. |
@@ -80,13 +81,13 @@ Since [[../episodes/2026-09-07|2026-09-07]], Munch has been a living, talking sk
 | [[episodes/2026-08-08|2026-08-08]] | Senior debate analyst. Picks Andrew Garfield as the best Spider-Man citing his 'gentle eyes' and 'long slender bod'. Torments Crum over his emancipated daughter and the impending gorilla punch. |
 | [[episodes/2026-08-04|2026-08-04]] | Senior debate analyst. Argues that refusing medical treatment for the ankle is brave, claims to maintain a private medical team to deprive others of healthcare, and promotes silver supplements and 'peptide spells' before exiting to remove his hearing aids. |
 | [[episodes/2026-07-16|2026-07-16]] | Senior debate analyst argues that Trump won the 2020 election by retaining his 'integrity,' using bizarre nipple-spike analogies. |
-| [[episodes/2026-06-29|2026-06-29]] | Mentioned as a possible matching shirt for the upcoming BIN merch drop ('a Munch shirt and a Crum shirt'). |
 
 <details>
-<summary>Earlier appearances (196)</summary>
+<summary>Earlier appearances (197)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-06-29|2026-06-29]] | Mentioned as a possible matching shirt for the upcoming BIN merch drop ('a Munch shirt and a Crum shirt'). |
 | [[episodes/2026-06-18|2026-06-18]] | Senior debate analyst. Disheveled silver hair. Defends improv as valid art form. Reveals eight years improv training (1991-1998) including class with Anchorman extra. Proud Democrat. |
 | [[episodes/2026-06-15|2026-06-15]] | Senior debate analyst, debates body positivity. |
 | [[episodes/2026-06-05|2026-06-05]] | Senior debate analyst with distinctive disheveled appearance and confrontational debate style. |

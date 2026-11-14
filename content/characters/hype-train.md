@@ -34,6 +34,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-14|2026-11-14]] | Commandeered the feed as the Hype Plane during the Duffy briefing and exhausted both fuel and rhymes. |
 | [[episodes/2026-11-13-2927220320|2026-11-13]] | Hype Train briefly commandeered the feed with a frustrated freestyle before abandoning the broadcast. |
 | [[episodes/2026-11-04|2026-11-04]] | musical interruption. |
 | [[episodes/2026-11-03|2026-11-03]] | musical correspondent. |
@@ -53,13 +54,13 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-08-13|2026-08-13]] | High-velocity musical and cultural correspondent. Delivers extended freestyle raps on 'turd,' 'money flossing,' 'Cheeto golf tee,' and hot money piss. Chat votes 99.9% it is indeed piss. Panther companion present but not heard. |
 | [[episodes/2026-08-08|2026-08-08]] | High-velocity cultural correspondent. Hijacks the broadcast after the word 'science' is uttered, rapping about living urine organisms being oppressed by flushing, then pivoting to raps about love existing in stars, bars, and explosions. |
 | [[episodes/2026-08-06|2026-08-06]] | High-velocity cultural correspondent. Commandeers the broadcast early but battles a malfunctioning synthwave widget ('visualization is not supported on my system') and a missing partner (his panther girlfriend). |
-| [[episodes/2026-08-04|2026-08-04]] | Sentient locomotive correspondent. Interrupts the pre-show to acknowledge subscribers, delivers a freestyle rap about losing his caboose, and returns later in the broadcast for additional beats. |
 
 <details>
-<summary>Earlier appearances (119)</summary>
+<summary>Earlier appearances (120)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-08-04|2026-08-04]] | Sentient locomotive correspondent. Interrupts the pre-show to acknowledge subscribers, delivers a freestyle rap about losing his caboose, and returns later in the broadcast for additional beats. |
 | [[episodes/2026-07-24|2026-07-24]] | Notably absent and described as 'still taking a nap' throughout the broadcast. A caller impersonates 'normal hype train' during the Streets segment; broadcast raid is sent to Hype Train at sign-off. |
 | [[episodes/2026-07-23|2026-07-23]] | High-Velocity Cultural Correspondent. Briefly attempts to hijack the intro but is forcefully rejected by Case in favor of addressing his injury, leading to Hype Train lamenting he was let to die. |
 | [[episodes/2026-07-20|2026-07-20]] | High-velocity cultural correspondent. Battle raps against Lincoln over bodily fluids and is forced to read subs after losing the rap battle. |
@@ -185,6 +186,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 ## Notable moments
 
 
+- **[48:03]** ([[episodes/2026-11-14|2026-11-14]]): Hype Train seizes the feed mid-briefing under the alias Hype Plane, a transportation-themed variant tied to the grounded-fleet story.
 - **[32:42]** ([[episodes/2026-09-02|2026-09-02]]): Hails from the 'crypto universe,' where Patrick is 'the Starfish guy,' sand is non-fungible, and Sam Bankman Fried is 'Sam Bankman Friend.' He was 'born in hell but raised in the crypto universe.'
 - **[14:09]** ([[episodes/2026-09-01|2026-09-01]]): Hype Train claims that every time another train car attaches to him, it counts as a pregnancy, and he gives birth to the new train cars and any 'skeleton' humans who may have died inside him due to 'lack of safety standards.'
 - **[23:29]** ([[episodes/2026-09-01|2026-09-01]]): Hype Train claims to have 'died via autotune,' 'like all the greats,' and notes this is his preferred method of death.

@@ -39,6 +39,7 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-14|2026-11-14]] | Hosted the remote dispatch out of hibernation, playing The Lion King on keyboard while managing his mother through the door. |
 | [[episodes/2026-11-04|2026-11-04]] | gaming correspondent. |
 | [[episodes/2026-10-29|2026-10-29]] | off-screen antagonist. |
 | [[episodes/2026-10-26|2026-10-26]] | gaming correspondent. |
@@ -58,13 +59,13 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 | [[episodes/2026-06-22|2026-06-22]] | Gaming correspondent conducting deep-dive playthrough of Operation Epic Furious Straight from his bedroom, frequently interrupted by his mother. |
 | [[episodes/2026-06-19|2026-06-19]] | Remote gaming correspondent providing retro gaming commentary and digital culture analysis. |
 | [[episodes/2026-06-15|2026-06-15]] | Gaming correspondent, plays random number game. |
-| [[episodes/2026-06-08|2026-06-08]] | Resident gaming correspondent. Remote from bedroom; battles N64 emulation, mother's screaming, and Glover's inverted controls. |
 
 <details>
-<summary>Earlier appearances (28)</summary>
+<summary>Earlier appearances (29)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-06-08|2026-06-08]] | Resident gaming correspondent. Remote from bedroom; battles N64 emulation, mother's screaming, and Glover's inverted controls. |
 | [[episodes/2026-06-05|2026-06-05]] | Gaming and digital culture correspondent broadcasting remotely from his bedroom studio. |
 | [[episodes/2026-05-29|2026-05-29]] | Gaming correspondent playing Boogerman with mother interruptions. |
 | [[episodes/2026-05-22|2026-05-22]] | gaming correspondent. |
@@ -99,6 +100,7 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 ## Notable moments
 
 
+- **[2:00:02]** ([[episodes/2026-11-14|2026-11-14]]): Brandon seals one of the holes in his bedroom door and lowers the gain on his mother's feed, a setting he confirms is saved.
 - **[1:38:32]** ([[episodes/2026-10-29|2026-10-29]]): Brandon's mother claims she 'killed that intern for you, Brandy baby.'
 - **[2:00:22]** ([[episodes/2026-08-26|2026-08-26]]): Completes *The Journey Home* demo to the final credits, navigating old-man birth sequences, Flappy Bird platforming, and sparkling afterlife states.
 - **[2:38:39]** ([[episodes/2026-08-08|2026-08-08]]): Brandon references his mother's Gooters wet chicken wings, noting she stored sodas inside 'big rubber socks' delivered by Pastor Joe.

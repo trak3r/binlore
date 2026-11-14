@@ -1,0 +1,242 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "00:53",
+      "canonical_segment": "News",
+      "title": "Cold Open: Pepito's Sign-On and Countdown",
+      "notes": "Executive Producer Pepito opens the telecast and counts the network in from the producer's chair before the anchor desk is seated."
+    },
+    {
+      "start": "00:53",
+      "end": "10:12",
+      "canonical_segment": "Banter",
+      "title": "Pre-Show: The Bob Cut Deliberation",
+      "notes": "Kendelle walks through the studio and puts a bob cut to a chat vote while Blackwell confirms audio is restored, promotes No Breaks November, and admits he lost this week's Patreon audio recording."
+    },
+    {
+      "start": "10:12",
+      "end": "12:10",
+      "canonical_segment": "Gaming",
+      "title": "Friend Slap: The Patreon Make-Good",
+      "notes": "Blackwell and Kendelle run Friend Slap as a substitute for the ruined patron recording; Blackwell insists the stakes require her in the room."
+    },
+    {
+      "start": "12:10",
+      "end": "13:54",
+      "canonical_segment": "Banter",
+      "title": "Casual Friday and the Standing Birthday Offer",
+      "notes": "Desk chatter about the casual dress day, an open offer to sing happy birthday to any viewer, and daily streaming through the following Sunday."
+    },
+    {
+      "start": "13:54",
+      "end": "48:03",
+      "canonical_segment": "News",
+      "title": "Nationwide Ground Stop: The Duffy Briefing",
+      "notes": "Blackwell carries the Department of Transportation and Homeland Security briefing live, walking through the overloaded legacy TDM switches, the 3,500-aircraft ground stop, the cyber-attack questions, and the administration's repeated demand for roughly $50 billion in emergency aviation funding."
+    },
+    {
+      "start": "48:03",
+      "end": "01:01:58",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Plane: A Transportation-Themed Takeover",
+      "notes": "Hype Train seizes the feed as the Hype Plane while the Duffy briefing runs out at 52:23, works through subscriber acknowledgments, then runs dry on fuel and rhymes; Blackwell offers a replacement beat and the feed is revived."
+    },
+    {
+      "start": "01:01:58",
+      "end": "01:03:48",
+      "canonical_segment": "Banter",
+      "title": "Community Subs and the Kickstarter Push",
+      "notes": "Blackwell thanks the five community subs, rules the month's breaks non-counting for No Breaks November, and checks Kickstarter follower totals against a 200-follower weekend target."
+    },
+    {
+      "start": "01:03:48",
+      "end": "01:16:46",
+      "canonical_segment": "News",
+      "title": "Chat News: Mushroom Kayak, Bobcat Rescue, and the Hippo Honeymoon",
+      "notes": "Chat-sourced items include a reported alligator that was a pool floaty, a mycelium kayak world record, a barbed-wire bobcat rescue, and an extended first-person account of a honeymoon hippo disembowelment, complete with a chat poll on what Kendelle would do with the intestines."
+    },
+    {
+      "start": "01:16:46",
+      "end": "01:22:10",
+      "canonical_segment": "News",
+      "title": "Hot Mic Down Under",
+      "notes": "The desk rolls an Australian broadcast package on the prime minister's hot-mic exchange about phone radiation, the energy minister's coffee giveaway, and a UN fossil-fuel tax proposal; Liliana is cued for notes."
+    },
+    {
+      "start": "01:22:10",
+      "end": "01:23:21",
+      "canonical_segment": "Banter",
+      "title": "Ground Stop Lifted, Coffee Desk Chatter",
+      "notes": "Blackwell confirms the ground stop has ended and the funding ask has drifted downward, then digresses into espresso and whole milk."
+    },
+    {
+      "start": "01:23:21",
+      "end": "01:25:45",
+      "canonical_segment": "Banter",
+      "title": "Interlude: Checking In On Tapas Time",
+      "notes": "A chat link sends the desk into a members-only gameplay feed, which Blackwell watches briefly before tallying the ten segments still owed on the rundown."
+    },
+    {
+      "start": "01:25:45",
+      "end": "01:37:20",
+      "canonical_segment": "Munch & Crum",
+      "title": "Munchin' Chrome: Is Air Traffic Control Overrated?",
+      "notes": "Munch argues planes are abominations and the money belongs in fast cars; Crum concedes complexity but backs the FAA overhaul. The channel-point prediction fails to resolve, Munch refuses to touch the touchscreen with skeleton fingers, and the pot is finally awarded to Munch."
+    },
+    {
+      "start": "01:37:20",
+      "end": "01:40:19",
+      "canonical_segment": "Banter",
+      "title": "Post-Debate Music Break",
+      "notes": "The outro music misfires, Crum is blamed for cutting it, and the desk drifts into sad-song scoring and a Moorish pork Monday bit."
+    },
+    {
+      "start": "01:40:19",
+      "end": "01:52:23",
+      "canonical_segment": "Amongst the Web",
+      "title": "The Power of Music, Ryan's Parallel Universe, and Pizza",
+      "notes": "Blackwell works the submission queue: a skydiving high-five, a love-song opener, a Friday the 13th clip, an AI-generated music album advertised by a chat regular, and a pizza-eating act. He closes the segment by declaring the album channel lost to him and reminisces about writing musicals."
+    },
+    {
+      "start": "01:52:23",
+      "end": "02:11:53",
+      "canonical_segment": "CryptoZeu$",
+      "title": "Brandon's Lion King Dispatch",
+      "notes": "Brandon reports in from two weeks of November hibernation, plays The Lion King on keyboard with cheat codes, and manages his mother's hallway interventions by lowering her gain and sealing a hole in the door before signing off with the headset still live."
+    },
+    {
+      "start": "02:11:53",
+      "end": "02:18:05",
+      "canonical_segment": "Banter",
+      "title": "Missing Interns and the First Grade Teacher",
+      "notes": "Blackwell hunts for absent interns, reads aloud a resignation note listing his failings, then takes testimony from his first grade teacher on his classroom bug-eating."
+    },
+    {
+      "start": "02:18:05",
+      "end": "02:21:18",
+      "canonical_segment": "News",
+      "title": "Sign-Off and Raid Wrap-Up",
+      "notes": "Blackwell closes the telecast, counts the month's breaks, previews the weekend schedule, and sends the broadcast out on a raid."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "notes": "Anchored the full telecast, carrying the FAA ground-stop briefing, chat news, and a channel-point prediction he could not resolve.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "notes": "Delivered the top-of-hour sign-on and countdown and was put on notice for the next day's birthday song.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "notes": "Walked through the studio to settle a bob-cut vote and subbed into Friend Slap as the patron make-good.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "notes": "Won the air traffic control debate on an abolish-all-planes platform and collected the channel-point pot.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "notes": "Took the pro-FAA side of the debate and took the blame for the broken outro music.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "notes": "Commandeered the feed as the Hype Plane during the Duffy briefing and exhausted both fuel and rhymes.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon",
+      "notes": "Hosted the remote dispatch out of hibernation, playing The Lion King on keyboard while managing his mother through the door.",
+      "canonical_name": "Brandon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Liliana Breathinschmit",
+      "notes": "Cued from the desk for notes during the Australian hot-mic package.",
+      "canonical_name": "Liliana Breathinschmit",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "No Breaks November",
+      "beat": "[01:02:19] Case rules the breaks taken during the ground-stop coverage do not count, keeping the month unbroken.",
+      "timestamp": "01:02:19"
+    },
+    {
+      "storyline": "Rennerton",
+      "beat": "[01:26:05] Case fixes Saturday afternoon as the standing rebuild slot, with Crum building under a chat-elected mayor.",
+      "timestamp": "01:26:05"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "48:03",
+      "entity": "Hype Train",
+      "fact": "Hype Train seizes the feed mid-briefing under the alias Hype Plane, a transportation-themed variant tied to the grounded-fleet story.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:49:50",
+      "entity": "",
+      "fact": "Case discloses that he wrote two original musicals, Trash Boy and a second he cannot name, and appeared in a high school staging of Fiddler on the Roof as Lazar Wolf.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:53:53",
+      "entity": "Brandon",
+      "fact": "Brandon confirms he hibernates through the start of each November as a 'juice cleanse, but for your brain.'",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:00:02",
+      "entity": "Brandon",
+      "fact": "Brandon seals one of the holes in his bedroom door and lowers the gain on his mother's feed, a setting he confirms is saved.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:16:38",
+      "entity": "",
+      "fact": "Case's first grade teacher appears on air to testify that he ate glue-trapped bugs all day in her classroom while making direct eye contact.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News devoted the bulk of its telecast to the nationwide FAA ground stop, carrying Transportation Secretary Sean Duffy's evening briefing in full as he blamed overloaded legacy switches, ruled out a cyber attack, and demanded roughly $50 billion in emergency funding from Congress. Hype Train interrupted the briefing as a transportation-themed variant before running out of both fuel and rhymes, and the debate desk later ruled air traffic control overrated in Munch's favor while the channel-point prediction sat unresolved. Chat news closed the news block with a record-setting mycelium kayak, a rescued Florida bobcat, and a honeymoon hippo attack, after which the remote gaming dispatch played The Lion King on keyboard with cheat codes.",
+  "_meta": {
+    "vod_id": "2928151227",
+    "model": "baidu/ernie-5.5-flash-preview:free",
+    "provider": "openrouter",
+    "prompt_chars": 116213,
+    "approx_prompt_tokens": 29053,
+    "transcript_lines": 333
+  }
+}
