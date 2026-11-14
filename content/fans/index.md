@@ -15,6 +15,7 @@ The chatters, moderators and superfans whose names, messages and creations keep 
 | [[fans/matt-liddell\|Matt Liddell]] | Crum's most loyal backer in chat, and the face on Case's first (temporary) tattoo |
 | [[fans/melody-von-torture\|Melody Von Torture]] | Built Case his own *Mega Man* game, drew the Barts, and was elected mayor of [[storylines/rennerton\|Rennerton]] |
 | [[fans/mr-smith\|Mr. Smith]] | Roll-call regular, six-time AI Rooney complainant, and self-declared most important VIP |
+| [[fans/propaganda\|Propaganda]] | VIP archivist (`propaganda_v2`) whose clips, chat lines and AI Rooney complaints keep landing on air — lore master number two |
 | [[fans/skymer\|Skymer]] | Subscriber of three-plus years who keeps summoning the president with bits and never misses a chance to go after Crum |
 | [[fans/teflon-ted\|Teflon Ted]] | Creator and maintainer of the [[bin-lore-wiki\|BIN Lore]] wiki |
 
