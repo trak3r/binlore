@@ -103,6 +103,7 @@ His style shifts as often as his name: earnest teen pop, a "dark and twisted" ph
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-14\|2026-11-14]] | Amongst the Web co-host; nothing is as powerful as music, and a Ryan's Parallel Universe AI album proves its creator has "lost track of what matters." |
 | [[episodes/2026-07-24\|2026-07-24]] | Amongst the Web co-host as "the Jimmary Thing"; plugs *45 Months*, *46 Months*, and *You're Part of the Problem*; reveals his diaphragm module. |
 | [[episodes/2026-07-17\|2026-07-17]] | News co-anchor as "Jevening"; three years of cryotherapy; 3,000 AI songs a day; wanders off to the bathroom mid-broadcast. |
 | [[episodes/2026-06-29\|2026-06-29]] | Amongst the Web co-host in his "Jam EFE" era; *Steam Shirt No Pants* listening party; whale-bone genitals. |
