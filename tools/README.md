@@ -227,7 +227,7 @@ binlore chat fetch
 binlore chat report            # or: binlore chat report 2026-11-10
 ```
 
-Each episode report lists every moment chat or the broadcast mentioned the wiki or lore (including `!lore` submissions, "BIN Lore bot" requests, and messages addressed to the wiki editor), tagged request / question / mention. Each entry shows the matching messages in bold among the surrounding chat, what was being said on air at the time, and a link to that moment in the VOD. The digest collects the requests and questions from every episode, newest first.
+Each episode report lists every moment chat or the broadcast mentioned the wiki or lore (including `!lore` submissions, "BIN Lore bot" requests, and messages addressed to the wiki editor), tagged request / question / shout-out / mention. A shout-out is the broadcast naming the wiki editor (Teflon Ted) on air; on-air "lore master" and "archivist" also count as wiki mentions. Each entry shows the matching messages in bold among the surrounding chat, what was being said on air at the time, and a link to that moment in the VOD. The digest collects the requests, questions and shout-outs from every episode, newest first.
 
 ### 6. Reclaim disk space (`binlore clean`)
 

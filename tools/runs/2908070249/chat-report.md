@@ -1,6 +1,6 @@
 # Wiki mentions in chat: 2026-10-22
 
-[Episode page](../../../content/episodes/2026-10-22.md) · [Twitch VOD](https://www.twitch.tv/videos/2908070249) · 1 requests, 0 questions, 2 mentions
+[Episode page](../../../content/episodes/2026-10-22.md) · [Twitch VOD](https://www.twitch.tv/videos/2908070249) · 1 requests, 0 questions, 0 shout-outs, 2 mentions
 
 Each entry is a moment where chat or the broadcast mentioned the wiki or lore. Matching messages are bold; the surrounding chat and what was being said on air give the context.
 

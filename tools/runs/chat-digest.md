@@ -1,8 +1,21 @@
-# Chat digest: wiki requests & questions
+# Chat digest: wiki requests, questions & shout-outs
 
-Wiki requests and questions from every archived Twitch chat (and the broadcast itself), newest episode first. Plain mentions are in each episode's report.
+Wiki requests and questions from every archived Twitch chat (and the broadcast itself), plus on-air shout-outs of the wiki editor, newest episode first. Plain mentions are in each episode's report.
 
 ## [2026-11-14](../../content/episodes/2026-11-14.md) ([full report](2928151227/chat-report.md))
+
+### [1:43:01](https://www.twitch.tv/videos/2928151227?t=1h42m41s) · shout-out · on air · on air: The lore master himself.
+
+> **On air (1:42:36):** What the fuck is that? That's the power of music. Do you see what I mean? It's more powerful than it can and even that one. Piracy top. Oh, God, it's so loud. You got taken out. It is Friday the 13th. Oh my God. The lore master himself. Well, technically that's Teflon Ted. Lore master number two or archivist. I'm not sure. Teflon Ted. Lore master number two or archivist. Propaganda is on the case with a throwback. 6.11. It's lower than the other one. But the music.
+
+- `1:42:55` MelodyVonTorture: !3
+- `1:42:55` giggletrash: !6
+- `1:42:56` matt_liddell: !5
+- `1:42:59` cardking_01: Love starts at the butthole
+- `1:43:00` skymyr: is that how the Ghost Writer died?
+- `1:43:00` jons_lost_brain_cell: !0
+- `1:43:06` MelodyVonTorture: also brb skateboarding and grabbing dinner someone vote for me just do 6 or 9
+- `1:43:40` cardking_01: A marrige came from this
 
 ### [2:15:50](https://www.twitch.tv/videos/2928151227?t=2h15m30s) · question · on air · skymyr: Thats the first line of Case's Wikipedia
 
@@ -110,6 +123,21 @@ Wiki requests and questions from every archived Twitch chat (and the broadcast i
 - `0:28:50` bonzaibullfrog: !c Nvidia's board full of people like his current wife and kids.  doesn't look good for Jensen
 - `0:28:54` giggletrash: The stock market is basically the same 5 companies buying and selling back and forth.
 - `0:28:56` propaganda_v2: @love_the_haight The wet goddess story made it to all streams
+
+### [0:33:13](https://www.twitch.tv/videos/2925329547?t=0h32m53s) · shout-out · on air · on air: Giggle Trash, thank you for the gifted sub to Teflon Ted. Thank you so much.
+
+> **On air (0:32:50):** However, if what it takes is a Chinese spy to finally set off the fire alarm, then maybe actually what we need to do is as usual, think our Chinese spies. How do you say thank you in Chinese? I forgot. You're a terrible Chinese spy. I know. That's why I'm stuck here. Giggle Trash, thank you for the gifted sub to Teflon Ted. Thank you so much. You're the Chinese spy we really need. Giggle Trash. I'll recruit everyone in chat to be my Chinese spies.
+
+- `0:32:36` ReverieWolf: They've been lossing money all this year
+- `0:32:36` bonzaibullfrog: hope it pops before dems take over
+- `0:32:40` propaganda_v2: I went to a food festival the other day, more than 60 percent of banners had that extreme AI font...this shit needs to die
+- `0:32:46` ReverieWolf: Across the board
+- `0:32:49` giggletrash: giggletrash gifted a Tier 1 sub to TeflonTed! They have given 454 Gift Subs in the channel!
+- `0:33:08` giggletrash: Tank You
+- `0:33:22` MSG1138: caseblJeffr caseblJeffr caseblJeffr
+- `0:33:25` giggletrash: Allegedly!
+- `0:33:32` TeflonTed: thanks you 🙏
+- `0:33:37` ReverieWolf: @propaganda_v2 AI food looks like shit though
 
 ### [0:57:21](https://www.twitch.tv/videos/2925329547?t=0h57m1s) · request · TeflonTed: Ten does not get a wiki page for
 

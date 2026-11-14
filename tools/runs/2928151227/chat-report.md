@@ -1,8 +1,21 @@
 # Wiki mentions in chat: 2026-11-14
 
-[Episode page](../../../content/episodes/2026-11-14.md) · [Twitch VOD](https://www.twitch.tv/videos/2928151227) · 0 requests, 1 questions, 0 mentions
+[Episode page](../../../content/episodes/2026-11-14.md) · [Twitch VOD](https://www.twitch.tv/videos/2928151227) · 0 requests, 1 questions, 1 shout-outs, 0 mentions
 
 Each entry is a moment where chat or the broadcast mentioned the wiki or lore. Matching messages are bold; the surrounding chat and what was being said on air give the context.
+
+## [1:43:01](https://www.twitch.tv/videos/2928151227?t=1h42m41s) · shout-out · on air · on air: The lore master himself.
+
+> **On air (1:42:36):** What the fuck is that? That's the power of music. Do you see what I mean? It's more powerful than it can and even that one. Piracy top. Oh, God, it's so loud. You got taken out. It is Friday the 13th. Oh my God. The lore master himself. Well, technically that's Teflon Ted. Lore master number two or archivist. I'm not sure. Teflon Ted. Lore master number two or archivist. Propaganda is on the case with a throwback. 6.11. It's lower than the other one. But the music.
+
+- `1:42:55` MelodyVonTorture: !3
+- `1:42:55` giggletrash: !6
+- `1:42:56` matt_liddell: !5
+- `1:42:59` cardking_01: Love starts at the butthole
+- `1:43:00` skymyr: is that how the Ghost Writer died?
+- `1:43:00` jons_lost_brain_cell: !0
+- `1:43:06` MelodyVonTorture: also brb skateboarding and grabbing dinner someone vote for me just do 6 or 9
+- `1:43:40` cardking_01: A marrige came from this
 
 ## [2:15:50](https://www.twitch.tv/videos/2928151227?t=2h15m30s) · question · on air · skymyr: Thats the first line of Case's Wikipedia
 

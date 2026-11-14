@@ -137,7 +137,11 @@ CHAT_WIKI_RE = re.compile(
     re.I,
 )
 # Whisper renders "BIN Lore bot" as "Ben Lorbott" and similar.
-ON_AIR_WIKI_RE = re.compile(r"\bwiki|binlore|\bbin ?lore\b|\bben ?lor(?:e|bot)|lore ?bot", re.I)
+ON_AIR_WIKI_RE = re.compile(
+    r"\bwiki|binlore|\bbin ?lore\b|\bben ?lor(?:e|bot)|lore ?bot|\blore ?master|\barchivist", re.I
+)
+# On-air call-outs of the wiki editor by name; Whisper sometimes hears "Tad".
+EDITOR_SHOUTOUT_RE = re.compile(r"\bteflon ?t[ae]d\b", re.I)
 REQUEST_RE = re.compile(
     r"\b(?:make|create|add|update|write|start|need|needs|deserve|deserves|give|gets?|getting)\b.{0,50}"
     r"\b(?:page|wiki|bio|lore)\b|\b(?:add|put) (?:this|that|it|him|her|them)\b|^!lore\b",
@@ -189,8 +193,11 @@ def wiki_threads(messages: list[dict], transcript: list[dict]) -> list[dict]:
         if CHAT_WIKI_RE.search(text) or to_editor:
             hits.append({"t": msg["t"], "source": "chat", "index": i, "kind": _kind(text)})
     for seg in transcript:
-        if ON_AIR_WIKI_RE.search(seg.get("text") or ""):
-            hits.append({"t": seg["start"], "source": "on air", "kind": _kind(seg["text"])})
+        text = seg.get("text") or ""
+        if EDITOR_SHOUTOUT_RE.search(text):
+            hits.append({"t": seg["start"], "source": "on air", "kind": "shout-out"})
+        elif ON_AIR_WIKI_RE.search(text):
+            hits.append({"t": seg["start"], "source": "on air", "kind": _kind(text)})
     hits.sort(key=lambda h: h["t"])
 
     threads: list[dict] = []
@@ -212,7 +219,7 @@ def wiki_threads(messages: list[dict], transcript: list[dict]) -> list[dict]:
             s for s in transcript if start - ON_AIR_BEFORE_SECONDS <= s["start"] <= end + ON_AIR_AFTER_SECONDS
         ]
         kinds = {h["kind"] for h in thread["hits"]}
-        thread["kind"] = next(k for k in ("request", "question", "mention") if k in kinds)
+        thread["kind"] = next(k for k in ("request", "question", "shout-out", "mention") if k in kinds)
         thread["on_air_hit"] = any(h["source"] == "on air" for h in thread["hits"])
     return threads
 
@@ -224,7 +231,11 @@ def _render_threads(threads: list[dict], vod_id: str, heading: str = "##") -> li
         if first:
             headline = f"{first['user']}: {first['text']}"
         else:
-            seg = next(s for s in thread["on_air"] if ON_AIR_WIKI_RE.search(s.get("text") or ""))
+            seg = next(
+                s
+                for s in thread["on_air"]
+                if EDITOR_SHOUTOUT_RE.search(s.get("text") or "") or ON_AIR_WIKI_RE.search(s.get("text") or "")
+            )
             headline = f"on air: {seg['text'].strip()}"
         headline = headline.replace("\n", " ")
         if len(headline) > 110:
@@ -251,12 +262,13 @@ def write_chat_report(slug: str, vod_id: str, run_id: str) -> Path | None:
     if not messages:
         return None
     threads = wiki_threads(messages, _load_transcript(run_id))
-    counts = {k: sum(1 for t in threads if t["kind"] == k) for k in ("request", "question", "mention")}
+    counts = {k: sum(1 for t in threads if t["kind"] == k) for k in ("request", "question", "shout-out", "mention")}
     parts = [
         f"# Wiki mentions in chat: {slug}",
         "",
         f"[Episode page](../../../content/episodes/{slug}.md) · [Twitch VOD](https://www.twitch.tv/videos/{vod_id}) · "
-        f"{counts['request']} requests, {counts['question']} questions, {counts['mention']} mentions",
+        f"{counts['request']} requests, {counts['question']} questions, {counts['shout-out']} shout-outs, "
+        f"{counts['mention']} mentions",
         "",
         "Each entry is a moment where chat or the broadcast mentioned the wiki or lore. Matching messages are bold; "
         "the surrounding chat and what was being said on air give the context.",
@@ -271,10 +283,10 @@ def write_chat_report(slug: str, vod_id: str, run_id: str) -> Path | None:
 def write_chat_digest(episodes: list[tuple[str, str, str]]) -> Path:
     """Cross-episode inbox of wiki requests and questions with context, newest episode first."""
     parts = [
-        "# Chat digest: wiki requests & questions",
+        "# Chat digest: wiki requests, questions & shout-outs",
         "",
-        "Wiki requests and questions from every archived Twitch chat (and the broadcast itself), newest episode first. "
-        "Plain mentions are in each episode's report.",
+        "Wiki requests and questions from every archived Twitch chat (and the broadcast itself), plus on-air "
+        "shout-outs of the wiki editor, newest episode first. Plain mentions are in each episode's report.",
         "",
     ]
     for slug, vod_id, run_id in sorted(episodes, key=lambda e: e[0], reverse=True):

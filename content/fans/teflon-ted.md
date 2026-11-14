@@ -23,11 +23,14 @@ He's a viewer, not a character, so this page is filed under [[fans/index|Fanatic
 | [[episodes/2026-03-19\|2026-03-19]] | 1:44:48 | Shouted out in [[segments/dj-newsic\|DJ Newsic]]'s raid-outro rap: "Bundlesprout, Teflon Ted, and everyone on God." |
 | [[episodes/2026-10-10\|2026-10-10]] | 16:55 | Case announces the wiki as the day's top story: "I believe Teflon Ted made a BIN wiki, which is crazy work, and I do feel like we need to check on it because it exists now." He and [[characters/liliana\|Liliana]] then tour it on air. |
 | [[episodes/2026-11-06\|2026-11-06]] | 31:13 | While pulling the wiki up again: "Teflon Ted, thank you for all your service, by the way." |
+| [[episodes/2026-11-10-2925329547\|2026-11-10]] | 33:13 | Case thanks [[fans/giggle-trash\|Giggle Trash]] for gifting Teflon Ted a sub. |
+| [[episodes/2026-11-14\|2026-11-14]] | 1:43:01 | In [[segments/amongst-the-web\|Amongst the Web]], Case greets propaganda_v2's throwback submission as coming from "the lore master himself," then corrects the record: "Well, technically that's Teflon Ted." Propaganda is demoted to "lore master number two, or archivist." |
 
 ## Notable Quotes
 
 - "I believe Teflon Ted made a BIN wiki, which is crazy work." — [[characters/case-blackwell|Case]], [[episodes/2026-10-10|2026-10-10]]
 - "Teflon Ted, thank you for all your service, by the way." — [[characters/case-blackwell|Case]], [[episodes/2026-11-06|2026-11-06]]
+- "The lore master himself. Well, technically that's Teflon Ted. Lore master number two, or archivist." — [[characters/case-blackwell|Case]], [[episodes/2026-11-14|2026-11-14]]
 - "Teflon Ted, thank you again for noticing the thickness of my beard." — [[characters/case-blackwell|Case]], 2025-07-17
 
 See also: [[bin-lore-wiki|BIN Lore on the broadcast]]
