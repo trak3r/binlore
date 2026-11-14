@@ -142,10 +142,38 @@ _CHARACTER_ALIASES: list[tuple[tuple[str, ...], str]] = [
 ]
 
 
+_character_name_index: dict[str, str] | None = None
+
+
+def _character_name_slugs() -> dict[str, str]:
+    """Slugified page ``title``, ``common_name`` and ``aliases`` -> character page slug."""
+    global _character_name_index
+    if _character_name_index is None:
+        index: dict[str, str] = {}
+        for path in sorted(CONTENT_CHARACTERS.glob("*.md")):
+            if path.name == "index.md":
+                continue
+            raw = path.read_text(encoding="utf-8")
+            if not raw.startswith("---"):
+                continue
+            try:
+                fm = yaml.safe_load(raw.split("---", 2)[1]) or {}
+            except yaml.YAMLError:
+                continue
+            names = [fm.get("title"), fm.get("common_name"), *(fm.get("aliases") or [])]
+            for n in names:
+                if n:
+                    index.setdefault(_slugify(str(n)), path.stem)
+        _character_name_index = index
+    return _character_name_index
+
+
 def resolve_character_slug(name: str) -> str | None:
     slug = _slugify(name)
     if (CONTENT_CHARACTERS / f"{slug}.md").exists():
         return slug
+    if slug in _character_name_slugs():
+        return _character_name_slugs()[slug]
     if slug in ("case", "chetah"):
         return {"case": "case-blackwell", "chetah": "chet-ai"}[slug]
     if "jazz" in slug and "shrimp" in slug:
