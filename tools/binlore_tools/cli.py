@@ -396,6 +396,31 @@ def cmd_clips_make(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_clips_youtube_auth(args: argparse.Namespace) -> int:
+    from .youtube_publish import authorize
+
+    authorize(port=args.port, no_browser=args.no_browser, force=args.force)
+    return 0
+
+
+def cmd_clips_publish_youtube(args: argparse.Namespace) -> int:
+    from .youtube_publish import publish_youtube
+
+    result = publish_youtube(
+        args.clip,
+        privacy=args.privacy,
+        dry_run=args.dry_run,
+        skip_thumbnail=args.no_thumbnail,
+        skip_captions=not args.captions,
+        no_wiki=args.no_wiki,
+        notify_subscribers=args.notify_subscribers,
+        force_channel=args.force_channel,
+    )
+    if result.get("video_id"):
+        print(f"\n✓ YouTube Short: {result['url']}")
+    return 0
+
+
 def cmd_clean(args: argparse.Namespace) -> int:
     targets = find_cleanable_runs(
         target_vod_id=args.target,
@@ -840,6 +865,57 @@ def build_parser() -> argparse.ArgumentParser:
     cmake.add_argument("--redownload", action="store_true", help="Re-slice the source even if cached")
     cmake.add_argument("--retranscribe", action="store_true", help="Re-run word-level transcription even if cached")
     cmake.set_defaults(func=cmd_clips_make)
+
+    cyauth = clips_sub.add_parser(
+        "youtube-auth",
+        help="One-time OAuth as binlorewiki@gmail.com for BIN Lore uploads (saves tools/youtube_api/token.json)",
+    )
+    cyauth.add_argument("--port", type=int, default=0, help="Localhost port for the OAuth redirect (0 = pick one)")
+    cyauth.add_argument(
+        "--no-browser",
+        action="store_true",
+        help="Print the auth URL instead of opening a browser (use with --port)",
+    )
+    cyauth.add_argument(
+        "--force",
+        action="store_true",
+        help="Accept a non-BIN-Lore channel (default: refuse and delete the token)",
+    )
+    cyauth.set_defaults(func=cmd_clips_youtube_auth)
+
+    cpub = clips_sub.add_parser(
+        "publish-youtube",
+        help="Upload a rendered clip folder to BIN Lore as a Public Short via the YouTube Data API",
+    )
+    cpub.add_argument(
+        "clip",
+        help="Clip folder (tools/clips/<date>-<slug>) or that folder's absolute path",
+    )
+    cpub.add_argument(
+        "--privacy",
+        choices=("public", "unlisted", "private"),
+        default="public",
+        help="Visibility (default public)",
+    )
+    cpub.add_argument("--dry-run", action="store_true", help="Parse post.md and print the API body without uploading")
+    cpub.add_argument("--no-thumbnail", action="store_true", help="Skip thumbnails.set after processing")
+    cpub.add_argument(
+        "--captions",
+        action="store_true",
+        help="Also upload captions.srt (off by default; burn-in captions are already in the video)",
+    )
+    cpub.add_argument("--no-wiki", action="store_true", help="Skip data/clips.json update and sync-clips")
+    cpub.add_argument(
+        "--notify-subscribers",
+        action="store_true",
+        help="Send a upload notification to channel subscribers (off by default)",
+    )
+    cpub.add_argument(
+        "--force-channel",
+        action="store_true",
+        help="Allow upload if the saved token is not the BIN Lore channel (default: refuse)",
+    )
+    cpub.set_defaults(func=cmd_clips_publish_youtube)
 
     clean = sub.add_parser("clean", help="Delete downloaded media files (audio/video) to reclaim disk space")
     clean.add_argument("target", nargs="?", help="VOD ID or Twitch URL (defaults to all completed runs)")

@@ -167,7 +167,7 @@ Then:
 
 ## Phase 3: Publish to YouTube (only when asked)
 
-The channel is the fan channel **BIN Lore** (binlorewiki@gmail.com), signed in to the user's Chrome. Every Short on it must match this standard, so a new upload looks like the existing ones (Munch `pLlQfMtdxJs`, Durf `YN2Iy3XGsSM`, cheese `4UPba5Z_K_g`):
+The channel is the fan channel **BIN Lore** (binlorewiki@gmail.com). Prefer the **YouTube Data API** path below; do **not** drive Chrome Studio for new Shorts unless the API is unavailable or the user asks for Studio. Every Short must match this standard (Munch `pLlQfMtdxJs`, Durf `YN2Iy3XGsSM`, cheese `4UPba5Z_K_g`):
 
 | Field | Value |
 | --- | --- |
@@ -176,68 +176,34 @@ The channel is the fan channel **BIN Lore** (binlorewiki@gmail.com), signed in t
 | Description | YouTube description block from `post.md` |
 | Thumbnail | `tools/clips/<date>-<slug>/thumbnail.jpg` |
 | Audience | No, it's not made for kids |
-| Paid promotion | No (a checkbox on older forms, a radio on newer ones) |
+| Paid promotion | No |
 | Altered or synthetic content / AI use | No |
 | Tags | Tags block from `post.md`: the base set (Barely Informed News, Case Blackwell, BIN Lore, comedy, funny, parody, improv) plus character, segment and topic tags |
-| Video language | English (United States) |
-| Title and description language | English (United States), when the form has the field (the newer upload form doesn't) |
-| Caption certification | This content has never aired on television in the U.S. |
+| Category | Comedy |
 | Recording date | The episode date (shown in `post.md`) |
-| License, category, comments, remixing | Leave the defaults (Standard YouTube License, Comedy, comments on, remixing allowed) |
 
-Leave the external-links "one-time verification" notice alone; it can stay even after the channel is phone-verified.
+There is no Shorts-specific API flag: a vertical video ≤3 minutes becomes a Short automatically.
 
-### Steps
+### API upload (default)
 
-1. Open `https://studio.youtube.com` in a new tab (see "Driving Chrome") and click Create > Upload videos, then select `clip.mp4` (the file dialog trick below works here too).
-2. On the Details page, set title, description and thumbnail ("Upload file"), answer the audience question, then click **Show more** and set paid promotion, AI disclosure, tags, the language field(s), caption certification and recording date. Category already defaults to Comedy.
-3. Click through Video elements and Checks, choose **Public**, and Save.
-4. Edit an existing video at `https://studio.youtube.com/video/<id>/edit`. Click **Save** (top right) after each group of changes and confirm the "Changes saved" toast before moving on. An accidental page reload discards anything unsaved.
-5. Report the video id and Studio link, then run the wiki sync.
+One-time auth (see `tools/youtube_api/README.md`): Desktop OAuth client JSON at `tools/youtube_api/client_secret.json`, then authorize as **`binlorewiki@gmail.com`** only (the command forces Google’s account picker and refuses any other channel):
 
-### Driving Chrome
+```bash
+./binlore clips youtube-auth
+```
 
-The user has declined "Allow JavaScript from Apple Events", so Studio is driven with clicks and keystrokes, not page JavaScript.
+Publish (reads `post.md` / `meta.json`, uploads Public, waits for processing, sets the thumbnail, updates `data/clips.json`, runs `sync-clips`):
 
-- Always open pages in a **new tab**; never navigate the tab the user last had focused (it may hold their own work). Wait about 8 to 10 seconds for Studio to load:
-  `osascript -e 'tell application "Google Chrome" to tell front window to make new tab with properties {URL:"https://studio.youtube.com/video/<id>/edit"}'`
-  Once you have opened your own tab for a task, you can keep using it for that task's later steps.
-- Click with the computer-use tools against the Chrome app target. Take a fresh screenshot before every click: coordinate tokens go stale quickly, and screenshots can lag a second or two behind the page.
-- Keystrokes must go through System Events, and **every keystroke script must activate Chrome and verify it is frontmost in the same script**. Otherwise keys can land in Cursor (this once pasted a file path into the chat and sent it):
+```bash
+./binlore clips publish-youtube tools/clips/<date>-<slug>/
+# optional: --dry-run  --privacy unlisted  --no-thumbnail  --no-wiki  --captions
+```
 
-  ```applescript
-  tell application "Google Chrome" to activate
-  delay 0.5
-  tell application "System Events"
-    set frontApp to name of first process whose frontmost is true
-    if frontApp is not "Google Chrome" then error "Chrome not frontmost: " & frontApp
-    keystroke "v" using {command down}
-  end tell
-  ```
+Report the printed Shorts URL and Studio edit link. Commit wiki changes only when asked. If `thumbnails.set` fails (phone verification), say so; the video is still live and the thumb can be set in Studio later.
 
-  Assign `frontApp` first; testing `name of first process whose frontmost is true` inline raises error -1700. Run these with full permissions. If auto-review blocks one, retry the same call with smart-mode approval.
-- Paste text by putting it on the clipboard first (`printf '%s' "..." | pbcopy`), then Cmd+V.
-- Before pasting, confirm with a screenshot that the target field has focus. Activating Chrome can leave focus in the address bar, and computer-use clicks on text fields don't take it back. To pull focus into the page, click a blank part of the page, then Tab or Shift+Tab to the field. Don't use `computer_type` in Studio fields: it sets the text without firing input events, so the page ignores it.
-- When a click result says it hit an "accessibility-text-target", it went to a text label or placeholder and did nothing on the page: it won't focus a field or select a dropdown option. Click a chevron or a radio circle instead, or use the keyboard.
+### Studio fallback (only if API auth is missing or the user asks)
 
-### Field tricks
-
-- **File dialogs, preferred route:** the pickers open in the clip's folder once it has been used. Run `computer_app_state`, find the file's `AXImage` under the picker's `AXSheet` (named like `thumbnail.jpg, 1,080 × 1,920`), and call `computer_app_action` with action `open` on it. It reports an AXError, but the file is selected and the upload starts; confirm with a screenshot. This needs no keystroke script, so auto-review doesn't block it. Clicks and double-clicks on files in the picker do nothing.
-- **File dialogs (video and thumbnail), fallback:** enter the file's absolute path straight into the macOS picker; never navigate folders or run a long keystroke script (auto-review blocks those). The picker runs in its own process, so computer-use keys and `computer_type` never reach it; send each key with a one-line System Events call while Chrome is frontmost. Click the upload button, `pbcopy` the absolute path, bring Chrome to the front, then send Cmd+Shift+G, Cmd+A, Cmd+V, wait about 1.5 seconds, Return, confirm with a screenshot that the file is selected, Return:
-  `osascript -e 'tell application "System Events" to keystroke "g" using {command down, shift down}'`
-  Sending Cmd+Shift+G with `computer_key` opens Chrome's find bar instead of the picker's path sheet. The find bar is harmless; leave it open (auto-review may block closing it), but it can hold keyboard focus, so confirm focus with a screenshot before the next paste.
-- **Keys inside Studio pages** (Tab, Shift+Tab, Cmd+V, Return) work with `computer_key` against the Chrome app target, with no script needed. Wait about a second before screenshotting; screenshots lag and can show focus where it was several keys ago.
-- **Focus resets:** toggling a checkbox can send focus back to the top of the upload dialog (the feedback button). From there the tags input is about 43 Tabs away, so it's often faster to set tags on the video's edit page.
-- **"We had trouble saving your video":** if the upload wizard's Save keeps failing, press Return to dismiss the alert, then navigate to `https://studio.youtube.com/channel/<channel>/videos/short` (Return accepts any "Leave site?" prompt). One of the retries may already have saved; check the row's visibility, then finish anything missing on the edit page.
-- **Description:** clicking the description box does not move focus out of the title (a paste lands in the title). Tab from the title past the suggested-hashtag buttons (about 7 Tabs with three suggested chips, fewer with fewer chips). The stop just before the box is its "?" help icon (a tooltip shows); one more Tab puts the cursor in the box, which shows its `0/5000` counter. Paste only once the counter is visible. After pasting, Cmd+Up then Tab closes the hashtag dropdown.
-- **Paid promotion and AI use:** the newer upload form asks both as Yes/No radio groups instead of checkboxes. Click the "No" circle in each.
-- **Tags:** clicking the tags input does not focus it, and `computer_type` on its accessibility element doesn't register. After clicking the AI-use "No" radio, Tab about 12 times until the tags "Learn more" link has the focus ring, then one more Tab into the input. Confirm with a screenshot, then paste the comma-separated tags with a trailing comma; each becomes a chip. If a paste goes nowhere, focus was elsewhere (often the find bar or a language dropdown): click the AI-use "No" radio again and redo the Tabs.
-- **Thumbnail "Upload file":** clicks on it hit a text target, and its AX element has no press action. Tab to it instead (from the description box: verification link, thumbnail "Learn more", then Upload file; it shows a dark border and a "?" icon) and press Space with `computer_key`.
-- **Visibility radios and recording date:** clicks on the Public radio hit a text target and `computer_set_value` doesn't take. Press Tab once from the Visibility step (focus lands on Private), then Down twice; the button changes from Save to Publish. For the recording date, Tab from the caption certification dropdown (two stops) and press Return to open the calendar; Space scrolls the page instead.
-- **Custom thumbnail limit:** after a few custom thumbnails in a day, "Upload file" opens a "One-time verification needed" prompt (phone verification). That's the user's call: press Cancel, then open the thumbnail's "⋮" Options menu (click the thumbnail first to reveal it) > **Select from video**, pick a frame showing the character's face, click Done, then Save. Tell the user the custom thumbnail can be uploaded from the edit page once they verify.
-- **Language dropdowns:** typing a name does not jump the list. Open the dropdown and click "English (United States)". If the list opens at the top instead of near "English", scroll it with `computer_scroll` (at most 20 per call; about 46 steps reach English).
-- **Caption certification:** open the dropdown by clicking its chevron (clicking its text does nothing). Clicks on the options don't select either, so press Down, then Return, to pick the second option, "This content has never aired on television in the U.S." Confirm it in a screenshot.
-- **Recording date:** open the picker and click the day in the calendar. Never type into the date field: typing a date and pressing Return reloaded the page and lost unsaved changes.
+Drive Chrome with computer-use against Studio: Create → Upload videos → fill Details from `post.md` → Public → Publish. Same field values as the table above. Caption certification ("never aired on US television") is Studio-only and can be skipped on the API path. Use a **new** Chrome tab; never hijack the user's last tab. Prefer AX `open` on the file picker's `clip.mp4` image when the picker is already in the clip folder; otherwise Cmd+Shift+G with the absolute path via System Events while Chrome is frontmost.
 
 ## Phase 4: Publish to TikTok (only when asked)
 

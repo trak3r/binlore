@@ -44,3 +44,7 @@ deno.lock
 tools/clips/*
 !tools/clips/assets/
 !tools/clips/assets/**
+
+# YouTube Data API OAuth (Desktop client + refresh token for BIN Lore uploads)
+tools/youtube_api/client_secret.json
+tools/youtube_api/token.json
