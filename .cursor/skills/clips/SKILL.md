@@ -1,6 +1,6 @@
 ---
 name: clips
-description: Find highlight-worthy moments in the latest processed Barely Informed News episode and turn the chosen one into a ready-to-post vertical short (TikTok, Instagram Reels, YouTube Shorts), and publish it to the BIN Lore YouTube channel (Public) or TikTok account (Everyone) when asked, then add it to the wiki's Clips sections. Use when the user types /clips, or asks for clips, highlights, reels, or shorts from an episode.
+description: Find highlight-worthy moments in the latest processed Barely Informed News episode and turn the chosen one into a ready-to-post vertical short (YouTube Shorts; also writes TikTok/Reels copy in post.md for later), and publish it to the BIN Lore YouTube channel (Public) when asked, then add it to the wiki's Clips sections. TikTok publishing is retired for now. Use when the user types /clips, or asks for clips, highlights, reels, or shorts from an episode.
 ---
 
 # Clips (Highlights / Reels / Shorts)
@@ -10,7 +10,7 @@ Two phases, with one user decision:
 1. **Propose**: read the latest episode, pitch exactly 3 candidate highlights, each with a link that lands on its hook (from `./binlore clips links`: YouTube, or Twitch while the YouTube copy is still processing), then STOP and wait for the user to watch them and pick. Watching the candidate on YouTube is the user's review of the raw footage.
 2. **Produce**: cut and tighten the window (`clips make --raw`), preview the 9:16 crop, render with `./binlore clips make`, polish `post.md`, and report the output folder. Only stop for the user to approve the raw cut if they ask to see it (see "Raw cut and timing").
 
-Distribution is manual by default: the user uploads the files. Only post when the user explicitly asks you to (see Phases 3 and 4), and then **upload YouTube Shorts as Public and TikToks as Everyone**. After every publish, record the clip on the wiki (see "Wiki sync" at the end). Before stating a post's visibility, check it in Studio; the user changes visibility themselves.
+Distribution is manual by default: the user uploads the files. Only post when the user explicitly asks you to (see Phase 3), and then **upload YouTube Shorts as Public** via `./binlore clips publish-youtube`. **TikTok publishing is retired for now** (see Phase 4) — still write TikTok/Reels blocks in `post.md`, but do not upload to TikTok or drive TikTok Studio unless the user explicitly reopens that work. After every YouTube publish, record the clip on the wiki (see "Wiki sync" at the end). Before stating a post's visibility, check it in Studio; the user changes visibility themselves.
 
 These are fan clips of someone else's show. Keep the fan-clip branding and the "Not affiliated with the show" line in post copy.
 
@@ -205,50 +205,20 @@ Report the printed Shorts URL and Studio edit link. Commit wiki changes only whe
 
 Drive Chrome with computer-use against Studio: Create → Upload videos → fill Details from `post.md` → Public → Publish. Same field values as the table above. Caption certification ("never aired on US television") is Studio-only and can be skipped on the API path. Use a **new** Chrome tab; never hijack the user's last tab. Prefer AX `open` on the file picker's `clip.mp4` image when the picker is already in the clip folder; otherwise Cmd+Shift+G with the absolute path via System Events while Chrome is frontmost.
 
-## Phase 4: Publish to TikTok (only when asked)
+## Phase 4: Publish to TikTok — **retired for now**
 
-The account is the fan account **@binlore.wiki** (signed in to the user's Chrome), uploaded through TikTok Studio on the web. The first post is Chet `7704398113158548749`.
+Do **not** upload to TikTok, drive TikTok Studio, or use an Android emulator for posting unless the user explicitly reopens TikTok publishing.
 
-| Field | Value |
-| --- | --- |
-| Who can see this post | **Everyone** (the default) |
-| Description | TikTok block from `post.md` (no URLs) |
-| Cover | Edit cover > Upload cover > `tools/clips/<date>-<slug>/thumbnail.jpg`. After posting, the pencil (edit) action on the content list reopens Edit cover, but only with a frame strip (no upload). Click a face frame, Save the dialog, then Save at the bottom of the page. Covers can be edited once a day, within 7 days of posting. |
-| When to post | Now |
-| Location | Empty |
-| Allow users to | Comment and Reuse of content, both left checked |
-| Disclose post content | Off |
-| AI-generated content | Off |
-| Audience control | Off |
-| Content check lite | On (it reports "No issues found") |
-| High-quality uploads, music copyright check | Leave the defaults |
+Still generate the TikTok (and Reels) blocks in `post.md` during Produce so copy is ready later. Keep existing `tiktok` / `tiktok_public` rows in `data/clips.json` as-is; do not add new TikTok ids while this is retired.
 
-### Steps
-
-1. Open the upload page (`https://www.tiktok.com/tiktokstudio/upload`) in a new tab (see "Driving Chrome"), click Select video, and enter the absolute path of `clip.mp4` in the file picker (same trick as YouTube). Dismiss any "Got it" tips.
-2. Replace the description (it defaults to the file name, `clip`) with the TikTok caption.
-3. Confirm with a screenshot that **Who can see this post** reads Everyone. If it doesn't, change it with the dropdown trick below.
-4. Set the cover, click Show more, and check the toggles in the table.
-5. Scroll to the bottom and click **Post**. Studio opens `https://www.tiktok.com/tiktokstudio/content`, where the new row shows "Content under review" for a few minutes. During review the privacy column can read "Only me" even for a post made as Everyone; it switches to Everyone when review finishes. Wait and check the row again before reporting the visibility or setting `tiktok_public`.
-6. Read the post URL from that row with `computer_app_state`: the description is a link to `https://www.tiktok.com/@binlore.wiki/video/<id>`. Report it, then run the wiki sync.
-
-### TikTok field tricks
-
-- **Who can see this post:** it defaults to Everyone, so normally leave it alone. To change it, note that computer-use clicks on this dropdown go to its text label and never open it, whether you click the text, the arrow, or the padding. Open it from the keyboard instead: get focus into the page just above it, then send Tab through System Events one key at a time, screenshotting after each, until the dropdown shows a dark focus border. Then press Space to open it and click the option you need. The order is description, two invisible stops, the Location box (it gets a border), one or two invisible stops for the When-to-post radios, then the dropdown. Never press Space until the border is on the dropdown: with focus in the description it types a space. Blank-page clicks don't reliably set the starting point (Tab sometimes jumps to the sidebar), so start right after pasting the caption, while focus is still in the description.
-- **Description:** while it still reads `clip`, a computer-use click in the box focuses it. Once it has text, clicks go to the text label and don't focus it. Then Cmd+A and Cmd+V through System Events, in one script that checks Chrome is frontmost (the first paste after a click sometimes doesn't land; check the character counter). A hashtag suggestion list opens under the last tag; press Escape to close it without picking one, which keeps focus in the description for the Tab route to the visibility dropdown (about six Tabs).
-- **Cover:** Edit cover opens a dialog with a frame strip and an Upload cover button that opens the macOS picker. After the image loads, click Save (top right). The profile preview crops it to 4:3.
-- **Editing a posted caption:** the pencil on the content list opens `tiktokstudio/upload/post/<id>`. Clicks in the caption don't focus it, and `computer_type` with its `element_id` changes the text without updating TikTok's state (the counter doesn't move); reload to discard that. Click **# Hashtags** under the box instead: it inserts a `#` and focuses the editor, then Cmd+A and Cmd+V replace the whole caption (check the counter). Saving puts the post "Under review": it stays live with the old caption and the new one appears once the review passes. That's a side effect, so ask before editing captions on live posts.
-- **File picker timing:** the picker can take 2 to 3 seconds to open. Screenshot to confirm it is open before sending Cmd+Shift+G. If the path sheet is still showing after the script, press Return once more. The "Go to" suggestion can lag a screenshot behind the typed path.
-- **Auto-review:** clicks on Select video and Post may be blocked; retry the same click with approval.
-- **Profile bio:** the web Edit profile dialog (Profile > Edit profile) doesn't work for this account. `computer_type` with the bio textarea's `element_id` from `computer_app_state` does fill it and updates the counter (80 characters max), though it inserts before any existing text. But Save only flashed a notice behind the dialog and never saved, with or without a link in the bio. Have the user set the bio in the TikTok phone app.
-- Screenshots lag about a second, and the page scrolls itself after dialogs close; take a fresh screenshot before every click.
+When we come back, prefer a first-party path (Content Posting API after audit, or a less brittle Studio flow) over emulator automation. The old Studio field notes lived here; restore from git history if needed (`@binlore.wiki`, Everyone, first post Chet `7704398113158548749`).
 
 ## Wiki sync (after every publish)
 
-Published clips are listed in `data/clips.json`, which is tracked in git (the clip folders are not). `./binlore sync-clips` turns it into a generated `## Clips` section, a list of clip titles with YouTube and TikTok links, on the episode page and on every `characters/*` page in the clip's `wiki` list.
+Published clips are listed in `data/clips.json`, which is tracked in git (the clip folders are not). `./binlore sync-clips` turns it into a generated `## Clips` section, a list of clip titles with YouTube (and any existing public TikTok) links, on the episode page and on every `characters/*` page in the clip's `wiki` list.
 
-1. Add the clip to `data/clips.json`, or update its entry if it is already there. Copy `slug`, `episode`, `title` and `wiki` from the clip's `meta.json`, then set `youtube` (the video id), `tiktok` (the post id) and `tiktok_public`. A clip goes in once it has a YouTube id, because the YouTube link is always shown.
-2. `tiktok_public` controls the TikTok link, which only appears when it is `true`, so the wiki never links to a private post. Set it to `true` for posts made as Everyone. When the user flips an old Only-you post, set it to `true` and sync again.
+1. Add the clip to `data/clips.json`, or update its entry if it is already there. Copy `slug`, `episode`, `title` and `wiki` from the clip's `meta.json`, then set `youtube` (the video id). A clip goes in once it has a YouTube id. Leave `tiktok` / `tiktok_public` unset for new clips while TikTok publishing is retired.
+2. For legacy rows, `tiktok_public` still controls whether the TikTok link appears (`true` only for Everyone posts).
 3. Run `./binlore sync-clips`. Then run it again: the second run must report 0 pages updated.
 4. Commit `data/clips.json` and the changed pages on main. Push only when asked.
 
