@@ -1,0 +1,6063 @@
+{
+ "vod_id": "2929110161",
+ "message_count": 574,
+ "messages": [
+  {
+   "id": "27cf67ad-ef2f-4b9f-8de5-7801de5f2449",
+   "t": 53,
+   "user": "shaggy175",
+   "login": "shaggy175",
+   "text": "PowerUpL caseblYikes PowerUpR",
+   "badges": [
+    "d20"
+   ]
+  },
+  {
+   "id": "05ae49a2-6a09-41e3-a5ef-2bcde9753ccd",
+   "t": 70,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "FIRST?",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "43ae23dc-3c4f-4439-83ff-8677c79bfbce",
+   "t": 73,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "oh hi shaggy dang",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "d6a6cc94-9686-4890-9b1c-4aabbd1540eb",
+   "t": 76,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Good timing. got back.",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "f6637b26-99c0-48d2-9cbe-0f6004c23524",
+   "t": 83,
+   "user": "shaggy175",
+   "login": "shaggy175",
+   "text": "Sorry",
+   "badges": [
+    "d20"
+   ]
+  },
+  {
+   "id": "95da4ec8-19e5-4caf-93a6-4a36b7172286",
+   "t": 96,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "it's ok",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "74880c29-e935-47be-b017-1acc21a88da5",
+   "t": 119,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Benevolent Mayor",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "14f4ae68-d5e6-456d-895f-6e4e6cc831a1",
+   "t": 144,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!c What's Rennerton's motto",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "b2ec9bcf-6a99-4c28-b4aa-8668c96e59c6",
+   "t": 144,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@JonMichael Deep thought lubricated! You are currently #20 in line for thoughtsemination.",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "edcf29a0-97c0-49f1-90a3-f92945d3eac2",
+   "t": 176,
+   "user": "StevenMnemonic",
+   "login": "stevenmnemonic",
+   "text": "steven563MJJJ steven563MJJJ steven563MJJJ steven563MJJJ",
+   "badges": [
+    "vip",
+    "fright-fest-2025"
+   ]
+  },
+  {
+   "id": "c256b679-ef2c-42aa-8d1f-bfd5798f3977",
+   "t": 192,
+   "user": "shaggy175",
+   "login": "shaggy175",
+   "text": "Rennerton needs a jet ski dealership",
+   "badges": [
+    "d20"
+   ]
+  },
+  {
+   "id": "7bc89e7b-d2f6-4a6e-883e-670bb5a43897",
+   "t": 195,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "LET US FREAKING REBUILD RENNERTON",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "54119a46-ae4f-4477-b8d6-4184b37de6ea",
+   "t": 256,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "!rebuild",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "ab1a73c2-aff0-47f4-864d-19d248963e63",
+   "t": 257,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "To join in the rebuilding of Rennerton you need the following:",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "df799e1c-b536-44af-9029-97724ae635f2",
+   "t": 257,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "Purchase Valheim: https://tinyurl.com/5fdsttz5",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "10f5fc11-30bd-4e83-892f-79ac5dcc97d1",
+   "t": 257,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "Download Thunderstore: https://tinyurl.com/t7hu2vx9",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "25032863-0ab9-4088-a976-a72deff5902c",
+   "t": 257,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "In Thunderstore, select Valheim, then import Case's mod profile with this code: 01a1dc7f-47eb-0b1a-a7e5-d1ab7c20c929",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "83d1514d-6733-4eb5-8177-ded52e862633",
+   "t": 257,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "Once all mods are installed, launch Valheim via Thunderstore by clikcing \"Modded\" in the upper right hand corner.",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "dcdbe034-692a-44b1-ad4e-50b4fd049a94",
+   "t": 257,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "In Valheim, click Join Game. The invite code is: 074585",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "e156ef11-7584-4e27-a615-9f5db01009ba",
+   "t": 257,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "The server name is \"Rennerton\" and the passsword is \"MUNCH\"",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "2499f0f0-b3ae-4be8-b666-95e2ebc60f98",
+   "t": 267,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "I love Beijing Tiannanmen",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "71d89ca7-3503-4310-8622-4445cd079b37",
+   "t": 290,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "new modes that'll need to be added for anyone who wants to join the effort",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "e78b0eb9-55f9-499b-a5ec-ca664ad3aef5",
+   "t": 296,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "ahem, *mods",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "22a689c0-bb99-4432-9f68-c2eb6553756a",
+   "t": 305,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "!ct Guy O'Bogglin wants his revenge",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "d784ff7e-de9b-4d82-8bb3-931867c4e3a1",
+   "t": 325,
+   "user": "MSG1138",
+   "login": "msg1138",
+   "text": "Hello.",
+   "badges": []
+  },
+  {
+   "id": "f42adcc8-53dc-4af3-a19f-0f359bd42840",
+   "t": 329,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "anyone also using linux that can't get it to work, I use r2modman instead of thunderstore and it works : )",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "2e787a3f-7b93-4ce9-9c5a-660ecdd3c87d",
+   "t": 365,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "gonna skateboard before we start",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "f031c05a-2e24-43cd-8760-e46db993f3b0",
+   "t": 414,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "!freak",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "b9677b93-e2fe-4dd2-adaa-a86d3774d45d",
+   "t": 414,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "Follow the world's greateast kickstarter at https://www.kickstarter.com/projects/13freakstreet/13-freak-street-a-horror-comedy-anthology",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "259ec825-0479-4443-b2dc-e031b6efbd70",
+   "t": 441,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "SEGMENTS ARE ACTIVE QUICK REDEEM THEM ALL",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "3aac1fde-1b33-40eb-8d6d-f2145ad9b217",
+   "t": 461,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "About to see the Greek Freak Giannis Antentekounpo at the Vice City Arena",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "2e07e89c-bfea-4f50-9d6e-8b7183c8fdfd",
+   "t": 465,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "I hear rummaging",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "983da171-e395-4590-aaf7-c98f9f4e519a",
+   "t": 475,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "Let's GO",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "a5309012-4b38-4dd4-b93d-e008e42c025c",
+   "t": 480,
+   "user": "MSG1138",
+   "login": "msg1138",
+   "text": "caseblPepito caseblPepito caseblPepito caseblPepito",
+   "badges": []
+  },
+  {
+   "id": "67116ef1-9bc5-4a2c-8c4f-dfb8b916ab4f",
+   "t": 484,
+   "user": "im_apple_dapple",
+   "login": "im_apple_dapple",
+   "text": "caseblPepcheese caseblPepcheese caseblPepcheese caseblPepcheese",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "a1bd6aac-9595-4d5b-908f-dfb67360c3e7",
+   "t": 485,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "caseblYikes caseblYikes caseblYikes",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "c5342bec-959c-4b48-859e-dbf9799f3ec8",
+   "t": 487,
+   "user": "im_apple_dapple",
+   "login": "im_apple_dapple",
+   "text": "caseblPepito caseblPepito caseblPepito caseblPepito caseblPepito caseblPepito",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "23a37fb3-c41c-41cf-abb6-fef87e45fd0f",
+   "t": 490,
+   "user": "im_apple_dapple",
+   "login": "im_apple_dapple",
+   "text": "caseblBIN caseblBIN caseblBIN caseblBIN caseblBIN caseblBIN caseblBIN caseblBIN",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "6ca794f1-d1c7-4675-a441-9ef068980575",
+   "t": 519,
+   "user": "JoeyHeadset",
+   "login": "joeyheadset",
+   "text": "Feeling extra NEWSY today.",
+   "badges": [
+    "premium"
+   ]
+  },
+  {
+   "id": "65d5085a-146e-479d-af59-15ae5a55ef00",
+   "t": 527,
+   "user": "trueblue91rs",
+   "login": "trueblue91rs",
+   "text": "caseblBIN caseblPepito caseblBIN caseblBIN caseblPepito caseblBIN",
+   "badges": []
+  },
+  {
+   "id": "eb3557ac-db20-4627-b0fc-9f120e066391",
+   "t": 534,
+   "user": "trueblue91rs",
+   "login": "trueblue91rs",
+   "text": "It’s so calm",
+   "badges": []
+  },
+  {
+   "id": "77dc5d93-6e75-4b4f-9806-5becab20f431",
+   "t": 547,
+   "user": "DaedalusKE",
+   "login": "daedaluske",
+   "text": "a rebuilt city and snowplows for all caseblHypet",
+   "badges": [
+    "premium"
+   ]
+  },
+  {
+   "id": "11c6edf1-a1df-4707-904b-d4a4c760a62a",
+   "t": 548,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "Hoodie Case!?",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "e52c7f8f-d50d-4b36-a979-6da7dbe54cdc",
+   "t": 551,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Top o ta Saturday",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "4d1e7ae2-f41e-447d-a3df-25e9521a56e8",
+   "t": 554,
+   "user": "DaedalusKE",
+   "login": "daedaluske",
+   "text": "!freak",
+   "badges": [
+    "premium"
+   ]
+  },
+  {
+   "id": "917dc3d2-144b-4041-8cdc-f40f9e480619",
+   "t": 554,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "Follow the world's greateast kickstarter at https://www.kickstarter.com/projects/13freakstreet/13-freak-street-a-horror-comedy-anthology",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "b2802223-9aff-4bf2-b0fc-ad5dbf13fd6f",
+   "t": 573,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "Wienerbars or Crumholes",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "6f5e094f-3029-4295-9d61-1ddfe26c43bb",
+   "t": 584,
+   "user": "trueblue91rs",
+   "login": "trueblue91rs",
+   "text": "Mayor of Vices",
+   "badges": []
+  },
+  {
+   "id": "c0b4469a-6033-4853-bf46-0df4436720fc",
+   "t": 598,
+   "user": "RaysilvaEXT9",
+   "login": "raysilvaext9",
+   "text": "What are you doing around here case its dangerous",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "a74a7ba5-5a97-448b-8694-b9c3aa151053",
+   "t": 613,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "My debate is about a potential Rennerton Business establishment",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "77e393f5-9f19-4fc0-af5d-b002406ba70f",
+   "t": 632,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "Is it? You are suing us",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "ac096ed2-9440-448d-bfb3-4adfb9fd79b0",
+   "t": 633,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Help! A Serial Killer!",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "304f1fff-d48e-43b1-847a-d91ed07e1043",
+   "t": 636,
+   "user": "MSG1138",
+   "login": "msg1138",
+   "text": "caseblCrum caseblCrum caseblCrum",
+   "badges": []
+  },
+  {
+   "id": "d5e22644-afb8-47c7-8488-f20e1bb395aa",
+   "t": 650,
+   "user": "shaggy175",
+   "login": "shaggy175",
+   "text": "Woah, face change!",
+   "badges": [
+    "d20"
+   ]
+  },
+  {
+   "id": "cba5bc32-0054-4f09-a241-0883055a892f",
+   "t": 658,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "!PC when you look in the mirror each day, do you apologize to the face you see?",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "93180e7b-f65a-46ca-8f6c-9461f955ba2a",
+   "t": 659,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@LiveNSleazy the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "e6b10593-adea-44cc-9998-21796be9ce7a",
+   "t": 699,
+   "user": "trueblue91rs",
+   "login": "trueblue91rs",
+   "text": "Hey Crum, from someone who has experience: what’s the biggest differences between the damned and the undead?",
+   "badges": []
+  },
+  {
+   "id": "98cff948-ef94-47cb-91d6-c4932a8c0888",
+   "t": 714,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "You gotta !PC @trueblue91rs",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "13a76ce7-0e12-4cc0-bb3f-61675429af62",
+   "t": 732,
+   "user": "trueblue91rs",
+   "login": "trueblue91rs",
+   "text": "Fair",
+   "badges": []
+  },
+  {
+   "id": "59cbc302-e491-4fd2-87e5-be0f93d73e0e",
+   "t": 743,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "ok I' mback and I got a soda",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "89ff6537-ebc2-4e89-b5c2-241345297e16",
+   "t": 758,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "I almost bought this game to play with ya'll then I found out there's no tunneling. Thats a deal breaker, like what sandbox game doesn't have tunneling? That basic ish",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "a29448e8-2c04-4463-946d-23a3884eed32",
+   "t": 759,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "if Munch gets bit by a werewolf will just his bones transform?",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "bab33d92-d3d2-421a-9683-734967fbf08a",
+   "t": 762,
+   "user": "trueblue91rs",
+   "login": "trueblue91rs",
+   "text": "!PC Hey Crum, from someone who has experience: what’s the biggest differences between the damned and the undead?,",
+   "badges": []
+  },
+  {
+   "id": "4f44a1c9-7711-4476-9701-39ae92545292",
+   "t": 763,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@trueblue91rs the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "2f5756f2-16cd-4b74-b079-d3a00210c710",
+   "t": 763,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Its like every in Rennerton is Halloween.",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "14c4a7c9-8bc4-4f79-a22e-e43789fdb4c6",
+   "t": 771,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!pc munch is still down in a hole. will you send a rescue crew for him",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "58789616-6992-4e8b-96a7-fda6d21f4a9e",
+   "t": 772,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@bonzaibullfrog the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "4de192dc-dcfe-413a-be3c-0f7f456d3c22",
+   "t": 777,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "!PC why does your head look like a worn out eraser?",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "0cbaf7a9-64b1-49f8-ae9e-8420ba5ad9a0",
+   "t": 807,
+   "user": "MetalKhaos",
+   "login": "metalkhaos",
+   "text": "caseblHypet caseblHypet caseblHypet",
+   "badges": [
+    "final-fantasy-xiv-fan-festival-2026-na---fat-cat"
+   ]
+  },
+  {
+   "id": "7bb014c4-69a7-4b7c-83d4-9ba1b430e3be",
+   "t": 814,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "!pc ok wait this is a question FROM mayor.  Should we a) invade the swamp and finish that portal crum was building or 2) BUILD THAT SKATEPARK",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "c1fcff58-6c9c-41a8-bb14-7c73b75fce8e",
+   "t": 814,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@MelodyVonTorture the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "738606af-b2ee-4f23-812d-c033a0d61828",
+   "t": 840,
+   "user": "StevenMnemonic",
+   "login": "stevenmnemonic",
+   "text": "steven563Steven3 steven563Steven3 steven563Steven3 steven563Steven3",
+   "badges": [
+    "vip",
+    "fright-fest-2025"
+   ]
+  },
+  {
+   "id": "7ca7ba51-361e-4f30-af27-9417ecbe3f6d",
+   "t": 865,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!pc free press news here. didn't you lose the election? why are yous till here",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "38794285-7af8-4f83-8ccc-e3bf27abd7b0",
+   "t": 873,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "!PC What are you thoughts on adding a yaoi section to not only every restauraunt but any estabababalisment that serves food?",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "a4844f8c-bbc7-477a-8393-b996f0e3e489",
+   "t": 874,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@ReverieWolf the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "74e25d06-0c91-4843-a80d-439c3c1ab34e",
+   "t": 877,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!pc You're only allowed to sue non VIPs. Sue someone like Kevin.",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "b61d79be-fd10-4aa3-b7be-6b6243045b15",
+   "t": 877,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "Jeremy Renner to comment on the rebuilding efforts of his namesake city and how it relates to the rebuilding efforts of his body",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "13e555b8-628a-4430-ba87-a01320df69a1",
+   "t": 878,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@JonMichael the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "bd6c9f89-e183-499d-be24-8e66a3992c17",
+   "t": 894,
+   "user": "stauntaun",
+   "login": "stauntaun",
+   "text": "!pc jetski swamp raiding party?",
+   "badges": [
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "6141be9e-d19b-4cb4-b894-8826a7c6c634",
+   "t": 894,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@stauntaun the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "d34a9a0b-af1b-45fb-9252-c89709bdd032",
+   "t": 934,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "!freak",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "b851cd87-6403-40d5-9f50-f171ca5fc679",
+   "t": 934,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "Follow the world's greateast kickstarter at https://www.kickstarter.com/projects/13freakstreet/13-freak-street-a-horror-comedy-anthology",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "35eaf960-1a12-4e1f-87ec-01679d1c4ef4",
+   "t": 949,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "!pc Mister Clean, Magic Eraser Weekly. How dare you sir. I spent years making bald work. Now you're just going to saunter in here and besmirch my life's work? I demand satisfaction.",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "e86fdcc9-5a5b-47d9-b96f-328f40af52ec",
+   "t": 949,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@giggletrash the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "d217898e-2e88-40ec-b7da-30a7ba68f5ce",
+   "t": 1014,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "caseblGorilla caseblGorilla caseblGorilla",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "79d0b3a2-bedb-4661-8efc-aa81f24e8945",
+   "t": 1019,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "!pc ἆρα τὸ ὅσιον ὅτι ὅσιόν ἐστιν φιλεῖται ὑπὸ τῶν θεῶν, ἢ ὅτι φιλεῖται ὅσιόν ἐστιν",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "d3568453-41d9-4768-a721-9117a3944ef7",
+   "t": 1019,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@sabricci the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "9de256e3-b6fc-4647-a988-f864ed9a07a7",
+   "t": 1040,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "Crum you're not allowed to use the word Sexy",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "56c4ac14-ac42-4552-a095-f5fec4db69a7",
+   "t": 1067,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "LUIGI!?",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "950022ff-d4e4-4016-b6c4-2bfab526092e",
+   "t": 1069,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "LOL",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "a67ab46a-5245-42b5-b8f3-c43b4ca3d541",
+   "t": 1086,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!PC WWWEEEEEEE WWE WWE WWE WWE WWE WWE WWWWEEEEE",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "033f18f0-c79a-4351-89c0-9469f2603f48",
+   "t": 1154,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "Thats what brandons mom looks like?",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "4fee503e-3c6e-4706-93a0-bb903f362308",
+   "t": 1168,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!pc have you apologized to rockifier Gorilla yet. he seems sad since you burned his skin off",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "bcf0d86b-a639-40ab-9c35-4d99cc0ca938",
+   "t": 1168,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@bonzaibullfrog the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "bd061524-0312-4e8c-8001-72756a7b2d45",
+   "t": 1192,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "LUL",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "fa837c5b-3e37-44e7-9f8f-983ad88af143",
+   "t": 1213,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "The dog was also a pirate",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "6ccc193f-dcbe-42c4-9d57-29e64769eb19",
+   "t": 1261,
+   "user": "stauntaun",
+   "login": "stauntaun",
+   "text": "mayor von torture has a nice ring to it",
+   "badges": [
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "5e593bc1-f4cd-4158-9318-365c2b4507a3",
+   "t": 1267,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Right. I ain't VIP. Sue away",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "9a9cf4a4-fa61-45eb-a8d1-daad8e481fce",
+   "t": 1287,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!pc WWWEEEEEEE WWE WWE WWE WWE WWE WWE WWWWEEEEE",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "3003b5ea-d12d-4874-9a5b-2e05ab4e36eb",
+   "t": 1287,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@JonMichael the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "6289825f-248e-45a0-b756-c0755fc03286",
+   "t": 1290,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "OH NO",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "0e5f3106-5f16-4292-ada4-732e5c5988bb",
+   "t": 1295,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "WHAT",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "7a338298-fa02-4fce-b0e1-8e1161b50b9a",
+   "t": 1310,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "SIGMA?",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "f6fc3819-7e57-458b-8faf-da93f16d5d8e",
+   "t": 1312,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Hack the planet",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "073b413d-6ba9-4f4c-a08d-51994c10cec7",
+   "t": 1319,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "Crum is lossing control",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "aa3dccb0-9347-4b19-ab04-37e31b4ccdc3",
+   "t": 1332,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "I heard Sigma tower",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "d6ecbc27-de6b-4567-8cd5-abdd180090c1",
+   "t": 1379,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "What",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "1e77c090-52cd-4188-98e0-4e28faaf6b11",
+   "t": 1394,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "Thats not what you said the first time",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "3cdb8227-8705-4d87-ae71-b686f84d7c1a",
+   "t": 1452,
+   "user": "VonWolfman",
+   "login": "vonwolfman",
+   "text": "sceen switch?",
+   "badges": []
+  },
+  {
+   "id": "08a8630e-c72f-4a42-a223-4f2bb6278949",
+   "t": 1455,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Sneeze Fight!",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "6e8a4157-c76d-49b0-9883-ac9deb4f4a2c",
+   "t": 1459,
+   "user": "VonWolfman",
+   "login": "vonwolfman",
+   "text": "tada",
+   "badges": []
+  },
+  {
+   "id": "879a4783-f439-4f4b-a457-4cbe96a16711",
+   "t": 1518,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "#2 Dave's Double",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "e1767a92-c062-4f57-b823-568cae8ea642",
+   "t": 1521,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "!pc Cat im a kitty and I...Tear down the estababababalalaeii iiiiishment. Crum, your time is nigh neigh? AND I DANCE DANCE dance",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "5248ac20-d736-47de-9ced-b84fd043afdc",
+   "t": 1521,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@ReverieWolf the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "819cf4c9-820a-4a03-ac0d-e798a8075a57",
+   "t": 1528,
+   "user": "The_MyT_Oz",
+   "login": "the_myt_oz",
+   "text": "MVT should be re-elected so far way better than crum",
+   "badges": [
+    "vip",
+    "bits"
+   ]
+  },
+  {
+   "id": "e323d68d-d47b-4fae-9750-7c6a62da905e",
+   "t": 1535,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Pig. Extra rare",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "41740efe-693f-4fa8-8bf4-ef8fe2f03176",
+   "t": 1536,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "THEY KILLED SIR HAMS!?",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "384b1728-f002-44b0-a287-9a7cadf8b7a6",
+   "t": 1565,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "Water tricks in the swamp",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "642c6638-30a7-4b47-8b43-da0c1a5747ed",
+   "t": 1570,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "!PC can I get a #2 Dave's Double with a Coke Zero and a baked potato with sour cream and chives and butter on the side",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "c96183b7-c4dd-4a61-b649-1757ec563a68",
+   "t": 1571,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@LiveNSleazy the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "14ab38bd-37e7-4c2b-aeed-0bb5432c458b",
+   "t": 1612,
+   "user": "KevSlider",
+   "login": "kevslider",
+   "text": "We can't hear them now",
+   "badges": [
+    "vip",
+    "final-fantasy-xiv-fan-festival-2026-jp---quest-complete-chat"
+   ]
+  },
+  {
+   "id": "de5ff551-dc36-4815-8f02-8f86bd327f72",
+   "t": 1620,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Of course there is only one. For Crum",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "572811cc-3f5f-4f06-890e-c91669a4fb64",
+   "t": 1621,
+   "user": "KevSlider",
+   "login": "kevslider",
+   "text": "oh nm",
+   "badges": [
+    "vip",
+    "final-fantasy-xiv-fan-festival-2026-jp---quest-complete-chat"
+   ]
+  },
+  {
+   "id": "48971608-b1f4-4e98-b865-3779845f1dde",
+   "t": 1662,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Cheer100 !muncheon",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "6df564ad-3f31-4f6c-a128-521a3b5d4e5b",
+   "t": 1785,
+   "user": "notcasesbrother",
+   "login": "notcasesbrother",
+   "text": "!rebuild",
+   "badges": [
+    "moderator"
+   ]
+  },
+  {
+   "id": "21b6ac9b-dfca-41e2-8861-17cc348ae74b",
+   "t": 1786,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "To join in the rebuilding of Rennerton you need the following:",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "16ce633b-55b9-4045-b5cb-56951ff85244",
+   "t": 1786,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "Purchase Valheim: https://tinyurl.com/5fdsttz5",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "3b18535e-8a67-47cc-8398-e2635324d3d7",
+   "t": 1786,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "Download Thunderstore: https://tinyurl.com/t7hu2vx9",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "1f2c8739-f11c-4ebc-93bc-349ff57acbe8",
+   "t": 1786,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "In Thunderstore, select Valheim, then import Case's mod profile with this code: 01a1dc7f-47eb-0b1a-a7e5-d1ab7c20c929",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "a59af1d3-1335-4102-b388-6ff694acc4ed",
+   "t": 1786,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "Once all mods are installed, launch Valheim via Thunderstore by clikcing \"Modded\" in the upper right hand corner.",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "ce04d38d-2fdd-4b90-bb98-d5fa3e7a7c1f",
+   "t": 1786,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "In Valheim, click Join Game. The invite code is: 074585",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "118c52c2-e03c-44b5-a0fe-6f6c7f7b49fd",
+   "t": 1786,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "The server name is \"Rennerton\" and the passsword is \"MUNCH\"",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "ea4386da-f50e-46dc-9e61-c753ec540f77",
+   "t": 1808,
+   "user": "stauntaun",
+   "login": "stauntaun",
+   "text": "surtling cores",
+   "badges": [
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "a1e8d875-a067-4e78-b0ed-3e5e0fd86f02",
+   "t": 1865,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "!fp nominate a mayor",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "0025168f-fbc0-4581-a2b5-6ccb31f1ba74",
+   "t": 1877,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "!o CHET",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "6756bca2-3f68-4f85-8905-34593bc51cbe",
+   "t": 1877,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "!o HypePlane",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "409d665d-866b-42e4-9672-0a57263e97ee",
+   "t": 1879,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!o Kendelle",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "c215d22e-f7d8-4cca-a53e-9566855a8489",
+   "t": 1881,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "!o Big Chetter",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "cc871090-1f1a-41d1-957e-1efea3cd704b",
+   "t": 1884,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "!o Brandons Mom",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "89129d64-de64-4a24-9b8f-ce542732976d",
+   "t": 1884,
+   "user": "im_apple_dapple",
+   "login": "im_apple_dapple",
+   "text": "! O jeb",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "c8267185-9040-47d4-9a36-a117ae52d9f0",
+   "t": 1884,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!o mccheese",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "1590d848-8d13-4a54-a9d2-5328f4d49c4b",
+   "t": 1894,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "!3",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "015aeba4-c7f0-448d-83ea-e367836dab7d",
+   "t": 1899,
+   "user": "MSG1138",
+   "login": "msg1138",
+   "text": "!3",
+   "badges": []
+  },
+  {
+   "id": "f21aa9cd-4340-4deb-867d-95d46f469aca",
+   "t": 1900,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "!2",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "ac2ef338-5547-4c50-8313-dd8c8a1a2728",
+   "t": 1901,
+   "user": "shaggy175",
+   "login": "shaggy175",
+   "text": "!3",
+   "badges": [
+    "d20"
+   ]
+  },
+  {
+   "id": "a174365b-6ed4-439e-9765-53c1cd476379",
+   "t": 1902,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!3",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "01a6bc33-bce2-4099-887b-bd1c7cb4d5e3",
+   "t": 1902,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "!4",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "c6303e76-344f-435a-90a5-013bc961e51a",
+   "t": 1903,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "1",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "d2def264-18ed-4df4-8880-29e28234d9eb",
+   "t": 1904,
+   "user": "love_the_haight",
+   "login": "love_the_haight",
+   "text": "!1",
+   "badges": [
+    "football-fest-2026"
+   ]
+  },
+  {
+   "id": "a71d1856-8b69-4af6-a90c-37b711feb046",
+   "t": 1905,
+   "user": "RoyalRainboah",
+   "login": "royalrainboah",
+   "text": "!3",
+   "badges": [
+    "premium"
+   ]
+  },
+  {
+   "id": "f921690f-d61b-4d1c-8dcb-d2e98142e32b",
+   "t": 1906,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "!2",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "dcdbaf74-7e29-4523-9bc4-5421a5254f9e",
+   "t": 1907,
+   "user": "The_MyT_Oz",
+   "login": "the_myt_oz",
+   "text": "!5",
+   "badges": [
+    "vip",
+    "bits"
+   ]
+  },
+  {
+   "id": "650a5d78-61a0-4d19-8eb4-767081ecf1ac",
+   "t": 1910,
+   "user": "im_apple_dapple",
+   "login": "im_apple_dapple",
+   "text": "!1",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "927e7bb5-9860-46f6-a789-4a37fd5e449c",
+   "t": 1915,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "The winner of the flashpoll is Kendelle!",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "cc0217b6-9a3a-45d3-a4a0-c365c733c452",
+   "t": 1915,
+   "user": "stauntaun",
+   "login": "stauntaun",
+   "text": "!5",
+   "badges": [
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "4569632e-9d6f-4512-a983-6cd5e06452b8",
+   "t": 1970,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "LUL",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "b8fc40d3-e9b8-4bd1-9afb-0bd98cd7774b",
+   "t": 1977,
+   "user": "hueycuyler",
+   "login": "hueycuyler",
+   "text": "Get their vote & then kill them. Like a true politician",
+   "badges": [
+    "bits"
+   ]
+  },
+  {
+   "id": "bb727545-28e2-4a63-ae83-4e9e0ef81a66",
+   "t": 2037,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!pc If Munch murdered you in Rennerton no one would care.",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "3b2817b4-53cc-460f-a0aa-7fd042b7fb72",
+   "t": 2037,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@JonMichael the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "4f0a4994-a475-4530-acc9-c6f67d5773b0",
+   "t": 2123,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "!fp nominate a mayor",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "2d590147-572e-497b-a712-2608c55892f4",
+   "t": 2123,
+   "user": "BxMillz",
+   "login": "bxmillz",
+   "text": "caseblCrum caseblCrum caseblCrum caseblCrum",
+   "badges": [
+    "subscriber",
+    "invincible-vs"
+   ]
+  },
+  {
+   "id": "3b3c64b4-1c33-48fb-8a33-2dc7697c8623",
+   "t": 2135,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "!o CHET",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "90cad63f-dc11-4b80-a447-d9d5811cb9e1",
+   "t": 2140,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "!o Chairemy",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "e8f82461-39cc-42ab-a70b-bcf9afbbd014",
+   "t": 2142,
+   "user": "Eldric_B",
+   "login": "eldric_b",
+   "text": "!o Pepito",
+   "badges": [
+    "vip",
+    "founder",
+    "premium"
+   ]
+  },
+  {
+   "id": "c1f5033f-f589-4f6e-9da2-392e9f1df968",
+   "t": 2142,
+   "user": "exterminator13",
+   "login": "exterminator13",
+   "text": "!rebuild",
+   "badges": [
+    "premium"
+   ]
+  },
+  {
+   "id": "a7bdeb43-18f9-4e94-9c99-5000ebc1c9f5",
+   "t": 2143,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "To join in the rebuilding of Rennerton you need the following:",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "642b926e-c5e7-43fc-a505-55306d8f843c",
+   "t": 2143,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "Purchase Valheim: https://tinyurl.com/5fdsttz5",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "6bdc8b62-f726-4415-be66-df952234311f",
+   "t": 2143,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "Download Thunderstore: https://tinyurl.com/t7hu2vx9",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "7062589d-e332-4444-a6ea-d4dd3e85b46f",
+   "t": 2143,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "!o Peter Gibbon",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "8ba58433-eeb6-4b1a-83be-dd09a8d92d0f",
+   "t": 2143,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "In Thunderstore, select Valheim, then import Case's mod profile with this code: 01a1dc7f-47eb-0b1a-a7e5-d1ab7c20c929",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "5cf5a658-2489-4b90-a2ab-506f3e6761c2",
+   "t": 2143,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "Once all mods are installed, launch Valheim via Thunderstore by clikcing \"Modded\" in the upper right hand corner.",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "205ad336-b2c5-4c4a-a14c-3929c1a8a610",
+   "t": 2143,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "In Valheim, click Join Game. The invite code is: 074585",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "3d8c374d-9b60-41ab-a2a5-159b752568af",
+   "t": 2143,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!o Dead Kevin Pereria",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "35dd08c5-9fe3-419f-8384-586061576644",
+   "t": 2144,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "The server name is \"Rennerton\" and the passsword is \"MUNCH\"",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "0646920c-1bb8-4f16-8ab0-709eaea856db",
+   "t": 2148,
+   "user": "love_the_haight",
+   "login": "love_the_haight",
+   "text": "!o hr toilet",
+   "badges": [
+    "football-fest-2026"
+   ]
+  },
+  {
+   "id": "15f3d904-1b45-4db0-824d-de5731ea7b49",
+   "t": 2148,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "Speaking of the Real World, Sean Duffys son in law is invested in the company that would update the FAA tech",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "e7cd7db1-cd1c-45b0-be5d-33d200cd0c3f",
+   "t": 2155,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "!5",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "adbc4ff9-af52-4d81-98b4-945512517998",
+   "t": 2156,
+   "user": "love_the_haight",
+   "login": "love_the_haight",
+   "text": "!3",
+   "badges": [
+    "football-fest-2026"
+   ]
+  },
+  {
+   "id": "3ccd7edc-d800-4f00-824a-50f98d5944fb",
+   "t": 2157,
+   "user": "Skataneric",
+   "login": "skataneric",
+   "text": "!3",
+   "badges": [
+    "vip"
+   ]
+  },
+  {
+   "id": "c7daf93a-7378-4377-bc6b-94bf88fecf57",
+   "t": 2157,
+   "user": "RoyalRainboah",
+   "login": "royalrainboah",
+   "text": "!1",
+   "badges": [
+    "premium"
+   ]
+  },
+  {
+   "id": "7d3b5147-b995-4617-8c48-225b1ecc535b",
+   "t": 2158,
+   "user": "shaggy175",
+   "login": "shaggy175",
+   "text": "!5",
+   "badges": [
+    "d20"
+   ]
+  },
+  {
+   "id": "eed0deb3-af18-4a3f-af93-9a06236cfddb",
+   "t": 2159,
+   "user": "Eldric_B",
+   "login": "eldric_b",
+   "text": "!3",
+   "badges": [
+    "vip",
+    "founder",
+    "premium"
+   ]
+  },
+  {
+   "id": "5f4b251b-117d-4570-8392-d2b53001fb59",
+   "t": 2160,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "!5",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "85518f77-1cf5-4a75-a2ae-7055d45a0194",
+   "t": 2161,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!5",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "50b16c70-d2cc-47bd-8e21-72fc254645f6",
+   "t": 2163,
+   "user": "MSG1138",
+   "login": "msg1138",
+   "text": "!3",
+   "badges": []
+  },
+  {
+   "id": "158d165f-0541-4415-828b-6468767f0445",
+   "t": 2164,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "!2",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "bddf8ea0-3e2d-4f19-8ff7-957e54f576d9",
+   "t": 2164,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "!3",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "ff6037d3-31eb-4efa-a584-f1fa55c2d701",
+   "t": 2165,
+   "user": "Eldric_B",
+   "login": "eldric_b",
+   "text": "!5",
+   "badges": [
+    "vip",
+    "founder",
+    "premium"
+   ]
+  },
+  {
+   "id": "3711713e-c7f3-44f4-bea5-ba427bea4606",
+   "t": 2168,
+   "user": "exterminator13",
+   "login": "exterminator13",
+   "text": "!5",
+   "badges": [
+    "premium"
+   ]
+  },
+  {
+   "id": "6360ae24-d640-4167-9256-a0a71225a5a4",
+   "t": 2174,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "The winner of the flashpoll is Pepito & Dead Kevin Pereria!",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "2314401f-9949-4abd-a291-4055ae141ba8",
+   "t": 2186,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "!5",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "176a58fa-8b09-4ddc-b393-fe62af4b916b",
+   "t": 2196,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "Well he was murdered",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "836654a7-c37d-4b1b-9d49-06103103ed6f",
+   "t": 2205,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "You wouldn't want the live one running the town would ja?",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "29cd4fa6-68a2-419c-8bdb-eb146a869777",
+   "t": 2215,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "sabric5KevinMSPainteira",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "df8d3c0a-49e9-476b-b865-315b395f0145",
+   "t": 2285,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "lok",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "af2648e1-cb61-419d-82f5-deffa4757cea",
+   "t": 2290,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "W c n't s e th carn ge. To m ch lag ng",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "f1218b9e-2153-4104-be17-f14b7303d5dc",
+   "t": 2295,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "LUL",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "1ecc5115-15aa-48bb-8739-ce184c57901c",
+   "t": 2306,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "JonMichael watched 60 consecutive streams and sparked a watch streak! caseblMunch caseblMunch caseblMunch",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "5bdfcc99-57c3-43fd-adae-715456829edc",
+   "t": 2323,
+   "user": "stauntaun",
+   "login": "stauntaun",
+   "text": "!rebuild",
+   "badges": [
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "c7b2365b-b1d9-4608-b3e6-aeb333dfd6ac",
+   "t": 2324,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "To join in the rebuilding of Rennerton you need the following:",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "4f191fdc-d1f6-41e4-8e03-e4d53fcfdd9a",
+   "t": 2324,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "Purchase Valheim: https://tinyurl.com/5fdsttz5",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "0712dcb6-afb4-4b68-b0fd-d63b6fb04da0",
+   "t": 2324,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "Download Thunderstore: https://tinyurl.com/t7hu2vx9",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "7e3a38e9-067d-4831-a30b-bc47a91a81a7",
+   "t": 2324,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "In Thunderstore, select Valheim, then import Case's mod profile with this code: 01a1dc7f-47eb-0b1a-a7e5-d1ab7c20c929",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "2189d584-264c-485a-afb3-81755e5fdbf1",
+   "t": 2324,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "Once all mods are installed, launch Valheim via Thunderstore by clikcing \"Modded\" in the upper right hand corner.",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "645375e4-69a2-4914-9a3d-3853de256681",
+   "t": 2324,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "In Valheim, click Join Game. The invite code is: 074585",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "2e159114-c389-4e8c-b637-4b7bf09b620c",
+   "t": 2325,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "The server name is \"Rennerton\" and the passsword is \"MUNCH\"",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "15e75496-71da-4692-b745-0781595c05b7",
+   "t": 2329,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "Seal Crum in that burial chamber",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "8d50008b-244e-41d8-8e8c-7becfebb421d",
+   "t": 2409,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "Amber? The alert most associated with Crum",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "21e95bc6-05c1-44be-b848-9cdc6bac2042",
+   "t": 2545,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "!pc Oh goshy wilikers. Why'd ja have to pick me. Fiiiine. I'm Tretle Fogglebottom, Incel News. Uh. Mister Vice Mayor. Any chance you will be creating a Rennerton Vice team to combat cool crimes? You know, with Don Johnson?",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "c2a6edb7-3c6a-405a-8018-54b5abe59350",
+   "t": 2545,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@giggletrash the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "39f9efc5-7366-49c9-bac2-0d3dace179b0",
+   "t": 2582,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "So much violence.",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "d3e4699a-e158-411b-8fe3-b983c3612d9d",
+   "t": 2672,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!pc first will you wish Austin creed good luck in his match tonight? and does Rennerton have a stand your ground law?",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "2309a792-91d0-4f21-9a3d-90f2906d9ee9",
+   "t": 2672,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@bonzaibullfrog the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "7abc2aee-b9fe-4f08-88b2-8878ac51bc2d",
+   "t": 2680,
+   "user": "hueycuyler",
+   "login": "hueycuyler",
+   "text": "Of course Crum doesn't know about the mayoral skateboard",
+   "badges": [
+    "bits"
+   ]
+  },
+  {
+   "id": "584df615-475d-4bfa-9773-893b04460e6b",
+   "t": 2713,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "A rare death, but warranted",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "01adaa37-b2b3-431a-917c-8b9655e23076",
+   "t": 2753,
+   "user": "denji_008",
+   "login": "denji_008",
+   "text": "denji_008 watched 35 consecutive streams and sparked a watch streak!",
+   "badges": [
+    "gengar"
+   ]
+  },
+  {
+   "id": "4229f85a-e92c-4213-92ad-ab42591ac111",
+   "t": 2755,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "'Vice Mayor downs in one inch of water during a skateboarding accident\"",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "a7578bcd-7c1d-4179-b853-2a76b2bbc822",
+   "t": 2797,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "!pc Quid dicendum habes de accusationibus quod pullus Gooters ADHUC non satis humidus est?!",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "c29b19de-af33-4191-952f-8e5d1eb9a6dc",
+   "t": 2797,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@sabricci the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "13718c2a-d318-44c2-9227-83a69b3a8c7d",
+   "t": 2805,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!pc hi friends of munch news. munch would liketolet you know he iwll not miss you this time. last time was different because your body stunk up the studio",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "21fbaf27-ac2a-4fae-b629-362209d1cbcd",
+   "t": 2829,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Cause we like to party",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "568790f3-67ba-4e58-b730-4b6e47c513c8",
+   "t": 2949,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!pc Munch didn't tell you that Pepito ate some of your rotting corpse because he didn't care.",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "0789b0dd-92e1-46a1-a715-fbf64f695287",
+   "t": 2950,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@JonMichael the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "20a38f43-c3ba-4921-9b87-05070acb0419",
+   "t": 2958,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "This is Rennerton, is live and die by the sword. Brought to you by Gooters TM",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "623749f7-2706-47c1-b13e-21b4abd797e8",
+   "t": 2985,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "We get paid everytime we say it",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "6a5e8780-e127-4a3d-bf12-daef9b2e2cfb",
+   "t": 3049,
+   "user": "CyCorr",
+   "login": "cycorr",
+   "text": "let us fucking news",
+   "badges": [
+    "vip"
+   ]
+  },
+  {
+   "id": "9ade4da3-c577-4c93-839a-dcffc8c1d71a",
+   "t": 3054,
+   "user": "CyCorr",
+   "login": "cycorr",
+   "text": "wait this isnt this news of today",
+   "badges": [
+    "vip"
+   ]
+  },
+  {
+   "id": "601749ad-6d57-4411-b1ed-28a04ae6e800",
+   "t": 3068,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Jet Ski is a metric measurement in Rennerton",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "59c0f77f-5366-4293-a648-648c330be632",
+   "t": 3081,
+   "user": "love_the_haight",
+   "login": "love_the_haight",
+   "text": "@CyCorr Saturdays are for rennerton",
+   "badges": [
+    "football-fest-2026"
+   ]
+  },
+  {
+   "id": "eb353b4d-6bfc-4227-a3fd-15f3f6aa08ca",
+   "t": 3111,
+   "user": "jons_lost_brain_cell",
+   "login": "jons_lost_brain_cell",
+   "text": "I'm late where is mayor MVT?",
+   "badges": [
+    "premium"
+   ]
+  },
+  {
+   "id": "7b190491-1543-4065-ac55-c2cac1fa33c2",
+   "t": 3214,
+   "user": "MSG1138",
+   "login": "msg1138",
+   "text": "Election is probably coming soon.",
+   "badges": []
+  },
+  {
+   "id": "37696003-de7b-4c1b-995e-3cce416979d4",
+   "t": 3228,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "I would live a new viewer to tune in and witness Crum's intense gaze.",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "c3a0cc77-2097-447a-b4d9-bdcbeb32a676",
+   "t": 3268,
+   "user": "love_the_haight",
+   "login": "love_the_haight",
+   "text": "Kevin and pepito tied in the primary",
+   "badges": [
+    "football-fest-2026"
+   ]
+  },
+  {
+   "id": "e2965463-7bc8-4e91-a45a-c01500f5fda8",
+   "t": 3276,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Is it sharing the FAA internet?",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "2aac8389-766e-4f00-bbb9-bce14c2fea48",
+   "t": 3349,
+   "user": "currently__working",
+   "login": "currently__working",
+   "text": "howdy binheads",
+   "badges": [
+    "vip"
+   ]
+  },
+  {
+   "id": "f0fb1f1c-df67-44ff-8fa9-16ea7d049ff0",
+   "t": 3363,
+   "user": "wolfdog410",
+   "login": "wolfdog410",
+   "text": "jet ski? cupidPog",
+   "badges": []
+  },
+  {
+   "id": "f374c1c1-b649-497c-8efd-93a14277b4bc",
+   "t": 3372,
+   "user": "CyCorr",
+   "login": "cycorr",
+   "text": "LUL",
+   "badges": [
+    "vip"
+   ]
+  },
+  {
+   "id": "3ebb8dce-fd01-4a6a-b537-2d24c95504c6",
+   "t": 3377,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "LUL",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "4c88307f-5138-4b42-96da-0da15c37f782",
+   "t": 3382,
+   "user": "wolfdog410",
+   "login": "wolfdog410",
+   "text": "LUL",
+   "badges": []
+  },
+  {
+   "id": "ad1b3da5-7b10-4f9f-95a5-84f2e3ecb98f",
+   "t": 3396,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "transportation offline, call in DUFFY",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "8bf44742-e5f3-43a8-a11d-11c3ca979784",
+   "t": 3398,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Oh, yea. That model does that sometimes. Manufacture recall.",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "bf603f6b-46b7-4c19-ac5b-c0267195153a",
+   "t": 3404,
+   "user": "love_the_haight",
+   "login": "love_the_haight",
+   "text": "!scroll Crum fools town. No jet skis. Only logs",
+   "badges": [
+    "football-fest-2026"
+   ]
+  },
+  {
+   "id": "8faba398-98eb-458e-9946-ac1806be6d40",
+   "t": 3405,
+   "user": "MSG1138",
+   "login": "msg1138",
+   "text": "That's just Rennerton.",
+   "badges": []
+  },
+  {
+   "id": "aec562e5-d941-4588-b893-fe82fab4e4cd",
+   "t": 3424,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!PC Munch sabotaged your jet ski as an assassin attempt. If only you were much closer.",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "80befd6b-ca6b-4c50-89f7-8f5964eb739c",
+   "t": 3425,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@JonMichael the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "fae222fd-9064-4793-9fb1-1940c468fc3a",
+   "t": 3486,
+   "user": "jons_lost_brain_cell",
+   "login": "jons_lost_brain_cell",
+   "text": "How do we still not have a skate park that was of utmost importance.",
+   "badges": [
+    "premium"
+   ]
+  },
+  {
+   "id": "10d4a9a6-3b0d-4109-992e-911042396ffb",
+   "t": 3507,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "munch started the skate park",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "7a8d29c7-e4fc-4705-9a06-43686b65bea0",
+   "t": 3577,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "!FP NOMINATE A MAYOR",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "51c16cfb-bd07-4272-900b-eee7d87f8422",
+   "t": 3584,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!pc now that you can skateboard. are you goofy or regular footed",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "1546ba10-90d9-402a-b465-878e8eb3bb15",
+   "t": 3584,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@bonzaibullfrog the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "c8d80ba5-60fd-4627-b1a5-77720eef7582",
+   "t": 3587,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!o munch",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "fc176b63-92db-481a-b12b-b965c5357dd6",
+   "t": 3592,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "!o CHET",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "c8567496-926d-4605-8ddf-88fb46b359ec",
+   "t": 3592,
+   "user": "love_the_haight",
+   "login": "love_the_haight",
+   "text": "!o hr toilet",
+   "badges": [
+    "football-fest-2026"
+   ]
+  },
+  {
+   "id": "ccd71bfc-865f-4e0a-89d9-868328ebae6a",
+   "t": 3592,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "!o Black Casewell",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "dc7c4b01-c44f-409a-bbab-153b5b0964ec",
+   "t": 3594,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "!o Liliana",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "e21bd932-4984-4be8-a6fc-114b7e8e1403",
+   "t": 3595,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!o Alive Munch",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "e6eb1c7d-756b-4c02-8392-914a055b10e7",
+   "t": 3599,
+   "user": "currently__working",
+   "login": "currently__working",
+   "text": "!0 granman",
+   "badges": [
+    "vip"
+   ]
+  },
+  {
+   "id": "5b5cb7df-4911-4986-bf4a-40149516b60d",
+   "t": 3605,
+   "user": "love_the_haight",
+   "login": "love_the_haight",
+   "text": "!3",
+   "badges": [
+    "football-fest-2026"
+   ]
+  },
+  {
+   "id": "ff3ac328-eae3-4c84-ac06-a735d5a479c5",
+   "t": 3606,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "!5",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "aa6be721-3092-4939-a4f9-86a3534dfeb8",
+   "t": 3609,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!2",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "f9119697-c710-4739-9f1e-7e90ac8d73e4",
+   "t": 3610,
+   "user": "im_apple_dapple",
+   "login": "im_apple_dapple",
+   "text": "!5",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "87b62d3b-7397-4aac-bf17-696e96d50367",
+   "t": 3614,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!5",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "9ed1678f-d05a-4593-8532-05432d01b573",
+   "t": 3615,
+   "user": "jons_lost_brain_cell",
+   "login": "jons_lost_brain_cell",
+   "text": "!5",
+   "badges": [
+    "premium"
+   ]
+  },
+  {
+   "id": "a99eee18-a88a-4823-8a4b-4d4fed362473",
+   "t": 3616,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "!1",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "c19b90ad-f344-437c-9c48-e5b27c8abab5",
+   "t": 3617,
+   "user": "MSG1138",
+   "login": "msg1138",
+   "text": "!5",
+   "badges": []
+  },
+  {
+   "id": "9b11fff6-67a2-4253-a2ea-3d177e00a5ad",
+   "t": 3624,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!1",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "81b4d2b9-73ef-4d38-9360-4f9d4269bf21",
+   "t": 3625,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "The winner of the flashpoll is Liliana!",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "e76a02b8-4815-4bf1-976c-8e36f4754ad9",
+   "t": 3628,
+   "user": "currently__working",
+   "login": "currently__working",
+   "text": "!5",
+   "badges": [
+    "vip"
+   ]
+  },
+  {
+   "id": "c535b6b4-524b-472a-982e-08143e92122f",
+   "t": 3654,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "!pc Mighty fiiine place ya gaut he ya, I say, I say. Lisin hear bub, I suggest ya fix tha movie theata post haste. Us folk need ow a stowries. *sniff Yes I'ma lawya.",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "770fd9ca-331f-4cf8-87d8-d3bc5990a0d4",
+   "t": 3654,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@giggletrash the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "a620d9ab-e5b2-412b-8945-ef2d4e7bb640",
+   "t": 3678,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Progress",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "0ee813e6-c2fe-483d-8f3f-9a5ac0f04e0c",
+   "t": 3693,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "Undrain the Swamp!",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "499196a7-9a27-4a7d-aa36-1e0608a8c9ff",
+   "t": 3847,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "This down needs to blatant insider trading",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "0e3a0c81-6571-4a58-987c-526cbaf7fdd8",
+   "t": 3853,
+   "user": "matt_liddell",
+   "login": "matt_liddell",
+   "text": "Hello Mayor Crum, great to see you my friend.",
+   "badges": [
+    "squirtle"
+   ]
+  },
+  {
+   "id": "0dc7fc1e-bc7c-4ecb-9917-ede668b86548",
+   "t": 3881,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!pc fax bear news here, how long will it take to drain the swamp for the skatepark",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "8e7b44df-8711-4897-ad38-c2fb4a62d1d6",
+   "t": 3899,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "!pc Eight six seven five three oh nine, Eight six seven five three oh nine, Eight six seven five three oh nine, Eight six seven five three oh nine",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "d4dd9b4c-dbce-40cc-8be3-2b2d30e1ebba",
+   "t": 3900,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@sabricci the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "7ad5e263-55f5-4864-9617-07d63b05ac5c",
+   "t": 3909,
+   "user": "matt_liddell",
+   "login": "matt_liddell",
+   "text": "smartest thing she could have done is put you in charge.",
+   "badges": [
+    "squirtle"
+   ]
+  },
+  {
+   "id": "0a005a07-3f71-402a-b66c-f86258ef127d",
+   "t": 3987,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!pc when can we get some roller coasters out here? i want some loop di loop fun",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "b16e0427-26a2-4f26-97fb-3c5f2bdbcc5b",
+   "t": 3988,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@bonzaibullfrog the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "ae0d158d-fb9d-43c7-bc1c-0540b0fd04b1",
+   "t": 3999,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "!fp what municipal role best suits Crum",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "8d2490cb-cef7-4f33-8f0f-65c7752ab77c",
+   "t": 4014,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!o cuck",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "14eb2426-4299-4700-8a4d-b55c6a573922",
+   "t": 4014,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "!o toilet cleaner",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "4dff0697-5df6-4a69-8857-bbd35d39157b",
+   "t": 4015,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "!o parking boot luber",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "766a2c47-91eb-447f-912c-a1fe15702699",
+   "t": 4015,
+   "user": "matt_liddell",
+   "login": "matt_liddell",
+   "text": "!o Mayor",
+   "badges": [
+    "squirtle"
+   ]
+  },
+  {
+   "id": "85cdffd6-8fca-42d1-b789-4cc99b831ec8",
+   "t": 4018,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "!o Town Honey Pot Cleaner",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "86570438-a056-4a37-98c3-9a7935681d5f",
+   "t": 4021,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!o Garbage Man because he's trash",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "ee6f48b3-bf96-4913-8404-04b58899c53d",
+   "t": 4023,
+   "user": "CyCorr",
+   "login": "cycorr",
+   "text": "!o option 4",
+   "badges": [
+    "vip"
+   ]
+  },
+  {
+   "id": "6022ec93-9c8d-440d-ae76-bd1c78af95ce",
+   "t": 4023,
+   "user": "love_the_haight",
+   "login": "love_the_haight",
+   "text": "!o charlie work",
+   "badges": [
+    "football-fest-2026"
+   ]
+  },
+  {
+   "id": "f08b1399-ede4-4e26-979b-7aa6137fb4c7",
+   "t": 4028,
+   "user": "matt_liddell",
+   "login": "matt_liddell",
+   "text": "!4",
+   "badges": [
+    "squirtle"
+   ]
+  },
+  {
+   "id": "fbe8ff77-7707-463e-b71a-ac4bf6f99db3",
+   "t": 4029,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!2",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "6173c121-16e7-4f23-8cae-680337169ca7",
+   "t": 4031,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "!3",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "8df30771-7816-41d6-aeea-e918d2cdd5f8",
+   "t": 4033,
+   "user": "AVCP333",
+   "login": "avcp333",
+   "text": "!1",
+   "badges": []
+  },
+  {
+   "id": "8aac44cd-b00d-4e39-b758-e4b878a76fd8",
+   "t": 4033,
+   "user": "CyCorr",
+   "login": "cycorr",
+   "text": "!4",
+   "badges": [
+    "vip"
+   ]
+  },
+  {
+   "id": "ac85dfc3-91c0-4b1d-9bfc-0f214a49f372",
+   "t": 4036,
+   "user": "love_the_haight",
+   "login": "love_the_haight",
+   "text": "!1",
+   "badges": [
+    "football-fest-2026"
+   ]
+  },
+  {
+   "id": "9ab063a9-b90b-4d53-9a10-9023f0407db1",
+   "t": 4038,
+   "user": "im_apple_dapple",
+   "login": "im_apple_dapple",
+   "text": "!1",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "033c80c3-e53b-4f7b-a86b-a9f6594ab6c2",
+   "t": 4040,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "!1",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "f3da09db-8583-4533-b7be-d468eee6d71b",
+   "t": 4040,
+   "user": "shaggy175",
+   "login": "shaggy175",
+   "text": "!1",
+   "badges": [
+    "d20"
+   ]
+  },
+  {
+   "id": "113563ec-eda2-4d3f-89c3-84d9abc783e9",
+   "t": 4042,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "!1",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "9a240806-93d1-40c5-8f7c-edda2d3a5b34",
+   "t": 4044,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "!2",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "97a3f518-8e6d-4f98-8962-106e4194aea6",
+   "t": 4049,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "The winner of the flashpoll is cuck!",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "95a5c54a-8102-4677-8a0e-15dfd3210a21",
+   "t": 4073,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "You can def cuck on a professional level",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "f661b878-a2d1-43c0-9424-9b7447dbeb78",
+   "t": 4077,
+   "user": "love_the_haight",
+   "login": "love_the_haight",
+   "text": "Then do it for free",
+   "badges": [
+    "football-fest-2026"
+   ]
+  },
+  {
+   "id": "82172e16-2784-4e3b-860f-87010f0d0c51",
+   "t": 4089,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "I think there is already a chair next to the bed in the mansion, too",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "9097eeee-7e12-4b3f-b4ca-47c48559cfd4",
+   "t": 4106,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "I didn't mean you specifically just like in general",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "f51e5290-6371-48f7-a488-568dccee4519",
+   "t": 4133,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "respawned in the cuck chair",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "3081be1a-4f5c-4ec0-bfae-008199ae04b3",
+   "t": 4136,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Any flashbacks to the Hellmouth?",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "6e377c50-3cf6-42f7-95e8-1d900c6b7cb3",
+   "t": 4147,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "crum abandoned me and i died",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "da5581ba-079a-45f9-9dd2-1686b6f73073",
+   "t": 4150,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "now i have to corpse run",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "8f439ee6-f02f-415f-8420-404a85c4ce1b",
+   "t": 4160,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "good thing I built this boat",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "7164c1ff-ee77-462e-9237-0880f8858b19",
+   "t": 4160,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "cant recover your dignity",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "a270dc6e-fc10-42cb-9fd8-f6feb111922d",
+   "t": 4186,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!pc ʍʍʍǝ ǝʍʍ oooooʍ ǝǝǝɥʍ ǝʍʍ ǝʍʍǝǝǝǝǝǝʍʍʍʍʍ",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "41ea6532-1d28-49ed-ac0b-e01607858f61",
+   "t": 4186,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@JonMichael the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "84a697de-2762-4490-819f-84aa8ba1aac5",
+   "t": 4220,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "Cal 7, Virginia 36; Hoos are one game from bowl eligibility",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "66a2a6d9-71aa-4362-85f8-724ee854717e",
+   "t": 4294,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "That'll put hair on your JetSki",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "6e8f265f-60fa-4a50-a858-7a901138992d",
+   "t": 4341,
+   "user": "CyCorr",
+   "login": "cycorr",
+   "text": "!scroll MUNCH SET TO PROVIDE 50 NEW JETSKIS TO RENNERTON?",
+   "badges": [
+    "vip"
+   ]
+  },
+  {
+   "id": "fec33ca7-20ca-4760-a96b-d2fa614a0e5a",
+   "t": 4383,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "PARRY",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "a7b425c3-c02e-4216-8d27-a117266c8589",
+   "t": 4430,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "Cut n Run Crum",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "dfb5f0b5-652d-4f30-856f-91a3996c19fe",
+   "t": 4475,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "You already arent mayor!",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "30ab90d9-cfb3-4418-9156-daf94fe86fa6",
+   "t": 4523,
+   "user": "CyCorr",
+   "login": "cycorr",
+   "text": "!o option 4",
+   "badges": [
+    "vip"
+   ]
+  },
+  {
+   "id": "48b4f344-81f5-46ae-a97b-ab8536bc47f7",
+   "t": 4523,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "we should vote on munch being my public relations officer",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "5d6feb3d-3947-47a6-80e0-483319f022c6",
+   "t": 4545,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "Undead Kevin",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "25249d2d-92ac-41fb-9627-1943cb4a06ad",
+   "t": 4557,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "I'm chilling on an island with a fire until day and the fog is over",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "b26e04e1-492c-4fa3-b91d-c391a4f2d6cf",
+   "t": 4569,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!3",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "801ad598-ecfb-4d3a-8c49-28a1885b7e20",
+   "t": 4576,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!3",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "1c4049ff-ec30-4d8e-80fc-af73cd913256",
+   "t": 4582,
+   "user": "hueycuyler",
+   "login": "hueycuyler",
+   "text": "!2",
+   "badges": [
+    "bits"
+   ]
+  },
+  {
+   "id": "c2cd028d-02c6-407d-a4d2-caa75496e74e",
+   "t": 4589,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!3",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "6a59c010-5e2e-452d-87ac-b7f1a435f98b",
+   "t": 4590,
+   "user": "matt_liddell",
+   "login": "matt_liddell",
+   "text": "that is going to change",
+   "badges": [
+    "squirtle"
+   ]
+  },
+  {
+   "id": "37de44cf-7991-432f-a711-bf404a08e1d7",
+   "t": 4591,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "caseblRick caseblRick",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "7ebce617-5ae2-4c92-a809-5ac2cc33acca",
+   "t": 4611,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!3",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "6d9abd19-5275-4af2-b92d-0ebff5493064",
+   "t": 4633,
+   "user": "currently__working",
+   "login": "currently__working",
+   "text": "!5",
+   "badges": [
+    "vip"
+   ]
+  },
+  {
+   "id": "aa20f726-531c-4512-8e12-4b75e66b2657",
+   "t": 4639,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!4",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "4c587a45-b1a9-4f21-a6ac-d188f5ad9362",
+   "t": 4669,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!4",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "dab51a20-839e-4e19-9c3c-ad8791113538",
+   "t": 4687,
+   "user": "love_the_haight",
+   "login": "love_the_haight",
+   "text": "caseblPepito caseblPepito caseblPepito caseblPepito",
+   "badges": [
+    "football-fest-2026"
+   ]
+  },
+  {
+   "id": "9659bb58-74d5-40c0-9b34-e5ef42f8b019",
+   "t": 4693,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "!scroll Rennterton adopts JetSki as its official currency",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "5eb15db9-9c8e-4f54-b291-b16ce4dcf55c",
+   "t": 4698,
+   "user": "im_apple_dapple",
+   "login": "im_apple_dapple",
+   "text": "Also a Pope",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "37f8c8c4-c419-4ce1-902c-3b49c7814839",
+   "t": 4699,
+   "user": "love_the_haight",
+   "login": "love_the_haight",
+   "text": "caseblPepito caseblRick caseblPepito caseblRick caseblPepito caseblRick caseblPepito",
+   "badges": [
+    "football-fest-2026"
+   ]
+  },
+  {
+   "id": "5e0711a9-a40c-4c66-8382-a217afa61d51",
+   "t": 4702,
+   "user": "im_apple_dapple",
+   "login": "im_apple_dapple",
+   "text": "caseblPepito caseblPepito caseblPepito caseblPepito",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "c79958ed-aa9e-4786-a4ac-0e0f1b8cb37c",
+   "t": 4704,
+   "user": "im_apple_dapple",
+   "login": "im_apple_dapple",
+   "text": "caseblPepcheese caseblPepcheese caseblPepcheese caseblPepcheese caseblPepcheese caseblPepcheese",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "c1318ad0-0993-414b-bca3-2a3d3c4fe4b7",
+   "t": 4709,
+   "user": "im_apple_dapple",
+   "login": "im_apple_dapple",
+   "text": "caseblRick caseblRick caseblRick caseblRick caseblRick",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "0d95a7f1-0985-4eb7-adab-0f7cadac3b03",
+   "t": 4710,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Dang it. I step away for one second, and bam, mayor vote",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "bd41f781-d68d-4ebc-bd78-fd997150a2de",
+   "t": 4718,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "caseblPepito",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "b42c1b03-75ca-416b-9d82-b062db6ca813",
+   "t": 4734,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "Grand Old Pepito big win for the GOP",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "fa45eea6-9fcc-497d-8a54-4fea4ceb3a37",
+   "t": 4746,
+   "user": "love_the_haight",
+   "login": "love_the_haight",
+   "text": "He's just a little guy",
+   "badges": [
+    "football-fest-2026"
+   ]
+  },
+  {
+   "id": "01370ea4-5b7f-48cf-abd7-3a6a04aca900",
+   "t": 4760,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Applebox, someone!",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "c7deaab3-598b-4647-8626-91773d240d63",
+   "t": 4786,
+   "user": "matt_liddell",
+   "login": "matt_liddell",
+   "text": "Good song",
+   "badges": [
+    "squirtle"
+   ]
+  },
+  {
+   "id": "9a1d7e75-62f9-4f36-9673-863de281bcee",
+   "t": 4789,
+   "user": "love_the_haight",
+   "login": "love_the_haight",
+   "text": "!pc cheese?",
+   "badges": [
+    "football-fest-2026"
+   ]
+  },
+  {
+   "id": "1199a0b7-412b-4b43-abdf-9e21d12ad0a0",
+   "t": 4789,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@love_the_haight the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "013e5192-92b5-4e7c-a8db-d405f60f514f",
+   "t": 4790,
+   "user": "im_apple_dapple",
+   "login": "im_apple_dapple",
+   "text": "Nice hoodie Pepito",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "0be4a2c8-fc1a-4ed3-8243-8abbbb110766",
+   "t": 4834,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!pc How do you feel about llǝʍʞɔɐlq ǝsɐƆ trying to oust you from BIN due to your lawsuits? You can only afford your shitty lawyer because of your debt. It's vile that you're tring to sue his viewers.",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "22518f5f-0ffb-44c7-baea-7a7dda880f75",
+   "t": 4834,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@JonMichael the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "f62df5dd-44ac-4cf1-bc08-36413ed70c59",
+   "t": 4842,
+   "user": "love_the_haight",
+   "login": "love_the_haight",
+   "text": "!pc will gooters cheese be jist as wet as the chicken? Or more?",
+   "badges": [
+    "football-fest-2026"
+   ]
+  },
+  {
+   "id": "401ca260-86e2-4e88-9167-3db363a11be5",
+   "t": 4854,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "!PC what are some of your favorite fragrant bottoms you've sniffed",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "7781f509-bc9f-427b-8a22-15884c725534",
+   "t": 4855,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@LiveNSleazy the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "901cb6a4-ca41-467f-8a2e-fdeb730eaf97",
+   "t": 4857,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "I like the part where Crum died",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "280959cf-d14d-4f1e-ba24-864789a75c2b",
+   "t": 4861,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!pc how does it feel to be the first dog mayor",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "9f14fe27-cd69-4c06-83cd-aa27e7c6d93e",
+   "t": 4861,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@bonzaibullfrog the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "856fddc2-b9f9-4592-8c97-4bc1ff1704a7",
+   "t": 4881,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "!pc Give DUFFY the money!",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "1c531030-ef75-4907-995f-54cbc8da8704",
+   "t": 4881,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@skymyr the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "d3dbec35-da59-4df5-ade9-6cc1f28387c2",
+   "t": 4965,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "!pc can we exile crum to the swamp",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "a50ce028-c59d-4fc4-a58f-8376ebab91ec",
+   "t": 4966,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@MelodyVonTorture the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "4f0d09b2-4fb0-4962-86f0-7d6240b8f484",
+   "t": 4968,
+   "user": "love_the_haight",
+   "login": "love_the_haight",
+   "text": "caseblFreakass",
+   "badges": [
+    "football-fest-2026"
+   ]
+  },
+  {
+   "id": "7f6813bd-7919-422b-a8d4-cbec008a6cb8",
+   "t": 4999,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "Mathew Lesko gets it",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "bcbe2d57-8c92-44d2-af9b-2c0d923ac251",
+   "t": 5026,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "lol",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "c3a99309-502f-4816-944d-d6b0c7c2529d",
+   "t": 5033,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Wow",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "2b4b609d-9aeb-4a24-8cdb-2ade39829546",
+   "t": 5084,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "!pc Our local news reported a Black Fur-Day sale where black dogs are half off.  The lady in the interview said its because they all look alike.  Is that racist?  This house is divided on it.",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "43423a40-5fe3-4329-8163-0616ea616fc2",
+   "t": 5138,
+   "user": "CyCorr",
+   "login": "cycorr",
+   "text": "!pc can you give us a BIIIIIG stretch? thats a good boy... er.. thing",
+   "badges": [
+    "vip"
+   ]
+  },
+  {
+   "id": "50dd6c49-8f8d-46f8-bc8c-c96e6388ac03",
+   "t": 5138,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@CyCorr the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "8cdc0b1d-792f-4302-a652-d55f84bd4e10",
+   "t": 5141,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "So I was right about upside down reverse text breaking the comments LUL",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "21e218ba-2579-4d7f-bafd-88f42298febc",
+   "t": 5162,
+   "user": "love_the_haight",
+   "login": "love_the_haight",
+   "text": "!pc will gooters cheese be jist as wet as the chicken? Or more?",
+   "badges": [
+    "football-fest-2026"
+   ]
+  },
+  {
+   "id": "6192fb43-ef7e-4629-b577-8ec42c2535b8",
+   "t": 5163,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@love_the_haight the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "a5c3c691-9427-403a-8ab0-1c77d33767d5",
+   "t": 5185,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!PC Pepito don't drink the swamp water. That's where the dead bodies are dumped",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "595c1c3d-cdaa-4428-be8a-6439a9a5779d",
+   "t": 5192,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "USA! USA?",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "faca29b6-bbaf-4a0f-b61b-5e7077c61c34",
+   "t": 5317,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Mirrors, chicken wings, a sad DJ, and maybe a pole. Has to be open at 10AM on Tuesdays",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "bd4efefa-a61a-4e73-aea0-e8d7f4ee0fe2",
+   "t": 5372,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "\"Get those boobs out of my way I'm here for the vistas!\"",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "d829656d-11a0-490b-8089-27f1c5045cf6",
+   "t": 5405,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "Crum squandered our resources",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "c5ae8256-f35a-4eba-bced-7419fe2032e9",
+   "t": 5415,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Something about JetSki's",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "6034dc96-48f4-491e-b865-359017e6054c",
+   "t": 5437,
+   "user": "DaedalusKE",
+   "login": "daedaluske",
+   "text": "!freak",
+   "badges": [
+    "premium"
+   ]
+  },
+  {
+   "id": "cad575b7-9d17-4dd5-ae23-42febf028fef",
+   "t": 5438,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "Follow the world's greateast kickstarter at https://www.kickstarter.com/projects/13freakstreet/13-freak-street-a-horror-comedy-anthology",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "b205c74f-561b-4c34-99e3-ea079d4cce48",
+   "t": 5490,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "wow 198 freak followers?!",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "c11eeb94-a22e-4369-b34a-230373ccde42",
+   "t": 5546,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!pc should we reach out to friendslike gina darling to help with the kickstarter?",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "fe1b29e8-e4ec-43f8-bd18-5a0fe9c43fff",
+   "t": 5547,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@bonzaibullfrog the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "03e5e963-8868-4870-bb56-0fedb202eb5b",
+   "t": 5552,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "Crum's body is too weak to carry much",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "a3ec75f8-8f46-4fbe-b53c-783a6a1cd95b",
+   "t": 5591,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "!PC what is your favorite meal from the Gooters Ron Rico Classics menu",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "f7c1f07f-310e-44f7-a5de-2e2f54ad8bea",
+   "t": 5591,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@LiveNSleazy the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "caee1add-c6e6-4b3d-b082-a6b84b88a2a4",
+   "t": 5607,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "!pc wwewwewwewwewwewwewwewwwweeeewwweeeewwwwwweeeeeeewwwwwwwwweeeeewweWWE",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "ea74b681-0654-47e3-a10d-276aa6942828",
+   "t": 5608,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@sabricci the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "d669d4fd-cc7a-4c65-b887-0e64324420b8",
+   "t": 5614,
+   "user": "vink218",
+   "login": "vink218",
+   "text": "cheeeese",
+   "badges": []
+  },
+  {
+   "id": "3982204d-1374-4035-b127-4dc8ff59dbf0",
+   "t": 5631,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "Munch's Skelebody was able to carry the entire population of Rennerton on his back",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "b256ba6d-c739-41ae-8571-16025f1c510c",
+   "t": 5696,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Cheer100 !muncheon",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "a964e30c-6859-4277-83f4-7024eaf1ff83",
+   "t": 5713,
+   "user": "LiveNSleazy",
+   "login": "livensleazy",
+   "text": "Swingers clubs have great buffets, the prime rib, the primest",
+   "badges": [
+    "moderator",
+    "founder",
+    "bits"
+   ]
+  },
+  {
+   "id": "375b74b0-bf09-42cd-b0c5-bfaa4d2d957d",
+   "t": 5717,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "!pc I will say one nice thing about Crum; he was the 4th best mayor new rennerton has had",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "c25cec9b-d4cd-45fa-ba6d-87401019f348",
+   "t": 5717,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@MelodyVonTorture the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "2aa5fd44-30d2-4a2e-803e-6f208c9f91d7",
+   "t": 5838,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!PC Pepito don't drink the swamp water. That's where the dead bodies are dumped",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "ff052509-b166-48ff-a9bc-6ec60e911d24",
+   "t": 5838,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@JonMichael the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "ccc57a3e-bf85-4c5e-8186-763a8aebc516",
+   "t": 5974,
+   "user": "matt_liddell",
+   "login": "matt_liddell",
+   "text": "Dont worry Pepito, Munch could never get wood, your doing a lot better than him.",
+   "badges": [
+    "squirtle"
+   ]
+  },
+  {
+   "id": "56a1ef28-4a77-4432-bab5-28162fb20ad6",
+   "t": 5977,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Sturdy",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "b5ab3f1f-2283-4612-8e6f-b2253f8df7d4",
+   "t": 5985,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "Consult your doctor if you find yourself out of wood at the strip club",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "0e6b4c98-9694-4b78-baf8-7ad1a08f46b5",
+   "t": 6001,
+   "user": "matt_liddell",
+   "login": "matt_liddell",
+   "text": "@skymyr 💯",
+   "badges": [
+    "squirtle"
+   ]
+  },
+  {
+   "id": "0e9f8bab-1378-4b76-a826-ce0c3663f6f2",
+   "t": 6398,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "Rennerton must be above the Arctic Circle",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "5f6a34db-a252-48fb-868f-8c06ffa17f22",
+   "t": 6521,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "!pc Dog Mayor, any plans to adopt alternative lights sources other than lighting our town on fire? I got a lot of stocks in the wood business I'm trying to protect.",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "2feed052-5e93-4ce0-994e-b4a64009e359",
+   "t": 6522,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@giggletrash the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "dd438ffc-132c-4b8c-a16e-6735a90f7bd0",
+   "t": 6578,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "finally a tough on crime mayor",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "1d705fe4-7cf1-49f9-9a04-3d21cc0099f7",
+   "t": 6629,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "A murder mystery!",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "ba7d6dd4-7530-4f56-b891-3e8614c04f0b",
+   "t": 6965,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "Use it as a flag pole too, 3 uses",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "2c028abb-0c5d-443f-81cf-25c25d5292b6",
+   "t": 6979,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "I wonder what the first strip joint looked like. For historical purposes.",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "ef097ae4-0b01-4287-be40-b6f35bba37c9",
+   "t": 7047,
+   "user": "shaggy175",
+   "login": "shaggy175",
+   "text": "Is that the champagne room?",
+   "badges": [
+    "d20"
+   ]
+  },
+  {
+   "id": "80232de9-9084-4ce2-aa58-1ecb9e4871ba",
+   "t": 7088,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "is this too graphic for Twitch?",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "1d90bd1c-f6aa-49af-80bc-43b9ce1b81c2",
+   "t": 7109,
+   "user": "jons_lost_brain_cell",
+   "login": "jons_lost_brain_cell",
+   "text": "From Mayor to dance such a cautionary tale",
+   "badges": [
+    "premium"
+   ]
+  },
+  {
+   "id": "e9d696ec-de3c-440e-a354-f47932ac3890",
+   "t": 7140,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "I hope we see Munch get his bones out next",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "ddd85484-1dfa-4b2c-86ca-ff21b9b1c233",
+   "t": 7145,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!pc do you think crum will make more money on the poles than he did as mayor?",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "f49984e7-fdfe-4bd9-a3d7-5d767262148b",
+   "t": 7145,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@bonzaibullfrog the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "e2bc0717-b11b-4c87-90e4-f110aa2e073a",
+   "t": 7199,
+   "user": "jons_lost_brain_cell",
+   "login": "jons_lost_brain_cell",
+   "text": "No room for the lunch buffet need to expand already",
+   "badges": [
+    "premium"
+   ]
+  },
+  {
+   "id": "64f75428-f25e-49cd-9851-5256acdc9227",
+   "t": 7213,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "had to start stripping to pay for the skatepark",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "a016e8f1-c2c9-4a70-96a6-a11ae39ffbb4",
+   "t": 7216,
+   "user": "shaggy175",
+   "login": "shaggy175",
+   "text": "Body glitter is the color of strip clubs",
+   "badges": [
+    "d20"
+   ]
+  },
+  {
+   "id": "a28a4b59-fd48-4a23-90eb-49986750b50f",
+   "t": 7223,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Tale as old as time",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "6b5ee10b-63a0-4dd6-acb6-6f0a0e071c53",
+   "t": 7303,
+   "user": "jons_lost_brain_cell",
+   "login": "jons_lost_brain_cell",
+   "text": "Steak and crab legs only",
+   "badges": [
+    "premium"
+   ]
+  },
+  {
+   "id": "cc389a06-8fbc-4e1a-a59e-16cf4856fc9c",
+   "t": 7333,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "he is vaguely phallic",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "c2ed8921-9490-4f38-a4ba-3d832f77432b",
+   "t": 7398,
+   "user": "MSG1138",
+   "login": "msg1138",
+   "text": "Name it, Nova's, after your mother.",
+   "badges": []
+  },
+  {
+   "id": "caad439a-267d-4c6c-b451-b3b343dd327f",
+   "t": 7408,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Aww",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "607bedee-1a1f-4a62-a06f-1cb6a2362c97",
+   "t": 7443,
+   "user": "jons_lost_brain_cell",
+   "login": "jons_lost_brain_cell",
+   "text": "Most accomplished mayor so far campaign promise delivered",
+   "badges": [
+    "premium"
+   ]
+  },
+  {
+   "id": "bc887028-3838-457e-8301-253ddb4cbddb",
+   "t": 7454,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Magic",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "43bc7ef0-b688-4fbd-aa59-3e479ba20695",
+   "t": 7464,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "!fp what next?",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "05f6b044-17f7-4d4e-bd90-1867e101f054",
+   "t": 7477,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "!o START FIRES",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "fe16cc4b-f91d-4a3c-a967-21689539cec8",
+   "t": 7479,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "!o Giant Toilet",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "b401ba48-b5f8-41cf-9f93-34c6bb06f11a",
+   "t": 7483,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "!o do whatever it takes to stop crum from being elected again",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "fb8f156d-6213-4202-934e-b6006b52e6dc",
+   "t": 7483,
+   "user": "matt_liddell",
+   "login": "matt_liddell",
+   "text": "!o Social Security Office",
+   "badges": [
+    "squirtle"
+   ]
+  },
+  {
+   "id": "dc16f66e-cc73-4376-a101-b5d7020379d0",
+   "t": 7484,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!eat bodies",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "901b4119-da83-4356-ad10-06f67ed9b7ce",
+   "t": 7490,
+   "user": "BolivarTrask",
+   "login": "bolivartrask",
+   "text": "Its 9 p.m. do we know if Creed has died a texas death yet?",
+   "badges": [
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "c5140e1f-09b1-4504-8897-d8892b1dd3c5",
+   "t": 7502,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!o eat bodies",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "f7fb591f-5a1b-444f-94c2-e32fefe64212",
+   "t": 7503,
+   "user": "MSG1138",
+   "login": "msg1138",
+   "text": "!o bike rake",
+   "badges": []
+  },
+  {
+   "id": "569cebcf-48a7-4d9a-970e-c96a9acad031",
+   "t": 7513,
+   "user": "matt_liddell",
+   "login": "matt_liddell",
+   "text": "!4",
+   "badges": [
+    "squirtle"
+   ]
+  },
+  {
+   "id": "72671f69-8c48-439f-b6b2-da9251d911b3",
+   "t": 7514,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "!1",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "8d51f2da-2542-4900-8d3d-da230d27f906",
+   "t": 7516,
+   "user": "MSG1138",
+   "login": "msg1138",
+   "text": "I meant rack",
+   "badges": []
+  },
+  {
+   "id": "b4f24edd-64f2-4234-acd5-bd55f08f7411",
+   "t": 7517,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "!o 2",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "aeb0eccc-4563-4882-9966-a8bcba68d03f",
+   "t": 7522,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "!2",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "250d7ead-ad15-47d4-bc53-f656fe121127",
+   "t": 7524,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!3",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "12da654f-1315-48c1-9c42-f3d0c1aedf4c",
+   "t": 7527,
+   "user": "im_apple_dapple",
+   "login": "im_apple_dapple",
+   "text": "!1",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "beae1a42-f494-4fc8-a6e3-d9feb613a942",
+   "t": 7533,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "The winner of the flashpoll is START FIRES!",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "d9a34d0d-57aa-4953-bf3f-60c43bf0b3f7",
+   "t": 7534,
+   "user": "jons_lost_brain_cell",
+   "login": "jons_lost_brain_cell",
+   "text": "!2",
+   "badges": [
+    "premium"
+   ]
+  },
+  {
+   "id": "38a015a9-5adb-491b-8fb4-5f3aef960441",
+   "t": 7537,
+   "user": "MSG1138",
+   "login": "msg1138",
+   "text": "!1",
+   "badges": []
+  },
+  {
+   "id": "05803928-8e34-4193-9fa6-84369e0c4be6",
+   "t": 7559,
+   "user": "matt_liddell",
+   "login": "matt_liddell",
+   "text": "Love you Pepito. findthHi findthHi",
+   "badges": [
+    "squirtle"
+   ]
+  },
+  {
+   "id": "259986f8-8771-459c-ad79-f9be71873c41",
+   "t": 7589,
+   "user": "MSG1138",
+   "login": "msg1138",
+   "text": "Now that I think of it, a bike that rakes isn't a bad idea.",
+   "badges": []
+  },
+  {
+   "id": "77d39c40-09e3-430c-a20a-05d53f60aa5f",
+   "t": 7618,
+   "user": "RaysilvaEXT9",
+   "login": "raysilvaext9",
+   "text": "Finally back pepito are you mayor now please tell me you ate crum",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "745dedc4-13f4-4e8d-a080-cb142eb3b454",
+   "t": 7621,
+   "user": "MSG1138",
+   "login": "msg1138",
+   "text": "jesus.",
+   "badges": []
+  },
+  {
+   "id": "0ff8510f-d2dc-4e50-aeeb-777a744edba6",
+   "t": 7645,
+   "user": "RaysilvaEXT9",
+   "login": "raysilvaext9",
+   "text": "Nice PowerUpL caseblPepito PowerUpR",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "14a145a5-d6a8-44e9-a244-65137ec412a8",
+   "t": 7868,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "Iron Rifle!",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "d5e85d41-c3e3-4e95-baeb-7edddd0d9530",
+   "t": 7958,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "Is that bloodbag in your pocket or are you happy to see me?",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "4b8fbdb6-a3a9-4c67-bec3-7ab4b9f9ef99",
+   "t": 8001,
+   "user": "RaysilvaEXT9",
+   "login": "raysilvaext9",
+   "text": "Those are just human gummy worms",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "672eb469-75e0-441b-8654-4a24e57840c1",
+   "t": 8089,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "Guns solve all our problems!",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "076fec46-2cf7-4d3a-9f8c-d800548a59e2",
+   "t": 8126,
+   "user": "RaysilvaEXT9",
+   "login": "raysilvaext9",
+   "text": "Idk you could have gins in this game lol",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "896e8120-3425-4b7b-a1cb-d9c3ad5bfc46",
+   "t": 8146,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "caseblTongue",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "f089bc27-7c23-4e42-bdc3-66c09626a80d",
+   "t": 8221,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "The only way to stop a good guy with a gun is a bad guy with a gun",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "421daa3c-c772-471a-aedd-5b19d81e256c",
+   "t": 8247,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "this thing doesnt respect GUN!",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "43b0feb9-0686-4461-9d3e-b68b2378a385",
+   "t": 8344,
+   "user": "unclephil2k",
+   "login": "unclephil2k",
+   "text": "Pepitoooooooo! Pop 'em like das boogaz!",
+   "badges": [
+    "bits"
+   ]
+  },
+  {
+   "id": "3dea7a04-be44-49c4-ba9f-3b2712c0202b",
+   "t": 8371,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "i put a clip from the thexasdeath match in the discord",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "7ff689f7-de22-4c3d-aff0-affe1a7d7dd1",
+   "t": 8686,
+   "user": "RaysilvaEXT9",
+   "login": "raysilvaext9",
+   "text": "Holy shit lol",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "f63c49bc-891c-4b54-ac45-daa2a4785703",
+   "t": 8720,
+   "user": "RaysilvaEXT9",
+   "login": "raysilvaext9",
+   "text": "Gun dog",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "c243c43e-ccec-428e-8a59-c61f3ef26149",
+   "t": 8746,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Guns are the new JetSki?",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "545e69e6-1b9d-42e3-935c-6187cd56e3ed",
+   "t": 8762,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "Funds for Guns!!",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "c9bcd076-b7cd-4de2-8f81-2ec5a223fb25",
+   "t": 8795,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "!scroll 1-800-GUN-4DOG Operators are standing by",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "a8a57efd-36f9-40ec-a880-d205be0527e5",
+   "t": 8841,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "!tts COME SAIL AWAY. COME SAIL AWAY. COME SAIL AWAY WITH MVT!",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "273fd248-4b9e-4c6b-858a-edd8a82a01f9",
+   "t": 9043,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "Rennerton Navy!",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "fa5d2cab-52dd-4689-b8c7-c7e94e473246",
+   "t": 9077,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Cheer300 Only you can prevent not killing forest animals. Brought to you by Gooters.",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "da4494c2-ae57-4e03-99eb-aabfdd6ea92b",
+   "t": 9225,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "And that was the last we ever saw of Mayor Pepito",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "75bf0567-654a-458c-b097-a4fe4ea20285",
+   "t": 9271,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Is it a 3 hour tour?",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "7dbf486e-831a-45f6-a9d6-c8d2582ff647",
+   "t": 9279,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!PC Is Fat Hawk Rennerton's state bird?",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "161a0766-2adb-4eef-88d2-944e57e8a5d6",
+   "t": 9280,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@JonMichael the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "d86777fc-5479-479a-9dbd-7182cd0559f1",
+   "t": 9382,
+   "user": "RaysilvaEXT9",
+   "login": "raysilvaext9",
+   "text": "You cant swin for it?",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "a48b9553-d5a0-496a-811a-4c0c68b36470",
+   "t": 9489,
+   "user": "RaysilvaEXT9",
+   "login": "raysilvaext9",
+   "text": "Wet and greasy",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "70c667d5-4acf-40a4-9d90-71666244cd87",
+   "t": 9495,
+   "user": "MetalKhaos",
+   "login": "metalkhaos",
+   "text": "caseblPepcheese caseblPepcheese caseblPepcheese",
+   "badges": [
+    "final-fantasy-xiv-fan-festival-2026-na---fat-cat"
+   ]
+  },
+  {
+   "id": "5994931b-757a-40a9-8bd9-1f97c6825f80",
+   "t": 9535,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "!pc BARK BARK BARK. BARK BARK BARK BARK? BARK BARK. BARK.",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "35714b10-bf90-463e-9d0e-2c4bb98981d3",
+   "t": 9535,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@sabricci the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "d73c096f-c342-4d96-b6a0-dc55ebf3fbc6",
+   "t": 9539,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "!pc austin creed just used a nintendo power glove and it exploded",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "12b8f0c8-6443-4a4f-bda8-51219f045a35",
+   "t": 9539,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@bonzaibullfrog the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "e49cd708-8480-49ec-a5d5-6cbf80003597",
+   "t": 9563,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "steebzLUL",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "a959d7a7-746a-44ed-a017-48cb66325766",
+   "t": 9567,
+   "user": "RaysilvaEXT9",
+   "login": "raysilvaext9",
+   "text": "Wtf lol",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "0eea5199-ec7f-40a8-bcd4-027a3c7efc93",
+   "t": 9571,
+   "user": "currently__working",
+   "login": "currently__working",
+   "text": "lol",
+   "badges": [
+    "vip"
+   ]
+  },
+  {
+   "id": "4fa658cf-0768-4f74-a120-a3127f6ccae9",
+   "t": 9575,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "silly Devil",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "f58a589b-9ea6-4e18-97f2-717d6029152d",
+   "t": 9662,
+   "user": "jons_lost_brain_cell",
+   "login": "jons_lost_brain_cell",
+   "text": "Brandons mom?",
+   "badges": [
+    "premium"
+   ]
+  },
+  {
+   "id": "2c567b75-e868-4251-a626-f5c11e92d270",
+   "t": 9675,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "!pc Will we still be bulldozing any vile Hospitals or Schools that pop up in town like in Old Rennerton?",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "b0c1214d-7a82-495d-aa10-4e65a7015371",
+   "t": 9676,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@skymyr the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "994db88e-33f4-40ce-94f4-c9f97660e34b",
+   "t": 9792,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "finally the press drowned",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "101f7381-7177-4efa-a93e-eb61e991faef",
+   "t": 9802,
+   "user": "HarryHardy",
+   "login": "harryhardy",
+   "text": "16 raiders from HarryHardy have joined!",
+   "badges": [
+    "subscriber",
+    "premium"
+   ]
+  },
+  {
+   "id": "00d7da45-d031-4710-b51b-3bcff942a06d",
+   "t": 9810,
+   "user": "RaysilvaEXT9",
+   "login": "raysilvaext9",
+   "text": "PowerUpL caseblPepito PowerUpR",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "bd8effe7-e6ab-41ea-93e1-54b9540fbb81",
+   "t": 9816,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "HarryHardy is here for exciting halfway there action!",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "29938616-d4fb-46fb-a2c0-1b424227ea94",
+   "t": 9821,
+   "user": "HarryHardy",
+   "login": "harryhardy",
+   "text": "Hello!",
+   "badges": [
+    "subscriber",
+    "premium"
+   ]
+  },
+  {
+   "id": "c957e234-cf3d-47c3-87c2-ced78bb2ef4f",
+   "t": 9842,
+   "user": "GregTU",
+   "login": "gregtu",
+   "text": "HarryHardy!",
+   "badges": [
+    "vip",
+    "premium"
+   ]
+  },
+  {
+   "id": "fc746d81-9f47-4111-afc4-942ba6e7a400",
+   "t": 9852,
+   "user": "currently__working",
+   "login": "currently__working",
+   "text": "raiders caseblRick",
+   "badges": [
+    "vip"
+   ]
+  },
+  {
+   "id": "041f5968-0b1a-4184-ac02-7c9dd6c547a6",
+   "t": 9862,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "LAND!",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "df628656-4aad-4a92-af8a-7feb5ac78a88",
+   "t": 9866,
+   "user": "jons_lost_brain_cell",
+   "login": "jons_lost_brain_cell",
+   "text": "Henlo raiders",
+   "badges": [
+    "premium"
+   ]
+  },
+  {
+   "id": "ebb32666-70e8-4e95-bc46-a0782720eb24",
+   "t": 9878,
+   "user": "GregTU",
+   "login": "gregtu",
+   "text": "DinoDance DinoDance DinoDance",
+   "badges": [
+    "vip",
+    "premium"
+   ]
+  },
+  {
+   "id": "dfbea57e-50ce-4ec3-a9f3-9d97857a9ad9",
+   "t": 9887,
+   "user": "HarryHardy",
+   "login": "harryhardy",
+   "text": "I still can’t believe this song exists",
+   "badges": [
+    "subscriber",
+    "premium"
+   ]
+  },
+  {
+   "id": "98ef8432-056f-4797-8a35-1c5e6f0c954c",
+   "t": 9898,
+   "user": "GregTU",
+   "login": "gregtu",
+   "text": "TwitchConHYPE TwitchConHYPE TwitchConHYPE",
+   "badges": [
+    "vip",
+    "premium"
+   ]
+  },
+  {
+   "id": "4f7eb682-ab30-4ef0-8e7b-828f31ae4ffe",
+   "t": 9901,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "is this a special mission to make Crum's corpse inaccessible?",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "11949df6-6960-4c6b-a8bc-7ea9e24b44e4",
+   "t": 9906,
+   "user": "HarryHardy",
+   "login": "harryhardy",
+   "text": "I love it",
+   "badges": [
+    "subscriber",
+    "premium"
+   ]
+  },
+  {
+   "id": "4d05aa35-5dbf-470d-94ad-abda5cb3545c",
+   "t": 9918,
+   "user": "GregTU",
+   "login": "gregtu",
+   "text": "caseblGorilla caseblGorilla caseblGorilla",
+   "badges": [
+    "vip",
+    "premium"
+   ]
+  },
+  {
+   "id": "44d2a2c4-c29f-438b-ba1e-0e58b5037304",
+   "t": 9960,
+   "user": "GregTU",
+   "login": "gregtu",
+   "text": "PopNemo PopNemo PopNemo",
+   "badges": [
+    "vip",
+    "premium"
+   ]
+  },
+  {
+   "id": "99eb7a9a-fc73-4eee-b125-5cb417379838",
+   "t": 9997,
+   "user": "HarryHardy",
+   "login": "harryhardy",
+   "text": "The only other people that have written songs about me have been ex girlfriends, so thanks!",
+   "badges": [
+    "subscriber",
+    "premium"
+   ]
+  },
+  {
+   "id": "210900e3-f167-4b25-98b1-500335871f39",
+   "t": 10029,
+   "user": "HarryHardy",
+   "login": "harryhardy",
+   "text": "lmao",
+   "badges": [
+    "subscriber",
+    "premium"
+   ]
+  },
+  {
+   "id": "e33e6a38-18d2-4aad-ac4d-0044bf43ddf6",
+   "t": 10067,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "Fiona Apple left us",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "c5f16f62-eeb2-4d46-b45d-99febf18c564",
+   "t": 10076,
+   "user": "RaysilvaEXT9",
+   "login": "raysilvaext9",
+   "text": "^^^",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "a80edab3-954f-4f35-8e6d-8402bd34899c",
+   "t": 10096,
+   "user": "GregTU",
+   "login": "gregtu",
+   "text": "caseblKENFACE caseblKENFACE",
+   "badges": [
+    "vip",
+    "premium"
+   ]
+  },
+  {
+   "id": "c4e560bd-15e9-40fb-9f7e-4c0620e8a289",
+   "t": 10105,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Adorable",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "e288ca9c-1f3c-450c-ba1a-3624d5ec452e",
+   "t": 10105,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "caseblPepito caseblPepito caseblPepito",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "7dad20e1-b641-4c32-a31d-00147014d2f3",
+   "t": 10109,
+   "user": "GregTU",
+   "login": "gregtu",
+   "text": "caseblKENFACE caseblPepito caseblKENFACE caseblPepito caseblKENFACE caseblPepito",
+   "badges": [
+    "vip",
+    "premium"
+   ]
+  },
+  {
+   "id": "18ecdeb7-b2c0-47e8-a91c-64daebe76c5f",
+   "t": 10111,
+   "user": "RaysilvaEXT9",
+   "login": "raysilvaext9",
+   "text": "You cant leave now kendelle",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "6d8c58d3-b7bb-4e3b-a497-5db41ac11056",
+   "t": 10233,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "one day we'll have Iron Rife and we wont need those copper bullets",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "eb3c38d6-402e-45f7-b698-579e4f6153a0",
+   "t": 10270,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Adorable Wrath",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "e2dc0849-464f-422f-9c08-3b419a7fd6b8",
+   "t": 10338,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "Crum's racial bonus is hemophilia",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "03b2ff6a-1489-4fdc-946a-e9b36dcac120",
+   "t": 10365,
+   "user": "DaedalusKE",
+   "login": "daedaluske",
+   "text": "!freak",
+   "badges": [
+    "premium"
+   ]
+  },
+  {
+   "id": "1ed1778f-6c06-4220-b684-c81b9a97d547",
+   "t": 10366,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "Follow the world's greateast kickstarter at https://www.kickstarter.com/projects/13freakstreet/13-freak-street-a-horror-comedy-anthology",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "d87b3b69-1377-434e-8257-18a8d6e7d257",
+   "t": 10386,
+   "user": "DaedalusKE",
+   "login": "daedaluske",
+   "text": "🪵🪓 caseblHypet caseblCrum caseblPepcheese",
+   "badges": [
+    "premium"
+   ]
+  },
+  {
+   "id": "48cd26be-cd24-4e49-a0ce-ce9574c6fc82",
+   "t": 10392,
+   "user": "bonzaibullfrog",
+   "login": "bonzaibullfrog",
+   "text": "shouldn't crum be a hell demon in this game",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "07682f1a-af3a-4759-93ae-4e446ec49e95",
+   "t": 10436,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "kickstarter at 198",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "008fde73-d8a8-4b35-a0e1-a5d9c4035dfd",
+   "t": 10455,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Closer than when you started!",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "e3901d00-33d8-49c8-93e3-2b757395c5df",
+   "t": 10473,
+   "user": "BolivarTrask",
+   "login": "bolivartrask",
+   "text": "I dont know if its been said but CREED LIVES",
+   "badges": [
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "0ef090af-516c-4027-9161-dad7a94efffb",
+   "t": 10504,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "MVT died!?  I hope Bear here is the boss!",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "2f276036-bd1d-4a2d-8a6f-91c3df391605",
+   "t": 10787,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "Brian",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "93630e63-ba59-4dd3-97a1-075e9b566ab3",
+   "t": 10793,
+   "user": "RaysilvaEXT9",
+   "login": "raysilvaext9",
+   "text": "Everything is on fire here",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "d90328f2-1999-463c-8366-be742765448f",
+   "t": 10960,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "He’s a single mom who works two jobs though",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "c6025f5d-35fc-4b7c-b5a6-4f1a99aa4413",
+   "t": 11081,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "What’s the hardest part about being Crum?",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "cbc879fd-3e91-4cb7-98d6-7e805be7acd5",
+   "t": 11140,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "!PC Bark, bark bark barkakakarak woof woof woof? Woof? woof? Wo...oo...of. Arf?!! Arf/ * bark bark question mark",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "0b84a3f8-0697-4a02-b5ba-a71a900ae6ee",
+   "t": 11140,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@ReverieWolf the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "babcd39a-3442-4970-9c44-fa1458e78f21",
+   "t": 11186,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "So my partner also watches the stream and I just realized I can reach over and use his channel points for stuff lol",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "5722e6a5-11b5-4ce2-b7db-d4aed3037715",
+   "t": 11203,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Hello hello",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "24d479ef-b811-4bd6-8d18-f4d5b11164e4",
+   "t": 11207,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "Drink red wolf instead",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "30e7666b-36e3-4e0f-a647-513ed9a8c030",
+   "t": 11251,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "PORT HOLES",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "b42bf7b7-d9d9-4c09-af7f-f84d642716c5",
+   "t": 11283,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Rennerton Vice",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "58544882-d1fc-4d19-a2d9-16a53e1ec4ea",
+   "t": 11304,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "Why is the motor sound of soothing?",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "29a37f76-a41a-438d-b0c4-334e0ea63438",
+   "t": 11324,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "Also pretty sky",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "98380bd3-6d20-46ab-aab9-e269e064ade9",
+   "t": 11364,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Send it",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "4c7167ab-c904-4954-903a-7923d16d0012",
+   "t": 11389,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Only if it serves the town",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "9889e995-71ae-4e1f-a09a-f8144f549e68",
+   "t": 11416,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Earmuffs",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "70fb21df-b8a4-421d-90a8-9241a36a2b3d",
+   "t": 11503,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Poetic",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "de473447-5f13-465c-962f-6ccb41771da9",
+   "t": 11574,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "bet y'all didn't know we'd be playing the new GTA vice city game tonight",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "b7d7a251-7d09-4720-b0cc-04f69ce23e38",
+   "t": 11617,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Grand Theft Auto: Rennerton looks like a fun place",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "0a1f03f0-5bdd-4002-8d62-386310a84e61",
+   "t": 11643,
+   "user": "RaysilvaEXT9",
+   "login": "raysilvaext9",
+   "text": "This game is actually surprising me lol",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "f32123b7-0fb9-44be-b095-45f112bcee8a",
+   "t": 11707,
+   "user": "RaysilvaEXT9",
+   "login": "raysilvaext9",
+   "text": "LUL LUL LUL",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "b1c65f4d-97b5-4da2-9d7d-df104c2b20bd",
+   "t": 11707,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Sent",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "ec0b984e-b44e-4e59-bb69-f7fd9869e058",
+   "t": 11764,
+   "user": "JonMichael",
+   "login": "jonmichael",
+   "text": "!PC WOOF WWE WWE WEEF WWFF WWF WWEFFF WWE WWOF WOOF",
+   "badges": [
+    "vip",
+    "umbrella-corporation"
+   ]
+  },
+  {
+   "id": "a3c96d03-2b9b-485b-a336-b78cd4c04827",
+   "t": 11765,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@JonMichael the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "085d32f0-bb67-4f0e-bda4-30b1528616e3",
+   "t": 11972,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Just as the Vikings voyaged",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "a4111deb-b027-454f-880c-f658893eb0a2",
+   "t": 12004,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "Brian",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "6da0ba6e-ecb7-4e12-a4c0-3c0238bbf258",
+   "t": 12012,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "!pc Tha mi a’ faireachdainn mar gu bheil mi a’ bàthadh, air mo thachdadh Tha mi airson an geas a bhriseadh a chruthaich thu Tha thu brèagha, ach tha thu nad chòmhstri annta fhèin Tha mi airson a’ gheama a chluich, tha mi ag iarraidh an fhrith-chuimse  [Srian] Bidh thu nad adhbhar mo bhàis Seadh, bidh thu nad adhbhar mo bhàis",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "bcce53fe-dd95-41ca-a566-d24ed32a4ed8",
+   "t": 12013,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@ReverieWolf the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "b3546238-d165-4616-8f26-ecdff19f4ee3",
+   "t": 12228,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Another happy Rennerton suburb",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "07cef183-6c87-4ff1-adeb-184c67f1feaf",
+   "t": 12252,
+   "user": "sabricci",
+   "login": "sabricci",
+   "text": "Its getting late in Canada, night everybody",
+   "badges": [
+    "moderator",
+    "hype-train"
+   ]
+  },
+  {
+   "id": "c6fb39f6-eb5c-439a-be86-359b56f4b865",
+   "t": 12260,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "@sabricci NOOO!",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "6e0865ad-3e2c-47c5-83b9-6ccfce8554b8",
+   "t": 12268,
+   "user": "currently__working",
+   "login": "currently__working",
+   "text": "@sabricci g'nighy",
+   "badges": [
+    "vip"
+   ]
+  },
+  {
+   "id": "3683a43f-d10c-4376-8fc1-458fcb687582",
+   "t": 12281,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "Also our housemate is flying from eastern canada he got married in your country!",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "c81d49c0-7f12-4701-981f-c19b8f17338d",
+   "t": 12307,
+   "user": "ReverieWolf",
+   "login": "reveriewolf",
+   "text": "!PC what the *bleep* was that about? Anyway medicare? Yay or yay?",
+   "badges": [
+    "vip",
+    "raging-wolf-helm"
+   ]
+  },
+  {
+   "id": "2d167034-ea88-4141-8393-c03208813c0e",
+   "t": 12313,
+   "user": "MelodyVonTorture",
+   "login": "melodyvontorture",
+   "text": "night!",
+   "badges": [
+    "vip",
+    "nasa-artemis-ii"
+   ]
+  },
+  {
+   "id": "c7f458f2-3e2f-4229-8169-0943eed9751e",
+   "t": 13026,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "Elder abuse",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "38a5b0f6-bedc-418a-aee0-bed43831b330",
+   "t": 13132,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "If there is one thing I know, is that all tree's are eval",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "a0d04fbf-5c52-44d3-b996-15ad9c0576e5",
+   "t": 13208,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "When elders are felled its usually bad news",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "739ed78a-bd82-48f7-acc5-1f94eb5659d6",
+   "t": 13221,
+   "user": "Skataneric",
+   "login": "skataneric",
+   "text": "help its felled and it cant get up",
+   "badges": [
+    "vip"
+   ]
+  },
+  {
+   "id": "fa7122ba-4b53-4ae3-9a99-a6e77f7bebfc",
+   "t": 13226,
+   "user": "matt_liddell",
+   "login": "matt_liddell",
+   "text": "Nice work pepito",
+   "badges": [
+    "squirtle"
+   ]
+  },
+  {
+   "id": "603d1d6a-ba83-41d0-9f34-e9d42680f64d",
+   "t": 13283,
+   "user": "trueblue91rs",
+   "login": "trueblue91rs",
+   "text": "He would want it that way",
+   "badges": []
+  },
+  {
+   "id": "e18595ee-4d97-4c4b-95b2-8e13afbcdac9",
+   "t": 13286,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "But that's his mother?!",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "911ffffb-fb73-4e7d-82fc-047d7b56c598",
+   "t": 13302,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "Janeway always barking like that",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "495c6423-fd6f-4eae-bf7d-222b89916b13",
+   "t": 13324,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "the, now, forever, together",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "a1ab74c5-a78f-4a6e-b943-18c769645185",
+   "t": 13347,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "!pc Mon kee chees kreespa Greedo?",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "a2eff7f1-a654-4ec4-ae1e-bba45d7d87a8",
+   "t": 13347,
+   "user": "caseblackwell",
+   "login": "caseblackwell",
+   "text": "@giggletrash the fourth estate lives",
+   "badges": [
+    "broadcaster",
+    "premium"
+   ]
+  },
+  {
+   "id": "85521f2f-34ce-4860-9f82-7296e21c6783",
+   "t": 13387,
+   "user": "wolfdog410",
+   "login": "wolfdog410",
+   "text": "caseblPepito caseblRick",
+   "badges": []
+  },
+  {
+   "id": "051c05a6-6c3f-46b8-8f82-0ac57ee72bba",
+   "t": 13388,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Rennerton is bigger than ever",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "cf923b2b-c382-4e7a-9d44-65f2bbdeb16d",
+   "t": 13395,
+   "user": "RaysilvaEXT9",
+   "login": "raysilvaext9",
+   "text": "PowerUpL caseblPepito PowerUpR",
+   "badges": [
+    "pichu"
+   ]
+  },
+  {
+   "id": "d6ecb573-de48-4f4b-8022-e6388e4ce179",
+   "t": 13396,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "Too big to fail!",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "29d5e746-f1b5-4196-94b5-d63f258bda81",
+   "t": 13430,
+   "user": "giggletrash",
+   "login": "giggletrash",
+   "text": "Night BIN world",
+   "badges": [
+    "hype-train"
+   ]
+  },
+  {
+   "id": "4efde098-064c-4d02-9ed9-01b51711cb48",
+   "t": 13433,
+   "user": "matt_liddell",
+   "login": "matt_liddell",
+   "text": "Thank you Pepito and Crum, Awesome Stream. littyOrangeHeart littyOrangeHeart",
+   "badges": [
+    "squirtle"
+   ]
+  },
+  {
+   "id": "6ba4f13f-ae70-47ba-b813-13c0c0a87fac",
+   "t": 13440,
+   "user": "skymyr",
+   "login": "skymyr",
+   "text": "May or not be at Jon's house is always a true statement",
+   "badges": [
+    "vip",
+    "sub-gift-leader"
+   ]
+  },
+  {
+   "id": "f523631b-638d-4be1-8b2d-d05232e4f711",
+   "t": 13450,
+   "user": "GregTU",
+   "login": "gregtu",
+   "text": "Thanks Pepito! caseblPepito caseblPepito caseblPepito",
+   "badges": [
+    "vip",
+    "premium"
+   ]
+  },
+  {
+   "id": "474cbf53-c8d7-4bb2-863b-6907289d3ba7",
+   "t": 13455,
+   "user": "TheSinisterDev",
+   "login": "thesinisterdev",
+   "text": "caseblPepito",
+   "badges": [
+    "vip",
+    "marvels-wolverine"
+   ]
+  },
+  {
+   "id": "4b78b3a0-e24f-4e07-8ba4-823929d02de5",
+   "t": 13498,
+   "user": "Eldric_B",
+   "login": "eldric_b",
+   "text": "SEKRET STREAM",
+   "badges": [
+    "vip",
+    "founder",
+    "premium"
+   ]
+  }
+ ]
+}
