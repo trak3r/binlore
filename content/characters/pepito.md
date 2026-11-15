@@ -47,6 +47,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-15|2026-11-15]] | Executive producer who signed on the broadcast, won the Rennerton mayoral election, and piloted Crum's corpse to build a strip club. |
 | [[episodes/2026-11-10|2026-11-10]] | executive producer. |
 | [[episodes/2026-11-10-2925329547|2026-11-10]] | executive producer. |
 | [[episodes/2026-11-06|2026-11-06]] | executive producer. |
@@ -66,13 +67,13 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-07-23|2026-07-23]] | Executive Producer. Opens the show with his standard canine greeting and later demands his ankle be sacrificed to him. |
 | [[episodes/2026-07-20|2026-07-20]] | Executive producer. Opens the broadcast, generates random names, and is heard with a distorted/deep voice eating the floor at the end of the stream. |
 | [[episodes/2026-07-17|2026-07-17]] | Executive Producer, opened the broadcast via producer cam. |
-| [[episodes/2026-07-16|2026-07-16]] | Executive producer delivers cold open intro before cutting to live broadcast. |
 
 <details>
-<summary>Earlier appearances (121)</summary>
+<summary>Earlier appearances (122)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-07-16|2026-07-16]] | Executive producer delivers cold open intro before cutting to live broadcast. |
 | [[episodes/2026-07-13|2026-07-13]] | Executive Producer providing cold open countdown and failing to locate Mitch McConnell in the 'weird sandpit'. |
 | [[episodes/2026-07-11|2026-07-11]] | Executive Producer; opens the broadcast and attempts to intervene during the sub goal shout-out. |
 | [[episodes/2026-06-27|2026-06-27]] | Executive producer of Barely Informed News. |

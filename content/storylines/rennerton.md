@@ -62,6 +62,9 @@ Two *Return To Renerton* telecasts aired on **2024-10-13**, followed by a Hallow
 | [[../episodes/2026-11-07|2026-11-07]] [53:49] | [53:49] Skeleton Munch active as mayor rebuilding from wilds; [2:48:44] Gooters castle completed (sign reads GOONERS); [3:00:25] Pay-to-play mayoral election held; [3:02:10] Crumb wins, Munch concedes ("Skella Munch out"); [3:03:46] Crumb assumes office with vegan/berry diet platform. |
 | [[../episodes/2026-11-07-2922559914|2026-11-07]] | [2026-11-07] Crum serves as mayor for a full Valheim reconstruction session: builds fermenters (ball juice mead), jet ski (lost and rebuilt), treehouse on swamp island, discovers ancient bark for longship; chatter [[fans/melody-von-torture|MVT]] elected mayor at end. |
 | [[../episodes/2026-11-14|2026-11-14]] [1:26:05] | [01:26:05] Case fixes Saturday afternoon as the standing rebuild slot, with Crum building under a chat-elected mayor. |
+| [[../episodes/2026-11-15|2026-11-15]] [10:17] | [10:17] Crum, voted out as mayor, returned as self-appointed press secretary and Vice Mayor under Mayor Melody Von Torture and launched a jet-ski construction program. |
+| [[../episodes/2026-11-15|2026-11-15]] [1:18:01] | [01:18:01] Chat elected Pepito the dog as Mayor of Rennerton, unseating incumbent Melody Von Torture. |
+| [[../episodes/2026-11-15|2026-11-15]] [3:40:31] | [03:40:31] The rebuild crew felled a giant forest boss to close out the session. |
 
 ## Related Pages
 
