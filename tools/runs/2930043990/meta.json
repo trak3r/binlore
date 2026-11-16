@@ -1,0 +1,19 @@
+{
+  "vod_id": "2930043990",
+  "title": "Dreadful Sunday Stream",
+  "url": "https://www.twitch.tv/videos/2930043990",
+  "duration_seconds": 10179,
+  "duration": "2:49:39",
+  "timestamp": 1794700800,
+  "aired_at": "2026-11-15T00:00:00+00:00",
+  "date": "2026-11-15",
+  "ingested_at": "2026-11-16T12:21:55.072145+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "",
+  "yt_url": "",
+  "twitch_id": "2930043990",
+  "twitch_url": "https://www.twitch.tv/videos/2930043990",
+  "catalog_date": "2026-11-15"
+}

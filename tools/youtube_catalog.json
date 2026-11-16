@@ -7,7 +7,19 @@
     "duration_str": "3:45:01",
     "duration_seconds": 13501,
     "twitch_id": "2929110161",
-    "twitch_url": "https://www.twitch.tv/videos/2929110161"
+    "twitch_url": "https://www.twitch.tv/videos/2929110161",
+    "yt_id": "2JB4GzyE8e8",
+    "yt_url": "https://www.youtube.com/watch?v=2JB4GzyE8e8"
+  },
+  {
+    "id": "2930043990",
+    "title": "Dreadful Sunday Stream",
+    "date": "2026-11-15",
+    "raw_date": "20261115",
+    "duration_str": "2:49:39",
+    "duration_seconds": 10179,
+    "twitch_id": "2930043990",
+    "twitch_url": "https://www.twitch.tv/videos/2930043990"
   },
   {
     "id": "2928151227",
