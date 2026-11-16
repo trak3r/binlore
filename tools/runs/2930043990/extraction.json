@@ -1,0 +1,138 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "02:31",
+      "canonical_segment": "News",
+      "title": "Pepito's Sunday Sign-On",
+      "notes": "Executive Producer Pepito opens the broadcast with a live sign-on and countdown."
+    },
+    {
+      "start": "02:31",
+      "end": "10:01",
+      "canonical_segment": "Banter",
+      "title": "Sunday Pre-Show and Dread Mode Selection",
+      "notes": "Case Blackwell counts down, confirms No Breaks November, notes a scheduled collaborator's absence, and chooses Slay the Spire 2's new Dread Mode over weekend news or Rennerton."
+    },
+    {
+      "start": "10:01",
+      "end": "11:26",
+      "canonical_segment": "Amongst the Web",
+      "title": "Shroyuken Power Glove Clip",
+      "notes": "Case gives a brief viral-clip review of a street-fight power glove video."
+    },
+    {
+      "start": "11:26",
+      "end": "16:18",
+      "canonical_segment": "Banter",
+      "title": "Actual Room and Looks Maxing",
+      "notes": "Case broadcasts from his real room, checks his looks maxing, and debates emo instrumentals with Kendelle and chat."
+    },
+    {
+      "start": "16:18",
+      "end": "29:15",
+      "canonical_segment": "Amongst the Web",
+      "title": "Brand Feeds and Mustard Cake Hacks",
+      "notes": "Case and Kendelle react to Dr. Seuss, Nutterbutters, Lionsgate, and Little Debbie social content."
+    },
+    {
+      "start": "29:15",
+      "end": "45:17",
+      "canonical_segment": "Gaming",
+      "title": "Dread Mode Slay the Spire 2: Act I Tutorial",
+      "notes": "Case teaches chat the new Fool deck, Dread Mode boss buffs, and early deck-building while climbing Act I."
+    },
+    {
+      "start": "45:17",
+      "end": "46:48",
+      "canonical_segment": "Banter",
+      "title": "Kickstarter Milestone",
+      "notes": "Case thanks a viewer gift and reports the Kickstarter has passed 200 followers."
+    },
+    {
+      "start": "46:48",
+      "end": "01:05:38",
+      "canonical_segment": "Gaming",
+      "title": "Dread Mode Act I Boss",
+      "notes": "Case finishes Act I, survives elites, and defeats the first boss."
+    },
+    {
+      "start": "01:05:38",
+      "end": "01:51:39",
+      "canonical_segment": "Gaming",
+      "title": "Dread Mode Act II: Kaiser Crab",
+      "notes": "Case enters Act II, gains Ascender's Veins, and battles Kaiser Crab and elite enemies."
+    },
+    {
+      "start": "01:51:39",
+      "end": "02:36:57",
+      "canonical_segment": "Gaming",
+      "title": "Dread Mode Act III: Queen and Eon Glass",
+      "notes": "Case reaches the final act, manages wither cards, and clears the act's bosses."
+    },
+    {
+      "start": "02:36:57",
+      "end": "02:44:41",
+      "canonical_segment": "Gaming",
+      "title": "Final Boss and Dread Mode Defeat",
+      "notes": "Case faces the hardest boss and dies after a close final sequence."
+    },
+    {
+      "start": "02:44:41",
+      "end": "02:49:39",
+      "canonical_segment": "News",
+      "title": "Sign-Off and Raid Wrap-Up",
+      "notes": "Case closes the stream, promises regular news tomorrow, and raids another channel."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "notes": "Anchor Case Blackwell trades the weekend news desk for a marathon Dread Mode run in Slay the Spire 2.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "notes": "Executive Producer Pepito opens the broadcast with the official sign-on and countdown.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "notes": "In-studio contributor Kendelle appears during the Sunday stream and reacts to Case's card-game marathon.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "No Breaks November",
+      "beat": "[09:01] Case confirms the Sunday broadcast remains part of No Breaks November despite a scheduled collaborator's absence.",
+      "timestamp": "09:01"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "09:01",
+      "entity": "",
+      "fact": "The Sunday edition of No Breaks November is logged as a non-news Dread Mode stream after Case Blackwell forgoes the usual weekend desk.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened Sunday with Executive Producer Pepito's sign-on, then Case Blackwell kept No Breaks November alive by setting aside the usual weekend desk after a scheduled collaborator fell through. Blackwell spent the broadcast teaching chat the new Dread Mode in Slay the Spire 2, interrupted by Kickstarter housekeeping and a detour through brand social feeds. The run ended in defeat at the final boss, followed by a sign-off and raid to another channel.",
+  "_meta": {
+    "vod_id": "2930043990",
+    "model": "baidu/ernie-5.5-flash-preview:free",
+    "provider": "openrouter",
+    "prompt_chars": 130914,
+    "approx_prompt_tokens": 32728,
+    "transcript_lines": 409
+  }
+}
