@@ -2,24 +2,13 @@
   {
     "id": "2931038704",
     "title": "Dreadful Sunday Stream",
-    "date": "2026-11-17",
-    "raw_date": "20261117",
+    "date": "2026-11-16",
+    "raw_date": "20261116",
     "duration_str": "2:15:09",
     "duration_seconds": 8109,
     "twitch_id": "2931038704",
-    "twitch_url": "https://www.twitch.tv/videos/2931038704"
-  },
-  {
-    "id": "2929110161",
-    "title": "Saturday Rebuilding",
-    "date": "2026-11-15",
-    "raw_date": "20261115",
-    "duration_str": "3:45:01",
-    "duration_seconds": 13501,
-    "twitch_id": "2929110161",
-    "twitch_url": "https://www.twitch.tv/videos/2929110161",
-    "yt_id": "2JB4GzyE8e8",
-    "yt_url": "https://www.youtube.com/watch?v=2JB4GzyE8e8"
+    "twitch_url": "https://www.twitch.tv/videos/2931038704",
+    "timestamp": 1794879256
   },
   {
     "id": "2930043990",
@@ -29,55 +18,59 @@
     "duration_str": "2:49:39",
     "duration_seconds": 10179,
     "twitch_id": "2930043990",
-    "twitch_url": "https://www.twitch.tv/videos/2930043990"
+    "twitch_url": "https://www.twitch.tv/videos/2930043990",
+    "timestamp": 1794782578
+  },
+  {
+    "id": "2929110161",
+    "title": "Saturday Rebuilding",
+    "date": "2026-11-14",
+    "raw_date": "20261114",
+    "duration_str": "3:45:01",
+    "duration_seconds": 13501,
+    "twitch_id": "2929110161",
+    "twitch_url": "https://www.twitch.tv/videos/2929110161",
+    "yt_id": "2JB4GzyE8e8",
+    "yt_url": "https://www.youtube.com/watch?v=2JB4GzyE8e8",
+    "timestamp": 1794701047
   },
   {
     "id": "2928151227",
     "title": "Remain Calm and NEWS",
-    "date": "2026-11-14",
-    "raw_date": "20261114",
+    "date": "2026-11-13",
+    "raw_date": "20261113",
     "duration_str": "2:21:18",
     "duration_seconds": 8478,
     "twitch_id": "2928151227",
     "twitch_url": "https://www.twitch.tv/videos/2928151227",
     "yt_id": "XwffSC8emT4",
     "yt_url": "https://www.youtube.com/watch?v=XwffSC8emT4",
-    "yt_offset": 2.54
+    "yt_offset": 2.54,
+    "timestamp": 1794618804
   },
   {
     "id": "2927220320",
     "title": "ReBreakless November",
-    "date": "2026-11-13",
-    "raw_date": "20261113",
+    "date": "2026-11-12",
+    "raw_date": "20261112",
     "duration_str": "53:54",
     "duration_seconds": 3234,
     "twitch_id": "2927220320",
     "twitch_url": "https://www.twitch.tv/videos/2927220320",
     "yt_id": "m8Nw91_i8Jk",
-    "yt_url": "https://www.youtube.com/watch?v=m8Nw91_i8Jk"
+    "yt_url": "https://www.youtube.com/watch?v=m8Nw91_i8Jk",
+    "timestamp": 1794531914
   },
   {
     "id": "2927191605",
     "title": "ReBreakless November",
-    "date": "2026-11-13",
-    "raw_date": "20261113",
+    "date": "2026-11-12",
+    "raw_date": "20261112",
     "duration_str": "32:02",
     "duration_seconds": 1922,
     "twitch_id": "2927191605",
-    "twitch_url": "https://www.twitch.tv/videos/2927191605"
-  },
-  {
-    "id": "2924492113",
-    "title": "Late Shifts with @jonmatteson and @totallytimlol",
-    "title_locked": true,
-    "date": "2026-11-10",
-    "raw_date": "20261110",
-    "duration_str": "2:47:12",
-    "duration_seconds": 10032,
-    "twitch_id": "2924492113",
-    "twitch_url": "https://www.twitch.tv/videos/2924492113",
-    "yt_id": "OQyhU9rWfVo",
-    "yt_url": "https://www.youtube.com/watch?v=OQyhU9rWfVo"
+    "twitch_url": "https://www.twitch.tv/videos/2927191605",
+    "timestamp": 1794529877
   },
   {
     "id": "2925329547",
@@ -90,19 +83,22 @@
     "twitch_url": "https://www.twitch.tv/videos/2925329547",
     "yt_id": "HT2Xm-4rcpk",
     "yt_url": "https://www.youtube.com/watch?v=HT2Xm-4rcpk",
-    "yt_offset": 2.01
+    "yt_offset": 2.01,
+    "timestamp": 1794352886
   },
   {
-    "id": "2921698711",
-    "title": "Friday Newsing",
-    "date": "2026-11-07",
-    "raw_date": "20261107",
-    "duration_str": "3:13:46",
-    "duration_seconds": 11626,
-    "twitch_id": "2921698711",
-    "twitch_url": "https://www.twitch.tv/videos/2921698711",
-    "yt_id": "asEAUb1iakI",
-    "yt_url": "https://www.youtube.com/watch?v=asEAUb1iakI"
+    "id": "2924492113",
+    "title": "Late Shifts with @jonmatteson and @totallytimlol",
+    "title_locked": true,
+    "date": "2026-11-09",
+    "raw_date": "20261109",
+    "duration_str": "2:47:12",
+    "duration_seconds": 10032,
+    "twitch_id": "2924492113",
+    "twitch_url": "https://www.twitch.tv/videos/2924492113",
+    "yt_id": "OQyhU9rWfVo",
+    "yt_url": "https://www.youtube.com/watch?v=OQyhU9rWfVo",
+    "timestamp": 1794269680
   },
   {
     "id": "2922559914",
@@ -115,57 +111,75 @@
     "twitch_url": "https://www.twitch.tv/videos/2922559914",
     "yt_id": "XeoQPqHEcGQ",
     "yt_url": "https://www.youtube.com/watch?v=XeoQPqHEcGQ",
-    "yt_offset": 2.01
+    "yt_offset": 2.01,
+    "timestamp": 1794090288
+  },
+  {
+    "id": "2921698711",
+    "title": "Friday Newsing",
+    "date": "2026-11-06",
+    "raw_date": "20261106",
+    "duration_str": "3:13:46",
+    "duration_seconds": 11626,
+    "twitch_id": "2921698711",
+    "twitch_url": "https://www.twitch.tv/videos/2921698711",
+    "yt_id": "asEAUb1iakI",
+    "yt_url": "https://www.youtube.com/watch?v=asEAUb1iakI",
+    "timestamp": 1794015600
   },
   {
     "id": "2920702503",
     "title": "Crashing Into the NEWS",
-    "date": "2026-11-06",
-    "raw_date": "20261106",
+    "date": "2026-11-05",
+    "raw_date": "20261105",
     "duration_str": "1:31:45",
     "duration_seconds": 5505,
     "twitch_id": "2920702503",
     "twitch_url": "https://www.twitch.tv/videos/2920702503",
     "yt_id": "WgY3VzAITck",
-    "yt_url": "https://www.youtube.com/watch?v=WgY3VzAITck"
+    "yt_url": "https://www.youtube.com/watch?v=WgY3VzAITck",
+    "timestamp": 1793924863
   },
   {
     "id": "2919818029",
     "title": "Post Wave Clarity",
-    "date": "2026-11-05",
-    "raw_date": "20261105",
+    "date": "2026-11-04",
+    "raw_date": "20261104",
     "duration_str": "2:20:09",
     "duration_seconds": 8409,
     "twitch_id": "2919818029",
     "twitch_url": "https://www.twitch.tv/videos/2919818029",
     "yt_id": "9xz_oWJ8suc",
-    "yt_url": "https://www.youtube.com/watch?v=9xz_oWJ8suc"
+    "yt_url": "https://www.youtube.com/watch?v=9xz_oWJ8suc",
+    "timestamp": 1793839556
   },
   {
     "id": "2918998685",
     "title": "Surfing the Election Waves",
-    "date": "2026-11-04",
-    "raw_date": "20261104",
+    "date": "2026-11-03",
+    "raw_date": "20261103",
     "duration_str": "2:59:25",
     "duration_seconds": 10765,
     "twitch_id": "2918998685",
     "twitch_url": "https://www.twitch.tv/videos/2918998685",
     "yt_id": "xn__pzmMoXY",
     "yt_url": "https://www.youtube.com/watch?v=xn__pzmMoXY",
-    "yt_offset": 14.54
+    "yt_offset": 14.54,
+    "timestamp": 1793758664
   },
   {
     "id": "2918087731",
     "title": "All Nuts November Electotainment",
-    "date": "2026-11-03",
-    "raw_date": "20261103",
+    "date": "2026-11-02",
+    "raw_date": "20261102",
     "duration_str": "2:33:20",
     "duration_seconds": 9200,
     "twitch_id": "2918087731",
     "twitch_url": "https://www.twitch.tv/videos/2918087731",
     "yt_id": "DEDr2UXgzGI",
     "yt_url": "https://www.youtube.com/watch?v=DEDr2UXgzGI",
-    "yt_offset": 0.01
+    "yt_offset": 0.01,
+    "timestamp": 1793669572
   },
   {
     "id": "2914379600",
@@ -177,7 +191,8 @@
     "twitch_id": "2914379600",
     "twitch_url": "https://www.twitch.tv/videos/2914379600",
     "yt_id": "4S_53OEPlC4",
-    "yt_url": "https://www.youtube.com/watch?v=4S_53OEPlC4"
+    "yt_url": "https://www.youtube.com/watch?v=4S_53OEPlC4",
+    "timestamp": 1793316785
   },
   {
     "id": "2911722574",
@@ -189,7 +204,8 @@
     "twitch_id": "2911722574",
     "twitch_url": "https://www.twitch.tv/videos/2911722574",
     "yt_id": "Ijxz3Vreopc",
-    "yt_url": "https://www.youtube.com/watch?v=Ijxz3Vreopc"
+    "yt_url": "https://www.youtube.com/watch?v=Ijxz3Vreopc",
+    "timestamp": 1793056140
   },
   {
     "id": "2908869286",
@@ -201,7 +217,8 @@
     "twitch_id": "2908869286",
     "twitch_url": "https://www.twitch.tv/videos/2908869286",
     "yt_id": "TNT90yKf1CA",
-    "yt_url": "https://www.youtube.com/watch?v=TNT90yKf1CA"
+    "yt_url": "https://www.youtube.com/watch?v=TNT90yKf1CA",
+    "timestamp": 1792790658
   },
   {
     "id": "2908070249",
@@ -213,7 +230,8 @@
     "twitch_id": "2908070249",
     "twitch_url": "https://www.twitch.tv/videos/2908070249",
     "yt_id": "d7o2ND9lC6k",
-    "yt_url": "https://www.youtube.com/watch?v=d7o2ND9lC6k"
+    "yt_url": "https://www.youtube.com/watch?v=d7o2ND9lC6k",
+    "timestamp": 1792712586
   },
   {
     "id": "2905479778",
@@ -225,19 +243,21 @@
     "twitch_id": "2905479778",
     "twitch_url": "https://www.twitch.tv/videos/2905479778",
     "yt_id": "uq_d1IPnmq4",
-    "yt_url": "https://www.youtube.com/watch?v=uq_d1IPnmq4"
+    "yt_url": "https://www.youtube.com/watch?v=uq_d1IPnmq4",
+    "timestamp": 1792452757
   },
   {
     "id": "2896509659",
     "title": "Too Many Segments",
-    "date": "2026-10-10",
-    "raw_date": "20261010",
+    "date": "2026-10-09",
+    "raw_date": "20261009",
     "duration_str": "1:52:38",
     "duration_seconds": 6758,
     "twitch_id": "2896509659",
     "twitch_url": "https://www.twitch.tv/videos/2896509659",
     "yt_id": "c9T5cCxENP0",
-    "yt_url": "https://www.youtube.com/watch?v=c9T5cCxENP0"
+    "yt_url": "https://www.youtube.com/watch?v=c9T5cCxENP0",
+    "timestamp": 1791591640
   },
   {
     "id": "2895574551",
@@ -249,19 +269,21 @@
     "twitch_id": "2895574551",
     "twitch_url": "https://www.twitch.tv/videos/2895574551",
     "yt_id": "y_K34NrUwj4",
-    "yt_url": "https://www.youtube.com/watch?v=y_K34NrUwj4"
+    "yt_url": "https://www.youtube.com/watch?v=y_K34NrUwj4",
+    "timestamp": 1791502511
   },
   {
     "id": "2886808876",
     "title": "Newsual Mondays",
-    "date": "2026-09-29",
-    "raw_date": "20260929",
+    "date": "2026-09-28",
+    "raw_date": "20260928",
     "duration_str": "1:40:39",
     "duration_seconds": 6039,
     "twitch_id": "2886808876",
     "twitch_url": "https://www.twitch.tv/videos/2886808876",
     "yt_id": "d-5VA36W9Mg",
-    "yt_url": "https://www.youtube.com/watch?v=d-5VA36W9Mg"
+    "yt_url": "https://www.youtube.com/watch?v=d-5VA36W9Mg",
+    "timestamp": 1790641349
   },
   {
     "id": "2884022513",
@@ -273,7 +295,8 @@
     "twitch_id": "2884022513",
     "twitch_url": "https://www.twitch.tv/videos/2884022513",
     "yt_id": "Q42RjLTNh9Q",
-    "yt_url": "https://www.youtube.com/watch?v=Q42RjLTNh9Q"
+    "yt_url": "https://www.youtube.com/watch?v=Q42RjLTNh9Q",
+    "timestamp": 1790377816
   },
   {
     "id": "2882337729",
@@ -285,7 +308,8 @@
     "twitch_id": "2882337729",
     "twitch_url": "https://www.twitch.tv/videos/2882337729",
     "yt_id": "XGwB-UGI1ro",
-    "yt_url": "https://www.youtube.com/watch?v=XGwB-UGI1ro"
+    "yt_url": "https://www.youtube.com/watch?v=XGwB-UGI1ro",
+    "timestamp": 1790207932
   },
   {
     "id": "2868220752",
@@ -1210,18 +1234,6 @@
     "twitch_url": null
   },
   {
-    "id": "qV6OVgUibSA",
-    "title": "Happy News Year Redux",
-    "date": "2026-01-06",
-    "raw_date": "20260106",
-    "duration_str": "2:07:05",
-    "duration_seconds": 7625,
-    "yt_id": "qV6OVgUibSA",
-    "yt_url": "https://www.youtube.com/watch?v=qV6OVgUibSA",
-    "twitch_id": null,
-    "twitch_url": null
-  },
-  {
     "id": "wpVH-HcsrUI",
     "title": "Happy News Year",
     "date": "2026-01-06",
@@ -1230,6 +1242,18 @@
     "duration_seconds": 630,
     "yt_id": "wpVH-HcsrUI",
     "yt_url": "https://www.youtube.com/watch?v=wpVH-HcsrUI",
+    "twitch_id": null,
+    "twitch_url": null
+  },
+  {
+    "id": "qV6OVgUibSA",
+    "title": "Happy News Year Redux",
+    "date": "2026-01-06",
+    "raw_date": "20260106",
+    "duration_str": "2:07:05",
+    "duration_seconds": 7625,
+    "yt_id": "qV6OVgUibSA",
+    "yt_url": "https://www.youtube.com/watch?v=qV6OVgUibSA",
     "twitch_id": null,
     "twitch_url": null
   },
@@ -1270,18 +1294,6 @@
     "twitch_url": null
   },
   {
-    "id": "c7wPYaGN08E",
-    "title": "Monday News Slam",
-    "date": "2025-12-18",
-    "raw_date": "20251218",
-    "duration_str": "2:24:22",
-    "duration_seconds": 8662,
-    "yt_id": "c7wPYaGN08E",
-    "yt_url": "https://www.youtube.com/watch?v=c7wPYaGN08E",
-    "twitch_id": null,
-    "twitch_url": null
-  },
-  {
     "id": "zKP7k3pwDVE",
     "title": "Monday News Slam",
     "date": "2025-12-18",
@@ -1290,6 +1302,18 @@
     "duration_seconds": 14,
     "yt_id": "zKP7k3pwDVE",
     "yt_url": "https://www.youtube.com/watch?v=zKP7k3pwDVE",
+    "twitch_id": null,
+    "twitch_url": null
+  },
+  {
+    "id": "c7wPYaGN08E",
+    "title": "Monday News Slam",
+    "date": "2025-12-18",
+    "raw_date": "20251218",
+    "duration_str": "2:24:22",
+    "duration_seconds": 8662,
+    "yt_id": "c7wPYaGN08E",
+    "yt_url": "https://www.youtube.com/watch?v=c7wPYaGN08E",
     "twitch_id": null,
     "twitch_url": null
   },
@@ -1798,18 +1822,6 @@
     "twitch_url": null
   },
   {
-    "id": "2-r8wLGmPcM",
-    "title": "Friday News Blast",
-    "date": "2025-08-02",
-    "raw_date": "20250802",
-    "duration_str": "2:34:19",
-    "duration_seconds": 9259,
-    "yt_id": "2-r8wLGmPcM",
-    "yt_url": "https://www.youtube.com/watch?v=2-r8wLGmPcM",
-    "twitch_id": null,
-    "twitch_url": null
-  },
-  {
     "id": "9YN_I0kn2Kw",
     "title": "Friday News Blast",
     "date": "2025-08-02",
@@ -1818,6 +1830,18 @@
     "duration_seconds": 625,
     "yt_id": "9YN_I0kn2Kw",
     "yt_url": "https://www.youtube.com/watch?v=9YN_I0kn2Kw",
+    "twitch_id": null,
+    "twitch_url": null
+  },
+  {
+    "id": "2-r8wLGmPcM",
+    "title": "Friday News Blast",
+    "date": "2025-08-02",
+    "raw_date": "20250802",
+    "duration_str": "2:34:19",
+    "duration_seconds": 9259,
+    "yt_id": "2-r8wLGmPcM",
+    "yt_url": "https://www.youtube.com/watch?v=2-r8wLGmPcM",
     "twitch_id": null,
     "twitch_url": null
   },
@@ -2050,18 +2074,6 @@
     "twitch_url": null
   },
   {
-    "id": "SmtzHJfYna0",
-    "title": "Quick News and Crum Punch",
-    "date": "2025-06-17",
-    "raw_date": "20250617",
-    "duration_str": "1:58:03",
-    "duration_seconds": 7083,
-    "yt_id": "SmtzHJfYna0",
-    "yt_url": "https://www.youtube.com/watch?v=SmtzHJfYna0",
-    "twitch_id": null,
-    "twitch_url": null
-  },
-  {
     "id": "uTS9xVOj5gQ",
     "title": "Kendelle's B-Day, Hopefully No WWIII Day, it's NEWS",
     "date": "2025-06-17",
@@ -2070,6 +2082,18 @@
     "duration_seconds": 4790,
     "yt_id": "uTS9xVOj5gQ",
     "yt_url": "https://www.youtube.com/watch?v=uTS9xVOj5gQ",
+    "twitch_id": null,
+    "twitch_url": null
+  },
+  {
+    "id": "SmtzHJfYna0",
+    "title": "Quick News and Crum Punch",
+    "date": "2025-06-17",
+    "raw_date": "20250617",
+    "duration_str": "1:58:03",
+    "duration_seconds": 7083,
+    "yt_id": "SmtzHJfYna0",
+    "yt_url": "https://www.youtube.com/watch?v=SmtzHJfYna0",
     "twitch_id": null,
     "twitch_url": null
   },
@@ -2146,18 +2170,6 @@
     "twitch_url": null
   },
   {
-    "id": "QRN1ZIHDHG8",
-    "title": "Musk of Failure, Toilet Snakes, and Music Maybe, it's NEWS",
-    "date": "2025-05-30",
-    "raw_date": "20250530",
-    "duration_str": "1:38:23",
-    "duration_seconds": 5903,
-    "yt_id": "QRN1ZIHDHG8",
-    "yt_url": "https://www.youtube.com/watch?v=QRN1ZIHDHG8",
-    "twitch_id": null,
-    "twitch_url": null
-  },
-  {
     "id": "dlDe0AFVrRk",
     "title": "Quick Stream Before Patreon",
     "date": "2025-05-30",
@@ -2166,6 +2178,18 @@
     "duration_seconds": 2723,
     "yt_id": "dlDe0AFVrRk",
     "yt_url": "https://www.youtube.com/watch?v=dlDe0AFVrRk",
+    "twitch_id": null,
+    "twitch_url": null
+  },
+  {
+    "id": "QRN1ZIHDHG8",
+    "title": "Musk of Failure, Toilet Snakes, and Music Maybe, it's NEWS",
+    "date": "2025-05-30",
+    "raw_date": "20250530",
+    "duration_str": "1:38:23",
+    "duration_seconds": 5903,
+    "yt_id": "QRN1ZIHDHG8",
+    "yt_url": "https://www.youtube.com/watch?v=QRN1ZIHDHG8",
     "twitch_id": null,
     "twitch_url": null
   },
@@ -2482,18 +2506,6 @@
     "twitch_url": null
   },
   {
-    "id": "1AADn1SpecU",
-    "title": "Quick Friday Non-Kendelle Graphics News Stream",
-    "date": "2025-02-14",
-    "raw_date": "20250214",
-    "duration_str": "2:32:29",
-    "duration_seconds": 9149,
-    "yt_id": "1AADn1SpecU",
-    "yt_url": "https://www.youtube.com/watch?v=1AADn1SpecU",
-    "twitch_id": null,
-    "twitch_url": null
-  },
-  {
     "id": "vIRfqNitGk0",
     "title": "Small Government Run by Large Babies, T-Shirt Site Down, and Pizza Perfume, it could be NEWS",
     "date": "2025-02-14",
@@ -2502,6 +2514,18 @@
     "duration_seconds": 721,
     "yt_id": "vIRfqNitGk0",
     "yt_url": "https://www.youtube.com/watch?v=vIRfqNitGk0",
+    "twitch_id": null,
+    "twitch_url": null
+  },
+  {
+    "id": "1AADn1SpecU",
+    "title": "Quick Friday Non-Kendelle Graphics News Stream",
+    "date": "2025-02-14",
+    "raw_date": "20250214",
+    "duration_str": "2:32:29",
+    "duration_seconds": 9149,
+    "yt_id": "1AADn1SpecU",
+    "yt_url": "https://www.youtube.com/watch?v=1AADn1SpecU",
     "twitch_id": null,
     "twitch_url": null
   },
@@ -2938,18 +2962,6 @@
     "twitch_url": null
   },
   {
-    "id": "FCEbbDjbk88",
-    "title": "Bridgerton Balls, The Celeb Opinions We Care About, Oldest Cheeses, Newest NEWSES",
-    "date": "2024-09-25",
-    "raw_date": "20240925",
-    "duration_str": "1:38:46",
-    "duration_seconds": 5926,
-    "yt_id": "FCEbbDjbk88",
-    "yt_url": "https://www.youtube.com/watch?v=FCEbbDjbk88",
-    "twitch_id": null,
-    "twitch_url": null
-  },
-  {
     "id": "tt3qCDlQkDs",
     "title": "Escalations, Nail Conspiracies, New Nazcas, who what where NEWS",
     "date": "2024-09-25",
@@ -2958,6 +2970,18 @@
     "duration_seconds": 8819,
     "yt_id": "tt3qCDlQkDs",
     "yt_url": "https://www.youtube.com/watch?v=tt3qCDlQkDs",
+    "twitch_id": null,
+    "twitch_url": null
+  },
+  {
+    "id": "FCEbbDjbk88",
+    "title": "Bridgerton Balls, The Celeb Opinions We Care About, Oldest Cheeses, Newest NEWSES",
+    "date": "2024-09-25",
+    "raw_date": "20240925",
+    "duration_str": "1:38:46",
+    "duration_seconds": 5926,
+    "yt_id": "FCEbbDjbk88",
+    "yt_url": "https://www.youtube.com/watch?v=FCEbbDjbk88",
     "twitch_id": null,
     "twitch_url": null
   },
@@ -3022,18 +3046,6 @@
     "twitch_url": null
   },
   {
-    "id": "AJ5UbfIdQgg",
-    "title": "Derpbate Reactions, Musky Goes Swifty, and other things we say are NEWS",
-    "date": "2024-09-11",
-    "raw_date": "20240911",
-    "duration_str": "1:08:35",
-    "duration_seconds": 4115,
-    "yt_id": "AJ5UbfIdQgg",
-    "yt_url": "https://www.youtube.com/watch?v=AJ5UbfIdQgg",
-    "twitch_id": null,
-    "twitch_url": null
-  },
-  {
     "id": "WUNFqfbcaPY",
     "title": "Debate-orade 2024",
     "date": "2024-09-11",
@@ -3042,6 +3054,18 @@
     "duration_seconds": 8412,
     "yt_id": "WUNFqfbcaPY",
     "yt_url": "https://www.youtube.com/watch?v=WUNFqfbcaPY",
+    "twitch_id": null,
+    "twitch_url": null
+  },
+  {
+    "id": "AJ5UbfIdQgg",
+    "title": "Derpbate Reactions, Musky Goes Swifty, and other things we say are NEWS",
+    "date": "2024-09-11",
+    "raw_date": "20240911",
+    "duration_str": "1:08:35",
+    "duration_seconds": 4115,
+    "yt_id": "AJ5UbfIdQgg",
+    "yt_url": "https://www.youtube.com/watch?v=AJ5UbfIdQgg",
     "twitch_id": null,
     "twitch_url": null
   },
@@ -3082,18 +3106,6 @@
     "twitch_url": null
   },
   {
-    "id": "a4Fa4jqS13Q",
-    "title": "DNC No Evil, Mascot Dancing Gone Wrong, UFO \"Trap\" Program, all of it could be NEWS",
-    "date": "2024-08-22",
-    "raw_date": "20240822",
-    "duration_str": "2:26:43",
-    "duration_seconds": 8803,
-    "yt_id": "a4Fa4jqS13Q",
-    "yt_url": "https://www.youtube.com/watch?v=a4Fa4jqS13Q",
-    "twitch_id": null,
-    "twitch_url": null
-  },
-  {
     "id": "oDSuSzbumUs",
     "title": "DNC Even More, Lindell Watch, Costco Cups and Vance Cups, the Cups of NEWS",
     "date": "2024-08-22",
@@ -3102,6 +3114,18 @@
     "duration_seconds": 10262,
     "yt_id": "oDSuSzbumUs",
     "yt_url": "https://www.youtube.com/watch?v=oDSuSzbumUs",
+    "twitch_id": null,
+    "twitch_url": null
+  },
+  {
+    "id": "a4Fa4jqS13Q",
+    "title": "DNC No Evil, Mascot Dancing Gone Wrong, UFO \"Trap\" Program, all of it could be NEWS",
+    "date": "2024-08-22",
+    "raw_date": "20240822",
+    "duration_str": "2:26:43",
+    "duration_seconds": 8803,
+    "yt_id": "a4Fa4jqS13Q",
+    "yt_url": "https://www.youtube.com/watch?v=a4Fa4jqS13Q",
     "twitch_id": null,
     "twitch_url": null
   },
@@ -3862,18 +3886,6 @@
     "twitch_url": null
   },
   {
-    "id": "1wvNi-9f-rM",
-    "title": "Delta In Flight Maggots, Gaza Horror Check In, Super Wolves? It's Two Dumb NEWS and a real NEWS",
-    "date": "2024-02-15",
-    "raw_date": "20240215",
-    "duration_str": "2:38:08",
-    "duration_seconds": 9488,
-    "yt_id": "1wvNi-9f-rM",
-    "yt_url": "https://www.youtube.com/watch?v=1wvNi-9f-rM",
-    "twitch_id": null,
-    "twitch_url": null
-  },
-  {
     "id": "OAq9wosVy00",
     "title": "Newsing w/ Jon Matteson",
     "date": "2024-02-15",
@@ -3882,6 +3894,18 @@
     "duration_seconds": 5584,
     "yt_id": "OAq9wosVy00",
     "yt_url": "https://www.youtube.com/watch?v=OAq9wosVy00",
+    "twitch_id": null,
+    "twitch_url": null
+  },
+  {
+    "id": "1wvNi-9f-rM",
+    "title": "Delta In Flight Maggots, Gaza Horror Check In, Super Wolves? It's Two Dumb NEWS and a real NEWS",
+    "date": "2024-02-15",
+    "raw_date": "20240215",
+    "duration_str": "2:38:08",
+    "duration_seconds": 9488,
+    "yt_id": "1wvNi-9f-rM",
+    "yt_url": "https://www.youtube.com/watch?v=1wvNi-9f-rM",
     "twitch_id": null,
     "twitch_url": null
   },
@@ -4030,18 +4054,6 @@
     "twitch_url": null
   },
   {
-    "id": "cx5fBPbLfBQ",
-    "title": "Logan Bought a Cryptozoo, Self Love, Blah Blah Trump, it's NEWS",
-    "date": "2024-01-05",
-    "raw_date": "20240105",
-    "duration_str": "2:08:10",
-    "duration_seconds": 7690,
-    "yt_id": "cx5fBPbLfBQ",
-    "yt_url": "https://www.youtube.com/watch?v=cx5fBPbLfBQ",
-    "twitch_id": null,
-    "twitch_url": null
-  },
-  {
     "id": "yHz1R0hOixg",
     "title": "Returnal to the News",
     "date": "2024-01-05",
@@ -4050,6 +4062,18 @@
     "duration_seconds": 6852,
     "yt_id": "yHz1R0hOixg",
     "yt_url": "https://www.youtube.com/watch?v=yHz1R0hOixg",
+    "twitch_id": null,
+    "twitch_url": null
+  },
+  {
+    "id": "cx5fBPbLfBQ",
+    "title": "Logan Bought a Cryptozoo, Self Love, Blah Blah Trump, it's NEWS",
+    "date": "2024-01-05",
+    "raw_date": "20240105",
+    "duration_str": "2:08:10",
+    "duration_seconds": 7690,
+    "yt_id": "cx5fBPbLfBQ",
+    "yt_url": "https://www.youtube.com/watch?v=cx5fBPbLfBQ",
     "twitch_id": null,
     "twitch_url": null
   },

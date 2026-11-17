@@ -35,17 +35,17 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 
 | Episode | Notes |
 |---|---|
-| [[episodes/2026-11-15|2026-11-15]] | In-studio contributor and gaming partner who made a brief cameo in the Rennerton woods. |
+| [[episodes/2026-11-14|2026-11-14]] | In-studio contributor and gaming partner who made a brief cameo in the Rennerton woods. |
 | [[episodes/2026-11-15-2930043990|2026-11-15]] | In-studio contributor Kendelle appears during the Sunday stream and reacts to Case's card-game marathon. |
-| [[episodes/2026-11-14|2026-11-14]] | Walked through the studio to settle a bob-cut vote and subbed into Friend Slap as the patron make-good. |
-| [[episodes/2026-11-13|2026-11-13]] | Walked through the studio to model an outfit before leaving for a Blade Runner series premiere. |
-| [[episodes/2026-11-10|2026-11-10]] | in-studio contributor. |
-| [[episodes/2026-11-07|2026-11-07]] | in-studio contributor. |
-| [[episodes/2026-11-07-2922559914|2026-11-07]] | in-studio contributor. |
+| [[episodes/2026-11-13|2026-11-13]] | Walked through the studio to settle a bob-cut vote and subbed into Friend Slap as the patron make-good. |
+| [[episodes/2026-11-12-2927191605|2026-11-12]] | Walked through the studio to model an outfit before leaving for a Blade Runner series premiere. |
+| [[episodes/2026-11-09|2026-11-09]] | in-studio contributor. |
 | [[episodes/2026-11-06|2026-11-06]] | in-studio contributor. |
+| [[episodes/2026-11-07-2922559914|2026-11-07]] | in-studio contributor. |
 | [[episodes/2026-11-05|2026-11-05]] | in-studio contributor. |
+| [[episodes/2026-11-04|2026-11-04]] | in-studio contributor. |
 | [[episodes/2026-10-23|2026-10-23]] | in-studio contributor. |
-| [[episodes/2026-10-10|2026-10-10]] | in-studio contributor. |
+| [[episodes/2026-10-09|2026-10-09]] | in-studio contributor. |
 | [[episodes/2026-09-25|2026-09-25]] | in-studio contributor. |
 | [[episodes/2026-09-23|2026-09-23]] | in-studio contributor. |
 | [[episodes/2026-08-06|2026-08-06]] | In-studio contributor appearing intermittently. Debuts briefly before ghosting off-camera, later returns to announce she has already started playing *BigWog* without Blackwell. |
@@ -260,7 +260,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 ## Notable moments
 
 
-- **[19:17]** ([[episodes/2026-11-05|2026-11-05]]): Allergy test reveals allergies to sesame seeds, blueberries, watermelon, mustard, scallops, shrimp, lima beans, summer squash, and allmans.
+- **[19:17]** ([[episodes/2026-11-04|2026-11-04]]): Allergy test reveals allergies to sesame seeds, blueberries, watermelon, mustard, scallops, shrimp, lima beans, summer squash, and allmans.
 - **[9:20]** ([[episodes/2026-09-04|2026-09-04]]): Blackwell discloses hiding an engagement ring from Kendelle while she is out of town, referencing making "husband money" before departing on international leave.
 - **[52:09]** ([[episodes/2026-07-20|2026-07-20]]): Kendelle asks Case live on stream for legal advice regarding a video editing client contract that prevents portfolio usage.
 - **[9:00]** ([[episodes/2026-07-20|2026-07-20]]): Blackwell reveals their collaborative magic act stage names: Case as "Shaz Black" and Kendelle as "Candy Lane".

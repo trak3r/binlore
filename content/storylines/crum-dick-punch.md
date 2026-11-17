@@ -179,21 +179,21 @@ During the Season 3 finale on September 7, 2026—the final broadcast before [[.
 | [[../episodes/2026-09-07|2026-09-07]] [1:50:38] | **Climax & Conclusion:** The Rock-afire Gorilla fires the punch and Crum goes "demon mode" in his hell form; the fireball reduces the gorilla to dust and burns Munch into a talking skeleton; Crum survives unscathed. |
 | [[../episodes/2026-09-23|2026-09-23]] [1:14:10] | [01:14:10] Hype Train references the mechanical gorilla as 'terminator now' and suggests letting it punch Crum again; [01:14:53] claims AI took the gorilla's job. |
 | [[../episodes/2026-09-25|2026-09-25]] | Munch's skeleton state confirmed as permanent; Munch declares himself Lord of the Dead and demonstrates summonable penis [53:55, 57:48, 58:51]. |
-| [[../episodes/2026-09-29|2026-09-29]] [1:27:57] | Munch references failed murder attempt and Crum's skeleton transformation during Halloween decoration debate [1:27:57]. |
-| [[../episodes/2026-10-10|2026-10-10]] [56:49] | [56:49] Therapy referenced for Crum's post-dick-punch state; Munch remains skeleton; Crum denies needing therapy. |
+| [[../episodes/2026-09-28|2026-09-28]] [1:27:57] | Munch references failed murder attempt and Crum's skeleton transformation during Halloween decoration debate [1:27:57]. |
+| [[../episodes/2026-10-09|2026-10-09]] [56:49] | [56:49] Therapy referenced for Crum's post-dick-punch state; Munch remains skeleton; Crum denies needing therapy. |
 | [[../episodes/2026-10-19|2026-10-19]] [1:10:34] | Munch remains in permanent skeletal form (since Crum's hell-form fireball on Sept 7); references Halloween as 'his time of year' [70:34]. |
 | [[../episodes/2026-10-19|2026-10-19]] [1:11:01] | Munch objects to Crum's "big assumptions about me based on my skeletal identity": "I'm still corporal, I'm just a skelly." |
 | [[../episodes/2026-10-23|2026-10-23]] | [2026-10-23] Referenced in debate: Munch mocks Crum's hell stint and 'Hell's Wasteland' skate park naming rights; Crum's gambling liabilities remain lore backdrop. |
 | [[../episodes/2026-10-29|2026-10-29]] [1:08:31] | Munch on his permanent skeleton form: "They clap extra hard now because I'm a skeleton." |
 | [[../episodes/2026-10-29|2026-10-29]] [1:11:33] | [1:11:33] Crum claims he has already been executed by gorilla punch and died but returned; execution 'doesn't work' on him; secondary poll for another punch to 'supple rear' gains traction. |
-| [[../episodes/2026-11-03|2026-11-03]] [1:36:12] | Munch confirms permanent skeleton state: "That's the type of thing I can do, because I'm a skelly." |
-| [[../episodes/2026-11-03|2026-11-03]] [2:01:45] | [02:01:45] Jeb's Dad asks 'Is today Election Day or is it Crumb Punch Day?' confirming groin-punch forfeit still pending in lore. |
-| [[../episodes/2026-11-04|2026-11-04]] [54:25] | Crum calls Munch's skeleton form "self-imposed": "even in my hell form" he never meant for Munch to become a talking skeleton from "absorbing a fireball." Munch: "you still tried to make me one." |
-| [[../episodes/2026-11-05|2026-11-05]] [1:14:05] | [1:14:05] Crum references Kalshi election betting (not traditional sportsbooks) while downplaying losses; Munch and chat vote he went deeper into debt. |
-| [[../episodes/2026-11-06|2026-11-06]] [1:12:27] | [01:12:27] Crum confirms he already received the mandated gorilla dick punch, 'paid debt to society,' and claims [[../sponsors/peen-ui|peen.ui]] data centers legally approved as result. |
-| [[../episodes/2026-11-07|2026-11-07]] [15:07] | [15:07] Crum's lawyer referenced in context of court-ordered groin punch: "the same one that he had to get punched in the dick cuz of... That was a light sentence." |
+| [[../episodes/2026-11-02|2026-11-02]] [1:36:12] | Munch confirms permanent skeleton state: "That's the type of thing I can do, because I'm a skelly." |
+| [[../episodes/2026-11-02|2026-11-02]] [2:01:45] | [02:01:45] Jeb's Dad asks 'Is today Election Day or is it Crumb Punch Day?' confirming groin-punch forfeit still pending in lore. |
+| [[../episodes/2026-11-03|2026-11-03]] [54:25] | Crum calls Munch's skeleton form "self-imposed": "even in my hell form" he never meant for Munch to become a talking skeleton from "absorbing a fireball." Munch: "you still tried to make me one." |
+| [[../episodes/2026-11-04|2026-11-04]] [1:14:05] | [1:14:05] Crum references Kalshi election betting (not traditional sportsbooks) while downplaying losses; Munch and chat vote he went deeper into debt. |
+| [[../episodes/2026-11-05|2026-11-05]] [1:12:27] | [01:12:27] Crum confirms he already received the mandated gorilla dick punch, 'paid debt to society,' and claims [[../sponsors/peen-ui|peen.ui]] data centers legally approved as result. |
+| [[../episodes/2026-11-06|2026-11-06]] [15:07] | [15:07] Crum's lawyer referenced in context of court-ordered groin punch: "the same one that he had to get punched in the dick cuz of... That was a light sentence." |
 | [[../episodes/2026-11-07-2922559914|2026-11-07]] | [2026-11-07] Crum references being 'mandated by a court to get punched in the penis' during press conference at 01:10:02, confirming the storyline's place in Rennerton lore. |
-| [[../episodes/2026-11-10|2026-11-10]] [13:38] | [13:38] Crum references 'peen.ui money' settlement and hourly lawyer rates, confirming the Crum Dick Punch financial aftermath is canonically liquid. |
+| [[../episodes/2026-11-09|2026-11-09]] [13:38] | [13:38] Crum references 'peen.ui money' settlement and hourly lawyer rates, confirming the Crum Dick Punch financial aftermath is canonically liquid. |
 | [[../episodes/2026-11-10-2925329547|2026-11-10]] [1:20:47] | [01:20:47] Munch demanded his debate points back on the grounds that Crum's points only bought the cancellation of one punch, not the follow-up; Crum responded by suing Munch and chat for back points. |
 
 ## Related Pages

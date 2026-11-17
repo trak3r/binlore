@@ -11,15 +11,15 @@ aliases:
 
 **Propaganda** (`propaganda_v2` on Twitch) has been in [[characters/case-blackwell|Case]]'s chat since at least late 2023, and is named on air in more than a hundred broadcasts. They're a viewer, not a character, so this page is filed under [[fans/index|Fanatical Fans]] rather than [[characters/index|On-Air Talent]].
 
-Case usually just says "Propaganda." When the full handle comes up, [[characters/ai-rooney|AI Rooney]] reads it as "propaganda underscore v2." They're a multi-year subscriber (Case has read out everything from 21 months to 42), a VIP since [[episodes/2026-06-01|2026-06-01]], a regular in the opening roll call, and one of the chat's steadiest sources of clips, expert requests and Rooney complaints. On [[episodes/2026-11-14|2026-11-14]], Case briefly crowned them "the lore master himself" before correcting the record: that title belongs to [[fans/teflon-ted|Teflon Ted]]; Propaganda is "lore master number two, or archivist."
+Case usually just says "Propaganda." When the full handle comes up, [[characters/ai-rooney|AI Rooney]] reads it as "propaganda underscore v2." They're a multi-year subscriber (Case has read out everything from 21 months to 42), a VIP since [[episodes/2026-06-01|2026-06-01]], a regular in the opening roll call, and one of the chat's steadiest sources of clips, expert requests and Rooney complaints. On [[episodes/2026-11-13|2026-11-13]], Case briefly crowned them "the lore master himself" before correcting the record: that title belongs to [[fans/teflon-ted|Teflon Ted]]; Propaganda is "lore master number two, or archivist."
 
 ## Lore Master Number Two, or Archivist
 
-Propaganda's name is a running joke on the desk ("Propaganda, my favorite thing to spread and one of my favorite names to see here," [[episodes/2025-04-23|2025-04-23]]), and they lean into the archivist role. They keep feeding the broadcast old clips, Discord art and wiki nudges. On [[episodes/2024-10-30-iCCqpvNIlFY|2024-10-30]], Case stopped mid-stream for "a huge shout out to Propaganda for making this" Discord piece. On [[episodes/2026-07-20|2026-07-20]]: "Propaganda, thank you for the clips as always." And on [[episodes/2026-11-14|2026-11-14]], while co-hosting [[segments/amongst-the-web|Amongst the Web]] with [[characters/jevrything|Jevrything]], Case opened Propaganda's throwback with "the lore master himself," then immediately demoted them:
+Propaganda's name is a running joke on the desk ("Propaganda, my favorite thing to spread and one of my favorite names to see here," [[episodes/2025-04-23|2025-04-23]]), and they lean into the archivist role. They keep feeding the broadcast old clips, Discord art and wiki nudges. On [[episodes/2024-10-30-iCCqpvNIlFY|2024-10-30]], Case stopped mid-stream for "a huge shout out to Propaganda for making this" Discord piece. On [[episodes/2026-07-20|2026-07-20]]: "Propaganda, thank you for the clips as always." And on [[episodes/2026-11-13|2026-11-13]], while co-hosting [[segments/amongst-the-web|Amongst the Web]] with [[characters/jevrything|Jevrything]], Case opened Propaganda's throwback with "the lore master himself," then immediately demoted them:
 
 > Well, technically that's Teflon Ted. Lore master number two, or archivist.
 
-Propaganda is also the chatter other people ping when something needs checking. Case has told the room to "ask Propaganda," credited them with beating him to a Greta Thunberg clip, and trusted them with the cream.team link at sign-off ("There you go, Propaganda has it," [[episodes/2026-11-13-2927220320|2026-11-13]]).
+Propaganda is also the chatter other people ping when something needs checking. Case has told the room to "ask Propaganda," credited them with beating him to a Greta Thunberg clip, and trusted them with the cream.team link at sign-off ("There you go, Propaganda has it," [[episodes/2026-11-12-2927220320|2026-11-12]]).
 
 ## Amongst the Web
 
@@ -29,7 +29,7 @@ Propaganda is a recurring submitter. Their clips show up in the queue whether or
 - [[episodes/2026-06-29|2026-06-29]]: Listed among the night's contributors (with [[fans/live-in-sleazy|Sleazy]], Psychor and Uncle Phil) before the queue "veered into the piss genre."
 - [[episodes/2026-09-23|2026-09-23]]: "Look at this video coming in from propaganda. This looks crazy."
 - [[episodes/2026-10-29|2026-10-29]]: "Coming all the way in… from Propaganda."
-- [[episodes/2026-11-14|2026-11-14]]: The throwback that earned the archivist title.
+- [[episodes/2026-11-13|2026-11-13]]: The throwback that earned the archivist title.
 
 ## "Propaganda Underscore V2 Got Me Thinking"
 
@@ -62,14 +62,14 @@ Propaganda has fed at least 14 complaints to [[segments/ai-rooney|AI Rooney]] be
 | [[episodes/2026-11-13-2927220320\|2026-11-13]] | 53:17 | Trusted with the cream.team link at sign-off: "There you go, Propaganda has it." |
 | [[episodes/2026-11-14\|2026-11-14]] | 1:43:01 | Crowned lore master, then demoted to "lore master number two, or archivist," before their Amongst the Web throwback. |
 
-Case also greets or thanks them by name in roll calls and wrap-ups across years of shows, including [[episodes/2024-06-26|2024-06-26]], [[episodes/2025-02-03|2025-02-03]], [[episodes/2025-05-17|2025-05-17]], [[episodes/2025-11-15|2025-11-15]], [[episodes/2025-12-24|2025-12-24]], [[episodes/2026-05-04|2026-05-04]], [[episodes/2026-07-24|2026-07-24]], [[episodes/2026-08-08|2026-08-08]], [[episodes/2026-09-29|2026-09-29]] and [[episodes/2026-10-29|2026-10-29]]. Sub-anniversary thank-yous stack up between the 21-month mark ([[episodes/2024-09-12|2024-09-12]]) and 42 months ([[episodes/2026-08-19|2026-08-19]]), with stops at 24, 26, 28, 29, 34, 37, 39 and 41 along the way. On [[episodes/2026-07-13|2026-07-13]], Case put it at "41 months — only 41 more years till I catch up."
+Case also greets or thanks them by name in roll calls and wrap-ups across years of shows, including [[episodes/2024-06-26|2024-06-26]], [[episodes/2025-02-03|2025-02-03]], [[episodes/2025-05-17|2025-05-17]], [[episodes/2025-11-15|2025-11-15]], [[episodes/2025-12-24|2025-12-24]], [[episodes/2026-05-04|2026-05-04]], [[episodes/2026-07-24|2026-07-24]], [[episodes/2026-08-08|2026-08-08]], [[episodes/2026-09-28|2026-09-28]] and [[episodes/2026-10-29|2026-10-29]]. Sub-anniversary thank-yous stack up between the 21-month mark ([[episodes/2024-09-12|2024-09-12]]) and 42 months ([[episodes/2026-08-19|2026-08-19]]), with stops at 24, 26, 28, 29, 34, 37, 39 and 41 along the way. On [[episodes/2026-07-13|2026-07-13]], Case put it at "41 months — only 41 more years till I catch up."
 
 ## Notable Quotes
 
 - "Propaganda, my favorite thing to spread and one of my favorite names to see here. We all love propaganda." — [[characters/case-blackwell|Case]], [[episodes/2025-04-23|2025-04-23]]
 - "Propaganda V2. Oh, I must have been spelling your name wrong. Now Propaganda is a VIP." — [[characters/case-blackwell|Case]], [[episodes/2026-06-01|2026-06-01]]
 - "Propaganda, thank you for the clips as always." — [[characters/case-blackwell|Case]], [[episodes/2026-07-20|2026-07-20]]
-- "The lore master himself. Well, technically that's Teflon Ted. Lore master number two, or archivist." — [[characters/case-blackwell|Case]], [[episodes/2026-11-14|2026-11-14]]
+- "The lore master himself. Well, technically that's Teflon Ted. Lore master number two, or archivist." — [[characters/case-blackwell|Case]], [[episodes/2026-11-13|2026-11-13]]
 - "Propaganda underscore v2 got me thinking." — [[characters/ai-rooney|AI Rooney]], on at least 14 broadcasts from [[episodes/2025-10-02|2025-10-02]] to [[episodes/2026-06-29|2026-06-29]]
 
 See also: [[fans/teflon-ted|Teflon Ted]] · [[segments/amongst-the-web|Amongst the Web]] · [[segments/ai-rooney|AI Rooney]] · [[fans/giggle-trash|Giggle Trash]] · [[fans/live-in-sleazy|Live 'n Sleazy]]

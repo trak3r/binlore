@@ -76,7 +76,7 @@ Peen.UI's other sponsorships surface sideways:
 
 ## Data Centers (2026-11-06)
 
-Debt paid by groin, Crum announced expansion: *"the peen.ui data centers will be going into the elementary school parking lots."* Kids don't drive, the hum keeps them quiet, and *"legally that has been approved and it's because I paid my debt to society by already getting punched in the penis by a gorilla. That's just classic law stuff"* ([[../episodes/2026-11-06|2026-11-06]] [1:18:26]). Clip: [YouTube](https://youtube.com/shorts/HzE_ucYgx-I) · [TikTok](https://www.tiktok.com/@binlore.wiki/video/7705079429038378254).
+Debt paid by groin, Crum announced expansion: *"the peen.ui data centers will be going into the elementary school parking lots."* Kids don't drive, the hum keeps them quiet, and *"legally that has been approved and it's because I paid my debt to society by already getting punched in the penis by a gorilla. That's just classic law stuff"* ([[../episodes/2026-11-05|2026-11-05]] [1:18:26]). Clip: [YouTube](https://youtube.com/shorts/HzE_ucYgx-I) · [TikTok](https://www.tiktok.com/@binlore.wiki/video/7705079429038378254).
 
 ## Open Questions
 

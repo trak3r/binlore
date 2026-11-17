@@ -10,8 +10,13 @@ from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
+from zoneinfo import ZoneInfo
 
 from .paths import CHANNEL_VIDEOS_URL, TOOLS_ROOT
+
+# Case streams in US Eastern. Air dates must use this zone — UTC midnight
+# crossover turns Saturday evening starts into Sunday catalog dates.
+AIR_TZ = ZoneInfo("America/New_York")
 
 
 # YouTube does not publish a fixed bot-check TTL. Community + yt-dlp docs:
@@ -215,9 +220,41 @@ class Vod:
 
     @property
     def date_str(self) -> str | None:
-        if self.aired_at is None:
+        """Broadcast calendar date in America/New_York (not UTC)."""
+        if self.timestamp is None:
             return None
-        return self.aired_at.date().isoformat()
+        return datetime.fromtimestamp(self.timestamp, tz=AIR_TZ).date().isoformat()
+
+
+def _air_timestamp(data: dict[str, Any]) -> int | None:
+    """Unix start time for air-date purposes.
+
+    Prefer ``release_timestamp`` (scheduled/air) over ``timestamp`` (often upload
+    on YouTube). Fall back to ``upload_date`` as noon Eastern so the calendar
+    day is preserved without a UTC day-shift.
+    """
+    release = data.get("release_timestamp")
+    ts = data.get("timestamp")
+    if release is not None:
+        try:
+            return int(release)
+        except (TypeError, ValueError):
+            pass
+    if ts is not None:
+        try:
+            return int(ts)
+        except (TypeError, ValueError):
+            pass
+    upload = data.get("upload_date")  # YYYYMMDD
+    if upload and len(str(upload)) == 8:
+        try:
+            dt = datetime.strptime(str(upload), "%Y%m%d").replace(
+                hour=12, tzinfo=AIR_TZ
+            )
+            return int(dt.timestamp())
+        except ValueError:
+            pass
+    return None
 
 
 def _run_yt_dlp(args: list[str]) -> str:
@@ -289,22 +326,13 @@ def list_vods(limit: int = 20) -> list[Vod]:
         elif "/videos/v" in str(url):
             url = str(url).replace("/videos/v", "/videos/")
 
-        ts = data.get("timestamp") or data.get("release_timestamp")
-        upload = data.get("upload_date")  # YYYYMMDD
-        if ts is None and upload and len(str(upload)) == 8:
-            try:
-                dt = datetime.strptime(str(upload), "%Y%m%d").replace(tzinfo=timezone.utc)
-                ts = int(dt.timestamp())
-            except ValueError:
-                pass
-
         vods.append(
             Vod(
                 id=vid,
                 title=str(data.get("title") or "(untitled)"),
                 url=str(url),
                 duration=data.get("duration"),
-                timestamp=ts,
+                timestamp=_air_timestamp(data),
             )
         )
     return vods
@@ -332,20 +360,12 @@ def resolve_vod(url_or_latest: str | None, *, latest: bool) -> Vod:
     vid = str(data["id"])
     if vid.startswith("v") and vid[1:].isdigit():
         vid = vid[1:]
-    ts = data.get("timestamp") or data.get("release_timestamp")
-    upload = data.get("upload_date")
-    if ts is None and upload and len(str(upload)) == 8:
-        try:
-            dt = datetime.strptime(str(upload), "%Y%m%d").replace(tzinfo=timezone.utc)
-            ts = int(dt.timestamp())
-        except ValueError:
-            pass
     return Vod(
         id=vid,
         title=str(data.get("title") or "(untitled)"),
         url=str(data.get("webpage_url") or url_or_latest),
         duration=data.get("duration"),
-        timestamp=ts,
+        timestamp=_air_timestamp(data),
     )
 
 
@@ -384,14 +404,24 @@ def vod_from_catalog_entry(entry: dict[str, Any], *, prefer_source: str = "twitc
         vid = str(yt_id or twitch_id or "")
         url = str(yt_url or twitch_url or "")
 
-    ts = None
-    date_str = entry.get("date")
-    if date_str:
+    ts: int | None = None
+    raw_ts = entry.get("timestamp")
+    if raw_ts is not None:
         try:
-            dt = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=timezone.utc)
-            ts = int(dt.timestamp())
-        except Exception:
-            pass
+            ts = int(raw_ts)
+        except (TypeError, ValueError):
+            ts = None
+    if ts is None:
+        date_str = entry.get("date")
+        if date_str:
+            try:
+                # Noon Eastern keeps the stored calendar date stable in date_str.
+                dt = datetime.strptime(str(date_str), "%Y-%m-%d").replace(
+                    hour=12, tzinfo=AIR_TZ
+                )
+                ts = int(dt.timestamp())
+            except Exception:
+                pass
 
     return Vod(
         id=vid,

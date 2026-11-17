@@ -32,20 +32,20 @@ The commitment quickly became a running bit. Case slams a "No Breaks November" g
 
 | Date / Episode | Beat |
 |----------------|------|
-| [[../episodes/2026-11-03|2026-11-03]] [9:24] | **Launch:** Case announces No Breaks November: daily Mon–Sat broadcasts all month, a special November 20 Kickstarter launch broadcast, Sundays off. |
-| [[../episodes/2026-11-03|2026-11-03]] [1:36:58] | Case defends his new catchphrase to Crum: "This is a movement." |
-| [[../episodes/2026-11-04|2026-11-04]] [1:53:38] | On election night, Brandon announces he doesn't subscribe to No Breaks November: "I'm a streamer." |
-| [[../episodes/2026-11-05|2026-11-05]] [9:04] | Case re-declares No Breaks November at the top of the post-election broadcast; at [1:00:06] the desk notes how often he hits the graphic. |
-| [[../episodes/2026-11-05|2026-11-05]] [2:16:46] | [[../segments/dj-newsic|DJ Newsic]] works "No Breaks November" into the musical close. Case calls the Kickstarter the reason for the month. |
-| [[../episodes/2026-11-06|2026-11-06]] [1:30:57] | The broadcast ends with a "No Breaks November raid." |
-| [[../episodes/2026-11-07|2026-11-07]] [10:37] | "It is in fact No Breaks November." Case slams the graphic on every story and declares "No Breaks November means love" [30:28]. |
-| [[../episodes/2026-11-10|2026-11-10]] [2:44:48] | Wrapping a co-op gaming broadcast, Case notes tomorrow's show only exists because of No Breaks November and confirms daily ~4 PM broadcasts through the month. |
+| [[../episodes/2026-11-02|2026-11-02]] [9:24] | **Launch:** Case announces No Breaks November: daily Mon–Sat broadcasts all month, a special November 20 Kickstarter launch broadcast, Sundays off. |
+| [[../episodes/2026-11-02|2026-11-02]] [1:36:58] | Case defends his new catchphrase to Crum: "This is a movement." |
+| [[../episodes/2026-11-03|2026-11-03]] [1:53:38] | On election night, Brandon announces he doesn't subscribe to No Breaks November: "I'm a streamer." |
+| [[../episodes/2026-11-04|2026-11-04]] [9:04] | Case re-declares No Breaks November at the top of the post-election broadcast; at [1:00:06] the desk notes how often he hits the graphic. |
+| [[../episodes/2026-11-04|2026-11-04]] [2:16:46] | [[../segments/dj-newsic|DJ Newsic]] works "No Breaks November" into the musical close. Case calls the Kickstarter the reason for the month. |
+| [[../episodes/2026-11-05|2026-11-05]] [1:30:57] | The broadcast ends with a "No Breaks November raid." |
+| [[../episodes/2026-11-06|2026-11-06]] [10:37] | "It is in fact No Breaks November." Case slams the graphic on every story and declares "No Breaks November means love" [30:28]. |
+| [[../episodes/2026-11-09|2026-11-09]] [2:44:48] | Wrapping a co-op gaming broadcast, Case notes tomorrow's show only exists because of No Breaks November and confirms daily ~4 PM broadcasts through the month. |
 | [[../episodes/2026-11-10-2925329547|2026-11-10]] [8:45] | [08:45] The 2026-11-10 edition ran roughly one hour ahead of a Kickstarter producer meeting, with Blackwell ruling the shortened telecast still counts toward the streak. |
-| [[../episodes/2026-11-13|2026-11-13]] [15:50] | [15:50] After a forced Windows update and a paid editing job cost him the prior night's telecast, Case breaks the daily streak, dubs the run 'Silent No Breaks November,' and vows to stream Sunday to make up for a Wednesday off. |
-| [[../episodes/2026-11-13-2927220320|2026-11-13]] [16:11] | [16:11] Case Blackwell admits the No Breaks November streak was broken and schedules make-up streams through Sunday. |
-| [[../episodes/2026-11-14|2026-11-14]] [1:02:19] | [01:02:19] Case rules the breaks taken during the ground-stop coverage do not count, keeping the month unbroken. |
+| [[../episodes/2026-11-12-2927191605|2026-11-12]] [15:50] | [15:50] After a forced Windows update and a paid editing job cost him the prior night's telecast, Case breaks the daily streak, dubs the run 'Silent No Breaks November,' and vows to stream Sunday to make up for a Wednesday off. |
+| [[../episodes/2026-11-12-2927220320|2026-11-12]] [16:11] | [16:11] Case Blackwell admits the No Breaks November streak was broken and schedules make-up streams through Sunday. |
+| [[../episodes/2026-11-13|2026-11-13]] [1:02:19] | [01:02:19] Case rules the breaks taken during the ground-stop coverage do not count, keeping the month unbroken. |
 | [[../episodes/2026-11-15-2930043990|2026-11-15]] [9:01] | [09:01] Case confirms the Sunday broadcast remains part of No Breaks November despite a scheduled collaborator's absence. |
-| [[../episodes/2026-11-17|2026-11-17]] [41:55] | [41:55] Case floats a Friday telethon for the Kickstarter launch, citing the month-long no-breaks commitment. |
+| [[../episodes/2026-11-16|2026-11-16]] [41:55] | [41:55] Case floats a Friday telethon for the Kickstarter launch, citing the month-long no-breaks commitment. |
 
 ## Related Pages
 

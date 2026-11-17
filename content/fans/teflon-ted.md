@@ -28,9 +28,9 @@ He's a viewer, not a character, so this page is filed under [[fans/index|Fanatic
 
 ## Notable Quotes
 
-- "I believe Teflon Ted made a BIN wiki, which is crazy work." — [[characters/case-blackwell|Case]], [[episodes/2026-10-10|2026-10-10]]
-- "Teflon Ted, thank you for all your service, by the way." — [[characters/case-blackwell|Case]], [[episodes/2026-11-06|2026-11-06]]
-- "The lore master himself. Well, technically that's Teflon Ted. Lore master number two, or archivist." — [[characters/case-blackwell|Case]], [[episodes/2026-11-14|2026-11-14]]
+- "I believe Teflon Ted made a BIN wiki, which is crazy work." — [[characters/case-blackwell|Case]], [[episodes/2026-10-09|2026-10-09]]
+- "Teflon Ted, thank you for all your service, by the way." — [[characters/case-blackwell|Case]], [[episodes/2026-11-05|2026-11-05]]
+- "The lore master himself. Well, technically that's Teflon Ted. Lore master number two, or archivist." — [[characters/case-blackwell|Case]], [[episodes/2026-11-13|2026-11-13]]
 - "Teflon Ted, thank you again for noticing the thickness of my beard." — [[characters/case-blackwell|Case]], 2025-07-17
 
 See also: [[bin-lore-wiki|BIN Lore on the broadcast]]

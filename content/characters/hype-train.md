@@ -34,16 +34,16 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 
 | Episode | Notes |
 |---|---|
-| [[episodes/2026-11-17|2026-11-17]] | Skipped subscriber acknowledgments entirely for a pre-recorded ground-army freestyle with Duffy. |
-| [[episodes/2026-11-14|2026-11-14]] | Commandeered the feed as the Hype Plane during the Duffy briefing and exhausted both fuel and rhymes. |
-| [[episodes/2026-11-13-2927220320|2026-11-13]] | Hype Train briefly commandeered the feed with a frustrated freestyle before abandoning the broadcast. |
-| [[episodes/2026-11-04|2026-11-04]] | musical interruption. |
-| [[episodes/2026-11-03|2026-11-03]] | musical correspondent. |
+| [[episodes/2026-11-16|2026-11-16]] | Skipped subscriber acknowledgments entirely for a pre-recorded ground-army freestyle with Duffy. |
+| [[episodes/2026-11-13|2026-11-13]] | Commandeered the feed as the Hype Plane during the Duffy briefing and exhausted both fuel and rhymes. |
+| [[episodes/2026-11-12-2927220320|2026-11-12]] | Hype Train briefly commandeered the feed with a frustrated freestyle before abandoning the broadcast. |
+| [[episodes/2026-11-03|2026-11-03]] | musical interruption. |
+| [[episodes/2026-11-02|2026-11-02]] | musical correspondent. |
 | [[episodes/2026-10-29|2026-10-29]] | hype announcer. |
 | [[episodes/2026-10-26|2026-10-26]] | hype correspondent. |
 | [[episodes/2026-10-23|2026-10-23]] | musical/cultural correspondent. |
 | [[episodes/2026-10-19|2026-10-19]] | hype correspondent. |
-| [[episodes/2026-10-10|2026-10-10]] | hype train host. |
+| [[episodes/2026-10-09|2026-10-09]] | hype train host. |
 | [[episodes/2026-09-25|2026-09-25]] | musical interruption. |
 | [[episodes/2026-09-07|2026-09-07]] | Intercepts the desk on a futuristic synthwave beat, delivering an impassioned freestyle about wearing denim jeans with his girls, Roman urine laundering, and proposed tombstone epitaphs. |
 | [[episodes/2026-09-04|2026-09-04]] | Hijacks the broadcast to argue that eggs lack pre-injected sauce, performs Dr. Seuss-style egg raps, acknowledges donors, and requests love ballads when viewers depart. |
@@ -187,7 +187,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 ## Notable moments
 
 
-- **[48:03]** ([[episodes/2026-11-14|2026-11-14]]): Hype Train seizes the feed mid-briefing under the alias Hype Plane, a transportation-themed variant tied to the grounded-fleet story.
+- **[48:03]** ([[episodes/2026-11-13|2026-11-13]]): Hype Train seizes the feed mid-briefing under the alias Hype Plane, a transportation-themed variant tied to the grounded-fleet story.
 - **[32:42]** ([[episodes/2026-09-02|2026-09-02]]): Hails from the 'crypto universe,' where Patrick is 'the Starfish guy,' sand is non-fungible, and Sam Bankman Fried is 'Sam Bankman Friend.' He was 'born in hell but raised in the crypto universe.'
 - **[14:09]** ([[episodes/2026-09-01|2026-09-01]]): Hype Train claims that every time another train car attaches to him, it counts as a pregnancy, and he gives birth to the new train cars and any 'skeleton' humans who may have died inside him due to 'lack of safety standards.'
 - **[23:29]** ([[episodes/2026-09-01|2026-09-01]]): Hype Train claims to have 'died via autotune,' 'like all the greats,' and notes this is his preferred method of death.

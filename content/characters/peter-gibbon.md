@@ -37,11 +37,11 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 
 | Episode | Notes |
 |---|---|
-| [[episodes/2026-11-17|2026-11-17]] | Surfaced during Amongst the Web, where Case was too distracted to be disgusted by him. |
-| [[episodes/2026-11-07|2026-11-07]] | news stowaway. |
+| [[episodes/2026-11-16|2026-11-16]] | Surfaced during Amongst the Web, where Case was too distracted to be disgusted by him. |
+| [[episodes/2026-11-06|2026-11-06]] | news stowaway. |
 | [[episodes/2026-11-07-2922559914|2026-11-07]] | news stowaway. |
 | [[episodes/2026-10-23|2026-10-23]] | news stowaway. |
-| [[episodes/2026-09-29|2026-09-29]] | news stowaway. |
+| [[episodes/2026-09-28|2026-09-28]] | news stowaway. |
 | [[episodes/2026-09-04|2026-09-04]] | Crawls out of the studio walls to seize the broadcast desk: *"Looks like you couldn't keep me away forever. Back again it's Peter Gibbon."* Reads the news bulletin, plays music tracks from a controversial cult, and anchors the viral video review desk. |
 | [[episodes/2026-08-06|2026-08-06]] | Disgraced former producer / news stowaway. Mentioned as the chat-recommended winner of a 'cream team' poll regarding who would attend the nude restaurant. |
 | [[episodes/2026-07-17|2026-07-17]] | News stowaway. Dr. Chath hinted he may have 'taken Stephanie to the wall'; Dr. Chath also noted Don will live in a wall for years for a bit. |

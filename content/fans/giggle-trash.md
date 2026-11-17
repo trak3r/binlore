@@ -22,8 +22,8 @@ Big bit drops and donations trigger an alert voiced as "the president," in a Joe
 - give "a personal shout out to Melody Von Torture" during Case's *Mega Man* fan-game playthrough on [[episodes/2026-04-11|2026-04-11]] (800 bits);
 - give "one dollar to everyone that didn't storm the Capitol on January 6th" on [[episodes/2026-05-18|2026-05-18]];
 - ask [[characters/abraham-lincoln|Abraham Lincoln]], in studio, to "tell the Grim Reaper to get off his fat ass and get back to work" on [[episodes/2026-07-20|2026-07-20]];
-- invite Case and Peter out for sushi on [[episodes/2026-09-29|2026-09-29]], leading to an argument over which of them was invited;
-- introduce himself as Commander Shepard ("this is my favorite gooners in the Citadel") while skeleton [[characters/munch|Munch]] was building Gooters in Rennerton on [[episodes/2026-11-07|2026-11-07]].
+- invite Case and Peter out for sushi on [[episodes/2026-09-28|2026-09-28]], leading to an argument over which of them was invited;
+- introduce himself as Commander Shepard ("this is my favorite gooners in the Citadel") while skeleton [[characters/munch|Munch]] was building Gooters in Rennerton on [[episodes/2026-11-06|2026-11-06]].
 
 Giggle Trash was also one of the first donors when the donate button went live in February 2026. Half of what comes in through it goes to the Donut Mutual Aid for families in Gaza. After their $20 on 2026-02-17, Case said, "So far we've raised 20 dollars." Their donations pushed the total past $100 on [[episodes/2026-04-09|2026-04-09]] ("It's donation time, baby"), and [[characters/cryptozeus|Brandon]] has thanked them mid-game for donating "to that thing that, like, I guess Case decided is like good or something."
 

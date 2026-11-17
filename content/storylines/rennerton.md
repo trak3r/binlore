@@ -57,14 +57,14 @@ Two *Return To Renerton* telecasts aired on **2024-10-13**, followed by a Hallow
 | [[../episodes/2026-10-22|2026-10-22]] | [[../segments/rebuild-rennerton|Rebuild Rennerton]] debut: Skellomunch launches Valheim server (join code `317139`, password `munch`); builds mayor's mansion / press corps; bans Crum from candidacy. |
 | [[../episodes/2026-10-23|2026-10-23]] | [2026-10-23] Major reconstruction advance: press corps built, first three citizens joined ([[fans/melody-von-torture|MVT]], Exterminator, Stanton), skate park half-pipe completed, mayor's mansion on stilts framed, boar pen established, Munch transformed to green skeleton via combat, resource rates tripled via server settings. |
 | [[../episodes/2026-10-26|2026-10-26]] [54:11] | [54:11] Munch references Rennerton mayoral campaign and wilds of Rennerton as a real place with tech tree progression. |
-| [[../episodes/2026-11-04|2026-11-04]] [49:14] | [49:14] Case mentions tilling the woods of Rennerton; [02:50:22] chat asks for Rennerton vote count and Case confirms rebuild segments deferred to tomorrow. |
-| [[../episodes/2026-11-06|2026-11-06]] [1:07:24] | [01:07:24] Case announces Valheim rebuild session for tomorrow; [01:18:43] Crum claims [[../sponsors/peen-ui|peen.ui]] data centers going into elementary school parking lots; [01:19:48] Crum admits using zombie children as processing chips in Rennerton. |
-| [[../episodes/2026-11-07|2026-11-07]] [53:49] | [53:49] Skeleton Munch active as mayor rebuilding from wilds; [2:48:44] Gooters castle completed (sign reads GOONERS); [3:00:25] Pay-to-play mayoral election held; [3:02:10] Crumb wins, Munch concedes ("Skella Munch out"); [3:03:46] Crumb assumes office with vegan/berry diet platform. |
+| [[../episodes/2026-11-03|2026-11-03]] [49:14] | [49:14] Case mentions tilling the woods of Rennerton; [02:50:22] chat asks for Rennerton vote count and Case confirms rebuild segments deferred to tomorrow. |
+| [[../episodes/2026-11-05|2026-11-05]] [1:07:24] | [01:07:24] Case announces Valheim rebuild session for tomorrow; [01:18:43] Crum claims [[../sponsors/peen-ui|peen.ui]] data centers going into elementary school parking lots; [01:19:48] Crum admits using zombie children as processing chips in Rennerton. |
+| [[../episodes/2026-11-06|2026-11-06]] [53:49] | [53:49] Skeleton Munch active as mayor rebuilding from wilds; [2:48:44] Gooters castle completed (sign reads GOONERS); [3:00:25] Pay-to-play mayoral election held; [3:02:10] Crumb wins, Munch concedes ("Skella Munch out"); [3:03:46] Crumb assumes office with vegan/berry diet platform. |
 | [[../episodes/2026-11-07-2922559914|2026-11-07]] | [2026-11-07] Crum serves as mayor for a full Valheim reconstruction session: builds fermenters (ball juice mead), jet ski (lost and rebuilt), treehouse on swamp island, discovers ancient bark for longship; chatter [[fans/melody-von-torture|MVT]] elected mayor at end. |
-| [[../episodes/2026-11-14|2026-11-14]] [1:26:05] | [01:26:05] Case fixes Saturday afternoon as the standing rebuild slot, with Crum building under a chat-elected mayor. |
-| [[../episodes/2026-11-15|2026-11-15]] [10:17] | [10:17] Crum, voted out as mayor, returned as self-appointed press secretary and Vice Mayor under Mayor Melody Von Torture and launched a jet-ski construction program. |
-| [[../episodes/2026-11-15|2026-11-15]] [1:18:01] | [01:18:01] Chat elected Pepito the dog as Mayor of Rennerton, unseating incumbent Melody Von Torture. |
-| [[../episodes/2026-11-15|2026-11-15]] [3:40:31] | [03:40:31] The rebuild crew felled a giant forest boss to close out the session. |
+| [[../episodes/2026-11-13|2026-11-13]] [1:26:05] | [01:26:05] Case fixes Saturday afternoon as the standing rebuild slot, with Crum building under a chat-elected mayor. |
+| [[../episodes/2026-11-14|2026-11-14]] [10:17] | [10:17] Crum, voted out as mayor, returned as self-appointed press secretary and Vice Mayor under Mayor Melody Von Torture and launched a jet-ski construction program. |
+| [[../episodes/2026-11-14|2026-11-14]] [1:18:01] | [01:18:01] Chat elected Pepito the dog as Mayor of Rennerton, unseating incumbent Melody Von Torture. |
+| [[../episodes/2026-11-14|2026-11-14]] [3:40:31] | [03:40:31] The rebuild crew felled a giant forest boss to close out the session. |
 
 ## Related Pages
 

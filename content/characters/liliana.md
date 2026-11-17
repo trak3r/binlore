@@ -40,9 +40,9 @@ Liliana was absent from *Barely Informed News* for approximately a full year bef
 
 | Episode | Notes |
 |---|---|
-| [[episodes/2026-11-14|2026-11-14]] | Cued from the desk for notes during the Australian hot-mic package. |
-| [[episodes/2026-11-03|2026-11-03]] | desk partner. |
-| [[episodes/2026-10-10|2026-10-10]] | desk partner. |
+| [[episodes/2026-11-13|2026-11-13]] | Cued from the desk for notes during the Australian hot-mic package. |
+| [[episodes/2026-11-02|2026-11-02]] | desk partner. |
+| [[episodes/2026-10-09|2026-10-09]] | desk partner. |
 | [[episodes/2026-07-16|2026-07-16]] | Mentioned by chat as knowing where Stephanie is, with Case confirming she is a 'big time international power broker' currently busy. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of game, not actively speaking. |
 | [[episodes/2026-04-29|2026-04-29]] | desk partner. |

@@ -52,8 +52,8 @@ By [[../episodes/2025-12-19|Grunchmas 2025]] the network billed the fucks-list r
 | [[../episodes/2025-12-13|2025-12-13]] [2:04:47] | Case announces Grungemas 2025 planning; Discord thread for naughty/nice (fucks) list submissions. |
 | [[../episodes/2025-12-18|2025-12-18]] [2:22:27] | Eve confirmation: Grunchmas Friday targeting 3 PM. |
 | [[../episodes/2025-12-19|2025-12-19]] | **Grunchmas 2025:** Fourth annual fucks list; letters portal; speed-run rap; raid out. |
-| [[../episodes/2026-11-04|2026-11-04]] [2:18:31] | [02:18:31] Case declares 'Grunch miss came early this year' as Democrats appear to win House and Senate, marking the annual fucks-list rite. |
-| [[../episodes/2026-11-17|2026-11-17]] [31:46] | [31:46] A Thanksgiving Day Parade watch-along is penciled in for Thursday, and Case cannot confirm whether a Grunchmas was missed while he was out of town. |
+| [[../episodes/2026-11-03|2026-11-03]] [2:18:31] | [02:18:31] Case declares 'Grunch miss came early this year' as Democrats appear to win House and Senate, marking the annual fucks-list rite. |
+| [[../episodes/2026-11-16|2026-11-16]] [31:46] | [31:46] A Thanksgiving Day Parade watch-along is penciled in for Thursday, and Case cannot confirm whether a Grunchmas was missed while he was out of town. |
 
 ## Related Pages
 

@@ -69,19 +69,26 @@ def refresh_catalog_from_twitch(*, limit: int = 40, dry_run: bool = False) -> di
         if existing is None and dur_guess is not None and float(dur_guess) < 1200:
             continue
 
-        # Flat playlist often lacks timestamps — resolve full metadata for unknowns
-        # or when catalog is missing a date.
-        need_meta = existing is None or not existing.get("date")
+        # Flat playlist often lacks timestamps — resolve full metadata for unknowns,
+        # missing air dates, or rows that never stored a real start timestamp
+        # (needed so Eastern air dates can correct UTC off-by-ones).
+        need_meta = (
+            existing is None
+            or not existing.get("date")
+            or existing.get("timestamp") is None
+        )
         meta = resolve_vod(flat.url, latest=False) if need_meta else flat
 
         date_str = meta.date_str or (existing or {}).get("date") or ""
         raw_date = date_str.replace("-", "") if date_str else ""
         dur_sec = meta.duration if meta.duration is not None else (existing or {}).get("duration_seconds")
+        air_ts = meta.timestamp if meta.timestamp is not None else (existing or {}).get("timestamp")
         entry = {
             "id": tid if existing is None else (existing.get("id") or tid),
             "title": meta.title or (existing or {}).get("title") or "(untitled)",
             "date": date_str or None,
             "raw_date": raw_date or None,
+            "timestamp": int(air_ts) if air_ts is not None else None,
             "duration_str": format_duration(dur_sec) if dur_sec is not None else (existing or {}).get("duration_str"),
             "duration_seconds": int(dur_sec) if dur_sec is not None else (existing or {}).get("duration_seconds"),
             "yt_id": (existing or {}).get("yt_id"),
@@ -97,7 +104,10 @@ def refresh_catalog_from_twitch(*, limit: int = 40, dry_run: bool = False) -> di
             if existing.get("title") and (existing.get("title_locked") or meta.title in (None, "", "(untitled)")):
                 entry["title"] = existing["title"]
             # Only count as updated when something useful changed
-            if any(existing.get(k) != entry.get(k) for k in ("date", "duration_seconds", "title", "twitch_url")):
+            if any(
+                existing.get(k) != entry.get(k)
+                for k in ("date", "duration_seconds", "title", "twitch_url", "timestamp")
+            ):
                 updated += 1
             by_twitch[tid] = {**existing, **{k: v for k, v in entry.items() if v is not None}}
         else:
@@ -125,8 +135,14 @@ def refresh_catalog_from_twitch(*, limit: int = 40, dry_run: bool = False) -> di
             merged.append(entry)
             seen_twitch.add(tid)
 
-    def sort_key(s: dict[str, Any]) -> str:
-        return str(s.get("date") or "0000-00-00")
+    def sort_key(s: dict[str, Any]) -> tuple[str, int, str]:
+        # Newest Eastern air date first; same-day by real start time, then id.
+        date = str(s.get("date") or "0000-00-00")
+        try:
+            ts = int(s.get("timestamp") or 0)
+        except (TypeError, ValueError):
+            ts = 0
+        return (date, ts, str(s.get("twitch_id") or s.get("id") or ""))
 
     merged = drop_excluded(merged)
     merged.sort(key=sort_key, reverse=True)
@@ -151,6 +167,16 @@ def generate_episodes_index() -> None:
     with open(CATALOG_JSON, encoding="utf-8") as f:
         streams = drop_excluded(json.load(f))
 
+    def _index_sort_key(s: dict[str, Any]) -> tuple[str, int, str]:
+        date = str(s.get("date") or "0000-00-00")
+        try:
+            ts = int(s.get("timestamp") or 0)
+        except (TypeError, ValueError):
+            ts = 0
+        return (date, ts, str(s.get("twitch_id") or s.get("id") or ""))
+
+    streams.sort(key=_index_sort_key, reverse=True)
+
     # Check for ingested episodes in content/episodes/*.md
     ingested_map: dict[str, str] = {}
     date_map: dict[str, str] = {}
@@ -172,8 +198,8 @@ def generate_episodes_index() -> None:
                 for key in keys:
                     ingested_map[key] = stem
             elif s.get("date") and stem == s.get("date"):
-                # A separate Twitch VOD on the same date (e.g. Friday night and Saturday, both UTC)
-                # has its own page; archive fragments of one broadcast share the date page.
+                # A separate Twitch VOD on the same Eastern air date has its own page;
+                # archive fragments of one broadcast share the date page.
                 if twitch_id and page_vod_id and page_vod_id not in keys:
                     continue
                 for key in keys:
@@ -252,7 +278,7 @@ description: Complete broadcast archive and episode backlog for Barely Informed 
 Complete stream archive tracked for *Barely Informed News*. Episodes are ingested from Twitch and YouTube streams to document network correspondents, broadcast segments, developing storylines, and lore.
 
 > **💡 Understanding Stream Dates, VOD IDs & Archives:**
-> - **Broadcast Dates:** Listed by air date (`YYYY-MM-DD`). Ingested episode wiki pages are slugified by broadcast date (e.g. `[[2026-09-04|Artificially General News]]`).
+> - **Broadcast Dates:** Listed by Eastern (America/New_York) air date (`YYYY-MM-DD`), not UTC. Ingested episode wiki pages are slugified by that date (e.g. `[[2026-09-04|Artificially General News]]`).
 > - **VOD IDs:** Live streams air on [Twitch (`caseblackwell`)](https://www.twitch.tv/caseblackwell), where Twitch assigns a numeric video ID (e.g. `2863722826`). These numeric IDs are the identifiers used with `./binlore` CLI commands (e.g. `./binlore ingest 2863722826` or `./binlore extract 2863722826`).
 > - **Twitch vs. YouTube:** Twitch automatically expires and purges past broadcasts after ~60 days. The complete historical backlog of 370+ streams since November 2023 is permanently preserved on the [Case Blackwell YouTube Archive](https://www.youtube.com/@CaseBlackwellStreams). Older streams without active Twitch VODs can be referenced or ingested using their YouTube video ID (e.g. `ZSjvjEED3KA`).
 

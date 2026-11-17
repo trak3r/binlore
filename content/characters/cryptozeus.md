@@ -39,9 +39,9 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 
 | Episode | Notes |
 |---|---|
-| [[episodes/2026-11-17|2026-11-17]] | Did not appear in studio; his mother carried the Therapy desk from behind her bedroom door. |
-| [[episodes/2026-11-14|2026-11-14]] | Hosted the remote dispatch out of hibernation, playing The Lion King on keyboard while managing his mother through the door. |
-| [[episodes/2026-11-04|2026-11-04]] | gaming correspondent. |
+| [[episodes/2026-11-16|2026-11-16]] | Did not appear in studio; his mother carried the Therapy desk from behind her bedroom door. |
+| [[episodes/2026-11-13|2026-11-13]] | Hosted the remote dispatch out of hibernation, playing The Lion King on keyboard while managing his mother through the door. |
+| [[episodes/2026-11-03|2026-11-03]] | gaming correspondent. |
 | [[episodes/2026-10-29|2026-10-29]] | off-screen antagonist. |
 | [[episodes/2026-10-26|2026-10-26]] | gaming correspondent. |
 | [[episodes/2026-10-23|2026-10-23]] | gaming correspondent. |
@@ -101,7 +101,7 @@ His mother exclusively addresses him as **"Bran Bran."** In a unique network dyn
 ## Notable moments
 
 
-- **[2:00:02]** ([[episodes/2026-11-14|2026-11-14]]): Brandon seals one of the holes in his bedroom door and lowers the gain on his mother's feed, a setting he confirms is saved.
+- **[2:00:02]** ([[episodes/2026-11-13|2026-11-13]]): Brandon seals one of the holes in his bedroom door and lowers the gain on his mother's feed, a setting he confirms is saved.
 - **[1:38:32]** ([[episodes/2026-10-29|2026-10-29]]): Brandon's mother claims she 'killed that intern for you, Brandy baby.'
 - **[2:00:22]** ([[episodes/2026-08-26|2026-08-26]]): Completes *The Journey Home* demo to the final credits, navigating old-man birth sequences, Flappy Bird platforming, and sparkling afterlife states.
 - **[2:38:39]** ([[episodes/2026-08-08|2026-08-08]]): Brandon references his mother's Gooters wet chicken wings, noting she stored sodas inside 'big rubber socks' delivered by Pastor Joe.

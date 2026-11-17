@@ -36,9 +36,9 @@ The first on-air read-through was the most thorough:
 
 ## Notable Quotes
 
-- "I believe Teflon Ted made a BIN wiki, which is crazy work, and I do feel like we need to check on it because it exists now." — [[characters/case-blackwell|Case]], [[episodes/2026-10-10|2026-10-10]]
-- "I can't refute any of this because this is more accurate than my own memory." — [[characters/liliana|Liliana]], [[episodes/2026-10-10|2026-10-10]]
-- "I also do approve of this having fully made up things in it, for the record, so have at it." — [[characters/case-blackwell|Case]], [[episodes/2026-10-10|2026-10-10]]
-- "This wiki's actually surprisingly accurate." — [[characters/case-blackwell|Case]], [[episodes/2026-11-06|2026-11-06]]
+- "I believe Teflon Ted made a BIN wiki, which is crazy work, and I do feel like we need to check on it because it exists now." — [[characters/case-blackwell|Case]], [[episodes/2026-10-09|2026-10-09]]
+- "I can't refute any of this because this is more accurate than my own memory." — [[characters/liliana|Liliana]], [[episodes/2026-10-09|2026-10-09]]
+- "I also do approve of this having fully made up things in it, for the record, so have at it." — [[characters/case-blackwell|Case]], [[episodes/2026-10-09|2026-10-09]]
+- "This wiki's actually surprisingly accurate." — [[characters/case-blackwell|Case]], [[episodes/2026-11-05|2026-11-05]]
 
 See also: [[fans/teflon-ted|Teflon Ted]] · [[index|BIN Lore home]]

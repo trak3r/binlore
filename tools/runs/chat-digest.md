@@ -2,7 +2,7 @@
 
 Wiki requests and questions from every archived Twitch chat (and the broadcast itself), plus on-air shout-outs of the wiki editor, newest episode first. Plain mentions are in each episode's report.
 
-## [2026-11-17](../../content/episodes/2026-11-17.md) ([full report](2931038704/chat-report.md))
+## [2026-11-16](../../content/episodes/2026-11-16.md) ([full report](2931038704/chat-report.md))
 
 ### [0:51:55](https://www.twitch.tv/videos/2931038704?t=0h51m35s) · request · propaganda_v2: add it to the lore @teflonted
 
@@ -44,7 +44,7 @@ Wiki requests and questions from every archived Twitch chat (and the broadcast i
 - `1:18:43` ReverieWolf: They inspired a short for 13 freak street
 - **`1:18:55` propaganda_v2: @teflonted add "crazy horny neighbor" to the BIN LORE**
 
-## [2026-11-14](../../content/episodes/2026-11-14.md) ([full report](2928151227/chat-report.md))
+## [2026-11-13](../../content/episodes/2026-11-13.md) ([full report](2928151227/chat-report.md))
 
 ### [1:43:01](https://www.twitch.tv/videos/2928151227?t=1h42m41s) · shout-out · on air · on air: The lore master himself.
 
@@ -81,7 +81,7 @@ Wiki requests and questions from every archived Twitch chat (and the broadcast i
 - `2:17:32` propaganda_v2: he name is Stephanie
 - `2:17:35` skymyr: what a weird ass youth
 
-## [2026-11-13-2927220320](../../content/episodes/2026-11-13-2927220320.md) ([full report](2927220320/chat-report.md))
+## [2026-11-12-2927220320](../../content/episodes/2026-11-12-2927220320.md) ([full report](2927220320/chat-report.md))
 
 ### [0:10:38](https://www.twitch.tv/videos/2927220320?t=0h10m18s) · request · TeflonTed: uh maybe this doesn’t make the wiki
 
@@ -114,7 +114,7 @@ Wiki requests and questions from every archived Twitch chat (and the broadcast i
 - `0:20:55` cardking_01: Like Kingpin if Daredevil was made by the guy who did the Captain America movie in the 90s
 - `0:21:05` TeflonTed: @propaganda_v2 noted
 
-## [2026-11-13](../../content/episodes/2026-11-13.md) ([full report](2927191605/chat-report.md))
+## [2026-11-12-2927191605](../../content/episodes/2026-11-12-2927191605.md) ([full report](2927191605/chat-report.md))
 
 ### [0:19:37](https://www.twitch.tv/videos/2927191605?t=0h19m17s) · request · propaganda_v2: Case is a Limp Bizkit fan? ADD IT TO THE WIKI
 
@@ -217,7 +217,7 @@ Wiki requests and questions from every archived Twitch chat (and the broadcast i
 - `0:59:27` skymyr: :( Ten nooo!
 - `0:59:45` CyCorr: lover their long hair
 
-## [2026-11-06](../../content/episodes/2026-11-06.md) ([full report](2920702503/chat-report.md))
+## [2026-11-05](../../content/episodes/2026-11-05.md) ([full report](2920702503/chat-report.md))
 
 ### [0:17:05](https://www.twitch.tv/videos/2920702503?t=0h16m45s) · request · mrsmith0693: !c BIN Lore bot, make a page for Mr
 
@@ -434,7 +434,7 @@ Wiki requests and questions from every archived Twitch chat (and the broadcast i
 - `2:12:36` LiveNSleazy: Gianni Dicbeg
 - `2:12:58` LiveNSleazy: Pizzazz
 
-## [2026-10-10](../../content/episodes/2026-10-10.md) ([full report](2896509659/chat-report.md))
+## [2026-10-09](../../content/episodes/2026-10-09.md) ([full report](2896509659/chat-report.md))
 
 ### [0:16:48](https://www.twitch.tv/videos/2896509659?t=0h16m28s) · question · on air · LiveNSleazy: Https://binlore.wiki
 

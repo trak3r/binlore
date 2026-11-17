@@ -21,7 +21,7 @@ A 1,000-bit cheer triggers a bigger version: "Card King underscore zero one just
 
 ## Requests
 
-Card King's suggestions turn into segments fairly often. On [[episodes/2024-03-14|2024-03-14]], Clementine investigated the House of Illuminati, the firm behind the Glasgow Willy Wonka experience, at Card King's request. Card King dropped the Wayback Machine link and Clementine thanked them for it: "You said it was silly. I'll say it was anything but silly. I'm deeply disturbed." A week later, 1,000 bits bought the Munch & Crum debate "When AI achieves consciousness, will they leave ghosts when they die?" ([[episodes/2024-03-21|2024-03-21]]). Card King requested DJ C4's Celtic dubstep track "Rockin' in the Green Screen" on [[episodes/2025-05-23|2025-05-23]], a Royal Rumble watch-along, and the "How to Crip Walk for Beginners" lesson on [[episodes/2026-11-05|2026-11-05]].
+Card King's suggestions turn into segments fairly often. On [[episodes/2024-03-14|2024-03-14]], Clementine investigated the House of Illuminati, the firm behind the Glasgow Willy Wonka experience, at Card King's request. Card King dropped the Wayback Machine link and Clementine thanked them for it: "You said it was silly. I'll say it was anything but silly. I'm deeply disturbed." A week later, 1,000 bits bought the Munch & Crum debate "When AI achieves consciousness, will they leave ghosts when they die?" ([[episodes/2024-03-21|2024-03-21]]). Card King requested DJ C4's Celtic dubstep track "Rockin' in the Green Screen" on [[episodes/2025-05-23|2025-05-23]], a Royal Rumble watch-along, and the "How to Crip Walk for Beginners" lesson on [[episodes/2026-11-04|2026-11-04]].
 
 ## On-Air Mentions
 

@@ -45,7 +45,7 @@ Nevertheless, Ripple harbors a deep, boiling hatred for Hooper. The *Barely Info
 
 | Episode | Notes |
 |---|---|
-| [[episodes/2026-11-17|2026-11-17]] | Held the Monday chat-news chair and got pulled off the desk into Twitch partner requirements. |
+| [[episodes/2026-11-16|2026-11-16]] | Held the Monday chat-news chair and got pulled off the desk into Twitch partner requirements. |
 | [[episodes/2026-11-10-2925329547|2026-11-10]] | Returns to the desk via a pitched-up doppelganger bit, loses his glasses, hands off to Senator [[characters/clive-clifton|Clive]], and reveals his full name is Jeff Ebenezer Ripple during Hegseth impeachment coverage. |
 | [[episodes/2026-09-01|2026-09-01]] | Anchors the "Weekend Odds and Ends" feature bulletin, reporting on floating islands, Virginia bat incidents, and water-balloon records. |
 | [[episodes/2026-08-19|2026-08-19]] | Studio newsreader delivering offbeat headlines and human-interest stories with Blackwell. |

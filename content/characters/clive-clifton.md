@@ -29,13 +29,13 @@ His look is a pair of thick dark-rimmed glasses over an enormous, stretched-out 
 
 Clive has run on a different single-issue promise at every appearance:
 
-- **America needs more injuries** ([[episodes/2026-11-05|2026-11-05]]): his Encircled claim. He also refused a coyote's demand for a replacement rocket and complimentary roller skates: "Everybody's looking for a handout... This country's actually about business."
-- **Make marriage illegal** ([[episodes/2026-11-05|2026-11-05]]): delivered as a rap verse during [[characters/dj-newsic|DJ Newsic]]'s close. It covers bachelors only, no dating in high school or college, and no relationships "of any fucking type." He calls it "my only and single campaign promise."
-- **One big lawn** ([[episodes/2026-11-06|2026-11-06]]): abolish everybody's lawns and combine them into "the world's biggest field" for "endless football forever," framed as a World War II-style war effort. He signed off with "I'll see you in 2028."
+- **America needs more injuries** ([[episodes/2026-11-04|2026-11-04]]): his Encircled claim. He also refused a coyote's demand for a replacement rocket and complimentary roller skates: "Everybody's looking for a handout... This country's actually about business."
+- **Make marriage illegal** ([[episodes/2026-11-04|2026-11-04]]): delivered as a rap verse during [[characters/dj-newsic|DJ Newsic]]'s close. It covers bachelors only, no dating in high school or college, and no relationships "of any fucking type." He calls it "my only and single campaign promise."
+- **One big lawn** ([[episodes/2026-11-05|2026-11-05]]): abolish everybody's lawns and combine them into "the world's biggest field" for "endless football forever," framed as a World War II-style war effort. He signed off with "I'll see you in 2028."
 
 ## Relationships
 
-- **[[characters/case-blackwell|Case]]**: Fond of him. Case calls Clive "an old friend" and said he didn't want to run against him when chat nominated Clive as Case's mayoral opponent ([[episodes/2026-11-07|2026-11-07]]).
+- **[[characters/case-blackwell|Case]]**: Fond of him. Case calls Clive "an old friend" and said he didn't want to run against him when chat nominated Clive as Case's mayoral opponent ([[episodes/2026-11-06|2026-11-06]]).
 - **[[characters/jeff-ripple|Jeff]]**: Clive surfaced at the news desk right after Jeff's pitched-up doppelganger bit in [[episodes/2026-11-10-2925329547|2026-11-10]]. The desk had no time for him ("I don't have time for Senator Clive Clifton"), and chat immediately asked, "Why does Jeff hate Clive?"
 
 ## Appearances
@@ -43,22 +43,22 @@ Clive has run on a different single-issue promise at every appearance:
 | Episode | Notes |
 |---|---|
 | [[episodes/2026-11-10-2925329547|2026-11-10]] | Takes over the news desk from Jeff while hunting for his glasses. Has been impeached "from every job," but "never on a holiday, because nobody's around to do it." |
-| [[episodes/2026-11-07|2026-11-07]] | Mentioned only. Case calls him his favorite politician, and chat nominates him to run against Case for mayor. |
-| [[episodes/2026-11-06|2026-11-06]] | Expert call-in for Case's streamiversary. Promises to merge every lawn into one infinite football field. |
-| [[episodes/2026-11-05|2026-11-05]] | Debut. Defends "America needs more injuries" in Encircled: Injured Senator vs. 30 Coyotes, then raps an anti-marriage platform in DJ Newsic's close. |
+| [[episodes/2026-11-06|2026-11-06]] | Mentioned only. Case calls him his favorite politician, and chat nominates him to run against Case for mayor. |
+| [[episodes/2026-11-05|2026-11-05]] | Expert call-in for Case's streamiversary. Promises to merge every lawn into one infinite football field. |
+| [[episodes/2026-11-04|2026-11-04]] | Debut. Defends "America needs more injuries" in Encircled: Injured Senator vs. 30 Coyotes, then raps an anti-marriage platform in DJ Newsic's close. |
 
 ## Notable Quotes
 
-- "My claim is America needs more injuries." ([[episodes/2026-11-05|2026-11-05]])
-- "I actually don't believe in marriage at all... because I'm Clive Clifton and I'm against this." ([[episodes/2026-11-05|2026-11-05]])
-- "Endless football forever on the world's biggest field. I'll see you in 2028." ([[episodes/2026-11-06|2026-11-06]])
+- "My claim is America needs more injuries." ([[episodes/2026-11-04|2026-11-04]])
+- "I actually don't believe in marriage at all... because I'm Clive Clifton and I'm against this." ([[episodes/2026-11-04|2026-11-04]])
+- "Endless football forever on the world's biggest field. I'll see you in 2028." ([[episodes/2026-11-05|2026-11-05]])
 - "I've been impeached but never on a holiday." ([[episodes/2026-11-10-2925329547|2026-11-10]])
 
 ## Notable Moments
 
-- **[1:49:18]** ([[episodes/2026-11-05|2026-11-05]]): Introduces himself in Encircled as a "former American senator, wants to be soon to be senator again" and offers to run in any state.
-- **[2:13:17]** ([[episodes/2026-11-05|2026-11-05]]): Crashes DJ Newsic's polyamory-registry close with "Clive Clifton coming through" and a rap verse against marriage.
-- **[30:17]** ([[episodes/2026-11-06|2026-11-06]]): Unveils the one-big-lawn football platform. Case: "Clive makes you feel safe."
+- **[1:49:18]** ([[episodes/2026-11-04|2026-11-04]]): Introduces himself in Encircled as a "former American senator, wants to be soon to be senator again" and offers to run in any state.
+- **[2:13:17]** ([[episodes/2026-11-04|2026-11-04]]): Crashes DJ Newsic's polyamory-registry close with "Clive Clifton coming through" and a rap verse against marriage.
+- **[30:17]** ([[episodes/2026-11-05|2026-11-05]]): Unveils the one-big-lawn football platform. Case: "Clive makes you feel safe."
 - **[11:20]** ([[episodes/2026-11-10-2925329547|2026-11-10]]): Appears at the news desk in place of Jeff. Case declares him a recurring figure.
 
 ## Open Questions
