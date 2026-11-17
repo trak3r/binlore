@@ -34,6 +34,7 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-17|2026-11-17]] | Skipped subscriber acknowledgments entirely for a pre-recorded ground-army freestyle with Duffy. |
 | [[episodes/2026-11-14|2026-11-14]] | Commandeered the feed as the Hype Plane during the Duffy briefing and exhausted both fuel and rhymes. |
 | [[episodes/2026-11-13-2927220320|2026-11-13]] | Hype Train briefly commandeered the feed with a frustrated freestyle before abandoning the broadcast. |
 | [[episodes/2026-11-04|2026-11-04]] | musical interruption. |
@@ -53,13 +54,13 @@ Instead, Hype Train commandeers the broadcast feed with breathless, high-tempo f
 | [[episodes/2026-08-14|2026-08-14]] | Triggered briefly when Liliana reads the hype train alerts at the top of the broadcast. No on-air segment during this telecast. |
 | [[episodes/2026-08-13|2026-08-13]] | High-velocity musical and cultural correspondent. Delivers extended freestyle raps on 'turd,' 'money flossing,' 'Cheeto golf tee,' and hot money piss. Chat votes 99.9% it is indeed piss. Panther companion present but not heard. |
 | [[episodes/2026-08-08|2026-08-08]] | High-velocity cultural correspondent. Hijacks the broadcast after the word 'science' is uttered, rapping about living urine organisms being oppressed by flushing, then pivoting to raps about love existing in stars, bars, and explosions. |
-| [[episodes/2026-08-06|2026-08-06]] | High-velocity cultural correspondent. Commandeers the broadcast early but battles a malfunctioning synthwave widget ('visualization is not supported on my system') and a missing partner (his panther girlfriend). |
 
 <details>
-<summary>Earlier appearances (120)</summary>
+<summary>Earlier appearances (121)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-08-06|2026-08-06]] | High-velocity cultural correspondent. Commandeers the broadcast early but battles a malfunctioning synthwave widget ('visualization is not supported on my system') and a missing partner (his panther girlfriend). |
 | [[episodes/2026-08-04|2026-08-04]] | Sentient locomotive correspondent. Interrupts the pre-show to acknowledge subscribers, delivers a freestyle rap about losing his caboose, and returns later in the broadcast for additional beats. |
 | [[episodes/2026-07-24|2026-07-24]] | Notably absent and described as 'still taking a nap' throughout the broadcast. A caller impersonates 'normal hype train' during the Streets segment; broadcast raid is sent to Hype Train at sign-off. |
 | [[episodes/2026-07-23|2026-07-23]] | High-Velocity Cultural Correspondent. Briefly attempts to hijack the intro but is forcefully rejected by Case in favor of addressing his injury, leading to Hype Train lamenting he was let to die. |

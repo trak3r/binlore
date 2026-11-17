@@ -47,6 +47,7 @@ Beyond station management, Pepito is known for asserting his demands across the 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-17|2026-11-17]] | Delivered the sign-on countdown, confirmed Chet's return from the void, and failed to cut the feed at sign-off. |
 | [[episodes/2026-11-15|2026-11-15]] | Executive producer who signed on the broadcast, won the Rennerton mayoral election, and piloted Crum's corpse to build a strip club. |
 | [[episodes/2026-11-10|2026-11-10]] | executive producer. |
 | [[episodes/2026-11-10-2925329547|2026-11-10]] | executive producer. |
@@ -66,13 +67,13 @@ Beyond station management, Pepito is known for asserting his demands across the 
 | [[episodes/2026-07-24|2026-07-24]] | Executive Producer. Opens the broadcast with his signature canine greeting and closes the show with an improvised spiritual sermon on AX body spray commercials, pocket jerky, Peter Gibbon spilling battery acid, and playing the 'Pure Mood' CD. |
 | [[episodes/2026-07-23|2026-07-23]] | Executive Producer. Opens the show with his standard canine greeting and later demands his ankle be sacrificed to him. |
 | [[episodes/2026-07-20|2026-07-20]] | Executive producer. Opens the broadcast, generates random names, and is heard with a distorted/deep voice eating the floor at the end of the stream. |
-| [[episodes/2026-07-17|2026-07-17]] | Executive Producer, opened the broadcast via producer cam. |
 
 <details>
-<summary>Earlier appearances (122)</summary>
+<summary>Earlier appearances (123)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-07-17|2026-07-17]] | Executive Producer, opened the broadcast via producer cam. |
 | [[episodes/2026-07-16|2026-07-16]] | Executive producer delivers cold open intro before cutting to live broadcast. |
 | [[episodes/2026-07-13|2026-07-13]] | Executive Producer providing cold open countdown and failing to locate Mitch McConnell in the 'weird sandpit'. |
 | [[episodes/2026-07-11|2026-07-11]] | Executive Producer; opens the broadcast and attempts to intervene during the sub goal shout-out. |

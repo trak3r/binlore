@@ -37,6 +37,7 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-17|2026-11-17]] | Surfaced during Amongst the Web, where Case was too distracted to be disgusted by him. |
 | [[episodes/2026-11-07|2026-11-07]] | news stowaway. |
 | [[episodes/2026-11-07-2922559914|2026-11-07]] | news stowaway. |
 | [[episodes/2026-10-23|2026-10-23]] | news stowaway. |
@@ -56,13 +57,13 @@ Following his dismissal, Gibbon refused to vacate the network facilities. Evadin
 | [[episodes/2026-03-17|2026-03-17]] | news stowaway. |
 | [[episodes/2026-03-10|2026-03-10]] | news stowaway. |
 | [[episodes/2026-03-07|2026-03-07]] | Referenced by Case during wrap-up as 'Jeff' in the newsroom. |
-| [[episodes/2026-03-06|2026-03-06]] | news stowaway. |
 
 <details>
-<summary>Earlier appearances (92)</summary>
+<summary>Earlier appearances (93)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-03-06|2026-03-06]] | news stowaway. |
 | [[episodes/2026-02-19|2026-02-19]] | news stowaway. |
 | [[episodes/2026-02-17|2026-02-17]] | news stowaway. |
 | [[episodes/2026-01-21|2026-01-21]] | news stowaway. |

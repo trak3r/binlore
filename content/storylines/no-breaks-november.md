@@ -45,6 +45,7 @@ The commitment quickly became a running bit. Case slams a "No Breaks November" g
 | [[../episodes/2026-11-13-2927220320|2026-11-13]] [16:11] | [16:11] Case Blackwell admits the No Breaks November streak was broken and schedules make-up streams through Sunday. |
 | [[../episodes/2026-11-14|2026-11-14]] [1:02:19] | [01:02:19] Case rules the breaks taken during the ground-stop coverage do not count, keeping the month unbroken. |
 | [[../episodes/2026-11-15-2930043990|2026-11-15]] [9:01] | [09:01] Case confirms the Sunday broadcast remains part of No Breaks November despite a scheduled collaborator's absence. |
+| [[../episodes/2026-11-17|2026-11-17]] [41:55] | [41:55] Case floats a Friday telethon for the Kickstarter launch, citing the month-long no-breaks commitment. |
 
 ## Related Pages
 

@@ -1,0 +1,257 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "08:51",
+      "canonical_segment": "News",
+      "title": "Cold Open: Pepito Sign-On and Freak Week Countdown",
+      "notes": "Executive Producer Pepito opens the broadcast with the top-of-hour countdown; Anchor Case Blackwell takes the desk and declares the week Freak Week."
+    },
+    {
+      "start": "08:51",
+      "end": "11:06",
+      "canonical_segment": "Banter",
+      "title": "Freak Week Kickoff and Follower Math",
+      "notes": "Pre-show housekeeping: the November 20th Kickstarter launch, a Friday Freak Stream, and Case's escalating follower-milestone arithmetic."
+    },
+    {
+      "start": "11:26",
+      "end": "14:04",
+      "canonical_segment": "News",
+      "title": "Transportation Desk: The Duffy Press Conference",
+      "notes": "Remote transportation official Duffy is patched in to tout the 'ground military,' demand 100 monies, and refuse to explain the transportation disaster; he closes the press conference early."
+    },
+    {
+      "start": "14:04",
+      "end": "19:28",
+      "canonical_segment": "Hype Train",
+      "title": "Hype Train x Duffy: Ground Army Freestyle",
+      "notes": "Hype Train seizes the feed for a pre-recorded military-trap collaboration with Duffy, then evacuates the premises mid-press conference."
+    },
+    {
+      "start": "19:49",
+      "end": "28:49",
+      "canonical_segment": "News",
+      "title": "News Desk: Jeff Ripple's Monday Chat News",
+      "notes": "Jeff Ripple takes the Monday chair; the desk is derailed into Slay the Spire, Twitch partner requirements, a zero-viewer average, and control-room automation complaints."
+    },
+    {
+      "start": "28:49",
+      "end": "33:11",
+      "canonical_segment": "News",
+      "title": "Odd News Minute, Audio Mix Repair, and the Chet Void Check",
+      "notes": "The UPI Odd News Minute airs with the Hoop God's channel unsubscribed; Case rebalances a blown-out mic mix, pencils in a Thanksgiving parade watch-along, and confirms Chet is back from the void."
+    },
+    {
+      "start": "33:11",
+      "end": "43:01",
+      "canonical_segment": "News",
+      "title": "FAA Ground Stop and the AI Scapegoat",
+      "notes": "Coverage of the national flight grounding, new refund rules, and reports that a new AI air traffic system was the primary cause; chat news and a Friday telethon pitch for the Kickstarter fill the back half."
+    },
+    {
+      "start": "43:01",
+      "end": "52:29",
+      "canonical_segment": "News",
+      "title": "Newsweek's 2028 Pick: JD Vance and the John Bolton Interview",
+      "notes": "Case disputes Newsweek's claim that JD Vance is MAGA's 2028 choice, plays a John Bolton NATO interview, and predicts a catastrophic Vance ticket."
+    },
+    {
+      "start": "52:29",
+      "end": "56:50",
+      "canonical_segment": "News",
+      "title": "Joe Rogan's Podcast Bros and Austin Creed's Texas Death Match",
+      "notes": "A Joe Rogan clip on border enforcement and taco-stand deportations airs, followed by Austin Creed's power glove walk in AAW."
+    },
+    {
+      "start": "56:50",
+      "end": "01:09:09",
+      "canonical_segment": "News",
+      "title": "Nvidia Without Jensen: GPU Smuggling and Circular Financing",
+      "notes": "Extended analysis of Jensen Huang's resignation, GPU smuggling to China, Nvidia's circular financing of AI companies, and why Case is not upgrading his 4090."
+    },
+    {
+      "start": "01:09:09",
+      "end": "01:19:28",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate Demanded: Capital D Debate",
+      "notes": "Munch bursts out from under the desk and debates Case over whether 'debate' deserves a capital D; scoring stalls until chat supplies the manual prediction workaround."
+    },
+    {
+      "start": "01:20:13",
+      "end": "01:35:03",
+      "canonical_segment": "Therapy",
+      "title": "Therapy: Dr. Chath Treats Brandon's Mother",
+      "notes": "A control-room mix-up leaves Brandon's mother unmuted and far too loud while Dr. Chath sleeps through, then mouths along with, the session; both keep reading the Kickstarter URL into the record."
+    },
+    {
+      "start": "01:35:38",
+      "end": "01:48:13",
+      "canonical_segment": "Amongst the Web",
+      "title": "Amongst the Web: Alexa, C-World, and Proper Hair Pulling",
+      "notes": "Chat-submitted clips including a malfunctioning Alexa, AI-slicked gym fails, the C-World jump-rope toy soldiers, and a hair-pulling instructional; Peter Gibbon interrupts from the wall."
+    },
+    {
+      "start": "01:48:13",
+      "end": "02:09:31",
+      "canonical_segment": "Trip on the Street",
+      "title": "Trip on the Street: Double Order",
+      "notes": "Trip Bradstein works a double streets request, interviewing a cotton candy man, several rappers, Big Bird on flock cameras, Mountain Man Mike, a Gooders chicken petitioner, Duffy, a turkey, and a process server."
+    },
+    {
+      "start": "02:09:31",
+      "end": "02:15:09",
+      "canonical_segment": "News",
+      "title": "Sign-Off and Freak Street Raid Wrap-Up",
+      "notes": "Case signs off into a Freak Street raid while an uninvited guest works the studio and Pepito cannot cut the feed."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "notes": "Anchored the Monday broadcast through a Kickstarter push, a wall-to-wall news block, and a debate he could not score.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "notes": "Delivered the sign-on countdown, confirmed Chet's return from the void, and failed to cut the feed at sign-off.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Hype Train",
+      "notes": "Skipped subscriber acknowledgments entirely for a pre-recorded ground-army freestyle with Duffy.",
+      "canonical_name": "Hype Train",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeff Ripple",
+      "notes": "Held the Monday chat-news chair and got pulled off the desk into Twitch partner requirements.",
+      "canonical_name": "Jeff Ripple",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "notes": "Emerged from under the desk to argue for capital-D Debate and then lost the points call.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "notes": "Never appeared, yet absorbed the blame for the broken point-award system and the entire chat news block.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "notes": "Confirmed back from the void while still radiating core energy that had to be dialed down on air.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Peter Gibbon",
+      "notes": "Surfaced during Amongst the Web, where Case was too distracted to be disgusted by him.",
+      "canonical_name": "Peter Gibbon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trip Bradstein",
+      "notes": "Ran a double streets request from the bushes, signing one petition and getting served a coupon.",
+      "canonical_name": "Trip Bradstein",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Chath",
+      "notes": "Conducted the network's first remote therapy session while mouthed along with his own patient and plugging the Kickstarter.",
+      "canonical_name": "Dr. Chath",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon (CryptoZeu$)",
+      "notes": "Did not appear in studio; his mother carried the Therapy desk from behind her bedroom door.",
+      "canonical_name": "Brandon (CryptoZeu$)",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "13 Freak Street Kickstarter",
+      "beat": "[09:13] Kickstarter confirmed officially live November 20th, with a Friday Freak Stream staged as its launch promotion.",
+      "timestamp": "09:13"
+    },
+    {
+      "storyline": "No Breaks November",
+      "beat": "[41:55] Case floats a Friday telethon for the Kickstarter launch, citing the month-long no-breaks commitment.",
+      "timestamp": "41:55"
+    },
+    {
+      "storyline": "Grunchmas",
+      "beat": "[31:46] A Thanksgiving Day Parade watch-along is penciled in for Thursday, and Case cannot confirm whether a Grunchmas was missed while he was out of town.",
+      "timestamp": "31:46"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "09:13",
+      "entity": "",
+      "fact": "The 13 Freak Street horror-comedy anthology Kickstarter goes officially live November 20th, promoted by a Friday Freak Stream.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "10:01",
+      "entity": "",
+      "fact": "Case sets 300 Kickstarter followers by Friday as the on-air goal, with 500 as the stretch target.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "33:11",
+      "entity": "Chet",
+      "fact": "Chet is confirmed back from the void, but now radiates void energy intense enough to burn the desk until Case dials it down.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:20:13",
+      "entity": "Brandon",
+      "fact": "Brandon's mother takes the Therapy desk remotely from behind her bedroom door, which she says she needs to avoid direct sunlight.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:36:42",
+      "entity": "AI Rooney",
+      "fact": "AI Rooney remains MIA, still unable to stop saying certain words, with the overhaul needed to bring him back perpetually deferred.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News opened Freak Week with an Executive Producer sign-on and a Kickstarter countdown, then handed the air to a transportation press conference and a Hype Train collaboration before Anchor Case Blackwell cleared a backlog of chat news, a national flight grounding, and Nvidia's post-Jensen outlook. A demanded debate over the capitalization of the word 'debate' ended with the desk still awarding points by hand, and the Therapy desk hosted Brandon's mother from behind her bedroom door. The broadcast closed on a double Trip on the Street dispatch and a raid.",
+  "_meta": {
+    "vod_id": "2931038704",
+    "model": "baidu/ernie-5.5-flash-preview:free",
+    "provider": "openrouter",
+    "prompt_chars": 109234,
+    "approx_prompt_tokens": 27308,
+    "transcript_lines": 248
+  }
+}

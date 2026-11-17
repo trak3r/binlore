@@ -49,6 +49,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-17|2026-11-17]] | Never appeared, yet absorbed the blame for the broken point-award system and the entire chat news block. |
 | [[episodes/2026-11-15|2026-11-15]] | Ousted Rennerton mayor turned press secretary who led the jet-ski construction and died repeatedly in the wilderness. |
 | [[episodes/2026-11-14|2026-11-14]] | Took the pro-FAA side of the debate and took the blame for the broken outro music. |
 | [[episodes/2026-11-13-2927220320|2026-11-13]] | Debate analyst Crum appeared as the only available co-host, chewed gum, discussed his wife and gambling, and claimed he entered Case's home… |
@@ -68,13 +69,13 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-09-25|2026-09-25]] | debate analyst. |
 | [[episodes/2026-09-07|2026-09-07]] | Steps up to face the long-delayed Rock-afire Gorilla execution during the Season 3 finale. Reveals his physical conditioning included swinging 45-pound logs into his groin. Goes "demon mode" in his hell form when the punch lands; the fireball destroys the gorilla and burns Munch into a talking skeleton while Crum survives unscathed, claiming ultimate victory. |
 | [[episodes/2026-09-04|2026-09-04]] | Takes the debate desk following the botched occult ritual, temporarily disoriented into believing he has swapped identities with Munch. Employs archaic slang ('japs' for mischief) and prepares for his scheduled Monday robotic gorilla encounter. |
-| [[episodes/2026-08-26|2026-08-26]] | Serves as a self-described Democratic Party representative but balks at endorsing Mamdani; ultimately pressured into endorsing Munchcut for mayor. Attempts to defer the robotic gorilla execution with iron armor. |
 
 <details>
-<summary>Earlier appearances (212)</summary>
+<summary>Earlier appearances (213)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-08-26|2026-08-26]] | Serves as a self-described Democratic Party representative but balks at endorsing Mamdani; ultimately pressured into endorsing Munchcut for mayor. Attempts to defer the robotic gorilla execution with iron armor. |
 | [[episodes/2026-08-19|2026-08-19]] | Senior debate analyst who wanders into the news desk to compare himself to a bald mystic and claim proprietary ownership over an AI urine company concept. |
 | [[episodes/2026-08-08|2026-08-08]] | Senior debate analyst. Reveals his 26-year-old daughter Bethesda legally emancipated herself due to a disastrous pony delivery. Picks both Tobey Maguire and Tom Holland. Schedules the Crum Dick Punch for August 31st. Later pitches his out-of-print memoir 'Crum Fused' and offers to be an expert in holding it for people while they urinate. |
 | [[episodes/2026-08-04|2026-08-04]] | Senior debate analyst. Opposes Munch's anti-medicine stance, insists Blackwell see a doctor, and ultimately slams the segment-end button early to cut off Munch's ranting. |
