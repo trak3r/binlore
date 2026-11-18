@@ -35,13 +35,14 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 
 | Episode | Notes |
 |---|---|
-| [[episodes/2026-11-14|2026-11-14]] | In-studio contributor and gaming partner who made a brief cameo in the Rennerton woods. |
+| [[episodes/2026-11-17|2026-11-17]] | In-studio contributor who joins Case for color tests and corrects his description of the couch. |
 | [[episodes/2026-11-15-2930043990|2026-11-15]] | In-studio contributor Kendelle appears during the Sunday stream and reacts to Case's card-game marathon. |
+| [[episodes/2026-11-14|2026-11-14]] | In-studio contributor and gaming partner who made a brief cameo in the Rennerton woods. |
 | [[episodes/2026-11-13|2026-11-13]] | Walked through the studio to settle a bob-cut vote and subbed into Friend Slap as the patron make-good. |
 | [[episodes/2026-11-12-2927191605|2026-11-12]] | Walked through the studio to model an outfit before leaving for a Blade Runner series premiere. |
 | [[episodes/2026-11-09|2026-11-09]] | in-studio contributor. |
-| [[episodes/2026-11-06|2026-11-06]] | in-studio contributor. |
 | [[episodes/2026-11-07-2922559914|2026-11-07]] | in-studio contributor. |
+| [[episodes/2026-11-06|2026-11-06]] | in-studio contributor. |
 | [[episodes/2026-11-05|2026-11-05]] | in-studio contributor. |
 | [[episodes/2026-11-04|2026-11-04]] | in-studio contributor. |
 | [[episodes/2026-10-23|2026-10-23]] | in-studio contributor. |
@@ -54,13 +55,13 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-07-17|2026-07-17]] | Brief on-camera walk-through mid-therapy session, stopping by to announce plans to get sticky rice in an hour. |
 | [[episodes/2026-06-27|2026-06-27]] | Mentioned by Blackwell when discussing having to leave the broadcast early for a date night. |
 | [[episodes/2026-06-22|2026-06-22]] | On-air contributor who appears as a ghost during the therapy segment, walking through the studio to her own signature theme music. |
-| [[episodes/2026-06-19|2026-06-19]] | Lead anchor and in-studio contributor who periodically enters the broadcast for signature segments. |
 
 <details>
-<summary>Earlier appearances (193)</summary>
+<summary>Earlier appearances (194)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-06-19|2026-06-19]] | Lead anchor and in-studio contributor who periodically enters the broadcast for signature segments. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in birthday context, not actively speaking. |
 | [[episodes/2026-06-05|2026-06-05]] | Lead anchor and on-air contributor who walks through the studio for signature segments. |
 | [[episodes/2026-05-22|2026-05-22]] | in-studio contributor. |

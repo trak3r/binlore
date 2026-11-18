@@ -247,6 +247,7 @@ Substitutes and alters occasionally take a mic — notably [[../characters/scrum
 | [[episodes/2026-11-10-2925329547|2026-11-10]] | 1:14:41 | Cybertruck: Reward or Punishment: Crum calls a free Cybertruck punishment for bad drivers, a scarlet "CT"; Skeleton Munch argues it is a reward for its resale value and free heating if it bursts into flames, while Crum answers texts about his wife's massage therapist mid-debate. A control-room misclick hands Crum the point, which he uses to reopen his gorilla-punch points dispute. |
 | [[episodes/2026-11-13|2026-11-13]] | 1:25:45 | Munchin' Chrome: Is Air Traffic Control Overrated?: Munch argues planes are abominations and the money belongs in fast cars; Crum concedes complexity but backs the FAA overhaul. The channel-point prediction fails to resolve, Munch refuses to touch the touchscreen with skeleton fingers, and the pot is finally awarded to Munch. |
 | [[episodes/2026-11-16|2026-11-16]] | 1:09:09 | Debate Demanded: Capital D Debate: Munch bursts out from under the desk and debates Case over whether 'debate' deserves a capital D; scoring stalls until chat supplies the manual prediction workaround. |
+| [[episodes/2026-11-17|2026-11-17]] | 1:31:12 | Pumpkin Pie vs Apple Pie: Munch and Crum debate pumpkin pie versus apple pie, exchange threats, and perform rhymes over a beat before the segment wraps. |
 
 ## Related Coverage
 

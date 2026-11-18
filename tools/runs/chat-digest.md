@@ -2,6 +2,23 @@
 
 Wiki requests and questions from every archived Twitch chat (and the broadcast itself), plus on-air shout-outs of the wiki editor, newest episode first. Plain mentions are in each episode's report.
 
+## [2026-11-17](../../content/episodes/2026-11-17.md) ([full report](2931944718/chat-report.md))
+
+### [0:58:05](https://www.twitch.tv/videos/2931944718?t=0h57m45s) · question · on air · on air: I knew it was something like that. See? I gotta bin wiki up here too.
+
+> **On air (0:57:39):** That's what you have to think about it? What is? I don't... was it my couch? Who's couch? He didn't. He doesn't do that any ever. He never did that. Wow, Oveli's also on. That's fun. He fucked it, Teal. He shifted its color spectrum. He loved it so good. The version of Grandman was when Sabrici suggested Gram-Gram, but it came up Grandman when she typed it. I knew it was something like that. See? I gotta bin wiki up here too. You were not even that close. Did you see the trash geyser in LA? Perfect example of this year.
+
+- `0:57:13` propaganda_v2: !c Case doesn't know anything about spaghetti code...he never orders it at Jollibee
+- `0:57:15` bonzaibullfrog: w DDos'ed ourselved by hiring dumb people  and trying to use those dumb people to fix things
+- `0:57:41` exterminator13: Ovilee is also currently on
+- `0:57:47` skymyr: He fucked it Teal
+- `0:57:52` giggletrash: Man's got more than one couch. Rich
+- `0:57:53` JonMichael: that comment was from yesterday when Gina was streaming yesterday LUL
+- `0:58:07` TheSinisterDev: Wait Gina said she wasn't steaming cuz she was up for 36 hours playing WoW....
+- `0:58:20` ReverieWolf: That was the second coming of Granman though
+- `0:58:21` TheSinisterDev: Is that crazy lady going live anyway?!
+- `0:58:25` bonzaibullfrog: it is in the news feed
+
 ## [2026-11-16](../../content/episodes/2026-11-16.md) ([full report](2931038704/chat-report.md))
 
 ### [0:51:55](https://www.twitch.tv/videos/2931038704?t=0h51m35s) · request · propaganda_v2: add it to the lore @teflonted

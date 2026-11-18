@@ -1,0 +1,193 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "08:42",
+      "canonical_segment": "News",
+      "title": "Cold Open and Sign-On",
+      "notes": "Pepito delivers the top-of-hour countdown and sign-on; Case arrives late, greets viewers, and promotes the No Breaks November telethon."
+    },
+    {
+      "start": "08:42",
+      "end": "49:00",
+      "canonical_segment": "Banter",
+      "title": "Color Vision Tests with Kendelle",
+      "notes": "Case and Kendelle take color-vision, hue-arrangement, and personality tests while chat offers guesses; Case records normal color vision and a high hue score."
+    },
+    {
+      "start": "49:00",
+      "end": "57:31",
+      "canonical_segment": "News",
+      "title": "NSA Outage Report",
+      "notes": "Rick joins Case to downplay the classified network outage, citing Marco Rubio and insisting the failures are blameless."
+    },
+    {
+      "start": "57:31",
+      "end": "01:04:32",
+      "canonical_segment": "News",
+      "title": "Chat News and the Trash Geyser",
+      "notes": "Case turns to chat news and covers the Chiquita Canyon landfill geyser, loose pigs, and a series of odd-news items."
+    },
+    {
+      "start": "01:04:32",
+      "end": "01:08:05",
+      "canonical_segment": "News",
+      "title": "Kickstarter Contract and Loose Pigs",
+      "notes": "Case jokes about employee Kickstarter obligations, a cheeseburger, and a huge pig wandering Pomona."
+    },
+    {
+      "start": "01:08:05",
+      "end": "01:12:52",
+      "canonical_segment": "News",
+      "title": "UPI Odd News Minute",
+      "notes": "The desk presents the UPI Odd News Minute, covering Detroit horses, a deer with a pumpkin, escaped cattle, and a candy-corn vote."
+    },
+    {
+      "start": "01:12:52",
+      "end": "01:20:16",
+      "canonical_segment": "News",
+      "title": "AI Agents in the Wild",
+      "notes": "Case discusses a man whose AI agent filed a federal lawsuit and recounts public sightings of AI psychosis."
+    },
+    {
+      "start": "01:20:16",
+      "end": "01:31:12",
+      "canonical_segment": "News",
+      "title": "Transportation and Road Rules",
+      "notes": "Case covers Mark Wayne Mullen's government plane trip and Sean Duffy's Road Rules past and Great American Road Trip."
+    },
+    {
+      "start": "01:31:12",
+      "end": "01:48:07",
+      "canonical_segment": "Munch & Crum",
+      "title": "Pumpkin Pie vs Apple Pie",
+      "notes": "Munch and Crum debate pumpkin pie versus apple pie, exchange threats, and perform rhymes over a beat before the segment wraps."
+    },
+    {
+      "start": "01:48:07",
+      "end": "02:02:24",
+      "canonical_segment": "At the Movies",
+      "title": "Trailer Thursday",
+      "notes": "Case screens trailers for Three Body Problem, a Garfield series, Killdozer, and GPT-6.2, then rates audience excitement."
+    },
+    {
+      "start": "02:02:24",
+      "end": "02:30:11",
+      "canonical_segment": "CryptoZeu$",
+      "title": "One More Lawn Demo",
+      "notes": "Brandon plays the One More Lawn demo while his mother interrupts through the door and the radio remains locked."
+    },
+    {
+      "start": "02:30:11",
+      "end": "02:34:01",
+      "canonical_segment": "News",
+      "title": "Sign-Off and Jensen Huang Statement",
+      "notes": "Case returns to the desk, reads Jensen Huang's statement, and closes the broadcast."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "notes": "Executive producer who opens the broadcast with the countdown and later confirms he can see colors.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "notes": "Lead anchor who guides the late broadcast through color tests, outage coverage, odd news, trailers, and the sign-off.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "notes": "In-studio contributor who joins Case for color tests and corrects his description of the couch.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Rick",
+      "notes": "Correspondent who reports the NSA outage with unusual calm and insists the failures are blameless.",
+      "canonical_name": "Rick",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "notes": "Skeleton debate analyst who defends pumpkin pie, threatens chat with lawsuits, and claims infinite stamina.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "notes": "Debate analyst who defends apple pie, delivers Thanksgiving rhymes, and unplugs Munch during the segment.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Brandon",
+      "notes": "Remote gaming correspondent who plays One More Lawn while fielding his mother's muffled door interventions.",
+      "canonical_name": "Brandon",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "No Breaks November",
+      "beat": "[09:05] Case anchors the Tuesday edition and promotes the upcoming telethon.",
+      "timestamp": "09:05"
+    },
+    {
+      "storyline": "Rennerton",
+      "beat": "[01:31:46] Munch says he has been assisting various mayors in the rebuilding effort.",
+      "timestamp": "01:31:46"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "18:14",
+      "entity": "",
+      "fact": "Case's on-air color-vision test result is normal.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:31:46",
+      "entity": "Munch",
+      "fact": "Munch says his skeleton body grants him infinite stamina.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:32:07",
+      "entity": "Munch",
+      "fact": "Munch says Pepito piloted his body with psychic force on Saturday.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:35:02",
+      "entity": "Crum",
+      "fact": "Crum says he was born with a binky-shaped object in his mouth.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "The Freak Week edition of Barely Informed News continued No Breaks November with a late sign-on, color-vision tests, and a report on a classified communications outage. The desk later covered a landfill trash geyser, escaped animals, AI-agent litigation, and a Thanksgiving pie debate. Case Blackwell closed the broadcast by reading Jensen Huang's statement.",
+  "_meta": {
+    "vod_id": "2931944718",
+    "model": "baidu/ernie-5.5-flash-preview:free",
+    "provider": "openrouter",
+    "prompt_chars": 130466,
+    "approx_prompt_tokens": 32616,
+    "transcript_lines": 384
+  }
+}

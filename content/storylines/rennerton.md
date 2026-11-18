@@ -65,6 +65,7 @@ Two *Return To Renerton* telecasts aired on **2024-10-13**, followed by a Hallow
 | [[../episodes/2026-11-14|2026-11-14]] [10:17] | [10:17] Crum, voted out as mayor, returned as self-appointed press secretary and Vice Mayor under Mayor Melody Von Torture and launched a jet-ski construction program. |
 | [[../episodes/2026-11-14|2026-11-14]] [1:18:01] | [01:18:01] Chat elected Pepito the dog as Mayor of Rennerton, unseating incumbent Melody Von Torture. |
 | [[../episodes/2026-11-14|2026-11-14]] [3:40:31] | [03:40:31] The rebuild crew felled a giant forest boss to close out the session. |
+| [[../episodes/2026-11-17|2026-11-17]] [1:31:46] | [01:31:46] Munch says he has been assisting various mayors in the rebuilding effort. |
 
 ## Related Pages
 

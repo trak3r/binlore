@@ -89,5 +89,6 @@ Brandon's gameplay is consistently disrupted by his mother shouting through the 
 | [[episodes/2026-11-02|2026-11-02]] | 2:07:30 | Metal Slug 2 on Keyboard: Brandon (CryptoZeu$) raids in, plays browser Metal Slug 2 with keyboard controls, accidentally kills Pete Hegseth sprite, loses war, promotes Queen Goldie sponsorship; Case notes Brandon 'looks weird lately'. |
 | [[episodes/2026-11-03|2026-11-03]] | 1:32:20 | Brandon's Election Night Speedrun: Brandon (CryptoZeu$) plays a platformer game with muffled maternal interventions, completes a blind speedrun on first attempt, and departs to eat glowing green fruit roll-ups found beneath floorboards. |
 | [[episodes/2026-11-13|2026-11-13]] | 1:52:23 | Brandon's Lion King Dispatch: Brandon reports in from two weeks of November hibernation, plays The Lion King on keyboard with cheat codes, and manages his mother's hallway interventions by lowering her gain and sealing a hole in the door before signing off with the headset still live. |
+| [[episodes/2026-11-17|2026-11-17]] | 2:02:24 | One More Lawn Demo: Brandon plays the One More Lawn demo while his mother interrupts through the door and the radio remains locked. |
 
 See also: [[../characters/cryptozeus|Brandon (CryptoZeu$)]], [[../characters/brandons-mother|Brandon's Mother]], [[index|Broadcast Segments]].
