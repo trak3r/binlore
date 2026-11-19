@@ -1,0 +1,139 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "08:08",
+      "canonical_segment": "News",
+      "title": "Pepito Cold Open and Countdown",
+      "notes": "Pepito delivers the official sign-on and countdown before Case Blackwell opens the shortened broadcast."
+    },
+    {
+      "start": "08:08",
+      "end": "17:55",
+      "canonical_segment": "Banter",
+      "title": "Quick Stream Housekeeping and Control-Room Banter",
+      "notes": "Case discusses the compressed schedule, Friday telethon, call-in options, follower push, and desk chatter with Chet."
+    },
+    {
+      "start": "17:55",
+      "end": "23:01",
+      "canonical_segment": "News",
+      "title": "Anthropic IPO and AI Market Coverage",
+      "notes": "Case reads headlines on Anthropic's IPO, SpaceX's market cap, and speculation around AI executives."
+    },
+    {
+      "start": "23:01",
+      "end": "27:53",
+      "canonical_segment": "News",
+      "title": "Chat News: GTA 6 Birdwatching and Player Culture",
+      "notes": "Case covers GTA 6 wildlife tracking, personal gaming habits, and chat reactions."
+    },
+    {
+      "start": "27:53",
+      "end": "30:49",
+      "canonical_segment": "News",
+      "title": "OpenAI Board Member Warns of AI Risk",
+      "notes": "Case reports on an OpenAI board member's coin-flip warning and mocks speculative AI coverage."
+    },
+    {
+      "start": "30:49",
+      "end": "31:56",
+      "canonical_segment": "News",
+      "title": "Waymo Suspends Freeway Rides",
+      "notes": "Case covers California's freeway ban and Waymo's temporary restriction."
+    },
+    {
+      "start": "31:56",
+      "end": "33:46",
+      "canonical_segment": "News",
+      "title": "GTA 6 Prostitute Feature Removed",
+      "notes": "Case explains Rockstar's rationale for removing prostitutes from GTA 6."
+    },
+    {
+      "start": "33:46",
+      "end": "36:16",
+      "canonical_segment": "News",
+      "title": "YouTube Co-View Counting Shake-Up",
+      "notes": "Case discusses YouTube's estimated co-view metric and its implications."
+    },
+    {
+      "start": "36:16",
+      "end": "40:51",
+      "canonical_segment": "News",
+      "title": "Missing Girl Found Through Among Us",
+      "notes": "Case reports on a teen's rescue after a video-game contact alerted authorities."
+    },
+    {
+      "start": "40:51",
+      "end": "51:22",
+      "canonical_segment": "At the Movies",
+      "title": "Rapid Trailer Block",
+      "notes": "Trent joins Case for three quick trailer reviews under time pressure."
+    },
+    {
+      "start": "51:22",
+      "end": "53:02",
+      "canonical_segment": "News",
+      "title": "Sign-Off and Raid Wrap-Up",
+      "notes": "Case and Trent close the broadcast with final plugs and a raid handoff."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Pepito",
+      "notes": "Pepito opens the broadcast with the official countdown and sign-on.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Case Blackwell",
+      "notes": "Case anchors the compressed news and trailer rundown while promoting the Friday telethon.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Chet",
+      "notes": "Chet appears at the desk to spar with Case over the call-in lineup and donation push.",
+      "canonical_name": "Chet",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Trent",
+      "notes": "Trent joins the trailer block and defends his youthful correspondent status.",
+      "canonical_name": "Trent",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "No Breaks November",
+      "beat": "2026-11-18 [08:48] Case confirms the No Breaks November commitment remains active despite a shortened stream.",
+      "timestamp": "08:48"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "08:48",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell confirms the No Breaks November commitment remains active despite a shortened stream.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News delivered a compressed broadcast anchored by Case Blackwell, with Pepito opening the countdown and Chet briefly joining the desk. The rundown covered AI market news, GTA 6 features, Waymo's freeway suspension, YouTube co-view metrics, and a missing-person case solved through Among Us. Trent joined for a rapid trailer block before the network closed with a raid handoff.",
+  "_meta": {
+    "vod_id": "2932924093",
+    "model": "baidu/ernie-5.5-flash-preview:free",
+    "provider": "openrouter",
+    "prompt_chars": 55176,
+    "approx_prompt_tokens": 13794,
+    "transcript_lines": 120
+  }
+}

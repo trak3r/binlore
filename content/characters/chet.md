@@ -43,6 +43,7 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-18|2026-11-18]] | Chet appears at the desk to spar with Case over the call-in lineup and donation push. |
 | [[episodes/2026-11-16|2026-11-16]] | Confirmed back from the void while still radiating core energy that had to be dialed down on air. |
 | [[episodes/2026-11-12-2927191605|2026-11-12]] | Called in for the failed news desk, only to appear 'invisible' and stranded in a tiny green-room monitor. |
 | [[episodes/2026-11-07-2922559914|2026-11-07]] | science correspondent. |
@@ -62,13 +63,13 @@ The [[../segments/chet-guy-the-science-eyes|Chet Guy the Science Eyes]] desk is 
 | [[episodes/2026-05-02|2026-05-02]] | science correspondent. |
 | [[episodes/2026-05-01|2026-05-01]] | science correspondent. |
 | [[episodes/2026-04-29|2026-04-29]] | science correspondent. |
-| [[episodes/2026-04-11|2026-04-11]] | science correspondent. |
 
 <details>
-<summary>Earlier appearances (100)</summary>
+<summary>Earlier appearances (101)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-04-11|2026-04-11]] | science correspondent. |
 | [[episodes/2026-04-09|2026-04-09]] | science correspondent. |
 | [[episodes/2026-04-01|2026-04-01]] | science correspondent. |
 | [[episodes/2026-03-27|2026-03-27]] | science correspondent. |

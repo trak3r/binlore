@@ -47,6 +47,7 @@ The commitment quickly became a running bit. Case slams a "No Breaks November" g
 | [[../episodes/2026-11-15-2930043990|2026-11-15]] [9:01] | [09:01] Case confirms the Sunday broadcast remains part of No Breaks November despite a scheduled collaborator's absence. |
 | [[../episodes/2026-11-16|2026-11-16]] [41:55] | [41:55] Case floats a Friday telethon for the Kickstarter launch, citing the month-long no-breaks commitment. |
 | [[../episodes/2026-11-17|2026-11-17]] [9:05] | [09:05] Case anchors the Tuesday edition and promotes the upcoming telethon. |
+| [[../episodes/2026-11-18|2026-11-18]] [8:48] | 2026-11-18 [08:48] Case confirms the No Breaks November commitment remains active despite a shortened stream. |
 
 ## Related Pages
 

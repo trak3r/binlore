@@ -102,5 +102,6 @@ Field correspondent [[../characters/trent|Trent]] — a truant teen of deliberat
 | [[episodes/2026-11-06|2026-11-06]] | 38:56 | Aborted Trent at the Movies / Game Browse: Case solicits co-op horror suggestions for tomorrow; chat recommends dating sims, tactical gay sex dungeon roguelike (Zugs Wang), chair fucking simulator, drug dealer simulator; no trailer reviews conducted. |
 | [[episodes/2026-11-10-2925329547|2026-11-10]] | 55:37 | Trailer Desk: Long Haired Businessmen and The Boy Who Stole Billions: Trent raced through trailers under a no-slowdown order from the control room with Parole Officer Chris supervising and cousin Ten rating films; Ten broke both feet kicking a tree between trailers and the desk never reached a clean handoff. |
 | [[episodes/2026-11-17|2026-11-17]] | 1:48:07 | Trailer Thursday: Case screens trailers for Three Body Problem, a Garfield series, Killdozer, and GPT-6.2, then rates audience excitement. |
+| [[episodes/2026-11-18|2026-11-18]] | 40:51 | Rapid Trailer Block: Trent joins Case for three quick trailer reviews under time pressure. |
 
 See also: [[../characters/trent|Trent]], [[../characters/chris|Chris]], [[index|Broadcast Segments]].
