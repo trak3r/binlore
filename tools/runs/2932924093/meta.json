@@ -1,0 +1,19 @@
+{
+  "vod_id": "2932924093",
+  "title": "Quick Freak Stream",
+  "url": "https://www.twitch.tv/videos/2932924093",
+  "duration_seconds": 3182,
+  "duration": "53:02",
+  "timestamp": 1795046675,
+  "aired_at": "2026-11-19T00:04:35+00:00",
+  "date": "2026-11-18",
+  "ingested_at": "2026-11-19T12:48:19.214257+00:00",
+  "channel": "caseblackwell",
+  "audio_file": "audio.m4a",
+  "whisper_model": "small",
+  "yt_id": "",
+  "yt_url": "",
+  "twitch_id": "2932924093",
+  "twitch_url": "https://www.twitch.tv/videos/2932924093",
+  "catalog_date": "2026-11-18"
+}
