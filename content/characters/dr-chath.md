@@ -36,6 +36,7 @@ Despite his clinical positioning, Dr. Chath is a distinctly minor and highly uno
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-19|2026-11-19]] | Therapist who attempted to counsel Case through stress, jail proclamations, and escalating session chaos. |
 | [[episodes/2026-11-16|2026-11-16]] | Conducted the network's first remote therapy session while mouthed along with his own patient and plugging the Kickstarter. |
 | [[../episodes/2026-06-22|2026-06-22]] | Debut appearance. Conducts a therapy session with Case Blackwell, reading viewer `!h` prompts, attempting the Dougie while standing on his chair, and watching Kendelle drift through the office like a ghost. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of euthanizing Crum, not actively speaking. |

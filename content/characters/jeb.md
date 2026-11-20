@@ -48,6 +48,7 @@ After a vanished stretch of airtime, Jeb came back with a reconstructed face tha
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-19|2026-11-19]] | Instructional host who guided viewers through wood-shop lessons, a Wendy's training rap, garbage-can turkey, and holy water. |
 | [[episodes/2026-11-04|2026-11-04]] | instructional host. |
 | [[episodes/2026-11-02|2026-11-02]] | instructional host. |
 | [[episodes/2026-10-26|2026-10-26]] | instructional host. |
@@ -67,13 +68,13 @@ After a vanished stretch of airtime, Jeb came back with a reconstructed face tha
 | [[episodes/2026-02-10|2026-02-10]] | instructional host. |
 | [[episodes/2026-02-06|2026-02-06]] | instructional host. |
 | [[episodes/2026-01-27|2026-01-27]] | instructional host. |
-| [[episodes/2026-01-24|2026-01-24]] | instructional host. |
 
 <details>
-<summary>Earlier appearances (58)</summary>
+<summary>Earlier appearances (59)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-01-24|2026-01-24]] | instructional host. |
 | [[episodes/2026-01-06|2026-01-06]] | instructional host. |
 | [[episodes/2025-12-19|2025-12-19]] | field correspondent. |
 | [[episodes/2025-12-13|2025-12-13]] | instructional host. |

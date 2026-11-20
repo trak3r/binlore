@@ -75,6 +75,7 @@ While lead anchor [[../characters/case-blackwell|Case Blackwell]] is the most fr
 | [[../episodes/2026-07-11|2026-07-11]] | 1:32:26 | Dr. Chath conducts a therapy and looks-maxing consultation with Case, addressing Case's haircut crisis and Denver travel nightmare while receiving healing affirmations. |
 | [[../episodes/2026-07-17|2026-07-17]] | 1:34:39 | Dr. Chath presides over an advanced military-grade therapy session, reviewing viewer inquiries, Kendelle's visit to the office for sticky rice, and checking Twitch partner viewer metrics before billing $500/hour. |
 | [[episodes/2026-11-16|2026-11-16]] | 1:20:13 | Therapy: Dr. Chath Treats Brandon's Mother: A control-room mix-up leaves Brandon's mother unmuted and far too loud while Dr. Chath sleeps through, then mouths along with, the session; both keep reading the Kickstarter URL into the record. |
+| [[episodes/2026-11-19|2026-11-19]] | 1:02:39 | Therapy: No Breaks November Stress Session: Dr. Chath attempts to counsel Case after the news block, while the session spirals into cannibalistic tangents. |
 
 ## Related Pages
 

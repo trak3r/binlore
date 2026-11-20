@@ -49,6 +49,7 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-19|2026-11-19]] | Debate analyst who opposed retaining prostitutes in GTA 6 and defended the position against Munch. |
 | [[episodes/2026-11-17|2026-11-17]] | Debate analyst who defends apple pie, delivers Thanksgiving rhymes, and unplugs Munch during the segment. |
 | [[episodes/2026-11-16|2026-11-16]] | Never appeared, yet absorbed the blame for the broken point-award system and the entire chat news block. |
 | [[episodes/2026-11-14|2026-11-14]] | Ousted Rennerton mayor turned press secretary who led the jet-ski construction and died repeatedly in the wilderness. |
@@ -68,13 +69,13 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 | [[episodes/2026-10-19|2026-10-19]] | debate analyst. |
 | [[episodes/2026-10-09|2026-10-09]] | debate analyst. |
 | [[episodes/2026-09-25|2026-09-25]] | debate analyst. |
-| [[episodes/2026-09-07|2026-09-07]] | Steps up to face the long-delayed Rock-afire Gorilla execution during the Season 3 finale. Reveals his physical conditioning included swinging 45-pound logs into his groin. Goes "demon mode" in his hell form when the punch lands; the fireball destroys the gorilla and burns Munch into a talking skeleton while Crum survives unscathed, claiming ultimate victory. |
 
 <details>
-<summary>Earlier appearances (214)</summary>
+<summary>Earlier appearances (215)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-09-07|2026-09-07]] | Steps up to face the long-delayed Rock-afire Gorilla execution during the Season 3 finale. Reveals his physical conditioning included swinging 45-pound logs into his groin. Goes "demon mode" in his hell form when the punch lands; the fireball destroys the gorilla and burns Munch into a talking skeleton while Crum survives unscathed, claiming ultimate victory. |
 | [[episodes/2026-09-04|2026-09-04]] | Takes the debate desk following the botched occult ritual, temporarily disoriented into believing he has swapped identities with Munch. Employs archaic slang ('japs' for mischief) and prepares for his scheduled Monday robotic gorilla encounter. |
 | [[episodes/2026-08-26|2026-08-26]] | Serves as a self-described Democratic Party representative but balks at endorsing Mamdani; ultimately pressured into endorsing Munchcut for mayor. Attempts to defer the robotic gorilla execution with iron armor. |
 | [[episodes/2026-08-19|2026-08-19]] | Senior debate analyst who wanders into the news desk to compare himself to a bald mystic and claim proprietary ownership over an AI urine company concept. |

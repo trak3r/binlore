@@ -35,6 +35,7 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-19|2026-11-19]] | In-studio contributor whose exploded hard-boiled egg injury and follower push shaped the pre-show conversation. |
 | [[episodes/2026-11-17|2026-11-17]] | In-studio contributor who joins Case for color tests and corrects his description of the couch. |
 | [[episodes/2026-11-15-2930043990|2026-11-15]] | In-studio contributor Kendelle appears during the Sunday stream and reacts to Case's card-game marathon. |
 | [[episodes/2026-11-14|2026-11-14]] | In-studio contributor and gaming partner who made a brief cameo in the Rennerton woods. |
@@ -54,13 +55,13 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 | [[episodes/2026-07-20|2026-07-20]] | In-studio contributor and freelance video editor. Consults Case live on air for legal advice regarding a restrictive freelance video editing contract. |
 | [[episodes/2026-07-17|2026-07-17]] | Brief on-camera walk-through mid-therapy session, stopping by to announce plans to get sticky rice in an hour. |
 | [[episodes/2026-06-27|2026-06-27]] | Mentioned by Blackwell when discussing having to leave the broadcast early for a date night. |
-| [[episodes/2026-06-22|2026-06-22]] | On-air contributor who appears as a ghost during the therapy segment, walking through the studio to her own signature theme music. |
 
 <details>
-<summary>Earlier appearances (194)</summary>
+<summary>Earlier appearances (195)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-06-22|2026-06-22]] | On-air contributor who appears as a ghost during the therapy segment, walking through the studio to her own signature theme music. |
 | [[episodes/2026-06-19|2026-06-19]] | Lead anchor and in-studio contributor who periodically enters the broadcast for signature segments. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in birthday context, not actively speaking. |
 | [[episodes/2026-06-05|2026-06-05]] | Lead anchor and on-air contributor who walks through the studio for signature segments. |

@@ -248,6 +248,7 @@ Substitutes and alters occasionally take a mic — notably [[../characters/scrum
 | [[episodes/2026-11-13|2026-11-13]] | 1:25:45 | Munchin' Chrome: Is Air Traffic Control Overrated?: Munch argues planes are abominations and the money belongs in fast cars; Crum concedes complexity but backs the FAA overhaul. The channel-point prediction fails to resolve, Munch refuses to touch the touchscreen with skeleton fingers, and the pot is finally awarded to Munch. |
 | [[episodes/2026-11-16|2026-11-16]] | 1:09:09 | Debate Demanded: Capital D Debate: Munch bursts out from under the desk and debates Case over whether 'debate' deserves a capital D; scoring stalls until chat supplies the manual prediction workaround. |
 | [[episodes/2026-11-17|2026-11-17]] | 1:31:12 | Pumpkin Pie vs Apple Pie: Munch and Crum debate pumpkin pie versus apple pie, exchange threats, and perform rhymes over a beat before the segment wraps. |
+| [[episodes/2026-11-19|2026-11-19]] | 1:19:16 | Debate: Should GTA 6 Have Kept Prostitutes?: Munch and Crum argue over whether GTA 6 should retain prostitutes, with Munch defending the mechanic and Crum opposing it. |
 
 ## Related Coverage
 

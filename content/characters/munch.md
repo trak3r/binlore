@@ -62,6 +62,7 @@ Since [[../episodes/2026-09-07|2026-09-07]], Munch has been a living, talking sk
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-19|2026-11-19]] | Debate analyst who argued that GTA 6 should retain prostitutes and clashed with Crum over game violence. |
 | [[episodes/2026-11-17|2026-11-17]] | Skeleton debate analyst who defends pumpkin pie, threatens chat with lawsuits, and claims infinite stamina. |
 | [[episodes/2026-11-16|2026-11-16]] | Emerged from under the desk to argue for capital-D Debate and then lost the points call. |
 | [[episodes/2026-11-13|2026-11-13]] | Won the air traffic control debate on an abolish-all-planes platform and collected the channel-point pot. |
@@ -81,13 +82,13 @@ Since [[../episodes/2026-09-07|2026-09-07]], Munch has been a living, talking sk
 | [[episodes/2026-09-07|2026-09-07]] | Oversees the long-delayed Rock-afire Gorilla execution against Crum. Caught in the fireball when the punch backfires and Crum goes "demon mode," incinerating him into a living, talking skeleton. Insists his skeletal form highlights superior bone structure, debates Crum on Crayola vs. RoseArt, and promises to haunt the desk indefinitely. |
 | [[episodes/2026-08-26|2026-08-26]] | Defends his candidacy as a superior mayor to Mamdani, proclaims himself the debate winner, and argues that Crum must endure a "reverse pardon" resulting in two punches. |
 | [[episodes/2026-08-14|2026-08-14]] | Senior Debate Analyst. Champions keeping Hasan Piker's stream hard-hitting rather than adding character work. Coins the word 'trime' (slime + crime) to describe Crum's debating style. Reacts explosively when Crum steals the points button and outro music cue. |
-| [[episodes/2026-08-08|2026-08-08]] | Senior debate analyst. Picks Andrew Garfield as the best Spider-Man citing his 'gentle eyes' and 'long slender bod'. Torments Crum over his emancipated daughter and the impending gorilla punch. |
 
 <details>
-<summary>Earlier appearances (199)</summary>
+<summary>Earlier appearances (200)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-08-08|2026-08-08]] | Senior debate analyst. Picks Andrew Garfield as the best Spider-Man citing his 'gentle eyes' and 'long slender bod'. Torments Crum over his emancipated daughter and the impending gorilla punch. |
 | [[episodes/2026-08-04|2026-08-04]] | Senior debate analyst. Argues that refusing medical treatment for the ankle is brave, claims to maintain a private medical team to deprive others of healthcare, and promotes silver supplements and 'peptide spells' before exiting to remove his hearing aids. |
 | [[episodes/2026-07-16|2026-07-16]] | Senior debate analyst argues that Trump won the 2020 election by retaining his 'integrity,' using bizarre nipple-spike analogies. |
 | [[episodes/2026-06-29|2026-06-29]] | Mentioned as a possible matching shirt for the upcoming BIN merch drop ('a Munch shirt and a Crum shirt'). |

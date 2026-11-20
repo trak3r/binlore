@@ -1,0 +1,183 @@
+{
+  "segments": [
+    {
+      "start": "00:08",
+      "end": "00:52",
+      "canonical_segment": "News",
+      "title": "Cold Open: Freak Week Grand Theft IPO",
+      "notes": "Pepito delivers the top-of-hour sign-on and countdown into the live broadcast."
+    },
+    {
+      "start": "00:52",
+      "end": "24:13",
+      "canonical_segment": "Banter",
+      "title": "Pre-News Desk Chatter: GTA 6, Egg Burn, and Follower Push",
+      "notes": "Case and Kendelle discuss GTA 6, her microwaved-egg injury, follower goals, and Case's ability to stream new games."
+    },
+    {
+      "start": "24:13",
+      "end": "43:58",
+      "canonical_segment": "News",
+      "title": "Anthropic IPO and Elon Musk Coverage",
+      "notes": "Case examines Anthropic's market debut and Musk's complaints about political donations and public commentary."
+    },
+    {
+      "start": "43:58",
+      "end": "55:36",
+      "canonical_segment": "News",
+      "title": "Chat News: Matrix Rights, JD Vance, Fiona, and Palmer Lucky",
+      "notes": "Case moves through viewer-sourced headlines involving the Wachowskis, JD Vance, a hippo, and Palmer Lucky."
+    },
+    {
+      "start": "55:36",
+      "end": "01:02:39",
+      "canonical_segment": "News",
+      "title": "Palmer Lucky's Sovereign City and Straight-to-Jail Rant",
+      "notes": "Case details Palmer Lucky's offshore sovereign-state proposal and escalates his repeated jail proclamations."
+    },
+    {
+      "start": "01:02:39",
+      "end": "01:19:16",
+      "canonical_segment": "Therapy",
+      "title": "Therapy: No Breaks November Stress Session",
+      "notes": "Dr. Chath attempts to counsel Case after the news block, while the session spirals into cannibalistic tangents."
+    },
+    {
+      "start": "01:19:16",
+      "end": "01:31:46",
+      "canonical_segment": "Munch & Crum",
+      "title": "Debate: Should GTA 6 Have Kept Prostitutes?",
+      "notes": "Munch and Crum argue over whether GTA 6 should retain prostitutes, with Munch defending the mechanic and Crum opposing it."
+    },
+    {
+      "start": "01:31:46",
+      "end": "01:33:00",
+      "canonical_segment": "Banter",
+      "title": "Control-Room Transition",
+      "notes": "The broadcast resets between the debate desk and the wood shop."
+    },
+    {
+      "start": "01:33:00",
+      "end": "01:42:45",
+      "canonical_segment": "How To with Jeb",
+      "title": "How To: Wood Shop, Garbage-Can Turkey, and Holy Water",
+      "notes": "Jeb Nogget presents instructional clips and domestic woodworking lore with his father in the wood."
+    },
+    {
+      "start": "01:42:45",
+      "end": "01:54:13",
+      "canonical_segment": "DJ Newsic",
+      "title": "DJ Newsic: Penile-Enhancement News Finale",
+      "notes": "DJ Newsic performs musical news songs about penile enhancement and brings on a guest for the closing number."
+    },
+    {
+      "start": "01:54:13",
+      "end": "01:56:59",
+      "canonical_segment": "News",
+      "title": "Sign-Off and Handoff",
+      "notes": "Case wraps Freak Week, reminds viewers of tomorrow's noon stream, and hands off the broadcast."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "notes": "Anchor who led the broadcast through IPO coverage, therapy, debate handoffs, and sign-off.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Pepito",
+      "notes": "Executive producer who delivered the cold-open sign-on and countdown.",
+      "canonical_name": "Pepito",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "notes": "In-studio contributor whose exploded hard-boiled egg injury and follower push shaped the pre-show conversation.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Dr. Chath",
+      "notes": "Therapist who attempted to counsel Case through stress, jail proclamations, and escalating session chaos.",
+      "canonical_name": "Dr. Chath",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Munch",
+      "notes": "Debate analyst who argued that GTA 6 should retain prostitutes and clashed with Crum over game violence.",
+      "canonical_name": "Munch",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "notes": "Debate analyst who opposed retaining prostitutes in GTA 6 and defended the position against Munch.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Jeb Nogget",
+      "notes": "Instructional host who guided viewers through wood-shop lessons, a Wendy's training rap, garbage-can turkey, and holy water.",
+      "canonical_name": "Jeb Nogget",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "DJ Newsic",
+      "notes": "Resident musical performer who sang penile-enhancement news and closed the broadcast with a guest-assisted finale.",
+      "canonical_name": "DJ Newsic",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "No Breaks November",
+      "beat": "[01:02:39] Case confirms that No Breaks November remains in effect before entering the therapy desk.",
+      "timestamp": "01:02:39"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "11:04",
+      "entity": "Kendelle",
+      "fact": "Kendelle suffered burns to her lip, tongue, and mouth roof after a microwaved hard-boiled egg exploded.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "42:49",
+      "entity": "Case Blackwell",
+      "fact": "Case Blackwell disclosed multiple jaw procedures, removing and adding material to create a sharp hinge-like jawline.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "01:24:37",
+      "entity": "Crum",
+      "fact": "Crum stated his hair loss began at age 14 and framed his baldness as evidence of high testosterone.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News marked Freak Week with a countdown from Executive Producer Pepito, then Case Blackwell led coverage of the Anthropic IPO, Elon Musk's political grievances, JD Vance's aviation comments, and Palmer Lucky's proposed sovereign city. The broadcast later moved through Dr. Chath's therapy desk, a Munch and Crum debate over GTA 6, Jeb Nogget's instructional hour, and DJ Newsic's musical finale. No Breaks November remained in force as the network signed off.",
+  "_meta": {
+    "vod_id": "2934400660",
+    "model": "baidu/ernie-5.5-flash-preview:free",
+    "provider": "openrouter",
+    "prompt_chars": 104357,
+    "approx_prompt_tokens": 26089,
+    "transcript_lines": 284
+  }
+}

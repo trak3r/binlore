@@ -43,6 +43,7 @@ His signature broadcast mission is "singing the news"—specifically fast-tracki
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2026-11-19|2026-11-19]] | Resident musical performer who sang penile-enhancement news and closed the broadcast with a guest-assisted finale. |
 | [[episodes/2026-07-23|2026-07-23]] | Broadcast debut. Emerged from under the desk with electric blue hair and sunglasses, laid down techno tracks, and sang auto-tuned news regarding South Korean insect culinary regulations. |
 | [[episodes/2026-06-19|2026-06-19]] | Signature closing segment performing auto-tuned techno songs while presenting updated statistics and concluding the broadcast. |
 | [[episodes/2026-06-15|2026-06-15]] | Mentioned in context of raid, not actively speaking. |
@@ -62,13 +63,13 @@ His signature broadcast mission is "singing the news"—specifically fast-tracki
 | [[episodes/2024-11-06-WxVZ5zuziq8|2024-11-06]] | musical finale host. |
 | [[episodes/2024-09-20|2024-09-20]] | musical news correspondent. |
 | [[episodes/2024-08-13|2024-08-13]] | musical finale host. |
-| [[episodes/2024-08-07|2024-08-07]] | musical finale host. |
 
 <details>
-<summary>Earlier appearances (12)</summary>
+<summary>Earlier appearances (13)</summary>
 
 | Episode | Notes |
 |---|---|
+| [[episodes/2024-08-07|2024-08-07]] | musical finale host. |
 | [[episodes/2024-07-20|2024-07-20]] | Debuts auto-tune voice issues, debates Country Bear on cinnamon vs hawk tuah, loses on country logic, eyes eaten mid-debate. |
 | [[episodes/2024-05-02|2024-05-02]] | musical finale host. |
 | [[episodes/2024-04-04|2024-04-04]] | musical host. |
