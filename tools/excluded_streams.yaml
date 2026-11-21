@@ -5,6 +5,11 @@
 # After adding ids, run `./binlore expunge` to remove anything already in the wiki.
 
 streams:
+  - date: 2026-11-20
+    title: Freak Street Kickstarter Telethon!
+    reason: Kickstarter promo telethon for 13 Freak Street; not a BIN show.
+    ids: ["2935307859"]
+
   - date: 2026-10-31
     title: Halloween Freaktacular
     reason: Case and a friend promoting another project (Kickstarter); not a BIN show.

@@ -35,7 +35,6 @@ Blackwell frequently shares personal life updates involving Kendelle—including
 
 | Episode | Notes |
 |---|---|
-| [[episodes/2026-11-20|2026-11-20]] | Swept the set, anchored the phone lines for eleven minutes, and played GTA 6 on camera while Blackwell went off to shave. |
 | [[episodes/2026-11-19|2026-11-19]] | In-studio contributor whose exploded hard-boiled egg injury and follower push shaped the pre-show conversation. |
 | [[episodes/2026-11-17|2026-11-17]] | In-studio contributor who joins Case for color tests and corrects his description of the couch. |
 | [[episodes/2026-11-15-2930043990|2026-11-15]] | In-studio contributor Kendelle appears during the Sunday stream and reacts to Case's card-game marathon. |

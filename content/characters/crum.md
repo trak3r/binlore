@@ -49,7 +49,6 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 
 | Episode | Notes |
 |---|---|
-| [[episodes/2026-11-20|2026-11-20]] | Joined remotely from a rented call center in camouflage headphones, received no calls, and closed his shift with a freestyle subscriber rap. |
 | [[episodes/2026-11-19|2026-11-19]] | Debate analyst who opposed retaining prostitutes in GTA 6 and defended the position against Munch. |
 | [[episodes/2026-11-17|2026-11-17]] | Debate analyst who defends apple pie, delivers Thanksgiving rhymes, and unplugs Munch during the segment. |
 | [[episodes/2026-11-16|2026-11-16]] | Never appeared, yet absorbed the blame for the broken point-award system and the entire chat news block. |
@@ -297,7 +296,6 @@ Together with Munch, their rivalry drives the Crum Punch trilogy—[[../storylin
 ## Notable moments
 
 
-- **[6:10:28]** ([[episodes/2026-11-20|2026-11-20]]): Crum declared himself "a new guy" working on himself and stated he cannot return to hell without dying again.
 - **[1:21:07]** ([[episodes/2026-11-10-2925329547|2026-11-10]]): Crum filed suit against Munch and chat as a single entity, seeking the return of all debate points he transferred to call off the gorilla punch.
 - **[15:07]** ([[episodes/2026-11-06|2026-11-06]]): Crum's lawyer identified as same counsel from Crum Dick Punch court proceedings; Case characterizes the sentence as "a light sentence."
 - **[1:19:48]** ([[episodes/2026-11-05|2026-11-05]]): Admits Rennerton crimes: 'turned my fucking elementary schools into data centers and I used my children as processing chips... filled the heads of kids with a bunch of computers' (claims they were zombies).
