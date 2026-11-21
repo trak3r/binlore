@@ -58,5 +58,6 @@ Live gameplay on the main broadcast by Case Blackwell, in-studio talent and gues
 | [[episodes/2026-11-09|2026-11-09]] | 1:55:00 | Shift at Midnight — Blood Moon & New Entity Type: Blood moon guarantees entity attack; emotion-scanning mechanic introduced (emotoscope); new creature: tall, fast, strong, freezes when observed; team boards doors, sets traps, uses grenades and Molotovs; Crum survives grenade blast; shift ends with near-perfect night but one human casualty. |
 | [[episodes/2026-11-13|2026-11-13]] | 10:12 | Friend Slap: The Patreon Make-Good: Blackwell and Kendelle run Friend Slap as a substitute for the ruined patron recording; Blackwell insists the stakes require her in the room. |
 | [[episodes/2026-11-15-2930043990|2026-11-15]] | 29:15 | Dread Mode Slay the Spire 2: Act I Tutorial: Case teaches chat the new Fool deck, Dread Mode boss buffs, and early deck-building while climbing Act I. |
+| [[episodes/2026-11-20|2026-11-20]] | 2:37:41 | Kendelle Plays GTA 6 While the Anchor Shaves: Blackwell points the camera at Kendelle and leaves to shave; she narrates a midlife-crisis character build, a furniture-moving errand, a prison-girlfriend pickup, and doctor's orders against snacking. |
 
 See also: [[cryptozeus|CryptoZeu$]], [[banter|Banter]], [[index|Broadcast Segments]].

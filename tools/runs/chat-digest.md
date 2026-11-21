@@ -2,6 +2,24 @@
 
 Wiki requests and questions from every archived Twitch chat (and the broadcast itself), plus on-air shout-outs of the wiki editor, newest episode first. Plain mentions are in each episode's report.
 
+## [2026-11-20](../../content/episodes/2026-11-20.md) ([full report](2935307859/chat-report.md))
+
+### [1:30:16](https://www.twitch.tv/videos/2935307859?t=1h29m56s) · question · JonMatteson: will there be a lore library mention?
+
+> **On air (1:29:47):** Cake the UCB show tween fest as well as Nathan for you comedy bang bang and the Eric Andre show So very lucky to have Jace interested then there's all these other guys and Bill is on He's currently on hiatus, so he might not be available for the project But we put him in here just for fun He's not he's sorry. He's on suspension. He's on suspension right now because of the things he said about Tim But he is currently on the Kickstarter just to cover our bases And we never get John oh
+
+- `1:29:18` chashater99: vod or number
+- `1:29:23` JonMatteson: who is the cigarette sandwich member who was killed that you all never talk about?
+- `1:29:28` thefungahdownungah: Bill
+- `1:29:41` totallytimlol: @JonMatteson griffin
+- `1:29:48` JonMatteson: wow.... completely skipped that other guy.
+- `1:30:06` thefungahdownungah: Griffin died live onstage at IO in 2018
+- **`1:30:16` JonMatteson: will there be a lore library mention?**
+- `1:30:20` chashater99: suspended perve
+- `1:30:22` LiveNSleazy: 424-253-6676
+- `1:30:24` BearZurkerBear: CoolCat
+- `1:30:39` LizardWizardsBlizzard: Jonis
+
 ## [2026-11-17](../../content/episodes/2026-11-17.md) ([full report](2931944718/chat-report.md))
 
 ### [0:58:05](https://www.twitch.tv/videos/2931944718?t=0h57m45s) · question · on air · on air: I knew it was something like that. See? I gotta bin wiki up here too.

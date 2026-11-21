@@ -1,0 +1,249 @@
+{
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:05:20",
+      "canonical_segment": "Banter",
+      "title": "Cold Open: Three Wrong Numbers",
+      "notes": "Blackwell opens the telethon on a laptop that keeps crashing the feed, abandons the video-call room entirely, and reads the hotline out wrong twice before landing on 424-253-6676."
+    },
+    {
+      "start": "00:05:20",
+      "end": "00:12:05",
+      "canonical_segment": "Banter",
+      "title": "The 13 Freak Street Pledge Ladder",
+      "notes": "Blackwell walks the live Kickstarter page at 19 backers and $2,340, rolls the pre-launch pitch video, and climbs the tier ladder from a $25 special thanks to the $5,000 original sketch."
+    },
+    {
+      "start": "00:12:05",
+      "end": "00:34:18",
+      "canonical_segment": "Banter",
+      "title": "Analog Lines Only: Bill Stern and Bang the Pot",
+      "notes": "A caller's video link floods the feed with noise and the desk goes phone-only; Bill calls in on potty training, Charles reports sinus surgery, and Blackwell builds a donation-update graphic live before chat adopts a pot and pan as the alert bell."
+    },
+    {
+      "start": "00:34:18",
+      "end": "00:47:29",
+      "canonical_segment": "Banter",
+      "title": "Incentive Escalation",
+      "notes": "Blackwell floats olive oil foot, thirty eggs in thirty seconds, a chat-voted beard at $5,000 and eyebrow work at $7,000, while Tim recounts his rejected Jimmy Fallon egg auditions and Kendelle sweeps through frame."
+    },
+    {
+      "start": "00:47:29",
+      "end": "00:52:26",
+      "canonical_segment": "Banter",
+      "title": "Crum Reports From the Rented Call Center",
+      "notes": "Debate analyst Crum joins on a low-latency feed in camouflage headphones, claims a $50,000 call-center rental, and spends the block complaining that Blackwell is not forwarding him any calls."
+    },
+    {
+      "start": "00:52:26",
+      "end": "01:04:22",
+      "canonical_segment": "Banter",
+      "title": "Kendelle Anchors the Phones",
+      "notes": "Blackwell hands Kendelle the headset and leaves the desk; she fields Bill's call, issues a seven-stage apology procedure, confesses to binocular surveillance of the neighbors, and holds the line until Blackwell returns."
+    },
+    {
+      "start": "01:04:22",
+      "end": "01:31:06",
+      "canonical_segment": "Banter",
+      "title": "Ligotti, Tolstoy, and the Kickstarter Math",
+      "notes": "Blackwell takes Tim's apology call and Andy Bulldock's Thomas Ligotti report, cites the statistic that pledges split 50-60 percent across the first and last 72 hours, and runs the cast and crew roster including Fiona Nova and Jace Armstrong."
+    },
+    {
+      "start": "01:31:06",
+      "end": "01:46:07",
+      "canonical_segment": "Banter",
+      "title": "Odie, Claire, and Two Fraud Reports",
+      "notes": "Odie calls in as the group's secret hidden member and confirms he has seen everyone's anatomy; Claire reports a $790 card fraud pulled from her purse at a stand-up show, and Blackwell reveals the Kickstarter's own debit card was compromised before it arrived."
+    },
+    {
+      "start": "01:46:07",
+      "end": "02:20:23",
+      "canonical_segment": "Banter",
+      "title": "The Pants-Shitting Zone",
+      "notes": "Three Scary Stories to Tell in the Dark readings — The Thing, The Green Ribbon and The Red Spot — split by a call from Simity Sam and capped with a scroll through the site's 2016 comment section."
+    },
+    {
+      "start": "02:20:23",
+      "end": "02:28:42",
+      "canonical_segment": "Banter",
+      "title": "Sushi for a Low-FODMAP Desk",
+      "notes": "The desk hunts for food Kendelle can actually eat, settles on a Kaiyu Sushi bento, and takes calls on the order while Blackwell promises Tim a baked salmon roll."
+    },
+    {
+      "start": "02:28:42",
+      "end": "02:37:41",
+      "canonical_segment": "Banter",
+      "title": "Chat Votes on the Anchor's Face",
+      "notes": "The total clears $5,000 and Blackwell opens a Twitch poll on his facial hair; eighty-stash, lightning sideburns, chin strap and the Tobias Beacher split the vote before the Beacher wins."
+    },
+    {
+      "start": "02:37:41",
+      "end": "02:45:55",
+      "canonical_segment": "Gaming",
+      "title": "Kendelle Plays GTA 6 While the Anchor Shaves",
+      "notes": "Blackwell points the camera at Kendelle and leaves to shave; she narrates a midlife-crisis character build, a furniture-moving errand, a prison-girlfriend pickup, and doctor's orders against snacking."
+    },
+    {
+      "start": "02:45:55",
+      "end": "02:59:04",
+      "canonical_segment": "Banter",
+      "title": "The Reveal and the Headshot Campaign",
+      "notes": "Blackwell returns with patchy lightning sideburns; Claire calls to declare the look proof of untapped facial range and demands professional headshots, Chuck calls to push the $40,000, and Kendall's eyebrow-plucking grievance is aired."
+    },
+    {
+      "start": "02:59:04",
+      "end": "03:24:06",
+      "canonical_segment": "Banter",
+      "title": "Tim Lanthier Drives In; Power Half Hour Playback",
+      "notes": "Tim calls from a backed-up road, Blackwell leaves for the sushi order, and Tim holds the line to chat with a driving song and a financial-despair pitch until the decade-old Power Half Hour video plays over the anchor's lunch."
+    },
+    {
+      "start": "03:24:06",
+      "end": "03:46:42",
+      "canonical_segment": "Banter",
+      "title": "Evil Blood Money and the Cyber Truck Convoy",
+      "notes": "Chuck calls to offer donations from corrupt friends, a voicemail lands as fifteen seconds of silence, Blackwell tests a dead zone in his kitchen, and Kendall's on-screen crime spree is covered play-by-play."
+    },
+    {
+      "start": "03:46:42",
+      "end": "04:24:37",
+      "canonical_segment": "Banter",
+      "title": "The Cloud Costume Theory",
+      "notes": "Tim arrives in studio and refuses to speak until the number moves, then argues SNL lifted his Halloween cloud costume; the desk debates bit theft, GTA NPC dialogue lines, and the sushi and Thai order."
+    },
+    {
+      "start": "04:24:37",
+      "end": "04:47:46",
+      "canonical_segment": "Banter",
+      "title": "The Slythery D, The Big Toe, and the Handlebar",
+      "notes": "Tim reads The Slythery D, Blackwell reads The Big Toe, the total clears $6,000, and the anchor trims into a handlebar mustache before Tim leaves for his improv show."
+    },
+    {
+      "start": "04:47:46",
+      "end": "05:14:09",
+      "canonical_segment": "Banter",
+      "title": "Sonic Literatica",
+      "notes": "A punishment is administered to the anchor off-camera, a donation pins the total at $69, and Propaganda calls to request a Mandarin-signed Blu-ray and a censored reading of Sonic fan fiction."
+    },
+    {
+      "start": "05:14:09",
+      "end": "05:42:10",
+      "canonical_segment": "Banter",
+      "title": "Haunted Trousers and The Dream",
+      "notes": "Bray reports a neighborhood overrun with ducks; a paranormal researcher classifies the glowing disembodied trousers he met on his street as a category-three ecto-beam; Blackwell finishes The Dream and Matt Liddell calls asking for Crum."
+    },
+    {
+      "start": "05:42:10",
+      "end": "05:50:05",
+      "canonical_segment": "Banter",
+      "title": "Crum's Freestyle Thank-You",
+      "notes": "Crum abandons the call-center bit for a rapid-fire subscriber rap over a control-room beat, and a $500 donation pushes the total past $7,400."
+    },
+    {
+      "start": "05:50:05",
+      "end": "06:21:37",
+      "canonical_segment": "Banter",
+      "title": "Wordle, Bonsai Bullfrog, and the Cat Cameo",
+      "notes": "A first-time GTA viewer calls for a full explainer, Blackwell recaps the tiers and plays Wordle, Bonsai Bullfrog grills Crum about Munch and the Rock-afire ape, and the cats are coaxed out with churu."
+    },
+    {
+      "start": "06:21:37",
+      "end": "06:26:01",
+      "canonical_segment": "News",
+      "title": "Sign-Off and the Freak Street Raid",
+      "notes": "Blackwell closes at $7,469, sets $10,000 inside 72 hours as the target, pledges to be back the following day with Sunday off, and raids out with a request for project shout-outs."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Case Blackwell",
+      "notes": "Anchored the full six-hour telethon from the living-room couch, working a single phone line, a crashing laptop, and a chat poll on his own face.",
+      "canonical_name": "Case Blackwell",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Kendelle",
+      "notes": "Swept the set, anchored the phone lines for eleven minutes, and played GTA 6 on camera while Blackwell went off to shave.",
+      "canonical_name": "Kendelle",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    },
+    {
+      "name": "Crum",
+      "notes": "Joined remotely from a rented call center in camouflage headphones, received no calls, and closed his shift with a freestyle subscriber rap.",
+      "canonical_name": "Crum",
+      "speaking": true,
+      "timestamps": [],
+      "confidence": 0.8
+    }
+  ],
+  "storylines": [
+    {
+      "storyline": "No Breaks November",
+      "beat": "[06:21:37] Case closed the Freak Street telethon at $7,469 and confirmed he would be back on stream the next day, taking Sunday off.",
+      "timestamp": "06:21:37"
+    },
+    {
+      "storyline": "Crum Dick Punch",
+      "beat": "[06:09:26] Crum answered on air for killing Munch and skinning the Rock-afire ape, arguing that Munch \"intentionally became a skeleton\" and that chat had voted for his own head to explode.",
+      "timestamp": "06:09:26"
+    }
+  ],
+  "lore_notes": [
+    {
+      "timestamp": "00:05:20",
+      "entity": "",
+      "fact": "Case launched the 13 Freak Street Kickstarter: a 13-short horror-comedy anthology from sketch group Cigarette Sandwich, hosted by John Madison, directed by Fiona Nova, produced by Jace Armstrong, with a $40,000 goal and a $5,000 original-sketch tier.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:21:20",
+      "entity": "Kendelle",
+      "fact": "Kendelle's on-air dietary restrictions logged as low-FODMAP, gluten intolerance, and no sesame.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "02:45:55",
+      "entity": "",
+      "fact": "Case debuted the chat-voted Tobias Beacher beard with botched lightning sideburns after the telethon passed $5,000.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "04:39:52",
+      "entity": "",
+      "fact": "Case traded the beard for a handlebar mustache at $6,000, noting it matched his father James's at 40.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "06:10:28",
+      "entity": "Crum",
+      "fact": "Crum declared himself \"a new guy\" working on himself and stated he cannot return to hell without dying again.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "06:11:31",
+      "entity": "Crum",
+      "fact": "Crum confirmed he is legally obligated to keep accepting money from a political PAC for the next ten years.",
+      "confidence": 0.7
+    },
+    {
+      "timestamp": "06:12:03",
+      "entity": "Crum",
+      "fact": "Crum confirmed he is suing chat; viewers began organizing a class action against him.",
+      "confidence": 0.7
+    }
+  ],
+  "episode_summary": "Barely Informed News anchor Case Blackwell hosted a six-hour Freak Street telethon from his living-room couch, working a single phone line to raise $40,000 for Cigarette Sandwich's 13-short horror anthology 13 Freak Street. The broadcast was hobbled by a crashing laptop, two wrong hotline numbers, and a remote call-center appearance by debate analyst Crum, who fielded no calls across four hours of waiting. By sign-off the network had raised $7,469, the anchor had surrendered his beard to a chat poll, and the desk closed on a handlebar mustache.",
+  "_meta": {
+    "vod_id": "2935307859",
+    "model": "baidu/ernie-5.5-flash-preview:free",
+    "provider": "openrouter",
+    "prompt_chars": 291583,
+    "approx_prompt_tokens": 72895,
+    "transcript_lines": 674
+  }
+}

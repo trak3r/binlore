@@ -49,6 +49,7 @@ The commitment quickly became a running bit. Case slams a "No Breaks November" g
 | [[../episodes/2026-11-17|2026-11-17]] [9:05] | [09:05] Case anchors the Tuesday edition and promotes the upcoming telethon. |
 | [[../episodes/2026-11-18|2026-11-18]] [8:48] | 2026-11-18 [08:48] Case confirms the No Breaks November commitment remains active despite a shortened stream. |
 | [[../episodes/2026-11-19|2026-11-19]] [1:02:39] | [01:02:39] Case confirms that No Breaks November remains in effect before entering the therapy desk. |
+| [[../episodes/2026-11-20|2026-11-20]] [6:21:37] | [06:21:37] Case closed the Freak Street telethon at $7,469 and confirmed he would be back on stream the next day, taking Sunday off. |
 
 ## Related Pages
 
